@@ -18,7 +18,7 @@ Returns or sets a  **Long** value that represents the ordinal position of the **
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ An expression that returns a [NavigationModule](./Outlook.NavigationModule.md) object.
 

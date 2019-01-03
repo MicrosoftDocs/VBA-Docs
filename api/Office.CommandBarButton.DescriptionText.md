@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.DescriptionText
 ms.assetid: bc22bef9-e923-40af-296b-959f3f3aeead
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the description for a command bar button control. Read/write.
 
 ## Syntax
 
- _expression_. `DescriptionText`
+_expression_.**DescriptionText**
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value
@@ -35,10 +35,5 @@ The description is not displayed to the user, but it can be useful for documenti
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

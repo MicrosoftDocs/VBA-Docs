@@ -16,9 +16,9 @@ Returns a [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) collect
 
 ## Syntax
 
- _expression_. `MeasuresAdded`
+_expression_. `MeasuresAdded`
 
- _expression_ A variable that represents a 'ModelChanges' object.
+_expression_ A variable that represents a 'ModelChanges' object.
 
 
 ## Property value

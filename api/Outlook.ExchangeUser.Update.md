@@ -18,9 +18,9 @@ Posts a change to the  **[ExchangeUser](Outlook.ExchangeUser.md)** object in the
 
 ## Syntax
 
- _expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
+_expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Parameters

@@ -16,9 +16,9 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
+_expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
 
 
 ## Example

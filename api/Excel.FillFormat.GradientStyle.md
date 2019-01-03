@@ -18,9 +18,9 @@ Returns the gradient style for the specified fill. Read-only  **[MsoGradientStyl
 
 ## Syntax
 
- _expression_. `GradientStyle`
+_expression_. `GradientStyle`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

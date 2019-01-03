@@ -18,9 +18,9 @@ Activates a single cell, which must be inside the current selection. To select a
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

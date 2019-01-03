@@ -16,9 +16,9 @@ Returns whether the slicer or timeline filter state is cleared.  **Boolean**. Re
 
 ## Syntax
 
- _expression_. `FilterCleared`
+_expression_. `FilterCleared`
 
- _expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Property value

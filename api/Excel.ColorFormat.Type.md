@@ -18,9 +18,9 @@ Returns a  **[MsoColorType](Office.MsoColorType.md)** value that represents the 
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [ColorFormat](Excel.ColorFormat.md) object.
+_expression_ A variable that represents a [ColorFormat](Excel.ColorFormat.md) object.
 
 
 ## See also

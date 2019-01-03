@@ -18,7 +18,7 @@ Returns the list and details of user blogs associated with the specified account
 
 ## Syntax
 
- _expression_. `GetUserBlogs`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_BlogNames()_`, `_BlogIDs()_`, `_BlogURLs()_` )
+_expression_. `GetUserBlogs`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_BlogNames()_`, `_BlogIDs()_`, `_BlogURLs()_` )
 
  _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 

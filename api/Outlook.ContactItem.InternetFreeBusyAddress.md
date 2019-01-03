@@ -18,9 +18,9 @@ Returns or sets a  **String** corresponding to the **Address** box on the **Deta
 
 ## Syntax
 
- _expression_. `InternetFreeBusyAddress`
+_expression_. `InternetFreeBusyAddress`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

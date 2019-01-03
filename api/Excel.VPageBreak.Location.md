@@ -18,9 +18,9 @@ Returns the cell (a **Range** object) that defines the page-break location. Vert
 
 ## Syntax
 
- _expression_. `Location`
+_expression_. `Location`
 
- _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
+_expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
 
 
 ## Example

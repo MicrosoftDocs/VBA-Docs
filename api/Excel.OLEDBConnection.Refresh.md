@@ -18,9 +18,9 @@ Refreshes an OLE DB connection.
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_. `Refresh`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks

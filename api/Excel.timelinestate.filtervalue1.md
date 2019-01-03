@@ -16,9 +16,9 @@ Returns the 1st value associated with the date filter (semantics vary by filter 
 
 ## Syntax
 
- _expression_. `FilterValue1`
+_expression_. `FilterValue1`
 
- _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value

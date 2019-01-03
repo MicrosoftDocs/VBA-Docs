@@ -18,9 +18,9 @@ Expands the drop-down portion of the combo box.
 
 ## Syntax
 
- _expression_. `DropDown`
+_expression_. `DropDown`
 
- _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## Remarks

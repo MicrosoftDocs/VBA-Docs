@@ -18,9 +18,9 @@ Returns  **Null** (**Nothing** in Visual Basic) because the **[ExchangeUser](Out
 
 ## Syntax
 
- _expression_. `GetContact`
+_expression_. `GetContact`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Return value

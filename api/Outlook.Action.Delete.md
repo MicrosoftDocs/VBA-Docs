@@ -18,9 +18,9 @@ Deletes an object from the collection.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## See also

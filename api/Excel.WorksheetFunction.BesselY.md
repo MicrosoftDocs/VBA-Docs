@@ -18,9 +18,9 @@ Returns the Bessel function, which is also called the Weber function or the Neum
 
 ## Syntax
 
- _expression_. `BesselY`( `_Arg1_` , `_Arg2_` )
+_expression_. `BesselY`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

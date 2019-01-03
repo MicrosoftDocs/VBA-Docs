@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.ShortcutText
 ms.assetid: e0c76e70-16db-d3ae-9767-069579c8ea91
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -21,9 +21,9 @@ Gets or sets the shortcut key text displayed next to a  **CommandBarButton** con
 
 ## Syntax
 
- _expression_. `ShortcutText`
+_expression_. `ShortcutText`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks
@@ -44,10 +44,5 @@ MsgBox (CommandBars("Worksheet Menu Bar"). _
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

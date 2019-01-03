@@ -18,9 +18,9 @@ Gets the total count of the process threads that are a part of the specified  **
 
 ## Syntax
 
- _expression_. `ThreadCount`
+_expression_. `ThreadCount`
 
- _expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
+_expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Sets or returns an  **[xlCalculationInterruptKey](Excel.XlCalculationInterruptKe
 
 ## Syntax
 
- _expression_. `CalculationInterruptKey`
+_expression_. `CalculationInterruptKey`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

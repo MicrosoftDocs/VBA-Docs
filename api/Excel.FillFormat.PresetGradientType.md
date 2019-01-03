@@ -18,9 +18,9 @@ Returns the preset gradient type for the specified fill. Read-only  **[MsoPreset
 
 ## Syntax
 
- _expression_. `PresetGradientType`
+_expression_. `PresetGradientType`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

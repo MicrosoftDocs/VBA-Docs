@@ -18,9 +18,9 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [RuleCondition](./Outlook.RuleCondition.md) object.
+_expression_ A variable that represents a [RuleCondition](./Outlook.RuleCondition.md) object.
 
 
 ## See also

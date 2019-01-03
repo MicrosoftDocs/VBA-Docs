@@ -18,9 +18,9 @@ Returns or sets a comma-delimited list of table names or table index numbers whe
 
 ## Syntax
 
- _expression_. `WebTables`
+_expression_. `WebTables`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks

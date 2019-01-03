@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the name suffix (such as Jr., III, or P
 
 ## Syntax
 
- _expression_. `Suffix`
+_expression_. `Suffix`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Selects the object.
 
 ## Syntax
 
- _expression_. `Select`
+_expression_. `Select`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

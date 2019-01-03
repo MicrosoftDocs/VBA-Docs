@@ -18,9 +18,9 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 ## Syntax
 
- _expression_. `UserProperties`
+_expression_. `UserProperties`
 
- _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## Remarks

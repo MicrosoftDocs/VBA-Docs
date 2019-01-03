@@ -18,9 +18,9 @@ Creates a new inspector window.
 
 ## Syntax
 
- _expression_. `Add` `_Item_`
+_expression_. `Add` `_Item_`
 
- _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
+_expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
 
 
 ## Parameters

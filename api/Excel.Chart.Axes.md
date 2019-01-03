@@ -18,9 +18,9 @@ Returns an object that represents either a single axis or a collection of the ax
 
 ## Syntax
 
- _expression_. `Axes`( `_Type_` , `_AxisGroup_` )
+_expression_. `Axes`( `_Type_` , `_AxisGroup_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

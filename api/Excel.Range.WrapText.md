@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that indicates if Microsoft Excel wraps the
 
 ## Syntax
 
- _expression_. `WrapText`
+_expression_. `WrapText`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

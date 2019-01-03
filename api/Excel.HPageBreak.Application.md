@@ -18,9 +18,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## Example

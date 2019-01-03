@@ -18,9 +18,9 @@ Returns  **olExchangeUserAddressEntry** which is a constant from the **[OlAddres
 
 ## Syntax
 
- _expression_. `AddressEntryUserType`
+_expression_. `AddressEntryUserType`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

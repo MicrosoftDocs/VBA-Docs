@@ -21,9 +21,9 @@ Updates the server copy of the shared document with the local copy.
 
 ## Syntax
 
- _expression_. `PutUpdate`
+_expression_. `PutUpdate`
 
- _expression_ A variable that represents a [Sync](Office.Sync.md) object.
+_expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

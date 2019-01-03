@@ -15,7 +15,7 @@ Gets the left coordinate, in points, of the text bounding box for the specified 
 
 ## Syntax
 
- _expression_. `BoundLeft`
+_expression_. `BoundLeft`
 
  _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 

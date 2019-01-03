@@ -18,9 +18,9 @@ Returns a handle to the instance of Excel represented by the specified  **[Appli
 
 ## Syntax
 
- _expression_. `HinstancePtr`
+_expression_. `HinstancePtr`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

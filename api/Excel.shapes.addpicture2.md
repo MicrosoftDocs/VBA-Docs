@@ -16,9 +16,9 @@ Creates a picture from an existing file. Returns a  **[Shape](Excel.Shapes.md)**
 
 ## Syntax
 
- _expression_. `AddPicture2`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_compress_` )
+_expression_. `AddPicture2`( `_FileName_` , `_LinkToFile_` , `_SaveWithDocument_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_compress_` )
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
 ## Parameters

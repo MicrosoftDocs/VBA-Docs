@@ -18,9 +18,9 @@ Returns a single object from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [Areas](Excel.Areas.md) object.
+_expression_ A variable that represents an [Areas](Excel.Areas.md) object.
 
 
 ## Parameters

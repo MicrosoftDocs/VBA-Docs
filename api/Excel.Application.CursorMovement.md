@@ -18,9 +18,9 @@ Returns or sets a value that indicates whether a visual cursor or a logical curs
 
 ## Syntax
 
- _expression_. `CursorMovement`
+_expression_. `CursorMovement`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

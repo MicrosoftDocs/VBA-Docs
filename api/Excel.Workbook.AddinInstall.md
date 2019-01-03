@@ -18,9 +18,9 @@ Occurs when the workbook is installed as an add-in
 
 ## Syntax
 
- _expression_. `AddinInstall`
+_expression_. `AddinInstall`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Return value

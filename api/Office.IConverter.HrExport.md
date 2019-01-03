@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. `HrExport`( `_bstrSourcePath_`, `_bstrDestPath_`, `_bstrClass_`, `_pcap_`, `_ppcp_`, `_pcuic_` )
+_expression_. `HrExport`( `_bstrSourcePath_`, `_bstrDestPath_`, `_bstrClass_`, `_pcap_`, `_ppcp_`, `_pcuic_` )
 
  _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
 

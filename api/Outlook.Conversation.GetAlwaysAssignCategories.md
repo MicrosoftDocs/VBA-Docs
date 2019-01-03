@@ -18,9 +18,9 @@ Returns a  **String** that indicates the category or categories that are assigne
 
 ## Syntax
 
- _expression_. `GetAlwaysAssignCategories`( `_Store_` )
+_expression_. `GetAlwaysAssignCategories`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters

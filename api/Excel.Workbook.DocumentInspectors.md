@@ -18,9 +18,9 @@ Returns a  **[DocumentInspectors](Office.DocumentInspectors.md)** collection tha
 
 ## Syntax
 
- _expression_. `DocumentInspectors`
+_expression_. `DocumentInspectors`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

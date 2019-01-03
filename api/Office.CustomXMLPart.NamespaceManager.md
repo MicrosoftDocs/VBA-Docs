@@ -18,7 +18,7 @@ Gets the set of namespace prefix mappings used against the current  **CustomXMLP
 
 ## Syntax
 
- _expression_. `NamespaceManager`
+_expression_. `NamespaceManager`
 
  _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 

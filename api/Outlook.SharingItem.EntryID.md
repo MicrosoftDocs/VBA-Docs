@@ -18,9 +18,9 @@ Returns a  **String** representing the unique Entry ID of the **[SharingItem](Ou
 
 ## Syntax
 
- _expression_. `EntryID`
+_expression_. `EntryID`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

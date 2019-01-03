@@ -18,9 +18,9 @@ Returns a  **[Chart](Excel.Chart(object).md)** object that represents the active
 
 ## Syntax
 
- _expression_. `ActiveChart`
+_expression_. `ActiveChart`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

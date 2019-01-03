@@ -18,9 +18,9 @@ Returns or sets what can be selected on the sheet. Read/write  **[xlEnableSelect
 
 ## Syntax
 
- _expression_. `EnableSelection`
+_expression_. `EnableSelection`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

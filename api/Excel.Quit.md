@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Quits Microsoft Graph.
 
- _expression_. `Quit`
+_expression_. `Quit`
 
  _expression_ Required. An expression that returns an [Application](Excel.Application-graph-property.md) object.
 

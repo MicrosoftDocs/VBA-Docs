@@ -18,9 +18,9 @@ Returns a  **String** representing the company name for the contact followed by 
 
 ## Syntax
 
- _expression_. `CompanyLastFirstSpaceOnly`
+_expression_. `CompanyLastFirstSpaceOnly`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

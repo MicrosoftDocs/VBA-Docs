@@ -18,9 +18,9 @@ Returns  **True** if Microsoft Excel can use the **[XPath](Excel.XPath.md)** obj
 
 ## Syntax
 
- _expression_. `IsExportable`
+_expression_. `IsExportable`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## See also

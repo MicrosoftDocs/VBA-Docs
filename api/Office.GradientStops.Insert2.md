@@ -15,7 +15,7 @@ Adds a stop to a gradient and specifies the brightness, as well as the transpare
 
 ## Syntax
 
- _expression_. `Insert2`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_`, `_Brightness_` )
+_expression_. `Insert2`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_`, `_Brightness_` )
 
  _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 

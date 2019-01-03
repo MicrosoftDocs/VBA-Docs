@@ -18,9 +18,9 @@ This property is used to control whether member property captions are used for P
 
 ## Syntax
 
- _expression_. `UseMemberPropertyAsCaption`
+_expression_. `UseMemberPropertyAsCaption`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

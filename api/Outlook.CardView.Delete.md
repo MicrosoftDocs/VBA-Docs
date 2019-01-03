@@ -18,9 +18,9 @@ Deletes an object from a collection.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## See also

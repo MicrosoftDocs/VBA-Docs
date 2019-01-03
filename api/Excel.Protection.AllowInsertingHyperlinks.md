@@ -18,9 +18,9 @@ Returns  **True** if the insertion of hyperlinks is allowed on a protected works
 
 ## Syntax
 
- _expression_. `AllowInsertingHyperlinks`
+_expression_. `AllowInsertingHyperlinks`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks

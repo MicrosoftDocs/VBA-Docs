@@ -18,9 +18,9 @@ Returns a  **Boolean** that determines if the item is a winner of an automatic c
 
 ## Syntax
 
- _expression_. `AutoResolvedWinner`
+_expression_. `AutoResolvedWinner`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

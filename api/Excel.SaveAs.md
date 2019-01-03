@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Saves changes to the graph in a different file.
 
- _expression_. `SaveAs`( `_FileName_`)
+_expression_. `SaveAs`( `_FileName_`)
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

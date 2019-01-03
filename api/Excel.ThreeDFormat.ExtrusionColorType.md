@@ -18,9 +18,9 @@ Returns or sets a value that indicates whether the extrusion color is based on t
 
 ## Syntax
 
- _expression_. `ExtrusionColorType`
+_expression_. `ExtrusionColorType`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

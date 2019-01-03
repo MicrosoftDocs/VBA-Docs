@@ -18,9 +18,9 @@ Returns a  **Long** that specifies the application-preferred height of the sende
 
 ## Syntax
 
- _expression_. `PreferredHeight`
+_expression_. `PreferredHeight`
 
- _expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
+_expression_ A variable that represents an [OlkSenderPhoto](./Outlook.OlkSenderPhoto.md) object.
 
 
 ## Remarks

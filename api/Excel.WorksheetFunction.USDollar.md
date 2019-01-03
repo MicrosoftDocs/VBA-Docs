@@ -18,9 +18,9 @@ Converts a number to text format and applies a currency symbol. The name of the 
 
 ## Syntax
 
- _expression_. `USDollar`( `_Arg1_` , `_Arg2_` )
+_expression_. `USDollar`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns an object that represents either a single legend entry (a  **[LegendEntr
 
 ## Syntax
 
- _expression_. `LegendEntries`( `_Index_` )
+_expression_. `LegendEntries`( `_Index_` )
 
- _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ## See also

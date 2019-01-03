@@ -16,9 +16,9 @@ Returns the number (code point) corresponding to the first character of the text
 
 ## Syntax
 
- _expression_. `Unicode`_(Arg1)_
+_expression_. `Unicode`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

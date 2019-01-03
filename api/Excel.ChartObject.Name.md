@@ -18,9 +18,9 @@ Returns a  **String** value representing the name of the object.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Used to display a dialog of the encryption settings for the current document.
 
 ## Syntax
 
- _expression_. `ShowSettings`( `_SessionHandle_`, `_ParentWindow_`, `_ReadOnly_`, `_Remove_` )
+_expression_. `ShowSettings`( `_SessionHandle_`, `_ParentWindow_`, `_ReadOnly_`, `_Remove_` )
 
  _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 

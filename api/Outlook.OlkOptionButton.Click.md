@@ -18,9 +18,9 @@ Occurs when the user clicks inside the control.
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ## See also

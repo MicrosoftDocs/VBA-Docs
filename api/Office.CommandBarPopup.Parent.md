@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **CommandBarPopup** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

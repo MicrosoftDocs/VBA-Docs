@@ -18,9 +18,9 @@ Returns or sets the type of credentials that should be used for server authentic
 
 ## Syntax
 
- _expression_. `ServerCredentialsMethod`
+_expression_. `ServerCredentialsMethod`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## See also

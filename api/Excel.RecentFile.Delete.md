@@ -18,9 +18,9 @@ Deletes the object.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
+_expression_ A variable that represents a [RecentFile](Excel.RecentFile.md) object.
 
 
 ## See also

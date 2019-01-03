@@ -18,9 +18,9 @@ Returns a constant,  **olRuleActionAssignToCategory** , from the **[OlRuleAction
 
 ## Syntax
 
- _expression_. `ActionType`
+_expression_. `ActionType`
 
- _expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
+_expression_ A variable that represents an [AssignToCategoryRuleAction](./Outlook.AssignToCategoryRuleAction.md) object.
 
 
 ## Remarks

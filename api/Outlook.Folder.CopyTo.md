@@ -18,9 +18,9 @@ Copies the current folder in its entirety to the destination folder.
 
 ## Syntax
 
- _expression_. `CopyTo`( `_DestinationFolder_` )
+_expression_. `CopyTo`( `_DestinationFolder_` )
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Parameters

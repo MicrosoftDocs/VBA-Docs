@@ -18,9 +18,9 @@ Returns an  **AutoFilter** object if filtering is on. Read-only.
 
 ## Syntax
 
- _expression_. `AutoFilter`
+_expression_. `AutoFilter`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

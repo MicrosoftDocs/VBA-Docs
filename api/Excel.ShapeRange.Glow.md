@@ -18,9 +18,9 @@ Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified shape r
 
 ## Syntax
 
- _expression_. `Glow`
+_expression_. `Glow`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Remarks

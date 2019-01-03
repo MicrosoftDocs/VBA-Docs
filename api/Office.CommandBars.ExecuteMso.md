@@ -18,7 +18,7 @@ Executes the control identified by the  **idMso** parameter.
 
 ## Syntax
 
- _expression_. `ExecuteMso`( `_idMso_` )
+_expression_. `ExecuteMso`( `_idMso_` )
 
  _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 

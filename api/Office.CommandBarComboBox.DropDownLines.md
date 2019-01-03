@@ -21,9 +21,9 @@ Gets or sets the number of lines in a command bar combo box control. The combo b
 
 ## Syntax
 
- _expression_. `DropDownLines`
+_expression_. `DropDownLines`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

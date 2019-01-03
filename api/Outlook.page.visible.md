@@ -16,9 +16,9 @@ Returns or sets a  **Boolean** that specifies whether a **[Page](Outlook.page.md
 
 ## Syntax
 
- _expression_. **Visible**
+_expression_. **Visible**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

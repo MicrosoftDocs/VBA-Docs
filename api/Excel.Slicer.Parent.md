@@ -18,9 +18,9 @@ Returns the  **[Worksheet](Excel.Worksheet.md)** object that represents the shee
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Slicer](./Excel.Slicer.md) object.
+_expression_ A variable that represents a [Slicer](./Excel.Slicer.md) object.
 
 
 ## See also

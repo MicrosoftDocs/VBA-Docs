@@ -13,9 +13,9 @@ Returns a  **Boolean** that specifies if the most recent Undo can be reversed. R
 
 ## Syntax
 
- _expression_. **CanRedo**
+_expression_. **CanRedo**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

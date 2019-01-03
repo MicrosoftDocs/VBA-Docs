@@ -18,9 +18,9 @@ Returns or sets an  **[olAlignment](Outlook.OlAlignment.md)** constant that indi
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
- _expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
+_expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
 
 
 ## Remarks

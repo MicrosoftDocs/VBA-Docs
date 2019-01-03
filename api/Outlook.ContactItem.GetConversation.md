@@ -18,9 +18,9 @@ Obtains a  **[Conversation](Outlook.Conversation.md)** object that represents th
 
 ## Syntax
 
- _expression_. `GetConversation`
+_expression_. `GetConversation`
 
- _expression_ A variable that represents a '[ContactItem](Outlook.ContactItem.md)' object.
+_expression_ A variable that represents a '[ContactItem](Outlook.ContactItem.md)' object.
 
 
 ## Return value

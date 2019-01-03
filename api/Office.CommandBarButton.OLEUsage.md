@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.OLEUsage
 ms.assetid: 4ff6f74d-4eed-8a30-468c-22be5dee1c7e
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarButton*
 
 ## Syntax
 
- _expression_. `OLEUsage`
+_expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value
@@ -49,10 +49,5 @@ myControl.OLEUsage = msoControlOLEUsageNeither
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

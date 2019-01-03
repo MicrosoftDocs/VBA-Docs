@@ -18,9 +18,9 @@ Returns the  **[ExchangeDistributionList](Outlook.ExchangeDistributionList.md)**
 
 ## Syntax
 
- _expression_. `GetExchangeDistributionList`
+_expression_. `GetExchangeDistributionList`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Return value

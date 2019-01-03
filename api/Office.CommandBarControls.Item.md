@@ -21,7 +21,7 @@ Gets a  **CommandBarControl** object from the **CommandBarControls** collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a '[CommandBarControls](Office.CommandBarControls.md)' object.
 

@@ -18,7 +18,7 @@ Displays a dialog box containing information about a digital certificate followi
 
 ## Syntax
 
- _expression_. `SelectCertificateDetailByThumbprint`( `_bstrThumbprint_` )
+_expression_. `SelectCertificateDetailByThumbprint`( `_bstrThumbprint_` )
 
  _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 

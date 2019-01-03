@@ -21,7 +21,7 @@ Deletes the current shared workspace and all data within it.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
  _expression_ Required. A variable that represents a '[SharedWorkspace](Office.SharedWorkspace.md)' object.
 

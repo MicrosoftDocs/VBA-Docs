@@ -18,7 +18,7 @@ Occurs when you click any hyperlink in Microsoft Excel. For worksheet-level even
 
 ## Syntax
 
- _expression_. `SheetFollowHyperlink`( `_Sh_` , `_Target_` )
+_expression_. `SheetFollowHyperlink`( `_Sh_` , `_Target_` )
 
  _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 

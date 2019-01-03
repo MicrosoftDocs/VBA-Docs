@@ -18,9 +18,9 @@ Returns a  **String** representing the title. Read-only.
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## See also

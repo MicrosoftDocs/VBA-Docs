@@ -18,9 +18,9 @@ Returns the z-order position of the object. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. `ZOrder`
+_expression_. `ZOrder`
 
- _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ## Remarks

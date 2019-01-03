@@ -18,9 +18,9 @@ Returns an  **[AttachmentSelection](Outlook.AttachmentSelection.md)** object con
 
 ## Syntax
 
- _expression_. `AttachmentSelection`
+_expression_. `AttachmentSelection`
 
- _expression_ A variable that represents an '[Inspector](Outlook.Inspector.md)' object.
+_expression_ A variable that represents an '[Inspector](Outlook.Inspector.md)' object.
 
 
 ## See also

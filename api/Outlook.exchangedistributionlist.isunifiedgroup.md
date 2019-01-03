@@ -16,9 +16,9 @@ Determines if the object is a unified group.
 
 ## Syntax
 
- _expression_. `IsUnifiedGroup`
+_expression_. `IsUnifiedGroup`
 
- _expression_ A variable that represents a [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents a [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Return value

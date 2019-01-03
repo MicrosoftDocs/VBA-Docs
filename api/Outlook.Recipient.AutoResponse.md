@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the text of an automatic response for
 
 ## Syntax
 
- _expression_. `AutoResponse`
+_expression_. `AutoResponse`
 
- _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## See also

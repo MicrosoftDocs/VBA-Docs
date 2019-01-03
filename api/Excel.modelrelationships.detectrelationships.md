@@ -16,9 +16,9 @@ Detects model relationships in the specified [PivotTable](Excel.PivotTable.md).
 
 ## Syntax
 
- _expression_. `DetectRelationships`_(PivotTable)_
+_expression_. `DetectRelationships`_(PivotTable)_
 
- _expression_ A variable that represents a 'ModelRelationships' object.
+_expression_ A variable that represents a 'ModelRelationships' object.
 
 
 ## Parameters

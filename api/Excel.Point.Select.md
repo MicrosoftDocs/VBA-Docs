@@ -18,9 +18,9 @@ Selects the object.
 
 ## Syntax
 
- _expression_. `Select`
+_expression_. `Select`
 
- _expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
+_expression_ A variable that represents a [Point](Excel.Point-graph-object.md) object.
 
 
 ## Return value

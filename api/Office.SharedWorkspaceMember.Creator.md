@@ -18,9 +18,9 @@ Gets a 32-bit integer that indicates the application in which the  **SharedWorks
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
- _expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
+_expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)
 
 ## Syntax
 
- _expression_. `ReceivedByEntryID`
+_expression_. `ReceivedByEntryID`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -15,7 +15,7 @@ Occurs when the user selects the  **Send** action for an item, or when the **[Se
 
 ## Syntax
 
- _expression_. `Send`( `_Cancel_` )
+_expression_. `Send`( `_Cancel_` )
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the message class for the **[Action](
 
 ## Syntax
 
- _expression_. `MessageClass`
+_expression_. `MessageClass`
 
- _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## Remarks

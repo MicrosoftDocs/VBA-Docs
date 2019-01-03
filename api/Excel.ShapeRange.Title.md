@@ -18,9 +18,9 @@ Returns or sets the title of the alternative text associated with the specified 
 
 ## Syntax
 
- _expression_. `Title`
+_expression_. `Title`
 
- _expression_ A variable that represents a '[ShapeRange](Excel.ShapeRange.md)' object.
+_expression_ A variable that represents a '[ShapeRange](Excel.ShapeRange.md)' object.
 
 
 ## Return value

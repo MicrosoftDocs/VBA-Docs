@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value indicating if only the icon is displayed fo
 
 ## Syntax
 
- _expression_. `ShowIconOnly`
+_expression_. `ShowIconOnly`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks

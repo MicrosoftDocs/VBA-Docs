@@ -18,9 +18,9 @@ Gets or sets the  **Visible** property for the **CommandBarComboBox** control. *
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns an  **Integer** value that represents the number of objects in the colle
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
 
 
 ## See also

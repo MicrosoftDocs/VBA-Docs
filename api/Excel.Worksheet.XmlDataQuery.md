@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cells 
 
 ## Syntax
 
- _expression_. `XmlDataQuery`( `_XPath_` , `_SelectionNamespaces_` , `_Map_` )
+_expression_. `XmlDataQuery`( `_XPath_` , `_SelectionNamespaces_` , `_Map_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Parameters

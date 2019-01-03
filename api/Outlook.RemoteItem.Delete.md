@@ -18,9 +18,9 @@ Removes the item from the folder that contains the item.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## Remarks

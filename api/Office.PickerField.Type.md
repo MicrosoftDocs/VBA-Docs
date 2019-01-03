@@ -15,7 +15,7 @@ The type of the Picker field. Read-only
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 

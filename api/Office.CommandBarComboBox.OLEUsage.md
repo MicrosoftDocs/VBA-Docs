@@ -18,9 +18,9 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarComboBo
 
 ## Syntax
 
- _expression_. `OLEUsage`
+_expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

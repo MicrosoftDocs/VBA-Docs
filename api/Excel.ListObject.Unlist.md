@@ -18,9 +18,9 @@ Removes the list functionality from a  **[ListObject](Excel.ListObject.md)** obj
 
 ## Syntax
 
- _expression_. `Unlist`
+_expression_. `Unlist`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks

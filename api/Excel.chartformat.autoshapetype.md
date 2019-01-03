@@ -16,9 +16,9 @@ Returns the type of the specified shape.  **MsoAutoShapeType** Read-only
 
 ## Syntax
 
- _expression_. `AutoShapeType`
+_expression_. `AutoShapeType`
 
- _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
+_expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## Property value

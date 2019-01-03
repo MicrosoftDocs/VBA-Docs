@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the **[CardView](Outlook.Car
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## Remarks

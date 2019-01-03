@@ -18,9 +18,9 @@ Returns or sets a  **String** that represents a list of possible values for the 
 
 ## Syntax
 
- _expression_. `PossibleValues`
+_expression_. `PossibleValues`
 
- _expression_ A variable that represents an 'OlkControl' object.
+_expression_ A variable that represents an 'OlkControl' object.
 
 
 ## Remarks

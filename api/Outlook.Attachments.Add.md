@@ -18,9 +18,9 @@ Creates a new attachment in the  **[Attachments](Outlook.Attachments.md)** colle
 
 ## Syntax
 
- _expression_. `Add`( `_Source_` , `_Type_` , `_Position_` , `_DisplayName_` )
+_expression_. `Add`( `_Source_` , `_Type_` , `_Position_` , `_DisplayName_` )
 
- _expression_ A variable that represents an [Attachments](./Outlook.Attachments.md) object.
+_expression_ A variable that represents an [Attachments](./Outlook.Attachments.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets a Variant value that represents the position of the field (first
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## See also

@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.SetFocus
 ms.assetid: f6719533-1958-05d4-5f9c-7b09cb33b1c8
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Moves the keyboard focus to the specified  **CommandBarButton** control. If the 
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks
@@ -56,10 +56,5 @@ testComboBox.SetFocus
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

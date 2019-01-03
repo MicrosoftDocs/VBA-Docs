@@ -18,9 +18,9 @@ Returns or sets the line style for the border. Read/write  **[xlLineStyle](Excel
 
 ## Syntax
 
- _expression_. `LineStyle`
+_expression_. `LineStyle`
 
- _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
+_expression_ A variable that represents a [Borders](Excel.Borders.md) object.
 
 
 ## Example

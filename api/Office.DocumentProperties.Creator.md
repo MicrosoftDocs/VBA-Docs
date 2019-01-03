@@ -18,9 +18,9 @@ Gets a 32-bit integer that indicates the application in which the  **DocumentPro
 
 ## Syntax
 
- _expression_. `Creator`( `_plCreator_` )
+_expression_. `Creator`( `_plCreator_` )
 
- _expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
+_expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
 
 
 ## Parameters

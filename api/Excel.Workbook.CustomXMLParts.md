@@ -18,9 +18,9 @@ Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** collection that repres
 
 ## Syntax
 
- _expression_. `CustomXMLParts`
+_expression_. `CustomXMLParts`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

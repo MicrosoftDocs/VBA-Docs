@@ -21,9 +21,9 @@ Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
 
 ## Syntax
 
- _expression_. `List`( `_Index_` )
+_expression_. `List`( `_Index_` )
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Parameters

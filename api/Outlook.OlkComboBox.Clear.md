@@ -18,9 +18,9 @@ Removes all objects from the list in the combo box.
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
- _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
+_expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
 
 ## See also

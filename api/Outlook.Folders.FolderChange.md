@@ -18,9 +18,9 @@ Occurs when a folder in the specified  **[Folders](Outlook.Folders.md)** collect
 
 ## Syntax
 
- _expression_. `FolderChange`( `_Folder_` )
+_expression_. `FolderChange`( `_Folder_` )
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
 ## Parameters

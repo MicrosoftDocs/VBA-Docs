@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the requested action for the **[Sharing
 
 ## Syntax
 
- _expression_. `FlagRequest`
+_expression_. `FlagRequest`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

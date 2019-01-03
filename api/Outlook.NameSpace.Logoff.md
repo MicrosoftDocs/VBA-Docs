@@ -18,9 +18,9 @@ Logs the user off from the current MAPI session.
 
 ## Syntax
 
- _expression_. `Logoff`
+_expression_. `Logoff`
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## See also

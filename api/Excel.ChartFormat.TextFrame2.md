@@ -18,9 +18,9 @@ Returns a  **[TextFrame2](Excel.TextFrame2.md)** object that contains text forma
 
 ## Syntax
 
- _expression_. `TextFrame2`
+_expression_. `TextFrame2`
 
- _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
+_expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## See also

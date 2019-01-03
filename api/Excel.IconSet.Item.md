@@ -18,9 +18,9 @@ Returns an  **[Icon](Excel.Icon.md)** object that represents a single icon from 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
 
 
 ## Parameters

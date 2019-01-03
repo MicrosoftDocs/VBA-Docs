@@ -18,9 +18,9 @@ Returns the parent  **[SlicerCache](Excel.SlicerCache.md)** object for the speci
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Slicers](./Excel.Slicers.md) collection.
+_expression_ A variable that represents a [Slicers](./Excel.Slicers.md) collection.
 
 
 ## See also

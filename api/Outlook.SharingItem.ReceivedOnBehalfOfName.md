@@ -18,9 +18,9 @@ Returns a  **String** representing the display name of the user delegated to rep
 
 ## Syntax
 
- _expression_. `ReceivedOnBehalfOfName`
+_expression_. `ReceivedOnBehalfOfName`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

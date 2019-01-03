@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the text displayed at runtime in the 
 
 ## Syntax
 
- _expression_. `Detail`
+_expression_. `Detail`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## Remarks

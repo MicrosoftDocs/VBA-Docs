@@ -18,9 +18,9 @@ Returns a  **String** representing the business telephone number for the **[Exch
 
 ## Syntax
 
- _expression_. `BusinessTelephoneNumber`
+_expression_. `BusinessTelephoneNumber`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

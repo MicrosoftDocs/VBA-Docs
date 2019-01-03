@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Mask
 ms.assetid: de7179ac-6b39-2323-d84a-23abe3ed3167
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -21,9 +21,9 @@ Gets or sets an  **IPictureDisp** object representing the mask image of a **Comm
 
 ## Syntax
 
- _expression_. `Mask`
+_expression_. `Mask`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks
@@ -87,10 +87,5 @@ End Sub
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

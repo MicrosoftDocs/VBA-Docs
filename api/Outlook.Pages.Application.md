@@ -18,9 +18,9 @@ Returns an  **[Application](Outlook.Application.md)** object that represents the
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
+_expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 
 ## See also

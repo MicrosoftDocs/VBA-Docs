@@ -18,7 +18,7 @@ Gets the horizontal position of the  **CommandBarComboBox** control (in pixels) 
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
  _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 

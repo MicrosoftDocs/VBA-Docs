@@ -18,7 +18,7 @@ Gets the type of  **CommandBarPopup** control. Read-only.
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ Required. A variable that represents a '[CommandBarPopup](Office.CommandBarPopup.md)' object.
 

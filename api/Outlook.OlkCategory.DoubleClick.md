@@ -18,9 +18,9 @@ Occurs when the user double-clicks inside the control.
 
 ## Syntax
 
- _expression_. `DoubleClick`
+_expression_. `DoubleClick`
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
 
 
 ## See also

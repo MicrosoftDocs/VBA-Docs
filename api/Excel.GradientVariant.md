@@ -17,7 +17,7 @@ Returns the shade variant for the specified fill as an integer value from 1 thro
 
 This property is read-only. Use the OneColorGradient or TwoColorGradient method to set the gradient variant for the fill
 
- _expression_. `GradientVariant`
+_expression_. `GradientVariant`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

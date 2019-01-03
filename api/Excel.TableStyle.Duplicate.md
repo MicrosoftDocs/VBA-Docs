@@ -18,9 +18,9 @@ Duplicates the  **TableStyle** object and returns a reference to the new copy.
 
 ## Syntax
 
- _expression_. `Duplicate`( `_NewTableStyleName_` )
+_expression_. `Duplicate`( `_NewTableStyleName_` )
 
- _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 
 
 ## Parameters

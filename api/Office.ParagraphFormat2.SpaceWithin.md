@@ -15,7 +15,7 @@ Gets or sets the amount of space between base lines in the specified paragraph, 
 
 ## Syntax
 
- _expression_. `SpaceWithin`
+_expression_. `SpaceWithin`
 
  _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 

@@ -13,9 +13,9 @@ Returns a  **String** value representing the name of the **Model** object. Read-
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value

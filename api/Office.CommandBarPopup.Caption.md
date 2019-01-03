@@ -18,9 +18,9 @@ Gets or sets the caption text for a command bar control. Read/write.
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

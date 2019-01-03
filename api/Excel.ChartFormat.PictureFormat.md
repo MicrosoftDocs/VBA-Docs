@@ -18,9 +18,9 @@ Returns a  **[PictureFormat](Excel.PictureFormat.md)** object for a specified ch
 
 ## Syntax
 
- _expression_. `PictureFormat`
+_expression_. `PictureFormat`
 
- _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
+_expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## See also

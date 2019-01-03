@@ -18,9 +18,9 @@ Creates and returns a new Microsoft Outlook item.
 
 ## Syntax
 
- _expression_. `CreateItem`( `_ItemType_` )
+_expression_. `CreateItem`( `_ItemType_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## Parameters

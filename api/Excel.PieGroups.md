@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 On a 2-D chart, returns an object that represents either a single pie chart group or a collection of the pie chart groups.
 
- _expression_. `PieGroups`( `_Index_`)
+_expression_. `PieGroups`( `_Index_`)
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

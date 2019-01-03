@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the **[MeetingItem](Outlook.
 
 ## Syntax
 
- _expression_. `IsLatestVersion`
+_expression_. `IsLatestVersion`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Remarks

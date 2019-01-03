@@ -18,9 +18,9 @@ Returns the Total row for a  **ListColumn** object. Read-only.
 
 ## Syntax
 
- _expression_. `Total`
+_expression_. `Total`
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorks
 
 ## Syntax
 
- _expression_. `Add`( `_Title_`, `_Status_`, `_Priority_`, `_Assignee_`, `_Description_`, `_Due Date_` )
+_expression_. `Add`( `_Title_`, `_Status_`, `_Priority_`, `_Assignee_`, `_Description_`, `_Due Date_` )
 
  _expression_ Required. A variable that represents a '[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)' object.
 

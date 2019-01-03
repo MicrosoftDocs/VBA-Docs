@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies how text is aligned in a control.
 
 ## Syntax
 
- _expression_. **TextAlign**
+_expression_. **TextAlign**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

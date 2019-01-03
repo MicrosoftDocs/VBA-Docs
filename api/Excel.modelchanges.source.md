@@ -16,9 +16,9 @@ Returns the source of the data model. Read-only.
 
 ## Syntax
 
- _expression_. `Source`
+_expression_. `Source`
 
- _expression_ A variable that represents a 'ModelChanges' object.
+_expression_ A variable that represents a 'ModelChanges' object.
 
 
 ## Remarks

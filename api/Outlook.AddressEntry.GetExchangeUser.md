@@ -18,9 +18,9 @@ Returns an  **[ExchangeUser](Outlook.ExchangeUser.md)** object that represents t
 
 ## Syntax
 
- _expression_. `GetExchangeUser`
+_expression_. `GetExchangeUser`
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ## Return value

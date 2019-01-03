@@ -18,9 +18,9 @@ Returns the  **[ColorStops](Excel.ColorStops.md)** for the **LinearGradient** ob
 
 ## Syntax
 
- _expression_. `ColorStops`
+_expression_. `ColorStops`
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value

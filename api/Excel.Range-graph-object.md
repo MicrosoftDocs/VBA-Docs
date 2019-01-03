@@ -75,7 +75,7 @@ End Sub
 
 Although you can use Visual Basic string functions to alter A1-style references, it's much easier (and much better programming practice) to use the  `Cells(1, 1)` notation.
 
-Use  _expression_. **Cells**( _row_,  _column_), where  _expression_ is an expression that returns a [Range](excel.range-graph-property.md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the value for cell C5.
+Use _expression_. **Cells**( _row_,  _column_), where  _expression_ is an expression that returns a [Range](excel.range-graph-property.md) object, and _row_ and _column_ are relative to the upper-left corner of the range, to return part of a range. The following example sets the value for cell C5.
 
 
 

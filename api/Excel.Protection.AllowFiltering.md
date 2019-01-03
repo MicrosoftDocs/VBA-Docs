@@ -18,9 +18,9 @@ Returns  **True** if the user is allowed to make use of an AutoFilter that was c
 
 ## Syntax
 
- _expression_. `AllowFiltering`
+_expression_. `AllowFiltering`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks

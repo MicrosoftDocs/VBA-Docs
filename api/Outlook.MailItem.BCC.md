@@ -18,9 +18,9 @@ Returns a  **String** representing the display list of blind carbon copy (BCC) n
 
 ## Syntax
 
- _expression_. `BCC`
+_expression_. `BCC`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

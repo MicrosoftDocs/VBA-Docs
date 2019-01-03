@@ -18,9 +18,9 @@ Returns or sets a  **String** value that represents the name of the list column.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
+_expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) object.
 
 
 ## Remarks

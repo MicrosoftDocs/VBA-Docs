@@ -18,9 +18,9 @@ Gets or sets the type of sparkline for the group. Read/write.
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value

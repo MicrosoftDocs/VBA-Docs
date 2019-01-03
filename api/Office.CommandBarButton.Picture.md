@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Picture
 ms.assetid: b9a2d133-23a8-ac09-8b8b-08eda1210717
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -22,9 +22,9 @@ Gets or sets an  **IPictureDisp** object representing the image of a **CommandBa
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks
@@ -89,10 +89,5 @@ End Sub
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

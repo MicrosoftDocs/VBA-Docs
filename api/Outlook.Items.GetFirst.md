@@ -18,9 +18,9 @@ Returns the first object in the collection.
 
 ## Syntax
 
- _expression_. `GetFirst`
+_expression_. `GetFirst`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns a custom list (an array of strings).
 
 ## Syntax
 
- _expression_. `GetCustomListContents`( `_ListNum_` )
+_expression_. `GetCustomListContents`( `_ListNum_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

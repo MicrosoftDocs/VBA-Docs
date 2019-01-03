@@ -18,9 +18,9 @@ Gets or sets the name of a Visual Basic procedure that will run when the user cl
 
 ## Syntax
 
- _expression_. `OnAction`
+_expression_. `OnAction`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

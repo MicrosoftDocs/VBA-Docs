@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that determines whether the originator of t
 
 ## Syntax
 
- _expression_. `OriginatorDeliveryReportRequested`
+_expression_. `OriginatorDeliveryReportRequested`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

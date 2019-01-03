@@ -18,7 +18,7 @@ Gets a value representing the results of the verification of the hashed contents
 
 ## Syntax
 
- _expression_. `ContentVerificationResults`
+_expression_. `ContentVerificationResults`
 
  _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 

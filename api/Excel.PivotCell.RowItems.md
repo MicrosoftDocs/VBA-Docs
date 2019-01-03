@@ -18,9 +18,9 @@ Returns a  **[PivotItemList](Excel.PivotItemList.md)** collection that correspon
 
 ## Syntax
 
- _expression_. `RowItems`
+_expression_. `RowItems`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Example

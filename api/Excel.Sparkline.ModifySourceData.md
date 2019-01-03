@@ -18,9 +18,9 @@ Modifies the source data for a single sparkline.
 
 ## Syntax
 
- _expression_. `ModifySourceData`( `_Formula_` )
+_expression_. `ModifySourceData`( `_Formula_` )
 
- _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
+_expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' object.
 
 
 ## Parameters

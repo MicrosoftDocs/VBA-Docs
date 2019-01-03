@@ -18,9 +18,9 @@ Returns or sets a  **String** that represents a contact's Microsoft Instant Mess
 
 ## Syntax
 
- _expression_. `IMAddress`
+_expression_. `IMAddress`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

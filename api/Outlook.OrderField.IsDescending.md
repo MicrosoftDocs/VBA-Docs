@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that indicates whether the contents of the 
 
 ## Syntax
 
- _expression_. `IsDescending`
+_expression_. `IsDescending`
 
- _expression_ A variable that represents an [OrderField](./Outlook.OrderField.md) object.
+_expression_ A variable that represents an [OrderField](./Outlook.OrderField.md) object.
 
 
 ## Remarks

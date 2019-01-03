@@ -18,9 +18,9 @@ Sets the languages for the translation service.
 
 ## Syntax
 
- _expression_. `SetLanguagePair`( `_LanguageFrom_` , `_LanguageTo_` )
+_expression_. `SetLanguagePair`( `_LanguageFrom_` , `_LanguageTo_` )
 
- _expression_ A variable that represents a [Research](Excel.Research.md) object.
+_expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Returns or sets a  **Date** value that represents the start date of the task for
 
 ## Syntax
 
- _expression_. `TaskStartDate`
+_expression_. `TaskStartDate`
 
  _expression_ An expression that returns a [DistListItem](./Outlook.DistListItem.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that represents the name that appears in th
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
 ## Example

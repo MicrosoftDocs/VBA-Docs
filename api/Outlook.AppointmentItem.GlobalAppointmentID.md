@@ -18,7 +18,7 @@ Returns a  **String** value that represents a unique global identifier for the *
 
 ## Syntax
 
- _expression_. `GlobalAppointmentID`
+_expression_. `GlobalAppointmentID`
 
  _expression_ An expression that returns an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 

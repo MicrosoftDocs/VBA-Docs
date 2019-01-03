@@ -18,9 +18,9 @@ Clears all the  **[SortFields](Excel.SortFields.md)** objects.
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
- _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
+_expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
 
 
 ## See also

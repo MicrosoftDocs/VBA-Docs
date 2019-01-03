@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Specifies the name of the chart template that Microsoft Graph will use when creating new charts.
 
- _expression_. `SetDefaultChart`( `_FormatName_`,  `_Gallery_`)
+_expression_. `SetDefaultChart`( `_FormatName_`,  `_Gallery_`)
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

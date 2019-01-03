@@ -21,9 +21,9 @@ Gets a  **[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)** collectio
 
 ## Syntax
 
- _expression_. `Folders`
+_expression_. `Folders`
 
- _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

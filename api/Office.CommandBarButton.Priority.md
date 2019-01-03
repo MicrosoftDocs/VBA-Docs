@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Priority
 ms.assetid: 72599580-16d2-20b3-05ad-b454afbba6ef
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the priority of a CommandBarButton control. A control's priority de
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_. `Priority`
 
- _expression_ A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
 
 ## Remarks
@@ -32,10 +32,4 @@ The  **Priority** property is not used by command bar controls that are menu ite
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)

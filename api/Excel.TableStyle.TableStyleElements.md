@@ -18,9 +18,9 @@ Returns the  **[TableStyleElements](Excel.TableStyleElements.md)** object. Read-
 
 ## Syntax
 
- _expression_. `TableStyleElements`
+_expression_. `TableStyleElements`
 
- _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 
 
 ## See also

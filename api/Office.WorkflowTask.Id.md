@@ -18,7 +18,7 @@ Gets the ID of the Sharepoint list item. Read-only.
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 

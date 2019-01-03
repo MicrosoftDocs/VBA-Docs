@@ -18,9 +18,9 @@ Returns or sets the descriptive (alternative) text string for the specified tabl
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
- _expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
+_expression_ A variable that represents a '[ListObject](Excel.ListObject.md)' object.
 
 
 ## Return value

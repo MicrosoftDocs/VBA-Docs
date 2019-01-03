@@ -18,9 +18,9 @@ Returns the Microsoft Excel control type. Read-only  **[xlFormControl](Excel.XlF
 
 ## Syntax
 
- _expression_. `FormControlType`
+_expression_. `FormControlType`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

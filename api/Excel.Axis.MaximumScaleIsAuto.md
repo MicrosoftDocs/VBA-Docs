@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `MaximumScaleIsAuto`
+_expression_. `MaximumScaleIsAuto`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

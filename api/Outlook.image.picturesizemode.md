@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies how to display the background pic
 
 ## Syntax
 
- _expression_. **PictureSizeMode**
+_expression_. **PictureSizeMode**
 
- _expression_ A variable that represents an  **Image** object.
+_expression_ A variable that represents an  **Image** object.
 
 
 ## Remarks

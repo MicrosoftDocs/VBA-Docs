@@ -18,9 +18,9 @@ Fills the specified shape with an image.
 
 ## Syntax
 
- _expression_. `UserPicture`( `_PictureFile_` )
+_expression_. `UserPicture`( `_PictureFile_` )
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Parameters

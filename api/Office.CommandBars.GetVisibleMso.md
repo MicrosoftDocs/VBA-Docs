@@ -21,7 +21,7 @@ Returns True if the control identified by the  **idMso** parameter is visible.
 
 ## Syntax
 
- _expression_. `GetVisibleMso`( `_idMso_` )
+_expression_. `GetVisibleMso`( `_idMso_` )
 
  _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 

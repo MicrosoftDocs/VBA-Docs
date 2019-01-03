@@ -18,7 +18,7 @@ Gets or sets a  **CustomXMLSchemaCollection** object representing the set of sch
 
 ## Syntax
 
- _expression_. `SchemaCollection`
+_expression_. `SchemaCollection`
 
  _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 

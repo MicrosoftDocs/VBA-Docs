@@ -21,7 +21,7 @@ Returns a value indicating whether the toggleButton control identified by the  *
 
 ## Syntax
 
- _expression_. `GetPressedMso`( `_idMso_` )
+_expression_. `GetPressedMso`( `_idMso_` )
 
  _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 

@@ -18,9 +18,9 @@ Is  **True** if the specified command bar popup is a built-in command bar of the
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

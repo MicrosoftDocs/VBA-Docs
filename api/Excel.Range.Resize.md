@@ -18,7 +18,7 @@ Resizes the specified range. Returns a  **[Range](Excel.Range(object).md)** obje
 
 ## Syntax
 
- _expression_. `Resize`( `_RowSize_` , `_ColumnSize_` )
+_expression_. `Resize`( `_RowSize_` , `_ColumnSize_` )
 
  _expression_ An expression that returns a [Range](excel.range-graph-property.md) object.
 

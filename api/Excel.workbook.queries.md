@@ -13,9 +13,9 @@ ms.prod: excel
 
 ## Syntax
 
- _expression_. `Queries`
+_expression_. `Queries`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 Returns a **[Queries](Excel.workbookquery.md)** collection that represents all the Get & Transform queries in the specified **Workbook**. Starting from Excel 2016, Get & Transform features enable you to connect, combine and shape data from a variety of sources to meet your analysis needs. Read-only.
 

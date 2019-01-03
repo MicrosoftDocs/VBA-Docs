@@ -18,9 +18,9 @@ Gets a  **Long** indicating the number of items in the **ScopeFolders** collecti
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [ScopeFolders](Office.ScopeFolders.md) object.
+_expression_ A variable that represents a [ScopeFolders](Office.ScopeFolders.md) object.
 
 
 ## Return value

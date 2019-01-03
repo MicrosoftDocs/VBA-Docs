@@ -18,7 +18,7 @@ Adds a new filter to the  **ODSOFilters** collection.
 
 ## Syntax
 
- _expression_. `Add`( `_Column_`, `_Comparison_`, `_Conjunction_`, `_bstrCompareTo_`, `_DeferUpdate_` )
+_expression_. `Add`( `_Column_`, `_Comparison_`, `_Conjunction_`, `_bstrCompareTo_`, `_DeferUpdate_` )
 
  _expression_ Required. A variable that represents an '[ODSOFilters](Office.ODSOFilters.md)' object.
 

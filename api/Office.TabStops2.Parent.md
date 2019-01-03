@@ -15,7 +15,7 @@ Gets an  **Object** that represents the **Parent** object of the specified **Tab
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 

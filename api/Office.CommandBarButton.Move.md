@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Move
 ms.assetid: b2d462ec-63a7-a395-8d93-bedbf1d6941d
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,7 +18,7 @@ Moves the specified  **CommandBarButton** control to an existing command bar.
 
 ## Syntax
 
- _expression_. `Move`( `_Bar_`, `_Before_` )
+_expression_. `Move`( `_Bar_`, `_Before_` )
 
  _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
@@ -54,10 +54,5 @@ Next
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

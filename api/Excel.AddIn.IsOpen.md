@@ -18,9 +18,9 @@ Returns  **True** if the add-in is currently open. **Boolean** Read-only
 
 ## Syntax
 
- _expression_. `IsOpen`
+_expression_. `IsOpen`
 
- _expression_ A variable that returns an [AddIn](Excel.AddIn.md) object.
+_expression_ A variable that returns an [AddIn](Excel.AddIn.md) object.
 
 
 ## See also

@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Tag
 ms.assetid: c73a12a8-8b20-1e32-ad98-ae0bb3b1daed
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets information about the  **CommandBarButton** control, such as data t
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value
@@ -75,10 +75,5 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

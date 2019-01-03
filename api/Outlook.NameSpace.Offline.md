@@ -18,9 +18,9 @@ Returns a  **Boolean** indicating **True** if Outlook is offline (not connected 
 
 ## Syntax
 
- _expression_. `Offline`
+_expression_. `Offline`
 
- _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
+_expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 
 
 ## Remarks

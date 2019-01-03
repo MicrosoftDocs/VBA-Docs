@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the **[TableView](Outlook.Ta
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

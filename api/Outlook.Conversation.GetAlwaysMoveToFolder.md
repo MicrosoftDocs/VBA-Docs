@@ -18,9 +18,9 @@ Returns a  **[Folder](Outlook.Folder.md)** object that indicates the folder in t
 
 ## Syntax
 
- _expression_. `GetAlwaysMoveToFolder`( `_Store_` )
+_expression_. `GetAlwaysMoveToFolder`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns an  **[ItemProperty](Outlook.ItemProperty.md)** object from the collecti
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
+_expression_ A variable that represents an [ItemProperties](./Outlook.ItemProperties.md) object.
 
 
 ## Parameters

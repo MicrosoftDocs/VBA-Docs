@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the default keyword string assigned to 
 
 ## Syntax
 
- _expression_. `FileAs`
+_expression_. `FileAs`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

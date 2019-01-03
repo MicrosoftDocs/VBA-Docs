@@ -18,9 +18,9 @@ Returns the  **[TreeviewControl](Excel.TreeviewControl.md)** object of the **[Cu
 
 ## Syntax
 
- _expression_. `TreeviewControl`
+_expression_. `TreeviewControl`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Remarks

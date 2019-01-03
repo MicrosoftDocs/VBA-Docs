@@ -18,9 +18,9 @@ Returns the first filtered value for the specified column in a filtered range. R
 
 ## Syntax
 
- _expression_. `Criteria1`
+_expression_. `Criteria1`
 
- _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
+_expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 
 ## Example

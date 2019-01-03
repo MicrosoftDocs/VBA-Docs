@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `CanCheckOut`( `_Filename_` )
+_expression_. `CanCheckOut`( `_Filename_` )
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
 ## Parameters

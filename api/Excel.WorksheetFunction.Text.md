@@ -18,9 +18,9 @@ Converts a value to text in a specific number format.
 
 ## Syntax
 
- _expression_. `Text`( `_Arg1_` , `_Arg2_` )
+_expression_. `Text`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

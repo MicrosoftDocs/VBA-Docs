@@ -18,9 +18,9 @@ Returns or sets an  **[OlTaskStatus](Outlook.OlTaskStatus.md)** constant specify
 
 ## Syntax
 
- _expression_. `Status`
+_expression_. `Status`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

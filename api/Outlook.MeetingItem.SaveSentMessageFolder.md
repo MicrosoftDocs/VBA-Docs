@@ -18,9 +18,9 @@ Setting or getting this property has no noticeable effect. Do not use this prope
 
 ## Syntax
 
- _expression_. `SaveSentMessageFolder`
+_expression_. `SaveSentMessageFolder`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Sets or returns an  **[OlPermissionService](Outlook.OlPermissionService.md)** co
 
 ## Syntax
 
- _expression_. `PermissionService`
+_expression_. `PermissionService`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

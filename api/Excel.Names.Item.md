@@ -18,9 +18,9 @@ Returns a single  **[Name](Excel.Name.md)** object from a **Names** collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` , `_IndexLocal_` , `_RefersTo_` )
+_expression_. `Item`( `_Index_` , `_IndexLocal_` , `_RefersTo_` )
 
- _expression_ A variable that represents a [Names](Excel.Names.md) object.
+_expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 
 ## Parameters

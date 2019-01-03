@@ -18,9 +18,9 @@ Returns an array of string values that name the source sheets for the worksheet'
 
 ## Syntax
 
- _expression_. `ConsolidationSources`
+_expression_. `ConsolidationSources`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

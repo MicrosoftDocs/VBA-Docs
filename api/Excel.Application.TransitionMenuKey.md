@@ -18,9 +18,9 @@ Returns or sets the Microsoft Excel menu or help key, which is usually "/". Read
 
 ## Syntax
 
- _expression_. `TransitionMenuKey`
+_expression_. `TransitionMenuKey`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

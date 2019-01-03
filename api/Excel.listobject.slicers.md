@@ -16,9 +16,9 @@ Returns a list of the table slicers associated with a  **ListObject**. Read-only
 
 ## Syntax
 
- _expression_. `Slicers`
+_expression_. `Slicers`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks

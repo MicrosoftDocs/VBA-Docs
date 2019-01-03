@@ -18,9 +18,9 @@ Returns or sets a  **Long** indicating the total work for the task. Read/write.
 
 ## Syntax
 
- _expression_. `TotalWork`
+_expression_. `TotalWork`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

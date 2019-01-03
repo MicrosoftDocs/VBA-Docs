@@ -18,9 +18,9 @@ For an  **Application** object, returns a **[Sheets](Excel.Sheets.md)** collecti
 
 ## Syntax
 
- _expression_. `Worksheets`
+_expression_. `Worksheets`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

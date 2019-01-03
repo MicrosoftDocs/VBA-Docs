@@ -18,7 +18,7 @@ Creates a new  **[SharingItem](Outlook.SharingItem.md)** object.
 
 ## Syntax
 
- _expression_. `CreateSharingItem`( `_Context_` , `_Provider_` )
+_expression_. `CreateSharingItem`( `_Context_` , `_Provider_` )
 
  _expression_ An expression that returns a [NameSpace](./Outlook.NameSpace.md) object.
 

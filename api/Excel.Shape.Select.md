@@ -18,9 +18,9 @@ Selects the object.
 
 ## Syntax
 
- _expression_. `Select`( `_Replace_` )
+_expression_. `Select`( `_Replace_` )
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Parameters

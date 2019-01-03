@@ -18,7 +18,7 @@ Gets a number representing a validation error in a  **CustomXMLValidationError**
 
 ## Syntax
 
- _expression_. `ErrorCode`
+_expression_. `ErrorCode`
 
  _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 

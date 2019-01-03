@@ -15,9 +15,9 @@ Occurs when an instance of the parent object is opened for editing by the user.
 
 ## Syntax
 
- _expression_. `Read`
+_expression_. `Read`
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

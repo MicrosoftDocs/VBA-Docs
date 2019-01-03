@@ -14,9 +14,9 @@ Occurs when the user performs an action that causes an inline response to appear
 
 ## Syntax
 
- _expression_. `InlineResponse`_(Item)_
+_expression_. `InlineResponse`_(Item)_
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Parameters

@@ -16,9 +16,9 @@ Returns a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) colle
 
 ## Syntax
 
- _expression_. `ColumnsChanged`
+_expression_. `ColumnsChanged`
 
- _expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) object.
+_expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) object.
 
 
 ## Property value

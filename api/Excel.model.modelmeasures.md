@@ -13,9 +13,9 @@ Returns a [ModelMeasures object (Excel)](Excel.modelmeasures.md) object that rep
 
 ## Syntax
 
- _expression_. `ModelMeasures`
+_expression_. `ModelMeasures`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also

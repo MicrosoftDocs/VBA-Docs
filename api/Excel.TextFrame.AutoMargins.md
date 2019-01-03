@@ -18,9 +18,9 @@ Returns or sets whether Excel automatically calculates text frame margins. Read/
 
 ## Syntax
 
- _expression_. `AutoMargins`
+_expression_. `AutoMargins`
 
- _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
 ## Return value

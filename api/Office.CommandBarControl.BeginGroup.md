@@ -18,9 +18,9 @@ Gets  **True** if the specified command bar control appears at the beginning of 
 
 ## Syntax
 
- _expression_. `BeginGroup`
+_expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

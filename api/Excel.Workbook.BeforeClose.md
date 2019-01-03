@@ -18,9 +18,9 @@ Occurs before the workbook closes. If the workbook has been changed, this event 
 
 ## Syntax
 
- _expression_. `BeforeClose`( `_Cancel_` )
+_expression_. `BeforeClose`( `_Cancel_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

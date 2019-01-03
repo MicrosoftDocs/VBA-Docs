@@ -18,9 +18,9 @@ Displays the  **Pick Folder** dialog box.
 
 ## Syntax
 
- _expression_. `PickFolder`
+_expression_. `PickFolder`
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## Return value

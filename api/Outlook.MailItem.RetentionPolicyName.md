@@ -18,9 +18,9 @@ Returns a  **String** that specifies the name of the retention policy. Read-only
 
 ## Syntax
 
- _expression_. `RetentionPolicyName`
+_expression_. `RetentionPolicyName`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

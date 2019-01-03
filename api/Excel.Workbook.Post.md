@@ -18,9 +18,9 @@ Posts the specified workbook to a public folder. This method works only with a M
 
 ## Syntax
 
- _expression_. `Post`( `_DestName_` )
+_expression_. `Post`( `_DestName_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

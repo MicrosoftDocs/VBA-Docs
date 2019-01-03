@@ -18,9 +18,9 @@ Returns or sets a  **String** value that represents the specified object's link 
 
 ## Syntax
 
- _expression_. `SourceName`
+_expression_. `SourceName`
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## See also

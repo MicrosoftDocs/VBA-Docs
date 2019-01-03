@@ -18,9 +18,9 @@ Returns or sets the size of the top margin, in points. Read/write  **Double**.
 
 ## Syntax
 
- _expression_. `TopMargin`
+_expression_. `TopMargin`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks

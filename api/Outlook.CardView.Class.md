@@ -18,9 +18,9 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 ## Syntax
 
- _expression_. `Class`
+_expression_. `Class`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## See also

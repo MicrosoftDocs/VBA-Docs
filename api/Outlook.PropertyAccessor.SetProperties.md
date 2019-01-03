@@ -18,9 +18,9 @@ Sets the properties specified by the array  _SchemaNames_ to the values specifie
 
 ## Syntax
 
- _expression_. `SetProperties`( `_SchemaNames_` , `_Values_` )
+_expression_. `SetProperties`( `_SchemaNames_` , `_Values_` )
 
- _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
+_expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyAccessor.md) object.
 
 
 ## Parameters

@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies the location of the tabs on a **[
 
 ## Syntax
 
- _expression_. **TabOrientation**
+_expression_. **TabOrientation**
 
- _expression_ A variable that represents a  **MultiPage** object.
+_expression_ A variable that represents a  **MultiPage** object.
 
 
 ## Remarks

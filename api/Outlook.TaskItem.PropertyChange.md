@@ -15,9 +15,9 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.Tas
 
 ## Syntax
 
- _expression_. `PropertyChange`( `_Name_` )
+_expression_. `PropertyChange`( `_Name_` )
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Parameters

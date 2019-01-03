@@ -18,7 +18,7 @@ Gets a  **String** with the canonicalized XPath for the current node. If the nod
 
 ## Syntax
 
- _expression_. `XPath`
+_expression_. `XPath`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

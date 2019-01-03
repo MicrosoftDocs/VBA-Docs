@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that indicates whether the **Solutions** mo
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
+_expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsModule.md)' object.
 
 
 ## Remarks

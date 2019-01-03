@@ -18,7 +18,7 @@ Deletes the current node from the tree (including all of its children, if any ex
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

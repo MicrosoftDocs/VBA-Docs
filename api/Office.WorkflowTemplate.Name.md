@@ -18,7 +18,7 @@ Gets the name of the  **WorkflowTemplate** object. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
  _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 

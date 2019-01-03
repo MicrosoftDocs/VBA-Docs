@@ -16,9 +16,9 @@ Returns or sets a  **Single** that specifies the distance, in points, of the lef
 
 ## Syntax
 
- _expression_. **ScrollLeft**
+_expression_. **ScrollLeft**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

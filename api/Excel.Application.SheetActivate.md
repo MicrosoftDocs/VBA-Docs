@@ -18,7 +18,7 @@ Occurs when any sheet is activated.
 
 ## Syntax
 
- _expression_. `SheetActivate`( `_Sh_` , )
+_expression_. `SheetActivate`( `_Sh_` , )
 
  _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 

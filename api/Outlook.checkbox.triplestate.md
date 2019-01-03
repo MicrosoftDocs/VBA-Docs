@@ -16,9 +16,9 @@ Returns or sets a  **Boolean** that determines whether a user can specify, from 
 
 ## Syntax
 
- _expression_. **TripleState**
+_expression_. **TripleState**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

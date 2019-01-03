@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the email address of the **[AddressEn
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
+_expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 
 
 ## Remarks

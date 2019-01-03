@@ -18,7 +18,7 @@ Saves the view, or saves the changes to a view.
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
  _expression_ An expression that returns a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 

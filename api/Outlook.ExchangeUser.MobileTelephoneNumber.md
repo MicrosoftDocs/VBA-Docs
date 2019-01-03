@@ -18,9 +18,9 @@ Returns a  **String** representing the mobile telephone number for the **[Exchan
 
 ## Syntax
 
- _expression_. `MobileTelephoneNumber`
+_expression_. `MobileTelephoneNumber`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

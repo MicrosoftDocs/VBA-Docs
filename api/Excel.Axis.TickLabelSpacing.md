@@ -18,9 +18,9 @@ Returns or sets the number of categories or series between tick-mark labels. App
 
 ## Syntax
 
- _expression_. `TickLabelSpacing`
+_expression_. `TickLabelSpacing`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

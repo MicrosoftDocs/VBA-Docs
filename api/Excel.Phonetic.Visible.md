@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
+_expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
 
 
 ## See also

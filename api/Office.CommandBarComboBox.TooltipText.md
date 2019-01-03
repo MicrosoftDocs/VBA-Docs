@@ -18,9 +18,9 @@ Gets or sets the text displayed in a  **CommandBarComboBox's** **ScreenTip**. Re
 
 ## Syntax
 
- _expression_. `TooltipText`
+_expression_. `TooltipText`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns or sets a single sign-on application (SSO) identifier that is used to do
 
 ## Syntax
 
- _expression_. `ServerSSOApplicationID`
+_expression_. `ServerSSOApplicationID`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## See also

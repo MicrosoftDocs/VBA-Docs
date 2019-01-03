@@ -18,9 +18,9 @@ Immediately ends the search that is being performed currently.
 
 ## Syntax
 
- _expression_. `Stop`
+_expression_. `Stop`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## See also

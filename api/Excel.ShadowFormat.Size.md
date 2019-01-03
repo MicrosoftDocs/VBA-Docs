@@ -18,9 +18,9 @@ Returns or sets the size of the specified shadow. Read/write  **Single**.
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## See also

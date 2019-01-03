@@ -18,9 +18,9 @@ The angle of the linear gradient fill within a selection. Read/write
 
 ## Syntax
 
- _expression_. `Degree`
+_expression_. `Degree`
 
- _expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
+_expression_ A variable that represents a [LinearGradient](Excel.LinearGradient.md) object.
 
 
 ## Return value

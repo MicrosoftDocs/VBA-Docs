@@ -18,9 +18,9 @@ Returns or sets how Excel will validate files before opening them. Read/write
 
 ## Syntax
 
- _expression_. `FileValidation`
+_expression_. `FileValidation`
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Return value

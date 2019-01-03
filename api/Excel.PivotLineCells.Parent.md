@@ -18,9 +18,9 @@ Returns the parent object for the specified  **PivotLineCells** object. Read-onl
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
+_expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.md) object.
 
 
 ## See also

@@ -15,7 +15,7 @@ Gets or sets a value that specifies whether the numbers in a numbered list shoul
 
 ## Syntax
 
- _expression_. `AutorotateNumbers`
+_expression_. `AutorotateNumbers`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

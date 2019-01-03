@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** corresponding to a specified chart's data label v
 
 ## Syntax
 
- _expression_. `ShowValue`
+_expression_. `ShowValue`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

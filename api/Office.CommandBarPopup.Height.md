@@ -18,9 +18,9 @@ Gets or sets the height of a  **CommandBarPopup** control. Read/write.
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

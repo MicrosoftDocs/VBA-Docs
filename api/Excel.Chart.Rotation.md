@@ -18,9 +18,9 @@ Returns or sets the rotation of the 3-D chart view (the rotation of the plot are
 
 ## Syntax
 
- _expression_. `Rotation`
+_expression_. `Rotation`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Converts a binary number to octal.
 
 ## Syntax
 
- _expression_. `Bin2Oct`( `_Arg1_` , `_Arg2_` )
+_expression_. `Bin2Oct`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

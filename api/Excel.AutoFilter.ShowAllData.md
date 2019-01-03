@@ -18,9 +18,9 @@ Displays all the data returned by the  **AutoFilter** object.
 
 ## Syntax
 
- _expression_. `ShowAllData`
+_expression_. `ShowAllData`
 
- _expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
+_expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
 
 
 ## See also

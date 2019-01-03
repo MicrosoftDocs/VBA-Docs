@@ -15,7 +15,7 @@ Returns the calling object. Read-only
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [SmartArtNodes](Office.SmartArtNodes.md) object.
 

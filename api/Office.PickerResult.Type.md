@@ -18,7 +18,7 @@ Represents the type of a  **PickerResult** object. Read/write
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 

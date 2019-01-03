@@ -18,7 +18,7 @@ Gets a  **Boolean** value indicating whether the digital certificate is expired.
 
 ## Syntax
 
- _expression_. `IsCertificateExpired`
+_expression_. `IsCertificateExpired`
 
  _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 

@@ -18,9 +18,9 @@ Returns a  **[SlicerItems](Excel.SlicerItems.md)** collection that contains the 
 
 ## Syntax
 
- _expression_. `SlicerItems`
+_expression_. `SlicerItems`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Return value

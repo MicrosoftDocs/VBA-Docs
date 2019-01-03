@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Add`( `_Id_`, `_Value_`, `_Type_` )
+_expression_. `Add`( `_Id_`, `_Value_`, `_Type_` )
 
  _expression_ An expression that returns a [PickerProperties](Office.PickerProperties.md) object.
 

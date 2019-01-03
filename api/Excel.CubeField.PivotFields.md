@@ -18,7 +18,7 @@ Returns the  **[PivotFields](Excel.PivotFields.md)** collection. This collection
 
 ## Syntax
 
- _expression_. `PivotFields`
+_expression_. `PivotFields`
 
  _expression_ An expression that returns a [CubeField](Excel.CubeField.md) object.
 

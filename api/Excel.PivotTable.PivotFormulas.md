@@ -18,9 +18,9 @@ Returns a  **[PivotFormulas](Excel.PivotFormulas.md)** object that represents th
 
 ## Syntax
 
- _expression_. `PivotFormulas`
+_expression_. `PivotFormulas`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks

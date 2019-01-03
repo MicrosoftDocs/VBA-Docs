@@ -18,9 +18,9 @@ Returns or sets one of the constants of the  **[xlThemeColor](Excel.XlThemeColor
 
 ## Syntax
 
- _expression_. `ThemeColor`
+_expression_. `ThemeColor`
 
- _expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
+_expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
 
 
 ## See also

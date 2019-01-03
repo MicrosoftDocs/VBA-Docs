@@ -18,9 +18,9 @@ Returns or sets an  **[OlDefaultExpandCollapseSetting](Outlook.OlDefaultExpandCo
 
 ## Syntax
 
- _expression_. `DefaultExpandCollapseSetting`
+_expression_. `DefaultExpandCollapseSetting`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

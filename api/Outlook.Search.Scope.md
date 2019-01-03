@@ -18,9 +18,9 @@ Returns a  **String** that specifies the scope of the specified search. Read-onl
 
 ## Syntax
 
- _expression_. `Scope`
+_expression_. `Scope`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## Remarks

@@ -18,7 +18,7 @@ Gets the  **Parent** object for the **PolicyItem** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 

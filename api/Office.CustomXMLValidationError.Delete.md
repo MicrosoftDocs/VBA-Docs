@@ -18,7 +18,7 @@ Deletes the  **CustomXMLValidationError** object representing a data validation 
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
  _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 

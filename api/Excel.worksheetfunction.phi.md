@@ -16,9 +16,9 @@ Returns the value of the density function for a standard normal distribution.
 
 ## Syntax
 
- _expression_. `Phi`_(Arg1)_
+_expression_. `Phi`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

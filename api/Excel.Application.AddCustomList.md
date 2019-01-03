@@ -18,9 +18,9 @@ Adds a custom list for custom autofill and/or custom sort.
 
 ## Syntax
 
- _expression_. `AddCustomList`( `_ListArray_` , `_ByRow_` )
+_expression_. `AddCustomList`( `_ListArray_` , `_ByRow_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

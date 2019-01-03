@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.NodeAfterInsert Event (Office)
+title: CustomXMLPart.NodeAfterInsert event (Office)
 keywords: vbaof11.chm296001
 f1_keywords:
 - vbaof11.chm296001
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.NodeAfterInsert Event (Office)
+# CustomXMLPart.NodeAfterInsert event (Office)
 
 Occurs after a node is inserted in a  **CustomXMLPart** object.
 
 
 ## Syntax
 
- _expression_. `NodeAfterInsert`( `_NewNode_`, `_InUndoRedo_` )
+_expression_. `NodeAfterInsert`( `_NewNode_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 

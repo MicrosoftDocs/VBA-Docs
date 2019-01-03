@@ -18,7 +18,7 @@ Removes the specified node (and its subtree) from the main tree, and replaces it
 
 ## Syntax
 
- _expression_. `ReplaceChildSubtree`( `_XML_`, `_OldNode_` )
+_expression_. `ReplaceChildSubtree`( `_XML_`, `_OldNode_` )
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

@@ -15,7 +15,7 @@ Gets or sets a value specifying the strike format used for a selection of text. 
 
 ## Syntax
 
- _expression_. `Strike`
+_expression_. `Strike`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

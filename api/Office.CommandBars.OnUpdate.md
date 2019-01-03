@@ -1,5 +1,5 @@
 ---
-title: CommandBars.OnUpdate Event (Office)
+title: CommandBars.OnUpdate event (Office)
 keywords: vbaof11.chm228001
 f1_keywords:
 - vbaof11.chm228001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.OnUpdate Event (Office)
+# CommandBars.OnUpdate event (Office)
 
 Occurs when any change is made to a command bar.
 
@@ -21,9 +21,9 @@ Occurs when any change is made to a command bar.
 
 ## Syntax
 
- _expression_. `OnUpdate`
+_expression_. `OnUpdate`
 
- _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

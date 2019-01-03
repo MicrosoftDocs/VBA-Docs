@@ -18,7 +18,7 @@ Gets or sets the name of the principle signer of the document. Read/write.
 
 ## Syntax
 
- _expression_. `SuggestedSigner`
+_expression_. `SuggestedSigner`
 
  _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 

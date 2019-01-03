@@ -18,9 +18,9 @@ Returns the file name extensions associated with the specified  **[FileExportCon
 
 ## Syntax
 
- _expression_. `Extensions`
+_expression_. `Extensions`
 
- _expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
+_expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
 
 
 ## Example

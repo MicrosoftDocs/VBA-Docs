@@ -18,7 +18,7 @@ Removes a document library version from the  **DocumentLibraryVersions** collect
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
  _expression_ Required. A variable that represents a '[DocumentLibraryVersion](Office.DocumentLibraryVersion.md)' object.
 

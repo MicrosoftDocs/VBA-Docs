@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Out
 
 ## Syntax
 
- _expression_. `IsRemovable`
+_expression_. `IsRemovable`
 
- _expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
+_expression_ A variable that represents a [NavigationFolder](./Outlook.NavigationFolder.md) object.
 
 
 ## Remarks

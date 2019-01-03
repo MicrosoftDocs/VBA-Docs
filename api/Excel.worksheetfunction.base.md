@@ -16,9 +16,9 @@ Converts a number into a text representation with the given radix (base).
 
 ## Syntax
 
- _expression_. `Base`_(Arg1,_ _Arg2,_ _Arg3)_
+_expression_. `Base`_(Arg1,_ _Arg2,_ _Arg3)_
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

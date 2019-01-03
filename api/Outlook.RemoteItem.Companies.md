@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the names of the companies associated
 
 ## Syntax
 
- _expression_. `Companies`
+_expression_. `Companies`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## Remarks

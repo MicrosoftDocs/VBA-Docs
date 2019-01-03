@@ -18,9 +18,9 @@ Returns a  **[SimpleItems](Outlook.SimpleItems.md)** collection that contains al
 
 ## Syntax
 
- _expression_. `GetRootItems`
+_expression_. `GetRootItems`
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Return value

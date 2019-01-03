@@ -18,9 +18,9 @@ Returns the gamma distribution. You can use this function to study variables tha
 
 ## Syntax
 
- _expression_. `Gamma_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
+_expression_. `Gamma_Dist`( `_Arg1_` , `_Arg2_` , `_Arg3_` , `_Arg4_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters

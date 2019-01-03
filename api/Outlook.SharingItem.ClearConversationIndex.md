@@ -18,9 +18,9 @@ Clears the index of the conversation thread for the  **[SharingItem](Outlook.Sha
 
 ## Syntax
 
- _expression_. `ClearConversationIndex`
+_expression_. `ClearConversationIndex`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

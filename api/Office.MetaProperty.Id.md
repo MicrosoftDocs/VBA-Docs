@@ -18,7 +18,7 @@ Gets the ID of the  **MetaProperty** object. Read-only.
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 

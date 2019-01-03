@@ -18,9 +18,9 @@ Returns or sets the default direction in which Microsoft Excel displays new wind
 
 ## Syntax
 
- _expression_. `DefaultSheetDirection`
+_expression_. `DefaultSheetDirection`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

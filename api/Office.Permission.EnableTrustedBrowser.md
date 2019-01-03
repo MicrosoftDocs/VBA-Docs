@@ -18,7 +18,7 @@ Gets or sets a value indicating whether to enable a browser from a trusted sourc
 
 ## Syntax
 
- _expression_. `EnableTrustedBrowser`
+_expression_. `EnableTrustedBrowser`
 
  _expression_ An expression that returns a [Permission](Office.Permission.md) object.
 

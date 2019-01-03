@@ -18,9 +18,9 @@ Gets or sets a  **String** that represents the name of the field in the mail mer
 
 ## Syntax
 
- _expression_. `Column`
+_expression_. `Column`
 
- _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Example

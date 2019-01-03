@@ -18,9 +18,9 @@ Returns or sets a  **[xlBorderWeight](Excel.XlBorderWeight.md)** value that repr
 
 ## Syntax
 
- _expression_. `Weight`
+_expression_. `Weight`
 
- _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
+_expression_ A variable that represents a [Borders](Excel.Borders.md) object.
 
 
 ## See also

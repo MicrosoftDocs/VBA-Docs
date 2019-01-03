@@ -18,9 +18,9 @@ Returns a  **DateTime** value that indicates the creation time for the **[Storag
 
 ## Syntax
 
- _expression_. `CreationTime`
+_expression_. `CreationTime`
 
- _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
+_expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md) object.
 
 
 ## See also

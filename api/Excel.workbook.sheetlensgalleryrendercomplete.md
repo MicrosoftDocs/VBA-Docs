@@ -16,9 +16,9 @@ Occurs when a callout gallery?s icons (dynamic & static) have completed renderin
 
 ## Syntax
 
- _expression_. `SheetLensGalleryRenderComplete`_(Sh)_
+_expression_. `SheetLensGalleryRenderComplete`_(Sh)_
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

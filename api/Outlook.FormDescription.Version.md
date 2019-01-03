@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the number of the version. Read/write.
 
 ## Syntax
 
- _expression_. `Version`
+_expression_. `Version`
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## See also

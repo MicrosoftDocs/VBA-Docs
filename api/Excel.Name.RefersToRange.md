@@ -18,9 +18,9 @@ Returns the  **[Range](Excel.Range(object).md)** object referred to by a **Name*
 
 ## Syntax
 
- _expression_. `RefersToRange`
+_expression_. `RefersToRange`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Remarks

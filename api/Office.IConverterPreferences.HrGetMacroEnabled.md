@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. `HrGetMacroEnabled`( `_pfMacroEnabled_` )
+_expression_. `HrGetMacroEnabled`( `_pfMacroEnabled_` )
 
  _expression_ An expression that returns a [IConverterPreferences](Office.IConverterPreferences.md) object.
 

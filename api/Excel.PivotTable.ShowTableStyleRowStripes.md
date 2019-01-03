@@ -18,9 +18,9 @@ The  **ShowTableStyleRowStripes** property displays banded rows in which even ro
 
 ## Syntax
 
- _expression_. `ShowTableStyleRowStripes`
+_expression_. `ShowTableStyleRowStripes`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## See also

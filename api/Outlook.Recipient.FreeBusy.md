@@ -18,9 +18,9 @@ Returns free/busy information for the recipient.
 
 ## Syntax
 
- _expression_. `FreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
+_expression_. `FreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
- _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 
 
 ## Parameters

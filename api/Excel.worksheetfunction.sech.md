@@ -16,9 +16,9 @@ Returns the hyperbolic secant of an angle.
 
 ## Syntax
 
- _expression_. `Sech`_(Arg1)_
+_expression_. `Sech`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

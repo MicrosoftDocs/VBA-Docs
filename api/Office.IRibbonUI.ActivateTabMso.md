@@ -18,7 +18,7 @@ Activates the specified built-in tab.
 
 ## Syntax
 
- _expression_. `ActivateTabMso`( `_ControlID_` )
+_expression_. `ActivateTabMso`( `_ControlID_` )
 
  _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Text`
+_expression_. `Text`
 
- _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
 
 
 ## Example

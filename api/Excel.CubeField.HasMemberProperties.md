@@ -18,9 +18,9 @@ Returns  **True** when there are member properties specified to be displayed for
 
 ## Syntax
 
- _expression_. `HasMemberProperties`
+_expression_. `HasMemberProperties`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Example

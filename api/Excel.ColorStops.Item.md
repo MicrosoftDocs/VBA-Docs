@@ -18,7 +18,7 @@ Returns a single object from the represented collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a [ColorStops](Excel.ColorStops.md) object.
 

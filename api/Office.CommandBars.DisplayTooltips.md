@@ -21,9 +21,9 @@ Is  **True** if ScreenTips are displayed whenever the user positions the pointer
 
 ## Syntax
 
- _expression_. `DisplayTooltips`
+_expression_. `DisplayTooltips`
 
- _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

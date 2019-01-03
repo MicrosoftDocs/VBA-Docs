@@ -18,9 +18,9 @@ Occurs after a PivotTable report is updated on a worksheet.
 
 ## Syntax
 
- _expression_. `PivotTableUpdate`( `_Target_` )
+_expression_. `PivotTableUpdate`( `_Target_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Parameters

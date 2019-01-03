@@ -18,9 +18,9 @@ Returns or sets a  **[xlTrendlineType](Excel.XlTrendlineType.md)** value that re
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
+_expression_ A variable that represents a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 
 ## Example

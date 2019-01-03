@@ -18,9 +18,9 @@ Returns an  **[Areas](Excel.Areas.md)** collection that represents all the range
 
 ## Syntax
 
- _expression_. `Areas`
+_expression_. `Areas`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

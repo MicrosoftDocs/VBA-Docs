@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.VisibleStateChange Event (Office)
+title: CustomTaskPane.VisibleStateChange event (Office)
 keywords: vbaof11.chm302001
 f1_keywords:
 - vbaof11.chm302001
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.VisibleStateChange Event (Office)
+# CustomTaskPane.VisibleStateChange event (Office)
 
 Occurs when the user changes the visibility of the custom task pane.
 
 
 ## Syntax
 
- _expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
+_expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
 
  _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 

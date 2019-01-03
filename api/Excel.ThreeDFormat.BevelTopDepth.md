@@ -15,9 +15,9 @@ Returns or sets the top depth when using the bevel effect on a  **ThreeDFormat**
 
 ## Syntax
 
- _expression_. `BevelTopDepth`
+_expression_. `BevelTopDepth`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

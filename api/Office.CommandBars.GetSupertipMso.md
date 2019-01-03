@@ -21,7 +21,7 @@ Returns the supertip of the control identified by the  **idMso** parameter as a 
 
 ## Syntax
 
- _expression_. `GetSupertipMso`( `_idMso_` )
+_expression_. `GetSupertipMso`( `_idMso_` )
 
  _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 

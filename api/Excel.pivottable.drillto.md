@@ -16,9 +16,9 @@ Enables you to drill to a location within an OLAP or PowerPivot based cube hiera
 
 ## Syntax
 
- _expression_. `DrillTo`_(PivotItem,_ _CubeField,_ _PivotLine)_
+_expression_. `DrillTo`_(PivotItem,_ _CubeField,_ _PivotLine)_
 
- _expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
 
 
 ## Parameters

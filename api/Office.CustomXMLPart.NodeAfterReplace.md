@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.NodeAfterReplace Event (Office)
+title: CustomXMLPart.NodeAfterReplace event (Office)
 keywords: vbaof11.chm296003
 f1_keywords:
 - vbaof11.chm296003
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.NodeAfterReplace Event (Office)
+# CustomXMLPart.NodeAfterReplace event (Office)
 
 Occurs just after a node is replaced in a  **CustomXMLPart** object.
 
 
 ## Syntax
 
- _expression_. `NodeAfterReplace`( `_OldNode_`, `_NewNode_`, `_InUndoRedo_` )
+_expression_. `NodeAfterReplace`( `_OldNode_`, `_NewNode_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 

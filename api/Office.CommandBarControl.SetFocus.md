@@ -18,9 +18,9 @@ Moves the keyboard focus to the specified CommandBarControl. If the control is d
 
 ## Syntax
 
- _expression_. `SetFocus`
+_expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Remarks

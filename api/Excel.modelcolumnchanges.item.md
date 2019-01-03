@@ -16,9 +16,9 @@ Returns a single object from the [ModelColumnChanges object (Excel)](Excel.model
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
+_expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Parameters

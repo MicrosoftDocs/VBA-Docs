@@ -18,9 +18,9 @@ Returns or sets a **Variant** value that represents the vertical alignment of th
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_. `VerticalAlignment`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets or sets the  **Visible** property of the **CommandBarPopup** control. Read/
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

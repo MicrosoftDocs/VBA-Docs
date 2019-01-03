@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `TwoInitialCapitals`
+_expression_. `TwoInitialCapitals`
 
- _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets a  **[xlBorderWeight](Excel.XlBorderWeight.md)** value that repr
 
 ## Syntax
 
- _expression_. `Weight`
+_expression_. `Weight`
 
- _expression_ A variable that represents a [Border](Excel.Border-graph-property.md) object.
+_expression_ A variable that represents a [Border](Excel.Border-graph-property.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Copies a command bar combo box control to an existing command bar.
 
 ## Syntax
 
- _expression_. `Copy`( `_Bar_`, `_Before_` )
+_expression_. `Copy`( `_Bar_`, `_Before_` )
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Parameters

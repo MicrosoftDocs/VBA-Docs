@@ -15,7 +15,7 @@ Retrieves or sets the SmartArt quick style applied to the SmartArt graphic. Read
 
 ## Syntax
 
- _expression_. `QuickStyle`
+_expression_. `QuickStyle`
 
  _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 

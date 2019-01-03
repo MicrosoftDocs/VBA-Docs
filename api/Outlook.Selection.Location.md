@@ -18,9 +18,9 @@ Returns an  **[OlSelectionLocation](Outlook.OlSelectionLocation.md)** constant t
 
 ## Syntax
 
- _expression_. `Location`
+_expression_. `Location`
 
- _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
+_expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 
 
 ## Remarks

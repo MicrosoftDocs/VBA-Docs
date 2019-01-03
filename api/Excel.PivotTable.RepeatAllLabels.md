@@ -18,9 +18,9 @@ Specifies whether to repeat item labels for all PivotFields in the specified Piv
 
 ## Syntax
 
- _expression_. `RepeatAllLabels`( `_Repeat_` )
+_expression_. `RepeatAllLabels`( `_Repeat_` )
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Parameters

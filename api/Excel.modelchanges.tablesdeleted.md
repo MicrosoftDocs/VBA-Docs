@@ -16,9 +16,9 @@ Returns a [ModelTableNames object (Excel)](Excel.modeltablenames.md) collection 
 
 ## Syntax
 
- _expression_. `TablesDeleted`
+_expression_. `TablesDeleted`
 
- _expression_ A variable that represents a 'ModelChanges' object.
+_expression_ A variable that represents a 'ModelChanges' object.
 
 
 ## Property value

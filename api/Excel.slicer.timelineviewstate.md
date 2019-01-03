@@ -16,9 +16,9 @@ The timeline-specific state of the Slicer.  **TimelineViewState** Read-only
 
 ## Syntax
 
- _expression_. `TimelineViewState`
+_expression_. `TimelineViewState`
 
- _expression_ A variable that represents a [Slicer](./Excel.Slicer.md) object.
+_expression_ A variable that represents a [Slicer](./Excel.Slicer.md) object.
 
 
 ## Property value

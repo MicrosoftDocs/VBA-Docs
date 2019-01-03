@@ -18,9 +18,9 @@ Displays the standard  **Open** dialog box and gets a file name from the user wi
 
 ## Syntax
 
- _expression_. `GetOpenFilename`( `_FileFilter_` , `_FilterIndex_` , `_Title_` , `_ButtonText_` , `_MultiSelect_` )
+_expression_. `GetOpenFilename`( `_FileFilter_` , `_FilterIndex_` , `_Title_` , `_ButtonText_` , `_MultiSelect_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

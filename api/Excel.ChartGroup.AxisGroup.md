@@ -18,9 +18,9 @@ Returns or sets the group for the specified chart. Read/write
 
 ## Syntax
 
- _expression_. `AxisGroup`
+_expression_. `AxisGroup`
 
- _expression_ A variable that represents a '[ChartGroup](Excel.ChartGroup(object).md)' object.
+_expression_ A variable that represents a '[ChartGroup](Excel.ChartGroup(object).md)' object.
 
 
 ## Return value

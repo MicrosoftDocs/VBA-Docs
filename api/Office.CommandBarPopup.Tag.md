@@ -18,9 +18,9 @@ Gets or sets information about the  **CommandBarPopup** control, such as data th
 
 ## Syntax
 
- _expression_. `Tag`
+_expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

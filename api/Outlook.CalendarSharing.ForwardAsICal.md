@@ -18,7 +18,7 @@ Forwards calendar information from the parent  **[Folder](Outlook.Folder.md)** o
 
 ## Syntax
 
- _expression_. `ForwardAsICal`( `_MailFormat_` )
+_expression_. `ForwardAsICal`( `_MailFormat_` )
 
  _expression_ An expression that returns a [CalendarSharing](./Outlook.CalendarSharing.md) object.
 

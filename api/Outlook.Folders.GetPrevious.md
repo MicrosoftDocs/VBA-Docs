@@ -18,9 +18,9 @@ Returns the previous object in the  **[Folders](Outlook.Folders.md)** collection
 
 ## Syntax
 
- _expression_. `GetPrevious`
+_expression_. `GetPrevious`
 
- _expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
+_expression_ A variable that represents a [Folders](./Outlook.Folders.md) object.
 
 
 ## Return value

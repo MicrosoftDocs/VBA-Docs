@@ -18,9 +18,9 @@ Returns a  **[xlListObjectSourceType](Excel.XlListObjectSourceType.md)** value t
 
 ## Syntax
 
- _expression_. `SourceType`
+_expression_. `SourceType`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Example

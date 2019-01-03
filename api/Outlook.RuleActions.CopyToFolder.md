@@ -18,9 +18,9 @@ Returns a  **[MoveOrCopyRuleAction](Outlook.MoveOrCopyRuleAction.md)** object wi
 
 ## Syntax
 
- _expression_. `CopyToFolder`
+_expression_. `CopyToFolder`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

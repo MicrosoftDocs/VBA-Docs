@@ -18,7 +18,7 @@ Adds an existing schema collection to the current schema collection.
 
 ## Syntax
 
- _expression_. `AddCollection`( `_SchemaCollection_` )
+_expression_. `AddCollection`( `_SchemaCollection_` )
 
  _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 

@@ -18,7 +18,7 @@ Allows a signature provider add-in to create a hash value for the document that 
 
 ## Syntax
 
- _expression_. `HashStream`( `_QueryContinue_`, `_Stream_` )
+_expression_. `HashStream`( `_QueryContinue_`, `_Stream_` )
 
  _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 

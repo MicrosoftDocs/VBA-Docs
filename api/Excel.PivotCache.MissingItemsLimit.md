@@ -18,9 +18,9 @@ Returns or sets the maximum quantity of unique items per PivotTable field that a
 
 ## Syntax
 
- _expression_. `MissingItemsLimit`
+_expression_. `MissingItemsLimit`
 
- _expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
+_expression_ A variable that represents a [PivotCache](Excel.PivotCache.md) object.
 
 
 ## Remarks

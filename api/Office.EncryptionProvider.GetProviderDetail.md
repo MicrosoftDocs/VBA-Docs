@@ -18,7 +18,7 @@ Displays information about the encryption of the current document.
 
 ## Syntax
 
- _expression_. `GetProviderDetail`( `_encprovdet_` )
+_expression_. `GetProviderDetail`( `_encprovdet_` )
 
  _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 

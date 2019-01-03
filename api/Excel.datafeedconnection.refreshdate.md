@@ -16,9 +16,9 @@ Returns the date on which the OLE DB connection was last refreshed.  **Date**. R
 
 ## Syntax
 
- _expression_. `RefreshDate`
+_expression_. `RefreshDate`
 
- _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

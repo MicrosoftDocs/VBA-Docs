@@ -16,9 +16,9 @@ The Data Analysis Expressions (DAX) formula of the model measure. Read/write  **
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
- _expression_ A variable that represents a 'ModelMeasure' object.
+_expression_ A variable that represents a 'ModelMeasure' object.
 
 
 ## See also

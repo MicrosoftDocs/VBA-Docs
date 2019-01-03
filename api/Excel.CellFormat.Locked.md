@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that indicates if the object is locked.
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) object.
+_expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) object.
 
 
 ## Remarks

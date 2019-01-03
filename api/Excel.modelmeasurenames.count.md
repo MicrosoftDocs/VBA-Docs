@@ -16,9 +16,9 @@ Returns a  **Long** value that represents the number of a [ModelMeasureName obje
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
+_expression_ A variable that represents a [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
 
 
 ## Property value

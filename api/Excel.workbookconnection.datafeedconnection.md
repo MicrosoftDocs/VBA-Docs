@@ -16,9 +16,9 @@ Returns a  **DataFeedConnection** object that contains the data and functionalit
 
 ## Syntax
 
- _expression_. `DataFeedConnection`
+_expression_. `DataFeedConnection`
 
- _expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Property value

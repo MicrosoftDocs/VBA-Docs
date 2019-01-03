@@ -18,9 +18,9 @@ Returns the previous object in the  **[Conflicts](Outlook.Conflicts.md)** collec
 
 ## Syntax
 
- _expression_. `GetPrevious`
+_expression_. `GetPrevious`
 
- _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns or sets a  **[xlLegendPosition](Excel.XlLegendPosition.md)** value that 
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
- _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
+_expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 
 
 ## Example

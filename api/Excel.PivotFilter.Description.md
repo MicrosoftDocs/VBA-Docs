@@ -18,9 +18,9 @@ Provides an optional description for the  **PivotFilter** object. Read-only **St
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets the background style. Read/write  **[MsoBackgroundStyleIndex](Of
 
 ## Syntax
 
- _expression_. `BackgroundStyle`
+_expression_. `BackgroundStyle`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## See also

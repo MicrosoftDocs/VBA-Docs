@@ -16,9 +16,9 @@ Specifies if the number of rows returned by the last use of the Refresh method i
 
 ## Syntax
 
- _expression_. `FetchedRowOverflow`
+_expression_. `FetchedRowOverflow`
 
- _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

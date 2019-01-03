@@ -18,9 +18,9 @@ Gets a  **Long** indicating the number of items in the **FileDialogFilters** col
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
 
 
 ## Return value

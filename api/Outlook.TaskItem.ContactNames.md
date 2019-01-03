@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the contact names associated with the
 
 ## Syntax
 
- _expression_. `ContactNames`
+_expression_. `ContactNames`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

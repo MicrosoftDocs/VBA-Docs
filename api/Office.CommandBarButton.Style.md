@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Style
 ms.assetid: 5a9d5a5e-8893-14db-71f2-e007e1f9249f
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -21,9 +21,9 @@ Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
+_expression_ A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
 
 ## Remarks
@@ -33,10 +33,5 @@ The value of the  **Style** property is available as a value in the **[MsoButton
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

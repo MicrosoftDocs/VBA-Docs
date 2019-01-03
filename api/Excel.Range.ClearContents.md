@@ -18,9 +18,9 @@ Clears formulas and values from the range.
 
 ## Syntax
 
- _expression_. `ClearContents`
+_expression_. `ClearContents`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

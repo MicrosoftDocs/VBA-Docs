@@ -16,9 +16,9 @@ Returns or sets an ordered array of constants that specify the data types applie
 
 ## Syntax
 
- _expression_. `TextFileColumnDataTypes`
+_expression_. `TextFileColumnDataTypes`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

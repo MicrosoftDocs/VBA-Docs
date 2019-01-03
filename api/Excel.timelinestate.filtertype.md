@@ -16,9 +16,9 @@ Returns the type of the date filter. [xlPivotFilterType enumeration (Excel)](Exc
 
 ## Syntax
 
- _expression_. `FilterType`
+_expression_. `FilterType`
 
- _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Property value

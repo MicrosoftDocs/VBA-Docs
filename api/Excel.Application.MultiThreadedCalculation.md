@@ -18,9 +18,9 @@ Returns a  **MultiThreadedCalculation** object that controls the multi-threaded 
 
 ## Syntax
 
- _expression_. `MultiThreadedCalculation`
+_expression_. `MultiThreadedCalculation`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## See also

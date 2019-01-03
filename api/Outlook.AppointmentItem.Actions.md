@@ -18,9 +18,9 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 ## Syntax
 
- _expression_. `Actions`
+_expression_. `Actions`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## See also

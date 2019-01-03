@@ -18,9 +18,9 @@ Returns or sets a  **Long** that indicates the foreground color of the control. 
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the second business telephone number 
 
 ## Syntax
 
- _expression_. `Business2TelephoneNumber`
+_expression_. `Business2TelephoneNumber`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

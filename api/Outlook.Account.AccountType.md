@@ -18,9 +18,9 @@ Returns a constant in the  **[OlAccountType](Outlook.OlAccountType.md)** enumera
 
 ## Syntax
 
- _expression_. `AccountType`
+_expression_. `AccountType`
 
- _expression_ A variable that represents an [Account](./Outlook.Account.md) object.
+_expression_ A variable that represents an [Account](./Outlook.Account.md) object.
 
 
 ## See also

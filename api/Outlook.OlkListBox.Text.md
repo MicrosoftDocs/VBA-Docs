@@ -18,9 +18,9 @@ Returns or sets a  **String** that is the text displayed in the control. Read/wr
 
 ## Syntax
 
- _expression_. `Text`
+_expression_. `Text`
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Converts radians into degrees.
 
 ## Syntax
 
- _expression_. `Degrees`( `_Arg1_` )
+_expression_. `Degrees`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

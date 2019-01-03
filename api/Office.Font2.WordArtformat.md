@@ -15,7 +15,7 @@ Gets or sets a value specifying the text effect for the selected text. Read/writ
 
 ## Syntax
 
- _expression_. `WordArtformat`
+_expression_. `WordArtformat`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

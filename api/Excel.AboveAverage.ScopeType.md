@@ -18,9 +18,9 @@ Returns or sets one of the constants of the **[xlPivotConditionScope](Excel.XlPi
 
 ## Syntax
 
- _expression_. `ScopeType`
+_expression_. `ScopeType`
 
- _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## Remarks

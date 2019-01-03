@@ -13,9 +13,9 @@ Returns a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) objec
 
 ## Syntax
 
- _expression_. `CreateModelWorkbookConnection`_(ModelTable)_
+_expression_. `CreateModelWorkbookConnection`_(ModelTable)_
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Parameters

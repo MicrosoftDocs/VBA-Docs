@@ -18,9 +18,9 @@ Returns an  **[Account](Outlook.Account.md)** object specified by _Index_ .
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [Accounts](./Outlook.Accounts.md) object.
+_expression_ A variable that represents an [Accounts](./Outlook.Accounts.md) object.
 
 
 ## Parameters

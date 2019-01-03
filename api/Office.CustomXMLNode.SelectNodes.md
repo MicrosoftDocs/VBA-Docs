@@ -18,7 +18,7 @@ Selects a collection of nodes matching an XPath expression. This method differs 
 
 ## Syntax
 
- _expression_. `SelectNodes`( `_XPath_` )
+_expression_. `SelectNodes`( `_XPath_` )
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

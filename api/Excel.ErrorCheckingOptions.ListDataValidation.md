@@ -18,9 +18,9 @@ A  **Boolean** value that is **True** if data validation is enabled in a list. R
 
 ## Syntax
 
- _expression_. `ListDataValidation`
+_expression_. `ListDataValidation`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## See also

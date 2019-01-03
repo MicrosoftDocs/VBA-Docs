@@ -16,9 +16,9 @@ Returns a  **Long** value that represents the number of[ModelColumnChange object
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
+_expression_ A variable that represents a [ModelColumnChanges object (Excel)](Excel.modelcolumnchanges.md) object.
 
 
 ## Property value

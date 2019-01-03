@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the select
 
 ## Syntax
 
- _expression_. `RangeSelection`
+_expression_. `RangeSelection`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

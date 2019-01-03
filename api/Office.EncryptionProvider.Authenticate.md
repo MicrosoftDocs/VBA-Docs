@@ -18,7 +18,7 @@ Used to determine whether the user has the proper permissions to open the encryp
 
 ## Syntax
 
- _expression_. `Authenticate`( `_ParentWindow_`, `_EncryptionData_`, `_PermissionsMask_` )
+_expression_. `Authenticate`( `_ParentWindow_`, `_EncryptionData_`, `_PermissionsMask_` )
 
  _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets what the name refers to. Read/write  **[xlXLMMacroType](Excel.Xl
 
 ## Syntax
 
- _expression_. `MacroType`
+_expression_. `MacroType`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Remarks

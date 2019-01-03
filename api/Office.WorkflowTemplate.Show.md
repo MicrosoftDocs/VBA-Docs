@@ -18,7 +18,7 @@ Displays a workflow specific configuration user interface for the specified  **W
 
 ## Syntax
 
- _expression_. `Show`
+_expression_. `Show`
 
  _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 

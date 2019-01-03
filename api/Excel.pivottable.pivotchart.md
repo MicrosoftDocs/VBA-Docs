@@ -16,9 +16,9 @@ Returns a [Shape object (Excel)](Excel.Shape.md) object that represents the stan
 
 ## Syntax
 
- _expression_. `PivotChart`
+_expression_. `PivotChart`
 
- _expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
 
 
 ## Returns

@@ -21,9 +21,9 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceTasks** 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md) object.
+_expression_ A variable that represents a [SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md) object.
 
 
 ## Return value

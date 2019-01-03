@@ -18,9 +18,9 @@ Returns an  **[OrderFields](Outlook.OrderFields.md)** object that represents the
 
 ## Syntax
 
- _expression_. `SortFields`
+_expression_. `SortFields`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
 ## See also

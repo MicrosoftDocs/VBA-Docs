@@ -18,9 +18,9 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
- _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
+_expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLabel-graph-property.md) object.
 
 
 ## See also

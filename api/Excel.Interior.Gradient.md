@@ -18,9 +18,9 @@ Returns or sets the **Gradient** property of an **Interior** object of a selecti
 
 ## Syntax
 
- _expression_. `Gradient`
+_expression_. `Gradient`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Return value

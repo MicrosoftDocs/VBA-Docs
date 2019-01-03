@@ -18,9 +18,9 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
 ## Syntax
 
- _expression_. `Size`
+_expression_. `Size`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## See also

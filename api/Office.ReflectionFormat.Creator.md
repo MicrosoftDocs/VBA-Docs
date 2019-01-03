@@ -15,7 +15,7 @@ Gets a 32-bit integer that indicates the application in which the  **ReflectionF
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
  _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 

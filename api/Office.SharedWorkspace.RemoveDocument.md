@@ -21,9 +21,9 @@ Removes the active document from the shared workspace site.
 
 ## Syntax
 
- _expression_. `RemoveDocument`
+_expression_. `RemoveDocument`
 
- _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

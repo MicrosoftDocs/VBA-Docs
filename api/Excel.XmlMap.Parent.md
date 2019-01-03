@@ -18,9 +18,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## See also

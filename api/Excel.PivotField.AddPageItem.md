@@ -18,9 +18,9 @@ Adds an additional item to a multiple item page field.
 
 ## Syntax
 
- _expression_. `AddPageItem`( `_Item_` , `_ClearList_` )
+_expression_. `AddPageItem`( `_Item_` , `_ClearList_` )
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Parameters

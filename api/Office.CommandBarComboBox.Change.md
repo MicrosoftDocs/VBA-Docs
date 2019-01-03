@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Change Event (Office)
+title: CommandBarComboBox.Change event (Office)
 keywords: vbaof11.chm229001
 f1_keywords:
 - vbaof11.chm229001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Change Event (Office)
+# CommandBarComboBox.Change event (Office)
 
 Occurs when the end user changes the selection in a  **CommandBar** combo box.
 
@@ -21,9 +21,9 @@ Occurs when the end user changes the selection in a  **CommandBar** combo box.
 
 ## Syntax
 
- _expression_. `Change`( `_ByVal Ctrl As CommandBarComboBox_` )
+_expression_. `Change`( `_ByVal Ctrl As CommandBarComboBox_` )
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Parameters

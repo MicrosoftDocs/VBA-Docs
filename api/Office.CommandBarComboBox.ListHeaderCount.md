@@ -21,9 +21,9 @@ Gets or sets the number of list items in a  **CommandBarComboBox** control that 
 
 ## Syntax
 
- _expression_. `ListHeaderCount`
+_expression_. `ListHeaderCount`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

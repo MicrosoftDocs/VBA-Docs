@@ -15,9 +15,9 @@ Returns or sets the text alignment for the specified  **FillFormat** object. Rea
 
 ## Syntax
 
- _expression_. `TextureAlignment`
+_expression_. `TextureAlignment`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

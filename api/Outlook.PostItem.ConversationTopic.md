@@ -18,9 +18,9 @@ Returns a  **String** representing the topic of the conversation thread of the O
 
 ## Syntax
 
- _expression_. `ConversationTopic`
+_expression_. `ConversationTopic`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

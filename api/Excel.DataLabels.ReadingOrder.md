@@ -18,9 +18,9 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+_expression_. `ReadingOrder`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## See also

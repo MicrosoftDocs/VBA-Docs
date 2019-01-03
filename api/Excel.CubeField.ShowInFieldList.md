@@ -18,9 +18,9 @@ When set to  **True** (default), a **CubeField** object will be shown in the fie
 
 ## Syntax
 
- _expression_. `ShowInFieldList`
+_expression_. `ShowInFieldList`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Example

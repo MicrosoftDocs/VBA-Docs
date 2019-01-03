@@ -18,9 +18,9 @@ Returns an  **OLE_COLOR** value that represents the bottom gradient color of the
 
 ## Syntax
 
- _expression_. `CategoryGradientBottomColor`
+_expression_. `CategoryGradientBottomColor`
 
- _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
 
 
 ## Remarks

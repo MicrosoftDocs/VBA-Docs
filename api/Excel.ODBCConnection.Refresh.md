@@ -18,9 +18,9 @@ Refreshes an ODBC connection.
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_. `Refresh`
 
- _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
+_expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection.md) object.
 
 
 ## Remarks

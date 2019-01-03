@@ -18,9 +18,9 @@ Gets a  **Long** representing the index number for a **CommandBarComboBox** obje
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

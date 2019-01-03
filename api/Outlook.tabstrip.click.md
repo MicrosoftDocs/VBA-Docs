@@ -13,9 +13,9 @@ Occurs when the user clicks inside the control.
 
 ## Syntax
 
- _expression_. **Click**(**_Index_**, )
+_expression_. **Click**(**_Index_**, )
 
- _expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Parameters

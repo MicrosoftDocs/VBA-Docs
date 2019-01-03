@@ -18,7 +18,7 @@ Gets a  **Boolean** value indicating whether the user can set properties of the 
 
 ## Syntax
 
- _expression_. `CanSetup`
+_expression_. `CanSetup`
 
  _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 

@@ -18,9 +18,9 @@ Returns a  **String** representing the display name of the first email address f
 
 ## Syntax
 
- _expression_. `Email1DisplayName`
+_expression_. `Email1DisplayName`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Variant** indicating the value for the specified custom or 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
+_expression_ A variable that represents an [ItemProperty](./Outlook.ItemProperty.md) object.
 
 
 ## Remarks

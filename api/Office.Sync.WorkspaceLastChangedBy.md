@@ -21,9 +21,9 @@ Displays the display name of the user who last saved changes to the server copy 
 
 ## Syntax
 
- _expression_. `WorkspaceLastChangedBy`
+_expression_. `WorkspaceLastChangedBy`
 
- _expression_ A variable that represents a [Sync](Office.Sync.md) object.
+_expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

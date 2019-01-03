@@ -18,9 +18,9 @@ Gets a  **Long** indicating the number of items in the **SignatureSet** object. 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SignatureSet](Office.SignatureSet.md) object.
+_expression_ A variable that represents a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

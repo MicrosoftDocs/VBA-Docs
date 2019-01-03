@@ -18,9 +18,9 @@ Returns or sets the number format applied to a cell if the conditional formattin
 
 ## Syntax
 
- _expression_. `NumberFormat`
+_expression_. `NumberFormat`
 
- _expression_ A variable that represents a '[Top10](Excel.Top10.md)' object.
+_expression_ A variable that represents a '[Top10](Excel.Top10.md)' object.
 
 
 ## Remarks

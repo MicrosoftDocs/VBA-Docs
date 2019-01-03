@@ -18,7 +18,7 @@ Gets the  **Parent** object for the **CustomXMLValidationErrors** object. Read-o
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 

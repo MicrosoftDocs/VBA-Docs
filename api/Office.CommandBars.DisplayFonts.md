@@ -21,9 +21,9 @@ Is  **True** if the font names in the **Font** box are displayed in their actual
 
 ## Syntax
 
- _expression_. `DisplayFonts`
+_expression_. `DisplayFonts`
 
- _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

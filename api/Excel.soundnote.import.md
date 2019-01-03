@@ -16,9 +16,9 @@ Imports the specified sound note.
 
 ## Syntax
 
- _expression_. `Import`_(Filename)_
+_expression_. `Import`_(Filename)_
 
- _expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a 'SoundNote' object.
 
 
 ## Parameters

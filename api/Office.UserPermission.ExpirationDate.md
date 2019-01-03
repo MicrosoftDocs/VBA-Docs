@@ -18,9 +18,9 @@ Gets or sets the optional expiration date of the permissions on the active docum
 
 ## Syntax
 
- _expression_. `ExpirationDate`
+_expression_. `ExpirationDate`
 
- _expression_ A variable that represents a '[UserPermission](Office.UserPermission.md)' object.
+_expression_ A variable that represents a '[UserPermission](Office.UserPermission.md)' object.
 
 
 ## Return value

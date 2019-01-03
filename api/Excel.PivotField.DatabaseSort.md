@@ -18,9 +18,9 @@ When set to  **True** , manual repositioning of items in a PivotTable field is a
 
 ## Syntax
 
- _expression_. `DatabaseSort`
+_expression_. `DatabaseSort`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

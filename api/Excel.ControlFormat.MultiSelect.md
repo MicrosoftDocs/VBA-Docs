@@ -18,9 +18,9 @@ Returns or sets the selection mode of the specified list box. Can be one of the 
 
 ## Syntax
 
- _expression_. `MultiSelect`
+_expression_. `MultiSelect`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 
 
 ## Remarks

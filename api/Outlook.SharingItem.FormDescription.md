@@ -18,9 +18,9 @@ Returns the  **[FormDescription](Outlook.FormDescription.md)** object that repre
 
 ## Syntax
 
- _expression_. `FormDescription`
+_expression_. `FormDescription`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

@@ -15,7 +15,7 @@ Gets the  **Parent** object for the **Ruler2** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [Ruler2](Office.Ruler2.md) object.
 

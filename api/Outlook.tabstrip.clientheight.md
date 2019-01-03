@@ -16,9 +16,9 @@ Returns a  **Single** value that represents the height dimension of the display 
 
 ## Syntax
 
- _expression_. **ClientHeight**
+_expression_. **ClientHeight**
 
- _expression_ A variable that represents a  **TabStrip** object.
+_expression_ A variable that represents a  **TabStrip** object.
 
 
 ## Remarks

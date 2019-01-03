@@ -18,9 +18,9 @@ Expands the time drop-down list of the time control.
 
 ## Syntax
 
- _expression_. `DropDown`
+_expression_. `DropDown`
 
- _expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
+_expression_ A variable that represents an [OlkTimeControl](./Outlook.OlkTimeControl.md) object.
 
 
 ## See also

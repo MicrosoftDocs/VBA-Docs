@@ -18,9 +18,9 @@ Returns the number of objects in the collection.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
+_expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 
 
 ## Return value

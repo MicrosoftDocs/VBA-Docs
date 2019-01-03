@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that represents the perspective for the 3-D ch
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_. `Perspective`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

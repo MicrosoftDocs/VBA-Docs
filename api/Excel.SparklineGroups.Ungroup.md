@@ -18,9 +18,9 @@ Ungroups the sparklines in the selected sparkline group.
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
- _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
+_expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the journalized item was sav
 
 ## Syntax
 
- _expression_. `DocSaved`
+_expression_. `DocSaved`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

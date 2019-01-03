@@ -18,9 +18,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
 
 
 ## See also

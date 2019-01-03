@@ -18,7 +18,7 @@ Gets or sets the value of the current node. Read/write.
 
 ## Syntax
 
- _expression_. `NodeValue`
+_expression_. `NodeValue`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

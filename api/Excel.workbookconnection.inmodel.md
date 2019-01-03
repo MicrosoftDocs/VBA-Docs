@@ -16,9 +16,9 @@ Specifies whether or not the [WorkbookConnection object (Excel)](Excel.WorkbookC
 
 ## Syntax
 
- _expression_. `InModel`
+_expression_. `InModel`
 
- _expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

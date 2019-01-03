@@ -16,9 +16,9 @@ The Power Query M formula for the object. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
- _expression_ A variable that represents a 'WorkbookQuery' object.
+_expression_ A variable that represents a 'WorkbookQuery' object.
 
 
 ## See also

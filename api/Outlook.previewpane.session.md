@@ -16,9 +16,9 @@ Returns the [NameSpace](Outlook.NameSpace.md) for the current session. Read-only
 
 ## Syntax
 
- _expression_. `Session`
+_expression_. `Session`
 
- _expression_ A variable that represents a 'PreviewPane' object.
+_expression_ A variable that represents a 'PreviewPane' object.
 
 
 ## Remarks

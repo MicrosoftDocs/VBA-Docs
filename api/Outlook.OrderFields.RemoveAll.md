@@ -18,9 +18,9 @@ Removes all sorting properties from the  **[OrderFields](Outlook.OrderFields.md)
 
 ## Syntax
 
- _expression_. `RemoveAll`
+_expression_. `RemoveAll`
 
- _expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
+_expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Makes the current chart the active chart.
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## See also

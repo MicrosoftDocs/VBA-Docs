@@ -18,9 +18,9 @@ Instructs Microsoft Excel to create a custom dictionary to which new words can b
 
 ## Syntax
 
- _expression_. `UserDict`
+_expression_. `UserDict`
 
- _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 
 
 ## Example

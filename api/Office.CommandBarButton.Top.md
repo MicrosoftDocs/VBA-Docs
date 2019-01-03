@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Top
 ms.assetid: 4ad019ed-a344-dac5-0063-b52bdead7916
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,17 +18,12 @@ Gets the distance (in pixels) from the top edge of the specified  **CommandBarBu
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
  _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

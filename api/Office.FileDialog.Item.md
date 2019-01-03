@@ -18,7 +18,7 @@ Gets the text associated with an object. Read-only.
 
 ## Syntax
 
- _expression_. `Item`
+_expression_. `Item`
 
  _expression_ Required. A variable that represents a '[FileDialog](Office.FileDialog.md)' object.
 

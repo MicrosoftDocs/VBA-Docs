@@ -18,9 +18,9 @@ Returns or sets the cell (a **Range** object) that defines the page-break locati
 
 ## Syntax
 
- _expression_. `Location`
+_expression_. `Location`
 
- _expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
+_expression_ A variable that represents a [HPageBreak](Excel.HPageBreak.md) object.
 
 
 ## Example

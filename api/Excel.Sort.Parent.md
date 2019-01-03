@@ -18,9 +18,9 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 
 ## See also

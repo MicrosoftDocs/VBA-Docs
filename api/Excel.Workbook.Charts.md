@@ -18,9 +18,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the char
 
 ## Syntax
 
- _expression_. `Charts`
+_expression_. `Charts`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

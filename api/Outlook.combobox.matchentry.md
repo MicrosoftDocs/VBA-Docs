@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that indicates how a **[ComboBox](Outlook.combob
 
 ## Syntax
 
- _expression_. **MatchEntry**
+_expression_. **MatchEntry**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

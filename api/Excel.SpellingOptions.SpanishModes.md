@@ -18,9 +18,9 @@ Returns or sets the mode for checking the spelling of Spanish. Read/write
 
 ## Syntax
 
- _expression_. `SpanishModes`
+_expression_. `SpanishModes`
 
- _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
+_expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptions.md)' object.
 
 
 ## Return value

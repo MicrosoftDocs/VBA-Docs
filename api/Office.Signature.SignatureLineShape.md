@@ -18,7 +18,7 @@ Gets the  **Shape** object associated with a **Signature** object that is a sign
 
 ## Syntax
 
- _expression_. `SignatureLineShape`
+_expression_. `SignatureLineShape`
 
  _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 

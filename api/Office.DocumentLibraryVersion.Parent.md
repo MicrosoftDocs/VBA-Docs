@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **DocumentLibraryVersion** object. Read-only
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
+_expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Return value

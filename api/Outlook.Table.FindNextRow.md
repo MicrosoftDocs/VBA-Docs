@@ -18,9 +18,9 @@ Finds the next row in the  **[Table](Outlook.Table.md)** that meets the criteria
 
 ## Syntax
 
- _expression_. `FindNextRow`
+_expression_. `FindNextRow`
 
- _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
+_expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 
 ## Return value

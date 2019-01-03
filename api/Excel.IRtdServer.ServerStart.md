@@ -18,9 +18,9 @@ The  **ServerStart** method is called immediately after a real-time data server 
 
 ## Syntax
 
- _expression_. `ServerStart`( `_CallbackObject_` )
+_expression_. `ServerStart`( `_CallbackObject_` )
 
- _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
+_expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
 ## Parameters

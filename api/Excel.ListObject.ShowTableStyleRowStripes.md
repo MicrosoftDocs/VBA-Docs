@@ -18,9 +18,9 @@ Returns or sets if the Row Stripes table style is used for the specified  **List
 
 ## Syntax
 
- _expression_. `ShowTableStyleRowStripes`
+_expression_. `ShowTableStyleRowStripes`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also

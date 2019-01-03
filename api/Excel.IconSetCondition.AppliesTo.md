@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 ## Syntax
 
- _expression_. `AppliesTo`
+_expression_. `AppliesTo`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## See also

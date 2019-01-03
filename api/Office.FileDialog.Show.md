@@ -18,7 +18,7 @@ Displays a file dialog box and returns a  **Long** indicating whether the user p
 
 ## Syntax
 
- _expression_. `Show`
+_expression_. `Show`
 
  _expression_ Required. A variable that represents a '[FileDialog](Office.FileDialog.md)' object.
 

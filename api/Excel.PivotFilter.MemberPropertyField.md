@@ -18,9 +18,9 @@ This property specifies the member property PivotField on which the label filter
 
 ## Syntax
 
- _expression_. `MemberPropertyField`
+_expression_. `MemberPropertyField`
 
- _expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
+_expression_ A variable that represents a [PivotFilter](Excel.PivotFilter.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Occurs after a PivotTable report connection has been opened.
 
 ## Syntax
 
- _expression_. `WorkbookPivotTableOpenConnection`( `_Wb_` , `_Target_` )
+_expression_. `WorkbookPivotTableOpenConnection`( `_Wb_` , `_Target_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

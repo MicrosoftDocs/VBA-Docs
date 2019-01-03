@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that represents the object's formula in A1-
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

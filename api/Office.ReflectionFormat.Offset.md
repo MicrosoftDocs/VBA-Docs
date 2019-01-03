@@ -15,7 +15,7 @@ Gets or sets the amount of separation, measured in points, of the reflected imag
 
 ## Syntax
 
- _expression_. `Offset`
+_expression_. `Offset`
 
  _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 

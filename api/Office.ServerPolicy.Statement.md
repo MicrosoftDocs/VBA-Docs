@@ -18,7 +18,7 @@ Gets the information specified in the Policy Statement. Read-only.
 
 ## Syntax
 
- _expression_. `Statement`
+_expression_. `Statement`
 
  _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 

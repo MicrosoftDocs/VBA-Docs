@@ -18,9 +18,9 @@ Returns or sets whether to order and remove duplicates when displaying the speci
 
 ## Syntax
 
- _expression_. `HierarchizeDistinct`
+_expression_. `HierarchizeDistinct`
 
- _expression_ A variable that represents a '[CubeField](Excel.CubeField.md)' object.
+_expression_ A variable that represents a '[CubeField](Excel.CubeField.md)' object.
 
 
 ## Return value

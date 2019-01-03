@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Copy
 ms.assetid: a78a7922-aa51-7b9f-d7de-a227a6869140
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,18 +18,16 @@ Copies a command bar button control to an existing command bar.
 
 ## Syntax
 
- _expression_. `Copy`( `_Bar_`, `_Before_` )
+_expression_.**Copy**(_Bar_, _Before_)
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Bar_|Optional|**Variant**|A  **CommandBar** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
+| _Bar_|Optional|**Variant**|A **CommandBar** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
 | _Before_|Optional|**Variant**|A number that indicates the position for the new control on the command bar. The new control will be inserted before the control at this position. If this argument is omitted, the control is copied to the end of the command bar.|
 
 ## Return value
@@ -39,10 +37,5 @@ CommandBarControl
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

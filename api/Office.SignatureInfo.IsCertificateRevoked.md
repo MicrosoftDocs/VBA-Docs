@@ -18,7 +18,7 @@ Gets a  **Boolean** value indicating whether the digital certificate is revoked.
 
 ## Syntax
 
- _expression_. `IsCertificateRevoked`
+_expression_. `IsCertificateRevoked`
 
  _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 

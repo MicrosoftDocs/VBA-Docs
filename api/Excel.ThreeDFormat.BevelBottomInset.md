@@ -15,9 +15,9 @@ Returns or sets a value indicating whether the bottom insert bevel should be rai
 
 ## Syntax
 
- _expression_. `BevelBottomInset`
+_expression_. `BevelBottomInset`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

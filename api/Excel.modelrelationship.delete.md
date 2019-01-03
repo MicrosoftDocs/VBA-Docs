@@ -16,9 +16,9 @@ Deletes the relationship.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
+_expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Return value

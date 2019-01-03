@@ -18,9 +18,9 @@ Returns or sets the numeric standard deviation for an  **AboveAverage** object. 
 
 ## Syntax
 
- _expression_. `NumStdDev`
+_expression_. `NumStdDev`
 
- _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## See also

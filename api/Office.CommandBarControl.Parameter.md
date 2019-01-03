@@ -18,9 +18,9 @@ Gets or sets a string that an application can use to execute a command from a  *
 
 ## Syntax
 
- _expression_. `Parameter`
+_expression_. `Parameter`
 
- _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ Deletes the current  **SharedWorkspaceTask** object.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
  _expression_ Required. A variable that represents a '[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)' object.
 

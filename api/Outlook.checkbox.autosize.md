@@ -16,9 +16,9 @@ Returns or sets a  **Boolean** that specifies whether an object automatically re
 
 ## Syntax
 
- _expression_. **AutoSize**
+_expression_. **AutoSize**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

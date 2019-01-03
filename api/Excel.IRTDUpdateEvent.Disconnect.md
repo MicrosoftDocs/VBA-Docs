@@ -18,9 +18,9 @@ Instructs the real-time data server (RTD) to disconnect from the specified  **IR
 
 ## Syntax
 
- _expression_. `Disconnect`
+_expression_. `Disconnect`
 
- _expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
+_expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEvent.md) object.
 
 
 ## See also

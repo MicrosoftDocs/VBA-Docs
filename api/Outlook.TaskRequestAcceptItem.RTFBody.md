@@ -18,9 +18,9 @@ Returns or sets a  **Byte** array that represents the body of the Microsoft Outl
 
 ## Syntax
 
- _expression_. `RTFBody`
+_expression_. `RTFBody`
 
- _expression_ A variable that represents a '[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)' object.
+_expression_ A variable that represents a '[TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md)' object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Sets or gets the fixed-width font size setting in the host application, in point
 
 ## Syntax
 
- _expression_. `FixedWidthFontSize`
+_expression_. `FixedWidthFontSize`
 
- _expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
+_expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
 
 
 ## Remarks

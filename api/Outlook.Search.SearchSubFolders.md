@@ -18,9 +18,9 @@ Returns a  **Boolean** indicating whether the scope of the specified search incl
 
 ## Syntax
 
- _expression_. `SearchSubFolders`
+_expression_. `SearchSubFolders`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a value (constant) that specifies how Microsoft Excel handles ca
 
 ## Syntax
 
- _expression_. `FeatureInstall`
+_expression_. `FeatureInstall`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

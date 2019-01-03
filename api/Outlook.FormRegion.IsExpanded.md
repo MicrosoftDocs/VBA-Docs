@@ -18,9 +18,9 @@ Returns a  **Boolean** that indicates if the form region is expanded. Read-only.
 
 ## Syntax
 
- _expression_. `IsExpanded`
+_expression_. `IsExpanded`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## Remarks

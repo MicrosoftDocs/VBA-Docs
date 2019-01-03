@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents only the c
 
 ## Syntax
 
- _expression_. `PageRangeCells`
+_expression_. `PageRangeCells`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Example

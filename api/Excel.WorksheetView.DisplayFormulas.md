@@ -18,9 +18,9 @@ Returns or sets if formulas should be displayed or hidden in the current workshe
 
 ## Syntax
 
- _expression_. `DisplayFormulas`
+_expression_. `DisplayFormulas`
 
- _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
+_expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.md) object.
 
 
 ## See also

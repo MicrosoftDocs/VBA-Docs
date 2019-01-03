@@ -16,9 +16,9 @@ Returns an object that represents a collection of all the PivotTable reports on 
 
 ## Syntax
 
- _expression_. `PivotTables`
+_expression_. `PivotTables`
 
- _expression_ A variable that represents a [Workbook object (Excel)](Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook object (Excel)](Excel.Workbook.md) object.
 
 
 ## Returns

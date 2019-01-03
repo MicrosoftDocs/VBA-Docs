@@ -18,9 +18,9 @@ Reloads a workbook based on an HTML document, using the specified document encod
 
 ## Syntax
 
- _expression_. `ReloadAs`( `_Encoding_` )
+_expression_. `ReloadAs`( `_Encoding_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns a constant,  **olRuleActionMoveToFolder** , from the **[OlRuleActionType
 
 ## Syntax
 
- _expression_. `ActionType`
+_expression_. `ActionType`
 
- _expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
+_expression_ A variable that represents a [MoveOrCopyRuleAction](./Outlook.MoveOrCopyRuleAction.md) object.
 
 
 ## Remarks

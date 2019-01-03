@@ -16,9 +16,9 @@ For a single-column  **[ComboBox](Outlook.combobox.md)**, the  **AddItem** metho
 
 ## Syntax
 
- _expression_. **AddItem**(**_pvargItem_**,  **_pvargIndex_**)
+_expression_. **AddItem**(**_pvargItem_**,  **_pvargIndex_**)
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
 ## Syntax
 
- _expression_. `StopIfTrue`
+_expression_. `StopIfTrue`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks

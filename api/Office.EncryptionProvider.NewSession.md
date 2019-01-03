@@ -18,7 +18,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
 
 ## Syntax
 
- _expression_. `NewSession`( `_ParentWindow_` )
+_expression_. `NewSession`( `_ParentWindow_` )
 
  _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 

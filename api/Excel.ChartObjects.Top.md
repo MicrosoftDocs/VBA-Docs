@@ -18,9 +18,9 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 ## Syntax
 
- _expression_. `Top`
+_expression_. `Top`
 
- _expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
+_expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
 
 
 ## See also

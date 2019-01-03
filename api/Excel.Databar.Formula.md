@@ -18,9 +18,9 @@ Returns or sets a  **String** representing a formula, which determines the value
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
 
 
 ## Remarks

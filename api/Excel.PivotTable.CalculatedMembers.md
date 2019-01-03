@@ -18,9 +18,9 @@ Returns a  **[CalculatedMembers](Excel.CalculatedMembers.md)** collection repres
 
 ## Syntax
 
- _expression_. `CalculatedMembers`
+_expression_. `CalculatedMembers`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks

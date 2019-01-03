@@ -15,9 +15,9 @@ Occurs before Microsoft Outlook begins to read the properties for the item.
 
 ## Syntax
 
- _expression_. `BeforeRead`
+_expression_. `BeforeRead`
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

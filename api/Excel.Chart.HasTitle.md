@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `HasTitle`
+_expression_. `HasTitle`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

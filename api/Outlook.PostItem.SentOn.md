@@ -18,9 +18,9 @@ Returns a  **Date** indicating the date and time on which the Outlook item was s
 
 ## Syntax
 
- _expression_. `SentOn`
+_expression_. `SentOn`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

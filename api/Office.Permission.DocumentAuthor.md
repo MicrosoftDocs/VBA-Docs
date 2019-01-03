@@ -18,9 +18,9 @@ Gets or sets the name in email form of the author of the active document. Read/w
 
 ## Syntax
 
- _expression_. `DocumentAuthor`
+_expression_. `DocumentAuthor`
 
- _expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

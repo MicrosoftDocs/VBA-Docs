@@ -18,7 +18,7 @@ Gets or sets the index of the  **TextColumn2** object. Read/write
 
 ## Syntax
 
- _expression_. `Number`
+_expression_. `Number`
 
  _expression_ An expression that returns a [TextColumn2](Office.TextColumn2.md) object.
 

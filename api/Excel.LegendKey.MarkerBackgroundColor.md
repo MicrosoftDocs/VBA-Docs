@@ -18,9 +18,9 @@ Sets the marker background color as an RGB value or returns the corresponding co
 
 ## Syntax
 
- _expression_. `MarkerBackgroundColor`
+_expression_. `MarkerBackgroundColor`
 
- _expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
+_expression_ A variable that represents a [LegendKey](Excel.LegendKey-graph-property.md) object.
 
 
 ## See also

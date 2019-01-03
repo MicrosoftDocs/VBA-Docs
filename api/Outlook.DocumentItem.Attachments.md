@@ -18,9 +18,9 @@ Returns an  **[Attachments](Outlook.Attachments.md)** object that represents all
 
 ## Syntax
 
- _expression_. `Attachments`
+_expression_. `Attachments`
 
- _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## See also

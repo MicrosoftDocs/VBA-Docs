@@ -18,7 +18,7 @@ Deletes a filter object from the  **ODSOFilters** collection.
 
 ## Syntax
 
- _expression_. `Delete`( `_Index_`, `_DeferUpdate_` )
+_expression_. `Delete`( `_Index_`, `_DeferUpdate_` )
 
  _expression_ Required. A variable that represents an '[ODSOFilters](Office.ODSOFilters.md)' object.
 

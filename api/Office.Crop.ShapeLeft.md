@@ -15,7 +15,7 @@ Gets or sets the location of the left-side of a shape that is used to crop an im
 
 ## Syntax
 
- _expression_. `ShapeLeft`
+_expression_. `ShapeLeft`
 
  _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 

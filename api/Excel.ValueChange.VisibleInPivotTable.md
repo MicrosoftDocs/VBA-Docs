@@ -18,9 +18,9 @@ Returns whether the cell (tuple) is currently visible in the PivotTable report. 
 
 ## Syntax
 
- _expression_. `VisibleInPivotTable`
+_expression_. `VisibleInPivotTable`
 
- _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
+_expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 
 
 ## Return value

@@ -15,7 +15,7 @@ Gets a member of the  **RulerLevels2** collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a [RulerLevels2](Office.RulerLevels2.md) object.
 

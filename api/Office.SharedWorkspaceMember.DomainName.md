@@ -18,9 +18,9 @@ Gets the domain and user name of the specified [SharedWorkspaceMember](Office.Sh
 
 ## Syntax
 
- _expression_. `DomainName`
+_expression_. `DomainName`
 
- _expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
+_expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Example

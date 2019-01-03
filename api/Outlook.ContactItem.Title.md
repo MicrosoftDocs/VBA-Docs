@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the title for the contact. Read/write.
 
 ## Syntax
 
- _expression_. `Title`
+_expression_. `Title`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

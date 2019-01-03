@@ -18,9 +18,9 @@ Returns or sets a  **String** value that represents the display name for the obj
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## See also

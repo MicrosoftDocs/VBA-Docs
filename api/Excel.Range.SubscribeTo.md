@@ -18,9 +18,9 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 ## Syntax
 
- _expression_. `SubscribeTo`( `_Edition_` , `_Format_` )
+_expression_. `SubscribeTo`( `_Edition_` , `_Format_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

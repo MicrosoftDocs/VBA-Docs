@@ -15,7 +15,7 @@ Gets or sets the font used for characters whose character set numbers are greate
 
 ## Syntax
 
- _expression_. `NameOther`
+_expression_. `NameOther`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

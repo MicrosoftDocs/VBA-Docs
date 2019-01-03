@@ -18,9 +18,9 @@ Opens a workbook.
 
 ## Syntax
 
- _expression_. `Open`( `_FileName_` , `_UpdateLinks_` , `_ReadOnly_` , `_Format_` , `_Password_` , `_WriteResPassword_` , `_IgnoreReadOnlyRecommended_` , `_Origin_` , `_Delimiter_` , `_Editable_` , `_Notify_` , `_Converter_` , `_AddToMru_` , `_Local_` , `_CorruptLoad_` )
+_expression_. `Open`( `_FileName_` , `_UpdateLinks_` , `_ReadOnly_` , `_Format_` , `_Password_` , `_WriteResPassword_` , `_IgnoreReadOnlyRecommended_` , `_Origin_` , `_Delimiter_` , `_Editable_` , `_Notify_` , `_Converter_` , `_AddToMru_` , `_Local_` , `_CorruptLoad_` )
 
- _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
+_expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) object.
 
 
 ## Parameters

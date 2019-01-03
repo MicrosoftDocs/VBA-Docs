@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the postal code portion of the home a
 
 ## Syntax
 
- _expression_. `HomeAddressPostalCode`
+_expression_. `HomeAddressPostalCode`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

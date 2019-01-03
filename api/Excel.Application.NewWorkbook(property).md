@@ -18,7 +18,7 @@ Returns a  **[NewFile](Office.NewFile.md)** object.
 
 ## Syntax
 
- _expression_. `NewWorkbook`
+_expression_. `NewWorkbook`
 
  _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 

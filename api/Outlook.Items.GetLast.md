@@ -18,9 +18,9 @@ Returns the last object in the collection.
 
 ## Syntax
 
- _expression_. `GetLast`
+_expression_. `GetLast`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ## Return value

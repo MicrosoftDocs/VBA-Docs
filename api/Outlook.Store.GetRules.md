@@ -18,9 +18,9 @@ Returns a  **[Rules](Outlook.Rules.md)** collection object that contains the **[
 
 ## Syntax
 
- _expression_. `GetRules`
+_expression_. `GetRules`
 
- _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Occurs when the chart is resized.
 
 ## Syntax
 
- _expression_. `Resize`
+_expression_. `Resize`
 
- _expression_ A variable that returns a '[Chart](Excel.Chart(object).md)' object.
+_expression_ A variable that returns a '[Chart](Excel.Chart(object).md)' object.
 
 
 ## Example

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton
 ms.assetid: e6d8209d-2c87-f1b5-bc3f-d4e5e5d3ab73
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -43,9 +43,5 @@ End With
 
 ## See also
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
-
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
+- [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)

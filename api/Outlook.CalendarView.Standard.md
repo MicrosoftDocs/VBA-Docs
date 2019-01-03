@@ -18,7 +18,7 @@ Returns a  **Boolean** value that indicates whether the **[CalendarView](Outlook
 
 ## Syntax
 
- _expression_. `Standard`
+_expression_. `Standard`
 
  _expression_ An expression that returns a [CalendarView](./Outlook.CalendarView.md) object.
 

@@ -18,9 +18,9 @@ Returns a  **PivotField** object representing the field to which the properties 
 
 ## Syntax
 
- _expression_. `PropertyParentField`
+_expression_. `PropertyParentField`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

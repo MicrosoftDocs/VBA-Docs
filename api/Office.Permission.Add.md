@@ -18,7 +18,7 @@ Creates a set of permissions on the active document for the specified user. Retu
 
 ## Syntax
 
- _expression_. `Add`( `_UserID_`, `_Permission_`, `_ExpirationDate_` )
+_expression_. `Add`( `_UserID_`, `_Permission_`, `_ExpirationDate_` )
 
  _expression_ Required. A variable that represents a '[Permission](Office.Permission.md)' object.
 

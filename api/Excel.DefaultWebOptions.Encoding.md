@@ -18,9 +18,9 @@ Returns or sets the document encoding (code page or character set) to be used by
 
 ## Syntax
 
- _expression_. `Encoding`
+_expression_. `Encoding`
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Remarks

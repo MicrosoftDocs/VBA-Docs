@@ -18,9 +18,9 @@ Returns a  **Date** indicating the creation time for the Outlook item. Read-only
 
 ## Syntax
 
- _expression_. `CreationTime`
+_expression_. `CreationTime`
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## Remarks

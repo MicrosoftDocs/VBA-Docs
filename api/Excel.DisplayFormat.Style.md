@@ -18,9 +18,9 @@ Returns a value, containing a  **[Style](Excel.Style.md)** object, that represen
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value

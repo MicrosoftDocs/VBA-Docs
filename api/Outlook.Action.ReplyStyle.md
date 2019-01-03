@@ -18,9 +18,9 @@ Returns or sets an  **[OlActionReplyStyle](Outlook.OlActionReplyStyle.md)** cons
 
 ## Syntax
 
- _expression_. `ReplyStyle`
+_expression_. `ReplyStyle`
 
- _expression_ A variable that represents an [Action](./Outlook.Action.md) object.
+_expression_ A variable that represents an [Action](./Outlook.Action.md) object.
 
 
 ## See also

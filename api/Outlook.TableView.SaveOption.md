@@ -18,9 +18,9 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
 ## Syntax
 
- _expression_. `SaveOption`
+_expression_. `SaveOption`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

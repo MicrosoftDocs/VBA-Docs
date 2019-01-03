@@ -13,9 +13,9 @@ Returns a  **Long** that represents the number of list entries in a control. Rea
 
 ## Syntax
 
- _expression_. **ListCount**
+_expression_. **ListCount**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

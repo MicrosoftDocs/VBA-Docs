@@ -18,9 +18,9 @@ Returns one of the  **[xlPivotCellType](Excel.XlPivotCellType.md)** constants th
 
 ## Syntax
 
- _expression_. `PivotCellType`
+_expression_. `PivotCellType`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks

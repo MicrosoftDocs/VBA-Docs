@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. `HrMessageBox`( `_bstrText_`, `_bstrCaption_`, `_uType_`, `_pidResult_` )
+_expression_. `HrMessageBox`( `_bstrText_`, `_bstrCaption_`, `_uType_`, `_pidResult_` )
 
  _expression_ An expression that returns a [IConverterUICallback](Office.IConverterUICallback.md) object.
 

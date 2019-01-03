@@ -18,9 +18,9 @@ Returns or sets a  **String** specifying the third field on the Contacts form in
 
 ## Syntax
 
- _expression_. `User3`
+_expression_. `User3`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Long** specifying the thickness of the wall. Read/write.
 
 ## Syntax
 
- _expression_. `Thickness`
+_expression_. `Thickness`
 
- _expression_ A variable that represents a [Walls](./Excel.Walls-graph-property.md) object.
+_expression_ A variable that represents a [Walls](./Excel.Walls-graph-property.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBarC
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

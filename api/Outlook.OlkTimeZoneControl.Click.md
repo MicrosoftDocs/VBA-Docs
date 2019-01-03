@@ -18,9 +18,9 @@ Occurs when the user clicks inside the control.
 
 ## Syntax
 
- _expression_. `Click`
+_expression_. `Click`
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## See also

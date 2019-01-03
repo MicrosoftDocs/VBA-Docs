@@ -18,9 +18,9 @@ Returns or sets the base of the logarithm when you are using log scales. Read/wr
 
 ## Syntax
 
- _expression_. `LogBase`
+_expression_. `LogBase`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

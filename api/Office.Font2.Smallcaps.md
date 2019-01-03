@@ -15,7 +15,7 @@ Gets or sets a value specifying whether small caps should be used with the slect
 
 ## Syntax
 
- _expression_. `Smallcaps`
+_expression_. `Smallcaps`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

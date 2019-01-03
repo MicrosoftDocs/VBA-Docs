@@ -16,9 +16,9 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
- _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Remarks

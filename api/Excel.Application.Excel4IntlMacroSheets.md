@@ -18,9 +18,9 @@ Returns a  **[Sheets](Excel.Sheets.md)** collection that represents all the Micr
 
 ## Syntax
 
- _expression_. `Excel4IntlMacroSheets`
+_expression_. `Excel4IntlMacroSheets`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

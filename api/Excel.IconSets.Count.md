@@ -18,9 +18,9 @@ Returns a  **Long** value that specifies the number of icon sets available in th
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
+_expression_ A variable that represents an [IconSets](Excel.IconSets.md) object.
 
 
 ## See also

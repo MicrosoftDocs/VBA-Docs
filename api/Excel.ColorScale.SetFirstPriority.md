@@ -18,9 +18,9 @@ Sets the priority value for this conditional formatting rule to "1" so that it w
 
 ## Syntax
 
- _expression_. `SetFirstPriority`
+_expression_. `SetFirstPriority`
 
- _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
+_expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
 
 
 ## Remarks

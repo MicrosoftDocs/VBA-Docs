@@ -15,9 +15,9 @@ Returns or sets the top Bevel type for a  **ThreeDFormat** object. Read/write **
 
 ## Syntax
 
- _expression_. `BevelTopType`
+_expression_. `BevelTopType`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

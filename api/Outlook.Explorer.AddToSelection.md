@@ -18,9 +18,9 @@ Adds the specified Microsoft Outlook item to the selection in the active explore
 
 ## Syntax
 
- _expression_. `AddToSelection`( `_Item_` )
+_expression_. `AddToSelection`( `_Item_` )
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Parameters

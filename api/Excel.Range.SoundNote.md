@@ -18,9 +18,9 @@ This property should not be used. Sound notes have been removed from Microsoft E
 
 ## Syntax
 
- _expression_. `SoundNote`
+_expression_. `SoundNote`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## See also

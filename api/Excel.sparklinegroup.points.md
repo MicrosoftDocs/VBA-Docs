@@ -16,9 +16,9 @@ Returns the associated  **[SparkPoints](Excel.SparkPoints.md)** object for the s
 
 ## Syntax
 
- _expression_. `Points`
+_expression_. `Points`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value

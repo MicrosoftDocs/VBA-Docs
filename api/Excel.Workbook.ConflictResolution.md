@@ -18,9 +18,9 @@ Returns or sets the way conflicts are to be resolved whenever a shared workbook 
 
 ## Syntax
 
- _expression_. `ConflictResolution`
+_expression_. `ConflictResolution`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

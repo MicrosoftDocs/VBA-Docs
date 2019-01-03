@@ -18,9 +18,9 @@ Gets **True** if the **CommandBarPopup** control is currently dropped from the m
 
 ## Syntax
 
- _expression_. `IsPriorityDropped`
+_expression_. `IsPriorityDropped`
 
- _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

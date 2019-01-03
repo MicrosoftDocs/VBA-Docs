@@ -18,9 +18,9 @@ Clears results from a Microsoft Instant Search in an  **[Explorer](Outlook.Explo
 
 ## Syntax
 
- _expression_. `ClearSearch`
+_expression_. `ClearSearch`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Remarks

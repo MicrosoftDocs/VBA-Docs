@@ -18,9 +18,9 @@ Returns or sets a  **String** value that specifies the XML definition of the vie
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
 ## Remarks

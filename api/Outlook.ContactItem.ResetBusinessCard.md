@@ -18,9 +18,9 @@ Resets the Electronic Business Card on the contact item to the default business 
 
 ## Syntax
 
- _expression_. `ResetBusinessCard`
+_expression_. `ResetBusinessCard`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns information about installed file converters. Returns  **null** if there 
 
 ## Syntax
 
- _expression_. `FileConverters`( `_Index1_` , `_Index2_` )
+_expression_. `FileConverters`( `_Index1_` , `_Index2_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

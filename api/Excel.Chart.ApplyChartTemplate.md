@@ -18,9 +18,9 @@ Applies a standard or custom chart type to a chart.
 
 ## Syntax
 
- _expression_. `ApplyChartTemplate`( `_Filename_` )
+_expression_. `ApplyChartTemplate`( `_Filename_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

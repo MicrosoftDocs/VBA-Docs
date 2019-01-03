@@ -18,7 +18,7 @@ Gets the URL address of the document library where workflow templates are stored
 
 ## Syntax
 
- _expression_. `DocumentLibraryURL`
+_expression_. `DocumentLibraryURL`
 
  _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 

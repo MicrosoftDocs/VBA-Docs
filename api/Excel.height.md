@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 The height of the main application window or the object. If the window is minimized, this property is read-only and refers to the height of the icon. If the window is maximized, this property cannot be set. Use the WindowState property to determine the window state. Read/write Double for all objects, except for the Chart object which is read/write Variant.
 
- _expression_. `Height`
+_expression_. `Height`
 
  _expression_ Required. An expression that returns one of the above objects.
 

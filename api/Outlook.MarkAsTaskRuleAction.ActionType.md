@@ -18,9 +18,9 @@ Returns a constant,  **olRuleActionMarkAsTask** , from the **[OlRuleActionType](
 
 ## Syntax
 
- _expression_. `ActionType`
+_expression_. `ActionType`
 
- _expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
+_expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkAsTaskRuleAction.md) object.
 
 
 ## Remarks

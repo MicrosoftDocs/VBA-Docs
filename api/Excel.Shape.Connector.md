@@ -18,7 +18,7 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `Connector`
+_expression_. `Connector`
 
  _expression_ An expression that returns a [Shape](./Excel.Shape.md) object.
 

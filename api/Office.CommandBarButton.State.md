@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.State
 ms.assetid: 919ca064-507c-1db6-6b69-b586283ab67b
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,7 +18,7 @@ Gets or sets the appearance of a CommandBarButton control. Read/write.
 
 ## Syntax
 
- _expression_. `State`
+_expression_. `State`
 
  _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
@@ -68,10 +68,5 @@ This example creates a command bar named "Custom" and adds two buttons to it. Th
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

@@ -21,7 +21,7 @@ Gets or sets the optional due date and time of a  **SharedWorkspaceTask** object
 
 ## Syntax
 
- _expression_. `DueDate`()
+_expression_. `DueDate`()
 
  _expression_ An expression that returns a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 

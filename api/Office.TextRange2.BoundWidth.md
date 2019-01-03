@@ -15,7 +15,7 @@ Gets the width, in points, of the text bounding box for the specified text. Read
 
 ## Syntax
 
- _expression_. `BoundWidth`
+_expression_. `BoundWidth`
 
  _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 

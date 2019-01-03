@@ -18,9 +18,9 @@ Returns or sets the style of the arrowhead at the beginning of the specified lin
 
 ## Syntax
 
- _expression_. `BeginArrowheadStyle`
+_expression_. `BeginArrowheadStyle`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## Example

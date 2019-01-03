@@ -18,7 +18,7 @@ Removes the specified child node from the tree.
 
 ## Syntax
 
- _expression_. `RemoveChild`( `_Child_` )
+_expression_. `RemoveChild`( `_Child_` )
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

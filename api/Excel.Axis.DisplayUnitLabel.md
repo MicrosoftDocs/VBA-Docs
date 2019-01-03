@@ -18,9 +18,9 @@ Returns the  **[DisplayUnitLabel](Excel.DisplayUnitLabel(object).md)** object fo
 
 ## Syntax
 
- _expression_. `DisplayUnitLabel`
+_expression_. `DisplayUnitLabel`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Example

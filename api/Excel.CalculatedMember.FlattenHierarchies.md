@@ -18,9 +18,9 @@ Returns or sets whether items from all levels of the hierarchy of the specified 
 
 ## Syntax
 
- _expression_. `FlattenHierarchies`
+_expression_. `FlattenHierarchies`
 
- _expression_ A variable that represents a '[CalculatedMember](Excel.CalculatedMember.md)' object.
+_expression_ A variable that represents a '[CalculatedMember](Excel.CalculatedMember.md)' object.
 
 
 ## Return value

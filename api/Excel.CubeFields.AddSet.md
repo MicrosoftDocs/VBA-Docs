@@ -18,9 +18,9 @@ Adds a new  **[CubeField](Excel.CubeField.md)** object to the **[CubeFields](Exc
 
 ## Syntax
 
- _expression_. `AddSet`( `_Name_` , `_Caption_` )
+_expression_. `AddSet`( `_Name_` , `_Caption_` )
 
- _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
+_expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets how a data bar is filled with color. Read/write
 
 ## Syntax
 
- _expression_. `BarFillType`
+_expression_. `BarFillType`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value

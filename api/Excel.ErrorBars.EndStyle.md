@@ -18,9 +18,9 @@ Returns or sets the end style for the error bars. Can be one of the following  *
 
 ## Syntax
 
- _expression_. `EndStyle`
+_expression_. `EndStyle`
 
- _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
+_expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
 
 
 ## Example

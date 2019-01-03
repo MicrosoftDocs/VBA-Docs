@@ -18,7 +18,7 @@ Gets or sets the email address of the signer of the document. Read/write.
 
 ## Syntax
 
- _expression_. `SuggestedSignerEmail`
+_expression_. `SuggestedSignerEmail`
 
  _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 

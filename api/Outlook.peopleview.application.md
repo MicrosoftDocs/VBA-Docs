@@ -14,9 +14,9 @@ Returns an [Application](Outlook.Application.md) object that represents the pare
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a 'PeopleView' object.
+_expression_ A variable that represents a 'PeopleView' object.
 
 
 

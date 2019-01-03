@@ -16,9 +16,9 @@ Returns the ISO week number of the year for a given date. .
 
 ## Syntax
 
- _expression_. `IsoWeekNum`_(Arg1,_ _Arg2)_
+_expression_. `IsoWeekNum`_(Arg1,_ _Arg2)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

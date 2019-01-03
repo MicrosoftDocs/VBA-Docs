@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.NodeAfterDelete Event (Office)
+title: CustomXMLPart.NodeAfterDelete event (Office)
 keywords: vbaof11.chm296002
 f1_keywords:
 - vbaof11.chm296002
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.NodeAfterDelete Event (Office)
+# CustomXMLPart.NodeAfterDelete event (Office)
 
 Occurs after a node is deleted in a  **CustomXMLPart** object.
 
 
 ## Syntax
 
- _expression_. `NodeAfterDelete`( `_OldNode_`, `_OldParentNode_`, `_OldNextSibling_`, `_InUndoRedo_` )
+_expression_. `NodeAfterDelete`( `_OldNode_`, `_OldParentNode_`, `_OldNextSibling_`, `_InUndoRedo_` )
 
  _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 

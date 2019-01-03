@@ -18,9 +18,9 @@ Occurs after the selection state is changed for a navigation folder contained in
 
 ## Syntax
 
- _expression_. `SelectedChange`( `_NavigationFolder_` )
+_expression_. `SelectedChange`( `_NavigationFolder_` )
 
- _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

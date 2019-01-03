@@ -18,9 +18,9 @@ Returns an  **[xlAxisType](Excel.XlAxisType.md)** value that represents the Axis
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

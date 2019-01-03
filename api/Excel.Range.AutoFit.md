@@ -18,9 +18,9 @@ Changes the width of the columns in the range or the height of the rows in the r
 
 ## Syntax
 
- _expression_. `AutoFit`
+_expression_. `AutoFit`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

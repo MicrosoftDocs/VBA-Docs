@@ -16,9 +16,9 @@ Returns or sets value that specifies whether or not the first row (from the star
 
 ## Syntax
 
- _expression_. `TextFileHeaderRow`
+_expression_. `TextFileHeaderRow`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

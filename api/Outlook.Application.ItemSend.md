@@ -18,9 +18,9 @@ Occurs whenever an Microsoft Outlook item is sent, either by the user through an
 
 ## Syntax
 
- _expression_. `ItemSend`( `_Item_` , `_Cancel_` )
+_expression_. `ItemSend`( `_Item_` , `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## Parameters

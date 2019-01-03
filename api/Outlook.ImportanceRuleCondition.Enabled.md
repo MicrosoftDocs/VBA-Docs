@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that determines if the rule condition is enabled.
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
+_expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.ImportanceRuleCondition.md) object.
 
 
 ## Remarks

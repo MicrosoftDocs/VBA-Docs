@@ -18,9 +18,9 @@ Returns  **True** if the CubeField is a date. Read-only **Boolean**.
 
 ## Syntax
 
- _expression_. `IsDate`
+_expression_. `IsDate`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## See also

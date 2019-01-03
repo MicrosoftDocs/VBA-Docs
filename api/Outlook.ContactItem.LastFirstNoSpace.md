@@ -18,9 +18,9 @@ Returns a  **String** representing the concatenated last name, first name, and m
 
 ## Syntax
 
- _expression_. `LastFirstNoSpace`
+_expression_. `LastFirstNoSpace`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

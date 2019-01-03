@@ -18,9 +18,9 @@ Returns or sets an  **[MsoPatternType](Office.MsoPatternType.md)** value that re
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

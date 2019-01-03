@@ -15,7 +15,7 @@ Determines whether lines of text break automatically to fit inside the shape. Re
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
  _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 

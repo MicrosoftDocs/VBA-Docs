@@ -18,9 +18,9 @@ This method reroutes all connectors attached to the specified shape; if the spec
 
 ## Syntax
 
- _expression_. `RerouteConnections`
+_expression_. `RerouteConnections`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Remarks

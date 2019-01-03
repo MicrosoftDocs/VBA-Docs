@@ -18,9 +18,9 @@ Returns a  **[Characters](Excel.Characters.md)** object that represents a range 
 
 ## Syntax
 
- _expression_. `Characters`( `_Start_` , `_Length_` )
+_expression_. `Characters`( `_Start_` , `_Length_` )
 
- _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
+_expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 
 
 ## Parameters

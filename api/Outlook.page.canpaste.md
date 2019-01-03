@@ -13,9 +13,9 @@ Returns a  **Boolean** that specifies whether the Clipboard contains data that t
 
 ## Syntax
 
- _expression_. **CanPaste**
+_expression_. **CanPaste**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

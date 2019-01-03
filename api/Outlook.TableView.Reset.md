@@ -18,9 +18,9 @@ Resets a built-in Microsoft Outlook view to its original settings.
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

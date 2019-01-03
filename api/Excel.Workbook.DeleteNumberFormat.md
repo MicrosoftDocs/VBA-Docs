@@ -18,9 +18,9 @@ Deletes a custom number format from the workbook.
 
 ## Syntax
 
- _expression_. `DeleteNumberFormat`( `_NumberFormat_` )
+_expression_. `DeleteNumberFormat`( `_NumberFormat_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

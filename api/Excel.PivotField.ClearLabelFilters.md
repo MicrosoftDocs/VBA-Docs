@@ -18,9 +18,9 @@ This method deletes all label filters or all date filters in the  **PivotFilters
 
 ## Syntax
 
- _expression_. `ClearLabelFilters`
+_expression_. `ClearLabelFilters`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

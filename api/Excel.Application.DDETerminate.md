@@ -18,9 +18,9 @@ Closes a channel to another application.
 
 ## Syntax
 
- _expression_. `DDETerminate`( `_Channel_` )
+_expression_. `DDETerminate`( `_Channel_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

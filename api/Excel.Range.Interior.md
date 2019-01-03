@@ -18,9 +18,9 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that represents the
 
 ## Syntax
 
- _expression_. `Interior`
+_expression_. `Interior`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Example

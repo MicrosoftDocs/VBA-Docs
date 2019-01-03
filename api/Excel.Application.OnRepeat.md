@@ -18,9 +18,9 @@ Sets the  **Repeat** item and the name of the procedure that will run if you cho
 
 ## Syntax
 
- _expression_. `OnRepeat`( `_Text_` , `_Procedure_` )
+_expression_. `OnRepeat`( `_Text_` , `_Procedure_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

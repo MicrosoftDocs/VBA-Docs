@@ -18,9 +18,9 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 ## Syntax
 
- _expression_. `Formula`
+_expression_. `Formula`
 
- _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
 
 
 ## Return value

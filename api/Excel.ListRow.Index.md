@@ -18,9 +18,9 @@ Returns a  **Long** value that represents the index number of the **[ListRow](Ex
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
+_expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
 
 
 ## See also

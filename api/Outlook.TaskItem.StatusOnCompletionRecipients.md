@@ -18,9 +18,9 @@ Returns or sets a semicolon-delimited  **String** of display names for recipient
 
 ## Syntax
 
- _expression_. `StatusOnCompletionRecipients`
+_expression_. `StatusOnCompletionRecipients`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

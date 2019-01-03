@@ -18,9 +18,9 @@ Gets a  **FileDialogSelectedItems** collection. This collection contains a list 
 
 ## Syntax
 
- _expression_. `SelectedItems`
+_expression_. `SelectedItems`
 
- _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets the style used in the bound page field area. The default value i
 
 ## Syntax
 
- _expression_. `PageFieldStyle`
+_expression_. `PageFieldStyle`
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that indicates whether a user can modify th
 
 ## Syntax
 
- _expression_. `LockUserChanges`
+_expression_. `LockUserChanges`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
 ## Remarks

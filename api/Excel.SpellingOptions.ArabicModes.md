@@ -18,9 +18,9 @@ Returns or sets the mode for the Arabic spelling checker. Read/write  **[xlArabi
 
 ## Syntax
 
- _expression_. `ArabicModes`
+_expression_. `ArabicModes`
 
- _expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
+_expression_ A variable that represents a [SpellingOptions](./Excel.SpellingOptions.md) object.
 
 
 ## Remarks

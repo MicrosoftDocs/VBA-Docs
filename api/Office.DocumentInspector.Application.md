@@ -15,7 +15,7 @@ Gets an  **Application** object that represents the creator of the **DocumentIns
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
  _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 

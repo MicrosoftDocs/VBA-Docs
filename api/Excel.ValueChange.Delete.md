@@ -18,9 +18,9 @@ Deletes the specified  **[ValueChange](Excel.ValueChange.md)** object from the *
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [ValueChange](./Excel.ValueChange.md) object.
+_expression_ A variable that represents a [ValueChange](./Excel.ValueChange.md) object.
 
 
 ## Remarks

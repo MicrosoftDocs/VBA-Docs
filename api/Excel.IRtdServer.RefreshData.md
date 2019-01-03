@@ -18,9 +18,9 @@ This method is called by Microsoft Excel to get new data. Returns a  **Variant**
 
 ## Syntax
 
- _expression_. `RefreshData`( `_TopicCount_` )
+_expression_. `RefreshData`( `_TopicCount_` )
 
- _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
+_expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
 ## Parameters

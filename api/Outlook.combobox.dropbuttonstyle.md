@@ -16,9 +16,9 @@ Returns or sets a  **fmDropButtonStyle** value that represents the symbol displa
 
 ## Syntax
 
- _expression_. **DropButtonStyle**
+_expression_. **DropButtonStyle**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

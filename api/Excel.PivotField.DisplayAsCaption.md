@@ -18,9 +18,9 @@ This property is used to display member properties of PivotFields as captions. R
 
 ## Syntax
 
- _expression_. `DisplayAsCaption`
+_expression_. `DisplayAsCaption`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Sends data to an application.
 
 ## Syntax
 
- _expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
+_expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

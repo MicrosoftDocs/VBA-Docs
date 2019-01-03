@@ -18,9 +18,9 @@ Returns or sets how Excel will validate the contents of the data caches for Pivo
 
 ## Syntax
 
- _expression_. `FileValidationPivot`
+_expression_. `FileValidationPivot`
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Return value

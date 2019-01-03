@@ -13,9 +13,9 @@ Returns or sets a  **Variant** that specifies the value in the **[BoundColumn](O
 
 ## Syntax
 
- _expression_. **Value**
+_expression_. **Value**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

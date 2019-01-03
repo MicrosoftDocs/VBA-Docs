@@ -16,9 +16,9 @@ Returns a single object from the  **ModelTables** collection.
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelTables object (Excel)](Excel.modeltables.md) object.
+_expression_ A variable that represents a [ModelTables object (Excel)](Excel.modeltables.md) object.
 
 
 ## Parameters

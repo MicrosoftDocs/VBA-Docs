@@ -18,9 +18,9 @@ Returns a  **Date** indicating the date and time at which the **[SharingItem](Ou
 
 ## Syntax
 
- _expression_. `ReceivedTime`
+_expression_. `ReceivedTime`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## See also

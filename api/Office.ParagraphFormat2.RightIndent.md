@@ -15,7 +15,7 @@ Gets or sets the right indent (in points) for the specified paragraphs. Read/wri
 
 ## Syntax
 
- _expression_. `RightIndent`
+_expression_. `RightIndent`
 
  _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 

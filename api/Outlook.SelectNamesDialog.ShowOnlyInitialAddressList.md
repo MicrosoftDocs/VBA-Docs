@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that determines if the **[AddressList](Outlook.Ad
 
 ## Syntax
 
- _expression_. `ShowOnlyInitialAddressList`
+_expression_. `ShowOnlyInitialAddressList`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

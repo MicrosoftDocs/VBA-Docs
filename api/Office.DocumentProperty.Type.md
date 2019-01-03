@@ -18,7 +18,7 @@ Gets or sets the document property type. Read-only for built-in document propert
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ Required. A variable that represents a '[DocumentProperty](Office.DocumentProperty.md)' object.
 

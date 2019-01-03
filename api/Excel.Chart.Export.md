@@ -18,9 +18,9 @@ Exports the chart in a graphic format.
 
 ## Syntax
 
- _expression_. `Export`( `_Filename_` , `_FilterName_` , `_Interactive_` )
+_expression_. `Export`( `_Filename_` , `_FilterName_` , `_Interactive_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

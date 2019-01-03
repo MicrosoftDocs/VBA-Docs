@@ -18,9 +18,9 @@ Gets or sets the width (in pixels) of the specified  **CommandBarComboBox** cont
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

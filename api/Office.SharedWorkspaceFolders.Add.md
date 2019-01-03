@@ -21,7 +21,7 @@ Adds a folder to the document library in a shared workspace. Returns a  **[Share
 
 ## Syntax
 
- _expression_. `Add`( `_FolderName_`, `_ParentFolder_` )
+_expression_. `Add`( `_FolderName_`, `_ParentFolder_` )
 
  _expression_ Required. A variable that represents a '[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)' object.
 

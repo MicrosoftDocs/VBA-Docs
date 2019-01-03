@@ -16,9 +16,9 @@ Specifies whether a bin for values below the [BinsUnderflowValue](Excel.chartgro
 
 ## Syntax
 
- _expression_. `BinsUnderflowEnabled`
+_expression_. `BinsUnderflowEnabled`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns or sets a  **Long** that specifies either the starting point of the sele
 
 ## Syntax
 
- _expression_. `SelStart`
+_expression_. `SelStart`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

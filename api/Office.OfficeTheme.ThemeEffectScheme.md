@@ -15,7 +15,7 @@ Gets a  **ThemeEffectScheme** object that represents the effects scheme of a Mic
 
 ## Syntax
 
- _expression_. `ThemeEffectScheme`
+_expression_. `ThemeEffectScheme`
 
  _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 

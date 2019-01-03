@@ -18,7 +18,7 @@ Opens a shared item from a specified path or URL.
 
 ## Syntax
 
- _expression_. `OpenSharedItem`( `_Path_` )
+_expression_. `OpenSharedItem`( `_Path_` )
 
  _expression_ An expression that returns a '[NameSpace](Outlook.NameSpace.md)' object.
 

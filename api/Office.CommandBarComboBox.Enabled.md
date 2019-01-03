@@ -18,9 +18,9 @@ Gets or sets a  **Boolean** value that specifies whether the **CommandBarComboBo
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
+_expression_ A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 
 
 ## Remarks

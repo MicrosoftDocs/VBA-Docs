@@ -18,9 +18,9 @@ Returns or sets a  **String** that indicates the requested action for a mail ite
 
 ## Syntax
 
- _expression_. `FlagRequest`
+_expression_. `FlagRequest`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

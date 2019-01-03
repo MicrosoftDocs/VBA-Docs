@@ -21,9 +21,9 @@ Gets the  **Parent** object for the **CommandBarControls** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [CommandBarControls](Office.CommandBarControls.md) object.
+_expression_ A variable that represents a [CommandBarControls](Office.CommandBarControls.md) object.
 
 
 ## Return value

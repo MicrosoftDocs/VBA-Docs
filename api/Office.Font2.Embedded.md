@@ -15,7 +15,7 @@ Gets a value specifying whether the font is embedded in a page. Read-only.
 
 ## Syntax
 
- _expression_. `Embedded`
+_expression_. `Embedded`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

@@ -18,9 +18,9 @@ Occurs when the  **[Value](Outlook.OlkTextBox.Value.md)** property changes.
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## See also

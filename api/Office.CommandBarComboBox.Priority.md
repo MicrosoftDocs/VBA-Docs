@@ -18,9 +18,9 @@ Gets or sets the priority of a  **CommandBarComboBox** control. A control's prio
 
 ## Syntax
 
- _expression_. `Priority`
+_expression_. `Priority`
 
- _expression_ A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
+_expression_ A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 
 
 ## Remarks

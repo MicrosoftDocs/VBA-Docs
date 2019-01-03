@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that specifies whether or not the control is lock
 
 ## Syntax
 
- _expression_. `Locked`
+_expression_. `Locked`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Merges changes from one workbook into an open workbook.
 
 ## Syntax
 
- _expression_. `MergeWorkbook`( `_Filename_` )
+_expression_. `MergeWorkbook`( `_Filename_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

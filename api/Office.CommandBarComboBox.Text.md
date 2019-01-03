@@ -21,9 +21,9 @@ Gets or sets the text in the display or edit portion of the  **CommandBarComboBo
 
 ## Syntax
 
- _expression_. `Text`
+_expression_. `Text`
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

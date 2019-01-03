@@ -18,9 +18,9 @@ When set to  **True** (default), Microsoft Excel identifies selected cells that 
 
 ## Syntax
 
- _expression_. `UnlockedFormulaCells`
+_expression_. `UnlockedFormulaCells`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Example

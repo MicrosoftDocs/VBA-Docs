@@ -16,9 +16,9 @@ A path to the original file used to create the connection. In the case of an ODa
 
 ## Syntax
 
- _expression_. `SourceDataFile`
+_expression_. `SourceDataFile`
 
- _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

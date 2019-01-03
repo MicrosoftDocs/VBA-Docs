@@ -18,9 +18,9 @@ Returns an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85
 
 ## Syntax
 
- _expression_. `GetCustomIcon`
+_expression_. `GetCustomIcon`
 
- _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
+_expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 
 ## Return value

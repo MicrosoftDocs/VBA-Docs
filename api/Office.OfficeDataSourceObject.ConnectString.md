@@ -18,9 +18,9 @@ Gets or sets a  **String** that represents the connection to the specified mail 
 
 ## Syntax
 
- _expression_. `ConnectString`
+_expression_. `ConnectString`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
+_expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

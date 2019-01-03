@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.DockPositionStateChange Event (Office)
+title: CustomTaskPane.DockPositionStateChange event (Office)
 keywords: vbaof11.chm302002
 f1_keywords:
 - vbaof11.chm302002
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.DockPositionStateChange Event (Office)
+# CustomTaskPane.DockPositionStateChange event (Office)
 
 Occurs when the user changes the docking position of the active custom task pane.
 
 
 ## Syntax
 
- _expression_. `DockPositionStateChange`( `_CustomTaskPaneInst_`, )
+_expression_. `DockPositionStateChange`( `_CustomTaskPaneInst_`, )
 
  _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 

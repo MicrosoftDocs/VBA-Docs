@@ -18,9 +18,9 @@ Returns a single  **[Axis](Excel.Axis(object).md)** object from an **Axes** coll
 
 ## Syntax
 
- _expression_. `Item`( `_Type_` , `_AxisGroup_` )
+_expression_. `Item`( `_Type_` , `_AxisGroup_` )
 
- _expression_ A variable that represents an [Axes](Excel.Axes(object).md) object.
+_expression_ A variable that represents an [Axes](Excel.Axes(object).md) object.
 
 
 ## Parameters

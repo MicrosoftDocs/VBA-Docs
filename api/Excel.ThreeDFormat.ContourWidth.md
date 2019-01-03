@@ -15,9 +15,9 @@ Returns or sets the contour width for a  **ThreeDFormat** object. Read/write **S
 
 ## Syntax
 
- _expression_. `ContourWidth`
+_expression_. `ContourWidth`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

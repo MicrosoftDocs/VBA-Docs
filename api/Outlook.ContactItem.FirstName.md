@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the first name for the contact. Read/
 
 ## Syntax
 
- _expression_. `FirstName`
+_expression_. `FirstName`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

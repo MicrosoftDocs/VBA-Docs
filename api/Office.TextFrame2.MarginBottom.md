@@ -15,7 +15,7 @@ Returns or sets the distance (in points) between the bottom of the text frame an
 
 ## Syntax
 
- _expression_. `MarginBottom`
+_expression_. `MarginBottom`
 
  _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 

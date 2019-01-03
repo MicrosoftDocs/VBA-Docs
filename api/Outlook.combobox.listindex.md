@@ -16,9 +16,9 @@ Returns or sets a  **Variant** that represents the currently selected item in a 
 
 ## Syntax
 
- _expression_. **ListIndex**
+_expression_. **ListIndex**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

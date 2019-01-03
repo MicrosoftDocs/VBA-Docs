@@ -18,9 +18,9 @@ Returns the sheet name for the specified  **[DialogSheetView](Excel.DialogSheetV
 
 ## Syntax
 
- _expression_. `Sheet`
+_expression_. `Sheet`
 
- _expression_ A variable that represents a [DialogSheetView](Excel.DialogSheetView.md) object.
+_expression_ A variable that represents a [DialogSheetView](Excel.DialogSheetView.md) object.
 
 
 ## See also

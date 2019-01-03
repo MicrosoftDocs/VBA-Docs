@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the task is completed. Read/
 
 ## Syntax
 
- _expression_. `Complete`
+_expression_. `Complete`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

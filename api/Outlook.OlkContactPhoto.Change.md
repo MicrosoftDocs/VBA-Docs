@@ -18,9 +18,9 @@ Occurs when the contact picture has changed.
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
 
 
 ## See also

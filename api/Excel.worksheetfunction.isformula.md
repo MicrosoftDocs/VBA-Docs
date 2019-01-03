@@ -16,9 +16,9 @@ Checks whether a reference is to a cell containing a formula, and returns  **TRU
 
 ## Syntax
 
- _expression_. `IsFormula`_(Arg1)_
+_expression_. `IsFormula`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

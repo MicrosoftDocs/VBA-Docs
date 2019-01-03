@@ -18,9 +18,9 @@ Returns an object that represents either a single series (a  **[Series](Excel.Se
 
 ## Syntax
 
- _expression_. `SeriesCollection`( `_Index_` )
+_expression_. `SeriesCollection`( `_Index_` )
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Parameters

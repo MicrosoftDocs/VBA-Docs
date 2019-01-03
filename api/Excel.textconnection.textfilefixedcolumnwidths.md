@@ -16,9 +16,9 @@ Returns or sets an array of integers that correspond to the widths of the column
 
 ## Syntax
 
- _expression_. `TextFileFixedColumnWidths`
+_expression_. `TextFileFixedColumnWidths`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

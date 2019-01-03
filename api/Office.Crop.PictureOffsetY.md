@@ -15,7 +15,7 @@ Gets or sets the y-axis offset of the image that is to be cropped. Read/write.
 
 ## Syntax
 
- _expression_. `PictureOffsetY`
+_expression_. `PictureOffsetY`
 
  _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 

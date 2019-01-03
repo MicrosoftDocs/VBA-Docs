@@ -18,9 +18,9 @@ Removes all the columns from the  **[Columns](Outlook.Columns.md)** collection a
 
 ## Syntax
 
- _expression_. `RemoveAll`
+_expression_. `RemoveAll`
 
- _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
+_expression_ A variable that represents a [Columns](./Outlook.Columns.md) object.
 
 
 ## Remarks

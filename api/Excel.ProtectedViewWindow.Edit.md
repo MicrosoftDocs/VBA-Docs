@@ -18,9 +18,9 @@ Opens the workbook that is open in the specified  **Protected View** window for 
 
 ## Syntax
 
- _expression_. `Edit`( `_WriteResPassword_` , `_UpdateLinks_` )
+_expression_. `Edit`( `_WriteResPassword_` , `_UpdateLinks_` )
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
 ## Parameters

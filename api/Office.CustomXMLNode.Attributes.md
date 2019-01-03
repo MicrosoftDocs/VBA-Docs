@@ -18,7 +18,7 @@ Gets a  **CustomXMLNodes** collection representing the attributes of the current
 
 ## Syntax
 
- _expression_. `Attributes`
+_expression_. `Attributes`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

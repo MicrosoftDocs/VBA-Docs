@@ -15,9 +15,9 @@ Returns or sets text break lines within or past the boundaries of the shape. Rea
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
- _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 
 
 ## See also

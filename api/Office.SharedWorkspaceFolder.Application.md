@@ -18,9 +18,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md) object.
+_expression_ A variable that represents a [SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md) object.
 
 
 ## Return value

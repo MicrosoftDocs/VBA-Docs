@@ -18,9 +18,9 @@ Returns the coordinate property of the  **Action** object. Read-only
 
 ## Syntax
 
- _expression_. `Coordinate`
+_expression_. `Coordinate`
 
- _expression_ A variable that represents an [Action](Excel.Action.md) object.
+_expression_ A variable that represents an [Action](Excel.Action.md) object.
 
 
 ## See also

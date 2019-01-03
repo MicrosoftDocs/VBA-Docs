@@ -16,9 +16,9 @@ Returns the Workbook Connection from which the model table originated. Read-only
 
 ## Syntax
 
- _expression_. `SourceWorkbookConnection`
+_expression_. `SourceWorkbookConnection`
 
- _expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
 
 
 ## Property value

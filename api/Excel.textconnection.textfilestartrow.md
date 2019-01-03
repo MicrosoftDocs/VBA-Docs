@@ -16,9 +16,9 @@ Returns or sets the row number at which text parsing will begin when you import 
 
 ## Syntax
 
- _expression_. `TextFileStartRow`
+_expression_. `TextFileStartRow`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

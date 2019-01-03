@@ -18,9 +18,9 @@ Removes an individual member from a given distribution list.
 
 ## Syntax
 
- _expression_. `RemoveMember`( `_Recipient_` )
+_expression_. `RemoveMember`( `_Recipient_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Parameters

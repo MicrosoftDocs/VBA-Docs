@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Pastes the contents of the Clipboard into the specified range on the datasheet.
 
- _expression_. `Paste`( `_Link_`)
+_expression_. `Paste`( `_Link_`)
 
  _expression_ Required. An expression that returns a [Range](excel.range-graph-property.md) object.
 

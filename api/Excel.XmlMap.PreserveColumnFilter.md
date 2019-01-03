@@ -18,9 +18,9 @@ Returns or sets whether filtering is preserved when the specified XML map is ref
 
 ## Syntax
 
- _expression_. `PreserveColumnFilter`
+_expression_. `PreserveColumnFilter`
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## See also

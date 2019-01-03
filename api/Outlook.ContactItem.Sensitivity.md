@@ -18,9 +18,9 @@ Returns or sets a constant in the  **[OlSensitivity](Outlook.OlSensitivity.md)**
 
 ## Syntax
 
- _expression_. `Sensitivity`
+_expression_. `Sensitivity`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

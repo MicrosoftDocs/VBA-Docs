@@ -18,9 +18,9 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 ## Syntax
 
- _expression_. `Session`
+_expression_. `Session`
 
- _expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
+_expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## Remarks

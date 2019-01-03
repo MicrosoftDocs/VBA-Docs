@@ -15,7 +15,7 @@ Retrieves the string name of the  **EffectParameter** parameter. Read-only
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
  _expression_ An expression that returns a [EffectParameter](Office.EffectParameter.md) object.
 

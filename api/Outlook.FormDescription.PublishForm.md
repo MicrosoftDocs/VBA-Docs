@@ -18,9 +18,9 @@ Saves the definition of the  **[FormDescription](Outlook.FormDescription.md)** o
 
 ## Syntax
 
- _expression_. `PublishForm`( `_Registry_` , `_Folder_` )
+_expression_. `PublishForm`( `_Registry_` , `_Folder_` )
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## Parameters

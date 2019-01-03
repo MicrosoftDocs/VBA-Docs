@@ -21,9 +21,9 @@ Disconnects the local copy of the active document from the shared workspace site
 
 ## Syntax
 
- _expression_. `Disconnect`
+_expression_. `Disconnect`
 
- _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

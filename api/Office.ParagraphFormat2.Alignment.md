@@ -15,7 +15,7 @@ Gets or sets a value specifying the alignment of the paragraph. Read/write.
 
 ## Syntax
 
- _expression_. `Alignment`
+_expression_. `Alignment`
 
  _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 

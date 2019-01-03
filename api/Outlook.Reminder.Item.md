@@ -18,9 +18,9 @@ Returns an  **Object** corresponding to the specified Outlook item. Read-only.
 
 ## Syntax
 
- _expression_. `Item`
+_expression_. `Item`
 
- _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
 
 
 ## See also

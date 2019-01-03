@@ -18,9 +18,9 @@ Returns or sets an  **[OlMousePointer](Outlook.OlMousePointer.md)** constant tha
 
 ## Syntax
 
- _expression_. `MousePointer`
+_expression_. `MousePointer`
 
- _expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
+_expression_ A variable that represents an [OlkBusinessCardControl](./Outlook.OlkBusinessCardControl.md) object.
 
 
 ## Remarks

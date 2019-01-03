@@ -18,9 +18,9 @@ Deletes the object.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## See also

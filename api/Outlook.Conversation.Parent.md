@@ -18,9 +18,9 @@ Returns the parent  **Object** of the specified **[Conversation](Outlook.Convers
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Conversation](./Outlook.Conversation.md) object.
+_expression_ A variable that represents a [Conversation](./Outlook.Conversation.md) object.
 
 
 ## Remarks

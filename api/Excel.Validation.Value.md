@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates if all the validation criteria are m
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
+_expression_ A variable that represents a [Validation](./Excel.Validation.md) object.
 
 
 ## See also

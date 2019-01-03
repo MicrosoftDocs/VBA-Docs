@@ -18,9 +18,9 @@ Returns or sets the ScreenTip text for the specified hyperlink. Read/write  **St
 
 ## Syntax
 
- _expression_. `ScreenTip`
+_expression_. `ScreenTip`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Remarks

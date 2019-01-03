@@ -15,9 +15,9 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
+_expression_ A variable that represents a [DocumentItem](./Outlook.DocumentItem.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Gets an object that represents the parent of the  **DocumentInspector** object. 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 

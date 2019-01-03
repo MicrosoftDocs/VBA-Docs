@@ -16,9 +16,9 @@ Returns or sets a string that contains text file names that enable Microsoft Exc
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

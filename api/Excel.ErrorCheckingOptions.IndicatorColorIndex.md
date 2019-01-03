@@ -18,9 +18,9 @@ Returns or sets the color of the indicator for error checking options. Read/writ
 
 ## Syntax
 
- _expression_. `IndicatorColorIndex`
+_expression_. `IndicatorColorIndex`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Remarks

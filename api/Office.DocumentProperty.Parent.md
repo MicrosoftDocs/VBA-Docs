@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **DocumentProperty** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
+_expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
 
 
 ## Return value

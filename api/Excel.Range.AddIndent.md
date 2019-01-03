@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that indicates if text is automatically ind
 
 ## Syntax
 
- _expression_. `AddIndent`
+_expression_. `AddIndent`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

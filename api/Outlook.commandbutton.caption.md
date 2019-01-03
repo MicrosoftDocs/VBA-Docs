@@ -13,9 +13,9 @@ Returns or sets a  **String** that appears on the button to describe what it doe
 
 ## Syntax
 
- _expression_. **Caption**
+_expression_. **Caption**
 
- _expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks

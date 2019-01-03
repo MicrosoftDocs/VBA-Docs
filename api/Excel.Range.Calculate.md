@@ -18,9 +18,9 @@ Calculates all open workbooks, a specific worksheet in a workbook, or a specifie
 
 ## Syntax
 
- _expression_. `Calculate`
+_expression_. `Calculate`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

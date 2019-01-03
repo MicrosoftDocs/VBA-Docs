@@ -18,7 +18,7 @@ Gets a count of the numbers of controls on a command bar. Read-only.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
  _expression_ An expression that returns a [CommandBarControls](Office.CommandBarControls.md) object.
 

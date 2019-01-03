@@ -18,9 +18,9 @@ Returns a [UsedObjects](Excel.UsedObjects.md)object representing objects allocat
 
 ## Syntax
 
- _expression_. `UsedObjects`
+_expression_. `UsedObjects`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

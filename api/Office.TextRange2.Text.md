@@ -15,7 +15,7 @@ Gets or sets a  **String** value that represents the text in a text range. Read/
 
 ## Syntax
 
- _expression_. `Text`
+_expression_. `Text`
 
  _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 

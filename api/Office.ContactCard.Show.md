@@ -15,7 +15,7 @@ Displays the contact card at the specified x-coordinate position outside the spe
 
 ## Syntax
 
- _expression_. `Show`( `_Style_`, `_Left_`, `_Right_`, `_Top_`, `_Bottom_`, `_xcord_`, `_fDelay_` )
+_expression_. `Show`( `_Style_`, `_Left_`, `_Right_`, `_Top_`, `_Bottom_`, `_xcord_`, `_fDelay_` )
 
  _expression_ An expression that returns a [ContactCard](Office.ContactCard.md) object.
 

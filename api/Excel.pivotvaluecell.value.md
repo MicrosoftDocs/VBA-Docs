@@ -16,9 +16,9 @@ Returns the value at the location. The value is the value after  **ShowAs** and 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
+_expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.md) object.
 
 
 ## Remarks

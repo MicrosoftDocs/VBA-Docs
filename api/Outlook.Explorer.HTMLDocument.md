@@ -18,9 +18,9 @@ Returns an  **HTMLDocument** object that specifies the HTML object model associa
 
 ## Syntax
 
- _expression_. `HTMLDocument`
+_expression_. `HTMLDocument`
 
- _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
+_expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 
 
 ## Remarks

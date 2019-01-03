@@ -18,9 +18,9 @@ Creates a new PivotTable formula.
 
 ## Syntax
 
- _expression_. `Add`( `_Formula_` , `_UseStandardFormula_` )
+_expression_. `Add`( `_Formula_` , `_UseStandardFormula_` )
 
- _expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
+_expression_ A variable that represents a [PivotFormulas](Excel.PivotFormulas.md) object.
 
 
 ## Parameters

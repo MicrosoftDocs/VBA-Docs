@@ -15,9 +15,9 @@ Occurs when the user selects the  **Reply** action for an item, or when the **Re
 
 ## Syntax
 
- _expression_. `Reply`( `_Response_` , `_Cancel_` )
+_expression_. `Reply`( `_Response_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Parameters

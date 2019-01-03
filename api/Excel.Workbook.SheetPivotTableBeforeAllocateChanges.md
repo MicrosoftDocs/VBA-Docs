@@ -18,9 +18,9 @@ Occurs before changes are applied to a PivotTable.
 
 ## Syntax
 
- _expression_. `SheetPivotTableBeforeAllocateChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
+_expression_. `SheetPivotTableBeforeAllocateChanges`( `_Sh_` , `_TargetPivotTable_` , `_ValueChangeStart_` , `_ValueChangeEnd_` , `_Cancel_` )
 
- _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Parameters

@@ -13,9 +13,9 @@ Returns the model workbook connection object from the workbook connections colle
 
 ## Syntax
 
- _expression_. `DataModelConnection`
+_expression_. `DataModelConnection`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value

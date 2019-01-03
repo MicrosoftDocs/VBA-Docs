@@ -18,9 +18,9 @@ When used without an object qualifier, this property returns an  **[Application]
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## See also

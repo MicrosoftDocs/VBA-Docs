@@ -18,9 +18,9 @@ Occurs after a folder is added to a  **[NavigationGroups](Outlook.NavigationGrou
 
 ## Syntax
 
- _expression_. `NavigationFolderAdd`( `_NavigationFolder_` )
+_expression_. `NavigationFolderAdd`( `_NavigationFolder_` )
 
- _expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
+_expression_ A variable that represents a [NavigationGroups](./Outlook.NavigationGroups.md) object.
 
 
 ## Parameters

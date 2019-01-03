@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns an AxisTitle object that represents the title of the specified axis. Read-only AxisTitle object.
 
- _expression_. `AxisTitle`
+_expression_. `AxisTitle`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

@@ -18,9 +18,9 @@ Returns or sets a  **String** value that specifies the XML definition of the vie
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

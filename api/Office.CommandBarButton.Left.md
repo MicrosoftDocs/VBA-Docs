@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Left
 ms.assetid: 0a3a83ce-bbb5-1884-4125-0d9f1bf20d27
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,17 +18,12 @@ Set or gets the horizontal position of the specified  **CommandBarButton** contr
 
 ## Syntax
 
- _expression_. `Left`
+_expression_. `Left`
 
  _expression_ Required. A variable that represents a '[CommandBarButton](Office.CommandBarButton.md)' object.
 
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

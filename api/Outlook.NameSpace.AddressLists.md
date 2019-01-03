@@ -18,9 +18,9 @@ Returns an  **[AddressLists](Outlook.AddressLists.md)** collection representing 
 
 ## Syntax
 
- _expression_. `AddressLists`
+_expression_. `AddressLists`
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## Remarks

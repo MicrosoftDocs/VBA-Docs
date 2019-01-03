@@ -18,9 +18,9 @@ Returns a  **String** representing the unique Entry ID of the object. Read-only.
 
 ## Syntax
 
- _expression_. `EntryID`
+_expression_. `EntryID`
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## Remarks

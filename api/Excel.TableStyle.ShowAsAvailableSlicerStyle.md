@@ -18,9 +18,9 @@ Returns or sets if the specified table style is shown as available in the slicer
 
 ## Syntax
 
- _expression_. `ShowAsAvailableSlicerStyle`
+_expression_. `ShowAsAvailableSlicerStyle`
 
- _expression_ A variable that represents a '[TableStyle](Excel.TableStyle.md)' object.
+_expression_ A variable that represents a '[TableStyle](Excel.TableStyle.md)' object.
 
 
 ## Return value

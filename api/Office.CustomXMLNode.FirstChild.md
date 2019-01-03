@@ -18,7 +18,7 @@ Gets a  **CustomXMLNode** object corresponding to the first child element of the
 
 ## Syntax
 
- _expression_. `FirstChild`
+_expression_. `FirstChild`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

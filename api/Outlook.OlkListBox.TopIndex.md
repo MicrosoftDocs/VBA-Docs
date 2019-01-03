@@ -18,9 +18,9 @@ Returns or sets a  **Long** that represents the index of the item at the top of 
 
 ## Syntax
 
- _expression_. `TopIndex`
+_expression_. `TopIndex`
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## Remarks

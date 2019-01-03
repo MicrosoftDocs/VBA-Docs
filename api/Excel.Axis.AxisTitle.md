@@ -18,9 +18,9 @@ Returns an  **[AxisTitle](Excel.AxisTitle(object).md)** object that represents t
 
 ## Syntax
 
- _expression_. `AxisTitle`
+_expression_. `AxisTitle`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets an  **[Account](Outlook.Account.md)** object that represents the
 
 ## Syntax
 
- _expression_. `SendUsingAccount`
+_expression_. `SendUsingAccount`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Remarks

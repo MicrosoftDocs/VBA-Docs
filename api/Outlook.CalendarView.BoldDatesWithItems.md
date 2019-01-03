@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that indicates whether days that contain Ou
 
 ## Syntax
 
- _expression_. `BoldDatesWithItems`
+_expression_. `BoldDatesWithItems`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
 ## See also

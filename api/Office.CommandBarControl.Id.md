@@ -18,7 +18,7 @@ Gets the ID for a built-in  **CommandBarControl**. Read-only.
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ Required. A variable that represents a '[CommandBarControl](Office.CommandBarControl.md)' object.
 

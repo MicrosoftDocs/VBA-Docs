@@ -18,9 +18,9 @@ Returns a  **[UserDefinedProperties](Outlook.UserDefinedProperties.md)** object 
 
 ## Syntax
 
- _expression_. `UserDefinedProperties`
+_expression_. `UserDefinedProperties`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## See also

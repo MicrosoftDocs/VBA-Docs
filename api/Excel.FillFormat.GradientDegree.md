@@ -18,9 +18,9 @@ Returns the gradient degree of the specified one-color shaded fill as a floating
 
 ## Syntax
 
- _expression_. `GradientDegree`
+_expression_. `GradientDegree`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

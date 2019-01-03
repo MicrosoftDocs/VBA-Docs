@@ -13,9 +13,9 @@ Returns or sets a  **Boolean** that specifies whether a control can receive the 
 
 ## Syntax
 
- _expression_. **Enabled**
+_expression_. **Enabled**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

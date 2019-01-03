@@ -18,9 +18,9 @@ Returns or sets the angle of the first pie-chart or doughnut-chart slice, in deg
 
 ## Syntax
 
- _expression_. `FirstSliceAngle`
+_expression_. `FirstSliceAngle`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Example

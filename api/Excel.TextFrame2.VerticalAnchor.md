@@ -15,9 +15,9 @@ Returns or sets the vertical anchor type for the specified text. Read/write  **[
 
 ## Syntax
 
- _expression_. `VerticalAnchor`
+_expression_. `VerticalAnchor`
 
- _expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
+_expression_ A variable that represents a [TextFrame2](./Excel.TextFrame2.md) object.
 
 
 ## See also

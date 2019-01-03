@@ -18,9 +18,9 @@ Returns a  **String** that represents the type of entry for the email address of
 
 ## Syntax
 
- _expression_. `SenderEmailType`
+_expression_. `SenderEmailType`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

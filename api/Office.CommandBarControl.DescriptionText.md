@@ -18,9 +18,9 @@ Gets or sets the description for a command bar control. Read/write.
 
 ## Syntax
 
- _expression_. `DescriptionText`
+_expression_. `DescriptionText`
 
- _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

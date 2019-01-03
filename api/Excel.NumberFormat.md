@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns or sets the format code for the object. Returns Null if the cells in the specified range don't all have the same number format. Read/write String for all objects, except for the Range object, which is read/write Variant.
 
- _expression_. `NumberFormat`
+_expression_. `NumberFormat`
 
  _expression_ Required. An expression that returns one of the above objects.
 

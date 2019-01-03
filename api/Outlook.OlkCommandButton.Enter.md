@@ -18,9 +18,9 @@ Occurs before the control actually receives the focus from a control on the same
 
 ## Syntax
 
- _expression_. `Enter`
+_expression_. `Enter`
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## See also

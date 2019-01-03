@@ -18,9 +18,9 @@ Occurs when the user presses a mouse button on the control.
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_. `MouseDown`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
- _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
 ## Parameters

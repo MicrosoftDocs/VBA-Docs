@@ -18,9 +18,9 @@ Regroups the group that the specified shape range belonged to previously. Return
 
 ## Syntax
 
- _expression_. `Regroup`
+_expression_. `Regroup`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Return value

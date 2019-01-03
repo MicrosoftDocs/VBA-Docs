@@ -15,7 +15,7 @@ Gets the ID for a built-in  **CommandBarComboBox** control. Read-only.
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ Required. A variable that represents a '[CommandBarComboBox](Office.CommandBarComboBox.md)' object.
 

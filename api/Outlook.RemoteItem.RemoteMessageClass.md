@@ -18,9 +18,9 @@ Returns a  **String** indicating the message class for the remote item. Read-onl
 
 ## Syntax
 
- _expression_. `RemoteMessageClass`
+_expression_. `RemoteMessageClass`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## See also

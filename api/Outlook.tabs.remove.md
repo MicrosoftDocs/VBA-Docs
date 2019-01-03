@@ -16,9 +16,9 @@ Removes a member from a collection.
 
 ## Syntax
 
- _expression_. **Remove**(**_varg_**)
+_expression_. **Remove**(**_varg_**)
 
- _expression_ A variable that represents a  **Tabs** object.
+_expression_ A variable that represents a  **Tabs** object.
 
 
 ## Parameters

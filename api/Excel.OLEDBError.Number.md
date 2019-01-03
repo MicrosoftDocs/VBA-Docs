@@ -18,9 +18,9 @@ Returns a numeric value that specifies an error. The error number corresponds to
 
 ## Syntax
 
- _expression_. `Number`
+_expression_. `Number`
 
- _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
+_expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) object.
 
 
 ## Example

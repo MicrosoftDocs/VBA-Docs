@@ -18,9 +18,9 @@ Runs a specified procedure when a particular key or key combination is pressed.
 
 ## Syntax
 
- _expression_. `OnKey`( `_Key_` , `_Procedure_` )
+_expression_. `OnKey`( `_Key_` , `_Procedure_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

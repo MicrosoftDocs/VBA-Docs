@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.IsPriorityDropped
 ms.assetid: 68398973-675f-2180-b22c-4ad5de0582f7
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets  **True** if the **CommandBarButton** control is currently dropped from the
 
 ## Syntax
 
- _expression_. `IsPriorityDropped`
+_expression_. `IsPriorityDropped`
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value
@@ -53,10 +53,5 @@ You can use the following table to predict the number of sessions for which a me
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

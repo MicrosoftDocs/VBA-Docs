@@ -18,9 +18,9 @@ Returns or sets the theme font in the applied font scheme that is associated wit
 
 ## Syntax
 
- _expression_. `ThemeFont`
+_expression_. `ThemeFont`
 
- _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
+_expression_ A variable that represents a [Font](Excel.Font-graph-property.md) object.
 
 
 ## See also

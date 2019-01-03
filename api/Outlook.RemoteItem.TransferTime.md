@@ -18,9 +18,9 @@ Returns a  **Long** indicating the transfer time (in seconds) for the remote ite
 
 ## Syntax
 
- _expression_. `TransferTime`
+_expression_. `TransferTime`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## See also

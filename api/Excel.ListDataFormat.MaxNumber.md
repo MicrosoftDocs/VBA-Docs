@@ -18,9 +18,9 @@ Returns a  **Variant** containing the maximum value allowed in this field in the
 
 ## Syntax
 
- _expression_. `MaxNumber`
+_expression_. `MaxNumber`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks

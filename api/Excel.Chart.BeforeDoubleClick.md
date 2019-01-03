@@ -18,9 +18,9 @@ Occurs when a chart element is double-clicked, before the default double-click a
 
 ## Syntax
 
- _expression_. `BeforeDoubleClick`( `_ElementID_` , `_Arg1_` , `_Arg2_` , `_Cancel_` )
+_expression_. `BeforeDoubleClick`( `_ElementID_` , `_Arg1_` , `_Arg2_` , `_Cancel_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

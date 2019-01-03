@@ -18,9 +18,9 @@ Requests information from the specified application. This method always returns 
 
 ## Syntax
 
- _expression_. `DDERequest`( `_Channel_` , `_Item_` )
+_expression_. `DDERequest`( `_Channel_` , `_Item_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

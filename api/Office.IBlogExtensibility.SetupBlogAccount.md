@@ -18,7 +18,7 @@ Called from the  **Choose Account** dialog when the provider's name is chosen in
 
 ## Syntax
 
- _expression_. `SetupBlogAccount`( `_Account_`, `_ParentWindow_`, `_Document_`, `_NewAccount_`, `_ShowPictureUI_` )
+_expression_. `SetupBlogAccount`( `_Account_`, `_ParentWindow_`, `_Document_`, `_NewAccount_`, `_ShowPictureUI_` )
 
  _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 

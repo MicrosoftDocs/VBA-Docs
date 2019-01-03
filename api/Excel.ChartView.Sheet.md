@@ -18,9 +18,9 @@ Returns the sheet name for the specified  **[ChartView](Excel.ChartView.md)** ob
 
 ## Syntax
 
- _expression_. `Sheet`
+_expression_. `Sheet`
 
- _expression_ A variable that represents a [ChartView](Excel.ChartView.md) object.
+_expression_ A variable that represents a [ChartView](Excel.ChartView.md) object.
 
 
 ## See also

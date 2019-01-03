@@ -18,9 +18,9 @@ Returns or sets the location of the vertical window split, in points. Read/write
 
 ## Syntax
 
- _expression_. `SplitVertical`
+_expression_. `SplitVertical`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Example

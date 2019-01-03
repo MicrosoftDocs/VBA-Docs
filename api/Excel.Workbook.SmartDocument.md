@@ -18,9 +18,9 @@ Returns a  **SmartDocument** object that represents the settings for a smart doc
 
 ## Syntax
 
- _expression_. `SmartDocument`
+_expression_. `SmartDocument`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Remarks

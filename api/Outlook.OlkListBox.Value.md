@@ -18,9 +18,9 @@ Returns or sets a  **Variant** that represents the content selected in the list 
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## Remarks

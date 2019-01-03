@@ -18,9 +18,9 @@ Gets a  **Long** indicating the number of items in the **WebPageFonts** object. 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [WebPageFonts](Office.WebPageFonts.md) object.
+_expression_ A variable that represents a [WebPageFonts](Office.WebPageFonts.md) object.
 
 
 ## Return value

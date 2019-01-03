@@ -18,7 +18,7 @@ Gets a  **MailItem** object that can be used to send the document as an email. R
 
 ## Syntax
 
- _expression_. `Item`
+_expression_. `Item`
 
  _expression_ Required. A variable that represents a '[MsoEnvelope](Office.MsoEnvelope.md)' object.
 

@@ -18,9 +18,9 @@ Returns the Japanese phonetic text of the specified text string. This method is 
 
 ## Syntax
 
- _expression_. `GetPhonetic`( `_Text_` )
+_expression_. `GetPhonetic`( `_Text_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets whether items in the specified slicer cache will be sorted by th
 
 ## Syntax
 
- _expression_. `SortUsingCustomLists`
+_expression_. `SortUsingCustomLists`
 
- _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
+_expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 
 
 ## Remarks

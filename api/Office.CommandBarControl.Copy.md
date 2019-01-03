@@ -18,9 +18,9 @@ Copies a command bar control to an existing command bar.
 
 ## Syntax
 
- _expression_. `Copy`( `_Bar_`, `_Before_` )
+_expression_. `Copy`( `_Bar_`, `_Before_` )
 
- _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Parameters

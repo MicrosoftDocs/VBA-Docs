@@ -18,9 +18,9 @@ Returns the programmatic identifiers for the object. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `progID`
+_expression_. `progID`
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## Example

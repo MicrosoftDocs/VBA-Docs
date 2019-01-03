@@ -18,9 +18,9 @@ Returns a  **[GroupShapes](Excel.GroupShapes.md)** object that represents the in
 
 ## Syntax
 
- _expression_. `GroupItems`
+_expression_. `GroupItems`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

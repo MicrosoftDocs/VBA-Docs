@@ -18,9 +18,9 @@ Returns the parent  **Object** of the specified **[SolutionsModule](Outlook.Solu
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [SolutionsModule](./Outlook.SolutionsModule.md) object.
+_expression_ A variable that represents a [SolutionsModule](./Outlook.SolutionsModule.md) object.
 
 
 ## Remarks

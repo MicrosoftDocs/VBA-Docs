@@ -18,7 +18,7 @@ This method returns the list of blog categories for an account so Microsoft Word
 
 ## Syntax
 
- _expression_. `GetCategories`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_Categories()_` )
+_expression_. `GetCategories`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_Categories()_` )
 
  _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 

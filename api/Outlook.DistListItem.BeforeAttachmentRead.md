@@ -15,9 +15,9 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Parameters

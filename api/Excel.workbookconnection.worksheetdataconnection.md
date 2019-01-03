@@ -16,9 +16,9 @@ Returns an object that contains information for a connection from the PowerPivot
 
 ## Syntax
 
- _expression_. `WorksheetDataConnection`
+_expression_. `WorksheetDataConnection`
 
- _expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
 
 
 ## Property value

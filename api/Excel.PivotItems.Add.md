@@ -18,9 +18,9 @@ Creates a new PivotTable item.
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_. `Add`( `_Name_` )
 
- _expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
+_expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) object.
 
 
 ## Parameters

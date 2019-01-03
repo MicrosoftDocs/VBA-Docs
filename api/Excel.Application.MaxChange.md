@@ -18,9 +18,9 @@ Returns or sets the maximum amount of change between each iteration as Microsoft
 
 ## Syntax
 
- _expression_. `MaxChange`
+_expression_. `MaxChange`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Gets a  **Boolean** value that indicates whether the document library in which t
 
 ## Syntax
 
- _expression_. `IsVersioningEnabled`
+_expression_. `IsVersioningEnabled`
 
- _expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
+_expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
 
 
 ## Remarks

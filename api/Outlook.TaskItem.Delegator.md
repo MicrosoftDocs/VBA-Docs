@@ -18,9 +18,9 @@ Returns a  **String** representing the display name of the delegator for the tas
 
 ## Syntax
 
- _expression_. `Delegator`
+_expression_. `Delegator`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

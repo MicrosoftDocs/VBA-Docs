@@ -18,7 +18,7 @@ Hands off the current post so it can be published by the provider.
 
 ## Syntax
 
- _expression_. `PublishPost`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_xHTML_`, `_Title_`, `_DateTime_`, `_Categories()_`, `_Draft_`, `_PostID_`, `_PublishMessage_` )
+_expression_. `PublishPost`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_xHTML_`, `_Title_`, `_DateTime_`, `_Categories()_`, `_Draft_`, `_PostID_`, `_PublishMessage_` )
 
  _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 

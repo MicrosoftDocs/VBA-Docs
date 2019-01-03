@@ -13,9 +13,9 @@ Returns or sets a  **Boolean** that specifies whether text is underlined. Read/w
 
 ## Syntax
 
- _expression_. **Underline**
+_expression_. **Underline**
 
- _expression_ A variable that represents a  **Font** object.
+_expression_ A variable that represents a  **Font** object.
 
 
 ## Remarks

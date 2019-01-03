@@ -18,9 +18,9 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 
 ## Syntax
 
- _expression_. `Follow`( `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
+_expression_. `Follow`( `_NewWindow_` , `_AddHistory_` , `_ExtraInfo_` , `_Method_` , `_HeaderInfo_` )
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Parameters

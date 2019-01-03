@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the mobile telephone number for the c
 
 ## Syntax
 
- _expression_. `MobileTelephoneNumber`
+_expression_. `MobileTelephoneNumber`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

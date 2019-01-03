@@ -18,9 +18,9 @@ Returns information about how Visual Basic was called (for more information, see
 
 ## Syntax
 
- _expression_. `Caller`( `_Index_` )
+_expression_. `Caller`( `_Index_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

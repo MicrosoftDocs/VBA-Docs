@@ -18,9 +18,9 @@ Gets or sets an  **MsoFilterConjunction** constant that represents how a filter 
 
 ## Syntax
 
- _expression_. `Conjunction`
+_expression_. `Conjunction`
 
- _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Example

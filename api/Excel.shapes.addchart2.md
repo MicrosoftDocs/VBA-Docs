@@ -16,9 +16,9 @@ Adds a chart to the document. Returns a  **Shape** object that represents a char
 
 ## Syntax
 
- _expression_. `AddChart2`_(Style,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
+_expression_. `AddChart2`_(Style,_ _XlChartType,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
 
- _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
+_expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 
 ## Parameters

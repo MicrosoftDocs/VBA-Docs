@@ -16,9 +16,9 @@ Moves the scroll bar on an object.
 
 ## Syntax
 
- _expression_. **Scroll**(**_xAction_**,  **_yAction_**)
+_expression_. **Scroll**(**_xAction_**,  **_yAction_**)
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Parameters

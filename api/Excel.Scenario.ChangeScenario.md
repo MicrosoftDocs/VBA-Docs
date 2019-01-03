@@ -18,9 +18,9 @@ Changes the scenario to have a new set of changing cells and (optionally) scenar
 
 ## Syntax
 
- _expression_. `ChangeScenario`( `_ChangingCells_` , `_Values_` )
+_expression_. `ChangeScenario`( `_ChangingCells_` , `_Values_` )
 
- _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
+_expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 
 ## Parameters

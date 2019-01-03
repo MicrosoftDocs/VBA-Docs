@@ -18,9 +18,9 @@ Occurs when the position of the mouse pointer changes over a chart.
 
 ## Syntax
 
- _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
+_expression_. `MouseMove`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

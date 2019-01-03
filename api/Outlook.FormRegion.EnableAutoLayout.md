@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that specifies whether to use the automatic layou
 
 ## Syntax
 
- _expression_. `EnableAutoLayout`
+_expression_. `EnableAutoLayout`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## Remarks

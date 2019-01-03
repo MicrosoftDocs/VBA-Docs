@@ -15,9 +15,9 @@ Occurs when an explicit built-in property (for example,  **[Subject](Outlook.App
 
 ## Syntax
 
- _expression_. `PropertyChange`( `_Name_` )
+_expression_. `PropertyChange`( `_Name_` )
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Parameters
