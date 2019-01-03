@@ -7,28 +7,26 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.List
 ms.assetid: c90fae92-daab-1b08-6e85-8caae26d0b72
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarComboBox.List property (Office)
 
-Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
+Gets or sets an item in the **CommandBarComboBox** control. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
-_expression_. `List`( `_Index_` )
+_expression_.**List** (_Index_)
 
-_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,13 +34,12 @@ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBar
 
 ## Remarks
 
-> [!NOTE]
-> This property is read-only for built-in combo box controls.
+This property is read-only for built-in combo box controls.
 
 
 ## Example
 
-This example checks the fourth list item in the combo box control whose caption is "Stock Data" on the command bar named "Custom." If the item isn't "View News," the example displays a message advising the user that the combo box may be damaged and asks the user to reinstall the application.
+This example checks the fourth list item in the combo box control whose caption is **Stock Data** on the command bar named **Custom**. If the item isn't "View News," the example displays a message advising the user that the combo box may be damaged and asks the user to reinstall the application.
 
 
 ```vb
@@ -71,10 +68,4 @@ End If
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)

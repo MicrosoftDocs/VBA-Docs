@@ -7,23 +7,23 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Text
 ms.assetid: 91aa73ff-260c-c241-35d0-50bebbbaf190
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarComboBox.Text property (Office)
 
-Gets or sets the text in the display or edit portion of the  **CommandBarComboBox** control. Read/write.
+Gets or sets the text in the display or edit portion of the **CommandBarComboBox** control. Read/write.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
-_expression_. `Text`
+_expression_.**Text**
 
-_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Return value
@@ -33,7 +33,7 @@ String
 
 ## Example
 
-This example creates a new command bar named "Custom" and adds to it a combo box that contains four list items. The example then uses the Text property to set Item 3 as the default list item.
+This example creates a new command bar named **Custom** and adds to it a combo box that contains four list items. The example then uses the **Text** property to set Item 3 as the default list item.
 
 
 ```vb
@@ -54,13 +54,7 @@ With testComboBox
 End With
 ```
 
-
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
 

@@ -4,23 +4,23 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Index
 ms.assetid: a844b760-d165-02aa-41ad-0bc75c55d0ed
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarComboBox.Index property (Office)
 
-Gets a  **Long** representing the index number for a **CommandBarComboBox** object in the collection. Read-only.
+Gets a **Long** representing the index number for a **CommandBarComboBox** object in the collection. Read-only.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
-_expression_. `Index`
+_expression_.**Index**
 
-_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Return value
@@ -30,12 +30,12 @@ Long
 
 ## Remarks
 
-The position of the first command bar control is 1. Separators are not counted in the  **CommandBarControls** collection.
+The position of the first command bar control is 1. Separators are not counted in the **CommandBarControls** collection.
 
 
 ## Example
 
-This example searches the command bar named "Custom2" for a control with an  **Id** value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
+This example searches the command bar named **Custom2** for a control with an **Id** value of 23. If such a control is found and the index number of the control is greater than 5, the control will be positioned as the first control on the command bar.
 
 
 ```vb
@@ -49,10 +49,4 @@ End If
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)

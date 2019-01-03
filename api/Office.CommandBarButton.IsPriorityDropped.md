@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 Gets **True** if the **CommandBarButton** control is currently dropped from the menu or toolbar based on usage statistics and layout space. (Note that this is not the same as the control's visibility, as set by the **Visible** property). Read-only.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
@@ -44,9 +44,9 @@ You can use the following table to predict the number of sessions for which a me
 |2|6|
 |3|9|
 |4, 5|12|
-|6- 8|17|
-|9-13|23|
-|14-24|29|
+|6&ndash;8|17|
+|9&ndash;13|23|
+|14&ndash;24|29|
 |25 or more|31|
 
 ## See also

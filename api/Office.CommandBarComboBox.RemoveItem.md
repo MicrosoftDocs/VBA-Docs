@@ -7,28 +7,26 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.RemoveItem
 ms.assetid: 8a40dcca-c320-c27f-ae91-97c195d4f821
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarComboBox.RemoveItem method (Office)
 
-Removes an item from a  **CommandBarComboBox** control.
+Removes an item from a **CommandBarComboBox** control.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
-_expression_. `RemoveItem`( `_Index_` )
+_expression_.**RemoveItem** (_Index_)
 
-_expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,7 +34,7 @@ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBar
 
 ## Example
 
-This example determines whether there are more than three items in the specified combo box. If there are more than three items, the example removes the second item, alters the style, and sets a new value. It also sets the  **Tag** property of the parent object (the CommandBarControl object) to show that the list has changed.
+This example determines whether there are more than three items in the specified combo box. If there are more than three items, the example removes the second item, alters the style, and sets a new value. It also sets the **Tag** property of the parent object (the **CommandBarControl** object) to show that the list has changed.
 
 
 ```vb
@@ -72,10 +70,4 @@ End With
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
