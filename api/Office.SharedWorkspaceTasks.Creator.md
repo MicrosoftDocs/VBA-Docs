@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks.Creator Property (Office)
+title: SharedWorkspaceTasks.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks.Creator Property (Office)
+# SharedWorkspaceTasks.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceTasks** object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Height Property (Office)
+title: CommandBarComboBox.Height property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Height
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Height Property (Office)
+# CommandBarComboBox.Height property (Office)
 
 Gets or sets the height of a  **CommandBarComboBox** control. Read/write.
 

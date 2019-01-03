@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Item Property (Office)
+title: ServerPolicy.Item property (Office)
 keywords: vbaof11.chm278016
 f1_keywords:
 - vbaof11.chm278016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Item Property (Office)
+# ServerPolicy.Item property (Office)
 
 Gets a  **PolicyItem** object from the **ServerPolicy** collection. Read-only.
 

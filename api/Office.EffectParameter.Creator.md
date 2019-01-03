@@ -1,5 +1,5 @@
 ---
-title: EffectParameter.Creator Property (Office)
+title: EffectParameter.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameter.Creator Property (Office)
+# EffectParameter.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **EffectParameter** object was created. Read-only
 

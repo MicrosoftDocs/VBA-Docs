@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.IsCertificateRevoked Property (Office)
+title: SignatureInfo.IsCertificateRevoked property (Office)
 keywords: vbaof11.chm286012
 f1_keywords:
 - vbaof11.chm286012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.IsCertificateRevoked Property (Office)
+# SignatureInfo.IsCertificateRevoked property (Office)
 
 Gets a  **Boolean** value indicating whether the digital certificate is revoked. Read-only.
 

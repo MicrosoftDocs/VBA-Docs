@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Name Property (Office)
+title: PolicyItem.Name property (Office)
 keywords: vbaof11.chm278022
 f1_keywords:
 - vbaof11.chm278022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Name Property (Office)
+# PolicyItem.Name property (Office)
 
 Gets the name of the  **PolicyItem** object. Read-only.
 

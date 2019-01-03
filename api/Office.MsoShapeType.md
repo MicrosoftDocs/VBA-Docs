@@ -1,5 +1,5 @@
 ---
-title: MsoShapeType Enumeration (Office)
+title: MsoShapeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoShapeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoShapeType Enumeration (Office)
+# MsoShapeType enumeration (Office)
 
 Specifies the type of a shape or range of shapes.
 

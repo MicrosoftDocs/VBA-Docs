@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.UseTextColor Property (Office)
+title: BulletFormat2.UseTextColor property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.UseTextColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.UseTextColor Property (Office)
+# BulletFormat2.UseTextColor property (Office)
 
 Determines whether the specified bullets are set to the color of the first text character in the paragraph. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoDateTimeFormat Enumeration (Office)
+title: MsoDateTimeFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoDateTimeFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoDateTimeFormat Enumeration (Office)
+# MsoDateTimeFormat enumeration (Office)
 
 Specifies the format of a date/time data type.
 

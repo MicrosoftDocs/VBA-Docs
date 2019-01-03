@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Priority Property (Office)
+title: CommandBarPopup.Priority property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Priority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Priority Property (Office)
+# CommandBarPopup.Priority property (Office)
 
 Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
 

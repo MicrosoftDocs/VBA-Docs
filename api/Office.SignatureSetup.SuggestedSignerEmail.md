@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.SuggestedSignerEmail Property (Office)
+title: SignatureSetup.SuggestedSignerEmail property (Office)
 keywords: vbaof11.chm285006
 f1_keywords:
 - vbaof11.chm285006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.SuggestedSignerEmail Property (Office)
+# SignatureSetup.SuggestedSignerEmail property (Office)
 
 Gets or sets the email address of the signer of the document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.StartValue Property (Office)
+title: BulletFormat2.StartValue property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.StartValue
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.StartValue Property (Office)
+# BulletFormat2.StartValue property (Office)
 
 Gets or sets the beginning value of a bulleted list. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: WebPageFont Object (Office)
+title: WebPageFont object (Office)
 keywords: vbaof11.chm224000
 f1_keywords:
 - vbaof11.chm224000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFont Object (Office)
+# WebPageFont object (Office)
 
 Represents the default font used when documents are saved as Web pages for a particular character set.
 

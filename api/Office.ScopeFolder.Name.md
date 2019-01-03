@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.Name Property (Office)
+title: ScopeFolder.Name property (Office)
 keywords: vbaof11.chm259001
 f1_keywords:
 - vbaof11.chm259001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder.Name Property (Office)
+# ScopeFolder.Name property (Office)
 
 Gets the name of a searchable folder. Read-only.
 

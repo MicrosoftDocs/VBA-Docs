@@ -1,5 +1,5 @@
 ---
-title: SmartDocument Object (Office)
+title: SmartDocument object (Office)
 keywords: vbaof11.chm262000
 f1_keywords:
 - vbaof11.chm262000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument Object (Office)
+# SmartDocument object (Office)
 
 The  **SmartDocument** property of the **Document** object in Microsoft Word and the **Workbook** object in Microsoft Excel returns a **SmartDocument** object.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoMixedType Enumeration (Office)
+title: MsoMixedType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoMixedType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoMixedType Enumeration (Office)
+# MsoMixedType enumeration (Office)
 
 This enumeration has been deprecated and should not be used.
 

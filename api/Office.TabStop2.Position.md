@@ -1,5 +1,5 @@
 ---
-title: TabStop2.Position Property (Office)
+title: TabStop2.Position property (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2.Position
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop2.Position Property (Office)
+# TabStop2.Position property (Office)
 
 Gets or sets the position of a tab stop relative to the left margin. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ContactCard.Show Method (Office)
+title: ContactCard.Show method (Office)
 ms.prod: office
 api_name:
 - Office.ContactCard.Show
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContactCard.Show Method (Office)
+# ContactCard.Show method (Office)
 
 Displays the contact card at the specified x-coordinate position outside the specified rectangle. 
 

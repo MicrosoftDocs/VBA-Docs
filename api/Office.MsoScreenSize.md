@@ -1,5 +1,5 @@
 ---
-title: MsoScreenSize Enumeration (Office)
+title: MsoScreenSize enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoScreenSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoScreenSize Enumeration (Office)
+# MsoScreenSize enumeration (Office)
 
 Specifies the ideal screen resolution to be used to view a document in a Web browser.
 

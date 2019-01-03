@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.Validate Method (Office)
+title: MetaProperties.Validate method (Office)
 keywords: vbaof11.chm274004
 f1_keywords:
 - vbaof11.chm274004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.Validate Method (Office)
+# MetaProperties.Validate method (Office)
 
 Validates all of the properties in a  **MetaProperties** collection object according to a schema.
 

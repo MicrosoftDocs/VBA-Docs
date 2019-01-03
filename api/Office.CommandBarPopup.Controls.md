@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Controls Property (Office)
+title: CommandBarPopup.Controls property (Office)
 keywords: vbaof11.chm7002
 f1_keywords:
 - vbaof11.chm7002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Controls Property (Office)
+# CommandBarPopup.Controls property (Office)
 
 Gets a  **CommandBarControls** object that represents all the controls on a pop-up control. Read-only.
 

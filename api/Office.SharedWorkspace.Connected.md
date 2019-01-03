@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Connected Property (Office)
+title: SharedWorkspace.Connected property (Office)
 keywords: vbaof11.chm276012
 f1_keywords:
 - vbaof11.chm276012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Connected Property (Office)
+# SharedWorkspace.Connected property (Office)
 
 Gets a  **Boolean** value that indicates whether or not the active document is currently saved in and connected to a shared workspace. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PickerResults.Creator Property (Office)
+title: PickerResults.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.PickerResults.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResults.Creator Property (Office)
+# PickerResults.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **PickerResults** object was created. Read-only
 

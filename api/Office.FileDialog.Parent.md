@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Parent Property (Office)
+title: FileDialog.Parent property (Office)
 keywords: vbaof11.chm256001
 f1_keywords:
 - vbaof11.chm256001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Parent Property (Office)
+# FileDialog.Parent property (Office)
 
 Gets the  **Parent** object for the **FileDialog** object. Read-only.
 

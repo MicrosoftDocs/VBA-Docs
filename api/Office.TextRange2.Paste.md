@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Paste Method (Office)
+title: TextRange2.Paste method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Paste
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Paste Method (Office)
+# TextRange2.Paste method (Office)
 
 Pastes the contents of the Clipboard into the  **TextRange2** object.
 

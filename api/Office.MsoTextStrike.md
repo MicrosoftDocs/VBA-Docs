@@ -1,5 +1,5 @@
 ---
-title: MsoTextStrike Enumeration (Office)
+title: MsoTextStrike enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextStrike
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextStrike Enumeration (Office)
+# MsoTextStrike enumeration (Office)
 
 Indicates the number of times a character is printed to darken the image.
 

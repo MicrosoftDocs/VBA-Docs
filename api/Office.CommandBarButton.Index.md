@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Index Property (Office)
+title: CommandBarButton.Index property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Index
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Index Property (Office)
+# CommandBarButton.Index property (Office)
 
 Gets a  **Long** representing the index number for an **CommandBarButton** object in the collection. Read-only.
 

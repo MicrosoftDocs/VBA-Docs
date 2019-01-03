@@ -1,5 +1,5 @@
 ---
-title: CommandBars.DisplayFonts Property (Office)
+title: CommandBars.DisplayFonts property (Office)
 keywords: vbaof11.chm2015
 f1_keywords:
 - vbaof11.chm2015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.DisplayFonts Property (Office)
+# CommandBars.DisplayFonts property (Office)
 
 Is  **True** if the font names in the **Font** box are displayed in their actual fonts. Read/write.
 

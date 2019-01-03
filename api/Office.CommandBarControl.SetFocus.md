@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.SetFocus Method (Office)
+title: CommandBarControl.SetFocus method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.SetFocus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.SetFocus Method (Office)
+# CommandBarControl.SetFocus method (Office)
 
 Moves the keyboard focus to the specified CommandBarControl. If the control is disabled or isn't visible, this method will fail.
 

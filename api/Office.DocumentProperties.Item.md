@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Item Property (Office)
+title: DocumentProperties.Item property (Office)
 keywords: vbaof11.chm250012
 f1_keywords:
 - vbaof11.chm250012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Item Property (Office)
+# DocumentProperties.Item property (Office)
 
 Gets a  **DocumentProperty** object from the **DocumentProperties** collection. Read-only.
 

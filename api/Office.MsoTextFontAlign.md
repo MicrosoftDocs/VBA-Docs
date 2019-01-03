@@ -1,5 +1,5 @@
 ---
-title: MsoTextFontAlign Enumeration (Office)
+title: MsoTextFontAlign enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextFontAlign
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextFontAlign Enumeration (Office)
+# MsoTextFontAlign enumeration (Office)
 
 Indicates the text alignment scheme used for an object.
 

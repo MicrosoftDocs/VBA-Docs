@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Execute Method (Office)
+title: CommandBarControl.Execute method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Execute
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Execute Method (Office)
+# CommandBarControl.Execute method (Office)
 
 Runs the procedure or built-in command assigned to the specified  **CommandBarControl** control.
 

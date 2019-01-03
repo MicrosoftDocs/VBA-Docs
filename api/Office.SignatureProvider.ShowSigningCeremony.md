@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.ShowSigningCeremony Method (Office)
+title: SignatureProvider.ShowSigningCeremony method (Office)
 keywords: vbaof11.chm287003
 f1_keywords:
 - vbaof11.chm287003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.ShowSigningCeremony Method (Office)
+# SignatureProvider.ShowSigningCeremony method (Office)
 
 Provides a signature provider add-in the opportunity to display the  **Signature** dialog box to users, allowing them to specify their identity and then be authenticated.
 

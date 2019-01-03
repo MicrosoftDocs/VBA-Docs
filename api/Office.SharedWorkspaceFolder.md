@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolder Object (Office)
+title: SharedWorkspaceFolder object (Office)
 keywords: vbaof11.chm268000
 f1_keywords:
 - vbaof11.chm268000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolder Object (Office)
+# SharedWorkspaceFolder object (Office)
 
 Represents a folder in a shared document workspace.
 

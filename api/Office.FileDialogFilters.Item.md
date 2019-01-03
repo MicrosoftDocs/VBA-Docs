@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Item Method (Office)
+title: FileDialogFilters.Item method (Office)
 keywords: vbaof11.chm255003
 f1_keywords:
 - vbaof11.chm255003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Item Method (Office)
+# FileDialogFilters.Item method (Office)
 
 Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.
 

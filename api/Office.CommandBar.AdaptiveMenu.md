@@ -1,5 +1,5 @@
 ---
-title: CommandBar.AdaptiveMenu Property (Office)
+title: CommandBar.AdaptiveMenu property (Office)
 keywords: vbaof11.chm3022
 f1_keywords:
 - vbaof11.chm3022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.AdaptiveMenu Property (Office)
+# CommandBar.AdaptiveMenu property (Office)
 
 Gets a  **Boolean** value that specifies whether the command bar should include an adaptive menu. Read/write.
 

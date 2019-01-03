@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SignatureComment Property (Office)
+title: SignatureInfo.SignatureComment property (Office)
 keywords: vbaof11.chm286005
 f1_keywords:
 - vbaof11.chm286005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SignatureComment Property (Office)
+# SignatureInfo.SignatureComment property (Office)
 
 Gets or sets a value containing comments included in a signature packet. Read/write.
 

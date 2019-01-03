@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Size Property (Office)
+title: ReflectionFormat.Size property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Size
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Size Property (Office)
+# ReflectionFormat.Size property (Office)
 
 Gets or sets the size, measured in percentages, of the shape's reflection image. Read/write
 

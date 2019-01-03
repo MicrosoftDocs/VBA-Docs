@@ -1,5 +1,5 @@
 ---
-title: GradientStops.Insert Method (Office)
+title: GradientStops.Insert method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Insert
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStops.Insert Method (Office)
+# GradientStops.Insert method (Office)
 
 Adds a stop to a gradient.
 

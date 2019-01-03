@@ -1,5 +1,5 @@
 ---
-title: Signature.CanSetup Property (Office)
+title: Signature.CanSetup property (Office)
 keywords: vbaof11.chm248015
 f1_keywords:
 - vbaof11.chm248015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.CanSetup Property (Office)
+# Signature.CanSetup property (Office)
 
 Gets a  **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.
 

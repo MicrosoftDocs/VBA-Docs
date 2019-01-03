@@ -1,5 +1,5 @@
 ---
-title: MsoSmartArtNodeType Enumeration (Office)
+title: MsoSmartArtNodeType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSmartArtNodeType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSmartArtNodeType Enumeration (Office)
+# MsoSmartArtNodeType enumeration (Office)
 
 Specifies constants that define the types of SmartArt nodes.
 

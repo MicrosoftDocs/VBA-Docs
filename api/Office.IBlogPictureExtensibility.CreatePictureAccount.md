@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility.CreatePictureAccount Method (Office)
+title: IBlogPictureExtensibility.CreatePictureAccount method (Office)
 keywords: vbaof11.chm329002
 f1_keywords:
 - vbaof11.chm329002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility.CreatePictureAccount Method (Office)
+# IBlogPictureExtensibility.CreatePictureAccount method (Office)
 
 Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.
 

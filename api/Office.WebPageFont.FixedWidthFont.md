@@ -1,5 +1,5 @@
 ---
-title: WebPageFont.FixedWidthFont Property (Office)
+title: WebPageFont.FixedWidthFont property (Office)
 keywords: vbaof11.chm224003
 f1_keywords:
 - vbaof11.chm224003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFont.FixedWidthFont Property (Office)
+# WebPageFont.FixedWidthFont property (Office)
 
 Sets or gets the fixed-width font setting in the host application. Read/write.
 

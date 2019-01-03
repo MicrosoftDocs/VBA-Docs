@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Save Method (Office)
+title: SharedWorkspaceTask.Save method (Office)
 keywords: vbaof11.chm2640011
 f1_keywords:
 - vbaof11.chm2640011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Save Method (Office)
+# SharedWorkspaceTask.Save method (Office)
 
 Uploads changes made programmatically to a shared server.
 

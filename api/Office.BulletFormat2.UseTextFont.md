@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.UseTextFont Property (Office)
+title: BulletFormat2.UseTextFont property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.UseTextFont
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.UseTextFont Property (Office)
+# BulletFormat2.UseTextFont property (Office)
 
 Determines whether the specified bullets are set to the font of the first text character in the paragraph. Read/write.
 

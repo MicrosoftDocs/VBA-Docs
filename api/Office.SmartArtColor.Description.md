@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Description Property (Office)
+title: SmartArtColor.Description property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Description
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Description Property (Office)
+# SmartArtColor.Description property (Office)
 
 Retrieves the description of the SmartArt color style. Read-only
 

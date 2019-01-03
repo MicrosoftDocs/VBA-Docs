@@ -1,5 +1,5 @@
 ---
-title: Crop.ShapeTop Property (Office)
+title: Crop.ShapeTop property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.ShapeTop
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.ShapeTop Property (Office)
+# Crop.ShapeTop property (Office)
 
 Gets or sets the location of the top of a shape that is used to crop an image. Read/write.
 

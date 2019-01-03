@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.RightIndent Property (Office)
+title: ParagraphFormat2.RightIndent property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.RightIndent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.RightIndent Property (Office)
+# ParagraphFormat2.RightIndent property (Office)
 
 Gets or sets the right indent (in points) for the specified paragraphs. Read/write.
 

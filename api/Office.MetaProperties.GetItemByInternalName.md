@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.GetItemByInternalName Method (Office)
+title: MetaProperties.GetItemByInternalName method (Office)
 keywords: vbaof11.chm274002
 f1_keywords:
 - vbaof11.chm274002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.GetItemByInternalName Method (Office)
+# MetaProperties.GetItemByInternalName method (Office)
 
 Gets a property's value specifying its name as opposed to its index value.
 

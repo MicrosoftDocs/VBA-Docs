@@ -1,5 +1,5 @@
 ---
-title: MsoTextUnderlineType Enumeration (Office)
+title: MsoTextUnderlineType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTextUnderlineType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTextUnderlineType Enumeration (Office)
+# MsoTextUnderlineType enumeration (Office)
 
 Indicates the type of underline for text.
 

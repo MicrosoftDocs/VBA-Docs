@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.Parent Property (Office)
+title: IMsoContactCard.Parent property (Office)
 keywords: vbaof11.chm341004
 f1_keywords:
 - vbaof11.chm341004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.Parent Property (Office)
+# IMsoContactCard.Parent property (Office)
 
 Returns the calling object. Read-only
 

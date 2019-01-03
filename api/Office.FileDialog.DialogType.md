@@ -1,5 +1,5 @@
 ---
-title: FileDialog.DialogType Property (Office)
+title: FileDialog.DialogType property (Office)
 keywords: vbaof11.chm256010
 f1_keywords:
 - vbaof11.chm256010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.DialogType Property (Office)
+# FileDialog.DialogType property (Office)
 
 Gets an  **MsoFileDialogType** constant representing the type of file dialog box that the **FileDialog** object is set to display. Read-only.
 

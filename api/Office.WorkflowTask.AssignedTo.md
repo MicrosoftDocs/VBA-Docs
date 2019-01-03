@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.AssignedTo Property (Office)
+title: WorkflowTask.AssignedTo property (Office)
 keywords: vbaof11.chm280006
 f1_keywords:
 - vbaof11.chm280006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.AssignedTo Property (Office)
+# WorkflowTask.AssignedTo property (Office)
 
 Gets the name of the person that the workflow task is assigned to. Read-only.
 

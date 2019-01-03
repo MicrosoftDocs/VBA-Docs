@@ -1,5 +1,5 @@
 ---
-title: MsoFileDialogType Enumeration (Office)
+title: MsoFileDialogType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFileDialogType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFileDialogType Enumeration (Office)
+# MsoFileDialogType enumeration (Office)
 
 Specifies the type of a  **FileDialog** object.
 

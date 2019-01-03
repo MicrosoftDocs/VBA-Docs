@@ -1,5 +1,5 @@
 ---
-title: MsoFileNewSection Enumeration (Office)
+title: MsoFileNewSection enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFileNewSection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFileNewSection Enumeration (Office)
+# MsoFileNewSection enumeration (Office)
 
 Specifies the task pane section to which to add a file or where the file reference exists. Used with the  **Add** method and the **Remove** method of the **NewFile** object.
 

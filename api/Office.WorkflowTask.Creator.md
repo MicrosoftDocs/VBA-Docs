@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Creator Property (Office)
+title: WorkflowTask.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTask.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Creator Property (Office)
+# WorkflowTask.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WorkflowTask** object was created. Read-only.
 

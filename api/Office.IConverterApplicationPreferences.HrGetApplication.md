@@ -1,5 +1,5 @@
 ---
-title: IConverterApplicationPreferences.HrGetApplication Method (Office)
+title: IConverterApplicationPreferences.HrGetApplication method (Office)
 keywords: vbaof11.chm331003
 f1_keywords:
 - vbaof11.chm331003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterApplicationPreferences.HrGetApplication Method (Office)
+# IConverterApplicationPreferences.HrGetApplication method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

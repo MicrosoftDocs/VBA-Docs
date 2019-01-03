@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Parameter Property (Office)
+title: CommandBarControl.Parameter property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Parameter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Parameter Property (Office)
+# CommandBarControl.Parameter property (Office)
 
 Gets or sets a string that an application can use to execute a command from a  **CommandBarControl**. Read/write.
 

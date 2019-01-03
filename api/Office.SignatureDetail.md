@@ -1,5 +1,5 @@
 ---
-title: SignatureDetail Enumeration (Office)
+title: SignatureDetail enumeration (Office)
 ms.prod: office
 api_name:
 - Office.SignatureDetail
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureDetail Enumeration (Office)
+# SignatureDetail enumeration (Office)
 
 Indicates additional information about a signature.
 

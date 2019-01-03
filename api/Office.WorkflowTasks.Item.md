@@ -1,5 +1,5 @@
 ---
-title: WorkflowTasks.Item Property (Office)
+title: WorkflowTasks.Item property (Office)
 keywords: vbaof11.chm281001
 f1_keywords:
 - vbaof11.chm281001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTasks.Item Property (Office)
+# WorkflowTasks.Item property (Office)
 
 Gets a  **WorkflowTask** object from the **WorkflowTasks** collection. Read-only.
 

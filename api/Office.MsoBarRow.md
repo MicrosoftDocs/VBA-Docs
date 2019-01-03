@@ -1,5 +1,5 @@
 ---
-title: MsoBarRow Enumeration (Office)
+title: MsoBarRow enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBarRow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBarRow Enumeration (Office)
+# MsoBarRow enumeration (Office)
 
 Specifies whether a command bar is in the first row or last row relative to other command bars in the same docking area.
 

@@ -1,5 +1,5 @@
 ---
-title: EffectParameter Object (Office)
+title: EffectParameter object (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameter Object (Office)
+# EffectParameter object (Office)
 
 Describes a single Picture Effect parameter.
 

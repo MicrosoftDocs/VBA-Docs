@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers Object (Office)
+title: SharedWorkspaceMembers object (Office)
 keywords: vbaof11.chm273000
 f1_keywords:
 - vbaof11.chm273000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers Object (Office)
+# SharedWorkspaceMembers object (Office)
 
 A collection of the  **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** objects in the current shared workspace site.
 

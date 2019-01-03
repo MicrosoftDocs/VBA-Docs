@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.DockPosition Property (Office)
+title: CustomTaskPane.DockPosition property (Office)
 keywords: vbaof11.chm301008
 f1_keywords:
 - vbaof11.chm301008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.DockPosition Property (Office)
+# CustomTaskPane.DockPosition property (Office)
 
 Gets or sets an enumerated value specifying the docked position of a  **CustomTaskPane** object. Read/write.
 

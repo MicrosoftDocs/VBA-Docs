@@ -1,5 +1,5 @@
 ---
-title: Permission.Parent Property (Office)
+title: Permission.Parent property (Office)
 keywords: vbaof11.chm261006
 f1_keywords:
 - vbaof11.chm261006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.Parent Property (Office)
+# Permission.Parent property (Office)
 
 Gets the  **Parent** object for the **Permission** object. Read-only.
 

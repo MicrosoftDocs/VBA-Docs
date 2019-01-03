@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Creator Property (Office)
+title: ReflectionFormat.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Creator Property (Office)
+# ReflectionFormat.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ReflectionFormat** object was created. Read-only.
 

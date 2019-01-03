@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Height Property (Office)
+title: CommandBar.Height property (Office)
 keywords: vbaof11.chm3007
 f1_keywords:
 - vbaof11.chm3007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Height Property (Office)
+# CommandBar.Height property (Office)
 
 Gets or sets the height of a  **CommandBar**. Read/write.
 

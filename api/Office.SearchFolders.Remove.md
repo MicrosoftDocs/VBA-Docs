@@ -1,5 +1,5 @@
 ---
-title: SearchFolders.Remove Method (Office)
+title: SearchFolders.Remove method (Office)
 keywords: vbaof11.chm258004
 f1_keywords:
 - vbaof11.chm258004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchFolders.Remove Method (Office)
+# SearchFolders.Remove method (Office)
 
 Removes the specified object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.Open Method (Office)
+title: OfficeDataSourceObject.Open method (Office)
 keywords: vbaof11.chm232007
 f1_keywords:
 - vbaof11.chm232007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.Open Method (Office)
+# OfficeDataSourceObject.Open method (Office)
 
 Opens a table in a  **OfficeDataSourceObject** object.
 

@@ -1,5 +1,5 @@
 ---
-title: IAssistance.SearchHelp Method (Office)
+title: IAssistance.SearchHelp method (Office)
 ms.prod: office
 api_name:
 - Office.IAssistance.SearchHelp
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IAssistance.SearchHelp Method (Office)
+# IAssistance.SearchHelp method (Office)
 
 Performs a search from the Office Help Viewer based on one or more keywords. Keywords can be a word or a phrase.
 

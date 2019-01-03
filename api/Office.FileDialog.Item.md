@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Item Property (Office)
+title: FileDialog.Item property (Office)
 keywords: vbaof11.chm256011
 f1_keywords:
 - vbaof11.chm256011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Item Property (Office)
+# FileDialog.Item property (Office)
 
 Gets the text associated with an object. Read-only.
 

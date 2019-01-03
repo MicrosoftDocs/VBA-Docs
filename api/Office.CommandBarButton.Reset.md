@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Reset Method (Office)
+title: CommandBarButton.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Reset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Reset Method (Office)
+# CommandBarButton.Reset method (Office)
 
 Resets a built-in  **CommandBarButton** control to its original function and face.
 

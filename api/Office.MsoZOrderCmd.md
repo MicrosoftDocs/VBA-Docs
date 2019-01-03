@@ -1,5 +1,5 @@
 ---
-title: MsoZOrderCmd Enumeration (Office)
+title: MsoZOrderCmd enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoZOrderCmd
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoZOrderCmd Enumeration (Office)
+# MsoZOrderCmd enumeration (Office)
 
 Specifies where in the z-order a shape should be moved relative to other shapes.
 

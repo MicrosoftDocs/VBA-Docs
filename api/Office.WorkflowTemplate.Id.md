@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Id Property (Office)
+title: WorkflowTemplate.Id property (Office)
 keywords: vbaof11.chm282001
 f1_keywords:
 - vbaof11.chm282001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Id Property (Office)
+# WorkflowTemplate.Id property (Office)
 
 Gets the ID of a template used to create a workflow instance. Read-only.
 

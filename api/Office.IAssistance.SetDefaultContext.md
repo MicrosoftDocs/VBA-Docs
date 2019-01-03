@@ -1,5 +1,5 @@
 ---
-title: IAssistance.SetDefaultContext Method (Office)
+title: IAssistance.SetDefaultContext method (Office)
 ms.prod: office
 api_name:
 - Office.IAssistance.SetDefaultContext
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IAssistance.SetDefaultContext Method (Office)
+# IAssistance.SetDefaultContext method (Office)
 
 Sets a help topic as the default topic that will be displayed when the user opens a help window.
 

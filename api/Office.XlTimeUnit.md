@@ -1,5 +1,5 @@
 ---
-title: xlTimeUnit Enumeration (Office)
+title: xlTimeUnit enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlTimeUnit
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# xlTimeUnit Enumeration (Office)
+# xlTimeUnit enumeration (Office)
 
 Indicates units of time measurement.
 

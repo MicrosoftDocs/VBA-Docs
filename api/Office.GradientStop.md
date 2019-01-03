@@ -1,5 +1,5 @@
 ---
-title: GradientStop Object (Office)
+title: GradientStop object (Office)
 ms.prod: office
 api_name:
 - Office.GradientStop
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStop Object (Office)
+# GradientStop object (Office)
 
 Represents one gradient stop.
 

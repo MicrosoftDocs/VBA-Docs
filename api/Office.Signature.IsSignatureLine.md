@@ -1,5 +1,5 @@
 ---
-title: Signature.IsSignatureLine Property (Office)
+title: Signature.IsSignatureLine property (Office)
 keywords: vbaof11.chm248017
 f1_keywords:
 - vbaof11.chm248017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.IsSignatureLine Property (Office)
+# Signature.IsSignatureLine property (Office)
 
 Gets a value indicating whether this is a signature line. Read-only.
 

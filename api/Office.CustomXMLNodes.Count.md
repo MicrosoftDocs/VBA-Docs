@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNodes.Count Property (Office)
+title: CustomXMLNodes.Count property (Office)
 keywords: vbaof11.chm293002
 f1_keywords:
 - vbaof11.chm293002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNodes.Count Property (Office)
+# CustomXMLNodes.Count property (Office)
 
 Gets a count of the number of  **CustomXMLNode** objects in a **CustomXMLNodes** collection. Read-only.
 

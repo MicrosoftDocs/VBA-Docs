@@ -1,5 +1,5 @@
 ---
-title: MsoSyncVersionType Enumeration (Office)
+title: MsoSyncVersionType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSyncVersionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSyncVersionType Enumeration (Office)
+# MsoSyncVersionType enumeration (Office)
 
 Specifies which version of a shared document to open alongside the currently open local version.
 

@@ -1,5 +1,5 @@
 ---
-title: Crop Object (Office)
+title: Crop object (Office)
 ms.prod: office
 api_name:
 - Office.Crop
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop Object (Office)
+# Crop object (Office)
 
 An object used to remove a portion of an image.
 

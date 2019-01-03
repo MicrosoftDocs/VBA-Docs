@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Status Property (Office)
+title: SharedWorkspaceTask.Status property (Office)
 keywords: vbaof11.chm264003
 f1_keywords:
 - vbaof11.chm264003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Status Property (Office)
+# SharedWorkspaceTask.Status property (Office)
 
 Gets or sets the status of the specified shared workspace task. Read/write .
 

@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.Position Property (Office)
+title: PictureEffect.Position property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.Position
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.Position Property (Office)
+# PictureEffect.Position property (Office)
 
 Specifies the position of a Picture Effect in a chain of composite effects. Read/write
 

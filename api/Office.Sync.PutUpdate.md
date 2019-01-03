@@ -1,5 +1,5 @@
 ---
-title: Sync.PutUpdate Method (Office)
+title: Sync.PutUpdate method (Office)
 keywords: vbaof11.chm277008
 f1_keywords:
 - vbaof11.chm277008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.PutUpdate Method (Office)
+# Sync.PutUpdate method (Office)
 
 Updates the server copy of the shared document with the local copy.
 

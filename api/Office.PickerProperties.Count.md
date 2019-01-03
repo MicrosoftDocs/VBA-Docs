@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Count Property (Office)
+title: PickerProperties.Count property (Office)
 keywords: vbaof11.chm337002
 f1_keywords:
 - vbaof11.chm337002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties.Count Property (Office)
+# PickerProperties.Count property (Office)
 
 Retrieves the count of the number of  **PickerProperty** objects contained within the **PickerProperties** collection. Read-only
 

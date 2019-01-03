@@ -1,5 +1,5 @@
 ---
-title: MsoPresetGradientType Enumeration (Office)
+title: MsoPresetGradientType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetGradientType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetGradientType Enumeration (Office)
+# MsoPresetGradientType enumeration (Office)
 
 Specifies which predefined gradient to use to fill a shape.
 

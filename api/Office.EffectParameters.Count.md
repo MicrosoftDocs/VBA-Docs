@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Count Property (Office)
+title: EffectParameters.Count property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameters.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameters.Count Property (Office)
+# EffectParameters.Count property (Office)
 
 Retrieves the count of the number of  **EffectParameter** objects contained within the **EffectParameters** collection. Read-only
 

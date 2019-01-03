@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WordArtformat Property (Office)
+title: TextFrame2.WordArtformat property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.WordArtformat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.WordArtformat Property (Office)
+# TextFrame2.WordArtformat property (Office)
 
 Returns or sets the WordArt type for the specified text frame. Read/write
 

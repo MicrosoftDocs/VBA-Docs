@@ -1,5 +1,5 @@
 ---
-title: Sync.GetUpdate Method (Office)
+title: Sync.GetUpdate method (Office)
 keywords: vbaof11.chm277007
 f1_keywords:
 - vbaof11.chm277007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.GetUpdate Method (Office)
+# Sync.GetUpdate method (Office)
 
 Compares the local version of the shared document to the version on the server.
 

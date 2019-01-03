@@ -1,5 +1,5 @@
 ---
-title: WorkflowTasks Object (Office)
+title: WorkflowTasks object (Office)
 keywords: vbaof11.chm281000
 f1_keywords:
 - vbaof11.chm281000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTasks Object (Office)
+# WorkflowTasks object (Office)
 
 Represents a collection of  **WorkflowTask** objects.
 

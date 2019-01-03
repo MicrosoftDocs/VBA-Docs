@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes.Add Method (Office)
+title: SmartArtNodes.Add method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes.Add
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes.Add Method (Office)
+# SmartArtNodes.Add method (Office)
 
 Adds a new  **SmartArtNode** object to the diagram with specified text.
 

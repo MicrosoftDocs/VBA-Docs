@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks.Count Property (Office)
+title: SharedWorkspaceTasks.Count property (Office)
 keywords: vbaof11.chm265002
 f1_keywords:
 - vbaof11.chm265002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks.Count Property (Office)
+# SharedWorkspaceTasks.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SharedWorkspaceTasks** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SignatureProvider Property (Office)
+title: SignatureInfo.SignatureProvider property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureInfo.SignatureProvider
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SignatureProvider Property (Office)
+# SignatureInfo.SignatureProvider property (Office)
 
 Gets a value identifying an installed signature provider add-in. Read-only.
 

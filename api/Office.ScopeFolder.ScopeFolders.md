@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.ScopeFolders Property (Office)
+title: ScopeFolder.ScopeFolders property (Office)
 keywords: vbaof11.chm259003
 f1_keywords:
 - vbaof11.chm259003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder.ScopeFolders Property (Office)
+# ScopeFolder.ScopeFolders property (Office)
 
 Gets a  **ScopeFolders** collection. The items in this collection correspond to the subfolders of the parent **ScopeFolder** object. Read-only.
 

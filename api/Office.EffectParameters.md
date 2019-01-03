@@ -1,5 +1,5 @@
 ---
-title: EffectParameters Object (Office)
+title: EffectParameters object (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameters
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameters Object (Office)
+# EffectParameters object (Office)
 
 Represents a collection of  **EffectParameter** objects.
 

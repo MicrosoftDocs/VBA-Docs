@@ -1,5 +1,5 @@
 ---
-title: MsoShadowStyle Enumeration (Office)
+title: MsoShadowStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoShadowStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoShadowStyle Enumeration (Office)
+# MsoShadowStyle enumeration (Office)
 
 Specifies the type of shadowing effect.
 

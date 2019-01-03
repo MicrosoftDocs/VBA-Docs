@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Id Property (Office)
+title: CommandBarPopup.Id property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Id Property (Office)
+# CommandBarPopup.Id property (Office)
 
 Gets the ID for a built-in  **CommandBarPopup** control. Read-only.
 

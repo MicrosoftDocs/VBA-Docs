@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions Object (Office)
+title: DocumentLibraryVersions object (Office)
 keywords: vbaof11.chm277026
 f1_keywords:
 - vbaof11.chm277026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions Object (Office)
+# DocumentLibraryVersions object (Office)
 
 The  **DocumentLibraryVersions** property of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in Microsoft PowerPoint returns a **DocumentLibraryVersions** object. The **DocumentLibraryVersions** object represents a collection of **DocumentLibraryVersion** objects.
 

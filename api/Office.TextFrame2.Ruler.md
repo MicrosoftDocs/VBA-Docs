@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Ruler Property (Office)
+title: TextFrame2.Ruler property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Ruler
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Ruler Property (Office)
+# TextFrame2.Ruler property (Office)
 
 Returns a  **Ruler2** object that represents the ruler for the specified text. Read-only
 

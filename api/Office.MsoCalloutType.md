@@ -1,5 +1,5 @@
 ---
-title: MsoCalloutType Enumeration (Office)
+title: MsoCalloutType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCalloutType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCalloutType Enumeration (Office)
+# MsoCalloutType enumeration (Office)
 
 Specifies the type of callout line.
 

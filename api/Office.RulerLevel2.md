@@ -1,5 +1,5 @@
 ---
-title: RulerLevel2 Object (Office)
+title: RulerLevel2 object (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevel2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevel2 Object (Office)
+# RulerLevel2 object (Office)
 
 Contains first-line indent and hanging indent information for an outline level.
 

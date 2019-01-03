@@ -1,5 +1,5 @@
 ---
-title: PickerField.Name Property (Office)
+title: PickerField.Name property (Office)
 ms.prod: office
 api_name:
 - Office.PickerField.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerField.Name Property (Office)
+# PickerField.Name property (Office)
 
 Retrieves the name of the Picker field. Read-only
 

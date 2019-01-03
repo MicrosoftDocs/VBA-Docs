@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts Object (Office)
+title: CustomXMLParts object (Office)
 keywords: vbaof11.chm300000
 f1_keywords:
 - vbaof11.chm300000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts Object (Office)
+# CustomXMLParts object (Office)
 
 Represents a collection of  **CustomXMLPart** objects.
 

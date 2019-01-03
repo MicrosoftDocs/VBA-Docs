@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.Open Method (Office)
+title: IBlogExtensibility.Open method (Office)
 keywords: vbaof11.chm328005
 f1_keywords:
 - vbaof11.chm328005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.Open Method (Office)
+# IBlogExtensibility.Open method (Office)
 
 Opens the blog specified by the blog ID. It is called by the  **Open Existing Post** dialog based on the item selected by the user.
 

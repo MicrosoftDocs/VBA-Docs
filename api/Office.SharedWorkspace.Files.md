@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Files Property (Office)
+title: SharedWorkspace.Files property (Office)
 keywords: vbaof11.chm276004
 f1_keywords:
 - vbaof11.chm276004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Files Property (Office)
+# SharedWorkspace.Files property (Office)
 
 Provides access to the  **SharedWorkspaceFile** objects in the **SharedWorkspace**. Read-only.
 

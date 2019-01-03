@@ -1,5 +1,5 @@
 ---
-title: PickerResult.Fields Property (Office)
+title: PickerResult.Fields property (Office)
 keywords: vbaof11.chm338008
 f1_keywords:
 - vbaof11.chm338008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.Fields Property (Office)
+# PickerResult.Fields property (Office)
 
 Represent field definitions of SubItems in a PickerFields collection. Read-only
 

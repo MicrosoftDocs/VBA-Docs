@@ -1,5 +1,5 @@
 ---
-title: UserPermission.Creator Property (Office)
+title: UserPermission.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.UserPermission.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.Creator Property (Office)
+# UserPermission.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **UserPermission** object was created. Read-only.
 

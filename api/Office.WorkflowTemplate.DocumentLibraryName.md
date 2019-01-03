@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.DocumentLibraryName Property (Office)
+title: WorkflowTemplate.DocumentLibraryName property (Office)
 keywords: vbaof11.chm282004
 f1_keywords:
 - vbaof11.chm282004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.DocumentLibraryName Property (Office)
+# WorkflowTemplate.DocumentLibraryName property (Office)
 
 Gets the name of the document library associated with the workflow template. Read-only.
 

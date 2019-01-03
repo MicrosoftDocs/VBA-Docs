@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Color Property (Office)
+title: SmartArt.Color property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Color
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Color Property (Office)
+# SmartArt.Color property (Office)
 
 Retrieves or sets the Smart Art color style applied to the Smart Art graphic. Read/write
 

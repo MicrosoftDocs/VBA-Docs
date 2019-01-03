@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.IndentLevel Property (Office)
+title: ParagraphFormat2.IndentLevel property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.IndentLevel
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.IndentLevel Property (Office)
+# ParagraphFormat2.IndentLevel property (Office)
 
 Gets or sets a value representing the indent level assigned to text in the selected paragraph. Read/write.
 

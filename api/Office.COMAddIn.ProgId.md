@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.ProgId Property (Office)
+title: COMAddIn.ProgId property (Office)
 keywords: vbaof11.chm219003
 f1_keywords:
 - vbaof11.chm219003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.ProgId Property (Office)
+# COMAddIn.ProgId property (Office)
 
 Gets the programmatic identifier (ProgID) for the specified  **COMAddIn** object. Read-only.
 

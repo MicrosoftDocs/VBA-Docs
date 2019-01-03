@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrExport Method (Office)
+title: IConverter.HrExport method (Office)
 keywords: vbaof11.chm333004
 f1_keywords:
 - vbaof11.chm333004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrExport Method (Office)
+# IConverter.HrExport method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

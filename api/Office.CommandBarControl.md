@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl Object (Office)
+title: CommandBarControl object (Office)
 keywords: vbaof11.chm5000
 f1_keywords:
 - vbaof11.chm5000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl Object (Office)
+# CommandBarControl object (Office)
 
 Represents a command bar control. The  **CommandBarControl** object is a member of the **CommandBarControls** collection. The properties and methods of the **CommandBarControl** object are all shared by the **CommandBarButton**, **CommandBarComboBox**, and **CommandBarPopup** objects.
 

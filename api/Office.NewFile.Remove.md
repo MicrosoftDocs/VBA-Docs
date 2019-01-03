@@ -1,5 +1,5 @@
 ---
-title: NewFile.Remove Method (Office)
+title: NewFile.Remove method (Office)
 keywords: vbaof11.chm235002
 f1_keywords:
 - vbaof11.chm235002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NewFile.Remove Method (Office)
+# NewFile.Remove method (Office)
 
 Removes an item from the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.
 

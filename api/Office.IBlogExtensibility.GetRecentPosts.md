@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.GetRecentPosts Method (Office)
+title: IBlogExtensibility.GetRecentPosts method (Office)
 keywords: vbaof11.chm328004
 f1_keywords:
 - vbaof11.chm328004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.GetRecentPosts Method (Office)
+# IBlogExtensibility.GetRecentPosts method (Office)
 
 Returns the list of the user's last fifteen blog posts that Microsoft Word then displays in the  **Open Existing Post** dialog. This method does not actually return the blog post contents.
 

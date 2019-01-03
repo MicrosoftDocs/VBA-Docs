@@ -1,5 +1,5 @@
 ---
-title: MsoBarType Enumeration (Office)
+title: MsoBarType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBarType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBarType Enumeration (Office)
+# MsoBarType enumeration (Office)
 
 Specifies the type of the command bar.
 

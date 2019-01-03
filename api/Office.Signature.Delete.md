@@ -1,5 +1,5 @@
 ---
-title: Signature.Delete Method (Office)
+title: Signature.Delete method (Office)
 keywords: vbaof11.chm248006
 f1_keywords:
 - vbaof11.chm248006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Delete Method (Office)
+# Signature.Delete method (Office)
 
 Deletes the  **Signature** object from the collection.
 

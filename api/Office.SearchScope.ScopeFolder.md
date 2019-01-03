@@ -1,5 +1,5 @@
 ---
-title: SearchScope.ScopeFolder Property (Office)
+title: SearchScope.ScopeFolder property (Office)
 keywords: vbaof11.chm251002
 f1_keywords:
 - vbaof11.chm251002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScope.ScopeFolder Property (Office)
+# SearchScope.ScopeFolder property (Office)
 
 Gets a  **ScopeFolder** object. Read-only.
 

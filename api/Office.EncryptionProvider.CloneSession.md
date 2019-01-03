@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.CloneSession Method (Office)
+title: EncryptionProvider.CloneSession method (Office)
 keywords: vbaof11.chm327004
 f1_keywords:
 - vbaof11.chm327004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.CloneSession Method (Office)
+# EncryptionProvider.CloneSession method (Office)
 
 Creates a second, working copy of the  **EncryptionProvider** object's encryption session for a file that is about to be saved.
 

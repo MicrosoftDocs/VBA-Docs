@@ -1,5 +1,5 @@
 ---
-title: Crop.PictureOffsetX Property (Office)
+title: Crop.PictureOffsetX property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.PictureOffsetX
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.PictureOffsetX Property (Office)
+# Crop.PictureOffsetX property (Office)
 
 Gets or sets the x-axis offset of the image that is to be cropped. Read/write.
 

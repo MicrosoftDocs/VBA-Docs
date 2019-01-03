@@ -1,5 +1,5 @@
 ---
-title: Ruler2.Parent Property (Office)
+title: Ruler2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.Ruler2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ruler2.Parent Property (Office)
+# Ruler2.Parent property (Office)
 
 Gets the  **Parent** object for the **Ruler2** object. Read-only.
 

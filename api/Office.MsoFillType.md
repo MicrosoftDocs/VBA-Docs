@@ -1,5 +1,5 @@
 ---
-title: MsoFillType Enumeration (Office)
+title: MsoFillType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFillType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFillType Enumeration (Office)
+# MsoFillType enumeration (Office)
 
 Specifies a shape's fill type.
 

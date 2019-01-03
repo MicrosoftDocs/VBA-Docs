@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.HelpContextId Property (Office)
+title: CommandBarPopup.HelpContextId property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.HelpContextId
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.HelpContextId Property (Office)
+# CommandBarPopup.HelpContextId property (Office)
 
 Gets or sets the Help context Id number for the Help topic attached to the  **CommandBarPopup** control. Read/write.
 

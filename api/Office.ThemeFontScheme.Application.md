@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.Application Property (Office)
+title: ThemeFontScheme.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.Application Property (Office)
+# ThemeFontScheme.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ThemeFontScheme** object. Read-only.
 

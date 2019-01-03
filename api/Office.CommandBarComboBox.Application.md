@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Application Property (Office)
+title: CommandBarComboBox.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Application Property (Office)
+# CommandBarComboBox.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CommandBarComboBox** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.InsertAfter Method (Office)
+title: TextRange2.InsertAfter method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.InsertAfter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.InsertAfter Method (Office)
+# TextRange2.InsertAfter method (Office)
 
 Inserts text to the right of the existing text in the  **TextRange2** object.
 

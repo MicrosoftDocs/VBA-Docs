@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.HyperlinkType Property (Office)
+title: CommandBarButton.HyperlinkType property (Office)
 keywords: vbaof11.chm6008
 f1_keywords:
 - vbaof11.chm6008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.HyperlinkType Property (Office)
+# CommandBarButton.HyperlinkType property (Office)
 
 Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents the type of hyperlink associated with the specified command bar button. Read/write.
 

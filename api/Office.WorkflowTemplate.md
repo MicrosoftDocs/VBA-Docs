@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate Object (Office)
+title: WorkflowTemplate object (Office)
 keywords: vbaof11.chm282000
 f1_keywords:
 - vbaof11.chm282000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate Object (Office)
+# WorkflowTemplate object (Office)
 
 Represents one of the workflows available for the current document.
 

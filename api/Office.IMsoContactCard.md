@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard Object (Office)
+title: IMsoContactCard object (Office)
 keywords: vbaof11.chm341000
 f1_keywords:
 - vbaof11.chm341000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard Object (Office)
+# IMsoContactCard object (Office)
 
 Represents a Contact card.
 

@@ -1,5 +1,5 @@
 ---
-title: ODSOColumns.Item Method (Office)
+title: ODSOColumns.Item method (Office)
 keywords: vbaof11.chm234003
 f1_keywords:
 - vbaof11.chm234003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumns.Item Method (Office)
+# ODSOColumns.Item method (Office)
 
 Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: GradientStops.Count Property (Office)
+title: GradientStops.Count property (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStops.Count Property (Office)
+# GradientStops.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **GradientStops** collection. Read-only.
 

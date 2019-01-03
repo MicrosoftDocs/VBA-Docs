@@ -1,5 +1,5 @@
 ---
-title: MsoGradientColorType Enumeration (Office)
+title: MsoGradientColorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoGradientColorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoGradientColorType Enumeration (Office)
+# MsoGradientColorType enumeration (Office)
 
 Specifies the type of gradient used in a shape's fill.
 

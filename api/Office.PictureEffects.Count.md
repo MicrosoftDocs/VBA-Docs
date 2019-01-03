@@ -1,5 +1,5 @@
 ---
-title: PictureEffects.Count Property (Office)
+title: PictureEffects.Count property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects.Count Property (Office)
+# PictureEffects.Count property (Office)
 
 Retrieves the count of the number of  **PictureEffect** objects contained within the **PictureEffects** collection. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.PickSolution Method (Office)
+title: SmartDocument.PickSolution method (Office)
 keywords: vbaof11.chm262003
 f1_keywords:
 - vbaof11.chm262003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument.PickSolution Method (Office)
+# SmartDocument.PickSolution method (Office)
 
 Displays a dialog box that allows the user to choose an available XML expansion pack to attach to the active document in Microsoft Word or a workbook in Microsoft Excel.
 

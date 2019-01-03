@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Add Method (Office)
+title: DocumentProperties.Add method (Office)
 keywords: vbaof11.chm250014
 f1_keywords:
 - vbaof11.chm250014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Add Method (Office)
+# DocumentProperties.Add method (Office)
 
 Creates a new custom document property. You can add a new document property only to the custom **DocumentProperties** collection.
 

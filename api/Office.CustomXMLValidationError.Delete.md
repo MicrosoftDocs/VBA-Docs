@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Delete Method (Office)
+title: CustomXMLValidationError.Delete method (Office)
 keywords: vbaof11.chm307006
 f1_keywords:
 - vbaof11.chm307006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Delete Method (Office)
+# CustomXMLValidationError.Delete method (Office)
 
 Deletes the  **CustomXMLValidationError** object representing a data validation error.
 

@@ -1,5 +1,5 @@
 ---
-title: FileDialog.ButtonName Property (Office)
+title: FileDialog.ButtonName property (Office)
 keywords: vbaof11.chm256005
 f1_keywords:
 - vbaof11.chm256005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.ButtonName Property (Office)
+# FileDialog.ButtonName property (Office)
 
 Sets or gets a  **String** representing the text that is displayed on the action button of a file dialog box. Read/write.
 

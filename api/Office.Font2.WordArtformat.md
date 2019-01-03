@@ -1,5 +1,5 @@
 ---
-title: Font2.WordArtformat Property (Office)
+title: Font2.WordArtformat property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.WordArtformat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.WordArtformat Property (Office)
+# Font2.WordArtformat property (Office)
 
 Gets or sets a value specifying the text effect for the selected text. Read/write.
 

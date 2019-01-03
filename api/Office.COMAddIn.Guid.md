@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.Guid Property (Office)
+title: COMAddIn.Guid property (Office)
 keywords: vbaof11.chm219004
 f1_keywords:
 - vbaof11.chm219004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.Guid Property (Office)
+# COMAddIn.Guid property (Office)
 
 Gets the class identifier (CLSID) for the specified  **COMAddIn** object. Read-only.
 

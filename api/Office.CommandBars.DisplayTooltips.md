@@ -1,5 +1,5 @@
 ---
-title: CommandBars.DisplayTooltips Property (Office)
+title: CommandBars.DisplayTooltips property (Office)
 keywords: vbaof11.chm2005
 f1_keywords:
 - vbaof11.chm2005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.DisplayTooltips Property (Office)
+# CommandBars.DisplayTooltips property (Office)
 
 Is  **True** if ScreenTips are displayed whenever the user positions the pointer over command bar controls. Read/write.
 

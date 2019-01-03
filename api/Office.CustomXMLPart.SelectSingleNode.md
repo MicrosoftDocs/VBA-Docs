@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.SelectSingleNode Method (Office)
+title: CustomXMLPart.SelectSingleNode method (Office)
 keywords: vbaof11.chm295013
 f1_keywords:
 - vbaof11.chm295013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.SelectSingleNode Method (Office)
+# CustomXMLPart.SelectSingleNode method (Office)
 
 Selects a single node within a custom XML part matching an XPath expression.
 

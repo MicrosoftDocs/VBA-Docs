@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Smaller Method (Office)
+title: SmartArtNode.Smaller method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Smaller
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Smaller Method (Office)
+# SmartArtNode.Smaller method (Office)
 
 Decreases the size of the SmartArt. Mimics the behavior of the Smaller button on the Microsoft Office Fluent Ribbon UI Format tab for SmartArt.
 

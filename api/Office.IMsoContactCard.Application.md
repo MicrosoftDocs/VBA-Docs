@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.Application Property (Office)
+title: IMsoContactCard.Application property (Office)
 ms.prod: office
 api_name:
 - Office.IMsoContactCard.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.Application Property (Office)
+# IMsoContactCard.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **IMsoContactCard** object. Read-only
 

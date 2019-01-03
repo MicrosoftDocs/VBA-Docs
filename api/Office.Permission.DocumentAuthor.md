@@ -1,5 +1,5 @@
 ---
-title: Permission.DocumentAuthor Property (Office)
+title: Permission.DocumentAuthor property (Office)
 keywords: vbaof11.chm261013
 f1_keywords:
 - vbaof11.chm261013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.DocumentAuthor Property (Office)
+# Permission.DocumentAuthor property (Office)
 
 Gets or sets the name in email form of the author of the active document. Read/write.
 

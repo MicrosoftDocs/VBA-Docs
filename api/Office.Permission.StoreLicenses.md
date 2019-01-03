@@ -1,5 +1,5 @@
 ---
-title: Permission.StoreLicenses Property (Office)
+title: Permission.StoreLicenses property (Office)
 keywords: vbaof11.chm261012
 f1_keywords:
 - vbaof11.chm261012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.StoreLicenses Property (Office)
+# Permission.StoreLicenses property (Office)
 
 Gets or sets a  **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
 

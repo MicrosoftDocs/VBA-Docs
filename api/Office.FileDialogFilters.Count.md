@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Count Property (Office)
+title: FileDialogFilters.Count property (Office)
 keywords: vbaof11.chm255002
 f1_keywords:
 - vbaof11.chm255002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Count Property (Office)
+# FileDialogFilters.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.
 

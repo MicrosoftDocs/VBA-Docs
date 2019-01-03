@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Disconnect Method (Office)
+title: SharedWorkspace.Disconnect method (Office)
 keywords: vbaof11.chm276016
 f1_keywords:
 - vbaof11.chm276016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Disconnect Method (Office)
+# SharedWorkspace.Disconnect method (Office)
 
 Disconnects the local copy of the active document from the shared workspace site.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoGradientStyle Enumeration (Office)
+title: MsoGradientStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoGradientStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoGradientStyle Enumeration (Office)
+# MsoGradientStyle enumeration (Office)
 
 Specifies the style for a gradient fill.
 

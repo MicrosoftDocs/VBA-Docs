@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Description Property (Office)
+title: SmartArtQuickStyle.Description property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Description
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Description Property (Office)
+# SmartArtQuickStyle.Description property (Office)
 
 Retrieves the description of the SmartArt quick style. Read-only
 

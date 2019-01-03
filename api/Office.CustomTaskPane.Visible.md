@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Visible Property (Office)
+title: CustomTaskPane.Visible property (Office)
 keywords: vbaof11.chm301004
 f1_keywords:
 - vbaof11.chm301004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Visible Property (Office)
+# CustomTaskPane.Visible property (Office)
 
  **True** if the specified **CustomTaskPane** object is visible. Read/write.
 

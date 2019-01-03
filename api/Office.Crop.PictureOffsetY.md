@@ -1,5 +1,5 @@
 ---
-title: Crop.PictureOffsetY Property (Office)
+title: Crop.PictureOffsetY property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.PictureOffsetY
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.PictureOffsetY Property (Office)
+# Crop.PictureOffsetY property (Office)
 
 Gets or sets the y-axis offset of the image that is to be cropped. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts.Count Property (Office)
+title: ThemeFonts.Count property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts.Count Property (Office)
+# ThemeFonts.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **ThemeFonts** collection. Read-only.
 

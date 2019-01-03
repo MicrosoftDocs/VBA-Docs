@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.NotifySignatureAdded Method (Office)
+title: SignatureProvider.NotifySignatureAdded method (Office)
 keywords: vbaof11.chm287005
 f1_keywords:
 - vbaof11.chm287005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.NotifySignatureAdded Method (Office)
+# SignatureProvider.NotifySignatureAdded method (Office)
 
 Used to display a dialog box informing the user that the signing process has completed and providing additional functionality for the add-in.
 

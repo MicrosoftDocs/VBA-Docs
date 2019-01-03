@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Add Method (Office)
+title: FileTypes.Add method (Office)
 keywords: vbaof11.chm257003
 f1_keywords:
 - vbaof11.chm257003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes.Add Method (Office)
+# FileTypes.Add method (Office)
 
 Adds a new file type to a file search.
 

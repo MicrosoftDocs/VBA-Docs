@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Enabled Property (Office)
+title: CommandBarPopup.Enabled property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Enabled
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Enabled Property (Office)
+# CommandBarPopup.Enabled property (Office)
 
 Is  **True** if the **CommandBarPopup** is enabled. Read/write.
 

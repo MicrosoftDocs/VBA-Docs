@@ -1,5 +1,5 @@
 ---
-title: SignatureProviderDetail Enumeration (Office)
+title: SignatureProviderDetail enumeration (Office)
 ms.prod: office
 api_name:
 - Office.SignatureProviderDetail
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProviderDetail Enumeration (Office)
+# SignatureProviderDetail enumeration (Office)
 
 Specifies properties of a signature provider.
 

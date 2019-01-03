@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton Object (Office)
+title: CommandBarButton object (Office)
 keywords: vbaof11.chm244000
 f1_keywords:
 - vbaof11.chm244000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton Object (Office)
+# CommandBarButton object (Office)
 
 Represents a button control on a command bar.
 

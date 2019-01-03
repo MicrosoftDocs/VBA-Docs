@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError Object (Office)
+title: CustomXMLValidationError object (Office)
 keywords: vbaof11.chm307000
 f1_keywords:
 - vbaof11.chm307000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError Object (Office)
+# CustomXMLValidationError object (Office)
 
 Represents a single validation error in a  **CustomXMLValidationErrors** collection.
 

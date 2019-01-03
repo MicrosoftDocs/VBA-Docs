@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Parent Property (Office)
+title: DocumentLibraryVersion.Parent property (Office)
 keywords: vbaof11.chm277019
 f1_keywords:
 - vbaof11.chm277019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Parent Property (Office)
+# DocumentLibraryVersion.Parent property (Office)
 
 Gets the  **Parent** object for the **DocumentLibraryVersion** object. Read-only.
 

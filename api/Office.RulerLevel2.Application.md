@@ -1,5 +1,5 @@
 ---
-title: RulerLevel2.Application Property (Office)
+title: RulerLevel2.Application property (Office)
 ms.prod: office
 api_name:
 - Office.RulerLevel2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RulerLevel2.Application Property (Office)
+# RulerLevel2.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **RulerLevel2** object. Read-only.
 

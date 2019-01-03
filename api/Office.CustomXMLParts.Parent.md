@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Parent Property (Office)
+title: CustomXMLParts.Parent property (Office)
 keywords: vbaof11.chm298001
 f1_keywords:
 - vbaof11.chm298001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Parent Property (Office)
+# CustomXMLParts.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLParts** object. Read-only.
 

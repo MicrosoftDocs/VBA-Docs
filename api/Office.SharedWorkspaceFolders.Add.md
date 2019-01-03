@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders.Add Method (Office)
+title: SharedWorkspaceFolders.Add method (Office)
 keywords: vbaof11.chm269003
 f1_keywords:
 - vbaof11.chm269003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders.Add Method (Office)
+# SharedWorkspaceFolders.Add method (Office)
 
 Adds a folder to the document library in a shared workspace. Returns a  **[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)** object.
 

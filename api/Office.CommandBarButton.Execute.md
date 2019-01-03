@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Execute Method (Office)
+title: CommandBarButton.Execute method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Execute
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Execute Method (Office)
+# CommandBarButton.Execute method (Office)
 
 Runs the procedure or built-in command assigned to the specified  **CommandBarButton** control.
 

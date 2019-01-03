@@ -1,5 +1,5 @@
 ---
-title: Ruler2.Creator Property (Office)
+title: Ruler2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.Ruler2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ruler2.Creator Property (Office)
+# Ruler2.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **Ruler2** object was created. Read-only.
 

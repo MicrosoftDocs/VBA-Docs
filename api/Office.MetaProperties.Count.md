@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.Count Property (Office)
+title: MetaProperties.Count property (Office)
 keywords: vbaof11.chm274003
 f1_keywords:
 - vbaof11.chm274003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.Count Property (Office)
+# MetaProperties.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **MetaProperties** collection. Read-only.
 

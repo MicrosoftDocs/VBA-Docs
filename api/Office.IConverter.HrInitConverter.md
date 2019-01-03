@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrInitConverter Method (Office)
+title: IConverter.HrInitConverter method (Office)
 keywords: vbaof11.chm333001
 f1_keywords:
 - vbaof11.chm333001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrInitConverter Method (Office)
+# IConverter.HrInitConverter method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

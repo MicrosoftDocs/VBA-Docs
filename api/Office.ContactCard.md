@@ -1,5 +1,5 @@
 ---
-title: ContactCard Object (Office)
+title: ContactCard object (Office)
 keywords: vbaof11.chm342000
 f1_keywords:
 - vbaof11.chm342000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContactCard Object (Office)
+# ContactCard object (Office)
 
 Represents a Microsoft Office contact card.
 

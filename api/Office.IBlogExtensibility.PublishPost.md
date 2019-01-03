@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.PublishPost Method (Office)
+title: IBlogExtensibility.PublishPost method (Office)
 keywords: vbaof11.chm328006
 f1_keywords:
 - vbaof11.chm328006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.PublishPost Method (Office)
+# IBlogExtensibility.PublishPost method (Office)
 
 Hands off the current post so it can be published by the provider.
 

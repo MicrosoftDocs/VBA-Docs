@@ -1,5 +1,5 @@
 ---
-title: TabStop2.Clear Method (Office)
+title: TabStop2.Clear method (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2.Clear
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop2.Clear Method (Office)
+# TabStop2.Clear method (Office)
 
 Removes the specified custom tab stop
 

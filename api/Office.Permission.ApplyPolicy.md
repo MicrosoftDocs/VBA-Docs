@@ -1,5 +1,5 @@
 ---
-title: Permission.ApplyPolicy Method (Office)
+title: Permission.ApplyPolicy method (Office)
 keywords: vbaof11.chm261005
 f1_keywords:
 - vbaof11.chm261005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.ApplyPolicy Method (Office)
+# Permission.ApplyPolicy method (Office)
 
 Applies the specified permission policy to the active document.
 

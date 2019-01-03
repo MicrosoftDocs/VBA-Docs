@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.CommandBars Property (Office)
+title: MsoEnvelope.CommandBars property (Office)
 keywords: vbaof11.chm11005
 f1_keywords:
 - vbaof11.chm11005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope.CommandBars Property (Office)
+# MsoEnvelope.CommandBars property (Office)
 
 Gets a  **CommandBars** collection. Read-only.
 

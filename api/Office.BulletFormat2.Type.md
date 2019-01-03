@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Type Property (Office)
+title: BulletFormat2.Type property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Type Property (Office)
+# BulletFormat2.Type property (Office)
 
 Gets or sets a constant that represents the type of bullet. Read/write.
 

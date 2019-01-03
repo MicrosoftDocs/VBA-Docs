@@ -1,5 +1,5 @@
 ---
-title: GradientStops.Delete Method (Office)
+title: GradientStops.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.GradientStops.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStops.Delete Method (Office)
+# GradientStops.Delete method (Office)
 
 Removes a gradient stop.
 

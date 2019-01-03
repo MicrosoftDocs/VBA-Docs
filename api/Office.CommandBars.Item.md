@@ -1,5 +1,5 @@
 ---
-title: CommandBars.Item Property (Office)
+title: CommandBars.Item property (Office)
 keywords: vbaof11.chm2008
 f1_keywords:
 - vbaof11.chm2008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.Item Property (Office)
+# CommandBars.Item property (Office)
 
 Gets a  **CommandBar** object from the **CommandBars** collection. Read-only.
 

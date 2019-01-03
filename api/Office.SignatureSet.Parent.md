@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Parent Property (Office)
+title: SignatureSet.Parent property (Office)
 keywords: vbaof11.chm247005
 f1_keywords:
 - vbaof11.chm247005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Parent Property (Office)
+# SignatureSet.Parent property (Office)
 
 Gets the  **Parent** object for the **SignatureSet** object. Read-only.
 

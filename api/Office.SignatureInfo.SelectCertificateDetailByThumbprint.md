@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SelectCertificateDetailByThumbprint Method (Office)
+title: SignatureInfo.SelectCertificateDetailByThumbprint method (Office)
 keywords: vbaof11.chm286016
 f1_keywords:
 - vbaof11.chm286016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SelectCertificateDetailByThumbprint Method (Office)
+# SignatureInfo.SelectCertificateDetailByThumbprint method (Office)
 
 Displays a dialog box containing information about a digital certificate following vertification of the user from a thumbprint.
 

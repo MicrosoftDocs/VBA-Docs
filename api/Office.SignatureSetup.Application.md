@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.Application Property (Office)
+title: SignatureSetup.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureSetup.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.Application Property (Office)
+# SignatureSetup.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SignatureSetup** object. Read-only.
 

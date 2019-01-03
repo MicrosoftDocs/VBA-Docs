@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme Object (Office)
+title: OfficeTheme object (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme Object (Office)
+# OfficeTheme object (Office)
 
 Represents a Microsoft Office theme.
 

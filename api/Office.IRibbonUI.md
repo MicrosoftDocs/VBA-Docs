@@ -1,5 +1,5 @@
 ---
-title: IRibbonUI Object (Office)
+title: IRibbonUI object (Office)
 keywords: vbaof11.chm320000
 f1_keywords:
 - vbaof11.chm320000
@@ -11,7 +11,7 @@ ms.date: 08/29/2018
 ---
 
 
-# IRibbonUI Object (Office)
+# IRibbonUI object (Office)
 
 The object that is returned by the **onLoad** procedure specified on the **customUI** tag. The object contains methods for invalidating control properties and for refreshing the user interface.
 

@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.Authenticate Method (Office)
+title: EncryptionProvider.Authenticate method (Office)
 keywords: vbaof11.chm327003
 f1_keywords:
 - vbaof11.chm327003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.Authenticate Method (Office)
+# EncryptionProvider.Authenticate method (Office)
 
 Used to determine whether the user has the proper permissions to open the encrypted document.
 

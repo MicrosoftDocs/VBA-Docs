@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode Object (Office)
+title: SmartArtNode object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode Object (Office)
+# SmartArtNode object (Office)
 
 A single semantic node within the data model of a Smart Art graphic.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoComboStyle Enumeration (Office)
+title: MsoComboStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoComboStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoComboStyle Enumeration (Office)
+# MsoComboStyle enumeration (Office)
 
 Specifies whether the command bar combo box includes a label or not.
 

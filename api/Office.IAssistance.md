@@ -1,5 +1,5 @@
 ---
-title: IAssistance Object (Office)
+title: IAssistance object (Office)
 ms.prod: office
 api_name:
 - Office.IAssistance
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IAssistance Object (Office)
+# IAssistance object (Office)
 
 Provides a means for developers to create a customized help experience for users within Microsoft Office.
 

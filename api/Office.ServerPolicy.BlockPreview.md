@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.BlockPreview Property (Office)
+title: ServerPolicy.BlockPreview property (Office)
 keywords: vbaof11.chm278017
 f1_keywords:
 - vbaof11.chm278017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.BlockPreview Property (Office)
+# ServerPolicy.BlockPreview property (Office)
 
 Gets a  **Boolean** value that indicates whether you can preview items using this policy. Read-only.
 

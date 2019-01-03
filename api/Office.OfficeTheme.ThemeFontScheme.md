@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.ThemeFontScheme Property (Office)
+title: OfficeTheme.ThemeFontScheme property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.ThemeFontScheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.ThemeFontScheme Property (Office)
+# OfficeTheme.ThemeFontScheme property (Office)
 
 Gets a  **ThemeFontScheme** object that represents the font scheme of a Microsoft Office theme. Read-only.
 

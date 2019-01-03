@@ -1,5 +1,5 @@
 ---
-title: Font2.NameOther Property (Office)
+title: Font2.NameOther property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.NameOther
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.NameOther Property (Office)
+# Font2.NameOther property (Office)
 
 Gets or sets the font used for characters whose character set numbers are greater than 127. Read/write.
 

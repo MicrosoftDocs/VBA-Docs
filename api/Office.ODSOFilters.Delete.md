@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Delete Method (Office)
+title: ODSOFilters.Delete method (Office)
 keywords: vbaof11.chm241005
 f1_keywords:
 - vbaof11.chm241005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Delete Method (Office)
+# ODSOFilters.Delete method (Office)
 
 Deletes a filter object from the  **ODSOFilters** collection.
 

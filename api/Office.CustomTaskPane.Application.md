@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Application Property (Office)
+title: CustomTaskPane.Application property (Office)
 keywords: vbaof11.chm301002
 f1_keywords:
 - vbaof11.chm301002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Application Property (Office)
+# CustomTaskPane.Application property (Office)
 
 Gets the  **Application** object of the host application. Read-only.
 

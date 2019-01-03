@@ -1,5 +1,5 @@
 ---
-title: ThemeFont.Name Property (Office)
+title: ThemeFont.Name property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFont.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFont.Name Property (Office)
+# ThemeFont.Name property (Office)
 
 Gets or sets the name of a font in the font scheme of a Microsoft Office theme. Read/write.
 

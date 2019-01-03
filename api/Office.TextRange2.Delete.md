@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Delete Method (Office)
+title: TextRange2.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Delete Method (Office)
+# TextRange2.Delete method (Office)
 
 Deletes a  **TextRange2** object.
 

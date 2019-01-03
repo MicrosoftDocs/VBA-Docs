@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.AddSignatureLine Method (Office)
+title: SignatureSet.AddSignatureLine method (Office)
 keywords: vbaof11.chm247008
 f1_keywords:
 - vbaof11.chm247008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.AddSignatureLine Method (Office)
+# SignatureSet.AddSignatureLine method (Office)
 
 Adds lines to a document where signatures are collected.
 

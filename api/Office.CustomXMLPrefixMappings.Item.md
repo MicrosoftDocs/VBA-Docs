@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.Item Property (Office)
+title: CustomXMLPrefixMappings.Item property (Office)
 keywords: vbaof11.chm290003
 f1_keywords:
 - vbaof11.chm290003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.Item Property (Office)
+# CustomXMLPrefixMappings.Item property (Office)
 
 Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** collection. Read-only.
 

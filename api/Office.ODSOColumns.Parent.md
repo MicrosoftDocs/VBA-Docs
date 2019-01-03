@@ -1,5 +1,5 @@
 ---
-title: ODSOColumns.Parent Property (Office)
+title: ODSOColumns.Parent property (Office)
 keywords: vbaof11.chm234002
 f1_keywords:
 - vbaof11.chm234002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumns.Parent Property (Office)
+# ODSOColumns.Parent property (Office)
 
 Gets the  **Parent** object for the **ODSOColumns** object. Read-only.
 

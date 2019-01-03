@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Index Property (Office)
+title: CommandBarComboBox.Index property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Index
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Index Property (Office)
+# CommandBarComboBox.Index property (Office)
 
 Gets a  **Long** representing the index number for a **CommandBarComboBox** object in the collection. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: MsoFlipCmd Enumeration (Office)
+title: MsoFlipCmd enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFlipCmd
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFlipCmd Enumeration (Office)
+# MsoFlipCmd enumeration (Office)
 
 Specifies whether a shape should be flipped horizontally or vertically.
 

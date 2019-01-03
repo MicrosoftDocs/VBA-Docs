@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.BeginGroup Property (Office)
+title: CommandBarComboBox.BeginGroup property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.BeginGroup
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.BeginGroup Property (Office)
+# CommandBarComboBox.BeginGroup property (Office)
 
 Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.
 

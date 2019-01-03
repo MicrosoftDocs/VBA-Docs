@@ -1,5 +1,5 @@
 ---
-title: MsoControlType Enumeration (Office)
+title: MsoControlType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoControlType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoControlType Enumeration (Office)
+# MsoControlType enumeration (Office)
 
 Specifies the type of the command bar control. Used with the  **Add** method of the **CommandBarControls** object. Only a limited set of the control types can be created via the **CommandBars** object model: **msoControlButton**, **msoControlEdit**, **msoControlDropdown**, **msoControlComboBox**, **msoControlPopup**, and **msoControlActiveX**. Other control types may exist on built-in or add-in command bars, but cannot be created via the object model.
 

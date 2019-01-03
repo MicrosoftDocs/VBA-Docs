@@ -1,5 +1,5 @@
 ---
-title: Font2.Allcaps Property (Office)
+title: Font2.Allcaps property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Allcaps
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Allcaps Property (Office)
+# Font2.Allcaps property (Office)
 
 True if the font is formatted as all capital letters. Read/write.
 

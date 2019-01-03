@@ -1,5 +1,5 @@
 ---
-title: Permission.RemoveAll Method (Office)
+title: Permission.RemoveAll method (Office)
 keywords: vbaof11.chm261007
 f1_keywords:
 - vbaof11.chm261007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.RemoveAll Method (Office)
+# Permission.RemoveAll method (Office)
 
 Removes all  **UserPermission** objects from the **Permission** collection of the active document.
 

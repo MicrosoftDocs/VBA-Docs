@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Open Method (Office)
+title: DocumentLibraryVersion.Open method (Office)
 keywords: vbaof11.chm277023
 f1_keywords:
 - vbaof11.chm277023
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Open Method (Office)
+# DocumentLibraryVersion.Open method (Office)
 
 Opens the specified version of the shared document from the  **DocumentLibraryVersions** collection in read-only mode.
 

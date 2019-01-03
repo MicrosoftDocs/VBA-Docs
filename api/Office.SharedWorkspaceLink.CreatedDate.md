@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.CreatedDate Property (Office)
+title: SharedWorkspaceLink.CreatedDate property (Office)
 keywords: vbaof11.chm270005
 f1_keywords:
 - vbaof11.chm270005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.CreatedDate Property (Office)
+# SharedWorkspaceLink.CreatedDate property (Office)
 
 Gets the date and time when the shared workspace object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarControls Object (Office)
+title: CommandBarControls object (Office)
 keywords: vbaof11.chm4000
 f1_keywords:
 - vbaof11.chm4000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControls Object (Office)
+# CommandBarControls object (Office)
 
 A collection of  **CommandBarControl** objects that represent the command bar controls on a command bar.
 

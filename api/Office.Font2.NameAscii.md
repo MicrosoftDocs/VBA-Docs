@@ -1,5 +1,5 @@
 ---
-title: Font2.NameAscii Property (Office)
+title: Font2.NameAscii property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.NameAscii
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.NameAscii Property (Office)
+# Font2.NameAscii property (Office)
 
 Gets or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write.
 

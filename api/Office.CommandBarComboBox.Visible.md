@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Visible Property (Office)
+title: CommandBarComboBox.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Visible Property (Office)
+# CommandBarComboBox.Visible property (Office)
 
 Gets or sets the  **Visible** property for the **CommandBarComboBox** control. **True** if the **CommandBarControl** is visible. Read/write.
 

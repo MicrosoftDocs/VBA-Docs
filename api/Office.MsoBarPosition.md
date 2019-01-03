@@ -1,5 +1,5 @@
 ---
-title: MsoBarPosition Enumeration (Office)
+title: MsoBarPosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBarPosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBarPosition Enumeration (Office)
+# MsoBarPosition enumeration (Office)
 
 Specifies the position or behavior of a command bar.
 

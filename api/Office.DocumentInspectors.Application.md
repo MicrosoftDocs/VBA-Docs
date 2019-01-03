@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors.Application Property (Office)
+title: DocumentInspectors.Application property (Office)
 ms.prod: office
 api_name:
 - Office.DocumentInspectors.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors.Application Property (Office)
+# DocumentInspectors.Application property (Office)
 
 Gets an  **Application** object that represents the creator of the **DocumentInspectors** object. Read-only.
 

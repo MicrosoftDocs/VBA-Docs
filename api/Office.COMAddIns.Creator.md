@@ -1,5 +1,5 @@
 ---
-title: COMAddIns.Creator Property (Office)
+title: COMAddIns.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.COMAddIns.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns.Creator Property (Office)
+# COMAddIns.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **COMAddIns** object was created. Read-only.
 

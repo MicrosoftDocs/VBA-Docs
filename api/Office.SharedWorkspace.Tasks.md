@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Tasks Property (Office)
+title: SharedWorkspace.Tasks property (Office)
 keywords: vbaof11.chm276003
 f1_keywords:
 - vbaof11.chm276003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Tasks Property (Office)
+# SharedWorkspace.Tasks property (Office)
 
 Gets a  **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** collection that represents the list of tasks in the current shared workspace. Read-only.
 

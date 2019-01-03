@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMapping.Prefix Property (Office)
+title: CustomXMLPrefixMapping.Prefix property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Prefix
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMapping.Prefix Property (Office)
+# CustomXMLPrefixMapping.Prefix property (Office)
 
 Gets the prefix for a  **CustomXMLPrefixMapping** object. Read-only.
 

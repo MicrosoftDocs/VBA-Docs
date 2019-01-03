@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.BuiltIn Property (Office)
+title: CommandBarButton.BuiltIn property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.BuiltIn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.BuiltIn Property (Office)
+# CommandBarButton.BuiltIn property (Office)
 
 Is  **True** if the specified command bar control is a control of the container application. Returns **False** if it's a custom control, or if it's a built-in control whose **OnAction** property has been set. Read-only.
 

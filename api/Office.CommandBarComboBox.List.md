@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.List Property (Office)
+title: CommandBarComboBox.List property (Office)
 keywords: vbaof11.chm8005
 f1_keywords:
 - vbaof11.chm8005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.List Property (Office)
+# CommandBarComboBox.List property (Office)
 
 Gets or sets an item in the  **CommandBarComboBox** control. Read/write.
 

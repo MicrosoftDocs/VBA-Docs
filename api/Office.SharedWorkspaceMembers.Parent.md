@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers.Parent Property (Office)
+title: SharedWorkspaceMembers.Parent property (Office)
 keywords: vbaof11.chm273004
 f1_keywords:
 - vbaof11.chm273004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers.Parent Property (Office)
+# SharedWorkspaceMembers.Parent property (Office)
 
 Gets the  **Parent** object for the **SharedWorkspaceMembers** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.DropDownWidth Property (Office)
+title: CommandBarComboBox.DropDownWidth property (Office)
 keywords: vbaof11.chm8004
 f1_keywords:
 - vbaof11.chm8004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.DropDownWidth Property (Office)
+# CommandBarComboBox.DropDownWidth property (Office)
 
 Gets or sets the width (in pixels) of the list for the specified command bar combo box control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Copy Method (Office)
+title: TextRange2.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Copy Method (Office)
+# TextRange2.Copy method (Office)
 
 Copies a  **TextRange2** object.
 

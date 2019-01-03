@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.ShowSignDate Property (Office)
+title: SignatureSetup.ShowSignDate property (Office)
 keywords: vbaof11.chm285009
 f1_keywords:
 - vbaof11.chm285009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.ShowSignDate Property (Office)
+# SignatureSetup.ShowSignDate property (Office)
 
 Gets or sets a  **Boolean** value indicating whether the date the document was signed should be displayed. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Position Property (Office)
+title: CommandBar.Position property (Office)
 keywords: vbaof11.chm3013
 f1_keywords:
 - vbaof11.chm3013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Position Property (Office)
+# CommandBar.Position property (Office)
 
 Gets or sets a  **MsoBarPosition** constant representing the position of a command bar. Read/write.
 

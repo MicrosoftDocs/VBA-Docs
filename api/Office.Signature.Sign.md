@@ -1,5 +1,5 @@
 ---
-title: Signature.Sign Method (Office)
+title: Signature.Sign method (Office)
 keywords: vbaof11.chm248012
 f1_keywords:
 - vbaof11.chm248012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Sign Method (Office)
+# Signature.Sign method (Office)
 
 Creates a signature packet.
 

@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Radius Property (Office)
+title: GlowFormat.Radius property (Office)
 ms.prod: office
 api_name:
 - Office.GlowFormat.Radius
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Radius Property (Office)
+# GlowFormat.Radius property (Office)
 
 Gets or sets the radius value of the glow effect for the  **GlowFormat** object. Read/write.
 

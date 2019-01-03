@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.Bullet Property (Office)
+title: ParagraphFormat2.Bullet property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Bullet
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.Bullet Property (Office)
+# ParagraphFormat2.Bullet property (Office)
 
 Gets a  **BulletFormat2** object for the paragraph. Read-only.
 

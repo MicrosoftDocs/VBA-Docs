@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.Item Property (Office)
+title: CustomXMLSchemaCollection.Item property (Office)
 keywords: vbaof11.chm292003
 f1_keywords:
 - vbaof11.chm292003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.Item Property (Office)
+# CustomXMLSchemaCollection.Item property (Office)
 
 Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.
 

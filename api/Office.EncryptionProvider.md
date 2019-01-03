@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider Object (Office)
+title: EncryptionProvider object (Office)
 keywords: vbaof11.chm327000
 f1_keywords:
 - vbaof11.chm327000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider Object (Office)
+# EncryptionProvider object (Office)
 
 Provides the methods for setting up permissions, applying the cryptography of the underlying encryption and decryption, and user authentication. 
 

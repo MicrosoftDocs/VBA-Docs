@@ -1,5 +1,5 @@
 ---
-title: CertificateVerificationResults Enumeration (Office)
+title: CertificateVerificationResults enumeration (Office)
 ms.prod: office
 api_name:
 - Office.CertificateVerificationResults
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CertificateVerificationResults Enumeration (Office)
+# CertificateVerificationResults enumeration (Office)
 
 Provides the results of verifying a digital certificate.
 

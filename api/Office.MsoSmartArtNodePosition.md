@@ -1,5 +1,5 @@
 ---
-title: MsoSmartArtNodePosition Enumeration (Office)
+title: MsoSmartArtNodePosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSmartArtNodePosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSmartArtNodePosition Enumeration (Office)
+# MsoSmartArtNodePosition enumeration (Office)
 
 Specifies constants that define the different ways to add a new node to the data model in SmartArt.
 

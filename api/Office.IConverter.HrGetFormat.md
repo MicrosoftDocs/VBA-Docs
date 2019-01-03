@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrGetFormat Method (Office)
+title: IConverter.HrGetFormat method (Office)
 keywords: vbaof11.chm333005
 f1_keywords:
 - vbaof11.chm333005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrGetFormat Method (Office)
+# IConverter.HrGetFormat method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

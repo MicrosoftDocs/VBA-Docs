@@ -1,5 +1,5 @@
 ---
-title: Ruler2 Object (Office)
+title: Ruler2 object (Office)
 ms.prod: office
 api_name:
 - Office.Ruler2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ruler2 Object (Office)
+# Ruler2 object (Office)
 
 Represents the ruler for the text in the specified shape or for all text in the specified text style. Contains tab stops and the indentation settings for text outline levels.
 

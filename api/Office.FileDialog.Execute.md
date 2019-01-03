@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Execute Method (Office)
+title: FileDialog.Execute method (Office)
 keywords: vbaof11.chm256013
 f1_keywords:
 - vbaof11.chm256013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Execute Method (Office)
+# FileDialog.Execute method (Office)
 
 Carries out a user's action right after the  **Show** method is invoked.
 

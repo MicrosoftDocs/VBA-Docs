@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Item Method (Office)
+title: ODSOFilters.Item method (Office)
 keywords: vbaof11.chm241003
 f1_keywords:
 - vbaof11.chm241003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Item Method (Office)
+# ODSOFilters.Item method (Office)
 
 Represents a  **ODSOFilter** object in the **ODSOFilters** collection.
 

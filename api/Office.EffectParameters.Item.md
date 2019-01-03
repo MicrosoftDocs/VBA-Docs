@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Item Property (Office)
+title: EffectParameters.Item property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameters.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameters.Item Property (Office)
+# EffectParameters.Item property (Office)
 
 Retrieves a  **EffectParameter** object at the specified index or with the specified unique Id. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions.Application Property (Office)
+title: DocumentLibraryVersions.Application property (Office)
 ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions.Application Property (Office)
+# DocumentLibraryVersions.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **DocumentLibraryVersions** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

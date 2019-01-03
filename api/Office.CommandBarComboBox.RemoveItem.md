@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.RemoveItem Method (Office)
+title: CommandBarComboBox.RemoveItem method (Office)
 keywords: vbaof11.chm8009
 f1_keywords:
 - vbaof11.chm8009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.RemoveItem Method (Office)
+# CommandBarComboBox.RemoveItem method (Office)
 
 Removes an item from a  **CommandBarComboBox** control.
 

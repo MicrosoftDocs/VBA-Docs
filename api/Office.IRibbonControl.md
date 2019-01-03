@@ -1,5 +1,5 @@
 ---
-title: IRibbonControl Object (Office)
+title: IRibbonControl object (Office)
 keywords: vbaof11.chm288000
 f1_keywords:
 - vbaof11.chm288000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonControl Object (Office)
+# IRibbonControl object (Office)
 
 Represents the object passed into the callback procedure of a control in a ribbon or another user interface that can be customized by using Office Fluent ribbon extensibility.
 

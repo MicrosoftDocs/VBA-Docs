@@ -1,5 +1,5 @@
 ---
-title: FileDialog Object (Office)
+title: FileDialog object (Office)
 keywords: vbaof11.chm256000
 f1_keywords:
 - vbaof11.chm256000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog Object (Office)
+# FileDialog object (Office)
 
 Provides file dialog box functionality similar to the functionality of the standard  **Open** and **Save** dialog boxes found in Microsoft Office applications.
 

@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Promote Method (Office)
+title: SmartArtNode.Promote method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Promote
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Promote Method (Office)
+# SmartArtNode.Promote method (Office)
 
 Promotes the current node (and all its children) a single level within the data model.
 

@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Item Property (Office)
+title: PickerProperties.Item property (Office)
 keywords: vbaof11.chm337001
 f1_keywords:
 - vbaof11.chm337001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties.Item Property (Office)
+# PickerProperties.Item property (Office)
 
 Retrieves a  **PickerProperty** object at the specified index. Read-only
 

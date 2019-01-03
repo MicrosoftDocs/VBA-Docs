@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyles.Parent Property (Office)
+title: SmartArtQuickStyles.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyles.Parent Property (Office)
+# SmartArtQuickStyles.Parent property (Office)
 
 Returns the calling object. Read-only
 

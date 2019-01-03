@@ -1,5 +1,5 @@
 ---
-title: IDocumentInspector.Fix Method (Office)
+title: IDocumentInspector.Fix method (Office)
 ms.prod: office
 api_name:
 - Office.IDocumentInspector.Fix
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IDocumentInspector.Fix Method (Office)
+# IDocumentInspector.Fix method (Office)
 
 Performs some action on specific information items or document properties by using a custom Document Inspector module.
 

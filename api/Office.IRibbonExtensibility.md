@@ -1,5 +1,5 @@
 ---
-title: IRibbonExtensibility Object (Office)
+title: IRibbonExtensibility object (Office)
 keywords: vbaof11.chm289000
 f1_keywords:
 - vbaof11.chm289000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonExtensibility Object (Office)
+# IRibbonExtensibility object (Office)
 
 The interface through which the Ribbon user interface (UI) communicates with a COM add-in to customize the UI.
 

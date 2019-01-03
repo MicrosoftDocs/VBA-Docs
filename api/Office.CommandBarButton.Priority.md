@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Priority Property (Office)
+title: CommandBarButton.Priority property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Priority
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Priority Property (Office)
+# CommandBarButton.Priority property (Office)
 
 Gets or sets the priority of a CommandBarButton control. A control's priority determines whether the control can be dropped from a docked command bar if the command bar controls can't fit in a single row. Controls that can't fit in a single row drop off command bars from right to left. Read/write.
 

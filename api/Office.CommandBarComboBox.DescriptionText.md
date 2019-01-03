@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.DescriptionText Property (Office)
+title: CommandBarComboBox.DescriptionText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.DescriptionText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.DescriptionText Property (Office)
+# CommandBarComboBox.DescriptionText property (Office)
 
 Gets or sets the description for a command bar combo box control. Read/write.
 

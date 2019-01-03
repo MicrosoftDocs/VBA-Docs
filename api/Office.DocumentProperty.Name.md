@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.Name Property (Office)
+title: DocumentProperty.Name property (Office)
 keywords: vbaof11.chm250005
 f1_keywords:
 - vbaof11.chm250005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.Name Property (Office)
+# DocumentProperty.Name property (Office)
 
 Gets or sets the name of a document property. Read/write.
 

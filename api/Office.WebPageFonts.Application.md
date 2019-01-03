@@ -1,5 +1,5 @@
 ---
-title: WebPageFonts.Application Property (Office)
+title: WebPageFonts.Application property (Office)
 ms.prod: office
 api_name:
 - Office.WebPageFonts.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFonts.Application Property (Office)
+# WebPageFonts.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **WebPageFonts** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SearchFolders.Add Method (Office)
+title: SearchFolders.Add method (Office)
 keywords: vbaof11.chm258003
 f1_keywords:
 - vbaof11.chm258003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchFolders.Add Method (Office)
+# SearchFolders.Add method (Office)
 
 Adds a search folder to a file search.
 

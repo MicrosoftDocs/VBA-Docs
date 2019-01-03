@@ -1,5 +1,5 @@
 ---
-title: TextRange2.TrimText Method (Office)
+title: TextRange2.TrimText method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.TrimText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.TrimText Method (Office)
+# TextRange2.TrimText method (Office)
 
 Returns a **TextRange2** object that represents the specified text that has the whitespace removed.
 

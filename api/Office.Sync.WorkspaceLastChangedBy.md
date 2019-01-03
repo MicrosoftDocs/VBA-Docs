@@ -1,5 +1,5 @@
 ---
-title: Sync.WorkspaceLastChangedBy Property (Office)
+title: Sync.WorkspaceLastChangedBy property (Office)
 keywords: vbaof11.chm277002
 f1_keywords:
 - vbaof11.chm277002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.WorkspaceLastChangedBy Property (Office)
+# Sync.WorkspaceLastChangedBy property (Office)
 
 Displays the display name of the user who last saved changes to the server copy of a shared document. Read-only.
 

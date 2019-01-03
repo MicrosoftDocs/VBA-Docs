@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.Connect Property (Office)
+title: COMAddIn.Connect property (Office)
 keywords: vbaof11.chm219005
 f1_keywords:
 - vbaof11.chm219005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.Connect Property (Office)
+# COMAddIn.Connect property (Office)
 
 Gets or sets the state of the connection for the specified  **COMAddIn** object. Read/write.
 

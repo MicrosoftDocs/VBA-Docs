@@ -1,5 +1,5 @@
 ---
-title: ICTPFactory.CreateCTP Method (Office)
+title: ICTPFactory.CreateCTP method (Office)
 keywords: vbaof11.chm304001
 f1_keywords:
 - vbaof11.chm304001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ICTPFactory.CreateCTP Method (Office)
+# ICTPFactory.CreateCTP method (Office)
 
 Creates an instance of a custom task pane.
 

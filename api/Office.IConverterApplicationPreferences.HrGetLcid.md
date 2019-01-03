@@ -1,5 +1,5 @@
 ---
-title: IConverterApplicationPreferences.HrGetLcid Method (Office)
+title: IConverterApplicationPreferences.HrGetLcid method (Office)
 keywords: vbaof11.chm331001
 f1_keywords:
 - vbaof11.chm331001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterApplicationPreferences.HrGetLcid Method (Office)
+# IConverterApplicationPreferences.HrGetLcid method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

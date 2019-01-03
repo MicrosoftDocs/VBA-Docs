@@ -1,5 +1,5 @@
 ---
-title: MsoMoveRow Enumeration (Office)
+title: MsoMoveRow enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoMoveRow
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoMoveRow Enumeration (Office)
+# MsoMoveRow enumeration (Office)
 
 This enumeration has been deprecated and should not be used.
 

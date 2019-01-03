@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Description Property (Office)
+title: SharedWorkspaceTask.Description property (Office)
 keywords: vbaof11.chm264005
 f1_keywords:
 - vbaof11.chm264005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Description Property (Office)
+# SharedWorkspaceTask.Description property (Office)
 
 Gets or sets a descriptive  **String** value for the specified **SharedWorkspaceLink** or **SharedWorkspaceTask** object. Read/write.
 

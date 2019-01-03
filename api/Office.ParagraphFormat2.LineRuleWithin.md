@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.LineRuleWithin Property (Office)
+title: ParagraphFormat2.LineRuleWithin property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleWithin
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.LineRuleWithin Property (Office)
+# ParagraphFormat2.LineRuleWithin property (Office)
 
 Determines whether line spacing between base lines is set to a specific number of points or lines. Read/write.
 

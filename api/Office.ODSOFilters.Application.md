@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Application Property (Office)
+title: ODSOFilters.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ODSOFilters.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Application Property (Office)
+# ODSOFilters.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ODSOFilters** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

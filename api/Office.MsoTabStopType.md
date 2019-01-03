@@ -1,5 +1,5 @@
 ---
-title: MsoTabStopType Enumeration (Office)
+title: MsoTabStopType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTabStopType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTabStopType Enumeration (Office)
+# MsoTabStopType enumeration (Office)
 
 Specifies the type of tab stop.
 

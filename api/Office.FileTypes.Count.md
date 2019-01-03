@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Count Property (Office)
+title: FileTypes.Count property (Office)
 keywords: vbaof11.chm257002
 f1_keywords:
 - vbaof11.chm257002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes.Count Property (Office)
+# FileTypes.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **FileTypes** collection. Read-only.
 

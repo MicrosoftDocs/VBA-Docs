@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMappings.Parent Property (Office)
+title: CustomXMLPrefixMappings.Parent property (Office)
 keywords: vbaof11.chm290001
 f1_keywords:
 - vbaof11.chm290001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMappings.Parent Property (Office)
+# CustomXMLPrefixMappings.Parent property (Office)
 
 Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-only.
 

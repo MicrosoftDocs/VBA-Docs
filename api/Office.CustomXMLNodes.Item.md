@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNodes.Item Property (Office)
+title: CustomXMLNodes.Item property (Office)
 keywords: vbaof11.chm293003
 f1_keywords:
 - vbaof11.chm293003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNodes.Item Property (Office)
+# CustomXMLNodes.Item property (Office)
 
 Gets a  **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-only.
 

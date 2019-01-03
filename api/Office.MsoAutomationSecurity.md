@@ -1,5 +1,5 @@
 ---
-title: MsoAutomationSecurity Enumeration (Office)
+title: MsoAutomationSecurity enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAutomationSecurity
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAutomationSecurity Enumeration (Office)
+# MsoAutomationSecurity enumeration (Office)
 
 Specifies the security mode an application uses when programmatically opening files.
 

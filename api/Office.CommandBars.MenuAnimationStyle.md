@@ -1,5 +1,5 @@
 ---
-title: CommandBars.MenuAnimationStyle Property (Office)
+title: CommandBars.MenuAnimationStyle property (Office)
 keywords: vbaof11.chm2010
 f1_keywords:
 - vbaof11.chm2010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.MenuAnimationStyle Property (Office)
+# CommandBars.MenuAnimationStyle property (Office)
 
 Gets or sets a  **MsoMenuAnimation** that represents the way a command bar is animated. Read/write.
 

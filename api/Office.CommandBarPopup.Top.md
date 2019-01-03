@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Top Property (Office)
+title: CommandBarPopup.Top property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Top
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Top Property (Office)
+# CommandBarPopup.Top property (Office)
 
 Gets the distance (in pixels) from the top edge of the specified  **CommandBarPopup** control to the top edge of the screen. Read-only.
 

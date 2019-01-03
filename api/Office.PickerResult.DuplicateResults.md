@@ -1,5 +1,5 @@
 ---
-title: PickerResult.DuplicateResults Property (Office)
+title: PickerResult.DuplicateResults property (Office)
 keywords: vbaof11.chm338007
 f1_keywords:
 - vbaof11.chm338007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.DuplicateResults Property (Office)
+# PickerResult.DuplicateResults property (Office)
 
 Gets PickerResult collection if the result of resolving results has multiple candidates. Read-only
 

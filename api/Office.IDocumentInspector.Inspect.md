@@ -1,5 +1,5 @@
 ---
-title: IDocumentInspector.Inspect Method (Office)
+title: IDocumentInspector.Inspect method (Office)
 ms.prod: office
 api_name:
 - Office.IDocumentInspector.Inspect
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IDocumentInspector.Inspect Method (Office)
+# IDocumentInspector.Inspect method (Office)
 
 Inspects a document for specific information items or document properties by using a custom Document Inspector module.
 

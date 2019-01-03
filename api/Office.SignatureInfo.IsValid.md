@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.IsValid Property (Office)
+title: SignatureInfo.IsValid property (Office)
 keywords: vbaof11.chm286010
 f1_keywords:
 - vbaof11.chm286010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.IsValid Property (Office)
+# SignatureInfo.IsValid property (Office)
 
 Gets a  **Boolean** value indicating whether the signature was successfully validated following signature verification. Read-only.
 

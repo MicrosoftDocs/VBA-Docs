@@ -1,5 +1,5 @@
 ---
-title: TabStops2.Item Method (Office)
+title: TabStops2.Item method (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.Item Method (Office)
+# TabStops2.Item method (Office)
 
 Gets an individual object from the  **TabStops2** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes.Item Method (Office)
+title: SmartArtNodes.Item method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes.Item Method (Office)
+# SmartArtNodes.Item method (Office)
 
 Retrieves a  **SmartArtNode** object at the specified index or with the specified unique Id.
 

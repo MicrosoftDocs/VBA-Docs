@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Type Property (Office)
+title: SmartArtNode.Type property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Type Property (Office)
+# SmartArtNode.Type property (Office)
 
 Retrieves the type of SmartArt node. Read-only.
 

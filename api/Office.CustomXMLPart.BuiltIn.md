@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.BuiltIn Property (Office)
+title: CustomXMLPart.BuiltIn property (Office)
 keywords: vbaof11.chm295015
 f1_keywords:
 - vbaof11.chm295015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.BuiltIn Property (Office)
+# CustomXMLPart.BuiltIn property (Office)
 
 Gets a value that indicates whether the  **CustomXMLPart** is built-in. Read-only
 

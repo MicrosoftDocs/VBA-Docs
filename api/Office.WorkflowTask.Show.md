@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Show Method (Office)
+title: WorkflowTask.Show method (Office)
 keywords: vbaof11.chm280010
 f1_keywords:
 - vbaof11.chm280010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Show Method (Office)
+# WorkflowTask.Show method (Office)
 
 Displays a workflow task edit user interface for the specified  **WorkflowTask** object.
 

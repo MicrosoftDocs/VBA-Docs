@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.TextFrame2 Property (Office)
+title: SmartArtNode.TextFrame2 property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.TextFrame2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.TextFrame2 Property (Office)
+# SmartArtNode.TextFrame2 property (Office)
 
 Returns the text associated with the **SmartArtNode** object. Read-only.
 

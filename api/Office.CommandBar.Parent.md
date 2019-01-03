@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Parent Property (Office)
+title: CommandBar.Parent property (Office)
 keywords: vbaof11.chm3012
 f1_keywords:
 - vbaof11.chm3012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Parent Property (Office)
+# CommandBar.Parent property (Office)
 
 Gets the  **Parent** object for the **CommandBar** object. Read-only.
 

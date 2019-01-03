@@ -1,5 +1,5 @@
 ---
-title: FileDialogSelectedItems.Parent Property (Office)
+title: FileDialogSelectedItems.Parent property (Office)
 keywords: vbaof11.chm253001
 f1_keywords:
 - vbaof11.chm253001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogSelectedItems.Parent Property (Office)
+# FileDialogSelectedItems.Parent property (Office)
 
 Gets the  **Parent** object for the **FileDialogSelectedItems** object. Read-only.
 

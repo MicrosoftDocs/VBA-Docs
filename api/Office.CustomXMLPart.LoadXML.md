@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.LoadXML Method (Office)
+title: CustomXMLPart.LoadXML method (Office)
 keywords: vbaof11.chm295011
 f1_keywords:
 - vbaof11.chm295011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.LoadXML Method (Office)
+# CustomXMLPart.LoadXML method (Office)
 
 Allows the template author to populate a  **CustomXMLPart** object from an XML string. Returns **True** if the load was successful.
 

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile.CreatedDate Property (Office)
+title: SharedWorkspaceFile.CreatedDate property (Office)
 keywords: vbaof11.chm266003
 f1_keywords:
 - vbaof11.chm266003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFile.CreatedDate Property (Office)
+# SharedWorkspaceFile.CreatedDate property (Office)
 
 Gets the date and time when the shared workspace object was created. Read-only.
 

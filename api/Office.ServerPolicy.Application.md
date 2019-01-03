@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Application Property (Office)
+title: ServerPolicy.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ServerPolicy.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Application Property (Office)
+# ServerPolicy.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ServerPolicy** object. Read-only.
 

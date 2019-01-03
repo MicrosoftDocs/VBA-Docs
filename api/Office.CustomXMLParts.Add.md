@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Add Method (Office)
+title: CustomXMLParts.Add method (Office)
 keywords: vbaof11.chm298004
 f1_keywords:
 - vbaof11.chm298004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Add Method (Office)
+# CustomXMLParts.Add method (Office)
 
 Allows you to add a new  **CustomXMLPart** to a file.
 

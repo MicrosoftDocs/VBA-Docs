@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.ShortcutText Property (Office)
+title: CommandBarButton.ShortcutText property (Office)
 keywords: vbaof11.chm6005
 f1_keywords:
 - vbaof11.chm6005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.ShortcutText Property (Office)
+# CommandBarButton.ShortcutText property (Office)
 
 Gets or sets the shortcut key text displayed next to a  **CommandBarButton** control when the button appears on a menu, submenu, or shortcut menu. Read/write.
 

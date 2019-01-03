@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat.Type Property (Office)
+title: SoftEdgeFormat.Type property (Office)
 ms.prod: office
 api_name:
 - Office.SoftEdgeFormat.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat.Type Property (Office)
+# SoftEdgeFormat.Type property (Office)
 
 Gets or sets the type of the  **SoftEdgeFormat** object. Read/write.
 

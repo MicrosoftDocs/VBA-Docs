@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Parent Property (Office)
+title: BulletFormat2.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Parent Property (Office)
+# BulletFormat2.Parent property (Office)
 
 Gets the parent of the  **BulletFormat2** object. Read-only.
 

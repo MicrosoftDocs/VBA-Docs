@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Delete Method (Office)
+title: FileDialogFilters.Delete method (Office)
 keywords: vbaof11.chm255004
 f1_keywords:
 - vbaof11.chm255004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Delete Method (Office)
+# FileDialogFilters.Delete method (Office)
 
 Removes a file dialog filter.
 

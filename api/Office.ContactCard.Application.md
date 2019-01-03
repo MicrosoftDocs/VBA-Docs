@@ -1,5 +1,5 @@
 ---
-title: ContactCard.Application Property (Office)
+title: ContactCard.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ContactCard.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContactCard.Application Property (Office)
+# ContactCard.Application property (Office)
 
 Returns an  **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.
 

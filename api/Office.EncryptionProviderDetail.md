@@ -1,5 +1,5 @@
 ---
-title: EncryptionProviderDetail Enumeration (Office)
+title: EncryptionProviderDetail enumeration (Office)
 ms.prod: office
 api_name:
 - Office.EncryptionProviderDetail
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProviderDetail Enumeration (Office)
+# EncryptionProviderDetail enumeration (Office)
 
 Specifies details about encryption providers.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.ListIndex Property (Office)
+title: CommandBarComboBox.ListIndex property (Office)
 keywords: vbaof11.chm8008
 f1_keywords:
 - vbaof11.chm8008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.ListIndex Property (Office)
+# CommandBarComboBox.ListIndex property (Office)
 
 Gets or sets the index number of the selected item in the list portion of the  **CommandBarComboBox** control. If nothing is selected in the list, this property returns zero. Read/write.
 

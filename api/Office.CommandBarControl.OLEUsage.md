@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.OLEUsage Property (Office)
+title: CommandBarControl.OLEUsage property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.OLEUsage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.OLEUsage Property (Office)
+# CommandBarControl.OLEUsage property (Office)
 
 Gets or sets the OLE client and OLE server roles in which a  **CommandBarControl** will be used when two Microsoft Office applications are merged. Read/write.
 

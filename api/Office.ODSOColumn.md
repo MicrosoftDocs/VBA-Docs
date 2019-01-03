@@ -1,5 +1,5 @@
 ---
-title: ODSOColumn Object (Office)
+title: ODSOColumn object (Office)
 keywords: vbaof11.chm233000
 f1_keywords:
 - vbaof11.chm233000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumn Object (Office)
+# ODSOColumn object (Office)
 
 Represents a field in a data source. The  **ODSOColumn** object is a member of the **ODSOColumns** collection.
 

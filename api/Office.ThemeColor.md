@@ -1,5 +1,5 @@
 ---
-title: ThemeColor Object (Office)
+title: ThemeColor object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColor Object (Office)
+# ThemeColor object (Office)
 
 Represents a color in the color scheme of a Microsoft Office theme.
 

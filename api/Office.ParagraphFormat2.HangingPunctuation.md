@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.HangingPunctuation Property (Office)
+title: ParagraphFormat2.HangingPunctuation property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.HangingPunctuation
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.HangingPunctuation Property (Office)
+# ParagraphFormat2.HangingPunctuation property (Office)
 
 Determines whether hanging punctuation is enabled for the specified paragraphs. Read/write.
 

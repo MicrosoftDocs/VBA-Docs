@@ -1,5 +1,5 @@
 ---
-title: Font2.Line Property (Office)
+title: Font2.Line property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Line
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Line Property (Office)
+# Font2.Line property (Office)
 
 Gets a value specifiying the format of a line. Read-only.
 

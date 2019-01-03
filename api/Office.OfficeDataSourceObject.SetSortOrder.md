@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.SetSortOrder Method (Office)
+title: OfficeDataSourceObject.SetSortOrder method (Office)
 keywords: vbaof11.chm232008
 f1_keywords:
 - vbaof11.chm232008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.SetSortOrder Method (Office)
+# OfficeDataSourceObject.SetSortOrder method (Office)
 
 Sets the sort order for mail merge data.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Parameter Property (Office)
+title: CommandBarPopup.Parameter property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Parameter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Parameter Property (Office)
+# CommandBarPopup.Parameter property (Office)
 
 Gets or sets a string that an application can use to execute a command from a  **CommandBarPopup** control. Read/write.
 

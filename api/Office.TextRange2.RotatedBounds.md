@@ -1,5 +1,5 @@
 ---
-title: TextRange2.RotatedBounds Method (Office)
+title: TextRange2.RotatedBounds method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.RotatedBounds
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.RotatedBounds Method (Office)
+# TextRange2.RotatedBounds method (Office)
 
 Gets the coordinates of the vertices of the text bounding box for the specified text range. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Id Property (Office)
+title: CommandBarComboBox.Id property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Id Property (Office)
+# CommandBarComboBox.Id property (Office)
 
 Gets the ID for a built-in  **CommandBarComboBox** control. Read-only.
 

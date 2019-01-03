@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.WorkflowID Property (Office)
+title: WorkflowTask.WorkflowID property (Office)
 keywords: vbaof11.chm280003
 f1_keywords:
 - vbaof11.chm280003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.WorkflowID Property (Office)
+# WorkflowTask.WorkflowID property (Office)
 
 Gets the ID of the workflow associated with a workflow task. Read-only.
 

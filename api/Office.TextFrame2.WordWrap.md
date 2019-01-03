@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.WordWrap Property (Office)
+title: TextFrame2.WordWrap property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.WordWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.WordWrap Property (Office)
+# TextFrame2.WordWrap property (Office)
 
 Determines whether lines of text break automatically to fit inside the shape. Read/write
 

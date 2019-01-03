@@ -1,5 +1,5 @@
 ---
-title: COMAddIns Object (Office)
+title: COMAddIns object (Office)
 keywords: vbaof11.chm220000
 f1_keywords:
 - vbaof11.chm220000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIns Object (Office)
+# COMAddIns object (Office)
 
 A collection of  **COMAddIn** objects that provide information about a COM add-in registered in the Windows registry.
 

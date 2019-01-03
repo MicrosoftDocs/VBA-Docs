@@ -1,5 +1,5 @@
 ---
-title: PictureEffect Object (Office)
+title: PictureEffect object (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect Object (Office)
+# PictureEffect object (Office)
 
 Represents a Picture Effect.
 

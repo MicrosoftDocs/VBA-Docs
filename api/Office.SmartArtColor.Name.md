@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Name Property (Office)
+title: SmartArtColor.Name property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Name Property (Office)
+# SmartArtColor.Name property (Office)
 
 Retrieves the string name of the SmartArt color style. Read-only
 

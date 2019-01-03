@@ -1,5 +1,5 @@
 ---
-title: Font2.Spacing Property (Office)
+title: Font2.Spacing property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Spacing
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Spacing Property (Office)
+# Font2.Spacing property (Office)
 
 Gets or sets a value specifying the spacing between characters in a selection of text. Read/write.
 

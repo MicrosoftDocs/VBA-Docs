@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.MarginLeft Property (Office)
+title: TextFrame2.MarginLeft property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.MarginLeft
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.MarginLeft Property (Office)
+# TextFrame2.MarginLeft property (Office)
 
 Returns or sets the distance (in points) between the left edge of the text frame and the left edge of the inscribed rectangle of the shape that contains the text. Read/write
 

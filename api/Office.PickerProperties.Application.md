@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Application Property (Office)
+title: PickerProperties.Application property (Office)
 ms.prod: office
 api_name:
 - Office.PickerProperties.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties.Application Property (Office)
+# PickerProperties.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **PickerProperties** object. Read-only
 

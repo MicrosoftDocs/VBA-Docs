@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Name Property (Office)
+title: MetaProperty.Name property (Office)
 keywords: vbaof11.chm275002
 f1_keywords:
 - vbaof11.chm275002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Name Property (Office)
+# MetaProperty.Name property (Office)
 
 Gets the name of the  **MetaProperty** object. Read-only.
 

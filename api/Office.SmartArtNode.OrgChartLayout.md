@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.OrgChartLayout Property (Office)
+title: SmartArtNode.OrgChartLayout property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.OrgChartLayout
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.OrgChartLayout Property (Office)
+# SmartArtNode.OrgChartLayout property (Office)
 
 Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if there is one. Read/write.
 

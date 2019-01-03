@@ -1,5 +1,5 @@
 ---
-title: ThemeColor.Application Property (Office)
+title: ThemeColor.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColor.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColor.Application Property (Office)
+# ThemeColor.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ThemeColor** object. Read-only.
 

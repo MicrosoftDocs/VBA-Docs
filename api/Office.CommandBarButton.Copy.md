@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Copy Method (Office)
+title: CommandBarButton.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Copy Method (Office)
+# CommandBarButton.Copy method (Office)
 
 Copies a command bar button control to an existing command bar.
 

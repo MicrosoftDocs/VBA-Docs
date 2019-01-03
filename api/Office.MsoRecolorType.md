@@ -1,5 +1,5 @@
 ---
-title: MsoRecolorType Enumeration (Office)
+title: MsoRecolorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoRecolorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoRecolorType Enumeration (Office)
+# MsoRecolorType enumeration (Office)
 
 Indicates the type of recolor to use when changing a color scheme.
 

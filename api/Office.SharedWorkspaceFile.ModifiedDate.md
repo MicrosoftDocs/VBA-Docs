@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile.ModifiedDate Property (Office)
+title: SharedWorkspaceFile.ModifiedDate property (Office)
 keywords: vbaof11.chm266005
 f1_keywords:
 - vbaof11.chm266005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFile.ModifiedDate Property (Office)
+# SharedWorkspaceFile.ModifiedDate property (Office)
 
 Gets the date and time when the  **SharedWorkspaceFile** object was last modified. Read-only.
 

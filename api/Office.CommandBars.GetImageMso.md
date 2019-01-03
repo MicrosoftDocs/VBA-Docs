@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetImageMso Method (Office)
+title: CommandBars.GetImageMso method (Office)
 keywords: vbaof11.chm2025
 f1_keywords:
 - vbaof11.chm2025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetImageMso Method (Office)
+# CommandBars.GetImageMso method (Office)
 
 Returns an  **IPictureDisp** object of the control image identified by the **idMso** parameter scaled to the dimensions specified by width and height.
 

@@ -1,5 +1,5 @@
 ---
-title: FileDialogSelectedItems Object (Office)
+title: FileDialogSelectedItems object (Office)
 keywords: vbaof11.chm253000
 f1_keywords:
 - vbaof11.chm253000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogSelectedItems Object (Office)
+# FileDialogSelectedItems object (Office)
 
 A collection of  **String** values that correspond to the paths of the files or folders that a user has selected from a file dialog box displayed through the **FileDialog** object.
 

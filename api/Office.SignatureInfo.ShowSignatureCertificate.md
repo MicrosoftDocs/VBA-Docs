@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.ShowSignatureCertificate Method (Office)
+title: SignatureInfo.ShowSignatureCertificate method (Office)
 keywords: vbaof11.chm286014
 f1_keywords:
 - vbaof11.chm286014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.ShowSignatureCertificate Method (Office)
+# SignatureInfo.ShowSignatureCertificate method (Office)
 
 Displays the selected or default digital certificate. 
 

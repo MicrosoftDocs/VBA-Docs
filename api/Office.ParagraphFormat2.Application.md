@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.Application Property (Office)
+title: ParagraphFormat2.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.Application Property (Office)
+# ParagraphFormat2.Application property (Office)
 
 Gets an object that represents the application that contains the object. Read-only.
 

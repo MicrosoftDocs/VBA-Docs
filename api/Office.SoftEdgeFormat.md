@@ -1,5 +1,5 @@
 ---
-title: SoftEdgeFormat Object (Office)
+title: SoftEdgeFormat object (Office)
 ms.prod: office
 api_name:
 - Office.SoftEdgeFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SoftEdgeFormat Object (Office)
+# SoftEdgeFormat object (Office)
 
 Represents the soft edges effect in Office graphics.
 

@@ -1,5 +1,5 @@
 ---
-title: Ruler2.Levels Property (Office)
+title: Ruler2.Levels property (Office)
 ms.prod: office
 api_name:
 - Office.Ruler2.Levels
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Ruler2.Levels Property (Office)
+# Ruler2.Levels property (Office)
 
 Gets a  **RulerLevels2** object that represents outline text formatting. Read-only.
 

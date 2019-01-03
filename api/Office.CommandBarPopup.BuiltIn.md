@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.BuiltIn Property (Office)
+title: CommandBarPopup.BuiltIn property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.BuiltIn
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.BuiltIn Property (Office)
+# CommandBarPopup.BuiltIn property (Office)
 
 Is  **True** if the specified command bar popup is a built-in command bar of the container application. Returns **False** if it's a custom command bar. Read-only.
 

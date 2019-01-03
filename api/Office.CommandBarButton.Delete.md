@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Delete Method (Office)
+title: CommandBarButton.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Delete Method (Office)
+# CommandBarButton.Delete method (Office)
 
 Deletes the  **CommandBarButton** object from its collection.
 

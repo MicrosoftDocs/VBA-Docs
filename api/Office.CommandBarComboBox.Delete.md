@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Delete Method (Office)
+title: CommandBarComboBox.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Delete Method (Office)
+# CommandBarComboBox.Delete method (Office)
 
 Deletes  **CommandBarCombo** control object from its collection.
 

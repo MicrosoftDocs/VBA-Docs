@@ -1,5 +1,5 @@
 ---
-title: CertificateDetail Enumeration (Office)
+title: CertificateDetail enumeration (Office)
 ms.prod: office
 api_name:
 - Office.CertificateDetail
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CertificateDetail Enumeration (Office)
+# CertificateDetail enumeration (Office)
 
 Provides information about the digital certificate.
 

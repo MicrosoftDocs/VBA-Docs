@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNodes.Application Property (Office)
+title: CustomXMLNodes.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLNodes.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNodes.Application Property (Office)
+# CustomXMLNodes.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLNodes** object. Read-only.
 

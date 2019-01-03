@@ -1,5 +1,5 @@
 ---
-title: GlowFormat.Application Property (Office)
+title: GlowFormat.Application property (Office)
 ms.prod: office
 api_name:
 - Office.GlowFormat.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GlowFormat.Application Property (Office)
+# GlowFormat.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **GlowFormat** object. Read-only.
 

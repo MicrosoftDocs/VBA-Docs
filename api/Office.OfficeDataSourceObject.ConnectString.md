@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.ConnectString Property (Office)
+title: OfficeDataSourceObject.ConnectString property (Office)
 keywords: vbaof11.chm232001
 f1_keywords:
 - vbaof11.chm232001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.ConnectString Property (Office)
+# OfficeDataSourceObject.ConnectString property (Office)
 
 Gets or sets a  **String** that represents the connection to the specified mail merge data source. Read/write.
 

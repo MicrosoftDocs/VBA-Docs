@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Characters Property (Office)
+title: TextRange2.Characters property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Characters
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Characters Property (Office)
+# TextRange2.Characters property (Office)
 
 Read-only.
 

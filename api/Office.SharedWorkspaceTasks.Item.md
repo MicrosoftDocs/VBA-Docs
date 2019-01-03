@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTasks.Item Property (Office)
+title: SharedWorkspaceTasks.Item property (Office)
 keywords: vbaof11.chm265001
 f1_keywords:
 - vbaof11.chm265001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTasks.Item Property (Office)
+# SharedWorkspaceTasks.Item property (Office)
 
 Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shared workspace. Read-only.
 

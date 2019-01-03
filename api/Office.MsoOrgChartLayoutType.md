@@ -1,5 +1,5 @@
 ---
-title: MsoOrgChartLayoutType Enumeration (Office)
+title: MsoOrgChartLayoutType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoOrgChartLayoutType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoOrgChartLayoutType Enumeration (Office)
+# MsoOrgChartLayoutType enumeration (Office)
 
 Indicates how to format the child nodes in an organization chart.
 

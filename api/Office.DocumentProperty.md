@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty Object (Office)
+title: DocumentProperty object (Office)
 keywords: vbaof11.chm250002
 f1_keywords:
 - vbaof11.chm250002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty Object (Office)
+# DocumentProperty object (Office)
 
 Represents a custom or built-in document property of a container document. The **DocumentProperty** object is a member of the **DocumentProperties** collection.
 

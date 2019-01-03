@@ -1,5 +1,5 @@
 ---
-title: WebPageFonts.Creator Property (Office)
+title: WebPageFonts.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WebPageFonts.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFonts.Creator Property (Office)
+# WebPageFonts.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WebPageFonts** object was created. Read-only.
 

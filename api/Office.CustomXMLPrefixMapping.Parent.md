@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMapping.Parent Property (Office)
+title: CustomXMLPrefixMapping.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMapping.Parent Property (Office)
+# CustomXMLPrefixMapping.Parent property (Office)
 
 Gets the  **Parent** object of the **CustomXMLPrefixMapping** object. Read-only.
 

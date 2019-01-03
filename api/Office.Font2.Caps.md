@@ -1,5 +1,5 @@
 ---
-title: Font2.Caps Property (Office)
+title: Font2.Caps property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Caps
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Caps Property (Office)
+# Font2.Caps property (Office)
 
 Gets or sets a value specifying that the text should be capitalized. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Application Property (Office)
+title: DocumentProperties.Application property (Office)
 keywords: vbaof11.chm250017
 f1_keywords:
 - vbaof11.chm250017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Application Property (Office)
+# DocumentProperties.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **DocumentProperties** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

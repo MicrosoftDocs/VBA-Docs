@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Node Property (Office)
+title: CustomXMLValidationError.Node property (Office)
 keywords: vbaof11.chm307003
 f1_keywords:
 - vbaof11.chm307003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Node Property (Office)
+# CustomXMLValidationError.Node property (Office)
 
 Gets a node in a  **CustomXMLValidationError** object, if any exist. If no nodes exist, the property returns **Nothing**. Read-only.
 

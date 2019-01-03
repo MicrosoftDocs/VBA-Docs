@@ -1,5 +1,5 @@
 ---
-title: FileTypes.Creator Property (Office)
+title: FileTypes.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.FileTypes.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileTypes.Creator Property (Office)
+# FileTypes.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **FileTypes** object was created. Read-only.
 

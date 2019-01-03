@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.State Property (Office)
+title: CommandBarButton.State property (Office)
 keywords: vbaof11.chm6006
 f1_keywords:
 - vbaof11.chm6006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.State Property (Office)
+# CommandBarButton.State property (Office)
 
 Gets or sets the appearance of a CommandBarButton control. Read/write.
 

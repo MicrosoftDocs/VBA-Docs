@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion Object (Office)
+title: DocumentLibraryVersion object (Office)
 keywords: vbaof11.chm277014
 f1_keywords:
 - vbaof11.chm277014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion Object (Office)
+# DocumentLibraryVersion object (Office)
 
 The  **DocumentLibraryVersion** object represents a single saved version of a shared document which has versioning enabled and which is stored in a document library on the server. Each **DocumentLibraryVersion** object is a member of the active document's **DocumentLibraryVersions** collection.
 

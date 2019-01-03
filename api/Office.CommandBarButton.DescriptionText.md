@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.DescriptionText Property (Office)
+title: CommandBarButton.DescriptionText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.DescriptionText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.DescriptionText Property (Office)
+# CommandBarButton.DescriptionText property (Office)
 
 Gets or sets the description for a command bar button control. Read/write.
 

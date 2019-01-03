@@ -1,5 +1,5 @@
 ---
-title: DocumentInspectors.Creator Property (Office)
+title: DocumentInspectors.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.DocumentInspectors.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspectors.Creator Property (Office)
+# DocumentInspectors.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **DocumentInspectors** object was created. Read-only.
 

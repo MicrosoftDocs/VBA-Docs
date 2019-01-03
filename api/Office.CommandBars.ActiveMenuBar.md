@@ -1,5 +1,5 @@
 ---
-title: CommandBars.ActiveMenuBar Property (Office)
+title: CommandBars.ActiveMenuBar property (Office)
 keywords: vbaof11.chm2002
 f1_keywords:
 - vbaof11.chm2002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.ActiveMenuBar Property (Office)
+# CommandBars.ActiveMenuBar property (Office)
 
 Gets a  **CommandBar** object that represents the active menu bar in the container application. Read-only.
 

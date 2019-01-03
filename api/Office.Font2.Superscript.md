@@ -1,5 +1,5 @@
 ---
-title: Font2.Superscript Property (Office)
+title: Font2.Superscript property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Superscript
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Superscript Property (Office)
+# Font2.Superscript property (Office)
 
 Gets or sets a value specifying that the selected text should be displayed as superscript. Read/write.
 

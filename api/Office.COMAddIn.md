@@ -1,5 +1,5 @@
 ---
-title: COMAddIn Object (Office)
+title: COMAddIn object (Office)
 keywords: vbaof11.chm219000
 f1_keywords:
 - vbaof11.chm219000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn Object (Office)
+# COMAddIn object (Office)
 
 Represents a COM add-in in the Microsoft Office host application. The  **COMAddIn** object is a member of the **COMAddIns** collection.
 

@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Parent Property (Office)
+title: ODSOFilters.Parent property (Office)
 keywords: vbaof11.chm241002
 f1_keywords:
 - vbaof11.chm241002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Parent Property (Office)
+# ODSOFilters.Parent property (Office)
 
 Gets the  **Parent** object for the **ODSOFilters** object. Read-only.
 

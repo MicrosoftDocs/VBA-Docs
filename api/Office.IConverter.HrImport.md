@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrImport Method (Office)
+title: IConverter.HrImport method (Office)
 keywords: vbaof11.chm333003
 f1_keywords:
 - vbaof11.chm333003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrImport Method (Office)
+# IConverter.HrImport method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

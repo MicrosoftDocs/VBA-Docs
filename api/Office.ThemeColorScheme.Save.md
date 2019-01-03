@@ -1,5 +1,5 @@
 ---
-title: ThemeColorScheme.Save Method (Office)
+title: ThemeColorScheme.Save method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Save
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColorScheme.Save Method (Office)
+# ThemeColorScheme.Save method (Office)
 
 Saves the color scheme of a Microsoft Office theme to a file.
 

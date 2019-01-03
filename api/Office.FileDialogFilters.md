@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters Object (Office)
+title: FileDialogFilters object (Office)
 keywords: vbaof11.chm255000
 f1_keywords:
 - vbaof11.chm255000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters Object (Office)
+# FileDialogFilters object (Office)
 
 A collection of  **FileDialogFilter** objects that represent the types of files that can be selected in a file dialog box that is displayed using the **FileDialog** object.
 

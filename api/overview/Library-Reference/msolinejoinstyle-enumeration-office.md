@@ -1,12 +1,12 @@
 ---
-title: MsoLineJoinStyle Enumeration (Office)
+title: MsoLineJoinStyle enumeration (Office)
 ms.assetid: 87f2a42f-0ec4-51fa-2156-18a76a44296d
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# MsoLineJoinStyle Enumeration (Office)
+# MsoLineJoinStyle enumeration (Office)
 
 Specifies the type of join where two lines connect.
 

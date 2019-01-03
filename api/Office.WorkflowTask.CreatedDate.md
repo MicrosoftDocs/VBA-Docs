@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.CreatedDate Property (Office)
+title: WorkflowTask.CreatedDate property (Office)
 keywords: vbaof11.chm280009
 f1_keywords:
 - vbaof11.chm280009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.CreatedDate Property (Office)
+# WorkflowTask.CreatedDate property (Office)
 
 Gets the date that a workflow task was created. Read-only.
 

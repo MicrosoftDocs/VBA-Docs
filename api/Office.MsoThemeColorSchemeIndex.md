@@ -1,5 +1,5 @@
 ---
-title: MsoThemeColorSchemeIndex Enumeration (Office)
+title: MsoThemeColorSchemeIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoThemeColorSchemeIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoThemeColorSchemeIndex Enumeration (Office)
+# MsoThemeColorSchemeIndex enumeration (Office)
 
 Indicates the color scheme for an Office theme.
 

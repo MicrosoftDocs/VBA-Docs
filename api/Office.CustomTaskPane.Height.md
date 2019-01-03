@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Height Property (Office)
+title: CustomTaskPane.Height property (Office)
 keywords: vbaof11.chm301006
 f1_keywords:
 - vbaof11.chm301006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Height Property (Office)
+# CustomTaskPane.Height property (Office)
 
 Gets or sets the height of the  **CustomTaskPane** object (in points). Read/write.
 

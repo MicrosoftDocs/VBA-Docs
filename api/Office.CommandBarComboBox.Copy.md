@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Copy Method (Office)
+title: CommandBarComboBox.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Copy Method (Office)
+# CommandBarComboBox.Copy method (Office)
 
 Copies a command bar combo box control to an existing command bar.
 

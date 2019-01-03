@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMapping.NamespaceURI Property (Office)
+title: CustomXMLPrefixMapping.NamespaceURI property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.NamespaceURI
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMapping.NamespaceURI Property (Office)
+# CustomXMLPrefixMapping.NamespaceURI property (Office)
 
 Gets the unique address identifier for the namespace of the  **CustomXMLPrefixMapping** object. Read-only.
 

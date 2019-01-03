@@ -1,5 +1,5 @@
 ---
-title: CommandBars.DisplayKeysInTooltips Property (Office)
+title: CommandBars.DisplayKeysInTooltips property (Office)
 keywords: vbaof11.chm2006
 f1_keywords:
 - vbaof11.chm2006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.DisplayKeysInTooltips Property (Office)
+# CommandBars.DisplayKeysInTooltips property (Office)
 
 Is  **True** if shortcut keys are displayed in the **ToolTips** for each command bar control. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.SelectByID Method (Office)
+title: CustomXMLParts.SelectByID method (Office)
 keywords: vbaof11.chm298005
 f1_keywords:
 - vbaof11.chm298005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.SelectByID Method (Office)
+# CustomXMLParts.SelectByID method (Office)
 
 Selects a custom XML part matching a GUID. 
 

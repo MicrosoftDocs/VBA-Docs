@@ -1,5 +1,5 @@
 ---
-title: SignatureSet Object (Office)
+title: SignatureSet object (Office)
 keywords: vbaof11.chm247000
 f1_keywords:
 - vbaof11.chm247000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet Object (Office)
+# SignatureSet object (Office)
 
 A collection of  **Signature** objects that correspond to the digital signature attached to a document.
 

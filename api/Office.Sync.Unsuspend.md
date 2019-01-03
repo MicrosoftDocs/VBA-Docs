@@ -1,5 +1,5 @@
 ---
-title: Sync.Unsuspend Method (Office)
+title: Sync.Unsuspend method (Office)
 keywords: vbaof11.chm277011
 f1_keywords:
 - vbaof11.chm277011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.Unsuspend Method (Office)
+# Sync.Unsuspend method (Office)
 
 Resumes synchronization between the local copy and the server copy of a shared document.
 

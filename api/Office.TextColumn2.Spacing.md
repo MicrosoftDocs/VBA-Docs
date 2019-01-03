@@ -1,5 +1,5 @@
 ---
-title: TextColumn2.Spacing Property (Office)
+title: TextColumn2.Spacing property (Office)
 ms.prod: office
 api_name:
 - Office.TextColumn2.Spacing
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2.Spacing Property (Office)
+# TextColumn2.Spacing property (Office)
 
 Gets or sets the spacing between text columns in a  **TextColumn2** object. Read/write.
 

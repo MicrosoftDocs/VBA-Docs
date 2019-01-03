@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility.PublishPicture Method (Office)
+title: IBlogPictureExtensibility.PublishPicture method (Office)
 keywords: vbaof11.chm329003
 f1_keywords:
 - vbaof11.chm329003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility.PublishPicture Method (Office)
+# IBlogPictureExtensibility.PublishPicture method (Office)
 
 Used to post a picture object to its final destination in a blog.
 

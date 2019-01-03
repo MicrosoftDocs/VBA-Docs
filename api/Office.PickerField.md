@@ -1,5 +1,5 @@
 ---
-title: PickerField Object (Office)
+title: PickerField object (Office)
 keywords: vbaof11.chm334000
 f1_keywords:
 - vbaof11.chm334000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerField Object (Office)
+# PickerField object (Office)
 
 Represents the field definitions of sub-items in a  **PickerResult** object. Each **PickerField** object represents a column definition of a Picker dialog.
 

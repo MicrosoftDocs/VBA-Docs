@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Creator Property (Office)
+title: DocumentProperties.Creator property (Office)
 keywords: vbaof11.chm250018
 f1_keywords:
 - vbaof11.chm250018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Creator Property (Office)
+# DocumentProperties.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **DocumentProperties** object was created. Read-only.
 

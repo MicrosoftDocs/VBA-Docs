@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.Refresh Method (Office)
+title: SharedWorkspace.Refresh method (Office)
 keywords: vbaof11.chm276007
 f1_keywords:
 - vbaof11.chm276007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.Refresh Method (Office)
+# SharedWorkspace.Refresh method (Office)
 
 Refreshes the local cache of the [SharedWorkspace](Office.SharedWorkspace.md) object's files, folders, links, members, and tasks from the server.
 

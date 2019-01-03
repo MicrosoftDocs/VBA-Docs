@@ -1,5 +1,5 @@
 ---
-title: Signature.SignatureLineShape Property (Office)
+title: Signature.SignatureLineShape property (Office)
 keywords: vbaof11.chm248018
 f1_keywords:
 - vbaof11.chm248018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.SignatureLineShape Property (Office)
+# Signature.SignatureLineShape property (Office)
 
 Gets the  **Shape** object associated with a **Signature** object that is a signature line. Read-only.
 

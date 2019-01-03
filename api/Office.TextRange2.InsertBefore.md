@@ -1,5 +1,5 @@
 ---
-title: TextRange2.InsertBefore Method (Office)
+title: TextRange2.InsertBefore method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.InsertBefore
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.InsertBefore Method (Office)
+# TextRange2.InsertBefore method (Office)
 
 Inserts text to the left of the existing text in the  **TextRange2** object.
 

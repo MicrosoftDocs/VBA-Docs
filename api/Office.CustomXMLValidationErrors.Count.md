@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationErrors.Count Property (Office)
+title: CustomXMLValidationErrors.Count property (Office)
 keywords: vbaof11.chm308002
 f1_keywords:
 - vbaof11.chm308002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationErrors.Count Property (Office)
+# CustomXMLValidationErrors.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **CustomXMLValidationErrors** collection. Read-only.
 

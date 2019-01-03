@@ -1,5 +1,5 @@
 ---
-title: PolicyItem.Parent Property (Office)
+title: PolicyItem.Parent property (Office)
 keywords: vbaof11.chm278025
 f1_keywords:
 - vbaof11.chm278025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PolicyItem.Parent Property (Office)
+# PolicyItem.Parent property (Office)
 
 Gets the  **Parent** object for the **PolicyItem** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ThemeEffectScheme.Application Property (Office)
+title: ThemeEffectScheme.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeEffectScheme.Application Property (Office)
+# ThemeEffectScheme.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ThemeEffectScheme** object. Read-only.
 

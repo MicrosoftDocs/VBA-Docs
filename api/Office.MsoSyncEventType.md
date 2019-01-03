@@ -1,5 +1,5 @@
 ---
-title: MsoSyncEventType Enumeration (Office)
+title: MsoSyncEventType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSyncEventType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSyncEventType Enumeration (Office)
+# MsoSyncEventType enumeration (Office)
 
 Specifies the return value of a  **Sync** event. In Microsoft Word, used with the **Sync** event of the **Document** object or the **DocumentSync** event of the **Application** object. In Microsoft Excel, used with the **Sync** event of the **Workbook** object or the **WorkbookSync** event of the **Application** object. In Microsoft PowerPoint, used with the **PresentationSync** event of the **Application** object.
 

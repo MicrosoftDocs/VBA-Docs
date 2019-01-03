@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMember Object (Office)
+title: SharedWorkspaceMember object (Office)
 keywords: vbaof11.chm272000
 f1_keywords:
 - vbaof11.chm272000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMember Object (Office)
+# SharedWorkspaceMember object (Office)
 
 Represents a user who has rights in a shared document workspace site.
 

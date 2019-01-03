@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolder.Creator Property (Office)
+title: SharedWorkspaceFolder.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolder.Creator Property (Office)
+# SharedWorkspaceFolder.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SharedWorkspaceFolder** object was created. Read-only.
 

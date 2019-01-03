@@ -1,5 +1,5 @@
 ---
-title: PictureEffects.Insert Method (Office)
+title: PictureEffects.Insert method (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Insert
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects.Insert Method (Office)
+# PictureEffects.Insert method (Office)
 
 Inserts a Picture Effect in a chain of composite effects.
 

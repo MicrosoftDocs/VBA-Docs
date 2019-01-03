@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyles Object (Office)
+title: SmartArtQuickStyles object (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyles
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyles Object (Office)
+# SmartArtQuickStyles object (Office)
 
 Represents a collection of Smart Art quick styles.
 

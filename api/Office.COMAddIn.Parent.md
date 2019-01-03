@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.Parent Property (Office)
+title: COMAddIn.Parent property (Office)
 keywords: vbaof11.chm219009
 f1_keywords:
 - vbaof11.chm219009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.Parent Property (Office)
+# COMAddIn.Parent property (Office)
 
 Gets the  **Parent** object for the **COMAddIn** object. Read-only.
 

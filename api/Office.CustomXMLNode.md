@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode Object (Office)
+title: CustomXMLNode object (Office)
 keywords: vbaof11.chm294000
 f1_keywords:
 - vbaof11.chm294000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode Object (Office)
+# CustomXMLNode object (Office)
 
 Represents an XML node in a tree in a document. The  **CustomXMLNode** object is a member of the **CustomXMLNodes** collection.
 

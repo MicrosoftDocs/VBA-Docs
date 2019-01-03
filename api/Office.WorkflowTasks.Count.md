@@ -1,5 +1,5 @@
 ---
-title: WorkflowTasks.Count Property (Office)
+title: WorkflowTasks.Count property (Office)
 keywords: vbaof11.chm281002
 f1_keywords:
 - vbaof11.chm281002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTasks.Count Property (Office)
+# WorkflowTasks.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **WorkflowTasks** collection. Read-only.
 

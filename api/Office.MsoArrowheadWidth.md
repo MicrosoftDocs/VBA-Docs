@@ -1,5 +1,5 @@
 ---
-title: MsoArrowheadWidth Enumeration (Office)
+title: MsoArrowheadWidth enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoArrowheadWidth
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoArrowheadWidth Enumeration (Office)
+# MsoArrowheadWidth enumeration (Office)
 
 Specifies the width of the arrowhead at the end of a line.
 

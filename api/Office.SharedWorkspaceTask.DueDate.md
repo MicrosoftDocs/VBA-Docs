@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.DueDate Property (Office)
+title: SharedWorkspaceTask.DueDate property (Office)
 keywords: vbaof11.chm264006
 f1_keywords:
 - vbaof11.chm264006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.DueDate Property (Office)
+# SharedWorkspaceTask.DueDate property (Office)
 
 Gets or sets the optional due date and time of a  **SharedWorkspaceTask** object. Read/write.
 

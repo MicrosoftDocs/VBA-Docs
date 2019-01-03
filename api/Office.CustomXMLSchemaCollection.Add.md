@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.Add Method (Office)
+title: CustomXMLSchemaCollection.Add method (Office)
 keywords: vbaof11.chm292005
 f1_keywords:
 - vbaof11.chm292005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.Add Method (Office)
+# CustomXMLSchemaCollection.Add method (Office)
 
 Allows you to add one or more schemas to a schema collection that can then be added to a stream in the data store and to the Schema Library. 
 

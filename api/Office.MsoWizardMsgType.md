@@ -1,5 +1,5 @@
 ---
-title: MsoWizardMsgType Enumeration (Office)
+title: MsoWizardMsgType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoWizardMsgType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoWizardMsgType Enumeration (Office)
+# MsoWizardMsgType enumeration (Office)
 
 Specifies context under which a wizard's callback procedure is called. Used as an argument in a callback procedure designed for use with a custom wizard.
 

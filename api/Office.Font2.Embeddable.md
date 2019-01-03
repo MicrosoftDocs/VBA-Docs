@@ -1,5 +1,5 @@
 ---
-title: Font2.Embeddable Property (Office)
+title: Font2.Embeddable property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Embeddable
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Embeddable Property (Office)
+# Font2.Embeddable property (Office)
 
 Gets a value indicating whether the font can be embedded in a page. Read-only.
 

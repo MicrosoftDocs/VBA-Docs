@@ -1,5 +1,5 @@
 ---
-title: WebPageFonts.Item Property (Office)
+title: WebPageFonts.Item property (Office)
 keywords: vbaof11.chm225002
 f1_keywords:
 - vbaof11.chm225002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFonts.Item Property (Office)
+# WebPageFonts.Item property (Office)
 
 Gets a  **WebPageFont** object from the **WebPageFonts** collection for a particular value of **MsoCharacterSet**. Read-only.
 

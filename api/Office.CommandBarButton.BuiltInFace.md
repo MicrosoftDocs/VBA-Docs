@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.BuiltInFace Property (Office)
+title: CommandBarButton.BuiltInFace property (Office)
 keywords: vbaof11.chm6001
 f1_keywords:
 - vbaof11.chm6001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.BuiltInFace Property (Office)
+# CommandBarButton.BuiltInFace property (Office)
 
 Is  **True** if the face of a command bar button control is its original built-in face. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane Object (Office)
+title: CustomTaskPane object (Office)
 keywords: vbaof11.chm3030000
 f1_keywords:
 - vbaof11.chm3030000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane Object (Office)
+# CustomTaskPane object (Office)
 
 Represents a custom task pane in the container application.
 

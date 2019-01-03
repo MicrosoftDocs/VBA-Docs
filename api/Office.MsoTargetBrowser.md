@@ -1,5 +1,5 @@
 ---
-title: MsoTargetBrowser Enumeration (Office)
+title: MsoTargetBrowser enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoTargetBrowser
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoTargetBrowser Enumeration (Office)
+# MsoTargetBrowser enumeration (Office)
 
 Specifies target browser for documents viewed in a Web browser.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Reset Method (Office)
+title: CommandBarPopup.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Reset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Reset Method (Office)
+# CommandBarPopup.Reset method (Office)
 
 Resets a built-in  **CommandBarPopup** control to its original function and face.
 

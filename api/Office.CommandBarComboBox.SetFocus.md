@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.SetFocus Method (Office)
+title: CommandBarComboBox.SetFocus method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.SetFocus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.SetFocus Method (Office)
+# CommandBarComboBox.SetFocus method (Office)
 
 Moves the keyboard focus to the specified  **CommandBarComboBox** control. If the control is disabled or isn't visible, this method will fail.
 

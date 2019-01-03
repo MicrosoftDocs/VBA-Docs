@@ -1,5 +1,5 @@
 ---
-title: PickerFields.Count Property (Office)
+title: PickerFields.Count property (Office)
 ms.prod: office
 api_name:
 - Office.PickerFields.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerFields.Count Property (Office)
+# PickerFields.Count property (Office)
 
 Retrieves the count of the number of  **PickerField** objects contained within the **PickerFields** collection. Read-only
 

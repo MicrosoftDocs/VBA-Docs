@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.RemoveChild Method (Office)
+title: CustomXMLNode.RemoveChild method (Office)
 keywords: vbaof11.chm294025
 f1_keywords:
 - vbaof11.chm294025
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.RemoveChild Method (Office)
+# CustomXMLNode.RemoveChild method (Office)
 
 Removes the specified child node from the tree.
 

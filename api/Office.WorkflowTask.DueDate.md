@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.DueDate Property (Office)
+title: WorkflowTask.DueDate property (Office)
 keywords: vbaof11.chm280008
 f1_keywords:
 - vbaof11.chm280008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.DueDate Property (Office)
+# WorkflowTask.DueDate property (Office)
 
 Gets the date that a workflow task is due. Read-only.
 

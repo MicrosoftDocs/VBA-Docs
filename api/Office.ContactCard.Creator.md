@@ -1,5 +1,5 @@
 ---
-title: ContactCard.Creator Property (Office)
+title: ContactCard.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ContactCard.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ContactCard.Creator Property (Office)
+# ContactCard.Creator property (Office)
 
 Returns a  **Long** that indicates the application in which the **ContactCard** object was created. Read-only.
 

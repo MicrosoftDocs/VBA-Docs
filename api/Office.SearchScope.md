@@ -1,5 +1,5 @@
 ---
-title: SearchScope Object (Office)
+title: SearchScope object (Office)
 keywords: vbaof11.chm251000
 f1_keywords:
 - vbaof11.chm251000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScope Object (Office)
+# SearchScope object (Office)
 
 Corresponds to a type of folder tree that can be searched.
 

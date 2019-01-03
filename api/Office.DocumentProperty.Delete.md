@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.Delete Method (Office)
+title: DocumentProperty.Delete method (Office)
 keywords: vbaof11.chm250004
 f1_keywords:
 - vbaof11.chm250004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.Delete Method (Office)
+# DocumentProperty.Delete method (Office)
 
 Removes a custom document property.
 

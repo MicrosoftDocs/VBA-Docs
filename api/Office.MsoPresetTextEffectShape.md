@@ -1,5 +1,5 @@
 ---
-title: MsoPresetTextEffectShape Enumeration (Office)
+title: MsoPresetTextEffectShape enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetTextEffectShape
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetTextEffectShape Enumeration (Office)
+# MsoPresetTextEffectShape enumeration (Office)
 
 Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting  **WordArt Shape** in the **WordArt** toolbar.
 

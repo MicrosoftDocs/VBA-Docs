@@ -1,5 +1,5 @@
 ---
-title: TextColumn2.TextDirection Property (Office)
+title: TextColumn2.TextDirection property (Office)
 ms.prod: office
 api_name:
 - Office.TextColumn2.TextDirection
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2.TextDirection Property (Office)
+# TextColumn2.TextDirection property (Office)
 
 Gets or sets the direction of text in the  **TextColumn2** object. Read/write.
 

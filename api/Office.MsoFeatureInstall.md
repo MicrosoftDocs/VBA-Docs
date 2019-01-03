@@ -1,5 +1,5 @@
 ---
-title: MsoFeatureInstall Enumeration (Office)
+title: MsoFeatureInstall enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFeatureInstall
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFeatureInstall Enumeration (Office)
+# MsoFeatureInstall enumeration (Office)
 
 Specifies how the application handles calls to methods and properties that require features not yet installed.
 

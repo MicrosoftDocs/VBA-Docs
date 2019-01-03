@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection.Validate Method (Office)
+title: CustomXMLSchemaCollection.Validate method (Office)
 keywords: vbaof11.chm292007
 f1_keywords:
 - vbaof11.chm292007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection.Validate Method (Office)
+# CustomXMLSchemaCollection.Validate method (Office)
 
 Specifies whether the schemas in a schema collection are valid (conforms to the syntactic rules of XML and the rules for a specified vocabulary; a standard for structuring XML).
 

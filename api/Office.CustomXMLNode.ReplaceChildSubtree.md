@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.ReplaceChildSubtree Method (Office)
+title: CustomXMLNode.ReplaceChildSubtree method (Office)
 keywords: vbaof11.chm294027
 f1_keywords:
 - vbaof11.chm294027
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.ReplaceChildSubtree Method (Office)
+# CustomXMLNode.ReplaceChildSubtree method (Office)
 
 Removes the specified node (and its subtree) from the main tree, and replaces it with a different subtree in the same location.
 

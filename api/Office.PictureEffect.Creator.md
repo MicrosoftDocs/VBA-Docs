@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.Creator Property (Office)
+title: PictureEffect.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.Creator Property (Office)
+# PictureEffect.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **PictureEffect** object was created. Read-only
 

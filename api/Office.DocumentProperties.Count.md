@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Count Property (Office)
+title: DocumentProperties.Count property (Office)
 keywords: vbaof11.chm250013
 f1_keywords:
 - vbaof11.chm250013
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Count Property (Office)
+# DocumentProperties.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **DocumentProperties** collection. Read-only.
 

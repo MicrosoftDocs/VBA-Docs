@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Layout Property (Office)
+title: SmartArt.Layout property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Layout
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Layout Property (Office)
+# SmartArt.Layout property (Office)
 
 Retrieves or sets the Smart Art layout associated with the Smart Art graphic. Read/write
 

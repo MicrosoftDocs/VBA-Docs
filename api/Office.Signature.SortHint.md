@@ -1,5 +1,5 @@
 ---
-title: Signature.SortHint Property (Office)
+title: Signature.SortHint property (Office)
 keywords: vbaof11.chm248019
 f1_keywords:
 - vbaof11.chm248019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.SortHint Property (Office)
+# Signature.SortHint property (Office)
 
 Gets a value representing the sort order of the signatures in a packet with multiple signatures. Read-only.
 

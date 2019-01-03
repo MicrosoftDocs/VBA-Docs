@@ -1,5 +1,5 @@
 ---
-title: MsoShapeStyleIndex Enumeration (Office)
+title: MsoShapeStyleIndex enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoShapeStyleIndex
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoShapeStyleIndex Enumeration (Office)
+# MsoShapeStyleIndex enumeration (Office)
 
 Indicates the line and shape style.
 

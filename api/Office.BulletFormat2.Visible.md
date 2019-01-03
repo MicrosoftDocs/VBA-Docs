@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Visible Property (Office)
+title: BulletFormat2.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Visible Property (Office)
+# BulletFormat2.Visible property (Office)
 
 Gets or sets a value that specifies whether the bullet is visible. Read/write.
 

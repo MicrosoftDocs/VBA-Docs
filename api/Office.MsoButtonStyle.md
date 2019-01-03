@@ -1,5 +1,5 @@
 ---
-title: MsoButtonStyle Enumeration (Office)
+title: MsoButtonStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoButtonStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoButtonStyle Enumeration (Office)
+# MsoButtonStyle enumeration (Office)
 
 Specifies the style of a command bar button.
 

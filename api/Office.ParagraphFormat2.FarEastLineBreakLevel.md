@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.FarEastLineBreakLevel Property (Office)
+title: ParagraphFormat2.FarEastLineBreakLevel property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.FarEastLineBreakLevel
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.FarEastLineBreakLevel Property (Office)
+# ParagraphFormat2.FarEastLineBreakLevel property (Office)
 
 Gets or sets the East Asian line break control level for the specified paragraph. Read/write.
 

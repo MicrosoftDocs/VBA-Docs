@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.AdditionalXml Property (Office)
+title: SignatureSetup.AdditionalXml property (Office)
 keywords: vbaof11.chm285010
 f1_keywords:
 - vbaof11.chm285010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.AdditionalXml Property (Office)
+# SignatureSetup.AdditionalXml property (Office)
 
 Gets or sets any additional XML information added to the signature during setup. Read/write.
 

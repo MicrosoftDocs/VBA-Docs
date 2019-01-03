@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFiles.Count Property (Office)
+title: SharedWorkspaceFiles.Count property (Office)
 keywords: vbaof11.chm267002
 f1_keywords:
 - vbaof11.chm267002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFiles.Count Property (Office)
+# SharedWorkspaceFiles.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SharedWorkspaceFiles** collection. Read-only.
 

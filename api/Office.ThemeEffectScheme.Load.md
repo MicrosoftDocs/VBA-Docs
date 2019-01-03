@@ -1,5 +1,5 @@
 ---
-title: ThemeEffectScheme.Load Method (Office)
+title: ThemeEffectScheme.Load method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Load
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeEffectScheme.Load Method (Office)
+# ThemeEffectScheme.Load method (Office)
 
 Loads the effects scheme of a Microsoft Office theme from a file.
 

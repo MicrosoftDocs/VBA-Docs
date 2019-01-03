@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.ReadOnly Property (Office)
+title: SignatureInfo.ReadOnly property (Office)
 keywords: vbaof11.chm286001
 f1_keywords:
 - vbaof11.chm286001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.ReadOnly Property (Office)
+# SignatureInfo.ReadOnly property (Office)
 
 Gets a  **Boolean** value indicating whether the **SignatureInfo** object is read-only. Read-only.
 

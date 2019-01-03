@@ -1,5 +1,5 @@
 ---
-title: MsoEditingType Enumeration (Office)
+title: MsoEditingType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoEditingType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEditingType Enumeration (Office)
+# MsoEditingType enumeration (Office)
 
 Specifies the editing type of a node.
 

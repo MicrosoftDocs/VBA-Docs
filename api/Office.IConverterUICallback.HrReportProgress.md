@@ -1,5 +1,5 @@
 ---
-title: IConverterUICallback.HrReportProgress Method (Office)
+title: IConverterUICallback.HrReportProgress method (Office)
 keywords: vbaof11.chm332001
 f1_keywords:
 - vbaof11.chm332001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterUICallback.HrReportProgress Method (Office)
+# IConverterUICallback.HrReportProgress method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

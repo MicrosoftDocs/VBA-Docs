@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks Object (Office)
+title: SharedWorkspaceLinks object (Office)
 keywords: vbaof11.chm271000
 f1_keywords:
 - vbaof11.chm271000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLinks Object (Office)
+# SharedWorkspaceLinks object (Office)
 
 A collection of the  **[SharedWorkspaceLink](Office.SharedWorkspaceLink.md)** objects in the current shared workspace.
 

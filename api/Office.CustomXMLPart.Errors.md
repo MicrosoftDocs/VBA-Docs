@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Errors Property (Office)
+title: CustomXMLPart.Errors property (Office)
 keywords: vbaof11.chm295014
 f1_keywords:
 - vbaof11.chm295014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Errors Property (Office)
+# CustomXMLPart.Errors property (Office)
 
 Gets a  **CustomXMLValidationErrors** object that provides access to any XML validation errors, if any exists. If no validation errors exist, this property returns **Nothing**. Read-only.
 

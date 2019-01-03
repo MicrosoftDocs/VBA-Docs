@@ -1,5 +1,5 @@
 ---
-title: ThemeFontScheme.Load Method (Office)
+title: ThemeFontScheme.Load method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Load
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFontScheme.Load Method (Office)
+# ThemeFontScheme.Load method (Office)
 
 Loads the font scheme of a Microsoft Office theme from a file.
 

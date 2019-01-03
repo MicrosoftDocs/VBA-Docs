@@ -1,5 +1,5 @@
 ---
-title: IConverterUICallback.HrMessageBox Method (Office)
+title: IConverterUICallback.HrMessageBox method (Office)
 keywords: vbaof11.chm332002
 f1_keywords:
 - vbaof11.chm332002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterUICallback.HrMessageBox Method (Office)
+# IConverterUICallback.HrMessageBox method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

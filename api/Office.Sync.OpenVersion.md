@@ -1,5 +1,5 @@
 ---
-title: Sync.OpenVersion Method (Office)
+title: Sync.OpenVersion method (Office)
 keywords: vbaof11.chm277009
 f1_keywords:
 - vbaof11.chm277009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.OpenVersion Method (Office)
+# Sync.OpenVersion method (Office)
 
 Opens a different version of the shared document alongside the currently open local version.
 

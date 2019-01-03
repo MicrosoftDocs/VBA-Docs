@@ -1,5 +1,5 @@
 ---
-title: IRibbonUI.Invalidate Method (Office)
+title: IRibbonUI.Invalidate method (Office)
 keywords: vbaof11.chm320001
 f1_keywords:
 - vbaof11.chm320001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IRibbonUI.Invalidate Method (Office)
+# IRibbonUI.Invalidate method (Office)
 
 Invalidates the cached values for all of the controls of the Ribbon user interface.
 

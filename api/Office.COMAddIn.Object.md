@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.Object Property (Office)
+title: COMAddIn.Object property (Office)
 keywords: vbaof11.chm219007
 f1_keywords:
 - vbaof11.chm219007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.Object Property (Office)
+# COMAddIn.Object property (Office)
 
 Gets or sets an object reference. Read/write.
 

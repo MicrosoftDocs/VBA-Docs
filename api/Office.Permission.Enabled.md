@@ -1,5 +1,5 @@
 ---
-title: Permission.Enabled Property (Office)
+title: Permission.Enabled property (Office)
 keywords: vbaof11.chm261008
 f1_keywords:
 - vbaof11.chm261008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.Enabled Property (Office)
+# Permission.Enabled property (Office)
 
 Gets or sets a  **Boolean** value that indicates whether permissions are enabled on the active document. Read/write.
 

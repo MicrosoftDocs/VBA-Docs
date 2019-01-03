@@ -1,5 +1,5 @@
 ---
-title: WebPageFont.ProportionalFont Property (Office)
+title: WebPageFont.ProportionalFont property (Office)
 keywords: vbaof11.chm224001
 f1_keywords:
 - vbaof11.chm224001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFont.ProportionalFont Property (Office)
+# WebPageFont.ProportionalFont property (Office)
 
 Sets or gets the proportional font setting in the host application. Read/write.
 

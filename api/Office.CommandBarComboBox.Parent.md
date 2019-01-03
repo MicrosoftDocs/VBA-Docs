@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Parent Property (Office)
+title: CommandBarComboBox.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Parent Property (Office)
+# CommandBarComboBox.Parent property (Office)
 
 Gets the  **Parent** object for the **CommandBarComboBox** object. Read-only.
 

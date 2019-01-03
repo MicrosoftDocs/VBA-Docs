@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Delete Method (Office)
+title: SharedWorkspaceTask.Delete method (Office)
 keywords: vbaof11.chm263012
 f1_keywords:
 - vbaof11.chm263012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Delete Method (Office)
+# SharedWorkspaceTask.Delete method (Office)
 
 Deletes the current  **SharedWorkspaceTask** object.
 

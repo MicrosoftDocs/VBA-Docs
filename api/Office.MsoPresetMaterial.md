@@ -1,5 +1,5 @@
 ---
-title: MsoPresetMaterial Enumeration (Office)
+title: MsoPresetMaterial enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPresetMaterial
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPresetMaterial Enumeration (Office)
+# MsoPresetMaterial enumeration (Office)
 
 Specifies the extrusion surface material. Used with the  **PresetMaterial** property of the **ThreeDFormat** object.
 

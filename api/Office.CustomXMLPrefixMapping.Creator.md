@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPrefixMapping.Creator Property (Office)
+title: CustomXMLPrefixMapping.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPrefixMapping.Creator Property (Office)
+# CustomXMLPrefixMapping.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLPrefixMapping** object was created. Read-only.
 

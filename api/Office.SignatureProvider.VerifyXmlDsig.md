@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.VerifyXmlDsig Method (Office)
+title: SignatureProvider.VerifyXmlDsig method (Office)
 keywords: vbaof11.chm287006
 f1_keywords:
 - vbaof11.chm287006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.VerifyXmlDsig Method (Office)
+# SignatureProvider.VerifyXmlDsig method (Office)
 
 Verifies a signature based on the signed state of the document and the legitimacy of the certificate used for signing.
 

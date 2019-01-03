@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.LineRuleAfter Property (Office)
+title: ParagraphFormat2.LineRuleAfter property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.LineRuleAfter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.LineRuleAfter Property (Office)
+# ParagraphFormat2.LineRuleAfter property (Office)
 
 Determines whether line spacing after the last line in each paragraph is set to a specific number of points or lines. Read/write.
 

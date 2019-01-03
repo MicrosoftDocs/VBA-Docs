@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.ReorderDown Method (Office)
+title: SmartArtNode.ReorderDown method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.ReorderDown
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.ReorderDown Method (Office)
+# SmartArtNode.ReorderDown method (Office)
 
 Swaps a node with the next node in the bulleted list. This method reorder's the nodes entire family.
 

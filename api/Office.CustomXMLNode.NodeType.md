@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.NodeType Property (Office)
+title: CustomXMLNode.NodeType property (Office)
 keywords: vbaof11.chm294009
 f1_keywords:
 - vbaof11.chm294009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.NodeType Property (Office)
+# CustomXMLNode.NodeType property (Office)
 
 Gets the type of the current node. Read-only.
 

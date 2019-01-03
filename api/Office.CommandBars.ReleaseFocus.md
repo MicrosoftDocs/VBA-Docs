@@ -1,5 +1,5 @@
 ---
-title: CommandBars.ReleaseFocus Method (Office)
+title: CommandBars.ReleaseFocus method (Office)
 keywords: vbaof11.chm2012
 f1_keywords:
 - vbaof11.chm2012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.ReleaseFocus Method (Office)
+# CommandBars.ReleaseFocus method (Office)
 
 Releases the user interface focus from all command bars.
 

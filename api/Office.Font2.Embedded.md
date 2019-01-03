@@ -1,5 +1,5 @@
 ---
-title: Font2.Embedded Property (Office)
+title: Font2.Embedded property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Embedded
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Embedded Property (Office)
+# Font2.Embedded property (Office)
 
 Gets a value specifying whether the font is embedded in a page. Read-only.
 

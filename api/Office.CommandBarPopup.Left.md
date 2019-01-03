@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Left Property (Office)
+title: CommandBarPopup.Left property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Left
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Left Property (Office)
+# CommandBarPopup.Left property (Office)
 
 Gets the horizontal position of the specified  **CommandBarPopup** control (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.
 

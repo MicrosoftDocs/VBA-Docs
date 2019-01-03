@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.HelpContextId Property (Office)
+title: CommandBarComboBox.HelpContextId property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.HelpContextId
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.HelpContextId Property (Office)
+# CommandBarComboBox.HelpContextId property (Office)
 
 Gets or sets the Help context Id number for the Help topic attached to the  **CommandBarComboBox** control. Read/write.
 

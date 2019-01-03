@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.Columns Property (Office)
+title: OfficeDataSourceObject.Columns property (Office)
 keywords: vbaof11.chm232004
 f1_keywords:
 - vbaof11.chm232004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.Columns Property (Office)
+# OfficeDataSourceObject.Columns property (Office)
 
 Gets an  **ODSOColumns** object that represents the fields in a data source. Read-only.
 

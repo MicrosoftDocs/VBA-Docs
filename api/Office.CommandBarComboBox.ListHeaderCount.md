@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.ListHeaderCount Property (Office)
+title: CommandBarComboBox.ListHeaderCount property (Office)
 keywords: vbaof11.chm8007
 f1_keywords:
 - vbaof11.chm8007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.ListHeaderCount Property (Office)
+# CommandBarComboBox.ListHeaderCount property (Office)
 
 Gets or sets the number of list items in a  **CommandBarComboBox** control that appears above the separator line. Read/write.
 

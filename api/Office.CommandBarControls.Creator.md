@@ -1,5 +1,5 @@
 ---
-title: CommandBarControls.Creator Property (Office)
+title: CommandBarControls.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControls.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControls.Creator Property (Office)
+# CommandBarControls.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CommandBarControls** object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Mask Property (Office)
+title: CommandBarButton.Mask property (Office)
 keywords: vbaof11.chm6010
 f1_keywords:
 - vbaof11.chm6010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Mask Property (Office)
+# CommandBarButton.Mask property (Office)
 
 Gets or sets an  **IPictureDisp** object representing the mask image of a **CommandBarButton** object. The mask image determines what parts of the button image are transparent. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: PickerResult.ItemData Property (Office)
+title: PickerResult.ItemData property (Office)
 keywords: vbaof11.chm338005
 f1_keywords:
 - vbaof11.chm338005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.ItemData Property (Office)
+# PickerResult.ItemData property (Office)
 
 Gets or sets a non-display purpose item binding to data. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Application Property (Office)
+title: CustomXMLSchema.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLSchema.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Application Property (Office)
+# CustomXMLSchema.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLSchema** object. Read-only.
 

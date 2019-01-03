@@ -1,5 +1,5 @@
 ---
-title: PictureEffects.Delete Method (Office)
+title: PictureEffects.Delete method (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects.Delete
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects.Delete Method (Office)
+# PictureEffects.Delete method (Office)
 
 Deletes a  **PictureEffect** object from the collection.
 

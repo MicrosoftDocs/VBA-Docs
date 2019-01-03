@@ -1,5 +1,5 @@
 ---
-title: TabStop2.Application Property (Office)
+title: TabStop2.Application property (Office)
 ms.prod: office
 api_name:
 - Office.TabStop2.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStop2.Application Property (Office)
+# TabStop2.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **TabStop2** object. Read-only.
 

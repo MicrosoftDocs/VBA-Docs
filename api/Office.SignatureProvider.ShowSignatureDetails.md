@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.ShowSignatureDetails Method (Office)
+title: SignatureProvider.ShowSignatureDetails method (Office)
 keywords: vbaof11.chm287007
 f1_keywords:
 - vbaof11.chm287007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.ShowSignatureDetails Method (Office)
+# SignatureProvider.ShowSignatureDetails method (Office)
 
 Provides a signature povider add-in the opportunity to display details about a signed signature line and display additional stored information such as a secure time-stamp.
 

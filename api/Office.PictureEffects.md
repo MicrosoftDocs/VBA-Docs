@@ -1,5 +1,5 @@
 ---
-title: PictureEffects Object (Office)
+title: PictureEffects object (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffects
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffects Object (Office)
+# PictureEffects object (Office)
 
 Represents a collection of  **PictureEffects** objects.
 

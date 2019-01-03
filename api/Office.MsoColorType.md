@@ -1,5 +1,5 @@
 ---
-title: MsoColorType Enumeration (Office)
+title: MsoColorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoColorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoColorType Enumeration (Office)
+# MsoColorType enumeration (Office)
 
 Specifies the color type.
 

@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Picture Method (Office)
+title: BulletFormat2.Picture method (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Picture
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Picture Method (Office)
+# BulletFormat2.Picture method (Office)
 
 Sets the graphics file to be used for bullets in a bulleted list.
 

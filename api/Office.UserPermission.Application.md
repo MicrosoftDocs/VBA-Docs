@@ -1,5 +1,5 @@
 ---
-title: UserPermission.Application Property (Office)
+title: UserPermission.Application property (Office)
 ms.prod: office
 api_name:
 - Office.UserPermission.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.Application Property (Office)
+# UserPermission.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **UserPermission** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

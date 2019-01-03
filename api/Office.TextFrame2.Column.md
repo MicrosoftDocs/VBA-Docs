@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.Column Property (Office)
+title: TextFrame2.Column property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.Column
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.Column Property (Office)
+# TextFrame2.Column property (Office)
 
 Returns the  **Column** object that represents the columns of the specified text frame. Read-only
 

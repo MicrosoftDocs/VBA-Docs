@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.AppendChildNode Method (Office)
+title: CustomXMLNode.AppendChildNode method (Office)
 keywords: vbaof11.chm294019
 f1_keywords:
 - vbaof11.chm294019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.AppendChildNode Method (Office)
+# CustomXMLNode.AppendChildNode method (Office)
 
 Appends a single node as the last child under the context element node in the tree. 
 

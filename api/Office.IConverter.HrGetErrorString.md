@@ -1,5 +1,5 @@
 ---
-title: IConverter.HrGetErrorString Method (Office)
+title: IConverter.HrGetErrorString method (Office)
 keywords: vbaof11.chm333006
 f1_keywords:
 - vbaof11.chm333006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverter.HrGetErrorString Method (Office)
+# IConverter.HrGetErrorString method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceTask.Priority Property (Office)
+title: SharedWorkspaceTask.Priority property (Office)
 keywords: vbaof11.chm264004
 f1_keywords:
 - vbaof11.chm264004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceTask.Priority Property (Office)
+# SharedWorkspaceTask.Priority property (Office)
 
 Gets or sets the status of the specified shared workspace task. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.SpaceBefore Property (Office)
+title: ParagraphFormat2.SpaceBefore property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.SpaceBefore
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.SpaceBefore Property (Office)
+# ParagraphFormat2.SpaceBefore property (Office)
 
 Gets or sets the spacing (in points) before the specified paragraphs. Read/write.
 

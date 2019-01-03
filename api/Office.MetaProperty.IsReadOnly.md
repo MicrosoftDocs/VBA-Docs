@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.IsReadOnly Property (Office)
+title: MetaProperty.IsReadOnly property (Office)
 keywords: vbaof11.chm275004
 f1_keywords:
 - vbaof11.chm275004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.IsReadOnly Property (Office)
+# MetaProperty.IsReadOnly property (Office)
 
 Gets a  **Boolean** value that specifies whether the meta property is read-only. Read-only.
 

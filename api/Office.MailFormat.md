@@ -1,5 +1,5 @@
 ---
-title: MailFormat Enumeration (Office)
+title: MailFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MailFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MailFormat Enumeration (Office)
+# MailFormat enumeration (Office)
 
 Specifies how the body of the email is displayed.
 

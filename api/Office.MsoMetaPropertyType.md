@@ -1,5 +1,5 @@
 ---
-title: MsoMetaPropertyType Enumeration (Office)
+title: MsoMetaPropertyType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoMetaPropertyType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoMetaPropertyType Enumeration (Office)
+# MsoMetaPropertyType enumeration (Office)
 
 Specifies the metadata property type.
 

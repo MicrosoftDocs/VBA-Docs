@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.SchemaCollection Property (Office)
+title: CustomXMLPart.SchemaCollection property (Office)
 keywords: vbaof11.chm295005
 f1_keywords:
 - vbaof11.chm295005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.SchemaCollection Property (Office)
+# CustomXMLPart.SchemaCollection property (Office)
 
 Gets or sets a  **CustomXMLSchemaCollection** object representing the set of schemas attached to a bound region of data in a document. Read/write.
 

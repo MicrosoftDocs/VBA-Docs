@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.HelpFile Property (Office)
+title: CommandBarControl.HelpFile property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.HelpFile
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.HelpFile Property (Office)
+# CommandBarControl.HelpFile property (Office)
 
 Gets or sets the file name for the Help topic attached to the  **CommandBarControl**. Read/write.
 

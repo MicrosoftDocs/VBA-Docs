@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Statement Property (Office)
+title: ServerPolicy.Statement property (Office)
 keywords: vbaof11.chm278014
 f1_keywords:
 - vbaof11.chm278014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Statement Property (Office)
+# ServerPolicy.Statement property (Office)
 
 Gets the information specified in the Policy Statement. Read-only.
 

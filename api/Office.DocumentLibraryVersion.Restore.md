@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Restore Method (Office)
+title: DocumentLibraryVersion.Restore method (Office)
 keywords: vbaof11.chm277024
 f1_keywords:
 - vbaof11.chm277024
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Restore Method (Office)
+# DocumentLibraryVersion.Restore method (Office)
 
 Restores a previous saved version of a shared document from the  **DocumentLibraryVersions** collection.
 

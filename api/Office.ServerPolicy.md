@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy Object (Office)
+title: ServerPolicy object (Office)
 keywords: vbaof11.chm278010
 f1_keywords:
 - vbaof11.chm278010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy Object (Office)
+# ServerPolicy object (Office)
 
 Represents a policy specified for a document type stored on a server running Microsoft Office SharePoint Server.
 

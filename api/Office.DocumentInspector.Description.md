@@ -1,5 +1,5 @@
 ---
-title: DocumentInspector.Description Property (Office)
+title: DocumentInspector.Description property (Office)
 keywords: vbaof11.chm279002
 f1_keywords:
 - vbaof11.chm279002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspector.Description Property (Office)
+# DocumentInspector.Description property (Office)
 
 Gets the description of the  **DocumentInspector** object. Read-only.
 

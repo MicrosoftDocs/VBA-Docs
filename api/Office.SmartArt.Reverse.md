@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Reverse Property (Office)
+title: SmartArt.Reverse property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Reverse
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Reverse Property (Office)
+# SmartArt.Reverse property (Office)
 
 Gets or sets the state of the SmartArt diagram with regard to (left-to-right) LTR or (right-to-left) RTL, if the diagram supports reversal. Read/write
 

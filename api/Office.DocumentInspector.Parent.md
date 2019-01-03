@@ -1,5 +1,5 @@
 ---
-title: DocumentInspector.Parent Property (Office)
+title: DocumentInspector.Parent property (Office)
 keywords: vbaof11.chm279005
 f1_keywords:
 - vbaof11.chm279005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentInspector.Parent Property (Office)
+# DocumentInspector.Parent property (Office)
 
 Gets an object that represents the parent of the  **DocumentInspector** object. Read-only.
 

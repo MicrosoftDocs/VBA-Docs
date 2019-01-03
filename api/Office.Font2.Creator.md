@@ -1,5 +1,5 @@
 ---
-title: Font2.Creator Property (Office)
+title: Font2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Creator Property (Office)
+# Font2.Creator property (Office)
 
 Gets a value indicating the application the object was created in. Read-only.
 

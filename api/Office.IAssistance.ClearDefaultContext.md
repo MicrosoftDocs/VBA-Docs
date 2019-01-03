@@ -1,5 +1,5 @@
 ---
-title: IAssistance.ClearDefaultContext Method (Office)
+title: IAssistance.ClearDefaultContext method (Office)
 keywords: vbaof11.chm326004
 f1_keywords:
 - vbaof11.chm326004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IAssistance.ClearDefaultContext Method (Office)
+# IAssistance.ClearDefaultContext method (Office)
 
 Clears the default help topic previously defined in the  **SetDefaultContext** method.
 

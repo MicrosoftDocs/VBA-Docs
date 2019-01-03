@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Picture Property (Office)
+title: CommandBarButton.Picture property (Office)
 keywords: vbaof11.chm6009
 f1_keywords:
 - vbaof11.chm6009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Picture Property (Office)
+# CommandBarButton.Picture property (Office)
 
 Gets or sets an  **IPictureDisp** object representing the image of a **CommandBarButton** object. Read/write.
 

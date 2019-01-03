@@ -1,5 +1,5 @@
 ---
-title: Permission.PermissionFromPolicy Property (Office)
+title: Permission.PermissionFromPolicy property (Office)
 keywords: vbaof11.chm261014
 f1_keywords:
 - vbaof11.chm261014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.PermissionFromPolicy Property (Office)
+# Permission.PermissionFromPolicy property (Office)
 
 Gets a  **Boolean** value that indicates whether a permission policy has been applied to the active document. Read-only.
 

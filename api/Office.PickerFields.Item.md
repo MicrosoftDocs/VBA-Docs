@@ -1,5 +1,5 @@
 ---
-title: PickerFields.Item Property (Office)
+title: PickerFields.Item property (Office)
 ms.prod: office
 api_name:
 - Office.PickerFields.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerFields.Item Property (Office)
+# PickerFields.Item property (Office)
 
 Retrieves a  **PickerField** object at the specified index. Read-only
 

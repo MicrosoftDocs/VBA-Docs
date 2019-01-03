@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SignatureImage Property (Office)
+title: SignatureInfo.SignatureImage property (Office)
 keywords: vbaof11.chm286004
 f1_keywords:
 - vbaof11.chm286004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SignatureImage Property (Office)
+# SignatureInfo.SignatureImage property (Office)
 
 Gets or sets the value of the image used to sign the document. Read/write.
 

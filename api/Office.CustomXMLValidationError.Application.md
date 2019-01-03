@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Application Property (Office)
+title: CustomXMLValidationError.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLValidationError.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Application Property (Office)
+# CustomXMLValidationError.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLValidationError** object. Read-only.
 

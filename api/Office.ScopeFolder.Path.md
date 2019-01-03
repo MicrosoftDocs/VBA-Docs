@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.Path Property (Office)
+title: ScopeFolder.Path property (Office)
 keywords: vbaof11.chm259002
 f1_keywords:
 - vbaof11.chm259002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder.Path Property (Office)
+# ScopeFolder.Path property (Office)
 
 Gets a  **String** indicating the full path of a **ScopeFolder** object. Read-only.
 

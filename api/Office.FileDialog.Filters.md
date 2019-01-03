@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Filters Property (Office)
+title: FileDialog.Filters property (Office)
 keywords: vbaof11.chm256002
 f1_keywords:
 - vbaof11.chm256002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Filters Property (Office)
+# FileDialog.Filters property (Office)
 
 Gets a  **FileDialogFilters** collection. Read-only.
 

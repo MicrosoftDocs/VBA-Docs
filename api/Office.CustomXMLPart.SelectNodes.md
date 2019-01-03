@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.SelectNodes Method (Office)
+title: CustomXMLPart.SelectNodes method (Office)
 keywords: vbaof11.chm295012
 f1_keywords:
 - vbaof11.chm295012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.SelectNodes Method (Office)
+# CustomXMLPart.SelectNodes method (Office)
 
 Selects a collection of nodes from a custom XML part.
 

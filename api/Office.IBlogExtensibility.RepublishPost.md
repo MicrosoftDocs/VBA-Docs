@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.RepublishPost Method (Office)
+title: IBlogExtensibility.RepublishPost method (Office)
 keywords: vbaof11.chm328007
 f1_keywords:
 - vbaof11.chm328007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.RepublishPost Method (Office)
+# IBlogExtensibility.RepublishPost method (Office)
 
 Hands off the current post so it can be republished by the provider.
 

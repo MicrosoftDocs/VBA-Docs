@@ -1,5 +1,5 @@
 ---
-title: SmartArtNodes.Count Property (Office)
+title: SmartArtNodes.Count property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNodes.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNodes.Count Property (Office)
+# SmartArtNodes.Count property (Office)
 
 Retrieves the number of  **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only
 

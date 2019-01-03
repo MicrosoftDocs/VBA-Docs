@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Id Property (Office)
+title: ServerPolicy.Id property (Office)
 keywords: vbaof11.chm278011
 f1_keywords:
 - vbaof11.chm278011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Id Property (Office)
+# ServerPolicy.Id property (Office)
 
 Gets the ID of a server policy. Read-only.
 

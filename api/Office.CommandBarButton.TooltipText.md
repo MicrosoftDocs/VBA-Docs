@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.TooltipText Property (Office)
+title: CommandBarButton.TooltipText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.TooltipText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.TooltipText Property (Office)
+# CommandBarButton.TooltipText property (Office)
 
 Gets or sets the text displayed in a  **CommandBarButton's** **ScreenTip**. Read/write.
 

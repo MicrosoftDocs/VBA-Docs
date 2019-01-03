@@ -1,5 +1,5 @@
 ---
-title: SignatureInfo.SignatureText Property (Office)
+title: SignatureInfo.SignatureText property (Office)
 keywords: vbaof11.chm286003
 f1_keywords:
 - vbaof11.chm286003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureInfo.SignatureText Property (Office)
+# SignatureInfo.SignatureText property (Office)
 
 Gets or sets the value of the signature text used to sign this document. Read/write.
 

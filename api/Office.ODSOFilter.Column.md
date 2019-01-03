@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.Column Property (Office)
+title: ODSOFilter.Column property (Office)
 keywords: vbaof11.chm240003
 f1_keywords:
 - vbaof11.chm240003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.Column Property (Office)
+# ODSOFilter.Column property (Office)
 
 Gets or sets a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SearchScopes Object (Office)
+title: SearchScopes object (Office)
 keywords: vbaof11.chm252000
 f1_keywords:
 - vbaof11.chm252000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScopes Object (Office)
+# SearchScopes object (Office)
 
 A collection of  **SearchScope** objects.
 

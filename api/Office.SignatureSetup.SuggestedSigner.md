@@ -1,5 +1,5 @@
 ---
-title: SignatureSetup.SuggestedSigner Property (Office)
+title: SignatureSetup.SuggestedSigner property (Office)
 keywords: vbaof11.chm285004
 f1_keywords:
 - vbaof11.chm285004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSetup.SuggestedSigner Property (Office)
+# SignatureSetup.SuggestedSigner property (Office)
 
 Gets or sets the name of the principle signer of the document. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Category Property (Office)
+title: SmartArtColor.Category property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Category
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Category Property (Office)
+# SmartArtColor.Category property (Office)
 
 Retrieves the primary category name associated with the SmartArt color style. Read-only
 

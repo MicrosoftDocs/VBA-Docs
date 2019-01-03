@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Index Property (Office)
+title: CommandBarPopup.Index property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Index
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Index Property (Office)
+# CommandBarPopup.Index property (Office)
 
 Gets a  **Long** representing the index number for a **CommandBarPopup** object in the collection. Read-only.
 

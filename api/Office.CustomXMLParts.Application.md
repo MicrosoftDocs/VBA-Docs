@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.Application Property (Office)
+title: CustomXMLParts.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLParts.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.Application Property (Office)
+# CustomXMLParts.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CustomXMLParts** object. Read-only.
 

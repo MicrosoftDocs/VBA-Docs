@@ -1,5 +1,5 @@
 ---
-title: MsoLanguageID Enumeration (Office)
+title: MsoLanguageID enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoLanguageID
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoLanguageID Enumeration (Office)
+# MsoLanguageID enumeration (Office)
 
 Specifies the language identifier.
 

@@ -1,5 +1,5 @@
 ---
-title: MetaProperty.Application Property (Office)
+title: MetaProperty.Application property (Office)
 ms.prod: office
 api_name:
 - Office.MetaProperty.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperty.Application Property (Office)
+# MetaProperty.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **MetaProperty** object. Read-only.
 

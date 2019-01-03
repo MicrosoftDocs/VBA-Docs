@@ -1,5 +1,5 @@
 ---
-title: ThemeColor.Creator Property (Office)
+title: ThemeColor.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeColor.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeColor.Creator Property (Office)
+# ThemeColor.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ThemeColor** object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentProperties.Parent Property (Office)
+title: DocumentProperties.Parent property (Office)
 keywords: vbaof11.chm250011
 f1_keywords:
 - vbaof11.chm250011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperties.Parent Property (Office)
+# DocumentProperties.Parent property (Office)
 
 Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ODSOColumn.Index Property (Office)
+title: ODSOColumn.Index property (Office)
 keywords: vbaof11.chm233001
 f1_keywords:
 - vbaof11.chm233001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumn.Index Property (Office)
+# ODSOColumn.Index property (Office)
 
 Gets a  **Long** representing the index number for an **ODSOColumn** object in the collection. Read-only.
 

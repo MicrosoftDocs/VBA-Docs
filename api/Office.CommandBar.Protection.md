@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Protection Property (Office)
+title: CommandBar.Protection property (Office)
 keywords: vbaof11.chm3015
 f1_keywords:
 - vbaof11.chm3015
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Protection Property (Office)
+# CommandBar.Protection property (Office)
 
 Gets or sets a  **MsoBarProtection** constant representing the way a command bar is protected from user customization. Read/write.
 

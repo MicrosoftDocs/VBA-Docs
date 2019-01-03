@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.AddToSearchFolders Method (Office)
+title: ScopeFolder.AddToSearchFolders method (Office)
 keywords: vbaof11.chm259004
 f1_keywords:
 - vbaof11.chm259004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder.AddToSearchFolders Method (Office)
+# ScopeFolder.AddToSearchFolders method (Office)
 
 Adds a  **ScopeFolder** object to the **SearchFolders** collection.
 

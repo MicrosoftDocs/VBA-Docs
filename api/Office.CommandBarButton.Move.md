@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Move Method (Office)
+title: CommandBarButton.Move method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Move
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Move Method (Office)
+# CommandBarButton.Move method (Office)
 
 Moves the specified  **CommandBarButton** control to an existing command bar.
 

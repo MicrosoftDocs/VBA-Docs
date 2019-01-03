@@ -1,5 +1,5 @@
 ---
-title: Crop.Application Property (Office)
+title: Crop.Application property (Office)
 ms.prod: office
 api_name:
 - Office.Crop.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Crop.Application Property (Office)
+# Crop.Application property (Office)
 
 Gets the  **Application** object of the host application. Read-only.
 

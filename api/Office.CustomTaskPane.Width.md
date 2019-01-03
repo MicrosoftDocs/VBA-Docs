@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.Width Property (Office)
+title: CustomTaskPane.Width property (Office)
 keywords: vbaof11.chm301007
 f1_keywords:
 - vbaof11.chm301007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.Width Property (Office)
+# CustomTaskPane.Width property (Office)
 
 Gets or sets the width of the task pane specified by the  **CustomTaskPane** object. Read/write.
 

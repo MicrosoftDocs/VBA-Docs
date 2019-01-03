@@ -1,5 +1,5 @@
 ---
-title: WorkflowTask.Description Property (Office)
+title: WorkflowTask.Description property (Office)
 keywords: vbaof11.chm280005
 f1_keywords:
 - vbaof11.chm280005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTask.Description Property (Office)
+# WorkflowTask.Description property (Office)
 
 Gets the description of a workflow task. Read-only.
 

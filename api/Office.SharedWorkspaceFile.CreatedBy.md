@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFile.CreatedBy Property (Office)
+title: SharedWorkspaceFile.CreatedBy property (Office)
 keywords: vbaof11.chm266002
 f1_keywords:
 - vbaof11.chm266002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFile.CreatedBy Property (Office)
+# SharedWorkspaceFile.CreatedBy property (Office)
 
 Gets the display name of the member who created the shared workspace object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Select Method (Office)
+title: TextRange2.Select method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Select
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Select Method (Office)
+# TextRange2.Select method (Office)
 
 Selects the  **TextRange2** object.
 

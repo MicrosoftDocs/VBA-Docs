@@ -1,5 +1,5 @@
 ---
-title: ScopeFolder.Application Property (Office)
+title: ScopeFolder.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ScopeFolder.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ScopeFolder.Application Property (Office)
+# ScopeFolder.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ScopeFolder** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

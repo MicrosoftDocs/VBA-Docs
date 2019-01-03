@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Name Property (Office)
+title: CommandBar.Name property (Office)
 keywords: vbaof11.chm3010
 f1_keywords:
 - vbaof11.chm3010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Name Property (Office)
+# CommandBar.Name property (Office)
 
 Gets the name of the built-in  **CommandBar** object. Read-only.
 

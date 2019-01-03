@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Width Property (Office)
+title: CommandBarComboBox.Width property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Width
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Width Property (Office)
+# CommandBarComboBox.Width property (Office)
 
 Gets or sets the width (in pixels) of the specified  **CommandBarComboBox** control. Read/write.
 

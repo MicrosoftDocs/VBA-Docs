@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolders.Item Property (Office)
+title: SharedWorkspaceFolders.Item property (Office)
 keywords: vbaof11.chm269001
 f1_keywords:
 - vbaof11.chm269001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolders.Item Property (Office)
+# SharedWorkspaceFolders.Item property (Office)
 
 Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the shared workspace. Read-only.
 

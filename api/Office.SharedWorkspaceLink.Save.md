@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.Save Method (Office)
+title: SharedWorkspaceLink.Save method (Office)
 keywords: vbaof11.chm270008
 f1_keywords:
 - vbaof11.chm270008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.Save Method (Office)
+# SharedWorkspaceLink.Save method (Office)
 
 Uploads changes made programmatically to a shared server.
 

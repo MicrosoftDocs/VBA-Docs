@@ -1,5 +1,5 @@
 ---
-title: Permission.RequestPermissionURL Property (Office)
+title: Permission.RequestPermissionURL property (Office)
 keywords: vbaof11.chm261009
 f1_keywords:
 - vbaof11.chm261009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.RequestPermissionURL Property (Office)
+# Permission.RequestPermissionURL property (Office)
 
 Gets or sets the file or Web site URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.
 

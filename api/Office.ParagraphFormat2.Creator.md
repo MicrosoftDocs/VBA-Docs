@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.Creator Property (Office)
+title: ParagraphFormat2.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.Creator Property (Office)
+# ParagraphFormat2.Creator property (Office)
 
 Gets a value representing the application that created the  **ParagraphFormat2** object. Read-only.
 

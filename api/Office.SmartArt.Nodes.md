@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Nodes Property (Office)
+title: SmartArt.Nodes property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Nodes
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Nodes Property (Office)
+# SmartArt.Nodes property (Office)
 
 Retrieves the children of the root node of the SmartArt diagram. Read-only
 

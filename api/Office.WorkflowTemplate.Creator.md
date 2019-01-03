@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Creator Property (Office)
+title: WorkflowTemplate.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTemplate.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Creator Property (Office)
+# WorkflowTemplate.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **WorkflowTemplate** object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: PickerResult.DisplayName Property (Office)
+title: PickerResult.DisplayName property (Office)
 keywords: vbaof11.chm338002
 f1_keywords:
 - vbaof11.chm338002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.DisplayName Property (Office)
+# PickerResult.DisplayName property (Office)
 
 Represents a display name of PickerResult. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Text Property (Office)
+title: TextRange2.Text property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Text
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Text Property (Office)
+# TextRange2.Text property (Office)
 
 Gets or sets a  **String** value that represents the text in a text range. Read/write.
 

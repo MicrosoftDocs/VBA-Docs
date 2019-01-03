@@ -1,5 +1,5 @@
 ---
-title: MsoCalloutDropType Enumeration (Office)
+title: MsoCalloutDropType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoCalloutDropType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoCalloutDropType Enumeration (Office)
+# MsoCalloutDropType enumeration (Office)
 
 Specifies starting position of the callout line relative to the text bounding box. Used with the  **PresetDrop** method of the **CalloutFormat** object.
 

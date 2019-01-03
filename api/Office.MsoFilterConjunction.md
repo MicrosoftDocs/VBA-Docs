@@ -1,5 +1,5 @@
 ---
-title: MsoFilterConjunction Enumeration (Office)
+title: MsoFilterConjunction enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoFilterConjunction
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoFilterConjunction Enumeration (Office)
+# MsoFilterConjunction enumeration (Office)
 
 Specifies how a filter criterion relates to other filter criteria. Used with the  **Conjunction** property of the **ODSOFilters** object and with the **Add** method of the **MailMergeFilters** object.
 

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceFolder.Parent Property (Office)
+title: SharedWorkspaceFolder.Parent property (Office)
 keywords: vbaof11.chm268007
 f1_keywords:
 - vbaof11.chm268007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceFolder.Parent Property (Office)
+# SharedWorkspaceFolder.Parent property (Office)
 
 Gets the  **Parent** object for the **SharedWorkspaceFolder** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: TextColumn2.Count Property (Office)
+title: TextColumn2.Count property (Office)
 ms.prod: office
 api_name:
 - Office.TextColumn2.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2.Count Property (Office)
+# TextColumn2.Count property (Office)
 
 Gets or sets a  **Long** indicating the number of items in the **TextColumn2** collection. Read/write.
 

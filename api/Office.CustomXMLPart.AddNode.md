@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.AddNode Method (Office)
+title: CustomXMLPart.AddNode method (Office)
 keywords: vbaof11.chm295008
 f1_keywords:
 - vbaof11.chm295008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.AddNode Method (Office)
+# CustomXMLPart.AddNode method (Office)
 
 Adds a node to the XML tree.
 

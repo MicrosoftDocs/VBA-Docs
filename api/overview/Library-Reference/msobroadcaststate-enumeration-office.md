@@ -1,12 +1,12 @@
 ---
-title: MsoBroadcastState Enumeration (Office)
+title: MsoBroadcastState enumeration (Office)
 ms.assetid: 383160db-9f27-b17f-d43c-4d09813d80b4
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# MsoBroadcastState Enumeration (Office)
+# MsoBroadcastState enumeration (Office)
 
 Specifies the current state of a document or presentation broadcast.
 

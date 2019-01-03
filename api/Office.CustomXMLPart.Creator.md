@@ -1,5 +1,5 @@
 ---
-title: CustomXMLPart.Creator Property (Office)
+title: CustomXMLPart.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CustomXMLPart.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLPart.Creator Property (Office)
+# CustomXMLPart.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CustomXMLPart** object was created. Read-only.
 

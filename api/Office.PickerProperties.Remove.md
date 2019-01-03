@@ -1,5 +1,5 @@
 ---
-title: PickerProperties.Remove Method (Office)
+title: PickerProperties.Remove method (Office)
 keywords: vbaof11.chm337004
 f1_keywords:
 - vbaof11.chm337004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperties.Remove Method (Office)
+# PickerProperties.Remove method (Office)
 
 Removes a PickerProperty from the collection.
 

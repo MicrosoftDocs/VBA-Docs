@@ -1,5 +1,5 @@
 ---
-title: FileDialogFilters.Clear Method (Office)
+title: FileDialogFilters.Clear method (Office)
 keywords: vbaof11.chm255005
 f1_keywords:
 - vbaof11.chm255005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialogFilters.Clear Method (Office)
+# FileDialogFilters.Clear method (Office)
 
 Removes all filters currently applied in a file dialog box.
 

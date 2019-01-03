@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Character Property (Office)
+title: BulletFormat2.Character property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Character
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Character Property (Office)
+# BulletFormat2.Character property (Office)
 
 Gets or sets the Unicode character value that is used for bullets in the specified text. Read/write.
 

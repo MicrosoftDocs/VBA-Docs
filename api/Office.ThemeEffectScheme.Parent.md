@@ -1,5 +1,5 @@
 ---
-title: ThemeEffectScheme.Parent Property (Office)
+title: ThemeEffectScheme.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeEffectScheme.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeEffectScheme.Parent Property (Office)
+# ThemeEffectScheme.Parent property (Office)
 
 Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.
 

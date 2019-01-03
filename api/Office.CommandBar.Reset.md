@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Reset Method (Office)
+title: CommandBar.Reset method (Office)
 keywords: vbaof11.chm3016
 f1_keywords:
 - vbaof11.chm3016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Reset Method (Office)
+# CommandBar.Reset method (Office)
 
 Resets a built-in command bar to its default configuration.
 

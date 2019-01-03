@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.Conjunction Property (Office)
+title: ODSOFilter.Conjunction property (Office)
 keywords: vbaof11.chm240006
 f1_keywords:
 - vbaof11.chm240006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.Conjunction Property (Office)
+# ODSOFilter.Conjunction property (Office)
 
 Gets or sets an  **MsoFilterConjunction** constant that represents how a filter criterion relates to other filter criteria in the **ODSOFilters** object. Read/write.
 

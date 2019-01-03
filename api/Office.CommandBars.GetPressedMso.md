@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetPressedMso Method (Office)
+title: CommandBars.GetPressedMso method (Office)
 keywords: vbaof11.chm2021
 f1_keywords:
 - vbaof11.chm2021
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetPressedMso Method (Office)
+# CommandBars.GetPressedMso method (Office)
 
 Returns a value indicating whether the toggleButton control identified by the  **idMso** parameter is pressed.
 

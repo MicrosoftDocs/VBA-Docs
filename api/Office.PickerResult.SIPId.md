@@ -1,5 +1,5 @@
 ---
-title: PickerResult.SIPId Property (Office)
+title: PickerResult.SIPId property (Office)
 keywords: vbaof11.chm338004
 f1_keywords:
 - vbaof11.chm338004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResult.SIPId Property (Office)
+# PickerResult.SIPId property (Office)
 
 Is the identifier for Office Communication Server. It's used only for people picking scenario. Read/write
 

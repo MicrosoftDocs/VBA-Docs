@@ -1,5 +1,5 @@
 ---
-title: SmartArt.Reset Method (Office)
+title: SmartArt.Reset method (Office)
 ms.prod: office
 api_name:
 - Office.SmartArt.Reset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArt.Reset Method (Office)
+# SmartArt.Reset method (Office)
 
 Resets the SmartArt graphic to its original state.
 

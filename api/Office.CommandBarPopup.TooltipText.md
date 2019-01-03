@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.TooltipText Property (Office)
+title: CommandBarPopup.TooltipText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.TooltipText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.TooltipText Property (Office)
+# CommandBarPopup.TooltipText property (Office)
 
 Gets or sets the text displayed in a  **CommandBarPopup's** **ScreenTip**. Read/write.
 

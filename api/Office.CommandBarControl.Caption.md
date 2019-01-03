@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Caption Property (Office)
+title: CommandBarControl.Caption property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Caption
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Caption Property (Office)
+# CommandBarControl.Caption property (Office)
 
 Gets or sets the caption text for a command bar control. Read/write.
 

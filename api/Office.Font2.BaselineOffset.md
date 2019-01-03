@@ -1,5 +1,5 @@
 ---
-title: Font2.BaselineOffset Property (Office)
+title: Font2.BaselineOffset property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.BaselineOffset
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.BaselineOffset Property (Office)
+# Font2.BaselineOffset property (Office)
 
 Gets or sets a value specifying the horizontaol offset of the selected font. Read/write.
 

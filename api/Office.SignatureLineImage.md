@@ -1,5 +1,5 @@
 ---
-title: SignatureLineImage Enumeration (Office)
+title: SignatureLineImage enumeration (Office)
 ms.prod: office
 api_name:
 - Office.SignatureLineImage
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureLineImage Enumeration (Office)
+# SignatureLineImage enumeration (Office)
 
 Indicates the signature line image.
 

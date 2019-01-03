@@ -1,5 +1,5 @@
 ---
-title: MsoConnectorType Enumeration (Office)
+title: MsoConnectorType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoConnectorType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoConnectorType Enumeration (Office)
+# MsoConnectorType enumeration (Office)
 
 Specifies a type of connector.
 

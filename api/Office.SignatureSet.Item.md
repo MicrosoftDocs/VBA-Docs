@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Item Property (Office)
+title: SignatureSet.Item property (Office)
 keywords: vbaof11.chm247002
 f1_keywords:
 - vbaof11.chm247002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Item Property (Office)
+# SignatureSet.Item property (Office)
 
 Gets a  **Signature** object that corresponds to one of the digital signatures with which the document is currently signed. Read-only.
 

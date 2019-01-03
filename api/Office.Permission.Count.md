@@ -1,5 +1,5 @@
 ---
-title: Permission.Count Property (Office)
+title: Permission.Count property (Office)
 keywords: vbaof11.chm261002
 f1_keywords:
 - vbaof11.chm261002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission.Count Property (Office)
+# Permission.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **Permission** object. Read-only.
 

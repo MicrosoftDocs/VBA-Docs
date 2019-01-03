@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Copy Method (Office)
+title: CommandBarControl.Copy method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Copy
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Copy Method (Office)
+# CommandBarControl.Copy method (Office)
 
 Copies a command bar control to an existing command bar.
 

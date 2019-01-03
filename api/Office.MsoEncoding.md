@@ -1,5 +1,5 @@
 ---
-title: MsoEncoding Enumeration (Office)
+title: MsoEncoding enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoEncoding
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEncoding Enumeration (Office)
+# MsoEncoding enumeration (Office)
 
 Specifies the document encoding (code page or character set) for the Web browser to use when a user views a saved document.
 

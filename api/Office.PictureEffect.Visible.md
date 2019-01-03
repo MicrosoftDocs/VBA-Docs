@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.Visible Property (Office)
+title: PictureEffect.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.Visible Property (Office)
+# PictureEffect.Visible property (Office)
 
 Gets or sets a Boolean value representing the visible state of the picture effect. Read/write
 

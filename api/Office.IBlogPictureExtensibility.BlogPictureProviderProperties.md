@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility.BlogPictureProviderProperties Method (Office)
+title: IBlogPictureExtensibility.BlogPictureProviderProperties method (Office)
 keywords: vbaof11.chm329001
 f1_keywords:
 - vbaof11.chm329001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility.BlogPictureProviderProperties Method (Office)
+# IBlogPictureExtensibility.BlogPictureProviderProperties method (Office)
 
 Enables picture providers to offer themselves as an upload location for blog pictures.
 

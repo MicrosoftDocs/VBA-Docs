@@ -1,5 +1,5 @@
 ---
-title: EffectParameter.Name Property (Office)
+title: EffectParameter.Name property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameter.Name Property (Office)
+# EffectParameter.Name property (Office)
 
 Retrieves the string name of the  **EffectParameter** parameter. Read-only
 

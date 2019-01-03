@@ -1,5 +1,5 @@
 ---
-title: Signature.ShowDetails Method (Office)
+title: Signature.ShowDetails method (Office)
 keywords: vbaof11.chm248014
 f1_keywords:
 - vbaof11.chm248014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.ShowDetails Method (Office)
+# Signature.ShowDetails method (Office)
 
 Displays details related to a signature packet.
 

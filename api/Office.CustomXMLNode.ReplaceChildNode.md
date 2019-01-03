@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.ReplaceChildNode Method (Office)
+title: CustomXMLNode.ReplaceChildNode method (Office)
 keywords: vbaof11.chm294026
 f1_keywords:
 - vbaof11.chm294026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.ReplaceChildNode Method (Office)
+# CustomXMLNode.ReplaceChildNode method (Office)
 
 Removes the specified child node (and its subtree) from the main tree, and replaces it with a different node in the same location.
 

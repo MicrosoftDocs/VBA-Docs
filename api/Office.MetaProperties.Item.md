@@ -1,5 +1,5 @@
 ---
-title: MetaProperties.Item Property (Office)
+title: MetaProperties.Item property (Office)
 keywords: vbaof11.chm274001
 f1_keywords:
 - vbaof11.chm274001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MetaProperties.Item Property (Office)
+# MetaProperties.Item property (Office)
 
 Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-only.
 

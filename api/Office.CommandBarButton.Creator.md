@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Creator Property (Office)
+title: CommandBarButton.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Creator Property (Office)
+# CommandBarButton.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **CommandBarButton** object was created. Read-only.
 

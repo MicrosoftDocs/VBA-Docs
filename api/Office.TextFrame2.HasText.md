@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.HasText Property (Office)
+title: TextFrame2.HasText property (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.HasText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.HasText Property (Office)
+# TextFrame2.HasText property (Office)
 
 Indicates whether the shape that contains the specified text frame has text associated with it. Read-only
 

@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Creator Property (Office)
+title: SmartArtNode.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Creator Property (Office)
+# SmartArtNode.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SmartArtNode** object was created. Read-only.
 

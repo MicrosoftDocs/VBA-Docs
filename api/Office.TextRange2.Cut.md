@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Cut Method (Office)
+title: TextRange2.Cut method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Cut
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Cut Method (Office)
+# TextRange2.Cut method (Office)
 
 Removes a portion or all of the text from a range of text.
 

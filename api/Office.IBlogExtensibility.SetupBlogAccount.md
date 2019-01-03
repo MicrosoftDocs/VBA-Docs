@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.SetupBlogAccount Method (Office)
+title: IBlogExtensibility.SetupBlogAccount method (Office)
 keywords: vbaof11.chm328002
 f1_keywords:
 - vbaof11.chm328002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.SetupBlogAccount Method (Office)
+# IBlogExtensibility.SetupBlogAccount method (Office)
 
 Called from the  **Choose Account** dialog when the provider's name is chosen in the **Blog Host** dropdown or when the user requests to change a provider's account in the **Blog Accounts** dialog box.
 

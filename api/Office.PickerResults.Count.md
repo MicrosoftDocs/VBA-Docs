@@ -1,5 +1,5 @@
 ---
-title: PickerResults.Count Property (Office)
+title: PickerResults.Count property (Office)
 keywords: vbaof11.chm339002
 f1_keywords:
 - vbaof11.chm339002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerResults.Count Property (Office)
+# PickerResults.Count property (Office)
 
 Retrieves the count of the number of  **PickerResult** objects contained within the **PickerResults** collection. Read-only
 

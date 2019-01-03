@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Font Property (Office)
+title: BulletFormat2.Font property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Font
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Font Property (Office)
+# BulletFormat2.Font property (Office)
 
 Gets a  **Font2** object that represents character formatting for a **BulletFormat2** object. Read-only.
 

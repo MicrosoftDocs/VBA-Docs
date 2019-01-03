@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.CreateNew Method (Office)
+title: SharedWorkspace.CreateNew method (Office)
 keywords: vbaof11.chm276008
 f1_keywords:
 - vbaof11.chm276008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.CreateNew Method (Office)
+# SharedWorkspace.CreateNew method (Office)
 
 Creates a document workspace site on the server and adds the active document to the new shared workspace site.
 

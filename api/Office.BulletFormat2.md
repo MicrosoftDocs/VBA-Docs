@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2 Object (Office)
+title: BulletFormat2 object (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2 Object (Office)
+# BulletFormat2 object (Office)
 
 Represents bullet formatting.
 

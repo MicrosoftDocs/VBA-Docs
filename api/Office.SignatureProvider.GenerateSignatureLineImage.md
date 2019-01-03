@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.GenerateSignatureLineImage Method (Office)
+title: SignatureProvider.GenerateSignatureLineImage method (Office)
 keywords: vbaof11.chm287001
 f1_keywords:
 - vbaof11.chm287001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.GenerateSignatureLineImage Method (Office)
+# SignatureProvider.GenerateSignatureLineImage method (Office)
 
 Gets a signature line image.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.TooltipText Property (Office)
+title: CommandBarComboBox.TooltipText property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarComboBox.TooltipText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.TooltipText Property (Office)
+# CommandBarComboBox.TooltipText property (Office)
 
 Gets or sets the text displayed in a  **CommandBarComboBox's** **ScreenTip**. Read/write.
 

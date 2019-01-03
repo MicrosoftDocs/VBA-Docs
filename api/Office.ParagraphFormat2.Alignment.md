@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.Alignment Property (Office)
+title: ParagraphFormat2.Alignment property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.Alignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.Alignment Property (Office)
+# ParagraphFormat2.Alignment property (Office)
 
 Gets or sets a value specifying the alignment of the paragraph. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2.WordWrap Property (Office)
+title: ParagraphFormat2.WordWrap property (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2.WordWrap
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2.WordWrap Property (Office)
+# ParagraphFormat2.WordWrap property (Office)
 
 Determines whether the application wraps the Latin text in the middle of a word in the specified paragraphs. Read/write.
 

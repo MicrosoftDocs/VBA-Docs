@@ -1,5 +1,5 @@
 ---
-title: UserPermission.Parent Property (Office)
+title: UserPermission.Parent property (Office)
 keywords: vbaof11.chm260004
 f1_keywords:
 - vbaof11.chm260004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.Parent Property (Office)
+# UserPermission.Parent property (Office)
 
 Gets the  **Parent** object for the **UserPermission** object. Read-only.
 

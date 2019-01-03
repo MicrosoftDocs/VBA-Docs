@@ -1,5 +1,5 @@
 ---
-title: OfficeTheme.Parent Property (Office)
+title: OfficeTheme.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.OfficeTheme.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeTheme.Parent Property (Office)
+# OfficeTheme.Parent property (Office)
 
 Gets the  **Parent** object for the **OfficeTheme** object. Read-only.
 

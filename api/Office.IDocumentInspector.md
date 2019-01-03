@@ -1,5 +1,5 @@
 ---
-title: IDocumentInspector Object (Office)
+title: IDocumentInspector object (Office)
 keywords: vbaof11.chm284000
 f1_keywords:
 - vbaof11.chm284000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IDocumentInspector Object (Office)
+# IDocumentInspector object (Office)
 
 Represents the interface through which the methods of a  **IDocumentInspector** object are accessed.
 

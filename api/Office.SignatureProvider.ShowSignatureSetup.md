@@ -1,5 +1,5 @@
 ---
-title: SignatureProvider.ShowSignatureSetup Method (Office)
+title: SignatureProvider.ShowSignatureSetup method (Office)
 keywords: vbaof11.chm287002
 f1_keywords:
 - vbaof11.chm287002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureProvider.ShowSignatureSetup Method (Office)
+# SignatureProvider.ShowSignatureSetup method (Office)
 
 Provides a signature provider add-in the opportunity to display the  **Signature Setup** dialog box to the user.
 

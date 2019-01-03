@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.AppendChildSubtree Method (Office)
+title: CustomXMLNode.AppendChildSubtree method (Office)
 keywords: vbaof11.chm294020
 f1_keywords:
 - vbaof11.chm294020
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.AppendChildSubtree Method (Office)
+# CustomXMLNode.AppendChildSubtree method (Office)
 
 Adds a subtree as the last child under the context element node in the tree.
 

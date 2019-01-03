@@ -1,5 +1,5 @@
 ---
-title: SearchFolders Object (Office)
+title: SearchFolders object (Office)
 keywords: vbaof11.chm258000
 f1_keywords:
 - vbaof11.chm258000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchFolders Object (Office)
+# SearchFolders object (Office)
 
 A collection of  **ScopeFolder** objects that determines which folders are searched.
 

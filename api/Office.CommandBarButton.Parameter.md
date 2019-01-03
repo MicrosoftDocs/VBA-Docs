@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Parameter Property (Office)
+title: CommandBarButton.Parameter property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Parameter
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Parameter Property (Office)
+# CommandBarButton.Parameter property (Office)
 
 Gets or sets a string that an application can use to execute a command from a  **CommandBarButton** control. Read/write.
 

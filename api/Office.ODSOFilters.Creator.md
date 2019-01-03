@@ -1,5 +1,5 @@
 ---
-title: ODSOFilters.Creator Property (Office)
+title: ODSOFilters.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ODSOFilters.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilters.Creator Property (Office)
+# ODSOFilters.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ODSOFilters** object was created. Read-only.
 

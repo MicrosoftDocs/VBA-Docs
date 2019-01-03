@@ -1,5 +1,5 @@
 ---
-title: MsoArrowheadLength Enumeration (Office)
+title: MsoArrowheadLength enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoArrowheadLength
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoArrowheadLength Enumeration (Office)
+# MsoArrowheadLength enumeration (Office)
 
 Specifies the length of the arrowhead at the end of a line.
 

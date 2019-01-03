@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.Type Property (Office)
+title: DocumentProperty.Type property (Office)
 keywords: vbaof11.chm250007
 f1_keywords:
 - vbaof11.chm250007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.Type Property (Office)
+# DocumentProperty.Type property (Office)
 
 Gets or sets the document property type. Read-only for built-in document properties; read/write for custom document properties.
 

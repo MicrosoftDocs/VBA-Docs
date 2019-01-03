@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.Number Property (Office)
+title: BulletFormat2.Number property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.Number
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.Number Property (Office)
+# BulletFormat2.Number property (Office)
 
 Gets the bullet number of a paragraph. Read-only.
 

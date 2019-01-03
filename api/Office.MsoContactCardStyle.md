@@ -1,5 +1,5 @@
 ---
-title: MsoContactCardStyle Enumeration (Office)
+title: MsoContactCardStyle enumeration (Office)
 keywords: vbaof11.chm100130
 f1_keywords:
 - vbaof11.chm100130
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoContactCardStyle Enumeration (Office)
+# MsoContactCardStyle enumeration (Office)
 
 Specifies how the contact card is displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Start Property (Office)
+title: TextRange2.Start property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Start
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Start Property (Office)
+# TextRange2.Start property (Office)
 
 Gets a  **Long** value indicating the starting point of the specified text range. Read-only.
 

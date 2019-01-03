@@ -1,5 +1,5 @@
 ---
-title: TextRange2.Find Method (Office)
+title: TextRange2.Find method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.Find
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.Find Method (Office)
+# TextRange2.Find method (Office)
 
 Searches a  **TextRange2** object for a subset of text.
 

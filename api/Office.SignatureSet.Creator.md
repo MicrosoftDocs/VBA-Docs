@@ -1,5 +1,5 @@
 ---
-title: SignatureSet.Creator Property (Office)
+title: SignatureSet.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SignatureSet.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SignatureSet.Creator Property (Office)
+# SignatureSet.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SignatureSet** object was created. Read-only.
 

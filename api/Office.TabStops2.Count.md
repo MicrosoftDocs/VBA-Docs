@@ -1,5 +1,5 @@
 ---
-title: TabStops2.Count Property (Office)
+title: TabStops2.Count property (Office)
 ms.prod: office
 api_name:
 - Office.TabStops2.Count
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TabStops2.Count Property (Office)
+# TabStops2.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **TabStops2** collection. Read-only.
 

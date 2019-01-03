@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts.Item Method (Office)
+title: ThemeFonts.Item method (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Item
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts.Item Method (Office)
+# ThemeFonts.Item method (Office)
 
 Gets one of the three language fonts contained in the  **ThemeFonts** collection.
 

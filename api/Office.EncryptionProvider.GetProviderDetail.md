@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.GetProviderDetail Method (Office)
+title: EncryptionProvider.GetProviderDetail method (Office)
 keywords: vbaof11.chm327001
 f1_keywords:
 - vbaof11.chm327001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.GetProviderDetail Method (Office)
+# EncryptionProvider.GetProviderDetail method (Office)
 
 Displays information about the encryption of the current document. 
 

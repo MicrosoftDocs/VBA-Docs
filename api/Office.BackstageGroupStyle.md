@@ -1,5 +1,5 @@
 ---
-title: BackstageGroupStyle Enumeration (Office)
+title: BackstageGroupStyle enumeration (Office)
 ms.prod: office
 api_name:
 - Office.BackstageGroupStyle
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BackstageGroupStyle Enumeration (Office)
+# BackstageGroupStyle enumeration (Office)
 
 Specifies constants that define the styles of the groups on the  **File** tab.
 

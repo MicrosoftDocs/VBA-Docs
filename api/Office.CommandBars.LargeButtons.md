@@ -1,5 +1,5 @@
 ---
-title: CommandBars.LargeButtons Property (Office)
+title: CommandBars.LargeButtons property (Office)
 keywords: vbaof11.chm2009
 f1_keywords:
 - vbaof11.chm2009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.LargeButtons Property (Office)
+# CommandBars.LargeButtons property (Office)
 
 Is  **True** if the toolbar buttons displayed are larger than normal size. Read/write.
 

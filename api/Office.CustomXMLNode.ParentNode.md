@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.ParentNode Property (Office)
+title: CustomXMLNode.ParentNode property (Office)
 keywords: vbaof11.chm294014
 f1_keywords:
 - vbaof11.chm294014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.ParentNode Property (Office)
+# CustomXMLNode.ParentNode property (Office)
 
 Gets the parent element node of the current node. If the current node is at the root level, the property returns  **Nothing**. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts.Creator Property (Office)
+title: ThemeFonts.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts.Creator Property (Office)
+# ThemeFonts.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ThemeFonts** object was created. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers.Application Property (Office)
+title: SharedWorkspaceMembers.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SharedWorkspaceMembers.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers.Application Property (Office)
+# SharedWorkspaceMembers.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SharedWorkspaceMembers** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

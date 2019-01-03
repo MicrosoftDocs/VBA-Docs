@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.RowCount Property (Office)
+title: OfficeDataSourceObject.RowCount property (Office)
 keywords: vbaof11.chm232005
 f1_keywords:
 - vbaof11.chm232005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.RowCount Property (Office)
+# OfficeDataSourceObject.RowCount property (Office)
 
 Gets a  **Long** that represents the number of records in the specified data source. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: DocumentProperty.LinkToContent Property (Office)
+title: DocumentProperty.LinkToContent property (Office)
 keywords: vbaof11.chm250008
 f1_keywords:
 - vbaof11.chm250008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentProperty.LinkToContent Property (Office)
+# DocumentProperty.LinkToContent property (Office)
 
 Is  **True** if the value of the custom document property is linked to the content of the container document. **False** if the value is static. Read/write.
 

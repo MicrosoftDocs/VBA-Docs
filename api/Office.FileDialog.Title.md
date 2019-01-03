@@ -1,5 +1,5 @@
 ---
-title: FileDialog.Title Property (Office)
+title: FileDialog.Title property (Office)
 keywords: vbaof11.chm256004
 f1_keywords:
 - vbaof11.chm256004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# FileDialog.Title Property (Office)
+# FileDialog.Title property (Office)
 
 Sets or gets the title of a file dialog box displayed using the  **FileDialog** object. Read/write.
 

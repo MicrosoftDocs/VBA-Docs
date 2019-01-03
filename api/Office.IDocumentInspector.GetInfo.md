@@ -1,5 +1,5 @@
 ---
-title: IDocumentInspector.GetInfo Method (Office)
+title: IDocumentInspector.GetInfo method (Office)
 ms.prod: office
 api_name:
 - Office.IDocumentInspector.GetInfo
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IDocumentInspector.GetInfo Method (Office)
+# IDocumentInspector.GetInfo method (Office)
 
 Gets information about a custom Document Inspector module.
 

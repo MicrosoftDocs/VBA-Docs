@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.EndSession Method (Office)
+title: EncryptionProvider.EndSession method (Office)
 keywords: vbaof11.chm327005
 f1_keywords:
 - vbaof11.chm327005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.EndSession Method (Office)
+# EncryptionProvider.EndSession method (Office)
 
 Ends the current encryption session.
 

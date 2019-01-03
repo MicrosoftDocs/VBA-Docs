@@ -1,5 +1,5 @@
 ---
-title: EffectParameters.Application Property (Office)
+title: EffectParameters.Application property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameters.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameters.Application Property (Office)
+# EffectParameters.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **EffectParameters** object. Read-only
 

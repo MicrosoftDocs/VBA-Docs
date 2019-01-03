@@ -1,5 +1,5 @@
 ---
-title: PickerProperty Object (Office)
+title: PickerProperty object (Office)
 keywords: vbaof11.chm336000
 f1_keywords:
 - vbaof11.chm336000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperty Object (Office)
+# PickerProperty object (Office)
 
 Represents an object for passing a custom property. p
 

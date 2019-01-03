@@ -1,5 +1,5 @@
 ---
-title: SmartArtNode.Application Property (Office)
+title: SmartArtNode.Application property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtNode.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtNode.Application Property (Office)
+# SmartArtNode.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **SmartArtNode** object. Read-only.
 

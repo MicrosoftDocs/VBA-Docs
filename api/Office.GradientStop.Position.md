@@ -1,5 +1,5 @@
 ---
-title: GradientStop.Position Property (Office)
+title: GradientStop.Position property (Office)
 ms.prod: office
 api_name:
 - Office.GradientStop.Position
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# GradientStop.Position Property (Office)
+# GradientStop.Position property (Office)
 
 Gets or sets a value representing the position of a stop within the gradient expressed as a percent. Read/write.
 

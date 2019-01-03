@@ -1,5 +1,5 @@
 ---
-title: Font2 Object (Office)
+title: Font2 object (Office)
 ms.prod: office
 api_name:
 - Office.Font2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2 Object (Office)
+# Font2 object (Office)
 
 Contains font attributes (for example, font name, font size, and color) for an object.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBars.Add Method (Office)
+title: CommandBars.Add method (Office)
 keywords: vbaof11.chm2003
 f1_keywords:
 - vbaof11.chm2003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.Add Method (Office)
+# CommandBars.Add method (Office)
 
 Creates a new command bar and adds it to the collection of command bars.
 

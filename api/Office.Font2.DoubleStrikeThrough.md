@@ -1,5 +1,5 @@
 ---
-title: Font2.DoubleStrikeThrough Property (Office)
+title: Font2.DoubleStrikeThrough property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.DoubleStrikeThrough
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.DoubleStrikeThrough Property (Office)
+# Font2.DoubleStrikeThrough property (Office)
 
 True if the specified font is formatted as double strikethrough text. Read/write.
 

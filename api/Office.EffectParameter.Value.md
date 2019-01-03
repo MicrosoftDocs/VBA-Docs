@@ -1,5 +1,5 @@
 ---
-title: EffectParameter.Value Property (Office)
+title: EffectParameter.Value property (Office)
 ms.prod: office
 api_name:
 - Office.EffectParameter.Value
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EffectParameter.Value Property (Office)
+# EffectParameter.Value property (Office)
 
 Retrieves or sets the value of the  **EffectParameter** object. Read/write
 

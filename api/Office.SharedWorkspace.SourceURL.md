@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspace.SourceURL Property (Office)
+title: SharedWorkspace.SourceURL property (Office)
 keywords: vbaof11.chm276014
 f1_keywords:
 - vbaof11.chm276014
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspace.SourceURL Property (Office)
+# SharedWorkspace.SourceURL property (Office)
 
 Designates the location of the public copy of a shared document to which changes should be published back after the document has been revised in a separate document workspace site. Read-only.
 

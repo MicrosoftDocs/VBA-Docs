@@ -1,5 +1,5 @@
 ---
-title: COMAddIn.Description Property (Office)
+title: COMAddIn.Description property (Office)
 keywords: vbaof11.chm219001
 f1_keywords:
 - vbaof11.chm219001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# COMAddIn.Description Property (Office)
+# COMAddIn.Description property (Office)
 
 Gets or sets a descriptive  **String** value for the specified **COMAddin** object. Read/write.
 

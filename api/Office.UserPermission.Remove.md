@@ -1,5 +1,5 @@
 ---
-title: UserPermission.Remove Method (Office)
+title: UserPermission.Remove method (Office)
 keywords: vbaof11.chm260005
 f1_keywords:
 - vbaof11.chm260005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission.Remove Method (Office)
+# UserPermission.Remove method (Office)
 
 Removes the specified  **UserPermission** object from the **[Permission](Office.Permission.md)** collection of the active document.
 

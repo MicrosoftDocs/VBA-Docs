@@ -1,5 +1,5 @@
 ---
-title: IBlogExtensibility.GetUserBlogs Method (Office)
+title: IBlogExtensibility.GetUserBlogs method (Office)
 keywords: vbaof11.chm328003
 f1_keywords:
 - vbaof11.chm328003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogExtensibility.GetUserBlogs Method (Office)
+# IBlogExtensibility.GetUserBlogs method (Office)
 
 Returns the list and details of user blogs associated with the specified account.
 

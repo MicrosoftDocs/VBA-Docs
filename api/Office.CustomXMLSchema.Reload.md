@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchema.Reload Method (Office)
+title: CustomXMLSchema.Reload method (Office)
 keywords: vbaof11.chm291005
 f1_keywords:
 - vbaof11.chm291005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchema.Reload Method (Office)
+# CustomXMLSchema.Reload method (Office)
 
 Reloads a schema from a file.
 

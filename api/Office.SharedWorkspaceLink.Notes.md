@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.Notes Property (Office)
+title: SharedWorkspaceLink.Notes property (Office)
 keywords: vbaof11.chm270003
 f1_keywords:
 - vbaof11.chm270003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.Notes Property (Office)
+# SharedWorkspaceLink.Notes property (Office)
 
 Gets or sets the optional notes associated with a shared workspace link. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: IConverterPreferences.HrCheckFormat Method (Office)
+title: IConverterPreferences.HrCheckFormat method (Office)
 keywords: vbaof11.chm330002
 f1_keywords:
 - vbaof11.chm330002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterPreferences.HrCheckFormat Method (Office)
+# IConverterPreferences.HrCheckFormat method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

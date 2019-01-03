@@ -1,5 +1,5 @@
 ---
-title: WorkflowTemplate.Application Property (Office)
+title: WorkflowTemplate.Application property (Office)
 ms.prod: office
 api_name:
 - Office.WorkflowTemplate.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WorkflowTemplate.Application Property (Office)
+# WorkflowTemplate.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **WorkflowTemplate** object. Read-only.
 

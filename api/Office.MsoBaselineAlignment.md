@@ -1,5 +1,5 @@
 ---
-title: MsoBaselineAlignment Enumeration (Office)
+title: MsoBaselineAlignment enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBaselineAlignment
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBaselineAlignment Enumeration (Office)
+# MsoBaselineAlignment enumeration (Office)
 
 Specifies baseline text alignment.
 

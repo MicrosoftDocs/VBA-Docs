@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceMembers.ItemCountExceeded Property (Office)
+title: SharedWorkspaceMembers.ItemCountExceeded property (Office)
 keywords: vbaof11.chm273005
 f1_keywords:
 - vbaof11.chm273005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceMembers.ItemCountExceeded Property (Office)
+# SharedWorkspaceMembers.ItemCountExceeded property (Office)
 
 Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceMembers** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.
 

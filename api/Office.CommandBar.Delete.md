@@ -1,5 +1,5 @@
 ---
-title: CommandBar.Delete Method (Office)
+title: CommandBar.Delete method (Office)
 keywords: vbaof11.chm3004
 f1_keywords:
 - vbaof11.chm3004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBar.Delete Method (Office)
+# CommandBar.Delete method (Office)
 
 Deletes the  **CommandBar** object from the collection.
 

@@ -1,5 +1,5 @@
 ---
-title: PictureEffect.Type Property (Office)
+title: PictureEffect.Type property (Office)
 ms.prod: office
 api_name:
 - Office.PictureEffect.Type
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PictureEffect.Type Property (Office)
+# PictureEffect.Type property (Office)
 
 Specifies the type of Picture Effect. Read-only
 

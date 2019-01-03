@@ -1,5 +1,5 @@
 ---
-title: TextRange2.AddPeriods Method (Office)
+title: TextRange2.AddPeriods method (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.AddPeriods
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.AddPeriods Method (Office)
+# TextRange2.AddPeriods method (Office)
 
 Adds period (.) punctuation to the right side of the text contained in TextRange2 object for left-to-right languages and on the left side for right-to-left languages.
 

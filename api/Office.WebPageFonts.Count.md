@@ -1,5 +1,5 @@
 ---
-title: WebPageFonts.Count Property (Office)
+title: WebPageFonts.Count property (Office)
 keywords: vbaof11.chm225001
 f1_keywords:
 - vbaof11.chm225001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# WebPageFonts.Count Property (Office)
+# WebPageFonts.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **WebPageFonts** object. Read-only.
 

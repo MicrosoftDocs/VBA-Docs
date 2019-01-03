@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.Filters Property (Office)
+title: OfficeDataSourceObject.Filters property (Office)
 keywords: vbaof11.chm232010
 f1_keywords:
 - vbaof11.chm232010
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.Filters Property (Office)
+# OfficeDataSourceObject.Filters property (Office)
 
 Gets the filter status for a  **OfficeDataSourceObject** object. Read-only.
 

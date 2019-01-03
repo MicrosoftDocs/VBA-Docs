@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.OLEMenuGroup Property (Office)
+title: CommandBarPopup.OLEMenuGroup property (Office)
 keywords: vbaof11.chm7003
 f1_keywords:
 - vbaof11.chm7003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.OLEMenuGroup Property (Office)
+# CommandBarPopup.OLEMenuGroup property (Office)
 
 Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that the specified command bar pop-up control belongs to when the menu groups of the OLE server are merged with the menu groups of an OLE client (that is, when an object of the container application type is embedded in another application). Read/write.
 

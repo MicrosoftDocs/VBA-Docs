@@ -1,5 +1,5 @@
 ---
-title: CommandBars.GetEnabledMso Method (Office)
+title: CommandBars.GetEnabledMso method (Office)
 keywords: vbaof11.chm2019
 f1_keywords:
 - vbaof11.chm2019
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.GetEnabledMso Method (Office)
+# CommandBars.GetEnabledMso method (Office)
 
 Returns True if the control identified by the  **idMso** parameter is enabled.
 

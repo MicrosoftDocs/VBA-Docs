@@ -1,5 +1,5 @@
 ---
-title: CustomXMLNode.HasChildNodes Method (Office)
+title: CustomXMLNode.HasChildNodes method (Office)
 keywords: vbaof11.chm294022
 f1_keywords:
 - vbaof11.chm294022
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLNode.HasChildNodes Method (Office)
+# CustomXMLNode.HasChildNodes method (Office)
 
 Gets  **True** if the current element node has child element nodes.
 

@@ -1,5 +1,5 @@
 ---
-title: SearchScopes.Count Property (Office)
+title: SearchScopes.Count property (Office)
 keywords: vbaof11.chm252002
 f1_keywords:
 - vbaof11.chm252002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScopes.Count Property (Office)
+# SearchScopes.Count property (Office)
 
 Gets a  **Long** indicating the number of items in the **SearchScopes** object. Read-only.
 

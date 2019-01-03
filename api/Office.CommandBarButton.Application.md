@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Application Property (Office)
+title: CommandBarButton.Application property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Application Property (Office)
+# CommandBarButton.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **CommandBarButton** object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

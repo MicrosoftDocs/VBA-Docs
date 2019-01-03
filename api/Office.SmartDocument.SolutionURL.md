@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.SolutionURL Property (Office)
+title: SmartDocument.SolutionURL property (Office)
 keywords: vbaof11.chm262002
 f1_keywords:
 - vbaof11.chm262002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument.SolutionURL Property (Office)
+# SmartDocument.SolutionURL property (Office)
 
 Gets or sets an absolute URL which provides the complete path to the XML expansion pack file attached to the active document in Microsoft Word or a workbook in Microsoft Excel. Read/write.
 

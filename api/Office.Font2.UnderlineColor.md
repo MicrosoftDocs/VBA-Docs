@@ -1,5 +1,5 @@
 ---
-title: Font2.UnderlineColor Property (Office)
+title: Font2.UnderlineColor property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.UnderlineColor
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.UnderlineColor Property (Office)
+# Font2.UnderlineColor property (Office)
 
 Gets a value specifying the color of the underline for the selected text. Read-only.
 

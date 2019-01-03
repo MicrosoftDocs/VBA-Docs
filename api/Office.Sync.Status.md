@@ -1,5 +1,5 @@
 ---
-title: Sync.Status Property (Office)
+title: Sync.Status property (Office)
 keywords: vbaof11.chm277001
 f1_keywords:
 - vbaof11.chm277001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Sync.Status Property (Office)
+# Sync.Status property (Office)
 
 Gets the status of the synchronization of the local copy of the active document with the server copy. Read-only.
 

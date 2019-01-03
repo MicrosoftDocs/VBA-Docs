@@ -1,5 +1,5 @@
 ---
-title: CommandBarPopup.Execute Method (Office)
+title: CommandBarPopup.Execute method (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarPopup.Execute
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarPopup.Execute Method (Office)
+# CommandBarPopup.Execute method (Office)
 
 Runs the procedure or built-in command assigned to the specified  **CommandBarPopup** control.
 

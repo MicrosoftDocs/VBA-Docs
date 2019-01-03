@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Top Property (Office)
+title: CommandBarControl.Top property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Top
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Top Property (Office)
+# CommandBarControl.Top property (Office)
 
 Gets the distance (in pixels) from the top edge of the specified  **CommandBarControl** to the top edge of the screen. Read-only.
 

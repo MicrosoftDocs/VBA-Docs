@@ -1,5 +1,5 @@
 ---
-title: SmartArtQuickStyle.Id Property (Office)
+title: SmartArtQuickStyle.Id property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtQuickStyle.Id
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtQuickStyle.Id Property (Office)
+# SmartArtQuickStyle.Id property (Office)
 
 Retrieves the unique Id of the associated SmartArt quick style. Read-only
 

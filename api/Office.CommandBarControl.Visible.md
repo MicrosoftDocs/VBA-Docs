@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Visible Property (Office)
+title: CommandBarControl.Visible property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Visible
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Visible Property (Office)
+# CommandBarControl.Visible property (Office)
 
 Gets or sets the  **Visible** property of the **CommandBarControl**. **True** if the **CommandBarControl** is visible. Read/write.
 

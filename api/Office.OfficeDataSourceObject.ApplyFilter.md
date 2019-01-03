@@ -1,5 +1,5 @@
 ---
-title: OfficeDataSourceObject.ApplyFilter Method (Office)
+title: OfficeDataSourceObject.ApplyFilter method (Office)
 keywords: vbaof11.chm232009
 f1_keywords:
 - vbaof11.chm232009
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# OfficeDataSourceObject.ApplyFilter Method (Office)
+# OfficeDataSourceObject.ApplyFilter method (Office)
 
 Applies a filter to a mail merge data source to filter specified records meeting specified criteria.
 

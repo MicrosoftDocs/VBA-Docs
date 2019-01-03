@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.Save Method (Office)
+title: EncryptionProvider.Save method (Office)
 keywords: vbaof11.chm327006
 f1_keywords:
 - vbaof11.chm327006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.Save Method (Office)
+# EncryptionProvider.Save method (Office)
 
 Saves an encrypted document.
 

@@ -1,5 +1,5 @@
 ---
-title: CommandBarControl.Index Property (Office)
+title: CommandBarControl.Index property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarControl.Index
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControl.Index Property (Office)
+# CommandBarControl.Index property (Office)
 
 Gets a ** Long** representing the index number for a **CommandBarControl** object in the collection. Read-only.
 

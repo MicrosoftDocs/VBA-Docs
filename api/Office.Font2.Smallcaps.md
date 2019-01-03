@@ -1,5 +1,5 @@
 ---
-title: Font2.Smallcaps Property (Office)
+title: Font2.Smallcaps property (Office)
 ms.prod: office
 api_name:
 - Office.Font2.Smallcaps
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Font2.Smallcaps Property (Office)
+# Font2.Smallcaps property (Office)
 
 Gets or sets a value specifying whether small caps should be used with the slection of text. Small caps are the same height as the lowercase letters in a slection of text. Read/write.
 

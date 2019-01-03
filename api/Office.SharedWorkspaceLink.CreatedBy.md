@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.CreatedBy Property (Office)
+title: SharedWorkspaceLink.CreatedBy property (Office)
 keywords: vbaof11.chm270004
 f1_keywords:
 - vbaof11.chm270004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.CreatedBy Property (Office)
+# SharedWorkspaceLink.CreatedBy property (Office)
 
 Gets the display name of the member who created the shared workspace object. Read-only.
 

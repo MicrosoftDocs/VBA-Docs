@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLinks.Item Property (Office)
+title: SharedWorkspaceLinks.Item property (Office)
 keywords: vbaof11.chm271001
 f1_keywords:
 - vbaof11.chm271001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLinks.Item Property (Office)
+# SharedWorkspaceLinks.Item property (Office)
 
 Gets a  **SharedWorkspaceLink** object from the **Links** collection of the shared workspace. Read-only.
 

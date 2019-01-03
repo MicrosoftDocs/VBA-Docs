@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Name Property (Office)
+title: ServerPolicy.Name property (Office)
 keywords: vbaof11.chm278012
 f1_keywords:
 - vbaof11.chm278012
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Name Property (Office)
+# ServerPolicy.Name property (Office)
 
 Gets the name of the  **ServerPolicy** object. Read-only.
 

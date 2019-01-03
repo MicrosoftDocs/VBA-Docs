@@ -1,5 +1,5 @@
 ---
-title: MsoAlertCancelType Enumeration (Office)
+title: MsoAlertCancelType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAlertCancelType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAlertCancelType Enumeration (Office)
+# MsoAlertCancelType enumeration (Office)
 
 Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault** is currently supported.
 

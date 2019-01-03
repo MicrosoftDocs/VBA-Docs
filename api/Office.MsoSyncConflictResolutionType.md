@@ -1,5 +1,5 @@
 ---
-title: MsoSyncConflictResolutionType Enumeration (Office)
+title: MsoSyncConflictResolutionType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoSyncConflictResolutionType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoSyncConflictResolutionType Enumeration (Office)
+# MsoSyncConflictResolutionType enumeration (Office)
 
 Specifies how conflicts should be resolved when synchronizing a shared document. Used with the  **ResolveConflict** method of the **Sync** object.
 

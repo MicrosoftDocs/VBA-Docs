@@ -1,5 +1,5 @@
 ---
-title: Signature.Setup Property (Office)
+title: Signature.Setup property (Office)
 keywords: vbaof11.chm248016
 f1_keywords:
 - vbaof11.chm248016
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Signature.Setup Property (Office)
+# Signature.Setup property (Office)
 
 Gets a  **SignatureSetup** object that provides access to various properties of a signature packet. Read-only.
 

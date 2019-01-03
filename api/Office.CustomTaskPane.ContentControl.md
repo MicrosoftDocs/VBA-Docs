@@ -1,5 +1,5 @@
 ---
-title: CustomTaskPane.ContentControl Property (Office)
+title: CustomTaskPane.ContentControl property (Office)
 keywords: vbaof11.chm301005
 f1_keywords:
 - vbaof11.chm301005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomTaskPane.ContentControl Property (Office)
+# CustomTaskPane.ContentControl property (Office)
 
 Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.
 

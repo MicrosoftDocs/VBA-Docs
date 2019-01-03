@@ -1,5 +1,5 @@
 ---
-title: SearchScope.Creator Property (Office)
+title: SearchScope.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SearchScope.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SearchScope.Creator Property (Office)
+# SearchScope.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SearchScope** object was created. Read-only.
 

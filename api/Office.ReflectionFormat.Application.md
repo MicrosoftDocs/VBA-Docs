@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Application Property (Office)
+title: ReflectionFormat.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Application Property (Office)
+# ReflectionFormat.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ReflectionFormat** object. Read-only.
 

@@ -1,5 +1,5 @@
 ---
-title: NewFile.Creator Property (Office)
+title: NewFile.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.NewFile.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# NewFile.Creator Property (Office)
+# NewFile.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **NewFile** object was created. Read-only.
 

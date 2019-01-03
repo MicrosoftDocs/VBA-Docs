@@ -1,5 +1,5 @@
 ---
-title: TextRange2.ParagraphFormat Property (Office)
+title: TextRange2.ParagraphFormat property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.ParagraphFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.ParagraphFormat Property (Office)
+# TextRange2.ParagraphFormat property (Office)
 
 Returns a  **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.
 

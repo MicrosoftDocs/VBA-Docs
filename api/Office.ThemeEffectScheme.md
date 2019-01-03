@@ -1,5 +1,5 @@
 ---
-title: ThemeEffectScheme Object (Office)
+title: ThemeEffectScheme object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeEffectScheme
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeEffectScheme Object (Office)
+# ThemeEffectScheme object (Office)
 
 Represents the effects scheme of a Microsoft Office theme.
 

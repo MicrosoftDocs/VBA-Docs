@@ -1,5 +1,5 @@
 ---
-title: CommandBars.CommitRenderingTransaction Method (Office)
+title: CommandBars.CommitRenderingTransaction method (Office)
 keywords: vbaof11.chm2026
 f1_keywords:
 - vbaof11.chm2026
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.CommitRenderingTransaction Method (Office)
+# CommandBars.CommitRenderingTransaction method (Office)
 
 Commits the rendering transaction. Returns  **Nothing**.
 

@@ -1,5 +1,5 @@
 ---
-title: SmartArtColor.Parent Property (Office)
+title: SmartArtColor.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtColor.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtColor.Parent Property (Office)
+# SmartArtColor.Parent property (Office)
 
 Returns the calling object. Read-only
 

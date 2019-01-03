@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts Object (Office)
+title: ThemeFonts object (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts Object (Office)
+# ThemeFonts object (Office)
 
 Represents a collection of major and minor fonts in the font scheme of a Microsoft Office theme.
 

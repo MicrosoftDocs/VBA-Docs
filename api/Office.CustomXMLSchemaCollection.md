@@ -1,5 +1,5 @@
 ---
-title: CustomXMLSchemaCollection Object (Office)
+title: CustomXMLSchemaCollection object (Office)
 keywords: vbaof11.chm306000
 f1_keywords:
 - vbaof11.chm306000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLSchemaCollection Object (Office)
+# CustomXMLSchemaCollection object (Office)
 
 Represents a collection of  **CustomXMLSchema** objects attached to a data stream.
 

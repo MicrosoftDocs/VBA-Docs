@@ -1,5 +1,5 @@
 ---
-title: IConverterUICallback.HrInputBox Method (Office)
+title: IConverterUICallback.HrInputBox method (Office)
 keywords: vbaof11.chm332003
 f1_keywords:
 - vbaof11.chm332003
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IConverterUICallback.HrInputBox Method (Office)
+# IConverterUICallback.HrInputBox method (Office)
 
 This feature is only available in the Open XML Format SDK.
 

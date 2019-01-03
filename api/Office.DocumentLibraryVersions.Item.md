@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersions.Item Property (Office)
+title: DocumentLibraryVersions.Item property (Office)
 keywords: vbaof11.chm277027
 f1_keywords:
 - vbaof11.chm277027
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersions.Item Property (Office)
+# DocumentLibraryVersions.Item property (Office)
 
 Gets a  **DocumentLibraryVersion** object from the **DocumentLibraryVersions** collection. Read-only.
 

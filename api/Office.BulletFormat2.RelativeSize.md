@@ -1,5 +1,5 @@
 ---
-title: BulletFormat2.RelativeSize Property (Office)
+title: BulletFormat2.RelativeSize property (Office)
 ms.prod: office
 api_name:
 - Office.BulletFormat2.RelativeSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# BulletFormat2.RelativeSize Property (Office)
+# BulletFormat2.RelativeSize property (Office)
 
 Returns or sets the bullet size relative to the size of the first text character in the paragraph. Read/write.
 

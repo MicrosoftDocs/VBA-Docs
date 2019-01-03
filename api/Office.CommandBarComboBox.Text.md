@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.Text Property (Office)
+title: CommandBarComboBox.Text property (Office)
 keywords: vbaof11.chm8011
 f1_keywords:
 - vbaof11.chm8011
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.Text Property (Office)
+# CommandBarComboBox.Text property (Office)
 
 Gets or sets the text in the display or edit portion of the  **CommandBarComboBox** control. Read/write.
 

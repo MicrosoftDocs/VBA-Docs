@@ -1,5 +1,5 @@
 ---
-title: ReflectionFormat.Blur Property (Office)
+title: ReflectionFormat.Blur property (Office)
 ms.prod: office
 api_name:
 - Office.ReflectionFormat.Blur
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ReflectionFormat.Blur Property (Office)
+# ReflectionFormat.Blur property (Office)
 
 Gets or sets the amount of blur, measured in points, of the shape's reflection image. Read/write
 

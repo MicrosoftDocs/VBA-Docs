@@ -1,5 +1,5 @@
 ---
-title: ODSOColumn.Application Property (Office)
+title: ODSOColumn.Application property (Office)
 ms.prod: office
 api_name:
 - Office.ODSOColumn.Application
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOColumn.Application Property (Office)
+# ODSOColumn.Application property (Office)
 
 Gets an  **Application** object that represents the container application for the **ODSOColum** n object (you can use this property with an **Automation** object to return that object's container application). Read-only.
 

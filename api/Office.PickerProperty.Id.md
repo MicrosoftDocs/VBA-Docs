@@ -1,5 +1,5 @@
 ---
-title: PickerProperty.Id Property (Office)
+title: PickerProperty.Id property (Office)
 keywords: vbaof11.chm336001
 f1_keywords:
 - vbaof11.chm336001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# PickerProperty.Id Property (Office)
+# PickerProperty.Id property (Office)
 
 Retrieves the unique Id of the associated  **PickerProperty** object. Read-only
 

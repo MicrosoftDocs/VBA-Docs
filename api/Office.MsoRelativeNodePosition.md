@@ -1,5 +1,5 @@
 ---
-title: MsoRelativeNodePosition Enumeration (Office)
+title: MsoRelativeNodePosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoRelativeNodePosition
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoRelativeNodePosition Enumeration (Office)
+# MsoRelativeNodePosition enumeration (Office)
 
 Specifies where a node is added to a diagram relative to existing nodes.
 

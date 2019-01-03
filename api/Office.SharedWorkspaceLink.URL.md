@@ -1,5 +1,5 @@
 ---
-title: SharedWorkspaceLink.URL Property (Office)
+title: SharedWorkspaceLink.URL property (Office)
 keywords: vbaof11.chm270001
 f1_keywords:
 - vbaof11.chm270001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SharedWorkspaceLink.URL Property (Office)
+# SharedWorkspaceLink.URL property (Office)
 
 Gets the top-level Uniform Resource Locator (URL) of the shared workspace link. Read/write.
 

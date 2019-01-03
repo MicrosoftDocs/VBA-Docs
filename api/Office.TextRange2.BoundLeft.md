@@ -1,5 +1,5 @@
 ---
-title: TextRange2.BoundLeft Property (Office)
+title: TextRange2.BoundLeft property (Office)
 ms.prod: office
 api_name:
 - Office.TextRange2.BoundLeft
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextRange2.BoundLeft Property (Office)
+# TextRange2.BoundLeft property (Office)
 
 Gets the left coordinate, in points, of the text bounding box for the specified text. Read-only.
 

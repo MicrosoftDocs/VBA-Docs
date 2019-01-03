@@ -1,5 +1,5 @@
 ---
-title: ServerPolicy.Creator Property (Office)
+title: ServerPolicy.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.ServerPolicy.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ServerPolicy.Creator Property (Office)
+# ServerPolicy.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **ServerPolicy** object was created. Read-only.
 

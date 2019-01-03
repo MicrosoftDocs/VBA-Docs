@@ -1,5 +1,5 @@
 ---
-title: MsoBevelType Enumeration (Office)
+title: MsoBevelType enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoBevelType
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoBevelType Enumeration (Office)
+# MsoBevelType enumeration (Office)
 
 Indicates the bevel type of a  **ThreeDFormat** object.
 

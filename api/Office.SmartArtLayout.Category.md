@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout.Category Property (Office)
+title: SmartArtLayout.Category property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout.Category
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout.Category Property (Office)
+# SmartArtLayout.Category property (Office)
 
 Retrieves the primary category name associated with the SmartArt layout. Read-only
 

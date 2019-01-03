@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout.Parent Property (Office)
+title: SmartArtLayout.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout.Parent Property (Office)
+# SmartArtLayout.Parent property (Office)
 
 Returns the calling object. Read-only
 

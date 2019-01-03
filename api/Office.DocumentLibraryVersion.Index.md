@@ -1,5 +1,5 @@
 ---
-title: DocumentLibraryVersion.Index Property (Office)
+title: DocumentLibraryVersion.Index property (Office)
 keywords: vbaof11.chm277018
 f1_keywords:
 - vbaof11.chm277018
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# DocumentLibraryVersion.Index Property (Office)
+# DocumentLibraryVersion.Index property (Office)
 
 Gets a  **Long** representing the index number for a **DocumentLibraryVersion** object in the collection. Read-only.
 

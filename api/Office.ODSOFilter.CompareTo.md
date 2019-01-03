@@ -1,5 +1,5 @@
 ---
-title: ODSOFilter.CompareTo Property (Office)
+title: ODSOFilter.CompareTo property (Office)
 keywords: vbaof11.chm240005
 f1_keywords:
 - vbaof11.chm240005
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ODSOFilter.CompareTo Property (Office)
+# ODSOFilter.CompareTo property (Office)
 
 Gets or sets a  **String** that represents the text to compare in the query filter criterion. Read/write.
 

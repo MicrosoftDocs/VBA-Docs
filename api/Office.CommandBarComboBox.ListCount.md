@@ -1,5 +1,5 @@
 ---
-title: CommandBarComboBox.ListCount Property (Office)
+title: CommandBarComboBox.ListCount property (Office)
 keywords: vbaof11.chm8006
 f1_keywords:
 - vbaof11.chm8006
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarComboBox.ListCount Property (Office)
+# CommandBarComboBox.ListCount property (Office)
 
 Gets the number of list items in a  **CommandBarComboBox** control. Read-only.
 

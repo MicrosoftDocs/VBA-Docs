@@ -1,5 +1,5 @@
 ---
-title: MsoAutoSize Enumeration (Office)
+title: MsoAutoSize enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoAutoSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoAutoSize Enumeration (Office)
+# MsoAutoSize enumeration (Office)
 
 Determines the type of automatic sizing allowed.
 

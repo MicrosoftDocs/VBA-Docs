@@ -1,5 +1,5 @@
 ---
-title: CommandBars.DisableAskAQuestionDropdown Property (Office)
+title: CommandBars.DisableAskAQuestionDropdown property (Office)
 keywords: vbaof11.chm2017
 f1_keywords:
 - vbaof11.chm2017
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.DisableAskAQuestionDropdown Property (Office)
+# CommandBars.DisableAskAQuestionDropdown property (Office)
 
 Is  **True** if the **Answer Wizard** dropdown menu is enabled. Read/write.
 

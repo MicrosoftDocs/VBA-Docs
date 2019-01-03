@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Height Property (Office)
+title: CommandBarButton.Height property (Office)
 ms.prod: office
 api_name:
 - Office.CommandBarButton.Height
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Height Property (Office)
+# CommandBarButton.Height property (Office)
 
 Gets or sets the height of a command bar control. Read/write.
 

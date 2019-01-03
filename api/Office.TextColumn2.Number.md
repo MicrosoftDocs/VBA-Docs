@@ -1,5 +1,5 @@
 ---
-title: TextColumn2.Number Property (Office)
+title: TextColumn2.Number property (Office)
 keywords: vbaof11.chm0
 f1_keywords:
 - vbaof11.chm0
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextColumn2.Number Property (Office)
+# TextColumn2.Number property (Office)
 
 Gets or sets the index of the  **TextColumn2** object. Read/write
 

@@ -1,5 +1,5 @@
 ---
-title: Permission Object (Office)
+title: Permission object (Office)
 keywords: vbaof11.chm261000
 f1_keywords:
 - vbaof11.chm261000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# Permission Object (Office)
+# Permission object (Office)
 
 The  **Permission** property of the **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **Permission** object.
 

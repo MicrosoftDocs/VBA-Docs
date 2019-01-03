@@ -1,5 +1,5 @@
 ---
-title: IMsoContactCard.AddressType Property (Office)
+title: IMsoContactCard.AddressType property (Office)
 keywords: vbaof11.chm341002
 f1_keywords:
 - vbaof11.chm341002
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IMsoContactCard.AddressType Property (Office)
+# IMsoContactCard.AddressType property (Office)
 
 A  **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only
 

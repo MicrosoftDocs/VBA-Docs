@@ -1,12 +1,12 @@
 ---
-title: MsoPictureCompress Enumeration (Office)
+title: MsoPictureCompress enumeration (Office)
 ms.assetid: f58e84f7-f284-425f-88df-b8f8578cebeb
 ms.date: 06/08/2017
 ms.prod: office
 ---
 
 
-# MsoPictureCompress Enumeration (Office)
+# MsoPictureCompress enumeration (Office)
 
 Specifies whether a picture will be compressed or not when inserted into a file.
 

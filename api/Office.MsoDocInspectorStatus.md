@@ -1,5 +1,5 @@
 ---
-title: MsoDocInspectorStatus Enumeration (Office)
+title: MsoDocInspectorStatus enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoDocInspectorStatus
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoDocInspectorStatus Enumeration (Office)
+# MsoDocInspectorStatus enumeration (Office)
 
 Represents the results of running a Document Inspector module.
 

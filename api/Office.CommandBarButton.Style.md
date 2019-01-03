@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Style Property (Office)
+title: CommandBarButton.Style property (Office)
 keywords: vbaof11.chm6007
 f1_keywords:
 - vbaof11.chm6007
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarButton.Style Property (Office)
+# CommandBarButton.Style property (Office)
 
 Gets or sets the way a  **CommandBarButton** control is displayed. Read/write.
 

@@ -1,5 +1,5 @@
 ---
-title: TextFrame2.DeleteText Method (Office)
+title: TextFrame2.DeleteText method (Office)
 ms.prod: office
 api_name:
 - Office.TextFrame2.DeleteText
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# TextFrame2.DeleteText Method (Office)
+# TextFrame2.DeleteText method (Office)
 
 Deletes the text from a text frame and all the associated properties of the text, including font attributes.
 

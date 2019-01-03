@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayouts.Creator Property (Office)
+title: SmartArtLayouts.Creator property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayouts.Creator
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayouts.Creator Property (Office)
+# SmartArtLayouts.Creator property (Office)
 
 Gets a 32-bit integer that indicates the application in which the  **SmartArtLayouts** object was created. Read-only
 

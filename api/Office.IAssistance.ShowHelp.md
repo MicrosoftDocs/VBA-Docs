@@ -1,5 +1,5 @@
 ---
-title: IAssistance.ShowHelp Method (Office)
+title: IAssistance.ShowHelp method (Office)
 ms.prod: office
 api_name:
 - Office.IAssistance.ShowHelp
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IAssistance.ShowHelp Method (Office)
+# IAssistance.ShowHelp method (Office)
 
 Displays the help topic specified by its ID in the Office Help Viewer or, for help topics that ship with Office, in the Help window of the current Office application.
 

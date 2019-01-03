@@ -1,5 +1,5 @@
 ---
-title: ThemeFonts.Parent Property (Office)
+title: ThemeFonts.Parent property (Office)
 ms.prod: office
 api_name:
 - Office.ThemeFonts.Parent
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ThemeFonts.Parent Property (Office)
+# ThemeFonts.Parent property (Office)
 
 Gets the  **Parent** object for the **ThemeFonts** object. Read-only.
 

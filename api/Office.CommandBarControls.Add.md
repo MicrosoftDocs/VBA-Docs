@@ -1,5 +1,5 @@
 ---
-title: CommandBarControls.Add Method (Office)
+title: CommandBarControls.Add method (Office)
 keywords: vbaof11.chm4001
 f1_keywords:
 - vbaof11.chm4001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBarControls.Add Method (Office)
+# CommandBarControls.Add method (Office)
 
 Creates a new  **CommandBarControl** object and adds it to the collection of controls on the specified command bar.
 

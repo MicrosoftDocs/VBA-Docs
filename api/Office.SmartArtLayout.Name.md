@@ -1,5 +1,5 @@
 ---
-title: SmartArtLayout.Name Property (Office)
+title: SmartArtLayout.Name property (Office)
 ms.prod: office
 api_name:
 - Office.SmartArtLayout.Name
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartArtLayout.Name Property (Office)
+# SmartArtLayout.Name property (Office)
 
 Retrieves the string name of the SmartArt layout. Read-only
 

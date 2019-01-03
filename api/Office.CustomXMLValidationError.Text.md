@@ -1,5 +1,5 @@
 ---
-title: CustomXMLValidationError.Text Property (Office)
+title: CustomXMLValidationError.Text property (Office)
 keywords: vbaof11.chm307004
 f1_keywords:
 - vbaof11.chm307004
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLValidationError.Text Property (Office)
+# CustomXMLValidationError.Text property (Office)
 
 Gets the text in the  **CustomXMLValidationError** object. Read-only.
 

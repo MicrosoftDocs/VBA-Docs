@@ -1,5 +1,5 @@
 ---
-title: EncryptionProvider.DecryptStream Method (Office)
+title: EncryptionProvider.DecryptStream method (Office)
 keywords: vbaof11.chm327008
 f1_keywords:
 - vbaof11.chm327008
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# EncryptionProvider.DecryptStream Method (Office)
+# EncryptionProvider.DecryptStream method (Office)
 
 Decrypts and returns a stream of encrypted data for a document.
 

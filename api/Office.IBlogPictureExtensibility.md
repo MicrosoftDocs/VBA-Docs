@@ -1,5 +1,5 @@
 ---
-title: IBlogPictureExtensibility Object (Office)
+title: IBlogPictureExtensibility object (Office)
 keywords: vbaof11.chm329000
 f1_keywords:
 - vbaof11.chm329000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# IBlogPictureExtensibility Object (Office)
+# IBlogPictureExtensibility object (Office)
 
 Represents an object that provides the ability to manipulate blog images.
 

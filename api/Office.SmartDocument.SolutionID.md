@@ -1,5 +1,5 @@
 ---
-title: SmartDocument.SolutionID Property (Office)
+title: SmartDocument.SolutionID property (Office)
 keywords: vbaof11.chm262001
 f1_keywords:
 - vbaof11.chm262001
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# SmartDocument.SolutionID Property (Office)
+# SmartDocument.SolutionID property (Office)
 
 Gets or sets the ID, often a globally unique identifier (GUID), which identifies the XML expansion pack attached to the active document in Microsoft Word or workbook in Microsoft Excel. Read/write.
 

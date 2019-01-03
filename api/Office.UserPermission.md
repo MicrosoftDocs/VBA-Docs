@@ -1,5 +1,5 @@
 ---
-title: UserPermission Object (Office)
+title: UserPermission object (Office)
 keywords: vbaof11.chm260000
 f1_keywords:
 - vbaof11.chm260000
@@ -11,7 +11,7 @@ ms.date: 06/08/2017
 ---
 
 
-# UserPermission Object (Office)
+# UserPermission object (Office)
 
 Associates a set of permissions on the active document with a single user and an optional expiration date. Represents a member of the active document's  **Permission** collection.
 

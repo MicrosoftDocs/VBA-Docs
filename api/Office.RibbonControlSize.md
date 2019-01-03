@@ -1,5 +1,5 @@
 ---
-title: RibbonControlSize Enumeration (Office)
+title: RibbonControlSize enumeration (Office)
 ms.prod: office
 api_name:
 - Office.RibbonControlSize
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# RibbonControlSize Enumeration (Office)
+# RibbonControlSize enumeration (Office)
 
 Specifies constants that define the size of the controls on the ribbon.
 

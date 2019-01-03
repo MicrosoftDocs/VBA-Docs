@@ -1,5 +1,5 @@
 ---
-title: MsoPathFormat Enumeration (Office)
+title: MsoPathFormat enumeration (Office)
 ms.prod: office
 api_name:
 - Office.MsoPathFormat
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoPathFormat Enumeration (Office)
+# MsoPathFormat enumeration (Office)
 
 Specifies the format of a file or folder path.
 

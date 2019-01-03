@@ -1,5 +1,5 @@
 ---
-title: ParagraphFormat2 Object (Office)
+title: ParagraphFormat2 object (Office)
 ms.prod: office
 api_name:
 - Office.ParagraphFormat2
@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 ---
 
 
-# ParagraphFormat2 Object (Office)
+# ParagraphFormat2 object (Office)
 
 Represents the paragraph formatting of a text range.
 
