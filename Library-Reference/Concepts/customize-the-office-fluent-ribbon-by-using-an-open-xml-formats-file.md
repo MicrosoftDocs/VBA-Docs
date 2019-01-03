@@ -2,7 +2,7 @@
 title: Customize the Office Fluent ribbon by using an Open XML formats file
 ms.prod: office
 ms.assetid: 562d79a2-c1eb-126a-1567-ddd0253f5972
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -71,15 +71,19 @@ The code example in this topic shows how to add custom components to the ribbon 
 
 11. Close and save the file.
     
-12. Add the _rels folder back to the container file by dragging it from the desktop, overwriting the existing file.
+12. Add the **.rels** folder back to the container file by dragging it from the desktop, overwriting the existing file.
     
 13. Rename the document file to its original name by removing the .zip extension.
     
 14. Open the document and notice that the ribbon now displays the **My Tab** tab.
     
-15. Click the tab and notice the **Sample Group** group with a button control.
+15. Choose the tab and notice the **Sample Group** group with a button control.
     
-16. Click the button to insert the company name into the document.
+16. Choose the button to insert the company name into the document.
     
+## See also
 
+- [Overview of the Office Fluent ribbon](overview-of-the-office-fluent-ribbon.md)
+- [Customize the Office Fluent ribbon by using a managed COM add-in](customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
+- [Customize the Office Fluent ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))
 
