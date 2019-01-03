@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PageSize.Application.md)|
 |[HasBackgroundImage](./Publisher.PageSize.HasBackgroundImage.md)|

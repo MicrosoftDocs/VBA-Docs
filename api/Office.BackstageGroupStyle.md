@@ -4,15 +4,13 @@ ms.prod: office
 api_name:
 - Office.BackstageGroupStyle
 ms.assetid: fe65008a-2579-0858-7912-29e8e3023937
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
 # BackstageGroupStyle enumeration (Office)
 
-Specifies constants that define the styles of the groups on the  **File** tab.
-
-
+Specifies constants that define the styles of the groups on the **File** tab.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TextFrame2.Application.md)|Gets an  **Application** object that represents the container application for the **TextFrame2** object. Read-only|
 |[AutoSize](../../Office.TextFrame2.AutoSize.md)| Returns or sets a value that indicates whether the size of the specified shape is changed automatically to fit text within its boundaries. Read/write|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.TabStops2.Add.md)|Adds a new tab stop to the specified  **TabStops2** object.|
 |[Item](../../Office.TabStops2.Item.md)|Gets an individual object from the  **TabStops2** collection.|

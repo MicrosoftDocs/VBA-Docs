@@ -25,7 +25,7 @@ To access the  **SlicerItem** object that represents the currently selected butt
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.SlicerItem.Application.md)|
 |[Caption](Excel.SlicerItem.Caption.md)|

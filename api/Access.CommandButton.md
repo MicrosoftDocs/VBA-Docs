@@ -34,7 +34,7 @@ You can display text on a command button by setting its  **Caption** property, o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.CommandButton.Click.md)|
 |[DblClick](Access.CommandButton.DblClick.md)|
@@ -53,7 +53,7 @@ You can display text on a command button by setting its  **Caption** property, o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.CommandButton.Move.md)|
 |[Requery](Access.CommandButton.Requery.md)|
@@ -64,7 +64,7 @@ You can display text on a command button by setting its  **Caption** property, o
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.CommandButton.AddColon.md)|
 |[Alignment](Access.CommandButton.Alignment.md)|

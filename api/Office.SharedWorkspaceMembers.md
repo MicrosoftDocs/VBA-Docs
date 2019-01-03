@@ -40,7 +40,7 @@ Use the  **[Members](Office.SharedWorkspace.Members.md)** property of the **[Sha
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceMembers.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Members](Office.SharedWorkspace.Members.md)** property of the **[Sha
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceMembers.Application.md)|
 |[Count](Office.SharedWorkspaceMembers.Count.md)|

@@ -36,7 +36,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearDefaultContext](Office.IAssistance.ClearDefaultContext.md)|
 |[SearchHelp](Office.IAssistance.SearchHelp.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtNodes.Application.md)|Gets an  **Application** object that represents the container application for the **SmartArtNodes** object. Read-only|
 |[Count](../../Office.SmartArtNodes.Count.md)|Retrieves the number of  **SmartArtNode** objects contained within the **SmartArtNodes** collection. Read-only|

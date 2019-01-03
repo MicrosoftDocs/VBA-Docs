@@ -55,7 +55,7 @@ ActiveDocument.Lists(1).ApplyListTemplate _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyBulletDefault](Word.ListFormat.ApplyBulletDefault.md)|
 |[ApplyListTemplate](Word.ListFormat.ApplyListTemplate.md)|
@@ -73,7 +73,7 @@ ActiveDocument.Lists(1).ApplyListTemplate _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListFormat.Application.md)|
 |[Creator](Word.ListFormat.Creator.md)|

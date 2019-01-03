@@ -30,7 +30,7 @@ Set tfThemeFonts = tTheme.ThemeFontScheme.MinorFont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.ThemeFonts.Item.md)|
 
@@ -38,7 +38,7 @@ Set tfThemeFonts = tTheme.ThemeFontScheme.MinorFont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeFonts.Application.md)|
 |[Count](Office.ThemeFonts.Count.md)|

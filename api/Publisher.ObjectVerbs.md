@@ -41,7 +41,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.ObjectVerbs.Item.md)|
 
@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ObjectVerbs.Application.md)|
 |[Count](Publisher.ObjectVerbs.Count.md)|

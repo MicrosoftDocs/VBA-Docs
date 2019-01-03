@@ -48,7 +48,7 @@ Worksheets(1).ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.DataLabels.Delete.md)|
 |[Item](Excel.DataLabels.Item.md)|
@@ -59,7 +59,7 @@ Worksheets(1).ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.DataLabels.Application.md)|
 |[AutoText](Excel.DataLabels.AutoText.md)|

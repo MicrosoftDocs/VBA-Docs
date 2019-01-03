@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerResults.Application.md)|Gets an  **Application** object that represents the container application for the **PickerResults** object. Read-only|
 |[Count](../../Office.PickerResults.Count.md)|Retrieves the count of the number of  **PickerResult** objects contained within the **PickerResults** collection. Read-only|

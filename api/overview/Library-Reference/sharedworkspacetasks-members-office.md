@@ -14,14 +14,14 @@ A collection of the **[SharedWorkspaceTask](../../Office.SharedWorkspaceTask.md)
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceTasks.Add.md)|Adds a task to the list of tasks in a shared workspace. Returns a **SharedWorkspaceTask** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceTasks.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceTasks** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SharedWorkspaceTasks.Count.md)|Gets a **Long** indicating the number of items in the **SharedWorkspaceTasks** object. Read-only.|

@@ -53,7 +53,7 @@ ActiveDocument.Tables(1).Rows(1).Shading.Texture = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Shading.Application.md)|
 |[BackgroundPatternColor](Word.Shading.BackgroundPatternColor.md)|

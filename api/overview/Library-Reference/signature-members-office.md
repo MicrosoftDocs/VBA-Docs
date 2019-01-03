@@ -14,7 +14,7 @@ Represents a digital signature attached to a document. **Signature** objects are
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.Signature.Delete.md)|Deletes the **Signature** object from the collection.|
 |[ShowDetails](../../Office.Signature.ShowDetails.md)|Displays details related to a signature packet.|
@@ -22,7 +22,7 @@ Represents a digital signature attached to a document. **Signature** objects are
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Signature.Application.md)|Gets an **Application** object that represents the container application for the **Signature** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[CanSetup](../../Office.Signature.CanSetup.md)|Gets a **Boolean** value indicating whether the user can set properties of the **Signature** object. Read-only.|

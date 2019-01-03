@@ -57,7 +57,7 @@ BaseCalendarCreate Name:="Base Holiday Calendar"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Calendars.Application.md)|
 |[Count](./Project.Calendars.Count.md)|

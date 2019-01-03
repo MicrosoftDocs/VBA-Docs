@@ -70,7 +70,7 @@ ActiveProject.Calendar.WeekDays
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WeekDays.Application.md)|
 |[Count](Project.WeekDays.Count.md)|

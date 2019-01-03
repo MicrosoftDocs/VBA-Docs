@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.BulletFormat2.UseTextColor
 ms.assetid: c492ea74-9dfe-12cb-3ccd-500f674eb3f5
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -27,10 +27,5 @@ MsoTriState
 
 ## See also
 
-
-[BulletFormat2 Object](Office.BulletFormat2.md)
-
-
-
-[BulletFormat2 Object Members](./overview/Library-Reference/bulletformat2-members-office.md)
+- [BulletFormat2 object members](overview/Library-Reference/bulletformat2-members-office.md)
 

@@ -117,7 +117,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.BuildingBlock.Delete.md)|
 |[Insert](Word.BuildingBlock.Insert.md)|
@@ -126,7 +126,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.BuildingBlock.Application.md)|
 |[Category](Word.BuildingBlock.Category.md)|

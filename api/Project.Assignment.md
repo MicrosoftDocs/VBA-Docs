@@ -55,7 +55,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppendNotes](./Project.Assignment.AppendNotes.md)|
 |[Delete](./Project.Assignment.Delete.md)|
@@ -67,7 +67,7 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActualCost](./Project.Assignment.ActualCost.md)|
 |[ActualFinish](./Project.Assignment.ActualFinish.md)|

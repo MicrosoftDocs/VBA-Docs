@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkTextBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkTextBox.BeforeUpdate.md)|
@@ -54,7 +54,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Outlook.OlkTextBox.Clear.md)|
 |[Copy](Outlook.OlkTextBox.Copy.md)|
@@ -65,7 +65,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkTextBox.AutoSize.md)|
 |[AutoTab](Outlook.OlkTextBox.AutoTab.md)|

@@ -107,7 +107,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](./PowerPoint.Selection.Copy.md)|
 |[Cut](./PowerPoint.Selection.Cut.md)|
@@ -118,7 +118,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Selection.Application.md)|
 |[ChildShapeRange](./PowerPoint.Selection.ChildShapeRange.md)|

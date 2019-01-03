@@ -66,7 +66,7 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyStyle](./PowerPoint.Table.ApplyStyle.md)|
 |[Cell](./PowerPoint.Table.Cell.md)|
@@ -76,7 +76,7 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 3)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlternativeText](./PowerPoint.Table.AlternativeText.md)|
 |[Application](./PowerPoint.Table.Application.md)|

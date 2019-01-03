@@ -27,7 +27,7 @@ You can use the  **[Visible](Outlook.JournalModule.Visible.md)** property to det
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.JournalModule.Application.md)|
 |[Class](Outlook.JournalModule.Class.md)|

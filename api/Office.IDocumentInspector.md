@@ -28,7 +28,7 @@ Represents the interface through which the methods of a  **IDocumentInspector** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Fix](Office.IDocumentInspector.Fix.md)|
 |[GetInfo](Office.IDocumentInspector.GetInfo.md)|

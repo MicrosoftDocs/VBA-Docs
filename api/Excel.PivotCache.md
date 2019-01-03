@@ -44,7 +44,7 @@ ActiveWorkbook.PivotCaches(1).Refresh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CreatePivotChart](Excel.pivotcache.createpivotchart.md)|
 |[CreatePivotTable](Excel.PivotCache.CreatePivotTable.md)|
@@ -57,7 +57,7 @@ ActiveWorkbook.PivotCaches(1).Refresh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ADOConnection](Excel.PivotCache.ADOConnection.md)|
 |[Application](Excel.PivotCache.Application.md)|

@@ -29,7 +29,7 @@ The only data source supported is MAPI, which allows access to all Outlook data 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoDiscoverComplete](./Outlook.NameSpace.AutoDiscoverComplete.md)|
 |[OptionsPagesAdd](./Outlook.NameSpace.OptionsPagesAdd.md)|
@@ -38,7 +38,7 @@ The only data source supported is MAPI, which allows access to all Outlook data 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddStore](./Outlook.NameSpace.AddStore.md)|
 |[AddStoreEx](./Outlook.NameSpace.AddStoreEx.md)|
@@ -68,7 +68,7 @@ The only data source supported is MAPI, which allows access to all Outlook data 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accounts](./Outlook.NameSpace.Accounts.md)|
 |[AddressLists](./Outlook.NameSpace.AddressLists.md)|

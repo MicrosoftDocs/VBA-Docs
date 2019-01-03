@@ -67,7 +67,7 @@ Next aBorder
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyPageBordersToAllSections](Word.Borders.ApplyPageBordersToAllSections.md)|
 |[Item](Word.Borders.Item.md)|
@@ -76,7 +76,7 @@ Next aBorder
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlwaysInFront](Word.Borders.AlwaysInFront.md)|
 |[Application](Word.Borders.Application.md)|

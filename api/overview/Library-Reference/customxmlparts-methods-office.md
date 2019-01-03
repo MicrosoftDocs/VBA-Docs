@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLParts.Add.md)|Allows you to add a new  **CustomXMLPart** to a file.|
 |[SelectByID](../../Office.CustomXMLParts.SelectByID.md)|Selects a custom XML part matching a GUID. |

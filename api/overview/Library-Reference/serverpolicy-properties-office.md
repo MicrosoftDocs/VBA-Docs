@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ServerPolicy.Application.md)|Gets an  **Application** object that represents the container application for the **ServerPolicy** object. Read-only.|
 |[BlockPreview](../../Office.ServerPolicy.BlockPreview.md)|Gets a  **Boolean** value that indicates whether you can preview items using this policy. Read-only.|

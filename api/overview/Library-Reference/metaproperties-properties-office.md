@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.MetaProperties.Application.md)|Gets an  **Application** object that represents the container application for the **MetaProperties** object. Read-only.|
 |[Count](../../Office.MetaProperties.Count.md)|Gets a  **Long** indicating the number of items in the **MetaProperties** collection. Read-only.|

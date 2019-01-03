@@ -35,7 +35,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetIcon](Outlook.OutlookBarShortcut.SetIcon.md)|
 
@@ -43,7 +43,7 @@ Set myOlBarShortcut = myOutlookBarShortcuts.Item("Calendar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OutlookBarShortcut.Application.md)|
 |[Class](Outlook.OutlookBarShortcut.Class.md)|

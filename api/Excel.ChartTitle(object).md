@@ -40,7 +40,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.ChartTitle.Delete.md)|
 |[Select](Excel.ChartTitle.Select.md)|
@@ -49,7 +49,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ChartTitle.Application.md)|
 |[Caption](Excel.ChartTitle.Caption.md)|

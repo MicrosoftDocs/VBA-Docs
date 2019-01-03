@@ -151,7 +151,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.OutlineCodes.Add.md)|
 
@@ -159,7 +159,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.OutlineCodes.Application.md)|
 |[Count](Project.OutlineCodes.Count.md)|

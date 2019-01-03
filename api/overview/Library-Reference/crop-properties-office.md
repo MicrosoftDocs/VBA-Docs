@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.Crop.Application.md)|Gets the  **Application** object of the host application. Read-only.|
 |[Creator](../../Office.Crop.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **Crop** object was created. Read-only.|

@@ -62,7 +62,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.CustomXMLValidationError.Delete.md)|
 
@@ -70,7 +70,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLValidationError.Application.md)|
 |[Creator](Office.CustomXMLValidationError.Creator.md)|

@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.BulletFormat2
 ms.assetid: ad4c2a05-c34d-fbd4-6b12-3153b94d2c4e
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -36,9 +36,7 @@ End With
 
 ## Methods
 
-
-
-|**Name**|
+|Name|
 |:-----|
 |[Picture](Office.BulletFormat2.Picture.md)|
 
@@ -46,7 +44,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.BulletFormat2.Application.md)|
 |[Character](Office.BulletFormat2.Character.md)|

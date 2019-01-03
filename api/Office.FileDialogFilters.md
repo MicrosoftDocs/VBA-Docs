@@ -123,7 +123,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.FileDialogFilters.Add.md)|
 |[Clear](Office.FileDialogFilters.Clear.md)|
@@ -134,7 +134,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.FileDialogFilters.Application.md)|
 |[Count](Office.FileDialogFilters.Count.md)|

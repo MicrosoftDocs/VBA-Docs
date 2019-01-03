@@ -39,7 +39,7 @@ Set myItem = Application.CreateItem(olContactItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.ContactItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.ContactItem.AttachmentAdd.md)|
@@ -72,7 +72,7 @@ Set myItem = Application.CreateItem(olContactItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBusinessCardLogoPicture](./Outlook.ContactItem.AddBusinessCardLogoPicture.md)|
 |[AddPicture](./Outlook.ContactItem.AddPicture.md)|
@@ -102,7 +102,7 @@ Set myItem = Application.CreateItem(olContactItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Account](./Outlook.ContactItem.Account.md)|
 |[Actions](./Outlook.ContactItem.Actions.md)|

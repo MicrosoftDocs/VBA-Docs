@@ -46,7 +46,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.TextBox.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.TextBox.BeforeUpdate(even).md)|
@@ -70,7 +70,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.TextBox.Move.md)|
 |[Requery](Access.TextBox.Requery.md)|
@@ -82,7 +82,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.TextBox.AddColon.md)|
 |[AfterUpdate](Access.TextBox.AfterUpdate(property).md)|

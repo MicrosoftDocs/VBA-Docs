@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WorkflowTemplates.Application.md)|
 |[Count](Office.WorkflowTemplates.Count.md)|

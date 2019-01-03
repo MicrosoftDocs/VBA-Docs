@@ -27,7 +27,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddressList](Outlook.SenderInAddressListRuleCondition.AddressList.md)|
 |[Application](Outlook.SenderInAddressListRuleCondition.Application.md)|

@@ -27,7 +27,7 @@ For more information about specifying rule actions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.FromRssFeedRuleCondition.Application.md)|
 |[Class](Outlook.FromRssFeedRuleCondition.Class.md)|

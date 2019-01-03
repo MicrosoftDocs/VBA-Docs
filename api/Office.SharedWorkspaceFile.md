@@ -72,7 +72,7 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceFile.Delete.md)|
 
@@ -80,7 +80,7 @@ Use the  **Item** ( _index_ ) property of the **SharedWorkspaceFiles** collectio
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFile.Application.md)|
 |[CreatedBy](Office.SharedWorkspaceFile.CreatedBy.md)|

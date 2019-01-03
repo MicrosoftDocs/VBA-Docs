@@ -89,7 +89,7 @@ Application.WindowNewWindow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveWindow](Project.Windows.ActiveWindow.md)|
 |[Application](Project.Windows.Application.md)|

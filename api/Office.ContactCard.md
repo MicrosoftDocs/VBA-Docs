@@ -25,7 +25,7 @@ You can create a new instance of a  **ContactCard** object by calling the Micros
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Office.ContactCard.Close.md)|
 |[Show](Office.ContactCard.Show.md)|
@@ -34,7 +34,7 @@ You can create a new instance of a  **ContactCard** object by calling the Micros
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ContactCard.Application.md)|
 |[Creator](Office.ContactCard.Creator.md)|

@@ -36,7 +36,7 @@ You can't add or delete a  **Report** object from the **Reports** collection.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Reports.Application.md)|
 |[Count](Access.Reports.Count.md)|

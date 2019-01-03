@@ -49,7 +49,7 @@ CaptionLabels.Add Name:="Photo"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.CaptionLabel.Delete.md)|
 
@@ -57,7 +57,7 @@ CaptionLabels.Add Name:="Photo"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.CaptionLabel.Application.md)|
 |[BuiltIn](Word.CaptionLabel.BuiltIn.md)|

@@ -14,7 +14,7 @@ Chooses the color scheme for the SmartArt diagram.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtColor.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtColor** object. Read-only|
 |[Category](../../Office.SmartArtColor.Category.md)|Retrieves the primary category name associated with the SmartArt color style. Read-only|

@@ -61,7 +61,7 @@ stFirst = Application.ActiveDocument.Stories(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.Stories.Item.md)|
 
@@ -69,7 +69,7 @@ stFirst = Application.ActiveDocument.Stories(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Stories.Application.md)|
 |[Count](Publisher.Stories.Count.md)|

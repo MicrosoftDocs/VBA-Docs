@@ -106,7 +106,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.OrderFields.Add.md)|
 |[Insert](Outlook.OrderFields.Insert.md)|
@@ -118,7 +118,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.OrderFields.Application.md)|
 |[Class](Outlook.OrderFields.Class.md)|

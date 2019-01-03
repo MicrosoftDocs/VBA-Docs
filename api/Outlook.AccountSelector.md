@@ -27,7 +27,7 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SelectedAccountChange](Outlook.AccountSelector.SelectedAccountChange.md)|
 
@@ -35,7 +35,7 @@ The  **AccountSelector** object provides a **[SelectedAccount](Outlook.AccountSe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AccountSelector.Application.md)|
 |[Class](Outlook.AccountSelector.Class.md)|

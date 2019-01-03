@@ -40,7 +40,7 @@ Worksheets(1).Visible = False
 ```
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Worksheets.Add.md)|
 |[Add2](Excel.worksheets.add2.md)|
@@ -54,7 +54,7 @@ Worksheets(1).Visible = False
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Worksheets.Application.md)|
 |[Count](Excel.Worksheets.Count.md)|

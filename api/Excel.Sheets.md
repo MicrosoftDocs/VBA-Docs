@@ -64,7 +64,7 @@ Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Sheets.Add.md)|
 |[Add2](Excel.sheets.add2.md)|
@@ -80,7 +80,7 @@ Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Sheets.Application.md)|
 |[Count](Excel.Sheets.Count.md)|

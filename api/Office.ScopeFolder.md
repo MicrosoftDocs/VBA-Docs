@@ -86,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToSearchFolders](Office.ScopeFolder.AddToSearchFolders.md)|
 
@@ -94,7 +94,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ScopeFolder.Application.md)|
 |[Creator](Office.ScopeFolder.Creator.md)|

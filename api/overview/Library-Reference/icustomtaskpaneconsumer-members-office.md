@@ -13,7 +13,7 @@ An interface that provides access to the **CTPFactoryAvailable** method that is 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CTPFactoryAvailable](../../Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)|Passes an **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.|
 

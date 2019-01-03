@@ -97,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](Outlook.ColumnFormat.Align.md)|
 |[Application](Outlook.ColumnFormat.Application.md)|

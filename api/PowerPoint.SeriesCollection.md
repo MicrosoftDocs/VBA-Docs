@@ -94,7 +94,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.SeriesCollection.Add.md)|
 |[Extend](./PowerPoint.SeriesCollection.Extend.md)|
@@ -105,7 +105,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.SeriesCollection.Application.md)|
 |[Count](./PowerPoint.SeriesCollection.Count.md)|

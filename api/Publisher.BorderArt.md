@@ -84,7 +84,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BorderArt.Application.md)|
 |[Name](Publisher.BorderArt.Name.md)|

@@ -27,7 +27,7 @@ You can use the  **[Visible](./Outlook.CalendarModule.Visible.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.CalendarModule.Application.md)|
 |[Class](./Outlook.CalendarModule.Class.md)|

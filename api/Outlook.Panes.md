@@ -49,7 +49,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Panes.Item.md)|
 
@@ -57,7 +57,7 @@ Set myOLBarPane = myExplorer.Panes.Item("OutlookBar")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Panes.Application.md)|
 |[Class](Outlook.Panes.Class.md)|

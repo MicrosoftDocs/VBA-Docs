@@ -68,7 +68,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ScrollShapeIntoView](Publisher.View.ScrollShapeIntoView.md)|
 |[ZoomIn](Publisher.View.ZoomIn.md)|
@@ -78,7 +78,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActivePage](Publisher.View.ActivePage.md)|
 |[Application](Publisher.View.Application.md)|

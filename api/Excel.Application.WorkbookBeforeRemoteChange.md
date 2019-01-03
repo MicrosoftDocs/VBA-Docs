@@ -23,7 +23,7 @@ Occurs before a remote user's edits to the workbook are merged.
 
 ## Parameters
 
-|**Name**|**Required or Optional**|**Data Type**|**Description**|
+|Name|**Required or Optional**|**Data Type**|**Description**|
 |:-----|:-----|:-----|:-----|
 | _Wb_|Required| **[Workbook](Excel.Workbook.md)**|The workbook which has been changed by a remote user.|
 

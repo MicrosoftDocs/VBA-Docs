@@ -25,7 +25,7 @@ You cannot create a new instance of a  **ContactCard** object programmatically. 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Office.IMsoContactCard.Address.md)|
 |[AddressType](Office.IMsoContactCard.AddressType.md)|

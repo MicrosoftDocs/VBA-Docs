@@ -53,7 +53,7 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ResourceGroups2.Add.md)|
 |[Copy](Project.ResourceGroups2.Copy.md)|
@@ -62,7 +62,7 @@ ActiveProject.ResourceGroups2("Resources by Rate").GroupCriteria(1).Ascending = 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ResourceGroups2.Application.md)|
 |[Count](Project.ResourceGroups2.Count.md)|

@@ -98,7 +98,7 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Controls.Application.md)|
 |[Count](Access.Controls.Count.md)|

@@ -120,7 +120,7 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Dropdown](Access.Control.Dropdown.md)|
 |[Move](Access.Control.Move.md)|
@@ -133,7 +133,7 @@ Other  **Control** objects have a **Controls** collection that can contain an at
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Control.Application.md)|
 |[BottomPadding](Access.Control.BottomPadding.md)|

@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.RulerGuide.Delete.md)|
 
@@ -55,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.RulerGuide.Application.md)|
 |[Parent](Publisher.RulerGuide.Parent.md)|

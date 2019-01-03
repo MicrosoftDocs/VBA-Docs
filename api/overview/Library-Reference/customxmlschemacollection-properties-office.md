@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLSchemaCollection.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.|
 |[Count](../../Office.CustomXMLSchemaCollection.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.|

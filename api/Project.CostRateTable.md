@@ -36,7 +36,7 @@ GovtRates.PayRates(1).StandardRate = "$10/h"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CostRateTable.Application.md)|
 |[Index](Project.CostRateTable.Index.md)|

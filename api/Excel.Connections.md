@@ -31,7 +31,7 @@ ActiveWorkbook.Connections.AddFromFile _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add2](Excel.Connections.Add.md)|
 |[AddFromFile](Excel.Connections.AddFromFile.md)|
@@ -41,7 +41,7 @@ ActiveWorkbook.Connections.AddFromFile _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Connections.Application.md)|
 |[Count](Excel.Connections.Count.md)|

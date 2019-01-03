@@ -68,7 +68,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddCallout](Word.Shapes.AddCallout.md)|
 |[AddCanvas](Word.Shapes.AddCanvas.md)|
@@ -94,7 +94,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Shapes.Application.md)|
 |[Count](Word.Shapes.Count.md)|

@@ -27,7 +27,7 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Execute](Access.Operation.Execute.md)|
 
@@ -35,7 +35,7 @@ Use the [Execute](Access.Operation.Execute.md) method to execute the operation.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.Operation.Name.md)|
 |[Parent](Access.operation.parent.md)|

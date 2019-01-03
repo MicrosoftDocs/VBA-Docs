@@ -18,7 +18,7 @@ Represents a combination view in Project. The  **ViewCombination** object is a m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Project.ViewCombination.Apply.md)|
 |[Delete](Project.ViewCombination.Delete.md)|
@@ -27,7 +27,7 @@ Represents a combination view in Project. The  **ViewCombination** object is a m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ViewCombination.Application.md)|
 |[BottomView](Project.ViewCombination.BottomView.md)|

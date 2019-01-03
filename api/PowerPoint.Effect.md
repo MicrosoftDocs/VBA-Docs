@@ -97,7 +97,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Delete](./PowerPoint.Effect.Delete.md)**|
 |**[MoveAfter](./PowerPoint.Effect.MoveAfter.md)**|
@@ -108,7 +108,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |**[Application](./PowerPoint.Effect.Application.md)**|
 |**[Behaviors](./PowerPoint.Effect.Behaviors.md)**|

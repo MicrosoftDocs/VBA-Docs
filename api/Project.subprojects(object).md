@@ -12,7 +12,7 @@ Contains a collection of **[Subproject](Project.Subproject.md)** objects.
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Subprojects.Application.md)|
 |[Count](./Project.Subprojects.Count.md)|

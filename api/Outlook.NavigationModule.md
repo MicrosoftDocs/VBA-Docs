@@ -46,7 +46,7 @@ You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationModule.Application.md)|
 |[Class](Outlook.NavigationModule.Class.md)|

@@ -36,7 +36,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Outlook.OlkLabel.Click.md)|
 |[DoubleClick](Outlook.OlkLabel.DoubleClick.md)|
@@ -48,7 +48,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkLabel.Accelerator.md)|
 |[AutoSize](Outlook.OlkLabel.AutoSize.md)|

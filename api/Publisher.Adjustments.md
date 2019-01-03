@@ -57,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Adjustments.Application.md)|
 |[Count](./Publisher.Adjustments.Count.md)|

@@ -13,7 +13,7 @@ Used to create a custom task pane.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CreateCTP](../../Office.ICTPFactory.CreateCTP.md)|Creates an instance of a custom task pane.|
 

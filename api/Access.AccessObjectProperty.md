@@ -73,7 +73,7 @@ With the same syntax forms, you can also refer to the  **Value** property of a *
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.AccessObjectProperty.Name.md)|
 |[Value](Access.AccessObjectProperty.Value.md)|

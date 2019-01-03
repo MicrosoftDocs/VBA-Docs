@@ -62,7 +62,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Areas.Application.md)|
 |[Count](Excel.Areas.Count.md)|

@@ -13,7 +13,7 @@ A collection of **PickerField** objects. Each **PickerField** object represents 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerFields.Application.md)|Gets an **Application** object that represents the container application for the **PickerFields** object. Read-only|
 |[Count](../../Office.PickerFields.Count.md)|Retrieves the count of the number of **PickerField** objects contained within the **PickerFields** collection. Read-only|

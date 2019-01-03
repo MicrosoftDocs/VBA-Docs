@@ -34,7 +34,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ReflectionFormat.Application.md)|
 |[Blur](Office.ReflectionFormat.Blur.md)|

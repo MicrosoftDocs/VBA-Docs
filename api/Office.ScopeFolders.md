@@ -29,7 +29,7 @@ You can't add or remove  **ScopeFolder** objects from a **ScopeFolders** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ScopeFolders.Application.md)|
 |[Count](Office.ScopeFolders.Count.md)|

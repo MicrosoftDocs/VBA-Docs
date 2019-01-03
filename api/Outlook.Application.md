@@ -63,7 +63,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvancedSearchComplete](./Outlook.Application.AdvancedSearchComplete.md)|
 |[AdvancedSearchStopped](./Outlook.Application.AdvancedSearchStopped.md)|
@@ -82,7 +82,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveExplorer](./Outlook.Application.ActiveExplorer.md)|
 |[ActiveInspector](./Outlook.Application.ActiveInspector.md)|
@@ -102,7 +102,7 @@ myItem.Display
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Application.Application.md)|
 |[Assistance](./Outlook.Application.Assistance.md)|

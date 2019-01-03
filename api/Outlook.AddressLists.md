@@ -35,7 +35,7 @@ Set myAddressLists = myNameSpace.AddressLists
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.AddressLists.Item.md)|
 
@@ -43,7 +43,7 @@ Set myAddressLists = myNameSpace.AddressLists
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AddressLists.Application.md)|
 |[Class](Outlook.AddressLists.Class.md)|

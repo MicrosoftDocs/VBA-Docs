@@ -57,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.FileDialogFilter.Application.md)|
 |[Creator](Office.FileDialogFilter.Creator.md)|

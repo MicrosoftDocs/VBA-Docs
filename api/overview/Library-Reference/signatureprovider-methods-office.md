@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GenerateSignatureLineImage](../../Office.SignatureProvider.GenerateSignatureLineImage.md)|Gets a signature line image.|
 |[GetProviderDetail](../../Office.SignatureProvider.GetProviderDetail.md)|Queries the signature provider add-in for various details. |

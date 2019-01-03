@@ -45,7 +45,7 @@ You can manipulate the individual  **List** objects within a document, but for m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyListTemplate](Word.List.ApplyListTemplate.md)|
 |[ApplyListTemplateWithLevel](Word.List.ApplyListTemplateWithLevel.md)|
@@ -58,7 +58,7 @@ You can manipulate the individual  **List** objects within a document, but for m
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.List.Application.md)|
 |[Creator](Word.List.Creator.md)|

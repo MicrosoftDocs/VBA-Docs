@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.BulletFormat2.Application.md)|Gets an object that represents the  **BulletFormat2** object. Read-only.|
 |[Character](../../Office.BulletFormat2.Character.md)|Gets or sets the Unicode character value that is used for bullets in the specified text. Read/write.|

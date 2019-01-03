@@ -13,7 +13,7 @@ A collection of **PickerProperty** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.PickerProperties.Add.md)||
 |[Remove](../../Office.PickerProperties.Remove.md)|Removes a PickerProperty from the collection.|
@@ -21,7 +21,7 @@ A collection of **PickerProperty** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerProperties.Application.md)|Gets an **Application** object that represents the container application for the **PickerProperties** object. Read-only|
 |[Count](../../Office.PickerProperties.Count.md)|Retrieves the count of the number of **PickerProperty** objects contained within the **PickerProperties** collection. Read-only|

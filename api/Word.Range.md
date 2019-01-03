@@ -56,7 +56,7 @@ For more information about working with  **Range** objects, see [Working with Ra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoFormat](./Word.Range.AutoFormat.md)|
 |[Calculate](./Word.Range.Calculate.md)|
@@ -138,7 +138,7 @@ For more information about working with  **Range** objects, see [Working with Ra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Word.Range.Application.md)|
 |[Bold](./Word.Range.Bold.md)|

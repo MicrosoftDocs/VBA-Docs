@@ -29,7 +29,7 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMember](./Visio.ContainerProperties.AddMember.md)|
 |[Disband](./Visio.ContainerProperties.Disband.md)|
@@ -51,7 +51,7 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.ContainerProperties.Application.md)|
 |[ContainerStyle](./Visio.ContainerProperties.ContainerStyle.md)|

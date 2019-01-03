@@ -32,7 +32,7 @@ Set tfThemeFont = tfThemeFontScheme.MajorFont(msoThemeLatin)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeFont.Application.md)|
 |[Creator](Office.ThemeFont.Creator.md)|

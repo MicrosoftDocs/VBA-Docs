@@ -35,7 +35,7 @@ ActiveWorkbook.SlicerCaches("Slicer_Country")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add2](Excel.SlicerCaches.Add.md)|
 
@@ -43,7 +43,7 @@ ActiveWorkbook.SlicerCaches("Slicer_Country")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.SlicerCaches.Application.md)|
 |[Count](Excel.SlicerCaches.Count.md)|

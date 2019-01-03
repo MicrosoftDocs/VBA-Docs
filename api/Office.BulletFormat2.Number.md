@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.BulletFormat2.Number
 ms.assetid: cc2f0439-9c8f-3fe0-03db-fb3ed99b48cb
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
@@ -27,10 +27,5 @@ Integer
 
 ## See also
 
-
-[BulletFormat2 Object](Office.BulletFormat2.md)
-
-
-
-[BulletFormat2 Object Members](./overview/Library-Reference/bulletformat2-members-office.md)
+- [BulletFormat2 object members](overview/Library-Reference/bulletformat2-members-office.md)
 

@@ -113,7 +113,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Excel.Shape.Apply.md)|
 |[Copy](Excel.Shape.Copy.md)|
@@ -138,7 +138,7 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Excel.Shape.Adjustments.md)|
 |[AlternativeText](Excel.Shape.AlternativeText.md)|

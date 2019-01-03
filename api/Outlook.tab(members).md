@@ -15,7 +15,7 @@ Represents an individual member of a  [Tabs](Outlook.tabs.md) collection.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.tab.accelerator.md)|Returns or sets the accelerator key for the tab. Read/write.|
 | [Caption](Outlook.tab.caption.md)|Returns or sets a  **String** that specifies the text that appears on the tab. Read/write.|

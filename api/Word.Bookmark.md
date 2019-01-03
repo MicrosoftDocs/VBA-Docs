@@ -83,7 +83,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](Word.Bookmark.Copy.md)|
 |[Delete](Word.Bookmark.Delete.md)|
@@ -93,7 +93,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Bookmark.Application.md)|
 |[Column](Word.Bookmark.Column.md)|

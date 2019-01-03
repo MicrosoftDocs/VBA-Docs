@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrInputBox](Office.IConverterUICallback.HrInputBox.md)|
 |[HrMessageBox](Office.IConverterUICallback.HrMessageBox.md)|

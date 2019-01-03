@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNode](../../Office.SmartArtNode.AddNode.md)|Adds a new SmartArtNode to the data model in the way specified by the SmartArtNodePosition value, and of type SmartArtNodeType.|
 |[Delete](../../Office.SmartArtNode.Delete.md)|Removes the current SmartArt node. |

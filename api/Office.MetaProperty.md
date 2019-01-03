@@ -36,7 +36,7 @@ End Function
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Validate](Office.MetaProperty.Validate.md)|
 
@@ -44,7 +44,7 @@ End Function
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.MetaProperty.Application.md)|
 |[Creator](Office.MetaProperty.Creator.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Authenticate](../../Office.EncryptionProvider.Authenticate.md)|Used to determine whether the user has the proper permissions to open the encrypted document.|
 |[CloneSession](../../Office.EncryptionProvider.CloneSession.md)|Creates a second, working copy of the  **EncryptionProvider** object's encryption session for a file that is about to be saved.|

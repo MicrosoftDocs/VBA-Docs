@@ -23,7 +23,7 @@ Represents a signature provider add-in.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GenerateSignatureLineImage](Office.SignatureProvider.GenerateSignatureLineImage.md)|
 |[GetProviderDetail](Office.SignatureProvider.GetProviderDetail.md)|

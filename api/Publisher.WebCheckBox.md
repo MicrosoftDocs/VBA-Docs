@@ -44,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebCheckBox.Application.md)|
 |[Parent](Publisher.WebCheckBox.Parent.md)|

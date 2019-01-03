@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Publisher.OLEFormat.Activate.md)|
 |[DoVerb](Publisher.OLEFormat.DoVerb.md)|
@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.OLEFormat.Application.md)|
 |[Object](Publisher.OLEFormat.Object.md)|

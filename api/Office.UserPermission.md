@@ -55,7 +55,7 @@ The following example determines whether the active document has restricted perm
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Remove](Office.UserPermission.Remove.md)|
 
@@ -63,7 +63,7 @@ The following example determines whether the active document has restricted perm
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.UserPermission.Application.md)|
 |[Creator](Office.UserPermission.Creator.md)|

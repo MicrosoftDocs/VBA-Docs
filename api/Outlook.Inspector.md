@@ -32,7 +32,7 @@ Represents the window in which an Outlook item is displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Outlook.Inspector.Activate(even).md)|
 |[AttachmentSelectionChange](./Outlook.Inspector.AttachmentSelectionChange.md)|
@@ -48,7 +48,7 @@ Represents the window in which an Outlook item is displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Outlook.Inspector.Activate(method).md)|
 |[Close](./Outlook.Inspector.Close(method).md)|
@@ -67,7 +67,7 @@ Represents the window in which an Outlook item is displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Inspector.Application.md)|
 |[AttachmentSelection](./Outlook.Inspector.AttachmentSelection.md)|

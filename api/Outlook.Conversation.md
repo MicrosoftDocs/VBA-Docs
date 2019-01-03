@@ -142,7 +142,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearAlwaysAssignCategories](./Outlook.Conversation.ClearAlwaysAssignCategories.md)|
 |[GetAlwaysAssignCategories](./Outlook.Conversation.GetAlwaysAssignCategories.md)|
@@ -164,7 +164,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Conversation.Application.md)|
 |[Class](./Outlook.Conversation.Class.md)|

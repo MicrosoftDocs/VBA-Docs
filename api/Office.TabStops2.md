@@ -36,7 +36,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.TabStops2.Add.md)|
 |[Item](Office.TabStops2.Item.md)|
@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TabStops2.Application.md)|
 |[Count](Office.TabStops2.Count.md)|

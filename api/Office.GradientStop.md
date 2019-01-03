@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.GradientStop.Application.md)|
 |[Color](Office.GradientStop.Color.md)|

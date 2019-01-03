@@ -83,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakForwardLink](./Publisher.TextFrame.BreakForwardLink.md)|
 |[ValidLinkTarget](./Publisher.TextFrame.ValidLinkTarget.md)|
@@ -92,7 +92,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.TextFrame.Application.md)|
 |[AutoFitText](./Publisher.TextFrame.AutoFitText.md)|

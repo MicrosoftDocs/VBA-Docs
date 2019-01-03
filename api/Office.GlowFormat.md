@@ -30,7 +30,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.GlowFormat.Application.md)|
 |[Color](Office.GlowFormat.Color.md)|

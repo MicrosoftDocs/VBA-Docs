@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WrapFormat.Application.md)|
 |[DistanceAuto](Publisher.WrapFormat.DistanceAuto.md)|

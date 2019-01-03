@@ -84,7 +84,7 @@ ActiveSheet.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbBlue
 
 ## Events
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Excel.Chart.Activate(even).md)|
 |[BeforeDoubleClick](Excel.Chart.BeforeDoubleClick.md)|
@@ -100,7 +100,7 @@ ActiveSheet.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbBlue
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Excel.Chart.Activate(method).md)|
 |[ApplyChartTemplate](Excel.Chart.ApplyChartTemplate.md)|
@@ -141,7 +141,7 @@ ActiveSheet.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbBlue
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Chart.Application.md)|
 |[AutoScaling](Excel.Chart.AutoScaling.md)|

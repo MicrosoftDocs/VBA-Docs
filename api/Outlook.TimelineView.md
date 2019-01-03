@@ -131,7 +131,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.TimelineView.Apply.md)|
 |[Copy](Outlook.TimelineView.Copy.md)|
@@ -144,7 +144,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TimelineView.Application.md)|
 |[Class](Outlook.TimelineView.Class.md)|

@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearCrop](./Publisher.PictureFormat.ClearCrop.md)|
 |[FillFrame](./Publisher.PictureFormat.FillFrame.md)|
@@ -54,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.PictureFormat.Application.md)|
 |[Brightness](./Publisher.PictureFormat.Brightness.md)|

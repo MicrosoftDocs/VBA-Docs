@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllViews.Application.md)|
 |[Count](Access.AllViews.Count.md)|

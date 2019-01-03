@@ -58,7 +58,7 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.Rows.Add.md)|
 |[Item](./PowerPoint.Rows.Item.md)|
@@ -67,7 +67,7 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Rows.Application.md)|
 |[Count](./PowerPoint.Rows.Count.md)|

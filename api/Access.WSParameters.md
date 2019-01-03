@@ -25,7 +25,7 @@ Use the [WSParameters](Access.Operation.WSParameters.md) property of the [Operat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.WSParameters.Count.md)|
 |[Item](Access.WSParameters.Item.md)|

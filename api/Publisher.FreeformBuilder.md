@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddNodes](Publisher.FreeformBuilder.AddNodes.md)|
 |[ConvertToShape](Publisher.FreeformBuilder.ConvertToShape.md)|
@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.FreeformBuilder.Application.md)|
 |[Parent](Publisher.FreeformBuilder.Parent.md)|

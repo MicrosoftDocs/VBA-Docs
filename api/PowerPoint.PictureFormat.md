@@ -42,7 +42,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementBrightness](./PowerPoint.PictureFormat.IncrementBrightness.md)|
 |[IncrementContrast](./PowerPoint.PictureFormat.IncrementContrast.md)|
@@ -51,7 +51,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.PictureFormat.Application.md)|
 |[Brightness](./PowerPoint.PictureFormat.Brightness.md)|

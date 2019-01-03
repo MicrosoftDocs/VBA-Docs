@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ActivateTab](../../Office.IRibbonUI.ActivateTab.md)|Activates the specified custom tab. This method returns S_FALSE if there is no Ribbon or the Ribbon is collapsed.|
 |[ActivateTabMso](../../Office.IRibbonUI.ActivateTabMso.md)|Activates the specified built-in tab.|

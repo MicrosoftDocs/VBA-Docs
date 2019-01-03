@@ -93,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyFilter](Excel.AutoFilter.ApplyFilter.md)|
 |[ShowAllData](Excel.AutoFilter.ShowAllData.md)|
@@ -102,7 +102,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.AutoFilter.Application.md)|
 |[Creator](Excel.AutoFilter.Creator.md)|

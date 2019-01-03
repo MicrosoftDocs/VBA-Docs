@@ -72,7 +72,7 @@ The recorder always uses the  **ShapeRange** property when recording shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](Word.ShapeRange.Align.md)|
 |[Apply](Word.ShapeRange.Apply.md)|
@@ -102,7 +102,7 @@ The recorder always uses the  **ShapeRange** property when recording shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Word.ShapeRange.Adjustments.md)|
 |[AlternativeText](Word.ShapeRange.AlternativeText.md)|

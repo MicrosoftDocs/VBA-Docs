@@ -14,7 +14,7 @@ Represents a color in the color scheme of a Microsoft Office theme.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeColor.Application.md)|Gets an **Application** object that represents the container application for the **ThemeColor** object. Read-only.|
 |[Creator](../../Office.ThemeColor.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ThemeColor** object was created. Read-only.|

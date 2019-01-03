@@ -14,7 +14,7 @@ A collection of **WebPageFont** objects that describe the proportional font, pro
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WebPageFonts.Application.md)|Gets an **Application** object that represents the container application for the **WebPageFonts** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.WebPageFonts.Count.md)|Gets a **Long** indicating the number of items in the **WebPageFonts** object. Read-only.|

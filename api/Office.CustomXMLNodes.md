@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLNodes.Application.md)|
 |[Count](Office.CustomXMLNodes.Count.md)|

@@ -51,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.EffectParameter.Application.md)|
 |[Creator](Office.EffectParameter.Creator.md)|

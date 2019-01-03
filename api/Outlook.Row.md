@@ -109,7 +109,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BinaryToString](Outlook.Row.BinaryToString.md)|
 |[GetValues](Outlook.Row.GetValues.md)|
@@ -121,7 +121,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Row.Application.md)|
 |[Class](Outlook.Row.Class.md)|

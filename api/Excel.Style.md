@@ -52,7 +52,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.Style.Delete.md)|
 
@@ -60,7 +60,7 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddIndent](Excel.Style.AddIndent.md)|
 |[Application](Excel.Style.Application.md)|

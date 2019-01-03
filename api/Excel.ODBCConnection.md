@@ -27,7 +27,7 @@ An  **ODBCConnection** object contains information related to the connection, su
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CancelRefresh](Excel.ODBCConnection.CancelRefresh.md)|
 |[Refresh](Excel.ODBCConnection.Refresh.md)|
@@ -37,7 +37,7 @@ An  **ODBCConnection** object contains information related to the connection, su
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlwaysUseConnectionFile](Excel.ODBCConnection.AlwaysUseConnectionFile.md)|
 |[Application](Excel.ODBCConnection.Application.md)|

@@ -87,7 +87,7 @@ ActiveDocument.Pages(1).Background.Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](Publisher.PageBackground.Create.md)|
 |[Delete](Publisher.PageBackground.Delete.md)|
@@ -96,7 +96,7 @@ ActiveDocument.Pages(1).Background.Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.PageBackground.Application.md)|
 |[Exists](Publisher.PageBackground.Exists.md)|

@@ -25,7 +25,7 @@ You can't add or remove  **SearchScope** objects from the **SearchScopes** colle
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SearchScopes.Application.md)|
 |[Count](Office.SearchScopes.Count.md)|

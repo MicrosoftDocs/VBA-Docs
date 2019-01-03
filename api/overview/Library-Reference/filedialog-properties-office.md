@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AllowMultiSelect](../../Office.FileDialog.AllowMultiSelect.md)|Is  **True** if the user is allowed to select multiple files from a file dialog box. Read/write.|
 |[Application](../../Office.FileDialog.Application.md)|Gets an  **Application** object that represents the container application for the **FileDialog** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|

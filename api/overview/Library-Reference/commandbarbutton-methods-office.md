@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarButton.Copy.md)|Copies a command bar button control to an existing command bar.|
 |[CopyFace](../../Office.CommandBarButton.CopyFace.md)|Copies the face of a command bar button control to the Clipboard.|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceTask.Application.md)|Gets an  **Application** object that represents the container application for the **SharedWorkspaceTask** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[AssignedTo](../../Office.SharedWorkspaceTask.AssignedTo.md)|Gets or sets a value containing the name of the one assigned to the task represented by the  **SharedWorkspaceTask** object. Read/write.|

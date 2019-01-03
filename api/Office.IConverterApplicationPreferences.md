@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrCheckFormat](Office.IConverterApplicationPreferences.HrCheckFormat.md)|
 |[HrGetApplication](Office.IConverterApplicationPreferences.HrGetApplication.md)|

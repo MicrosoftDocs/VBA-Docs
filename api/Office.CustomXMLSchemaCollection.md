@@ -32,7 +32,7 @@ SchemaCollection.Add "https://tempuri.org/XMLSchema.xsd"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.CustomXMLSchemaCollection.Add.md)|
 |[AddCollection](Office.CustomXMLSchemaCollection.AddCollection.md)|
@@ -42,7 +42,7 @@ SchemaCollection.Add "https://tempuri.org/XMLSchema.xsd"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLSchemaCollection.Application.md)|
 |[Count](Office.CustomXMLSchemaCollection.Count.md)|

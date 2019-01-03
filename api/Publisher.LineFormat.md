@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PresetGradient](Publisher.lineformat.presetgradient.md)|
 
@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LineFormat.Application.md)|
 |[BackColor](Publisher.LineFormat.BackColor.md)|

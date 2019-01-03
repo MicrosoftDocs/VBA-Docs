@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarComboBox.Application.md)|Gets an  **Application** object that represents the container application for the **CommandBarComboBox** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[BeginGroup](../../Office.CommandBarComboBox.BeginGroup.md)|Gets True if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|

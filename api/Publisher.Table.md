@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyAutoFormat](./Publisher.Table.ApplyAutoFormat.md)|
 
@@ -57,7 +57,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Table.Application.md)|
 |[Cells](./Publisher.Table.Cells.md)|

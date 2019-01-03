@@ -13,7 +13,7 @@ Contains a collection of **CustomXMLNodes** objects representing the XML nodes i
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLNodes.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLNodes** object. Read-only.|
 |[Count](../../Office.CustomXMLNodes.Count.md)|Gets a count of the number of **CustomXMLNode** objects in a **CustomXMLNodes** collection. Read-only.|

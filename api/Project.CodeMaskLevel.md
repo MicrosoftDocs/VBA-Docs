@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.CodeMaskLevel.Delete.md)|
 
@@ -51,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CodeMaskLevel.Application.md)|
 |[Index](Project.CodeMaskLevel.Index.md)|

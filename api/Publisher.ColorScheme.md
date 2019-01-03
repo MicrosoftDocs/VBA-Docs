@@ -75,7 +75,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorScheme.Application.md)|
 |[Colors](Publisher.ColorScheme.Colors.md)|

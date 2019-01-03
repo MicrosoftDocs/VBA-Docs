@@ -37,7 +37,7 @@ Set myExceptions = myRecurrencePattern.Exceptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.Exceptions.Item.md)|
 
@@ -45,7 +45,7 @@ Set myExceptions = myRecurrencePattern.Exceptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Exceptions.Application.md)|
 |[Class](Outlook.Exceptions.Class.md)|

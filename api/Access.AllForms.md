@@ -69,7 +69,7 @@ End If
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllForms.Application.md)|
 |[Count](Access.AllForms.Count.md)|

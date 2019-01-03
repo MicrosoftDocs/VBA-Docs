@@ -14,7 +14,7 @@ The **SharedWorkspaceTask** object represents a task in a shared document worksp
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceTask.Delete.md)|Deletes the current **SharedWorkspaceTask** object.|
 |[Save](../../Office.SharedWorkspaceTask.Save.md)|Uploads changes made programmatically to a shared server.|
@@ -22,7 +22,7 @@ The **SharedWorkspaceTask** object represents a task in a shared document worksp
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspaceTask.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspaceTask** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[AssignedTo](../../Office.SharedWorkspaceTask.AssignedTo.md)|Gets or sets a value containing the name of the one assigned to the task represented by the **SharedWorkspaceTask** object. Read/write.|

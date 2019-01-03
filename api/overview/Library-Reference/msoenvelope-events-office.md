@@ -13,7 +13,7 @@ This object has the following events:
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[EnvelopeHide](../../Office.MsoEnvelope.EnvelopeHide.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.|
 |[EnvelopeShow](../../Office.MsoEnvelope.EnvelopeShow.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is displayed.|

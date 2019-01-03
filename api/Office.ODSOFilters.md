@@ -76,7 +76,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.ODSOFilters.Add.md)|
 |[Delete](Office.ODSOFilters.Delete.md)|
@@ -86,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOFilters.Application.md)|
 |[Count](Office.ODSOFilters.Count.md)|

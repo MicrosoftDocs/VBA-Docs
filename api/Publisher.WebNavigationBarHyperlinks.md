@@ -58,7 +58,7 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.WebNavigationBarHyperlinks.Add.md)|
 |[Item](Publisher.WebNavigationBarHyperlinks.Item.md)|
@@ -67,7 +67,7 @@ MsgBox ActiveDocument.WebNavigationBarSets(1).Links.Item(1).TextToDisplay
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarHyperlinks.Application.md)|
 |[Count](Publisher.WebNavigationBarHyperlinks.Count.md)|

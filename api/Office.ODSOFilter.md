@@ -76,7 +76,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOFilter.Application.md)|
 |[Column](Office.ODSOFilter.Column.md)|

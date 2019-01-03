@@ -54,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllReports.Application.md)|
 |[Count](Access.AllReports.Count.md)|

@@ -55,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Publisher.Page.Delete.md)|
 |[Duplicate](./Publisher.Page.Duplicate.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Page.Application.md)|
 |[Background](./Publisher.Page.Background.md)|

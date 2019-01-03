@@ -79,7 +79,7 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.SplitPart.Delete.md)|
 
@@ -87,7 +87,7 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.SplitPart.Application.md)|
 |[Finish](Project.SplitPart.Finish.md)|

@@ -46,7 +46,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetBackgroundSoundRepeat](Publisher.WebPageOptions.SetBackgroundSoundRepeat.md)|
 
@@ -54,7 +54,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebPageOptions.Application.md)|
 |[BackgroundSound](Publisher.WebPageOptions.BackgroundSound.md)|

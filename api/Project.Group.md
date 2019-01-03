@@ -41,7 +41,7 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.Group.Delete.md)|
 
@@ -49,7 +49,7 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Group.Application.md)|
 |[GroupAssignments](Project.Group.GroupAssignments.md)|

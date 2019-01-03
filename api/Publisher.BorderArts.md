@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.BorderArts.Item.md)|
 
@@ -69,7 +69,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BorderArts.Application.md)|
 |[Count](Publisher.BorderArts.Count.md)|

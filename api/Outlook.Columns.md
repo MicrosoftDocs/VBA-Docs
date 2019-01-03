@@ -99,7 +99,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Columns.Add.md)|
 |[Item](Outlook.Columns.Item.md)|
@@ -110,7 +110,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Columns.Application.md)|
 |[Class](Outlook.Columns.Class.md)|

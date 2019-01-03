@@ -40,7 +40,7 @@ ActiveWindow.Selection.SlideRange.TimeLine.InteractiveSequences
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.TimeLine.Application.md)|
 |[InteractiveSequences](./PowerPoint.TimeLine.InteractiveSequences.md)|

@@ -15,7 +15,7 @@ Shows the selection status of one item in a group of choices.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Accelerator](Outlook.optionbutton.accelerator.md)|Returns or sets the accelerator key for a control. Read/write.|
 | [Alignment](Outlook.optionbutton.alignment.md)|Returns or sets an  **Integer** that indicates the position of a control relative to its caption. Read/write.|
@@ -43,7 +43,7 @@ Shows the selection status of one item in a group of choices.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Click](Outlook.optionbutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value, or when the value changes to  **True**.|
 

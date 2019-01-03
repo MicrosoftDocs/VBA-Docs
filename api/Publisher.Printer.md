@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Printer.Application.md)|
 |[DriverType](./Publisher.Printer.DriverType.md)|

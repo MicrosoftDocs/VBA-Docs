@@ -40,7 +40,7 @@ Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceFiles.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Files](Office.SharedWorkspace.Files.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFiles.Application.md)|
 |[Count](Office.SharedWorkspaceFiles.Count.md)|

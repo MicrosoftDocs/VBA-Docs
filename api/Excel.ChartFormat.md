@@ -25,7 +25,7 @@ Using a property or method that does not apply to the type of object the  **Char
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Excel.chartformat.adjustments.md)|
 |[Application](Excel.ChartFormat.Application.md)|

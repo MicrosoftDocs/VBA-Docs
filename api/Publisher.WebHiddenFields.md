@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.WebHiddenFields.Add.md)|
 |[Delete](Publisher.WebHiddenFields.Delete.md)|
@@ -54,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebHiddenFields.Application.md)|
 |[Count](Publisher.WebHiddenFields.Count.md)|

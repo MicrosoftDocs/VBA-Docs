@@ -31,14 +31,14 @@ Position page breaks above or below other controls. Placing a page break on the 
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.PageBreak.Move.md)|
 |[SizeToFit](Access.PageBreak.SizeToFit.md)|
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.PageBreak.Application.md)|
 |[ControlType](Access.PageBreak.ControlType.md)|

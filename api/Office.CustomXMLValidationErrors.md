@@ -58,7 +58,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.CustomXMLValidationErrors.Add.md)|
 
@@ -66,7 +66,7 @@ Resume
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLValidationErrors.Application.md)|
 |[Count](Office.CustomXMLValidationErrors.Count.md)|

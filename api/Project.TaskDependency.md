@@ -23,7 +23,7 @@ Use the  **[Add](./Project.TaskDependencies.Add.md)** method to add a **TaskDepe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Project.TaskDependency.Delete.md)|
 
@@ -31,7 +31,7 @@ Use the  **[Add](./Project.TaskDependencies.Add.md)** method to add a **TaskDepe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.TaskDependency.Application.md)|
 |[From](./Project.TaskDependency.From.md)|

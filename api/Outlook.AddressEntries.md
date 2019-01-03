@@ -52,7 +52,7 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.AddressEntries.Add.md)|
 |[GetFirst](./Outlook.AddressEntries.GetFirst.md)|
@@ -66,7 +66,7 @@ Set myAddressEntry = myAddressList.AddressEntries(index)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.AddressEntries.Application.md)|
 |[Class](./Outlook.AddressEntries.Class.md)|

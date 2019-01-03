@@ -56,7 +56,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.OverAllocatedAssignments.Application.md)|
 |[Count](Project.OverAllocatedAssignments.Count.md)|

@@ -25,7 +25,7 @@ Use the [ControlSource](Access.WebBrowserControl.ControlSource.md) property to s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.WebBrowserControl.AfterUpdate.md)|
 |[BeforeNavigate2](Access.WebBrowserControl.BeforeNavigate2.md)|
@@ -53,7 +53,7 @@ Use the [ControlSource](Access.WebBrowserControl.ControlSource.md) property to s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.WebBrowserControl.Move.md)|
 |[Requery](Access.WebBrowserControl.Requery.md)|
@@ -65,7 +65,7 @@ Use the [ControlSource](Access.WebBrowserControl.ControlSource.md) property to s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.WebBrowserControl.Application.md)|
 |[BorderColor](Access.WebBrowserControl.BorderColor.md)|

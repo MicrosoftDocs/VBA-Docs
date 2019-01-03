@@ -13,7 +13,7 @@ Represents a field in a data source. The **ODSOColumn** object is a member of th
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ODSOColumn.Application.md)|Gets an **Application** object that represents the container application for the **ODSOColum** n object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.ODSOColumn.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ODSOColumn** object was created. Read-only.|

@@ -34,7 +34,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddBiDirectionalMarksWhenSavingTextFile](Word.Options.AddBiDirectionalMarksWhenSavingTextFile.md)|
 |[AddControlCharacters](Word.Options.AddControlCharacters.md)|

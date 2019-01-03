@@ -25,7 +25,7 @@ Pictures are stored with picture providers in an account set up by the user.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BlogPictureProviderProperties](Office.IBlogPictureExtensibility.BlogPictureProviderProperties.md)|
 |[CreatePictureAccount](Office.IBlogPictureExtensibility.CreatePictureAccount.md)|

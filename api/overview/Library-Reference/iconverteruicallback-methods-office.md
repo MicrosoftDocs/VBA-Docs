@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[HrInputBox](../../Office.IConverterUICallback.HrInputBox.md)|This feature is only available in the Open XML Format SDK.|
 |[HrMessageBox](../../Office.IConverterUICallback.HrMessageBox.md)|This feature is only available in the Open XML Format SDK.|

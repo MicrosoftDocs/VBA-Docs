@@ -71,7 +71,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Merge](./PowerPoint.Cell.Merge.md)|
 |[Select](./PowerPoint.Cell.Select.md)|
@@ -81,7 +81,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Cell.Application.md)|
 |[Borders](./PowerPoint.Cell.Borders.md)|

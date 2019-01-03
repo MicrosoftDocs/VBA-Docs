@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[EnvelopeHide](Office.MsoEnvelope.EnvelopeHide.md)|
 |[EnvelopeShow](Office.MsoEnvelope.EnvelopeShow.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CommandBars](Office.MsoEnvelope.CommandBars.md)|
 |[Introduction](Office.MsoEnvelope.Introduction.md)|

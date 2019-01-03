@@ -35,7 +35,7 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 -  **TempVar** ![name]
     
 
-|**Name**|
+|Name|
 |:-----|
 |[Name](Access.TempVar.Name.md)|
 |[Value](Access.TempVar.Value.md)|

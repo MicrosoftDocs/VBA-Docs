@@ -27,7 +27,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ToOrFromRuleCondition.Application.md)|
 |[Class](Outlook.ToOrFromRuleCondition.Class.md)|

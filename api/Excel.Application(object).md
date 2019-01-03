@@ -57,7 +57,7 @@ The  **Application** object contains:
     
 ## Events
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterCalculate](Excel.Application.AfterCalculate.md)|
 |[NewWorkbook](Excel.Application.NewWorkbook(even).md)|
@@ -111,7 +111,7 @@ The  **Application** object contains:
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[ActivateMicrosoftApp](Excel.Application.ActivateMicrosoftApp.md)|
 |[AddCustomList](Excel.Application.AddCustomList.md)|
@@ -168,7 +168,7 @@ The  **Application** object contains:
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveCell](Excel.Application.ActiveCell.md)|
 |[ActiveChart](Excel.Application.ActiveChart.md)|

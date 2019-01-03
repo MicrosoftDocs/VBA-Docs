@@ -56,7 +56,7 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Comments.Add.md)|
 |[Item](Word.Comments.Item.md)|
@@ -65,7 +65,7 @@ If Selection.Comments.Count >= 1 Then MsgBox _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Comments.Application.md)|
 |[Count](Word.Comments.Count.md)|

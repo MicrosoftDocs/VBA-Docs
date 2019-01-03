@@ -38,7 +38,7 @@ Set myNewColumn = Worksheets(1).ListObject(1).ListColumns.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.ListColumns.Add.md)|
 
@@ -46,7 +46,7 @@ Set myNewColumn = Worksheets(1).ListObject(1).ListColumns.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ListColumns.Application.md)|
 |[Count](Excel.ListColumns.Count.md)|

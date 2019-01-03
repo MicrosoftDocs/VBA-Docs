@@ -13,7 +13,7 @@ Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[NodeAfterDelete](../../Office.CustomXMLPart.NodeAfterDelete.md)|Occurs after a node is deleted in a **CustomXMLPart** object.|
 |[NodeAfterInsert](../../Office.CustomXMLPart.NodeAfterInsert.md)|Occurs after a node is inserted in a **CustomXMLPart** object.|
@@ -22,7 +22,7 @@ Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNode](../../Office.CustomXMLPart.AddNode.md)|Adds a node to the XML tree.|
 |[Delete](../../Office.CustomXMLPart.Delete.md)|Deletes the current **CustomXMLPart** from the data store (**IXMLDataStore** interface).|
@@ -34,7 +34,7 @@ Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLPart.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLPart** object. Read-only.|
 |[BuiltIn](../../Office.CustomXMLPart.BuiltIn.md)|Gets a value that indicates whether the **CustomXMLPart** is built-in. Read-only|

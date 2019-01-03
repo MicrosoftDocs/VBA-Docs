@@ -13,7 +13,7 @@ Represents a custom task pane in the container application.
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[DockPositionStateChange](../../Office.CustomTaskPane.DockPositionStateChange.md)|Occurs when the user changes the docking position of the active custom task pane.|
 |[VisibleStateChange](../../Office.CustomTaskPane.VisibleStateChange.md)|Occurs when the user changes the visibility of the custom task pane.|
@@ -21,14 +21,14 @@ Represents a custom task pane in the container application.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomTaskPane.Application.md)|Gets the **Application** object of the host application. Read-only.|
 |[ContentControl](../../Office.CustomTaskPane.ContentControl.md)|Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.|

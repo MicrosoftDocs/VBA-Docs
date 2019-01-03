@@ -39,7 +39,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.JournalItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.JournalItem.AttachmentAdd.md)|
@@ -72,7 +72,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.JournalItem.Close(method).md)|
 |[Copy](Outlook.JournalItem.Copy.md)|
@@ -94,7 +94,7 @@ Set myItem = Application.CreateItem(olJournalItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.JournalItem.Actions.md)|
 |[Application](Outlook.JournalItem.Application.md)|

@@ -50,7 +50,7 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DeleteRecursively](Word.comment.deleterecursively.md)|
 |[Edit](Word.Comment.Edit.md)|
@@ -59,7 +59,7 @@ MsgBox ActiveDocument.Comments(1).Range.Text
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Ancestor](Word.comment.ancestor.md)|
 |[Application](Word.Comment.Application.md)|

@@ -34,7 +34,7 @@ Represents the window in which the contents of a folder are displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Outlook.Explorer.Activate(even).md)|
 |[AttachmentSelectionChange](./Outlook.Explorer.AttachmentSelectionChange.md)|
@@ -60,7 +60,7 @@ Represents the window in which the contents of a folder are displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Outlook.Explorer.Activate(method).md)|
 |[AddToSelection](./Outlook.Explorer.AddToSelection.md)|
@@ -79,7 +79,7 @@ Represents the window in which the contents of a folder are displayed.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccountSelector](./Outlook.Explorer.AccountSelector.md)|
 |[ActiveInlineResponse](./Outlook.explorer.activeinlineresponse.md)|

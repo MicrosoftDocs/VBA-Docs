@@ -14,14 +14,14 @@ Provides file dialog box functionality similar to the functionality of the stand
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Execute](../../Office.FileDialog.Execute.md)|Carries out a user's action right after the **Show** method is invoked.|
 |[Show](../../Office.FileDialog.Show.md)|Displays a file dialog box and returns a **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.|
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AllowMultiSelect](../../Office.FileDialog.AllowMultiSelect.md)|Is **True** if the user is allowed to select multiple files from a file dialog box. Read/write.|
 |[Application](../../Office.FileDialog.Application.md)|Gets an **Application** object that represents the container application for the **FileDialog** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|

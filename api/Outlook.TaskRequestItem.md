@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.TaskRequestItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.TaskRequestItem.AttachmentAdd.md)|
@@ -94,7 +94,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.TaskRequestItem.Close(method).md)|
 |[Copy](Outlook.TaskRequestItem.Copy.md)|
@@ -112,7 +112,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.TaskRequestItem.Actions.md)|
 |[Application](Outlook.TaskRequestItem.Application.md)|

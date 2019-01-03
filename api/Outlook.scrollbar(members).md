@@ -15,7 +15,7 @@ Returns or sets the value of another control based on the position of the scroll
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.scrollbar.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [Delay](Outlook.scrollbar.delay.md)|Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a [ScrollBar](Outlook.scrollbar.md). Read/write.|

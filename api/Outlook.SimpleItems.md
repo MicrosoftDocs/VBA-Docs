@@ -136,7 +136,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.SimpleItems.Item.md)|
 
@@ -144,7 +144,7 @@ void EnumerateConversation(object item,
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.SimpleItems.Application.md)|
 |[Class](Outlook.SimpleItems.Class.md)|

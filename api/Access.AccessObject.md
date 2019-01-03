@@ -48,7 +48,7 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetDependencyInfo](Access.AccessObject.GetDependencyInfo.md)|
 |[IsDependentUpon](Access.AccessObject.IsDependentUpon.md)|
@@ -57,7 +57,7 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CurrentView](Access.AccessObject.CurrentView.md)|
 |[DateCreated](Access.AccessObject.DateCreated.md)|

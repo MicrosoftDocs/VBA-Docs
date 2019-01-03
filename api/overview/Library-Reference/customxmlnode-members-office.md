@@ -13,7 +13,7 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AppendChildNode](../../Office.CustomXMLNode.AppendChildNode.md)|Appends a single node as the last child under the context element node in the tree. |
 |[AppendChildSubtree](../../Office.CustomXMLNode.AppendChildSubtree.md)|Adds a subtree as the last child under the context element node in the tree.|
@@ -30,7 +30,7 @@ Represents an XML node in a tree in a document. The **CustomXMLNode** object is 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLNode.Application.md)|Gets an **Application** object that represents the container application for a **CustomXMLNode**. Read-only.|
 |[Attributes](../../Office.CustomXMLNode.Attributes.md)|Gets a **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.|

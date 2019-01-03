@@ -57,7 +57,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GotFocus](Excel.OLEObject.GotFocus.md)|
 |[LostFocus](Excel.OLEObject.LostFocus.md)|
@@ -66,7 +66,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Excel.OLEObject.Activate.md)|
 |[BringToFront](Excel.OLEObject.BringToFront.md)|
@@ -84,7 +84,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.OLEObject.Application.md)|
 |[AutoLoad](Excel.OLEObject.AutoLoad.md)|

@@ -25,7 +25,7 @@ Encryption providers are implemented through custom COM add-ins. You are provide
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Authenticate](Office.EncryptionProvider.Authenticate.md)|
 |[CloneSession](Office.EncryptionProvider.CloneSession.md)|

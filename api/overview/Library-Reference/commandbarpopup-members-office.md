@@ -13,7 +13,7 @@ Represents a pop-up control on a command bar.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarPopup.Copy.md)|Copies a command bar popup control to an existing command bar.|
 |[Delete](../../Office.CommandBarPopup.Delete.md)|Deletes the **CommandBarPopup** object from its collection.|
@@ -25,7 +25,7 @@ Represents a pop-up control on a command bar.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarPopup.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarPopup** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[BeginGroup](../../Office.CommandBarPopup.BeginGroup.md)|Gets **True** if the specified command bar control appears at the beginning of a group of controls on the command bar. Read/write.|

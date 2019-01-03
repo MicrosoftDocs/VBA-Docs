@@ -35,7 +35,7 @@ Set myWorksheetLists = Worksheets(1).ListObjects
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.ListObjects.Add.md)|
 
@@ -43,7 +43,7 @@ Set myWorksheetLists = Worksheets(1).ListObjects
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ListObjects.Application.md)|
 |[Count](Excel.ListObjects.Count.md)|

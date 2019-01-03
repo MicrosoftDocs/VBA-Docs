@@ -204,7 +204,7 @@ Set myItem = Application.CreateItem(olAppointmentItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.AppointmentItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.AppointmentItem.AttachmentAdd.md)|
@@ -237,7 +237,7 @@ Set myItem = Application.CreateItem(olAppointmentItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearRecurrencePattern](./Outlook.AppointmentItem.ClearRecurrencePattern.md)|
 |[Close](./Outlook.AppointmentItem.Close(method).md)|
@@ -261,7 +261,7 @@ Set myItem = Application.CreateItem(olAppointmentItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](./Outlook.AppointmentItem.Actions.md)|
 |[AllDayEvent](./Outlook.AppointmentItem.AllDayEvent.md)|

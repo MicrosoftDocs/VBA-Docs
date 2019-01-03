@@ -27,7 +27,7 @@ A Data Service data connection may contain one or more entities. Each entity spe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Entities](Access.WebService.Entities.md)|
 |[Name](Access.WebService.Name.md)|

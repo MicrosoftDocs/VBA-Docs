@@ -80,7 +80,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.TextStyles.Add.md)|
 |[Item](Publisher.TextStyles.Item.md)|
@@ -89,7 +89,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TextStyles.Application.md)|
 |[Count](Publisher.TextStyles.Count.md)|

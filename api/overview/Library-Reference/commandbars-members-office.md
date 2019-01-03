@@ -13,14 +13,14 @@ A collection of **CommandBar** objects that represent the command bars in the co
 
 ## Events
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[OnUpdate](../../Office.CommandBars.OnUpdate.md)|Occurs when any change is made to a command bar.|
 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CommandBars.Add.md)|Creates a new command bar and adds it to the collection of command bars.|
 |[CommitRenderingTransaction](../../Office.CommandBars.CommitRenderingTransaction.md)|Commits the rendering transaction. Returns **Nothing**.|
@@ -39,7 +39,7 @@ A collection of **CommandBar** objects that represent the command bars in the co
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ActionControl](../../Office.CommandBars.ActionControl.md)|Gets the **CommandBarControl** object whose **OnAction** property is set to the running procedure. Read-only.|
 |[ActiveMenuBar](../../Office.CommandBars.ActiveMenuBar.md)|Gets a **CommandBar** object that represents the active menu bar in the container application. Read-only.|

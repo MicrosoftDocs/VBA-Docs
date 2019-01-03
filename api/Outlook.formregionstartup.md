@@ -36,7 +36,7 @@ For more information on writing add-ins for form regions, see [Extending a Form 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeFormRegionShow](Outlook.FormRegionStartup.BeforeFormRegionShow.md)|
 |[GetFormRegionIcon](Outlook.FormRegionStartup.GetFormRegionIcon.md)|

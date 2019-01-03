@@ -103,7 +103,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[FindNextRow](./Outlook.Table.FindNextRow.md)|
 |[FindRow](./Outlook.Table.FindRow.md)|
@@ -118,7 +118,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Table.Application.md)|
 |[Class](./Outlook.Table.Class.md)|

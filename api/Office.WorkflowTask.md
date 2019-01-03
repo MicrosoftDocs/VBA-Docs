@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Show](Office.WorkflowTask.Show.md)|
 
@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WorkflowTask.Application.md)|
 |[AssignedTo](Office.WorkflowTask.AssignedTo.md)|

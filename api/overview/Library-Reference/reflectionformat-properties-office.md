@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ReflectionFormat.Application.md)|Gets an  **Application** object that represents the container application for the **ReflectionFormat** object. Read-only.|
 |[Blur](../../Office.ReflectionFormat.Blur.md)|Gets or sets the amount of blur, measured in points, of the shape's reflection image. Read/write|

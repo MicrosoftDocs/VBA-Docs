@@ -46,7 +46,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.BuildingBlockEntries.Add.md)|
 |[Item](Word.BuildingBlockEntries.Item.md)|
@@ -55,7 +55,7 @@ For more information about building blocks, see [Working with Building Blocks](.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.BuildingBlockEntries.Application.md)|
 |[Count](Word.BuildingBlockEntries.Count.md)|

@@ -24,7 +24,7 @@ The timeline view is used to create a high level visualization of the project pl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.timeline.application.md)|
 |[BarCount](./Project.timeline.barcount.md)|

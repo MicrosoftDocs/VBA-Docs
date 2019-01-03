@@ -44,7 +44,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.ListColumn.Delete.md)|
 
@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ListColumn.Application.md)|
 |[Creator](Excel.ListColumn.Creator.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Load](../../Office.ThemeFontScheme.Load.md)|Loads the font scheme of a Microsoft Office theme from a file.|
 |[Save](../../Office.ThemeFontScheme.Save.md)|Saves the font scheme of a Microsoft Office theme to a file.|

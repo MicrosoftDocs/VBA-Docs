@@ -55,7 +55,7 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Lists.Item.md)|
 
@@ -63,7 +63,7 @@ You can manipulate the individual  **[List](Word.List.md)** objects within a doc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Lists.Application.md)|
 |[Count](Word.Lists.Count.md)|

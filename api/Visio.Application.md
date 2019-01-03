@@ -46,7 +46,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterModal](./Visio.Application.AfterModal.md)|
 |[AfterRemoveHiddenInformation](./Visio.Application.AfterRemoveHiddenInformation.md)|
@@ -159,7 +159,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddUndoUnit](./Visio.Application.AddUndoUnit.md)|
 |[BeginUndoScope](./Visio.Application.BeginUndoScope.md)|
@@ -192,7 +192,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](./Visio.Application.Active.md)|
 |[ActiveDocument](./Visio.Application.ActiveDocument.md)|

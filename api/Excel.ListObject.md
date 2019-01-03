@@ -39,7 +39,7 @@ Set oListCol = wrksht.ListObjects(1).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.ListObject.Delete.md)|
 |[ExportToVisio](Excel.ListObject.ExportToVisio.md)|
@@ -53,7 +53,7 @@ Set oListCol = wrksht.ListObjects(1).ListRows.Add
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](Excel.ListObject.Active.md)|
 |[AlternativeText](Excel.ListObject.AlternativeText.md)|

@@ -13,7 +13,7 @@ The **DocumentLibraryVersions** property of the **Document** object in Microsoft
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentLibraryVersions.Application.md)|Gets an **Application** object that represents the container application for the **DocumentLibraryVersions** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.DocumentLibraryVersions.Count.md)|Gets a **Long** indicating the number of items in the **DocumentLibraryVersions** collection. Read-only.|

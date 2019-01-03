@@ -40,7 +40,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DeleteText](Excel.TextFrame2.DeleteText.md)|
 
@@ -48,7 +48,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.TextFrame2.Application.md)|
 |[AutoSize](Excel.TextFrame2.AutoSize.md)|

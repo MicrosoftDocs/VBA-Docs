@@ -68,7 +68,7 @@ The following example displays the number of members in the active document's sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceMember.Delete.md)|
 
@@ -76,7 +76,7 @@ The following example displays the number of members in the active document's sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceMember.Application.md)|
 |[Creator](Office.SharedWorkspaceMember.Creator.md)|

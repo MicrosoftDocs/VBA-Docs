@@ -59,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.PrintableRect.Application.md)|
 |[Height](Publisher.PrintableRect.Height.md)|

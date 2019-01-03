@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorSchemes.Application.md)|
 |[Count](Publisher.ColorSchemes.Count.md)|

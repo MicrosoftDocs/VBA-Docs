@@ -48,7 +48,7 @@ Use the  **FolderName** property to return the name of the shared workspace fold
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceFolder.Delete.md)|
 
@@ -56,7 +56,7 @@ Use the  **FolderName** property to return the name of the shared workspace fold
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFolder.Application.md)|
 |[Creator](Office.SharedWorkspaceFolder.Creator.md)|

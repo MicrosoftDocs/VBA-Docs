@@ -13,7 +13,7 @@ Represents an item within a **ServerPolicy** object that contains the settings f
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PolicyItem.Application.md)|Gets an **Application** object that represents the container application for the **PolicyItem** object. Read-only.|
 |[Creator](../../Office.PolicyItem.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PolicyItem** object was created. Read-only.|

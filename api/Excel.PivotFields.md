@@ -62,7 +62,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Excel.PivotFields.Item.md)|
 
@@ -70,7 +70,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PivotFields.Application.md)|
 |[Count](Excel.PivotFields.Count.md)|

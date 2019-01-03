@@ -84,7 +84,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Attachments.Add.md)|
 |[ClearAll](Publisher.Attachments.ClearAll.md)|
@@ -93,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Attachments.Application.md)|
 |[Count](Publisher.Attachments.Count.md)|

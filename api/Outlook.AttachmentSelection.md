@@ -27,7 +27,7 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetSelection](Outlook.AttachmentSelection.GetSelection.md)|
 |[Item](Outlook.AttachmentSelection.Item.md)|
@@ -36,7 +36,7 @@ To customize the attachment shortcut menu by using Microsoft Office Fluent ribbo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AttachmentSelection.Application.md)|
 |[Class](Outlook.AttachmentSelection.Class.md)|

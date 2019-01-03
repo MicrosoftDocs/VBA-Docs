@@ -61,7 +61,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.InstalledPrinters.Application.md)|
 |[Count](Publisher.InstalledPrinters.Count.md)|

@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetCertificateDetail](Office.SignatureInfo.GetCertificateDetail.md)|
 |[GetSignatureDetail](Office.SignatureInfo.GetSignatureDetail.md)|
@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SignatureInfo.Application.md)|
 |[CertificateVerificationResults](Office.SignatureInfo.CertificateVerificationResults.md)|

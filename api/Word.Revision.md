@@ -40,7 +40,7 @@ Selection.InsertBefore "Action "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accept](Word.Revision.Accept.md)|
 |[Reject](Word.Revision.Reject.md)|
@@ -49,7 +49,7 @@ Selection.InsertBefore "Action "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Revision.Application.md)|
 |[Author](Word.Revision.Author.md)|

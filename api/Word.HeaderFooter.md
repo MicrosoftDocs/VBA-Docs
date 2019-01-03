@@ -62,7 +62,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.HeaderFooter.Application.md)|
 |[Creator](Word.HeaderFooter.Creator.md)|

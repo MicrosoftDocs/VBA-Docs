@@ -40,7 +40,7 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddSolution](Outlook.SolutionsModule.AddSolution.md)|
 
@@ -48,7 +48,7 @@ To see an example of an add-in that adds folders to the  **Solutions** module, s
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.SolutionsModule.Application.md)|
 |[Class](Outlook.SolutionsModule.Class.md)|

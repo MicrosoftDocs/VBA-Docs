@@ -31,7 +31,7 @@ The object in a bound object frame is different for each record. The bound objec
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.BoundObjectFrame.Move.md)|
 |[Requery](Access.BoundObjectFrame.Requery.md)|
@@ -42,7 +42,7 @@ The object in a bound object frame is different for each record. The bound objec
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Action](Access.BoundObjectFrame.Action.md)|
 |[AddColon](Access.BoundObjectFrame.AddColon.md)|

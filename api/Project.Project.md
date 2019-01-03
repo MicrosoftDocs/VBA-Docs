@@ -17,7 +17,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Project.Project.Activate(even).md)|
 |[BeforeClose](./Project.Project.BeforeClose.md)|
@@ -32,7 +32,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Project.Project.Activate(method).md)|
 |[AppendNotes](./Project.Project.AppendNotes.md)|
@@ -75,7 +75,7 @@ Represents one project in the set of open projects. The  **Project** object is a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptNewExternalData](./Project.Project.AcceptNewExternalData.md)|
 |[AdministrativeProject](./Project.Project.AdministrativeProject.md)|

@@ -13,7 +13,7 @@ The **DocumentLibraryVersion** object represents a single saved version of a sha
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.DocumentLibraryVersion.Delete.md)|Removes a document library version from the **DocumentLibraryVersions** collection.|
 |[Open](../../Office.DocumentLibraryVersion.Open.md)|Opens the specified version of the shared document from the **DocumentLibraryVersions** collection in read-only mode.|
@@ -22,7 +22,7 @@ The **DocumentLibraryVersion** object represents a single saved version of a sha
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentLibraryVersion.Application.md)|Gets an **Application** object that represents the container application for the **DocumentLibraryVersion** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Comments](../../Office.DocumentLibraryVersion.Comments.md)|Gets any optional comments associated with the specified version of the shared document. Read-only.|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceTask.Delete.md)|Deletes the current  **SharedWorkspaceTask** object.|
 |[Save](../../Office.SharedWorkspaceTask.Save.md)|Uploads changes made programmatically to a shared server.|

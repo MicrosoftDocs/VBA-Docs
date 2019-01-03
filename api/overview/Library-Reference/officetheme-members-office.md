@@ -13,7 +13,7 @@ Represents a Microsoft Office theme.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.OfficeTheme.Application.md)|Gets an **Application** object that represents the container application for the **OfficeTheme** object. Read-only.|
 |[Creator](../../Office.OfficeTheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the **OfficeTheme** object was created. Read-only.|

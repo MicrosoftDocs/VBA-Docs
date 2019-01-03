@@ -37,7 +37,7 @@ Individual  **Reference** objects in the **References** collection are indexed b
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ItemAdded](Access.References.ItemAdded.md)|
 |[ItemRemoved](Access.References.ItemRemoved.md)|
@@ -46,7 +46,7 @@ Individual  **Reference** objects in the **References** collection are indexed b
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddFromFile](Access.References.AddFromFile.md)|
 |[AddFromGuid](Access.References.AddFromGuid.md)|
@@ -57,7 +57,7 @@ Individual  **Reference** objects in the **References** collection are indexed b
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.References.Count.md)|
 |[Parent](Access.References.Parent.md)|

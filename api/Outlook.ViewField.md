@@ -100,7 +100,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ViewField.Application.md)|
 |[Class](Outlook.ViewField.Class.md)|

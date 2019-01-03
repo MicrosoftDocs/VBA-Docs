@@ -27,7 +27,7 @@ Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** metho
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Project.Exception.Delete.md)|
 
@@ -35,7 +35,7 @@ Use the  **Exceptions** collections **[Add](./Project.Exceptions.Add.md)** metho
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Exception.Application.md)|
 |[DaysOfWeek](./Project.Exception.DaysOfWeek.md)|

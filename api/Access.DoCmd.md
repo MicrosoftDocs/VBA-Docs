@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddMenu](Access.DoCmd.AddMenu.md)|
 |[ApplyFilter](Access.DoCmd.ApplyFilter.md)|

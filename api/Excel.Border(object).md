@@ -59,7 +59,7 @@ Worksheets("Sheet1").Range("A1:G1"). _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Border.Application.md)|
 |[Color](Excel.Border.Color.md)|

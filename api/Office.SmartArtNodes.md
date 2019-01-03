@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SmartArtNodes.Add.md)|
 |[Item](Office.SmartArtNodes.Item.md)|
@@ -41,7 +41,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArtNodes.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtNodes.Application.md)|
 |[Count](Office.SmartArtNodes.Count.md)|

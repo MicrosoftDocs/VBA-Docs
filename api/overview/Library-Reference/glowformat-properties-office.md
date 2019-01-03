@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.GlowFormat.Application.md)|Gets an  **Application** object that represents the container application for the **GlowFormat** object. Read-only.|
 |[Color](../../Office.GlowFormat.Color.md)|Gets a  **ColorFormat** object that represents the color of text formatted as glow. Read-only.|

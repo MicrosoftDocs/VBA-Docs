@@ -20,7 +20,7 @@ A collection of  **PickerField** objects. Each **PickerField** object represents
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerFields.Application.md)|
 |[Count](Office.PickerFields.Count.md)|

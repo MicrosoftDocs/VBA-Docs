@@ -67,7 +67,7 @@ Dim irmPermission As Office.Permission
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.Permission.Add.md)|
 |[ApplyPolicy](Office.Permission.ApplyPolicy.md)|
@@ -77,7 +77,7 @@ Dim irmPermission As Office.Permission
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.Permission.Application.md)|
 |[Count](Office.Permission.Count.md)|

@@ -13,7 +13,7 @@ A collection of **SearchScope** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SearchScopes.Application.md)|Gets an **Application** object that represents the container application for the **SearchScopes** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SearchScopes.Count.md)|Gets a **Long** indicating the number of items in the **SearchScopes** object. Read-only.|

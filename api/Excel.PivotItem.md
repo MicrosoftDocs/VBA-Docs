@@ -36,7 +36,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.PivotItem.Delete.md)|
 |[DrillTo](Excel.PivotItem.DrillTo.md)|
@@ -45,7 +45,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PivotItem.Application.md)|
 |[Caption](Excel.PivotItem.Caption.md)|

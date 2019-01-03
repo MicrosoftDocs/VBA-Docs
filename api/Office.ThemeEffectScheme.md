@@ -28,7 +28,7 @@ tesEffectScheme.Load("C:\myThemeEffectScheme.eftx")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Load](Office.ThemeEffectScheme.Load.md)|
 
@@ -36,7 +36,7 @@ tesEffectScheme.Load("C:\myThemeEffectScheme.eftx")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeEffectScheme.Application.md)|
 |[Creator](Office.ThemeEffectScheme.Creator.md)|

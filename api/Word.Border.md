@@ -65,7 +65,7 @@ Next aBorder
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Border.Application.md)|
 |[ArtStyle](Word.Border.ArtStyle.md)|

@@ -46,7 +46,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CTPFactoryAvailable](Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)|
 

@@ -31,7 +31,7 @@ Application.Documents(1).Content.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BuildKeyCode](Word.Global.BuildKeyCode.md)|
 |[CentimetersToPoints](Word.Global.CentimetersToPoints.md)|
@@ -65,7 +65,7 @@ Application.Documents(1).Content.Bold = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveDocument](Word.Global.ActiveDocument.md)|
 |[ActivePrinter](Word.Global.ActivePrinter.md)|

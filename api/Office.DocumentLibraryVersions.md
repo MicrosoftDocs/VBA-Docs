@@ -70,7 +70,7 @@ Dim dlvVersions As Office.DocumentLibraryVersions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.DocumentLibraryVersions.Application.md)|
 |[Count](Office.DocumentLibraryVersions.Count.md)|

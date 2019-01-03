@@ -71,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SearchScope.Application.md)|
 |[Creator](Office.SearchScope.Creator.md)|

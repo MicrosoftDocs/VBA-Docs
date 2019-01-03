@@ -32,7 +32,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeMasterDelete](./Visio.Masters.BeforeMasterDelete.md)|
 |[BeforeSelectionDelete](./Visio.Masters.BeforeSelectionDelete.md)|
@@ -66,7 +66,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Visio.Masters.Add.md)|
 |[AddEx](./Visio.Masters.AddEx.md)|
@@ -79,7 +79,7 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Masters.Application.md)|
 |[Count](./Visio.Masters.Count.md)|

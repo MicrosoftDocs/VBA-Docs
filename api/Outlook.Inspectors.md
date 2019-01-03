@@ -37,7 +37,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NewInspector](Outlook.Inspectors.NewInspector.md)|
 
@@ -45,7 +45,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Inspectors.Add.md)|
 |[Item](Outlook.Inspectors.Item.md)|
@@ -54,7 +54,7 @@ Set myInspectors = Application.Inspectors
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Inspectors.Application.md)|
 |[Class](Outlook.Inspectors.Class.md)|

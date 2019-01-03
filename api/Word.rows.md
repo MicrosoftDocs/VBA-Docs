@@ -45,7 +45,7 @@ ActiveDocument.Tables(1).Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Rows.Add.md)|
 |[ConvertToText](Word.Rows.ConvertToText.md)|
@@ -60,7 +60,7 @@ ActiveDocument.Tables(1).Rows(1).Delete
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.Rows.Alignment.md)|
 |[AllowBreakAcrossPages](Word.Rows.AllowBreakAcrossPages.md)|

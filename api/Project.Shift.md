@@ -24,7 +24,7 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Project.Shift.Clear.md)|
 
@@ -32,7 +32,7 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Shift.Application.md)|
 |[Finish](Project.Shift.Finish.md)|

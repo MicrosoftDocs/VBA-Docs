@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ActionControl](../../Office.CommandBars.ActionControl.md)|Gets the  **CommandBarControl** object whose **OnAction** property is set to the running procedure. Read-only.|
 |[ActiveMenuBar](../../Office.CommandBars.ActiveMenuBar.md)|Gets a  **CommandBar** object that represents the active menu bar in the container application. Read-only.|

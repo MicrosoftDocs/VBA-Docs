@@ -15,7 +15,7 @@ Contains a collection of **[View](Project.View.md)** objects. The **[View](./Pro
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](./Project.Views.Copy.md)|
 
@@ -23,7 +23,7 @@ Contains a collection of **[View](Project.View.md)** objects. The **[View](./Pro
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Views.Application.md)|
 |[Count](./Project.Views.Count.md)|

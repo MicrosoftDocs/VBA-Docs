@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.Tags.Add.md)|
 |[Item](Publisher.Tags.Item.md)|
@@ -73,7 +73,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Tags.Application.md)|
 |[Count](Publisher.Tags.Count.md)|

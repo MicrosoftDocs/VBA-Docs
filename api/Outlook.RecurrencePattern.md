@@ -48,7 +48,7 @@ Note that even after you release your reference and attempt to obtain a new refe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetOccurrence](./Outlook.RecurrencePattern.GetOccurrence.md)|
 
@@ -56,7 +56,7 @@ Note that even after you release your reference and attempt to obtain a new refe
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.RecurrencePattern.Application.md)|
 |[Class](./Outlook.RecurrencePattern.Class.md)|

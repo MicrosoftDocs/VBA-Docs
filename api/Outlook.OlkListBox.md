@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkListBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkListBox.BeforeUpdate.md)|
@@ -54,7 +54,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Outlook.OlkListBox.AddItem.md)|
 |[Clear](Outlook.OlkListBox.Clear.md)|
@@ -69,7 +69,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BackColor](Outlook.OlkListBox.BackColor.md)|
 |[BorderStyle](Outlook.OlkListBox.BorderStyle.md)|

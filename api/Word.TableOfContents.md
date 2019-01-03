@@ -40,7 +40,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.TableOfContents.Delete.md)|
 |[Update](Word.TableOfContents.Update.md)|
@@ -50,7 +50,7 @@ ActiveDocument.TablesOfContents.Add Range:=myRange, _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.TableOfContents.Application.md)|
 |[Creator](Word.TableOfContents.Creator.md)|

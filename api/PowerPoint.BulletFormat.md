@@ -50,7 +50,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Picture](./PowerPoint.BulletFormat.Picture.md)|
 
@@ -58,7 +58,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.BulletFormat.Application.md)|
 |[Character](./PowerPoint.BulletFormat.Character.md)|

@@ -34,7 +34,7 @@ To apply a list level, first identify the range or list, and then use the  **App
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyPictureBullet](Word.ListLevel.ApplyPictureBullet.md)|
 
@@ -42,7 +42,7 @@ To apply a list level, first identify the range or list, and then use the  **App
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Word.ListLevel.Alignment.md)|
 |[Application](Word.ListLevel.Application.md)|

@@ -89,7 +89,7 @@ Dim objSync As Office.Sync
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetUpdate](Office.GetUpdate.md)|
 |[OpenVersion](Office.Sync.OpenVersion.md)|
@@ -101,7 +101,7 @@ Dim objSync As Office.Sync
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.Sync.Application.md)|
 |[Creator](Office.Sync.Creator.md)|

@@ -43,7 +43,7 @@ Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.UserProperties.Add.md)|
 |[Find](./Outlook.UserProperties.Find.md)|
@@ -54,7 +54,7 @@ Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.UserProperties.Application.md)|
 |[Class](./Outlook.UserProperties.Class.md)|

@@ -54,7 +54,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyFilter](Publisher.MailMergeDataSource.ApplyFilter.md)|
 |[Close](Publisher.MailMergeDataSource.Close.md)|
@@ -69,7 +69,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveRecord](Publisher.MailMergeDataSource.ActiveRecord.md)|
 |[Application](Publisher.MailMergeDataSource.Application.md)|

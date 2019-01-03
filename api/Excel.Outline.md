@@ -30,7 +30,7 @@ Worksheets("sheet4").Outline.ShowLevels 1
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ShowLevels](Excel.Outline.ShowLevels.md)|
 
@@ -38,7 +38,7 @@ Worksheets("sheet4").Outline.ShowLevels 1
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Outline.Application.md)|
 |[AutomaticStyles](Excel.Outline.AutomaticStyles.md)|

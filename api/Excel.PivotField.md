@@ -51,7 +51,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddPageItem](Excel.PivotField.AddPageItem.md)|
 |[AutoShow](Excel.PivotField.AutoShow.md)|
@@ -70,7 +70,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllItemsVisible](Excel.PivotField.AllItemsVisible.md)|
 |[Application](Excel.PivotField.Application.md)|

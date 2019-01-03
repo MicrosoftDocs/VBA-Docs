@@ -40,7 +40,7 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceTasks.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceTasks.Application.md)|
 |[Count](Office.SharedWorkspaceTasks.Count.md)|

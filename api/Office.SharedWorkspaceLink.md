@@ -55,7 +55,7 @@ The following example modifies the first link in the shared workspace site to po
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceLink.Delete.md)|
 |[Save](Office.SharedWorkspaceLink.Save.md)|
@@ -64,7 +64,7 @@ The following example modifies the first link in the shared workspace site to po
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceLink.Application.md)|
 |[CreatedBy](Office.SharedWorkspaceLink.CreatedBy.md)|

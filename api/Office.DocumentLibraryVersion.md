@@ -70,7 +70,7 @@ The following example displays the properties of each saved version of the activ
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.DocumentLibraryVersion.Delete.md)|
 |[Open](Office.DocumentLibraryVersion.Open.md)|
@@ -80,7 +80,7 @@ The following example displays the properties of each saved version of the activ
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.DocumentLibraryVersion.Application.md)|
 |[Comments](Office.DocumentLibraryVersion.Comments.md)|

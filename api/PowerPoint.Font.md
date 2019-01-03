@@ -66,7 +66,7 @@ If ActivePresentation.Fonts(1).Embedded = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Font.Application.md)|
 |[AutoRotateNumbers](./PowerPoint.Font.AutoRotateNumbers.md)|

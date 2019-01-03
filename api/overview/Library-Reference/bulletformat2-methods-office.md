@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Picture](../../Office.BulletFormat2.Picture.md)|Sets the graphics file to be used for bullets in a bulleted list.|
 

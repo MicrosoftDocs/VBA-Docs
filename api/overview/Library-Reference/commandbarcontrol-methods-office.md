@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Copy](../../Office.CommandBarControl.Copy.md)|Copies a command bar control to an existing command bar.|
 |[Delete](../../Office.CommandBarControl.Delete.md)|Deletes the  **CommandBarControl** object from its collection.|

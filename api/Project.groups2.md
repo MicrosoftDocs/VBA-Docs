@@ -37,7 +37,7 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.Groups2.Add.md)|
 |[Copy](Project.Groups2.Copy.md)|
@@ -46,7 +46,7 @@ ActiveProject.ResourceGroups2("Standard Rate").ShowSummary = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Groups2.Application.md)|
 |[Count](Project.Groups2.Count.md)|

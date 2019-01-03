@@ -99,7 +99,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Outlook.UserDefinedProperty.Delete.md)|
 
@@ -107,7 +107,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.UserDefinedProperty.Application.md)|
 |[Class](Outlook.UserDefinedProperty.Class.md)|

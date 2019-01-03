@@ -51,7 +51,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./PowerPoint.OLEFormat.Activate.md)|
 |[DoVerb](./PowerPoint.OLEFormat.DoVerb.md)|
@@ -60,7 +60,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.OLEFormat.Application.md)|
 |[FollowColors](./PowerPoint.OLEFormat.FollowColors.md)|

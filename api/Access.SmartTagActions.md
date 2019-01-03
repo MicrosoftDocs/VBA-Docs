@@ -27,7 +27,7 @@ To return the collection of actions related to a smart tag, use the  **[SmartTag
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SmartTagActions.Application.md)|
 |[Count](Access.SmartTagActions.Count.md)|

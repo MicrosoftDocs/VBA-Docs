@@ -28,7 +28,7 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.PropertyPages.Add.md)|
 |[Item](Outlook.PropertyPages.Item.md)|
@@ -38,7 +38,7 @@ You receive a  **PropertyPages** object as a parameter of the **[OptionsPagesAdd
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.PropertyPages.Application.md)|
 |[Class](Outlook.PropertyPages.Class.md)|

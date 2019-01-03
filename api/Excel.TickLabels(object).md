@@ -40,7 +40,7 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.TickLabels.Delete.md)|
 |[Select](Excel.TickLabels.Select.md)|
@@ -49,7 +49,7 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Excel.TickLabels.Alignment.md)|
 |[Application](Excel.TickLabels.Application.md)|

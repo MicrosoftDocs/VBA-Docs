@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Merge](./Publisher.Cell.Merge.md)|
 |[Select](./Publisher.Cell.Select.md)|
@@ -60,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Cell.Application.md)|
 |[BorderBottom](./Publisher.Cell.BorderBottom.md)|

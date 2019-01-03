@@ -44,7 +44,7 @@ For more information on rule actions, see [Specifying Rule Actions](../outlook/H
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionType](Outlook.RuleAction.ActionType.md)|
 |[Application](Outlook.RuleAction.Application.md)|

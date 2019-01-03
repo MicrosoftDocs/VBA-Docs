@@ -27,7 +27,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.NavigationButton.Click.md)|
 |[DblClick](Access.NavigationButton.DblClick.md)|
@@ -46,7 +46,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.NavigationButton.Move.md)|
 |[Requery](Access.NavigationButton.Requery.md)|
@@ -57,7 +57,7 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.NavigationButton.AddColon.md)|
 |[Alignment](Access.NavigationButton.Alignment.md)|

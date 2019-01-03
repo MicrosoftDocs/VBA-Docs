@@ -13,7 +13,7 @@ Represents one gradient stop.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.GradientStop.Application.md)|When used without an object qualifier, this property returns an **Application** object that represents the Microsoft Office application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.|
 |[Color](../../Office.GradientStop.Color.md)|Gets a value representing the color of the gradient stop. Read-only.|

@@ -75,7 +75,7 @@ ActiveProject.Calendar.Years(2012).Months.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Months.Application.md)|
 |[Count](Project.Months.Count.md)|

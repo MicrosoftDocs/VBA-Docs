@@ -36,7 +36,7 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Word.OLEFormat.Activate.md)|
 |[ActivateAs](Word.OLEFormat.ActivateAs.md)|
@@ -49,7 +49,7 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.OLEFormat.Application.md)|
 |[ClassType](Word.OLEFormat.ClassType.md)|

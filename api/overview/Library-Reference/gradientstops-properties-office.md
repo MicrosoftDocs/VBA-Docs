@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.GradientStops.Application.md)|When used without an object qualifier, this property returns an  **Application** object that represents the Microsoft Office application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object. Read-only.|
 |[Count](../../Office.GradientStops.Count.md)|Gets a  **Long** indicating the number of items in the **GradientStops** collection. Read-only.|

@@ -46,7 +46,7 @@ ActiveWorkbook.SlicerCaches(1).Slicers(1).Width = 200
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Copy](Excel.Slicer.Copy.md)|
 |[Cut](Excel.Slicer.Cut.md)|
@@ -56,7 +56,7 @@ ActiveWorkbook.SlicerCaches(1).Slicers(1).Width = 200
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveItem](Excel.Slicer.ActiveItem.md)|
 |[Application](Excel.Slicer.Application.md)|

@@ -36,7 +36,7 @@ In Outlook, a conversation groups messages that share the same subject and belon
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetConversation](Outlook.ConversationHeader.GetConversation.md)|
 |[GetItems](Outlook.ConversationHeader.GetItems.md)|
@@ -45,7 +45,7 @@ In Outlook, a conversation groups messages that share the same subject and belon
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ConversationHeader.Application.md)|
 |[Class](Outlook.ConversationHeader.Class.md)|

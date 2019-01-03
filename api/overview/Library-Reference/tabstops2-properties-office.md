@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TabStops2.Application.md)|Gets an  **Application** object that represents the container application for the **TabStops2** object. Read-only.|
 |[Count](../../Office.TabStops2.Count.md)|Gets a  **Long** indicating the number of items in the **TabStops2** collection. Read-only.|

@@ -16,7 +16,7 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ViewsSingle.Add.md)|
 |[Copy](Project.ViewsSingle.Copy.md)|
@@ -25,7 +25,7 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ViewsSingle.Application.md)|
 |[Count](Project.ViewsSingle.Count.md)|

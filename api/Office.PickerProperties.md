@@ -53,7 +53,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.PickerProperties.Add.md)|
 |[Remove](Office.PickerProperties.Remove.md)|
@@ -62,7 +62,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerProperties.Application.md)|
 |[Count](Office.PickerProperties.Count.md)|

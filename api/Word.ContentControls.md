@@ -76,7 +76,7 @@ Use the  **ContentControl** object to work with individual content controls. For
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.ContentControls.Add.md)|
 |[Item](Word.ContentControls.Item.md)|
@@ -85,7 +85,7 @@ Use the  **ContentControl** object to work with individual content controls. For
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ContentControls.Application.md)|
 |[Count](Word.ContentControls.Count.md)|

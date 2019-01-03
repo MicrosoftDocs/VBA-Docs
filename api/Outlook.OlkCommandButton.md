@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkCommandButton.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkCommandButton.BeforeUpdate.md)|
@@ -53,7 +53,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkCommandButton.Accelerator.md)|
 |[AutoSize](Outlook.OlkCommandButton.AutoSize.md)|

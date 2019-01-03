@@ -54,7 +54,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardProperty.Application.md)|
 |[CurrentValueId](Publisher.WizardProperty.CurrentValueId.md)|

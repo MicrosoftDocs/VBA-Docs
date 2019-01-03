@@ -13,14 +13,14 @@ A collection of **PickerResult** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.PickerResults.Add.md)|Adds a **PickerResult** object to the **PickerResults** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.PickerResults.Application.md)|Gets an **Application** object that represents the container application for the **PickerResults** object. Read-only|
 |[Count](../../Office.PickerResults.Count.md)|Retrieves the count of the number of **PickerResult** objects contained within the **PickerResults** collection. Read-only|

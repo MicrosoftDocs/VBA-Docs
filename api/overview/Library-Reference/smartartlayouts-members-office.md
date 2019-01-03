@@ -14,14 +14,14 @@ Represents a collection of Smart Art layout diagrams.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.SmartArtLayouts.Item.md)|Retrieves a **SmartArtLayout** object at the specified index or with the specified unique Id.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartArtLayouts.Application.md)|Gets an **Application** object that represents the container application for the **SmartArtLayouts** object. Read-only|
 |[Count](../../Office.SmartArtLayouts.Count.md)|Retrieves the count of the number of **SmartArtLayout** objects contained within the **SmartArtLayouts** collection. Read-only|

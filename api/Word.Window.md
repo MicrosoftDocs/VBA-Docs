@@ -58,7 +58,7 @@ When you switch the view to print preview, a new window is created. This window 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](Word.Window.Activate.md)|
 |[Close](Word.Window.Close.md)|
@@ -77,7 +77,7 @@ When you switch the view to print preview, a new window is created. This window 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Active](Word.Window.Active.md)|
 |[ActivePane](Word.Window.ActivePane.md)|

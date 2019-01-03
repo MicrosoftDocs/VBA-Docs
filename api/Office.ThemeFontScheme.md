@@ -30,7 +30,7 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Load](Office.ThemeFontScheme.Load.md)|
 |[Save](Office.ThemeFontScheme.Save.md)|
@@ -39,7 +39,7 @@ Set tfsThemeFontScheme = tTheme.ThemeFontScheme
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ThemeFontScheme.Application.md)|
 |[Creator](Office.ThemeFontScheme.Creator.md)|

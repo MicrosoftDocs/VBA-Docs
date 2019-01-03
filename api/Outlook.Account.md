@@ -176,7 +176,7 @@ End Namespace
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetAddressEntryFromID](./Outlook.Account.GetAddressEntryFromID.md)|
 |[GetRecipientFromID](./Outlook.Account.GetRecipientFromID.md)|
@@ -185,7 +185,7 @@ End Namespace
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccountType](./Outlook.Account.AccountType.md)|
 |[Application](./Outlook.Account.Application.md)|

@@ -13,7 +13,7 @@ Provides a means for developers to create a customized help experience for users
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[ClearDefaultContext](../../Office.IAssistance.ClearDefaultContext.md)|Clears the default help topic previously defined in the **SetDefaultContext** method.|
 |[SearchHelp](../../Office.IAssistance.SearchHelp.md)|Performs a search from the Office Help Viewer based on one or more keywords. Keywords can be a word or a phrase.|

@@ -49,7 +49,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerProperty.Application.md)|
 |[Creator](Office.PickerProperty.Creator.md)|

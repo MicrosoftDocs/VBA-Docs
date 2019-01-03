@@ -25,7 +25,7 @@ Use the  **[Item](Project.WorkWeekDays.Item.md)** property of the **WorkWeekDays
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.WorkWeekDay.Default.md)|
 
@@ -33,7 +33,7 @@ Use the  **[Item](Project.WorkWeekDays.Item.md)** property of the **WorkWeekDays
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WorkWeekDay.Application.md)|
 |[Calendar](Project.WorkWeekDay.Calendar.md)|

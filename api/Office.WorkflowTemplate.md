@@ -50,7 +50,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Show](Office.WorkflowTemplate.Show.md)|
 
@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WorkflowTemplate.Application.md)|
 |[Creator](Office.WorkflowTemplate.Creator.md)|

@@ -53,7 +53,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[FindPropertyById](Publisher.WizardProperties.FindPropertyById.md)|
 
@@ -61,7 +61,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WizardProperties.Application.md)|
 |[Count](Publisher.WizardProperties.Count.md)|

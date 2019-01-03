@@ -46,7 +46,7 @@ Set theWO = Application.WebOptions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefaultEncoding.md)|
 |[Application](Publisher.WebOptions.Application.md)|

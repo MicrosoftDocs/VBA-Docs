@@ -21,7 +21,7 @@ Represents a collection of one or more  **[BuildingBlock](Publisher.BuildingBloc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.BuildingBlocks.Application.md)|
 |[Count](Publisher.BuildingBlocks.Count.md)|

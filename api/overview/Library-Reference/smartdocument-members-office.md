@@ -14,7 +14,7 @@ The **SmartDocument** property of the **Document** object in Microsoft Word and 
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[PickSolution](../../Office.SmartDocument.PickSolution.md)|Displays a dialog box that allows the user to choose an available XML expansion pack to attach to the active document in Microsoft Word or a workbook in Microsoft Excel.|
 |[RefreshPane](../../Office.SmartDocument.RefreshPane.md)|Refreshes the **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.|
@@ -22,7 +22,7 @@ The **SmartDocument** property of the **Document** object in Microsoft Word and 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SmartDocument.Application.md)|Gets an **Application** object that represents the container application for the **SmartDocument** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.SmartDocument.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SmartDocument** object was created. Read-only.|

@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkContactPhoto.Change.md)|
 |[Click](Outlook.OlkContactPhoto.Click.md)|
@@ -52,7 +52,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enabled](Outlook.OlkContactPhoto.Enabled.md)|
 |[MouseIcon](Outlook.OlkContactPhoto.MouseIcon.md)|

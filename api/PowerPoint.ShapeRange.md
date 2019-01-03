@@ -87,7 +87,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](./PowerPoint.ShapeRange.Align.md)|
 |[Apply](./PowerPoint.ShapeRange.Apply.md)|
@@ -121,7 +121,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionSettings](./PowerPoint.ShapeRange.ActionSettings.md)|
 |[Adjustments](./PowerPoint.ShapeRange.Adjustments.md)|

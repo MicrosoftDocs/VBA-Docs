@@ -21,7 +21,7 @@ Represents a single caption style. The  **CaptionStyle** object is a member of t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CaptionStyle.Application.md)|
 |[Name](Publisher.CaptionStyle.Name.md)|

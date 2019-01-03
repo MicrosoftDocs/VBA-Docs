@@ -27,7 +27,7 @@ Use the  **[Item](Project.CalendarDrivers.Item.md)** property to get a single re
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CalendarDrivers.Application.md)|
 |[Count](Project.CalendarDrivers.Count.md)|

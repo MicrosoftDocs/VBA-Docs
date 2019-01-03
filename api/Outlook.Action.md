@@ -54,7 +54,7 @@ Set myReply = myItem.Actions("Reply").Execute
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Outlook.Action.Delete.md)|
 |[Execute](./Outlook.Action.Execute.md)|
@@ -63,7 +63,7 @@ Set myReply = myItem.Actions("Reply").Execute
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Action.Application.md)|
 |[Class](./Outlook.Action.Class.md)|

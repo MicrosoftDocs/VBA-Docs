@@ -14,14 +14,14 @@ Represents a single workflow task in a **WorkflowTasks** collection.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Show](../../Office.WorkflowTask.Show.md)|Displays a workflow task edit user interface for the specified **WorkflowTask** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WorkflowTask.Application.md)|Gets an **Application** object that represents the container application for the **WorkflowTask** object. Read-only.|
 |[AssignedTo](../../Office.WorkflowTask.AssignedTo.md)|Gets the name of the person that the workflow task is assigned to. Read-only.|

@@ -39,7 +39,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SoftEdgeFormat.Application.md)|
 |[Creator](Office.SoftEdgeFormat.Creator.md)|

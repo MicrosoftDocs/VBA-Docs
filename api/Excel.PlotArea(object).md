@@ -41,7 +41,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ClearFormats](Excel.PlotArea.ClearFormats.md)|
 |[Select](Excel.PlotArea.Select.md)|
@@ -50,7 +50,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PlotArea.Application.md)|
 |[Creator](Excel.PlotArea.Creator.md)|

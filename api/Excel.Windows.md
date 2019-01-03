@@ -55,7 +55,7 @@ Windows(1).WindowState = xlMaximized
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Arrange](Excel.Windows.Arrange.md)|
 |[BreakSideBySide](Excel.Windows.BreakSideBySide.md)|
@@ -66,7 +66,7 @@ Windows(1).WindowState = xlMaximized
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Windows.Application.md)|
 |[Count](Excel.Windows.Count.md)|

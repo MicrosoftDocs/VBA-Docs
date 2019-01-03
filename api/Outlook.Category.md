@@ -116,7 +116,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Category.Application.md)|
 |[CategoryBorderColor](Outlook.Category.CategoryBorderColor.md)|

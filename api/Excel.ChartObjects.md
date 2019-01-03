@@ -70,7 +70,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.ChartObjects.Add.md)|
 |[Copy](Excel.ChartObjects.Copy.md)|
@@ -85,7 +85,7 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.ChartObjects.Application.md)|
 |[Count](Excel.ChartObjects.Count.md)|

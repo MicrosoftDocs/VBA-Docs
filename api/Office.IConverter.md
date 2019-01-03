@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[HrExport](Office.IConverter.HrExport.md)|
 |[HrGetErrorString](Office.IConverter.HrGetErrorString.md)|

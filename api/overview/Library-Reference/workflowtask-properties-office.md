@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WorkflowTask.Application.md)|Gets an **Application** object that represents the container application for the **WorkflowTask** object. Read-only.|
 |[AssignedTo](../../Office.WorkflowTask.AssignedTo.md)|Gets the name of the person that the workflow task is assigned to. Read-only.|

@@ -116,7 +116,7 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Project.shape.apply.md)|
 |[Copy](Project.shape.copy.md)|
@@ -140,7 +140,7 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Project.shape.adjustments.md)|
 |[AlternativeText](Project.shape.alternativetext.md)|

@@ -37,7 +37,7 @@ Set mySyncObjects = Application.GetNameSpace("MAPI").SyncObjects
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Outlook.SyncObjects.Item.md)|
 
@@ -45,7 +45,7 @@ Set mySyncObjects = Application.GetNameSpace("MAPI").SyncObjects
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppFolders](Outlook.SyncObjects.AppFolders.md)|
 |[Application](Outlook.SyncObjects.Application.md)|

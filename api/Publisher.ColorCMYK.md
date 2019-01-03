@@ -43,7 +43,7 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetCMYK](Publisher.ColorCMYK.SetCMYK.md)|
 
@@ -51,7 +51,7 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorCMYK.Application.md)|
 |[Black](Publisher.ColorCMYK.Black.md)|

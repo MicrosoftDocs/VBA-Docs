@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[BlogProviderProperties](../../Office.IBlogExtensibility.BlogProviderProperties.md)|Contains information about the provider.|
 |[GetCategories](../../Office.IBlogExtensibility.GetCategories.md)|This method returns the list of blog categories for an account so Microsoft Word can populate the categories dropdown list.|

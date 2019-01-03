@@ -27,7 +27,7 @@ For more information on specifying rule conditions, see [Specify Rule Conditions
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.TextRuleCondition.Application.md)|
 |[Class](Outlook.TextRuleCondition.Class.md)|

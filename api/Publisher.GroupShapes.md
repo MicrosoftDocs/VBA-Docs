@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.GroupShapes.Item.md)|
 
@@ -55,7 +55,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.GroupShapes.Application.md)|
 |[Count](Publisher.GroupShapes.Count.md)|

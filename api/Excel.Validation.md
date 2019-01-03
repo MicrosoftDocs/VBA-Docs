@@ -49,7 +49,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.Validation.Add.md)|
 |[Delete](Excel.Validation.Delete.md)|
@@ -59,7 +59,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AlertStyle](Excel.Validation.AlertStyle.md)|
 |[Application](Excel.Validation.Application.md)|

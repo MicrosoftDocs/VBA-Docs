@@ -78,7 +78,7 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Publisher.Hyperlinks.Add.md)|
 
@@ -86,7 +86,7 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Hyperlinks.Application.md)|
 |[Count](./Publisher.Hyperlinks.Count.md)|

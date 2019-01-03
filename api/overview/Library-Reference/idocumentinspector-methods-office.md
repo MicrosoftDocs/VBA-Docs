@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Fix](../../Office.IDocumentInspector.Fix.md)|Performs some action on specific information items or document properties by using a custom Document Inspector module.|
 |[GetInfo](../../Office.IDocumentInspector.GetInfo.md)|Gets information about a custom Document Inspector module.|

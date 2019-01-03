@@ -15,7 +15,7 @@ Increments and decrements a value.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [BackColor](Outlook.spinbutton.backcolor.md)|Returns or sets a  **Long** that specifies the background color of the object. Read/write.|
 | [Delay](Outlook.spinbutton.delay.md)|Returns or sets a  **Long** that specifies the delay in milliseconds, between events on a [SpinButton](Outlook.spinbutton.md). Read/write.|

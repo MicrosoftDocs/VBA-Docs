@@ -37,7 +37,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.RulerLevel2.Application.md)|
 |[Creator](Office.RulerLevel2.Creator.md)|

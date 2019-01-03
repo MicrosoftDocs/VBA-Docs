@@ -60,7 +60,7 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./PowerPoint.Presentations.Add.md)|
 |[CanCheckOut](./PowerPoint.Presentations.CanCheckOut.md)|
@@ -73,7 +73,7 @@ Presentations.Open FileName:="sales.ppt", ReadOnly:=True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Presentations.Application.md)|
 |[Count](./PowerPoint.Presentations.Count.md)|

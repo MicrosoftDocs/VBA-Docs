@@ -37,7 +37,7 @@ With myFont
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WebPageFont.Application.md)|
 |[Creator](Office.WebPageFont.Creator.md)|

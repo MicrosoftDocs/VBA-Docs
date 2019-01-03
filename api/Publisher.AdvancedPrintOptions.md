@@ -47,7 +47,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowBleeds](Publisher.AdvancedPrintOptions.AllowBleeds.md)|
 |[Application](Publisher.AdvancedPrintOptions.Application.md)|

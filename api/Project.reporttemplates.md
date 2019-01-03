@@ -23,7 +23,7 @@ Use the  **[Item](Project.ReportTemplates.Item.md)** property to return a single
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Project.ReportTemplates.Count.md)|
 |[Item](Project.ReportTemplates.Item.md)|

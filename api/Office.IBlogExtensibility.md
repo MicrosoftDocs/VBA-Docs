@@ -20,7 +20,7 @@ An object that provides the ability to manipulate blog entries.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BlogProviderProperties](Office.IBlogExtensibility.BlogProviderProperties.md)|
 |[GetCategories](Office.IBlogExtensibility.GetCategories.md)|

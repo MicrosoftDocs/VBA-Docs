@@ -79,7 +79,7 @@ The following example displays the properties of the shared workspace to which t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateNew](Office.SharedWorkspace.CreateNew.md)|
 |[Delete](Office.SharedWorkspace.Delete.md)|
@@ -91,7 +91,7 @@ The following example displays the properties of the shared workspace to which t
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspace.Application.md)|
 |[Connected](Office.SharedWorkspace.Connected.md)|

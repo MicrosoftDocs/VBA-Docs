@@ -91,7 +91,7 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Word.Styles.Add.md)|
 |[Item](Word.Styles.Item.md)|
@@ -100,7 +100,7 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Styles.Application.md)|
 |[Count](Word.Styles.Count.md)|

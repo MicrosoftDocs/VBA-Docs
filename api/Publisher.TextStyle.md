@@ -79,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.TextStyle.Delete.md)|
 
@@ -87,7 +87,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.TextStyle.Application.md)|
 |[BaseStyle](Publisher.TextStyle.BaseStyle.md)|

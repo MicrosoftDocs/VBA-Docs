@@ -66,7 +66,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Publisher.Column.Delete.md)|
 
@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Column.Application.md)|
 |[Cells](Publisher.Column.Cells.md)|

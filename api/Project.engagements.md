@@ -24,7 +24,7 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.engagements.add.md)|
 
@@ -33,7 +33,7 @@ A collection of  **Engagement** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.engagements.application.md)|
 |[Count](Project.engagements.count.md)|

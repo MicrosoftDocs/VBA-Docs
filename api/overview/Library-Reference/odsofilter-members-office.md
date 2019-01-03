@@ -13,7 +13,7 @@ Represents a filter to be applied to an attached mail merge data source. The **O
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ODSOFilter.Application.md)|Gets an **Application** object that represents the container application for the **ODSOFilter** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Column](../../Office.ODSOFilter.Column.md)|Gets or sets a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.|

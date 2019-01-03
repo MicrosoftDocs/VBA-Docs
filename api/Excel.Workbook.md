@@ -93,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Activate](./Excel.Workbook.Activate(even).md)|
 |[AddinInstall](./Excel.Workbook.AddinInstall.md)|
@@ -140,7 +140,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAllChanges](./Excel.Workbook.AcceptAllChanges.md)|
 |[Activate](./Excel.Workbook.Activate(method).md)|
@@ -210,7 +210,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AccuracyVersion](./Excel.Workbook.AccuracyVersion.md)|
 |[ActiveChart](./Excel.Workbook.ActiveChart.md)|

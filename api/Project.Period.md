@@ -24,7 +24,7 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Period.Default.md)|
 
@@ -32,7 +32,7 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Period.Application.md)|
 |[Calendar](Project.Period.Calendar.md)|

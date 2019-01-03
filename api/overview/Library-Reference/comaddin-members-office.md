@@ -13,7 +13,7 @@ Represents a COM add-in in the Microsoft Office host application. The **COMAddIn
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.COMAddIn.Application.md)|Gets an **Application** object that represents the container application for the **COMAddIn** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Connect](../../Office.COMAddIn.Connect.md)|Gets or sets the state of the connection for the specified **COMAddIn** object. Read/write.|

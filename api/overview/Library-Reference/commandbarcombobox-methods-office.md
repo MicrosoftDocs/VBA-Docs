@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddItem](../../Office.CommandBarComboBox.AddItem.md)|Adds a list item to the specified command bar combo box control. The combo box control must be a custom control and must be a drop-down list box or a combo box.|
 |[Clear](../../Office.CommandBarComboBox.Clear.md)|Removes all list items from a command bar combo box control (a drop-down list box or a combo box).|

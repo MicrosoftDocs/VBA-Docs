@@ -77,7 +77,7 @@ MsgBox ActiveProject.Calendar.Years(2006).Months(pjNovember).Days.Count
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Days.Application.md)|
 |[Count](Project.Days.Count.md)|

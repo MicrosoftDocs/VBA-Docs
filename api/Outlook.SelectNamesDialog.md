@@ -85,7 +85,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Display](Outlook.SelectNamesDialog.Display.md)|
 |[SetDefaultDisplayMode](Outlook.SelectNamesDialog.SetDefaultDisplayMode.md)|
@@ -94,7 +94,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AllowMultipleSelection](Outlook.SelectNamesDialog.AllowMultipleSelection.md)|
 |[Application](Outlook.SelectNamesDialog.Application.md)|

@@ -101,7 +101,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Default](Project.Year.Default.md)|
 
@@ -109,7 +109,7 @@ Figure 1 shows the results of the  **CountYears** macro.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.Year.Application.md)|
 |[Calendar](Project.Year.Calendar.md)|

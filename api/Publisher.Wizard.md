@@ -88,7 +88,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SetId](Publisher.Wizard.SetId.md)|
 
@@ -96,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Wizard.Application.md)|
 |[ID](Publisher.Wizard.ID.md)|

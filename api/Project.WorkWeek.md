@@ -32,7 +32,7 @@ Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Project.WorkWeek.Delete.md)|
 
@@ -40,7 +40,7 @@ Use the  **[Add](Project.WorkWeeks.Add.md)** method of the **WorkWeeks** collect
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.WorkWeek.Application.md)|
 |[Finish](Project.WorkWeek.Finish.md)|

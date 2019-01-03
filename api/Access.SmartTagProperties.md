@@ -25,7 +25,7 @@ To return the  **SmartTagProperties** collection for a smart tag, use the **[Pro
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.SmartTagProperties.Add.md)|
 
@@ -33,7 +33,7 @@ To return the  **SmartTagProperties** collection for a smart tag, use the **[Pro
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SmartTagProperties.Application.md)|
 |[Count](Access.SmartTagProperties.Count.md)|

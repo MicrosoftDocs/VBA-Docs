@@ -40,7 +40,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Excel.Axis.Delete.md)|
 |[Select](Excel.Axis.Select.md)|
@@ -49,7 +49,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Axis.Application.md)|
 |[AxisBetweenCategories](Excel.Axis.AxisBetweenCategories.md)|

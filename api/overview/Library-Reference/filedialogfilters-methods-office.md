@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.FileDialogFilters.Add.md)|Adds a new file filter to the list of filters in the  **Files of type** drop-down list box in the **File** dialog box. Returns a **FileDialogFilter** object that represents the newly added file filter.|
 |[Clear](../../Office.FileDialogFilters.Clear.md)|Removes all filters currently applied in a file dialog box.|

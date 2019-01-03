@@ -30,7 +30,7 @@ objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomXMLPrefixMapping.Application.md)|
 |[Creator](Office.CustomXMLPrefixMapping.Creator.md)|

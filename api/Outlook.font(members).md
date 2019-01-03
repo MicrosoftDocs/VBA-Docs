@@ -15,7 +15,7 @@ Defines the characteristics of the text used by a control.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Bold](Outlook.Font.bold.md)|Returns or sets a  **Boolean** that specifies whether text is normal or bold. Read/write.|
 | [Italic](Outlook.Font.italic.md)|Returns or sets a  **Boolean** that specifies whether text is normal or italic. Read/write.|

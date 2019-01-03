@@ -31,7 +31,7 @@ To import an image as a  **SharedResource** object, use the **[AddSharedImage](A
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SharedResources.Application.md)|
 |[Count](Access.SharedResources.Count.md)|

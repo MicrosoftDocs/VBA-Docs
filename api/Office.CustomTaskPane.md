@@ -46,7 +46,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DockPositionStateChange](Office.CustomTaskPane.DockPositionStateChange.md)|
 |[VisibleStateChange](Office.CustomTaskPane.VisibleStateChange.md)|
@@ -55,7 +55,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.CustomTaskPane.Delete.md)|
 
@@ -63,7 +63,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.CustomTaskPane.Application.md)|
 |[ContentControl](Office.CustomTaskPane.ContentControl.md)|

@@ -92,7 +92,7 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyTemplate](./PowerPoint.Slide.ApplyTemplate.md)|
 |[ApplyTemplate2](./PowerPoint.slide.applytemplate2.md)|
@@ -112,7 +112,7 @@ ActivePresentation.Slides.Add 1, ppLayoutTitleOnly
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Slide.Application.md)|
 |[Background](./PowerPoint.Slide.Background.md)|

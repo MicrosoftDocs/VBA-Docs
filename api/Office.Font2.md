@@ -31,7 +31,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Allcaps](Office.Font2.Allcaps.md)|
 |[Application](Office.Font2.Application.md)|

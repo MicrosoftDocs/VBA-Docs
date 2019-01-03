@@ -79,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](Outlook.BusinessCardView.Apply.md)|
 |[Copy](Outlook.BusinessCardView.Copy.md)|
@@ -92,7 +92,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.BusinessCardView.Application.md)|
 |[CardSize](Outlook.BusinessCardView.CardSize.md)|

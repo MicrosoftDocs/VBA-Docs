@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ServerPolicy.Application.md)|
 |[BlockPreview](Office.ServerPolicy.BlockPreview.md)|

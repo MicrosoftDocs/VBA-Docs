@@ -14,7 +14,7 @@ Represents the soft edges effect in Office graphics.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SoftEdgeFormat.Application.md)|Gets an **Application** object that represents the container application for the **SoftEdgeFormat** object. Read-only.|
 |[Creator](../../Office.SoftEdgeFormat.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SoftEdgeFormat** object was created. Read-only.|

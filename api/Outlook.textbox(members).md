@@ -15,7 +15,7 @@ Displays information from a user or from an organized set of data.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [Copy](Outlook.textbox.copy.md)|Copies the contents of an object to the Clipboard.|
 | [Cut](Outlook.textbox.cut.md)|Removes selected information from an object and transfers it to the Clipboard.|
@@ -27,7 +27,7 @@ Displays information from a user or from an organized set of data.
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 | [AutoSize](Outlook.textbox.autosize.md)|Returns or sets a  **Boolean** that specifies whether an object automatically resizes to display its entire contents. Read/write.|
 | [AutoTab](Outlook.textbox.autotab.md)|Returns or sets a  **Boolean** that specifies whether an automatic tab occurs when a user enters the maximum allowable number of characters into a [TextBox](Outlook.textbox.md). Read/write.|

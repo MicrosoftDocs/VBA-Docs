@@ -128,7 +128,7 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./PowerPoint.Shape.Apply.md)|
 |[ApplyAnimation](./PowerPoint.Shape.ApplyAnimation.md)|
@@ -156,7 +156,7 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActionSettings](./PowerPoint.Shape.ActionSettings.md)|
 |[Adjustments](./PowerPoint.Shape.Adjustments.md)|

@@ -27,7 +27,7 @@ Use the  **[Item](Project.ChildDrivers.Item.md)** property to get a single child
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ChildDrivers.Application.md)|
 |[Count](Project.ChildDrivers.Count.md)|

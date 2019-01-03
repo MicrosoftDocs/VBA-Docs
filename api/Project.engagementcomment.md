@@ -24,7 +24,7 @@ A collection of  **EngagementComment** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.engagementcomment.application.md)|
 |[AuthorResEmail](Project.engagementcomment.authorresemail.md)|

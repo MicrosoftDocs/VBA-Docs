@@ -29,7 +29,7 @@ Use the  **[NavigationFolders](Outlook.NavigationGroup.NavigationFolders.md)** p
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.NavigationGroup.Application.md)|
 |[Class](Outlook.NavigationGroup.Class.md)|

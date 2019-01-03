@@ -37,7 +37,7 @@ Set myAddressList = Application.Session.AddressLists("Personal Address Book")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetContactsFolder](./Outlook.AddressList.GetContactsFolder.md)|
 
@@ -45,7 +45,7 @@ Set myAddressList = Application.Session.AddressLists("Personal Address Book")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddressEntries](./Outlook.AddressList.AddressEntries.md)|
 |[AddressListType](./Outlook.AddressList.AddressListType.md)|

@@ -65,7 +65,7 @@ The following example returns the number of tasks in the shared workspace and in
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Office.SharedWorkspaceTask.Delete.md)|
 |[Save](Office.SharedWorkspaceTask.Save.md)|
@@ -74,7 +74,7 @@ The following example returns the number of tasks in the shared workspace and in
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceTask.Application.md)|
 |[AssignedTo](Office.SharedWorkspaceTask.AssignedTo.md)|

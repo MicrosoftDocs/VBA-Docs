@@ -27,7 +27,7 @@ Use the  **ImportExportSpecification** property of the [CodeProject](Access.Code
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.ImportExportSpecifications.Add.md)|
 
@@ -35,7 +35,7 @@ Use the  **ImportExportSpecification** property of the [CodeProject](Access.Code
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.ImportExportSpecifications.Application.md)|
 |[Count](Access.ImportExportSpecifications.Count.md)|

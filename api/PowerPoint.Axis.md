@@ -58,7 +58,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./PowerPoint.Axis.Delete.md)|
 |[Select](./PowerPoint.Axis.Select.md)|
@@ -67,7 +67,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.Axis.Application.md)|
 |[AxisBetweenCategories](./PowerPoint.Axis.AxisBetweenCategories.md)|

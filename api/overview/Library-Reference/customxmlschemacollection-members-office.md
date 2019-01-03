@@ -13,7 +13,7 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLSchemaCollection.Add.md)|Allows you to add one or more schemas to a schema collection that can then be added to a stream in the data store and to the Schema Library. |
 |[AddCollection](../../Office.CustomXMLSchemaCollection.AddCollection.md)|Adds an existing schema collection to the current schema collection. |
@@ -22,7 +22,7 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLSchemaCollection.Application.md)|Gets an **Application** object that represents the container application for the **CustomXMLSchemaCollection** object. Read-only.|
 |[Count](../../Office.CustomXMLSchemaCollection.Count.md)|Gets a **Long** indicating the number of items in the **CustomXMLSchemaCollection** collection. Read-only.|

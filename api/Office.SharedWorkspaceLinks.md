@@ -40,7 +40,7 @@ Use the  **[Links](Office.SharedWorkspace.Links.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceLinks.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **[Links](Office.SharedWorkspace.Links.md)** property of the **[SharedW
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceLinks.Application.md)|
 |[Count](Office.SharedWorkspaceLinks.Count.md)|

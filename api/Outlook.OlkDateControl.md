@@ -38,7 +38,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](./Outlook.OlkDateControl.AfterUpdate.md)|
 |[BeforeUpdate](./Outlook.OlkDateControl.BeforeUpdate.md)|
@@ -59,7 +59,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DropDown](./Outlook.OlkDateControl.DropDown.md)|
 
@@ -67,7 +67,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](./Outlook.OlkDateControl.AutoSize.md)|
 |[AutoWordSelect](./Outlook.OlkDateControl.AutoWordSelect.md)|

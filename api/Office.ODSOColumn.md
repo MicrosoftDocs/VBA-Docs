@@ -51,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOColumn.Application.md)|
 |[Creator](Office.ODSOColumn.Creator.md)|

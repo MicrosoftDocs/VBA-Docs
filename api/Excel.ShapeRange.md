@@ -81,7 +81,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Align](Excel.ShapeRange.Align.md)|
 |[Apply](Excel.ShapeRange.Apply.md)|
@@ -108,7 +108,7 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](Excel.ShapeRange.Adjustments.md)|
 |[AlternativeText](Excel.ShapeRange.AlternativeText.md)|

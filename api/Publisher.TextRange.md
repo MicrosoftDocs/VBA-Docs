@@ -105,7 +105,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Characters](./Publisher.TextRange.Characters.md)|
 |[Collapse](./Publisher.TextRange.Collapse.md)|
@@ -133,7 +133,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.TextRange.Application.md)|
 |[BoundHeight](./Publisher.TextRange.BoundHeight.md)|

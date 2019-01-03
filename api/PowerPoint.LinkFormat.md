@@ -46,7 +46,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BreakLink](./PowerPoint.LinkFormat.BreakLink.md)|
 |[Update](./PowerPoint.LinkFormat.Update.md)|
@@ -55,7 +55,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.LinkFormat.Application.md)|
 |[AutoUpdate](./PowerPoint.LinkFormat.AutoUpdate.md)|

@@ -44,7 +44,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.RulerLevels2.Item.md)|
 
@@ -52,7 +52,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.RulerLevels2.Application.md)|
 |[Count](Office.RulerLevels2.Count.md)|

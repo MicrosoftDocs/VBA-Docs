@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[IncrementOffsetX](Publisher.ShadowFormat.IncrementOffsetX.md)|
 |[IncrementOffsetY](Publisher.ShadowFormat.IncrementOffsetY.md)|
@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ShadowFormat.Application.md)|
 |[Blur](Publisher.shadowformat.blur.md)|

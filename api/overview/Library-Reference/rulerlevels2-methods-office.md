@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.RulerLevels2.Item.md)|Gets a member of the  **RulerLevels2** collection.|
 

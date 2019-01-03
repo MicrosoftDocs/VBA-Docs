@@ -21,7 +21,7 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.CaptionStyles.Item.md)|
 
@@ -29,7 +29,7 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.CaptionStyles.Application.md)|
 |[Count](Publisher.CaptionStyles.Count.md)|

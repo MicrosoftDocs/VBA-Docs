@@ -39,7 +39,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Reset](Word.ListGallery.Reset.md)|
 
@@ -47,7 +47,7 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ListGallery.Application.md)|
 |[Creator](Word.ListGallery.Creator.md)|

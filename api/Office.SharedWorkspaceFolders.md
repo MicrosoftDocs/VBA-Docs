@@ -40,7 +40,7 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SharedWorkspaceFolders.Add.md)|
 
@@ -48,7 +48,7 @@ Use the  **Folders** property of the **SharedWorkspace** object to return a **Sh
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SharedWorkspaceFolders.Application.md)|
 |[Count](Office.SharedWorkspaceFolders.Count.md)|

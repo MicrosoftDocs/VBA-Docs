@@ -47,7 +47,7 @@ myAttachments.Add "C:\My Documents\Q496.xls", _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.Attachments.Add.md)|
 |[Item](./Outlook.Attachments.Item.md)|
@@ -57,7 +57,7 @@ myAttachments.Add "C:\My Documents\Q496.xls", _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Attachments.Application.md)|
 |[Class](./Outlook.Attachments.Class.md)|

@@ -93,7 +93,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeStoreRemove](./Outlook.Stores.BeforeStoreRemove.md)|
 |[StoreAdd](./Outlook.Stores.StoreAdd.md)|
@@ -102,7 +102,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](./Outlook.Stores.Item.md)|
 
@@ -110,7 +110,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Stores.Application.md)|
 |[Class](./Outlook.Stores.Class.md)|

@@ -14,14 +14,14 @@ The top level class for interacting with a SmartArt graphic.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Reset](../../Office.SmartArt.Reset.md)|Resets the SmartArt graphic to its original state.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AllNodes](../../Office.SmartArt.AllNodes.md)|Retrieves a **SmartArtNodes** object containing all of the nodes within the SmartArt diagram. Read-only|
 |[Application](../../Office.SmartArt.Application.md)|Gets an **Application** object that represents the container application for the **SmartArt** object. Read-only|

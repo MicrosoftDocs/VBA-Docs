@@ -37,7 +37,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Create](Excel.PivotCaches.Create.md)|
 |[Item](Excel.PivotCaches.Item.md)|
@@ -46,7 +46,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PivotCaches.Application.md)|
 |[Count](Excel.PivotCaches.Count.md)|

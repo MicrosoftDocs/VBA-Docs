@@ -37,7 +37,7 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[SaveAsPNG](./overview/Word.md)|
 
@@ -45,7 +45,7 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Page.Application.md)|
 |[Breaks](Word.Page.Breaks.md)|

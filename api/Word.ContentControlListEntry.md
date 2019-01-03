@@ -154,7 +154,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](Word.ContentControlListEntry.Delete.md)|
 |[MoveDown](Word.ContentControlListEntry.MoveDown.md)|
@@ -165,7 +165,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.ContentControlListEntry.Application.md)|
 |[Creator](Word.ContentControlListEntry.Creator.md)|

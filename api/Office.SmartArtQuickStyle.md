@@ -27,7 +27,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.QuickStyle = Application.SmartAr
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtQuickStyle.Application.md)|
 |[Category](Office.SmartArtQuickStyle.Category.md)|

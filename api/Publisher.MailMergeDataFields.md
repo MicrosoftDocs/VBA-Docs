@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.MailMergeDataFields.Item.md)|
 
@@ -82,7 +82,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeDataFields.Application.md)|
 |[Count](Publisher.MailMergeDataFields.Count.md)|

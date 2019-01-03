@@ -14,7 +14,7 @@ The collection of **TabStop2** objects.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.TabStops2.Add.md)|Adds a new tab stop to the specified **TabStops2** object.|
 |[Item](../../Office.TabStops2.Item.md)|Gets an individual object from the **TabStops2** collection.|
@@ -22,7 +22,7 @@ The collection of **TabStop2** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.TabStops2.Application.md)|Gets an **Application** object that represents the container application for the **TabStops2** object. Read-only.|
 |[Count](../../Office.TabStops2.Count.md)|Gets a **Long** indicating the number of items in the **TabStops2** collection. Read-only.|

@@ -40,7 +40,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ReaderSpread.Application.md)|
 |[Height](Publisher.ReaderSpread.Height.md)|

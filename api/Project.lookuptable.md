@@ -21,7 +21,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddChild](./Project.LookupTable.AddChild.md)|
 
@@ -29,7 +29,7 @@ The following example adds three level entries to a lookup table, where the thir
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.LookupTable.Application.md)|
 |[Count](./Project.LookupTable.Count.md)|

@@ -16,7 +16,7 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.ViewsCombination.Add.md)|
 |[Copy](Project.ViewsCombination.Copy.md)|
@@ -25,7 +25,7 @@ Contains a collection of  **[ViewCombination](Project.ViewCombination.md)** obje
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.ViewsCombination.Application.md)|
 |[Count](Project.ViewsCombination.Count.md)|

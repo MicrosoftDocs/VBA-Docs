@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentInspectors.Application.md)|Gets an  **Application** object that represents the creator of the **DocumentInspectors** object. Read-only.|
 |[Count](../../Office.DocumentInspectors.Count.md)|Gets the number of items in the  **DocumentInspectors** object. Read-only.|

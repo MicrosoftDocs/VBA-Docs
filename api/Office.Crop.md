@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.Crop.Application.md)|
 |[Creator](Office.Crop.Creator.md)|

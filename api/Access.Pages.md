@@ -33,7 +33,7 @@ Individual  **Page** objects in the **Pages** collection are indexed beginning w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.Pages.Add.md)|
 |[Remove](Access.Pages.Remove.md)|
@@ -42,7 +42,7 @@ Individual  **Page** objects in the **Pages** collection are indexed beginning w
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Count](Access.Pages.Count.md)|
 |[Item](Access.pages.item.md)|

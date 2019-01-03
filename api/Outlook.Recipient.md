@@ -46,7 +46,7 @@ myRecipient.Type = olCC
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Outlook.Recipient.Delete.md)|
 |[FreeBusy](Outlook.Recipient.FreeBusy.md)|
@@ -54,7 +54,7 @@ myRecipient.Type = olCC
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Outlook.Recipient.Address.md)|
 |[AddressEntry](Outlook.Recipient.AddressEntry.md)|

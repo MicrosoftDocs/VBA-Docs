@@ -41,7 +41,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.CodeMask.Add.md)|
 
@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.CodeMask.Application.md)|
 |[Count](Project.CodeMask.Count.md)|

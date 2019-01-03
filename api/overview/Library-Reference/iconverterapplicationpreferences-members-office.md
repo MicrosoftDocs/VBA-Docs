@@ -13,7 +13,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[HrCheckFormat](../../Office.IConverterApplicationPreferences.HrCheckFormat.md)|This feature is only available in the Open XML Format SDK.|
 |[HrGetApplication](../../Office.IConverterApplicationPreferences.HrGetApplication.md)|This feature is only available in the Open XML Format SDK.|

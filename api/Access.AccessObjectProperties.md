@@ -51,7 +51,7 @@ With the same syntax forms, you can also refer to the Value property of a  **Acc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.AccessObjectProperties.Add.md)|
 |[Remove](Access.AccessObjectProperties.Remove.md)|
@@ -60,7 +60,7 @@ With the same syntax forms, you can also refer to the Value property of a  **Acc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AccessObjectProperties.Application.md)|
 |[Count](Access.AccessObjectProperties.Count.md)|

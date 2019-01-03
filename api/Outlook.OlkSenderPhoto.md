@@ -36,7 +36,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Change](Outlook.OlkSenderPhoto.Change.md)|
 |[Click](Outlook.OlkSenderPhoto.Click.md)|
@@ -49,7 +49,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enabled](Outlook.OlkSenderPhoto.Enabled.md)|
 |[MouseIcon](Outlook.OlkSenderPhoto.MouseIcon.md)|

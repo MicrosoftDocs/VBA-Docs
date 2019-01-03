@@ -52,7 +52,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Update](Publisher.LinkFormat.Update.md)|
 
@@ -60,7 +60,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LinkFormat.Application.md)|
 |[Parent](Publisher.LinkFormat.Parent.md)|

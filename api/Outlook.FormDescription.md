@@ -29,7 +29,7 @@ Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PublishForm](Outlook.FormDescription.PublishForm.md)|
 
@@ -37,7 +37,7 @@ Use the  **[FormDescription](Outlook.MailItem.FormDescription.md)** property to 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.FormDescription.Application.md)|
 |[Category](Outlook.FormDescription.Category.md)|

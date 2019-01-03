@@ -77,7 +77,7 @@ Next objDocument
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Publisher.Documents.Add.md)|
 
@@ -85,7 +85,7 @@ Next objDocument
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Publisher.Documents.Application.md)|
 |[Count](./Publisher.Documents.Count.md)|

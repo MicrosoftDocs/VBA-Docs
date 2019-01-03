@@ -36,7 +36,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyCustomDropCap](Publisher.DropCap.ApplyCustomDropCap.md)|
 |[Clear](Publisher.DropCap.Clear.md)|
@@ -45,7 +45,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.DropCap.Application.md)|
 |[FontBold](Publisher.DropCap.FontBold.md)|

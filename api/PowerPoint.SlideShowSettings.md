@@ -58,7 +58,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Run](./PowerPoint.SlideShowSettings.Run.md)|
 
@@ -66,7 +66,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceMode](./PowerPoint.SlideShowSettings.AdvanceMode.md)|
 |[Application](./PowerPoint.SlideShowSettings.Application.md)|

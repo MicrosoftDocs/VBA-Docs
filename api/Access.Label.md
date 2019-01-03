@@ -42,7 +42,7 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Access.Label.Click.md)|
 |[DblClick](Access.Label.DblClick.md)|
@@ -54,7 +54,7 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.Label.Move.md)|
 |[SizeToFit](Access.Label.SizeToFit.md)|
@@ -63,7 +63,7 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Label.Application.md)|
 |[BackColor](Access.Label.BackColor.md)|

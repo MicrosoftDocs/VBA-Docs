@@ -28,7 +28,7 @@ To return a single  **[SmartTag](Access.SmartTag.md)** object, use the **Item** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.SmartTags.Add.md)|
 
@@ -36,7 +36,7 @@ To return a single  **[SmartTag](Access.SmartTag.md)** object, use the **Item** 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.SmartTags.Application.md)|
 |[Count](Access.SmartTags.Count.md)|

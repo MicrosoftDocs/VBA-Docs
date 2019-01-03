@@ -30,7 +30,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](Outlook.DocumentItem.AfterWrite.md)|
 |[AttachmentAdd](Outlook.DocumentItem.AttachmentAdd.md)|
@@ -63,7 +63,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Close](Outlook.DocumentItem.Close(method).md)|
 |[Copy](Outlook.DocumentItem.Copy.md)|
@@ -79,7 +79,7 @@ Unlike other Outlook objects, you cannot create this object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](Outlook.DocumentItem.Actions.md)|
 |[Application](Outlook.DocumentItem.Application.md)|

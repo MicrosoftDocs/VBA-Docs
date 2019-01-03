@@ -29,7 +29,7 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.OptionButton.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.OptionButton.BeforeUpdate(even).md)|
@@ -50,7 +50,7 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.OptionButton.Move.md)|
 |[Requery](Access.OptionButton.Requery.md)|
@@ -61,7 +61,7 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.OptionButton.AddColon.md)|
 |[AfterUpdate](Access.OptionButton.AfterUpdate(property).md)|

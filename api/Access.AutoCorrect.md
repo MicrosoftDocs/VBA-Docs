@@ -29,7 +29,7 @@ To enable or disable AutoCorrect functionality for a particular  **TextBox** or 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DisplayAutoCorrectOptions](Access.AutoCorrect.DisplayAutoCorrectOptions.md)|
 

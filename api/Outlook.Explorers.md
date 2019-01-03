@@ -37,7 +37,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[NewExplorer](Outlook.Explorers.NewExplorer.md)|
 
@@ -45,7 +45,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Explorers.Add.md)|
 |[Item](Outlook.Explorers.Item.md)|
@@ -54,7 +54,7 @@ Set myExplorers = Application.Explorers
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Explorers.Application.md)|
 |[Class](Outlook.Explorers.Class.md)|

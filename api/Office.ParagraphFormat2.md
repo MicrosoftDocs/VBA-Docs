@@ -29,7 +29,7 @@ ActivePresentation.Slides(1).Shapes(2).TextFrame2.TextRange2 _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Office.ParagraphFormat2.Alignment.md)|
 |[Application](Office.ParagraphFormat2.Application.md)|

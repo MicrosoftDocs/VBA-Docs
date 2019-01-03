@@ -44,7 +44,7 @@ Worksheets(1).Range("A1:B2").Hyperlinks(2).Follow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToFavorites](Excel.Hyperlink.AddToFavorites.md)|
 |[CreateNewDocument](Excel.Hyperlink.CreateNewDocument.md)|
@@ -55,7 +55,7 @@ Worksheets(1).Range("A1:B2").Hyperlinks(2).Follow
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](Excel.Hyperlink.Address.md)|
 |[Application](Excel.Hyperlink.Application.md)|

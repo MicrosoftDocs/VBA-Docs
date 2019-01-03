@@ -67,7 +67,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAll](Word.Revisions.AcceptAll.md)|
 |[Item](Word.Revisions.Item.md)|
@@ -77,7 +77,7 @@ The  **Count** property for this collection in a document returns the number of 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Revisions.Application.md)|
 |[Count](Word.Revisions.Count.md)|

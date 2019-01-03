@@ -49,7 +49,7 @@ Next prtLoop
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.Printers.Application.md)|
 |[Count](Access.Printers.Count.md)|

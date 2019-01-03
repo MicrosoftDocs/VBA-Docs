@@ -14,7 +14,7 @@ Represents a signature provider add-in.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GenerateSignatureLineImage](../../Office.SignatureProvider.GenerateSignatureLineImage.md)|Gets a signature line image.|
 |[GetProviderDetail](../../Office.SignatureProvider.GetProviderDetail.md)|Queries the signature provider add-in for various details. |

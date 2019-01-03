@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Click](Outlook.OlkBusinessCardControl.Click.md)|
 |[DoubleClick](Outlook.OlkBusinessCardControl.DoubleClick.md)|
@@ -46,7 +46,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[MouseIcon](Outlook.OlkBusinessCardControl.MouseIcon.md)|
 |[MousePointer](Outlook.OlkBusinessCardControl.MousePointer.md)|

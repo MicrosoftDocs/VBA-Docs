@@ -44,7 +44,7 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[CreateCTP](Office.ICTPFactory.CreateCTP.md)|
 

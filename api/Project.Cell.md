@@ -20,7 +20,7 @@ Use the  **ActiveCell** property to return a **Cell** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Cell.Application.md)|
 |[Assignment](./Project.Cell.Assignment.md)|

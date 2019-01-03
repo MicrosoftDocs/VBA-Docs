@@ -13,14 +13,14 @@ Represents a single property in a collection of properties describing the metada
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Validate](../../Office.MetaProperty.Validate.md)|Validates a **MetaProperty** object representing a single property value according to a schema.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.MetaProperty.Application.md)|Gets an **Application** object that represents the container application for the **MetaProperty** object. Read-only.|
 |[Creator](../../Office.MetaProperty.Creator.md)|Gets a 32-bit integer that indicates the application in which the **MetaProperty** object was created. Read-only.|

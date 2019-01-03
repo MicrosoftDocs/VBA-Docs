@@ -49,7 +49,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PolicyItem.Application.md)|
 |[Creator](Office.PolicyItem.Creator.md)|

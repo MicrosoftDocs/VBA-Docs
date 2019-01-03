@@ -37,7 +37,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterPrint](./Publisher.Application.AfterPrint.md)|
 |[BeforePrint](./Publisher.Application.BeforePrint.md)|
@@ -66,7 +66,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CentimetersToPoints](./Publisher.Application.CentimetersToPoints.md)|
 |[ChangeFileOpenDirectory](./Publisher.Application.ChangeFileOpenDirectory.md)|
@@ -96,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveDocument](./Publisher.Application.ActiveDocument.md)|
 |[ActiveWindow](./Publisher.Application.ActiveWindow.md)|

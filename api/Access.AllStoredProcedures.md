@@ -53,7 +53,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.AllStoredProcedures.Application.md)|
 |[Count](Access.AllStoredProcedures.Count.md)|

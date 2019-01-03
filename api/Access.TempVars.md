@@ -36,7 +36,7 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Access.TempVars.Add.md)|
 |[Remove](Access.TempVars.Remove.md)|
@@ -46,7 +46,7 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Access.TempVars.Application.md)|
 |[Count](Access.TempVars.Count.md)|

@@ -81,7 +81,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Outlook.ExchangeUser.Delete.md)|
 |[Details](./Outlook.ExchangeUser.Details.md)|
@@ -102,7 +102,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./Outlook.ExchangeUser.Address.md)|
 |[AddressEntryUserType](./Outlook.ExchangeUser.AddressEntryUserType.md)|

@@ -71,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.FileDialogSelectedItems.Item.md)|
 
@@ -79,7 +79,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.FileDialogSelectedItems.Application.md)|
 |[Count](Office.FileDialogSelectedItems.Count.md)|

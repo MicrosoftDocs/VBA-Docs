@@ -86,7 +86,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.ColorsInUse.Application.md)|
 |[Count](Publisher.ColorsInUse.Count.md)|

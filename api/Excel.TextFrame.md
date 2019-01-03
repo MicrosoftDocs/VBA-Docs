@@ -43,7 +43,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Characters](Excel.TextFrame.Characters.md)|
 
@@ -51,7 +51,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.TextFrame.Application.md)|
 |[AutoMargins](Excel.TextFrame.AutoMargins.md)|

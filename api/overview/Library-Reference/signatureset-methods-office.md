@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[AddNonVisibleSignature](../../Office.SignatureSet.AddNonVisibleSignature.md)|Creates a signature packet when digitally signing a document.|
 |[AddSignatureLine](../../Office.SignatureSet.AddSignatureLine.md)|Adds lines to a document where signatures are collected.|

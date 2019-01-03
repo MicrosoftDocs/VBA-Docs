@@ -35,7 +35,7 @@ Set mySelectedItems = myExplorer.Selection
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[GetSelection](./Outlook.Selection.GetSelection.md)|
 |[Item](./Outlook.Selection.Item.md)|
@@ -44,7 +44,7 @@ Set mySelectedItems = myExplorer.Selection
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Selection.Application.md)|
 |[Class](./Outlook.Selection.Class.md)|

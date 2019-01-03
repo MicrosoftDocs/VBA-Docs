@@ -74,7 +74,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.DropDown.Application.md)|
 |[Creator](Word.DropDown.Creator.md)|

@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Remove](../../Office.UserPermission.Remove.md)|Removes the specified **UserPermission** object from the **[Permission](../../Office.Permission.md)** collection of the active document.|
 

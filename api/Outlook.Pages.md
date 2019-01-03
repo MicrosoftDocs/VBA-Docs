@@ -83,7 +83,7 @@ Set myPage = myPages.Add("General")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Pages.Add.md)|
 |[Item](Outlook.Pages.Item.md)|
@@ -93,7 +93,7 @@ Set myPage = myPages.Add("General")
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Pages.Application.md)|
 |[Class](Outlook.Pages.Class.md)|

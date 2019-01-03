@@ -89,7 +89,7 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.GroupCriteria.Add.md)|
 
@@ -97,7 +97,7 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.GroupCriteria.Application.md)|
 |[Count](Project.GroupCriteria.Count.md)|

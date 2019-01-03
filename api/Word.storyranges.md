@@ -94,7 +94,7 @@ Next myStoryRange
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.StoryRanges.Item.md)|
 
@@ -102,7 +102,7 @@ Next myStoryRange
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.StoryRanges.Application.md)|
 |[Count](Word.StoryRanges.Count.md)|

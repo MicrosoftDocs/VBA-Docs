@@ -63,7 +63,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.ODSOColumns.Item.md)|
 
@@ -71,7 +71,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.ODSOColumns.Application.md)|
 |[Count](Office.ODSOColumns.Count.md)|

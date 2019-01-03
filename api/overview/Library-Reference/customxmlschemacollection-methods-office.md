@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CustomXMLSchemaCollection.Add.md)|Allows you to add one or more schemas to a schema collection that can then be added to a stream in the data store and to the Schema Library. |
 |[AddCollection](../../Office.CustomXMLSchemaCollection.AddCollection.md)|Adds an existing schema collection to the current schema collection. |

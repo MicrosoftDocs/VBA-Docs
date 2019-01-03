@@ -46,7 +46,7 @@ ActivePresentation.SlideShowSettings.AdvanceMode = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdvanceOnClick](./PowerPoint.SlideShowTransition.AdvanceOnClick.md)|
 |[AdvanceOnTime](./PowerPoint.SlideShowTransition.AdvanceOnTime.md)|

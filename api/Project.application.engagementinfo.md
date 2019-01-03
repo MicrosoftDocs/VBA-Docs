@@ -26,7 +26,7 @@ Displays the engagement information dialog box user interface for the  **Resourc
 
 |||||
 |:-----|:-----|:-----|:-----|
-|**Name**|**Required/Optional**|Value|Description|
+|Name|**Required/Optional**|Value|Description|
 | _EngagementUniqueID_|Optional|Dword|The unique ID of the engagement.|
 | _ResourceUniqueID_|Optional|Dword|The unique ID of the resource.|
 | _Description_|Optional|String|A description of the engagement.|

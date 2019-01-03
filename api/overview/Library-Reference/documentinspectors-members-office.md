@@ -13,7 +13,7 @@ Represents a collection of **DocumentInspector** objects.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentInspectors.Application.md)|Gets an **Application** object that represents the creator of the **DocumentInspectors** object. Read-only.|
 |[Count](../../Office.DocumentInspectors.Count.md)|Gets the number of items in the **DocumentInspectors** object. Read-only.|

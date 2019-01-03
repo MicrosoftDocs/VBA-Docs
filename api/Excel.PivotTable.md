@@ -38,7 +38,7 @@ Worksheets("Sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddDataField](Excel.PivotTable.AddDataField.md)|
 |[AddFields](Excel.PivotTable.AddFields.md)|
@@ -75,7 +75,7 @@ Worksheets("Sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveFilters](Excel.PivotTable.ActiveFilters.md)|
 |[Allocation](Excel.PivotTable.Allocation.md)|

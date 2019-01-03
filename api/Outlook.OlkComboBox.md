@@ -36,7 +36,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkComboBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkComboBox.BeforeUpdate.md)|
@@ -57,7 +57,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddItem](Outlook.OlkComboBox.AddItem.md)|
 |[Clear](Outlook.OlkComboBox.Clear.md)|
@@ -73,7 +73,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AutoSize](Outlook.OlkComboBox.AutoSize.md)|
 |[AutoTab](Outlook.OlkComboBox.AutoTab.md)|

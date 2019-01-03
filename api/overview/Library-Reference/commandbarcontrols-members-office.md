@@ -13,14 +13,14 @@ A collection of **CommandBarControl** objects that represent the command bar con
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.CommandBarControls.Add.md)|Creates a new **CommandBarControl** object and adds it to the collection of controls on the specified command bar.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CommandBarControls.Application.md)|Gets an **Application** object that represents the container application for the **CommandBarControls** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.CommandBarControls.Count.md)|Gets a count of the numbers of controls on a command bar. Read-only.|

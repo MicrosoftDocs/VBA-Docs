@@ -48,7 +48,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.LayoutGuides.Application.md)|
 |[ColumnGutterWidth](Publisher.LayoutGuides.ColumnGutterWidth.md)|

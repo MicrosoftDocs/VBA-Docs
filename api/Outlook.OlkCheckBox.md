@@ -34,7 +34,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkCheckBox.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkCheckBox.BeforeUpdate.md)|
@@ -54,7 +54,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Accelerator](Outlook.OlkCheckBox.Accelerator.md)|
 |[Alignment](Outlook.OlkCheckBox.Alignment.md)|

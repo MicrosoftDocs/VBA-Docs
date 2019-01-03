@@ -41,7 +41,7 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Page](Outlook.OlkPageControl.Page.md)|
 

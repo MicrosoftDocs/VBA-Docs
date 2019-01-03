@@ -34,7 +34,7 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Enter](Access.SubForm.Enter.md)|
 |[Exit](Access.SubForm.Exit.md)|
@@ -43,7 +43,7 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.SubForm.Move.md)|
 |[Requery](Access.SubForm.Requery.md)|
@@ -54,7 +54,7 @@ Instead of creating the main form, and then adding the subform control to it, yo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.SubForm.AddColon.md)|
 |[Application](Access.SubForm.Application.md)|

@@ -45,7 +45,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BeforeDataRecordsetDelete](./Visio.DataRecordset.BeforeDataRecordsetDelete.md)|
 |[DataRecordsetChanged](./Visio.DataRecordset.DataRecordsetChanged.md)|
@@ -54,7 +54,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Visio.DataRecordset.Delete.md)|
 |[GetAllRefreshConflicts](./Visio.DataRecordset.GetAllRefreshConflicts.md)|
@@ -71,7 +71,7 @@ Once you have created a data recordset, the connection string and query command 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.DataRecordset.Application.md)|
 |[CommandString](./Visio.DataRecordset.CommandString.md)|

@@ -39,7 +39,7 @@ Set myAddressEntry = myRecipient.AddressEntry
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Delete](./Outlook.AddressEntry.Delete.md)|
 |[Details](./Outlook.AddressEntry.Details.md)|
@@ -53,7 +53,7 @@ Set myAddressEntry = myRecipient.AddressEntry
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Address](./Outlook.AddressEntry.Address.md)|
 |[AddressEntryUserType](./Outlook.AddressEntry.AddressEntryUserType.md)|

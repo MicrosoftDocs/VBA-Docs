@@ -48,7 +48,7 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Sentences.Item.md)|
 
@@ -56,7 +56,7 @@ ActiveDocument.Sentences(1).InsertAfter "The house is blue. "
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Sentences.Application.md)|
 |[Count](Word.Sentences.Count.md)|

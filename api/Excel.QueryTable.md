@@ -35,7 +35,7 @@ Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterRefresh](Excel.QueryTable.AfterRefresh.md)|
 |[BeforeRefresh](Excel.QueryTable.BeforeRefresh.md)|
@@ -44,7 +44,7 @@ Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[CancelRefresh](Excel.QueryTable.CancelRefresh.md)|
 |[Delete](Excel.QueryTable.Delete.md)|
@@ -56,7 +56,7 @@ Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdjustColumnWidth](Excel.QueryTable.AdjustColumnWidth.md)|
 |[Application](Excel.QueryTable.Application.md)|

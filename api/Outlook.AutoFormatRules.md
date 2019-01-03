@@ -98,7 +98,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.AutoFormatRules.Add.md)|
 |[Insert](Outlook.AutoFormatRules.Insert.md)|
@@ -111,7 +111,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.AutoFormatRules.Application.md)|
 |[Class](Outlook.AutoFormatRules.Class.md)|

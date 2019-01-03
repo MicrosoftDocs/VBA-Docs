@@ -40,7 +40,7 @@ Set myFont = _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.WebPageFonts.Application.md)|
 |[Count](Office.WebPageFonts.Count.md)|

@@ -13,7 +13,7 @@ The **SharedWorkspace** property of a **Document** object in Microsoft Word, a *
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[CreateNew](../../Office.SharedWorkspace.CreateNew.md)|Creates a document workspace site on the server and adds the active document to the new shared workspace site.|
 |[Delete](../../Office.SharedWorkspace.Delete.md)|Deletes the current shared workspace and all data within it.|
@@ -24,7 +24,7 @@ The **SharedWorkspace** property of a **Document** object in Microsoft Word, a *
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SharedWorkspace.Application.md)|Gets an **Application** object that represents the container application for the **SharedWorkspace** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Connected](../../Office.SharedWorkspace.Connected.md)|Gets a **Boolean** value that indicates whether or not the active document is currently saved in and connected to a shared workspace. Read-only.|

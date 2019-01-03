@@ -57,7 +57,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Excel.PivotTables.Add.md)|
 |[Item](Excel.PivotTables.Item.md)|
@@ -66,7 +66,7 @@ Worksheets("sheet3").PivotTables(1) _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.PivotTables.Application.md)|
 |[Count](Excel.PivotTables.Count.md)|

@@ -41,7 +41,7 @@ Set myItem = Application.CreateItem(olTaskItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterWrite](./Outlook.TaskItem.AfterWrite.md)|
 |[AttachmentAdd](./Outlook.TaskItem.AttachmentAdd.md)|
@@ -74,7 +74,7 @@ Set myItem = Application.CreateItem(olTaskItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Assign](./Outlook.TaskItem.Assign.md)|
 |[CancelResponseState](./Outlook.TaskItem.CancelResponseState.md)|
@@ -100,7 +100,7 @@ Set myItem = Application.CreateItem(olTaskItem)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Actions](./Outlook.TaskItem.Actions.md)|
 |[ActualWork](./Outlook.TaskItem.ActualWork.md)|

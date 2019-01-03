@@ -29,7 +29,7 @@ Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Visio.Connect.Application.md)|
 |[ContainingMasterID](./Visio.Connect.ContainingMasterID.md)|

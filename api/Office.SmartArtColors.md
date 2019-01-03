@@ -32,7 +32,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Office.SmartArtColors.Item.md)|
 
@@ -40,7 +40,7 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Color = Application.SmartArtColo
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartArtColors.Application.md)|
 |[Count](Office.SmartArtColors.Count.md)|

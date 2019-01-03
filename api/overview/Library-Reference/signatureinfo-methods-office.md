@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[GetCertificateDetail](../../Office.SignatureInfo.GetCertificateDetail.md)|Displays a specified detail related to a digital certificate.|
 |[GetSignatureDetail](../../Office.SignatureInfo.GetSignatureDetail.md)|Displays a specified detail related to a signature.|

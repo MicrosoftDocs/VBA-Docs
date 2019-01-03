@@ -90,7 +90,7 @@ Series 3: Work
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Project.seriescollection.item.md)|
 
@@ -98,7 +98,7 @@ Series 3: Work
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.seriescollection.application.md)|
 |[Count](Project.seriescollection.count.md)|

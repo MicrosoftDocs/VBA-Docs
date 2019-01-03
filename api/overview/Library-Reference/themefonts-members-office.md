@@ -13,14 +13,14 @@ Represents a collection of major and minor fonts in the font scheme of a Microso
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.ThemeFonts.Item.md)|Gets one of the three language fonts contained in the **ThemeFonts** collection.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.ThemeFonts.Application.md)|Gets an **Application** object that represents the container application for the **ThemeFonts** object. Read-only.|
 |[Count](../../Office.ThemeFonts.Count.md)|Gets a **Long** indicating the number of items in the **ThemeFonts** collection. Read-only.|

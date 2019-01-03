@@ -19,7 +19,7 @@ Represents the glow formatting for a shape or a range of shapes.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Color](Publisher.glowformat.color.md)|
 |[Radius](Publisher.glowformat.radius.md)|

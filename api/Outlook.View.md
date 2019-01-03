@@ -103,7 +103,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Outlook.View.Apply.md)|
 |[Copy](./Outlook.View.Copy.md)|
@@ -116,7 +116,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.View.Application.md)|
 |[Class](./Outlook.View.Class.md)|

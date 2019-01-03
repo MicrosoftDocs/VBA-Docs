@@ -46,7 +46,7 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Publisher.PhoneticGuide.Clear.md)|
 
@@ -54,7 +54,7 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Alignment](Publisher.PhoneticGuide.Alignment.md)|
 |[Application](Publisher.PhoneticGuide.Application.md)|

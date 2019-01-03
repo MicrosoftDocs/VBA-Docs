@@ -35,7 +35,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Clear](Office.TabStop2.Clear.md)|
 
@@ -43,7 +43,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TabStop2.Application.md)|
 |[Creator](Office.TabStop2.Creator.md)|

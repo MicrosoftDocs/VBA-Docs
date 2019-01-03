@@ -18,7 +18,7 @@ Represents a table in Project. The  **Table** object is a member of the **[Table
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.Table.Apply.md)|
 |[Delete](./Project.Table.Delete.md)|
@@ -27,7 +27,7 @@ Represents a table in Project. The  **Table** object is a member of the **[Table
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdjustHeaderRowHeight](./Project.Table.AdjustHeaderRowHeight.md)|
 |[Application](./Project.Table.Application.md)|

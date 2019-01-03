@@ -59,7 +59,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Unlink](Publisher.Field.Unlink.md)|
 
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.Field.Application.md)|
 |[Code](Publisher.Field.Code.md)|

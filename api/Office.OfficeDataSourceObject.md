@@ -72,7 +72,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ApplyFilter](Office.OfficeDataSourceObject.ApplyFilter.md)|
 |[Move](Office.OfficeDataSourceObject.Move.md)|
@@ -83,7 +83,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Columns](Office.OfficeDataSourceObject.Columns.md)|
 |[ConnectString](Office.OfficeDataSourceObject.ConnectString.md)|

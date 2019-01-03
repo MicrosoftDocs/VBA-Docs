@@ -48,7 +48,7 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerResult.Application.md)|
 |[Creator](Office.PickerResult.Creator.md)|

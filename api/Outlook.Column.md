@@ -27,7 +27,7 @@ To obtain the value of a property (column) for a specific item (row) in a  **Tab
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Column.Application.md)|
 |[Class](Outlook.Column.Class.md)|

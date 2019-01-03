@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.DocumentLibraryVersion.Application.md)|Gets an  **Application** object that represents the container application for the **DocumentLibraryVersion** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Comments](../../Office.DocumentLibraryVersion.Comments.md)|Gets any optional comments associated with the specified version of the shared document. Read-only.|

@@ -13,7 +13,7 @@ Represents the paragraph formatting of a text range.
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Alignment](../../Office.ParagraphFormat2.Alignment.md)|Gets or sets a value specifying the alignment of the paragraph. Read/write.|
 |[Application](../../Office.ParagraphFormat2.Application.md)|Gets an object that represents the application that contains the object. Read-only.|

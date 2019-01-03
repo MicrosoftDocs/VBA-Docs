@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.CustomXMLParts.Application.md)|Gets an  **Application** object that represents the container application for the **CustomXMLParts** object. Read-only.|
 |[Count](../../Office.CustomXMLParts.Count.md)|Gets a  **Long** indicating the number of items in the **CustomXMLParts** collection. Read-only.|

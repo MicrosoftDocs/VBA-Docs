@@ -34,7 +34,7 @@ If an appointment item was originally created with a time zone value that no lon
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Outlook.OlkTimeZoneControl.AfterUpdate.md)|
 |[BeforeUpdate](Outlook.OlkTimeZoneControl.BeforeUpdate.md)|
@@ -55,7 +55,7 @@ If an appointment item was originally created with a time zone value that no lon
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DropDown](Outlook.OlkTimeZoneControl.DropDown.md)|
 
@@ -63,7 +63,7 @@ If an appointment item was originally created with a time zone value that no lon
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AppointmentTimeField](Outlook.OlkTimeZoneControl.AppointmentTimeField.md)|
 |[BorderStyle](Outlook.OlkTimeZoneControl.BorderStyle.md)|

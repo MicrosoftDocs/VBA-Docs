@@ -95,7 +95,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Publisher.InlineShapes.Item.md)|
 
@@ -103,7 +103,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.InlineShapes.Application.md)|
 |[Count](Publisher.InlineShapes.Count.md)|

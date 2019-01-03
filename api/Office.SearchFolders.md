@@ -27,7 +27,7 @@ You can use the  **Add** method of the **SearchFolders** collection to add a **S
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.SearchFolders.Add.md)|
 |[Remove](Office.SearchFolders.Remove.md)|
@@ -36,7 +36,7 @@ You can use the  **Add** method of the **SearchFolders** collection to add a **S
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SearchFolders.Application.md)|
 |[Count](Office.SearchFolders.Count.md)|

@@ -120,7 +120,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ViewAdd](Outlook.Views.ViewAdd.md)|
 |[ViewRemove](Outlook.ViewRemove.md)|
@@ -129,7 +129,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Outlook.Views.Add.md)|
 |[Item](Outlook.Views.Item.md)|
@@ -139,7 +139,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.Views.Application.md)|
 |[Class](Outlook.Views.Class.md)|

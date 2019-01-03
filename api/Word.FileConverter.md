@@ -43,7 +43,7 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.FileConverter.Application.md)|
 |[CanOpen](Word.FileConverter.CanOpen.md)|

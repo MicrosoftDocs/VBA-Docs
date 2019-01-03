@@ -20,7 +20,7 @@ Represents an action to be executed in a Pivottable or sheet data.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Execute](Excel.Action.Execute.md)|
 
@@ -28,7 +28,7 @@ Represents an action to be executed in a Pivottable or sheet data.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Action.Application.md)|
 |[Caption](Excel.Action.Caption.md)|

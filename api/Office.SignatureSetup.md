@@ -36,7 +36,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AdditionalXml](Office.SignatureSetup.AdditionalXml.md)|
 |[AllowComments](Office.SignatureSetup.AllowComments.md)|

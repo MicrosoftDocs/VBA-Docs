@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.LanguageSettings.Application.md)|Gets an  **Application** object that represents the container application for the **LanguageSettings** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.LanguageSettings.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **LanguageSettings** object was created. Read-only.|

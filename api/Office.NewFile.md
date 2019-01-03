@@ -58,7 +58,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Office.NewFile.Add.md)|
 |[Remove](Office.NewFile.Remove.md)|
@@ -67,7 +67,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.NewFile.Application.md)|
 |[Creator](Office.NewFile.Creator.md)|

@@ -53,7 +53,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Item](Word.Characters.Item.md)|
 
@@ -61,7 +61,7 @@ End With
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Word.Characters.Application.md)|
 |[Count](Word.Characters.Count.md)|

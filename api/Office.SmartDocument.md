@@ -29,7 +29,7 @@ The  **SmartDocument** object model is available whether or not a document has a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[PickSolution](Office.SmartDocument.PickSolution.md)|
 |[RefreshPane](Office.SmartDocument.RefreshPane.md)|
@@ -38,7 +38,7 @@ The  **SmartDocument** object model is available whether or not a document has a
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.SmartDocument.Application.md)|
 |[Creator](Office.SmartDocument.Creator.md)|

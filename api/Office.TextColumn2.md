@@ -35,7 +35,7 @@ ActiveDocument.PageSetup.TextColumns2.Add _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.TextColumn2.Application.md)|
 |[Creator](Office.TextColumn2.Creator.md)|

@@ -42,7 +42,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Fix](Office.DocumentInspector.Fix.md)|
 |[Inspect](Office.DocumentInspector.Inspect.md)|
@@ -51,7 +51,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.DocumentInspector.Application.md)|
 |[Creator](Office.DocumentInspector.Creator.md)|

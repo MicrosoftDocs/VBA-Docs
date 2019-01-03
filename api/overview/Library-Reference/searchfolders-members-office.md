@@ -13,7 +13,7 @@ A collection of **ScopeFolder** objects that determines which folders are search
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.SearchFolders.Add.md)|Adds a search folder to a file search.|
 |[Remove](../../Office.SearchFolders.Remove.md)|Removes the specified object from the collection.|
@@ -21,7 +21,7 @@ A collection of **ScopeFolder** objects that determines which folders are search
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.SearchFolders.Application.md)|Gets an **Application** object that represents the container application for the **SearchFolders** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.SearchFolders.Count.md)|Gets a **Long** indicating the number of items in the **SearchFolders** collection. Read-only.|

@@ -20,7 +20,7 @@ Represents the field definitions of sub-items in a  **PickerResult** object. Eac
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Office.PickerField.Application.md)|
 |[Creator](Office.PickerField.Creator.md)|

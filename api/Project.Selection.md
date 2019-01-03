@@ -20,7 +20,7 @@ Use the  **ActiveSelection** property to return a **Selection** object. The foll
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Selection.Application.md)|
 |[FieldIDList](./Project.Selection.FieldIDList.md)|

@@ -64,7 +64,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Publisher.MailMergeFilters.Add.md)|
 |[Delete](Publisher.MailMergeFilters.Delete.md)|
@@ -74,7 +74,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.MailMergeFilters.Application.md)|
 |[Count](Publisher.MailMergeFilters.Count.md)|

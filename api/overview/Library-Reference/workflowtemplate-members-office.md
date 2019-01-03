@@ -14,14 +14,14 @@ Represents one of the workflows available for the current document.
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Show](../../Office.WorkflowTemplate.Show.md)|Displays a workflow specific configuration user interface for the specified **WorkflowTemplate** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.WorkflowTemplate.Application.md)|Gets an **Application** object that represents the container application for the **WorkflowTemplate** object. Read-only.|
 |[Creator](../../Office.WorkflowTemplate.Creator.md)|Gets a 32-bit integer that indicates the application in which the **WorkflowTemplate** object was created. Read-only.|

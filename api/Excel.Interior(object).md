@@ -65,7 +65,7 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.Interior.Application.md)|
 |[Color](Excel.Interior.Color.md)|

@@ -24,7 +24,7 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.engagementcomments.add.md)|
 
@@ -33,7 +33,7 @@ A collection of  **EngagementComments** objects. Introduced in Office 2016.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.engagementcomments.application.md)|
 |[Count](Project.engagementcomments.count.md)|

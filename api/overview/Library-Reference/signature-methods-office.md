@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Delete](../../Office.Signature.Delete.md)|Deletes the  **Signature** object from the collection.|
 |[ShowDetails](../../Office.Signature.ShowDetails.md)|Displays details related to a signature packet.|

@@ -64,7 +64,7 @@ End Sub
 
 ## Methods
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](./Outlook.Categories.Add.md)|
 |[Item](./Outlook.Categories.Item.md)|
@@ -72,7 +72,7 @@ End Sub
 
 ## Properties
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Outlook.Categories.Application.md)|
 |[Class](./Outlook.Categories.Class.md)|

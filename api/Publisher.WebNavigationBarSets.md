@@ -102,7 +102,7 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddSet](Publisher.WebNavigationBarSets.AddSet.md)|
 |[Item](Publisher.WebNavigationBarSets.Item.md)|
@@ -111,7 +111,7 @@ ActiveDocument.WebNavigationBarSets.Item _
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Publisher.WebNavigationBarSets.Application.md)|
 |[Count](Publisher.WebNavigationBarSets.Count.md)|

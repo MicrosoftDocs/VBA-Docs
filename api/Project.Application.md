@@ -95,7 +95,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterCubeBuilt](./Project.Application.AfterCubeBuilt.md)|
 |[ApplicationBeforeClose](./Project.Application.ApplicationBeforeClose.md)|
@@ -157,7 +157,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[About](./Project.Application.About.md)|
 |[ActivateMicrosoftApp](./Project.Application.ActivateMicrosoftApp.md)|
@@ -783,7 +783,7 @@ Many of the properties and methods that return the most common user-interface ob
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveCell](./Project.Application.ActiveCell.md)|
 |[ActiveProject](./Project.Application.ActiveProject.md)|

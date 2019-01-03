@@ -22,7 +22,7 @@ Use the  **[Subprojects](./Project.Project.Subprojects.md)** property to return 
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.Subproject.Application.md)|
 |[Index](./Project.Subproject.Index.md)|

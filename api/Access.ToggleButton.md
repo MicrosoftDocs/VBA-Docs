@@ -35,7 +35,7 @@ You can also use a toggle button in a custom dialog box to accept user input.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AfterUpdate](Access.ToggleButton.AfterUpdate(even).md)|
 |[BeforeUpdate](Access.ToggleButton.BeforeUpdate(even).md)|
@@ -56,7 +56,7 @@ You can also use a toggle button in a custom dialog box to accept user input.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Move](Access.ToggleButton.Move.md)|
 |[Requery](Access.ToggleButton.Requery.md)|
@@ -68,7 +68,7 @@ You can also use a toggle button in a custom dialog box to accept user input.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddColon](Access.ToggleButton.AddColon.md)|
 |[AfterUpdate](Access.ToggleButton.AfterUpdate(property).md)|

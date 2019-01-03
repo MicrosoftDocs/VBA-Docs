@@ -177,7 +177,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AddToCatalogMergeArea](./Publisher.Shape.AddToCatalogMergeArea.md)|
 |[Apply](./Publisher.Shape.Apply.md)|
@@ -214,7 +214,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Adjustments](./Publisher.Shape.Adjustments.md)|
 |[AlternativeText](./Publisher.Shape.AlternativeText.md)|

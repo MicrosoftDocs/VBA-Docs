@@ -55,7 +55,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[BuildingBlockInsert](./Word.Document.BuildingBlockInsert.md)|
 |[Close](./Word.Document.Close(even).md)|
@@ -75,7 +75,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[AcceptAllRevisions](./Word.Document.AcceptAllRevisions.md)|
 |[AcceptAllRevisionsShown](./Word.Document.AcceptAllRevisionsShown.md)|
@@ -177,7 +177,7 @@ ActiveDocument.PrintOut
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[ActiveTheme](./Word.Document.ActiveTheme.md)|
 |[ActiveThemeDisplayName](./Word.Document.ActiveThemeDisplayName.md)|

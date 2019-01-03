@@ -23,7 +23,7 @@ The  **ModelTable** object will be read only (cannot be created or edited progra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Refresh](Excel.modeltable.refresh.md)|
 
@@ -31,7 +31,7 @@ The  **ModelTable** object will be read only (cannot be created or edited progra
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Excel.modeltable.application.md)|
 |[Creator](Excel.modeltable.creator.md)|

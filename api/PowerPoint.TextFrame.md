@@ -69,7 +69,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[DeleteText](./PowerPoint.TextFrame.DeleteText.md)|
 
@@ -77,7 +77,7 @@ Next
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./PowerPoint.TextFrame.Application.md)|
 |[AutoSize](./PowerPoint.TextFrame.AutoSize.md)|

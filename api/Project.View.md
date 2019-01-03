@@ -25,7 +25,7 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Apply](./Project.View.Apply.md)|
 |[Delete](./Project.View.Delete.md)|
@@ -34,7 +34,7 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](./Project.View.Application.md)|
 |[Index](./Project.View.Index.md)|

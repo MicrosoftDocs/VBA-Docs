@@ -96,7 +96,7 @@ End Sub
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Outlook.ViewFont.Application.md)|
 |[Bold](Outlook.ViewFont.Bold.md)|

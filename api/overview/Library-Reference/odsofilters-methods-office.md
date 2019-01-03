@@ -12,7 +12,7 @@ ms.date: 06/08/2017
 
 
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Add](../../Office.ODSOFilters.Add.md)|Adds a new filter to the  **ODSOFilters** collection.|
 |[Delete](../../Office.ODSOFilters.Delete.md)|Deletes a filter object from the  **ODSOFilters** collection.|

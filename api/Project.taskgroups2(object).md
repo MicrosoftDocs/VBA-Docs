@@ -53,7 +53,7 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Add](Project.TaskGroups2.Add.md)|
 |[Copy](Project.TaskGroups2.Copy.md)|
@@ -62,7 +62,7 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
 
 
-|**Name**|
+|Name|
 |:-----|
 |[Application](Project.TaskGroups2.Application.md)|
 |[Count](Project.TaskGroups2.Count.md)|

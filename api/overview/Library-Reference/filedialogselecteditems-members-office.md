@@ -13,14 +13,14 @@ A collection of **String** values that correspond to the paths of the files or f
 
 ## Methods
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Item](../../Office.FileDialogSelectedItems.Item.md)|Gets a **String** that corresponds to the path of one of the files that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.|
 
 
 ## Properties
 
-|**Name**|**Description**|
+|Name|Description|
 |:-----|:-----|
 |[Application](../../Office.FileDialogSelectedItems.Application.md)|Gets an **Application** object that represents the container application for the **FileDialogSelectedItems** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Count](../../Office.FileDialogSelectedItems.Count.md)|Gets a **Long** indicating the number of items in the **FileDialogSelectedItem** s collection. Read-only.|
