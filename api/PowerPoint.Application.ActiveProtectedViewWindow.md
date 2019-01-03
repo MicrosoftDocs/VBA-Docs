@@ -20,7 +20,7 @@ Returns a  **[ProtectedViewWindow](PowerPoint.ProtectedViewWindow.md)** object t
 
  _expression_. `ActiveProtectedViewWindow`
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Remarks

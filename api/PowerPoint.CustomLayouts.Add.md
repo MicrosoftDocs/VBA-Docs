@@ -20,7 +20,7 @@ Returns a  **CustomLayout** object that represents a new custom layout.
 
  _expression_. `Add`( `_Index_` )
 
- _expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
+_expression_ A variable that represents a [CustomLayouts](./PowerPoint.CustomLayouts.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
  _expression_. `Shadow`
 
- _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 
 
 ## See also

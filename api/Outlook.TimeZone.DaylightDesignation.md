@@ -20,7 +20,7 @@ Returns a  **String** that identifies the time zone in daylight time. Read-only.
 
  _expression_. `DaylightDesignation`
 
- _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 
 
 ## Remarks

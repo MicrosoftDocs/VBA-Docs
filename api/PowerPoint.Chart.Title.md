@@ -20,7 +20,7 @@ Gets or sets a  **String** that represents the title of the chart. Read/write.
 
  _expression_. `Title`
 
- _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ## See also

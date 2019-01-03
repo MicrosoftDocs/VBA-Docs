@@ -20,7 +20,7 @@ Creates a new view in the  **[Views](Outlook.Views.md)** collection.
 
  _expression_. `Add`( `_Name_` , `_ViewType_` , `_SaveOption_` )
 
- _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 
 ## Parameters

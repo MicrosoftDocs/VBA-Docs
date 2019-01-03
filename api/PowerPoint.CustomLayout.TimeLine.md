@@ -20,7 +20,7 @@ Returns a  **[TimeLine](PowerPoint.TimeLine.md)** object that represents the ani
 
  _expression_. `TimeLine`
 
- _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
+_expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 
 
 ## Return value

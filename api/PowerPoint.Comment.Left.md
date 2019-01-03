@@ -20,7 +20,7 @@ Returns a  **Single** that represents the distance in points from the left edge 
 
  _expression_. `Left`
 
- _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
 ## See also

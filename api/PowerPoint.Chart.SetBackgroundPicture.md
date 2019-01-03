@@ -20,7 +20,7 @@ Sets the background graphic for a chart.
 
  _expression_. `SetBackgroundPicture`( `_FileName_` )
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
 ## Parameters

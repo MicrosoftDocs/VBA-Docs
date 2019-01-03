@@ -20,7 +20,7 @@ Returns or sets the alternative text associated with a shape in a Web presentati
 
  _expression_. `AlternativeText`
 
- _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
+_expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 
 ## Return value

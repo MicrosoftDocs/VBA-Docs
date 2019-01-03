@@ -20,7 +20,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant that represen
 
  _expression_. `Class`
 
- _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 
 
 ## See also

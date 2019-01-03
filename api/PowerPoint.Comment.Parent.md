@@ -20,7 +20,7 @@ Returns the parent object for the specified object.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
 ## Return value

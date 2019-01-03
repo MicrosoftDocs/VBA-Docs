@@ -20,7 +20,7 @@ Returns a  **LanguageSettings** object that contains information about the langu
 
  _expression_. `LanguageSettings`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## See also

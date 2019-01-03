@@ -20,7 +20,7 @@ Scrolls the document window so that items within a specified rectangular area ar
 
  _expression_. `ScrollIntoView`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_Start_` )
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Parameters

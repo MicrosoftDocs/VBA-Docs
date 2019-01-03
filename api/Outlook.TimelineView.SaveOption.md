@@ -20,7 +20,7 @@ Returns an  **[OlViewSaveOption](Outlook.OlViewSaveOption.md)** constant that sp
 
  _expression_. `SaveOption`
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## Remarks

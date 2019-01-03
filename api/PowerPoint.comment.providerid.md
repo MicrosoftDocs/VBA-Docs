@@ -18,7 +18,7 @@ Returns a  **String** that represents ID of the service providing contact inform
 
  _expression_. `ProviderID`
 
- _expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
+_expression_ A variable that represents a [Comment](./PowerPoint.Comment.md) object.
 
 
 ## Property value

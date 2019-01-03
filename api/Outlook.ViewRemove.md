@@ -20,7 +20,7 @@ Occurs when a view has been removed from the specified collection.
 
  _expression_. `ViewRemove`( `_View_` )
 
- _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
+_expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 
 ## Parameters

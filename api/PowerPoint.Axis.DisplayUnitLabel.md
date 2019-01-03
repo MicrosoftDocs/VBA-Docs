@@ -20,7 +20,7 @@ Returns the  **[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)** object for t
 
  _expression_. `DisplayUnitLabel`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example

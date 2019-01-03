@@ -20,7 +20,7 @@ Returns a  **String** that represents the path to the specified **[AddIn](PowerP
 
  _expression_. `Path`
 
- _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
+_expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 
 
 ## Return value

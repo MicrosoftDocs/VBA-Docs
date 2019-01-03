@@ -15,7 +15,7 @@ Returns an [Adjustments](PowerPoint.Adjustments.md) object that contains a colle
 
  _expression_. `Adjustments`
 
- _expression_ A variable that represents a [ChartFormat](./PowerPoint.ChartFormat.md) object.
+_expression_ A variable that represents a [ChartFormat](./PowerPoint.ChartFormat.md) object.
 
 
 ## Property value

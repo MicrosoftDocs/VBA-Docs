@@ -20,7 +20,7 @@ Returns a  **[TimeZone](Outlook.TimeZone.md)** object from the collection.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
+_expression_ A variable that represents a [TimeZones](./Outlook.TimeZones.md) object.
 
 
 ## Parameters

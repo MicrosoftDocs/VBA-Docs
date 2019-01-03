@@ -20,7 +20,7 @@ Deletes an object from the collection.
 
  _expression_. `Delete`
 
- _expression_ A variable that represents an [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents an [UserProperty](./Outlook.UserProperty.md) object.
 
 
 ## See also

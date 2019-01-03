@@ -20,7 +20,7 @@ Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 
  _expression_. `ReadingOrder`
 
- _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
+_expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 
 
 ## See also

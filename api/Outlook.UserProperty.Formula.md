@@ -20,7 +20,7 @@ Returns or sets a  **String** representing the formula for the user property. Re
 
  _expression_. `Formula`
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
 
 
 ## Example

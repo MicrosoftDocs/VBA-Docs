@@ -18,7 +18,7 @@ Returns an [MSOBroadcastState](./overview/Library-Reference/msobroadcaststate-en
 
  _expression_. `State`
 
- _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
+_expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 
 
 ## Remarks

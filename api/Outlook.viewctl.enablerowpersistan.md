@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** value that indicates whether the View Control ret
 
  _expression_. **EnableRowPersistance**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `HasDisplayUnitLabel`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Example

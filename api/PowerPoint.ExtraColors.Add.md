@@ -20,7 +20,7 @@ Adds a color to the extra colors available to a presentation, if the color hasn'
 
  _expression_. `Add`( `_Type_` )
 
- _expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
+_expression_ A variable that represents an [ExtraColors](./PowerPoint.ExtraColors.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Returns or sets a  **Single** that represents the distance in points from the to
 
  _expression_. `Top`
 
- _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
+_expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Determines whether there is a separate Windows taskbar button for each open pres
 
  _expression_. `ShowWindowsInTaskbar`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value

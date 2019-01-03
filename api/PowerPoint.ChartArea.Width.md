@@ -17,7 +17,7 @@ Returns or sets the width, in points, of the object. Read/write  **Double**.
 
  _expression_. `Width`
 
- _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 
 
 ## See also

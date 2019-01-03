@@ -18,7 +18,7 @@ Returns or sets a  **Boolean** that defines the effect of pressing **ENTER** in 
 
  _expression_. **EnterKeyBehavior**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

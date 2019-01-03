@@ -20,7 +20,7 @@ Returns a specified slide animation behavior as an  **[AnimationBehaviors](Power
 
  _expression_. `Behaviors`
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value

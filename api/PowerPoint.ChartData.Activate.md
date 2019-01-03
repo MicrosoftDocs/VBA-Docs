@@ -20,7 +20,7 @@ Activates the first window of the workbook associated with the chart.
 
  _expression_. `Activate`
 
- _expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
+_expression_ A variable that represents a '[ChartData](PowerPoint.ChartData.md)' object.
 
 
 ## Remarks

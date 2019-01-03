@@ -17,7 +17,7 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 
  _expression_. `Top`
 
- _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
+_expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 
 
 ## See also
