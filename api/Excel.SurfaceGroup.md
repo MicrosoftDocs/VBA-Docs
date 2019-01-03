@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a ChartGroup object that represents the surface chart group of a 3-D chart. Read-only ChartGroup object.
 
- _expression_. `SurfaceGroup`
+_expression_. `SurfaceGroup`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

@@ -18,7 +18,7 @@ Occurs when the selection changes on any worksheet (doesn't occur if the selecti
 
 ## Syntax
 
- _expression_. `SheetSelectionChange`( `_Sh_` , `_Target_` )
+_expression_. `SheetSelectionChange`( `_Sh_` , `_Target_` )
 
  _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 

@@ -18,9 +18,9 @@ Returns  **True** when the Microsoft Excel application is ready; **False** when 
 
 ## Syntax
 
- _expression_. `Ready`
+_expression_. `Ready`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

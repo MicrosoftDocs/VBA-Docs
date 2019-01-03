@@ -21,7 +21,7 @@ Returns or sets the end style for the error bars. Read/write  **xlEndStyleCap**.
 | **xlCap**|
 | **xlNoCap**|
 
- _expression_.  `EndStyle`
+_expression_.  `EndStyle`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

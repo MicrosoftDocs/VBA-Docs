@@ -18,7 +18,7 @@ Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the
 
 ## Syntax
 
- _expression_. `GetNavigationModule`( `_ModuleType_` )
+_expression_. `GetNavigationModule`( `_ModuleType_` )
 
  _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
 

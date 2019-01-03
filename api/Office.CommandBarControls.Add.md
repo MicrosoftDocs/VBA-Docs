@@ -16,12 +16,12 @@ ms.date: 06/08/2017
 Creates a new  **CommandBarControl** object and adds it to the collection of controls on the specified command bar.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Add`( `_Type_`, `_Id_`, `_Parameter_`, `_Before_`, `_Temporary_` )
+_expression_. `Add`( `_Type_`, `_Id_`, `_Parameter_`, `_Before_`, `_Temporary_` )
 
  _expression_ Required. A variable that represents a '[CommandBarControls](Office.CommandBarControls.md)' object.
 

@@ -18,9 +18,9 @@ Returns a  **[ThreeDFormat](Excel.ThreeDFormat.md)** object that contains 3-D-ef
 
 ## Syntax
 
- _expression_. `ThreeD`
+_expression_. `ThreeD`
 
- _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
+_expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
 
 
 ## See also

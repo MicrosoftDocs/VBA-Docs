@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the billing information associated wi
 
 ## Syntax
 
- _expression_. `BillingInformation`
+_expression_. `BillingInformation`
 
- _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## Remarks

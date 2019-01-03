@@ -17,7 +17,7 @@ Returns the down bars on a line chart. Read-only  **[DownBars](PowerPoint.DownBa
 
  _expression_. `DownBars`
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns an index value that is used internally to associate series formatting wi
 
 ## Syntax
 
- _expression_. `PlotColorIndex`
+_expression_. `PlotColorIndex`
 
- _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
+_expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ## Return value

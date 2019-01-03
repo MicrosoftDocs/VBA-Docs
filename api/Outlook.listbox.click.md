@@ -13,9 +13,9 @@ Occurs when the user definitively selects a value for the control that has more 
 
 ## Syntax
 
- _expression_. **Click**
+_expression_. **Click**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

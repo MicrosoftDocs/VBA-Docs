@@ -18,9 +18,9 @@ Returns the path separator character ("\\"). Read-only  **String**.
 
 ## Syntax
 
- _expression_. `PathSeparator`
+_expression_. `PathSeparator`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

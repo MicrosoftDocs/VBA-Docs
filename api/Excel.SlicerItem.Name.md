@@ -18,9 +18,9 @@ Returns the name of the slicer item. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
+_expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the name of the template for the form. 
 
 ## Syntax
 
- _expression_. `Template`
+_expression_. `Template`
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## Remarks

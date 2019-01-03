@@ -15,7 +15,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeFontSc
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
  _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 

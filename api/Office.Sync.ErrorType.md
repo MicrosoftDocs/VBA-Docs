@@ -21,9 +21,9 @@ Gets a  **MsoSyncErrorType** constant which indicates the type of the most recen
 
 ## Syntax
 
- _expression_. `ErrorType`
+_expression_. `ErrorType`
 
- _expression_ A variable that returns a '[Sync](Office.Sync.md)' object.
+_expression_ A variable that returns a '[Sync](Office.Sync.md)' object.
 
 
 ## Return value

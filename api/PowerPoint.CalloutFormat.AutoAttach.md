@@ -20,7 +20,7 @@ Determines whether the place where the callout line attaches to the callout text
 
  _expression_. `AutoAttach`
 
- _expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
+_expression_ A variable that represents an [CalloutFormat](./PowerPoint.CalloutFormat.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns a  **String** value that represents the display name for the object. Rea
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## See also

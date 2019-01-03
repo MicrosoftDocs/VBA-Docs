@@ -18,9 +18,9 @@ Returns a  **[MsoFillType](Office.MsoFillType.md)** value that represents the fi
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## Remarks

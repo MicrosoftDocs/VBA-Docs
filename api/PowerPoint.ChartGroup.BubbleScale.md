@@ -20,7 +20,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Read/
 
  _expression_. `BubbleScale`
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Remarks

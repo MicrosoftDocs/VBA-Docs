@@ -13,9 +13,9 @@ Copies the contents of an object to the Clipboard.
 
 ## Syntax
 
- _expression_. **Copy**
+_expression_. **Copy**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

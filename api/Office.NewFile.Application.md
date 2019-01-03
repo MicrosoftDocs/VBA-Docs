@@ -15,9 +15,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents a [NewFile](Office.NewFile.md) object.
+_expression_ A variable that represents a [NewFile](Office.NewFile.md) object.
 
 
 ## Return value

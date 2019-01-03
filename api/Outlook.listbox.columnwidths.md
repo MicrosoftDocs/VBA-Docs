@@ -13,9 +13,9 @@ Returns or sets a  **String** that specifies the width of each column in a multi
 
 ## Syntax
 
- _expression_. **ColumnWidths**
+_expression_. **ColumnWidths**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

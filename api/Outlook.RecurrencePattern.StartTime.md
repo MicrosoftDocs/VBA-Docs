@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the start time for a recurrence pattern. 
 
 ## Syntax
 
- _expression_. `StartTime`
+_expression_. `StartTime`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

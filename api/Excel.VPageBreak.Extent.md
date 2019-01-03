@@ -18,9 +18,9 @@ Returns the type of the specified page break: full-screen or only within a print
 
 ## Syntax
 
- _expression_. `Extent`
+_expression_. `Extent`
 
- _expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
+_expression_ A variable that represents a [VPageBreak](./Excel.VPageBreak.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Refreshes the cache by obtaining the current definition from the Windows registr
 
 ## Syntax
 
- _expression_. `RefreshFormRegionDefinition`( `_RegionName_` )
+_expression_. `RefreshFormRegionDefinition`( `_RegionName_` )
 
- _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
 ## Parameters

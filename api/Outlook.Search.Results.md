@@ -18,9 +18,9 @@ Returns a  **[Results](Outlook.Results.md)** collection that specifies the resul
 
 ## Syntax
 
- _expression_. `Results`
+_expression_. `Results`
 
- _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
+_expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 
 ## Example

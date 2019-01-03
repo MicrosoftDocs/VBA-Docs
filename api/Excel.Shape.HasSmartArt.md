@@ -18,9 +18,9 @@ Returns whether there is a SmartArt diagram present on the specified shape. Read
 
 ## Syntax
 
- _expression_. `HasSmartArt`
+_expression_. `HasSmartArt`
 
- _expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
+_expression_ A variable that represents a '[Shape](Excel.Shape.md)' object.
 
 
 ## Return value

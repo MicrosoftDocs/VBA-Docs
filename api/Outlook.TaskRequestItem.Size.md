@@ -20,7 +20,7 @@ Returns a  **Long** indicating the size (in bytes) of the Outlook item. Read-onl
 
  _expression_. `Size`
 
- _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
+_expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskRequestItem.md) object.
 
 
 ## See also

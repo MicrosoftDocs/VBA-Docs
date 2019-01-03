@@ -21,9 +21,9 @@ Gets the date and time when the shared workspace object was created. Read-only.
 
 ## Syntax
 
- _expression_. `CreatedDate`
+_expression_. `CreatedDate`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

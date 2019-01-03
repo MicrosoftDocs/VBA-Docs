@@ -18,9 +18,9 @@ Returns or sets a  **Single** value that represents the width, in points, of the
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
- _expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
+_expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
 
 
 ## See also

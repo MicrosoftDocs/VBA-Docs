@@ -16,9 +16,9 @@ Returns the end of the filtering date range (equals to [TimelineState.StartDate 
 
 ## Syntax
 
- _expression_. `EndDate`
+_expression_. `EndDate`
 
- _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Remarks

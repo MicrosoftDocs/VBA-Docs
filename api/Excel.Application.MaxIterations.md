@@ -18,9 +18,9 @@ Returns or sets the maximum number of iterations that Microsoft Excel can use to
 
 ## Syntax
 
- _expression_. `MaxIterations`
+_expression_. `MaxIterations`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Performs a Microsoft Instant Search on the current folder displayed in the Explo
 
 ## Syntax
 
- _expression_. `Search`( `_Query_` , `_SearchScope_` )
+_expression_. `Search`( `_Query_` , `_SearchScope_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Parameters

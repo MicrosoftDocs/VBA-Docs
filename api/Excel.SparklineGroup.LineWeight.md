@@ -18,9 +18,9 @@ Gets or sets the thickness of the sparklines in the sparkline group. Read/write.
 
 ## Syntax
 
- _expression_. `LineWeight`
+_expression_. `LineWeight`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Clears all XPath schema information for the mapped range.
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
- _expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
+_expression_ A variable that represents a [XPath](./Excel.XPath.md) object.
 
 
 ## Remarks

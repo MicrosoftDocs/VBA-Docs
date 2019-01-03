@@ -18,9 +18,9 @@ Returns the  **[Pages](Outlook.Pages.md)** collection that represents all the pa
 
 ## Syntax
 
- _expression_. `ModifiedFormPages`
+_expression_. `ModifiedFormPages`
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## Remarks

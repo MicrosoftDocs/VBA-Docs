@@ -18,9 +18,9 @@ Returns an  **[AssignToCategoryRuleAction](Outlook.AssignToCategoryRuleAction.md
 
 ## Syntax
 
- _expression_. `AssignToCategory`
+_expression_. `AssignToCategory`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

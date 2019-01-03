@@ -18,9 +18,9 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
 ## Syntax
 
- _expression_. `ForeColor`
+_expression_. `ForeColor`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## See also

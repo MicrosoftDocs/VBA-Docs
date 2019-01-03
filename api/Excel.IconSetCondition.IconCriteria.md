@@ -18,9 +18,9 @@ Returns an  **[IconCriteria](Excel.IconCriteria.md)** collection, which represen
 
 ## Syntax
 
- _expression_. `IconCriteria`
+_expression_. `IconCriteria`
 
- _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
+_expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks

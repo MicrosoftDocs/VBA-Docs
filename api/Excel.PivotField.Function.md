@@ -18,9 +18,9 @@ Returns or sets the function used to summarize the PivotTable field (data fields
 
 ## Syntax
 
- _expression_. `Function`
+_expression_. `Function`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

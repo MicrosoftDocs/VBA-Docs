@@ -18,9 +18,9 @@ Moves a Microsoft Outlook item to a new folder.
 
 ## Syntax
 
- _expression_. `Move`( `_DestFldr_` )
+_expression_. `Move`( `_DestFldr_` )
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## Parameters

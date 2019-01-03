@@ -18,9 +18,9 @@ Exports a  **ListObject** object to Visio.
 
 ## Syntax
 
- _expression_. `ExportToVisio`
+_expression_. `ExportToVisio`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also

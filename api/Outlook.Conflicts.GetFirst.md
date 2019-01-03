@@ -18,9 +18,9 @@ Returns the first object in the  **[Conflicts](Outlook.Conflicts.md)** collectio
 
 ## Syntax
 
- _expression_. `GetFirst`
+_expression_. `GetFirst`
 
- _expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
+_expression_ A variable that represents a [Conflicts](./Outlook.Conflicts.md) object.
 
 
 ## Return value

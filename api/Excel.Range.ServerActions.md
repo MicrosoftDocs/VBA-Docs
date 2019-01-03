@@ -18,9 +18,9 @@ Specifies the actions that can be performed on the SharePoint server for a  **Ra
 
 ## Syntax
 
- _expression_. `ServerActions`
+_expression_. `ServerActions`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## See also

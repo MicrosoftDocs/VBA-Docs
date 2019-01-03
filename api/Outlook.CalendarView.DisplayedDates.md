@@ -18,9 +18,9 @@ Returns a  **Variant** array containing strings that represent the days displaye
 
 ## Syntax
 
- _expression_. `DisplayedDates`
+_expression_. `DisplayedDates`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
 ## Remarks

@@ -16,9 +16,9 @@ Enables you to take the contents and formatting of a single data label and apply
 
 ## Syntax
 
- _expression_. `Propagate`_(Index)_
+_expression_. `Propagate`_(Index)_
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Parameters

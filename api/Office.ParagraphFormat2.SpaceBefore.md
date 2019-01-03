@@ -15,7 +15,7 @@ Gets or sets the spacing (in points) before the specified paragraphs. Read/write
 
 ## Syntax
 
- _expression_. `SpaceBefore`
+_expression_. `SpaceBefore`
 
  _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 

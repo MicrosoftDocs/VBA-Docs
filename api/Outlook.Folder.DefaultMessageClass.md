@@ -18,9 +18,9 @@ Returns a  **String** representing the default message class for items in the fo
 
 ## Syntax
 
- _expression_. `DefaultMessageClass`
+_expression_. `DefaultMessageClass`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## See also

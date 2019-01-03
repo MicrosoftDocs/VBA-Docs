@@ -18,9 +18,9 @@ Returns the  **[NegativeBarFormat](Excel.NegativeBarFormat.md)** object associat
 
 ## Syntax
 
- _expression_. `NegativeBarFormat`
+_expression_. `NegativeBarFormat`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Return value

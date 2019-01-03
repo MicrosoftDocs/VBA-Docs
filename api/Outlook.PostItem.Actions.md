@@ -18,9 +18,9 @@ Returns an  **[Actions](Outlook.Actions.md)** collection that represents all the
 
 ## Syntax
 
- _expression_. `Actions`
+_expression_. `Actions`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

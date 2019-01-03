@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. `HrUninitConverter`( `_pcuic_` )
+_expression_. `HrUninitConverter`( `_pcuic_` )
 
  _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
 

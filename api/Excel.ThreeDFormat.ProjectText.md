@@ -15,9 +15,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `ProjectText`
+_expression_. `ProjectText`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

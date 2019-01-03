@@ -18,7 +18,7 @@ Gets a node in a  **CustomXMLValidationError** object, if any exist. If no nodes
 
 ## Syntax
 
- _expression_. `Node`
+_expression_. `Node`
 
  _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 

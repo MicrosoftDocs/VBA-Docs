@@ -18,9 +18,9 @@ Occurs when the chart, worksheet, or workbook is deactivated.
 
 ## Syntax
 
- _expression_. `Deactivate`
+_expression_. `Deactivate`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Return value

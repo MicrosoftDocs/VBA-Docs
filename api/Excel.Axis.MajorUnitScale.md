@@ -18,9 +18,9 @@ Returns or sets the major unit scale value for the category axis when the  **Cat
 
 ## Syntax
 
- _expression_. `MajorUnitScale`
+_expression_. `MajorUnitScale`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

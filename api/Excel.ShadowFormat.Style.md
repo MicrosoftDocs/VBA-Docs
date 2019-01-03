@@ -18,9 +18,9 @@ Returns or sets the style of the specified shadow. Read/write  **[MsoShadowStyle
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
+_expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md) object.
 
 
 ## Remarks

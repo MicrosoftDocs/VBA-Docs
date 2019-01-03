@@ -18,9 +18,9 @@ Returns the  **[UserProperties](Outlook.UserProperties.md)** collection that rep
 
 ## Syntax
 
- _expression_. `UserProperties`
+_expression_. `UserProperties`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Example

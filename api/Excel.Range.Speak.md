@@ -18,9 +18,9 @@ Causes the cells of the range to be spoken in row order or column order.
 
 ## Syntax
 
- _expression_. `Speak`( `_SpeakDirection_` , `_SpeakFormulas_` )
+_expression_. `Speak`( `_SpeakDirection_` , `_SpeakFormulas_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

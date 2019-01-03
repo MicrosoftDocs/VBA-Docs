@@ -16,9 +16,9 @@ Specifies if column sorting, filtering, and layout information is preserved when
 
 ## Syntax
 
- _expression_. `PreserveColumnInfo`
+_expression_. `PreserveColumnInfo`
 
- _expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
+_expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
 
 
 ## Property value

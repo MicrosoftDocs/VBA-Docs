@@ -18,9 +18,9 @@ Gets or sets the file or Web site URL to visit or the email address to contact f
 
 ## Syntax
 
- _expression_. `RequestPermissionURL`
+_expression_. `RequestPermissionURL`
 
- _expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

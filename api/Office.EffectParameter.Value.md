@@ -15,7 +15,7 @@ Retrieves or sets the value of the  **EffectParameter** object. Read/write
 
 ## Syntax
 
- _expression_. `Value`
+_expression_. `Value`
 
  _expression_ An expression that returns a [EffectParameter](Office.EffectParameter.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the HTML body of the specified item. 
 
 ## Syntax
 
- _expression_. `HTMLBody`
+_expression_. `HTMLBody`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns one of the constants of the  **[xlIconSet](Excel.XlIconSet.md)** enumera
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
- _expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
+_expression_ A variable that represents an [IconSet](Excel.IconSet.md) object.
 
 
 ## See also

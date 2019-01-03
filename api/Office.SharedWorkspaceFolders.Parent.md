@@ -21,9 +21,9 @@ Gets the  **Parent** object for the **SharedWorkspaceFolders** object. Read-only
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
+_expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

@@ -16,9 +16,9 @@ Returns or sets the number of minutes between refreshes.  **Long** Read/Write
 
 ## Syntax
 
- _expression_. `RefreshPeriod`
+_expression_. `RefreshPeriod`
 
- _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Property value

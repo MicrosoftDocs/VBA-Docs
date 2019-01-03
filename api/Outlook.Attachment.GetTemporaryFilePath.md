@@ -18,9 +18,9 @@ Returns the full path to the attached file that is in a temporary files folder. 
 
 ## Syntax
 
- _expression_. `GetTemporaryFilePath`
+_expression_. `GetTemporaryFilePath`
 
- _expression_ A variable that represents an '[Attachment](Outlook.Attachment.md)' object.
+_expression_ A variable that represents an '[Attachment](Outlook.Attachment.md)' object.
 
 
 ## Return value

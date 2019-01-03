@@ -18,9 +18,9 @@ Sets the editing type of the node specified by  _Index_. If the node is a contro
 
 ## Syntax
 
- _expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
+_expression_. `SetEditingType`( `_Index_` , `_EditingType_` )
 
- _expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
+_expression_ A variable that represents a [ShapeNodes](./Excel.ShapeNodes.md) object.
 
 
 ## Parameters

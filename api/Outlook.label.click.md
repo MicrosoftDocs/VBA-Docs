@@ -13,9 +13,9 @@ Occurs when the user clicks inside the control.
 
 ## Syntax
 
- _expression_. **Click**
+_expression_. **Click**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks

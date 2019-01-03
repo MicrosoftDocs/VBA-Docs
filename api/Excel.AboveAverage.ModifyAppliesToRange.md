@@ -18,9 +18,9 @@ Sets the cell range to which this formatting rule applies.
 
 ## Syntax
 
- _expression_. `ModifyAppliesToRange`( `_Range_` )
+_expression_. `ModifyAppliesToRange`( `_Range_` )
 
- _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## Parameters

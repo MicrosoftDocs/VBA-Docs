@@ -18,9 +18,9 @@ Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
 ## Syntax
 
- _expression_. `Activate`
+_expression_. `Activate`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Return value

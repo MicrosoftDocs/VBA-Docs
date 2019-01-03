@@ -18,9 +18,9 @@ Returns or sets a  **[MsoLineStyle](Office.MsoLineStyle.md)** value that represe
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also

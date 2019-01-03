@@ -18,7 +18,7 @@ Opens the specified theme file (*thmx).
 
  _expression_. `OpenThemeFile`_(themeFileName)_
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters

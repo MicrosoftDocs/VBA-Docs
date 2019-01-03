@@ -16,9 +16,9 @@ Get or set the displayed level. [xlTimelineLevel enumeration (Excel)](Excel.xlti
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
- _expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
+_expression_ A variable that represents a [TimelineViewState](Excel.timelineviewstate.md) object.
 
 
 ## Property value

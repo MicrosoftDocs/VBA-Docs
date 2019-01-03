@@ -18,9 +18,9 @@ Aligns the shapes in the specified range of shapes.
 
 ## Syntax
 
- _expression_. `Align`( `_AlignCmd_` , `_RelativeTo_` )
+_expression_. `Align`( `_AlignCmd_` , `_RelativeTo_` )
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Parameters

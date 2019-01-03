@@ -15,7 +15,7 @@ Performs a search from the Office Help Viewer based on one or more keywords. Key
 
 ## Syntax
 
- _expression_. `SearchHelp`( `_Query_`, `_Scope_` )
+_expression_. `SearchHelp`( `_Query_`, `_Scope_` )
 
  _expression_ An expression that returns a [IAssistance](Office.IAssistance.md) object.
 

@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `ColumnName`
+_expression_. `ColumnName`
 
- _expression_ A variable that represents a [ModelColumnName](Excel.modelcolumnname.md) object.
+_expression_ A variable that represents a [ModelColumnName](Excel.modelcolumnname.md) object.
 
 
 ## Property value

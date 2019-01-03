@@ -21,7 +21,7 @@ Returns or sets the marker foreground color as an index into the current color p
 | **xlColorIndexNone**|
 | **xlColorIndexAutomatic**|
 
- _expression_. `MarkerForegroundColorIndex`
+_expression_. `MarkerForegroundColorIndex`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

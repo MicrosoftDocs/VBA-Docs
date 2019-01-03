@@ -18,9 +18,9 @@ Returns a  **String** value that represents the full version number of the Micro
 
 ## Syntax
 
- _expression_. `ExchangeMailboxServerVersion`
+_expression_. `ExchangeMailboxServerVersion`
 
- _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
+_expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks

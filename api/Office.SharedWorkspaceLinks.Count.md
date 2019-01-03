@@ -21,9 +21,9 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceLinks** 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md) object.
+_expression_ A variable that represents a [SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md) object.
 
 
 ## Return value

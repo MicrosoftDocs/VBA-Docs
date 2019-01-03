@@ -18,9 +18,9 @@ Returns or sets a  **[ColorFormat](Excel.ColorFormat.md)** object that represent
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
+_expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) object.
 
 
 ## See also

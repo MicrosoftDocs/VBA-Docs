@@ -18,7 +18,7 @@ Occurs when cells in any worksheet are changed by the user or by an external lin
 
 ## Syntax
 
- _expression_. `SheetChange`( `_Sh_` , `_Target_` )
+_expression_. `SheetChange`( `_Sh_` , `_Target_` )
 
  _expression_ An expression that returns a [Application](Excel.Application-graph-property.md) object.
 

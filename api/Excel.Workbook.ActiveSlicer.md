@@ -18,9 +18,9 @@ Returns an object that represents the active slicer in the active workbook or in
 
 ## Syntax
 
- _expression_. `ActiveSlicer`
+_expression_. `ActiveSlicer`
 
- _expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
+_expression_ A variable that represents a '[Workbook](Excel.Workbook.md)' object.
 
 
 ## Return value

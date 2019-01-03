@@ -18,9 +18,9 @@ Returns a  **[FileExportConverters](Excel.FileExportConverters.md)** collection 
 
 ## Syntax
 
- _expression_. `FileExportConverters`
+_expression_. `FileExportConverters`
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Remarks

@@ -16,9 +16,9 @@ Returns a collection of tables inside the Data Model. Read-only
 
 ## Syntax
 
- _expression_. `ModelTables`
+_expression_. `ModelTables`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value

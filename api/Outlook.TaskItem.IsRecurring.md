@@ -18,9 +18,9 @@ Returns a  **Boolean** value that is **True** if the task is a recurring task. R
 
 ## Syntax
 
- _expression_. `IsRecurring`
+_expression_. `IsRecurring`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Remarks

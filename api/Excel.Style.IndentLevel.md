@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that represents the indent level for the style
 
 ## Syntax
 
- _expression_. `IndentLevel`
+_expression_. `IndentLevel`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## Remarks

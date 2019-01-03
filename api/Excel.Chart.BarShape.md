@@ -18,9 +18,9 @@ Returns or sets the shape used with the 3-D bar or column chart. Read/write  **[
 
 ## Syntax
 
- _expression_. `BarShape`
+_expression_. `BarShape`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## See also

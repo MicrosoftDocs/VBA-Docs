@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the names of the children of the cont
 
 ## Syntax
 
- _expression_. `Children`
+_expression_. `Children`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the hobby for the contact. Read/write
 
 ## Syntax
 
- _expression_. `Hobby`
+_expression_. `Hobby`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

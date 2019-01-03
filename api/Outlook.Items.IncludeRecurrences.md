@@ -18,9 +18,9 @@ Returns a  **Boolean** that indicates **True** if the **[Items](Outlook.Items.md
 
 ## Syntax
 
- _expression_. `IncludeRecurrences`
+_expression_. `IncludeRecurrences`
 
- _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
+_expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 
 ## Remarks

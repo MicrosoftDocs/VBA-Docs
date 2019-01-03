@@ -18,9 +18,9 @@ Returns a  **Date** that indicates the next time the specified reminder will occ
 
 ## Syntax
 
- _expression_. `NextReminderDate`
+_expression_. `NextReminderDate`
 
- _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
+_expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) object.
 
 
 ## Remarks

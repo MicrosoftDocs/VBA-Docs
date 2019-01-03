@@ -18,9 +18,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. `Application`( `_ppidisp_` )
+_expression_. `Application`( `_ppidisp_` )
 
- _expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
+_expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
 
 
 ## Parameters

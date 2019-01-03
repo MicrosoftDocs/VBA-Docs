@@ -16,9 +16,9 @@ Version Added: Outlook 2013
 
 ## Syntax
 
- _expression_. `ReadComplete`_(Cancel)_
+_expression_. `ReadComplete`_(Cancel)_
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

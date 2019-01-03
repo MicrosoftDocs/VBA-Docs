@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `PreserveFormatting`
+_expression_. `PreserveFormatting`
 
- _expression_ A variable that represents a [TableObject](Excel.modeltable.md)object.
+_expression_ A variable that represents a [TableObject](Excel.modeltable.md)object.
 
 
 ## Property value

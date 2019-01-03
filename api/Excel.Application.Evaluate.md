@@ -18,9 +18,9 @@ Converts a Microsoft Excel name to an object or a value.
 
 ## Syntax
 
- _expression_. `Evaluate`( `_Name_` )
+_expression_. `Evaluate`( `_Name_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

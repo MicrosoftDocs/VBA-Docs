@@ -18,9 +18,9 @@ Updates the link.
 
 ## Syntax
 
- _expression_. `Update`
+_expression_. `Update`
 
- _expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) object.
+_expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) object.
 
 
 ## See also

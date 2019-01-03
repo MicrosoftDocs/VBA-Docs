@@ -15,9 +15,9 @@ Occurs when the user selects the  **ReplyAll** action for an item, or when the *
 
 ## Syntax
 
- _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
+_expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.
 
 ## Syntax
 
- _expression_. `Item`( `_varIndex_` )
+_expression_. `Item`( `_varIndex_` )
 
- _expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
+_expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
 
 
 ## Parameters

@@ -16,14 +16,14 @@ ms.date: 06/08/2017
 Gets a  **CommandBar** object that represents the active menu bar in the container application. Read-only.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `ActiveMenuBar`
+_expression_. `ActiveMenuBar`
 
- _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

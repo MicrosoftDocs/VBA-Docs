@@ -18,9 +18,9 @@ Returns a  **[Font](Excel.Font(object).md)** object that represents the font of 
 
 ## Syntax
 
- _expression_. `Font`
+_expression_. `Font`
 
- _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
+_expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-object.md) object.
 
 
 ## See also

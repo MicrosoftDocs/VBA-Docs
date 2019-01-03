@@ -17,9 +17,9 @@ Returns information about the state of any Linked data types, such as [Stocks or
 
 ## Syntax
 
- _expression_. `LinkedDataTypeState`
+_expression_. `LinkedDataTypeState`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.PartAfterAdd Event (Office)
+title: CustomXMLParts.PartAfterAdd event (Office)
 keywords: vbaof11.chm299001
 f1_keywords:
 - vbaof11.chm299001
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.PartAfterAdd Event (Office)
+# CustomXMLParts.PartAfterAdd event (Office)
 
 Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.
 
 
 ## Syntax
 
- _expression_. **PartAfterAdd**(**_NewPart_**, )
+_expression_. **PartAfterAdd**(**_NewPart_**, )
 
  An expression that returns a **CustomXMLParts** object.
 

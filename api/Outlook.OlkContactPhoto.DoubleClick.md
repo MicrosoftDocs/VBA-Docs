@@ -18,9 +18,9 @@ Occurs when the control is double-clicked through user action or programmaticall
 
 ## Syntax
 
- _expression_. `DoubleClick`
+_expression_. `DoubleClick`
 
- _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
+_expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContactPhoto.md) object.
 
 
 ## See also

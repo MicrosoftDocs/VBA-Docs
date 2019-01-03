@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the state portion of the other addres
 
 ## Syntax
 
- _expression_. `OtherAddressState`
+_expression_. `OtherAddressState`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

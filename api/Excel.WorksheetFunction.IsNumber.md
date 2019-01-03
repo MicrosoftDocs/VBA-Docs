@@ -18,9 +18,9 @@ Checks the type of value and returns TRUE or FALSE depending if the value refers
 
 ## Syntax
 
- _expression_. `IsNumber`( `_Arg1_` )
+_expression_. `IsNumber`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

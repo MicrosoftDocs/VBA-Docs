@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that represents the number of consecutive days
 
 ## Syntax
 
- _expression_. `DaysInMultiDayMode`
+_expression_. `DaysInMultiDayMode`
 
- _expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
+_expression_ A variable that represents a [CalendarView](./Outlook.CalendarView.md) object.
 
 
 ## Remarks

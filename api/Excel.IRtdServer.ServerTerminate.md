@@ -18,9 +18,9 @@ Terminates the connection to the real-time data server.
 
 ## Syntax
 
- _expression_. `ServerTerminate`
+_expression_. `ServerTerminate`
 
- _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
+_expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) object.
 
 
 ## See also

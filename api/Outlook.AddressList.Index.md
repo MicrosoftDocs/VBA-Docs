@@ -18,9 +18,9 @@ Returns a  **Long** indicating the position of the object within the collection.
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
 
 
 ## Remarks

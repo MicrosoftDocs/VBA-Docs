@@ -18,9 +18,9 @@ Returns or sets a  **[xlHAlign](Excel.XlHAlign.md)** value that represents the h
 
 ## Syntax
 
- _expression_. `HorizontalAlignment`
+_expression_. `HorizontalAlignment`
 
- _expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
+_expression_ A variable that represents a [TextFrame](./Excel.TextFrame.md) object.
 
 
 ## Remarks

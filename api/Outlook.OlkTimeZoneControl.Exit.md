@@ -18,9 +18,9 @@ Occurs just after the focus passes from this control to another control on the s
 
 ## Syntax
 
- _expression_. `Exit`( `_Cancel_` )
+_expression_. `Exit`( `_Cancel_` )
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Parameters

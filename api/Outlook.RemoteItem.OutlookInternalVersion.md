@@ -18,9 +18,9 @@ Returns a  **Long** representing the build number of the Outlook application for
 
 ## Syntax
 
- _expression_. `OutlookInternalVersion`
+_expression_. `OutlookInternalVersion`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## See also

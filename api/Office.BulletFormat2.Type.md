@@ -17,7 +17,7 @@ Gets or sets a constant that represents the type of bullet. Read/write.
 
 _expression_.**Type**
 
-_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
+_expression_ An expression that returns a **[BulletFormat2](Office.BulletFormat2.md)** object.
 
 
 ## Return value

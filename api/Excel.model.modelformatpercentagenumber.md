@@ -16,9 +16,9 @@ Returns a [ModelFormatPercentageNumber](Excel.modelformatpercentagenumber.md) ob
 
 ## Syntax
 
- _expression_. `ModelFormatPercentageNumber`
+_expression_. `ModelFormatPercentageNumber`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also

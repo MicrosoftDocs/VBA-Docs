@@ -15,9 +15,9 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentPreview`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
+_expression_ A variable that represents a [TaskRequestDeclineItem](./Outlook.TaskRequestDeclineItem.md) object.
 
 
 ## Parameters

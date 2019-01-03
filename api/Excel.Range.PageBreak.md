@@ -18,9 +18,9 @@ Returns or sets the location of a page break. Can be one of the following  **[xl
 
 ## Syntax
 
- _expression_. `PageBreak`
+_expression_. `PageBreak`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

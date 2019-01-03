@@ -18,9 +18,9 @@ Returns or sets if the last column is displayed for the specified  **ListObject*
 
 ## Syntax
 
- _expression_. `ShowTableStyleLastColumn`
+_expression_. `ShowTableStyleLastColumn`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## See also

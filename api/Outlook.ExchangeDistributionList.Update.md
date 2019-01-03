@@ -18,9 +18,9 @@ Posts a change to the  **[ExchangeDistributionList](Outlook.ExchangeDistribution
 
 ## Syntax
 
- _expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
+_expression_. `Update`( `_MakePermanent_` , `_Refresh_` )
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Parameters

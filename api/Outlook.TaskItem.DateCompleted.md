@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the completion date of the task. Read/wri
 
 ## Syntax
 
- _expression_. `DateCompleted`
+_expression_. `DateCompleted`
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## See also

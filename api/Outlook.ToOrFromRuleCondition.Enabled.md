@@ -20,7 +20,7 @@ Returns a  **Boolean** value that indicates whether the rule condition is enable
 
  _expression_. `Enabled`
 
- _expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
+_expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOrFromRuleCondition.md) object.
 
 
 ## Remarks

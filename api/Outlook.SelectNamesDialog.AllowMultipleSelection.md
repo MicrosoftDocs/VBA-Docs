@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that determines whether more than one address ent
 
 ## Syntax
 
- _expression_. `AllowMultipleSelection`
+_expression_. `AllowMultipleSelection`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## Remarks

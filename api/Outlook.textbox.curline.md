@@ -18,7 +18,7 @@ Returns or sets a  **Long** that represents the current line of a control. Read/
 
  _expression_. **CurLine**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

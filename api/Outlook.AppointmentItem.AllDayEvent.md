@@ -18,9 +18,9 @@ Returns  **True** if the appointment is an all-day event (as opposed to a specif
 
 ## Syntax
 
- _expression_. `AllDayEvent`
+_expression_. `AllDayEvent`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## See also

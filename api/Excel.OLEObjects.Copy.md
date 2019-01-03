@@ -18,9 +18,9 @@ Copies the object to the Clipboard.
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
- _expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
+_expression_ A variable that represents an [OLEObjects](Excel.OLEObjects.md) object.
 
 
 ## Return value

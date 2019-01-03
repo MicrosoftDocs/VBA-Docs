@@ -18,9 +18,9 @@ Returns or sets a  **Long** that specifies the minimum height the control can be
 
 ## Syntax
 
- _expression_. `MinimumHeight`
+_expression_. `MinimumHeight`
 
- _expression_ A variable that represents an 'OlkControl' object.
+_expression_ A variable that represents an 'OlkControl' object.
 
 
 ## Remarks

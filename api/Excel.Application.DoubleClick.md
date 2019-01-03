@@ -18,9 +18,9 @@ Equivalent to double-clicking the active cell.
 
 ## Syntax
 
- _expression_. `DoubleClick`
+_expression_. `DoubleClick`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

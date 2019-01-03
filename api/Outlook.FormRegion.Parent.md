@@ -18,9 +18,9 @@ Returns the parent  **Object** of the form region. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
+_expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) object.
 
 
 ## See also

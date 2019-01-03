@@ -18,9 +18,9 @@ Returns or sets the position of the axis title on the chart. Read/write  **[xlCh
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
- _expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
 
 
 ## See also

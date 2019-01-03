@@ -18,9 +18,9 @@ Returns a  **[ShapeNodes](Excel.ShapeNodes.md)** collection that represents the 
 
 ## Syntax
 
- _expression_. `Nodes`
+_expression_. `Nodes`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

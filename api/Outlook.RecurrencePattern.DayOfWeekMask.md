@@ -18,9 +18,9 @@ Returns or sets an  **[OlDaysOfWeek](Outlook.OlDaysOfWeek.md)** constant represe
 
 ## Syntax
 
- _expression_. `DayOfWeekMask`
+_expression_. `DayOfWeekMask`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

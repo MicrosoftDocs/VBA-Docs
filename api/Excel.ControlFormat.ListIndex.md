@@ -18,9 +18,9 @@ Returns or sets the index number of the currently selected item in a list box or
 
 ## Syntax
 
- _expression_. `ListIndex`
+_expression_. `ListIndex`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 
 
 ## Remarks

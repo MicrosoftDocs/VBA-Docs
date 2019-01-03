@@ -18,9 +18,9 @@ Returns a  **String** representing the name of the company for the **[ExchangeUs
 
 ## Syntax
 
- _expression_. `CompanyName`
+_expression_. `CompanyName`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

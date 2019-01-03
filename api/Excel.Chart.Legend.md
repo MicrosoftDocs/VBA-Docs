@@ -18,9 +18,9 @@ Returns a  **[Legend](Excel.Legend(object).md)** object that represents the lege
 
 ## Syntax
 
- _expression_. `Legend`
+_expression_. `Legend`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Example

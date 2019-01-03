@@ -18,9 +18,9 @@ Detaches the end of the specified connector from the shape it's attached to. Thi
 
 ## Syntax
 
- _expression_. `EndDisconnect`
+_expression_. `EndDisconnect`
 
- _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets a  **Long** that indicates the background color of the control. 
 
 ## Syntax
 
- _expression_. `BackColor`
+_expression_. `BackColor`
 
- _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
+_expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.md) object.
 
 
 ## Remarks

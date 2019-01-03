@@ -18,9 +18,9 @@ Returns or sets a **Variant** value that represents the color of the specified w
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
- _expression_ A variable that represents a [Tab](Excel.Tab.md) object.
+_expression_ A variable that represents a [Tab](Excel.Tab.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Sets the default display mode for the  **Select Names** dialog box, specifying i
 
 ## Syntax
 
- _expression_. `SetDefaultDisplayMode`( `_defaultMode_` )
+_expression_. `SetDefaultDisplayMode`( `_defaultMode_` )
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## Parameters

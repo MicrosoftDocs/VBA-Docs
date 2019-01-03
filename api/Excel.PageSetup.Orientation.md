@@ -18,9 +18,9 @@ Returns or sets a  **[xlPageOrientation](Excel.XlPageOrientation.md)** value tha
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_. `Orientation`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns  **True** if the deletion of columns is allowed on a protected worksheet
 
 ## Syntax
 
- _expression_. `AllowDeletingColumns`
+_expression_. `AllowDeletingColumns`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks

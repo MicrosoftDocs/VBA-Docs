@@ -18,9 +18,9 @@ Bar and Column charts: Returns or sets the space between bar or column clusters,
 
 ## Syntax
 
- _expression_. `GapWidth`
+_expression_. `GapWidth`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Remarks

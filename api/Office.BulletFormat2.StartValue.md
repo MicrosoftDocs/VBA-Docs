@@ -17,7 +17,7 @@ Gets or sets the beginning value of a bulleted list. Read/write.
 
 _expression_.**StartValue**
 
-_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
+_expression_ An expression that returns a **[BulletFormat2](Office.BulletFormat2.md)** object.
 
 
 ## Return value

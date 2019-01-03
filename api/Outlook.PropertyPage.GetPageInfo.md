@@ -18,9 +18,9 @@ Returns Help information about a custom property page.
 
 ## Syntax
 
- _expression_. `GetPageInfo`( `_HelpFile_` , `_HelpContext_` )
+_expression_. `GetPageInfo`( `_HelpFile_` , `_HelpContext_` )
 
- _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
+_expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns a  **String** representing the comments for the **[ExchangeDistributionL
 
 ## Syntax
 
- _expression_. `Comments`
+_expression_. `Comments`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

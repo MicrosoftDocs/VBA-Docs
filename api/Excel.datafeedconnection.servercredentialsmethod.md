@@ -16,9 +16,9 @@ Returns or sets the type of credentials that should be used for server authentic
 
 ## Syntax
 
- _expression_. `ServerCredentialsMethod`
+_expression_. `ServerCredentialsMethod`
 
- _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Remarks

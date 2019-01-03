@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies the location of a background pict
 
 ## Syntax
 
- _expression_. **PictureAlignment**
+_expression_. **PictureAlignment**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

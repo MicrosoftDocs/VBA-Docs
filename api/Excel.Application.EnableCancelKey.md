@@ -18,9 +18,9 @@ Controls how Microsoft Excel handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user 
 
 ## Syntax
 
- _expression_. `EnableCancelKey`
+_expression_. `EnableCancelKey`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

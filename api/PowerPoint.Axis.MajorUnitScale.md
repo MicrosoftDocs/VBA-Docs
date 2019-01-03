@@ -20,7 +20,7 @@ Returns or sets the major unit scale value for the category axis when the  **[Ca
 
  _expression_. `MajorUnitScale`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 
 ## Remarks

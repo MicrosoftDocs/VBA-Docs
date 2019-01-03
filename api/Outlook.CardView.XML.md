@@ -18,9 +18,9 @@ Returns or sets a  **String** value that specifies the XML definition of the vie
 
 ## Syntax
 
- _expression_. `XML`
+_expression_. `XML`
 
- _expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
+_expression_ A variable that represents a [CardView](./Outlook.CardView.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Schedules a procedure to be run at a specified time in the future (either at a s
 
 ## Syntax
 
- _expression_. `OnTime`( `_EarliestTime_` , `_Procedure_` , `_LatestTime_` , `_Schedule_` )
+_expression_. `OnTime`( `_EarliestTime_` , `_Procedure_` , `_LatestTime_` , `_Schedule_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

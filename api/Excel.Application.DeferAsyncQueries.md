@@ -18,9 +18,9 @@ Gets or sets whether asychronous queries to OLAP data sources are executed when 
 
 ## Syntax
 
- _expression_. `DeferAsyncQueries`
+_expression_. `DeferAsyncQueries`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

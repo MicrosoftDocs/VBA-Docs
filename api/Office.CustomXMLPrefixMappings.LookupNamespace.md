@@ -18,7 +18,7 @@ Allows you to get the namespace corresponding to the specified prefix.
 
 ## Syntax
 
- _expression_. `LookupNamespace`( `_Prefix_` )
+_expression_. `LookupNamespace`( `_Prefix_` )
 
  _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 

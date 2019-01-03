@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that specifies if the value in the cell is 
 
 ## Syntax
 
- _expression_. `ShowValue`
+_expression_. `ShowValue`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
 
 
 ## See also

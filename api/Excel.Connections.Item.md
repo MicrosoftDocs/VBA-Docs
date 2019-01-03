@@ -18,9 +18,9 @@ This method creates a connection item.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [Connections](Excel.Connections.md) object.
+_expression_ A variable that represents a [Connections](Excel.Connections.md) object.
 
 
 ## Parameters

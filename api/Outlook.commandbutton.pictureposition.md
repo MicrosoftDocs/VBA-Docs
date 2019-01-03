@@ -13,9 +13,9 @@ Returns or sets an  **Integer** that specifies the location of the picture relat
 
 ## Syntax
 
- _expression_. **PicturePosition**
+_expression_. **PicturePosition**
 
- _expression_ A variable that represents a  **CommandButton** object.
+_expression_ A variable that represents a  **CommandButton** object.
 
 
 ## Remarks

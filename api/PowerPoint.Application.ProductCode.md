@@ -20,7 +20,7 @@ Returns the Microsoft PowerPoint globally unique identifier (GUID). Read-only.
 
  _expression_. `ProductCode`
 
- _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 
 
 ## Return value

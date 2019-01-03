@@ -18,9 +18,9 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that you can use to mo
 
 ## Syntax
 
- _expression_. `BarColor`
+_expression_. `BarColor`
 
- _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
+_expression_ A variable that represents a [Databar](Excel.Databar.md) object.
 
 
 ## See also

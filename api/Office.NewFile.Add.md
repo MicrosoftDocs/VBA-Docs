@@ -18,7 +18,7 @@ Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to i
 
 ## Syntax
 
- _expression_. `Add`( `_FileName_`, `_Section_`, `_DisplayName_`, `_Action_` )
+_expression_. `Add`( `_FileName_`, `_Section_`, `_DisplayName_`, `_Action_` )
 
  _expression_ Required. A variable that represents a '[NewFile](Office.NewFile.md)' object.
 

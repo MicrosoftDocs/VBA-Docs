@@ -22,9 +22,9 @@ For more information about the new functions, see the [F_Inv_RT](Excel.Worksheet
 
 ## Syntax
 
- _expression_. `FInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
+_expression_. `FInv`( `_Arg1_` , `_Arg2_` , `_Arg3_` )
 
- _expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
+_expression_ A variable that represents a '[WorksheetFunction](Excel.WorksheetFunction.md)' object.
 
 
 ## Parameters

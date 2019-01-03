@@ -18,7 +18,7 @@ Gets or sets a  **Boolean** value specifying whether the signer can enter commen
 
 ## Syntax
 
- _expression_. `AllowComments`
+_expression_. `AllowComments`
 
  _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 

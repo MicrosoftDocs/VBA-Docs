@@ -15,7 +15,7 @@ True if the font is formatted as all capital letters. Read/write.
 
 ## Syntax
 
- _expression_. `Allcaps`
+_expression_. `Allcaps`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

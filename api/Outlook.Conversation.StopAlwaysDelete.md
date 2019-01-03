@@ -18,9 +18,9 @@ Stops the action of always moving conversation items in the specified store to t
 
 ## Syntax
 
- _expression_. `StopAlwaysDelete`( `_Store_` )
+_expression_. `StopAlwaysDelete`( `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters

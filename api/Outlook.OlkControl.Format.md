@@ -18,9 +18,9 @@ Returns or sets a  **Long** that specifies how a value is to be displayed in the
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
- _expression_ A variable that represents an 'OlkControl' object.
+_expression_ A variable that represents an 'OlkControl' object.
 
 
 ## Remarks

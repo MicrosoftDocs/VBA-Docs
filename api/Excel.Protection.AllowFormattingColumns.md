@@ -18,9 +18,9 @@ Returns  **True** if the formatting of columns is allowed on a protected workshe
 
 ## Syntax
 
- _expression_. `AllowFormattingColumns`
+_expression_. `AllowFormattingColumns`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks

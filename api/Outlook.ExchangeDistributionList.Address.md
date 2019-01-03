@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the X400 email address of the **[Exch
 
 ## Syntax
 
- _expression_. `Address`
+_expression_. `Address`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

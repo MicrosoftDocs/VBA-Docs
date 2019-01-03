@@ -16,9 +16,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `ParentHierarchy`
+_expression_. `ParentHierarchy`
 
- _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
+_expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
 
 
 ## Property value

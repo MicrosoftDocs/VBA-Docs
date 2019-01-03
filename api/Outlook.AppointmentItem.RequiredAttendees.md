@@ -18,9 +18,9 @@ Returns a semicolon-delimited  **String** of required attendee names for the mee
 
 ## Syntax
 
- _expression_. `RequiredAttendees`
+_expression_. `RequiredAttendees`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

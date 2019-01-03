@@ -16,9 +16,9 @@ Returns or sets a  **Boolean** that specifies whether selected text remains high
 
 ## Syntax
 
- _expression_. **HideSelection**
+_expression_. **HideSelection**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

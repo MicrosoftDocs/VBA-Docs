@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that determines whether the **[MailModule](
 
 ## Syntax
 
- _expression_. `Visible`
+_expression_. `Visible`
 
- _expression_ A variable that represents a [MailModule](./Outlook.MailModule.md) object.
+_expression_ A variable that represents a [MailModule](./Outlook.MailModule.md) object.
 
 
 ## See also

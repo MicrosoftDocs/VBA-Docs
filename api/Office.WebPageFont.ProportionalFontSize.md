@@ -18,9 +18,9 @@ Sets or gets the proportional font size setting in the host application, in poin
 
 ## Syntax
 
- _expression_. `ProportionalFontSize`
+_expression_. `ProportionalFontSize`
 
- _expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
+_expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
 
 
 ## Remarks

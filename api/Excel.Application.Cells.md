@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 ## Syntax
 
- _expression_. `Cells`
+_expression_. `Cells`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets the text to be displayed for the specified hyperlink. The defaul
 
 ## Syntax
 
- _expression_. `TextToDisplay`
+_expression_. `TextToDisplay`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## Example

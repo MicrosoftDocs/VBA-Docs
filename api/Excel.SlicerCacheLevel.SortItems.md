@@ -18,9 +18,9 @@ Returns or sets the sort order of the items in the slicer. Read/write.
 
 ## Syntax
 
- _expression_. `SortItems`
+_expression_. `SortItems`
 
- _expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
+_expression_ A variable that represents a '[SlicerCacheLevel](Excel.SlicerCacheLevel.md)' object.
 
 
 ## Return value

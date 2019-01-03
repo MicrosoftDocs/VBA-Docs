@@ -20,7 +20,7 @@ Returns or sets the way that blank cells are plotted on a chart. Can be one of t
 
  _expression_. `DisplayBlanksAs`
 
- _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
+_expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 
 
 ## Example

@@ -18,9 +18,9 @@ When set to  **True** (default), Microsoft Excel identifies, with an **AutoCorre
 
 ## Syntax
 
- _expression_. `EvaluateToError`
+_expression_. `EvaluateToError`
 
- _expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
+_expression_ A variable that represents an [ErrorCheckingOptions](Excel.ErrorCheckingOptions.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
+_expression_ A variable that represents a [ColumnFormat](./Outlook.ColumnFormat.md) object.
 
 
 ## See also

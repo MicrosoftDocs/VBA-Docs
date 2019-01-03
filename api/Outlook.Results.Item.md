@@ -18,9 +18,9 @@ Returns an Outlook item from a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
 ## Parameters

@@ -19,9 +19,9 @@ Version Added: Outlook 2013
 
 ## Syntax
 
- _expression_. `GoToDate`_(Date)_
+_expression_. `GoToDate`_(Date)_
 
- _expression_ A variable that represents a 'PeopleView' object.
+_expression_ A variable that represents a 'PeopleView' object.
 
 
 ## Parameters

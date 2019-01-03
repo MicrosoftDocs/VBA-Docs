@@ -18,9 +18,9 @@ Returns an object that represents either a single field in a PivotTable report (
 
 ## Syntax
 
- _expression_. `VisibleFields`( `_Index_` )
+_expression_. `VisibleFields`( `_Index_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters

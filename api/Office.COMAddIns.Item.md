@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.COMAddIns.Item
 ms.assetid: bc9f4f41-fe52-1ba0-160c-0b1926194806
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # COMAddIns.Item method (Office)
 
-Gets a member of the specified  **COMAddIns** collection.
+Gets a member of the specified **COMAddIns** collection.
 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item**(_Index_)
 
- _expression_ Required. A variable that represents a '[COMAddIns](Office.COMAddIns.md)' object. The specified **COMAddIns** collection.
+_expression_ Required. A variable that represents a **[COMAddIns](Office.COMAddIns.md)** object. The specified **COMAddIns** collection.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,10 +31,5 @@ Gets a member of the specified  **COMAddIns** collection.
 
 ## See also
 
-
-[COMAddIns Object](Office.COMAddIns.md)
-
-
-
-[COMAddIns Object Members](./overview/Library-Reference/comaddins-members-office.md)
+- [COMAddIns object members](overview/Library-Reference/comaddins-members-office.md)
 

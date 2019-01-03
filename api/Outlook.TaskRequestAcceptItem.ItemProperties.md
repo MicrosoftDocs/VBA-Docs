@@ -18,9 +18,9 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 ## Syntax
 
- _expression_. `ItemProperties`
+_expression_. `ItemProperties`
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

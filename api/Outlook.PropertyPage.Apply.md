@@ -18,9 +18,9 @@ Applies the changes that have been made in a custom property page.
 
 ## Syntax
 
- _expression_. `Apply`
+_expression_. `Apply`
 
- _expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
+_expression_ A variable that represents a [PropertyPage](./Outlook.PropertyPage.md) object.
 
 
 ## Return value

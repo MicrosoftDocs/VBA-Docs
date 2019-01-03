@@ -20,6 +20,6 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 
  _expression_. `Border`
 
- _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
+_expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 
 

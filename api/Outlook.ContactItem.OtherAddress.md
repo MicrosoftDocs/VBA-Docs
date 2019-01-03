@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the other address for the contact. Re
 
 ## Syntax
 
- _expression_. `OtherAddress`
+_expression_. `OtherAddress`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

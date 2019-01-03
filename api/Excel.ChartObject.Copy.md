@@ -18,9 +18,9 @@ Copies the object to the Clipboard.
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
- _expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
 
 
 ## Return value

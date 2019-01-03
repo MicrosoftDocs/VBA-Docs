@@ -15,7 +15,7 @@ Gets the font setting for the "Headings" in a document. Read-only.
 
 ## Syntax
 
- _expression_. `MajorFont`
+_expression_. `MajorFont`
 
  _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 

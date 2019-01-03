@@ -21,9 +21,9 @@ Gets the display name of the member who created the shared workspace object. Rea
 
 ## Syntax
 
- _expression_. `CreatedBy`
+_expression_. `CreatedBy`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
+_expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Return value

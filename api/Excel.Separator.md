@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Allows the user to set or return the separator used for the data labels on a chart. Read/write Variant.
 
- _expression_. `Separator`
+_expression_. `Separator`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

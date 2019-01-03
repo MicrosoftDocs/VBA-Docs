@@ -18,9 +18,9 @@ Adds phonetic text to the specified cell.
 
 ## Syntax
 
- _expression_. `Add`( `_Start_` , `_Length_` , `_Text_` )
+_expression_. `Add`( `_Start_` , `_Length_` , `_Text_` )
 
- _expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
+_expression_ A variable that represents a [Phonetics](Excel.Phonetics.md) object.
 
 
 ## Parameters

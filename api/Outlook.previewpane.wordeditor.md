@@ -16,9 +16,9 @@ Returns the Microsoft Word Document Object Model of the message being displayed.
 
 ## Syntax
 
- _expression_. `WordEditor`
+_expression_. `WordEditor`
 
- _expression_ A variable that represents a 'PreviewPane' object.
+_expression_ A variable that represents a 'PreviewPane' object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that represents the color of all four borde
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
- _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
+_expression_ A variable that represents a [Borders](Excel.Borders.md) object.
 
 
 ## Remarks

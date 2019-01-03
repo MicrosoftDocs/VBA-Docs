@@ -18,9 +18,9 @@ Returns or sets the rotation of the extruded shape around the y-axis in degrees.
 
 ## Syntax
 
- _expression_. `RotationY`
+_expression_. `RotationY`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Remarks

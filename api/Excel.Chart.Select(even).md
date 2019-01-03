@@ -18,7 +18,7 @@ Occurs when a chart element is selected.
 
 ## Syntax
 
- _expression_. `Select`( `_ElementID_` , `_Arg1_` , `_Arg2_` )
+_expression_. `Select`( `_ElementID_` , `_Arg1_` , `_Arg2_` )
 
  _expression_ An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
 

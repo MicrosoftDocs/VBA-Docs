@@ -18,9 +18,9 @@ Pastes the contents of the clipboard in the control.
 
 ## Syntax
 
- _expression_. `Paste`
+_expression_. `Paste`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## Remarks

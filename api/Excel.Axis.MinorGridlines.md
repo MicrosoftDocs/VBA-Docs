@@ -18,9 +18,9 @@ Returns a  **[Gridlines](Excel.Gridlines(object).md)** object that represents th
 
 ## Syntax
 
- _expression_. `MinorGridlines`
+_expression_. `MinorGridlines`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Example

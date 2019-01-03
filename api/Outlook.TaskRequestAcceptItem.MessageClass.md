@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the message class for the Outlook ite
 
 ## Syntax
 
- _expression_. `MessageClass`
+_expression_. `MessageClass`
 
- _expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
+_expression_ A variable that represents a [TaskRequestAcceptItem](./Outlook.TaskRequestAcceptItem.md) object.
 
 
 ## Remarks

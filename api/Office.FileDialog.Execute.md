@@ -18,7 +18,7 @@ Carries out a user's action right after the  **Show** method is invoked.
 
 ## Syntax
 
- _expression_. `Execute`
+_expression_. `Execute`
 
  _expression_ Required. A variable that represents a '[FileDialog](Office.FileDialog.md)' object.
 

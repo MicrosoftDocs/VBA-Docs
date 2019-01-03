@@ -18,9 +18,9 @@ Returns the parent object for the specified  **PivotAxis** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
+_expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object.
 
 
 ## See also

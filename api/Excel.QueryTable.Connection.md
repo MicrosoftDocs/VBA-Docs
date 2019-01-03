@@ -18,7 +18,7 @@ Returns or sets a string that contains one of the following: OLE DB settings tha
 
 ## Syntax
 
- _expression_. `Connection`
+_expression_. `Connection`
 
  _expression_ An expression that returns a [QueryTable](Excel.QueryTable.md) object.
 

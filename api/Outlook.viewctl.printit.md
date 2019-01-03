@@ -15,7 +15,7 @@ Prints the items that are currently selected in the control.
 
  _expression_. **PrintItem**
 
- _expression_ A variable that represents a  **ViewCtl** object.
+_expression_ A variable that represents a  **ViewCtl** object.
 
 
 ## Remarks

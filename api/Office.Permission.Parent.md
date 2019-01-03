@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **Permission** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Return value

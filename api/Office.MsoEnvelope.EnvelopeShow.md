@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.EnvelopeShow Event (Office)
+title: MsoEnvelope.EnvelopeShow event (Office)
 keywords: vbaof11.chm246001
 f1_keywords:
 - vbaof11.chm246001
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope.EnvelopeShow Event (Office)
+# MsoEnvelope.EnvelopeShow event (Office)
 
 Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is displayed.
 
 
 ## Syntax
 
- _expression_. `EnvelopeShow`
+_expression_. `EnvelopeShow`
 
  _expression_ An expression that returns a [MsoEnvelope](Office.MsoEnvelope.md) object.
 

@@ -16,9 +16,9 @@ Updates the display by redrawing the frame.
 
 ## Syntax
 
- _expression_. **Repaint**
+_expression_. **Repaint**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Return value

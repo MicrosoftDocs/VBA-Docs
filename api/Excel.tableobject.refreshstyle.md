@@ -16,9 +16,9 @@ Returns or sets the way rows on the specified worksheet are added or deleted to 
 
 ## Syntax
 
- _expression_. `RefreshStyle`
+_expression_. `RefreshStyle`
 
- _expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
+_expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
 
 
 ## Property value

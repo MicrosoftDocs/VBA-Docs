@@ -18,9 +18,9 @@ Specifies a setting for the specified delivery store that indicates whether all 
 
 ## Syntax
 
- _expression_. `SetAlwaysDelete`( `_AlwaysDelete_` , `_Store_` )
+_expression_. `SetAlwaysDelete`( `_AlwaysDelete_` , `_Store_` )
 
- _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
+_expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Deletes the object.
 
 ## Syntax
 
- _expression_. `Delete`
+_expression_. `Delete`
 
- _expression_ A variable that represents an [UserAccess](./Excel.UserAccess.md) object.
+_expression_ A variable that represents an [UserAccess](./Excel.UserAccess.md) object.
 
 
 ## See also

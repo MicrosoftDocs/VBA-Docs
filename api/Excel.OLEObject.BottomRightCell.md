@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the cell t
 
 ## Syntax
 
- _expression_. `BottomRightCell`
+_expression_. `BottomRightCell`
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## See also

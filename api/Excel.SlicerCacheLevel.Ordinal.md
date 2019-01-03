@@ -18,9 +18,9 @@ Returns the one-based ordinal value of the hierarchy level represented by the sp
 
 ## Syntax
 
- _expression_. `Ordinal`
+_expression_. `Ordinal`
 
- _expression_ A variable that represents a [SlicerCacheLevel](./Excel.SlicerCacheLevel.md) object.
+_expression_ A variable that represents a [SlicerCacheLevel](./Excel.SlicerCacheLevel.md) object.
 
 
 ## Return value

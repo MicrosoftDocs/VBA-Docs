@@ -18,9 +18,9 @@ Returns the workbook connection type. Read-only  **[xlConnectionType](Excel.XlCo
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookConnection.md) object.
 
 
 ## See also

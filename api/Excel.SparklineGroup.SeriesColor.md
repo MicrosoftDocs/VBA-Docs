@@ -18,9 +18,9 @@ Returns a  **[FormatColor](Excel.FormatColor.md)** object that represents the ma
 
 ## Syntax
 
- _expression_. `SeriesColor`
+_expression_. `SeriesColor`
 
- _expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value

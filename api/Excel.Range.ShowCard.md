@@ -16,9 +16,9 @@ For a cell containing a Linked data type such as [Stocks or Geography](https://s
 
 ## Syntax
 
- _expression_. `ShowCard`
+_expression_. `ShowCard`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 ## Remarks
 

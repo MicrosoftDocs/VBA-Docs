@@ -18,9 +18,9 @@ Valid only for PivotTable fields that are member property fields. Returns a  **L
 
 ## Syntax
 
- _expression_. `PropertyOrder`
+_expression_. `PropertyOrder`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

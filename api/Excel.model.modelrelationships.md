@@ -16,9 +16,9 @@ Returns a collection of relationships between Data Model tables. Read-only
 
 ## Syntax
 
- _expression_. `ModelRelationships`
+_expression_. `ModelRelationships`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Property value

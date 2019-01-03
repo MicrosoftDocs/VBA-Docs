@@ -18,9 +18,9 @@ Occurs when any  **Protected View** window is resized.
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowResize`( `_Pvw_` , )
+_expression_. `ProtectedViewWindowResize`( `_Pvw_` , )
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Parameters

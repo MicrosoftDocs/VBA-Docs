@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the date and time at which the item becom
 
 ## Syntax
 
- _expression_. `ExpiryTime`
+_expression_. `ExpiryTime`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Example

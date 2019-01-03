@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the URL of the Web page for the contact
 
 ## Syntax
 
- _expression_. `WebPage`
+_expression_. `WebPage`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

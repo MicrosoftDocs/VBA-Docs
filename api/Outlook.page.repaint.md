@@ -13,9 +13,9 @@ Updates the display by redrawing the page.
 
 ## Syntax
 
- _expression_. **Repaint**
+_expression_. **Repaint**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Return value

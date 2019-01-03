@@ -18,9 +18,9 @@ Creates a  **[Rule](Outlook.Rule.md)** object with the name specified by _Name_ 
 
 ## Syntax
 
- _expression_. `Create`( `_Name_` , `_RuleType_` )
+_expression_. `Create`( `_Name_` , `_RuleType_` )
 
- _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
+_expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 
 ## Parameters

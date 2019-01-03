@@ -18,9 +18,9 @@ Gets the  **Parent** object for the **ODSOColumn** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
+_expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
 
 
 ## Return value

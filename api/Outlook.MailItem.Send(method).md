@@ -18,9 +18,9 @@ Sends the email message.
 
 ## Syntax
 
- _expression_. `Send`
+_expression_. `Send`
 
- _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents the range 
 
 ## Syntax
 
- _expression_. `Range`
+_expression_. `Range`
 
- _expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
+_expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
 
 
 ## Example

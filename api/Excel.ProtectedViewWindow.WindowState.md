@@ -18,9 +18,9 @@ Returns or sets the state of the specified  **Protected View** window. Read/writ
 
 ## Syntax
 
- _expression_. `WindowState`
+_expression_. `WindowState`
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
 ## Return value

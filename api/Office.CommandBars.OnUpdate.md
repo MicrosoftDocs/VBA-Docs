@@ -1,5 +1,5 @@
 ---
-title: CommandBars.OnUpdate Event (Office)
+title: CommandBars.OnUpdate event (Office)
 keywords: vbaof11.chm228001
 f1_keywords:
 - vbaof11.chm228001
@@ -11,19 +11,19 @@ ms.date: 06/08/2017
 ---
 
 
-# CommandBars.OnUpdate Event (Office)
+# CommandBars.OnUpdate event (Office)
 
 Occurs when any change is made to a command bar.
 
 > [!NOTE] 
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `OnUpdate`
+_expression_. `OnUpdate`
 
- _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

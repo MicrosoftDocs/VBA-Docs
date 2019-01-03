@@ -18,9 +18,9 @@ Returns a Microsoft Outlook item identified by the specified entry ID (if valid)
 
 ## Syntax
 
- _expression_. `GetItemFromID`( `_EntryIDItem_` , `_EntryIDStore_` )
+_expression_. `GetItemFromID`( `_EntryIDItem_` , `_EntryIDStore_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## Parameters

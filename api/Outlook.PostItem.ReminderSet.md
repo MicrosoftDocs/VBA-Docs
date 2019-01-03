@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that is **True** if a reminder has been set
 
 ## Syntax
 
- _expression_. `ReminderSet`
+_expression_. `ReminderSet`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## See also

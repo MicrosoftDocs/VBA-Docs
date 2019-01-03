@@ -18,9 +18,9 @@ This property is used to filter data in a workbook based on a cell icon from the
 
 ## Syntax
 
- _expression_. `IconSets`
+_expression_. `IconSets`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

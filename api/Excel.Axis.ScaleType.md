@@ -18,9 +18,9 @@ Returns or sets the value axis scale type. Read/write  **[xlScaleType](Excel.XlS
 
 ## Syntax
 
- _expression_. `ScaleType`
+_expression_. `ScaleType`
 
- _expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
 
 
 ## Remarks

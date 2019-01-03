@@ -18,9 +18,9 @@ Occurs when the user releases a key.
 
 ## Syntax
 
- _expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
+_expression_. `KeyUp`( `_KeyCode_` , `_Shift_` )
 
- _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
+_expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkCommandButton.md) object.
 
 
 ## Parameters

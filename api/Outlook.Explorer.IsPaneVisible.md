@@ -18,9 +18,9 @@ Returns a  **Boolean** indicating whether a specific explorer pane is visible.
 
 ## Syntax
 
- _expression_. `IsPaneVisible`( `_Pane_` )
+_expression_. `IsPaneVisible`( `_Pane_` )
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## Parameters

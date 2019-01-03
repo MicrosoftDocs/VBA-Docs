@@ -15,7 +15,7 @@ Deletes the  **CommandBarPopup** object from its collection.
 
 ## Syntax
 
- _expression_. `Delete`( `_Temporary_` )
+_expression_. `Delete`( `_Temporary_` )
 
  _expression_ Required. A variable that represents a '[CommandBarPopup](Office.CommandBarPopup.md)' object.
 

@@ -18,9 +18,9 @@ Returns an  **[xlCalculationState](Excel.XlCalculationState.md)** constant that 
 
 ## Syntax
 
- _expression_. `CalculationState`
+_expression_. `CalculationState`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

@@ -18,7 +18,7 @@ Returns a  **String** that represents the GUID of the sharing provider used by t
 
 ## Syntax
 
- _expression_. `SharingProviderGuid`
+_expression_. `SharingProviderGuid`
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

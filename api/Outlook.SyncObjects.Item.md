@@ -18,9 +18,9 @@ Returns a  **[SyncObject](Outlook.SyncObject.md)** object from the collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
+_expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
 
 
 ## Parameters

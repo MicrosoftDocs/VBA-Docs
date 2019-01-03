@@ -18,9 +18,9 @@ Returns or sets the number of columns in the specified slicer. Read/write.
 
 ## Syntax
 
- _expression_. `NumberOfColumns`
+_expression_. `NumberOfColumns`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Return value

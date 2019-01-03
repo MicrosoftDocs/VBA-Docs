@@ -20,7 +20,7 @@ Returns a  **[Timing](PowerPoint.Timing.md)** object that represents the timing 
 
  _expression_. `Timing`
 
- _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
+_expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 
 
 ## Return value

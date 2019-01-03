@@ -13,9 +13,9 @@ Initializes the Workbook's Data Model. This is called by default the first time 
 
 ## Syntax
 
- _expression_. `Initialize`
+_expression_. `Initialize`
 
- _expression_ A variable that represents a object.
+_expression_ A variable that represents a object.
 
 
 ## Return value

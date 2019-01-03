@@ -18,9 +18,9 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
+_expression_ A variable that represents an [AddressLists](./Outlook.AddressLists.md) object.
 
 
 ## See also

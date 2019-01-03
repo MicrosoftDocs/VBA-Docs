@@ -18,9 +18,9 @@ Returns a constant from the  **[OlRuleConditionType](Outlook.OlRuleConditionType
 
 ## Syntax
 
- _expression_. `ConditionType`
+_expression_. `ConditionType`
 
- _expression_ A variable that represents an [AddressRuleCondition](./Outlook.AddressRuleCondition.md) object.
+_expression_ A variable that represents an [AddressRuleCondition](./Outlook.AddressRuleCondition.md) object.
 
 
 ## Remarks

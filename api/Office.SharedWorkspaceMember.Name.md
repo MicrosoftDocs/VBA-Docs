@@ -21,9 +21,9 @@ Gets the display name of the shared workspace member. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+_expression_. `Name`
 
- _expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
+_expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Return value

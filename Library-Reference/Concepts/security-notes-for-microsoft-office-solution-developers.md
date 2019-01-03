@@ -25,19 +25,19 @@ On the **Macro Settings** tab of the Trust Center, you can also set options to *
 You can see a list of available add-ins on the **Add-ins** tab in the Trust Center. On the same tab, you can enable, disable, add, or remove COM or Word add-ins by selecting the type of add-in in the drop-down box next to the **Manage** label, and then choosing the **Go** button.
 
 
-## Modifying the Windows Registry
+## Modifying the Windows registry
 
 Modifying the Windows registry in any manner, whether in the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is always a good practice to back up a computer's registry first before you modify it. If you are running Microsoft Windows NT, Windows 2000, Windows XP, or Windows Server 2003, you should also update your Emergency Repair Disk (ERD).
 
 For information about how to edit the registry, see the "Changing Keys and Values" Help topic in the Registry Editor (Regedit.exe) or the "Add and Delete Information in the Registry" and "Edit Registry Information" topics in the Registry Editor (Regedt32.exe).
 
 
-## Making Windows Application Programming Interface (API) function calls
+## Making Windows API function calls
 
-Before calling Windows functions, you should understand how arguments and data types are handled by the Windows API DLLs. Incorrectly calling Windows functions might result in invalid page faults or other unexpected behaviors. For more information about how to call Windows functions, see the topic "The Windows API and Other Dynamic-Link Libraries" in the Office 2000 Developer Online Documentation.
+Before calling Windows Application Programming Interface (API) functions, you should understand how arguments and data types are handled by the Windows API DLLs. Incorrectly calling Windows functions might result in invalid page faults or other unexpected behaviors. For more information about how to call Windows functions, see the topic "The Windows API and Other Dynamic-Link Libraries" in the Office 2000 Developer Online Documentation.
 
 
-## Digital code signing
+## Digitally signing code
 
 Digitally signing a document is the process of "stamping" a document so that the recipient of the document can be assured that it came from a particular source, and can detect whether the contents of the document have changed since the document was signed. Additionally, digital signatures can be used to mark a document as read-only to protect its authenticity and integrity.
 
@@ -62,7 +62,7 @@ Digital signatures have been available to customers since Office XP. However, Of
 Office 2007 also introduced members that make it easier to work with in-line signatures and digital signatures programmatically. 
 
 
-## Secure deployment of managed COM add-ins in Office
+## Deploying managed COM add-ins in Office securely
 
 To comply with Office security, managed COM add-ins (COM add-ins targeting the common language runtime) must be digitally signed, and users' security settings should be set in the Office Trust Center to allow add-ins in your Office applications. Additionally, you must incorporate into your managed COM add-in project a small unmanaged proxy called a _shim_ to avoid unexpected security warnings. 
 
@@ -74,7 +74,7 @@ In Office, when calling the features of the Visual Basic for Applications Extens
 Setting the option represents a possible security hazard. The recommended behavior is to check the **Trust access to the VBA project object model** box only for the duration of a macro that accesses the Visual Basic object model. Make sure that you clear the **Trust access to the VBA project object model** box after the macro has finished running.
 
 
-## Passwords
+## Using passwords
 
 Avoid using hard-coded passwords in your applications. If a password is required in a procedure, request the password from the user, store it in a variable, and then use the variable in your code.
 

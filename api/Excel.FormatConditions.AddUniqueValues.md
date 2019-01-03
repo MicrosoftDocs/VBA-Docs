@@ -18,9 +18,9 @@ Returns a new  **[UniqueValues](Excel.UniqueValues.md)** object representing a c
 
 ## Syntax
 
- _expression_. `AddUniqueValues`
+_expression_. `AddUniqueValues`
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Return value

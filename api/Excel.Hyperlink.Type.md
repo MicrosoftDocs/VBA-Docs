@@ -18,9 +18,9 @@ Returns a  **Long** value, containing a **[MsoHyperlinkType](Office.MsoHyperlink
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
+_expression_ A variable that represents a [Hyperlink](Excel.Hyperlink.md) object.
 
 
 ## See also

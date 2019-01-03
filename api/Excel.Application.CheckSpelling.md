@@ -18,9 +18,9 @@ Checks the spelling of a single word.
 
 ## Syntax
 
- _expression_. `CheckSpelling`( `_Word_` , `_CustomDictionary_` , `_IgnoreUppercase_` )
+_expression_. `CheckSpelling`( `_Word_` , `_CustomDictionary_` , `_IgnoreUppercase_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Gets or sets a descriptive **String** value for the specified **COMAddin** objec
 
 _expression_.**Description**
 
-_expression_ Required. A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ Required. A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Example

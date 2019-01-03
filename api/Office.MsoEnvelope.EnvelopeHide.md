@@ -1,5 +1,5 @@
 ---
-title: MsoEnvelope.EnvelopeHide Event (Office)
+title: MsoEnvelope.EnvelopeHide event (Office)
 keywords: vbaof11.chm246002
 f1_keywords:
 - vbaof11.chm246002
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# MsoEnvelope.EnvelopeHide Event (Office)
+# MsoEnvelope.EnvelopeHide event (Office)
 
 Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.
 
 
 ## Syntax
 
- _expression_. `EnvelopeHide`
+_expression_. `EnvelopeHide`
 
  _expression_ An expression that returns a [MsoEnvelope](Office.MsoEnvelope.md) object.
 

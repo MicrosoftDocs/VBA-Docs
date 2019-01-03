@@ -18,9 +18,9 @@ Removes all filters currently applied in a file dialog box.
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
- _expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns an object that represents either a single embedded chart (a  **[ChartObj
 
 ## Syntax
 
- _expression_. `ChartObjects`( `_Index_` )
+_expression_. `ChartObjects`( `_Index_` )
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Parameters

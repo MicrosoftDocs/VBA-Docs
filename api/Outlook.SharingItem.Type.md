@@ -18,7 +18,7 @@ Returns or sets an  **[OlSharingMsgType](Outlook.OlSharingMsgType.md)** constant
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

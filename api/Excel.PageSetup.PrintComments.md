@@ -18,9 +18,9 @@ Returns or sets the way comments are printed with the sheet. Read/write  **[xlPr
 
 ## Syntax
 
- _expression_. `PrintComments`
+_expression_. `PrintComments`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks

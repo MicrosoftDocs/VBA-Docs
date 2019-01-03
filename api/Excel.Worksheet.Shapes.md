@@ -18,7 +18,7 @@ Returns a  **[Shapes](Excel.Shapes.md)** collection that represents all the shap
 
 ## Syntax
 
- _expression_. `Shapes`
+_expression_. `Shapes`
 
  _expression_ An expression that returns a [Worksheet](./Excel.Worksheet.md) object.
 

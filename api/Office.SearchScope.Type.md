@@ -18,7 +18,7 @@ Gets a value that corresponds to the type of  **SearchScope** object. The type i
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
  _expression_ Required. A variable that represents a '[SearchScope](Office.SearchScope.md)' object.
 

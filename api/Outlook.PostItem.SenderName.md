@@ -18,9 +18,9 @@ Returns a  **String** indicating the display name of the sender for the Outlook 
 
 ## Syntax
 
- _expression_. `SenderName`
+_expression_. `SenderName`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

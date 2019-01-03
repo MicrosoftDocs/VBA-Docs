@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `DisplayHorizontalScrollBar`
+_expression_. `DisplayHorizontalScrollBar`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Example

@@ -16,9 +16,9 @@ Refreshes the data feed connection.
 
 ## Syntax
 
- _expression_. `Refresh`
+_expression_. `Refresh`
 
- _expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
+_expression_ A variable that represents a [DataFeedConnection object (Excel)](Excel.datafeedconnection.md) object.
 
 
 ## Return value

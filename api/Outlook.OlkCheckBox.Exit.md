@@ -18,9 +18,9 @@ Occurs just after the focus passes from this control to another control on the s
 
 ## Syntax
 
- _expression_. `Exit`( `_Cancel_` )
+_expression_. `Exit`( `_Cancel_` )
 
- _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
 ## Parameters

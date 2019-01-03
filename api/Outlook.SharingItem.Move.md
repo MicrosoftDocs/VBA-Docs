@@ -18,9 +18,9 @@ Moves a  **[SharingItem](Outlook.SharingItem.md)** to a new folder.
 
 ## Syntax
 
- _expression_. `Move`( `_DestFldr_` )
+_expression_. `Move`( `_DestFldr_` )
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Parameters

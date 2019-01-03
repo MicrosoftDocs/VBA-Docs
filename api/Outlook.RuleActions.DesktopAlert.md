@@ -18,9 +18,9 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Act
 
 ## Syntax
 
- _expression_. `DesktopAlert`
+_expression_. `DesktopAlert`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

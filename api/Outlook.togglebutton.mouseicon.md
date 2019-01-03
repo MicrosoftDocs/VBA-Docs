@@ -15,7 +15,7 @@ Returns a  **String** that represents the full path name of a custom icon that i
 
  _expression_. **MouseIcon**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

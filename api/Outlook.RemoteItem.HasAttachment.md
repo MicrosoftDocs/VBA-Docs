@@ -18,9 +18,9 @@ Returns a  **Boolean** that is **True** (default) if the remote item has an atta
 
 ## Syntax
 
- _expression_. `HasAttachment`
+_expression_. `HasAttachment`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## See also

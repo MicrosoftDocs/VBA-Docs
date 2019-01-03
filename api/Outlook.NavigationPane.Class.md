@@ -18,9 +18,9 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 ## Syntax
 
- _expression_. `Class`
+_expression_. `Class`
 
- _expression_ A variable that represents a [NavigationPane](./Outlook.NavigationPane.md) object.
+_expression_ A variable that represents a [NavigationPane](./Outlook.NavigationPane.md) object.
 
 
 ## Remarks

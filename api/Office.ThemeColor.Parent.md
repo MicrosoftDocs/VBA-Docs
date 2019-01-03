@@ -15,7 +15,7 @@ Gets the  **Parent** object for the **ThemeColor** object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [ThemeColor](Office.ThemeColor.md) object.
 

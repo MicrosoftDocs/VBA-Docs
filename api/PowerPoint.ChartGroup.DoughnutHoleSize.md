@@ -20,7 +20,7 @@ Returns or sets the size of the hole in a doughnut chart group. Read/write  **Lo
 
  _expression_. `DoughnutHoleSize`
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Remarks

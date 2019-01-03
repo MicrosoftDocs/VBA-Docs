@@ -16,9 +16,9 @@ Specifies the symbol to use to represent the currency. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Symbol`
+_expression_. `Symbol`
 
- _expression_ A variable that represents a 'ModelFormatCurrency' object.
+_expression_ A variable that represents a 'ModelFormatCurrency' object.
 
 
 ## See also

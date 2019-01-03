@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that represents the distance between the level
 
 ## Syntax
 
- _expression_. `Offset`
+_expression_. `Offset`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks

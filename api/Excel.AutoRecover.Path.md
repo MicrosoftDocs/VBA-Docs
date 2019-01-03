@@ -18,9 +18,9 @@ Returns or sets a  **String** value that represents the complete path to where M
 
 ## Syntax
 
- _expression_. `Path`
+_expression_. `Path`
 
- _expression_ A variable that represents an [AutoRecover](Excel.AutoRecover.md) object.
+_expression_ A variable that represents an [AutoRecover](Excel.AutoRecover.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets the subject for the mailer. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Subject`
+_expression_. `Subject`
 
- _expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
+_expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
 
 
 ## See also

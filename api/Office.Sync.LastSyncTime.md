@@ -21,9 +21,9 @@ Gets the date and time when the local copy of the active document was last synch
 
 ## Syntax
 
- _expression_. `LastSyncTime`
+_expression_. `LastSyncTime`
 
- _expression_ A variable that represents a [Sync](Office.Sync.md) object.
+_expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

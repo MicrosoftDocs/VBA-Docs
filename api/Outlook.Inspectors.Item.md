@@ -18,9 +18,9 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object from the collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
+_expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md) object.
 
 
 ## Parameters

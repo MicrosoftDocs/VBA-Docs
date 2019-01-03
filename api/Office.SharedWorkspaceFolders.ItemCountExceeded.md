@@ -21,9 +21,9 @@ Gets a  **Boolean** value that indicates whether the number of **SharedWorkspace
 
 ## Syntax
 
- _expression_. `ItemCountExceeded`
+_expression_. `ItemCountExceeded`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
+_expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

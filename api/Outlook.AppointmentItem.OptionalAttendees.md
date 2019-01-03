@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the display string of optional attend
 
 ## Syntax
 
- _expression_. `OptionalAttendees`
+_expression_. `OptionalAttendees`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

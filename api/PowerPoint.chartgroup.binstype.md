@@ -18,7 +18,7 @@ Specifies how the horizontal axis of the histogram chart is formatted, by bins t
 
  _expression_. `BinsType`
 
- _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
+_expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.md) object.
 
 
 ## See also

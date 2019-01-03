@@ -20,7 +20,7 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
  _expression_. `ItemFont`
 
- _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
+_expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 
 
 ## Example

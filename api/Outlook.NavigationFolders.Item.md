@@ -18,9 +18,9 @@ Returns a  **[NavigationFolder](Outlook.NavigationFolder.md)** object from the c
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
+_expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
 
 
 ## Parameters

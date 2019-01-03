@@ -18,9 +18,9 @@ Runs a Microsoft Excel 4.0 macro function and then returns the result of the fun
 
 ## Syntax
 
- _expression_. `ExecuteExcel4Macro`( `_String_` )
+_expression_. `ExecuteExcel4Macro`( `_String_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

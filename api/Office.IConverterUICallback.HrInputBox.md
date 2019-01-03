@@ -18,7 +18,7 @@ This feature is only available in the Open XML Format SDK.
 
 ## Syntax
 
- _expression_. `HrInputBox`( `_bstrText_`, `_bstrCaption_`, `_pbstrInput_`, `_fPassword_` )
+_expression_. `HrInputBox`( `_bstrText_`, `_bstrCaption_`, `_pbstrInput_`, `_fPassword_` )
 
  _expression_ An expression that returns a [IConverterUICallback](Office.IConverterUICallback.md) object.
 

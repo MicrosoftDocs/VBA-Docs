@@ -15,9 +15,9 @@ Gets an  **Application** object that represents the container application for th
 
 ## Syntax
 
- _expression_. `Application`
+_expression_. `Application`
 
- _expression_ A variable that represents an [ODSOFilters](Office.ODSOFilters.md) object.
+_expression_ A variable that represents an [ODSOFilters](Office.ODSOFilters.md) object.
 
 
 ## Return value

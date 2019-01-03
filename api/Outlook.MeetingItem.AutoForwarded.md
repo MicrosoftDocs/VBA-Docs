@@ -18,9 +18,9 @@ A  **Boolean** value that returns **True** if the item was automatically forward
 
 ## Syntax
 
- _expression_. `AutoForwarded`
+_expression_. `AutoForwarded`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

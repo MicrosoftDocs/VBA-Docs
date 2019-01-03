@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value, containing a **[Style](Excel.Style.md)** o
 
 ## Syntax
 
- _expression_. `Style`
+_expression_. `Style`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Example

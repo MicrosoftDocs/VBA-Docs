@@ -20,7 +20,7 @@ Arranges all open document windows in the workspace.
 
  _expression_. `Arrange`( `_arrangeStyle_` )
 
- _expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
+_expression_ A variable that represents a [DocumentWindows](./PowerPoint.DocumentWindows.md) object.
 
 
 ## Parameters

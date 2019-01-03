@@ -18,7 +18,7 @@ Denies a sharing request and sends a sharing response to the sender of the  **[S
 
 ## Syntax
 
- _expression_. `Deny`
+_expression_. `Deny`
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

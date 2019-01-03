@@ -18,9 +18,9 @@ Allows the user to set or return the state of an error checking option for a ran
 
 ## Syntax
 
- _expression_. `Ignore`
+_expression_. `Ignore`
 
- _expression_ A variable that represents an [Error](Excel.Error.md) object.
+_expression_ A variable that represents an [Error](Excel.Error.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Occurs when an item in the specified collection is changed.
 
 ## Syntax
 
- _expression_. `ItemChange`( `_Item_` )
+_expression_. `ItemChange`( `_Item_` )
 
- _expression_ A variable that represents a [Results](./Outlook.Results.md) object.
+_expression_ A variable that represents a [Results](./Outlook.Results.md) object.
 
 
 ## Parameters

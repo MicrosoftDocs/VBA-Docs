@@ -18,9 +18,9 @@ Returns the  **[NameSpace](Outlook.NameSpace.md)** object for the current sessio
 
 ## Syntax
 
- _expression_. `Session`
+_expression_. `Session`
 
- _expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
+_expression_ A variable that represents an [OutlookBarPane](./Outlook.OutlookBarPane.md) object.
 
 
 ## Remarks

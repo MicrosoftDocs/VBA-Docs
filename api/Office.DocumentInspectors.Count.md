@@ -18,7 +18,7 @@ Gets the number of items in the  **DocumentInspectors** object. Read-only.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
  _expression_ An expression that returns a [DocumentInspectors](Office.DocumentInspectors.md) object.
 

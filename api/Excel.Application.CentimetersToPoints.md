@@ -18,9 +18,9 @@ Converts a measurement from centimeters to points (one point equals 0.035 centim
 
 ## Syntax
 
- _expression_. `CentimetersToPoints`( `_Centimeters_` )
+_expression_. `CentimetersToPoints`( `_Centimeters_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

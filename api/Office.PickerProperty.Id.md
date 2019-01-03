@@ -18,7 +18,7 @@ Retrieves the unique Id of the associated  **PickerProperty** object. Read-only
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ An expression that returns a [PickerProperty](Office.PickerProperty.md) object.
 

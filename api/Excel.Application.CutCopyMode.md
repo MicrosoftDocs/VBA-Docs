@@ -18,9 +18,9 @@ Returns or sets the status of Cut or Copy mode. Can be  **True** , **False** , o
 
 ## Syntax
 
- _expression_. `CutCopyMode`
+_expression_. `CutCopyMode`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

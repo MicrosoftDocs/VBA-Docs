@@ -18,9 +18,9 @@ Returns a  **Boolean** value indicating if the conditional format is being appli
 
 ## Syntax
 
- _expression_. `PTCondition`
+_expression_. `PTCondition`
 
- _expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
+_expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
 
 
 ## See also

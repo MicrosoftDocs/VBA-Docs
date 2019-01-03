@@ -18,9 +18,9 @@ Returns or sets a  **Long** specifying the height (in pixels) of the inspector w
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## See also

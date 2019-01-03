@@ -18,9 +18,9 @@ Returns the  **[WebPageFonts](Office.WebPageFonts.md)** collection representing 
 
 ## Syntax
 
- _expression_. `Fonts`
+_expression_. `Fonts`
 
- _expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
+_expression_ A variable that represents a [DefaultWebOptions](Excel.DefaultWebOptions.md) object.
 
 
 ## Example

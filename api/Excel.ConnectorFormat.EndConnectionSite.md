@@ -18,9 +18,9 @@ Returns an integer that specifies the connection site that the end of a connecto
 
 ## Syntax
 
- _expression_. `EndConnectionSite`
+_expression_. `EndConnectionSite`
 
- _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
 
 
 ## Remarks

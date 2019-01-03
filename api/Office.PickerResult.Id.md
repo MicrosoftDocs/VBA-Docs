@@ -18,7 +18,7 @@ Retrieves the unique Id of the associated  **PickerResult** object. Read-only
 
 ## Syntax
 
- _expression_. `Id`
+_expression_. `Id`
 
  _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 

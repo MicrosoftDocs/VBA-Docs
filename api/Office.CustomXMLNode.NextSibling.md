@@ -18,7 +18,7 @@ Gets the next sibling node (element, comment, or processing instruction) of the 
 
 ## Syntax
 
- _expression_. `NextSibling`
+_expression_. `NextSibling`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

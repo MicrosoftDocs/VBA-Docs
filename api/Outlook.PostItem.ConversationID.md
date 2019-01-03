@@ -18,9 +18,9 @@ Returns a  **String** that uniquely identifies a **[Conversation](Outlook.Conver
 
 ## Syntax
 
- _expression_. `ConversationID`
+_expression_. `ConversationID`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

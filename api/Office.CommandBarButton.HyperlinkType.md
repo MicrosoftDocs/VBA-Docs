@@ -7,28 +7,28 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.HyperlinkType
 ms.assetid: 5769ce22-a9e8-3eb2-919f-a3d016cf0706
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarButton.HyperlinkType property (Office)
 
-Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents the type of hyperlink associated with the specified command bar button. Read/write.
+Sets or gets a **[msoCommandBarButtonHyperlinkType](office.msocommandbarbuttonhyperlinktype.md)** constant that represents the type of hyperlink associated with the specified command bar button. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `HyperlinkType`
+_expression_.**HyperlinkType**
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Example
 
-This example checks the  **HyperlinkType** property for the specified command bar button on the command bar named "Custom.". If **HyperlinkType** is set to **msoCommandBarButtonHyperlinkNone**, the example sets the property to **msoCommandBarButtonHyperlinkOpen** and sets the URL to www.microsoft.com.
+This example checks the **HyperlinkType** property for the specified command bar button on the command bar named **Custom**. If **HyperlinkType** is set to **msoCommandBarButtonHyperlinkNone**, the example sets the property to **msoCommandBarButtonHyperlinkOpen** and sets the URL to www.microsoft.com.
 
 
 ```vb
@@ -51,10 +51,5 @@ End If
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

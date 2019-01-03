@@ -16,9 +16,9 @@ Transfers the contents of the Clipboard to an object.
 
 ## Syntax
 
- _expression_. **Paste**
+_expression_. **Paste**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

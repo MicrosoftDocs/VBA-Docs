@@ -18,9 +18,9 @@ Returns a  **[VPageBreaks](Excel.Sheets.VPageBreaks.md)** collection that repres
 
 ## Syntax
 
- _expression_. `VPageBreaks`
+_expression_. `VPageBreaks`
 
- _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
+_expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 
 ## See also

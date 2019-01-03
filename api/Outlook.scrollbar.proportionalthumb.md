@@ -16,9 +16,9 @@ Returns or sets a  **Boolean** that specifies whether the size of the scroll box
 
 ## Syntax
 
- _expression_. **ProportionalThumb**
+_expression_. **ProportionalThumb**
 
- _expression_ A variable that represents a  **ScrollBar** object.
+_expression_ A variable that represents a  **ScrollBar** object.
 
 
 ## Remarks

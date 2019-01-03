@@ -18,9 +18,9 @@ Returns or sets the name of the object, in the language of the user. Read/write 
 
 ## Syntax
 
- _expression_. `NameLocal`
+_expression_. `NameLocal`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 ## Syntax
 
- _expression_. `ItemProperties`
+_expression_. `ItemProperties`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

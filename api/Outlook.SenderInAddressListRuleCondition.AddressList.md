@@ -18,9 +18,9 @@ Returns or sets an  **[AddressList](Outlook.AddressList.md)** object that repres
 
 ## Syntax
 
- _expression_. `AddressList`
+_expression_. `AddressList`
 
- _expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
+_expression_ A variable that represents a [SenderInAddressListRuleCondition](./Outlook.SenderInAddressListRuleCondition.md) object.
 
 
 ## Remarks

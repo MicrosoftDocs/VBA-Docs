@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the tracking status date and time for the
 
 ## Syntax
 
- _expression_. `TrackingStatusTime`
+_expression_. `TrackingStatusTime`
 
- _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
+_expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) object.
 
 
 ## See also

@@ -18,7 +18,7 @@ Gets a value identifying an installed signature provider add-in. Read-only.
 
 ## Syntax
 
- _expression_. `SignatureProvider`
+_expression_. `SignatureProvider`
 
  _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 

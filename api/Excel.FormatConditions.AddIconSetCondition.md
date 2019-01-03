@@ -18,9 +18,9 @@ Returns a new  **[IconSetCondition](Excel.IconSetCondition.md)** object which re
 
 ## Syntax
 
- _expression_. `AddIconSetCondition`
+_expression_. `AddIconSetCondition`
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Return value

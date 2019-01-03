@@ -18,9 +18,9 @@ Gets or sets a  **String** that represents the text to compare in the query filt
 
 ## Syntax
 
- _expression_. `CompareTo`
+_expression_. `CompareTo`
 
- _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Example

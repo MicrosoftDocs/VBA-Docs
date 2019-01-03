@@ -1,5 +1,5 @@
 ---
-title: CommandBarButton.Click Event (Office)
+title: CommandBarButton.Click event (Office)
 keywords: vbaof11.chm230001
 f1_keywords:
 - vbaof11.chm230001
@@ -7,42 +7,40 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.Click
 ms.assetid: d4f970e6-8c37-c5cc-a0b4-4efe213a2e05
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
-# CommandBarButton.Click Event (Office)
+# CommandBarButton.Click event (Office)
 
-Occurs when the user clicks a  **CommandBarButton** object.
+Occurs when the user clicks a **CommandBarButton** object.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Click`( `_Ctrl_`, `_CancelDefault_` )
+_expression_.**Click**(_Ctrl_, _CancelDefault_)
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Ctrl_|Required|**CommandBarButton**|Represents a CommandBar button|
-| _CancelDefault_|Required|**Boolean**|Is  **False** if the default behavior associated with the CommandBarButton controls occurs, unless it's canceled by another process or add-in.|
+| _Ctrl_|Required|**CommandBarButton**|Represents a **CommandBar** button.|
+| _CancelDefault_|Required|**Boolean**|Is **False** if the default behavior associated with the **CommandBarButton** controls occurs, unless it's canceled by another process or add-in.|
 
 ## Remarks
 
-The  **Click** event is recognized by the **CommandBarButton** object. To return the **Click** event for a particular **CommandBarButton** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the control.
+The **Click** event is recognized by the **CommandBarButton** object. To return the **Click** event for a particular **CommandBarButton** control, use the **WithEvents** keyword to declare a variable, and then set the variable to the control.
 
 
 ## Example
 
-The following example creates a command bar button on the  **File** menu of the host application that enables the user to save a workbook as a comma-separated value file. (This example works in all applications, but the context of saving as CSV is applicable to Microsoft Excel.)
+The following example creates a command bar button on the **File** menu of the host application that enables the user to save a workbook as a comma-separated value file. (This example works in all applications, but the context of saving as CSV is applicable to Microsoft Excel.)
 
 
 ```vb
@@ -82,10 +80,5 @@ End Sub
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

@@ -18,9 +18,9 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the comment as
 
 ## Syntax
 
- _expression_. `Comment`
+_expression_. `Comment`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## See also

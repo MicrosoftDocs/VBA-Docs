@@ -18,9 +18,9 @@ Opens two windows in side-by-side mode. Returns a  **Boolean** value.
 
 ## Syntax
 
- _expression_. `CompareSideBySideWith`( `_WindowName_` )
+_expression_. `CompareSideBySideWith`( `_WindowName_` )
 
- _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
+_expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns a  **String** representing the **[EntryID](Outlook.Recipient.EntryID.md)
 
 ## Syntax
 
- _expression_. `ReceivedOnBehalfOfEntryID`
+_expression_. `ReceivedOnBehalfOfEntryID`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

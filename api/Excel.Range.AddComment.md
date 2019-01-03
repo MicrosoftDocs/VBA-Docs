@@ -18,9 +18,9 @@ Adds a comment to the range.
 
 ## Syntax
 
- _expression_. `AddComment`( `_Text_` )
+_expression_. `AddComment`( `_Text_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

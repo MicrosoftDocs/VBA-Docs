@@ -18,9 +18,9 @@ Creates another instance of an object.
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
- _expression_ A variable that represents a '[RemoteItem](Outlook.RemoteItem.md)' object.
+_expression_ A variable that represents a '[RemoteItem](Outlook.RemoteItem.md)' object.
 
 
 ## See also

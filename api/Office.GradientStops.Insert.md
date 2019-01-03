@@ -15,7 +15,7 @@ Adds a stop to a gradient.
 
 ## Syntax
 
- _expression_. `Insert`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_` )
+_expression_. `Insert`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_` )
 
  _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets an  **[OlMeetingStatus](Outlook.OlMeetingStatus.md)** constant s
 
 ## Syntax
 
- _expression_. `MeetingStatus`
+_expression_. `MeetingStatus`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Remarks

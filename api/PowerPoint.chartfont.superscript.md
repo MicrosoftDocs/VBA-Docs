@@ -18,7 +18,7 @@ ms.prod: powerpoint
 
  _expression_. `Superscript`
 
- _expression_ A variable that represents a [ChartFont](./PowerPoint.ChartFont.md) object.
+_expression_ A variable that represents a [ChartFont](./PowerPoint.ChartFont.md) object.
 
 
 ## Property value

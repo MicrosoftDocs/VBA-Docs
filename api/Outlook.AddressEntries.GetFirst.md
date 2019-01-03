@@ -18,9 +18,9 @@ Returns the first object in the  **[AddressEntries](Outlook.AddressEntries.md)**
 
 ## Syntax
 
- _expression_. `GetFirst`
+_expression_. `GetFirst`
 
- _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
+_expression_ A variable that represents an [AddressEntries](./Outlook.AddressEntries.md) object.
 
 
 ## Return value

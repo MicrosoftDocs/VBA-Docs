@@ -18,9 +18,9 @@ Returns or sets whether to display axis field buttons on a PivotChart. Read/writ
 
 ## Syntax
 
- _expression_. `ShowAxisFieldButtons`
+_expression_. `ShowAxisFieldButtons`
 
- _expression_ A variable that represents a '[Chart](Excel.Chart(object).md)' object.
+_expression_ A variable that represents a '[Chart](Excel.Chart(object).md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns or sets a value that determines whether an entire Web page, all tables o
 
 ## Syntax
 
- _expression_. `WebSelectionType`
+_expression_. `WebSelectionType`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks

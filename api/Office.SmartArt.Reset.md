@@ -15,7 +15,7 @@ Resets the SmartArt graphic to its original state.
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
  _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 

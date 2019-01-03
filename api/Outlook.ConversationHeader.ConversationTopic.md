@@ -18,9 +18,9 @@ Returns a  **String** value that represents the topic of the conversation thread
 
 ## Syntax
 
- _expression_. `ConversationTopic`
+_expression_. `ConversationTopic`
 
- _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
+_expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 
 
 ## Remarks

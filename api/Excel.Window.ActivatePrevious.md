@@ -18,9 +18,9 @@ Activates the specified window and then activates the window at the back of the 
 
 ## Syntax
 
- _expression_. `ActivatePrevious`
+_expression_. `ActivatePrevious`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Return value

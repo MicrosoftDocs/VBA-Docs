@@ -15,9 +15,9 @@ Occurs before the item is automatically saved by Outlook.
 
 ## Syntax
 
- _expression_. `BeforeAutoSave`( `_Cancel_` , )
+_expression_. `BeforeAutoSave`( `_Cancel_` , )
 
- _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
+_expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) object.
 
 
 ## Parameters

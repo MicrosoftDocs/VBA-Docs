@@ -17,12 +17,12 @@ ClearContents method as it applies to the  **ChartArea** object.
 
 Clears the data from a chart but leaves the formatting.
 
- _expression_. `ClearContents`
+_expression_. `ClearContents`
 
  _expression_ Required. An expression that returns one of the above objects.
 ClearContents method as it applies to the  **Range** object.
 Clears the formulas from the range.
- _expression_. **ClearContents**
+_expression_. **ClearContents**
  _expression_ Required. An expression that returns one of the above objects.
 
 ## Example

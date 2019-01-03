@@ -18,9 +18,9 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
+_expression_ A variable that represents an [IconView](./Outlook.IconView.md) object.
 
 
 ## See also

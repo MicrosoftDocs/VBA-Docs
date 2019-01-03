@@ -18,9 +18,9 @@ Returns or sets the number of minutes between refreshes. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `RefreshPeriod`
+_expression_. `RefreshPeriod`
 
- _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
+_expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) object.
 
 
 ## Remarks

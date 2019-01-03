@@ -18,7 +18,7 @@ Gets a  **Boolean** value indicating whether the signature was successfully vali
 
 ## Syntax
 
- _expression_. `IsValid`
+_expression_. `IsValid`
 
  _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 

@@ -18,9 +18,9 @@ Returns the number of the first row of the first area in the range. Read-only  *
 
 ## Syntax
 
- _expression_. `Row`
+_expression_. `Row`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Example

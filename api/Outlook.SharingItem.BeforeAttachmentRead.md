@@ -15,7 +15,7 @@ Occurs before an attachment associated with an instance of the parent object is 
 
 ## Syntax
 
- _expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentRead`( `_Attachment_` , `_Cancel_` )
 
  _expression_ An expression that returns a [SharingItem](./Outlook.SharingItem.md) object.
 

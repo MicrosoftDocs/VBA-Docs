@@ -18,9 +18,9 @@ Returns the  **SortFields** object that represents the collection of sort fields
 
 ## Syntax
 
- _expression_. `SortFields`
+_expression_. `SortFields`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 
 ## See also

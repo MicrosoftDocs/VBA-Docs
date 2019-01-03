@@ -18,9 +18,9 @@ Returns a  **[HiLoLines](Excel.HiLoLines(object).md)** object that represents th
 
 ## Syntax
 
- _expression_. `HiLoLines`
+_expression_. `HiLoLines`
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Example

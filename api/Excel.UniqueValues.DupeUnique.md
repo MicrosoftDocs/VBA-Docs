@@ -18,9 +18,9 @@ Returns or sets one of the constants of the  **[xlDupeUnique](Excel.XlDupeUnique
 
 ## Syntax
 
- _expression_. `DupeUnique`
+_expression_. `DupeUnique`
 
- _expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
 
 
 ## See also

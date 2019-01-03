@@ -18,9 +18,9 @@ Returns a  **Long** value that represents the number of decimal places to show f
 
 ## Syntax
 
- _expression_. `DecimalPlaces`
+_expression_. `DecimalPlaces`
 
- _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
+_expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.md) object.
 
 
 ## Remarks

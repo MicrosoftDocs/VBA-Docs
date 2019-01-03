@@ -18,9 +18,9 @@ Returns a constant,  **olRuleActionRedirect** , from the **[OlRuleActionType](Ou
 
 ## Syntax
 
- _expression_. `ActionType`
+_expression_. `ActionType`
 
- _expression_ A variable that represents a [SendRuleAction](./Outlook.SendRuleAction.md) object.
+_expression_ A variable that represents a [SendRuleAction](./Outlook.SendRuleAction.md) object.
 
 
 ## Remarks

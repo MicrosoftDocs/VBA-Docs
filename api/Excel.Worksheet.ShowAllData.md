@@ -18,9 +18,9 @@ Makes all rows of the currently filtered list visible. If AutoFilter is in use, 
 
 ## Syntax
 
- _expression_. `ShowAllData`
+_expression_. `ShowAllData`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Example

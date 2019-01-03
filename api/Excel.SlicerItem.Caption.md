@@ -18,9 +18,9 @@ Returns the label text for the slicer item. Read-only.
 
 ## Syntax
 
- _expression_. `Caption`
+_expression_. `Caption`
 
- _expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
+_expression_ A variable that represents a '[SlicerItem](Excel.SlicerItem.md)' object.
 
 
 ## Return value

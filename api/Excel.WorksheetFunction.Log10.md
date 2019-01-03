@@ -18,9 +18,9 @@ Returns the base-10 logarithm of a number.
 
 ## Syntax
 
- _expression_. `Log10`( `_Arg1_` )
+_expression_. `Log10`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

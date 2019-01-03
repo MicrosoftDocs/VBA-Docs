@@ -13,9 +13,9 @@ Returns or sets an  **Integer** that specifies the type of pointer displayed whe
 
 ## Syntax
 
- _expression_. **MousePointer**
+_expression_. **MousePointer**
 
- _expression_ A variable that represents a  **Label** object.
+_expression_ A variable that represents a  **Label** object.
 
 
 ## Remarks

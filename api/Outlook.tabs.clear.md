@@ -13,9 +13,9 @@ Removes all tabs from a  **[Tabs](Outlook.tabs.md)** collection.
 
 ## Syntax
 
- _expression_. **Clear**
+_expression_. **Clear**
 
- _expression_ A variable that represents a  **Tabs** object.
+_expression_ A variable that represents a  **Tabs** object.
 
 
 ## Remarks

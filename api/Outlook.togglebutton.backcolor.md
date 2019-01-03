@@ -15,7 +15,7 @@ Returns or sets a  **Long** that specifies the background color of the object. R
 
  _expression_. **BackColor**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

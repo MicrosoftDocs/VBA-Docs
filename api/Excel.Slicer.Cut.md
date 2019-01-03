@@ -18,9 +18,9 @@ Cuts the specified slicer and copies it to the clipboard.
 
 ## Syntax
 
- _expression_. `Cut`
+_expression_. `Cut`
 
- _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
+_expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets the standard font size, in points. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `StandardFontSize`
+_expression_. `StandardFontSize`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

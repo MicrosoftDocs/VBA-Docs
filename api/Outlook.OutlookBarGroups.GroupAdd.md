@@ -18,9 +18,9 @@ Occurs when a new group has been added to the  **Shortcuts** pane.
 
 ## Syntax
 
- _expression_. `GroupAdd`( `_NewGroup_` )
+_expression_. `GroupAdd`( `_NewGroup_` )
 
- _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
+_expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
 
 
 ## Parameters

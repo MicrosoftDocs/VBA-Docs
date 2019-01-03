@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that indicates if Microsoft Excel wraps the
 
 ## Syntax
 
- _expression_. `WrapText`
+_expression_. `WrapText`
 
- _expression_ A variable that represents a [Style](./Excel.Style.md) object.
+_expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 
 ## See also

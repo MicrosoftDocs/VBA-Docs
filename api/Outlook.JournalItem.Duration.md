@@ -18,9 +18,9 @@ Returns or sets a  **Long** indicating the duration (in minutes) of the **[Journ
 
 ## Syntax
 
- _expression_. `Duration`
+_expression_. `Duration`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## See also

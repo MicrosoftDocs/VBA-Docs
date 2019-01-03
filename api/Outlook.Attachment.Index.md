@@ -18,9 +18,9 @@ Returns a  **Long** indicating the position of the object within the collection.
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
+_expression_ A variable that represents an [Attachment](./Outlook.Attachment.md) object.
 
 
 ## Remarks

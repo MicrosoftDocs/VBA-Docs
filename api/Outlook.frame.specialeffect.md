@@ -13,9 +13,9 @@ Returns or sets an  **Integer** that specifies the visual appearance of an objec
 
 ## Syntax
 
- _expression_. **SpecialEffect**
+_expression_. **SpecialEffect**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

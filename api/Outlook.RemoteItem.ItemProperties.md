@@ -18,9 +18,9 @@ Returns an  **[ItemProperties](Outlook.ItemProperties.md)** collection that repr
 
 ## Syntax
 
- _expression_. `ItemProperties`
+_expression_. `ItemProperties`
 
- _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
+_expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) object.
 
 
 ## Remarks

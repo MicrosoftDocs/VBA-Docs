@@ -16,9 +16,9 @@ If any of the cells in the range are a Linked data type such as [Stocks or Geogr
 
 ## Syntax
 
- _expression_. `DataTypeToText`
+_expression_. `DataTypeToText`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 ## Remarks
 

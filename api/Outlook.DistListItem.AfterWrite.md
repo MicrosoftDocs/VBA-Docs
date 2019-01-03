@@ -15,9 +15,9 @@ Occurs after Microsoft Outlook has saved the item.
 
 ## Syntax
 
- _expression_. `AfterWrite`
+_expression_. `AfterWrite`
 
- _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
+_expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.md) object.
 
 
 ## Remarks

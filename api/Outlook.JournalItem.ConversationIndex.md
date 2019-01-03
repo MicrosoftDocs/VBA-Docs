@@ -18,9 +18,9 @@ Returns a  **String** that indicates the relative position of the item within th
 
 ## Syntax
 
- _expression_. `ConversationIndex`
+_expression_. `ConversationIndex`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

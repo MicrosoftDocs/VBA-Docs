@@ -13,9 +13,9 @@ Returns or sets an  **Integer** that specifies whether cycling includes controls
 
 ## Syntax
 
- _expression_. **Cycle**
+_expression_. **Cycle**
 
- _expression_ A variable that represents a  **Page** object.
+_expression_ A variable that represents a  **Page** object.
 
 
 ## Remarks

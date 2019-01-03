@@ -92,7 +92,7 @@ Returns or sets the chart type. Read/write XlChartType .
 | **xlXYScatterSmooth**. Scatter with SmoothedLines|
 | **xlXYScatterSmoothNoMarkers**. Scatter with Smoothed Lines and No Data Markers|
 
- _expression_. `ChartType`
+_expression_. `ChartType`
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

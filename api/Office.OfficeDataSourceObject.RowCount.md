@@ -18,9 +18,9 @@ Gets a  **Long** that represents the number of records in the specified data sou
 
 ## Syntax
 
- _expression_. `RowCount`
+_expression_. `RowCount`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
+_expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

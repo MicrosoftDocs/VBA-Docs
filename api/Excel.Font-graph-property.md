@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Returns a Font object that represents the font of the specified object. Read/write Font object only for the DataSheet object, for all other objects, read-only Font object.
 
- _expression_. `Font`
+_expression_. `Font`
 
  _expression_ Required. An expression that returns one of the above objects.
 

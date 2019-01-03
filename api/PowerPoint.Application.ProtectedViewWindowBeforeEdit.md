@@ -20,7 +20,7 @@ Occurs immediately before editing is enabled on the document in the specified pr
 
  _expression_. `ProtectedViewWindowBeforeEdit`( `_ProtViewWindow_`, `_Cancel_` )
 
- _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
+_expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 
 
 ## Parameters

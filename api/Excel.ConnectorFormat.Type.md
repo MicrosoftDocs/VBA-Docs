@@ -18,9 +18,9 @@ Returns or sets a  **[MsoConnectorType](Office.MsoConnectorType.md)** value that
 
 ## Syntax
 
- _expression_. `Type`
+_expression_. `Type`
 
- _expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
 
 
 ## See also

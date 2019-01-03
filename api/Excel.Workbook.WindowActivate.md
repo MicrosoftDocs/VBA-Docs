@@ -18,9 +18,9 @@ Occurs when any workbook window is activated.
 
 ## Syntax
 
- _expression_. `WindowActivate`( `_Wn_` )
+_expression_. `WindowActivate`( `_Wn_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

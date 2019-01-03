@@ -18,9 +18,9 @@ Adds the specified  **[Folder](Outlook.Folder.md)** , as a **[NavigationFolder](
 
 ## Syntax
 
- _expression_. `Add`( `_Folder_` )
+_expression_. `Add`( `_Folder_` )
 
- _expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
+_expression_ A variable that represents a [NavigationFolders](./Outlook.NavigationFolders.md) object.
 
 
 ## Parameters

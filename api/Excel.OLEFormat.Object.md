@@ -18,9 +18,9 @@ Returns the OLE Automation object associated with this OLE object. Read-only  **
 
 ## Syntax
 
- _expression_. `Object`
+_expression_. `Object`
 
- _expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
+_expression_ A variable that represents an [OLEFormat](Excel.OLEFormat.md) object.
 
 
 ## Example

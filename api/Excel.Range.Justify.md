@@ -18,9 +18,9 @@ Rearranges the text in a range so that it fills the range evenly.
 
 ## Syntax
 
- _expression_. `Justify`
+_expression_. `Justify`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

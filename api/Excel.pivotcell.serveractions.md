@@ -16,9 +16,9 @@ Represents a collection of  _actions_ consisting of OLAP-defined actions which c
 
 ## Syntax
 
- _expression_. `ServerActions`
+_expression_. `ServerActions`
 
- _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
+_expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object.
 
 
 ## Remarks

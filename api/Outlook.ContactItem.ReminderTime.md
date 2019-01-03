@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the date and time at which the reminder s
 
 ## Syntax
 
- _expression_. `ReminderTime`
+_expression_. `ReminderTime`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

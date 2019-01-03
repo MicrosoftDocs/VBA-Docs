@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the FTP site entry for the contact. R
 
 ## Syntax
 
- _expression_. `FTPSite`
+_expression_. `FTPSite`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

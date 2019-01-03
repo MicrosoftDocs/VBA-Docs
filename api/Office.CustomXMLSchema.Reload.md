@@ -18,7 +18,7 @@ Reloads a schema from a file.
 
 ## Syntax
 
- _expression_. `Reload`
+_expression_. `Reload`
 
  _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 

@@ -18,9 +18,9 @@ Displays a modal dialog box that provides detailed information about an  **[Exch
 
 ## Syntax
 
- _expression_. `Details`( `_HWnd_` )
+_expression_. `Details`( `_HWnd_` )
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Parameters

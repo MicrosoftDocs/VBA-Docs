@@ -18,7 +18,7 @@ Returns or sets the maximum value of a scroll bar or spinner range. The scroll b
 
 ## Syntax
 
- _expression_. `Max`
+_expression_. `Max`
 
  _expression_ An expression that returns a [ControlFormat](Excel.ControlFormat.md) object.
 

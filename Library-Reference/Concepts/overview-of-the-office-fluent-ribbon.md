@@ -1,12 +1,12 @@
 ---
-title: Overview of the Office Fluent Ribbon
+title: Overview of the Office Fluent ribbon
 ms.prod: office
 ms.assetid: 773c202c-f5f9-c4f6-f833-0dd56eb21a8f
 ms.date: 01/02/2019
 ---
 
 
-# Overview of the Office Fluent Ribbon
+# Overview of the Office Fluent ribbon
 
 > [!NOTE] 
 > The use of **CommandBars** in some Microsoft Office applications has been superseded by the new ribbon component of the Office Fluent user interface. 
@@ -187,4 +187,4 @@ The ribbon gives users a flexible way to work with Office applications. You use 
 
 - [Customize the Office Fluent ribbon by using a managed COM add-in](customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
 - [Customize the Office Fluent ribbon by using an Open XML formats file](customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
-- [Customize the Office Fluent Ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))
+- [Customize the Office Fluent ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))

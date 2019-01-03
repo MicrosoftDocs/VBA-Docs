@@ -13,9 +13,9 @@ Returns or sets an  **Integer** that indicates how a **[ListBox](Outlook.listbox
 
 ## Syntax
 
- _expression_. **MatchEntry**
+_expression_. **MatchEntry**
 
- _expression_ A variable that represents a  **ListBox** object.
+_expression_ A variable that represents a  **ListBox** object.
 
 
 ## Remarks

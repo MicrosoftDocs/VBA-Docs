@@ -18,7 +18,7 @@ Inserts a new node just before the context node in the tree.
 
 ## Syntax
 
- _expression_. `InsertNodeBefore`( `_Name_`, `_NamespaceURI_`, `_NodeType_`, `_NodeValue_`, `_NextSibling_` )
+_expression_. `InsertNodeBefore`( `_Name_`, `_NamespaceURI_`, `_NodeType_`, `_NodeValue_`, `_NextSibling_` )
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

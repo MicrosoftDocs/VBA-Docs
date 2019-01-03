@@ -18,9 +18,9 @@ Allows the user to place a vertical accent bar to separate the callout text from
 
 ## Syntax
 
- _expression_. `Accent`
+_expression_. `Accent`
 
- _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
+_expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 
 
 ## Remarks

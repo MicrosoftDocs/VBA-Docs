@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that indicates if the control is allowed to funct
 
 ## Syntax
 
- _expression_. `Enabled`
+_expression_. `Enabled`
 
- _expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
+_expression_ A variable that represents an [OlkFrameHeader](./Outlook.OlkFrameHeader.md) object.
 
 
 ## Remarks

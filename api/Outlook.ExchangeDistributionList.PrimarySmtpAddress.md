@@ -18,9 +18,9 @@ Returns a  **String** representing the primary Simple Mail Transfer Protocol (SM
 
 ## Syntax
 
- _expression_. `PrimarySmtpAddress`
+_expression_. `PrimarySmtpAddress`
 
- _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
+_expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks

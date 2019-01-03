@@ -15,9 +15,9 @@ Occurs before an attachment is added to an instance of the parent object.
 
 ## Syntax
 
- _expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
+_expression_. `BeforeAttachmentAdd`( `_Attachment_` , `_Cancel_` )
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Parameters

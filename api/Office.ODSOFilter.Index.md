@@ -18,9 +18,9 @@ Gets a  **Long** representing the index number for an **ODSOFilter** object in t
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Return value

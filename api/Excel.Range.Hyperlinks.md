@@ -18,9 +18,9 @@ Returns a  **[Hyperlinks](Excel.Hyperlinks.md)** collection that represents the 
 
 ## Syntax
 
- _expression_. `Hyperlinks`
+_expression_. `Hyperlinks`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## See also

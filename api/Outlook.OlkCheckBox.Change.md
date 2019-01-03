@@ -18,9 +18,9 @@ Occurs when the  **[Value](Outlook.OlkCheckBox.Value.md)** property changes.
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
+_expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.md) object.
 
 
 ## See also

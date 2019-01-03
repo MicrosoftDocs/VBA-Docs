@@ -18,9 +18,9 @@ Exports the contents of cells mapped to the specified  **[XmlMap](Excel.XmlMap.m
 
 ## Syntax
 
- _expression_. `ExportXml`( `_Data_` )
+_expression_. `ExportXml`( `_Data_` )
 
- _expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
+_expression_ A variable that represents a [XmlMap](./Excel.XmlMap.md) object.
 
 
 ## Parameters

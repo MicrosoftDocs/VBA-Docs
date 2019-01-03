@@ -18,9 +18,9 @@ Returns or sets one of the constants of the  **[xlFormatConditionOperator](Excel
 
 ## Syntax
 
- _expression_. `Operator`
+_expression_. `Operator`
 
- _expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
+_expression_ A variable that represents an [IconCriterion](Excel.IconCriterion.md) object.
 
 
 ## Remarks

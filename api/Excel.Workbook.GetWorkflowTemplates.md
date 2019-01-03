@@ -18,9 +18,9 @@ Returns the collection of  **[WorkflowTemplate](Office.WorkflowTemplate.md)** ob
 
 ## Syntax
 
- _expression_. `GetWorkflowTemplates`
+_expression_. `GetWorkflowTemplates`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Return value

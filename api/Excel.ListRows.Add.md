@@ -18,9 +18,9 @@ Adds a new row to the table represented by the specified [ListObject](Excel.List
 
 ## Syntax
 
- _expression_. `Add`( `_Position_` , `_AlwaysInsert_` )
+_expression_. `Add`( `_Position_` , `_AlwaysInsert_` )
 
- _expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
+_expression_ A variable that represents a [ListRows](Excel.ListRows.md) object.
 
 
 ## Parameters

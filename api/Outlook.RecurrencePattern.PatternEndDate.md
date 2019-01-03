@@ -18,9 +18,9 @@ Returns or sets a  **Date** indicating the end date for the recurrence pattern. 
 
 ## Syntax
 
- _expression_. `PatternEndDate`
+_expression_. `PatternEndDate`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

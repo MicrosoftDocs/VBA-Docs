@@ -18,9 +18,9 @@ Occurs after the user releases a mouse button that has been pressed on the contr
 
 ## Syntax
 
- _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
+_expression_. `MouseUp`( `_Button_` , `_Shift_` , `_X_` , `_Y_` )
 
- _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ## Parameters

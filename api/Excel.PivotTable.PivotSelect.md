@@ -18,9 +18,9 @@ Selects part of a PivotTable report.
 
 ## Syntax
 
- _expression_. `PivotSelect`( `_Name_` , `_Mode_` , `_UseStandardName_` )
+_expression_. `PivotSelect`( `_Name_` , `_Mode_` , `_UseStandardName_` )
 
- _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters

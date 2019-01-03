@@ -18,9 +18,9 @@ Returns or sets a  **Long** specifying the count for which the recurrence patter
 
 ## Syntax
 
- _expression_. `Instance`
+_expression_. `Instance`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

@@ -16,9 +16,9 @@ Returns the parent property for the [PreviewPane](Outlook.previewpane.md) Object
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a 'PreviewPane' object.
+_expression_ A variable that represents a 'PreviewPane' object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns a **[Range](Excel.Range(object).md)** object that represents all the row
 
 ## Syntax
 
- _expression_. `Rows`
+_expression_. `Rows`
 
- _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
 
 
 ## Remarks

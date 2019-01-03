@@ -18,9 +18,9 @@ Returns a  **[PlotArea](Excel.PlotArea(object).md)** object that represents the 
 
 ## Syntax
 
- _expression_. `PlotArea`
+_expression_. `PlotArea`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Example

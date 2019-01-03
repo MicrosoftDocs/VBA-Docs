@@ -18,7 +18,7 @@ Gets a  **CustomXMLValidationError** object from the **CustomXMLValidationErrors
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 

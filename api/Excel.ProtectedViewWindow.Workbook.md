@@ -18,9 +18,9 @@ Returns an object that represents the workbook that is open in the specified  **
 
 ## Syntax
 
- _expression_. `Workbook`
+_expression_. `Workbook`
 
- _expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
+_expression_ A variable that represents a '[ProtectedViewWindow](Excel.ProtectedViewWindow.md)' object.
 
 
 ## Return value

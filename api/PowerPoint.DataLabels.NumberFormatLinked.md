@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. `NumberFormatLinked`
 
- _expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
+_expression_ A variable that represents a '[DataLabels](PowerPoint.DataLabels.md)' object.
 
 
 ## See also

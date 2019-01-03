@@ -16,9 +16,9 @@ Returns a single object from the [ModelColumnNames object (Excel)](Excel.modelco
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
+_expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_. `BuiltIn`
 
- _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) object.
 
 
 ## See also

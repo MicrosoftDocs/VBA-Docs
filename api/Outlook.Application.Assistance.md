@@ -18,9 +18,9 @@ Returns an  **[IAssistance](Office.IAssistance.md)** object used to invoke help.
 
 ## Syntax
 
- _expression_. `Assistance`
+_expression_. `Assistance`
 
- _expression_ A variable that represents an [Application](./Outlook.Application.md) object.
+_expression_ A variable that represents an [Application](./Outlook.Application.md) object.
 
 
 ## See also

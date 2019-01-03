@@ -15,9 +15,9 @@ Returns or sets the angle of the extrusion lights set on a  **ThreeDFormat** obj
 
 ## Syntax
 
- _expression_. `LightAngle`
+_expression_. `LightAngle`
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## See also

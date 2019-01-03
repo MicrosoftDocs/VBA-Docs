@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the file name of the icon to be displ
 
 ## Syntax
 
- _expression_. `Icon`
+_expression_. `Icon`
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## See also

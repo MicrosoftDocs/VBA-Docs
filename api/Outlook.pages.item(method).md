@@ -13,9 +13,9 @@ Returns a member of a collection, either by position or by name.
 
 ## Syntax
 
- _expression_. **Item**(**_varg_**)
+_expression_. **Item**(**_varg_**)
 
- _expression_ A variable that represents a  **Pages** object.
+_expression_ A variable that represents a  **Pages** object.
 
 
 ## Parameters

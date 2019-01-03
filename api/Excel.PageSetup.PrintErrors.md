@@ -18,9 +18,9 @@ Sets or returns an  **[xlPrintErrors](Excel.XlPrintErrors.md)** contstant specif
 
 ## Syntax
 
- _expression_. `PrintErrors`
+_expression_. `PrintErrors`
 
- _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
+_expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 
 
 ## Remarks

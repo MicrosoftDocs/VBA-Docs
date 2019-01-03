@@ -18,9 +18,9 @@ Parses a range of data and breaks it into multiple cells. Distributes the conten
 
 ## Syntax
 
- _expression_. `Parse`( `_ParseLine_` , `_Destination_` )
+_expression_. `Parse`( `_ParseLine_` , `_Destination_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

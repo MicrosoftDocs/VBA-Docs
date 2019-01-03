@@ -18,9 +18,9 @@ Indicates if the PivotField is currently visible in the PivotTable or not. Read-
 
 ## Syntax
 
- _expression_. `ShowingInAxis`
+_expression_. `ShowingInAxis`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

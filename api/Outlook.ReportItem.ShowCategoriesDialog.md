@@ -18,9 +18,9 @@ Displays the  **Show Categories** dialog box, which allows you to select categor
 
 ## Syntax
 
- _expression_. `ShowCategoriesDialog`
+_expression_. `ShowCategoriesDialog`
 
- _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
+_expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) object.
 
 
 ## See also

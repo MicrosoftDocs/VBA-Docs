@@ -18,9 +18,9 @@ Occurs when a chart element is right-clicked, before the default right-click act
 
 ## Syntax
 
- _expression_. `BeforeRightClick`( `_Cancel_` )
+_expression_. `BeforeRightClick`( `_Cancel_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

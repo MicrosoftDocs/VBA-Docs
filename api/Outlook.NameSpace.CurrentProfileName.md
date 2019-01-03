@@ -18,9 +18,9 @@ Returns a  **String** representing the name of the current profile. Read-only.
 
 ## Syntax
 
- _expression_. `CurrentProfileName`
+_expression_. `CurrentProfileName`
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## Remarks

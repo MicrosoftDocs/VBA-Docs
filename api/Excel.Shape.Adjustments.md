@@ -18,9 +18,9 @@ Returns an  **[Adjustments](Excel.Adjustments.md)** object that contains adjustm
 
 ## Syntax
 
- _expression_. `Adjustments`
+_expression_. `Adjustments`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Example

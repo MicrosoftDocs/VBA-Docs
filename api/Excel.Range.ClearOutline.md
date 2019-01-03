@@ -18,9 +18,9 @@ Clears the outline for the specified range.
 
 ## Syntax
 
- _expression_. `ClearOutline`
+_expression_. `ClearOutline`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Return value

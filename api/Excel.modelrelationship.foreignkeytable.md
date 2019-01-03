@@ -16,9 +16,9 @@ Contains the [ModelTable object (Excel)](Excel.modeltable.md) object (Excel) rep
 
 ## Syntax
 
- _expression_. `ForeignKeyTable`
+_expression_. `ForeignKeyTable`
 
- _expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
+_expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
 
 
 ## Property value

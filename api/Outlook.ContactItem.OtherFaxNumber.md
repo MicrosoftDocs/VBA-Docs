@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the other fax number for the contact.
 
 ## Syntax
 
- _expression_. `OtherFaxNumber`
+_expression_. `OtherFaxNumber`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

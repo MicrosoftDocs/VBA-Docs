@@ -18,9 +18,9 @@ Returns a constant that belongs to the  **[OlDownloadState](Outlook.OlDownloadSt
 
 ## Syntax
 
- _expression_. `DownloadState`
+_expression_. `DownloadState`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Example

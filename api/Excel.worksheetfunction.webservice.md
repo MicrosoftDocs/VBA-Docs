@@ -16,9 +16,9 @@ Underlying function that calls the web service asynchronously, using an HTTP GET
 
 ## Syntax
 
- _expression_. `WebService`_(Arg1)_
+_expression_. `WebService`_(Arg1)_
 
- _expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

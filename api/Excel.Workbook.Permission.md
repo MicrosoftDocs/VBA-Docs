@@ -18,9 +18,9 @@ Returns a  **Permission** object that represents the permission settings in the 
 
 ## Syntax
 
- _expression_. `Permission`
+_expression_. `Permission`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ When set to  **False** , disables the ability to use the field dropdown in the u
 
 ## Syntax
 
- _expression_. `EnableItemSelection`
+_expression_. `EnableItemSelection`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

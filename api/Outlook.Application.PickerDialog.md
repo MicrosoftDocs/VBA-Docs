@@ -18,9 +18,9 @@ Returns a  **[PickerDialog](Office.PickerDialog.md)** object that provides the f
 
 ## Syntax
 
- _expression_. `PickerDialog`
+_expression_. `PickerDialog`
 
- _expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
+_expression_ A variable that represents an '[Application](Outlook.Application.md)' object.
 
 
 ## Remarks

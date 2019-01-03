@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether selected text remains high
 
  _expression_. **HideSelection**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

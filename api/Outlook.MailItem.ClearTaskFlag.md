@@ -18,7 +18,7 @@ Clears the  **[MailItem](Outlook.MailItem.md)** object as a task.
 
 ## Syntax
 
- _expression_. `ClearTaskFlag`
+_expression_. `ClearTaskFlag`
 
  _expression_ An expression that returns a [MailItem](./Outlook.MailItem.md) object.
 

@@ -18,7 +18,7 @@ Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-onl
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
  _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 

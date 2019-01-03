@@ -18,9 +18,9 @@ Returns a  **Picture** object that represents a picture field included in the sp
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
- _expression_ A variable that represents a [HeaderFooter](Excel.HeaderFooter.md) object.
+_expression_ A variable that represents a [HeaderFooter](Excel.HeaderFooter.md) object.
 
 
 ## See also

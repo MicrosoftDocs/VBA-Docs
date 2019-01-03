@@ -18,9 +18,9 @@ Returns the path to the location on the user's computer where the COM add-ins ar
 
 ## Syntax
 
- _expression_. `UserLibraryPath`
+_expression_. `UserLibraryPath`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

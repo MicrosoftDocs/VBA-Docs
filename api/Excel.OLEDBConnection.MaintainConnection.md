@@ -18,9 +18,9 @@ Returns  **True** if the connection to the specified data source is maintained a
 
 ## Syntax
 
- _expression_. `MaintainConnection`
+_expression_. `MaintainConnection`
 
- _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
+_expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnection.md) object.
 
 
 ## Remarks

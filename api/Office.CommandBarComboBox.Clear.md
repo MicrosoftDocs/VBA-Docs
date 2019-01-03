@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.Clear
 ms.assetid: f60afda8-5740-c6f6-7f3b-315dc95c45f8
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -16,14 +16,14 @@ ms.date: 06/08/2017
 Removes all list items from a command bar combo box control (a drop-down list box or a combo box).
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_.**Clear**
 
- _expression_ An expression that returns a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ An expression that returns a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Remarks
@@ -34,7 +34,7 @@ Removes all list items from a command bar combo box control (a drop-down list bo
 
 ## Example
 
-This example checks the number of items in the combo box control on a command bar named  **Custom Bar**. If there are fewer than three items in the list in the combo box, the example clears the list, adds a new first item to the list, and then displays this new item as the default for the combo box control.
+This example checks the number of items in the combo box control on a command bar named **Custom Bar**. If there are fewer than three items in the list in the combo box, the example clears the list, adds a new first item to the list, and then displays this new item as the default for the combo box control.
 
 
 ```vb
@@ -54,10 +54,4 @@ End If
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the organizational ID number for the 
 
 ## Syntax
 
- _expression_. `OrganizationalIDNumber`
+_expression_. `OrganizationalIDNumber`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

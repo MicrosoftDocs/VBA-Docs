@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that is **True** if a copy of the mail mess
 
 ## Syntax
 
- _expression_. `DeleteAfterSubmit`
+_expression_. `DeleteAfterSubmit`
 
- _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
+_expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md) object.
 
 
 ## See also

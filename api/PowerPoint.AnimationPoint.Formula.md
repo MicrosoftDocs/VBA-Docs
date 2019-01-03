@@ -20,7 +20,7 @@ Returns or sets a  **String** that represents a formula to use for calculating a
 
  _expression_. `Formula`
 
- _expression_ A variable that represents a [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
+_expression_ A variable that represents a [AnimationPoint](./PowerPoint.AnimationPoint.md) object.
 
 
 ## Return value

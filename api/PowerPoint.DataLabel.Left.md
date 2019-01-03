@@ -17,7 +17,7 @@ Returns or sets the distance, in points, from the left edge of the object to the
 
  _expression_. `Left`
 
- _expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
+_expression_ A variable that represents a '[DataLabel](PowerPoint.DataLabel.md)' object.
 
 
 ## See also

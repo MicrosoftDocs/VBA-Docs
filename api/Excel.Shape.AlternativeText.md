@@ -18,9 +18,9 @@ Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel
 
 ## Syntax
 
- _expression_. `AlternativeText`
+_expression_. `AlternativeText`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Remarks

@@ -16,9 +16,9 @@ The description of the query. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Description`
+_expression_. `Description`
 
- _expression_ A variable that represents a 'WorkbookQuery' object.
+_expression_ A variable that represents a 'WorkbookQuery' object.
 
 
 ## See also

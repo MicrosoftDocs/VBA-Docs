@@ -18,9 +18,9 @@ Returns or sets the fill color associated with a threshold for a data bar or col
 
 ## Syntax
 
- _expression_. `Color`
+_expression_. `Color`
 
- _expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
+_expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) object.
 
 
 ## Remarks

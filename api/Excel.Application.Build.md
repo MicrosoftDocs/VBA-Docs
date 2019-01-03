@@ -18,9 +18,9 @@ Returns the Microsoft Excel build number. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. `Build`
+_expression_. `Build`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

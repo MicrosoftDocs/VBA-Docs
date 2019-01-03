@@ -18,9 +18,9 @@ Returns the parent object of the  **[SelectNamesDialog](Outlook.SelectNamesDialo
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
+_expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNamesDialog.md) object.
 
 
 ## See also

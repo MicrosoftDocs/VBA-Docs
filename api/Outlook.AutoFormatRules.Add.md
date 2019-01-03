@@ -18,9 +18,9 @@ Creates a new  **[AutoFormatRule](Outlook.AutoFormatRule.md)** object and append
 
 ## Syntax
 
- _expression_. `Add`( `_Name_` )
+_expression_. `Add`( `_Name_` )
 
- _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
+_expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
 
 
 ## Parameters

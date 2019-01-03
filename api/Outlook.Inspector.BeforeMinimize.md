@@ -18,9 +18,9 @@ Occurs when the active inspector is minimized by the user.
 
 ## Syntax
 
- _expression_. `BeforeMinimize`( `_Cancel_` )
+_expression_. `BeforeMinimize`( `_Cancel_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## Parameters

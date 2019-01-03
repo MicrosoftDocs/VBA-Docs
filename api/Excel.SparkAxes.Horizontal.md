@@ -18,9 +18,9 @@ Returns the  **[SparkHorizontalAxis](Excel.SparkHorizontalAxis.md)** object for 
 
 ## Syntax
 
- _expression_. `Horizontal`
+_expression_. `Horizontal`
 
- _expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
+_expression_ A variable that represents a [SparkAxes](./Excel.SparkAxes.md) object.
 
 
 ## Return value

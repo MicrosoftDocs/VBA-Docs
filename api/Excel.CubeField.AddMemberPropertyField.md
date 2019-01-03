@@ -18,9 +18,9 @@ Adds a member property field to the display for the cube field.
 
 ## Syntax
 
- _expression_. `AddMemberPropertyField`( `_Property_` , `_PropertyOrder_` , `_PropertyDisplayedIn_` )
+_expression_. `AddMemberPropertyField`( `_Property_` , `_PropertyOrder_` , `_PropertyDisplayedIn_` )
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets a  **String** that represents the text displayed in the new item
 
 ## Syntax
 
- _expression_. `Text`
+_expression_. `Text`
 
- _expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
+_expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.NewItemAlertRuleAction.md) object.
 
 
 ## Remarks

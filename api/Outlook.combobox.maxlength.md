@@ -16,9 +16,9 @@ Returns or sets a  **Long** that specifies the maximum number of characters a us
 
 ## Syntax
 
- _expression_. **MaxLength**
+_expression_. **MaxLength**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

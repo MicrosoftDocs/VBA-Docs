@@ -4,23 +4,23 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.HelpContextId
 ms.assetid: 3b34572b-af1b-a4fc-a98e-23d51315a077
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarComboBox.HelpContextId property (Office)
 
-Gets or sets the Help context Id number for the Help topic attached to the  **CommandBarComboBox** control. Read/write.
+Gets or sets the Help context Id number for the Help topic attached to the **CommandBarComboBox** control. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `HelpContextId`
+_expression_.**HelpContextId**
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Return value
@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-To use this property, you must also set the HelpFile property. Help topics respond to Shift+F1.
+To use this property, you must also set the **HelpFile** property. Help topics respond to Shift+F1.
 
 
 ## Example
@@ -61,10 +61,4 @@ End With
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)

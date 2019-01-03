@@ -15,7 +15,7 @@ Adds a new tab stop to the specified  **TabStops2** object.
 
 ## Syntax
 
- _expression_. `Add`( `_Type_`, `_Position_` )
+_expression_. `Add`( `_Type_`, `_Position_` )
 
  _expression_ An expression that returns a [TabStops2](Office.TabStops2.md) object.
 

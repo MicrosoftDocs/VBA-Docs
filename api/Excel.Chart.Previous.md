@@ -18,9 +18,9 @@ Returns a  **[Worksheet](Excel.Worksheet.md)** object that represents the next s
 
 ## Syntax
 
- _expression_. `Previous`
+_expression_. `Previous`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

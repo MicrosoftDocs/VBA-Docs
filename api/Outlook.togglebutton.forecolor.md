@@ -15,7 +15,7 @@ Returns or sets a  **Long** that specifies the foreground color of an object. Re
 
  _expression_. **ForeColor**
 
- _expression_ A variable that represents a  **ToggleButton** object.
+_expression_ A variable that represents a  **ToggleButton** object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that represents the position of the item in it
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Example

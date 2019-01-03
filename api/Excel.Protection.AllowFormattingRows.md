@@ -18,9 +18,9 @@ Returns  **True** if the formatting of rows is allowed on a protected worksheet.
 
 ## Syntax
 
- _expression_. `AllowFormattingRows`
+_expression_. `AllowFormattingRows`
 
- _expression_ A variable that represents a [Protection](Excel.Protection.md) object.
+_expression_ A variable that represents a [Protection](Excel.Protection.md) object.
 
 
 ## Remarks

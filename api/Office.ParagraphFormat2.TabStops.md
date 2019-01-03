@@ -15,7 +15,7 @@ Gets a  **TabStops2** collection that represents all the custom tab stops for th
 
 ## Syntax
 
- _expression_. `TabStops`
+_expression_. `TabStops`
 
  _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 

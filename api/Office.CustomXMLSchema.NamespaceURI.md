@@ -18,7 +18,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLSchema**
 
 ## Syntax
 
- _expression_. `NamespaceURI`
+_expression_. `NamespaceURI`
 
  _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 

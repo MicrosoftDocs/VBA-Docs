@@ -15,9 +15,9 @@ Gets a 32-bit integer that indicates the application in which the  **NewFile** o
 
 ## Syntax
 
- _expression_. `Creator`
+_expression_. `Creator`
 
- _expression_ A variable that represents a [NewFile](Office.NewFile.md) object.
+_expression_ A variable that represents a [NewFile](Office.NewFile.md) object.
 
 
 ## Return value

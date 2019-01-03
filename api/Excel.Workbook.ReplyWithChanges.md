@@ -18,9 +18,9 @@ Sends an email message to the author of a workbook that has been sent out for re
 
 ## Syntax
 
- _expression_. `ReplyWithChanges`( `_ShowMessage_` )
+_expression_. `ReplyWithChanges`( `_ShowMessage_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

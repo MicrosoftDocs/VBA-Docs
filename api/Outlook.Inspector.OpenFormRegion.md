@@ -18,9 +18,9 @@ Opens a page in design mode in the inspector for the specified form region.
 
 ## Syntax
 
- _expression_. `OpenFormRegion`( `_Path_` )
+_expression_. `OpenFormRegion`( `_Path_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## Parameters

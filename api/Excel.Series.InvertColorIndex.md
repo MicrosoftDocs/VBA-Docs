@@ -18,9 +18,9 @@ Returns or sets the fill color for negative data points in a series. Read/write
 
 ## Syntax
 
- _expression_. `InvertColorIndex`
+_expression_. `InvertColorIndex`
 
- _expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
+_expression_ A variable that represents a '[Series](Excel.Series(object).md)' object.
 
 
 ## Return value

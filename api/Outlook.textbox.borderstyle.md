@@ -15,7 +15,7 @@ Returns or sets an  **Integer** that specifies the type of border of the control
 
  _expression_. **BorderStyle**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

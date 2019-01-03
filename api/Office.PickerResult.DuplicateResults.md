@@ -18,7 +18,7 @@ Gets PickerResult collection if the result of resolving results has multiple can
 
 ## Syntax
 
- _expression_. `DuplicateResults`
+_expression_. `DuplicateResults`
 
  _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 

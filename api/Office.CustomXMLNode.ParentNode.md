@@ -18,7 +18,7 @@ Gets the parent element node of the current node. If the current node is at the 
 
 ## Syntax
 
- _expression_. `ParentNode`
+_expression_. `ParentNode`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

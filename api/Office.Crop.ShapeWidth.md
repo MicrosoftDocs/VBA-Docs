@@ -15,7 +15,7 @@ Gets or sets the width of a shape that is used to crop an image. Read/write
 
 ## Syntax
 
- _expression_. `ShapeWidth`
+_expression_. `ShapeWidth`
 
  _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 

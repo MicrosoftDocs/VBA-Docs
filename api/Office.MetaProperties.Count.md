@@ -18,7 +18,7 @@ Gets a  **Long** indicating the number of items in the **MetaProperties** collec
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
  _expression_ An expression that returns a [MetaProperties](Office.MetaProperties.md) object.
 

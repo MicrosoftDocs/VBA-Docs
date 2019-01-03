@@ -18,9 +18,9 @@ Returns a  **[Top10](Excel.Top10.md)** object representing a conditional formatt
 
 ## Syntax
 
- _expression_. `AddTop10`
+_expression_. `AddTop10`
 
- _expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
+_expression_ A variable that represents a [FormatConditions](Excel.FormatConditions.md) object.
 
 
 ## Return value

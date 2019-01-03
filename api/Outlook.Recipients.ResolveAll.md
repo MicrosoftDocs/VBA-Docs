@@ -18,9 +18,9 @@ Attempts to resolve all the  **[Recipient](Outlook.Recipient.md)** objects in th
 
 ## Syntax
 
- _expression_. `ResolveAll`
+_expression_. `ResolveAll`
 
- _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
+_expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
 
 
 ## Return value

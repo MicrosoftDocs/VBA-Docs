@@ -18,9 +18,9 @@ Returns or sets a  **Long** specifying the height (in pixels) of the explorer wi
 
 ## Syntax
 
- _expression_. `Height`
+_expression_. `Height`
 
- _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 
 
 ## See also

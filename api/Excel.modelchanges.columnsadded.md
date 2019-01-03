@@ -16,9 +16,9 @@ Returns a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collectio
 
 ## Syntax
 
- _expression_. `ColumnsAdded`
+_expression_. `ColumnsAdded`
 
- _expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) object.
+_expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) object.
 
 
 ## Property value

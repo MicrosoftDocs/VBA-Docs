@@ -20,7 +20,7 @@ Returns or sets what the bubble size represents on a bubble chart. Read/write  *
 
  _expression_. `SizeRepresents`
 
- _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
+_expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 
 
 ## Remarks

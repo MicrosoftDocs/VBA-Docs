@@ -18,9 +18,9 @@ Exports the data that has been mapped to the specified XML schema map to an XML 
 
 ## Syntax
 
- _expression_. `SaveAsXMLData`( `_Filename_` , `_Map_` )
+_expression_. `SaveAsXMLData`( `_Filename_` , `_Map_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

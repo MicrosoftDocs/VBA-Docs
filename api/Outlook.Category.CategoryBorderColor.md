@@ -18,9 +18,9 @@ Returns an  **OLE_COLOR** value that represents the border color of the color sw
 
 ## Syntax
 
- _expression_. `CategoryBorderColor`
+_expression_. `CategoryBorderColor`
 
- _expression_ A variable that represents a [Category](./Outlook.Category.md) object.
+_expression_ A variable that represents a [Category](./Outlook.Category.md) object.
 
 
 ## Remarks

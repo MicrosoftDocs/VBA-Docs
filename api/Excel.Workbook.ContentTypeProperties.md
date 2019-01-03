@@ -18,9 +18,9 @@ Returns a  **[MetaProperties](Office.MetaProperties.md)** collection that descri
 
 ## Syntax
 
- _expression_. `ContentTypeProperties`
+_expression_. `ContentTypeProperties`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Applies the specified theme to the current workbook.
 
 ## Syntax
 
- _expression_. `ApplyTheme`( `_Filename_` )
+_expression_. `ApplyTheme`( `_Filename_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the mileage for an item. Read/write.
 
 ## Syntax
 
- _expression_. `Mileage`
+_expression_. `Mileage`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

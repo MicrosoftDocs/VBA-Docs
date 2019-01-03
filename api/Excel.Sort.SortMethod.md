@@ -18,9 +18,9 @@ Specifies the sort method for Chinese languages. Read/write  **[xlSortMethod](Ex
 
 ## Syntax
 
- _expression_. `SortMethod`
+_expression_. `SortMethod`
 
- _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
+_expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 
 ## Remarks

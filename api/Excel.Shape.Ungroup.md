@@ -18,9 +18,9 @@ Ungroups any grouped shapes in the specified shape or range of shapes. Disassemb
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Return value

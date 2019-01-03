@@ -18,9 +18,9 @@ Returns or sets an index into the  **[Application.TimeZones](Outlook.Application
 
 ## Syntax
 
- _expression_. `SelectedTimeZoneIndex`
+_expression_. `SelectedTimeZoneIndex`
 
- _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
+_expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTimeZoneControl.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns a value that represents the vertical alignment of the associated  **[Ran
 
 ## Syntax
 
- _expression_. `VerticalAlignment`
+_expression_. `VerticalAlignment`
 
- _expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
+_expression_ A variable that represents a '[DisplayFormat](Excel.DisplayFormat.md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns the  **[COMAddIns](Office.COMAddIns.md)** collection for Microsoft Excel
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Occurs when a new chart is created in any open workbook.
 
 ## Syntax
 
- _expression_. `WorkbookNewChart`( `_Wb_` , `_Ch_` )
+_expression_. `WorkbookNewChart`( `_Wb_` , `_Ch_` )
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Parameters

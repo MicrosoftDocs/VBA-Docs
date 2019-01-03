@@ -15,7 +15,7 @@ Retrieves a  **PictureEffect** object at the specified index. Read-only
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a [PictureEffects](Office.PictureEffects.md) object.
 

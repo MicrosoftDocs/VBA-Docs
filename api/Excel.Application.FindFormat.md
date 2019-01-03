@@ -18,9 +18,9 @@ Sets or returns the search criteria for the type of cell formats to find.
 
 ## Syntax
 
- _expression_. `FindFormat`
+_expression_. `FindFormat`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

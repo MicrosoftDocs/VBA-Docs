@@ -18,9 +18,9 @@ Returns a  **[ViewFont](Outlook.ViewFont.md)** object that represents the font u
 
 ## Syntax
 
- _expression_. `ColumnFont`
+_expression_. `ColumnFont`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Example

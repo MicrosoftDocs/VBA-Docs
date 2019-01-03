@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the HTML body of the specified **[Sha
 
 ## Syntax
 
- _expression_. `HTMLBody`
+_expression_. `HTMLBody`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** that specifies whether a word or a character is t
 
 ## Syntax
 
- _expression_. `AutoWordSelect`
+_expression_. `AutoWordSelect`
 
- _expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
+_expression_ A variable that represents an [OlkDateControl](./Outlook.OlkDateControl.md) object.
 
 
 ## Remarks

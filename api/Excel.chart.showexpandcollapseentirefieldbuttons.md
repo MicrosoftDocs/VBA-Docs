@@ -16,9 +16,9 @@ ms.prod: excel
 
 ## Syntax
 
- _expression_. `ShowExpandCollapseEntireFieldButtons`
+_expression_. `ShowExpandCollapseEntireFieldButtons`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## See also

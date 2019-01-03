@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that is **True** if the reminder overrides 
 
 ## Syntax
 
- _expression_. `ReminderOverrideDefault`
+_expression_. `ReminderOverrideDefault`
 
- _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
+_expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Occurs when a mouse button is pressed while the pointer is over a chart.
 
 ## Syntax
 
- _expression_. `MouseDown`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
+_expression_. `MouseDown`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Parameters

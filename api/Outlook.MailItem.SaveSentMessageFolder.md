@@ -18,9 +18,9 @@ Returns or sets a  **[Folder](Outlook.Folder.md)** object that represents the fo
 
 ## Syntax
 
- _expression_. `SaveSentMessageFolder`
+_expression_. `SaveSentMessageFolder`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Example

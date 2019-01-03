@@ -17,9 +17,9 @@ Returns or sets the minimum value that can be represented on the secondary value
 
 ## Syntax
 
- _expression_.**SecondaryValuesAxisMinimum**
+_expression_.**SecondaryValuesAxisMinimum**
 
- _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
+_expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 
 ## Remarks

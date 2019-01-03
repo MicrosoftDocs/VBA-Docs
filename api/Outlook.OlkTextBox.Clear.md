@@ -18,9 +18,9 @@ Removes the text in the text box.
 
 ## Syntax
 
- _expression_. `Clear`
+_expression_. `Clear`
 
- _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
+_expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md) object.
 
 
 ## See also

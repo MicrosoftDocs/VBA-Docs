@@ -18,9 +18,9 @@ Returns an object that represents either a single PivotTable item (a  **[PivotIt
 
 ## Syntax
 
- _expression_. `ChildItems`( `_Index_` )
+_expression_. `ChildItems`( `_Index_` )
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Parameters

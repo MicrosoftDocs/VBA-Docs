@@ -18,9 +18,9 @@ Adds a Personal Folders (.pst) file to the current profile.
 
 ## Syntax
 
- _expression_. `AddStore`( `_Store_` )
+_expression_. `AddStore`( `_Store_` )
 
- _expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
+_expression_ A variable that represents a [NameSpace](./Outlook.NameSpace.md) object.
 
 
 ## Parameters

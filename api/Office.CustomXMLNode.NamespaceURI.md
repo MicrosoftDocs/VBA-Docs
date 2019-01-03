@@ -18,7 +18,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLNode** o
 
 ## Syntax
 
- _expression_. `NamespaceURI`
+_expression_. `NamespaceURI`
 
  _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 

@@ -18,9 +18,9 @@ Returns or sets a  **Long** value that specifies the length of the shortest data
 
 ## Syntax
 
- _expression_. `PercentMin`
+_expression_. `PercentMin`
 
- _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
+_expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 
 ## Remarks

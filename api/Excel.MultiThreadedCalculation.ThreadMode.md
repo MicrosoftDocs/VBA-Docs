@@ -18,9 +18,9 @@ Returns or sets the thread mode for the specified  **MultiThreadedCalculation** 
 
 ## Syntax
 
- _expression_. `ThreadMode`
+_expression_. `ThreadMode`
 
- _expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
+_expression_ A variable that represents a [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md) object.
 
 
 ## Remarks

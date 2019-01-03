@@ -18,9 +18,9 @@ Returns the array of AutoCorrect replacements.
 
 ## Syntax
 
- _expression_. `ReplacementList`( `_Index_` )
+_expression_. `ReplacementList`( `_Index_` )
 
- _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
 
 
 ## Parameters

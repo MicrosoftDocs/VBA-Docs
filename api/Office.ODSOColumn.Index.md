@@ -18,9 +18,9 @@ Gets a  **Long** representing the index number for an **ODSOColumn** object in t
 
 ## Syntax
 
- _expression_. `Index`
+_expression_. `Index`
 
- _expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
+_expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the subject for the **[SharingItem](Out
 
 ## Syntax
 
- _expression_. `Subject`
+_expression_. `Subject`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

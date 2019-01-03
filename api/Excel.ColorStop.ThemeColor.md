@@ -18,9 +18,9 @@ Returns or sets the theme color of the represented object. Read/write
 
 ## Syntax
 
- _expression_. `ThemeColor`
+_expression_. `ThemeColor`
 
- _expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
+_expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
 
 
 ## Return value

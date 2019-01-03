@@ -18,9 +18,9 @@ Returns or sets an  **[MsoAutomationSecurity](Office.MsoAutomationSecurity.md)**
 
 ## Syntax
 
- _expression_. `AutomationSecurity`
+_expression_. `AutomationSecurity`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

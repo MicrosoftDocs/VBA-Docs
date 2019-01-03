@@ -18,9 +18,9 @@ Changes the rotation of the specified shape around the x-axis by the specified n
 
 ## Syntax
 
- _expression_. `IncrementRotationX`( `_Increment_` )
+_expression_. `IncrementRotationX`( `_Increment_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Parameters

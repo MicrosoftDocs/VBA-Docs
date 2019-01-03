@@ -18,9 +18,9 @@ Returns the difference of two complex numbers in x + yi or x + yj text format.
 
 ## Syntax
 
- _expression_. `ImSub`( `_Arg1_` , `_Arg2_` )
+_expression_. `ImSub`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

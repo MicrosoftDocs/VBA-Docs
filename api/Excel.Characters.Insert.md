@@ -18,9 +18,9 @@ Inserts a string preceding the selected characters.
 
 ## Syntax
 
- _expression_. `Insert`( `_String_` )
+_expression_. `Insert`( `_String_` )
 
- _expression_ A variable that represents a [Characters](Excel.Characters.md) object.
+_expression_ A variable that represents a [Characters](Excel.Characters.md) object.
 
 
 ## Parameters

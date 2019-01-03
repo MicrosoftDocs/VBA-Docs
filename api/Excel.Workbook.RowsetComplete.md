@@ -18,9 +18,9 @@ The event is raised when the user either drills through the recordset or invokes
 
 ## Syntax
 
- _expression_. `RowsetComplete`( `_Description_` , `_Sheet_` , `_Success_` )
+_expression_. `RowsetComplete`( `_Description_` , `_Sheet_` , `_Success_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

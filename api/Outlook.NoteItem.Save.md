@@ -18,9 +18,9 @@ Saves the Microsoft Outlook item to the current folder or, if this is a new item
 
 ## Syntax
 
- _expression_. `Save`
+_expression_. `Save`
 
- _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
+_expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) object.
 
 
 ## See also

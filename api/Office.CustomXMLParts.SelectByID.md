@@ -18,7 +18,7 @@ Selects a custom XML part matching a GUID.
 
 ## Syntax
 
- _expression_. `SelectByID`( `_Id_` )
+_expression_. `SelectByID`( `_Id_` )
 
  _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 

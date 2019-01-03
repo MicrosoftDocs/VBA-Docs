@@ -18,9 +18,9 @@ Returns  **True** if the specified workbook is open in a **Protected View** wind
 
 ## Syntax
 
- _expression_. `IsSandboxed`
+_expression_. `IsSandboxed`
 
- _expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
+_expression_ A variable that represents an '[Application](Excel.Application(object).md)' object.
 
 
 ## Return value

@@ -18,9 +18,9 @@ Returns a  **[PageSetup](Excel.PageSetup.md)** object that contains all the page
 
 ## Syntax
 
- _expression_. `PageSetup`
+_expression_. `PageSetup`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Example

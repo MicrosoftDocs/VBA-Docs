@@ -18,9 +18,9 @@ Returns a  **String** representing the full name and company of the contact by c
 
 ## Syntax
 
- _expression_. `FullNameAndCompany`
+_expression_. `FullNameAndCompany`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

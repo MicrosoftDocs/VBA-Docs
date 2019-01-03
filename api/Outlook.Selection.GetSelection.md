@@ -18,9 +18,9 @@ Returns a  **[Selection](Outlook.Selection.md)** object that contains the kind o
 
 ## Syntax
 
- _expression_. `GetSelection`( `_SelectionContents_` )
+_expression_. `GetSelection`( `_SelectionContents_` )
 
- _expression_ A variable that represents a [Selection](./Outlook.Selection.md) object.
+_expression_ A variable that represents a [Selection](./Outlook.Selection.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns a  **PivotItem** object that represents the parent PivotTable item in th
 
 ## Syntax
 
- _expression_. `ParentItem`
+_expression_. `ParentItem`
 
- _expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
+_expression_ A variable that represents a [PivotItem](Excel.PivotItem.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Copies the current selection in the drop-down list to the clipboard.
 
 ## Syntax
 
- _expression_. `Copy`
+_expression_. `Copy`
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## See also

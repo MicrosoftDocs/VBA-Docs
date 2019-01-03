@@ -18,9 +18,9 @@ Controls whether or not the compatibility checker is run automatically when the 
 
 ## Syntax
 
- _expression_. `CheckCompatibility`
+_expression_. `CheckCompatibility`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## See also

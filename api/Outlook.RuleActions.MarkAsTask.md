@@ -18,9 +18,9 @@ Returns a  **[MarkAsTaskRuleAction](Outlook.MarkAsTaskRuleAction.md)** object wi
 
 ## Syntax
 
- _expression_. `MarkAsTask`
+_expression_. `MarkAsTask`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

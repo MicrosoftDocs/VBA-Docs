@@ -18,9 +18,9 @@ Sets or returns a  **Variant** representing the separator used for the data labe
 
 ## Syntax
 
- _expression_. `Separator`
+_expression_. `Separator`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

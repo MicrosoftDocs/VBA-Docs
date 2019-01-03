@@ -18,9 +18,9 @@ For all open workbooks, forces a full calculation of the data and rebuilds the d
 
 ## Syntax
 
- _expression_. `CalculateFullRebuild`
+_expression_. `CalculateFullRebuild`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

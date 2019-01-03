@@ -18,9 +18,9 @@ Returns a  **String** that represents information in XML retrieved from the auto
 
 ## Syntax
 
- _expression_. `AutoDiscoverXml`
+_expression_. `AutoDiscoverXml`
 
- _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
+_expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 
 
 ## Remarks

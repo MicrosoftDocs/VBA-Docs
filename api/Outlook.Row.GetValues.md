@@ -18,9 +18,9 @@ Obtains a one-dimensional array containing the values for all columns at the  **
 
 ## Syntax
 
- _expression_. `GetValues`
+_expression_. `GetValues`
 
- _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
 ## Return value

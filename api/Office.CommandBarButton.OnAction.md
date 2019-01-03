@@ -4,23 +4,23 @@ ms.prod: office
 api_name:
 - Office.CommandBarButton.OnAction
 ms.assetid: c0a4148c-330a-6bd9-dd14-7ade8fc833fe
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBarButton.OnAction property (Office)
 
-Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a  **CommandBarButton** control. Read/write.
+Gets or sets the name of a Visual Basic procedure that will run when the user clicks or changes the value of a **CommandBarButton** control. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `OnAction`
+_expression_.**OnAction**
 
- _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
+_expression_ A variable that represents a **[CommandBarButton](Office.CommandBarButton.md)** object.
 
 
 ## Return value
@@ -35,7 +35,7 @@ The container application determines whether the value is a valid macro name.
 
 ## Example
 
-This example adds a command bar control to the command bar named "Custom". The COM add in named "FinanceAddIn" will run each time the control is clicked.
+This example adds a command bar control to the command bar named **Custom**. The COM add in named **FinanceAddIn** will run each time the control is clicked.
 
 
 ```vb
@@ -52,10 +52,5 @@ myBar.Visible = True
 
 ## See also
 
-
-[CommandBarButton Object](Office.CommandBarButton.md)
-
-
-
-[CommandBarButton Object Members](./overview/Library-Reference/commandbarbutton-members-office.md)
+- [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 

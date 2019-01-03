@@ -16,9 +16,9 @@ Returns a single object from the [ModelRelationships object (Excel)](Excel.model
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+_expression_. `Item`_(Index)_
 
- _expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
+_expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
 
 
 ## Parameters

@@ -15,7 +15,7 @@ ms.date: 06/08/2017
 
 Sets the specified fill to a preset gradient.
 
- _expression_. `PresetGradient`( `_Style_`,  `_Variant_`,  `_PresetGradientType_`)
+_expression_. `PresetGradient`( `_Style_`,  `_Variant_`,  `_PresetGradientType_`)
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

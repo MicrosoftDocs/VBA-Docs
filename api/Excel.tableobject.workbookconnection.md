@@ -16,9 +16,9 @@ Returns the [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) use
 
 ## Syntax
 
- _expression_. `WorkbookConnection`
+_expression_. `WorkbookConnection`
 
- _expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
+_expression_ A variable that represents a [TableObject](Excel.modeltable.md) object.
 
 
 ## Property value

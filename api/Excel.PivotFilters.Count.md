@@ -18,9 +18,9 @@ Returns the number of items in the  **PivotFilters** collection. Read-only.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
+_expression_ A variable that represents a [PivotFilters](Excel.PivotFilters.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value, containing an **[xlPattern](Excel.XlPatter
 
 ## Syntax
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## Example

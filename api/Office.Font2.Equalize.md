@@ -15,7 +15,7 @@ Gets or sets a value specifying whether the text for a selection should be space
 
 ## Syntax
 
- _expression_. `Equalize`
+_expression_. `Equalize`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

@@ -18,9 +18,9 @@ Returns a  **String** that represents the email address of the sender of the **[
 
 ## Syntax
 
- _expression_. `SenderEmailAddress`
+_expression_. `SenderEmailAddress`
 
- _expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
+_expression_ A variable that represents a [SharingItem](./Outlook.SharingItem.md) object.
 
 
 ## Remarks

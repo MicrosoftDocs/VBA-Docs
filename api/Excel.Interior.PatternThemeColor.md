@@ -18,9 +18,9 @@ Returns or sets a theme color pattern for an  **Interior** object. Read/write **
 
 ## Syntax
 
- _expression_. `PatternThemeColor`
+_expression_. `PatternThemeColor`
 
- _expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
+_expression_ A variable that represents an [Interior](Excel.Interior-graph-property.md) object.
 
 
 ## See also

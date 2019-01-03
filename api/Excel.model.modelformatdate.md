@@ -16,9 +16,9 @@ Returns a [ModelFormatDate](Excel.modelformatdate.md) object that represents for
 
 ## Syntax
 
- _expression_. `ModelFormatDate`
+_expression_. `ModelFormatDate`
 
- _expression_ A variable that represents a 'Model' object.
+_expression_ A variable that represents a 'Model' object.
 
 
 ## See also

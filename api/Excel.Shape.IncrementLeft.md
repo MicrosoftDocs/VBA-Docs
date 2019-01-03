@@ -18,9 +18,9 @@ Moves the specified shape horizontally by the specified number of points.
 
 ## Syntax
 
- _expression_. `IncrementLeft`( `_Increment_` )
+_expression_. `IncrementLeft`( `_Increment_` )
 
- _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
+_expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 
 ## Parameters

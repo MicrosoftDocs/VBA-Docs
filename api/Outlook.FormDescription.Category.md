@@ -18,9 +18,9 @@ Returns or sets a  **String** representing the category assigned to the form des
 
 ## Syntax
 
- _expression_. `Category`
+_expression_. `Category`
 
- _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
+_expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 
 
 ## See also

@@ -18,9 +18,9 @@ Returns a  **[Recipients](Outlook.Recipients.md)** collection that represents al
 
 ## Syntax
 
- _expression_. `Recipients`
+_expression_. `Recipients`
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Remarks

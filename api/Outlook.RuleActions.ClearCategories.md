@@ -18,9 +18,9 @@ Returns a  **[RuleAction](Outlook.RuleAction.md)** object with a **[RuleAction.A
 
 ## Syntax
 
- _expression_. `ClearCategories`
+_expression_. `ClearCategories`
 
- _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
+_expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md) object.
 
 
 ## Remarks

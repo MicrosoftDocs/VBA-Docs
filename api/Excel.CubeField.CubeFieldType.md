@@ -18,9 +18,9 @@ Indicates whether the OLAP cube field is a hierarchy field or a measure field. C
 
 ## Syntax
 
- _expression_. `CubeFieldType`
+_expression_. `CubeFieldType`
 
- _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 
 
 ## Example

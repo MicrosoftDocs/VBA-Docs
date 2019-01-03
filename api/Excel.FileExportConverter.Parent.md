@@ -18,9 +18,9 @@ Returns an  **Object** that represents the parent object of the specified **[Fil
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_. `Parent`
 
- _expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
+_expression_ A variable that represents a [FileExportConverter](Excel.FileExportConverter.md) object.
 
 
 ## See also

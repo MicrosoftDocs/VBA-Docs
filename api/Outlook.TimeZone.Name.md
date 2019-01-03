@@ -20,7 +20,7 @@ Returns a  **String** that represents the identifier of the time zone. Read-only
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
+_expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 
 
 ## Remarks

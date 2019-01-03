@@ -18,9 +18,9 @@ Returns or sets a  **String** indicating the telex number for the contact. Read/
 
 ## Syntax
 
- _expression_. `TelexNumber`
+_expression_. `TelexNumber`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## See also

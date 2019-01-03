@@ -18,9 +18,9 @@ Returns a  **[Speech](Excel.Speech.md)** object.
 
 ## Syntax
 
- _expression_. `Speech`
+_expression_. `Speech`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

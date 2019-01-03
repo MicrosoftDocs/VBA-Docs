@@ -18,9 +18,9 @@ Returns a  **String** representing the job title of the **[ExchangeUser](Outlook
 
 ## Syntax
 
- _expression_. `JobTitle`
+_expression_. `JobTitle`
 
- _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
+_expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Occurs when an inspector is maximized by the user.
 
 ## Syntax
 
- _expression_. `BeforeMaximize`( `_Cancel_` )
+_expression_. `BeforeMaximize`( `_Cancel_` )
 
- _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
+_expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 
 
 ## Parameters

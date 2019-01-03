@@ -21,7 +21,7 @@ Gets a  **SharedWorkspaceFolder** object from the **Folders** collection of the 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ Required. A variable that represents a '[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)' object. The specified **SharedWorkspaceFolders** collection.
 

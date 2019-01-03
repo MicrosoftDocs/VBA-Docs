@@ -20,7 +20,7 @@ Returns or sets a  **String** specifying the validation text for the specified u
 
  _expression_. `ValidationText`
 
- _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
+_expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.md) object.
 
 
 ## Remarks

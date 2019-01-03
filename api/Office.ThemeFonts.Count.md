@@ -15,7 +15,7 @@ Gets a  **Long** indicating the number of items in the **ThemeFonts** collection
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
  _expression_ An expression that returns a [ThemeFonts](Office.ThemeFonts.md) object.
 

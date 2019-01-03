@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates that the **[AddressList](Outlook.Add
 
 ## Syntax
 
- _expression_. `IsReadOnly`
+_expression_. `IsReadOnly`
 
- _expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
+_expression_ A variable that represents an [AddressList](./Outlook.AddressList.md) object.
 
 
 ## Remarks

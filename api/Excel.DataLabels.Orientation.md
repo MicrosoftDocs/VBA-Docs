@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that represents the text orientation.
 
 ## Syntax
 
- _expression_. `Orientation`
+_expression_. `Orientation`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## Remarks

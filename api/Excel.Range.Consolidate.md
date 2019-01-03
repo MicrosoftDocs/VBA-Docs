@@ -18,9 +18,9 @@ Consolidates data from multiple ranges on multiple worksheets into a single rang
 
 ## Syntax
 
- _expression_. `Consolidate`( `_Sources_` , `_Function_` , `_TopRow_` , `_LeftColumn_` , `_CreateLinks_` )
+_expression_. `Consolidate`( `_Sources_` , `_Function_` , `_TopRow_` , `_LeftColumn_` , `_CreateLinks_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

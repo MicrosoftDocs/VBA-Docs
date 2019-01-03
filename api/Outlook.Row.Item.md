@@ -18,9 +18,9 @@ Obtains an  **Object** that represents the value for the **[Row](Outlook.Row.md)
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [Row](./Outlook.Row.md) object.
+_expression_ A variable that represents a [Row](./Outlook.Row.md) object.
 
 
 ## Parameters

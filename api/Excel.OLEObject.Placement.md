@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value, containing an **[xlPlacement](Excel.XlPlac
 
 ## Syntax
 
- _expression_. `Placement`
+_expression_. `Placement`
 
- _expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
+_expression_ A variable that represents an [OLEObject](Excel.OLEObject.md) object.
 
 
 ## See also

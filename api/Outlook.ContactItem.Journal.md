@@ -18,9 +18,9 @@ Returns a  **Boolean** that indicates **True** if the transaction of the contact
 
 ## Syntax
 
- _expression_. `Journal`
+_expression_. `Journal`
 
- _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
+_expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md) object.
 
 
 ## Remarks

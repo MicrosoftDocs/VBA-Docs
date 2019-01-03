@@ -18,7 +18,7 @@ Commits the rendering transaction. Returns  **Nothing**.
 
 ## Syntax
 
- _expression_. `CommitRenderingTransaction`( `_hwnd_` )
+_expression_. `CommitRenderingTransaction`( `_hwnd_` )
 
  _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 

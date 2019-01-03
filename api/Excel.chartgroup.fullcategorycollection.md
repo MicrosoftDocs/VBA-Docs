@@ -16,9 +16,9 @@ Returns an object that represents a collection of all of the visible and filtere
 
 ## Syntax
 
- _expression_. `FullCategoryCollection`_(Index)_
+_expression_. `FullCategoryCollection`_(Index)_
 
- _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
 
 
 ## Parameters

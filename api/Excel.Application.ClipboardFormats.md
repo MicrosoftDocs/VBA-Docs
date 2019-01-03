@@ -18,9 +18,9 @@ Returns the formats that are currently on the Clipboard, as an array of numeric 
 
 ## Syntax
 
- _expression_. `ClipboardFormats`( `_Index_` )
+_expression_. `ClipboardFormats`( `_Index_` )
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters

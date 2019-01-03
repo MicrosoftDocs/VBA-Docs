@@ -18,9 +18,9 @@ ms.date: 06/08/2017
 
 ## Syntax
 
- _expression_. `NumberFormatLinked`
+_expression_. `NumberFormatLinked`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 
 
 ## Example

@@ -18,9 +18,9 @@ Returns or sets a  **[xlDataLabelPosition](Excel.XlDataLabelPosition.md)** value
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
- _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
+_expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).md) object.
 
 
 ## See also

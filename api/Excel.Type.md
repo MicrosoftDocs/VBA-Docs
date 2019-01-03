@@ -23,11 +23,11 @@ Returns or sets the axis type. Read/write XlAxisType .
 | **xlCategory**|
 | **xlValue**|
 
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns an [Axis](./Excel.Axis-graph-object.md) object.
 Type property as it applies to the  **ChartColorFormat** object.
 Returns the color type. Read-only Long.
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns a [ChartColorFormat](./Excel.ChartColorFormat.md) object.
 Type property as it applies to the  **ChartFillFormat** object.
 Returns the fill type. Read-only MsoFillType .
@@ -42,15 +42,15 @@ Returns the fill type. Read-only MsoFillType .
 | **msoFillSolid**|
 | **msoFillTextured**|
 
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns a [ChartFillFormat](./Excel.ChartFillFormat.md) object.
 Type property as it applies to the  **DataLabel** and **DataLabels** objects.
 Returns or sets the data label type. Read/write Variant.
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns one of the above objects.
 Type property as it applies to the  **Series** object.
 Returns or sets the series type. Read/write Long.
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns a [Series](./Excel.Series-graph-object.md) object.
 Type property as it applies to the  **Trendline** object.
 Returns or sets the trendline type. Read/write XlTrendlineType .
@@ -64,7 +64,7 @@ Returns or sets the trendline type. Read/write XlTrendlineType .
 | **xlPolynomial**|
 | **xlPower**|
 
- _expression_. **Type**
+_expression_. **Type**
  _expression_ Required. An expression that returns a [Trendline](./Excel.Trendline-graph-object.md) object.
 
 ## Example

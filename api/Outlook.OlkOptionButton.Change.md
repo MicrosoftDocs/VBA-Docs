@@ -18,9 +18,9 @@ Occurs when the  **[Value](Outlook.OlkOptionButton.Value.md)** property changes.
 
 ## Syntax
 
- _expression_. `Change`
+_expression_. `Change`
 
- _expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
+_expression_ A variable that represents an [OlkOptionButton](./Outlook.OlkOptionButton.md) object.
 
 
 ## See also

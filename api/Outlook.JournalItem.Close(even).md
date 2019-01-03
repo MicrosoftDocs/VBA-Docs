@@ -15,9 +15,9 @@ Occurs when the inspector associated with an item (which is an instance of the p
 
 ## Syntax
 
- _expression_. `Close`( `_Cancel_` )
+_expression_. `Close`( `_Cancel_` )
 
- _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
+_expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md) object.
 
 
 ## Parameters

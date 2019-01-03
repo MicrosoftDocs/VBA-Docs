@@ -18,9 +18,9 @@ Rejects all changes in the specified shared workbook.
 
 ## Syntax
 
- _expression_. `RejectAllChanges`( `_When_` , `_Who_` , `_Where_` )
+_expression_. `RejectAllChanges`( `_When_` , `_Who_` , `_Where_` )
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Parameters

@@ -18,7 +18,7 @@ Locates and returns a Microsoft Outlook item object that satisfies the given  _F
 
 ## Syntax
 
- _expression_. `Find`( `_Filter_` )
+_expression_. `Find`( `_Filter_` )
 
  _expression_ An expression that returns a [Items](./Outlook.Items.md) object.
 

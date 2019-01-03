@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarComboBox.DropDownWidth
 ms.assetid: 051ac285-c7f1-a2b7-0c9a-ed2cb08cadc9
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
@@ -16,14 +16,14 @@ ms.date: 06/08/2017
 Gets or sets the width (in pixels) of the list for the specified command bar combo box control. Read/write.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `DropDownWidth`
+_expression_.**DropDownWidth**
 
- _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
+_expression_ A variable that represents a **[CommandBarComboBox](Office.CommandBarComboBox.md)** object.
 
 
 ## Remarks
@@ -36,7 +36,7 @@ If this property is set to -1, the width of the list is based on the length of t
 
 ## Example
 
-This example adds a combo box control containing two items to the command bar named "Custom". The example also sets the number of line items, the width of the combo box, and an empty default for the combo box.
+This example adds a combo box control containing two items to the command bar named **Custom**. The example also sets the number of line items, the width of the combo box, and an empty default for the combo box.
 
 
 ```vb
@@ -54,10 +54,4 @@ End With
 
 ## See also
 
-
-[CommandBarComboBox Object](Office.CommandBarComboBox.md)
-
-
-
-[CommandBarComboBox Object Members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-
+- [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)

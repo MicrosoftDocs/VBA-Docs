@@ -18,7 +18,7 @@ Marks a  **[ContactItem](Outlook.ContactItem.md)** object as a task and assigns 
 
 ## Syntax
 
- _expression_. `MarkAsTask`( `_MarkInterval_` )
+_expression_. `MarkAsTask`( `_MarkInterval_` )
 
  _expression_ An expression that returns a [ContactItem](./Outlook.ContactItem.md) object.
 

@@ -18,9 +18,9 @@ Forwards the  **[AppointmentItem](Outlook.AppointmentItem.md)** as a vCal; virtu
 
 ## Syntax
 
- _expression_. `ForwardAsVcal`
+_expression_. `ForwardAsVcal`
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Return value

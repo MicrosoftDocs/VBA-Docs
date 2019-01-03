@@ -15,7 +15,7 @@ Retrieves or sets the Smart Art layout associated with the Smart Art graphic. Re
 
 ## Syntax
 
- _expression_. `Layout`
+_expression_. `Layout`
 
  _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 

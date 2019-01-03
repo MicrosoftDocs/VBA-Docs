@@ -18,9 +18,9 @@ Returns or sets the position of the PivotTable field subtotals in relation to (e
 
 ## Syntax
 
- _expression_. `LayoutSubtotalLocation`
+_expression_. `LayoutSubtotalLocation`
 
- _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
+_expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Is  **True** if the user is allowed to select multiple files from a file dialog 
 
 ## Syntax
 
- _expression_. `AllowMultiSelect`
+_expression_. `AllowMultiSelect`
 
- _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Remarks

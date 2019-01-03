@@ -16,9 +16,9 @@ Returns a  **[xlCategoryLabelLevel enumeration (Excel)](Excel.xlcategorylabellev
 
 ## Syntax
 
- _expression_. `CategoryLabelLevel`
+_expression_. `CategoryLabelLevel`
 
- _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
 
 
 ## Remarks

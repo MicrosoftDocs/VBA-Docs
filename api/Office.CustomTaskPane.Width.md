@@ -18,7 +18,7 @@ Gets or sets the width of the task pane specified by the  **CustomTaskPane** obj
 
 ## Syntax
 
- _expression_. `Width`
+_expression_. `Width`
 
  _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 

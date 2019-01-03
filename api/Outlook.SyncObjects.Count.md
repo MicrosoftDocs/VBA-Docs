@@ -18,9 +18,9 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
+_expression_ A variable that represents a [SyncObjects](./Outlook.SyncObjects.md) object.
 
 
 ## See also

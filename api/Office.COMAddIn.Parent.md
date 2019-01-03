@@ -20,7 +20,7 @@ Gets the **Parent** object for the **COMAddIn** object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Return value

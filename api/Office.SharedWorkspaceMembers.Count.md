@@ -21,9 +21,9 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceMembers*
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md) object.
+_expression_ A variable that represents a [SharedWorkspaceMembers](Office.SharedWorkspaceMembers.md) object.
 
 
 ## Return value

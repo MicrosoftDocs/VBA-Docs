@@ -21,9 +21,9 @@ Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.
 
 ## Syntax
 
- _expression_. `Title`
+_expression_. `Title`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

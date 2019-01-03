@@ -18,9 +18,9 @@ Gets a  **Long** indicating the number of items in the **ODSOColumns** collectio
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
+_expression_ A variable that represents an [ODSOColumns](Office.ODSOColumns.md) object.
 
 
 ## Return value

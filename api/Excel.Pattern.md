@@ -68,7 +68,7 @@ For the ChartFillFormat object, returns or sets the fill pattern, read-only MsoP
 | **msoPatternWideUpwardDiagonal**|
 | **msoPatternZigZag**|
 
- _expression_. `Pattern`
+_expression_. `Pattern`
 
  _expression_ Required. An expression that returns one of the above objects.
 

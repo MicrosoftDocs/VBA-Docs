@@ -18,9 +18,9 @@ Returns the number of levels in the specified  **[SlicerCacheLevels](Excel.Slice
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
- _expression_ A variable that returns a [SlicerCacheLevels](./Excel.SlicerCacheLevels.md) object.
+_expression_ A variable that returns a [SlicerCacheLevels](./Excel.SlicerCacheLevels.md) object.
 
 
 ## Return value

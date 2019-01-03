@@ -16,9 +16,9 @@ Returns or sets the thousands separator character that Microsoft Excel uses when
 
 ## Syntax
 
- _expression_. `TextFileThousandsSeparator`
+_expression_. `TextFileThousandsSeparator`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

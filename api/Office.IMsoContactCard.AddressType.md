@@ -18,7 +18,7 @@ A  **MsoContactCardAddressType** value that represents the address type for the 
 
 ## Syntax
 
- _expression_. `AddressType`
+_expression_. `AddressType`
 
  _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 

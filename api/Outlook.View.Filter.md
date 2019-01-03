@@ -20,7 +20,7 @@ Returns or sets a  **String** value that represents the filter for a view. Read/
 
  _expression_. `Filter`
 
- _expression_ A variable that represents a [View](./Outlook.View.md) object.
+_expression_ A variable that represents a [View](./Outlook.View.md) object.
 
 
 ## Remarks

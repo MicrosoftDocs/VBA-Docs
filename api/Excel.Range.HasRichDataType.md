@@ -17,9 +17,9 @@ ms.date: 09/12/2018
 
 ## Syntax
 
- _expression_. `HasRichDataType`
+_expression_. `HasRichDataType`
 
- _expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
 
 
 ## Remarks

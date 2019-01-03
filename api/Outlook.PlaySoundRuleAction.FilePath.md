@@ -18,9 +18,9 @@ Returns or sets a  **String** that represents the full file path to a sound file
 
 ## Syntax
 
- _expression_. `FilePath`
+_expression_. `FilePath`
 
- _expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
+_expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySoundRuleAction.md) object.
 
 
 ## Remarks

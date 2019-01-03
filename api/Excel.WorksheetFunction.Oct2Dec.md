@@ -18,9 +18,9 @@ Converts an octal number to decimal.
 
 ## Syntax
 
- _expression_. `Oct2Dec`( `_Arg1_` )
+_expression_. `Oct2Dec`( `_Arg1_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

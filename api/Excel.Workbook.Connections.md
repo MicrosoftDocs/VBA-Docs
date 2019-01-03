@@ -18,9 +18,9 @@ The  **Connections** property establishes a connection between the workbook and 
 
 ## Syntax
 
- _expression_. `Connections`
+_expression_. `Connections`
 
- _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 
 
 ## Example

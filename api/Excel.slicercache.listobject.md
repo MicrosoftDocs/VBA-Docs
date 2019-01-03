@@ -16,9 +16,9 @@ Returns a  **ListObject** object for the [QueryTable object (Excel)](Excel.Query
 
 ## Syntax
 
- _expression_. `ListObject`
+_expression_. `ListObject`
 
- _expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
 
 
 ## Property value

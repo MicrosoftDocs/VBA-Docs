@@ -18,9 +18,9 @@ Returns the prefix character for the cell. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `PrefixCharacter`
+_expression_. `PrefixCharacter`
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Remarks

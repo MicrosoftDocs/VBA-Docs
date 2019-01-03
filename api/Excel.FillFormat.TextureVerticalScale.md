@@ -15,9 +15,9 @@ Returns the texture vertical scale for the specified fill. Read/write  **Single*
 
 ## Syntax
 
- _expression_. `TextureVerticalScale`
+_expression_. `TextureVerticalScale`
 
- _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
+_expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) object.
 
 
 ## See also

@@ -16,9 +16,9 @@ Returns or sets the origin of the text file you are importing into the query tab
 
 ## Syntax
 
- _expression_. `TextFilePlatform`
+_expression_. `TextFilePlatform`
 
- _expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
+_expression_ A variable that represents a [TextConnection](Excel.textconnection.md) object.
 
 
 ## Property value

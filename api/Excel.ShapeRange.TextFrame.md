@@ -18,9 +18,9 @@ Returns a  **[TextFrame](Excel.TextFrame.md)** object that contains the alignmen
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
- _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
+_expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) object.
 
 
 ## Example

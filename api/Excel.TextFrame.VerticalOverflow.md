@@ -18,9 +18,9 @@ Returns or sets the vertical overflow setting for the specified object. Read/wri
 
 ## Syntax
 
- _expression_. `VerticalOverflow`
+_expression_. `VerticalOverflow`
 
- _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
+_expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' object.
 
 
 ## Return value

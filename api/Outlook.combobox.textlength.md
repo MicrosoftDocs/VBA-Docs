@@ -16,8 +16,8 @@ Returns a  **Long** that represents the length, in number of characters, of text
 
 ## Syntax
 
- _expression_. **TextLength**
+_expression_. **TextLength**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 

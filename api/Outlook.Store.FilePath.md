@@ -18,9 +18,9 @@ Returns a  **String** representing the full file path for a Personal Folders Fil
 
 ## Syntax
 
- _expression_. `FilePath`
+_expression_. `FilePath`
 
- _expression_ A variable that represents a [Store](./Outlook.Store.md) object.
+_expression_ A variable that represents a [Store](./Outlook.Store.md) object.
 
 
 ## Remarks

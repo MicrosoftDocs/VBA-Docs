@@ -18,9 +18,9 @@ Returns or sets a  **Long** that indicates the location of the currently selecte
 
 ## Syntax
 
- _expression_. `ListIndex`
+_expression_. `ListIndex`
 
- _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
+_expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 
 
 ## Remarks

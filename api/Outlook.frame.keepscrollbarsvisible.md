@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies whether scroll bars remain visibl
 
 ## Syntax
 
- _expression_. **KeepScrollBarsVisible**
+_expression_. **KeepScrollBarsVisible**
 
- _expression_ A variable that represents a  **Frame** object.
+_expression_ A variable that represents a  **Frame** object.
 
 
 ## Remarks

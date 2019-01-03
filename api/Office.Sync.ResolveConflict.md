@@ -21,9 +21,9 @@ Resolves conflicts between the local and the server copies of a shared document.
 
 ## Syntax
 
- _expression_. `ResolveConflict`( `_SyncConflictResolution_` )
+_expression_. `ResolveConflict`( `_SyncConflictResolution_` )
 
- _expression_ A variable that represents a [Sync](Office.Sync.md) object.
+_expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets a  **Variant** value that represents the format code for the obj
 
 ## Syntax
 
- _expression_. `NumberFormatLocal`
+_expression_. `NumberFormatLocal`
 
- _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
+_expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 
 
 ## Remarks

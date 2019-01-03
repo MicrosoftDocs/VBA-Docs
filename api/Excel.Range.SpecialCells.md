@@ -18,9 +18,9 @@ Returns a  **[Range](Excel.Range(object).md)** object that represents all the ce
 
 ## Syntax
 
- _expression_. `SpecialCells`( `_Type_` , `_Value_` )
+_expression_. `SpecialCells`( `_Type_` , `_Value_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

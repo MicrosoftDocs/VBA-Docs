@@ -18,9 +18,9 @@ Returns or sets the ratio of the width of the workbook's tab area to the width o
 
 ## Syntax
 
- _expression_. `TabRatio`
+_expression_. `TabRatio`
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Remarks

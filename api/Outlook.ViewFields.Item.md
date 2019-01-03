@@ -20,7 +20,7 @@ Returns a  **[ViewField](Outlook.ViewField.md)** object from the collection.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
+_expression_ A variable that represents a [ViewFields](./Outlook.ViewFields.md) object.
 
 
 ## Parameters

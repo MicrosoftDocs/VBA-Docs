@@ -18,9 +18,9 @@ Returns a  **[Workbook](Excel.Workbook.md)** object that represents the workbook
 
 ## Syntax
 
- _expression_. `ThisWorkbook`
+_expression_. `ThisWorkbook`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

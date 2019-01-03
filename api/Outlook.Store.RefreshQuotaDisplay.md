@@ -18,9 +18,9 @@ Refreshes the store quota information that is displayed in the status bar in the
 
 ## Syntax
 
- _expression_. `RefreshQuotaDisplay`
+_expression_. `RefreshQuotaDisplay`
 
- _expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
+_expression_ A variable that represents a '[Store](Outlook.Store.md)' object.
 
 
 ## Remarks

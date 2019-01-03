@@ -18,9 +18,9 @@ Returns the nominal annual interest rate, given the effective rate and the numbe
 
 ## Syntax
 
- _expression_. `Nominal`( `_Arg1_` , `_Arg2_` )
+_expression_. `Nominal`( `_Arg1_` , `_Arg2_` )
 
- _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies the type of pointer displayed whe
 
 ## Syntax
 
- _expression_. **MousePointer**
+_expression_. **MousePointer**
 
- _expression_ A variable that represents a  **CheckBox** object.
+_expression_ A variable that represents a  **CheckBox** object.
 
 
 ## Remarks

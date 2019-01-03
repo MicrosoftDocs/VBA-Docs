@@ -15,7 +15,7 @@ Returns or sets a  **Boolean** that specifies whether an automatic tab occurs wh
 
  _expression_. **AutoTab**
 
- _expression_ A variable that represents a  **TextBox** object.
+_expression_ A variable that represents a  **TextBox** object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Removes the link to a Microsoft SharePoint Foundation site from a list. Returns 
 
 ## Syntax
 
- _expression_. `Unlink`
+_expression_. `Unlink`
 
- _expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
 
 
 ## Remarks

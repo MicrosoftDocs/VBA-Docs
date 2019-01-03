@@ -18,9 +18,9 @@ Returns or sets a  **Boolean** value that determines if the new item row is disp
 
 ## Syntax
 
- _expression_. `ShowNewItemRow`
+_expression_. `ShowNewItemRow`
 
- _expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
+_expression_ A variable that represents a [TableView](./Outlook.TableView.md) object.
 
 
 ## Remarks

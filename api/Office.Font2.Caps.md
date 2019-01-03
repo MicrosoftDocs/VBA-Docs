@@ -15,7 +15,7 @@ Gets or sets a value specifying that the text should be capitalized. Read/write.
 
 ## Syntax
 
- _expression_. `Caps`
+_expression_. `Caps`
 
  _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 

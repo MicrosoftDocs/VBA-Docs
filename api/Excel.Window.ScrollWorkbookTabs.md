@@ -18,9 +18,9 @@ Scrolls through the workbook tabs at the bottom of the window. Doesn't affect th
 
 ## Syntax
 
- _expression_. `ScrollWorkbookTabs`( `_Sheets_` , `_Position_` )
+_expression_. `ScrollWorkbookTabs`( `_Sheets_` , `_Position_` )
 
- _expression_ A variable that represents a [Window](./Excel.Window.md) object.
+_expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates whether the recurrence pattern has n
 
 ## Syntax
 
- _expression_. `NoEndDate`
+_expression_. `NoEndDate`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## Remarks

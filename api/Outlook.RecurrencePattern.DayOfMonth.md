@@ -18,9 +18,9 @@ Returns or sets a  **Long** indicating the day of the month on which the recurri
 
 ## Syntax
 
- _expression_. `DayOfMonth`
+_expression_. `DayOfMonth`
 
- _expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
+_expression_ A variable that represents a [RecurrencePattern](./Outlook.RecurrencePattern.md) object.
 
 
 ## See also

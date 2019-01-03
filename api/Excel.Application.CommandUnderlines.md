@@ -18,9 +18,9 @@ Returns or sets the state of the command underlines in Microsoft Excel for the M
 
 ## Syntax
 
- _expression_. `CommandUnderlines`
+_expression_. `CommandUnderlines`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks

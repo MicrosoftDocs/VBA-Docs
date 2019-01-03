@@ -18,9 +18,9 @@ Closes and optionally saves changes to the Outlook item.
 
 ## Syntax
 
- _expression_. `Close`( `_SaveMode_` )
+_expression_. `Close`( `_SaveMode_` )
 
- _expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
+_expression_ A variable that represents an [AppointmentItem](./Outlook.AppointmentItem.md) object.
 
 
 ## Parameters

@@ -18,9 +18,9 @@ Returns or sets the category for the specified name, in the language of the user
 
 ## Syntax
 
- _expression_. `CategoryLocal`
+_expression_. `CategoryLocal`
 
- _expression_ A variable that represents a [Name](Excel.Name.md) object.
+_expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 
 ## Example

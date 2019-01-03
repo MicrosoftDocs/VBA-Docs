@@ -7,23 +7,23 @@ ms.prod: office
 api_name:
 - Office.CommandBar.BuiltIn
 ms.assetid: f7e4c581-2019-9fca-5e9e-15db4d656269
-ms.date: 06/08/2017
+ms.date: 01/03/2019
 ---
 
 
 # CommandBar.BuiltIn property (Office)
 
-Gets  **True** if the specified command bar is a built-in command bar of the container application. Returns **False** if it is a custom command bar. Read-only.
+Gets **True** if the specified command bar is a built-in command bar of the container application. Returns **False** if it is a custom command bar. Read-only.
 
 > [!NOTE]
-> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, search Help for the keyword "ribbon."
+> The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
 
 
 ## Syntax
 
- _expression_. `BuiltIn`
+_expression_.**BuiltIn**
 
- _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
+_expression_ A variable that represents a **[CommandBar](Office.CommandBar.md)** object.
 
 
 ## Return value
@@ -56,10 +56,5 @@ End If
 
 ## See also
 
-
-[CommandBar Object](Office.CommandBar.md)
-
-
-
-[CommandBar Object Members](./overview/Library-Reference/commandbar-members-office.md)
+- [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 

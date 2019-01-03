@@ -1,5 +1,5 @@
 ---
-title: CustomXMLParts.PartBeforeDelete Event (Office)
+title: CustomXMLParts.PartBeforeDelete event (Office)
 keywords: vbaof11.chm299002
 f1_keywords:
 - vbaof11.chm299002
@@ -11,14 +11,14 @@ ms.date: 06/08/2017
 ---
 
 
-# CustomXMLParts.PartBeforeDelete Event (Office)
+# CustomXMLParts.PartBeforeDelete event (Office)
 
 Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.
 
 
 ## Syntax
 
- _expression_. `PartBeforeDelete`( `_OldPart_`, )
+_expression_. `PartBeforeDelete`( `_OldPart_`, )
 
  _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 

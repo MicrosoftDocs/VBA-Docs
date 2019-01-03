@@ -15,9 +15,9 @@ Sets the camera for the specified  **ThreeDFormat** object.
 
 ## Syntax
 
- _expression_. `SetPresetCamera`( `_PresetCamera_` )
+_expression_. `SetPresetCamera`( `_PresetCamera_` )
 
- _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
+_expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md) object.
 
 
 ## Parameters

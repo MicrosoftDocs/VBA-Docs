@@ -18,9 +18,9 @@ Returns or sets the worksheet range linked to the control's value. If you place 
 
 ## Syntax
 
- _expression_. `LinkedCell`
+_expression_. `LinkedCell`
 
- _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 
 
 ## Remarks

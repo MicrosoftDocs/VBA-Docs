@@ -18,9 +18,9 @@ Returns or sets the name of the current user. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `UserName`
+_expression_. `UserName`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

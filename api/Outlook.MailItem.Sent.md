@@ -18,9 +18,9 @@ Returns a  **Boolean** value that indicates if a message has been sent. Read-onl
 
 ## Syntax
 
- _expression_. `Sent`
+_expression_. `Sent`
 
- _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
+_expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) object.
 
 
 ## Remarks

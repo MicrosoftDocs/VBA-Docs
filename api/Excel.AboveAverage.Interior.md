@@ -18,9 +18,9 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a ce
 
 ## Syntax
 
- _expression_. `Interior`
+_expression_. `Interior`
 
- _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
 
 
 ## See also

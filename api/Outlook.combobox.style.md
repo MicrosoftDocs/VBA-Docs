@@ -16,9 +16,9 @@ Returns or sets an  **Integer** that specifies how the user can choose or set th
 
 ## Syntax
 
- _expression_. **Style**
+_expression_. **Style**
 
- _expression_ A variable that represents a  **ComboBox** object.
+_expression_ A variable that represents a  **ComboBox** object.
 
 
 ## Remarks

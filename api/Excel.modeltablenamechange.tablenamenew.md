@@ -16,9 +16,9 @@ Returns the new name of the table.  **String** Read-only
 
 ## Syntax
 
- _expression_. `TableNameNew`
+_expression_. `TableNameNew`
 
- _expression_ A variable that represents a [ModelTableNameChange](Excel.modeltablenamechange.md) object.
+_expression_ A variable that represents a [ModelTableNameChange](Excel.modeltablenamechange.md) object.
 
 
 ## Property value

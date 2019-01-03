@@ -18,7 +18,7 @@ Retrieves the count of the number of  **PickerResult** objects contained within 
 
 ## Syntax
 
- _expression_. `Count`
+_expression_. `Count`
 
  _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 

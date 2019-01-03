@@ -18,9 +18,9 @@ Filters or copies data from a list based on a criteria range. If the initial sel
 
 ## Syntax
 
- _expression_. `AdvancedFilter`( `_Action_` , `_CriteriaRange_` , `_CopyToRange_` , `_Unique_` )
+_expression_. `AdvancedFilter`( `_Action_` , `_CriteriaRange_` , `_CopyToRange_` , `_Unique_` )
 
- _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
+_expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 
 
 ## Parameters

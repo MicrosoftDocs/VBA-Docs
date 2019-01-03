@@ -20,7 +20,7 @@ Gets or sets an object reference. Read/write.
 
 _expression_.**Object**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Remarks

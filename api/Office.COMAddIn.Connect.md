@@ -20,7 +20,7 @@ Gets or sets the state of the connection for the specified **COMAddIn** object. 
 
 _expression_.**Connect**
 
-_expression_ A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
+_expression_ A variable that represents a **[COMAddIn](Office.COMAddIn.md)** object.
 
 
 ## Remarks

@@ -18,9 +18,9 @@ Returns or sets the default format for saving files. For a list of valid constan
 
 ## Syntax
 
- _expression_. `DefaultSaveFormat`
+_expression_. `DefaultSaveFormat`
 
- _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Example

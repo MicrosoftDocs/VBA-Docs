@@ -18,9 +18,9 @@ Returns a  **[View](Outlook.View.md)** object representing the current view. Rea
 
 ## Syntax
 
- _expression_. `CurrentView`
+_expression_. `CurrentView`
 
- _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
+_expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 
 ## Remarks

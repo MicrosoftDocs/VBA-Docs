@@ -18,7 +18,7 @@ Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** c
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 

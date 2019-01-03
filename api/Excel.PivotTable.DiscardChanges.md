@@ -18,9 +18,9 @@ Discards all changes in the edited cells of a PivotTable report based on an OLAP
 
 ## Syntax
 
- _expression_. `DiscardChanges`
+_expression_. `DiscardChanges`
 
- _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
+_expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' object.
 
 
 ## Return value

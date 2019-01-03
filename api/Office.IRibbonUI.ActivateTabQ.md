@@ -18,7 +18,7 @@ Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Use
 
 ## Syntax
 
- _expression_. `ActivateTabQ`(`ControlID`, `Namespace`)
+_expression_. `ActivateTabQ`(`ControlID`, `Namespace`)
 
  _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
