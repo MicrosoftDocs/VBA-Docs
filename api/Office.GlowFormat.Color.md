@@ -17,7 +17,7 @@ Gets a  **ColorFormat** object that represents the color of text formatted as gl
 
  _expression_. `Color`
 
- _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
+ _expression_ An expression that returns a [GlowFormat](Office.GlowFormat.md) object.
 
 
 ## Return value

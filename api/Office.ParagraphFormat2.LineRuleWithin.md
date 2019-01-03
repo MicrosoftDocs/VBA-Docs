@@ -17,7 +17,7 @@ Determines whether line spacing between base lines is set to a specific number o
 
  _expression_. `LineRuleWithin`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

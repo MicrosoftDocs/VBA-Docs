@@ -20,7 +20,7 @@ Adds a  **ScopeFolder** object to the **SearchFolders** collection.
 
  _expression_. `AddToSearchFolders`
 
- _expression_ A variable that represents a [ScopeFolder](./Office.ScopeFolder.md) object.
+ _expression_ A variable that represents a [ScopeFolder](Office.ScopeFolder.md) object.
 
 
 ## Remarks

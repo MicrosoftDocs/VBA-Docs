@@ -17,7 +17,7 @@ Retrieves a  **SmartArtColor** object at the specified index or with the specifi
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
+ _expression_ An expression that returns a [SmartArtColors](Office.SmartArtColors.md) object.
 
 
 ## Parameters

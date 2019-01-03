@@ -17,7 +17,7 @@ ms.date: 06/08/2017
 
  _expression_. `AutoSize`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

@@ -17,7 +17,7 @@ Gets the  **Application** object of the host application. Read-only.
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

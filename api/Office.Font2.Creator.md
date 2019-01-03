@@ -17,7 +17,7 @@ Gets a value indicating the application the object was created in. Read-only.
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

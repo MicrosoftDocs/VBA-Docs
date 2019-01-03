@@ -17,7 +17,7 @@ Gets or sets a  **Long** indicating the number of items in the **TextColumn2** c
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [TextColumn2](./Office.TextColumn2.md) object.
+ _expression_ An expression that returns a [TextColumn2](Office.TextColumn2.md) object.
 
 
 ## Return value

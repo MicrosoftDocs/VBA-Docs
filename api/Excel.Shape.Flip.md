@@ -29,7 +29,7 @@ Flips the specified shape around its horizontal or vertical axis.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FlipCmd_|Required| **[MsoFlipCmd](./Office.MsoFlipCmd.md)**|Specifies whether the shape is to be flipped horizontally or vertically.|
+| _FlipCmd_|Required| **[MsoFlipCmd](Office.MsoFlipCmd.md)**|Specifies whether the shape is to be flipped horizontally or vertically.|
 
 ## Example
 

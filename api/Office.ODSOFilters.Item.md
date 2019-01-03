@@ -20,7 +20,7 @@ Represents a  **ODSOFilter** object in the **ODSOFilters** collection.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ A variable that represents an [ODSOFilters](./Office.ODSOFilters.md) object.
+ _expression_ A variable that represents an [ODSOFilters](Office.ODSOFilters.md) object.
 
 
 ## Parameters

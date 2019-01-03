@@ -17,7 +17,7 @@ Retrieves the string name of the SmartArt layout. Read-only
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## See also

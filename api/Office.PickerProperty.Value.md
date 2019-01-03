@@ -20,7 +20,7 @@ Retrieves the value of a Picker property. Read-only
 
  _expression_. `Value`
 
- _expression_ An expression that returns a [PickerProperty](./Office.PickerProperty.md) object.
+ _expression_ An expression that returns a [PickerProperty](Office.PickerProperty.md) object.
 
 
 ## See also

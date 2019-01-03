@@ -17,7 +17,7 @@ Gets a  **Long** value indicating the starting point of the specified text range
 
  _expression_. `Start`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

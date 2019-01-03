@@ -20,7 +20,7 @@ Inspects a document for specific information or document properties.
 
  _expression_. `Inspect`( `_Status_`, `_Results_` )
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Parameters

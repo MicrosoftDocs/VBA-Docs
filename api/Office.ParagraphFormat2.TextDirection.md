@@ -17,7 +17,7 @@ Gets or sets the text direction for the specified paragraph. Read/write.
 
  _expression_. `TextDirection`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

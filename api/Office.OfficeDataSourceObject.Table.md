@@ -20,7 +20,7 @@ Gets a  **String** that represents the name of the table within the data source 
 
  _expression_. `Table`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

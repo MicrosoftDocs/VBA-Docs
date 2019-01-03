@@ -20,7 +20,7 @@ Gets the name of the  **ServerPolicy** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

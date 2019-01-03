@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ThemeFonts*
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
+ _expression_ An expression that returns a [ThemeFonts](Office.ThemeFonts.md) object.
 
 
 ## Return value

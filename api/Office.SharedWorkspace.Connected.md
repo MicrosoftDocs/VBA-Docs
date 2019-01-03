@@ -23,7 +23,7 @@ Gets a  **Boolean** value that indicates whether or not the active document is c
 
  _expression_. `Connected`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

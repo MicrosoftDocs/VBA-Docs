@@ -17,7 +17,7 @@ Gets or sets a value specifying the font to use for a selection. Read/write.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

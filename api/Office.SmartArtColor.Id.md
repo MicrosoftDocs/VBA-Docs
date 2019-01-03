@@ -17,7 +17,7 @@ Retrieves the unique Id of the associated SmartArt color style. Read-only
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SmartArtColor](./Office.SmartArtColor.md) object.
+ _expression_ An expression that returns a [SmartArtColor](Office.SmartArtColor.md) object.
 
 
 ## Remarks

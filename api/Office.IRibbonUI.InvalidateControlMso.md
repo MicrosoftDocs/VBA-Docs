@@ -20,7 +20,7 @@ Used to invalidate a built-in control.
 
  _expression_. `InvalidateControlMso`( `_ControlID_` )
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters

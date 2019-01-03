@@ -17,7 +17,7 @@ Retrieves the description of the SmartArt color style. Read-only
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [SmartArtColor](./Office.SmartArtColor.md) object.
+ _expression_ An expression that returns a [SmartArtColor](Office.SmartArtColor.md) object.
 
 
 ## See also

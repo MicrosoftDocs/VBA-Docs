@@ -23,7 +23,7 @@ Resets a built-in command bar to its default configuration.
 
  _expression_. `Reset`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

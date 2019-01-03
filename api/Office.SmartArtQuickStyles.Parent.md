@@ -17,7 +17,7 @@ Returns the calling object. Read-only
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [SmartArtQuickStyles](./Office.SmartArtQuickStyles.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyles](Office.SmartArtQuickStyles.md) object.
 
 
 ## See also

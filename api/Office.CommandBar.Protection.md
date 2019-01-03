@@ -23,7 +23,7 @@ Gets or sets a  **MsoBarProtection** constant representing the way a command bar
 
  _expression_. `Protection`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

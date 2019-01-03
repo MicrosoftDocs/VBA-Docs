@@ -17,7 +17,7 @@ Inserts text to the right of the existing text in the  **TextRange2** object.
 
  _expression_. `InsertAfter`( `_NewText_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

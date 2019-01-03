@@ -20,7 +20,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarPopup**
 
  _expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

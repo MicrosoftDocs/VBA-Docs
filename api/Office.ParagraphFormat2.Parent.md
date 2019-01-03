@@ -17,7 +17,7 @@ Gets the parent object for the  **ParagraphFormat2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

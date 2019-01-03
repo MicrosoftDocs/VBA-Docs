@@ -20,7 +20,7 @@ Gets the unique address identifier for the namespace of the  **CustomXMLPart** o
 
  _expression_. `NamespaceURI`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

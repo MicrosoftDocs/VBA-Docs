@@ -20,7 +20,7 @@ Represents the address in a Contact card. Read-only
 
  _expression_. `Address`
 
- _expression_ An expression that returns a [IMsoContactCard](./Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## See also

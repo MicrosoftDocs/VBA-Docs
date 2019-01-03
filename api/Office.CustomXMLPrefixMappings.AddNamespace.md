@@ -20,7 +20,7 @@ Allows you to add a custom namespace/prefix mapping to use when querying an item
 
  _expression_. `AddNamespace`( `_Prefix_`, `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Parameters

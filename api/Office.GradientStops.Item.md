@@ -17,7 +17,7 @@ Gets a  **GradientStop** object from a **GradientStops** collection. Read-only.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+ _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 
 
 ## Parameters

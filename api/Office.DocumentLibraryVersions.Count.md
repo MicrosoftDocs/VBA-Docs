@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **DocumentLibraryVersions
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [DocumentLibraryVersions](./Office.DocumentLibraryVersions.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
 
 
 ## Return value

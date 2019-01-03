@@ -23,7 +23,7 @@ Gets the name of the user who last modified the object. Read-only.
 
  _expression_. `ModifiedBy`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Return value

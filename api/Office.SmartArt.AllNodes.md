@@ -17,7 +17,7 @@ Retrieves a **SmartArtNodes** object containing all of the nodes within the Smar
 
 _expression_. `AllNodes`
 
-_expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+_expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## Remarks

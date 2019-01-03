@@ -30,7 +30,7 @@ MsoTriState
 
 ## Remarks
 
-The  **AutoLength** property value can be one of the ** [MsoTriState](./Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
+The  **AutoLength** property value can be one of the ** [MsoTriState](Office.MsoTriState.md)** constants declared in the Microsoft Office type library.
 
 Use the  [AutomaticLength](Publisher.CalloutFormat.AutomaticLength.md)method to set this property to  **msoTrue**, and use the  [CustomLength](Publisher.CalloutFormat.CustomLength.md)method to set this property to  **msoFalse**.
 

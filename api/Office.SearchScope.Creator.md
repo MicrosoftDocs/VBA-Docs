@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SearchScope
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SearchScope](./Office.SearchScope.md) object.
+ _expression_ A variable that represents a [SearchScope](Office.SearchScope.md) object.
 
 
 ## Return value

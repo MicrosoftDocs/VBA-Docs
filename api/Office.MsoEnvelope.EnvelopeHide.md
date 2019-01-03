@@ -20,7 +20,7 @@ Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** obj
 
  _expression_. `EnvelopeHide`
 
- _expression_ An expression that returns a [MsoEnvelope](./Office.MsoEnvelope.md) object.
+ _expression_ An expression that returns a [MsoEnvelope](Office.MsoEnvelope.md) object.
 
 
 ## Remarks

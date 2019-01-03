@@ -23,7 +23,7 @@ Gets or sets the index number of the selected item in the list portion of the  *
 
  _expression_. `ListIndex`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

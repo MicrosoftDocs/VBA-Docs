@@ -20,7 +20,7 @@ Invalidates the cached values for all of the controls of the Ribbon user interfa
 
  _expression_. `Invalidate`
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Remarks

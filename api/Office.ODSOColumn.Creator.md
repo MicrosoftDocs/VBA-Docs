@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **ODSOColumn*
 
  _expression_. `Creator`
 
- _expression_ A variable that represents an [ODSOColumn](./Office.ODSOColumn.md) object.
+ _expression_ A variable that represents an [ODSOColumn](Office.ODSOColumn.md) object.
 
 
 ## Return value

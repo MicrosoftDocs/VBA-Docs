@@ -20,7 +20,7 @@ Gets the type of the current node. Read-only.
 
  _expression_. `NodeType`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

@@ -23,7 +23,7 @@ Releases the user interface focus from all command bars.
 
  _expression_. `ReleaseFocus`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

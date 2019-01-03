@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
+ _expression_ An expression that returns a [GlowFormat](Office.GlowFormat.md) object.
 
 
 ## Return value

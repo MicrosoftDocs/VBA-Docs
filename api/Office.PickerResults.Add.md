@@ -20,7 +20,7 @@ Adds a  **PickerResult** object to the **PickerResults** collection.
 
  _expression_. `Add`( `_Id_`, `_DisplayName_`, `_Type_`, `_SIPId_`, `_ItemData_`, `_SubItems_` )
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+ _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 
 
 ## Parameters

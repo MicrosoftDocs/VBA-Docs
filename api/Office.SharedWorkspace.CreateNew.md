@@ -23,7 +23,7 @@ Creates a document workspace site on the server and adds the active document to 
 
  _expression_. `CreateNew`( `_URL_`, `_Name_` )
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Parameters

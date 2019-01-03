@@ -17,7 +17,7 @@ Gets or sets the amount of transparency, measured in percentages, of the shape's
 
  _expression_. `Transparency`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## See also

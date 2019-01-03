@@ -20,7 +20,7 @@ Gets the XML representation of the current  **CustomXMLPart** object. Read-only.
 
  _expression_. `XML`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

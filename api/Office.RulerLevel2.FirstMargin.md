@@ -17,7 +17,7 @@ Gets or sets the first-line indent for the specified outline level, in points. R
 
  _expression_. `FirstMargin`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

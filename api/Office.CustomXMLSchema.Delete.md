@@ -20,7 +20,7 @@ Deletes the specified schema from the  **CustomXMLSchema** collection.
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Remarks

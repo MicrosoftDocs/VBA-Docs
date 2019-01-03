@@ -20,7 +20,7 @@ Gets the schema XML for the  **MetaProperties** object. Read-only.
 
  _expression_. `SchemaXml`
 
- _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
+ _expression_ An expression that returns a [MetaProperties](Office.MetaProperties.md) object.
 
 
 ## Return value

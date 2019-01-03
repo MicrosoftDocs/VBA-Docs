@@ -20,7 +20,7 @@ Gets a description of the current state of the policy item. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

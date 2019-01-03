@@ -20,7 +20,7 @@ Gets a  **ScopeFolders** collection. The items in this collection correspond to 
 
  _expression_. `ScopeFolders`
 
- _expression_ A variable that represents a [ScopeFolder](./Office.ScopeFolder.md) object.
+ _expression_ A variable that represents a [ScopeFolder](Office.ScopeFolder.md) object.
 
 
 ## Example

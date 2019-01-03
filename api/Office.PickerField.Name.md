@@ -17,7 +17,7 @@ Retrieves the name of the Picker field. Read-only
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

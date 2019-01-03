@@ -20,7 +20,7 @@ Encrypts and returns a stream of data for a document.
 
  _expression_. `EncryptStream`( `_SessionHandle_`, `_StreamName_`, `_UnencryptedStream_`, `_EncryptedStream_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

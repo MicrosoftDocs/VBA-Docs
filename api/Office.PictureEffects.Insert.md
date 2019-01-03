@@ -17,7 +17,7 @@ Inserts a Picture Effect in a chain of composite effects.
 
  _expression_. `Insert`( `_EffectType_`, `_Position_` )
 
- _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
+ _expression_ An expression that returns a [PictureEffects](Office.PictureEffects.md) object.
 
 
 ## Parameters

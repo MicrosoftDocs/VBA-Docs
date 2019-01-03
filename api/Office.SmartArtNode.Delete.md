@@ -17,7 +17,7 @@ Removes the current SmartArt node.
 
 _expression_. `Delete`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

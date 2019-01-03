@@ -20,7 +20,7 @@ Saves an encrypted document.
 
  _expression_. `Save`( `_SessionHandle_`, `_EncryptionData_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

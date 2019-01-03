@@ -20,7 +20,7 @@ Gets the set of namespace prefix mappings used against the current  **CustomXMLP
 
  _expression_. `NamespaceManager`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

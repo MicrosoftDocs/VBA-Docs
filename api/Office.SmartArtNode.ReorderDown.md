@@ -17,7 +17,7 @@ Swaps a node with the next node in the bulleted list. This method reorder's the 
 
 _expression_. `ReorderDown`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

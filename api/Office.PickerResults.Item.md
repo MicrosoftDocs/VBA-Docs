@@ -20,7 +20,7 @@ Retrieves a  **PickerResult** object at the specified index. Read-only
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+ _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 
 
 ## Parameters

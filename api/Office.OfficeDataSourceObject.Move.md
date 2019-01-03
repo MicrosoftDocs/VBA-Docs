@@ -20,7 +20,7 @@ Moves a record in a return set from a  **OfficeDataSourceObject** object from on
 
  _expression_. `Move`( `_MsoMoveRow_`, `_RowNbr_` )
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Parameters

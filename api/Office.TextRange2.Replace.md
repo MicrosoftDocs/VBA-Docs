@@ -17,7 +17,7 @@ Finds specific text in a text range, replaces the found text with a specified st
 
  _expression_. `Replace`( `_FindWhat_`, `_ReplaceWhat_`, `_After_`, `_MatchCase_`, `_WholeWords_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

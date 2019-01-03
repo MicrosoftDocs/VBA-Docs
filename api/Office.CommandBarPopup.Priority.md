@@ -20,7 +20,7 @@ Gets or sets the priority of a  **CommandBarPopup** control. Read/write.
 
  _expression_. `Priority`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

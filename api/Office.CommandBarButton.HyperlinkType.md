@@ -23,7 +23,7 @@ Sets or gets a  **MsoCommandBarButtonHyperlinkType** constant that represents th
 
  _expression_. `HyperlinkType`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Example

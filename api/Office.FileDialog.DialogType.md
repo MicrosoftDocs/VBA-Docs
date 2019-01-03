@@ -20,7 +20,7 @@ Gets an  **MsoFileDialogType** constant representing the type of file dialog box
 
  _expression_. `DialogType`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Example

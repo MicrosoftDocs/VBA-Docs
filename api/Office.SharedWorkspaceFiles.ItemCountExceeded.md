@@ -23,7 +23,7 @@ Gets a  **Boolean** value indicating whether the number of files allowed in the 
 
  _expression_. `ItemCountExceeded`
 
- _expression_ An expression that returns a [SharedWorkspaceFiles](./Office.SharedWorkspaceFiles.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md) object.
 
 
 ## Return value

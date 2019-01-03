@@ -20,7 +20,7 @@ Occurs after a node is deleted in a  **CustomXMLPart** object.
 
  _expression_. `NodeAfterDelete`( `_OldNode_`, `_OldParentNode_`, `_OldNextSibling_`, `_InUndoRedo_` )
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Parameters

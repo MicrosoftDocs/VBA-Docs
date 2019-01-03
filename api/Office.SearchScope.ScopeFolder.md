@@ -20,7 +20,7 @@ Gets a  **ScopeFolder** object. Read-only.
 
  _expression_. `ScopeFolder`
 
- _expression_ A variable that represents a [SearchScope](./Office.SearchScope.md) object.
+ _expression_ A variable that represents a [SearchScope](Office.SearchScope.md) object.
 
 
 ## Example

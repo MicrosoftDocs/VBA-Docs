@@ -20,7 +20,7 @@ Gets a count of the number of command bars in the host application. Read-only.
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Return value

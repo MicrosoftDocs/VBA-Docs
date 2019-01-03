@@ -17,7 +17,7 @@ Deletes a  **TextRange2** object.
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

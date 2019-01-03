@@ -23,7 +23,7 @@ Gets the date and time when the  **Refresh** method was most recently called. Re
 
  _expression_. `LastRefreshed`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

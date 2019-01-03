@@ -17,7 +17,7 @@ Gets or sets the size, measured in percentages, of the shape's reflection image.
 
  _expression_. `Size`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## See also

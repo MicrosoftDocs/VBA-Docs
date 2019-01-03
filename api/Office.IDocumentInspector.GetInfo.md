@@ -17,7 +17,7 @@ Gets information about a custom Document Inspector module.
 
  _expression_. `GetInfo`( `_Name_`, `_Desc_` )
 
- _expression_ An expression that returns a [IDocumentInspector](./Office.IDocumentInspector.md) object.
+ _expression_ An expression that returns a [IDocumentInspector](Office.IDocumentInspector.md) object.
 
 
 ## Parameters

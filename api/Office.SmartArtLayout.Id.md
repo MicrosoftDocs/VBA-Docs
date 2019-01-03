@@ -17,7 +17,7 @@ Retrieves the unique Id of the associated SmartArt layout. Read-only
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## Remarks

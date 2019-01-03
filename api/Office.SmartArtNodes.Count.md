@@ -17,7 +17,7 @@ Retrieves the number of  **SmartArtNode** objects contained within the **SmartAr
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [SmartArtNodes](./Office.SmartArtNodes.md) object.
+ _expression_ An expression that returns a [SmartArtNodes](Office.SmartArtNodes.md) object.
 
 
 ## See also

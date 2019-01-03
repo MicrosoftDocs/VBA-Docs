@@ -20,7 +20,7 @@ Gets  **True** if the specified command bar control is a built-in control of the
 
  _expression_. `BuiltIn`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

@@ -17,7 +17,7 @@ Returns a  **ParagraphFormat** object that represents paragraph formatting for t
 
  _expression_. `ParagraphFormat`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

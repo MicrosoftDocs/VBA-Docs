@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **PictureEffe
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## See also

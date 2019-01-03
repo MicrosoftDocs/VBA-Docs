@@ -29,8 +29,8 @@ Aligns the shapes in the specified range of shapes.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _AlignCmd_|Required| **[MsoAlignCmd](./Office.MsoAlignCmd.md)**|Specifies the way the shapes in the specified shape range are to be aligned.|
-| _RelativeTo_|Required| **[MsoTriState](./Office.MsoTriState.md)**|Not used in Microsoft Excel. Must be  **False**.|
+| _AlignCmd_|Required| **[MsoAlignCmd](Office.MsoAlignCmd.md)**|Specifies the way the shapes in the specified shape range are to be aligned.|
+| _RelativeTo_|Required| **[MsoTriState](Office.MsoTriState.md)**|Not used in Microsoft Excel. Must be  **False**.|
 
 ## Example
 

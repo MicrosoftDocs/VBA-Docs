@@ -23,7 +23,7 @@ Gets a  **CommandBarControls** object that represents all the controls on a pop-
 
  _expression_. `Controls`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

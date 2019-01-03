@@ -20,7 +20,7 @@ Gets or sets a value that acts as a filter on the available  **Signature** objec
 
  _expression_. `Subset`
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

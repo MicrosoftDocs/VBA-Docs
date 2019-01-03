@@ -17,7 +17,7 @@ Returns a  **Long** that indicates the application in which the **ContactCard** 
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
+ _expression_ An expression that returns a [ContactCard](Office.ContactCard.md) object.
 
 
 ## Return value

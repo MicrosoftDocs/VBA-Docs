@@ -23,7 +23,7 @@ Gets a  **CommandBar** object that represents the active menu bar in the contain
 
  _expression_. `ActiveMenuBar`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Gets the object representing the Microsoft Excel workbook, Microsoft PowerPoint 
 
  _expression_. `OwnerDocument`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

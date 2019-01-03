@@ -20,7 +20,7 @@ Loads the XML markup, either from an XML customization file or from XML markup e
 
  _expression_. `GetCustomUI`( `_RibbonID_` )
 
- _expression_ An expression that returns a [IRibbonExtensibility](./Office.IRibbonExtensibility.md) object.
+ _expression_ An expression that returns a [IRibbonExtensibility](Office.IRibbonExtensibility.md) object.
 
 
 ## Parameters

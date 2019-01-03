@@ -20,7 +20,7 @@ Gets or sets the width (in pixels) of the specified  **CommandBarButton** contro
 
  _expression_. `Width`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

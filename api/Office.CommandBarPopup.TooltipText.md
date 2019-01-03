@@ -20,7 +20,7 @@ Gets or sets the text displayed in a  **CommandBarPopup's** **ScreenTip**. Read/
 
  _expression_. `TooltipText`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

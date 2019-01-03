@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether the document was signed successfull
 
  _expression_. `IsSigned`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Return value

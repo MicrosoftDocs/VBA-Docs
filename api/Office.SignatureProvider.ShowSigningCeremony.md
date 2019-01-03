@@ -20,7 +20,7 @@ Provides a signature provider add-in the opportunity to display the  **Signature
 
  _expression_. `ShowSigningCeremony`( `_ParentWindow_`, `_psigsetup_`, `_psiginfo_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

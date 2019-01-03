@@ -20,7 +20,7 @@ Displays a specified detail related to a digital certificate.
 
  _expression_. `GetCertificateDetail`( `_certdet_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

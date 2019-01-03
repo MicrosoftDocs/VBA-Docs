@@ -20,7 +20,7 @@ Displays a dialog box that allows users to select which signature certificate to
 
  _expression_. `SelectSignatureCertificate`( `_ParentWindow_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

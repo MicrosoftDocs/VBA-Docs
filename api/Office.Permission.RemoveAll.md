@@ -20,7 +20,7 @@ Removes all  **UserPermission** objects from the **Permission** collection of th
 
  _expression_. `RemoveAll`
 
- _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
+ _expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

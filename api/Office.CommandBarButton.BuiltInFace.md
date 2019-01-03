@@ -23,7 +23,7 @@ Is  **True** if the face of a command bar button control is its original built-i
 
  _expression_. `BuiltInFace`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets or sets the description for a command barpopup control. Read/write.
 
  _expression_. `DescriptionText`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

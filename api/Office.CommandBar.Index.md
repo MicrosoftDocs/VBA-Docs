@@ -23,7 +23,7 @@ Gets a  **Long** representing the index number for a **CommandBar** object in th
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

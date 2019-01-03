@@ -20,7 +20,7 @@ Gets or sets the height of a  **CommandBarControl** control. Read/write.
 
  _expression_. `Height`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

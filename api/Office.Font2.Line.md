@@ -17,7 +17,7 @@ Gets a value specifiying the format of a line. Read-only.
 
  _expression_. `Line`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

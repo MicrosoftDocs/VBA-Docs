@@ -30,7 +30,7 @@ MsoPresetTextEffect
 
 ## Remarks
 
-The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](./Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library.
+The  **PresetTextEffect** property value can be one of the ** [MsoPresetTextEffect](Office.MsoPresetTextEffect.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

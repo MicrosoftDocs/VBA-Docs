@@ -40,7 +40,7 @@ Saves the specified document with a new name or format. Some of the arguments fo
 | _SaveNativePictureFormat_|Optional| **Variant**|If graphics were imported from another platform (for example, Macintosh),  **True** to save only the Microsoft Windows version of the imported graphics.|
 | _SaveFormsData_|Optional| **Variant**| **True** to save the data entered by a user in a form as a record.|
 | _SaveAsAOCELetter_|Optional| **Variant**|If the document has an attached mailer,  **True** to save the document as an AOCE letter (the mailer is saved).|
-| _Encoding_|Optional| **Variant**|The code page, or character set, to use for documents saved as encoded text files. The default is the system code page. You cannot use all  **[MsoEncoding](./Office.MsoEncoding.md)** constants with this parameter.|
+| _Encoding_|Optional| **Variant**|The code page, or character set, to use for documents saved as encoded text files. The default is the system code page. You cannot use all  **[MsoEncoding](Office.MsoEncoding.md)** constants with this parameter.|
 | _InsertLineBreaks_|Optional| **Variant**|If the document is saved as a text file,  **True** to insert line breaks at the end of each line of text.|
 | _AllowSubstitutions_|Optional| **Variant**|If the document is saved as a text file,  **True** allows Word to replace some symbols with text that looks similar. For example, displaying the copyright symbol as (c). The default is **False**.|
 | _LineEnding_|Optional| **Variant**|The way Word marks the line and paragraph breaks in documents saved as text files. Can be one of the following  **[WdLineEndingType](Word.WdLineEndingType.md)** constants: **wdCRLF** (default) or **wdCROnly**.|

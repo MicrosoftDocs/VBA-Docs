@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **SearchFolders** collect
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SearchFolders](./Office.SearchFolders.md) object.
+ _expression_ A variable that represents a [SearchFolders](Office.SearchFolders.md) object.
 
 
 ## Return value

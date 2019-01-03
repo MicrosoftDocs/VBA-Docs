@@ -20,7 +20,7 @@ Allows you to add one or more schemas to a schema collection that can then be ad
 
  _expression_. `Add`( `_NamespaceURI_`, `_Alias_`, `_FileName_`, `_InstallForAllUsers_` )
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
+ _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 
 
 ## Parameters

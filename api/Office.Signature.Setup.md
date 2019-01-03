@@ -20,7 +20,7 @@ Gets a  **SignatureSetup** object that provides access to various properties of 
 
  _expression_. `Setup`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Return value

@@ -17,7 +17,7 @@ Adds a new SmartArtNode to the data model in the way specified by the SmartArtNo
 
 _expression_. `AddNode`(`Position`, `Type`)
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Parameters

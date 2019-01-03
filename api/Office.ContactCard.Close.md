@@ -17,7 +17,7 @@ Closes the contact card.
 
  _expression_. `Close`
 
- _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
+ _expression_ An expression that returns a [ContactCard](Office.ContactCard.md) object.
 
 
 ## Return value

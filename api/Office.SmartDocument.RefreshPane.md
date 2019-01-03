@@ -20,7 +20,7 @@ Refreshes the  **Document Actions** task pane for the active document in Microso
 
  _expression_. `RefreshPane`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Remarks

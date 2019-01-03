@@ -20,7 +20,7 @@ Gets the Microsoft ActiveX® control instance displayed in the custom task pane 
 
  _expression_. `ContentControl`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

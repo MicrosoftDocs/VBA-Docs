@@ -20,7 +20,7 @@ Gets True if the specified command bar control appears at the beginning of a gro
 
  _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

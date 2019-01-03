@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **FileDialogF
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [FileDialogFilter](./Office.FileDialogFilter.md) object.
+ _expression_ A variable that represents a [FileDialogFilter](Office.FileDialogFilter.md) object.
 
 
 ## Return value

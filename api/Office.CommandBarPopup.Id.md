@@ -20,7 +20,7 @@ Gets the ID for a built-in  **CommandBarPopup** control. Read-only.
 
  _expression_. `Id`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

@@ -23,7 +23,7 @@ Gets a  **[SharedWorkspaceLinks](Office.SharedWorkspaceLinks.md)** collection th
 
  _expression_. `Links`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Example

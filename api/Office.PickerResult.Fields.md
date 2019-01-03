@@ -20,7 +20,7 @@ Represent field definitions of SubItems in a PickerFields collection. Read-only
 
  _expression_. `Fields`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

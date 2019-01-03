@@ -17,7 +17,7 @@ Gets a  **ThemeFontScheme** object that represents the font scheme of a Microsof
 
  _expression_. `ThemeFontScheme`
 
- _expression_ An expression that returns a [OfficeTheme](./Office.OfficeTheme.md) object.
+ _expression_ An expression that returns a [OfficeTheme](Office.OfficeTheme.md) object.
 
 
 ## Return value

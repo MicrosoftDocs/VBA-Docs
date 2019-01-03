@@ -10,14 +10,14 @@ ms.date: 01/02/2019
 
 # BulletFormat2.Parent property (Office)
 
-Gets the parent of the  **BulletFormat2** object. Read-only.
+Gets the parent of the **BulletFormat2** object. Read-only.
 
 
 ## Syntax
 
- _expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
+_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
 
 
 ## Return value

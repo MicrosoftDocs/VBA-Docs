@@ -15,9 +15,9 @@ Gets the bullet number of a paragraph. Read-only.
 
 ## Syntax
 
- _expression_. `Number`
+_expression_.**Number**
 
- _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
+_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
 
 
 ## Return value

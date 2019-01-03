@@ -17,7 +17,7 @@ Retrieves the count of the number of  **PickerField** objects contained within t
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [PickerFields](./Office.PickerFields.md) object.
+ _expression_ An expression that returns a [PickerFields](Office.PickerFields.md) object.
 
 
 ## See also

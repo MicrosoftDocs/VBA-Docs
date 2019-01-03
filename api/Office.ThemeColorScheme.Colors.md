@@ -17,7 +17,7 @@ Gets an object that represents a color in the color scheme of a Microsoft Office
 
  _expression_. `Colors`( `_Index_` )
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Parameters

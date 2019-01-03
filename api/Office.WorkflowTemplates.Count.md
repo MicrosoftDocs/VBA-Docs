@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **WorkflowTemplates** col
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
+ _expression_ An expression that returns a [WorkflowTemplates](Office.WorkflowTemplates.md) object.
 
 
 ## Return value

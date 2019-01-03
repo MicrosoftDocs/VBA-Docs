@@ -20,7 +20,7 @@ Gets or sets an enumerated value specifying the docked position of a  **CustomTa
 
  _expression_. `DockPosition`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

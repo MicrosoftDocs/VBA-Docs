@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **WorkflowTem
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [WorkflowTemplates](./Office.WorkflowTemplates.md) object.
+ _expression_ An expression that returns a [WorkflowTemplates](Office.WorkflowTemplates.md) object.
 
 
 ## Return value

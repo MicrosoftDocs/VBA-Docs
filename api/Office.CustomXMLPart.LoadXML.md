@@ -20,7 +20,7 @@ Allows the template author to populate a  **CustomXMLPart** object from an XML s
 
  _expression_. `LoadXML`( `_XML_` )
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Parameters

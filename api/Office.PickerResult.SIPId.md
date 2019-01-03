@@ -20,7 +20,7 @@ Is the identifier for Office Communication Server. It's used only for people pic
 
  _expression_. `SIPId`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

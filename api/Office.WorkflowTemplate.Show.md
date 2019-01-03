@@ -20,7 +20,7 @@ Displays a workflow specific configuration user interface for the specified  **W
 
  _expression_. `Show`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

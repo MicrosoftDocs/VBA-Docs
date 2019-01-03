@@ -20,7 +20,7 @@ Gets the description of a workflow template. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

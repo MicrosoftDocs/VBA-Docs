@@ -17,7 +17,7 @@ Returns a  **Ruler2** object that represents the ruler for the specified text. R
 
  _expression_. `Ruler`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Moves the keyboard focus to the specified  **CommandBarButton** control. If the 
 
  _expression_. `SetFocus`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

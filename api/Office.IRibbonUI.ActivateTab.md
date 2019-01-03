@@ -20,7 +20,7 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
 
  _expression_. `ActivateTab`( `_ControlID_` )
 
- _expression_ An expression that returns a [IRibbonUI](./Office.IRibbonUI.md) object.
+ _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters

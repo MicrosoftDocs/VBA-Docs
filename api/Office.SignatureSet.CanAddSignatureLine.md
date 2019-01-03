@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether you can add a signature line to a d
 
  _expression_. `CanAddSignatureLine`
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

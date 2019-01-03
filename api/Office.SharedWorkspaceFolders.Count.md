@@ -23,7 +23,7 @@ Gets a  **Long** indicating the number of items in the **SharedWorkspaceFolders*
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [SharedWorkspaceFolders](./Office.SharedWorkspaceFolders.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md) object.
 
 
 ## Return value

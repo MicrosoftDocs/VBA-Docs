@@ -20,7 +20,7 @@ Resets a built-in command bar to its default configuration, or resets a built-in
 
  _expression_. `Reset`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

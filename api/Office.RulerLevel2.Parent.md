@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **RulerLevel2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

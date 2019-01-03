@@ -20,7 +20,7 @@ Specifies whether the Picker field is hidden. Read-only
 
  _expression_. `IsHidden`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

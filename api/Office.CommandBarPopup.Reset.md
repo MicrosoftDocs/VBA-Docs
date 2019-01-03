@@ -20,7 +20,7 @@ Resets a built-in  **CommandBarPopup** control to its original function and face
 
  _expression_. `Reset`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Remarks

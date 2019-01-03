@@ -20,7 +20,7 @@ Gets or sets the source of a linked custom document property. Read/write.
 
  _expression_. `LinkSource`( `_pbstrSourceRetVal_` )
 
- _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
+ _expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
 
 
 ## Parameters

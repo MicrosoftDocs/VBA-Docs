@@ -17,7 +17,7 @@ Determines whether hanging punctuation is enabled for the specified paragraphs. 
 
  _expression_. `HangingPunctuation`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

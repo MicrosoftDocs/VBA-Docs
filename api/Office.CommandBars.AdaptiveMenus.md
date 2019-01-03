@@ -23,7 +23,7 @@ This property checks or unchecks the check box control for the option to show me
 
  _expression_. `AdaptiveMenus`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets a  **String** representing the title of a **CustomTaskPane** object. Read-o
 
  _expression_. `Title`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

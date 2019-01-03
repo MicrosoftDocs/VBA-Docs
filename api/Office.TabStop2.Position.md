@@ -17,7 +17,7 @@ Gets or sets the position of a tab stop relative to the left margin. Read/write.
 
  _expression_. `Position`
 
- _expression_ An expression that returns a [TabStop2](./Office.TabStop2.md) object.
+ _expression_ An expression that returns a [TabStop2](Office.TabStop2.md) object.
 
 
 ## Return value

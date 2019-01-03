@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [CustomXMLNodes](./Office.CustomXMLNodes.md) object.
+ _expression_ An expression that returns a [CustomXMLNodes](Office.CustomXMLNodes.md) object.
 
 
 ## Return value

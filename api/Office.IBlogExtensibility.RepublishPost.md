@@ -20,7 +20,7 @@ Hands off the current post so it can be republished by the provider.
 
  _expression_. `RepublishPost`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_PostID_`, `_xHTML_`, `_Title_`, `_DateTime_`, `_Categories()_`, `_Draft_`, `_PublishMessage_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

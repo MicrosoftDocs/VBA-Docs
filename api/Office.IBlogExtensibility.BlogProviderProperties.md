@@ -20,7 +20,7 @@ Contains information about the provider.
 
  _expression_. `BlogProviderProperties`( `_BlogProvider_`, `_FriendlyName_`, `_CategorySupport_`, `_Padding_`, `_NoCredentials_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

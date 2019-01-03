@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **FileDialogSelectedItem*
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [FileDialogSelectedItems](./Office.FileDialogSelectedItems.md) object.
+ _expression_ A variable that represents a [FileDialogSelectedItems](Office.FileDialogSelectedItems.md) object.
 
 
 ## Return value

@@ -16,7 +16,7 @@ Retrieves the children of the root node of the SmartArt diagram. Read-only
 
 _expression_. `Nodes`
 
-_expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+_expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## Remarks

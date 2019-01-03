@@ -20,7 +20,7 @@ Gets the name of the  **MetaProperty** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

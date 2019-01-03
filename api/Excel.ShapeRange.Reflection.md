@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.Reflection property (Excel)
 
-Returns a  **[ReflectionFormat](./Office.ReflectionFormat.md)** object for a specified shape range that contains reflection formatting properties for the shape range. Read-only.
+Returns a  **[ReflectionFormat](Office.ReflectionFormat.md)** object for a specified shape range that contains reflection formatting properties for the shape range. Read-only.
 
 
 ## Syntax

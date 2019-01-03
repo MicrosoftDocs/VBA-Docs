@@ -20,7 +20,7 @@ Gets the name of the  **PolicyItem** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

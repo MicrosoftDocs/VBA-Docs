@@ -20,7 +20,7 @@ Gets a  **PolicyItem** object from the **ServerPolicy** collection. Read-only.
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Parameters

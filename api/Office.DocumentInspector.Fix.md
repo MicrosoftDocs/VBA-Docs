@@ -20,7 +20,7 @@ Performs an action on specific information items or document properties dependin
 
  _expression_. `Fix`( `_Status_`, `_Results_` )
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Parameters

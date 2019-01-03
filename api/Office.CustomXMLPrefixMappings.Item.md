@@ -20,7 +20,7 @@ Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** c
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Parameters

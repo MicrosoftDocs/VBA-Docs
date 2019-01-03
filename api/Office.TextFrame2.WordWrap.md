@@ -17,7 +17,7 @@ Determines whether lines of text break automatically to fit inside the shape. Re
 
  _expression_. `WordWrap`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

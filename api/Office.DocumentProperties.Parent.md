@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **DocumentProperties** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [DocumentProperties](./Office.DocumentProperties.md) object.
+ _expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
 
 
 ## Return value

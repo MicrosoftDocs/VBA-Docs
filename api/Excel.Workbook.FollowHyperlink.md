@@ -34,7 +34,7 @@ Displays a cached document, if it?s already been downloaded. Otherwise, this met
 | _NewWindow_|Optional| **Variant**| **True** to display the target application in a new window. The default value is **False**.|
 | _AddHistory_|Optional| **Variant**|Not used. Reserved for future use.|
 | _ExtraInfo_|Optional| **Variant**|A  **String** or byte array that specifies additional information for HTTP to use to resolve the hyperlink. For example, you can use _ExtraInfo_ to specify the coordinates of an image map, the contents of a form, or a FAT file name.|
-| _Method_|Optional| **Variant**| Specifies the way _ExtraInfo_ is attached. Can be one of the **[MsoExtraInfoMethod](./Office.MsoExtraInfoMethod.md)** constants.|
+| _Method_|Optional| **Variant**| Specifies the way _ExtraInfo_ is attached. Can be one of the **[MsoExtraInfoMethod](Office.MsoExtraInfoMethod.md)** constants.|
 | _HeaderInfo_|Optional| **Variant**|A  **String** that specifies header information for the HTTP request. The defaut value is an empty string.|
 
 ## Remarks

@@ -23,7 +23,7 @@ Opens a different version of the shared document alongside the currently open lo
 
  _expression_. `OpenVersion`( `_SyncVersionType_` )
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Parameters

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.DocumentInspectors Property (PowerPoint)
 
-Returns the Microsoft Office  **[DocumentInspectors](./Office.DocumentInspectors.md)** collection. Read-only.
+Returns the Microsoft Office  **[DocumentInspectors](Office.DocumentInspectors.md)** collection. Read-only.
 
 
 ## Syntax

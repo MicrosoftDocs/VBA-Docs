@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [WorkflowTasks](./Office.WorkflowTasks.md) object.
+ _expression_ An expression that returns a [WorkflowTasks](Office.WorkflowTasks.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets the ID of a template used to create a workflow instance. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [WorkflowTemplate](./Office.WorkflowTemplate.md) object.
+ _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets True if the specified command bar control appears at the beginning of a gro
 
  _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets the type of error generated from the  **CustomXMLValidationError** object. 
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

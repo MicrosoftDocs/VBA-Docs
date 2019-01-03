@@ -23,7 +23,7 @@ Gets or sets a descriptive  **String** value for the specified **SharedWorkspace
 
  _expression_. `Description`
 
- _expression_ Required. A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ Required. A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Remarks

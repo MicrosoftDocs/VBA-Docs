@@ -20,7 +20,7 @@ Displays a dialog box containing information about a digital certificate followi
 
  _expression_. `SelectCertificateDetailByThumbprint`( `_bstrThumbprint_` )
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Parameters

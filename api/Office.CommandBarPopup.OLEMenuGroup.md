@@ -23,7 +23,7 @@ Gets or sets a  **MsoOLEMenuGroup** constant that represents the menu group that
 
  _expression_. `OLEMenuGroup`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Remarks

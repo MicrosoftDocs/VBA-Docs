@@ -17,7 +17,7 @@ Removes the specified custom tab stop
 
  _expression_. `Clear`
 
- _expression_ An expression that returns a [TabStop2](./Office.TabStop2.md) object.
+ _expression_ An expression that returns a [TabStop2](Office.TabStop2.md) object.
 
 
 ## Example

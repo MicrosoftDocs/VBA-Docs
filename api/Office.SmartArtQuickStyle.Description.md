@@ -17,7 +17,7 @@ Retrieves the description of the SmartArt quick style. Read-only
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

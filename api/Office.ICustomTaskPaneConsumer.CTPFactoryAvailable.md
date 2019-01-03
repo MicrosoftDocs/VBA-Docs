@@ -20,7 +20,7 @@ Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then use
 
  _expression_. `CTPFactoryAvailable`( `_CTPFactoryInst_` )
 
- _expression_ An expression that returns a [ICustomTaskPaneConsumer](./Office.ICustomTaskPaneConsumer.md) object.
+ _expression_ An expression that returns a [ICustomTaskPaneConsumer](Office.ICustomTaskPaneConsumer.md) object.
 
 
 ## Parameters

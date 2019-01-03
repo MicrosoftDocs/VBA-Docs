@@ -20,7 +20,7 @@ Creates a signature packet when digitally signing a document.
 
  _expression_. `AddNonVisibleSignature`( `_varSigProv_` )
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Parameters

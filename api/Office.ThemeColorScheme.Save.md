@@ -17,7 +17,7 @@ Saves the color scheme of a Microsoft Office theme to a file.
 
  _expression_. `Save`( `_FileName_` )
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Parameters

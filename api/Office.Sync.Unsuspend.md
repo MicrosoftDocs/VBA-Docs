@@ -23,7 +23,7 @@ Resumes synchronization between the local copy and the server copy of a shared d
 
  _expression_. `Unsuspend`
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

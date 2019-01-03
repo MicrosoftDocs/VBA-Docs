@@ -20,7 +20,7 @@ Gets or sets a  **Boolean** value indicating whether the **Signature** task pane
 
  _expression_. `ShowSignaturesPane`
 
- _expression_ An expression that returns a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets or sets a string that an application can use to execute a command from a  *
 
  _expression_. `Parameter`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

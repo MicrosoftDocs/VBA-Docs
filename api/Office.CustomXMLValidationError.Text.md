@@ -20,7 +20,7 @@ Gets the text in the  **CustomXMLValidationError** object. Read-only.
 
  _expression_. `Text`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

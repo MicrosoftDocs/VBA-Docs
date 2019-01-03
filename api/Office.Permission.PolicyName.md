@@ -20,7 +20,7 @@ Gets the name of the permissions policy applied to the active document. Read-onl
 
  _expression_. `PolicyName`
 
- _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
+ _expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

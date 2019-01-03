@@ -20,7 +20,7 @@ Gets  **True** if the value for the **MsoLanguageID** constant has been identifi
 
  _expression_. `LanguagePreferredForEditing`( `_lid_` )
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Parameters

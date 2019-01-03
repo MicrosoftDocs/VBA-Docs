@@ -17,7 +17,7 @@ Gets the formatting properties for the font of the specified text. Read-only
 
  _expression_. `Fill`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Example

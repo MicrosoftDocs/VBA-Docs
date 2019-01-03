@@ -17,7 +17,7 @@ Retrieves the type of SmartArt node. Read-only.
 
 _expression_. `Type`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

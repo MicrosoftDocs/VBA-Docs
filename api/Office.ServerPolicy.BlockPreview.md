@@ -20,7 +20,7 @@ Gets a  **Boolean** value that indicates whether you can preview items using thi
 
  _expression_. `BlockPreview`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

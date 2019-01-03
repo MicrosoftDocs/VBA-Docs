@@ -20,7 +20,7 @@ Gets or sets the OLE client and OLE server roles in which a  **CommandBarControl
 
  _expression_. `OLEUsage`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

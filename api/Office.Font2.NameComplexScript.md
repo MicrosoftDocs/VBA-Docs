@@ -17,7 +17,7 @@ Gets or sets the complex script font name. Used for mixed language text. Read/wr
 
  _expression_. `NameComplexScript`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

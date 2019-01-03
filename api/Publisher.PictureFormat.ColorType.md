@@ -30,7 +30,7 @@ MsoPictureColorType
 
 ## Remarks
 
-The  **ColorType** property value can be one of the ** [MsoPictureColorType](./Office.MsoPictureColorType.md)** constants declared in the Microsoft Office type library.
+The  **ColorType** property value can be one of the ** [MsoPictureColorType](Office.MsoPictureColorType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

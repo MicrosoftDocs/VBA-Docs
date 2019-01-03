@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ThemeEffectScheme](./Office.ThemeEffectScheme.md) object.
+ _expression_ An expression that returns a [ThemeEffectScheme](Office.ThemeEffectScheme.md) object.
 
 
 ## Return value

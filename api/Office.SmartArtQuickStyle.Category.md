@@ -17,7 +17,7 @@ Retrieves the primary category name associated with the SmartArt quick style. Re
 
  _expression_. `Category`
 
- _expression_ An expression that returns a [SmartArtQuickStyle](./Office.SmartArtQuickStyle.md) object.
+ _expression_ An expression that returns a [SmartArtQuickStyle](Office.SmartArtQuickStyle.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Represents a display name of PickerResult. Read/write
 
  _expression_. `DisplayName`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

@@ -17,7 +17,7 @@ Gets or sets the name of a font in the font scheme of a Microsoft Office theme. 
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [ThemeFont](./Office.ThemeFont.md) object.
+ _expression_ An expression that returns a [ThemeFont](Office.ThemeFont.md) object.
 
 
 ## Return value

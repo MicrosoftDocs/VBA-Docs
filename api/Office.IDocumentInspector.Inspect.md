@@ -17,7 +17,7 @@ Inspects a document for specific information items or document properties by usi
 
  _expression_. `Inspect`( `_Doc_`, `_Status_`, `_Result_`, `_Action_` )
 
- _expression_ An expression that returns a [IDocumentInspector](./Office.IDocumentInspector.md) object.
+ _expression_ An expression that returns a [IDocumentInspector](Office.IDocumentInspector.md) object.
 
 
 ## Parameters

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.BackgroundStyle property (Word)
 
-Sets or returns the background style of the specified shape. Read/write [MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md).
+Sets or returns the background style of the specified shape. Read/write [MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md).
 
 
 ## Syntax

@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **PolicyItem** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

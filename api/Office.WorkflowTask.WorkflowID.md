@@ -20,7 +20,7 @@ Gets the ID of the workflow associated with a workflow task. Read-only.
 
  _expression_. `WorkflowID`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

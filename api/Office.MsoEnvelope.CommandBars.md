@@ -23,7 +23,7 @@ Gets a  **CommandBars** collection. Read-only.
 
  _expression_. `CommandBars`
 
- _expression_ A variable that represents a [MsoEnvelope](./Office.MsoEnvelope.md) object.
+ _expression_ A variable that represents a [MsoEnvelope](Office.MsoEnvelope.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Gets a value specifying the type of reflection format for the selection of text.
 
  _expression_. `Reflection`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

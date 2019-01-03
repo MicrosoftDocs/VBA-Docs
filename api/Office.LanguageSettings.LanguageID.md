@@ -20,7 +20,7 @@ Gets a  **MsoAppLanguageID** constant representing the locale identifier (LCID) 
 
  _expression_. `LanguageID`( `_Id_` )
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Parameters

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.SoftEdge property (Excel)
 
-Returns a  **[SoftEdgeFormat](./Office.SoftEdgeFormat.md)** object for a specified shape that contains soft edge formatting properties for the shape. Read-only.
+Returns a  **[SoftEdgeFormat](Office.SoftEdgeFormat.md)** object for a specified shape that contains soft edge formatting properties for the shape. Read-only.
 
 
 ## Syntax

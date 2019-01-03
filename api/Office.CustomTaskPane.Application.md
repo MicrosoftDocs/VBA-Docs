@@ -20,7 +20,7 @@ Gets the  **Application** object of the host application. Read-only.
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

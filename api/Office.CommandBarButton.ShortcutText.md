@@ -23,7 +23,7 @@ Gets or sets the shortcut key text displayed next to a  **CommandBarButton** con
 
  _expression_. `ShortcutText`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

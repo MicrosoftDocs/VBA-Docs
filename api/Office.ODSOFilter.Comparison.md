@@ -20,7 +20,7 @@ Gets or sets an  **MsoFilterComparison** constant that represents how to compare
 
  _expression_. `Comparison`
 
- _expression_ A variable that represents an [ODSOFilter](./Office.ODSOFilter.md) object.
+ _expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
 
 
 ## Example

@@ -20,7 +20,7 @@ Creates an instance of a custom task pane.
 
  _expression_. `CreateCTP`( `_CTPAxID_`, `_CTPTitle_`, `_CTPParentWindow_` )
 
- _expression_ An expression that returns a [ICTPFactory](./Office.ICTPFactory.md) object.
+ _expression_ An expression that returns a [ICTPFactory](Office.ICTPFactory.md) object.
 
 
 ## Parameters

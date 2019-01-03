@@ -17,7 +17,7 @@ Specifies the type of Picture Effect. Read-only
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## Remarks

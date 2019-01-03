@@ -17,7 +17,7 @@ When used without an object qualifier, this property returns an  **Application**
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+ _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 
 
 ## Return value

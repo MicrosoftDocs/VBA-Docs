@@ -20,7 +20,7 @@ Displays details related to a signature packet.
 
  _expression_. `ShowDetails`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Example

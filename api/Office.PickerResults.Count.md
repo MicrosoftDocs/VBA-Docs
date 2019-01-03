@@ -20,7 +20,7 @@ Retrieves the count of the number of  **PickerResult** objects contained within 
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [PickerResults](./Office.PickerResults.md) object.
+ _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
 
 
 ## Example

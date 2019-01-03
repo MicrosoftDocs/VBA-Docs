@@ -17,7 +17,7 @@ Gets or sets the type of the  **ReflectionFormat** object. Read/write.
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## Return value

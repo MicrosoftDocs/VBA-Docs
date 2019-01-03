@@ -17,7 +17,7 @@ Gets or sets a value representing the indent level assigned to text in the selec
 
  _expression_. `IndentLevel`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

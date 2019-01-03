@@ -17,7 +17,7 @@ Gets the index value a color scheme of a Microsoft Office theme. Read-only.
 
  _expression_. `ThemeColorSchemeIndex`
 
- _expression_ An expression that returns a [ThemeColor](./Office.ThemeColor.md) object.
+ _expression_ An expression that returns a [ThemeColor](Office.ThemeColor.md) object.
 
 
 ## Return value

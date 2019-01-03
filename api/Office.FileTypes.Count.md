@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **FileTypes** collection.
 
  _expression_. `Count`
 
- _expression_ A variable that represents a [FileTypes](./Office.FileTypes.md) object.
+ _expression_ A variable that represents a [FileTypes](Office.FileTypes.md) object.
 
 
 ## Return value

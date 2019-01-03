@@ -17,7 +17,7 @@ Gets or sets the left indent for the specified outline level, in points. Read/wr
 
  _expression_. `LeftMargin`
 
- _expression_ An expression that returns a [RulerLevel2](./Office.RulerLevel2.md) object.
+ _expression_ An expression that returns a [RulerLevel2](Office.RulerLevel2.md) object.
 
 
 ## Return value

@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Workbook.GetWorkflowTemplates method (Excel)
 
-Returns the collection of  **[WorkflowTemplate](./Office.WorkflowTemplate.md)** objects for the specified workbook.
+Returns the collection of  **[WorkflowTemplate](Office.WorkflowTemplate.md)** objects for the specified workbook.
 
 
 ## Syntax

@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **Crop** obje
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

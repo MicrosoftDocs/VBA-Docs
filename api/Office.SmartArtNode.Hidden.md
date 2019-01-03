@@ -17,7 +17,7 @@ Returns **true** if this node is a hidden node in the data model. Read-only.
 
 _expression_. `Hidden`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## See also

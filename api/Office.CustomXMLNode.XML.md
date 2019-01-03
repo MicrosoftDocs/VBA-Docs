@@ -20,7 +20,7 @@ Gets the XML representation of the current node and its children, if any exist. 
 
  _expression_. `XML`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

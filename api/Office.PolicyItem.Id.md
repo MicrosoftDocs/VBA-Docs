@@ -20,7 +20,7 @@ Gets the ID of a policy item.  **PolicyItem** objects are contained in **ServerP
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [PolicyItem](./Office.PolicyItem.md) object.
+ _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
 
 
 ## Return value

@@ -23,7 +23,7 @@ Gets the  **CommandBarControl** object whose **OnAction** property is set to the
 
  _expression_. `ActionControl`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

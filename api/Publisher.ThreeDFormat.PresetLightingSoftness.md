@@ -30,7 +30,7 @@ MsoPresetLightingSoftness
 
 ## Remarks
 
-The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](./Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingSoftness** property value can be one of the ** [MsoPresetLightingSoftness](Office.MsoPresetLightingSoftness.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

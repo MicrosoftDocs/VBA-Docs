@@ -17,7 +17,7 @@ Gets an  **Application** object that represents the container application for th
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
+ _expression_ An expression that returns a [RulerLevels2](Office.RulerLevels2.md) object.
 
 
 ## Return value

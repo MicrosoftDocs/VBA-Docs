@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **SharedWorks
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

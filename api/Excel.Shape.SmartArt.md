@@ -25,7 +25,7 @@ Returns an object that represents the SmartArt associated with the shape. Read-o
 
 ## Return value
 
- **[SmartArt](./Office.SmartArt.md)**
+ **[SmartArt](Office.SmartArt.md)**
 
 
 ## See also

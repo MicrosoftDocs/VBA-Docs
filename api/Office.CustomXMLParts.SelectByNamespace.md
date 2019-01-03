@@ -20,7 +20,7 @@ Selects the collection of custom XML parts whose namespace matches the search cr
 
  _expression_. `SelectByNamespace`( `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

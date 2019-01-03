@@ -17,7 +17,7 @@ Gets one of the three language fonts contained in the  **ThemeFonts** collection
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [ThemeFonts](./Office.ThemeFonts.md) object.
+ _expression_ An expression that returns a [ThemeFonts](Office.ThemeFonts.md) object.
 
 
 ## Parameters

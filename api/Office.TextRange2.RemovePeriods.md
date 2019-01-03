@@ -17,7 +17,7 @@ Removes all period (.) punctuation from the text in the  **TextRange2** object.
 
  _expression_. `RemovePeriods`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

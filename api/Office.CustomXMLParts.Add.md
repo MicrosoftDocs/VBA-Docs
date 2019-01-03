@@ -20,7 +20,7 @@ Allows you to add a new  **CustomXMLPart** to a file.
 
  _expression_. `Add`( `_XML_`, `_SchemaCollection_` )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

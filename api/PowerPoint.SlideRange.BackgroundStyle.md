@@ -25,7 +25,7 @@ Sets or returns the background style of the specified object. Read/write.
 
 ## Remarks
 
-The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](./Office.MsoBackgroundStyleIndex.md)** constants.
+The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroundStyleIndex](Office.MsoBackgroundStyleIndex.md)** constants.
 
 
 ## See also

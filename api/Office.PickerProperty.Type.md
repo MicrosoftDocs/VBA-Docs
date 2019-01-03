@@ -20,7 +20,7 @@ Retrieves the type of the Picker property. Read-only
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PickerProperty](./Office.PickerProperty.md) object.
+ _expression_ An expression that returns a [PickerProperty](Office.PickerProperty.md) object.
 
 
 ## See also

@@ -17,7 +17,7 @@ Retrieves or sets the Smart Art color style applied to the Smart Art graphic. Re
 
  _expression_. `Color`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+ _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## Example

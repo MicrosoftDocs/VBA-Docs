@@ -44,7 +44,7 @@ TextRange
 
 The Format parameter can be one of the  **[PbDateTimeFormat](Publisher.PbDateTimeFormat.md)** constants declared in the Microsoft Publisher type library.
 
-The Language parameter can be one of the  ** [MsoLanguageID](./Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
+The Language parameter can be one of the  ** [MsoLanguageID](Office.MsoLanguageID.md)** constants declared in the Microsoft Office type library.
 
 The Calendar parameter can be one of the  **[PbCalendarType](Publisher.PbCalendarType.md)** constants declared in the Microsoft Publisher type library. The default is **pbCalendarTypeWestern**.
 

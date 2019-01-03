@@ -17,7 +17,7 @@ Retrieves the count of the number of  **PictureEffect** objects contained within
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [PictureEffects](./Office.PictureEffects.md) object.
+ _expression_ An expression that returns a [PictureEffects](Office.PictureEffects.md) object.
 
 
 ## See also

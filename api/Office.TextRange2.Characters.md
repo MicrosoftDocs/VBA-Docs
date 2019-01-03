@@ -17,7 +17,7 @@ Read-only.
 
  _expression_. `Characters`( `_Start_`, `_Length_` )
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Parameters

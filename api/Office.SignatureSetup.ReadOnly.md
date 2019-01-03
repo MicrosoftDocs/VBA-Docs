@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether the **SignatureSetup** object is re
 
  _expression_. `ReadOnly`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

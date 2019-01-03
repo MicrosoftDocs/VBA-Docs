@@ -20,7 +20,7 @@ A  **MsoContactCardType** value that represents the type of a Contact card. Read
 
  _expression_. `CardType`
 
- _expression_ An expression that returns a [IMsoContactCard](./Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## Remarks

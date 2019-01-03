@@ -17,7 +17,7 @@ Gets or sets the amount of blur, measured in points, of the shape's reflection i
 
  _expression_. `Blur`
 
- _expression_ An expression that returns a [ReflectionFormat](./Office.ReflectionFormat.md) object.
+ _expression_ An expression that returns a [ReflectionFormat](Office.ReflectionFormat.md) object.
 
 
 ## See also

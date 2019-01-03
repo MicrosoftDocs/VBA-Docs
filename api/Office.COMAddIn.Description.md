@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.COMAddIn.Description
 ms.assetid: f194ae48-0762-732f-7c9a-f19a92e94d9b
-ms.date: 06/08/2017
+ms.date: 01/02/2019
 ---
 
 
 # COMAddIn.Description property (Office)
 
-Gets or sets a descriptive  **String** value for the specified **COMAddin** object. Read/write.
+Gets or sets a descriptive **String** value for the specified **COMAddin** object. Read/write.
 
 
 ## Syntax
 
- _expression_. `Description`
+_expression_.**Description**
 
- _expression_ Required. A variable that represents a '[COMAddIn](Office.COMAddIn.md)' object.
+_expression_ Required. A variable that represents a [COMAddIn](Office.COMAddIn.md) object.
 
 
 ## Example
@@ -38,10 +38,5 @@ MsgBox "The description of this " &amp; _
 
 ## See also
 
-
-[COMAddIn Object](Office.COMAddIn.md)
-
-
-
-[COMAddIn Object Members](./overview/Library-Reference/comaddin-members-office.md)
+- [COMAddIn object members](overview/Library-Reference/comaddin-members-office.md)
 

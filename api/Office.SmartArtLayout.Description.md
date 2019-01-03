@@ -17,7 +17,7 @@ Retrieves the description of the SmartArt layout. Read-only
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## See also

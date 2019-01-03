@@ -20,7 +20,7 @@ Gets or sets the ID, often a globally unique identifier (GUID), which identifies
 
  _expression_. `SolutionID`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Remarks

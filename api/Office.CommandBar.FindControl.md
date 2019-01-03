@@ -23,7 +23,7 @@ Gets a  **CommandBarControl** object that fits a specified criteria.
 
  _expression_. `FindControl`( `_Type_`, `_Id_`, `_Tag_`, `_Visible_`, `_Recursive_` )
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Parameters

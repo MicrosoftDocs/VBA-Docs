@@ -17,7 +17,7 @@ Gets the parent of the  **Font2** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

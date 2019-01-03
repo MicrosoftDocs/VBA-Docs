@@ -20,7 +20,7 @@ ms.date: 06/08/2017
 
  _expression_. `Visible`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

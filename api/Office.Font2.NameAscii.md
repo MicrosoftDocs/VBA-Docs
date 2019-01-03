@@ -17,7 +17,7 @@ Gets or sets the font used for Latin text (characters with character codes from 
 
  _expression_. `NameAscii`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

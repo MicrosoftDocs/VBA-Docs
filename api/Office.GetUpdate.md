@@ -23,7 +23,7 @@ Compares the local version of the shared document to the version on the server.
 
  _expression_. `GetUpdate`
 
- _expression_ A variable that represents a [Sync](./Office.Sync.md) object.
+ _expression_ A variable that represents a [Sync](Office.Sync.md) object.
 
 
 ## Remarks

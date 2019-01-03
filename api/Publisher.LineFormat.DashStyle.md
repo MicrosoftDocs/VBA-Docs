@@ -30,7 +30,7 @@ MsoLineDashStyle
 
 ## Remarks
 
-The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](./Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
+The  **DashStyle** property value can be one of the ** [MsoLineDashStyle](Office.MsoLineDashStyle.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

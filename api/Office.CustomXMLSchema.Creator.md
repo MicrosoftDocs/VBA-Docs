@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLSc
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLSchema](./Office.CustomXMLSchema.md) object.
+ _expression_ An expression that returns a [CustomXMLSchema](Office.CustomXMLSchema.md) object.
 
 
 ## Return value

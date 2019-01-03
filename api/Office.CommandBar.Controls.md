@@ -23,7 +23,7 @@ Gets a  **CommandBarControls** object that represents all the controls on a comm
 
  _expression_. `Controls`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets information about a signature. Read-only.
 
  _expression_. `Details`
 
- _expression_ An expression that returns a [Signature](./Office.Signature.md) object.
+ _expression_ An expression that returns a [Signature](Office.Signature.md) object.
 
 
 ## Return value

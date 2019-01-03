@@ -17,7 +17,7 @@ Gets or sets a Boolean value representing the visible state of the picture effec
 
  _expression_. `Visible`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Gets or sets the name of a document property. Read/write.
 
  _expression_. `Name`( `_lcid_`, `_pbstrRetVal_` )
 
- _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
+ _expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
 
 
 ## Parameters

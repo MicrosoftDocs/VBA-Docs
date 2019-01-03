@@ -17,7 +17,7 @@ Retrieves the count of the number of  **SmartArtLayout** objects contained withi
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object.
+ _expression_ An expression that returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object.
 
 
 ## See also

@@ -20,7 +20,7 @@ Gets the description of the  **DocumentInspector** object. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [DocumentInspector](./Office.DocumentInspector.md) object.
+ _expression_ An expression that returns a [DocumentInspector](Office.DocumentInspector.md) object.
 
 
 ## Return value

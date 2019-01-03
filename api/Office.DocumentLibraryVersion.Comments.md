@@ -20,7 +20,7 @@ Gets any optional comments associated with the specified version of the shared d
 
  _expression_. `Comments`
 
- _expression_ A variable that represents a [DocumentLibraryVersion](./Office.DocumentLibraryVersion.md) object.
+ _expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
 
 
 ## Remarks

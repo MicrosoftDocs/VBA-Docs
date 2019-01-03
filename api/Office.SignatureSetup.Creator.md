@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SignatureSe
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

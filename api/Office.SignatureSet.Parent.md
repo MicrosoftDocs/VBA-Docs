@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **SignatureSet** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [SignatureSet](./Office.SignatureSet.md) object.
+ _expression_ A variable that represents a [SignatureSet](Office.SignatureSet.md) object.
 
 
 ## Return value

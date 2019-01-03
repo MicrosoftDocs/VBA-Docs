@@ -20,7 +20,7 @@ Gets a property's value specifying its name as opposed to its index value.
 
  _expression_. `GetItemByInternalName`( `_InternalName_` )
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Parameters

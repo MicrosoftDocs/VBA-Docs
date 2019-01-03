@@ -25,7 +25,7 @@ Returns or sets an  **MsoPatternType** constant that represents the pattern appl
 
 ## Remarks
 
-The  **Pattern** property value can be one of the ** [MsoPatternType](./Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
+The  **Pattern** property value can be one of the ** [MsoPatternType](Office.MsoPatternType.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

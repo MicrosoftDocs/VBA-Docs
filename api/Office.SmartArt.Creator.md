@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartArt** 
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+ _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## See also

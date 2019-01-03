@@ -23,7 +23,7 @@ Refreshes the local cache of the [SharedWorkspace](Office.SharedWorkspace.md) ob
 
  _expression_. `Refresh`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

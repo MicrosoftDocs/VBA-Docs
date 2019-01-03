@@ -23,7 +23,7 @@ Gets or sets the optional notes associated with a shared workspace link. Read/wr
 
  _expression_. `Notes`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Example

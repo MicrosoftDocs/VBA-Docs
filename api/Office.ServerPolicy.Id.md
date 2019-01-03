@@ -20,7 +20,7 @@ Gets the ID of a server policy. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [ServerPolicy](./Office.ServerPolicy.md) object.
+ _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
 
 
 ## Return value

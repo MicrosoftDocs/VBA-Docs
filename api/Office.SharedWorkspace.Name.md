@@ -23,7 +23,7 @@ Gets or sets the display name of the shared workspace site. Read/write.
 
  _expression_. `Name`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Return value

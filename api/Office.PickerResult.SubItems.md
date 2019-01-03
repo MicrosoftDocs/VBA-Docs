@@ -20,7 +20,7 @@ Display purpose or non-display purpose field data of a PickerResult object. It i
 
  _expression_. `SubItems`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## See also

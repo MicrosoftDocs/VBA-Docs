@@ -20,7 +20,7 @@ Gets  **True** if the specified command bar control appears at the beginning of 
 
  _expression_. `BeginGroup`
 
- _expression_ A variable that represents a [CommandBarPopup](./Office.CommandBarPopup.md) object.
+ _expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
 
 
 ## Return value

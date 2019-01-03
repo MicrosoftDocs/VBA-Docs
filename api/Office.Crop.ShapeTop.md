@@ -17,7 +17,7 @@ Gets or sets the location of the top of a shape that is used to crop an image. R
 
  _expression_. `ShapeTop`
 
- _expression_ An expression that returns a [Crop](./Office.Crop.md) object.
+ _expression_ An expression that returns a [Crop](Office.Crop.md) object.
 
 
 ## Return value

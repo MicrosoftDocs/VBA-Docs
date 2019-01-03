@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Presentation.CustomXMLParts Property (PowerPoint)
 
-Returns a  **[CustomXMLParts](./Office.CustomXMLParts.md)** object that represents the collection of custom XML parts associated with the specified **Presentation** object. Read-only.
+Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** object that represents the collection of custom XML parts associated with the specified **Presentation** object. Read-only.
 
 
 ## Syntax

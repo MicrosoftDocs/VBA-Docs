@@ -20,7 +20,7 @@ Gets or sets the description for a command bar combo box control. Read/write.
 
  _expression_. `DescriptionText`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

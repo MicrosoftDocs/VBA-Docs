@@ -17,7 +17,7 @@ Gets or sets a value specifying the spacing between characters in a selection of
 
  _expression_. `Spacing`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

@@ -17,7 +17,7 @@ Gets the value specifying the type of shadow effect for the selection of text. R
 
  _expression_. `Shadow`
 
- _expression_ An expression that returns a [Font2](./Office.Font2.md) object.
+ _expression_ An expression that returns a [Font2](Office.Font2.md) object.
 
 
 ## Return value

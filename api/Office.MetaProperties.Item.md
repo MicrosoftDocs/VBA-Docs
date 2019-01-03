@@ -20,7 +20,7 @@ Gets a  **MetaProperty** object from the **MetaProperties** collection. Read-onl
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [MetaProperties](./Office.MetaProperties.md) object.
+ _expression_ An expression that returns a [MetaProperties](Office.MetaProperties.md) object.
 
 
 ## Parameters

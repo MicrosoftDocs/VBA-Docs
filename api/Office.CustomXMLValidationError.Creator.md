@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLVa
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

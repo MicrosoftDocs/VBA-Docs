@@ -23,7 +23,7 @@ Designates the location of the public copy of a shared document to which changes
 
  _expression_. `SourceURL`
 
- _expression_ A variable that represents a [SharedWorkspace](./Office.SharedWorkspace.md) object.
+ _expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
 
 
 ## Remarks

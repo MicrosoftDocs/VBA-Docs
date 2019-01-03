@@ -20,7 +20,7 @@ Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collec
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](./Office.CustomXMLSchemaCollection.md) object.
+ _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
 
 
 ## Parameters

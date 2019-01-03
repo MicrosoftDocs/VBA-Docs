@@ -24,7 +24,7 @@ Gets or sets an  **IPictureDisp** object representing the image of a **CommandBa
 
  _expression_. `Picture`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

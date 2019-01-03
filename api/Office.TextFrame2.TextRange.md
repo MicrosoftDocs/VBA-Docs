@@ -17,7 +17,7 @@ Sets the text for a range of nodes in a SmartArt object. Read-only
 
  _expression_. `TextRange`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Example

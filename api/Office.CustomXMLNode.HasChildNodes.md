@@ -20,7 +20,7 @@ Gets  **True** if the current element node has child element nodes.
 
  _expression_. `HasChildNodes`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

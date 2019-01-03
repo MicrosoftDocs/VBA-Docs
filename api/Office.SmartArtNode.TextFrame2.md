@@ -17,7 +17,7 @@ Returns the text associated with the **SmartArtNode** object. Read-only.
 
 _expression_. `TextFrame2`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Example

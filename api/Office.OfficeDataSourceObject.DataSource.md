@@ -20,7 +20,7 @@ Gets or sets a  **String** that represents the name of the attached data source.
 
  _expression_. `DataSource`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

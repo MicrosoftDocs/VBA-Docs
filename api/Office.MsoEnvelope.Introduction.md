@@ -20,7 +20,7 @@ Sets or gets the introductory text that is included with a document that is sent
 
  _expression_. `Introduction`
 
- _expression_ A variable that represents a [MsoEnvelope](./Office.MsoEnvelope.md) object.
+ _expression_ A variable that represents a [MsoEnvelope](Office.MsoEnvelope.md) object.
 
 
 ## Example

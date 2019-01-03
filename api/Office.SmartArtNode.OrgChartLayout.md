@@ -17,7 +17,7 @@ Retrieves or sets the  **MsoOrgChartLayoutType** associated with this node if th
 
 _expression_. `OrgChartLayout`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

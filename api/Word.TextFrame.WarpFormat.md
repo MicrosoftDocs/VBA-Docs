@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # TextFrame.WarpFormat property (Word)
 
-Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write [MsoWarpFormat](./Office.MsoWarpFormat.md).
+Returns or sets the warp format (how the text is warped) for the specified text frame. Read/write [MsoWarpFormat](Office.MsoWarpFormat.md).
 
 
 ## Syntax

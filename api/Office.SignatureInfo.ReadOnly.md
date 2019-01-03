@@ -20,7 +20,7 @@ Gets a  **Boolean** value indicating whether the **SignatureInfo** object is rea
 
  _expression_. `ReadOnly`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

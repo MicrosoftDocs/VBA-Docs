@@ -15,14 +15,12 @@ Sets the graphics file to be used for bullets in a bulleted list.
 
 ## Syntax
 
- _expression_. `Picture`( `_FileName_` )
+_expression_.**Picture** (_FileName_)
 
- _expression_ An expression that returns a [BulletFormat2](./Office.BulletFormat2.md) object.
+_expression_ An expression that returns a [BulletFormat2](Office.BulletFormat2.md) object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

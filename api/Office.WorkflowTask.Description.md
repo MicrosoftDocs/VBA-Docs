@@ -20,7 +20,7 @@ Gets the description of a workflow task. Read-only.
 
  _expression_. `Description`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

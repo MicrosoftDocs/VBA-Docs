@@ -17,7 +17,7 @@ Gets or sets the size, measured in points, of the soft edge effect of the shape.
 
  _expression_. `Radius`
 
- _expression_ An expression that returns a [SoftEdgeFormat](./Office.SoftEdgeFormat.md) object.
+ _expression_ An expression that returns a [SoftEdgeFormat](Office.SoftEdgeFormat.md) object.
 
 
 ## See also

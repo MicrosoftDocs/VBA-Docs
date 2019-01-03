@@ -23,7 +23,7 @@ Is  **True** if shortcut keys are displayed in the **ToolTips** for each command
 
  _expression_. `DisplayKeysInTooltips`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Remarks

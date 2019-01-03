@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **WebPageFont
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [WebPageFont](./Office.WebPageFont.md) object.
+ _expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
 
 
 ## Return value

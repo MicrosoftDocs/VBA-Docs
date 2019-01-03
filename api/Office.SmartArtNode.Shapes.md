@@ -17,7 +17,7 @@ Returns the shape range associated with this **SmartArtNode** object. Read-only.
 
 _expression_. `Shapes`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

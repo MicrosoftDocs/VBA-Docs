@@ -17,7 +17,7 @@ Gets or sets the state of the SmartArt diagram with regard to (left-to-right) LT
 
  _expression_. `Reverse`
 
- _expression_ An expression that returns a [SmartArt](./Office.SmartArt.md) object.
+ _expression_ An expression that returns a [SmartArt](Office.SmartArt.md) object.
 
 
 ## See also

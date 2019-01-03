@@ -20,7 +20,7 @@ Gets a  **String** indicating the full path of a **ScopeFolder** object. Read-on
 
  _expression_. `Path`
 
- _expression_ A variable that represents a [ScopeFolder](./Office.ScopeFolder.md) object.
+ _expression_ A variable that represents a [ScopeFolder](Office.ScopeFolder.md) object.
 
 
 ## Example

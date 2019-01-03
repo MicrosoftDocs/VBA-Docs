@@ -20,7 +20,7 @@ Gets the name of an error in a  **CustomXMLValidationError** object. If no error
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

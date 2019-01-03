@@ -20,7 +20,7 @@ Gets the email name of the user whose permissions on the active document are det
 
  _expression_. `UserId`
 
- _expression_ A variable that represents a [UserPermission](./Office.UserPermission.md) object.
+ _expression_ A variable that represents a [UserPermission](Office.UserPermission.md) object.
 
 
 ## Remarks

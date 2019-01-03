@@ -20,7 +20,7 @@ Gets a  **CustomXMLPart** object from the **CustomXMLParts** collection. Read-on
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

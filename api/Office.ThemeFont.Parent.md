@@ -17,7 +17,7 @@ Gets the  **Parent** object for the **ThemeFont** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [ThemeFont](./Office.ThemeFont.md) object.
+ _expression_ An expression that returns a [ThemeFont](Office.ThemeFont.md) object.
 
 
 ## Return value

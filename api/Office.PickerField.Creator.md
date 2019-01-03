@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **PickerField
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [PickerField](./Office.PickerField.md) object.
+ _expression_ An expression that returns a [PickerField](Office.PickerField.md) object.
 
 
 ## See also

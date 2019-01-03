@@ -20,7 +20,7 @@ Ends the current encryption session.
 
  _expression_. `EndSession`( `_SessionHandle_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

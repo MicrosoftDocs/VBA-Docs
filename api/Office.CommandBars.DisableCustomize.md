@@ -20,7 +20,7 @@ Is  **True** if toolbar customization is disabled. Read/write.
 
  _expression_. `DisableCustomize`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Returns or sets a value that specifies if the text on a shape is rotated if the 
 
  _expression_. `NoTextRotation`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

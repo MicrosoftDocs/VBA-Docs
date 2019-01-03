@@ -20,7 +20,7 @@ Gets the previous sibling node (element, comment, or processing instruction) of 
 
  _expression_. `PreviousSibling`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

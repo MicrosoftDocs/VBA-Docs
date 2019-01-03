@@ -20,7 +20,7 @@ Gets or sets the value of the signature text used to sign this document. Read/wr
 
  _expression_. `SignatureText`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

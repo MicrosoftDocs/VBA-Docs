@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Document.CustomXMLParts property (Word)
 
-Returns a  **[CustomXMLParts](./Office.CustomXMLParts.md)** collection that represents the custom XML in the XML data store. Read-only.
+Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** collection that represents the custom XML in the XML data store. Read-only.
 
 
 ## Syntax

@@ -23,7 +23,7 @@ Gets or sets the width (in pixels) of the list for the specified command bar com
 
  _expression_. `DropDownWidth`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

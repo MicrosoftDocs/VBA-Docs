@@ -20,7 +20,7 @@ Gets the next sibling node (element, comment, or processing instruction) of the 
 
  _expression_. `NextSibling`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

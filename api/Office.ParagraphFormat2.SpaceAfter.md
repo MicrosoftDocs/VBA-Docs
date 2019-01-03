@@ -17,7 +17,7 @@ Gets or sets the amount of spacing (in points) after the specified paragraph. Re
 
  _expression_. `SpaceAfter`
 
- _expression_ An expression that returns a [ParagraphFormat2](./Office.ParagraphFormat2.md) object.
+ _expression_ An expression that returns a [ParagraphFormat2](Office.ParagraphFormat2.md) object.
 
 
 ## Return value

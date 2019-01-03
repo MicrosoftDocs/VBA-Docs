@@ -20,7 +20,7 @@ Validates a  **MetaProperty** object representing a single property value accord
 
  _expression_. `Validate`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

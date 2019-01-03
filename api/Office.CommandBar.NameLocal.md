@@ -23,7 +23,7 @@ Gets the name of a built-in command bar as it's displayed in the language versio
 
  _expression_. `NameLocal`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

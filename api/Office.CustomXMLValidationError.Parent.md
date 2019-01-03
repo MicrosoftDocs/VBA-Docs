@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLValidationError** object. Read-on
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Return value

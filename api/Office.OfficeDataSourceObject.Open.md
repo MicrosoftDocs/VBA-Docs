@@ -20,7 +20,7 @@ Opens a table in a  **OfficeDataSourceObject** object.
 
  _expression_. `Open`( `_bstrSrc_`, `_bstrConnect_`, `_bstrTable_`, `_fOpenExclusive_`, `_fNeverPrompt_` )
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Parameters

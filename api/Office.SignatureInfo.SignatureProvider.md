@@ -17,7 +17,7 @@ Gets a value identifying an installed signature provider add-in. Read-only.
 
  _expression_. `SignatureProvider`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

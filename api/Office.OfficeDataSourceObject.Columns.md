@@ -20,7 +20,7 @@ Gets an  **ODSOColumns** object that represents the fields in a data source. Rea
 
  _expression_. `Columns`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Example

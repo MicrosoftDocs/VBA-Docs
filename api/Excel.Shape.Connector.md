@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Shape.Connector property (Excel)
 
- **True** if the specified shape is a connector. Read-only **[MsoTriState](./Office.MsoTriState.md)**.
+ **True** if the specified shape is a connector. Read-only **[MsoTriState](Office.MsoTriState.md)**.
 
 
 ## Syntax

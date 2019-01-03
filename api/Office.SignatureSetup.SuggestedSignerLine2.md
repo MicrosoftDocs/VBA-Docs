@@ -20,7 +20,7 @@ Gets or sets the second line of suggested signer information (for example, title
 
  _expression_. `SuggestedSignerLine2`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

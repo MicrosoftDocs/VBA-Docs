@@ -17,7 +17,7 @@ Demotes the current node a single level within the data model.
 
 _expression_. `Demote`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

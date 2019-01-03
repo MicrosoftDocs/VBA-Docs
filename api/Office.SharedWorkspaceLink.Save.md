@@ -23,7 +23,7 @@ Uploads changes made programmatically to a shared server.
 
  _expression_. `Save`
 
- _expression_ A variable that represents a [SharedWorkspaceLink](./Office.SharedWorkspaceLink.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
 
 
 ## Parameters

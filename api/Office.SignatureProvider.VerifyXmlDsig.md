@@ -20,7 +20,7 @@ Verifies a signature based on the signed state of the document and the legitimac
 
  _expression_. `VerifyXmlDsig`( `_QueryContinue_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_`, `_pcontverres_`, `_pcertverres_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

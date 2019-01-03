@@ -17,7 +17,7 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 
  _expression_. `RtlRun`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

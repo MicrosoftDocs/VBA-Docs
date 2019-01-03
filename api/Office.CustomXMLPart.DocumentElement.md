@@ -20,7 +20,7 @@ Gets the root element of a bound region of data in a document. If the region is 
 
  _expression_. `DocumentElement`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

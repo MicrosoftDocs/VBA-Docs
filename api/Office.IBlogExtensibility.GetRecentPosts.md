@@ -20,7 +20,7 @@ Returns the list of the user's last fifteen blog posts that Microsoft Word then 
 
  _expression_. `GetRecentPosts`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_PostTitles()_`, `_PostDates()_`, `_PostIDs()_` )
 
- _expression_ An expression that returns a [IBlogExtensibility](./Office.IBlogExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogExtensibility](Office.IBlogExtensibility.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Provides a signature povider add-in the opportunity to display details about a s
 
  _expression_. `ShowSignatureDetails`( `_ParentWindow_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_`, `_pcontverres_`, `_pcertverres_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

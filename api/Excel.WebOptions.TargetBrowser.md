@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # WebOptions.TargetBrowser property (Excel)
 
-Returns or sets an  **[MsoTargetBrowser](./Office.MsoTargetBrowser.md)** constant indicating the browser version. Read/write.
+Returns or sets an  **[MsoTargetBrowser](Office.MsoTargetBrowser.md)** constant indicating the browser version. Read/write.
 
 
 ## Syntax

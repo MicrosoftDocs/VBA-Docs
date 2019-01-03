@@ -20,7 +20,7 @@ Gets a value containing the extensions that determine which files are displayed 
 
  _expression_. `Extensions`
 
- _expression_ An expression that returns a [FileDialogFilter](./Office.FileDialogFilter.md) object.
+ _expression_ An expression that returns a [FileDialogFilter](Office.FileDialogFilter.md) object.
 
 
 ## Return value

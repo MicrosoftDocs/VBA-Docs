@@ -20,7 +20,7 @@ Gets  **True** if the control is currently dropped from the menu or toolbar base
 
  _expression_. `IsPriorityDropped`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

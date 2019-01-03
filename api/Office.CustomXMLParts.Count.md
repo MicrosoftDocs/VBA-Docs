@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLParts** collec
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Return value

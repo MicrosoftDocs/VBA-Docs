@@ -17,7 +17,7 @@ Removes a gradient stop.
 
  _expression_. `Delete`( `_Index_` )
 
- _expression_ An expression that returns a [GradientStops](./Office.GradientStops.md) object.
+ _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
 
 
 ## Parameters

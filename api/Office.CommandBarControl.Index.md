@@ -20,7 +20,7 @@ Gets a ** Long** representing the index number for a **CommandBarControl** objec
 
  _expression_. `Index`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

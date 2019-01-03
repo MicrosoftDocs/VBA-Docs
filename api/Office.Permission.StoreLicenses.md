@@ -20,7 +20,7 @@ Gets or sets a  **Boolean** value that indicates whether the user's license to v
 
  _expression_. `StoreLicenses`
 
- _expression_ A variable that represents a [Permission](./Office.Permission.md) object.
+ _expression_ A variable that represents a [Permission](Office.Permission.md) object.
 
 
 ## Remarks

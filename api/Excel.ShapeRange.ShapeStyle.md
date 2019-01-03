@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShapeRange.ShapeStyle property (Excel)
 
-Returns or sets an  **[MsoShapeStyleIndex](./Office.MsoShapeStyleIndex.md)** that represents shape style of shape range. Read/write.
+Returns or sets an  **[MsoShapeStyleIndex](Office.MsoShapeStyleIndex.md)** that represents shape style of shape range. Read/write.
 
 
 ## Syntax

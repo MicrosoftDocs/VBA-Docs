@@ -29,7 +29,7 @@ The properties of the  **TableBackground** object return objects that represent 
     
 - Use the  **[Picture](PowerPoint.TableBackground.Picture.md)** property to return a **[PictureFormat](PowerPoint.PictureFormat.md)** object.
     
-- Use the  **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](./Office.ReflectionFormat.md)** object.
+- Use the  **[Reflection](PowerPoint.TableBackground.Reflection.md)** property to return an **[ReflectionFormat](Office.ReflectionFormat.md)** object.
     
 - Use the  **[Shadow](PowerPoint.TableBackground.Shadow.md)** property to return a **[ShadowFormat](PowerPoint.ShadowFormat.md)** object.
     

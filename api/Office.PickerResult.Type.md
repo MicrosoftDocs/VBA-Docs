@@ -20,7 +20,7 @@ Represents the type of a  **PickerResult** object. Read/write
 
  _expression_. `Type`
 
- _expression_ An expression that returns a [PickerResult](./Office.PickerResult.md) object.
+ _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Retrieves the count of the number of  **EffectParameter** objects contained with
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [EffectParameters](./Office.EffectParameters.md) object.
+ _expression_ An expression that returns a [EffectParameters](Office.EffectParameters.md) object.
 
 
 ## See also

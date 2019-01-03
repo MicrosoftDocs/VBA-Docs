@@ -20,7 +20,7 @@ Gets a value that indicates whether the  **CustomXMLPart** is built-in. Read-onl
 
  _expression_. `BuiltIn`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

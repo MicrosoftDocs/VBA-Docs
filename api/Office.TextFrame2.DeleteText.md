@@ -17,7 +17,7 @@ Deletes the text from a text frame and all the associated properties of the text
 
  _expression_. `DeleteText`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Return value

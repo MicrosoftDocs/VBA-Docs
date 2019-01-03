@@ -20,7 +20,7 @@ Is  **True** if the value of the custom document property is linked to the conte
 
  _expression_. `LinkToContent`( `_pfLinkRetVal_` )
 
- _expression_ A variable that represents a [DocumentProperty](./Office.DocumentProperty.md) object.
+ _expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
 
 
 ## Parameters

@@ -17,7 +17,7 @@ Returns or sets the degree of transparency of the specified glow as a value betw
 
  _expression_. `Transparency`
 
- _expression_ An expression that returns a [GlowFormat](./Office.GlowFormat.md) object.
+ _expression_ An expression that returns a [GlowFormat](Office.GlowFormat.md) object.
 
 
 ## See also

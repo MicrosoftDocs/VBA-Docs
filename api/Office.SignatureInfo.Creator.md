@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SignatureIn
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [SignatureInfo](./Office.SignatureInfo.md) object.
+ _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
 
 
 ## Return value

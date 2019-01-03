@@ -29,7 +29,7 @@ Creates a label. Returns a  **[Shape](Excel.Shape.md)** object that represents t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Orientation_|Required| **[MsoTextOrientation](./Office.MsoTextOrientation.md)**|The text orientation within the label.|
+| _Orientation_|Required| **[MsoTextOrientation](Office.MsoTextOrientation.md)**|The text orientation within the label.|
 | _Left_|Required| **Single**|The position (in points) of the upper-left corner of the label relative to the upper-left corner of the document.|
 | _Top_|Required| **Single**|The position (in points) of the upper-left corner of the label relative to the top corner of the document.|
 | _Width_|Required| **Single**|The width of the label, in points.|

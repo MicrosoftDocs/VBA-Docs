@@ -20,7 +20,7 @@ Gets the name of the  **WorkflowTask** object. Read-only.
 
  _expression_. `Name`
 
- _expression_ An expression that returns a [WorkflowTask](./Office.WorkflowTask.md) object.
+ _expression_ An expression that returns a [WorkflowTask](Office.WorkflowTask.md) object.
 
 
 ## Return value

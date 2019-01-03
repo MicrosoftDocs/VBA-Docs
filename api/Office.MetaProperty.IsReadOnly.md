@@ -20,7 +20,7 @@ Gets a  **Boolean** value that specifies whether the meta property is read-only.
 
  _expression_. `IsReadOnly`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

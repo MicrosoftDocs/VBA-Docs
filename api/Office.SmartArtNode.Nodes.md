@@ -17,7 +17,7 @@ Retrieves the children nodes associated with this Smart Art Node. Read-only.
 
 _expression_. `Nodes`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Example

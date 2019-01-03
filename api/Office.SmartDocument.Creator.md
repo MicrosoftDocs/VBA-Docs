@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **SmartDocume
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Return value

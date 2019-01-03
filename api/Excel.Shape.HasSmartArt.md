@@ -25,7 +25,7 @@ Returns whether there is a SmartArt diagram present on the specified shape. Read
 
 ## Return value
 
- **[MsoTriState](./Office.MsoTriState.md)**
+ **[MsoTriState](Office.MsoTriState.md)**
 
 
 ## Remarks

@@ -23,7 +23,7 @@ Pastes the contents of the Clipboard onto a  **CommandBarButton**.
 
  _expression_. `PasteFace`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Example

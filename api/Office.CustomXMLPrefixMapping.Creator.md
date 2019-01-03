@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLPr
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLPrefixMapping](./Office.CustomXMLPrefixMapping.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMapping](Office.CustomXMLPrefixMapping.md) object.
 
 
 ## Return value

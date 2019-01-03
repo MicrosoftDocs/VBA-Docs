@@ -25,7 +25,7 @@ Returns or sets the show changes mode. Read/write.
 
 ## Return value
 
- **[MsoTriState](./Office.MsoTriState.md)**
+ **[MsoTriState](Office.MsoTriState.md)**
 
 
 ## Remarks

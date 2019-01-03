@@ -20,7 +20,7 @@ Selects a single node from a collection matching an XPath expression. This metho
 
  _expression_. `SelectSingleNode`( `_XPath_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

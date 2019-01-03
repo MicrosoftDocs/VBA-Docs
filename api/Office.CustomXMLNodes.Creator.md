@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **CustomXMLNo
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [CustomXMLNodes](./Office.CustomXMLNodes.md) object.
+ _expression_ An expression that returns a [CustomXMLNodes](Office.CustomXMLNodes.md) object.
 
 
 ## Return value

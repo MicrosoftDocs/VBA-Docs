@@ -20,7 +20,7 @@ Gets or sets a string that an application can use to execute a command from a  *
 
  _expression_. `Parameter`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

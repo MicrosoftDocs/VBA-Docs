@@ -20,7 +20,7 @@ Inserts the specified subtree into the location just before the context node.
 
  _expression_. `InsertSubtreeBefore`( `_XML_`, `_NextSibling_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

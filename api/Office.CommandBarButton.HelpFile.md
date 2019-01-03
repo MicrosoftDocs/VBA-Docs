@@ -20,7 +20,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarButto
 
  _expression_. `HelpFile`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

@@ -17,7 +17,7 @@ Retrieves the node's level in the hierarchy. Read-only.
 
 _expression_. `Level`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Remarks

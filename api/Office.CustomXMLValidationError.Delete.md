@@ -20,7 +20,7 @@ Deletes the  **CustomXMLValidationError** object representing a data validation 
 
  _expression_. `Delete`
 
- _expression_ An expression that returns a [CustomXMLValidationError](./Office.CustomXMLValidationError.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
 
 
 ## Example

@@ -17,7 +17,7 @@ Adds period (.) punctuation to the right side of the text contained in TextRange
 
  _expression_. `AddPeriods`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

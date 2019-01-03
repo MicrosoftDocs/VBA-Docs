@@ -20,7 +20,7 @@ Gets or sets the  **Visible** property of the **CommandBarButton** control. **Tr
 
  _expression_. `Visible`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Return value

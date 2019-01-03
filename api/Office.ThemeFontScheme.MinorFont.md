@@ -17,7 +17,7 @@ Gets the font settings for the "Body" of a document. Read-only.
 
  _expression_. `MinorFont`
 
- _expression_ An expression that returns a [ThemeFontScheme](./Office.ThemeFontScheme.md) object.
+ _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
 
 
 ## Return value

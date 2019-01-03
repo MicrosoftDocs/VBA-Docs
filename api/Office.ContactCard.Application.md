@@ -17,7 +17,7 @@ Returns an  **Application** object that represents the parent Office application
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [ContactCard](./Office.ContactCard.md) object.
+ _expression_ An expression that returns a [ContactCard](Office.ContactCard.md) object.
 
 
 ## Return value

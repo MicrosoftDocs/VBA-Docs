@@ -20,7 +20,7 @@ Gets the filter status for a  **OfficeDataSourceObject** object. Read-only.
 
  _expression_. `Filters`
 
- _expression_ A variable that represents an [OfficeDataSourceObject](./Office.OfficeDataSourceObject.md) object.
+ _expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
 
 
 ## Return value

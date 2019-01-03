@@ -20,7 +20,7 @@ Gets or sets the file name for the Help topic attached to the  **CommandBarCombo
 
  _expression_. `HelpFile`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

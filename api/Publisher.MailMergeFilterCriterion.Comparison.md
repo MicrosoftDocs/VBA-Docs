@@ -30,7 +30,7 @@ MsoFilterComparison
 
 ## Remarks
 
-The  **Comparison** property value can be one of the ** [MsoFilterComparison](./Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
+The  **Comparison** property value can be one of the ** [MsoFilterComparison](Office.MsoFilterComparison.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

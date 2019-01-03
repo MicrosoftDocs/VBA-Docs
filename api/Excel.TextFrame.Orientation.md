@@ -25,7 +25,7 @@ Returns or sets a  **Long** value that represents the text frame orientation.
 
 ## Remarks
 
-The value of this property can be set to an integer value from - 90 to 90 degrees or one of the  **[MsoTextOrientation](./Office.MsoTextOrientation.md)** constants.
+The value of this property can be set to an integer value from - 90 to 90 degrees or one of the  **[MsoTextOrientation](Office.MsoTextOrientation.md)** constants.
 
 
 ## See also

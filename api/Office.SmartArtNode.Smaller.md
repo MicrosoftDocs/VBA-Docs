@@ -16,7 +16,7 @@ Decreases the size of the SmartArt. Mimics the behavior of the Smaller button on
 
 _expression_. `Smaller`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

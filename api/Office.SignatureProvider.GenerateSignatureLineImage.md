@@ -20,7 +20,7 @@ Gets a signature line image.
 
  _expression_. `GenerateSignatureLineImage`( `_siglnimg_`, `_psigsetup_`, `_psiginfo_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

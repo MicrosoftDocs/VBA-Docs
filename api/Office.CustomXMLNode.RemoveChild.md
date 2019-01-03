@@ -20,7 +20,7 @@ Removes the specified child node from the tree.
 
  _expression_. `RemoveChild`( `_Child_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

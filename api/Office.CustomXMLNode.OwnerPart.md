@@ -20,7 +20,7 @@ Gets the object representing the part associated with this node. Read-only.
 
  _expression_. `OwnerPart`
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Return value

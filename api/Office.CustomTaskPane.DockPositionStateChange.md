@@ -20,7 +20,7 @@ Occurs when the user changes the docking position of the active custom task pane
 
  _expression_. `DockPositionStateChange`( `_CustomTaskPaneInst_`, )
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Parameters

@@ -17,7 +17,7 @@ Gets a 32-bit integer that indicates the application in which the  **RulerLevels
 
  _expression_. `Creator`
 
- _expression_ An expression that returns a [RulerLevels2](./Office.RulerLevels2.md) object.
+ _expression_ An expression that returns a [RulerLevels2](Office.RulerLevels2.md) object.
 
 
 ## Return value

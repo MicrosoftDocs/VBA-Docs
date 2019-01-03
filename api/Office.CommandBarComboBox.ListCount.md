@@ -23,7 +23,7 @@ Gets the number of list items in a  **CommandBarComboBox** control. Read-only.
 
  _expression_. `ListCount`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Example

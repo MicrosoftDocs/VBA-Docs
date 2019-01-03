@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.PickerDialog Property (Outlook)
 
-Returns a  **[PickerDialog](./Office.PickerDialog.md)** object that provides the functionality to select people or data in a dialog box. Read-only.
+Returns a  **[PickerDialog](Office.PickerDialog.md)** object that provides the functionality to select people or data in a dialog box. Read-only.
 
 
 ## Syntax
@@ -28,19 +28,19 @@ Returns a  **[PickerDialog](./Office.PickerDialog.md)** object that provides the
 The  **PickerDialog** object is available in the Microsoft Office type library. For more information, see the following objects and their members:
 
 
--  **[PickerDialog](./Office.PickerDialog.md)**
+-  **[PickerDialog](Office.PickerDialog.md)**
     
--  **[PickerField](./Office.PickerField.md)**
+-  **[PickerField](Office.PickerField.md)**
     
--  **[PickerFields](./Office.PickerFields.md)**
+-  **[PickerFields](Office.PickerFields.md)**
     
--  **[PickerProperties](./Office.PickerProperties.md)**
+-  **[PickerProperties](Office.PickerProperties.md)**
     
--  **[PickerProperty](./Office.PickerProperty.md)**
+-  **[PickerProperty](Office.PickerProperty.md)**
     
--  **[PickerResult](./Office.PickerResult.md)**
+-  **[PickerResult](Office.PickerResult.md)**
     
--  **[PickerResults](./Office.PickerResults.md)**
+-  **[PickerResults](Office.PickerResults.md)**
     
 
 

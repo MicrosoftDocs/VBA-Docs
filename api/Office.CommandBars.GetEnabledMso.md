@@ -20,7 +20,7 @@ Returns True if the control identified by the  **idMso** parameter is enabled.
 
  _expression_. `GetEnabledMso`( `_idMso_` )
 
- _expression_ An expression that returns a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Parameters

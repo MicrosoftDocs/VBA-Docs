@@ -20,7 +20,7 @@ Gets or sets an enumerated value specifying a restriction on the orientation of 
 
  _expression_. `DockPositionRestrict`
 
- _expression_ An expression that returns a [CustomTaskPane](./Office.CustomTaskPane.md) object.
+ _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
 
 
 ## Return value

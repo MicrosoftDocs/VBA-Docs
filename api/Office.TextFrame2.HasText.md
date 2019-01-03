@@ -17,7 +17,7 @@ Indicates whether the shape that contains the specified text frame has text asso
 
  _expression_. `HasText`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

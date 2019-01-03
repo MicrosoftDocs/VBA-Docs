@@ -17,7 +17,7 @@ Returns a  **ThreeDFormat** object that represents the three-dimensional formatt
 
  _expression_. `ThreeD`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## See also

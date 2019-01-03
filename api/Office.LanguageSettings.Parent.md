@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **ODSOFilter** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [LanguageSettings](./Office.LanguageSettings.md) object.
+ _expression_ A variable that represents a [LanguageSettings](Office.LanguageSettings.md) object.
 
 
 ## Return value

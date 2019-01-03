@@ -17,7 +17,7 @@ Retrieves a  **SmartArtLayout** object at the specified index or with the specif
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object.
+ _expression_ An expression that returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object.
 
 
 ## Parameters

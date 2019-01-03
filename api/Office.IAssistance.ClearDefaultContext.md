@@ -20,7 +20,7 @@ Clears the default help topic previously defined in the  **SetDefaultContext** m
 
  _expression_. `ClearDefaultContext`( `_HelpId_` )
 
- _expression_ An expression that returns a [IAssistance](./Office.IAssistance.md) object.
+ _expression_ An expression that returns a [IAssistance](Office.IAssistance.md) object.
 
 
 ## Parameters

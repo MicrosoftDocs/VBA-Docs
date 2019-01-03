@@ -34,7 +34,7 @@ If the  **[AlwaysSaveInDefaultEncoding](Publisher.WebOptions.AlwaysSaveInDefault
 
 Attempting to set the  **Encoding** property to an **MsoEncoding** constant that is not available on the client computer results in a run-time error.
 
-The  **Encoding** property value can be one of the ** [MsoEncoding](./Office.MsoEncoding.md)** constants declared in the Microsoft Office type library.
+The  **Encoding** property value can be one of the ** [MsoEncoding](Office.MsoEncoding.md)** constants declared in the Microsoft Office type library.
 
 
 ## Example

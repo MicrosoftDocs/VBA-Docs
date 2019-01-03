@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # ShadowFormat.Visible property (Excel)
 
-Returns or sets a  **[MsoTriState](./Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
+Returns or sets a  **[MsoTriState](Office.MsoTriState.md)** value that determines whether the object is visible. Read/write.
 
 
 ## Syntax

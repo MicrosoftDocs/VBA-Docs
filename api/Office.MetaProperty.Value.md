@@ -20,7 +20,7 @@ Gets or sets the value of the  **MetaProperty** object. Read/write.
 
  _expression_. `Value`
 
- _expression_ An expression that returns a [MetaProperty](./Office.MetaProperty.md) object.
+ _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
 
 
 ## Return value

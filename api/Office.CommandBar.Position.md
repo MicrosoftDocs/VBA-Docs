@@ -23,7 +23,7 @@ Gets or sets a  **MsoBarPosition** constant representing the position of a comma
 
  _expression_. `Position`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Example

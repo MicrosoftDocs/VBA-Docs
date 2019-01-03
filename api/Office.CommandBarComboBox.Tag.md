@@ -20,7 +20,7 @@ Gets or sets information about the  **CommandBarComboBox** control, such as data
 
  _expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ A variable that represents a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Return value

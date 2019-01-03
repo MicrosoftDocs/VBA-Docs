@@ -17,7 +17,7 @@ Retrieves the primary category name associated with the SmartArt color style. Re
 
  _expression_. `Category`
 
- _expression_ An expression that returns a [SmartArtColor](./Office.SmartArtColor.md) object.
+ _expression_ An expression that returns a [SmartArtColor](Office.SmartArtColor.md) object.
 
 
 ## See also

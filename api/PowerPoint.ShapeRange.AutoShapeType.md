@@ -25,7 +25,7 @@ Returns or sets the shape type for the specified  **ShapeRange** object, which m
 
 ## Return value
 
-[MsoAutoShapeType](./Office.MsoAutoShapeType.md)
+[MsoAutoShapeType](Office.MsoAutoShapeType.md)
 
 
 ## Remarks

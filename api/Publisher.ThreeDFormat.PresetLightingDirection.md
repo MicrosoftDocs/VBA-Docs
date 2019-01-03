@@ -30,7 +30,7 @@ MsoPresetLightingDirection
 
 ## Remarks
 
-The  **PresetLightingDirection** property value can be one of the ** [MsoPresetLightingDirection](./Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
+The  **PresetLightingDirection** property value can be one of the ** [MsoPresetLightingDirection](Office.MsoPresetLightingDirection.md)** constants declared in the Microsoft Office type library.
 
 The lighting effects you set will not be apparent if the extrusion has a wireframe surface.
 

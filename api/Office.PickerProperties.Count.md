@@ -20,7 +20,7 @@ Retrieves the count of the number of  **PickerProperty** objects contained withi
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [PickerProperties](./Office.PickerProperties.md) object.
+ _expression_ An expression that returns a [PickerProperties](Office.PickerProperties.md) object.
 
 
 ## See also

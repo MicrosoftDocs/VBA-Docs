@@ -20,7 +20,7 @@ Adds a  **CustomXMLValidationError** object containing an XML validation error t
 
  _expression_. `Add`( `_Node_`, `_ErrorName_`, `_ErrorText_`, `_ClearedOnUpdate_` )
 
- _expression_ An expression that returns a [CustomXMLValidationErrors](./Office.CustomXMLValidationErrors.md) object.
+ _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
 
 
 ## Parameters

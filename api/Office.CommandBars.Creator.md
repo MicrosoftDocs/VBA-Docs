@@ -20,7 +20,7 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBars
 
  _expression_. `Creator`
 
- _expression_ A variable that represents a [CommandBars](./Office.CommandBars.md) object.
+ _expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
 
 
 ## Return value

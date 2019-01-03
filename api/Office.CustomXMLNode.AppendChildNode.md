@@ -20,7 +20,7 @@ Appends a single node as the last child under the context element node in the tr
 
  _expression_. `AppendChildNode`( `_Name_`, `_NamespaceURI_`, `_NodeType_`, `_NodeValue_` )
 
- _expression_ An expression that returns a [CustomXMLNode](./Office.CustomXMLNode.md) object.
+ _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Allows you to get a prefix corresponding to the specified namespace.
 
  _expression_. `LookupPrefix`( `_NamespaceURI_` )
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Gets or sets an  **MsoFileDialogView** constant representing the initial present
 
  _expression_. `InitialView`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Example

@@ -30,8 +30,8 @@ Inserts a node into a freeform shape.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Integer**| **Long**. The number of the shape node after which to insert a new node.|
-| _SegmentType_|Required| **[MsoSegmentType](./Office.MsoSegmentType.md)**|The segment type.|
-| _EditingType_|Required| **[MsoEditingType](./Office.MsoEditingType.md)**|The editing type.|
+| _SegmentType_|Required| **[MsoSegmentType](Office.MsoSegmentType.md)**|The segment type.|
+| _EditingType_|Required| **[MsoEditingType](Office.MsoEditingType.md)**|The editing type.|
 | _X1_|Required| **Single**|If the  _EditingType_ of the new segment is **msoEditingAuto** , this argument specifies the horizontal distance, measured in points, from the upper-left corner of the document to the end point of the new segment. If the _EditingType_ of the new node is **msoEditingCorner** , this argument specifies the horizontal distance, measured in points, from the upper-left corner of the document to the first control point for the new segment.|
 | _Y1_|Required| **Single**|If the  _EditingType_ of the new segment is **msoEditingAuto** , this argument specifies the vertical distance, measured in points, from the upper-left corner of the document to the end point of the new segment. If the _EditingType_ of the new node is **msoEditingCorner** , this argument specifies the vertical distance, measured in points, from the upper-left corner of the document to the first control point for the new segment.|
 | _X2_|Required| **Single**|If the  _EditingType_ of the new segment is **msoEditingCorner** , this argument specifies the horizontal distance, measured in points, from the upper-left corner of the document to the second control point for the new segment. If the _EditingType_ of the new segment is **msoEditingAuto** , don't specify a value for this argument.|

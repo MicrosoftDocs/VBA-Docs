@@ -23,7 +23,7 @@ Removes all list items from a command bar combo box control (a drop-down list bo
 
  _expression_. `Clear`
 
- _expression_ An expression that returns a [CommandBarComboBox](./Office.CommandBarComboBox.md) object.
+ _expression_ An expression that returns a [CommandBarComboBox](Office.CommandBarComboBox.md) object.
 
 
 ## Remarks

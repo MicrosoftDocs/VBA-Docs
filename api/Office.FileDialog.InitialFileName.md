@@ -20,7 +20,7 @@ Set or returns a  **String** representing the path or file name that is initiall
 
  _expression_. `InitialFileName`
 
- _expression_ A variable that represents a [FileDialog](./Office.FileDialog.md) object.
+ _expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
 
 
 ## Remarks

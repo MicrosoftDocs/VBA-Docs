@@ -20,7 +20,7 @@ Gets a  **String** containing the GUID assigned to the current **CustomXMLPart**
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Return value

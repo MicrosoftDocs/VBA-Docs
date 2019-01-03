@@ -23,7 +23,7 @@ Gets or sets the Id number for the face of a  **CommandBarButton** control. Read
 
  _expression_. `FaceId`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks

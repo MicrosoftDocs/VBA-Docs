@@ -13,7 +13,7 @@ ms.date: 06/08/2017
 
 # Application.SmartArtLayouts property (Word)
 
-Returns a [SmartArtLayouts](./Office.SmartArtLayouts.md) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
+Returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object that represents the set of SmartArt layouts that are currently loaded in the application. Read-only.
 
 
 ## Syntax

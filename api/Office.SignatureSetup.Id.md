@@ -17,7 +17,7 @@ Gets the ID of the signature provider for a document. Read-only.
 
  _expression_. `Id`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

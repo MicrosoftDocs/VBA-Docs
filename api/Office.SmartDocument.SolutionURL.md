@@ -20,7 +20,7 @@ Gets or sets an absolute URL which provides the complete path to the XML expansi
 
  _expression_. `SolutionURL`
 
- _expression_ A variable that represents a [SmartDocument](./Office.SmartDocument.md) object.
+ _expression_ A variable that represents a [SmartDocument](Office.SmartDocument.md) object.
 
 
 ## Remarks

@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **CustomXMLNodes** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ An expression that returns a [CustomXMLNodes](./Office.CustomXMLNodes.md) object.
+ _expression_ An expression that returns a [CustomXMLNodes](Office.CustomXMLNodes.md) object.
 
 
 ## Return value

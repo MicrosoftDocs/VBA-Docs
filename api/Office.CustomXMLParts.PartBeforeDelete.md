@@ -20,7 +20,7 @@ Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLPa
 
  _expression_. `PartBeforeDelete`( `_OldPart_`, )
 
- _expression_ An expression that returns a [CustomXMLParts](./Office.CustomXMLParts.md) object.
+ _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
 
 
 ## Parameters

@@ -20,7 +20,7 @@ Gets or sets the instructions for signing the document. Read/write.
 
  _expression_. `SigningInstructions`
 
- _expression_ An expression that returns a [SignatureSetup](./Office.SignatureSetup.md) object.
+ _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
 
 
 ## Return value

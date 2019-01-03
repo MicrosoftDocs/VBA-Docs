@@ -20,7 +20,7 @@ Selects a single node within a custom XML part matching an XPath expression.
 
  _expression_. `SelectSingleNode`( `_XPath_` )
 
- _expression_ An expression that returns a [CustomXMLPart](./Office.CustomXMLPart.md) object.
+ _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
 
 
 ## Parameters

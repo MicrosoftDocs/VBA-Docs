@@ -17,7 +17,7 @@ Used without an object qualifier, this property returns an  **Application** obje
 
  _expression_. `Application`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

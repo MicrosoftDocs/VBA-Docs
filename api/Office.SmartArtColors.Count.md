@@ -17,7 +17,7 @@ Retrieves the count of the number of  **SmartArtColor** objects contained within
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [SmartArtColors](./Office.SmartArtColors.md) object.
+ _expression_ An expression that returns a [SmartArtColors](Office.SmartArtColors.md) object.
 
 
 ## See also

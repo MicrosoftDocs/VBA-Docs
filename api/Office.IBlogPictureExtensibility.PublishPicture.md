@@ -20,7 +20,7 @@ Used to post a picture object to its final destination in a blog.
 
  _expression_. `PublishPicture`( `_Account_`, `_ParentWindow_`, `_Document_`, `_userName_`, `_Password_`, `_Image_`, `_PictureURI_` )
 
- _expression_ An expression that returns a [IBlogPictureExtensibility](./Office.IBlogPictureExtensibility.md) object.
+ _expression_ An expression that returns a [IBlogPictureExtensibility](Office.IBlogPictureExtensibility.md) object.
 
 
 ## Parameters

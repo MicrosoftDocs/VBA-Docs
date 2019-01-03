@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **UserPermission** object. Read-only.
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [UserPermission](./Office.UserPermission.md) object.
+ _expression_ A variable that represents a [UserPermission](Office.UserPermission.md) object.
 
 
 ## Return value

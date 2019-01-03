@@ -17,7 +17,7 @@ Copies a  **TextRange2** object.
 
  _expression_. `Copy`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## See also

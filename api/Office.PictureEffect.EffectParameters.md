@@ -17,7 +17,7 @@ Returns an  **EffectParameter** object. Read-only
 
  _expression_. `EffectParameters`
 
- _expression_ An expression that returns a [PictureEffect](./Office.PictureEffect.md) object.
+ _expression_ An expression that returns a [PictureEffect](Office.PictureEffect.md) object.
 
 
 ## Remarks

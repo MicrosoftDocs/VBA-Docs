@@ -24,7 +24,7 @@ Gets the email name of the specified  **SharedWorkspaceMember** in the format us
 
  **Email**_expression_. `Email`
 
- _expression_ An expression that returns a [SharedWorkspaceMember](./Office.SharedWorkspaceMember.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
 
 
 ## Example

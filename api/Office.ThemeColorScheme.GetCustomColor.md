@@ -17,7 +17,7 @@ Gets a value that represents a color in the color scheme of a Microsoft Office t
 
  _expression_. `GetCustomColor`( `_Name_` )
 
- _expression_ An expression that returns a [ThemeColorScheme](./Office.ThemeColorScheme.md) object.
+ _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
 
 
 ## Parameters

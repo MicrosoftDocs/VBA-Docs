@@ -20,7 +20,7 @@ Used to display a dialog box informing the user that the signing process has com
 
  _expression_. `NotifySignatureAdded`( `_ParentWindow_`, `_psigsetup_`, `_psiginfo_` )
 
- _expression_ An expression that returns a [SignatureProvider](./Office.SignatureProvider.md) object.
+ _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
 
 
 ## Parameters

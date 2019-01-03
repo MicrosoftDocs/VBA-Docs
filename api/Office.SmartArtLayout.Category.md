@@ -17,7 +17,7 @@ Retrieves the primary category name associated with the SmartArt layout. Read-on
 
  _expression_. `Category`
 
- _expression_ An expression that returns a [SmartArtLayout](./Office.SmartArtLayout.md) object.
+ _expression_ An expression that returns a [SmartArtLayout](Office.SmartArtLayout.md) object.
 
 
 ## See also

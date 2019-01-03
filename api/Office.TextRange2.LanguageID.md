@@ -17,7 +17,7 @@ Gets or sets the  **MsoLanguageID** value of the **TextRange2** object. Read/wri
 
  _expression_. `LanguageID`
 
- _expression_ An expression that returns a [TextRange2](./Office.TextRange2.md) object.
+ _expression_ An expression that returns a [TextRange2](Office.TextRange2.md) object.
 
 
 ## Return value

@@ -20,7 +20,7 @@ Gets the  **Parent** object for the **FileDialogSelectedItems** object. Read-onl
 
  _expression_. `Parent`
 
- _expression_ A variable that represents a [FileDialogSelectedItems](./Office.FileDialogSelectedItems.md) object.
+ _expression_ A variable that represents a [FileDialogSelectedItems](Office.FileDialogSelectedItems.md) object.
 
 
 ## Return value

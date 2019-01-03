@@ -23,7 +23,7 @@ Gets or sets the docking order of a command bar in relation to other command bar
 
  _expression_. `RowIndex`
 
- _expression_ A variable that represents a [CommandBar](./Office.CommandBar.md) object.
+ _expression_ A variable that represents a [CommandBar](Office.CommandBar.md) object.
 
 
 ## Remarks

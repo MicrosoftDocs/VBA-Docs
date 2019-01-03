@@ -23,7 +23,7 @@ Gets or sets a value containing the name of the one assigned to the task represe
 
  _expression_. `AssignedTo`
 
- _expression_ An expression that returns a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ An expression that returns a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

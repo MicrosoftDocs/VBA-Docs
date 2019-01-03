@@ -10,7 +10,7 @@ ms.date: 06/08/2017
 
 # TextFrame2.Orientation property (Excel)
 
-Returns or sets a value that represents the text frame orientation. Read/write  **[MsoTextOrientation](./Office.MsoTextOrientation.md)**.
+Returns or sets a value that represents the text frame orientation. Read/write  **[MsoTextOrientation](Office.MsoTextOrientation.md)**.
 
 
 ## Syntax
@@ -22,7 +22,7 @@ Returns or sets a value that represents the text frame orientation. Read/write  
 
 ## Remarks
 
-The value of this property can be set to an integer value from -90 to 90 degrees, or to one of the  **[MsoTextOrientation](./Office.MsoTextOrientation.md)** constants.
+The value of this property can be set to an integer value from -90 to 90 degrees, or to one of the  **[MsoTextOrientation](Office.MsoTextOrientation.md)** constants.
 
 
 ## See also

@@ -17,7 +17,7 @@ Returns or sets the vertical alignment of text in a text frame. Read/write
 
  _expression_. `VerticalAnchor`
 
- _expression_ An expression that returns a [TextFrame2](./Office.TextFrame2.md) object.
+ _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
 
 
 ## Remarks

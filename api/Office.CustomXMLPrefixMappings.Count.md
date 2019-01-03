@@ -20,7 +20,7 @@ Gets a  **Long** indicating the number of items in the **CustomXMLPrefixMappings
 
  _expression_. `Count`
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](./Office.CustomXMLPrefixMappings.md) object.
+ _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
 
 
 ## Return value

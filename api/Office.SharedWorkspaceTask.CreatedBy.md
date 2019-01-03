@@ -23,7 +23,7 @@ Gets the display name of the member who created the shared workspace object. Rea
 
  _expression_. `CreatedBy`
 
- _expression_ A variable that represents a [SharedWorkspaceTask](./Office.SharedWorkspaceTask.md) object.
+ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
 
 
 ## Return value

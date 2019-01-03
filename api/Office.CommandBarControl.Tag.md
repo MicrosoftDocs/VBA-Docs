@@ -20,7 +20,7 @@ Gets or sets information about the  **CommandBarControl**, such as data that can
 
  _expression_. `Tag`
 
- _expression_ A variable that represents a [CommandBarControl](./Office.CommandBarControl.md) object.
+ _expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
 
 
 ## Return value

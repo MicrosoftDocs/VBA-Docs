@@ -20,7 +20,7 @@ Used by the  **EncryptionProvider** object to create a new encryption session. T
 
  _expression_. `NewSession`( `_ParentWindow_` )
 
- _expression_ An expression that returns a [EncryptionProvider](./Office.EncryptionProvider.md) object.
+ _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
 
 
 ## Parameters

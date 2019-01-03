@@ -17,7 +17,7 @@ Retrieves a  **SmartArtNode** object at the specified index or with the specifie
 
  _expression_. `Item`( `_Index_` )
 
- _expression_ An expression that returns a [SmartArtNodes](./Office.SmartArtNodes.md) object.
+ _expression_ An expression that returns a [SmartArtNodes](Office.SmartArtNodes.md) object.
 
 
 ## Parameters

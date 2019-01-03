@@ -20,7 +20,7 @@ This feature is only available in the Open XML Format SDK.
 
  _expression_. `HrUninitConverter`( `_pcuic_` )
 
- _expression_ An expression that returns a [IConverter](./Office.IConverter.md) object.
+ _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
 
 
 ## Parameters

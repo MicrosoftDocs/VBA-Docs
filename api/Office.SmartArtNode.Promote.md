@@ -17,7 +17,7 @@ Promotes the current node (and all its children) a single level within the data 
 
 _expression_. `Promote`
 
-_expression_ An expression that returns a [SmartArtNode](./Office.SmartArtNode.md) object.
+_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
 
 
 ## Return value

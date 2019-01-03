@@ -23,7 +23,7 @@ Copies the face of a command bar button control to the Clipboard.
 
  _expression_. `CopyFace`
 
- _expression_ A variable that represents a [CommandBarButton](./Office.CommandBarButton.md) object.
+ _expression_ A variable that represents a [CommandBarButton](Office.CommandBarButton.md) object.
 
 
 ## Remarks
