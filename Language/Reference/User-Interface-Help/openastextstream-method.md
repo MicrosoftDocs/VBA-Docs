@@ -57,7 +57,7 @@ The following code illustrates the use of the **OpenAsTextStream** method:
 
 ```vb
 Sub TextStreamTest
-    Const ForReading = 1, ForWriting = 2, ForAppending = 3
+    Const ForReading = 1, ForWriting = 2, ForAppending = 8
     Const TristateUseDefault = -2, TristateTrue = -1, TristateFalse = 0
     Dim fs, f, ts, s
     Set fs = CreateObject("Scripting.FileSystemObject")
