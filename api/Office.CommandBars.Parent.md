@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.CommandBars.Parent
 ms.assetid: 7819df1a-1f63-793c-54f3-c1129fd6cdff
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CommandBars.Parent property (Office)
 
-Gets the  **Parent** object for the **CommandBars** object. Read-only.
+Gets the **Parent** object for the **CommandBars** object. Read-only.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -21,9 +21,9 @@ Gets the  **Parent** object for the **CommandBars** object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Return value
@@ -33,10 +33,4 @@ Object
 
 ## See also
 
-
-[CommandBars Object](Office.CommandBars.md)
-
-
-
-[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
-
+- [CommandBars object members](overview/library-reference/commandbars-members-office.md)

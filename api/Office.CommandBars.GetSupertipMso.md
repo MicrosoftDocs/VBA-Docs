@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.CommandBars.GetSupertipMso
 ms.assetid: e116402f-bbb7-8cd3-6305-7daf85feb514
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CommandBars.GetSupertipMso method (Office)
 
-Returns the supertip of the control identified by the  **idMso** parameter as a String.
+Returns the supertip of the control identified by the **idMso** parameter as a String.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -21,14 +21,12 @@ Returns the supertip of the control identified by the  **idMso** parameter as a 
 
 ## Syntax
 
-_expression_. `GetSupertipMso`( `_idMso_` )
+_expression_.**GetSupertipMso**(_idMso_)
 
- _expression_ An expression that returns a [CommandBars](Office.CommandBars.md) object.
+_expression_ An expression that returns a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -51,10 +49,4 @@ Application.CommandBars.GetSupertipMso("Cut")
 
 ## See also
 
-
-[CommandBars Object](Office.CommandBars.md)
-
-
-
-[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
-
+- [CommandBars object members](overview/library-reference/commandbars-members-office.md)

@@ -4,13 +4,13 @@ ms.prod: office
 api_name:
 - Office.CommandBars.Creator
 ms.assetid: 7841f7b3-2ae7-9264-37e7-c359d583a2a1
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CommandBars.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **CommandBars** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **CommandBars** object was created. Read-only.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -18,9 +18,9 @@ Gets a 32-bit integer that indicates the application in which the  **CommandBars
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
-_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ Long
 
 ## See also
 
-
-[CommandBars Object](Office.CommandBars.md)
-
-
-
-[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
-
+- [CommandBars object members](overview/library-reference/commandbars-members-office.md)
