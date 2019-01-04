@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomTaskPane.ContentControl
 ms.assetid: 55cb59eb-8ffe-4b89-b585-3ee9defd1cda
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CustomTaskPane.ContentControl property (Office)
 
-Gets the Microsoft ActiveX® control instance displayed in the custom task pane frame. Read-only.
+Gets the Microsoft ActiveX control instance displayed in the custom task pane frame. Read-only.
 
 
 ## Syntax
 
-_expression_. `ContentControl`
+_expression_.**ContentControl**
 
- _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
+_expression_ An expression that returns a **[CustomTaskPane](Office.CustomTaskPane.md)** object.
 
 
 ## Return value
@@ -35,10 +35,4 @@ This property is set once at creation.
 
 ## See also
 
-
-[CustomTaskPane Object](Office.CustomTaskPane.md)
-
-
-
-[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
-
+- [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomTaskPane.VisibleStateChange
 ms.assetid: 6faccef7-f35f-d0c8-383f-54493e4b4c8b
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -18,14 +18,12 @@ Occurs when the user changes the visibility of the custom task pane.
 
 ## Syntax
 
-_expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
+_expression_.**VisibleStateChange** (_CustomTaskPaneInst_)
 
- _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
+_expression_ An expression that returns a **[CustomTaskPane](Office.CustomTaskPane.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,10 +31,10 @@ _expression_. `VisibleStateChange`( `_CustomTaskPaneInst_`, )
 
 ## Example
 
-The following example, written in C#, creates a custom task pane and adds an ActiveX button control created in another project. A  **VisibleStateChange** event of type **_CustomTaskPaneEvents_VisibleStateChangeEventHandler** is defined in the procedure. When the event is triggered, the event handler displays a message box depending on whether the task pane is currently visible or hidden.
+The following example, written in C#, creates a custom task pane and adds an ActiveX button control created in another project. A **VisibleStateChange** event of type **_CustomTaskPaneEvents_VisibleStateChangeEventHandler** is defined in the procedure. When the event is triggered, the event handler displays a message box depending on whether the task pane is currently visible or hidden.
 
 
-```vb
+```cs
 object missing = Type.Missing; 
 public CustomTaskPane CTP = null; 
  
@@ -66,15 +64,9 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
 
 
 > [!NOTE] 
-> Custom task panes can be created in any language that supports COM and allows you to create dynamic-linked library (DLL) files. For example, Microsoft Visual Basic® 6.0, Microsoft Visual Basic .NET, Microsoft Visual C++®, Microsoft Visual C++ .NET, and Microsoft Visual C#®. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
+> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files; for example, Microsoft Visual Basic 6.0, Visual Basic .NET, Visual C++, Visual C++ .NET, and Visual C#. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
 
 
 ## See also
 
-
-[CustomTaskPane Object](Office.CustomTaskPane.md)
-
-
-
-[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
-
+- [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)

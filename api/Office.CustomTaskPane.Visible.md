@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomTaskPane.Visible
 ms.assetid: eb822e64-57e5-0bf8-950e-6d0187f3efdd
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CustomTaskPane.Visible property (Office)
 
- **True** if the specified **CustomTaskPane** object is visible. Read/write.
+**True** if the specified **CustomTaskPane** object is visible. Read/write.
 
 
 ## Syntax
 
-_expression_. `Visible`
+_expression_.**Visible**
 
- _expression_ An expression that returns a [CustomTaskPane](Office.CustomTaskPane.md) object.
+_expression_ An expression that returns a **[CustomTaskPane](Office.CustomTaskPane.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ Boolean
 
 ## See also
 
-
-[CustomTaskPane Object](Office.CustomTaskPane.md)
-
-
-
-[CustomTaskPane Object Members](./overview/Library-Reference/customtaskpane-members-office.md)
-
+- [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
