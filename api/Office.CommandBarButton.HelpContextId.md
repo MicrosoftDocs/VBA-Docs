@@ -30,7 +30,7 @@ Integer
 
 ## Remarks
 
-To use this property, you must also set the HelpFile property. Help topics respond to Shift+F1.
+To use this property, you must also set the **[HelpFile](office.commandbarbutton.helpfile.md)** property. Help topics respond to Shift+F1.
 
 
 ## See also

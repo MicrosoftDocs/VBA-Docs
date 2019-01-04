@@ -34,30 +34,7 @@ End With
 ```
 
 
-## Methods
-
-|Name|
-|:-----|
-|[Picture](Office.BulletFormat2.Picture.md)|
-
-## Properties
-
-|Name|
-|:-----|
-|[Application](Office.BulletFormat2.Application.md)|
-|[Character](Office.BulletFormat2.Character.md)|
-|[Creator](Office.BulletFormat2.Creator.md)|
-|[Font](Office.BulletFormat2.Font.md)|
-|[Number](Office.BulletFormat2.Number.md)|
-|[Parent](Office.BulletFormat2.Parent.md)|
-|[RelativeSize](Office.BulletFormat2.RelativeSize.md)|
-|[StartValue](Office.BulletFormat2.StartValue.md)|
-|[Style](Office.BulletFormat2.Style.md)|
-|[Type](Office.BulletFormat2.Type.md)|
-|[UseTextColor](Office.BulletFormat2.UseTextColor.md)|
-|[UseTextFont](Office.BulletFormat2.UseTextFont.md)|
-|[Visible](Office.BulletFormat2.Visible.md)|
-
 ## See also
 
-- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [BulletFormat2 members](overview/library-reference/bulletformat2-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)

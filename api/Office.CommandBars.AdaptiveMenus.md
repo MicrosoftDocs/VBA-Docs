@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBars.AdaptiveMenus
 ms.assetid: 1b8c1a2a-9fe1-4148-6e03-5bf48f137d6f
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -21,17 +21,16 @@ This property checks or unchecks the check box control for the option to show me
 
 ## Syntax
 
-_expression_. `AdaptiveMenus`
+_expression_.**AdaptiveMenus**
 
-_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Remarks
 
-Is  **True** if adaptive menus are enabled for all applications in Microsoft Office. Read/write **Boolean**.
+Is **True** if adaptive menus are enabled for all applications in Microsoft Office. Read/write **Boolean**.
 
 This control is set in any application by doing the following:
-
 
 1.  On the **Tools** menu, select **Customize**.
     
@@ -42,8 +41,7 @@ This control is set in any application by doing the following:
 
 ## Example
 
-This example sets three options for all command bars in Microsoft Office, including custom command bars and the controls on them.
-
+This example sets three options for all command bars in Office, including custom command bars and the controls on them.
 
 ```vb
 With CommandBars 
@@ -56,10 +54,4 @@ End With
 
 ## See also
 
-
-[CommandBars Object](Office.CommandBars.md)
-
-
-
-[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
-
+- [CommandBars object members](overview/library-reference/commandbars-members-office.md)

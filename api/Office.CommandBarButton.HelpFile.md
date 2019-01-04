@@ -30,7 +30,7 @@ String
 
 ## Remarks
 
-To use this property, you must also set the **HelpContextID** property. Help topics respond to the user pressing SHIFT+F1.
+To use this property, you must also set the **[HelpContextID](office.commandbarbutton.helpcontextid.md)** property. Help topics respond to the user pressing SHIFT+F1.
 
 
 ## See also

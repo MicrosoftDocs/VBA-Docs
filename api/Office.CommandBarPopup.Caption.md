@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarPopup.Caption
 ms.assetid: fc9221e6-cfb0-9f2a-290b-73a434569e65
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the caption text for a command bar control. Read/write.
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
-_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a **[CommandBarPopup](Office.CommandBarPopup.md)** object.
 
 
 ## Return value
@@ -30,7 +30,7 @@ String
 
 ## Example
 
-This example adds a command bar control with a spelling checker button face to a custom command bar, and then it sets the caption to "Spelling checker."
+This example adds a command bar control with a spelling checker button face to a custom command bar, and then it sets the caption to **Spelling checker**.
 
 
 ```vb
@@ -46,15 +46,9 @@ End With
 ```
 
 > [!NOTE] 
-> A control's caption is also displayed as its default ScreenTip.
+> A control's caption is also displayed as its default **ScreenTip**.
 
 
 ## See also
 
-
-[CommandBarPopup Object](Office.CommandBarPopup.md)
-
-
-
-[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
-
+- [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)

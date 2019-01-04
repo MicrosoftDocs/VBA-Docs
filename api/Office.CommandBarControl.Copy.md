@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarControl.Copy
 ms.assetid: 4314de01-8a25-0ab4-582f-7a61f62f8a18
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -18,18 +18,16 @@ Copies a command bar control to an existing command bar.
 
 ## Syntax
 
-_expression_. `Copy`( `_Bar_`, `_Before_` )
+_expression_.**Copy** (_Bar_, _Before_)
 
-_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a **[CommandBarControl](Office.CommandBarControl.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Bar_|Optional|**Variant**|A  **CommandBar** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
+| _Bar_|Optional|**Variant**|A **[CommandBar](office.commandbar.md)** object that represents the destination command bar. If this argument is omitted, the control is copied to the command bar where the control already exists.|
 | _Before_|Optional|**Variant**|A number that indicates the position for the new control on the command bar. The new control will be inserted before the control at this position. If this argument is omitted, the control is copied to the end of the command bar.|
 
 ## Return value
@@ -39,10 +37,4 @@ CommandBarControl
 
 ## See also
 
-
-[CommandBarControl Object](Office.CommandBarControl.md)
-
-
-
-[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
-
+- [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)

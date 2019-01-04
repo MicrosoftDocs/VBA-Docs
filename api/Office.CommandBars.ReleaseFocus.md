@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CommandBars.ReleaseFocus
 ms.assetid: 2ddca1e1-b8f4-a09c-120d-498b816747c4
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -21,14 +21,14 @@ Releases the user interface focus from all command bars.
 
 ## Syntax
 
-_expression_. `ReleaseFocus`
+_expression_.**ReleaseFocus**
 
-_expression_ A variable that represents a [CommandBars](Office.CommandBars.md) object.
+_expression_ A variable that represents a **[CommandBars](Office.CommandBars.md)** object.
 
 
 ## Example
 
-This example adds three blank buttons to the command bar named Custom and sets the focus to the center button. The example then waits five seconds before releasing the user interface focus from all command bars.
+This example adds three blank buttons to the command bar named **Custom** and sets the focus to the center button. The example then waits five seconds before releasing the user interface focus from all command bars.
 
 
 ```vb
@@ -57,10 +57,5 @@ CommandBars.ReleaseFocus
 
 ## See also
 
-
-[CommandBars Object](Office.CommandBars.md)
-
-
-
-[CommandBars Object Members](./overview/Library-Reference/commandbars-members-office.md)
+- [CommandBars object members](overview/library-reference/commandbars-members-office.md)
 
