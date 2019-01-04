@@ -44,4 +44,4 @@ End With
 ## See also
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
-- [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

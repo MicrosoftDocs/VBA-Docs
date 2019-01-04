@@ -4,13 +4,13 @@ ms.prod: office
 api_name:
 - Office.CommandBarControl.HelpContextId
 ms.assetid: 56f41107-92ad-7cb5-f522-7a338f0d8cf9
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CommandBarControl.HelpContextId property (Office)
 
-Gets or sets the Help context Id number for the Help topic attached to the  **CommandBarControl**. Read/write.
+Gets or sets the Help context Id number for the Help topic attached to the **CommandBarControl**. Read/write.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -18,9 +18,9 @@ Gets or sets the Help context Id number for the Help topic attached to the  **Co
 
 ## Syntax
 
-_expression_. `HelpContextId`
+_expression_.**HelpContextId**
 
-_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a **[CommandBarControl](Office.CommandBarControl.md)** object.
 
 
 ## Return value
@@ -30,12 +30,12 @@ Integer
 
 ## Remarks
 
-To use this property, you must also set the HelpFile property. Help topics respond to Shift+F1.
+To use this property, you must also set the **[HelpFile](office.commandbarcontrol.helpfile.md)** property. Help topics respond to Shift+F1.
 
 
 ## Example
 
-This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses SHIFT+F1.
+This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses Shift+F1.
 
 
 ```vb
@@ -61,10 +61,4 @@ End With
 
 ## See also
 
-
-[CommandBarControl Object](Office.CommandBarControl.md)
-
-
-
-[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
-
+- [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)

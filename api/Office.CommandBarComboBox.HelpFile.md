@@ -30,12 +30,12 @@ String
 
 ## Remarks
 
-To use this property, you must also set the **HelpContextID** property. Help topics respond to the user pressing SHIFT+F1.
+To use this property, you must also set the **HelpContextID** property. Help topics respond to the user pressing Shift+F1.
 
 
 ## Example
 
-This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses SHIFT+F1.
+This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses Shift+F1.
 
 
 ```vb

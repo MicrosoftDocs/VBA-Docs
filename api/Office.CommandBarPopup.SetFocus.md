@@ -4,13 +4,13 @@ ms.prod: office
 api_name:
 - Office.CommandBarPopup.SetFocus
 ms.assetid: ce132a0d-aa1f-c8b1-2697-1cfe78b99123
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
 # CommandBarPopup.SetFocus method (Office)
 
-Moves the keyboard focus to the specified  **CommandBarPopup** control. If the popup is disabled or isn't visible, this method will fail.
+Moves the keyboard focus to the specified **CommandBarPopup** control. If the popup is disabled or isn't visible, this method will fail.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).
@@ -18,9 +18,9 @@ Moves the keyboard focus to the specified  **CommandBarPopup** control. If the p
 
 ## Syntax
 
-_expression_. `SetFocus`
+_expression_.**SetFocus**
 
-_expression_ A variable that represents a [CommandBarPopup](Office.CommandBarPopup.md) object.
+_expression_ A variable that represents a **[CommandBarPopup](Office.CommandBarPopup.md)** object.
 
 
 ## Example
@@ -39,10 +39,4 @@ cbPopup.Reset
 
 ## See also
 
-
-[CommandBarPopup Object](Office.CommandBarPopup.md)
-
-
-
-[CommandBarPopup Object Members](./overview/Library-Reference/commandbarpopup-members-office.md)
-
+- [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)

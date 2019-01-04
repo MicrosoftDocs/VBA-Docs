@@ -30,7 +30,7 @@ String
 
 ## Example
 
-To avoid duplicate calls of the same class when tiggered with events, define the **Tag** property unique to the events. The following example demonstrates this concept with two modules.
+To avoid duplicate calls of the same class when triggered with events, define the **Tag** property unique to the events. The following example demonstrates this concept with two modules.
 
 
 ```vb

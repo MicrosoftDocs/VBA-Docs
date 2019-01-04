@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.CommandBarControl.DescriptionText
 ms.assetid: 4f7b8e0d-1f3a-f751-86a7-3378f21ecf3d
-ms.date: 06/08/2017
+ms.date: 01/04/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the description for a command bar control. Read/write.
 
 ## Syntax
 
-_expression_. `DescriptionText`
+_expression_.**DescriptionText**
 
-_expression_ A variable that represents a [CommandBarControl](Office.CommandBarControl.md) object.
+_expression_ A variable that represents a **[CommandBarControl](Office.CommandBarControl.md)** object.
 
 
 ## Return value
@@ -53,10 +53,4 @@ End With
 
 ## See also
 
-
-[CommandBarControl Object](Office.CommandBarControl.md)
-
-
-
-[CommandBarControl Object Members](./overview/Library-Reference/commandbarcontrol-members-office.md)
-
+- [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
