@@ -7,29 +7,27 @@ ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Item
 ms.assetid: 1a361a57-70c7-04dc-9dcc-f801c8b187f7
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLSchemaCollection.Item property (Office)
 
-Gets a  **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.
+Gets a **CustomXMLSchema** object from the **CustomXMLSchemaCollection** collection. Read-only.
 
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item**(_Index_)
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
+_expression_ An expression that returns a **[CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Variant**|The name or index number of the  **CustomXMLSchema** object to be returned.|
+| _Index_|Required|**Variant**|The name or index number of the **CustomXMLSchema** object to be returned.|
 
 ## Return value
 
@@ -38,10 +36,5 @@ CustomXMLSchema
 
 ## See also
 
-
-[CustomXMLSchemaCollection Object](Office.CustomXMLSchemaCollection.md)
-
-
-
-[CustomXMLSchemaCollection Object Members](./overview/Library-Reference/customxmlschemacollection-members-office.md)
+- [CustomXMLSchemaCollection object members](overview/library-reference/customxmlschemacollection-members-office.md)
 
