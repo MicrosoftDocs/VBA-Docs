@@ -4,20 +4,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMapping.Creator
 ms.assetid: 9a055934-1b99-ba25-dd22-806be93017be
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLPrefixMapping.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **CustomXMLPrefixMapping** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **CustomXMLPrefixMapping** object was created. Read-only.
 
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ An expression that returns a [CustomXMLPrefixMapping](Office.CustomXMLPrefixMapping.md) object.
+_expression_ An expression that returns a **[CustomXMLPrefixMapping](Office.CustomXMLPrefixMapping.md)** object.
 
 
 ## Return value
@@ -27,10 +27,4 @@ Long
 
 ## See also
 
-
-[CustomXMLPrefixMapping Object](Office.CustomXMLPrefixMapping.md)
-
-
-
-[CustomXMLPrefixMapping Object Members](./overview/Library-Reference/customxmlprefixmapping-members-office.md)
-
+- [CustomXMLPrefixMapping object members](overview/library-reference/customxmlprefixmapping-members-office.md)
