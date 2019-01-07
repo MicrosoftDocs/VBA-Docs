@@ -10,14 +10,14 @@ ms.date: 01/07/2019
 
 # CustomXMLValidationError.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **CustomXMLValidationError** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **CustomXMLValidationError** object was created. Read-only.
 
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
- _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
+_expression_ An expression that returns a **[CustomXMLValidationError](Office.CustomXMLValidationError.md)** object.
 
 
 ## Return value
@@ -27,10 +27,4 @@ Long
 
 ## See also
 
-
-[CustomXMLValidationError Object](Office.CustomXMLValidationError.md)
-
-
-
-[CustomXMLValidationError Object Members](./overview/Library-Reference/customxmlvalidationerror-members-office.md)
-
+- [CustomXMLValidationError object members](overview/library-reference/customxmlvalidationerror-members-office.md)

@@ -7,13 +7,13 @@ ms.prod: office
 api_name:
 - Office.CustomXMLValidationError
 ms.assetid: 7f7ced9a-0878-9287-fe66-a7f0ffdc45b6
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLValidationError object (Office)
 
-Represents a single validation error in a  **CustomXMLValidationErrors** collection.
+Represents a single validation error in a **CustomXMLValidationErrors** collection.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Validation errors can either be triggered when validating an operation against t
 
 ## Example
 
-The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the  **CustomXMLValidationErrors** collection and then displayed in the Debug window.
+The following example adds a custom part and then adds a child node to that part. Any errors that occur are added to the **CustomXMLValidationErrors** collection and then displayed in the Debug window.
 
 
 ```vb
@@ -58,33 +58,7 @@ Resume
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Delete](Office.CustomXMLValidationError.Delete.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.CustomXMLValidationError.Application.md)|
-|[Creator](Office.CustomXMLValidationError.Creator.md)|
-|[ErrorCode](Office.CustomXMLValidationError.ErrorCode.md)|
-|[Name](Office.CustomXMLValidationError.Name.md)|
-|[Node](Office.CustomXMLValidationError.Node.md)|
-|[Parent](Office.CustomXMLValidationError.Parent.md)|
-|[Text](Office.CustomXMLValidationError.Text.md)|
-|[Type](Office.CustomXMLValidationError.Type.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [CustomXMLValidationError object members](overview/library-reference/customxmlvalidationerror-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

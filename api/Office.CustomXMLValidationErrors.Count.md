@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLValidationErrors.Count
 ms.assetid: 49381924-8fe9-5bc6-92b5-340765931ef2
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLValidationErrors.Count property (Office)
 
-Gets a  **Long** indicating the number of items in the **CustomXMLValidationErrors** collection. Read-only.
+Gets a **Long** indicating the number of items in the **CustomXMLValidationErrors** collection. Read-only.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
- _expression_ An expression that returns a [CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md) object.
+_expression_ An expression that returns a **[CustomXMLValidationErrors](Office.CustomXMLValidationErrors.md)** object.
 
 
 ## Return value
@@ -30,10 +30,6 @@ Long
 
 ## See also
 
+- [CustomXMLValidationErrors object members](overview/library-reference/customxmlvalidationerrors-members-office.md)
 
-[CustomXMLValidationErrors Object](Office.CustomXMLValidationErrors.md)
-
-
-
-[CustomXMLValidationErrors Object Members](./overview/Library-Reference/customxmlvalidationerrors-members-office.md)
 
