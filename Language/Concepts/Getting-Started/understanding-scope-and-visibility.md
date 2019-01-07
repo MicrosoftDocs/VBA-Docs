@@ -5,7 +5,7 @@ f1_keywords:
 - vbcn6.chm1076771
 ms.prod: office
 ms.assetid: 38f2ffcc-1bb6-3e0b-2ea5-3ca2355c8b92
-ms.date: 12/26/2018
+ms.date: 01/07/2019
 ---
 
 
@@ -41,7 +41,7 @@ In the following example, the string variable `strMsg` is available to any proce
 
 ```vb
 ' Add following to Declarations section of module. 
-Private strMsg sAs String 
+Private strMsg As String 
  
 Sub InitializePrivateVariable() 
  strMsg = "This variable can't be used outside this module." 
