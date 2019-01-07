@@ -7,33 +7,26 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.Attributes
 ms.assetid: 406847e4-25e4-77c6-883c-9cc85f781c73
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.Attributes property (Office)
 
-Gets a  **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.
+Gets a **CustomXMLNodes** collection representing the attributes of the current element in the current node. Read-only.
 
 
 ## Syntax
 
-_expression_. `Attributes`
+_expression_.**Attributes**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
 
 CustomXMLNodes
 
-
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

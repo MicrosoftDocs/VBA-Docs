@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.NextSibling
 ms.assetid: 75dff508-f657-f94e-fbff-8bab0f4e5192
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.NextSibling property (Office)
 
-Gets the next sibling node (element, comment, or processing instruction) of the current node. If the node is the last sibling at its level, the property returns  **Nothing**. Read-only.
+Gets the next sibling node (element, comment, or processing instruction) of the current node. If the node is the last sibling at its level, the property returns **Nothing**. Read-only.
 
 
 ## Syntax
 
-_expression_. `NextSibling`
+_expression_.**NextSibling**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ CustomXMLNode
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

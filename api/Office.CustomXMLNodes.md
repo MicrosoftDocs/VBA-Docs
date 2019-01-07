@@ -7,23 +7,23 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNodes
 ms.assetid: 7aa5b7ae-7d4e-4b57-23b5-b027f39e5ff6
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNodes object (Office)
 
-Contains a collection of  **CustomXMLNodes** objects representing the XML nodes in a document.
+Contains a collection of **CustomXMLNodes** objects representing the XML nodes in a document.
 
 
 ## Remarks
 
-The  **Attributes** and the **ChildNodes** properties return collections of nodes of this type.
+The **[Attributes](office.customxmlnode.attributes.md)** and the **[ChildNodes](office.customxmlnode.childnodes.md)** properties return collections of nodes of this type.
 
 
 ## Example
 
-The following example selects one or more matching the XPath expression.
+The following example selects one or more nodes matching the XPath expression.
 
 
 ```vb
@@ -46,22 +46,7 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.CustomXMLNodes.Application.md)|
-|[Count](Office.CustomXMLNodes.Count.md)|
-|[Creator](Office.CustomXMLNodes.Creator.md)|
-|[Item](Office.CustomXMLNodes.Item.md)|
-|[Parent](Office.CustomXMLNodes.Parent.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [CustomXMLNodes object members](overview/library-reference/customxmlnodes-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)

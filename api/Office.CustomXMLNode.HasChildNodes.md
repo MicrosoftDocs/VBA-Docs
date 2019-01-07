@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.HasChildNodes
 ms.assetid: 9afc3116-372c-7efa-8cdd-04f87d903cc2
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.HasChildNodes method (Office)
 
-Gets  **True** if the current element node has child element nodes.
+Gets **True** if the current element node has child element nodes.
 
 
 ## Syntax
 
-_expression_. `HasChildNodes`
+_expression_.**HasChildNodes**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,12 +30,12 @@ Boolean
 
 ## Remarks
 
-This method will always return  **False** when **CustomXMLNode** isn't of node type **msoCustomXMLNodeElement**.
+This method will always return **False** when **CustomXMLNode** isn't of node type **[msoCustomXMLNodeElement](office.msocustomxmlnodetype.md)**.
 
 
 ## Example
 
-The following example demonstrates using various methods to add custom XML parts, select parts and nodes with different criteria, append child subtrees, tests whether the subtree was successfully added, and delete parts and nodes.
+The following example demonstrates using various methods to add custom XML parts, select parts and nodes with different criteria, append child subtrees, test whether the subtree was successfully added, and delete parts and nodes.
 
 
 ```vb
@@ -104,10 +104,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

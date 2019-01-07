@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.ChildNodes
 ms.assetid: 6b0dcfde-8811-ff56-8f56-24db20bc1750
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.ChildNodes property (Office)
 
-Gets a  **CustomXMLNodes** collection containing all of the child elements of the current node. Read-only.
+Gets a **CustomXMLNodes** collection containing all of the child elements of the current node. Read-only.
 
 
 ## Syntax
 
-_expression_. `ChildNodes`
+_expression_.**ChildNodes**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ CustomXMLNodes
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)
