@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartAfterAdd
 ms.assetid: c1a263a5-94cb-f563-145b-151a52a31d52
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLParts.PartAfterAdd event (Office)
 
-Occurs just after a  **CustomXMLPart** object is added to the **CustomXMLParts** collection.
+Occurs just after a **CustomXMLPart** object is added to the **CustomXMLParts** collection.
 
 
 ## Syntax
 
-_expression_. **PartAfterAdd**(**_NewPart_**, )
+_expression_.**PartAfterAdd**(_NewPart_)
 
- An expression that returns a **CustomXMLParts** object.
+_expression_ An expression that returns a **CustomXMLParts** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,7 +31,7 @@ _expression_. **PartAfterAdd**(**_NewPart_**, )
 
 ## Example
 
-The following example displays the XML contents of a part after it has been added to a  **CustomXMLParts** collection.
+The following example displays the XML contents of a part after it has been added to a **CustomXMLParts** collection.
 
 
 ```vb
@@ -47,10 +45,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLParts Object](Office.CustomXMLParts.md)
-
-
-
-[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
-
+- [CustomXMLParts object members](overview/library-reference/customxmlparts-members-office.md)

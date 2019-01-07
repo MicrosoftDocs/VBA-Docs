@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartBeforeDelete
 ms.assetid: 50fa1172-3eac-e091-660e-693a91aaf330
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLParts.PartBeforeDelete event (Office)
 
-Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.
+Occurs just before a **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.
 
 
 ## Syntax
 
-_expression_. `PartBeforeDelete`( `_OldPart_`, )
+_expression_.**PartBeforeDelete** (_OldPart_)
 
- _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
+_expression_ An expression that returns a **[CustomXMLParts](Office.CustomXMLParts.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,7 +31,7 @@ _expression_. `PartBeforeDelete`( `_OldPart_`, )
 
 ## Example
 
-The following example confirms that the user wants to delete the customXML part and then deletes the part if the user clicks  **Yes** in the dialog box.
+The following example confirms that the user wants to delete the custom XML part, and then deletes the part if the user chooses **Yes** in the dialog box.
 
 
 ```vb
@@ -52,10 +50,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLParts Object](Office.CustomXMLParts.md)
-
-
-
-[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
-
+- [CustomXMLParts object members](overview/library-reference/customxmlparts-members-office.md)

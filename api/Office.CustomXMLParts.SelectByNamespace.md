@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLParts.SelectByNamespace
 ms.assetid: 39dcce9c-4354-0211-c2cf-393917bf6aef
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Selects the collection of custom XML parts whose namespace matches the search cr
 
 ## Syntax
 
-_expression_. `SelectByNamespace`( `_NamespaceURI_` )
+_expression_.**SelectByNamespace**(_NamespaceURI_)
 
- _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
+_expression_ An expression that returns a **[CustomXMLParts](Office.CustomXMLParts.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,12 +36,12 @@ CustomXMLParts
 
 ## Remarks
 
-If no custom XML parts with this namespace exist, the method returns an empty  **CustomXMLParts** collection object.
+If no custom XML parts with this namespace exist, the method returns an empty **CustomXMLParts** collection object.
 
 
 ## Example
 
-The following example selects all of the custom XML parts matching the namespace and then selects a node from those parts that match an XPath expression.
+The following example selects all of the custom XML parts matching the namespace, and then selects a node from those parts that match an XPath expression.
 
 
 ```vb
@@ -61,10 +59,5 @@ Set cxn = cxp1(1).SelectSingleNode("//*[@supplierID = 1]")
 
 ## See also
 
-
-[CustomXMLParts Object](Office.CustomXMLParts.md)
-
-
-
-[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
+- [CustomXMLParts object members](overview/library-reference/customxmlparts-members-office.md)
 

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPart.SelectNodes
 ms.assetid: c220c535-ac3f-cdba-5b1b-b608ed2eb8e4
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Selects a collection of nodes from a custom XML part.
 
 ## Syntax
 
-_expression_. `SelectNodes`( `_XPath_` )
+_expression_.**SelectNodes**(_XPath_)
 
- _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
+_expression_ An expression that returns a **[CustomXMLPart](Office.CustomXMLPart.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -59,10 +57,5 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 ## See also
 
-
-[CustomXMLPart Object](Office.CustomXMLPart.md)
-
-
-
-[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
+- [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
 

@@ -7,32 +7,30 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPart.NodeAfterDelete
 ms.assetid: 430d2eed-afc3-8798-1478-2146351cefcc
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLPart.NodeAfterDelete event (Office)
 
-Occurs after a node is deleted in a  **CustomXMLPart** object.
+Occurs after a node is deleted in a **CustomXMLPart** object.
 
 
 ## Syntax
 
-_expression_. `NodeAfterDelete`( `_OldNode_`, `_OldParentNode_`, `_OldNextSibling_`, `_InUndoRedo_` )
+_expression_.**NodeAfterDelete** (_OldNode_, _OldParentNode_, _OldNextSibling_, _InUndoRedo_)
 
- _expression_ An expression that returns a [CustomXMLPart](Office.CustomXMLPart.md) object.
+_expression_ An expression that returns a **[CustomXMLPart](Office.CustomXMLPart.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node which was just removed from the  **CustomXMLPart** object. Note that this node may have children, if a subtree is being removed from the document. Also, this node will be a "disconnected" node in that you can query down from the node, but you cannot query up the tree - the node appears to exist alone.|
-| _OldParentNode_|Required|**CustomXMLNode**|Corresponds to the former parent node of OldNode.|
-| _OldNextSibling_|Required|**CustomXMLNode**|Corresponds to the former next sibling of OldNode.|
-| _InUndoRedo_|Required|**Boolean**|Returns  **TRUE** if the node was inserted as part of an Undo/Redo action by the user.|
+| _OldNode_|Required|**CustomXMLNode**|Corresponds to the node that was just removed from the **CustomXMLPart** object. Note that this node may have children if a subtree is being removed from the document. Also, this node will be a "disconnected" node in that you can query down from the node, but you cannot query up the tree; the node appears to exist alone.|
+| _OldParentNode_|Required|**CustomXMLNode**|Corresponds to the former parent node of _OldNode_.|
+| _OldNextSibling_|Required|**CustomXMLNode**|Corresponds to the former next sibling of _OldNode_.|
+| _InUndoRedo_|Required|**Boolean**|Returns **True** if the node was inserted as part of an Undo/Redo action by the user.|
 
 ## Example
 
@@ -48,10 +46,5 @@ End Sub
 
 ## See also
 
-
-[CustomXMLPart Object](Office.CustomXMLPart.md)
-
-
-
-[CustomXMLPart Object Members](./overview/Library-Reference/customxmlpart-members-office.md)
+- [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
 

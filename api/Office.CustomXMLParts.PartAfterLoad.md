@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.CustomXMLParts.PartAfterLoad
 ms.assetid: d59fe837-27b5-300f-133f-ffb01f5f95b9
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLParts.PartAfterLoad event (Office)
 
-Occurs just after a  **CustomXMLPart** object is loaded.
+Occurs just after a **CustomXMLPart** object is loaded.
 
 
 ## Syntax
 
-_expression_. `PartAfterLoad`( `_Part_`, )
+_expression_.**PartAfterLoad**(_Part_)
 
- _expression_ An expression that returns a [CustomXMLParts](Office.CustomXMLParts.md) object.
+_expression_ An expression that returns a **[CustomXMLParts](Office.CustomXMLParts.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -45,10 +43,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLParts Object](Office.CustomXMLParts.md)
-
-
-
-[CustomXMLParts Object Members](./overview/Library-Reference/customxmlparts-members-office.md)
-
+- [CustomXMLParts object members](overview/library-reference/customxmlparts-members-office.md)
