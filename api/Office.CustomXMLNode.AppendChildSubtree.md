@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.AppendChildSubtree
 ms.assetid: 67899ba9-7e5a-e40e-2e33-b02ff1fff4b4
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Adds a subtree as the last child under the context element node in the tree.
 
 ## Syntax
 
-_expression_. `AppendChildSubtree`( `_XML_` )
+_expression_.**AppendChildSubtree**(_XML_)
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,7 +31,7 @@ _expression_. `AppendChildSubtree`( `_XML_` )
 
 ## Remarks
 
-If the context node is any type other than  **msoXMLNodeElement**, the append operation is not performed and an error message is displayed. If the CustomXMLNode is being validated against a schema and if the operation would result in an invalid tree structure, the append operation is not performed and an error message is displayed.
+If the context node is any type other than **[msoCustomXMLNodeElement](office.msocustomxmlnodetype.md)**, the append operation is not performed and an error message is displayed. If the **CustomXMLNode** is being validated against a schema and if the operation would result in an invalid tree structure, the append operation is not performed and an error message is displayed.
 
 
 ## Example
@@ -65,10 +63,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

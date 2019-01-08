@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.Add
 ms.assetid: d5df782b-0e8b-e827-4cb4-40ddb9731e9b
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,21 +18,19 @@ Allows you to add one or more schemas to a schema collection that can then be ad
 
 ## Syntax
 
-_expression_. `Add`( `_NamespaceURI_`, `_Alias_`, `_FileName_`, `_InstallForAllUsers_` )
+_expression_.**Add**(_NamespaceURI_, _Alias_, _FileName_, _InstallForAllUsers_)
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
+_expression_ An expression that returns a **[CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _NamespaceURI_|Optional|**String**|Contains the namespace of the schema to be added to the collection. If the schema already exists in the Schema Library, the method will retrieve it from there.|
 | _Alias_|Optional|**String**|Contains the alias of the schema to be added to the collection. If the alias already exists in the Schema Library, the method can find it using this argument.|
 | _FileName_|Optional|**String**|Contains the location of the schema on a disk. If this parameter is specified, the schema is added to the collection and to the Schema Library.|
-| _InstallForAllUsers_|Optional|**Boolean**|Specifies whether, in the case where the method is adding the schema to the Schema Library, the Schema Library keys should be written to the registry(HKey_Local_Machine for all users or HKey_Current_User for just the current user). The parameter defaults to  **False** and writes to HKey_Current_User.|
+| _InstallForAllUsers_|Optional|**Boolean**|Specifies whether, in the case where the method is adding the schema to the Schema Library, the Schema Library keys should be written to the registry (HKey_Local_Machine for all users or HKey_Current_User for just the current user). The parameter defaults to **False** and writes to HKey_Current_User.|
 
 ## Return value
 
@@ -45,17 +43,18 @@ The following example adds a schema to the schema collection, selects a single n
 
 
 ```vb
-Function AddSchema() 
+ Function AddSchema() 
     On Error GoTo Err 
  
     Dim objCustomXMLSchemaCollection As CustomXMLSchemaCollection 
-    Dim cxp1 As  CustomXMLSchema 
+    Dim cxp1 As CustomXMLSchema 
     Dim cxn As CustomXMLNode 
  
-    ' Adds a schema to the collection. 
-    cxp1 = objCustomXMLSchemaCollection.Add("urn:invoice:namespace", "coreDefinitions", wdCore.xsd", True) 
+    ' Adds a schema to the collection.
+
+    cxp1 = objCustomXMLSchemaCollection.Add("urn:invoice:namespace", "coreDefinitions", "wdCore.xsd", True) 
  
-... 
+ ... 
  
     Set cxn = cxp4.SelectSingleNode("//*[@quantity < 4]") 
  
@@ -63,21 +62,16 @@ Function AddSchema()
       
     Exit Function 
                  
-' Exception handling. Show the message and resume. 
-Err: 
+ ' Exception handling. Show the message and resume. 
+ Err: 
         MsgBox (Err.Description) 
         Resume Next 
-End Function 
+ End Function 
 
 ```
 
 
 ## See also
 
-
-[CustomXMLSchemaCollection Object](Office.CustomXMLSchemaCollection.md)
-
-
-
-[CustomXMLSchemaCollection Object Members](./overview/Library-Reference/customxmlschemacollection-members-office.md)
+- [CustomXMLSchemaCollection object members](overview/library-reference/customxmlschemacollection-members-office.md)
 

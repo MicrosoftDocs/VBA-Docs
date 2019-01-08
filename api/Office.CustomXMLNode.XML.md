@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.XML
 ms.assetid: 28a95285-f751-e0da-f6ce-f16082430176
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets the XML representation of the current node and its children, if any exist. 
 
 ## Syntax
 
-_expression_. `XML`
+_expression_.**XML**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ String
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

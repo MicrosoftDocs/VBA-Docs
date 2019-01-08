@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.Delete
 ms.assetid: e240dea8-3045-634d-1ac8-782facf85d4e
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,9 +18,9 @@ Deletes the current node from the tree (including all of its children, if any ex
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Remarks
@@ -91,10 +91,4 @@ End Sub
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

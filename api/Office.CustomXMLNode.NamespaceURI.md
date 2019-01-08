@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.NamespaceURI
 ms.assetid: 4bb671fd-b2e5-0259-40cf-5499ae0c747e
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.NamespaceURI property (Office)
 
-Gets the unique address identifier for the namespace of the  **CustomXMLNode** object. Read-only.
+Gets the unique address identifier for the namespace of the **CustomXMLNode** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `NamespaceURI`
+_expression_.**NamespaceURI**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ String
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

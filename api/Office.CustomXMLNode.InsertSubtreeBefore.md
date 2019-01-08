@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.InsertSubtreeBefore
 ms.assetid: 5d9e9303-e427-a092-3960-eee90a53970d
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Inserts the specified subtree into the location just before the context node.
 
 ## Syntax
 
-_expression_. `InsertSubtreeBefore`( `_XML_`, `_NextSibling_` )
+_expression_.**InsertSubtreeBefore** (_XML_, _NextSibling_)
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ _expression_. `InsertSubtreeBefore`( `_XML_`, `_NextSibling_` )
 
 ## Remarks
 
-If the  _NextSibling_ parameter is not a child of the context node or if the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
+If the _NextSibling_ parameter is not a child of the context node, or if the operation would result in an invalid tree structure, the insertion is not performed and an error message is displayed.
 
 
 ## Example
@@ -66,10 +64,4 @@ With ActiveDocument
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

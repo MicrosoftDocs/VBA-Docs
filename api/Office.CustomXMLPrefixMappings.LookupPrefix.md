@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLPrefixMappings.LookupPrefix
 ms.assetid: 49af8a41-d5d5-58e8-672f-db561c5c7688
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Allows you to get a prefix corresponding to the specified namespace.
 
 ## Syntax
 
-_expression_. `LookupPrefix`( `_NamespaceURI_` )
+_expression_.**LookupPrefix**(_NamespaceURI_)
 
- _expression_ An expression that returns a [CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md) object.
+_expression_ An expression that returns a **[CustomXMLPrefixMappings](Office.CustomXMLPrefixMappings.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -58,10 +56,5 @@ strNamespacePrefix = objCustomPrefixMappings.LookupPrefix("urn:invoice:namespace
 
 ## See also
 
-
-[CustomXMLPrefixMappings Object](Office.CustomXMLPrefixMappings.md)
-
-
-
-[CustomXMLPrefixMappings Object Members](./overview/Library-Reference/customxmlprefixmappings-members-office.md)
+- [CustomXMLPrefixMappings object members](overview/library-reference/customxmlprefixmappings-members-office.md)
 

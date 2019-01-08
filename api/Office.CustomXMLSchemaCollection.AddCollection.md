@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLSchemaCollection.AddCollection
 ms.assetid: d3b49c57-9a5b-9b5b-0003-d09240d227c1
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,14 +18,12 @@ Adds an existing schema collection to the current schema collection.
 
 ## Syntax
 
-_expression_. `AddCollection`( `_SchemaCollection_` )
+_expression_.**AddCollection**(_SchemaCollection_)
 
- _expression_ An expression that returns a [CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md) object.
+_expression_ An expression that returns a **[CustomXMLSchemaCollection](Office.CustomXMLSchemaCollection.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -54,10 +52,5 @@ End Sub
 
 ## See also
 
-
-[CustomXMLSchemaCollection Object](Office.CustomXMLSchemaCollection.md)
-
-
-
-[CustomXMLSchemaCollection Object Members](./overview/Library-Reference/customxmlschemacollection-members-office.md)
+- [CustomXMLSchemaCollection object members](overview/library-reference/customxmlschemacollection-members-office.md)
 

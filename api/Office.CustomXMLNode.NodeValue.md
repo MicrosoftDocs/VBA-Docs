@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.NodeValue
 ms.assetid: 66be9dfe-0a8f-9522-7974-e00497ac9118
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets or sets the value of the current node. Read/write.
 
 ## Syntax
 
-_expression_. `NodeValue`
+_expression_.**NodeValue**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ String
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

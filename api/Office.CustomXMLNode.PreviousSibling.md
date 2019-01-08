@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLNode.PreviousSibling
 ms.assetid: 511e6dfd-7027-220a-9d3e-e998a43e7239
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLNode.PreviousSibling property (Office)
 
-Gets the previous sibling node (element, comment, or processing instruction) of the current node. If the current node is the first sibling at its level, the property returns  **Nothing**. Read-only.
+Gets the previous sibling node (element, comment, or processing instruction) of the current node. If the current node is the first sibling at its level, the property returns **Nothing**. Read-only.
 
 
 ## Syntax
 
-_expression_. `PreviousSibling`
+_expression_.**PreviousSibling**
 
- _expression_ An expression that returns a [CustomXMLNode](Office.CustomXMLNode.md) object.
+_expression_ An expression that returns a **[CustomXMLNode](Office.CustomXMLNode.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ CustomXMLNode
 
 ## See also
 
-
-[CustomXMLNode Object](Office.CustomXMLNode.md)
-
-
-
-[CustomXMLNode Object Members](./overview/Library-Reference/customxmlnode-members-office.md)
-
+- [CustomXMLNode object members](overview/library-reference/customxmlnode-members-office.md)

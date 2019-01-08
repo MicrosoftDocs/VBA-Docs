@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.CustomXMLValidationError.Node
 ms.assetid: d639465d-b36c-788c-2c51-4c23e3baa929
-ms.date: 06/08/2017
+ms.date: 01/07/2019
 ---
 
 
 # CustomXMLValidationError.Node property (Office)
 
-Gets a node in a  **CustomXMLValidationError** object, if any exist. If no nodes exist, the property returns **Nothing**. Read-only.
+Gets a node in a **CustomXMLValidationError** object, if any exist. If no nodes exist, the property returns **Nothing**. Read-only.
 
 
 ## Syntax
 
-_expression_. `Node`
+_expression_.**Node**
 
- _expression_ An expression that returns a [CustomXMLValidationError](Office.CustomXMLValidationError.md) object.
+_expression_ An expression that returns a **[CustomXMLValidationError](Office.CustomXMLValidationError.md)** object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ CustomXMLNode
 
 ## See also
 
-
-[CustomXMLValidationError Object](Office.CustomXMLValidationError.md)
-
-
-
-[CustomXMLValidationError Object Members](./overview/Library-Reference/customxmlvalidationerror-members-office.md)
-
+- [CustomXMLValidationError object members](overview/library-reference/customxmlvalidationerror-members-office.md)
