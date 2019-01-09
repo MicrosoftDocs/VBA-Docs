@@ -13,7 +13,7 @@ ms.date: 01/04/2019
 
 # CommandBarControls object (Office)
 
-A collection of **CommandBarControl** objects that represent the command bar controls on a command bar.
+A collection of **[CommandBarControl](Office.CommandBarControl.md)** objects that represent the command bar controls on a command bar.
 
 > [!NOTE] 
 > The use of CommandBars in some Microsoft Office applications has been superseded by the new ribbon component of the Microsoft Office Fluent user interface. For more information, see [Overview of the Office Fluent ribbon](../library-reference/concepts/overview-of-the-office-fluent-ribbon.md).

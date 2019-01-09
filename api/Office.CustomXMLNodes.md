@@ -13,7 +13,7 @@ ms.date: 01/07/2019
 
 # CustomXMLNodes object (Office)
 
-Contains a collection of **CustomXMLNodes** objects representing the XML nodes in a document.
+Contains a collection of **[CustomXMLNode](Office.CustomXMLNode.md)** objects representing the XML nodes in a document.
 
 
 ## Remarks
