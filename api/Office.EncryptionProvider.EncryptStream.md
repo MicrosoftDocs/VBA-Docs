@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.EncryptionProvider.EncryptStream
 ms.assetid: 58a379f4-fb74-4a2c-b0ed-ce3e3151c292
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,14 +18,12 @@ Encrypts and returns a stream of data for a document.
 
 ## Syntax
 
-_expression_. `EncryptStream`( `_SessionHandle_`, `_StreamName_`, `_UnencryptedStream_`, `_EncryptedStream_` )
+_expression_.**EncryptStream**(_SessionHandle_, _StreamName_, _UnencryptedStream_, _EncryptedStream_)
 
- _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
+_expression_ An expression that returns an **[EncryptionProvider](Office.EncryptionProvider.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,10 +39,4 @@ This method is typically called by your COM add-in during a save operation.
 
 ## See also
 
-
-[EncryptionProvider Object](Office.EncryptionProvider.md)
-
-
-
-[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
-
+- [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)

@@ -4,28 +4,21 @@ ms.prod: office
 api_name:
 - Office.EffectParameter.Name
 ms.assetid: 88fd7b18-deda-d9e9-df53-e0a3575e9fc6
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # EffectParameter.Name property (Office)
 
-Retrieves the string name of the  **EffectParameter** parameter. Read-only
-
+Retrieves the string name of the **EffectParameter** parameter. Read-only.
 
 ## Syntax
 
-_expression_. `Name`
+_expression_.**Name**
 
- _expression_ An expression that returns a [EffectParameter](Office.EffectParameter.md) object.
+_expression_ An expression that returns an **[EffectParameter](Office.EffectParameter.md)** object.
 
 
 ## See also
 
-
-[EffectParameter Object](Office.EffectParameter.md)
-
-
-
-[EffectParameter Object Members](./overview/Library-Reference/effectparameter-members-office.md)
-
+- [EffectParameter object members](overview/library-reference/effectparameter-members-office.md)

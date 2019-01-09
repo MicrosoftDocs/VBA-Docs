@@ -4,15 +4,13 @@ ms.prod: office
 api_name:
 - Office.EncryptionProviderDetail
 ms.assetid: 4992510d-b693-4961-fd53-fdb618541e7f
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # EncryptionProviderDetail enumeration (Office)
 
 Specifies details about encryption providers.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -22,3 +20,6 @@ Specifies details about encryption providers.
 |**encprovdetCipherBlockSize**|3|A cipher block size encryption provider.|
 |**encprovdetCipherMode**|4|A cipher mode encryption provider.|
 
+## See also
+
+- [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)

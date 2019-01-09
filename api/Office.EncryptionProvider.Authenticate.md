@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.EncryptionProvider.Authenticate
 ms.assetid: cb0ecd48-2d37-389c-d041-947b4d9d752a
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,14 +18,12 @@ Used to determine whether the user has the proper permissions to open the encryp
 
 ## Syntax
 
-_expression_. `Authenticate`( `_ParentWindow_`, `_EncryptionData_`, `_PermissionsMask_` )
+_expression_.**Authenticate**(_ParentWindow_, _EncryptionData_, _PermissionsMask_)
 
- _expression_ An expression that returns a [EncryptionProvider](Office.EncryptionProvider.md) object.
+_expression_ An expression that returns an **[EncryptionProvider](Office.EncryptionProvider.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -45,10 +43,4 @@ This is where your COM add-in encryption provider displays whatever user interfa
 
 ## See also
 
-
-[EncryptionProvider Object](Office.EncryptionProvider.md)
-
-
-
-[EncryptionProvider Object Members](./overview/Library-Reference/encryptionprovider-members-office.md)
-
+- [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
