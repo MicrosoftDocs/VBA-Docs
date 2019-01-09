@@ -7,20 +7,19 @@ ms.prod: office
 api_name:
 - Office.FileDialog.Title
 ms.assetid: a2d43a1d-78ce-3f8f-7763-7324e5af183d
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialog.Title property (Office)
 
-Sets or gets the title of a file dialog box displayed using the  **FileDialog** object. Read/write.
-
+Sets or gets the title of a file dialog box displayed by using the **FileDialog** object. Read/write.
 
 ## Syntax
 
-_expression_. `Title`
+_expression_.**Title**
 
- _expression_ Required. A variable that represents a '[FileDialog](Office.FileDialog.md)' object.
+_expression_ Required. A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 ## Remarks
 
@@ -28,10 +27,5 @@ _expression_. `Title`
 
 ## See also
 
-
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 

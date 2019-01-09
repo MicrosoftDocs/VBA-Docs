@@ -4,20 +4,20 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters.Creator
 ms.assetid: 07ff91ce-25e2-530b-9e6a-04bf6a3de0c0
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialogFilters.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **FileDialogFilters** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **FileDialogFilters** object was created. Read-only.
 
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
-_expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a **[FileDialogFilters](Office.FileDialogFilters.md)** object.
 
 
 ## Return value
@@ -27,10 +27,5 @@ Long
 
 ## See also
 
-
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 

@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters.Parent
 ms.assetid: f089556b-2b24-b317-a617-a58e9068ea81
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialogFilters.Parent property (Office)
 
-Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.
+Gets the **Parent** object for the **FileDialogFilters** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a **[FileDialogFilters](Office.FileDialogFilters.md)** object.
 
 
 ## Return value
@@ -30,10 +30,5 @@ Object
 
 ## See also
 
-
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 

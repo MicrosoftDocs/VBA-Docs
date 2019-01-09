@@ -7,25 +7,25 @@ ms.prod: office
 api_name:
 - Office.FileDialog.DialogType
 ms.assetid: c589fe49-6527-7cdc-b7cb-55ac71013f3c
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialog.DialogType property (Office)
 
-Gets an  **MsoFileDialogType** constant representing the type of file dialog box that the **FileDialog** object is set to display. Read-only.
+Gets an **[MsoFileDialogType](office.msofiledialogtype.md)** constant representing the type of file dialog box that the **FileDialog** object is set to display. Read-only.
 
 
 ## Syntax
 
-_expression_. `DialogType`
+_expression_.**DialogType**
 
-_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Example
 
-The following example takes a  **FileDialog** object of an unknown type and runs the **Execute** method if it is a **SaveAs** dialog box or an **Open** dialog box.
+The following example takes a **FileDialog** object of an unknown type and runs the **Execute** method if it is a **SaveAs** dialog box or an **Open** dialog box.
 
 
 ```vb
@@ -54,10 +54,5 @@ End Sub
 
 ## See also
 
-
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 

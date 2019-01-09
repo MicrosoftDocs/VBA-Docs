@@ -7,30 +7,30 @@ ms.prod: office
 api_name:
 - Office.FileDialog.AllowMultiSelect
 ms.assetid: b109b0b5-1a94-c93f-a1c0-43728d7b9f30
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialog.AllowMultiSelect property (Office)
 
-Is  **True** if the user is allowed to select multiple files from a file dialog box. Read/write.
+Is **True** if the user is allowed to select multiple files from a file dialog box. Read/write.
 
 
 ## Syntax
 
-_expression_. `AllowMultiSelect`
+_expression_.**AllowMultiSelect**
 
-_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Remarks
 
-This property has no effect on  **Folder Picker** dialog boxes or **SaveAs** dialog boxes because users should never be able to select multiple files in these types of file dialog boxes.
+This property has no effect on **Folder Picker** dialog boxes or **SaveAs** dialog boxes because users should never be able to select multiple files in these types of file dialog boxes.
 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box by using the **FileDialog** object, and displays each selected file in a message box.
 
 
 ```vb
@@ -81,10 +81,5 @@ End Sub
 
 ## See also
 
-
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 

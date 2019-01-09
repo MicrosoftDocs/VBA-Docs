@@ -7,28 +7,23 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters.Item
 ms.assetid: d1adc69f-1b6a-cb7e-b5a9-dd1d3bf3b7e7
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialogFilters.Item method (Office)
 
-Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.
+Gets a **[FileDialogFilter](office.filedialogfilter.md)** object that is a member of the specified **FileDialogFilters** collection.
 
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item**(_Index_)
 
- _expression_ Required. A variable that represents a '[FileDialogFilters](Office.FileDialogFilters.md)' object.
+_expression_ Required. A variable that represents a **[FileDialogFilters](Office.FileDialogFilters.md)** object.
 
 
 ## See also
 
-
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 

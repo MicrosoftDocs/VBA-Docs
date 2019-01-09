@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.FileDialog.FilterIndex
 ms.assetid: 102d3266-caab-1101-2234-68d975e11348
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialog.FilterIndex property (Office)
 
-Gets or sets a  **Long** indicating the default file filter of a file dialog box. The default filter determines which types of files are displayed when the file dialog box is first opened. Read/write.
+Gets or sets a **Long** indicating the default file filter of a file dialog box. The default filter determines which types of files are displayed when the file dialog box is first opened. Read/write.
 
 
 ## Syntax
 
-_expression_. `FilterIndex`
+_expression_.**FilterIndex**
 
-_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ If you try to set this property to a number greater than the number of filters, 
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box. This example also demonstrates how to add a new file filter and how to make it the default filter.
+The following example displays a **File Picker** dialog box by using the **FileDialog** object, and displays each selected file in a message box. This example also demonstrates how to add a new file filter and how to make it the default filter.
 
 
 ```vb
@@ -84,10 +84,5 @@ End Sub
 
 ## See also
 
-
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
