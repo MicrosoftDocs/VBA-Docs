@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.DocumentProperties.Count
 ms.assetid: 8f4367bd-d30a-ba45-3ec2-3c5b94ede4d8
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # DocumentProperties.Count property (Office)
 
-Gets a  **Long** indicating the number of items in the **DocumentProperties** collection. Read-only.
+Gets a **Long** indicating the number of items in the **DocumentProperties** collection. Read-only.
 
 
 ## Syntax
 
-_expression_. `Count`( `_pc_` )
+_expression_.**Count** (_pc_)
 
-_expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
+_expression_ A variable that represents a **[DocumentProperties](Office.DocumentProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -51,10 +49,4 @@ MsgBox ("There are " &amp; _
 
 ## See also
 
-
-[DocumentProperties Object](Office.DocumentProperties.md)
-
-
-
-[DocumentProperties Object Members](./overview/Library-Reference/documentproperties-members-office.md)
-
+- [DocumentProperties object members](overview/library-reference/documentproperties-members-office.md)

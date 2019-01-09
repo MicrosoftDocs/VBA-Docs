@@ -13,7 +13,7 @@ ms.date: 01/07/2019
 
 # CustomXMLSchemaCollection object (Office)
 
-Represents a collection of **CustomXMLSchema** objects attached to a data stream.
+Represents a collection of **[CustomXMLSchema](Office.CustomXMLSchema.md)** objects attached to a data stream.
 
 
 ## Example

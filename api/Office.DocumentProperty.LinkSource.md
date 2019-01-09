@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DocumentProperty.LinkSource
 ms.assetid: 3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,14 +18,12 @@ Gets or sets the source of a linked custom document property. Read/write.
 
 ## Syntax
 
-_expression_. `LinkSource`( `_pbstrSourceRetVal_` )
+_expression_.**LinkSource**(_pbstrSourceRetVal_)
 
-_expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
+_expression_ A variable that represents a **[DocumentProperty](Office.DocumentProperty.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,12 +35,12 @@ This property applies only to custom document properties; you cannot use it with
 
 The source of the specified link is defined by the container application.
 
-Setting the  **LinkSource** property sets the **LinkToContent** property to **True**.
+Setting the **LinkSource** property sets the **LinkToContent** property to **True**.
 
 
 ## Example
 
-This example displays the linked status of a custom document property. For the example to work,  **dp** must be a valid **DocumentProperty** object.
+This example displays the linked status of a custom document property. For the example to work, **dp** must be a valid **DocumentProperty** object.
 
 
 ```vb
@@ -64,10 +62,4 @@ End Sub
 
 ## See also
 
-
-[DocumentProperty Object](Office.DocumentProperty.md)
-
-
-
-[DocumentProperty Object Members](./overview/Library-Reference/documentproperty-members-office.md)
-
+- [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)

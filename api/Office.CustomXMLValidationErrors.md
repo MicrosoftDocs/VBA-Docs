@@ -13,7 +13,7 @@ ms.date: 01/07/2019
 
 # CustomXMLValidationErrors object (Office)
 
-Represents a collection of **CustomXMLValidationError** objects.
+Represents a collection of **[CustomXMLValidationError](Office.CustomXMLValidationError.md)** objects.
 
 
 ## Example

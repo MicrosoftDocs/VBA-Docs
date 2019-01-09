@@ -20,7 +20,7 @@ Occurs just after a **CustomXMLPart** object is added to the **CustomXMLParts** 
 
 _expression_.**PartAfterAdd**(_NewPart_)
 
-_expression_ An expression that returns a **CustomXMLParts** object.
+_expression_ An expression that returns a **[CustomXMLParts](Office.CustomXMLParts.md)** object.
 
 
 ## Parameters

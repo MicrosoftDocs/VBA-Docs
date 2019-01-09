@@ -13,7 +13,7 @@ ms.date: 01/03/2019
 
 # COMAddIns object (Office)
 
-A collection of **COMAddIn** objects that provide information about a COM add-in registered in the Windows registry.
+A collection of **[COMAddIn](Office.COMAddIn.md)** objects that provide information about a COM add-in registered in the Windows registry.
 
 ## Example
 

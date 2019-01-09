@@ -13,7 +13,7 @@ ms.date: 01/07/2019
 
 # CustomXMLParts object (Office)
 
-Represents a collection of **CustomXMLPart** objects.
+Represents a collection of **[CustomXMLPart](Office.CustomXMLPart.md)** objects.
 
 
 ## Remarks

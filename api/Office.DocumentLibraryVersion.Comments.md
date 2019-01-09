@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.Comments
 ms.assetid: ce99f474-527a-4895-c360-7e5d02435655
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets any optional comments associated with the specified version of the shared d
 
 ## Syntax
 
-_expression_. `Comments`
+_expression_.**Comments**
 
-_expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
+_expression_ A variable that represents a **[DocumentLibraryVersion](Office.DocumentLibraryVersion.md)** object.
 
 
 ## Remarks
@@ -59,10 +59,6 @@ The following example lists comments and other properties for each version of a 
 
 ## See also
 
+- [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-[DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-
-
-
-[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
 

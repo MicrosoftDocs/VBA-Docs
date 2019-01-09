@@ -13,7 +13,7 @@ ms.date: 01/07/2019
 
 # CustomXMLPrefixMappings object (Office)
 
-Represents a collection of **CustomXMLPrefixMapping** objects.
+Represents a collection of **[CustomXMLPrefixMapping](Office.CustomXMLPrefixMapping.md)** objects.
 
 
 ## Example

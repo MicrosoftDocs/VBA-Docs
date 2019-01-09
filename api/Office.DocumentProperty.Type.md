@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DocumentProperty.Type
 ms.assetid: a6a18498-7a71-b2fb-f037-195bddd70573
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,22 +18,16 @@ Gets or sets the document property type. Read-only for built-in document propert
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
- _expression_ Required. A variable that represents a '[DocumentProperty](Office.DocumentProperty.md)' object.
+_expression_ Required. A variable that represents a **[DocumentProperty](Office.DocumentProperty.md)** object.
 
 
 ## Remarks
 
-The return value will be a  **MsoDocProperties** constant.
+The return value will be an **[MsoDocProperties](office.msodocproperties.md)** constant.
 
 
 ## See also
 
-
-[DocumentProperty Object](Office.DocumentProperty.md)
-
-
-
-[DocumentProperty Object Members](./overview/Library-Reference/documentproperty-members-office.md)
-
+- [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
