@@ -4,20 +4,20 @@ ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions.Creator
 ms.assetid: cd3c67d1-97c6-ba9e-88ed-677e3bc6440e
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # DocumentLibraryVersions.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **DocumentLibraryVersions** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **DocumentLibraryVersions** object was created. Read-only.
 
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
-_expression_ A variable that represents a [DocumentLibraryVersions](Office.DocumentLibraryVersions.md) object.
+_expression_ A variable that represents a **[DocumentLibraryVersions](Office.DocumentLibraryVersions.md)** object.
 
 
 ## Return value
@@ -27,10 +27,4 @@ Long
 
 ## See also
 
-
-[DocumentLibraryVersions Object](Office.DocumentLibraryVersions.md)
-
-
-
-[DocumentLibraryVersions Object Members](./overview/Library-Reference/documentlibraryversions-members-office.md)
-
+- [DocumentLibraryVersions object members](overview/library-reference/documentlibraryversions-members-office.md)

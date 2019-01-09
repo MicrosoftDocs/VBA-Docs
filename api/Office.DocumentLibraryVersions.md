@@ -7,38 +7,33 @@ ms.prod: office
 api_name:
 - Office.DocumentLibraryVersions
 ms.assetid: 075c0315-fade-6d45-9ab9-6c798f6f09ac
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # DocumentLibraryVersions object (Office)
 
-The  **DocumentLibraryVersions** property of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in Microsoft PowerPoint returns a **DocumentLibraryVersions** object. The **DocumentLibraryVersions** object represents a collection of **DocumentLibraryVersion** objects.
+The **DocumentLibraryVersions** property of the **Document** object in Microsoft Word, the **Workbook** object in Excel, and the **Presentation** object in PowerPoint returns a **DocumentLibraryVersions** object. The **DocumentLibraryVersions** object represents a collection of **[DocumentLibraryVersion](office.documentlibraryversion.md)** objects.
 
 
 ## Remarks
 
-Use the  **DocumentLibraryVersions** object with documents stored in a SharePoint document library on the server to determine whether versioning is enabled for the active document and, if versioning is enabled, to manage the document's collection of **DocumentLibraryVersion** objects.
+Use the **DocumentLibraryVersions** object with documents stored in a SharePoint document library on the server to determine whether versioning is enabled for the active document, and if versioning is enabled, to manage the document's collection of **DocumentLibraryVersion** objects.
 
- Each **DocumentLibraryVersion** object represents one saved version of the active document. When versioning is enabled, a new version is created on the server when the actions listed below occur; additional versions are not created each time the user saves changes to the open document.
+Each **DocumentLibraryVersion** object represents one saved version of the active document. When versioning is enabled, a new version is created on the server when the following actions occur; additional versions are not created each time the user saves changes to the open document.
 
-
-- Check In
-    
-- Save - A new version is created on the server when the user first saves the document after opening it. Additional changes saved while the document is open apply to the same version.
-    
+- Check in 
+- Save: A new version is created on the server when the user first saves the document after opening it. Additional changes saved while the document is open apply to the same version.
 - Restore
-    
 - Upload
     
 
-
-The  **DocumentLibraryVersions** object model is available whether versioning is enabled or disabled on the active document. The **DocumentLibraryVersions** property of the **Document**, **Workbook** and **Presentation** objects does not return **Nothing** when the active document is not stored in a document library or versioning is not enabled. Use the **IsVersioningEnabled** property to determine whether the document library is configured to save a backup copy, or version, each time the document is edited on the Web site.
+The **DocumentLibraryVersions** object model is available whether versioning is enabled or disabled on the active document. The **DocumentLibraryVersions** property of the **Document**, **Workbook**, and **Presentation** objects does not return **Nothing** when the active document is not stored in a document library or versioning is not enabled. Use the **IsVersioningEnabled** property to determine whether the document library is configured to save a backup copy, or version, each time the document is edited on the website.
 
 
 ## Example
 
-The following example checks to see whether versioning is enabled for the active document and, if so, displays information about each saved version.
+The following example checks to see whether versioning is enabled for the active document, and if so, displays information about each saved version.
 
 
 ```vb
@@ -66,23 +61,7 @@ Dim dlvVersions As Office.DocumentLibraryVersions
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.DocumentLibraryVersions.Application.md)|
-|[Count](Office.DocumentLibraryVersions.Count.md)|
-|[Creator](Office.DocumentLibraryVersions.Creator.md)|
-|[IsVersioningEnabled](Office.DocumentLibraryVersions.IsVersioningEnabled.md)|
-|[Item](Office.DocumentLibraryVersions.Item.md)|
-|[Parent](Office.DocumentLibraryVersions.Parent.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [DocumentLibraryVersions object members](overview/library-reference/documentlibraryversions-members-office.md)
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)

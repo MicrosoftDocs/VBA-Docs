@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.DocumentProperties.Creator
 ms.assetid: 47ba7f73-b72e-2990-d35d-cd73b08b91cd
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # DocumentProperties.Creator property (Office)
 
-Gets a 32-bit integer that indicates the application in which the  **DocumentProperties** object was created. Read-only.
+Gets a 32-bit integer that indicates the application in which the **DocumentProperties** object was created. Read-only.
 
 
 ## Syntax
 
-_expression_. `Creator`( `_plCreator_` )
+_expression_.**Creator**(_plCreator_)
 
-_expression_ A variable that represents a [DocumentProperties](Office.DocumentProperties.md) object.
+_expression_ A variable that represents a **[DocumentProperties](Office.DocumentProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,10 +36,4 @@ _expression_ A variable that represents a [DocumentProperties](Office.DocumentPr
 
 ## See also
 
-
-[DocumentProperties Object](Office.DocumentProperties.md)
-
-
-
-[DocumentProperties Object Members](./overview/Library-Reference/documentproperties-members-office.md)
-
+- [DocumentProperties object members](overview/library-reference/documentproperties-members-office.md)

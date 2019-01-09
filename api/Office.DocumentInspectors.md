@@ -7,23 +7,23 @@ ms.prod: office
 api_name:
 - Office.DocumentInspectors
 ms.assetid: 8366d7cd-e016-bb99-d27f-749ca10352f1
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
 # DocumentInspectors object (Office)
 
-Represents a collection of  **DocumentInspector** objects.
+Represents a collection of **[DocumentInspector](office.documentinspector.md)** objects.
 
 
 ## Remarks
 
-The  **DocumentInspectors** collection is part of the **Document** object in Microsoft Word, the **Workbook** object in Microsoft Excel, and the **Presentation** object in MicrosoftPowerPoint. A **DocumentInspectors** collection contains multiple **DocumentInspector** objects, one for some built-in options and each installed custom Document Inspector module. For more information, see the **DocumentInspector** help topic.
+The **DocumentInspectors** collection is part of the **Document** object in Microsoft Word, the **Workbook** object in Excel, and the **Presentation** object in PowerPoint. A **DocumentInspectors** collection contains multiple **DocumentInspector** objects, one for some built-in options and each installed custom Document Inspector module. 
 
 
 ## Example
 
-The following example calls the  **Fix** method of a Document Inspector module and displays the status of the action and the specific items that are removed.
+The following example calls the **Fix** method of a Document Inspector module and displays the status of the action and the specific items that are removed.
 
 
 ```vb
@@ -42,9 +42,5 @@ End Sub
 
 ## See also
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-
-[DocumentInspectors Object Members](./overview/Library-Reference/documentinspectors-members-office.md)
-
+- [DocumentInspectors object members](overview/library-reference/documentinspectors-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

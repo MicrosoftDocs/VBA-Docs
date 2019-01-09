@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DocumentProperty.Name
 ms.assetid: b609c38e-71ca-e019-9852-fc7811dc798f
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,14 +18,12 @@ Gets or sets the name of a document property. Read/write.
 
 ## Syntax
 
-_expression_. `Name`( `_lcid_`, `_pbstrRetVal_` )
+_expression_.**Name**(_lcid_, _pbstrRetVal_)
 
-_expression_ A variable that represents a [DocumentProperty](Office.DocumentProperty.md) object.
+_expression_ A variable that represents a **[DocumentProperty](Office.DocumentProperty.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,13 +37,12 @@ String
 
 ## Remarks
 
-A  **DocumentProperty** object represents a custom or built-in document property of a container document.
+A **DocumentProperty** object represents a custom or built-in document property of a container document.
 
 
 ## Example
 
-This example displays the name, type, and value of a document property. You must pass a valid  **DocumentProperty** object to the procedure.
-
+This example displays the name, type, and value of a document property. You must pass a valid **DocumentProperty** object to the procedure.
 
 ```vb
 Sub DisplayPropertyInfo(dp As DocumentProperty) 
@@ -58,10 +55,4 @@ End Sub
 
 ## See also
 
-
-[DocumentProperty Object](Office.DocumentProperty.md)
-
-
-
-[DocumentProperty Object Members](./overview/Library-Reference/documentproperty-members-office.md)
-
+- [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)

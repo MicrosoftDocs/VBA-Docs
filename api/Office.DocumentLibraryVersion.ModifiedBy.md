@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.DocumentLibraryVersion.ModifiedBy
 ms.assetid: 0a24bdd1-5636-0f37-b3ac-335b61b5b8a4
-ms.date: 06/08/2017
+ms.date: 01/08/2019
 ---
 
 
@@ -18,9 +18,9 @@ Gets the name of the user who last saved the specified version of the shared doc
 
 ## Syntax
 
-_expression_. `ModifiedBy`
+_expression_.**ModifiedBy**
 
-_expression_ A variable that represents a [DocumentLibraryVersion](Office.DocumentLibraryVersion.md) object.
+_expression_ A variable that represents a **[DocumentLibraryVersion](Office.DocumentLibraryVersion.md)** object.
 
 
 ## Return value
@@ -30,10 +30,7 @@ String
 
 ## See also
 
-
-[DocumentLibraryVersion Object](Office.DocumentLibraryVersion.md)
-
+- [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
 
-[DocumentLibraryVersion Object Members](./overview/Library-Reference/documentlibraryversion-members-office.md)
 
