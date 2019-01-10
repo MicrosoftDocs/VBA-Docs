@@ -37332,7 +37332,7 @@
 ###### [Status](Office.Sync.Status.md)
 ###### [WorkspaceLastChangedBy](Office.Sync.WorkspaceLastChangedBy.md)
 ##### [Methods](./overview/Library-Reference/sync-methods-office.md)
-###### [GetUpdate](Office.GetUpdate.md)
+###### [GetUpdate](Office.Sync.GetUpdate.md)
 ###### [OpenVersion](Office.Sync.OpenVersion.md)
 ###### [PutUpdate](Office.Sync.PutUpdate.md)
 ###### [ResolveConflict](Office.Sync.ResolveConflict.md)

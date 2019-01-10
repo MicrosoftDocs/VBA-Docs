@@ -85,36 +85,8 @@ Dim objSync As Office.Sync
 ```
 
 
-## Methods
 
-
-
-|Name|
-|:-----|
-|[GetUpdate](Office.GetUpdate.md)|
-|[OpenVersion](Office.Sync.OpenVersion.md)|
-|[PutUpdate](Office.Sync.PutUpdate.md)|
-|[ResolveConflict](Office.Sync.ResolveConflict.md)|
-|[Unsuspend](Office.Sync.Unsuspend.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.Sync.Application.md)|
-|[Creator](Office.Sync.Creator.md)|
-|[ErrorType](Office.Sync.ErrorType.md)|
-|[LastSyncTime](Office.Sync.LastSyncTime.md)|
-|[Parent](Office.Sync.Parent.md)|
-|[Status](Office.Sync.Status.md)|
-|[WorkspaceLastChangedBy](Office.Sync.WorkspaceLastChangedBy.md)|
 
 ## See also
-
-
-
-
 
 [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)

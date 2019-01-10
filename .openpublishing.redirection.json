@@ -1535,6 +1535,10 @@
           {
             "source_path": "library-reference/concepts/how-do-i-object-library-reference-for-office.md",
             "redirect_url": "/office/vba/library-reference/concepts/concepts-object-library-reference-for-office"
+          },
+          {
+            "source_path": "api/Office.GetUpdate.md",
+            "redirect_url": "/office/vba/api/office.sync.getupdate"
           }
     ]
 }
