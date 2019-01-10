@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets.Add
 ms.assetid: db5de750-fd09-2b18-c52b-98d88eeb0ffc
-ms.date: 11/13/2018
+ms.date: 01/09/2019
 ---
 
 
@@ -18,9 +18,9 @@ Creates a new worksheet, chart, or macro sheet. The new worksheet becomes the ac
 
 ## Syntax
 
-_expression_. `Add`( _Before_ , _After_ , _Count_ , _Type_ )
+_expression_.**Add**(_Before_, _After_, _Count_, _Type_)
 
-_expression_ A variable that represents a [Sheets](Excel.Sheets.md) object.
+_expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 
 ## Parameters
@@ -45,7 +45,15 @@ If _Before_ and _After_ are both omitted, the new sheet is inserted before the a
 This example inserts a new worksheet before the last worksheet in the active workbook.
 
 ```vb
-ActiveWorkbook.Sheets.Add Before:=Worksheets(Worksheets.Count)
+ActiveWorkbook.Sheets.Add(Before:=Worksheets(Worksheets.Count))
+```
+
+<br/>
+
+This example inserts a new worksheet after the last worksheet in the active workbook.
+
+```vb
+ActiveWorkbook.Sheets.Add(After:=Worksheets(Worksheets.Count))
 ```
 
 > [!NOTE] 
