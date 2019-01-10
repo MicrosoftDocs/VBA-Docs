@@ -1,4 +1,5 @@
----
+
+|_stop_|Required. Whole number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|---
 title: Partition function (Visual Basic for Applications)
 keywords: vblr6.chm1010095
 f1_keywords:
@@ -23,9 +24,10 @@ The **Partition** function syntax has these [named arguments](../../Glossary/vbe
 
 |Part|Description|
 |:-----|:-----|
-|_number_|Required. Whole number that you want to evaluate against the ranges.|
-|_start_|Required. Whole number that is the start of the overall range of numbers. The number can't be less than 0.|
-|_stop_|Required. Whole number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
+|_number_|Required. The number that you want to evaluate against the ranges.|
+|_start_|Required. The number that is the start of the overall range of numbers. The number can't be less than 0. Decimals will be rounded off.|
+|_stop_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_. Decimals will be rounded off.|
+|_interval_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
 
 ## Remarks
 
@@ -47,7 +49,8 @@ If necessary, **Partition** returns a range with enough leading spaces so that t
 
 If _interval_ is 1, the range is _number:number_, regardless of the _start_ and _stop_ arguments. For example, if _interval_ is 1, _number_ is 100 and _stop_ is 1000, **Partition** returns " 100: 100".
 
-If any of the parts is [Null](../../Glossary/vbe-glossary.md#null), **Partition** returns a **Null**.
+Any of arguments can be a decimal value, but it will be rounded to the nearest even integer before processing.
+If any of the arguments is [Null](../../Glossary/vbe-glossary.md#null), **Partition** returns a **Null**.
 
 ## Example
 
