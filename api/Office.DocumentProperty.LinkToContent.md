@@ -33,9 +33,9 @@ _expression_ A variable that represents a **[DocumentProperty](Office.DocumentPr
 
 This property applies only to custom document properties. For built-in document properties, the value of this property is **False**.
 
-Use the **LinkSource** property to set the source for the specified linked property. Setting the **LinkSource** property sets the **LinkToContent** property to **True**.
+Use the **[LinkSource](office.documentproperty.linksource.md)** property to set the source for the specified linked property. Setting the **LinkSource** property sets the **LinkToContent** property to **True**.
 
-For Excel, if **LinkToContent** is set to **True**, you must supply an address or range name for the **[LinkSource](office.documentproperty.linksource.md)** from the workbook. If the address or range name covers more than one cell, the custom document property takes the value from the top left cell of the range.
+For Excel, if **LinkToContent** is set to **True**, you must supply an address or range name for the **LinkSource** from the workbook. If the address or range name covers more than one cell, the custom document property takes the value from the top left cell of the range.
 
 
 ## Example
