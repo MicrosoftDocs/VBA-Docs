@@ -7,20 +7,20 @@ ms.prod: office
 api_name:
 - Office.FileDialogFilters.Count
 ms.assetid: 0a942ebf-a364-40b1-315a-09042dd8d365
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialogFilters.Count property (Office)
 
-Gets a  **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.
+Gets a **Long** indicating the number of items in the **FileDialogFilters** collection. Read-only.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents a [FileDialogFilters](Office.FileDialogFilters.md) object.
+_expression_ A variable that represents a **[FileDialogFilters](Office.FileDialogFilters.md)** object.
 
 
 ## Return value
@@ -30,10 +30,6 @@ Long
 
 ## See also
 
+- [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 
-[FileDialogFilters Object](Office.FileDialogFilters.md)
-
-
-
-[FileDialogFilters Object Members](./overview/Library-Reference/filedialogfilters-members-office.md)
 

@@ -7,31 +7,31 @@ ms.prod: office
 api_name:
 - Office.FileDialog.InitialFileName
 ms.assetid: 900970fe-1331-9b0a-3182-953cb6b583ce
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
 # FileDialog.InitialFileName property (Office)
 
-Set or returns a  **String** representing the path or file name that is initially displayed in a file dialog box. Read/write.
+Sets or returns a **String** representing the path or file name that is initially displayed in a file dialog box. Read/write.
 
 
 ## Syntax
 
-_expression_. `InitialFileName`
+_expression_.**InitialFileName**
 
-_expression_ A variable that represents a [FileDialog](Office.FileDialog.md) object.
+_expression_ A variable that represents a **[FileDialog](Office.FileDialog.md)** object.
 
 
 ## Remarks
 
-You can use the  **'*'** and **'?'** wildcard characters when specifying the file name but not when specifying the path. The **'*'** symbol represents any number of consecutive characters and the **'?'** represents a single character. For example, **.InitialFileName = "c:\c*s.txt"** returns both "charts.txt" and "checkregister.txt."
+You can use the `*` and `?` wildcard characters when specifying the file name but not when specifying the path. The `*` symbol represents any number of consecutive characters, and the `?` represents a single character. For example, **.InitialFileName = "c:\c*s.txt"** returns both "charts.txt" and "checkregister.txt."
 
-If you specify a path and no file name, then all files that are allowed by the file filter appear in the dialog box.
+If you specify a path and no file name, all files that are allowed by the file filter appear in the dialog box.
 
-If you specify a file that exists in the initial folder, then only that file appears in the dialog box.
+If you specify a file that exists in the initial folder, only that file appears in the dialog box.
 
-If you specify a file name that does not exist in the initial folder, then the dialog box contains no files. The type of file that you specify in the  **InitialFileName** property overrides the file filter settings.
+If you specify a file name that does not exist in the initial folder, the dialog box contains no files. The type of file that you specify in the **InitialFileName** property overrides the file filter settings.
 
 If you specify an invalid path, the last-used path is used. A message warns users when an invalid path is used.
 
@@ -40,7 +40,7 @@ Setting this property to a string longer than 256 characters causes a run-time e
 
 ## Example
 
-The following example displays a  **File Picker** dialog box using the **FileDialog** object and displays each selected file in a message box.
+The following example displays a **File Picker** dialog box by using the **FileDialog** object, and displays each selected file in a message box.
 
 
 ```vb
@@ -92,10 +92,5 @@ End Sub
 
 ## See also
 
-
-[FileDialog Object](Office.FileDialog.md)
-
-
-
-[FileDialog Object Members](./overview/Library-Reference/filedialog-members-office.md)
+- [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 

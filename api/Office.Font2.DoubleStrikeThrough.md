@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.Font2.DoubleStrikeThrough
 ms.assetid: 494bc4ab-8de5-d63b-c508-8ed0aa4fca6c
-ms.date: 06/08/2017
+ms.date: 01/09/2019
 ---
 
 
@@ -15,22 +15,17 @@ True if the specified font is formatted as double strikethrough text. Read/write
 
 ## Syntax
 
-_expression_. `DoubleStrikeThrough`
+_expression_.**DoubleStrikeThrough**
 
- _expression_ An expression that returns a [Font2](Office.Font2.md) object.
+_expression_ An expression that returns a **[Font2](Office.Font2.md)** object.
 
 
 ## Return value
 
-MsoTriState
+[MsoTriState](office.msotristate.md)
 
 
 ## See also
 
-
-[Font2 Object](Office.Font2.md)
-
-
-
-[Font2 Object Members](./overview/Library-Reference/font2-members-office.md)
+- [Font2 object members](overview/library-reference/font2-members-office.md)
 

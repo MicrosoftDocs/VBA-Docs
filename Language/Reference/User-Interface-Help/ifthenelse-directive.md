@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1014461
 ms.prod: office
 ms.assetid: cdda62a6-f9e4-237e-c8b7-a2076e16ff7d
-ms.date: 11/29/2018
+ms.date: 01/09/2019
 ---
 
 
@@ -71,4 +71,8 @@ This example references conditional compiler constants in an **#If...Then...#Els
 #End If
 ```
 
+## See also
 
+- [Compiler constants](../../concepts/getting-started/compiler-constants.md)
+- [Declaring constants](../../concepts/getting-started/declaring-constants.md)
+- [Using constants](../../concepts/getting-started/using-constants.md)
