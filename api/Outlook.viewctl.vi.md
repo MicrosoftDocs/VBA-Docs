@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewCtl.View Property (Outlook View Control)
 
-Returns or sets a  **String**that represents the name of the view in the control. Read/write.
+Returns or sets a **String** value that represents the name of the view in the control. Read/write.
 
 
 ## Syntax
