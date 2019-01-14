@@ -3,6 +3,7 @@ title: "Invalid SQL Syntax: expected token: SELECT (Error 3729)"
 ms.prod: access
 ms.assetid: 50950c31-0623-12b5-51d8-1bab021af2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

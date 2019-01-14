@@ -3,6 +3,7 @@ title: Error (ADO for Visual C++ Syntax)
 ms.prod: access
 ms.assetid: 64625aab-0ab4-e395-1291-343842560dfa
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

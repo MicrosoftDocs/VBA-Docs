@@ -9,6 +9,7 @@ api_name:
 - Access.OutputAllFields
 ms.assetid: b4f6e831-f82c-0850-d736-1bbda29d9f89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

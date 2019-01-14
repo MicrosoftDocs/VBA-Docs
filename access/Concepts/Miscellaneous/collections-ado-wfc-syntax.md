@@ -3,6 +3,7 @@ title: Collections (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: d854bab9-5439-ebe7-2f89-b290dcaa0342
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

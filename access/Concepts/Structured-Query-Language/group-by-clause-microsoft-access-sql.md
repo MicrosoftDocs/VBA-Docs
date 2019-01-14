@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: fe7d5e27-a47a-1229-232c-cf6a0cbad761
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 # GROUP BY clause (Microsoft Access SQL)
