@@ -163,4 +163,4 @@ Your add-in displays all current workbook tabs in a task pane for easy navigatio
 - [AutoSave](../../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 - [Collaborate on Excel workbooks at the same time with coauthoring](https://support.office.com/article/Collaborate-on-Excel-workbooks-at-the-same-time-with-co-authoring-7152aa8b-b791-414c-a3bb-3024e46fb104)
 
-[!include[Additional resources](../../includes/feedback-boilerplate.md)]
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
