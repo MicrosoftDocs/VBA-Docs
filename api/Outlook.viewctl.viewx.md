@@ -8,7 +8,7 @@ ms.date: 06/08/2017
 
 # ViewCtl.ViewXML Property (Outlook View Control)
 
-Returns or sets a  **String**that represents the view implementation via XML. Read/write.
+Returns or sets a **String** value that represents the view implementation via XML. Read/write.
 
 
 ## Syntax
