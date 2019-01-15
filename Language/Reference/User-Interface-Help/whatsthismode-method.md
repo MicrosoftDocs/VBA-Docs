@@ -8,6 +8,7 @@ api_name:
 - Office.WhatsThisMode
 ms.assetid: e71fb00c-b323-2b43-94ec-07079e66337f
 ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 

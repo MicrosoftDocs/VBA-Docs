@@ -3,6 +3,7 @@ title: Visual Basic language reference
 ms.prod: office
 ms.assetid: ea3d048c-6984-42a0-8a27-27172aa69620
 ms.date: 12/13/2018 
+localization_priority: Priority
 ---
 
 

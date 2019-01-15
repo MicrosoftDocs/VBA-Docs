@@ -8,6 +8,7 @@ api_name:
 - Office.MoveFolder
 ms.assetid: 08a088c1-6e3c-d2a2-7708-f1682cafd91e
 ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 

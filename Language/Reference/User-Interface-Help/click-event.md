@@ -8,6 +8,7 @@ api_name:
 - Office.Click
 ms.assetid: 655b57b1-74fc-75e9-eb8d-debb83afaea9
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 
