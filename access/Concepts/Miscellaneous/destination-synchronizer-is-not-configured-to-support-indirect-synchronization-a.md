@@ -3,6 +3,7 @@ title: Destination synchronizer is not configured to support indirect synchroniz
 ms.prod: access
 ms.assetid: 8abd2568-77e0-8b56-93f8-3a8dd6574293
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

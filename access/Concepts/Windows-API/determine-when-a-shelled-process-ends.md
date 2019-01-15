@@ -3,6 +3,7 @@ title: Determine when a shelled process ends
 ms.prod: access
 ms.assetid: 16a6fb03-0ff5-76a9-8efb-9348d5a6beef
 ms.date: 09/26/2018
+localization_priority: Priority
 ---
 
 

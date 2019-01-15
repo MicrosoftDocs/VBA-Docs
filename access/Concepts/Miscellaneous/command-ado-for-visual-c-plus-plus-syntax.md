@@ -3,6 +3,7 @@ title: Command (ADO for Visual C++ syntax)
 ms.prod: access
 ms.assetid: a397daf5-2bcd-6c1a-3fb6-667c1309d0e3
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Index already exists. (Error 3284)
 ms.prod: access
 ms.assetid: d26f3a70-4fcd-1c20-20af-92479392513a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

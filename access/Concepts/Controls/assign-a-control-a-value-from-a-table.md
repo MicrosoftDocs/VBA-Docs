@@ -3,6 +3,7 @@ title: Assign a control a value from a table
 ms.prod: access
 ms.assetid: d9bba7e3-bca0-00df-3753-dc99ae767759
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 

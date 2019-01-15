@@ -3,6 +3,7 @@ title: Move through a DAO Recordset
 ms.prod: access
 ms.assetid: 7d788b60-c6e8-dea7-68fe-01b893fc3374
 ms.date: 09/21/2018
+localization_priority: Priority
 ---
 
 

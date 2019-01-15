@@ -3,6 +3,7 @@ title: Mark a position in a DAO Recordset
 ms.prod: access
 ms.assetid: 52e378ab-0e03-cc5f-b215-834efe0f2667
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 

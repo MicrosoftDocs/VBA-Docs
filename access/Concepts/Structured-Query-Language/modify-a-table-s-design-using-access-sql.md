@@ -3,6 +3,7 @@ title: Modify a table's design using Access SQL
 ms.prod: access
 ms.assetid: c05687af-ed43-56dc-a65a-e9c328be0f5b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -9,6 +9,7 @@ api_name:
 - Access.OldConstants
 ms.assetid: 8a4a0adb-be39-1211-748e-1c4d680b5502
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

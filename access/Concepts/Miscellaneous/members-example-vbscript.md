@@ -4,6 +4,7 @@ ROBOTS: INDEX
 ms.prod: access
 ms.assetid: 9466ea79-3300-07e0-41cc-45d83318e3ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
