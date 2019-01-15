@@ -3,6 +3,7 @@ title: Form Regions
 ms.prod: outlook
 ms.assetid: 66e80f83-60db-e3b1-47e9-097f855f6512
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

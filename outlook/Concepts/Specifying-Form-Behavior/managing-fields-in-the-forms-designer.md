@@ -3,6 +3,7 @@ title: Managing Fields in the Forms Designer
 ms.prod: outlook
 ms.assetid: 4de30daa-6931-4259-8430-e3954dc8cc3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

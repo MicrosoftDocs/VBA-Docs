@@ -3,6 +3,7 @@ title: Test a Form in Run Time
 ms.prod: outlook
 ms.assetid: 9e3626c2-5100-1740-f07b-2fe6da35c8ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

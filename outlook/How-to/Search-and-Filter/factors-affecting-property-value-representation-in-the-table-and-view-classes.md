@@ -3,6 +3,7 @@ title: Factors Affecting Property Value Representation in the Table and View Cla
 ms.prod: outlook
 ms.assetid: 13cf9945-a9e0-bb32-a2cb-74366a365ae1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

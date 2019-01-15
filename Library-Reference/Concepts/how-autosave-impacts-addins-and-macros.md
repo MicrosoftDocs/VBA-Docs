@@ -2,6 +2,7 @@
 title: How AutoSave impacts add-ins and macros
 ms.prod: office
 ms.date: 01/02/2019
+localization_priority: Priority
 ---
 
 

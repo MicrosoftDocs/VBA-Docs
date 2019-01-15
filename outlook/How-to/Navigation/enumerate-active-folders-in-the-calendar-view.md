@@ -3,6 +3,7 @@ title: Enumerate Active Folders in the Calendar View
 ms.prod: outlook
 ms.assetid: 379bd7c7-d0bc-856f-4432-17e38342611b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
