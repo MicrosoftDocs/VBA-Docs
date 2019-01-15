@@ -3,6 +3,7 @@ title: Concepts (Excel VBA reference)
 ms.prod: excel
 ms.assetid: 4f67f1a1-e97c-422e-aeda-e1a71f06621d
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 
