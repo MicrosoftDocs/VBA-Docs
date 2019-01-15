@@ -8,6 +8,7 @@ api_name:
 - Office.DrawBuffer
 ms.assetid: 6f859070-13c0-5da3-40e6-51f6676cec3b
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

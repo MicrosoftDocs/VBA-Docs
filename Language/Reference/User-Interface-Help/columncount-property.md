@@ -8,6 +8,7 @@ api_name:
 - Office.ColumnCount
 ms.assetid: ba998cac-3e31-eb81-8f35-fe7fee133e63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

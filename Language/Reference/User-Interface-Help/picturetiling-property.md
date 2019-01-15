@@ -8,6 +8,7 @@ api_name:
 - Office.PictureTiling
 ms.assetid: 9bf2a163-0454-b959-0261-b2a9fd7f6bfa
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.Delay
 ms.assetid: 12d76300-bd1c-4b65-ca8e-b9c63e19100f
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

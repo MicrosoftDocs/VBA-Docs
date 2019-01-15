@@ -8,6 +8,7 @@ api_name:
 - Office.TransitionPeriod
 ms.assetid: cfdda5c3-244b-4404-d6a8-544755056473
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

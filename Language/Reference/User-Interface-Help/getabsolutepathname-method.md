@@ -8,6 +8,7 @@ api_name:
 - Office.GetAbsolutePathName
 ms.assetid: 49209a8f-6346-b32a-55d7-d72692b4defb
 ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 

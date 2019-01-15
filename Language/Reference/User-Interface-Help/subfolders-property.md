@@ -8,6 +8,7 @@ api_name:
 - Office.SubFolders
 ms.assetid: 60bc795f-22f9-6846-00d3-05229f062099
 ms.date: 12/19/2018
+localization_priority: Priority
 ---
 
 

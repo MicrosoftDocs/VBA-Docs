@@ -8,6 +8,7 @@ api_name:
 - Office.Controls
 ms.assetid: b84e6c66-8773-58c7-d076-191e4397ee6a
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

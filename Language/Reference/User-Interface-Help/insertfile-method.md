@@ -5,6 +5,7 @@ api_name:
 - Office.InsertFile
 ms.assetid: 65a8fc84-0f4e-b900-16ff-f5547df48018
 ms.date: 12/06/2018
+localization_priority: Normal
 ---
 
 

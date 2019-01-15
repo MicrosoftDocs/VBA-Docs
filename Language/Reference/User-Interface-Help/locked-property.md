@@ -8,6 +8,7 @@ api_name:
 - Office.Locked
 ms.assetid: 08bf09c4-0445-0749-daf2-a0fab8787ea8
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

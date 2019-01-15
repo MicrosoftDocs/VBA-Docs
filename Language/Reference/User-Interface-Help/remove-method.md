@@ -8,6 +8,7 @@ api_name:
 - Office.Remove
 ms.assetid: 16ee4145-3e1e-9e44-7af1-2ecd3a92c9e3
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

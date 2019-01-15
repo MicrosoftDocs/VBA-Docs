@@ -8,6 +8,7 @@ api_name:
 - Office.GetDriveName
 ms.assetid: cbd31a00-c593-defe-71ad-d1ddde377737
 ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 

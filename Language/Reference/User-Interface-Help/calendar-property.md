@@ -8,6 +8,7 @@ api_name:
 - Office.Calendar
 ms.assetid: ca321712-934e-2aee-46b8-b2895be362ea
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

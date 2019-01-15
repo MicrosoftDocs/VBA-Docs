@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d845de85-a0d8-e10e-1174-8571e42bb8d2
 ms.date: 12/13/2018
+localization_priority: Normal
 ---
 
 # MacScript function
