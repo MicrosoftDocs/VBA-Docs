@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.Session
 ms.assetid: 2a5b5f88-dc27-ce37-e93b-30c6310fc03b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

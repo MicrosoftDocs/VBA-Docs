@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogExtensibility
 ms.assetid: 9757afdb-da45-8b97-636f-476efe036ac3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

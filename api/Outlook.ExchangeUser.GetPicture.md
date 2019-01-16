@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.GetPicture
 ms.assetid: 4298db85-0576-4982-9592-6eae666d966a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

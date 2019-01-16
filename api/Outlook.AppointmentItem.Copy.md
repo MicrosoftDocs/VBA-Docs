@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Copy
 ms.assetid: 947f1cfd-f60c-a47e-ba4d-3ffde8c13c91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

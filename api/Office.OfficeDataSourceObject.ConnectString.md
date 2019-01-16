@@ -8,6 +8,7 @@ api_name:
 - Office.OfficeDataSourceObject.ConnectString
 ms.assetid: 56c599a5-f493-ea5a-3d2b-a3dae973d71c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

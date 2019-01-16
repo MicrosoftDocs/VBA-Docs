@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.Kerning
 ms.assetid: 0fc7f63c-bffc-486e-65ed-bbb04af6a209
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

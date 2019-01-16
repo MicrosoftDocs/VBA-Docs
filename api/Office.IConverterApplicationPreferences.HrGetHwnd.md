@@ -8,6 +8,7 @@ api_name:
 - Office.IConverterApplicationPreferences.HrGetHwnd
 ms.assetid: 1b5bf73c-c006-0452-363d-3355649b989f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

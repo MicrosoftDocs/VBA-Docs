@@ -8,6 +8,7 @@ api_name:
 - Office.IRibbonControl.Context
 ms.assetid: 39f9d85a-00e9-9682-3957-51d9e72b4d83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

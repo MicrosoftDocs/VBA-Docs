@@ -8,6 +8,7 @@ api_name:
 - Outlook.MoveOrCopyRuleAction.Application
 ms.assetid: 9b2b2206-9544-54b3-772b-90a0ce5da846
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

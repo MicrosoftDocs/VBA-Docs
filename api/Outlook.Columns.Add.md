@@ -8,6 +8,7 @@ api_name:
 - Outlook.Columns.Add
 ms.assetid: d438cfeb-629f-4234-6f4f-ffa086ef9a41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

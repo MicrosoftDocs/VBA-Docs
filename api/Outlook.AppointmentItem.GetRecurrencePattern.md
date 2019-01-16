@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.GetRecurrencePattern
 ms.assetid: a9f67c5b-a77f-4e34-e654-d12560a6dba0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

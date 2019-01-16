@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlFormatKeywords
 ms.assetid: 941a9733-4a02-5a91-ed96-5dd4f8396147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

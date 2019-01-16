@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ReminderSet
 ms.assetid: 8e3b7091-1d4c-8d9a-ebb0-ebe478c6e386
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

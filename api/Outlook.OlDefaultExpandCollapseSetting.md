@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlDefaultExpandCollapseSetting
 ms.assetid: b05310dc-0bb6-2f78-d3f2-56c02402bbf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

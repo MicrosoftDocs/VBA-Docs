@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarButton.Height
 ms.assetid: b374ae8b-cce2-7562-1247-32ea90dc3c68
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

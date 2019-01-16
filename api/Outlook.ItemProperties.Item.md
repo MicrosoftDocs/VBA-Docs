@@ -8,6 +8,7 @@ api_name:
 - Outlook.ItemProperties.Item
 ms.assetid: 51bb7900-d3fc-650d-d43b-0da14e13ca5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

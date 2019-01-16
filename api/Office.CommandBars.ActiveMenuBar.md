@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.ActiveMenuBar
 ms.assetid: 8f341f53-418c-6d05-ac0b-e45a6b2baa0d
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

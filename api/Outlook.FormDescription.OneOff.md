@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormDescription.OneOff
 ms.assetid: 6bb466e5-0d59-d85a-5699-719160cc0ece
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

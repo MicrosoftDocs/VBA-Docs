@@ -8,6 +8,7 @@ api_name:
 - Office.Signature.SortHint
 ms.assetid: 9554cf10-85ab-508c-a13e-08b9504bdd1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

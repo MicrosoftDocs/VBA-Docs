@@ -5,6 +5,7 @@ api_name:
 - Office.MsoCalloutAngleType
 ms.assetid: f4535cc0-9c8c-6579-67d5-532650dec2ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.FileTypes.Add
 ms.assetid: 4febf3e9-8ed5-b92b-ae0c-e5f804b27039
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

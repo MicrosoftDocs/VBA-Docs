@@ -5,6 +5,7 @@ api_name:
 - Office.ThemeFonts.Count
 ms.assetid: 5943cecd-8e4f-95e2-be07-dc79d7f5626d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

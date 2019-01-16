@@ -8,6 +8,7 @@ api_name:
 - Outlook.NavigationGroups.SelectedChange
 ms.assetid: eb55ed92-1925-9aaa-8fd6-9280cfc8aa47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.IconView.Reset
 ms.assetid: 0cb48612-db32-19e4-1478-694898775752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.MarkForDownload
 ms.assetid: 2c42b0ec-95d3-e292-94fd-a3e85801f232
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

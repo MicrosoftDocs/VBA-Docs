@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.LastFirstAndSuffix
 ms.assetid: b234614c-e2c0-cba2-6ec8-69be1a31caf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

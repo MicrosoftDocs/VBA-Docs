@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Parameter
 ms.assetid: b5019fba-5124-5d9c-7abe-db10df32078b
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

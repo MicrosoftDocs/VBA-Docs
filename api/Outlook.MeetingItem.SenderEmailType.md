@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.SenderEmailType
 ms.assetid: 99870104-54f2-cce5-ff32-212bd335a4c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

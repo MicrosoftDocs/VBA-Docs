@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.ShowCategoriesDialog
 ms.assetid: 47cb9ecd-6d2c-53d5-e083-09935d91a510
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

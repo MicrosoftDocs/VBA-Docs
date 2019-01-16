@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceTasks.Count
 ms.assetid: 6db8223c-a4c3-1e63-ddc5-f0412828c6e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

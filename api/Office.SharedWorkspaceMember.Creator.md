@@ -5,6 +5,7 @@ api_name:
 - Office.SharedWorkspaceMember.Creator
 ms.assetid: 48d609cb-9a3a-5c38-4128-2ca26aa512d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.NoteItem.Height
 ms.assetid: 4e0ccbf8-7bec-9e6a-57ac-77ea2c8754e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

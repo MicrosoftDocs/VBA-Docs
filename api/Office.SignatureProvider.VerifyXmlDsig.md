@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureProvider.VerifyXmlDsig
 ms.assetid: 8b72f282-ace5-4b51-e90a-e2df79affcb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceLinks.Parent
 ms.assetid: 4cedf89a-5de1-58ad-dd1c-d79ccc1c7acb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

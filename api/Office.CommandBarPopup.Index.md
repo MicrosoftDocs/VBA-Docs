@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Index
 ms.assetid: 6f6f6d1f-a59a-cf52-d273-a732652b4f05
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

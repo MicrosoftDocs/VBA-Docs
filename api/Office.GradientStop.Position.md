@@ -5,6 +5,7 @@ api_name:
 - Office.GradientStop.Position
 ms.assetid: df35c432-3ded-f6e0-e2fb-f0740588765f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

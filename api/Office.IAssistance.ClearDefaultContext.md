@@ -8,6 +8,7 @@ api_name:
 - Office.IAssistance.ClearDefaultContext
 ms.assetid: ebdc0b7e-f459-6d4d-af45-0e5625b2448e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBarButton.BuiltInFace
 ms.assetid: 47c82878-17ea-b6ff-e841-c9f07342c8a3
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

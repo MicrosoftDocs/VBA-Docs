@@ -5,6 +5,7 @@ api_name:
 - Office.COMAddIn.Creator
 ms.assetid: 512057ba-021f-cb14-1123-e6d4061cca3e
 ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 

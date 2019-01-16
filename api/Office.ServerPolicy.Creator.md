@@ -5,6 +5,7 @@ api_name:
 - Office.ServerPolicy.Creator
 ms.assetid: 4acaac16-3611-ae19-9c6c-347ee67f6488
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

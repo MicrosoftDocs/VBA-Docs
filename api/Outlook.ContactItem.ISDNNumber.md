@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ISDNNumber
 ms.assetid: 98e27ef6-0af7-948c-8f62-49bc01d42c11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

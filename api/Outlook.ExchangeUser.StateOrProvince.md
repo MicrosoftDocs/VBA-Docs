@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.StateOrProvince
 ms.assetid: abac4889-800a-5573-5851-095f5b5176c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

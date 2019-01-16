@@ -8,6 +8,7 @@ api_name:
 - Outlook.Items.Restrict
 ms.assetid: e3b0cda1-e43d-cc5e-2942-0f54935d9dab
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

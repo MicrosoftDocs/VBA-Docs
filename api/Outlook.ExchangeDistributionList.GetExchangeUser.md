@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeDistributionList.GetExchangeUser
 ms.assetid: a5ce23e5-76cb-ac86-b8c7-a4e63eda560d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

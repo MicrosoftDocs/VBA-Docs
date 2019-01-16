@@ -5,6 +5,7 @@ api_name:
 - Office.IAssistance.ShowHelp
 ms.assetid: 18b46084-114b-69a7-f108-07e4a455e024
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

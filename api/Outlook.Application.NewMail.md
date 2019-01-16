@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.NewMail
 ms.assetid: cfc848e8-98b1-163a-c177-53993c20bb14
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

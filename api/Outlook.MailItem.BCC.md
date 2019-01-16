@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.BCC
 ms.assetid: 6454f9b1-1bfa-d4d4-ca95-7a19db920977
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

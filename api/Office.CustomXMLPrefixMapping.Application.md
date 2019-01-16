@@ -5,6 +5,7 @@ api_name:
 - Office.CustomXMLPrefixMapping.Application
 ms.assetid: faf9ae57-3261-1813-0bc2-193392a47693
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.DisplayedDates
 ms.assetid: 45d77ff9-b93e-4439-3594-ff9dcf1f180b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

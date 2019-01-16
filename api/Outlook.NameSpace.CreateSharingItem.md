@@ -8,6 +8,7 @@ api_name:
 - Outlook.NameSpace.CreateSharingItem
 ms.assetid: 4c93d347-cc39-eb5d-bf08-125b69f91eb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

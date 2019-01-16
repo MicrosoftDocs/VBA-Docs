@@ -8,6 +8,7 @@ api_name:
 - Outlook.Explorer.Deactivate
 ms.assetid: 7bf07653-3e12-670b-c293-1d51cf30e564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

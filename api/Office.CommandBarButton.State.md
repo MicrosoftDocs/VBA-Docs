@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBarButton.State
 ms.assetid: 919ca064-507c-1db6-6b69-b586283ab67b
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

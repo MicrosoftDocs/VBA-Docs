@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.SetFocus
 ms.assetid: ce132a0d-aa1f-c8b1-2697-1cfe78b99123
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

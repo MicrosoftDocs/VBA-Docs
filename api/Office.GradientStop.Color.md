@@ -5,6 +5,7 @@ api_name:
 - Office.GradientStop.Color
 ms.assetid: 06657586-b4fc-b88c-e6aa-e13d5b9e0090
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

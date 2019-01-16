@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.Italic
 ms.assetid: 88cc4dcb-62c5-11ce-49b5-ee090111e616
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

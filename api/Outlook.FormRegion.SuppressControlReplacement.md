@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormRegion.SuppressControlReplacement
 ms.assetid: 714ccca2-f454-61dc-5ff2-bdbd5331f3f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Outlook.MeetingItem.BeforeDelete
 ms.assetid: 155c5225-aeb0-55b6-26dc-811d00128238
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

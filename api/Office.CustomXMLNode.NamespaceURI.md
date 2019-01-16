@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNode.NamespaceURI
 ms.assetid: 4bb671fd-b2e5-0259-40cf-5499ae0c747e
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

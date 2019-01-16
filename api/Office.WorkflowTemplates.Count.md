@@ -8,6 +8,7 @@ api_name:
 - Office.WorkflowTemplates.Count
 ms.assetid: 58a0c128-d019-203d-ad31-e59a31e0ba86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

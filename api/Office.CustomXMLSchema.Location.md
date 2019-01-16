@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLSchema.Location
 ms.assetid: 0efe9b44-8ad1-bf4d-a5f4-0aeb60457d90
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

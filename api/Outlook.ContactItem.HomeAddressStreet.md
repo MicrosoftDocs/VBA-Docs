@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.HomeAddressStreet
 ms.assetid: 9a7af500-e817-6fb1-89b4-6b0ef70741bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

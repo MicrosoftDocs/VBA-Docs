@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentProperty.LinkSource
 ms.assetid: 3e3a6ebc-615a-298e-c40f-cbb6d5cf63e3
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

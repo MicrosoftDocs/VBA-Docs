@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarModule.NavigationModuleType
 ms.assetid: cb63445b-0438-c97e-0b38-eaf17b6b739e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.PickerProperties.Add
 ms.assetid: a52c9607-1b0a-c37e-a3af-dc0550c64deb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

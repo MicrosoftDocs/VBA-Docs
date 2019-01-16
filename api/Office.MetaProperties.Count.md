@@ -8,6 +8,7 @@ api_name:
 - Office.MetaProperties.Count
 ms.assetid: ceb7c117-4d5a-511c-a849-b3cc9041d298
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

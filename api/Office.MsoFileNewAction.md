@@ -5,6 +5,7 @@ api_name:
 - Office.MsoFileNewAction
 ms.assetid: 82736db0-0605-11b3-cc0f-aacac61576c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

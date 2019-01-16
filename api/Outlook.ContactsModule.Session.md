@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactsModule.Session
 ms.assetid: 4ab5d6e1-fcff-9aa4-0779-a365e01d0a1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

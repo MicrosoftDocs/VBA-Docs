@@ -8,6 +8,7 @@ api_name:
 - Office.IRibbonExtensibility
 ms.assetid: b27a7576-b6f5-031e-e307-78ef5f8507e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

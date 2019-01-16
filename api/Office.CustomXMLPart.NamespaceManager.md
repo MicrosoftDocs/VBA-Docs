@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLPart.NamespaceManager
 ms.assetid: 4afc4dc8-32d5-c632-fd9a-f2bf46c72458
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

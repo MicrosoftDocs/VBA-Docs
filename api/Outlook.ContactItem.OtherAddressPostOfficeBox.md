@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.OtherAddressPostOfficeBox
 ms.assetid: 905500a2-475a-ed2a-79b5-e46a3d8c117c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

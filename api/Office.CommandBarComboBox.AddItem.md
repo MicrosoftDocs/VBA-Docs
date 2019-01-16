@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBarComboBox.AddItem
 ms.assetid: 66109c4e-a75b-ebca-99e8-b6848316a04f
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

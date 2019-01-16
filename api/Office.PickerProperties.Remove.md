@@ -8,6 +8,7 @@ api_name:
 - Office.PickerProperties.Remove
 ms.assetid: b224723d-7761-1ac6-f94c-58ead912c555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

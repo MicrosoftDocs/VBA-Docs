@@ -8,6 +8,7 @@ api_name:
 - Outlook.IconView.XML
 ms.assetid: d6876759-9266-77ab-c61e-e7d2eb240a96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

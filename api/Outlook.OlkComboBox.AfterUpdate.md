@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.AfterUpdate
 ms.assetid: d130f15a-832e-f2d1-a6f4-13edcfb5bd9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.IConverter.HrGetFormat
 ms.assetid: bdee0e57-d87b-f1ec-950e-d8b676fd91db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
