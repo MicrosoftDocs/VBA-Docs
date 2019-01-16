@@ -25422,7 +25422,7 @@
 ###### [ItemFromID](Visio.Documents.ItemFromID.md)
 ###### [ObjectType](Visio.Documents.ObjectType.md)
 ###### [PersistsEvents](Visio.Documents.PersistsEvents.md)
-##### [DrawingControl object](Visio.DrawingControl.md)
+#### [DrawingControl object](Visio.DrawingControl.md)
 ##### Events
 ###### [AfterRemoveHiddenInformation](Visio.DrawingControl.AfterRemoveHiddenInformation.md)
 ###### [BeforeDataRecordsetDelete](Visio.DrawingControl.BeforeDataRecordsetDelete.md)
@@ -25494,7 +25494,7 @@
 ###### [ShutdownBehavior](Visio.drawingcontrol.shutdownbehavior.md)
 ###### [Src](Visio.Src.md)
 ###### [Window](Visio.DrawingControl.Window.md)
-##### [Event object](Visio.Event.md)
+#### [Event object](Visio.Event.md)
 ##### Methods
 ###### [Delete](Visio.Event.Delete.md)
 ###### [GetFilterActions](Visio.Event.GetFilterActions.md)
