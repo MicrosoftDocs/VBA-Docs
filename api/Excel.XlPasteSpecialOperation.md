@@ -5,6 +5,7 @@ api_name:
 - Excel.XlPasteSpecialOperation
 ms.assetid: b1e01a39-61b8-a3a9-2552-58d79b10afe3
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

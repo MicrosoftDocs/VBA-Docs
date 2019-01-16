@@ -8,6 +8,7 @@ api_name:
 - Excel.PlotArea.Position
 ms.assetid: 66bea823-1e2b-051c-0259-6916da185ca2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

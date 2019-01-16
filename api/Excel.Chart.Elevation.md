@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.Elevation
 ms.assetid: 44dde783-5bf7-7c5c-475b-0666337249d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

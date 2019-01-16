@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ResetAllPageBreaks
 ms.assetid: caebf657-3c5b-e465-43e0-88aa3250ba2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

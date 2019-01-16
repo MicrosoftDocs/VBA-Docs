@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.DiscardChanges
 ms.assetid: adeee827-d680-59f3-0966-2c2ca60a59e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

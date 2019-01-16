@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.BorderWidth
 ms.assetid: a59dbd51-e839-145b-2971-82bdc4c21097
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Rept
 ms.assetid: acf1bf30-3722-79f3-c3ab-42c3f14aa435
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

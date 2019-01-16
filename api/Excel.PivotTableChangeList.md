@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTableChangeList
 ms.assetid: 83bc0395-b97e-d57f-cfe4-e226a5cea36c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

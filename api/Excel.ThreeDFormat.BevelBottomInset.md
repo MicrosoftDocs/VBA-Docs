@@ -5,6 +5,7 @@ api_name:
 - Excel.ThreeDFormat.BevelBottomInset
 ms.assetid: 35afcfc6-d18b-d6c5-36c3-c0afa0a2f0ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

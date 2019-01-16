@@ -8,6 +8,7 @@ api_name:
 - Access.AdditionalData.Item
 ms.assetid: ddce00eb-71f9-ba6d-f134-1072e024b84d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

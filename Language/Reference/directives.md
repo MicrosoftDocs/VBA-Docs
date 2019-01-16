@@ -3,6 +3,7 @@ title: Directives
 ms.prod: office
 ms.assetid: 08601f28-68b5-4de7-a9c4-abe1713a40a2
 ms.date: 12/03/2018
+localization_priority: Priority
 ---
 
 

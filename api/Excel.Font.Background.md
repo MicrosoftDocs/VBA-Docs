@@ -8,6 +8,7 @@ api_name:
 - Excel.Font.Background
 ms.assetid: af7407c4-655a-5db7-abb2-6932675971d2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

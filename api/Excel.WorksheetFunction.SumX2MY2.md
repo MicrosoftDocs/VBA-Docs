@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.SumX2MY2
 ms.assetid: 5c1dee97-5410-2821-350e-d79a19296ef7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

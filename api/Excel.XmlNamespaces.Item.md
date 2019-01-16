@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlNamespaces.Item
 ms.assetid: 6ce64bef-6e20-cb3e-3ca4-e63f946db4cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

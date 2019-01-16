@@ -8,6 +8,7 @@ api_name:
 - Excel.SparklineGroups.Count
 ms.assetid: 4b8380d2-2d44-d404-61f6-0b025a299711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

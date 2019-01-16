@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.Application
 ms.assetid: 1aac5249-48ef-7706-80f7-a8a377072c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

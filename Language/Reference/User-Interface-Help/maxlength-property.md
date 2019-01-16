@@ -8,6 +8,7 @@ api_name:
 - Office.MaxLength
 ms.assetid: 6cc016ef-333a-9e7a-aacb-323717915f9f
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

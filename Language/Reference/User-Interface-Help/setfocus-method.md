@@ -8,6 +8,7 @@ api_name:
 - Office.SetFocus
 ms.assetid: 430b2404-f11f-a0b6-e3b7-4bfe513c9258
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

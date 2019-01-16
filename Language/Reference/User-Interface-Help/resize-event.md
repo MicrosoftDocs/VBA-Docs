@@ -8,6 +8,7 @@ api_name:
 - Office.Resize
 ms.assetid: d7ea6a67-1d51-0dee-0b23-19ca748557ea
 ms.date: 12/11/2018
+localization_priority: Normal
 ---
 
 

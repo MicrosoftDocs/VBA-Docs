@@ -3,6 +3,7 @@ title: PictureEffects Properties (Office)
 ms.prod: office
 ms.assetid: c69f3592-07ea-42a5-a7c2-3dd2b9157f62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

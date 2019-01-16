@@ -9,6 +9,7 @@ api_name:
 - Access.MaxRecords
 ms.assetid: 30ea62b8-9304-2cdf-ff2f-d8ed665b16b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

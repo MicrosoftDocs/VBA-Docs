@@ -8,6 +8,7 @@ api_name:
 - Excel.ThreeDFormat.ExtrusionColor
 ms.assetid: d9c76fe5-69dc-5bdd-8882-7f06ba083947
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

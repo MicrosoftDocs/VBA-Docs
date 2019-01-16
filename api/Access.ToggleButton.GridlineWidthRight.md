@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.GridlineWidthRight
 ms.assetid: eea6f611-1e03-fabf-53d4-c67b43f5a079
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

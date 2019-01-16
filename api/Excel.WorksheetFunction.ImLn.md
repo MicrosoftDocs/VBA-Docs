@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImLn
 ms.assetid: a2542e7d-f46b-bb01-67a6-655a92f782c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

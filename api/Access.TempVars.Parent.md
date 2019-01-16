@@ -8,6 +8,7 @@ api_name:
 - Access.TempVars.Parent
 ms.assetid: 0dfb9feb-54ef-e15d-2569-1261f2ae3358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

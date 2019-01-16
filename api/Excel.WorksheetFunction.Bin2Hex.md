@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Bin2Hex
 ms.assetid: dc1dbd75-89c5-47de-386f-121e23c4b294
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

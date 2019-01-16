@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.RightPadding
 ms.assetid: 71089377-d206-24b0-be15-aca3e7f33c2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

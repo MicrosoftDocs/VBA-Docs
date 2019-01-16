@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.StatusBarText
 ms.assetid: c0c02302-b2a5-ab77-8f4e-26c0402bb4b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

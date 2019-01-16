@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.SetFocus
 ms.assetid: ec0c4c1a-72cb-f766-c05b-fc1e99e5c8e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Outlook Forms Script reference
 ms.prod: outlook
 ms.assetid: f95fb830-85b9-441d-8a00-5ad9c2f737df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

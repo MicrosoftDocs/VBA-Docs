@@ -3,6 +3,7 @@ title: IAssistance members (Office)
 ms.prod: office
 ms.assetid: 1f5ae2ce-e24a-4377-6591-86504cba749f
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

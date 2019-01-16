@@ -3,6 +3,7 @@ title: TextColumn2 Properties (Office)
 ms.prod: office
 ms.assetid: a4ebeab2-33e4-403e-bbaf-fd6f2fd66892
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

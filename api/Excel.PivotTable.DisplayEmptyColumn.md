@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayEmptyColumn
 ms.assetid: 5911c818-282e-bb61-06c2-351cc4c2086d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

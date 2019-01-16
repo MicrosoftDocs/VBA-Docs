@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.InSelection
 ms.assetid: 96b49172-cea7-26e3-0bdc-6e0b85a1402f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

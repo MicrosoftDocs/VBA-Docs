@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.InvertIfNegative
 ms.assetid: 06c963ac-6e81-5f45-b8b9-8c61bf0c02b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

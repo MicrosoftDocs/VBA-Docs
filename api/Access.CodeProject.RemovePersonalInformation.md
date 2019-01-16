@@ -8,6 +8,7 @@ api_name:
 - Access.CodeProject.RemovePersonalInformation
 ms.assetid: e5332cce-31a9-6aed-11d3-9aa1329123a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

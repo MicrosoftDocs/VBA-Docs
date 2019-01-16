@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.InSelection
 ms.assetid: 6ebb497c-00d0-a854-be22-6b034deae98a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

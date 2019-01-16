@@ -3,6 +3,7 @@ title: Binding a Control to a Field
 ms.prod: outlook
 ms.assetid: 8e338547-b3ff-b84b-16b9-0c465256d972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

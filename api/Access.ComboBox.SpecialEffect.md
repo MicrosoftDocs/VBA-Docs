@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.SpecialEffect
 ms.assetid: d9b82840-8914-7818-990d-9b595da4ba9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

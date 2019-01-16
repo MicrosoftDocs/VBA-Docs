@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.BorderShade
 ms.assetid: 2cb4cc56-c40f-59ce-a989-e792cad915ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

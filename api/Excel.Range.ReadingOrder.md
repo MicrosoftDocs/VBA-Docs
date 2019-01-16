@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ReadingOrder
 ms.assetid: f367af66-21c8-b63f-7a92-3756ee711b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

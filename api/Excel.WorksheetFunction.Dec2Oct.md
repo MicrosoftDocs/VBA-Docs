@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Dec2Oct
 ms.assetid: 2aac7d4d-57ef-0d8f-1432-62e98ddc1c41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

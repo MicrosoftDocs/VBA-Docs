@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.WindowsForPens
 ms.assetid: 798c0bd0-80f3-f6bd-a5d0-9abd88317bbc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

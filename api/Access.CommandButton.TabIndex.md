@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.TabIndex
 ms.assetid: f8b37846-6a65-6b39-9234-5cd77049c907
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

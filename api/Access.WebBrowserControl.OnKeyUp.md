@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnKeyUp
 ms.assetid: b9ad26fe-2e31-958c-220d-8394b8a2e3de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

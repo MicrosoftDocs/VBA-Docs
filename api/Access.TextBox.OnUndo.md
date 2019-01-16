@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.OnUndo
 ms.assetid: fa62ba10-c8e8-f4d4-5d48-ab73c074f2ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

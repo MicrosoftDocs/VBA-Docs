@@ -3,6 +3,7 @@ title: Find the number of working days between two dates
 ms.prod: access
 ms.assetid: 2831d409-1b10-06ef-54ec-9c3386e70021
 ms.date: 09/21/2018
+localization_priority: Priority
 ---
 
 

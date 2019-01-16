@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Pages
 ms.assetid: b97a6878-0a2c-3834-8f3d-6f4460dab3bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

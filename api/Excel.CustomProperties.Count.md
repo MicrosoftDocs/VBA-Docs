@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomProperties.Count
 ms.assetid: d36c32c3-df61-0968-9a43-daaf9cf7fd96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

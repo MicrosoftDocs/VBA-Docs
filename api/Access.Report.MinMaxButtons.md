@@ -8,6 +8,7 @@ api_name:
 - Access.Report.MinMaxButtons
 ms.assetid: 8aee0247-804a-e9ee-e11a-11c9c5d37ed6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

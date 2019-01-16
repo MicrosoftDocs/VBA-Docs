@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.RemoveUser
 ms.assetid: f0a978a0-7bcf-3af4-a01a-831c6c854989
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

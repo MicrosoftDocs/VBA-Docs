@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.MergeArea
 ms.assetid: 68586bba-fa9c-e0d4-0eae-a08613551a2c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

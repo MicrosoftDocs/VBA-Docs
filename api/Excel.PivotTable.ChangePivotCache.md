@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.ChangePivotCache
 ms.assetid: 1b1ee1b4-0ed6-641a-3e1d-739461fa0466
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

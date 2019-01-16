@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.InSelection
 ms.assetid: 0dd5f74a-fd36-8bc2-90f8-039d1f83004b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

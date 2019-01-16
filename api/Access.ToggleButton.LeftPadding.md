@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.LeftPadding
 ms.assetid: 97747f24-6abf-f005-f4d7-b10af6f7629d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

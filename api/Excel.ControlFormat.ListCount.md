@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.ListCount
 ms.assetid: 9f7b60aa-8bf9-a7ec-c198-0a6f6316cc3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

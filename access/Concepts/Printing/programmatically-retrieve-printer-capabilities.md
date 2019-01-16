@@ -3,6 +3,7 @@ title: Programmatically retrieve printer capabilities
 ms.prod: access
 ms.assetid: 8c929823-6b61-16ea-6d84-ff47cc1e8389
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 

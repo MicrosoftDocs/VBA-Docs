@@ -8,6 +8,7 @@ api_name:
 - Excel.ClearContents
 ms.assetid: 8bf70623-e644-e45e-1b1e-565fe6acd223
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

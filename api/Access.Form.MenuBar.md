@@ -8,6 +8,7 @@ api_name:
 - Access.Form.MenuBar
 ms.assetid: b9e6b6f6-5e60-271d-67c4-6697cb294671
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

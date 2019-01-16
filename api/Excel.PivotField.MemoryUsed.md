@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.MemoryUsed
 ms.assetid: 8faeb893-e0a0-39ed-aa78-4b2b5bb67d69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

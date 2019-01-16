@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.SpecialEffect
 ms.assetid: ab1cb63a-d51b-cbd3-bf40-d52148925556
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

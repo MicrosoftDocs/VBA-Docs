@@ -8,6 +8,7 @@ api_name:
 - Access.AdditionalData.Count
 ms.assetid: 9d0883c5-4501-94ad-098b-041b100e0593
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

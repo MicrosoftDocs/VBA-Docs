@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.AutoLabel
 ms.assetid: 2ff7b57a-2a8a-84ae-def5-d8a95bff05f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

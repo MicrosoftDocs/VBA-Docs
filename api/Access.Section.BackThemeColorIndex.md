@@ -8,6 +8,7 @@ api_name:
 - Access.Section.BackThemeColorIndex
 ms.assetid: 70977458-8331-f5c7-3aa3-6e9729ea50cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

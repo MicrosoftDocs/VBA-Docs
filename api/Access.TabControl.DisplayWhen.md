@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.DisplayWhen
 ms.assetid: b3058249-4f5c-9e8d-b5be-10c6bafdaf4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.KeyPress
 ms.assetid: e2b8a352-2fd2-8bdb-0842-6f8e73868c0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

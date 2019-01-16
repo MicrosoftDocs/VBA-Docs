@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.TabIndex
 ms.assetid: 87661ef2-ce0d-2525-2759-c115e3ac2ab5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

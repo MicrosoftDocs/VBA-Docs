@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.InputMask
 ms.assetid: a705c2a4-ff2f-74d1-4a7c-1eade3b00ae8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -3,6 +3,7 @@ title: SmartArtColors Properties (Office)
 ms.prod: office
 ms.assetid: eaee180c-09cc-4c56-a209-5cbf331a147a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

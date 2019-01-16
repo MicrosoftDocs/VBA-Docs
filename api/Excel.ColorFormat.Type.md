@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorFormat.Type
 ms.assetid: 732f1bda-f6ad-e1e0-6f8f-b5f6e4c70549
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

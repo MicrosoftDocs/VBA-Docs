@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.Move
 ms.assetid: 8494088f-0c10-6446-e01e-d70680b0597d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

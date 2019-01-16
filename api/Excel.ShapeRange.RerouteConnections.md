@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.RerouteConnections
 ms.assetid: e84f9b7a-992b-ec54-521b-c2b949d28eda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

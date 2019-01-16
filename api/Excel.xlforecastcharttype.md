@@ -3,6 +3,7 @@ title: xlForecastChartType enumeration (Excel)
 ms.assetid: 7296fb27-dccf-6ad4-3565-453e9fae1b77
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 

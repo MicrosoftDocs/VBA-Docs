@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnExit
 ms.assetid: aec13583-19c6-b5a6-2bc1-0a46e23e9459
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartGroup.Overlap
 ms.assetid: 6ea1de1a-ecb4-d920-fc34-ed3bf3a767b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

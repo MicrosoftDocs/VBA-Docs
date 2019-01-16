@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.SavePassword
 ms.assetid: a7b813c4-b95d-e475-5a00-eb1c246ce5c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Protected Properties and Methods
 ms.prod: outlook
 ms.assetid: 8522d350-a257-2924-2260-3cc02b6ebbca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

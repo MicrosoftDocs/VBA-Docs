@@ -8,6 +8,7 @@ api_name:
 - Access.Form.GridY
 ms.assetid: d767e7de-e3eb-0523-8782-26770f22a013
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

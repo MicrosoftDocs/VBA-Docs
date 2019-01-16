@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.IncrementLeft
 ms.assetid: 604e8e92-b03a-da67-7022-4d73ebdf9872
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

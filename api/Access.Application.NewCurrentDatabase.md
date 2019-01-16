@@ -8,6 +8,7 @@ api_name:
 - Access.Application.NewCurrentDatabase
 ms.assetid: 6934a77e-5fa0-7e43-e159-2ffc2a944dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

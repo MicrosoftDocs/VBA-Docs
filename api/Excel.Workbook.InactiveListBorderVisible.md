@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.InactiveListBorderVisible
 ms.assetid: a6259862-9a29-f3a5-498f-633f51ec10e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

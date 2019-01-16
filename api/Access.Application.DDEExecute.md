@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DDEExecute
 ms.assetid: 9828607e-a2e3-15e2-699a-12fb2dc9e897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

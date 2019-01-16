@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Creator
 ms.assetid: 6e3749be-adec-bb6c-dc24-232e5046ef12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

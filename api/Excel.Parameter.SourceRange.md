@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameter.SourceRange
 ms.assetid: 243ac075-24cc-549a-58fb-195d71dc6e68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

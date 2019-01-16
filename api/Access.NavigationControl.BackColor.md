@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.BackColor
 ms.assetid: d765586f-9454-756d-b6eb-b61bdde9ea16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

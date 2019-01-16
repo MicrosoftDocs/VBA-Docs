@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.SmartTags
 ms.assetid: 200175d1-78a2-3036-72ba-4a85dfc21864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.LostFocus
 ms.assetid: d503815f-1511-82d6-b940-ceba6267f571
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.HasTitle
 ms.assetid: 9ecc48d3-fd86-e185-a69f-0676230b3194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

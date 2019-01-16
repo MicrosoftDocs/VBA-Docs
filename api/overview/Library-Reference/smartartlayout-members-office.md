@@ -4,6 +4,7 @@ description: Represents a Smart Art diagram.
 ms.prod: office
 ms.assetid: addb351f-b586-c4a1-e3d2-ad170e0ed750
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

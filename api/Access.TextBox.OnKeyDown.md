@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.OnKeyDown
 ms.assetid: 472e4b96-a6b1-6473-ed56-64af3522281f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

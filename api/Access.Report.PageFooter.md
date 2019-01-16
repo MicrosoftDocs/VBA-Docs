@@ -8,6 +8,7 @@ api_name:
 - Access.Report.PageFooter
 ms.assetid: 82cd1c0f-2823-9b61-a1fd-66c02c6aaadf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

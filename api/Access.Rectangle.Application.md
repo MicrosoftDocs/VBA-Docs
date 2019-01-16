@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.Application
 ms.assetid: 0e15e9ea-3a67-a256-0629-f9a2b698fe7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

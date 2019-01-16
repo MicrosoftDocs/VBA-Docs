@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.ShortcutMenuBar
 ms.assetid: 1f9bf8b4-d0c7-ddd3-9c4f-cb9bd863463e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

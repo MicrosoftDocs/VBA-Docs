@@ -8,6 +8,7 @@ api_name:
 - Excel.Filters.Parent
 ms.assetid: f3f066af-8fbb-79a6-ee0b-d2e524754c7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

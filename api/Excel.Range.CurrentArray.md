@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.CurrentArray
 ms.assetid: 147f8834-5aef-900f-75de-df91a6a76005
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

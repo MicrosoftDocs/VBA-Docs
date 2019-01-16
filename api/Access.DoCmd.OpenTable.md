@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.OpenTable
 ms.assetid: 6461c8c1-7452-f812-8914-e46406c58eae
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

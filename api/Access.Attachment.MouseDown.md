@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.MouseDown
 ms.assetid: 45056b32-a019-1284-35e4-fefab6ba2e3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Page.Caption
 ms.assetid: 7f1b5038-4543-c373-96e9-135102cdd6e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

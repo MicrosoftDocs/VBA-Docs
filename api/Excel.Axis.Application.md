@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Application
 ms.assetid: db40b565-5481-2507-8aab-0c36987b5557
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

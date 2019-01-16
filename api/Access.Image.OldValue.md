@@ -8,6 +8,7 @@ api_name:
 - Access.Image.OldValue
 ms.assetid: 1e2b9701-1b75-5cb9-32c8-d6585575b7e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

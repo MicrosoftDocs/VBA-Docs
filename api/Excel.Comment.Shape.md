@@ -8,6 +8,7 @@ api_name:
 - Excel.Comment.Shape
 ms.assetid: f3e5f713-69b3-9cd8-81fa-9c677ed26869
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

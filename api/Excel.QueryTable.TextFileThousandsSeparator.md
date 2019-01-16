@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.TextFileThousandsSeparator
 ms.assetid: 8eaa9285-9936-2ba1-44d2-9745150b999e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

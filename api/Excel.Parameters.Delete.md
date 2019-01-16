@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameters.Delete
 ms.assetid: 0e708f81-6d82-3af5-2cde-fa8c924611f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: DocumentInspectors Properties (Office)
 ms.prod: office
 ms.assetid: 3f273f1c-2822-4a9f-abaf-bdbc52a4d9a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

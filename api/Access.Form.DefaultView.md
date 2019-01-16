@@ -8,6 +8,7 @@ api_name:
 - Access.Form.DefaultView
 ms.assetid: bb44eca9-1576-794a-0558-f67e2d37559b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

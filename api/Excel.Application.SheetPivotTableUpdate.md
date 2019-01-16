@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.SheetPivotTableUpdate
 ms.assetid: f42d1f7b-6395-326b-4b4f-72b497c81bd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

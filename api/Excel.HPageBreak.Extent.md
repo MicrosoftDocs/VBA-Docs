@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreak.Extent
 ms.assetid: 07dc69ce-f46e-0b0d-412c-d22a9dbf5050
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

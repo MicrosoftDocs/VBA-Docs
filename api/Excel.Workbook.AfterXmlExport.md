@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.AfterXmlExport
 ms.assetid: fe1e0a53-9f4e-ac88-58f7-fe420e57cabd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

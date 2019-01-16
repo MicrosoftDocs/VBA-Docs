@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.GridlineThemeColorIndex
 ms.assetid: 5ff8140e-4c6a-b719-3fe5-a9a64bb04771
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

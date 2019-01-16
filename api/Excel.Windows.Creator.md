@@ -8,6 +8,7 @@ api_name:
 - Excel.Windows.Creator
 ms.assetid: f27724b1-4ce1-1b90-9aa3-704e491575f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

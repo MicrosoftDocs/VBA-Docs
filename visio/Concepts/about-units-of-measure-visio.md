@@ -3,6 +3,7 @@ title: About Units of Measure (Visio)
 ms.prod: visio
 ms.assetid: b6140312-b8e6-0cf2-9fe0-b14e800216bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

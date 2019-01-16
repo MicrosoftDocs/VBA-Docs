@@ -8,6 +8,7 @@ api_name:
 - Access.Section.RepeatSection
 ms.assetid: 8995af8f-f3c2-456c-dbd8-721e37ced40f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

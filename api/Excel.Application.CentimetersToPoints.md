@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.CentimetersToPoints
 ms.assetid: 2693973c-7d80-8883-6959-afabdb51b9b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

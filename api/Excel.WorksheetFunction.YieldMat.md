@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.YieldMat
 ms.assetid: f5242ddb-6732-0eb5-4301-291bc041fde7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.BottomPadding
 ms.assetid: c7806653-3e00-824e-f1af-7092369af0a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

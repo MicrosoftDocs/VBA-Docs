@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.PlotColorIndex
 ms.assetid: 45bf641a-7b1e-1f0f-9662-5a903c08c2a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

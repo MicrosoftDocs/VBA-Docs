@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ForeColor
 ms.assetid: 32327754-0132-0e04-ef61-f94fa6b095f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

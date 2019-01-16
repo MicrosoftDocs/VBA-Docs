@@ -8,6 +8,7 @@ api_name:
 - Access.Report.AutoResize
 ms.assetid: bf18b1b2-aba6-d4fe-7916-de821c76fbb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Entities.Count
 ms.assetid: cd8e5b45-be63-763d-fbd2-880a40352869
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

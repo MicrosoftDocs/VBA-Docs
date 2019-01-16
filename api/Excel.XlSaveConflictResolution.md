@@ -5,6 +5,7 @@ api_name:
 - Excel.XlSaveConflictResolution
 ms.assetid: 1cdccb5a-c356-4572-9429-49850338b31b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

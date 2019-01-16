@@ -3,6 +3,7 @@ title: Accounts (Outlook)
 ms.prod: outlook
 ms.assetid: dd4cdad6-f1d1-4799-bc54-7d3e61ed4d29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

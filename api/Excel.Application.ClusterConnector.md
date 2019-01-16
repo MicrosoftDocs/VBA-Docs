@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.ClusterConnector
 ms.assetid: 5382b95a-c796-e638-5c11-5524e4be3acb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

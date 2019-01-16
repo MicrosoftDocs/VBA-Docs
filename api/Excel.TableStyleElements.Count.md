@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElements.Count
 ms.assetid: 324d2c82-87d8-69ca-eff6-45db7fe092e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

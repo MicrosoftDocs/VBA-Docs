@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartFormat.Line
 ms.assetid: 777defcb-2b8a-8b4b-4282-eea5c9a65b1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

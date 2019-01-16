@@ -8,6 +8,7 @@ api_name:
 - Access.Report.DrawWidth
 ms.assetid: 1bda5387-9244-f150-2165-8dba1684ca25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

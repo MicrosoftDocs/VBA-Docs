@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.LabelX
 ms.assetid: 3878f4b3-6f0d-a857-1988-9fae59c0302b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ShowDependents
 ms.assetid: f2e062b2-733b-d0e5-b5ed-9587b104bbc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

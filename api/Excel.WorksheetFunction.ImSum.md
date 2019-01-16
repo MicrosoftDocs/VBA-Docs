@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImSum
 ms.assetid: 154d2034-8933-7b20-2cae-92580ada7250
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

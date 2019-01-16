@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.RefreshTable
 ms.assetid: 778743e3-c53a-23e3-73c6-c18339cd1ac2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

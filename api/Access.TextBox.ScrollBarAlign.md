@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.ScrollBarAlign
 ms.assetid: 5a8a77df-571a-7294-8be8-0ff2c4546131
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

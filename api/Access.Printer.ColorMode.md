@@ -8,6 +8,7 @@ api_name:
 - Access.Printer.ColorMode
 ms.assetid: 5c54604b-ee6a-2d6a-1a3e-3fea397a2fa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

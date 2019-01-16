@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.Section
 ms.assetid: fb08e629-6056-85ac-4eae-2d7ab88916b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

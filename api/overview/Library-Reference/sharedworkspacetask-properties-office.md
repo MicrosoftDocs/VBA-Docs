@@ -3,6 +3,7 @@ title: SharedWorkspaceTask Properties (Office)
 ms.prod: office
 ms.assetid: 61ced069-837b-430d-a9d5-50c850a2b51c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

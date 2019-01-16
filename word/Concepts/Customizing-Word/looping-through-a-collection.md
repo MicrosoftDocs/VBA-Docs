@@ -3,6 +3,7 @@ title: Looping Through a Collection
 ms.prod: word
 ms.assetid: 68a4644f-888a-d46c-3c84-8a11f5993ec6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

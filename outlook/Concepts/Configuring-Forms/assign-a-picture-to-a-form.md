@@ -3,6 +3,7 @@ title: Assign a Picture to a Form
 ms.prod: outlook
 ms.assetid: ec570470-9ef3-9845-9e4e-433f86bb6ee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

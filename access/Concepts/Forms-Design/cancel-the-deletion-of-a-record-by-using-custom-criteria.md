@@ -3,6 +3,7 @@ title: Cancel the deletion of a record by using custom criteria
 ms.prod: access
 ms.assetid: 0445765f-4629-5970-776c-5bd30e2d72a1
 ms.date: 09/25/2018
+localization_priority: Normal
 ---
 
 

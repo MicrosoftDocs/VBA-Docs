@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.SourceObject
 ms.assetid: 985c8b01-84d8-2da6-6cad-5de08d835434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.NumberFormatLocal
 ms.assetid: 0637816f-7737-5201-96a0-53389d24e8ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

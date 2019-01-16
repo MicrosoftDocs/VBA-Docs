@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.DisplayRSquared
 ms.assetid: e8e447c3-d379-f6d0-74f2-629fa53b42ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

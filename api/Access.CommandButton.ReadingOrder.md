@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.ReadingOrder
 ms.assetid: 5a47e95d-7421-147f-084a-74130cf524c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

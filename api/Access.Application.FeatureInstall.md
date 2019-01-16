@@ -8,6 +8,7 @@ api_name:
 - Access.Application.FeatureInstall
 ms.assetid: bc9057bc-72a4-0344-a50a-7b73a2d30212
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

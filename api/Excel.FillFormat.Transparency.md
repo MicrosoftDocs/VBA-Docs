@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.Transparency
 ms.assetid: 60d34c04-09ac-03f7-9144-c4e165ee0511
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

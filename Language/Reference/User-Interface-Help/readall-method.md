@@ -8,6 +8,7 @@ api_name:
 - Office.ReadAll
 ms.assetid: 2e461101-12ec-0472-2719-53e714632698
 ms.date: 12/14/2018
+localization_priority: Priority
 ---
 
 

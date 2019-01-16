@@ -4,6 +4,7 @@ description: Represents a URL link saved in a shared document workspace site.
 ms.prod: office
 ms.assetid: fa8d7312-77cc-77b7-14ca-a6aa7f63fa7b
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

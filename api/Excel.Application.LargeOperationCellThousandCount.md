@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.LargeOperationCellThousandCount
 ms.assetid: f6140665-a5ec-bf17-c290-9e52686f605b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

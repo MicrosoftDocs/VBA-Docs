@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.GridlineWidthTop
 ms.assetid: bb49f001-83a9-f1b8-c095-33b8b3f820b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

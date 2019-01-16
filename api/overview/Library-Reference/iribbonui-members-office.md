@@ -4,6 +4,7 @@ description: The object that is returned by the onLoad procedure specified on th
 ms.prod: office
 ms.assetid: c6f6ec3b-3132-da29-ea08-70f20923d013
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

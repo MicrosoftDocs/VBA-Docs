@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.SourceName
 ms.assetid: 9222dcaf-fb60-45c1-a230-4eb7201e1c2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

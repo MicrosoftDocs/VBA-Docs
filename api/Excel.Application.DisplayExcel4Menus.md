@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DisplayExcel4Menus
 ms.assetid: c281499a-cc84-5937-6436-78ecc8230a1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

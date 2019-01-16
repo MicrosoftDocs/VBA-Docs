@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.OnGotFocus
 ms.assetid: 75c6d494-5524-f628-5d27-aff11dc9e358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PrecisionAsDisplayed
 ms.assetid: 4f0c8201-5b8d-5cb5-337c-944d2c7dd8d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

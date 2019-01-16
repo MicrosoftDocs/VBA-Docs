@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.AfterUpdate
 ms.assetid: eaef525d-4447-86b5-9567-311e7324b720
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

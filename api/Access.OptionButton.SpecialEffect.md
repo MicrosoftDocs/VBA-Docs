@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.SpecialEffect
 ms.assetid: 33dd01c0-0ee0-640d-d8f3-f7c3590aeb90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

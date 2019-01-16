@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Shadow
 ms.assetid: e44d59d4-5e85-3c78-b3a4-eabac9f2b86f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

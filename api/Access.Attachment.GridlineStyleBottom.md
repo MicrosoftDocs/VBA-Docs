@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.GridlineStyleBottom
 ms.assetid: 337fb2fd-0f4b-f113-826a-661a03333085
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

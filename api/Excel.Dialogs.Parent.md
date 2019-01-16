@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialogs.Parent
 ms.assetid: d0dca197-b5a8-4b4d-43da-29f804fc0461
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

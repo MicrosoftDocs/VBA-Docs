@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.TabStop
 ms.assetid: 28712aec-2836-9ed0-c8a0-fd5aa50828d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

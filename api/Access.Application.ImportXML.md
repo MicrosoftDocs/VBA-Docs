@@ -8,6 +8,7 @@ api_name:
 - Access.Application.ImportXML
 ms.assetid: c7baa4be-4ef6-c886-3cd6-06576563b77d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

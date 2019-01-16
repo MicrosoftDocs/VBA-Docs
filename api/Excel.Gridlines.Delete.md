@@ -8,6 +8,7 @@ api_name:
 - Excel.Gridlines.Delete
 ms.assetid: 8c9a3ef3-c99c-05be-0503-27469d44623e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

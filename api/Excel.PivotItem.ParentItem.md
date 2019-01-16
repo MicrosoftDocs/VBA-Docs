@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.ParentItem
 ms.assetid: 7d0959e5-5abc-c84f-7037-19b761f36294
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

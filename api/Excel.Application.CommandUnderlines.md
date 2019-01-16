@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.CommandUnderlines
 ms.assetid: 07d3ea82-6ef4-db6f-f3cf-bef992664408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

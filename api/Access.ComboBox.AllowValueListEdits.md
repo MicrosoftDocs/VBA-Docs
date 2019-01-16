@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.AllowValueListEdits
 ms.assetid: 558ba7aa-b3b2-4fe8-7338-8e9fbef19159
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

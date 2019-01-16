@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.PivotTableChangeSync
 ms.assetid: b8cd1e24-4986-d3d4-c37a-b2933c6a9d99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

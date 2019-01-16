@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.MoveAfterReturn
 ms.assetid: 9cdb96d5-e28a-b30c-25de-55a807d32c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

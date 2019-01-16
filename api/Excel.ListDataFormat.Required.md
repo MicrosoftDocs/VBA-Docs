@@ -8,6 +8,7 @@ api_name:
 - Excel.ListDataFormat.Required
 ms.assetid: ccd31ca3-906e-cacc-5ba1-48e60056d46e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

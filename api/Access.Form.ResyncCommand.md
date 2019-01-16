@@ -8,6 +8,7 @@ api_name:
 - Access.Form.ResyncCommand
 ms.assetid: 0df53ea9-5771-0ccd-07ef-f33ad1082a61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

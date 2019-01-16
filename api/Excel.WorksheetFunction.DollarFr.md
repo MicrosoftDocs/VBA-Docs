@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DollarFr
 ms.assetid: a024cc74-605f-7ac5-77f9-7368f8b22f8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.ReferenceStyle
 ms.assetid: 86c4931b-ab1a-0363-d048-5195707a952b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

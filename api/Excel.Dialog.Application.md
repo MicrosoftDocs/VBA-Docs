@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialog.Application
 ms.assetid: 34ebf57a-4d40-319e-817d-9727ae10b3a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

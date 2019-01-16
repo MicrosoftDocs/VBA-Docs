@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Transparent
 ms.assetid: 655e127e-7e2e-c2c2-a979-952f95c534a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

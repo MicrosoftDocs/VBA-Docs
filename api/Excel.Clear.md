@@ -8,6 +8,7 @@ api_name:
 - Excel.Clear
 ms.assetid: f77c2fc0-6ec4-7345-0e5c-7b8dd4cd1a90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

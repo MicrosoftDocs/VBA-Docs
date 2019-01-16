@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.TextFilePromptOnRefresh
 ms.assetid: 3fe619b9-2bc8-46f4-4e18-655e9cf5a61f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

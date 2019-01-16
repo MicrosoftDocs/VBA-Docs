@@ -8,6 +8,7 @@ api_name:
 - Access.AcCommand
 ms.assetid: a78f91cc-3b40-5f45-c737-4d3abb2e979f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

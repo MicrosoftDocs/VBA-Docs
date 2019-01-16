@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.BorderStyle
 ms.assetid: 96d90ffb-9cff-6678-9c2a-58e812c97a79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

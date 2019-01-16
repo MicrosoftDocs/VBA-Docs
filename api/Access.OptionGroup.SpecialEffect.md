@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.SpecialEffect
 ms.assetid: 6d286cb3-193b-34d3-5335-c10564165af3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.BottomPadding
 ms.assetid: 15c760b6-a64f-4ea7-4923-fa0783681a1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Miscellaneous Tasks
 ms.prod: word
 ms.assetid: 5e690651-b220-88d4-f9a1-a7901cb14ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

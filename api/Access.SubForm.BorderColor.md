@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.BorderColor
 ms.assetid: 30970cd2-7fc9-be57-3124-806cfbe76a2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

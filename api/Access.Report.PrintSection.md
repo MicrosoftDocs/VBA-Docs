@@ -8,6 +8,7 @@ api_name:
 - Access.Report.PrintSection
 ms.assetid: 745f4624-557b-0a4c-d4f4-9f0ba4113a61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

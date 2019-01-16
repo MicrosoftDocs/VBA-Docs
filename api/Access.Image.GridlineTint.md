@@ -8,6 +8,7 @@ api_name:
 - Access.Image.GridlineTint
 ms.assetid: 40b394db-e64d-f63b-a1a2-e234dc76581b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

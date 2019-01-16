@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.TabIndex
 ms.assetid: 50db3c8f-5bc6-d663-3e07-7014f80188b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

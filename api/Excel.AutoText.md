@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoText
 ms.assetid: 629627fc-f7b9-b7e9-1675-195bfb435b54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

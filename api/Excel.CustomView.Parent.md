@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomView.Parent
 ms.assetid: 6851dc99-ef6f-e002-9e67-97bcafd5f2c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

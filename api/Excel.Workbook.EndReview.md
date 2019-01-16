@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.EndReview
 ms.assetid: cd4a445b-4731-43ba-e46a-f80f19ea5a17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

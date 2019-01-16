@@ -8,6 +8,7 @@ api_name:
 - Access.Line.Parent
 ms.assetid: fa253611-b5ec-3e73-a5d7-268bf3841f89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.LayoutID
 ms.assetid: 2dfc9f85-f155-16d3-5a9c-accd0b7f86bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

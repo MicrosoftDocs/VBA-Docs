@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.OnExit
 ms.assetid: a857d054-b372-e10b-0246-f0e95b742902
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

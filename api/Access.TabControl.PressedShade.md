@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.PressedShade
 ms.assetid: 842c93bf-7350-9f12-229c-6eec383dc9d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

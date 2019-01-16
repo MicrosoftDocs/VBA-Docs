@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DDERequest
 ms.assetid: c6f5f472-aeac-6de9-8133-bebfc5887eee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

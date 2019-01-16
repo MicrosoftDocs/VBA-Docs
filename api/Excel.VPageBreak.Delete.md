@@ -8,6 +8,7 @@ api_name:
 - Excel.VPageBreak.Delete
 ms.assetid: 3bc077aa-3024-2e66-73cb-d0a985c66ce2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

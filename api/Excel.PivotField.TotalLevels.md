@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.TotalLevels
 ms.assetid: fa50c186-5f6d-41f4-6382-37135159347c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

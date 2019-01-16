@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ProtectContents
 ms.assetid: 807717f6-1265-2d5d-5221-bc46b24d8281
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

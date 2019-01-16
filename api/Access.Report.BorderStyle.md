@@ -8,6 +8,7 @@ api_name:
 - Access.Report.BorderStyle
 ms.assetid: 0f3f0ac9-5a25-13fb-0227-f0f6384d647b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.ObjectPalette
 ms.assetid: d9712689-b62f-9e18-90d8-4e6327e2b2db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

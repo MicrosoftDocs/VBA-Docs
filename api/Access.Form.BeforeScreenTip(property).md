@@ -8,6 +8,7 @@ api_name:
 - Access.Form.BeforeScreenTip
 ms.assetid: 4829b972-de4e-f8dc-f19c-c6a52c7dd14b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.RightPadding
 ms.assetid: 03474457-ab92-5892-6fcc-fe397de5035d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

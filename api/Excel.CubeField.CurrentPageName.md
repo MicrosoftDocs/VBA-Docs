@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.CurrentPageName
 ms.assetid: fe74106a-e8d5-cc2d-ad1f-0c2c3517cfdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

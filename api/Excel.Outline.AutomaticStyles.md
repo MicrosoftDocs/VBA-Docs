@@ -8,6 +8,7 @@ api_name:
 - Excel.Outline.AutomaticStyles
 ms.assetid: a40c5ba0-c754-eadc-8951-415de976bc00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

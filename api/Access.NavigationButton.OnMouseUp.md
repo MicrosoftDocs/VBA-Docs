@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.OnMouseUp
 ms.assetid: 4191de63-b131-5b79-32bb-543777c5620c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.Selected
 ms.assetid: db30f166-c82b-2a77-6feb-bf03810fc36d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

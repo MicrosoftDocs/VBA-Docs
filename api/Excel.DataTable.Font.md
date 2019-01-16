@@ -8,6 +8,7 @@ api_name:
 - Excel.DataTable.Font
 ms.assetid: d3497de8-c1ee-4b62-b5c1-a3084f66f11e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

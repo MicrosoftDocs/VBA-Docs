@@ -3,6 +3,7 @@ title: SmartArtNodes Properties (Office)
 ms.prod: office
 ms.assetid: 78746b62-e16a-436f-a14d-bafa5288dcb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ListDataFormat.IsPercent
 ms.assetid: 34154cf9-358a-0db9-4b93-fe3b3f2b8dce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.OnKeyDown
 ms.assetid: 33945139-f404-ea8a-577e-2a3623f52cb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.Fonts
 ms.assetid: a1b79e75-98a4-a784-522c-0aa72fd65b5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

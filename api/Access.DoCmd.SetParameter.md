@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.SetParameter
 ms.assetid: 55e64bab-1c5e-9da0-5425-c8ed7b0bb1c2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

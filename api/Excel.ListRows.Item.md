@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRows.Item
 ms.assetid: 45b82814-e8ee-43b2-3b57-2ca7f1f152c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

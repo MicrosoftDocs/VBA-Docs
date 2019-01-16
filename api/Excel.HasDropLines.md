@@ -8,6 +8,7 @@ api_name:
 - Excel.HasDropLines
 ms.assetid: 31f00864-86bc-9237-bf93-b52ab8cd1b59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

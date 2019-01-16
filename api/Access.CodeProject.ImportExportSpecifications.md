@@ -8,6 +8,7 @@ api_name:
 - Access.CodeProject.ImportExportSpecifications
 ms.assetid: 100a7924-3f4e-9dec-756e-9aa6f8abba19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

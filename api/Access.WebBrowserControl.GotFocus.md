@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.GotFocus
 ms.assetid: 713bf0e2-6a6c-f377-1667-48c9cee79703
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

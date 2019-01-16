@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.FormulaLocal
 ms.assetid: 0bfe5792-c647-86de-ce37-f2011bc89c31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

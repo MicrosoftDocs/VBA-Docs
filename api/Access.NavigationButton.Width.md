@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Width
 ms.assetid: 1000d389-b727-c3a3-593a-5ffc85a89366
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

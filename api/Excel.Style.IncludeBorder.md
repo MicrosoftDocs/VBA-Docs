@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.IncludeBorder
 ms.assetid: 81b44216-e8fa-88fe-e82c-7fd8844d33ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

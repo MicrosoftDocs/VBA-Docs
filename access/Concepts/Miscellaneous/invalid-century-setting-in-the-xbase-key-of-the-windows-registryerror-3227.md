@@ -3,6 +3,7 @@ title: Invalid Century setting in the Xbase key of the Windows Registry. (Error 
 ms.prod: access
 ms.assetid: eb75b1ac-b7d7-d151-7ea0-4ecb7e265a51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

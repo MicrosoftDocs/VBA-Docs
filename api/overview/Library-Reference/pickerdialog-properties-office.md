@@ -3,6 +3,7 @@ title: PickerDialog properties (Office)
 ms.prod: office
 ms.assetid: ee033d6d-d553-458c-bdb8-1a4baa6cdf5c
 ms.date: 11/12/2018
+localization_priority: Normal
 ---
 
 

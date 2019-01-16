@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.OnGotFocus
 ms.assetid: 3a180b9a-d415-b124-f884-9ce64dba8358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

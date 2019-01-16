@@ -8,6 +8,7 @@ api_name:
 - Excel.ErrorCheckingOptions.EmptyCellReferences
 ms.assetid: 3d9dd729-8483-aa8e-2d60-312bf3b3e08c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

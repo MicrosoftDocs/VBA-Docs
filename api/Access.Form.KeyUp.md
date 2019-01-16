@@ -8,6 +8,7 @@ api_name:
 - Access.Form.KeyUp
 ms.assetid: dbef316c-6362-f330-0931-e109e1381907
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

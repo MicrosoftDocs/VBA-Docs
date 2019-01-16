@@ -8,6 +8,7 @@ api_name:
 - Excel.ProtectedViewWindow.Width
 ms.assetid: ae2e9f08-5d8a-c725-2a9c-3b623c1d36ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.HasAxis
 ms.assetid: 2de3c3a1-7b9c-a4d9-40cb-906fd5d6f4cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

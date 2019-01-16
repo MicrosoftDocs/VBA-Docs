@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.DblClick
 ms.assetid: d73ef157-6399-8a0c-6ec3-c329567f3d5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

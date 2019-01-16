@@ -8,6 +8,7 @@ api_name:
 - Excel.WorkbookConnection.Delete
 ms.assetid: d1312b91-04d7-2695-0c20-c18a31776fb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

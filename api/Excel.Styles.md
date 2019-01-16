@@ -1,4 +1,4 @@
-﻿---
+---
 title: Styles object (Excel)
 keywords: vbaxl10.chm178072
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Excel.Styles
 ms.assetid: 146effdc-e007-814d-b110-f7bd944fc15f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

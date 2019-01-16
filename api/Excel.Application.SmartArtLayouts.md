@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.SmartArtLayouts
 ms.assetid: 00e0b95a-ba40-fb53-ebbe-4fd01b7a0e3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

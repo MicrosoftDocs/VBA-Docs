@@ -3,6 +3,7 @@ title: PickerDialog methods (Office)
 ms.prod: office
 ms.assetid: 54942993-1c2a-49a8-a771-d9c04734cc51
 ms.date: 11/12/2018
+localization_priority: Normal
 ---
 
 

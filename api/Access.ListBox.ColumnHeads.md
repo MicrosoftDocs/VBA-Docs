@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.ColumnHeads
 ms.assetid: cd779d07-d35b-03b2-df3a-7934615675d0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

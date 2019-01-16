@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.UserPicture
 ms.assetid: 2096768a-7836-8445-c959-73cf3672fd32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

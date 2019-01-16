@@ -8,6 +8,7 @@ api_name:
 - Excel.Name.RefersToR1C1
 ms.assetid: 6661dc25-44cd-ac43-9347-93ed7583c9b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

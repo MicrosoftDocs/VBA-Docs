@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.BesselI
 ms.assetid: 06bce6ff-a7cb-d8c7-2d80-d9fd54f9324b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

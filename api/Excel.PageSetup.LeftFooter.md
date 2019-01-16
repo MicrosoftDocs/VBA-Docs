@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.LeftFooter
 ms.assetid: 68dfe26d-9e03-c219-a3c4-96702d0e3723
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

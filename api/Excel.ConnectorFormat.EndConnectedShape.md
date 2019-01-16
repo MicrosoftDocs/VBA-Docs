@@ -8,6 +8,7 @@ api_name:
 - Excel.ConnectorFormat.EndConnectedShape
 ms.assetid: e13d9b94-aa51-5895-8ad4-c40ba7397331
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

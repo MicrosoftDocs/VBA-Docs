@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.EventProcPrefix
 ms.assetid: 79af6ac6-8876-ff72-16a8-5ec81ab6a0f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

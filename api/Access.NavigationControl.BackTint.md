@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.BackTint
 ms.assetid: cabea08c-a59c-ac0d-d40c-62f0e7b475ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

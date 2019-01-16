@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.MultiLevel
 ms.assetid: f9f9d2bd-f3d0-e3a7-1630-f78e8b5777dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

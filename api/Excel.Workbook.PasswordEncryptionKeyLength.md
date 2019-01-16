@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PasswordEncryptionKeyLength
 ms.assetid: 2662f2f5-1ad0-4a75-82c0-3268f147948a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

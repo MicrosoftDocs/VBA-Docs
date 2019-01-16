@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.Quit
 ms.assetid: 2644084a-fd24-6271-7679-46c5f1b206d5
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

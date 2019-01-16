@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.MouseMove
 ms.assetid: 75d16851-f5e6-a82d-a92b-13263618b9f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

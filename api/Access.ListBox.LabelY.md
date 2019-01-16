@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.LabelY
 ms.assetid: 79a1486b-4f51-fabd-e56e-51cb2868c0c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

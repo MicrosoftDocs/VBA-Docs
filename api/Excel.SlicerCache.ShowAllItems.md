@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.ShowAllItems
 ms.assetid: 72622510-b644-db1b-2905-4eaba53b0ecb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

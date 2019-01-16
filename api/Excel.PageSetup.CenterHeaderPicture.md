@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.CenterHeaderPicture
 ms.assetid: c4c6e0b5-96e3-eaea-2dfe-807f286029ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

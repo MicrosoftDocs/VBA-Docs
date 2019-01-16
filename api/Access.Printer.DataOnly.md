@@ -8,6 +8,7 @@ api_name:
 - Access.Printer.DataOnly
 ms.assetid: 2df339fe-140a-374f-01cf-d1d93ed87fee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

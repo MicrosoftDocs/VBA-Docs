@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.PivotTableAfterValueChange
 ms.assetid: 097e1c1e-4df6-a0d1-de67-0e0752d2286a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

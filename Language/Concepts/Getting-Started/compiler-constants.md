@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: bde15ce4-af30-1bbf-7d34-4cfa7e396261
 ms.date: 12/21/2018
+localization_priority: Priority
 ---
 
 
@@ -75,4 +76,5 @@ On 64-bit development platforms, the compiler constants are defined as follows.
 
 ## See also
 
+- [Understanding conditional compilation](understanding-conditional-compilation.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

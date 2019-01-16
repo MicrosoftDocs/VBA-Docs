@@ -8,6 +8,7 @@ api_name:
 - Excel.PlotBy
 ms.assetid: 9cbc8692-0b50-1b46-c945-a3594a5d29b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

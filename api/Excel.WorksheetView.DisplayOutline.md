@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetView.DisplayOutline
 ms.assetid: a1f75888-bc95-7aea-a34b-e75d73c406db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

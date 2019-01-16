@@ -8,6 +8,7 @@ api_name:
 - Excel.TreeviewControl.Drilled
 ms.assetid: 5e4f1b52-a02f-655b-f3c8-b5e7aa54d928
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

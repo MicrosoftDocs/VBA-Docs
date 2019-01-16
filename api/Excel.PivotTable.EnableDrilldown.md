@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.EnableDrilldown
 ms.assetid: 329e6c74-6b23-eac8-2ffb-45696076c712
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

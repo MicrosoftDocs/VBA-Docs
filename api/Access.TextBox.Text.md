@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.Text
 ms.assetid: bb510c65-6d0d-468a-c5be-f325d86c2c7f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

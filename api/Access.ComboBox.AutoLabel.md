@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.AutoLabel
 ms.assetid: 97f04ad4-fac6-bebe-3eab-720a7e9cd999
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: ODSOFilter members (Office)
 ms.prod: office
 ms.assetid: 2c4eeced-e51f-fbf9-65e5-93c06f099d58
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Application.ImportNavigationPane
 ms.assetid: 5365ece3-e2da-031c-4e28-89115d48acf8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

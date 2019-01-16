@@ -8,6 +8,7 @@ api_name:
 - Excel.AboveAverage.Borders
 ms.assetid: b6edebdf-e1cd-adaa-e8d6-f00c51e6060b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

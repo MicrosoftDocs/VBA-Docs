@@ -8,6 +8,7 @@ api_name:
 - Access.Image.SizeToFit
 ms.assetid: 81e403d6-ba9a-9117-1f87-fe6bb4b76d00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

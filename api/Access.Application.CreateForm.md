@@ -8,6 +8,7 @@ api_name:
 - Access.Application.CreateForm
 ms.assetid: 113c8f7f-baf1-bf5c-85ce-6dc1f3d3e942
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

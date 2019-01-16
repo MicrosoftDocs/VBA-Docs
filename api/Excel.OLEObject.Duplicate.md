@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.Duplicate
 ms.assetid: 0ade834d-8c59-7b58-9412-d9bdb7c86fe1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

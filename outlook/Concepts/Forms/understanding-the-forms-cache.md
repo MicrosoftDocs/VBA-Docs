@@ -3,6 +3,7 @@ title: Understanding the Forms Cache
 ms.prod: outlook
 ms.assetid: 0d3baca5-4808-ab86-1ba4-2c676afff5d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

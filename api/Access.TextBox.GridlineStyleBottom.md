@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.GridlineStyleBottom
 ms.assetid: c58d8030-fc96-a53b-4cb4-5bb21237e20e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.Section
 ms.assetid: 65d3f3af-3c21-edb6-bff2-79737231424d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

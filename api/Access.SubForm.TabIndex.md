@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.TabIndex
 ms.assetid: d135000e-3b91-4646-66b9-e4418321285e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

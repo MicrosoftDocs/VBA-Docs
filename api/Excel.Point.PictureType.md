@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.PictureType
 ms.assetid: 6adfa1b4-a37d-1a20-fbab-806d007d1ebf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

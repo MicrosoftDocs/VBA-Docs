@@ -8,6 +8,7 @@ api_name:
 - Office.ShortName
 ms.assetid: 62d95787-61c7-777d-56d0-d17d4d8e0f18
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

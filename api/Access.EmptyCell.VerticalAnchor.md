@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.VerticalAnchor
 ms.assetid: 191310d9-3c46-41fb-40cf-ab5d74e8483a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

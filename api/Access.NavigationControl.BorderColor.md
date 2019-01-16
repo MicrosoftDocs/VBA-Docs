@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.BorderColor
 ms.assetid: 7fea7ca6-0363-c741-6a29-128628c1210a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

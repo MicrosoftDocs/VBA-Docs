@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.BorderShade
 ms.assetid: 42badef3-8e9b-d730-f355-d535352a32ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

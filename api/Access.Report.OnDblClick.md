@@ -8,6 +8,7 @@ api_name:
 - Access.Report.OnDblClick
 ms.assetid: b92a1b2b-4f27-4f45-959c-6f1aec557004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

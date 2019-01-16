@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.SelText
 ms.assetid: 1625b16f-8c2d-a563-6f66-a6714f5419ec
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

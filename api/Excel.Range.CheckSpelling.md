@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.CheckSpelling
 ms.assetid: 22540515-0b0f-ce3c-0145-e46d477d1b5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

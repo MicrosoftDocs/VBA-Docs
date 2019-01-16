@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.SortUsingCustomLists
 ms.assetid: 61c156fe-67cf-f6e8-4fce-bc617c9a1e03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

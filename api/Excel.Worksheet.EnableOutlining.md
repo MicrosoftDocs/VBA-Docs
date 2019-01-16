@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.EnableOutlining
 ms.assetid: db849ddf-871d-19cd-9765-3194a8c1e34e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

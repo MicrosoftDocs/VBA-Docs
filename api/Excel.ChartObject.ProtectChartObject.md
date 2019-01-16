@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObject.ProtectChartObject
 ms.assetid: 0fd7830a-5c07-89f4-190d-b4b231512de7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

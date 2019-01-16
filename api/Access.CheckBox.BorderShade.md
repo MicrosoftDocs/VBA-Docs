@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.BorderShade
 ms.assetid: 4be270c7-a093-0315-71ba-7fd8a6ec26a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

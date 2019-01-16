@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 36382cfd-740c-61e7-b55c-ab8a8ac5fab0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 # The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. (Error 3022)

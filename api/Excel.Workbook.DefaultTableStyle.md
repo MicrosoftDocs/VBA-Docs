@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.DefaultTableStyle
 ms.assetid: 2dc86b2c-0047-53b5-3cc4-af15c36b78cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

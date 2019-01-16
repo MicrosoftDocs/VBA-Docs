@@ -8,6 +8,7 @@ api_name:
 - Excel.CrossesAt
 ms.assetid: aca86ee9-cb90-5982-b1cf-312829d9cc40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

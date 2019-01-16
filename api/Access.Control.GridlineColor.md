@@ -8,6 +8,7 @@ api_name:
 - Access.Control.GridlineColor
 ms.assetid: 0966f9d9-70a0-cdd9-fc89-7bf9239e63b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

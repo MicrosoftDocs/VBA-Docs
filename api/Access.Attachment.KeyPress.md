@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.KeyPress
 ms.assetid: fc54afea-35ca-e354-1223-c7f3d5cf00b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

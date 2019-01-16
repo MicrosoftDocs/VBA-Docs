@@ -8,6 +8,7 @@ api_name:
 - Excel.MarkerBackgroundColorIndex
 ms.assetid: 97995a64-0c94-3c55-ba73-9b5dedda4f2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

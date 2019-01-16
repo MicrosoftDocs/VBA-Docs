@@ -8,6 +8,7 @@ api_name:
 - Access.Module.CreateEventProc
 ms.assetid: 13d2a4db-ec80-4225-f3fd-87527dbf660e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

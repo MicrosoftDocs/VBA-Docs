@@ -8,6 +8,7 @@ api_name:
 - Access.AllMacros.Application
 ms.assetid: 8297f6a4-fbfb-9d73-1914-6bc351f09619
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

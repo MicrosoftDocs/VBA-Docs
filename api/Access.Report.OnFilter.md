@@ -8,6 +8,7 @@ api_name:
 - Access.Report.OnFilter
 ms.assetid: 72af402e-8e37-328e-b0f4-89f54f59bce0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

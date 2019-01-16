@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.OnClick
 ms.assetid: 1afb8ebd-c22b-1978-1eb4-a18d75f7f6c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

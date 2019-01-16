@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.ApplyPictToFront
 ms.assetid: e739e368-9789-be23-da90-17ab4cf3a935
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.KeyUp
 ms.assetid: 65461552-5178-0b71-e82d-a48e98f2cbef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

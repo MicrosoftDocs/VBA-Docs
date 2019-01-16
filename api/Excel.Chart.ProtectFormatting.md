@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.ProtectFormatting
 ms.assetid: 71630b7f-6c89-869d-cd5b-d0a7bacd904a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

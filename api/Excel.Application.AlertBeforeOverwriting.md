@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.AlertBeforeOverwriting
 ms.assetid: 75c69d9d-bd6e-c0c9-71c4-c9d92333d233
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

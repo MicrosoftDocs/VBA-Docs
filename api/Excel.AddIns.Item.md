@@ -8,6 +8,7 @@ api_name:
 - Excel.AddIns.Item
 ms.assetid: 417987d5-322c-2784-c51e-18a1fa7578d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

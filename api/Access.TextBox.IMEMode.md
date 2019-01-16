@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.IMEMode
 ms.assetid: fa4adf03-7c20-eade-4a28-e3c3ac64ebc3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

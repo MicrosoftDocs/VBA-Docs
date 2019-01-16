@@ -8,6 +8,7 @@ api_name:
 - Excel.Mailer.Application
 ms.assetid: 1f4b0c93-73d1-086b-18ae-3b9de921d3cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

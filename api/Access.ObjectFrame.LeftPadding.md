@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.LeftPadding
 ms.assetid: b146f062-bf23-32d6-335a-2583b6171006
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

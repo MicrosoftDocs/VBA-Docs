@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.Format
 ms.assetid: 46c65fb6-98d3-4549-c63d-37c919f99ade
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Application.HtmlEncode
 ms.assetid: 294a99f1-9b26-c9ee-0560-8bd54287ebb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

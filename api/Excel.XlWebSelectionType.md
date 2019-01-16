@@ -5,6 +5,7 @@ api_name:
 - Excel.XlWebSelectionType
 ms.assetid: 8624f03a-6192-a783-307a-6bd16e479866
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

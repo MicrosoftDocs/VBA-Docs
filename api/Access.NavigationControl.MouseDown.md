@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.MouseDown
 ms.assetid: 0406fc90-fa66-b436-6761-c16915e37b5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

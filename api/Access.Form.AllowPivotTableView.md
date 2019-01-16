@@ -8,6 +8,7 @@ api_name:
 - Access.Form.AllowPivotTableView
 ms.assetid: 42bad4b4-7de1-f144-9482-2e114fc5cc4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

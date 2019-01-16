@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.RejectAllChanges
 ms.assetid: a53670da-370c-9ac8-75b8-008625495c2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

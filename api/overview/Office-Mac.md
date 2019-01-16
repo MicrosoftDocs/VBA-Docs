@@ -2,6 +2,7 @@
 title: Office for Mac for Visual Basic for Applications (VBA)
 description: Use VBA add-ins and macros that you developed for Office for Windows with Office for Mac.
 ms.date: 08/24/2018
+localization_priority: Priority
 ---
 
 # Office for Mac

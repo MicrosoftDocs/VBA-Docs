@@ -8,6 +8,7 @@ api_name:
 - Access.SmartTags.Add
 ms.assetid: 880e9543-a8f9-ed5f-4cc5-692979774972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

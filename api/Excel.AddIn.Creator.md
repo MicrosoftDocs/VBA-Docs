@@ -8,6 +8,7 @@ api_name:
 - Excel.AddIn.Creator
 ms.assetid: d3c90243-1963-15d5-9ee1-1cd780ee20a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

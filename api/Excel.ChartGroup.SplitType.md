@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartGroup.SplitType
 ms.assetid: c65ca7a4-59b1-6b15-116a-f76007fbd4be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

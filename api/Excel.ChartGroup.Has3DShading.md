@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartGroup.Has3DShading
 ms.assetid: 8fa32945-a577-3ec6-2a6e-289dd4b75a7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

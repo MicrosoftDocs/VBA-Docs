@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Delete
 ms.assetid: 3a000eb1-dfbf-00df-d7b9-3b92728e96fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

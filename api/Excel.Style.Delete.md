@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.Delete
 ms.assetid: 9248eac2-9d36-4366-11de-4755581d2ad7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

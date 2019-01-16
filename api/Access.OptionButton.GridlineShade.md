@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.GridlineShade
 ms.assetid: 599f0476-e468-8cb7-1cf5-0f63a2dabc8f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

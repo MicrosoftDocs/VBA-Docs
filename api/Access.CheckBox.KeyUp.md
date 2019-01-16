@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.KeyUp
 ms.assetid: 4e86b4c2-e287-db2c-4e74-f73efd7a064c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

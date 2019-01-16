@@ -3,6 +3,7 @@ title: IDocumentInspector members (Office)
 ms.prod: office
 ms.assetid: 61140922-4f7f-3547-ef3d-7b4120c5b34e
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

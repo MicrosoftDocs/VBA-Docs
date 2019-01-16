@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItem.HasData
 ms.assetid: 17ce0cdc-ec30-638a-e869-4640ee0ef5a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

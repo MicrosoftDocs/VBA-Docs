@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.BackShade
 ms.assetid: 8e0d3930-4520-f759-1a12-543bcbaac693
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

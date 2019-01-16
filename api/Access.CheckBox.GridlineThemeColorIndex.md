@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.GridlineThemeColorIndex
 ms.assetid: 85f36c8d-e62e-8d41-331f-ec8abd509992
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Tag
 ms.assetid: 7e67170b-0058-bdd8-161b-806f732fbca4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

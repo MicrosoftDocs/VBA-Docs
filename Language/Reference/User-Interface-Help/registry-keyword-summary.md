@@ -3,6 +3,7 @@ title: Registry keyword summary
 ms.prod: office
 ms.assetid: b5b209ed-ae87-8f84-d6dd-a47863dfa05e
 ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 

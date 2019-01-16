@@ -2,6 +2,7 @@
 title: What's new for VBA in Office 2019
 ms.prod: office
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 # What's new for VBA in Office 2019
@@ -14,11 +15,11 @@ The following tables summarize the new Visual Basic for Applications (VBA) langu
 
 |Name|Description|
 |:-----|:-----|
-|**[acCommand enumeration (Access)](../../api/access.accommand.md)** | **acCmdImportAttachdBase** and **acCmdExportdBase** values are now included.|
-|**[Chart object (Access)](../../api/access.chart.md)** | A customizable visualization of data that can be included in a report.|
+|**[Chart object (Access)](../../api/access.chart.md)** | A customizable visualization of data that can be included in a report or a form.|
 |**[ChartAxis object (Access)](../../api/access.chartaxis.md)** | Represents a field whose values will be included in the category axis of a chart.|
 |**[ChartSeries object (Access)](../../api/access.chartseries.md)** | Represents a series of values in the specified chart.|
 |**[ChartValues object (Access)](../../api/access.chartvalues.md)** | Represents a field whose values will be plotted in the value (Y) axis of a chart.|
+|**[acCommand enumeration (Access)](../../api/access.accommand.md)** | **acCmdImportAttachdBase** and **acCmdExportdBase** values are now included.|
 
 ## Outlook
 

@@ -3,6 +3,7 @@ title: Set the Background Color of a Form
 ms.prod: outlook
 ms.assetid: e1af9e24-3038-dcfb-6a60-632b714f760f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

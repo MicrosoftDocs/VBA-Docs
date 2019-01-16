@@ -8,6 +8,7 @@ api_name:
 - Excel.IRtdServer.Heartbeat
 ms.assetid: 9dc61d35-30cb-fcbe-6aaf-acb2df61d535
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

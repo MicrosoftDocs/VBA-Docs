@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.DisplayWhen
 ms.assetid: 6e5fa1c0-a264-cbc1-6fdf-9aef6c7f6bab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

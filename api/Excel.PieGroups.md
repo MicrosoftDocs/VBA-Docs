@@ -8,6 +8,7 @@ api_name:
 - Excel.PieGroups
 ms.assetid: f7fd5497-f7a0-6c28-1a59-9e6f37a0885e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.SetText
 ms.assetid: e7a246fb-eb50-7c35-1b9f-3e927589aa37
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

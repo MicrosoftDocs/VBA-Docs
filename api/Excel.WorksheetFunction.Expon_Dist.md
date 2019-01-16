@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Expon_Dist
 ms.assetid: 19627dab-1c33-2348-389e-18a76604b237
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

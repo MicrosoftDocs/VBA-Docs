@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.BorderTint
 ms.assetid: 176770ab-59e5-0dde-c968-4f68c0d87cca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

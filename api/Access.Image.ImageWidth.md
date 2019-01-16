@@ -8,6 +8,7 @@ api_name:
 - Access.Image.ImageWidth
 ms.assetid: 516ebdd4-201d-db7e-de34-7f9ad0bb4955
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

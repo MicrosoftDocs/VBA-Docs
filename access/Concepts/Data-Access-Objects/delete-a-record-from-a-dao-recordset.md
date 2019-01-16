@@ -3,6 +3,7 @@ title: Delete a record from a DAO Recordset
 ms.prod: access
 ms.assetid: 7407b757-4c00-2ea7-c93f-303c09afff26
 ms.date: 09/21/2018
+localization_priority: Priority
 ---
 
 

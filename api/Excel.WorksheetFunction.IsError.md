@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsError
 ms.assetid: 87902aa7-295b-5d0b-650e-b30b8a4084c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

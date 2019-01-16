@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.IsVisible
 ms.assetid: 1abe4640-f2ee-4aea-e86c-cb5e8946d156
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

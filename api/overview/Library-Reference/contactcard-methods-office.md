@@ -3,6 +3,7 @@ title: ContactCard Methods (Office)
 ms.prod: office
 ms.assetid: f4d3c39b-2e30-4003-84a1-9aa52eb3d0b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

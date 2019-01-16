@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.SendObject
 ms.assetid: 881004c6-2dd7-55f1-2a16-2d28034125a8
 ms.date: 11/30/2017
+localization_priority: Priority
 ---
 
 

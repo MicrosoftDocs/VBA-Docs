@@ -8,6 +8,7 @@ api_name:
 - Excel.Comment.Next
 ms.assetid: 0331918c-056d-6adc-e232-0aeee3d9c57b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

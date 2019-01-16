@@ -3,6 +3,7 @@ title: Field (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 61d7028f-ed13-2a20-643d-68d43df91163
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

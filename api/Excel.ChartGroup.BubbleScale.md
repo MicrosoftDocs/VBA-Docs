@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartGroup.BubbleScale
 ms.assetid: cbab742e-4e60-2d10-e8ec-0dcd2a5ff72a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

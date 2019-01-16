@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.Import
 ms.assetid: 60265bbd-4994-8fba-7072-ec5dada885d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ProtectedViewWindows
 ms.assetid: c280b1c5-c605-6453-3604-3a409a8289d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorScale.Priority
 ms.assetid: 71209666-9c7c-f376-69cd-bc73c38a9681
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

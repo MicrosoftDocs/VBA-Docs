@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElement.StripeSize
 ms.assetid: b0f9515f-38d7-c338-43e0-0da0e9de0555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

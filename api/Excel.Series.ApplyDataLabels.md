@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.ApplyDataLabels
 ms.assetid: 959a4d12-ed48-48fc-04cf-7a1880cd7e1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

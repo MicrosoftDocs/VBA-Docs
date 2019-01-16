@@ -8,6 +8,7 @@ api_name:
 - Office.WhatsThisButton
 ms.assetid: f9e24796-d4e0-1719-32b3-2119f20a6b5a
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

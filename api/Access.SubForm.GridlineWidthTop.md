@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.GridlineWidthTop
 ms.assetid: beb6124e-6433-4242-364a-c0c61570d8a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

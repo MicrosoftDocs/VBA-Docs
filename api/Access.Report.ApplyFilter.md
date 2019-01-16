@@ -8,6 +8,7 @@ api_name:
 - Access.Report.ApplyFilter
 ms.assetid: 46cbe83d-4395-d9e6-3187-c51152269e62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

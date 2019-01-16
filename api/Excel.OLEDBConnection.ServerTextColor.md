@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.ServerTextColor
 ms.assetid: e2613e27-2d8f-8568-1018-b6910c7f7bba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

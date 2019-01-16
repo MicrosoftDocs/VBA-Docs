@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.KeyDown
 ms.assetid: 5f1c019a-0a21-d640-d872-e2775ced3c43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

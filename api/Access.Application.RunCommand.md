@@ -8,6 +8,7 @@ api_name:
 - Access.Application.RunCommand
 ms.assetid: 2731352f-7f2d-db3a-314c-e8a789755dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

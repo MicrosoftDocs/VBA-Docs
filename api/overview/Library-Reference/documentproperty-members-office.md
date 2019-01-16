@@ -3,6 +3,7 @@ title: DocumentProperty members (Office)
 ms.prod: office
 ms.assetid: 568da0ff-fa90-150a-06ec-611de886334e
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.CenterVertically
 ms.assetid: ffd5897b-fe25-f52f-eb94-cb42659bcedd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

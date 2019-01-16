@@ -8,6 +8,7 @@ api_name:
 - Access.Form.CommandExecute
 ms.assetid: b105b107-8123-5cfe-b87d-cb53518e3dba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

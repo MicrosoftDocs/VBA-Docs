@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.Width
 ms.assetid: a5756720-ee33-6a47-e4eb-ec54b11cd45a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

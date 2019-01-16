@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.GridlineTint
 ms.assetid: 409eec01-384c-742c-f1d4-59a54fbaa4d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

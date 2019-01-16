@@ -8,6 +8,7 @@ api_name:
 - Excel.ListDataFormat.Creator
 ms.assetid: f8ac98f1-f34a-430c-16fa-d62d07c76276
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

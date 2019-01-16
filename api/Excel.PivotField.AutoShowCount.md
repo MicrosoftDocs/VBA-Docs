@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.AutoShowCount
 ms.assetid: bbf7d754-04b3-d729-cf44-994fdc62db16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

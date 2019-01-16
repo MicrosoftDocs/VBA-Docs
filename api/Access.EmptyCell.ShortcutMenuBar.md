@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.ShortcutMenuBar
 ms.assetid: 81ee7d0c-4dd9-810e-8384-026bae0569bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

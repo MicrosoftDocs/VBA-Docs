@@ -8,6 +8,7 @@ api_name:
 - Office.AddCustom
 ms.assetid: 70b74aa5-9cf9-75c0-b107-903a05461510
 ms.date: 12/06/2018
+localization_priority: Normal
 ---
 
 

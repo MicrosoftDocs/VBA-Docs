@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.Rng
 ms.assetid: 5767a84c-ee1b-fc2b-a391-97ca318c455b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

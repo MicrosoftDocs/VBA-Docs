@@ -8,6 +8,7 @@ api_name:
 - Access.AcQuitOption
 ms.assetid: 6a712a0f-1964-8c1d-f5b2-b552c042efe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

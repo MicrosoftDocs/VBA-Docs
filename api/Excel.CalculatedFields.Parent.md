@@ -8,6 +8,7 @@ api_name:
 - Excel.CalculatedFields.Parent
 ms.assetid: 5919da15-d1c0-1fef-93d5-da497960bb85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

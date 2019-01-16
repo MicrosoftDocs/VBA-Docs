@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBErrors.Creator
 ms.assetid: c2143d28-5e66-5207-7d8d-82333d9de724
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

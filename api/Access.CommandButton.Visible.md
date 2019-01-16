@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Visible
 ms.assetid: 980c1f93-ae95-3481-5358-ad5362ffc9e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

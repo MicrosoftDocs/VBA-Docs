@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BackTint
 ms.assetid: ac815c96-c30f-57e0-01e8-db12fd98a50e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.AddinUninstall
 ms.assetid: e35ba67b-3e04-d950-2f8b-141e478ddb67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

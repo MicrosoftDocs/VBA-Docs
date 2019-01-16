@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.AllocationMethod
 ms.assetid: 124ff77d-56f0-7877-a4ed-9c62e1d217d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

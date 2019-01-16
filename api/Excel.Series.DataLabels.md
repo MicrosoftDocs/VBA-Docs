@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.DataLabels
 ms.assetid: bde8faa1-269c-1dbe-e39e-3701a634f214
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

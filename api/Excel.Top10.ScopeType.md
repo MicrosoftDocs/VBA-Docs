@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.ScopeType
 ms.assetid: d1326cab-7852-747e-d810-9f7c07a0b11f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

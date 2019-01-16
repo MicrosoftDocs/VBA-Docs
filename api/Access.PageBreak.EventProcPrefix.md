@@ -8,6 +8,7 @@ api_name:
 - Access.PageBreak.EventProcPrefix
 ms.assetid: abb7dc97-7bc9-8ab3-95ed-3b39a731df30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

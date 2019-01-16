@@ -3,6 +3,7 @@ title: FileDialogFilters Properties (Office)
 ms.prod: office
 ms.assetid: bff3e288-e519-4842-a591-ecb642f24ce8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

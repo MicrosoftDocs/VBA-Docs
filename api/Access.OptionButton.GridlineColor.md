@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.GridlineColor
 ms.assetid: 23cdfbdf-6e89-8d2a-bb4a-29ee0a13af37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

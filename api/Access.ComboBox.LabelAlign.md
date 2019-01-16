@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.LabelAlign
 ms.assetid: a64df157-b9d6-a426-169e-a0878598b9d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

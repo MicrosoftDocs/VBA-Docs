@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DeleteCustomList
 ms.assetid: 41a936f7-05b5-520f-f5c5-172a5ea124d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: SharedWorkspace Methods (Office)
 ms.prod: office
 ms.assetid: b979a46f-c9bb-48d2-b331-381b54246430
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

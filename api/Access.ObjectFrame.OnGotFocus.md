@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.OnGotFocus
 ms.assetid: 3897a919-6180-6b57-eba9-72eea8831753
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

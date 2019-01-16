@@ -8,6 +8,7 @@ api_name:
 - Excel.ApplyCustomType
 ms.assetid: 5385d195-96ce-bdd3-e84d-596fd4236904
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

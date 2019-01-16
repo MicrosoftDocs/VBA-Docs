@@ -4,6 +4,7 @@ description: Associates a set of permissions on the active document with a singl
 ms.prod: office
 ms.assetid: b9fdae9a-719b-9e1d-42aa-7553de91f9d1
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

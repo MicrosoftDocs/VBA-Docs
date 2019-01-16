@@ -8,6 +8,7 @@ api_name:
 - Access.Report.DrawMode
 ms.assetid: 773a3c7f-fb59-9614-3363-b417607fbe28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

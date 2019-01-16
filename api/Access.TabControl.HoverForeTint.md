@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.HoverForeTint
 ms.assetid: 0c8468f1-bc5f-85b2-defc-7f193cdd55e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

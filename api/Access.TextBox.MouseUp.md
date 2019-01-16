@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.MouseUp
 ms.assetid: 0dfdc0b3-4a31-fd96-481c-d13db8197edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

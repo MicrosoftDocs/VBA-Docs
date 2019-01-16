@@ -5,6 +5,7 @@ api_name:
 - Excel.ThreeDFormat.BevelTopInset
 ms.assetid: c178decf-eed4-bf41-26e5-ab53db5f7dc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

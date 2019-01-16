@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbooks.OpenDatabase
 ms.assetid: 09f38ddb-48f9-91af-4b0f-4087c9139ab9
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

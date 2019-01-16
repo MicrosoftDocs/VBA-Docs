@@ -8,6 +8,7 @@ api_name:
 - Access.GroupLevel.ControlSource
 ms.assetid: b6f87977-abcc-2bb8-c6ea-720dd20789ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

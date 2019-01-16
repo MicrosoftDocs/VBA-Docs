@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.XmlMaps
 ms.assetid: c7893167-bfa1-e1df-58f3-782b80322fad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Page.PictureType
 ms.assetid: 113e63ec-a2d9-bd5e-8a49-82fd92339cb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

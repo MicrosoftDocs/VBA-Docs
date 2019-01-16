@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.ModifyAppliesToRange
 ms.assetid: a5d3566c-3b2a-5df1-b174-4cdc0ec1f1ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

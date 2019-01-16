@@ -5,6 +5,7 @@ api_name:
 - Excel.XlSortMethod
 ms.assetid: 34970168-18d5-2f7f-ed5e-e9e2fe21ae8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

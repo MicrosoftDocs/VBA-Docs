@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ColumnCount
 ms.assetid: 76db2415-ee22-89c6-6753-f20d636d41f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

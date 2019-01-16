@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.EventProcPrefix
 ms.assetid: b8efbef8-4eaa-abb7-19c9-311af8448821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

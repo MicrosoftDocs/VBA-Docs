@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.FontName
 ms.assetid: 1ce68bee-4655-b3f8-839e-a8eeb92103e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: Create expressions and custom functions for displaying specific dat
 ms.prod: access
 ms.assetid: ba8c8404-fbe9-d7ef-57bb-17631ec8fb4c
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 

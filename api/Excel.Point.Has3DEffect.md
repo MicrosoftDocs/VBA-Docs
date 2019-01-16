@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.Has3DEffect
 ms.assetid: 0e703274-3158-efe9-24cb-f2794d8acac4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

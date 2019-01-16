@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DDETerminate
 ms.assetid: f05adf6d-5714-12c4-39ce-af4bc31f4d32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range
 ms.assetid: 760f463d-3af3-515d-5da4-54f799fcfe0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Range property

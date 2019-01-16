@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.AlwaysUseConnectionFile
 ms.assetid: de9cd9a7-0dd6-7ee2-d48f-bd61a7006c1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

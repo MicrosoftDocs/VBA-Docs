@@ -8,6 +8,7 @@ api_name:
 - Access.Image.LayoutID
 ms.assetid: ae6e765b-a349-f16e-ce78-671ac7f6ca1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

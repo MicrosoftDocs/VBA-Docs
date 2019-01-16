@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.SearchB
 ms.assetid: 10a39f1f-98d1-e264-7b20-078175dc4606
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

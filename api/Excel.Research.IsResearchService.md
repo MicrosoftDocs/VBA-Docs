@@ -8,6 +8,7 @@ api_name:
 - Excel.Research.IsResearchService
 ms.assetid: 35f741d2-438b-01b8-5dcb-b632737e627e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

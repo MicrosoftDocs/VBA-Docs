@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.RunDataMacro
 ms.assetid: e95b7a8e-a502-67c6-1941-dd5a06c08ef7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

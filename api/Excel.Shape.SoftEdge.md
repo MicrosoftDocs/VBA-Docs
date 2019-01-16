@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.SoftEdge
 ms.assetid: d456fd5b-01b6-c70a-e70e-e345ab43a408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

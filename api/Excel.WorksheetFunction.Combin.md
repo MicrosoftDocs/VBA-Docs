@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Combin
 ms.assetid: d1e75264-6c74-3799-a702-21e96c8472bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

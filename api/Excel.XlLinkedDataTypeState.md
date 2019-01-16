@@ -4,6 +4,7 @@ ms.prod: excel
 api_name:
 - Excel.XlLinkedDataTypeState
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 

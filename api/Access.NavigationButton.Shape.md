@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Shape
 ms.assetid: 9d9ecd73-b1a4-6861-a420-3bc52beae95c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.MinimumScaleIsAuto
 ms.assetid: 95ed7a2b-efda-b05a-da2e-789a166a97c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

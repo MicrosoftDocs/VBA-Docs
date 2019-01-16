@@ -8,6 +8,7 @@ api_name:
 - Access.Report.MoveLayout
 ms.assetid: b02ddbda-ea3f-aad7-5f92-3b308dac4e79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

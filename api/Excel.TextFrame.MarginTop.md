@@ -8,6 +8,7 @@ api_name:
 - Excel.TextFrame.MarginTop
 ms.assetid: 5c03ceb4-e2fd-9ff7-ac5d-4fad45cd5313
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

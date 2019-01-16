@@ -8,6 +8,7 @@ api_name:
 - Office.DropDown
 ms.assetid: 414efeb9-c598-cd48-763b-b42a1b947f0a
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

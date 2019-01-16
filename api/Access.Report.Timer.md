@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Timer
 ms.assetid: 52e3db7f-a61c-8144-e39b-0f9daf61bd98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

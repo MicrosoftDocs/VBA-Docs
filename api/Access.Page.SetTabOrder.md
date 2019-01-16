@@ -8,6 +8,7 @@ api_name:
 - Access.Page.SetTabOrder
 ms.assetid: 446762c2-00b0-5b60-5e32-c2703681a753
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: WebPageFont Properties (Office)
 ms.prod: office
 ms.assetid: c3425441-0673-48d5-aa72-3a6212abf311
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

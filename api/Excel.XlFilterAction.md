@@ -5,6 +5,7 @@ api_name:
 - Excel.XlFilterAction
 ms.assetid: a25182bd-f836-adf5-4932-bda5e80e52f2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.AskToUpdateLinks
 ms.assetid: 1d04eb45-9dcc-e15f-daf1-a6ce9fa737ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

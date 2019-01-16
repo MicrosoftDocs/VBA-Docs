@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.OnMouseMove
 ms.assetid: b57730b7-a8ae-d62f-0511-793633d04969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

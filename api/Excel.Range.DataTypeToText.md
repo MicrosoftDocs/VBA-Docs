@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.DataTypeToText
 ms.date: 09/12/2018
+localization_priority: Normal
 ---
 
 

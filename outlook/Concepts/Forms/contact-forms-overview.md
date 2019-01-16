@@ -3,6 +3,7 @@ title: Contact Forms overview
 ms.prod: outlook
 ms.assetid: 115aef12-7d6d-82ba-6ae6-325bac4a7180
 ms.date: 11/13/2018
+localization_priority: Normal
 ---
 
 

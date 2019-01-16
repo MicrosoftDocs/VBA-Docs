@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Section
 ms.assetid: df8d00af-3e1e-86f8-17f4-dd5792193d03
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

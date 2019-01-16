@@ -8,6 +8,7 @@ api_name:
 - Access.Application.CurrentWebUser
 ms.assetid: cb8b230d-71c5-c73d-c88e-1a13246492a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

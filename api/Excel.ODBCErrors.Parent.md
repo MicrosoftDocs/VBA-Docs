@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCErrors.Parent
 ms.assetid: 8e34809a-b780-f700-9809-7939f8b640e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

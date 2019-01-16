@@ -8,6 +8,7 @@ api_name:
 - Excel.HasRadarAxisLabels
 ms.assetid: 8baa636a-262c-15b4-f8d5-94d77a8101c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

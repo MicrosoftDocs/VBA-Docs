@@ -8,6 +8,7 @@ api_name:
 - Access.Page.Controls
 ms.assetid: 86f2f033-7622-7e5d-c727-a5c9b1b312e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

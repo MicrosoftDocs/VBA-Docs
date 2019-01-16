@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObjects.PrintObject
 ms.assetid: 310a4571-e5e4-14c8-56a0-6d70a59f4588
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
