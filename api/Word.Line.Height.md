@@ -8,6 +8,7 @@ api_name:
 - Word.Line.Height
 ms.assetid: da85e2f8-b3d4-bb64-9459-3adf07e456b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

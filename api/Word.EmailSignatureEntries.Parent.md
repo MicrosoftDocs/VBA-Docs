@@ -8,6 +8,7 @@ api_name:
 - Word.EmailSignatureEntries.Parent
 ms.assetid: 90688623-acb9-e108-21d4-b10a5103232e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

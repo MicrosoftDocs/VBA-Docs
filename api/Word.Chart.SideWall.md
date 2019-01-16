@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.SideWall
 ms.assetid: dd1ededa-f19a-d0b8-4e88-4af4720c7768
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

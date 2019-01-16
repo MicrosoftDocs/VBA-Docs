@@ -8,6 +8,7 @@ api_name:
 - Word.Document.AutoFormat
 ms.assetid: 3b81e92b-3bb8-76dc-1b58-3c70b87db664
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

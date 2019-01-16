@@ -8,6 +8,7 @@ api_name:
 - Word.Lines.Application
 ms.assetid: be55b8cf-5a3d-4e5c-25e9-ef146758326f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabel.ShowPercentage
 ms.assetid: 4347e76f-0107-f153-ab4b-5897683d6495
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

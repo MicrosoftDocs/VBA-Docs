@@ -8,6 +8,7 @@ api_name:
 - Word.Find.IgnoreSpace
 ms.assetid: 79f67561-f100-dc10-758e-a9c3763c0cce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

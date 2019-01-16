@@ -8,6 +8,7 @@ api_name:
 - Word.OMathGroupChar.Char
 ms.assetid: 2704fa1a-32e9-d9ba-265a-38628dc6a5eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

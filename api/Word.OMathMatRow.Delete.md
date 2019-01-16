@@ -8,6 +8,7 @@ api_name:
 - Word.OMathMatRow.Delete
 ms.assetid: b90615ee-6ecc-5d55-c088-b3a82593a050
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

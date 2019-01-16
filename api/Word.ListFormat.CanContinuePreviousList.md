@@ -8,6 +8,7 @@ api_name:
 - Word.ListFormat.CanContinuePreviousList
 ms.assetid: 5c9a91e4-999e-d976-126d-673831f2ecaf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

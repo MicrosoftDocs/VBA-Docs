@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AutoFormatReplaceFarEastDashes
 ms.assetid: 33b8c0c1-5249-05e6-d2a1-3565584207e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

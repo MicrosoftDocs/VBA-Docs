@@ -8,6 +8,7 @@ api_name:
 - Word.Endnotes.Location
 ms.assetid: 948dd801-4ae3-0063-0bfd-28ea141d0b69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

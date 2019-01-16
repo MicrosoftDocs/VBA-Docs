@@ -8,6 +8,7 @@ api_name:
 - Word.Document.RemoveDocumentInformation
 ms.assetid: 64bd3aa6-1e7f-13c1-bcc6-a9488362d7aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

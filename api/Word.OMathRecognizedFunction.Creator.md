@@ -8,6 +8,7 @@ api_name:
 - Word.OMathRecognizedFunction.Creator
 ms.assetid: 4ff9c277-42ff-4512-225c-f0b0625bc63b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

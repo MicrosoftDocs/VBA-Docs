@@ -8,6 +8,7 @@ api_name:
 - Word.LineNumbering
 ms.assetid: a2dd1278-c7dd-af4c-be32-1daded5556d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Language.DefaultWritingStyle
 ms.assetid: 89eae276-8439-35d1-19bf-92c8ba69575c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

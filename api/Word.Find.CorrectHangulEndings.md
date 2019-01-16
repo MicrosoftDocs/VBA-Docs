@@ -8,6 +8,7 @@ api_name:
 - Word.Find.CorrectHangulEndings
 ms.assetid: 814affac-ba96-7e93-6c58-6d063c15b79c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

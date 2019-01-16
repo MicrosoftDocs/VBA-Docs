@@ -8,6 +8,7 @@ api_name:
 - Word.Editor.Parent
 ms.assetid: 756b7e35-e80f-f200-cfb9-27077e66d3f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

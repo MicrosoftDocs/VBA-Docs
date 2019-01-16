@@ -8,6 +8,7 @@ api_name:
 - Word.HeadingStyle
 ms.assetid: d57e68ce-4c8b-0063-5077-82462451f336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

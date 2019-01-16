@@ -8,6 +8,7 @@ api_name:
 - Word.OMathScrSubSup.RemoveSub
 ms.assetid: 562c2afd-3ef9-b7d3-fa72-a5b5fbe60bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

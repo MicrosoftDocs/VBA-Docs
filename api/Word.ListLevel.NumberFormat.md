@@ -8,6 +8,7 @@ api_name:
 - Word.ListLevel.NumberFormat
 ms.assetid: 45305290-e1ca-cd5b-98bd-e60fad989ec5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

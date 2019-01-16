@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Password
 ms.assetid: 243f1735-5367-4ac9-5643-624ccf501abe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

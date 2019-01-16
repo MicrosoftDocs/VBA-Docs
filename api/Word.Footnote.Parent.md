@@ -8,6 +8,7 @@ api_name:
 - Word.Footnote.Parent
 ms.assetid: f16676f5-f79e-590e-94ab-b721aaba673d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

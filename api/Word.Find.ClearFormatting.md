@@ -8,6 +8,7 @@ api_name:
 - Word.Find.ClearFormatting
 ms.assetid: 9b25fb62-13e1-d953-90f2-57059221d820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

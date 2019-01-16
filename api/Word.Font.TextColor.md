@@ -8,6 +8,7 @@ api_name:
 - Word.Font.TextColor
 ms.assetid: 3f1b4118-c604-d7ee-fb64-f60fc62bb86d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

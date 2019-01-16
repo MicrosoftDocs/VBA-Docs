@@ -8,6 +8,7 @@ api_name:
 - Word.Frameset.FrameDefaultURL
 ms.assetid: 596f57d4-2514-8cd0-2d97-20618051fd6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

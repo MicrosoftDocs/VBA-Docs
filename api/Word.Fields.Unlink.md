@@ -8,6 +8,7 @@ api_name:
 - Word.Fields.Unlink
 ms.assetid: 18b72e38-8a03-90fc-76f0-2f4e9d768dd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

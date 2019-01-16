@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeFields.AddNextIf
 ms.assetid: ac89e9c2-48b5-243b-65f4-4904fb18d043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

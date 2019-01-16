@@ -8,6 +8,7 @@ api_name:
 - Word.LegendKey.InvertIfNegative
 ms.assetid: 5cf2cb7b-3388-a103-a49c-79b1bd9cb6f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

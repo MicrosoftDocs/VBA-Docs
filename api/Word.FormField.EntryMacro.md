@@ -8,6 +8,7 @@ api_name:
 - Word.FormField.EntryMacro
 ms.assetid: db4ff78e-6795-0e8e-20db-56ceac01b8f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Cell.Height
 ms.assetid: 746d61a9-d3e2-c28d-3dac-a892c33be2c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

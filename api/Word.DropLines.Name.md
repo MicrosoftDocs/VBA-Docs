@@ -8,6 +8,7 @@ api_name:
 - Word.DropLines.Name
 ms.assetid: be6b7071-1196-6fc2-a7a0-133424814cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

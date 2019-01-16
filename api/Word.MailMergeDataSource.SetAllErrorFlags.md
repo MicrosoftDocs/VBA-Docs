@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeDataSource.SetAllErrorFlags
 ms.assetid: 9419781e-ca05-dac7-d11f-91e002a6cb84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

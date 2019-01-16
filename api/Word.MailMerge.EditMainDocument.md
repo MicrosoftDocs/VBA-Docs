@@ -8,6 +8,7 @@ api_name:
 - Word.MailMerge.EditMainDocument
 ms.assetid: 06ef9288-9434-7e75-ca6c-75c21fffd6b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

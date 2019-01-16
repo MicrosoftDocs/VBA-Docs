@@ -8,6 +8,7 @@ api_name:
 - Word.Global.KeyString
 ms.assetid: 4ad72e74-d26d-093e-8404-b3dc10ebe1f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

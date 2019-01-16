@@ -8,6 +8,7 @@ api_name:
 - Word.HangulAndAlphabetExceptions.Count
 ms.assetid: 75b0a9df-0637-defe-a2ae-474eba7ade58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.DownBars.Creator
 ms.assetid: 0aacdc29-f4bc-5ea5-9dd9-3cc638a14ecb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

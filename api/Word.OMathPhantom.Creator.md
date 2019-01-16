@@ -8,6 +8,7 @@ api_name:
 - Word.OMathPhantom.Creator
 ms.assetid: 26dc4410-91c5-2892-fac5-4001c900f24b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.HangulHanjaConversionDictionaries.Maximum
 ms.assetid: 22e143ec-fed4-9d48-3d50-4a522a0d41f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

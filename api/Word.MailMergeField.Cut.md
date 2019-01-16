@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeField.Cut
 ms.assetid: 83455a23-06cb-9c73-1655-ad6c86d9cb3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

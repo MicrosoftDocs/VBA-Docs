@@ -8,6 +8,7 @@ api_name:
 - Word.Global.Help
 ms.assetid: cfae6e61-84bf-2462-39c5-569baec866ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

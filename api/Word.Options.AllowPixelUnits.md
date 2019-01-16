@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AllowPixelUnits
 ms.assetid: 11c2d832-e1e0-094e-df76-b6eeae4b0d36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

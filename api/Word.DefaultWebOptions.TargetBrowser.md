@@ -8,6 +8,7 @@ api_name:
 - Word.DefaultWebOptions.TargetBrowser
 ms.assetid: e5d31e0c-d669-4b16-bf8d-0c5353732b17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

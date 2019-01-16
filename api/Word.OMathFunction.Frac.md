@@ -8,6 +8,7 @@ api_name:
 - Word.OMathFunction.Frac
 ms.assetid: ee3c9609-dd9c-9d6a-c104-7ed163f83448
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Footnotes.ResetContinuationNotice
 ms.assetid: 7a5d4a70-bd00-2b24-619d-e7a8b50bf8f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

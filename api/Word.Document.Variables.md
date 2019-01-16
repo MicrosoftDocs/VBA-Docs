@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Variables
 ms.assetid: 93af7b84-f172-6ebd-2147-e7ebc92449c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.MarkComments
 ms.assetid: 792e77b2-ba00-2b2b-c81b-7d00dad702cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

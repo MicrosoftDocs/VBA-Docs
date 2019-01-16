@@ -8,6 +8,7 @@ api_name:
 - Word.Envelope.AddressStyle
 ms.assetid: 404962d4-18eb-f79a-67e4-e54c3d6539e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

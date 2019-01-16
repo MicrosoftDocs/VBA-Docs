@@ -8,6 +8,7 @@ api_name:
 - Word.ConditionalStyle.RightPadding
 ms.assetid: ebdaeb98-9d4b-039f-0ef0-4e0c7a611f1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

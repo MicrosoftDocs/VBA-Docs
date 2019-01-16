@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AutoWordSelection
 ms.assetid: 44b3a688-b5ef-6145-de33-00f0cf77409d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

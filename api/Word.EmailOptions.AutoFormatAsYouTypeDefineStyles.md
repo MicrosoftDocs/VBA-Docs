@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeDefineStyles
 ms.assetid: ec9df413-17f5-a2c2-4386-7b1d44328b78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

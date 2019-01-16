@@ -8,6 +8,7 @@ api_name:
 - Word.EmailSignature.ReplyMessageSignature
 ms.assetid: 94e6bc68-8bf2-0c08-b361-1792eafb089d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

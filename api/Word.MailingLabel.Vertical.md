@@ -8,6 +8,7 @@ api_name:
 - Word.MailingLabel.Vertical
 ms.assetid: 9dac957c-d2be-addd-81f2-4dd6b134051d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

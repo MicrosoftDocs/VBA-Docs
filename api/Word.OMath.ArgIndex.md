@@ -8,6 +8,7 @@ api_name:
 - Word.OMath.ArgIndex
 ms.assetid: 634e4135-2ce1-d590-7323-75f28b7def0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

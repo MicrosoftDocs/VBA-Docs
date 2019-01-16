@@ -8,6 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.VerticalAlignment
 ms.assetid: 02994453-289b-f596-3b4a-176935df919e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

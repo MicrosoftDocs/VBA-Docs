@@ -8,6 +8,7 @@ api_name:
 - Word.LegendEntry.Height
 ms.assetid: 734c6546-9d23-3836-abce-659bc72fa2e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Word.HeaderFooter.Application
 ms.assetid: 6e30a37f-4891-022c-c174-4b26dccd2ae0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

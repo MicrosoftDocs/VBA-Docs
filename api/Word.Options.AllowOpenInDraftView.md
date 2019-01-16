@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AllowOpenInDraftView
 ms.assetid: bdd1fb10-8291-81d5-bc82-385f707dd2b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

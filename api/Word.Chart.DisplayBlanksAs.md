@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.DisplayBlanksAs
 ms.assetid: 573752ec-7c2a-a5e0-bd05-626c81fb5d48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

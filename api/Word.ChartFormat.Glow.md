@@ -8,6 +8,7 @@ api_name:
 - Word.ChartFormat.Glow
 ms.assetid: 4b36c67a-ac9a-5849-c8fe-86b3ed5b9637
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ChartCharacters.Insert
 ms.assetid: e214b266-2d5b-c501-9c7b-00c9a557f693
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

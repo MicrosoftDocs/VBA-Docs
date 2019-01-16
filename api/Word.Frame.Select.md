@@ -8,6 +8,7 @@ api_name:
 - Word.Frame.Select
 ms.assetid: 32138165-7723-8f91-ed91-5b4cda0d193e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeFieldName.Creator
 ms.assetid: f9dc1f70-2878-00ec-2c41-59a9be7ed954
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

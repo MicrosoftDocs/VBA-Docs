@@ -8,6 +8,7 @@ api_name:
 - Word.OMathMat.RowSpacingRule
 ms.assetid: dcc3089c-3d64-565b-be64-e88b61d2e881
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

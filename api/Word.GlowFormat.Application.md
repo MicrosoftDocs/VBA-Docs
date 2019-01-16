@@ -8,6 +8,7 @@ api_name:
 - Word.GlowFormat.Application
 ms.assetid: a0353eff-8227-5980-cbef-8fc34425fe70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

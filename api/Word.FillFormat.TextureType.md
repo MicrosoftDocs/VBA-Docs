@@ -8,6 +8,7 @@ api_name:
 - Word.FillFormat.TextureType
 ms.assetid: 5254a20e-477d-c69e-7296-129deb1e08e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

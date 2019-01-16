@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShape.Borders
 ms.assetid: 9186d101-81d1-26b3-8234-ce2e03a9e1e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

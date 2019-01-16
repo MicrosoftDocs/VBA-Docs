@@ -8,6 +8,7 @@ api_name:
 - Word.Interior.Application
 ms.assetid: 7da2b1e6-8acd-9b00-eba3-3e1b275c1869
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.HTMLDivision.Delete
 ms.assetid: 5beeaf29-a7e3-a1b2-bb91-fa433da94d1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Frame.Creator
 ms.assetid: 0170c463-844d-46e0-ff6a-2db489545053
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
