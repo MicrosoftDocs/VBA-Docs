@@ -4,25 +4,23 @@ ms.prod: office
 api_name:
 - Office.GradientStops.Insert2
 ms.assetid: bd9ed41d-eaeb-d3aa-6a8a-e38e2bfb9a17
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
 # GradientStops.Insert2 method (Office)
 
-Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.
+Adds a stop to a gradient, and specifies the brightness, as well as the transparency, of the color.
 
 
 ## Syntax
 
-_expression_. `Insert2`( `_RGB_`, `_Position_`, `_Transparency_`, `_Index_`, `_Brightness_` )
+_expression_.**Insert2** (_RGB_, _Position_, _Transparency_, _Index_, _Brightness_)
 
- _expression_ An expression that returns a [GradientStops](Office.GradientStops.md) object.
+_expression_ An expression that returns a **[GradientStops](Office.GradientStops.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,15 +39,9 @@ Nothing
 
 Gradients are a smooth transition from one color state to another. The endpoints of these sections are called stops. 
 
-This method differs from the [Insert](Office.GradientStops.Insert.md) method in that it allows you to specify the brightness, as well as the transparency, of the color at the gradient stop.
+This method differs from the **[Insert](Office.GradientStops.Insert.md)** method in that it allows you to specify the brightness, as well as the transparency, of the color at the gradient stop.
 
 
 ## See also
 
-
-[GradientStops Object](Office.GradientStops.md)
-
-
-
-[GradientStops Object Members](./overview/Library-Reference/gradientstops-members-office.md)
-
+- [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
