@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.IDocumentInspector.Inspect
 ms.assetid: 33c767c7-5f28-9cba-6511-513a2efda1a3
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -17,7 +17,7 @@ Inspects a document for specific information items or document properties by usi
 
 _expression_. `Inspect`( `_Doc_`, `_Status_`, `_Result_`, `_Action_` )
 
- _expression_ An expression that returns a [IDocumentInspector](Office.IDocumentInspector.md) object.
+ _expression_ An expression that returns an **[IDocumentInspector](Office.IDocumentInspector.md) object.
 
 
 ## Parameters
@@ -46,10 +46,4 @@ MsoDocInspectorStatus members
 
 ## See also
 
-
-[IDocumentInspector Object](Office.IDocumentInspector.md)
-
-
-
-[IDocumentInspector Object Members](./overview/Library-Reference/idocumentinspector-members-office.md)
-
+- [IDocumentInspector object members](overview/Library-Reference/idocumentinspector-members-office.md)

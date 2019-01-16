@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonUI.ActivateTabQ
 ms.assetid: bf664b52-2660-2ce7-a01b-83b459f66e09
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ Activates the specified custom tab on the Microsoft Office Fluent Ribbon UI. Use
 
 _expression_. `ActivateTabQ`(`ControlID`, `Namespace`)
 
- _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
+ _expression_ An expression that returns an **[RibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters
@@ -55,6 +55,4 @@ End Sub
 
 ## See also
 
-- [IRibbonUI Object](Office.IRibbonUI.md)
-- [IRibbonUI Object Members](./overview/Library-Reference/iribbonui-members-office.md)
-
+- [IRibbonUI object members](overview/library-reference/iribbonui-members-office.md)

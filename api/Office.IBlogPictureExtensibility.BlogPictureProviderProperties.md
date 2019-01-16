@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IBlogPictureExtensibility.BlogPictureProviderProperties
 ms.assetid: 2650ef1f-4c72-b4ae-921c-843febae3247
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -18,14 +18,12 @@ Enables picture providers to offer themselves as an upload location for blog pic
 
 ## Syntax
 
-_expression_. `BlogPictureProviderProperties`( `_BlogPictureProvider_`, `_FriendlyName_` )
+_expression_.**BlogPictureProviderProperties** (_BlogPictureProvider_, _FriendlyName_)
 
- _expression_ An expression that returns a [IBlogPictureExtensibility](Office.IBlogPictureExtensibility.md) object.
+_expression_ An expression that returns an **[IBlogPictureExtensibility](Office.IBlogPictureExtensibility.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,10 +32,5 @@ _expression_. `BlogPictureProviderProperties`( `_BlogPictureProvider_`, `_Friend
 
 ## See also
 
-
-[IBlogPictureExtensibility Object](Office.IBlogPictureExtensibility.md)
-
-
-
-[IBlogPictureExtensibility Object Members](./overview/Library-Reference/iblogpictureextensibility-members-office.md)
+- [IBlogPictureExtensibility object members](overview/Library-Reference/iblogpictureextensibility-members-office.md)
 

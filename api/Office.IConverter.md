@@ -7,32 +7,18 @@ ms.prod: office
 api_name:
 - Office.IConverter
 ms.assetid: 3f6180eb-c007-f915-6223-b93f485e09ef
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
 # IConverter object (Office)
 
-This feature is only available in the Open XML Format SDK.
-
-
-## Methods
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
 
 
 
-|Name|
-|:-----|
-|[HrExport](Office.IConverter.HrExport.md)|
-|[HrGetErrorString](Office.IConverter.HrGetErrorString.md)|
-|[HrGetFormat](Office.IConverter.HrGetFormat.md)|
-|[HrImport](Office.IConverter.HrImport.md)|
-|[HrInitConverter](Office.IConverter.HrInitConverter.md)|
-|[HrUninitConverter](Office.IConverter.HrUninitConverter.md)|
 
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [IConverter object members](overview/Library-Reference/iconverter-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

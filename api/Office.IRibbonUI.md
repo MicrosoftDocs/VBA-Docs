@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonUI
 ms.assetid: d323aa21-de74-e821-c914-db71ef3b9c5e
-ms.date: 08/29/2018
+ms.date: 01/16/2019
 ---
 
 
@@ -49,8 +49,9 @@ End Sub
 
 ## See also
 
+- [IRibbonUI object members](overview/library-reference/iribbonui-members-office.md)
+- [RibbonXML callbacks](https://docs.microsoft.com/previous-versions/office/developer/office-2007/aa722523(v=office.12))
+- [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-[RibbonXML Callbacks](https://docs.microsoft.com/previous-versions/office/developer/office-2007/aa722523(v=office.12))
-[IRibbonUI Object Members](./overview/Library-Reference/iribbonui-members-office.md)
+
 

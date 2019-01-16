@@ -36575,7 +36575,7 @@
 ###### [HrGetApplication](Office.IConverterApplicationPreferences.HrGetApplication.md)
 ###### [HrGetHwnd](Office.IConverterApplicationPreferences.HrGetHwnd.md)
 ###### [HrGetLcid](Office.IConverterApplicationPreferences.HrGetLcid.md)
-##### [IConverterPreferences object](Office.IConverterPreferences.md)
+#### [IConverterPreferences object](Office.IConverterPreferences.md)
 ##### [IConverterPreferences members](./overview/Library-Reference/iconverterpreferences-members-office.md)
 ##### [Methods](./overview/Library-Reference/iconverterpreferences-methods-office.md)
 ###### [HrCheckFormat](Office.IConverterPreferences.HrCheckFormat.md)

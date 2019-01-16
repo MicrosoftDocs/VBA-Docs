@@ -7,29 +7,27 @@ ms.prod: office
 api_name:
 - Office.IConverter.HrUninitConverter
 ms.assetid: 602c5fc2-e4f5-d4c1-399a-cf2b7f3f5af0
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
 # IConverter.HrUninitConverter method (Office)
 
-This feature is only available in the Open XML Format SDK.
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
 
 
 ## Syntax
 
-_expression_. `HrUninitConverter`( `_pcuic_` )
+_expression_.**HrUninitConverter** (_pcuic_)
 
- _expression_ An expression that returns a [IConverter](Office.IConverter.md) object.
+_expression_ An expression that returns an **[IConverter](Office.IConverter.md)** object.
 
 
 ## Parameters
 
-
-
-|Name|Required/Optional|Data type|Description|
-|:-----|:-----|:-----|:-----|
-| _pcuic_|Required|**IConverterUICallback**||
+|Name|Required/Optional|Data type|
+|:---|:----------------|:--------|
+| _pcuic_|Required|**IConverterUICallback**|
 
 ## Return value
 
@@ -38,10 +36,4 @@ _expression_. `HrUninitConverter`( `_pcuic_` )
 
 ## See also
 
-
-[IConverter Object](Office.IConverter.md)
-
-
-
-[IConverter Object Members](./overview/Library-Reference/iconverter-members-office.md)
-
+- [IConverter object members](overview/Library-Reference/iconverter-members-office.md)

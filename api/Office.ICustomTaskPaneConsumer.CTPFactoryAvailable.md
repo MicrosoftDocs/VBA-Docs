@@ -7,25 +7,23 @@ ms.prod: office
 api_name:
 - Office.ICustomTaskPaneConsumer.CTPFactoryAvailable
 ms.assetid: b4fd5ea5-5cad-0c48-0538-855f94fb65c9
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
 # ICustomTaskPaneConsumer.CTPFactoryAvailable method (Office)
 
-Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.
+Passes an **[ICTPFactory](office.ictpfactory.md)** object to a Microsoft ActiveX add-in that can then be used when creating a custom task pane.
 
 
 ## Syntax
 
-_expression_. `CTPFactoryAvailable`( `_CTPFactoryInst_` )
+_expression_.**CTPFactoryAvailable** (_CTPFactoryInst_)
 
- _expression_ An expression that returns a [ICustomTaskPaneConsumer](Office.ICustomTaskPaneConsumer.md) object.
+_expression_ An expression that returns an **[ICustomTaskPaneConsumer](Office.ICustomTaskPaneConsumer.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,10 +31,12 @@ _expression_. `CTPFactoryAvailable`( `_CTPFactoryInst_` )
 
 ## Example
 
-The following example, written in C#, creates an instance of a  **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **CTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. Note that the example assumes that the task pane is part of an COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also refers to an ActiveX control, SampleActiveX.myControl, that was created in a separate project.
+The following example, written in C#, creates an instance of a **CustomTaskPane** object through the **ICustomTaskPaneConsumer** interface and implements its only method, **CTPFactoryAvailable**. **CTPFactoryAvailable** passes an **ICTPFactory** object to the add-in, which you can use during the add-in's lifetime to create a task pane by using the **CreateCTP** method. 
+
+Note that the example assumes that the task pane is part of a COM add-in and thus implements **Extensibility.IDTExtensibility2**. The add-in also refers to an ActiveX control, SampleActiveX.myControl, which was created in a separate project.
 
 
-```vb
+```cs
 public class Connect : Object, Extensibility.IDTExtensibility2, ICustomTaskPaneConsumer 
 ... 
 object missing = Type.Missing; 
@@ -51,17 +51,11 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 } 
 ```
 
-
 > [!NOTE] 
-> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files. For example, Microsoft Visual Basic® 6.0, Microsoft Visual Basic .NET, Microsoft Visual C++®, Microsoft Visual C++ .NET, and Microsoft Visual C#®. However, Microsoft Visual Basic for Applications (VBA) does not support creating custom task panes. 
+> You can create custom task panes in any language that supports COM and allows you to create dynamic-linked library (DLL) files; for example, Microsoft Visual Basic 6.0, Visual Basic .NET, Visual C++, Visual C++ .NET, and Visual C#. However, Visual Basic for Applications (VBA) does not support creating custom task panes. 
+
 
 
 ## See also
 
-
-[ICustomTaskPaneConsumer Object](Office.ICustomTaskPaneConsumer.md)
-
-
-
-[ICustomTaskPaneConsumer Object Members](./overview/Library-Reference/icustomtaskpaneconsumer-members-office.md)
-
+- [ICustomTaskPaneConsumer object members](overview/Library-Reference/icustomtaskpaneconsumer-members-office.md)

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonControl
 ms.assetid: 63aef709-e1d3-b1a6-76af-b568ad0e69ae
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -44,8 +44,5 @@ public void ToggleButtonOnAction(IRibbonControl control, bool pressed)
 
 ## See also
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-[IRibbonControl Object Members](./overview/Library-Reference/iribboncontrol-members-office.md)
-
+- [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

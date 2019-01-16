@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonControl.Context
 ms.assetid: 39f9d85a-00e9-9682-3957-51d9e72b4d83
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ Represents the active window containing the Ribbon user interface that triggers 
 
 _expression_. `Context`
 
- _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
+ _expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md) object.
 
 
 ## Return value
@@ -30,10 +30,4 @@ Object
 
 ## See also
 
-
-[IRibbonControl Object](Office.IRibbonControl.md)
-
-
-
-[IRibbonControl Object Members](./overview/Library-Reference/iribboncontrol-members-office.md)
-
+- [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)

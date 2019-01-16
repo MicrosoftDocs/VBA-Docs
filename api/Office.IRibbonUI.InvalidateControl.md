@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonUI.InvalidateControl
 ms.assetid: 33af7933-66f7-51e9-895e-07a6222973d2
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ Invalidates the cached value for a single control on the Ribbon user interface.
 
 _expression_. `InvalidateControl`( `_bstrControlID_` )
 
- _expression_ An expression that returns a [IRibbonUI](Office.IRibbonUI.md) object.
+ _expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md) object.
 
 
 ## Parameters
@@ -61,10 +61,4 @@ End Sub
 
 ## See also
 
-
-[IRibbonUI Object](Office.IRibbonUI.md)
-
-
-
-[IRibbonUI Object Members](./overview/Library-Reference/iribbonui-members-office.md)
-
+- [IRibbonUI object members](overview/library-reference/iribbonui-members-office.md)

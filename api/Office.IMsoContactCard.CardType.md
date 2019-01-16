@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IMsoContactCard.CardType
 ms.assetid: 002e308b-0a1b-087e-8a86-0aad2fa0f543
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ A  **MsoContactCardType** value that represents the type of a Contact card. Read
 
 _expression_. `CardType`
 
- _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## Remarks
@@ -39,10 +39,5 @@ The  **MsoContactCardType** enumeration consists of the following members:
 
 ## See also
 
-
-[IMsoContactCard Object](Office.IMsoContactCard.md)
-
-
-
-[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
+- [IMsoContactCard object members](overview/library-reference/imsocontactcard-members-office.md)
 

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonExtensibility.GetCustomUI
 ms.assetid: a0106415-999e-94da-379c-70fb7aa6119f
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ Loads the XML markup, either from an XML customization file or from XML markup e
 
 _expression_. `GetCustomUI`( `_RibbonID_` )
 
- _expression_ An expression that returns a [IRibbonExtensibility](Office.IRibbonExtensibility.md) object.
+ _expression_ An expression that returns an **[IRibbonExtensibility](Office.IRibbonExtensibility.md) object.
 
 
 ## Parameters
@@ -61,10 +61,4 @@ public string GetCustomUI(string RibbonID)
 
 ## See also
 
-
-[IRibbonExtensibility Object](Office.IRibbonExtensibility.md)
-
-
-
-[IRibbonExtensibility Object Members](./overview/Library-Reference/iribbonextensibility-members-office.md)
-
+- [IRibbonExtensibility object members](overview/library-reference/iribbonextensibility-members-office.md)

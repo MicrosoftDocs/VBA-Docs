@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.IDocumentInspector.GetInfo
 ms.assetid: 7242cce4-1b36-107f-ec7c-2512b2e1fba7
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -17,7 +17,7 @@ Gets information about a custom Document Inspector module.
 
 _expression_. `GetInfo`( `_Name_`, `_Desc_` )
 
- _expression_ An expression that returns a [IDocumentInspector](Office.IDocumentInspector.md) object.
+ _expression_ An expression that returns an **[IDocumentInspector](Office.IDocumentInspector.md) object.
 
 
 ## Parameters
@@ -39,10 +39,4 @@ _expression_. `GetInfo`( `_Name_`, `_Desc_` )
 
 ## See also
 
-
-[IDocumentInspector Object](Office.IDocumentInspector.md)
-
-
-
-[IDocumentInspector Object Members](./overview/Library-Reference/idocumentinspector-members-office.md)
-
+- [IDocumentInspector object members](overview/Library-Reference/idocumentinspector-members-office.md)

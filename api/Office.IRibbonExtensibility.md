@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonExtensibility
 ms.assetid: b27a7576-b6f5-031e-e307-78ef5f8507e0
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -41,9 +41,5 @@ public string GetCustomUI(string RibbonID)
 
 ## See also
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-
-[IRibbonExtensibility Object Members](./overview/Library-Reference/iribbonextensibility-members-office.md)
-
+- [IRibbonExtensibility object members](overview/library-reference/iribbonextensibility-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

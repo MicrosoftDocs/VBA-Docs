@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.IDocumentInspector.Fix
 ms.assetid: bf803bd1-5acc-b023-c98b-f21a7f708f6e
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -17,7 +17,7 @@ Performs some action on specific information items or document properties by usi
 
 _expression_. `Fix`( `_Doc_`, `_Hwnd_`, `_Status_`, `_Result_` )
 
- _expression_ An expression that returns a [IDocumentInspector](Office.IDocumentInspector.md) object.
+ _expression_ An expression that returns an **[IDocumentInspector](Office.IDocumentInspector.md) object.
 
 
 ## Parameters
@@ -46,10 +46,4 @@ MsoDocInspectorStatus members
 
 ## See also
 
-
-[IDocumentInspector Object](Office.IDocumentInspector.md)
-
-
-
-[IDocumentInspector Object Members](./overview/Library-Reference/idocumentinspector-members-office.md)
-
+- [IDocumentInspector object members](overview/Library-Reference/idocumentinspector-members-office.md)

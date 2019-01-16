@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IMsoContactCard.AddressType
 ms.assetid: debb9ddd-4e7e-0a3b-d361-b48e7c6dff64
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ A  **MsoContactCardAddressType** value that represents the address type for the 
 
 _expression_. `AddressType`
 
- _expression_ An expression that returns a [IMsoContactCard](Office.IMsoContactCard.md) object.
+ _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md) object.
 
 
 ## Remarks
@@ -37,10 +37,5 @@ The  **MsoContactCardAddressType** enumeration consists of the following members
 
 ## See also
 
-
-[IMsoContactCard Object](Office.IMsoContactCard.md)
-
-
-
-[IMsoContactCard Object Members](./overview/Library-Reference/imsocontactcard-members-office.md)
+- [IMsoContactCard object members](overview/library-reference/imsocontactcard-members-office.md)
 

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.IRibbonControl.Tag
 ms.assetid: d0f041c0-d7bc-7a4f-df9b-ba62fa08f1ca
-ms.date: 06/08/2017
+ms.date: 01/16/2019
 ---
 
 
@@ -20,7 +20,7 @@ Used to store arbitrary strings and fetch them at runtime. Read-only
 
 _expression_. `Tag`
 
- _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
+ _expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md) object.
 
 
 ## Return value
@@ -52,10 +52,4 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 
 ## See also
 
-
-[IRibbonControl Object](Office.IRibbonControl.md)
-
-
-
-[IRibbonControl Object Members](./overview/Library-Reference/iribboncontrol-members-office.md)
-
+- [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)
