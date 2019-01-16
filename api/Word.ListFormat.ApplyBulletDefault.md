@@ -8,6 +8,7 @@ api_name:
 - Word.ListFormat.ApplyBulletDefault
 ms.assetid: 40e0b8f6-9360-441b-a7fc-52bff8953ea8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

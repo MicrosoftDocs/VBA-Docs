@@ -8,6 +8,7 @@ api_name:
 - Word.LetterContent.Closing
 ms.assetid: 46f367a8-c487-a837-f37c-7570e005728d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

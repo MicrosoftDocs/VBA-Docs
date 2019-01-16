@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Undo
 ms.assetid: f9fd64c9-aeb9-b698-6318-beb1db653ee6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

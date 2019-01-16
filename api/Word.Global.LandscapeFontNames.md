@@ -8,6 +8,7 @@ api_name:
 - Word.Global.LandscapeFontNames
 ms.assetid: 7c99f031-9290-1ff2-f2b6-da038a1c423b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

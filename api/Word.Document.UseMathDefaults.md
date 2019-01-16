@@ -8,6 +8,7 @@ api_name:
 - Word.Document.UseMathDefaults
 ms.assetid: ce96cb76-0b61-32ed-4846-7a776c318639
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

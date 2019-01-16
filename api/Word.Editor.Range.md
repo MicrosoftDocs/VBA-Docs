@@ -8,6 +8,7 @@ api_name:
 - Word.Editor.Range
 ms.assetid: a09abe23-cc64-2fda-682d-7d2825a9e5fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

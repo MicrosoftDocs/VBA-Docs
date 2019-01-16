@@ -8,6 +8,7 @@ api_name:
 - Word.Document.SetLetterContent
 ms.assetid: 8c9b2f6e-34a7-41a3-761d-c1a5da141aba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Frameset.Parent
 ms.assetid: e115f092-802d-cb90-dada-33d7831dcb43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

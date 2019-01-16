@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBox.E
 ms.assetid: f0b8de9f-860b-b9d3-df26-2bc009438ba7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

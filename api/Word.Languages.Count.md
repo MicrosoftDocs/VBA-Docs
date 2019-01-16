@@ -8,6 +8,7 @@ api_name:
 - Word.Languages.Count
 ms.assetid: 44044dcf-0e8f-e890-afd5-1c22a9dfb4bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

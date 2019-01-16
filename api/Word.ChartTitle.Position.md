@@ -8,6 +8,7 @@ api_name:
 - Word.ChartTitle.Position
 ms.assetid: d587c2a8-1315-de5b-ef3e-fb19d4eb84b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

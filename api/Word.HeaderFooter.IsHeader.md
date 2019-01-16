@@ -8,6 +8,7 @@ api_name:
 - Word.HeaderFooter.IsHeader
 ms.assetid: 66c098ed-d0d6-cf58-e26a-b031bc7a6cab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

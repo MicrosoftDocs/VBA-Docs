@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShape.HorizontalLineFormat
 ms.assetid: 3e6f3887-d906-a761-d1ee-a4c4560c4888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

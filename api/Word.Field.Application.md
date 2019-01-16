@@ -8,6 +8,7 @@ api_name:
 - Word.Field.Application
 ms.assetid: d2623a97-b4d6-0eb6-13a8-9fe6990e1810
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

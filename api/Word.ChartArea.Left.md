@@ -8,6 +8,7 @@ api_name:
 - Word.ChartArea.Left
 ms.assetid: ade70996-c997-4929-9078-b18d4a99a477
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

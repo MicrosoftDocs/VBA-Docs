@@ -8,6 +8,7 @@ api_name:
 - Word.OMathMatRows.Count
 ms.assetid: f23dd00f-7e80-6870-64c3-bf4fd8a57186
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

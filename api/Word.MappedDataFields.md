@@ -8,6 +8,7 @@ api_name:
 - Word.MappedDataFields
 ms.assetid: d67de1fb-f495-ff4a-f21d-fd165a96232c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

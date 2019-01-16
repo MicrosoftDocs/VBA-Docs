@@ -8,6 +8,7 @@ api_name:
 - Word.CustomLabel.SideMargin
 ms.assetid: bd511d0e-36fc-0fd1-57a2-47d9f0a911dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

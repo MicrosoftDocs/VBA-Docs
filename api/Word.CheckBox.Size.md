@@ -8,6 +8,7 @@ api_name:
 - Word.CheckBox.Size
 ms.assetid: 1e7fe0d6-7dd9-c19b-a5b4-f60f99ee6bae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

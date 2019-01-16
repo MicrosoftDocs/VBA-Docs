@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Research
 ms.assetid: 8d37d02a-c418-a2a2-1478-362ed01d76d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

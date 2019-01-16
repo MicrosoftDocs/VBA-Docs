@@ -8,6 +8,7 @@ api_name:
 - Word.Interior.Color
 ms.assetid: fd52393e-3ac4-6fe0-94ca-86d78bd83207
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.EnforceStyle
 ms.assetid: ce2249ca-bdb0-f2b7-e9fa-a759c4507a74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.CountNumberedItems
 ms.assetid: b35face4-9d35-2071-90e1-628e7eca04fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

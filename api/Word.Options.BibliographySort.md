@@ -8,6 +8,7 @@ api_name:
 - Word.Options.BibliographySort
 ms.assetid: 257d6ab9-fc3b-985e-bdcb-3e4465f77ded
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

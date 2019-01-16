@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ReadingLayoutSizeX
 ms.assetid: 1b77f914-ca27-8ebf-7794-3ce49f2e117b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

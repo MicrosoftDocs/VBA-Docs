@@ -8,6 +8,7 @@ api_name:
 - Word.Envelope.Parent
 ms.assetid: b9bc7470-074f-0a86-f7b7-91ef0e04c224
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

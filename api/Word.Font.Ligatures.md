@@ -8,6 +8,7 @@ api_name:
 - Word.Font.Ligatures
 ms.assetid: f1b0ff39-5eb5-e5a3-e0ff-3e88639670f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

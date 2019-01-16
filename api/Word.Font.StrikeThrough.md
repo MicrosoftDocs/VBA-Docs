@@ -8,6 +8,7 @@ api_name:
 - Word.Font.StrikeThrough
 ms.assetid: c55819cc-efb8-9981-3335-b3d6e6c26924
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

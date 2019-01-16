@@ -8,6 +8,7 @@ api_name:
 - Word.Document.XMLShowAdvancedErrors
 ms.assetid: 56ddb6ee-f2fd-fa8e-5f07-a5af4d749652
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

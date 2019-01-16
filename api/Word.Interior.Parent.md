@@ -8,6 +8,7 @@ api_name:
 - Word.Interior.Parent
 ms.assetid: 3772346e-e485-7d0d-60b6-dd1f006c9031
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

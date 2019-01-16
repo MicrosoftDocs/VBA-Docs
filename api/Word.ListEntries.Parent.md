@@ -8,6 +8,7 @@ api_name:
 - Word.ListEntries.Parent
 ms.assetid: aabeb6a0-53d8-6622-7fc0-8d9d18fbd7f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

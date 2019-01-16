@@ -8,6 +8,7 @@ api_name:
 - Word.Line.Left
 ms.assetid: 6fdaf53f-be14-2718-146a-4a4116c378c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

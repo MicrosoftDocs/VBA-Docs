@@ -8,6 +8,7 @@ api_name:
 - Word.Endnotes.NumberStyle
 ms.assetid: 9157acf1-6452-ec85-5032-66cf960b94f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

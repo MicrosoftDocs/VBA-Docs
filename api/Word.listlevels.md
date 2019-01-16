@@ -3,6 +3,7 @@ title: ListLevels object (Word)
 ms.prod: word
 ms.assetid: 9165c008-c066-8d3e-9254-d9e0ab2ec091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

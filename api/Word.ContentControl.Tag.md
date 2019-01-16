@@ -8,6 +8,7 @@ api_name:
 - Word.ContentControl.Tag
 ms.assetid: 4b7016ac-0a8e-bf2e-d17e-083663dbf189
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

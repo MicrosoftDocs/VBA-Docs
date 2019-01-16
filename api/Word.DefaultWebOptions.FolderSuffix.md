@@ -8,6 +8,7 @@ api_name:
 - Word.DefaultWebOptions.FolderSuffix
 ms.assetid: 3690ef57-7c06-6884-e7ac-3ef0a088e4f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

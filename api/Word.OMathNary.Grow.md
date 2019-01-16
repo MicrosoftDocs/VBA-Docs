@@ -8,6 +8,7 @@ api_name:
 - Word.OMathNary.Grow
 ms.assetid: 95ed373a-e3e2-bbc8-e1eb-9ce372dc9268
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

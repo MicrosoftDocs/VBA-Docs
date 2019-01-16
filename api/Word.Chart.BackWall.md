@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.BackWall
 ms.assetid: 39ed0473-7d45-0584-48f1-307f9a481789
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

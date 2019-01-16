@@ -8,6 +8,7 @@ api_name:
 - Word.DataTable.Border
 ms.assetid: 2623f70c-7bd8-5602-cc74-9364da5980c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

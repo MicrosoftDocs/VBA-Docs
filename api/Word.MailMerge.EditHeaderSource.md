@@ -8,6 +8,7 @@ api_name:
 - Word.MailMerge.EditHeaderSource
 ms.assetid: d1be3c68-b7f8-7591-2a1a-b5898f731fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

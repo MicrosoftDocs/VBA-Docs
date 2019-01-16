@@ -8,6 +8,7 @@ api_name:
 - Word.Document.BuiltInDocumentProperties
 ms.assetid: 5e9a17dd-75b3-50e5-359e-dc0d0a59c46f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

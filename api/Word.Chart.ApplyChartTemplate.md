@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.ApplyChartTemplate
 ms.assetid: 10d2c95e-1f67-1301-9b98-3a0b09f60df5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.RejectAllRevisionsShown
 ms.assetid: 87b46681-dbc9-e38b-e20d-5da2a9a0456f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

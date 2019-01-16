@@ -8,6 +8,7 @@ api_name:
 - Word.Global.DDEInitiate
 ms.assetid: 4b27c9dc-6d81-50e7-968b-f583cd1f23b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

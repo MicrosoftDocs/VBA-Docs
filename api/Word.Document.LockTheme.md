@@ -8,6 +8,7 @@ api_name:
 - Word.Document.LockTheme
 ms.assetid: 7027bf16-3398-e232-8e61-bf4a0c10806e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

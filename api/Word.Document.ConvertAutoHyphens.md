@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ConvertAutoHyphens
 ms.assetid: ce9ad18c-881c-71c3-21bd-13c951c8e551
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

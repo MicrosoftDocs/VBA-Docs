@@ -8,6 +8,7 @@ api_name:
 - Word.CoAuthor.IsMe
 ms.assetid: bf6b8282-e114-8b6f-9e89-3bd93662d84e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.FarEastLineBreakLevel
 ms.assetid: 11642adb-2c15-a081-ae7c-d9ebe6d5b848
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

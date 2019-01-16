@@ -8,6 +8,7 @@ api_name:
 - Word.FormField.ExitMacro
 ms.assetid: b8930661-e02f-e058-571e-986da33a477d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

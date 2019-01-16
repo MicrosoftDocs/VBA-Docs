@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabels.ReadingOrder
 ms.assetid: f1c6f467-2d22-ade7-c4e3-fdabe9d08158
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

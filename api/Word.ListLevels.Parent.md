@@ -8,6 +8,7 @@ api_name:
 - Word.ListLevels.Parent
 ms.assetid: fce05204-f947-08da-b87a-8953c76560e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

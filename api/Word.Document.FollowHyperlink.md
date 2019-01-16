@@ -8,6 +8,7 @@ api_name:
 - Word.Document.FollowHyperlink
 ms.assetid: ef9a3993-a7b5-5668-e804-c9d1f4fdb7dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

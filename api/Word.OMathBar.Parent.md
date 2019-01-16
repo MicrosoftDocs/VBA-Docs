@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBar.Parent
 ms.assetid: 47b92a00-2e57-724e-e560-58ce092c95c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

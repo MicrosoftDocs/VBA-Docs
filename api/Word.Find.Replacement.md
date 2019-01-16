@@ -8,6 +8,7 @@ api_name:
 - Word.Find.Replacement
 ms.assetid: b0c728d6-4f2e-6c01-da95-ab59c79ce752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ListLevel.ResetOnHigher
 ms.assetid: 6623910d-94ac-62c7-8af5-5cc32ef9c88f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

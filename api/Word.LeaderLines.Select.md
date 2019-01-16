@@ -8,6 +8,7 @@ api_name:
 - Word.LeaderLines.Select
 ms.assetid: f35be016-9783-64c2-71bc-6ba4ee0c2131
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

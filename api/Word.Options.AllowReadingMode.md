@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AllowReadingMode
 ms.assetid: c570b6e8-9d38-7fd5-7cdb-fcd1743bbfe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

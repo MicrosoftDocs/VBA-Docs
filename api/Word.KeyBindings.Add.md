@@ -8,6 +8,7 @@ api_name:
 - Word.KeyBindings.Add
 ms.assetid: b73a8af4-6e8f-7613-a8a5-b0c9f7c995ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

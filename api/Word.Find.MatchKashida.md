@@ -8,6 +8,7 @@ api_name:
 - Word.Find.MatchKashida
 ms.assetid: 0806a135-2238-e33e-8d0f-b0788b40754c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

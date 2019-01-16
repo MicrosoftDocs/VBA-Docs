@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ComputeStatistics
 ms.assetid: f6f3c42d-b2c0-f0a8-857f-2a8e314f44fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

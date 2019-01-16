@@ -8,6 +8,7 @@ api_name:
 - Word.Document.RunAutoMacro
 ms.assetid: 8eee80a6-e347-2fbb-ec86-65d09e09c764
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.FillFormat.TextureOffsetY
 ms.assetid: 39d2448a-2de8-f3f7-168d-62dd3eb0ee3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

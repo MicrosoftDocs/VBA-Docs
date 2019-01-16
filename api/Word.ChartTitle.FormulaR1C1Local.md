@@ -8,6 +8,7 @@ api_name:
 - Word.ChartTitle.FormulaR1C1Local
 ms.assetid: d7beb687-f793-b1c1-0e15-1df48709431d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.PrintOut
 ms.assetid: bad3cd20-39e7-11b8-4a55-244bfcb6df24
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
