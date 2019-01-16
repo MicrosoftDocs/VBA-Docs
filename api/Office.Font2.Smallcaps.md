@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.Smallcaps
 ms.assetid: edc34db5-278e-61e9-9510-8acd3fd9ea2c
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

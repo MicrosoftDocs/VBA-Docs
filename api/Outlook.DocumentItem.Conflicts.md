@@ -8,6 +8,7 @@ api_name:
 - Outlook.DocumentItem.Conflicts
 ms.assetid: 1a6f9384-bc75-9079-d9ca-affbadc21855
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

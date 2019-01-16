@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.NameFarEast
 ms.assetid: 3f476612-615f-b1c4-625a-1a4fd67f7da9
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

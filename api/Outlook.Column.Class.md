@@ -8,6 +8,7 @@ api_name:
 - Outlook.Column.Class
 ms.assetid: c032c360-7a05-08fb-315a-cf5a95ef08fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

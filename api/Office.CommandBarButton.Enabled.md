@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarButton.Enabled
 ms.assetid: 264335ca-6506-0e86-16df-44af277ade83
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

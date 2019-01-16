@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: outlook
 ms.assetid: ecd78eb7-2ccf-29c3-00c2-641c1f5a4c78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

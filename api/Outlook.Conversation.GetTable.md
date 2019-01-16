@@ -8,6 +8,7 @@ api_name:
 - Outlook.Conversation.GetTable
 ms.assetid: 6c5a4ef5-c31d-6684-722a-f6f3b3fe6b55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.Class
 ms.assetid: 7c08cb72-fdbb-aac8-2691-382bfdae22c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

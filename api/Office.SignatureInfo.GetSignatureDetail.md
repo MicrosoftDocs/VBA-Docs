@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.GetSignatureDetail
 ms.assetid: 77a5a835-cc8a-0341-8e5d-6ddb603f9517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

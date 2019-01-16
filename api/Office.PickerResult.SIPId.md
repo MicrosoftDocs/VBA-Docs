@@ -8,6 +8,7 @@ api_name:
 - Office.PickerResult.SIPId
 ms.assetid: b1442592-1a6c-4f30-5242-2f2c080a6e46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

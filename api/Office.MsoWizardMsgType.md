@@ -5,6 +5,7 @@ api_name:
 - Office.MsoWizardMsgType
 ms.assetid: af88d063-45c9-8bf6-2707-dc27df02d3bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

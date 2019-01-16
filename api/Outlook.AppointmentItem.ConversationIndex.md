@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.ConversationIndex
 ms.assetid: 10748cab-d404-019e-1eaa-9aa8102a1ce0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

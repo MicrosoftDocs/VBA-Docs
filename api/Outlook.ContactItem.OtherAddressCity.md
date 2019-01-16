@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.OtherAddressCity
 ms.assetid: ab29f816-1434-658b-196b-a918a4234aa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

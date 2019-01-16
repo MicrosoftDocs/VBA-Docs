@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.Accelerator
 ms.assetid: 2604a27f-472b-ccc6-ad37-317ea0008a39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

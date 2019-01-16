@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.EntryID
 ms.assetid: 03d2684e-9608-f631-284d-ed63ce11c85a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

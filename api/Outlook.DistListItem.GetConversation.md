@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.GetConversation
 ms.assetid: 6f35b1f9-ae5c-411b-58c4-b06a74e29021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

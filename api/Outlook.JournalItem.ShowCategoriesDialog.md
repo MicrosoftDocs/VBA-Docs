@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.ShowCategoriesDialog
 ms.assetid: 3159ed4c-b272-764d-3ba7-ec5e7f8cd03e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

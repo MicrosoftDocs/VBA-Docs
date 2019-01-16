@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLPart.NodeAfterReplace
 ms.assetid: acb4a1d6-7928-5f6b-938a-1e56ea3db1b3
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

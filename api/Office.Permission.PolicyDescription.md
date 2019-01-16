@@ -8,6 +8,7 @@ api_name:
 - Office.Permission.PolicyDescription
 ms.assetid: 1ca10f9f-f03a-3a3f-2c12-21831a092f23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

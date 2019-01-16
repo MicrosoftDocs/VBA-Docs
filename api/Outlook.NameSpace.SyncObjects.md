@@ -8,6 +8,7 @@ api_name:
 - Outlook.NameSpace.SyncObjects
 ms.assetid: 0948f154-022f-b12e-87e3-1b3a4ce127c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.MsoControlOLEUsage
 ms.assetid: 1c25e2f0-693b-0fdf-c269-063ea58a941a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceFolder.Delete
 ms.assetid: 188fff3c-4af9-4ebb-b846-9158cf7667e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

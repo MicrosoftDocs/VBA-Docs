@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.LanguageSettings
 ms.assetid: 8367a51a-629f-3349-fe0b-a978b2bbc9a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

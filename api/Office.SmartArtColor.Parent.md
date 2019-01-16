@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArtColor.Parent
 ms.assetid: ae437c69-fff1-0c3d-49e3-b5f60bfe5c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

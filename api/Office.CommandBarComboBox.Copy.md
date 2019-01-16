@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarComboBox.Copy
 ms.assetid: 15eb757c-bb07-cd98-ff9e-1810db4f475c
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Label.ForeColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1454c43d-d4a7-20d9-2c88-2b1315d0efbb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

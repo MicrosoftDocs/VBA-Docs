@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.AddressEntryUserType
 ms.assetid: fb5b16be-8846-7c9f-22bf-847d2cfc0a54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

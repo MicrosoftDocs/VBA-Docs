@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.BusinessFaxNumber
 ms.assetid: 85468b34-1ad3-ecec-92ee-af6ca68616be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

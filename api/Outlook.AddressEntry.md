@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressEntry
 ms.assetid: d4a0a85e-8bab-bc56-57bc-d70c3c570c8e
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

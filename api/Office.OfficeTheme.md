@@ -5,6 +5,7 @@ api_name:
 - Office.OfficeTheme
 ms.assetid: 0cdffd48-30cb-b0e7-d9f6-a4c882f82c8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

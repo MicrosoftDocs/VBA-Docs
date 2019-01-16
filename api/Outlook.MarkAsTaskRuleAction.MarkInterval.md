@@ -8,6 +8,7 @@ api_name:
 - Outlook.MarkAsTaskRuleAction.MarkInterval
 ms.assetid: 4ea39101-8cb9-95cf-b5d7-d885a6610e73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

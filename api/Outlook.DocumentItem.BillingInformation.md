@@ -8,6 +8,7 @@ api_name:
 - Outlook.DocumentItem.BillingInformation
 ms.assetid: 5e5e6fa5-dbe6-55e0-d424-87b7068743ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

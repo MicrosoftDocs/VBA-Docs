@@ -8,6 +8,7 @@ api_name:
 - Outlook.Action.ReplyStyle
 ms.assetid: bb5e0d3d-29ca-33dd-b437-cf2526451352
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

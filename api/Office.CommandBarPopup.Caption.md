@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Caption
 ms.assetid: fc9221e6-cfb0-9f2a-290b-73a434569e65
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

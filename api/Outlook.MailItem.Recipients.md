@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.Recipients
 ms.assetid: 58897f66-8a6a-e1a9-7e3b-5a84624f899d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

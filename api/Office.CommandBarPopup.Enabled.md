@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Enabled
 ms.assetid: d56d2e1d-27b3-f375-95aa-9efa3aa4d734
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

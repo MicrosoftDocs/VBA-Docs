@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressEntries.GetPrevious
 ms.assetid: 3d5aa211-212e-9a97-58aa-47d4447c9f47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

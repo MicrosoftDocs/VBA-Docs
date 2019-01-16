@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarButton.IsPriorityDropped
 ms.assetid: 68398973-675f-2180-b22c-4ad5de0582f7
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

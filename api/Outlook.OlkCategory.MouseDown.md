@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCategory.MouseDown
 ms.assetid: c75c2b05-3f85-0f6d-a5d0-59ff43b5653c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

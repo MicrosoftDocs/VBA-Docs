@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.ReplyAll
 ms.assetid: 25a1723a-864b-1526-9897-26e40042f119
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

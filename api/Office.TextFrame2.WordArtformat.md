@@ -5,6 +5,7 @@ api_name:
 - Office.TextFrame2.WordArtformat
 ms.assetid: b9d6c36d-e353-940f-4984-1f5ed3cf165c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

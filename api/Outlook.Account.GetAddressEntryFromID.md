@@ -8,6 +8,7 @@ api_name:
 - Outlook.Account.GetAddressEntryFromID
 ms.assetid: 5aa9c67e-579f-5519-ed38-c80009cf506b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

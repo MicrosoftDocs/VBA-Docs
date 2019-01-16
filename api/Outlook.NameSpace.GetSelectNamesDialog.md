@@ -8,6 +8,7 @@ api_name:
 - Outlook.NameSpace.GetSelectNamesDialog
 ms.assetid: 883d90e0-b3cc-e76e-cbe6-cb271e9ccb37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

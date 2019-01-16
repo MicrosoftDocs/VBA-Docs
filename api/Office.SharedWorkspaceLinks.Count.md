@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceLinks.Count
 ms.assetid: c3e490fe-7173-9046-5c7b-18f74a3a25b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

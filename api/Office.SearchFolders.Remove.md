@@ -8,6 +8,7 @@ api_name:
 - Office.SearchFolders.Remove
 ms.assetid: f268c0e5-17c0-4302-1ef3-3c352604b292
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

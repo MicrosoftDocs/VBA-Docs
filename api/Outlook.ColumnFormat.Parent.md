@@ -8,6 +8,7 @@ api_name:
 - Outlook.ColumnFormat.Parent
 ms.assetid: 7f90eaba-9ba5-2bf6-91a3-3872ee052d4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

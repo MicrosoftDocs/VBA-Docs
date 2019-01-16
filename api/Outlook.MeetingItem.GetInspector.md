@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.GetInspector
 ms.assetid: 5e170a6a-6857-ca24-4c14-1e2bc046fd2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

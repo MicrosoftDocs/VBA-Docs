@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.Class
 ms.assetid: 7c79286b-13cd-7fb7-c70f-ac12245f9f75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

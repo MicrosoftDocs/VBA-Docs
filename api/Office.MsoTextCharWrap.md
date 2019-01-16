@@ -5,6 +5,7 @@ api_name:
 - Office.MsoTextCharWrap
 ms.assetid: 469b96d7-14ec-7bdc-2800-d7de83bd74e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.OfficeDataSourceObject.Columns
 ms.assetid: 02a3eb37-df7a-923a-6a98-dbb980b413f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

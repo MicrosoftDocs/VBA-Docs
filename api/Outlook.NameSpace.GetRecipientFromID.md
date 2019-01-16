@@ -8,6 +8,7 @@ api_name:
 - Outlook.NameSpace.GetRecipientFromID
 ms.assetid: 8475e869-ce1f-cd10-0c02-79a6dd5f9a8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

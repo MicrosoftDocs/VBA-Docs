@@ -8,6 +8,7 @@ api_name:
 - Outlook.DocumentItem.Display
 ms.assetid: 828924eb-ab76-4db1-5ae4-d0296d56996e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

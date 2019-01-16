@@ -8,6 +8,7 @@ api_name:
 - Outlook.NoteItem.SaveAs
 ms.assetid: 9f7c5e1b-2f66-d842-eaba-e61767728e54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

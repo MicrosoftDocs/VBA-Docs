@@ -8,6 +8,7 @@ api_name:
 - Outlook.BusinessCardView.Language
 ms.assetid: 4ddc6c63-3402-15ae-bcb7-7eab0d423bb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

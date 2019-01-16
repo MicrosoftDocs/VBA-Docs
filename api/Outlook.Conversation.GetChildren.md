@@ -8,6 +8,7 @@ api_name:
 - Outlook.Conversation.GetChildren
 ms.assetid: bc68ccd6-9d3c-c404-72b0-a21dbc99ed63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

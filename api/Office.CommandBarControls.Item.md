@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBarControls.Item
 ms.assetid: a2e7339c-bf1e-0c58-c28d-19cf5682291a
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

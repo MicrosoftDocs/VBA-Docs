@@ -8,6 +8,7 @@ api_name:
 - Office.ODSOFilters.Item
 ms.assetid: eff21bc3-dc55-82a4-d405-2d4842c8bfa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

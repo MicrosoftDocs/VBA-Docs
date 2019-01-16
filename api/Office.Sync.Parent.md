@@ -8,6 +8,7 @@ api_name:
 - Office.Sync.Parent
 ms.assetid: 16d56781-dc1e-5d02-b679-11b5ffd70269
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

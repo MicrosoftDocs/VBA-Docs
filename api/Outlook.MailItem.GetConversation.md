@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.GetConversation
 ms.assetid: f2017571-087c-1e83-4003-cb95097d43da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

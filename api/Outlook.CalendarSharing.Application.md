@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarSharing.Application
 ms.assetid: 79e3b412-dd45-d1c4-5338-7b7af4025df9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

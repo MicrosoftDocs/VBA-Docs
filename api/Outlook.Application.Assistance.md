@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.Assistance
 ms.assetid: 14d6eb82-82ab-ea67-6a0b-103a535b8d41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

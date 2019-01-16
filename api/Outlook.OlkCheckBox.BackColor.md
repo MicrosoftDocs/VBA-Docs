@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCheckBox.BackColor
 ms.assetid: be19b158-e81e-0979-40e2-e6b98480f416
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.Filter
 ms.assetid: 2ac2ed8b-9ce9-60a1-7b6a-b136c0d0ffff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

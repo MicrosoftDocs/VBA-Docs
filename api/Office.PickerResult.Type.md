@@ -8,6 +8,7 @@ api_name:
 - Office.PickerResult.Type
 ms.assetid: e7e0356a-7d21-c9f4-81f3-4ac096c5ab4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.COMAddIn.Connect
 ms.assetid: b1392380-c19f-ab3e-c9dc-c62438b16500
 ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.Signature.IsSigned
 ms.assetid: ddaa2ad6-26ce-35d7-ed69-9faef04b7a31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

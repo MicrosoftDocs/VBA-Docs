@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.ReminderOverrideDefault
 ms.assetid: 652e4cf9-9183-0940-4376-2a1ba4337bb5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

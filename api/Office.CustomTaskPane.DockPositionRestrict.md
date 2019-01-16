@@ -8,6 +8,7 @@ api_name:
 - Office.CustomTaskPane.DockPositionRestrict
 ms.assetid: 30378c40-a3b1-0482-146a-d95564760673
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

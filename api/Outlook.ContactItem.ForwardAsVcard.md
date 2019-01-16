@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ForwardAsVcard
 ms.assetid: 3d4f0154-9860-823f-c316-c88e410b59c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

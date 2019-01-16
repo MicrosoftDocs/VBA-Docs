@@ -8,6 +8,7 @@ api_name:
 - Outlook.NavigationModule.Application
 ms.assetid: 13ee6749-f9b7-b164-3b44-e4531a244342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

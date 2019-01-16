@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ComputerNetworkName
 ms.assetid: 3042c37b-08b5-25d6-f83d-f038789f844a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
