@@ -8,6 +8,7 @@ api_name:
 - Visio.ServerPublishOptions.Stat
 ms.assetid: 2a9c3a1a-ece6-9fd5-d470-eee7f9db8c57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

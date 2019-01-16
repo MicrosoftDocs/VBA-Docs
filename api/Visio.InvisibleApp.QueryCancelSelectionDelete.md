@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.QueryCancelSelectionDelete
 ms.assetid: bb47348e-d3cd-b600-12c5-01600bff96ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Row
 ms.assetid: d3956bc6-ab74-5e85-2130-cc5ccf64f664
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.GeometryCount
 ms.assetid: 4dffe649-3629-6e3e-bcc0-d860eb1efdbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

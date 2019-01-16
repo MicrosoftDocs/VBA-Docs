@@ -8,6 +8,7 @@ api_name:
 - Word.Bookmark.Select
 ms.assetid: dbb9fe8b-fa47-e105-5beb-cf512079e4d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

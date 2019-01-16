@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Distribute
 ms.assetid: 7750167b-b4ef-c1b6-68f4-1f40ab1fd33e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

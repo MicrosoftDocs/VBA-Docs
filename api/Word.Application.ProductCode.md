@@ -8,6 +8,7 @@ api_name:
 - Word.Application.ProductCode
 ms.assetid: 3913ee8b-291b-e81c-b106-01007738c7a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

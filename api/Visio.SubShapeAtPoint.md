@@ -5,6 +5,7 @@ api_name:
 - Visio.SubShapeAtPoint
 ms.assetid: ffb35fad-33ee-30d0-680f-008418b58864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

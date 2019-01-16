@@ -8,6 +8,7 @@ api_name:
 - Visio.Hyperlink.AddToFavorites
 ms.assetid: 21a86316-6a59-dc7e-b4f1-0a3d034ba32a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

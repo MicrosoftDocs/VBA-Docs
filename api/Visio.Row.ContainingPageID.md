@@ -8,6 +8,7 @@ api_name:
 - Visio.Row.ContainingPageID
 ms.assetid: 28a8e54d-fb2c-e6b6-ab18-ec71dc06eca5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

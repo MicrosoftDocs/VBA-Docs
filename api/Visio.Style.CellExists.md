@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.CellExists
 ms.assetid: 886e2988-7ee1-4d82-4cca-69e0087712ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

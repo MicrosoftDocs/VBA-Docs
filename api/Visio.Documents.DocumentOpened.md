@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.DocumentOpened
 ms.assetid: bb5d7346-27bc-efa0-e230-e28a5dbb60e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

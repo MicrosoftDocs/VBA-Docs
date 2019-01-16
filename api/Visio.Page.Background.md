@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.Background
 ms.assetid: fee785fd-2872-a64e-a80e-46034255b414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

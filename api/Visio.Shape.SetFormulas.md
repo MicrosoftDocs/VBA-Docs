@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.SetFormulas
 ms.assetid: b2371ff1-4742-e178-3606-133c9c8a1937
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Visio.ZoomToPoint
 ms.assetid: 3eb5c8f9-ced0-a35b-172a-337f25a68d98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

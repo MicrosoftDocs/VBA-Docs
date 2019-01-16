@@ -8,6 +8,7 @@ api_name:
 - Word.CalloutFormat.Parent
 ms.assetid: 179a8215-a10c-3a76-3a16-5d6c2a9bd18c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

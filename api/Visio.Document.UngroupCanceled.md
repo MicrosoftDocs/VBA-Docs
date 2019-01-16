@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.UngroupCanceled
 ms.assetid: e7ba2c59-b43c-e89f-7921-0a2e624bcad5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

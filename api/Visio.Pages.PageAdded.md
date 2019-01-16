@@ -8,6 +8,7 @@ api_name:
 - Visio.Pages.PageAdded
 ms.assetid: 59268803-17a2-e1fd-70da-45506b9076a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

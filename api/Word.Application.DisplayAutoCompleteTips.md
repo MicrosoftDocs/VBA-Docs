@@ -8,6 +8,7 @@ api_name:
 - Word.Application.DisplayAutoCompleteTips
 ms.assetid: 1ffcf473-d6f5-e2e7-c02c-0038b3fd3004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

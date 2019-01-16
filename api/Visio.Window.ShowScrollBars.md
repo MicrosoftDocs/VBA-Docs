@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.ShowScrollBars
 ms.assetid: 46be2c47-d9b0-c3d8-6f8b-cc728feb4ccb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

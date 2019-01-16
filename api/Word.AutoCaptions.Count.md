@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCaptions.Count
 ms.assetid: 937576fd-aa1c-a708-f902-0e222d52cd20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

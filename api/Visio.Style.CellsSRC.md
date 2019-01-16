@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.CellsSRC
 ms.assetid: dedf7945-6ed2-80d7-9433-46d83b0c5dda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

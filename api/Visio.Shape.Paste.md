@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.Paste
 ms.assetid: ce5892be-b5e7-2ca0-7ee1-aa4e602641a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

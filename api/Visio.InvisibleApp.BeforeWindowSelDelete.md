@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforeWindowSelDelete
 ms.assetid: 3d40231f-a158-7f44-9b2f-ef958fd3e1a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

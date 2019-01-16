@@ -8,6 +8,7 @@ api_name:
 - Word.Axes.Creator
 ms.assetid: 09557e5f-fd81-c7f4-a2a3-b842ef05a5d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

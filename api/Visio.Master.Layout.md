@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.Layout
 ms.assetid: acab2dc3-daf8-57c2-cbf8-edf647a12a09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.IncludesLine
 ms.assetid: be5bdf69-4fad-6322-6e9c-52e36981a215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

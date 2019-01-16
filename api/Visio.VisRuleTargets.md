@@ -8,6 +8,7 @@ api_name:
 - Visio.VisRuleTargets
 ms.assetid: bcc34e7d-36f4-e6d9-062d-3a8e901a6609
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

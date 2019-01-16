@@ -8,6 +8,7 @@ api_name:
 - Word.Application.ProtectedViewWindowBeforeClose
 ms.assetid: 4557dd3d-b795-94d9-ee53-5e83dcdd03d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

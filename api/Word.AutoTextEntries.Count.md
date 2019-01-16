@@ -8,6 +8,7 @@ api_name:
 - Word.AutoTextEntries.Count
 ms.assetid: 88dd1f25-230c-fdf3-88e1-5de3160db761
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

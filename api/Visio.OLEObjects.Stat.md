@@ -8,6 +8,7 @@ api_name:
 - Visio.OLEObjects.Stat
 ms.assetid: ce8afa94-f3fb-4c4f-b3f0-4eef01a2e17e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

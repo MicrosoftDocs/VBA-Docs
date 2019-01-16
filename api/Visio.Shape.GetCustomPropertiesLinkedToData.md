@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.GetCustomPropertiesLinkedToData
 ms.assetid: 8a0d783d-f5ee-d6c0-adbd-377cbe65e5f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

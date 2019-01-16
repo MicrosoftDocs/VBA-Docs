@@ -8,6 +8,7 @@ api_name:
 - Visio.VisResizeDirection
 ms.assetid: 912ad752-b614-b195-11fd-2c49b9dd5795
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

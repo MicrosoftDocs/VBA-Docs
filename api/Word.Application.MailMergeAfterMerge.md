@@ -8,6 +8,7 @@ api_name:
 - Word.Application.MailMergeAfterMerge
 ms.assetid: 6eed8afa-efe6-0eba-6ab8-6c3ffc4e812d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.ContainingMasterID
 ms.assetid: 9f9aad28-3e77-8ef8-29dc-e53852adf63d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

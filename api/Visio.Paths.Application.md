@@ -8,6 +8,7 @@ api_name:
 - Visio.Paths.Application
 ms.assetid: d5439015-9efb-46ea-49a8-7f08c4d82a14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

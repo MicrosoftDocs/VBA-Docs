@@ -8,6 +8,7 @@ api_name:
 - Word.AddIn.Parent
 ms.assetid: 21a3386c-f8f3-2c25-930d-8c437f7be121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

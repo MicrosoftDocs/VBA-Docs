@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.HyperlinkBase
 ms.assetid: cde4801e-269d-b6d3-aee1-d95b2e36bfd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

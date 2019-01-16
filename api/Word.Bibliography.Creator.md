@@ -8,6 +8,7 @@ api_name:
 - Word.Bibliography.Creator
 ms.assetid: d836d894-c8f4-d6e6-c1de-e7c0f29aa918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

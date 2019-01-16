@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.IncludesFill
 ms.assetid: c9e12963-12be-7573-cb6e-69260191b061
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

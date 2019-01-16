@@ -8,6 +8,7 @@ api_name:
 - Word.Border.ArtWidth
 ms.assetid: c99ad844-3a47-6291-b84f-d11db78c1f8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

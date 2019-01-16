@@ -8,6 +8,7 @@ api_name:
 - Visio.Font.ObjectType
 ms.assetid: ed363d74-0158-ea77-72b2-d7a1beaa0c3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

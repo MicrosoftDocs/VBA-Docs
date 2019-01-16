@@ -8,6 +8,7 @@ api_name:
 - Visio.Masters.SelectionAdded
 ms.assetid: 51a863e6-16ff-f7f1-922f-605631486176
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

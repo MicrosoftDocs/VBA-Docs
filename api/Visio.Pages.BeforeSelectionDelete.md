@@ -8,6 +8,7 @@ api_name:
 - Visio.Pages.BeforeSelectionDelete
 ms.assetid: 2c0ad4cf-f734-f5f2-1fea-c5ce846cfd05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

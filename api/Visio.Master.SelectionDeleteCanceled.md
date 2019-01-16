@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.SelectionDeleteCanceled
 ms.assetid: 87ecdfcb-616f-0b47-bfa4-216ef456deaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

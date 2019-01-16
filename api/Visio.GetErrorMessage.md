@@ -5,6 +5,7 @@ api_name:
 - Visio.GetErrorMessage
 ms.assetid: 31ede4e5-a7ea-c2b8-784e-2e4c7e8bd9ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

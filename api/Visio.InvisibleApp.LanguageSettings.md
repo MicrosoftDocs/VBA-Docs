@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.LanguageSettings
 ms.assetid: 0aff05cd-7655-0671-9c43-e45988c5a172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Visio.SilentMode
 ms.assetid: 93161e3b-3469-3b86-5143-3ea42229eeea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

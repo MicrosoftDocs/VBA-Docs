@@ -8,6 +8,7 @@ api_name:
 - Visio.Toolbars.Count
 ms.assetid: 7bfd1174-2b99-fc47-4070-d9fd725bf3d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

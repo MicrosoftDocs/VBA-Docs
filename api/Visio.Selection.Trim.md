@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Trim
 ms.assetid: 0063d29a-3e47-bb2b-71fd-328c19a0a65b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

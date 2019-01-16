@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.AutomaticLink
 ms.assetid: 6943b2b1-269a-7759-d981-a3749cfbeaee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Offset
 ms.assetid: 69eb7288-0540-18aa-9c71-96735018442e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.ToolbarItem.PaletteWidth
 ms.assetid: bb3356d9-bfa3-c2e5-129f-70c0b225add6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.BoundingBox
 ms.assetid: 5ec076c3-5720-9215-16ef-8da0e674f86f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

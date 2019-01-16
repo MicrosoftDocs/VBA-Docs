@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.AlignName
 ms.assetid: 5df055eb-ddb1-2d2a-1d94-93781960b3a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DropManyLinkedU
 ms.assetid: 0b80591a-a563-bdad-b048-e15693410547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

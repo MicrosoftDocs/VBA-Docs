@@ -8,6 +8,7 @@ api_name:
 - Word.Application.ListCommands
 ms.assetid: 425abd0f-c9c4-c4ab-b308-e7876ace5778
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

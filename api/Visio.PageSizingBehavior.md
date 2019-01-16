@@ -8,6 +8,7 @@ api_name:
 - Visio.PageSizingBehavior
 ms.assetid: a16e860c-f60a-73b6-c978-7a5d70ccaa25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

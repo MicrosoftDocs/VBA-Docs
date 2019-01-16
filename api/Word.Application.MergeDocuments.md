@@ -8,6 +8,7 @@ api_name:
 - Word.Application.MergeDocuments
 ms.assetid: 445fe4df-a41a-6be0-f646-d310c71ec25e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

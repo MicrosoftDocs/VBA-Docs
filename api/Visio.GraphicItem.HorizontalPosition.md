@@ -8,6 +8,7 @@ api_name:
 - Visio.GraphicItem.HorizontalPosition
 ms.assetid: 268c461f-0290-3e3b-98f4-fa15bc902fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

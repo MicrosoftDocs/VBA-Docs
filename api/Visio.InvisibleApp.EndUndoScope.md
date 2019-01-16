@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.EndUndoScope
 ms.assetid: 307287e8-3300-457a-bf00-c24b59eb0cac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

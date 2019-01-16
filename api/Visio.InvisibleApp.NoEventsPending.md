@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.NoEventsPending
 ms.assetid: 65947eae-69de-3220-e4e5-5edf5b6ad242
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
