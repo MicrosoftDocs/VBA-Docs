@@ -3,6 +3,7 @@ title: Concepts (Visio VBA reference)
 ms.prod: visio
 ms.assetid: dd3742ff-6753-11b5-dbbc-cc6ff467146f
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 

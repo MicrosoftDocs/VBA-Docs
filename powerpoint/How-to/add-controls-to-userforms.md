@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: powerpoint
 ms.assetid: bf39448d-5095-63dd-9b22-bbc3aa1391e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

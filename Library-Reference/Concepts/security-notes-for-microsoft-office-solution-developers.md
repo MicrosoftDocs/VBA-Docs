@@ -3,6 +3,7 @@ title: Security notes for Office solution developers
 ms.prod: office
 ms.assetid: 076ce284-5d1d-4823-ba74-f5e5c05bae9b
 ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 

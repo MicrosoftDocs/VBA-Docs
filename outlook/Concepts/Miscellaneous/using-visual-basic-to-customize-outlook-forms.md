@@ -3,6 +3,7 @@ title: Using Visual Basic to Customize Outlook Forms
 ms.prod: outlook
 ms.assetid: 830f7561-9370-4937-ab77-b8ff406880f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

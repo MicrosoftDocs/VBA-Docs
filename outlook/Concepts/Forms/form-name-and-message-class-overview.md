@@ -3,6 +3,7 @@ title: Form Name and Message Class Overview
 ms.prod: outlook
 ms.assetid: 8f72a998-b0c8-86ba-072b-5326ea785578
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Show or Hide the Control Toolbox
 ms.prod: outlook
 ms.assetid: f9ef4ea1-a403-040a-e162-1bcf263a027f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

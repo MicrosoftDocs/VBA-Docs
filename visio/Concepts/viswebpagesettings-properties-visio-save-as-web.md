@@ -4,6 +4,7 @@ ms.prod: visio
 ms.assetid: 98f55da6-4ac5-4a6c-94bc-dfd669be9f56
 ROBOTS: NOINDEX
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
