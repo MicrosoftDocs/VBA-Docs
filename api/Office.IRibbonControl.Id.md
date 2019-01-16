@@ -18,9 +18,9 @@ Gets the ID of the control specified in the Ribbon XML markup customization file
 
 ## Syntax
 
-_expression_. `Id`
+_expression_.**Id**
 
- _expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md) object.
+_expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md)** object.
 
 
 ## Return value

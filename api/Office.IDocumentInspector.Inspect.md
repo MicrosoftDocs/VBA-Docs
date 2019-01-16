@@ -15,19 +15,17 @@ Inspects a document for specific information items or document properties by usi
 
 ## Syntax
 
-_expression_. `Inspect`( `_Doc_`, `_Status_`, `_Result_`, `_Action_` )
+_expression_.**Inspect** (_Doc_, _Status_, _Result_, _Action_)
 
- _expression_ An expression that returns an **[IDocumentInspector](Office.IDocumentInspector.md) object.
+_expression_ An expression that returns an **[IDocumentInspector](Office.IDocumentInspector.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Doc_|Required|**Object**|An object representing the container document.|
-| _Status_|Required|**MsoDocInspectorStatus**|An enumeration that represents the results of the inspection.|
+| _Status_|Required|**[MsoDocInspectorStatus](office.msodocinspectorstatus.md)**|An enumeration that represents the results of the inspection.|
 | _Result_|Required|**String**|Contains a list of the information items or document properties found in the document.|
 | _Action_|Required|**String**|Indicates to the user what action to take based on the results of the inspection.|
 
@@ -38,10 +36,7 @@ _expression_. `Inspect`( `_Doc_`, `_Status_`, `_Result_`, `_Action_` )
 
 ## Remarks
 
-MsoDocInspectorStatus members
-
-> [!NOTE] 
-> The  **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
+The **IDocumentInspector** object is for the exclusive use of custom Document Inspector module authors and cannot be used with Visual Basic for Applications (VBA).
 
 
 ## See also

@@ -13,14 +13,14 @@ ms.date: 01/16/2019
 
 # IMsoContactCard.Address property (Office)
 
-Represents the address in a Contact card. Read-only
+Represents the address in a Contact card. Read-only.
 
 
 ## Syntax
 
-_expression_. `Address`
+_expression_.**Address**
 
- _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md) object.
+_expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md)** object.
 
 
 ## See also

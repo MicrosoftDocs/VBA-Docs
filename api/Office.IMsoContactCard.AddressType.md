@@ -13,27 +13,15 @@ ms.date: 01/16/2019
 
 # IMsoContactCard.AddressType property (Office)
 
-A  **MsoContactCardAddressType** value that represents the address type for the **ContactCard** object. Read-only
+An **[MsoContactCardAddressType](office.msocontactcardaddresstype.md)** value that represents the address type for the **ContactCard** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `AddressType`
+_expression_.**AddressType**
 
- _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md) object.
+_expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md)** object.
 
-
-## Remarks
-
-The  **MsoContactCardAddressType** enumeration consists of the following members:
-
-
-
-|**Enumeration**|**Description**|
-|:-----|:-----|
-|**msoContactCardAddressTypeOutlook**|Represents a unique identifier for an Outlook address.|
-|**msoContactCardAddressTypeSMTP**|Represents a unique identifier for an SMTP address.|
-|**msoContactCardAddressTypeIM**|Represents a unique identifier for an IM address.|
 
 ## See also
 

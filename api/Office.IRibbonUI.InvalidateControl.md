@@ -18,14 +18,12 @@ Invalidates the cached value for a single control on the Ribbon user interface.
 
 ## Syntax
 
-_expression_. `InvalidateControl`( `_bstrControlID_` )
+_expression_.**InvalidateControl** (_bstrControlID_)
 
- _expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md) object.
+_expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,12 +31,14 @@ _expression_. `InvalidateControl`( `_bstrControlID_` )
 
 ## Remarks
 
-You can customize the Ribbon UI by using callback procedures in COM add-ins. For each of the callbacks the add-in implements, the responses are cached. For example, if an add-in writer implements the  **getImage** callback procedure for a button, the function is called once, the image loads, and then if the image needs to be updated, the cached image is used instead of recalling the procedure. This process remains in-place for the control until the add-in signals that the cached values are invalid by using the **InvalidateControl** method, at which time, the callback procedure is again called and the return response is cached.
+You can customize the Ribbon UI by using callback procedures in COM add-ins. For each of the callbacks that the add-in implements, the responses are cached. 
+
+For example, if an add-in writer implements the **getImage** callback procedure for a button, the function is called once, the image loads, and then if the image needs to be updated, the cached image is used instead of recalling the procedure. This process remains in place for the control until the add-in signals that the cached values are invalid by using the **InvalidateControl** method, at which time, the callback procedure is again called and the return response is cached.
 
 
 ## Example
 
-In the following example, starting the host application triggers the  **onLoad** event procedure that then calls a procedure which creates an object representing the Ribbon UI. Next, a callback procedure is defined that invalidates a control on the UI and then refreshes the UI.
+In the following example, starting the host application triggers the **onLoad** event procedure that then calls a procedure that creates an object representing the Ribbon UI. Next, a callback procedure is defined that invalidates a control on the UI and then refreshes the UI.
 
 
 ```xml

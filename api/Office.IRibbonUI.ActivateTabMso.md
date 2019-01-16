@@ -18,14 +18,12 @@ Activates the specified built-in tab.
 
 ## Syntax
 
-_expression_. `ActivateTabMso`( `_ControlID_` )
+_expression_.**ActivateTabMso** (_ControlID_)
 
- _expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md) object.
+_expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,7 +36,7 @@ Nothing
 
 ## Example
 
-The following code make a built-in tab as specified by the control ID the active tab.
+The following code makes a built-in tab as specified by the control ID of the active tab.
 
 
 ```vb

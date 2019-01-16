@@ -18,18 +18,16 @@ Used to invalidate a built-in control.
 
 ## Syntax
 
-_expression_. `InvalidateControlMso`( `_ControlID_` )
+_expression_.**InvalidateControlMso** (_ControlID_)
 
- _expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md) object.
+_expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md)** object.
 
 
 ## Parameters
 
-
-
-|Name|Required/Optional|Data type|Description|
-|:-----|:-----|:-----|:-----|
-| _ControlID_|Required|**String**||
+|Name|Required/Optional|Data type|
+|:-----|:-----|:-----|
+| _ControlID_|Required|**String**|
 
 ## Return value
 

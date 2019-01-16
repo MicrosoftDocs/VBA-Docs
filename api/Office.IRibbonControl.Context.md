@@ -18,9 +18,9 @@ Represents the active window containing the Ribbon user interface that triggers 
 
 ## Syntax
 
-_expression_. `Context`
+_expression_.**Context**
 
- _expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md) object.
+_expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md)** object.
 
 
 ## Return value

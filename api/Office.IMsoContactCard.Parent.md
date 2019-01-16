@@ -13,14 +13,14 @@ ms.date: 01/16/2019
 
 # IMsoContactCard.Parent property (Office)
 
-Returns the calling object. Read-only
+Returns the calling object. Read-only.
 
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
- _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md) object.
+_expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContactCard.md)** object.
 
 
 ## See also

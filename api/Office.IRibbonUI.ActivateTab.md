@@ -18,14 +18,12 @@ Activates the specified custom tab. This method returns S_FALSE if there is no R
 
 ## Syntax
 
-_expression_. `ActivateTab`( `_ControlID_` )
+_expression_.**ActivateTab** (_ControlID_)
 
- _expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md) object.
+_expression_ An expression that returns an **[IRibbonUI](Office.IRibbonUI.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +37,6 @@ Nothing
 ## Example
 
 The following code makes the custom tab the active tab.
-
 
 ```vb
 Public myRibbon As IRibbonUI 
