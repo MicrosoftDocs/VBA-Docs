@@ -8,6 +8,7 @@ api_name:
 - Word.Row.NestingLevel
 ms.assetid: ad67f444-7d9c-a749-0cff-811aa5f30697
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

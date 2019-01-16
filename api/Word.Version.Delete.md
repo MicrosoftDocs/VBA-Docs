@@ -8,6 +8,7 @@ api_name:
 - Word.Version.Delete
 ms.assetid: 51ee32ab-afa9-71f4-216b-996eba46f946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

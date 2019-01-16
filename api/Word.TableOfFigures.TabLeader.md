@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfFigures.TabLeader
 ms.assetid: c806034e-f226-0be8-aa29-25f9b85b2a39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

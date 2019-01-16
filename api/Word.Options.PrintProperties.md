@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PrintProperties
 ms.assetid: 4abdc270-2230-6ef6-456a-a571bc5345af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

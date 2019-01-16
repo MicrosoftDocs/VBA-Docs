@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.EndnoteOptions
 ms.assetid: 23b7263c-7322-3221-6436-ee0c614fa577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

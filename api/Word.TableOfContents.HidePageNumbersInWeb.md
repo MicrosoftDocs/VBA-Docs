@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfContents.HidePageNumbersInWeb
 ms.assetid: 81d77980-099e-e048-b219-d10b64cd6a38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.TypeText
 ms.assetid: fb8e58cc-0c49-0efa-d60a-8be6c3d4435c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

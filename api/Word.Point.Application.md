@@ -8,6 +8,7 @@ api_name:
 - Word.Point.Application
 ms.assetid: 9aa40408-6ec0-ca1f-4cb8-8de01729255a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

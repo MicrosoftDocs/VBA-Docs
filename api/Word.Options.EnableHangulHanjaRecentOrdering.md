@@ -8,6 +8,7 @@ api_name:
 - Word.Options.EnableHangulHanjaRecentOrdering
 ms.assetid: 2b34789f-2bbb-b062-c3da-157f5d51cce8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

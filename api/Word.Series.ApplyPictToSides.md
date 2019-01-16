@@ -8,6 +8,7 @@ api_name:
 - Word.Series.ApplyPictToSides
 ms.assetid: b8277abd-64c6-2b1c-23e6-5ff8c21619fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

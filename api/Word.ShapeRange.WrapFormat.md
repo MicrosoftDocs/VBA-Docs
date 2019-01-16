@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.WrapFormat
 ms.assetid: e031fbdb-c02e-a76e-32a7-9d87a50e5208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

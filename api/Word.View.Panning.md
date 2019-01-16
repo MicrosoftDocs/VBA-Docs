@@ -8,6 +8,7 @@ api_name:
 - Word.View.Panning
 ms.assetid: 04625c86-146a-ece3-369a-bbe81af45aec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

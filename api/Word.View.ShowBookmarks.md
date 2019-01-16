@@ -8,6 +8,7 @@ api_name:
 - Word.View.ShowBookmarks
 ms.assetid: 20261163-6714-8361-b76d-34570868954b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

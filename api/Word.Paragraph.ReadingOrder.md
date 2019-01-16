@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.ReadingOrder
 ms.assetid: acc70d54-2420-4c03-ab5e-1604f85a6f66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

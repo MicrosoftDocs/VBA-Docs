@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeNodes.SetSegmentType
 ms.assetid: 8afa8b4b-73bf-e64b-b6fa-427e891a9e07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

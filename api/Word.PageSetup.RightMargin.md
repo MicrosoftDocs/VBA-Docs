@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.RightMargin
 ms.assetid: abaabc8b-bb3f-fe68-ca35-d06f74d06791
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

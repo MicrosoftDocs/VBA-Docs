@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.ClearCharacterStyle
 ms.assetid: ff9795f9-ea74-fa03-5d87-9c56152d179d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

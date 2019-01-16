@@ -8,6 +8,7 @@ api_name:
 - Word.Range.ListParagraphs
 ms.assetid: d581249c-1f63-9043-8d8c-32b0e3bb2a5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.StrictInitialAlefHamza
 ms.assetid: 1b575deb-0655-af33-ef72-c7ee5f9021f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

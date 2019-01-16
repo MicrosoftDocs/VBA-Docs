@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.ConvertToInlineShape
 ms.assetid: 367b6d36-dd62-aa2b-62df-d5f42ac2699c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

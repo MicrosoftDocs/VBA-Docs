@@ -8,6 +8,7 @@ api_name:
 - Word.Subdocument
 ms.assetid: ed966369-34f6-ef0c-d6d6-4c86baff4793
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

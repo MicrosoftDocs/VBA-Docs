@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Cells
 ms.assetid: 4b808b86-42ba-ccb4-b19a-87b134df3b79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

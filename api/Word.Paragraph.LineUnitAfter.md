@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.LineUnitAfter
 ms.assetid: 08abe0e4-4171-9d00-aedc-f714e4f2e60d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

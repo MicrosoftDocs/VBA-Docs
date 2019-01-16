@@ -8,6 +8,7 @@ api_name:
 - Word.TableStyle.TableDirection
 ms.assetid: 3569f6a0-6339-b9ae-3e0d-dc1f1cadb777
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

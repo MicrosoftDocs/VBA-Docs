@@ -8,6 +8,7 @@ api_name:
 - Word.StyleSheet.Type
 ms.assetid: 2f0dfc8a-4a49-0ec1-d974-a6aad6ac5849
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

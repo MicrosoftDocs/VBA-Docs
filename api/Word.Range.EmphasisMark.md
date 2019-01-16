@@ -8,6 +8,7 @@ api_name:
 - Word.Range.EmphasisMark
 ms.assetid: 6f0f7d19-efba-8fee-7e6c-abb1defe8529
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

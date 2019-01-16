@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.Borders
 ms.assetid: 94292676-82cc-3975-d2e7-671d8d80c889
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

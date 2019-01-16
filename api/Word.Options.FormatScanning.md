@@ -8,6 +8,7 @@ api_name:
 - Word.Options.FormatScanning
 ms.assetid: 7557b88e-2f16-47e9-cc3b-05019dba9896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

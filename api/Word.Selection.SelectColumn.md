@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.SelectColumn
 ms.assetid: a8e742df-0a8e-739d-e71a-da2536b6abec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

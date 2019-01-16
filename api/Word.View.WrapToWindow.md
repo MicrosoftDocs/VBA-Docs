@@ -8,6 +8,7 @@ api_name:
 - Word.View.WrapToWindow
 ms.assetid: f596f4e6-c404-3b58-93a8-8aca79b60b66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

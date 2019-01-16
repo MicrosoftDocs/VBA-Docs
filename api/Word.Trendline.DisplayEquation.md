@@ -8,6 +8,7 @@ api_name:
 - Word.Trendline.DisplayEquation
 ms.assetid: c5534224-f7ff-2899-0d45-2c9fca8afbd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

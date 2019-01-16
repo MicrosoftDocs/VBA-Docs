@@ -8,6 +8,7 @@ api_name:
 - Word.WrapFormat.Parent
 ms.assetid: 7860c17b-bf3c-a9d7-a8ae-eedd6a1dd3d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

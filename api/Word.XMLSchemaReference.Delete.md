@@ -8,6 +8,7 @@ api_name:
 - Word.XMLSchemaReference.Delete
 ms.assetid: e14111b7-1a14-ed0f-762e-4dbdb9a4e483
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.Count
 ms.assetid: 6e326ef4-2a5e-dd90-a1bb-c2b6d59006e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

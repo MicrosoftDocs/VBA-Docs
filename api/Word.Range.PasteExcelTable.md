@@ -8,6 +8,7 @@ api_name:
 - Word.Range.PasteExcelTable
 ms.assetid: 2f682b61-6980-4287-5512-6cef62390b70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

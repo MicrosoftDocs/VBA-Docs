@@ -8,6 +8,7 @@ api_name:
 - Word.View.FieldShading
 ms.assetid: 4e699444-0946-5d58-cf87-456b4bf49be5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

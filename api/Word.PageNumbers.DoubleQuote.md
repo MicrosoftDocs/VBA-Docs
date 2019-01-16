@@ -8,6 +8,7 @@ api_name:
 - Word.PageNumbers.DoubleQuote
 ms.assetid: 38a63f94-2a47-cea5-69a8-16616458fb9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Range.PasteSpecial
 ms.assetid: 76d074ee-f0d8-8bdd-e7c2-d0aa7b5f6702
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

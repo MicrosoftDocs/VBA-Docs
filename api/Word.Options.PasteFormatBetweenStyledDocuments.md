@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PasteFormatBetweenStyledDocuments
 ms.assetid: 1d54b1f7-2910-39d5-d49e-b25f75656c63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

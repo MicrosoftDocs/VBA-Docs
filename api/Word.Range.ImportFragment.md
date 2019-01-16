@@ -8,6 +8,7 @@ api_name:
 - Word.Range.ImportFragment
 ms.assetid: d9feca50-6370-c1c2-00c0-e64ff7a5adb9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

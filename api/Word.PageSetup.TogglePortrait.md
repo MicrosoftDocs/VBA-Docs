@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.TogglePortrait
 ms.assetid: 184fe44c-deb5-3183-742e-88f0c990e62a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

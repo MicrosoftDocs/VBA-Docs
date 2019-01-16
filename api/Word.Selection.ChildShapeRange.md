@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.ChildShapeRange
 ms.assetid: 1b7c1010-19e1-e849-0040-70e231aac133
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

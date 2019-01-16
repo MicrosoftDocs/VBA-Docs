@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.FormattedText
 ms.assetid: b16da3f9-1aa6-e722-0a9c-8a4c30922450
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

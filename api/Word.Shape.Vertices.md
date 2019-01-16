@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Vertices
 ms.assetid: e51e17dd-9e4e-28ab-4efd-7913cab45ca9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

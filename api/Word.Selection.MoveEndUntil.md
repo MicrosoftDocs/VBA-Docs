@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.MoveEndUntil
 ms.assetid: e8f7532a-6a5a-3173-3e5e-db46aec44170
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

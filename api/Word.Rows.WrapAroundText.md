@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.WrapAroundText
 ms.assetid: 6d899cb2-f8af-1b20-3d8e-4ef353d4b762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

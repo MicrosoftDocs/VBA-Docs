@@ -8,6 +8,7 @@ api_name:
 - Word.View.RevisionsBalloonSide
 ms.assetid: 629d67a3-49c3-82f0-01af-c93913f9e268
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

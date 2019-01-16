@@ -8,6 +8,7 @@ api_name:
 - Word.Style.Parent
 ms.assetid: a3935972-76f5-21e6-397b-33f0b88d0235
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

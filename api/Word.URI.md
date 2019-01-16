@@ -8,6 +8,7 @@ api_name:
 - Word.URI
 ms.assetid: 540997ad-ead3-dcda-c5c7-ddfc7877fedc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

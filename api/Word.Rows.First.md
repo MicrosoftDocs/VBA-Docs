@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.First
 ms.assetid: 9e879fdf-bc21-cd19-37e9-bf44c06b3416
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

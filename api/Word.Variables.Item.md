@@ -8,6 +8,7 @@ api_name:
 - Word.Variables.Item
 ms.assetid: 840d820e-fde9-72d8-22c2-8dcfbc8b0930
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

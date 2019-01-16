@@ -8,6 +8,7 @@ api_name:
 - Word.ParagraphFormat.WordWrap
 ms.assetid: da5e67c3-405d-8adb-5cec-321464030f08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

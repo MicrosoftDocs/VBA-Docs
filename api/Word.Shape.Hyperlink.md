@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Hyperlink
 ms.assetid: bd69df23-a1b0-cdce-64a4-b0b6046e96d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

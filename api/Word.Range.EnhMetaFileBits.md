@@ -8,6 +8,7 @@ api_name:
 - Word.Range.EnhMetaFileBits
 ms.assetid: 1e43483a-fb1d-5855-ec42-047f9bc9ef44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

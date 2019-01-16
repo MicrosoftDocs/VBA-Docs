@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.BrowseWidth
 ms.assetid: 87b9c06c-7752-9b93-3c3c-dd02e8e985e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

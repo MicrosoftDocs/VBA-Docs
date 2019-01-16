@@ -8,6 +8,7 @@ api_name:
 - Word.Table.ApplyStyleDirectFormatting
 ms.assetid: 239807ae-6389-4492-8d17-e450c6ba91dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

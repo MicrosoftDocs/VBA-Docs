@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.CanvasCropLeft
 ms.assetid: 6b1a0b17-64d4-869a-b569-01a8095ee880
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

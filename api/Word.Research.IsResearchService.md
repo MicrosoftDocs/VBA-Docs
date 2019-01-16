@@ -8,6 +8,7 @@ api_name:
 - Word.Research.IsResearchService
 ms.assetid: a6bfb3f8-fee9-986c-827f-9f24a9288d13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

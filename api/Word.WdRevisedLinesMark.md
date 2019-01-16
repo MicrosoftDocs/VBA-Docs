@@ -5,6 +5,7 @@ api_name:
 - Word.WdRevisedLinesMark
 ms.assetid: adfe5634-d97f-1e5c-3e49-1df4f67bab3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

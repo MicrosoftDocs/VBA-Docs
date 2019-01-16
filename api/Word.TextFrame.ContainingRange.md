@@ -8,6 +8,7 @@ api_name:
 - Word.TextFrame.ContainingRange
 ms.assetid: c6e4cf7e-1f4a-232f-1e55-5cbb4537df8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

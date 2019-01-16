@@ -5,6 +5,7 @@ api_name:
 - Word.WdHorizontalInVerticalType
 ms.assetid: 10efc75b-c1de-196f-6560-81e42a21386b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.StartOf
 ms.assetid: 570df152-3579-d7a6-f555-86c9da229e1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

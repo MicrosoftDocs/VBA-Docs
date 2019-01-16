@@ -8,6 +8,7 @@ api_name:
 - Word.SeriesLines.Creator
 ms.assetid: d4c590c8-8c3e-e0d7-49d6-593fb2d60383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

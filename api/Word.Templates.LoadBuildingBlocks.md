@@ -8,6 +8,7 @@ api_name:
 - Word.Templates.LoadBuildingBlocks
 ms.assetid: c886722a-b970-870b-066b-e99ebd12b042
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.TableStyle.LeftPadding
 ms.assetid: e6b02546-7418-3df1-0d96-b6ec7b52f49d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

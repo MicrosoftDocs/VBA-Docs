@@ -8,6 +8,7 @@ api_name:
 - Word.Options.InsertedTextMark
 ms.assetid: 6c17aa01-2dcb-cf0e-6e8d-bd7f0b254fe8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

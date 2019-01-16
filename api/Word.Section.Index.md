@@ -8,6 +8,7 @@ api_name:
 - Word.Section.Index
 ms.assetid: 4ae60df8-3d8f-fbcd-9a50-ba9f72ffbd60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Range.EndnoteOptions
 ms.assetid: 48b2cf9e-edba-e6ed-a3b5-d93e26e17fe5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ReflectionFormat.Size
 ms.assetid: 7a493aee-7967-1930-ece9-2cf86baf81e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

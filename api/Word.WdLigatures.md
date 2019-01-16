@@ -5,6 +5,7 @@ api_name:
 - Word.WdLigatures
 ms.assetid: 7441f3c4-a5cc-7ec4-cc57-2b1b0e05eb35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

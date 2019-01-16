@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.RightIndent
 ms.assetid: 238c2942-14a9-4295-49ed-d4ada5aebd0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

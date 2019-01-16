@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Orientation
 ms.assetid: 830f85de-51bc-1cb9-6312-7e2b2751430d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

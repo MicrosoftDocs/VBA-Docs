@@ -8,6 +8,7 @@ api_name:
 - Word.View.ExpandOutline
 ms.assetid: 46286501-3583-e931-71a6-cf5d091f0b15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

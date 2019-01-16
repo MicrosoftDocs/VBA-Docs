@@ -5,6 +5,7 @@ api_name:
 - Word.WdEmphasisMark
 ms.assetid: f4056578-a523-8b8d-4309-7b5b64cdb897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

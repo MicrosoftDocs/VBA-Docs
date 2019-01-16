@@ -8,6 +8,7 @@ api_name:
 - Word.Template.FarEastLineBreakLevel
 ms.assetid: 4bf3fd26-0b6c-f970-19bf-1bd9d8441d54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

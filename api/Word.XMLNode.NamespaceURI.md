@@ -8,6 +8,7 @@ api_name:
 - Word.XMLNode.NamespaceURI
 ms.assetid: 3bcc2b31-5744-b855-89ed-c6e97b1cd7e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

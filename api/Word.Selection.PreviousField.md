@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.PreviousField
 ms.assetid: 9361a318-9ee2-fd72-9d52-106abfd8d44e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

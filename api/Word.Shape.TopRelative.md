@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.TopRelative
 ms.assetid: 5ae905f1-2e86-2aab-fe43-3be81f61847c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

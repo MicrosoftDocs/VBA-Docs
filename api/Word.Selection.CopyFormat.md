@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.CopyFormat
 ms.assetid: ef892e50-2ff1-3ab0-1112-cf6d268a1103
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

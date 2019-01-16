@@ -8,6 +8,7 @@ api_name:
 - Word.Words.Parent
 ms.assetid: d261144e-3428-14f8-a6f7-564c954af891
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Window.DisplayScreenTips
 ms.assetid: fc90fe70-ed5d-b02c-63fd-59696ed70465
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

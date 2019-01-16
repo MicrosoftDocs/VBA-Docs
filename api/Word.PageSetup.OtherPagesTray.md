@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.OtherPagesTray
 ms.assetid: df6a8e6d-2b49-d633-cd2b-5d3099410a73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

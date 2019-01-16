@@ -8,6 +8,7 @@ api_name:
 - Word.Options.MatchFuzzyBV
 ms.assetid: 34b82945-06cd-715b-85e3-e09b9f924d84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

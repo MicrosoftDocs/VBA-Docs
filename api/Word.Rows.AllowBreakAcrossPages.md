@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.AllowBreakAcrossPages
 ms.assetid: 6e5c0794-1dcc-9e70-7968-12a11adf6e56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

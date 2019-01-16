@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.RtlPara
 ms.assetid: b417897d-de70-6c3a-12cd-8786e12bdb43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

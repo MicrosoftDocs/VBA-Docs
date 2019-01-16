@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.IncrementRotation
 ms.assetid: 67f44fb6-0cce-9a5c-5ac7-b8116dffc167
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
