@@ -62,4 +62,5 @@ MyValue = InputBox(Message, Title, Default, 100, 100)
 
 ## See also
 
+- [Application.InputBox method (Excel)](../../../api/excel.application.inputbox.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
