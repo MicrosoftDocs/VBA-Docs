@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.Outdent
 ms.assetid: 94eda3f5-a67d-1e25-9851-65f64be5f472
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.CloseUp
 ms.assetid: 0fa0afb7-fbdf-ab26-1b49-312f526d69c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

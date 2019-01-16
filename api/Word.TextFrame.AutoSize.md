@@ -8,6 +8,7 @@ api_name:
 - Word.TextFrame.AutoSize
 ms.assetid: 90fca98a-cac5-fa17-7b19-8bcf1c5e9ec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

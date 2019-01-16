@@ -8,6 +8,7 @@ api_name:
 - Word.Rectangle.Range
 ms.assetid: 9e7d5892-b473-60fc-937f-d905faffd604
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

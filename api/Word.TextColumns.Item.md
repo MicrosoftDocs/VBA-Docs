@@ -8,6 +8,7 @@ api_name:
 - Word.TextColumns.Item
 ms.assetid: b87bdd52-fd58-74a3-39d6-b0bd1da690c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

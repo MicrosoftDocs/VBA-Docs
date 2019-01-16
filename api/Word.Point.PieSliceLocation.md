@@ -8,6 +8,7 @@ api_name:
 - Word.Point.PieSliceLocation
 ms.assetid: 85687cf7-b9a8-a51d-886c-c45092cbd929
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

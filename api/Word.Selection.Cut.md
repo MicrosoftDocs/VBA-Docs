@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Cut
 ms.assetid: 1e5dec1a-c621-2b54-ab7f-78ce90c0936f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

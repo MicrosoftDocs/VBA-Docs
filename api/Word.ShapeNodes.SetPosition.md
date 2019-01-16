@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeNodes.SetPosition
 ms.assetid: 0675ff22-1717-5fc6-2c07-c7ac53196c88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

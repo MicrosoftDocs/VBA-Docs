@@ -8,6 +8,7 @@ api_name:
 - Word.Revision.FormatDescription
 ms.assetid: 5178a4d2-ae38-a0e7-4df4-3bac2789d37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

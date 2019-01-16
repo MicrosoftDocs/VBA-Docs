@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeNode.Points
 ms.assetid: 2d64956f-1ba5-66d0-c4db-cf54c594ca0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

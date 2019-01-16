@@ -8,6 +8,7 @@ api_name:
 - Word.Options.TabIndentKey
 ms.assetid: 1edd2ffe-29ce-a4cc-6986-2f14ac03fb7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

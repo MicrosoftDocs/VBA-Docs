@@ -8,6 +8,7 @@ api_name:
 - Word.SynonymInfo.RelatedWordList
 ms.assetid: 7126c71c-6308-9b4b-89c7-6762e01fc591
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

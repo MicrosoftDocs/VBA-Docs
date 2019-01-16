@@ -8,6 +8,7 @@ api_name:
 - Word.Options.DoNotPromptForConvert
 ms.assetid: 967d5b68-b1ae-2a85-41d8-171863cb139e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

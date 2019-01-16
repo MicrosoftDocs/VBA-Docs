@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.RelativeVerticalSize
 ms.assetid: 3ccbd15e-32ed-4435-6b76-20543dfa6d62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

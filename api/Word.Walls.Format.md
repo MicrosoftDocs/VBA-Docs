@@ -8,6 +8,7 @@ api_name:
 - Word.Walls.Format
 ms.assetid: 7575663e-005d-a564-7802-fc0a421a9465
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

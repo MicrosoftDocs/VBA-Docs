@@ -8,6 +8,7 @@ api_name:
 - Word.OtherCorrectionsException.Delete
 ms.assetid: c6970d05-951b-236b-3910-54c71578fba5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

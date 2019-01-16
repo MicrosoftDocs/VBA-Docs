@@ -8,6 +8,7 @@ api_name:
 - Word.XMLNode.Level
 ms.assetid: bfa13ac4-f7d3-9b16-eddd-46c1bdbf45eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

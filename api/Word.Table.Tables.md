@@ -8,6 +8,7 @@ api_name:
 - Word.Table.Tables
 ms.assetid: aba332ae-49aa-4575-8f33-66ca0c647d26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

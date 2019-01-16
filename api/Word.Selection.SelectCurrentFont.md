@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.SelectCurrentFont
 ms.assetid: 66539ab3-280f-40a5-1fc0-1507b66d50fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.TablesOfFigures.Creator
 ms.assetid: 096d73ca-aca9-49cc-26eb-c83575b4da0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

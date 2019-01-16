@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.Next
 ms.assetid: 5ada0da7-a579-b728-0483-b698a09eb41c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

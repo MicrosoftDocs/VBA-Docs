@@ -8,6 +8,7 @@ api_name:
 - Word.Variables.Creator
 ms.assetid: afef2a48-87c0-36b2-6242-31ba8f5d5d00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

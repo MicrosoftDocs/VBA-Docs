@@ -8,6 +8,7 @@ api_name:
 - Word.XSLTransform.Location
 ms.assetid: 6fa766b2-b292-883a-edee-6b8746d6904e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.TextColumns
 ms.assetid: 85fb6b50-1c2e-a96e-e56d-3a1caacaabc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

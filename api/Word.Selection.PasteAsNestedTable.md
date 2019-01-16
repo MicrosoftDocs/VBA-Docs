@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.PasteAsNestedTable
 ms.assetid: 42a2f604-694e-6b39-23d2-d8c453618222
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

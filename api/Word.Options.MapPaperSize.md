@@ -8,6 +8,7 @@ api_name:
 - Word.Options.MapPaperSize
 ms.assetid: aace2fd4-d2a5-852a-8918-a40114c450cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

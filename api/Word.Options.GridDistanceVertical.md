@@ -8,6 +8,7 @@ api_name:
 - Word.Options.GridDistanceVertical
 ms.assetid: 6da3a2b5-3961-f8ba-c61f-ec1d1d2ea971
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

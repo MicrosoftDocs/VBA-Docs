@@ -8,6 +8,7 @@ api_name:
 - Word.XMLNamespace.AttachToDocument
 ms.assetid: 18af2ed2-2806-401a-4cca-9d8746f25082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

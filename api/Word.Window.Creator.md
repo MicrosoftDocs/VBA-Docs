@@ -8,6 +8,7 @@ api_name:
 - Word.Window.Creator
 ms.assetid: d98d64b2-4d7d-c08f-0f9b-6af806a02f8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

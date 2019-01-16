@@ -8,6 +8,7 @@ api_name:
 - Word.TextColumns.SetCount
 ms.assetid: 59ff1b21-5bec-982d-a2b5-7a8d7dc08f9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

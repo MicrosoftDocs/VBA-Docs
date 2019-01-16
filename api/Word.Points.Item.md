@@ -8,6 +8,7 @@ api_name:
 - Word.Points.Item
 ms.assetid: fae75738-6507-1b97-5179-9bc855d4c83d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

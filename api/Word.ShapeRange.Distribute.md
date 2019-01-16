@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.Distribute
 ms.assetid: fae7b87a-9542-7018-15fb-a4e4efee4c9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

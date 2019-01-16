@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfContents.UpdatePageNumbers
 ms.assetid: 3b7e3080-c2bb-0a4b-2062-f1a774eeb715
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

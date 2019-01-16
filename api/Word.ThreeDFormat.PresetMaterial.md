@@ -8,6 +8,7 @@ api_name:
 - Word.ThreeDFormat.PresetMaterial
 ms.assetid: 95cb7421-29fb-8905-7b0e-c43ec81f6dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

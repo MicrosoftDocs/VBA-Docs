@@ -8,6 +8,7 @@ api_name:
 - Word.TickLabels.MultiLevel
 ms.assetid: 2f6f5c6a-8a62-267a-68ef-8b7161dfcce4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

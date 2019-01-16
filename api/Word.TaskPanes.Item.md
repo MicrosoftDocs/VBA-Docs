@@ -8,6 +8,7 @@ api_name:
 - Word.TaskPanes.Item
 ms.assetid: 1c4697cc-8ec6-8281-e43e-d1efdcd1b7e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

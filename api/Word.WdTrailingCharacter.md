@@ -5,6 +5,7 @@ api_name:
 - Word.WdTrailingCharacter
 ms.assetid: e75cc842-73fe-0a6d-f465-f9385fb37b23
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

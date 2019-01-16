@@ -5,6 +5,7 @@ api_name:
 - Word.WdReadingLayoutMargin
 ms.assetid: a5f84288-644e-d256-22f7-8529ef90c71d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

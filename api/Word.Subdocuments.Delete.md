@@ -8,6 +8,7 @@ api_name:
 - Word.Subdocuments.Delete
 ms.assetid: 90ea0922-87ee-7e8e-05a3-9cc781262c7d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

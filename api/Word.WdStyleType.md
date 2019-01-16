@@ -5,6 +5,7 @@ api_name:
 - Word.WdStyleType
 ms.assetid: 5ef956ab-feef-b218-d5a3-d417798e3d52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

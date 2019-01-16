@@ -8,6 +8,7 @@ api_name:
 - Word.Transparency
 ms.assetid: 199ef686-e858-8fd3-850b-32676ed98284
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

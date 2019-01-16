@@ -8,6 +8,7 @@ api_name:
 - Word.ParagraphFormat.OpenOrCloseUp
 ms.assetid: 7cf08077-e3e5-4886-e88f-fd12c2961058
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

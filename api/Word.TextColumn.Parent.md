@@ -8,6 +8,7 @@ api_name:
 - Word.TextColumn.Parent
 ms.assetid: 1f22a4e8-d238-7755-1ec5-2d53e43a1b22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

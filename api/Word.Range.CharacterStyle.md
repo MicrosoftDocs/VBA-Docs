@@ -8,6 +8,7 @@ api_name:
 - Word.Range.CharacterStyle
 ms.assetid: 22b57138-4e16-d144-9246-18b94ce463e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

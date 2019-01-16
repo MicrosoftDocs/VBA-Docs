@@ -8,6 +8,7 @@ api_name:
 - Word.TabStop.Next
 ms.assetid: 1345a12c-d2e6-a434-d985-7d96d1d0b3d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

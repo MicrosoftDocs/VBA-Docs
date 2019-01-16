@@ -8,6 +8,7 @@ api_name:
 - Word.Series.ApplyDataLabels
 ms.assetid: f172d97a-53a9-929d-b929-bfea03d38b91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

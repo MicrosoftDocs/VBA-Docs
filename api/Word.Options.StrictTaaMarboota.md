@@ -8,6 +8,7 @@ api_name:
 - Word.Options.StrictTaaMarboota
 ms.assetid: 42daef30-2307-1f45-c26d-8511a1d6cd3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

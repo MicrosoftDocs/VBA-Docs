@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.NextSubdocument
 ms.assetid: e8527994-23f4-c9a1-d96c-c2018e07efad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

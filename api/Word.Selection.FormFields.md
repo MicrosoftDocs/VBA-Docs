@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.FormFields
 ms.assetid: d6d5259b-9971-929f-16f7-ca2b2d585c77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

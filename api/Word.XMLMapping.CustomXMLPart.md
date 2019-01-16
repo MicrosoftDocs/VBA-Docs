@@ -8,6 +8,7 @@ api_name:
 - Word.XMLMapping.CustomXMLPart
 ms.assetid: a9eac7d6-0088-7251-e0b2-fef529fee278
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Series.Border
 ms.assetid: e7f8d59a-ac94-650d-337b-2d397e7b58c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

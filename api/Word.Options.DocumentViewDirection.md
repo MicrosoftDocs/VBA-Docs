@@ -8,6 +8,7 @@ api_name:
 - Word.Options.DocumentViewDirection
 ms.assetid: 5f68af9c-edff-1b6b-e111-954e9e845e62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

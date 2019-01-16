@@ -5,6 +5,7 @@ api_name:
 - Word.WdEndnoteLocation
 ms.assetid: dd9a3923-7948-8512-ed63-8679b8788275
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

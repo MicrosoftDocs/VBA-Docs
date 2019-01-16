@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Glow
 ms.assetid: 3a8d4386-1bd3-01ff-67ff-80e22e123a8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

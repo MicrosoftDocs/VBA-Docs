@@ -5,6 +5,7 @@ api_name:
 - Word.WdExportCreateBookmarks
 ms.assetid: 6bb7275e-b7f2-9c04-df52-29610c4bb7c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Style.InUse
 ms.assetid: 6fbba751-f549-4175-6c1a-ec1f9abb478a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

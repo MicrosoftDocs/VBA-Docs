@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.FarEastLineBreakControl
 ms.assetid: 974b326b-5acc-bafd-6b0a-b9e6657d0058
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

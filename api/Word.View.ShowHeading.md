@@ -8,6 +8,7 @@ api_name:
 - Word.View.ShowHeading
 ms.assetid: b459e936-13fa-f2f4-33e6-f25d21a6f77c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

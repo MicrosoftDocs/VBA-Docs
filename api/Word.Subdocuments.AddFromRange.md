@@ -8,6 +8,7 @@ api_name:
 - Word.Subdocuments.AddFromRange
 ms.assetid: ca205880-99d4-2cc5-cb45-3fd8fd60cf36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

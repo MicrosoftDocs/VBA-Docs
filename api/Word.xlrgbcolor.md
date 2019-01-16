@@ -3,6 +3,7 @@ title: xlRgbColor enumeration (Word)
 ms.prod: word
 ms.assetid: aa95f9b1-55ad-091c-2700-fd75c953cdea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

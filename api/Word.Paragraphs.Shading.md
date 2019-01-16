@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.Shading
 ms.assetid: b732c59d-d861-00d8-fd00-6940449480a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.BookFoldPrintingSheets
 ms.assetid: 88431024-42a0-d92e-a62b-eeaedbe0c945
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

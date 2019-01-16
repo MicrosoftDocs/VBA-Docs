@@ -8,6 +8,7 @@ api_name:
 - Word.ShadowFormat.Obscured
 ms.assetid: 2746b925-a4f1-b5a6-04e5-7380ad79e20a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

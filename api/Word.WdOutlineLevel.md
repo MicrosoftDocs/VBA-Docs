@@ -5,6 +5,7 @@ api_name:
 - Word.WdOutlineLevel
 ms.assetid: 44a38f7e-355c-3ff3-1408-0972f20778d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

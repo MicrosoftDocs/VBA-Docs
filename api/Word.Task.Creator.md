@@ -8,6 +8,7 @@ api_name:
 - Word.Task.Creator
 ms.assetid: d0273cd1-fb98-dc8d-bf4a-bfcca4d053b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
