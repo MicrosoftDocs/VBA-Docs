@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.Locked
 ms.assetid: b4c18627-362f-57d6-6cb6-daeb4aebf307
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

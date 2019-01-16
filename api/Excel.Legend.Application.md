@@ -8,6 +8,7 @@ api_name:
 - Excel.Legend.Application
 ms.assetid: ced7136a-7f18-2024-d40c-61fdca244949
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

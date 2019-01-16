@@ -8,6 +8,7 @@ api_name:
 - Excel.Walls.Creator
 ms.assetid: f13cd852-4558-34fd-13c0-1751323459db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

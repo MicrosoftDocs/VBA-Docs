@@ -8,6 +8,7 @@ api_name:
 - Excel.Sparkline.ModifySourceData
 ms.assetid: cb47feba-6ff5-0186-44a9-747682605bd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

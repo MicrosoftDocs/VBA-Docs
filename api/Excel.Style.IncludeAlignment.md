@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.IncludeAlignment
 ms.assetid: 4b58251d-cf1f-3301-a597-3e2c756144fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

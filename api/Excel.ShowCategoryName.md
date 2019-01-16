@@ -8,6 +8,7 @@ api_name:
 - Excel.ShowCategoryName
 ms.assetid: f66a0162-f1b7-5b8d-ae09-bb928751cde3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

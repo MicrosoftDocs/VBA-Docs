@@ -5,6 +5,7 @@ api_name:
 - Excel.XlInsertShiftDirection
 ms.assetid: aa30a7b2-25a9-5c32-04f5-2b417e67ac45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

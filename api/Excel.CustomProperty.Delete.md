@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomProperty.Delete
 ms.assetid: 4cb66fe0-5236-3021-6c1a-98720c6ff95a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

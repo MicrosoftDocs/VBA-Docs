@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabels.ShowLegendKey
 ms.assetid: 7bd5c103-b704-448a-35e0-38bd8f120cac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

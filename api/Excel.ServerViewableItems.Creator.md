@@ -8,6 +8,7 @@ api_name:
 - Excel.ServerViewableItems.Creator
 ms.assetid: ebc56118-1d24-45ee-b2a1-2fc59095a4e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

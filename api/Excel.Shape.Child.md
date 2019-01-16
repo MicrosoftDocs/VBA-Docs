@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Child
 ms.assetid: fa3a7f15-8f55-3c7f-4d4f-5af3744fe022
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

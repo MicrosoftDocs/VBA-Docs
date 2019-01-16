@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetic.Parent
 ms.assetid: d0d4b662-af43-70d6-356a-26f3d56ad579
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

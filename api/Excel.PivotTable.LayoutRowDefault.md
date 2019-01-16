@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.LayoutRowDefault
 ms.assetid: ed11ec86-5d2a-5f8d-50aa-c781e3a3fa4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

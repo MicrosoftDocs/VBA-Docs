@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.ArbitraryXMLSupportAvailable
 ms.assetid: f63a64fa-5293-712a-bbbd-5dc07abda8da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.WrapText
 ms.assetid: 9b6d236e-b46d-c557-0a54-5c9f765fd707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

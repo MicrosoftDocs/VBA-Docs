@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.CancelRefresh
 ms.assetid: be9491bd-9b42-4b88-ddb9-554cf431e779
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

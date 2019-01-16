@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Quotient
 ms.assetid: 33a057f8-dbb7-0f0e-fabd-ebdd4d471159
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

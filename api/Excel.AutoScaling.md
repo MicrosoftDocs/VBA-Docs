@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoScaling
 ms.assetid: f132291c-e356-eea5-0ef5-0e4def8d4832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

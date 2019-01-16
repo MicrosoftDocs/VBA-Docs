@@ -8,6 +8,7 @@ api_name:
 - Excel.GroupShapes.Range
 ms.assetid: b02b1915-2cd2-353b-0243-a5d60470e897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.EnablePivotTable
 ms.assetid: 8cd09896-9752-677f-a7fd-da46d68ac42a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

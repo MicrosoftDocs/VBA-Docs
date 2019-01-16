@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ExclusiveAccess
 ms.assetid: 9b92ec4f-e256-7e01-6cd7-759a0d022813
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

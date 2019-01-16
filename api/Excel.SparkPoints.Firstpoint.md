@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Firstpoint
 ms.assetid: 517175d0-93db-bd74-7684-4b196dd34d91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

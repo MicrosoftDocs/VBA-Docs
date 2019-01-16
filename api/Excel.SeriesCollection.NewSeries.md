@@ -8,6 +8,7 @@ api_name:
 - Excel.SeriesCollection.NewSeries
 ms.assetid: 1d63ff48-d4ec-ce76-42bb-c5923251bd69
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

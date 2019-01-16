@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.HiddenItemsList
 ms.assetid: 279eeb80-75cd-c758-98b5-668754417482
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

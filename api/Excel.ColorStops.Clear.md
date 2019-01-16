@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorStops.Clear
 ms.assetid: 308edcb7-6085-77d6-5e6a-d8ec1d31c043
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

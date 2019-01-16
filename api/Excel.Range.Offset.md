@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Offset
 ms.assetid: dfbbd1a2-2f73-fd6a-6277-4584823f55a4
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.Text
 ms.assetid: 026edc24-dd5d-0d90-393f-062580b44229
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

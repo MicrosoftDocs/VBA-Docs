@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.DateOperator
 ms.assetid: 57c62797-5b82-4581-2afe-1cd03f36a91e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.Borders
 ms.assetid: 2768a8b7-b11f-fe44-5b2a-c47fb18c5a09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

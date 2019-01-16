@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Width
 ms.assetid: eeb8ff27-d219-bade-3e0b-aed6e34d17d7
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoRecover.Path
 ms.assetid: 1b95e149-d758-89f9-3879-760ffda01bf8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

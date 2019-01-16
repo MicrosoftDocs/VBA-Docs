@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.Depth
 ms.assetid: 657a5346-bce8-ff76-08f5-394b397c370e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

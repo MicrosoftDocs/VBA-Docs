@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.DragToHide
 ms.assetid: 55381de5-1eb9-2dee-9465-d18d8779beff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

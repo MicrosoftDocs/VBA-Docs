@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.WebDisableDateRecognition
 ms.assetid: 6db374e2-67b2-bf84-35d4-dd87494c0d81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

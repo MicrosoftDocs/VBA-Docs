@@ -8,6 +8,7 @@ api_name:
 - Excel.Shapes.AddTextbox
 ms.assetid: c594be81-95e6-37da-2c55-418f11ad7554
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

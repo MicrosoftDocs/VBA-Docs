@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.Period
 ms.assetid: 142b675b-8859-a717-1e09-59a8b4000820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

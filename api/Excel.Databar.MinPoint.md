@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.MinPoint
 ms.assetid: d9a0a554-50e8-24a1-e10b-c4ee4cdbc159
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

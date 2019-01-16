@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Name
 ms.assetid: 64da2964-f896-a9f9-6c84-eeaa227ba86d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

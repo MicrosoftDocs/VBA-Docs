@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.SaveAsODC
 ms.assetid: 8ee66eb4-d72d-d319-c470-6f2f0db680bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

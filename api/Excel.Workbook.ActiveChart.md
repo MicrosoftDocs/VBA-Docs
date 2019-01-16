@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ActiveChart
 ms.assetid: 81e18252-b1fe-2487-535e-6e24c80bef24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

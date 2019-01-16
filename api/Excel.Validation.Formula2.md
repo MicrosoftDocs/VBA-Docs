@@ -8,6 +8,7 @@ api_name:
 - Excel.Validation.Formula2
 ms.assetid: 937e2a16-9d25-cf2e-5b6a-786db918a60a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

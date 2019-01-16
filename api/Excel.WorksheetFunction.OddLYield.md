@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.OddLYield
 ms.assetid: a87c0300-e63f-6e57-4f95-0f1a22622dfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

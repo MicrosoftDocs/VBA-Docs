@@ -8,6 +8,7 @@ api_name:
 - Excel.RecentFile.Open
 ms.assetid: 0db24662-fe68-aa65-1875-0d58f1e37e39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

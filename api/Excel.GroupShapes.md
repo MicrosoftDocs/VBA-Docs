@@ -8,6 +8,7 @@ api_name:
 - Excel.GroupShapes
 ms.assetid: 252d35da-9ab4-97f4-1e00-48ccfc003534
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendline.NameIsAuto
 ms.assetid: 4e14cc52-a9f5-3dda-8be9-7afd97d79583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

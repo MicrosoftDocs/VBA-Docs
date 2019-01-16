@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.ShowHeaders
 ms.assetid: 9b22396b-766d-7ff3-6d18-a6e5bf4bcc57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

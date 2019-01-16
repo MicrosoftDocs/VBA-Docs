@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.IncludeInLayout
 ms.assetid: 29a38d5a-9aaa-bcbc-7a86-96ce85286cf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

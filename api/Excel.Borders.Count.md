@@ -8,6 +8,7 @@ api_name:
 - Excel.Borders.Count
 ms.assetid: fe015e4c-89f3-cb8c-5215-55181dcdc0c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

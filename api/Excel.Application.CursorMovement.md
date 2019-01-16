@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.CursorMovement
 ms.assetid: 4be5a3fd-7a68-1190-5888-239497d53cb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

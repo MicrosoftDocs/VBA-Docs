@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Run
 ms.assetid: b7a0480a-9f10-8aad-6592-3cbde72720cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

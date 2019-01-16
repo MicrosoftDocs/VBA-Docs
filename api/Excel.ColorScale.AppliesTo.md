@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorScale.AppliesTo
 ms.assetid: ddef6076-9805-454d-3f98-baf26685e263
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

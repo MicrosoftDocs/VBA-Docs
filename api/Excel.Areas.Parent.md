@@ -8,6 +8,7 @@ api_name:
 - Excel.Areas.Parent
 ms.assetid: 7af01c6d-a8d7-faa3-df95-ac4052b2e4f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

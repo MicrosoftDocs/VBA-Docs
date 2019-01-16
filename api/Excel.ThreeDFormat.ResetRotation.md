@@ -8,6 +8,7 @@ api_name:
 - Excel.ThreeDFormat.ResetRotation
 ms.assetid: 55173d20-2d13-d3a8-39db-6b1a161c6ea6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

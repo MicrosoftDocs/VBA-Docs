@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.BlackWhiteMode
 ms.assetid: 95a00870-82c2-d193-6971-9f92aeed6532
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

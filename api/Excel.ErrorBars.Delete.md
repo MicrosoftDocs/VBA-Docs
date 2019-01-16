@@ -8,6 +8,7 @@ api_name:
 - Excel.ErrorBars.Delete
 ms.assetid: 30764496-1311-da45-5d1d-6efe243dcd73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

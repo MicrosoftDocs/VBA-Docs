@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendlines.Count
 ms.assetid: 6731edf2-8d9a-76b5-bf9f-23c1c3a9bed9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

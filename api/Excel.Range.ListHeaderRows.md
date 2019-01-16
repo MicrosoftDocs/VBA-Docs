@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ListHeaderRows
 ms.assetid: d71a9b28-cd5d-677c-9ce1-f8de2b350e5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

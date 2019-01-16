@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.CommandText
 ms.assetid: 2c5e976c-513f-24b0-f25e-056fc9babaf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

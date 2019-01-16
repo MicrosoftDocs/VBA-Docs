@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.PatternColor
 ms.assetid: 44d3e506-56a4-e021-4b7c-452169a6dbf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

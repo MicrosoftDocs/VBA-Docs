@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.TotalsRowRange
 ms.assetid: 80f22712-5113-30d9-a0ea-1158a563d17b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoCorrect.AutoFillFormulasInLists
 ms.assetid: efef5f17-d50c-c21b-3c88-07f3092d2f25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

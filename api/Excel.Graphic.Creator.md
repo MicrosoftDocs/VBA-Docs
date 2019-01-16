@@ -8,6 +8,7 @@ api_name:
 - Excel.Graphic.Creator
 ms.assetid: bdd37124-b533-8913-c718-b269e8b1b887
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

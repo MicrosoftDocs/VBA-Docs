@@ -8,6 +8,7 @@ api_name:
 - Excel.HasBorderOutline
 ms.assetid: b98fd5e2-fe84-1736-eb94-9e6e51ac49a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.LocationInTable
 ms.assetid: 7a86a0fe-cd46-331e-595b-6be168091d0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

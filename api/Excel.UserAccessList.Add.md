@@ -8,6 +8,7 @@ api_name:
 - Excel.UserAccessList.Add
 ms.assetid: dd3b3bc4-8618-b680-7409-c431a12374b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

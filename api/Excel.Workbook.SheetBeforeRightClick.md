@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.SheetBeforeRightClick
 ms.assetid: d84dd9fd-85d3-009e-281b-cfc0d2874859
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

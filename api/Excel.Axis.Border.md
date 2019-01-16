@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Border
 ms.assetid: 1836a73a-305e-0e7a-840b-9364bffdb79a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.Sort
 ms.assetid: 92f268ef-507f-a565-be42-abea73c381a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorScale.Creator
 ms.assetid: 60928601-77fe-2a4b-ecd5-9b8e3adeea6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

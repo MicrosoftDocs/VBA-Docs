@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.PrintComments
 ms.assetid: 1f479032-ca02-982f-5877-83c776ce2611
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.Reflection
 ms.assetid: 5c4e4918-279f-de8b-0d4d-a2feb51ebee4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

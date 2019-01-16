@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLineCells.Parent
 ms.assetid: a7a710b8-c80b-33fe-4bb1-fca15adbbb1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

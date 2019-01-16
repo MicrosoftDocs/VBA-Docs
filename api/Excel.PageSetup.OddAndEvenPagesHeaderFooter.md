@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.OddAndEvenPagesHeaderFooter
 ms.assetid: d7d5d5b2-45b5-8fbc-3223-1ad74caa180a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

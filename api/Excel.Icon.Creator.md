@@ -8,6 +8,7 @@ api_name:
 - Excel.Icon.Creator
 ms.assetid: 5cdaa402-b79a-735e-0413-b48fb037b510
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

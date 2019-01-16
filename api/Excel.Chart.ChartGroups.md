@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.ChartGroups
 ms.assetid: dffa4fc3-b2db-eb50-b309-95e99972525f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

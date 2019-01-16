@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.DataBodyRange
 ms.assetid: 04999c13-f70b-8692-a304-ed693d5bee26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.IsExportable
 ms.assetid: 4f26b59c-14da-3646-c051-88f4d173a861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

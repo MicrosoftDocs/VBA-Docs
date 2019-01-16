@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRows.Count
 ms.assetid: 91a51e45-b5b6-1b5c-5a06-10a91e70cf66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

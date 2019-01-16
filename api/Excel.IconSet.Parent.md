@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSet.Parent
 ms.assetid: 2bd54b76-c705-f833-3204-859fc779f83c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

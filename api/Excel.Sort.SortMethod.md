@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.SortMethod
 ms.assetid: d7f63079-afe8-32ea-d573-158f4e63e74b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

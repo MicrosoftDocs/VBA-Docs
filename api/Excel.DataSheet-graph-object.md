@@ -8,6 +8,7 @@ api_name:
 - Excel.DataSheet
 ms.assetid: 370da200-e725-ac0f-fe3a-f919c7c7cc8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

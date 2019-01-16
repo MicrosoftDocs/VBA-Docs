@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayUnitLabel.FormulaR1C1Local
 ms.assetid: a779e576-529f-27f1-7115-4d637c2ef7ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

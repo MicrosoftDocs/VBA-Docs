@@ -8,6 +8,7 @@ api_name:
 - Excel.Styles.Add
 ms.assetid: 623ed34e-d79d-2f16-475a-0c58aef04aa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Next
 ms.assetid: 971d5df0-ba23-ac67-7862-67586452e992
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

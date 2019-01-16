@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.WorkbookBeforeXmlExport
 ms.assetid: 2c228d28-2d42-40b0-ee36-214bc720d78a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

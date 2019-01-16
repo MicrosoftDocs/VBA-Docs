@@ -5,6 +5,7 @@ api_name:
 - Excel.XlPropertyDisplayedIn
 ms.assetid: 5df825f7-6aa4-7652-5405-33e4a0e2a0c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

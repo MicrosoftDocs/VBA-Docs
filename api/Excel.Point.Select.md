@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.Select
 ms.assetid: 10199b5c-9418-d133-4bd4-f5b1e3a88550
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

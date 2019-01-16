@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.IncludeProtection
 ms.assetid: 666afea1-4a2a-7f44-ecff-d9d44098a527
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

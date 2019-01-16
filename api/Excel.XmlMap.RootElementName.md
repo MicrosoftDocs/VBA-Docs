@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.RootElementName
 ms.assetid: 083ea64b-9fa8-3036-be0e-086873e870c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

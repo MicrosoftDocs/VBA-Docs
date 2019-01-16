@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.Total
 ms.assetid: e3a2fd3c-560f-2743-e45e-5e472e45e10c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.DropDownLines
 ms.assetid: e2e12163-c247-6518-2d2f-701d27266a1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.AllItemsVisible
 ms.assetid: 979461f1-69a9-9705-2f61-72a096d47a5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

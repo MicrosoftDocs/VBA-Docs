@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.VisibleSlicerItems
 ms.assetid: ea9d1b43-1280-5423-515f-8d00e0624901
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

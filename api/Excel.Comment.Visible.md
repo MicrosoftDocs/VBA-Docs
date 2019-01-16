@@ -8,6 +8,7 @@ api_name:
 - Excel.Comment.Visible
 ms.assetid: 0ec953be-0323-68cb-f2bc-2c7eaba2d9c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Border object (Excel)
 keywords: vbaxl10.chm546072
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Excel.Border
 ms.assetid: bca516bf-7c0f-f9df-078d-dfb522f256f3
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

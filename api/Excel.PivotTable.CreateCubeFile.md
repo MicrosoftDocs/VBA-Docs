@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.CreateCubeFile
 ms.assetid: 585641a1-c708-75fd-4789-f7a254830b57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

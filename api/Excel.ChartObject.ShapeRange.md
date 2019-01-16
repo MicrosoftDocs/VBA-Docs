@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObject.ShapeRange
 ms.assetid: 12ad4077-1687-2bb9-41cf-fd8f1e02adc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

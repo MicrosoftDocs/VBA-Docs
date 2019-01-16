@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.ShowChartTipValues
 ms.assetid: 886b2cf9-f6b3-3770-3082-28f2f99863cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.ClearManualFilter
 ms.assetid: 2dac2695-ae2c-eba9-7b22-57f21d87925a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

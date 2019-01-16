@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.NavigateArrow
 ms.assetid: 71e2ce3b-3da8-afd5-7fd3-b922c6f8f1c2
 ms.date: 12/06/2018
+localization_priority: Normal
 ---
 
 

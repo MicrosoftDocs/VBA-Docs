@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.Slicers
 ms.assetid: d87bfcf0-8989-e9f4-5bc3-fb7cdf681e86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

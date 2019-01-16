@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.RobustConnect
 ms.assetid: 2f575278-d385-90bd-6544-885f99abbebb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

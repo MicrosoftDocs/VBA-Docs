@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.CheckAbort
 ms.assetid: e407aeff-b401-029a-9ada-8f11eef54fb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

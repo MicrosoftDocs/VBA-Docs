@@ -1,4 +1,4 @@
-﻿---
+---
 title: Shapes object (Excel)
 keywords: vbaxl10.chm637072
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Excel.Shapes
 ms.assetid: f9c6548c-d028-1b70-a11c-c4b45ff19177
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.TDist
 ms.assetid: fb2165bc-0643-9046-13c7-0bfbd56cde93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

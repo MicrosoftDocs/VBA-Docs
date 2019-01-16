@@ -5,6 +5,7 @@ api_name:
 - Excel.LineFormat.Application
 ms.assetid: c90f22c9-b9e5-a91c-23fb-3301b709000a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

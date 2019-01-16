@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.FormulaR1C1Local
 ms.assetid: 06037c27-3371-c2ac-4754-a5bb7ebb2058
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

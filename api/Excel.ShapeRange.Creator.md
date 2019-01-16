@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.Creator
 ms.assetid: 5ac1fcc9-ad5c-f25b-2e09-a8f3febcacef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

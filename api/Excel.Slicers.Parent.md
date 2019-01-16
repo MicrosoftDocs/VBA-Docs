@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicers.Parent
 ms.assetid: 1c3f6ccc-f6f3-2156-8316-5f322938f4a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

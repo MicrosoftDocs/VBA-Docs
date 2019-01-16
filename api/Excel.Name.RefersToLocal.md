@@ -8,6 +8,7 @@ api_name:
 - Excel.Name.RefersToLocal
 ms.assetid: e079e8c9-44f9-494e-97aa-2a38c0ec157b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

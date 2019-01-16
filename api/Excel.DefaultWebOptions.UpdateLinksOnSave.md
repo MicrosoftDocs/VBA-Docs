@@ -8,6 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.UpdateLinksOnSave
 ms.assetid: d2ae453f-8dc2-fe6c-a64c-574b22c781cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

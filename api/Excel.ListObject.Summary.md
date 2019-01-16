@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.Summary
 ms.assetid: 505aa536-7495-3f36-9e2b-fb3a4cbb76c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

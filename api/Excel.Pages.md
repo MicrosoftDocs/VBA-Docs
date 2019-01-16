@@ -8,6 +8,7 @@ api_name:
 - Excel.Pages
 ms.assetid: ecedccc4-e1af-6a66-9d83-bd0cf76dfe68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

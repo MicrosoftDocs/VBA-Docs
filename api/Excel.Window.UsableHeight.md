@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.UsableHeight
 ms.assetid: e1cbcaa1-779a-1757-0a95-9e53e374ef7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.ScrollColumn
 ms.assetid: 3068b3f9-0e5e-b841-4241-7f0c060a5c25
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

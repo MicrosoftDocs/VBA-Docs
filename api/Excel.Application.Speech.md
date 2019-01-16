@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Speech
 ms.assetid: 981d5eef-55ff-54ee-a3ca-f009a6a575da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

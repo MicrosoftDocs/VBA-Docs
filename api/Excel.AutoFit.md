@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoFit
 ms.assetid: 45dea7dd-7695-1f72-9bf7-9ab4cbbd74ec
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

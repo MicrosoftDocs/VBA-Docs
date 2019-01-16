@@ -8,6 +8,7 @@ api_name:
 - Excel.Add
 ms.assetid: 529bbd0e-c726-2e88-fa75-d492fede7f37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

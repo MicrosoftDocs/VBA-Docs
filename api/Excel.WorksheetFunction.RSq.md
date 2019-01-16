@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.RSq
 ms.assetid: f6d9b270-ec48-1b53-fe96-b62dd37f1a56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

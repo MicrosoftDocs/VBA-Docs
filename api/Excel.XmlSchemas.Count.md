@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlSchemas.Count
 ms.assetid: c43c1b5d-ed70-8437-e232-03850c1a3699
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

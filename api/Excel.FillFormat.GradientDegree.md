@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.GradientDegree
 ms.assetid: 46529845-6ee0-def7-8dac-bb459d6ed2f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

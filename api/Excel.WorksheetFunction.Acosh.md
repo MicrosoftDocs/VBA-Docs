@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Acosh
 ms.assetid: 919150e6-cab9-5470-f68d-fd69a4abf388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

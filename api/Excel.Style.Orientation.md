@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.Orientation
 ms.assetid: ce3fc4ec-fe2a-679d-3b8e-1ca2fe1dd39a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

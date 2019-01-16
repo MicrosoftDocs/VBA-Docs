@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.WebFormatting
 ms.assetid: 3ba96959-1c50-8cc0-0025-b5006b1ad62c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

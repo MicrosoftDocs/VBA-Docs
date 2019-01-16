@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.Previous
 ms.assetid: 8409e3c6-564e-2ba1-1e49-79a1c37cc845
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

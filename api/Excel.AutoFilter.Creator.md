@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoFilter.Creator
 ms.assetid: 15231f8b-f5ce-8560-f157-15676d038f89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

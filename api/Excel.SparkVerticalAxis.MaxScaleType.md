@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkVerticalAxis.MaxScaleType
 ms.assetid: 14d04182-d6d2-b884-db8f-04cef4673e82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

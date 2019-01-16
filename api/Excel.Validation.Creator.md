@@ -8,6 +8,7 @@ api_name:
 - Excel.Validation.Creator
 ms.assetid: 664abd2c-550e-bb5e-877a-db7dc43a5c52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

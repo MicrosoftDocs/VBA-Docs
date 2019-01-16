@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.DatabaseSort
 ms.assetid: 18c75552-0993-24b6-e31f-7912e69ac933
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

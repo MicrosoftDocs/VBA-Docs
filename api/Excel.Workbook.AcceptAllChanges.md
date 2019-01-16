@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.AcceptAllChanges
 ms.assetid: 8d8572a9-1231-c8ef-0707-72b8b5109066
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DataLabelRange
 ms.assetid: 9a4a6ee0-f918-2dd3-f423-e5ced6fdba20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

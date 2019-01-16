@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.Priority
 ms.assetid: c2f72c35-702a-cae7-ffde-ad7075c8dc75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

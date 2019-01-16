@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.CellChanged
 ms.assetid: fc2ba7b5-4dfe-4b05-922e-2ac079c5afb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.FirstPageNumber
 ms.assetid: 606d2bb3-9e3f-2d98-01ea-3257e83f61ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

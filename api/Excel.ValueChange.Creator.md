@@ -8,6 +8,7 @@ api_name:
 - Excel.ValueChange.Creator
 ms.assetid: a1d10479-e30d-c0b2-a521-8910c5b6256e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

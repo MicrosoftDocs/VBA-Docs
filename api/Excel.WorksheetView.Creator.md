@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetView.Creator
 ms.assetid: 474ee0e7-1fe2-200c-c49d-fd9418138a40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

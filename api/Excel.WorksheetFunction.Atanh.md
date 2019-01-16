@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Atanh
 ms.assetid: 4399ebf8-5eff-9ec0-421e-1fe3f5fdc5c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.EnableLargeOperationAlert
 ms.assetid: c8454216-6e91-997a-566b-d00ca99e89a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

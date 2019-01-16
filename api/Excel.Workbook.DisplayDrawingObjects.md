@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.DisplayDrawingObjects
 ms.assetid: 78eec8af-416d-88e6-d1f4-0b97a008f752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

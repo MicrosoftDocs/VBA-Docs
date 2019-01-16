@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.Max
 ms.assetid: 35ed65e1-94d7-c147-2535-d41c503bb19b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

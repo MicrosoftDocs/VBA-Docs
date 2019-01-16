@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DisplayDocumentInformationPanel
 ms.assetid: 01810dbf-eab4-db5b-cb76-3196542f6e7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

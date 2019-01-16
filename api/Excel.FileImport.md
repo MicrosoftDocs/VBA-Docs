@@ -8,6 +8,7 @@ api_name:
 - Excel.FileImport
 ms.assetid: 30aafa3b-231c-0c08-07a7-e7494888b082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

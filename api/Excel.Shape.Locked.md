@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Locked
 ms.assetid: ead4e049-c358-7d77-f715-be9f8cfcdd4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

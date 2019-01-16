@@ -8,6 +8,7 @@ api_name:
 - Excel.ConnectorFormat.BeginConnect
 ms.assetid: f2539299-1b35-7cf9-d315-9df76299fc8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

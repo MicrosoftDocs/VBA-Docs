@@ -8,6 +8,7 @@ api_name:
 - Excel.BubbleScale
 ms.assetid: e3947690-3428-3f50-173b-b7889f9aac7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

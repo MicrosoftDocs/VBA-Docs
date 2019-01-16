@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.PercentMax
 ms.assetid: d06a5ce2-a298-7974-f9bc-f8fb3fd7ccf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

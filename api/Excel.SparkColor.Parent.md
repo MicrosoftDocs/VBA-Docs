@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkColor.Parent
 ms.assetid: d19a836e-3d73-b8ea-6c5f-0d7f085ce614
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

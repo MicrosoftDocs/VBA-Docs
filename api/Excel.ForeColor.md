@@ -8,6 +8,7 @@ api_name:
 - Excel.ForeColor
 ms.assetid: 1c1eb700-672e-095d-826c-28cdb7e9de40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

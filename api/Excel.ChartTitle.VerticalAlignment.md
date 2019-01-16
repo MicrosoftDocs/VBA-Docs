@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.VerticalAlignment
 ms.assetid: 9d675a02-b84e-84e0-6ccf-adb47b876c12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

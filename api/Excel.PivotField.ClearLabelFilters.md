@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.ClearLabelFilters
 ms.assetid: 48b8f6be-b4c0-26c6-2550-63729fd6a918
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

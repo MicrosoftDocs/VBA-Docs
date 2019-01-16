@@ -8,6 +8,7 @@ api_name:
 - Excel.Walls.PictureUnit
 ms.assetid: 70c962a0-c21f-2354-b2e0-de00c84566d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

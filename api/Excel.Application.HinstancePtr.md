@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.HinstancePtr
 ms.assetid: fddc40e9-08fc-34ef-60b2-41e8afa86575
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Excel.TextFrame2.WarpFormat
 ms.assetid: 20710bdc-981f-b61d-4be5-f8c760bb9f4c
 ms.date: 09/24/2018
+localization_priority: Normal
 ---
 
 

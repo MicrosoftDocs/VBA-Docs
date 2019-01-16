@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElement.Font
 ms.assetid: da95a6b8-5ee0-df95-0624-f272da27109d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

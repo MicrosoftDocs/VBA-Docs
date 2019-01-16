@@ -8,6 +8,7 @@ api_name:
 - Excel.Interior.InvertIfNegative
 ms.assetid: 4b803a8b-5e30-8f90-2f26-a37d2dada48b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

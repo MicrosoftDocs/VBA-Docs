@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DDEPoke
 ms.assetid: 5d00e0da-e041-7a9e-3b55-f5edd3f2a4a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

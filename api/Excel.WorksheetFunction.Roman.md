@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Roman
 ms.assetid: 59c27951-ad7e-7fe9-af5c-91ff1c68e7d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

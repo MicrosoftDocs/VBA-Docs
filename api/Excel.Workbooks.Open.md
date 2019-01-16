@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbooks.Open
 ms.assetid: 1d1c3fca-ae1a-0a91-65a2-6f3f0fb308a0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

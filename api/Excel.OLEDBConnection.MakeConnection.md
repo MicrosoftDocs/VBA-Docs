@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.MakeConnection
 ms.assetid: ff618eae-1593-aabc-dbcb-427291caf923
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

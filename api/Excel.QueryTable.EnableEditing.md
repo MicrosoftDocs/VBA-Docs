@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.EnableEditing
 ms.assetid: c8297f41-56fa-4d8c-6633-bbda0deb6257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

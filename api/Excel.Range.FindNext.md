@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.FindNext
 ms.assetid: 308c6241-2398-13e6-ba68-17ec713376f6
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

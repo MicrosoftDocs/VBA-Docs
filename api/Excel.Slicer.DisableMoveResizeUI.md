@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.DisableMoveResizeUI
 ms.assetid: 2477e495-e61a-6981-6df2-5bb1cb480576
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

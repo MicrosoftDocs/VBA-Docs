@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.OpenLinks
 ms.assetid: cae33bab-892e-0861-e4ec-8a334097e0d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

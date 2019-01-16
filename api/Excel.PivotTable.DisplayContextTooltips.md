@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayContextTooltips
 ms.assetid: cbc9835a-0c1c-dd26-c5f1-1bbe8f7aaefe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

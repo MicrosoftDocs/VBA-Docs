@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ConflictResolution
 ms.assetid: 5142c848-0731-14d9-5913-bbaa67bf308f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

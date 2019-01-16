@@ -8,6 +8,7 @@ api_name:
 - Excel.Filters.Count
 ms.assetid: 80e03bad-910c-611a-5d79-974bd30f7d0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
