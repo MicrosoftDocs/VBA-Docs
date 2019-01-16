@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebOptionButton.Parent
 ms.assetid: 242ae3ff-591b-8180-6f00-b3ad118e6d28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

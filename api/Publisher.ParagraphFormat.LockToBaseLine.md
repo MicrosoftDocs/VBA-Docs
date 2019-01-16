@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.LockToBaseLine
 ms.assetid: 4430bab6-a338-e61d-681c-6063d4a5c3b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

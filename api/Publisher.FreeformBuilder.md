@@ -8,6 +8,7 @@ api_name:
 - Publisher.FreeformBuilder
 ms.assetid: 542df9f7-f636-a98e-01de-11005b5797cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

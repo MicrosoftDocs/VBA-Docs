@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebOptions.EmailAsImg
 ms.assetid: c44d3b07-2030-4901-b9df-4dcfe08c985c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

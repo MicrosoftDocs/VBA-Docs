@@ -8,6 +8,7 @@ api_name:
 - Project.Task.SVPercent
 ms.assetid: 96d96b8f-0b8d-ecb9-1281-059d759cf443
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

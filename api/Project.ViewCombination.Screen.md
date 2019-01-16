@@ -5,6 +5,7 @@ api_name:
 - Project.ViewCombination.Screen
 ms.assetid: 69cdee63-88eb-1c6e-f73e-627b8b896904
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

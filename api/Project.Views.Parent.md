@@ -5,6 +5,7 @@ api_name:
 - Project.Views.Parent
 ms.assetid: d1727d12-375b-dba0-0e39-433b6de0ee00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

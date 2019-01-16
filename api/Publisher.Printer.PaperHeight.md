@@ -8,6 +8,7 @@ api_name:
 - Publisher.Printer.PaperHeight
 ms.assetid: 2c97adb8-0a24-c375-6105-375b203d5640
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.ShowStatusBar
 ms.assetid: a6eade7f-b056-92ef-0a57-acd466f6a99a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

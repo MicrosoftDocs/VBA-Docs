@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineOffset
 ms.assetid: b80d2114-8132-db13-a50d-ce904dbe5919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

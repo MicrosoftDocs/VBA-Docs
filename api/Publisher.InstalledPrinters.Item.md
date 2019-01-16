@@ -8,6 +8,7 @@ api_name:
 - Publisher.InstalledPrinters.Item
 ms.assetid: 8144478d-ca12-29b8-4541-5f0875fd3d12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

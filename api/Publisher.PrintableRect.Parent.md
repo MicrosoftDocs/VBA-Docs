@@ -8,6 +8,7 @@ api_name:
 - Publisher.PrintableRect.Parent
 ms.assetid: 4c275f11-022a-3ad8-f9f4-0296c5e4521b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

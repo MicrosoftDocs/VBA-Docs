@@ -8,6 +8,7 @@ api_name:
 - Visio.Color.Green
 ms.assetid: 19d792e0-1fc7-e302-eb7d-8a80ad287a52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

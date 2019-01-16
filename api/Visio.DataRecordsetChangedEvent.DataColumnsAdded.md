@@ -8,6 +8,7 @@ api_name:
 - Visio.DataRecordsetChangedEvent.DataColumnsAdded
 ms.assetid: 25787619-9ccf-654a-784c-f5e7d5705f13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

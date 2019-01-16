@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.SetBusinessInformation
 ms.assetid: 8549f75f-2fb6-6ac6-ecaf-54a0a9b22dc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

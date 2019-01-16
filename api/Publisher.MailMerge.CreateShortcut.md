@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMerge.CreateShortcut
 ms.assetid: 96878925-41ce-4873-931e-d5c05307a94a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

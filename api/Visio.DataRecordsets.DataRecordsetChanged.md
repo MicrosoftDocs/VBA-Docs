@@ -5,6 +5,7 @@ api_name:
 - Visio.DataRecordsets.DataRecordsetChanged
 ms.assetid: a0016ac9-bf63-ea19-2e82-bf90a67c4545
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

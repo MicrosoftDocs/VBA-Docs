@@ -5,6 +5,7 @@ api_name:
 - Project.Window.Application
 ms.assetid: 9789e61f-fb67-d7f0-3f35-5399b0798daa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.OLEFormat.Activate
 ms.assetid: 43c01633-f624-c5ef-ba2c-d1ff62e91ec5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

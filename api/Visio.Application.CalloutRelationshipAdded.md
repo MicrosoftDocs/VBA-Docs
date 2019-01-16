@@ -5,6 +5,7 @@ api_name:
 - Visio.Application.CalloutRelationshipAdded
 ms.assetid: f4ab588e-509d-e11a-4ecd-060c67cbdfe3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

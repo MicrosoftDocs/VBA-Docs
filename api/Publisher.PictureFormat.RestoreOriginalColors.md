@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.RestoreOriginalColors
 ms.assetid: 13a0d09f-f809-a1ca-73d9-313ea293d56a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

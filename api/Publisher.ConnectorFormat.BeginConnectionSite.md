@@ -8,6 +8,7 @@ api_name:
 - Publisher.ConnectorFormat.BeginConnectionSite
 ms.assetid: 24a9246e-270f-7289-971d-8763acfaf02d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

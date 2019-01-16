@@ -5,6 +5,7 @@ api_name:
 - Visio.Application.MasterChanged
 ms.assetid: f92d988d-1cbb-00c1-9d5d-46f001e76433
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

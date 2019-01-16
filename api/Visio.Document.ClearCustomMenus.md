@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.ClearCustomMenus
 ms.assetid: 5be16274-151b-e139-8607-76fdb05a4235
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

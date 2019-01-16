@@ -8,6 +8,7 @@ api_name:
 - Publisher.ColorCMYK.Black
 ms.assetid: f404ee43-45e1-6c6d-75cc-b868fdedcd86
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

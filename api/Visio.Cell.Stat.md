@@ -8,6 +8,7 @@ api_name:
 - Visio.Cell.Stat
 ms.assetid: 9421a8f1-8cc1-2e29-b145-958908a3efe9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

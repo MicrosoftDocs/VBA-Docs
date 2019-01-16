@@ -8,6 +8,7 @@ api_name:
 - Visio.DataColumns
 ms.assetid: 620a56f5-d552-1247-22fb-18d07993d5ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

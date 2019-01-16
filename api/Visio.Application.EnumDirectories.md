@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.EnumDirectories
 ms.assetid: 71ed7f7f-3428-5c50-2ab9-5452188dcfe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

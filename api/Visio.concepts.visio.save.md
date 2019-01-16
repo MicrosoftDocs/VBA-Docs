@@ -3,6 +3,7 @@ title: Concepts (Visio Save as Web)
 ms.prod: visio
 ms.assetid: ddafefcd-c103-4725-bdcb-abb7b01c1839
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.Open
 ms.assetid: 43108d1d-d101-8a07-943e-c9b8dbadcbfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

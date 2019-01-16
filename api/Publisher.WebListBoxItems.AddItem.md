@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebListBoxItems.AddItem
 ms.assetid: 1c3af4d1-ed0b-60c6-b607-17712612cec2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

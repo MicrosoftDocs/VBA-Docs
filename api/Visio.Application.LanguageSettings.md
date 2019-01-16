@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.LanguageSettings
 ms.assetid: 3fa0c4a4-3a1c-b035-9f9d-e4358917ebee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

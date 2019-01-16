@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.ViewGuides
 ms.assetid: a0533bc6-8565-eb4f-67e3-b438d4460e80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

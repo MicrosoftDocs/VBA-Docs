@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.Cut
 ms.assetid: d800c1e5-7655-9071-a373-7772fa1ca15f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

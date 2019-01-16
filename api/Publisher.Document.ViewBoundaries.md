@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.ViewBoundaries
 ms.assetid: 6e390607-a3f4-f938-4a3f-75d8a993cf2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

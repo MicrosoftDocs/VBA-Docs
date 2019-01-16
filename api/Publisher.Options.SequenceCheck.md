@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.SequenceCheck
 ms.assetid: a2801af8-5c89-9256-80a6-d9dac17b6066
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

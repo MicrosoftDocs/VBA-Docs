@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.AllowBackgroundSave
 ms.assetid: 5bddfb2d-7fb7-99db-43ea-c6ee53e1d0b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

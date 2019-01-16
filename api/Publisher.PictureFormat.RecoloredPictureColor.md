@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.RecoloredPictureColor
 ms.assetid: 8483c951-965d-e78d-52ff-90a16c76a5ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

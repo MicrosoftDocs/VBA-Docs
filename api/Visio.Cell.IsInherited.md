@@ -8,6 +8,7 @@ api_name:
 - Visio.Cell.IsInherited
 ms.assetid: e68ef657-64dc-2e8e-d21f-d8ff5566a12d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

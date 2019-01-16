@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.ShapesRemoved
 ms.assetid: e2a67359-5673-2c72-e1fc-e3e3a3b564f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

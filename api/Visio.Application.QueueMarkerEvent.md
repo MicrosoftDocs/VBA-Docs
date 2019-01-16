@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.QueueMarkerEvent
 ms.assetid: 2afa9553-db06-12ca-f5ef-28431f56a92d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

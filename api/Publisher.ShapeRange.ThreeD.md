@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.ThreeD
 ms.assetid: e5905f9d-dd84-b97e-ac5d-630f6c1208d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

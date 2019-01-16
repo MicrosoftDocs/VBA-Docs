@@ -8,6 +8,7 @@ api_name:
 - Publisher.Attachment.Delete
 ms.assetid: 935fa9e7-9d40-b820-e386-1a1960845da1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.GroupShapes.Count
 ms.assetid: 718802f3-a23f-fdbe-253f-bfd27189359e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

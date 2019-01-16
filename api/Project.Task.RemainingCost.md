@@ -5,6 +5,7 @@ api_name:
 - Project.Task.RemainingCost
 ms.assetid: 322e8734-907a-40cd-5e4e-1c18eb4ea935
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

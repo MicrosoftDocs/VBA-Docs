@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.ColorType
 ms.assetid: 439f9eb9-2593-d719-4ef6-0f14d1c7d0f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

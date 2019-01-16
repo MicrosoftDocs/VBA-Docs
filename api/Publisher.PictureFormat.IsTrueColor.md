@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.IsTrueColor
 ms.assetid: 63708d40-996a-67ca-b4eb-dd53c83d1764
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

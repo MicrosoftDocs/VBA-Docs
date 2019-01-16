@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.CommandBars
 ms.assetid: 21537c04-d406-6016-4f35-2f6ce6851db2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

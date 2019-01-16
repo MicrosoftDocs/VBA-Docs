@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.IsWizard
 ms.assetid: 61ee1a16-eccb-908f-2b34-eee03175c37e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

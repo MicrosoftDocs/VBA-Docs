@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.DefaultTextFlowDirection
 ms.assetid: 7c17768a-cd9c-704d-fa27-f0dfd7648054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

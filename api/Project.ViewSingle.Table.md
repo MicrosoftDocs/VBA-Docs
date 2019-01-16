@@ -8,6 +8,7 @@ api_name:
 - Project.ViewSingle.Table
 ms.assetid: 356cf967-e443-e068-27f7-c7433f1a5329
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.ExtrusionColorType
 ms.assetid: 5abd895d-0cf3-985d-537e-e45d02f8a852
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

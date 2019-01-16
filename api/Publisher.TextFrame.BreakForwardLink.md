@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextFrame.BreakForwardLink
 ms.assetid: 60a7a798-ebd3-e00d-032d-685dd0d5a042
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

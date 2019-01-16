@@ -8,6 +8,7 @@ api_name:
 - Visio.ContainerProperties.LockMembership
 ms.assetid: b82455fc-f3cb-66de-c022-ac6f63f5b4b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

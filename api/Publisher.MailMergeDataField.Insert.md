@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeDataField.Insert
 ms.assetid: 54482cda-d0d3-c799-7e7f-b25835a8bd6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

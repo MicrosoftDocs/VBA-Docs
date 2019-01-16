@@ -8,6 +8,7 @@ api_name:
 - Publisher.FillFormat.ForeColor
 ms.assetid: 39e7cf23-2ff8-69f3-8bf3-9051959c5418
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.Reset
 ms.assetid: 8ef5c799-cace-133c-33d3-3454df2c2f24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

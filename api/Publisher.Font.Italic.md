@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.Italic
 ms.assetid: c55c0bfa-a365-86ac-4cfb-f6911dadd0af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

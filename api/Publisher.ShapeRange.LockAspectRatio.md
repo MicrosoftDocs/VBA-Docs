@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.LockAspectRatio
 ms.assetid: 8ed4f41f-3395-dd59-29d4-f66afd19ac51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

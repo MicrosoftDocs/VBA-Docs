@@ -8,6 +8,7 @@ api_name:
 - Visio.Characters.RunBegin
 ms.assetid: 6397f797-c481-e2f0-ec38-61a799762552
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

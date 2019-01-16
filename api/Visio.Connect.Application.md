@@ -8,6 +8,7 @@ api_name:
 - Visio.Connect.Application
 ms.assetid: 6ebcb9a4-4653-38ca-6a13-6e5d8db97960
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

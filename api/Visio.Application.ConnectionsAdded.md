@@ -5,6 +5,7 @@ api_name:
 - Visio.Application.ConnectionsAdded
 ms.assetid: bde55734-25c0-8b8d-231d-a597e99a1d2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

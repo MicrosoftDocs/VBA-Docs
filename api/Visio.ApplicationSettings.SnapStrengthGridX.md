@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.SnapStrengthGridX
 ms.assetid: ebe2489d-6643-4303-30fd-720446a4e19d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

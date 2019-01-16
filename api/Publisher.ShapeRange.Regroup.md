@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.Regroup
 ms.assetid: 29342a78-9425-2356-963c-36a62a7f3091
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

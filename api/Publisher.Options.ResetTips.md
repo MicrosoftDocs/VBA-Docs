@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.ResetTips
 ms.assetid: a119aacc-ba19-f430-e8af-6d84c438ec25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

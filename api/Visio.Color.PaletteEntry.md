@@ -8,6 +8,7 @@ api_name:
 - Visio.Color.PaletteEntry
 ms.assetid: 4a761fc2-6696-dc44-6d23-ff630a76bdd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

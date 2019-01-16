@@ -8,6 +8,7 @@ api_name:
 - Publisher.Plate.InkName
 ms.assetid: 248c1529-2706-5458-a13f-def479d16132
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
