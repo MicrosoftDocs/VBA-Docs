@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.DisplayWhen
 ms.assetid: 7029a8ef-6672-7a30-deb4-581f4f66ce7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

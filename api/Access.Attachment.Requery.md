@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.Requery
 ms.assetid: 6af04ea8-02cb-9eda-439d-6c69cd772891
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

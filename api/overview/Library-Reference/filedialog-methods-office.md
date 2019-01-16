@@ -3,6 +3,7 @@ title: FileDialog Methods (Office)
 ms.prod: office
 ms.assetid: a7064992-1b3d-4add-b1d0-072e507751d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

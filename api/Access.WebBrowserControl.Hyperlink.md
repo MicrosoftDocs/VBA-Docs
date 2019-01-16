@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Hyperlink
 ms.assetid: 0f82426e-3bc6-b9ab-7587-ff43978ceec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

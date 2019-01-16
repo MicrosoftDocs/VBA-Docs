@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Section
 ms.assetid: 3baad974-8869-30b5-abe3-8cf754a225b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

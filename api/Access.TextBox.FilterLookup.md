@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.FilterLookup
 ms.assetid: 5c568366-94a5-8d7a-1fb4-80b4b3ab6c7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

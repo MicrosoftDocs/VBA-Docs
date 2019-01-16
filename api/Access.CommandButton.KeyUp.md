@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.KeyUp
 ms.assetid: 6466c06a-d3fc-8187-82dd-7a5c332049a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

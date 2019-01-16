@@ -3,6 +3,7 @@ title: Permission members (Office)
 ms.prod: office
 ms.assetid: 75614d24-cd47-ef9b-aba5-112206daa358
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

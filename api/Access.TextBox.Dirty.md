@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.Dirty
 ms.assetid: d6073892-7618-8e23-1fb1-795d3c76c2b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

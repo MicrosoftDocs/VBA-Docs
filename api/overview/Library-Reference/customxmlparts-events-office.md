@@ -3,6 +3,7 @@ title: CustomXMLParts Events (Office)
 ms.prod: office
 ms.assetid: ad8f9657-e282-434f-8d47-b52dd1931545
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

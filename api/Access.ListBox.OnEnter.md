@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.OnEnter
 ms.assetid: 390d7350-3a93-d9f8-e377-f83102e8b5f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

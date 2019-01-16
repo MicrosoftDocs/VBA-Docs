@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.Recordset
 ms.assetid: ead14d35-eb76-6487-ac9e-329b5d38366c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

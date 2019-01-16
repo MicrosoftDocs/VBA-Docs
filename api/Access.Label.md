@@ -1,4 +1,4 @@
-﻿---
+---
 title: Label object (Access)
 keywords: vbaac10.chm10271
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Access.Label
 ms.assetid: 3d83d916-85d7-b2eb-c9f6-f9a6ff0c9ec7
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

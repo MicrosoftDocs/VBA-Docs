@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.Change
 ms.assetid: 43a0c20c-24dc-3be7-42fd-c000cd2dffb3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

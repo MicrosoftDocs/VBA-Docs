@@ -8,6 +8,7 @@ api_name:
 - Access.Printer.PaperSize
 ms.assetid: f2bafab2-f5bd-21be-fc5e-b428c31c9e4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

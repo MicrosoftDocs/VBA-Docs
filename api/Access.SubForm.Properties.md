@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.Properties
 ms.assetid: ad472204-659e-bd87-de99-07a2828ae274
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

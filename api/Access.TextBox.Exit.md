@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.Exit
 ms.assetid: 05b5afca-4cb9-f12b-e05b-8702e35380d0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.OnMouseDown
 ms.assetid: 52b27f17-3df7-b0ab-23cd-7913cebaa979
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

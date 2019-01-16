@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.TabIndex
 ms.assetid: d52e0839-e0aa-1b67-b075-115ad7b2f774
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

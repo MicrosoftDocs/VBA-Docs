@@ -8,6 +8,7 @@ api_name:
 - Access.Label.GridlineThemeColorIndex
 ms.assetid: 3c691628-98c6-0fb6-7416-beeb823e5823
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

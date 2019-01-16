@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.InSelection
 ms.assetid: 32362d58-5fa1-8410-6a7f-522ddef843c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

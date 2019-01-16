@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DeleteReportControl
 ms.assetid: 26e30033-ab56-9cfa-3c35-f6d47caf8bd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

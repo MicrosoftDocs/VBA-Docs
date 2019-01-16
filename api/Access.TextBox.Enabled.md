@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.Enabled
 ms.assetid: a13297e5-091c-7e83-78cd-fa67f5b81153
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.GridlineStyleTop
 ms.assetid: 44907fd4-2458-01f8-58e7-95c732de6f7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

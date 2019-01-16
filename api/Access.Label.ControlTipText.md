@@ -8,6 +8,7 @@ api_name:
 - Access.Label.ControlTipText
 ms.assetid: 40f37cf5-8e3a-7b3a-8692-57fe8abc6004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

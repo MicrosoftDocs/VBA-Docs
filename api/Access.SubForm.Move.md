@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.Move
 ms.assetid: 60ceea6d-d418-4622-b8b9-788850aee17b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

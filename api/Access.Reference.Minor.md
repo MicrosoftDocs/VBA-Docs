@@ -8,6 +8,7 @@ api_name:
 - Access.Reference.Minor
 ms.assetid: 7c227db9-9b75-92e5-d32d-e3fda027c145
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

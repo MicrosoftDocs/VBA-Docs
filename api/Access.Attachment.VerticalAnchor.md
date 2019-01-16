@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.VerticalAnchor
 ms.assetid: bbb588c4-ec99-1352-4f1b-fd166d67df33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

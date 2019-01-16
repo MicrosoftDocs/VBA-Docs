@@ -8,6 +8,7 @@ api_name:
 - Access.Application.VBE
 ms.assetid: b9ce562e-cfb1-4b39-a287-2c0629f38c7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

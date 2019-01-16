@@ -8,6 +8,7 @@ api_name:
 - Access.Reports.Parent
 ms.assetid: cabbf01e-783e-28cd-2099-0d23b5cadc21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

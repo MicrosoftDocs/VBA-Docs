@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.BorderThemeColorIndex
 ms.assetid: 19717679-b20e-f5ac-fac9-5349b4227e62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

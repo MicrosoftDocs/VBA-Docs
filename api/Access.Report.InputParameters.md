@@ -8,6 +8,7 @@ api_name:
 - Access.Report.InputParameters
 ms.assetid: c544db38-9d31-42ff-3fb7-98a79d9d2fc2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

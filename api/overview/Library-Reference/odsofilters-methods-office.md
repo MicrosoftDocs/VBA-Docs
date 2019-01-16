@@ -3,6 +3,7 @@ title: ODSOFilters Methods (Office)
 ms.prod: office
 ms.assetid: 608a48ac-7dd1-4db4-9383-a03f680586b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.AcDataObjectType
 ms.assetid: 0e9f8481-ef01-2415-414a-64788c18e6ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

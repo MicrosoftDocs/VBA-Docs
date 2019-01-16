@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Height
 ms.assetid: 59492efc-5cb0-2659-d930-946831f8c873
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

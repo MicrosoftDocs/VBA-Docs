@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.StatusBarText
 ms.assetid: 6bf20a7a-385e-c5e2-a924-e886eb8997a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

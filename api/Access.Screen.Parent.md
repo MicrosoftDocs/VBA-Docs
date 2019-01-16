@@ -8,6 +8,7 @@ api_name:
 - Access.Screen.Parent
 ms.assetid: 82df42fb-8049-8abc-09b3-ad70860a1c43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

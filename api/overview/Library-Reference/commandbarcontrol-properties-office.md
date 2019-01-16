@@ -3,6 +3,7 @@ title: CommandBarControl Properties (Office)
 ms.prod: office
 ms.assetid: 420950c0-0db8-46d5-93a8-13ab72253a64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

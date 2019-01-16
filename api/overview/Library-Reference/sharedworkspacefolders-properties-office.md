@@ -3,6 +3,7 @@ title: SharedWorkspaceFolders Properties (Office)
 ms.prod: office
 ms.assetid: ca30204c-5d80-410f-8ad6-7a20c551671a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

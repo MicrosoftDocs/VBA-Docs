@@ -8,6 +8,7 @@ api_name:
 - Access.SmartTagActions.Count
 ms.assetid: 8b881d50-6488-8162-3caf-5ab3f659f946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

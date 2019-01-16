@@ -8,6 +8,7 @@ api_name:
 - Access.Form.VerticalDatasheetGridlineStyle
 ms.assetid: b0174311-f03b-aa6a-b15a-697f6be1b2ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.DocumentComplete
 ms.assetid: 8cb83f9f-b9c2-8534-8fe3-eb5c56338d6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

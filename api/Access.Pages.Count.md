@@ -8,6 +8,7 @@ api_name:
 - Access.Pages.Count
 ms.assetid: 6bf4c0b5-5ee5-a02e-ada8-4d9771287a82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

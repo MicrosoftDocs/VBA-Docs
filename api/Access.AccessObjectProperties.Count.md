@@ -8,6 +8,7 @@ api_name:
 - Access.AccessObjectProperties.Count
 ms.assetid: f7fe194e-17d9-d197-b6e6-5ae964be7783
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

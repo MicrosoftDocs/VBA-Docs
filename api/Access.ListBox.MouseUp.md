@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.MouseUp
 ms.assetid: 8d2d5ca3-e93f-9021-341c-769948432d2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

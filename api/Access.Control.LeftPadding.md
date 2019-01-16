@@ -8,6 +8,7 @@ api_name:
 - Access.Control.LeftPadding
 ms.assetid: 42354a61-958a-7c9a-6091-a1884c77ef8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

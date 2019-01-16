@@ -8,6 +8,7 @@ api_name:
 - Access.Label.FontItalic
 ms.assetid: 7eac7678-1d06-668c-3b85-8a7142a066d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

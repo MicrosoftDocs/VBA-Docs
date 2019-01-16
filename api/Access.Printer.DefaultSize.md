@@ -8,6 +8,7 @@ api_name:
 - Access.Printer.DefaultSize
 ms.assetid: b5dd3ce8-a5db-7562-5760-fc07c4409130
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: SignatureProvider Methods (Office)
 ms.prod: office
 ms.assetid: f1f7fb9a-1f06-4016-9c7a-001458923325
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

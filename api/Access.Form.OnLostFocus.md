@@ -8,6 +8,7 @@ api_name:
 - Access.Form.OnLostFocus
 ms.assetid: 2bbc34d2-e4e6-7133-ef9e-d112514ace92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: Represents a collection of Smart Art quick styles.
 ms.prod: office
 ms.assetid: ba7c9174-4f17-c144-f115-3b46991bc74c
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

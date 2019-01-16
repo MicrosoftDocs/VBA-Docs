@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.ControlSource
 ms.assetid: a2d61057-fe0b-4c00-88f9-f375074d7b3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

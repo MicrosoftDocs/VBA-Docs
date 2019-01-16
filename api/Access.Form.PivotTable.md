@@ -8,6 +8,7 @@ api_name:
 - Access.Form.PivotTable
 ms.assetid: a80edfb5-966b-e1d9-d13e-daefe06c6777
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

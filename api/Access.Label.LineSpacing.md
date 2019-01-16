@@ -8,6 +8,7 @@ api_name:
 - Access.Label.LineSpacing
 ms.assetid: 871f8b35-d304-4611-4b9c-b7d09b252c11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

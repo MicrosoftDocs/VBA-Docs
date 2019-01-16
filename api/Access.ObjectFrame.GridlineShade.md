@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.GridlineShade
 ms.assetid: 837f3c0b-5597-7abd-e580-c92f099d4448
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: PickerProperties members (Office)
 ms.prod: office
 ms.assetid: ccea858b-6cd6-89be-7ab1-8edaa44099a1
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

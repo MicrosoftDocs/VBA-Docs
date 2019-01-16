@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.TabStop
 ms.assetid: ec624311-cad4-87b7-e697-053c939a078a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.ScrollBars
 ms.assetid: de3adbf1-4398-8782-0998-d392ab860669
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: RulerLevel2 members (Office)
 ms.prod: office
 ms.assetid: e70ec0f0-2e89-927d-6eea-27bb4b8f5e6f
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

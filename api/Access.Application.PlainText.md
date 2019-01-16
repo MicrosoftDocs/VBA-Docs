@@ -8,6 +8,7 @@ api_name:
 - Access.Application.PlainText
 ms.assetid: 76a14feb-abee-9306-fe10-27765c4a47c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

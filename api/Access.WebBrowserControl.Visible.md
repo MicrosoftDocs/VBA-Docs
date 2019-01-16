@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Visible
 ms.assetid: e46ef067-30a7-a0ea-f2ec-e10ddef4bd6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

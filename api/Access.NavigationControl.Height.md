@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.Height
 ms.assetid: bf46c094-6eef-452b-dca9-ff6d4a3e5006
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

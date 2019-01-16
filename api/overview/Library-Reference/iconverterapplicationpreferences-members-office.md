@@ -3,6 +3,7 @@ title: IConverterApplicationPreferences members (Office)
 ms.prod: office
 ms.assetid: 8a453f08-3086-6baa-be8a-1cd0c81c80ae
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

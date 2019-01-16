@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.LabelY
 ms.assetid: 8577bdf8-b941-688a-fae3-a74aba173996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

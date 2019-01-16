@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentProject.CloseConnection
 ms.assetid: f2feac44-e509-48d7-e815-e0cf2935d7b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.LabelX
 ms.assetid: 4693ae47-a90d-6467-4e84-5ec0a78ff2e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

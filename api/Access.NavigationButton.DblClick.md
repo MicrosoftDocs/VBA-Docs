@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.DblClick
 ms.assetid: a1804a0b-0c6a-3e3c-4ae1-7819666176b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.Restore
 ms.assetid: 455c2589-6d1a-aa87-d338-37bcb0abe608
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

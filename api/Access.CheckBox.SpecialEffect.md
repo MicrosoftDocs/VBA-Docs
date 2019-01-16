@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.SpecialEffect
 ms.assetid: 5e09067e-1648-8f95-f10a-5e125c28def5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

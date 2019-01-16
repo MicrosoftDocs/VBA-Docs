@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.Locked
 ms.assetid: 1fb9951a-e531-0423-38bf-f7e4c922acc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

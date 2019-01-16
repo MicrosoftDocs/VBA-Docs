@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.ControlType
 ms.assetid: 28d4cab5-7265-64f6-1b71-ac1eb43b7c44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentProject.BaseConnectionString
 ms.assetid: 280bb905-d321-d844-8ab6-6c9352dd3ab0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.ObjectVerbs
 ms.assetid: fae2e8b8-6326-143f-15cd-ba1f1c541f5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

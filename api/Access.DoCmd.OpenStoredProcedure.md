@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.OpenStoredProcedure
 ms.assetid: 90e229f9-072a-8d41-4c9b-363501770c8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Image.EventProcPrefix
 ms.assetid: 57817dd3-62ed-5595-8196-f914f1fda037
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

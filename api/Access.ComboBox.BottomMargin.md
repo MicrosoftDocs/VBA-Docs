@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.BottomMargin
 ms.assetid: aaabb534-e328-fb1d-92bc-4cbab0e0469f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

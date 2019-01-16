@@ -8,6 +8,7 @@ api_name:
 - Access.Report.OnKeyPress
 ms.assetid: 9f6dcc2e-b2b1-56bc-2c3a-c7be498eda72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

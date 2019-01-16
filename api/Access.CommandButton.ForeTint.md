@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.ForeTint
 ms.assetid: 87b29d73-fdbf-0ffa-d2eb-78d182625458
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.RunSQL
 ms.assetid: 5d61f75a-b220-cc2c-edea-51a6d4f9f106
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

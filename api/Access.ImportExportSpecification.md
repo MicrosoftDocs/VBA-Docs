@@ -8,6 +8,7 @@ api_name:
 - Access.ImportExportSpecification
 ms.assetid: a274faba-6da3-35c5-52fc-3341e8def24a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

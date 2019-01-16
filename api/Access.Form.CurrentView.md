@@ -8,6 +8,7 @@ api_name:
 - Access.Form.CurrentView
 ms.assetid: d173222e-99d1-704e-ee3c-246263725706
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

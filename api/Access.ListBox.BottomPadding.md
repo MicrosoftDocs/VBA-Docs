@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.BottomPadding
 ms.assetid: 80de2112-a66c-9d53-0d17-54ca2ff90a98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

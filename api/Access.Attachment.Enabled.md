@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.Enabled
 ms.assetid: d0838624-4ed8-6099-8aac-ea947de2f56e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

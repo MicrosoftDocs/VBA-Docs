@@ -8,6 +8,7 @@ api_name:
 - Access.Report.FontSize
 ms.assetid: 7fbb96dd-9354-39e3-a62a-0ca0e3532126
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

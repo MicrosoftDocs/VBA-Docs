@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.BackThemeColorIndex
 ms.assetid: 891e6d86-5935-1d75-1cda-ea5bcb422583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

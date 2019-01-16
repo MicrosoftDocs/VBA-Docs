@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.SelText
 ms.assetid: dc2b46d7-c688-c9b5-c44f-c490a91589fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

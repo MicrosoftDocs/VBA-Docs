@@ -8,6 +8,7 @@ api_name:
 - Access.AcProperty
 ms.assetid: d5a4b6f9-451a-9b8e-9120-18097ecdc494
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

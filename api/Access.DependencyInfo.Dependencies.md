@@ -8,6 +8,7 @@ api_name:
 - Access.DependencyInfo.Dependencies
 ms.assetid: 412c0237-464b-0790-5518-1266d9ded8a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

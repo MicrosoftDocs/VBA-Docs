@@ -8,6 +8,7 @@ api_name:
 - Access.Application.SetDefaultWorkgroupFile
 ms.assetid: 64dc24a0-e6dc-685f-620a-463417e8a25d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

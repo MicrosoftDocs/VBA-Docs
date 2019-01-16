@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BorderTint
 ms.assetid: f171677a-d8a2-f0fb-233e-636ec13e20f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

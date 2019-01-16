@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.Properties
 ms.assetid: c18becf1-d840-3b67-ca27-6c1549b00b48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

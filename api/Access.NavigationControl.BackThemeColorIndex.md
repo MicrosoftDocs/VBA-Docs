@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.BackThemeColorIndex
 ms.assetid: 7f9e0ebe-0b25-28ed-5b68-e5ead2c72ef0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

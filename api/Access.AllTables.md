@@ -8,6 +8,7 @@ api_name:
 - Access.AllTables
 ms.assetid: 530bff2d-1d0b-4790-a0f4-ffc628e7f130
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Report.GotFocus
 ms.assetid: 667b4798-4407-f60f-af3a-7788a0501761
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Application.FollowHyperlink
 ms.assetid: b5142ca6-8d67-c42b-81a4-5417265a50b0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

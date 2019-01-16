@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.GridlineShade
 ms.assetid: 33daf4ec-1587-63c8-4b23-2abdf5087bbe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

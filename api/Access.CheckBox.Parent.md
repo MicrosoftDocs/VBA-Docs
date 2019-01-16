@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.Parent
 ms.assetid: c95e4144-3bf5-f38c-dbb5-02e752459c0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

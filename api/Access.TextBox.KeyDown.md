@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.KeyDown
 ms.assetid: 00324700-f101-48a0-242f-bdabf4f2d70d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

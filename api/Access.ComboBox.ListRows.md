@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ListRows
 ms.assetid: b418e124-71b6-2ffb-101d-b56aadebb1fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

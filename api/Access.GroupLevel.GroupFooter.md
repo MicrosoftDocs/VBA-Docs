@@ -8,6 +8,7 @@ api_name:
 - Access.GroupLevel.GroupFooter
 ms.assetid: c10d30b2-da18-cd6f-8b00-e964cd4751d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

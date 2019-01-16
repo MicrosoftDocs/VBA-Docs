@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.Layout
 ms.assetid: b4a2f19f-de56-b82d-4dab-3c22bc41cf94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

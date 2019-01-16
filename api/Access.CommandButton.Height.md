@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Height
 ms.assetid: 40b8e9fb-8573-7bb2-9467-12ca5b593a04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

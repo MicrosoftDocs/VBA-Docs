@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.TabIndex
 ms.assetid: a962d94f-9e3d-b52e-1e0b-50aa27b98e58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Entity
 ms.assetid: fbce3ef6-bca4-92c6-c191-fd89ad33e888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

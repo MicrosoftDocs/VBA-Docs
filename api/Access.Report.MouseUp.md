@@ -8,6 +8,7 @@ api_name:
 - Access.Report.MouseUp
 ms.assetid: e7b6aa74-1cba-ee10-03d1-11236d14faae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

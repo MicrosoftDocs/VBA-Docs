@@ -8,6 +8,7 @@ api_name:
 - Access.AcPrintRange
 ms.assetid: 78d5a3d5-a94d-fb8c-45dd-5ba757576194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

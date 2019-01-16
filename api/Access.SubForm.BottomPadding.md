@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.BottomPadding
 ms.assetid: d20ce09c-ef6b-47cb-c437-b9e87169adf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

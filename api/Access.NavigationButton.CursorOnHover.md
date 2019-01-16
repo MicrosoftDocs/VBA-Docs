@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.CursorOnHover
 ms.assetid: 85d77454-b372-d4ed-75c0-1c3f6065967a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

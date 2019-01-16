@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentProject.AddSharedImage
 ms.assetid: c6c02f12-6c5f-852a-65b7-a0ffbb3346fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

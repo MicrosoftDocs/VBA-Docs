@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.ForeShade
 ms.assetid: 312eb5f5-0ed8-e3da-0720-420ed03ee19c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

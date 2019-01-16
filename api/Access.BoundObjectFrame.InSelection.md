@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.InSelection
 ms.assetid: 8212bebc-0d9c-6476-a8f6-f1bbd3c26066
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.AllFunctions.Application
 ms.assetid: a71106f9-2949-c514-62aa-3c8cbff9cf09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

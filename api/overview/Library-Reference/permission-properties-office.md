@@ -3,6 +3,7 @@ title: Permission Properties (Office)
 ms.prod: office
 ms.assetid: bac06608-392a-412f-bba1-46f9e663797c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

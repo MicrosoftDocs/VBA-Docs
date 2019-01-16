@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.EventProcPrefix
 ms.assetid: 28f4d70b-8206-2481-9b83-c1bbc2767b82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

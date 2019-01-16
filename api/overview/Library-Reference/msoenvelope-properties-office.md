@@ -3,6 +3,7 @@ title: MsoEnvelope Properties (Office)
 ms.prod: office
 ms.assetid: dc2fc7bc-8c1e-4ea1-abfe-56f5c3bbbe1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

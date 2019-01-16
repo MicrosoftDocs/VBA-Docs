@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.SizeToFit
 ms.assetid: f1511d4f-367e-85e4-cc5c-cdb0f8a72d8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnKeyPress
 ms.assetid: 9f79f4cb-09dd-a6db-c70c-b77c83caa315
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

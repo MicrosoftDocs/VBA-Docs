@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.OnKeyUp
 ms.assetid: 56e5a246-5907-f537-0c89-a746beab0865
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

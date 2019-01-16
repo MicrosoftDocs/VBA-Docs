@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.OnKeyUp
 ms.assetid: 77ebdf97-ae3f-73f4-d670-3c99d1f4f87d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

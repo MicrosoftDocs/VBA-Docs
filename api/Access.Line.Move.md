@@ -8,6 +8,7 @@ api_name:
 - Access.Line.Move
 ms.assetid: 1b76591e-3b2e-b3c6-8ca0-2378198a50f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

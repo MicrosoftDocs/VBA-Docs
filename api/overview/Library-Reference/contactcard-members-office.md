@@ -3,6 +3,7 @@ title: ContactCard members (Office)
 ms.prod: office
 ms.assetid: 8e7fc57b-7abc-7a94-c1ab-a1283f890c27
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

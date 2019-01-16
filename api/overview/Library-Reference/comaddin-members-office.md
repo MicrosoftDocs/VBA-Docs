@@ -3,6 +3,7 @@ title: COMAddIn members (Office)
 ms.prod: office
 ms.assetid: 698d4d8e-6071-acd3-a39b-ab01fd878452
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

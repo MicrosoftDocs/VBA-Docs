@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.Width
 ms.assetid: 7a42f8ef-6c69-1fa8-d326-95f1aab8880a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

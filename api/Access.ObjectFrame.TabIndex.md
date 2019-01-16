@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.TabIndex
 ms.assetid: 3eae97f2-daa4-c9e9-2e4e-a17f153d5633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

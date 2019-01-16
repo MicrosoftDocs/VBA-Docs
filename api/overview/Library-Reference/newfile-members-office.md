@@ -3,6 +3,7 @@ title: NewFile members (Office)
 ms.prod: office
 ms.assetid: dc0ff9f2-6703-b835-26d8-9c5c2c0af763
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

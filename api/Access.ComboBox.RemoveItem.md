@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.RemoveItem
 ms.assetid: 9e70c221-e2fd-d006-1460-2b1902b0b0ea
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.FormatConditions.Count
 ms.assetid: 3a8473d0-ff81-eaec-0567-c34d45f49a05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

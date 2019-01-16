@@ -3,6 +3,7 @@ title: GradientStops Properties (Office)
 ms.prod: office
 ms.assetid: 59b1b577-734e-4dcc-907c-b6d9dd1e7911
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

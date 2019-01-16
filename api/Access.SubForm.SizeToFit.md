@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.SizeToFit
 ms.assetid: 86f00466-3457-ded7-bfca-a4cb587f10a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

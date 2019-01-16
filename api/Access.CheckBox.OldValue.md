@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.OldValue
 ms.assetid: b0e0261d-82d2-47e1-3e0b-b9582798cd9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

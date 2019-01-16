@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.IMESentenceMode
 ms.assetid: f56b97cb-73c9-f5ff-a467-6e7dcd64e613
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

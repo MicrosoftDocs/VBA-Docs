@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.LayoutID
 ms.assetid: 591a05e2-d014-8e0d-036b-166d8366284e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

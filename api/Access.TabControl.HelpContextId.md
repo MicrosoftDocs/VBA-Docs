@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.HelpContextId
 ms.assetid: d06814d5-7281-d313-844b-fbff296a858d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

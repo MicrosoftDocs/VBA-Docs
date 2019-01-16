@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Left
 ms.assetid: 4e14da0d-2b92-73b3-d942-06211e1f5e59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.Parent
 ms.assetid: e6b36fe8-b4d3-6571-0965-f27ac611fd29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

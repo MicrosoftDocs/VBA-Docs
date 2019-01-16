@@ -3,6 +3,7 @@ title: SearchScope Properties (Office)
 ms.prod: office
 ms.assetid: b2f0a7a0-1b35-4fc5-b4f9-871b8fe83ba6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.AcWebBrowserScrollBars
 ms.assetid: 656bdfc2-52ab-eeb5-d0e0-ef3d27882a2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

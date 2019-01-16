@@ -8,6 +8,7 @@ api_name:
 - Access.Label.BackTint
 ms.assetid: 63825295-8bd1-6dfc-8bfc-3cb346b46ad0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

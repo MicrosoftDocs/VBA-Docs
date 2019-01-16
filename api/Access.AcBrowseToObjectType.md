@@ -8,6 +8,7 @@ api_name:
 - Access.AcBrowseToObjectType
 ms.assetid: 52388196-e1e3-f199-24e8-04b399d55cfb
 ms.date: 11/28/2018
+localization_priority: Normal
 ---
 
 

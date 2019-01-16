@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.HorizontalAnchor
 ms.assetid: 6169f797-eb38-933e-96ca-d1b3259eb2e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

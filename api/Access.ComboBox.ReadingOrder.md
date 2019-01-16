@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ReadingOrder
 ms.assetid: 83989cec-fcab-0b83-5b5a-5dedc1a77aea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

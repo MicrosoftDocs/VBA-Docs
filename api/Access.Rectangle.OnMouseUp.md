@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.OnMouseUp
 ms.assetid: dbea1e29-6084-1728-2b2c-2a17312b451e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

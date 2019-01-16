@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.Tag
 ms.assetid: 3aa44f1b-9373-86df-fd78-ac9f5e3f8108
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

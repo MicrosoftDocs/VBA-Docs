@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.PressedTint
 ms.assetid: 11439c75-f951-a551-12ee-b7b2d2e8ee94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

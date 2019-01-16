@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Layout
 ms.assetid: 61e0b921-ee37-af21-e84f-64f0b682e05c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: BulletFormat2 members (Office)
 ms.prod: office
 ms.assetid: 1a86b4e3-0c8c-1900-708f-37486bf71169
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

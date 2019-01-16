@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.BackShade
 ms.assetid: 31628a36-f0f9-92df-99ee-1540ed3831e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

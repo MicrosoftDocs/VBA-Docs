@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Printer
 ms.assetid: c533271a-c500-57de-f16c-ed384698f829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

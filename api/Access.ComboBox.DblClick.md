@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.DblClick
 ms.assetid: 76f71a30-6e66-1677-4d09-24c2a420d404
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

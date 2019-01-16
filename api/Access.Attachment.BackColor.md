@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.BackColor
 ms.assetid: 7a96f656-4ca5-ebf8-47d9-7fe1f4939517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

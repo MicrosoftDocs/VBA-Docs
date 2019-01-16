@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.LeftPadding
 ms.assetid: e0437bb1-e6cb-fe5f-3aed-f4d068aff22c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

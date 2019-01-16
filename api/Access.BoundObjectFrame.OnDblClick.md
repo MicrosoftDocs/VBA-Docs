@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnDblClick
 ms.assetid: 554db576-5976-6f05-0cb4-fdc6a38fd09c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.OldValue
 ms.assetid: dc294bee-49b7-af3e-745e-63dde913c52f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

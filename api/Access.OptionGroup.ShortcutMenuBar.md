@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.ShortcutMenuBar
 ms.assetid: f08f9c3a-f267-dab7-48db-3c972131b6e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

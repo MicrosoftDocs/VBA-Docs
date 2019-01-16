@@ -8,6 +8,7 @@ api_name:
 - Access.Section.OnClick
 ms.assetid: f832f471-dcda-a951-78d7-b963a83fd4bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Label.OnMouseMove
 ms.assetid: 31d14519-05c4-687f-af51-8ca198f5c7de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Label.BackThemeColorIndex
 ms.assetid: 80e07716-0b29-c926-6433-5b4660ae080a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

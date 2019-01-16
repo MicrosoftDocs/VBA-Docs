@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Picture
 ms.assetid: 1d0d5956-719e-13eb-e6ca-319f8da78754
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

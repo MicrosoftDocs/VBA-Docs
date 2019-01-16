@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.OnMouseMove
 ms.assetid: 32dae617-f4b8-6a32-36a6-3792ffffcde8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

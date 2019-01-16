@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.EventProcPrefix
 ms.assetid: 84bf1794-9b36-91eb-23d3-e5db4e951f85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
