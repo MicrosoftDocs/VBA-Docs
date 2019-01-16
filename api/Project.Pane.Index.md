@@ -5,6 +5,7 @@ api_name:
 - Project.Pane.Index
 ms.assetid: 6989c013-eb83-05ea-77c4-1c90517f389b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

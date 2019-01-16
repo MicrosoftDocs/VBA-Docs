@@ -8,6 +8,7 @@ api_name:
 - Project.Application.PaneClose
 ms.assetid: 07a0a80f-f036-db3e-a252-ca70de4cb815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

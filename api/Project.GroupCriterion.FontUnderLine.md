@@ -5,6 +5,7 @@ api_name:
 - Project.GroupCriterion.FontUnderLine
 ms.assetid: 5df75029-98f7-38d4-dd3e-aff55bb38fc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.LastSlideViewed
 ms.assetid: 47647e03-d898-47b5-cb50-79f3e368b56f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ZoomOut
 ms.assetid: d72dae84-638c-76c7-2de1-4b02b0a0a731
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

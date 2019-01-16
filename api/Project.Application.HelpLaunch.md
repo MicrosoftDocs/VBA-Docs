@@ -8,6 +8,7 @@ api_name:
 - Project.Application.HelpLaunch
 ms.assetid: 05e4e98c-bda7-5b41-372b-2f3752d2ab0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.PresetMaterial
 ms.assetid: 71f224d4-6c2c-b42b-9a1a-a2ace4bb279f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

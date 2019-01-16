@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.MoveToSectionStart
 ms.assetid: 2957ffd7-78f9-70db-6e87-46c89f84f1a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

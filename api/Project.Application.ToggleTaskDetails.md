@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ToggleTaskDetails
 ms.assetid: c27dffe7-6814-85f5-9c49-21e0efb12cd1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

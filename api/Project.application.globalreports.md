@@ -3,6 +3,7 @@ title: Application.GlobalReports Property (Project)
 ms.prod: project-server
 ms.assetid: 736be78c-2571-b07f-369c-845a06f9d1f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

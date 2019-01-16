@@ -5,6 +5,7 @@ api_name:
 - Project.SplitPart.Index
 ms.assetid: 9e317531-6f4f-4053-c628-4b5e8a19d840
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

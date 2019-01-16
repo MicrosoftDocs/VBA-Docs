@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ProtectedViewWindow.Parent
 ms.assetid: 63e44c9d-a3c7-50fb-ca11-3324014f0d3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

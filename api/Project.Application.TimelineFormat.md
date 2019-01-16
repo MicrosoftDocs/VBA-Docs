@@ -8,6 +8,7 @@ api_name:
 - Project.Application.TimelineFormat
 ms.assetid: 96f936a1-15be-8df4-4683-cd876c8a69ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

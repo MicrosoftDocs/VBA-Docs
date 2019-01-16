@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.SV
 ms.assetid: c63cd139-5a5e-2111-ed52-f239d401f227
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

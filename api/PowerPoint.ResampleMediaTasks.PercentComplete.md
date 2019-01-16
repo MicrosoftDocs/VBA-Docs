@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ResampleMediaTasks.PercentComplete
 ms.assetid: 9a77d2f3-5c44-e036-3c09-fcc8d831148f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CacheStatus
 ms.assetid: 77d4498f-bc75-7d97-3d12-4edc9263f32e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

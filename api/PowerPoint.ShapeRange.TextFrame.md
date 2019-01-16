@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.TextFrame
 ms.assetid: ec6093f2-232b-361b-b85d-7a99fafd8878
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

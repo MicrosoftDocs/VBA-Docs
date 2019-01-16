@@ -5,6 +5,7 @@ api_name:
 - Project.Project.DeliverableRefreshServerCache
 ms.assetid: 52fe1833-7eab-f65e-a31c-efadb13b89d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

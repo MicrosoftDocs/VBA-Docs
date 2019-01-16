@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.DefaultLanguageID
 ms.assetid: 8568c96c-b997-6a92-e93b-0f3d091383e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

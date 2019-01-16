@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.ErrorMessage
 ms.assetid: cb78732f-8c9c-df97-b6bc-c4eb52f4bf16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

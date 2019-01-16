@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.View.PrintOptions
 ms.assetid: ee0aeece-e1f9-36ce-1d5d-cec9e0e4046b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

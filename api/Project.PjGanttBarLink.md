@@ -5,6 +5,7 @@ api_name:
 - Project.PjGanttBarLink
 ms.assetid: aa55b82c-f639-ad1d-b156-861f006267f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

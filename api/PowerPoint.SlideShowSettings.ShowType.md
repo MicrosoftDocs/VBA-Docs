@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.ShowType
 ms.assetid: 6537dd4c-8029-3e95-7073-7701ba12a627
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

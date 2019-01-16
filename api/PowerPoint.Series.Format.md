@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Series.Format
 ms.assetid: 2c1e7a2e-6f2e-7b18-c29b-cec3ba61f563
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

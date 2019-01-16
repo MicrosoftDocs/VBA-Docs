@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CloseComparison
 ms.assetid: 27c4dc50-7a85-fe92-f294-e5d568b88ed2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

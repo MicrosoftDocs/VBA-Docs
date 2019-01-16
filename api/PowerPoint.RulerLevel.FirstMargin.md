@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.RulerLevel.FirstMargin
 ms.assetid: 9149006e-d518-bb68-4244-b6047387b672
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

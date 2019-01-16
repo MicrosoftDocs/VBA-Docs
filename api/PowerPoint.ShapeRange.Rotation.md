@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Rotation
 ms.assetid: 06969cb4-086d-360e-70eb-5e7a80da5f69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

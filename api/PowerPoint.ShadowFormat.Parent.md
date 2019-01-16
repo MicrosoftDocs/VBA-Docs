@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShadowFormat.Parent
 ms.assetid: 93245fb3-2704-b43b-391a-52213cf0759e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

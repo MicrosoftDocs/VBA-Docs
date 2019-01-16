@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.Lines
 ms.assetid: 8e9f344b-2e74-5a9d-06e8-3e6ff9ca6bd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

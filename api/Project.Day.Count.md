@@ -5,6 +5,7 @@ api_name:
 - Project.Day.Count
 ms.assetid: 2f5c33fb-b744-6c50-5337-da693d93f28b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

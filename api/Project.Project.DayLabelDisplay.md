@@ -5,6 +5,7 @@ api_name:
 - Project.Project.DayLabelDisplay
 ms.assetid: 6888b00a-3589-1e39-1394-c5089ec38521
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

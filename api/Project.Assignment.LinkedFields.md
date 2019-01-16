@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.LinkedFields
 ms.assetid: 72db7318-589e-bb65-a7ee-0e5031fb1122
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

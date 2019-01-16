@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SectionProperties.Name
 ms.assetid: d90b7585-929e-b7a2-ec53-081c5a579d08
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

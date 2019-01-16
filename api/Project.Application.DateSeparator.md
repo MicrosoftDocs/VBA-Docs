@@ -8,6 +8,7 @@ api_name:
 - Project.Application.DateSeparator
 ms.assetid: ff89ed80-4839-4195-09a7-f1d6ab4ad88a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

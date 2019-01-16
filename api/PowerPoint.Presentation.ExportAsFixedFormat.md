@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.ExportAsFixedFormat
 ms.assetid: bad3c9cb-49d7-2fdd-5110-9c1ed6491b08
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

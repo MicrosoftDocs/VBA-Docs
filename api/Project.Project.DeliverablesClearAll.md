@@ -5,6 +5,7 @@ api_name:
 - Project.Project.DeliverablesClearAll
 ms.assetid: 0732ad3d-7793-1a6f-8b01-a0dca83ad415
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

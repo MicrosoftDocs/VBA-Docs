@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.MediaFormat
 ms.assetid: d8c02203-9570-247c-d0c4-d823b349ad84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

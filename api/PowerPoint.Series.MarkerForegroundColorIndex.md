@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.MarkerForegroundColorIndex
 ms.assetid: 85535a03-fb8c-fe76-9b67-ef60d51987b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

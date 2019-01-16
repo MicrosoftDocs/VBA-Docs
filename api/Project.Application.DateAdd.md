@@ -5,6 +5,7 @@ api_name:
 - Project.Application.DateAdd
 ms.assetid: df0da054-495c-c224-ebc8-b47acb78e2af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.TaskMoveToStatusDate
 ms.assetid: 100ec970-ca52-2ac8-f367-c346c40e4c61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

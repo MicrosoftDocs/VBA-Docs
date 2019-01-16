@@ -8,6 +8,7 @@ api_name:
 - Project.Application.DisplayScheduleMessages
 ms.assetid: a65e0a34-da09-c57d-d155-eecabcc24922
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.SummaryTasksShow
 ms.assetid: bb533875-6ab5-d803-aadd-555279908985
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

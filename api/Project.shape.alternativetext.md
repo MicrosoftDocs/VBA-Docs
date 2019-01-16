@@ -3,6 +3,7 @@ title: Shape.AlternativeText Property (Project)
 ms.prod: project-server
 ms.assetid: c19d0c9f-87a8-ca8e-75f8-06a974847301
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

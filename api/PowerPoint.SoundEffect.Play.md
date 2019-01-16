@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SoundEffect.Play
 ms.assetid: d0f598cb-2c3c-936b-42a2-326ead1e995b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

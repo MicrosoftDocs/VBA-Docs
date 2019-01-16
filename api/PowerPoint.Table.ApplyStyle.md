@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Table.ApplyStyle
 ms.assetid: 3e03bee2-d066-8687-f0cb-3b2460f44bbf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

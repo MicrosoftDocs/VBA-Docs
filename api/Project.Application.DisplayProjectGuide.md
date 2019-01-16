@@ -8,6 +8,7 @@ api_name:
 - Project.Application.DisplayProjectGuide
 ms.assetid: 5b10db18-8cee-3824-79c7-85eadf11b0af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

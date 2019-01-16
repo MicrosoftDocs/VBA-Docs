@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Table.FirstRow
 ms.assetid: 49a38e0b-7f30-b89f-7ee1-e45d60c2270f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

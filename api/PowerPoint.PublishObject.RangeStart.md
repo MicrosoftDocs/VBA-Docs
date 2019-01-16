@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PublishObject.RangeStart
 ms.assetid: c7b576f4-f001-994a-ef36-0ed9402960a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

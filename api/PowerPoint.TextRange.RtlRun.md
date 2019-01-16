@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.RtlRun
 ms.assetid: eb474c9b-d789-f741-9ba9-0514f0a5b0be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

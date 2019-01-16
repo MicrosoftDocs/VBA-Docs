@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CreateComparisonReport
 ms.assetid: 55b423a7-4613-e1ba-c1b8-e790e74694e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

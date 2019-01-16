@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WebHideToolbars
 ms.assetid: c6e323c9-b1a4-79bb-d714-b7ddaebbf619
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

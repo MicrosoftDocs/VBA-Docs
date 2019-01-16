@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.LayoutDirection
 ms.assetid: 180e6c85-618f-47e4-b0e7-f9ee3f331c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Trendline
 ms.assetid: 74755c19-0a7d-cbbf-857e-78740adf6aa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

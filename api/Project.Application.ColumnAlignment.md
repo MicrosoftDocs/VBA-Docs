@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ColumnAlignment
 ms.assetid: 9c51eb2d-c28b-cb00-57e5-1643093e4acb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

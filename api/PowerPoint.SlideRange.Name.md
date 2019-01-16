@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.Name
 ms.assetid: 8264100c-de62-e2bf-2c01-48f052e6ae3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

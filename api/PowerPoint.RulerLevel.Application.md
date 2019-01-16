@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.RulerLevel.Application
 ms.assetid: e55c46d0-4929-3ab5-4e36-ce0f706c1588
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

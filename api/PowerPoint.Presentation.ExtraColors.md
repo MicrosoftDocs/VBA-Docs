@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.ExtraColors
 ms.assetid: c6a9d155-206c-36e6-c180-aaff8bd85a99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

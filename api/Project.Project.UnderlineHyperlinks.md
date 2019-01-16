@@ -5,6 +5,7 @@ api_name:
 - Project.Project.UnderlineHyperlinks
 ms.assetid: 218e1425-5198-eedd-22f4-ffa7eb069999
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

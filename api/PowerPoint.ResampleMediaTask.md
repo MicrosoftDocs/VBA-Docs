@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ResampleMediaTask
 ms.assetid: d36d6a4b-b266-5c00-24e8-ca3c154bc469
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

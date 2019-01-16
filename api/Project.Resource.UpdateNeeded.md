@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.UpdateNeeded
 ms.assetid: 2227b672-f2ef-0b7c-2970-59942bcaa86f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

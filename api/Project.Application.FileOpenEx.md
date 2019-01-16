@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FileOpenEx
 ms.assetid: d03c13b0-c12f-1d45-bb80-26711d69a378
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

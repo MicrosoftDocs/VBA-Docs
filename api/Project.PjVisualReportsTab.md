@@ -5,6 +5,7 @@ api_name:
 - Project.PjVisualReportsTab
 ms.assetid: 5563864a-db5f-ef87-a1f5-7ed2b76a1380
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

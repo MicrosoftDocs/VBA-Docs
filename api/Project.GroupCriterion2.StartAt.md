@@ -5,6 +5,7 @@ api_name:
 - Project.GroupCriterion2.StartAt
 ms.assetid: c895eae0-9f21-a504-f1e7-8fd53588878c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

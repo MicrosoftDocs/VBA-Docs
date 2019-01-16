@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SoundEffect.Parent
 ms.assetid: 1a00d850-733d-3ec7-8d37-24cd869a3f3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

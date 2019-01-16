@@ -5,6 +5,7 @@ api_name:
 - Project.Project.ResourceViewList
 ms.assetid: d0acf85f-8a07-714d-614f-a18645177f40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

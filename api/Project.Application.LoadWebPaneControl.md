@@ -8,6 +8,7 @@ api_name:
 - Project.Application.LoadWebPaneControl
 ms.assetid: b807a6e0-5a85-14a0-a87f-e4b6181c9648
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

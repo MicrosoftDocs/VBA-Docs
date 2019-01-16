@@ -5,6 +5,7 @@ api_name:
 - Project.Application.WindowViewChange
 ms.assetid: e6a5f884-5bb9-f975-9237-25996b436589
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

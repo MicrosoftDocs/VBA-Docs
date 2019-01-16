@@ -8,6 +8,7 @@ api_name:
 - Project.Application.PaneCreate
 ms.assetid: 6ecf7151-eaeb-4a28-c877-a6e5366e2a8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

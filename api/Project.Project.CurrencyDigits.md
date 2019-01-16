@@ -8,6 +8,7 @@ api_name:
 - Project.Project.CurrencyDigits
 ms.assetid: ca22d390-d3ff-6796-b43d-409d118eae53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

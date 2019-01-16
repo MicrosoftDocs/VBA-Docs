@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slide.HeadersFooters
 ms.assetid: 947eb2cf-6902-2eb1-f781-0602e96bbdef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

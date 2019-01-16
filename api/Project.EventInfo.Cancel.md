@@ -8,6 +8,7 @@ api_name:
 - Project.EventInfo.Cancel
 ms.assetid: 2bd3a795-9a8f-8cdb-5358-a22487610a72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

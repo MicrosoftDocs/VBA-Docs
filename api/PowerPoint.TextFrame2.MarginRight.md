@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.MarginRight
 ms.assetid: c9912949-8a82-2773-e826-a80d231197ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

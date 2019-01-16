@@ -8,6 +8,7 @@ api_name:
 - Project.Resource.EnterpriseBaseCalendar
 ms.assetid: ca731acc-c507-c329-adb8-0aacc975bedf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

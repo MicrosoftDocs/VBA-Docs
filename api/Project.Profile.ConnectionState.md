@@ -8,6 +8,7 @@ api_name:
 - Project.Profile.ConnectionState
 ms.assetid: df961e3e-26a2-9b70-475d-143b2a6db7cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

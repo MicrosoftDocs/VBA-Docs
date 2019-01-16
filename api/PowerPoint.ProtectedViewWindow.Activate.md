@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ProtectedViewWindow.Activate
 ms.assetid: 3c036ed1-ed4c-20ec-1376-b9368f73b38c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

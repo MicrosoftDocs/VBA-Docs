@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.RGBColor.RGB
 ms.assetid: 0535b619-1d3d-a106-8b99-46ea5c02917f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

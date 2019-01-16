@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.GetField
 ms.assetid: 36fbbc13-272e-72f4-ebbe-2c13f67abbe7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

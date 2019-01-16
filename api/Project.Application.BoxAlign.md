@@ -8,6 +8,7 @@ api_name:
 - Project.Application.BoxAlign
 ms.assetid: 2b27c9a0-36fa-1bbd-96e3-267b95ad5407
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
