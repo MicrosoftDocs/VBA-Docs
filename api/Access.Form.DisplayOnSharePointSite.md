@@ -8,6 +8,7 @@ api_name:
 - Access.Form.DisplayOnSharePointSite
 ms.assetid: f741a5df-5924-2756-409a-94a8fcf21809
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

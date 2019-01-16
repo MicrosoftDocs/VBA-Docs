@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.OnLostFocus
 ms.assetid: 5bbe697b-d9e7-a534-d4b2-ec2e05452682
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

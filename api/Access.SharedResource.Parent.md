@@ -8,6 +8,7 @@ api_name:
 - Access.SharedResource.Parent
 ms.assetid: 2c917fdc-6ae5-a3a0-2aec-e38661a9bbfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

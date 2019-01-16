@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.OnMouseMove
 ms.assetid: 7201a61b-5b69-c13f-63bf-a2a5f329ecc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

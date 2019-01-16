@@ -8,6 +8,7 @@ api_name:
 - Access.Form.PicturePalette
 ms.assetid: 4b7f2c69-37c7-f05a-783d-0b57242253b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

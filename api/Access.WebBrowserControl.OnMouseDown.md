@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnMouseDown
 ms.assetid: b3a1d803-078c-fdd9-7e1f-4ce93bd1719c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

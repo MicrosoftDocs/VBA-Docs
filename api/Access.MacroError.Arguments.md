@@ -8,6 +8,7 @@ api_name:
 - Access.MacroError.Arguments
 ms.assetid: 0c5a6589-bd2c-e818-c9b0-5d3bc094c368
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

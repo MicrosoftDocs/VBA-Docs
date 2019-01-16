@@ -8,6 +8,7 @@ api_name:
 - Access.Page.SetFocus
 ms.assetid: e2254784-bc8c-698d-f582-e2c0ce429204
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

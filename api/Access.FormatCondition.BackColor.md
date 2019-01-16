@@ -8,6 +8,7 @@ api_name:
 - Access.FormatCondition.BackColor
 ms.assetid: b0154db6-f474-4d7d-3d30-e7a0fadf3b18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

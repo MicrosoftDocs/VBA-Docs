@@ -3,6 +3,7 @@ title: NewFile Properties (Office)
 ms.prod: office
 ms.assetid: 7b07d919-ea1a-4aba-9f39-a3e794b85efe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

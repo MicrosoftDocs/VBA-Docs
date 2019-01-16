@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Caption
 ms.assetid: 8e662558-755f-0dbe-8803-b0f0ef093172
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

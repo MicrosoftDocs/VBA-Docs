@@ -4,6 +4,7 @@ description: A single semantic node within the data model of a Smart Art graphic
 ms.prod: office
 ms.assetid: 8472d586-87ed-2dd7-054b-e821f1738e3c
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Gradient
 ms.assetid: 6ab8ea87-7bba-6476-14e5-0d0e7e645d0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

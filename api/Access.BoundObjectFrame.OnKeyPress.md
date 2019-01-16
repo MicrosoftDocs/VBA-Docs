@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OnKeyPress
 ms.assetid: fd4c6208-d311-64dd-8683-d106d33cffc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

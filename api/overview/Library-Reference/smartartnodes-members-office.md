@@ -4,6 +4,7 @@ description: Represents a collection of nodes within a Smart Art diagram.
 ms.prod: office
 ms.assetid: 1ebf55b0-5b97-5c4e-5d7f-d119ba051bf4
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

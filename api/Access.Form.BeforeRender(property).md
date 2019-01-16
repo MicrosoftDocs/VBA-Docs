@@ -8,6 +8,7 @@ api_name:
 - Access.Form.BeforeRender
 ms.assetid: f80035ac-4ce6-ac8a-203f-c36afab5cd01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

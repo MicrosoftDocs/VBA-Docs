@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.OldBorderStyle
 ms.assetid: 7da1a1d6-bf23-5ea8-5e73-46ff92b67952
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

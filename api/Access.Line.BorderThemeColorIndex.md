@@ -8,6 +8,7 @@ api_name:
 - Access.Line.BorderThemeColorIndex
 ms.assetid: db3989b5-5a9f-ff61-dd22-bd70ee54f914
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

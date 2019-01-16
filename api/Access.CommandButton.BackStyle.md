@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.BackStyle
 ms.assetid: b7c930b0-e203-fe3a-ce54-0778d65d073f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

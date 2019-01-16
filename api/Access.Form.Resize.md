@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Resize
 ms.assetid: de57e9bf-e4fd-174e-4d56-9ea813ab92ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

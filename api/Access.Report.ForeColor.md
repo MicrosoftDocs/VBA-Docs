@@ -8,6 +8,7 @@ api_name:
 - Access.Report.ForeColor
 ms.assetid: 048b01a3-f962-d2d3-b546-027fec6a1369
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

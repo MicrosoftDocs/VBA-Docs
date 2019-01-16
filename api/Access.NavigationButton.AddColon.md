@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.AddColon
 ms.assetid: 37ea2802-2747-f220-427f-d6ae7df96f10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

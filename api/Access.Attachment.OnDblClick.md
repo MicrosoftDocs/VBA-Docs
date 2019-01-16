@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.OnDblClick
 ms.assetid: 5bfe9633-dd3a-d1d5-450b-eafbc1a607c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

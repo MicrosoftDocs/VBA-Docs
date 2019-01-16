@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.LinkMasterFields
 ms.assetid: b5be0557-a75c-dacc-e842-b9196edf37ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

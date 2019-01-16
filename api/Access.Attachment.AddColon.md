@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.AddColon
 ms.assetid: 8eeb0085-e880-50ff-1e9f-3ae48d5bc6de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

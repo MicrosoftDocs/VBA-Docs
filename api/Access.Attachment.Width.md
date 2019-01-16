@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.Width
 ms.assetid: 708c9f0d-deaa-1149-2ce7-53f0b5ec8c25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

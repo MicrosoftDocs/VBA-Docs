@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.ColumnOrder
 ms.assetid: e11872da-df82-83e0-0c6f-8716989622dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Form.PaintPalette
 ms.assetid: 161a7bfa-c861-68b9-eaac-05a2d7c24d4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Label.FontName
 ms.assetid: 2b91768e-390d-ad74-5805-62b3111d4fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

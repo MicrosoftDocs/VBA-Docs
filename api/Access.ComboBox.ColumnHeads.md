@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ColumnHeads
 ms.assetid: b2066599-043f-bcad-5f7e-31f66cb33810
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

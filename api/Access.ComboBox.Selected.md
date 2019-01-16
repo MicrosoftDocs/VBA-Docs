@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.Selected
 ms.assetid: fc643ebc-084a-c11c-2489-7d1504d5b17b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Page.HelpContextId
 ms.assetid: 81497fa2-357a-cbf0-3179-bbcb436621d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

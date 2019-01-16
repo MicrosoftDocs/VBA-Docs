@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentProject.RemovePersonalInformation
 ms.assetid: d98f2b2a-304f-8d27-14ad-55407f335f1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

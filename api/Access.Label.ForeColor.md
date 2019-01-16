@@ -8,6 +8,7 @@ api_name:
 - Access.Label.ForeColor
 ms.assetid: dc1f1bcc-cd8b-2a13-a4a6-47d0c0101a4d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.GridlineColor
 ms.assetid: bfc7414c-9008-87a3-91e6-b7d4a6a71696
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

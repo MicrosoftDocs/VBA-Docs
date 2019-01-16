@@ -3,6 +3,7 @@ title: PictureEffect members (Office)
 ms.prod: office
 ms.assetid: df7a24cd-db6f-1ab1-e0e4-3b332ba27bd5
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

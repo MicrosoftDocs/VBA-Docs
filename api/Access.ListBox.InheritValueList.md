@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.InheritValueList
 ms.assetid: 7b5e0af5-4648-ff09-04a6-25b050dc1861
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: DocumentLibraryVersions members (Office)
 ms.prod: office
 ms.assetid: c7f34212-6ee3-de3e-d6a7-11271093c622
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

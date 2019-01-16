@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.MouseDown
 ms.assetid: ae184752-4c7f-3d79-5b3a-08407225f9d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

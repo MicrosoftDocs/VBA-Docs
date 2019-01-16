@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.OnKeyPress
 ms.assetid: a1f83ff8-b334-0314-8041-38a357b8c5a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

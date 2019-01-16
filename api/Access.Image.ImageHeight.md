@@ -8,6 +8,7 @@ api_name:
 - Access.Image.ImageHeight
 ms.assetid: 91d0cc66-8b27-40f0-8112-41410429400c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

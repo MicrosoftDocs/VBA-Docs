@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.ControlTipText
 ms.assetid: c5dd9325-b545-d25e-10bf-7d58f7806e04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

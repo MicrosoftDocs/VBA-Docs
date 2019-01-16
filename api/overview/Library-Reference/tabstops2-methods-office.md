@@ -3,6 +3,7 @@ title: TabStops2 Methods (Office)
 ms.prod: office
 ms.assetid: 6dfaebb1-521f-4e11-8477-0ac90b0457f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.ObjectPalette
 ms.assetid: 10578730-717c-6c3c-d6d4-61a9bc765ca3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

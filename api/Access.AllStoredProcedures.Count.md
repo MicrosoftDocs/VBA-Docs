@@ -8,6 +8,7 @@ api_name:
 - Access.AllStoredProcedures.Count
 ms.assetid: 419735b8-3251-cbac-0cb3-d65e5a0aa0a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

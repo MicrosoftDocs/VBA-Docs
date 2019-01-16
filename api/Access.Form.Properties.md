@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Properties
 ms.assetid: 6259b555-293b-2095-eb54-09a2b532e2a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

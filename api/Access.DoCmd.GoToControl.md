@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.GoToControl
 ms.assetid: 2b51231d-f6a4-4891-d49d-bedb68f85b04
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

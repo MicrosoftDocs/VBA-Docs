@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.GridlineStyleBottom
 ms.assetid: 2326ec85-b37b-cc97-d8f3-4913c936436b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

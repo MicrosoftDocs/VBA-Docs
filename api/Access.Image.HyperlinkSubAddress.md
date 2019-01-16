@@ -8,6 +8,7 @@ api_name:
 - Access.Image.HyperlinkSubAddress
 ms.assetid: ba6f27ec-d28b-e495-4e63-9355cd26630b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

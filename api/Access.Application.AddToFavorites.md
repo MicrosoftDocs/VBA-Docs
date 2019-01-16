@@ -8,6 +8,7 @@ api_name:
 - Access.Application.AddToFavorites
 ms.assetid: c2024fa1-a972-7798-9bc0-776c6e30c4a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

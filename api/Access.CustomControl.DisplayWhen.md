@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.DisplayWhen
 ms.assetid: 5d53befd-6210-12b6-7397-2e1eea8bc5d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

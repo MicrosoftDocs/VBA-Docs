@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.Height
 ms.assetid: 9cd1dd69-e7b2-800e-301c-742dc4804d28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

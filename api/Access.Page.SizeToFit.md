@@ -8,6 +8,7 @@ api_name:
 - Access.Page.SizeToFit
 ms.assetid: cbf20db6-e729-f8af-e221-1e4e26ef1395
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

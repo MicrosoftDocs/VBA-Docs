@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.GridlineStyleRight
 ms.assetid: 1bafb68b-5ab3-f1da-1a48-858829006755
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

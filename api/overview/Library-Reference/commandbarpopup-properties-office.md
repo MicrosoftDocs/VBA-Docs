@@ -3,6 +3,7 @@ title: CommandBarPopup Properties (Office)
 ms.prod: office
 ms.assetid: 3d15acca-8d51-4cc8-a9c0-64c5beec320f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

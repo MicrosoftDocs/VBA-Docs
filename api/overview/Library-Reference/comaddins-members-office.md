@@ -4,6 +4,7 @@ description: A collection of COMAddIn objects that provide information about a C
 ms.prod: office
 ms.assetid: 0fc908fa-0846-07ca-d2a2-4c87525ae719
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

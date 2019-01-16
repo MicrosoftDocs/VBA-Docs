@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.TabStop
 ms.assetid: 2930cfb8-22be-1d39-7514-fe864b2f9373
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

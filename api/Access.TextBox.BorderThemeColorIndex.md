@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.BorderThemeColorIndex
 ms.assetid: 44f012fa-9021-0910-85c0-48a3b6c82141
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

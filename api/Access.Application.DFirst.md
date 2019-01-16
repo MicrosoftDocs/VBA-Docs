@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DFirst
 ms.assetid: 670e54ac-a18f-e381-2ca7-257411f92865
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

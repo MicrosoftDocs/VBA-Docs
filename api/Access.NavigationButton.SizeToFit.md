@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.SizeToFit
 ms.assetid: b8ca4ed4-4092-3996-b26a-d3ec561906e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: Represents the text frame in a Shape or ShapeRange object.
 ms.prod: office
 ms.assetid: 35130cda-066c-ba5c-b7ec-672c0746ea76
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

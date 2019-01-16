@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.GridlineTint
 ms.assetid: f32466e0-0924-97c7-2454-7632730ffcfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.AllViews.Count
 ms.assetid: 8e576778-48d9-d14f-da4a-5f0c9ca97008
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.OnEnter
 ms.assetid: 1edbc677-6cf5-a14c-1bd8-b12e6c5a22cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

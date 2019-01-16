@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.ColumnOrder
 ms.assetid: 846b745a-0818-a312-dc60-774dce7ec059
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

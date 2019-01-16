@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.Tag
 ms.assetid: 0b8fdb5f-dadc-fafb-cc9a-74dfe40f9b80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: ICustomTaskPaneConsumer Methods (Office)
 ms.prod: office
 ms.assetid: 599edab2-84c2-4c73-a533-88be28fb6a6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

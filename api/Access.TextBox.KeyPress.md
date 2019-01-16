@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.KeyPress
 ms.assetid: 87db62a8-30f6-03d8-63ae-f1a1a50caea3
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

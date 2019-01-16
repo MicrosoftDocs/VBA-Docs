@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.GridlineShade
 ms.assetid: fee68e1f-2a0a-cdd4-1270-08df1c751c4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

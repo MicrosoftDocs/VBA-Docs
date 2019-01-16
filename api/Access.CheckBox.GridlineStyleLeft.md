@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.GridlineStyleLeft
 ms.assetid: c4a0cf6d-488c-5978-d3db-184909c79723
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

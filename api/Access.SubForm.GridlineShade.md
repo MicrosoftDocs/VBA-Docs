@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.GridlineShade
 ms.assetid: 404019d4-27c5-abf5-8015-c58d6ea5a3dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

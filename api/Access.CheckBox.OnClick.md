@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.OnClick
 ms.assetid: 3721a21b-77dd-5f43-baea-e7e98647c17a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

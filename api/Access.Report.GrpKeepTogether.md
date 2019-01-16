@@ -8,6 +8,7 @@ api_name:
 - Access.Report.GrpKeepTogether
 ms.assetid: 605e8999-d184-b8d9-3f55-9926cd0ceefd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

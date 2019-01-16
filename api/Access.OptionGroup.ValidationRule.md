@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.ValidationRule
 ms.assetid: ac66176e-35a6-6fe5-bcbe-2b201a6d8548
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

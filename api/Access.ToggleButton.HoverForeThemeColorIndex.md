@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.HoverForeThemeColorIndex
 ms.assetid: 7159df87-2817-7cab-7e3c-23f0c4613796
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

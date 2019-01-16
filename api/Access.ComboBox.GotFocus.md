@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.GotFocus
 ms.assetid: 7ba8de56-6306-d1b3-288f-687c0f6f6566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

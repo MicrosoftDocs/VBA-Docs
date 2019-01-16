@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.Click
 ms.assetid: 0b602f76-f311-e8f4-bc3b-72a2427f5758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

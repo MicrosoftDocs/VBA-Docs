@@ -8,6 +8,7 @@ api_name:
 - Access.Application.SetOption
 ms.assetid: 6cb1f036-01c2-16bf-f62a-e5235dfb3c65
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

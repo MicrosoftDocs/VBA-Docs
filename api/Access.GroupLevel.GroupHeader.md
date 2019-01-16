@@ -8,6 +8,7 @@ api_name:
 - Access.GroupLevel.GroupHeader
 ms.assetid: 336e45dc-595e-a3fd-9d6b-9e1153654602
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

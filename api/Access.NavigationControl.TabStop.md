@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.TabStop
 ms.assetid: 40aeb05f-b94f-ee88-5e98-0f77599c7a14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

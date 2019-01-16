@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Move
 ms.assetid: 21529c39-70be-45ab-fe8a-b54b4f78b4c8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

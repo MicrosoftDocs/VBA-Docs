@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.ForeColor
 ms.assetid: 86b90246-1431-3ba2-1cc7-5af78a2e8185
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

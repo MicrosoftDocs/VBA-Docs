@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Height
 ms.assetid: 8f4223ac-fefa-3ac6-a84e-9cd776bc56d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

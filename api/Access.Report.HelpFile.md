@@ -8,6 +8,7 @@ api_name:
 - Access.Report.HelpFile
 ms.assetid: cfab3009-c8e1-5f56-020a-e0a972e0de50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

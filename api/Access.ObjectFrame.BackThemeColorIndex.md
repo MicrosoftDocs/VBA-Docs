@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.BackThemeColorIndex
 ms.assetid: 9c4cbfee-2026-2caa-922d-d7345cc026f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

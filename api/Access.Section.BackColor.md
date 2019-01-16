@@ -8,6 +8,7 @@ api_name:
 - Access.Section.BackColor
 ms.assetid: 48f0287f-65e3-3cda-21a4-c062c71a710c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

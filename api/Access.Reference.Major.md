@@ -8,6 +8,7 @@ api_name:
 - Access.Reference.Major
 ms.assetid: b7aa0cf2-7bdd-58d0-4949-29e3d39be013
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

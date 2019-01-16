@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.BorderColor
 ms.assetid: 1863d1e2-b865-5de5-471e-0d9124f34354
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

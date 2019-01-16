@@ -4,6 +4,7 @@ description: Represents a collection of WorkflowTask objects.
 ms.prod: office
 ms.assetid: a627f77c-fd47-ef66-edbd-9b4c4fcd9920
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

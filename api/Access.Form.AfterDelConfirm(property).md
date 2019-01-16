@@ -8,6 +8,7 @@ api_name:
 - Access.Form.AfterDelConfirm
 ms.assetid: fcc1585b-ddb9-7b39-aa21-07de0e50ac00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

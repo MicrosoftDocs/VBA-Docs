@@ -8,6 +8,7 @@ api_name:
 - Access.Form.OnClose
 ms.assetid: af4a7532-f12a-5194-9636-a09f9221f465
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

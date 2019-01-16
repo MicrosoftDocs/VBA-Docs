@@ -8,6 +8,7 @@ api_name:
 - Access.AcPrintColor
 ms.assetid: 9c2b5803-ec15-9d15-2300-ddd426732415
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

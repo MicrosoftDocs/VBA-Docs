@@ -8,6 +8,7 @@ api_name:
 - Access.Label.ShortcutMenuBar
 ms.assetid: 2515e73f-f4c6-3025-553f-b8271e94db34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

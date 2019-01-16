@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Left
 ms.assetid: 678601b5-ab80-2c19-9a29-7c5c2d63f792
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

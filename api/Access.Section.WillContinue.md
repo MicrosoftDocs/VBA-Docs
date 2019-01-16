@@ -8,6 +8,7 @@ api_name:
 - Access.Section.WillContinue
 ms.assetid: e79785e6-87b8-dd9f-9659-341c2fd81bf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

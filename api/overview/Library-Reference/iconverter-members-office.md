@@ -3,6 +3,7 @@ title: IConverter members (Office)
 ms.prod: office
 ms.assetid: c8396dba-f980-18a2-0b17-29164446dc5b
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

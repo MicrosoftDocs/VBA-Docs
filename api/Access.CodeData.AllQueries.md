@@ -8,6 +8,7 @@ api_name:
 - Access.CodeData.AllQueries
 ms.assetid: 4582c885-0f92-60dc-e061-dd2d4a0c6971
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

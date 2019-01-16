@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.GridlineWidthBottom
 ms.assetid: 47465946-1888-d2f5-a577-44e5c2fa80c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

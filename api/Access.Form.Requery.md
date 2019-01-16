@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Requery
 ms.assetid: 26d8d784-9348-6301-9bef-569d15668a0e
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

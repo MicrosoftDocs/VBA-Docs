@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.Click
 ms.assetid: 7d5d4a8f-a447-8d55-1517-8ffa71f0a123
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

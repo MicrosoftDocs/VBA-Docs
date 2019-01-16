@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.LabelX
 ms.assetid: cddd2467-4d75-bc40-5472-ab8701120940
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

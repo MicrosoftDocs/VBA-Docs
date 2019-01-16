@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.OnProgressChange
 ms.assetid: 8b1b84ac-b164-e582-2159-2d98f4ff8733
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

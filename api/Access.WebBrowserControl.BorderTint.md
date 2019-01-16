@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.BorderTint
 ms.assetid: feb247ea-127b-26fa-aae6-03590276c5c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

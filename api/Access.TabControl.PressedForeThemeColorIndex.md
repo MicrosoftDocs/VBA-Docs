@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.PressedForeThemeColorIndex
 ms.assetid: c7fed49b-7d46-f278-da70-2e3995554af4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

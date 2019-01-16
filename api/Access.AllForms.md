@@ -8,6 +8,7 @@ api_name:
 - Access.AllForms
 ms.assetid: b90616b9-90fc-bb51-6bfa-b149dece0f1b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.GridlineStyleRight
 ms.assetid: 76cf1ade-fd42-db2c-cdce-64577779e7b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

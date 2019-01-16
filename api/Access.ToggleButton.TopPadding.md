@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.TopPadding
 ms.assetid: 5a53f0b9-895f-afbb-b0cf-209652d3863e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

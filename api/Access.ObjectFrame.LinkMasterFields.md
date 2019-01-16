@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.LinkMasterFields
 ms.assetid: 1e3b8cb7-a061-369a-4ff4-44d6989c3234
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

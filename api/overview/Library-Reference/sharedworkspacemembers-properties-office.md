@@ -3,6 +3,7 @@ title: SharedWorkspaceMembers Properties (Office)
 ms.prod: office
 ms.assetid: a1bd920c-75a2-404d-9532-ac2dd09cf33a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.SpecialEffect
 ms.assetid: f5858a41-9ba2-83a8-6457-3a5a04352d5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

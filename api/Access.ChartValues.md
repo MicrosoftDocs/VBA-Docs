@@ -7,6 +7,7 @@ ms.prod: access
 api_name:
 - Access.ChartValues
 ms.date: 11/29/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.KeyboardLanguage
 ms.assetid: a3b55e3e-16a9-87c7-6c03-bc8392e72c17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

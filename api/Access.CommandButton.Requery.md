@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Requery
 ms.assetid: 9a8fed17-aec2-c592-c003-92bc832d5da0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.EventProcPrefix
 ms.assetid: 9ab63762-34fb-06f4-3b79-97471152c939
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

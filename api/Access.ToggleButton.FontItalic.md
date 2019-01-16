@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.FontItalic
 ms.assetid: c0c2f257-832b-ebe2-a341-040adbbf1d3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

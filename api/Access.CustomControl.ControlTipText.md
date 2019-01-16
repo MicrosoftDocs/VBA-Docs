@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.ControlTipText
 ms.assetid: 40564070-a355-632b-0578-0bd98f1ccc53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

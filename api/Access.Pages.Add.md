@@ -8,6 +8,7 @@ api_name:
 - Access.Pages.Add
 ms.assetid: f7235fb2-d775-85ea-7c50-62fa3f663d32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

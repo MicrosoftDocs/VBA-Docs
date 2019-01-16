@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.Enabled
 ms.assetid: 7c8a10cc-6277-778c-e7c2-c8274019e3ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

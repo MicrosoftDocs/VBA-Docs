@@ -8,6 +8,7 @@ api_name:
 - Access.Form.HasModule
 ms.assetid: ba43a8c8-89f2-e744-ed99-082510dc8f3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

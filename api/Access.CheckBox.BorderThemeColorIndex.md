@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.BorderThemeColorIndex
 ms.assetid: 5b7fd629-a896-ab01-b965-2a2f0d7724a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

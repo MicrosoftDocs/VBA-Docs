@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.Layout
 ms.assetid: 28602d7f-17c1-a54d-82d3-dfa15a88de4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

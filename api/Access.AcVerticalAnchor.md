@@ -8,6 +8,7 @@ api_name:
 - Access.AcVerticalAnchor
 ms.assetid: 08f16c8b-1566-cfad-795a-cb65a91c4e52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

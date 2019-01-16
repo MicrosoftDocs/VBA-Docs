@@ -8,6 +8,7 @@ api_name:
 - Access.Image.TopPadding
 ms.assetid: fb248161-837d-e455-8d9e-4fb5d1a39d3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

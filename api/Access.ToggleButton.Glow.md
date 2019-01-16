@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.Glow
 ms.assetid: f279f51c-11f7-de6c-0f47-369e9b5cb3a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

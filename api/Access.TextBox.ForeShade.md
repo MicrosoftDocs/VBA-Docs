@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.ForeShade
 ms.assetid: b8437ede-edd1-7d86-1c2f-78d4ed1c3d0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

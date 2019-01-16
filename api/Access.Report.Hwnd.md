@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Hwnd
 ms.assetid: e2d045f4-57bf-8681-0e00-bb5fe287136d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

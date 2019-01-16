@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.InSelection
 ms.assetid: ed6d0f6f-a8d5-0a31-342b-9def542a7e78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

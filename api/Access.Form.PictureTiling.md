@@ -8,6 +8,7 @@ api_name:
 - Access.Form.PictureTiling
 ms.assetid: 9343925c-8184-e9fc-ed62-a272a0bfa0a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

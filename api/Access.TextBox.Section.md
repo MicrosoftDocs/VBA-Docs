@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.Section
 ms.assetid: 76a43ccb-a199-b640-623c-d008b7d48e1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

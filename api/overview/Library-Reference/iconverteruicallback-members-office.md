@@ -3,6 +3,7 @@ title: IConverterUICallback members (Office)
 ms.prod: office
 ms.assetid: ec3f2d9a-1b1a-ebb1-f003-e725dccc440d
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

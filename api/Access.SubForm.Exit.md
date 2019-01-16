@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.Exit
 ms.assetid: f925a6da-33cd-a1dd-1ad7-b11504c574fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

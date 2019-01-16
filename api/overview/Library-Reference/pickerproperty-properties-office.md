@@ -3,6 +3,7 @@ title: PickerProperty Properties (Office)
 ms.prod: office
 ms.assetid: 22e2c80a-1d98-4cf0-9db9-a10a60b262db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

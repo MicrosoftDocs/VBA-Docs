@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.BorderColor
 ms.assetid: e3c43808-1254-2635-264e-2f3e79cb2c8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

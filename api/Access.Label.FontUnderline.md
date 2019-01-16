@@ -8,6 +8,7 @@ api_name:
 - Access.Label.FontUnderline
 ms.assetid: 0d087af3-06a3-7404-cc02-8d4bc8965c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

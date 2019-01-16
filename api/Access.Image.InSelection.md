@@ -8,6 +8,7 @@ api_name:
 - Access.Image.InSelection
 ms.assetid: f128660e-6a28-4af4-ff00-4463ff618e7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

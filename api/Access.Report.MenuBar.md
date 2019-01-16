@@ -8,6 +8,7 @@ api_name:
 - Access.Report.MenuBar
 ms.assetid: 008e1d2e-f467-05a4-d246-eba85fd626ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

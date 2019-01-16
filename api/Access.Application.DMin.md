@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DMin
 ms.assetid: d41b1852-7d97-ddfe-d071-8a1a7b42359b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

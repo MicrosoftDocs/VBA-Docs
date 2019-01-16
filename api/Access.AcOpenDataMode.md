@@ -8,6 +8,7 @@ api_name:
 - Access.AcOpenDataMode
 ms.assetid: e50b49fd-b77e-5ee5-d973-59ef46faddd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

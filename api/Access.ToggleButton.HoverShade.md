@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.HoverShade
 ms.assetid: a9e98d48-95a1-64d0-77ba-f2cd8dadc4f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

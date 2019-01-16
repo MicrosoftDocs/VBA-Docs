@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Dirty
 ms.assetid: 33ed56a4-6027-b369-7210-9fadf44adf2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ForeTint
 ms.assetid: d855214b-df01-7158-75ea-1fc974c9b60b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

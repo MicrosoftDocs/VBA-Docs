@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.ValidationText
 ms.assetid: be52194b-be06-9a85-30f6-718211038213
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

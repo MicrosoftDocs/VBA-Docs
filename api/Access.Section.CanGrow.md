@@ -8,6 +8,7 @@ api_name:
 - Access.Section.CanGrow
 ms.assetid: ea3feebb-8193-2fc3-758b-533b65d0e5b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

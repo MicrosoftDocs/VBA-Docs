@@ -8,6 +8,7 @@ api_name:
 - Access.AcCursorOnHover
 ms.assetid: cea3585d-7160-1375-40c4-a71b85135b7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

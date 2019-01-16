@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.CanShrink
 ms.assetid: 55170bb3-6c5c-ab6a-3643-719b13c876e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

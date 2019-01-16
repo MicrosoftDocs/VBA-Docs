@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.IMEHold
 ms.assetid: 0cb93c85-07ff-a10f-5cd0-dc4045ce1079
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

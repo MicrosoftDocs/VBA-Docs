@@ -4,6 +4,7 @@ description: This section of the Outlook VBA Reference contains documentation fo
 ms.prod: outlook
 ms.assetid: 73221b13-d8d8-99b8-3394-b95dbbfd5ddc
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 

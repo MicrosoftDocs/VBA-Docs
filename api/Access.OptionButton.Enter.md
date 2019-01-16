@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.Enter
 ms.assetid: 62d01554-4a32-cf66-84a6-945becbee9ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

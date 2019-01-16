@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Requery
 ms.assetid: d078d523-3bbd-fa70-44ac-116cdcedfebd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

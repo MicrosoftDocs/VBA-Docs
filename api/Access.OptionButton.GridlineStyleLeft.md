@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.GridlineStyleLeft
 ms.assetid: 075ad462-4004-0e2c-e1af-dd79de4a9a1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

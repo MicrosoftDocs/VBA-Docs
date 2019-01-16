@@ -3,6 +3,7 @@ title: CustomXMLPrefixMappings members (Office)
 ms.prod: office
 ms.assetid: 03fb6754-794d-2c9d-5775-8265e3bcb8e9
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

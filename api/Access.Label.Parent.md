@@ -8,6 +8,7 @@ api_name:
 - Access.Label.Parent
 ms.assetid: 891decb5-0057-292c-0c7b-4c10422d47e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.BeforeUpdate
 ms.assetid: 7523efcc-cbee-d452-8e97-cf75fc6d4270
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Control.Properties
 ms.assetid: 418b9ddb-b7d3-813c-7806-9ae9904175d7
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

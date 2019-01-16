@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.ColumnHidden
 ms.assetid: 8b37f530-7078-28dc-659b-ff8e08b53071
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

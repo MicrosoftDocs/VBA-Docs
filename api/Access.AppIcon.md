@@ -8,6 +8,7 @@ api_name:
 - Access.AppIcon
 ms.assetid: e322784a-39f4-0055-c15e-5051a382c68e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

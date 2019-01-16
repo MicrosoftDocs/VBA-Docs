@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.FormatConditions
 ms.assetid: 6c643d8b-9b90-2b50-2ba0-c46bb821d38d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

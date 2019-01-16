@@ -8,6 +8,7 @@ api_name:
 - Access.Image.RightPadding
 ms.assetid: 9fe9eb52-d504-6406-894f-0a90530687b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

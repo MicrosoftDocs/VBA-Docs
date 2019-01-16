@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentData.AllStoredProcedures
 ms.assetid: eadae8cb-ca0a-8804-fdf9-781b20f6e4a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

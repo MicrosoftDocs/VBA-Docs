@@ -8,6 +8,7 @@ api_name:
 - Access.AllTables.Parent
 ms.assetid: 41801b04-da13-c917-8692-d6d56bd45516
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

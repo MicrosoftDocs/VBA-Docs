@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.BottomPadding
 ms.assetid: ac824a65-ea93-d321-b972-7b0b640e01a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

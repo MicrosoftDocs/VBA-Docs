@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.SpecialEffect
 ms.assetid: 59764207-eecc-d310-30dd-ac5173d5c2a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

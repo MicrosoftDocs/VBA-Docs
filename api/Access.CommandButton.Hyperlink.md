@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Hyperlink
 ms.assetid: 2f5ce470-967a-450d-f661-ac1e1f370d56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.BackStyle
 ms.assetid: f20c9406-7608-89ea-d0ff-d54bf4d1c526
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

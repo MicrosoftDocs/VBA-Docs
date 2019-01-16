@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.DblClick
 ms.assetid: 4ef52706-64dc-38b7-7800-07d3a4d7d7cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

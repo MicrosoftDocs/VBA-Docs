@@ -3,6 +3,7 @@ title: CustomXMLValidationErrors Properties (Office)
 ms.prod: office
 ms.assetid: 3bcd9ecd-1ae7-4e79-874d-68c5eb591e66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

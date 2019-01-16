@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Shadow
 ms.assetid: 06e28d4d-8390-8c2c-9095-05a0e14c81e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

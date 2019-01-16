@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.LabelAlign
 ms.assetid: 255be436-51d3-0926-a7ce-a5b595ff59ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

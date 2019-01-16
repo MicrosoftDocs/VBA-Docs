@@ -8,6 +8,7 @@ api_name:
 - Access.Form.FrozenColumns
 ms.assetid: 5b595c5e-6a2e-e3d8-1ae8-a2f224eb5516
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

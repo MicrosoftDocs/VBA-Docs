@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.HelpContextId
 ms.assetid: 9f788b15-67d8-84ca-8c6f-6ef1e67f8895
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

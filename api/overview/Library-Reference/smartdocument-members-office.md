@@ -4,6 +4,7 @@ description: The SmartDocument property of the Document object in Word and the W
 ms.prod: office
 ms.assetid: 980de42d-6992-6107-a3fb-33e8c78da202
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

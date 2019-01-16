@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.VerticalAnchor
 ms.assetid: b515b37f-0566-0483-d387-8bc02c7be980
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

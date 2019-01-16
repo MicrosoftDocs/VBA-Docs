@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.EventProcPrefix
 ms.assetid: f58670ff-b42c-69eb-0561-90ce5cc40d19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: A collection of SmartArt color styles.
 ms.prod: office
 ms.assetid: c371e814-7621-2c01-c0fe-93003892646f
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

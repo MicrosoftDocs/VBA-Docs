@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.VarOleObject
 ms.assetid: 7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

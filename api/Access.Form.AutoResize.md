@@ -8,6 +8,7 @@ api_name:
 - Access.Form.AutoResize
 ms.assetid: 5ae98bc8-fa33-7e4b-31c8-ba22aa026a45
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

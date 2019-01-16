@@ -8,6 +8,7 @@ api_name:
 - Access.Form.BeforeUpdate
 ms.assetid: b783fcab-f697-a464-820c-712eac46cb4b
 ms.date: 11/30/2017
+localization_priority: Priority
 ---
 
 

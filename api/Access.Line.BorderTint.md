@@ -8,6 +8,7 @@ api_name:
 - Access.Line.BorderTint
 ms.assetid: 904bd124-3f3e-40ac-77b7-4ba10716ae02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

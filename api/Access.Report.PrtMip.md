@@ -8,6 +8,7 @@ api_name:
 - Access.Report.PrtMip
 ms.assetid: f2a3eb10-04d5-c1fc-5ca3-0dc588db18ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

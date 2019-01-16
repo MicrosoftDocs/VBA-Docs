@@ -8,6 +8,7 @@ api_name:
 - Access.Report.OnOpen
 ms.assetid: e381f9a5-c409-7ae5-e266-cb3a046eb919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

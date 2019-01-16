@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.BackStyle
 ms.assetid: 95a277c8-df48-79a5-c232-2cfe32eae8f2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
