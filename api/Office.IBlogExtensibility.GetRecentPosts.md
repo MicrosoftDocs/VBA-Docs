@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogExtensibility.GetRecentPosts
 ms.assetid: 460cb59e-c025-8a80-1cdc-99a9c58ec4c0
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

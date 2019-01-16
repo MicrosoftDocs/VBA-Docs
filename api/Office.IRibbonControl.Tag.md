@@ -6,8 +6,8 @@ f1_keywords:
 ms.prod: office
 api_name:
 - Office.IRibbonControl.Tag
-ms.assetid: d0f041c0-d7bc-7a4f-df9b-ba62fa08f1ca
-ms.date: 01/16/2019
+ms.assetid: d0f041c
+localization_priority: Normal
 ---
 
 

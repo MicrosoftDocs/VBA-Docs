@@ -8,6 +8,7 @@ api_name:
 - Office.IConverter.HrUninitConverter
 ms.assetid: 602c5fc2-e4f5-d4c1-399a-cf2b7f3f5af0
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

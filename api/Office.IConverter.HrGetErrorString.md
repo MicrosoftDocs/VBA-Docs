@@ -8,6 +8,7 @@ api_name:
 - Office.IConverter.HrGetErrorString
 ms.assetid: 4ae221fd-d047-7676-a65d-ee2cd604deea
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

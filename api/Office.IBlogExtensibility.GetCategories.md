@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogExtensibility.GetCategories
 ms.assetid: f263594c-db27-86bd-8597-35a3148a5ea7
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

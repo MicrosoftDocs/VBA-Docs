@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogExtensibility.SetupBlogAccount
 ms.assetid: 98082a55-3e67-7181-2c7d-2c6979c89ab2
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

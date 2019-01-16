@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogExtensibility.BlogProviderProperties
 ms.assetid: 87e3d826-6c18-96e7-30dc-218d136b56dd
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

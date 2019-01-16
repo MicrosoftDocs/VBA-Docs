@@ -8,6 +8,7 @@ api_name:
 - Office.IConverterUICallback.HrReportProgress
 ms.assetid: 585f52bc-755a-e360-8220-a97d1b7a697a
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

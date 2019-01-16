@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogPictureExtensibility.BlogPictureProviderProperties
 ms.assetid: 2650ef1f-4c72-b4ae-921c-843febae3247
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

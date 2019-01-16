@@ -5,6 +5,7 @@ api_name:
 - Office.GradientStops.Delete
 ms.assetid: 3f31656a-498d-57d1-1464-b2439718ef89
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.IRibbonUI.InvalidateControl
 ms.assetid: 33af7933-66f7-51e9-895e-07a6222973d2
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

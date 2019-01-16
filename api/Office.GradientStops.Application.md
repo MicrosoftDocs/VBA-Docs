@@ -5,6 +5,7 @@ api_name:
 - Office.GradientStops.Application
 ms.assetid: f4c9ca0c-9796-8290-438f-8ce0a174cb18
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

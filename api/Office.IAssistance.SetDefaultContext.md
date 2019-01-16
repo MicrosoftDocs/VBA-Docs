@@ -5,6 +5,7 @@ api_name:
 - Office.IAssistance.SetDefaultContext
 ms.assetid: 3eea8f7a-12a3-aca4-f963-28c5c4e63c96
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

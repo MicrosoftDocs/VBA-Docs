@@ -8,6 +8,7 @@ api_name:
 - Office.IBlogPictureExtensibility.CreatePictureAccount
 ms.assetid: 8012b234-b8c1-cfc7-7413-b43300fdab76
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

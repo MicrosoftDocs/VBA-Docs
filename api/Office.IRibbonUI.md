@@ -8,6 +8,7 @@ api_name:
 - Office.IRibbonUI
 ms.assetid: d323aa21-de74-e821-c914-db71ef3b9c5e
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

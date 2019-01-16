@@ -5,6 +5,7 @@ api_name:
 - Office.IAssistance.SearchHelp
 ms.assetid: 807128e9-5125-1650-d53f-cbd50d3e318a
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

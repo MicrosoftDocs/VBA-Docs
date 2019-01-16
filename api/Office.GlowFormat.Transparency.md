@@ -5,6 +5,7 @@ api_name:
 - Office.GlowFormat.Transparency
 ms.assetid: 708b5fcf-aaca-8968-9a12-1b3b53f5cb86
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 

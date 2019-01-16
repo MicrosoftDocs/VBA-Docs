@@ -8,6 +8,7 @@ api_name:
 - Office.IRibbonUI.ActivateTab
 ms.assetid: 32f5205c-6ab1-e3a6-6bae-5f36706c4d0d
 ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
