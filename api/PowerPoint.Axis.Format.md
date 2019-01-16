@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.Format
 ms.assetid: c00a6cbf-d2d1-3718-2cd6-d61abeed40d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

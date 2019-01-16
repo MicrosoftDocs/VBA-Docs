@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.DragBehavior
 ms.assetid: 768d8995-2f6c-5915-7fbb-46b2b3114131
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.Muted
 ms.assetid: 3006fa50-7cda-3752-8ac9-4b26396847ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.MsoAnimFilterEffectType
 ms.assetid: 763d5cc1-a0ea-4394-6567-8a5837ae4707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

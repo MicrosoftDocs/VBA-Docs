@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.IntervalTime
 ms.assetid: 518bd878-f970-2600-8c63-17fa8774def4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

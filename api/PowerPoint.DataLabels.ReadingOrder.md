@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.DataLabels.ReadingOrder
 ms.assetid: 8c2880ab-b479-31fa-7cc6-663d1b0fc147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

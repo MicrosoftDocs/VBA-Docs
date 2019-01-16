@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LineFormat.Visible
 ms.assetid: 4b10ecb4-01f1-019f-62f8-2a3508a01ca3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

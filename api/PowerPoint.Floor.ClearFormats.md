@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Floor.ClearFormats
 ms.assetid: d517691c-afde-71ca-608c-a7c88188f319
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

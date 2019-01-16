@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.Caption
 ms.assetid: bc0e614e-dc15-50ee-aaf2-94a522f44b1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

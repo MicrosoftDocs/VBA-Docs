@@ -8,6 +8,7 @@ api_name:
 - Outlook.SenderInAddressListRuleCondition.Class
 ms.assetid: cf7ab44e-f941-5ad4-561b-bd6efb51e2be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

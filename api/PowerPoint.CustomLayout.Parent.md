@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.Parent
 ms.assetid: 373ab10a-71c8-fefb-1d5f-67c19abbc679
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

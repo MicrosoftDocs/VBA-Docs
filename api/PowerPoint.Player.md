@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Player
 ms.assetid: 3ed83db7-a554-97ab-f906-f9d220ef494b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

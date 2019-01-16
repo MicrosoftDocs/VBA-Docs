@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkDateControl.MousePointer
 ms.assetid: 14ca0547-b43c-df9b-105c-ddb655629d34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

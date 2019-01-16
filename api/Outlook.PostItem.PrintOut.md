@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.PrintOut
 ms.assetid: 0df3d786-a687-68c2-1226-20648f7f5179
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

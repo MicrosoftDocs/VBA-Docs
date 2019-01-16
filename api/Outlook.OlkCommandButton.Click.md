@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.Click
 ms.assetid: 3644d443-d319-d0ce-1576-f99c9fbc1152
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

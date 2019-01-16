@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.AxisGroup
 ms.assetid: 19261289-1677-cbd2-70a4-4109bed4b554
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

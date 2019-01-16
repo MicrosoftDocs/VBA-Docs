@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.HeaderFooter.Parent
 ms.assetid: b97fbcf9-b3e9-9843-eb99-f73b63c66197
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

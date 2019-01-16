@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartTitle.Name
 ms.assetid: d14d50cf-5d28-842e-4108-8e42930c4f35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

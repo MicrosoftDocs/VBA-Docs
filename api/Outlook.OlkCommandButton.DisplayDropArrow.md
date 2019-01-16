@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.DisplayDropArrow
 ms.assetid: 20130ecb-fa4c-dd5f-1af6-89cb3cec3c9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

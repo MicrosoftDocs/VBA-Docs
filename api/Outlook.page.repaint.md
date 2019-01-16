@@ -3,6 +3,7 @@ title: Page.Repaint Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: cfbe1087-74a5-935b-8b0c-14730568b5c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

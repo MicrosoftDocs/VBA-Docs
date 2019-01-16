@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.OLEFormat.ObjectVerbs
 ms.assetid: 895becb3-de86-638c-88e9-b9e72b6c713e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

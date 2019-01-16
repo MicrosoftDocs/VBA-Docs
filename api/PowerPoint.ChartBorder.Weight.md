@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartBorder.Weight
 ms.assetid: 71750026-1df0-1a1b-bb43-b0c6891d66be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

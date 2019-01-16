@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ColorSchemes.Parent
 ms.assetid: 5c59240a-c9a1-c6cc-ecc2-3e98dacd2a81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

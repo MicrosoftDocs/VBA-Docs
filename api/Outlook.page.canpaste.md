@@ -3,6 +3,7 @@ title: Page.CanPaste Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: a9c14f8c-56e4-cebf-c423-c7bcc9a84cb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

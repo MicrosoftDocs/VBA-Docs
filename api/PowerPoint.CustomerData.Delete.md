@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CustomerData.Delete
 ms.assetid: 7a7649f9-7efa-57e7-15db-a16991dc6f09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

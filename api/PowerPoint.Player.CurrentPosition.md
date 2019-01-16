@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Player.CurrentPosition
 ms.assetid: 96c33746-2855-384e-439d-88f5bd3f754a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

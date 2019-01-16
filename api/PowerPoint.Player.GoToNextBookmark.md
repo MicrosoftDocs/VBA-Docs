@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Player.GoToNextBookmark
 ms.assetid: 04fec2c7-e0b2-af85-2f16-1e36ae67d87c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

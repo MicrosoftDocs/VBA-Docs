@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.DataLabels.Separator
 ms.assetid: e0bc6147-61c8-8df9-ff42-591f60c5b7f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

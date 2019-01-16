@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendKey.MarkerBackgroundColorIndex
 ms.assetid: 882d5408-9d75-d452-ea53-1f7f2d575752
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

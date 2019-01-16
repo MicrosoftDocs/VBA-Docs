@@ -8,6 +8,7 @@ api_name:
 - Outlook.View.Copy
 ms.assetid: dfa82ef6-94f1-5c7d-eea5-600f992992d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

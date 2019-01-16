@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataTable.Parent
 ms.assetid: 5dc721d0-9a9c-0601-6976-970f9114d4f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

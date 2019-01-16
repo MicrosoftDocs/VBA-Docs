@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.DataLabel.NumberFormatLinked
 ms.assetid: 96753d54-3770-93b8-7b59-52f77f4443bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

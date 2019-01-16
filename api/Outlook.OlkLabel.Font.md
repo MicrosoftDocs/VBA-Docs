@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkLabel.Font
 ms.assetid: e552c347-1728-b75a-c105-e7daff6f648e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

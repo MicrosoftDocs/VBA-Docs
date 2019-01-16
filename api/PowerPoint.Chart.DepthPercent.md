@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.DepthPercent
 ms.assetid: f80bbd4f-3a4f-71c0-1859-c71a57aec22b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

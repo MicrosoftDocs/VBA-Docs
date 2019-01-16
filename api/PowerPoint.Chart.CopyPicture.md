@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.CopyPicture
 ms.assetid: ac8c3f05-3458-8f24-ada8-b89beb52a968
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.PropertyAccessor
 ms.assetid: 090bedce-4517-1d8c-9c46-1f67bcced7fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

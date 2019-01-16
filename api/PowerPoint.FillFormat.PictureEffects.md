@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.PictureEffects
 ms.assetid: 01897ad5-84c9-f98e-8c2f-9a9e5c13bc2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

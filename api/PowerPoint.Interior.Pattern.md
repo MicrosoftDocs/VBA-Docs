@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Interior.Pattern
 ms.assetid: f400b457-61ba-e923-debb-14abead41670
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

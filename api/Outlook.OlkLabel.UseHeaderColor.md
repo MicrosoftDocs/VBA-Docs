@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkLabel.UseHeaderColor
 ms.assetid: 9b205ce8-0875-06da-6746-641ae889d4df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.StatusReport
 ms.assetid: 70549833-3287-bbbe-6756-896d400f6695
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ColorFormat.Parent
 ms.assetid: aa54269d-ee71-0a4e-7063-8631577d6e76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimeZones.Count
 ms.assetid: be4bd1d0-e9a9-0b9d-0b9e-1c8085a50f9f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.Enabled
 ms.assetid: 22722537-5252-7693-ce7d-80fac08f94e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

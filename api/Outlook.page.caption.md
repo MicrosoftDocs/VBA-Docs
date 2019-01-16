@@ -3,6 +3,7 @@ title: Page.Caption Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 878ed59e-8aa9-ec07-487a-47706d5337f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

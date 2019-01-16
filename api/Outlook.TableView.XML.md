@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.XML
 ms.assetid: 0f085984-3056-6603-ca12-a4436abf429f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

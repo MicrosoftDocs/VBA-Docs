@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationBeforeSave
 ms.assetid: 40943fe2-796f-45db-db0d-44b66854e196
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

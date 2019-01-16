@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Cell.Merge
 ms.assetid: e4830df1-4db9-f1e0-a4c6-d4ed2d99b9fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

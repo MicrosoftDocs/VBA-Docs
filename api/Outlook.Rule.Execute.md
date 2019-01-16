@@ -8,6 +8,7 @@ api_name:
 - Outlook.Rule.Execute
 ms.assetid: 487abb6f-9003-04a4-f4e2-3f66b3ba5a52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

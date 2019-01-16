@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkContactPhoto
 ms.assetid: eea9a5d0-c208-dbf9-39e1-93614fb98d1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

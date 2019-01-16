@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.AutoPreviewFont
 ms.assetid: 988e7bc4-9957-f611-b89e-1eb7a14fbfcc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

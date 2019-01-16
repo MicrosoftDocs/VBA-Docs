@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkSenderPhoto
 ms.assetid: 07934c3a-404c-7f99-49a8-540701d31cef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

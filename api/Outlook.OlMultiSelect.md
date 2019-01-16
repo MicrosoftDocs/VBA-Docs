@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlMultiSelect
 ms.assetid: 33d61773-515f-e267-d60a-a3d91f3be9d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

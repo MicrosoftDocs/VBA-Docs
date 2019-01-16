@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.WordWrap
 ms.assetid: 36dd3db9-449d-97b7-de68-3f53dbe472ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

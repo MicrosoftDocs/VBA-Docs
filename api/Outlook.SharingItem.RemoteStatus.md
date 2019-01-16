@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.RemoteStatus
 ms.assetid: 3503113b-ad1d-2569-b39e-2383d5a22362
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

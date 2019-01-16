@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlMultiLine
 ms.assetid: 9af600cc-7a46-64d2-7e78-958a8aafbe66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

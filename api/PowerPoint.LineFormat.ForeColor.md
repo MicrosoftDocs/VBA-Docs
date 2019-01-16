@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LineFormat.ForeColor
 ms.assetid: 0b022f2e-d546-2d56-13ae-1040682ee9d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.OutlookVersion
 ms.assetid: 14ce6d04-10fb-a1e1-75a1-82b19ea76f9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

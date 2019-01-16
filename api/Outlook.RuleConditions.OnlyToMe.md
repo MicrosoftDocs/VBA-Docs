@@ -8,6 +8,7 @@ api_name:
 - Outlook.RuleConditions.OnlyToMe
 ms.assetid: 208e7bc4-2938-ecc8-7af5-9e3e256fe5b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

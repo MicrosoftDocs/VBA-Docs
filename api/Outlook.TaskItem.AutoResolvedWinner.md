@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.AutoResolvedWinner
 ms.assetid: 19acff0c-a540-f08e-f662-30daf992f575
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.Delegator
 ms.assetid: cb0443a3-4ae1-8630-05b9-1b69740163dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

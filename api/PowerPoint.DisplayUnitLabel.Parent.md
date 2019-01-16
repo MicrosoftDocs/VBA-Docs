@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Parent
 ms.assetid: a766bd3f-e031-18ae-8b7b-9d38da33f611
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

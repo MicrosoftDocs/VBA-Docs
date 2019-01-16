@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlReferenceType
 ms.assetid: 514402d6-bc10-e2f3-303c-ced983206db6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

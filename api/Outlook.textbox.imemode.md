@@ -3,6 +3,7 @@ title: TextBox.IMEMode Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 6279e6d5-b374-5e9f-880f-f468c4f97fdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

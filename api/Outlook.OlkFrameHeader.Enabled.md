@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkFrameHeader.Enabled
 ms.assetid: c1b7db12-c949-cbb0-b185-f8969de4e59f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

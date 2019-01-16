@@ -8,6 +8,7 @@ api_name:
 - Outlook.RuleActions.Item
 ms.assetid: d37a3f0c-0273-e4c2-21e5-661484244671
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

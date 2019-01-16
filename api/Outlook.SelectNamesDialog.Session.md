@@ -8,6 +8,7 @@ api_name:
 - Outlook.SelectNamesDialog.Session
 ms.assetid: 99f445e8-190b-fa26-319f-ff7783b27795
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

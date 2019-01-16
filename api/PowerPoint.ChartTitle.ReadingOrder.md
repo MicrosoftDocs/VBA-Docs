@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartTitle.ReadingOrder
 ms.assetid: 77dc8893-2f57-0e3f-7d9a-cb9966087ede
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

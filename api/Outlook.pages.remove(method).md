@@ -3,6 +3,7 @@ title: Pages.Remove Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 1b95644f-005f-e0b3-8f1e-4f125d22cad9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

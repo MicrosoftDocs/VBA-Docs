@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ChartArea.Left
 ms.assetid: 49dc752d-ebfb-318b-2ac5-7d72146593dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

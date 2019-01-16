@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkContactPhoto.Change
 ms.assetid: 3dcc953a-2f81-d61b-0c57-e341688b820c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

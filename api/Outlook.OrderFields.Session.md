@@ -8,6 +8,7 @@ api_name:
 - Outlook.OrderFields.Session
 ms.assetid: cf1ea6e2-a4fb-0d54-268a-fae589448129
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

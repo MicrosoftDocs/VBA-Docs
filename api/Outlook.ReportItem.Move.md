@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.Move
 ms.assetid: 171a46e4-bd39-9556-36f3-0c0c60ed2b0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

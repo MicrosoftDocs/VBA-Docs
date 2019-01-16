@@ -8,6 +8,7 @@ api_name:
 - Outlook.PropertyPageSite.OnStatusChange
 ms.assetid: d314f8fc-33f5-0a6f-22c0-e26548e21a4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

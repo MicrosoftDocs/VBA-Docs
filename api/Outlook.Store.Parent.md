@@ -8,6 +8,7 @@ api_name:
 - Outlook.Store.Parent
 ms.assetid: 93484d08-064e-144f-b1da-12eecceb2d83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

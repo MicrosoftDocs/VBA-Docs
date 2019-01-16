@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Font.Bold
 ms.assetid: 13e81c46-5ae7-21ee-58e1-5ab23de552d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

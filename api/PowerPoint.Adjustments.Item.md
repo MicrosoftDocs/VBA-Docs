@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Adjustments.Item
 ms.assetid: 54cc6850-0fe8-8887-2acc-dc91085b7451
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

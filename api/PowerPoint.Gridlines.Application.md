@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Gridlines.Application
 ms.assetid: 8aaf9244-bb77-f8db-f68d-300982ce6540
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarGroups.BeforeGroupAdd
 ms.assetid: 7bce246a-69fa-0dcd-4c43-fbfc43385864
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
