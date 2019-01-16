@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Cost4
 ms.assetid: f8876853-af81-c359-c230-8ea1c9a6f184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

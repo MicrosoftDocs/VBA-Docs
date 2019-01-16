@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slide
 ms.assetid: afe42344-6898-00d2-ecc1-b0ed23a71fe8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

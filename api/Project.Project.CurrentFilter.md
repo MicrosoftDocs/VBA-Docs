@@ -8,6 +8,7 @@ api_name:
 - Project.Project.CurrentFilter
 ms.assetid: b97e43ac-2167-80f0-bf5e-609a08f42fd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

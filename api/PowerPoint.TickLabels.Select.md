@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TickLabels.Select
 ms.assetid: 60656a71-53c4-915f-d009-338d53389a88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

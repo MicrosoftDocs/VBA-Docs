@@ -5,6 +5,7 @@ api_name:
 - Project.Project.DefaultDurationUnits
 ms.assetid: 611ad984-d792-bf8c-b254-901fc8c952f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

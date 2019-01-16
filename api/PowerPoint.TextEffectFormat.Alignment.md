@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextEffectFormat.Alignment
 ms.assetid: 42b92de7-2dc1-ee1b-1c58-682cfba2aa19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

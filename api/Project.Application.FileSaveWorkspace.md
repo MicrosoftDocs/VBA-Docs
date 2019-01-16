@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FileSaveWorkspace
 ms.assetid: f7c524e5-aa9e-e1a2-6f32-defb7cc23f04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

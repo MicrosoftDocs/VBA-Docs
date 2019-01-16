@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FilePageSetupCalendar
 ms.assetid: 50f4ab0a-ffb4-2bff-44af-82b674de7c4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

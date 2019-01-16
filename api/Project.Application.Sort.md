@@ -8,6 +8,7 @@ api_name:
 - Project.Application.Sort
 ms.assetid: 996df315-32ae-eac8-75cb-182a95f74879
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

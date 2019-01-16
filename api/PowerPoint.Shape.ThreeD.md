@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.ThreeD
 ms.assetid: 16f0bc6a-ae6c-f4c3-9e3c-641f069eb7f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CalendarBarStylesEdit
 ms.assetid: 6ae39422-20bb-dd77-0d0b-0d130dfdbfe5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

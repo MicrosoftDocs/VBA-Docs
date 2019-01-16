@@ -6,6 +6,7 @@ f1_keywords:
 ms.assetid: 2cb9d639-3363-79e3-ced6-73b0a574986a
 ms.date: 06/08/2017
 ms.prod: project-server
+localization_priority: Normal
 ---
 
 

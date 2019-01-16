@@ -5,6 +5,7 @@ api_name:
 - Project.Tables.Parent
 ms.assetid: a673c887-b328-0759-a259-689f9ccfca87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

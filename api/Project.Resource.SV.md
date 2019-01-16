@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.SV
 ms.assetid: 176f083f-677a-fc38-b7e5-f51868fb5a27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

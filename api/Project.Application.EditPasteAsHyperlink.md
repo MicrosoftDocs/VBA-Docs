@@ -8,6 +8,7 @@ api_name:
 - Project.Application.EditPasteAsHyperlink
 ms.assetid: 7a2c31dc-43a4-0dc0-2d5c-ee4de18263e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

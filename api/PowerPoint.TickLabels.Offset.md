@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TickLabels.Offset
 ms.assetid: 1bb539a8-a777-e3ff-d1c8-da33b87a2f3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

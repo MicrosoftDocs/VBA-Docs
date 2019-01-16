@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Series.PlotOrder
 ms.assetid: 196c0b37-a9fe-ec01-ca0a-786c70e8a63c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

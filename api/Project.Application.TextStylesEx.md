@@ -8,6 +8,7 @@ api_name:
 - Project.Application.TextStylesEx
 ms.assetid: 674c16c8-8ba5-604f-494c-3b59017e1207
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

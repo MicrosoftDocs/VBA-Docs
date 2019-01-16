@@ -8,6 +8,7 @@ api_name:
 - Project.LookupTableEntry.Cookie
 ms.assetid: ed45ebc1-cae8-e350-8462-0b2fc69498a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Start3
 ms.assetid: 2e9998ab-3579-12b6-d3e1-98df62a39a14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.RotationZ
 ms.assetid: c77cc93b-9ab2-ccae-c84b-26716c152659
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

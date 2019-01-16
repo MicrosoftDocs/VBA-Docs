@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CheckResourceErrors
 ms.assetid: 780cf9c8-078b-3707-f0e4-a468432c1ced
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

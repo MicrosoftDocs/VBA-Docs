@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ShowIgnoredTaskWarnings
 ms.assetid: 77eeb3ef-511d-af17-56c1-aa717fd7d213
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

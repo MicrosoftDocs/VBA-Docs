@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Duration10
 ms.assetid: cd43b225-24c9-147c-7476-0cf90563f69f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Project.OutlineChildren
 ms.assetid: f0feaf89-04ad-4523-7b15-eff6573f6ddd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

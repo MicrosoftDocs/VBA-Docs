@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeNodes.SetPosition
 ms.assetid: 8defcf80-84d8-538a-2dce-d3ffe5e8dfb0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

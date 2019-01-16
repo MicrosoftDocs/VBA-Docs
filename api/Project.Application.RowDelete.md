@@ -8,6 +8,7 @@ api_name:
 - Project.Application.RowDelete
 ms.assetid: 71a512ff-4b2f-971c-2c11-a468b3b7afad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

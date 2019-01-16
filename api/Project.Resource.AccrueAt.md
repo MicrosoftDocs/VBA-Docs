@@ -8,6 +8,7 @@ api_name:
 - Project.Resource.AccrueAt
 ms.assetid: 760e1f6f-04b9-39e0-61a9-43af3813c473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

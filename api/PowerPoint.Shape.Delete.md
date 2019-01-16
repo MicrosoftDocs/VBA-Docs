@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.Delete
 ms.assetid: 998a345f-31e3-1270-7826-17d84d60634b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

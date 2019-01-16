@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.Player
 ms.assetid: d7bb6b02-516b-07bb-42b4-ae245ce20262
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

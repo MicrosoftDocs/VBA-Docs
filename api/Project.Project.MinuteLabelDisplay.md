@@ -8,6 +8,7 @@ api_name:
 - Project.Project.MinuteLabelDisplay
 ms.assetid: 7cf43dda-ae9b-ed06-027e-740ba855e7f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

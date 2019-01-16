@@ -3,6 +3,7 @@ title: Chart.DepthPercent Property (Project)
 ms.prod: project-server
 ms.assetid: 868997e8-225c-5899-ccb0-71e1c8d9acfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

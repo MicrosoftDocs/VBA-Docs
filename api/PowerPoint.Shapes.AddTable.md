@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddTable
 ms.assetid: 77ce193e-10f7-25f4-a6f8-99d7d2b781ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

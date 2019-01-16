@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.IncrementLeft
 ms.assetid: 08d84101-bdfe-c3c6-a309-00c2fb2adab5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

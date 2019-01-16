@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Selection.Type
 ms.assetid: 1c39388f-2ca4-211c-393e-1f0af0723898
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

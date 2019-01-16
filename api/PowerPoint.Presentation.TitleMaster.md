@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.TitleMaster
 ms.assetid: d5a84b2a-fff0-dcb5-e744-466428a586b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

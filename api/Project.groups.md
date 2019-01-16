@@ -3,6 +3,7 @@ title: Groups Object (Project)
 ms.prod: project-server
 ms.assetid: 2e4c4846-6193-fc12-ad02-0dd69f88b31e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

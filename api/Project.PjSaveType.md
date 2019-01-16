@@ -5,6 +5,7 @@ api_name:
 - Project.PjSaveType
 ms.assetid: f4f7fa95-4be9-b564-bcd9-1c6c1cb3adeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.Characters
 ms.assetid: 019c15d3-349d-ab10-7448-70bf81176150
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

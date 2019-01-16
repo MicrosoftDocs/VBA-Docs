@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.Orientation
 ms.assetid: 713ce09e-575a-c1be-b60b-67884cb76673
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

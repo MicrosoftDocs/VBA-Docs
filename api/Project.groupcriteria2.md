@@ -3,6 +3,7 @@ title: GroupCriteria2 Object (Project)
 ms.prod: project-server
 ms.assetid: ac785cc4-dbe3-0b1d-d1f1-6d45c93bfb1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

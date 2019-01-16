@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TabStops.Item
 ms.assetid: 41ab59a1-49bf-ac44-928f-9a56cf062bf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

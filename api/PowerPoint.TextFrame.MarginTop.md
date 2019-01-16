@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame.MarginTop
 ms.assetid: 78ae54cd-1841-950b-c06e-c693fa5daebb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

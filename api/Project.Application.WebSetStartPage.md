@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WebSetStartPage
 ms.assetid: 2ffe7e71-fbdc-e6bc-8eae-9da23e5f63f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

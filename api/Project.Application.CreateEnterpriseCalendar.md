@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CreateEnterpriseCalendar
 ms.assetid: 5d53083b-f34e-d604-6d77-b232eea0eb71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

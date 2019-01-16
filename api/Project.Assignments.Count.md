@@ -5,6 +5,7 @@ api_name:
 - Project.Assignments.Count
 ms.assetid: de8cee7b-a471-4c3f-2965-de6c3d47dda5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

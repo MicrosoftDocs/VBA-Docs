@@ -3,6 +3,7 @@ title: SeriesCollection.Count Property (Project)
 ms.prod: project-server
 ms.assetid: 30dda020-a94b-0b70-6a12-13ad738db9d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

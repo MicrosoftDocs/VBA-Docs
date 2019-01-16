@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slides.Paste
 ms.assetid: 313027d1-6f8b-9964-f0bd-4ba33c973743
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

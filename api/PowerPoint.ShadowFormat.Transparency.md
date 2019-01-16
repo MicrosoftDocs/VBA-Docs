@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShadowFormat.Transparency
 ms.assetid: 5ab7440c-111e-c3a5-159f-abe752893fd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

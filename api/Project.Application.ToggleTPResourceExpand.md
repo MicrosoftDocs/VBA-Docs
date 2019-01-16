@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ToggleTPResourceExpand
 ms.assetid: a4e39a14-3ba7-25b0-470e-a49c5586d490
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

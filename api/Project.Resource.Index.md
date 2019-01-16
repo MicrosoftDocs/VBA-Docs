@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Index
 ms.assetid: 63472085-2ce5-fb09-cdef-35706e46d826
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

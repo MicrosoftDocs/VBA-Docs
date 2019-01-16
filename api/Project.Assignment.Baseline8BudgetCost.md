@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Baseline8BudgetCost
 ms.assetid: bd8febca-06f7-29f7-6b94-e7ca72f3c1c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
