@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.RangeFromPoint
 ms.assetid: 74bc61e5-6c6d-0510-b549-e325dd67c7a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

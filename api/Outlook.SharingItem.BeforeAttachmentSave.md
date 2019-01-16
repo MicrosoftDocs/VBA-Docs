@@ -5,6 +5,7 @@ api_name:
 - Outlook.SharingItem.BeforeAttachmentSave
 ms.assetid: ec6c8b9f-759b-df04-c3df-8e977df457a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

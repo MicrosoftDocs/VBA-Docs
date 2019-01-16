@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.BackStyle
 ms.assetid: 5feb95d7-6e02-90de-f4f7-507d0b83c1f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

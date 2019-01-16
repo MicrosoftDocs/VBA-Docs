@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DropLines.Name
 ms.assetid: 651e77cc-1b72-1432-787d-7eb53eedd0f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

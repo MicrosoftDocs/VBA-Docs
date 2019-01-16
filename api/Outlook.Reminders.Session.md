@@ -8,6 +8,7 @@ api_name:
 - Outlook.Reminders.Session
 ms.assetid: 000e69b8-fd8c-1bd2-4cda-659faf210711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

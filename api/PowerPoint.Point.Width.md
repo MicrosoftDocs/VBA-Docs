@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Point.Width
 ms.assetid: 868c1e23-f710-7679-0d3d-7f826510042e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

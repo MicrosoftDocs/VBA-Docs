@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.HeaderFooter.Visible
 ms.assetid: 8389c5c7-4dd5-47e8-aec0-d45fda55383f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

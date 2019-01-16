@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ErrorBars.Delete
 ms.assetid: 0bc05b47-84fb-0f5c-ae78-e74485671223
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

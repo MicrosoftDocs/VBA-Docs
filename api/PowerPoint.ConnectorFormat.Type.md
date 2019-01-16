@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ConnectorFormat.Type
 ms.assetid: d76b5a38-a525-2afc-e095-54db135674c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlSelectionLocation
 ms.assetid: a13e3915-09a1-5130-42b9-caf3fb25c514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

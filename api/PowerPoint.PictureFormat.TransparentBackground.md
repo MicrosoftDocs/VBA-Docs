@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PictureFormat.TransparentBackground
 ms.assetid: b4a15c64-0568-dcd7-99a2-00295bfe679c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

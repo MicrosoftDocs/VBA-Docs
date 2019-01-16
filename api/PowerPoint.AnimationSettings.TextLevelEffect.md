@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings.TextLevelEffect
 ms.assetid: 008e3db2-2d22-5218-c312-663f0106adc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

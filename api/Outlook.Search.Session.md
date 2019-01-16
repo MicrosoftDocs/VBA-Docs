@@ -8,6 +8,7 @@ api_name:
 - Outlook.Search.Session
 ms.assetid: 8d5a2300-dc21-0fbe-c7c0-17741caae30a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.SaveOption
 ms.assetid: ddd50cb7-60e4-e820-3f3a-e84320fc76be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

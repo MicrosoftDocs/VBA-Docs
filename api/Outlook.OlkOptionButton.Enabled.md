@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.Enabled
 ms.assetid: 172c6cd0-a1df-eb51-ece7-0d53c714e39f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

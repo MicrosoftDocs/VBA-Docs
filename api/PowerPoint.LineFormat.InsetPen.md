@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LineFormat.InsetPen
 ms.assetid: 07a69459-0a24-c9b8-5aba-103b39d8b1af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.UserProperties.Parent
 ms.assetid: 35c01dd0-bec0-ece8-59fd-80daf1989e98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

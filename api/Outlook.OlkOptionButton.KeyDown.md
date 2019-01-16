@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.KeyDown
 ms.assetid: f236a9a0-cbde-d6f6-8fe8-681543de9aa5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

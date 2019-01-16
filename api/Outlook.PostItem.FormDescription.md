@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.FormDescription
 ms.assetid: dc0aee3c-ec49-e0d4-43bc-0e09f3d34a3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

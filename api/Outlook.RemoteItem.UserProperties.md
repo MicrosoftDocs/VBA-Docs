@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.UserProperties
 ms.assetid: 5146ade0-1ed8-4875-574f-511feae78b22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axes.Count
 ms.assetid: 99ae0123-c148-de64-0d52-bae1a5ce6ddc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.RTFBody
 ms.assetid: 79d197b0-d994-374f-ff25-ed7146352ba9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

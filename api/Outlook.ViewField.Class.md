@@ -8,6 +8,7 @@ api_name:
 - Outlook.ViewField.Class
 ms.assetid: 36c5d7cd-db84-7786-a381-697482aaef18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

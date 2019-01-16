@@ -3,6 +3,7 @@ title: Page.Enabled Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: ecfd8efd-d86d-a483-7869-016cb16cc37d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

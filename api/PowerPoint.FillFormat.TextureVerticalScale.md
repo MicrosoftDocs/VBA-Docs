@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.TextureVerticalScale
 ms.assetid: 714f17bd-db5b-4b09-c166-69f25e7a59d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

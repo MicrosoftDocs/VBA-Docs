@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.GradientColorType
 ms.assetid: 90224ee2-80f9-480b-bd1b-678035ded3ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

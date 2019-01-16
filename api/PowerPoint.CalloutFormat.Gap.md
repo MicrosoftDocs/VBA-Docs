@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CalloutFormat.Gap
 ms.assetid: f7fa7ba7-18ab-2b72-a6a1-5bc252e47d49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

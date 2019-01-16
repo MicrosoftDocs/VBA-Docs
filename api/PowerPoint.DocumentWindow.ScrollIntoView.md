@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.ScrollIntoView
 ms.assetid: 1eee6b36-9f01-5204-dd75-1172f2e00577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

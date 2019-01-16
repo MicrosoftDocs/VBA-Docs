@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarGroups.Item
 ms.assetid: 443bfb94-28c0-3977-8edd-e2630acd91be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

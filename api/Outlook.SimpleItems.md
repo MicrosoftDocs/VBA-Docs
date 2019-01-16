@@ -8,6 +8,7 @@ api_name:
 - Outlook.SimpleItems
 ms.assetid: b929ae28-fe5f-607e-37b5-ed6a304d4896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

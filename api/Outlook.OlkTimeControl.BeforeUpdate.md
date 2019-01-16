@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.BeforeUpdate
 ms.assetid: bd5f712d-854e-3eec-df3d-91c45f731134
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

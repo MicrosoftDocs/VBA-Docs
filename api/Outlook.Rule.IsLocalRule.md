@@ -8,6 +8,7 @@ api_name:
 - Outlook.Rule.IsLocalRule
 ms.assetid: 430a8240-8572-5b9a-5e59-2b38bb1b3d17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

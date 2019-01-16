@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AddIn.Registered
 ms.assetid: 693bcb7a-dabc-5933-38df-710172bbce26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.ReplyAll
 ms.assetid: 3bdca337-f106-b03f-c365-03d63aa22be8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

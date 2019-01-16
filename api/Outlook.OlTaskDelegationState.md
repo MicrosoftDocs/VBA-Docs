@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlTaskDelegationState
 ms.assetid: c6374297-d9ec-dbd0-f6b3-5b8c95127f33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

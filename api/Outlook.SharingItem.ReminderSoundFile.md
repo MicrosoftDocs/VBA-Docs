@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.ReminderSoundFile
 ms.assetid: 55974c0e-3b72-b64e-87ed-53ffc280721b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

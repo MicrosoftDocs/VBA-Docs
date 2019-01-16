@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCommandButton.PictureAlignment
 ms.assetid: 483fd606-beec-e9cb-9d86-2cf6047f8a53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

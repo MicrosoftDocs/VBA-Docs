@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ChartArea.Name
 ms.assetid: a901e04d-cd01-b08e-6f5a-ac6bb7e9b893
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

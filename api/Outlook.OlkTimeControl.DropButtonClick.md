@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.DropButtonClick
 ms.assetid: 2c48055b-97ee-518c-f8c4-5e473c5436ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

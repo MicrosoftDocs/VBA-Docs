@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Comment.Author
 ms.assetid: 83feff12-02a1-444e-baaf-15e39049e6a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

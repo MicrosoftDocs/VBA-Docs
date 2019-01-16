@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Font.Color
 ms.assetid: 461d3fdc-5097-ceca-76f6-81d924f8a7b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

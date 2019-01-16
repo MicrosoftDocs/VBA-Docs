@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimeZone.Bias
 ms.assetid: 18f55011-5d71-2e3b-4049-a37323f09478
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

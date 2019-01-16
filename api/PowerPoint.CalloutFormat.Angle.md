@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CalloutFormat.Angle
 ms.assetid: 75ce8b84-f7f5-a15a-291b-3f9713bddce7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

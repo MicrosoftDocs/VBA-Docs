@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartTitle.HorizontalAlignment
 ms.assetid: 6af12eec-7f4b-97db-aeb0-6871fa0cc607
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

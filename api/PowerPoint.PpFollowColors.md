@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpFollowColors
 ms.assetid: c49d2285-739a-1f71-18d5-1eb8787898c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

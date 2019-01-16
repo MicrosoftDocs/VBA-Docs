@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PlotArea.Parent
 ms.assetid: e0c10047-6fe6-1610-cb49-baf29a6ecfba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

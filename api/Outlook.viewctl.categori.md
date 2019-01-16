@@ -3,6 +3,7 @@ title: ViewCtl.Categories Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 82c7b144-8c11-dabf-ee48-e1bfd8e0ca31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

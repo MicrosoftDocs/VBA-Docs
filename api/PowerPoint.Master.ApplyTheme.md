@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Master.ApplyTheme
 ms.assetid: ae30318b-20e6-4eae-df4c-1f159fd77d6a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.MinorUnit
 ms.assetid: ff4b4a7b-25b3-974c-dee1-b81f0ec15634
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

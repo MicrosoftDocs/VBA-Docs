@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.AfterNewPresentation
 ms.assetid: d95bb247-2ebd-263f-d6b5-9918204b9130
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

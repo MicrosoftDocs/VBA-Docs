@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpFrameColors
 ms.assetid: 549f586d-4201-09c0-cd29-c4ab681fed8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

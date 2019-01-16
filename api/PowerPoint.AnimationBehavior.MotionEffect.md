@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AnimationBehavior.MotionEffect
 ms.assetid: ef9601ab-7a01-ba03-a5ef-a50c4d2c3c79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

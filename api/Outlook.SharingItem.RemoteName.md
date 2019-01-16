@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.RemoteName
 ms.assetid: 3c7fa798-cace-5748-3184-8055bf0f2958
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

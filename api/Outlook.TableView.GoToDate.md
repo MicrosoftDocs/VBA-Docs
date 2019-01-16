@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.GoToDate
 ms.assetid: debe2756-686a-b9cd-364d-e01a589d39a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

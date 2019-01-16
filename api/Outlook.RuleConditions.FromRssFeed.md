@@ -8,6 +8,7 @@ api_name:
 - Outlook.RuleConditions.FromRssFeed
 ms.assetid: ef312495-4d65-bb89-c543-59c5473171ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

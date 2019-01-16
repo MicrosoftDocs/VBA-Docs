@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.AutoForwarded
 ms.assetid: cf295734-8157-b7f1-c52d-a51f041b98d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

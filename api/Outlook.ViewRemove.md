@@ -8,6 +8,7 @@ api_name:
 - Outlook.ViewRemove
 ms.assetid: a0d405fd-aa57-c333-8e33-aa482019d9c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

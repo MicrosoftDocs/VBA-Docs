@@ -8,6 +8,7 @@ api_name:
 - Outlook.SolutionsModule.Class
 ms.assetid: d8b49f72-3810-9f29-a716-d37766454295
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

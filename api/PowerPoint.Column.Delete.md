@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Column.Delete
 ms.assetid: c9b7c6d5-1248-fe34-5185-efdfebcfef20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.ConversationIndex
 ms.assetid: 8a80206d-987f-9f05-8743-7060b9ae08b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

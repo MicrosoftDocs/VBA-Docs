@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Axis.Creator
 ms.assetid: ae5c24b1-3bf4-e285-7402-12f2a4727e2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

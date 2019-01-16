@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.DoubleClick
 ms.assetid: 0cafb918-e787-325a-f9ac-45cf0d8ff5d9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

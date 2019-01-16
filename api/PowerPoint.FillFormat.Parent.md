@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.Parent
 ms.assetid: b81440f3-aa91-7a67-0a61-a30cf40e2c29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

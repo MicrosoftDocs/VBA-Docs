@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendKey.ClearFormats
 ms.assetid: edc50b12-715f-52dd-30f3-6cd60e43a17a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpTransitionSpeed
 ms.assetid: 648641db-1a84-1b4b-3e0a-ffd2e960b0aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

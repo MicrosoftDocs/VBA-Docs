@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.Select
 ms.assetid: 5ea52965-ecf4-7a24-1b74-0e5ebc8d48a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

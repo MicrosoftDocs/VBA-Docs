@@ -8,6 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.EndTime
 ms.assetid: 7babda13-9e57-4c80-1ab3-56025753ed9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

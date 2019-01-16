@@ -8,6 +8,7 @@ api_name:
 - Outlook.PropertyAccessor.UTCToLocalTime
 ms.assetid: a56311ac-60ac-4f51-5255-d6840bf6004d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

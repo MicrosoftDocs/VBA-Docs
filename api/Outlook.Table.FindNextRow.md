@@ -8,6 +8,7 @@ api_name:
 - Outlook.Table.FindNextRow
 ms.assetid: e09019ca-e4bb-2597-7b9e-a56c1b5fce6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.SendRuleAction.Class
 ms.assetid: 9bcbaf99-6c4e-b706-299a-33750d55dba1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

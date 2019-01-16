@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlMatchEntry
 ms.assetid: b4c8aa72-747a-df06-4b92-5f54461164a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

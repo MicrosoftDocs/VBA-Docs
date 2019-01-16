@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Caption
 ms.assetid: ac560738-7ab5-3b5c-92b6-c46c1f28e483
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

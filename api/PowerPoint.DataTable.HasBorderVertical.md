@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataTable.HasBorderVertical
 ms.assetid: 943d7af7-e1fe-e7fe-408b-154fa2ad3705
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
