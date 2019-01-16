@@ -3,6 +3,7 @@ title: xlParentDataLabelOptions enumeration (Excel)
 ms.assetid: eb2c2212-e538-e6a4-2a76-c14808ff679c
 ms.date: 06/08/2017
 ms.prod: excel
+localization_priority: Normal
 ---
 
 

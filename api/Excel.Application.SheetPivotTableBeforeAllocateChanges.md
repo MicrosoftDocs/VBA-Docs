@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.SheetPivotTableBeforeAllocateChanges
 ms.assetid: b76cc20d-6251-def7-44d2-504fd6e9cda9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

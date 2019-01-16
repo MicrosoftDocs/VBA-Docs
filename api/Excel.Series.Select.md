@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Select
 ms.assetid: 9317a166-df2d-0c06-b1fb-4e3ecc7a645e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

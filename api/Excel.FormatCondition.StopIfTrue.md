@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.StopIfTrue
 ms.assetid: c6f4d030-a4de-3708-b830-ea6ffb836028
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

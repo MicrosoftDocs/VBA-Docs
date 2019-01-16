@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Shadow
 ms.assetid: 8b1ad20a-764d-595b-5c3f-b7e6b68421a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

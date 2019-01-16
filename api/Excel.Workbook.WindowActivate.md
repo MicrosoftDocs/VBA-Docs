@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.WindowActivate
 ms.assetid: e99d955c-1975-44c3-05b3-3aa6e851083c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

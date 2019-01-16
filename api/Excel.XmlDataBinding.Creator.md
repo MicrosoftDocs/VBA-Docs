@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlDataBinding.Creator
 ms.assetid: 1d03c514-abed-3987-0f5a-652f5befe972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

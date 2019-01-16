@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObject.SendToBack
 ms.assetid: a8f0f721-15ba-662f-ac17-0ac1657e3413
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

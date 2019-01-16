@@ -8,6 +8,7 @@ api_name:
 - Excel.ShowBubbleSize
 ms.assetid: abeee041-0fa0-537e-6786-37213a6004c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

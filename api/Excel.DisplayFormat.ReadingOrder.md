@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayFormat.ReadingOrder
 ms.assetid: d98602cd-3b5c-64f2-1ddf-27aa0e0539b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

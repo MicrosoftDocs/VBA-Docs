@@ -5,6 +5,7 @@ api_name:
 - Excel.XlThemeFont
 ms.assetid: 60be30f2-eab1-1dad-0865-cdbef7811815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

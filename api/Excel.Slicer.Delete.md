@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Delete
 ms.assetid: a3665f6c-dee8-342e-6558-05cf08a3db8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

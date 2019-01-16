@@ -8,6 +8,7 @@ api_name:
 - Excel.PictureFormat.Parent
 ms.assetid: 215d013c-02cc-bbe2-32f1-585888506ece
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

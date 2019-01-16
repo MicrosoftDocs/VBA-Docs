@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.Pattern
 ms.assetid: 051e17ce-accd-13f4-edca-9860bc78197b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

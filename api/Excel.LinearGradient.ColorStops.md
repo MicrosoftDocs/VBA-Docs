@@ -8,6 +8,7 @@ api_name:
 - Excel.LinearGradient.ColorStops
 ms.assetid: 99db35d4-f2ae-b1e4-6fed-98e3ecd49cfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.CalculatedMembersInFilters
 ms.assetid: 1f28b21d-d079-e37a-563e-473e6b57bccd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

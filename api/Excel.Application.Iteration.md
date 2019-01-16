@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Iteration
 ms.assetid: 51e5bd34-844b-3367-951a-6f2f8f9acf90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

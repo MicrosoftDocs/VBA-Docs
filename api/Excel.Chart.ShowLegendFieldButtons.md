@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.ShowLegendFieldButtons
 ms.assetid: 44f1554c-145b-8600-07c4-40b6891dab2d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

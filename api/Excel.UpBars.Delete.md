@@ -8,6 +8,7 @@ api_name:
 - Excel.UpBars.Delete
 ms.assetid: d224d9c6-362b-b88c-0897-b759e635d409
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

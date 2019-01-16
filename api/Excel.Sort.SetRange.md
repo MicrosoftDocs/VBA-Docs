@@ -8,6 +8,7 @@ api_name:
 - Excel.Sort.SetRange
 ms.assetid: 12a68fb7-379d-f9fa-d464-a6d5fe1e6f9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

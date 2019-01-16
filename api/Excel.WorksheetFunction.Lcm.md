@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Lcm
 ms.assetid: 42092d1d-1328-5c05-298c-3b9a77a5a0bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.InputBox
 ms.assetid: d3bd2f3a-7fed-20fa-918d-a71e2a2a1d49
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
@@ -18,9 +19,9 @@ Displays a dialog box for user input. Returns the information entered in the dia
 
 ## Syntax
 
-_expression_.**InputBox**(_Prompt_, _Title_, _Default_, _Left_, _Top_, _HelpFile_, _HelpContextID_, _Type_)
+_expression_. `InputBox` (`_Prompt_`, `_Title_`, `_Default_`, `_Left_`, `_Top_`, `_HelpFile_`, `_HelpContextID_`, `_Type_`)
 
-_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
+_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Parameters
@@ -45,7 +46,7 @@ Variant
 
 The following table lists the values that can be passed in the Type argument. Can be one or a sum of the values. For example, for an input box that can accept both text and numbers, set _Type_ to 1 + 2.
 
-|Value|Meaning|
+|**Value**|**Meaning**|
 |:-----|:-----|
 |0|A formula|
 |1|A number|
@@ -89,7 +90,7 @@ Set myCell = Application.InputBox( _
     prompt:="Select a cell", Type:=8)
 ```
 
-**Sample code provided by** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
+**Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&p=1)
 
 This example uses an InputBox for the user to select a range to pass to the user-defined function 'MyFunction', which multiplies three values in a range together and returns the result.
 
@@ -121,6 +122,6 @@ End Function
 
 ## See also
 
-- [InputBox function](../language/reference/user-interface-help/inputbox-function.md)
+[Application Object](Excel.Application(object).md)
 
 

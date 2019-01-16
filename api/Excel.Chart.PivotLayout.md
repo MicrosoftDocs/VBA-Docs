@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.PivotLayout
 ms.assetid: b621dc49-5321-5426-35cc-386cac251920
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

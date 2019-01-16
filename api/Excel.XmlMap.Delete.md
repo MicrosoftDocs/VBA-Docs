@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.Delete
 ms.assetid: 8acde534-c465-029a-635a-38f63c5f4013
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

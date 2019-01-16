@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.PreserveFormatting
 ms.assetid: 0be15116-ff1a-9b39-ae59-46c2d9383f0b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Fisher
 ms.assetid: c7326a23-f9ea-76a8-d1c4-700962362cd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

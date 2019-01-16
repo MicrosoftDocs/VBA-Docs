@@ -8,6 +8,7 @@ api_name:
 - Excel.AreaGroups
 ms.assetid: ec2a4a28-2f10-4f4f-bd91-642bf1b8ebe2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

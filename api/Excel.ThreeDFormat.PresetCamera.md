@@ -5,6 +5,7 @@ api_name:
 - Excel.ThreeDFormat.PresetCamera
 ms.assetid: 0f172ca4-dd18-fc5c-e2d1-725e0a54e187
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

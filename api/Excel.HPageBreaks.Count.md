@@ -8,6 +8,7 @@ api_name:
 - Excel.HPageBreaks.Count
 ms.assetid: f5fb8c32-6a2f-89cc-76dc-444ee9bfe9ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.CurrentPageName
 ms.assetid: cdf3be5e-d71b-af73-e65b-63075b78bfeb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

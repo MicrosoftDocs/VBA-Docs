@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatColor.ThemeColor
 ms.assetid: 5e4750b3-14a3-ca31-ef61-1be32be3ef38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

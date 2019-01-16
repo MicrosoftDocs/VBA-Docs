@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Creator
 ms.assetid: acbfdefc-8a21-1a64-1d7c-f3d440156d5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

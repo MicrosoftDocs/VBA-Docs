@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetics.CharacterType
 ms.assetid: b61c3bd5-86dc-baed-e47f-62d522fca290
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

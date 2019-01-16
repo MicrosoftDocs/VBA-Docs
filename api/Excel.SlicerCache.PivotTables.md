@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCache.PivotTables
 ms.assetid: 73fc8935-3c88-0a79-b0a1-05af99f14bc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

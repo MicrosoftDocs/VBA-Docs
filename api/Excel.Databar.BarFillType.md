@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.BarFillType
 ms.assetid: c83fc8d3-63aa-4989-8099-74bcad7d6fce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

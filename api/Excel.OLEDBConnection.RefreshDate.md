@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.RefreshDate
 ms.assetid: 5b808638-c014-3ed4-3d22-272bcb34f8e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

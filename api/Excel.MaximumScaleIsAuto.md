@@ -8,6 +8,7 @@ api_name:
 - Excel.MaximumScaleIsAuto
 ms.assetid: ca8115b8-0a45-0c88-5a5c-89c93d791452
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

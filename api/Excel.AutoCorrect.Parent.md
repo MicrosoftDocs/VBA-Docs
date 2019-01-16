@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoCorrect.Parent
 ms.assetid: e8d8e956-2e77-fd69-e766-beba07c902aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

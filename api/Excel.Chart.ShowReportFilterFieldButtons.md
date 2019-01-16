@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.ShowReportFilterFieldButtons
 ms.assetid: 6b7aa6e2-2216-caef-5936-d9c9681b60db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

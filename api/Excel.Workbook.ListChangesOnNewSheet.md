@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ListChangesOnNewSheet
 ms.assetid: 77adf429-baa5-f2be-6139-c2b07dda5174
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

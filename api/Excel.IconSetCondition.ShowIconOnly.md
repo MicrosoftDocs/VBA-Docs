@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.ShowIconOnly
 ms.assetid: 4613f7ae-8282-755f-4a1c-fd6b01de0141
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

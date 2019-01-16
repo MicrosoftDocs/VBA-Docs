@@ -8,6 +8,7 @@ api_name:
 - Excel.Outline
 ms.assetid: f5d50a8a-0dd9-638a-4374-5c648386a598
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

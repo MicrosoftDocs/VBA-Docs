@@ -8,6 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.ScreenSize
 ms.assetid: 45a5689d-caac-a4ec-4bc4-e0e90065f798
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

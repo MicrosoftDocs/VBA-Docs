@@ -8,6 +8,7 @@ api_name:
 - Excel.HasDataTable
 ms.assetid: 52d965ca-e4cf-35d5-0ac6-5a6144aedff0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

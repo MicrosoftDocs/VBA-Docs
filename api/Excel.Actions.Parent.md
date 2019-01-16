@@ -8,6 +8,7 @@ api_name:
 - Excel.Actions.Parent
 ms.assetid: 33d471eb-81f7-465d-12df-548d04554d96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

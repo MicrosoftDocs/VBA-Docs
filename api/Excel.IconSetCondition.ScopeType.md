@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.ScopeType
 ms.assetid: e2198d8b-0286-b199-59aa-7b3a69669b65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

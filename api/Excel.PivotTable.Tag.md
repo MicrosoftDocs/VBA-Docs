@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.Tag
 ms.assetid: 7ef25e2e-6c89-3654-4045-2937fcf47121
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.TextEffectFormat.KernedPairs
 ms.assetid: 107889be-57eb-7fcf-17a1-6a1393009701
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

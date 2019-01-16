@@ -8,6 +8,7 @@ api_name:
 - Excel.Offset
 ms.assetid: f2f00d51-2a85-aa9c-4361-69f4534cd8e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

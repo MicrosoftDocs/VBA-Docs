@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DeferAsyncQueries
 ms.assetid: 21f05a5a-40e8-304a-f537-41ea171a114c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

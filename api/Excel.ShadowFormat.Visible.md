@@ -8,6 +8,7 @@ api_name:
 - Excel.ShadowFormat.Visible
 ms.assetid: 08da0549-44ab-e17f-f085-c3e988649a44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

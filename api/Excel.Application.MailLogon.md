@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.MailLogon
 ms.assetid: 0a6c8752-739d-b996-1426-4d3021ea5323
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.VacatedStyle
 ms.assetid: 94be037f-3fce-ad39-9dd6-b72f829c3fbf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

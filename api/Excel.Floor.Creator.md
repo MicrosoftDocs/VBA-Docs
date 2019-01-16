@@ -8,6 +8,7 @@ api_name:
 - Excel.Floor.Creator
 ms.assetid: 04cfbb36-51f5-a1d1-0f22-a1ecf9be682e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

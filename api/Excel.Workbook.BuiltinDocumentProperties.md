@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.BuiltinDocumentProperties
 ms.assetid: 3efffd7d-0681-ecbc-000a-b71eceb3f92a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

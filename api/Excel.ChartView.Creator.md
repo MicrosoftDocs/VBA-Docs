@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartView.Creator
 ms.assetid: b79054ab-5f0b-c7a0-3247-6e6cfe0470cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

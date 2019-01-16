@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.F_Dist_RT
 ms.assetid: 307f9afa-3e15-edce-cabb-dd96b351cdab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

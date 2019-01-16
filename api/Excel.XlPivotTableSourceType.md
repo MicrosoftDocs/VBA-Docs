@@ -5,6 +5,7 @@ api_name:
 - Excel.XlPivotTableSourceType
 ms.assetid: 96385c0c-3f03-7b57-fb71-af533270a26c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

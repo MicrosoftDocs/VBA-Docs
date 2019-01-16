@@ -8,6 +8,7 @@ api_name:
 - Excel.XPath.Value
 ms.assetid: 66dd0dc1-2dd7-5e08-5ffc-101b6621bc74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

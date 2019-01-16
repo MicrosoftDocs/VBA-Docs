@@ -8,6 +8,7 @@ api_name:
 - Excel.NegativeBarFormat.BorderColor
 ms.assetid: debe910b-db4a-8e6c-b3c0-3d6eb61fb4a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

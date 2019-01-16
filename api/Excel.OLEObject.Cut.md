@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.Cut
 ms.assetid: 135fe274-5c00-4ab2-1c3d-5c484dbe92aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

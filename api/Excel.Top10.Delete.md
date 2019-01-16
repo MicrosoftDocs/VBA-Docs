@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.Delete
 ms.assetid: 3c406d8c-85b2-d820-3646-8c5649f155c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

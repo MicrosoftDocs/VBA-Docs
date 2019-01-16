@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.DisplayZeros
 ms.assetid: cddb671b-5b7f-c2a8-1527-bfe0bfdced78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

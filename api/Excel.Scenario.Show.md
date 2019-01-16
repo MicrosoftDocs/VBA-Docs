@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.Show
 ms.assetid: 50985cfc-29e4-3861-eafa-f4ba1c117bc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

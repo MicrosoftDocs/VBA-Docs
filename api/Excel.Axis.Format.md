@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Format
 ms.assetid: e7fe3b22-231c-bc54-483b-4151a865056b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

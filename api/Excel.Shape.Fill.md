@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Fill
 ms.assetid: b533b463-51c5-f59e-c3ba-cfe7512daa53
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

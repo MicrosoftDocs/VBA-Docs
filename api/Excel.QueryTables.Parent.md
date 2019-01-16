@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTables.Parent
 ms.assetid: c12b6aca-8e95-5560-647b-f63259ef9584
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

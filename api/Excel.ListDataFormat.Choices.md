@@ -8,6 +8,7 @@ api_name:
 - Excel.ListDataFormat.Choices
 ms.assetid: c4a809e6-7977-28a1-1070-286e7df99409
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

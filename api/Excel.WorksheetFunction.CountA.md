@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.CountA
 ms.assetid: b3d8662b-a886-daf8-2ce0-763017fbcd94
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

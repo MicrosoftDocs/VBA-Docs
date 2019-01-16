@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.HasArray
 ms.assetid: fac17206-8671-6209-9133-d56da6ea2b9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

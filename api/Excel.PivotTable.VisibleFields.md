@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.VisibleFields
 ms.assetid: 01d5e76d-e109-905d-1743-1fbacd85e7a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

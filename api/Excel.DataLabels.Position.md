@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabels.Position
 ms.assetid: 1eb5e1c9-bdd1-f886-d1a7-aeb2f55b17d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

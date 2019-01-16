@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.ServerPolicy
 ms.assetid: 188f6c47-35e3-bb69-cb8d-9d78b5b8fea5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

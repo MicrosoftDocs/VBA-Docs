@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.SendFaxOverInternet
 ms.assetid: e7d91ac4-90d2-7555-af96-dc28736da769
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

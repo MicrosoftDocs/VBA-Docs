@@ -8,6 +8,7 @@ api_name:
 - Excel.Trendlines.Add
 ms.assetid: 4d86029e-3c42-2d81-69d3-94d8dc072ccd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.Copy
 ms.assetid: 073f96c3-80c1-502d-a630-8cc5c2bfef9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

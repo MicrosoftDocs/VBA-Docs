@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.Flip
 ms.assetid: 6ba41c89-878e-d9e1-5594-0cf45411b608
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

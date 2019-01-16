@@ -8,6 +8,7 @@ api_name:
 - Excel.Legend.Width
 ms.assetid: 267e2f8f-5299-15d9-65e2-886e9f59c5e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

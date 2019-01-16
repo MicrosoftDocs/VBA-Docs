@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendKey.Delete
 ms.assetid: b93ad1e1-48d2-8076-7151-b43b27faa773
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

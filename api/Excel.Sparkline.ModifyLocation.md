@@ -8,6 +8,7 @@ api_name:
 - Excel.Sparkline.ModifyLocation
 ms.assetid: 39b4b0cc-5d3a-0f0b-c57e-d0d4f2cc4244
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.Delete
 ms.assetid: cc2c7d0b-5599-ba03-89df-6b8fee02bfe0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

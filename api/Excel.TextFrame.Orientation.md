@@ -8,6 +8,7 @@ api_name:
 - Excel.TextFrame.Orientation
 ms.assetid: bd1cc9ec-6a12-7d3b-e160-6371ce09171b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Font.TintAndShade
 ms.assetid: 0b890357-fb55-ac43-ecf0-f7d84ce0f248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

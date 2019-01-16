@@ -8,6 +8,7 @@ api_name:
 - Excel.Window.DisplayFormulas
 ms.assetid: 04e75e40-4eb9-93f9-73b2-4024a1c1151d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

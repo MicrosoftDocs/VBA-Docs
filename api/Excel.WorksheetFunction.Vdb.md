@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Vdb
 ms.assetid: 601a57eb-56da-c3e5-4e6c-3029202c317d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

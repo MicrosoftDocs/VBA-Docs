@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.RunAutoMacros
 ms.assetid: 85dfdadf-75e6-437d-fb7a-e17681a69b35
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

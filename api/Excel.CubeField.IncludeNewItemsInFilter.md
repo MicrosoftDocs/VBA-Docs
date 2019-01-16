@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.IncludeNewItemsInFilter
 ms.assetid: 7c9ccb66-5a8c-ced0-c024-2336e85f00db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

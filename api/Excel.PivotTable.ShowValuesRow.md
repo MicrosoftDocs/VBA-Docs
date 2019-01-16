@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.ShowValuesRow
 ms.assetid: 8bfe8ddb-2127-25b2-b18e-82a7b103908a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

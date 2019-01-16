@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Consolidate
 ms.assetid: d5fb78a3-c3ec-0d1a-c6ad-b33bc90e431c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.RecordCount
 ms.assetid: 5fcdcf2d-d52f-6ac1-ef09-8377fc5a1f4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

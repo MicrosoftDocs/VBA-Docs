@@ -8,6 +8,7 @@ api_name:
 - Excel.RectangularGradient.RectangleRight
 ms.assetid: 97d581d7-6cba-fe3a-8af8-a453c347b1df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

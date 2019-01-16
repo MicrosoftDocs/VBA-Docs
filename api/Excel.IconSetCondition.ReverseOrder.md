@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.ReverseOrder
 ms.assetid: cd42262e-06b0-04d5-c962-00f937d0d5dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

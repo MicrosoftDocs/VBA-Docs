@@ -8,6 +8,7 @@ api_name:
 - Excel.Floor.ClearFormats
 ms.assetid: 4f364e5e-d2fe-1a48-f7c7-437d5818ea43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

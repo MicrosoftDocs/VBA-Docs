@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.DisplayInReport
 ms.assetid: 5f652374-65c4-2269-8a97-bc20d0c6a54f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ImLog2
 ms.assetid: 7eb55cd5-fec2-c110-981b-81c55b241900
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

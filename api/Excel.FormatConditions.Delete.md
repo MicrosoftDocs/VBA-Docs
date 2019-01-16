@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatConditions.Delete
 ms.assetid: d805b61f-13de-4381-b9e4-97603a3c9da3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

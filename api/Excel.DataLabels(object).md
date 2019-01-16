@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabels
 ms.assetid: 3d79271e-c702-e785-6984-d838d060a8c5
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

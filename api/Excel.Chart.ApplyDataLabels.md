@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.ApplyDataLabels
 ms.assetid: 20966609-9713-c644-81d7-196b06169975
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

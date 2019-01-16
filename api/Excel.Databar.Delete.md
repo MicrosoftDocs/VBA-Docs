@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.Delete
 ms.assetid: 6f3a71f2-c6c3-875e-083a-ade8b415cd9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

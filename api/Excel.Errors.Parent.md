@@ -8,6 +8,7 @@ api_name:
 - Excel.Errors.Parent
 ms.assetid: a91f44c8-2d9b-27ec-3f0e-5edc3dfd3cde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

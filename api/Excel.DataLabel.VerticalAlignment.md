@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabel.VerticalAlignment
 ms.assetid: ba16b09a-368e-c561-e51e-da7492770972
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

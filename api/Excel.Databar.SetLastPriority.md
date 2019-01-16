@@ -8,6 +8,7 @@ api_name:
 - Excel.Databar.SetLastPriority
 ms.assetid: 985b1225-6816-fe3b-e973-5fd90aa1fe47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSets.Creator
 ms.assetid: e46acfe1-71f0-3a10-92d9-dd1ab3aa5569
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

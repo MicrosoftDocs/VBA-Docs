@@ -8,6 +8,7 @@ api_name:
 - Excel.Legend.Position
 ms.assetid: 6256617d-d78f-8b2e-dd27-96c71cd2a84f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

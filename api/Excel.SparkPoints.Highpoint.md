@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Highpoint
 ms.assetid: 357a154d-f30e-1457-60a9-c448b6b04479
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

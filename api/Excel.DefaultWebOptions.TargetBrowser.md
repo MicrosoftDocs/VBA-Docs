@@ -8,6 +8,7 @@ api_name:
 - Excel.DefaultWebOptions.TargetBrowser
 ms.assetid: 785efc30-ef17-1745-874d-a3be861d450b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

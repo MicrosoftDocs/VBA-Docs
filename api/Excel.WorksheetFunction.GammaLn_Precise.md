@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.GammaLn_Precise
 ms.assetid: a428c7a2-452e-575d-7d16-fd9f5023755d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

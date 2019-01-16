@@ -8,6 +8,7 @@ api_name:
 - Excel.LineFormat.Visible
 ms.assetid: a1b3d690-b6aa-7204-51a9-e0f80bf55b8d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

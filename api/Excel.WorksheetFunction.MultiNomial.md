@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MultiNomial
 ms.assetid: be7c63a7-a575-8139-e37e-a0431b95a07c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

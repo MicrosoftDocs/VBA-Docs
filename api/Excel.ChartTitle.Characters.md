@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.Characters
 ms.assetid: 53cbfd6d-3be0-74d8-d55b-983d99d92e80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

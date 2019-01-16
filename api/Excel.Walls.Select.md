@@ -8,6 +8,7 @@ api_name:
 - Excel.Walls.Select
 ms.assetid: 4851d3e4-b119-8c40-47f6-60d21766ffb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

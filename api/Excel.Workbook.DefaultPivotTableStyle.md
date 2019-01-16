@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.DefaultPivotTableStyle
 ms.assetid: 8e2ca78a-4eb1-1b1e-c947-8a724f6d690a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PublishObject.Title
 ms.assetid: 3e8eae5c-62f5-3d72-2c27-ff5107153adc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

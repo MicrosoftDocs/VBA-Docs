@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Effect
 ms.assetid: cbd5be5b-a1ee-addf-f0d9-01c4e4e0273b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

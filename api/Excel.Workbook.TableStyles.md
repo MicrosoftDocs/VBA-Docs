@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.TableStyles
 ms.assetid: ac23db99-b2ce-0228-7808-728817736694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

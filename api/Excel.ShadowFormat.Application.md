@@ -5,6 +5,7 @@ api_name:
 - Excel.ShadowFormat.Application
 ms.assetid: f3e3a466-a347-9938-aecd-bd2ed9b2faa3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

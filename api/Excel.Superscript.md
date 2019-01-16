@@ -8,6 +8,7 @@ api_name:
 - Excel.Superscript
 ms.assetid: 5c9b6173-29a9-8a48-125e-673a935b33e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

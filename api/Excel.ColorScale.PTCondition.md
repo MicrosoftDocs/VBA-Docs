@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorScale.PTCondition
 ms.assetid: 73bedd99-00d4-6ca7-c2ad-9bbe851d0be7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

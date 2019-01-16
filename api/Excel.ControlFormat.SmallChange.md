@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.SmallChange
 ms.assetid: 5c2c668a-3d4d-ac01-e08b-0db6278ddffd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

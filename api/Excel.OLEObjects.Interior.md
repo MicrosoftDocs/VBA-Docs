@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObjects.Interior
 ms.assetid: c511b50c-63b6-978a-5223-f4d5d20e3267
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Connections.Creator
 ms.assetid: eb334a7c-d286-c1a0-c4d3-a4a2fe5be7c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

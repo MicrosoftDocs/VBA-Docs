@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.PropertyOrder
 ms.assetid: b938d2bd-3e64-a861-c058-96daa81830bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

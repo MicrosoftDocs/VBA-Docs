@@ -8,6 +8,7 @@ api_name:
 - Excel.Colors
 ms.assetid: 8e848003-2ae8-a1d4-9ecf-8e6f87a5a600
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Clean
 ms.assetid: ac5de21a-b087-ebd7-764b-1644475cd2a9
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

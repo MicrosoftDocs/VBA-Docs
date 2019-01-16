@@ -8,6 +8,7 @@ api_name:
 - Excel.DisplayAutoCorrectOptions
 ms.assetid: 9264f123-b3f8-aebc-bfa5-9a3b9be98706
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

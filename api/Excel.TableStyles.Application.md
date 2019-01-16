@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyles.Application
 ms.assetid: 9f1c7dc1-78ed-fc6a-0740-16aa57e24381
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.DisplayUnitCustom
 ms.assetid: 77c660cc-dfb7-d4f7-6a8a-52522e026299
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

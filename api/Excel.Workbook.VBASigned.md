@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.VBASigned
 ms.assetid: 6e93161c-2fa4-1064-9b5d-a8eb96ad2bea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

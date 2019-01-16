@@ -8,6 +8,7 @@ api_name:
 - Excel.PictureFormat.TransparencyColor
 ms.assetid: c3a7a247-0cc2-adc8-e13f-a1f4ff728ba0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

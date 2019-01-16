@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.PickUp
 ms.assetid: 6a7120d3-4fd4-cb4a-d838-89693267be22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.CopyFromRecordset
 ms.assetid: cec7fded-f4e0-1b1c-5374-8a860828c9cc
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorStops.Add
 ms.assetid: 121c48bf-0b68-89c9-6a03-f7a403b52fee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

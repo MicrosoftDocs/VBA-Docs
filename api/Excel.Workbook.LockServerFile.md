@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.LockServerFile
 ms.assetid: be0ac600-320e-0959-bc26-5f3f4a910f5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

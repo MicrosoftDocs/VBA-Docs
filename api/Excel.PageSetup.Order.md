@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.Order
 ms.assetid: cb39c83a-3ab2-cab9-531c-762db4ab6770
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

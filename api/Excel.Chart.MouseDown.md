@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.MouseDown
 ms.assetid: 6c4ef5ce-560e-a7d5-c602-99a999fb5535
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

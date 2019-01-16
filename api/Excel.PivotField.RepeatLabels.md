@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotField.RepeatLabels
 ms.assetid: abc7e5f7-4633-38b3-d5a8-41bfa463077d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

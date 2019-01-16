@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.PrintedCommentPages
 ms.assetid: 3ade9c86-c6b9-08fa-3bc6-a040dd1da36a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

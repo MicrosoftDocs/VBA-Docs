@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.PageBreak
 ms.assetid: 0bec0bba-c2c3-33cd-b39e-55971177c2c8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

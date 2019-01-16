@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.VerticalAlignment
 ms.assetid: 6c47e6f1-6e86-a5ac-a57d-4bfec12becf2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

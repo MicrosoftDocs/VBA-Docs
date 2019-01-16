@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.SelectionMode
 ms.assetid: 692c31b9-01a4-2a49-65c9-66c14ab6aa7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

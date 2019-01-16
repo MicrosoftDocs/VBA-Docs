@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendKey.MarkerSize
 ms.assetid: 4c90aa34-9720-00b6-5149-9b7c2d1b56d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

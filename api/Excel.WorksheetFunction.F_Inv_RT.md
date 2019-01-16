@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.F_Inv_RT
 ms.assetid: 0852b011-ec06-ac01-cc94-993f379270bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

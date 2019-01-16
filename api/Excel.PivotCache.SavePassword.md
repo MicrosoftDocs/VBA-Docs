@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.SavePassword
 ms.assetid: 6ddc953a-b014-589b-5b67-7497da9df706
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

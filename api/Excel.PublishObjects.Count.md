@@ -8,6 +8,7 @@ api_name:
 - Excel.PublishObjects.Count
 ms.assetid: ac794ba3-1514-2a42-ed18-96ee0a9a2832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

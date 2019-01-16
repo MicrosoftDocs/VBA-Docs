@@ -8,6 +8,7 @@ api_name:
 - Excel.Charts.PrintPreview
 ms.assetid: 53d54413-6c35-d2a3-ba4a-1acc3bbdea28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

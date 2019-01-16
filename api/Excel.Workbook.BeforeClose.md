@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.BeforeClose
 ms.assetid: 1c440637-8289-c6dd-24e0-1b2764fd1694
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

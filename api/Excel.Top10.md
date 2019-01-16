@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10
 ms.assetid: b94f4a4f-564c-d751-2b43-4b9482e048cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

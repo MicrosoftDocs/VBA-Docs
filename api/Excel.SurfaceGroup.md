@@ -8,6 +8,7 @@ api_name:
 - Excel.SurfaceGroup
 ms.assetid: f22bfac3-6c3c-0c82-8ca5-e167dd01e132
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

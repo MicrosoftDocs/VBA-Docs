@@ -8,6 +8,7 @@ api_name:
 - Excel.Borders.Color
 ms.assetid: 3ee1bce3-56e2-c93f-432f-8f1d037a7624
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.DDERequest
 ms.assetid: 822ef77e-5f11-aced-f770-05175ce128c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

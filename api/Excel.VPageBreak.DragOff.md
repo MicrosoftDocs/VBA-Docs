@@ -8,6 +8,7 @@ api_name:
 - Excel.VPageBreak.DragOff
 ms.assetid: 93e169e8-e2d6-4cca-bd82-2d11fdc1ae4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ProtectDrawingObjects
 ms.assetid: a3733b3b-dca4-4131-e197-5c919d44c7bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

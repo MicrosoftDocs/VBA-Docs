@@ -8,6 +8,7 @@ api_name:
 - Excel.Border.Weight
 ms.assetid: c6b9a812-60e6-245d-e86e-fb385581f890
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

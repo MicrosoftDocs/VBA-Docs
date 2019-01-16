@@ -8,6 +8,7 @@ api_name:
 - Excel.Series.Explosion
 ms.assetid: e70678f5-ee1a-f5c2-7e5f-0c26f5282be4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

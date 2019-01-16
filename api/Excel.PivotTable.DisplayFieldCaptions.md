@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DisplayFieldCaptions
 ms.assetid: a0c76f0c-39eb-a705-90c7-74887ee16d35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

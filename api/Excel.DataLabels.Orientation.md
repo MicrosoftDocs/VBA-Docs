@@ -8,6 +8,7 @@ api_name:
 - Excel.DataLabels.Orientation
 ms.assetid: 399ebbb1-6a08-b87d-5d3f-0b3e20462303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

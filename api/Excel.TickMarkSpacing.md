@@ -8,6 +8,7 @@ api_name:
 - Excel.TickMarkSpacing
 ms.assetid: 5c8abc42-b0bc-882d-ebdf-7125a92b121b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

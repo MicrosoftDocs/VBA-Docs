@@ -5,6 +5,7 @@ api_name:
 - Excel.FillFormat.RotateWithObject
 ms.assetid: 6bdd58ab-2e71-1e82-bb45-e98c77e9229b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

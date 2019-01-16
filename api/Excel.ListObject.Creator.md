@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.Creator
 ms.assetid: 39d04a9a-c36e-5d09-df79-cbb802ddbe28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

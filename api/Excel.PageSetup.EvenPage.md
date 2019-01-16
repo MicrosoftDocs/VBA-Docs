@@ -8,6 +8,7 @@ api_name:
 - Excel.PageSetup.EvenPage
 ms.assetid: de940721-781f-085b-1249-3f641af737c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

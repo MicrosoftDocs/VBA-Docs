@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.SourceDataFile
 ms.assetid: f32c0eeb-e8f5-1a9f-13fd-ead4ad96381f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

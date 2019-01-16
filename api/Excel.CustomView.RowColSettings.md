@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomView.RowColSettings
 ms.assetid: 66e946bf-2f72-b7f4-a3fc-dd1ace044ec8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

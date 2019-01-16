@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.ServerActions
 ms.assetid: dffb9535-3b82-c134-82b0-b87d8bc258ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

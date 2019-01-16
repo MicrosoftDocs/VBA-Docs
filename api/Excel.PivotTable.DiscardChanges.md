@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.DiscardChanges
 ms.assetid: 9ee2905f-7dd1-81d2-7075-7fdc78ad6f1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

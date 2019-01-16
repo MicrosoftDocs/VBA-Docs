@@ -3,6 +3,7 @@ title: Model.CreateModelWorkbookConnection method (Excel)
 ms.prod: excel
 ms.assetid: cd8c35e6-91ee-5d46-cc98-199b8916ecdd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

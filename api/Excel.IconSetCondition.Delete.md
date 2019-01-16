@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSetCondition.Delete
 ms.assetid: cd9d4874-8d2c-3423-2264-95b335078c2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

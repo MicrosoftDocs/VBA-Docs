@@ -5,6 +5,7 @@ api_name:
 - Excel.XlLayoutFormType
 ms.assetid: 20f810db-2b16-d61f-1971-9ac39e521690
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

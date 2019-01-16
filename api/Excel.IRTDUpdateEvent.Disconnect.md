@@ -8,6 +8,7 @@ api_name:
 - Excel.IRTDUpdateEvent.Disconnect
 ms.assetid: 4d0c5438-5049-3b34-69d4-38dabd625b1f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

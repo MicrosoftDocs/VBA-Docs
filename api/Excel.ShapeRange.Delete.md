@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.Delete
 ms.assetid: 6417fd0d-d7ed-3a76-262d-0426a2243100
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

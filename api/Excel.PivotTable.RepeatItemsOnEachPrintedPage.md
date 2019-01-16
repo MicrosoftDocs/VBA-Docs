@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.RepeatItemsOnEachPrintedPage
 ms.assetid: 96e5e2d8-44ff-8d6f-6bba-f009dbc769a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

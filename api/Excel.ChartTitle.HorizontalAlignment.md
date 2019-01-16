@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.HorizontalAlignment
 ms.assetid: 2ad6c649-c9f4-fb6a-bb29-4d01567c127a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

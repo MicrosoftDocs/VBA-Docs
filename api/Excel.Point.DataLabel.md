@@ -8,6 +8,7 @@ api_name:
 - Excel.Point.DataLabel
 ms.assetid: 2f860d46-c6b5-50cf-b0af-4c46d9f7b2ac
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

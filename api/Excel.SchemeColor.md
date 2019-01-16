@@ -8,6 +8,7 @@ api_name:
 - Excel.SchemeColor
 ms.assetid: a90b4570-dae3-4ca1-563a-0467efbf9bca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Excel.CalloutFormat.Creator
 ms.assetid: b9c90a53-613e-7b00-401c-991f12946da5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

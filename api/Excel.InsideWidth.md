@@ -8,6 +8,7 @@ api_name:
 - Excel.InsideWidth
 ms.assetid: 1f6bfd65-c134-6d52-5936-dfc4a4eecda8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

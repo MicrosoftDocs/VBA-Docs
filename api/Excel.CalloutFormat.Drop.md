@@ -8,6 +8,7 @@ api_name:
 - Excel.CalloutFormat.Drop
 ms.assetid: fd1845fb-bdef-aa9e-5e49-a6c2fd6e2cb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

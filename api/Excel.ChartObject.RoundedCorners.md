@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObject.RoundedCorners
 ms.assetid: cb58389a-0235-384e-e32a-e669e789bacc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

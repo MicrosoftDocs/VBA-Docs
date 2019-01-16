@@ -8,6 +8,7 @@ api_name:
 - Excel.IconSet.Count
 ms.assetid: 68ec72cf-855e-37c1-e9a6-e5eb70ecc4a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

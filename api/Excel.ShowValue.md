@@ -8,6 +8,7 @@ api_name:
 - Excel.ShowValue
 ms.assetid: 43e4380c-8e28-627e-6211-f1bd96d9d47f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

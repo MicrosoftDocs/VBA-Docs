@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTables
 ms.assetid: 5beb33ac-a0fb-3f78-8fdc-d05719512214
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

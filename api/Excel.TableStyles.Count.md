@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyles.Count
 ms.assetid: b479e873-ba0f-462b-a7a7-dcacf0eb6298
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

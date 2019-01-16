@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.EnableWizard
 ms.assetid: 3e87af08-711d-cddb-bcc1-0b9179e71cb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

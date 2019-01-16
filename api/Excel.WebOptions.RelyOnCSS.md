@@ -8,6 +8,7 @@ api_name:
 - Excel.WebOptions.RelyOnCSS
 ms.assetid: 7921e4d8-f27f-4e87-e64e-ae0f8c5869c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

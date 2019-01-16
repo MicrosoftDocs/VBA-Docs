@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.TickLabelPosition
 ms.assetid: 50e27107-6dc5-9097-74f7-331642fb52ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

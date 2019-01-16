@@ -8,6 +8,7 @@ api_name:
 - Excel.DataBarBorder.Color
 ms.assetid: a16439a9-c086-9c42-8496-9a16d9011689
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

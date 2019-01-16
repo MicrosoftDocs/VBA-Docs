@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Ppmt
 ms.assetid: 9b088c90-9db6-b043-ee3e-0f9709a06475
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

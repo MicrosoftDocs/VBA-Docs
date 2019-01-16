@@ -8,6 +8,7 @@ api_name:
 - Excel.CalculatedMembers.Item
 ms.assetid: 82ba55c7-0c16-df11-ac32-40868f57d2e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
