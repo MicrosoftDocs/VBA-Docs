@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.ShapeLinkAdded
 ms.assetid: 5cd7431f-18da-184c-7976-06f174cd5f73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

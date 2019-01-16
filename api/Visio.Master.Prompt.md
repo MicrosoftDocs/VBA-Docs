@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.Prompt
 ms.assetid: 7467c2dd-5cf6-0af0-bc4d-522889d69707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

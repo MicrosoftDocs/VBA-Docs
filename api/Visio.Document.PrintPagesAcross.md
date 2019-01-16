@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.PrintPagesAcross
 ms.assetid: 43c09ce5-fcc9-d91c-3108-5e2dcb658f74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

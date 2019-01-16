@@ -8,6 +8,7 @@ api_name:
 - Word.CanvasShapes.AddCallout
 ms.assetid: 87affac3-523e-165f-690a-75bd9e0b9961
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

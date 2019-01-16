@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.Drop
 ms.assetid: bce5f9d1-8684-0ff5-a4a3-3c2adb972310
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

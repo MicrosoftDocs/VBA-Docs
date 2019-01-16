@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.MasterChanged
 ms.assetid: bb64bee2-9562-8083-d993-d42c00ed889f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

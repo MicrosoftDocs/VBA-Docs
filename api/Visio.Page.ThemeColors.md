@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.ThemeColors
 ms.assetid: a3f4bc4e-3dbb-9d50-9d71-f77b39ec0ac3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

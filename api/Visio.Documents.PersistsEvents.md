@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.PersistsEvents
 ms.assetid: 0c5a4727-680a-7912-4e65-f61f2d1343ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

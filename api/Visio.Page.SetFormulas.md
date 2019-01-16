@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.SetFormulas
 ms.assetid: 141de5db-67dc-11c9-69a1-29601bf71cb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

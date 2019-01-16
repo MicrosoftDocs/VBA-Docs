@@ -8,6 +8,7 @@ api_name:
 - Visio.VisEdition
 ms.assetid: 10df2518-d629-68df-3698-a2a1595e3309
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

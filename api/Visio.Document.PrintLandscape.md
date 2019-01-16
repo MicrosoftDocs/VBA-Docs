@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.PrintLandscape
 ms.assetid: 4279a23b-2de8-3fbe-77b1-4b7bdd8db374
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

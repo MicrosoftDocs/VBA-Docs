@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.Copy
 ms.assetid: 2579682b-1dd3-7579-271d-a9994b91a933
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

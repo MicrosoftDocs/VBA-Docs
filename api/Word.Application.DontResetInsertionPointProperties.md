@@ -8,6 +8,7 @@ api_name:
 - Word.Application.DontResetInsertionPointProperties
 ms.assetid: 3e6dfd03-9ab9-43c2-378c-0d97c69e14b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

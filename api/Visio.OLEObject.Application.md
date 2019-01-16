@@ -8,6 +8,7 @@ api_name:
 - Visio.OLEObject.Application
 ms.assetid: 402c270d-445d-a067-00cf-5f809eb23e01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

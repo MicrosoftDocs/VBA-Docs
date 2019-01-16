@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.GetIDs
 ms.assetid: 79b1fb3f-eb53-2640-a988-6e79b067f228
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

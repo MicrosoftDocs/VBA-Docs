@@ -8,6 +8,7 @@ api_name:
 - Visio.MasterShortcut.Icon
 ms.assetid: c0dafec6-ca3b-f791-c5b1-3da19f0d98ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.SetViewRect
 ms.assetid: ab2da074-6e55-3aa7-9c4a-ae299b65a9c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

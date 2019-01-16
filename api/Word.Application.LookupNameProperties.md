@@ -8,6 +8,7 @@ api_name:
 - Word.Application.LookupNameProperties
 ms.assetid: e876b098-29c5-6302-97bb-c5f25ca4e101
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

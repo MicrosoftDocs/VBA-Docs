@@ -8,6 +8,7 @@ api_name:
 - Visio.Menu.IsHierarchical
 ms.assetid: 3acb94bc-16f2-2292-fe86-f63c880f2398
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

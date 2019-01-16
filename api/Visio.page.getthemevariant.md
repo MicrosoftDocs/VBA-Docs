@@ -3,6 +3,7 @@ title: Page.GetThemeVariant Method (Visio)
 ms.prod: visio
 ms.assetid: 40c2be31-fdb0-68ee-a129-2788b1b17c82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

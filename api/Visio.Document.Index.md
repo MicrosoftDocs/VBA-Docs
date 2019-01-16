@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.Index
 ms.assetid: f72e68b9-c249-b4df-14ae-669509100546
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

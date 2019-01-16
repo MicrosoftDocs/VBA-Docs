@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.MoveToSubprocess
 ms.assetid: a61f1e93-06a3-6ddc-8cae-f92212078c96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

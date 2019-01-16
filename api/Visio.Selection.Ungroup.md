@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Ungroup
 ms.assetid: b9f14342-e885-1399-83ed-59189f5cbec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

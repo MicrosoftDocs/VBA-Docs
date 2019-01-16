@@ -8,6 +8,7 @@ api_name:
 - Visio.ServerPublishOptions.ExcludePage
 ms.assetid: 3916ded4-daed-d6c7-9d75-c35273fed54a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

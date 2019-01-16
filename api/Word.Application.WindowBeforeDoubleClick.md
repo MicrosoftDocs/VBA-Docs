@@ -8,6 +8,7 @@ api_name:
 - Word.Application.WindowBeforeDoubleClick
 ms.assetid: ece03591-0410-9dac-dedf-72c736dd477a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

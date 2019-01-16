@@ -8,6 +8,7 @@ api_name:
 - Visio.ServerPublishOptions.ObjectType
 ms.assetid: f129c679-9d68-b041-561f-d199ca9c50a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

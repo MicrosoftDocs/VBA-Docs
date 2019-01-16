@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCaptions.Item
 ms.assetid: 5eba6d18-6e31-23e1-0a25-85f368654641
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

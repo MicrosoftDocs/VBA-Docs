@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.Close
 ms.assetid: 69607a2c-dc59-d170-733a-3557a996a67e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

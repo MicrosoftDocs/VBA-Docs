@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.Addons
 ms.assetid: a0f1039c-595a-18cf-1484-842069db677f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

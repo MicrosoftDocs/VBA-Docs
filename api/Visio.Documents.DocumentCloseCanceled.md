@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.DocumentCloseCanceled
 ms.assetid: 03bc417c-2a80-551e-d307-1035dd6088d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

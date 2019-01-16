@@ -8,6 +8,7 @@ api_name:
 - Visio.EventList.Item
 ms.assetid: 190cadcb-d985-30e9-eb9e-fdaa6a29aef4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

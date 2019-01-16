@@ -8,6 +8,7 @@ api_name:
 - Word.Application.AddAddress
 ms.assetid: 9114f213-9e43-a65c-7513-631820481967
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

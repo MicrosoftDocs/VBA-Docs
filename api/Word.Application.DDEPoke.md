@@ -8,6 +8,7 @@ api_name:
 - Word.Application.DDEPoke
 ms.assetid: b782fc34-551f-288f-e087-5429f7ee7814
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

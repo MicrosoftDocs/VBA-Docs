@@ -5,6 +5,7 @@ api_name:
 - Word.Adjustments
 ms.assetid: ed65525d-2c55-ae2a-ef42-1663b17e5c97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.QueryCancelStyleDelete
 ms.assetid: 701a658a-4184-3c2e-6f8b-9d4a13b359a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

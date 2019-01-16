@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.DrawNURBS
 ms.assetid: 7dcfef4a-5b69-9a8b-3966-9b3089bdaac3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

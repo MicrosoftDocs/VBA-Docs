@@ -8,6 +8,7 @@ api_name:
 - Word.Application.MailMergeWizardSendToCustom
 ms.assetid: b5dcd912-f1b5-96d6-3221-d294211b6611
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.MasterShortcut.AlignName
 ms.assetid: 022fdf3a-17f4-740f-191e-a06684ee3112
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

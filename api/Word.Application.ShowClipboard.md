@@ -8,6 +8,7 @@ api_name:
 - Word.Application.ShowClipboard
 ms.assetid: 93696be3-3fd5-eb31-391c-d94e83d39d2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

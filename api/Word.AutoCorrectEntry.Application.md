@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrectEntry.Application
 ms.assetid: b500b7b6-39a6-ba24-339f-0761c6e9a5a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

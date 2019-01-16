@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.DrawArcByThreePoints
 ms.assetid: d2df1c41-8164-d941-21a8-2e1b00de6199
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

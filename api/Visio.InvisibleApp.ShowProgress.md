@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.ShowProgress
 ms.assetid: ab756913-7ecc-5565-98dd-c52b5edbee7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

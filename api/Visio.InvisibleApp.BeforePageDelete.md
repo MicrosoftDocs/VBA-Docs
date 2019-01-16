@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforePageDelete
 ms.assetid: dc7a6fde-1794-b91f-0990-391a78c6039c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

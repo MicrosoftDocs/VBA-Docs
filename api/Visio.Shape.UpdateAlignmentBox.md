@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.UpdateAlignmentBox
 ms.assetid: 7076ee5f-f536-77ec-a1f7-518195e3e897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

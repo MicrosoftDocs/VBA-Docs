@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.BeforeSelectionDelete
 ms.assetid: a2176282-87a2-c747-939a-bc51bdea1100
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.OLEObjects
 ms.assetid: b51fbdc2-a236-4733-5a2e-b8e75d457d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.Shape
 ms.assetid: ee30f9e5-dd79-83c3-5445-eca53b32822f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

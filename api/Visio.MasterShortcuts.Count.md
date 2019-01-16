@@ -8,6 +8,7 @@ api_name:
 - Visio.MasterShortcuts.Count
 ms.assetid: 962a3f2b-9626-faef-ac4f-6ded68cfaaf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

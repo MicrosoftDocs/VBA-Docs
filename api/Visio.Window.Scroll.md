@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.Scroll
 ms.assetid: 7d30ce8f-03b1-26ff-1495-efb9213083fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

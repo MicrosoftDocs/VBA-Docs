@@ -8,6 +8,7 @@ api_name:
 - Visio.Validation.ShowIgnoredIssues
 ms.assetid: 7ab7afa5-9cba-05ae-b4b7-0c9a1ba50aa0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

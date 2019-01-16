@@ -8,6 +8,7 @@ api_name:
 - Word.Borders.OutsideColor
 ms.assetid: 896fbfd8-d6fa-c89b-591d-3ee4a8a4b0b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

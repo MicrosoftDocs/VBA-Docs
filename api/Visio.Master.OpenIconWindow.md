@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.OpenIconWindow
 ms.assetid: 5e2b2437-05cc-4855-e0bb-96b097c98d3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

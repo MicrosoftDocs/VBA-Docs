@@ -8,6 +8,7 @@ api_name:
 - Visio.VisListDirection
 ms.assetid: 7075aa16-8ad9-b9cb-4008-4179473aaa9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

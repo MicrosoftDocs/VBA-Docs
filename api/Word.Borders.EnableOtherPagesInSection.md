@@ -8,6 +8,7 @@ api_name:
 - Word.Borders.EnableOtherPagesInSection
 ms.assetid: 288caacd-e8c8-fa27-fda0-0d02932b90aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

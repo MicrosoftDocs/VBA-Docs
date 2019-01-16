@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.CellsSRCExists
 ms.assetid: be3673f0-1867-139a-12c7-e0cc6b24b38f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

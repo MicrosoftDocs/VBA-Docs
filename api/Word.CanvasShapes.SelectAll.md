@@ -8,6 +8,7 @@ api_name:
 - Word.CanvasShapes.SelectAll
 ms.assetid: c11c375a-8fb3-535d-b49a-2262560021dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

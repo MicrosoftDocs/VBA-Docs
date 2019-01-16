@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforeWindowPageTurn
 ms.assetid: 7bcdf0f3-2825-9205-06fb-252170018073
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

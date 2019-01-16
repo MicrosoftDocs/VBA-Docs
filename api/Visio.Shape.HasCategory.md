@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.HasCategory
 ms.assetid: 91115794-31ab-73b1-d1ec-ca249a57a61f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

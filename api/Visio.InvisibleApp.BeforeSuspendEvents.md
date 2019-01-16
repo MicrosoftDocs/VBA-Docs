@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforeSuspendEvents
 ms.assetid: 6194a96a-d549-025b-fc97-7d79989447f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

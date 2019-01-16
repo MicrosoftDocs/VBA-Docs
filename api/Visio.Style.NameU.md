@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.NameU
 ms.assetid: 263de6e3-2868-77d9-7948-46bea3661335
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

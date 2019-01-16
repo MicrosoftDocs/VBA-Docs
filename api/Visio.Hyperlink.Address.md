@@ -8,6 +8,7 @@ api_name:
 - Visio.Hyperlink.Address
 ms.assetid: 289cc2d6-d147-0ef9-e09e-12127c74072a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.KeyboardEvent.KeyAscii
 ms.assetid: 0e4e1b3b-a93a-20f3-982f-88879e2a6393
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

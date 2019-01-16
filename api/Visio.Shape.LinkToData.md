@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.LinkToData
 ms.assetid: 75dd1543-e643-0c7d-a89a-f0dd09d6d323
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

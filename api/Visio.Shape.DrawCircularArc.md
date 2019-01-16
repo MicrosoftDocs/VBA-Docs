@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.DrawCircularArc
 ms.assetid: 538ee927-c34a-c697-8bf1-f134355e6060
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

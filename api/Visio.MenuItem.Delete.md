@@ -8,6 +8,7 @@ api_name:
 - Visio.MenuItem.Delete
 ms.assetid: f8585bf5-17ab-2510-b5ed-610e2abf993f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

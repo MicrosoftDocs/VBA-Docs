@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.MasterShape
 ms.assetid: bf710d8b-11f6-145d-a306-658dc23dedbf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Masters.GroupCanceled
 ms.assetid: dbdecd35-1996-465d-afd3-a82e6bb14f7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

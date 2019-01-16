@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.AddGuide
 ms.assetid: 7beba614-244b-f559-50c7-5156ca4510b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

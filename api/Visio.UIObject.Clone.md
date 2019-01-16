@@ -8,6 +8,7 @@ api_name:
 - Visio.UIObject.Clone
 ms.assetid: 9fd3eb9b-8b01-9397-8f9f-58e3ce4a980e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
