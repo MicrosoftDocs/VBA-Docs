@@ -8,6 +8,7 @@ api_name:
 - Publisher.Printer.PaperWidth
 ms.assetid: e2f0392f-56b2-0ccb-c96c-0bccf2bfe0a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

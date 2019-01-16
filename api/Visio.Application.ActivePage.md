@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.ActivePage
 ms.assetid: 1d0496aa-a6f5-0886-fb8f-8071f95fa333
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

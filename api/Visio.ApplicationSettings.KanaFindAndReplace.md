@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.KanaFindAndReplace
 ms.assetid: 09616d8b-1a81-2c45-c8e5-7b8fa961a4e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

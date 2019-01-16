@@ -8,6 +8,7 @@ api_name:
 - Publisher.ColorFormat.RGB
 ms.assetid: aeff1962-b855-7c3f-1f4d-a336e0739ade
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

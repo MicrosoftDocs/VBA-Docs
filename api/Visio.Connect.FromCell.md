@@ -8,6 +8,7 @@ api_name:
 - Visio.Connect.FromCell
 ms.assetid: d605d25a-40c2-7e7c-c8c2-bbc31c00f47b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

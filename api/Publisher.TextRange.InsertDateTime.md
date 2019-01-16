@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.InsertDateTime
 ms.assetid: 1d02471a-f22b-7dad-bcbb-40af3a04d198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

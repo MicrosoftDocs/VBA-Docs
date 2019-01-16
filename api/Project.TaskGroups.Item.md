@@ -5,6 +5,7 @@ api_name:
 - Project.TaskGroups.Item
 ms.assetid: 979a5434-551b-8cb1-7da0-bdac4c1a9942
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

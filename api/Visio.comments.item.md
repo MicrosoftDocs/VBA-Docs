@@ -3,6 +3,7 @@ title: Comments.Item Property (Visio)
 ms.prod: visio
 ms.assetid: fed2a079-de87-d5ce-1d74-0bfa5a328441
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.PageBackground.Delete
 ms.assetid: 3b8be6c0-302a-21ae-1f22-02cb83eee34a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

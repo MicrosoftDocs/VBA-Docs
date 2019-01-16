@@ -8,6 +8,7 @@ api_name:
 - Publisher.PbPageType
 ms.assetid: 65a7defe-2249-f600-fd2c-a998bed76c46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

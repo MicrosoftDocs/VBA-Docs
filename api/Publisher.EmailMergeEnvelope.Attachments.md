@@ -8,6 +8,7 @@ api_name:
 - Publisher.EmailMergeEnvelope.Attachments
 ms.assetid: 53948bf7-2727-7b9c-a645-c9b954d5e023
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

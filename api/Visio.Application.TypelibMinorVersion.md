@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.TypelibMinorVersion
 ms.assetid: ee3a31db-ddfe-a036-a570-43e6f27ad024
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

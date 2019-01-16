@@ -8,6 +8,7 @@ api_name:
 - Publisher.View.ActivePage
 ms.assetid: 29289fb2-6692-4cb5-a9e2-b2edb9e9cd7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

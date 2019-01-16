@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.TextEffect
 ms.assetid: 7bc822f2-4754-685d-fdd3-7479b5a3ac52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.ShowSelected
 ms.assetid: c8229f03-a043-a280-84f9-f75a430c3903
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

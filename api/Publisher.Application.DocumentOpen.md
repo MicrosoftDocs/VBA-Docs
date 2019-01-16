@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.DocumentOpen
 ms.assetid: 3bdd4b38-ec40-a08f-3742-f81a6ed333b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

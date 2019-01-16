@@ -5,6 +5,7 @@ api_name:
 - Project.TimeScaleValues.Add
 ms.assetid: 083ef154-31ce-55ec-793a-0627c1eff211
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

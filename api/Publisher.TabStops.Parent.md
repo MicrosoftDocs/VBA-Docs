@@ -8,6 +8,7 @@ api_name:
 - Publisher.TabStops.Parent
 ms.assetid: 229e5cc5-9bc2-beaf-56d3-b615c157b0a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

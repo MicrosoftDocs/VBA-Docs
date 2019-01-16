@@ -8,6 +8,7 @@ api_name:
 - Publisher.FillFormat.PresetTexture
 ms.assetid: c03a9bf3-7378-e82a-9a40-650c5c96fd2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

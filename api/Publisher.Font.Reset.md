@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.Reset
 ms.assetid: 7a81d7f9-4db9-3ce1-188d-2b4719b57fff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

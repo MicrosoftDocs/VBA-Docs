@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.EverValidated
 ms.assetid: f87980c8-d327-9313-fa6d-efdfaecb0e35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

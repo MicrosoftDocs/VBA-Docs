@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.BeginUndoScope
 ms.assetid: 4e0c99a3-3ac6-54f8-3e43-1c79224e09e1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

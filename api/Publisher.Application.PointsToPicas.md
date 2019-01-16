@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.PointsToPicas
 ms.assetid: ff566bef-7032-70f7-7880-ff66cfeca88f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

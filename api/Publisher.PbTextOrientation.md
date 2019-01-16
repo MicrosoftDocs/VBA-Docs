@@ -8,6 +8,7 @@ api_name:
 - Publisher.PbTextOrientation
 ms.assetid: aafe3dbf-0f22-5f18-8943-19a1ff878790
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

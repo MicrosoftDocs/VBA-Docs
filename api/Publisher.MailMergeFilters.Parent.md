@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeFilters.Parent
 ms.assetid: f15092f5-bc9f-c179-d1d4-73739a642bda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

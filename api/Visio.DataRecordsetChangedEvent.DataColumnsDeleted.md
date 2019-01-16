@@ -8,6 +8,7 @@ api_name:
 - Visio.DataRecordsetChangedEvent.DataColumnsDeleted
 ms.assetid: 6fae59a1-cacc-076f-fd9d-1efbf5f1972e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

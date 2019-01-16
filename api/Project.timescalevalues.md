@@ -3,6 +3,7 @@ title: TimeScaleValues Object (Project)
 ms.prod: project-server
 ms.assetid: d94a0346-7cf5-b734-b32d-430fba980824
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

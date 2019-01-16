@@ -8,6 +8,7 @@ api_name:
 - Publisher.ReaderSpread.Application
 ms.assetid: 84bff0f2-db25-debd-25fb-bfb115600571
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

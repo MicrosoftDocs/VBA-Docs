@@ -8,6 +8,7 @@ api_name:
 - Visio.Cell.Error
 ms.assetid: 8c2966b7-f734-cb3a-7bc0-24c2d9575125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.TrackingPreset
 ms.assetid: 818e6efd-a1b3-1ccd-1dc1-29c0a8ded7f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

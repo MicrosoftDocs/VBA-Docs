@@ -8,6 +8,7 @@ api_name:
 - Publisher.GroupShapes.Parent
 ms.assetid: 94325930-eb70-f10e-8875-067d26963bcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

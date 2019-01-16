@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.InsertBefore
 ms.assetid: b0e4355b-b1bc-ae78-08ad-000d577fd7db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

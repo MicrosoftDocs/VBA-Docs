@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.SetCustomMenus
 ms.assetid: 90aa627c-ba51-87a7-4347-6a806998e1a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.MasterPages.Parent
 ms.assetid: 55a82ec9-7a1c-efd7-a316-85f103018b2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

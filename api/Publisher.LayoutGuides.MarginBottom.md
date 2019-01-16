@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides.MarginBottom
 ms.assetid: 9d11c4d9-8f53-7882-be40-200833a29fb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

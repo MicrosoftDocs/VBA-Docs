@@ -5,6 +5,7 @@ api_name:
 - Project.Task.BaselineStartText
 ms.assetid: cb50f6cd-eb28-24e2-862b-0963977bf815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

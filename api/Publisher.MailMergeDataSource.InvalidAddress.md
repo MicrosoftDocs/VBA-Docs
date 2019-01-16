@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.InvalidAddress
 ms.assetid: c1857edc-260b-c9c2-8624-d6628e0733c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

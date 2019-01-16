@@ -5,6 +5,7 @@ api_name:
 - Project.Windows2.Parent
 ms.assetid: 621fc860-22c8-2c79-ba85-6372f16c7ddb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

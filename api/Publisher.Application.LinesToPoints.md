@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.LinesToPoints
 ms.assetid: 55c531aa-5619-6f7f-54e7-7721cb70640e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

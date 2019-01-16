@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.Stat
 ms.assetid: dd322ca5-6f48-94ab-8632-f60896dd3228
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

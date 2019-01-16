@@ -8,6 +8,7 @@ api_name:
 - Publisher.Section.PageNumberFormat
 ms.assetid: 5b64a352-2fd8-9e19-3425-a7984dd67edd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

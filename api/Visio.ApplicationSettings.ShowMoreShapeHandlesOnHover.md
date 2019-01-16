@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ShowMoreShapeHandlesOnHover
 ms.assetid: 159a3c68-b882-4352-b14d-0a0be2bcdf29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

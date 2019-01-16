@@ -8,6 +8,7 @@ api_name:
 - Visio.Connects.FromSheet
 ms.assetid: c9fa472c-9f5f-ea4f-adbc-e8741dda1482
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

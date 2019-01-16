@@ -5,6 +5,7 @@ api_name:
 - Project.Task.DurationText
 ms.assetid: 4b0bbf0c-13fa-fcab-9940-b3471eb3509b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

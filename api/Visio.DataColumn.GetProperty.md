@@ -8,6 +8,7 @@ api_name:
 - Visio.DataColumn.GetProperty
 ms.assetid: 8fa134e8-320d-546b-1de1-e19607a60c49
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

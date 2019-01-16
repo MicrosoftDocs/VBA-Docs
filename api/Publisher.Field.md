@@ -8,6 +8,7 @@ api_name:
 - Publisher.Field
 ms.assetid: 93da311a-b834-f990-60e9-786d4f6a16f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

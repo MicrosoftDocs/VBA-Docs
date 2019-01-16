@@ -8,6 +8,7 @@ api_name:
 - Publisher.Plates.Add
 ms.assetid: 7fb7b602-8797-e275-4ff7-2e87cf1db11f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

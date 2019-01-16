@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.GetWidth
 ms.assetid: a15d1b50-289a-8b02-e090-0f0a9637980a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.ScreenUpdating
 ms.assetid: 934e697f-da6c-5793-433b-dddb5d806920
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

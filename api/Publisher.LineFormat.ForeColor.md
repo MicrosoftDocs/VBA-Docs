@@ -8,6 +8,7 @@ api_name:
 - Publisher.LineFormat.ForeColor
 ms.assetid: 192314ba-dbca-cce0-25c4-6e276a4f268b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

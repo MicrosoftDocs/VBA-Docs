@@ -3,6 +3,7 @@ title: PbNumberStylesType Enumeration (Publisher)
 ms.prod: publisher
 ms.assetid: e56daa0b-12a2-409c-8cbe-664755280b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

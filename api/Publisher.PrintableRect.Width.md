@@ -8,6 +8,7 @@ api_name:
 - Publisher.PrintableRect.Width
 ms.assetid: db719d69-7e66-3d61-6277-b3013f098025
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

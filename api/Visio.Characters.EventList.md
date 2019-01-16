@@ -8,6 +8,7 @@ api_name:
 - Visio.Characters.EventList
 ms.assetid: 620a254a-9a8d-da0a-1274-305064afdb1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

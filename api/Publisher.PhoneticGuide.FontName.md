@@ -8,6 +8,7 @@ api_name:
 - Publisher.PhoneticGuide.FontName
 ms.assetid: d343ebdc-419d-2256-7e07-4e697e8df34b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

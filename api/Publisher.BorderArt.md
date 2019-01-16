@@ -8,6 +8,7 @@ api_name:
 - Publisher.BorderArt
 ms.assetid: 464bec0f-7912-ab27-9593-7f1cb53da342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

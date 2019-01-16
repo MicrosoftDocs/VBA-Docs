@@ -8,6 +8,7 @@ api_name:
 - Publisher.Tag.Delete
 ms.assetid: 9b881e23-3c40-3dc8-a0db-0963a51f6e02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
