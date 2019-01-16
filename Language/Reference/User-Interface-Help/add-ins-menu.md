@@ -3,6 +3,7 @@ title: Add-Ins menu
 ms.prod: office
 ms.assetid: 650e3964-8789-aa51-cd0b-7a820f6dbc8d
 ms.date: 11/24/2018
+localization_priority: Normal
 ---
 
 

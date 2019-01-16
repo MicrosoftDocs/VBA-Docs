@@ -3,6 +3,7 @@ title: Specifying Form Behavior
 ms.prod: outlook
 ms.assetid: 067f0759-9645-4953-a31c-7edd87a27af3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

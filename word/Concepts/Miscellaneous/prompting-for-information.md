@@ -3,6 +3,7 @@ title: Prompting for Information
 ms.prod: word
 ms.assetid: 71705429-c672-95b6-e552-4af471f33580
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

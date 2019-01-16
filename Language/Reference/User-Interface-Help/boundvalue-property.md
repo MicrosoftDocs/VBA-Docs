@@ -8,6 +8,7 @@ api_name:
 - Office.BoundValue
 ms.assetid: a064f85f-981c-f710-393c-05f14c00249d
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

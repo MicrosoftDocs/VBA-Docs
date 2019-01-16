@@ -3,6 +3,7 @@ title: Use the Table Object to Performantly Enumerate Filtered Items in a Folder
 ms.prod: outlook
 ms.assetid: df82b04e-dffd-d621-10dd-34ee03df2051
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

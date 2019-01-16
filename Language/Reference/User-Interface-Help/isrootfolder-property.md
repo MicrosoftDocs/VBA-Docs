@@ -8,6 +8,7 @@ api_name:
 - Office.IsRootFolder
 ms.assetid: 4d47b8c1-9ca0-a6d4-996d-584d55033cc1
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Visual Basic user interface help
 ms.prod: office
 ms.assetid: ceb37836-24b1-4903-bfac-e3e2ad553867
 ms.date: 11/26/2018
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CopyFolder
 ms.assetid: d94788b4-9a92-77ea-6591-5ea2b4603233
 ms.date: 12/14/2018
+localization_priority: Priority
 ---
 
 

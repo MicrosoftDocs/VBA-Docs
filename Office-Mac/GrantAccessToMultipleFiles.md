@@ -2,6 +2,7 @@
 title: Request access to multiple files
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 # Request access to multiple files

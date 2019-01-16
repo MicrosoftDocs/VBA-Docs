@@ -3,6 +3,7 @@ title: Set Properties for Controls
 ms.prod: outlook
 ms.assetid: e7f3c8a5-c446-d1f3-339d-1a15df9c06c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.QueryClose
 ms.assetid: 8a12c265-bbb8-ed72-8bde-7b9c3bdf86bd
 ms.date: 12/11/2018
+localization_priority: Priority
 ---
 
 

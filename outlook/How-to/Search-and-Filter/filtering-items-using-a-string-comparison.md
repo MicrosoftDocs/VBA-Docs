@@ -3,6 +3,7 @@ title: Filtering Items Using a String Comparison
 ms.prod: outlook
 ms.assetid: 90606142-04a9-8591-ecef-61e2a8c5851c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

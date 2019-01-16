@@ -3,6 +3,7 @@ title: Navigation
 ms.prod: outlook
 ms.assetid: 62b69124-db41-4af7-8fb2-1fb90cc37402
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

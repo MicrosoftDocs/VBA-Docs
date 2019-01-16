@@ -3,6 +3,7 @@ title: PtrSafe keyword (VBA)
 ms.prod: office
 ms.assetid: f413edb2-2839-efec-534a-eceb8d3da787
 ms.date: 12/03/2018
+localization_priority: Priority
 ---
 
 

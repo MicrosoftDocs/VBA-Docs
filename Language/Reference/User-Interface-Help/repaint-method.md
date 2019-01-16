@@ -8,6 +8,7 @@ api_name:
 - Office.Repaint
 ms.assetid: 987f895f-7054-3568-269b-d6378c1233b5
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

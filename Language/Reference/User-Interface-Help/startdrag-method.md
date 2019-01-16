@@ -8,6 +8,7 @@ api_name:
 - Office.StartDrag
 ms.assetid: 9713f582-759f-2cb2-825f-a79469041dc8
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

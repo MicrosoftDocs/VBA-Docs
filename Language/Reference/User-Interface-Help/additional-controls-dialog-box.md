@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 45a40d3e-3b8e-f597-3c92-611c7ffe25f2
 ms.date: 11/26/2018
+localization_priority: Normal
 ---
 
 # Additional Controls dialog box

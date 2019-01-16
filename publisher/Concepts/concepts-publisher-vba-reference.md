@@ -3,6 +3,7 @@ title: Concepts (Publisher VBA reference)
 ms.prod: publisher
 ms.assetid: 5622538f-b656-9014-3fbd-0afc751250b4
 ms.date: 10/10/2018
+localization_priority: Normal
 ---
 
 

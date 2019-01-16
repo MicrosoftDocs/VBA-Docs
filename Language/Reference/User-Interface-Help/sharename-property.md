@@ -8,6 +8,7 @@ api_name:
 - Office.ShareName
 ms.assetid: 913ae336-102c-9c1c-4995-9b37aae79b3e
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

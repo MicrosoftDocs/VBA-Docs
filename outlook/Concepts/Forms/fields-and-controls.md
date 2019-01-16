@@ -3,6 +3,7 @@ title: Fields and Controls
 ms.prod: outlook
 ms.assetid: cdf91fa2-8968-4b4f-b715-2a2d257df464
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

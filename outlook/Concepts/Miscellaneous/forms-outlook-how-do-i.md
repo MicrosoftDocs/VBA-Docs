@@ -3,6 +3,7 @@ title: Forms (Outlook How Do I)
 ms.prod: outlook
 ms.assetid: 75335f71-2142-1384-4f39-aef650e85f9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

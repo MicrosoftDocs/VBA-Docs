@@ -8,6 +8,7 @@ api_name:
 - Office.PrintForm
 ms.assetid: d4481074-6ecf-b845-2a51-ef34dcdc82ab
 ms.date: 12/14/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.Move
 ms.assetid: b4138364-0f1a-b774-a82b-3417cb9a6599
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

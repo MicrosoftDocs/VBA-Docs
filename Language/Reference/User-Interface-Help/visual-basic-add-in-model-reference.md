@@ -3,6 +3,7 @@ title: Visual Basic Add-in Model reference
 ms.prod: office
 ms.assetid: 4cb81d38-3a23-4dd2-9541-3d623b1cd1a2
 ms.date: 12/06/2018
+localization_priority: Priority
 ---
 
 

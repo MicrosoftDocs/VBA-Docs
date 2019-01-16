@@ -8,6 +8,7 @@ api_name:
 - Office.DateLastAccessed
 ms.assetid: 33ab9638-8c76-98ca-4d48-b9f39ad71025
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 715595a7-4286-a0cb-dec9-2d2e79bda102
 ms.date: 12/13/2018
+localization_priority: Priority
 ---
 
 # MsgBox function

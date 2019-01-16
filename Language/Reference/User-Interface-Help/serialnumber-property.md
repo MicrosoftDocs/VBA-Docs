@@ -8,6 +8,7 @@ api_name:
 - Office.SerialNumber
 ms.assetid: fdeb1410-3772-7f41-9a48-3bb7d2bd107a
 ms.date: 12/19/2018
+localization_priority: Normal
 ---
 
 

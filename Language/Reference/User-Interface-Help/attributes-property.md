@@ -8,6 +8,7 @@ api_name:
 - Office.Attributes
 ms.assetid: 965b8844-33b8-2358-5bdd-cc814987132f
 ms.date: 12/19/2018
+localization_priority: Priority
 ---
 
 

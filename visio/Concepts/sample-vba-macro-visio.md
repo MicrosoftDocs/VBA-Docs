@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: visio
 ms.assetid: 70ffb571-5794-875c-869a-a68a5e1b8ac8
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 
