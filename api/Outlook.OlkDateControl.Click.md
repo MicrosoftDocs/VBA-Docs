@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkDateControl.Click
 ms.assetid: ec2483b8-0fe1-de86-dc01-9cafbde31e44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

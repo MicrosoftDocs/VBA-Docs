@@ -8,6 +8,7 @@ api_name:
 - Publisher.RulerGuide.Delete
 ms.assetid: 810f443c-30b9-7ac9-f4d5-349dda8a945c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

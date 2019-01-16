@@ -8,6 +8,7 @@ api_name:
 - Visio.Event.GetFilterActions
 ms.assetid: c74be758-280a-13a8-5462-b508bd3f50e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

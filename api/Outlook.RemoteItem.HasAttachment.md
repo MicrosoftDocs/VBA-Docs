@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.HasAttachment
 ms.assetid: a9c8835b-80b9-8336-11f8-5b0208e9ca97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

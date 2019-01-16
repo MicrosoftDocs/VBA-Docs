@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Text1
 ms.assetid: 92d98fdb-64c2-902c-d832-930097c75196
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

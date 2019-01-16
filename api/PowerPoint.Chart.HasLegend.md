@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.HasLegend
 ms.assetid: 084f7de3-b0ed-d7b3-3b24-465e74afa167
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

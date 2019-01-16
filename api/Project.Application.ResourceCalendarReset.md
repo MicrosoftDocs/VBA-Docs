@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ResourceCalendarReset
 ms.assetid: 3dd5a235-c855-0d65-a664-655c9c1fa7b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

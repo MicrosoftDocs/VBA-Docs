@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkListBox.Exit
 ms.assetid: 729d454a-4f52-c0c2-4125-7cbf8ea2d660
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

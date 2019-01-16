@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides.MirrorGuides
 ms.assetid: 8e6ff709-21e0-2286-5d75-c7ebea05fd26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.OMath.Range
 ms.assetid: b33e4f92-c04e-5ee6-7dcd-5cd5c2ee6a92
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

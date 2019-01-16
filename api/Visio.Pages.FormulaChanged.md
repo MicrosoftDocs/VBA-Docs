@@ -8,6 +8,7 @@ api_name:
 - Visio.Pages.FormulaChanged
 ms.assetid: 97c8766e-b682-7df9-7e2c-9a558d5d09f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

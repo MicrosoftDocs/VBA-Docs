@@ -3,6 +3,7 @@ title: ReplaceShapesEvent.Application Property (Visio)
 ms.prod: visio
 ms.assetid: 0013ed13-7912-ecaf-7962-73c5145a3dd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

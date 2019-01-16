@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.OriginalHasAlphaChannel
 ms.assetid: e58a97d2-4ced-d3cf-56b2-6a89df02bcdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

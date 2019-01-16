@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.LargeScroll
 ms.assetid: 669093ef-105f-5dc2-19d6-5f8ab11f6d50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

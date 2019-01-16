@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkLabel.Accelerator
 ms.assetid: 7d461585-5aa1-81ab-8cec-5e25795e9bea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

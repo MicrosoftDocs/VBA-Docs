@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Point.SecondaryPlot
 ms.assetid: 37bba3d7-2bb7-fd46-eaf8-eb8b44aa071c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

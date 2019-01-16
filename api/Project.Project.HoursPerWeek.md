@@ -5,6 +5,7 @@ api_name:
 - Project.Project.HoursPerWeek
 ms.assetid: f7341297-1dae-cd6d-1e13-6bd273dc3d19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.CellRange.Merge
 ms.assetid: f097659c-d1b8-f2bb-c4fc-5efc2b7417dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Field.Parent
 ms.assetid: f15ec98c-af10-7def-6a45-6621294ee6c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

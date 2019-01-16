@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.UndoEnabled
 ms.assetid: c3dc1bf4-c3bd-53dd-62e6-f2b6e3f07cb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.INSKeyForOvertype
 ms.assetid: 418448c7-1453-846e-afc8-39bd7d31f77c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Comments.Creator
 ms.assetid: c6af394d-cdfc-440b-977f-4f972584f5e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

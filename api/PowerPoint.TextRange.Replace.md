@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.Replace
 ms.assetid: 046d1c3d-fd3e-7871-e31e-6529b77fcd60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

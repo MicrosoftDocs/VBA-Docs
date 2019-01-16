@@ -8,6 +8,7 @@ api_name:
 - Word.Options
 ms.assetid: 873b7b99-3fe1-fd89-9ece-a9355cb827dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

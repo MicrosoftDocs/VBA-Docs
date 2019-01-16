@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.Build
 ms.assetid: e485e2f1-835c-33aa-c585-32fbd3af4a88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

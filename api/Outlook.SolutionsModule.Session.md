@@ -8,6 +8,7 @@ api_name:
 - Outlook.SolutionsModule.Session
 ms.assetid: 28a67ff1-1427-2852-cf00-1aeb926ba8dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

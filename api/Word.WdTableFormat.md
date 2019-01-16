@@ -5,6 +5,7 @@ api_name:
 - Word.WdTableFormat
 ms.assetid: e61e81ce-e232-5117-68a5-6cd586f0b0b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Section.Stat
 ms.assetid: 17e66466-3ce7-02d4-f567-389cc7aaabdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

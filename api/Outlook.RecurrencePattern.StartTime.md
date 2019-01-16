@@ -8,6 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.StartTime
 ms.assetid: 557e0f8d-c95d-e1f9-91a2-0734248d8628
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

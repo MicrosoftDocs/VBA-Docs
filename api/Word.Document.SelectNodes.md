@@ -8,6 +8,7 @@ api_name:
 - Word.Document.SelectNodes
 ms.assetid: b913720e-0f22-c626-6003-61a8dfb87f00
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

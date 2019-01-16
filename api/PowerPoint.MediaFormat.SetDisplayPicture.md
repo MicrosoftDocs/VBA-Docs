@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.SetDisplayPicture
 ms.assetid: a524df79-2bc2-9f1a-45df-9db4804f8f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.TablesOfContents.MarkEntry
 ms.assetid: ef8e1d14-82b0-d1f8-8aaf-e2e1b4079c2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

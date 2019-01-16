@@ -5,6 +5,7 @@ api_name:
 - Word.WdMoveToTextMark
 ms.assetid: f4c302fd-5b83-d74c-b30d-89b13f6807d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

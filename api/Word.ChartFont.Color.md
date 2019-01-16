@@ -8,6 +8,7 @@ api_name:
 - Word.ChartFont.Color
 ms.assetid: 8d5aebd9-975a-63a6-1c2f-930f588b4004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

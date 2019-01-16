@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Point.Top
 ms.assetid: 7da804b0-ea52-70b5-439c-b27b3e29d414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.HyphenationZone
 ms.assetid: ed0e90de-4a2a-3c8a-27f1-e8c7c1f0e174
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

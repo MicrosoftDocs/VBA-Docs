@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shapes.PasteSpecial
 ms.assetid: 6a1e5b6d-da09-fae8-7165-0c9bf71d525c
 ms.date: 11/24/2017
+localization_priority: Priority
 ---
 
 

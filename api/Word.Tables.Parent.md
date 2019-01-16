@@ -8,6 +8,7 @@ api_name:
 - Word.Tables.Parent
 ms.assetid: 3f52608e-762b-a7d9-fc03-160638518c5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

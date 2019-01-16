@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.PointsToInches
 ms.assetid: 58bfd9ce-dee7-0a14-8ec1-7e16a5e967d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

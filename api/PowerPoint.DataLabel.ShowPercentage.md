@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.DataLabel.ShowPercentage
 ms.assetid: 00b28ebe-a674-93a1-2c6d-f8fb7d0539cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

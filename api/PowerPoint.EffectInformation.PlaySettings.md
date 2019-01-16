@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.EffectInformation.PlaySettings
 ms.assetid: 702cf5b9-8164-cd25-e441-566a9a94fc14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.StorageItem.Save
 ms.assetid: 9462a342-294a-175e-7e8f-d416f0959f69
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

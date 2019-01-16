@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DrawLine
 ms.assetid: a03308a6-7ad0-ecaa-d15d-a243402c8bd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

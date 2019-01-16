@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Table.VertBanding
 ms.assetid: dff08449-332d-34af-37e4-2e0a3edff069
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

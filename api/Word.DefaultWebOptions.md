@@ -5,6 +5,7 @@ api_name:
 - Word.DefaultWebOptions
 ms.assetid: 7459af1e-c495-f84f-929c-f7a611ec49b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

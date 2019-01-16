@@ -8,6 +8,7 @@ api_name:
 - Project.Project.ScheduleFromStart
 ms.assetid: e6f792cf-3b91-9bcd-92c0-e9b2418477d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

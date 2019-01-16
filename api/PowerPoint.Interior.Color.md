@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Interior.Color
 ms.assetid: 18018ef9-40a3-6e02-065e-4747d1506df1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Page.YOffsetWithinReaderSpread
 ms.assetid: 765adae3-af5d-ae37-5b1c-284cce8891ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

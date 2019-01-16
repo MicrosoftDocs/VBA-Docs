@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.RangeType
 ms.assetid: 63e266b6-4898-abb1-23fe-20039a6aea78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

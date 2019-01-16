@@ -8,6 +8,7 @@ api_name:
 - Word.UpBars.Parent
 ms.assetid: 5b8db034-b7ea-69ad-263a-5e04cb45fe15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

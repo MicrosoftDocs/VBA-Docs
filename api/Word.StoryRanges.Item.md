@@ -8,6 +8,7 @@ api_name:
 - Word.StoryRanges.Item
 ms.assetid: 6d6cbde9-8e40-9ae7-a807-dc0889303aec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

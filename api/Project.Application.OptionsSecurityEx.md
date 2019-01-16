@@ -8,6 +8,7 @@ api_name:
 - Project.Application.OptionsSecurityEx
 ms.assetid: 9c6e0c77-6873-1a90-fb85-ca33ca7c9ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

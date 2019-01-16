@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.ZOrderPosition
 ms.assetid: fc35f4dd-ef31-12e0-82a6-be2d0f765527
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

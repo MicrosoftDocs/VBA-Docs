@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.Flip
 ms.assetid: fad24b08-9ada-0d6f-f526-ceec9ef996c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

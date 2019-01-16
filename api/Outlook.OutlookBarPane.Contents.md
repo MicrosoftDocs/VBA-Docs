@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarPane.Contents
 ms.assetid: ec7b8c50-7bf5-50d5-6c0b-32091106350e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

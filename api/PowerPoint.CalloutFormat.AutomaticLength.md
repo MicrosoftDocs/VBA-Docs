@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CalloutFormat.AutomaticLength
 ms.assetid: f80fdbbe-2fb4-c7d8-5f26-4edf16d65f82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

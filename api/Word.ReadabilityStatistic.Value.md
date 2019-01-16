@@ -8,6 +8,7 @@ api_name:
 - Word.ReadabilityStatistic.Value
 ms.assetid: 58f31b9b-00d9-dd15-da7d-0266f0b6bdc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

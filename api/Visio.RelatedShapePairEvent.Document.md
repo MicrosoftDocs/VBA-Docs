@@ -8,6 +8,7 @@ api_name:
 - Visio.RelatedShapePairEvent.Document
 ms.assetid: 61aecea0-df7a-ecd2-226d-d6799bc161bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

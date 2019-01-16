@@ -8,6 +8,7 @@ api_name:
 - Visio.RasterExportDataFormat
 ms.assetid: e07c3f2e-469e-33bc-cd6d-0261cf7ec267
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

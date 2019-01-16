@@ -8,6 +8,7 @@ api_name:
 - Word.Dictionaries.Item
 ms.assetid: d2ec9bae-a06c-7d88-343f-e3fe904630c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

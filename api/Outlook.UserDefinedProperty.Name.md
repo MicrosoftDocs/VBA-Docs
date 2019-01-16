@@ -8,6 +8,7 @@ api_name:
 - Outlook.UserDefinedProperty.Name
 ms.assetid: 73e3e152-8920-e50d-5c28-a36cda66c9e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

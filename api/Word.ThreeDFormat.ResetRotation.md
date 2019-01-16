@@ -8,6 +8,7 @@ api_name:
 - Word.ThreeDFormat.ResetRotation
 ms.assetid: ab8b1bb6-2d39-2488-5db9-8405f8494014
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

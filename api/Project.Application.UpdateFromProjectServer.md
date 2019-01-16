@@ -8,6 +8,7 @@ api_name:
 - Project.Application.UpdateFromProjectServer
 ms.assetid: f37bb573-2d25-b4f9-21ba-109db75962f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

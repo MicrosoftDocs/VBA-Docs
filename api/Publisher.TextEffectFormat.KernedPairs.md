@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.KernedPairs
 ms.assetid: 1382ae7a-250f-ca08-a57f-f7132078e3f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

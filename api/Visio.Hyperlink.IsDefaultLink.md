@@ -8,6 +8,7 @@ api_name:
 - Visio.Hyperlink.IsDefaultLink
 ms.assetid: 5a958e11-cf88-c45d-829a-805af9fd9f3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

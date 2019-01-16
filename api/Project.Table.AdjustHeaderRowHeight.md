@@ -8,6 +8,7 @@ api_name:
 - Project.Table.AdjustHeaderRowHeight
 ms.assetid: b6acb45c-14c2-8075-7b56-4eacf7c5fdd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

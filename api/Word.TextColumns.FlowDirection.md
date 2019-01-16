@@ -8,6 +8,7 @@ api_name:
 - Word.TextColumns.FlowDirection
 ms.assetid: 65d2791e-f3ae-a3df-5d93-959750516b11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

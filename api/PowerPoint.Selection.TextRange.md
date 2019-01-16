@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Selection.TextRange
 ms.assetid: 532c0a35-c18d-8030-8e6a-3f1cdb47c244
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

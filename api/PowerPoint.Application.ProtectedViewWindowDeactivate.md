@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.ProtectedViewWindowDeactivate
 ms.assetid: c8d647f3-2f45-7811-9f99-d37c3c999c60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarShortcuts.Count
 ms.assetid: d8814799-2a77-27ea-7159-e3f5a425a3f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

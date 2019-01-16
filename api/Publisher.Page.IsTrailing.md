@@ -8,6 +8,7 @@ api_name:
 - Publisher.Page.IsTrailing
 ms.assetid: e0ed15dc-d2e8-d6b7-913d-4e72b2817e88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

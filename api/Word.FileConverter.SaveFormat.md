@@ -8,6 +8,7 @@ api_name:
 - Word.FileConverter.SaveFormat
 ms.assetid: d837cd22-38eb-5160-1f85-16001448213e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

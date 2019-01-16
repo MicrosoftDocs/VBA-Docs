@@ -3,6 +3,7 @@ title: WdContentControlLevel enumeration (Word)
 ms.prod: word
 ms.assetid: b4d96be5-e53f-2ed2-aa45-c1e783311e48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

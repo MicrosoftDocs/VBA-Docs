@@ -8,6 +8,7 @@ api_name:
 - Project.Application.LoadLastFile
 ms.assetid: 2e76f572-d9ad-179a-b32b-b2708898023c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

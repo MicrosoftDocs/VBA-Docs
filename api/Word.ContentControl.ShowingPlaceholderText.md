@@ -8,6 +8,7 @@ api_name:
 - Word.ContentControl.ShowingPlaceholderText
 ms.assetid: 1c502641-f969-10d9-ebe5-04c85f0bfe48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

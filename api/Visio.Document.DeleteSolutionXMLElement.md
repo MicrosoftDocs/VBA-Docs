@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.DeleteSolutionXMLElement
 ms.assetid: 2f00680e-56b1-c99b-2739-9d331965f802
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

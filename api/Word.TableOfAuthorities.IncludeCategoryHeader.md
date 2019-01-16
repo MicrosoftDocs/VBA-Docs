@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfAuthorities.IncludeCategoryHeader
 ms.assetid: 63118a82-28ac-f5c9-790d-0a8ea4926858
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

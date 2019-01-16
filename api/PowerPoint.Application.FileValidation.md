@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.FileValidation
 ms.assetid: 90cc8bff-df3b-7a57-adcc-bbfb9c677468
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

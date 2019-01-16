@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.GoTo
 ms.assetid: 7a69e581-4047-ae62-e112-97fe2c2633bb
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 # Selection.GoTo method (Word)

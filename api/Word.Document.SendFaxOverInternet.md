@@ -8,6 +8,7 @@ api_name:
 - Word.Document.SendFaxOverInternet
 ms.assetid: 1e1d061e-c33a-fdf1-ae63-b9a62babc1ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

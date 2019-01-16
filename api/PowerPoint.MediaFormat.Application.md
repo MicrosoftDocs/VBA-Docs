@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.MediaFormat.Application
 ms.assetid: 36293cf7-6584-a3d6-96a5-657e0a3df0d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

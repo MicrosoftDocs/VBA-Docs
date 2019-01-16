@@ -8,6 +8,7 @@ api_name:
 - Word.Find.Format
 ms.assetid: 999041b0-e1eb-8155-405b-62475cb57f9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

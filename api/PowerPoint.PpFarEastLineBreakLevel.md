@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpFarEastLineBreakLevel
 ms.assetid: 7bae5f72-5a6c-d6fb-c09e-b686cc79b578
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

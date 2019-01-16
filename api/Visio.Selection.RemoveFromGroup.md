@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.RemoveFromGroup
 ms.assetid: 4e593510-9970-c6fb-f598-e9f2e237bcb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

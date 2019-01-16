@@ -8,6 +8,7 @@ api_name:
 - Word.Window.UsableHeight
 ms.assetid: 7b6458ba-41fa-d742-74e7-a606eb862a70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

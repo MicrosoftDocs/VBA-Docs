@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataTable.Format
 ms.assetid: 87803c91-4f31-28dc-042a-920a6806d2c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

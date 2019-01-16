@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl
 ms.assetid: 2138c4fe-1677-f4f0-1a60-dfac20cc1778
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

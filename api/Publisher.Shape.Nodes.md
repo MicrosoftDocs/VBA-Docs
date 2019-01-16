@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.Nodes
 ms.assetid: a1463ff3-5b75-e4b9-df12-985538713c7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

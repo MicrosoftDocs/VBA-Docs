@@ -8,6 +8,7 @@ api_name:
 - Visio.ContainerProperties.AddMember
 ms.assetid: fcb97d9f-756e-95fb-8dab-d4aac67862c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

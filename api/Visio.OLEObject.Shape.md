@@ -8,6 +8,7 @@ api_name:
 - Visio.OLEObject.Shape
 ms.assetid: e86e5aa0-3cfb-140b-1584-1af7f91ec17c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

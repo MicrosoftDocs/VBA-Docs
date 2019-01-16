@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.PaperSize
 ms.assetid: a51b3d26-e79e-d572-055f-fc1c4a94096e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

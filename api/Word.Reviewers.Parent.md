@@ -8,6 +8,7 @@ api_name:
 - Word.Reviewers.Parent
 ms.assetid: b5b05dad-13e2-3235-9c80-c35e169da92d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

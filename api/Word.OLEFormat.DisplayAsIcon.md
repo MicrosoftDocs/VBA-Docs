@@ -8,6 +8,7 @@ api_name:
 - Word.OLEFormat.DisplayAsIcon
 ms.assetid: eb27a24c-69f0-a94d-b2cb-0fc0ccb54a1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

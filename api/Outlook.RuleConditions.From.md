@@ -8,6 +8,7 @@ api_name:
 - Outlook.RuleConditions.From
 ms.assetid: 3ebda0d0-ba44-95c6-ed02-a9c6acbf1f1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

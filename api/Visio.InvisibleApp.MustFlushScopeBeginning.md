@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.MustFlushScopeBeginning
 ms.assetid: cb176106-b67a-134f-e171-6c454a47d3b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

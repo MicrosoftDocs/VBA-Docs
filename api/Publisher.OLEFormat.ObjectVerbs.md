@@ -8,6 +8,7 @@ api_name:
 - Publisher.OLEFormat.ObjectVerbs
 ms.assetid: 887070e6-7f7d-4f65-290e-3d46bfd91d34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

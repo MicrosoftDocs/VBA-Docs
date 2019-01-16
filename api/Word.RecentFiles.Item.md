@@ -8,6 +8,7 @@ api_name:
 - Word.RecentFiles.Item
 ms.assetid: 8dc29b17-2a54-a8eb-2c24-07e16bac9de5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

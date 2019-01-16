@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimeZone.DaylightDesignation
 ms.assetid: 22453788-fd70-78ad-6fac-a924cec650a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Calendar.WeekDays
 ms.assetid: 4495a739-156b-8cda-d3d0-acbc56b767ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

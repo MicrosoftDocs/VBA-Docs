@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PortugalReform
 ms.assetid: 4dd323a9-226c-9475-1043-e61f335cd977
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

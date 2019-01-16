@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.ScaleWidth
 ms.assetid: 07dcc04e-cb84-9c69-c589-87c0ff0bb147
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

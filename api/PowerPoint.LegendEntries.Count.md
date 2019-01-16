@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendEntries.Count
 ms.assetid: bb210ac1-db8b-0b90-b580-f368daed7deb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

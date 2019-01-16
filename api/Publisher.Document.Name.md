@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.Name
 ms.assetid: fcf86fcc-a3aa-b4c6-1ecc-202972ac558b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

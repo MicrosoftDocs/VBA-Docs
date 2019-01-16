@@ -8,6 +8,7 @@ api_name:
 - Word.OMathScrPre.Sub
 ms.assetid: 1f565f63-1d82-abe3-59b5-6f3cd7745aec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

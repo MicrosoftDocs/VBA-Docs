@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlPane
 ms.assetid: efbdecc7-90ae-65b2-58aa-d323c19b816e
 ms.date: 08/28/2018
+localization_priority: Normal
 ---
 
 

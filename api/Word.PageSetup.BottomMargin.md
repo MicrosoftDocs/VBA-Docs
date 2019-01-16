@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.BottomMargin
 ms.assetid: 2633c609-3f16-583b-ba80-dddf4dcd8b71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

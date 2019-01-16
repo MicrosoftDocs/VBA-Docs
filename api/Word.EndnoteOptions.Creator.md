@@ -8,6 +8,7 @@ api_name:
 - Word.EndnoteOptions.Creator
 ms.assetid: 3fc925c8-007c-286d-ef74-3d00f916514b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

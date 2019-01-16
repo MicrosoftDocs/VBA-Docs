@@ -8,6 +8,7 @@ api_name:
 - Visio.Cell.ResultIU
 ms.assetid: 4d752d78-e112-bb45-08c7-5411d7d79beb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Publisher.CaptionStyles.Item
 ms.assetid: d9a015bb-93f6-8138-be48-8093730f173a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

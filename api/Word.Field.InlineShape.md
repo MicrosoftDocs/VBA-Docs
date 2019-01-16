@@ -8,6 +8,7 @@ api_name:
 - Word.Field.InlineShape
 ms.assetid: 2fbaa2a5-3c31-e7ff-45db-044c62cde951
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

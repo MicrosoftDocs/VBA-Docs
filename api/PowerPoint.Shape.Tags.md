@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.Tags
 ms.assetid: 23104a05-c2f0-21ea-f7ef-3bdc5587ce18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ConditionalStyle.Parent
 ms.assetid: 53ed5c9c-1c42-0e74-d423-fcd02c99cafe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.ConnectionsDeleted
 ms.assetid: a084e924-e0ff-2ecc-95a6-9943183afb76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

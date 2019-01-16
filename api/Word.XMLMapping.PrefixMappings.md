@@ -8,6 +8,7 @@ api_name:
 - Word.XMLMapping.PrefixMappings
 ms.assetid: 06afcc02-6368-8cb0-cd70-e12132b8ab2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

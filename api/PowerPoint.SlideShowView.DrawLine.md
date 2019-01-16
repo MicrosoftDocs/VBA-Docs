@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.DrawLine
 ms.assetid: d4c3c1c9-cd12-67ba-b1b9-4d7e924bd084
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

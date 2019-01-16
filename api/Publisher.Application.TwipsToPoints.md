@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.TwipsToPoints
 ms.assetid: 18e1c4da-1295-31a2-d66b-ab0df807b7a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

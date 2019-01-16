@@ -8,6 +8,7 @@ api_name:
 - Word.Global.HangulHanjaDictionaries
 ms.assetid: 46a86461-960b-1ce2-9c86-624cdfd130c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape
 ms.assetid: 666cb7f0-62a8-f419-9838-007ef29506ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

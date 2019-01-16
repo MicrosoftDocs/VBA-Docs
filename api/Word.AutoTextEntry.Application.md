@@ -8,6 +8,7 @@ api_name:
 - Word.AutoTextEntry.Application
 ms.assetid: c8effe4a-34cd-a18e-4799-419853723471
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

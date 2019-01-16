@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.Add
 ms.assetid: a75b7e4c-0a94-2bea-27bc-e6ad68ac075e
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -3,6 +3,7 @@ title: CoauthMergeEvent Object (Visio)
 ms.prod: visio
 ms.assetid: eb9425cb-0108-4909-e334-9cd51e5b9303
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

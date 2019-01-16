@@ -8,6 +8,7 @@ api_name:
 - Word.Application.EmailTemplate
 ms.assetid: 339a421e-b608-4063-a6e8-a08ba4debaf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkListBox.Copy
 ms.assetid: 17bf32c1-cafa-86ad-7d13-fac403b1d1cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

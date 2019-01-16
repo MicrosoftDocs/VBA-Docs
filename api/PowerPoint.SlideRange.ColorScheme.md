@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.ColorScheme
 ms.assetid: 6ae228d8-a105-5745-f7ce-a858bb0954e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

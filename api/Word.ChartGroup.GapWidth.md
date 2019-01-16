@@ -8,6 +8,7 @@ api_name:
 - Word.ChartGroup.GapWidth
 ms.assetid: 7f8d7f6b-9086-19c2-c4f4-d947491631ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

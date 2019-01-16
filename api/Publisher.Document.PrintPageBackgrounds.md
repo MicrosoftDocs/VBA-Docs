@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.PrintPageBackgrounds
 ms.assetid: 6d1d6e6a-fd66-2afa-2172-4a6552d5cce4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

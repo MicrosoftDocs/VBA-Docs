@@ -8,6 +8,7 @@ api_name:
 - Visio.Row.ContainingSection
 ms.assetid: 1cd7ad01-382a-f177-ed4d-ae4d039dadc0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

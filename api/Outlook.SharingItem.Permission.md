@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.Permission
 ms.assetid: fd1ceafe-8c78-8c63-eaf2-aa8cef71a9f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

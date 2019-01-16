@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.EditCopy
 ms.assetid: 69d13b8f-c5af-d9c9-b92e-00e6eadf660a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

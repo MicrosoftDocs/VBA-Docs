@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelItem.Alt
 ms.assetid: 36930d52-16c5-e131-cef8-a3cc33ded3ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

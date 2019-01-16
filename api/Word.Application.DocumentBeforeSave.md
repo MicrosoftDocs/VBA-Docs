@@ -8,6 +8,7 @@ api_name:
 - Word.Application.DocumentBeforeSave
 ms.assetid: cc1c6ec3-0e9e-5147-78a5-3a0c47fd5e90
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

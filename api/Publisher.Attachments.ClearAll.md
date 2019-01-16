@@ -8,6 +8,7 @@ api_name:
 - Publisher.Attachments.ClearAll
 ms.assetid: ae4e4c60-56cb-f97b-06f4-bd0d2abac4ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

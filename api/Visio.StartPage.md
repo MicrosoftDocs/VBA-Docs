@@ -5,6 +5,7 @@ api_name:
 - Visio.StartPage
 ms.assetid: 7db581ab-f656-f97a-79b6-17a1fca513e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

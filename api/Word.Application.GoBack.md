@@ -8,6 +8,7 @@ api_name:
 - Word.Application.GoBack
 ms.assetid: d1113bc7-4ad3-f4da-0442-c11f5e22b2a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

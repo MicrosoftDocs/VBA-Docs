@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ParagraphFormat.LineRuleBefore
 ms.assetid: 2316216e-9f56-07e6-1b32-10b37a6fdc9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

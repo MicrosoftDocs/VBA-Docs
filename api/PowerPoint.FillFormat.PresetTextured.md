@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.PresetTextured
 ms.assetid: a025a1d3-a2db-e219-7080-1a29c2fd3f21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

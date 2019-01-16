@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Finish5
 ms.assetid: 14e669f5-3918-d4f0-33b2-1284c75a129a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

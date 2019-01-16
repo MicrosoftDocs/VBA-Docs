@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.LanguageID
 ms.assetid: f6744845-5125-239e-65d1-7db8dacdaecd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

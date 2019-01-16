@@ -8,6 +8,7 @@ api_name:
 - Word.AddIn.Application
 ms.assetid: 721cd105-64c4-a637-1ae6-21b9060e9bca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Shape.AutoShapeType Property (Project)
 ms.prod: project-server
 ms.assetid: 697d26ac-a819-8c87-02fc-3006eb8c3c03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.CaptionLabel.ID
 ms.assetid: ddbbbc0b-8f83-041b-8a80-c0600e1c5231
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

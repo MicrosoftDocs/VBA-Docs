@@ -8,6 +8,7 @@ api_name:
 - Word.Application.Templates
 ms.assetid: 816e50d1-32b9-c8ff-6d2c-ad1113c952fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

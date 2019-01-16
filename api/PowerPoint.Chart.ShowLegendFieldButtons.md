@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ShowLegendFieldButtons
 ms.assetid: 03860057-293c-7f1b-aecd-71428329c91c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

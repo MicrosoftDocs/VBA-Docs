@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PrintRanges.Item
 ms.assetid: 4f90e8ae-aa96-07fa-0d5d-df23b58e3852
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

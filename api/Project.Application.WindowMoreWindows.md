@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WindowMoreWindows
 ms.assetid: 66c50a0c-624d-485b-d6c8-3046643dcb36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

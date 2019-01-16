@@ -8,6 +8,7 @@ api_name:
 - Word.ChartFont.Background
 ms.assetid: 3ae75226-265d-f544-489d-e3e417995ef8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

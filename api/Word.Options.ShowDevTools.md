@@ -8,6 +8,7 @@ api_name:
 - Word.Options.ShowDevTools
 ms.assetid: 3bb4f697-9e83-f3c0-fb85-3f62e24da37c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

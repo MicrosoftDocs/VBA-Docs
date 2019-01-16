@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.Protection
 ms.assetid: f80cd284-e0e3-0663-c505-88311ffc9d3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

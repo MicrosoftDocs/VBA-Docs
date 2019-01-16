@@ -8,6 +8,7 @@ api_name:
 - Word.ChartGroup.Index
 ms.assetid: cdc754ff-90de-d8c8-ff07-2f00a55ea959
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Task.BaselineWork
 ms.assetid: db9b1c96-76b9-05d9-3041-30b8bc483a53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

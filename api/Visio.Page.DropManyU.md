@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DropManyU
 ms.assetid: e61d9e8f-3838-240e-b8da-c5f1d8b3eb12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

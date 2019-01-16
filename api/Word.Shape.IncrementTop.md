@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.IncrementTop
 ms.assetid: 9aa5edb1-192f-5ccf-7513-3b9f660826ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

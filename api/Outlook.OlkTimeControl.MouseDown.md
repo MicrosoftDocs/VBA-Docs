@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.MouseDown
 ms.assetid: 64508238-09aa-bdd4-29bb-0f19d757b400
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

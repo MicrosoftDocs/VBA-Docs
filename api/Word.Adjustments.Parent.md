@@ -8,6 +8,7 @@ api_name:
 - Word.Adjustments.Parent
 ms.assetid: 9783ed4f-7146-3793-90eb-0dccbecf7f18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Exception.Delete
 ms.assetid: 0e311cea-411b-9600-1970-b5a4dccf0e5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

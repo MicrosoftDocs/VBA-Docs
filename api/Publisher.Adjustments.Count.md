@@ -8,6 +8,7 @@ api_name:
 - Publisher.Adjustments.Count
 ms.assetid: 1b32f1c3-0bbc-a175-4f59-36cc76df12fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

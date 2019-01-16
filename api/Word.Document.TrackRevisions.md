@@ -8,6 +8,7 @@ api_name:
 - Word.Document.TrackRevisions
 ms.assetid: c6ff8462-805d-2494-cebb-ace6fe536f40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

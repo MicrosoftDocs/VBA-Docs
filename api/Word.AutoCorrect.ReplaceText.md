@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrect.ReplaceText
 ms.assetid: 4325928d-dc53-4b3c-b6fa-860c090e90e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

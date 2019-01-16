@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Title
 ms.assetid: bb4e08a3-6517-c500-23ac-ec65b3340f76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.Save
 ms.assetid: cfe23d31-8cf7-afc0-3232-b59e55e4a30b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

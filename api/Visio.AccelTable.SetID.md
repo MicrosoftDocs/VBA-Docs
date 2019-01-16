@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelTable.SetID
 ms.assetid: d73787cc-0145-845e-6675-906d4d2aaa78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

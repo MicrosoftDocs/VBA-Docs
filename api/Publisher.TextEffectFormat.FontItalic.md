@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextEffectFormat.FontItalic
 ms.assetid: 6594e6f7-e29e-a51d-55b8-d02f1fb9f26a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

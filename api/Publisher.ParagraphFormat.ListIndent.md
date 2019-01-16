@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.ListIndent
 ms.assetid: b42000ea-0636-88cf-b7ed-c71384a2b0d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.EmailSignatureEntries.Count
 ms.assetid: 3da9db15-d8a9-19cb-fd31-7defbec30af9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

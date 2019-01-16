@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ManageSiteColumns
 ms.assetid: 1900552c-6320-2ff5-4a07-bc6ebee60696
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

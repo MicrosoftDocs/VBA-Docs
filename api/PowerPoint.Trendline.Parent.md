@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Trendline.Parent
 ms.assetid: 89003a2d-d31d-07ad-dbfb-d37c42273adb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

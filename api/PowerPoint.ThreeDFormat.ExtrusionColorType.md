@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.ExtrusionColorType
 ms.assetid: 2e6acc19-fcdf-70e2-6ddd-7142e904d225
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

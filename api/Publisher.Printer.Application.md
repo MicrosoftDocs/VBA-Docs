@@ -8,6 +8,7 @@ api_name:
 - Publisher.Printer.Application
 ms.assetid: c7eadef4-8206-7e86-b0fe-3c3fe7d07f25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

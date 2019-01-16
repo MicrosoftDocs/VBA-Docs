@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.Length
 ms.assetid: 4eb64830-f8e4-5226-57c1-80df7f4bd39f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.DefaultTextUnits
 ms.assetid: a9bd8464-b39c-622c-6446-bc652e42766c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

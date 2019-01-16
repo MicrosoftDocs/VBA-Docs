@@ -8,6 +8,7 @@ api_name:
 - Project.Application.HelpAbout
 ms.assetid: 8afda354-3914-37f6-c274-bdb816477506
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

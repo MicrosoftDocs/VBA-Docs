@@ -8,6 +8,7 @@ api_name:
 - Word.Email.Creator
 ms.assetid: be3a596e-3067-49ad-f303-e87cbec5ad96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

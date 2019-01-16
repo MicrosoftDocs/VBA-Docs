@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindows.Parent
 ms.assetid: c0b45972-9677-b14a-e1fa-ae20b3afa3c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceHyperlinks
 ms.assetid: 902775b4-f89e-f5bd-879b-6dd3fe6f2d06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkPageControl.Page
 ms.assetid: fc0f49b5-206d-0077-3931-9f759def6788
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

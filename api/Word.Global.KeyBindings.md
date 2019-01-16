@@ -8,6 +8,7 @@ api_name:
 - Word.Global.KeyBindings
 ms.assetid: 76b3fb80-9169-06b6-8aa6-d70d960ea2f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

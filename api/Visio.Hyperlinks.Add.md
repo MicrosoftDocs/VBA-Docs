@@ -8,6 +8,7 @@ api_name:
 - Visio.Hyperlinks.Add
 ms.assetid: 4f2f4649-ecb7-1287-4bd7-8d2e819e4108
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

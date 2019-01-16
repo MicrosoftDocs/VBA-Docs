@@ -8,6 +8,7 @@ api_name:
 - Project.Task.DurationVariance
 ms.assetid: f76b4d29-1cf8-58be-f4cd-cc978f38aaa3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

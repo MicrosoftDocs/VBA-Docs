@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.DataFeaturesEnabled
 ms.assetid: 3ff6eb4e-1ea8-3f53-c86b-133d4960516e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

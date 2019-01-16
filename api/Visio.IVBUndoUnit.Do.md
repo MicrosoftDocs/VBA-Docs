@@ -8,6 +8,7 @@ api_name:
 - Visio.IVBUndoUnit.Do
 ms.assetid: 3d33e1fe-328a-0337-412a-861b3e19d8b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

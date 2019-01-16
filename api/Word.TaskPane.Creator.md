@@ -8,6 +8,7 @@ api_name:
 - Word.TaskPane.Creator
 ms.assetid: b83d57c4-8300-4906-c69a-322d69f6c01e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

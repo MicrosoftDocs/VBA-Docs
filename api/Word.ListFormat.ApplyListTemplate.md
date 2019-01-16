@@ -8,6 +8,7 @@ api_name:
 - Word.ListFormat.ApplyListTemplate
 ms.assetid: 63296884-9024-a0a1-061a-59eadbc6a5cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

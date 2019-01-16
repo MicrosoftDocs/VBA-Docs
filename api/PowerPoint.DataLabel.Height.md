@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataLabel.Height
 ms.assetid: 891f3e75-b917-bb35-9365-7e30f0d4282d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Cell.Parent
 ms.assetid: 8e2f9a5d-b914-f9e1-b922-ade8fb7ade01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PrintOddPagesInAscendingOrder
 ms.assetid: c4759f97-ab6b-2df2-33b9-cf493fab1116
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

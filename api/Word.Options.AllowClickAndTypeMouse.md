@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AllowClickAndTypeMouse
 ms.assetid: 40b6f33c-a577-ff1e-6f7c-46b971e34cab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

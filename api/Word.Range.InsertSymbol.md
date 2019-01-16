@@ -8,6 +8,7 @@ api_name:
 - Word.Range.InsertSymbol
 ms.assetid: 2fa843fa-4966-a4e6-1411-028b14029bdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

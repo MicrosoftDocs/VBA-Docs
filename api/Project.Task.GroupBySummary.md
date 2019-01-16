@@ -5,6 +5,7 @@ api_name:
 - Project.Task.GroupBySummary
 ms.assetid: c86393b7-e123-b627-0762-475cef921fdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

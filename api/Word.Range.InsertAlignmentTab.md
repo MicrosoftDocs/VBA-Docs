@@ -8,6 +8,7 @@ api_name:
 - Word.Range.InsertAlignmentTab
 ms.assetid: 1ca21f95-ca53-e911-c789-b0203d7bf0c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

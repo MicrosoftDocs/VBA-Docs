@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.Delete
 ms.assetid: fb2c402f-cc73-adf4-2892-601489fdd8c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

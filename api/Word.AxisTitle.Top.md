@@ -8,6 +8,7 @@ api_name:
 - Word.AxisTitle.Top
 ms.assetid: d985b6b7-7a4b-84e6-2101-7ec4ca1d285c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

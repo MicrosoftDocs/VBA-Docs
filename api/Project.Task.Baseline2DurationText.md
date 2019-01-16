@@ -8,6 +8,7 @@ api_name:
 - Project.Task.Baseline2DurationText
 ms.assetid: d0bacbcb-4976-451b-8b97-8bb70bb29c20
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

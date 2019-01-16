@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.GetAssociatedTask
 ms.assetid: ec170266-9898-79d8-03e9-7ea38d789d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.FirstLineIndent
 ms.assetid: e882f2da-dc5f-a96d-e18c-39335bd95540
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

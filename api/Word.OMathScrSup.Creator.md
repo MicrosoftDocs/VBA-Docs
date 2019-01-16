@@ -8,6 +8,7 @@ api_name:
 - Word.OMathScrSup.Creator
 ms.assetid: 6f7f3379-de41-2df9-17f8-252906726e58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

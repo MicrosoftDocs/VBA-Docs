@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.SentOn
 ms.assetid: 9b744303-42e2-9c38-b203-db6f8260d474
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Word.Application.ProtectedViewWindowSize
 ms.assetid: b28d53f9-783f-6d68-2080-a0b1d8484c43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

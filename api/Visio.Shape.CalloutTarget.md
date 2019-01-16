@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.CalloutTarget
 ms.assetid: 4366753a-c8e2-ba85-54fd-9c74cd21d762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

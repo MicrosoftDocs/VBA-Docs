@@ -8,6 +8,7 @@ api_name:
 - Word.Document.SnapToShapes
 ms.assetid: b74e7a58-deee-aed2-8956-3911dd54d9ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

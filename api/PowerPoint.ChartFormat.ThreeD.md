@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartFormat.ThreeD
 ms.assetid: 7e4d9046-8af8-2035-0939-7b91f6bf4e22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

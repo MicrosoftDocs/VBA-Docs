@@ -8,6 +8,7 @@ api_name:
 - Word.Document.DefaultTableStyle
 ms.assetid: b6782b12-09a6-77b0-a52d-81d4028e7c19
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

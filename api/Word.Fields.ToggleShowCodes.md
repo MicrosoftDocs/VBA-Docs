@@ -8,6 +8,7 @@ api_name:
 - Word.Fields.ToggleShowCodes
 ms.assetid: 71f5aabf-7570-3594-d97c-de9cfcee0650
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

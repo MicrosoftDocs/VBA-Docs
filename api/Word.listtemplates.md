@@ -1,8 +1,9 @@
-﻿---
+---
 title: ListTemplates object (Word)
 ms.prod: word
 ms.assetid: 5b5f3ed8-4522-f52e-5ae8-9df26a7da154
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

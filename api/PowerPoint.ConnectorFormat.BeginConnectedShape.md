@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ConnectorFormat.BeginConnectedShape
 ms.assetid: 7456899e-3f1c-3af8-e942-a6de1abeeca3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

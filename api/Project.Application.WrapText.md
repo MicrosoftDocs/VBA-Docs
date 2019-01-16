@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WrapText
 ms.assetid: 0aaabac2-ee1d-694c-45ac-f522a0034724
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

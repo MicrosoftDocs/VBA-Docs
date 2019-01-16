@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.MailMerge
 ms.assetid: 15b1a8aa-3472-c67d-1d99-92617b05c157
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

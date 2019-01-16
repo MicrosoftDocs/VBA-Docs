@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.HasTransparencyColor
 ms.assetid: 2e6066e8-60b0-c33e-0bb0-1b6f83208fd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

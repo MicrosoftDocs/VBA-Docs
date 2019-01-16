@@ -8,6 +8,7 @@ api_name:
 - Word.TablesOfAuthorities.Parent
 ms.assetid: d265451b-3dff-a502-b1cb-e7921590c31e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

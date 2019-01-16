@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.ReverseEnds
 ms.assetid: f2e450fa-0f86-6c90-cf58-8ee57f055577
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Window
 ms.assetid: 342d77cd-5556-6ac3-a828-b1b60380f910
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

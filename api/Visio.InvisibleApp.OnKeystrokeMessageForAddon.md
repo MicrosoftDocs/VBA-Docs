@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.OnKeystrokeMessageForAddon
 ms.assetid: 78dd9b07-21bf-41a9-a2da-0831b5f713c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

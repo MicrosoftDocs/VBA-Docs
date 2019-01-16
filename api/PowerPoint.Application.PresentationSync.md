@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationSync
 ms.assetid: 391b486e-7e92-bc90-224a-77c499cdf774
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

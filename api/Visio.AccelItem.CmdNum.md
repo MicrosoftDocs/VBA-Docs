@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelItem.CmdNum
 ms.assetid: fb12e22d-671d-1f40-475c-714599fe0e37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

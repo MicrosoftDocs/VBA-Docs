@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Text18
 ms.assetid: a346d796-70cf-213f-4b0e-6083803215b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

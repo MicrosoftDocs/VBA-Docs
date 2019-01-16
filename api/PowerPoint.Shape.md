@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape
 ms.assetid: 1da93849-99e0-827e-ced3-c6cf7f8569f3
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Redo
 ms.assetid: 0fb5671e-c933-50e6-e1fa-fe146666ad80
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

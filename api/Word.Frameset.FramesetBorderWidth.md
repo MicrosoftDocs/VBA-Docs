@@ -8,6 +8,7 @@ api_name:
 - Word.Frameset.FramesetBorderWidth
 ms.assetid: 6d828372-78a3-83f1-d162-91b000af2023
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

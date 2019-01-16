@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.ClearParagraphDirectFormatting
 ms.assetid: 66df2319-f02e-7cd9-4cef-fda6468dcd67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

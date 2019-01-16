@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.AddUndoUnit
 ms.assetid: 90542078-5efa-fec6-b853-41f8a998bea9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

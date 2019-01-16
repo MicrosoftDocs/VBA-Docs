@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LineFormat.BeginArrowheadLength
 ms.assetid: b46151e1-251f-7498-9dfc-b652b356edf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

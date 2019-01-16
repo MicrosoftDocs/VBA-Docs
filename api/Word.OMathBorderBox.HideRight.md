@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBorderBox.HideRight
 ms.assetid: 58f51023-7ee4-a765-5f9b-93621b886a0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

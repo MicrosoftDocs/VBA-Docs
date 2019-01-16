@@ -8,6 +8,7 @@ api_name:
 - Word.Browser.Creator
 ms.assetid: dd12021b-a90c-d24f-6556-01d3f5ebd582
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

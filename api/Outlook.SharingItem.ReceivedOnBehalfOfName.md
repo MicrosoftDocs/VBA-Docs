@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.ReceivedOnBehalfOfName
 ms.assetid: ffc506c0-7f22-84f6-f7ba-fee4a2c30d7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.MoveToSubprocess
 ms.assetid: 3688c9d5-5b28-23d7-369a-332649267ffe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

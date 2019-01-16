@@ -8,6 +8,7 @@ api_name:
 - Word.Global.Selection
 ms.assetid: 71938a78-36ae-07ba-496b-911bef746444
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

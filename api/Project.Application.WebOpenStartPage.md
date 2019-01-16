@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WebOpenStartPage
 ms.assetid: 7d043964-8be2-fbf2-7d6c-6ad0454e05cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

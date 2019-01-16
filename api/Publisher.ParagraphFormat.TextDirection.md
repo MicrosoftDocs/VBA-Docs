@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.TextDirection
 ms.assetid: b96c634d-0e7e-dba8-2bf4-e5baf3afa3d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

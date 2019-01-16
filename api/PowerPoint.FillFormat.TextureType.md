@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.TextureType
 ms.assetid: 318e5b2f-7baa-296b-c7ea-0feddb70414c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

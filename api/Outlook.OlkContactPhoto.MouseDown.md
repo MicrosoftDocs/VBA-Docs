@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkContactPhoto.MouseDown
 ms.assetid: d629dd2f-5bcc-0328-d453-c8cda2d38b2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

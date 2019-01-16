@@ -8,6 +8,7 @@ api_name:
 - Word.Font.NameBi
 ms.assetid: 436dd5c5-a79d-265e-9929-f30c5a05e85e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

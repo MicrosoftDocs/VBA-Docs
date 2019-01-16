@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CustomFieldRename
 ms.assetid: 0ca77914-1881-eee5-a8ec-7b47c6464969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

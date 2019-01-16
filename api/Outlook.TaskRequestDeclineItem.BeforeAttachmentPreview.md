@@ -5,6 +5,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAttachmentPreview
 ms.assetid: 339c65e6-cc14-338b-9946-01172b2e5a40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

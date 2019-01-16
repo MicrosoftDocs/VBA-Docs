@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.ActiveWindow
 ms.assetid: 762c1c6a-1f8a-f47a-7b75-006c745caee0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

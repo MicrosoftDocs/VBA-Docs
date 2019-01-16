@@ -8,6 +8,7 @@ api_name:
 - Publisher.PbPublicationType
 ms.assetid: e759900e-531d-0ec1-583d-ddc961b5e6f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

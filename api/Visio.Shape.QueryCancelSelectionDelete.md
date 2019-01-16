@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.QueryCancelSelectionDelete
 ms.assetid: d050cf74-b427-32ef-fe11-77246bb9cf55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

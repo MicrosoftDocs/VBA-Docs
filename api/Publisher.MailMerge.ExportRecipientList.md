@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMerge.ExportRecipientList
 ms.assetid: 230d0f66-7368-51b7-8233-3fd54cfd0fe4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

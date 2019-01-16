@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextStyle.BaseStyle
 ms.assetid: c8d1665c-c232-ecdf-3c1c-f614c7374c1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

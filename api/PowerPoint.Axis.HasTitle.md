@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.HasTitle
 ms.assetid: 04f9e10a-f323-a905-e09c-e9bb3222a80c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

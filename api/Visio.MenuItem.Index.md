@@ -8,6 +8,7 @@ api_name:
 - Visio.MenuItem.Index
 ms.assetid: 354a86ac-b96f-1d3a-3d6e-3cd319b22f16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

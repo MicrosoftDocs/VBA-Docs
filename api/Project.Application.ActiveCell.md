@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ActiveCell
 ms.assetid: 880931d8-fc23-7938-e4fe-bd800eeae318
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

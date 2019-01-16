@@ -8,6 +8,7 @@ api_name:
 - Word.Bookmark.Creator
 ms.assetid: 3994cad5-c492-8043-4fdf-d1900fdf08c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

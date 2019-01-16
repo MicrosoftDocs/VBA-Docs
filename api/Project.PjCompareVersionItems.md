@@ -5,6 +5,7 @@ api_name:
 - Project.PjCompareVersionItems
 ms.assetid: 1d5a4372-259c-2bd1-e967-bcab2485950f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

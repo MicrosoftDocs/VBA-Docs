@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.SwapEnds
 ms.assetid: 515580db-4018-30b3-0ed6-cb3a412b62c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

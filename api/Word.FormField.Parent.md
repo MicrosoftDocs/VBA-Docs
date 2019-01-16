@@ -8,6 +8,7 @@ api_name:
 - Word.FormField.Parent
 ms.assetid: a80f577e-8b51-7bc0-3afe-0ffb366e3265
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.SetResults
 ms.assetid: 6be7dd71-55a7-777c-e1b7-8f41c028e843
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

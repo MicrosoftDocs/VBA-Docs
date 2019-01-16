@@ -8,6 +8,7 @@ api_name:
 - Word.CaptionLabels.Parent
 ms.assetid: b0fbc4f3-c379-a29c-ce12-b7a3d9bdab63
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.UserProperty.Delete
 ms.assetid: 6b1da165-f3d9-0a44-4582-3b468896a911
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

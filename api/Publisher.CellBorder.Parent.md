@@ -8,6 +8,7 @@ api_name:
 - Publisher.CellBorder.Parent
 ms.assetid: acff8f02-c784-a12f-0fe0-a132699ee886
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

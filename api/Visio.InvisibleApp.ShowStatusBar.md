@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.ShowStatusBar
 ms.assetid: e58097a2-a5e9-00ca-c3b3-74a3d7717907
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

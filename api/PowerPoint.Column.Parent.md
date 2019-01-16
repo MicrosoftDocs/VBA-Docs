@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Column.Parent
 ms.assetid: bd4c1a9b-5395-e881-912c-92ecbaa82a5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

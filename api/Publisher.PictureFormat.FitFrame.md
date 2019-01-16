@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.FitFrame
 ms.assetid: d43376ea-fd04-c8a1-011c-b2ea1be644d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

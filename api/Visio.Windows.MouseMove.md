@@ -8,6 +8,7 @@ api_name:
 - Visio.Windows.MouseMove
 ms.assetid: 3e323f5a-766a-55b5-11df-ab51d25100a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

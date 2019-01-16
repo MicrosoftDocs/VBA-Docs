@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.Signatures
 ms.assetid: 978e39bb-298b-d820-63cb-2924bf0770b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.VerticalFlip
 ms.assetid: b3c7492f-08ee-8fad-102a-8e2a2f69b969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

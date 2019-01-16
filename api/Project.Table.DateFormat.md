@@ -8,6 +8,7 @@ api_name:
 - Project.Table.DateFormat
 ms.assetid: 69e0d08b-698e-8354-a583-b08122762f3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

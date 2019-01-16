@@ -8,6 +8,7 @@ api_name:
 - Word.TickLabels.Name
 ms.assetid: 3b08a584-e6d1-848e-b507-575615b1e996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

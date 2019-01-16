@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowWindows.Application
 ms.assetid: a06ac051-4808-1218-d640-198423f66c55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

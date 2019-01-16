@@ -8,6 +8,7 @@ api_name:
 - Visio.ContainerProperties.ObjectType
 ms.assetid: 92631374-f556-e09f-6048-3f21bd6a873b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

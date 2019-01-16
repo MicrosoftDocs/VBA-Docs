@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelItem.Shift
 ms.assetid: 158a5a51-c96f-8b34-d08b-adc5a7fa7d8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

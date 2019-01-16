@@ -8,6 +8,7 @@ api_name:
 - Project.TableField.AlignData
 ms.assetid: 9cd7bef5-a0aa-7150-e6bf-7e5f23632402
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

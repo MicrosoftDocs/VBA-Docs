@@ -8,6 +8,7 @@ api_name:
 - Word.Shapes.AddTextbox
 ms.assetid: 7b5c766e-40b3-a390-561f-cd1a53eb93a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

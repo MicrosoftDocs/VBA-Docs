@@ -8,6 +8,7 @@ api_name:
 - Visio.Windows.WindowOpened
 ms.assetid: 358b594b-0ca8-9d48-13a8-ae4dc527fdd6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.DataRecordset.Stat
 ms.assetid: b3df4d5a-bc10-db7f-3560-43519a7dae83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

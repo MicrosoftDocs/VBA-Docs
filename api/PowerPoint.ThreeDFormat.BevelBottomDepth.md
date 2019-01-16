@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.BevelBottomDepth
 ms.assetid: 231a1ccf-6a1b-dd34-bc31-6a04cbbecbcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

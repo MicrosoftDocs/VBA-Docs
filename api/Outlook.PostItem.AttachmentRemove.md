@@ -5,6 +5,7 @@ api_name:
 - Outlook.PostItem.AttachmentRemove
 ms.assetid: 9fb7c1c3-e339-1dca-7c89-58c44e4435d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

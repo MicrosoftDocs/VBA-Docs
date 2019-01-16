@@ -5,6 +5,7 @@ api_name:
 - Word.WdCaptionPosition
 ms.assetid: ae3f8e92-059a-8417-8b7e-2c2553952aab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

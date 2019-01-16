@@ -5,6 +5,7 @@ api_name:
 - Project.Task.Baseline2DeliverableFinish
 ms.assetid: 3684f5a9-fe99-99b9-3a76-c1f17def82b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

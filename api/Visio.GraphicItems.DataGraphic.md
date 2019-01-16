@@ -8,6 +8,7 @@ api_name:
 - Visio.GraphicItems.DataGraphic
 ms.assetid: ff6dba86-6aff-cfdd-b4ba-3441a635c24d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

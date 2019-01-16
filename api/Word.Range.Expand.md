@@ -8,6 +8,7 @@ api_name:
 - Word.Range.Expand
 ms.assetid: cf4a5705-ebda-fedb-4929-3e115d42a432
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

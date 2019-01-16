@@ -8,6 +8,7 @@ api_name:
 - Word.CanvasShapes.AddTextbox
 ms.assetid: b8688f8f-db7e-7cf6-12ea-d0712b4ce26b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

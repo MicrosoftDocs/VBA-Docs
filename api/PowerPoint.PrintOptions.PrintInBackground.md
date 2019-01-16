@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PrintOptions.PrintInBackground
 ms.assetid: d3a734a3-fa17-2321-1c29-6167f0110bd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

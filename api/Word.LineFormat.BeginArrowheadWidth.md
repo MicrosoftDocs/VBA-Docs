@@ -8,6 +8,7 @@ api_name:
 - Word.LineFormat.BeginArrowheadWidth
 ms.assetid: f15fdfd3-dd6c-a47e-8fad-ee8367c72341
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

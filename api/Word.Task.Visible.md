@@ -8,6 +8,7 @@ api_name:
 - Word.Task.Visible
 ms.assetid: cc1bb50d-c49d-9230-83ad-940c53c89220
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

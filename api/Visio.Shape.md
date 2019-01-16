@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape
 ms.assetid: da7a8872-4ebb-a607-e0ed-eebf68ff5630
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

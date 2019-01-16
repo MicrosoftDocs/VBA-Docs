@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebCommandButton.PostFormData
 ms.assetid: d04e3172-0d96-856f-af63-341031d92291
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

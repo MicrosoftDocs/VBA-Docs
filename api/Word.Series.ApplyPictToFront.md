@@ -8,6 +8,7 @@ api_name:
 - Word.Series.ApplyPictToFront
 ms.assetid: 85390115-161c-bc63-fbfb-25d793aff79d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

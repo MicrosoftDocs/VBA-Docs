@@ -8,6 +8,7 @@ api_name:
 - Publisher.Cell.VerticalTextAlignment
 ms.assetid: 793bf932-15d0-cce9-1d5d-aee5d260e1a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

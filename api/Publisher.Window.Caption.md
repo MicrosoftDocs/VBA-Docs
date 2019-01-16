@@ -8,6 +8,7 @@ api_name:
 - Publisher.Window.Caption
 ms.assetid: 1dbf66c9-e964-b17f-684f-70cbbaa5fbc7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

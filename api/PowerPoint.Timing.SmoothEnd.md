@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Timing.SmoothEnd
 ms.assetid: 4d5d746b-ed5f-e708-287f-62e02684040c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

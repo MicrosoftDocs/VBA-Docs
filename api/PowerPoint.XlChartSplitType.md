@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.XlChartSplitType
 ms.assetid: ec8c162d-3f7d-448d-2a03-726f444ee889
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

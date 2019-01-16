@@ -3,6 +3,7 @@ title: Lists object (Word)
 ms.prod: word
 ms.assetid: 1fd927c5-6186-5ca0-80ae-c2ab225d092c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

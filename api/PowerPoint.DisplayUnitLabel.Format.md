@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DisplayUnitLabel.Format
 ms.assetid: 3aad21a1-8b90-13b7-9bd7-1ed3d048ac6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

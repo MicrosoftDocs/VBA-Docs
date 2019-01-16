@@ -8,6 +8,7 @@ api_name:
 - Outlook.SyncObjects.Count
 ms.assetid: 718e3194-2f27-7088-7d34-fb4930aa2c7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

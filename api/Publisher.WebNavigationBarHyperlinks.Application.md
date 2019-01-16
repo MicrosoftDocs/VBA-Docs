@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebNavigationBarHyperlinks.Application
 ms.assetid: e3800fe1-6040-aedf-8822-9c5451c61d57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

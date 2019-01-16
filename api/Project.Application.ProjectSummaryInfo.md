@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ProjectSummaryInfo
 ms.assetid: 7275598c-02b1-7e07-ecdb-04fa0a21f41a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

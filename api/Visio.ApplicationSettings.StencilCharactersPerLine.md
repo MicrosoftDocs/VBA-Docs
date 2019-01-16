@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.StencilCharactersPerLine
 ms.assetid: e69c1c58-6383-f614-fcd4-d32505f53206
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

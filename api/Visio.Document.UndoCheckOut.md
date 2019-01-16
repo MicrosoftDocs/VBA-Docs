@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.UndoCheckOut
 ms.assetid: 7b6a67ae-2acd-217f-42e0-f8aced97ac96
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

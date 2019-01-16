@@ -8,6 +8,7 @@ api_name:
 - Publisher.LineFormat.Parent
 ms.assetid: 08fdf1b4-cfda-989d-faa4-0614aa15d157
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

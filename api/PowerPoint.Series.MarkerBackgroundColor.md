@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.MarkerBackgroundColor
 ms.assetid: 6cd480e7-c291-7c11-1d3f-57099805d2c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

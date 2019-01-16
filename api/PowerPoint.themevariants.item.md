@@ -3,6 +3,7 @@ title: ThemeVariants.Item Method (PowerPoint)
 ms.assetid: acc0bc46-94d0-827a-7c38-a8f7a149ff30
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 

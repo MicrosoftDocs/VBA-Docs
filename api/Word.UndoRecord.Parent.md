@@ -8,6 +8,7 @@ api_name:
 - Word.UndoRecord.Parent
 ms.assetid: aa940b20-df12-a8ed-fe98-242102ca0df1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

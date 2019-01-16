@@ -8,6 +8,7 @@ api_name:
 - Visio.UIObject.AccelTables
 ms.assetid: 01cdfc77-47b3-b160-fbaa-9e7d615abff2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

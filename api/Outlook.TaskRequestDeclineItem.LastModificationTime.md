@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestDeclineItem.LastModificationTime
 ms.assetid: 21d7b7f2-f0f1-f135-62b1-4f9ca919021d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

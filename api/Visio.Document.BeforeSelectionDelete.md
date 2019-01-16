@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.BeforeSelectionDelete
 ms.assetid: 25fccddf-efbb-8041-087a-2c3e3b5cc12c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

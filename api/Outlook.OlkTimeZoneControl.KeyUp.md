@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.KeyUp
 ms.assetid: 06869fbe-73dc-fd0f-0a6f-59505e0e80f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

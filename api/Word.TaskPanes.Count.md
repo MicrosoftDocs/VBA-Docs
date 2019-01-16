@@ -8,6 +8,7 @@ api_name:
 - Word.TaskPanes.Count
 ms.assetid: 8e1e4bcd-9d4b-b7b6-e847-17d249d20896
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

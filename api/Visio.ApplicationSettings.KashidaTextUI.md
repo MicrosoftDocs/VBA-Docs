@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.KashidaTextUI
 ms.assetid: 84270b9c-2ae9-4050-8a68-c04dee0297bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.DownBars.Select
 ms.assetid: b63ca383-9ef3-b05f-2a62-aef1d3c89ae1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ChartGroup.VaryByCategories
 ms.assetid: 3be6fc39-772e-89a9-fdcc-962b904ab694
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

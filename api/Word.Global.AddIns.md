@@ -8,6 +8,7 @@ api_name:
 - Word.Global.AddIns
 ms.assetid: 21b0d291-aa8c-28c0-ef5e-6a566d17da9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Research.Query
 ms.assetid: 416ad3f1-d2c4-4963-81c6-ba9a639c7965
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

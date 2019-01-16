@@ -8,6 +8,7 @@ api_name:
 - Word.CanvasShapes.AddPolyline
 ms.assetid: 101a0380-f28d-4212-859f-9bca247da1be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.LineStyle
 ms.assetid: 1d1f2b2e-705d-6547-f6d6-0c5693e426d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

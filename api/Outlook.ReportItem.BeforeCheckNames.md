@@ -5,6 +5,7 @@ api_name:
 - Outlook.ReportItem.BeforeCheckNames
 ms.assetid: a1d1a844-96c0-50f0-0db8-d0f6980d422d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

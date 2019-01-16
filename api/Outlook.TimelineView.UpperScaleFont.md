@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimelineView.UpperScaleFont
 ms.assetid: adaa6ca0-0c88-8eb6-5de0-236cbd4e508f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

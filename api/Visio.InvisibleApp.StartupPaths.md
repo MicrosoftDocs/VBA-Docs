@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.StartupPaths
 ms.assetid: 0951fcb7-c40a-4d63-8f8b-dda2bd1ea853
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Visio.PageColor
 ms.assetid: afda33d5-461b-44d0-a611-df26c632ce12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

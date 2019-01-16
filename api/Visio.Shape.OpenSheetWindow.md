@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.OpenSheetWindow
 ms.assetid: 744b72f5-381a-48fc-407f-20ffe815c54e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

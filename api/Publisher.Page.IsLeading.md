@@ -8,6 +8,7 @@ api_name:
 - Publisher.Page.IsLeading
 ms.assetid: 5a65f1fe-442d-f352-bea6-b732771008d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

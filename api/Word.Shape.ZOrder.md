@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.ZOrder
 ms.assetid: b6729719-44b0-a069-0cbe-b694b88ab65a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

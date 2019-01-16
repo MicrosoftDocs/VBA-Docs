@@ -8,6 +8,7 @@ api_name:
 - Word.Document.TablesOfFigures
 ms.assetid: 1c386611-82f9-0a0d-71ce-dfe006d8eab5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

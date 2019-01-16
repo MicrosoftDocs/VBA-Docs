@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ZoomIn
 ms.assetid: 0a6abf44-68ee-b146-d760-a7f0e1e79d76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

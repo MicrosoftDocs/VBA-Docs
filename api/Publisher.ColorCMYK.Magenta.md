@@ -8,6 +8,7 @@ api_name:
 - Publisher.ColorCMYK.Magenta
 ms.assetid: 2996279e-d5f6-9734-ca1a-0e80d7991e5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

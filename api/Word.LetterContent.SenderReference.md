@@ -8,6 +8,7 @@ api_name:
 - Word.LetterContent.SenderReference
 ms.assetid: a20edd1b-5bd8-df19-2967-f3cf0a3c1004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.SharedWorkspace
 ms.assetid: 79ba29b0-e51b-2644-60d7-6a044a9a7291
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

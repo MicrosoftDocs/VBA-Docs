@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ThreeDFormat.LightAngle
 ms.assetid: 61398533-1025-746e-0a41-03491db66498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

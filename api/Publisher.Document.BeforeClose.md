@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.BeforeClose
 ms.assetid: d40e36b6-fea7-a9d5-0c88-55197983b888
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

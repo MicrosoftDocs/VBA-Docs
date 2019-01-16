@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBreaks.Item
 ms.assetid: fd1a72fe-914d-d31d-54b7-f9fd44621c39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

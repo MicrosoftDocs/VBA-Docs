@@ -5,6 +5,7 @@ api_name:
 - Word.Axes
 ms.assetid: 57261ca9-7fd6-ba99-19bd-5df8e940f714
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Pages.Count
 ms.assetid: 6cc42bb4-4862-6a59-168b-6a97a7e114c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.CommandBars
 ms.assetid: 80b82381-691b-7995-aa3e-afdf764429d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

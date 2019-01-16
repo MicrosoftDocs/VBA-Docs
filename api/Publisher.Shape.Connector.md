@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.Connector
 ms.assetid: 6cdff1e7-59b0-9905-96f8-99b79db1acd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

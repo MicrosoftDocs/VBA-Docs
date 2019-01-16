@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.ScaleWidth
 ms.assetid: 868f56cb-6a3a-902e-b6a9-2a9229936b41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

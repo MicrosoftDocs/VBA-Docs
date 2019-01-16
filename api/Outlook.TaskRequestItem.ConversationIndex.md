@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestItem.ConversationIndex
 ms.assetid: d9aff4d8-c5de-e56e-c3c0-680e6c8c0131
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

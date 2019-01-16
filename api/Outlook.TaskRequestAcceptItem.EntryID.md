@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.EntryID
 ms.assetid: e8304c17-cd0d-8379-4513-ed9d4e40b319
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

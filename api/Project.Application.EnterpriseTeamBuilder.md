@@ -8,6 +8,7 @@ api_name:
 - Project.Application.EnterpriseTeamBuilder
 ms.assetid: 9c164db0-5542-ec3e-121b-206a38cb3ba9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

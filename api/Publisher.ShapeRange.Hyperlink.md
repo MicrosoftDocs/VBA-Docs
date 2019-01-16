@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.Hyperlink
 ms.assetid: 34ec968c-af66-7629-066f-80c8e1b40e84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

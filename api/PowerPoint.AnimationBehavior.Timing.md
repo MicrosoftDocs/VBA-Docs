@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AnimationBehavior.Timing
 ms.assetid: 343f11d4-04bf-2637-dbbc-dc3256d57940
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

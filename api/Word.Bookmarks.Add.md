@@ -8,6 +8,7 @@ api_name:
 - Word.Bookmarks.Add
 ms.assetid: 647795da-d7e2-7b6f-c412-5b684ec962a2
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.InlineConversion
 ms.assetid: ee8d7237-86b0-74bd-ed19-dd09e29665d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

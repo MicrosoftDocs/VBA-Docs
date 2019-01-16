@@ -8,6 +8,7 @@ api_name:
 - Word.Hyperlinks.Parent
 ms.assetid: c1a1888c-bf55-63fd-56de-2cee433ac6fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

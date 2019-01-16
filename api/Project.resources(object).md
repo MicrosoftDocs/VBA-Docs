@@ -3,6 +3,7 @@ title: Resources Object (Project)
 ms.prod: project-server
 ms.assetid: 84f8357a-358b-f2ae-e164-65c0c5abd383
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

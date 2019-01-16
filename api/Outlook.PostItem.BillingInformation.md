@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.BillingInformation
 ms.assetid: 474460c0-79c2-b6f2-fb41-16db955cbac3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

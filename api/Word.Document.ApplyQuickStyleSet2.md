@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ApplyQuickStyleSet2
 ms.assetid: 7ed6e6ac-fe0f-388e-65fa-edd711d30926
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

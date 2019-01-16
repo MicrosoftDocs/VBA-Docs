@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfFigures.UpperHeadingLevel
 ms.assetid: bfda7885-8aec-96d7-2bdf-93ddd2804385
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

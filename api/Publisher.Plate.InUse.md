@@ -8,6 +8,7 @@ api_name:
 - Publisher.Plate.InUse
 ms.assetid: 6c98ada2-ff05-30c9-0043-afbe892dab3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

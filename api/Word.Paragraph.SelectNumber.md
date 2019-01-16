@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.SelectNumber
 ms.assetid: 9b5999d4-da07-8a32-4aa9-9b62f9cd9e31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Application.MouseAvailable
 ms.assetid: 25ad78ad-c267-35ec-9124-0496c034fa50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

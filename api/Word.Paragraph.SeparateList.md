@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraph.SeparateList
 ms.assetid: 0efe3e3c-67ad-1648-f27c-4aee5811bebd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.StyleDeleteCanceled
 ms.assetid: 9715352b-a34a-1e6f-5080-a922eccc3358
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

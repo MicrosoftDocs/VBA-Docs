@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Interior.PatternColorIndex
 ms.assetid: d7a42e0c-d3f4-85a1-009c-0b6d2385ee77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

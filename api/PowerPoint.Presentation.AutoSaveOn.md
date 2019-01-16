@@ -7,6 +7,7 @@ ms.prod: powerpoint
 api_name:
 - PowerPoint.Presentation.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TableBackground.Fill
 ms.assetid: b52705a4-29dc-c676-5988-86c30c2fdad4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.MyShapesPath
 ms.assetid: 2cfec57f-4ad9-d007-f720-0ce0a23079cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

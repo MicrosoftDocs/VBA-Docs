@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.ResizeToFitContents
 ms.assetid: 982fa4c4-014c-319d-a73e-f6bbc28f16e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

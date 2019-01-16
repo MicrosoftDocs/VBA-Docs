@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.Patterned
 ms.assetid: 665c5b1d-e2a2-64ab-a0c3-7d22d8d3121a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

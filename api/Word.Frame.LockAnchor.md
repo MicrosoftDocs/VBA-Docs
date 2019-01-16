@@ -8,6 +8,7 @@ api_name:
 - Word.Frame.LockAnchor
 ms.assetid: 654dc51d-12bb-4168-f737-69f8de7da17a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

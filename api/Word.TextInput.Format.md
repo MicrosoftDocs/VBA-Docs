@@ -8,6 +8,7 @@ api_name:
 - Word.TextInput.Format
 ms.assetid: 5950cabb-dfd3-0107-6a51-efe8813a297f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

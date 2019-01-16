@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.Tracking
 ms.assetid: c703a5ec-e8d7-36ce-ac50-d41265ce92db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

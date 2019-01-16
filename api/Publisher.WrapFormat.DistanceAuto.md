@@ -8,6 +8,7 @@ api_name:
 - Publisher.WrapFormat.DistanceAuto
 ms.assetid: 8b4e6b93-6e68-5c4a-2164-1a88ca0a633e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

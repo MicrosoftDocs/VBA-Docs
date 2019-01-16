@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Close
 ms.assetid: 7758dbae-b624-d3b0-f42c-1404d40ecc78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

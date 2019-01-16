@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.Quit
 ms.assetid: 79948040-4848-b8e7-a70c-d23c1f416bac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

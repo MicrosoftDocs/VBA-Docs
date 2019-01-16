@@ -5,6 +5,7 @@ api_name:
 - Project.Project.GetTaskIndexByGuid
 ms.assetid: 6887241c-9daf-385b-42a2-7a82b37c8da7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

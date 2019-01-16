@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendKey.InvertIfNegative
 ms.assetid: 2a865359-2436-0d8b-553c-970f28da8125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

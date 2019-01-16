@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.HorizontalPictureLocking
 ms.assetid: 9a8cb8ec-24d1-4a21-d662-bcdfd26821df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

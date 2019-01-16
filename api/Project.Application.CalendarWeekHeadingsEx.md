@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CalendarWeekHeadingsEx
 ms.assetid: af964116-1d0e-7ab8-4674-4418c1c80f9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

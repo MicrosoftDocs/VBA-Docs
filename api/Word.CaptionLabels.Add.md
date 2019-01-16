@@ -8,6 +8,7 @@ api_name:
 - Word.CaptionLabels.Add
 ms.assetid: f74af8c0-fa16-8ea2-3012-ac207d187502
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

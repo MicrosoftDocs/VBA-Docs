@@ -8,6 +8,7 @@ api_name:
 - Project.Task.EarnedValueMethod
 ms.assetid: 3882a1aa-4226-b9f9-3d01-529fe9274399
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

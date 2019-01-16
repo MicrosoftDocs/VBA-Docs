@@ -8,6 +8,7 @@ api_name:
 - Word.Window
 ms.assetid: d92f83f9-ae44-56c0-4584-7a9359253c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

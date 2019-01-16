@@ -8,6 +8,7 @@ api_name:
 - Word.OMathMat
 ms.assetid: 40478b6e-18fe-b7b7-d0bc-def1349db56a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

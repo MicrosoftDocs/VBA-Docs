@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.Height
 ms.assetid: a81aed0f-141c-a1ca-19f0-1584680ca726
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

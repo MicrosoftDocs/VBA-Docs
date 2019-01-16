@@ -8,6 +8,7 @@ api_name:
 - Project.Application.SetResourceField
 ms.assetid: fbf71bbe-86cc-c53c-a0c3-0df288e2b480
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

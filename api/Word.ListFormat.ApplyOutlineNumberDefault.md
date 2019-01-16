@@ -8,6 +8,7 @@ api_name:
 - Word.ListFormat.ApplyOutlineNumberDefault
 ms.assetid: 8d3d26ad-e01c-8ad4-d4f4-86e71628e2c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

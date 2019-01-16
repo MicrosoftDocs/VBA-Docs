@@ -8,6 +8,7 @@ api_name:
 - Word.Template.LanguageIDFarEast
 ms.assetid: d9798c5a-1362-a713-0357-2599d5038c18
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

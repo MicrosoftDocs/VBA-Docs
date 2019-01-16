@@ -8,6 +8,7 @@ api_name:
 - Word.CoAuthoring.Parent
 ms.assetid: 10f5f867-5890-3e15-f180-e73420cd4528
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

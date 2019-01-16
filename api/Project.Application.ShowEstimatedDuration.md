@@ -5,6 +5,7 @@ api_name:
 - Project.Application.ShowEstimatedDuration
 ms.assetid: c32670b7-a2e8-a46b-f91d-88b20749fa46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

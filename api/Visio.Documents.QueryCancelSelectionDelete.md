@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.QueryCancelSelectionDelete
 ms.assetid: f5e900a6-e857-694d-2eda-59fa35f80bfd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

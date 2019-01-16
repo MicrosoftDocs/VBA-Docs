@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.CustomToolbarsFile
 ms.assetid: 0874023f-1e61-7842-be7d-9abe5c4ec63c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: ShapeRange.RerouteConnections Method (Project)
 ms.prod: project-server
 ms.assetid: fac10082-a7e3-9d7d-af75-536a35e7b3ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

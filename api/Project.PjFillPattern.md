@@ -5,6 +5,7 @@ api_name:
 - Project.PjFillPattern
 ms.assetid: 4f6af32c-5efd-42b6-4017-20a1497c1b6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings.PlaySettings
 ms.assetid: 2cfd1ed9-7ed0-0f69-4df5-43aa22e37f46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

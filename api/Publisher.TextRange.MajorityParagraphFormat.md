@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.MajorityParagraphFormat
 ms.assetid: d67e81fe-ab9b-8bfd-c31d-76feb1b6e15b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

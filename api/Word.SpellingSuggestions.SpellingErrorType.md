@@ -8,6 +8,7 @@ api_name:
 - Word.SpellingSuggestions.SpellingErrorType
 ms.assetid: 0d5c71a3-77eb-b36c-76b8-c6fd49bb6394
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

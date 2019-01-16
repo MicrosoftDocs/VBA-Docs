@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shapes.AddShape
 ms.assetid: 500d8cb3-f066-fdb6-09ac-b03c7822e8bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.CalendarDrivers.TotalDetectedCount
 ms.assetid: 4795fd3b-ed28-651a-ac86-abe055489832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

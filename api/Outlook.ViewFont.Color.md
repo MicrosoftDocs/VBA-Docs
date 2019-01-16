@@ -8,6 +8,7 @@ api_name:
 - Outlook.ViewFont.Color
 ms.assetid: 294d2be7-b974-3750-438f-498eaa4d8604
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

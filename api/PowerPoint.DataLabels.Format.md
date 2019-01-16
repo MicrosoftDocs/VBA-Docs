@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataLabels.Format
 ms.assetid: 1740e54f-6855-a936-bbcc-1cf08cdcc45d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

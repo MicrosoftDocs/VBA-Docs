@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.MaterialLabel
 ms.assetid: 802fd00b-3f0e-9ecf-6cb9-a8858f0137a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

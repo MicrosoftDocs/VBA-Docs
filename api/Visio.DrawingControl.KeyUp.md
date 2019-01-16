@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.KeyUp
 ms.assetid: 7b157acb-fc8d-5b31-d53c-0b319270a2b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

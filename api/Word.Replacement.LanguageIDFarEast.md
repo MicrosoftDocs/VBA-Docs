@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.LanguageIDFarEast
 ms.assetid: 66029c49-d297-5685-525c-79d7cacae1af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

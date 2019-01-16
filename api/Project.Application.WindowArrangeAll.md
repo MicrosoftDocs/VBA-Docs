@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WindowArrangeAll
 ms.assetid: 504db965-27ea-d0f5-5830-927555ac801c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

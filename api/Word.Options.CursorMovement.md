@@ -8,6 +8,7 @@ api_name:
 - Word.Options.CursorMovement
 ms.assetid: f73f8a6e-4a66-e3f8-7197-42d5c1f73bcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

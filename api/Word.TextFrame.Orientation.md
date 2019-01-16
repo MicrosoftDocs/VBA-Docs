@@ -8,6 +8,7 @@ api_name:
 - Word.TextFrame.Orientation
 ms.assetid: 480b0ebd-c39c-0159-06a1-c909111d9486
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

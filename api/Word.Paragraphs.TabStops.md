@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.TabStops
 ms.assetid: cf369030-7569-699f-d8be-7a24b63e22eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

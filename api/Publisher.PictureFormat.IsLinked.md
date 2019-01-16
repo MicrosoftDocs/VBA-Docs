@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.IsLinked
 ms.assetid: 2215cee8-864d-7228-8692-a428385d2be2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

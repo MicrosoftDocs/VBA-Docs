@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.LockAspectRatio
 ms.assetid: dd408737-405f-4b91-0eae-73161fe38425
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

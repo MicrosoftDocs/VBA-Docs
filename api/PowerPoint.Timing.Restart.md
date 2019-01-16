@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Timing.Restart
 ms.assetid: 0dd82d15-aa92-1de9-6406-957710c26fb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

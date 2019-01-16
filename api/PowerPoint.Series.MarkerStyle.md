@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.MarkerStyle
 ms.assetid: e985978e-f0cf-b809-ebe1-f5504e9e8df6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

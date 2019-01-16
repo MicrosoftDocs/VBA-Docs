@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.ListNumberStart
 ms.assetid: 8e17fdaa-f53e-26c4-d92b-8ead65c28555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

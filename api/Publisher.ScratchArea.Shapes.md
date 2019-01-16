@@ -8,6 +8,7 @@ api_name:
 - Publisher.ScratchArea.Shapes
 ms.assetid: 0d867fec-42f4-fd61-c6c3-745be955e5d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

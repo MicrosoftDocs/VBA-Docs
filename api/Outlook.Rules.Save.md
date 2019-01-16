@@ -8,6 +8,7 @@ api_name:
 - Outlook.Rules.Save
 ms.assetid: d838eca0-4ec5-ab43-a031-fd65ab7d9f3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

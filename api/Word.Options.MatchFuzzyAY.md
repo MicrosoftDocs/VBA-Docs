@@ -8,6 +8,7 @@ api_name:
 - Word.Options.MatchFuzzyAY
 ms.assetid: f9a56522-f3a8-0527-e0e9-9144ccc468bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

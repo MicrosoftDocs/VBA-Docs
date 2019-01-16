@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DrawBezier
 ms.assetid: 49cf1bfb-5b88-ca8d-4451-a9884768f780
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

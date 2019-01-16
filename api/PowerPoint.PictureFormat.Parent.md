@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PictureFormat.Parent
 ms.assetid: bb25c345-3b60-0484-1c21-4f2af88cc20f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

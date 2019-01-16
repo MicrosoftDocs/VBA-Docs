@@ -8,6 +8,7 @@ api_name:
 - Word.Footnotes.Count
 ms.assetid: 6acdf855-1c18-dd55-2131-b2b3d19f26bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

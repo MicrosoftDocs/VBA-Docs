@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.DefaultAngleUnits
 ms.assetid: 28c51825-bff1-8fca-2070-76912593c53b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

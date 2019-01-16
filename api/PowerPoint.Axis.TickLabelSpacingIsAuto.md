@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.TickLabelSpacingIsAuto
 ms.assetid: f0c644a4-2842-6468-9047-239f891dd0b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

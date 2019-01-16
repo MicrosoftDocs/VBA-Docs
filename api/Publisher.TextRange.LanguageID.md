@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.LanguageID
 ms.assetid: 1007c821-cafd-0cb3-94f4-4ac25decad30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

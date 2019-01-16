@@ -8,6 +8,7 @@ api_name:
 - Word.FillFormat.GradientStops
 ms.assetid: 3ae72292-2b7b-69af-35d4-5f887ce3c7ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

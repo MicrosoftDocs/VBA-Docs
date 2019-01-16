@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.CurrentScope
 ms.assetid: 8a2bf84d-419d-7776-2d7c-7b73c3203e66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

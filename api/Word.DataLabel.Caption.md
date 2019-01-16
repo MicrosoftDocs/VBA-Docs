@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabel.Caption
 ms.assetid: d57d63df-240f-b951-60a6-fa1c1d408644
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

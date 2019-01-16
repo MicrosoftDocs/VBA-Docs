@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.EffectiveResolution
 ms.assetid: 33e5323f-5e10-b2ed-62eb-03ecbbb1e893
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AutoFormatReplaceQuotes
 ms.assetid: 23fe2823-0aec-7deb-8fc1-ff70a79b19af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.MSGWrap.hwnd
 ms.assetid: 9e114e2d-06ae-38ee-f6a2-825cd0a4bb0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

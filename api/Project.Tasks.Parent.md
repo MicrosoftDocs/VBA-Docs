@@ -5,6 +5,7 @@ api_name:
 - Project.Tasks.Parent
 ms.assetid: a2e8cfce-9c04-6c1f-badc-0fe506df270b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

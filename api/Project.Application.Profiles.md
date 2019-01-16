@@ -8,6 +8,7 @@ api_name:
 - Project.Application.Profiles
 ms.assetid: 4b57eb31-f73d-6587-c555-fc14220e4a2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

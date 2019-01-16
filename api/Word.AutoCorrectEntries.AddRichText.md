@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrectEntries.AddRichText
 ms.assetid: e03f37ca-1011-825f-5a79-29a23f2371f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

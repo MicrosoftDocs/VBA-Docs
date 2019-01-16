@@ -8,6 +8,7 @@ api_name:
 - Word.LineFormat.Application
 ms.assetid: b06b47c3-486c-2f1d-a166-34bcd89be05d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: ShapeRange.Type Property (Project)
 ms.prod: project-server
 ms.assetid: ade37906-b00b-80db-879b-378b36c95e32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

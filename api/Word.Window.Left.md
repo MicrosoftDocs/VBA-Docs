@@ -8,6 +8,7 @@ api_name:
 - Word.Window.Left
 ms.assetid: 915fe24c-084b-f7f0-46ad-a69c186cf737
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

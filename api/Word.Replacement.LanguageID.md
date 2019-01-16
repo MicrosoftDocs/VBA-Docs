@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.LanguageID
 ms.assetid: a5dc1ef5-f195-7b8c-52c4-1cb8984e6cbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

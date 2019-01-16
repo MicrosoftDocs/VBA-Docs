@@ -8,6 +8,7 @@ api_name:
 - Word.Index.RightAlignPageNumbers
 ms.assetid: 2bec3b24-e30d-1fb0-f248-9e994b918ed4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

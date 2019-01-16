@@ -3,6 +3,7 @@ title: Project.IsCheckoutOSVisible Property (Project)
 ms.prod: project-server
 ms.assetid: 1b240231-dfa1-2cd3-310e-11c8c58791eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

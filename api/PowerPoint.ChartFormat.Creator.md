@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ChartFormat.Creator
 ms.assetid: 3d7a2b39-5fdc-0bd3-9c85-322bf89e2a65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

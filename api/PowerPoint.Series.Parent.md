@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.Parent
 ms.assetid: 1549d1bb-0a61-7772-fae4-3e6c941b7276
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

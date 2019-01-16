@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeZoneControl.MousePointer
 ms.assetid: 10a026ed-8587-469a-dc78-e1fd4fc0fbfc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
