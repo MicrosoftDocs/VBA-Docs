@@ -36,3 +36,4 @@ Returns an empty string if this property has not been implemented or does not ex
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

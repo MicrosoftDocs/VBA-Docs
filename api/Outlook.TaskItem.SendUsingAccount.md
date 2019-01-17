@@ -34,3 +34,4 @@ The  **SendUsingAccount** property can be used to specify the account that shoul
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

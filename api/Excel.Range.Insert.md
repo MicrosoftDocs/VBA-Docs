@@ -59,3 +59,4 @@ Range("2:2").Insert CopyOrigin:=xlFormatFromRightOrBelow
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the name of the object. Read/write  **String**.
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

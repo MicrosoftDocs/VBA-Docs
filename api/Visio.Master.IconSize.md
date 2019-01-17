@@ -42,3 +42,4 @@ The following constants declared by the Visio type library in  **VisMasterProper
 | **visWide**|3|
 | **visDouble**|4|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Constants that specify the type of mail merge, passed to and returned by the  **
 | **pbMailMerge**|2|Mail merge|
 | **pbMergeDefault**|0|Default merge|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

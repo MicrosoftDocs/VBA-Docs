@@ -29,3 +29,4 @@ Returns or sets the formatting for the tables of authorities in the specified do
 
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

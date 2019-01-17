@@ -39,3 +39,4 @@ MsgBox "The name of the active Protected View window is " & ActiveProtectedWindo
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

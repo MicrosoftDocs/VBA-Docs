@@ -29,3 +29,4 @@ Returns a  **TextFrame** object that represents the previous text frame in a col
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

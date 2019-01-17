@@ -30,3 +30,4 @@ Saves a single shape as a building block. Returns the resulting  **[BuildingBloc
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the new building block you want to create.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

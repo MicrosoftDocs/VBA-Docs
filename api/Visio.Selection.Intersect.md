@@ -35,4 +35,4 @@ Calling the  **Intersect** method is equivalent to clicking **Intersect** in the
 
 The original shapes are deleted and no shapes are selected when the operation is complete.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

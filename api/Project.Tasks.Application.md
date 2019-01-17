@@ -25,3 +25,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [Tasks Collection Object](Project.tasks(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ When you use this property for the horizontal axis of scatter charts,  **xlCateg
 
 [Axis Object](PowerPoint.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

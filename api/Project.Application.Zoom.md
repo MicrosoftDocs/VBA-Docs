@@ -28,4 +28,4 @@ Displays the  **Zoom** dialog box, which prompts the user to change the timescal
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

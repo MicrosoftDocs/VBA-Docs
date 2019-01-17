@@ -45,4 +45,4 @@ Specifies the folder type for a specified folder.
 
 Used as a parameter to the [NameSpace.GetSharedDefaultFolder](Outlook.NameSpace.GetSharedDefaultFolder.md), [NameSpace.GetDefaultFolder](Outlook.NameSpace.GetDefaultFolder.md), [Store.GetDefaultFolder](Outlook.Store.GetDefaultFolder.md), and [Folder.Add](Outlook.Folders.Add.md) methods. Also used by the [SharingItem.RequestFolder](Outlook.SharingItem.RequestedFolder.md) property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

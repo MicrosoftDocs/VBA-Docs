@@ -40,3 +40,4 @@ Applies a design template to the specified slide.
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

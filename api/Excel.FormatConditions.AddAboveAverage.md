@@ -39,3 +39,4 @@ The  **AboveAverage** object is used to find values above or below an average or
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

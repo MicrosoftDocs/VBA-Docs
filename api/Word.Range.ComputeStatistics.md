@@ -56,3 +56,4 @@ MsgBox "The first paragraph contains " & wordCount _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

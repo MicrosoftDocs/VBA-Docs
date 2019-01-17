@@ -29,3 +29,4 @@ Returns the status of creating a video in the current  **Presentation**. Read-on
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

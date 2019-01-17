@@ -77,3 +77,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Line Property](Project.shape.line.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

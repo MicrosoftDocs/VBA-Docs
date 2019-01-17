@@ -34,3 +34,4 @@ The key can either be a range name (String) or a  **Range** object.
 
 [SortField Object](Excel.SortField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

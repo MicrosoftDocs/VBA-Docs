@@ -317,3 +317,4 @@ Use the  **[Add](./Project.Resources.Add.md)** method to add a **Resource** obje
 |[Work](./Project.Resource.Work.md)|
 |[WorkVariance](./Project.Resource.WorkVariance.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

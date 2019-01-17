@@ -27,3 +27,5 @@ Gets a  **FillFormat** object for the shape range, if the shape range contains f
 
 [ShapeRange Object](Project.shaperange.md)
 [FillFormat](https://msdn.microsoft.com/library/office/ff838198%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

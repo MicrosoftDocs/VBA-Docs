@@ -40,4 +40,4 @@ If you successfully create a data recordset but it fails to retrieve any data fr
 
 The first time you execute a query against a data recordset,  **TimeRefreshed** is set to the time the query is executed. If, subsequently, the **[Refresh](Visio.DataRecordset.Refresh.md)** method is called, **TimeRefreshed** is set to the time the data recordset is refreshed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

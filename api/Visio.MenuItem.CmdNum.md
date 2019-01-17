@@ -40,4 +40,4 @@ To insert a separator in a menu preceding a  **MenuItem** object, use the **Begi
 
 Valid command IDs are declared by the Visio type library in  **[VisUICmds](Visio.visuicmds.md)**. They have the prefix **visCmd**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -68,3 +68,4 @@ To run a macro or event procedure in response to pressing and releasing the mous
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

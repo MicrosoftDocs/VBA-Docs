@@ -41,3 +41,4 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ After using this method, use the  **[Selection](Word.Selection.md)** property to
 
 [Column Object](Word.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

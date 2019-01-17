@@ -40,3 +40,4 @@ If num <> 0 Then ActiveDocument.Content.Bookmarks(num).Select
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

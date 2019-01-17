@@ -40,3 +40,4 @@ Forms.Item("Suppliers").Controls.Item("Label20").Hyperlink. _
 
 [Hyperlink Object](Access.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

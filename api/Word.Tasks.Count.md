@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of tasks in the collection. Read-
 
 [Tasks Collection Object](Word.tasks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

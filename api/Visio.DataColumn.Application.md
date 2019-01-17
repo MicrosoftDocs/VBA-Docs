@@ -31,4 +31,4 @@ Returns the instance of Microsoft Visio that is associated with a  **DataColumn*
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ A folder can only appear in one navigation group. When adding a  **Folder** obje
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

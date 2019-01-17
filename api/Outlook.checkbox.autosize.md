@@ -30,4 +30,4 @@ For controls with captions, the  **AutoSize** property specifies whether the con
 
 If you manually change the size of a control while  **AutoSize** is **True**, the manual change overrides the size previously set by  **AutoSize**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

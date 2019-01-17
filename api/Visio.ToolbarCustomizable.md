@@ -40,4 +40,4 @@ The following code makes the toolbar non-customizable in Visio Viewer.
 vsoViewer.ToolbarCustomizable = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ If the  **[SharingProvider](Outlook.SharingItem.SharingProvider.md)** property o
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

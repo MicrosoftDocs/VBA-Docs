@@ -44,3 +44,4 @@ End If
 
 [ListRows Object](Excel.ListRows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

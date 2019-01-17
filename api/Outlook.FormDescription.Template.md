@@ -34,3 +34,4 @@ This property refers to a Microsoft Office Word .DOT template file, and so is ap
 
 [FormDescription Object](Outlook.FormDescription.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

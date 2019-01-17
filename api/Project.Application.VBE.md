@@ -28,4 +28,4 @@ Gets the  **VBE** object that represents the Visual Basic Editor. Read-only **VB
 
 To use the  **VBE** object, set a reference to the Microsoft Visual Basic for Applications Extensibility 5.3 (VBIDE) library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

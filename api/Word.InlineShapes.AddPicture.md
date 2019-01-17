@@ -40,3 +40,4 @@ Adds a picture to a document. Returns an  **[InlineShape](Word.InlineShape.md)**
 
 [InlineShapes Collection Object](Word.inlineshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

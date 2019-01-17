@@ -47,5 +47,5 @@ Because the index number for a particular chart group can change if the chart fo
 -  **[LineGroups](Excel.LineGroups.md)** method
     
 -  **[PieGroups](Excel.PieGroups.md)** method
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

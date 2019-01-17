@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Trendlines](./Excel.Trendlines(object
 
 [Trendlines Object](Excel.Trendlines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

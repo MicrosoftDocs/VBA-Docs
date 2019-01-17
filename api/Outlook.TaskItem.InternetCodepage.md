@@ -96,3 +96,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

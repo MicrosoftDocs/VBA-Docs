@@ -121,3 +121,4 @@ Forms!Products.DatasheetFontWeight = 500
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

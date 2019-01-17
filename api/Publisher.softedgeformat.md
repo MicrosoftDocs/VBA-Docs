@@ -26,3 +26,4 @@ Represents the soft edge formatting for a shape or range of shapes.
 |[Type](Publisher.softedgeformat.type.md)|
 |[Visible](Publisher.softedgeformat.visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

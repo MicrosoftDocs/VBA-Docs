@@ -20,3 +20,4 @@ Specifies constants that define the size of the controls on the ribbon.
 |**RibbonControlSizeLarge**|1|Large controls.|
 |**RibbonControlSizeRegular**|0|Small controls. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

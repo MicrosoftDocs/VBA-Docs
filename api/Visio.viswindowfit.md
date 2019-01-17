@@ -22,3 +22,4 @@ Values returned by the  **Window.ViewFit** property.
 | **visFitPage**|1|Fit whole page.|
 | **visFitWidth**|2|Fit to page width.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

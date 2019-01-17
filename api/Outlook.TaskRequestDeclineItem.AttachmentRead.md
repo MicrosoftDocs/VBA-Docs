@@ -74,3 +74,4 @@ End Sub
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,3 +51,4 @@ The  **SheetPivotTableBeforeCommitChanges** event occurs immediately before Exce
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [SelectNamesDialog](./Outlook.SelectNa
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

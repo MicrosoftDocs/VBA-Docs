@@ -40,4 +40,4 @@ The following line of code prints the latest date that the resource is available
 Debug.Print ActiveProject.Resources(1).Availabilities(2).AvailableFrom
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

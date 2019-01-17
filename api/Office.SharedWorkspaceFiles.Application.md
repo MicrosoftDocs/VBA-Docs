@@ -38,3 +38,4 @@ Object
 
 [SharedWorkspaceFiles Object Members](./overview/Library-Reference/sharedworkspacefiles-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

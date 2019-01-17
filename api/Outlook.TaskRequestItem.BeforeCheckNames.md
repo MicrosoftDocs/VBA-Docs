@@ -52,3 +52,4 @@ The event does not fire under the following circumstances:
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

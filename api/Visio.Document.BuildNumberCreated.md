@@ -39,3 +39,4 @@ The format of the build number is described in the following table.
 |:-----|:-----|
 |0 - 15 |Internal build number |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

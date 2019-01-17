@@ -39,3 +39,4 @@ Only the  **xlDatabase** and **xlExternal** data source types are supported.
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

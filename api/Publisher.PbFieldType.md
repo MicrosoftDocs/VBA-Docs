@@ -36,3 +36,4 @@ Represents the field type.
 | **pbFieldPhoneticGuide**|7|Phonetic guide|
 | **pbFieldWizardSampleText**|8|Wizard sample text|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

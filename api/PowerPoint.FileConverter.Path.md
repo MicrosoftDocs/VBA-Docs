@@ -29,3 +29,4 @@ Returns the disk or Web path to the specified object. Read-only  **String**.
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

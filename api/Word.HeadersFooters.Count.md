@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of headers and/or footers in the 
 
 [HeadersFooters Collection Object](Word.headersfooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

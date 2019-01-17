@@ -39,3 +39,4 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.ColorIndex = 3
 
 [Axis Object](Excel.Axis(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

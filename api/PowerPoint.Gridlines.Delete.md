@@ -26,3 +26,4 @@ Deletes the object.
 
 [GridLines Object](PowerPoint.GridLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

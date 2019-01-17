@@ -44,3 +44,4 @@ End If
 
 [Border Object](Excel.Border(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Integer
 
 Constants that represent sections are prefixed with  **visSection** and are declared by the Microsoft Visio type library in **[VisSectionIndices](Visio.vissectionindices.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

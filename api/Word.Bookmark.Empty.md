@@ -47,3 +47,4 @@ End If
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

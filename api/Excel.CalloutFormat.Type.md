@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md
 
 [CalloutFormat Object](Excel.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

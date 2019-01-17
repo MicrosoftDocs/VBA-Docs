@@ -29,3 +29,4 @@ Returns or sets the value of a custom property. Read/write  **String**.
 
 [CustomProperty Object](Word.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

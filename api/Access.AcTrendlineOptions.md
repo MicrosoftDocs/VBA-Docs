@@ -26,3 +26,5 @@ Specifies the type of trendline to render for a chart series.
 |**acTrendlineNone**|0|None|
 |**acTrendlinePolynomial**|4|Polynomial|
 |**acTrendlinePower**|5|Power|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

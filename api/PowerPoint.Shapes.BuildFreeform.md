@@ -68,3 +68,4 @@ This example adds a freeform with four segments to `myDocument`.
 
 - [Shapes object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

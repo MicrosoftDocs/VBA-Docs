@@ -49,4 +49,4 @@ Private Sub Project_Activate(ByVal pj As MSProject.Project)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

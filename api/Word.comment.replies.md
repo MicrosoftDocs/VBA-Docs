@@ -39,3 +39,4 @@ The [Comments.ShowBy](Word.Comments.ShowBy.md) property fails when called on the
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

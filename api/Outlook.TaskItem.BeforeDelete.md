@@ -42,3 +42,4 @@ The event occurs each time an item is deleted.
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

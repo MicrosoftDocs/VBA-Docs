@@ -33,4 +33,4 @@ String
 
 You can get, but not set, the  **Name** property of an **Addon** object or a **Font** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

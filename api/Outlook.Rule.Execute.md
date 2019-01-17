@@ -59,3 +59,4 @@ If you plan to show a custom progress user interface instead of using the progre
 
 [Rule Object](Outlook.Rule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

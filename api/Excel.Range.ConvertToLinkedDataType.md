@@ -61,3 +61,5 @@ Range("E6").ConvertToLinkedDataType ServiceID:=536870912, LanguageCulture:= "en-
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

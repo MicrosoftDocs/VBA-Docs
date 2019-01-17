@@ -60,3 +60,4 @@ For a resource outline code, the  **FieldID** can be one of the following **PjCu
 |**pjCustomResourceOutlineCode9**|
 |**pjCustomResourceOutlineCode10**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

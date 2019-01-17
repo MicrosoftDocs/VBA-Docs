@@ -47,3 +47,4 @@ The  **RuleActions** collection object is a fixed collection. It contains **Rule
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

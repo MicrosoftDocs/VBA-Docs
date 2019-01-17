@@ -41,4 +41,4 @@ Shows or hides the late tasks style on the active Gantt chart.
 
 On the Ribbon, the  **GanttBarStyleLate** method corresponds to the **Late Tasks** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -100,3 +100,4 @@ End Sub
 
 [OrderField Object](Outlook.OrderField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

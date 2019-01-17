@@ -21,3 +21,4 @@ Contains constants that specify the type of filter for a view.
 |**pjFilterViewTypeTask**|0|Task view type.|
 |**pjFilterViewTypeUseView**|65535|The filter matches the view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

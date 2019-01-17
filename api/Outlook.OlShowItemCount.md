@@ -28,4 +28,4 @@ Indicates which type of Microsoft Outlook item count is displayed for folders in
 
 Used by the [Folder.ShowItemCount Property (Outlook)](Outlook.Folder.ShowItemCount.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

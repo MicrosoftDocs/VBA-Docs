@@ -43,3 +43,4 @@ ActiveDocument.Indexes.Add(Range:=myRange, Type:=wdIndexIndent, _
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

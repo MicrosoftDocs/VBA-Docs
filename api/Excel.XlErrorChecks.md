@@ -27,3 +27,4 @@ Specifies the type of error object to be retrieved from the  **Errors** collecti
 | **xlTextDate**|2|Date entered as text.|
 | **xlUnlockedFormulaCells**|6|Formula cells are unlocked.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

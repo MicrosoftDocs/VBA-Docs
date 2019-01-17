@@ -28,4 +28,4 @@ Refreshes the window.
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

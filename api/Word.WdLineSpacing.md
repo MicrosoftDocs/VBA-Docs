@@ -24,3 +24,4 @@ Specifies a line spacing format to be applied to a paragraph.
 | **wdLineSpaceMultiple**|5|Line spacing determined by the number of lines indicated.|
 | **wdLineSpaceSingle**|0|Single spaced. default|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

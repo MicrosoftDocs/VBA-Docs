@@ -24,3 +24,4 @@ Indicates the text alignment scheme used for an object.
 |**msoFontAlignMixed**|-2|Specifies that there is a mix of text alignments used with the object. |
 |**msoFontAlignTop**|1|Specifies that the font is aligned to the top of the object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

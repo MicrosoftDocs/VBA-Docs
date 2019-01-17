@@ -53,4 +53,4 @@ ActiveDocument.Pages(1).Shapes.AddWebNavigationBar _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

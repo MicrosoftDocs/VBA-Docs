@@ -34,3 +34,4 @@ Specifies a shape type for inline shapes.
 | **wdInlineShapeSmartArt**|15|A SmartArt graphic.|
 | **wdInlineShapeWebVideo**|16|A picture acting as a poster frame for a web video.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,5 @@ The timeline view is used to create a high level visualization of the project pl
 
 
 [Project object model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

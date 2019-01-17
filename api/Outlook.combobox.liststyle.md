@@ -35,4 +35,4 @@ The settings for  **ListStyle** are:
 
 The  **ListStyle** property lets you change the visual presentation of a **ComboBox**. By specifying a setting other than 0, you can present the contents of either control as a group of individual items, with each item including a visual cue to indicate whether it is selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

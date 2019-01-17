@@ -35,4 +35,4 @@ The  **ToggleTaskDetails** method corresponds to selecting or clearing the **Det
 
 You can use  **ToggleTaskDetails** to add a **Task Form** split view to other views except an empty Timeline view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

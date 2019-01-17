@@ -36,3 +36,4 @@ The  **Address** property must be set before calling the **[ExchangeDistribution
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

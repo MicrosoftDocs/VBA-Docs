@@ -58,3 +58,4 @@ End With
 
 [LegendEntries Object](Word.LegendEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

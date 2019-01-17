@@ -47,3 +47,4 @@ docActive.Shapes(1).PictureFormat.Brightness = 0.3
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

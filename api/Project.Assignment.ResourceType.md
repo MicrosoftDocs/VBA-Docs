@@ -28,4 +28,4 @@ Gets the type of resource for the assignment. Read-only  **PjResourceTypes**.
 
 The  **ResourceType** property can be one of the following **[PjResourceTypes](Project.PjResourceTypes.md)** constants: **pjResourceTypeWork** or **pjResourceTypeMaterial**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

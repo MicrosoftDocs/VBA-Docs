@@ -34,3 +34,4 @@ The contents of the clipboard are pasted in unformatted text.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

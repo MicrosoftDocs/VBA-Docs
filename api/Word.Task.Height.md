@@ -29,3 +29,4 @@ Returns or sets the height of the specified task window. Read/write  **Long**.
 
 [Task Object](Word.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ ActiveDocument.Words(1).Italic = True
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

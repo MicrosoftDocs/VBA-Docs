@@ -33,4 +33,4 @@ However, you can still use custom Project Guides and get the default Project Gui
 
 The default value of the  **ProjectGuideFunctionalLayoutPage** property is `gbui://mainpage.htm`, which does not work because Project does not implement the  `gbui://` protocol. The Project Programmability blog ( `https://blogs.msdn.com/project_programmability/`) includes articles that show how to use the Project Guide in a VBA macro and in an add-in that is developed with Visual C# in Microsoft Office development tools in Visual Studio 2010.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

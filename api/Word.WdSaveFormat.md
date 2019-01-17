@@ -46,3 +46,4 @@ Specifies the format to use when saving a document.
 | **wdFormatXMLTemplateMacroEnabled**|15|XML template format with macros enabled.|
 | **wdFormatXPS**|18|XPS format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -77,3 +77,4 @@ MsgBox (CommandBars("Custom").Controls(1).Tag)
 
 - [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

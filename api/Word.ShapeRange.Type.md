@@ -29,3 +29,4 @@ Returns the shape type. Read-only  **MsoShapeType**.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

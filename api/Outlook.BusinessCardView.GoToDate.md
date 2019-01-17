@@ -37,3 +37,4 @@ _expression_. `GoToDate`( `_Date_` )
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

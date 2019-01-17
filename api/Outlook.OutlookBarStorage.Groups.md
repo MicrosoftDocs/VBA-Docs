@@ -39,3 +39,4 @@ Sub CountOlBarGroups()     Dim myOlBar As Outlook.OutlookBarPane     Dim myCount
 
 [OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

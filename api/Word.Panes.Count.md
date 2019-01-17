@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of panes in the collection. Read-
 
 [Panes Collection Object](Word.panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

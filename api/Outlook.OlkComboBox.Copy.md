@@ -36,3 +36,4 @@ If the control style is  **olComboBoxStyleListBox** , then this method copies th
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

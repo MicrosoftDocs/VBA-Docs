@@ -20,3 +20,4 @@ Specifies how to evenly distribute a collection of shapes. Used with the  **Dist
 |**msoDistributeHorizontally**|0|Distribute horizontally.|
 |**msoDistributeVertically**|1|Distribute vertically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

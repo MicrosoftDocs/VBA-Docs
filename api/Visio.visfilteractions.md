@@ -22,3 +22,4 @@ Drag-state extensions of the  **MouseMove** event to filter, corresponding to us
 | **visFilterMouseMoveDragOver**|3|Filter the  **DragOver** extension of the **MouseMove** event.|
 | **visFilterMouseMoveNoDrag**|0|Do not filter any extensions of the  **MouseMove** event.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

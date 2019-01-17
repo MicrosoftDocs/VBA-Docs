@@ -34,3 +34,4 @@ Corresponds to the MAPI property  **PidTagConversationTopic**.
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

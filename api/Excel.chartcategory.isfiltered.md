@@ -37,4 +37,4 @@ When a series is transferred out of its parent  **SeriesCollection** , that seri
 
 [ChartCategory Object](Excel.chartcategory.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

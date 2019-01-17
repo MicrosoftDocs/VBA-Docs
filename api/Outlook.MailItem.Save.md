@@ -34,3 +34,4 @@ If a mail item is an inline reply, calling  **Save** on that mail item may fail 
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

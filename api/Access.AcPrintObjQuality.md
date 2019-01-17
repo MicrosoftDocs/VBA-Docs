@@ -25,3 +25,4 @@ Used with the  **PrintQuality** property to specify the resolution at which the 
 |**acPRPQLow**|-2|The printer prints in low quality.|
 |**acPRPQMedium**|-3|The printer prints in medium quality.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

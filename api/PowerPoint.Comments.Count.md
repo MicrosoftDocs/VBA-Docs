@@ -49,3 +49,4 @@ End With
 
 [Comments Object](PowerPoint.Comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

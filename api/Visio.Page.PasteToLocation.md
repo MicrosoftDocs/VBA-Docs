@@ -43,4 +43,4 @@ Pastes the shape to the specified location on the page.
 
 The  _Flags_ parameter value can also be **visCopyPasteDontAddToContainers**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

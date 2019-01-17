@@ -47,3 +47,4 @@ ActiveDocument.Shapes.Range(Array(1, 3)).Title = "Part of a shape array."
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

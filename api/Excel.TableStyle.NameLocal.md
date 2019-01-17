@@ -34,3 +34,4 @@ If the style is a built-in style, this property returns the name of the style in
 
 [TableStyle Object](Excel.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

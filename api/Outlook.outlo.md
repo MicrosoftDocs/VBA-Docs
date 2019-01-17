@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [ViewCtl Object (Outlook View Control)](Outlook.viewc.md)
     
 -  [OlxDefaultFolders Enumeration (Outlook View Control)](Outlook.olxdefaultfolde.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

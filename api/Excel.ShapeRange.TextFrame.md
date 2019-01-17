@@ -40,3 +40,4 @@ Worksheets(1).Shapes(1).TextFrame _
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

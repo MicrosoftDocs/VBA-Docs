@@ -35,4 +35,4 @@ Numeric values are evaluated as points; string values can be in any unit support
 
 This property applies only to publications where multiple pages will be printed on each printer sheet. Using this property for any other publication raises an error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

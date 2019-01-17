@@ -37,4 +37,4 @@ The  **PanAndZoom** property corresponds to the **Pan and Zoom** check box under
 
  **Note**  The  **Pan and Zoom** control is supported for the VML output format in Microsoft Internet Explorer 5 and later. The **Pan and Zoom** control is not available in SVG, JPG, GIF, and PNG output formats.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

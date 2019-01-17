@@ -37,3 +37,4 @@ Sets the list level for one or more items in a numbered list.
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

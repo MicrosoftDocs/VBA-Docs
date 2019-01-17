@@ -34,3 +34,4 @@ If the range is discontinuous, the first area is used. If the range is more than
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

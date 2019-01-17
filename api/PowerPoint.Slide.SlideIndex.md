@@ -49,3 +49,4 @@ MsgBox SlideShowWindows(1).View.Slide.SlideIndex
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

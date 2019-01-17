@@ -48,4 +48,4 @@ For Each objPage In ActiveDocument.Pages
 Next objPage
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

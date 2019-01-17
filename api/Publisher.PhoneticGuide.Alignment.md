@@ -28,4 +28,4 @@ Returns a  **PbPhoneticGuideAlignmentType** constant that represents the positio
 
 The  **Alignment** property value can be one of the **[PbPhoneticGuideAlignmentType](Publisher.PbPhoneticGuideAlignmentType.md)** constants declared in the Microsoft Publisher type library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ The  **GroupMaintainHierarchy** method corresponds to the following command on t
 
 For example, if tasks are grouped by the Critical group, the  `GroupMaintainHierarchy True` command shows the summary tasks in the **Critical: No** and **Critical: Yes** groups. The `GroupMaintainHierarchy False` command hides summary tasks in the groups. If no group is applied to the view, **GroupMaintainHierarchy** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

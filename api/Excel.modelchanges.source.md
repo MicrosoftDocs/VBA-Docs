@@ -38,3 +38,4 @@ The source can be either Excel or a PowerPivot Add-in.
 
 [ModelChanges Object](Excel.modelchanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

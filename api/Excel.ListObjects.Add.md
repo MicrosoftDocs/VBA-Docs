@@ -74,3 +74,4 @@ TableStyleName:=xlGuess, Destination:=Range("A10"))
 
 [ListObjects Object](Excel.ListObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

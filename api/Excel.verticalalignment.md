@@ -38,4 +38,4 @@ This example centers the chart title vertically.
 myChart.ChartTitle.VerticalAlignment = xlCenter
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

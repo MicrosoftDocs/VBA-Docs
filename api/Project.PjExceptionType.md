@@ -26,3 +26,4 @@ Contains constants that specify a type of calendar exception.
 |**pjYearlyMonthDay**|2|The exception recurrence pattern is yearly on a specified day of a month, for example on December 24.|
 |**pjYearlyPositional**|3|The exception recurrence pattern is yearly on a specified position of a day in a month, for example the fourth Friday of every month.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,5 @@ Gets an individual  **Shape** object in the shape range collection.
 
 [ShapeRange Object](Project.shaperange.md)
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,4 @@ Gets the GUID of the resource. Read-only  **String**.
 
  _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
 [ChartCharacters Object](Word.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

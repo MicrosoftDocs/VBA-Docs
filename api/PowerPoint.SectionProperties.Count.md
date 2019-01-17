@@ -29,3 +29,4 @@ Returns the number of objects in the specified collection. Read-only.
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AllTables](Access.AllTables.md) obje
 
 [AllTables Collection](Access.AllTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

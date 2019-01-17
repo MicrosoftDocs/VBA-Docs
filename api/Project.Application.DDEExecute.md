@@ -42,4 +42,4 @@ Performs actions or runs commands in another application through dynamic data ex
 
 If your macro displays a dialog box in another application, you may need to increase the default value for Timeout.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

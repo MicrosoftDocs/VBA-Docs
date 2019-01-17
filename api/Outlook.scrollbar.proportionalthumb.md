@@ -30,4 +30,4 @@ The size of a proportional scroll box graphically represents the percentage of t
 
 If the scroll box is a fixed size, the system determines its size based on the height and width of the scroll bar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

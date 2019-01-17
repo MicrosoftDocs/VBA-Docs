@@ -48,3 +48,4 @@ End Sub
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

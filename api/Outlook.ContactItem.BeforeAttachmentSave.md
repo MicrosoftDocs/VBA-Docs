@@ -42,3 +42,4 @@ In VBScript, if you set the return value of this function to  **False** , the sa
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

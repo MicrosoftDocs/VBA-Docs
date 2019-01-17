@@ -29,3 +29,4 @@ Returns a  **Boolean** that represents whether an XML node has child nodes. Read
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

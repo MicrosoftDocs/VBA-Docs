@@ -27,3 +27,5 @@ Gets or sets the style of the shape range. Read/write  **[MsoShapeStyleIndex](ht
 
 [ShapeRange Object](Project.shaperange.md)
 [MsoShapeStyleIndex](https://msdn.microsoft.com/library/office/ff862067%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

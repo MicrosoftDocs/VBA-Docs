@@ -25,3 +25,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

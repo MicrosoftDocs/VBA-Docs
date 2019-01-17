@@ -30,4 +30,4 @@ The  **Count** property for the **Day** object is the value 1, as in the followi
 Debug.Print ActiveProject.Resources(1).Calendar.WeekDays(3).Count
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Can be 1 through 9, A through Z, or A1 through Z9. Priority 1 is the highest.
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

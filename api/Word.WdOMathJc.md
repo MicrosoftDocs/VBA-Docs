@@ -23,3 +23,4 @@ Specifies the default justification for equations.
 | **wdOMathJcLeft**|3|Left.|
 | **wdOMathJcRight**|4|Right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

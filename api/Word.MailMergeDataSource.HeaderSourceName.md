@@ -57,3 +57,4 @@ End If
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ This property contains only the display names, delimited by semicolon (;) charac
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ The  **Item** method is not required in some cases; for example, the following e
 ? ActiveProject.Reports("Simple scalar chart").Shapes(1).Chart.SeriesCollection(1).Name
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

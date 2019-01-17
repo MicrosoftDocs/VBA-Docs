@@ -26,4 +26,4 @@ Use the  **ChartArea** property to return the **ChartArea** object. The followin
 myChart.ChartArea.Interior.Pattern = xlLightDown
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

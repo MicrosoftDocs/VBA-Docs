@@ -57,3 +57,4 @@ _fDelay_ applies only if _Style_ is **[msoContactCardStyleHover](office.msoconta
 
 - [ContactCard object members](overview/library-reference/contactcard-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

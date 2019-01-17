@@ -48,3 +48,4 @@ This method will result in a run-time error if the  **[MaintainConnection](Excel
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

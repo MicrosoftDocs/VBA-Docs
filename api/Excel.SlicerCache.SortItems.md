@@ -41,3 +41,4 @@ The  **SortItems** property of the **SlicerCache** object only applies to slicer
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

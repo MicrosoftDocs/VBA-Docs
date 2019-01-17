@@ -29,3 +29,4 @@ _expression_ A variable that represents an [Errors](Excel.Errors.md) object.
 
 [Errors Object](Excel.Errors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

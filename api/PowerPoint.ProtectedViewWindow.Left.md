@@ -34,3 +34,4 @@ Returns or sets the distance in points from the left edge of the specified windo
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

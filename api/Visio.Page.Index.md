@@ -39,4 +39,4 @@ You may only assign a new index to a foreground page. Background pages are unord
 
 Use the  **BackPage** property to assign a background page to a foreground page or to another background page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

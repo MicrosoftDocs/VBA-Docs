@@ -85,3 +85,5 @@ The following example modifies the first link in the shared workspace site to po
 
 
 [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

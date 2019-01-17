@@ -29,5 +29,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.IVDocuments.GetEnumerator()** (to enumerate the **Document** objects.)
     
 -  **Microsoft.Office.Interop.Visio.IVDocuments** (to access the collection.)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

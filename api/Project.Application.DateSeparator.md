@@ -28,4 +28,4 @@ Gets the date separator character. Read-only  **String**.
 
 Project sets the  **DateSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateSeparator** property value is "/".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

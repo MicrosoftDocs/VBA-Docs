@@ -24,3 +24,4 @@ Specifies whether the graph range is animated by series, category, or element.
 |**ppAnimateChartAllAtOnce**|5|Chart all at once|
 |**ppAnimateChartMixed**|-2|Chart mixed|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

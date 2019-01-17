@@ -31,4 +31,4 @@ The default property for a  **MultiPage** is the **[Value](Outlook.multipage.val
 
 The  **MultiPage** control does not support the **[Click](Outlook.multipage.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

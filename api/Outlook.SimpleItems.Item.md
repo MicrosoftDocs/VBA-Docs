@@ -47,3 +47,4 @@ If this method fails to return an object in the collection as specified by the  
 
 [SimpleItems Object](Outlook.SimpleItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

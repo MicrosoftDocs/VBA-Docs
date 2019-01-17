@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TablesOfAuthoritiesCategories Collection Object](Word.tablesofauthoritiescategories.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

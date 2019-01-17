@@ -21,3 +21,4 @@ Specifies the numbering rule to apply.
 | **wdRestartPage**|2|Numbers are reset for each page.|
 | **wdRestartSection**|1|Numbers are reset for each section.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Contains constants that specify one of the five resource cost rate tables.
 |**pjCostRateTableD**|3|Cost rate table D.|
 |**pjCostRateTableE**|4|Cost rate table E.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

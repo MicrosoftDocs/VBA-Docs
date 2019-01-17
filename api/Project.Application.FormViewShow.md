@@ -28,4 +28,4 @@ Shows or hides the form view in the lower pane.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

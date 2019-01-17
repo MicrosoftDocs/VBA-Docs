@@ -29,3 +29,4 @@ Returns or sets the shape style for the shapes in the specified shape range. Rea
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

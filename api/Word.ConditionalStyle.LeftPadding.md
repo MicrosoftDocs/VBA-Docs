@@ -45,3 +45,4 @@ ActiveDocument.Tables(1).LeftPadding = _
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

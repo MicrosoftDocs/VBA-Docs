@@ -29,3 +29,4 @@ Deletes the specified file on the list of recent files.
 
 [RecentFile Object](Word.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

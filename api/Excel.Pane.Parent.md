@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Pane](Excel.Pane.md) object.
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

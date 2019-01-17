@@ -37,3 +37,4 @@ _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

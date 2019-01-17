@@ -34,3 +34,4 @@ This property is useful to limit the range of values that will display the condi
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

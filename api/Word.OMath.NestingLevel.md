@@ -29,3 +29,4 @@ Returns a  **Long** that represents the nesting level for an **OMath** object. R
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

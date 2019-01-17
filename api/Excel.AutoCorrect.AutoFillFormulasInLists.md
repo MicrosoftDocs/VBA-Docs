@@ -34,3 +34,4 @@ _expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph
 
 [AutoCorrect Object](Excel.AutoCorrect(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

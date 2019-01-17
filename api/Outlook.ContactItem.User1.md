@@ -34,3 +34,4 @@ The properties  **ContactItem.User1** , **[ContactItem.User2](Outlook.ContactIte
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

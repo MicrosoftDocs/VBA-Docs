@@ -41,3 +41,4 @@ ActiveDocument.TablesOfContents(1).UpdatePageNumbers
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of heading styles in the collecti
 
 [HeadingStyles Collection Object](Word.headingstyles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

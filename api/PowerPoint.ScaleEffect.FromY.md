@@ -43,3 +43,4 @@ Do not confuse this property with the  **From** property of the **[ColorEffect](
 
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

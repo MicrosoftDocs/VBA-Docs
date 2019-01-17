@@ -68,3 +68,4 @@ If you double-click any other control besides a command button, the second  **Cl
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

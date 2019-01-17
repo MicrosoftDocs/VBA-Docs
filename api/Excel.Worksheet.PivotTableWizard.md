@@ -67,3 +67,4 @@ ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

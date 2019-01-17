@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagSensitivity**.
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

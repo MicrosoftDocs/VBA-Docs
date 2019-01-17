@@ -51,3 +51,4 @@ Canceling the  **Dirty** event will cause the changes to the current record to b
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

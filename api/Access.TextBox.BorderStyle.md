@@ -52,3 +52,4 @@ A control's border style is visible only when its  **SpecialEffect** property is
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ ActiveDocument.Paragraphs.RightIndent = InchesToPoints(1)
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

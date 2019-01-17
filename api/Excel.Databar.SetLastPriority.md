@@ -37,3 +37,4 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

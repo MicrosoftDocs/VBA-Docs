@@ -24,3 +24,4 @@ Specifies constants that define which data recordsets to publish; passed to the 
 | **visPublishDataRecordsetNone**|1|Publish none of the data recordsets in the document.|
 | **visPublishDataRecordsetSelect**|2|Publish selected data recordsets.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

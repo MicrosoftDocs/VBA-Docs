@@ -51,3 +51,4 @@ ActivePresentation.Slides(1).Shapes(3) _
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

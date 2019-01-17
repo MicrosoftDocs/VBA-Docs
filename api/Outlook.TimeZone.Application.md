@@ -29,3 +29,4 @@ _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) obje
 
 [TimeZone Object](Outlook.TimeZone.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

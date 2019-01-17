@@ -38,4 +38,4 @@ This example sets the first shape in the active publication to appear in black-a
 ActiveDocument.Pages(1).Shapes(1).BlackWhiteMode = msoBlackWhiteBlack
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

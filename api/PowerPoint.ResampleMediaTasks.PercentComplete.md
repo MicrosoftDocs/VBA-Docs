@@ -29,3 +29,4 @@ Returns the percentage of completion of the sample. Read-only.
 
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

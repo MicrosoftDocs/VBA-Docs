@@ -78,3 +78,4 @@ The type of wizard page to add.
 | **pbWizardPageTypeWebSignupForm**|527|Web Signup Form|
 | **pbWizardPageTypeWebSpecial**|522|Web Special|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

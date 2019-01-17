@@ -40,3 +40,4 @@ myDocument.Shapes(1).PictureFormat.Contrast = 0.8
 
 [Graphic Object](Excel.Graphic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

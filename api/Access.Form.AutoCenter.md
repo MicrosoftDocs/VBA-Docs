@@ -47,3 +47,4 @@ If you make any changes in Design view to a form whose  **AutoResize** property 
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

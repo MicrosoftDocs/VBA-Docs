@@ -36,3 +36,4 @@ Once you establish a reference to the  **COMAddIns** collection object, you can 
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

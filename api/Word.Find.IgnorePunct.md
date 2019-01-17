@@ -34,3 +34,4 @@ This property corresponds to the  **Ignore punctuation characters** check box in
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

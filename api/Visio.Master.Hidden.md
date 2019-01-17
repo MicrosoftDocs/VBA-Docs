@@ -33,4 +33,4 @@ Integer
 
 A master that is hidden still appears in the  **Drawing Explorer** window.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

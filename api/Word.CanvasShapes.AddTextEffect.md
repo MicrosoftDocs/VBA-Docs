@@ -76,3 +76,4 @@ End Sub
 
 [CanvasShapes Collection](Word.CanvasShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

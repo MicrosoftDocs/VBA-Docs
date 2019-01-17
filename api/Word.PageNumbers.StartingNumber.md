@@ -81,3 +81,4 @@ End With
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

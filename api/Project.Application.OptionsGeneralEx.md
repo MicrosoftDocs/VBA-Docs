@@ -62,4 +62,4 @@ If an argument is omitted, the default value is specified by the corresponding s
 
 Using the  **OptionsGeneralEx** method without specifying any arguments displays the **Project Options** dialog box with the **General** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

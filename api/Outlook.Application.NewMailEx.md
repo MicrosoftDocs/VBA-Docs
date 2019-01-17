@@ -52,3 +52,4 @@ For users using Cached Exchange Mode, the event will fire in all settings, provi
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

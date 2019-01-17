@@ -33,4 +33,4 @@ Nothing
 
 If the object to convert is a metafile, it will be converted into basic shapes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

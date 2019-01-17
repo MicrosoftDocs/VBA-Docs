@@ -37,3 +37,4 @@ If the gradient style is  **msoGradientFromCenter**, this property returns eithe
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

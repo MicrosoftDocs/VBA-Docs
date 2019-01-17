@@ -34,3 +34,4 @@ This method applies only to presentations stored on a server running Microsoft O
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

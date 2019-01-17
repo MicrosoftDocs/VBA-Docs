@@ -28,4 +28,4 @@ Deletes the active column or the column containing the active cell from the view
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ To run a macro or event procedure when this event occurs, set the  **OnClose** p
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

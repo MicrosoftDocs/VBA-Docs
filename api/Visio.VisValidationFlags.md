@@ -23,3 +23,4 @@ Specifies constants that define special validation behaviors; passed to the  **[
 | **visValidationDefault**|0|Validate document, and if validation issues are found, open the  **Issues** window.|
 | **visValidationNoOpenWindow**|1|Validate document, but do not open the  **Issues** window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

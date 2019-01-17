@@ -33,3 +33,5 @@ Can be one of the  **[PjVisualReportsCubeType](Project.PjVisualReportsCubeType.m
 
 
 [ReportTemplate Object](Project.ReportTemplate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

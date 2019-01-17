@@ -36,4 +36,4 @@ The  **UpdateAlignmentBox** method alters the width and height of a shape, often
 
  **Note**  Many shapes are designed so that their alignment boxes don't coincide with their geometric extents. Using the  **UpdateAlignmentBox** method on such shapes defeats the intentions of the shape designer.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

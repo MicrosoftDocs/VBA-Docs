@@ -57,3 +57,4 @@ Modules("CalculateShipping").AddFromFile "C:\Shipping\ShippingRoutines.bas"
 
 [Module Object](Access.Module.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

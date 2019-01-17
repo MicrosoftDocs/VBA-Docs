@@ -41,3 +41,4 @@ This property is only supported when cross filtering is turned on, and will gene
 
 [SlicerItem Object](Excel.SlicerItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

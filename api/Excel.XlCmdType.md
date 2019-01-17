@@ -26,3 +26,4 @@ Specifies the value of the  **CommandText** property.
 | **xlCmdTable**|3|Contains a table name for accessing OLE DB data sources.|
 | **xlCmdTableCollection**|6|Contains the name of a table collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

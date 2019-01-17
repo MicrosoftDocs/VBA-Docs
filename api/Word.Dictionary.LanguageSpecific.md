@@ -56,3 +56,4 @@ dicNew.LanguageID = wdGerman
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,4 @@ Starts a Help file.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

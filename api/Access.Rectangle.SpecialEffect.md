@@ -57,3 +57,4 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 
 [Rectangle Object](Access.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

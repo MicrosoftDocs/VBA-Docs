@@ -34,3 +34,4 @@ The Visual Basic functions  **CreateObject** and **GetObject** enable access to 
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ Long
 
 [Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

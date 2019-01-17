@@ -24,3 +24,5 @@ Specifies the type of grouping applied to an axis; the type of its associated fi
 |**acDateGroupNone**|0|No grouping is applied.|
 |**acDateGroupQuarter**|2|The date is grouped by quarter.|
 |**acDateGroupYear**|1|The date is grouped by year.|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

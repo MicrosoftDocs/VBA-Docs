@@ -42,3 +42,4 @@ If the  **Type** property of a **Window** object returns any value other than **
 | **visMasterWin**|64 |A master drawing page window. |
 | **visMasterGroupWin**|96 |A group editing window of a group in a master. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

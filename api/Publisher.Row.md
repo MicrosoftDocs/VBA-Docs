@@ -114,3 +114,4 @@ End Sub
 |[Height](Publisher.Row.Height.md)|
 |[Parent](Publisher.Row.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

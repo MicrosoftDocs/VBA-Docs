@@ -31,4 +31,4 @@ This example sets the color of the wall border of the chart to red. The example 
 myChart.Walls.Border.ColorIndex = 3
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

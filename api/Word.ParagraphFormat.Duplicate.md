@@ -50,3 +50,4 @@ Selection.Paragraphs.Format = myDup
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

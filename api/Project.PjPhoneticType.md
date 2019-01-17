@@ -21,3 +21,4 @@ Contains constants that specify the type of characters used to display phonetic 
 |**pjKatakana**|1|Katakana characters.|
 |**pjKatakanaHalf**|0|Half-width Katakana characters.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

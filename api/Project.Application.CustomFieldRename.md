@@ -38,4 +38,4 @@ Defines a friendly name for a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

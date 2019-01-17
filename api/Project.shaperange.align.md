@@ -33,3 +33,5 @@ If you try to use the  **Align** method, such as `sRange1.Align msoAlignMiddles,
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

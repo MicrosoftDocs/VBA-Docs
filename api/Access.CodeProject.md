@@ -88,3 +88,5 @@ For example, an  **AccessObject** object representing a form is a member of the 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

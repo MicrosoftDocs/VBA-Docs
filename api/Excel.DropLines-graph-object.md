@@ -32,4 +32,4 @@ myChart.ChartGroups(1).DropLines.Border.ColorIndex = 3
 
 If the  **[HasDropLines](Excel.HasDropLines.md)** property is  **False**, most properties of the  **DropLines** object are disabled.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,4 +55,4 @@ Set shpWizardTag = ActiveDocument._
  FindShapeByWizardTag(WizardTag:=pbWizardDate, Instance:=2)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

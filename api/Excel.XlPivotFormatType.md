@@ -40,3 +40,4 @@ Specifies the type of report formatting to be applied to the specified PivotTabl
 | **xlTable8**|17|Use the xlTable8 formatting for the PivotTable.|
 | **xlTable9**|18|Use the xlTable9 formatting for the PivotTable.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ End With
 
 [TableStyleElement Object](Excel.TableStyleElement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

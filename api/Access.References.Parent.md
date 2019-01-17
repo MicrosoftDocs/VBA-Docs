@@ -29,3 +29,4 @@ _expression_ A variable that represents a [References](Access.References.md) obj
 
 [References Collection](Access.References.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

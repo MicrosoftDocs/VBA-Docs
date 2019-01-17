@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CommandEffect](./PowerPoint.CommandEf
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

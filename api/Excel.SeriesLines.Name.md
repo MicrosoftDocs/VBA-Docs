@@ -29,3 +29,4 @@ _expression_ A variable that represents a [SeriesLines](./Excel.SeriesLines-grap
 
 [SeriesLines Object](Excel.SeriesLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

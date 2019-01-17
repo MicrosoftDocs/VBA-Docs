@@ -29,3 +29,4 @@ Returns the type of axis group. Read-only  **[xlAxisGroup](Word.xlaxisgroup.md)*
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

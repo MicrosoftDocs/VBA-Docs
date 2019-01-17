@@ -28,4 +28,4 @@ Indicates whether a toolbar item is hierarchical; that is, whether it contains a
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

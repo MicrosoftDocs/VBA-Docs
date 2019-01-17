@@ -55,3 +55,4 @@ End With
 
 [HPageBreaks Object](Excel.HPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

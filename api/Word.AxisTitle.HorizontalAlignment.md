@@ -47,3 +47,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

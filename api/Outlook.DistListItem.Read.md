@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.DistListItem.Open.md)** ev
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

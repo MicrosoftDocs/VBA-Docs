@@ -38,4 +38,4 @@ If the Gantt chart timescale ends on June 2, 2012, the following statement shows
 Debug.Print TimescaleFinish
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

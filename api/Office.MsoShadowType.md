@@ -39,3 +39,4 @@ Specifies the type of shadow displayed with a shape.The  **msoShadowType** const
 |**msoShadow9**|9|Ninth shadow type.|
 |**msoShadowMixed**|-2|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

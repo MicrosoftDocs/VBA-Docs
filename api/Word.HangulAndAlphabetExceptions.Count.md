@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of exceptions in the collection. 
 
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ The action setting for a  **MouseClick** or **MouseOver** event.
 |**ppMouseClick**|1|Mouse click|
 |**ppMouseOver**|2|Mouse over|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

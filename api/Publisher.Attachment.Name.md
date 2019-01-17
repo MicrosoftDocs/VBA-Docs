@@ -34,3 +34,4 @@ String
 
  [Attachment Object](Publisher.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

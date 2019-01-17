@@ -46,3 +46,4 @@ You can change the  **Name** property of the object at run time only if you adde
 
  [Pages Object](Outlook.pages(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

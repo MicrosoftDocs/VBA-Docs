@@ -37,3 +37,4 @@ For ranges that contains cells in different states, it will return `null`.
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

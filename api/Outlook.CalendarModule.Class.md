@@ -34,3 +34,4 @@ This property returns  **olCalendarModule** for the **[CalendarModule](Outlook.C
 
 [CalendarModule Object](Outlook.CalendarModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

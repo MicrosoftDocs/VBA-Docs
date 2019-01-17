@@ -65,3 +65,4 @@ Me.FormHeader.BorderThemeColorIndex=2
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

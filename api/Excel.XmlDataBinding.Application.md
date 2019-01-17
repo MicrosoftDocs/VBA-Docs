@@ -44,3 +44,4 @@ End If
 
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

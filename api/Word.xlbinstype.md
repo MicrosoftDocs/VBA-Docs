@@ -29,3 +29,4 @@ Constants passed to and returned by the [ChartGroup.BinsType](Word.chartgroup.bi
 
 [ChartGroup.BinsType Property](Word.chartgroup.binstype.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

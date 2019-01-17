@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

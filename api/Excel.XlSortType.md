@@ -20,3 +20,4 @@ Specifies which elements are to be sorted. Use this argument only when sorting P
 | **xlSortLabels**|2|Sorts the PivotTable report by labels.|
 | **xlSortValues**|1|Sorts the PivotTable report by values.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

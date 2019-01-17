@@ -34,3 +34,4 @@ Variant
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

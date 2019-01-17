@@ -37,4 +37,4 @@ Setting  **ShowPageOutline** to **False** does not hide the page grid. To hide t
 
 The  **ShowPageOutline** property setting is valid only for a given window at run time, and is not persisted (saved) in either the Visio document or the Windows registry.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

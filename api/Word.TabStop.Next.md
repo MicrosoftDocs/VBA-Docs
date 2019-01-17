@@ -29,3 +29,4 @@ Returns the next tabstop in the collection. Read-only.
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

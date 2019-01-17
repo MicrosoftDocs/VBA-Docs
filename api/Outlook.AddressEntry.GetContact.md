@@ -34,3 +34,4 @@ A  **ContactItem** object that corresponds to the **AddressEntry**. Returns **Nu
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ The  **Type** property value can be one of these **MsoFillType** constants.
 | **msoFillSolid**|
 | **msoFillTextured**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

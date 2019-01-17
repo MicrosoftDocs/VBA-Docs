@@ -34,3 +34,4 @@ This property always returns false for OLE charts. For OLE charts, use  `InlineS
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

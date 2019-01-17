@@ -34,3 +34,4 @@ The default value is  **True**. If you anticipate frequent queries to a server, 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

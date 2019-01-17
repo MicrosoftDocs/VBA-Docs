@@ -35,4 +35,4 @@ Ignored issues are still recorded but, by default, they are not displayed in the
 
  **Ignored** is the default property of the **ValidationIssue** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

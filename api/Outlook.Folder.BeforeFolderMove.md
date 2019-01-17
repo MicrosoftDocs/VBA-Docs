@@ -45,3 +45,4 @@ If the action is a permanent delete, the  _MoveTo_ folder returned in the event 
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ Gets updated values from a pivot table data source.
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

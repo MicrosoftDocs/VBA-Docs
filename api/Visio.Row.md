@@ -21,4 +21,4 @@ Enables you to access and manipulate a row in a section.
 
 The default property of a  **Row** object is **Cell**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

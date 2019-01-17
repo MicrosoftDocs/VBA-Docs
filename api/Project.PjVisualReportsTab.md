@@ -25,3 +25,4 @@ Contains constants that specify which tab in the  **Visual Reports - Create Repo
 |**pjTabTaskNTP**|4|Show the tab for nontimephased task reports (the  **Task Summary** tab).|
 |**pjTabTaskTP**|1|Show the tab for timephased task reports (the  **Task Usage** tab).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

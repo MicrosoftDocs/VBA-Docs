@@ -39,3 +39,5 @@ To access the reports that use Excel and Visio templates, use the  **[Visual Rep
 
 
 [Application Object](Project.Application.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

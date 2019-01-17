@@ -35,4 +35,4 @@ The  **Units** property can be used to determine the unit of measure currently a
 
 For a list of valid unit codes, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

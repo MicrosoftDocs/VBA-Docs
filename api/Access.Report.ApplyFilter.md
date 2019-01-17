@@ -63,3 +63,4 @@ The  **ApplyFilter** event does not occur when the user does one of the followin
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ _expression_ A variable that represents a [PropertyPages](./Outlook.PropertyPage
 
 [PropertyPages Object](Outlook.PropertyPages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
 pbSchemeColorAccent5
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

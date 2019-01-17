@@ -28,3 +28,4 @@ Use the  **SparkPoints** object to set the color and visibility of markers for p
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 This method gives the user the ability to sort the contents of the control by using one or more criteria.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

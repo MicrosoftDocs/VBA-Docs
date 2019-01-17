@@ -29,3 +29,4 @@ Returns the name of the specified object. Read-only  **String**.
 
 [Variable Object](Word.Variable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ The actual amount of increase depends on the layout of the nodes.
 - [SmartArtNode Object](Office.SmartArtNode.md)
 - [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

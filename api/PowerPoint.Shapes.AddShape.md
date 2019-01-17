@@ -63,3 +63,4 @@ myDocument.Shapes.AddShape Type:=msoShapeRectangle, _
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

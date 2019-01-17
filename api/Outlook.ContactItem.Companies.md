@@ -34,3 +34,4 @@ This is a free-form text field.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

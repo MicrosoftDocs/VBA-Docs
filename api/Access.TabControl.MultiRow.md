@@ -67,3 +67,4 @@ Forms("Order Entry").Controls("Details").MultiRow = True
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property is used to indicate how the task should be ordered within the pare
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

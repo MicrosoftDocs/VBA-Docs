@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Dialogs Collection Object](Word.dialogs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

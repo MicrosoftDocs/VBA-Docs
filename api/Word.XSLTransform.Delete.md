@@ -29,3 +29,4 @@ Deletes the specified Extensible Stylesheet Language Transformation (XSLT) from 
 
 [XSLTransform Object](Word.XSLTransform.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

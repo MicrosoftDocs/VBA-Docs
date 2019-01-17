@@ -63,4 +63,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 Application.ActivePage.DropIntoList vsoMaster, vsoListShape, 1
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -99,3 +99,4 @@ ActiveDocument.Tables.Add Range:=myRange, NumRows:=3, NumColumns:=4
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

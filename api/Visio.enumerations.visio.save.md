@@ -12,5 +12,5 @@ localization_priority: Normal
 **In this section**
 
 -  [VISWEB_DISP_RES Enumeration (Visio Save as Web)](Visio.visweb_disp_res.enumeration.visio.save.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

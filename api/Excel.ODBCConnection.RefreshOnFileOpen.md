@@ -34,3 +34,4 @@ The connections are not automatically refreshed when you open the workbook by us
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Specifies the sort orientation.
 | **xlSortColumns**|1|Sorts by column.|
 | **xlSortRows**|2|Sorts by row. This is the default value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

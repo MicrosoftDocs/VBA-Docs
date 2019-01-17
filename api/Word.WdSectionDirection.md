@@ -20,3 +20,4 @@ Specifies how Word displays the reading order and alignment for the specified se
 | **wdSectionDirectionLtr**|1|Displays the section with left alignment and left-to-right reading order.|
 | **wdSectionDirectionRtl**|0|Displays the section with right alignment and right-to-left reading order.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

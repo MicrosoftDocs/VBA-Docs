@@ -52,4 +52,4 @@ Set shp = ActiveDocument.Pages(1).Shapes _
 shp.LockAspectRatio = msoTrue
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

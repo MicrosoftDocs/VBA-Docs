@@ -33,3 +33,4 @@ Occurs after a shape-replacement operation.
 
 [InvisibleApp Object](Visio.InvisibleApp.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

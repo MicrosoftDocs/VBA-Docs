@@ -48,3 +48,4 @@ Worksheets(1).QueryTables(1).EnableEditing = False
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

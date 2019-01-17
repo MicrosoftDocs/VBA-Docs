@@ -51,4 +51,4 @@ If the current view is a Calendar view where one task is selected, the following
 DetailsPaneToggleDetailsPaneToggle Timeline:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

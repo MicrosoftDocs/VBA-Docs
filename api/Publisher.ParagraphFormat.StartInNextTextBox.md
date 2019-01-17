@@ -37,4 +37,4 @@ If text is added to the previous text box, causing text to overflow into the tex
 
 This property corresponds to the  **Start in next text box** control in the **Paragraph** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

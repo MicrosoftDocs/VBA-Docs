@@ -21,3 +21,4 @@ Specifies how the  **Protected View** window was closed.
 | **xlProtectedViewCloseForced**|2|The window was closed because the application shut it down forcefully or stopped responding.|
 | **xlProtectedViewCloseNormal**|0|The window was closed normally.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

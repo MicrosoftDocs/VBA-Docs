@@ -34,3 +34,4 @@ This method applies only to documents stored on a server running Microsoft Offic
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,4 @@ By setting the  **IMEMode/KanjiConversionMode** property, you can designate whet
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

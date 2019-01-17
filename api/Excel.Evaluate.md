@@ -55,4 +55,4 @@ clearCell = "A1"
 myChart.Application.Evaluate(clearCell).Clear
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

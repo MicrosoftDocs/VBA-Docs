@@ -29,3 +29,4 @@ Indicates numeric units of measurement.
 |**xlThousandMillions**|-9|Specifies units of thousands of millions.|
 |**xlThousands**|-3|Specifies units of thousands.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

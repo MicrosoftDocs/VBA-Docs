@@ -24,3 +24,4 @@ Specifies the vertical alignment of text in a text frame. Used with the  **Verti
 |**msoAnchorTopBaseline**|2|Anchors bottom of text string to current position, regardless of text resizing. When you resize text without baseline anchoring, text centers itself on previous position.|
 |**msoVerticalAnchorMixed**|-2|Return value only; indicates a combination of the other states. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

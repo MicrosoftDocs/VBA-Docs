@@ -29,3 +29,4 @@ Returns the type of axis group. Read/write  **[xlAxisGroup](PowerPoint.XlAxisGro
 
 [Series Object](PowerPoint.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ If you use the  **[Close](Outlook.Inspector.Close(method).md)** method to fire t
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

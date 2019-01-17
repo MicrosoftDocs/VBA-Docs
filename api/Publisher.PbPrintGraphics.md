@@ -24,3 +24,4 @@ Represents the resolution at which the inserted graphics are to be printed in th
 | **pbPrintLowResolution**|2|Print linked graphics using the low-resolution placeholder version that is stored in the publication.|
 | **pbPrintNoGraphics**|3|Print a box in place of linked graphics.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

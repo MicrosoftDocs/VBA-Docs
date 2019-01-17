@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CustomControl](Access.CustomControl.m
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

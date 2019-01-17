@@ -29,3 +29,4 @@ _expression_ A variable that represents a [DisplayUnitLabel](./PowerPoint.Displa
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

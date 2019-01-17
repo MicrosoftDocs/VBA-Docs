@@ -28,3 +28,4 @@ Specifies the  **PivotTable** entity to which the cell corresponds.
 | **xlPivotCellSubtotal**|2|A cell in the row or column area that is a subtotal.|
 | **xlPivotCellValue**|0|Any cell in the data area (except a blank row).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

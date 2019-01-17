@@ -45,3 +45,4 @@ The value of the  **WordWrap** property can be one of these **MsoTriState** cons
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

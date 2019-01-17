@@ -17,5 +17,4 @@ A collection of [ModelColumnName object (Excel)](Excel.modelcolumnname.md) objec
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

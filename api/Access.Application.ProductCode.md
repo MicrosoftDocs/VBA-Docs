@@ -39,3 +39,4 @@ MsgBox "The GUID for Microsoft Access on this computer is " & Application.Produc
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

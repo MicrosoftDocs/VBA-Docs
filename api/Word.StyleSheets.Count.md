@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of style sheets in the collection
 
 [StyleSheets Collection](Word.StyleSheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

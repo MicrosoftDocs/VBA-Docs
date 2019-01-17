@@ -65,3 +65,4 @@ End With
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

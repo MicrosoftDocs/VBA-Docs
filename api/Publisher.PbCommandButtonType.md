@@ -23,3 +23,4 @@ Indicates whether a Web command button will clear or submit form data.
 | **pbCommandButtonReset**|2|Reset or clear the form.|
 | **pbCommandButtonSubmit**|1|Submit the form.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ localization_priority: Normal
 
 If the task is not a subproject, the  **SubProjectReadOnly** property is **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

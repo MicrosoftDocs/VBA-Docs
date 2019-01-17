@@ -22,3 +22,4 @@ Specifies the type of the PivotLine.
 | **xlPivotLineRegular**|0|Regular PivotLine with pivot items.|
 | **xlPivotLineSubtotal**|1|Subtotal line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ Returns a  **Range** object that refers to the start position of the previous it
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

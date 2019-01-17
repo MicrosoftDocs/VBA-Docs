@@ -34,3 +34,4 @@ The Microsoft Visual Basic  **CreateObject** and **GetObject** functions give yo
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

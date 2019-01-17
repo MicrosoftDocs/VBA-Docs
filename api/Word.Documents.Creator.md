@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

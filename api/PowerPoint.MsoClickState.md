@@ -20,3 +20,4 @@ Constants that specify the point in a slide show to navigate to, relative to the
 |**msoClickStateAfterAllAnimations**|-2|After all animations.|
 |**msoClickStateBeforeAutomaticAnimations**|-1|Before automatic animations.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

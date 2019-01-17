@@ -21,3 +21,4 @@ Specifies the version of Microsoft Word for which to disable all features introd
 | **wd70FE**|1|Specifies Word for Windows 95, versions 7.0 and 7.0a, Asian edition.|
 | **wd80**|2|Specifies Word 97 for Windows. Default.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

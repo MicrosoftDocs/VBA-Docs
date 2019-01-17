@@ -39,3 +39,4 @@ An error occurs if this method is called on sharing invitations using an Exchang
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

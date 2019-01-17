@@ -28,4 +28,4 @@ Sets or returns the number of digits following the decimal separator character i
 
 Project sets the  **CurrencyDigits** property equal to the corresponding value in the **Customize Regional Options** dialog box of the Windows Control Panel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

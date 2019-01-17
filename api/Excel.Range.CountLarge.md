@@ -34,3 +34,4 @@ The  **CountLarge** property is functionally the same as the **[Count](Excel.Ran
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

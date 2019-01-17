@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Views](./Outlook.Views.md) object.
 
 [Views Object](Outlook.Views.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the number of items in the  **Adjustments** collection. Read-only **Long
 
 [Adjustments Object](Word.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ To refer to the **Pages** property in a macro or Visual Basic, the form or repor
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

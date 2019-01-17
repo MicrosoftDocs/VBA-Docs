@@ -42,3 +42,4 @@ The height of sections is measured from the inside of their borders. The height 
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

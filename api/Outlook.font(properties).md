@@ -23,5 +23,5 @@ localization_priority: Normal
 -  [Font.Underline Property (Outlook Forms Script)](Outlook.Font.underline.md)
     
 -  [Font.Weight Property (Outlook Forms Script)](Outlook.Font.weight.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

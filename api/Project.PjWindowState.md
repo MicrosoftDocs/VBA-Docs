@@ -21,3 +21,4 @@ Contains constants that specify the window state.
 |**pjMinimized**|2|Minimized.|
 |**pjNormal**|1|Normal.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

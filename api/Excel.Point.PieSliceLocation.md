@@ -48,3 +48,4 @@ This property only applies to pie and doughnut chart types.
 
 [Point Object](Excel.Point(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

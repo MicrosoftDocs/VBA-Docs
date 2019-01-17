@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [SynonymInfo Object](Word.SynonymInfo.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

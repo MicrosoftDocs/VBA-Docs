@@ -23,3 +23,4 @@ Contains constants that specify the theme element in Project Guide pages.
 |**pjThemeElementWPText**|33 (&H21)|Text on the page.|
 |**pjThemeElementWPTitleBkgdInactive**|35 (&H23)|Inactive title background.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

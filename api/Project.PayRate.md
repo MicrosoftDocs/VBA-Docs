@@ -80,3 +80,4 @@ ActiveProject.Resources("Tamara").CostRateTables("C").PayRates.Add "9/1/2012", "
 |[Parent](Project.PayRate.Parent.md)|
 |[StandardRate](Project.PayRate.StandardRate.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

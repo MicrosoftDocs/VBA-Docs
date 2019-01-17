@@ -30,3 +30,4 @@ Constants that specify the type of view, passed to and returned by the  **Docume
 |**ppViewThumbnails**|11|Thumbnails|
 |**ppViewTitleMaster**|8|Title Master|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

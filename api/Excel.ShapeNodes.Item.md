@@ -42,3 +42,4 @@ A  **[ShapeNode](Excel.ShapeNode.md)** object contained by the collection.
 
 [ShapeNodes Object](Excel.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ If an object is a reference to an entity that has been deleted, the  **Stat** pr
 
 A Component Object Model (COM) object, such as a Microsoft Visio  **[Document](Visio.Document.md)** object, lives as long as it is held (pointed to) by a client, even if the object is logically in a deleted or closed state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

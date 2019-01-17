@@ -32,3 +32,4 @@ _expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookCon
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

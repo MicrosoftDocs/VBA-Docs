@@ -27,3 +27,4 @@ Specifies the operator to use to associate two criteria applied by a filter.
 | **xlTop10Items**|3|Highest-valued items displayed (number of items specified in Criteria1)|
 | **xlTop10Percent**|5|Highest-valued items displayed (percentage specified in Criteria1)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

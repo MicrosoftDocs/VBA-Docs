@@ -51,5 +51,5 @@ If a view uses a table, you can set individual views to show the  **Add New Colu
 3. In the  **Tables** drop-down list, open the **More Tables** dialog box, select the table, and then click **Edit**.
     
 4. Select or clear the  **Show 'Add New Column' interface** option in the **Table Definition** dialog box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

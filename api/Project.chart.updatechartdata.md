@@ -60,3 +60,5 @@ Updates the specified Project data on a chart.
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

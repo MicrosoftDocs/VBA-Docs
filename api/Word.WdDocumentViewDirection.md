@@ -20,3 +20,4 @@ Specifies the alignment and reading order for the entire document.
 | **wdDocumentViewLtr**|1|Displays the document with left alignment and left-to-right reading order.|
 | **wdDocumentViewRtl**|0|Displays the document with right alignment and right-to-left reading order.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

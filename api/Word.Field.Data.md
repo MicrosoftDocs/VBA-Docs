@@ -50,3 +50,4 @@ fldTemp.Data = "Hidden information"
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

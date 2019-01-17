@@ -45,3 +45,4 @@ End If
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

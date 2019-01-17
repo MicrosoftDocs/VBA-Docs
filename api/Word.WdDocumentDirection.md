@@ -20,3 +20,4 @@ Specifies the direction to flow the text in a document.
 | **wdLeftToRight**|0|Left to right.|
 | **wdRightToLeft**|1|Right to left.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

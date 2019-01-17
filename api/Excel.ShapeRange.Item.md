@@ -53,3 +53,4 @@ sr.Item(2).OnAction = "ShapeAction"
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

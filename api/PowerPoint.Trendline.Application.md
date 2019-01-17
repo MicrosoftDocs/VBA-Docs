@@ -29,3 +29,4 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

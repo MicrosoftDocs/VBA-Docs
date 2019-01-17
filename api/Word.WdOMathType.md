@@ -20,3 +20,4 @@ Specifies the display format type of equation.
 | **wdOMathDisplay**|0|Professional format.|
 | **wdOMathInline**|1|Inline.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

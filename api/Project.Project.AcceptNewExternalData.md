@@ -28,4 +28,4 @@ localization_priority: Normal
 
 The value of the  **AcceptNewExternalData** property can only be changed when the **ShowCrossProjectLinksInfo** property is **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

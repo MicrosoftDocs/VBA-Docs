@@ -29,3 +29,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [ChartArea Object](Word.ChartArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

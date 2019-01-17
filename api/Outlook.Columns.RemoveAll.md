@@ -108,3 +108,4 @@ End Sub
 
 [Columns Object](Outlook.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Returns  **True** if the range is locked, **False** if the range can be modified
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies where a node is added to a diagram relative to existing nodes.
 |**msoBeforeFirstSibling**|3|Node is added before first sibling.|
 |**msoBeforeNode**|1|Node is added before current node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

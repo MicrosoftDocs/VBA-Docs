@@ -33,4 +33,4 @@ Scrolls the Gantt Chart, Resource Usage, or Task Usage view to display the start
 
 When you record a macro and click the  **Scroll to Task** command in the **Editing** group of the **Task** tab on the Ribbon, or use the Ctrl+Shift+F5 shortcut, the macro records the **GotoTaskDates** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

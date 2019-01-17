@@ -43,3 +43,4 @@ The theme components returned are enumerations of built-in theme definitions for
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ An  **Explorer** object that represents the specified object.
 
 [Explorers Object](Outlook.Explorers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,3 +66,4 @@ Selection.TextRange.Fields.AddPhoneticGuide _
 |[Raise](Publisher.PhoneticGuide.Raise.md)|
 |[Text](Publisher.PhoneticGuide.Text.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

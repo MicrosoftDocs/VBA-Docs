@@ -74,5 +74,4 @@ Represents a functional and visual control group.
 |:-----|:-----|
 | [Click](Outlook.Frame.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

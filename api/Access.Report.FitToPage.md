@@ -34,3 +34,4 @@ The default value is  **True** for new reports, and **False** for reports create
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

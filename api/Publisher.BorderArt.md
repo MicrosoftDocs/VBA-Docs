@@ -91,3 +91,4 @@ End Sub
 |[Name](Publisher.BorderArt.Name.md)|
 |[Parent](Publisher.BorderArt.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

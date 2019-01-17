@@ -52,3 +52,4 @@ myZoom.Percentage = myZoom.Percentage + 10
 
 [Zoom Object](Word.Zoom.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

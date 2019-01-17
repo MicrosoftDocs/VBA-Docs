@@ -47,3 +47,5 @@ Adds a  **TableField** object to a **TableFields** collection.
 
 
 [TableFields Collection Object](Project.tablefields.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

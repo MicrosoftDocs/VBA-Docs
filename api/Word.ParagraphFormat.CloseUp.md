@@ -40,3 +40,4 @@ ParagraphFormat.SpaceBefore = 0
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

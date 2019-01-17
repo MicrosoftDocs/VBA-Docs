@@ -36,4 +36,4 @@ Applies or removes italic formatting from the selected text.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

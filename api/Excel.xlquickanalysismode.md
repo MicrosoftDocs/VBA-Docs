@@ -25,3 +25,4 @@ Indicates for which top level button the callout user interface is displayed.
 | **xlTables**|4|Tables|
 | **xlSparklines**|5|Sparklines|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

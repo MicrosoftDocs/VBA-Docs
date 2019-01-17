@@ -46,3 +46,4 @@ If the  **[SetAlwaysAssignCategories](Outlook.Conversation.SetAlwaysAssignCatego
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

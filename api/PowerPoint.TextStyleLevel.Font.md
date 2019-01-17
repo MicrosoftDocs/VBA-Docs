@@ -83,3 +83,4 @@ End With
 
 [TextStyleLevel Object](PowerPoint.TextStyleLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

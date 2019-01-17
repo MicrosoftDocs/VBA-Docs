@@ -30,4 +30,4 @@ This example is equivalent to pressing ESC while working on the chart. The examp
 myChart.Deselect
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

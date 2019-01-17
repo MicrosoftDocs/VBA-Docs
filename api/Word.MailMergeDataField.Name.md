@@ -29,3 +29,4 @@ Returns name of the specified object. Read-only  **String**.
 
 [MailMergeDataField Object](Word.MailMergeDataField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

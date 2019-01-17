@@ -70,3 +70,4 @@ End Sub
 |[Parent](Publisher.OLEFormat.Parent.md)|
 |[ProgId](Publisher.OLEFormat.ProgId.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

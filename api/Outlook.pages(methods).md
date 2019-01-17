@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Pages.Item Method (Outlook Forms Script)](Outlook.Pages.item.md)
     
 -  [Pages.Remove Method (Outlook Forms Script)](Outlook.Pages.remove.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

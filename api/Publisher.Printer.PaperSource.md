@@ -28,4 +28,4 @@ Returns the paper source setting found on the  **Publication and Paper Settings*
 
 String
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

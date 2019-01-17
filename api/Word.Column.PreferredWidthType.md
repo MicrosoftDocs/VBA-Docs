@@ -29,3 +29,4 @@ Returns or sets the preferred unit of measurement to use for the width of the sp
 
 [Column Object](Word.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

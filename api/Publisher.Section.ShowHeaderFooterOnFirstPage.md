@@ -44,4 +44,4 @@ End With
 objSection.ShowHeaderFooterOnFirstPage = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

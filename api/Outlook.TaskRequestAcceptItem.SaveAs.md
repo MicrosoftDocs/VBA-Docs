@@ -43,3 +43,4 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,3 +76,4 @@ The following example adds a schema to the schema collection, selects a single n
 
 - [CustomXMLSchemaCollection object members](overview/library-reference/customxmlschemacollection-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

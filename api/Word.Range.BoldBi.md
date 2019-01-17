@@ -39,3 +39,4 @@ ActiveDocument.Paragraphs(1).Range.BoldBi = True
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

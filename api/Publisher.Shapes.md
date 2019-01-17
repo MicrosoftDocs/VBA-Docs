@@ -105,3 +105,4 @@ End Sub
 |[Count](./Publisher.Shapes.Count.md)|
 |[Parent](./Publisher.Shapes.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

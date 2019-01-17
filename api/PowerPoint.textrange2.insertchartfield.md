@@ -44,4 +44,4 @@ This method applies only to data labels in a chart. Calling this method on any o
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Constants for merged email message priority passed to and returned by the  ** [E
 | **pbPriorityLow**|2|Low priority|
 | **pbPriorityNone**|0|No priority set|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -80,3 +80,4 @@ Constants that specify the type of preset WordArt, passed to the  ** [Shapes.Add
 | **pbPresetWordArt60**|59|Style 60|
 | **pbPresetWordArtMixed**|-2|A combination of styles|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -70,3 +70,5 @@ Use the  **Object** property to return an object that represents an ActiveX cont
 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

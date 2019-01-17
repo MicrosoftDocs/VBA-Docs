@@ -53,4 +53,4 @@ The setting of the  **Restriction** property does not persist if the view or cur
 
 The  **Restriction** property only works correctly if you use Table or Card views. This is a limitation of the Microsoft Outlook View Control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

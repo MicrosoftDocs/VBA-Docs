@@ -27,3 +27,4 @@ Specifies the width of an object's border.
 | **wdLineWidth450pt**|36|4.50 points.|
 | **wdLineWidth600pt**|48|6.00 points.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

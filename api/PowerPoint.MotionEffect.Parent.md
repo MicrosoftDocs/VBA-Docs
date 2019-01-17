@@ -50,3 +50,4 @@ End With
 
 [MotionEffect Object](PowerPoint.MotionEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

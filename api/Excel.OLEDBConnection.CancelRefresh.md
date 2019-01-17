@@ -34,3 +34,4 @@ Use the  **[Refreshing](Excel.OLEDBConnection.Refreshing.md)** property to deter
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

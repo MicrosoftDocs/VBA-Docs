@@ -76,3 +76,4 @@ End Sub
 
 [CalendarView Object](Outlook.CalendarView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

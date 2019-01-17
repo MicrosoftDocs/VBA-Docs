@@ -52,3 +52,4 @@ ActiveDocument.SetCompatibilityMode (wdWord2003)
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

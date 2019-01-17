@@ -29,3 +29,4 @@ Returns or sets a  **[WdRevisionsMode](Word.WdRevisionsMode.md)** constant that 
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

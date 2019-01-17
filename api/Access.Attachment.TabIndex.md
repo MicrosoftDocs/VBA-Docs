@@ -46,3 +46,4 @@ If you press an access key for a control such as a label that doesn't have a  **
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

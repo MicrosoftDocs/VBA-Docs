@@ -34,3 +34,4 @@ By default, the  **DateDisplayLocale** property is initially set to the editing 
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

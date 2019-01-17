@@ -29,3 +29,4 @@ Activates the specified object.
 
 [OLEFormat Object](PowerPoint.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Worksheets("Sheet1").Rows(1).UseStandardHeight = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

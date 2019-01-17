@@ -57,3 +57,4 @@ End With
 
 [TextStyle Object](PowerPoint.TextStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

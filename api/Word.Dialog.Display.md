@@ -77,3 +77,4 @@ Dialogs(wdDialogToolsCustomize).Display
 
 [Dialog Object](Word.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ If you do not want a particular object to be viewable in Excel Services, use thi
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

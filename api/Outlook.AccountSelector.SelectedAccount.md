@@ -36,3 +36,4 @@ This property returns  **Null** (**Nothing** in Visual Basic) if no accounts are
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Deletes the specified object.
 
 A run-time error occurs if the specified object does not exist.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

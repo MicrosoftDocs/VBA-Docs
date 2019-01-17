@@ -34,3 +34,4 @@ A positive value indicates clockwise rotation; a negative value indicates counte
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

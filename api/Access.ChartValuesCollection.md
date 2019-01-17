@@ -31,3 +31,5 @@ End With
 ## See also
 
 - [Chart object](Access.Chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

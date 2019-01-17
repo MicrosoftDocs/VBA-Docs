@@ -29,3 +29,4 @@ Returns or sets the way pictures are displayed on a legend key. Read/write  **[x
 
 [LegendKey Object](Word.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

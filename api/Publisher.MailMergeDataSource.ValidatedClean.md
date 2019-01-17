@@ -37,4 +37,4 @@ The  **ValidatedClean** property value is not persisted in the Publisher file, a
 
 Publisher resets the  **ValidatedClean** property value to **False** whenever you add a new data source, change a filter setting, or change a sort setting.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

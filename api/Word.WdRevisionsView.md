@@ -20,3 +20,4 @@ Specifies whether Word displays the original version of a document or a version 
 | **wdRevisionsViewFinal**|0|Displays the document with formatting and content changes applied.|
 | **wdRevisionsViewOriginal**|1|Displays the document before changes were made.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

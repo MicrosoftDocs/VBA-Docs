@@ -26,3 +26,4 @@ Returns the number of items in the  **BuildingBlocks** collection. Read-only **L
 
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

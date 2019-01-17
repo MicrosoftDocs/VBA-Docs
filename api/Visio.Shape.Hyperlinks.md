@@ -28,4 +28,4 @@ Returns the  **Hyperlinks** collection for a **Shape** object. Read-only.
 
 Hyperlinks
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

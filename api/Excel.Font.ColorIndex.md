@@ -49,3 +49,4 @@ Worksheets("Sheet1").Range("A1").Font.ColorIndex = 3
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

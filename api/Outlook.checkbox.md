@@ -27,4 +27,4 @@ The default property of a  **CheckBox** is the **[Value](Outlook.checkbox.value.
 
 The  **[ListBox](Outlook.listbox.md)** also lets you put a check mark by selected options. Depending on your application, you can use the **ListBox** instead of using a group of **CheckBox** controls.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

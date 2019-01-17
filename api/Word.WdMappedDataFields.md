@@ -48,3 +48,4 @@ Specifies a type of mapped data field.
 | **wdUniqueIdentifier**|1|Unique identifier field.|
 | **wdWebPageURL**|21|Web page uniform resource locator (URL) field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

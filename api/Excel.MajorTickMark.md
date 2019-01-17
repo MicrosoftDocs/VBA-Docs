@@ -37,4 +37,4 @@ This example sets the major tick marks for the value axis to be outside the axis
 myChart.Axes(xlValue).MajorTickMark = xlTickMarkOutside
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

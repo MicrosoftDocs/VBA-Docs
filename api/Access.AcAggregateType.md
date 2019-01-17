@@ -26,3 +26,5 @@ Specifies the type of aggregation to apply to a set of values.
 |**acAggregateMinimum**|3|Minimum|
 |**acAggregateNone**|0|None|
 |**acAggregateSum**|1|Sum|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

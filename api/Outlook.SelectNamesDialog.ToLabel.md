@@ -28,4 +28,4 @@ To provide an accelerator key for the recipient edit boxes, include an ampersand
 
 If **ToLabel** is not set, the default value will be the localized string for "To". If the **ToLabel** is set to an empty string, the **To** command button shows **-&gt;**. If the **ToLabel** property contains more than 32 characters (including the ampersand (&) access key), only the first 32 characters will be displayed in the command button.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

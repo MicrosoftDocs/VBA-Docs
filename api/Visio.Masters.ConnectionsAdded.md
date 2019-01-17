@@ -45,4 +45,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 For performance considerations, the  **Document** object's event set does not include the **ConnectionsAdded** event. To sink the **ConnectionsAdded** event from a **Document** object (and the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

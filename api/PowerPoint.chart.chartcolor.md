@@ -31,4 +31,4 @@ Chart color schemes are numbered from 1 to 17; the setting of this property corr
 
  **VARIANT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

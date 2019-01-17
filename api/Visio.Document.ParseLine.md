@@ -71,4 +71,4 @@ Public Sub LineParser(strString As String)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the chart title text. Read/write  **String**.
 
 [ChartTitle Object](Word.ChartTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

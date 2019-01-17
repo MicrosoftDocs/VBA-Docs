@@ -41,4 +41,4 @@ Determines whether alerts appear when a macro runs.
 
 The  **Alerts** method applies only to the macro that contains the method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

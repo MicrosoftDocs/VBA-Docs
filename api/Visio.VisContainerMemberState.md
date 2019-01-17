@@ -26,3 +26,4 @@ Specifies constants that denote the state of the input member shape with respect
 | **visContainerMemberOutside**|3|The member shape is outside the bounds of the container.|
 | **visContainerMemberInList**|4|The member shape is a list member.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

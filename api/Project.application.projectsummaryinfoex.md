@@ -56,4 +56,4 @@ Returns information about project summary, including the Project Utilization typ
 
 Using the  **ProjectSummaryInfoEx** method with no arguments displays the **Project Information** dialog box
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Deletes the specified subdocument.
 
 [Subdocument Object](Word.Subdocument.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

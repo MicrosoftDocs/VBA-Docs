@@ -54,3 +54,4 @@ Worksheets("Sheet1").Scenarios.CreateSummary _
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,3 +66,4 @@ The following example displays the complementary ERF function of 1 (0.1573).
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

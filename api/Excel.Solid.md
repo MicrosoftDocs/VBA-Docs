@@ -30,4 +30,4 @@ This example converts the chart area fill to a solid color.
 myChart.ChartArea.Fill.Solid
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

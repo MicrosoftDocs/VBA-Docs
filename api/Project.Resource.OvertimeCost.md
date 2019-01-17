@@ -25,4 +25,4 @@ Gets the overtime cost for a resource. Read-only  **Variant**.
 
 The  **OvertimeCost** property does not return any meaningful information for material resources.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

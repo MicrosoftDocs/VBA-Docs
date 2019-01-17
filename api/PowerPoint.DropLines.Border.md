@@ -23,4 +23,4 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 
 _expression_ A variable that represents a '[DropLines](PowerPoint.DropLines.md)' object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

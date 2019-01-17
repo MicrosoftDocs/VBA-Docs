@@ -58,3 +58,4 @@ End Sub
 
  [Attachments Collection](Publisher.Attachments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

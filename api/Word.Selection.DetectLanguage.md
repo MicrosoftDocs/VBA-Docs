@@ -38,3 +38,4 @@ If the  **DetectLanguage** method has already been applied to the specified text
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

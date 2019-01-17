@@ -27,3 +27,5 @@ The parent of a  **Series** object is a **SeriesCollection** object.
 
 [Series Object](Project.series.md)
 [SeriesCollection Object](Project.seriescollection.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

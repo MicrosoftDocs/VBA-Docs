@@ -42,3 +42,4 @@ CoAuthor
 
 [CoAuthors Object](Word.CoAuthors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

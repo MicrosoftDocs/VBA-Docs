@@ -29,3 +29,4 @@ Returns a [LineFormat](Word.LineFormat.md) object that specifies the formatting 
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ Submits all selected engagements in the project to the resource manager for revi
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

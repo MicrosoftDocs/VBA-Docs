@@ -34,5 +34,4 @@ Worksheets("Sheet1").Activate
 ActiveSheet.ListObjects.Item(1).DataBodyRange.Select
 ```
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,3 +56,4 @@ The  _BorderType_ parameter value can be one of these **PpBorderType** constants
 
 [Borders Object](PowerPoint.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

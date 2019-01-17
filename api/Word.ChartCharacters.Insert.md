@@ -37,3 +37,4 @@ Inserts a string preceding the selected characters.
 
 [ChartCharacters Object](Word.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

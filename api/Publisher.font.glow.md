@@ -32,3 +32,4 @@ Returns a  [GlowFormat](Publisher.glowformat.md) object that represents the glow
 
  [Font Object](Publisher.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

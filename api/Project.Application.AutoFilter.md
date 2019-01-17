@@ -35,4 +35,4 @@ The  **AutoFilter** method toggles the AutoFilter feature on and off. It has the
 
 To set an AutoFilter, see the  **[SetAutoFilter](Project.Application.SetAutoFilter.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

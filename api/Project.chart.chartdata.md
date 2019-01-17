@@ -26,3 +26,5 @@ Gets an  **Office.IMsoChartData** object that enables the user to show, hide, or
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

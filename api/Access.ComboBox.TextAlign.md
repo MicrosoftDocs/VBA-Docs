@@ -56,3 +56,4 @@ Forms("Suppliers").Controls("Address").TextAlign = 3
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

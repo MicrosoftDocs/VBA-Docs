@@ -37,3 +37,4 @@ Moves a style sheet's order of precedence.
 
 [StyleSheet Object](Word.StyleSheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

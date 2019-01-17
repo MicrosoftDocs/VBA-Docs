@@ -20,4 +20,4 @@ Gets or sets the number of days per month for tasks in a project. Read/write  **
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

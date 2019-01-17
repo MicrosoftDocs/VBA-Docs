@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of page numbers in the collection
 
 [PageNumbers Collection Object](Word.pagenumbers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

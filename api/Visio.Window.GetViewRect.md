@@ -46,4 +46,4 @@ The values that the  **GetViewRect** method returns are affected by whether page
 
 If the  **Window** object is not a **visDrawing** type, the **GetViewRect** method raises an exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ If you attempt to set the  **PermissionTemplateGuid** property for a received me
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

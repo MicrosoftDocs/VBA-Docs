@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.DocumentItem.Open.md)** ev
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

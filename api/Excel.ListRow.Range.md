@@ -29,3 +29,4 @@ _expression_ A variable that represents a [ListRow](Excel.ListRow.md) object.
 
 [ListRow Object](Excel.ListRow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

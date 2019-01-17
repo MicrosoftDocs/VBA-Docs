@@ -21,3 +21,4 @@ Specifies orientation of an object when it is displayed or printed.
 |**msoOrientationMixed**|-2|Mixed orientation.|
 |**msoOrientationVertical**|2|Vertical (portrait) orientation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

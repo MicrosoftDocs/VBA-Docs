@@ -29,3 +29,4 @@ Converts an equation to normal text.
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

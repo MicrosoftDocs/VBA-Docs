@@ -36,3 +36,4 @@ Microsoft Excel will change the row height of the range, if necessary, to accomm
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

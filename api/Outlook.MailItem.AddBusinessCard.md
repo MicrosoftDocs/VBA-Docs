@@ -51,3 +51,4 @@ This method adds contact information, generated from the information stored in t
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

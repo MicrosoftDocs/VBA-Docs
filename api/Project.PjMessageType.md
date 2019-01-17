@@ -22,3 +22,4 @@ Contains constants that specify the buttons to be included in a message dialog b
 |**pjYesNo**|2|Display  **Yes** and **No** buttons.|
 |**pjYesNoCancel**|3|Display  **Yes**,  **No**, and  **Cancel** buttons.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ Returns the [Guides](./overview/PowerPoint.md) collection associated with a cust
 
  **GUIDES**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

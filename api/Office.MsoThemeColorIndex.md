@@ -36,3 +36,4 @@ Indicates the Office theme color.
 |**msoThemeColorText1**|13|Specifies the Text 1 theme color.|
 |**msoThemeColorText2**|15|Specifies the Text 2 theme color.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

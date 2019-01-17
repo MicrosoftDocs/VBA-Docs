@@ -35,4 +35,4 @@ Use the  **ResultIU** property to set the value of an unguarded cell. If a cell'
 
 The units default to the Microsoft Visio internal units, which are inches for distance and radians for angles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

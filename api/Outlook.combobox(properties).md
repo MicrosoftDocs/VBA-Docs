@@ -109,5 +109,5 @@ localization_priority: Normal
 -  [ComboBox.TopIndex Property (Outlook Forms Script)](Outlook.combobox.topindex.md)
     
 -  [ComboBox.Value Property (Outlook Forms Script)](Outlook.combobox.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property is used in both ODBC and OLEDB queries, and by both PivotTables an
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

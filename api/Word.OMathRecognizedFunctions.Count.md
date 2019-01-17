@@ -29,3 +29,4 @@ Returns the number of items in the  **OMathRecognizedFunctions** collection. Rea
 
 [OMathRecognizedFunctions Collection](Word.OMathRecognizedFunctions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

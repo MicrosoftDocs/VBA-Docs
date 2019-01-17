@@ -39,3 +39,4 @@ If .HasText Then
 
 [TextFrame2 Object](Excel.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

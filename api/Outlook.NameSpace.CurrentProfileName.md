@@ -36,3 +36,4 @@ You assign a profile name when you create a profile.
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

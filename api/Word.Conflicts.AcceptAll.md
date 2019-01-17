@@ -44,3 +44,4 @@ ActiveDocument.CoAuthoring.Conflicts.AcceptAll
 
 [Conflicts Object](Word.Conflicts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

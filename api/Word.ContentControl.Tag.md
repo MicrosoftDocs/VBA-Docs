@@ -34,3 +34,4 @@ The  **Tag** property is different from the **Title** property in that a tag is 
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

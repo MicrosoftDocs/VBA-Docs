@@ -37,4 +37,4 @@ Highlights a goal area on the  **Project Guide** toolbar to indicate it is curre
 
  **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of the Project Guide for new development.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

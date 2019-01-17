@@ -40,4 +40,4 @@ This example centers the chart title.
 myChart.ChartTitle.HorizontalAlignment = xlCenter
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

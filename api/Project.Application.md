@@ -907,3 +907,4 @@ Many of the properties and methods that return the most common user-interface ob
 |[Windows2](./Project.Application.Windows2.md)|
 |[WindowState](./Project.Application.WindowState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

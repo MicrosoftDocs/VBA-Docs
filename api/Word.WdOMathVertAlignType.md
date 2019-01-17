@@ -21,3 +21,4 @@ Specifies the vertical alignment of equations within the shape canvas or the lin
 | **wdOMathVertAlignCenter**|0|Vertically centers the equation in the shape canvas or line.|
 | **wdOMathVertAlignTop**|1|Aligns the equation on the top of the shape canvas or line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -79,4 +79,4 @@ myChart.SeriesCollection(1). _
  ApplyDataLabels Type:=xlDataLabelsShowLabel
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ By default, when Word other authors are editing or have blocked off a section of
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

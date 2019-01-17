@@ -58,3 +58,4 @@ End With
 
 [LinkFormat Object](PowerPoint.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

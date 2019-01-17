@@ -43,3 +43,5 @@ For example, in a pure encryption scenario, you can display a dialog box to chan
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Constants passed to the  **SaveAsPicture** method and specifying the resolution 
 | **pbPictureResolutionDesktopPrint_150dpi**|2|150 dpi|
 | **pbPictureResolutionWeb_96dpi**|1|96 dpi|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

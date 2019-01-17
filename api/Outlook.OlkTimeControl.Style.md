@@ -34,3 +34,4 @@ The default value is  **olTimeStyleTimeOnly**.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ myDocument.Shapes(1).PictureFormat.Brightness = 0.3
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

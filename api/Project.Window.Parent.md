@@ -27,4 +27,4 @@ The parent of a  **Window** object can be the **Application**, or a **Windows** 
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

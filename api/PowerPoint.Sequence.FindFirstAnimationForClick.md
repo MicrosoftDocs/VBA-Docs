@@ -62,3 +62,4 @@ End Sub
 
 [Sequence Object](PowerPoint.Sequence.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

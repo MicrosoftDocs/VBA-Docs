@@ -65,4 +65,4 @@ End Sub
 
  **Note**  If you use any of the  **PjColor** constants for the Color or CellColor parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **Fon32Ex** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[FontEx](Project.Application.FontEx.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

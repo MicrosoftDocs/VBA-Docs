@@ -32,4 +32,4 @@ Returns an individual [Series](PowerPoint.Series.md) object from the collection.
 
 [Series](PowerPoint.Series.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

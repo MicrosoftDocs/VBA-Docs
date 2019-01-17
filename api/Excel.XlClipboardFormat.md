@@ -52,3 +52,4 @@ Specifies the format of an item on the Microsoft Windows clipboard.
 | **xlClipboardFormatVALU**|1|Value|
 | **xlClipboardFormatWK1**|10|Workbook|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

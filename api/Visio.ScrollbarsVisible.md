@@ -40,4 +40,4 @@ The following code turns off display of the scroll bars in the drawing that is o
 vsoViewer.ScrollbarsVisible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

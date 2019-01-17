@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CalendarSharing](./Outlook.CalendarSh
 
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

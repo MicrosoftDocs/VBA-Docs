@@ -35,4 +35,4 @@ Use the  **Closed** property of a **Path** or **Curve** object to test for equal
 
 The  **Closed** property of a **Path** object is unrelated to a **Path** object's fill. A **Path** object is filled if its Geometry _n_ .NoFill cell is zero (0). If you indicate to Visio to fill an open **Path** object, it responds as if there is a LineTo cell from the **Path** object's endpoint to its begin point. When filling a **Path** object, Visio considers a point to be inside the **Path** object if a ray drawn from the point in any direction crosses the **Path** object or any of the shape's other **Path** objects cross an odd number of times.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

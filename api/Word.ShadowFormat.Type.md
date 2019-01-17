@@ -29,3 +29,4 @@ Returns or sets the shape shadow type. Read/write  **MsoShadowType**.
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

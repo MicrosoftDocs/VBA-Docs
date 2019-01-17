@@ -34,3 +34,4 @@ The form name rule condition is supported by rules for receiving messages and ru
 
 [FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

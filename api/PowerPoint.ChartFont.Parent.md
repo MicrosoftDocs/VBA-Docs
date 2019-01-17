@@ -26,3 +26,4 @@ _expression_ A variable that represents a '[ChartFont](PowerPoint.ChartFont.md)'
 
 [ChartFont Object](PowerPoint.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

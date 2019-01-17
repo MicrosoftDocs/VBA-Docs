@@ -48,3 +48,4 @@ ActiveDocument.Fields.Add Range:=myRange, Type:=wdFieldAuthor
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

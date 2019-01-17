@@ -58,4 +58,4 @@ Private Sub vsoViewer_OnPageChanged(ByVal PageIndex As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

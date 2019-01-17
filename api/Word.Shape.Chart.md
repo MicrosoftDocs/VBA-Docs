@@ -29,3 +29,4 @@ Returns a  **Chart** object that represents a chart within the collection of sha
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

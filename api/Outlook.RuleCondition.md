@@ -64,3 +64,5 @@ For more information on rule conditions, see [Specifying Rule Conditions](../out
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

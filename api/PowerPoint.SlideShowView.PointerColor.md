@@ -41,3 +41,4 @@ To change the pointer to a pen, set the  **[PointerType](PowerPoint.SlideShowVie
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

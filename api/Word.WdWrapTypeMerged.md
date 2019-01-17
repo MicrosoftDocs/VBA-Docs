@@ -25,3 +25,4 @@ Specifies how Microsoft Word wraps text around pictures.
 | **wdWrapMergeTight**|2|Tight.|
 | **wdWrapMergeTopBottom**|6|Top and bottom.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

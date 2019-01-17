@@ -47,4 +47,4 @@ Sets up pages for printing.
 
 Using the  **FilePageSetupPage** method without specifying any arguments displays the **Page Setup** dialog box with the **Page** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets a  **WdBaselineAlignment** constant that represents the vertical
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,4 @@ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) obje
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

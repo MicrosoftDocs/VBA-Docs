@@ -35,4 +35,4 @@ With myChart.ChartGroups(1)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

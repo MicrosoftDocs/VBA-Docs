@@ -37,3 +37,4 @@ Defines the different types of engagement violation types triggering indicators 
 |**pjEngagementViolationTypeTaskResourceWorkingInDraftEngagedTime**|**32**||
 |**pjEngagementViolationTypeTaskResourceWorkingInProposedEngagedTime**|**16**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

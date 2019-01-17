@@ -35,4 +35,4 @@ The ID of a shape is unique only within the scope of the page or master. The ID 
 
 If a shape, page, master, or style is deleted, future objects in the same scope may be assigned the same ID. Therefore, persisting shape or style IDs in separate data stores is generally not as sound as persisting unique IDs using the  **UniqueID** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

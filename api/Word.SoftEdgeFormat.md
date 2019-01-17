@@ -23,3 +23,4 @@ Represents the soft edge formatting for a shape or range of shapes.
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

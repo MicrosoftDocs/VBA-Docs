@@ -20,3 +20,4 @@ Specifies whether Microsoft PowerPoint displays alerts while running a macro.
 |**ppAlertsAll**|2|All alerts displayed.|
 |**ppAlertsNone**|1|No alerts displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

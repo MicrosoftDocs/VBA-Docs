@@ -49,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .TextFrame.TextRange.ParagraphFormat.Reset
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

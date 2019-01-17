@@ -37,4 +37,4 @@ The  **ResourceComparison** method is equivalent to the **Resource Comparison** 
 
 To compare tasks in a comparison report, use the  **[TaskComparison](Project.Application.TaskComparison.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

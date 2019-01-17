@@ -49,3 +49,4 @@ To specify whether to repeat item labels for a single PivotField, use the  **[Re
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

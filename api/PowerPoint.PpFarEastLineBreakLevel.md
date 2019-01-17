@@ -21,3 +21,4 @@ Specifies where to add the line break based upon Asian character level.
 |**ppFarEastLineBreakLevelNormal**|1|Normal level|
 |**ppFarEastLineBreakLevelStrict**|2|Strict level|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ _expression_ A variable that represents an [IconView](./Outlook.IconView.md) obj
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

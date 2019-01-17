@@ -22,3 +22,4 @@ Specifies how special effects are applied to the animation for the specified tex
 |**msoAnimTextUnitEffectByWord**|2|By word.|
 |**msoAnimTextUnitEffectMixed**|-1|Mixed effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

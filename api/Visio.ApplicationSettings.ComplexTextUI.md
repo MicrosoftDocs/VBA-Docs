@@ -42,6 +42,6 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 The setting of  **ComplexTextUI** is dependent on the settings of three other properties of the **ApplicationSettings** object: **[ApplicationSettings.BIDITextUI](Visio.ApplicationSettings.BIDITextUI.md)** , **[ApplicationSettings.KashidaTextUI](Visio.ApplicationSettings.KashidaTextUI.md)** , and **[ApplicationSettings.SATextUI ](Visio.ApplicationSettings.SATextUI.md)**. If any of these properties is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
 
-You can determine current language settings by getting the value of the  **[Application.LanguageSettings](Visio.Application.LanguageSettings.md)** property. Or, you can change language settings in the **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**. 
+You can determine current language settings by getting the value of the  **[Application.LanguageSettings](Visio.Application.LanguageSettings.md)** property. Or, you can change language settings in the **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Contains constants that specify Yes, No, or Automatic.
 |**pjNo**|0|No.|
 |**pjYes**|1|Yes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [ListFormat Object](Word.ListFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

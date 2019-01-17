@@ -32,4 +32,4 @@ For Each bar In myChart.Application.CommandBars
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Joins a list paragraph with the closest list above or below the specified paragr
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

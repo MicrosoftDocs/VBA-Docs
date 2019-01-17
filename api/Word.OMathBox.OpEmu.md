@@ -34,3 +34,4 @@ When the OpEmu property is  **True** , the character can serve as a point for a 
 
 [OMathBox Object](Word.OMathBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

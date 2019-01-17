@@ -29,3 +29,4 @@ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

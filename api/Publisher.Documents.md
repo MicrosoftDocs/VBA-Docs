@@ -93,3 +93,4 @@ Next objDocument
 |[Item](./Publisher.Documents.Item.md)|
 |[Parent](./Publisher.Documents.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

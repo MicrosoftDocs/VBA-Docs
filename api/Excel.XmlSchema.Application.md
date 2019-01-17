@@ -44,3 +44,4 @@ End If
 
 [XmlSchema Object](Excel.XmlSchema.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

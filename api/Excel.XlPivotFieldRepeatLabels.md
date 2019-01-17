@@ -20,3 +20,4 @@ Specifies whether to repeat all field item labels in a PivotTable report.
 | **xlDoNotRepeatLabels**|1|Do not repeat item labels.|
 | **xlRepeatLabels**|2|Repeat all item labels.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

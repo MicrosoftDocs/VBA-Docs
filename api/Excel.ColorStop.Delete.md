@@ -34,3 +34,4 @@ Nothing
 
 [ColorStop Object](Excel.ColorStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

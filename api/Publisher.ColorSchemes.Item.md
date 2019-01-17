@@ -46,4 +46,4 @@ This example sets the color scheme of the active publication to the Aqua color s
 ActiveDocument.ColorScheme = ColorSchemes.Item(Index:=pbColorSchemeAqua)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

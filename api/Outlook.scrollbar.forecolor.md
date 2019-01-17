@@ -32,4 +32,4 @@ Use the  **ForeColor** property for controls on forms to make them easy to read 
 
 The  **ForeColor** sets the color of the arrows.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

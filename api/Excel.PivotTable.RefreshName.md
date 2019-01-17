@@ -45,3 +45,4 @@ MsgBox "The data was last refreshed by " & pvtTable.RefreshName
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

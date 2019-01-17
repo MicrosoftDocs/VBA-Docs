@@ -31,4 +31,4 @@ This example sets the chart elevation to 34 degrees. The example should be run o
 myChart.Elevation = 34
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

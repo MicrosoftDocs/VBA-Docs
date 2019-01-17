@@ -25,4 +25,4 @@ Gets the  **COMAddIns** collection for Project, which represents the currently i
 
 For more information, see the  **COMAddIns** collection object in the Microsoft Office Visual Basic Reference.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

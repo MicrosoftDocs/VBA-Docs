@@ -39,3 +39,4 @@ Range
 
 [Sentences Collection Object](Word.sentences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

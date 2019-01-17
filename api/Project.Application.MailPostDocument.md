@@ -33,4 +33,4 @@ Displays the  **Send To Exchange Folder** dialog box to post a document to Micro
 
 The  **MailPostDocument** method is only available when a mail system utilizes a Microsoft Exchange server.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

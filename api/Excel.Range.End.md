@@ -66,3 +66,4 @@ Range("B4", Range("B4").End(xlToRight)).Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

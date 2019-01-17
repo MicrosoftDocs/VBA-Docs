@@ -36,3 +36,4 @@ This property returns an error if the specified folder cannot serve as a target 
 
 [MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

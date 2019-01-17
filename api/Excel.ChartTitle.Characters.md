@@ -43,3 +43,4 @@ The  **Characters** object isn't a collection.
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

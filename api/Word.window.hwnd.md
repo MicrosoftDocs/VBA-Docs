@@ -32,3 +32,4 @@ Returns a  **Long** that indicates the window handle of the specified window. Re
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

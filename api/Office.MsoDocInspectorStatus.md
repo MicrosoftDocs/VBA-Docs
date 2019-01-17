@@ -21,3 +21,4 @@ Represents the results of running a Document Inspector module.
 |**msoDocInspectorStatusError**|2|Indicates that the Document Inspector module returned an error.|
 |**msoDocInspectorStatusIssueFound**|1|Indicates that the Document Inspector module found one or more occurrences of the search criteria.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

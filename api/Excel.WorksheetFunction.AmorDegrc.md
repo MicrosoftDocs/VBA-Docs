@@ -82,3 +82,4 @@ The following table describes the values used in  _Arg7_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

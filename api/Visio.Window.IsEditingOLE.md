@@ -28,4 +28,4 @@ Determines whether a drawing window contains an ActiveX control that has focus o
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

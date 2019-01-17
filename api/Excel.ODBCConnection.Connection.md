@@ -34,3 +34,4 @@ Setting the  **Connection** property does not immediately initiate the connectio
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

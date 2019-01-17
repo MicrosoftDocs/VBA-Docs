@@ -103,3 +103,4 @@ private void DemoViewGetTable()
 
 [How to: Search and Obtain Items in an Aggregated View](../outlook/How-to/Search-and-Filter/search-and-obtain-items-in-an-aggregated-view-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Displays information about predecessor and successor tasks in the active task de
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

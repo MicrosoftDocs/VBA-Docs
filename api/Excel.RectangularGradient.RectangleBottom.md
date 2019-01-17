@@ -47,3 +47,4 @@ Works with RectangleLeft, RectangleRight, and RectangleTop. Valid values are lis
 
 [RectangularGradient Object](Excel.RectangularGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

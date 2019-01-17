@@ -20,3 +20,4 @@ Specifies the color of a selected feature, such as a border, font, or fill.
 | **xlColorIndexAutomatic**|-4105|Automatic color.|
 | **xlColorIndexNone**|-4142|No color.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

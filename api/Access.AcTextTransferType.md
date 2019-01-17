@@ -31,3 +31,4 @@ Used with the [DoCmd.TransferText method (Access)](Access.DoCmd.TransferText.md)
 |**acLinkFixed**|6|Link Fixed Width|
 |**acLinkHTML**|9|Link HTML|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

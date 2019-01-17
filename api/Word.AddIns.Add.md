@@ -59,3 +59,4 @@ End Sub
 
 [AddIns Collection Object](Word.addins.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

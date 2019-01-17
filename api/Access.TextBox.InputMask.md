@@ -108,3 +108,4 @@ The following table shows some useful input masks and the type of values you can
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

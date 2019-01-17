@@ -33,3 +33,4 @@ localization_priority: Normal
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

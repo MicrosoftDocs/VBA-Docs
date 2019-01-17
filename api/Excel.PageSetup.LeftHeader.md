@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

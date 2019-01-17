@@ -73,3 +73,4 @@ ActiveChart.SeriesCollection.Add _
 
 [SeriesCollection Object](./Excel.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

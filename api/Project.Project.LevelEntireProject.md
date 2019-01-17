@@ -25,4 +25,4 @@ localization_priority: Normal
 
 You can also set the  **LevelEntireProject** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Level entire project**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

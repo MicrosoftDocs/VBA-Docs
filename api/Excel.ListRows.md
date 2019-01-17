@@ -56,3 +56,5 @@ Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

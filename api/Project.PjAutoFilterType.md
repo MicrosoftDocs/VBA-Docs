@@ -76,3 +76,4 @@ Contains constants that specify how to set the automatic filter.
 |**pjAutoFilterYearToDate**|18|Filter for items that occur within the year to date.|
 |**pjAutoFilterYesterday**|5|Filter for items that occur yesterday.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

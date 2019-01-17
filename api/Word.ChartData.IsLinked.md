@@ -54,3 +54,4 @@ End With
 
 [ChartData Object](Word.ChartData.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

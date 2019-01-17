@@ -22,3 +22,4 @@ Specifies how text is laid out in the layout mode for the current document.
 | **wdLayoutModeGrid**|1|Text is laid out on a grid; the user specifies the number of lines and the number of characters per line. As the user types, Microsoft Word doesn't automatically align characters with gridlines.|
 | **wdLayoutModeLineGrid**|2|Text is laid out on a grid; the user specifies the number of lines, but not the number of characters per line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

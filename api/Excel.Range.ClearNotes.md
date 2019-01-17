@@ -44,3 +44,4 @@ Worksheets("Sheet1").Columns("A:C").ClearNotes
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

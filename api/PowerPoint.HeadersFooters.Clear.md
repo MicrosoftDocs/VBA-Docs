@@ -29,3 +29,4 @@ Clears the header and footer from the specified slide or slides.
 
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

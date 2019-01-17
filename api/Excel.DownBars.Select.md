@@ -34,3 +34,4 @@ Variant
 
 [DownBars Object](Excel.DownBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

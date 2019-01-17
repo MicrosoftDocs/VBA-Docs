@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.PostItem.Open.md)** event 
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

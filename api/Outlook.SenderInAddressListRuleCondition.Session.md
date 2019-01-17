@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

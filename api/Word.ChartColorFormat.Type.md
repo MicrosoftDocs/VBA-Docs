@@ -39,3 +39,4 @@ This property returns one of the following  **[MsoColorType](Office.MsoColorType
 
 [ChartColorFormat Object](Word.ChartColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

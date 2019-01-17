@@ -46,3 +46,4 @@ Me.ctl.BackTint=25
 
 [EmptyCell Object](Access.EmptyCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

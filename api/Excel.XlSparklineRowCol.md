@@ -25,4 +25,4 @@ Specifies how to plot the sparkline when the data on which it is based is in a s
 
 The  **xlSparklineRowCol** enumeration is used by the **[PlotBy](./overview/Excel.md)** property of the **[SparklineGroup](Excel.SparklineGroup.md)** object to determine how to plot chart in a sparkline when data on which it based is in a square-shaped range, such as A1:B2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Msgbox "The system version is " & System.Version
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies the measurement units.
 | **xlInches**|0|Inches|
 | **xlMillimeters**|2|Millimeters|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

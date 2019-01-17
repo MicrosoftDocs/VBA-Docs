@@ -34,3 +34,4 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 [Page Object](Access.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -112,3 +112,4 @@ objCustomControl.XMLMapping.SetMappingByNode objCustomNode
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

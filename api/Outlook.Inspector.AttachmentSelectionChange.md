@@ -34,3 +34,4 @@ The  **AttachmentSelectionChange** event fires when a different or additional at
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

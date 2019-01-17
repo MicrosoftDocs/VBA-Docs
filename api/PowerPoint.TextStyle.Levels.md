@@ -29,3 +29,4 @@ Returns a  **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that repr
 
 [TextStyle Object](PowerPoint.TextStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

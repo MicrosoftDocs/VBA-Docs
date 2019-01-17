@@ -38,3 +38,5 @@ _expression_ A variable that represents a **[DocumentProperties](Office.Document
 ## See also
 
 - [DocumentProperties object members](overview/library-reference/documentproperties-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

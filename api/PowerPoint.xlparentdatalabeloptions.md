@@ -24,3 +24,4 @@ Constants passed to and returned by the  **Series.ParentDataLabelOption** proper
 
 [Series.ParentDataLabelOption Property (PowerPoint)](PowerPoint.series.parentdatalabeloption.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

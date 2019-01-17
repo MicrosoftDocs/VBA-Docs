@@ -23,4 +23,4 @@ To retrieve a  **Hyperlinks** collection, use the **Hyperlinks** property of a *
 
 The default property of a  **Hyperlinks** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ You can pass only a single category for the  _Category_ parameter. Passing a sem
 
 Categories are user-defined strings that you can use to categorize shapes and thereby to restrict membership in a container. You can define categories in the User.msvShapeCategories cell in the ShapeSheet for a shape. You can define multiple categories for a shape by separating those categories with semi-colons.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

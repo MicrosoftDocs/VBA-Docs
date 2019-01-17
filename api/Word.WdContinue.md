@@ -21,3 +21,4 @@ Specifies whether the formatting from the previous list can be continued.
 | **wdContinueList**|2|Formatting can continue from the previous list.|
 | **wdResetList**|1|Numbering can be restarted.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

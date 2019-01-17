@@ -24,3 +24,4 @@ Represents the way data from a Web form is processed.
 | **pbSubmitDataRetrievalProgram**|3|Processes form data using a script program provided by your Internet service provider.|
 | **pbSubmitDataRetrievalSaveOnServer**|1|Saves form data to a file stored on your Web server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

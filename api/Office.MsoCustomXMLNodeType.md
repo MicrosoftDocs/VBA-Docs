@@ -25,3 +25,4 @@ Specifies the node type.
 |**msoCustomXMLNodeProcessingInstruction**|7|The node is a processing instruction.|
 |**msoCustomXMLNodeText**|3|The node is a text node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

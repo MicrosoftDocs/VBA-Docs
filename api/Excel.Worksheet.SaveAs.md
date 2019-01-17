@@ -51,3 +51,4 @@ Use strong passwords that combine upper- and lowercase letters, numbers, and sym
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

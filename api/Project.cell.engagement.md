@@ -27,3 +27,4 @@ Gets or sets the engagement resource for a cell.
 
 [Cell Object (Project)](Project.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

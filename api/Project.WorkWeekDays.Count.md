@@ -35,3 +35,5 @@ Debug.Print ActiveProject.Resources(1).Calendar.WorkWeeks(1).WeekDays.Count
 
 
 [WorkWeekDays Collection Object](Project.workweekdays.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ The following example prompts the user to enter the name of a bitmap and then as
 
 [Image Object](Access.Image.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

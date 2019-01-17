@@ -52,3 +52,4 @@ To move the focus outside a subreport control, press CTRL+TAB.
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ Application.FixedDecimalPlaces = 4
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

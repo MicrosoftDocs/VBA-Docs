@@ -21,3 +21,4 @@ Represents one of the three language fonts contained in the  **ThemeFonts** coll
 |**msoThemeEastAsian**|3|Represents the East Asian font face. East Asian Languages include Simplified Chinese, Traditional Chinese, Japanese, and Korean.|
 |**msoThemeLatin**|1|Represents the Latin font face.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

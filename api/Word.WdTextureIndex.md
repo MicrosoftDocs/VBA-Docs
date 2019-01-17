@@ -71,3 +71,4 @@ Specifies the shading texture to use for a selected item.
 | **wdTextureSolid**|1000|Solid shading.|
 | **wdTextureVertical**|-8|Vertical shading.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

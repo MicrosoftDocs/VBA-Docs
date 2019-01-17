@@ -42,4 +42,4 @@ Supports the Web pane that hosts the  **Task Drivers**,  **Project/Resource Impo
 
  The **LoadWebPaneControl** method is similar to the **LoadWebBrowserControl** method for the **Project Guide**, except TargetPage is a URL and the method generates an  **Application.LoadWebPane** event. The default WrapperPage is Mainpage_wp.htm.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

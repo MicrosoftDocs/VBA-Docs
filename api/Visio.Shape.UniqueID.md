@@ -85,4 +85,4 @@ Set vsoShape = Visio.ActivePage.Shapes.Item("U{2287DC42-B167-11CE-88E9-0020AFDDD
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Long
 
 The default setting for the  **Timeout** property is 15 seconds.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,4 @@ The  **Connects** collection of a page contains a **Connect** object for every c
 
 The  **Connects** collection of a master contains a **Connect** object for every connection in the master.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

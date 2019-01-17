@@ -28,4 +28,4 @@ Project sets the  **AMText** and **PMText** properties equal to the correspondin
 
  **Note**  Although the VBA Object Browser shows  **PMText** as read-write, you cannot set the value using the **PMText** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

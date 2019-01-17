@@ -34,3 +34,4 @@ This property returns  **Nothing** if there is no parent content control for the
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

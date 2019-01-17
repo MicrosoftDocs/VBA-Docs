@@ -27,4 +27,4 @@ The parent of an  **Assignment** object can be a **Task** or a **Resource**.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies the type of layout row.
 | **xlOutlineRow**|2|Outline Row|
 | **xlTabularRow**|1|Tabular Row|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

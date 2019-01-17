@@ -34,3 +34,4 @@ When a field is locked, you cannot update the field results.
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

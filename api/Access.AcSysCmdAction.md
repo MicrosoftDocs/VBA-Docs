@@ -34,3 +34,4 @@ Used with the  **SysCmd** method to specify an action to take.
 |**acSysCmdSetStatus**|4|Sets the status bar text to the text argument.|
 |**acSysCmdUpdateMeter**|2|Updates the progress meter with the specified value. You must specify the text argument when you use this action.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

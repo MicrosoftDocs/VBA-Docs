@@ -44,3 +44,4 @@ ActiveProtectedViewWindow.ToggleRibbon
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

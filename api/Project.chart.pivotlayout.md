@@ -31,3 +31,5 @@ If the chart you specify isn't a PivotChart report, the value of the  **PivotLay
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

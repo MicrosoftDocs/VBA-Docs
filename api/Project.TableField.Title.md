@@ -41,4 +41,4 @@ The following statement prints "Task Name" in the  **Immediate** pane.
 Debug.Print ActiveProject.TaskTables("Entry").TableFields(4)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

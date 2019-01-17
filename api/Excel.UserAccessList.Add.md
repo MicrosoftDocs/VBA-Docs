@@ -43,3 +43,4 @@ A  **[UserAccess](Excel.UserAccess.md)** object that represents the new user acc
 
 [UserAccessList Object](Excel.UserAccessList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

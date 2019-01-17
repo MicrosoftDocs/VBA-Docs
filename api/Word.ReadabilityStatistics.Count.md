@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of readability statistics in the 
 
 [ReadabilityStatistics Collection Object](Word.readabilitystatistics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

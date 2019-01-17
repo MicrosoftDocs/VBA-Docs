@@ -44,3 +44,4 @@ End If
 
 [Floor Object](Word.Floor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

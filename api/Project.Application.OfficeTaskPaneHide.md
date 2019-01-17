@@ -25,4 +25,4 @@ Hides the Office task pane if it is visible.
 
 To determine if the Office task pane is visible, use the  **[IsOfficeTaskPaneVisible](Project.Application.IsOfficeTaskPaneVisible.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

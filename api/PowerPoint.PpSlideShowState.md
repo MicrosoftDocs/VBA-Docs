@@ -23,3 +23,4 @@ Constants that specify the state of the slide show, passed to and returned by th
 |**ppSlideShowRunning**|1|Running|
 |**ppSlideShowWhiteScreen**|4|White screen|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

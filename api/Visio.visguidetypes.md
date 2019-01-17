@@ -22,3 +22,4 @@ Guide type codes to be passed to the  **Page.AddGuide** method.
 | **visPoint**|1|Guide point|
 | **visVert**|3|Horizontal guide|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

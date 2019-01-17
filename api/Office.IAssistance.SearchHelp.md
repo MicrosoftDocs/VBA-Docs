@@ -59,3 +59,4 @@ End Sub
 
 - [IAssistance object members](overview/Library-Reference/iassistance-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

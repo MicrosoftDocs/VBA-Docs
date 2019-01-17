@@ -60,3 +60,4 @@ To distinguish between the left, right, and middle mouse buttons, use the **Mous
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

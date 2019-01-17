@@ -23,3 +23,4 @@ Specifies starting position of the callout line relative to the text bounding bo
 |**msoCalloutDropMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoCalloutDropTop**|2|Top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

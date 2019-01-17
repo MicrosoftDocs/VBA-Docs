@@ -29,3 +29,4 @@ Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method 
 |**acSpreadsheetTypeExcel12**|9|Microsoft Excel 2010 format|
 |**acSpreadsheetTypeExcel12Xml**|10|Microsoft Excel 2010/2013/2016 XML format (.xlsx, .xlsm, .xlsb)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

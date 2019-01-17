@@ -55,3 +55,4 @@ ActivePresentation.EnvelopeVisible = msoTrue
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

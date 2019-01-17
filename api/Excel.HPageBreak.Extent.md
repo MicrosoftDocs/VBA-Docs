@@ -47,3 +47,4 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

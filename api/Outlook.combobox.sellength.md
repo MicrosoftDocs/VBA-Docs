@@ -32,4 +32,4 @@ Changing the value of the  **SelStart** property cancels any existing selection 
 
 The default value, zero, means that no text is currently selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

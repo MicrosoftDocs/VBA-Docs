@@ -47,4 +47,4 @@ The ID of a  **Font** object corresponds to the number stored in the Font cell o
 
 The ID of an  **Event** object uniquely identifies an event in its **EventList** collection for the life of the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

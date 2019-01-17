@@ -36,4 +36,4 @@ Reschedules the specified task to the next available time.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

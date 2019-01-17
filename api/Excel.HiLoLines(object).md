@@ -41,4 +41,4 @@ ActiveChart.ChartGroups(1).HiLoLines.Border.Color = RGB(0, 0, 255)
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

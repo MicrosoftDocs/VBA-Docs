@@ -40,3 +40,4 @@ Setting  **SelLength** to a value less than zero causes an error. Attempting to 
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

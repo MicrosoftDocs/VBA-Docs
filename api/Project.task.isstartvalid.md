@@ -30,4 +30,4 @@ To check the finish date and duration, use the  **[IsFinishValid](Project.task.i
 
  **VARIANT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,3 +50,4 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

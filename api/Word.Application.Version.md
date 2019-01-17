@@ -39,3 +39,4 @@ Msgbox "The version of Word is " & Application.Version
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

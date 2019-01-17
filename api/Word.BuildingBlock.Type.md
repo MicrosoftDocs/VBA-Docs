@@ -29,3 +29,4 @@ Returns a  **BuildingBlockType** object that represents the type for a building 
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies how the body of the email is displayed.
 |**mfPlainText**|1|The email is displayed as plain text.|
 |**mfRTF**|3|The email is displayed as Rich Text Format (RTF).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

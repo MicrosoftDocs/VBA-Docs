@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Edit
 
 [Editors Collection](Word.Editors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

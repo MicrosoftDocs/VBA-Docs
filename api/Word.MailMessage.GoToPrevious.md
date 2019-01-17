@@ -29,3 +29,4 @@ Displays the previous mail message if you are using Word as your email editor.
 
 [MailMessage Object](Word.MailMessage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -81,3 +81,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [AutoFormat Method](Project.chart.autoformat.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,4 @@ The  **SetBegin** method only applies to 1-D shapes. If the indicated shape is a
 
 The coordinates represented by the  _xPos_ and _yPos_ arguments are parent coordinates, measured from the origin of the shape's parent (the page or group that contains the shape).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

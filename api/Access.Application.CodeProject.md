@@ -42,3 +42,4 @@ Use the  **CodeProject** property to refer to one of the following code database
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

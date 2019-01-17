@@ -41,4 +41,4 @@ Controls whether the start times of tasks are reflected by their corresponding t
 
 The  **BarRounding** method affects only how tasks display on the Gantt Chart or Calendar. The duration of the tasks is not affected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

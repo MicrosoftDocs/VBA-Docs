@@ -25,3 +25,4 @@ Specifies the data entry mode of a form.
 |**acFormPropertySettings**|-1|The user can only change the form's properties.|
 |**acFormReadOnly**|2|The user can only view records.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

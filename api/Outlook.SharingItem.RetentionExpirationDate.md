@@ -47,3 +47,4 @@ Microsoft Outlook calculates the value of this property based on the item retent
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,4 +16,4 @@ Defines the characteristics of the text used by a control.
 
 Each control has its own  **Font** object to let you set its text characteristics independently of the characteristics defined for other controls. Use font properties to specify the font name, to set bold, italic, or underlined text, or to adjust the size of the text.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

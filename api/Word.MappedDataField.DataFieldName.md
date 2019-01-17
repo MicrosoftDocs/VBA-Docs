@@ -81,3 +81,4 @@ End Sub
 
 [MappedDataField Object](Word.MappedDataField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

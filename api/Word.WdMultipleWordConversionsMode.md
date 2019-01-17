@@ -20,3 +20,4 @@ Specifies the direction for conversion between Hangul and Hanja.
 | **wdHangulToHanja**|0|Hangul to Hanja.|
 | **wdHanjaToHangul**|1|Hanja to Hangul.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

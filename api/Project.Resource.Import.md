@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **Import** property is used by the wizard for local resources only.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

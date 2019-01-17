@@ -24,3 +24,4 @@ Used with the [TransformXML](Access.Application.TransformXML.md) method to speci
 |**acEnableScript**|0|The script is enabled.|
 |**acPromptScript**|1|The user is prompted to disable or enable the script.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

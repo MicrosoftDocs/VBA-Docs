@@ -55,3 +55,4 @@ End With
 
 [Outline Object](Excel.Outline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

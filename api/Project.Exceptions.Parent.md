@@ -30,3 +30,5 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [Exceptions Collection Object](Project.exceptions.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

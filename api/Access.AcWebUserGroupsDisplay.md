@@ -23,3 +23,4 @@ Specifies the type of information to return about the group membership of the cu
 |**acWebUserGroupID**|0|The identifiers of the groups.|
 |**acWebUserGroupName**|1|The names of the groups.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The  **Address** property must be set before calling the **[AddressEntry.Details
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

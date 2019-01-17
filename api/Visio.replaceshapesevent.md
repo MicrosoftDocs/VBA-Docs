@@ -19,5 +19,4 @@ Properties of the  **ReplaceShapesEvent** object return information about variou
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

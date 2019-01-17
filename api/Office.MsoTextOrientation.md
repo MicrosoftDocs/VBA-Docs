@@ -25,3 +25,4 @@ Specifies orientation for text.
 |**msoTextOrientationVertical**|5|Vertical.|
 |**msoTextOrientationVerticalFarEast**|4|Vertical as required for Asian language support.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

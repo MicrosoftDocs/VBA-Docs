@@ -30,3 +30,5 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [Availabilities Collection Object](Project.availabilities.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

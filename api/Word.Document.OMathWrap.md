@@ -34,3 +34,4 @@ A value of -1 specifies that the continuation of the equation is right-aligned. 
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

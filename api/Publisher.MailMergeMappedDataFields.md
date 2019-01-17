@@ -88,3 +88,4 @@ End Sub
 |[Count](Publisher.MailMergeMappedDataFields.Count.md)|
 |[Parent](Publisher.MailMergeMappedDataFields.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

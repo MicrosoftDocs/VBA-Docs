@@ -28,4 +28,4 @@ Gets or sets the date that the remaining portion of the task is scheduled to res
 
 If no progress is entered on the task, the  **Resume** property is "NA".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

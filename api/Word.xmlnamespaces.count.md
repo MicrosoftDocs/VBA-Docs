@@ -24,6 +24,4 @@ Returns a  **Long** that represents the number of XML namespaces in the collecti
 
 ## See also
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

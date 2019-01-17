@@ -94,4 +94,4 @@ Public Sub ParseFullBuildNumberCreatedProperty(ByRef lngFullBuild As Long)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

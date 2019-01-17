@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

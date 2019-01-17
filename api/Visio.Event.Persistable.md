@@ -72,4 +72,4 @@ You can change the initial setting for a persistable event by setting its  **Per
 
  **Note**  Events handled in a Microsoft Visual Basic for Applications (VBA) project are persistent.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

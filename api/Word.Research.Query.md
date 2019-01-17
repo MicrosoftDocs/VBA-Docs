@@ -46,3 +46,4 @@ Variant
 
 [Research Object](Word.Research.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

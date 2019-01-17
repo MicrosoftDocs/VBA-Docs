@@ -30,3 +30,5 @@ _expression_ An expression that returns an **[EffectParameters](Office.EffectPar
 ## See also
 
 - [EffectParameters object members](overview/library-reference/effectparameters-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

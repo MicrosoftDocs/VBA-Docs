@@ -28,4 +28,4 @@ Repeats the last search and returns  **True** if the search value is found.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

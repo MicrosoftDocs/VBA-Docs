@@ -28,3 +28,4 @@ Specifies the marker style for a point or series in a line chart, scatter chart,
 | **xlMarkerStyleTriangle**|3|Triangular markers.|
 | **xlMarkerStyleX**|-4168|Square markers with an X.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

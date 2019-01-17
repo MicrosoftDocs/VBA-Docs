@@ -95,3 +95,4 @@ End Sub
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

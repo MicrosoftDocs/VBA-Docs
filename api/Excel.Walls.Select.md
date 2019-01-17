@@ -34,3 +34,4 @@ Variant
 
 [Walls Object](Excel.Walls(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ The setting of the  **TextureOffsetY** property corresponds to the setting of th
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

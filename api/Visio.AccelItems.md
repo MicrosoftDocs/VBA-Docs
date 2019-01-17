@@ -28,4 +28,4 @@ The default property for an  **AccelItems** collection is **Item**.
 
 Unlike other Visio collections, the  **AccelItems** collection is indexed starting with zero (0) rather than 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

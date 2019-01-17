@@ -37,4 +37,4 @@ For any given session of Microsoft Visio, when the  **RasterExportUseTransparenc
 
 The setting of the  **RasterExportUseTransparencyColor** property corresponds to whether the **Transparency color** box in the **GIF Output Options** or the **PNG Output Options** dialog box is selected. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Graphics Interchange Format (*.gif)** or **Portable Network Graphics (*.png)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

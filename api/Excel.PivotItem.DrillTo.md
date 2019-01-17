@@ -42,3 +42,4 @@ For OLAP data sources, the PivotField being drilled to has to be in the same hie
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,3 +64,5 @@ End Sub
 
 [ShapeRange Object](Project.shaperange.md)
 [Shape.Duplicate Method](Project.shape.duplicate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

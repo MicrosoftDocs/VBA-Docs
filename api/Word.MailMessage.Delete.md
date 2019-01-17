@@ -29,3 +29,4 @@ Deletes the specified mail message.
 
 [MailMessage Object](Word.MailMessage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

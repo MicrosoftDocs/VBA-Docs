@@ -65,3 +65,4 @@ Set objSection = ActiveDocument.Sections.Add(StartPageIndex:=2)
 |[ShowHeaderFooterOnFirstPage](Publisher.Section.ShowHeaderFooterOnFirstPage.md)|
 |[StartPageIndex](Publisher.Section.StartPageIndex.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

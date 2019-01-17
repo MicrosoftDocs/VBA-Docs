@@ -56,4 +56,4 @@ In this case, the result is 60 minutes if the  **DefaultDurationUnits** property
 
 For details about implicit units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

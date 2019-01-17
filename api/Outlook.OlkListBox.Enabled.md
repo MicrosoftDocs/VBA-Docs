@@ -34,3 +34,4 @@ The default value is  **True**.
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

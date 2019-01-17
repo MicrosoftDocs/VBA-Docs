@@ -29,4 +29,4 @@ Returns a [Selection](Visio.Selection.md) object that represents the source shap
 
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

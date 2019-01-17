@@ -39,3 +39,4 @@ The  **SlicerItems** property of the **SlicerCache** object is only applicable f
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

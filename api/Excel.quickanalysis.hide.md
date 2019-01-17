@@ -57,3 +57,4 @@ When the argument is set to any one of the following options, the resulting user
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

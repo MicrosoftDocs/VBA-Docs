@@ -82,3 +82,4 @@ End Sub
 
 [Recipient Object](Outlook.Recipient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

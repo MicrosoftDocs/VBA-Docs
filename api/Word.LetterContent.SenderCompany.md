@@ -41,3 +41,4 @@ End If
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

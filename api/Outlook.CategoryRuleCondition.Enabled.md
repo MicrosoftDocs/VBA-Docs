@@ -34,3 +34,4 @@ After you enable a rule condition, you must also save the rule by using  **[Rule
 
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

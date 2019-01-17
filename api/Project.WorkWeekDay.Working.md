@@ -30,3 +30,5 @@ For an example that uses the  **Month** object, see **[Working](Project.Month.Wo
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

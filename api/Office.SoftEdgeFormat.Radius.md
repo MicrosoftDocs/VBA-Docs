@@ -30,3 +30,4 @@ _expression_. `Radius`
 
 [SoftEdgeFormat Object Members](./overview/Library-Reference/softedgeformat-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ If the navigation group is not on the Navigation Pane, then this property return
 
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

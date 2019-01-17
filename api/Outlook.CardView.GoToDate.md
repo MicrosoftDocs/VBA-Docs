@@ -37,3 +37,4 @@ _expression_ A variable that represents a [CardView](./Outlook.CardView.md) obje
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

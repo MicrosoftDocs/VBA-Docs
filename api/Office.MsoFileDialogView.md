@@ -27,3 +27,4 @@ Specifies the view presented to the user in a file dialog box.
 |**msoFileDialogViewTiles**|9|Files displayed as tiled icons.|
 |**msoFileDialogViewWebView**|8|Files displayed in Web view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

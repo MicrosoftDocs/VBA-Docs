@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of inline shapes in the collectio
 
 [InlineShapes Collection Object](Word.inlineshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The parent of a  **SolutionsModule** object returns a **[NavigationPane](Outlook
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

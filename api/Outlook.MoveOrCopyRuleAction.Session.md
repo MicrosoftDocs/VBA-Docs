@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

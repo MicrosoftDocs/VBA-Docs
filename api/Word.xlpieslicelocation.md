@@ -25,3 +25,4 @@ Specifies which position on the slice to return the coordinate of.
 | **xlOuterClockwisePoint**|3|The outermost clockwise point of the circumference of a slice.|
 | **xlOuterCounterClockwisePoint**|1|The outermost counterclockwise point of the circumference of a slice.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

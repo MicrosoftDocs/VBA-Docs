@@ -23,3 +23,4 @@ Specifies constants that define the different ways to add a new node to the data
 |**msoSmartArtNodeBelow**|5|Insert a node below the SmartArt node in the data model.|
 |**msoSmartArtNodeDefault**|1|The default. Corresponds to clicking  **Add Shape** in the SmartArt ribbon.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

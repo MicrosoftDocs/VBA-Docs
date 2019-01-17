@@ -46,4 +46,4 @@ Some OpenType fonts provide stylistic sets. A stylistic set defines a set of cha
 
  **Note**  Not all OpenType fonts provide stylistic sets. Setting a font's **[ StylisticSet](Word.Font.StylisticSet.md)** property to a WdStylisticSet constant that is not provided by the font has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

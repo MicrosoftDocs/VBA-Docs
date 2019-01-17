@@ -44,3 +44,4 @@ For pictures and OLE objects, you can indicate whether you want to scale the ran
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

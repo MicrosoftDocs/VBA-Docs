@@ -42,3 +42,4 @@ End With
 
 [Dialog Object](Word.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

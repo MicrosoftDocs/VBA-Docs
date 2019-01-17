@@ -34,3 +34,5 @@ Integer
 ## See also
 
 - [CommandBarControls object members](overview/library-reference/commandbarcontrols-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

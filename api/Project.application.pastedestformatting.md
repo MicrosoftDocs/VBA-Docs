@@ -38,3 +38,5 @@ Pastes a copy of a report or a shape, where the copy is formatted in the default
 [Shape.Copy Method](Project.shape.copy.md)
 [PasteSourceFormatting Method](Project.application.pastesourceformatting.md)
 [PasteAsPicture Method](Project.application.pasteaspicture.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

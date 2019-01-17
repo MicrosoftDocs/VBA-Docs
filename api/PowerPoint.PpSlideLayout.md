@@ -51,3 +51,4 @@ Constants that specify the layout of the slide, passed to and returned by the  *
 |**ppLayoutVerticalTitleAndText**|27|Vertical title and text|
 |**ppLayoutVerticalTitleAndTextOverChart**|28|Vertical title and text over chart|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

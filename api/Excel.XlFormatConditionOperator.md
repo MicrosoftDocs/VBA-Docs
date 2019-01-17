@@ -26,3 +26,4 @@ Specifies the operator to use to compare a formula against the value in a cell o
 | **xlNotBetween**|2|Not between. Can be used only if two formulas are provided.|
 | **xlNotEqual**|4|Not equal.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

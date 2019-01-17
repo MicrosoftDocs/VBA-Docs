@@ -31,3 +31,4 @@ The  **IAssistance** object exposes methods that developers can use to display H
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

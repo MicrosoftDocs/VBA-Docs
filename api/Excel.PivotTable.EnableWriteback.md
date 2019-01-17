@@ -47,3 +47,4 @@ For non-OLAP data sources, setting this property generates a run-time error.
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

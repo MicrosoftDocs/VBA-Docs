@@ -27,3 +27,5 @@ For a code example that uses the  **XValues** property, see the **[Series](Proje
 
 [Series Object](Project.series.md)
 [Values Property](Project.series.values.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

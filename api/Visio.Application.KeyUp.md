@@ -124,4 +124,4 @@ End Sub
 
 Save the document to initialize the class, press any key, and then release it to fire a  **KeyUp** event. In the Immediate window, the handler prints the code of the key that was released to fire the event and the state of the SHIFT and CTRL keys at the time the event fired.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

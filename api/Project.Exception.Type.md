@@ -30,3 +30,5 @@ The  **Type** property can be one of the **[PjExceptionType](Project.PjException
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

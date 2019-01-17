@@ -67,4 +67,4 @@ Set shpLabel = ActiveDocument.Pages(1).Shapes.AddLabel _
  Width:=72, Height:=18)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

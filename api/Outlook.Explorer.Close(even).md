@@ -36,3 +36,4 @@ If you use the  **[Close](Outlook.Explorer.Close(method).md)** method to fire th
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

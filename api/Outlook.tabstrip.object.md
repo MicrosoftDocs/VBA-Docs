@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [TabStrip Properties (Outlook Forms Script)](Outlook.tabstrip(properties).md)
     
 -  [TabStrip Events (Outlook Forms Script)](Outlook.tabstrip(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

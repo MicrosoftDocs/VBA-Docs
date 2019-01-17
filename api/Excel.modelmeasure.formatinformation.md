@@ -32,4 +32,4 @@ The formatting of the model measure can be of type [ModelFormatBoolean](Excel.mo
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

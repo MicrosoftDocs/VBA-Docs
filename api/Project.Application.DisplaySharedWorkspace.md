@@ -33,4 +33,4 @@ Displays the  **Shared Workspace** pane. Available only in Project Professional.
 
 This method returns a trappable error (error code 1100) when not connected to Project Server.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

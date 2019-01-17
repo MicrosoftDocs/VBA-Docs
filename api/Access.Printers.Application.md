@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [Printers Collection](Access.Printers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ The value of the  **AlternativeText** property corresponds to the setting of the
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

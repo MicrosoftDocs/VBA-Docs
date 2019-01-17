@@ -22,3 +22,4 @@ Measurement system types to be passed to the  **Documents.AddEx** method.
 | **visMSMetric**|1|Metric measurement system.|
 | **visMSUS**|2|U.S. (English) units measurement system.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

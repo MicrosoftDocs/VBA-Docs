@@ -67,3 +67,4 @@ Next
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

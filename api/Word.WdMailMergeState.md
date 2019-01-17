@@ -24,3 +24,4 @@ Specifies the state of a mail merge operation.
 | **wdMainDocumentOnly**|1|A main document with no data attached.|
 | **wdNormalDocument**|0|Document is not involved in a mail merge operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

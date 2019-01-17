@@ -23,3 +23,4 @@ Not supported in Access.
 |**acSchemaNone**|0||
 |**acSchemaXSD**|1||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

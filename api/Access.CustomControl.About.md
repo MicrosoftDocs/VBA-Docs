@@ -34,3 +34,4 @@ To view an  **About** box showing version and copyright information for an Activ
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

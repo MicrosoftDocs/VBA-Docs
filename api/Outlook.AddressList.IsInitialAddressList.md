@@ -34,3 +34,4 @@ _expression_ A variable that represents an [AddressList](./Outlook.AddressList.m
 
 [AddressList Object](Outlook.AddressList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

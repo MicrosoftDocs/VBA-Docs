@@ -29,4 +29,4 @@ Indicates the recurrence state of an  **AppointmentItem**.
 
 See [AppointmentItem.RecurrenceState Property (Outlook)](Outlook.AppointmentItem.RecurrenceState.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

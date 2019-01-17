@@ -20,4 +20,4 @@ Gets or sets a Number local custom field for a resource. Read/write  **Double**.
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Use the  **[ApplyDocumentTheme](Word.ApplyDocumentTheme.md)** method to apply an
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

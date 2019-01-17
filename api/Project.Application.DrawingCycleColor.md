@@ -33,4 +33,4 @@ Changes the color of the active drawing object.
 
 The  **DrawingCycleColor** method has the same effect as the **Cycle Fill Color** button on the **Drawing** toolbar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

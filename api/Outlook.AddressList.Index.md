@@ -34,3 +34,4 @@ The  **Index** property is only valid during the current session and can change 
 
 [AddressList Object](Outlook.AddressList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

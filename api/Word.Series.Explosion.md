@@ -34,3 +34,4 @@ This property returns 0 (zero) if there is no explosion (the tip of the slice is
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

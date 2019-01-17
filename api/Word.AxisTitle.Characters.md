@@ -43,3 +43,4 @@ The  **ChartCharacters** object is not a collection.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

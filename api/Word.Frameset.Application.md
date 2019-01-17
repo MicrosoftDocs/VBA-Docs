@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

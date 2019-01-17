@@ -44,3 +44,4 @@ Open and return a  **ProtectedViewWindow** object from the **ProtectedViewWindow
 
 [ProtectedViewWindows Object](PowerPoint.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

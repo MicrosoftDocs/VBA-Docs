@@ -28,4 +28,4 @@ Displays the  **About Microsoft Project** dialog box, which lists version, copyr
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

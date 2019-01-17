@@ -38,4 +38,4 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

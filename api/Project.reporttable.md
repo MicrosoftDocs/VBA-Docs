@@ -171,3 +171,5 @@ End Sub
 [Chart Object](Project.chart.md)
  
 [Chart.DataTable Property](Project.chart.datatable.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

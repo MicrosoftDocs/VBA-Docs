@@ -32,3 +32,4 @@ Returns or sets whether the specified paragraph is collapsed by default when the
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

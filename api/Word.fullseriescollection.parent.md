@@ -32,4 +32,4 @@ Returns an  **Object** that represents the parent object of the specified **Full
 
 [FullSeriesCollection Object](Word.fullseriescollection.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

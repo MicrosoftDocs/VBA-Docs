@@ -38,3 +38,4 @@ For built-in controls, if you set the **Enabled** property to **True**, the appl
 
 - [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

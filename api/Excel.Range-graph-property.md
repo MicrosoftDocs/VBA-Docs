@@ -60,4 +60,4 @@ With myChart.Application.DataSheet
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

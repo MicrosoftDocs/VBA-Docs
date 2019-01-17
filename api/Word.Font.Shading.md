@@ -29,3 +29,4 @@ Returns a  **Shading** object that refers to the shading formatting for the spec
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

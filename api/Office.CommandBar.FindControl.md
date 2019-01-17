@@ -51,3 +51,4 @@ If the **CommandBars** collection contains two or more controls that fit the sea
 
 - [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

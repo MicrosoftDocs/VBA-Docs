@@ -29,3 +29,4 @@ Selects the object.
 
 [LeaderLines Object](Word.LeaderLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ There are other ways to provide information about a form or a control on a form.
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,4 @@ Saves a single shape range as a building block. Returns the resulting  **[Buildi
 |:-----|:-----|:-----|:-----|
 |Name|Required| **String**|The name of the new building block you want to create.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The  **Text** property returns the plain, unformatted text of the selection or r
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

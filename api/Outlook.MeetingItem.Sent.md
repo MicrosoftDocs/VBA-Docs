@@ -34,3 +34,4 @@ In general, there are three different kinds of messages: sent, posted, and saved
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

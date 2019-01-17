@@ -51,3 +51,4 @@ objCC.LockContentControl = True
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AllReports](Access.AllReports.md) ob
 
 [AllReports Collection](Access.AllReports.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

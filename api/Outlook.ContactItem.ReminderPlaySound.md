@@ -34,3 +34,4 @@ The  **ReminderPlaySound** property must be set in order to validate the **[Remi
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

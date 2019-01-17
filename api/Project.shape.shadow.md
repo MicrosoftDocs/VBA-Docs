@@ -27,3 +27,5 @@ Gets or sets the shadow formatting properties for the shape. Read-only  **[Shado
 
 [Shape Object](Project.shape.md)
 [ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

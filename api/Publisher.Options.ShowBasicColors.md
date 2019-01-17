@@ -38,4 +38,4 @@ The following example sets Publisher to not show basic colors in the color palet
 Options.ShowBasicColors = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Deletes the specified form field.
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

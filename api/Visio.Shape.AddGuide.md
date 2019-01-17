@@ -55,3 +55,4 @@ The following constants declared by the Visio type library are valid values for 
 | **visHorz**|2|Horizontal guide|
 | **visVert**|3|Vertical guide|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

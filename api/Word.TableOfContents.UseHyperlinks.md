@@ -39,3 +39,4 @@ ActiveDocument.TableOfContents(1).UseHyperlinks = True
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

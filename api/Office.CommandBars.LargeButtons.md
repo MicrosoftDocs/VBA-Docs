@@ -45,3 +45,5 @@ End If
 ## See also
 
 - [CommandBars object members](overview/library-reference/commandbars-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

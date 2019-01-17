@@ -57,3 +57,4 @@ Forms("Order Entry").Controls("OK").OnEnter = "Enter_Macro"
 
 [OptionGroup Object](Access.OptionGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

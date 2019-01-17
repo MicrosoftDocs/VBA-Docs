@@ -54,3 +54,4 @@ Reports("Product Summary").GroupLevel(0).SortOrder = False
 
 [GroupLevel Object](Access.GroupLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

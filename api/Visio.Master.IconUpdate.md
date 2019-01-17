@@ -40,3 +40,4 @@ The following constants declared by the Visio type library in  **VisMasterProper
 | **visManual**|0 |Update icon manually.|
 | **visAutomatic**|1 |Update icon automatically from shape geometry data.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

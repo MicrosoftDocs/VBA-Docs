@@ -52,3 +52,4 @@ The event does not fire under the following circumstances:
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [ODBCErrors Object](Excel.ODBCErrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

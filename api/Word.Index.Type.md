@@ -29,3 +29,4 @@ Returns or sets the index type. Read/write  **[WdIndexType](Word.WdIndexType.md)
 
 [Index Object](Word.Index.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

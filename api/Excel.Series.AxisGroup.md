@@ -34,3 +34,4 @@ _expression_ A variable that represents a '[Series](Excel.Series(object).md)' ob
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

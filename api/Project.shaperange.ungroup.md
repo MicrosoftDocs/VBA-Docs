@@ -31,3 +31,5 @@ In general for applications that implement Office Art, the  **Ungroup** method u
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

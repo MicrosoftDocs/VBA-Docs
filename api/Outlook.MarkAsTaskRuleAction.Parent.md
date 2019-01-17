@@ -34,3 +34,4 @@ The parent object is the  **[RuleAction](Outlook.RuleAction.md)** object.
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

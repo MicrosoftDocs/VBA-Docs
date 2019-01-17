@@ -46,3 +46,4 @@ Me.ctl.BorderTint=25
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

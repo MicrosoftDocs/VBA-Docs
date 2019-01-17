@@ -22,3 +22,4 @@ Constants passed to and returned by the  ** [Font.NumberStyle](Publisher.font.nu
 | **pbNumberStyleTabularLining**|2|Full-height numbers spaced equally|
 | **pbNumberStyleTabularOldstyle**|4|Numbers that read well and are spaced equally|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

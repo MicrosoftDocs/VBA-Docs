@@ -81,3 +81,5 @@ myRecipient.Type = olCC
 - [Recipient object members](overview/Outlook.md)
 - [Obtain the email address of a recipient](../outlook/Concepts/Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
 - [Outlook Object Model reference](overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

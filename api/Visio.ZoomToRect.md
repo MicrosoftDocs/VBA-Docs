@@ -53,4 +53,4 @@ The following code zooms to display a rectangular section of the drawing that is
 vsoViewer.ZoomToRect 0, 0, 300, 300
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

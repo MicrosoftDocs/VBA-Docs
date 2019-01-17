@@ -22,5 +22,4 @@ The  **ModelTableNames** collection is used to represent a set of tables in the 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

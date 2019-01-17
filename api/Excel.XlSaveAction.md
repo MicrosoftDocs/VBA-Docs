@@ -20,3 +20,4 @@ Specifies during file close if the file will be saved.
 | **xlDoNotSaveChanges**|2|Changes will not be saved.|
 | **xlSaveChanges**|1|Changes will be saved.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

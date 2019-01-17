@@ -57,3 +57,4 @@ Forms("Order Entry").OnActivate = "Activate_Macro"
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

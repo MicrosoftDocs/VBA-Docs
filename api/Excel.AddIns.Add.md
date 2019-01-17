@@ -61,3 +61,4 @@ End Sub
 
 - [AddIns collection](Excel.AddIns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

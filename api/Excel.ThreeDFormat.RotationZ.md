@@ -33,3 +33,4 @@ To set the rotation of the extruded shape around the y-axis, use the  **Rotation
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ If you want to convert the result from radians to degrees, multiply it by 180/PI
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

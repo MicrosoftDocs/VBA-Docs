@@ -57,3 +57,4 @@ Forms("Order Entry").Controls("OK").OnExit = "Exit_Macro"
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

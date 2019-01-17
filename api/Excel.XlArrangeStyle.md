@@ -20,3 +20,4 @@ Specifies how windows are arranged on the screen.
 | **xlArrangeStyleTiled**|1|Default. Windows are tiled.|
 | **xlArrangeStyleVertical**|-4166|Windows are arranged vertically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

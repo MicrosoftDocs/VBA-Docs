@@ -20,3 +20,4 @@ Specifies the window arrangement.
 | **wdIcons**|1|Windows are displayed as icons in a single window.|
 | **wdTiled**|0|Windows are tiled into a single window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

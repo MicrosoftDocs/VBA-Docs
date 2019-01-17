@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of mapped data fields in the coll
 
 [MappedDataFields Collection](Word.MappedDataFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

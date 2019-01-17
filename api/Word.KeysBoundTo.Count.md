@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of keys in the collection. Read-o
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

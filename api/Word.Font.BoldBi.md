@@ -46,3 +46,4 @@ ActiveDocument.Paragraphs(1).Range.Font.BoldBi = True
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

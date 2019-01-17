@@ -61,3 +61,4 @@ The following example adds a new folder to the folders collection of the shared 
 
 [SharedWorkspaceFolders Object Members](./overview/Library-Reference/sharedworkspacefolders-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

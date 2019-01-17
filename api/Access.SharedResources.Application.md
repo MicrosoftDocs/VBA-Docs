@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [SharedResources Collection](Access.SharedResources.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -69,3 +69,4 @@ End Sub
 |[Parent](Publisher.MailMergeDataField.Parent.md)|
 |[Value](Publisher.MailMergeDataField.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

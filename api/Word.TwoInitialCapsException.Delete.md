@@ -29,3 +29,4 @@ Deletes the specified two initial-capital exception from the collection of AutoC
 
 [TwoInitialCapsException Object](Word.TwoInitialCapsException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

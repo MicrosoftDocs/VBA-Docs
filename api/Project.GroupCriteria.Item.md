@@ -33,3 +33,5 @@ Gets a single  **GroupCriterion** object from the **GroupCriteria** collection. 
 
 
 [GroupCriteria Collection Object](Project.groupcriteria.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

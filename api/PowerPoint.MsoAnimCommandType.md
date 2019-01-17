@@ -21,3 +21,4 @@ Constants that specify the type of the animation command, passed to and returned
 |**msoAnimCommandTypeEvent**|0|Event|
 |**msoAnimCommandTypeVerb**|2|Verb|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

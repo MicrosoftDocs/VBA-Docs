@@ -65,3 +65,4 @@ MsgBox FindKey(KeyCode:=wdKeyF1).Command
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

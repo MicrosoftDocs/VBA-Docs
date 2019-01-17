@@ -38,3 +38,4 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [ModelTables Object](Excel.modeltables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

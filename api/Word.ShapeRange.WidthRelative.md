@@ -34,3 +34,4 @@ Use this property with the  **[RelativeHorizontalSize](Word.ShapeRange.RelativeH
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

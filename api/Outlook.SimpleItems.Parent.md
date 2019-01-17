@@ -34,3 +34,4 @@ The parent object of a  **SimpleItems** object is a **[Conversation](Outlook.Con
 
 [SimpleItems Object](Outlook.SimpleItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

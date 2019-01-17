@@ -44,3 +44,4 @@ You can also set the default for this property by setting a control's  **Default
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

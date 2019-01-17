@@ -42,3 +42,4 @@ WorkbookConnection
 
 [Connections Object](Excel.Connections.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

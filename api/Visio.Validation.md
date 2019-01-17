@@ -21,4 +21,4 @@ Stores information about diagram validation for the document.
 
 To get a  **Validation** object, use the **[Validation](Visio.Document.Validation.md)** property of the **[Document](Visio.Document.md)** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

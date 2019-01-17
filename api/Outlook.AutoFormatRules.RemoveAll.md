@@ -34,3 +34,4 @@ This method removes every  **[AutoFormatRule](Outlook.AutoFormatRule.md)** objec
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

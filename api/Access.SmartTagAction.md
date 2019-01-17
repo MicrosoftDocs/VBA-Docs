@@ -48,3 +48,5 @@ To return the parent control of the  **[SmartTag](Access.SmartTag.md)** object, 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

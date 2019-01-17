@@ -29,3 +29,4 @@ _expression_ A variable that represents an [Exception](./Outlook.Exception.md) o
 
 [Exception Object](Outlook.Exception.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

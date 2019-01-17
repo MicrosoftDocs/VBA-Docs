@@ -39,3 +39,4 @@ The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Ou
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

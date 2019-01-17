@@ -26,3 +26,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [Interior Object](PowerPoint.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

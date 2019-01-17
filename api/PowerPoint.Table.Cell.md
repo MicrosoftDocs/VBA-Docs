@@ -69,3 +69,4 @@ ActivePresentation.Slides(2).Shapes(5).Table _
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

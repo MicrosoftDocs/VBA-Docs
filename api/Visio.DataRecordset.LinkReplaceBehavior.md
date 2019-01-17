@@ -60,4 +60,4 @@ The difference between the  **LinkToData** methods and the **AutomaticLink** met
 
 So, for example, if  **LinkReplaceBehavior** is set to **visLinkReplaceNever** , you can specify that **AutomaticLink** nevertheless replaces existing links by passing it **visAutoLinkReplaceExistingLinks**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies spelling rules for the Arabic spelling checker.
 | **wdInitialAlef**|1|The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|
 | **wdNone**|0|The spelling checker ignores spelling rules regarding either Arabic words ending with the letter yaa or Arabic words beginning with an alef hamza.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

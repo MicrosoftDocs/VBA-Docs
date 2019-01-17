@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

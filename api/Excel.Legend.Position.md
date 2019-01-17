@@ -39,3 +39,4 @@ Charts(1).Legend.Position = xlLegendPositionBottom
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

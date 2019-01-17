@@ -43,4 +43,4 @@ The Favorites folder is typically  `C:\Users\UserAlias\Favorites`. For a project
 
 The  **WebAddToFavorites** method is unavailable if the file has never been saved.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

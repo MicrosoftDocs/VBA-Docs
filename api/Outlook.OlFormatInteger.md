@@ -25,3 +25,4 @@ Indicates the format used to display integer Outlook item properties.
 | **olFormatIntegerComputer3**|4|Displays integer values, representing bytes, as either bytes (with the abbreviation "B"), kilobytes (with the abbreviation "KB"), megabytes (with the abbreviation "MB"), or gigabytes (with the abbreviation "GB"), depending on the value. For example, the integer value of 1000 is displayed as "1,000 B".|
 | **olFormatIntegerPlain**|1|Displays integer values using the number format specified in your computer's regional settings.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

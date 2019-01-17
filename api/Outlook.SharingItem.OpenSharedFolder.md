@@ -39,3 +39,4 @@ This method allows the recipient of a sharing invitation to open the shared fold
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ Gets or sets the name of the shape. Read-write  **String**.
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

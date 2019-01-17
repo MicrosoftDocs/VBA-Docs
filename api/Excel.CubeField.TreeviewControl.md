@@ -48,3 +48,4 @@ ActiveSheet.PivotTables("PivotTable2") _
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

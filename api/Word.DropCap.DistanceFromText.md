@@ -44,3 +44,4 @@ End With
 
 [DropCap Object](Word.DropCap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ Specifies the types of special folders in a store.
 
 Not all special folders exist in all stores.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

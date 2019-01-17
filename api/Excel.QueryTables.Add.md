@@ -126,3 +126,4 @@ End With
 
 [QueryTables Object](Excel.QueryTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

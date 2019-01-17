@@ -23,3 +23,4 @@ Type codes returned by the  **Document.Type** property.
 | **visTypeStencil**|2|Document type is a stencil.|
 | **visTypeTemplate**|3|Document type is a template.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

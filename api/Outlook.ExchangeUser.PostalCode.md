@@ -36,3 +36,4 @@ Returns an empty string if this property has not been implemented or does not ex
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

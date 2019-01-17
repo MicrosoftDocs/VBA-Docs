@@ -29,3 +29,4 @@ Unloads the Web browser control and returns to the regular Project interface.
 |:-----|:-----|:-----|:-----|
 | _Window_|Optional|**Variant**|Window to be activated.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

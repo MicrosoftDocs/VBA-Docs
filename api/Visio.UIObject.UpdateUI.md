@@ -36,4 +36,4 @@ Nothing
 
 The  **UpdateUI** method updates the Visio user interface with changes made to a **UIObject** object during a session. Use the **CustomMenus** or **CustomToolbars** property of an **Application** object or **Document** object to obtain the **UIObject** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

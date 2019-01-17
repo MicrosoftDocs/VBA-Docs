@@ -48,3 +48,4 @@ ActiveDocument.Tables(1).Rows.LeftIndent = InchesToPoints(1)
 
 [TableStyle Object](Word.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

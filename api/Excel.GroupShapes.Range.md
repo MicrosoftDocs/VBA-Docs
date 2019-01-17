@@ -130,3 +130,4 @@ End With
 
 [GroupShapes Object](Excel.GroupShapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,4 @@ Returns the number of  **DataColumn** objects in the **DataColumns** collection.
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

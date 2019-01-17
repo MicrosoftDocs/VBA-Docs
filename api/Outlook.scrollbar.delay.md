@@ -30,4 +30,4 @@ After the initial lag, the interval between events is the value specified for  *
 
 The default value of  **Delay** is 50 milliseconds. This means the object initiates the first event after 250 milliseconds (5 times the specified value) and initiates each subsequent event after 50 milliseconds.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

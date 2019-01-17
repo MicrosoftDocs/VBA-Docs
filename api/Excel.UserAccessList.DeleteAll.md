@@ -48,3 +48,4 @@ End Sub
 
 [UserAccessList Object](Excel.UserAccessList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

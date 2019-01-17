@@ -34,4 +34,4 @@ The  **ListStyle** property lets you change the visual presentation of a **ListB
 
 If the list box supports a single selection (the  **[MultiSelect](Outlook.listbox.multiselect.md)** property is set to 0), the user can press one button in the group. If the control supports multi-select, the user can press two or more buttons in the group.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

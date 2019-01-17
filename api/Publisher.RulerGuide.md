@@ -63,3 +63,4 @@ End Sub
 |[Position](Publisher.RulerGuide.Position.md)|
 |[Type](Publisher.RulerGuide.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

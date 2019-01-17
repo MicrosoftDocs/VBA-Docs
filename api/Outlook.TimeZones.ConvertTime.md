@@ -44,3 +44,4 @@ A  **Date** value that represents the date and time expressed in the _Destinatio
 
 [TimeZones Object](Outlook.TimeZones.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

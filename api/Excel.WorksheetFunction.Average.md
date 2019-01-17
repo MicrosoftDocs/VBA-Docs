@@ -70,3 +70,4 @@ For a symmetrical distribution of a group of numbers, these three measures of ce
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

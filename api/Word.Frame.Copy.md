@@ -29,3 +29,4 @@ Copies the specified frame to the Clipboard.
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

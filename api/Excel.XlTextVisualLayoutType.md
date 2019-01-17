@@ -20,3 +20,4 @@ Specifies whether the visual layout of the text being imported is left-to-right 
 | **xlTextVisualLTR**|1|Left-to-right|
 | **xlTextVisualRTL**|2|Right-to-left|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

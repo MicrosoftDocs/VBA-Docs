@@ -69,3 +69,4 @@ End Sub
 |[Top](Publisher.PrintableRect.Top.md)|
 |[Width](Publisher.PrintableRect.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,4 +62,4 @@ The following example displays the **Modified** date and time along with other p
 
 - [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

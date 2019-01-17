@@ -66,3 +66,4 @@ ActivePresentation.Slides.Paste 4
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

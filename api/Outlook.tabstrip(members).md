@@ -45,5 +45,4 @@ Presents a set of related controls as a visual group.
 |:-----|:-----|
 | [Click](Outlook.tabstrip.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

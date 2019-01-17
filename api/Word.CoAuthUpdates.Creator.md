@@ -37,4 +37,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CoAuthUpdates Object](./overview/Word.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

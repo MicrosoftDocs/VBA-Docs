@@ -34,3 +34,4 @@ When this property is  **True** , the connection file will be used to establish 
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

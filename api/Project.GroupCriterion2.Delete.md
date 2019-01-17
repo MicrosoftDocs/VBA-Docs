@@ -26,3 +26,4 @@ Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** col
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

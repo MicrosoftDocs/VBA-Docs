@@ -61,3 +61,4 @@ End Sub
 
 [Envelope Object](Word.Envelope.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

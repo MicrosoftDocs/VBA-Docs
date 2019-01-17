@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents a diagonal strikethrough from upp
 
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

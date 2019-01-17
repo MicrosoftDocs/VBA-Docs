@@ -48,3 +48,4 @@ MsgBox "The data was last refreshed on " & dateString
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

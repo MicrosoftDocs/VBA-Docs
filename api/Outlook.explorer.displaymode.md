@@ -39,3 +39,4 @@ _expression_ A variable that 'DisplayMode'represents a  **Explorer** object.
 
 [Explorer Object (Outlook)](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies how to determine the value of the parameter for the specified query ta
 | **xlPrompt**|0|Displays a dialog box that prompts the user for the value. The **Value** argument specifies the text shown in the dialog box.|
 | **xlRange**|2|Uses the value of the cell in the upper-left corner of the range. The **Value** argument specifies a **Range** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ ShapeRange
 
 Publisher classifies a shape as surplus if it does not fit neatly into the new template after the template is changed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

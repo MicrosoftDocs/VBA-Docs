@@ -22,3 +22,4 @@ Specifies the type of fraction bar.
 | **wdOMathFracNoBar**|1|No fraction bar.|
 | **wdOMathFracSkw**|2|Skewed fraction bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

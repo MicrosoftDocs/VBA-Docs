@@ -34,3 +34,4 @@ For more information on the XML schema for Electronic Business Cards, see the Mi
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,4 @@ _expression_. `Creator`
 
 [SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

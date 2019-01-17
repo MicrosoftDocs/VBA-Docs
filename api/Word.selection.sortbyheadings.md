@@ -49,3 +49,4 @@ Sorts the headings in the specified selection.
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

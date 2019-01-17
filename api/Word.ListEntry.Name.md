@@ -29,3 +29,4 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 [ListEntry Object](Word.ListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

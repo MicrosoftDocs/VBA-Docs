@@ -48,4 +48,4 @@ The following code gets the count of hyperlinks associated with the first shape 
 Debug.Print vsoViewer.HyperlinkCount(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

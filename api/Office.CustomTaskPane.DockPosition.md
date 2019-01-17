@@ -46,3 +46,5 @@ The value of this property can be set to one of the following **[MsoCTPDockPosit
 ## See also
 
 - [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

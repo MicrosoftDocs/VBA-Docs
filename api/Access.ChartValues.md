@@ -25,3 +25,5 @@ Represents a field whose values will be plotted in the value (Y) axis of a chart
 
 - [ChartValuesCollection object](Access.ChartValuesCollection.md)
 - [Chart object](Access.Chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

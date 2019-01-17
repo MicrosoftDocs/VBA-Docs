@@ -28,4 +28,4 @@ Cuts the selected items.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

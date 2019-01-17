@@ -76,3 +76,4 @@ End Sub
 
 [Presentations Object](PowerPoint.Presentations.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

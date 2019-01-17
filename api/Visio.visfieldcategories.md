@@ -27,4 +27,4 @@ Text-field categories passed to the  **AddField** and **AddFieldEx** methods.
 
  **Note**  Do not pass  **visFCatCustom** to the **AddField** method. Pass it to **AddCustomField** or **AddCustomFieldU** instead.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

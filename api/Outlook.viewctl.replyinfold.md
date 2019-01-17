@@ -21,6 +21,6 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 ## Remarks
 
-Along with the reply, the post item retains the text from the original message and its Subject field. 
+Along with the reply, the post item retains the text from the original message and its Subject field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

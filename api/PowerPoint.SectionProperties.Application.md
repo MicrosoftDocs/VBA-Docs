@@ -29,3 +29,4 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

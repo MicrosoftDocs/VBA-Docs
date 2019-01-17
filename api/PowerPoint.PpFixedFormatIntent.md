@@ -20,3 +20,4 @@ Constants that specify the intent of the fixed-format file export, passed to the
 |**ppFixedFormatIntentPrint**|2|Intent is to print exported file.|
 |**ppFixedFormatIntentScreen**|1|Intent is to view exported file on screen.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

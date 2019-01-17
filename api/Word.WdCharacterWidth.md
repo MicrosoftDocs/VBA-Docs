@@ -20,3 +20,4 @@ Specifies the character width of the specified range.
 | **wdWidthFullWidth**|7|Characters are displayed in full character width.|
 | **wdWidthHalfWidth**|6|Characters are displayed in half the character width.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

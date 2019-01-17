@@ -47,3 +47,4 @@ As long as a control's  **Enabled** property is set to Yes, you can click the co
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

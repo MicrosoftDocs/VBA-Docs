@@ -46,3 +46,4 @@ Use the  **[ViewType](PowerPoint.DocumentWindow.ViewType.md)** property to set t
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

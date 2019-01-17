@@ -40,3 +40,4 @@ The  **TopGridlineWidth** property uses the following settings.
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

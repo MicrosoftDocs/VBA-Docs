@@ -29,3 +29,4 @@ Returns a  **Range** object that represents the portion of a document that's con
 
 [Footnote Object](Word.Footnote.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

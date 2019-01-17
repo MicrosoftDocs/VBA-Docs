@@ -39,3 +39,4 @@ Uses either LinearGradient or RectangularGradient.
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

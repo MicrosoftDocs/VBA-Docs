@@ -49,3 +49,4 @@ ActiveDocument.SendFax Address:="12065551234", _
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

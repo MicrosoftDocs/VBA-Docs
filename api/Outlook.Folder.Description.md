@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagComment**.
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ When used without an object qualifier, this property returns an  **[Application]
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

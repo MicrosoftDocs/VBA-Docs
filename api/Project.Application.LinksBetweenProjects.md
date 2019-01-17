@@ -36,4 +36,4 @@ Specifies whether the  **Links between Projects** dialog box appears when openin
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

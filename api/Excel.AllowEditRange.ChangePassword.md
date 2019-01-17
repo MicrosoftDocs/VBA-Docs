@@ -71,3 +71,4 @@ End Sub
 
 [AllowEditRange Object](Excel.AllowEditRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

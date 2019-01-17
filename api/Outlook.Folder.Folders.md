@@ -106,3 +106,5 @@ End Sub
 
 
 [Folder Object Members](./overview/Outlook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

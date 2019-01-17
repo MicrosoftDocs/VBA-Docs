@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The default value of  **UnderlineHyperlinks** is **True**. The application default can be set with the **[OptionsEditEx](Project.Application.OptionsEditEx.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

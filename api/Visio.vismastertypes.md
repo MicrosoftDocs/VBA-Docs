@@ -26,3 +26,4 @@ Master-type constants passed to the  **[Masters.AddEx](Visio.Masters.AddEx.md)**
 | **visTypeThemeColors**|6|Theme colors master.|
 | **visTypeThemeEffects**|7|Theme effects master.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

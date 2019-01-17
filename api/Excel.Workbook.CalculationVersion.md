@@ -34,3 +34,4 @@ If the workbook was saved in an earlier version of Excel and if the workbook has
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

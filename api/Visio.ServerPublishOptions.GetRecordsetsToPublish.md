@@ -50,3 +50,4 @@ The  _PublishDataRecordsets_ parameter can be one of the following **VisPublishD
 | **visPublishDataRecordsetsNone**|1|Publish none of the data recordsets in the document.|
 | **visPublishDataRecordsetsSelect**|2|Publish selected data recordsets.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

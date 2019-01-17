@@ -44,3 +44,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Copy
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

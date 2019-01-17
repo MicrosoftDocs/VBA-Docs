@@ -70,4 +70,4 @@ The following code shows how to get the current position and zoom factor of the 
     Debug.Print "Zoom factor is:"; dblZoomFactor
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

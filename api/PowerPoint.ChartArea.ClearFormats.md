@@ -51,3 +51,4 @@ End With
 
 [ChartArea Object](PowerPoint.ChartArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

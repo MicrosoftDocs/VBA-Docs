@@ -105,3 +105,4 @@ End Sub
 |[Parent](Publisher.Wizard.Parent.md)|
 |[Properties](Publisher.Wizard.Properties.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

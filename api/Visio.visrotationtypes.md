@@ -22,3 +22,4 @@ Rotation type constants to be passed to the  **Selection.Rotate** method.
 | **visRotateSelection**|0|Rotate the selection relative to the center of the selection.|
 | **visRotateShapes**|2|Rotate the selected shapes around their pins relative to their current angle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

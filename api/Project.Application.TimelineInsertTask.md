@@ -58,4 +58,4 @@ If the Project status bar shows  **New Tasks: Manually Scheduled**, the followin
 Application.TimelineInsertTask Type:=pjTimelineInsertCalloutTask
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

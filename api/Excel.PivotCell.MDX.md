@@ -39,3 +39,4 @@ The dimensions returned in the tuple by the  **MDX** property include row and co
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

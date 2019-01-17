@@ -32,3 +32,4 @@ Returns or sets a  **Single** that represents the depth of the top bevel. Read/w
 
  [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

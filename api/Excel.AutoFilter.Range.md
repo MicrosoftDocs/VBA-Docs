@@ -51,3 +51,4 @@ ActiveWindow.ScrollColumn = hr.Column
 
 [AutoFilter Object](Excel.AutoFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

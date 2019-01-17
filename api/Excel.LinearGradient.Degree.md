@@ -50,3 +50,4 @@ End With
 
 [LinearGradient Object](Excel.LinearGradient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

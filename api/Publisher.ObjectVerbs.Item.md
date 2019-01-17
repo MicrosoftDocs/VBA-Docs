@@ -36,4 +36,4 @@ Returns an individual object in a specified collection.
 
 String
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

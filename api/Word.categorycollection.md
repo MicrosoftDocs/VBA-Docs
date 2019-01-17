@@ -22,5 +22,4 @@ Categories are visible if they have not been filtered out of a chart.
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

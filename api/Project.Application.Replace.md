@@ -84,3 +84,5 @@ Sub LowerPriority()
         Value:="800", Replacement:="600" 
 End Sub
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

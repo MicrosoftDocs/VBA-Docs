@@ -28,4 +28,4 @@ Indicates the ownership state of the task.
 
 Used by the [TaskItem.Ownership Property (Outlook)](Outlook.TaskItem.Ownership.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

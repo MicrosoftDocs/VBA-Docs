@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [RecentFiles Collection Object](Word.recentfiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

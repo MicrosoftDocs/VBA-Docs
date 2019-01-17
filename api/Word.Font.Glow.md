@@ -29,3 +29,4 @@ Returns a [GlowFormat](Word.GlowFormat.md) object that represents the glow forma
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

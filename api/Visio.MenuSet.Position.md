@@ -48,3 +48,4 @@ Constants that represent possible  **Position** property values are listed below
 | **visBarPopup**|5|
 | **visBarMenu**|6|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

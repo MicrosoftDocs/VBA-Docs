@@ -47,3 +47,4 @@ Specifies the style to apply to page numbers.
 | **wdPageNumberStyleUppercaseRoman**|1|Uppercase Roman style.|
 | **wdPageNumberStyleVietCardinalText**|56|Vietnamese Cardinal text style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

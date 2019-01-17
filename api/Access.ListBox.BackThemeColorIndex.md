@@ -65,3 +65,4 @@ Me.FormHeader.BackThemeColorIndex=2
 
 [ListBox Object](Access.ListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

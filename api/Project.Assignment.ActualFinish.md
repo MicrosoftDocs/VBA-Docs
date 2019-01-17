@@ -25,4 +25,4 @@ Gets or sets the actual finish date of an assignment. Read/write  **Variant**.
 
 For an example that sets the actual finish date of a task, see the  **[ActualFinish](Project.Task.ActualFinish.md)** property for the **Task** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,5 +17,4 @@ Represent a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) collect
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

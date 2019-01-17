@@ -57,4 +57,4 @@ Use the  **[VerticalPosition](Visio.GraphicItem.VerticalPosition.md)** property 
 
 Use the  **[UseDataGraphicPosition](Visio.GraphicItem.UseDataGraphicPosition.md)** property to get or set whether a **GraphicItem** object inherits the settings of the **[DataGraphicHorizontalPosition](Visio.Master.DataGraphicHorizontalPosition.md)** and **[DataGraphicVerticalPosition](Visio.Master.DataGraphicVerticalPosition.md)** properties of the data graphic master it belongs to (when set to **True)** , or whether the **GraphicItem** object's own **HorizontalPosition** and **Vertical Position** settings are applied (when set to **False**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets an  **[xlReadingOrder](Word.XlReadingOrder.md)** constant that r
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

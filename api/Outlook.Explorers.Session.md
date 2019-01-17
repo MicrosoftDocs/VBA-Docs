@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [Explorers Object](Outlook.Explorers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

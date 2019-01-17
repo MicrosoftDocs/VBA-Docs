@@ -49,4 +49,4 @@ The following example adds a rectangle to the catalog merge area on the first pa
 ThisDocument.Pages(1).Shapes.AddShape(1, 80, 75, 450, 125).AddToCatalogMergeArea
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

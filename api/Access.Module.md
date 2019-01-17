@@ -117,3 +117,5 @@ Once you've returned a reference to a  **Module** object, you can set or read it
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [Module Object Members](overview/Access.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

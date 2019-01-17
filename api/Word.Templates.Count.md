@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of templates in the specified col
 
 [Templates Collection Object](Word.templates.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

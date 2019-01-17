@@ -36,3 +36,4 @@ This property is used to indicate how the task should be ordered within the pare
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -83,3 +83,4 @@ MsgBox Application.CleanString(Selection.Text)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

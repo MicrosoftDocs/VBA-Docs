@@ -57,3 +57,4 @@ Forms("Order Entry").Controls("OK").OnExit = "Exit_Macro"
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

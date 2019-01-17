@@ -40,3 +40,4 @@ If System.LanguageDesignation = "English (US)" Then _
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

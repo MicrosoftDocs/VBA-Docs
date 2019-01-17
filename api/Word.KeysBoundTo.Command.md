@@ -48,3 +48,4 @@ If Count = 0 Then MsgBox "Keys haven't been assigned to fonts"
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Returns an  **Application** object that represents the creator of the parent **M
 
 Object
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

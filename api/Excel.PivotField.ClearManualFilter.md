@@ -36,3 +36,4 @@ After calling this method, the following collections are empty:  **HiddenItemsLi
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

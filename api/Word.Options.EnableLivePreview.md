@@ -34,3 +34,4 @@ This property corresponds to the  **Enable Live Preview** check box in the **Wor
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

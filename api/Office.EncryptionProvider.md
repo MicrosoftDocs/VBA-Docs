@@ -25,3 +25,5 @@ Encryption providers are implemented through custom COM add-ins. You are provide
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

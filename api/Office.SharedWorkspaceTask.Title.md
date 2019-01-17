@@ -65,3 +65,4 @@ The following example displays a list of the titles of all tasks in the current 
 
 [SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

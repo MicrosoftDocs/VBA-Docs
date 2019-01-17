@@ -72,7 +72,5 @@ To ensure that the information returned by the  **EventInfo** property is associ
     
      **Note**   Even though the substring is labeled "/eventid," don't confuse the <sequence number> passed in the command line string with the **ID** property of the firing **Event** object, which identifies the **Event** object in its **EventList** collection. The number being passed is actually the firing sequence number.
 - If the  **Action** property of the **Event** object returns **visActCodeAdvise** , the sequence number is passed as an argument to the **VisEventProc** procedure implemented by the target object.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

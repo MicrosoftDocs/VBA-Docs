@@ -39,3 +39,4 @@ Selection.Find.MatchDiacritics = True
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Auto
 
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

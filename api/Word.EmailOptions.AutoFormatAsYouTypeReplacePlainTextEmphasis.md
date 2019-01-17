@@ -51,3 +51,4 @@ blnAutoFormat = _
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

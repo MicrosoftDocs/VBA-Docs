@@ -52,3 +52,4 @@ Worksheets("Sheet1").OLEObjects(1).Verb
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

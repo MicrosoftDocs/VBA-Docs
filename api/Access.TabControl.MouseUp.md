@@ -78,3 +78,4 @@ To respond to an event caused by moving the mouse, you use a  **MouseMove** even
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ If  **True** , the specified item is in conflict.
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

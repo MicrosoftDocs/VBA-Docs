@@ -32,3 +32,4 @@ Returns or sets a  **Boolean** whose value is **true** if the specified comment 
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

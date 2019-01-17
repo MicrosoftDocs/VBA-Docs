@@ -47,3 +47,4 @@ Worksheets(1).Range("E5").Hyperlinks.Item(1).Follow
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

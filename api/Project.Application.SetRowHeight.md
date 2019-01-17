@@ -38,4 +38,4 @@ Sets the height of the specified rows.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

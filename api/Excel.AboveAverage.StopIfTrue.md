@@ -34,3 +34,4 @@ To support backward compatibility, the default value for this property is  **Tru
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

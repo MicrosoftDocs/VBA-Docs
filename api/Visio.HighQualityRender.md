@@ -42,4 +42,4 @@ The following code gets a value that indicates whether high-quality rendering is
 Debug.Print vsoViewer.HighQualityRender
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

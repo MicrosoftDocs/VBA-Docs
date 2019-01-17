@@ -34,3 +34,4 @@ For a range based on an OLAP data source, this method removes all values and for
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

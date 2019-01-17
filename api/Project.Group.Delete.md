@@ -20,4 +20,4 @@ Deletes the  **Group** object from a **ResourceGroups** or **TaskGroups** collec
 
  _expression_ A variable that represents a [Group](./Project.Group.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

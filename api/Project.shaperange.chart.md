@@ -27,3 +27,5 @@ Gets a  **Chart** object that represents the chart contained in the shape range.
 
 [ShapeRange Object](Project.shaperange.md)
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

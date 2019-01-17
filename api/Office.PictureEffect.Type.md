@@ -35,3 +35,4 @@ This property takes a  **MsoPictureEffectType** enumeration.
 
 [PictureEffect Object Members](./overview/Library-Reference/pictureeffect-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ If the  **PreferredWidthType** property is set to **wdPreferredWidthPoints** , t
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

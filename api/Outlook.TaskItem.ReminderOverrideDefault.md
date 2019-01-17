@@ -34,3 +34,4 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

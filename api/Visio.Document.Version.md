@@ -45,4 +45,4 @@ Microsoft Visio can save a document in the following file format versions. Note 
 
 When Visio opens a document that was saved in an earlier version format, it converts the document's in-memory representation to the current version. However, when closing the document, Visio recognizes that the document was saved in an earlier version format and allows the user to choose the version in which to save the document.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

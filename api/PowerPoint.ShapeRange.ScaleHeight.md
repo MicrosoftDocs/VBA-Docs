@@ -56,5 +56,4 @@ The _fScale_ parameter value can be one of the following **MsoScaleFrom** consta
 |**msoScaleFromMiddle**|
 |**msoScaleFromTopLeft**|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -201,3 +201,4 @@ End Sub
 |[WizardTagInstance](./Publisher.ShapeRange.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.ShapeRange.ZOrderPosition.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

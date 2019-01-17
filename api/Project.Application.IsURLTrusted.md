@@ -33,4 +33,4 @@ Verifies whether the Project Web App URL belongs to a trusted site in the user's
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

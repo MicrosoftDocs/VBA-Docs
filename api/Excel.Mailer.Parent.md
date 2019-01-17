@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Mailer](Excel.Mailer.md) object.
 
 [Mailer Object](Excel.Mailer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

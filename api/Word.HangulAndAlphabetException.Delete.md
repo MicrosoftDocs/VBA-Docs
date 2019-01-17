@@ -29,3 +29,4 @@ Deletes the specified exception.
 
 [HangulAndAlphabetException Object](Word.HangulAndAlphabetException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

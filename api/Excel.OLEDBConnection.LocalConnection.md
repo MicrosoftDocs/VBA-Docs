@@ -38,3 +38,4 @@ The value of the  **LocalConnection** property is used if the **UseLocalConnecti
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

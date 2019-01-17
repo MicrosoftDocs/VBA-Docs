@@ -26,3 +26,5 @@ Deletes the shape.
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

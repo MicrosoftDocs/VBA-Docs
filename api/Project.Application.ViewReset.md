@@ -35,4 +35,4 @@ The  **ViewReset** method displays a dialog box that asks if you are sure you wa
 
 The  **ViewReset** method has the same effect as the **Reset to Default** command in the drop-down list of views on the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

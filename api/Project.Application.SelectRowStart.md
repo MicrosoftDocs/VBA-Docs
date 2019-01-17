@@ -41,4 +41,4 @@ Selects the first cell in the row containing the active cell.
 
 The  **SelectRowStart** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

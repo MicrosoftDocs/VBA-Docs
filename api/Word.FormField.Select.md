@@ -34,3 +34,4 @@ After using this method, use the  **[Selection](Word.Selection.md)** object to w
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

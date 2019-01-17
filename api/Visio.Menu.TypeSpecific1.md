@@ -45,3 +45,4 @@ The value of an object's  **TypeSpecific1** property depends on the value of its
 | **visCtrlTypeEDITBOX**|Zero (0).|
 | **visCtrlTypeLABEL**|The  **TypeSpecific1** property is not used.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

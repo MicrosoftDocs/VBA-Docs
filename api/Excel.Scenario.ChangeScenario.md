@@ -59,3 +59,4 @@ Worksheets("Sheet1").Scenarios(1).ChangeScenario _
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

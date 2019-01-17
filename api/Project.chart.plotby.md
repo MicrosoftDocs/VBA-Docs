@@ -34,3 +34,5 @@ For PivotChart reports, The  **PlotBy** property is read-only and always returns
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

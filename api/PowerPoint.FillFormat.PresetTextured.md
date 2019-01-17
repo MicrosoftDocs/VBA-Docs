@@ -83,3 +83,4 @@ myDocument.Shapes.AddShape(msoShapeCan, 90, 90, 40, 80) _
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

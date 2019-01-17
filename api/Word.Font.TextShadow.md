@@ -29,3 +29,4 @@ Returns a [ShadowFormat](Word.ShadowFormat.md) object that specifies the shadow 
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

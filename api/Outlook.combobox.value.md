@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 Changing the contents of  **Value** does not change the value of **BoundColumn**. To add or delete entries in a  **ComboBox**, you can use the  **[AddItem](Outlook.combobox.additem.md)** or **[RemoveItem](Outlook.combobox.removeitem.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

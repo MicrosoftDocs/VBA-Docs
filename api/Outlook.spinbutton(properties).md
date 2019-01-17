@@ -33,5 +33,5 @@ localization_priority: Normal
 -  [SpinButton.SmallChange Property (Outlook Forms Script)](Outlook.spinbutton.smallchange.md)
     
 -  [SpinButton.Value Property (Outlook Forms Script)](Outlook.spinbutton.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

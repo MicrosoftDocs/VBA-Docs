@@ -21,3 +21,4 @@ Constants to pass to the  **Cell.ResultInt** property.
 | **visRound**|1|Round the result.|
 | **visTruncate**|0|Truncate the result.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

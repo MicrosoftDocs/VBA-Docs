@@ -44,3 +44,4 @@ Blog account settings are stored in the registry at \\HKCU\Software\Microsoft\Of
 
 - [IBlogExtensibility object members](overview/Library-Reference/iblogextensibility-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

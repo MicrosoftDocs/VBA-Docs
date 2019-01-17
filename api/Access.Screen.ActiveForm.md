@@ -47,3 +47,4 @@ If a subform has the focus,  **ActiveForm** refers to the main form. If no form 
 
 [Screen Object](Access.Screen.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

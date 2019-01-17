@@ -36,4 +36,4 @@ Long()
 
 The rows returned by this property have already been deleted. As a result, you can no longer retrieve information about data in these rows by calling Visio Automation properties or methods.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

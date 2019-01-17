@@ -66,3 +66,4 @@ Use the  **Binom_Dist** method in problems with a fixed number of tests or trial
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

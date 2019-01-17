@@ -33,4 +33,4 @@ MsoTriState
 
 Publisher classifies a shape as excess (surplus) if that shape does not fit neatly into the new template after the template is changed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

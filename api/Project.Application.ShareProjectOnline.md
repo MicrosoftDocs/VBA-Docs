@@ -36,4 +36,4 @@ The  **ShareProjectOnline** method opens the same URL that you see when you choo
 
  **Note**  The  **Share with Project Online** section in the Backstage view is visible only when the **Online** value exists as a **DWord** value = 1, in the `HKCU\Software\Microsoft\Office\15.0\MS Project\Options\General` key of the Windows registry. When the **Online** value = 0, the **Share with Project Online** section is hidden.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Indicates where newly inserted pictures appear in relation to the specified fram
 | **pbVerticalLockingStretch**|3|New pictures are vertically stretched to the full height of the frame.|
 | **pbVerticalLockingTop**|1|New pictures are inserted along the top edge of the frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

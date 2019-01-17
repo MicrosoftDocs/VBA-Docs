@@ -34,3 +34,4 @@ This property corresponds to the  **Show Preview** check box in the **Styles** d
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

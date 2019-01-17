@@ -42,3 +42,4 @@ The  **ChangeConnection** method can only be used with a **PivotTable** that is 
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

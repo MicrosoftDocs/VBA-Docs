@@ -29,3 +29,4 @@ Returns the number of items in the  **BuildingBlockEntries** collection. Read-on
 
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

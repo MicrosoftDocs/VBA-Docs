@@ -42,5 +42,4 @@ Displays a picture on a form.
 |:-----|:-----|
 | [Click](Outlook.Image.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

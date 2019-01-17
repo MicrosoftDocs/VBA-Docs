@@ -20,3 +20,4 @@ Contains constants that specify assignment units.
 |**pjDecimalAssignmentUnits**|1|Decimal.|
 |**pjPercentageAssignmentUnits**|0|Percentage.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

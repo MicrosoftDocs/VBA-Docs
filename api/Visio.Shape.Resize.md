@@ -58,4 +58,4 @@ Resizes the shape by moving shape handles as specified.
 
 When you resize a shape in a diagonal direction (that is, NE, NW, SE, or SW), the specified distance is applied along both the horizontal and vertical axes (as opposed to along the compass direction.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

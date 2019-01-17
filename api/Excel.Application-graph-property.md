@@ -32,4 +32,4 @@ With myChart.Application.AutoCorrect
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

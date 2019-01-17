@@ -29,3 +29,4 @@ Returns shadow formatting properties for the chart element. Read-only  **[Shadow
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

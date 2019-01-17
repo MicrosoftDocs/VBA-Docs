@@ -44,3 +44,4 @@ Application.Screen.MousePointer = 11 ' Hourglass' Do some background activity.Ap
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ The following statement prints the name of the view in the  **Immediate** window
 Debug.Print ActiveWindow.ActivePane.View.Name
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

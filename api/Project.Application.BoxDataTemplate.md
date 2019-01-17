@@ -39,4 +39,4 @@ Creates, copies, renames, or deletes a data template for a Network Diagram view.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

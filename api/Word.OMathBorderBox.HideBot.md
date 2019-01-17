@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether to hide the bottom border
 
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The  **EnhMetaFileBits** property returns an array of bytes, which can be used w
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

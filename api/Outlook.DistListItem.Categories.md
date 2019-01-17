@@ -34,3 +34,4 @@ _expression_ A variable that represents a [DistListItem](./Outlook.DistListItem.
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

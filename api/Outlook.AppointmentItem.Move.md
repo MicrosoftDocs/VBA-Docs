@@ -42,3 +42,4 @@ An  **Object** value that represents the item which has been moved to the design
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

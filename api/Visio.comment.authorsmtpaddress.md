@@ -29,3 +29,4 @@ Returns the SMTP (Simple Mail Transfer Protocol) address of the author of the co
 
 [Comment Object](Visio.comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

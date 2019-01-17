@@ -28,4 +28,4 @@ Displays a dialog box that indicates the version for the active project when the
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

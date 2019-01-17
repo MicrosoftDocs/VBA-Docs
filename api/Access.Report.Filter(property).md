@@ -61,3 +61,4 @@ When the  **Filter** property is set in form Design view, Microsoft Access does 
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

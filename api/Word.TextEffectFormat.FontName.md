@@ -44,3 +44,4 @@ End With
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

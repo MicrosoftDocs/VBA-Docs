@@ -77,3 +77,4 @@ End Sub
 
 [Views Object](Outlook.Views.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

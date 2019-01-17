@@ -154,3 +154,5 @@ When you create a label by using the  **Label** tool, the label stands on its ow
 
 [Label Object Members](overview/Access.md)<br/>
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

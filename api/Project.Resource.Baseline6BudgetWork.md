@@ -20,4 +20,4 @@ Gets or sets the baseline6 budget work (in hours) for a  **Resource**. Read/writ
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

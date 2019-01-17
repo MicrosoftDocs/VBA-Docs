@@ -50,3 +50,4 @@ End Sub
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

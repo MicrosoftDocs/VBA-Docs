@@ -27,4 +27,4 @@ Use the  **Enabled** property to enable and disable controls. A disabled control
 
 When the user tabs into an enabled  **[TabStrip](Outlook.tabstrip.md)**, the first tab in the control receives the focus. If the first tab of a  **TabStrip** is disabled, the first enabled tab of that control receives the focus. If all tabs of a **TabStrip** are disabled, the control is disabled and cannot receive the focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

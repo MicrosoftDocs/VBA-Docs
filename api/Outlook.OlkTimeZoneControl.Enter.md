@@ -34,3 +34,4 @@ This is similar to the  **GotFocus** event exposed by managed-code controls or i
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

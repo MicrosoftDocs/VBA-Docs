@@ -41,4 +41,4 @@ Shows the  **Filter Definition** dialog box, where the user can create a filter 
 
 Running the  **FilterNew** method with no arguments corresponds to the **New Filter** command in the **Filter** drop-down list on the **VIEW** tab of the ribbon. That command brings up the **Filter Definition** dialog box, where the **Field Name** drop-down list contains fields that apply to the current view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

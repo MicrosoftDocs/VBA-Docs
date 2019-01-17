@@ -39,4 +39,4 @@ Nothing
 
 The  **ProjectBeforePublish** event is commonly used to determine whether certain conditions are satisfied and to cancel publishing if the conditions are not met.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

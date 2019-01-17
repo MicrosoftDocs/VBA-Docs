@@ -29,3 +29,4 @@ Applies the last picked up animation to the  **Shape** object.
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

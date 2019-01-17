@@ -49,4 +49,4 @@ The following example sets Publisher to display double quotes for Hebrew alphabe
 Publisher.Options.AddHebDoubleQuote = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

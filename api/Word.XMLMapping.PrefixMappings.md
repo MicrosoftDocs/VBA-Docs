@@ -34,3 +34,4 @@ To set mapping for a content control, use the  **[SetMapping](Word.XMLMapping.Se
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

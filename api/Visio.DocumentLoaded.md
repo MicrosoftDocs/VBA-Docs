@@ -40,4 +40,4 @@ The following code gets a value that indicates whether a document is loaded in V
 Debug.Print vsoViewer.DocumentLoaded
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

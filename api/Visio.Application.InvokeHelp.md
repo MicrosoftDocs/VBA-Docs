@@ -56,4 +56,4 @@ Application.InvokeHelp "Visio.chm", 15, 0
 
 For more information about the HTML Help API, search for "HTML Help API overview" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Range** object that represents the last sentence in a document, sel
 
 [Sentences Collection Object](Word.sentences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

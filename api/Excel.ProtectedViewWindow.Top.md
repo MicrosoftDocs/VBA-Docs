@@ -39,3 +39,4 @@ You cannot set this property for a maximized  **Protected View** window. Use the
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ To retrieve a  **Colors** collection, use the **Colors** property of a **Documen
 
 The default property of  **Colors** is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Specifies whether status is Copy mode or Cut mode.
 | **xlCopy**|1|In Copy mode|
 | **xlCut**|2|In Cut mode|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

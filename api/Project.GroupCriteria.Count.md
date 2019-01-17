@@ -91,3 +91,5 @@ End Sub
 
 
 [GroupCriteria Collection Object](Project.groupcriteria.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

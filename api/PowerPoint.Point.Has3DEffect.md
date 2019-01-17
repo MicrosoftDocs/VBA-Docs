@@ -31,3 +31,4 @@ This property applies only to bubble charts.
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -72,3 +72,4 @@ returnValue = instance.Forecast_Linear(Arg1, Arg2, Arg3)
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

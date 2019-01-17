@@ -33,4 +33,4 @@ Gets the unique identifier of the  **[ValidationRule](Visio.ValidationRule.md)**
 
 The ID of a validation rule is unique only within the scope of a validation rule set.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

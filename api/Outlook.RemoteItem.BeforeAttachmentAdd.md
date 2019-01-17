@@ -35,3 +35,4 @@ _expression_ A variable that represents a [RemoteItem](./Outlook.RemoteItem.md) 
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

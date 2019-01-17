@@ -29,3 +29,4 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 [ErrorBars Object](Word.ErrorBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

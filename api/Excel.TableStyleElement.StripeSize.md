@@ -34,3 +34,4 @@ This property does not apply to all  **[TableStyleElement](Excel.TableStyleEleme
 
 [TableStyleElement Object](Excel.TableStyleElement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

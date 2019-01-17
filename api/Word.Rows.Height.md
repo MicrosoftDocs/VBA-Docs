@@ -44,3 +44,4 @@ ActiveDocument.Tables(1).Rows.Height = 20
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

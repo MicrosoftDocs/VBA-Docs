@@ -22,3 +22,4 @@ Contains properties and methods that specify information about the bookmark of t
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

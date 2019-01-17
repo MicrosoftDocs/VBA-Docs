@@ -35,3 +35,4 @@ Contains constants that specify the screen type for a view in Project.
 |**pjTaskUsage**|14|**Task Usage** view.|
 |**pjTimeline**|16|**Timeline** view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

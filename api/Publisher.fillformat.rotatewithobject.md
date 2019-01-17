@@ -50,3 +50,4 @@ The setting of the  **RotateWithObject** property corresponds to the setting of 
 
  [FillFormat Object](Publisher.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the name of the specified object. Read-only  **String**.
 
 [Category Object](Word.Category.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

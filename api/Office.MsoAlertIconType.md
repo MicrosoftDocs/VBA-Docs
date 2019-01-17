@@ -23,3 +23,4 @@ Specifies which icon, if any, to display with an alert.
 |**msoAlertIconQuery**|2|Displays the  **Query** icon.|
 |**msoAlertIconWarning**|3|Displays the  **Warning** icon.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

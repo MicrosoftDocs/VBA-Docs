@@ -81,3 +81,4 @@ End With
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

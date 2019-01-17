@@ -29,3 +29,4 @@ Returns or sets an  **MsoBevelType** constant that represents the bevel type for
 
 [SoftEdgeFormat Object](Word.SoftEdgeFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

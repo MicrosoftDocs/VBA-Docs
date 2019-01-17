@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

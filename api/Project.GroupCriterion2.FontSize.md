@@ -26,3 +26,4 @@ Gets or sets the size of the font in points for a field used as a criterion in a
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

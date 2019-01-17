@@ -34,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Borders Collection](Excel.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

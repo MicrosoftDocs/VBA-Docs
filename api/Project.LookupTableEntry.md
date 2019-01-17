@@ -48,3 +48,4 @@ The following example adds three level entries to a lookup table, where the thir
 |[ParentEntry](Project.LookupTableEntry.ParentEntry.md)|
 |[UniqueID](Project.LookupTableEntry.UniqueID.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

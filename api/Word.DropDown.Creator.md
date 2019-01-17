@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [DropDown Object](Word.DropDown.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

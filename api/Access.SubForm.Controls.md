@@ -41,3 +41,4 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 
 [SubForm Object](Access.SubForm.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

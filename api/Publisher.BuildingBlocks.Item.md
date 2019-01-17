@@ -29,3 +29,4 @@ Returns the specified  **[BuildingBlock](Publisher.BuildingBlock.md)** object fr
 |:-----|:-----|:-----|:-----|
 |Item|Required| **Long**|The number of the building block object to return.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ myDocument.Shapes(1).PictureFormat.Brightness = 0.3
 
 [PictureFormat Object](Excel.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

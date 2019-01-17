@@ -33,4 +33,4 @@ Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
 
 The  **ToggleTPUnscheduled** method corresponds to the **Unscheduled Tasks** check box on the **Format** tab under **Team Planner Tools** on the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

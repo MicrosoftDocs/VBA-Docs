@@ -35,3 +35,4 @@ Long
 
 [SearchFolders Object Members](./overview/Library-Reference/searchfolders-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

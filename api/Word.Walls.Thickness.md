@@ -34,3 +34,4 @@ Use this property to set the thickness of the walls on a chart. The default valu
 
 [Walls Object](Word.Walls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

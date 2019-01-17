@@ -39,3 +39,4 @@ Windows(1).Selection.Cut
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

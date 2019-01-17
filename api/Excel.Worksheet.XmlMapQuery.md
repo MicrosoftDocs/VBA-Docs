@@ -52,3 +52,4 @@ Unlike the  **[XmlDataQuery](Excel.Worksheet.XmlDataQuery.md)** method, the **Xm
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

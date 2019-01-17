@@ -30,3 +30,4 @@ Specifies whether the conditional format is based on a cell value or an expressi
 | **xlTop10**|5|Top 10 values|
 | **xlUniqueValues**|8|Unique values|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

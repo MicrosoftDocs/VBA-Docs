@@ -67,3 +67,4 @@ End With
 |[Parent](Publisher.WebPageOptions.Parent.md)|
 |[PublishFileName](Publisher.WebPageOptions.PublishFileName.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Some of the  **WdParagraphAlignment** constants may not be available to you, dep
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

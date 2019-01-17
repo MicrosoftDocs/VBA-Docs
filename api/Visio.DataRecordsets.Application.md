@@ -31,4 +31,4 @@ Returns the instance of Microsoft Visio associated with the  **DataRecordsets** 
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

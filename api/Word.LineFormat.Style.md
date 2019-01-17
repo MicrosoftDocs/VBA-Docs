@@ -29,3 +29,4 @@ Returns or sets the line format style. Read/write  **MsoLineStyle**.
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

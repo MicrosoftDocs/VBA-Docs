@@ -29,3 +29,4 @@ Returns the number of characters in the story that contains the specified select
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

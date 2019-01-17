@@ -65,3 +65,4 @@ Worksheets("Sheet1").PivotTables(1).AddFields _
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ This example sets the space between column clusters in the 3-D column chart grou
 myChart.Column3DGroup.GapWidth = 50
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ You can specify the type and value of the evaluation by using the  **[Type](Exce
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

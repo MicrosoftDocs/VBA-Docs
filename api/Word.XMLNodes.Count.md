@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of XML elements in the collection
 
 [XMLNodes Collection](Word.XMLNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

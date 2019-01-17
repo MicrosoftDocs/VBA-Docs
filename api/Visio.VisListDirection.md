@@ -25,3 +25,4 @@ Specifies constants that identify the list direction; passed to and returned by 
 | **visListDirTopToBottom**|2|Shapes are arranged vertically, from top to bottom.|
 | **visListDirBottomToTop**|3|Shapes are arranged vertically, from bottom to top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

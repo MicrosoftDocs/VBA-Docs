@@ -20,3 +20,4 @@ This enumeration has been deprecated and should not be used.
 | **wdPublisher**|0|Not supported.|
 | **wdSubscriber**|1|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

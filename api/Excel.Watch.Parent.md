@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Watch](./Excel.Watch.md) object.
 
 [Watch Object](Excel.Watch.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

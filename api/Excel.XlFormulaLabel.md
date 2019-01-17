@@ -22,3 +22,4 @@ Specifies the formula label type for the specified range.
 | **xlNoLabels**|-4142|No labels.|
 | **xlRowLabels**|1|Row labels only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

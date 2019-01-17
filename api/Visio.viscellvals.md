@@ -325,3 +325,4 @@ Symbolic values for certain cells.
 | **visXFormResizeScale**|2|
 | **visXFormResizeSpread**|1|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

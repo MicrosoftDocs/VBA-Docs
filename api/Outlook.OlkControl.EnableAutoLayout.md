@@ -34,3 +34,4 @@ Automatic adjustments of the layout of a control include vertically or horizonta
 
 [OlkControl Class](Outlook.olkcontrol.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
 [ListGalleries Collection Object](Word.listgalleries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

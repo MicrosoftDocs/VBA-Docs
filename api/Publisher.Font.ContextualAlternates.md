@@ -45,3 +45,4 @@ The  **ContextualAlternates** property value can be one of the following **MsoTr
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted with contextual alternatives.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

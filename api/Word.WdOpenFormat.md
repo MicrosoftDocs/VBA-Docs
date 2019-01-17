@@ -40,3 +40,4 @@ Specifies the format to use when opening a document.
 | **wdOpenFormatXMLTemplateMacroEnabled**|12|XML template format with macros enabled.|
 | **wdOpenFormatXMLTemplateMacroEnabledSerialized**|17 (&H11)|Open XML template format with macros enabled saved as a single XML file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [CommandButton.Click Event (Outlook Forms Script)](Outlook.commandbutton.click.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

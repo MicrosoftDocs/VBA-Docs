@@ -57,3 +57,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyUp
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

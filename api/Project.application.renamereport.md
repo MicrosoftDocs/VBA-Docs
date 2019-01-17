@@ -40,3 +40,5 @@ If you rename a built-in report, the report is copied to a new custom report.
 
 
 [Report Object](Project.report.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

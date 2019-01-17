@@ -58,3 +58,4 @@ Contains constants that specify the type of gridline.
 |**pjUsageTitleHorizontal**|3|Usage title horizontal.|
 |**pjUsageTitleVertical**|2|Usage title vertical.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

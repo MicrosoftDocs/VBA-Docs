@@ -22,3 +22,4 @@ Specifies the direction in which to move.
 | **xlToRight**|-4161|To right.|
 | **xlUp**|-4162|Up.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

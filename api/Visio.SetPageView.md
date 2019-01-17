@@ -56,4 +56,4 @@ The following code sets the center of the page at the center of the Visio Viewer
 vsoViewer.SetPageView 4, 5, 0.50
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

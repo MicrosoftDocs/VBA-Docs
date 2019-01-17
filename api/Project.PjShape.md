@@ -26,3 +26,4 @@ Contains constants that specify the type of drawing.
 |**pjRectangle**|4|Rectangle.|
 |**pjTextBox**|8|Text box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

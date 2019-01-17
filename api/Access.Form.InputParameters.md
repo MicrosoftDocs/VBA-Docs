@@ -60,3 +60,4 @@ Parameter values are also settable in code using the ActiveX Data Object's (ADO)
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

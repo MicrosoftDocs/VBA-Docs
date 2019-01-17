@@ -36,3 +36,4 @@ Represents the collection of all 37 of the  **[CaptionStyle](Publisher.CaptionSt
 |[Count](Publisher.CaptionStyles.Count.md)|
 |[Parent](Publisher.CaptionStyles.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

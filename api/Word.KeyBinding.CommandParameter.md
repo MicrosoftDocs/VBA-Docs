@@ -51,3 +51,4 @@ MsgBox kbNew.Command & Chr$(32) & kbNew.CommandParameter _
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

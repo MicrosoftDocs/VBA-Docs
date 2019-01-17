@@ -44,3 +44,4 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies the mode for the Hebrew spelling checker.
 | **xlHebrewMixedScript**|2|In this mode the speller accepts any word recognized as Hebrew, whether in Full Script, Partial Script, or any unconventional spelling variation that is known to the speller. |
 | **xlHebrewPartialScript**|1|In this mode the speller accepts words both in Full Script and Partial Script. Some words will be flagged since this spelling is not authorized in either Full script or Partial script.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Constants passed to and returned by the  **Selection.IterationMode** property an
 | **visSelModeSkipSub**|&H0400|Selection does not report subselected shapes.|
 | **visSelModeSkipSuper**|&H0100|Selection does not report superselected shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The default value is  **True**.
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

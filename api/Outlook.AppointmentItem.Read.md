@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.AppointmentItem.Open.md)**
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

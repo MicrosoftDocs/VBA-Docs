@@ -50,3 +50,4 @@ Nothing
 | **xlXmlImportSuccess**. The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed**. The contents of the XML data file do not match the specified schema map.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

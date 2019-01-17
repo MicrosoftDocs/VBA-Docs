@@ -24,3 +24,4 @@ Selection-type constants to be passed to the  **Selection.Select** and **Window.
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Deselects a shape and all its peers.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

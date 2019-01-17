@@ -33,3 +33,5 @@ Gets a single  **TimeScaleValue** object from the **TimeScaleValues** collection
 
 
 [TimeScaleValues Collection Object](Project.timescalevalues.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

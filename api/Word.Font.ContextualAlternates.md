@@ -46,3 +46,4 @@ ActiveDocument.Range.Font.ContextualAlternates = True
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

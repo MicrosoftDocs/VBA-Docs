@@ -22,3 +22,4 @@ Contains constants that specify the assignment of resources.
 |**pjRemove**|1|Removes the specified resources from the selected tasks.|
 |**pjReplace**|2|The resources specified with  **With** replace the resources specified with **Resources**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

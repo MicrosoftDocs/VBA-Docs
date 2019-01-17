@@ -45,3 +45,4 @@ Next tsLoop
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

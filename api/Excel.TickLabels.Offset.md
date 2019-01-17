@@ -48,3 +48,4 @@ End With
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

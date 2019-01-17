@@ -50,4 +50,4 @@ Set theShape = ActiveDocument.Pages(2).Shapes(1) _
 theShape.MoveOutOfTextFlow
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

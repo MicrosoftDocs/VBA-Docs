@@ -45,3 +45,4 @@ The value returned by the  **RotateWithShape** property can be one of these **Ms
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

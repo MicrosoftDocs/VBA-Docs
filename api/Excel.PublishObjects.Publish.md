@@ -23,4 +23,4 @@ _expression_. `Publish`
 
 _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

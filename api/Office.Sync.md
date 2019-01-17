@@ -91,3 +91,5 @@ Dim objSync As Office.Sync
 ## See also
 
 [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

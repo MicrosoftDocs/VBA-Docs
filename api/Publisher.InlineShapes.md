@@ -111,3 +111,4 @@ End With
 |[Parent](Publisher.InlineShapes.Parent.md)|
 |[Range](Publisher.InlineShapes.Range.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

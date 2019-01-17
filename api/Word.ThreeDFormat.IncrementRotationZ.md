@@ -37,3 +37,4 @@ Rotates a shape on the z-axis using the specified incrementation.
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

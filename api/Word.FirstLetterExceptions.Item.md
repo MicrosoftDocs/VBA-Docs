@@ -42,3 +42,4 @@ FirstLetterException
 
 [FirstLetterExceptions Collection Object](Word.firstletterexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

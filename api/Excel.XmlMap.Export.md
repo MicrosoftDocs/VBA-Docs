@@ -48,3 +48,4 @@ Use the  **[ExportXml](Excel.XmlMap.ExportXml.md)** method to export the content
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

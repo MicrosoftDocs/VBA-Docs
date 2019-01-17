@@ -143,3 +143,4 @@ Specifies whether and how to display chart elements.
 |**msoElementUpDownBarsNone**|900|Do not display up/down bars.|
 |**msoElementUpDownBarsShow**|901|Display up/down bars.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

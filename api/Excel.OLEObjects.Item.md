@@ -57,3 +57,4 @@ Worksheets("sheet1").OLEObjects.Item(1).Delete
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

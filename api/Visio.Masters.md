@@ -93,3 +93,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Masters.PersistsEvents.md)|
 |[Stat](./Visio.Masters.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

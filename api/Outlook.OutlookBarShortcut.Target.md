@@ -64,3 +64,4 @@ End Sub
 
 [OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

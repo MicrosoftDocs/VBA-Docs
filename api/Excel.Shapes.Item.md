@@ -58,3 +58,4 @@ ss.Item(2).OnAction = "ShapeAction"
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

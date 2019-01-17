@@ -40,3 +40,4 @@ MsgBox "The current default file path is " & _
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

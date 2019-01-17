@@ -53,3 +53,4 @@ To stop the action of always assigning categories, use the  **[ClearAlwaysAssign
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,4 @@ The CommittedMaxUnits property for the Engagement object. Introduced in Office 2
 
 [Engagement Object (Project)](Project.engagement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ Setting a style to a nonexistent style generates an error. Setting one type of s
 
 Beginning with Microsoft Visio 2002, setting  **FillStyleKeepFmt** to an empty string ("") causes the master's style to be reapplied to the selection or shape. (Earlier versions generate a "no such style" exception.) If the selection or shape has no master, its style remains unchanged.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

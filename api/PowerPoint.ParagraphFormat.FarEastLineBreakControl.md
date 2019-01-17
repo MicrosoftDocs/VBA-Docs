@@ -54,3 +54,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.ParagraphFormat.FarEa
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

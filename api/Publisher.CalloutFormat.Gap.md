@@ -43,4 +43,4 @@ This example sets the distance between the callout line and the text bounding bo
 ActiveDocument.Pages(1).Shapes(1).Callout.Gap = 3
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

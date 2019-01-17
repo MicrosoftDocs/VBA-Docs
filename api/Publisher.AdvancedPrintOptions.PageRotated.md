@@ -39,3 +39,4 @@ The  **PageRotated** property setting corresponds to the value of the **Paper sh
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

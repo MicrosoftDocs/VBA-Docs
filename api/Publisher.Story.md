@@ -65,3 +65,4 @@ End Sub
 |[TextRange](./Publisher.Story.TextRange.md)|
 |[Type](./Publisher.Story.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

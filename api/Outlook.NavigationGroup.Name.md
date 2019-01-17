@@ -36,3 +36,4 @@ An error occurs if you attempt to set the value of this property for any  **Navi
 
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies how the PivotTable cache or a query table connects to its data source.
 | **xlAsRequired**|0|The PivotTable cache or query table uses external source information to reconnect, using the  **Connection** property.|
 | **xlNever**|2|The PivotTable cache or query table never uses source information to reconnect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

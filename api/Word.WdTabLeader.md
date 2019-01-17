@@ -24,3 +24,4 @@ Specifies the character to use as the leader with formatted tabs.
 | **wdTabLeaderMiddleDot**|5|A middle dot.|
 | **wdTabLeaderSpaces**|0|Spaces. Default.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

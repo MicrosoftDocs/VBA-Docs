@@ -34,3 +34,4 @@ You can manipulate the table styles returned by the property.
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

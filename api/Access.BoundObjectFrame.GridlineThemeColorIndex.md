@@ -55,3 +55,4 @@ This property is not surfaced in the property sheet.
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

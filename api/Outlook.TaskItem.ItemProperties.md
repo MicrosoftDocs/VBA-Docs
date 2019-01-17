@@ -34,3 +34,4 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

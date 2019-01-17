@@ -30,4 +30,4 @@ When an error occurs in a macro, information about the error is stored in the  *
 
 After an error has been handled, the information in the  **MacroError** object is out of date, so it is a good idea to clear the object using the **ClearMacroError** action. This resets the error number in the **MacroError** object back to zero, and clears any other information about the error that is stored in the object, such as the error description, macro name, action name, condition, and arguments. This way, you can inspect the **MacroError** object again later to see if another error has occurred.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

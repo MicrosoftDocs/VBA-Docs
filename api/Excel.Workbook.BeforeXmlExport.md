@@ -43,4 +43,4 @@ Nothing
 
 This event will not occur when you are saving to the XML Spreadsheet file format.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

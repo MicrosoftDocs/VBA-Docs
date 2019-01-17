@@ -32,3 +32,4 @@ Returns a  [FillFormat](Publisher.FillFormat.md) object that contains fill forma
 
  [Font Object](Publisher.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

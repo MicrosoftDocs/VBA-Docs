@@ -37739,3 +37739,5 @@
 ##### [xlPivotFieldOrientation](Office.XlPivotFieldOrientation.md)
 ##### [xlSizeRepresents](Office.XlSizeRepresents.md)
 ##### [xlTimeUnit](Office.XlTimeUnit.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

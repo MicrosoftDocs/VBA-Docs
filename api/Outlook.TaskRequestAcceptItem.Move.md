@@ -42,3 +42,4 @@ An  **Object** value that represents the item which has been moved to the design
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Indicates whether the resource is or is not locked. If resource is locked, you n
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

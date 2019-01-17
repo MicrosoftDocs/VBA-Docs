@@ -50,3 +50,4 @@ End If
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

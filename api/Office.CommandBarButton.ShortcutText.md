@@ -47,3 +47,4 @@ MsgBox (CommandBars("Worksheet Menu Bar"). _
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
