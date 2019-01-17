@@ -16,3 +16,4 @@ Information about returning a single object is available in the object topic its
 
 For more information, see the specific object or collection with which you want to work.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

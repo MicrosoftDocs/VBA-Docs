@@ -32,7 +32,4 @@ The  **[ActiveDocument](../../../api/Word.Application.ActiveDocument.md)** prope
   MsgBox TypeName(ActiveDocument.Content)
 ```
 
-
-    
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
