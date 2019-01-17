@@ -31,3 +31,4 @@ You can cancel the following events:
 
 You cancel an event by setting an event procedure's  _Cancel_ argument to **True**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

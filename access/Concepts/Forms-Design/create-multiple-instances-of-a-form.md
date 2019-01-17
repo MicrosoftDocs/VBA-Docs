@@ -29,3 +29,4 @@ You should declare the variable that represents the new instance of a form class
 
 Any properties that you set will affect this instance of the form's class, but will not be saved with the form. Also, a new instance of the form's class cannot be created if the form is open in Design view.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
