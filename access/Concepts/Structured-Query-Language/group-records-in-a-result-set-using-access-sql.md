@@ -36,4 +36,4 @@ SELECT CustomerID, Count(*) AS [Number of Invoices],
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

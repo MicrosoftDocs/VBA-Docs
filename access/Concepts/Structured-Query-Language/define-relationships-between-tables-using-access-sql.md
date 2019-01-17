@@ -134,4 +134,4 @@ UPDATE TABLE tblCustomers
 
 Note that when you execute the **[UPDATE TABLE](../../../api/overview/Access.md)** statement, you receive a message indicating that the update did not succeed because it violated the check constraint. If you update the CustomerLimit field to a value that is equal to or less than 100, the update will succeed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

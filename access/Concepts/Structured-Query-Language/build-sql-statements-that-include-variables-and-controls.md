@@ -95,4 +95,4 @@ strSQL = "SELECT * FROM Orders WHERE OrderDate" _
 Set qdf = dbs.CreateQueryDef("SecondQuarter", strSQL)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
