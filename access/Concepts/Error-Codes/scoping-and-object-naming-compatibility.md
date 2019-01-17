@@ -98,4 +98,4 @@ The version of Visual Basic that's used by Access 97 (and later) contains some n
 
 A project name is the string that is the name of your Access application. In prior versions of Access, the project name was the name of the database. Beginning in Access 2000, the project name is specified by the **ProjectName** property setting, and its default setting is the name of the database. If you convert a database with a name that is the same as a class of objects, for example, "application," "form," or "report," Access will append an underscore character to the database name to create a project name that does not conflict with existing objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
