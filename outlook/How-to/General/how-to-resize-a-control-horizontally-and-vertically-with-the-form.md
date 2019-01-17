@@ -30,4 +30,4 @@ Dim olkCtrl As Outlook.OlkControl
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

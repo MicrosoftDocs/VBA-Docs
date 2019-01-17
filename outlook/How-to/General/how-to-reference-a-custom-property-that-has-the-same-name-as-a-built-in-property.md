@@ -26,7 +26,4 @@ This example uses the **Top** property from the added control:
   control.Object.Top
 ```
 
-
-
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
