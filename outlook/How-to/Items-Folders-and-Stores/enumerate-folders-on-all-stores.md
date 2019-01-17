@@ -57,4 +57,4 @@ Private Sub EnumerateFolders(ByVal oFolder As Outlook.Folder)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
