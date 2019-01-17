@@ -32,3 +32,4 @@ End Sub
 - [SparklineGroup Object](../../../api/Excel.SparklineGroup.md)
 - [Programming With Sparklines In Excel](../../../api/overview/Excel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
