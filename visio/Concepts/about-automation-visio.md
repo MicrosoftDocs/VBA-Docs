@@ -47,4 +47,4 @@ In the  _Visual Basic Editor:_ On the **Run** menu, click **Run Macro.**
 
 In  _Visio:_ In the **Code** group on the [Developer](../How-to/run-visio-in-developer-mode.md) tab, click **Macros**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

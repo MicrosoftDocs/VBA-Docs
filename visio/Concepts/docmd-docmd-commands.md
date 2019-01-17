@@ -689,3 +689,4 @@ The DOCMD function takes a numeric argument only; the  **DoCmd** method takes ei
 | **visCmdZoomPt**|1215|Yes|No|
 | **visCmdZoomSingleTile**|1512|Yes|No|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

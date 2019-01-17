@@ -197,3 +197,4 @@ Following are the default units of measure along with their equivalent settings 
 | **visAngleUnits**| The units selected in the **Angle** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 | **visDurationUnits**| The units selected in the **Duration** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

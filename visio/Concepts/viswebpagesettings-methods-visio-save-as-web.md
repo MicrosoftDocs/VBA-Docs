@@ -22,5 +22,5 @@ localization_priority: Normal
 -  [VisWebPageSettings.ListFormats Method (Visio Save As Web)](../../api/Visio.ListFormats.md)
     
 -  [VisWebPageSettings.SaveSettings Method (Visio Save As Web)](../../api/Visio.SaveSettings.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

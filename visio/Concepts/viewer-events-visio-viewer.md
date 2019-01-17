@@ -30,5 +30,5 @@ localization_priority: Normal
 -  [Viewer.OnToolbarCustomized Event (Visio Viewer)](../../api/Visio.OnToolbarCustomized.md)
     
 -  [Viewer.OnViewChanged Event (Visio Viewer)](../../api/Visio.OnViewChanged.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

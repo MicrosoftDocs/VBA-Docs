@@ -153,4 +153,4 @@ Private Sub DrawingControl1_MouseDown(ByVal Button As Long, ByVal KeyButtonState
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -116,5 +116,5 @@ localization_priority: Normal
 -  [Viewer.ToolbarVisible Property (Visio Viewer)](../../api/Visio.ToolbarVisible.md)
     
 -  [Viewer.Zoom Property (Visio Viewer)](../../api/Visio.viewer.zoom.property.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
