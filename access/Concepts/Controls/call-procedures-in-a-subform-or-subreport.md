@@ -28,4 +28,4 @@ The following code illustrates how to call the GetProductID procedure.
 Forms!Orders![Orders Subform].Form.GetProductID
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
