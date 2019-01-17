@@ -20,4 +20,4 @@ Suppose that you are performing the **[DLookup](../../../api/Access.Application.
 =DLookup("[LastName]", "Employees", "[EmployeeID] = 7")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

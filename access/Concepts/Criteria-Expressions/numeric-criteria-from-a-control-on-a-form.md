@@ -45,4 +45,4 @@ varResult = DLookup("[LastName]", "Employees", _
  "[EmployeeID] = " & intNum)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

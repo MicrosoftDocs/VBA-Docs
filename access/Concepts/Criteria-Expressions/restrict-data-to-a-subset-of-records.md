@@ -44,3 +44,4 @@ The following list of topics outlines the different ways in which you can specif
 - [Change date and time criteria from a control on a form](date-and-time-criteria-from-a-control-on-a-form.md)
 - [Multiple fields in criteria expressions](multiple-fields-in-criteria-expressions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

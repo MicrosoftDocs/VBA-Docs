@@ -39,3 +39,4 @@ The  _criteria_ argument evaluates to the following string:
 > [!TIP] 
 > To troubleshoot an expression in the  _criteria_ argument, break the expression into smaller components and test each individually in the Immediate window. When all of the components are working correctly, put them back together one at a time until the complete expression works correctly.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
