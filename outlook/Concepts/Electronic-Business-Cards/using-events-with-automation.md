@@ -83,4 +83,4 @@ Register_Event_Handler
 
 procedure is run, the  `myOlApp` object in the form or class module points to the Outlook **Application** object, and the event procedure will run when the event occurs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
