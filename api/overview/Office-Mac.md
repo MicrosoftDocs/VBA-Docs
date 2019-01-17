@@ -61,3 +61,5 @@ For information about the idMSOs that are compatible with Office 2016 for Mac, s
 - [idMSOs supported in Excel for Mac](../../Office-Mac/idMSOExcelMac.md)
 - [idMSOs supported in PowerPoint for Mac](../../Office-Mac/idMSOPowerPointMac.md)
 - [idMSOs supported in Word for Mac](../../Office-Mac/idMSOWordMac.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
