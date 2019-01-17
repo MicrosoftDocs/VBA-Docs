@@ -28,5 +28,5 @@ In  **Forms Manager**, you can browse to the folders where your forms are stored
 3. Click  **Advanced**. 
     
 4. In the  **Developers** heading, click **Custom Forms**, and then click  **Manage Forms**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

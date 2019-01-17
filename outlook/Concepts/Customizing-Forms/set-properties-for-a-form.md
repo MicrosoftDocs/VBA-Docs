@@ -23,6 +23,6 @@ To set properties for a form region in a custom form, you must use the XML manif
     
 3. To have the form show only for replies to messages, select the  **Use form only for responses** check box.
     
-4. Select other options that you want. 
-    
+4. Select other options that you want.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

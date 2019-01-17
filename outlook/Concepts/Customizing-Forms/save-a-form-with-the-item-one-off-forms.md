@@ -75,5 +75,5 @@ Although solutions and situations vary greatly, the following might indicate tha
 - The size of an item increases unexpectedly.
     
 - An item's icon changes unexpectedly.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

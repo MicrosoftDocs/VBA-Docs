@@ -26,4 +26,4 @@ You can customize the  **Control Toolbox** in many ways including the following:
 
  **Note**  When you add a control to a form by using the  **Control Toolbox**, the control is not bound to a field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

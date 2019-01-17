@@ -31,6 +31,6 @@ In the Forms Designer, do the following:
 4.  [Add and remove controls](../Specifying-Form-Behavior/add-or-remove-controls-on-a-form.md).
     
 
- **Tip**  
+ **Tip**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
