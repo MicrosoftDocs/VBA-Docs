@@ -194,4 +194,4 @@ GetBinList_Err:
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
