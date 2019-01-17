@@ -33,5 +33,5 @@ localization_priority: Priority
 -  [Support for Folder Synchronization](support-for-folder-synchronization.md)
     
 -  [Verify Whether Outlook Is a Click-to-Run Application on a Computer](verify-if-outlook-is-a-click-to-run-application-on-a-computer.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

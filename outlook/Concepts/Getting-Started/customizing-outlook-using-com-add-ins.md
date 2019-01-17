@@ -76,4 +76,4 @@ To connect the COM add-in, set the Connected flag in  **LoadBehavior**; clear th
 
 The  **FriendlyName** value specifies the name of the COM add-in as it's displayed in the **COM Add-in** dialog box. The **Description** value provides additional information about the COM add-in.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

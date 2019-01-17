@@ -30,3 +30,4 @@ There are several ways to return a reference to the Outlook  **Application** obj
 
 For examples of using these methods of referencing the Outlook  **Application** object, see [Automating Outlook from a Visual Basic Application](automating-outlook-from-a-visual-basic-application.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

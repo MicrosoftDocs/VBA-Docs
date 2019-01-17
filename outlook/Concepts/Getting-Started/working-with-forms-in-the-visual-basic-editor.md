@@ -48,3 +48,4 @@ Next x
 
 For more information about creating and using forms in the Visual Basic Editor, see the Visual Basic Editor Help.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

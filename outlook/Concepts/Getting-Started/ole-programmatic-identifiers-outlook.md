@@ -147,3 +147,4 @@ To create the Microsoft Word objects listed in the following table, use one of t
 | **Document**|Word.Document, Word.Template|
 | **Global**|Word.Global|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

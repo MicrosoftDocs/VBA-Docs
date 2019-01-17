@@ -61,4 +61,4 @@ Most commonly, changes to property values are not applied immediately in respons
 
 The  **OptionsPagesAdd** event gives your program the opportunity to add your custom property page to the Microsoft Outlook **Options** dialog box (if the event is fired for the **Application** object) or the folders **Properties** dialog box (if the event is called for the **NameSpace** object). When Outlook calls this event procedure, it passes a [PropertyPages](../../../api/Outlook.PropertyPages.md) object. Your event procedure uses the [Add](../../../api/Outlook.PropertyPages.Add.md) method of the collection to add the **PropertyPage** object implemented by your program to the object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
