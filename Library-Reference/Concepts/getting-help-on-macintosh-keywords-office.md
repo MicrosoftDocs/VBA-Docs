@@ -17,3 +17,5 @@ You have requested Help for a Visual Basic keyword that is used only on the Maci
 ## See also
 
 - [Keywords by task](../../language/reference/user-interface-help/keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

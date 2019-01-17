@@ -221,3 +221,5 @@ Choose the **My Tab** tab, and then choose **Insert Company Name** to insert the
 - [Overview of the Office Fluent ribbon](overview-of-the-office-fluent-ribbon.md)
 - [Customize the Office Fluent ribbon by using an Open XML formats file](customize-the-office-fluent-ribbon-by-using-an-open-xml-formats-file.md)
 - [Customize the Office Fluent ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
