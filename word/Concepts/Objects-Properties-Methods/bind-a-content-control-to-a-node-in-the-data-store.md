@@ -89,4 +89,4 @@ The following steps enable you to bind a content control to a node in the docume
 
    If you omit the optional **PrefixMappings** and **CustomXMLPart** arguments, Word searches each of the custom XML parts in order and maps the control to the first part that successfully retrieves a custom XML node using the specified XPath.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ End Sub
 
 Using these properties with one of the events for content controls, such as the **ContentControlOnExit** event, gives you control over how content controls are used in documents and how users work with them.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

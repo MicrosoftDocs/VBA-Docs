@@ -49,4 +49,4 @@ If an auto macro exists in a document and the attached template, only the auto m
 
 For information about creating event procedures for the  **[Application](../../../api/Word.Application.md)** object, see  [Using Events with the Application Object](../../../api/Word.Application.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

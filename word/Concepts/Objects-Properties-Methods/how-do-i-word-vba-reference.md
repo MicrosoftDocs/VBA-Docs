@@ -34,5 +34,5 @@ How Do I is your gateway to key task-based topics about programming and applicat
 -  [Set the Building Blocks That You Can Use for a Content Control](set-the-building-blocks-that-you-can-use-for-a-content-control.md)
     
 -  [Connect an Item in the Data Store to a SQL Server Database](connect-an-item-in-the-data-store-to-a-sql-server-database.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
