@@ -50,4 +50,4 @@ You can use the **SplitHorizontal** and the **SplitVertical** properties to repo
 ActiveWindow.SplitVertical = 65
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

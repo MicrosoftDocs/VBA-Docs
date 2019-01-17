@@ -47,4 +47,4 @@ If you want to run code in one Office application that works with the objects in
       appWd.Quit 
    ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,4 +17,4 @@ To add controls to a document, display the **Control Toolbox**, click the contro
 > [!NOTE] 
 > Dragging a control (or a number of "grouped" controls) from the form back to the **Control Toolbox** creates a template of that control, which you can reuse. This is a useful feature for implementing a standard "look and feel" for your applications.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
