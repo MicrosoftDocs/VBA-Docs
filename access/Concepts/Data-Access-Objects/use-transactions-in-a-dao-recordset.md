@@ -72,3 +72,4 @@ When you use transactions, all databases and **[Recordset](../../../api/overview
 
 You can also use the **[BeginTrans](../../../api/overview/Access.md)**, **[CommitTrans](../../../api/overview/Access.md)**, and **[Rollback](../../../api/overview/Access.md)** methods with the **[DBEngine](../../../api/overview/Access.md)** object. In this case, the transaction is applied to the default workspace, which is `DBEngine.Workspaces(0)`.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

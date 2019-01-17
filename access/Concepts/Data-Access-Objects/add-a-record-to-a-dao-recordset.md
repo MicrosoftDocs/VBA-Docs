@@ -48,4 +48,4 @@ If you add a record to a table-type Recordset, the record appears positioned acc
 > [!NOTE] 
 > If you use the **AddNew** method to add a record, and then move to another record or close the **Recordset** object without first using the **Update** method, your changes are lost without warning. For example, omitting the **Update** method from the preceding example results in no changes being made to the Shippers table.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

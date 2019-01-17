@@ -23,3 +23,4 @@ The **dbInconsistent** constant is available only for dynaset-type **Recordset**
 
 Even with an inconsistent **Recordset**, some fields may not be updatable. For example, you cannot change the value of an AutoNumber field, and a **Recordset** based on certain linked tables may not be updatable.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

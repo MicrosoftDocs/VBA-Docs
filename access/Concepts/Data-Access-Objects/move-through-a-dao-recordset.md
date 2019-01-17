@@ -76,4 +76,4 @@ End Sub
 > [!NOTE] 
 > The previous example is provided only for the purposes of illustrating the **Update** and **MoveNext** methods. For optimal performance, it is recommended that you perform this bulk operation with a SQL UPDATE query.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

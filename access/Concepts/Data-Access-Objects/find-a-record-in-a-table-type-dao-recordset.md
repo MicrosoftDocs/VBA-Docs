@@ -97,3 +97,4 @@ In this example, the table's primary key consists of two fields: OrderID and Pro
 
 If the current index is a multiple-field index, trailing key values can be omitted and are treated as **Null** values. That is, you can leave off any number of key values from the end of a **Seek** method's _key_ argument, but not from the beginning or the middle. However, if you do not specify all values in the index, you can use only the ">" or "<" comparison string with the **Seek** method.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

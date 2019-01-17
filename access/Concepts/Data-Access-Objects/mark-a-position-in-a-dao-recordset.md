@@ -155,4 +155,4 @@ You can also use the DAO **Bookmark** property on the **Recordset** object under
 > [!NOTE] 
 > Dynasets based on certain linked tables, such as Paradox tables that have no primary key, do not support bookmarks, nor do forward-only-type **Recordset** objects. You can determine whether a given **Recordset** object supports bookmarks by checking the value of the **[Bookmarkable](../../../api/overview/Access.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
