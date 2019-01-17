@@ -47,4 +47,4 @@ The following function calculates the number of months that have transpired sinc
  End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

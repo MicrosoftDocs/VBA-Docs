@@ -73,4 +73,4 @@ Date() - WeekDay(Date()) + 1
 Date() - WeekDay(Date()) + 7
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
