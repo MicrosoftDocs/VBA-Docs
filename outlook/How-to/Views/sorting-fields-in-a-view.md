@@ -55,4 +55,4 @@ The following guidelines should be used when specifying custom properties:
     
 For more information about property identifiers, see  [Properties Overview](../Navigation/properties-overview.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
