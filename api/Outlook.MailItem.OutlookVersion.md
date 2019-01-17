@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.OutlookVersion
 ms.assetid: c3ea9b11-9bf2-64c3-409b-3eb33129ae1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

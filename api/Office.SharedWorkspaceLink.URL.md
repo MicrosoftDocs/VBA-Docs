@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceLink.URL
 ms.assetid: 92104c43-43b8-5f59-e0c0-91313d8f5e35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

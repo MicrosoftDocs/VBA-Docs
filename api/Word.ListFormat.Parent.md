@@ -8,6 +8,7 @@ api_name:
 - Word.ListFormat.Parent
 ms.assetid: 3eb82748-6dd7-2029-e7f3-9b807bc3c7cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.Conversation.GetRootItems
 ms.assetid: 72c4d9fd-4f38-d081-7dc6-e9dbfad6d3aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

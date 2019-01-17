@@ -8,6 +8,7 @@ api_name:
 - Word.Application.CapsLock
 ms.assetid: 73cc2530-5178-d348-739e-c4605b8f207d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

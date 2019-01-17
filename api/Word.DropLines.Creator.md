@@ -8,6 +8,7 @@ api_name:
 - Word.DropLines.Creator
 ms.assetid: 1c8081db-916f-0291-b3a2-f163b664da68
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

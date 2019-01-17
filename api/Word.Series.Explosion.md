@@ -8,6 +8,7 @@ api_name:
 - Word.Series.Explosion
 ms.assetid: e517ecd2-58c4-9584-ba45-17a6189d427d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

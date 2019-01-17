@@ -4,7 +4,8 @@ ms.prod: office
 api_name:
 - Office.GradientStop
 ms.assetid: b5003bfc-9ac6-fd56-f214-a0d99db0cf07
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
@@ -39,22 +40,7 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.GradientStop.Application.md)|
-|[Color](Office.GradientStop.Color.md)|
-|[Creator](Office.GradientStop.Creator.md)|
-|[Position](Office.GradientStop.Position.md)|
-|[Transparency](Office.GradientStop.Transparency.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [GradientStop object members](overview/library-reference/gradientstop-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

@@ -8,6 +8,7 @@ api_name:
 - Word.ThreeDFormat.RotationY
 ms.assetid: 64ebb9d9-4338-3672-9149-e1e82ba8abdc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

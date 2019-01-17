@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.ContainsWorkspaceEx
 ms.assetid: 074d4b49-cb26-5d11-d710-7d27f2f4dd01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

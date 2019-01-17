@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.MemberOfContainersIntersection
 ms.assetid: 574282fa-3f1b-0e6a-a800-01ce447643f9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

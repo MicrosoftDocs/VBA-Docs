@@ -8,6 +8,7 @@ api_name:
 - Publisher.Adjustments.Parent
 ms.assetid: 2114d703-194b-d6fa-08e9-53637a8a2010
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

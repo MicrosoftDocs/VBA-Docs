@@ -8,6 +8,7 @@ api_name:
 - Word.Range.MoveWhile
 ms.assetid: 282464eb-60e6-df03-344f-6e666af8b01f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

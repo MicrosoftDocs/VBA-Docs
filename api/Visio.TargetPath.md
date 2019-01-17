@@ -5,6 +5,7 @@ api_name:
 - Visio.TargetPath
 ms.assetid: 8e8edcea-56cf-876f-ce88-6adcc59f69ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Envelope.Application
 ms.assetid: ec310e0e-d8d5-741c-f6b0-33df9ebd4514
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

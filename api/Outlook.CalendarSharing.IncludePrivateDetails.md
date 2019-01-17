@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarSharing.IncludePrivateDetails
 ms.assetid: a7c52e33-fe2a-b89a-9102-da2baf937e37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

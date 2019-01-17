@@ -8,6 +8,7 @@ api_name:
 - Word.CustomLabels.Application
 ms.assetid: 5c0f8024-1660-3897-4a69-f35dc494e34d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

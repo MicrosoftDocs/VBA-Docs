@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ViewCode
 ms.assetid: c368fce6-2fce-b2ac-6450-72dcddeec4cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.GetFormulas
 ms.assetid: d501f50f-2e8b-36bb-e303-97f445908e4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

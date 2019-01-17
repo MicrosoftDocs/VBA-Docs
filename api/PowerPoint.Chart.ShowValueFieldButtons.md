@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ShowValueFieldButtons
 ms.assetid: c56b12ac-71ef-a6b5-c66f-3cbe1c62a4c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

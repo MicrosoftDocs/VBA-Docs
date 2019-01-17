@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.FollowMasterBackground
 ms.assetid: 0c409371-8ecc-ecf9-3d16-cbbd0009d825
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

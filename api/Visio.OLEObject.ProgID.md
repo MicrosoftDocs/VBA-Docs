@@ -8,6 +8,7 @@ api_name:
 - Visio.OLEObject.ProgID
 ms.assetid: 694ae7e0-7bde-e3a2-8b04-21eae69c135a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

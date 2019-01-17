@@ -8,6 +8,7 @@ api_name:
 - Word.PictureFormat.Contrast
 ms.assetid: 43b91fc2-9a6d-c4d2-c68a-1c8f8a1a00b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.WordWrap
 ms.assetid: c087f375-2536-7edf-566d-5934d69fe434
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShape.Shadow
 ms.assetid: a978b63f-2916-80d2-728e-3e9c238b6916
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

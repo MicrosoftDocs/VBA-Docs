@@ -8,6 +8,7 @@ api_name:
 - Visio.RasterExportRotation
 ms.assetid: 660b22ff-11b6-bfaf-1949-18e5e9c57d64
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

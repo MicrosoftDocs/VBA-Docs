@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.Swash
 ms.assetid: 71537393-167a-f9e3-e3b3-ae743fdbb0ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

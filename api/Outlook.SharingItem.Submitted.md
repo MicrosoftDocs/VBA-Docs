@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.Submitted
 ms.assetid: 3ba97a01-9890-5334-2d5b-4b1cfc70382f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

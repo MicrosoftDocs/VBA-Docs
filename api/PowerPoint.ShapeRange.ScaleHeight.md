@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.ScaleHeight
 ms.assetid: 3e86cfd8-1df6-a164-d19b-8d53b7b52dc0
 ms.date: 11/09/2018
+localization_priority: Normal
 ---
 
 

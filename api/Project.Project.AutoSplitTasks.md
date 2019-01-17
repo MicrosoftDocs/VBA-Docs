@@ -8,6 +8,7 @@ api_name:
 - Project.Project.AutoSplitTasks
 ms.assetid: 46e74dad-ad8f-7fa8-83f5-14094a259e41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

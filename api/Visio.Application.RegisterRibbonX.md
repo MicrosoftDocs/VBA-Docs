@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.RegisterRibbonX
 ms.assetid: 178db1c3-b3af-aa3f-af03-1aec1eab549a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

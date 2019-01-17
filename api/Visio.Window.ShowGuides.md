@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.ShowGuides
 ms.assetid: 875bbdb6-c628-d4be-85d8-fc2529b53627
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

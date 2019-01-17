@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Number13
 ms.assetid: 7313883c-df5a-64a5-8ea2-c8ca49b9b0a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

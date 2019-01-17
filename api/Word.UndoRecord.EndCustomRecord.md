@@ -8,6 +8,7 @@ api_name:
 - Word.UndoRecord.EndCustomRecord
 ms.assetid: af11d231-f799-d592-2bc5-de08030b41e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

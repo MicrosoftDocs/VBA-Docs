@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeNodes.Item
 ms.assetid: d60627fe-57cc-ce9f-1ee5-652efbd5b778
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

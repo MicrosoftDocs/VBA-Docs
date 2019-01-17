@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.ObjectType
 ms.assetid: 0c557bcd-ee1f-a094-4248-71fed3dffd58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

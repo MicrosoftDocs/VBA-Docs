@@ -8,6 +8,7 @@ api_name:
 - Word.FileConverter.CanSave
 ms.assetid: a1de7523-5b9c-b606-4308-9445e3c4c76d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

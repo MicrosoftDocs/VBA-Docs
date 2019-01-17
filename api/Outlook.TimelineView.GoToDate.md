@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimelineView.GoToDate
 ms.assetid: 99983956-0a2f-ab4b-f656-ea6847185e67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

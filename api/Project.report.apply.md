@@ -3,6 +3,7 @@ title: Report.Apply Method (Project)
 ms.prod: project-server
 ms.assetid: 4461da82-5bd6-2d9b-0d39-35875c2cee36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

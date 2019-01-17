@@ -3,6 +3,7 @@ title: ComboBox Properties (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: c67c4d85-a31a-4caf-8974-ad04c86637e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.Parent
 ms.assetid: 7819df1a-1f63-793c-54f3-c1129fd6cdff
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

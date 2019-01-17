@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkCheckBox
 ms.assetid: 79460205-a604-7011-a9b3-14e651807f09
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

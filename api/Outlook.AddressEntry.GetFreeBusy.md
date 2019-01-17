@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressEntry.GetFreeBusy
 ms.assetid: 8f3c7cbe-a4b5-ef5c-d7d3-1b38273f6f59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

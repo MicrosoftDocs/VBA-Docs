@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormRegion.Parent
 ms.assetid: 07f9d503-01c7-c4f4-7a65-243bd15967a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

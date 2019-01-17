@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNode.XPath
 ms.assetid: 28159c24-79b2-a3ee-589e-de080dd67a82
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

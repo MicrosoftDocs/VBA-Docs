@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Point.Format
 ms.assetid: e7e37e8b-7251-922c-b436-8ae6c955a08d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

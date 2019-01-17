@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.WorkVariance
 ms.assetid: 07d3c969-f331-13f4-0a0b-d82b7304be14
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

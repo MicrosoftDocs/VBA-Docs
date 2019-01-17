@@ -8,6 +8,7 @@ api_name:
 - Word.Application.Height
 ms.assetid: 070e8b38-8ed7-ff4a-0980-7ffc7cb901d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

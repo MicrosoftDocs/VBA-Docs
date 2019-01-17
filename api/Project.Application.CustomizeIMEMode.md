@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CustomizeIMEMode
 ms.assetid: 1e6cae3d-7b06-327a-4db1-8b4416d703ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

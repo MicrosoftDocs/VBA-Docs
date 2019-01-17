@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LinkFormat.Application
 ms.assetid: a0854949-7bbf-5af7-7c32-a2d67be468ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

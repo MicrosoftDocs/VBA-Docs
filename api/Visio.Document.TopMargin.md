@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.TopMargin
 ms.assetid: ed8d16c2-f80d-d444-28a4-d9f0db4ab6d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

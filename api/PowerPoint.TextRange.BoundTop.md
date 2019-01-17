@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.BoundTop
 ms.assetid: cfc3baec-06c4-da2f-a233-afcb5301302a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

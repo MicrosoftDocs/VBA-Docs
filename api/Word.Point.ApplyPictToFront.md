@@ -8,6 +8,7 @@ api_name:
 - Word.Point.ApplyPictToFront
 ms.assetid: 19a8549e-0d5d-7537-a32b-be1e1ae7178e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

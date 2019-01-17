@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ShowAllFieldButtons
 ms.assetid: 50aa8c68-a91b-301f-a553-46353feb4d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

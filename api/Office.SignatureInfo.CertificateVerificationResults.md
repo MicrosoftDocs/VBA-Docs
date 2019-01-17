@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.CertificateVerificationResults
 ms.assetid: dc661f7e-f02e-79a6-91d6-c124109c6d4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

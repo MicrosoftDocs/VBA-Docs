@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Table
 ms.assetid: 2ab10bd4-071a-8e84-cf46-1687e6661bb8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

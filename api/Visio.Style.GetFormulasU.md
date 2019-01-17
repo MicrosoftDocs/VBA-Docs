@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.GetFormulasU
 ms.assetid: eadb8801-3fba-6c3d-214a-98a172555403
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Select
 ms.assetid: 06694b50-6a6b-ce4c-8a38-dac43ac87ba3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slide.Cut
 ms.assetid: 03029017-52c8-5176-a218-8b5ff8edec10
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

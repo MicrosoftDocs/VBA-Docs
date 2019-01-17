@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCaption.AutoInsert
 ms.assetid: eac9cee8-93d5-e707-b03d-ef1dbe906ef9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

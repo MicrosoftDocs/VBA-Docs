@@ -5,6 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeSaveBaseline
 ms.assetid: bcdd2134-03dd-e26d-66db-095bda6a7162
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

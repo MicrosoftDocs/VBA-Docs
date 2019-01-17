@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.WebViewOn
 ms.assetid: 9b483d0e-dea0-9b3e-8ce9-fc136857a428
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

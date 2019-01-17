@@ -8,6 +8,7 @@ api_name:
 - Outlook.AutoFormatRules.Save
 ms.assetid: b8e50ee5-a9c4-0af4-4cb8-5953cf29a915
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

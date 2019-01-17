@@ -8,6 +8,7 @@ api_name:
 - Outlook.Items.GetFirst
 ms.assetid: 142a6174-118e-6256-0511-8ae9e142e555
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

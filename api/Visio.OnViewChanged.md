@@ -5,6 +5,7 @@ api_name:
 - Visio.OnViewChanged
 ms.assetid: 4d402263-91e1-434c-5f0d-ae7febdc72ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

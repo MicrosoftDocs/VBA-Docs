@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebPageOptions.Parent
 ms.assetid: aa55f1f2-a35e-2a46-ca07-24799ecab241
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

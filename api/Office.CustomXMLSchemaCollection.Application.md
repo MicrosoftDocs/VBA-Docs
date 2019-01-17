@@ -5,6 +5,7 @@ api_name:
 - Office.CustomXMLSchemaCollection.Application
 ms.assetid: 8376ce9d-c47d-b418-5b21-11cb43ffb366
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

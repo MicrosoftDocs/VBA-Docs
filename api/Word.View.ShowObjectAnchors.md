@@ -8,6 +8,7 @@ api_name:
 - Word.View.ShowObjectAnchors
 ms.assetid: 6b3c0f7a-0bf2-8671-1281-6ef61ae62ef8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

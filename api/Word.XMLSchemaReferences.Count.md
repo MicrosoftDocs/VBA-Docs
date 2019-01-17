@@ -8,6 +8,7 @@ api_name:
 - Word.XMLSchemaReferences.Count
 ms.assetid: cb08104c-4790-204d-b4f9-d77023e64c76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

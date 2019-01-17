@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.ComposeStyle
 ms.assetid: 0c1ada5e-7bf0-2ae1-3223-ed4f76252bb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

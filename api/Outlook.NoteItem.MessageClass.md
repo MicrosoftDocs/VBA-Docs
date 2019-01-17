@@ -8,6 +8,7 @@ api_name:
 - Outlook.NoteItem.MessageClass
 ms.assetid: ef550261-5751-df5c-a25d-1278d245c033
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.RasterExportDataCompression
 ms.assetid: cec938db-1368-7c05-a264-b69ae334a249
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

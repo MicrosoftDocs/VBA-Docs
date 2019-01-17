@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.GetCertificateDetail
 ms.assetid: f3cab134-5560-be37-25b4-2cbbfcf0693e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

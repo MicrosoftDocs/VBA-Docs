@@ -8,6 +8,7 @@ api_name:
 - Publisher.WizardValues.Application
 ms.assetid: 39f8125a-8dfb-aa93-7548-844073cd8576
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

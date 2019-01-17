@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.EffectInformation.AnimateBackground
 ms.assetid: 37e9bfb5-3661-a3eb-d148-90d504f0e450
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

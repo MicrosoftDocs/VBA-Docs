@@ -8,6 +8,7 @@ api_name:
 - Word.MailMessage.GoToNext
 ms.assetid: 46abeed8-b3a7-25ec-88db-721e84693114
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

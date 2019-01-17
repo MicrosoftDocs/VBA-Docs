@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactsModule.Position
 ms.assetid: 2e71509d-1e6a-f736-2560-40c1de67711c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.ThemeColor.RGB
 ms.assetid: a9479913-c097-eaf3-03fa-fc16ba559357
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ColorFormat
 ms.assetid: 3bfcd08d-65f4-25a3-2d05-77111fbd13e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

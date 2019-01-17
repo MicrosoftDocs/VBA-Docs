@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.DefaultMessageClass
 ms.assetid: f8daf970-4ae1-6713-c7f8-4420d952b823
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

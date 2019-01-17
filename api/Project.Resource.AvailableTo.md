@@ -8,6 +8,7 @@ api_name:
 - Project.Resource.AvailableTo
 ms.assetid: 27671dd6-77c8-0dea-eed5-943237c10dcd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

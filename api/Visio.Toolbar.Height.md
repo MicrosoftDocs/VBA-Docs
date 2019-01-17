@@ -8,6 +8,7 @@ api_name:
 - Visio.Toolbar.Height
 ms.assetid: 566ec5d0-6eb7-abf4-8547-80b941e6b54c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

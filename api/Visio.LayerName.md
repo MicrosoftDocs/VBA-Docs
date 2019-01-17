@@ -5,6 +5,7 @@ api_name:
 - Visio.LayerName
 ms.assetid: ebf2b8da-7c4d-b67c-9f8c-17629f1d8214
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

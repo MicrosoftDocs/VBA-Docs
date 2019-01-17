@@ -7,30 +7,17 @@ ms.prod: office
 api_name:
 - Office.IConverterApplicationPreferences
 ms.assetid: 80947d44-398f-9ebe-a4fb-d581db924a04
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
 # IConverterApplicationPreferences object (Office)
 
-This feature is only available in the Open XML Format SDK.
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
 
-
-## Methods
-
-
-
-|Name|
-|:-----|
-|[HrCheckFormat](Office.IConverterApplicationPreferences.HrCheckFormat.md)|
-|[HrGetApplication](Office.IConverterApplicationPreferences.HrGetApplication.md)|
-|[HrGetHwnd](Office.IConverterApplicationPreferences.HrGetHwnd.md)|
-|[HrGetLcid](Office.IConverterApplicationPreferences.HrGetLcid.md)|
 
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [IConverterApplicationPreferences object members](overview/Library-Reference/iconverterapplicationpreferences-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

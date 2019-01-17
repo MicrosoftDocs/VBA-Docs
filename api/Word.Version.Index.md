@@ -8,6 +8,7 @@ api_name:
 - Word.Version.Index
 ms.assetid: 74d00ebe-1ee5-b314-7b7c-2347123b08c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

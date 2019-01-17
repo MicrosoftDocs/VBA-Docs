@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Baseline10BudgetWork
 ms.assetid: 43a01555-b367-fd4b-c61f-8f61d93ff4ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

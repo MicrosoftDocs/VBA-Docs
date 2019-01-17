@@ -8,6 +8,7 @@ api_name:
 - Word.Window.DocumentMap
 ms.assetid: e7f084f8-303b-d710-00fc-522eab6e3814
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

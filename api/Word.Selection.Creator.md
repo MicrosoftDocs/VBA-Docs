@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Creator
 ms.assetid: 612e00fa-49cd-5f9e-7a10-9504d4e7b408
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shapes.AddOLEObject
 ms.assetid: c454f9cb-2005-5e55-80a7-6dfbe9c109e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

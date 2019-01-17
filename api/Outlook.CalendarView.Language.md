@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.Language
 ms.assetid: e8d1a39b-c0f7-bd62-5831-d4ac02a0f2ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

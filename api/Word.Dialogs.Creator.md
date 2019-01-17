@@ -8,6 +8,7 @@ api_name:
 - Word.Dialogs.Creator
 ms.assetid: f5328ecf-d3de-85e4-cf00-b7fea51bf667
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

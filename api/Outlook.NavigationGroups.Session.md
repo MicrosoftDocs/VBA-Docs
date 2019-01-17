@@ -8,6 +8,7 @@ api_name:
 - Outlook.NavigationGroups.Session
 ms.assetid: b742bee6-7067-8168-ebd9-2823da65dd0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

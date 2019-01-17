@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpRevisionInfo
 ms.assetid: 1d1176fc-5985-68aa-e124-463f4545123b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

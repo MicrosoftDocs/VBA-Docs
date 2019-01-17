@@ -8,6 +8,7 @@ api_name:
 - Visio.Curve.Closed
 ms.assetid: ed4a1f5c-c4e3-9da7-cfe0-4d42cc0dc6b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

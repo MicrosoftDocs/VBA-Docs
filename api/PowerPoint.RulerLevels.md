@@ -1,4 +1,4 @@
-﻿---
+---
 title: RulerLevels Object (PowerPoint)
 keywords: vbapp10.chm571000
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.RulerLevels
 ms.assetid: 890f4bee-c48a-be48-2cac-b73736a5bdf0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

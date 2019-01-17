@@ -8,6 +8,7 @@ api_name:
 - Visio.ValidationRule.Delete
 ms.assetid: 3727bddb-57b9-23c3-d12d-f47d43260087
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

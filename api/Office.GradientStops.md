@@ -4,13 +4,14 @@ ms.prod: office
 api_name:
 - Office.GradientStops
 ms.assetid: 365949f0-29b3-76e1-1163-2ac870f68f7a
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
 # GradientStops object (Office)
 
-Contains a collection of  **GradientStop** objects.
+Contains a collection of **[GradientStop](office.gradientstop.md)** objects.
 
 
 ## Remarks
@@ -40,8 +41,5 @@ End Sub
 
 ## See also
 
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-[GradientStops Object Members](./overview/Library-Reference/gradientstops-members-office.md)
-
+- [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

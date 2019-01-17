@@ -8,6 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.Orientation
 ms.assetid: 795f9635-e33f-3dee-c9e6-199e95859257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

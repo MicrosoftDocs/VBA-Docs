@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.KeyPress
 ms.assetid: ce52b457-46c0-99d5-955c-e468abec0211
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

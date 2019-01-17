@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArt.AllNodes
 ms.assetid: 8562a464-61dd-e019-9f44-89ade4703589
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

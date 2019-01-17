@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBar.FindControl
 ms.assetid: d5ff45de-a356-0dab-4233-88326d08535a
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

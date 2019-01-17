@@ -8,6 +8,7 @@ api_name:
 - Word.FootnoteOptions.StartingNumber
 ms.assetid: c778073d-34e8-afe2-b59e-301f33784cdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

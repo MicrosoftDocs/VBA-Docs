@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlSharingProvider
 ms.assetid: b42c20dc-e90d-264b-38d7-686cd74a547f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

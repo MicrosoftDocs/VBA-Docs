@@ -8,6 +8,7 @@ api_name:
 - Publisher.ColorCMYK.Yellow
 ms.assetid: 2eaa27a4-a9bb-e18a-bd0e-c9cf07c567f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

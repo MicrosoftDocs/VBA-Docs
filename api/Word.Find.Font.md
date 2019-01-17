@@ -8,6 +8,7 @@ api_name:
 - Word.Find.Font
 ms.assetid: 8a4e3cb0-5bfd-bcea-6eba-10dc21a0e4c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

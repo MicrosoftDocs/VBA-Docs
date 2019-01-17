@@ -5,6 +5,7 @@ api_name:
 - Office.TabStops2.Item
 ms.assetid: 9b5eeeae-3535-b21d-75b1-25c19e12c86e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

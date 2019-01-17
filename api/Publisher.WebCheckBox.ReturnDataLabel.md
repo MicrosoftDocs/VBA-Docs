@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebCheckBox.ReturnDataLabel
 ms.assetid: a6bdc95c-d9bf-5d64-aacc-cb2e5432f3f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

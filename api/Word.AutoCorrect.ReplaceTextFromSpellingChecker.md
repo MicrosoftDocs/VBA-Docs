@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrect.ReplaceTextFromSpellingChecker
 ms.assetid: 8cc4a48f-86a6-5b26-ad2d-cca3b969047c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

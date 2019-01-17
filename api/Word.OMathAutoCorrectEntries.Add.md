@@ -8,6 +8,7 @@ api_name:
 - Word.OMathAutoCorrectEntries.Add
 ms.assetid: 0ef66b97-9da4-652d-306d-34e22945713c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

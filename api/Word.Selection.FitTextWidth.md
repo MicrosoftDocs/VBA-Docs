@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.FitTextWidth
 ms.assetid: 7f7409b4-c533-9c21-2663-e4016416efb7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

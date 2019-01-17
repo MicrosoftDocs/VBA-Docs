@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.Delete
 ms.assetid: cdf47579-b542-f975-81e3-aa613f60830c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

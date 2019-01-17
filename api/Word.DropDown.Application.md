@@ -8,6 +8,7 @@ api_name:
 - Word.DropDown.Application
 ms.assetid: 38dd82d5-b74f-892c-5dea-e3f60da6033b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

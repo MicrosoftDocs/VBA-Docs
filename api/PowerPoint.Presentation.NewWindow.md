@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.NewWindow
 ms.assetid: 2c4e4d63-ccef-ae98-0676-fa231dec1e8c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

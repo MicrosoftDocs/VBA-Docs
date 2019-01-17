@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Series.BarShape
 ms.assetid: c6f2d0b7-407e-4073-89b1-433e9386287a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

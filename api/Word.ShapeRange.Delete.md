@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.Delete
 ms.assetid: 7496b5f6-3d3a-f948-6663-81f8acc4a188
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

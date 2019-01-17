@@ -8,6 +8,7 @@ api_name:
 - Visio.Styles.StyleChanged
 ms.assetid: 5b9f7011-4226-e12f-a334-bd4966f4fcdf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.CreateLetterContent
 ms.assetid: 33f47344-31d2-4099-45fc-91af2d79dc7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

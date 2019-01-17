@@ -3,6 +3,7 @@ title: ToggleButton Members (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 62b4a042-546b-40b6-bd23-629d0c0306ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

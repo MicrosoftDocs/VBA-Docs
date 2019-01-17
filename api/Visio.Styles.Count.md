@@ -8,6 +8,7 @@ api_name:
 - Visio.Styles.Count
 ms.assetid: fbce264a-e16c-6235-7fed-025f36e867ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

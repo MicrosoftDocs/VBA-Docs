@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.Application
 ms.assetid: 9991c892-6fc5-3487-8b4c-b3d9c8b90fba
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

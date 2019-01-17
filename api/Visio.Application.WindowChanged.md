@@ -5,6 +5,7 @@ api_name:
 - Visio.Application.WindowChanged
 ms.assetid: 29bb6ea8-4558-38c4-941f-839cd119abba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

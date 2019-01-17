@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.PublishSlides
 ms.assetid: 2f5c569a-fc4d-01ae-eae7-f1894541e08e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.SmartCursoring
 ms.assetid: 254a0a6d-ba83-3ca0-e7a7-38dea9b16436
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

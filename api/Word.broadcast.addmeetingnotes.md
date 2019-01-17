@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: word
 ms.assetid: e13a52fd-d0a4-bc32-2d0a-f01f9218bfa2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

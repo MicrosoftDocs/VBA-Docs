@@ -8,6 +8,7 @@ api_name:
 - Word.TextEffectFormat.FontSize
 ms.assetid: 14538296-38d0-0545-0681-e6a7714dcaf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

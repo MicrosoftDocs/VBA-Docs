@@ -8,6 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.Application
 ms.assetid: 3e7db8a5-230f-f80d-f69f-95f978fb99ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

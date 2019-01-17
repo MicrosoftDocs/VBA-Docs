@@ -8,6 +8,7 @@ api_name:
 - Word.Application.GetDefaultTheme
 ms.assetid: 967760c0-4f99-5fae-026d-5ac60358d21c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

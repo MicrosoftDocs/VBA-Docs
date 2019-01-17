@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCaptions.CancelAutoInsert
 ms.assetid: 72e8bf75-242a-1a0b-d9c0-a97487575473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

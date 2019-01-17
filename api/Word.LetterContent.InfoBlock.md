@@ -8,6 +8,7 @@ api_name:
 - Word.LetterContent.InfoBlock
 ms.assetid: 2b639ef1-2c5c-f746-da04-1b8fcfaf5330
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceFile.CreatedBy
 ms.assetid: e16e3e87-7188-7650-db58-d26e7a98d4eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

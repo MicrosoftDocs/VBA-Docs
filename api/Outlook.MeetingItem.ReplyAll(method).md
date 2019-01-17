@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.ReplyAll
 ms.assetid: b3a85859-dd31-d1ca-8ce5-d8a2b06576bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

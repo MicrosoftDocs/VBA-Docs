@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.Script
 ms.assetid: 54e5a19f-9cb0-0fbc-5ebe-cd4db6c0de8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

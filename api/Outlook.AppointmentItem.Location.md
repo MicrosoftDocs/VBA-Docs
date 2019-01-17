@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Location
 ms.assetid: bde4d455-15de-bb29-c27e-99c34836bd46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

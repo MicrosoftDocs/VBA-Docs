@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CustomFieldIndicatorDelete
 ms.assetid: 729eafe9-4d1a-07a6-efbc-ab0c94e3af59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

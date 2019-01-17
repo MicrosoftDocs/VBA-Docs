@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.CompanyMainTelephoneNumber
 ms.assetid: 21e092ae-d0cf-fc6c-6834-f0db032409d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

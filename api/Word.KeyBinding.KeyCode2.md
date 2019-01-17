@@ -8,6 +8,7 @@ api_name:
 - Word.KeyBinding.KeyCode2
 ms.assetid: b041fb3f-1777-f56a-4808-f96e570f5440
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

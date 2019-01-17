@@ -4,6 +4,7 @@ description: Documentation for the enumerations in the VBA Visio object model.
 ms.prod: visio
 ms.assetid: 44b55d08-8faa-4048-bf12-486d79ed112c
 ms.date: 09/05/2018
+localization_priority: Normal
 ---
 
 

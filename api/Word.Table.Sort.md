@@ -8,6 +8,7 @@ api_name:
 - Word.Table.Sort
 ms.assetid: 2c68f7ad-2d57-05ea-bd8b-cb8712c21f02
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

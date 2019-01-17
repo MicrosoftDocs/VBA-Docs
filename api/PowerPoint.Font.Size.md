@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Font.Size
 ms.assetid: dd56a4e9-20c7-b38d-0d0e-82e5326d51c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

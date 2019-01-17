@@ -8,6 +8,7 @@ api_name:
 - Outlook.BusinessCardView.Application
 ms.assetid: 3cb74b7f-9320-9e14-6b2f-3ff79cdde550
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

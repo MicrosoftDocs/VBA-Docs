@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FilterEffect.Parent
 ms.assetid: 24b358a4-beb8-c33f-75b2-e6e6a5a49041
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

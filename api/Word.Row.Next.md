@@ -8,6 +8,7 @@ api_name:
 - Word.Row.Next
 ms.assetid: d74be2bd-5b12-8478-1a09-744571b0bd66
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

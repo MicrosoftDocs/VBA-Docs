@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Attachments
 ms.assetid: 4d2eb321-84c7-5613-35cc-9df3e872541d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

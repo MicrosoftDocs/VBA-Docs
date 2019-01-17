@@ -8,6 +8,7 @@ api_name:
 - Word.Walls.ClearFormats
 ms.assetid: 70ca549c-fe9b-9165-9af1-f518f4d1bb5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

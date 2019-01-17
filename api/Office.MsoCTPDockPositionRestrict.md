@@ -5,6 +5,7 @@ api_name:
 - Office.MsoCTPDockPositionRestrict
 ms.assetid: ea41cc64-0fa4-b052-038e-51a91af2690b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

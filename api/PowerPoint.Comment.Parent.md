@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Comment.Parent
 ms.assetid: e20e0dee-f076-3edd-6d79-574d09577b97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

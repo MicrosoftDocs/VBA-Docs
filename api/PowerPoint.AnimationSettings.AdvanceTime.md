@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AnimationSettings.AdvanceTime
 ms.assetid: f4e5cec6-ba11-f605-3b3f-c4867fbce315
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

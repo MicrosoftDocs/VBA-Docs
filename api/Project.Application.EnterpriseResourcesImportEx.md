@@ -8,6 +8,7 @@ api_name:
 - Project.Application.EnterpriseResourcesImportEx
 ms.assetid: 58b92ff5-da61-07cc-daca-b56e4270a8a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeFilters.Delete
 ms.assetid: 23a931c7-20f5-e206-52e8-de6a1a9c7e0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

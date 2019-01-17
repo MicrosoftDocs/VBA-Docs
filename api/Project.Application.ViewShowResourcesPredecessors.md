@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ViewShowResourcesPredecessors
 ms.assetid: 3f7d0a36-cc1b-f3f2-8e25-d6b898d19afe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

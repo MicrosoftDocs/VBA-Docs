@@ -6,21 +6,21 @@ f1_keywords:
 ms.prod: office
 api_name:
 - Office.IRibbonControl.Tag
-ms.assetid: d0f041c0-d7bc-7a4f-df9b-ba62fa08f1ca
-ms.date: 06/08/2017
+ms.assetid: d0f041c
+localization_priority: Normal
 ---
 
 
 # IRibbonControl.Tag property (Office)
 
-Used to store arbitrary strings and fetch them at runtime. Read-only
+Used to store arbitrary strings and fetch them at runtime. Read-only.
 
 
 ## Syntax
 
-_expression_. `Tag`
+_expression_.**Tag**
 
- _expression_ An expression that returns a [IRibbonControl](Office.IRibbonControl.md) object.
+_expression_ An expression that returns an **[IRibbonControl](Office.IRibbonControl.md)** object.
 
 
 ## Return value
@@ -30,19 +30,15 @@ String
 
 ## Remarks
 
-Normally you can distinguish between controls in a Ribbon user interface XML customization file using the  **Id** property. However, there are restrictions on what IDs can contain (no non-alphanumeric characters, and they must all be unique). The **Tag** property doesn't have these restrictions and so it can be used in the following situations, where ID doesn't work:
-
+Normally you can distinguish between controls in a Ribbon user interface XML customization file by using the **Id** property. However, there are restrictions on what IDs can contain (no non-alphanumeric characters, and they must all be unique). The **Tag** property doesn't have these restrictions, so it can be used in the following situations, where ID doesn't work:
 
 - If you need to store a special string with your control such as a filename. For example: tag="C:\path\file.xlsm."
     
-- If you want multiple controls to be treated the same way by your callback procedures, but you don't want to maintain a list of all of their IDs (which must be unique). For example, you could have buttons on different tabs on the Ribbon, all with tag="blue", and then just check the  **Tag** property instead of the **ID** property when perfroming some common action.
+- If you want multiple controls to be treated the same way by your callback procedures, but you don't want to maintain a list of all their IDs (which must be unique). For example, you could have buttons on different tabs on the Ribbon, all with tag="blue", and then just choose the **Tag** property instead of the **ID** property when perfroming some common actions.
     
-
-
-
 ## Example
 
-In the XML used to customize the Ribbon user interface, you can set a tag as follows. When the MyFunction action is called, you can read the  **Tag** property, which will be equal to "some string".
+In the XML used to customize the Ribbon user interface, you can set a tag as follows. When the MyFunction action is called, you can read the **Tag** property, which will be equal to "some string".
 
 
 ```xml
@@ -52,10 +48,4 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 
 ## See also
 
-
-[IRibbonControl Object](Office.IRibbonControl.md)
-
-
-
-[IRibbonControl Object Members](./overview/Library-Reference/iribboncontrol-members-office.md)
-
+- [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)

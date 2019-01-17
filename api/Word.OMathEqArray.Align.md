@@ -8,6 +8,7 @@ api_name:
 - Word.OMathEqArray.Align
 ms.assetid: 19c9cc0a-b076-41e3-6acf-70199bbdea8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

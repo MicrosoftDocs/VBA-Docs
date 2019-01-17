@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Delete
 ms.assetid: be259027-9cc4-95a4-2aa9-349b1967b9be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

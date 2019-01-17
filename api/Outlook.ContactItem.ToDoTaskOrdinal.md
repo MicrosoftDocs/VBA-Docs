@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ToDoTaskOrdinal
 ms.assetid: 080e32ad-b770-42d1-60d0-4eb6271056db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

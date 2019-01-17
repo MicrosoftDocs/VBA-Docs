@@ -8,6 +8,7 @@ api_name:
 - Word.Comment.Range
 ms.assetid: 1a67e361-67ee-0fb1-ffe4-9e15aa73e2a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Font.Superscript
 ms.assetid: 6f0bba73-f375-d715-3ddb-f1ab6041336c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

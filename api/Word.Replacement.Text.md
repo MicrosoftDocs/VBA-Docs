@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.Text
 ms.assetid: bfd99129-8d38-b448-6d74-cda1a78304d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

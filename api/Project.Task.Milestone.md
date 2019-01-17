@@ -8,6 +8,7 @@ api_name:
 - Project.Task.Milestone
 ms.assetid: 246b3d92-43d7-850b-ab7c-8c314ca42aa9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationCloseFinal
 ms.assetid: 4972c700-9d7a-e43e-1e22-f9882368741e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

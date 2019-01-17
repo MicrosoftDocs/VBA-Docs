@@ -8,6 +8,7 @@ api_name:
 - Word.View.ShowOtherAuthors
 ms.assetid: 14f73a6c-cc46-f52c-8bae-c6ba5842f62f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

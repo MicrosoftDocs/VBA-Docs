@@ -8,6 +8,7 @@ api_name:
 - Word.Point.ApplyPictToSides
 ms.assetid: 6f12c8f9-ec8f-18ca-9e77-ddc09a9be167
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

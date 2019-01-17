@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CustomLayouts
 ms.assetid: 9ce682fb-545c-55cb-e9ac-3475f7556af1
 ms.date: 12/26/2018
+localization_priority: Normal
 ---
 
 

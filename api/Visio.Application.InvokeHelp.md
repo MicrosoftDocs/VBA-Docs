@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.InvokeHelp
 ms.assetid: dffc0412-9b90-466c-c0f9-d32f702d4927
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

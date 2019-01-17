@@ -8,6 +8,7 @@ api_name:
 - Outlook.Stores.BeforeStoreRemove
 ms.assetid: b21d4854-3da5-5c01-cbc1-098bb505466e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

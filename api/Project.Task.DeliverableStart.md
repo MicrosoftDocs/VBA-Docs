@@ -5,6 +5,7 @@ api_name:
 - Project.Task.DeliverableStart
 ms.assetid: 8d5df8de-e564-78c5-c2f0-d7096dc35b32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

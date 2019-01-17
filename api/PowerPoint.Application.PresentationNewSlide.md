@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.PresentationNewSlide
 ms.assetid: e9718cad-6411-d013-6c93-0370aa71a8f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

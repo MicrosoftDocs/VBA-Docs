@@ -8,6 +8,7 @@ api_name:
 - Publisher.MailMergeDataSource.ConnectString
 ms.assetid: d7719567-f946-6b76-3ff2-d372dcc76a17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

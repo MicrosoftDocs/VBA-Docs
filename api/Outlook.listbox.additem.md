@@ -3,6 +3,7 @@ title: ListBox.AddItem Method (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: e948d5ac-6d88-d825-e1ee-4a05fe934853
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

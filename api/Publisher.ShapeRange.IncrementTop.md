@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.IncrementTop
 ms.assetid: 8172406f-fac5-ad3d-49b8-cb4858d45c6d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

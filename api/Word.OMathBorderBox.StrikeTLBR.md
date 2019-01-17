@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBorderBox.StrikeTLBR
 ms.assetid: 0e59d19e-83cb-b501-1a5a-5beaeccc757c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PpSlideShowPointerType
 ms.assetid: 158966a4-188a-1b54-9044-52bca1281a9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

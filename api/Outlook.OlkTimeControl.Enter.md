@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.Enter
 ms.assetid: 281db870-29af-01b0-ee77-7041ad759645
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

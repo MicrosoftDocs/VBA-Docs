@@ -3,6 +3,7 @@ title: Page.Zoom Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 8664e1d4-4b2b-5415-f5b4-be11ecde7a17
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

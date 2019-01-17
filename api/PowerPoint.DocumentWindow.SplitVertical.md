@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.SplitVertical
 ms.assetid: 8a26332f-d00d-9816-30e1-48411db07a62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

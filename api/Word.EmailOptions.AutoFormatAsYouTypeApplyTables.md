@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeApplyTables
 ms.assetid: e7435efc-b4a1-97a3-a7b1-d6e1fabfd0c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

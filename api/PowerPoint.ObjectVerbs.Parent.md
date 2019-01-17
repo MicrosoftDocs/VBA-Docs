@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ObjectVerbs.Parent
 ms.assetid: 6fdcb62a-4387-2af9-d146-3a74295685c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

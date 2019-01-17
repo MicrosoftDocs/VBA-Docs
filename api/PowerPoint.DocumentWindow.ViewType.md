@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.ViewType
 ms.assetid: 95eb4962-6d7a-41bd-fdae-757287f06350
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

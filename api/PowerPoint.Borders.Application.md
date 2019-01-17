@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Borders.Application
 ms.assetid: 85842c3f-dca3-48e5-31c9-4614ffaf2a59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.Inspector.ShowFormPage
 ms.assetid: d31a4df6-7b94-5eb4-8ec9-5a03dcaae53a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

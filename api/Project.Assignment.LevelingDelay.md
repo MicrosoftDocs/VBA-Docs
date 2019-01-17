@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.LevelingDelay
 ms.assetid: b01087ec-9440-9288-3afe-6c0ed87e4a50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

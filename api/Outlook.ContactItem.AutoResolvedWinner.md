@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.AutoResolvedWinner
 ms.assetid: f14ae270-0d3d-5b8c-c85c-9809ba0b82fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

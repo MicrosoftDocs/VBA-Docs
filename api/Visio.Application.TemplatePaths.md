@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.TemplatePaths
 ms.assetid: 149a9ef2-e255-3dad-2177-b29c173fa66d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

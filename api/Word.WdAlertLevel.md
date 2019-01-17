@@ -8,6 +8,7 @@ api_name:
 - Word.WdAlertLevel
 ms.assetid: ecfcfb35-0fdc-0881-53aa-3c2e3f5350bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

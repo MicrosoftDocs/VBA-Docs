@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentProperty.LinkToContent
 ms.assetid: 062df6df-cdee-81fc-3244-e229dacaa64e
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

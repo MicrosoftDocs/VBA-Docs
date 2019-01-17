@@ -8,6 +8,7 @@ api_name:
 - Visio.DataConnection.Timeout
 ms.assetid: 913b4e54-2cb6-bfbd-50fb-d369a37fb410
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

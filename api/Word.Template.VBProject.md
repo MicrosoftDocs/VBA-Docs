@@ -8,6 +8,7 @@ api_name:
 - Word.Template.VBProject
 ms.assetid: deea632d-239f-700d-7a89-fdc0fae916ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

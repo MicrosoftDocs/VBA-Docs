@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.ReminderTime
 ms.assetid: c34a0a59-79f6-e1ee-7e69-762e6a6de731
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

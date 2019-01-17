@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.MoveTo
 ms.assetid: 0efa5d50-0dd8-bcaa-5c05-1493c40c5b45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

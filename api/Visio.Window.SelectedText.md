@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.SelectedText
 ms.assetid: 75397f73-192b-7683-2a46-016d9b458879
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

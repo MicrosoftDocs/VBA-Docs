@@ -8,6 +8,7 @@ api_name:
 - Word.View.RevisionsBalloonShowConnectingLines
 ms.assetid: 78c1cf42-93a7-eec9-84f6-40c6e7de036c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.SetHeight
 ms.assetid: 6c6dc63d-c17c-ad39-4d7a-bb5b608e776e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

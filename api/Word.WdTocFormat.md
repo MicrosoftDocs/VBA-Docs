@@ -5,6 +5,7 @@ api_name:
 - Word.WdTocFormat
 ms.assetid: 2f21ad4a-f200-a2cf-4ce4-db7f304c0708
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

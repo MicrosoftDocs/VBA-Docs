@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.Explosion
 ms.assetid: c952b296-35c2-0215-228e-883a29e1b9d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

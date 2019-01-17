@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LeaderLines.Select
 ms.assetid: a146a575-89ef-28c6-4f0e-ede101835573
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

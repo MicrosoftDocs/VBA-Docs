@@ -8,6 +8,7 @@ api_name:
 - Word.LegendKey.PictureType
 ms.assetid: 7579c428-4895-9d70-16d2-c99c260ca2f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

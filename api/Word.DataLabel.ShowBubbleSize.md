@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabel.ShowBubbleSize
 ms.assetid: f3126ab6-7f58-d8f3-c0c4-6ace5e7dd8b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

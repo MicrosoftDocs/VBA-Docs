@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.XlChartPicturePlacement
 ms.assetid: 0afb4bde-5523-2dae-74f0-abe2adc79a48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

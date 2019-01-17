@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.IsCertificateExpired
 ms.assetid: 22f61a5b-809f-718e-926b-a3c6bc9691f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

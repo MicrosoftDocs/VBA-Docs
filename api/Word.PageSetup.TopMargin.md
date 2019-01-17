@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.TopMargin
 ms.assetid: c7c8d859-e82b-5170-eadb-95a6e5895f83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.SelectionAdded
 ms.assetid: ca63a476-a7d0-bd27-6c41-5e36b4ef56ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

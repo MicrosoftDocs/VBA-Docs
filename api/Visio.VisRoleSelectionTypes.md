@@ -8,6 +8,7 @@ api_name:
 - Visio.VisRoleSelectionTypes
 ms.assetid: 87e0e9fe-23c9-b554-a333-0ea7b3c7fb5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

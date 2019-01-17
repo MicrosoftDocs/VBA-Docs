@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.Caption
 ms.assetid: eb9111e7-7517-c96e-045b-bf6ea14a32a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

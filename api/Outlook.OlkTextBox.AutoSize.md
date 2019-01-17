@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.AutoSize
 ms.assetid: 2445da74-24ff-8f22-a55a-b6f39a79129b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

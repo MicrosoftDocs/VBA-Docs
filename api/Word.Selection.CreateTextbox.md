@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.CreateTextbox
 ms.assetid: e3c567ee-949f-5e87-43c2-633cdae334b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

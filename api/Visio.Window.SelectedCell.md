@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.SelectedCell
 ms.assetid: 104a2b2d-eb12-2917-6332-9a60e4623e74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

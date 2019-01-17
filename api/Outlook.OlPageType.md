@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlPageType
 ms.assetid: e4392bf7-5e61-c67b-e564-191e9c62e407
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.PlotArea.Width
 ms.assetid: 65133a86-fd48-43dc-2f32-66eece825ea7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

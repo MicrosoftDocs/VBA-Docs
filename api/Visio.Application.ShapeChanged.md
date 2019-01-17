@@ -5,6 +5,7 @@ api_name:
 - Visio.Application.ShapeChanged
 ms.assetid: aac5dfc5-370e-8299-4e3e-39fe9a7000d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

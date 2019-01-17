@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.StartInStartTimeZone
 ms.assetid: 4735816e-2c3b-816c-434d-8d7ea42fec81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

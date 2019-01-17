@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.ConversationTopic
 ms.assetid: 021d0822-d4a3-ec4a-eb27-b64bc2deaac1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

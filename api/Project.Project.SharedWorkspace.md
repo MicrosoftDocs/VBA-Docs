@@ -5,6 +5,7 @@ api_name:
 - Project.Project.SharedWorkspace
 ms.assetid: b3255086-628f-8c62-dff8-1ec61009351b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

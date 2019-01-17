@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.NetMeetingServer
 ms.assetid: 884d7542-c2df-2f55-5000-4bbf05849418
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

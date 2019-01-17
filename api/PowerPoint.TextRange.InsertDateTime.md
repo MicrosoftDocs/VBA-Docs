@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.InsertDateTime
 ms.assetid: b1f6c2db-2524-f76e-eee2-8f177b08dcde
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

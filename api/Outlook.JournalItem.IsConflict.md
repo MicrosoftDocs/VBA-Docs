@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.IsConflict
 ms.assetid: 0390d347-959b-0dac-4f8b-7a714c4bdf6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

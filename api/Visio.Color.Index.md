@@ -8,6 +8,7 @@ api_name:
 - Visio.Color.Index
 ms.assetid: 2a569a48-67df-5c6a-0863-0af7052544fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNode.SelectSingleNode
 ms.assetid: 630751f0-fe41-8f91-32d0-e266b3214cbf
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

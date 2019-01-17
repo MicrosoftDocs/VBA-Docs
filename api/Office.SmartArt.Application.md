@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArt.Application
 ms.assetid: 43c6690b-1847-48ee-23e7-d20b73ea9969
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

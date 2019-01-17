@@ -8,6 +8,7 @@ api_name:
 - Word.Find.IgnorePunct
 ms.assetid: 4270e497-58d0-5ab0-66f9-5f4e642eb964
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.CustomXMLNode.Creator
 ms.assetid: e2dc5b81-6bfe-abc9-f5e5-a3de4d1348ff
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

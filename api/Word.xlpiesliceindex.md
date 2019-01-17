@@ -3,6 +3,7 @@ title: xlPieSliceIndex enumeration (Word)
 ms.prod: word
 ms.assetid: 3745028d-34b0-eaff-4437-d5df00b5ce52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

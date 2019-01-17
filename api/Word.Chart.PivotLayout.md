@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.PivotLayout
 ms.assetid: adf7d083-4f81-92f8-887d-5555d553d35d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Chart.Application Property (Project)
 ms.prod: project-server
 ms.assetid: 708a0d37-763c-9805-4349-5ffd52376fd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

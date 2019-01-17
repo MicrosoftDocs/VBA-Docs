@@ -8,6 +8,7 @@ api_name:
 - Publisher.CalloutFormat.Angle
 ms.assetid: b65a1c87-db52-8703-135e-1fbb1efbeebe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

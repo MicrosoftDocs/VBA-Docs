@@ -8,6 +8,7 @@ api_name:
 - Word.DropCap.Enable
 ms.assetid: 7e4bdd80-696c-c225-8f7e-0debdf071f27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

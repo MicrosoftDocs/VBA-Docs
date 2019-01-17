@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.BeforePageDelete
 ms.assetid: 18b80e01-a323-bce3-7107-1979f5ecc5a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

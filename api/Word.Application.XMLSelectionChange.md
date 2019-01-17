@@ -8,6 +8,7 @@ api_name:
 - Word.Application.XMLSelectionChange
 ms.assetid: a25d4e87-9b29-77b4-ddea-7692a0b56a8a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

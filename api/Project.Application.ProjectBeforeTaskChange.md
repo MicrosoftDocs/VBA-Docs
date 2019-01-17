@@ -5,6 +5,7 @@ api_name:
 - Project.Application.ProjectBeforeTaskChange
 ms.assetid: 995024c3-b031-0ddd-0fbe-4d817f237473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.Delete
 ms.assetid: 29dc0685-b354-427c-2b95-e02847dbb09e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

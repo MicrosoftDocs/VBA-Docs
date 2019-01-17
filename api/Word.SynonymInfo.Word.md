@@ -8,6 +8,7 @@ api_name:
 - Word.SynonymInfo.Word
 ms.assetid: ec019502-6dc7-16f8-b019-957b00a7e3d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

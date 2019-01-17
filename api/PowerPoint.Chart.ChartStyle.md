@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ChartStyle
 ms.assetid: 0ab20b4e-3916-1825-22b6-d23a24680808
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

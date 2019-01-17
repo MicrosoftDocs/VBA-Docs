@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.DeleteSection
 ms.assetid: e07981f3-5efe-f4ad-0517-1af4913c3f70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

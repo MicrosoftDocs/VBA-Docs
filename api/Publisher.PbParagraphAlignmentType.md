@@ -8,6 +8,7 @@ api_name:
 - Publisher.PbParagraphAlignmentType
 ms.assetid: bfcf7b96-e774-322b-7dba-e6cbc4f1cb1a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

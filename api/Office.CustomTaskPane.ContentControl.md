@@ -8,6 +8,7 @@ api_name:
 - Office.CustomTaskPane.ContentControl
 ms.assetid: 55cb59eb-8ffe-4b89-b585-3ee9defd1cda
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

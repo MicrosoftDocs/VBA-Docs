@@ -8,6 +8,7 @@ api_name:
 - Word.Range.FormFields
 ms.assetid: 9777dc22-1fe5-c442-a4bf-e3dae4549168
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

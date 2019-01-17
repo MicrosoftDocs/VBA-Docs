@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.FillFrame
 ms.assetid: 404f956d-38f9-7a36-a10b-8ca8e61d59a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

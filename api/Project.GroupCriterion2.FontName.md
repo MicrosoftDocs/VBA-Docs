@@ -5,6 +5,7 @@ api_name:
 - Project.GroupCriterion2.FontName
 ms.assetid: 230086d5-c14c-0150-faad-5ebe05f3a956
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

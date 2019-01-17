@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.GetConversation
 ms.assetid: 20e0b147-b963-3be3-55a2-7075675bb727
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

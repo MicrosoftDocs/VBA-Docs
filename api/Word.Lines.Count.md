@@ -8,6 +8,7 @@ api_name:
 - Word.Lines.Count
 ms.assetid: d9823263-690c-f3b2-c4d2-87dda38faad3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

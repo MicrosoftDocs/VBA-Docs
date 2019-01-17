@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeNode.EditingType
 ms.assetid: ac490e3c-3938-a1db-50b5-ec667061f711
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

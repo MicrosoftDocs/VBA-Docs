@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.MyShapesPath
 ms.assetid: 0e5a598b-262f-dbf0-3c68-3199750fd5a9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

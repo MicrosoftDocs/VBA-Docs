@@ -3,6 +3,7 @@ title: InvisibleApp.BeforeReplaceShapes Event (Visio)
 ms.prod: visio
 ms.assetid: bd0e37ca-887a-4d53-3b0c-3339492df3dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

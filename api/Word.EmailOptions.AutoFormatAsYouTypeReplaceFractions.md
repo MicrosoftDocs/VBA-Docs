@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.AutoFormatAsYouTypeReplaceFractions
 ms.assetid: 41a0273c-11c5-2053-fd7b-aaed13e1d9a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

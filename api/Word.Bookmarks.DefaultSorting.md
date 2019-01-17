@@ -8,6 +8,7 @@ api_name:
 - Word.Bookmarks.DefaultSorting
 ms.assetid: 86f17298-8a11-a5d6-05fd-4cb87f6e5f91
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

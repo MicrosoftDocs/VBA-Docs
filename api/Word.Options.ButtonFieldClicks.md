@@ -8,6 +8,7 @@ api_name:
 - Word.Options.ButtonFieldClicks
 ms.assetid: 64bb9624-b60d-3999-adf4-9795f18167cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

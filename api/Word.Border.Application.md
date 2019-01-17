@@ -8,6 +8,7 @@ api_name:
 - Word.Border.Application
 ms.assetid: da43fc31-3558-09e5-5c52-a227ffcc7534
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

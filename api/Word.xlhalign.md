@@ -3,6 +3,7 @@ title: xlHAlign enumeration (Word)
 ms.prod: word
 ms.assetid: 7f53b35d-5d32-ecaf-62fa-fe6bc867f304
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

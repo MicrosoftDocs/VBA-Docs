@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.HeadersFooters.DisplayOnTitleSlide
 ms.assetid: adcf0504-50ce-b302-c61f-08425acf847c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

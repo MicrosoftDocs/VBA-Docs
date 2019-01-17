@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.SetEnd
 ms.assetid: 5f2c7b85-52b3-9147-a989-b2dce61c3493
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

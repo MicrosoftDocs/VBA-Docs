@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Copy
 ms.assetid: d50fff50-00fd-e70f-d777-9bf1850cae37
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

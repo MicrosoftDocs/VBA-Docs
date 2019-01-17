@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressEntries.Sort
 ms.assetid: 9b381837-9fe9-1041-8297-e8c8dbcdc2e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ContentControls.Application
 ms.assetid: 0aad9eeb-2d41-07e6-1a4f-2cd2aa1b29d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

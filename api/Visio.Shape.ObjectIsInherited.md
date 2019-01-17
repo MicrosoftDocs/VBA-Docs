@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.ObjectIsInherited
 ms.assetid: 5bb91e7a-f28e-f169-2e4a-87d46aacdccc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

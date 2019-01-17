@@ -8,6 +8,7 @@ api_name:
 - Word.Floor.Format
 ms.assetid: a89a1afc-fe04-d2f4-545b-7c0698f11566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

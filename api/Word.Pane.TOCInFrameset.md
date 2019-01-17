@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.TOCInFrameset
 ms.assetid: fbc96c96-caff-b867-c468-21eec396e014
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

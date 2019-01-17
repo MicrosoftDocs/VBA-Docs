@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfContents.UseHeadingStyles
 ms.assetid: c026c00b-f3ec-b350-d046-0761b6e70851
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

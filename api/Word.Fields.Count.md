@@ -8,6 +8,7 @@ api_name:
 - Word.Fields.Count
 ms.assetid: ab47dea0-4f3c-378d-d176-d6c23ea53ed7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

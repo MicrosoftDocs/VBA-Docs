@@ -8,6 +8,7 @@ api_name:
 - Word.FootnoteOptions.NumberingRule
 ms.assetid: 40cee00b-0354-cc4c-57d9-86f7df1765dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

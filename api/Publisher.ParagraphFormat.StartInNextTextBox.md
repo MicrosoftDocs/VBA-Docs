@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.StartInNextTextBox
 ms.assetid: 96b34fa8-04ef-e472-16f0-15f82e7912ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

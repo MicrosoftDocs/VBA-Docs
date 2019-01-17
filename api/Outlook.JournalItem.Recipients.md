@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.Recipients
 ms.assetid: a50275db-644a-48d3-f257-fec541d6b8b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

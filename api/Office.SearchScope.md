@@ -8,6 +8,7 @@ api_name:
 - Office.SearchScope
 ms.assetid: 7faa5b49-6aa9-6682-165b-0d900fffd9ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

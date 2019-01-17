@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Interior.Creator
 ms.assetid: fd81a1cd-30f9-63f6-a303-3fe3088991b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

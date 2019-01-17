@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.TaskStartDate
 ms.assetid: f84e949f-4126-39e9-b0b9-e27e5ef3951a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Dialog.Execute
 ms.assetid: 7f7dce3a-40ef-988c-f5ea-06a25c0ccc4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

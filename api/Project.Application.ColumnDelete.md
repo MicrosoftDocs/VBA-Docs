@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ColumnDelete
 ms.assetid: a492d8ab-6ed6-49f8-e626-d0a042546021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

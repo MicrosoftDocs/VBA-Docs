@@ -8,6 +8,7 @@ api_name:
 - Word.Range.GoToEditableRange
 ms.assetid: 4901bcef-56a7-c00e-409e-da0d442344c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

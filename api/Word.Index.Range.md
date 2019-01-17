@@ -8,6 +8,7 @@ api_name:
 - Word.Index.Range
 ms.assetid: b10ba4db-92ab-bf83-1821-7165866cf295
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

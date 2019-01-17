@@ -5,6 +5,7 @@ api_name:
 - Word.CoAuthLocks
 ms.assetid: 589763ed-8463-6988-3817-9c2152506d16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: ThemeVariant.Name Property (PowerPoint)
 ms.assetid: c28ccf47-05ab-9d75-e190-47a3032faac6
 ms.date: 06/08/2017
 ms.prod: powerpoint
+localization_priority: Normal
 ---
 
 

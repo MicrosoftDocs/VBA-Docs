@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.DateCompleted
 ms.assetid: 17e6a4af-4cd9-0c5e-35ab-5232cf067478
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

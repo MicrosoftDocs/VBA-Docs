@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.DropMany
 ms.assetid: def60b35-ce19-ec34-9654-355856e26b37
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.HasDataTable
 ms.assetid: 62af9540-9a69-0e19-b884-4f2b5947152f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

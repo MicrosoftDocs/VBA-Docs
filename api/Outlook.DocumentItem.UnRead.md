@@ -8,6 +8,7 @@ api_name:
 - Outlook.DocumentItem.UnRead
 ms.assetid: bf791b60-e871-8e1b-79c0-13683658c1e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

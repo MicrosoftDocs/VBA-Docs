@@ -8,6 +8,7 @@ api_name:
 - Word.HorizontalLineFormat.Creator
 ms.assetid: ecbfac32-9cf2-286d-4c7a-ca74056b8d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

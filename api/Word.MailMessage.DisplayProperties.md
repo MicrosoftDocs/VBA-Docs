@@ -8,6 +8,7 @@ api_name:
 - Word.MailMessage.DisplayProperties
 ms.assetid: fa660e11-5329-5167-ddc3-0d90ee820251
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

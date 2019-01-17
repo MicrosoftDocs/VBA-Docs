@@ -8,6 +8,7 @@ api_name:
 - Project.Application.Gridlines
 ms.assetid: 36252fa9-e0de-f221-58fb-871c1ddb2f77
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

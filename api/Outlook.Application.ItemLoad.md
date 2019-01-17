@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.ItemLoad
 ms.assetid: aed0656d-4e5a-550a-1116-76773215a897
 ms.date: 09/19/2018
+localization_priority: Normal
 ---
 
 

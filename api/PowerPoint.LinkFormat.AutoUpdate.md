@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LinkFormat.AutoUpdate
 ms.assetid: de142aa6-2414-61c3-62d1-1226a0f9209f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

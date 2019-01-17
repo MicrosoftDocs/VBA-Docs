@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.GetInspector
 ms.assetid: 960f9b66-35dc-54ab-13c3-9ea54802bccf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

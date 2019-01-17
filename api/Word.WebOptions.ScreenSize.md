@@ -8,6 +8,7 @@ api_name:
 - Word.WebOptions.ScreenSize
 ms.assetid: 4398a153-6932-17ef-b449-a532363fb428
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

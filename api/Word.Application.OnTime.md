@@ -8,6 +8,7 @@ api_name:
 - Word.Application.OnTime
 ms.assetid: 732d03cc-9dd6-5961-9763-048f72dea4d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.CalendarTaskList
 ms.assetid: dc37a9b6-616b-248d-d597-fcfbe5074ab1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

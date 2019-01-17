@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.Width
 ms.assetid: 691cea28-3baf-b5c8-8205-f19e26151483
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

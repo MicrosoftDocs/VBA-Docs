@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.CurrentView
 ms.assetid: 42af4345-60f1-10cd-66e5-517ca002284b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

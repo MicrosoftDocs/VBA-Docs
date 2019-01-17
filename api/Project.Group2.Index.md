@@ -5,6 +5,7 @@ api_name:
 - Project.Group2.Index
 ms.assetid: a7d4ec3e-825b-87c8-d7bb-a61984ba7ace
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

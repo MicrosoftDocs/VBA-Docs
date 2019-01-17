@@ -8,6 +8,7 @@ api_name:
 - Visio.Global.VBE
 ms.assetid: e9840bf6-b6a5-39e5-36c8-517cd772d54d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

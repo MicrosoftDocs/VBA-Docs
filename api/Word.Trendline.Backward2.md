@@ -8,6 +8,7 @@ api_name:
 - Word.Trendline.Backward2
 ms.assetid: 41655a35-671d-363b-e980-589a1d53ffe1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

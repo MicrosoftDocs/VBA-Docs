@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrect.OtherCorrectionsAutoAdd
 ms.assetid: ac284578-00af-7143-0573-a75a5557760c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

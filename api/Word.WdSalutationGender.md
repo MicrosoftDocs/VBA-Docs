@@ -5,6 +5,7 @@ api_name:
 - Word.WdSalutationGender
 ms.assetid: 6dc73995-7196-b4cf-efe4-75868c4851db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

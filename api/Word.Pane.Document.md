@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.Document
 ms.assetid: 4776bd40-4ac3-3d2f-13ed-10d5e355594f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

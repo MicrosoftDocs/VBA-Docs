@@ -8,6 +8,7 @@ api_name:
 - Word.ShadowFormat.OffsetX
 ms.assetid: 5556921b-b96b-7e28-8cd4-7be3475f6a6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

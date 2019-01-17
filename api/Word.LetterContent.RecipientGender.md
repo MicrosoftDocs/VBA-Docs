@@ -8,6 +8,7 @@ api_name:
 - Word.LetterContent.RecipientGender
 ms.assetid: 6997df77-8869-9136-4115-13c9d3928cd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

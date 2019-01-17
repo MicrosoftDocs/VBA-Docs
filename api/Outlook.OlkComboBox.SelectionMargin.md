@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.SelectionMargin
 ms.assetid: 029f7586-9f1e-95c9-3feb-2c5a09614821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

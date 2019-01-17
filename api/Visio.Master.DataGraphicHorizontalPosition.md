@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.DataGraphicHorizontalPosition
 ms.assetid: d9c98a41-ffc0-152e-2150-0915bd38bcac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.CalendarViewMode
 ms.assetid: 144e46ed-984f-fac0-fad3-0ff5ac9f2996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

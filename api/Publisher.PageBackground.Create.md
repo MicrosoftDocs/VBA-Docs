@@ -8,6 +8,7 @@ api_name:
 - Publisher.PageBackground.Create
 ms.assetid: a9b699c4-067a-2c68-5f9b-ee7ba0c22cbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

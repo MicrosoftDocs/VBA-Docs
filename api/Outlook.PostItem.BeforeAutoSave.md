@@ -5,6 +5,7 @@ api_name:
 - Outlook.PostItem.BeforeAutoSave
 ms.assetid: 61a44326-0215-869b-0824-2308fd8017cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

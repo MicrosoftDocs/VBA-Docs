@@ -8,6 +8,7 @@ api_name:
 - Outlook.Explorers.Count
 ms.assetid: 48d8d345-5745-c378-f136-7b90ed499ef2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

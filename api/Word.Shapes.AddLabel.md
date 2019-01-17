@@ -8,6 +8,7 @@ api_name:
 - Word.Shapes.AddLabel
 ms.assetid: c5a5ea1f-5ca3-2c8d-40e2-bad94a220609
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

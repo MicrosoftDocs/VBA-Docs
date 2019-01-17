@@ -8,6 +8,7 @@ api_name:
 - Word.Options.DisableFeaturesIntroducedAfterbyDefault
 ms.assetid: a7cf788b-f5c1-2d7e-b3de-1261b2a65c45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

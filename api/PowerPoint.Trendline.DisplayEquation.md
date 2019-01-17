@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Trendline.DisplayEquation
 ms.assetid: dad5ea14-3165-df06-33b6-b90ddedaab39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

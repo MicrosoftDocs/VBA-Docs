@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.Send
 ms.assetid: 72f2e997-55ef-b98b-fdd1-7f3b810a28ed
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

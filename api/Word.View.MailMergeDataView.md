@@ -8,6 +8,7 @@ api_name:
 - Word.View.MailMergeDataView
 ms.assetid: 2252ea96-70ac-f9f1-554f-59a8337c9b5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

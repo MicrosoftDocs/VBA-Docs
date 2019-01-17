@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.FillStyle
 ms.assetid: f674da21-deac-4636-608c-c26241a7b125
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

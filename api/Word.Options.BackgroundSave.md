@@ -8,6 +8,7 @@ api_name:
 - Word.Options.BackgroundSave
 ms.assetid: a579d9ae-5ee2-543e-fe16-e642e48dcb61
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

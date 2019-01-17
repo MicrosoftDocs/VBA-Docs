@@ -8,6 +8,7 @@ api_name:
 - Word.TextInput.Clear
 ms.assetid: 863fc6e4-efb6-3d3a-5f4f-19caab70f44f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

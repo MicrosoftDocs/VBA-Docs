@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.SnapSettings
 ms.assetid: c3ced586-d9c7-01bd-6b32-99fedda3c2b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

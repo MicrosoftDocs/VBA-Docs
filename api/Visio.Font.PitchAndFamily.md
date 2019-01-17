@@ -8,6 +8,7 @@ api_name:
 - Visio.Font.PitchAndFamily
 ms.assetid: 1902eb17-9be5-7337-bfdc-7804c66555ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

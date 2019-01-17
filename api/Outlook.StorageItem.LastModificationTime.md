@@ -8,6 +8,7 @@ api_name:
 - Outlook.StorageItem.LastModificationTime
 ms.assetid: 3095e2b6-04d2-f878-2822-8373ab8a2ff0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

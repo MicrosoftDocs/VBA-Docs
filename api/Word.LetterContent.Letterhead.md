@@ -8,6 +8,7 @@ api_name:
 - Word.LetterContent.Letterhead
 ms.assetid: afd847ed-46b2-2539-a4b4-550094974614
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

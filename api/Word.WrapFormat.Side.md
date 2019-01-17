@@ -8,6 +8,7 @@ api_name:
 - Word.WrapFormat.Side
 ms.assetid: eb4aec92-a51b-df53-1643-bd5dca45c9b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

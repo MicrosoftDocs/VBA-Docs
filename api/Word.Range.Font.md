@@ -8,6 +8,7 @@ api_name:
 - Word.Range.Font
 ms.assetid: 7582a7ed-0f16-e8f3-73f7-5d7b91193679
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

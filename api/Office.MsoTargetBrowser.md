@@ -5,6 +5,7 @@ api_name:
 - Office.MsoTargetBrowser
 ms.assetid: 6ce561d2-c327-b433-3c91-df1036e87a75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

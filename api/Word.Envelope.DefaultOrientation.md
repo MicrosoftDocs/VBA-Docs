@@ -8,6 +8,7 @@ api_name:
 - Word.Envelope.DefaultOrientation
 ms.assetid: b227ba33-0114-db43-9d5e-a18e6b8a868a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

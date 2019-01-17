@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNode.Attributes
 ms.assetid: 406847e4-25e4-77c6-883c-9cc85f781c73
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

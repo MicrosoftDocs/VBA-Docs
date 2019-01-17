@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.PickUp
 ms.assetid: 6074168d-5cb2-2f86-fca4-c609dd2333f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Cell.ContainingRow
 ms.assetid: ebe3f83c-6c97-c652-70d1-fb1197873ffb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

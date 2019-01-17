@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides.HorizontalBaseLineSpacing
 ms.assetid: 19899a25-c1a5-9c81-f022-d842a3d6c7d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

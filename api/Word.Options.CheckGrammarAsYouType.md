@@ -8,6 +8,7 @@ api_name:
 - Word.Options.CheckGrammarAsYouType
 ms.assetid: 11e4c676-bd8d-26e0-a0d4-74537508fc88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

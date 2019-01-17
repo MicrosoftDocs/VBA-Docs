@@ -8,6 +8,7 @@ api_name:
 - Word.ChartTitle.IncludeInLayout
 ms.assetid: 5adcb002-5b23-cd5b-06ea-7680ed359653
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

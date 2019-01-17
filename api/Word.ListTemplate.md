@@ -1,4 +1,4 @@
-﻿---
+---
 title: ListTemplate object (Word)
 keywords: vbawd10.chm2447
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Word.ListTemplate
 ms.assetid: d5e339f7-5798-305b-a6b0-6b572d9112f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

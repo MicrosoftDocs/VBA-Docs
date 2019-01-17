@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.LeftIndent
 ms.assetid: 543bfc55-77c1-3db3-ed61-b5c8cdb7cae0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.FreeformDrawingPrecision
 ms.assetid: 3822238b-cd63-1883-88a6-894b289765d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

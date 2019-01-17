@@ -8,6 +8,7 @@ api_name:
 - Word.Template.NoLineBreakAfter
 ms.assetid: efe38080-35b3-16d4-ce5c-0acb9a2a52ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

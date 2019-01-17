@@ -8,6 +8,7 @@ api_name:
 - Visio.Menu.FaceID
 ms.assetid: 03270afe-84ea-d21d-9077-5967dfce3550
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

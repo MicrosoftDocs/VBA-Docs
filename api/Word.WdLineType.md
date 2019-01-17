@@ -5,6 +5,7 @@ api_name:
 - Word.WdLineType
 ms.assetid: 6e69b3f0-c42f-963e-6ae9-6619cc171ecf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

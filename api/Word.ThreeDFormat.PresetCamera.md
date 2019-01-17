@@ -8,6 +8,7 @@ api_name:
 - Word.ThreeDFormat.PresetCamera
 ms.assetid: d8afdab9-d197-5950-872b-7de34d06e137
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

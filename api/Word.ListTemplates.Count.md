@@ -8,6 +8,7 @@ api_name:
 - Word.ListTemplates.Count
 ms.assetid: aee75fea-2910-abc9-8bdb-071b7b16afd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

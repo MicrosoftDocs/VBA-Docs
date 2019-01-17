@@ -5,6 +5,7 @@ api_name:
 - Project.Selection.Resources
 ms.assetid: f51d3c00-13a6-8584-4088-521671873184
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

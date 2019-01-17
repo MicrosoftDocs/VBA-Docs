@@ -8,6 +8,7 @@ api_name:
 - Word.Shading.ForegroundPatternColor
 ms.assetid: 2d8337e1-df14-8397-a59f-742fd03b0c4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

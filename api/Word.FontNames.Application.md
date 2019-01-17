@@ -8,6 +8,7 @@ api_name:
 - Word.FontNames.Application
 ms.assetid: 9b72a311-b1c4-03d4-a04e-f55b0b93aed9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

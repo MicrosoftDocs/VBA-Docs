@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.NoProofing
 ms.assetid: 408e41ed-25f4-7e61-a69c-42b731b3df8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

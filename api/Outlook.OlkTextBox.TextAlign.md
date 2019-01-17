@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.TextAlign
 ms.assetid: 92ac10f9-6c49-cb60-9c4d-05daf9479613
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

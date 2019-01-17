@@ -8,6 +8,7 @@ api_name:
 - Outlook.ViewFont.Underline
 ms.assetid: adfdcedb-5c77-00a1-0850-9d3c6490cb2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

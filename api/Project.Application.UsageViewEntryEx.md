@@ -8,6 +8,7 @@ api_name:
 - Project.Application.UsageViewEntryEx
 ms.assetid: 2aac9824-ab5c-006d-99d2-07e019e6409d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

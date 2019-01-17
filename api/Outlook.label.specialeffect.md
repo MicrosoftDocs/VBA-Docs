@@ -3,6 +3,7 @@ title: Label.SpecialEffect Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 022cb652-d475-381b-604f-5135e3c7df1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

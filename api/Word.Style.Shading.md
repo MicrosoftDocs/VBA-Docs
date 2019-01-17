@@ -8,6 +8,7 @@ api_name:
 - Word.Style.Shading
 ms.assetid: 7d0b4372-ad16-12d1-f0b9-1f610b1e57d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

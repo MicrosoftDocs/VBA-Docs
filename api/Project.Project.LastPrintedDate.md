@@ -5,6 +5,7 @@ api_name:
 - Project.Project.LastPrintedDate
 ms.assetid: 69bffd89-5a91-ffa3-8127-bf184d5afa4d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

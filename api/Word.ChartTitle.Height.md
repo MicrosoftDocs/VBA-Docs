@@ -8,6 +8,7 @@ api_name:
 - Word.ChartTitle.Height
 ms.assetid: 61832628-dbd4-e4a4-fdcc-d600f4fefe89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.Explorers.Session
 ms.assetid: 51dede9c-3775-2ca9-553e-5bd87ff35ae6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

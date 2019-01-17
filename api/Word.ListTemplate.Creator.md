@@ -8,6 +8,7 @@ api_name:
 - Word.ListTemplate.Creator
 ms.assetid: b51fca66-16cd-9b4c-a5c3-18936414e9b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

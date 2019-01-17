@@ -8,6 +8,7 @@ api_name:
 - Visio.Characters.AddCustomFieldU
 ms.assetid: f1a5bc23-981d-0be7-92f3-d2ba640751a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

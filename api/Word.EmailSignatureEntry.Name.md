@@ -8,6 +8,7 @@ api_name:
 - Word.EmailSignatureEntry.Name
 ms.assetid: 83a3c70e-f01b-f316-7c91-a4da16e05c5f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

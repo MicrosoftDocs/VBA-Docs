@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.Inspectors
 ms.assetid: c2dde847-d033-90e3-30d2-62ff375d6843
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

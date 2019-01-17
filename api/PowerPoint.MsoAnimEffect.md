@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.MsoAnimEffect
 ms.assetid: 2a4ec4c0-9bf2-281a-420b-dd7d3f13f716
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

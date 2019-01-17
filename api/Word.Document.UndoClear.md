@@ -8,6 +8,7 @@ api_name:
 - Word.Document.UndoClear
 ms.assetid: 4ff5856a-ee8d-a9c8-a0a5-1d9c0a0dc9e9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

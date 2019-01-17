@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.TemplateName
 ms.assetid: 50cea27c-8181-eb32-20ae-88ae1f7ab34c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

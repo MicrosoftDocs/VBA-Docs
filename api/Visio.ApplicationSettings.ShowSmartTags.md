@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.ShowSmartTags
 ms.assetid: 36df74db-1d60-7bcc-0f52-ed12084a383a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

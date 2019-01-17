@@ -8,6 +8,7 @@ api_name:
 - Outlook.View.Reset
 ms.assetid: fb909688-309d-0a70-0b67-0f1793f6a27d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

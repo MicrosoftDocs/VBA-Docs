@@ -3,6 +3,7 @@ title: VisQuickStyleColors Enumeration (Visio)
 ms.prod: visio
 ms.assetid: c19d91f3-a9a4-e31e-ed7a-eef15553fbf4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Template.CustomDocumentProperties
 ms.assetid: b11e705f-7042-014c-4efc-2d2fba135ab2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.CellExistsU
 ms.assetid: da26e913-39c5-7af5-194d-3bb5dca76678
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

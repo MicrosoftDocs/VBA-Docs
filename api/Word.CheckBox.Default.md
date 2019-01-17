@@ -8,6 +8,7 @@ api_name:
 - Word.CheckBox.Default
 ms.assetid: 49e27047-aee0-bf84-ce44-7d30d7f863e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

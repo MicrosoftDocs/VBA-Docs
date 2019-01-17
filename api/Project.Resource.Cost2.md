@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Cost2
 ms.assetid: 7e0621f8-6a57-28e7-8fd1-8c962732f631
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

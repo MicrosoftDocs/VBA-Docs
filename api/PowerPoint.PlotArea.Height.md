@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.PlotArea.Height
 ms.assetid: c6c34189-cab8-4fca-a039-332eb8a90128
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

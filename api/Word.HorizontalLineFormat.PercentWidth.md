@@ -8,6 +8,7 @@ api_name:
 - Word.HorizontalLineFormat.PercentWidth
 ms.assetid: 40c51a99-aeda-9250-bb94-ee983ef3c33c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

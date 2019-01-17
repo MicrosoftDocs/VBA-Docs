@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.Zoom
 ms.assetid: 35b6973f-ede6-e731-acf0-59ef03456c47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

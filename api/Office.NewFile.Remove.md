@@ -8,6 +8,7 @@ api_name:
 - Office.NewFile.Remove
 ms.assetid: 1954580b-3c8b-3e4b-0884-8d32932fbf58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

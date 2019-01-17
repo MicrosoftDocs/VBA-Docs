@@ -8,6 +8,7 @@ api_name:
 - Outlook.Inspector.BeforeSize
 ms.assetid: ee0b12af-0edc-bd06-c67c-67469df128dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

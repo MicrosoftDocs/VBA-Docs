@@ -8,6 +8,7 @@ api_name:
 - Word.Cell.Column
 ms.assetid: b3f5f0a1-4d17-9d66-f689-9eb6308132fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Windows.ViewChanged
 ms.assetid: 0c504d9d-3664-38fc-33ad-cc7ec41589e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

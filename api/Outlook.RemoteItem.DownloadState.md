@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.DownloadState
 ms.assetid: 30e87940-f365-113c-dad4-c17775db7cdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

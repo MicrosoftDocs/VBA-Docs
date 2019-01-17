@@ -8,6 +8,7 @@ api_name:
 - Visio.MouseEvent.KeyButtonState
 ms.assetid: d4a408af-38a4-6e3f-3dfc-6ebf342c6bb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

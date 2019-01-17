@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.GetConversation
 ms.assetid: bf64cf33-ce6d-a37a-09e4-f2970f669983
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

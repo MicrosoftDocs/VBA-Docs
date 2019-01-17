@@ -3,6 +3,7 @@ title: ReplaceShapesEvent.ReplaceFlags Property (Visio)
 ms.prod: visio
 ms.assetid: d0d00891-c794-bd0c-d37e-1ab98c92beab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

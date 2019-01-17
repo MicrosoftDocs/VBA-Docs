@@ -8,6 +8,7 @@ api_name:
 - Outlook.Actions.Remove
 ms.assetid: a44c382b-0eff-2033-da91-05bee0e210b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

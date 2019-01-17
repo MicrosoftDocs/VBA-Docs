@@ -5,6 +5,7 @@ api_name:
 - Word.WdArabicNumeral
 ms.assetid: 63983b2a-4350-60a9-be67-92929a33c971
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

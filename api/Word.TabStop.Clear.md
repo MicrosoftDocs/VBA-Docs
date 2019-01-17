@@ -8,6 +8,7 @@ api_name:
 - Word.TabStop.Clear
 ms.assetid: 5337df07-97a5-2dfe-97b3-7277649b4701
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

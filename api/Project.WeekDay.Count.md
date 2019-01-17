@@ -5,6 +5,7 @@ api_name:
 - Project.WeekDay.Count
 ms.assetid: 91828803-9d2f-a7ea-f917-f1e26147f177
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

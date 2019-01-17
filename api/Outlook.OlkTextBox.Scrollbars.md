@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.Scrollbars
 ms.assetid: b726ee18-3542-f450-08cd-1a7f3329db05
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

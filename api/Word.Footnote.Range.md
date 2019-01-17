@@ -8,6 +8,7 @@ api_name:
 - Word.Footnote.Range
 ms.assetid: 108c228d-b593-ae58-8abb-7e7ac16177b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

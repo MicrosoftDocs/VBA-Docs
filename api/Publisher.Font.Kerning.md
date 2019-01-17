@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.Kerning
 ms.assetid: 756fe3fa-9bf3-be16-2dd1-5b8fb0ec6496
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

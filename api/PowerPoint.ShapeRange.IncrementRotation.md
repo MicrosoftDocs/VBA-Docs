@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.IncrementRotation
 ms.assetid: 427367bb-5264-86de-cf39-be252c4b7098
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

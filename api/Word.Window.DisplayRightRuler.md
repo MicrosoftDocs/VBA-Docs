@@ -8,6 +8,7 @@ api_name:
 - Word.Window.DisplayRightRuler
 ms.assetid: a587b652-5ba6-564d-4a8e-d78649bd716d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

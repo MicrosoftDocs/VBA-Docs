@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FileConverter.Application
 ms.assetid: 9aaa5b4a-03f7-69e0-91be-082a28cdad99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

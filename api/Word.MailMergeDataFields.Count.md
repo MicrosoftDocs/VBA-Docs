@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeDataFields.Count
 ms.assetid: c6b7bb82-ee54-5972-96b6-ab8b2803cf83
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

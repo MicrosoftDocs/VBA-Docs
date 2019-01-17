@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.TemplateFolderPath
 ms.assetid: e2256af9-9432-6205-864a-10bb7dec41c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.HiLoLines.Select
 ms.assetid: 3bd797e6-ed73-0fde-3cee-3bfb6b456617
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.UpdateOLEObjects
 ms.assetid: 2c07e755-6f5c-5fd8-091c-fbe3bfae6692
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

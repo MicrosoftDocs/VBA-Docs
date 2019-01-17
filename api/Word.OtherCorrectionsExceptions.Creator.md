@@ -8,6 +8,7 @@ api_name:
 - Word.OtherCorrectionsExceptions.Creator
 ms.assetid: b555cd72-95a8-edd9-a335-5885b85ef517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

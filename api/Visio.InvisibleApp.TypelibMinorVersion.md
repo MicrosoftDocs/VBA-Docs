@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.TypelibMinorVersion
 ms.assetid: 7564e196-4999-037f-650f-a6fa6f9e3308
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

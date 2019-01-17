@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimelineView.Application
 ms.assetid: 9f45f96a-55e0-5610-5096-272120685b6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.TextRange2.Count
 ms.assetid: 3bb6408f-acc0-05cb-ef45-9f9a4bae4ebc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

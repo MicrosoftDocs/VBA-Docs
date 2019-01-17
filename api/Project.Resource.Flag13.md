@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Flag13
 ms.assetid: 3938d902-c3ce-d476-f476-4ead79745a78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

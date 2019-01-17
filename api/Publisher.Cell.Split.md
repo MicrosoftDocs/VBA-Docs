@@ -8,6 +8,7 @@ api_name:
 - Publisher.Cell.Split
 ms.assetid: 99bc34df-c8dc-90e5-4262-dbe0a9c9b61d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

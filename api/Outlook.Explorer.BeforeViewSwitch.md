@@ -8,6 +8,7 @@ api_name:
 - Outlook.Explorer.BeforeViewSwitch
 ms.assetid: 5b7ac070-ba4d-6fa8-94e5-20370efe7343
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

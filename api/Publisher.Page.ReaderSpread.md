@@ -8,6 +8,7 @@ api_name:
 - Publisher.Page.ReaderSpread
 ms.assetid: 32823d2d-4bcd-a5a6-1ad1-ca1035d4fdea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

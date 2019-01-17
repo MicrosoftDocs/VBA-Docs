@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLValidationErrors.Count
 ms.assetid: 49381924-8fe9-5bc6-92b5-340765931ef2
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

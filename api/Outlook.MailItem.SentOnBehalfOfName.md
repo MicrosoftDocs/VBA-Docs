@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.SentOnBehalfOfName
 ms.assetid: 1f58a4b4-abf8-3031-4be1-1538d2d81f5c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

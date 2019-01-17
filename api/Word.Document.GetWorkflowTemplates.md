@@ -8,6 +8,7 @@ api_name:
 - Word.Document.GetWorkflowTemplates
 ms.assetid: 091003dc-0a26-8665-d552-0f4354313367
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

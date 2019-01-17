@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBarButton.Picture
 ms.assetid: b9a2d133-23a8-ac09-8b8b-08eda1210717
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.SenderEmailType
 ms.assetid: ac11c163-ade2-e515-8d79-2ccb57db4d60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.MsoOrgChartLayoutType
 ms.assetid: 15568b83-cb8c-ffef-b241-d837817a5d62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

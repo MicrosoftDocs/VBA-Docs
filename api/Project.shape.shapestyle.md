@@ -3,6 +3,7 @@ title: Shape.ShapeStyle Property (Project)
 ms.prod: project-server
 ms.assetid: 202ac7fe-032b-ec7c-9cd7-6afb042f6f93
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

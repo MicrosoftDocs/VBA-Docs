@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.SolutionXMLElementName
 ms.assetid: 460993bc-090c-00ad-805f-ae4af832ceba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

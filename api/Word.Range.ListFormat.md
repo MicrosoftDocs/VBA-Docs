@@ -8,6 +8,7 @@ api_name:
 - Word.Range.ListFormat
 ms.assetid: 509365dc-0b93-96d9-6614-74f2d85bfd45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

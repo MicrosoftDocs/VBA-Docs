@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkDateControl.MouseUp
 ms.assetid: abe4afac-3afd-7f08-3128-650f847c692c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

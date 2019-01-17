@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.AxisTitle.Shadow
 ms.assetid: 38806b33-d57b-4b44-fb30-d93f74111ad7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

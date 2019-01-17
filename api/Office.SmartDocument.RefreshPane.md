@@ -8,6 +8,7 @@ api_name:
 - Office.SmartDocument.RefreshPane
 ms.assetid: c37de2c2-f24a-0db2-fda8-cfe7d0b464fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

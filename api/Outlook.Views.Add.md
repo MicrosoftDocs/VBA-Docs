@@ -8,6 +8,7 @@ api_name:
 - Outlook.Views.Add
 ms.assetid: 8005ca2e-8b28-1286-74d1-448f2a168c65
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.Parent
 ms.assetid: 1a4a8330-32ea-95df-761c-50c02dc097e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

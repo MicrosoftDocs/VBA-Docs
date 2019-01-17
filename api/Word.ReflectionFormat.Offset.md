@@ -8,6 +8,7 @@ api_name:
 - Word.ReflectionFormat.Offset
 ms.assetid: a89c77e3-6cac-15ac-8d26-f1dee6f0db3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

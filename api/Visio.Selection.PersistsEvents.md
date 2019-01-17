@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.PersistsEvents
 ms.assetid: a9e513e8-386a-99c8-6d7e-b525c6dc8b54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

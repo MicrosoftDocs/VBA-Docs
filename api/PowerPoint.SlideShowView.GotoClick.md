@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowView.GotoClick
 ms.assetid: b41dec86-96a9-447a-5895-0b28fc4bd6b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

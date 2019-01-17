@@ -8,6 +8,7 @@ api_name:
 - Word.Legend.Shadow
 ms.assetid: 575cf67f-648c-20b3-dcfe-48546b6b4b9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

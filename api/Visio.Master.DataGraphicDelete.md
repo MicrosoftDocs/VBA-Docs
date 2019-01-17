@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.DataGraphicDelete
 ms.assetid: aa84af70-975c-3747-1976-b872a6c2fa36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

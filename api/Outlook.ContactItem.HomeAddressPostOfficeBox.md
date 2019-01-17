@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.HomeAddressPostOfficeBox
 ms.assetid: 9c1b310d-13d8-407c-a97e-a52405e37fb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

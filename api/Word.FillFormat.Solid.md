@@ -8,6 +8,7 @@ api_name:
 - Word.FillFormat.Solid
 ms.assetid: 320f5475-7283-c394-0987-3eba3e1d0447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

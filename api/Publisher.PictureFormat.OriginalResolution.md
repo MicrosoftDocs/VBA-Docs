@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.OriginalResolution
 ms.assetid: 0cb7ee4e-3eb8-baee-6535-d936e3c5f05c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

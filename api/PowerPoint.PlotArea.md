@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PlotArea
 ms.assetid: c1b991b8-8be2-5342-8b5c-814a2e99fec2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

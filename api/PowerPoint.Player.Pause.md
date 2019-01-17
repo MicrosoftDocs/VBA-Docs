@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Player.Pause
 ms.assetid: eb04419a-125d-acce-c5c1-489131eb4842
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

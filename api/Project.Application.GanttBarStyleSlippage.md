@@ -8,6 +8,7 @@ api_name:
 - Project.Application.GanttBarStyleSlippage
 ms.assetid: 2c5ec6cd-d588-a43a-7b06-8338ecd8ae6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

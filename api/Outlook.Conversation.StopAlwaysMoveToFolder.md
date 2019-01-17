@@ -8,6 +8,7 @@ api_name:
 - Outlook.Conversation.StopAlwaysMoveToFolder
 ms.assetid: 3be830e9-ceea-369c-1f7b-966c68cfb8fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

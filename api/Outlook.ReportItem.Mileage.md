@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.Mileage
 ms.assetid: bd3b3dfe-6368-6ba7-c609-8b0e3ea97a27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

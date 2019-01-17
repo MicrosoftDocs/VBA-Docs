@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PlaceholderFormat.Type
 ms.assetid: ad527111-dbae-a6c3-dfa4-bc177405ed16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

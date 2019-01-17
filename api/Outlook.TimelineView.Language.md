@@ -8,6 +8,7 @@ api_name:
 - Outlook.TimelineView.Language
 ms.assetid: 6c213b89-ddb2-2b5a-637a-55953b42abd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

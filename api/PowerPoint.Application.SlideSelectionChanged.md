@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.SlideSelectionChanged
 ms.assetid: a7bbdc4c-31e3-2072-8590-bced8bff6517
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.PersistsEvents
 ms.assetid: 6bfa4b18-b4f3-0ac0-de21-ed18600ff473
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

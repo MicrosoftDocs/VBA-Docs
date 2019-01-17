@@ -8,6 +8,7 @@ api_name:
 - Word.Series.InvertColorIndex
 ms.assetid: 20fb51b7-2c75-09ac-b0d7-3ae1c868f014
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

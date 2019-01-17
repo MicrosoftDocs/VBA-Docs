@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.HasNotesPage
 ms.assetid: 65906508-c75b-49b6-28bb-1156e92c981a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

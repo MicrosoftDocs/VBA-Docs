@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Design.Delete
 ms.assetid: dd1bd6f7-9986-0abc-2e84-4c9ba4b12a57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

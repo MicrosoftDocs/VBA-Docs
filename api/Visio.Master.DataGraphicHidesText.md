@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.DataGraphicHidesText
 ms.assetid: c1a08780-0873-3d8b-1872-edc8a6515840
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

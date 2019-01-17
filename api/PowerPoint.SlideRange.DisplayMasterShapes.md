@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.DisplayMasterShapes
 ms.assetid: 1c30ec1d-4865-5fcd-12c5-70f3bfeffe7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.MemberOfContainersUnion
 ms.assetid: b21b01df-08cd-4222-7ccd-1e2b9b34d462
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

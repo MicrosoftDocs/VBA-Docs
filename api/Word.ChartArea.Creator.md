@@ -8,6 +8,7 @@ api_name:
 - Word.ChartArea.Creator
 ms.assetid: dd2c0557-336b-ec22-fed4-dfa263d9fb52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

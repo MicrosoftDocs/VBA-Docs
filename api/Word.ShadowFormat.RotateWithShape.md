@@ -8,6 +8,7 @@ api_name:
 - Word.ShadowFormat.RotateWithShape
 ms.assetid: fdf74278-d7ea-0e02-8069-ea51ed89c2bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

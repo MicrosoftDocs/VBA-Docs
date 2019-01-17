@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShapes.AddHorizontalLineStandard
 ms.assetid: de9d4613-4e64-9df8-aa9a-890335eb648d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

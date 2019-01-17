@@ -5,6 +5,7 @@ api_name:
 - Publisher.CaptionStyle.Name
 ms.assetid: bc9ac1d6-6acc-e973-45dc-75b275891c9e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

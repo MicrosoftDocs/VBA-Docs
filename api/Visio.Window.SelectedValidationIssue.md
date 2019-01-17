@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.SelectedValidationIssue
 ms.assetid: 7955338a-2a54-2726-a17a-81acc6bcfce7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

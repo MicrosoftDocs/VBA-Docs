@@ -8,6 +8,7 @@ api_name:
 - Visio.EventList.Add
 ms.assetid: 4deacea0-f4dc-bec6-31d0-bb9a060812f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

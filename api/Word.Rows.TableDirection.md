@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.TableDirection
 ms.assetid: 02351774-13c0-ec82-c553-3b048eabb133
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

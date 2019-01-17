@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelTable.Delete
 ms.assetid: 737d0877-5937-35b7-6163-79f50b2f8fa8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

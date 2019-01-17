@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.Left
 ms.assetid: 8513a292-b293-19ec-18ce-0b444b8b4715
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

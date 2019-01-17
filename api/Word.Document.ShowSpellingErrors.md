@@ -8,6 +8,7 @@ api_name:
 - Word.Document.ShowSpellingErrors
 ms.assetid: 75b24653-f694-a5d7-bbb7-3f75f52d9e60
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.MsoNumberedBulletStyle
 ms.assetid: 195901ed-5ce0-b552-c4a0-f63e0c8673c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

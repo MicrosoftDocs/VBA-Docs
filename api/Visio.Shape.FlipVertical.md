@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.FlipVertical
 ms.assetid: d83d29fb-4292-61c3-b2b4-ba6aed6fe7ad
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Indexes.MarkEntry
 ms.assetid: e0c88e2b-6a5c-0ae9-3639-393a454c546b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

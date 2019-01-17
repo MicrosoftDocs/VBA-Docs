@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides
 ms.assetid: 7430c1c4-c7f5-d9b6-cea8-b21fe9e2905f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.CanvasShapes.AddConnector
 ms.assetid: 0bfb15ae-0d0d-1864-bdf3-941e22090696
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

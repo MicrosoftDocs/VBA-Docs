@@ -8,6 +8,7 @@ api_name:
 - Word.XSLTransform
 ms.assetid: cccf0383-8b21-0f46-b5b6-9a092599fd76
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

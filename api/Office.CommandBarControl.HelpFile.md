@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.HelpFile
 ms.assetid: 2372698e-1c3b-de8b-b671-356fbd9cad6b
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

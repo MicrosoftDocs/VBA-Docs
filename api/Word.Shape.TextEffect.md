@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.TextEffect
 ms.assetid: ce70ed2a-c448-cb12-db9f-a1f5d5d301e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

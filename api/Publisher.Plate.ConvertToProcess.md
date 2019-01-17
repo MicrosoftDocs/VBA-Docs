@@ -8,6 +8,7 @@ api_name:
 - Publisher.Plate.ConvertToProcess
 ms.assetid: 26476701-aa82-ca44-20c8-55a332a6539a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

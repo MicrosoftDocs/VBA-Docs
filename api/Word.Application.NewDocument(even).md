@@ -8,6 +8,7 @@ api_name:
 - Word.Application.NewDocument
 ms.assetid: afe5b924-3067-69e7-4331-a9ea2b30b9b5
 ms.date: 08/20/2018
+localization_priority: Normal
 ---
 
 

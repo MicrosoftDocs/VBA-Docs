@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.SentOn
 ms.assetid: 99bdf4d7-128f-9093-a553-a1d3e56254bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

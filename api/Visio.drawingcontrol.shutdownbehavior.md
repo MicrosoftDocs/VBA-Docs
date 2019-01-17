@@ -3,6 +3,7 @@ title: DrawingControl.ShutdownBehavior Property (Visio)
 ms.prod: visio
 ms.assetid: 19c3e160-4b1d-40f1-b41d-69f21fca1d0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

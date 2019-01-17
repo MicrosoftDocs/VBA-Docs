@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.GroupShapes.Creator
 ms.assetid: 89ba86e8-37fe-b30f-7dd6-a8dd8bf7b3b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

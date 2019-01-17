@@ -8,6 +8,7 @@ api_name:
 - Project.Project.CanCheckIn
 ms.assetid: ce36a90d-f2ad-e37a-eba4-fdb2e391f6be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

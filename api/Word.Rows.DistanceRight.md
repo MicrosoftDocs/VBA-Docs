@@ -8,6 +8,7 @@ api_name:
 - Word.Rows.DistanceRight
 ms.assetid: 68e37feb-bb0a-7a74-9fbd-ee4a8d9e7dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

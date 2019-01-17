@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PrintFieldCodes
 ms.assetid: f9b69b6a-2362-0370-888b-61a566803186
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

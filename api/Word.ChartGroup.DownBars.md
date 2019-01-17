@@ -8,6 +8,7 @@ api_name:
 - Word.ChartGroup.DownBars
 ms.assetid: ee556f66-cce6-aa8d-a837-ee8b0b93ba89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

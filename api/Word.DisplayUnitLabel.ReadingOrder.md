@@ -8,6 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.ReadingOrder
 ms.assetid: 0d5c265a-0cfb-cce7-f37a-e5ef5776453f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

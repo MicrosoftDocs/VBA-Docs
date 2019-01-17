@@ -8,6 +8,7 @@ api_name:
 - Publisher.Page.Background
 ms.assetid: 1bba32dc-0e7e-40ca-0f29-b67be6be518d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

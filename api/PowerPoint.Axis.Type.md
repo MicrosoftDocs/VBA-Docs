@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Axis.Type
 ms.assetid: f0bf5b51-fc39-060e-6030-657e7b22fa59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

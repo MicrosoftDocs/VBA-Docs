@@ -8,6 +8,7 @@ api_name:
 - Word.Range.Locks
 ms.assetid: 102673f2-8cb0-d235-c158-c65759592d56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

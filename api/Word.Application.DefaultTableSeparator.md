@@ -8,6 +8,7 @@ api_name:
 - Word.Application.DefaultTableSeparator
 ms.assetid: eb393e87-c408-8911-a1e3-8f04e5ce66c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

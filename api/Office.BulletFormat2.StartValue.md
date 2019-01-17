@@ -5,6 +5,7 @@ api_name:
 - Office.BulletFormat2.StartValue
 ms.assetid: 21f1460f-7fe2-da2c-a5f7-9336ea4755a9
 ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 

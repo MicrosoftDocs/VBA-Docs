@@ -8,6 +8,7 @@ api_name:
 - Word.FillFormat.GradientColorType
 ms.assetid: 3722c4df-8091-6c66-b379-af8385ed9fc5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

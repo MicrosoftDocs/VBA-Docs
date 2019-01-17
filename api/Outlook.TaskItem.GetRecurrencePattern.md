@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.GetRecurrencePattern
 ms.assetid: 1937b226-d465-6cc9-7e47-40f4fad1552c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.Tags
 ms.assetid: 792e3505-2c40-26e7-53c6-d50d84df22bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

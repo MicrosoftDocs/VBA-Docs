@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarGroup.Shortcuts
 ms.assetid: a6a5031e-4ca2-4b4f-00b3-298af2361cec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

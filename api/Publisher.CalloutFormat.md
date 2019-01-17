@@ -8,6 +8,7 @@ api_name:
 - Publisher.CalloutFormat
 ms.assetid: 1f54aba3-3872-e668-fe76-1966d1a62cca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

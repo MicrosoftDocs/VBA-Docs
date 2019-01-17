@@ -8,6 +8,7 @@ api_name:
 - Outlook.Exceptions.Parent
 ms.assetid: 87528398-f219-d9e0-d640-3b0b0505cc8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

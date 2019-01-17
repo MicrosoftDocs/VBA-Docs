@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PrintOptions.HighQuality
 ms.assetid: 5db487e8-47aa-1ddd-83e6-c732b70d0682
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.EndnoteOptions.NumberingRule
 ms.assetid: c2690da3-703b-4f9f-cdfb-7ec4e7559b54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Project.AndMoveCompleted
 ms.assetid: 9f14e1e6-0a1e-1a8b-112e-600b3cb46a56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

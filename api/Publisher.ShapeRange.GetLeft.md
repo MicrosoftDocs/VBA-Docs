@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.GetLeft
 ms.assetid: 236717aa-368d-8403-5928-dc6c8e437c6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

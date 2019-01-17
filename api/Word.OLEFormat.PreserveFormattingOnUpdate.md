@@ -8,6 +8,7 @@ api_name:
 - Word.OLEFormat.PreserveFormattingOnUpdate
 ms.assetid: 2292fee8-42c6-274c-2ef8-de21af16314a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

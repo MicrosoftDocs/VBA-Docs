@@ -8,6 +8,7 @@ api_name:
 - Outlook.Category.CategoryGradientBottomColor
 ms.assetid: 5f082300-2eb0-b297-dc54-9657da5ae319
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

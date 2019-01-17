@@ -8,6 +8,7 @@ api_name:
 - Word.Window.Panes
 ms.assetid: d75cc2ab-940f-9e2b-81d5-bbbfdb0f4c6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

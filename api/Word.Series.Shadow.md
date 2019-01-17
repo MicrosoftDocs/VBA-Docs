@@ -8,6 +8,7 @@ api_name:
 - Word.Series.Shadow
 ms.assetid: cdab1ef9-6a84-6f46-9a45-4f6ec6c307b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

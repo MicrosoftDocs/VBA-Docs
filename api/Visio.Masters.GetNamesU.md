@@ -8,6 +8,7 @@ api_name:
 - Visio.Masters.GetNamesU
 ms.assetid: bf797a6a-1018-eda6-41e8-c8533638a034
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

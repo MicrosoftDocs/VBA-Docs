@@ -8,6 +8,7 @@ api_name:
 - Word.Document.AcceptAllRevisionsShown
 ms.assetid: bd9634cf-239a-2543-3681-579d4dd2f202
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

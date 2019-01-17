@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.WindowBeforeRightClick
 ms.assetid: e6239915-f487-3619-c84f-d436d645e6c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

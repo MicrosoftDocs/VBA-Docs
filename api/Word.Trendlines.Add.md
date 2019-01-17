@@ -8,6 +8,7 @@ api_name:
 - Word.Trendlines.Add
 ms.assetid: 7260373c-626b-2778-0517-e5c62b754bc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

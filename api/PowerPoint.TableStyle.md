@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TableStyle
 ms.assetid: 2191b68d-2dae-3453-6904-3689f34eeaf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

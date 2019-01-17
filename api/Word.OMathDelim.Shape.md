@@ -8,6 +8,7 @@ api_name:
 - Word.OMathDelim.Shape
 ms.assetid: 47f687d0-d489-95b7-7db7-47b47beede4b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

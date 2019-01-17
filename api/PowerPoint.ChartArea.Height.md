@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ChartArea.Height
 ms.assetid: 01deb7e5-af03-df99-5a3b-15cfd5236f78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

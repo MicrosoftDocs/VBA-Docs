@@ -8,6 +8,7 @@ api_name:
 - Word.Point.MarkerSize
 ms.assetid: c43b2f7d-bd3a-e5ed-92cd-5856691a0ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

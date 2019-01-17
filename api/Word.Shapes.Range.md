@@ -8,6 +8,7 @@ api_name:
 - Word.Shapes.Range
 ms.assetid: 277b5e9c-1bec-9e0c-b022-32cef4c5e38e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

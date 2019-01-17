@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.CenterSelectionOnZoom
 ms.assetid: ad7a3867-7200-84de-a599-7826b55e12d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

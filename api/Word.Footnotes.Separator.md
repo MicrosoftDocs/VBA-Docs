@@ -8,6 +8,7 @@ api_name:
 - Word.Footnotes.Separator
 ms.assetid: 7905cf40-2a04-447e-9cb1-ffdd5fc43bd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

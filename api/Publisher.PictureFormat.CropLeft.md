@@ -8,6 +8,7 @@ api_name:
 - Publisher.PictureFormat.CropLeft
 ms.assetid: f9fd2031-83f7-ea81-84eb-4f1ac6d65082
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Sequence.ConvertToTextUnitEffect
 ms.assetid: f6d2dabb-e8c5-99a9-5924-e897cbdc9968
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ChartWizard
 ms.assetid: aa13bff2-bead-2781-1f03-ea30ffe72a41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

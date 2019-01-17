@@ -8,6 +8,7 @@ api_name:
 - Word.XMLMapping.CustomXMLNode
 ms.assetid: c28e3a1e-1bc3-fbe7-7ff8-78adef326bbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

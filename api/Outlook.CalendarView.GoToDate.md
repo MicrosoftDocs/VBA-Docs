@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.GoToDate
 ms.assetid: f54ad557-4529-b598-1314-c277ddba8495
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

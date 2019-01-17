@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.PercentWorkComplete
 ms.assetid: 9535e887-e15c-ebd7-c65f-a3e8d80b8f99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

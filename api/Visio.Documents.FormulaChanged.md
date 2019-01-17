@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.FormulaChanged
 ms.assetid: 2ced2708-05c9-3da4-195a-7196fdff39e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

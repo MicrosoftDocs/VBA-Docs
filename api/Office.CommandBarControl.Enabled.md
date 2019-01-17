@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.Enabled
 ms.assetid: 74105bf5-96a0-09ea-bb00-ef102705372c
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Series.MarkerSize
 ms.assetid: 60a402b8-69f5-db47-73df-55ed75a42272
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

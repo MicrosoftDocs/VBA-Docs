@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.DocumentChanged
 ms.assetid: d822ab40-99a5-d308-d820-a8834f65fee8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.SpellingSuggestion.Parent
 ms.assetid: e46181a4-f41f-8c7b-70e5-7aca5ecbd818
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

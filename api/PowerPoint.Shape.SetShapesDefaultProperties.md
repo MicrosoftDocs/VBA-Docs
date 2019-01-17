@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.SetShapesDefaultProperties
 ms.assetid: 4974cc1b-28af-94da-0821-76ffb698e2c3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

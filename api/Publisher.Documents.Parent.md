@@ -8,6 +8,7 @@ api_name:
 - Publisher.Documents.Parent
 ms.assetid: a0bca15f-39a0-f7f0-9b68-f6ba30414d50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

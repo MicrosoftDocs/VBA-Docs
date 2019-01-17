@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slide.CustomerData
 ms.assetid: 4a31363b-9fcb-e062-3bf1-f31090ee2d29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

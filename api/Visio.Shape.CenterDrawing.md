@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.CenterDrawing
 ms.assetid: 2ac35f58-2f9d-4139-6477-7e865713c863
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

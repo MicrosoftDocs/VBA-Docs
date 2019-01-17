@@ -8,6 +8,7 @@ api_name:
 - Publisher.FillFormat.GradientColorType
 ms.assetid: b0866675-4bc4-5e82-780d-8bae4b7d16ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

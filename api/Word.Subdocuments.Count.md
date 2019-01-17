@@ -8,6 +8,7 @@ api_name:
 - Word.Subdocuments.Count
 ms.assetid: 0c94e4b0-a046-79e8-3601-95bcde3bf004
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

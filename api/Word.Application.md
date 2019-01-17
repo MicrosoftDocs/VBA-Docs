@@ -1,4 +1,4 @@
-﻿---
+---
 title: Application object (Word)
 keywords: vbawd10.chm2416
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Word.Application
 ms.assetid: d1cf6f8f-4e88-bf01-93b4-90a83f79cb44
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

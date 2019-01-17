@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.LanguageIDOther
 ms.assetid: 197474ff-8d79-b48f-e1bf-ac2f164e70e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

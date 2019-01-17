@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.Parent
 ms.assetid: c35d9cb7-c547-5b51-a30d-94515c1d69c5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

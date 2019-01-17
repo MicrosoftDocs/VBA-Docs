@@ -4,7 +4,8 @@ ms.prod: office
 api_name:
 - Office.GlowFormat
 ms.assetid: b89e2245-e3a4-4a8c-cd4f-86396ad71a5b
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
@@ -26,22 +27,7 @@ End With
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.GlowFormat.Application.md)|
-|[Color](Office.GlowFormat.Color.md)|
-|[Creator](Office.GlowFormat.Creator.md)|
-|[Radius](Office.GlowFormat.Radius.md)|
-|[Transparency](Office.GlowFormat.Transparency.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [GlowFormat object members](overview/library-reference/glowformat-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)

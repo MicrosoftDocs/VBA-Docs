@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.MouseMove
 ms.assetid: 431bf2ee-6c9f-6dd9-5c9a-dde84acd87db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

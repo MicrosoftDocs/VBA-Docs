@@ -8,6 +8,7 @@ api_name:
 - Word.Window.Split
 ms.assetid: 97631d2f-577f-1a19-18e9-ae0ba92da054
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

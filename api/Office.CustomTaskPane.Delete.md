@@ -8,6 +8,7 @@ api_name:
 - Office.CustomTaskPane.Delete
 ms.assetid: 6db4b7ba-3dd8-7249-07dc-511516b1a16c
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

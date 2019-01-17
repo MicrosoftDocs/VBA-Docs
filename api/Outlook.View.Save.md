@@ -8,6 +8,7 @@ api_name:
 - Outlook.View.Save
 ms.assetid: effc4046-2e9c-3898-e37f-c4de817ddde7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

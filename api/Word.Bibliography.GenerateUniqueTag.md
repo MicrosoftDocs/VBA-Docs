@@ -8,6 +8,7 @@ api_name:
 - Word.Bibliography.GenerateUniqueTag
 ms.assetid: e57f59bb-82fe-c142-b0c1-7b78533525a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.ConversationIndex
 ms.assetid: c70ebc07-c07d-963c-b757-01035ded7be9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

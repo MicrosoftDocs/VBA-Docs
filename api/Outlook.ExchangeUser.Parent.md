@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.Parent
 ms.assetid: 18a2505c-14aa-7924-ec59-74c8e85ac92e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

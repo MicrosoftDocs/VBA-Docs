@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArtQuickStyles.Creator
 ms.assetid: 3d923c77-a2c0-4015-6b29-10cd3de297eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

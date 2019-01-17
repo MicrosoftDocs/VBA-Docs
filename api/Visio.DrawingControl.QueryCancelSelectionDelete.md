@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.QueryCancelSelectionDelete
 ms.assetid: 30a3a0bc-a64b-a2e2-3bc1-ddfd3e4ee5ac
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

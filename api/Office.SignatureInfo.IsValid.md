@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.IsValid
 ms.assetid: 71c2a187-85c7-430f-626d-5dd055ae33dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

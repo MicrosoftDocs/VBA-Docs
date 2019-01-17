@@ -8,6 +8,7 @@ api_name:
 - Word.TablesOfFigures.Count
 ms.assetid: d5fd1b6e-574c-d4ca-111b-483f58a1ed28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

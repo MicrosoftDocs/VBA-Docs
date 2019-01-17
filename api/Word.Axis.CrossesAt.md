@@ -8,6 +8,7 @@ api_name:
 - Word.Axis.CrossesAt
 ms.assetid: 720fd3a6-89fb-bb55-9b0b-d6ecb2e5ca21
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

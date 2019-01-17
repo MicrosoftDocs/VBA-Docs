@@ -8,6 +8,7 @@ api_name:
 - Project.Application.SetTitleRowHeight
 ms.assetid: 7ee0d6db-9fd5-bcd4-e495-14d0a270ed99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

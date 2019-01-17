@@ -5,6 +5,7 @@ api_name:
 - Project.Selection
 ms.assetid: 06b2fc7e-5c72-3c13-132f-769e68057b43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

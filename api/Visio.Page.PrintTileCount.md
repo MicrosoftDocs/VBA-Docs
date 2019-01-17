@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.PrintTileCount
 ms.assetid: f15eff27-1d20-7151-e773-1ab4de4161db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

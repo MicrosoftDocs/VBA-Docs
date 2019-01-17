@@ -8,6 +8,7 @@ api_name:
 - Word.ListLevel.Index
 ms.assetid: 46c50175-4c08-c0ae-ff60-d5e143168f26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

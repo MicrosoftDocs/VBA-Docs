@@ -8,6 +8,7 @@ api_name:
 - Visio.MasterShortcut.ImportIcon
 ms.assetid: f48cb1ea-e0b2-ebba-39b3-da7e6be46dcb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

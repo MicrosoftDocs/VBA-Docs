@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FilterEffect.Reveal
 ms.assetid: 01aaa4e5-e433-3e19-3f78-d266a1bf2890
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.TextEncoding
 ms.assetid: a11b45c1-1829-0df0-3403-e92268d9ec81
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

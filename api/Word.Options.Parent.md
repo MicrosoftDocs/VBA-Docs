@@ -8,6 +8,7 @@ api_name:
 - Word.Options.Parent
 ms.assetid: 8a449307-927c-289b-7602-e1def5f2c067
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

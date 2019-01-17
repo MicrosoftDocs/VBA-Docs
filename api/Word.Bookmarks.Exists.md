@@ -8,6 +8,7 @@ api_name:
 - Word.Bookmarks.Exists
 ms.assetid: 7a9df80d-1a52-022f-f234-336369b73fca
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

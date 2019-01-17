@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.DownloadState
 ms.assetid: 3067720e-dea5-f14f-0c46-61184078fd4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

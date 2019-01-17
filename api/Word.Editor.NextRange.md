@@ -8,6 +8,7 @@ api_name:
 - Word.Editor.NextRange
 ms.assetid: 64c34fd4-2ce8-7d86-0981-1266fe0c7d56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

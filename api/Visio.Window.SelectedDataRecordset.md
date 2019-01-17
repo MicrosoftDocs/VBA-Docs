@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.SelectedDataRecordset
 ms.assetid: 89c6b4ba-fb39-8932-1fe0-9a8aa2cbaef0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

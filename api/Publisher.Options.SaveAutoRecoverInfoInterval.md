@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.SaveAutoRecoverInfoInterval
 ms.assetid: 3d6a6c4f-7e2b-18ff-67a4-20dee4fbcf5b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

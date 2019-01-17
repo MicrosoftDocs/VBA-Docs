@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.WebPage
 ms.assetid: 0914b59d-64f3-2c6f-fc83-25d5f0e91abb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: xlTickMark enumeration (Word)
 ms.prod: word
 ms.assetid: 8ae235d4-3cdc-b05a-3faf-5975df68d8cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

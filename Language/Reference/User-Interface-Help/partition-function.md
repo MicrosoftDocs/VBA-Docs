@@ -24,9 +24,9 @@ The **Partition** function syntax has these [named arguments](../../Glossary/vbe
 |Part|Description|
 |:-----|:-----|
 |_number_|Required. The number that you want to evaluate against the ranges.|
-|_start_|Required. The number that is the start of the overall range of numbers. The number can't be less than 0. Decimals will be rounded off.|
-|_stop_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_. Decimals will be rounded off.|
-|_interval_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
+|_start_|Required. The number that is the start of the overall range of numbers. The number can't be less than 0.|
+|_stop_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
+|_interval_|Required. The number that is the difference between one range and the next. The number can't be less than 1.|
 
 ## Remarks
 

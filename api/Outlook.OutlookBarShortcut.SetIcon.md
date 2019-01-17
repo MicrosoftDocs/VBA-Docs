@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarShortcut.SetIcon
 ms.assetid: d54a60b5-e667-e030-0724-d61be3ad3745
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

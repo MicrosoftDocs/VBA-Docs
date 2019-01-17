@@ -8,6 +8,7 @@ api_name:
 - Publisher.Columns
 ms.assetid: 3fe6ddce-a598-a967-fc89-7296c18a6a55
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Series.FormulaLocal
 ms.assetid: 93f20166-0d98-a05e-6938-dfc18f46e936
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

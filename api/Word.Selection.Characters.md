@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Characters
 ms.assetid: 605c0fc5-f5b9-6782-9fdd-54589040d243
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

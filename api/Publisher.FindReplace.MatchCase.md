@@ -8,6 +8,7 @@ api_name:
 - Publisher.FindReplace.MatchCase
 ms.assetid: 4fabf2f8-f1e4-bc70-e8e6-96dd09cd23d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

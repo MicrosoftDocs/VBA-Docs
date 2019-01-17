@@ -5,6 +5,7 @@ api_name:
 - Project.GroupCriteria2.Parent
 ms.assetid: 75d6f98f-99ec-a4eb-f7b9-aac39c9e7fc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ShowWelcome
 ms.assetid: 083e38b0-7cfe-027a-882d-05c98f8de3b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

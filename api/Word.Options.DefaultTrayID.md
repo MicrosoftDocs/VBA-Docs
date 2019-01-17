@@ -8,6 +8,7 @@ api_name:
 - Word.Options.DefaultTrayID
 ms.assetid: 3a6c265b-f178-318b-bd29-944873c6b036
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

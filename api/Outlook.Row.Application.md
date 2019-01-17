@@ -8,6 +8,7 @@ api_name:
 - Outlook.Row.Application
 ms.assetid: f4a44df2-b431-c821-d697-778b9a899073
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

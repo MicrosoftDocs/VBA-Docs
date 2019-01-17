@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlOutlookBarViewType
 ms.assetid: b4cf632e-d839-049d-77aa-5ad51182ef3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

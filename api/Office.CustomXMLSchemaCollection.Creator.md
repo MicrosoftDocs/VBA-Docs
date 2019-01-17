@@ -5,6 +5,7 @@ api_name:
 - Office.CustomXMLSchemaCollection.Creator
 ms.assetid: 27e56d9a-24f5-9d95-afb5-a6ba50a6367d
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

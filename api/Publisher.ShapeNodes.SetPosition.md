@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeNodes.SetPosition
 ms.assetid: f1a3bf8c-9778-b994-9c79-55987c6fa632
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.StrictFinalYaa
 ms.assetid: 64716fb0-631d-34e2-4b58-ba6a67d2de34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

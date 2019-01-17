@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Options
 ms.assetid: c129bafc-9927-0171-769e-21649ead7dca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

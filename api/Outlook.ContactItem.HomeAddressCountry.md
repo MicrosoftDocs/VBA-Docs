@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.HomeAddressCountry
 ms.assetid: a3e1f178-c01c-e7df-ee4e-fc82f89915f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WebToolbar
 ms.assetid: ff0f557f-ec63-0acd-da89-bc06c857524d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

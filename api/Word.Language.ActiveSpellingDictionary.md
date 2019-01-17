@@ -8,6 +8,7 @@ api_name:
 - Word.Language.ActiveSpellingDictionary
 ms.assetid: a549c07d-e40f-2731-40a0-4d43211cf557
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

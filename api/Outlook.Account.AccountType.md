@@ -8,6 +8,7 @@ api_name:
 - Outlook.Account.AccountType
 ms.assetid: 7e59f240-512d-eb20-69b2-b88ee52a9d27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
