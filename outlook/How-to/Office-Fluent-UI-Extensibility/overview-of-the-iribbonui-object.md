@@ -31,3 +31,4 @@ To minimize the impact on performance, use the  **InvalidateControl** method ins
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)<br>
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

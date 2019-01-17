@@ -26,3 +26,4 @@ For a detailed discussion of the ribbon and ribbon extensibility, see  [Overview
  [Overview of the IRibbonControl Object](overview-of-the-iribboncontrol-object.md)<br>
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
