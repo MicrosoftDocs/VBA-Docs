@@ -64,4 +64,4 @@ SolverSolve userFinish:=False
 SolverSave saveArea:=Range("A33")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

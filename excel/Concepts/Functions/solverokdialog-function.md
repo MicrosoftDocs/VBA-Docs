@@ -48,4 +48,4 @@ SolverOKDialog SetCell:=Range("TotalProfit")
 SolverSolve UserFinish:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
