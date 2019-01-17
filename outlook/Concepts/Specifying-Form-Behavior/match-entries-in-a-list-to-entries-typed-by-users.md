@@ -29,6 +29,6 @@ localization_priority: Normal
 | **First letter**|Compare the most recently typed letter to the first letter of each entry in the list (the first match in the list is selected).|
 | **Complete**|Compare the user's entry and an exact match in an entry from the list.|
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

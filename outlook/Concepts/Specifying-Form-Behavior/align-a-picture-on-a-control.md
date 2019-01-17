@@ -20,3 +20,4 @@ localization_priority: Normal
 | **PictureSizeMode**|Clips, stretches, or zooms the picture within the  **Image** (stretching can distort the picture but zooming does not).|
 | **PictureTiling**|Shows multiple copies of the picture within the  **Image**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

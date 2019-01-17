@@ -31,6 +31,5 @@ This procedure sets properties on a  [Page](../../../api/Outlook.page.md) or [Ta
 - The  **[ControlTipText](../../../api/Outlook.page.controltiptext.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
 - The  **[ControlTipText](../../../api/Outlook.tab.controltiptext.md)** property for the **[Tab](../../../api/Outlook.tab.md)** control.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

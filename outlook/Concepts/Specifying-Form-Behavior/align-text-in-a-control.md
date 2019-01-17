@@ -23,5 +23,5 @@ This procedure is available only for the  [ComboBox](../../../api/Outlook.combob
   -  [TextAlign](../../../api/Outlook.label.textalign.md) property for the [Label](../../../api/Outlook.label.md) control.
     
   -  [TextAlign](../../../api/Outlook.textbox.textalign.md) property for the [TextBox](../../../api/Outlook.textbox.md) control.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

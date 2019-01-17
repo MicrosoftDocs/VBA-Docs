@@ -28,3 +28,4 @@ localization_priority: Normal
 | **Align to Grid**|Align the center of the controls with the center of each grid. Note that this option is not based on the position of the dominant control.|
 | **Center in Form**|Align the controls with the center of the form.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

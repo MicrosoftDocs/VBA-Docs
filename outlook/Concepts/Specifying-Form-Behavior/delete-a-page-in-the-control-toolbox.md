@@ -15,6 +15,6 @@ localization_priority: Normal
 2. Right-click the label of the page that you want to delete in the  **Control Toolbox**, and then click  **Delete Page**.
     
 
- **Note**  All controls on a page are deleted when the page is deleted. 
+ **Note**  All controls on a page are deleted when the page is deleted.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

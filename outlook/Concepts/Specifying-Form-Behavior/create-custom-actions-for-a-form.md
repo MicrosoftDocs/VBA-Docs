@@ -29,6 +29,6 @@ In the Forms Designer, do the following:
 3. Select the options that you want.
     
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ localization_priority: Normal
 
  **Note**  You can also set the tab order by changing the  [TabIndex](../../../api/Outlook.tabstrip.taborientation.md) property. The tab index of the first control in the tab order is **0**; the tab index of the second control is  **1**, and so on.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

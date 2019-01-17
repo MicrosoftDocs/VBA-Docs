@@ -17,5 +17,6 @@ When you design a form, use the grid to align controls easily and precisely.
 
  **Note**  When you customize forms with form regions, the grid is not displayed by default.
 
-For more information, see  [How to: Set the Grid Size](set-the-grid-size.md). 
+For more information, see  [How to: Set the Grid Size](set-the-grid-size.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

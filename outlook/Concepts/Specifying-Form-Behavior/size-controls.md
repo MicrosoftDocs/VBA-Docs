@@ -22,4 +22,4 @@ localization_priority: Normal
 
  **Note**  To size a control to fit its contents (both its picture and any text assigned to the  **Caption** or **Text** property), select the control, click **Size** in the **Arrange** group, then click **Size to Fit**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

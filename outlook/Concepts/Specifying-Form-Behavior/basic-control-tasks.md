@@ -33,5 +33,5 @@ localization_priority: Normal
 -  [Set Properties for Controls](set-properties-for-controls.md)
     
 -  [Size Controls](size-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,5 +14,5 @@ localization_priority: Normal
 2. Click the  **Validation** tab.
     
 3. Select or clear the  **Include this field for Printing and Save As** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

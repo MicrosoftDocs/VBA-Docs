@@ -22,6 +22,6 @@ You can select more than one control in three ways. When you select multiple con
 
 
 
- **Tip**  
+ **Tip**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
