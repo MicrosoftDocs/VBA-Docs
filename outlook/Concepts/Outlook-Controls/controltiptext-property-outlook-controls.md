@@ -27,4 +27,4 @@ The default value of  **ControlTipText** is an empty string. When the value of *
 
 Note that for the  **[OlkBusinessCardControl](../../../api/Outlook.OlkBusinessCardControl.md)** and **[OlkContactPhoto](../../../api/Outlook.OlkContactPhoto.md)** controls, **ControlTipText** is not displayed when mousing over the control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
