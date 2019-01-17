@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.IsCurrentWebUserInGroup method (Access)
 
-Gets whether or not the current user of a Web database is a member of the specified Microsoft SharePoint Foundation 2010 group.
+Gets whether or not the current user of a Web databse is a member of the specified Microsoft SharePoint Foundation 2010 group.
 
 
 ## Syntax
