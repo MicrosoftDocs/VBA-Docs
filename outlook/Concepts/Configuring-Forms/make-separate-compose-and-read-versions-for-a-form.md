@@ -38,4 +38,4 @@ For more information, see  [How to: Create Separate Read and Compose Pages Using
 
  **Note**  You can quickly switch between the two versions by clicking  **Edit Compose Page** and **Edit Read Page** in the **Design** group. If these commands are not available, you have set the compose and read versions to be the same. To have separate compose and read versions, click **Separate Read Layout** in the **Design** group.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,5 +17,5 @@ Use this procedure to customize a form page in Microsoft Outlook. To customize a
 2. Click the action that you want to modify, and then click  **Properties**. 
     
 3. Clear the  **Enabled** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

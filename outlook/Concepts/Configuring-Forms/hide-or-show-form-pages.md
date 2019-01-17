@@ -25,6 +25,6 @@ The  [GetFormRegionStorage](../../../api/Outlook.FormRegionStartup.GetFormRegion
 2. On the  **Developer** tab, in the **Form** group, click **Page**, and then click  **Display This Page**.
     
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
