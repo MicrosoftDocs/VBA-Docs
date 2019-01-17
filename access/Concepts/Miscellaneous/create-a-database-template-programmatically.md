@@ -69,7 +69,5 @@ You must set a reference to the Access Developer Extensions type library in orde
 1. On the **Tools** menu, click **References**.
     
 2. Select the **Microsoft Office Access Developer Extensions Type Library 1.0** check box, and then click **OK**.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

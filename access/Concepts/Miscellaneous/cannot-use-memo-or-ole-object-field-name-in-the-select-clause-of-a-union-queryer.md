@@ -26,3 +26,5 @@ A field you specified in the SELECT part of a union query in the SQL statement f
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

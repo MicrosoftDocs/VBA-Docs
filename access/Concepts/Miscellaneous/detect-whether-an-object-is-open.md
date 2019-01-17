@@ -31,4 +31,4 @@ Function IsObjectLoaded(ByVal strObjectName As String, ByVal strObjectType As Ac
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

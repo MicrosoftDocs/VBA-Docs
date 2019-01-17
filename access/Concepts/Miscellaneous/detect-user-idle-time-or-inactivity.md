@@ -100,3 +100,4 @@ Then, create the following procedure in the form module:
 
 To hide the **DetectIdleTime** form as it opens, set the _WindowMode_ argument of the **[OpenForm](../../../api/Access.DoCmd.OpenForm.md)** method to **acHidden**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
