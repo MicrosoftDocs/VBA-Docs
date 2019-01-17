@@ -8,6 +8,7 @@ api_name:
 - Excel.HeaderFooter.Text
 ms.assetid: 3f9c69b4-3746-68a8-d765-d03cccaeb106
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

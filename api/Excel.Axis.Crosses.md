@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.Crosses
 ms.assetid: 571e256d-b711-e3cd-f0f2-c53e86375e6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

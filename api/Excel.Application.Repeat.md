@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Repeat
 ms.assetid: ce8f6340-174e-b6cf-0f99-f39be2cde5c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

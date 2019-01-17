@@ -3,6 +3,7 @@ title: IAssistance Methods (Office)
 ms.prod: office
 ms.assetid: 821f3388-26b5-4927-8f60-ef9aaf9d951d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

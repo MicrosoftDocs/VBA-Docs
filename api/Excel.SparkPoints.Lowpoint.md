@@ -8,6 +8,7 @@ api_name:
 - Excel.SparkPoints.Lowpoint
 ms.assetid: 9f2dade8-4d8b-d5cd-816d-18ac6da120cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

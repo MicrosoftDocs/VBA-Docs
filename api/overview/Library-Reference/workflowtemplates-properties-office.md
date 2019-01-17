@@ -3,6 +3,7 @@ title: WorkflowTemplates Properties (Office)
 ms.prod: office
 ms.assetid: 47351c10-b344-4e78-880e-b75aa8d0e9ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

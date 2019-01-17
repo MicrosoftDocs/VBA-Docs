@@ -5,6 +5,7 @@ api_name:
 - Office.TextRange2.Characters
 ms.assetid: 9b264529-e538-4480-e629-822d5056f148
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

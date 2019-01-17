@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.Font
 ms.assetid: 4b899eb0-3f7f-ad48-3296-ffe77ac33fbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

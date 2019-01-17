@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.LeftPadding
 ms.assetid: 8a12399e-d8bc-54a2-c4ba-88e3b0dc7d58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

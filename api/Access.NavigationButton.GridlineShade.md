@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.GridlineShade
 ms.assetid: 828d0867-f0e3-6e06-e441-066bf137905c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

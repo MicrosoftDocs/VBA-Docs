@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.SetCustomMenus
 ms.assetid: 5538c47c-fe24-e00b-b7c4-64ccf2100d84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Slicer.Top
 ms.assetid: 092d0877-b884-0e12-7bac-edfbaf1909be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

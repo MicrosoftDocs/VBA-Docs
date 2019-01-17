@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.SetShapesDefaultProperties
 ms.assetid: 3f7d7143-3a08-6ff4-c28e-86598212a876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

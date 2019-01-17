@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.OldValue
 ms.assetid: 53b18c22-b86e-9b99-8480-08b1f2ddd620
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

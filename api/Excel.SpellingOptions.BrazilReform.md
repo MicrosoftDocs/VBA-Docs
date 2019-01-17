@@ -8,6 +8,7 @@ api_name:
 - Excel.SpellingOptions.BrazilReform
 ms.assetid: cafc2331-aa68-367a-7b88-c95edb9191ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

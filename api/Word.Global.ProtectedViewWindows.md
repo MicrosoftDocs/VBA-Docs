@@ -8,6 +8,7 @@ api_name:
 - Word.Global.ProtectedViewWindows
 ms.assetid: cac3b7a5-ace5-85c4-2626-4b5b7c421414
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextEffectFormat.FontName
 ms.assetid: 4fdfc7a2-4b2e-e90f-719d-75a3f73c34e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

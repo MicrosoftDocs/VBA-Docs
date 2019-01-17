@@ -8,6 +8,7 @@ api_name:
 - Access.Control.ItemData
 ms.assetid: 5eb23c40-566e-33bb-9b73-0ecc701ea5e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

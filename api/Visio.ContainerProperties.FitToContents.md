@@ -8,6 +8,7 @@ api_name:
 - Visio.ContainerProperties.FitToContents
 ms.assetid: 09169624-f1fd-66a3-0be2-738d808d540a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

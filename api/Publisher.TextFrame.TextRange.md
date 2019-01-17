@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextFrame.TextRange
 ms.assetid: 44a8395e-81dc-7d06-f068-89f77a889f5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

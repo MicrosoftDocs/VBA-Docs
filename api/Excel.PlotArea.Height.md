@@ -8,6 +8,7 @@ api_name:
 - Excel.PlotArea.Height
 ms.assetid: 511695f8-ad8e-cc6c-f2a6-0a6969ab6778
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

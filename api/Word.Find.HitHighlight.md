@@ -8,6 +8,7 @@ api_name:
 - Word.Find.HitHighlight
 ms.assetid: 11f6a7e5-7aba-a374-db39-327f6427364b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

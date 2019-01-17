@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalModule.NavigationModuleType
 ms.assetid: 0ecb29aa-f4c8-bbff-8b96-696ffbc45416
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

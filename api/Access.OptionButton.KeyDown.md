@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.KeyDown
 ms.assetid: 9a21c03b-9806-d0ee-8c44-9edbba49b4b8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

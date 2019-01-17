@@ -8,6 +8,7 @@ api_name:
 - Office.DeleteFolder
 ms.assetid: 2eec70c2-7558-1dd1-898a-95ea36de8d36
 ms.date: 12/14/2018
+localization_priority: Priority
 ---
 
 

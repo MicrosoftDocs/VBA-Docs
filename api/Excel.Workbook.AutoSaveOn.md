@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Workbook.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlDataBinding.Refresh
 ms.assetid: b396a071-87b1-2a89-9176-81e6dbc7efca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

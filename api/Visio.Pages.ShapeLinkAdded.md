@@ -8,6 +8,7 @@ api_name:
 - Visio.Pages.ShapeLinkAdded
 ms.assetid: 432a8daa-9545-0df7-3e78-65464e74c7df
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

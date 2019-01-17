@@ -8,6 +8,7 @@ api_name:
 - Access.Report.AllowLayoutView
 ms.assetid: 5388fcd8-32fb-781d-538c-ac114f8d5bd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

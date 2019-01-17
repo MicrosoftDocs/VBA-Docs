@@ -9,6 +9,7 @@ api_name:
 - Access.LogMessages
 ms.assetid: 848f215b-50aa-22f4-264c-ff7d00347aa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

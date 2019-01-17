@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.CreateAutoTextEntry
 ms.assetid: def6f758-af70-eaf2-f15c-4a6a28c247b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

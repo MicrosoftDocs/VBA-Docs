@@ -5,6 +5,7 @@ api_name:
 - Project.ResourceGroups2.Parent
 ms.assetid: 37f89ae7-9933-6def-9e83-6ac4d417998f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMaps.Creator
 ms.assetid: f0973a6d-dc2a-11ae-3c52-d73807098d62
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

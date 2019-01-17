@@ -8,6 +8,7 @@ api_name:
 - Project.Application.OutlineOutdent
 ms.assetid: 4972d60f-4da2-78d1-cbab-28eb9a06a8aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

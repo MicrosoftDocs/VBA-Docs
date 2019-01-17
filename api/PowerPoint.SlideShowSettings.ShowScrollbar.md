@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.ShowScrollbar
 ms.assetid: 9f6be3f3-1099-2f8c-4c1c-b5ab1be89f4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

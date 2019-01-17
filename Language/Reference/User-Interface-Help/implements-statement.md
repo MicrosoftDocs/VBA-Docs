@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 9d0fe592-e945-649a-d277-fe882fe8cf67
 ms.date: 12/03/2018
+localization_priority: Priority
 ---
 
 # Implements statement

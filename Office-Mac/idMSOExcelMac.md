@@ -2,6 +2,7 @@
 title: idMSOs supported in Excel for Mac
 ms.prod: office
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 # idMSOs supported in Excel for Mac
 

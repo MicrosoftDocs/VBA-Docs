@@ -5,6 +5,7 @@ api_name:
 - Excel.XlObjectSize
 ms.assetid: a79fdba9-7f6b-8181-4202-a2ea5052bc52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

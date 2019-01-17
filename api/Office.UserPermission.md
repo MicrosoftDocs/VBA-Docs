@@ -8,6 +8,7 @@ api_name:
 - Office.UserPermission
 ms.assetid: 24378204-2fdd-47ba-2080-fbc409955325
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

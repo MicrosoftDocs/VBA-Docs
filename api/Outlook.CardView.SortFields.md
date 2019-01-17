@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.SortFields
 ms.assetid: 619938a1-25aa-ffdf-01e1-9a12801245bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

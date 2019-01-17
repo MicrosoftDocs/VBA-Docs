@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Parent
 ms.assetid: 1bb8a043-1ad2-28d2-8c48-8426ef24579e
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

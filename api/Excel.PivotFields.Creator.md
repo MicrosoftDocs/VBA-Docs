@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFields.Creator
 ms.assetid: a8d19289-196f-f7d7-bac9-fa891b3461db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

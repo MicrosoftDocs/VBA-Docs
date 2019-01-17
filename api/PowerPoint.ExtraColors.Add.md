@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ExtraColors.Add
 ms.assetid: 0f4bcac0-fbcf-a6a9-18c2-b4b4fb231cf9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

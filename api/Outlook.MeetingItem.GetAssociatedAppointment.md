@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.GetAssociatedAppointment
 ms.assetid: 8344d40d-5c1d-ead3-87cb-fd795b831712
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

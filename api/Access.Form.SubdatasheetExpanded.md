@@ -8,6 +8,7 @@ api_name:
 - Access.Form.SubdatasheetExpanded
 ms.assetid: 543f2398-ca70-5261-0f9f-e1d864c442e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

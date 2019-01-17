@@ -8,6 +8,7 @@ api_name:
 - Publisher.Printer.PaperOrientation
 ms.assetid: f57986b6-e6c4-7a47-af93-56036d667240
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

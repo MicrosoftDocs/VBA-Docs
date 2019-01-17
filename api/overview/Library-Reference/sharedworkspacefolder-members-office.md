@@ -3,6 +3,7 @@ title: SharedWorkspaceFolder members (Office)
 ms.prod: office
 ms.assetid: e7e0a32a-ce01-e08f-f251-27d93273110e
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

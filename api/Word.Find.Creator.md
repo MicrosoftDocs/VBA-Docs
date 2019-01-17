@@ -8,6 +8,7 @@ api_name:
 - Word.Find.Creator
 ms.assetid: e57d8133-a26e-2628-fe78-280a38f4ef7e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

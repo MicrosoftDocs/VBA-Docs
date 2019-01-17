@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.RightPadding
 ms.assetid: e739fdd2-18be-eb96-f8ed-a9b4b82b4885
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ShowDataForm
 ms.assetid: 587a5446-d97e-51d1-d1d9-f5113f8afc0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

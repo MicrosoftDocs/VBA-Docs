@@ -8,6 +8,7 @@ api_name:
 - Excel.ThreeDFormat.IncrementRotationX
 ms.assetid: 599f96ca-6a8a-3b9e-5d76-c053f3236522
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

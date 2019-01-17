@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.LeftRelative
 ms.assetid: c253909c-2204-6f38-d7d3-8a0587842718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

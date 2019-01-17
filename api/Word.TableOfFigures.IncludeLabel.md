@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfFigures.IncludeLabel
 ms.assetid: b31b8ecf-348d-33c4-ef20-92b2680f1a78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

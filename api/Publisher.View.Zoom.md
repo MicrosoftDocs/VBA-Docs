@@ -8,6 +8,7 @@ api_name:
 - Publisher.View.Zoom
 ms.assetid: 31727291-740b-4e77-9c6b-9f19523488cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

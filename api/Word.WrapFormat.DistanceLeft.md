@@ -8,6 +8,7 @@ api_name:
 - Word.WrapFormat.DistanceLeft
 ms.assetid: 278a0056-b33e-317c-4756-5eb8e91da175
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

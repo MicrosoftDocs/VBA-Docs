@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShapes.Count
 ms.assetid: ad69bf4a-cf83-bf67-3ce6-de69a01a91bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

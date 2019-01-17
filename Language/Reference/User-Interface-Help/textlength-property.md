@@ -8,6 +8,7 @@ api_name:
 - Office.TextLength
 ms.assetid: 9276412c-7c64-34c2-59d8-f0b8f21dc98a
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

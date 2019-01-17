@@ -8,6 +8,7 @@ api_name:
 - Excel.ThreeDFormat.PresetThreeDFormat
 ms.assetid: 678fa7f1-7cdc-ce05-98f7-bc6252eb3df1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.BottomPadding
 ms.assetid: fb22d41c-a310-ed95-34ea-8a4cda1bff8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

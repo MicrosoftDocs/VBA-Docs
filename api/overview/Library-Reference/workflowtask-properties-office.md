@@ -3,6 +3,7 @@ title: WorkflowTask Properties (Office)
 ms.prod: office
 ms.assetid: 0d16b363-eb5b-4611-b4b7-623f095ca14c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

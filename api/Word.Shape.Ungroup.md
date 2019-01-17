@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Ungroup
 ms.assetid: 0e8ead12-19a7-4caf-696e-38509e30148d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

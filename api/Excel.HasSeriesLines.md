@@ -8,6 +8,7 @@ api_name:
 - Excel.HasSeriesLines
 ms.assetid: fd101b78-4499-31bd-1243-47738c1eb00f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

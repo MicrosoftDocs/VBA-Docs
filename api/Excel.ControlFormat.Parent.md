@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.Parent
 ms.assetid: 8e2957a7-53f4-22d2-fba6-0de5a6e90be8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

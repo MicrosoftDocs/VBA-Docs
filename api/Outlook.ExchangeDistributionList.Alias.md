@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeDistributionList.Alias
 ms.assetid: 9fef6b67-e08e-6aba-24ad-d9985329ba90
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

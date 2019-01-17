@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.InsertFromFile
 ms.assetid: 03762511-9f2f-6691-ac82-dcff74fcde1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

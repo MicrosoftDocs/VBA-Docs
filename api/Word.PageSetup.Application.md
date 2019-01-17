@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.Application
 ms.assetid: 493943cb-cbdd-1d3f-4383-515234199b41
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

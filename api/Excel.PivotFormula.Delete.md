@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFormula.Delete
 ms.assetid: be05b79a-df7a-c3c5-2682-28b823a21a43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

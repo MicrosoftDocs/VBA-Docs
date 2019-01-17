@@ -5,6 +5,7 @@ api_name:
 - Excel.EndStyle
 ms.assetid: 2d12c0c5-7c48-41c0-b270-d5cf70eb7d47
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

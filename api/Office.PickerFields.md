@@ -8,6 +8,7 @@ api_name:
 - Office.PickerFields
 ms.assetid: 74e8f404-8b60-76f2-6fc4-6199e8b7027d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

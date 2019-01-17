@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLPart.NodeAfterDelete
 ms.assetid: 430d2eed-afc3-8798-1478-2146351cefcc
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

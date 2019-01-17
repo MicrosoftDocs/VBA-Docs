@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ParagraphFormat.FarEastLineBreakControl
 ms.assetid: ffc0cb13-b547-5a33-e661-8a2cc4237e88
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

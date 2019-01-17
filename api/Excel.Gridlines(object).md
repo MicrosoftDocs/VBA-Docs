@@ -8,6 +8,7 @@ api_name:
 - Excel.Gridlines
 ms.assetid: 8a096f01-808f-5708-8da5-5667a5f4080d
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

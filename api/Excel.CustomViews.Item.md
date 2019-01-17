@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomViews.Item
 ms.assetid: 542a3838-c499-5aa1-735e-5fe0c9c852a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

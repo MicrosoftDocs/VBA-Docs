@@ -8,6 +8,7 @@ api_name:
 - Word.ProofreadingErrors.Count
 ms.assetid: 4cd34d95-f010-f317-8bdf-c110ec97dde4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

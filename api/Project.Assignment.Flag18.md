@@ -5,6 +5,7 @@ api_name:
 - Project.Assignment.Flag18
 ms.assetid: 46e6a314-ef73-8db8-1422-340e7dd05d1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

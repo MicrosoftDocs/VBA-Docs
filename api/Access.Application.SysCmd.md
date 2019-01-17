@@ -8,6 +8,7 @@ api_name:
 - Access.Application.SysCmd
 ms.assetid: 5064b8cc-6f9a-602b-e304-6d1478d9b4a7
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

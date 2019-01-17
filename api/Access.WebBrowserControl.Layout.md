@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.Layout
 ms.assetid: 87577d00-6449-25fe-c24d-3422a3db59ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

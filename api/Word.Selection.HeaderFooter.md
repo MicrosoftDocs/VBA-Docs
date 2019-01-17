@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.HeaderFooter
 ms.assetid: b2eeeb83-49bf-236e-e795-6231ff20e368
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

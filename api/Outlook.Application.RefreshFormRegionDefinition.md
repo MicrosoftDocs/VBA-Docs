@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.RefreshFormRegionDefinition
 ms.assetid: 35183f18-7c59-80c5-e281-af15afe39198
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

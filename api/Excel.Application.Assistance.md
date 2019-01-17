@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Assistance
 ms.assetid: bfb1fe5e-a87d-e54c-dc2f-5dd308dc8a8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

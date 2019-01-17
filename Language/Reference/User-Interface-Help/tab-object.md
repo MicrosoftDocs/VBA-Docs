@@ -8,6 +8,7 @@ api_name:
 - Office.Tab
 ms.assetid: 3ac18010-5e79-c52b-e2ae-0fcd3acdd7b9
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

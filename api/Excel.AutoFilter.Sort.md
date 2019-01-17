@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoFilter.Sort
 ms.assetid: 1aa1a8b3-cd7a-899d-897e-fa47f4bdec67
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

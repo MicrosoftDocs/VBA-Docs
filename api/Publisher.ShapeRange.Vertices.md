@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.Vertices
 ms.assetid: 0beb2323-8db6-c8c2-2f34-4c1ffde7fddc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

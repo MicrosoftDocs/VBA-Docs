@@ -5,6 +5,7 @@ api_name:
 - Project.WorkWeeks.Add
 ms.assetid: 46469e7b-8309-4e77-c89f-2115b9498c7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

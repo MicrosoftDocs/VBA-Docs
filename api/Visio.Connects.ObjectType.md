@@ -8,6 +8,7 @@ api_name:
 - Visio.Connects.ObjectType
 ms.assetid: 1d27b1c5-89f0-493c-b90c-9be46fc93ca0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

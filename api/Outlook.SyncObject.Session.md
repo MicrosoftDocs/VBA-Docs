@@ -8,6 +8,7 @@ api_name:
 - Outlook.SyncObject.Session
 ms.assetid: 985369af-2fc0-8abd-d1c0-1fbb100a244d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

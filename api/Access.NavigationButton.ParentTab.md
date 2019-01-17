@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.ParentTab
 ms.assetid: a699e444-c520-2d07-dc84-34111659bd97
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

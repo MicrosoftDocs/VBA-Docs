@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextStyles.Parent
 ms.assetid: 74a2784b-ea76-9ef4-cacd-ac5ad9ba34a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

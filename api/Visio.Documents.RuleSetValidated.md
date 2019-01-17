@@ -8,6 +8,7 @@ api_name:
 - Visio.Documents.RuleSetValidated
 ms.assetid: 5c949500-bec2-3300-81d7-acd646f88fae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

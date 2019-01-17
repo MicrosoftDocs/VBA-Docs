@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Selection.Delete
 ms.assetid: 879d15ca-97b4-cf44-27a0-7e15f6041b34
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

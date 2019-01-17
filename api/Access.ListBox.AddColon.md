@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.AddColon
 ms.assetid: f1abcc52-671a-c187-071e-e16e4588f57d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.MailEnvelope
 ms.assetid: f37a52f5-ebfe-a9b9-056e-50f6adf4c1b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

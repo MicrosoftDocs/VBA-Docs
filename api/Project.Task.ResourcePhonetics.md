@@ -8,6 +8,7 @@ api_name:
 - Project.Task.ResourcePhonetics
 ms.assetid: 07019a05-a28b-99dc-993c-0ce3b6fda293
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

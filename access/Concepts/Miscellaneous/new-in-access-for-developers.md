@@ -3,6 +3,7 @@ title: New in Access for developers
 ms.prod: access
 ms.assetid: df778f51-d65e-4c30-b618-65003ceb39b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

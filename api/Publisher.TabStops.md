@@ -8,6 +8,7 @@ api_name:
 - Publisher.TabStops
 ms.assetid: fbaa194c-754a-3437-c3d5-fa70c951ca4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

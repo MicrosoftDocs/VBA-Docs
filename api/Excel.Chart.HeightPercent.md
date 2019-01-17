@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.HeightPercent
 ms.assetid: a95f2b76-57a1-4c04-9f5f-ccd7852d4ab6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

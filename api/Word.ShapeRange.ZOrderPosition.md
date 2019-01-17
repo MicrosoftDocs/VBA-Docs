@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.ZOrderPosition
 ms.assetid: 358898b6-eab7-96f8-8f4e-bb993a425e5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

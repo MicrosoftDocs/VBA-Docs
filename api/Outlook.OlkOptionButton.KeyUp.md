@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkOptionButton.KeyUp
 ms.assetid: abca8eca-b1a2-a050-0418-daa10cc4cabc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

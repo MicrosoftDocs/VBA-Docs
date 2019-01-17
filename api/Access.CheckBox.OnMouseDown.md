@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.OnMouseDown
 ms.assetid: 236c9263-4238-ec07-d239-2481575ab8c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Scenario.Locked
 ms.assetid: 862e75dc-5307-af8d-1c46-062e26943a0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

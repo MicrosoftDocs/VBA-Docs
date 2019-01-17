@@ -8,6 +8,7 @@ api_name:
 - Office.CreateTextFile
 ms.assetid: be538862-92a8-0386-ea4f-1809fc465cb9
 ms.date: 12/14/2018
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.BoundLeft
 ms.assetid: 2641e084-6b6e-ff6e-c6a6-27cb84cbd4dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

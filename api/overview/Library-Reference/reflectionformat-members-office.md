@@ -3,6 +3,7 @@ title: ReflectionFormat members (Office)
 ms.prod: office
 ms.assetid: 040424e8-2903-8416-c294-872d872d5277
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

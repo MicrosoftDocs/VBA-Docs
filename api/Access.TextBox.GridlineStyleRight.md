@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.GridlineStyleRight
 ms.assetid: c841157d-6e8d-8cd4-e23a-77d00d0af8e6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

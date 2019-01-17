@@ -8,6 +8,7 @@ api_name:
 - Access.Line.VerticalAnchor
 ms.assetid: 533343f3-e9bb-d169-e5b5-6c473cf85951
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Copy
 ms.assetid: ac5207ac-6be5-3c7e-2c61-67954a59e9df
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.DataRecordsets.BeforeDataRecordsetDelete
 ms.assetid: f559b904-df44-3f4e-14d9-6a1493180f27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

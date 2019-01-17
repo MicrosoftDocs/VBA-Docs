@@ -8,6 +8,7 @@ api_name:
 - Access.Form.Repaint
 ms.assetid: ce386055-c4b7-9aa8-7f49-de0010467970
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

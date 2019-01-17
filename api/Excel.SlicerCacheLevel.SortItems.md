@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerCacheLevel.SortItems
 ms.assetid: dd08c2d8-3502-d078-5c69-ab678ea9b801
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

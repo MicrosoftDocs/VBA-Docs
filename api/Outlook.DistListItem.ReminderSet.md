@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.ReminderSet
 ms.assetid: 3194de9e-866d-8d87-28d7-aa43526e20da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

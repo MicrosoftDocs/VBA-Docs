@@ -8,6 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.ManualFeedDirection
 ms.assetid: 6c241594-d113-c3bd-5669-d3046e824c4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

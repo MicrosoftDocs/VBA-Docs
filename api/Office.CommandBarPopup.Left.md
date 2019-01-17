@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarPopup.Left
 ms.assetid: d384480a-9777-acee-d943-ec4ebb6cb5e7
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

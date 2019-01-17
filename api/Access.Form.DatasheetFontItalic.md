@@ -8,6 +8,7 @@ api_name:
 - Access.Form.DatasheetFontItalic
 ms.assetid: 32fe51fa-ee36-2fc3-bb72-e61a4b43c19c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

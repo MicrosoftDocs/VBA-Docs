@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.ParentGroup
 ms.assetid: c6305148-86d4-9f86-45e9-5007d7f5b324
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

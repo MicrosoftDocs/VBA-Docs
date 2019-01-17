@@ -3,6 +3,7 @@ title: ViewCtl.SaveAs Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 59e2556d-04c4-7639-af1a-7e14757fb259
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Project.CurrencyCode
 ms.assetid: 12085e58-5520-600e-1a00-2822474303fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

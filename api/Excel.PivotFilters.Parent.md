@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilters.Parent
 ms.assetid: fd1011c9-5d0b-84fa-4b85-4f12558aead7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

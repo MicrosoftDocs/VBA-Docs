@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.Creator
 ms.assetid: 3caec137-72b5-6ec9-3b79-acd55df62a3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

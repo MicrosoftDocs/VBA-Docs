@@ -8,6 +8,7 @@ api_name:
 - Publisher.Attachments
 ms.assetid: 61957961-8c75-992f-159c-51412ed309ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

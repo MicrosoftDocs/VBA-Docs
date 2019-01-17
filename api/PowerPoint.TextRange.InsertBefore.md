@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.InsertBefore
 ms.assetid: fbadcecd-a31b-8c8d-3281-63d70286bcff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

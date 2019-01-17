@@ -5,6 +5,7 @@ api_name:
 - Word.WdOMathShapeType
 ms.assetid: efbe0c3a-ee03-f385-5875-35a5e97a2aea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

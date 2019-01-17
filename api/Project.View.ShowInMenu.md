@@ -5,6 +5,7 @@ api_name:
 - Project.View.ShowInMenu
 ms.assetid: 7250038b-cea2-e196-6827-ae25bbea470e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

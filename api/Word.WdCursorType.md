@@ -5,6 +5,7 @@ api_name:
 - Word.WdCursorType
 ms.assetid: 6fd089cc-b0a6-3883-aa0f-c7ba3405b846
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

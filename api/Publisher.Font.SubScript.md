@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.SubScript
 ms.assetid: 9992fdcc-dd60-b2f7-307b-99b10dc7debb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

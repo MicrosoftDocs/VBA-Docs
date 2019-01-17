@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.Duration
 ms.assetid: 16c43bf8-1d7f-f4f2-8e0f-f0b2242ccdd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.IMESentenceMode
 ms.assetid: 877e1766-c378-cf7b-b452-bb8f536980f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

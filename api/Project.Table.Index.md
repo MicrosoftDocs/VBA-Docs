@@ -8,6 +8,7 @@ api_name:
 - Project.Table.Index
 ms.assetid: f216af60-856b-883d-f91f-43f52a3808bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

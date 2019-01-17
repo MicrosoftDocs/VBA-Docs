@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItem.ShowDetail
 ms.assetid: d79e3f27-ff7a-9bf2-313d-e1add3e386a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

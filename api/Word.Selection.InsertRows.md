@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.InsertRows
 ms.assetid: 326ad049-4d39-1ca6-a203-ddba0e77cba4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

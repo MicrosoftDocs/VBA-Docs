@@ -8,6 +8,7 @@ api_name:
 - Publisher.DropCap.LinesUp
 ms.assetid: 97bf3fc1-2203-d916-0c2d-352260c279fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

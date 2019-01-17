@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FilterNew
 ms.assetid: 9289cf4f-ce29-695d-baf8-08316ed1e31b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

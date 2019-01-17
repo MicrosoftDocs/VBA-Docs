@@ -3,6 +3,7 @@ title: SmartDocument Methods (Office)
 ms.prod: office
 ms.assetid: 08385d58-fbb2-4291-bcb2-97d3dc98da6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

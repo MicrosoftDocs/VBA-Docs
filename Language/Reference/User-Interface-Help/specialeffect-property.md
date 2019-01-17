@@ -8,6 +8,7 @@ api_name:
 - Office.SpecialEffect
 ms.assetid: db3fa148-42f3-fded-9ec4-6d46c963fdce
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

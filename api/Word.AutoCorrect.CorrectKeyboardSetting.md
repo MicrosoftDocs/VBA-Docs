@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrect.CorrectKeyboardSetting
 ms.assetid: 2b611e7d-b0fe-41c2-1b93-3364c5d26c9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendEntries.Item
 ms.assetid: 67745179-84b3-a2b8-23d8-ceb393828af7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Object Doesn't Support this Property or Method
 ms.prod: word
 ms.assetid: 2595d458-e84f-2107-e27c-24e5a0131f9a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

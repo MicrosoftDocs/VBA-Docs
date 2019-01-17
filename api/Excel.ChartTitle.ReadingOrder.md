@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartTitle.ReadingOrder
 ms.assetid: 31c00ca2-c2aa-bead-1716-8f03da908296
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.ChangeCase
 ms.assetid: a14edb26-7ec3-5fb5-7590-cd67a75c1f03
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

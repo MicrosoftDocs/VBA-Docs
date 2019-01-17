@@ -8,6 +8,7 @@ api_name:
 - Excel.Points.Item
 ms.assetid: 1e588b64-3676-63ab-5136-eec028a82a4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

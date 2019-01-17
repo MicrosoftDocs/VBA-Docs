@@ -3,6 +3,7 @@ title: Views (Outlook)
 ms.prod: outlook
 ms.assetid: ddef400a-ab9f-406a-9c74-0988991bd7bb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

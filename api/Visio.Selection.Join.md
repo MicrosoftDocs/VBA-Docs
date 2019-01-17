@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Join
 ms.assetid: e176abcc-edd1-0e40-afc8-e05ed8dec998
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

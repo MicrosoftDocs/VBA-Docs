@@ -8,6 +8,7 @@ api_name:
 - Office.SelectionMargin
 ms.assetid: 1e86e761-7427-e6a2-0b66-887bf89f9fa7
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

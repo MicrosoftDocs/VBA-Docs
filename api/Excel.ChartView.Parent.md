@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartView.Parent
 ms.assetid: 99415b61-e2a8-314e-496b-92aa6d2d3822
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

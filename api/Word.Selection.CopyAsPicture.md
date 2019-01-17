@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.CopyAsPicture
 ms.assetid: f5c73e30-1601-62a7-ec0e-2dc49c6f51fe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

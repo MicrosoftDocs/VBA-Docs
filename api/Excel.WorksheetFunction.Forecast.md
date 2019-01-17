@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Forecast
 ms.assetid: a4d178b3-7d68-bfc6-0f7a-e3c6d5984af6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

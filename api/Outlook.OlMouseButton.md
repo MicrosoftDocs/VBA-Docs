@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlMouseButton
 ms.assetid: f654f074-f7e7-6128-9d7d-8ec6adbfe5f7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.OMathFunctions.Item
 ms.assetid: 5c3f7269-0de6-20fd-66d8-4fc23a1fa9d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

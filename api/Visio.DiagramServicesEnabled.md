@@ -8,6 +8,7 @@ api_name:
 - Visio.DiagramServicesEnabled
 ms.assetid: 1a492029-31c8-85bb-0843-31c0a1200055
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

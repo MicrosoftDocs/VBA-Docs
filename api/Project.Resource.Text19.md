@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Text19
 ms.assetid: 353160a4-413c-7123-a4a2-fc98a083364c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

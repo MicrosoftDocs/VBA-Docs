@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.NumeralShapes
 ms.assetid: 93cb42d2-6274-3af4-0801-87ecf8eb4252
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

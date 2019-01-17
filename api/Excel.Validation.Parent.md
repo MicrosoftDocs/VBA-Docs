@@ -8,6 +8,7 @@ api_name:
 - Excel.Validation.Parent
 ms.assetid: d89954da-a334-e1ea-5dda-2b06e0c44b6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

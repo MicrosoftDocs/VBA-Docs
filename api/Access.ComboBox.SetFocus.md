@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.SetFocus
 ms.assetid: d17e91d3-5478-942e-41b9-7404e5dfac50
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

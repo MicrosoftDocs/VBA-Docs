@@ -8,6 +8,7 @@ api_name:
 - Access.Form.MinMaxButtons
 ms.assetid: 12f2a0b1-1f45-544b-b116-8d5aa51d6897
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ThreeDFormat.IncrementRotationHorizontal
 ms.assetid: 0b52fe5c-0249-01f7-c04d-09edff3a2667
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

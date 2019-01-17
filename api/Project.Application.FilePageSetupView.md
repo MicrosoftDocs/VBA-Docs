@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FilePageSetupView
 ms.assetid: 46a90db8-a635-3592-77ed-c051afa36946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

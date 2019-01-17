@@ -8,6 +8,7 @@ api_name:
 - Office.Signature.Delete
 ms.assetid: c75a2200-081a-7f5c-ae02-ab7be845c003
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

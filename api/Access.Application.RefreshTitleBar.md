@@ -8,6 +8,7 @@ api_name:
 - Access.Application.RefreshTitleBar
 ms.assetid: 9924e3ff-714f-023e-460f-d4aba7702829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

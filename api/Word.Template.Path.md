@@ -8,6 +8,7 @@ api_name:
 - Word.Template.Path
 ms.assetid: 9b84e053-b806-d43d-2c3c-b8ce56cf7d15
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

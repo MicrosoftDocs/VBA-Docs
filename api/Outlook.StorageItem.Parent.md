@@ -8,6 +8,7 @@ api_name:
 - Outlook.StorageItem.Parent
 ms.assetid: d7c8448b-d340-4ff6-f2f6-1965327605cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

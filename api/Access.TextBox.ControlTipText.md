@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.ControlTipText
 ms.assetid: a63f3624-8f31-97f6-c2cb-8c34c82c825b
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrect.DisplayAutoCorrectOptions
 ms.assetid: 7a4d6773-53f7-8d9d-499e-8d32917c14fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

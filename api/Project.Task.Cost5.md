@@ -5,6 +5,7 @@ api_name:
 - Project.Task.Cost5
 ms.assetid: 81357a35-2bae-9cd2-35ea-9de07cffa182
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

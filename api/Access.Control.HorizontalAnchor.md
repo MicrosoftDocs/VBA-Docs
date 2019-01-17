@@ -8,6 +8,7 @@ api_name:
 - Access.Control.HorizontalAnchor
 ms.assetid: e81daacc-3c0b-608c-aea1-e01bc162b6b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.MeetingWorkspaceURL
 ms.assetid: ad97f3cc-35c6-b653-73b9-7c7a0555afe2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

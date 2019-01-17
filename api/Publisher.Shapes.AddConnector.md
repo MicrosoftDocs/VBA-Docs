@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shapes.AddConnector
 ms.assetid: fd1ef969-7960-2555-e355-9804c86f6c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

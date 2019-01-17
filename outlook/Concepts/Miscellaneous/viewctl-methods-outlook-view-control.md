@@ -3,6 +3,7 @@ title: ViewCtl Methods (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 2281aa45-66ae-4631-a092-02bad38ef6a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

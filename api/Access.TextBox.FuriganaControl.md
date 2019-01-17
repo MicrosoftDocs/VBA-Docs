@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.FuriganaControl
 ms.assetid: 7d70cffa-06bb-fa9d-686a-0031558aa5a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.ExportAsFixedFormat
 ms.assetid: e54951d1-6396-c765-7563-1ca7abc16dbd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

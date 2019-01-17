@@ -8,6 +8,7 @@ api_name:
 - Word.KeyBinding.Application
 ms.assetid: fbadc682-7d25-2446-9daa-50995fac138a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

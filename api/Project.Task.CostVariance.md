@@ -5,6 +5,7 @@ api_name:
 - Project.Task.CostVariance
 ms.assetid: 2dd4da66-3135-e59d-fbc7-5ddd07e14a1b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

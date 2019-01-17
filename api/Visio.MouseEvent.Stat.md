@@ -8,6 +8,7 @@ api_name:
 - Visio.MouseEvent.Stat
 ms.assetid: 2feb8369-ad91-a5c2-af0b-936002ec732b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

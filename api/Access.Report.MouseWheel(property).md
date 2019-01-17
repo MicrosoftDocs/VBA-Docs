@@ -8,6 +8,7 @@ api_name:
 - Access.Report.MouseWheel
 ms.assetid: ea9d6443-abfd-6140-e167-548f4aafd342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: The top level class for interacting with a SmartArt graphic.
 ms.prod: office
 ms.assetid: 60a9e7bf-8948-2c30-f206-61e7c46c1928
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Excel.XlCutCopyMode
 ms.assetid: 04e58445-10c2-66ef-42a4-9e681c4cd4f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

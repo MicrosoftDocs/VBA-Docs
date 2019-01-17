@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shape.WebCommandButton
 ms.assetid: c20b937b-6f53-fdc1-830a-4044831c351a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

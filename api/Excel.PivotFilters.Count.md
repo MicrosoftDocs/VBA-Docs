@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilters.Count
 ms.assetid: a7db4014-5aba-e9fc-d752-fbc3c9c46fa6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

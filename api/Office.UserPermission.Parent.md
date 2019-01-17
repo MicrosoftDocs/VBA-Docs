@@ -8,6 +8,7 @@ api_name:
 - Office.UserPermission.Parent
 ms.assetid: 57243603-4e1b-c99f-bf1d-617840f89b3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

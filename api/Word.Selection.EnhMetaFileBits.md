@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.EnhMetaFileBits
 ms.assetid: ecc28cc8-6c0f-3207-f52c-4a7b77c23445
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

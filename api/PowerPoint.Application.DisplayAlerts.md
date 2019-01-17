@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.DisplayAlerts
 ms.assetid: e18cf1f5-c456-8cd5-40e7-eec69c40811d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

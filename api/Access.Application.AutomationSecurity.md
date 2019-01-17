@@ -8,6 +8,7 @@ api_name:
 - Access.Application.AutomationSecurity
 ms.assetid: 4589f050-4b0c-8dba-309a-98ad3921baa7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

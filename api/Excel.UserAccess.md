@@ -8,6 +8,7 @@ api_name:
 - Excel.UserAccess
 ms.assetid: 44df1865-a5f9-e1b7-b724-41d375e9ea44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

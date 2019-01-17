@@ -8,6 +8,7 @@ api_name:
 - Access.Application.DVarP
 ms.assetid: 99a2d948-0f38-85fa-6f68-5568262595ae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

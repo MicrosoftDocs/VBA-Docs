@@ -8,6 +8,7 @@ api_name:
 - Outlook.AttachmentSelection.Class
 ms.assetid: 2983a46f-8219-f90a-5313-cf8ce6cdd65e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

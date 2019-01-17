@@ -3,6 +3,7 @@ title: Sync Properties (Office)
 ms.prod: office
 ms.assetid: 095db0c2-4617-4d9c-be76-ddf70fc38f50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

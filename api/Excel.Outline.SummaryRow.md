@@ -8,6 +8,7 @@ api_name:
 - Excel.Outline.SummaryRow
 ms.assetid: f36fac55-cafd-1ec6-4e85-a7f4fc665c04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

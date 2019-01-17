@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNode.AppendChildSubtree
 ms.assetid: 67899ba9-7e5a-e40e-2e33-b02ff1fff4b4
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.StyleSheet.Move
 ms.assetid: 2f142a64-d47d-8858-39ca-26f4cff4d096
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

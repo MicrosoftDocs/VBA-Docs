@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.TabStop
 ms.assetid: 918d81a6-a9a2-ab4e-6fb3-ad78233b6e7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

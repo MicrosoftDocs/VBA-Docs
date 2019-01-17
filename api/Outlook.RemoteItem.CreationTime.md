@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.CreationTime
 ms.assetid: 436d79a0-fc4e-0fc3-5fe3-5c63e44217d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

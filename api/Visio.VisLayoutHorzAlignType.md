@@ -8,6 +8,7 @@ api_name:
 - Visio.VisLayoutHorzAlignType
 ms.assetid: 7493b806-1ab4-eb86-2fbd-7ac98ebcea56
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

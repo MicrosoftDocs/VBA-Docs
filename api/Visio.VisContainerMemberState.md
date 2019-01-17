@@ -8,6 +8,7 @@ api_name:
 - Visio.VisContainerMemberState
 ms.assetid: 41b5c521-79b7-d7ce-38b3-17841815d429
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

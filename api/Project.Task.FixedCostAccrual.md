@@ -5,6 +5,7 @@ api_name:
 - Project.Task.FixedCostAccrual
 ms.assetid: 22a76efc-de26-3687-6ffe-674478c48767
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

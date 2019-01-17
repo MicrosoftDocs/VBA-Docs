@@ -8,6 +8,7 @@ api_name:
 - Outlook.Conversation.GetAlwaysMoveToFolder
 ms.assetid: ecad049d-338b-d5e0-f241-a9dddaeae316
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

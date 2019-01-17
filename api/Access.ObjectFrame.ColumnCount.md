@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.ColumnCount
 ms.assetid: be9b3121-e9ea-eb78-5165-0a9d5f209b32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

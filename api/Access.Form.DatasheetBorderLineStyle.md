@@ -8,6 +8,7 @@ api_name:
 - Access.Form.DatasheetBorderLineStyle
 ms.assetid: 8a752955-97fe-933a-4130-62f63dbf6566
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

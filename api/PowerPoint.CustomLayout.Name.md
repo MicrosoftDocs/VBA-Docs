@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.CustomLayout.Name
 ms.assetid: 3ad36d6e-1b85-8ff2-9b76-f50a372e0f07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

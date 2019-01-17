@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ResourceAssignment
 ms.assetid: aceb1802-4b5f-0ad3-bd14-ce77c24705fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

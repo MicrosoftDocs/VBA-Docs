@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabels.NumberFormatLinked
 ms.assetid: 8d70c985-8466-291e-5ff5-b20d93740b4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

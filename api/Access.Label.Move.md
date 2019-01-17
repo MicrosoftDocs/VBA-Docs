@@ -8,6 +8,7 @@ api_name:
 - Access.Label.Move
 ms.assetid: 091613dd-5878-704e-0e67-9564ee57cbd3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: RDS Code Examples in Microsoft Visual Basic
 ms.prod: access
 ms.assetid: 4f0623d1-c023-ffe5-0c11-7631f3ec72cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

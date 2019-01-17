@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Caption
 ms.assetid: 65770d68-fe1f-4553-b8e8-25649db2e059
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

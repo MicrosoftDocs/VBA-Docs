@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.OnUndo
 ms.assetid: 12e59bbb-e134-3728-7c8d-629dcda0e908
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

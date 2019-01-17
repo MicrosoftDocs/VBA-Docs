@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.MaxChange
 ms.assetid: 5620bdff-d006-8c85-a1b8-1e3b31f21092
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

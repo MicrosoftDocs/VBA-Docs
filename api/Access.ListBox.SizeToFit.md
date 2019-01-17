@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.SizeToFit
 ms.assetid: 0b74f6d0-d33d-368c-d991-2b219072eae2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

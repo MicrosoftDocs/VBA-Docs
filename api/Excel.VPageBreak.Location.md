@@ -8,6 +8,7 @@ api_name:
 - Excel.VPageBreak.Location
 ms.assetid: d039049f-5b08-d867-c874-f25ca0dbe70f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

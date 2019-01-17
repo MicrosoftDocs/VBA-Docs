@@ -8,6 +8,7 @@ api_name:
 - Word.OMathNary.Application
 ms.assetid: 0a4fdc3c-3a01-9856-c4ef-982fc28b2081
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

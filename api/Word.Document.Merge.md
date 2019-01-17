@@ -8,6 +8,7 @@ api_name:
 - Word.Document.Merge
 ms.assetid: e7ab537d-dfd3-177b-722a-6fe693c158d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.LinkFormat.Application
 ms.assetid: 36f7d150-9777-f4d2-f077-867a8dc0ef42
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

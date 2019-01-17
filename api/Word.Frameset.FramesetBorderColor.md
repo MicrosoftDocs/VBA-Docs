@@ -8,6 +8,7 @@ api_name:
 - Word.Frameset.FramesetBorderColor
 ms.assetid: c47a7b7e-17e0-1741-fd1c-22cde123b42f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

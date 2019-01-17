@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceFiles.Add
 ms.assetid: d6a8e86b-2075-be56-3e3f-75c3ffa6241c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

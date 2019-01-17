@@ -8,6 +8,7 @@ api_name:
 - Word.LegendEntry.Delete
 ms.assetid: 4f05bda8-0b00-dc4a-5a36-a132ac70b58d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

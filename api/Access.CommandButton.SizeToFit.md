@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.SizeToFit
 ms.assetid: a1e8f47f-30b4-c2f4-7d95-2be75f0a4aa5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

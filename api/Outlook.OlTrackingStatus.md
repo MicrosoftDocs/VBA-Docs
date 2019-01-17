@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlTrackingStatus
 ms.assetid: a2253862-b1a1-6d99-81ad-1984ba615919
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

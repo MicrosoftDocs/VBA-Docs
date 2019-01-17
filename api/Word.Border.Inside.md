@@ -8,6 +8,7 @@ api_name:
 - Word.Border.Inside
 ms.assetid: 73a38a3c-6c24-36f2-c6c6-8b4d2f61dc07
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

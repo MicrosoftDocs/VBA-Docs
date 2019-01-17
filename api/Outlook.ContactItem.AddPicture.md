@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.AddPicture
 ms.assetid: aa02c3b2-bb4c-fde9-3dbf-f871cbc200b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

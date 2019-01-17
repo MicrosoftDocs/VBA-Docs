@@ -8,6 +8,7 @@ api_name:
 - Outlook.OutlookBarShortcuts.Remove
 ms.assetid: 378607fc-4d35-6d3b-041c-ae819d095065
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

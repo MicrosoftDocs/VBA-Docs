@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.TimeCreated
 ms.assetid: efb0fdc6-c4ff-78a5-08bb-7a4367cedc43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

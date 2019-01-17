@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.LegendKey.PictureUnit2
 ms.assetid: 018b1a1e-2d00-abee-eeed-8886baec9f4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

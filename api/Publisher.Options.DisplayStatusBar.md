@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.DisplayStatusBar
 ms.assetid: 335b2f1e-03ff-fd90-5ec2-27d5219b27e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

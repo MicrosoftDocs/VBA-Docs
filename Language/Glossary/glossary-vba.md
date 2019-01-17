@@ -4,6 +4,7 @@ ms.prod: office
 ms.assetid: 7ce2c60f-29fb-96e2-2516-73c99a6e7cff
 description: Glossary of terms for Visual Basic for Applications (VBA).
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

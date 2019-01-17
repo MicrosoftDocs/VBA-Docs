@@ -5,6 +5,7 @@ api_name:
 - Outlook.ContactItem.AttachmentAdd
 ms.assetid: ef818f33-7ed8-7beb-1fb8-83eb01c271a5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Application.SelectTPLineHeight
 ms.assetid: f637032a-ede4-6164-e796-716bf5f556f1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

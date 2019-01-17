@@ -8,6 +8,7 @@ api_name:
 - Word.Document.UpdateStyles
 ms.assetid: fe713979-27e1-c81c-198d-5e25564233c2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

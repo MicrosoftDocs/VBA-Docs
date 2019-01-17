@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.AlternativeText
 ms.assetid: 40b53b31-c4e2-0fd8-1a37-fa1e88ccd2be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

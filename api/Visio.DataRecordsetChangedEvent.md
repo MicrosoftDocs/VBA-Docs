@@ -8,6 +8,7 @@ api_name:
 - Visio.DataRecordsetChangedEvent
 ms.assetid: 3575c6f6-081d-4632-d720-efad1c977a9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

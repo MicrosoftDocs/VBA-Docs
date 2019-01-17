@@ -8,6 +8,7 @@ api_name:
 - Excel.XPath.Repeating
 ms.assetid: 9ae1be58-f60a-bf89-3f45-799014f59e8e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

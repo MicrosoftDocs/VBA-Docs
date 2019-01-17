@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.PTCondition
 ms.assetid: eec0e953-7fc8-f701-0cae-79c566bf5ead
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

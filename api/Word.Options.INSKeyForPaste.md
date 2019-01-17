@@ -8,6 +8,7 @@ api_name:
 - Word.Options.INSKeyForPaste
 ms.assetid: a16b57f1-8c56-9544-4da2-57a114f14081
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

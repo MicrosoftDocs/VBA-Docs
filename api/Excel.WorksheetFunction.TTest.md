@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.TTest
 ms.assetid: 3153c88c-aa22-230f-e602-03b902830c54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

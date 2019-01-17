@@ -8,6 +8,7 @@ api_name:
 - Excel.AutoCorrect.Application
 ms.assetid: e2a02f67-65f8-1515-6103-fb83eeddc404
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

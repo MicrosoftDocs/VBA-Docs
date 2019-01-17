@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.HelpContextId
 ms.assetid: 6549fc57-0f33-fe6b-ee5e-88b39107c035
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

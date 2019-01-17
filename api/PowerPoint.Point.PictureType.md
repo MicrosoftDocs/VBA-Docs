@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.Point.PictureType
 ms.assetid: c523316f-3834-e30d-ef2a-95f9be29a110
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

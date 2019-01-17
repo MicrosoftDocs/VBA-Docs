@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.InternetCodepage
 ms.assetid: f42488b4-5f41-d03e-bf75-c07249230215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

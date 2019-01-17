@@ -4,6 +4,7 @@ description: The SharedWorkspaceTask object represents a task in a shared docume
 ms.prod: office
 ms.assetid: 5b5589d1-f907-7357-f930-eede569d2021
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

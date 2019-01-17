@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObjects.Width
 ms.assetid: 835cb1e6-937c-de90-af37-309b9bebb070
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

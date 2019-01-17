@@ -8,6 +8,7 @@ api_name:
 - Word.Replacement.ParagraphFormat
 ms.assetid: 0cb9410e-74c9-0fd2-377e-c045dc0274c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

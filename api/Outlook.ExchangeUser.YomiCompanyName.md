@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.YomiCompanyName
 ms.assetid: 481fec99-c2ab-c4c7-8e05-ede9e6846d1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

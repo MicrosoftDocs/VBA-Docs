@@ -8,6 +8,7 @@ api_name:
 - Word.Column.Next
 ms.assetid: fa2953dc-f5a6-ff58-9a64-42f865725ac7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

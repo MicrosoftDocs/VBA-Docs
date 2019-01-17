@@ -8,6 +8,7 @@ api_name:
 - Excel.ErrorBars.ClearFormats
 ms.assetid: 0326bb43-0b1f-c32c-7ee4-8965bb26a889
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Document.PrintPreview
 ms.assetid: 534e3a03-b26c-5144-f6f5-09235830ec4f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

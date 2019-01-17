@@ -8,6 +8,7 @@ api_name:
 - Word.LineFormat.BackColor
 ms.assetid: 30c282ca-f20b-9d20-8e6c-6f2c37d0cd7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.Click
 ms.assetid: 21d33e13-8635-2ee7-c299-450e3dc74379
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

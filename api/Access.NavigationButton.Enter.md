@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Enter
 ms.assetid: bd1599bb-d57e-d1cd-58d6-fef9650b9ab5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

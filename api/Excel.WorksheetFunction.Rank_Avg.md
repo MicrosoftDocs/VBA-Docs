@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Rank_Avg
 ms.assetid: fd1c60c7-9a37-95b8-12d9-d1d7a42c650a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

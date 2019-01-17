@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.BorderColor
 ms.assetid: 7fcfa9d0-bb08-0bdf-81c0-5f171b487138
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

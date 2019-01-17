@@ -8,6 +8,7 @@ api_name:
 - Publisher.DropCap.Application
 ms.assetid: 220b269c-66ba-b7f3-309a-7d6614215b72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

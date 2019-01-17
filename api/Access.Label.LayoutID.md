@@ -8,6 +8,7 @@ api_name:
 - Access.Label.LayoutID
 ms.assetid: 0e9acdaf-e3ea-0422-4a1e-7b135a9c26bd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

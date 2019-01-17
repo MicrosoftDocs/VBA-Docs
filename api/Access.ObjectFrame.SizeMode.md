@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.SizeMode
 ms.assetid: 2aaa2f95-7982-a585-1a9f-a6ed191be79e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

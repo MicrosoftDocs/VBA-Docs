@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.ShowAutoFilter
 ms.assetid: ae9dfc8d-dd58-802d-2e96-461abdb9ee2b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

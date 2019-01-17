@@ -8,6 +8,7 @@ api_name:
 - Word.Global.CaptionLabels
 ms.assetid: 619ae4eb-56fb-ec1d-d2b2-4962e6e4fa5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

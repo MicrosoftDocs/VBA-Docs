@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.ScrollLeft
 ms.assetid: 1526e744-8276-55bd-bd2a-b7c36cd7c3af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Manage Your Forms in Forms Manager
 ms.prod: outlook
 ms.assetid: 30f812b2-4100-8802-2d4d-d87089c3e661
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.DMin
 ms.assetid: 1f5794f3-befd-339c-d178-66568fce354f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

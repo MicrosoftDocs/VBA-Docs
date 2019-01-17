@@ -8,6 +8,7 @@ api_name:
 - Word.AutoCorrectEntries.Creator
 ms.assetid: 65cff427-3520-863d-ddbd-5c1e83a9fe43
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

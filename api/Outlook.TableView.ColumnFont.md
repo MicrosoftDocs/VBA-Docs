@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.ColumnFont
 ms.assetid: f69ff872-1823-b5c0-9a3d-d4cf72973be1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

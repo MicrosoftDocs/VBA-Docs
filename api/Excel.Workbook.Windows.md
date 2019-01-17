@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.Windows
 ms.assetid: 2352d6c9-720e-b58d-6e7c-049bf21a090d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

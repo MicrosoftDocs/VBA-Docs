@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.BorderShade
 ms.assetid: dc5281e3-9a1a-4d07-2b40-613883117c58
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

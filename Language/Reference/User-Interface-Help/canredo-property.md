@@ -8,6 +8,7 @@ api_name:
 - Office.CanRedo
 ms.assetid: 18b4b51d-3a8a-e03d-14b2-b262f6a12c78
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

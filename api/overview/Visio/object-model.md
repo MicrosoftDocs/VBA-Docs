@@ -4,6 +4,7 @@ description: This section of the Visio VBA Reference contains documentation for 
 ms.prod: visio
 ms.assetid: 166b707a-a5bf-42ae-7741-8ceb8a0ecfcc
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 

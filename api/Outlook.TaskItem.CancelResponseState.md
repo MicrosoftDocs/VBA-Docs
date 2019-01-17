@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.CancelResponseState
 ms.assetid: 564b37c5-f686-8e4d-aa3e-6d41a989b1be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

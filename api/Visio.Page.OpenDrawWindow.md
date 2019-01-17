@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.OpenDrawWindow
 ms.assetid: b5c4e800-fdba-2529-1c04-afa261377469
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

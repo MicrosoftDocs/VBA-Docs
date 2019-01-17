@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.ConversationIndex
 ms.assetid: 1e89d5eb-eed9-a8d3-15c6-65abf9317021
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

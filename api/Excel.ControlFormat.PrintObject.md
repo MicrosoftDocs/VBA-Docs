@@ -8,6 +8,7 @@ api_name:
 - Excel.ControlFormat.PrintObject
 ms.assetid: 9151a4b0-2a1c-5f80-9216-db9f71e552d0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

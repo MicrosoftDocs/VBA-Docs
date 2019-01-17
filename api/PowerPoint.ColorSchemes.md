@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ColorSchemes
 ms.assetid: 9b062448-88f5-b38d-2c76-330c691c9d72
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

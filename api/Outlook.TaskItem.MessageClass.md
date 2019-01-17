@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.MessageClass
 ms.assetid: e5deb86e-ad13-32f0-8dd8-802e7cc539aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

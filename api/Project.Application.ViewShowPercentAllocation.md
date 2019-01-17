@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ViewShowPercentAllocation
 ms.assetid: 41da8198-1899-f9af-2ddd-7a992a3c3465
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

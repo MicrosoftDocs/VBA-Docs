@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame2.Ruler
 ms.assetid: 2fcf6db9-e34f-0dac-de6f-3b470d325ee0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

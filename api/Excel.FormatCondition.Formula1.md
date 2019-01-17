@@ -8,6 +8,7 @@ api_name:
 - Excel.FormatCondition.Formula1
 ms.assetid: f711069a-0d4b-d70c-ed48-9c375ce29173
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

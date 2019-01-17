@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Line
 ms.assetid: 27f648e0-d7eb-27a9-312b-8aa1784e7001
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

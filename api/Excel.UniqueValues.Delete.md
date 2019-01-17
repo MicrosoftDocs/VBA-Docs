@@ -8,6 +8,7 @@ api_name:
 - Excel.UniqueValues.Delete
 ms.assetid: 0c86014b-57c6-6177-1411-d3c87bed73be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

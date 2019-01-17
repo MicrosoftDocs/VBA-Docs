@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DropLinked
 ms.assetid: e975a150-ff48-7cae-3e3b-f21f88f2fbd2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

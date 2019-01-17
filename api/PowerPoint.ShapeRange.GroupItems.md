@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.GroupItems
 ms.assetid: 94d0e684-5237-2415-e222-cd38cbd22e36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

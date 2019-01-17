@@ -8,6 +8,7 @@ api_name:
 - Excel.TickLabels.Creator
 ms.assetid: e319d5b6-9048-8823-0161-cba3ed4037f4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.KeyBindings.Parent
 ms.assetid: 95594351-3827-9c7e-4cb8-ef10c3ab2b31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

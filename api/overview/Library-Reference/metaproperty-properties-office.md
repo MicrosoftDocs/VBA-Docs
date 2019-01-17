@@ -3,6 +3,7 @@ title: MetaProperty Properties (Office)
 ms.prod: office
 ms.assetid: a4ee4158-ee52-48ae-bc69-fc8483ea1ace
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

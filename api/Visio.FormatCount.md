@@ -5,6 +5,7 @@ api_name:
 - Visio.FormatCount
 ms.assetid: 269825eb-a51d-5494-292b-b524e321d248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

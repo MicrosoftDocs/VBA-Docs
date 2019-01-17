@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Tag
 ms.assetid: bd477752-2259-190d-cd3a-6c803ebb81ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

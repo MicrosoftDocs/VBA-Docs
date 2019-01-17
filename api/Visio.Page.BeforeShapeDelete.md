@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.BeforeShapeDelete
 ms.assetid: 7753946d-a986-e89e-aac3-d56556b6c84f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.BorderColor
 ms.assetid: 26a4f80e-d4d2-a633-0e7d-67a2d1143af6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ChartGroup.BubbleScale
 ms.assetid: 4776723c-4d6e-1009-8d00-6f837fbd4803
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

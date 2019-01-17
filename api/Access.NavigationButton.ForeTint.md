@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.ForeTint
 ms.assetid: 4d19f8e8-67e0-412a-a515-dd357a26bc46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

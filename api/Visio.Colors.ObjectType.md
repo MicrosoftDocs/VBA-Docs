@@ -8,6 +8,7 @@ api_name:
 - Visio.Colors.ObjectType
 ms.assetid: 30557a74-1f69-bc68-1fb7-a51ed956563d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

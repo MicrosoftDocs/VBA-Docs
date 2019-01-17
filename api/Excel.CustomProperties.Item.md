@@ -8,6 +8,7 @@ api_name:
 - Excel.CustomProperties.Item
 ms.assetid: f2b9890b-2a25-e192-323b-dca72b461229
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

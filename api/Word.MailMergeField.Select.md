@@ -8,6 +8,7 @@ api_name:
 - Word.MailMergeField.Select
 ms.assetid: 106a5a7b-9585-8dba-197a-1ce55f8f6d28
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

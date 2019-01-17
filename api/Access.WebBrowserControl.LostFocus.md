@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.LostFocus
 ms.assetid: 4daa5867-d8c1-b423-b1a8-c178bcfbb575
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

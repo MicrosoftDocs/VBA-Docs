@@ -8,6 +8,7 @@ api_name:
 - Publisher.Application.COMAddIns
 ms.assetid: b6f48f72-871a-6b7c-761c-9a9e0599acfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

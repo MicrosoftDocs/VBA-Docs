@@ -8,6 +8,7 @@ api_name:
 - Word.Table.Title
 ms.assetid: a7b8437a-3882-1301-4235-7491156aca3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

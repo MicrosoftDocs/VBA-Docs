@@ -8,6 +8,7 @@ api_name:
 - Access.Hyperlink.TextToDisplay
 ms.assetid: 61417274-e124-be4c-1b80-9d4600021326
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

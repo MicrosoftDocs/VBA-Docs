@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShape.ScaleHeight
 ms.assetid: c8f07ca4-4f0c-c365-1962-4404ca7a6ed4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

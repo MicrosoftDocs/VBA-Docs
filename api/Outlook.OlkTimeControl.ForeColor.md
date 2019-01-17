@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTimeControl.ForeColor
 ms.assetid: 5c174c63-889f-77d4-3482-607e4be5ba3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

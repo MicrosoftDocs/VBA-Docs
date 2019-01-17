@@ -8,6 +8,7 @@ api_name:
 - Excel.Shapes.AddCurve
 ms.assetid: 745c62fe-5a62-7ef7-6dc8-d34cada4e57d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.CostRateTable.Index
 ms.assetid: 9ee17707-fffe-8e8c-3501-dc6eeedd7870
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

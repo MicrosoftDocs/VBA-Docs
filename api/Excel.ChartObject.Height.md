@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartObject.Height
 ms.assetid: 0acac3a2-851a-496b-1130-30cd9fcb749c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

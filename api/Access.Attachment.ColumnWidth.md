@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.ColumnWidth
 ms.assetid: 1827efbf-f481-7e26-0638-775a522b2c46
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

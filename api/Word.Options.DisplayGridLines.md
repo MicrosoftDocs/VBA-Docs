@@ -8,6 +8,7 @@ api_name:
 - Word.Options.DisplayGridLines
 ms.assetid: b4bb7db3-bdfb-74bb-891d-cd11c31d66ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.PrintReverse
 ms.assetid: bdbe8ff9-5d9b-a8b6-e479-338f4d2b67dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

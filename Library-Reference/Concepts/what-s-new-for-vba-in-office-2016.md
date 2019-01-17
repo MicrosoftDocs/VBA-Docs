@@ -3,6 +3,7 @@ title: What's new for VBA in Office 2016
 ms.prod: office
 ms.assetid: c0294abb-bc0e-495d-b387-4398378dd3ad
 ms.date: 11/13/2018
+localization_priority: Priority
 ---
 
 

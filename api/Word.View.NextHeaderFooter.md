@@ -8,6 +8,7 @@ api_name:
 - Word.View.NextHeaderFooter
 ms.assetid: 48b52b41-cee4-fa85-7229-86af61607556
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

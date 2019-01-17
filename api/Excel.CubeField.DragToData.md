@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeField.DragToData
 ms.assetid: 4cce5c0d-28f5-155e-b531-e00de0b1bcbd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Pages
 ms.assetid: 45eec568-b5cc-5e80-ff5c-4dfa567efb5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

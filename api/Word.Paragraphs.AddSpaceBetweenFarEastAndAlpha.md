@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.AddSpaceBetweenFarEastAndAlpha
 ms.assetid: f101d2fa-f999-b9fb-84c1-3f060fab7ed0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

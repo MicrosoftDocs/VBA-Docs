@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.ShowCategoriesDialog
 ms.assetid: f31b247b-1e8a-6ea8-3d66-cec400e87b70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Timing.Speed
 ms.assetid: 4dcd7907-47f6-211f-0d88-cfe20165e09f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

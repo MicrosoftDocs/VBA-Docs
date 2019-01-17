@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.Recordset
 ms.assetid: 6985fa39-de4c-3c5b-175b-d156f2730836
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

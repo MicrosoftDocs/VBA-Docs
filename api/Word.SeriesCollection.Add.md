@@ -8,6 +8,7 @@ api_name:
 - Word.SeriesCollection.Add
 ms.assetid: 26778898-aa61-54f9-4db2-d38ab1399405
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Characters.Application
 ms.assetid: b67b835c-9324-04ed-4d7f-e1756e6fe7f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

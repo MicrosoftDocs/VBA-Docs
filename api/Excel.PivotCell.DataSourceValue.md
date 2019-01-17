@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCell.DataSourceValue
 ms.assetid: 99cd270c-775c-3cca-99dd-1a2864b872b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

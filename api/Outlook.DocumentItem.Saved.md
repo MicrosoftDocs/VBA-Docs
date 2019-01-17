@@ -8,6 +8,7 @@ api_name:
 - Outlook.DocumentItem.Saved
 ms.assetid: 79678d75-9ebc-b1d8-75ed-512da0e41cd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

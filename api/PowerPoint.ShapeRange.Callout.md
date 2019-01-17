@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.Callout
 ms.assetid: ccff61a0-d077-a80d-d1ce-be9b036842c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.ColumnHidden
 ms.assetid: 54d9c895-3f65-6d13-2b47-93e541a6c1d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

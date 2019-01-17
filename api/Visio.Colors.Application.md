@@ -8,6 +8,7 @@ api_name:
 - Visio.Colors.Application
 ms.assetid: 89418804-bf4b-d322-e0e1-84c8817b419a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

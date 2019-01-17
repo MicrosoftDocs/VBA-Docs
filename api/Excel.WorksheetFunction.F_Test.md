@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.F_Test
 ms.assetid: 193fefdf-28f9-6635-19ec-10c8f655eaf1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.SplitCellColor
 ms.assetid: bf4b905a-6a75-02ff-8824-3fbeb3184b7f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

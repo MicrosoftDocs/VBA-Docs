@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.Caption
 ms.assetid: 1f0334ee-d0fa-14d4-046b-d29ffddcfd53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

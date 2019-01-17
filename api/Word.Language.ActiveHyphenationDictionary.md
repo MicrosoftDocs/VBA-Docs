@@ -8,6 +8,7 @@ api_name:
 - Word.Language.ActiveHyphenationDictionary
 ms.assetid: 355462bc-c39e-2e2c-0d2e-af5d4ee8c5a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

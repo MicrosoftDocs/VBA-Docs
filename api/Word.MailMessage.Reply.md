@@ -8,6 +8,7 @@ api_name:
 - Word.MailMessage.Reply
 ms.assetid: a05e3352-84bb-8774-c841-d2b6093dcf9b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

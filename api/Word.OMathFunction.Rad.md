@@ -8,6 +8,7 @@ api_name:
 - Word.OMathFunction.Rad
 ms.assetid: b4ee2780-ec93-ca41-42ae-e17348d0d160
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

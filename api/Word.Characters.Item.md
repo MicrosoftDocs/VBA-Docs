@@ -8,6 +8,7 @@ api_name:
 - Word.Characters.Item
 ms.assetid: 43b5513c-401c-fde6-2816-c7ad674c9829
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

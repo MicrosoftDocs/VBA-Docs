@@ -8,6 +8,7 @@ api_name:
 - Access.Report.OpenArgs
 ms.assetid: 91dcbf42-6bb8-73e5-744c-de82d8668f9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebListBoxItems.Count
 ms.assetid: a306e5d1-c0e4-86f3-745a-720f91bf1f25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

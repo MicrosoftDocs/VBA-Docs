@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Slide.Copy
 ms.assetid: 35844287-a2f3-463d-f735-d88f383ad208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Class
 ms.assetid: d829ebf5-ec8a-7c4f-89c2-49c194339672
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

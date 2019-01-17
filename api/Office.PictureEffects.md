@@ -5,6 +5,7 @@ api_name:
 - Office.PictureEffects
 ms.assetid: bc0e1cfd-7328-360d-872e-c71ae93162ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

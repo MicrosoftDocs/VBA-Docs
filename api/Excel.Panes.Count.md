@@ -8,6 +8,7 @@ api_name:
 - Excel.Panes.Count
 ms.assetid: ac5b3fc5-94e2-8b2a-a45b-a19fa4835621
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

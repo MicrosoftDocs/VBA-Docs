@@ -3,6 +3,7 @@ title: OfficeDataSourceObject members (Office)
 ms.prod: office
 ms.assetid: 57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

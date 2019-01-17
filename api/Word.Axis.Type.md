@@ -8,6 +8,7 @@ api_name:
 - Word.Axis.Type
 ms.assetid: 781d9e0b-6c14-693e-e883-8a28367d4cc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.BuildingBlockEntries.Creator
 ms.assetid: 41cc6b8f-18f1-695e-f811-fc597e6dcb51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

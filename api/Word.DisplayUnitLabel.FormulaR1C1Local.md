@@ -8,6 +8,7 @@ api_name:
 - Word.DisplayUnitLabel.FormulaR1C1Local
 ms.assetid: 15968ea6-5df5-9013-a32b-f09cf2f51cfe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Walls.Application
 ms.assetid: e0228381-be31-bf1e-150e-377153ad0a5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

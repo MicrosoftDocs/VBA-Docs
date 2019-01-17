@@ -3,6 +3,7 @@ title: Object model (Project)
 ms.prod: project-server
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07
 ms.date: 10/10/2018
+localization_priority: Priority
 ---
 
 

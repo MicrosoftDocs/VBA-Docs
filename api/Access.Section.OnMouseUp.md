@@ -8,6 +8,7 @@ api_name:
 - Access.Section.OnMouseUp
 ms.assetid: 446e5d0b-015c-ced1-e600-9d2e1289515e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

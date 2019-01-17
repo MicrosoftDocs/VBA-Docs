@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObject.LostFocus
 ms.assetid: 9d8004be-97f5-54d2-3826-210f7cf0569f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

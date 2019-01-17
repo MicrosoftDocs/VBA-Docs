@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObjects.Width
 ms.assetid: 5749e573-6b07-8ac9-661a-dc5966349c01
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

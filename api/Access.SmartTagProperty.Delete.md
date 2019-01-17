@@ -8,6 +8,7 @@ api_name:
 - Access.SmartTagProperty.Delete
 ms.assetid: aa277039-6a8d-c50d-8b9b-6cbb50b82f31
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

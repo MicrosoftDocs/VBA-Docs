@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.BulletFormat.Application
 ms.assetid: 2906869e-ee3e-8a0e-9532-1bbe5cd60fef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

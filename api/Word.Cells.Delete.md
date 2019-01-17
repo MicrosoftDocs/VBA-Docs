@@ -8,6 +8,7 @@ api_name:
 - Word.Cells.Delete
 ms.assetid: 891c21b7-ef8d-9ba1-9408-6560dac146c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

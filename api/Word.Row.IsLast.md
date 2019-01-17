@@ -8,6 +8,7 @@ api_name:
 - Word.Row.IsLast
 ms.assetid: f3520ca6-ddd1-eb5c-1243-27e47559d8e7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

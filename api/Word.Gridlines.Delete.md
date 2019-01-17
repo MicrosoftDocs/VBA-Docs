@@ -8,6 +8,7 @@ api_name:
 - Word.Gridlines.Delete
 ms.assetid: c6a37871-ae57-d6e9-4a23-e888771d049f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

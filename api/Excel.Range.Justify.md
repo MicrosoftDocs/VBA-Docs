@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Justify
 ms.assetid: f8b4d48b-8cbb-977a-fd44-d354661182d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

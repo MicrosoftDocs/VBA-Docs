@@ -8,6 +8,7 @@ api_name:
 - Access.Printer.DeviceName
 ms.assetid: bf4acead-26b9-603d-2ead-537822913405
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

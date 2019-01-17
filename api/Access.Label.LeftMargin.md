@@ -8,6 +8,7 @@ api_name:
 - Access.Label.LeftMargin
 ms.assetid: 7eca4de7-fad8-19f5-c3d2-115cd617755d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Label.BottomPadding
 ms.assetid: 20bdaece-cb1d-3da5-1866-4a8710fd41be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

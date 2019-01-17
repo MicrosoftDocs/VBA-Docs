@@ -8,6 +8,7 @@ api_name:
 - Excel.ODBCConnection.ServerCredentialsMethod
 ms.assetid: 66ad13e8-fba6-d60e-ab62-0c24e868b0d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

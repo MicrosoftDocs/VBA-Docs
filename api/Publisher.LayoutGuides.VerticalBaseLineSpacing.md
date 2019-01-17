@@ -8,6 +8,7 @@ api_name:
 - Publisher.LayoutGuides.VerticalBaseLineSpacing
 ms.assetid: 49391fbd-86c0-b53f-ff57-009af9341e74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

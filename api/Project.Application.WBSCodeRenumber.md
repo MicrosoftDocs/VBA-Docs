@@ -8,6 +8,7 @@ api_name:
 - Project.Application.WBSCodeRenumber
 ms.assetid: c71f6dd3-5ea5-de60-7cd5-09134fa5a278
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

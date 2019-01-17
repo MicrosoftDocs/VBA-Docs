@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.PurgeUndo
 ms.assetid: 8f1ed9a6-1e1e-0059-d0df-1b628e0f45ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

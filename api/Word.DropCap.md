@@ -8,6 +8,7 @@ api_name:
 - Word.DropCap
 ms.assetid: 79daea90-657b-43db-34e3-08f7aed74591
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

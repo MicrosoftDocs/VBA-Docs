@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.Paste
 ms.assetid: 73dd3b44-1288-26d1-4956-93f187d71886
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

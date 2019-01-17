@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentProperty.Parent
 ms.assetid: 4d6e4c41-09d2-7e0b-c35b-fde629c53c46
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

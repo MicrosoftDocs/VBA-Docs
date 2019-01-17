@@ -3,6 +3,7 @@ title: Model.DataModelConnection property (Excel)
 ms.prod: excel
 ms.assetid: 07143535-fb4f-6c66-a31c-c0613ce4c3cd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

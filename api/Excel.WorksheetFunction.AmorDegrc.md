@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.AmorDegrc
 ms.assetid: 1abf060a-e68f-1155-28c3-3d257fd4fbcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Could not update; currently locked by user <name> on machine <name>. (Err
 ms.prod: access
 ms.assetid: e316600b-9904-1bf0-779e-af84e185474f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Documents object (Word)
 ms.prod: word
 ms.assetid: fc4ac973-19c1-703a-5538-f4426b8b7564
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.HyperlinkAddress
 ms.assetid: 4696efa1-b42b-eb4b-77eb-f0df10c9d131
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DocumentWindow.Selection
 ms.assetid: 0cd670b2-53a5-87d7-8b38-761920dd9758
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

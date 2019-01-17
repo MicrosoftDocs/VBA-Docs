@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ForeShade
 ms.assetid: 7bf41b29-6f65-d82d-bea7-1f988381c946
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

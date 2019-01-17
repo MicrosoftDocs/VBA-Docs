@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.RowSourceType
 ms.assetid: dd1d6ea8-5479-4bf9-3317-0b95282c7d74
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.MousePointer
 ms.assetid: ae574d87-e218-4d03-d423-0192768e82dc
 ms.date: 11/16/2018
+localization_priority: Normal
 ---
 
 

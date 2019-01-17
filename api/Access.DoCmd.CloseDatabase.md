@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.CloseDatabase
 ms.assetid: 0150a029-176c-7385-71ee-0d76d6fb9ca3
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

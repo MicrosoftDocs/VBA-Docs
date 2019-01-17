@@ -8,6 +8,7 @@ api_name:
 - Word.Rectangle.Creator
 ms.assetid: 7e98193d-e9a5-ab8a-93f4-d2703e93d118
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

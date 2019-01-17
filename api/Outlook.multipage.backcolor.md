@@ -3,6 +3,7 @@ title: MultiPage.BackColor Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 10c54c57-7833-003b-e773-d1aa331d3eae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

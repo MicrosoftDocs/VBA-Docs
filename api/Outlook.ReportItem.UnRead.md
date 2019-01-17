@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.UnRead
 ms.assetid: 368ee0bb-4167-2499-4a83-4b4a4320eae0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

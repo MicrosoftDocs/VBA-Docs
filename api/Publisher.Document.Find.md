@@ -8,6 +8,7 @@ api_name:
 - Publisher.Document.Find
 ms.assetid: e9b31937-4504-79b5-5913-b2ef0a23f2a7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

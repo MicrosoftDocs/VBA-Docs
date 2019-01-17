@@ -8,6 +8,7 @@ api_name:
 - Excel.ErrorCheckingOptions
 ms.assetid: f62d3b08-a08f-d028-8e33-4bfd8799dc44
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

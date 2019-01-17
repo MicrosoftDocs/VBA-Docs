@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.VBAEnabled
 ms.assetid: fd4aa300-2117-aa66-54da-3be7be920287
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

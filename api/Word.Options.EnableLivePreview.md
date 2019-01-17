@@ -8,6 +8,7 @@ api_name:
 - Word.Options.EnableLivePreview
 ms.assetid: 69f39766-e5b8-bdd6-d05e-28d42b3bb6fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

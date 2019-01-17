@@ -8,6 +8,7 @@ api_name:
 - Excel.UsedObjects.Parent
 ms.assetid: 7b8dfc08-0103-a1fa-e295-314268cfa2ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Color.Red
 ms.assetid: aeb7a499-710d-de11-37c6-673aac54f27d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PurgeChangeHistoryNow
 ms.assetid: 7ea42af1-051b-400d-cb87-0736c49d74fb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

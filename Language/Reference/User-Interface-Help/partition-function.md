@@ -1,12 +1,11 @@
-
-|_stop_|Required. Whole number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|---
+---
 title: Partition function (Visual Basic for Applications)
 keywords: vblr6.chm1010095
 f1_keywords:
 - vblr6.chm1010095
 ms.prod: office
 ms.assetid: a9565bfc-640f-4550-455f-7d50d110df43
-ms.date: 12/13/2018
+ms.date: 01/14/2019
 ---
 
 
@@ -25,9 +24,9 @@ The **Partition** function syntax has these [named arguments](../../Glossary/vbe
 |Part|Description|
 |:-----|:-----|
 |_number_|Required. The number that you want to evaluate against the ranges.|
-|_start_|Required. The number that is the start of the overall range of numbers. The number can't be less than 0. Decimals will be rounded off.|
-|_stop_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_. Decimals will be rounded off.|
-|_interval_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
+|_start_|Required. The number that is the start of the overall range of numbers. The number can't be less than 0.|
+|_stop_|Required. The number that is the end of the overall range of numbers. The number can't be equal to or less than _start_.|
+|_interval_|Required. The number that is the difference between one range and the next. The number can't be less than 1.|
 
 ## Remarks
 
@@ -49,7 +48,7 @@ If necessary, **Partition** returns a range with enough leading spaces so that t
 
 If _interval_ is 1, the range is _number:number_, regardless of the _start_ and _stop_ arguments. For example, if _interval_ is 1, _number_ is 100 and _stop_ is 1000, **Partition** returns " 100: 100".
 
-Any of arguments can be a decimal value, but it will be rounded to the nearest even integer before processing.
+Any argument can be a decimal value, but it will be rounded to the nearest even integer before processing.
 If any of the arguments is [Null](../../Glossary/vbe-glossary.md#null), **Partition** returns a **Null**.
 
 ## Example

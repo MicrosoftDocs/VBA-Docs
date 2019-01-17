@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FreeformBuilder
 ms.assetid: fa188c8b-0781-dc9d-dd8d-3fc24c02d086
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

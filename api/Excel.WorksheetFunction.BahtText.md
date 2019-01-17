@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.BahtText
 ms.assetid: a4c4d70f-4ac9-e90f-2ec2-9cab9e36fa84
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

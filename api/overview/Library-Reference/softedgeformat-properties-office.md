@@ -3,6 +3,7 @@ title: SoftEdgeFormat Properties (Office)
 ms.prod: office
 ms.assetid: 2478ff50-ab3c-4e58-944a-9a00e79ed805
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

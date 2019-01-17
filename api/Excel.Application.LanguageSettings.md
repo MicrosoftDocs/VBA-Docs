@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.LanguageSettings
 ms.assetid: 631879d9-f43f-4985-32d0-77bf314956eb
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

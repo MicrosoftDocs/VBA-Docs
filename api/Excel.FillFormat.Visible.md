@@ -8,6 +8,7 @@ api_name:
 - Excel.FillFormat.Visible
 ms.assetid: fbe348c5-18a9-4a67-096a-6e6d9f6253c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

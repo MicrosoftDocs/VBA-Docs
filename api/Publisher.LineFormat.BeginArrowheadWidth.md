@@ -8,6 +8,7 @@ api_name:
 - Publisher.LineFormat.BeginArrowheadWidth
 ms.assetid: a752c674-1b83-b8c8-d325-b61804f5fadc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

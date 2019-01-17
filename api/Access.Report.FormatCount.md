@@ -8,6 +8,7 @@ api_name:
 - Access.Report.FormatCount
 ms.assetid: 35fbc0fb-a106-11d6-26db-99d6f0b969a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

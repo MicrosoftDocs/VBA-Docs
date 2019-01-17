@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.Assistance
 ms.assetid: d2ac6782-7b80-8760-b7a1-27503182c85a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

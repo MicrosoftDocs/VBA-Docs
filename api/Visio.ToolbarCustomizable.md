@@ -5,6 +5,7 @@ api_name:
 - Visio.ToolbarCustomizable
 ms.assetid: d49d690c-7c6d-0fab-4295-9540708eaf5c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

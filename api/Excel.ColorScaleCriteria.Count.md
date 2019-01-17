@@ -8,6 +8,7 @@ api_name:
 - Excel.ColorScaleCriteria.Count
 ms.assetid: 2ebfccab-0aa8-5f7e-7e66-9a01ecff082b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Section.DblClick
 ms.assetid: 6523062c-887d-de9a-a17b-b47768eb5ad0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

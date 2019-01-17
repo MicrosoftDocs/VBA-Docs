@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Master.Height
 ms.assetid: 758cfe5a-c42c-73af-b3ed-56149275ceaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.OMathBorderBox.Creator
 ms.assetid: 816122c9-fa58-b3a4-ff25-74e0ad6b7015
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

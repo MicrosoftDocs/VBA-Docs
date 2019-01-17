@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Click
 ms.assetid: 37bd4936-2f66-b434-ae54-5f76dd943c4c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

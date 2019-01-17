@@ -8,6 +8,7 @@ api_name:
 - Word.UndoRecord.Creator
 ms.assetid: 8397c8ee-37d4-ec13-161a-4bd941226e2c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

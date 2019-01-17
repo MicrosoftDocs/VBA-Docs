@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.StartIsActive
 ms.assetid: 734e5368-dd6e-d84a-b445-30540948ac7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

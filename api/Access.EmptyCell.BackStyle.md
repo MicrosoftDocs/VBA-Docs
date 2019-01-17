@@ -8,6 +8,7 @@ api_name:
 - Access.EmptyCell.BackStyle
 ms.assetid: 8ee86ae2-c554-8825-0faf-b3f5056fba0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

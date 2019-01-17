@@ -5,6 +5,7 @@ api_name:
 - Excel.xlArrowHeadStyle
 ms.assetid: 6666eb13-9c4f-298c-4297-11f618edfdf3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

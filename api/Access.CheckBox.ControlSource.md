@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.ControlSource
 ms.assetid: 167d8da3-0489-ca23-2821-e455b8ac2d53
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

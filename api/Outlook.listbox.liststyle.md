@@ -3,6 +3,7 @@ title: ListBox.ListStyle Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 4abbd557-b80f-e940-873f-8527e30b4a2e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

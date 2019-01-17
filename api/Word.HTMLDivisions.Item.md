@@ -8,6 +8,7 @@ api_name:
 - Word.HTMLDivisions.Item
 ms.assetid: 9eaeb45e-0165-4ca5-5fa7-51057301e27d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

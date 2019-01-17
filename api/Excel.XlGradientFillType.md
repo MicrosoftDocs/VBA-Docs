@@ -5,6 +5,7 @@ api_name:
 - Excel.XlGradientFillType
 ms.assetid: d202a447-723e-5435-13ae-403fecb89507
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

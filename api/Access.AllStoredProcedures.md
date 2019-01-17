@@ -8,6 +8,7 @@ api_name:
 - Access.AllStoredProcedures
 ms.assetid: 896f4c2c-273c-2849-0f06-d75fa515c44a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

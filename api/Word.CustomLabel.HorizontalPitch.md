@@ -8,6 +8,7 @@ api_name:
 - Word.CustomLabel.HorizontalPitch
 ms.assetid: 87d0ba81-3298-ffe2-71d3-eef2301e1484
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

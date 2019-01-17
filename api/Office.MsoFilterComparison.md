@@ -5,6 +5,7 @@ api_name:
 - Office.MsoFilterComparison
 ms.assetid: 12650101-777b-2142-e985-cc34d5e2fb16
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

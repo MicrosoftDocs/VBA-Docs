@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebNavigationBarSet.AddToEveryPage
 ms.assetid: d36a3281-a313-084c-0ae9-7a981a7d9713
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

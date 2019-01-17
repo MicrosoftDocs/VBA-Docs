@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.DisplayAsHyperlink
 ms.assetid: 4741039e-9985-ac0a-9b74-309fcac860bf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

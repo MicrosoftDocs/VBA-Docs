@@ -3,6 +3,7 @@ title: PickerResults members (Office)
 ms.prod: office
 ms.assetid: 6b6ec287-4d88-cc7d-7cfa-f641b1481bbe
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

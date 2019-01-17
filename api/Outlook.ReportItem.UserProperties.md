@@ -8,6 +8,7 @@ api_name:
 - Outlook.ReportItem.UserProperties
 ms.assetid: a42224a1-ab82-7533-2c75-882f99f49e8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

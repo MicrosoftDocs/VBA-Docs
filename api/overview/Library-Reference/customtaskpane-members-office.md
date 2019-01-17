@@ -3,6 +3,7 @@ title: CustomTaskPane members (Office)
 ms.prod: office
 ms.assetid: 858cc1d3-6fe8-5fa2-5a1c-416255227de8
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

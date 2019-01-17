@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Text
 ms.assetid: e38c15b1-5941-0a28-1acf-328bc214a2e0
 ms.date: 08/24/2018
+localization_priority: Priority
 ---
 
 

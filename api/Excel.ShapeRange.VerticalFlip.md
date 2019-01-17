@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.VerticalFlip
 ms.assetid: 43ecbc06-a16b-821f-b7c9-c66fcfad7a79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

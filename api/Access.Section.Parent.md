@@ -8,6 +8,7 @@ api_name:
 - Access.Section.Parent
 ms.assetid: ee464bb6-9bf7-15d2-df96-214a4955891b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

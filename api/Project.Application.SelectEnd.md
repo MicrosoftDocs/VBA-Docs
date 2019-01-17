@@ -8,6 +8,7 @@ api_name:
 - Project.Application.SelectEnd
 ms.assetid: c1d050e7-739d-8a4f-01da-b8c093836733
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

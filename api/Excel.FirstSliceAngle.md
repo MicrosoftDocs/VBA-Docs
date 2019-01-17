@@ -8,6 +8,7 @@ api_name:
 - Excel.FirstSliceAngle
 ms.assetid: 53f1fa5e-71d5-bf71-0fec-5f7be85b02d2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

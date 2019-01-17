@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.Change
 ms.assetid: 5b34517d-f3a8-a10d-1bc3-ed3bc8ecc484
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

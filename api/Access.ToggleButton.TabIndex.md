@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.TabIndex
 ms.assetid: 1712e879-20da-8797-e94d-ee68b0d23c59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

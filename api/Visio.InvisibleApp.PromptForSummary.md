@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.PromptForSummary
 ms.assetid: 932d890d-0c45-fe74-57f8-03662b9c9def
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

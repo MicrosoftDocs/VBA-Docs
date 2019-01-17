@@ -8,6 +8,7 @@ api_name:
 - Excel.QueryTable.WebDisableRedirections
 ms.assetid: 36aec986-de9c-2c7e-a07c-ae77d75d4c7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.CalloutFormat.Parent
 ms.assetid: 28daee90-306f-3311-236f-69ecc8679342
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

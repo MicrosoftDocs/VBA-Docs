@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.ShowNewItemRow
 ms.assetid: 2e389bb6-9d1f-6c9d-0cdc-b177705d620b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

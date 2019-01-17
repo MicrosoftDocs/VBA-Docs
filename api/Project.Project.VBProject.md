@@ -8,6 +8,7 @@ api_name:
 - Project.Project.VBProject
 ms.assetid: d4d7c4d9-28a7-df4f-1bef-21afd41bee5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

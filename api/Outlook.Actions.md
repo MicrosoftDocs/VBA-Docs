@@ -8,6 +8,7 @@ api_name:
 - Outlook.Actions
 ms.assetid: b0903aa4-9b75-5311-d0a5-5ff4a5e29c79
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

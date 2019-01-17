@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.Walls
 ms.assetid: f45ae75a-c96c-4441-af81-aedf23787194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

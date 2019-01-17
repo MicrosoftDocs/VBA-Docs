@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.IsChanged
 ms.assetid: 8e557655-3e16-3e96-99a2-b097fa6abd75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

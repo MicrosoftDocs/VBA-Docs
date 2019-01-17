@@ -8,6 +8,7 @@ api_name:
 - Visio.VisLayoutIncrementalType
 ms.assetid: 341c24dc-6a19-89f3-aac0-e2a4345a54b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

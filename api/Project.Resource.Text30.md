@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Text30
 ms.assetid: 1f2f3835-133c-15ba-b932-d8d957020c11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

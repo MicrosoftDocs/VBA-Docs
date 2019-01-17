@@ -5,6 +5,7 @@ api_name:
 - Project.PjCalendarBarType
 ms.assetid: 7e43f537-fd96-9f3d-1f3b-9c444bf7b672
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

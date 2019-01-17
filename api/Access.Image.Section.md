@@ -8,6 +8,7 @@ api_name:
 - Access.Image.Section
 ms.assetid: 994f5290-e92c-da14-2b85-194681b56d40
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

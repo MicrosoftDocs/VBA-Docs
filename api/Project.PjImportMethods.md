@@ -5,6 +5,7 @@ api_name:
 - Project.PjImportMethods
 ms.assetid: 9e2787b4-48c3-7257-d737-8eae6abca873
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

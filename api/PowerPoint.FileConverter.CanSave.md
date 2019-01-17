@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FileConverter.CanSave
 ms.assetid: 64e1f21f-786e-8003-f99e-0dcb093af9d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

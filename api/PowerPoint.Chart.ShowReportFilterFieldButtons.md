@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.ShowReportFilterFieldButtons
 ms.assetid: a254a18b-466a-bee4-772e-3352dc27249b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

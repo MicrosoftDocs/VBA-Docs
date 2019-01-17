@@ -5,6 +5,7 @@ f1_keywords:
 - vblr6.chm1103511
 ms.prod: office
 ms.date: 11/26/2018
+localization_priority: Priority
 ---
 
 # Menus and commands

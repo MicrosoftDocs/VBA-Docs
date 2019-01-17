@@ -8,6 +8,7 @@ api_name:
 - Word.Document.OMathBreakSub
 ms.assetid: a361f255-1392-eddc-7771-98e9db7c291a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

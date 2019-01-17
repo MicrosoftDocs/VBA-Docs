@@ -3,6 +3,7 @@ title: xlChartSplitType enumeration (Word)
 ms.prod: word
 ms.assetid: 8305530b-c62d-acaf-9b74-8c67797e2339
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

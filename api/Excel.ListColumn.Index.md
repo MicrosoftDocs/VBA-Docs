@@ -8,6 +8,7 @@ api_name:
 - Excel.ListColumn.Index
 ms.assetid: 11e15859-c690-84c0-21de-73834d8738e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

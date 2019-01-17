@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.SortUsingCustomLists
 ms.assetid: ff7a8a4d-9d64-f6dd-c373-e979d016f741
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

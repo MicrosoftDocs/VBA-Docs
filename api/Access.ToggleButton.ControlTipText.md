@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.ControlTipText
 ms.assetid: b15ebb7a-70cd-1a0c-cdfc-17cbd965e8f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

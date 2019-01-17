@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.ClearToMatchStyle
 ms.assetid: 33ea5fc1-9a71-a8d6-e714-91ff69c506b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

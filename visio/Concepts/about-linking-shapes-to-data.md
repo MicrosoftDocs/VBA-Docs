@@ -3,6 +3,7 @@ title: About Linking Shapes to Data
 ms.prod: visio
 ms.assetid: 4664d0d8-ff3e-68d5-6c43-0019a53d63fd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

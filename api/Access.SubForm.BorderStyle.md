@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.BorderStyle
 ms.assetid: d3d2c05c-1e19-44ec-98d6-13cdb026b4d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

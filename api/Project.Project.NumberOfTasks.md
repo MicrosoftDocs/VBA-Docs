@@ -5,6 +5,7 @@ api_name:
 - Project.Project.NumberOfTasks
 ms.assetid: 24cd76f8-0817-2aee-92d0-15beec504257
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

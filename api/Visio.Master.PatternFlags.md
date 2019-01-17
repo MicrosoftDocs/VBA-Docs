@@ -8,6 +8,7 @@ api_name:
 - Visio.Master.PatternFlags
 ms.assetid: cf7d5e0e-802e-c65b-6260-eaf68dfe6eb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

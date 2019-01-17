@@ -8,6 +8,7 @@ api_name:
 - Outlook.ExchangeUser.PropertyAccessor
 ms.assetid: d1427525-8f6a-04a2-9cfa-b91ee0a89ec2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

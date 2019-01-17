@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.ControlType
 ms.assetid: ec0e53ef-2c44-b8d4-1711-1c13f92783c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

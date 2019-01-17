@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.SaveAs
 ms.assetid: b18fae0e-b8be-9846-2f97-15b25f5f053b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

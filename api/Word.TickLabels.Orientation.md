@@ -8,6 +8,7 @@ api_name:
 - Word.TickLabels.Orientation
 ms.assetid: d6c8663d-5d71-d873-e2da-68eb8fa7909c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

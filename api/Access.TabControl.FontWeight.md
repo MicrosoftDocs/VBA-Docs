@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.FontWeight
 ms.assetid: a06b1dc4-9c0d-b19f-1fcc-396aa6e25932
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

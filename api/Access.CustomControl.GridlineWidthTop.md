@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.GridlineWidthTop
 ms.assetid: 9cecf573-f2d5-5e5e-e507-1920ede22d0b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

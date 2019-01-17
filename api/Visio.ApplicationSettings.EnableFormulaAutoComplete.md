@@ -8,6 +8,7 @@ api_name:
 - Visio.ApplicationSettings.EnableFormulaAutoComplete
 ms.assetid: c5860206-378b-1d21-54cc-4fb939daf5ef
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

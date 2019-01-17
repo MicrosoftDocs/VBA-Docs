@@ -8,6 +8,7 @@ api_name:
 - Word.ProofreadingErrors.Parent
 ms.assetid: cd2e17c6-77db-a92f-4179-0d31a54c8b0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

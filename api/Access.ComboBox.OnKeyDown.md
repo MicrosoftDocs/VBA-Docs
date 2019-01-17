@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.OnKeyDown
 ms.assetid: 49921f2f-abab-692f-52ca-bbdf2ce04ae3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

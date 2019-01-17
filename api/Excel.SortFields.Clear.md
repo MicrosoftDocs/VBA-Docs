@@ -8,6 +8,7 @@ api_name:
 - Excel.SortFields.Clear
 ms.assetid: de70763b-0cad-ed83-8c16-1eaa9d31627f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

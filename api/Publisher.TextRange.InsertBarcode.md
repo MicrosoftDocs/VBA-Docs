@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.InsertBarcode
 ms.assetid: ad613ca7-f056-55b0-1a96-51167555ce6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

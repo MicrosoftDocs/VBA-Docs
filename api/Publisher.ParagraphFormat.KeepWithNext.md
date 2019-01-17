@@ -8,6 +8,7 @@ api_name:
 - Publisher.ParagraphFormat.KeepWithNext
 ms.assetid: fb49169d-4718-8ee6-6468-b7cbc8b8a774
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

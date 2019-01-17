@@ -8,6 +8,7 @@ api_name:
 - Publisher.DropCap.Clear
 ms.assetid: 7c30e774-c520-076a-41d8-7c68679f58bc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

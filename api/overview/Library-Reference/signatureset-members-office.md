@@ -4,6 +4,7 @@ description: A collection of Signature objects that correspond to the digital si
 ms.prod: office
 ms.assetid: abe810a3-ffe4-ee26-8df7-d68cfbf3bf1e
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

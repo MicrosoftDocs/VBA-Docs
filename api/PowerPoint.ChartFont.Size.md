@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartFont.Size
 ms.assetid: 752f7440-3540-5720-5597-b5aa36c52447
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

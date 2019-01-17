@@ -5,6 +5,7 @@ api_name:
 - Outlook.ContactItem.BeforeAttachmentRead
 ms.assetid: ba862dea-f2e1-a864-f6c3-a8987c28bfcf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

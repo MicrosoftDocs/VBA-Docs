@@ -8,6 +8,7 @@ api_name:
 - Excel.ServerViewableItems.Item
 ms.assetid: ea1a01ef-7b2f-485d-2526-0b1025a9b9fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PictureType
 ms.assetid: 8d331b09-745e-863d-a32c-77a9f1448b85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

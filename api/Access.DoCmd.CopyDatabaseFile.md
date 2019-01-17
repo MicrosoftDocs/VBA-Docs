@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.CopyDatabaseFile
 ms.assetid: 15a820d9-fbcb-d803-d58a-5718924e6c73
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

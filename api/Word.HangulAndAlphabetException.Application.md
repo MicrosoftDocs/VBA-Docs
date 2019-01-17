@@ -8,6 +8,7 @@ api_name:
 - Word.HangulAndAlphabetException.Application
 ms.assetid: b57a9afa-2340-016a-f108-9cc4a76259c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.AddIn.progID
 ms.assetid: a1c1da74-119a-514e-cb5e-77981299b84d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

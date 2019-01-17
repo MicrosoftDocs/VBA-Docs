@@ -8,6 +8,7 @@ api_name:
 - Word.Pane.Previous
 ms.assetid: f1e56223-29de-f3ca-ed33-99ff8aefea0a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

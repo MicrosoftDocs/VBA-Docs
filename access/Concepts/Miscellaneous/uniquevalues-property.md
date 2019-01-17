@@ -9,6 +9,7 @@ api_name:
 - Access.UniqueValues
 ms.assetid: 41e403b9-a94a-252c-7561-51ac2df4cf0c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

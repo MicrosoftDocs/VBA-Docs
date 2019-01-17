@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.Session
 ms.assetid: b446d857-4f41-085f-7303-3e5050e33bba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

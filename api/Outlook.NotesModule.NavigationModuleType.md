@@ -8,6 +8,7 @@ api_name:
 - Outlook.NotesModule.NavigationModuleType
 ms.assetid: a22b7348-a2ed-76c4-f05b-e93e93cffce8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

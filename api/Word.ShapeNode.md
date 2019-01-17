@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeNode
 ms.assetid: d5afb71a-a218-57f3-87f0-171094ba6610
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

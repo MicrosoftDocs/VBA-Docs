@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.BeforeWindowSelDelete
 ms.assetid: 450bd22a-ceef-dcf4-90c0-b7511c3506dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

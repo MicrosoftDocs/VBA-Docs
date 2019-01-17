@@ -8,6 +8,7 @@ api_name:
 - Access.Control.Move
 ms.assetid: fd52e497-642f-72a9-af64-971d8c888e71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

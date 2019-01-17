@@ -8,6 +8,7 @@ api_name:
 - Publisher.ThreeDFormat.SetExtrusionDirection
 ms.assetid: ac01d31d-7775-8e33-3b68-6e53f952fdda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

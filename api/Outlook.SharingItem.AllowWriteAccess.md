@@ -8,6 +8,7 @@ api_name:
 - Outlook.SharingItem.AllowWriteAccess
 ms.assetid: 538c9681-d164-52ff-eb8b-4ae0c6875247
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

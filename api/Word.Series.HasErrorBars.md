@@ -8,6 +8,7 @@ api_name:
 - Word.Series.HasErrorBars
 ms.assetid: c41f951a-c483-249e-1384-02b6180d5835
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

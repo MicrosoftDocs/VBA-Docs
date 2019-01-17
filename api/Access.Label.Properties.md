@@ -8,6 +8,7 @@ api_name:
 - Access.Label.Properties
 ms.assetid: 3ceb7031-13cd-f01f-b148-a698fe1926de
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

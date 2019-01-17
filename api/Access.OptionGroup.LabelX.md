@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.LabelX
 ms.assetid: 2fe79f1a-fd28-32e6-3d22-c0187e1818a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Printers.Item
 ms.assetid: ffd005a4-bf9f-906f-5250-d915834d32b1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

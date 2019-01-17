@@ -8,6 +8,7 @@ api_name:
 - Excel.ListRow.Range
 ms.assetid: 261b507a-91d7-9075-1d4d-b85d6d455ee0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Range.GetSpellingSuggestions
 ms.assetid: 5ab65e3e-65d8-4e49-2874-609b1974888e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

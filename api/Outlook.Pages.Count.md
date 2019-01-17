@@ -8,6 +8,7 @@ api_name:
 - Outlook.Pages.Count
 ms.assetid: f10f8e83-81b5-0c08-1cac-4754d8b43fa9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

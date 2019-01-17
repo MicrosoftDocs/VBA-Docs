@@ -8,6 +8,7 @@ api_name:
 - Word.ConditionalStyle.TopPadding
 ms.assetid: ce74444c-6661-694c-7dd6-c3ade6e4d2b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

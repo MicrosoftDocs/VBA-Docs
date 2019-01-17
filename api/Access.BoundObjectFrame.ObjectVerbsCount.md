@@ -8,6 +8,7 @@ api_name:
 - Access.BoundObjectFrame.ObjectVerbsCount
 ms.assetid: 518eff16-aef0-9e3e-2e03-af036117a152
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

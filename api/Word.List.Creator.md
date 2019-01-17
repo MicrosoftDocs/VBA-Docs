@@ -8,6 +8,7 @@ api_name:
 - Word.List.Creator
 ms.assetid: abcf7f1f-8332-29ed-599f-b986a4196f67
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

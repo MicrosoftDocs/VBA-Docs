@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.SaveAs
 ms.assetid: 21e2a786-1df2-21ea-f32f-81e07dc2261c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Gridlines.Parent
 ms.assetid: 78d616e6-0eb1-3a9a-31b0-ce368df620a2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

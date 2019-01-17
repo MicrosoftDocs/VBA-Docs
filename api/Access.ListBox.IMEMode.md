@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.IMEMode
 ms.assetid: 82f9dc6e-7132-d98c-7c5f-6ed2f0b1e552
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.TransferSpreadsheet
 ms.assetid: 0349d8e0-9363-0eda-4efb-a73c9e643823
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

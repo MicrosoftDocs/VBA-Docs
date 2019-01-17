@@ -8,6 +8,7 @@ api_name:
 - Word.Application.PicasToPoints
 ms.assetid: ef812e9a-4bf5-b457-afa2-06371b411605
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Project.Project.Views
 ms.assetid: 12a4c68a-f5bc-0754-bc7f-a5581e3aa200
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

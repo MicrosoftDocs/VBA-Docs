@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.HoverShade
 ms.assetid: ac2c1525-0b58-a003-5c18-0b80da574219
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

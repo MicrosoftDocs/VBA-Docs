@@ -8,6 +8,7 @@ api_name:
 - Access.AllViews.Parent
 ms.assetid: 1f505dd8-05bf-6efc-e492-83595b39de8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.ValidationRule.NameU
 ms.assetid: ed5f5ba3-5dcc-2d60-45d8-8198292f2aed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

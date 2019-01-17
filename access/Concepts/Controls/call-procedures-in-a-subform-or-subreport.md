@@ -3,6 +3,7 @@ title: Call procedures in a subform or subreport
 ms.prod: access
 ms.assetid: d0128a6c-f85b-fbf0-22cb-bfd4a8eca3c8
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 

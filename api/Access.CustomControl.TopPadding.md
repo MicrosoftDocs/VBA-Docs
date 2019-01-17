@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.TopPadding
 ms.assetid: 77604178-a2b7-9ad9-2a2d-91d60843c31c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

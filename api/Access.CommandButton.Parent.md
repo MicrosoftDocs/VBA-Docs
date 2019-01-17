@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.Parent
 ms.assetid: 288169cc-0934-43b0-a7b4-18445844519b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

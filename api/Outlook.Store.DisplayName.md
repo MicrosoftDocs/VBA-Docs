@@ -8,6 +8,7 @@ api_name:
 - Outlook.Store.DisplayName
 ms.assetid: 785ec583-3553-6002-41b6-d0c6d0028b5a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

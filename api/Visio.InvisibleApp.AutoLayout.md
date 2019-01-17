@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.AutoLayout
 ms.assetid: 46f2a65d-a86c-9750-8879-69081187b061
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

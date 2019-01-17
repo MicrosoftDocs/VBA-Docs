@@ -3,6 +3,7 @@ title: Recordset (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: 28314537-2585-6e29-2014-e7fd8ae78542
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

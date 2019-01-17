@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.FontUnderline
 ms.assetid: d19bccfa-4618-d95e-7467-eee15ba59336
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.FillFormat.TwoColorGradient
 ms.assetid: 29dac3d9-366e-0fd5-0fe3-dc64fa2fc871
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

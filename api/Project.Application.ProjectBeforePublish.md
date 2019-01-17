@@ -5,6 +5,7 @@ api_name:
 - Project.Application.ProjectBeforePublish
 ms.assetid: 5778ec6c-a8c0-0a05-145c-c9ad6132bf87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

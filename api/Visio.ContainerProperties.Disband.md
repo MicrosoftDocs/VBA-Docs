@@ -8,6 +8,7 @@ api_name:
 - Visio.ContainerProperties.Disband
 ms.assetid: eefb5785-643b-44f0-e173-3e855b2a7c30
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

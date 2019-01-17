@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabel.ShowLegendKey
 ms.assetid: b9238117-ad3f-7dd7-bf35-d773bf713535
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

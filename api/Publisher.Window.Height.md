@@ -8,6 +8,7 @@ api_name:
 - Publisher.Window.Height
 ms.assetid: 3d47bb99-bab7-b5aa-c834-04bcd6e8b151
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

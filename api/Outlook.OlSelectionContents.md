@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlSelectionContents
 ms.assetid: bb755f39-ec6b-38e7-5fc3-472ee4af7f85
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

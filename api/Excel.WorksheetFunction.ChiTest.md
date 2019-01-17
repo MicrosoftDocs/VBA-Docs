@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.ChiTest
 ms.assetid: a4447d0d-f1f9-9d09-9ab3-c7974471a9ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

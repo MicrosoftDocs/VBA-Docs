@@ -8,6 +8,7 @@ api_name:
 - Outlook.NavigationFolder.Parent
 ms.assetid: a257247d-1308-fa8b-a07c-33b41c0740ca
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

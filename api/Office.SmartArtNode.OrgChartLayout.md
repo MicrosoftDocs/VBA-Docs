@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArtNode.OrgChartLayout
 ms.assetid: 183879a1-94fe-e102-51ec-66146d002f75
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

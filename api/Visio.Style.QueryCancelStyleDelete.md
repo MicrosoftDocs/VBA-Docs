@@ -8,6 +8,7 @@ api_name:
 - Visio.Style.QueryCancelStyleDelete
 ms.assetid: 3e58ed54-8e8f-f6ca-0bb0-d5f25dc2359f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

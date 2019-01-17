@@ -8,6 +8,7 @@ api_name:
 - Publisher.AdvancedPrintOptions.PrintRegistrationMarks
 ms.assetid: 24928459-0158-b7a9-46c0-c1a6116518d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.Export
 ms.assetid: 4dc7dea6-9be8-ccd4-8198-7726b8fad024
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

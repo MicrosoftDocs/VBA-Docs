@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.Copy
 ms.assetid: c6d41be4-9c8f-a25e-9379-ef24876b6e9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

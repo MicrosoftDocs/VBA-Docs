@@ -8,6 +8,7 @@ api_name:
 - Word.View
 ms.assetid: 8bf5b26b-14c0-1985-65b2-3e034360baeb
 ms.date: 08/15/2017
+localization_priority: Normal
 ---
 
 

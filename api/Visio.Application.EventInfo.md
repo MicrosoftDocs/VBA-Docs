@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.EventInfo
 ms.assetid: 19065ecc-62bb-5bc4-fdfa-452ab6224211
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -4,6 +4,7 @@ description: Chooses the color scheme for the SmartArt diagram.
 ms.prod: office
 ms.assetid: b1a82f2e-ccd5-c98e-36a6-74642bc63e68
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

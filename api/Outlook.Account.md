@@ -8,6 +8,7 @@ api_name:
 - Outlook.Account
 ms.assetid: f624438c-4e45-2822-18b6-bfe8074a33c0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

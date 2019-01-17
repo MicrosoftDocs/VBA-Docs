@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.OnMouseDown
 ms.assetid: cb63a4ea-455c-8b15-70e0-454a51902add
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

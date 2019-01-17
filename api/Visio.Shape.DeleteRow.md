@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.DeleteRow
 ms.assetid: 892ca523-679d-c707-4aba-e43c011cb718
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.RightPadding
 ms.assetid: 16a951da-7b28-7013-9183-b79d903dbad5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

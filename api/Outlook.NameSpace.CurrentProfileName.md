@@ -8,6 +8,7 @@ api_name:
 - Outlook.NameSpace.CurrentProfileName
 ms.assetid: 731df710-cb42-eb68-8fbc-790b74468491
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

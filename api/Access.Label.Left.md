@@ -8,6 +8,7 @@ api_name:
 - Access.Label.Left
 ms.assetid: b27a17e1-daf3-45a0-3e94-790751db7ca9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

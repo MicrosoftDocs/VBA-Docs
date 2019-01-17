@@ -8,6 +8,7 @@ api_name:
 - Visio.ToolbarItem.Delete
 ms.assetid: e6d200b2-1c58-fb8e-e01a-2eed23e86995
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotCache.RobustConnect
 ms.assetid: 354d0124-e178-342b-9565-fa74e9dae5d5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

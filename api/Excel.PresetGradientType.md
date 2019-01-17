@@ -8,6 +8,7 @@ api_name:
 - Excel.PresetGradientType
 ms.assetid: 10ea644f-a856-acd1-45b8-6c1d35d2390a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.EventList
 ms.assetid: dee5994c-d43b-1833-1ea0-17fc24f01d74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

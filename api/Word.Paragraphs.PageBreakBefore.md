@@ -8,6 +8,7 @@ api_name:
 - Word.Paragraphs.PageBreakBefore
 ms.assetid: 573ff2bc-e9df-8a6e-49eb-0773e578969d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

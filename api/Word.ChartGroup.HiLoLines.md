@@ -8,6 +8,7 @@ api_name:
 - Word.ChartGroup.HiLoLines
 ms.assetid: 452f4e5d-7ad8-76ad-5067-2df8a074d6d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

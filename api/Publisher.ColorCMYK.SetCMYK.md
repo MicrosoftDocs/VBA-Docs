@@ -8,6 +8,7 @@ api_name:
 - Publisher.ColorCMYK.SetCMYK
 ms.assetid: 9c7ec18b-73e9-66bc-57f4-cd6d62817630
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

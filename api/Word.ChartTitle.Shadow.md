@@ -8,6 +8,7 @@ api_name:
 - Word.ChartTitle.Shadow
 ms.assetid: 200c4a85-5480-28ca-a64a-93e82ca2d638
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.Vertices
 ms.assetid: 1e27dbd8-2800-fe7f-4769-b6e9a4e802b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

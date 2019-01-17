@@ -3,6 +3,7 @@ title: Shape.ZOrder Method (Project)
 ms.prod: project-server
 ms.assetid: e8badff9-fbe5-b6b8-8c33-68cfde3bef38
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

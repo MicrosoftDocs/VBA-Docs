@@ -8,6 +8,7 @@ api_name:
 - Word.Section.Range
 ms.assetid: aabe43c6-4ace-af98-f773-bc547f289c9d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

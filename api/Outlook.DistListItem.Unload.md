@@ -5,6 +5,7 @@ api_name:
 - Outlook.DistListItem.Unload
 ms.assetid: 252d79cf-7b24-2e84-e056-24a68e6ddef2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

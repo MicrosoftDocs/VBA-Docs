@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Table.TableDirection
 ms.assetid: 3fbb1c4b-6cdb-f97e-7b85-c41897bc5ced
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

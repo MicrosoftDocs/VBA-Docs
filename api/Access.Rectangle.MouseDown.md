@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.MouseDown
 ms.assetid: 10b02033-87d7-53af-2878-d9a0e14e7ec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

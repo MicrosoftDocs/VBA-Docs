@@ -3,6 +3,7 @@ title: No current record. (Error 3021)
 ms.prod: access
 ms.assetid: cd8a24b4-2b53-4a8f-a60b-156a0f9cb1e8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Label.IsVisible
 ms.assetid: 1151d5ad-cdad-f394-f70d-1f41de51930d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Screen.MousePointer
 ms.assetid: e7ee88cf-7eb8-a447-d671-1549cdbcb4fd
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

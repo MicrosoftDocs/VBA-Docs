@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.WrapText
 ms.assetid: 5e61b704-af16-7bad-5eeb-f163e3035513
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

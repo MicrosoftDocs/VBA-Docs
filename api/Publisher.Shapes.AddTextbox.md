@@ -8,6 +8,7 @@ api_name:
 - Publisher.Shapes.AddTextbox
 ms.assetid: 38494902-61d5-2017-819e-248b2b7bc0d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

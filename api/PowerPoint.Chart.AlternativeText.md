@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.AlternativeText
 ms.assetid: bdded8b9-5f6e-dd83-db04-0ce180bd2552
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

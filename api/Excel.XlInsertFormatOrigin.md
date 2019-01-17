@@ -5,6 +5,7 @@ api_name:
 - Excel.XlInsertFormatOrigin
 ms.assetid: 22e192ab-f0da-e680-067c-89e2aa171ff8
 ms.date: 11/09/2018
+localization_priority: Normal
 ---
 
 

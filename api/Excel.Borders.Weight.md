@@ -8,6 +8,7 @@ api_name:
 - Excel.Borders.Weight
 ms.assetid: cdf2d0d2-9c4d-1b07-38fc-3828126c77bf
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

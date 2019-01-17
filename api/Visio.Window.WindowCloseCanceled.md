@@ -8,6 +8,7 @@ api_name:
 - Visio.Window.WindowCloseCanceled
 ms.assetid: bef37fff-5c47-9a61-4b84-ee87912d6478
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

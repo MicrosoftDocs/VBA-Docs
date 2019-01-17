@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ChartGroup.BubbleScale
 ms.assetid: ecc3f3e1-512c-cbd1-094a-337d5f2ba83f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

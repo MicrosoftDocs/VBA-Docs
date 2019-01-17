@@ -8,6 +8,7 @@ api_name:
 - Access.CurrentData.AllViews
 ms.assetid: fab56178-86bd-18fa-8742-1749fd1c7707
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

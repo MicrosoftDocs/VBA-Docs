@@ -8,6 +8,7 @@ api_name:
 - Word.Global.Creator
 ms.assetid: dc5a4706-1610-e186-6139-4018fdee654f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

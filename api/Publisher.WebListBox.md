@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebListBox
 ms.assetid: 0ba881f8-95cf-c536-7fa8-05714348577d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

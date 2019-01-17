@@ -5,6 +5,7 @@ api_name:
 - Excel.xlCalculationInterruptKey
 ms.assetid: 61927318-6d58-0ad3-49ea-0ef50ed7aaa4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

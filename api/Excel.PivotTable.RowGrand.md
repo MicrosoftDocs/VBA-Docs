@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.RowGrand
 ms.assetid: 9d016b8d-4c2b-86a3-bcf1-a9a7356b825d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

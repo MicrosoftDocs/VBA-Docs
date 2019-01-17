@@ -8,6 +8,7 @@ api_name:
 - Word.EmailOptions.TabIndentKey
 ms.assetid: 48b79b45-5bc6-f253-acef-96f80cc68e1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

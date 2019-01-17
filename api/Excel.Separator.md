@@ -8,6 +8,7 @@ api_name:
 - Excel.Separator
 ms.assetid: d83c68fc-5948-a65f-b3bb-09e3a3884163
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

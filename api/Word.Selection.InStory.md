@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.InStory
 ms.assetid: 29dae109-4361-f1ee-eb71-76f57ae186a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

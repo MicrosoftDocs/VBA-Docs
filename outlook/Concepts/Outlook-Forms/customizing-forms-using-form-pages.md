@@ -3,6 +3,7 @@ title: Customizing Forms Using Form Pages
 ms.prod: outlook
 ms.assetid: 3dd315e9-9679-4988-8311-c95c7b5ea1ba
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

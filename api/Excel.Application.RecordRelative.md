@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.RecordRelative
 ms.assetid: 64e634e4-30e2-0794-1120-0960e32fe821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

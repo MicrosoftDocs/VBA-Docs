@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.MouseIcon
 ms.assetid: 13b61207-2078-bfb5-1693-8ca2440ad3c9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

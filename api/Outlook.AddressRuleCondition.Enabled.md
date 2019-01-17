@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressRuleCondition.Enabled
 ms.assetid: 170cd84c-4733-0801-c411-34736e2e1a06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

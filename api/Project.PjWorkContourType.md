@@ -5,6 +5,7 @@ api_name:
 - Project.PjWorkContourType
 ms.assetid: 01e47a56-e13f-97c7-8790-34c24cc7baf7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

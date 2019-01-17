@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.Size
 ms.assetid: 10bd56cc-8bdb-470d-a84f-a809c2b057c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

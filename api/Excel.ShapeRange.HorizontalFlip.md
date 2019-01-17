@@ -8,6 +8,7 @@ api_name:
 - Excel.ShapeRange.HorizontalFlip
 ms.assetid: 3b5f3755-987c-cd48-44a2-8be8bdd886dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

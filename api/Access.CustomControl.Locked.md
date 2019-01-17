@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.Locked
 ms.assetid: e6b42627-6560-2fab-ecb0-e9ff32d3fe4e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

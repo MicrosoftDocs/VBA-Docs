@@ -5,6 +5,7 @@ api_name:
 - Excel.XlCmdType
 ms.assetid: 4339b577-c29c-3c78-8433-df56c35b6633
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

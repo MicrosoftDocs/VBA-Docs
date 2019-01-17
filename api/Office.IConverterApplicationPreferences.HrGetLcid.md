@@ -7,29 +7,28 @@ ms.prod: office
 api_name:
 - Office.IConverterApplicationPreferences.HrGetLcid
 ms.assetid: c1c14c98-ac69-554b-34b9-4d4149adc6e3
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
 # IConverterApplicationPreferences.HrGetLcid method (Office)
 
-This feature is only available in the Open XML Format SDK.
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
 
 
 ## Syntax
 
-_expression_. `HrGetLcid`( `_plcid_` )
+_expression_.**HrGetLcid** (_plcid_)
 
- _expression_ An expression that returns a [IConverterApplicationPreferences](Office.IConverterApplicationPreferences.md) object.
+_expression_ An expression that returns an **[IConverterApplicationPreferences](Office.IConverterApplicationPreferences.md)** object.
 
 
 ## Parameters
 
-
-
-|Name|Required/Optional|Data type|Description|
-|:-----|:-----|:-----|:-----|
-| _plcid_|Required|**[UINT32]**||
+|Name|Required/Optional|Data type|
+|:---|:----------------|:--------|
+| _plcid_|Required|**[UINT32]**|
 
 ## Return value
 
@@ -38,10 +37,4 @@ _expression_. `HrGetLcid`( `_plcid_` )
 
 ## See also
 
-
-[IConverterApplicationPreferences Object](Office.IConverterApplicationPreferences.md)
-
-
-
-[IConverterApplicationPreferences Object Members](./overview/Library-Reference/iconverterapplicationpreferences-members-office.md)
-
+- [IConverterApplicationPreferences object members](overview/Library-Reference/iconverterapplicationpreferences-members-office.md)

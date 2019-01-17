@@ -8,6 +8,7 @@ api_name:
 - Word.Breaks.Application
 ms.assetid: 8eb31cf3-76ed-b6e7-c236-cd23c459d8af
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Excel.PictureFormat.Application
 ms.assetid: afc9ab72-cf23-a4de-1c21-4d4e28bd623b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

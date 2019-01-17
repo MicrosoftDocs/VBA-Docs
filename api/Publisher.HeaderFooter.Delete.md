@@ -8,6 +8,7 @@ api_name:
 - Publisher.HeaderFooter.Delete
 ms.assetid: e656928f-188e-e029-a256-ef703c57d8f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

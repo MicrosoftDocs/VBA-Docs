@@ -8,6 +8,7 @@ api_name:
 - Project.ViewSingle.Filter
 ms.assetid: 43a7443e-dbd8-8139-499b-49af0eeb4ac2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.MajorUnitIsAuto
 ms.assetid: 6eda8012-2ef3-d23b-bace-e2695a5e80f5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

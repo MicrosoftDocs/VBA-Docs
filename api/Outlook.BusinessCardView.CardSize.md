@@ -8,6 +8,7 @@ api_name:
 - Outlook.BusinessCardView.CardSize
 ms.assetid: 0a1cbe6d-cc1a-1701-fe43-8704002b2212
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

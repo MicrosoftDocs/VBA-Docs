@@ -8,6 +8,7 @@ api_name:
 - Word.Border.Visible
 ms.assetid: 7040aa03-17dc-073c-c9db-e4a7cc2e7ef9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

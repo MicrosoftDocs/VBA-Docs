@@ -8,6 +8,7 @@ api_name:
 - Word.Table.UpdateAutoFormat
 ms.assetid: d33f3b59-f05c-d51e-5f43-17d56af6693f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

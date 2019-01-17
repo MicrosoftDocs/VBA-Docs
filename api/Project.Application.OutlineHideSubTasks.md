@@ -8,6 +8,7 @@ api_name:
 - Project.Application.OutlineHideSubTasks
 ms.assetid: 79e79b71-aa4d-eb17-7f27-96d4dd382547
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.SaveAs
 ms.assetid: 1c2c7b68-5239-05f8-4291-d2584fe95194
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

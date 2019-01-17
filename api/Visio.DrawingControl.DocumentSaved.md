@@ -5,6 +5,7 @@ api_name:
 - Visio.DrawingControl.DocumentSaved
 ms.assetid: 762cf670-f0bf-13f7-c6eb-f497e642db52
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

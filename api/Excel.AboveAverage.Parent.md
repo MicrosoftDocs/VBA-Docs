@@ -8,6 +8,7 @@ api_name:
 - Excel.AboveAverage.Parent
 ms.assetid: 75338daa-fe08-b026-1181-9d1df7fc4e98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.SelectionChanged
 ms.assetid: 6b621a79-9e12-ce5a-7cd0-9a2e6643d957
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

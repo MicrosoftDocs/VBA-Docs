@@ -8,6 +8,7 @@ api_name:
 - Word.Application.LoadMasterList
 ms.assetid: f7722058-f097-3b8c-f124-df479e3efde6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

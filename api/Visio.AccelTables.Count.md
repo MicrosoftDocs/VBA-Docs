@@ -8,6 +8,7 @@ api_name:
 - Visio.AccelTables.Count
 ms.assetid: 80507692-b042-cd9c-8a56-da7df12b52ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

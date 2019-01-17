@@ -3,6 +3,7 @@ title: MsoBroadcastState enumeration (Office)
 ms.assetid: 383160db-9f27-b17f-d43c-4d09813d80b4
 ms.date: 06/08/2017
 ms.prod: office
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.EventProcPrefix
 ms.assetid: 86c32c0c-7132-9658-411f-4a0ad91ed7ff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

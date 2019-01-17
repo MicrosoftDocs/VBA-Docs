@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.KeyDown
 ms.assetid: 948985ea-6a7b-ec42-1f09-1ac900962136
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

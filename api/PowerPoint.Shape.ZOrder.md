@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.ZOrder
 ms.assetid: 3317b5c3-611f-7cf8-3ce3-6d09255aa75f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

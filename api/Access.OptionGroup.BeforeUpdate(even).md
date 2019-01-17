@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.BeforeUpdate
 ms.assetid: a497ff9b-d617-df5d-9989-bc420c827575
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

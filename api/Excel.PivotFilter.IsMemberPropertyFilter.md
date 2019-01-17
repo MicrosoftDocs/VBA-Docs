@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotFilter.IsMemberPropertyFilter
 ms.assetid: 94b8055f-c45b-90fe-fd65-418f29e78ff0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

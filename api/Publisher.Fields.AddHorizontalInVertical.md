@@ -8,6 +8,7 @@ api_name:
 - Publisher.Fields.AddHorizontalInVertical
 ms.assetid: 4b451a24-0d79-70d4-4910-2725f1ed0297
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

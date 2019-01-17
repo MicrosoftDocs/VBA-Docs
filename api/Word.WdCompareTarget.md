@@ -5,6 +5,7 @@ api_name:
 - Word.WdCompareTarget
 ms.assetid: a003e09a-039e-40ba-faff-e9922bd74208
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

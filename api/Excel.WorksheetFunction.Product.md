@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Product
 ms.assetid: 8bd10224-d725-860e-dbe0-44995961df3e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

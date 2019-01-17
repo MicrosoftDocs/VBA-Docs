@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeFields.Application
 ms.assetid: f78d387b-e44a-4376-3704-2bc2d55bdb5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

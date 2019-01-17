@@ -5,6 +5,7 @@ api_name:
 - Office.TextRange2.Sentences
 ms.assetid: 236196a7-97b3-f3d5-b483-c42bc60bd9ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Image.Left
 ms.assetid: 76fac9f3-aead-6824-cba3-9246c397148c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

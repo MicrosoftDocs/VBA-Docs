@@ -8,6 +8,7 @@ api_name:
 - Word.OMathGroupChar.CharTop
 ms.assetid: abce1df2-4246-218e-8a80-7341042f9479
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

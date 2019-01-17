@@ -8,6 +8,7 @@ api_name:
 - Access.Control.Column
 ms.assetid: 7e4594a5-113e-9fe0-fb96-04b1ee7e798d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.StylisticSets
 ms.assetid: 0d25fbf3-8d68-c10f-0d1b-526314700329
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

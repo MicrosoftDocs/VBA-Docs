@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.BusinessAddressPostOfficeBox
 ms.assetid: 447b3e5d-7f8f-372f-d5a6-843ba65a72b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Research.Query
 ms.assetid: 21ab6e91-7719-2714-7606-883501aa94eb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

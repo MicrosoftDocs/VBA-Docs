@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Application.VBE
 ms.assetid: 33a3d113-31f6-3705-cdb9-d5e07fa82820
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

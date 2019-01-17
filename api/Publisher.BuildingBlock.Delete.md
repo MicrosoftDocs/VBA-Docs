@@ -8,6 +8,7 @@ api_name:
 - Publisher.BuildingBlock.Delete
 ms.assetid: 1c108953-fdac-3b7c-67e6-2e5ff5133881
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

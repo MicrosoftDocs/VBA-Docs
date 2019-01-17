@@ -5,6 +5,7 @@ api_name:
 - Word.WdFramePosition
 ms.assetid: ff814d0e-0b15-b8e6-854e-a8f67a7568a1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Chart.PlotVisibleOnly
 ms.assetid: 9b5e6024-86e7-2dd3-b1c5-16622b9b90b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

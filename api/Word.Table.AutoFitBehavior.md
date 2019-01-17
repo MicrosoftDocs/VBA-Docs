@@ -8,6 +8,7 @@ api_name:
 - Word.Table.AutoFitBehavior
 ms.assetid: 74e162a5-cde0-bdd3-2ea6-f78fb0ecca5a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

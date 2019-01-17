@@ -8,6 +8,7 @@ api_name:
 - Word.System.System.QuickDrawInstalled
 ms.assetid: e5813f10-a382-4055-eb05-f8d35f7f395a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

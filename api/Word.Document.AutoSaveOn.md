@@ -7,6 +7,7 @@ ms.prod: word
 api_name:
 - Word.Document.AutoSaveOn
 ms.date: 07/28/2017
+localization_priority: Normal
 ---
 
 

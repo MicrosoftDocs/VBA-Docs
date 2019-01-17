@@ -8,6 +8,7 @@ api_name:
 - Publisher.Plates.Parent
 ms.assetid: 203963ed-0993-e73f-90a0-76c33dcdb84c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

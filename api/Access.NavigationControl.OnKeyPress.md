@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.OnKeyPress
 ms.assetid: 5efcc70d-6609-d4b3-509c-063af66195c4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

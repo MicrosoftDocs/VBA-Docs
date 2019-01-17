@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.CustomUI
 ms.assetid: dff5841d-f2cc-c8fd-1b30-ca0145f5c04c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

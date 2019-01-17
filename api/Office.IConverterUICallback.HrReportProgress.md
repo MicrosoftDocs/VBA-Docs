@@ -7,29 +7,28 @@ ms.prod: office
 api_name:
 - Office.IConverterUICallback.HrReportProgress
 ms.assetid: 585f52bc-755a-e360-8220-a97d1b7a697a
-ms.date: 06/08/2017
+ms.date: 01/16/2019
+localization_priority: Normal
 ---
 
 
 # IConverterUICallback.HrReportProgress method (Office)
 
-This feature is only available in the Open XML Format SDK.
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
 
 
 ## Syntax
 
-_expression_. `HrReportProgress`( `_uPercentComplete_` )
+_expression_.**HrReportProgress** (_uPercentComplete_)
 
- _expression_ An expression that returns a [IConverterUICallback](Office.IConverterUICallback.md) object.
+_expression_ An expression that returns an **[IConverterUICallback](Office.IConverterUICallback.md)** object.
 
 
 ## Parameters
 
-
-
-|Name|Required/Optional|Data type|Description|
-|:-----|:-----|:-----|:-----|
-| _uPercentComplete_|Required|**[UINT]**||
+|Name|Required/Optional|Data type|
+|:---|:----------------|:--------|
+| _uPercentComplete_|Required|**[UINT]**|
 
 ## Return value
 
@@ -38,10 +37,4 @@ _expression_. `HrReportProgress`( `_uPercentComplete_` )
 
 ## See also
 
-
-[IConverterUICallback Object](Office.IConverterUICallback.md)
-
-
-
-[IConverterUICallback Object Members](./overview/Library-Reference/iconverteruicallback-members-office.md)
-
+- [IConverterUICallback object members](overview/Library-Reference/iconverteruicallback-members-office.md)

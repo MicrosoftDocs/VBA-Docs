@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.AttachmentCount
 ms.assetid: 30c3bc2b-d6d5-8f83-8154-d451ab3a32ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

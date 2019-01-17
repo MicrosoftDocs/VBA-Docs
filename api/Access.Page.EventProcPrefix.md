@@ -8,6 +8,7 @@ api_name:
 - Access.Page.EventProcPrefix
 ms.assetid: 935843c6-cc50-016d-5569-87263670af99
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

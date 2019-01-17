@@ -5,6 +5,7 @@ api_name:
 - Outlook.ReportItem.BeforeAttachmentAdd
 ms.assetid: c8b45b3b-627c-4851-b743-2612828546b0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

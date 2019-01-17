@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DropContainer
 ms.assetid: 14da134d-6a3f-25c3-37c4-eb8b51c213ab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

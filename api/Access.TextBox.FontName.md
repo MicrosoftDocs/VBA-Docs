@@ -8,6 +8,7 @@ api_name:
 - Access.TextBox.FontName
 ms.assetid: 4eb7cbbe-1e7d-9e29-cbff-867a83605741
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

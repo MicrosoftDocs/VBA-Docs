@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLSchemaCollection.AddCollection
 ms.assetid: d3b49c57-9a5b-9b5b-0003-d09240d227c1
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

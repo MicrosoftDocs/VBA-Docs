@@ -8,6 +8,7 @@ api_name:
 - Project.Application.AutoSaveToGlobal
 ms.assetid: 8b8d0169-a1c1-8771-bc90-503a17e00b26
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

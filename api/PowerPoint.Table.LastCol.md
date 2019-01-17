@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Table.LastCol
 ms.assetid: cf06f919-4092-8a8e-3fed-74456a507dd9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

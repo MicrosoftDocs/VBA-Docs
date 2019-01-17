@@ -3,6 +3,7 @@ title: Ruler2 members (Office)
 ms.prod: office
 ms.assetid: f9cc2d59-b8be-a23b-1b74-6a9552358cf5
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

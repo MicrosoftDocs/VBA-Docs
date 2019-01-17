@@ -8,6 +8,7 @@ api_name:
 - Excel.SlicerItem.Value
 ms.assetid: a4de3b8a-42f5-a958-fff7-afb38674aa3c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

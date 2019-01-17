@@ -7,6 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Range.AutoFilter
 ms.date: 09/26/2018
+localization_priority: Priority
 ---
 
 # Range.AutoFilter method (Excel)

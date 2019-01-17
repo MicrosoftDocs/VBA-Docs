@@ -8,6 +8,7 @@ api_name:
 - Word.Range.InsertParagraphAfter
 ms.assetid: 87c0a373-e066-5e53-7b50-e059a1a81b7b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

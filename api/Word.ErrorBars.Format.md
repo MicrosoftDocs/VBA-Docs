@@ -8,6 +8,7 @@ api_name:
 - Word.ErrorBars.Format
 ms.assetid: 5c897701-361f-c7cc-8552-1ff5799ea90a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

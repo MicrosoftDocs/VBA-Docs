@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.RowCount
 ms.assetid: 358f07c8-f72a-134a-53d8-9b70f2400484
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheet.DisplayRightToLeft
 ms.assetid: 138d361b-d2d0-cf4f-093f-9717dd0f2f6c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

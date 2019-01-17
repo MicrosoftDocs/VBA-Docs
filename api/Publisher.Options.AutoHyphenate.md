@@ -8,6 +8,7 @@ api_name:
 - Publisher.Options.AutoHyphenate
 ms.assetid: 821d0540-80ec-9f9d-777e-4d2596baf7d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

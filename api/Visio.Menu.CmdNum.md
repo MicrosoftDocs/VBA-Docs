@@ -8,6 +8,7 @@ api_name:
 - Visio.Menu.CmdNum
 ms.assetid: 13754873-94bd-3497-829c-374aec3615da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

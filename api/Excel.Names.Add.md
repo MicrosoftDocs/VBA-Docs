@@ -8,6 +8,7 @@ api_name:
 - Excel.Names.Add
 ms.assetid: 89a888bc-20b1-dd63-ede9-b3ba1d5ffab0
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

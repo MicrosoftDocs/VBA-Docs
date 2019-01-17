@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.TransformXYTo
 ms.assetid: dc85cf08-0d83-34ff-8389-94a0f5f05c5e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

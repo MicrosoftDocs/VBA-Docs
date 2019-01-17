@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Even
 ms.assetid: f67f74fd-f3af-69d1-1b42-8295fbdb1ec3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

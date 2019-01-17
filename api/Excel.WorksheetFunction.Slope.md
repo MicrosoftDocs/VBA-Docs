@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Slope
 ms.assetid: 26191331-d4eb-d054-b124-c57ebf4fef13
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Masters.ShapeExitedTextEdit
 ms.assetid: d4237896-734b-5308-d5db-bceef77f6b57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

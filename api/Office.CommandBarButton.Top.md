@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarButton.Top
 ms.assetid: 4ad019ed-a344-dac5-0063-b52bdead7916
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - PowerPoint.ActionSettings.Count
 ms.assetid: 0ebd513d-50ff-2fdb-f2a7-c92a1be283c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

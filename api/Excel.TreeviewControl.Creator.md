@@ -8,6 +8,7 @@ api_name:
 - Excel.TreeviewControl.Creator
 ms.assetid: b8956992-0bc3-f98a-1155-5c1f3a0f3ec6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.CustomLabel.Width
 ms.assetid: 11cd3847-b8d3-fdc9-6536-c6eaec436832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

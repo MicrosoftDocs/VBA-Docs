@@ -8,6 +8,7 @@ api_name:
 - Publisher.LineFormat.BeginArrowheadStyle
 ms.assetid: 93dcf2ed-07a3-4391-dd46-2ff9cf89ef36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Shapes.BuildFreeform Method (Project)
 ms.prod: project-server
 ms.assetid: 257f76e3-3b37-5b58-cb78-f6fcebe1ca29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Image.IsVisible
 ms.assetid: c0359df3-a60b-e0d4-e494-3ea2b237aa25
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

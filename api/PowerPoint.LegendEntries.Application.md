@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.LegendEntries.Application
 ms.assetid: d06b8465-aa96-b985-75de-e554f4466832
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.OptionGroup.AddColon
 ms.assetid: 2c40b39b-2c57-e719-78ed-e28080f78fd8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskItem.BillingInformation
 ms.assetid: 2f777ebd-c53a-f293-9e06-f26234098d12
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

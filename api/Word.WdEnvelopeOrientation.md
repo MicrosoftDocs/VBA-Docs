@@ -5,6 +5,7 @@ api_name:
 - Word.WdEnvelopeOrientation
 ms.assetid: c8f57ce8-0792-f52b-cd98-6ec7a5b0179a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

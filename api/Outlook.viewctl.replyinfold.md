@@ -3,6 +3,7 @@ title: ViewCtl.ReplyInFolder Method (Outlook View Control)
 ms.prod: outlook
 ms.assetid: 00af4a6e-c7f4-e61e-d367-b2a9b62498d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

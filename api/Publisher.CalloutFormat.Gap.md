@@ -8,6 +8,7 @@ api_name:
 - Publisher.CalloutFormat.Gap
 ms.assetid: fd7cdac7-5f09-a574-e9ef-08feebd81cff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

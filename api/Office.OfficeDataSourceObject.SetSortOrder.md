@@ -8,6 +8,7 @@ api_name:
 - Office.OfficeDataSourceObject.SetSortOrder
 ms.assetid: 427d3a81-1863-4e52-02d4-7485553a4d2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

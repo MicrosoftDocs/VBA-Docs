@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.AddItem
 ms.assetid: dd247136-f29b-b5e2-1e09-c5a808da803f
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

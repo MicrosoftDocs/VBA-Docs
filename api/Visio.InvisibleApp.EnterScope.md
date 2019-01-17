@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.EnterScope
 ms.assetid: 51754dcb-fdad-ce88-eec7-d66a9c27813b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

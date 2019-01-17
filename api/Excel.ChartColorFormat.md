@@ -8,6 +8,7 @@ api_name:
 - Excel.ChartColorFormat
 ms.assetid: 5d2e0cb0-e928-0704-7b4c-1afee6096f3a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

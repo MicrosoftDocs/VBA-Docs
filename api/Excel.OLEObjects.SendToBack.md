@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEObjects.SendToBack
 ms.assetid: b056deb0-bcbc-c54f-236b-3ed05aed43ee
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

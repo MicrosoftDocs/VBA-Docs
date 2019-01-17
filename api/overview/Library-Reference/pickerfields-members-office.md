@@ -3,6 +3,7 @@ title: PickerFields members (Office)
 ms.prod: office
 ms.assetid: 00d73ce4-cb37-ecb6-51d3-1b1817ab961a
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

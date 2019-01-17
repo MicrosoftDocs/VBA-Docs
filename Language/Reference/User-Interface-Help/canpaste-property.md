@@ -8,6 +8,7 @@ api_name:
 - Office.CanPaste
 ms.assetid: 697a2f98-8c42-663c-9ff7-0330d3977c43
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

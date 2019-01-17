@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.DataTable.Border
 ms.assetid: 314a8830-7227-511d-66c2-3e6cce88f0a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

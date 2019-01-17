@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.BorderWidth
 ms.assetid: cbfd0285-9332-743c-a446-dfbff4dc7443
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

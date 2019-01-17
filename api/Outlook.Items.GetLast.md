@@ -8,6 +8,7 @@ api_name:
 - Outlook.Items.GetLast
 ms.assetid: d02a20be-19fc-fb6e-feff-b66ca0273beb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

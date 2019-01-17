@@ -8,6 +8,7 @@ api_name:
 - Word.LinkFormat.SavePictureWithDocument
 ms.assetid: 5aacc0de-7a95-1f95-2797-d84a722526a6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

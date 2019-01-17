@@ -8,6 +8,7 @@ api_name:
 - Word.AxisTitle.Orientation
 ms.assetid: 8ce12960-ec55-7a56-db87-6878ce0fa9ed
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

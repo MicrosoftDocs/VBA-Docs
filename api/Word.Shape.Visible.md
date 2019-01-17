@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Visible
 ms.assetid: b3024bf2-3015-d3ce-97dc-2dd5858bf798
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

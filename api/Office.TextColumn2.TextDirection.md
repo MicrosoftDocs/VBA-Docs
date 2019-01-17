@@ -5,6 +5,7 @@ api_name:
 - Office.TextColumn2.TextDirection
 ms.assetid: cd1b3ddf-52ec-50ff-8b95-ce3dcb4383b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

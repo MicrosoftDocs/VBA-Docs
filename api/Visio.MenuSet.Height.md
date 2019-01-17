@@ -8,6 +8,7 @@ api_name:
 - Visio.MenuSet.Height
 ms.assetid: 99eee623-eaa2-c860-0a52-3dda15d24a82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

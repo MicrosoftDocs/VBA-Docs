@@ -8,6 +8,7 @@ api_name:
 - Visio.Selection.Style
 ms.assetid: f0853c43-14b4-bcd9-eb07-fbc0312e106b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

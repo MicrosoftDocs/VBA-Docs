@@ -8,6 +8,7 @@ api_name:
 - Word.Application.ChangeFileOpenDirectory
 ms.assetid: 9f044713-6e97-7219-8083-7d7d2cbb1b0f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

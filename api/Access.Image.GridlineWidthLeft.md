@@ -8,6 +8,7 @@ api_name:
 - Access.Image.GridlineWidthLeft
 ms.assetid: 22d22121-1be3-d1c9-9288-bd3294c7c583
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

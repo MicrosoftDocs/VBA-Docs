@@ -3,6 +3,7 @@ title: ReplaceShapesEvent.SelectionSource Property (Visio)
 ms.prod: visio
 ms.assetid: f81c0b66-b63b-fc7c-1769-d56a17d5cf78
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

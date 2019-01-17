@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Width
 ms.assetid: f6631a47-79a0-3b8e-e0f0-11aab5b1b477
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

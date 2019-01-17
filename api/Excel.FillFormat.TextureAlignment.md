@@ -5,6 +5,7 @@ api_name:
 - Excel.FillFormat.TextureAlignment
 ms.assetid: a22b4256-15fd-5650-3e42-c6b0ecb10776
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

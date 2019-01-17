@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.BorderColor
 ms.assetid: fd44b63b-d1bb-3663-8f14-08069424d022
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

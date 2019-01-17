@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.Parent
 ms.assetid: 598f3f9c-0f25-635f-d438-3b0cd8d2f343
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.AutoLabel
 ms.assetid: b79869ae-f295-a747-37d7-f48a98c300c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

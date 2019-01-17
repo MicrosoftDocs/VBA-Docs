@@ -8,6 +8,7 @@ api_name:
 - Outlook.PlaySoundRuleAction.Class
 ms.assetid: 74c4ac63-fcf9-12dc-c910-e41b80b417f2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

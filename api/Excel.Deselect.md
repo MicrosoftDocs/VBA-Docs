@@ -8,6 +8,7 @@ api_name:
 - Excel.Deselect
 ms.assetid: 928e8efa-4b6a-a1ea-2520-615354c8538a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

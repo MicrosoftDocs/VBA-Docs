@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.VerticalFlip
 ms.assetid: 868657a8-72c6-896d-6a6f-f9adbbc88a59
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

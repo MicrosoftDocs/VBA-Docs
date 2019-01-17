@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.PressedForeShade
 ms.assetid: 496e310e-b5eb-8e6a-7079-530126e71399
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

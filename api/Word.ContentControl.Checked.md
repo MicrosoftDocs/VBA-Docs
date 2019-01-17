@@ -8,6 +8,7 @@ api_name:
 - Word.ContentControl.Checked
 ms.assetid: 43315939-8ecb-788f-ddd5-3256cca5c9b6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

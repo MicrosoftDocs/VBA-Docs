@@ -3,6 +3,7 @@ title: CustomXMLValidationErrors members (Office)
 ms.prod: office
 ms.assetid: f177d201-6ae4-fa4a-99d4-d9dd9bca3601
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkDateControl.KeyPress
 ms.assetid: 59b22d35-001a-4e99-3b71-d7f95a73d821
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

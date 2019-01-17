@@ -8,6 +8,7 @@ api_name:
 - Visio.Masters.QueryCancelGroup
 ms.assetid: c4f30992-b598-048c-6b68-30cedcef3353
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

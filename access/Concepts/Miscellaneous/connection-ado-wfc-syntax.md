@@ -3,6 +3,7 @@ title: Connection (ADO/WFC syntax)
 ms.prod: access
 ms.assetid: adead04c-7a49-40b8-6d15-5d19c559b1b2
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

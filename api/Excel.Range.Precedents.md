@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.Precedents
 ms.assetid: 3c00cfb4-1c12-668d-a952-89f9b1ef129f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

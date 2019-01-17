@@ -8,6 +8,7 @@ api_name:
 - Visio.Color.Flags
 ms.assetid: 61289973-af74-4eca-f4ac-becb9ca35ed4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

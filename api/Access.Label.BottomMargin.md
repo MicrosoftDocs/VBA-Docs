@@ -8,6 +8,7 @@ api_name:
 - Access.Label.BottomMargin
 ms.assetid: 0d2a1de9-0aea-5bbd-22b7-5b99678240be
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

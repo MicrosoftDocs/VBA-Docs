@@ -8,6 +8,7 @@ api_name:
 - Excel.Worksheets.Delete
 ms.assetid: 57f4066a-2b94-a27a-f9f1-43e77357c740
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Gridlines.Creator
 ms.assetid: e3548aa9-1e88-b5ee-eb4a-417504d7bde5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

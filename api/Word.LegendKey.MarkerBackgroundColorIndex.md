@@ -8,6 +8,7 @@ api_name:
 - Word.LegendKey.MarkerBackgroundColorIndex
 ms.assetid: 38fcea33-797f-93e1-8a52-0c3aaa9c1834
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

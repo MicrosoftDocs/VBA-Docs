@@ -8,6 +8,7 @@ api_name:
 - Excel.Axis.AxisBetweenCategories
 ms.assetid: 03a2d87b-1fbd-470d-01d2-e4156dae55e2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

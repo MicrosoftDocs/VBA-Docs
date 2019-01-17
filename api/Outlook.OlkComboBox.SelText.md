@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.SelText
 ms.assetid: 595b3e85-7d30-72bc-c1d4-b45c4492c221
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

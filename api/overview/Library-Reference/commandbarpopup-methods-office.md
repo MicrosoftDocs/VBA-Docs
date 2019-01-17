@@ -3,6 +3,7 @@ title: CommandBarPopup Methods (Office)
 ms.prod: office
 ms.assetid: bdfaa857-2720-420e-809e-db86145cecd5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

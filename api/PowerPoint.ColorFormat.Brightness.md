@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ColorFormat.Brightness
 ms.assetid: 5140244e-d70b-f764-c127-917506b4074d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

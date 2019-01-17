@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.MoveAfterReturnDirection
 ms.assetid: c11d8e36-755e-c911-de44-8b630b549418
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

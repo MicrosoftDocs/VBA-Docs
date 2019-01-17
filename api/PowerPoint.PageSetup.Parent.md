@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.PageSetup.Parent
 ms.assetid: 58f34a76-6ae8-c861-f4e7-0290931fb736
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

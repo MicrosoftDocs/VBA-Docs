@@ -8,6 +8,7 @@ api_name:
 - Outlook.Account.Session
 ms.assetid: 92890235-402c-80c8-10b7-7339f153134e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

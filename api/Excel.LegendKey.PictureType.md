@@ -8,6 +8,7 @@ api_name:
 - Excel.LegendKey.PictureType
 ms.assetid: f911bbaf-6130-0a41-4245-75745470687b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

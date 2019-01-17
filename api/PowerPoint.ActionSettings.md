@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ActionSettings
 ms.assetid: 8914c203-6b8d-fa80-16ad-7015595657b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

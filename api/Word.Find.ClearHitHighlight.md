@@ -8,6 +8,7 @@ api_name:
 - Word.Find.ClearHitHighlight
 ms.assetid: 97f92034-3b22-c5dd-d2a6-194d54cb2ed4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

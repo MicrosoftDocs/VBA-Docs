@@ -8,6 +8,7 @@ api_name:
 - Outlook.Exceptions
 ms.assetid: fa3b6c2e-33b0-0f04-4e60-af2c582f2caa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

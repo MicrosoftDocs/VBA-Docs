@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextStyle.Ruler
 ms.assetid: 01a04a13-d536-72f2-9a7c-07f703e2583c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

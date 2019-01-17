@@ -5,6 +5,7 @@ api_name:
 - Word.WdPasteDataType
 ms.assetid: 64af8012-67d3-f5af-1e68-ebf910ca14f4
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

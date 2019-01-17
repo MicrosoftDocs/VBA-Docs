@@ -8,6 +8,7 @@ api_name:
 - Excel.MajorUnitScale
 ms.assetid: b2a54ca7-6eac-5552-6de7-ee0ab59e1ddb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

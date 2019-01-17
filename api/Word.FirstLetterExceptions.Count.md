@@ -8,6 +8,7 @@ api_name:
 - Word.FirstLetterExceptions.Count
 ms.assetid: 291ad7d4-628d-4379-422c-505a6406237b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

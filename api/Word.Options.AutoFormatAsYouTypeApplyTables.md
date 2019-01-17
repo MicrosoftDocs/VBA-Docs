@@ -8,6 +8,7 @@ api_name:
 - Word.Options.AutoFormatAsYouTypeApplyTables
 ms.assetid: 171da8ca-5754-b5fb-12b2-1fcb1461a8fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

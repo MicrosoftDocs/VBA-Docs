@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ResourceGraphBarStyles
 ms.assetid: b8d2baf3-7025-e330-a582-451ec0d115c0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

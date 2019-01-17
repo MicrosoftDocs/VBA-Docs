@@ -8,6 +8,7 @@ api_name:
 - Word.Find.MatchControl
 ms.assetid: 43d76f90-5b3f-db3b-15b0-98e87d8d8bc8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

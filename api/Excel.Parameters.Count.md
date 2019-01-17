@@ -8,6 +8,7 @@ api_name:
 - Excel.Parameters.Count
 ms.assetid: 51f5bd35-f294-d63e-03c3-2a2e6f3f2f7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

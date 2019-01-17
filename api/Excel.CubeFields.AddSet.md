@@ -8,6 +8,7 @@ api_name:
 - Excel.CubeFields.AddSet
 ms.assetid: 2f40d4f3-56fc-4d98-b214-623885dc26d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

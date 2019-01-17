@@ -8,6 +8,7 @@ api_name:
 - Excel.TableStyleElements.Parent
 ms.assetid: 4c7acb7d-52d2-25d9-769a-265e0cfcb648
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

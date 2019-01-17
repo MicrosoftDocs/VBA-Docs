@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Shape.ConvertTextToSmartArt
 ms.assetid: 8ac35770-5835-c698-c0f1-12c3c03902c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Subdocuments.Select
 ms.assetid: 23da8ede-3dc6-a469-94c8-7360cc836166
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

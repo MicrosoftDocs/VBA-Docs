@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.SelectCurrentIndent
 ms.assetid: 3a71080e-935c-fc3c-40b9-e82acf9d28cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.Rotation
 ms.assetid: bf271f86-18c9-ac74-12ab-f90f4353f71d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

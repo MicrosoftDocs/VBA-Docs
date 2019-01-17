@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.SubtotalLocation
 ms.assetid: df2655d8-9e5f-e9d2-ba88-f92a1d843dfb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.GetCustomPropertyLinkedColumn
 ms.assetid: 0d6e3577-d918-1d33-135a-37a3f09f3eaa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

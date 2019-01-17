@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkLabel.MouseMove
 ms.assetid: b956ea54-96cb-d5d1-e542-ea9f464117c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

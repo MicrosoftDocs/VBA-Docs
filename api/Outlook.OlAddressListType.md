@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlAddressListType
 ms.assetid: 60da59f7-8577-a91a-e4cd-7499be207b32
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

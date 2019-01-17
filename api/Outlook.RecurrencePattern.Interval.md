@@ -8,6 +8,7 @@ api_name:
 - Outlook.RecurrencePattern.Interval
 ms.assetid: e3220174-38dc-d1e3-8d26-b3f208b554a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

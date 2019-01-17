@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextFrame.MarginLeft
 ms.assetid: c00a6b6c-0a67-5738-f31f-3714e2bf430d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

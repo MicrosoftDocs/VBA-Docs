@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotLines.Creator
 ms.assetid: 090d80a7-f0e8-4b5c-4095-84b9304f4c3f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Project.Window.BottomPane
 ms.assetid: 5b165c3d-6316-8e9c-782c-c350fb768cda
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

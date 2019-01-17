@@ -8,6 +8,7 @@ api_name:
 - Outlook.AutoFormatRules.RemoveAll
 ms.assetid: 90039cda-a486-c855-32bc-a7d9f256a996
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

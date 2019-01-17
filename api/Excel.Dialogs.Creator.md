@@ -8,6 +8,7 @@ api_name:
 - Excel.Dialogs.Creator
 ms.assetid: 4685d784-ba3f-6543-1e5e-dba7b6d6a088
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.InsertedTextColor
 ms.assetid: 51f36823-b92b-53b0-5246-1531e851dc57
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

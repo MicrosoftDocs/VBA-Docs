@@ -3,6 +3,7 @@ title: Shapes.AddCallout Method (Project)
 ms.prod: project-server
 ms.assetid: 6c183677-d869-f493-7226-14cca4329aae
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

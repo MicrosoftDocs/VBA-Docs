@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.IconSets
 ms.assetid: c837d2a8-d21d-7432-a409-f49426368556
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

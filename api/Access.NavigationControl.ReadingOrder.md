@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.ReadingOrder
 ms.assetid: ecd7522a-3a16-2a18-a3c1-0798dba1baec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

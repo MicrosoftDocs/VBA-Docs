@@ -8,6 +8,7 @@ api_name:
 - Office.Scroll
 ms.assetid: 1b4f6243-ea9b-320c-1afd-9bb230823ffb
 ms.date: 11/15/2018
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Extend the Use of an Outlook Item by Adding Fields and Pages
 ms.prod: outlook
 ms.assetid: 3f1672a8-1d25-c450-3087-b5bf518676ec
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

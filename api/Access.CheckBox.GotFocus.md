@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.GotFocus
 ms.assetid: 3437bdf0-cc5e-d09d-3607-9fd283613243
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.CustomToolbars
 ms.assetid: def64862-5298-bc3a-0509-84216725d7da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -3,6 +3,7 @@ title: Subprojects object (Project)
 ms.prod: project-server
 ms.assetid: 15688529-6d9c-6429-0d22-a5a16c033dcc
 ms.date: 11/09/2018
+localization_priority: Normal
 ---
 
 

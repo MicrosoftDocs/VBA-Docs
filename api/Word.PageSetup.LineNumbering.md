@@ -8,6 +8,7 @@ api_name:
 - Word.PageSetup.LineNumbering
 ms.assetid: acdf1ef4-baaa-aa22-b7a1-81e89d1cebfa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

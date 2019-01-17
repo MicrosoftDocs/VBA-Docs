@@ -8,6 +8,7 @@ api_name:
 - Visio.Document.HeaderFooterColor
 ms.assetid: d1f3887f-d6b5-feb5-b119-ddf3d9eb3542
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

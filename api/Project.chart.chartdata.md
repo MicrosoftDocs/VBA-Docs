@@ -3,6 +3,7 @@ title: Chart.ChartData Property (Project)
 ms.prod: project-server
 ms.assetid: 02cca9fd-00e1-a4c0-78e9-edabda0c160b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

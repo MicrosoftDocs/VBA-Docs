@@ -8,6 +8,7 @@ api_name:
 - Excel.Chart.HasDataTable
 ms.assetid: c29e7606-086e-8549-2259-332d30c1846a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

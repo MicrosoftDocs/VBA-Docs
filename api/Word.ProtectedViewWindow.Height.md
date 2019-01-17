@@ -8,6 +8,7 @@ api_name:
 - Word.ProtectedViewWindow.Height
 ms.assetid: c3b423c9-25d4-3fc9-06b5-a7f8b88650d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

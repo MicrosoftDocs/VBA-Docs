@@ -5,6 +5,7 @@ api_name:
 - Office.CertificateVerificationResults
 ms.assetid: e6d4708a-ff3d-805b-d5da-455283eb297a
 ms.date: 01/02/2019
+localization_priority: Normal
 ---
 
 

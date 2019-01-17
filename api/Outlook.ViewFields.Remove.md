@@ -8,6 +8,7 @@ api_name:
 - Outlook.ViewFields.Remove
 ms.assetid: 2cd98ed5-72a3-d7a8-319f-ecb936fee7d8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

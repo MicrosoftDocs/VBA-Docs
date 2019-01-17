@@ -8,6 +8,7 @@ api_name:
 - Excel.ListObject.DisplayName
 ms.assetid: 02c30c2b-5296-d996-1045-e867bdf41eb1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

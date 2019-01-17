@@ -8,6 +8,7 @@ api_name:
 - Word.Cell.Next
 ms.assetid: b4171c7c-6703-9cdf-a964-09e32874fbb6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

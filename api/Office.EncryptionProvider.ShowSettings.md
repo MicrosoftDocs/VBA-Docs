@@ -8,6 +8,7 @@ api_name:
 - Office.EncryptionProvider.ShowSettings
 ms.assetid: 9e66ee97-54d5-9b09-ff22-810b92e63125
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

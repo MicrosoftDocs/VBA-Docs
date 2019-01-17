@@ -8,6 +8,7 @@ api_name:
 - Word.StyleSheets.Add
 ms.assetid: 82659cfc-6681-93c8-299c-f570f23016b2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

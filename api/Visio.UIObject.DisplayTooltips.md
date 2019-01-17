@@ -8,6 +8,7 @@ api_name:
 - Visio.UIObject.DisplayTooltips
 ms.assetid: 601cf4a4-5afe-1835-4afb-d21f801b93ce
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

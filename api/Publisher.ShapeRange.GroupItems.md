@@ -8,6 +8,7 @@ api_name:
 - Publisher.ShapeRange.GroupItems
 ms.assetid: d37c75cd-a651-51d1-42c7-59879ccbbf1d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Coauthoring
 ms.assetid: ae31f38c-0511-8ca9-ab99-f0f009eb07ea
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

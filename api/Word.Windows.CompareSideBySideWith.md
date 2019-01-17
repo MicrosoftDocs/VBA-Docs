@@ -8,6 +8,7 @@ api_name:
 - Word.Windows.CompareSideBySideWith
 ms.assetid: 522c75b2-460a-460f-93ef-71cc84973d2f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

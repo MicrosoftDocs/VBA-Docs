@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.StrikeThrough
 ms.assetid: d40062d9-0a38-2aaa-9675-57a90cbde1dc
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

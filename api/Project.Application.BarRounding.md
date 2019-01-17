@@ -8,6 +8,7 @@ api_name:
 - Project.Application.BarRounding
 ms.assetid: 6f776070-0a37-a72b-8cf8-ea3fd2c3fd06
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

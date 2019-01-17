@@ -8,6 +8,7 @@ api_name:
 - Access.AccessObject.FullName
 ms.assetid: 9e6d2249-893e-8b0f-87b8-c427e6d89927
 ms.date: 09/26/2018
+localization_priority: Normal
 ---
 
 

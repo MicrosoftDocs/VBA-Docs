@@ -8,6 +8,7 @@ api_name:
 - Outlook.StorageItem.Session
 ms.assetid: e3a005d0-daa3-853b-e603-c084ffb5d1db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

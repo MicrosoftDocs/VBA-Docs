@@ -8,6 +8,7 @@ api_name:
 - Word.Chart.HeightPercent
 ms.assetid: b05873d9-a7b9-8980-28e7-057a90f7bb94
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Report.Line
 ms.assetid: 9e640e37-c055-3dc3-b70e-0805cdc13561
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

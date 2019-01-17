@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Transpose
 ms.assetid: 327aaf19-c226-5251-9bec-eadc4546d53a
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

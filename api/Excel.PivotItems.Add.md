@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotItems.Add
 ms.assetid: 2d24bb3f-e765-c78c-bef0-787db82056c7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.ListEntry.Name
 ms.assetid: ee6fae98-4b7d-d8d9-0af3-ee7c76e8b64e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

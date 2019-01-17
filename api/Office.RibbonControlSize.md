@@ -5,6 +5,7 @@ api_name:
 - Office.RibbonControlSize
 ms.assetid: d31989bc-5483-2500-0f4e-857461720914
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

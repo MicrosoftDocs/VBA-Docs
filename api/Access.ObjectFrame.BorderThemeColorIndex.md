@@ -8,6 +8,7 @@ api_name:
 - Access.ObjectFrame.BorderThemeColorIndex
 ms.assetid: 8070f9c7-bee5-a702-f874-c96af9fb71d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

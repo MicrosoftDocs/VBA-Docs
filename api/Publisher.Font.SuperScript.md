@@ -8,6 +8,7 @@ api_name:
 - Publisher.Font.SuperScript
 ms.assetid: 582c02c9-4dcb-f826-8ec0-e9e10702f717
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

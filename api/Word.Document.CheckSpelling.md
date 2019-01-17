@@ -8,6 +8,7 @@ api_name:
 - Word.Document.CheckSpelling
 ms.assetid: a61a9c8b-0dee-f6e4-cefc-daca612c99c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

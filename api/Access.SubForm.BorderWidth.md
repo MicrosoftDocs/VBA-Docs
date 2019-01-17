@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.BorderWidth
 ms.assetid: 08ba4fa1-1672-47b3-b1fe-21520d60b7c8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

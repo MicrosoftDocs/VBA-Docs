@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.IsConflict
 ms.assetid: d0c14fa2-6bfe-29e8-e68b-3eff01a8bd70
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

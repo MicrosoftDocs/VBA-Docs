@@ -8,6 +8,7 @@ api_name:
 - Word.InlineShape.Chart
 ms.assetid: 33d577fe-58b0-8e2f-a859-5bd3b34ed892
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

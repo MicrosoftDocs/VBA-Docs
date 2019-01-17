@@ -8,6 +8,7 @@ api_name:
 - Word.Range.Creator
 ms.assetid: df19ebef-edb2-ac75-e878-bce9e35794b3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

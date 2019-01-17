@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.BeginGroup
 ms.assetid: 529b8c23-ec1f-b37b-a40c-9ae6016f4dc0
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

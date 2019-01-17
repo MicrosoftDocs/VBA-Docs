@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.SizeToFit
 ms.assetid: 690d17ca-866d-2f8e-fc54-a5cc166b6ad1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

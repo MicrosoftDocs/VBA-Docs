@@ -8,6 +8,7 @@ api_name:
 - Visio.Characters.AddFieldEx
 ms.assetid: 14f56159-ed60-e1cf-1c04-b789672b51ec
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

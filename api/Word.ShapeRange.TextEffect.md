@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.TextEffect
 ms.assetid: 89f879a7-6405-187d-a03c-fa123a1ee1d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

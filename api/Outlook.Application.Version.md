@@ -8,6 +8,7 @@ api_name:
 - Outlook.Application.Version
 ms.assetid: 08a74ab8-7e02-3956-1827-4b6690acdec1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

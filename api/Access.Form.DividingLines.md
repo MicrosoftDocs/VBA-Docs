@@ -8,6 +8,7 @@ api_name:
 - Access.Form.DividingLines
 ms.assetid: f8c62451-ccde-43f9-91f6-cdef38571c54
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

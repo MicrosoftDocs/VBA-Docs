@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.SlideRange.Background
 ms.assetid: fdbda068-3038-b966-bf61-3527f0258ba4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

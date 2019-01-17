@@ -8,6 +8,7 @@ api_name:
 - Excel.BarGroups
 ms.assetid: a00e484e-05ec-2eaa-cc33-05b77a4af0b5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

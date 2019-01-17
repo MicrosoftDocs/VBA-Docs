@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.ShortcutMenuBar
 ms.assetid: 5da48eb8-b4ce-a3e5-323b-18f1ec76e00c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

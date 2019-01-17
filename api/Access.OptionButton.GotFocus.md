@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.GotFocus
 ms.assetid: f0a02ae3-b90e-2193-3c59-c0f018ace680
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

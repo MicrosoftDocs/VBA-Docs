@@ -8,6 +8,7 @@ api_name:
 - Access.SharedResource.Name
 ms.assetid: b7a7a85a-54c2-9f39-c2bf-c952d107c00f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

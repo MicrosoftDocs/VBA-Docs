@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.MotionEffect.Path
 ms.assetid: 974cd9cd-9b79-8415-d322-2ad27fd1a587
 ms.date: 12/17/2018
+localization_priority: Normal
 ---
 
 

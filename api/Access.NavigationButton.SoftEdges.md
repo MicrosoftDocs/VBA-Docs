@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.SoftEdges
 ms.assetid: ab52bf67-7ea2-e23e-d4a5-264bb153ee0d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

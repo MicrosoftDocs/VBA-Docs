@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotAxis.Creator
 ms.assetid: 4fa167dd-6cc3-f296-7d34-15dc835d7310
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

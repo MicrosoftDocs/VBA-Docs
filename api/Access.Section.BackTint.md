@@ -8,6 +8,7 @@ api_name:
 - Access.Section.BackTint
 ms.assetid: c1e978c6-660c-8e2d-4bff-fe1f86db571d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

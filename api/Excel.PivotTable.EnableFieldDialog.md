@@ -8,6 +8,7 @@ api_name:
 - Excel.PivotTable.EnableFieldDialog
 ms.assetid: 4b6b4bc5-9b87-efa2-c6d1-4ab0c11f5966
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

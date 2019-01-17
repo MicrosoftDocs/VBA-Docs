@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.ShapeAdded
 ms.assetid: a762dafe-47c3-302b-6445-d5455871f073
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

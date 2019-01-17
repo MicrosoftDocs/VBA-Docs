@@ -8,6 +8,7 @@ api_name:
 - Excel.Application.Excel4MacroSheets
 ms.assetid: d1ee907a-302c-4bd5-5455-75c328f94268
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

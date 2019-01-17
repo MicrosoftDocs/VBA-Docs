@@ -8,6 +8,7 @@ api_name:
 - Outlook.Attachment.PathName
 ms.assetid: 19ecbb05-11f0-2e35-eb3d-f60bce6b1357
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

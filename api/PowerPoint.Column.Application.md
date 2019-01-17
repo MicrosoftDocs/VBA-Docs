@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Column.Application
 ms.assetid: c6d261d9-6939-e3c1-a697-ff68319b4e9c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

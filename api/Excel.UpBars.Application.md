@@ -8,6 +8,7 @@ api_name:
 - Excel.UpBars.Application
 ms.assetid: 28c188c6-1093-3dda-bb24-2d157e680248
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

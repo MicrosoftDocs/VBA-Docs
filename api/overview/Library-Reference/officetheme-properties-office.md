@@ -3,6 +3,7 @@ title: OfficeTheme Properties (Office)
 ms.prod: office
 ms.assetid: 1861feba-0099-4840-8a54-160e1d13b568
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Toolbar.Width
 ms.assetid: aa956e43-4cfc-e0f3-7fa4-7451d2e9755b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

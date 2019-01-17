@@ -8,6 +8,7 @@ api_name:
 - Word.OMathEqArray.RowSpacingRule
 ms.assetid: 762bbb64-379e-2c59-d270-8900d385b2a0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

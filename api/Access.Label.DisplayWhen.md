@@ -8,6 +8,7 @@ api_name:
 - Access.Label.DisplayWhen
 ms.assetid: e9e1061d-536e-742b-5643-66d0b0573a71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

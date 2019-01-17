@@ -8,6 +8,7 @@ api_name:
 - Access.CommandButton.HorizontalAnchor
 ms.assetid: 3b16ed18-a83d-df6e-5f14-6edbd25e9490
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

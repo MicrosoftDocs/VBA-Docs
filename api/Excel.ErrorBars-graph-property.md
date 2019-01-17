@@ -5,6 +5,7 @@ api_name:
 - Excel.ErrorBars
 ms.assetid: 28e7e234-3731-42b6-b8dc-f1945b30678e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

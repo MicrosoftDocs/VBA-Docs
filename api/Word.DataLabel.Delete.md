@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabel.Delete
 ms.assetid: ee034a21-17e4-7623-da0f-1b964614b6aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

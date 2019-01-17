@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.BoundTop
 ms.assetid: f3c2cd42-8d2b-f757-bcbb-140f5e567a1e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

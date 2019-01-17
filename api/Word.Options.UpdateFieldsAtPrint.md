@@ -8,6 +8,7 @@ api_name:
 - Word.Options.UpdateFieldsAtPrint
 ms.assetid: 065d63a9-7c07-c351-b18a-44dfa6b59078
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

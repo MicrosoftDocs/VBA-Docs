@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.AddIndent
 ms.assetid: 76b9c820-8c94-3cf6-7267-6d2710f07b74
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

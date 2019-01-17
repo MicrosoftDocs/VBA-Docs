@@ -8,6 +8,7 @@ api_name:
 - Excel.AboveAverage.NumberFormat
 ms.assetid: 1f3054f2-dc2b-28a6-cea9-d97ebdbb8cd0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

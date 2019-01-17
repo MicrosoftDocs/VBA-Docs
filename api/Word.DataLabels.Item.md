@@ -8,6 +8,7 @@ api_name:
 - Word.DataLabels.Item
 ms.assetid: 792b63a5-e4e9-c026-e94d-0f0349d113dc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

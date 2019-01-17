@@ -8,6 +8,7 @@ api_name:
 - Access.AcFormOpenDataMode
 ms.assetid: 24c39abb-154c-39cd-3097-77be75fe917c
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.Attachment.DefaultPictureType
 ms.assetid: 77032908-5b98-7072-1e53-520485580746
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

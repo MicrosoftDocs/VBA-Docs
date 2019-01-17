@@ -8,6 +8,7 @@ api_name:
 - Access.Report.RibbonName
 ms.assetid: 598dc161-1d90-8339-a214-95d6e9d6396a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

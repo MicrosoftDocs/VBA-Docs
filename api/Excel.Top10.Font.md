@@ -8,6 +8,7 @@ api_name:
 - Excel.Top10.Font
 ms.assetid: d2a13b9a-d5f5-5c07-5e9b-bc2724795334
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

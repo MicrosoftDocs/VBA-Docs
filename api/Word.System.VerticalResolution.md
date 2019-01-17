@@ -8,6 +8,7 @@ api_name:
 - Word.System.VerticalResolution
 ms.assetid: f93b0eed-1b0c-654c-8c73-60da0d13ab11
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

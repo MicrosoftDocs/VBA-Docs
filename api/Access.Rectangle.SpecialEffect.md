@@ -8,6 +8,7 @@ api_name:
 - Access.Rectangle.SpecialEffect
 ms.assetid: c46e207a-123b-7ec2-b21c-99c6d507aee7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

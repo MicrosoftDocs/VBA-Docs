@@ -3,6 +3,7 @@ title: Sort data in a DAO Recordset
 ms.prod: access
 ms.assetid: 900b0b00-34f5-dba6-5386-34360cee95a0
 ms.date: 09/21/2018
+localization_priority: Normal
 ---
 
 

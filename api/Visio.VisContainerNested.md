@@ -8,6 +8,7 @@ api_name:
 - Visio.VisContainerNested
 ms.assetid: 7c6093cd-f575-19ad-a3dd-bdf345b869fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

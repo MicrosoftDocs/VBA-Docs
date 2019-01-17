@@ -8,6 +8,7 @@ api_name:
 - Project.Application.ViewShowResourcesSuccessors
 ms.assetid: 632893a7-70ec-6cd5-56c6-82b216f09d48
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

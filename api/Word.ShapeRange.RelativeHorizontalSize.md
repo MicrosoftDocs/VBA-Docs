@@ -8,6 +8,7 @@ api_name:
 - Word.ShapeRange.RelativeHorizontalSize
 ms.assetid: ef832943-d587-545f-feb9-f2cbcb0734cc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

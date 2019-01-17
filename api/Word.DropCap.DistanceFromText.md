@@ -8,6 +8,7 @@ api_name:
 - Word.DropCap.DistanceFromText
 ms.assetid: 8b86b00c-fc38-6fb3-8877-cba1eec814d7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

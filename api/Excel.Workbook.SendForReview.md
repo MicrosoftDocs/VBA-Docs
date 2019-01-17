@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.SendForReview
 ms.assetid: 3834f5b3-6d24-1bb9-27b5-052aa2e725e3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

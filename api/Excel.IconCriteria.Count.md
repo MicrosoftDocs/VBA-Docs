@@ -8,6 +8,7 @@ api_name:
 - Excel.IconCriteria.Count
 ms.assetid: 1a4db597-70fa-b12a-4755-7cb71009d8a8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

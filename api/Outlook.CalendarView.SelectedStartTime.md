@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.SelectedStartTime
 ms.assetid: e1e376de-606a-83cb-680f-cdbf7a714b73
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

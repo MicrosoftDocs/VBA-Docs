@@ -8,6 +8,7 @@ api_name:
 - Word.Selection.Sentences
 ms.assetid: 38d0e311-5033-bada-005b-3be642a618c1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.PbSchemeColorIndex
 ms.assetid: 37dc2391-208d-195d-11b5-c2c83c348abd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Visio.Page.DropLegend
 ms.assetid: 8253eafd-4d87-9f1c-833c-cb553c1b73cf
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

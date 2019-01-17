@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.TextRange.ParagraphFormat
 ms.assetid: 41d3f0f3-70e3-ad1a-efcb-de849d4a03d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

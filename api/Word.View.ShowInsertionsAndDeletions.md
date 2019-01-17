@@ -8,6 +8,7 @@ api_name:
 - Word.View.ShowInsertionsAndDeletions
 ms.assetid: 3738a713-819d-5dfd-a197-8c97a3de5ab4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

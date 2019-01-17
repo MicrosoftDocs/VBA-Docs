@@ -8,6 +8,7 @@ api_name:
 - Word.HiLoLines.Creator
 ms.assetid: fbbc4787-8d62-5a2b-df13-cd6b5783ef5d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

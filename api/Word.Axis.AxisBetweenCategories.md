@@ -8,6 +8,7 @@ api_name:
 - Word.Axis.AxisBetweenCategories
 ms.assetid: b99e83a2-5540-e69d-402c-224612f8e568
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

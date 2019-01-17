@@ -8,6 +8,7 @@ api_name:
 - Access.SmartTagActions.Parent
 ms.assetid: 64269a95-f694-a69f-83a4-1906f5f9712f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

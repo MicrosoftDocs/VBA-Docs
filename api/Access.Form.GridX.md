@@ -8,6 +8,7 @@ api_name:
 - Access.Form.GridX
 ms.assetid: ebc6a4d9-2f73-cf55-504f-a83aff1fecd4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Options.EnableLegacyIMEMode
 ms.assetid: 56918cda-dcf7-2710-29ad-58a805c1a63d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Publisher.PrintableRect.Left
 ms.assetid: 7aebcf95-9be5-2ef2-671a-59087cc48ef2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

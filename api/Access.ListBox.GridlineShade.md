@@ -8,6 +8,7 @@ api_name:
 - Access.ListBox.GridlineShade
 ms.assetid: 261c89f0-e1d8-41a0-6d8b-97332a6a01db
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

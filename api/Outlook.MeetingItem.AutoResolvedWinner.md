@@ -8,6 +8,7 @@ api_name:
 - Outlook.MeetingItem.AutoResolvedWinner
 ms.assetid: 5a6c9fbb-0f41-9b69-dd41-35ec72e16c7c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

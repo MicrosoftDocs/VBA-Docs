@@ -8,6 +8,7 @@ api_name:
 - Word.XMLSchemaReferences.Validate
 ms.assetid: 66e4ea2d-e26c-be4c-fe1d-d240449f30f3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

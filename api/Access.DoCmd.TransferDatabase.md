@@ -8,6 +8,7 @@ api_name:
 - Access.DoCmd.TransferDatabase
 ms.assetid: 7eff4d0c-f660-72db-ee99-b6a3158f01de
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

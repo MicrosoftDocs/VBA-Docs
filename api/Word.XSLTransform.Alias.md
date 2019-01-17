@@ -8,6 +8,7 @@ api_name:
 - Word.XSLTransform.Alias
 ms.assetid: 38615e8f-cb40-6e83-f29c-520430f16ada
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

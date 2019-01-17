@@ -8,6 +8,7 @@ api_name:
 - Visio.Shape.Connects
 ms.assetid: 9edaac59-f52e-67ee-6e5a-e11572907785
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

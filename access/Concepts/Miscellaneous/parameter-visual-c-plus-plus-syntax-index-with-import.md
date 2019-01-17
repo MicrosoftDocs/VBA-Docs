@@ -3,6 +3,7 @@ title: Parameter (Visual C++ syntax index with import)
 ms.prod: access
 ms.assetid: 3c6db776-619b-f815-25cc-25f42d5fab8b
 ms.date: 10/12/2018
+localization_priority: Normal
 ---
 
 

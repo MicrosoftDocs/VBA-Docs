@@ -8,6 +8,7 @@ api_name:
 - Word.List.Range
 ms.assetid: f078066b-9e8d-20a2-79af-5b93dc50bed7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.ReadingOrder
 ms.assetid: 70e3f325-0c75-24cb-d3e7-0273ce157061
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Excel.XmlMap.WorkbookConnection
 ms.assetid: 14e3de43-f65d-bd27-f0c4-6be40fef589f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

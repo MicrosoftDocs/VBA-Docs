@@ -8,6 +8,7 @@ api_name:
 - Excel.WebOptions.OrganizeInFolder
 ms.assetid: 9df9aff2-3a24-3e1f-db3e-7280b50b806b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

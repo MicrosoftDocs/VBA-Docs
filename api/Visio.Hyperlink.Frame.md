@@ -8,6 +8,7 @@ api_name:
 - Visio.Hyperlink.Frame
 ms.assetid: 1c1cda8f-6bb6-3ab3-8410-3a0bc36643ba
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

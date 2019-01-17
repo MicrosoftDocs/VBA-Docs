@@ -8,6 +8,7 @@ api_name:
 - Excel.OLEDBConnection.RefreshPeriod
 ms.assetid: 23032291-8491-42b8-b0ee-18287c115c29
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

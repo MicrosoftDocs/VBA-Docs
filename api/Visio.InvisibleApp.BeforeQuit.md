@@ -5,6 +5,7 @@ api_name:
 - Visio.InvisibleApp.BeforeQuit
 ms.assetid: b2554719-ada7-9bed-3ace-9e430c478e7a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

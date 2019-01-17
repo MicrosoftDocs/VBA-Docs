@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Design.Name
 ms.assetid: a851e05b-9697-0f84-be62-a968e423f74a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

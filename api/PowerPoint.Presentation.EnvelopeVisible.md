@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Presentation.EnvelopeVisible
 ms.assetid: e2a58d05-df9b-0fc6-a1d4-3349b7efa111
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

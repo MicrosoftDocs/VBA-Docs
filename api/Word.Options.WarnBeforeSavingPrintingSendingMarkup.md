@@ -8,6 +8,7 @@ api_name:
 - Word.Options.WarnBeforeSavingPrintingSendingMarkup
 ms.assetid: 3d507ad6-5d8f-f20e-eefe-2499f0507b6f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

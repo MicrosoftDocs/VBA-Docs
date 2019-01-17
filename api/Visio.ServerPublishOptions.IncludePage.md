@@ -8,6 +8,7 @@ api_name:
 - Visio.ServerPublishOptions.IncludePage
 ms.assetid: 6af3f654-3b08-a990-8f0c-b05bb046a0b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

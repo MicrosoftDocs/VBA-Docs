@@ -8,6 +8,7 @@ api_name:
 - Visio.Application.ClearCustomMenus
 ms.assetid: 01c7f266-e940-b02c-b77d-7178c9296f98
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkTextBox.AutoTab
 ms.assetid: 9aacb807-1814-ae92-196d-e6a7ed8d1b82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

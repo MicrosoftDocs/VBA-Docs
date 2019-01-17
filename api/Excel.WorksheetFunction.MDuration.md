@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.MDuration
 ms.assetid: 80b2aba4-6c9f-4c2a-510a-e024ec6149fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

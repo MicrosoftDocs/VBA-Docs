@@ -8,6 +8,7 @@ api_name:
 - Excel.HeaderFooter.Picture
 ms.assetid: 53a27cb0-510e-1893-a759-d8cd976d35a3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

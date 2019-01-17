@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.Left
 ms.assetid: 5af66df7-cfaa-bd98-612e-07be6d0d08c5
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

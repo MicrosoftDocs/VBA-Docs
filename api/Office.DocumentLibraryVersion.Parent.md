@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentLibraryVersion.Parent
 ms.assetid: 297e244a-a18f-c9a6-8186-dbed21146861
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

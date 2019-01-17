@@ -8,6 +8,7 @@ api_name:
 - Access.Form.AllowDeletions
 ms.assetid: abcbaa74-9a02-ab9c-613f-0cf6b9ce98b7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.GetSpecialFolder
 ms.assetid: f10f5721-43a2-6c0d-67a2-a1192c127c06
 ms.date: 12/14/2018
+localization_priority: Priority
 ---
 
 

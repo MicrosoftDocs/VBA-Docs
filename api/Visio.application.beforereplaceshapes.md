@@ -3,6 +3,7 @@ title: Application.BeforeReplaceShapes Event (Visio)
 ms.prod: visio
 ms.assetid: fbf44569-0539-9292-ce20-1f9e34238b33
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

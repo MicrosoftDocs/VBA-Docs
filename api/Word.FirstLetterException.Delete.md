@@ -8,6 +8,7 @@ api_name:
 - Word.FirstLetterException.Delete
 ms.assetid: d2079416-161b-8d06-a28b-81a714677395
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

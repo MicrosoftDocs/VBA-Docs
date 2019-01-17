@@ -8,6 +8,7 @@ api_name:
 - Visio.Global.ActiveWindow
 ms.assetid: 3d804eb0-9e84-0123-e921-edfbcd79d461
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CheckBox.AddColon
 ms.assetid: 16a1bdf0-3290-a465-e275-25a1097d01fc
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

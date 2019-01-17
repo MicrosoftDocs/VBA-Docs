@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.HoverThemeColorIndex
 ms.assetid: d2412f7c-0344-1a32-e95b-5abd04d9aabe
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

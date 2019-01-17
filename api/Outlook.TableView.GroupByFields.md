@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.GroupByFields
 ms.assetid: 42071d7b-0e41-c959-cb54-c49307d22a87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

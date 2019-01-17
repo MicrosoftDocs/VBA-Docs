@@ -8,6 +8,7 @@ api_name:
 - Excel.HiLoLines.Application
 ms.assetid: 4c196015-a734-5e93-2863-e4d8964557a4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

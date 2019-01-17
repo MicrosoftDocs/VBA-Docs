@@ -8,6 +8,7 @@ api_name:
 - Excel.Connections
 ms.assetid: 3320b1cc-2f9d-805e-e506-27164b38d413
 ms.date: 06/08/2017
+localization_priority: Priority
 ---
 
 

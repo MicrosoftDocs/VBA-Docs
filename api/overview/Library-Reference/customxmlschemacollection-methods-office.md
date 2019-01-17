@@ -3,6 +3,7 @@ title: CustomXMLSchemaCollection Methods (Office)
 ms.prod: office
 ms.assetid: 06f85815-4887-4132-9641-f5335b73e2d3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

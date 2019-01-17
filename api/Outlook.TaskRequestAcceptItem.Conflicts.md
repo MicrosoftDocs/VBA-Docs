@@ -8,6 +8,7 @@ api_name:
 - Outlook.TaskRequestAcceptItem.Conflicts
 ms.assetid: 6a46ce2b-8691-a642-777c-5755e1f42af8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

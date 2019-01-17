@@ -8,6 +8,7 @@ api_name:
 - Access.WSParameters.Count
 ms.assetid: 8a6e303c-678a-37ea-b19f-61feb14d4e6e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

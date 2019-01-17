@@ -8,6 +8,7 @@ api_name:
 - Word.TableOfContents.UseFields
 ms.assetid: 36d01961-ba9a-fe8d-d791-f892bea8b994
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

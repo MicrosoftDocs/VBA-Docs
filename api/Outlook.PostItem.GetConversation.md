@@ -8,6 +8,7 @@ api_name:
 - Outlook.PostItem.GetConversation
 ms.assetid: f5912703-d064-5e4a-b3ae-5091d791cb87
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

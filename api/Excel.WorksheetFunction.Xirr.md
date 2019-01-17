@@ -8,6 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Xirr
 ms.assetid: ac3b11b1-501a-1585-5c60-6e82167522aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

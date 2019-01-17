@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.ApplyAnimation
 ms.assetid: cfaa7d9c-3a65-1be7-dd6c-61e01b9e7d36
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

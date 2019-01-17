@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationButton.Glow
 ms.assetid: d1123b17-2ee3-626f-d746-a4b0d287c3f6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

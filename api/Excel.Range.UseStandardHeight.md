@@ -8,6 +8,7 @@ api_name:
 - Excel.Range.UseStandardHeight
 ms.assetid: 59e0be39-25ea-c18d-919d-506d4f041f45
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

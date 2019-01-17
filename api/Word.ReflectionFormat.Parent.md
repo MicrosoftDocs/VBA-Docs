@@ -8,6 +8,7 @@ api_name:
 - Word.ReflectionFormat.Parent
 ms.assetid: ec347a76-26ce-c334-0a6c-b590c090079f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Word.Documents.Parent
 ms.assetid: 5cf66b72-d48f-8005-ff54-f20b8a16c2b9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

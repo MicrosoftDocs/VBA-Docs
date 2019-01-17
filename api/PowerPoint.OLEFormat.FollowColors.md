@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.OLEFormat.FollowColors
 ms.assetid: 5f4c3f3d-0332-646f-de45-6854497f5782
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

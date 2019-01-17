@@ -8,6 +8,7 @@ api_name:
 - Excel.Windows.BreakSideBySide
 ms.assetid: be32b6a4-5541-8c4b-ef24-cf34c9035f1c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

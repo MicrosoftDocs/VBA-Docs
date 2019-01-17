@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.Effect.Index
 ms.assetid: 1eac9295-e24c-c31e-3cd6-ace59f5ac04a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

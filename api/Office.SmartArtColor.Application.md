@@ -5,6 +5,7 @@ api_name:
 - Office.SmartArtColor.Application
 ms.assetid: 21c577b0-7aab-eec8-e532-15909242fcdb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

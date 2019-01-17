@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.GetTable
 ms.assetid: 08d184cb-0c41-01b1-abc5-305476380f8b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

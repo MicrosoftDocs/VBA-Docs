@@ -5,6 +5,7 @@ api_name:
 - Project.Resource.Text23
 ms.assetid: dc3cb6f1-9303-281e-f1af-f46acdea7a2a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

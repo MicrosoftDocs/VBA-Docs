@@ -8,6 +8,7 @@ api_name:
 - Excel.LineFormat.BeginArrowheadWidth
 ms.assetid: 82d9b8fe-4aa5-3292-f792-c14332c2103d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

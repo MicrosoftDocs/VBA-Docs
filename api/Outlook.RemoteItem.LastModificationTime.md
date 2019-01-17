@@ -8,6 +8,7 @@ api_name:
 - Outlook.RemoteItem.LastModificationTime
 ms.assetid: 6ab53bc2-acd7-c453-a7df-ed0c8668af35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

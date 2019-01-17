@@ -8,6 +8,7 @@ api_name:
 - Excel.Style.HorizontalAlignment
 ms.assetid: f7733cd2-2592-24cc-3de8-51e23852369b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

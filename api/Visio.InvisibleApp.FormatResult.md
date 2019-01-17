@@ -8,6 +8,7 @@ api_name:
 - Visio.InvisibleApp.FormatResult
 ms.assetid: c3ade8aa-41dc-c718-6e98-1781b977c763
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

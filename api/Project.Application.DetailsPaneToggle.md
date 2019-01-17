@@ -8,6 +8,7 @@ api_name:
 - Project.Application.DetailsPaneToggle
 ms.assetid: f62a42b2-397f-45c0-f2c1-f0468b8d489b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

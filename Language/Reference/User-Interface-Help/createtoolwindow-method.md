@@ -8,6 +8,7 @@ api_name:
 - Office.CreateToolWindow
 ms.assetid: da49893c-8b04-5bda-f7ff-fd70a70a084f
 ms.date: 12/06/2018
+localization_priority: Normal
 ---
 
 

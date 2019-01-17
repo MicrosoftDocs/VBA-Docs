@@ -8,6 +8,7 @@ api_name:
 - Word.Documents.Count
 ms.assetid: 8d54202f-b070-9233-d0e2-2cb48d85a2cb
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

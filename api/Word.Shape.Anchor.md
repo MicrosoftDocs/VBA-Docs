@@ -8,6 +8,7 @@ api_name:
 - Word.Shape.Anchor
 ms.assetid: a2889d2a-4b47-cf27-a9ef-b9fe479b7929
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Access.CustomControl.SizeToFit
 ms.assetid: 12d27756-3f97-4856-571d-cf9b811cc1e0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

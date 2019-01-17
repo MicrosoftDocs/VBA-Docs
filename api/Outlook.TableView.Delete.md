@@ -8,6 +8,7 @@ api_name:
 - Outlook.TableView.Delete
 ms.assetid: 17ff648a-bfbd-4284-b049-39f0d23df45d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

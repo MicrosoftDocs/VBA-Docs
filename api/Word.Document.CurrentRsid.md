@@ -8,6 +8,7 @@ api_name:
 - Word.Document.CurrentRsid
 ms.assetid: 500a743e-6d1e-e93d-b4d2-20ac13c4651a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

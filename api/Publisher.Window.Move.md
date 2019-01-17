@@ -8,6 +8,7 @@ api_name:
 - Publisher.Window.Move
 ms.assetid: a33b213b-6549-abf7-0217-041b469b798a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

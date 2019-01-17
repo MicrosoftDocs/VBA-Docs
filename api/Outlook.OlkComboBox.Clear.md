@@ -8,6 +8,7 @@ api_name:
 - Outlook.OlkComboBox.Clear
 ms.assetid: e81ed068-2418-a362-a6ed-946a7f9012d1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

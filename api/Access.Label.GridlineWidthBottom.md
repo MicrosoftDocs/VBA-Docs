@@ -8,6 +8,7 @@ api_name:
 - Access.Label.GridlineWidthBottom
 ms.assetid: b64e4f85-2b6b-44c1-ee06-7d9a6ddbadc9
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

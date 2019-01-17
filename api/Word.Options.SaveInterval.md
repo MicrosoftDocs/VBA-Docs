@@ -8,6 +8,7 @@ api_name:
 - Word.Options.SaveInterval
 ms.assetid: 0f0ce021-f883-60d3-6dfe-f17c626dd07e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspace.Refresh
 ms.assetid: 62059fb9-b695-78e7-ad44-c3b918c9d423
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

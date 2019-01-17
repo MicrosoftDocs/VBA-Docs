@@ -8,6 +8,7 @@ api_name:
 - Access.WebBrowserControl.BorderStyle
 ms.assetid: 3f53cca7-0cfd-2e70-5a20-ce4dbdf166da
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

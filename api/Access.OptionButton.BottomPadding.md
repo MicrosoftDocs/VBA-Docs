@@ -8,6 +8,7 @@ api_name:
 - Access.OptionButton.BottomPadding
 ms.assetid: 4813c3b0-03c2-9f43-bb1c-e28d7eff542b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

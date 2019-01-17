@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureInfo.IsCertificateUntrusted
 ms.assetid: c52041d5-2522-7656-5a40-4b0f3035005d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

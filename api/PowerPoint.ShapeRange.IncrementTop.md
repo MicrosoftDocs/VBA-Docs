@@ -8,6 +8,7 @@ api_name:
 - PowerPoint.ShapeRange.IncrementTop
 ms.assetid: 55c18051-97a8-beab-c354-48256daff762
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

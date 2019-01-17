@@ -8,6 +8,7 @@ api_name:
 - Access.ComboBox.ListWidth
 ms.assetid: 488a36f0-3ab1-1bb1-ff48-3e5d33a55139
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

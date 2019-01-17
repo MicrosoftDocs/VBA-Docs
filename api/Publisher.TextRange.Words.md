@@ -8,6 +8,7 @@ api_name:
 - Publisher.TextRange.Words
 ms.assetid: df812db2-98ca-848b-7922-6905cb71124c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

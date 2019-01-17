@@ -8,6 +8,7 @@ api_name:
 - Word.Adjustments.Item
 ms.assetid: 10628688-e927-df50-a16a-e25878676c82
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

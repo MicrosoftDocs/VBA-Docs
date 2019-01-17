@@ -3,6 +3,7 @@ title: CustomXMLValidationErrors Methods (Office)
 ms.prod: office
 ms.assetid: ca407cba-c6fa-4a68-a892-2a6d6667538a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

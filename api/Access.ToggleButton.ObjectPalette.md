@@ -8,6 +8,7 @@ api_name:
 - Access.ToggleButton.ObjectPalette
 ms.assetid: 2634e6e7-5e50-c119-0d4c-93e7f1f3dc35
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

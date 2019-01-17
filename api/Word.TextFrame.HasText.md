@@ -8,6 +8,7 @@ api_name:
 - Word.TextFrame.HasText
 ms.assetid: eb3d99ed-b65f-e0d3-b18f-388cec86bd3d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

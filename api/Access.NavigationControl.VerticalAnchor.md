@@ -8,6 +8,7 @@ api_name:
 - Access.NavigationControl.VerticalAnchor
 ms.assetid: 0018fcea-2b3b-3e57-8055-4aaef922f999
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

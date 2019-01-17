@@ -8,6 +8,7 @@ api_name:
 - Word.LegendKey
 ms.assetid: 07578528-3e73-7898-47dc-296aefb854f0
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

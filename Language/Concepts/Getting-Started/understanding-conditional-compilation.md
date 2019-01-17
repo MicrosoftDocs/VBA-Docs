@@ -6,6 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: d79bb580-f77e-b9fc-5548-3ee2b193947b
 ms.date: 12/21/2018
+localization_priority: Normal
 ---
 
 
@@ -36,4 +37,5 @@ End Sub
 
 ## See also
 
+- [Compiler constants](compiler-constants.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)

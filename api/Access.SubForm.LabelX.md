@@ -8,6 +8,7 @@ api_name:
 - Access.SubForm.LabelX
 ms.assetid: dcad891e-1b31-f9a1-619a-46efae9c3fc6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

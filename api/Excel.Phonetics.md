@@ -1,4 +1,4 @@
-﻿---
+---
 title: Phonetics object (Excel)
 keywords: vbaxl10.chm657072
 f1_keywords:
@@ -8,6 +8,7 @@ api_name:
 - Excel.Phonetics
 ms.assetid: 77c0c55c-a181-c68a-24ed-e6bcaf514663
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

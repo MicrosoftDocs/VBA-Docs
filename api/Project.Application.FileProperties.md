@@ -8,6 +8,7 @@ api_name:
 - Project.Application.FileProperties
 ms.assetid: e1edf1f2-52e1-8a90-aef8-5a5453e89178
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

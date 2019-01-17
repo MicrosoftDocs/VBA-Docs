@@ -8,6 +8,7 @@ api_name:
 - Access.TabControl.StatusBarText
 ms.assetid: ce358992-5dd9-d90a-83bf-b8b099315786
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

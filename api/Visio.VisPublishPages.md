@@ -8,6 +8,7 @@ api_name:
 - Visio.VisPublishPages
 ms.assetid: a638bea0-67e5-0fd1-1984-ffafb37afcb2
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

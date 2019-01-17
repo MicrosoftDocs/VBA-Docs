@@ -8,6 +8,7 @@ api_name:
 - Publisher.WebOptionButton.Selected
 ms.assetid: 039f057c-28f1-ea6b-1fdc-3ee601472fd7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

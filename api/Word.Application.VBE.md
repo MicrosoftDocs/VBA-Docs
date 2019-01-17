@@ -8,6 +8,7 @@ api_name:
 - Word.Application.VBE
 ms.assetid: 641109fd-7ece-9efd-65ba-56e223d8249c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

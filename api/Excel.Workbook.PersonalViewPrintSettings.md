@@ -8,6 +8,7 @@ api_name:
 - Excel.Workbook.PersonalViewPrintSettings
 ms.assetid: 6e4a0a9c-4eb0-d8e1-e9ce-8e9e618996b4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

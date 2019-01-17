@@ -8,6 +8,7 @@ api_name:
 - Excel.Shape.BackgroundStyle
 ms.assetid: 0d080961-6396-1b25-3877-325bae94ea3b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

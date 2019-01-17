@@ -3,6 +3,7 @@ title: IRibbonControl members (Office)
 ms.prod: office
 ms.assetid: 396d85dc-ddd5-8985-0830-22ee5b1579dc
 ms.date: 09/07/2018
+localization_priority: Normal
 ---
 
 

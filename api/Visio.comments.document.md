@@ -3,6 +3,7 @@ title: Comments.Document Property (Visio)
 ms.prod: visio
 ms.assetid: 507d4698-e282-f8a9-1299-c67945ee5fc4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Excel.ColorFormat.Creator
 ms.assetid: f7b1439e-cb87-bffb-94f8-2633f7897917
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

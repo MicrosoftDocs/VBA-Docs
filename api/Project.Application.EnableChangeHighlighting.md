@@ -8,6 +8,7 @@ api_name:
 - Project.Application.EnableChangeHighlighting
 ms.assetid: 68365e16-6746-9ee6-9462-f9b076f986c6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

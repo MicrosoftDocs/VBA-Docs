@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.GetInspector
 ms.assetid: 6d0dc447-80f3-ab00-4bb9-7bbda34745aa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
