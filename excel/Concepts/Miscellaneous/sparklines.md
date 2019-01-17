@@ -27,5 +27,5 @@ This topic links to programming tasks (how-to and walkthrough topics) for common
 -  [Find All the Sparklines on a Sheet](../Sparklines/find-all-the-sparklines-on-a-sheet.md)
     
       - Describes how to find all the sparklines on a worksheet.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

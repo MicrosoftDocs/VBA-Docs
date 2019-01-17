@@ -37,5 +37,5 @@ localization_priority: Normal
 -  [Using Events with the QueryTable Object](../Events-WorksheetFunctions-Shapes/using-events-with-the-querytable-object.md)
     
 -  [Invalid Procedure Name Error](../Events-WorksheetFunctions-Shapes/invalid-procedure-name-error.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
