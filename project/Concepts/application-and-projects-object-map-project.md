@@ -27,4 +27,4 @@ The  **Application** and **Projects** object map for Project shows the main chil
 
 ![Application object and Project object hierarchy](../../images/pj15_VBAObjectMap_AppProject.jpg)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -173,3 +173,4 @@ To create the Microsoft Word objects listed in the following table, use one of t
 |Application|Word.Application, Word.Application.14|
 |Document|Word.Document, Word.Document.8, Word.Template.8, Word.Document.12, Word.Template.12|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

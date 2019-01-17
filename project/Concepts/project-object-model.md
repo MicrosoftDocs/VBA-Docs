@@ -20,5 +20,5 @@ You can use the table of contents to navigate through the documentation. For dia
 -  **[Resources Object Map](resources-object-map-project.md)**
     
 -  **[Tasks Object Map](tasks-object-map-project.md)**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
