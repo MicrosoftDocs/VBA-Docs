@@ -38,4 +38,4 @@ To bind an Access form to a recordset, you must set the form's **Recordset** pro
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
