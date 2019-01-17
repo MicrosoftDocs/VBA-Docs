@@ -133,3 +133,5 @@ localization_priority: Normal
 - [Properties (Visual Basic Add-In Model)](../visual-basic-add-in-model/properties-visual-basic-add-in-model.md)
 - [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

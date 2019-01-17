@@ -34,3 +34,5 @@ The [Properties window](properties-window.md) lists the [design-time](../../Glos
 ## See also
 
 - [Visual Basic how-to topics](visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

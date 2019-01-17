@@ -14,4 +14,4 @@ localization_priority: Normal
 
 There was an error establishing a reference while loading the file, so the reference was not added.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ The stack is a working area of memory that grows and shrinks dynamically with th
 
 To display the  **Calls** dialog box, select the **Calls** button to the right of the [Procedure box](../../Glossary/vbe-glossary.md#procedure-box) in the Debug window or choose the **Calls** command. For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

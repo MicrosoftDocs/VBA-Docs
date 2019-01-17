@@ -61,3 +61,5 @@ Note that the syntax for the **InstrRev** function is not the same as the syntax
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

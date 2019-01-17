@@ -30,3 +30,4 @@ Visual Basic permits you to use very large strings. However, the requirements of
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -61,3 +61,5 @@ MsgBox "Your payment will be " & Format(Payment, Fmt) & " per month."
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

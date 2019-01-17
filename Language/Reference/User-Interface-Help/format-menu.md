@@ -123,3 +123,5 @@ Changes the vertical space between the selected [objects](../../Glossary/vbe-glo
 ## See also
 
 - [Menus and commands](../menus-commands.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

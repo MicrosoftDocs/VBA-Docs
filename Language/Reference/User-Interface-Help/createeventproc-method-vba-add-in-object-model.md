@@ -45,3 +45,5 @@ The **CreateEventProc** method returns the line at which the body of the event p
 - [Collections (Visual Basic Add-In Model)](../visual-basic-add-in-model/collections-visual-basic-add-in-model.md)
 - [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

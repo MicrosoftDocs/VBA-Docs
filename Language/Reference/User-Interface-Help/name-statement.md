@@ -52,3 +52,5 @@ Name OldName As NewName ' Move and rename file.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

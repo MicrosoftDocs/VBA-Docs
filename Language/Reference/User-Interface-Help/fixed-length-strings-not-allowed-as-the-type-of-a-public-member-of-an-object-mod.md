@@ -19,6 +19,5 @@ This error has the following cause and solution:
 - You cannot set the type of a public member of an object module to a fixed-length string. Use a different variable type.
     
 - You cannot set the type of a public member of a public object module to a private object module. Use a different type.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

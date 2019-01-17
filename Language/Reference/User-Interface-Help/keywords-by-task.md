@@ -33,3 +33,5 @@ localization_priority: Priority
 
 - [Keywords (VBA)](../keywords-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

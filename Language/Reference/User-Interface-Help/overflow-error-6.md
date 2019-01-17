@@ -51,3 +51,4 @@ An overflow results when you try to make an assignment that exceeds the limitati
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

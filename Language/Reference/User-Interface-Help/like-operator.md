@@ -104,3 +104,5 @@ MyCheck = "a [xyz" Like "a [*"    ' Throws Error 93 (invalid pattern string).
 
 
 <!-- See wildcard-characters-used-in-string-comparisons.md for more information to add to this page -->
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

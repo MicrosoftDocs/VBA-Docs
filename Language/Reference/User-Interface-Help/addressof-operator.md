@@ -148,3 +148,5 @@ End Sub
 
 - [Invalid use of AddressOf operator](invalid-use-of-addressof-operator.md)
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

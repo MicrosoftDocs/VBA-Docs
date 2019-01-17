@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Most objects can only be used in specific ways, usually when trying to use an object outside the scope for which it is relevant. For example, an object reference passed into a drag-and-drop event can probably only be used in the context of that event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,3 +64,5 @@ MyCheck = A Eqv B    ' Returns -3 (bitwise comparison).
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

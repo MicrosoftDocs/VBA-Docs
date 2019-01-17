@@ -23,3 +23,5 @@ It is a good programming practice to define [constants](../../Glossary/vbe-gloss
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

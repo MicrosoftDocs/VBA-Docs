@@ -17,3 +17,4 @@ All  **[Declare Statements](declare-statement.md)** must now include the **[PtrS
 
 Adding the  **PtrSafe** keyword to a **Declare** statement only signifies the **Declare** statement explicitly targets 64-bits, all data types within the statement that need to store 64-bits (including return values and parameters) must still be modified to hold 64-bit quantities using either [LongLong](longlong-data-type.md) for 64-bit integrals or [LongPtr](longptr-data-type.md) for pointers and handles.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

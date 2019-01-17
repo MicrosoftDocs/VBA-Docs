@@ -104,3 +104,5 @@ ColorName = PenColor
 - [Writing a property procedure](../../concepts/getting-started/writing-a-property-procedure.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

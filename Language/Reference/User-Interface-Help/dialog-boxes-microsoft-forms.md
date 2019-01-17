@@ -19,3 +19,5 @@ localization_priority: Normal
 
 - [Dialog boxes (User Interface Help)](../dialog-boxes.md)
 - [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,3 +54,5 @@ The _index_ argument can be a numeric value or a string containing the title of 
 - [Property object](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#property)
 - [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

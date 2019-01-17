@@ -94,3 +94,5 @@ MyNumber = Var1 + Var2    ' Returns "346" (string concatenation).
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

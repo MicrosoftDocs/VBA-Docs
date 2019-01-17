@@ -29,5 +29,4 @@ localization_priority: Normal
 
 - [Menus and commands](../menus-commands.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

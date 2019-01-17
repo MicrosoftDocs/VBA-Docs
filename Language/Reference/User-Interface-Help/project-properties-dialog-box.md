@@ -87,3 +87,5 @@ The following table describes the tab options.
 
 - [Set project properties](../../how-to/set-project-properties.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

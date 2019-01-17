@@ -67,3 +67,5 @@ MyCheck = A Xor B    ' Returns 2 (bitwise comparison).
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

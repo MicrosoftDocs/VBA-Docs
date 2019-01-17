@@ -92,3 +92,4 @@ Use these key combinations when you set the **Icon** or **Picture** properties, 
 - [Property object](../visual-basic-add-in-model/objects-visual-basic-add-in-model.md#property)
 - [Window elements](../window-elements.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

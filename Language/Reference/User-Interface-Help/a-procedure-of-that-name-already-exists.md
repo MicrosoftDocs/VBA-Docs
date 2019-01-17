@@ -14,4 +14,4 @@ localization_priority: Normal
 
 [Procedure](../../Glossary/vbe-glossary.md#procedure) names within the same [scope](../../Glossary/vbe-glossary.md#scope) must be unique. Change the name of the procedure.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

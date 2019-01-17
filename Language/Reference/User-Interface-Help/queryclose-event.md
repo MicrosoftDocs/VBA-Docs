@@ -74,3 +74,5 @@ End Sub
 
 - [Events (Visual Basic Add-In Model)](../visual-basic-add-in-model/events-visual-basic-add-in-model.md)
 - [Events (Visual Basic for Applications)](../events-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

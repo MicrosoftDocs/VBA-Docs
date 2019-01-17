@@ -99,3 +99,4 @@ Information about **UserForms** and controls, and how to program with them by us
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

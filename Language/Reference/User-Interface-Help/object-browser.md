@@ -120,3 +120,5 @@ You can get Help for the **Object Browser** by searching for Object Browser in H
 - [Code window and Object Browser icons](icons-used-in-the-object-browser-and-code-windows.md)
 - [Object Browser on the View menu](view-menu.md)
 - [Window elements](../window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

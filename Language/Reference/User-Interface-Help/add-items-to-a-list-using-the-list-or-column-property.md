@@ -28,9 +28,5 @@ localization_priority: Normal
 
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](concepts-microsoft-forms.md)
-    
-    
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

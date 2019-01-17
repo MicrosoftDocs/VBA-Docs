@@ -23,3 +23,4 @@ When you click the  **Replace All** button in the **Replace** dialog box, this m
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

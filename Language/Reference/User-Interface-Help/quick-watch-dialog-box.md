@@ -29,3 +29,5 @@ The following table describes the dialog box options.
 
 - [Use Quick Watch](../../how-to/use-quick-watch.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

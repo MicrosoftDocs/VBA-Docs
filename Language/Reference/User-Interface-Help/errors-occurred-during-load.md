@@ -14,4 +14,4 @@ localization_priority: Priority
 
 Check the error log for more descriptive information.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

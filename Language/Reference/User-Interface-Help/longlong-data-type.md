@@ -21,3 +21,5 @@ The [type-declaration character](../../Glossary/vbe-glossary.md#type-declaration
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

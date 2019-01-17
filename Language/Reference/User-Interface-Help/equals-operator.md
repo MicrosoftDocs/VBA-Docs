@@ -32,3 +32,5 @@ The name on the left side of the equal sign can be a simple scalar variable or a
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You defined (or are attempting to define) more than one version of a [procedure](../../Glossary/vbe-glossary.md#procedure) with the same name. Rename one of the procedures. Ensure duplicate **Declare** statements for the same procedure have the same **Alias** clause.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

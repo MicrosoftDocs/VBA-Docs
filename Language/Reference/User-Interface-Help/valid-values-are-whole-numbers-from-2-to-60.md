@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You attempted to set the  **Grid Width** or **Grid Height** beyond the permitted range. A number between 2 and 60 (inclusive) is acceptable for this field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

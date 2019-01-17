@@ -24,3 +24,5 @@ localization_priority: Priority
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

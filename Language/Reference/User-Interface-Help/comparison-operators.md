@@ -104,3 +104,5 @@ MyResult = (Var1 = Var2)    ' Returns True.
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

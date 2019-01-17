@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A control appeared in an incorrect location in the ASCII form file. All controls must be loaded before menus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

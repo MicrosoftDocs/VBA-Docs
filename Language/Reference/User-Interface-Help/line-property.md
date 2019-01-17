@@ -30,3 +30,5 @@ After a file is initially opened and before anything is written, **Line** is equ
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

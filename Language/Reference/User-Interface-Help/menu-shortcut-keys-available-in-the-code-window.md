@@ -48,3 +48,4 @@ Use these key combinations for menu shortcuts in the [Code window](code-window.m
 |CTRL+SHIFT+I|**Parameter Info**|
 |CTRL+SPACEBAR|**Complete Word**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

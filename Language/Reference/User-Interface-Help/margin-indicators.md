@@ -39,3 +39,4 @@ You can turn the Margin Indicator Bar on and off in the  **Editor** **Format** t
 
 |Call Stack Marker|Indicates lines that are currently in the call stack. The Call Stack Marker indicator appears only in [break mode](../../Glossary/vbe-glossary.md#break-mode).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

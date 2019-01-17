@@ -33,3 +33,5 @@ Provides documentation about Visual Basic the language: all its methods, propert
 - [Visual Basic user interface help](visual-basic-user-interface-help.md)
 - [Object library reference for Office (members, properties, methods)](https://docs.microsoft.com/office/vba/api/overview/library-reference/reference-object-library-reference-for-office)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

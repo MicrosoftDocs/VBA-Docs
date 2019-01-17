@@ -56,3 +56,5 @@ Error 11 ' Simulate the "Division by zero" error.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

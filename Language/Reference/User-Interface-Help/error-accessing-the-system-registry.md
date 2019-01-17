@@ -21,3 +21,4 @@ Some operations must access your system's registration database. This error has 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

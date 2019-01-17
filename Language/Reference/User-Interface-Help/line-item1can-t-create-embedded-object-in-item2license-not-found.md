@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An embedded object could not be created during the load of a form, User Control, User Document, or Property Page from a text file, due to the license file not being found. You must have a license to use this object. Check with the object's vendor for more information. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

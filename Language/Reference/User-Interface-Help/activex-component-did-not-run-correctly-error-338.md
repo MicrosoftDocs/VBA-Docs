@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ActiveX component's .exe file failed to run correctly. There may be a problem with the information in the [registry](../../Glossary/vbe-glossary.md#registry).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

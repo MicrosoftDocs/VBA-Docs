@@ -44,3 +44,5 @@ In a **Variant**, **Error** is a special value used to indicate that an error co
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

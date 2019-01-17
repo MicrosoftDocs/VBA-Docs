@@ -63,3 +63,5 @@ Erase DynamicArray ' Free memory used by array.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

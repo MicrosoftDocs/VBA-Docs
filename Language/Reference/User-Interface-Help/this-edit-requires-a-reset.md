@@ -16,3 +16,4 @@ In most cases, you can edit code and continue running the code from the point of
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

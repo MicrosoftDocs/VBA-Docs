@@ -35,3 +35,5 @@ Only **VbNormal**, **vbReadOnly**, **vbHidden**, and **vbAlias** are available o
 - [GetAttr function](getattr-function.md)
 - [SetAttr statement](setattr-statement.md)
 - [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

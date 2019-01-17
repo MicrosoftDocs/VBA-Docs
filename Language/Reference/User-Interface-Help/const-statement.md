@@ -72,3 +72,5 @@ Const MyStr = "Hello", MyDouble As Double = 3.4567
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

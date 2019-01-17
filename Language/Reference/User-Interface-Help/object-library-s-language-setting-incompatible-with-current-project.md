@@ -22,4 +22,4 @@ The reference couldn't be added. This error has the following cause and solution
     
      **Note**  When Visual Basic is the host application, it isn't possible to change a project's language setting. Any object libraries used must be compatible with the English/U.S. setting.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

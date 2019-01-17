@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You can't load the file while it contains the invalid key.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

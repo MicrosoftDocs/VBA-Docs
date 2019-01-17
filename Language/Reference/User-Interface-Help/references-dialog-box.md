@@ -31,4 +31,4 @@ The following table describes the dialog box options.
 - [Set reference to a type library](../../how-to/set-reference-to-a-type-library.md)
 - [Dialog boxes](../dialog-boxes.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

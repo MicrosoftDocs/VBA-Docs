@@ -49,3 +49,5 @@ Use these key combinations in the Watch window.
 - [Delete a watch expression](../../how-to/delete-a-watch-expression.md)
 - [Edit a watch expression](../../how-to/edit-a-watch-expression.md)
 - [Window elements](../window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

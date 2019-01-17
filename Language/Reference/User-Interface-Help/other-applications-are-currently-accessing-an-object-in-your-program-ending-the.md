@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An [Automation object](../../Glossary/vbe-glossary.md#automation-object) in the Visual Basic program you are currently running is being accessed by at least one other application. Terminating your program could cause an error in the other application. Click **Yes** to quit your program or click **No** to continue it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

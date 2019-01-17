@@ -52,3 +52,5 @@ MyChar = Chr(37)    ' Returns %.
 - [Character set (0 - 127)](character-set-0127.md)
 - [Character set (128 - 255)](character-set-128255.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

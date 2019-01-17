@@ -29,3 +29,5 @@ When **Boolean** values are converted to other [data types](../../Glossary/vbe-g
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

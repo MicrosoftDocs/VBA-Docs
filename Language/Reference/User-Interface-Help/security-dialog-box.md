@@ -42,3 +42,5 @@ If you added a certificate to your list of trusted sources when you first opened
 
 - [Digital Signature dialog box](digital-signature-dialog-box.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The file you specified is already part of the [project](../../Glossary/vbe-glossary.md#project). You can't add the same file to a project more than once. You can't save a file with the same name as another file in the project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

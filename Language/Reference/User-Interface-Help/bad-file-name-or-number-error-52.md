@@ -51,3 +51,4 @@ An error occurred trying to access the specified file. This error has the follow
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

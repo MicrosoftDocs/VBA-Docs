@@ -54,5 +54,5 @@ Microsoft Forms has three collections:
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Microsoft Forms conceptual topics](concepts-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

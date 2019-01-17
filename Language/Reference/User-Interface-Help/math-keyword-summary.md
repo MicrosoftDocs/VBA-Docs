@@ -26,3 +26,5 @@ localization_priority: Normal
 ## See also
 
 - [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

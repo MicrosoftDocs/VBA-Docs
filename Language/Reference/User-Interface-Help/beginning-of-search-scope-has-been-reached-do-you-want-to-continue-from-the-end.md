@@ -17,6 +17,5 @@ Your search was unsuccessful. This condition has the following cause and solutio
 
 
 - Your upward search has reached the beginning of the specified scope. You can continue searching from the end of the search scope, or cancel and change the scope of the search.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

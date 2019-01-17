@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You tried to load a form from Visual Basic version 1.0 or a form from a version later than this version of Visual Basic. This is not supported.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

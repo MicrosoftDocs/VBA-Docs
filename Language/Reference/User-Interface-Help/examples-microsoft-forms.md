@@ -94,3 +94,5 @@ localization_priority: Priority
 ## See also
 
 - [Microsoft Forms](reference-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

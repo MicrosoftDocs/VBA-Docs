@@ -45,3 +45,5 @@ MyValue = 9 \ 3   ' Returns 3.
 MyValue = 100 \ 3   ' Returns 33.
 
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

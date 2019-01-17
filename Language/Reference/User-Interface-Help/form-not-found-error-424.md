@@ -18,4 +18,4 @@ You tried to add a form to the  **UserForms** collection using the **Add** metho
 
  **Note**  Make sure that the class name is available to your [project](../../Glossary/vbe-glossary.md#project).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

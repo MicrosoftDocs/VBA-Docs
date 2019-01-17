@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You can't have two items of the specified kind loaded at the same time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

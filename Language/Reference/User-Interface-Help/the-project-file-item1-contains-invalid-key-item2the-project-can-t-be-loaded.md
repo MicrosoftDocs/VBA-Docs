@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You can't load the [project](../../Glossary/vbe-glossary.md#project) while the project file contains the invalid key.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

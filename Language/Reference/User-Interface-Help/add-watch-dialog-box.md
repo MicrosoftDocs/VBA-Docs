@@ -36,4 +36,4 @@ The following table describes the dialog box options.
 
 - [Dialog boxes](../dialog-boxes.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

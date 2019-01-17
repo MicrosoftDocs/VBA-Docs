@@ -14,4 +14,4 @@ localization_priority: Normal
 
 This file was created with an earlier version of Visual Basic. When you save it, it will be saved in the file format of the current version.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

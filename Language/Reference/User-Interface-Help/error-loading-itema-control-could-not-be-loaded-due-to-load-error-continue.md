@@ -14,4 +14,4 @@ localization_priority: Normal
 
 This error message appears after another error has occurred. After you've taken the appropriate action for that error, you will see this error message. To load the control anyway, click  **Yes**; to cancel the loading, click **No**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

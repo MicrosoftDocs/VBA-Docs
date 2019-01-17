@@ -33,3 +33,5 @@ You can:
 ## See also
 
 - [Window elements](../window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

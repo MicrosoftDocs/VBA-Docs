@@ -62,3 +62,5 @@ Adds existing [modules](../../Glossary/vbe-glossary.md#module) and forms to your
 ## See also
 
 - [Menus and commands](../menus-commands.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

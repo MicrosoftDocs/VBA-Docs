@@ -18,3 +18,4 @@ An `#else` clause was detected that isn't preceded by a matching `#if` or `#else
     
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

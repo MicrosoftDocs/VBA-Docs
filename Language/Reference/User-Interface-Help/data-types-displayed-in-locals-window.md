@@ -28,3 +28,4 @@ The following is a list of data types and their default state when they are disp
 |**Decimal**|Value is displayed.|
 |**Array**|No value is displayed. Non-editable. Collapsed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

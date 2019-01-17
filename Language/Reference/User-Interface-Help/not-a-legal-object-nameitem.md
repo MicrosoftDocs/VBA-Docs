@@ -16,3 +16,4 @@ Form and [control](../../Glossary/vbe-glossary.md#control) names must start with
 
 Note that the  **Name** property of a form or control is different from the **[Label](label-control.md)** properties — **Caption**, **Text**, and **Value** — that label or display the contents of a control at [run time](../../Glossary/vbe-glossary.md#run-time). These [properties](../../Glossary/vbe-glossary.md#property) can be restricted[keywords](../../Glossary/vbe-glossary.md#keyword), can begin with a number, and can contain nonalphanumeric characters.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

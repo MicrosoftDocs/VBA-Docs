@@ -64,3 +64,5 @@ RetVal = Shell("C:\WINDOWS\CALC.EXE", 1)    ' Run Calculator.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

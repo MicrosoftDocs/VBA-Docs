@@ -59,3 +59,5 @@ MyValue = 459.35 * 334.90     ' Returns 153836.315.
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

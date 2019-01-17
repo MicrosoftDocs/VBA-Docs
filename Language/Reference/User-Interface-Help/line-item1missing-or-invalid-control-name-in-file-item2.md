@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains an unknown control name in the form description, or the control name isn't a valid string in Visual Basic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

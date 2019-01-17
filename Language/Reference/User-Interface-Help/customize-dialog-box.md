@@ -85,3 +85,5 @@ The following table describes the tab options.
 ## See also
 
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

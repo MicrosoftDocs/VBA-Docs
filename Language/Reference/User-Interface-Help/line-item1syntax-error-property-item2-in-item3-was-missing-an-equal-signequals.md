@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a property name and value without an equal sign (**=**) between them. The property isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

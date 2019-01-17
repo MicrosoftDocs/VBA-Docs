@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a property name that isn't a valid [property](../../Glossary/vbe-glossary.md#property) for that control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

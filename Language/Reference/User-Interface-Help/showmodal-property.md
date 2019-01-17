@@ -40,3 +40,5 @@ Modeless forms do not appear in the task bar and are not in the window tab order
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

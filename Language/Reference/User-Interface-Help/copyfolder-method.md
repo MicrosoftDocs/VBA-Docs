@@ -64,3 +64,5 @@ The **CopyFolder** method stops on the first error it encounters. No attempt is 
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

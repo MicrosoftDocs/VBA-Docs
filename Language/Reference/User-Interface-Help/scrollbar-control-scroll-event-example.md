@@ -52,4 +52,4 @@ Private Sub ScrollBar1_Scroll()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

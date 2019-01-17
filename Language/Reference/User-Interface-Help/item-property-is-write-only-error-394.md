@@ -17,6 +17,5 @@ The [property](../../Glossary/vbe-glossary.md#property) can't be read. This erro
 
 
 - A property can't be read; for example,  `ctl.property = 3` might be legal, but " `Printctl.property`" would generate this error. Change your code and remove the reference to the property.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

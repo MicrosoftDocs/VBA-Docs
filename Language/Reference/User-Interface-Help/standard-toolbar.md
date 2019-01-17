@@ -46,3 +46,5 @@ You can click a toolbar button once to carry out the action represented by that 
 - [Insert menu](insert-menu.md)
 - [Edit menu](edit-menu.md)
 - [Toolbars](../toolbars.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

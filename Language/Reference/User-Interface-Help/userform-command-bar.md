@@ -35,3 +35,5 @@ You can click a toolbar button once to carry out the action represented by that 
 - [UserForm window](userform-window.md)
 - [UserForm object](userform-object.md)
 - [Toolbars](../toolbars.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

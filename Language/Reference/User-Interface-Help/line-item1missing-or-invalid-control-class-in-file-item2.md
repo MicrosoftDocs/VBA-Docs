@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains an unknown control [class](../../Glossary/vbe-glossary.md#class) in the form description, or the class name isn't a valid string in Visual Basic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

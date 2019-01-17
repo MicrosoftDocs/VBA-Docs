@@ -58,3 +58,5 @@ MyDate = DateSerial(1969, 2, 12)    ' Return a date.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

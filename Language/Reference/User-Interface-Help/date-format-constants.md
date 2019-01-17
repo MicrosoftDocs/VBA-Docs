@@ -27,3 +27,5 @@ These constants are only available when your project has an explicit reference t
 ## See also
 
 - [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

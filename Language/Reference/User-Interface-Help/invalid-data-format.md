@@ -31,3 +31,4 @@ The data read from a file wasn't in the expected format. This error has the foll
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

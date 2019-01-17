@@ -43,3 +43,5 @@ The following is a list of nonintrinsic math functions that can be derived from 
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

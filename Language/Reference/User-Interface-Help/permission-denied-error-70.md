@@ -29,3 +29,4 @@ An attempt was made to write to a write-protected disk or to access a locked fil
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

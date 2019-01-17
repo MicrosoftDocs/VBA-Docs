@@ -17,6 +17,5 @@ You don't have the necessary permissions for the specified object. This error ha
 
 
 - You don't currently have the authority to access this object. To change your permission assignments, see your system administrator or the object's creator.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

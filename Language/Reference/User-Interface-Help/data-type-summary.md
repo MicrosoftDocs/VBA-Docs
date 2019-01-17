@@ -96,3 +96,4 @@ To verify data types, see the following functions:
 - [Keywords by task](keywords-by-task.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

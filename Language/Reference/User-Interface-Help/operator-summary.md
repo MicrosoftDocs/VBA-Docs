@@ -29,3 +29,5 @@ When several operations occur in an expression, each part is evaluated and resol
 
 - [AddressOf operator](addressof-operator.md) 
 - [Keywords by task](keywords-by-task.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

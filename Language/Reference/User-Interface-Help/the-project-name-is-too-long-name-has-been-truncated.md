@@ -14,4 +14,4 @@ localization_priority: Normal
 
 If a [project](../../Glossary/vbe-glossary.md#project) name exceeds permitted length, it is truncated to the maximum permitted length.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
