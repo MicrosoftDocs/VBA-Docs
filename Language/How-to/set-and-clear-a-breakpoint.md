@@ -43,3 +43,5 @@ If you set a breakpoint on a line that contains several statements separated by 
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

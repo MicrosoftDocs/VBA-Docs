@@ -45,3 +45,4 @@ This feature is turned on when you first start, but you can turn it off if you p
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

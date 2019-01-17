@@ -30,3 +30,5 @@ You can also enter [procedure-level](../Glossary/vbe-glossary.md#procedure-level
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

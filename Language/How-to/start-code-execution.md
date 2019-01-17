@@ -30,3 +30,5 @@ To get Help, choose the **Help** button or press F1 while the error message is d
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

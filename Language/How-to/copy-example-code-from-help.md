@@ -35,3 +35,5 @@ Sometimes you may want to copy a useful example from Visual Basic Help. While ma
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

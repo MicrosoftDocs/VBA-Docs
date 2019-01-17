@@ -44,3 +44,5 @@ Code within a [module](../Glossary/vbe-glossary.md#module) is organized into [pr
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
