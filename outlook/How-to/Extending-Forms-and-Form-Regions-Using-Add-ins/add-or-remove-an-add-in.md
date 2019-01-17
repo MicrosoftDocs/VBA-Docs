@@ -27,5 +27,5 @@ For more information, see the following topics:
 -  [Add-ins Overview](../../Concepts/Outlook-Forms/add-ins-overview.md)
     
 -  [Extending a Form Region with an Add-in](../../Concepts/Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

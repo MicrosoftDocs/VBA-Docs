@@ -28,5 +28,5 @@ In this approach, you take a standard Microsoft Outlook item, such as a contact,
 4. Design the form by moving, removing, and adding fields and pages in the form. All the fields in the form and all the fields you add from the  **Field Chooser** retain their built-in properties and functionality.
     
 5.  [Test and publish](../../Concepts/Outlook-Forms/testing-and-publishing-your-forms.md) your form. You can see how your form looks right away; open your new form in run mode by clicking **Run This Form** in the **Form** group on the form. You can publish your form to your Personal Forms Library or to a folder to test it, and then publish the form to a public folder or to the Organization Forms Library so that others can use it.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
