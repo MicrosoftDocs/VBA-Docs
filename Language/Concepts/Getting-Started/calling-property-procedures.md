@@ -33,3 +33,5 @@ In practice, the only use for property procedures with multiple arguments is to 
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

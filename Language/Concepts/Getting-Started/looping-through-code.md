@@ -46,4 +46,4 @@ In Visual Basic, usually you must specify an object before you can run one of it
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

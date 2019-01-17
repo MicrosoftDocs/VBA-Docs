@@ -94,3 +94,5 @@ This example shows various uses of the **Def**_type_ statements to set default d
 - [Data types](../../reference/user-interface-help/data-type-summary.md)
 - [Statements](../../reference/statements.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

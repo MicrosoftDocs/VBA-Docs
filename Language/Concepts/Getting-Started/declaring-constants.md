@@ -35,3 +35,5 @@ Const conAge As Integer = 34, conWage As Currency = 35000
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

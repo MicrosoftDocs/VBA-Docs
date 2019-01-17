@@ -63,3 +63,5 @@ The data type of the final argument in a **Property Set** declaration must be ei
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

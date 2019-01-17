@@ -42,3 +42,5 @@ You should test your recursive procedure to make sure it does not call itself so
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

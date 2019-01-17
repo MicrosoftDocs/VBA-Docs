@@ -237,3 +237,5 @@ MyVar = CVar(MyInt & 000) ' MyVar contains the string
 - [Data types summary](../../reference/user-interface-help/data-type-summary.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

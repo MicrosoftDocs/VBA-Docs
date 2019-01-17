@@ -42,3 +42,5 @@ This case is an example of a [class](../../Glossary/vbe-glossary.md#class) in th
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
