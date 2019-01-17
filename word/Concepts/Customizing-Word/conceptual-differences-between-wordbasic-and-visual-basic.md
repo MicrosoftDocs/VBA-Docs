@@ -101,4 +101,4 @@ ActiveDocument.Paragraphs(1).Range.Bold = True
 
 Both of these example change the formatting in the active document without changing the selection. For more information about the  **Range** object, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -181,3 +181,4 @@ The following table describes the return values associated with buttons in dialo
 |0 (zero)|The  **Cancel** button.|
 |> 0 (zero)|A command button: 1 is the first button, 2 is the second button, and so on.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

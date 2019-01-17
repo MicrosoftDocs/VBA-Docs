@@ -42,5 +42,5 @@ Use the following procedure to create a custom dialog box:
 7.  [Use control values while code is running](../Objects-Properties-Methods/using-control-values-while-code-is-running-word.md)
     
     Some properties can be set at run time. Values the user sets for controls in the dialog box are lost when the dialog box is closed.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

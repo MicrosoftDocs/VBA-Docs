@@ -245,3 +245,4 @@ Although you are encouraged to use VBA keywords to get or set the value of dialo
 | **wdDialogWebOptions**|(none)|
 | **wdDialogWindowActivate**| **_Window_**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

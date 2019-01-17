@@ -157,4 +157,4 @@ End Sub
 
 Turn on the macro recorder and customize a menu or toolbar to determine the  **ID** value for a particular command (for example, ID 60 is the **Double Underline** command).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

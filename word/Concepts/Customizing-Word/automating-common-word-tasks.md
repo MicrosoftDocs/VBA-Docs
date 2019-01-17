@@ -23,3 +23,4 @@ This topic includes some common Word tasks and the Visual Basic code needed to a
  [Working with tables](../Working-with-Word/working-with-tables.md)
  [Working with documents](../Working-with-Word/working-with-document-objects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

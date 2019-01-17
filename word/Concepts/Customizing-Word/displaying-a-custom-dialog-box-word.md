@@ -27,4 +27,4 @@ End Sub
 
  **Note**  Use the  **Unload** method in an event procedure, such as the Click event procedure for a command button, to close a dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
