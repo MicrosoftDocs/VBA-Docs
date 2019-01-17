@@ -56,5 +56,4 @@ The following table shows when to use which entry points.
 |**Action on properties**|Get and set explicit built-in properties of item objects.|Enumerate, create, get, set, and remove custom properties of item objects.|Enumerate explicit built-in properties and custom properties of item objects; create, get, set, and remove custom properties of item objects.|Get and set built-in properties, and create, get, set, and remove custom properties. Objects include item objects and the following: **AddressEntry**, **AddressList**, **Attachment**, **ExchangeUser**, **ExchangeDistributionList**, **Folder**, **Recipient**, and **Store**. Access properties by the appropriate namespaces. For more information, see [Referencing Properties by Namespace](referencing-properties-by-namespace.md).|
 |**Performance**|No performance overhead.|Enumerating and accessing properties using **UserProperties** can incur performance overhead.|Enumerating and accessing properties using **ItemProperties** can incur performance overhead.|Using the **PropertyAccessor** to access properties incurs performance overhead. For getting or setting multiple properties, use **GetProperties** and **SetProperties** as opposed to repeated calls to **GetProperty** and **SetProperty**.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

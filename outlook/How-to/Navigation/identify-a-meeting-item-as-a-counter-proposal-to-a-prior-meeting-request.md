@@ -46,4 +46,4 @@ private bool IsCounterProposal(Outlook.MeetingItem meeting)
 }
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

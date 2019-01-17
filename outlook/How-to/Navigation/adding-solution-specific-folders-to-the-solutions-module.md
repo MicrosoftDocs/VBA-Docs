@@ -23,3 +23,4 @@ A solution root folder and its subfolders must reside on the same store. If the 
 
  [Customizing the Navigation Pane](customizing-the-navigation-pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
