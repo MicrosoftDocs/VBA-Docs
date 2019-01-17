@@ -275,3 +275,4 @@ localization_priority: Priority
 |xlDialogWorkspace|fixed, decimals, r1c1, scroll, status, formula, menu_key, remote, entermove, underlines, tools, notes, nav_keys, menu_key_action, drag_drop, show_info|
 |xlDialogZoom|magnification|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

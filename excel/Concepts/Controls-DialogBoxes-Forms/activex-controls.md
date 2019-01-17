@@ -27,3 +27,4 @@ For more information about a specific control, select an object from the followi
 [TextBox](../../../language/reference/User-Interface-Help/textbox-control.md) | 
 [ToggleButton](../../../language/reference/User-Interface-Help/togglebutton-control.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
