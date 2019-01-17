@@ -194,4 +194,4 @@ You will specify the following in C's form region manifest XML file:
 <displayAfter>FormRegionB</displayAfter>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

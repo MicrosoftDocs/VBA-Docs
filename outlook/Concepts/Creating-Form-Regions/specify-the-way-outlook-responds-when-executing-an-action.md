@@ -39,3 +39,4 @@ Note that the child  **method** element of the **action** element can contain on
 | **prompt**|Outlook will prompt the user whether to open the resulting item now or send it immediately.|
 | **send**|Outlook will send the resulting item automatically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

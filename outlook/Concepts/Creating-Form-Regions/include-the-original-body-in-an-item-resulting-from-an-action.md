@@ -44,3 +44,4 @@ Note that the child  **body** element of the **action** element can contain one 
 | **prefix**|The body of the current item is included in the body of the resulting item and prefixed with the quotation character.|
 | **user**|The user's preferences are applied in how the body should be handled.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

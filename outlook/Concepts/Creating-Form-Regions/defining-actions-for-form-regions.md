@@ -23,5 +23,5 @@ localization_priority: Normal
 -  [Specify the Way Outlook Responds When Executing an Action](specify-the-way-outlook-responds-when-executing-an-action.md)
     
 -  [Specify a Subject Prefix of an Item Resulting from an Action](specify-a-subject-prefix-of-an-item-resulting-from-an-action.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

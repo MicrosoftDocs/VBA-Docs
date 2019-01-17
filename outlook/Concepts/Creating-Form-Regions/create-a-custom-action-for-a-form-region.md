@@ -143,4 +143,4 @@ The following example assigns `replyToBlog` as the internal name of a custom act
 - [To specify the way that Outlook responds when executing the action](specify-the-way-outlook-responds-when-executing-an-action.md)
 - [To specify the prefix value in the subject of the resulting item](specify-a-subject-prefix-of-an-item-resulting-from-an-action.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
