@@ -36,4 +36,4 @@ The  **ExchangeDistributionList** object also supports methods like **[GetExchan
 
 Certain properties like  **Comments** are read-write and can only be updated (using **[ExchangeDistributionList.Update](../../../api/Outlook.ExchangeDistributionList.Update.md)**) by code that is running under an appropriate Exchange administrator account.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

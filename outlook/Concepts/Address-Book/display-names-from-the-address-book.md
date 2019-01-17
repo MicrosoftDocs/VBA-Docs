@@ -67,3 +67,4 @@ To display the dialog box with names from an address list:
 
  [How to: Identify the Global Address List or a Set of Address Lists with a Store](identify-the-global-address-list-or-a-set-of-address-lists-with-a-store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
