@@ -27,5 +27,5 @@ You can use VBScript to extend the  **Click** event of a control in a custom for
 ```
 
 3. Enter the code that you want in the event.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ The Script Editor can move the insertion point to a specific line of code. This 
     
 Learn about  [the Outlook object browser](about-the-outlook-object-browser.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ The following events occur in the order specified when a user completes an actio
 
 The  **Click** event occurs only when you have defined it for a control in the Script Editor.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

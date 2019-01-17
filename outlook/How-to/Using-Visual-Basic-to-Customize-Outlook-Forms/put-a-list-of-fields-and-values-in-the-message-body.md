@@ -31,4 +31,4 @@ MessageString = MessageString & "second line goes here"
 Item.Body = MessageString
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

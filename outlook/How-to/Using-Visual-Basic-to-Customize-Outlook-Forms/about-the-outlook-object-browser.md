@@ -16,3 +16,4 @@ The Microsoft Outlook object browser displays the classes, properties, methods, 
 
 Learn about  [viewing and using the object browser](use-the-outlook-object-browser-in-the-script-editor.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,4 @@ You can use the Microsoft Outlook object model to return information about all i
 
 While the  **Items.Find**,  **Items.Restrict**,  **Table.FindRow**, and  **Table.Restrict** methods perform similar search and filter functions, **Items.Find** supports only the Microsoft Jet syntax whereas the others support both the Jet syntax and the DAV Searching and Locating (DASL) syntax. For more information on these syntaxes, see [Filtering Items](../Search-and-Filter/filtering-items.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

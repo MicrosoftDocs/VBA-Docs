@@ -45,4 +45,4 @@ The details pane shows the definition of the selected member. This text is read-
 
  **Note**  The  **Insert** button remains unavailable until a member of the object is selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

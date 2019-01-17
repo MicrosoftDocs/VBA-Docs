@@ -46,3 +46,4 @@ The following table lists the item-level events supported by Outlook.
 | **Unload**|No|Occurs before an Outlook item is unloaded from memory, either programmatically or by user action|
 | **Write**|Yes|Occurs before Outlook saves the item in a folder|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

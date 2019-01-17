@@ -28,5 +28,5 @@ There are two types of variables. Procedure-level variables that are used only w
 - Cannot use more than 127 procedure-level variables (arrays count as a single variable).
     
 - Cannot use more than 127 script-level variables.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

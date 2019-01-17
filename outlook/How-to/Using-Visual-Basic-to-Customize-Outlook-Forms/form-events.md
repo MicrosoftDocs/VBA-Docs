@@ -25,5 +25,5 @@ localization_priority: Normal
 -  [Add an Outlook Event](add-an-outlook-event.md)
     
 -  [Canceling an Event](canceling-an-event.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
