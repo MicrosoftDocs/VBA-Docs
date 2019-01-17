@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.Email3Address
 ms.assetid: b0f29077-a06c-a2cf-e873-b9d560d91498
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

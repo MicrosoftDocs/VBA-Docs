@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLPart.Errors
 ms.assetid: 0b95f9fa-0efa-08aa-2fbd-27a726ce4290
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

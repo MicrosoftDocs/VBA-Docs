@@ -8,6 +8,7 @@ api_name:
 - Outlook.Accounts.AutoDiscoverComplete
 ms.assetid: 86738163-4fb3-b2f5-40bd-4704081d4564
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

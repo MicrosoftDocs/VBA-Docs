@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentInspector.Parent
 ms.assetid: a8c17893-5bbf-c1fd-709b-144f0cc00560
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

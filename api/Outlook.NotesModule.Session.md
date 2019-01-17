@@ -8,6 +8,7 @@ api_name:
 - Outlook.NotesModule.Session
 ms.assetid: 066a38fa-3b6a-ea03-9bee-23ec95c89388
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

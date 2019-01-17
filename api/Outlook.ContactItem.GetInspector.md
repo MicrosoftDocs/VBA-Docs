@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.GetInspector
 ms.assetid: d1f8530f-f797-413f-92cb-d0e8215de0e4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

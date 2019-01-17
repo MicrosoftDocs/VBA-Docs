@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.Copy
 ms.assetid: 36f59955-3bbb-99b4-af1a-3b0165470a89
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

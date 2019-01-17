@@ -5,6 +5,7 @@ api_name:
 - Office.TextFrame2.Ruler
 ms.assetid: 3d975982-25d3-644a-102d-aa116a606d71
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

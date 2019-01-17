@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.SelectedMailingAddress
 ms.assetid: 7f0a68a0-2663-276f-7217-f580d63edb51
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

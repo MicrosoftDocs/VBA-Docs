@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.MiddleName
 ms.assetid: 07e0c9b1-1093-2f8a-3b89-ba8570b2bdf5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

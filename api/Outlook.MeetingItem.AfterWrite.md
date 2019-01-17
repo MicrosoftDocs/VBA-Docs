@@ -5,6 +5,7 @@ api_name:
 - Outlook.MeetingItem.AfterWrite
 ms.assetid: 10fab1af-e29f-74d2-5fae-aa61822f06dd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.LanguageSettings.Parent
 ms.assetid: 5f10ab2b-bbab-7a91-a298-42f12e1c1b22
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

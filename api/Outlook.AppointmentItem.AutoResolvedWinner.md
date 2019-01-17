@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.AutoResolvedWinner
 ms.assetid: d48a7ba9-bb70-9126-98ef-3bdee1f62436
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

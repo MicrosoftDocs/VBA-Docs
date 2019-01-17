@@ -5,6 +5,7 @@ api_name:
 - Outlook.AppointmentItem.Unload
 ms.assetid: 9629cf4d-99e7-c751-0543-15daf41df49c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

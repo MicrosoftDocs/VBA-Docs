@@ -8,6 +8,7 @@ api_name:
 - Outlook.NoteItem.AutoResolvedWinner
 ms.assetid: c5ded563-e104-0c03-5601-a27692445b24
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

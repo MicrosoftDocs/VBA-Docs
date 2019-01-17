@@ -8,6 +8,7 @@ api_name:
 - Office.FileDialog.InitialView
 ms.assetid: 17950503-6511-8159-7f9f-406dd22e4fca
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

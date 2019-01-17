@@ -5,6 +5,7 @@ api_name:
 - Office.TextFrame2.MarginLeft
 ms.assetid: b50a09fd-9f81-088b-3263-d0bbb8b83379
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

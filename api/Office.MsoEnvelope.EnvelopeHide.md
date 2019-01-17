@@ -8,6 +8,7 @@ api_name:
 - Office.MsoEnvelope.EnvelopeHide
 ms.assetid: 066b0ed0-bd5d-f37e-6c04-66e0a59733d4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

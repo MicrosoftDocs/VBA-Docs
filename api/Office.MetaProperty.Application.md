@@ -5,6 +5,7 @@ api_name:
 - Office.MetaProperty.Application
 ms.assetid: 470b8214-30e9-acc2-a077-cb9b24608aab
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.Priority
 ms.assetid: 1bb78346-a815-75f8-f2f6-8ecff2b54cbd
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

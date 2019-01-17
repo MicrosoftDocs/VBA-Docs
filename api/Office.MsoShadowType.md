@@ -5,6 +5,7 @@ api_name:
 - Office.MsoShadowType
 ms.assetid: 736e847a-00a1-098c-25a1-15faf8acfad7
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

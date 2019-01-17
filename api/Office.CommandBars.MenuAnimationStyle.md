@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.MenuAnimationStyle
 ms.assetid: bd79a55a-23f4-6056-649b-9dc384b597aa
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

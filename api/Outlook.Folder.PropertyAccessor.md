@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.PropertyAccessor
 ms.assetid: 8b6fb7a7-a87d-3df3-ae74-19447bc31a0e
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

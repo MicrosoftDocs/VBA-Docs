@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBar.Delete
 ms.assetid: 6976f273-dbd4-5f3d-52ef-0d6d5cc886c9
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

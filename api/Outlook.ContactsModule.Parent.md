@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactsModule.Parent
 ms.assetid: a4a0d34e-2587-ea05-578c-17f0728d674f
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

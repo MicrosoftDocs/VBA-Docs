@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormRegion.Visible
 ms.assetid: 3830982e-7b28-3b56-4ca1-4fa24ba9dd50
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

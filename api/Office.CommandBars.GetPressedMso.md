@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.GetPressedMso
 ms.assetid: 97811bb6-cc5c-eccc-9149-76bdfa37541f
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.DocumentProperties.Application
 ms.assetid: b91998a4-f933-d584-8293-e63ad82447e2
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

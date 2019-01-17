@@ -5,6 +5,7 @@ api_name:
 - Office.TextRange2.Length
 ms.assetid: 3b873f1f-5120-3832-1d34-b8c0f668bba3
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

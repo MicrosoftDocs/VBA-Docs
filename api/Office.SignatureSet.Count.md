@@ -8,6 +8,7 @@ api_name:
 - Office.SignatureSet.Count
 ms.assetid: 6918bb9c-775e-241d-c126-6e4a3a63c654
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

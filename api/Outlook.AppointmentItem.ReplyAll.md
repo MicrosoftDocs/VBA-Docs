@@ -5,6 +5,7 @@ api_name:
 - Outlook.AppointmentItem.ReplyAll
 ms.assetid: c49245b9-0770-f551-c382-3f5745aead04
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

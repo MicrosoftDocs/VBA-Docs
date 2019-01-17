@@ -8,6 +8,7 @@ api_name:
 - Outlook.Inspector.Parent
 ms.assetid: 671b4d39-001f-6fca-6910-842932780def
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

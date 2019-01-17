@@ -8,6 +8,7 @@ api_name:
 - Office.ODSOFilters.Delete
 ms.assetid: 0c2e8b91-e14d-1303-2239-986162ff038b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

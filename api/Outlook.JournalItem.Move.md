@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.Move
 ms.assetid: 921be947-496f-e6e5-49f3-8b7a0a42dc27
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

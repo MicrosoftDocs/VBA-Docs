@@ -8,6 +8,7 @@ api_name:
 - Outlook.IconView.SaveOption
 ms.assetid: 23beb50f-94ab-c3dc-da06-7c8a51355c4a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

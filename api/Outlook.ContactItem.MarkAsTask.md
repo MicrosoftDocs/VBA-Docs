@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.MarkAsTask
 ms.assetid: def25d8d-6074-5e4d-18d9-82381b0b7876
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

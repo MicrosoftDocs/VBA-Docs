@@ -8,6 +8,7 @@ api_name:
 - Office.SharedWorkspaceLink.Delete
 ms.assetid: 8db5de1e-7dc3-ebcc-1853-69b6f382d19d
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

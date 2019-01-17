@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLNodes.Count
 ms.assetid: 55c27d9f-6b3d-8008-06e1-99d12d77d801
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

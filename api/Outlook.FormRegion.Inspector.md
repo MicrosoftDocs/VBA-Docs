@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormRegion.Inspector
 ms.assetid: e4a38be7-dd93-ad69-2e3e-0cc8132458f8
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

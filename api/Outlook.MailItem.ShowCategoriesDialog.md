@@ -8,6 +8,7 @@ api_name:
 - Outlook.MailItem.ShowCategoriesDialog
 ms.assetid: 212dfd98-c0a2-7f94-249f-ba9baec34882
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

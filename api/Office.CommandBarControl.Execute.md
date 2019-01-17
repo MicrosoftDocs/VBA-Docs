@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.Execute
 ms.assetid: 5b95846f-99c6-93b3-2167-6bd7acf5d508
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

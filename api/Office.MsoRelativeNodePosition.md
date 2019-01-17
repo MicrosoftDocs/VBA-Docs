@@ -5,6 +5,7 @@ api_name:
 - Office.MsoRelativeNodePosition
 ms.assetid: b449ed12-1661-3e7a-6a79-9a934be294fa
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

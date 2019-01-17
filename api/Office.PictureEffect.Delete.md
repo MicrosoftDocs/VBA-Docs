@@ -5,6 +5,7 @@ api_name:
 - Office.PictureEffect.Delete
 ms.assetid: cd107111-0866-fa75-bdbf-6a0cc562c815
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

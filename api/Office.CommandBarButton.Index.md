@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarButton.Index
 ms.assetid: 2924d346-735b-cdb3-6237-f840f017cf3e
 ms.date: 01/03/2019
+localization_priority: Normal
 ---
 
 

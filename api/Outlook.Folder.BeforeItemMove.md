@@ -8,6 +8,7 @@ api_name:
 - Outlook.Folder.BeforeItemMove
 ms.assetid: db75bc05-c80e-e6b8-d017-2150bc942712
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

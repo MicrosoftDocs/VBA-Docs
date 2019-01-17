@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.AssistantName
 ms.assetid: 0695875e-fbeb-3786-ca58-bb56644b2fff
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

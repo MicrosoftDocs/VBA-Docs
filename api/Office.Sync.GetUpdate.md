@@ -8,6 +8,7 @@ api_name:
 - Office.GetUpdate
 ms.assetid: a92c0096-fcf2-2754-31e6-2b20a5841463
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

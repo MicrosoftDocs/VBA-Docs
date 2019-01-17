@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.ViewFields
 ms.assetid: 6e223f9f-b603-2a29-5cf8-5ae3cd891a39
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

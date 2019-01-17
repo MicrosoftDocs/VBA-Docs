@@ -8,6 +8,7 @@ api_name:
 - Office.EncryptionProvider.Save
 ms.assetid: 7dfb6cea-f97b-51c3-e6bb-a773eec3fa73
 ms.date: 01/08/2019
+localization_priority: Normal
 ---
 
 

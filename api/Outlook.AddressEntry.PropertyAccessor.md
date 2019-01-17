@@ -8,6 +8,7 @@ api_name:
 - Outlook.AddressEntry.PropertyAccessor
 ms.assetid: 6fc091ac-ee82-a246-952c-6a7e75051e9a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

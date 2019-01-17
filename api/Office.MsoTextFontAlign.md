@@ -5,6 +5,7 @@ api_name:
 - Office.MsoTextFontAlign
 ms.assetid: ecc89bdd-458f-bf88-8887-be6bcbfe7234
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

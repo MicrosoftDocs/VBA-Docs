@@ -8,6 +8,7 @@ api_name:
 - Outlook.JournalItem.GetConversation
 ms.assetid: 46879e76-46e1-0553-3c55-9b7eaf13fdb4
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

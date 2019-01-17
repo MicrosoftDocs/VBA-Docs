@@ -8,6 +8,7 @@ api_name:
 - Office.ODSOColumn.Value
 ms.assetid: 87220a5a-c7e8-5ddb-9354-14afa084f242
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

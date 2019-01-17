@@ -8,6 +8,7 @@ api_name:
 - Outlook.ContactItem.ShowBusinessCardEditor
 ms.assetid: 96db2b87-02b2-f97e-cff4-9d852fc875d6
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

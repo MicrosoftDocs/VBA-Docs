@@ -8,6 +8,7 @@ api_name:
 - Office.Signature.ShowDetails
 ms.assetid: 278b84b3-c500-6357-310b-537355ad20fd
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

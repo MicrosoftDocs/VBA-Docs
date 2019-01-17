@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.GetEnabledMso
 ms.assetid: 68af6404-53ee-4c69-51fa-4d489736d228
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

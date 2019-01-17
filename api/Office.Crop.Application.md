@@ -5,6 +5,7 @@ api_name:
 - Office.Crop.Application
 ms.assetid: 88d2269e-24b0-07d9-36e0-a094f97bae2f
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

@@ -5,6 +5,7 @@ api_name:
 - Office.Font2.DoubleStrikeThrough
 ms.assetid: 494bc4ab-8de5-d63b-c508-8ed0aa4fca6c
 ms.date: 01/09/2019
+localization_priority: Normal
 ---
 
 

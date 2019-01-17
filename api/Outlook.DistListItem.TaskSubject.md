@@ -8,6 +8,7 @@ api_name:
 - Outlook.DistListItem.TaskSubject
 ms.assetid: 40e16576-39e8-c6b3-7504-894272b8743c
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

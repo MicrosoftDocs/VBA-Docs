@@ -8,6 +8,7 @@ api_name:
 - Office.OfficeDataSourceObject.DataSource
 ms.assetid: 280e4d63-14d1-8b3c-b735-0190dba12ba1
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

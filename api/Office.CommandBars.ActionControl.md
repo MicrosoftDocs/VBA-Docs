@@ -8,6 +8,7 @@ api_name:
 - Office.CommandBars.ActionControl
 ms.assetid: 70097691-a771-4f7d-020b-2a9d33e18fa0
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.RTFBody
 ms.assetid: 12af0270-e9bc-88ce-1d36-eafadf698406
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

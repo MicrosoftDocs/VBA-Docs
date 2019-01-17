@@ -8,6 +8,7 @@ api_name:
 - Outlook.Action.ShowOn
 ms.assetid: 62646ba1-7e25-8402-5530-d62fe45503e5
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CustomTaskPane.Width
 ms.assetid: f2ddf2a8-7651-e446-3661-b8584a81626f
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

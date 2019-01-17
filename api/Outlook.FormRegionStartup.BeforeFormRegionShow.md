@@ -8,6 +8,7 @@ api_name:
 - Outlook.FormRegionStartup.BeforeFormRegionShow
 ms.assetid: c93c2f6a-511f-15cd-eca2-4eb35af9939a
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.Explorer.IsPaneVisible
 ms.assetid: d547978a-f6b4-06ea-2358-8b6a81230240
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

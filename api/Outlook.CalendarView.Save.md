@@ -8,6 +8,7 @@ api_name:
 - Outlook.CalendarView.Save
 ms.assetid: 19cea2c8-39bd-875c-2cde-50d19f25f73b
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Office.CustomXMLValidationError
 ms.assetid: 7f7ced9a-0878-9287-fe66-a7f0ffdc45b6
 ms.date: 01/07/2019
+localization_priority: Normal
 ---
 
 

@@ -8,6 +8,7 @@ api_name:
 - Outlook.AppointmentItem.EndTimeZone
 ms.assetid: 8f33d93f-c0fe-fda1-608d-dec7fb86c732
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 

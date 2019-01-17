@@ -5,6 +5,7 @@ api_name:
 - Office.CommandBarControl.Top
 ms.assetid: 72513f35-86ec-1fde-b056-6d50c06d8a4c
 ms.date: 01/04/2019
+localization_priority: Normal
 ---
 
 

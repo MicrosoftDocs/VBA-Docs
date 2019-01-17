@@ -8,6 +8,7 @@ api_name:
 - Outlook.CardView.LockUserChanges
 ms.assetid: a9fea66c-36b3-6c72-8aee-dc77ca8ae215
 ms.date: 06/08/2017
+localization_priority: Normal
 ---
 
 
