@@ -53,4 +53,4 @@ Outlook.Account GetAccountForFolder(Outlook.Folder folder)
 }
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
