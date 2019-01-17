@@ -34,3 +34,4 @@ The **Click** event doesn't fire for controls bound to a field. Because the cont
 
 For more information, see [Using the Form Region XML Manifest to Define a Form Region](../Creating-Form-Regions/using-the-form-region-xml-manifest-to-define-a-form-region.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

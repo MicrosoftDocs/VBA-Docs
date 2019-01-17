@@ -38,6 +38,5 @@ Form regions allow greater flexibility in customizing and extending a standard O
 - Multiple add-ins can add form regions to the same form.
     
 - Administrators can more conveniently deploy a form customized with form regions by installing and running an add-in. For more information, see the Office Resource Kit Web site.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
