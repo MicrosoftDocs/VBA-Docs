@@ -20,3 +20,4 @@ Either you have not selected a keyword or you have requested Help on a component
 - [Object Browser](user-interface-help/object-browser.md)
 - [Watch window or pane](user-interface-help/watch-window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

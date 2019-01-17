@@ -42,3 +42,5 @@ localization_priority: Priority
 - [Object Browser modules and enumerations](object-browser-visual-basic-for-applications.md)
 - [Compiler constants](../Concepts/Getting-Started/compiler-constants.md) 
 - [VarType constants](../Concepts/Getting-Started/vartype-constants.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
