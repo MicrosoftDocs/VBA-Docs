@@ -77,5 +77,4 @@ Rather than address all the existing properties, this topic focuses on the prope
 |:-----|:-----|
 | **Language**|<p>LCID for determining how to interpret  `FORMAT_STRING` when it is **CURRENCY**.</p> <p>Excel uses this property to determine which currency symbol to use when formatting values with  `FORMAT_STRING` set to **Currency**.</p>  <p>[Retrieving Cell Properties](https://msdn.microsoft.com/library/ms715853.aspx)</p><p>Example of calculated measure definition specifying the LANGUAGE property for the client application to pick up: </p><p>```CREATE MEMBER CURRENTCUBE.[Measures].[Internet Gross Profit]``` </p><p> ```AS``` </p><p> ```[Measures].[Internet Sales Amount]```  </p><p> ```-``` </p><p> ```[Measures].[Internet Total Product Cost],  ``` </p><p> ```FORMAT_STRING = "Currency",``` </p><p> ```BACK_COLOR = 12615680 /*R=0, G=128, B=192*/,``` </p><p> ```FORE_COLOR = 65408 /*R=128, G=255, B=0*/, ```</p><p>```FONT_FLAGS = 3 /*Bold, Italic*/, ```</p><p>```NON_EMPTY_BEHAVIOR = { [Internet Sales Amount], [Internet Total Product Cost] },``` </p><p> ```VISIBLE = 1,``` </p><p> ```LANGUAGE = 1033 /*Telling client application to display US currency symbol*/;```</p>|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

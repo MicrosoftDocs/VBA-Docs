@@ -280,6 +280,5 @@ Find addition information on the topics discussed in this article at the followi
 
 -  [Open Excel workbooks in separate windows and view them side by side](https://blogs.office.com/b/microsoft-excel/archive/2013/02/07/open-multiple-excel-files-in-separate-windows-and-view-them-side-by-side.aspx) 
 -  [Excel 2013 single document interface (SDI): How to rebuild your task panes to support it](https://www.add-in-express.com/creating-addins-blog/2013/02/28/excel2013-single-document-interface-task-panes/)
-    
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
