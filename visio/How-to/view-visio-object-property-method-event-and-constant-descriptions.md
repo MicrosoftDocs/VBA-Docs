@@ -19,4 +19,4 @@ localization_priority: Normal
 
  **Note**   You also can view additional information about an item by selecting the item and pressing F1 for Help.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

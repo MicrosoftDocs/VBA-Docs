@@ -19,4 +19,4 @@ localization_priority: Normal
 
  **Note**   If you have more than one Visio drawing open and the macro you want to run does not appear in the **Macros** dialog box, make sure that in the **Macros in** list, you have selected the Visio document in which the macro is stored.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

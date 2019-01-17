@@ -14,4 +14,4 @@ localization_priority: Normal
 
 In the  **Code** group on the [Developer](run-visio-in-developer-mode.md) tab, click **Visual Basic**. Or press ALT+F11.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

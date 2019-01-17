@@ -210,4 +210,4 @@ Dim irmPermission As Office.Permission
  Set irmPermission = Nothing
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
