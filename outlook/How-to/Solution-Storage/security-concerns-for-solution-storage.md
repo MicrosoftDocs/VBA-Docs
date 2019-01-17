@@ -17,3 +17,4 @@ The  **[Folder.GetTable](../../../api/Outlook.Folder.GetTable.md)** method suppo
 
 However, there exist technologies outside of the Outlook object model that allow modifying or deleting data stored as hidden items in MAPI folders. Solutions that are concerned with the privacy of their data should encrypt their private data at the property level with their own encryption algorithms.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

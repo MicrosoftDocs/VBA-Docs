@@ -34,4 +34,4 @@ You can call  **Folder.GetStorage** for an item that already exists in a folder.
 
 After obtaining a  **StorageItem** object, you can store private data as an attachment to the item, or as a value to the **Body** property or a custom property of the item. The initial size of the item is 0. As you store data to the item, the **[StorageItem.Size](../../../api/Outlook.StorageItem.Size.md)** is updated. Call **[StorageItem.Save](../../../api/Outlook.StorageItem.Save.md)** to update the contents of the item in the folder.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

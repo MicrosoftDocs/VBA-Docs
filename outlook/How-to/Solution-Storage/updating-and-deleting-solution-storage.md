@@ -28,4 +28,4 @@ Attempting to delete a  **StorageItem** that has been removed by a prior **Stora
 
  **Note**  Solution storage can only be removed through the  **Delete** method of the corresponding **StorageItem** object. If the creator solution has been uninstalled and there is no other solution that can access the object to delete it, the object will remain as a hidden item in the folder for as long as the folder exists.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
