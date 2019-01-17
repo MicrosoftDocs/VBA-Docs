@@ -49,3 +49,4 @@ localization_priority: Priority
 |IPM.TaskRequest|Task requests|
 |IPM.TaskRequest.Update| Updates to requested tasks|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

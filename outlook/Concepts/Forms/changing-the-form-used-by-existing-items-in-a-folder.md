@@ -40,4 +40,4 @@ End Sub
 
  **Note**  If you want to use a folder other than a default folder, use the  **[Folders](../../../api/Outlook.Folders.md)** collection object to refer to any folder that is available in your Folder List.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -202,3 +202,4 @@ localization_priority: Priority
 |Web Page| **WebPage**|
 |ZIP/Postal Code| **HomeAddressPostalCode**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

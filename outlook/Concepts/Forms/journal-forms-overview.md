@@ -15,4 +15,4 @@ You can customize the first page of a form by adding an adjoining form region. Y
 
  **Note**  You cannot customize the list of  **Entry Type** entries .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

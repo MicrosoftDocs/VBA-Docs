@@ -17,3 +17,4 @@ Every item contains a  **Message Class** field; this field contains the name of 
 
 If you are creating custom forms by using form regions, the message class must be specified in the Windows Registry. For more information, see  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

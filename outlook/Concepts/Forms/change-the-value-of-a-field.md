@@ -29,4 +29,4 @@ To change the value of a custom field, use the following code to refer to a cust
 Item.UserProperties.Find("MyProperty").Value = "New Value"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

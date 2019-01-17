@@ -39,5 +39,5 @@ localization_priority: Priority
 -  [Width Property (Outlook Controls)](../Outlook-Controls/width-property-outlook-controls.md)
     
 -  [ZOrder Method (Outlook Controls)](../Outlook-Controls/zorder-method-outlook-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

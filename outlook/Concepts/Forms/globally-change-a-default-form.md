@@ -40,4 +40,4 @@ The Forms Administrator utility does not create the registry keys in the correct
 
  **Note**  If you used the Forms Administrator utility to change the default forms in Outlook 2000 or Outlook 2002, and you then upgrade to Outlook 2003 or later, Microsoft Office or Outlook Setup migrates the registry keys to the correct location so that Outlook continues to use the substituted forms.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

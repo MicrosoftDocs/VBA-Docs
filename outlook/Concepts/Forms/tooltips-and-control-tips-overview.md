@@ -15,4 +15,4 @@ You can customize  **ToolTips** for controls and for the **Control Toolbox**.
 
 A  **control tip** is set with the [ControlTipText](../../../api/Outlook.page.controltiptext.md) property. For example, use **ControlTipText** to set the control tip text for the **Page** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

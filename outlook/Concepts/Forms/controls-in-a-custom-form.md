@@ -125,5 +125,4 @@ The following summarizes the differences between Forms 2.0 controls and Outlook 
 |Controls displayed properly in runtime in Outlook 2003 or earlier|Yes|No|
 |Controls displayed properly in runtime in Office Outlook 2007 or later|Yes|Yes|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

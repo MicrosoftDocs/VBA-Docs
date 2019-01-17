@@ -49,5 +49,5 @@ localization_priority: Priority
 -  [Troubleshooting Custom Fields](troubleshooting-custom-fields.md)
     
 -  [Outlook Controls](outlook-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

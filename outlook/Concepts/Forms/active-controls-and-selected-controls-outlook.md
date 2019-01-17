@@ -19,4 +19,4 @@ In both the selected and the active state, you can use  **DEL**,  **CTRL+X**, an
 
  **Note**  For more information about design mode, see  [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

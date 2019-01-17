@@ -19,6 +19,6 @@ There are many ways to work with groups and the controls in groups. After you se
     
 - Show the group shortcut menu for quick access to commands that affect the group. 
     
-- Select a single control within the group without separating other controls in the group. You can then change the property settings of the selected control without affecting other controls in the group. 
-    
+- Select a single control within the group without separating other controls in the group. You can then change the property settings of the selected control without affecting other controls in the group.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
