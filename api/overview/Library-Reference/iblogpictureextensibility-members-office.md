@@ -20,3 +20,4 @@ Represents an object that provides the ability to manipulate blog images.
 |[CreatePictureAccount](../../Office.IBlogPictureExtensibility.CreatePictureAccount.md)|Allows a picture provider to display the user interface needed to guide the user through setting up a picture account.|
 |[PublishPicture](../../Office.IBlogPictureExtensibility.PublishPicture.md)|Used to post a picture object to its final destination in a blog.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

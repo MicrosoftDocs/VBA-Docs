@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Validate](../../Office.MetaProperty.Validate.md)|Validates a  **MetaProperty** object representing a single property value according to a schema.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

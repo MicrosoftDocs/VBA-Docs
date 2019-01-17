@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceMembers.Add.md)|Adds a member to the list of members in a shared workspace site. Returns a  **[SharedWorkspaceMember](../../Office.SharedWorkspaceMember.md)** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

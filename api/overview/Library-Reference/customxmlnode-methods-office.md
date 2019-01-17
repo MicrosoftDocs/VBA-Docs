@@ -27,3 +27,4 @@ localization_priority: Normal
 |[SelectNodes](../../Office.CustomXMLNode.SelectNodes.md)|Selects a collection of nodes matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectNodes** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.|
 |[SelectSingleNode](../../Office.CustomXMLNode.SelectSingleNode.md)|Selects a single node from a collection matching an XPath expression. This method differs from the  **CustomXMLPart**. **SelectSingleNode** method in that the XPath expression will be evaluated starting with the 'expression' node as the context node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

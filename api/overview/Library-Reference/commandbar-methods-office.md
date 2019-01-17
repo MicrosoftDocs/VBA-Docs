@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Reset](../../Office.CommandBar.Reset.md)|Resets a built-in command bar to its default configuration.|
 |[ShowPopup](../../Office.CommandBar.ShowPopup.md)|Displays a command bar as a shortcut menu at the specified coordinates or at the current pointer coordinates.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

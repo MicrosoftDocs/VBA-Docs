@@ -29,3 +29,4 @@ localization_priority: Normal
 |[Status](../../Office.SharedWorkspaceTask.Status.md)|Gets or sets the status of the specified shared workspace task. Read/write .|
 |[Title](../../Office.SharedWorkspaceTask.Title.md)|Sets or gets the title of a  **SharedWorkspaceTask** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

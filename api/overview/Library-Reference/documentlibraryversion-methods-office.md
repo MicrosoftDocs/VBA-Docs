@@ -19,3 +19,4 @@ localization_priority: Normal
 |[Open](../../Office.DocumentLibraryVersion.Open.md)|Opens the specified version of the shared document from the  **DocumentLibraryVersions** collection in read-only mode.|
 |[Restore](../../Office.DocumentLibraryVersion.Restore.md)|Restores a previous saved version of a shared document from the  **DocumentLibraryVersions** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

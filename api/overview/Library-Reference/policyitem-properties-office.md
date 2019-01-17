@@ -23,3 +23,4 @@ localization_priority: Normal
 |[Name](../../Office.PolicyItem.Name.md)|Gets the name of the  **PolicyItem** object. Read-only.|
 |[Parent](../../Office.PolicyItem.Parent.md)|Gets the  **Parent** object for the **PolicyItem** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

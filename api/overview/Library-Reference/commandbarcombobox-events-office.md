@@ -18,3 +18,4 @@ This object has the following events:
 |:-----|:-----|
 |[Change](../../Office.CommandBarComboBox.Change.md)|Occurs when the end user changes the selection in a  **CommandBar** combo box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

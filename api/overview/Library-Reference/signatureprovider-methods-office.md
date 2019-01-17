@@ -25,3 +25,4 @@ localization_priority: Normal
 |[SignXmlDsig](../../Office.SignatureProvider.SignXmlDsig.md)|Used to sign the XMLDSIG template.|
 |[VerifyXmlDsig](../../Office.SignatureProvider.VerifyXmlDsig.md)|Verifies a signature based on the signed state of the document and the legitimacy of the certificate used for signing.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

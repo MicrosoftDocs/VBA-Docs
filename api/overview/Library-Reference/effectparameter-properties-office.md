@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Name](../../Office.EffectParameter.Name.md)|Retrieves the string name of the  **EffectParameter** parameter. Read-only|
 |[Value](../../Office.EffectParameter.Value.md)|Retrieves or sets the value of the  **EffectParameter** object. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ localization_priority: Normal
 |[SelectNodes](../../Office.CustomXMLPart.SelectNodes.md)|Selects a collection of nodes from a custom XML part.|
 |[SelectSingleNode](../../Office.CustomXMLPart.SelectSingleNode.md)|Selects a single node within a custom XML part matching an XPath expression.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

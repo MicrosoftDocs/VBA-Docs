@@ -19,3 +19,4 @@ localization_priority: Normal
 |[LookupNamespace](../../Office.CustomXMLPrefixMappings.LookupNamespace.md)|Allows you to get the namespace corresponding to the specified prefix.|
 |[LookupPrefix](../../Office.CustomXMLPrefixMappings.LookupPrefix.md)|Allows you to get a prefix corresponding to the specified namespace. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

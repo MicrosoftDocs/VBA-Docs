@@ -32,3 +32,4 @@ Represents a custom or built-in document property of a container document. The *
 |[Type](../../Office.DocumentProperty.Type.md)|Gets or sets the document property type. Read-only for built-in document properties; read/write for custom document properties.|
 |[Value](../../Office.DocumentProperty.Value.md)|Gets or sets the value of a document property. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

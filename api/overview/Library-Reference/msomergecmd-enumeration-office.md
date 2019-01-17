@@ -30,3 +30,4 @@ Specifies the output of a merge shapes operation.
 |**msoMergeUnion**|**1**||
 |Name|Value|Description|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

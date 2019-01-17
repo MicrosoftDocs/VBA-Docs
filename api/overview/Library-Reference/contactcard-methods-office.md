@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Close](../../Office.ContactCard.Close.md)|Closes the contact card.|
 |[Show](../../Office.ContactCard.Show.md)|Displays the contact card at the specified x-coordinate position outside the specified rectangle. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

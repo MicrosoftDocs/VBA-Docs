@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.SmartArtQuickStyles.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SmartArtQuickStyles** object was created. Read-only|
 |[Parent](../../Office.SmartArtQuickStyles.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

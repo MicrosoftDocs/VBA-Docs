@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Item](../../Office.RulerLevels2.Item.md)|Gets a member of the  **RulerLevels2** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

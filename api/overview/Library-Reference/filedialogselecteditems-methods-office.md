@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Item](../../Office.FileDialogSelectedItems.Item.md)|Gets a  **String** that corresponds to the path of one of the files that the user selected from a file dialog box that was displayed using the **Show** method of the **FileDialog** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

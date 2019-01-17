@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.PickerResults.Add.md)|Adds a  **PickerResult** object to the **PickerResults** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

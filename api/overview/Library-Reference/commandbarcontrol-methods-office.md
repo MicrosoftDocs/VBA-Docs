@@ -22,3 +22,4 @@ localization_priority: Normal
 |[Reset](../../Office.CommandBarControl.Reset.md)|Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarControl** to its original function and face.|
 |[SetFocus](../../Office.CommandBarControl.SetFocus.md)|Moves the keyboard focus to the specified CommandBarControl. If the control is disabled or isn't visible, this method will fail.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

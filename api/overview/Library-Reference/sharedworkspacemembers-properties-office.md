@@ -22,3 +22,4 @@ localization_priority: Normal
 |[ItemCountExceeded](../../Office.SharedWorkspaceMembers.ItemCountExceeded.md)|Gets a  **Boolean** value that indicates whether the number of **SharedWorkspaceMembers** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.|
 |[Parent](../../Office.SharedWorkspaceMembers.Parent.md)|Gets the  **Parent** object for the **SharedWorkspaceMembers** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ localization_priority: Normal
 |[Name](../../Office.SharedWorkspaceMember.Name.md)|Gets the display name of the shared workspace member. Read-only.|
 |[Parent](../../Office.SharedWorkspaceMember.Parent.md)|Gets the  **Parent** object for the **SharedWorkspaceMember** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

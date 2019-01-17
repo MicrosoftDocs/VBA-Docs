@@ -31,3 +31,4 @@ localization_priority: Normal
 |[MenuAnimationStyle](../../Office.CommandBars.MenuAnimationStyle.md)|Gets or sets a  **MsoMenuAnimation** that represents the way a command bar is animated. Read/write.|
 |[Parent](../../Office.CommandBars.Parent.md)|Gets the  **Parent** object for the **CommandBars** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

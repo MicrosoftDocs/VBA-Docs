@@ -20,3 +20,4 @@ Represents the object passed into the callback procedure of a control in a ribbo
 |[Id](../../Office.IRibbonControl.Id.md)|Gets the ID of the control specified in the Ribbon XML markup customization file. Read-only.|
 |[Tag](../../Office.IRibbonControl.Tag.md)|Used to store arbitrary strings and fetch them at runtime. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,3 +49,4 @@ localization_priority: Normal
 |[Visible](../../Office.CommandBarComboBox.Visible.md)|Gets or sets the  **Visible** property for the **CommandBarComboBox** control. **True** if the **CommandBarControl** is visible. Read/write.|
 |[Width](../../Office.CommandBarComboBox.Width.md)|Gets or sets the width (in pixels) of the specified  **CommandBarComboBox** control. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

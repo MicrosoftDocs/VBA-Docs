@@ -29,3 +29,4 @@ A collection of SmartArt color styles.
 |[Creator](../../Office.SmartArtColors.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtColors** object was created. Read-only|
 |[Parent](../../Office.SmartArtColors.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

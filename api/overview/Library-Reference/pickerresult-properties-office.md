@@ -26,3 +26,4 @@ localization_priority: Normal
 |[SubItems](../../Office.PickerResult.SubItems.md)|Display purpose or non-display purpose field data of a PickerResult object. It is used for passing column values in a Picker dialog. Read/write|
 |[Type](../../Office.PickerResult.Type.md)|Represents the type of a  **PickerResult** object. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

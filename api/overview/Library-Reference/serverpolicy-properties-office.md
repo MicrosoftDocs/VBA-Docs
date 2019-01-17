@@ -26,3 +26,4 @@ localization_priority: Normal
 |[Parent](../../Office.ServerPolicy.Parent.md)|Gets the  **Parent** object for the **ServerPolicy** object. Read-only.|
 |[Statement](../../Office.ServerPolicy.Statement.md)|Gets the information specified in the Policy Statement. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

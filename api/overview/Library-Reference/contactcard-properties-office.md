@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Application](../../Office.ContactCard.Application.md)|Returns an  **Application** object that represents the parent Office application for the **ContactCard** object. Read-only.|
 |[Creator](../../Office.ContactCard.Creator.md)|Returns a  **Long** that indicates the application in which the **ContactCard** object was created. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

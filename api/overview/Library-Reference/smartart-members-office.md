@@ -34,3 +34,4 @@ The top level class for interacting with a SmartArt graphic.
 |[QuickStyle](../../Office.SmartArt.QuickStyle.md)|Retrieves or sets the SmartArt quick style applied to the SmartArt graphic. Read/write|
 |[Reverse](../../Office.SmartArt.Reverse.md)|Gets or sets the state of the SmartArt diagram with regard to (left-to-right) LTR or (right-to-left) RTL, if the diagram supports reversal. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

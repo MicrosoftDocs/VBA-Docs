@@ -23,3 +23,4 @@ localization_priority: Normal
 |[Name](../../Office.SmartArtColor.Name.md)|Retrieves the string name of the SmartArt color style. Read-only|
 |[Parent](../../Office.SmartArtColor.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

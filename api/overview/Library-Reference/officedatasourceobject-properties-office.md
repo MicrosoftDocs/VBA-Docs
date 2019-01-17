@@ -22,3 +22,4 @@ localization_priority: Normal
 |[RowCount](../../Office.OfficeDataSourceObject.RowCount.md)|Gets a  **Long** that represents the number of records in the specified data source. Read-only.|
 |[Table](../../Office.OfficeDataSourceObject.Table.md)|Gets a  **String** that represents the name of the table within the data source file that contains the mail merge records. The returned value may be blank if the table name is unknown or not applicable to the current data source. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

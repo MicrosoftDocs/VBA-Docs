@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Item](../../Office.ThemeFonts.Item.md)|Gets one of the three language fonts contained in the  **ThemeFonts** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,4 @@ Represents a Picture Effect.
 |[Type](../../Office.PictureEffect.Type.md)|Specifies the type of Picture Effect. Read-only|
 |[Visible](../../Office.PictureEffect.Visible.md)|Gets or sets a Boolean value representing the visible state of the picture effect. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

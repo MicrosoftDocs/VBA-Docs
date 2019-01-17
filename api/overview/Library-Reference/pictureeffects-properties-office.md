@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.PictureEffects.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **PictureEffects** object was created. Read-only|
 |[Item](../../Office.PictureEffects.Item.md)|Retrieves a  **PictureEffect** object at the specified index. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

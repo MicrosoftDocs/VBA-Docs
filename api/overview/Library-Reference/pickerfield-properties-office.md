@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Name](../../Office.PickerField.Name.md)|Retrieves the name of the Picker field. Read-only|
 |[Type](../../Office.PickerField.Type.md)|The type of the Picker field. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

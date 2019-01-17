@@ -25,3 +25,4 @@ localization_priority: Normal
 |[Reset](../../Office.CommandBarComboBox.Reset.md)|Resets a built-in command bar to its default configuration, or resets a built-in  **CommandBarComboBox** control to its original function and face.|
 |[SetFocus](../../Office.CommandBarComboBox.SetFocus.md)|Moves the keyboard focus to the specified  **CommandBarComboBox** control. If the control is disabled or isn't visible, this method will fail.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

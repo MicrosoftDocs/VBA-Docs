@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceFiles.Add.md)|Adds a file to the document library in a shared workspace. Returns a  **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

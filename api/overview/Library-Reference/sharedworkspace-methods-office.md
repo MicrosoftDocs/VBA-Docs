@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Refresh](../../Office.SharedWorkspace.Refresh.md)|Refreshes the local cache of the [SharedWorkspace](../../Office.SharedWorkspace.md) object's files, folders, links, members, and tasks from the server.|
 |[RemoveDocument](../../Office.SharedWorkspace.RemoveDocument.md)|Removes the active document from the shared workspace site.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

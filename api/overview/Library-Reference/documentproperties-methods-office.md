@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.DocumentProperties.Add.md)|Creates a new custom document property. You can add a new document property only to the custom  **DocumentProperties** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

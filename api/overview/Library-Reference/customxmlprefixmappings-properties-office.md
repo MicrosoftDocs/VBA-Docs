@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Item](../../Office.CustomXMLPrefixMappings.Item.md)|Gets a  **CustomXMLPrefixMapping** object from the **CustomXMLPrefixMappings** collection. Read-only.|
 |[Parent](../../Office.CustomXMLPrefixMappings.Parent.md)|Gets the  **Parent** object for the **CustomXMLPrefixMappings** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

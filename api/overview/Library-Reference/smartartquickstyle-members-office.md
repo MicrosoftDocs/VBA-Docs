@@ -25,3 +25,4 @@ Represents a Smart Art quick style.
 |[Name](../../Office.SmartArtQuickStyle.Name.md)|Retrieves the string name of the SmartArt quick style. Read-only|
 |[Parent](../../Office.SmartArtQuickStyle.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

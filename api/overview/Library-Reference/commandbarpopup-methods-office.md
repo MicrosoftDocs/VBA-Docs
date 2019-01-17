@@ -22,3 +22,4 @@ localization_priority: Normal
 |[Reset](../../Office.CommandBarPopup.Reset.md)|Resets a built-in  **CommandBarPopup** control to its original function and face.|
 |[SetFocus](../../Office.CommandBarPopup.SetFocus.md)|Moves the keyboard focus to the specified  **CommandBarPopup** control. If the popup is disabled or isn't visible, this method will fail.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

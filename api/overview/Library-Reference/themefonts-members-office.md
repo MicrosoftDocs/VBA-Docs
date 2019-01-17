@@ -28,3 +28,4 @@ Represents a collection of major and minor fonts in the font scheme of a Microso
 |[Creator](../../Office.ThemeFonts.Creator.md)|Gets a 32-bit integer that indicates the application in which the **ThemeFonts** object was created. Read-only.|
 |[Parent](../../Office.ThemeFonts.Parent.md)|Gets the **Parent** object for the **ThemeFonts** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

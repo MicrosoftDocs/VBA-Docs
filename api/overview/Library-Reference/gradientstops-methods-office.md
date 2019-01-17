@@ -19,3 +19,4 @@ localization_priority: Normal
 |[Insert](../../Office.GradientStops.Insert.md)|Adds a stop to a gradient.|
 |[Insert2](../../Office.GradientStops.Insert2.md)|Adds a stop to a gradient and specifies the brightness, as well as the transparency, of the color.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ localization_priority: Normal
 |[Select](../../Office.TextRange2.Select.md)|Selects the  **TextRange2** object.|
 |[TrimText](../../Office.TextRange2.TrimText.md)|Returns a **TextRange2** object that represents the specified text that has the whitespace removed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

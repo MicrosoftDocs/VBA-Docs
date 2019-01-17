@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.CustomXMLValidationError.Delete.md)|Deletes the  **CustomXMLValidationError** object representing a data validation error.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

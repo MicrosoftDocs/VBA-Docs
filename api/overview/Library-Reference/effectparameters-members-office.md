@@ -21,3 +21,4 @@ Represents a collection of **EffectParameter** objects.
 |[Creator](../../Office.EffectParameters.Creator.md)|Gets a 32-bit integer that indicates the application in which the **EffectParameters** object was created. Read-only|
 |[Item](../../Office.EffectParameters.Item.md)|Retrieves a **EffectParameter** object at the specified index or with the specified unique Id. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

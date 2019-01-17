@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Open](../../Office.OfficeDataSourceObject.Open.md)|Opens a table in a  **OfficeDataSourceObject** object.|
 |[SetSortOrder](../../Office.OfficeDataSourceObject.SetSortOrder.md)|Sets the sort order for mail merge data.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

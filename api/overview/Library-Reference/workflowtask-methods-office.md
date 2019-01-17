@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Show](../../Office.WorkflowTask.Show.md)|Displays a workflow task edit user interface for the specified **WorkflowTask** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

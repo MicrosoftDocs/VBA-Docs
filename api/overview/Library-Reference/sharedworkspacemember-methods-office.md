@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceMember.Delete.md)|Deletes the current  **SharedWorkspaceMember** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

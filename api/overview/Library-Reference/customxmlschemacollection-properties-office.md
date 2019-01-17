@@ -22,3 +22,4 @@ localization_priority: Normal
 |[NamespaceURI](../../Office.CustomXMLSchemaCollection.NamespaceURI.md)|Gets the unique address identifier for the namespace of the  **CustomXMLSchemaCollection** object. Read-only.|
 |[Parent](../../Office.CustomXMLSchemaCollection.Parent.md)|Gets the  **Parent** object for the **CustomXMLSchemaCollection** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

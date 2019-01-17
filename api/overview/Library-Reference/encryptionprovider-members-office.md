@@ -26,3 +26,4 @@ Provides the methods for setting up permissions, applying the cryptography of th
 |[Save](../../Office.EncryptionProvider.Save.md)|Saves an encrypted document.|
 |[ShowSettings](../../Office.EncryptionProvider.ShowSettings.md)|Used to display a dialog of the encryption settings for the current document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

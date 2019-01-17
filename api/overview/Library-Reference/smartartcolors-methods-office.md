@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Item](../../Office.SmartArtColors.Item.md)|Retrieves a  **SmartArtColor** object at the specified index or with the specified unique Id.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

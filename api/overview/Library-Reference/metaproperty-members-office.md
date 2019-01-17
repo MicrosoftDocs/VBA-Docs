@@ -33,3 +33,4 @@ Represents a single property in a collection of properties describing the metada
 |[Type](../../Office.MetaProperty.Type.md)|Gets the data type of a **MetaProperty** object. Read-only.|
 |[Value](../../Office.MetaProperty.Value.md)|Gets or sets the value of the **MetaProperty** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

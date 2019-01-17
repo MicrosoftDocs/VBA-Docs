@@ -63,3 +63,4 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 |[Text](../../Office.TextRange2.Text.md)|Gets or sets a **String** value that represents the text in a text range. Read/write.|
 |[Words](../../Office.TextRange2.Words.md)|Gets a **TextRange2** object that represents the specified subset of text words. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

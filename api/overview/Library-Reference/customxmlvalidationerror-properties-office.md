@@ -24,3 +24,4 @@ localization_priority: Normal
 |[Text](../../Office.CustomXMLValidationError.Text.md)|Gets the text in the  **CustomXMLValidationError** object. Read-only.|
 |[Type](../../Office.CustomXMLValidationError.Type.md)|Gets the type of error generated from the  **CustomXMLValidationError** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

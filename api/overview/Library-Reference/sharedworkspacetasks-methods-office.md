@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceTasks.Add.md)|Adds a task to the list of tasks in a shared workspace. Returns a  **SharedWorkspaceTask** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

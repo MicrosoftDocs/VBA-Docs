@@ -21,3 +21,4 @@ A collection of **PickerField** objects. Each **PickerField** object represents 
 |[Creator](../../Office.PickerFields.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerFields** object was created. Read-only|
 |[Item](../../Office.PickerFields.Item.md)|Retrieves a **PickerField** object at the specified index. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,4 @@ localization_priority: Normal
 |[XML](../../Office.CustomXMLNode.XML.md)|Gets the XML representation of the current node and its children, if any exist. Read-only.|
 |[XPath](../../Office.CustomXMLNode.XPath.md)|Gets a  **String** with the canonicalized XPath for the current node. If the node is no longer in the Document Object Model (DOM), the property returns an error message. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

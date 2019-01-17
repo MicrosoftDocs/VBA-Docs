@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Execute](../../Office.FileDialog.Execute.md)|Carries out a user's action right after the  **Show** method is invoked.|
 |[Show](../../Office.FileDialog.Show.md)|Displays a file dialog box and returns a  **Long** indicating whether the user pressed the **Action** button (-1) or the **Cancel** button (0). When you call the **Show** method, no more code executes until the user dismisses the file dialog box. In the case of **Open** and **SaveAs** dialog boxes, use the **Execute** method right after the **Show** method to carry out the user's action.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

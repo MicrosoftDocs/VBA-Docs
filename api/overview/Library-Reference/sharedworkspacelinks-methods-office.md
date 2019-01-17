@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.SharedWorkspaceLinks.Add.md)|Adds a link to the list of links in a shared workspace.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

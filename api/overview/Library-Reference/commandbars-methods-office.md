@@ -29,3 +29,4 @@ localization_priority: Normal
 |[GetVisibleMso](../../Office.CommandBars.GetVisibleMso.md)|Returns True if the control identified by the  **idMso** parameter is visible.|
 |[ReleaseFocus](../../Office.CommandBars.ReleaseFocus.md)|Releases the user interface focus from all command bars.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

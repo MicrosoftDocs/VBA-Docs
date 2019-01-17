@@ -49,3 +49,4 @@ Represents a single **CustomXMLPart** in a **CustomXMLParts** collection.
 |[SchemaCollection](../../Office.CustomXMLPart.SchemaCollection.md)|Gets or sets a **CustomXMLSchemaCollection** object representing the set of schemas attached to a bound region of data in a document. Read/write.|
 |[XML](../../Office.CustomXMLPart.XML.md)|Gets the XML representation of the current **CustomXMLPart** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

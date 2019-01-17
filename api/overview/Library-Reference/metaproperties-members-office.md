@@ -31,3 +31,4 @@ Represents a collection of properties describing the metadata stored in a docume
 |[Parent](../../Office.MetaProperties.Parent.md)|Gets the **Parent** object for the **MetaProperties** object. Read-only.|
 |[SchemaXml](../../Office.MetaProperties.SchemaXml.md)|Gets the schema XML for the **MetaProperties** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

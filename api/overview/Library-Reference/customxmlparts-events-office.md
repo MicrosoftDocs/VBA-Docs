@@ -20,3 +20,4 @@ This object has the following events:
 |[PartAfterLoad](../../Office.CustomXMLParts.PartAfterLoad.md)|Occurs just after a  **CustomXMLPart** object is loaded.|
 |[PartBeforeDelete](../../Office.CustomXMLParts.PartBeforeDelete.md)|Occurs just before a  **CustomXMLPart** object is deleted from the **CustomXMLParts** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

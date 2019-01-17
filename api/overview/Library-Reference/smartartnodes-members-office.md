@@ -30,3 +30,4 @@ Represents a collection of nodes within a Smart Art diagram.
 |[Creator](../../Office.SmartArtNodes.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtNodes** object was created. Read-only|
 |[Parent](../../Office.SmartArtNodes.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

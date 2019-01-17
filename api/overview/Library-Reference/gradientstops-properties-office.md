@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.GradientStops.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **GradientStops** object was created. Read-only.|
 |[Item](../../Office.GradientStops.Item.md)|Gets a  **GradientStop** object from a **GradientStops** collection. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
