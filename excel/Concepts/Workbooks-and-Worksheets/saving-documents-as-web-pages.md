@@ -82,4 +82,4 @@ Workbooks.Open Filename:="C:\Reports\1997_Q4.htm"
 
 After opening the file, you can customize the appearance, content, browser support, editing support, graphics formats, screen resolution, file organization, and encoding of the HTML document by setting properties of the  **DefaultWebOptions** and **WebOptions** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

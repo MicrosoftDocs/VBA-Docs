@@ -38,4 +38,4 @@ End Sub
 
  **Note**   Charts embedded in a worksheet are members of the **[ChartObjects](../../../api/Excel.ChartObjects.md)** collection, whereas charts that exist on their own sheets belong to the  **[Charts](../../../api/Excel.Charts.md)** collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

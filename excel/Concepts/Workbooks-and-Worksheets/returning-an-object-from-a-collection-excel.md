@@ -58,4 +58,4 @@ Worksheets("Sheet1").Range("A1:A1"). _
  Borders.Item(xlEdgeBottom).LineStyle = xlDouble
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
