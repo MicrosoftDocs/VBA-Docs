@@ -167,5 +167,5 @@ Excel 2016 introduces performance and limitation improvements focused on increas
 - [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)   
 - [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)   
 - [Changes to Slow/Fast level names for Office Insider for Windows desktop](https://support.office.com/article/Changes-to-Slow-Fast-level-names-for-Office-Insider-for-Windows-desktop-055ee4f9-9ce3-4fb8-8a9a-ca6745867d52)
-    
-  
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
