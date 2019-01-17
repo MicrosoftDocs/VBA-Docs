@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Fields object (Word)d9f547d0-28c4-22c6-52b8-f6f8ba572b96](http://msdn.microsoft.com/library/d9f547d0-28c4-22c6-52b8-f6f8ba572b96%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

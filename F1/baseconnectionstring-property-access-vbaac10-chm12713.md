@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.BaseConnectionString property (Access)](http://msdn.microsoft.com/library/280bb905-d321-d844-8ab6-6c9352dd3ab0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

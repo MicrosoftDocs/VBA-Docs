@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.Caption Property (Project)](http://msdn.microsoft.com/library/02308676-1d72-9ac8-0654-6e510039efd1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

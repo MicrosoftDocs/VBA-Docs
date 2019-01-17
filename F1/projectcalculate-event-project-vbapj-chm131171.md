@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeTaskNew Event (Project)](http://msdn.microsoft.com/library/77418f84-1d82-b227-75f8-c688b7bddf82%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

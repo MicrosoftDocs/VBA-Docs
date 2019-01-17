@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HeadingStyles object (Word)6c62147a-15a4-74ad-c85e-bf3150f9b656](http://msdn.microsoft.com/library/6c62147a-15a4-74ad-c85e-bf3150f9b656%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

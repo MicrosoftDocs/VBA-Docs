@@ -26,3 +26,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [WorkWeek.Finish Property (Project)](http://msdn.microsoft.com/library/d66fac85-0644-4f7d-445f-c4712aee6dbe%28Office.15%29.aspx)
 [SplitPart.Finish Property (Project)](http://msdn.microsoft.com/library/deabe924-95f8-5763-6f8a-e1c913784543%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

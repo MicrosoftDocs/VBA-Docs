@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Panes object (Word)d8bd33e7-55e9-9f53-182e-738339d58064](http://msdn.microsoft.com/library/d8bd33e7-55e9-9f53-182e-738339d58064%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

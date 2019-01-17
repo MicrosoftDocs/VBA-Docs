@@ -36,4 +36,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.RightPadding property (Access)](http://msdn.microsoft.com/library/36e38e77-104a-0cac-9c89-1bd0958ad55a%28Office.15%29.aspx)
 - [WebBrowserControl.RightPadding property (Access)](http://msdn.microsoft.com/library/ac784983-260e-2ac1-4377-23a7920b038a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

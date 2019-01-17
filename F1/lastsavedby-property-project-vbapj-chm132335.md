@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.HideBar Property (Project)](http://msdn.microsoft.com/library/07c255e9-dccc-9f67-6bcb-cf5671e32f4a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Page.AutoSizeDrawing Method (Visio)](http://msdn.microsoft.com/library/800309ef-6faa-7464-c649-f570cb0485a1.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

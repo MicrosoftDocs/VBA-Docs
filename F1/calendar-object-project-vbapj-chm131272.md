@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series Object (Project)](http://msdn.microsoft.com/library/38a834ec-4076-82ef-a6bd-55a1ee2624bd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

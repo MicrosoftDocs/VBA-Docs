@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BoundObjectFrame.Verb property (Access)](http://msdn.microsoft.com/library/edbca2b1-fe7a-f0d0-1baf-fedbccb6dfb7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Cost1 Property (Project)](http://msdn.microsoft.com/library/6cc654c7-2a4b-3f5a-b372-9330162079b5%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.SuspendEventsCanceled Event (Visio)](http://msdn.microsoft.com/library/33892ba1-90b2-30ee-d355-e3c353749ea8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

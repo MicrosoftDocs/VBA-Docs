@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.ControlType property (Access)](http://msdn.microsoft.com/library/c0259524-8505-71a1-e482-9f142379f9e8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

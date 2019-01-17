@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Sources.Count property (Word)](http://msdn.microsoft.com/library/06a6f0b3-1591-52b3-fcff-aca4324a80e3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

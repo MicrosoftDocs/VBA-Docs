@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Rows object (Word)](http://msdn.microsoft.com/library/cd83d0ef-f743-1886-54de-497017c5f542%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

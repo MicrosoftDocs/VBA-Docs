@@ -39,3 +39,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.VerticalAnchor property (Access)](http://msdn.microsoft.com/library/4700f630-b040-e00a-4bc0-3cf6425632d2%28Office.15%29.aspx)
 - [WebBrowserControl.VerticalAnchor property (Access)](http://msdn.microsoft.com/library/b0f991a4-744b-aac8-8456-a455f71942b7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

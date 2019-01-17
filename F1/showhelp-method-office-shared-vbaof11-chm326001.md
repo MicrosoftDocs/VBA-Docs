@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CustomXMLPrefixMapping.Parent Property (Office)](http://msdn.microsoft.com/library/a3b743c6-4874-1a6f-b435-e1acb79d431c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

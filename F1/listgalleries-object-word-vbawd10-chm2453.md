@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ListGalleries object (Word)](http://msdn.microsoft.com/library/3ae91fbf-fb7c-e96f-fd13-e4e4e9c4f09e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

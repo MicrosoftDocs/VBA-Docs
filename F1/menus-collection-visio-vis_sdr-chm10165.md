@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Menus Object (Visio)](http://msdn.microsoft.com/library/78bf7feb-0479-6251-ad88-b18e1fe78ee5.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

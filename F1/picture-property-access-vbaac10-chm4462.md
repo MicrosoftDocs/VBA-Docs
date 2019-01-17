@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Image.Picture property (Access)](http://msdn.microsoft.com/library/7844c00d-d56d-0473-31d6-7278f9e4d10f%28Office.15%29.aspx)
 [ToggleButton.Picture property (Access)](http://msdn.microsoft.com/library/78889614-9916-1265-611a-8ae6932187fd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

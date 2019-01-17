@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.AutoLabel property (Access)](http://msdn.microsoft.com/library/addd9533-d975-1b85-e941-c560188f0d8a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

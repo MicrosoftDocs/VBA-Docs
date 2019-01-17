@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/dfa6bb67-9841-ddf0-508a-9553fbf0229e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

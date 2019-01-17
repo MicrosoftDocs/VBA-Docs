@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shapes Object (Visio)](http://msdn.microsoft.com/library/18d1444a-43fd-d711-849d-fa6567537a87.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

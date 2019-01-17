@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnLostFocus property (Access)](http://msdn.microsoft.com/library/e3bddd85-772e-9d3c-d079-b323f10a7d5a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

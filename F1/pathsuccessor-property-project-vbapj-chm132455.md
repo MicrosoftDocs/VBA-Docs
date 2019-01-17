@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.OutlineCode8 Property (Project)](http://msdn.microsoft.com/library/80b2e759-a8b4-e69a-e952-b29da8199d92%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

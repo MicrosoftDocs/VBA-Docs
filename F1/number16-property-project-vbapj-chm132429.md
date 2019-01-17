@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.Number16 Property (Project)](http://msdn.microsoft.com/library/ff2c8176-a4a2-4c55-24cb-9bdadc31c7eb%28Office.15%29.aspx)
 [OutlineCode.OnlyCompleteCodes Property (Project)](http://msdn.microsoft.com/library/eb0b8dc2-2cb8-a86b-2711-fa4c6f215971%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [SeriesCollection.Count Property (PowerPoint)](http://msdn.microsoft.com/library/527e7502-d84e-8884-b0df-7d44cbe89f3f%28Office.15%29.aspx)
 - [Trendlines.Count Property (PowerPoint)](http://msdn.microsoft.com/library/e4e02ec4-1581-382a-1524-0da7929e13e6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.OnError property (Access)](http://msdn.microsoft.com/library/f89366ad-7d68-cb0f-0b17-c6b4f4eb3f3c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

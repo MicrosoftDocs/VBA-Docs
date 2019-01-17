@@ -40,3 +40,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ToggleButton.HoverColor property (Access)](http://msdn.microsoft.com/library/eade7060-78da-8bea-53b2-f8eb5e40be4c%28Office.15%29.aspx)
 [ToggleButton.PressedColor property (Access)](http://msdn.microsoft.com/library/b0296b52-1207-0dfa-c4b8-fd8ef5c88338%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [BoundObjectFrame.MouseDown event (Access)](http://msdn.microsoft.com/library/c1715e90-2f97-4778-6b4c-ceff7f813a9f%28Office.15%29.aspx)
 [BoundObjectFrame.MouseUp event (Access)](http://msdn.microsoft.com/library/d37ac9b3-e9eb-113c-289a-db8d5b7cf125%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

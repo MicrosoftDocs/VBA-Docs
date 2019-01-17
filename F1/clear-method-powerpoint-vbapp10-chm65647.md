@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Legend.Clear Method (PowerPoint)](http://msdn.microsoft.com/library/a003e3fd-2b90-a799-80d9-1540ccfc33ef%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

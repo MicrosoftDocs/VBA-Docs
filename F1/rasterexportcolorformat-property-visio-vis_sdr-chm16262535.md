@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportColorFormat Property (Visio)](http://msdn.microsoft.com/library/12372e0c-42d0-2a06-777a-9ea66b8efaba.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Conflicts object (Word)06a5777b-5d5b-883f-aa49-648c7ba854ce](http://msdn.microsoft.com/library/06a5777b-5d5b-883f-aa49-648c7ba854ce%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Explosion Property (PowerPoint)](http://msdn.microsoft.com/library/c952b296-35c2-0215-228e-883a29e1b9d8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

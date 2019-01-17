@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ListBox.InheritValueList property (Access)](http://msdn.microsoft.com/library/7b5e0af5-4648-ff09-04a6-25b050dc1861%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

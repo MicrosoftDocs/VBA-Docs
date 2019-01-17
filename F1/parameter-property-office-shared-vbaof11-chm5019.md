@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarControl.Parameter Property (Office)](http://msdn.microsoft.com/library/6a1fd988-0c3f-3945-307f-e4e647c3642c%28Office.15%29.aspx)
 [CommandBarPopup.Parameter Property (Office)](http://msdn.microsoft.com/library/3ad7783e-3afd-0019-1cf9-eae93992479b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ShapeParentChanged Event (Visio)](http://msdn.microsoft.com/library/321f937c-27e0-be80-9d6a-78e4e85629ec%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

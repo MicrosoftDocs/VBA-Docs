@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Paths Object (Visio)](http://msdn.microsoft.com/library/80a73bdb-f4a5-fea4-fde3-f8417c2d3b27.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

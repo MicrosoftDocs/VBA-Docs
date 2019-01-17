@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Date6 Property (Project)](http://msdn.microsoft.com/library/cfded1d4-f664-fc16-6fba-a29d7263064f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

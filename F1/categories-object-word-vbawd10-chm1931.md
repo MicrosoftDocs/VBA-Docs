@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Categories object (Word)ddc09712-b439-81f1-07c0-e72fe55bb9a1](http://msdn.microsoft.com/library/ddc09712-b439-81f1-07c0-e72fe55bb9a1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarComboBox.Top Property (Office)](http://msdn.microsoft.com/library/f49930ca-9dba-9d9b-b7bb-93de87cdfcf8%28Office.15%29.aspx)
 [CommandBarButton.Top Property (Office)](http://msdn.microsoft.com/library/4ad019ed-a344-dac5-0063-b52bdead7916%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

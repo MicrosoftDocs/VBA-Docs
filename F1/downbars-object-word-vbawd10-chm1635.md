@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DownBars object (Word)9cceafe8-0d34-a339-159e-3297044c22d2](http://msdn.microsoft.com/library/9cceafe8-0d34-a339-159e-3297044c22d2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

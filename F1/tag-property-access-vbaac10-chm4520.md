@@ -43,4 +43,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.Tag property (Access)](http://msdn.microsoft.com/library/d487494e-e987-1a2f-86c3-09bdfa1ede08%28Office.15%29.aspx)
 - [WebBrowserControl.Tag property (Access)](http://msdn.microsoft.com/library/540e37bb-db7b-4b5d-9713-b4829a8acd57%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

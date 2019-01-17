@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ResourceViewList Property (Project)](http://msdn.microsoft.com/library/d0acf85f-8a07-714d-614f-a18645177f40%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

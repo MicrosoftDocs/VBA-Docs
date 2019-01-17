@@ -25,4 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BeforeUpdate property (Access)](http://msdn.microsoft.com/library/de841054-a98a-7108-0d7d-020175edb1ce%28Office.15%29.aspx)
 - [ToggleButton.BeforeUpdate property (Access)](http://msdn.microsoft.com/library/a2754963-4168-aa9f-6b0c-8de4332c09e6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

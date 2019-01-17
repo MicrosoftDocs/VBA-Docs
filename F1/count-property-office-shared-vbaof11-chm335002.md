@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PickerField.Type Property (Office)](http://msdn.microsoft.com/library/1ac12ab8-9250-e554-b674-c56d06de8149%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

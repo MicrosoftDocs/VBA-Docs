@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.PreleveledFinish Property (Project)](http://msdn.microsoft.com/library/edcb110a-41b7-c2ad-0382-d88cf5f3708c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.BCWS Property (Project)](http://msdn.microsoft.com/library/8f2c4042-599f-faa4-b95e-ee0bfbd1cc56%28Office.15%29.aspx)
 - [Assignment.BCWS Property (Project)](http://msdn.microsoft.com/library/22ffb05e-6e36-061b-771b-f8fc3bf8217e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.Timeline Property (Project)](http://msdn.microsoft.com/library/6e463f3b-28fb-79dc-c51f-c3512183a310%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

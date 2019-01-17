@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BuildingBlocks.Creator property (Word)](http://msdn.microsoft.com/library/42d378dc-d442-e8e2-382c-ea82b71ffcf8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

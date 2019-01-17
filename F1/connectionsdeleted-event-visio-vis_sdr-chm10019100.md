@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.ConnectionsDeleted Event (Visio)](http://msdn.microsoft.com/library/88505099-3b7d-bf02-cc3d-d56bc436e63f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

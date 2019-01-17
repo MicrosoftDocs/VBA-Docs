@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Group.ShowSummary Property (Project)](http://msdn.microsoft.com/library/865815c0-acd6-8a74-1b4d-18a5aaa0b41b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

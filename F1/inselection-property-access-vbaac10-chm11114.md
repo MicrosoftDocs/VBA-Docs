@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.InSelection property (Access)](http://msdn.microsoft.com/library/96b49172-cea7-26e3-0bdc-6e0b85a1402f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

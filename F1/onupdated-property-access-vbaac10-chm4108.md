@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [WebBrowserControl.OnUpdated property (Access)](http://msdn.microsoft.com/library/81b6208e-4034-41ba-8694-c75f0155d562%28Office.15%29.aspx)
 [ObjectFrame.OnUpdated property (Access)](http://msdn.microsoft.com/library/d2239f45-959b-beb7-fe9e-c9a9a257dd4b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

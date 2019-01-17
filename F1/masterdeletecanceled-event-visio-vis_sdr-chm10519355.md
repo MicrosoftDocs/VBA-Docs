@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.MasterDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/e2d82547-46a9-7994-e317-78be658208c6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

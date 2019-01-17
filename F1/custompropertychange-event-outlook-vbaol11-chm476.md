@@ -31,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.CustomPropertyChange Event (Outlook)](http://msdn.microsoft.com/library/5fcaaba2-706b-76e3-cd6d-be435bca584b%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.CustomPropertyChange Event (Outlook)](http://msdn.microsoft.com/library/33268223-3cdd-4777-450c-b94e3abbf907%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

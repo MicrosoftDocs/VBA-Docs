@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarButton.Priority Property (Office)](http://msdn.microsoft.com/library/72599580-16d2-20b3-05ad-b454afbba6ef%28Office.15%29.aspx)
 [CommandBarPopup.Priority Property (Office)](http://msdn.microsoft.com/library/cef115fd-fdc8-d8a3-b51d-c9fbc21a810f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

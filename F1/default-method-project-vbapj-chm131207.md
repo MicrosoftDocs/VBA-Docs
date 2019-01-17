@@ -21,4 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WorkWeekDay.Default Method (Project)](http://msdn.microsoft.com/library/ebd16c59-a718-6d11-5387-7a5b816fdf35%28Office.15%29.aspx)
 - [Year.Default Method (Project)](http://msdn.microsoft.com/library/a4c59777-bade-cab7-0bd5-e713fd8a7a9e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

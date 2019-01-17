@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ChartCharacters.Text Property (PowerPoint)](http://msdn.microsoft.com/library/c38177fd-c248-4427-8243-510e810bbddb%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

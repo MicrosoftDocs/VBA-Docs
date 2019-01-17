@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewCombination.Delete Method (Project)](http://msdn.microsoft.com/library/ae00027a-684a-907f-1555-c128e2b88a23%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

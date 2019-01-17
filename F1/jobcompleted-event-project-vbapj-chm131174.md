@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectCalculate Event (Project)](http://msdn.microsoft.com/library/44dbf3f9-4a7d-2e85-aa63-915ea47af008%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

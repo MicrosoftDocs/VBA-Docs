@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TabControl.ForeColor property (Access)](http://msdn.microsoft.com/library/8b690a5f-ce7d-7b9c-09b7-90cbe3b2be81%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

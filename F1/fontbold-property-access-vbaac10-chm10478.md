@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.FontBold property (Access)](http://msdn.microsoft.com/library/bdf44cca-eae9-34d7-50a3-d3ac52c9ae39%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

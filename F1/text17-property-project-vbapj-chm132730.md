@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.Text17 Property (Project)](http://msdn.microsoft.com/library/bcda31ca-ec78-d66e-02bf-b0a9b4452bad%28Office.15%29.aspx)
 [Application.UseOMIDs Property (Project)](http://msdn.microsoft.com/library/15339e09-0b65-d939-df47-eb538dee7c38%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

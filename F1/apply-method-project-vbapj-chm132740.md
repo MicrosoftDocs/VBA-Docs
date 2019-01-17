@@ -21,4 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ViewCombination.Apply Method (Project)](http://msdn.microsoft.com/library/65375343-dbcf-1a4f-4c11-c6c52d052c11%28Office.15%29.aspx)
 - [ViewSingle.Apply Method (Project)](http://msdn.microsoft.com/library/eafd9cdd-bb4f-51c1-4639-d852dec3f3f8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

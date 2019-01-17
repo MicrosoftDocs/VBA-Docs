@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Application property (Access)](http://msdn.microsoft.com/library/84a7ea86-f31c-775d-2383-5ac8751dd0f1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

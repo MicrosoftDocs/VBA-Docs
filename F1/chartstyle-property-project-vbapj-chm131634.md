@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.PivotLayout Property (Project)](http://msdn.microsoft.com/library/d1c3cc4c-1c2c-4414-ffef-44b7667b95dc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

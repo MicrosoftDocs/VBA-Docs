@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.LostFocus event (Access)](http://msdn.microsoft.com/library/a8c29b13-5757-7be9-7111-81f847c8ec32%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

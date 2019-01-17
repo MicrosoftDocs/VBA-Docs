@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CustomControl.BottomPadding property (Access)](http://msdn.microsoft.com/library/37fe735a-4fc8-c772-1cc9-a0208b2fe2e4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

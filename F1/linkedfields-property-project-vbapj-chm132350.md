@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.LinkedFields Property (Project)](http://msdn.microsoft.com/library/c20b7704-9635-a564-22a1-dd46af74b5a6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

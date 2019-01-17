@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Click event (Access)](http://msdn.microsoft.com/library/d102a526-2051-3a36-0f7a-fc234f126c47%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

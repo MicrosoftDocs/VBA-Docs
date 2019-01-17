@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ThemeVariant.Parent Property (PowerPoint)](http://msdn.microsoft.com/library/780956d0-eebb-c5d5-8a6a-c969897bc9a5%28Office.15%29.aspx)
 [Theme.Parent Property (PowerPoint)](http://msdn.microsoft.com/library/a4332e6e-cbed-42bc-ef24-cabcde111c57%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

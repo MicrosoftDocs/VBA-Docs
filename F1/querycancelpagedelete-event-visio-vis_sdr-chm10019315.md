@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.QueryCancelPageDelete Event (Visio)](http://msdn.microsoft.com/library/81e9ab8a-5060-9ebf-52c7-e22ed45487f1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

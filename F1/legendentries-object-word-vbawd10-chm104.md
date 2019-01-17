@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendEntries object (Word)0d22dbcf-df4b-6228-7565-c52bd9c8cca9](http://msdn.microsoft.com/library/0d22dbcf-df4b-6228-7565-c52bd9c8cca9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

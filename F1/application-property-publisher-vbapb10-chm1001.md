@@ -20,4 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [MailMergeFilterCriterion.Application Property (Publisher)](http://msdn.microsoft.com/library/23438144-f791-8c76-d81c-aa40f592b948%28Office.15%29.aspx)
 - [MailMergeFilters.Application Property (Publisher)](http://msdn.microsoft.com/library/daefa869-1790-0c21-3c4f-9bb72003741c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

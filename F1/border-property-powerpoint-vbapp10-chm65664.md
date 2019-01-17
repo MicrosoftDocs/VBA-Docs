@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ErrorBars.Border Property (PowerPoint)](http://msdn.microsoft.com/library/4bc5395a-11f2-b9c6-15d9-e96f93f424ae%28Office.15%29.aspx)
 - [LeaderLines.Border Property (PowerPoint)](http://msdn.microsoft.com/library/b07c2a0b-7851-1f6a-85ee-eaf85d7d4917%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

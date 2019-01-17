@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Filter Object (Project)](http://msdn.microsoft.com/library/abcd72a7-b86b-783e-16e0-f50a48b1fed2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

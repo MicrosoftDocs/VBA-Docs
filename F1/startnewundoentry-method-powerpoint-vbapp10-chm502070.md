@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.OpenThemeFile Method (PowerPoint)](http://msdn.microsoft.com/library/b34d5a6f-8cf8-ce6a-3c0c-c1ed43c413c6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

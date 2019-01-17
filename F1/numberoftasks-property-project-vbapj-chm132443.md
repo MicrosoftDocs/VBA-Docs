@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.Owner Property (Project)](http://msdn.microsoft.com/library/d5051b82-a56a-93bb-cf85-81f3f99d3a11%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

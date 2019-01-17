@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Engagements Object (Project)](http://msdn.microsoft.com/library/4986802b-1d53-7bc6-0bc7-6a5b83855628%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

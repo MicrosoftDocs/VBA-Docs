@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Text29 Property (Project)](http://msdn.microsoft.com/library/11cc5c17-92f0-67f4-1f2d-9e3fb96561b1%28Office.15%29.aspx)
 - [Resource.Text29 Property (Project)](http://msdn.microsoft.com/library/215e0008-1d4e-0b14-43d5-c71e9afe90ac%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.BeforeRead Event (Outlook)](http://msdn.microsoft.com/library/edeaa780-03ec-a532-da97-7d7d6f766660%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeRead Event (Outlook)](http://msdn.microsoft.com/library/000f1a63-b3f3-cda3-b1fa-1f49c6b539f2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

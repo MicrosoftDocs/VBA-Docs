@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.RegisterProject Method (Project)](http://msdn.microsoft.com/library/66cc4443-2adc-ff66-976e-da52c6d4f7ff%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

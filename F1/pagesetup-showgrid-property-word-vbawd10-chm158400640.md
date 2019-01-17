@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PageSetup.ShowGrid property (Word)](http://msdn.microsoft.com/library/650613c9-0b98-8552-0a6d-c82dd2613700%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

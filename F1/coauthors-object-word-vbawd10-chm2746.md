@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CoAuthors object (Word)](http://msdn.microsoft.com/library/47fc864d-5f1b-b113-85b5-6e8b1b75c225%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

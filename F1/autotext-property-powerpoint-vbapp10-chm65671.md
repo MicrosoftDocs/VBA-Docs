@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.AutoText Property (PowerPoint)](http://msdn.microsoft.com/library/6e964058-3cfa-ba02-b324-fc1e82beb3d3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

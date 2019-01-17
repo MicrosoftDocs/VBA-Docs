@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Image.PictureTiling property (Access)](http://msdn.microsoft.com/library/9be8cde0-4632-197e-ea3a-8db5846b8920%28Office.15%29.aspx)
 [Form.PictureTiling property (Access)](http://msdn.microsoft.com/library/9343925c-8184-e9fc-ed62-a272a0bfa0a6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

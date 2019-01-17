@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BuildingBlock.Name Property (Publisher)](http://msdn.microsoft.com/library/2aaa1f16-2379-1f63-8f4f-c08026e69e1a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

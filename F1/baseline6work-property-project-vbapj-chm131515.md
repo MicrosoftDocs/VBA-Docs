@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline6Work Property (Project)](http://msdn.microsoft.com/library/0ae4cabc-d80a-c101-483d-30876f10f810%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

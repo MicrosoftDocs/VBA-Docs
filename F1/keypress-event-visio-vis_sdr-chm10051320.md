@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.KeyPress Event (Visio)](http://msdn.microsoft.com/library/d6beecb3-a178-3220-94fe-ae6e68b31980%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

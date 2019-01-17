@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Options.Options.RTFInClipboard property (Word)](http://msdn.microsoft.com/library/86166b42-3007-aa4e-d967-e8496e86a947%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

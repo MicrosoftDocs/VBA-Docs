@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AddIns object (Word)0d6166c7-a467-b3a5-05db-c9a40d0a023c](http://msdn.microsoft.com/library/0d6166c7-a467-b3a5-05db-c9a40d0a023c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

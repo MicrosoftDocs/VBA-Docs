@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/4e98dccd-e0d6-b24c-0a7a-f8dd54907fa0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

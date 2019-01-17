@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.AutomaticallyFillPhoneticFields Property (Project)](http://msdn.microsoft.com/library/2c4eef7e-bde4-6aa9-b383-7634447997a0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

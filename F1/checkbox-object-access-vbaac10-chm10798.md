@@ -30,4 +30,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CheckBox.MouseMove event (Access)](http://msdn.microsoft.com/library/f45a89b3-eab8-0757-1ac8-b2aebaa47a1f%28Office.15%29.aspx)
 - [CheckBox.MouseUp event (Access)](http://msdn.microsoft.com/library/704acc3b-6ff6-fb0e-9adf-bd34185443e4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

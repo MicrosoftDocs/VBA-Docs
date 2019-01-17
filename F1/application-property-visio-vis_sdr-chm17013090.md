@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [KeyboardEvent.Application Property (Visio)](http://msdn.microsoft.com/library/7765db2a-8287-b2cc-5868-49b69fbfacac%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

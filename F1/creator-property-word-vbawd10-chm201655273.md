@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TaskPanes.Creator property (Word)](http://msdn.microsoft.com/library/e94b0c6c-90a6-e221-2d56-966a197056bf%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

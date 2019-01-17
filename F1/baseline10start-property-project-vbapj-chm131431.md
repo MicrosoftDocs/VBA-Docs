@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.Baseline10Start Property (Project)](http://msdn.microsoft.com/library/7ecc2bc8-607a-5d9f-8bdd-a2b7b34c985d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

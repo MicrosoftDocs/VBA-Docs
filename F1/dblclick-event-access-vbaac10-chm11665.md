@@ -26,4 +26,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ObjectFrame.MouseUp event (Access)](http://msdn.microsoft.com/library/0f818329-7817-d62f-2ccd-a35232cf67dc%28Office.15%29.aspx)
 - [ObjectFrame.Updated event (Access)](http://msdn.microsoft.com/library/827a14f5-4062-e904-3f53-ccb01b59b03f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

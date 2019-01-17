@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.SetField Method (Project)](http://msdn.microsoft.com/library/9ac1e770-8716-2954-4459-7f5ff090e2ed%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

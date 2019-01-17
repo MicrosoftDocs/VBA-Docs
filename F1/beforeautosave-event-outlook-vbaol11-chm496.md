@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.BeforeAutoSave Event (Outlook)](http://msdn.microsoft.com/library/0907ec19-5b94-619e-dcd1-8c458294194f%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeAutoSave Event (Outlook)](http://msdn.microsoft.com/library/a9c71d3d-af57-af05-6831-0a55e2139df4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

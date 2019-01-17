@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MouseMove Event (Visio)](http://msdn.microsoft.com/library/3ffd86f8-8700-88a7-9ffc-24df11c93dd4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

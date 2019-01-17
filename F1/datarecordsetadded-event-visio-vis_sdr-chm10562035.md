@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/3ddb399d-0b28-9ec7-4059-f8d3011a98c0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

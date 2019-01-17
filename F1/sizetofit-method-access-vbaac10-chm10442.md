@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.SizeToFit method (Access)](http://msdn.microsoft.com/library/b8ca4ed4-4092-3996-b26a-d3ec561906e9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Duration6 Property (Project)](http://msdn.microsoft.com/library/6d04b8ab-d5f7-6a93-36e5-4b9c9f57cb23%28Office.15%29.aspx)
 - [Application.EnableCancelKey Property (Project)](http://msdn.microsoft.com/library/9b5f4f90-3ef3-139b-5f76-f48d3d7710a8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

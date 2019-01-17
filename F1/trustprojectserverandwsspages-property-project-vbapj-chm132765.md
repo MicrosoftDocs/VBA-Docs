@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.WBSSuccessors Property (Project)](http://msdn.microsoft.com/library/4d435645-8437-af81-ad38-eca0c27cfd80%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

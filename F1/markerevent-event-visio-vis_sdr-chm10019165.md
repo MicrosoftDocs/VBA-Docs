@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MarkerEvent Event (Visio)](http://msdn.microsoft.com/library/1d0c20cc-ccfd-595c-04ea-afce487e582c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

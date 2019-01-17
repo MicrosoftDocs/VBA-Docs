@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Application.GlobalViewsCombination Property (Project)](http://msdn.microsoft.com/library/9eace5f8-163e-9b55-2ca4-f1bf43bf12d4%28Office.15%29.aspx)
 [Assignment.Flag10 Property (Project)](http://msdn.microsoft.com/library/204a3d12-fb71-2277-c613-f9427402dff1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

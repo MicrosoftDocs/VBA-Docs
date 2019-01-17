@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Calendar.Guid Property (Project)](http://msdn.microsoft.com/library/08230f82-fd1b-ef99-18e3-f6be75c3d2a8%28Office.15%29.aspx)
 [Task.Guid Property (Project)](http://msdn.microsoft.com/library/0a40e2ac-86a7-0e9d-17d7-7b187b32952c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

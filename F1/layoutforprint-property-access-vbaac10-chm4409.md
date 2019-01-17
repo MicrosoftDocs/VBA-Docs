@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.LayoutForPrint property (Access)](http://msdn.microsoft.com/library/fd8c8112-186a-3f77-06ef-783bf48a7052%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

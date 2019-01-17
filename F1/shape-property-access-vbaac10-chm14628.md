@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ToggleButton.Shape property (Access)](http://msdn.microsoft.com/library/86f39f5a-ab5b-2db2-611b-53568a99ac0c%28Office.15%29.aspx)
 [CommandButton.Shape property (Access)](http://msdn.microsoft.com/library/92088237-5dd8-0b40-ed2d-e5a5bfef4495%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

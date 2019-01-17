@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.TaskTables Property (Project)](http://msdn.microsoft.com/library/98ebe380-ab66-238e-f02c-a6dc6ae6c597%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

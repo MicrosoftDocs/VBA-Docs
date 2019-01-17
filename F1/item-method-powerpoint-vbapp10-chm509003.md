@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DocumentWindows.Item Method (PowerPoint)](http://msdn.microsoft.com/library/71e8ae25-8ef8-3495-c864-f8c0ea774f5e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

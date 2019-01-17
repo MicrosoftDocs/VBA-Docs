@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.QuickStyleMask property (Access)](http://msdn.microsoft.com/library/d7a5e454-399b-090c-46d9-add8ad13ff0f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

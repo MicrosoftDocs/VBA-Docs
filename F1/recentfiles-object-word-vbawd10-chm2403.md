@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [RecentFiles object (Word)](http://msdn.microsoft.com/library/c2d5e0b1-0d79-2fa7-c475-e5cace59ba1f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

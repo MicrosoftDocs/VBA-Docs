@@ -24,4 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Trendline.ClearFormats Method (PowerPoint)](http://msdn.microsoft.com/library/e5339772-6ee6-3b39-2c8c-c01f32b42e6d%28Office.15%29.aspx)
 - [Walls.ClearFormats Method (PowerPoint)](http://msdn.microsoft.com/library/0c942880-731c-1ed5-144d-014749de3115%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

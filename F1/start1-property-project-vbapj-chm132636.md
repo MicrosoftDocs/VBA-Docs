@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Start1 Property (Project)](http://msdn.microsoft.com/library/06c9ff33-867e-872b-9421-8a8058de3524%28Office.15%29.aspx)
 [TableField.AutoWrap Property (Project)](http://msdn.microsoft.com/library/03364d30-736e-ae90-8e68-bf702b40444e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

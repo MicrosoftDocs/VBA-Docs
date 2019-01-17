@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [XMLNodes object (Word)](http://msdn.microsoft.com/library/c29850f2-8db2-aef6-57ee-fed1b625616c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

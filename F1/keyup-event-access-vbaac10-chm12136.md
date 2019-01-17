@@ -27,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TabControl.KeyPress event (Access)](http://msdn.microsoft.com/library/4b67dc83-b7fe-4f76-c785-e9b576f51500%28Office.15%29.aspx)
 [TabControl.MouseMove event (Access)](http://msdn.microsoft.com/library/e684139a-dfde-c9b0-389d-fae941caa481%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

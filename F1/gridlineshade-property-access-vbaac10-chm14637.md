@@ -35,3 +35,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Label.GridlineShade property (Access)](http://msdn.microsoft.com/library/d2d3415f-99f4-3ba4-78d3-f7d53f792980%28Office.15%29.aspx)
 [ComboBox.GridlineShade property (Access)](http://msdn.microsoft.com/library/286746a1-0098-8991-0074-fe6fa0ceff0a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

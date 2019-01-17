@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.HelpFile property (Access)](http://msdn.microsoft.com/library/cfab3009-c8e1-5f56-020a-e0a972e0de50%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Table.AdjustHeaderRowHeight Property (Project)](http://msdn.microsoft.com/library/b6acb45c-14c2-8075-7b56-4eacf7c5fdd5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

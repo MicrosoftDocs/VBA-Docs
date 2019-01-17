@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.CPI Property (Project)](http://msdn.microsoft.com/library/91988461-bcde-3b5a-d051-71596b76597e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

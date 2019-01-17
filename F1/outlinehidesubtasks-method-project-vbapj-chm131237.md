@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.MailLogon Method (Project)](http://msdn.microsoft.com/library/0047a6ea-ea36-498c-e744-c4c88a08baae%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

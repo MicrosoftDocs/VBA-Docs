@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OutlineCode.OnlyCompleteCodes Property (Project)](http://msdn.microsoft.com/library/eb0b8dc2-2cb8-a86b-2711-fa4c6f215971%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Finish3 Property (Project)](http://msdn.microsoft.com/library/4fdb98f4-8801-5ccd-2794-885f7a655501%28Office.15%29.aspx)
 [Assignment.Finish3 Property (Project)](http://msdn.microsoft.com/library/d76d6820-68b7-1742-1b7c-c8ab69d928cf%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

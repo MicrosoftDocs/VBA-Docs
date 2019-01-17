@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CustomControl.VarOleObject property (Access)](http://msdn.microsoft.com/library/7de5433c-a2da-bb8e-35d2-9c7aae1ff2cd%28Office.15%29.aspx)
 [ObjectFrame.VarOleObject property (Access)](http://msdn.microsoft.com/library/e04e769d-07fb-dacc-aa70-ddd3a064d785%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

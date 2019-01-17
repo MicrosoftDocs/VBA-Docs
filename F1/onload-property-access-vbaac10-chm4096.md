@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.OnLoad property (Access)](http://msdn.microsoft.com/library/8614f8a8-b5ca-6fa6-46b2-7e88d8a8137d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

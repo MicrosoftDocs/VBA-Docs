@@ -37,4 +37,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WebBrowserControl.ProgressChange event (Access)](http://msdn.microsoft.com/library/1a021887-6f0c-236a-2228-90a339407689%28Office.15%29.aspx)
 - [WebBrowserControl.Updated event (Access)](http://msdn.microsoft.com/library/844fb989-98a5-6588-77e3-789bb9a7112c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

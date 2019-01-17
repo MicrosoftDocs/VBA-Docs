@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Image.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/ba6f27ec-d28b-e495-4e63-9355cd26630b%28Office.15%29.aspx)
 [CommandButton.HyperlinkSubAddress property (Access)](http://msdn.microsoft.com/library/1c8af1e0-f978-0eb2-c3b5-f5ea9ab84892%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PredecessorDrivers Object (Project)](http://msdn.microsoft.com/library/a55a655c-3f43-77db-a861-dba8059e3a21%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

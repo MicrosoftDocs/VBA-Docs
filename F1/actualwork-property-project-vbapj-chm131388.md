@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Project.AskForCompletedWork Property (Project)](http://msdn.microsoft.com/library/54380c01-ae6f-a378-a46b-bfe0064fbc5f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

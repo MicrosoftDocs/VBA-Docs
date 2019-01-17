@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.KeyboardLanguage property (Access)](http://msdn.microsoft.com/library/a3b55e3e-16a9-87c7-6c03-bc8392e72c17%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

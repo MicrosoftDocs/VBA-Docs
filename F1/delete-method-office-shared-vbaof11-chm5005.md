@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarControl.Delete Method (Office)](http://msdn.microsoft.com/library/eca4abea-092b-0c11-1040-7132318b1bea%28Office.15%29.aspx)
 - [CommandBarPopup.Delete Method (Office)](http://msdn.microsoft.com/library/65ec78a1-9f8f-fbd7-3611-c788f3e8566d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

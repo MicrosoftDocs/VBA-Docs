@@ -24,3 +24,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [AllStoredProcedures.Count property (Access)](http://msdn.microsoft.com/library/419735b8-3251-cbac-0cb3-d65e5a0aa0a9%28Office.15%29.aspx)
 - [AllTables.Count property (Access)](http://msdn.microsoft.com/library/f89a096e-e88c-ffcf-430b-8736c60d5bb9%28Office.15%29.aspx)
 - [AllViews.Count property (Access)](http://msdn.microsoft.com/library/8e576778-48d9-d14f-da4a-5f0c9ca97008%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

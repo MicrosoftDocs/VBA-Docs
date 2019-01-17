@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Section.MouseDown event (Access)](http://msdn.microsoft.com/library/e262213a-cf22-bb6f-b3b0-bcbdba33e61d%28Office.15%29.aspx)
 [Section object (Access)](http://msdn.microsoft.com/library/9edc5e29-bdd6-7627-230e-ca3812e0414e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

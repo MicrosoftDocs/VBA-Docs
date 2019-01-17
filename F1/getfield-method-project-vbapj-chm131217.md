@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.GetField Method (Project)](http://msdn.microsoft.com/library/36fbbc13-272e-72f4-ebbe-2c13f67abbe7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

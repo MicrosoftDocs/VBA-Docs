@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HeaderFooter.Creator property (Word)](http://msdn.microsoft.com/library/73f87192-f442-58ff-9ec0-ac743a6aec3a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

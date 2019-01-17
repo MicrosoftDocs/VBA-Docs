@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Sync Event](http://msdn.microsoft.com/library/96653fd2-43c0-f958-8d51-da9fa2bfdd9d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

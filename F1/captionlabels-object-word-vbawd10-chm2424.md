@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CaptionLabels object (Word)f698f1dc-a5b3-357f-357f-f9ee97a0582e](http://msdn.microsoft.com/library/f698f1dc-a5b3-357f-357f-f9ee97a0582e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shift.Clear Method (Project)](http://msdn.microsoft.com/library/89243732-8c83-ba1e-01ff-fdbfa4d4c4d2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

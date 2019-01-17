@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Project.DefaultDurationUnits Property (Project)](http://msdn.microsoft.com/library/611ad984-d792-bf8c-b254-901fc8c952f1%28Office.15%29.aspx)
 - [Assignment.Date7 Property (Project)](http://msdn.microsoft.com/library/1d50befd-3087-2584-b41a-f96a2cfa8fa7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

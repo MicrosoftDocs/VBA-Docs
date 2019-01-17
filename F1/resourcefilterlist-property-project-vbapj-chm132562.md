@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.Values Property (Project)](http://msdn.microsoft.com/library/23d63c1a-99f1-45d5-b582-9cdaf37572e3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

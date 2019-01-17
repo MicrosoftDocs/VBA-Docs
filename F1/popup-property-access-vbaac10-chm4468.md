@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.PopUp property (Access)](http://msdn.microsoft.com/library/76e82181-c5d5-01b2-c7ce-b2c78f237a75%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

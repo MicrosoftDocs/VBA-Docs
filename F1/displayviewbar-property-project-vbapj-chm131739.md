@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.DeliverableGuid Property (Project)](http://msdn.microsoft.com/library/7e67d1df-d1b7-b838-4bc8-5e505ad53ca6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

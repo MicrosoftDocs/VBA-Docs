@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.TaskGroups2 Property (Project)](http://msdn.microsoft.com/library/e457ea72-be4e-4480-718d-548d8339b8b6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

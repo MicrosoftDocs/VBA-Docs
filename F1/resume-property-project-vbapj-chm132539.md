@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Recurring Property (Project)](http://msdn.microsoft.com/library/e7d5aef4-3fac-976f-a3d1-7f5bd4c870cd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

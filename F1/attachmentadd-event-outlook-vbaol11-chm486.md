@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.AttachmentAdd Event (Outlook)](http://msdn.microsoft.com/library/b309cddc-e166-7cea-7f5e-07f26df90986%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.AttachmentAdd Event (Outlook)](http://msdn.microsoft.com/library/7a30e7a5-fcc8-d1d8-8fdb-9cf1bbacee16%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

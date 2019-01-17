@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TaskDependency.LagType Property (Project)](http://msdn.microsoft.com/library/0c055a94-ea5f-1267-0b61-d3a50c6bc9b4%28Office.15%29.aspx)
 [Calendar.Guid Property (Project)](http://msdn.microsoft.com/library/08230f82-fd1b-ef99-18e3-f6be75c3d2a8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

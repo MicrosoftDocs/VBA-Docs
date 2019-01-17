@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.AllowLayoutView property (Access)](http://msdn.microsoft.com/library/5388fcd8-32fb-781d-538c-ac114f8d5bd8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

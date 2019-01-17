@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [MailMergeFields object (Word)70368dd0-0f72-e645-5ca0-6dcab411d129](http://msdn.microsoft.com/library/70368dd0-0f72-e645-5ca0-6dcab411d129%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

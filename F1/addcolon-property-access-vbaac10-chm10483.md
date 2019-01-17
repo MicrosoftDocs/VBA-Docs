@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.AddColon property (Access)](http://msdn.microsoft.com/library/37ea2802-2747-f220-427f-d6ae7df96f10%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

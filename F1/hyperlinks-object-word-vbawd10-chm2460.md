@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Hyperlinks object (Word)f1edf678-2318-196a-74a1-65c69aca8e7d](http://msdn.microsoft.com/library/f1edf678-2318-196a-74a1-65c69aca8e7d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

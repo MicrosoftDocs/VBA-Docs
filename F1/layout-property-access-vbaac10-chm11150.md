@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Layout property (Access)](http://msdn.microsoft.com/library/a1c841e6-221b-3ba6-4212-d76066afda48%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

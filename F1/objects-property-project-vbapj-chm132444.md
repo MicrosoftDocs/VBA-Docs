@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PMText Property (Project)](http://msdn.microsoft.com/library/a52193c7-2a74-c3b8-357b-ea7637309d14%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

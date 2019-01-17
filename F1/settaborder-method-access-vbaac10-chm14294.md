@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Page.SetTabOrder method (Access)](http://msdn.microsoft.com/library/446762c2-00b0-5b60-5e32-c2703681a753%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

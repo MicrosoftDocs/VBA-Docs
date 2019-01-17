@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Baseline10DeliverableFinish Property (Project)](http://msdn.microsoft.com/library/8a17356e-0c83-74bb-b41d-cc9c4188f491%28Office.15%29.aspx)
 - [Task.BCWP Property (Project)](http://msdn.microsoft.com/library/b21fdd25-7e81-8e26-963f-dd4a8035bb75%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

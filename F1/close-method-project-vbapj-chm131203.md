@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DateAdd Method (Project)](http://msdn.microsoft.com/library/df0da054-495c-c224-ebc8-b47acb78e2af%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.PercentWorkComplete Property (Project)](http://msdn.microsoft.com/library/f1b1dc5e-843c-ca0f-72f1-f8d7cdf6edab%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

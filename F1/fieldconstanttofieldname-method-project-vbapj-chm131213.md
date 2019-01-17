@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DurationValue Method (Project)](http://msdn.microsoft.com/library/745acbd3-600c-1179-1d61-be0dab88cdf5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.GridlineColor property (Access)](http://msdn.microsoft.com/library/849e0843-ab35-90d6-02a6-44faa316c83f%28Office.15%29.aspx)
 - [ToggleButton.GridlineColor property (Access)](http://msdn.microsoft.com/library/8c35e5ad-5a5e-479f-4161-82637aae376c%28Office.15%29.aspx)
 - [WebBrowserControl.GridlineColor property (Access)](http://msdn.microsoft.com/library/9859d2e9-e58e-003d-9349-a0bec21ed25a%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

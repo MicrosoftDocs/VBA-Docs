@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnKeyUp property (Access)](http://msdn.microsoft.com/library/dc4ad60c-4ba5-bf80-2e83-ee75da462e27%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

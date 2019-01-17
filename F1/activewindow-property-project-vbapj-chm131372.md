@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Project.AcceptNewExternalData Property (Project)](http://msdn.microsoft.com/library/6060d7df-9da5-520c-8293-f7ef2a1597d0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

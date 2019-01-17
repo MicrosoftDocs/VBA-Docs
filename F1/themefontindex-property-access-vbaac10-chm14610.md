@@ -25,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Label.ThemeFontIndex property (Access)](http://msdn.microsoft.com/library/56e24b5e-18c4-193a-95ec-dcfc5b8ff477%28Office.15%29.aspx)
 [NavigationButton.ThemeFontIndex property (Access)](http://msdn.microsoft.com/library/fb9dab70-239b-f5c9-a160-f2ce23678598%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

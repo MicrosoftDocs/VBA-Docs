@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.LevelClearDates Method (Project)](http://msdn.microsoft.com/library/301a75b6-9650-5440-b6ba-e14a6ec98bcf%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

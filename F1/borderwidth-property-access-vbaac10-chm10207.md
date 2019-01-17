@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Label.BorderWidth property (Access)](http://msdn.microsoft.com/library/245db6e4-81f8-a95b-65a8-9a7a5dd0b0e0%28Office.15%29.aspx)
 - [ToggleButton.BorderWidth property (Access)](http://msdn.microsoft.com/library/cbfd0285-9332-743c-a446-dfbff4dc7443%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

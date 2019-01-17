@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Adjustments object (Word)d2202c16-02fc-cf29-fed5-dcb146a1db6a](http://msdn.microsoft.com/library/d2202c16-02fc-cf29-fed5-dcb146a1db6a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

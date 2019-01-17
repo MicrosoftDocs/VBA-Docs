@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProtectedViewWindowSize Event (Word)](http://msdn.microsoft.com/library/b28d53f9-783f-6d68-2080-a0b1d8484c43%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

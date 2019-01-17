@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.MouseDown Event (Visio)](http://msdn.microsoft.com/library/66136634-ddb3-54fd-c6d4-f32550689d28%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

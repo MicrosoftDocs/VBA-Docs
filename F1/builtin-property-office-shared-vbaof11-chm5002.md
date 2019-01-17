@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarButton.BuiltIn Property (Office)](http://msdn.microsoft.com/library/0a159c65-99d1-efdf-ec5c-f4e51060dd09%28Office.15%29.aspx)
 - [CommandBarPopup.BuiltIn Property (Office)](http://msdn.microsoft.com/library/7cf5322a-b970-39da-c200-fc8303d60f29%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

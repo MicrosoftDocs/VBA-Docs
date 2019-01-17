@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendEntry.Font Property (PowerPoint)](http://msdn.microsoft.com/library/ef4051e3-3332-730a-eb30-d52795a0c7d6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

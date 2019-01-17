@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Revisions object (Word)](http://msdn.microsoft.com/library/7f267a64-885a-cb4c-008a-e8545cea94d2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

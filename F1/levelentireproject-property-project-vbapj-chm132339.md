@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.HoursPerDay Property (Project)](http://msdn.microsoft.com/library/2bd315b1-c9b6-6de3-66b9-23ae8895c2d7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

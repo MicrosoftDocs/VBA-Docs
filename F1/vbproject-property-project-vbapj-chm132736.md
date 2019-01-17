@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Text22 Property (Project)](http://msdn.microsoft.com/library/bf9aaf5c-7544-1449-e374-72a368bf6605%28Office.15%29.aspx)
 [Resource.Text22 Property (Project)](http://msdn.microsoft.com/library/54de7cf3-ef89-4c6c-1d10-d6f8aa13b2cb%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

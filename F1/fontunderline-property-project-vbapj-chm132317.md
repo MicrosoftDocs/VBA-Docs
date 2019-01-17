@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.IgnoreWarnings Property (Project)](http://msdn.microsoft.com/library/066439e9-c100-80fc-cba3-f9cadc0ef563%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

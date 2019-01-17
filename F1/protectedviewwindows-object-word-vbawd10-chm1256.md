@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ProtectedViewWindows object (Word)21324c91-f45f-3941-5e16-b9be7de314fc](http://msdn.microsoft.com/library/21324c91-f45f-3941-5e16-b9be7de314fc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

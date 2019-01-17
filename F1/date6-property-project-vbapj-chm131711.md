@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.Date6 Property (Project)](http://msdn.microsoft.com/library/f60cc98e-3fce-061c-ed01-a94d8a2f33b0%28Office.15%29.aspx)
 - [Application.DefaultDateFormat Property (Project)](http://msdn.microsoft.com/library/01f20463-2d23-0e65-ab54-cc23673509da%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

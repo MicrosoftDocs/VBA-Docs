@@ -38,4 +38,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.OnMouseDown property (Access)](http://msdn.microsoft.com/library/a9bbf8a5-4e62-fa9e-63a4-2f59cd2734f4%28Office.15%29.aspx)
 - [WebBrowserControl.OnMouseDown property (Access)](http://msdn.microsoft.com/library/b3a1d803-078c-fdd9-7e1f-4ce93bd1719c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.Number6 Property (Project)](http://msdn.microsoft.com/library/a4094f48-ddac-df9c-3c58-89fa0fb9e57c%28Office.15%29.aspx)
 [Task.OutlineParent Property (Project)](http://msdn.microsoft.com/library/54dc7d2a-feb0-da23-5116-decf0f4388e9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

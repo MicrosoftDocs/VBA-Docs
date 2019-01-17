@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.HoverTint property (Access)](http://msdn.microsoft.com/library/0eac99ff-c693-d456-c319-ec1ce60ba05d%28Office.15%29.aspx)
 [TabControl.HoverTint property (Access)](http://msdn.microsoft.com/library/24de8049-121d-e8c2-ecce-f88b1651cee0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

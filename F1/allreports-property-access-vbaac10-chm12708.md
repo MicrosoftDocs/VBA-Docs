@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.AllReports property (Access)](http://msdn.microsoft.com/library/92536101-c4ec-e1a8-723c-ee912a24bdee%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

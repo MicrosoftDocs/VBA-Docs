@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.BackStyle property (Access)](http://msdn.microsoft.com/library/1f46ccfd-78cc-0eae-3485-b91306dc6bde%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

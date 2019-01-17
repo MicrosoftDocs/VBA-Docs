@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Lines object (Word)85be4e0e-105c-85d4-ed50-d4f75bf16361](http://msdn.microsoft.com/library/85be4e0e-105c-85d4-ed50-d4f75bf16361%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

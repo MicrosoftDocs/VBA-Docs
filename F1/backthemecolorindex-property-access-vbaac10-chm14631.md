@@ -32,4 +32,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BackThemeColorIndex property (Access)](http://msdn.microsoft.com/library/a66a4839-3ab9-4867-b725-e613527bc94b%28Office.15%29.aspx)
 - [ToggleButton.BackThemeColorIndex property (Access)](http://msdn.microsoft.com/library/9d8c3d6d-e992-b1a6-b005-487270e1fe43%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

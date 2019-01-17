@@ -27,4 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.ControlSource property (Access)](http://msdn.microsoft.com/library/077297e8-6911-8cef-0aa5-4c5cbebcf4a3%28Office.15%29.aspx)
 - [WebBrowserControl.ControlSource property (Access)](http://msdn.microsoft.com/library/f15e6d9c-fa41-8ca9-5252-fbb86139b2dc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

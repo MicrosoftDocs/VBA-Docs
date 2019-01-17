@@ -33,3 +33,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextFrame.Creator Property (PowerPoint)](http://msdn.microsoft.com/library/7e198a9e-38eb-6f1a-38f6-e24bcac43190%28Office.15%29.aspx)
 - [TextFrame2.Creator Property (PowerPoint)](http://msdn.microsoft.com/library/e591a997-2322-cf14-d79b-0b63aa9d9e46%28Office.15%29.aspx)
 - [ThreeDFormat.Creator Property (PowerPoint)](http://msdn.microsoft.com/library/48762ba6-04fd-8d4b-fa5b-596ce4698d4d%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

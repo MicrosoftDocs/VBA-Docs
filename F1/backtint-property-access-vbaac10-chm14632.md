@@ -32,4 +32,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BackTint property (Access)](http://msdn.microsoft.com/library/3740b360-334c-db71-9fb6-1f7aab304811%28Office.15%29.aspx)
 - [ToggleButton.BackTint property (Access)](http://msdn.microsoft.com/library/21f063d1-28c4-d357-7d92-12c38a719295%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

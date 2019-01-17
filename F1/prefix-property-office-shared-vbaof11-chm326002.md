@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [IAssistance.SearchHelp Method (Office)](http://msdn.microsoft.com/library/807128e9-5125-1650-d53f-cbd50d3e318a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

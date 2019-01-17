@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.HideChartDraftModeNotification Property (PowerPoint)](http://msdn.microsoft.com/library/374a6720-4a7b-f6f6-3620-5747c502087b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

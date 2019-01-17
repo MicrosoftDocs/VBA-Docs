@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.OnApplyFilter property (Access)](http://msdn.microsoft.com/library/5e147a50-5516-f6d3-c1c9-e2c4522cb804%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

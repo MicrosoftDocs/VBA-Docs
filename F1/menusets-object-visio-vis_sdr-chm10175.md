@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [MenuSets Object (Visio)](http://msdn.microsoft.com/library/6a49d679-abdb-2bd4-134b-c61ea3f196e8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

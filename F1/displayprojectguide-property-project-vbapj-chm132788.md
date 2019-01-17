@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TimeScaleValue.Value Property (Project)](http://msdn.microsoft.com/library/30665b24-bc19-a6a2-cb1b-a70c3736b05b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

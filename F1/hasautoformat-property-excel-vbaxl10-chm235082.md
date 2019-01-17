@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [PivotTable.HasAutoFormat property (Excel)638f892d-7dc9-314c-efaf-ee724b9f86f5](http://msdn.microsoft.com/library/638f892d-7dc9-314c-efaf-ee724b9f86f5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

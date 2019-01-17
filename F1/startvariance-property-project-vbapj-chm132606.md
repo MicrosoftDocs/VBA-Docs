@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.StartVariance Property (Project)](http://msdn.microsoft.com/library/8ec7f5c9-62c4-36fd-d245-4a2bf21fd7bd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

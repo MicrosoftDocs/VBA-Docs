@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.GroupCanceled Event (Visio)](http://msdn.microsoft.com/library/b7f6002c-8fe9-ed07-e9cb-519b7b2b8931%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

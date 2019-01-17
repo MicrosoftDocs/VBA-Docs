@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.FontSize Property (Project)](http://msdn.microsoft.com/library/37e7b35b-06cf-aaaf-9bc4-c82daa5771e1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

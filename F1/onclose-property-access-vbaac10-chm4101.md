@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.OnClose property (Access)](http://msdn.microsoft.com/library/af4a7532-f12a-5194-9636-a09f9221f465%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

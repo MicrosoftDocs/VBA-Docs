@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [WorkWeekDay.Working Property (Project)](http://msdn.microsoft.com/library/31844191-e5a8-1e69-0eae-bbb10f318cf7%28Office.15%29.aspx)
 [Day.Working Property (Project)](http://msdn.microsoft.com/library/49230d7c-11cb-96c7-7a2f-fe5c900fd9e3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

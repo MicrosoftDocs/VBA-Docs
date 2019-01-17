@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TableField Object (Project)](http://msdn.microsoft.com/library/7f749404-0723-7a17-b83f-f43725c45fc5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

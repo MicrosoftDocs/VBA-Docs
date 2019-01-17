@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [IVMouseEvent.Application Property (Visio)](http://msdn.microsoft.com/library/dc74f482-2807-3480-8bfc-e8b915f0dff8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

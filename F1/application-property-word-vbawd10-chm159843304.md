@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BuildingBlocks.Application property (Word)](http://msdn.microsoft.com/library/1a4a34bc-f322-2f2e-e1f4-edbb038bd455%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Legend.Top Property (PowerPoint)](http://msdn.microsoft.com/library/c5b00b1e-4e51-b172-0a0a-d6384114a9ec%28Office.15%29.aspx)
 [LegendKey.Top Property (PowerPoint)](http://msdn.microsoft.com/library/bcce6f18-39c3-9445-2a5a-dea0b242a816%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

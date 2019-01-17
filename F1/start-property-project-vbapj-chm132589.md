@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Start Property (Project)](http://msdn.microsoft.com/library/7104e084-9af7-d3da-3ae4-efade4964647%28Office.15%29.aspx)
 [Shift.Start Property (Project)](http://msdn.microsoft.com/library/0e5232a0-a056-8933-a9cc-87c516784302%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

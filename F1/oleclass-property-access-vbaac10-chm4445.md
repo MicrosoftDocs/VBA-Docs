@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CustomControl.OLEClass property (Access)](http://msdn.microsoft.com/library/d9aad7b9-6388-3365-881a-6e42ebebcfd6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

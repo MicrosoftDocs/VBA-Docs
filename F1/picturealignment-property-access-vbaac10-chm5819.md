@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Report.PictureAlignment property (Access)](http://msdn.microsoft.com/library/d038e65b-c258-b6b7-ce53-87b9a60e74e3%28Office.15%29.aspx)
 [Attachment.PictureAlignment property (Access)](http://msdn.microsoft.com/library/505daae0-8321-cce0-028a-ff6c2ac16245%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

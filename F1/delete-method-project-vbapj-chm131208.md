@@ -26,4 +26,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TimeScaleValue.Delete Method (Project)](http://msdn.microsoft.com/library/ebe03270-1713-77f9-1ac9-97922b2aa612%28Office.15%29.aspx)
 - [WorkWeek.Delete Method (Project)](http://msdn.microsoft.com/library/c795138f-b1c8-8d2e-a9af-4bf26fbf7c46%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

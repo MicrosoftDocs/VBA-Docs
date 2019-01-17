@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.MouseMove event (Access)](http://msdn.microsoft.com/library/75d16851-f5e6-a82d-a92b-13263618b9f7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Rollup Property (Project)](http://msdn.microsoft.com/library/8f29afc1-85ec-d835-bc08-7311e9063ae4%28Office.15%29.aspx)
 [Resource.RemainingCost Property (Project)](http://msdn.microsoft.com/library/60e68cce-9335-6800-6075-9d3e6945a6b0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

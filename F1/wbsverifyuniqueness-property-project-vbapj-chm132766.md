@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.TwelveHourTimeFormat Property (Project)](http://msdn.microsoft.com/library/899caa96-da4e-8ee6-988a-6cef64a1a46c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

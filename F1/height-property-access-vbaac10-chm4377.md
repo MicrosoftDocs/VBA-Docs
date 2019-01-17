@@ -41,4 +41,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.Height property (Access)](http://msdn.microsoft.com/library/8544f955-3891-3799-5207-de7fa2a5a224%28Office.15%29.aspx)
 - [WebBrowserControl.Height property (Access)](http://msdn.microsoft.com/library/8f4223ac-fefa-3ac6-a84e-9cd776bc56d6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

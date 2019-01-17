@@ -38,4 +38,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.HelpContextId property (Access)](http://msdn.microsoft.com/library/9f788b15-67d8-84ca-8c6f-6ef1e67f8895%28Office.15%29.aspx)
 - [WebBrowserControl.HelpContextId property (Access)](http://msdn.microsoft.com/library/f0678d0c-eb24-2398-208f-971772ea2c21%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

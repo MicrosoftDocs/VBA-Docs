@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.Container Property (Project)](http://msdn.microsoft.com/library/34969587-b74d-3425-0f4f-af7d90221b10%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

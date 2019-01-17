@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ShowLegendFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/03860057-293c-7f1b-aecd-71428329c91c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

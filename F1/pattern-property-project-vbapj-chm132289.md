@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.Pattern Property (Project)](http://msdn.microsoft.com/library/51553308-48a9-16cf-7bb9-0f142fd535f4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

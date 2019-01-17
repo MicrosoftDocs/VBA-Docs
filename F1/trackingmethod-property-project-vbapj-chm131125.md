@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ShowTaskWarnings Property (Project)](http://msdn.microsoft.com/library/36b74b7e-4d81-e01f-d011-9325bef6bc43%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

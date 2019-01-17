@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Calendar.ResourceGuid Property (Project)](http://msdn.microsoft.com/library/c66c3e90-06e0-5b48-3e44-48e366377258%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

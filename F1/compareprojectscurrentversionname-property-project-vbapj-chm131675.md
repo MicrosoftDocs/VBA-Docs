@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.Cost3 Property (Project)](http://msdn.microsoft.com/library/6cad527f-a30b-f968-79e4-516d4e7146ac%28Office.15%29.aspx)
 - [Assignment.Cost3 Property (Project)](http://msdn.microsoft.com/library/6da4eddf-fc32-5b03-79a9-951fa0aab941%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

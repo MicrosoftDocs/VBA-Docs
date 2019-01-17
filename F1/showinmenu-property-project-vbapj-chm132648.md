@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.StartOnCurrentDate Property (Project)](http://msdn.microsoft.com/library/9d2970f4-7767-cf70-66cb-a9179d120187%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

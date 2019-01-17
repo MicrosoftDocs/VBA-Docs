@@ -74,3 +74,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WorkWeeks.Count Property (Project)](http://msdn.microsoft.com/library/d8360e75-7dbe-955b-dd95-20fb3bf465e3%28Office.15%29.aspx)
 - [Year.Count Property (Project)](http://msdn.microsoft.com/library/ab8fbfb5-7d2c-3e41-0dbf-2cd681452b1a%28Office.15%29.aspx)
 - [Years.Count Property (Project)](http://msdn.microsoft.com/library/6a65ff7b-55ca-31e0-0edd-c2f75cb9fc74%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

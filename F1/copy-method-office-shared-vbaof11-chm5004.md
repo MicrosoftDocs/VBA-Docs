@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarPopup.Copy Method (Office)](http://msdn.microsoft.com/library/d50fff50-00fd-e70f-d777-9bf1850cae37%28Office.15%29.aspx)
 - [CommandBarButton.Copy Method (Office)](http://msdn.microsoft.com/library/a78a7922-aa51-7b9f-d7de-a227a6869140%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Text7 Property (Project)](http://msdn.microsoft.com/library/691aa69d-e30d-e1ce-10b9-7feac42cf642%28Office.15%29.aspx)
 [Assignment.Text7 Property (Project)](http://msdn.microsoft.com/library/ad7878f8-8d09-8c4b-d620-ab47c5a40ad0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

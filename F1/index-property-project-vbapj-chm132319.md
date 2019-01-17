@@ -40,3 +40,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion2.Index Property (Project)](http://msdn.microsoft.com/library/61f13c7e-4833-45d1-362a-91ea99b63505%28Office.15%29.aspx)
 [GroupCriterion.Index Property (Project)](http://msdn.microsoft.com/library/6ceb92d1-ff15-b6f9-2d4c-d48f8eac608d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

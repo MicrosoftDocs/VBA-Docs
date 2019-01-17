@@ -41,4 +41,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.Width property (Access)](http://msdn.microsoft.com/library/77c69a42-4203-77ee-9d2e-b100cad9b75b%28Office.15%29.aspx)
 - [WebBrowserControl.Width property (Access)](http://msdn.microsoft.com/library/0a55e8d9-c53e-0afe-b41e-31c1e3f8b10e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

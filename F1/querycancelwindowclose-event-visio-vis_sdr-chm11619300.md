@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.QueryCancelWindowClose Event (Visio)](http://msdn.microsoft.com/library/31f05b80-d536-3188-92d0-f2750b79771d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
