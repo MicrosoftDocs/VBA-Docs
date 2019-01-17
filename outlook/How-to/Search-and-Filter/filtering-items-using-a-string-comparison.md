@@ -303,5 +303,5 @@ criteria = "@SQL=" & Chr(34) _
 - Unquestionable    
 - RE: Question   
 - The big question
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

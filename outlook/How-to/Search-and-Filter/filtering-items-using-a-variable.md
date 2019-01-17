@@ -23,4 +23,4 @@ criteria = "[FullName] = "%22" & fullname & "%22""
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

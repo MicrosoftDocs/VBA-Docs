@@ -31,5 +31,5 @@ localization_priority: Normal
 -  [Filtering Items Using Comparison and Logical Operators](filtering-items-using-comparison-and-logical-operators.md)
     
 -  [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
