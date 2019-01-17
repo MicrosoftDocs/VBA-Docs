@@ -23,3 +23,4 @@ The following topics provide specific information about setting startup properti
 - [Set startup properties from Visual Basic](set-startup-properties-and-options-in-code.md)
 - [Set options from Visual Basic](set-options-from-visual-basic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
