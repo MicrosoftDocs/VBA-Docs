@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [ViewCtl.SelectionChange Event (Outlook View Control)](../../../api/Outlook.viewctl.selectionchan.md)
     
 -  [ViewCtl.ViewSwitch Event (Outlook View Control)](../../../api/Outlook.viewctl.viewswit.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,5 +31,5 @@ localization_priority: Normal
 -  [Publish a Form](../Customizing-Forms/publish-a-form.md)
     
 -  [Test a Form in Run Time](../Customizing-Forms/test-a-form-in-run-time.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

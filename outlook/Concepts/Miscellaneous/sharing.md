@@ -23,5 +23,5 @@ localization_priority: Normal
 -  [Send a Sharing Invitation for a Calendar](../../How-to/Sharing/send-a-sharing-invitation-for-a-calendar.md)
     
 -  [Send a Sharing Invitation for an RSS Feed](../../How-to/Sharing/send-a-sharing-invitation-for-an-rss-feed.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

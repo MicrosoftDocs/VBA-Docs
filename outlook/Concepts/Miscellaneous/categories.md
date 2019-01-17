@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [Categorize Your Outlook Items](../Categories-and-Conversations/categorize-your-outlook-items.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

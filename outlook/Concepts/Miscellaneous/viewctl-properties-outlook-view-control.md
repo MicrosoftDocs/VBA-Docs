@@ -39,5 +39,5 @@ localization_priority: Normal
 -  [ViewCtl.View Property (Outlook View Control)](../../../api/Outlook.viewctl.vi.md)
     
 -  [ViewCtl.ViewXML Property (Outlook View Control)](../../../api/Outlook.viewctl.viewx.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

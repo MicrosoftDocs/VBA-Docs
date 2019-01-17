@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Specifying Form Regions in the Windows Registry](../Creating-Form-Regions/specifying-form-regions-in-the-windows-registry.md)
     
 -  [Designing Form Regions with the Form Region XML Schema](../Creating-Form-Regions/designing-form-regions-with-the-form-region-xml-schema.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
