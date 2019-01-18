@@ -12,17 +12,17 @@ localization_priority: Priority
 This topic includes Visual Basic examples related to the following tasks:
 
 
--  [Creating a table, inserting text, and applying formatting](#Creating)
+-  [Creating a table, inserting text, and applying formatting](#creating-a-table-inserting-text-and-applying-formatting)
     
--  [Inserting text into a table cell](#Inserting)
+-  [Inserting text into a table cell](#inserting-text-into-a-table-cell)
     
--  [Returning text from a table cell without returning the end of cell marker](#Returning1)
+-  [Returning text from a table cell without returning the end of cell marker](#returning-text-from-a-table-cell-without-returning-the-end-of-cell-marker)
     
--  [Converting text to a table](#Converting)
+-  [Converting existing text to a table](#converting-existing-text-to-a-table)
     
--  [Returning the contents of each table cell](#Returning2)
+-  [Returning the contents of each table cell](#returning-the-contents-of-each-table-cell)
     
--  [Copying all tables in the active document into a new document](#Copying)
+-  [Copying all tables in the active document into a new document](#copying-all-tables-in-the-active-document-into-a-new-document)
     
 
 ## Creating a table, inserting text, and applying formatting

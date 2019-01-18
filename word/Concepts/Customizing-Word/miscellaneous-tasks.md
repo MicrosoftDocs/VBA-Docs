@@ -12,17 +12,17 @@ localization_priority: Normal
 This topic includes Visual Basic examples for the following tasks:
 
 
--  [Changing the view](#Changingview)
+-  [Changing the view](#changing-the-view)
     
--  [Setting text in a header or footer](#Settingtext)
+-  [Setting text in a header or footer](#setting-text-in-a-header-or-footer)
     
--  [Setting options](#Settingoptions)
+-  [Setting options](#setting-options)
     
--  [Changing the document layout](#Changinglayout)
+-  [Changing the document layout](#changing-the-document-layout)
     
--  [Looping through paragraphs in a document](#looping)
+-  [Looping through paragraphs in a document](#looping-through-paragraphs-in-a-document)
     
--  [Customizing menus and toolbars](#Customizing)
+-  [Customizing menus and toolbars](#customizing-menus-and-toolbars)
     
 
 ## Changing the view

@@ -15,11 +15,11 @@ localization_priority: Priority
 To create an event handler for an event of the  **[Application](../../../api/Word.Application.md)** object, you need to complete the following three steps:
 
 
-1.  [Declare an object variable in a class module to respond to the events.](#Declare)
+1.  [Declare an object variable in a class module to respond to the events.](#declare-the-object-variable)
     
-2.  [Write the specific event procedures.](#Write)
+2.  [Write the specific event procedures.](#write-the-event-procedures)
     
-3.  [Initialize the declared object from another module.](#Initialize)
+3.  [Initialize the declared object from another module.](#initialize-the-declared-object)
     
 
 ## Declare the Object Variable

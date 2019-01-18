@@ -11,19 +11,21 @@ localization_priority: Priority
 In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the following tasks:
 
 
--  [Creating a new document](#Creating)
+-  [Creating a new document](#creating-a-new-document)
     
--  [Opening a document](#Opening)
+-  [Opening a document](#opening-a-document)
     
--  [Saving an existing document](#Saving1)
+-  [Saving an existing document](#saving-an-existing-document)
     
--  [Saving a new document](#Saving2)
+-  [Saving a new document](#saving-a-new-document)
     
--  [Activating a document](#Activating)
+-  [Closing documents](#closing-documents)
+
+-  [Activating a document](#activating-a-document)
     
--  [Determining if a document is open](#Determining)
+-  [Determining if a document is open](#determining-if-a-document-is-open)
     
--  [Referring to the active document](#Referring)
+-  [Referring to the active document](#referring-to-the-active-document)
     
 
 ## Creating a new document

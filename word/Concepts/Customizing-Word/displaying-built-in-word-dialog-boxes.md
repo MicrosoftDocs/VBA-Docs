@@ -15,11 +15,11 @@ localization_priority: Priority
 This topic contains the following information and examples:
 
 
--  [Showing a built-in dialog box](#item1)
+-  [Showing a built-in dialog box](#showing-a-built-in-dialog-box)
     
--  [Returning and changing dialog box settings](#item2)
+-  [Returning and changing dialog box settings](#returning-and-changing-dialog-box-settings)
     
--  [Checking how a dialog box was closed](#item4)
+-  [Checking how a dialog box was closed](#checking-how-a-dialog-box-was-closed)
     
 
 ## Showing a built-in dialog box

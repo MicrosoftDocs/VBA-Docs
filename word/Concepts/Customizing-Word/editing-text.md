@@ -12,15 +12,15 @@ localization_priority: Normal
 This topic includes Visual Basic examples related to the following tasks:
 
 
--  [Determining whether text is selected](#Determining)
+-  [Determining whether text is selected](#determining-whether-text-is-selected)
     
--  [Collapsing a selection or range](#Collapsing)
+-  [Collapsing a selection or range](#collapsing-a-selection-or-range)
     
--  [Extending a selection or range](#Extending)
+-  [Extending a selection or range](#extending-a-selection-or-range)
     
--  [Redefining a selection or range](#Redefining)
+-  [Redefining a selection or range](#redefining-a-selection-or-range)
     
--  [Changing text](#Changing)
+-  [Changing text](#changing-text)
     
 
 For information about, and examples of, other editing tasks, see the following topics:

@@ -15,17 +15,17 @@ localization_priority: Priority
 This topic includes Visual Basic examples related to the following tasks:
 
 
--  [Applying formatting to the selection](#Selection)
+-  [Applying formatting to the selection](#applying-formatting-to-the-selection)
     
--  [Applying formatting to a range](#Range)
+-  [Applying formatting to a range](#applying-formatting-to-a-range)
     
--  [Inserting text and applying character and paragraph formatting](#Inserting)
+-  [Inserting text and applying character and paragraph formatting](#inserting-text-and-applying-character-and-paragraph-formatting)
     
--  [Switching the space before a paragraph between 12 points and none](#TogglingSpace)
+-  [Switching the space before a paragraph between 12 points and none](#switching-the-space-before-a-paragraph-between-12-points-and-none)
     
--  [Switching bold formatting on and off](#TogglingBold)
+-  [Switching bold formatting on and off](#switching-bold-formatting-on-and-off)
     
--  [Increasing the left margin by 0.5 inch](#Increasing)
+-  [Increasing the left margin by 0.5 inch](#increasing-the-left-margin-by-05-inch)
     
 
 ## Applying formatting to the selection

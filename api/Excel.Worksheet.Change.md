@@ -55,7 +55,7 @@ End Sub
 
 
 
- **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/) |[About the Contributors](Excel.Worksheet.Change.md#AboutContributor)
+ **Sample code provided by:** Bill Jelen, [MrExcel.com](https://www.mrexcel.com/) |[About the Contributors](#about-the-contributors)
 
 The following code example verifies that, when a cell value changes, the changed cell is in column A, and if the changed value of the cell is greater than 100. If the value is greater than 100, the adjacent cell in column B is changed to the color red.
 
@@ -77,7 +77,7 @@ End Sub
 
 
 
- **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/) |[About the Contributors](Excel.Worksheet.Change.md#AboutContributor)
+ **Sample code provided by:** Tom Urtis, [Atlas Programming Management](https://www.atlaspm.com/) |[About the Contributors](#about-the-contributors)
 
 The following code example sets the values in the range A1:A10 to be uppercase as the data is entered into the cell.
 
