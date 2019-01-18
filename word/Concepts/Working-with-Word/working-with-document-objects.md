@@ -8,23 +8,7 @@ localization_priority: Priority
 
 # Working with Document Objects
 
-In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the following tasks:
-
-
--  [Creating a new document](#Creating)
-    
--  [Opening a document](#Opening)
-    
--  [Saving an existing document](#Saving1)
-    
--  [Saving a new document](#Saving2)
-    
--  [Activating a document](#Activating)
-    
--  [Determining if a document is open](#Determining)
-    
--  [Referring to the active document](#Referring)
-    
+In Visual Basic, the methods for modifying files are methods of the **[Document](../../../api/Word.Document.md)** object or the **[Documents](../../../api/Word.documents.md)** collection. This topic includes Visual Basic examples related to the tasks identified in the following sections.
 
 ## Creating a new document
 

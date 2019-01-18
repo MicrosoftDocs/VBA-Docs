@@ -9,21 +9,7 @@ localization_priority: Priority
 
 # Working with Tables
 
-This topic includes Visual Basic examples related to the following tasks:
-
-
--  [Creating a table, inserting text, and applying formatting](#Creating)
-    
--  [Inserting text into a table cell](#Inserting)
-    
--  [Returning text from a table cell without returning the end of cell marker](#Returning1)
-    
--  [Converting text to a table](#Converting)
-    
--  [Returning the contents of each table cell](#Returning2)
-    
--  [Copying all tables in the active document into a new document](#Copying)
-    
+This topic includes Visual Basic examples related to the tasks identified in the following sections.
 
 ## Creating a table, inserting text, and applying formatting
 
@@ -179,5 +165,7 @@ Sub CopyTablesToNewDoc()
  End If 
 End Sub
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
