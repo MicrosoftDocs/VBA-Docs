@@ -34,3 +34,4 @@ Nothing
 
 [TableStyle Object](Excel.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

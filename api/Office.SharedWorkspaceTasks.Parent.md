@@ -41,3 +41,4 @@ Object
 
 [SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

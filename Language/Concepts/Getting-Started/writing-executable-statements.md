@@ -41,3 +41,5 @@ The **MsgBox** function (which displays a built-in Visual Basic dialog box) disp
 
 - [Statements](../../reference/statements.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

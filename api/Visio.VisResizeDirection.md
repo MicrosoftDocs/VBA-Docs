@@ -29,3 +29,4 @@ Specifies the resize directions that correspond to the shape handles to move; pa
 | **visResizeDirS**|6|Bottom center.|
 | **visResizeDirSE**|7|Bottom right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

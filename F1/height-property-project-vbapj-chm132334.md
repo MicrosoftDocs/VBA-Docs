@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.LastSaveDate Property (Project)](http://msdn.microsoft.com/library/0f9e43d6-18dd-06fe-3a82-e3c49610e1f2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

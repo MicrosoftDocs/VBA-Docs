@@ -21,3 +21,4 @@ Constants that specify the window state, passed to and returned by the  **Window
 |**ppWindowMinimized**|2|Minimized|
 |**ppWindowNormal**|1|Normal|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

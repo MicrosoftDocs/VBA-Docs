@@ -53,3 +53,4 @@ Use these key combinations in the UserForm window. To deselect all controls, cli
 - [UserForm toolbar](userform-command-bar.md)
 - [Window elements](../window-elements.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

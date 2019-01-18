@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Axis.Superscript Property (PowerPoint)](http://msdn.microsoft.com/library/3ac4f922-8a45-5b1d-7927-c53b66ede45e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

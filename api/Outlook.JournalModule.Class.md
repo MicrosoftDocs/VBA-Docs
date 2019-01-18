@@ -34,3 +34,4 @@ This property returns  **olJournalModule** for the **[JournalModule](Outlook.Jou
 
 [JournalModule Object](Outlook.JournalModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

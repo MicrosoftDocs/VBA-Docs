@@ -54,3 +54,5 @@ The command returns whether the user granted permission or not.
     'Returns true if access is granted; otherwise, false. 
     End Sub
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,4 @@ Use the  **ActiveSelection** property to return a **Selection** object. The foll
 |[Resources](./Project.Selection.Resources.md)|
 |[Tasks](./Project.Selection.Tasks.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

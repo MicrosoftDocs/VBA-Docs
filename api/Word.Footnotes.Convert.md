@@ -39,3 +39,4 @@ If Selection.Footnotes.Count > 0 Then Selection.Footnotes.Convert
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

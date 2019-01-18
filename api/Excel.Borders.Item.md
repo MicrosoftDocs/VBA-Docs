@@ -64,3 +64,4 @@ Worksheets("Sheet1").Range("a1:g1"). _
 
 [Borders Collection](Excel.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

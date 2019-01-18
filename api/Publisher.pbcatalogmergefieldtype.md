@@ -21,3 +21,4 @@ Represents the type of catalog merge field.
 | **pbCatalogMergeFieldTypeText**|0|Text field.|
 | **pbCatalogMergeFieldTypePicture**|1|Picture field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

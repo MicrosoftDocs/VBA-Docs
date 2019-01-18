@@ -174,5 +174,5 @@ Until you become familiar with the Word object model, there are tools that you c
 - **Help**. You can also use Help to find out which properties and methods can be used with an object. Each object topic in Help includes a See Also jump that displays a list of properties and methods for the object. Press **F1** while in the Object Browser or in a module to jump to the appropriate Help topic.
     
 - **Object Browser**. The Object Browser in the Visual Basic Editor displays the members (properties and methods) of the Word objects.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Specifies the behavior Word should take when updating a style to match a selecti
 | **wdListBehaviorAddBulletsNumbering**|1|Adds the numbering or bullets pattern of the selection to all paragraphs in the document that use the same style.|
 | **wdListBehaviorKeepPreviousPattern**|0|Keeps the existing numbering or bullets pattern for all other paragraphs that use the same style and does not apply the numbering or bullets pattern of the selection. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

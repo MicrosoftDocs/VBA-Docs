@@ -39,3 +39,4 @@ The  **SlicerPivotTables** collection returned by the **PivotTables** property w
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

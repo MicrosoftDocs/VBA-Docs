@@ -32,3 +32,4 @@ Returns a  [ShadowFormat](Publisher.ShadowFormat.md) object that specifies the s
 
  [Font Object](Publisher.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

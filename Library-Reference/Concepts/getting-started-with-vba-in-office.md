@@ -412,6 +412,4 @@ End Sub
 
 Be aware that this code copies the currently open contact in Outlook into the open Word document. This code only works if there is a contact currently open for inspection in Outlook.
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

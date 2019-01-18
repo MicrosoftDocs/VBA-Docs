@@ -38,4 +38,4 @@ Checks in the working copy of the project from a local computer to the SharePoin
 
  The **CheckIn** method also closes the project after it is checked in.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

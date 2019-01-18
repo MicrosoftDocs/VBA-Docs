@@ -39,3 +39,5 @@ Makes a copy of a group definition for the  **Views** collection and returns a r
 
 
 [Views Collection Object](Project.views(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -72,4 +72,4 @@ Set shpTable = ActiveDocument.Pages(1).Shapes.AddTable _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

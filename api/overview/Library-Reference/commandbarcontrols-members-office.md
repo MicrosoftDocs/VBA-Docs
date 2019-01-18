@@ -29,3 +29,4 @@ A collection of **CommandBarControl** objects that represent the command bar con
 |[Item](../../Office.CommandBarControls.Item.md)|Gets a **CommandBarControl** object from the **CommandBarControls** collection. Read-only.|
 |[Parent](../../Office.CommandBarControls.Parent.md)|Gets the **Parent** object for the **CommandBarControls** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

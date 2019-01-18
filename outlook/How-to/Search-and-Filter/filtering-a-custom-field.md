@@ -54,4 +54,4 @@ criteria = "@SQL=" & Chr$(34) & "http://schemas.microsoft.com/mapi/string/" _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

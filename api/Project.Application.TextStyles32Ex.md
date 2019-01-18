@@ -114,4 +114,4 @@ Using the **TextStyles32Ex** method without specifying any arguments displays th
 > [!NOTE]
 > If you use any of the **PjColor** enumeration constants for the _Color_ or _CellColor_ parameters, the color will be nearly black. For example, the value of pjGreen is 9, which in the **TextStyles32Ex** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the **[TextStylesEx](Project.Application.TextStylesEx.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

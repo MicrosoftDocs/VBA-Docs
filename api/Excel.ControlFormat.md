@@ -35,4 +35,4 @@ Worksheets(1).Shapes(1).ControlFormat.ListFillRange = "A1:A10"
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

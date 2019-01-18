@@ -42,3 +42,4 @@ An  **Attachment** object that represents the specified object.
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

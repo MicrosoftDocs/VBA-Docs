@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.LabelX property (Access)](http://msdn.microsoft.com/library/04582d98-dbc6-4aed-e42b-f8d6638ba4ae%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ The returned string is in the form "{XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXX}", where e
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

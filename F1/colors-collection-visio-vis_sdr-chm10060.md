@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Colors Object (Visio)](http://msdn.microsoft.com/library/54ac5c47-5e6a-b1bf-6a5d-c5439a00438f.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

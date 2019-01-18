@@ -91,3 +91,4 @@ strFolderSuffix = Workbooks(1).WebOptions.FolderSuffix
 
 [WebOptions Object](Excel.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

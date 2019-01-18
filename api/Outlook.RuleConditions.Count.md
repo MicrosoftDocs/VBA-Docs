@@ -34,3 +34,4 @@ You can enumerate the  **[RuleConditions](Outlook.RuleConditions.md)** collectio
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

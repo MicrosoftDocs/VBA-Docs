@@ -51,4 +51,4 @@ The following code gets the ID of the shape at point (200, 200) in the drawing t
 Debug.Print vsoViewer.ShapeAtPoint (200, 200)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

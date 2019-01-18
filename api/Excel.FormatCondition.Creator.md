@@ -34,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

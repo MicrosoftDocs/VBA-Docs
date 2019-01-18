@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Calendar.BaseCalendar Property (Project)](http://msdn.microsoft.com/library/3ea2b0e2-8d73-b564-fdd1-a098a8428562%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

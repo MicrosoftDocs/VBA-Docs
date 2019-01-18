@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **DisplayAlerts** property is reset to **True** upon completion of a macro that sets it to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

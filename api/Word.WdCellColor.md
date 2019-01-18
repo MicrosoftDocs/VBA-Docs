@@ -27,3 +27,4 @@ Specifies the color of highlighting for table cells that were added, deleted, or
 | **wdCellColorNoHighlight**|0|No highlighting.|
 | **wdCellColorPink**|1|Pink.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

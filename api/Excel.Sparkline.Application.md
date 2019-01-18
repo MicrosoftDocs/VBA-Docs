@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[Sparkline](Excel.Sparkline.md)' obje
 
 [Sparkline Object](Excel.Sparkline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

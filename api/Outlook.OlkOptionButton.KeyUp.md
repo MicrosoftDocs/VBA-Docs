@@ -43,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

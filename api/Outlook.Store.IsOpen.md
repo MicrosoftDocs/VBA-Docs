@@ -38,3 +38,4 @@ Because opening a store can impose a performance overhead, and  **[Store.GetRoot
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

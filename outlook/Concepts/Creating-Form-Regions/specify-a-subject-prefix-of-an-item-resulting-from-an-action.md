@@ -30,4 +30,4 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 </customActions>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

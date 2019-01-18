@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.SetFocus method (Access)](http://msdn.microsoft.com/library/ec0c4c1a-72cb-f766-c05b-fc1e99e5c8e9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ The default value for this property is  `IPM.Sharing`.
 
 [Item Types and Message Classes](../outlook/Concepts/Forms/item-types-and-message-classes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -13,3 +13,4 @@ localization_priority: Normal
     
      **Note**  When  **Snap to Grid** is selected, the sizing controls to the grid turns on.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,3 +60,4 @@ Using the **[Requery](../../../api/overview/Access.md)** method on a **Recordset
 
 A snapshot-type **Recordset** object is static and the value of its **RecordCount** property does not change when you add or delete records in the snapshot's underlying table.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

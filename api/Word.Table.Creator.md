@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

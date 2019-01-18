@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.BorderStyle property (Access)](http://msdn.microsoft.com/library/9135151b-2e00-ac34-9c82-a85c76b97eb5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

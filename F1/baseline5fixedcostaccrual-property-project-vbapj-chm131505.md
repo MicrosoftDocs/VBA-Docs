@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline6DeliverableStart Property (Project)](http://msdn.microsoft.com/library/7bca762c-ada9-42c7-9eb1-845cdb884604%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

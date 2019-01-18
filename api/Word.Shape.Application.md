@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

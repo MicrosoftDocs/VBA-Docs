@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Visual Basic can't read the [project](../../Glossary/vbe-glossary.md#project) file. This can occur if the file has been modified by an editor outside of Visual Basic. To fix the problem, undo any changes made to the file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

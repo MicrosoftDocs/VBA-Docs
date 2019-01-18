@@ -34,3 +34,4 @@ A  **[Row](Outlook.Row.md)** object that represents the next valid row in the **
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,4 @@ _expression_ A variable that represents a [ReportItem](./Outlook.ReportItem.md) 
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

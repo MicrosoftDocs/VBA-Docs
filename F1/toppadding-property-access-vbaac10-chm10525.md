@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.TopPadding property (Access)](http://msdn.microsoft.com/library/05088d34-eae7-bc0e-314b-cd8640c9ed0b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

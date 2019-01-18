@@ -27,4 +27,4 @@ The following example disables the inspector from displaying a form region when 
 
  **Note**  You can assign  **showInspectorCompose** either a string value or an integer value. The default value is **true** or **1**. To prevent the inspector from displaying the form region in compose mode, assign either  **false** or **0**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

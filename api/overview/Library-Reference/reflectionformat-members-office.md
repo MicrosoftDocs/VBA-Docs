@@ -24,3 +24,4 @@ Represents the reflection effect in Office graphics.
 |[Transparency](../../Office.ReflectionFormat.Transparency.md)|Gets or sets the amount of transparency, measured in percentages, of the shape's reflection image. Read/write|
 |[Type](../../Office.ReflectionFormat.Type.md)|Gets or sets the type of the **ReflectionFormat** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

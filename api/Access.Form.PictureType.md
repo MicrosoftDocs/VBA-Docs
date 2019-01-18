@@ -65,3 +65,4 @@ Forms("Order Entry").Controls("Customer Photo").PictureType = 1
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

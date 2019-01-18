@@ -16,3 +16,4 @@ Your ActiveX [designer](../../Glossary/vbe-glossary.md#designer) was unable to w
 
 To improve performance the next time you start Visual Basic, an ActiveX designer writes a cache file. The designer couldn't write to the cache file due to low disk space or invalid permissions on the drive. Make sure you have enough disk space available and that you have write permissions to the drive. If the problem persists, contact the ActiveX designer's vendor.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Corresponds to a type of folder tree that can be searched.
 |[ScopeFolder](../../Office.SearchScope.ScopeFolder.md)|Gets a **ScopeFolder** object. Read-only.|
 |[Type](../../Office.SearchScope.Type.md)|Gets a value that corresponds to the type of **SearchScope** object. The type indicates the area in which to search for files. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,4 @@ Gets or sets the name of the font for a field used as a criterion in a group def
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

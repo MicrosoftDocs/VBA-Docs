@@ -30,3 +30,4 @@ Indicates the type of recolor to use when changing a color scheme.
 |**msoRecolorTypeMixed**|-2|Specifies a mixture of recolor types.|
 |**msoRecolorTypeNone**|0|Specifies no recolor type.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

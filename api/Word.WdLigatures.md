@@ -41,4 +41,4 @@ A glyph is a visual representation of a character. Ligatures are two or more gly
 
  **Note**  The order of preference when a combination of ligature types are applied differs by font and is not controlled by the Word application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

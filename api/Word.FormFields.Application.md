@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [FormFields Collection Object](Word.formfields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

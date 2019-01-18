@@ -29,3 +29,4 @@ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 A chart value may be less than the **SecondaryValuesAxisMinimum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the minimum.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

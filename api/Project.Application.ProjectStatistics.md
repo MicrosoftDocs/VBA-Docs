@@ -41,4 +41,4 @@ Displays the  **Project Statistics** dialog box.
 
 The  **ProjectStatistics** method has the same effect as clicking **Project Information** on the **Project** tab of the Ribbon, and then clicking **Statistics**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

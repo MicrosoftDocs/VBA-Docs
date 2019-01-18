@@ -22,3 +22,4 @@ Specifies the type of print error displayed.
 | **xlPrintErrorsDisplayed**|0|All print errors are displayed.|
 | **xlPrintErrorsNA**|3|Print errors are displayed as not available.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

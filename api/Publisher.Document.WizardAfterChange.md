@@ -45,4 +45,4 @@ Private Sub Document_WizardAfterChange()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

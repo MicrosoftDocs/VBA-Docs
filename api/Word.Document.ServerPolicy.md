@@ -29,3 +29,4 @@ Returns a  **ServerPolicy** object that represents a policy specified for a docu
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

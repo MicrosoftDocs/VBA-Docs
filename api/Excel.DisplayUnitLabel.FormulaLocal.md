@@ -39,3 +39,4 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,3 +28,4 @@ Specifies the type of calculation in the Totals row of a list column.
 | **xlTotalsCalculationSum**|1|Sum of all values in the list column|
 | **xlTotalsCalculationVar**|8|Variable|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ThemeVariant.Application Property (PowerPoint)](http://msdn.microsoft.com/library/b9725f46-f03e-5df2-0ab3-cd8dd89aa468%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

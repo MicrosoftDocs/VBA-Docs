@@ -53,3 +53,4 @@ ActiveChart.SeriesCollection(1).InvertColorIndex = 7
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

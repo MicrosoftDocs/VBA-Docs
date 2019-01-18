@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Baseline7BudgetWork Property (Project)](http://msdn.microsoft.com/library/0e21c0e9-8dca-91b4-6a63-d373eea6c7e9%28Office.15%29.aspx)
 - [Task.Baseline7BudgetWork Property (Project)](http://msdn.microsoft.com/library/5525ca63-8bcc-abac-4784-eb4db3676e46%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ The property name is passed to the event so that you can determine which propert
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

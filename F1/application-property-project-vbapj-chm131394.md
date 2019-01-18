@@ -111,4 +111,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Year.Application Property (Project)](http://msdn.microsoft.com/library/336d06a8-2ed8-2500-056e-4c2caba00902%28Office.15%29.aspx)
 - [Years.Application Property (Project)](http://msdn.microsoft.com/library/d4f03d94-d454-d649-df36-e42fc03f0973%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

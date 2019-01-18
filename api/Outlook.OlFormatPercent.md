@@ -25,3 +25,4 @@ Indicates the format used to display percent Outlook item properties.
 | **olFormatPercentAllDigits**|4|Displays formatted number values, including any decimal places specified in the value, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010.155%"|
 | **olFormatPercentRounded**|1|Displays formatted number values as integers, rounding all decimal values, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.155 is displayed as "4,010%". |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

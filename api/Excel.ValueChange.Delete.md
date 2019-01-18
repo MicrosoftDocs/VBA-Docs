@@ -34,3 +34,4 @@ You can also delete a  **ValueChange** object by using the Delete method of the 
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

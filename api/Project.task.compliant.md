@@ -24,3 +24,4 @@ localization_priority: Normal
 
 [Task Object (Project)](Project.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

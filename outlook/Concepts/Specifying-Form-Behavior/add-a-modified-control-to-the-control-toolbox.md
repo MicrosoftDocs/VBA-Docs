@@ -22,4 +22,4 @@ localization_priority: Normal
 
  **Note**  When you drag a control onto the  **Control Toolbox**, you only transfer the advanced property values. Any lines of code or Outlook property values that you have written for that control do not transfer with the control. You must write new code or copy code from the control on the form to the control on the  **Control Toolbox**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

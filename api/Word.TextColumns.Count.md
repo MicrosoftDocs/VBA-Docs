@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of text columns in the collection
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

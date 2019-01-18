@@ -34,3 +34,4 @@ This property is parsed from the  **[FirstName](Outlook.ContactItem.FirstName.md
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

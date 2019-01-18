@@ -28,4 +28,4 @@ Returns a  **Long** that represent the height (in cells) of a table, range of ce
 
 The valid range for the  **Height** property depends on the size of the application workspace and the position of the object within the workspace. For centered objects on non-banner page sizes, the **Height** property may be 0.0 to 50.0 cells. For centered objects on banner page sizes, the **Height** property may be 0.0 to 241.0 cells.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

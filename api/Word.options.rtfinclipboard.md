@@ -25,3 +25,4 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

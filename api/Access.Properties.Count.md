@@ -30,4 +30,4 @@ Because members of a collection begin with 0, you should always code loops start
 
 The  **Count** property setting is never Null. If its value is 0, there are no objects in the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

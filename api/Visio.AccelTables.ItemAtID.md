@@ -36,4 +36,4 @@ Returns the  **AccelTable** object for an ID within a collection. Read-only.
 
 AccelTable
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

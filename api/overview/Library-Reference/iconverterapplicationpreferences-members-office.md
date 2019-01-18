@@ -21,3 +21,4 @@ This feature is only available in the Open XML Format SDK.
 |[HrGetHwnd](../../Office.IConverterApplicationPreferences.HrGetHwnd.md)|This feature is only available in the Open XML Format SDK.|
 |[HrGetLcid](../../Office.IConverterApplicationPreferences.HrGetLcid.md)|This feature is only available in the Open XML Format SDK.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

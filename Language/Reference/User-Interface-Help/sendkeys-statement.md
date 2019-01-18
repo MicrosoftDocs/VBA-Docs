@@ -117,3 +117,5 @@ SendKeys "%{F4}", True    ' Send ALT+F4 to close Calculator.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

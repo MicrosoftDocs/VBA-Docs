@@ -30,4 +30,4 @@ This example turns on curve smoothing for series one. The example should be run 
 myChart.SeriesCollection(1).Smooth = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

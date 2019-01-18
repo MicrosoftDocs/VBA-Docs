@@ -50,3 +50,4 @@ Use Clean on text imported from other applications that contains characters that
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

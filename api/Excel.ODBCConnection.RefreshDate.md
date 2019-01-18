@@ -34,3 +34,4 @@ For OLAP data sources, this property is updated after each query.
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

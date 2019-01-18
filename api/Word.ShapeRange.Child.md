@@ -29,3 +29,4 @@ localization_priority: Normal
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

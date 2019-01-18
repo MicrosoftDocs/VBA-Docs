@@ -42,3 +42,4 @@ Comment
 
 [Comments Collection Object](Word.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

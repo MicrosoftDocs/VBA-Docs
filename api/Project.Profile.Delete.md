@@ -25,4 +25,4 @@ Deletes an account profile from the  **[Profiles](Project.profiles.md)** collect
 
 The  **Project Server Accounts** dialog box shows the number and order of profiles. Use `Profiles.Count` to programmatically determine the number of account profiles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

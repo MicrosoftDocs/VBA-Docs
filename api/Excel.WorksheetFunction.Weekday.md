@@ -66,3 +66,4 @@ Microsoft Excel stores dates as sequential serial numbers so they can be used in
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

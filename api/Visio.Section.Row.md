@@ -41,4 +41,4 @@ Row
 
  **Row** is the default property of the **Section** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

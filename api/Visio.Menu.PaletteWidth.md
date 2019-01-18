@@ -36,4 +36,4 @@ Integer
 
 A palette, like a toolbar, is organized horizontally, and items wrap to a new row if there is not enough horizontal space available. By default, only the icons of the items are shown.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

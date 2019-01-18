@@ -23,6 +23,6 @@ localization_priority: Priority
 
 
 - Click  **Close** (
-![Close](../../../images/o12_1088_ZA10030980.gif)) in the upper right corner. 
-    
+![Close](../../../images/o12_1088_ZA10030980.gif)) in the upper right corner.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

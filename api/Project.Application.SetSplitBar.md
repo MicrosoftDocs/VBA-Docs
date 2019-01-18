@@ -53,4 +53,4 @@ If the standard Gantt Chart is the active view, the following statement sets the
 Application.SetSplitBar ShowColumns:=4
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

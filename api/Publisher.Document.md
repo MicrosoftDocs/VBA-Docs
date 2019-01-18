@@ -147,3 +147,4 @@ End Sub
 |[WebNavigationBarSets](./Publisher.Document.WebNavigationBarSets.md)|
 |[Wizard](./Publisher.Document.Wizard.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

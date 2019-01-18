@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DisplayStatusBar Property (Project)](http://msdn.microsoft.com/library/9764173e-6ea3-29d1-5b79-fb763986584b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

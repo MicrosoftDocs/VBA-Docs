@@ -29,3 +29,4 @@ Returns a  **[PictureFormat](Word.PictureFormat.md)** object for a specified cha
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

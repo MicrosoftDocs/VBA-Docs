@@ -36,3 +36,4 @@ Quick style color constants passed to the [Selection.SetQuickStyle](Visio.select
 | **visQuickStyleColorVariant6**| **105**|Color variant 6|
 | **visQuickStyleColorVariant7**| **106**|Color variant 7|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

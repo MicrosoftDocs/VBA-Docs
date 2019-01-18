@@ -46,3 +46,4 @@ The  **RightGridlineStyle** property uses the following settings.
 
 [CheckBox Object](Access.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

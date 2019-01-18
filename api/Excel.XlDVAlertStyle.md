@@ -21,3 +21,4 @@ Specifies the icon used in message boxes displayed during validation.
 | **xlValidAlertStop**|1|Stop icon.|
 | **xlValidAlertWarning**|2|Warning icon.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

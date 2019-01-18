@@ -34,3 +34,4 @@ The parent object is the  **[RuleAction](Outlook.RuleAction.md)** object.
 
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

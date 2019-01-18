@@ -34,3 +34,4 @@ _expression_ A variable that represents an [AssignToCategoryRuleAction](./Outloo
 
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

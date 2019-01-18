@@ -26,4 +26,4 @@ This example adds three-dimensional shading to chart group one on the chart.
 Charts(1).ChartGroups(1).Has3DShading = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

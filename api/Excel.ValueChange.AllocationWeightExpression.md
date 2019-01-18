@@ -39,3 +39,4 @@ The  **AllocationWeightExpression** property corresponds to the **Weight Express
 
 [ValueChange Object](Excel.ValueChange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

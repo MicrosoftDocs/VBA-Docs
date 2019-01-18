@@ -44,3 +44,4 @@ MsgBox "Resolution = " & lngHorizontal & " x " & lngVertical
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ Application.Help "MyHelpFile.chm", 65527
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

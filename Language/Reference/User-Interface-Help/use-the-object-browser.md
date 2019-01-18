@@ -34,3 +34,5 @@ You can get help for the **Object Browser** by searching for **Object Browser** 
 ## See also
 
 - [Visual Basic how-to topics](visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

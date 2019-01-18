@@ -45,4 +45,4 @@ Note, however, that users can manually re-position a data graphic that has been 
 
 The setting of the  **UseDataGraphicPosition** property corresponds to the setting of the **Use default position** box under **Callout position** in the **New Text** (or **Edit Text**),  **New Icon Set** (or **Edit Icon Set**), or  **New Data Bar** (or **Edit Data Bar**) dialog box, depending on the type of the graphic item, in the Microsoft Visio user interface.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

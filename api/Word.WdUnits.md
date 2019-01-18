@@ -34,3 +34,4 @@ Specifies a unit of measure to use.
 | **wdWindow**|11|A window.|
 | **wdWord**|2|A word.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

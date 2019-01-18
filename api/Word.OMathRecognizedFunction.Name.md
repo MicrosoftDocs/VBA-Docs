@@ -29,3 +29,4 @@ Returns a  **String** that represents the name of an equation recognized functio
 
 [OMathRecognizedFunction Object](Word.OMathRecognizedFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

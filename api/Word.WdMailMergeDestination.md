@@ -22,3 +22,4 @@ Specifies a destination for mail merge results.
 | **wdSendToNewDocument**|0|Send results to a new Word document.|
 | **wdSendToPrinter**|1|Send results to a printer.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

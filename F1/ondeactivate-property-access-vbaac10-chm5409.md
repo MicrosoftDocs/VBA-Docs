@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.OnDeactivate property (Access)](http://msdn.microsoft.com/library/2b15bb7c-a307-6e2b-c933-b7a069ff99d0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

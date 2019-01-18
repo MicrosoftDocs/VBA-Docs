@@ -29,3 +29,4 @@ Returns a  **Date** that represents the date and time that a comment was inserte
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ localization_priority: Normal
 |[ThemeEffectScheme](../../Office.OfficeTheme.ThemeEffectScheme.md)|Gets a  **ThemeEffectScheme** object that represents the effects scheme of a Microsoft Office theme. Read-only.|
 |[ThemeFontScheme](../../Office.OfficeTheme.ThemeFontScheme.md)|Gets a  **ThemeFontScheme** object that represents the font scheme of a Microsoft Office theme. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

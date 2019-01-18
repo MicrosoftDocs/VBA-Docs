@@ -66,3 +66,4 @@ End Sub
 
 [SetEffect Object](PowerPoint.SetEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

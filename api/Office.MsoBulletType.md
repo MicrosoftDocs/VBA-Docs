@@ -23,3 +23,4 @@ Specifies the bullet type.
 |**msoBulletPicture**|3|Picture bullets.|
 |**msoBulletUnnumbered**|1|Unnumbered bullets.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

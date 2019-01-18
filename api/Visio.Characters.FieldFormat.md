@@ -37,4 +37,4 @@ Field formats correspond to the formats in the  **Format** list in the **Field**
 
 Constants for field formats are declared by the Microsoft Visio type library in  **[VisFieldFormats](Visio.visfieldformats.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

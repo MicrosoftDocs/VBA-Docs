@@ -29,3 +29,4 @@ Indicates the status of the media resampling task.
 |**ppMediaTaskStatusNone**|**0**||
 |**ppMediaTaskStatusQueued**|**2**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

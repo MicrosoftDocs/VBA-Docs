@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CustomProperty Object](Word.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

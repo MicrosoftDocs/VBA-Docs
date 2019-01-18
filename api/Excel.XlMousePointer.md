@@ -22,3 +22,4 @@ Specifies the appearance of the mouse pointer in Excel.
 | **xlNorthwestArrow**|1|The northwest-arrow pointer.|
 | **xlWait**|2|The hourglass pointer.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

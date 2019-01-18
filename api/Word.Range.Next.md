@@ -53,3 +53,4 @@ Selection.Range.Next(Unit:=wdWord, Count:=1).Select
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

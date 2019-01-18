@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [FormFields object (Word)](http://msdn.microsoft.com/library/a44a0f57-123b-cade-e306-ba6dc179b619%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

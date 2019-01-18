@@ -36,5 +36,5 @@ Perform the following steps to test simple procedures. Replace the code below wi
 6. Click the  **!** icon on the toolbar. The message box will appear.
     
 7. Click  **OK** to close the message box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[AddToSearchFolders](../../Office.ScopeFolder.AddToSearchFolders.md)|Adds a  **ScopeFolder** object to the **SearchFolders** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,4 +55,4 @@ The following example tests to determine whether the specified page is a wizard 
  End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

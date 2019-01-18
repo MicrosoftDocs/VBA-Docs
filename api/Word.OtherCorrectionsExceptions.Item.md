@@ -42,3 +42,4 @@ OtherCorrectionsException
 
 [OtherCorrectionsExceptions Collection Object](Word.othercorrectionsexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

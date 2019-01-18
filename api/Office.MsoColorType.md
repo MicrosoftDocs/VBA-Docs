@@ -24,3 +24,4 @@ Specifies the color type.
 |**msoColorTypeRGB**|1|Color is determined by values of red, green, and blue.|
 |**msoColorTypeScheme**|2|Color is defined by an application-specific scheme.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

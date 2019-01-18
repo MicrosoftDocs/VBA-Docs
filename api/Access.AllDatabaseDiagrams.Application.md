@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [AllDatabaseDiagrams Collection](Access.AllDatabaseDiagrams.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ Nothing
 
 When  _fRenumberPages_ is non-zero, the remaining pages' default page names are renumbered after the page is deleted, otherwise, the pages retain their names.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

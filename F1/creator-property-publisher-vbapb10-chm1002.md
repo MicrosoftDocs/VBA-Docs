@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [MailMergeDataField.Creator Property (Publisher)](http://msdn.microsoft.com/library/1f8f4da6-2d03-c3f4-3590-ebf82cffcd48%28Office.15%29.aspx)
 - [MailMergeDataSources.Creator Property (Publisher)](http://msdn.microsoft.com/library/700b716d-f86d-be25-bdd0-effb669ea553%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

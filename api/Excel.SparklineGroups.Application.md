@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGrou
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,3 +49,4 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

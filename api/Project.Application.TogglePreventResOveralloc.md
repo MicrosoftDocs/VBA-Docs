@@ -35,4 +35,4 @@ When the  **Prevent Overallocations** command is active, Project automatically m
 
 The  **TogglePreventResOveralloc** method corresponds to the **Prevent Overallocations** command on the **Format** tab under **Team Planner Tools** on the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

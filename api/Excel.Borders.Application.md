@@ -44,3 +44,4 @@ End If
 
 [Borders Collection](Excel.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,6 +17,5 @@ This error has the following cause and solution:
 
 
 - You attempted to use a public user defined type as a parameter or return type for a public procedure of a class module, or as a field of a public user defined type. Only public user defined types that are defined in a public object module can be used in this manner.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

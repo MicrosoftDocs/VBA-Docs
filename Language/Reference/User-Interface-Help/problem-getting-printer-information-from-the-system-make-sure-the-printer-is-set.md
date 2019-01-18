@@ -21,6 +21,5 @@ There is some problem that prevents getting printer information from the system.
 - Your printer isn't online. Physically switch the printer online.
     
 - Your printer is jammed or out of paper. Physically correct the problem.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,3 +65,4 @@ End With
 |[Parent](Publisher.WizardProperty.Parent.md)|
 |[Values](Publisher.WizardProperty.Values.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

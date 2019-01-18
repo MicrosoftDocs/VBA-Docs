@@ -41,3 +41,4 @@ MsgBox "The active cell is in the field " & _
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

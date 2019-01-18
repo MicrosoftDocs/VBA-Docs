@@ -21,3 +21,4 @@ Specifies how the [Protected View](Word.ProtectedViewWindow.md) window was close
 | **wdProtectedViewCloseForced**|2|The window was closed because the application shut it down forcefully or it stopped responding.|
 | **wdProtectedViewCloseNormal**|0|The window was closed normally.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

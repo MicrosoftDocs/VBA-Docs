@@ -28,4 +28,4 @@ Returns the parent of the  **[PageSizes](Publisher.PageSizes.md)** collection. R
 
 Object
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

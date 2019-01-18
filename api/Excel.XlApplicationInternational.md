@@ -61,3 +61,4 @@ Specifies country/region and international settings.
 | **xlWeekdayNameChars**|31|Always returns three characters for backward compatibility. Abbreviated weekday names are read from Microsoft Windows and can be any length.|
 | **xlYearCode**|19|Year symbol in number formats (y).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

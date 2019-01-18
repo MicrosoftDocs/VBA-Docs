@@ -34,3 +34,4 @@ Corresponds with the  **Show MiniBar on selection** check box in the **Word Opti
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.SmartTags property (Access)](http://msdn.microsoft.com/library/e4c3553a-7ce3-291e-b83a-c88e20685b4d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

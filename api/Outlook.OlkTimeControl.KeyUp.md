@@ -43,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies how much of the document to export.
 | **wdExportFromTo**|3|Exports the contents of a range using the starting and ending positions.|
 | **wdExportSelection**|1|Exports the contents of the current selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

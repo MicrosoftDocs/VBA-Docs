@@ -27,6 +27,4 @@ This section provides important concepts for developing custom Access solutions.
 - XML
 - Miscellaneous
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

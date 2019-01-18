@@ -40,3 +40,5 @@ MyCotangent = 1 / Tan(MyAngle)    ' Calculate cotangent.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

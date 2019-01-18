@@ -29,4 +29,4 @@ rst.open "Employees", CurrentProject.Connection,_
 rst.Find "[LastName] = 'Buchanan'"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

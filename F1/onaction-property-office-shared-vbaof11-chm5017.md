@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarControl.OnAction Property (Office)](http://msdn.microsoft.com/library/05e40fcb-ff67-049f-6386-a9ef20b48c87%28Office.15%29.aspx)
 [CommandBarPopup.OnAction Property (Office)](http://msdn.microsoft.com/library/47511647-5f1f-5e40-179b-ec589a2c39be%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

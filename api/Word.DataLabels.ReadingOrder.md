@@ -29,3 +29,4 @@ Returns or sets an  **[xlReadingOrder](Word.XlReadingOrder.md)** constant that r
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

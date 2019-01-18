@@ -24,3 +24,4 @@ Used by the [ScrollBars](Access.WebBrowserControl.ScrollBars.md) property to spe
 |**acScrollNo**|2|Scroll bars are not displayed.|
 |**acScrollYes**|1|Scroll bars are displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

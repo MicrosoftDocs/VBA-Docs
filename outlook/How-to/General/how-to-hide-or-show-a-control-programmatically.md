@@ -19,4 +19,4 @@ The following code example uses the  **[ModifiedFormPages](../../../api/Outlook.
 Item.GetInspector.ModifiedFormPages("Test").Checkbox1.Visible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

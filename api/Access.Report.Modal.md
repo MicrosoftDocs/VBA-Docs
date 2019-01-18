@@ -43,3 +43,4 @@ When you open a modal window, other windows in Microsoft Access are disabled unt
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

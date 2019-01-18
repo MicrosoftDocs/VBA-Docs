@@ -48,3 +48,4 @@ End If
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

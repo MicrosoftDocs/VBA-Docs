@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.DocumentSaved Event (Visio)](http://msdn.microsoft.com/library/cf0d3906-dad4-8da0-e3f0-64319a6caec8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

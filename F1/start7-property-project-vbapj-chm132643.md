@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.Start7 Property (Project)](http://msdn.microsoft.com/library/9cfcb2ba-9b9a-26b1-a066-c45d5d31e09b%28Office.15%29.aspx)
 [Assignment.Start7 Property (Project)](http://msdn.microsoft.com/library/0860961d-93d9-a738-7ee7-d0f049b5eb02%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

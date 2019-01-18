@@ -26,5 +26,4 @@ This section contains the following overviews about programmability in Office:
 
 - [Reference (Object library reference for Office)](../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

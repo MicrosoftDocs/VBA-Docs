@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.NumberOfResources Property (Project)](http://msdn.microsoft.com/library/a65ece0e-0285-a0d4-fb45-3f4d730ddd3d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

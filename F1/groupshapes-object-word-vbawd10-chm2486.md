@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupShapes object (Word)05209eb0-41b6-cdc5-edde-fd3b0112af59](http://msdn.microsoft.com/library/05209eb0-41b6-cdc5-edde-fd3b0112af59%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

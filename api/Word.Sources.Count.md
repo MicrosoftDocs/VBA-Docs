@@ -26,3 +26,4 @@ Returns the number of items in the  **Sources** collection. Read-only **Long**.
 
 [Sources Collection](Word.Sources.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

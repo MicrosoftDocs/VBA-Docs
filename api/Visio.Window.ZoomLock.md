@@ -35,4 +35,4 @@ Zooming (**False**) is the default Visio behavior. You can use the **ZoomLock** 
 
 The  **ZoomLock** property setting is valid only for a given window at run time, and is not persisted (saved) in either the Visio document or the registry.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

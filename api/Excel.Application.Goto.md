@@ -63,3 +63,4 @@ Application.Goto Reference:=Worksheets("Sheet1").Range("A154"), _
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

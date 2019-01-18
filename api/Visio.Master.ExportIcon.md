@@ -49,4 +49,4 @@ If the value of  _Flags_ is **visIconFormatBMP** (2), the icon is exported in bi
 
 Starting with Microsoft Visio 2000, you can use the  _TransparentRGB_ argument with the **ExportIcon** method. If _TransparentRGB_ is omitted, the color defaults to black, which simulates Visio 5.0 behavior.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

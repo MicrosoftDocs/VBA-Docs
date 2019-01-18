@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.MarkerStyle Property (PowerPoint)](http://msdn.microsoft.com/library/e985978e-f0cf-b809-ebe1-f5504e9e8df6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

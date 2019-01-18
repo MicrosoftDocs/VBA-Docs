@@ -36,3 +36,4 @@ Therefore, each Outlook appointment item is assigned a Global Object ID, a uniqu
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

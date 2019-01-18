@@ -24,3 +24,4 @@ localization_priority: Normal
 |[ReorderUp](../../Office.SmartArtNode.ReorderUp.md)|Swaps a node with the previous node in the bulleted list. This method reorder's the nodes entire family.|
 |[Smaller](../../Office.SmartArtNode.Smaller.md)|Decreases the size of the SmartArt. Mimics the behavior of the Smaller button on the Microsoft Office Fluent Ribbon UI Format tab for SmartArt.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

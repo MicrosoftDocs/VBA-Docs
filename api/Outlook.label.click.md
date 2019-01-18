@@ -34,4 +34,4 @@ The following are examples of actions that initiate the  **Click** event of the 
 
 Left-clicking changes the value of a control, thus it initiates the  **Click** event. Right-clicking does not change the value of the control, so it does not initiate the **Click** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

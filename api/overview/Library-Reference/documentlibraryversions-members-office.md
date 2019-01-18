@@ -23,3 +23,4 @@ The **DocumentLibraryVersions** property of the **Document** object in Microsoft
 |[Item](../../Office.DocumentLibraryVersions.Item.md)|Gets a **DocumentLibraryVersion** object from the **DocumentLibraryVersions** collection. Read-only.|
 |[Parent](../../Office.DocumentLibraryVersions.Parent.md)|Gets the **Parent** object for the **DocumentLibraryVersions** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

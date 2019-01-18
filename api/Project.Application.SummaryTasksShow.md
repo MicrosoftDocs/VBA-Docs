@@ -36,4 +36,4 @@ Shows or hides summary tasks in the active Network Diagram.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

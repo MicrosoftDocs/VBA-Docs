@@ -24,3 +24,4 @@ Graphic item primary-data-field constants passed to the  **[GraphicItem.SetExpre
 | **visGraphicExpression**|2|The ShapeSheet formula of a shape data item.|
 | **visGraphicPropertyLabel**|1|The label of a shape data item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

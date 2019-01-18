@@ -41,3 +41,4 @@ Represents a combination view in Project. The  **ViewCombination** object is a m
 |[TopView](Project.ViewCombination.TopView.md)|
 |[Type](Project.ViewCombination.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

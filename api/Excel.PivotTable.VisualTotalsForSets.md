@@ -41,3 +41,4 @@ In a PivotTable based on an OLAP data source, you can configure whether totals f
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Specifies the address type for a contact card.
 |**msoContactCardAddressTypeSMTP**|2|A unique identifier for an SMTP address.|
 |**msoContactCardAddressTypeIM**|1|A unique identifier for an IM address.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

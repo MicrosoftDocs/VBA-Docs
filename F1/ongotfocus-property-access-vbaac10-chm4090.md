@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnGotFocus property (Access)](http://msdn.microsoft.com/library/3a180b9a-d415-b124-f884-9ce64dba8358%28Office.15%29.aspx)
 - [ToggleButton.OnGotFocus property (Access)](http://msdn.microsoft.com/library/bcc774c8-7766-942d-b37d-d4c96dd84911%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

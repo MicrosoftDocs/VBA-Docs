@@ -40,3 +40,5 @@ Range("E5").ShowCard
 - [Range.DataTypeToText](Excel.Range.DataTypeToText.md)
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

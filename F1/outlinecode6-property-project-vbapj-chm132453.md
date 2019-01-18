@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.PathPredecessor Property (Project)](http://msdn.microsoft.com/library/f0662677-cab5-10e2-e18c-fc291bfca28b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

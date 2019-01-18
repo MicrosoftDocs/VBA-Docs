@@ -41,3 +41,4 @@ The value of the WordWrap property can be one of these MsoTriState constants.
 
 [TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

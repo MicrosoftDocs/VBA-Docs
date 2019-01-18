@@ -34,3 +34,4 @@ This property contains the display names only. The  **[Recipients](Outlook.Recip
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

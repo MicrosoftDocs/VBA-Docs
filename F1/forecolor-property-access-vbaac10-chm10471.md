@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.ForeColor property (Access)](http://msdn.microsoft.com/library/86b90246-1431-3ba2-1cc7-5af78a2e8185%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

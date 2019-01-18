@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A collection of [Guide](PowerPoint.guide.md) objects in a presentation or custom layout.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ The  **Type** property value can be one of these **MsoCalloutType** constants.
 | **msoCalloutThree**|
 | **msoCalloutTwo**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

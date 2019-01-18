@@ -67,3 +67,4 @@ ActiveDocument.MailMerge.Fields.AddIf Range:=Selection.Range, _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

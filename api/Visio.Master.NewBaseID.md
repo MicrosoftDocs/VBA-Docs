@@ -28,4 +28,4 @@ Generates a new base ID for a master. Read-only.
 
 String
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ The  **[Range](Excel.Range(object).md)** object must be a single cell in the Piv
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

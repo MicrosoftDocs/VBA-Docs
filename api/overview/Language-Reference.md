@@ -46,3 +46,5 @@ Use the table of contents in the navigation on the left to view the topics in th
 
 - [Object library reference for Office (members, properties, methods)](library-reference/reference-object-library-reference-for-office.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

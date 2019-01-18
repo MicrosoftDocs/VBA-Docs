@@ -28,4 +28,4 @@ Gets the width of an object in pixels. Read/write.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

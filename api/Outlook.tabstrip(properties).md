@@ -43,5 +43,5 @@ localization_priority: Normal
 -  [TabStrip.TabOrientation Property (Outlook Forms Script)](Outlook.tabstrip.taborientation.md)
     
 -  [TabStrip.Value Property (Outlook Forms Script)](Outlook.tabstrip.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

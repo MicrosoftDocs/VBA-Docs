@@ -44,3 +44,4 @@ The  **VisFromParts** return codes indicate the part of a shape from which a con
 | **visRightEdge**|3|Connection is from the right edge of a shape.|
 | **visTopEdge**|6|Connection is from the top edge of a shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

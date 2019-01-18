@@ -46,4 +46,4 @@ SolverSolve userFinish:=True
 SolverFinishDialog keepFinal:=1, reportArray:=Array(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

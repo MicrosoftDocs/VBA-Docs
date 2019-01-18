@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.UnderlineHyperlinks Property (Project)](http://msdn.microsoft.com/library/218e1425-5198-eedd-22f4-ffa7eb069999%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

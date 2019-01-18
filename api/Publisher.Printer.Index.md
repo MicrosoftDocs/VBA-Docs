@@ -28,4 +28,4 @@ Returns a  **Long** that represents the position of a particular printer in a sp
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

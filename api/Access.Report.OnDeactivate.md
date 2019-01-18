@@ -57,3 +57,4 @@ Forms("Order Entry").OnDeactivate = "Deactivate_Macro"
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

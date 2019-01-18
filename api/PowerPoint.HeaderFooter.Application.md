@@ -67,3 +67,4 @@ Next
 
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

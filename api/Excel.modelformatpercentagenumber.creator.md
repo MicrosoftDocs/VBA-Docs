@@ -32,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelFormatPercentageNumber Object](Excel.modelformatpercentagenumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

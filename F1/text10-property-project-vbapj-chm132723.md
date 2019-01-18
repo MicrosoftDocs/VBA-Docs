@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Text10 Property (Project)](http://msdn.microsoft.com/library/5d6cc09f-4ef8-7aa9-7840-6a4ba341f55f%28Office.15%29.aspx)
 [Resource.Text10 Property (Project)](http://msdn.microsoft.com/library/ea30e4b1-1cda-d94e-39d8-ef94bb67366e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ These codes are also used with the  **Event.GetFilterObjects** and **Event.SetFi
 | **visTypePage**|1|Page's or master's  **PageSheet** property.|
 | **visTypeShape**|3|Native Microsoft Visio shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

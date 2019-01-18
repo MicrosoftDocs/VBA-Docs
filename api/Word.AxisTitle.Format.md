@@ -29,3 +29,4 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

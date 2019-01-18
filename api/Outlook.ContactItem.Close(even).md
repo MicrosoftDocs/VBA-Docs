@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.ContactItem.Close(method).md)** method to fire
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

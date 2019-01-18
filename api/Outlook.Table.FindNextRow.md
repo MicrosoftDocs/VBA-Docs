@@ -41,3 +41,4 @@ If  **FindNextRow** finds a row, it will position the current row to that row. I
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

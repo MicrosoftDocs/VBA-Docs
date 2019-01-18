@@ -47,3 +47,4 @@ The  **GlueSettings** property can be any combination of the following **VisGlue
 | **visGlueToGeometry**|&H20 |Glue to shape geometry. |
 | **visGlueToDisabled**|&H8000 |Disable glue. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

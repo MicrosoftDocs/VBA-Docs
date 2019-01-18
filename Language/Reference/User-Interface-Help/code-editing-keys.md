@@ -28,3 +28,4 @@ Use these key combinations to edit code in the [Code window](code-window.md).
 |SHIFT+F3|**Find Previous**: repeat text search up through your code. If no text search has been done, the **Find** dialog box is displayed.|
 |SHIFT+TAB|Remove indent.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ The current actual cost for the resource is calculated from the resource cost ra
 
 Actual costs are also available for tasks and assignments. For an example the uses the actual cost for tasks, see the  **[ActualCost](Project.Task.ActualCost.md)** property for the **Task** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

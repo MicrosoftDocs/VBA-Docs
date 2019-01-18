@@ -47,3 +47,4 @@ ActiveWorkbook.Styles.Item("Normal").Font.Bold = True
 
 [Styles Object](Excel.Styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

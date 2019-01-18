@@ -42,3 +42,4 @@ Use the  **[ReadingModeGrowFont](Word.Selection.ReadingModeGrowFont.md)** method
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

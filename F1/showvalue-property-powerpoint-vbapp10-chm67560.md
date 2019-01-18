@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.ShowValue Property (PowerPoint)](http://msdn.microsoft.com/library/e0c739f6-286b-1267-49c0-484b7d1bca16%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

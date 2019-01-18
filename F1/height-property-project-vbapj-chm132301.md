@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Height Property (Project)](http://msdn.microsoft.com/library/e980a85d-218c-b82d-1043-9670cab23560%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

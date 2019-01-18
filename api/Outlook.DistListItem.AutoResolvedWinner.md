@@ -36,3 +36,4 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Dist
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

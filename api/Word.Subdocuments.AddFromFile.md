@@ -76,3 +76,4 @@ Selection.Range.Subdocuments.AddFromFile Name:="C:\Subdoc.doc", _
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

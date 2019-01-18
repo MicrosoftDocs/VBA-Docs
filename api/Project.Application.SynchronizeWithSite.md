@@ -79,4 +79,4 @@ End Sub
 
 For an example that synchronizes the  **Priority** column in a SharePoint tasks list with the **Priority** field in Project tasks, see the **[ManageSiteColumns](Project.Application.ManageSiteColumns.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ localization_priority: Normal
 |[Width](../../Office.CustomTaskPane.Width.md)|Gets or sets the width of the task pane specified by the  **CustomTaskPane** object. Read/write.|
 |[Window](../../Office.CustomTaskPane.Window.md)|Gets the parent window object of the  **CustomTaskPane** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

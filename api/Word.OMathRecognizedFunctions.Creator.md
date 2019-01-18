@@ -37,3 +37,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OMathRecognizedFunctions Collection](Word.OMathRecognizedFunctions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies whether or not the first row contains headers. Cannot be used when sor
 | **xlNo**|2|Default. The entire range should be sorted.|
 | **xlYes**|1|The entire range should not be sorted.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ This example sets the space between column clusters to be 50 percent of the colu
 myChart.ChartGroups(1).GapWidth = 50
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

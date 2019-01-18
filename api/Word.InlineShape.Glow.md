@@ -29,3 +29,4 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the forma
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

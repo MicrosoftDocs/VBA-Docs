@@ -121,3 +121,4 @@ Forms!Products.DatasheetFontWeight = 500
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

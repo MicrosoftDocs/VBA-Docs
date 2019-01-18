@@ -29,5 +29,4 @@ The easiest way to clear the collection is to set the **FileType** property to t
 - [FileTypes object members](overview/library-reference/filetypes-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

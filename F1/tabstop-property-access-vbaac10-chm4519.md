@@ -33,4 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.TabStop property (Access)](http://msdn.microsoft.com/library/28712aec-2836-9ed0-c8a0-fd5aa50828d0%28Office.15%29.aspx)
 - [WebBrowserControl.TabStop property (Access)](http://msdn.microsoft.com/library/92f60227-186c-6f46-bc1d-289a28de6bd0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AutoFormatRule](./Outlook.AutoFormat
 
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

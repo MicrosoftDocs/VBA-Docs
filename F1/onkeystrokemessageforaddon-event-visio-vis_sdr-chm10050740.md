@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.OnKeystrokeMessageForAddon Event (Visio)](http://msdn.microsoft.com/library/0b3fcabc-217f-fa68-d139-455286b3a34f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

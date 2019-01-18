@@ -67,5 +67,5 @@ localization_priority: Normal
 -  [Page.Visible Property (Outlook Forms Script)](Outlook.Page.visible.md)
     
 -  [Page.Zoom Property (Outlook Forms Script)](Outlook.Page.zoom.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

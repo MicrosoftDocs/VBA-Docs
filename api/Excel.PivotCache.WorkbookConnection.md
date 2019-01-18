@@ -34,3 +34,4 @@ The  **WorkbookConnection** object represents a connection to an external data s
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

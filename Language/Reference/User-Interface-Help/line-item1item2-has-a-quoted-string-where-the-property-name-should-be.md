@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A quoted string appeared in the ASCII form file where the property name was expected. Property names are not placed inside quotation marks (" ").
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

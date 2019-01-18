@@ -51,4 +51,4 @@ The following code shows how to get the address of the first hyperlink in the co
 Debug.Print Viewer1.HyperlinkAddress(1, 1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,3 +52,4 @@ MsgBox myAddIn.Name & " has been added to the list"
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ When the accelerator key for a label is pressed, the next control in the tab ord
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

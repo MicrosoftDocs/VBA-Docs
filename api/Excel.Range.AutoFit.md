@@ -60,3 +60,4 @@ Worksheets("Sheet1").Range("A1:E1").Columns.AutoFit
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ You can use any integer that represents a valid color. You can also specify a co
 RGB(15,200,75)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

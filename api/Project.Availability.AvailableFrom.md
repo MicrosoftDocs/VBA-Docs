@@ -37,4 +37,4 @@ The following line of code prints the earliest date that the resource is availab
 Debug.Print ActiveProject.Resources(1).Availabilities(2).AvailableFrom
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

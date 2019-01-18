@@ -63,3 +63,5 @@ To see whether the specified list template contains the formatting built into Wo
 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

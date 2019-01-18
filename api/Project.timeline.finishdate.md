@@ -21,5 +21,4 @@ Indicates the finish date for a  **Timeline** bar based on the input argument. I
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

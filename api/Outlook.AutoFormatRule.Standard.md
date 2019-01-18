@@ -90,3 +90,4 @@ End Sub
 
 [AutoFormatRule Object](Outlook.AutoFormatRule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

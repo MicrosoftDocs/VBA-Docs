@@ -41,3 +41,4 @@ _expression_. `Item`( `_Index_` )
 
 [ScopeFolders Object Members](./overview/Library-Reference/scopefolders-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

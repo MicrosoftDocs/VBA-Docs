@@ -40,4 +40,4 @@ The following example sets the matching ID of a  **pjView** object type with the
 ActiveProject.SetObjectMatchingID ObjectType:=pjView, ObjectName:="Gantt Chart", MatchingID:="Gantt Chart 1"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

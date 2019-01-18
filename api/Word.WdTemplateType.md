@@ -21,3 +21,4 @@ Specifies the type of template.
 | **wdGlobalTemplate**|1|A global template.|
 | **wdNormalTemplate**|0|The normal default template.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

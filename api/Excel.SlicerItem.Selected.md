@@ -39,3 +39,4 @@ Boolean
 
 [SlicerItem Object](Excel.SlicerItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

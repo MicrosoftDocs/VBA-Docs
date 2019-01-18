@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You can't have an application description longer than 2000 characters long. Delete some characters from the description.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

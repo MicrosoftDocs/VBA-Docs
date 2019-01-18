@@ -33,3 +33,5 @@ Gets a single  **Profile** object from the **Profiles** collection. Read-only **
 
 
 [Profiles Collection Object](Project.profiles.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

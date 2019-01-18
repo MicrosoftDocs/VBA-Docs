@@ -39,3 +39,4 @@ ActiveDocument.PageSetup.CharsLine = 42
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

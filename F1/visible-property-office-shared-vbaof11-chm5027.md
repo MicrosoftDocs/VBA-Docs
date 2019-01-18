@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarComboBox.Visible Property (Office)](http://msdn.microsoft.com/library/d3fa2bfe-10ea-70d7-40f9-bf757fff6e27%28Office.15%29.aspx)
 [CommandBarControl.Visible Property (Office)](http://msdn.microsoft.com/library/9aa5f926-af48-5685-da7f-ea960c4cdbb3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

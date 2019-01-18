@@ -47,3 +47,4 @@ If an Exchange mailbox is not associated with this account, this property return
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

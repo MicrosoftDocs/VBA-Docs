@@ -70,4 +70,4 @@ private void SendMail_Click()
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

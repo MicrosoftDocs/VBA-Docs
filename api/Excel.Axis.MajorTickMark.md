@@ -51,3 +51,4 @@ Charts("Chart1").Axes(xlValue).MajorTickMark = xlTickMarkOutside
 
 [Axis Object](Excel.Axis(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

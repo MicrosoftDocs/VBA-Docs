@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.DocumentItem.Close(method).md)** method to fir
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

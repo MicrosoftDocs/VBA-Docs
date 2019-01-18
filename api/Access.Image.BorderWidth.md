@@ -47,3 +47,4 @@ The exact border width depends on your computer and printer. On some systems, th
 
 [Image Object](Access.Image.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

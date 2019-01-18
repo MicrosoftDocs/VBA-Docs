@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **TwoI
 
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

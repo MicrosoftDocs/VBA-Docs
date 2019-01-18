@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.LevelIndividualAssignments Property (Project)](http://msdn.microsoft.com/library/7ce1ac1a-3dd5-be72-f410-7ff173b1c280%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

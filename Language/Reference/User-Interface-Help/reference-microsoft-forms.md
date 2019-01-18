@@ -19,3 +19,5 @@ localization_priority: Priority
 ## See also
 
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

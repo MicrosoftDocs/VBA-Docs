@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a control name that isn't a valid string in Visual Basic. The control isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

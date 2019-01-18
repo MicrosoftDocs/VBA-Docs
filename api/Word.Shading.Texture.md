@@ -61,3 +61,4 @@ ActiveDocument.Words(1).Shading.Texture = wdTexture10Percent
 
 [Shading Object](Word.Shading.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

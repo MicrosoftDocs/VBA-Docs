@@ -33,4 +33,4 @@ For a multiline  **TextBox** that contains no text, setting **AutoSize** to **Tr
 
 For a multiline  **TextBox** that contains text, setting **AutoSize** to **True** automatically enlarges the **TextBox** vertically to display the entire text. The width of the **TextBox** does not change.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

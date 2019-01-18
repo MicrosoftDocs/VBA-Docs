@@ -33,4 +33,4 @@ Shows any ignored warnings for tasks; turns on the warning symbol in the  **Indi
 
 The  **Show Ignored Problems** command is in the **Inspect Task** drop-down menu on the **TASK** ribbon. The **ShowIgnoredTaskWarnings** method sets the **Show warning and suggestion indicators for this task** check box in the **Task Inspector** pane for all tasks.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

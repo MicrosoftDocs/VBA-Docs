@@ -47,3 +47,4 @@ The  **SpecialEffect** property setting affects related property settings for th
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

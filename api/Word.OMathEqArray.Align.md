@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathVertAlignType](Word.WdOMathVertAlignType.md)** that
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

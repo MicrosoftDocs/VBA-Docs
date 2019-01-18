@@ -34,3 +34,4 @@ Avoid using the  **RefreshData** method in user-defined functions because this m
 
 [RTD Object](Excel.RTD.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

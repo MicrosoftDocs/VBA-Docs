@@ -33,4 +33,4 @@ Set  **AutoSize** to **True** to enable automatic resizing of the page. Set **Au
 
 The  **AutoSize** property setting corresponds to the state of the **AutoSize** button in the **Page Setup** group on the **Design** tab.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

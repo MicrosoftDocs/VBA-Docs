@@ -85,4 +85,4 @@ If  _AlignOrSpace_ is a combination of **visLayoutIncrAlign** and **visLayoutInc
 
 If the page layout style is circular, Visio uses only the  _AlignHorizontal_ value to determine whether to align, and only the _SpaceHorizontal_ parameter value to determine whether to space, ignoring the _AlignVertical_ and _SpaceVertical_ parameter values, respectively. In this case, if you pass a value other than **visLayoutHorzAlignNone** for _AlignHorizontal_ , Visio performs the alignment. Similarly, if you pass any value greater than zero for _SpaceHorizontal_ , Visio performs the spacing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ ActiveDocument.PageSetup.LinesPage = 35
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

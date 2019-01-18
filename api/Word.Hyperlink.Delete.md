@@ -29,3 +29,4 @@ Deletes the specified hyperlink.
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

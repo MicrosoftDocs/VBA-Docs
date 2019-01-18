@@ -29,3 +29,4 @@ Returns a  **[Range](Word.Range.md)** object that represents a range of text tha
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

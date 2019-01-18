@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PivotLine](Excel.PivotLine.md) object
 
 [PivotLine Object](Excel.PivotLine.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

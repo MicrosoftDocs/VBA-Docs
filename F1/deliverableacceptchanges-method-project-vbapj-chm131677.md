@@ -33,3 +33,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Project.GetTaskIndexByGuid Method (Project)](http://msdn.microsoft.com/library/6887241c-9daf-385b-42a2-7a82b37c8da7%28Office.15%29.aspx)
 - [Resource.Cost5 Property (Project)](http://msdn.microsoft.com/library/db341836-7d9f-6517-f11e-c378194d62b9%28Office.15%29.aspx)
 - [Task.Cost5 Property (Project)](http://msdn.microsoft.com/library/81357a35-2bae-9cd2-35ea-9de07cffa182%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

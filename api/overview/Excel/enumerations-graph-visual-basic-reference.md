@@ -902,3 +902,4 @@ This topic provides a list of all enumerations in the Graph object model.
 |xlInfo |-4129|
 |xlWorkbook |1|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

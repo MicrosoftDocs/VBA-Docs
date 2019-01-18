@@ -54,3 +54,5 @@ You can exit a **For...Next** statement before the counter reaches its end value
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

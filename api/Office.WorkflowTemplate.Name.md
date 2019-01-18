@@ -38,3 +38,4 @@ String
 
 [WorkflowTemplate Object Members](./overview/Library-Reference/workflowtemplate-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ Moves the current slide to the start of the specified section.
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

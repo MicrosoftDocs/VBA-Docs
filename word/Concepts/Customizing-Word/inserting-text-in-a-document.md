@@ -35,3 +35,4 @@ End Sub
 
 After using the  **InsertBefore** method or the **InsertAfter** method, the **Range** or **Selection** expands to include the new text. Use the **Collapse**method to collapse a  **Selection** or **Range** to the beginning or ending point.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

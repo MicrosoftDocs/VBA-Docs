@@ -51,3 +51,4 @@ The value of this property is a constant from an enumeration, where the enumerat
 
 [UserDefinedProperty Object](Outlook.UserDefinedProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

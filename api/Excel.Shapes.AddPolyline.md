@@ -67,3 +67,4 @@ myDocument.Shapes.AddPolyline triArray
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

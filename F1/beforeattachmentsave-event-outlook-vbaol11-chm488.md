@@ -30,3 +30,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestDeclineItem.BeforeAttachmentSave Event (Outlook)](http://msdn.microsoft.com/library/0723f164-5440-4298-8fff-32dd8fdf0f3d%28Office.15%29.aspx)
 - [TaskRequestItem.BeforeAttachmentSave Event (Outlook)](http://msdn.microsoft.com/library/d4972597-9991-2ff3-77d9-6e8df726756a%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeAttachmentSave Event (Outlook)](http://msdn.microsoft.com/library/2d036604-6ca6-32b7-177d-e735714a01ad%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ _expression_ A variable that represents a [ToOrFromRuleCondition](./Outlook.ToOr
 
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

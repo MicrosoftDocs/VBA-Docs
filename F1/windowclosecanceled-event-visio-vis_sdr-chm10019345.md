@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.WindowCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/472119a3-c6e8-15bf-5266-6cfba9207ce5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

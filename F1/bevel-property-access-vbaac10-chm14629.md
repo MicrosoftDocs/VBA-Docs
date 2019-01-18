@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ToggleButton.Bevel property (Access)](http://msdn.microsoft.com/library/91cfaa50-944b-23c0-2e3b-d8b8a1cb1e34%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

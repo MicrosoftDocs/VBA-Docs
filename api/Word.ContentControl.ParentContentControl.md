@@ -34,3 +34,4 @@ If a content control is not nested, this proprerty returns an error.
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

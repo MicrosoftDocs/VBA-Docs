@@ -20,3 +20,4 @@ Any **Property Let**, **Property Get** or **Property Set** procedures you define
 
 For example, you can use a class module to create an interface layer between your application and a set of Windows application programming interface (API) functions that it calls. To do this, you create a set of simple procedures that call more complicated procedures in a DLL. When you create an instance of this class, the procedures you've created become methods of the new object. You can apply these methods as you would the methods of any object, and in doing so you also call the API functions.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -61,4 +61,4 @@ When a  **Selection** object is created, its initial iteration mode is **visSelM
 
 You can determine whether an individual item in a  **Selection** object is a subselected or superselected item by using the **ItemStatus** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

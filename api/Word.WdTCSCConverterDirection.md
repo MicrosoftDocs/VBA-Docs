@@ -21,3 +21,4 @@ Specifies how to convert between Traditional Chinese and Simplified Chinese.
 | **wdTCSCConverterDirectionSCTC**|0|Convert from Simplified Chinese to Traditional Chinese.|
 | **wdTCSCConverterDirectionTCSC**|1|Convert from Traditional Chinese to Simplified Chinese.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

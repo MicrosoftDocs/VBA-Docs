@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Milestone Property (Project)](http://msdn.microsoft.com/library/246b3d92-43d7-850b-ab7c-8c314ca42aa9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

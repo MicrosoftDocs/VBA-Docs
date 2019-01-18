@@ -42,4 +42,4 @@ Displays the  **Change Working Time** dialog box, which prompts the user to chan
 
 The  **BaseCalendars** method has the same effect as the **Change Working Time** command on the **PROJECT** tab of the ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

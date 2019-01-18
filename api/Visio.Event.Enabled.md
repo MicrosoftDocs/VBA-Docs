@@ -33,4 +33,4 @@ Integer
 
 You can get and set the  **Enabled** property of an **Event** object. An **Event** object that is disabled does not perform its action when its event occurs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

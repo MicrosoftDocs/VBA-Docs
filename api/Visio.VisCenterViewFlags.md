@@ -24,3 +24,4 @@ Specifies constants that define the different ways to center the view; passed to
 | **visCenterViewIfOffScreen**|1|Center the view only if the shape is currently off screen.|
 | **visCenterViewSelectShape**|2|Display the page that contains the specified shape, center the view on the shape, and select the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

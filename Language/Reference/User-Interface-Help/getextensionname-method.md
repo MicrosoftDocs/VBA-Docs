@@ -38,3 +38,5 @@ The **GetExtensionName** method returns a zero-length string ("") if no componen
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

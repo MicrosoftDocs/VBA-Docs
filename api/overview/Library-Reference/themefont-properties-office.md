@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Name](../../Office.ThemeFont.Name.md)|Gets or sets the name of a font in the font scheme of a Microsoft Office theme. Read/write.|
 |[Parent](../../Office.ThemeFont.Parent.md)|Gets the  **Parent** object for the **ThemeFont** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

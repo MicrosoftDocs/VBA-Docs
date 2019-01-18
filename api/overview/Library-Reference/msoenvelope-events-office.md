@@ -19,3 +19,4 @@ This object has the following events:
 |[EnvelopeHide](../../Office.MsoEnvelope.EnvelopeHide.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is hidden.|
 |[EnvelopeShow](../../Office.MsoEnvelope.EnvelopeShow.md)|Occurs when the user interface (UI) that corresponds to the  **MsoEnvelope** object is displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

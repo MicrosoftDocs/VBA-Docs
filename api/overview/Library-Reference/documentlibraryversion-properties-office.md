@@ -23,3 +23,4 @@ localization_priority: Normal
 |[ModifiedBy](../../Office.DocumentLibraryVersion.ModifiedBy.md)|Gets the name of the user who last saved the specified version of the shared document to the server. Read-only.|
 |[Parent](../../Office.DocumentLibraryVersion.Parent.md)|Gets the  **Parent** object for the **DocumentLibraryVersion** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

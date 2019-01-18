@@ -34,4 +34,4 @@ Note that in Access 95, when you run a procedure in one module, all modules in t
 
 You can further enhance performance by grouping procedures in modules to reduce unnecessary compilations. Group procedures in modules with other procedures that they call, as opposed to grouping them in modules with unrelated procedures.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

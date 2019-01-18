@@ -46,4 +46,4 @@ Similarly, if the value that you pass for the  _NameU_ matches the universal nam
 
 If the  _NameU_ parameter is not a valid string, Visio returns an Invalid Parameter error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -82,3 +82,4 @@ End Sub
 
 [IconView Object](Outlook.IconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ _expression_ A variable that represents a '[SlicerItems](Excel.SlicerItems.md)' 
 
 [SlicerItems Object](Excel.SlicerItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.ReportItem.Close(method).md)** method to fire 
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

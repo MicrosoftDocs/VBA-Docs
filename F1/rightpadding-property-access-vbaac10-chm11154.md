@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.RightPadding property (Access)](http://msdn.microsoft.com/library/8c2cd0df-f629-e8d1-a2df-ba0f6203ec07%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ Customizes headings in the Calendar.
 
 Using the  **CalendarWeekHeadingsEx** method without specifying any arguments displays the **Timescale** dialog box with the **Week Headings** tab selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

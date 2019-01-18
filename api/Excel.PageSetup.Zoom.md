@@ -48,3 +48,4 @@ Worksheets("Sheet1").PageSetup.Zoom = 150
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

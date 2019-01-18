@@ -41,3 +41,4 @@ End If
 
 [Column Object](Word.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

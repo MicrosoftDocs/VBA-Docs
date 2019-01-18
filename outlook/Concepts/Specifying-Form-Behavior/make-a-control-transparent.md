@@ -17,4 +17,4 @@ localization_priority: Normal
 
  **Note**  When you make a control transparent, the background color does not appear, so the  **BackColor** property is ignored. However, the setting for **BackColor** is not changed when a control is transparent.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

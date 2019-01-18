@@ -25,3 +25,4 @@ This section provides important concepts for developing custom Excel solutions. 
 - Sparklines
 - Excel performance
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

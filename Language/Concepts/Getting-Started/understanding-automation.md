@@ -40,3 +40,5 @@ For information about the properties and methods supported by an application, se
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

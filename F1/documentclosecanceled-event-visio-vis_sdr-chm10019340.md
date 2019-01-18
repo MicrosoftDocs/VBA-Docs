@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DocumentCloseCanceled Event (Visio)](http://msdn.microsoft.com/library/138e4bf9-87e7-dc9b-4cf6-b12992f22e20%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

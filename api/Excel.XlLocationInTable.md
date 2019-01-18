@@ -27,3 +27,4 @@ Specifies the part of the PivotTable report that contains the upper-left corner 
 | **xlRowItem**|4|Row item|
 | **xlTableBody**|8|Table body|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

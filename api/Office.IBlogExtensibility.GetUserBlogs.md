@@ -41,3 +41,4 @@ _expression_ An expression that returns an **[IBlogExtensibility](Office.IBlogEx
 
 - [IBlogExtensibility object members](overview/Library-Reference/iblogextensibility-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

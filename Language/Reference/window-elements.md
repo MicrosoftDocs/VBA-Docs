@@ -23,3 +23,5 @@ localization_priority: Normal
 - [Error messages](error-messages.md)
 - [Menus and commands](menus-commands.md)
 - [Toolbars](toolbars.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

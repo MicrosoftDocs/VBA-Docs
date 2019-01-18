@@ -76,4 +76,4 @@ Sub DisplayAddressEntryDetails(oM As MailItem)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

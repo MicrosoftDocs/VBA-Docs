@@ -25,3 +25,4 @@ localization_priority: Normal
 | **Reply to Folder**|Show the active folder and show the subject as a conversation, and add  **Subject** and **Categories** fields.|
 | **Response**|Use the standard response fields.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

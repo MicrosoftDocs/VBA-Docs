@@ -29,3 +29,4 @@ Returns whether the specified window is active. Read-only.
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

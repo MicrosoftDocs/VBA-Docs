@@ -46,3 +46,4 @@ Forms("Order Entry").Controls("HomePage").Hyperlink.ScreenTip = "Go to Home page
 
 [Hyperlink Object](Access.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

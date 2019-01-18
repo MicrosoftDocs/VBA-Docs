@@ -27,3 +27,4 @@ Specifies the type of link.
 | **wdLinkTypeReference**|3|Reference library.|
 | **wdLinkTypeText**|2|Text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

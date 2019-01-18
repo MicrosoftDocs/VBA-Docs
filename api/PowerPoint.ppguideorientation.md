@@ -23,3 +23,4 @@ Specifies the orientation of a drawing guide, either horizontal or vertical.
 |**ppHorizontalGuide**|**1**||
 |**ppVerticalGuide**|**2**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

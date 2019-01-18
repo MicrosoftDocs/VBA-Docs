@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ClearToMatchStyle Method (Project)](http://msdn.microsoft.com/library/6715dd6c-4213-6fc6-5cdb-5eefbaf9d875%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

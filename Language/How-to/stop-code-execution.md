@@ -42,3 +42,4 @@ As you run your code, it may stop executing for one of the following reasons:
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

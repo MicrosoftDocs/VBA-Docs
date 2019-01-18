@@ -36,3 +36,4 @@ This property is read-only if the  **SharingItem** is a received item, or if the
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

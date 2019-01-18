@@ -62,3 +62,5 @@ SetAttr "TESTFILE", vbHidden + vbReadOnly ' Set hidden and read-only
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

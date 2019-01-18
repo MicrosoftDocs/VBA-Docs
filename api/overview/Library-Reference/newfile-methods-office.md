@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Add](../../Office.NewFile.Add.md)|Adds a new item to the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
 |[Remove](../../Office.NewFile.Remove.md)|Removes an item from the  **New Item** task pane. Returns a **Boolean** value to indicate whether the operation was successful.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

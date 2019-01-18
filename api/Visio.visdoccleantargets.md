@@ -26,3 +26,4 @@ Flags passed to the  **Document.Clean** method to indicate which objects to exam
 | **visDocCleanTargPageSheet**|&H100|Examine page sheet(s).|
 | **visDocCleanTargStyles**|&H8|Examine styles.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

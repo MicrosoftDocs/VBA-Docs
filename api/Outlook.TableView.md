@@ -95,3 +95,5 @@ You can change built-in  **TableView** objects, but you cannot delete them. Use 
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

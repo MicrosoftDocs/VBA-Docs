@@ -14,5 +14,5 @@ localization_priority: Normal
 2. In the  **Properties** list, select the value of the **Picture** property (the word "bitmap").
     
 3. Press the  **DELETE** key.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

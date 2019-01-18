@@ -46,3 +46,5 @@ For Microsoft applications that can also serve as Automation servers, you can se
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

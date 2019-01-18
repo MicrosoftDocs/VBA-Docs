@@ -22,3 +22,4 @@ Specifies the version of HTML for a published presentation.
 |**ppHTMLv3**|1|HTML Version 3|
 |**ppHTMLv4**|2|HTML Version 4 (Default)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

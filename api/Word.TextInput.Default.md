@@ -29,3 +29,4 @@ Returns or sets the text that represents the default text box contents. Read/wri
 
 [TextInput Object](Word.TextInput.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

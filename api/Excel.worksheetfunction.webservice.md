@@ -45,3 +45,4 @@ The XPath parameter is limited to 1024 characters.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

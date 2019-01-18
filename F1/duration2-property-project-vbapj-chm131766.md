@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.Duration2 Property (Project)](http://msdn.microsoft.com/library/cc027824-0b36-0f7b-10fd-7ebaa030bc08%28Office.15%29.aspx)
 - [Task.EAC Property (Project)](http://msdn.microsoft.com/library/942bba8d-2be5-31bc-a64a-d4ba07366db0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

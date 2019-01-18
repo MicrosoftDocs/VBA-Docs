@@ -42,3 +42,5 @@ You can customize the **Toolbox** by adding pages to it or by adding controls by
 - [Standard toolbar](standard-toolbar.md)
 - [View menu](view-menu.md)
 - [Toolbars](../toolbars.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

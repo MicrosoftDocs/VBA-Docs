@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [KeyBinding Object](Word.KeyBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

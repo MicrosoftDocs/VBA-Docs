@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of items in the **Comments** coll
 
 [Comments Collection Object](Word.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

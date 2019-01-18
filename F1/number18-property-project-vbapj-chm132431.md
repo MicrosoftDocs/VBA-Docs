@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Number18 Property (Project)](http://msdn.microsoft.com/library/7d38aa2a-1075-63ec-0377-7f06917918e2%28Office.15%29.aspx)
 [OutlineCode.OnlyLookUpTableCodes Property (Project)](http://msdn.microsoft.com/library/172aeac5-98ed-9599-e9d3-cc0afde6b940%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

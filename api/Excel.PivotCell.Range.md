@@ -51,3 +51,4 @@ ActiveWindow.ScrollColumn = hr.Column
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

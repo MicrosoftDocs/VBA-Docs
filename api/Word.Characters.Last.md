@@ -29,3 +29,4 @@ Returns a  **[Range](Word.Range.md)** object that represents the last character 
 
 [Characters Collection Object](Word.characters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

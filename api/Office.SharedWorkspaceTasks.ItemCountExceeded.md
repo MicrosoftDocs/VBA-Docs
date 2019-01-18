@@ -51,3 +51,4 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 [SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

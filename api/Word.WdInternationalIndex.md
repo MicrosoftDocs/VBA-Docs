@@ -28,3 +28,4 @@ Specifies information specific to the current country/region and international s
 | **wdThousandsSeparator**|19|Returns the thousands separator (, in U.S. English).|
 | **wdTimeSeparator**|24|Returns the time separator (: in U.S. English).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

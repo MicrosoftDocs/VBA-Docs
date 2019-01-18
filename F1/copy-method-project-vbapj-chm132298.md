@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Groups2.Copy Method (Project)](http://msdn.microsoft.com/library/a0b45d11-394a-4915-5eb8-62ffaab04757%28Office.15%29.aspx)
 - [Application.GlobalTaskFilters Property (Project)](http://msdn.microsoft.com/library/1f85f0c7-9cb8-e531-c690-6ea795ebaa94%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

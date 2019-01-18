@@ -28,4 +28,4 @@ Constants representing gender.
 
 Used by the [ContactItem.Gender](Outlook.ContactItem.Gender.md) property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

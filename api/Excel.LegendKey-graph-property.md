@@ -27,4 +27,4 @@ myChart.Legend.LegendEntries(1).LegendKey _
  .MarkerStyle = xlMarkerStyleTriangle
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

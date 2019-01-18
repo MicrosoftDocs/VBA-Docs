@@ -23,3 +23,4 @@ If you add code to an event procedure and then change the name of the control, y
 For example, assume you add code to the  **Click** event for Commmand1 and then rename the control to Command2. When you double-click Command2, you will not see any code in the **Click** event procedure. You will need to move code from Command1_Click to Command2_Click.
 To simplify development, it is a good practice to name your controls before writing code.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

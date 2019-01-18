@@ -40,3 +40,4 @@ The  **StrikeThrough** property value can be one of the following **MsoTriState*
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as strikethrough.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

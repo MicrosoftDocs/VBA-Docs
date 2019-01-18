@@ -23,4 +23,4 @@ To retrieve a  **Layers** collection, use the **Layers** property of a **Page** 
 
 The default property of a  **Layers** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

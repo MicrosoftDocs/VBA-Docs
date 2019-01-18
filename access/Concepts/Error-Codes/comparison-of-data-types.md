@@ -49,3 +49,4 @@ The following table compares the five sets of data types that correspond to each
 > - The VALUE reserved word doesn't represent a data type defined by the Access database engine. However, in Access or SQL queries, the VALUE reserved word can be considered a valid synonym for the Visual Basic **Variant** data type.
 > - If you are setting the data type for a DAO object in Visual Basic code, you must set the object's **Type** property.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

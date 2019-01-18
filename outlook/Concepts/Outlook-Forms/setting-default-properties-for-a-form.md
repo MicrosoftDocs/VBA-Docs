@@ -55,5 +55,5 @@ The following are the default properties for custom forms that have form pages:
 - **Use form only for responses** Hides a form when it is published to a forms library. This option is useful in situations when you create a form to use solely for replies. In another form, you can specify that your reply form will be used instead of the default reply form. To use your form only for responses, select the **Use form only for responses** check box, and then [publish your form](../Customizing-Forms/publish-a-form.md). 
 
   Open a second form in design mode. On the **Actions** page of the second form, you can specify your published form in the **Reply** or **Reply to All** action. To use your form as the default reply form, double-click the **Reply** action in the second form. You can select the name of your published reply form in the **Form name** field of the **Form Action Properties** dialog box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,5 @@ For additional information, select the item in question and press F1 (in Windows
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

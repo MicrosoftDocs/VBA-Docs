@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified[UndoRe
 
 [UndoRecord Object](Word.UndoRecord.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

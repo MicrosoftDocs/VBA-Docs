@@ -267,3 +267,5 @@ The following table identifies characters you can use to create user-defined num
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

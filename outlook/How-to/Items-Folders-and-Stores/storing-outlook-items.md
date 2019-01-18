@@ -42,6 +42,5 @@ The  **Store** and **Stores** objects support the following:
 - Additional information for an Exchange server through the  **[Store.IsCachedExchange](../../../api/Outlook.Store.IsCachedExchange.md)** and **[Store.IsDataFileStore](../../../api/Outlook.Store.IsDataFileStore.md)** properties.
     
 - The  **[PropertyAccessor](../../../api/Outlook.PropertyAccessor.md)** object through the **[Store.PropertyAccessor](../../../api/Outlook.Store.PropertyAccessor.md)** property, allowing access to store properties that are not exposed as explicit built-in properties in the Outlook object model.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

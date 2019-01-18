@@ -31,3 +31,5 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 
 - [RGB function](rgb-function.md)
 - [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

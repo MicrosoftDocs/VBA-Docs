@@ -34,3 +34,4 @@ The  **IsWeb** property contains **True** if the database is a Web database.
 
 [CurrentProject Object](Access.CurrentProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

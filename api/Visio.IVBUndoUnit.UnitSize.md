@@ -37,4 +37,4 @@ If you are creating an undo unit for your solution, the  **UnitSize** property i
 
 For more information about the  **UnitSize** property and using the **IVBUndoUnit** interface to create undo units, search for "Creating Undo Units" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

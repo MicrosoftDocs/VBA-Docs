@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[RTD](Excel.RTD.md)' object.
 
 [RTD Object](Excel.RTD.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

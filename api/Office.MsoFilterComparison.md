@@ -28,3 +28,4 @@ Specifies how the  **Column** and **CompareTo** properties are compared for an *
 |**msoFilterComparisonNotContains**|9|Column matches CompareTo if any part of the CompareTo string is not contained in the Column value.|
 |**msoFilterComparisonNotEqual**|1|Column matches CompareTo if the CompareTo value is not equal to the Column value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

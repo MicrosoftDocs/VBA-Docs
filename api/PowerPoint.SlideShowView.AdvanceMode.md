@@ -40,3 +40,4 @@ The value returned by the  **AdvanceMode** property can be one of these **PpSlid
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

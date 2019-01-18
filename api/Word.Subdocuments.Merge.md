@@ -53,3 +53,4 @@ End If
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

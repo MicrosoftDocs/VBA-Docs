@@ -28,4 +28,4 @@ Gets the parent lookup table entry in a hierarchical lookup table. Read-only  **
 
 The  **ParentEntry** property returns nothing if the lookup table entry has a level 1 value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

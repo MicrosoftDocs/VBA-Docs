@@ -50,3 +50,4 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

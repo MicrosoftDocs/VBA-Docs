@@ -49,3 +49,4 @@ The following table lists some Access-defined properties that apply to ADO objec
 |**Table**|**DatasheetBackColor**, **DatasheetCellsEffect**, **DatasheetFontHeight**, **DatasheetFontItalic**, **DatasheetFontName**, **DatasheetFontUnderline**, **DatasheetFontWeight**, **DatasheetForeColor**, **DatasheetGridlinesBehavior**, **DatasheetGridlinesColor**, **Description**, **FrozenColumns**, **RowHeight**, **ShowGrid**|
 |**Field**|**Caption**, **ColumnHidden**, **ColumnOrder**, **ColumnWidth**, **DecimalPlaces**, **Description**, **Format**, **InputMask**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ The value of the  **Protection** property can be one or a combination of the fol
 | **visBarNoVerticalDock**|32|Cannot be docked vertically.|
 | **visBarNoHorizontalDock**|64|Cannot be docked horizontally.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

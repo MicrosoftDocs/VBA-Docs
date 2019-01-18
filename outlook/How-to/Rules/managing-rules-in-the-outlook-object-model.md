@@ -29,3 +29,4 @@ When you use  **Rules.Save** to save one or more rules that have been created in
 
 Use  **[Rule.Execute](../../../api/Outlook.Rule.Execute.md)** to run a rule. Note that while you must enable and save a rule to have it enabled beyond the current session, you can run the rule regardless of its enabled state. When you execute a rule, you can optionally specify the folder to apply to rule to. The default is to execute the rule against all messages in the Inbox, but not subfolders of the Inbox.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

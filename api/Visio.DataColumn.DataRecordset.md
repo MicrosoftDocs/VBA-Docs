@@ -31,4 +31,4 @@ Returns the  **[DataRecordset](Visio.DataColumn.DataRecordset.md)** object that 
 
 DataRecordset
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Returns  **True** if drill indicators are displayed in the PivotTable and return
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

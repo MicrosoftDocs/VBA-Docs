@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Comments object (Word)ad44c5f1-5e62-b776-7fbc-95b3b1431a3a](http://msdn.microsoft.com/library/ad44c5f1-5e62-b776-7fbc-95b3b1431a3a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

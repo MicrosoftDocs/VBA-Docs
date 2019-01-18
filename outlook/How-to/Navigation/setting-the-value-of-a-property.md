@@ -26,4 +26,4 @@ Because the **Value** property is the default property for the **ItemProperty** 
 
 Similarly, the **Find** method is the default method for **[ItemProperties](../../../api/Outlook.ItemProperties.md)** and **UserProperties**. You do not necessarily have to specify the **Find** method when referencing the value of a property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

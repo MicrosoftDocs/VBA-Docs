@@ -41,3 +41,4 @@ End Sub
 
 Whether the filter and sort order get set in code or by the user, you can apply or remove them by setting the **FilterOn** and **OrderByOn** properties to **True** or **False**.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

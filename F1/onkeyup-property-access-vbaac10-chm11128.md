@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.OnKeyUp property (Access)](http://msdn.microsoft.com/library/ac069657-a9de-79f2-2e7c-92e151228f2a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

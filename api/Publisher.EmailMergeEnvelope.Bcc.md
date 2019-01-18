@@ -38,4 +38,4 @@ Set the  **Bcc** property to a string of email addresses separated by semicolons
  MailMerge.EmailMergeEnvelope.Bcc = "name1@address1;name2@address2;name3@address3;..."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

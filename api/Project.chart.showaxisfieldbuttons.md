@@ -26,3 +26,5 @@ Gets or sets whether to display axis field buttons on a PivotChart. Read/write  
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

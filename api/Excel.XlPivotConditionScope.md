@@ -21,3 +21,4 @@ This enumeration specifies the conditional formatting applied for filtering valu
 | **xlFieldsScope**|1|Based on the specified fields.|
 | **xlSelectionScope**|0|Based on the specified selection criteria.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

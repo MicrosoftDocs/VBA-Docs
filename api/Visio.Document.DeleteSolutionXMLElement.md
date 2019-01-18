@@ -41,4 +41,4 @@ Nothing
 
 The  _ElementName_ parameter is case-sensitive and should match the name passed as a parameter to the **SolutionXMLElement** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

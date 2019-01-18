@@ -70,4 +70,4 @@ Private Sub IDTExtensibility2_OnStartupComplete(custom() As Variant)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies the theme font to use.
 | **xlThemeFontMinor**|1|Minor.|
 | **xlThemeFontNone**|0|Do not use any theme font.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

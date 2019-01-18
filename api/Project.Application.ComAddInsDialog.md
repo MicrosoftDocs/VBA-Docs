@@ -28,4 +28,4 @@ Displays the  **COM Add-Ins** dialog box, which lists any COM add-ins available 
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

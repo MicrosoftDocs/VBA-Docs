@@ -22,3 +22,4 @@ Your versions of the OLE [dynamic-link libraries (DLL)](../../Glossary/vbe-gloss
 Note that on the Macintosh, OLE files are normally only found in the Extensions folder so it is unlikely that this error will occur.
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

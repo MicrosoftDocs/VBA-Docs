@@ -25,4 +25,4 @@ If neither the  **Namespace** nor the **[Folder](Outlook.viewctl.fold.md)** prop
 
 The namespace represents an abstract root object for any data source.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

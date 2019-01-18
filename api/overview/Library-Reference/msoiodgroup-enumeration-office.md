@@ -22,3 +22,4 @@ Specifies constants that define the IOD (install on demand) groups.
 |**msoIodGroupVSTOR35Mgd**|1|VSTO 3.5 managed group.|
 |**msoIodGroupVSTOR40Mgd**|2|VSTO 4.0 managed group.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

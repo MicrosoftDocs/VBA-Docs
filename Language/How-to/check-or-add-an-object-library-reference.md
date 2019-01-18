@@ -31,3 +31,5 @@ If you use the objects in other applications as part of your Visual Basic applic
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

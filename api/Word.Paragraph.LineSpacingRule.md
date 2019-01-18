@@ -54,3 +54,4 @@ lrule = Selection.Paragraphs(1).LineSpacingRule
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

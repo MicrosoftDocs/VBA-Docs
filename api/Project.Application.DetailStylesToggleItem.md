@@ -80,3 +80,4 @@ If the active view is the  **Task Usage** view, can be one of the following **Pj
 |**pjCPI**|**pjWork**|
 |**pjCumPctComplete**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

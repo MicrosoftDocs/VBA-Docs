@@ -34,4 +34,4 @@ Makes a copy of a group definition for the  **ResourceGroups** collection and re
 
  **Group**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

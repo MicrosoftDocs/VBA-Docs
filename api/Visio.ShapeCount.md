@@ -40,4 +40,4 @@ The following code gets the count of shapes in the drawing that is open in Visio
 Debug.Print vsoViewer.ShapeCount
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

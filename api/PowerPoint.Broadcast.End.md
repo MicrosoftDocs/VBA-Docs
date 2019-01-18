@@ -47,3 +47,4 @@ This method validates that the user who made the request is the creator of the d
 
 [Broadcast Object](PowerPoint.Broadcast.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

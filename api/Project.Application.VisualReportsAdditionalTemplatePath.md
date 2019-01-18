@@ -43,4 +43,4 @@ The following example sets the additional path to "C:\My Templates".
 Application.VisualReportsAdditionalTemplatePath = "C:\My Templates"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

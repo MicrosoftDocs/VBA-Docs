@@ -27,5 +27,5 @@ The following information applies to enumerated constants:
   For the new sets of enumerated constants, the blank setting has been replaced with a new default constant. For example, the _objecttype_ argument of the **Close** method now has a new default constant, **acDefault**. Setting this argument to the new constant has the same effect as leaving the argument blank. In addition, you can still leave such arguments blank, and Access will assume the new default constant.
     
 - There's one exception to this. If you run Visual Basic code from previous versions of Visual Basic in Access by using Automation, blank arguments will cause an error for those arguments that have the new default constants. This problem doesn't occur for old Visual Basic for Applications or Visual Basic code run directly in Access.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

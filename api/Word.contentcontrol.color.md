@@ -32,3 +32,4 @@ Returns or sets the color of the content control. Read/write [WdColor](Word.cont
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

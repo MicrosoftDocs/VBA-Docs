@@ -51,4 +51,4 @@ Sub objViews_ViewRemove(ByVal View As View)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of dictionaries in the collection
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

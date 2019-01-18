@@ -29,3 +29,4 @@ Sets or returns the background style of the specified shape. Read/write [MsoBack
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

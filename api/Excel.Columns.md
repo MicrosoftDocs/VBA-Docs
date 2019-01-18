@@ -31,4 +31,4 @@ This example clears column A of the datasheet.
 myChart.Application.DataSheet.Columns(2).ClearContents
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

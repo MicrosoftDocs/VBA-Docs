@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Windows2 Property (Project)](http://msdn.microsoft.com/library/038d051c-769d-3a14-c884-7b4b669d3cc8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

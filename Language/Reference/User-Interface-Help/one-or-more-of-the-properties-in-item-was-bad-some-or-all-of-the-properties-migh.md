@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The specified [project](../../Glossary/vbe-glossary.md#project) file has one or more invalid property settings. This error occurs only in regard to a project file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

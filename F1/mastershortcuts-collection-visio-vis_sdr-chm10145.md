@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [MasterShortcuts Object (Visio)](http://msdn.microsoft.com/library/8d71568b-065b-394a-8dbd-b0b60c62eb8b.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ListEntry Object](Word.ListEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

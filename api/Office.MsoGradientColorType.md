@@ -22,3 +22,4 @@ Specifies the type of gradient used in a shape's fill.
 |**msoGradientPresetColors**|3|Gradient colors set according to a built-in gradient of the set defined by the msoPresetGradientType constant.|
 |**msoGradientTwoColors**|2|Two-color gradient.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

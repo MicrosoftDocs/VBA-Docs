@@ -28,4 +28,4 @@ The possible values of  **Alignment** is 0 or 1. A value of 0 places the caption
 
 The caption text for a control is left-aligned.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

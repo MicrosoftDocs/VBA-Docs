@@ -26,3 +26,4 @@ Specifies the current state of a document or presentation broadcast.
 |**NoBroadcast**|**0**||
 |Name|Value|Description|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

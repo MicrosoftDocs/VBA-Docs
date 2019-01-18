@@ -34,3 +34,4 @@ This property returns **True** when the PivotField of the filter is in the Pivot
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,5 @@ Use the **Print Setup** dialog box to select the printer, page orientation, and 
 ## See also
 
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

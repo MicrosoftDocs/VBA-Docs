@@ -38,3 +38,4 @@ This property will return the  **Chart** object that owns this collection of cat
 
 [CategoryCollection Object](Excel.categorycollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

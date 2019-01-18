@@ -36,3 +36,4 @@ Setting  **AllowMultipleSelection** to **False** does not ensure that only one r
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

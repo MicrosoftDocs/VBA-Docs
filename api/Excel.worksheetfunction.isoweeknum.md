@@ -46,3 +46,4 @@ Returns the ordinal number of the [ISO8601] calendar week in the year for the gi
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

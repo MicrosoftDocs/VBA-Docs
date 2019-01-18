@@ -27,3 +27,4 @@ End Sub
 
 The **DLookup** function has three arguments. The first specifies the field you are looking up (UnitPrice); the second specifies the table (Products); and the third specifies which value to find (the value for the record where the ProductID is the same as the ProductID on the current record in the Orders subform).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

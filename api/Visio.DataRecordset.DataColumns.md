@@ -38,4 +38,4 @@ Every  **DataRecordset** object contains a **DataColumns** collection of all the
 
 Once you get the  **DataColumns** collection, you can use its **[SetColumnProperties](Visio.DataColumns.SetColumnProperties.md)** method to set the properties of multiple data columns, or you can get and set the properties of individual data columns by using the **[DataColumn.GetProperty](Visio.DataColumn.GetProperty.md)** and **[DataColumn.SetProperty](Visio.DataColumn.SetProperty.md)** properties respectively.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

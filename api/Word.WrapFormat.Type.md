@@ -29,3 +29,4 @@ Returns the wrap type for the specified shape. Read/write  **[WdWrapType](Word.W
 
 [WrapFormat Object](Word.WrapFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

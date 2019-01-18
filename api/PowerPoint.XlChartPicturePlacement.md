@@ -25,3 +25,4 @@ Specifies the placement of a user-selected picture on a bar in a 3-D bar or colu
 |**xlFrontSides**|5|Display on front and sides.|
 |**xlSides**|1|Display on sides.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

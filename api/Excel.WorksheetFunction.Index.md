@@ -76,3 +76,4 @@ Returns the reference of the cell at the intersection of a particular row and co
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,5 @@ If you try to use the  **Default** property, Project shows a run-time error &H80
 
 
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

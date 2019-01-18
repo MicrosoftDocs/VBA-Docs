@@ -47,3 +47,4 @@ This method only enables or disables the display of the specified category or ca
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,4 @@ Deletes the specified repeating section item.
 
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

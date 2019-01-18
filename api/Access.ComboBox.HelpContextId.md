@@ -41,3 +41,4 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

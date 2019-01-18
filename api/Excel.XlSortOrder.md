@@ -22,3 +22,5 @@ Specifies the sort order for the specified field or range.
 ## See also
 
 - [Excel.PivotField.AutoSortOrder](Excel.PivotField.AutoSortOrder.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

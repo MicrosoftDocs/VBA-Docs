@@ -40,4 +40,4 @@ To specify items you want to display in a  **ListBox**, use the  **[AddItem](Out
 
 Use  **List** to copy an entire two-dimensional array of values to a control. Use **AddItem** to load a one-dimensional array or to load an individual element.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

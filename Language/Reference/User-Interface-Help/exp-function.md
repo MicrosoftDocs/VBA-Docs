@@ -45,3 +45,5 @@ MyHSin = (Exp(MyAngle) - Exp(-1 * MyAngle)) / 2
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

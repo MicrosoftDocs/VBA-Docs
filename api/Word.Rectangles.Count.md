@@ -26,3 +26,4 @@ Returns a  **Long** that represents the number of rectangles in the collection. 
 
 [Rectangles Collection](Word.Rectangles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

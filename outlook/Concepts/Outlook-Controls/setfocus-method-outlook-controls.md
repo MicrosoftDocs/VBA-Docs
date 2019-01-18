@@ -28,4 +28,4 @@ If setting the focus fails, the focus reverts to the previous object and an erro
 
 By default, setting the focus to a control does not activate the control's window or place it on top of other controls.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

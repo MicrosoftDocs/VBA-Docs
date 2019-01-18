@@ -70,3 +70,5 @@ MyObject.Color = RGB(255, 0, 0)    ' Set the Color property of MyObject to Red.
 
 - [Color constants](color-constants.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

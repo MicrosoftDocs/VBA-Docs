@@ -48,4 +48,4 @@ SolverDelete cellRef:=Range("C4:E6"), _
 SolverSolve userFinish:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

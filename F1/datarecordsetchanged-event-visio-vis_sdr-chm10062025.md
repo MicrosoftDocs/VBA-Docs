@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DataRecordsetChanged Event (Visio)](http://msdn.microsoft.com/library/8be61b1a-3a3c-5880-47bc-e2cac9bb60f9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

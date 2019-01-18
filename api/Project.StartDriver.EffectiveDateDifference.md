@@ -57,4 +57,4 @@ The following statement returns the value -840, which shows that the finish date
 Debug.Print ActiveProject.Tasks(3).StartDriver.EffectiveDateDifference("7/1/2009 3:00:00 PM", "6/30/2009 8:00:00 AM")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

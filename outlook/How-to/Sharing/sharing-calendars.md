@@ -32,4 +32,4 @@ The **[GetCalendarExporter](../../../api/Outlook.Folder.GetCalendarExporter.md)*
 
 Once exported, an iCalendar calendar file can be opened by using the **[OpenSharedFolder](../../../api/Outlook.NameSpace.OpenSharedFolder.md)** method of the **NameSpace** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

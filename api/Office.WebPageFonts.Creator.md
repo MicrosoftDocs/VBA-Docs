@@ -35,3 +35,4 @@ Long
 
 [WebPageFonts Object Members](./overview/Library-Reference/webpagefonts-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

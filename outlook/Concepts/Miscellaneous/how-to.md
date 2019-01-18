@@ -27,5 +27,5 @@ localization_priority: Normal
 -  [Search the Calendar for Appointments Within a Date Range that Contain a Specific Word in the Subject](../../How-to/Search-and-Filter/search-the-calendar-for-appointments-within-a-date-range-that-contain-a-specific.md)
     
 -  [Search and Obtain Items in an Aggregated View (Outlook)](../../How-to/Search-and-Filter/search-and-obtain-items-in-an-aggregated-view-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ String
 
 Use the  **Version** property of the **InvisibleApp** object to verify the version of a particular Visio instance. This information is helpful if your program requires a particular version. Both the major and minor version numbers are returned. The string returned by Visio is 15.0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

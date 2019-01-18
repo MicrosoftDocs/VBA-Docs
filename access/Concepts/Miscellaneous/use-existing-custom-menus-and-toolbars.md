@@ -82,5 +82,5 @@ The following procedure describes how to hide the ribbon by changing settings in
 4. Under **Ribbon and Toolbar Options**, clear the **Allow Full Menus** and **Allow Built-in Toolbars** check boxes.
     
 5. Click **OK**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

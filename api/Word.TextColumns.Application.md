@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

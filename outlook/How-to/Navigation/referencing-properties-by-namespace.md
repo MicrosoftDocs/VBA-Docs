@@ -191,3 +191,4 @@ These are some examples of properties being referenced by different DAV namespac
 - [Property Types](../../../api/overview/Outlook.md)<br>
 - [MAPI Named Properties](../../../api/overview/Outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

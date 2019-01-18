@@ -19,4 +19,4 @@ localization_priority: Normal
 
  **Note**  Exporting a page does not remove it from the  **Control Toolbox**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

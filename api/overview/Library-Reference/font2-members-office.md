@@ -53,3 +53,4 @@ Contains font attributes (for example, font name, font size, and color) for an o
 |[UnderlineStyle](../../Office.Font2.UnderlineStyle.md)|Gets or sets a value specifying the underline style for the selected text. Read/write.|
 |[WordArtformat](../../Office.Font2.WordArtformat.md)|Gets or sets a value specifying the text effect for the selected text. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

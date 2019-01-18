@@ -58,3 +58,4 @@ End With
 
 [Borders Collection Object](Word.borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

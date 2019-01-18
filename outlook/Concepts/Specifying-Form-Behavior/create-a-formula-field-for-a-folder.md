@@ -34,6 +34,6 @@ localization_priority: Normal
 12. To remove the field from the view, click  **Remove**.
     
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

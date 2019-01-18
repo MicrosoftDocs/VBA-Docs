@@ -23,4 +23,4 @@ Returns a  **Variant** that represents the distance between the top of the page 
 
  _expression_ A variable that represents a  **ShapeRange** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

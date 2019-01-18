@@ -60,3 +60,5 @@ Instead of using the  **AddTextEffect** method to add WordArt, you can use **Add
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [MsoPresetTextEffect Enumeration](https://msdn.microsoft.com/library/office/ff861792%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.BorderThemeColorIndex property (Access)](http://msdn.microsoft.com/library/bd363da1-2123-25ba-8834-b6ebbdfaa5d4%28Office.15%29.aspx)
 - [WebBrowserControl.BorderThemeColorIndex property (Access)](http://msdn.microsoft.com/library/877c6731-2f2d-3d2e-05ff-8bc7ad5c8050%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,4 +51,4 @@ In the following example, an overallocated assignment selected in the Team Plann
 ActiveCell.Assignment.Replan(pjConstrainToMaxUnitsByIncreasingDuration)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

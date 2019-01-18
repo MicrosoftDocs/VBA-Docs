@@ -33,4 +33,4 @@ The settings for  **TextAlign** are:
 
 For stand-alone labels,  **TextAlign** determines the alignment of the label's caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

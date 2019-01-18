@@ -43,3 +43,4 @@ End If
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

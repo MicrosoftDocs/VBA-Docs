@@ -37,3 +37,4 @@ Setting this property has the same effect as selecting an item in the dropdown b
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

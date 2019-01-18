@@ -38,3 +38,5 @@ _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 ## Remarks
 
 _ObjectToDrop_ is typically a Visio object, such as a **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object. However, it can be any OLE object that provides an **IDataObject** interface. If _ObjectToDrop_ is null, Visio drops a default shape.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

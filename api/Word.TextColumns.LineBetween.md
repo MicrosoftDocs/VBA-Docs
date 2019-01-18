@@ -50,3 +50,4 @@ Next s
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

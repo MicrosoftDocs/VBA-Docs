@@ -38,3 +38,4 @@ For reports, the  **Left** property setting is the amount the current section is
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

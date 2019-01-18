@@ -27,3 +27,4 @@ localization_priority: Normal
 |[TextFrame2](../../Office.SmartArtNode.TextFrame2.md)|Returns the text associated with the  **SmartArtNode** object. Read-only|
 |[Type](../../Office.SmartArtNode.Type.md)|Retrieves the type of SmartArt node. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

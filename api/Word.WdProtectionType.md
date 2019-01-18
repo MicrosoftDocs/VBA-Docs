@@ -23,3 +23,4 @@ Specifies the type of protection applied to the current document.
 | **wdAllowOnlyRevisions**|0|Allow only revisions to be made to existing content.|
 | **wdNoProtection**|-1|Do not apply protection to the document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

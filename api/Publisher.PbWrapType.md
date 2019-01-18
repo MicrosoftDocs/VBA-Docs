@@ -27,3 +27,4 @@ Indicates how text wraps around the specified shape.
 | **pbWrapTypeTight**|2|Tight|
 | **pbWrapTypeTopAndBottom**|4|Top and Bottom|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

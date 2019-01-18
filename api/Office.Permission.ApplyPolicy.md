@@ -73,3 +73,4 @@ The following example enables permissions on the active document and applies an 
 
 [Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

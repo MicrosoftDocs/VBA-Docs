@@ -30,3 +30,4 @@ A collection of the **SharedWorkspaceFolder** objects in the current shared work
 |[ItemCountExceeded](../../Office.SharedWorkspaceFolders.ItemCountExceeded.md)|Gets a **Boolean** value that indicates whether the number of **SharedWorkspaceFolders** items in the collection has exceeded the 99 that can be displayed in the **Shared Workspace** task pane. Read-only.|
 |[Parent](../../Office.SharedWorkspaceFolders.Parent.md)|Gets the **Parent** object for the **SharedWorkspaceFolders** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

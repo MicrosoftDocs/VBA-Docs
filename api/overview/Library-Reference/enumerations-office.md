@@ -187,3 +187,5 @@ This section contains documentation for the enumerations in the Office object mo
 - [XlPivotFieldOrientation enumeration](../../Office.XlPivotFieldOrientation.md)
 - [XlSizeRepresents enumeration](../../Office.XlSizeRepresents.md)
 - [XlTimeUnit enumeration](../../Office.XlTimeUnit.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

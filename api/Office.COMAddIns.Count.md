@@ -33,3 +33,4 @@ Long
 
 - [COMAddIns object members](overview/Library-Reference/comaddins-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

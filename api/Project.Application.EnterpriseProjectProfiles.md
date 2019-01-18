@@ -28,4 +28,4 @@ Displays the  **Project Server Accounts** dialog box. Available in Project Profe
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

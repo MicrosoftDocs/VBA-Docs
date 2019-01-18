@@ -35,4 +35,4 @@ The following example prints the cost per use specified in the first pay rate of
 Debug.Print ActiveProject.Resources(1).PayRates(1).CostPerUse
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

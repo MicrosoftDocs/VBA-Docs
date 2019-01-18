@@ -33,4 +33,4 @@ The type and format of a binary, date, or multi-valued property are affected by 
 
  **Note**  For more information on referencing properties by namespace, see  [Referencing Properties by Namespace](../Navigation/referencing-properties-by-namespace.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,4 +54,4 @@ The  _Flags_ argument is a bitmask that should be a combination of the following
 > [!CAUTION] 
 > Use caution when you are adding ActiveX controls to your application. ActiveX controls may be designed in such a way that their use could pose a security risk. We recommend that you use controls from trusted sources only.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

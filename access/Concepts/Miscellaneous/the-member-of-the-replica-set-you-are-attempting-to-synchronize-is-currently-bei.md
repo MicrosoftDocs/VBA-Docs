@@ -27,3 +27,4 @@ The Design Master or a replica can be involved in only one synchronization at a 
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

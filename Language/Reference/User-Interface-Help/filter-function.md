@@ -45,3 +45,5 @@ The array returned by the **Filter** function contains only enough elements to c
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

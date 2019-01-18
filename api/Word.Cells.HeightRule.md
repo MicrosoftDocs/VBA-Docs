@@ -34,3 +34,4 @@ Setting the  **HeightRule** property of a **Cells** collection automatically set
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

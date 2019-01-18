@@ -55,3 +55,5 @@ MyResult = 12.6 Mod 5    ' Returns 3.
 - [Mod operator examples (previous versions)](https://docs.microsoft.com/previous-versions/office/office-10/aa263659(v=office.10))
 - [Data types](data-type-summary.md)
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

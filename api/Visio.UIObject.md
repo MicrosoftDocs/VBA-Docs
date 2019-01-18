@@ -39,4 +39,4 @@ A  **UIObject** object can be stored in a file and loaded into Visio. Use the **
 
 Beginning with Visio 2002, a program can manipulate menus and toolbars in the Visio user interface by manipulating the  **CommandBars** collection returned by the **CommandBars** property. The **CommandBars** collection has an interface identical to the **CommandBars** collection exposed by the suite of Microsoft System applications such as Microsoft Word and Microsoft Excel. Consequently, programs can manipulate the Visio menus and toolbars by using either the **CommandBars** collection or **UIObject** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

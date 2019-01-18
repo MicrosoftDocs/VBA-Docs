@@ -166,4 +166,4 @@ The following example specifies a description for a form region localized for th
     </stringOverride>
   ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

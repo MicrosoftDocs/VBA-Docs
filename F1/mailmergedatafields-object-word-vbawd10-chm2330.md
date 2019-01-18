@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [MailMergeDataFields object (Word)](http://msdn.microsoft.com/library/a660288d-1a2c-53ec-20d2-c52353be90c8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

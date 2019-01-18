@@ -41,3 +41,4 @@ By running a macro or event procedure when a Change event occurs, you can coordi
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 If the control is not hosted in a Microsoft Outlook folder home page, this property returns nothing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ The  **Value** property returns or sets a control's default property, which is t
 
 [OptionButton Object](Access.OptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

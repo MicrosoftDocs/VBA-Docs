@@ -34,3 +34,4 @@ Use this property with the  **[WidthRelative](Word.ShapeRange.WidthRelative.md)*
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

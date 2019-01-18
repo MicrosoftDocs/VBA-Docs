@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Add](../../Office.SearchFolders.Add.md)|Adds a search folder to a file search.|
 |[Remove](../../Office.SearchFolders.Remove.md)|Removes the specified object from the collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

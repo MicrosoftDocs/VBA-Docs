@@ -21,3 +21,4 @@ Constants that specify the action for loading legacy files.
 |**pjEnableLegacyFilesLoad**|2|Load legacy files.|
 |**pjPromptBeforeLoadingLegacyFiles**|1|Prompt before loading legacy files.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

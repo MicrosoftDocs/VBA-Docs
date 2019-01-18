@@ -38,3 +38,5 @@ MyStamp = FileDateTime("TESTFILE")    ' Returns "2/12/93 4:35:47 PM".
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,5 @@ Makes a copy of a group definition for the  **Groups** collection and returns a 
 
 
 [Groups Collection Object](Project.groups.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

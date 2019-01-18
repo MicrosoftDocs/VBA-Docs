@@ -38,4 +38,4 @@ Checks in the active project file if it is stored in a SharePoint library.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,5 +19,5 @@ A host application may disable or enable macros. This error has the following ca
   - [Enable or disable macros in Office documents (2007 and 2010)](https://support.office.com/article/Enable-or-disable-macros-in-Office-documents-7B4FDD2E-174F-47E2-9611-9EFE4F860B12 %28Office.15%29.aspx)
     
   - [Enable or disable macros in Office files (2013)](https://support.office.com/article/Enable-or-disable-macros-in-Office-files-12B036FD-D140-4E74-B45E-16FED1A7E5C6%28Office.15%29.aspx)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

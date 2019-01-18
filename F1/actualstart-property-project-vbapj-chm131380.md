@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Assignment.ActualCost Property (Project)](http://msdn.microsoft.com/library/45bf4d44-bce7-474a-7093-ff0c97d3b7f6%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,5 +29,4 @@ Returns a  **Long** that represents the number of repeating section items in the
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

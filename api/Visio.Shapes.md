@@ -60,3 +60,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Shapes.PersistsEvents.md)|
 |[Stat](./Visio.Shapes.Stat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

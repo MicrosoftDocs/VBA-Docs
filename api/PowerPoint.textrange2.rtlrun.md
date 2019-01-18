@@ -24,4 +24,4 @@ Returns a  **TextRange2** object that represents the specified subset of right-t
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

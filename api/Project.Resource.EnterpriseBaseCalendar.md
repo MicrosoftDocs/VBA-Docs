@@ -30,4 +30,4 @@ To enable a resource to use a local calendar, click  **Allow projects to use loc
 
 The  **EnterpriseBaseCalendar** property is available only in Project Professional.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

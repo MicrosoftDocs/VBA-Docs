@@ -30,3 +30,4 @@ Specifies whether the account is connected to an Exchange server and if so, the 
 | **olOffline**|100|The account is not connected to an Exchange server and is in the classic offline mode. This also occurs when the user selects  **Work Offline** from the **File** menu.|
 | **olOnline**|800|The account is connected to an Exchange server and is in the classic online mode.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

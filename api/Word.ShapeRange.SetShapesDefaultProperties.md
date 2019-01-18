@@ -34,3 +34,4 @@ New shapes inherit many of their attributes from the default shape.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

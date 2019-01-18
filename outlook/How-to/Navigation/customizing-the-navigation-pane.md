@@ -70,3 +70,4 @@ To detect a user change a folder in the Folder List, use the  **[BeforeFolderSwi
 
  [Adding Solution-Specific Folders to the Solutions Module](adding-solution-specific-folders-to-the-solutions-module.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

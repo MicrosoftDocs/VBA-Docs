@@ -26,3 +26,4 @@ Selects the object.
 
 [SeriesLines Object](PowerPoint.SeriesLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

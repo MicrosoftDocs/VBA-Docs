@@ -45,3 +45,4 @@ You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of th
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

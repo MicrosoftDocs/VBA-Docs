@@ -20,3 +20,4 @@ Contains constants that specify the Project Server account type.
 |**pjManagerAccount**|1|Manager account.|
 |**pjResourceAccount**|0|Resource account.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

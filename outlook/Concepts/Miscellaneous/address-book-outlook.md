@@ -31,5 +31,5 @@ localization_priority: Normal
 -  [Obtain the Email Address of a Recipient](../Address-Book/obtain-the-e-mail-address-of-a-recipient.md)
     
 -  [Programmatically Change the Display Format for All Contacts](../Address-Book/programmatically-change-the-display-format-for-all-contacts.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

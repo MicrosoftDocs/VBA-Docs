@@ -33,3 +33,4 @@ _expression_ A variable that represents a [PivotValueCell](Excel.pivotvaluecell.
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [AllReports.Item property (Access)](http://msdn.microsoft.com/library/24ef47fa-bc5e-f422-82a7-fbc980579f50%28Office.15%29.aspx)
 [AllModules.Item property (Access)](http://msdn.microsoft.com/library/9dfffe9b-afb2-a7e8-04f4-fbedb12a14a9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

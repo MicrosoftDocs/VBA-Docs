@@ -50,4 +50,4 @@ Set vsoValidationRuleSet = vsoDocument.Validation.RuleSets.Add("Connectivity")
 vsoValidationRuleSet.Enabled = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

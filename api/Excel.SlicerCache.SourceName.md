@@ -41,3 +41,4 @@ For OLAP slicers (**SlicerCache**. **OLAP** = **True**), returns the MDX unique 
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,3 +59,4 @@ The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 | **visLangLocal**|0|The page name is a local name.|
 | **visLangUniversal**|1|The page name is a universal name.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

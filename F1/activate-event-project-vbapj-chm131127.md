@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Project.TrackingMethod Property (Project)](http://msdn.microsoft.com/library/cda3f127-5fad-f486-f02d-6d6eeb0d5588%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

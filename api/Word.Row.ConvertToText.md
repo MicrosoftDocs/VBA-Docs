@@ -38,3 +38,4 @@ Converts a table to text and returns a  **Range** object that represents the del
 
 [Row Object](Word.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,5 +16,5 @@ For more information, see the following topics:
 -  [How to: Create a Combination Field for a Folder](../Specifying-Form-Behavior/create-a-combination-field-for-a-folder.md)
     
 -  [How to: Create a Formula Field for a Folder](../Specifying-Form-Behavior/create-a-formula-field-for-a-folder.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ End If
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

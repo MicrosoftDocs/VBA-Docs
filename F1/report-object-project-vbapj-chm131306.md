@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PayRates Object (Project)](http://msdn.microsoft.com/library/7aa54cc3-4e39-e3b1-f3aa-7599ac88d22a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,3 +52,4 @@ localization_priority: Normal
 | **pbWebSingleLineTextBox**|105|Web single-line textbox|
 | **pbWebWebComponent**|106|Web Web component|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,3 +65,5 @@ End Sub
 
 
 [Report.Apply Method](Project.report.apply.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

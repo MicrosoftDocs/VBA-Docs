@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [KeyBindings object (Word)](http://msdn.microsoft.com/library/d2e38b04-b7e1-b35c-e511-5988d132b074%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

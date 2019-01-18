@@ -34,3 +34,4 @@ The  **Visible** property for a PivotTable item is **True** if the item is curre
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

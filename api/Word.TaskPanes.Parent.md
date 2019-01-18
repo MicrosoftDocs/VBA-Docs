@@ -26,3 +26,4 @@ Returns an  **Object** that represents the parent object of the specified **Task
 
 [TaskPanes Collection](Word.TaskPanes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

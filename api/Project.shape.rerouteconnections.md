@@ -31,3 +31,5 @@ In general for applications that implement Office Art, the  **RerouteConnections
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [Parameters Object](Excel.Parameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

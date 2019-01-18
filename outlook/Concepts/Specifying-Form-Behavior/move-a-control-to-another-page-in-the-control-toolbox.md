@@ -16,4 +16,4 @@ localization_priority: Normal
 
  **Note**  If the page to which you want to move a control is not visible, increase the width of the  **Control Toolbox** to show all the pages, and then drag the control to the appropriate page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

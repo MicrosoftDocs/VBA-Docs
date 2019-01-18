@@ -32,3 +32,5 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 
 [Shape Object](Project.shape.md)
 [LineFormat](https://msdn.microsoft.com/library/office/ff194214%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

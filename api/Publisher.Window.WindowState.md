@@ -51,4 +51,4 @@ This example maximizes the Publisher window.
 ActiveWindow.WindowState = pbWindowStateMaximized
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

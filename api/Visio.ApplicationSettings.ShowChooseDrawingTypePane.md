@@ -33,4 +33,4 @@ Boolean
 
 Setting the  **ShowChooseDrawingTypePane** property is equivalent to setting the **Show New screen on launch** option on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

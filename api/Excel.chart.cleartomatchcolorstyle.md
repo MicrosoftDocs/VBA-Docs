@@ -37,3 +37,4 @@ Use this method to reset all the chart color formatting to the color style appli
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

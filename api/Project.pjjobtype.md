@@ -33,3 +33,5 @@ In the  **[Application.GetCacheStatusForProject](Project.application.getcachesta
 
 [GetCacheStatusForProject Property](Project.application.getcachestatusforproject.md)
 [PjCacheJobState Enumeration](Project.pjcachejobstate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

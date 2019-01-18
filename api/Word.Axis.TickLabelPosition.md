@@ -44,3 +44,4 @@ End With
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,5 @@ You can use the **PasswordChar** property to protect sensitive information, such
 - [Microsoft Forms examples](../../reference/user-interface-help/examples-microsoft-forms.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms concepts](../../reference/user-interface-help/concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

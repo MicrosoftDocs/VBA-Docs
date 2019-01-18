@@ -33,4 +33,4 @@ Nothing
 
 If you call the  **AutoSizeDrawing** method when the **Print zoom** setting in the user interface (on the **Print Setup** tab of the **Page Setup** dialog box on the **Design** tab) is set to **Fit to** (a specified number of sheets across and down), Visio returns an error, indicating that it cannot automatically resize that page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

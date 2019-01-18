@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarButton.Caption Property (Office)](http://msdn.microsoft.com/library/1147e08a-b9f4-3ea9-3a86-d13394aa1959%28Office.15%29.aspx)
 - [CommandBarControl.Caption Property (Office)](http://msdn.microsoft.com/library/6e625a77-60a9-eaa5-1d75-f5d8b6688180%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

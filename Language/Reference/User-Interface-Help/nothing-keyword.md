@@ -28,3 +28,5 @@ When several object variables refer to the same object, memory and system resour
 ## See also
 
 - [Keywords (VBA)](../keywords-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

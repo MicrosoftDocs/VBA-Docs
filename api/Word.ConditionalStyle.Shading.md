@@ -29,3 +29,4 @@ Returns a  **Shading** object that represents the shading formatting for the sty
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

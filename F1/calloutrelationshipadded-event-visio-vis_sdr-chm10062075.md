@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.CalloutRelationshipAdded Event (Visio)](http://msdn.microsoft.com/library/dafc001b-d85e-416d-8f6e-5617969d9f15%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

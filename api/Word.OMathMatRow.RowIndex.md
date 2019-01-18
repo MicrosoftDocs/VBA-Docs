@@ -29,3 +29,4 @@ Returns or sets a  **Long** that represents the ordinal position of a matrix row
 
 [OMathMatRow Object](Word.OMathMatRow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

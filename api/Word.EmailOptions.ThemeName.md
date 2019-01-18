@@ -46,3 +46,4 @@ Application.EmailOptions.ThemeName = "blueprnt 100"
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

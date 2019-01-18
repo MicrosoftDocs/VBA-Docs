@@ -39,4 +39,4 @@ If you set the  **BeginGroup** property of a **ToolbarItem** object to **True** 
 
  **Note**  In Microsoft Visio 2000, the only way to create a separator in a menu or a spacer in a toolbar was to add a dummy item with a  **CmdNum** property of zero, a **Caption** property that contained "", and an empty **MenuItems** or **ToolbarItems** collection. This technique continues to work in later versions.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

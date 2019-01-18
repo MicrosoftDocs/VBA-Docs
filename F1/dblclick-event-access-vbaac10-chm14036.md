@@ -32,3 +32,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Attachment.MouseDown event (Access)](http://msdn.microsoft.com/library/45056b32-a019-1284-35e4-fefab6ba2e3e%28Office.15%29.aspx)
 - [Attachment.MouseMove event (Access)](http://msdn.microsoft.com/library/61ec0bdb-6e39-a4a7-92aa-45d543e35109%28Office.15%29.aspx)
 - [Attachment.MouseUp event (Access)](http://msdn.microsoft.com/library/af4d03e6-af13-d91f-168f-70e90783aa2a%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,4 @@ Adds a  **Group** object to a **ResourceGroups** collection.
 
  **Group**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

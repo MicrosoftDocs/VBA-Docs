@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion2 Object (Project)](http://msdn.microsoft.com/library/06047a9d-a9db-43e0-e759-e24560da7128%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

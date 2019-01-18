@@ -49,3 +49,5 @@ In the XML used to customize the Ribbon user interface, you can set a tag as fol
 ## See also
 
 - [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

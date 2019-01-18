@@ -46,3 +46,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

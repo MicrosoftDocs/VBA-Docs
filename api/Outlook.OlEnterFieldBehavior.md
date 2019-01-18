@@ -23,3 +23,4 @@ Specifies the behavior when focus enters a control.
 | **olEnterFieldBehaviorRecallSelection**|1|The previous selection is displayed.|
 | **olEnterFieldBehaviorSelectAll**|0|The contents of the control are selected and any previous selection is ignored.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

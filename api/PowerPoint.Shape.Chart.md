@@ -34,3 +34,4 @@ Returns a  **Chart** object of the current **Shape** object. Read-only.
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

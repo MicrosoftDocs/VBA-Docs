@@ -39,3 +39,4 @@ An  **AddressEntries** collection object that contains **[AddressEntry](Outlook.
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

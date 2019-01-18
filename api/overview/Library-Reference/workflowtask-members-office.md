@@ -36,3 +36,4 @@ Represents a single workflow task in a **WorkflowTasks** collection.
 |[Name](../../Office.WorkflowTask.Name.md)|Gets the name of the **WorkflowTask** object. Read-only.|
 |[WorkflowID](../../Office.WorkflowTask.WorkflowID.md)|Gets the ID of the workflow associated with a workflow task. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

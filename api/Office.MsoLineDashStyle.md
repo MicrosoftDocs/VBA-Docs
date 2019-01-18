@@ -27,3 +27,4 @@ Specifies the dash style for a line.
 |**msoLineSolid**|1|Line is solid.|
 |**msoLineSquareDot**|2|Line is made up of square dots.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ With a scale of 28 decimal places, the largest value is +/-7.9228162514264337593
 
 - [Data type summary](data-type-summary.md)
 - [Data types keyword summary](data-types-keyword-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

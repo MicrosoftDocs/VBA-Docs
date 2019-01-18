@@ -29,3 +29,4 @@ Specifies constants that identify the types of raster export data compression; p
 | **visRasterLZW**|5|LZW compression.|TIFF|
 | **visRasterModifiedHuffman**|6|Modified Huffman compression.|TIFF|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

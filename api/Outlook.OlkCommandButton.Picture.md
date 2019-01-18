@@ -38,3 +38,4 @@ The picture is always displayed in the center of the button control. The picture
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

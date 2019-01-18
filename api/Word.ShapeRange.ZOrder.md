@@ -47,3 +47,4 @@ Use the  **[ZOrderPosition](Word.ShapeRange.ZOrderPosition.md)** property to det
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

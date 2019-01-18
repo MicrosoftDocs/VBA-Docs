@@ -51,3 +51,5 @@ MyNumber = Fix(-99.2)    ' Returns -99.
 
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

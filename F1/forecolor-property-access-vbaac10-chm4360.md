@@ -27,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ComboBox.ForeColor property (Access)](http://msdn.microsoft.com/library/32327754-0132-0e04-ef61-f94fa6b095f3%28Office.15%29.aspx)
 [FormatCondition.ForeColor property (Access)](http://msdn.microsoft.com/library/3d9c0474-3723-1250-28f9-fedee6bc6c4d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

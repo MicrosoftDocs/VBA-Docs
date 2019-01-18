@@ -52,3 +52,4 @@ The event does not fire under the following circumstances:
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

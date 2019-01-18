@@ -47,3 +47,4 @@ Windows.Item(1).WindowState = xlMaximized
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

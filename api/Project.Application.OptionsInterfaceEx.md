@@ -56,4 +56,4 @@ If an argument is omitted, the default value is specified by the setting on the 
 
 Using the  **OptionsInterfaceEx** method with no arguments displays the **Project Options** dialog box with the **General** tab selected. The **OptionsInterfaceEx** method is not available when a report view is active.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

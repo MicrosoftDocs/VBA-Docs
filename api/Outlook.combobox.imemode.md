@@ -46,4 +46,4 @@ The settings for fmIMEMode are:
 
 A setting of 0 indicates that the mode of the IME does not change when the control receives focus at run time. For any other value, the mode of the IME is set to the value specified by the  **IMEMode** property when the control receives focus at run time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Documents("Summary.doc").Sections(1).PageSetup.Gutter = 36
 
 [Sections Collection Object](Word.sections.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

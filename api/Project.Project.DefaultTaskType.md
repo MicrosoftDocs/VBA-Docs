@@ -25,4 +25,4 @@ Gets or sets the default task type. Read/write  **PjTaskFixedType**.
 
 The  **DefaultTaskType** property can be one of the following **[PjTaskFixedType](Project.PjTaskFixedType.md)** constants: **pjFixedDuration**, **pjFixedUnits**, or **pjFixedWork**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

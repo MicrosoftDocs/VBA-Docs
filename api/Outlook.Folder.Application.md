@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

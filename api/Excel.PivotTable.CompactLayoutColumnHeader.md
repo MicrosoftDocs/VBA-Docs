@@ -34,3 +34,4 @@ When the user customizes these captions in the grid, it is also reflected in the
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

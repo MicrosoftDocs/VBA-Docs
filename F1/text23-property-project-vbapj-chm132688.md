@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Text23 Property (Project)](http://msdn.microsoft.com/library/3263f528-dd9c-48c2-27fe-7f4ae69f2c11%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

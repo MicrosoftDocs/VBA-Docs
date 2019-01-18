@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Load](../../Office.ThemeEffectScheme.Load.md)|Loads the effects scheme of a Microsoft Office theme from a file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

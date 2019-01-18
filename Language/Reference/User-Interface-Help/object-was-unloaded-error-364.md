@@ -21,6 +21,5 @@ A form was unloaded from its own **_Load** procedure. This error has the followi
   ```
 
   Remove the **Unload** statement from the **Form_Load** procedure.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ ActiveDocument.Paragraphs(1).TabStops2(1).Clear
 
 [TabStop2 Object Members](./overview/Library-Reference/tabstop2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

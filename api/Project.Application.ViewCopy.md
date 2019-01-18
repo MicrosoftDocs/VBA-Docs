@@ -65,4 +65,4 @@ If the current view includes the Timeline in the top pane and the Gantt Chart in
 application.ViewCopy Name:="Copy of Timeline", ApplyTo:=1
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

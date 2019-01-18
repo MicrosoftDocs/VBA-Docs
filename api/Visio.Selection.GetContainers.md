@@ -50,4 +50,4 @@ The  _NestedOptions_ parameter must be one of the following **VisContainerNested
 
 You can use the  **[Shapes.ItemFromID](Visio.Shapes.ItemFromID.md)** property to get the actual shapes from the IDs returned by **GetContainers**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,3 +76,5 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

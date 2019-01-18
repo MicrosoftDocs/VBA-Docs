@@ -39,3 +39,4 @@ ActiveDocument.Endnotes.Location = wdEndOfSection
 
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

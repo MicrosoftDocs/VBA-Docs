@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PropertyPageSite](./Outlook.PropertyP
 
 [PropertyPageSite Object](Outlook.PropertyPageSite.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

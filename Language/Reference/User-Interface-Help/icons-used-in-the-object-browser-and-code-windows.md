@@ -31,3 +31,4 @@ The [Object Browser window](object-browser.md) and [Code window](code-window.md)
 |![Built-in keywords and types](../../../images/intrin_ZA01201811.gif)|Built-in keywords and types|
 |![Enum](../../../images/enum_ZA01201604.gif)|Enum|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

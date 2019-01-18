@@ -39,3 +39,4 @@ The  **[Width](Excel.Slicer.Width.md)** property of the **[Slicer](Excel.Slicer.
 
 [Slicer Object](Excel.Slicer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Specifies the worksheet type.
 | **xlExcel4MacroSheet**|3|Excel version 4 macro sheet|
 | **xlWorksheet**|-4167|Worksheet|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

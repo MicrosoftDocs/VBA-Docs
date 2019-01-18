@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarPopup.BeginGroup Property (Office)](http://msdn.microsoft.com/library/0ecc5c98-5db7-792c-8f33-86f7df32d912%28Office.15%29.aspx)
 - [CommandBarControl.BeginGroup Property (Office)](http://msdn.microsoft.com/library/529b8c23-ec1f-b37b-a40c-9ae6016f4dc0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

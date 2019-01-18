@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Rectangle.DblClick event (Access)](http://msdn.microsoft.com/library/cc43d05a-b8a6-8a6b-8baf-74ad3753515f%28Office.15%29.aspx)
 [Rectangle.MouseDown event (Access)](http://msdn.microsoft.com/library/10b02033-87d7-53af-2878-d9a0e14e7ec1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.DataRecordsetAdded Event (Visio)](http://msdn.microsoft.com/library/7a30f495-7bf7-b4ff-b971-e6ed6371383a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

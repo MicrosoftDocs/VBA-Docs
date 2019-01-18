@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

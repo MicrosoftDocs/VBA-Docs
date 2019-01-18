@@ -19,3 +19,4 @@ localization_priority: Normal
 |[Creator](../../Office.ThemeEffectScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeEffectScheme** object was created. Read-only.|
 |[Parent](../../Office.ThemeEffectScheme.Parent.md)|Gets the  **Parent** object for the **ThemeEffectScheme** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

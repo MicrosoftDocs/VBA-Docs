@@ -58,4 +58,4 @@ vsoDocument.Validation.RuleSets.Add("Connectivity")
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

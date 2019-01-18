@@ -69,3 +69,4 @@ If  _CompleteFormat_ is set to **True** , the string returned by this method con
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PivotItems](Excel.PivotItems.md) obje
 
 [PivotItems Object](Excel.PivotItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

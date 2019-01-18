@@ -28,4 +28,4 @@ Stops a Web page from loading in the active window. The  **StopWebBrowserControl
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

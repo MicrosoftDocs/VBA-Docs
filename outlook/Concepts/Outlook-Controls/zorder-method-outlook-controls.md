@@ -47,4 +47,4 @@ In design mode, the  **Bring to Front** or **Send To Back** commands set the z-o
 
 You can't Undo or Redo layering commands, such as  **Send To Back** or **Bring to Front**. For example, if you select an object and click  **Move Backward** on the shortcut menu, you won't be able to Undo or Redo that action.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

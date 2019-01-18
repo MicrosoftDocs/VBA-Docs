@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

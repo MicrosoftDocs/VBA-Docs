@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarPopup.Type Property (Office)](http://msdn.microsoft.com/library/1ef5e542-7fa6-1527-26d0-cf8a6c755979%28Office.15%29.aspx)
 [CommandBarControl.Type Property (Office)](http://msdn.microsoft.com/library/a0f20db6-a8a2-98e2-6f4e-efd9043df0c2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

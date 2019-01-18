@@ -65,3 +65,4 @@ The following table describes the values that can be used for  _Arg5_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

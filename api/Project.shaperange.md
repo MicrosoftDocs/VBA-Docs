@@ -177,3 +177,5 @@ theReport.Shapes("Big rectangle").Fill.ForeColor.RGB = RGB(120, 120, 80)
 [Shapes Object](Project.shapes.md)
  
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

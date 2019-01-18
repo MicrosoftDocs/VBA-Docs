@@ -16,4 +16,4 @@ To ensure that code in a form suspends operation until a pop-up form is closed, 
 doCmd.OpenForm FormName:=<Name of form to open>, WindowMode:=acDialog
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

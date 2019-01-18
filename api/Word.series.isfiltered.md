@@ -32,3 +32,4 @@ Returns or sets a  **Boolean** that determines whether the specified chart serie
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

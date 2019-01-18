@@ -32,4 +32,4 @@ Use the  **[CustomPropertyCount](Visio.CustomPropertyCount.md)**,  **[CustomProp
 
 Use events such as  **[OnLayerChanged](Visio.OnLayerChanged.md)** and **[OnSelectionChanged](Visio.OnSelectionChanged.md)** to respond to user input.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

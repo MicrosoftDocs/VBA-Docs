@@ -30,3 +30,4 @@ _expression_. `Parent`
 
 [SmartArtQuickStyle Object Members](./overview/Library-Reference/smartartquickstyle-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

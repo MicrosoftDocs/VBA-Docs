@@ -29,3 +29,4 @@ _expression_ A variable that represents a [TextEffectFormat](./Excel.TextEffectF
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

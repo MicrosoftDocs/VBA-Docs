@@ -29,3 +29,4 @@ Returns the previous mail merge field in the collection of mail merge fields. Re
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

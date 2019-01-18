@@ -37,3 +37,4 @@ Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)**.
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

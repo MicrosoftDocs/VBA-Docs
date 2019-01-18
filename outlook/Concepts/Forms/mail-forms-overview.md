@@ -28,5 +28,5 @@ For more information, see the following topics:
 -  [Form Regions](../Outlook-Forms/form-regions.md)
     
 -  [Making Separate Compose and Read Pages](../Configuring-Forms/make-separate-compose-and-read-versions-for-a-form.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

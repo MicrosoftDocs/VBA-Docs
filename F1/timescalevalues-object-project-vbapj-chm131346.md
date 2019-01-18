@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewsSingle Object (Project)](http://msdn.microsoft.com/library/bd6f698b-780f-294a-037b-45c63b9a1c23%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

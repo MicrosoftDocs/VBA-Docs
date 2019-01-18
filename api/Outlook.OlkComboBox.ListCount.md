@@ -34,3 +34,4 @@ The default value is zero, indicating that there are no items in the list.
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ For a line, the  **LineFormat** object represents the line itself; for a range o
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

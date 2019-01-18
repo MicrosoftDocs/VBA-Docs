@@ -24,3 +24,4 @@ Used with the  **PrintOut** method to specify the range to print.
 |**acPrintAll**|0|Prints all of the object.|
 |**acSelection**|1|Prints the selected part of the object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

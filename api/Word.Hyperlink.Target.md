@@ -48,3 +48,4 @@ ActiveDocument.Hyperlinks(1).Target = "left"
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

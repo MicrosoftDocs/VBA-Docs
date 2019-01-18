@@ -42,3 +42,4 @@ An  **Object** value that represents the item which has been moved to the design
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

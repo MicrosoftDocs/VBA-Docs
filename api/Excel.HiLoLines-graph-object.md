@@ -31,4 +31,4 @@ myChart.ChartGroups(1).HiLoLines.Border.Color = RGB(0, 0, 255)
 
 If the  **[HasHiLoLines](Excel.HasHiLoLines.md)** property is  **False**, most properties of the  **HiLoLines** object are disabled.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ localization_priority: Normal
 |[Reset](../../Office.CommandBarButton.Reset.md)|Resets a built-in  **CommandBarButton** control to its original function and face.|
 |[SetFocus](../../Office.CommandBarButton.SetFocus.md)|Moves the keyboard focus to the specified  **CommandBarButton** control. If the button is disabled or isn't visible, this method will fail.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

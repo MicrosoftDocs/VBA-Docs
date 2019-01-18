@@ -18,3 +18,4 @@ localization_priority: Normal
 |[PickSolution](../../Office.SmartDocument.PickSolution.md)|Displays a dialog box that allows the user to choose an available XML expansion pack to attach to the active document in Microsoft Word or a workbook in Microsoft Excel.|
 |[RefreshPane](../../Office.SmartDocument.RefreshPane.md)|Refreshes the  **Document Actions** task pane for the active document in Microsoft Word or a workbook in Microsoft Excel.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

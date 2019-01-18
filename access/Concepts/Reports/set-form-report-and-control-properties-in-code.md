@@ -79,5 +79,5 @@ For each property you want to set, you can look up the property in the Help inde
 - Which values you should use to set the property. You often use different settings when you set a property in Visual Basic instead of in the property sheet. For example, if the property settings are selections from a list, you must use the value or numeric equivalent for each selection.
     
 To set default properties for controls from Visual Basic, use the **DefaultControl** property.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

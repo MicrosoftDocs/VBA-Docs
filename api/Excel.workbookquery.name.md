@@ -27,4 +27,4 @@ _expression_ A variable that represents a 'WorkbookQuery' object.
 
 [WorkbookQuery Object](Excel.workbookquery.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,3 +50,4 @@ DoCmd.Close acReport, "Invoice", acSaveYes
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

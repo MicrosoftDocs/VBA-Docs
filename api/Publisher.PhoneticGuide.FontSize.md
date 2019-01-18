@@ -23,4 +23,4 @@ Returns a  **Variant** that represents the font size of phonetic characters. Rea
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

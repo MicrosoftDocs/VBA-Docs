@@ -34,3 +34,4 @@ CustomerData
 
 [Slide Object](PowerPoint.Slide.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

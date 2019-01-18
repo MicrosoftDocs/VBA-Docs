@@ -56,3 +56,4 @@ End If
 
 [FreeformBuilder Object](PowerPoint.FreeformBuilder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

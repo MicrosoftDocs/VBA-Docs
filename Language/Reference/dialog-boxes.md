@@ -56,4 +56,6 @@ Information about the options available in Visual Basic for Applications dialog 
 - [Error messages](error-messages.md) 
 - [Menus and commands](menus-commands.md) 
 - [Toolbars](toolbars.md) 
-- [Window elements](window-elements.md) 
+- [Window elements](window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

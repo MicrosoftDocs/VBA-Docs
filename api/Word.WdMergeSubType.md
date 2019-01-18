@@ -27,3 +27,4 @@ Specifies the data source to be attached to the current document.
 | **wdMergeSubTypeWord2000**|8|Microsoft Word 2000.|
 | **wdMergeSubTypeWorks**|4|Microsoft Works.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

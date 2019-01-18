@@ -57,5 +57,4 @@ You can use a **CancelEvent** action in a DblClick macro to cancel the second **
 
 To distinguish between the left, right, and middle mouse buttons, use the **MouseDown** and **MouseUp** events.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

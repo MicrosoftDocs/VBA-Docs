@@ -34,4 +34,4 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
 
 WorkflowTemplate
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

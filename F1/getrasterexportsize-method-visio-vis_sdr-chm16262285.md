@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GetRasterExportSize Method](http://msdn.microsoft.com/library/c1940edf-fbbd-d74d-7720-3eff902ea18a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

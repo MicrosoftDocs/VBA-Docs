@@ -27,3 +27,4 @@ localization_priority: Normal
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

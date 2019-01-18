@@ -29,3 +29,4 @@ Returns a  **Pane** object that represents the next document pane in the collect
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

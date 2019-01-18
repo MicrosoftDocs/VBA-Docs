@@ -29,3 +29,4 @@ Returns the number of objects in a collection. Read-only  **Long**.
 
 [Comments Collection](Visio.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

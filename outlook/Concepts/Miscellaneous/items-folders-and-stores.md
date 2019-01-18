@@ -43,5 +43,5 @@ localization_priority: Normal
 -  [Send an Email Given the SMTP Address of an Account (Outlook)](../../How-to/Items-Folders-and-Stores/send-an-e-mail-given-the-smtp-address-of-an-account-outlook.md)
     
 -  [Specify an Internet Encoding Scheme for the Body and Attachments of a Message](../../How-to/Items-Folders-and-Stores/specify-an-internet-encoding-scheme-for-the-body-and-attachments-of-a-message.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

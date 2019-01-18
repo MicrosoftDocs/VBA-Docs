@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Item](../../Office.ODSOColumns.Item.md)|Specifies an  **ODSOColumn** object in the **ODSOColumns** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

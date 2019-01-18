@@ -34,3 +34,4 @@ Outlook automatically adds a colon (:) to the value of the  **Prefix** property 
 
 [Action Object](Outlook.Action.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

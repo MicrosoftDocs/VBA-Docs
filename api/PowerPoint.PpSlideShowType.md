@@ -21,3 +21,4 @@ Constants that specify the type of slide show, passed to and returned by the  **
 |**ppShowTypeSpeaker**|1|Speaker|
 |**ppShowTypeWindow**|2|Window|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

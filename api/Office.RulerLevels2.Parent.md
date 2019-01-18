@@ -35,3 +35,4 @@ Object
 
 [RulerLevels2 Object Members](./overview/Library-Reference/rulerlevels2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

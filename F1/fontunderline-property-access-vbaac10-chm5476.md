@@ -27,3 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TabControl.FontUnderline property (Access)](http://msdn.microsoft.com/library/d19bccfa-4618-d95e-7467-eee15ba59336%28Office.15%29.aspx)
 [ToggleButton.FontUnderline property (Access)](http://msdn.microsoft.com/library/fef06d9f-f21f-a753-9822-f1e823ab10b4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

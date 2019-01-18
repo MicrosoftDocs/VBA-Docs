@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CalendarDrivers Object (Project)](http://msdn.microsoft.com/library/86fcfb21-a6d2-68a5-0cb0-d9a57f9028da%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

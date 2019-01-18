@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.KeyPreview property (Access)](http://msdn.microsoft.com/library/49ca195d-bd9e-7a69-1891-455581bcf09a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

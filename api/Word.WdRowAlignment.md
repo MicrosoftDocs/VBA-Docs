@@ -21,3 +21,4 @@ Specifies alignment for the content in selected rows.
 | **wdAlignRowLeft**|0|Left-aligned. Default.|
 | **wdAlignRowRight**|2|Right-aligned.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

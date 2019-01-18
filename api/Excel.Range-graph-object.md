@@ -85,4 +85,4 @@ Use _expression_. **Cells**( _row_,  _column_), where  _expression_ is an expres
 myChart.Application.Range("C5:C10").Cells(1, 1).Value = 35
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

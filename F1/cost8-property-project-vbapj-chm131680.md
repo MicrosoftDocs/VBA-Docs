@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Critical Property (Project)](http://msdn.microsoft.com/library/2282f751-adb3-d891-8d93-7e55723e2e7d%28Office.15%29.aspx)
 - [Assignment.Cost8 Property (Project)](http://msdn.microsoft.com/library/08c1c081-81af-37f7-00b8-cfc4d29df4e0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

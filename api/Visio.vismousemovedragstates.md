@@ -25,3 +25,4 @@ Constants returned by the  **MouseEvent.DragState** property.
 | **visMouseMoveDragStatesNone**|0|Either not a mouse movement or a mouse movement that is not a drag operation.|
 | **visMouseMoveDragStatesOver**|3|User is moving the dragged object within the drop-target window with the mouse.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

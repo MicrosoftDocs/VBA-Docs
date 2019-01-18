@@ -79,3 +79,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WorkWeekDays.Item Property (Project)](http://msdn.microsoft.com/library/70633ede-db5e-4948-f9b0-2258aa141b01%28Office.15%29.aspx)
 - [WorkWeeks.Item Property (Project)](http://msdn.microsoft.com/library/0d6d0d68-b930-20c9-06cf-da96f247d218%28Office.15%29.aspx)
 - [Years.Item Property (Project)](http://msdn.microsoft.com/library/87e6b7d1-b1a4-f1d8-f7b5-d9e5f5d4bb4b%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies the texture type for the selected fill.
 |**msoTextureTypeMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoTextureUserDefined**|2|User-defined texture type.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

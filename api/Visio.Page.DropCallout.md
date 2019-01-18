@@ -59,4 +59,4 @@ Application.ActivePage.DropCallout vsoDocument.Masters.ItemU("Text callout"), vs
 vsoDocument.Close
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

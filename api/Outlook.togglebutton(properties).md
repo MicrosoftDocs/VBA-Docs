@@ -49,5 +49,5 @@ localization_priority: Normal
 -  [ToggleButton.Value Property (Outlook Forms Script)](Outlook.togglebutton.value.md)
     
 -  [ToggleButton.WordWrap Property (Outlook Forms Script)](Outlook.togglebutton.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

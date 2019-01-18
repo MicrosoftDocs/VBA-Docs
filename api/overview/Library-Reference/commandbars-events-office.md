@@ -18,3 +18,4 @@ This object has the following events:
 |:-----|:-----|
 |[OnUpdate](../../Office.CommandBars.OnUpdate.md)|Occurs when any change is made to a command bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SignatureSetup.Id Property (Office)](http://msdn.microsoft.com/library/9520a91b-288e-1456-9661-84d76248d43e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the height of the specified shape range. Read/write  **Single**.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

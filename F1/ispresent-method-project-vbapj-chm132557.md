@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ScreenUpdating Property (Project)](http://msdn.microsoft.com/library/23260017-c550-4f2b-a57f-4d7f7c1c0d52%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

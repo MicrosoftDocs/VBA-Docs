@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.Initialize method (Excel)](http://msdn.microsoft.com/library/fe85e378-26c6-e573-21c1-b8a3ccbe4d71%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.PressedShade property (Access)](http://msdn.microsoft.com/library/8aa77c14-e9da-d4a2-015d-f1a2c2ced859%28Office.15%29.aspx)
 [ToggleButton.PressedShade property (Access)](http://msdn.microsoft.com/library/72176e9c-68bf-971c-3147-fea692240d17%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

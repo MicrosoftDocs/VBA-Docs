@@ -87,3 +87,4 @@ End Sub
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

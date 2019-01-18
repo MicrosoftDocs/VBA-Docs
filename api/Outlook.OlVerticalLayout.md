@@ -25,3 +25,4 @@ Specifies the alignment of controls in the vertical direction.
 | **olVerticalLayoutAlignMiddle**|1|Align controls vertically by the center of each control.|
 | **olVerticalLayoutAlignTop**|0|Align controls vertically by the top edge of each control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

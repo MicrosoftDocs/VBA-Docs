@@ -58,3 +58,4 @@ Given a value for probability, NORM_INV seeks that value x such that NORM_DIST(x
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

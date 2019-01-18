@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.AddHyperlink Method (Visio)](http://msdn.microsoft.com/library/fbf77a65-88a1-e710-60a2-efde9e7df968%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

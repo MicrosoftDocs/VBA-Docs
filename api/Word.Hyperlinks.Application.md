@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

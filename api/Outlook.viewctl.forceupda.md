@@ -18,4 +18,4 @@ Refreshes the view in the control, applying any property changes made since the 
 
 _expression_ A variable that represents a  **ViewCtl** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

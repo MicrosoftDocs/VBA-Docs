@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.CustomDocumentProperties Property (Project)](http://msdn.microsoft.com/library/49e532bc-4bc2-c9e7-c6d0-253540572093%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

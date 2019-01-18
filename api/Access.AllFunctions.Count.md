@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AllFunctions](Access.AllFunctions.md
 
 [AllFunctions Collection](Access.AllFunctions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

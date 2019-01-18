@@ -23,6 +23,6 @@ Gets or sets the width in points of the main window in the Project application. 
 
 ## Remarks
 
-A window changes its width by moving its right edge, leaving the left edge unaffected. 
+A window changes its width by moving its right edge, leaving the left edge unaffected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

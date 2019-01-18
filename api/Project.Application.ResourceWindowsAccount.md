@@ -42,4 +42,4 @@ Sets the security identifier for Microsoft Windows authentication for the select
 
 The  **ResourceWindowsAccount** method is only available in resource views. If the optional Security Identifier field in the Address Book is blank, the **ResourceWindowsAccount** method has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

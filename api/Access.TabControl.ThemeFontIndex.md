@@ -45,3 +45,4 @@ This property is not surfaced in the property sheet.
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

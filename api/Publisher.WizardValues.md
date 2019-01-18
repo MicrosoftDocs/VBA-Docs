@@ -54,3 +54,4 @@ End With
 |[Item](Publisher.WizardValues.Item.md)|
 |[Parent](Publisher.WizardValues.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

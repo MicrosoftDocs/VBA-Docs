@@ -15,5 +15,5 @@ You cannot customize the default pages of an appointment form by using Microsoft
 - You can hide the default pages that cannot be customized. However, because those pages provide much of the Outlook appointment scheduling, it is recommended that instead of hiding them, you create new pages with additional functionality. You can also use form regions to customize the default pages by using the page control. 
     
 - Meeting request forms are not designed to be customized. Instead, customize an appointment form. The custom form is used when the appointment is converted to a meeting.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

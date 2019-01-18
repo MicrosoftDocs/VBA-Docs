@@ -60,4 +60,4 @@ The following line of code resets the border color and fill color of auto-schedu
 ResetTPStyle Style:=pjTPScheduledWork
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

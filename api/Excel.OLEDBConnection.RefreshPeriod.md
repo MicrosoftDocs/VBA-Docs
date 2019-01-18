@@ -34,3 +34,4 @@ Setting the period to 0 (zero) disables automatic timed refreshes and is equival
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

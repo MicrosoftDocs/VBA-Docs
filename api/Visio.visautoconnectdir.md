@@ -24,3 +24,4 @@ Auto-connect direction constants passed to the  **Shape.AutoConnect** method.
 | **visAutoConnectDirRight**|4|Place shape to the right.|
 | **visAutoConnectDirUp**|1|Place shape above.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

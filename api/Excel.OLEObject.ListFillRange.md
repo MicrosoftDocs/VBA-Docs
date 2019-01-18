@@ -36,3 +36,4 @@ If the list in the list box was created with the  **[AddItem](Excel.ControlForma
 
 [OLEObject Object](Excel.OLEObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

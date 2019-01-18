@@ -30,4 +30,4 @@ If the value is greater than 0, all tabs have an identical width as specified by
 
 The minimum size is 4 points.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

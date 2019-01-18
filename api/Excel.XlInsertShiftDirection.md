@@ -20,3 +20,4 @@ Specifies the direction in which to shift cells during an insertion.
 | **xlShiftDown**|-4121|Shift cells down.|
 | **xlShiftToRight**|-4161|Shift cells to the right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -132,3 +132,4 @@ End Sub
 |[Underline](./Publisher.Font.Underline.md)|
 |[UseDiacriticColor](./Publisher.Font.UseDiacriticColor.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

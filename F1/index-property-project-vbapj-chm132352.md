@@ -40,3 +40,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TimeScaleValue.Index Property (Project)](http://msdn.microsoft.com/library/ebb523d2-cf85-180c-6808-ea83c8d8a5ba%28Office.15%29.aspx)
 [Calendar.Index Property (Project)](http://msdn.microsoft.com/library/ad177421-1e7b-5c85-e437-f3d2b83a66c5%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

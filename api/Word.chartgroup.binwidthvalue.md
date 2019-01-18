@@ -27,3 +27,4 @@ Specifies the number of points in each range. Read/write  **Double**.
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

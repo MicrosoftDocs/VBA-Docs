@@ -21,3 +21,4 @@ Specifies the type of version for the document checked in when using the  **Chec
 | **xlCheckInMinorVersion**|0|Check in the minor version.|
 | **xlCheckInOverwriteVersion**|2|Overwrite current version on the server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

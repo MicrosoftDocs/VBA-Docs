@@ -50,3 +50,4 @@ The **WorksheetFunction.Trim** method in Excel differs from the **[Trim](https:/
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

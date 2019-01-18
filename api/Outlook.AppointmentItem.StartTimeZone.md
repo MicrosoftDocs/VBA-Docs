@@ -42,3 +42,4 @@ Another example is changing the  **StartTimeZone** resulting in an appointment e
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

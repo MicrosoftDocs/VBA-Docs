@@ -31,4 +31,4 @@ myChart.Legend.Font.Bold = True
 
 The chart legend isn't visible unless the  **[HasLegend](Excel.HasLegend.md)** property is  **True**. If this property is  **False**, properties and methods of the  **Legend** object will fail.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

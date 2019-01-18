@@ -100,4 +100,4 @@ End Sub
 
 For more information about the  **Addons** collection, the **Application** and **Addon** objects and the **DocumentSaved** event, see the Visio Automation Reference (click **Help**, click  **Search**, and then click  **Developer Reference**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,3 +52,4 @@ Selection.Previous(Unit:=wdParagraph, Count:=1).Select
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

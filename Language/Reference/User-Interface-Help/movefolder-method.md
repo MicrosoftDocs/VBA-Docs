@@ -50,3 +50,4 @@ An error also occurs if a wildcard character that is used in _source_ doesn't ma
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

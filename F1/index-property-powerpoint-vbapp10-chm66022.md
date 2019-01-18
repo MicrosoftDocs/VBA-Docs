@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Trendline.Index Property (PowerPoint)](http://msdn.microsoft.com/library/389945bc-3115-6244-1d5a-79961bf8ca68%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

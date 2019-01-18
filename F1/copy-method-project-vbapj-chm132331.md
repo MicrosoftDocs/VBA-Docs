@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskDependency.Lag Property (Project)](http://msdn.microsoft.com/library/d3370ea3-5485-24d5-e363-ec4b5a0ec95b%28Office.15%29.aspx)
 - [TaskGroups2.Copy Method (Project)](http://msdn.microsoft.com/library/7afc3518-e5bb-52be-0a45-edb436381250%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

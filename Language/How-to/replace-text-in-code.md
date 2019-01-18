@@ -38,3 +38,4 @@ localization_priority: Normal
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

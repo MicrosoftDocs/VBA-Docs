@@ -30,3 +30,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [Exceptions Collection Object](Project.exceptions.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

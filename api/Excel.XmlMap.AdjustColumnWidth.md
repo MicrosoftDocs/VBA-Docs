@@ -34,3 +34,4 @@ The maximum column width is two-thirds the width of the screen.
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

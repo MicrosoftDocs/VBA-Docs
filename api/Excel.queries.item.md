@@ -39,4 +39,4 @@ _expression_ A variable that represents a 'Queries' object.
 
 [Queries Object](Excel.queries.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Add](../../Office.FileTypes.Add.md)|Adds a new file type to a file search.|
 |[Remove](../../Office.FileTypes.Remove.md)|Removes a  **FileType** object from the collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

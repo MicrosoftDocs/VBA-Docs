@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ChartType Property (PowerPoint)](http://msdn.microsoft.com/library/5a806b77-1efd-fd3a-132f-f6e3afd7315d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

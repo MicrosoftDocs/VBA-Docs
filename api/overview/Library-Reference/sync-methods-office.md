@@ -19,3 +19,4 @@ localization_priority: Normal
 |[ResolveConflict](../../Office.Sync.ResolveConflict.md)|Resolves conflicts between the local and the server copies of a shared document.|
 |[Unsuspend](../../Office.Sync.Unsuspend.md)|Resumes synchronization between the local copy and the server copy of a shared document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

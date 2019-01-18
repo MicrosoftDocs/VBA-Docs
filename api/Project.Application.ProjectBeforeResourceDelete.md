@@ -41,4 +41,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The  **ProjectBeforeResourceDelete** event doesn't occur when changes have been made using a custom form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

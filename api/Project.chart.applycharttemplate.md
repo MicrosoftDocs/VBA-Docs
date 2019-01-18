@@ -36,3 +36,5 @@ Applies a standard or custom chart type to a chart.
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

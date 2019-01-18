@@ -50,3 +50,4 @@ Forms.Item("Purchase Orders").Controls.Item("Preview"). _
 
 [CommandButton Object](Access.CommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

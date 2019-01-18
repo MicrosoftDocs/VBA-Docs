@@ -35,3 +35,5 @@ The results of the **Copy** method on a **File** or **Folder** are identical to 
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

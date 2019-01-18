@@ -22,3 +22,5 @@ Use the table of contents in the navigation on the left to view the topics in th
 ## See also
 
 - [Access (Office client development)](https://docs.microsoft.com/office/client-developer/access/access-home)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

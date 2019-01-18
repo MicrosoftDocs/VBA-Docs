@@ -47,3 +47,4 @@ If fldTemp.Type = wdFieldGoToButton Then fldTemp.DoClick
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

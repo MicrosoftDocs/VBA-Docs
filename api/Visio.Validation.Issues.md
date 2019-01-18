@@ -42,4 +42,4 @@ Set vsoDocument = Visio.ActiveDocument
 Set vsoIssues = vsoDocument.Validation.Issues
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

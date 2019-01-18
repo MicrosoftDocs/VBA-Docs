@@ -70,3 +70,4 @@ End Sub
 You can find more information about writing a program in the VBA environment and about the Visual Basic Editor in Visual Basic Help (in the Visual Basic Editor window, on the  **Help** menu, click **Microsoft Visual Basic Help**).
 You can find details about using a specific Visio object, property, method, enumeration, or event in this reference.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

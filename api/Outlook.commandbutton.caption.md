@@ -29,4 +29,4 @@ The  **[ForeColor](Outlook.commandbutton.forecolor.md)** property of the control
 
 Setting  **[AutoSize](Outlook.commandbutton.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

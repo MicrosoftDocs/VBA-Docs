@@ -34,3 +34,4 @@ The default value is  **True**.
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

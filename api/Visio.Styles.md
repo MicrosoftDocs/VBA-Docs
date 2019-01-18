@@ -23,4 +23,4 @@ To retrieve a  **Styles** collection, use the **Styles** property of a **Documen
 
 The default property of a  **Styles** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

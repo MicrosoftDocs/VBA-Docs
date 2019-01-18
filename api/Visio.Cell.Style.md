@@ -37,4 +37,4 @@ If a  **Cell** object is in a style, its **Style** property returns the style th
 
 If a  **Cell** object is in a shape, its **Shape** property returns the shape that contains the cell, and its **Style** property returns **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

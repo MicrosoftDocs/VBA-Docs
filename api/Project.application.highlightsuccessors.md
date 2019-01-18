@@ -61,3 +61,5 @@ Application.HighlightSuccessors True
 
 
 [Task.PathSuccessor Property](Project.task.pathsuccessor.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ You can use an object's name in conjunction with the  **Item** method or **Item*
 
 The  **Name** property is the default property for the **BorderArt**,  **BorderArtFormat**, and  **Label** objects.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

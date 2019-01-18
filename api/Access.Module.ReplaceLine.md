@@ -48,3 +48,4 @@ Lines in a module are numbered beginning with one. To determine the number of li
 
 [Module Object](Access.Module.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,4 +19,4 @@ Use  **[Application.GetNamespace](../../../api/Outlook.Application.GetNamespace.
 Set myUser = Application.GetNameSpace("MAPI").CurrentUser
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

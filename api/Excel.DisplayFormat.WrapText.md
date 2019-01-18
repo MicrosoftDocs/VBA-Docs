@@ -39,3 +39,4 @@ Returns  **True** if text is wrapped in all cells within the range.
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

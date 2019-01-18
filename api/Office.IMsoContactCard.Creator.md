@@ -25,3 +25,4 @@ _expression_ An expression that returns an **[IMsoContactCard](Office.IMsoContac
 
 - [IMsoContactCard object members](overview/library-reference/imsocontactcard-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

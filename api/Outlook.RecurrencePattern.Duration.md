@@ -36,3 +36,4 @@ To create a duration of one day for an all-day event, set the duration equal to 
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

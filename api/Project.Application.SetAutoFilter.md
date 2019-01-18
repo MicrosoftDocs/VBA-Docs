@@ -86,4 +86,4 @@ If there is an AutoFilter set for the "% Work Complete" field, the following lin
 Application.SetAutoFilter FieldName:="% Work Complete"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

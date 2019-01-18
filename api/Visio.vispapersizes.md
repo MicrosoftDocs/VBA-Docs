@@ -32,3 +32,4 @@ Flags passed to or returned by the  **Document.PaperSize** property.
 | **visPaperSizeSizeE**|26|E size sheet 34 x 44 in.|
 | **visPaperSizeUnknown**|0|Unknown|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

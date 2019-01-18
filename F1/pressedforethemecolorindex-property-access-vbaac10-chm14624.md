@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TabControl.PressedForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/c7fed49b-7d46-f278-da70-2e3995554af4%28Office.15%29.aspx)
 [NavigationButton.PressedForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/3c8ee610-503b-1d9d-80e3-6a4dcbcb9b5b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.ShortcutMenuBar property (Access)](http://msdn.microsoft.com/library/620de877-2164-6426-90b8-c72a6db637fd%28Office.15%29.aspx)
 - [ToggleButton.ShortcutMenuBar property (Access)](http://msdn.microsoft.com/library/ba7ac65f-644c-b75c-12cc-565cd27a7162%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

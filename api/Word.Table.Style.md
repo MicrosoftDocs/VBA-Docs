@@ -34,3 +34,4 @@ To set this property, you can specify the local name of the style, an integer, a
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

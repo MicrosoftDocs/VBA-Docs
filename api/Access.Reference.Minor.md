@@ -52,3 +52,4 @@ MsgBox "Current References: " & vbCrLf & strInfo
 
 [Reference Object](Access.Reference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

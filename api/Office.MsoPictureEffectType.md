@@ -46,3 +46,4 @@ Specifies constants that define the types of picture effects.
 |**msoEffectTexturizer**|27|Texturizer effect.|
 |**msoEffectWatercolorSponge**|28|Watercolor sponge effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

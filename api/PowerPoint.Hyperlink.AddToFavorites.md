@@ -34,3 +34,4 @@ The shortcut name is the display name of the document, if that's available; othe
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

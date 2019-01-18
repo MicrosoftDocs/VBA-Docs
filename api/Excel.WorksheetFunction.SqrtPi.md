@@ -47,3 +47,4 @@ If number < 0, SQRTPI returns the #NUM! error value.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

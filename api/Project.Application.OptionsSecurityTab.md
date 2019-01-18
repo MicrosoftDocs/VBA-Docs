@@ -36,4 +36,4 @@ Displays a specific tab of the  **Trust Center** dialog box in Project.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

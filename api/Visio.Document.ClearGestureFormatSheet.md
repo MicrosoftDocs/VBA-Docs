@@ -37,4 +37,4 @@ A document's Gesture Format sheet also gets cleared automatically when the docum
 
 For details about the Gesture Format sheet, see the  **GestureFormatSheet** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

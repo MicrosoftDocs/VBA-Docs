@@ -22,4 +22,4 @@ Represents a mathematical equation array object, consisting of one or more equat
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

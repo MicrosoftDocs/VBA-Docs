@@ -42,4 +42,4 @@ This type of connection can only be used by query tables in Excel
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

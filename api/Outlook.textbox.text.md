@@ -27,4 +27,4 @@ Any value you assign to the  **Text** property is also assigned to the **[Value]
 
 The  **[ForeColor](Outlook.textbox.forecolor.md)** property determines the color of the text.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

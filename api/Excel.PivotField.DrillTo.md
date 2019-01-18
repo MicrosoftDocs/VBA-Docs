@@ -42,3 +42,4 @@ This operation can only be performed on fields that are actually on the PivotTab
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

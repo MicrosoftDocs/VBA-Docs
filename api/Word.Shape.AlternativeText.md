@@ -29,3 +29,4 @@ Returns or sets the alternative text associated with a shape in a Web page. Read
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

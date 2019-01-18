@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.Position Property (PowerPoint)](http://msdn.microsoft.com/library/3edff433-2d69-84b4-671b-060824c88531%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

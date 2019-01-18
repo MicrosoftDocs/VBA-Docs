@@ -79,3 +79,5 @@ Number of global reports: 21
 
 
 [Reports Object](Project.reports.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Use this procedure to customize a Microsoft Outlook form page. To customize a fo
     
      **Note**  The  **Menu and Toolbar** and **Menu only** options apply only to forms displayed in versions of Outlook earlier than Microsoft Office Outlook 2007.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

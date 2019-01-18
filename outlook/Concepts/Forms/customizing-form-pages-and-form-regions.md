@@ -34,4 +34,4 @@ This topic compares customizing forms on form pages with customizing forms on fo
 | **Support for localized user interface**|No|Supports localized strings for form region names, control names, and user actions based on locale.|
 | **Sharing between solutions**| Each custom form can only be customized by one add-in (except through the **[ModifiedFormPages](../../../api/Outlook.Inspector.ModifiedFormPages.md)** property of the **[Inspector](../../../api/Outlook.Inspector.md)** object).|Except for the message class IPM, a form for any message class can be customized by more than one add-in. |
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

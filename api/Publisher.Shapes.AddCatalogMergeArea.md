@@ -58,4 +58,4 @@ The following example adds a catalog merge area to the first page of the specifi
 ThisDocument.Pages(1).Shapes.AddCatalogMergeArea
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

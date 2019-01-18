@@ -34,3 +34,4 @@ The font is expressed as the Microsoft Windows type  **StdFont**.
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

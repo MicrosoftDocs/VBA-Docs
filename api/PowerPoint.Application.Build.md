@@ -44,3 +44,4 @@ MsgBox Prompt:=Application.Build, Title:="PowerPoint Build"
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

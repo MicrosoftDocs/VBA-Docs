@@ -25,3 +25,4 @@ Link replacement behavior constants passed to and returned by the  **[DataRecord
 | **visLinkReplaceNever**|0|Never replace links when linking to a shape that has existing links.|
 | **visLinkReplacePrompt**|2|Prompt the user before replacing links when the user attempts to create links in the Microsoft Office Visio user interface.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

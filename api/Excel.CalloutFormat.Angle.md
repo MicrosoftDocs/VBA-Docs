@@ -45,3 +45,4 @@ myDocument.Shapes("callout1").Callout.Angle = msoCalloutAngle90
 
 [CalloutFormat Object](Excel.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

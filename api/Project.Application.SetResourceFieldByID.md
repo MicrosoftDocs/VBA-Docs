@@ -46,4 +46,4 @@ Sets the value of a resource field specified by the field identification number.
 
 To set a resource field by name, use the  **[SetResourceField](Project.Application.SetResourceField.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

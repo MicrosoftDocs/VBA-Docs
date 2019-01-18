@@ -38,3 +38,4 @@ You can also use the Visual Basic  **Beep** statement to cause your computer to 
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.EnterpriseTeamMember Method (Project)](http://msdn.microsoft.com/library/a89acb10-02c3-0e2d-66b2-2d448514d919%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

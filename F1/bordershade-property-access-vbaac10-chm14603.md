@@ -36,3 +36,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.BorderShade property (Access)](http://msdn.microsoft.com/library/d490ce4a-9c25-e6cc-adc4-4a8883167175%28Office.15%29.aspx)
 - [WebBrowserControl.BorderShade property (Access)](http://msdn.microsoft.com/library/5a5023af-4e30-48a8-9fd8-129049116270%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

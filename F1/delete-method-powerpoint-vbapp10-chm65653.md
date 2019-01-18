@@ -29,3 +29,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [SeriesLines.Delete Method (PowerPoint)](http://msdn.microsoft.com/library/49fe8a74-cc15-64e0-f1b9-ab52d248a3a9%28Office.15%29.aspx)
 - [Trendline.Delete Method (PowerPoint)](http://msdn.microsoft.com/library/f82667ba-dc60-8641-7b2c-d0f1a916643d%28Office.15%29.aspx)
 - [UpBars.Delete Method (PowerPoint)](http://msdn.microsoft.com/library/5aeca91a-e54e-0e21-1109-f1810ee13995%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

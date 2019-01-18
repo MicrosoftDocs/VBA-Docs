@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Left property (Access)](http://msdn.microsoft.com/library/a184b336-215d-ffe0-d7ce-92f1fdc3b656%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 
 [CommandButton Object](Access.CommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

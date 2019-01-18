@@ -28,4 +28,4 @@ localization_priority: Normal
 
 The  **EnterpriseInactive** property is available only in Project Professional.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

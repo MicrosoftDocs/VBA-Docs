@@ -42,3 +42,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,4 @@ In DASL syntax, you must convert True/False to an integer value, where 0 represe
 criteria = "@SQL=" & Chr(34) & "urn:schemas:httpmail:read" & Chr(34) _ & " = 0"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

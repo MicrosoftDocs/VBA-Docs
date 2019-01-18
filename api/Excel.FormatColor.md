@@ -67,3 +67,4 @@ End Sub
 
 [ColorScaleCriterion.FormatColor Property](excel.colorscalecriterion.formatcolor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

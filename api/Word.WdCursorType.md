@@ -22,3 +22,4 @@ Specifies the state (shape) of the cursor.
 | **wdCursorNorthwestArrow**|3|Diagonal cursor shape starting at upper-left corner.|
 | **wdCursorWait**|0|Hourglass cursor shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

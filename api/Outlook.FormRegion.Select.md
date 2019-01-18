@@ -34,3 +34,4 @@ If the form region is an adjoining form region, then  **Select** will expand the
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

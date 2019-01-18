@@ -32,3 +32,4 @@ You can specify the functionality, behavior, and other innate properties of a fo
 | **icons** and its child elements|Specify custom icons for a form region.| [How to: Specify Icons to be Displayed for a Form Region](../Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)|
 | **stringOverride** and its child elements|Specify locale-specific strings in the user interface of a form region.| [How to: Specify Locale-Specific User Interface for a Form Region](specify-locale-specific-user-interface-for-a-form-region.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

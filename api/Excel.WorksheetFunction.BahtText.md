@@ -49,3 +49,4 @@ In Excel for the Macintosh, you can change the Baht number format to a different
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ The  **WeekLabelDisplay** property corresponds to the **Weeks** list on the **Ad
 
 Values of the  **WeekLabelDisplay** property can be 0 to 2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

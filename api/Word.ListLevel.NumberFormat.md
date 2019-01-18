@@ -55,3 +55,4 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=LT
 
 [ListLevel Object](Word.ListLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

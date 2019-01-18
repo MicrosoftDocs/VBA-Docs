@@ -49,3 +49,4 @@ If the node specified by the  _Item_ parameter does not have a parent item in th
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

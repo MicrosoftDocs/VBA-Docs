@@ -30,4 +30,4 @@ The following code shows how to set the number of columns in the text frame of t
  ActivePresentation.Slides(1).Shapes(1).TextFrame2.Column.Number = 2
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

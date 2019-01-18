@@ -36,3 +36,4 @@ The parent of the  **ConversationHeader** object returns a **[Selection](Outlook
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

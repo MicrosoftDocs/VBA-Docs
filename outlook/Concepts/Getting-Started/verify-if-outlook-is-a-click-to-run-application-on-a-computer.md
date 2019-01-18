@@ -24,6 +24,5 @@ HKEY_LOCAL_MACHINE\Software\Microsoft\Office\15.0\Common\InstallRoot\Virtual\Vir
 ```
 
 -  The `VirtualOutlook` key is a REG_SZ value that contains the culture tag of the installed product language, such as "en-us".
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

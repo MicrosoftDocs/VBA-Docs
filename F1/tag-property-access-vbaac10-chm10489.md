@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Tag property (Access)](http://msdn.microsoft.com/library/5099e435-8957-e54c-9c6c-bc6b063cfe66%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

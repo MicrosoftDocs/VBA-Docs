@@ -78,3 +78,5 @@ Engagement objects expose a  **Resource Plan** view, enabling users to display a
 
 
 [Project object model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 [Break Object](Word.Break.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

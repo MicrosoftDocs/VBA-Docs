@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CategoryRuleCondition](./Outlook.Cate
 
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

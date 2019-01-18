@@ -28,3 +28,4 @@ Specifies the folder to be obtained for unified groups. Because groups have both
 
 [Store.CreateUnifiedGroup Method (Outlook)](Outlook.store.createunifiedgroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

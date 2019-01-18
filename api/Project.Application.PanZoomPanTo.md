@@ -51,4 +51,4 @@ PanZoomPanTo Start:="3/18/2012"
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

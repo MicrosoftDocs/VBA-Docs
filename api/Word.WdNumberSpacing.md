@@ -21,3 +21,4 @@ Specifies the number spacing setting for an OpenType font.
 | **wdNumberSpacingProportional**|1|Applies proportional number spacing to the font.|
 | **wdNumberSpacingTabular**|2|Applies tabular number spacing to the font.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Type Property (Project)](http://msdn.microsoft.com/library/04a44733-c528-5887-113e-bdc70db8bb7a%28Office.15%29.aspx)
 [Project.Type Property (Project)](http://msdn.microsoft.com/library/13393b8e-283d-d816-283e-f363b83eac91%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

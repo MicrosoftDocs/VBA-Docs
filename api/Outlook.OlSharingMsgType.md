@@ -27,3 +27,4 @@ Indicates the type of sharing message represented by a  **[SharingItem](Outlook.
 | **olSharingMsgTypeResponseDeny**|5|Represents a sharing response, which indicates that a sharing request or sharing invitation has been denied.|
 | **olSharingMsgTypeUnknown**|0|Represents an unknown type of sharing message.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

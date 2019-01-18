@@ -26,3 +26,4 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 [LegendEntries Object](PowerPoint.LegendEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

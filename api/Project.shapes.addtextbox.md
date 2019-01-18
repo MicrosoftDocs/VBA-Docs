@@ -90,3 +90,5 @@ End Sub
 [Shape Object](Project.shape.md)
 [TextFrame2 Property](Project.shape.textframe2.md)
 [MsoTextOrientation Enumeration (Office)](https://msdn.microsoft.com/library/office/ff862778%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

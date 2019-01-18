@@ -25,4 +25,4 @@ Specifies whether a PivotTable value cell has been edited or recalculated since 
 
 Applying and saving changes applies only to PivotTable reports with OLAP data sources. For more information about the meaning of the  **xlCellChangedState** enumeration constant values, see the **[CellChanged](Excel.PivotCell.CellChanged.md)** property of the **[PivotCell](Excel.PivotCell.md)** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

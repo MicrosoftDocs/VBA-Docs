@@ -28,3 +28,4 @@ Constants representing days of the week.
 | **olTuesday**|4|Tuesday|
 | **olWednesday**|8|Wednesday|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

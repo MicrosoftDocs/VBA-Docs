@@ -44,3 +44,4 @@ MsgBox "The name of the active Protected View window is " & ActiveProtectedWindo
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

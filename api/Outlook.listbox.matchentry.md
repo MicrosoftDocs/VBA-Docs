@@ -51,4 +51,4 @@ bchij
 
 Note that in either case, the matched entry is not unique; however, it is sufficiently different from the adjacent entry that the control interprets the match as unambiguous and initiates the  **Click** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies the type of link.
 | **xlPublishers**|5|Macintosh only.|
 | **xlSubscribers**|6|Macintosh only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

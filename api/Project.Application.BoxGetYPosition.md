@@ -37,4 +37,4 @@ Returns the vertical position of the upper-left corner of a box in the active Ne
 
  **Long**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

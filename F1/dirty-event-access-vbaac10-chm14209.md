@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Dirty event (Access)](http://msdn.microsoft.com/library/d6073892-7618-8e23-1fb1-795d3c76c2b6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

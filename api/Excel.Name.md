@@ -106,3 +106,5 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

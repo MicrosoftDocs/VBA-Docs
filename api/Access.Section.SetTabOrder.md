@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Section](Access.Section.md) object.
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

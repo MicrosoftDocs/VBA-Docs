@@ -44,3 +44,4 @@ For linear adjustments, an adjustment value of 0.0 generally corresponds to the 
 
 [Adjustments Object](Excel.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

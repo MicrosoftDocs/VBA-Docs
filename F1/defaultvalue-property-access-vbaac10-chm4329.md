@@ -22,4 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.DefaultValue property (Access)](http://msdn.microsoft.com/library/fab86da0-e865-478c-80c6-7681c5733059%28Office.15%29.aspx)
 - [ToggleButton.DefaultValue property (Access)](http://msdn.microsoft.com/library/95809409-a347-33d6-4268-2b66fb1f2ac6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

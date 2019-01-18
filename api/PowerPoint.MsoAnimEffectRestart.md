@@ -21,3 +21,4 @@ Specifies whether the animation effect restarts after the effect has started onc
 |**msoAnimEffectRestartNever**|3|Never restarts.|
 |**msoAnimEffectRestartWhenOff**|2|Restarts when animation is off.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

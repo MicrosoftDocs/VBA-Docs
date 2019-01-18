@@ -47,3 +47,4 @@ The  **GetAssociatedTask** method will not work unless the **TaskItem** is proce
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

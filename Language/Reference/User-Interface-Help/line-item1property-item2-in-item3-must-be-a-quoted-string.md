@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) that should appear inside quotation marks (" "), but the quotation marks are missing. This line in the form description is ignored.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

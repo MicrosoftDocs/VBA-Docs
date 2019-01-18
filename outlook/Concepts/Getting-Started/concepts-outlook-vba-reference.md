@@ -28,5 +28,4 @@ This section provides important concepts for developing custom Outlook solutions
 - [Basic control tasks](../Specifying-Form-Behavior/basic-control-tasks.md)
 - [Secondary control tasks](../Specifying-Form-Behavior/secondary-control-tasks.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

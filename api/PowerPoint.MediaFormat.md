@@ -22,3 +22,4 @@ Contains methods and properties that allow access to and control over audio and 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

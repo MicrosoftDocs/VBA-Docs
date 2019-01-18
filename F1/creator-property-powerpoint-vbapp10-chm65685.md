@@ -54,3 +54,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [UpBars.Creator Property (PowerPoint)](http://msdn.microsoft.com/library/e7f69c86-a8c4-e4c6-83fc-fc7b3e32d143%28Office.15%29.aspx)
 - [Walls.Creator Property (PowerPoint)](http://msdn.microsoft.com/library/450b34ce-e4cf-6f83-4220-17f47630fd18%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

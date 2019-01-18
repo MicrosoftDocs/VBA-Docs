@@ -56,3 +56,5 @@ The values in the table are the Windows default. However, values in the ANSI cha
 ## See also
 
 - [Chr Function](chr-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

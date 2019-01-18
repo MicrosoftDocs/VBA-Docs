@@ -28,3 +28,4 @@ The  **PjPriority** enumeration is obsolete and should not be used. Actual task 
 |**pjPriorityVeryHigh**|7|Very high priority.|
 |**pjPriorityVeryLow**|1|Very low priority.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

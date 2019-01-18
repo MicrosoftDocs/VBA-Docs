@@ -53,3 +53,4 @@ ActiveSheet.VPageBreaks(1).DragOff xlToRight, 1
 
 [VPageBreak Object](Excel.VPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

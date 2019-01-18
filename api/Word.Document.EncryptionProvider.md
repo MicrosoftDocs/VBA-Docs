@@ -29,3 +29,4 @@ Returns a  **String** specifying the name of the algorithm encryption provider t
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

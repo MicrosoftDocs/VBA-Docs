@@ -23,4 +23,4 @@ Fills the frame of a picture with the image represented by the  **PictureFormat*
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

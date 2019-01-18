@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ModelConnection.CalculatedMembers property (Excel)](http://msdn.microsoft.com/library/2969824d-b7a2-fb88-1066-cf5d36d8e9bb%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

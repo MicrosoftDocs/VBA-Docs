@@ -32,3 +32,4 @@ Returns a  [LineFormat](Publisher.LineFormat.md) object that specifies the forma
 
  [Font Object](Publisher.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

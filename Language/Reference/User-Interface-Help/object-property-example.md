@@ -17,6 +17,5 @@ Assume a new control has a **Top** property that is different from the standard 
 -  `control.Top` uses the standard **Top** property.
     
 -  `control.Object.Top` uses the **Top** property from the added control.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

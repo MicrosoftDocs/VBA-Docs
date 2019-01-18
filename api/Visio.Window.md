@@ -143,3 +143,4 @@ In addition, the  **Window** object's **Paste** method is now obsolete. Use the 
 |[ZoomBehavior](./Visio.Window.ZoomBehavior.md)|
 |[ZoomLock](./Visio.Window.ZoomLock.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

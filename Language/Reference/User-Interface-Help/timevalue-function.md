@@ -39,3 +39,5 @@ MyTime = TimeValue("4:35:17 PM")    ' Return a time.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

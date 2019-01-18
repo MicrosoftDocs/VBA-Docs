@@ -34,3 +34,4 @@ The type of threshold value for a data bar or color scale can be a number, perce
 
 [ColorScaleCriterion Object](Excel.ColorScaleCriterion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

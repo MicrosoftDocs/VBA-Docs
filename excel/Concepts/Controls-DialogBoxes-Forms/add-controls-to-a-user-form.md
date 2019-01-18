@@ -20,4 +20,4 @@ To add  [controls](activex-controls.md) to a user form, find the control you wan
 
 After you have added controls to the form, use the commands on the  **Format** menu in the Visual Basic Editor to adjust the control alignment and spacing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

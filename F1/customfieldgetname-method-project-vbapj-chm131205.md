@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DateFormat Method (Project)](http://msdn.microsoft.com/library/b4fc14a0-5139-b7cf-8d96-443cd23fd8ec%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

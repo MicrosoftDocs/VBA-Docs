@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion.FontName Property (Project)](http://msdn.microsoft.com/library/3c106983-dfc8-7a67-72e7-0e41a0449204%28Office.15%29.aspx)
 [GroupCriterion2.FontName Property (Project)](http://msdn.microsoft.com/library/230086d5-c14c-0150-faad-5ebe05f3a956%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

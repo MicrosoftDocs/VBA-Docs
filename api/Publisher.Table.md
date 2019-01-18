@@ -68,3 +68,4 @@ End Sub
 |[Rows](./Publisher.Table.Rows.md)|
 |[TableDirection](./Publisher.Table.TableDirection.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

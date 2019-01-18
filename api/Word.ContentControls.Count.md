@@ -29,3 +29,4 @@ Returns the number of items in the  **ContentControls** collection. Read-only **
 
 [ContentControls Collection](Word.ContentControls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

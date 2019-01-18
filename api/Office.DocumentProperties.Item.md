@@ -33,3 +33,5 @@ _expression_ Required. A variable that represents a **[DocumentProperties](Offic
 ## See also
 
 - [DocumentProperties object members](overview/library-reference/documentproperties-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

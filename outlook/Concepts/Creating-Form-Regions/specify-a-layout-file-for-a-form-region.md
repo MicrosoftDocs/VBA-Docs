@@ -32,4 +32,4 @@ You cannot use file paths expressed in the Universal Naming Convention (UNC) for
 
 If you use an add-in to design and deploy a form region, then you must specify the  **addin** element and must not specify the **layout** element.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

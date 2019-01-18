@@ -29,3 +29,4 @@ _expression_ A variable that represents a [TableStyles](./Excel.TableStyles.md) 
 
 [TableStyles Object](Excel.TableStyles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [WSParameter.Type property (Access)](http://msdn.microsoft.com/library/c3ab559c-f364-63c4-df45-d48dfe569f08%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

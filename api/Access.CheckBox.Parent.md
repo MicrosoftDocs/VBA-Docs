@@ -34,3 +34,4 @@ The  **Parent** property of a label control is the control the label is linked t
 
 [CheckBox Object](Access.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

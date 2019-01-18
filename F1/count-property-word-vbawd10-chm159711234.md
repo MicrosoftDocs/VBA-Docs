@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HeaderFooter.Index property (Word)](http://msdn.microsoft.com/library/5281c150-1a61-670f-6b1f-37c43b717126%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

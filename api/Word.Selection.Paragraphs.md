@@ -44,3 +44,4 @@ Selection.Paragraphs(1).LineSpacingRule = wdLineSpaceDouble
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

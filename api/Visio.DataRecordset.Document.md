@@ -31,4 +31,4 @@ Gets the  **Document** object that contains the **DataRecordset** object. Read-o
 
 Document
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,4 +56,4 @@ The  **AddRows** method cannot add named rows. To add named rows, use the **AddN
 
 If you add rows to a section that has nameable rows (for example, the Connection Points or Controls section), the  _Row_ argument is ignored. By default, named rows are named in the order added, for example, Row_1, Row_2, and so forth. Naming order is influenced, however, by any existing rows or previously deleted rows.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

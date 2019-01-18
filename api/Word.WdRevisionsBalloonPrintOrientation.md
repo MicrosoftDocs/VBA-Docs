@@ -21,3 +21,4 @@ Specifies the orientation of revision and comment balloons when they are printed
 | **wdBalloonPrintOrientationForceLandscape**|2|Word forces all sections to be printed in Landscape mode, regardless of original orientation, and prints the revision and comment balloons on the side opposite to the document text.|
 | **wdBalloonPrintOrientationPreserve**|1|Word preserves the orientation of the original, uncommented document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

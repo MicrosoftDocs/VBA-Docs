@@ -22,3 +22,4 @@ localization_priority: Normal
 |[Parent](../../Office.MetaProperties.Parent.md)|Gets the  **Parent** object for the **MetaProperties** object. Read-only.|
 |[SchemaXml](../../Office.MetaProperties.SchemaXml.md)|Gets the schema XML for the  **MetaProperties** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

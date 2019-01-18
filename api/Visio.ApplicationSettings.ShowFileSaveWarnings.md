@@ -33,4 +33,4 @@ Boolean
 
 Setting the  **ShowFileSaveWarnings** property is equivalent to setting the **Show file save warnings** option on the **Advanced** tab in the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

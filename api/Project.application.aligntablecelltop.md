@@ -87,3 +87,5 @@ End Sub
 [Report Object](Project.report.md)
 [AlignTableCellVerticalCenter Method](Project.application.aligntablecellverticalcenter.md)
 [AligntableCellBottom Method](Project.application.aligntablecellbottom.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

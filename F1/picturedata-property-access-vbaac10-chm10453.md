@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.PictureData property (Access)](http://msdn.microsoft.com/library/3154933c-0945-81b8-272b-3e37fa819b05%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

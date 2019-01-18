@@ -24,3 +24,4 @@ Specifies constants that define the different ways that the container boundary c
 | **visContainerAutoResizeExpand**|1|Automatically expand the container size, but do not contract.|
 | **visContainerAutoResizeExpandContract**|2|Automatically expand and contract the container size.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

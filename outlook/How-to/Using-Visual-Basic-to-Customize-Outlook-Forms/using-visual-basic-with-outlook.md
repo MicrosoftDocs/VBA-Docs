@@ -51,4 +51,4 @@ or use the  **Application** object that is passed to the **OnConnection** event 
 
  **Note**  The  **Application** object returned from calling the **[CreateObject](../../../api/Outlook.Application.CreateObject.md)** method and any of its subordinate objects, properties, and methods are not trusted. For more information on using a trusted **Application** object in a COM add-in, see [Security Behavior of the Outlook Object Model](../Security/security-behavior-of-the-outlook-object-model.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

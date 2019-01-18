@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsMo
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

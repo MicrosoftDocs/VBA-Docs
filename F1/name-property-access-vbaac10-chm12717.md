@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.Name property (Access)](http://msdn.microsoft.com/library/b7eb012e-6145-d962-8884-3ccf3eaf46fd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

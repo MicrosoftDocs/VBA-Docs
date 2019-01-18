@@ -33,3 +33,5 @@ If you try to use the  **Distribute** method, such as `sRange1.Distribute msoDis
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,4 @@ If the user clicks **Deny**, Outlook blocks the call to the **[Execute](../../..
 
 If the user clicks **Allow**, the call that invoked the warning, and only that call, is allowed. Subsequent calls from an untrusted solution to execute an action will continue to invoke warnings.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.Protect property (Word)](http://msdn.microsoft.com/library/8269051e-7952-7dc0-c7d8-cbf5ff711e38%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,5 +40,5 @@ localization_priority: Normal
 -  [Viewer.ZoomToPoint Method (Visio Viewer)](../../api/Visio.ZoomToPoint.md)
     
 -  [Viewer.ZoomToRect Method (Visio Viewer)](../../api/Visio.ZoomToRect.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

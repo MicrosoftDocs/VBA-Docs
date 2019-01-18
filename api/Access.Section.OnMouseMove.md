@@ -57,3 +57,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseMove
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

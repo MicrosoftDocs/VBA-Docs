@@ -29,3 +29,4 @@ Deletes the specified heading style.
 
 [HeadingStyle Object](Word.HeadingStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

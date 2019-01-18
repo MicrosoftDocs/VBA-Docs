@@ -37,4 +37,4 @@ If you create an add-in for Microsoft Publisher that validates recipient address
 
 The value of the  **EverValidated** property is saved in the Microsoft Publisher file and is accessible across multiple sessions of Publisher.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

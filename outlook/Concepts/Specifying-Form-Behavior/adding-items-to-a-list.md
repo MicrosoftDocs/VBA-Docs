@@ -19,6 +19,5 @@ For more information, see the following topics:
 -  [How to: Add Items to a List at Design Time](add-items-to-a-list-in-design-mode.md)
     
 -  [How to: Add Items to a List at Run Time](../../How-to/General/how-to-add-items-to-a-list-or-combo-box-at-run-time.md)
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

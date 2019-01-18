@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Point.ApplyPictToFront Property (PowerPoint)](http://msdn.microsoft.com/library/c883883d-ad54-ef4b-c749-a4efe721a96f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

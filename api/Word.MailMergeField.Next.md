@@ -29,3 +29,4 @@ Returns the next mail merge field in the collection of mail merge fields. Read-o
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

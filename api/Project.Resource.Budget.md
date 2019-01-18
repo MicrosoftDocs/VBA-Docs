@@ -25,4 +25,4 @@ Flag indicating whether the  **Resource** object is a budget resource. Read/writ
 
 The  **Budget** property can be set when creating a resource, but cannot be changed after the resource is created.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

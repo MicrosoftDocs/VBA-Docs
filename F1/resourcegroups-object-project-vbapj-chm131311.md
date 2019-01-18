@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ResourceGroups2 Object (Project)](http://msdn.microsoft.com/library/b1328c39-42bc-4e9b-e268-1f308cd7ebb1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

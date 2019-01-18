@@ -29,3 +29,4 @@ Deletes the specified  **Frameset** object.
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

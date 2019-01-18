@@ -22,3 +22,4 @@ Returns information about the language settings in a Microsoft Office applicatio
 |[LanguagePreferredForEditing](../../Office.LanguageSettings.LanguagePreferredForEditing.md)|Gets **True** if the value for the **MsoLanguageID** constant has been identified in the Windows registry as a preferred language for editing. Read-only.|
 |[Parent](../../Office.LanguageSettings.Parent.md)|Gets the **Parent** object for the **ODSOFilter** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

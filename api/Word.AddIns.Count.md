@@ -29,3 +29,4 @@ Returns the number of  **[AddIn](Word.AddIn.md)** objects in the **AddIns** coll
 
 [AddIns Collection Object](Word.addins.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

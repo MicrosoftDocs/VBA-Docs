@@ -34,3 +34,5 @@ The following table describes the dialog box options.
 
 - [Using the Add-In Manager](../../concepts/getting-started/using-the-add-in-manager.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

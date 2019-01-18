@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ReportTemplate.TemplatePath Property (Project)](http://msdn.microsoft.com/library/be8381a8-f19e-76f0-32c8-c85f29ba93cc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

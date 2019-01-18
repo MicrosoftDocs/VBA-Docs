@@ -62,3 +62,5 @@ localization_priority: Priority
 
 - [Keywords by task](user-interface-help/keywords-by-task.md)
 - [VBE Glossary](../glossary/vbe-glossary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Change the Icons Associated with your Form](../Configuring-Forms/change-the-icons-associated-with-your-form.md)
     
 -  [Specify Icons to be Displayed for a Form Region](../Configuring-Forms/specify-icons-to-be-displayed-for-a-form-region.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,4 @@ Private Sub Detail_Print(Cancel As Integer, PrintCount As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,3 +54,5 @@ MyTime = TimeSerial(16, 35, 17)    ' MyTime contains serial
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

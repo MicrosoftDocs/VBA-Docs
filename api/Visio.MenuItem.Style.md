@@ -45,3 +45,4 @@ Possible values for the  **Style** property are listed in the following table. T
 | **visButtonIcon**|2|
 | **visButtonIconandCaption**|3|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

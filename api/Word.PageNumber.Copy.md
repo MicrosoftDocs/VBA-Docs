@@ -26,3 +26,4 @@ Copies the specified page number to the Clipboard.
 
 [PageNumber Object](Word.PageNumber.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

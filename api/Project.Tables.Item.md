@@ -33,3 +33,5 @@ Gets a single  **Table** object from the **Tables** collection. Read-only **Tabl
 
 
 [Tables Collection Object](Project.tables.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

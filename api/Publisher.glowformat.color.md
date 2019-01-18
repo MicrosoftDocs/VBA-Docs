@@ -31,5 +31,5 @@ Returns a  **[ColorFormat](Publisher.ColorFormat.md)** object that represents th
 
 
  [GlowFormat Object](Publisher.glowformat.md)
- 
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

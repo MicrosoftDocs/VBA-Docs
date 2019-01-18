@@ -44,4 +44,4 @@ The  **[TabKeyBehavior](Outlook.textbox.tabkeybehavior.md)** and **MultiLine** p
 
 The effect of pressing  **CTRL+TAB** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+TAB** creates a new line regardless of the value of **TabKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+TAB** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

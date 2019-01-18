@@ -34,3 +34,4 @@ Nothing
 
 [Frames Object](Word.Frames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

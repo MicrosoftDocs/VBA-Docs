@@ -50,4 +50,4 @@ When  **visRefreshNoReconciliationUI** is set, support for reconciling refresh c
 
  **Note**  In some previous versions of Visio, shape data was called custom properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ In Access, you can't use a SQL statement to specify data to export when you are 
 
 In Access versions 1.x and 2.0, if you compare two expressions within a macro condition by using a comparison operator and one of the expressions is **Null**, Access Basic will return **True** or **False** for the comparison, depending on which comparison operator you use. In Access 2000 and later, Visual Basic returns **Null** for a comparison in which one expression is **Null**. To determine whether the comparison evaluates to **Null**, use the **IsNull** function to check the result of the comparison.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

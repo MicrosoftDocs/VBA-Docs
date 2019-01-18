@@ -34,3 +34,4 @@ The properties of the  **Forms** collection in Visual Basic refer to forms that 
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

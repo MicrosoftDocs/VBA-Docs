@@ -53,3 +53,4 @@ Documents("Thesis.doc").Indexes.AutoMarkEntries _
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

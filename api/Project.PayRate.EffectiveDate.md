@@ -23,4 +23,4 @@ Gets the date a pay rate for a resource goes into effect. Read-only  **Variant**
 
  _expression_ A variable that represents a [PayRate](./Project.PayRate.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

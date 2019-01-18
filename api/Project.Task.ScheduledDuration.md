@@ -23,4 +23,4 @@ Gets the scheduled (as opposed to actual) duration of a task. Read-only  **Varia
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

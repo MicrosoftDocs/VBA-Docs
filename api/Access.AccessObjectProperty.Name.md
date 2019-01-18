@@ -44,3 +44,4 @@ Controls on the same form, report, or data access page can't have the same name,
 
 [AccessObjectProperty Object](Access.AccessObjectProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

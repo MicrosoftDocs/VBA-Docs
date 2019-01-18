@@ -42,3 +42,4 @@ docActive.Shapes(1).Callout.Gap = 3
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,4 @@ Private Sub App_NewProject(ByVal pj As MSProject.Project)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

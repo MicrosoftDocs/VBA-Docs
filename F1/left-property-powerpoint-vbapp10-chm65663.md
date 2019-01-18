@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ChartArea.Left Property (PowerPoint)](http://msdn.microsoft.com/library/49dc752d-ebfb-318b-2ac5-7d72146593dc%28Office.15%29.aspx)
 [LegendEntry.Left Property (PowerPoint)](http://msdn.microsoft.com/library/02672e4c-3553-3bd3-f751-ed5870668560%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

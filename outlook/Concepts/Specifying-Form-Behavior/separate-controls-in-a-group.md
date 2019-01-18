@@ -12,5 +12,5 @@ localization_priority: Normal
 1. In the Forms Designer, on the  **General** tab, select the group of controls.
     
 2. On the  **Developer** tab, in the **Arrange** group, click **Group**, and then click  **Ungroup**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

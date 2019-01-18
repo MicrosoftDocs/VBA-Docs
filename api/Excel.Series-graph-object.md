@@ -28,4 +28,4 @@ myChart.SeriesCollection(1).Interior.Color = RGB(255, 0, 0)
 
 The series index number indicates the order in which the series are added to the chart.  `SeriesCollection(1)` is the first series added to the chart, and is the first series added to the chart, and `SeriesCollection(SeriesCollection.Count)` is the last one added.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

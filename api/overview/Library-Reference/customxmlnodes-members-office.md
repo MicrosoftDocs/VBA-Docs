@@ -22,3 +22,4 @@ Contains a collection of **CustomXMLNodes** objects representing the XML nodes i
 |[Item](../../Office.CustomXMLNodes.Item.md)|Gets a **CustomXMLNode** object from the **CustomXMLNodes** collection. Read-only.|
 |[Parent](../../Office.CustomXMLNodes.Parent.md)|Gets the **Parent** object for the **CustomXMLNodes** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

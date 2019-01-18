@@ -30,4 +30,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TabControl.BackStyle property (Access)](http://msdn.microsoft.com/library/f20c9406-7608-89ea-d0ff-d54bf4d1c526%28Office.15%29.aspx)
 - [TextBox.BackStyle property (Access)](http://msdn.microsoft.com/library/95a277c8-df48-79a5-c232-2cfe32eae8f2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

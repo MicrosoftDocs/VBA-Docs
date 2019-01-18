@@ -27,3 +27,4 @@ An object used to remove a portion of an image.
 |[ShapeTop](../../Office.Crop.ShapeTop.md)|Gets or sets the location of the top of a shape that is used to crop an image. Read/write.|
 |[ShapeWidth](../../Office.Crop.ShapeWidth.md)|Gets or sets the width of a shape that is used to crop an image. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

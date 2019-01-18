@@ -32,3 +32,4 @@ Returns or sets a  **Single** that represents the width of the contour of a shap
 
  [ThreeDFormat Object](Publisher.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [RecentFile Object](Word.RecentFile.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

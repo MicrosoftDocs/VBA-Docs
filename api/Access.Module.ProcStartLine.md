@@ -93,3 +93,4 @@ MsgBox "The procedure " & strProc & " starts on line " & _
 
 [Module Object](Access.Module.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

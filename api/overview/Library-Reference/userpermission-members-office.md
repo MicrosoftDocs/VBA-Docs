@@ -31,3 +31,4 @@ Associates a set of permissions on the active document with a single user and an
 |[Permission](../../Office.UserPermission.Permission.md)| Returns or sets a **MsoPermission** constant as a **Long** value representing the permissions on the active document assigned to the user associated with the specified **UserPermission** object. Read/write.|
 |[UserId](../../Office.UserPermission.UserId.md)|Gets the email name of the user whose permissions on the active document are determined by the specified **[UserPermission](../../Office.UserPermission.md)** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

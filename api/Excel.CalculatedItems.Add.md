@@ -44,3 +44,4 @@ A  **PivotItem** object that represents the new calculated item.
 
 [CalculatedItems Collection](Excel.CalculatedItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

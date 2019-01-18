@@ -33,3 +33,5 @@ Gets a single  **SplitPart** object from the **SplitParts** collection. Read-onl
 
 
 [SplitParts Collection Object](Project.splitparts.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

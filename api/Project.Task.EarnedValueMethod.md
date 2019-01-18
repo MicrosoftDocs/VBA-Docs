@@ -28,4 +28,4 @@ Gets or sets the method for calculating earned value for a task. Read/write  **P
 
 The  **EarnedValueMethod** property can be one of the following **[PjEarnedValueMethod](Project.PjEarnedValueMethod.md)** constants: **pjPercentComplete** or **pjPhysicalPercentComplete**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

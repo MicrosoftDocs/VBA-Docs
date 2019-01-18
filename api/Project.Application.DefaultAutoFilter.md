@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **DefaultAutoFilter** property corresponds to the **Set AutoFilter on for new projects** setting on the **Advanced** tab of the **Project Options** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

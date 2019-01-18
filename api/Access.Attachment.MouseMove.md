@@ -72,3 +72,4 @@ To run a macro or event procedure in response to pressing and releasing the mous
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,4 @@ The following possible values for the  **Type** property are from the **VisGraph
 | **visTypeColorByValue**|5|Represents a  **Color by Value** graphic item.|
 | **visTypeHeading**|6|Represents a  **Text** graphic item that has a **Callout** type of **Heading x**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

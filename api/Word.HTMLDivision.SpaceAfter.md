@@ -29,3 +29,4 @@ Returns or sets the amount of spacing (in points) after the specified HTML DIV e
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

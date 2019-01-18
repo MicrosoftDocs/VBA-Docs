@@ -39,3 +39,4 @@ For General and Right alignment when orientation is right to left,  **LabelX** a
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

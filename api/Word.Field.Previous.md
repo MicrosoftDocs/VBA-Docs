@@ -41,3 +41,4 @@ MsgBox "Field code = " & aField.Code
 
 [Field Object](Word.Field.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

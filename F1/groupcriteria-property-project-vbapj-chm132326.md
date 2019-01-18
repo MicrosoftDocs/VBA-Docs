@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.IsTeam Property (Project)](http://msdn.microsoft.com/library/99e87250-d167-d13d-b622-f7e88379fe50%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

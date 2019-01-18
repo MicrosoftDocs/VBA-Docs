@@ -28,4 +28,4 @@ Expands all summary tasks in the project.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

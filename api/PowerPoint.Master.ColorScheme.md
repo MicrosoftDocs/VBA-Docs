@@ -46,3 +46,4 @@ mySlides.ColorScheme.Colors(ppTitle).RGB = RGB(0, 255, 0)
 
 [Master Object](PowerPoint.Master.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

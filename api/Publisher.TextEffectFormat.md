@@ -66,3 +66,4 @@ End Sub
 |[Text](Publisher.TextEffectFormat.Text.md)|
 |[Tracking](Publisher.TextEffectFormat.Tracking.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

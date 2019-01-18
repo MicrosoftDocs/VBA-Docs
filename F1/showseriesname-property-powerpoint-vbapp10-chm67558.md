@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.ShowSeriesName Property (PowerPoint)](http://msdn.microsoft.com/library/5d6eac40-c951-763d-7b1d-f7e69ea88407%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

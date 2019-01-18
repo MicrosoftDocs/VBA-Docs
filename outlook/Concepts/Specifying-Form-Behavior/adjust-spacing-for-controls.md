@@ -21,3 +21,4 @@ localization_priority: Normal
 | **Decrease**|Decrease the space between controls by one grid block.|
 | **Remove**|Remove the space between controls. The controls do not overlap, but are immediately adjacent to each other.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

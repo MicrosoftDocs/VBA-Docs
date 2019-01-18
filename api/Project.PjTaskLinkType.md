@@ -22,3 +22,4 @@ Contains constants that specify the type of links between tasks.
 |**pjStartToFinish**|2|Link tasks from start to finish.|
 |**pjStartToStart**|3|Link tasks from start to start.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

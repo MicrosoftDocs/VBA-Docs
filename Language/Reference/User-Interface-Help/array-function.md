@@ -60,3 +60,5 @@ MyDay = MyWeek(4)    ' MyDay contains "Thu".
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

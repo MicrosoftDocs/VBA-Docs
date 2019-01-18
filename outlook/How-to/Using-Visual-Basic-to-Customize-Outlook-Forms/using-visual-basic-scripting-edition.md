@@ -23,5 +23,5 @@ localization_priority: Normal
 -  [Form Events](form-events.md)
     
 -  [Test Tips for Using Visual Basic Scripting Edition in Outlook](test-tips-for-using-visual-basic-scripting-edition-in-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

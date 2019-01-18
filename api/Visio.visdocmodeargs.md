@@ -22,3 +22,4 @@ Flags passed to or returned by the  **Document.Mode** property and IDs returned 
 | **visDocModeRun**|0|The document is in run mode.|
 | **visInvalDocID**|-1|The document ID is invalid. Document.ID will never return this value for an open document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

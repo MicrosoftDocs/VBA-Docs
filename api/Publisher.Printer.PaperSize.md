@@ -33,4 +33,4 @@ String
 
 If you change the value of either the  **PaperHeight** or **PaperWidth** property, the value of the **PaperSize** property changes to Current.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

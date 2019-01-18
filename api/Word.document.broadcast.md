@@ -32,3 +32,4 @@ Returns a [Broadcast](Word.broadcast.md) object that represents a broadcast sess
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

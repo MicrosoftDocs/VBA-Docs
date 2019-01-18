@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.AutoRepeat property (Access)](http://msdn.microsoft.com/library/028a5bdd-1e37-0499-202f-c9e3fdb83838%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

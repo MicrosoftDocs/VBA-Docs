@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Delete](../../Office.SharedWorkspaceTask.Delete.md)|Deletes the current  **SharedWorkspaceTask** object.|
 |[Save](../../Office.SharedWorkspaceTask.Save.md)|Uploads changes made programmatically to a shared server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

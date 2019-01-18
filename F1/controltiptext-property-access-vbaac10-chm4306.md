@@ -34,3 +34,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.ControlTipText property (Access)](http://msdn.microsoft.com/library/b15ebb7a-70cd-1a0c-cdfc-17cbd965e8f6%28Office.15%29.aspx)
 - [WebBrowserControl.ControlTipText property (Access)](http://msdn.microsoft.com/library/2b738920-d982-388c-7c37-cf3e3d8dc741%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

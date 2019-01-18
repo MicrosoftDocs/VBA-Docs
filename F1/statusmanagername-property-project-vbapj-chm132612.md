@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ServerURL Property (Project)](http://msdn.microsoft.com/library/444dd91d-a449-db8c-3863-d85bc6e77ca1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

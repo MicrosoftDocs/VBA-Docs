@@ -24,3 +24,4 @@ The manner in which you want the picture file inserted into the document: linked
 | **pbPictureInsertAsLinked**|2|Images can either be linked externally or internally.|
 | **pbPictureInsertAsOriginalState**|3|Default. Image is inserted in its original state.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

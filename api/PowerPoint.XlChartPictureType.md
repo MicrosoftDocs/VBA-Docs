@@ -21,3 +21,4 @@ Specifies how pictures are displayed on a column, bar picture chart, or legend k
 |**xlStackScale**|3|The picture is sized to a specified number of units and repeated the length of the bar.|
 |**xlStretch**|1|The picture is stretched the full length of the stacked bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

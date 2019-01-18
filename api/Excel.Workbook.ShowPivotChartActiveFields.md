@@ -34,3 +34,4 @@ This property controls the visibility of the PivotChart Filter Pane (toggles it 
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

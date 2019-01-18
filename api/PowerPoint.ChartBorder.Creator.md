@@ -26,3 +26,4 @@ _expression_ A variable that represents a '[ChartBorder](PowerPoint.ChartBorder.
 
 [ChartBorder Object](PowerPoint.ChartBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

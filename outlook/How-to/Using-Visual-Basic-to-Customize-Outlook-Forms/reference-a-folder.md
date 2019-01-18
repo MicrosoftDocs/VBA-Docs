@@ -37,4 +37,4 @@ To reference any of the default Outlook folders, use the  **GetDefaultFolder** m
 Application.GetNameSpace("MAPI").GetDefaultFolder(6)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ Flash Fill detects when you are modifying data that fits a pattern which can be 
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

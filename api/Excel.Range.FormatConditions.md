@@ -40,3 +40,4 @@ Worksheets(1).Range("e1:e10").FormatConditions(1) _
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

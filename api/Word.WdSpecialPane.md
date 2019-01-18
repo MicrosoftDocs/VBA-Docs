@@ -39,3 +39,4 @@ Specifies an item to display in the active window pane.
 | **wdPaneRevisionsHoriz**|19|The revisions pane displays along the bottom of the document window.|
 | **wdPaneRevisionsVert**|20|The revisions pane displays along the left side of the document window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

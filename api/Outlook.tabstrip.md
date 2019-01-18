@@ -31,4 +31,4 @@ The  **TabStrip** is implemented as a container of a **Tabs** collection, which 
 
 The default property for a  **TabStrip** is the **[SelectedItem](Outlook.tabstrip.selecteditem.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

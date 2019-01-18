@@ -14,6 +14,5 @@ This error has the following cause and solution:
 
 
 - You attempted to use a private object module as a parameter in a public object module, or as a return type for a public procedure, data member, or as a field of a public user defined type, which is not allowed.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

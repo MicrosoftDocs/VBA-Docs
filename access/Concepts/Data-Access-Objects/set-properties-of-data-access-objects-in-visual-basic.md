@@ -69,3 +69,4 @@ The following table lists some Microsoft Access-defined properties that apply to
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

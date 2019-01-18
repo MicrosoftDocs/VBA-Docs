@@ -44,4 +44,4 @@ A cell has both a local name and a universal name. The local name differs depend
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Name** property to get or set a **Hyperlink** , **Layer** , **Master** , **MasterShortcut** , **Page** , **Shape** , **Style** , or **Row** object's local name. Use the **NameU** property to get or set its universal name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

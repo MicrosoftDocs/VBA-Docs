@@ -29,3 +29,4 @@ Returns a  **[ColorFormat](Word.ColorFormat.md)** object that represents the col
 
 [GlowFormat Object](Word.GlowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -224,3 +224,4 @@ The following tables list the names of all options that can be set or returned f
 > - Some options are available only within an Access database or Access project (.adp).
 > - If you are developing a database application, add-in, library database, or referenced database, make sure that the Error Trapping option is set to 2 (Break On Unhandled Errors) when you have finished debugging your code.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

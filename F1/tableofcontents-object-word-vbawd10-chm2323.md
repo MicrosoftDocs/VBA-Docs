@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TableOfContents object (Word)](http://msdn.microsoft.com/library/44f3bb54-e8b0-d94d-31ed-b33099e8b048%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

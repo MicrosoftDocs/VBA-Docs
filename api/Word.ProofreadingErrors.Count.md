@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of proofreading errors in the col
 
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

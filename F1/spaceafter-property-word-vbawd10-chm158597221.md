@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OMathFrac.Creator property (Word)](http://msdn.microsoft.com/library/ed064a2e-53ad-0127-db03-f58546156924%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -61,3 +61,4 @@ Depending on the sign of the number and significance arguments, the  **Floor_Pre
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

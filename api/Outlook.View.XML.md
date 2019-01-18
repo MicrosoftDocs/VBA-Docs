@@ -85,3 +85,4 @@ The following are the modified properties that are visible in the following XML 
 
 [View Object](Outlook.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

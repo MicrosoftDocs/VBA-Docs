@@ -28,4 +28,4 @@ Determines whether a formula of the cell is a constant expression. Read-only.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

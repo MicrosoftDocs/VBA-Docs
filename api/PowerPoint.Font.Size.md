@@ -46,3 +46,4 @@ Application.ActivePresentation.Slides(1) _
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

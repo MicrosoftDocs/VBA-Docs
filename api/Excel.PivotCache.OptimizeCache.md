@@ -47,3 +47,4 @@ Worksheets(1).PivotTables("Pivot1") _
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

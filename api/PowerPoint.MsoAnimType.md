@@ -28,3 +28,4 @@ Specifies the type of animation.
 |**msoAnimTypeScale**|3|Scale|
 |**msoAnimTypeSet**|8|Set|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

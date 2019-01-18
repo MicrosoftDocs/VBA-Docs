@@ -36,4 +36,4 @@ String
 
 Visio does not use the  **Caption** property of a **ToolbarSet** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

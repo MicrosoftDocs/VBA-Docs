@@ -32,3 +32,4 @@ _expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) ob
 
 [ChartFormat Object](Excel.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ If the user does not select any names from the  **Select Names** dialog box and 
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains controls nested more than 7 levels deep.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The default value is  **olMousePointerDefault**.
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

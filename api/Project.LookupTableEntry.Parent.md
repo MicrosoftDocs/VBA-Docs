@@ -25,4 +25,4 @@ Gets the parent of the  **LookupTableEntry** object. Read-only **OutlineCode**.
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

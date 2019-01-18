@@ -68,5 +68,5 @@ To block add-ins that are not managed by this policy setting, you must also conf
 ## See also
 
 - [Concepts (Outlook)](concepts-outlook-vba-reference.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

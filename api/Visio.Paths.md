@@ -31,4 +31,4 @@ If a  **Shape** object is a group, its **Paths** and **PathsLocal** properties a
 
 If a  **Shape** object is a shape, its **Paths** and **PathsLocal** properties include one item for each Geometry section that defines a stroke of positive length.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

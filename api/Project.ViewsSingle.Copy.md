@@ -39,3 +39,5 @@ Makes a copy of a group definition for the  **ViewsSingle** collection and retur
 
 
 [ViewsSingle Collection Object](Project.viewssingle(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

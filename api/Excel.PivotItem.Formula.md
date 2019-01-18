@@ -42,3 +42,4 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

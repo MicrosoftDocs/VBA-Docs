@@ -56,3 +56,4 @@ End With
 
 [Replacement Object](Word.Replacement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

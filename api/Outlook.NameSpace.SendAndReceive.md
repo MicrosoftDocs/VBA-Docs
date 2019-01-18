@@ -48,3 +48,4 @@ All accounts defined in the current profile are used in  **Send/Receive All**. I
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

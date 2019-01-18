@@ -78,3 +78,4 @@ End Function
 
 [Pages Collection](Access.Pages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

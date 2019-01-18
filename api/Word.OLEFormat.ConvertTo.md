@@ -53,6 +53,4 @@ objEmbedded.OLEFormat.ConvertTo _
 
 ```
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

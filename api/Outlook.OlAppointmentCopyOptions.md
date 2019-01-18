@@ -24,3 +24,4 @@ Specifies what actions to take when copying an  **[AppointmentItem](Outlook.Appo
 | **olCreateAppointment**|1|Creates an appointment in the destination folder without defaulting to a response or prompting for a response.|
 | **olPromptUser**|0|Copies the appointment to the destination folder and prompts the user to accept the request before completing the copy operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

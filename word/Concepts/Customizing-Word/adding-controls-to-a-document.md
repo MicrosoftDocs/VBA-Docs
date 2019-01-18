@@ -17,4 +17,4 @@ You can add  [ActiveX controls](../../../api/overview/Word.md) to a document's d
 
  **Note**  Dragging a control (or a number of "grouped" controls) from the form back to the  **Control Toolbox** creates a template of that control, which can be reused. This is a useful feature for implementing a standard interface for your applications.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

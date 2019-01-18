@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TabControl.HoverForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/75ffbe8c-2257-8cb7-4ee0-ab6e22e52a4f%28Office.15%29.aspx)
 [NavigationButton.HoverForeThemeColorIndex property (Access)](http://msdn.microsoft.com/library/0fe67489-953c-294b-a226-c746e0321782%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

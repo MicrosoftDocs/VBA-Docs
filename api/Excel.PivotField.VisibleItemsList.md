@@ -54,3 +54,4 @@ ActiveSheet.PivotTables("PivotTable2").PivotFields("[Customer].[Customer Geograp
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

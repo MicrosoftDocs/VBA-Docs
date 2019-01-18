@@ -66,3 +66,5 @@ End Sub
 
 [CheckoutProject Method](Project.project.checkoutproject.md)
 [Application.IsCheckedOut Property](Project.application.ischeckedout.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

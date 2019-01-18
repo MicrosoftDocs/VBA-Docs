@@ -68,3 +68,5 @@ Use the  **[Export](Excel.XmlMap.Export.md)** method to export data from cells m
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

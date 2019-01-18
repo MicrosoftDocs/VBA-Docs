@@ -49,4 +49,4 @@ By default, a shape does not have a unique ID. A shape acquires a unique ID only
 
 If a  **Shape** object has a unique ID, no other shape in the same document will have the same ID.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

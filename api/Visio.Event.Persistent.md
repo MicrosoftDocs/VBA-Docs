@@ -42,4 +42,4 @@ A persistent event exists until its  **Event** object is deleted from the source
 
  **Note**   Events handled in a Microsoft Visual Basic for Applications (VBA) project are persistent.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

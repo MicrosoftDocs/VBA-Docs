@@ -74,3 +74,4 @@ End Sub
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

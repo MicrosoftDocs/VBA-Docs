@@ -47,3 +47,4 @@ Application.Dialogs.Item(xlDialogOpen).Show arg3:=True
 
 [Dialogs Object](Excel.Dialogs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

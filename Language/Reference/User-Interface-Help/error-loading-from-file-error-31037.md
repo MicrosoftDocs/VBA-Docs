@@ -25,6 +25,5 @@ An error occurred while attempting to read the specified file (set  **Action** =
 - The file is corrupted.
     
 - The file position isn't located at the beginning of a valid OLE object.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

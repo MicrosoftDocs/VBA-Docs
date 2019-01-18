@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Recipient](./Outlook.Recipient.md) ob
 
 [Recipient Object](Outlook.Recipient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

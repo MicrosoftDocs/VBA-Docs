@@ -35,4 +35,4 @@ The default value of the  **AutomationSecurity** property is **msoAutomationSecu
 
  **Macro Settings** tab of the **Trust Center** dialog box has four settings for the macro security level. The default setting is **Disable all macros with notification**. For more information about security settings and digital code signing, see the links on the  **Trust Center** tab of the **Project Options** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

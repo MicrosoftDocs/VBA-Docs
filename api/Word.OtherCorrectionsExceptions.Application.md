@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [OtherCorrectionsExceptions Collection Object](Word.othercorrectionsexceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

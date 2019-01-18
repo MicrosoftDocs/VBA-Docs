@@ -50,3 +50,4 @@ SlideShowWindows(1).View.DrawLine 5, 5, 250, 250
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

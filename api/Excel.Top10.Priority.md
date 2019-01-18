@@ -34,3 +34,4 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [Top10 Object](Excel.Top10.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

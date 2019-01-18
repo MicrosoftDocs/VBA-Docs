@@ -20,3 +20,4 @@ Specifies the type of  **gradient fill**.
 | **GradientFillLinear**|0|Gradient is filled in a straight line.|
 | **GradientFillPath**|1|Gradient is filled in a non-linear or curved path.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

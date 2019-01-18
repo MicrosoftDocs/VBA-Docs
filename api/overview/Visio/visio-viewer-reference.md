@@ -16,5 +16,5 @@ This documentation contains the following information:
 -  [About Programming Visio Viewer](../../Visio.about.programming.md) : Provides important conceptual information for developing custom solutions for Visio Viewer.
     
 -  [Object model](object-model-visio-viewer-reference.md): Provides a list of object members in alphabetical order.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

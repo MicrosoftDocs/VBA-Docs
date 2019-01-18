@@ -34,3 +34,4 @@ You use the [Insert](Office.PictureEffects.Insert.md) method of the [PictureEffe
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

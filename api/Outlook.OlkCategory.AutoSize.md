@@ -36,3 +36,4 @@ This control assumes one line unless the contents expand and need more space. If
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

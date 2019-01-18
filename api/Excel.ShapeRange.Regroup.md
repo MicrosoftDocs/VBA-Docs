@@ -51,3 +51,4 @@ ActiveWindow.Selection.ShapeRange.Regroup
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

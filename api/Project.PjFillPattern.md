@@ -29,3 +29,4 @@ Contains constants that specify a fill pattern.
 |**pjMediumFillPattern**|3|Medium fill pattern.|
 |**pjSolidFillPattern**|1|Solid fill pattern.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

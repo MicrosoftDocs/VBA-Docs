@@ -47,3 +47,4 @@ The  **CurrentWebUser** method returns **Null** if the database has not been pub
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

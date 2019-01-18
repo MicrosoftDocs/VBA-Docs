@@ -41,4 +41,4 @@ Sets the number of text lines for assignment rows in the Team Planner.
 
 The  **Text Lines** drop-down list values range from 1 to 10 in the Team Planner view. However, the _LineMultiple_ argument in the **SelectTPLineHeight** method can range from 1 to 32767.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

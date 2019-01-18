@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.IsStartValid Property (Project)](http://msdn.microsoft.com/library/6e5c90ab-7d7c-1f08-370c-8091d1a55aa6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

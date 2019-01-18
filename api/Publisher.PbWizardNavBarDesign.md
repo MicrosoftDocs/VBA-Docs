@@ -47,3 +47,4 @@ Represents the design of the specified Web navigation bar set.
 | **pbnbDesignUnderscore**|19|Underscore|
 | **pbnbDesignWatermark**|25|Watermark|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

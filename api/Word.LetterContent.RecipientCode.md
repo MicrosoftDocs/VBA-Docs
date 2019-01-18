@@ -34,3 +34,4 @@ Not used in the U.S. English version of Microsoft Word. This property may not be
 
 [LetterContent Object](Word.LetterContent.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

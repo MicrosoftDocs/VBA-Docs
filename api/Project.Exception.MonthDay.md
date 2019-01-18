@@ -30,3 +30,5 @@ The default value of  **MonthDay** is 1.
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

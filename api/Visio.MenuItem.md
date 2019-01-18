@@ -35,4 +35,4 @@ The index of a  **MenuItem** object within the **MenuItems** collection correspo
 
 If the menu item displays a submenu, the  **MenuItem** object has a **MenuItems** collection that represents items on the submenu. The **MenuItem** object's **Caption** property contains the submenu title. Most of the other properties of the **MenuItem** object are ignored, because this object serves much the same role as a **Menu** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

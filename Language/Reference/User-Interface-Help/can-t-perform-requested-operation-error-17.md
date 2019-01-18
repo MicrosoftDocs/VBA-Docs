@@ -27,3 +27,4 @@ An operation can't be carried out if it would invalidate the current state of th
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

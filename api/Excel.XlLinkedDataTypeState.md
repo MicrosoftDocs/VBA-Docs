@@ -24,3 +24,5 @@ Indicates the state of cells that may contain Linked data types such as [Stocks 
 ## See also
 
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

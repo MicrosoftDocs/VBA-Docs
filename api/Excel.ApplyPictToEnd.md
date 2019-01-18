@@ -30,4 +30,4 @@ This example applies pictures to the end of all points in series one. The series
 myChart.SeriesCollection(1).ApplyPictToEnd = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

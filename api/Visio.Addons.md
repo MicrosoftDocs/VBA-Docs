@@ -25,4 +25,4 @@ The default property of an  **Addons** collection is **Item**.
 
 Installed add-ons are those Microsoft Visio finds in its  **Addons** or **StartUp** paths, those that were installed during the initial setup of Visio, those you have installed by using a Microsoft Windows Installer package, or those that other add-ons have dynamically installed by using the **Add** method of the **Addons** collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

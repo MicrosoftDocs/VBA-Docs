@@ -29,3 +29,4 @@ Represents a collection of **CustomXMLValidationError** objects.
 |[Item](../../Office.CustomXMLValidationErrors.Item.md)|Gets a **CustomXMLValidationError** object from the **CustomXMLValidationErrors** collection. Read-only.|
 |[Parent](../../Office.CustomXMLValidationErrors.Parent.md)|Gets the **Parent** object for the **CustomXMLValidationErrors** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

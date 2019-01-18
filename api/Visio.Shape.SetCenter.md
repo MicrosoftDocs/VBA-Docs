@@ -44,4 +44,4 @@ The coordinates represented by the  _xPos_ and _yPos_ arguments are parent coord
 
 The  **SetCenter** method only moves the point, in parent coordinates, about which the shape rotates. It does not change the point, in local coordinates, about which the shape rotates. The overall effect is to move the shape with respect to its parent shape (or the page).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

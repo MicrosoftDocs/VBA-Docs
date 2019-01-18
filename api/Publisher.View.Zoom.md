@@ -50,4 +50,4 @@ The following example sets the zoom for the active publication so that the entir
 ActiveDocument.ActiveView.Zoom = pbZoomWholePage
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

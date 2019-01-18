@@ -51,3 +51,4 @@ The  **SheetPivotTableBeforeAllocateChanges** event occurs immediately before Ex
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

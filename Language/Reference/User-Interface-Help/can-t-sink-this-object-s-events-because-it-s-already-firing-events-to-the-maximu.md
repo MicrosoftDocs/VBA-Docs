@@ -21,3 +21,4 @@ Each object specifies the maximum number of simultaneous recipients to which it 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

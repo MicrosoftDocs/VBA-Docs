@@ -29,4 +29,4 @@ Indicates the delegation state of a task.
 
 Used by the [TaskItem.DelegationState Property (Outlook)](Outlook.TaskItem.DelegationState.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

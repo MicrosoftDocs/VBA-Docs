@@ -29,3 +29,4 @@ Specifies the status of a link.
 | **xlLinkStatusSourceNotOpen**|8|Not open.|
 | **xlLinkStatusSourceOpen**|9|Source document is open.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

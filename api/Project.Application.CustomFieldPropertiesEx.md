@@ -46,4 +46,4 @@ Sets attributes associated with a custom field.
 
 Changing the value of Attribute for a field only enables or disables the attribute. It does not remove any associated data.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

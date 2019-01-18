@@ -28,3 +28,4 @@ localization_priority: Normal
 |[SuggestedSignerEmail](../../Office.SignatureSetup.SuggestedSignerEmail.md)|Gets or sets the email address of the signer of the document. Read/write.|
 |[SuggestedSignerLine2](../../Office.SignatureSetup.SuggestedSignerLine2.md)|Gets or sets the second line of suggested signer information (for example, title). Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

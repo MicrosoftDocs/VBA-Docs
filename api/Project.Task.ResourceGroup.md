@@ -25,4 +25,4 @@ Gets the names of groups associated with the resources assigned to a task, separ
 
 For example, if Bob's group is "Writers" and Greg's group is "Editors", and Greg and Bob are assigned to the same task, then the  **ResourceGroup** property for that task returns "Writers,Editors". This example assumes that the list separator character is the comma (,). The list separator character can be set with the **ListSeparator** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

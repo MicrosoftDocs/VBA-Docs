@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.ODSOColumns.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ODSOColumns** object was created. Read-only.|
 |[Parent](../../Office.ODSOColumns.Parent.md)|Gets the  **Parent** object for the **ODSOColumns** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

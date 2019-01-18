@@ -39,3 +39,4 @@ These are listed in the  **COM Add-Ins** dialog box. You can add the **Add-Ins**
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

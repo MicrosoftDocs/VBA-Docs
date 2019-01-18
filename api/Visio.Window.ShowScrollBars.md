@@ -42,3 +42,4 @@ The  **ShowScrollBars** property value can be any combination of the following *
 | **visScrollBarVert**|&H4 |
 | **visScrollBarBoth**|&H5 |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ The  **TimerInterval** property setting of the report specifies the interval, in
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

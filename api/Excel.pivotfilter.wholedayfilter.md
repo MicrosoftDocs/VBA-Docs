@@ -46,3 +46,4 @@ For a non-date filter, any access returns a run-time error.
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

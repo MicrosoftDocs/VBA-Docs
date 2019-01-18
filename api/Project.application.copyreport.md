@@ -63,3 +63,5 @@ If you use the  **CopyReport** method on a view that is not supported, Project s
 
 
 [Reports.Item](Project.reports.item.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

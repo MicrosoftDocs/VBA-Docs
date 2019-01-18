@@ -36,3 +36,4 @@ When the  **Enabled** property is **True**, the conditional format can be displa
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ Your program handles this event to add a custom property page. The property page
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

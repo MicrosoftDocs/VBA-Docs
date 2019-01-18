@@ -28,3 +28,4 @@ Specifies the case of the text in the specified range.
 | **wdToggleCase**|5|Switches uppercase characters to lowercase, and lowercase characters to uppercase.|
 | **wdUpperCase**|1|Uppercase.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

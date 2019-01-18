@@ -60,4 +60,4 @@ Sub Timescale_NonWorking()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

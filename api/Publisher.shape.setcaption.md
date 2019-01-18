@@ -36,4 +36,4 @@ Sets the caption style for the shape.
 
 This method works only if  `Shape.Type = pbPicture`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

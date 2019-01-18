@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Sentences.Item method (Word)](http://msdn.microsoft.com/library/e68b4bac-c7b2-9953-d24d-e97e6b2f026c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

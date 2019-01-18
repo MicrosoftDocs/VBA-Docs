@@ -57,3 +57,5 @@ Lset MyString = "<-Left" ' MyString contains "<-Left ".
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Disk files often have data stored in proprietary formats. This error has the fol
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

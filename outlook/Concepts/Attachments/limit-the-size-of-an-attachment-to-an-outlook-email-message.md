@@ -146,3 +146,4 @@ End Class
  [Attach an Outlook Contact Item to an Email Message](attach-an-outlook-contact-item-to-an-email-message.md)<br>
  [Modify an Attachment of an Outlook Email Message](modify-an-attachment-of-an-outlook-email-message.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

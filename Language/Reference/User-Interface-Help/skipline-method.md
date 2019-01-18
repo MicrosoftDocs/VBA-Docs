@@ -31,3 +31,5 @@ An error occurs if the file is not open for reading.
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

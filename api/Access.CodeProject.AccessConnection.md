@@ -34,3 +34,4 @@ You should use the AccessConnection property if you intend to create ADO records
 
 [CodeProject Object](Access.CodeProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

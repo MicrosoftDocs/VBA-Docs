@@ -21,4 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Confirmed Property (Project)](http://msdn.microsoft.com/library/1ffc0ed6-7787-d0b8-068c-70c92e5a4c99%28Office.15%29.aspx)
 - [Task.Cost5 Property (Project)](http://msdn.microsoft.com/library/81357a35-2bae-9cd2-35ea-9de07cffa182%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

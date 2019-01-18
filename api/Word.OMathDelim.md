@@ -23,3 +23,4 @@ Represents a delimiter object, consisting of opening and closing delimiters (suc
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

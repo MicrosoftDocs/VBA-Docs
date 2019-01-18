@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ResponsePending Property (Project)](http://msdn.microsoft.com/library/b2ec93e8-a26b-6b7b-0287-be3b757ad938%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

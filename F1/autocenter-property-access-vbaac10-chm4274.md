@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.AutoCenter property (Access)](http://msdn.microsoft.com/library/a60f8783-5a25-42b5-da99-c5e2925fd6ea%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

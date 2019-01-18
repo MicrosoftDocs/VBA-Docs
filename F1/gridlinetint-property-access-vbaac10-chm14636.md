@@ -35,3 +35,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ComboBox.GridlineTint property (Access)](http://msdn.microsoft.com/library/b0f0aad3-7355-d594-8874-ec7229c1dff1%28Office.15%29.aspx)
 [OptionButton.GridlineTint property (Access)](http://msdn.microsoft.com/library/83b2b75b-7c9d-0e6c-1015-eeead18cb20b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ SlideShowWindows(1).View.Exit
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

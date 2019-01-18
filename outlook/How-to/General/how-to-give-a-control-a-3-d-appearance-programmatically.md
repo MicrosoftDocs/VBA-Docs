@@ -19,4 +19,4 @@ The following code example uses the  **[ModifiedFormPages](../../../api/Outlook.
 Item.GetInspector.ModifiedFormPpages("Test").Checkbox1.SpecialEffect = 2
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

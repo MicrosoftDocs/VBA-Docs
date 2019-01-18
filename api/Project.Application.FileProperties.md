@@ -33,4 +33,4 @@ Displays the  **Properties** dialog box for the active project file.
 
 See the  **[BuiltinDocumentProperties](Project.Project.BuiltinDocumentProperties.md)** and **[CustomDocumentProperties](Project.Project.CustomDocumentProperties.md)** properties, as well as the appropriate Visual Basic properties of the **[Project](Project.Project.md)** object, to manipulate the values of these properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

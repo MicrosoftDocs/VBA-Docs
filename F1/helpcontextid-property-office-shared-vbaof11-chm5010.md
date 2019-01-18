@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarButton.HelpContextId Property (Office)](http://msdn.microsoft.com/library/2e4f33db-7143-dd8d-65b3-d0c993f2e966%28Office.15%29.aspx)
 [CommandBarPopup.HelpContextId Property (Office)](http://msdn.microsoft.com/library/b07d39b7-9fad-51dc-b093-de88cd1ea905%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

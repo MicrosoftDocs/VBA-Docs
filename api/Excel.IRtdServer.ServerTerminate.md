@@ -29,3 +29,4 @@ _expression_ A variable that represents an [IRtdServer](Excel.IRtdServer.md) obj
 
 [IRtdServer Object](Excel.IRtdServer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

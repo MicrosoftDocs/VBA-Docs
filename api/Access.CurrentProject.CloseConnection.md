@@ -41,3 +41,4 @@ The  **CloseConnection** method is useful when you have opened a Microsoft Acces
 
 [CurrentProject Object](Access.CurrentProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

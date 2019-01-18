@@ -44,3 +44,4 @@ Workbooks(1).PublishObjects(1).Title = "Sales Forecast"
 
 [PublishObject Object](Excel.PublishObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

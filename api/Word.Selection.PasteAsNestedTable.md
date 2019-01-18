@@ -45,3 +45,4 @@ ActiveDocument.Tables(1).Rows(1).Cells(3).Range _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

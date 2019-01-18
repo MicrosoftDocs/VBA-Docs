@@ -37,3 +37,4 @@ _expression_ A variable that represents an '[AccountSelector](Outlook.AccountSel
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

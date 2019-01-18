@@ -24,3 +24,4 @@ Data recordset refresh constants passed to and returned by the  **[DataRecordset
 | **visRefreshNoReconcilationUI**|2|Disables display of the  **Refresh Conflicts** task pane in the Microsoft Visio user interface after data is refreshed.|
 | **visRefreshOverwriteAll**|1|When data is refreshed, overwrites all user changes made since the previous refresh operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

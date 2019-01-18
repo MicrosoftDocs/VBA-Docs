@@ -21,3 +21,4 @@ Indicates which version of French to use when using the French language spelling
 | **wdFrenchPostReform**|2|Use only the Post Reform French dictionary when checking French language spelling.|
 | **wdFrenchPreReform**|1|Use only the Pre-Reform French dictionary when checking French language spelling.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

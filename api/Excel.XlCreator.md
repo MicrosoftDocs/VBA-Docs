@@ -19,3 +19,4 @@ Specifies the 32-bit creator code for Excel for Macintosh (decimal 1480803660, H
 |:-----|:-----|:-----|
 | **xlCreatorCode**|1480803660|The Excel for Macintosh creator code.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

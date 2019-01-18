@@ -67,3 +67,4 @@ Next
 
 [AnimationBehaviors Object](PowerPoint.AnimationBehaviors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

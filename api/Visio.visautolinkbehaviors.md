@@ -29,3 +29,4 @@ Linking behavior constants passed to the  **[Selection.AutomaticLink](Visio.Sele
 | **visAutoLinkReplaceExistingLinks**|8|Replace existing links.|
 | **visAutoLinkSelectedShapesOnly**|1|Link selected shapes only, not sub-shapes of selected shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

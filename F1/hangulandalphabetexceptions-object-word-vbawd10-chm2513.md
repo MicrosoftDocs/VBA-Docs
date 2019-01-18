@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HangulAndAlphabetExceptions object (Word)](http://msdn.microsoft.com/library/ddb128f0-3752-5d38-e65a-767f17d86294%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets a  **String** that represents the name of the style to use for f
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

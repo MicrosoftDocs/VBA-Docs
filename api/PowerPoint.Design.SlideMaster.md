@@ -45,3 +45,4 @@ Application.ActivePresentation.SlideMaster.Background.Fill _
 
 [Design Object](PowerPoint.Design.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

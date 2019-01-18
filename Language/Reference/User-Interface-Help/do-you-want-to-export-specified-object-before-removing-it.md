@@ -23,3 +23,4 @@ You can export forms and [modules](../../Glossary/vbe-glossary.md#module), and r
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ End If
 
 [CoAuthor Object](Word.CoAuthor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

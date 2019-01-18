@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Years Object (Project)](http://msdn.microsoft.com/library/3aa139cf-2fc2-7039-5659-8e2d833b5a4f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

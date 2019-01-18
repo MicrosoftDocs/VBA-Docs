@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Borders object (Word)d3980652-deb6-940f-3844-9b357790b227](http://msdn.microsoft.com/library/d3980652-deb6-940f-3844-9b357790b227%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

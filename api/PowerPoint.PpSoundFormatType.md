@@ -23,3 +23,4 @@ Constants that specify the format of a sound file. In previous versions of Micro
 |**ppSoundFormatNone**|0|No format|
 |**ppSoundFormatWAV**|1|WAV format|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

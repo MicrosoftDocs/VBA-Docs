@@ -35,3 +35,5 @@ The last statement does not explicitly declare the variable, but rather declares
 
 - [Visual Basic reference](../../reference/user-interface-help/visual-basic-language-reference.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

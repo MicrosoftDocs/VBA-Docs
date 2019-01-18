@@ -29,3 +29,4 @@ Returns the video frame rate per second of the sample. Read-only.
 
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

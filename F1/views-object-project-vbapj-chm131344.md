@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Tasks Object (Project)](http://msdn.microsoft.com/library/b7482b5a-7fac-531e-6793-610faca2f954%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

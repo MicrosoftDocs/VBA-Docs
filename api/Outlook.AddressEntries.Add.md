@@ -49,3 +49,4 @@ New entries or changes to existing entries are not persisted in the collection u
 
 [AddressEntries Object](Outlook.AddressEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

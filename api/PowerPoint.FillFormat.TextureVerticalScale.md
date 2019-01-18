@@ -39,3 +39,4 @@ The setting of the  **TextureVerticalScale** property corresponds to the setting
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

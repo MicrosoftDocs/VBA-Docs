@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnEnter property (Access)](http://msdn.microsoft.com/library/6d8f659f-a8aa-4671-509c-c82ae5dead0c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ MsgBox AutoCorrect.Entries(1).RichText
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

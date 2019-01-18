@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Exit event (Access)](http://msdn.microsoft.com/library/d31c55ca-a2d9-7576-0a7f-a19307c36e87%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

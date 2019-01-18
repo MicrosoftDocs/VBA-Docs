@@ -21,3 +21,4 @@ Specifies the type of a calculated member in a PivotTable.
 | **xlCalculatedMember**|0|The member uses a Multidimensional Expression (MDX) formula.|
 | **xlCalculatedSet**|1|The member contains an MDX formula for a set in a cube field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,5 @@ Adds a  **WorkWeek** object to a **WorkWeeks** collection.
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

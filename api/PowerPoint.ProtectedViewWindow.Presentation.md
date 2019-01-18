@@ -29,3 +29,4 @@ Returns a  **[Presentation](PowerPoint.Presentation.md)** object that represents
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

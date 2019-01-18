@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You must have a graphics-capable printer to print a form image.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

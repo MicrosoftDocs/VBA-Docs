@@ -22,5 +22,5 @@ Use this procedure to add a control from the  [Control Toolbox](../Customizing-F
   - Drag a control from the  **Control Toolbox** to the form. The control appears in its default size.
     
   - Double-click the control in the  **Control Toolbox**, and then click in the form once for each control that you want to create. For example, to create four command buttons, double-click the  [CommandButton](../../../api/Outlook.commandbutton.md) control in the **Control Toolbox**, and then click four times in the form.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,3 +57,4 @@ The  _statusbartext_ argument is optional, this argument is ignored for custom s
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

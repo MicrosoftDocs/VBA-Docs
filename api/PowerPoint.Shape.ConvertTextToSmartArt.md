@@ -37,3 +37,4 @@ Converts text in a  **Shape** object to a SmartArt diagram.
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

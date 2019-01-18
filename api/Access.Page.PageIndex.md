@@ -50,3 +50,4 @@ Forms("Order Entry").Controls("Information").Pages("Notes").PageIndex = 0
 
 [Page Object](Access.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

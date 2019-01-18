@@ -34,3 +34,4 @@ This property returns the value of the  **[Subject](Outlook.SharingItem.Subject.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

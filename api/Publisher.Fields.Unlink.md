@@ -44,4 +44,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .TextFrame.TextRange.Fields(1).Unlink
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

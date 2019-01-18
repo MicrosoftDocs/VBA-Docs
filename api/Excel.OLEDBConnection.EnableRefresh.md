@@ -34,3 +34,4 @@ The  **[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)** propert
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

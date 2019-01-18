@@ -36,3 +36,4 @@ Returns an error if you attempt to enable a rule condition that is supported onl
 
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

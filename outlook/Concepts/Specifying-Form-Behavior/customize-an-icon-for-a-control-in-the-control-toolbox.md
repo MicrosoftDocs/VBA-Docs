@@ -19,5 +19,5 @@ localization_priority: Normal
 4. To edit the icon, click  **Edit Picture**. In the  **Color** box, click the color that you want to use, and then click the pixel in the **Picture** box where you want to apply the color. Click **OK**. 
     
 5. To assign a new bitmap, click  **Load Picture**. In the  **File name** box, type the name of the file that contains the bitmap you want to use as the icon. The bitmap cannot be larger than an icon.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

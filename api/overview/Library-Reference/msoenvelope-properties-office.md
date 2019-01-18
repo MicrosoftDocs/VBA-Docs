@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Item](../../Office.MsoEnvelope.Item.md)|Gets a  **MailItem** object that can be used to send the document as an email. Read-only.|
 |[Parent](../../Office.MsoEnvelope.Parent.md)|Gets the  **Parent** object for the MsoEnvelope object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

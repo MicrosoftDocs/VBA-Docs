@@ -38,3 +38,4 @@ Adds a tag to the  **[Tags](PowerPoint.Tags.md)** collection of an object.
 
 [Tags Object](PowerPoint.Tags.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

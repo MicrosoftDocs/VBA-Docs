@@ -76,3 +76,4 @@ End Sub
 |[Count](Publisher.BorderArts.Count.md)|
 |[Parent](Publisher.BorderArts.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

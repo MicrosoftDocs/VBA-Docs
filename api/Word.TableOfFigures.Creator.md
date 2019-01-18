@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

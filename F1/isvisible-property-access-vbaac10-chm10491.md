@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.IsVisible property (Access)](http://msdn.microsoft.com/library/e288a0a8-40e2-9609-b11c-ac68438c2339%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

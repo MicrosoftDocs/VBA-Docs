@@ -28,4 +28,4 @@ Returns the number of words in the text range represented by the parent  **TextR
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

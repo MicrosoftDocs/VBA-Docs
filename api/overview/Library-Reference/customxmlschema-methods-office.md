@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Delete](../../Office.CustomXMLSchema.Delete.md)|Deletes the specified schema from the  **CustomXMLSchema** collection.|
 |[Reload](../../Office.CustomXMLSchema.Reload.md)|Reloads a schema from a file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

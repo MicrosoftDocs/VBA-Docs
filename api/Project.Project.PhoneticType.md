@@ -28,4 +28,4 @@ Gets or sets the type of characters used to display phonetic information. Read/w
 
 The  **PhoneticType** property can be one of the following **[PjPhoneticType](Project.PjPhoneticType.md)** constants: **pjKatakanaHalf**, **pjKatakana**, or **pjHiragana**. The **PhoneticType** property produces tangible results only if the Japanese version of Projectis used.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

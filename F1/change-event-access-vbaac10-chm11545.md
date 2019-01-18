@@ -33,3 +33,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ComboBox.MouseUp event (Access)](http://msdn.microsoft.com/library/400e2f82-9177-d084-680e-32673164e457%28Office.15%29.aspx)
 - [ComboBox.NotInList event (Access)](http://msdn.microsoft.com/library/1c8a73e1-ca69-ae31-c86a-c1dc6cb3e860%28Office.15%29.aspx)
 - [ComboBox.Undo event (Access)](http://msdn.microsoft.com/library/d1064051-bbf9-ce00-c43e-19775879185c%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

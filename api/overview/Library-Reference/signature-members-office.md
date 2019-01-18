@@ -36,3 +36,4 @@ Represents a digital signature attached to a document. **Signature** objects are
 |[SignatureLineShape](../../Office.Signature.SignatureLineShape.md)|Gets the **Shape** object associated with a **Signature** object that is a signature line. Read-only.|
 |[SortHint](../../Office.Signature.SortHint.md)|Gets a value representing the sort order of the signatures in a packet with multiple signatures. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

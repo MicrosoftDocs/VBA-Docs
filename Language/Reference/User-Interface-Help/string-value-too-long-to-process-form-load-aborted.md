@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A string embedded in the form being loaded was too long to process.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

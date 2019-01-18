@@ -58,4 +58,4 @@ Application.ActiveDocument.Pages(1).Shapes(2) _
  .Font.Bold = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

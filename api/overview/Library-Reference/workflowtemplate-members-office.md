@@ -32,3 +32,4 @@ Represents one of the workflows available for the current document.
 |[Id](../../Office.WorkflowTemplate.Id.md)|Gets the ID of a template used to create a workflow instance. Read-only.|
 |[Name](../../Office.WorkflowTemplate.Name.md)|Gets the name of the **WorkflowTemplate** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

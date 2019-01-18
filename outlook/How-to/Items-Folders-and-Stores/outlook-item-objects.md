@@ -47,8 +47,5 @@ The following are the item-level objects defined in the Outlook object model:
 -  **[TaskRequestItem Object](../../../api/Outlook.TaskRequestItem.md)**
     
 -  **[TaskRequestUpdateItem Object](../../../api/Outlook.TaskRequestUpdateItem.md)**
-    
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

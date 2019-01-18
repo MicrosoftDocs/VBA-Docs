@@ -89,4 +89,4 @@ Public Sub DropLinked_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

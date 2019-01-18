@@ -20,3 +20,4 @@ Specifies the state of the option for automatically saving document versions.
 | **wdAutoVersionOff**|0|No document version is saved.|
 | **wdAutoVersionOnClose**|1|A document version is saved automatically when the document is closed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

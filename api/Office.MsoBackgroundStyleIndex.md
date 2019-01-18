@@ -32,3 +32,4 @@ Indicates the background style for an object.
 |**msoBackgroundStyleMixed**|-2|Specifies a combination of styles.|
 |**msoBackgroundStyleNone**|0|Specifies no styles.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

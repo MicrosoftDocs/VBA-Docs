@@ -29,3 +29,4 @@ Deletes the specified page number.
 
 [PageNumber Object](Word.PageNumber.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,4 @@ Contains constants that specify the project type.
 
 The [Project.Type](Project.Project.Type.md) property is a **PjProjectType** value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

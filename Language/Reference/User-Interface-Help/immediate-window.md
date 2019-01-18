@@ -54,3 +54,5 @@ Use these key combinations in the Immediate window.
 
 - [Use the Immediate window](use-the-immediate-window.md)
 - [Window elements](../window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

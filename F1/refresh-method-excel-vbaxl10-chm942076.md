@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.AddConnection method (Excel)](http://msdn.microsoft.com/library/58ed2796-9cfa-2737-43c0-f5a5a4badcc3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

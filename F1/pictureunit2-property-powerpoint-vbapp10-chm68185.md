@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendKey.PictureUnit2 Property (PowerPoint)](http://msdn.microsoft.com/library/018b1a1e-2d00-abee-eeed-8886baec9f4a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

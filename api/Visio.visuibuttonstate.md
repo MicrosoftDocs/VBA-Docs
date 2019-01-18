@@ -24,3 +24,4 @@ Constants describing the state of buttons in command bars to be passed to and re
 | **visButtonDown**|-1|Button is down.|
 | **visButtonUp**|q|Button is up.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

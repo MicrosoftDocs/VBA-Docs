@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TaskPanes.Parent property (Word)](http://msdn.microsoft.com/library/06faa655-fb00-d840-a2f0-a4a3cc5977aa%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

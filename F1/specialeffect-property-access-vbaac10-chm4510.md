@@ -35,4 +35,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.SpecialEffect property (Access)](http://msdn.microsoft.com/library/9d34e61b-9ba9-02e0-4bd8-30da0a043a89%28Office.15%29.aspx)
 - [WebBrowserControl.SpecialEffect property (Access)](http://msdn.microsoft.com/library/59764207-eecc-d310-30dd-ac5173d5c2a4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

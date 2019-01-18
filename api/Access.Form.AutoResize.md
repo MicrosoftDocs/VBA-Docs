@@ -49,3 +49,4 @@ If the  **AutoCenter** property is set to No, a Form window opens with its upper
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

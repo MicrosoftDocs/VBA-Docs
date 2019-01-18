@@ -59,5 +59,5 @@ End Sub
 ## See also
 
 -  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Boolean
 
 Whether the data features are enabled depends on the licensing of the installed version of Visio.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

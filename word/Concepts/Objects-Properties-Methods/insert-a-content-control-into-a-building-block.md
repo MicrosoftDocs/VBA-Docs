@@ -51,5 +51,5 @@ End Sub
 
 -  [Working with Building Blocks](../Working-with-Word/working-with-building-blocks.md)    
 -  [Working with Content Controls](../Working-with-Word/working-with-content-controls.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

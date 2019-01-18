@@ -38,3 +38,4 @@ Object
 
 [MsoEnvelope Object Members](./overview/Library-Reference/msoenvelope-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

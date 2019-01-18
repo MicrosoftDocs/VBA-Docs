@@ -54,4 +54,4 @@ Dim strDataSourceTable As String
  End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

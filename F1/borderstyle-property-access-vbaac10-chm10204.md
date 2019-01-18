@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TabControl.BorderStyle property (Access)](http://msdn.microsoft.com/library/c09cf24e-2974-5b7f-3493-064258658c61%28Office.15%29.aspx)
 - [ToggleButton.BorderStyle property (Access)](http://msdn.microsoft.com/library/339bfae9-4320-565c-c299-eb92bc28e4f0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ localization_priority: Normal
 |[Count](../../Office.WorkflowTemplates.Count.md)|Gets a **Long** indicating the number of items in the **WorkflowTemplates** collection. Read-only.|
 |[Creator](../../Office.WorkflowTemplates.Creator.md)|Gets a 32-bit integer that indicates the application in which the **WorkflowTemplates** object was created. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,3 +53,4 @@ ActiveDocument.Tables(1).Range.InsertCaption _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

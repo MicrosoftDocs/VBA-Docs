@@ -42,3 +42,4 @@ If ActiveDocument.FormFields(1).Type = wdFieldFormCheckBox Then
 
 [CheckBox Object](Word.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Specifies the type of data label to apply.
 | **xlDataLabelsShowPercent**|3|Percentage of the total. Available only for pie charts and doughnut charts.|
 | **xlDataLabelsShowValue**|2|Default value for the point (assumed if this argument is not specified).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

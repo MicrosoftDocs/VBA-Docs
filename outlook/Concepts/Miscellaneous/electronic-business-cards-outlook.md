@@ -15,5 +15,5 @@ localization_priority: Normal
 -  [Customize and Share Business Cards](../Electronic-Business-Cards/customize-and-share-business-cards.md)
     
 -  [Share Contact Information Including the Business Card](../Electronic-Business-Cards/share-contact-information-including-the-business-card.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

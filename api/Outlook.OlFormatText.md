@@ -22,3 +22,4 @@ Indicates the format used to display text Outlook item properties.
 |:-----|:-----|:-----|
 | **olFormatTextText**|1|Display values as text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

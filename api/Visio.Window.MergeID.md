@@ -37,4 +37,4 @@ The  **MergeID** property applies only to anchored windows. If the **Window** ob
 
 Use the  **Type** property to determine window type.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,4 @@ The settings for  _xAction_ and _yAction_ are:
 
 The  **Scroll** method applies scroll bars that appear on a **[Frame](Outlook.frame.md)** that is larger than its display area. This method does not apply to the stand-alone **[ScrollBar](Outlook.scrollbar.md)** control or to scroll bars that appear on a **[TextBox](Outlook.textbox.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

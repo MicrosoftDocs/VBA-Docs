@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ShapeRange.UpgradeMedia Method (PowerPoint)](http://msdn.microsoft.com/library/a05e171a-1fff-1128-7a2d-a5576593fc70%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

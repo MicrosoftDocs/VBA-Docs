@@ -29,3 +29,4 @@ Returns the number of items in the  **OMathAutoCorrectEntries** collection. Read
 
 [OMathAutoCorrectEntries Collection](Word.OMathAutoCorrectEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

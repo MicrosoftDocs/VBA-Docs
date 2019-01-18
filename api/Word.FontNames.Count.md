@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of font names in the collection. 
 
 [FontNames Object](Word.FontNames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

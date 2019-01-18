@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeShapeTextEdit Event (Visio)](http://msdn.microsoft.com/library/db6cdf8c-6a1d-37c4-e185-8809ddafc340%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ Gets or sets the width, in points, of the shape. Read/write  **Long**.
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

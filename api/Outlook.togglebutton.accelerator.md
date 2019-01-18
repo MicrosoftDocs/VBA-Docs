@@ -25,4 +25,4 @@ To designate an accelerator key, enter a single character for the  **Accelerator
 
 When an accelerator key is used, there is no visual feedback (other than focus) to indicate that the control initiated the  **[Click](Outlook.togglebutton.click.md)** event. For example, if the accelerator key applies to a **[CommandButton](Outlook.commandbutton.md)**, the user will not see the button pressed in the interface. The button receives the focus, however, when the user presses the accelerator key.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

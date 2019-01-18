@@ -34,3 +34,4 @@ You can enumerate the  **[RuleActions](Outlook.RuleActions.md)** collection from
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,3 +60,5 @@ End Sub
 
 
 [Projects Collection Object](Project.projects.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,5 +19,4 @@ Use the [View.RevisionsFilter](Word.view.revisionsfilter.md) property to return 
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

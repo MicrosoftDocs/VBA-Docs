@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnMouseMove property (Access)](http://msdn.microsoft.com/library/1b24e970-1f29-af26-2d01-e6587812bf13%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

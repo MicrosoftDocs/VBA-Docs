@@ -37,4 +37,4 @@ SolverChange cellRef:=Range("F4:F6"), _
 SolverSolve userFinish:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

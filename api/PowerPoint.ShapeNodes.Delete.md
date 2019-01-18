@@ -42,3 +42,4 @@ The segment following the Index node is also deleted. If the node is a control p
 
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

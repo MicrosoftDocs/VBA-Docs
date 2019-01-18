@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [AccelTables Object (Visio)](http://msdn.microsoft.com/library/1bc9671b-83dc-1349-9171-92d1650ebec8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

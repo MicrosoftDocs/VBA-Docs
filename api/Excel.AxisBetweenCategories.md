@@ -35,4 +35,4 @@ This example causes the value axis to cross the category axis between categories
 myChart.Axes(xlCategory).AxisBetweenCategories = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

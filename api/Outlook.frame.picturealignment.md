@@ -44,4 +44,4 @@ If you tile an image on a control or container, the setting of  **PictureAlignme
 
 Setting the  **[PictureSizeMode](Outlook.frame.picturesizemode.md)** property to 2 overrides **PictureAlignment**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

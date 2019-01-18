@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Cost Property (Project)](http://msdn.microsoft.com/library/3b285665-f01a-fc05-2bdd-a15d51ec8f4e%28Office.15%29.aspx)
 - [Assignment.CostRateTable Property (Project)](http://msdn.microsoft.com/library/03d615e2-6dea-849f-a9a5-c20e1c35bee8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

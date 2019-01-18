@@ -21,3 +21,4 @@ Specifies how many categories are supported by the provider.
 |**msoBlogNoCategories**|0|No categories are supported.|
 |**msoBlogOneCategory**|1|One category is supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

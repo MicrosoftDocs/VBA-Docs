@@ -32,4 +32,4 @@ Returns an  **Object** that represents the parent object of the specified **Cate
 
 [CategoryCollection Object](Word.categorycollection.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

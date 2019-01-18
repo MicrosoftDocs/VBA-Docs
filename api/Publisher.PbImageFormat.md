@@ -31,3 +31,4 @@ Represents the image format of a picture as determined by Microsoft® Windows® 
 | **pbImageFormatUNKNOWN**|1|Unknown|
 | **pbImageFormatWMF**|3|WMF|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

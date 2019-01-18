@@ -50,4 +50,4 @@ The following code shows how to get the parent of the first shape on the current
 Debug.Print vsoViewer.ParentShape(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

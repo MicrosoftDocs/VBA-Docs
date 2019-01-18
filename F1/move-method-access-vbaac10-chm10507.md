@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Move method (Access)](http://msdn.microsoft.com/library/58c51741-fb49-4b0a-91e0-cb9486808597%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

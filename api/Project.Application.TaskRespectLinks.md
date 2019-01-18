@@ -40,4 +40,4 @@ The  **TaskRespectLinks** method corresponds to the **Respect Links** command on
 
 Suppose a manually scheduled task has a predecessor task with a finish-to-start (FS) link, the finish date of the predecessor task is 7/15/2012, and the start date of the manually scheduled task is 7/20/2012 with no lag time. Running the  **TaskRespectLinks** method moves the start date back to 7/15/2012.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

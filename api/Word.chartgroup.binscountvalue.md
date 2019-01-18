@@ -27,3 +27,4 @@ Specifies the number of bins in the histogram chart. Read/write  **Long**.
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

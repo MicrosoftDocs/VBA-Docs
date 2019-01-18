@@ -28,4 +28,4 @@ Returns  **True** if the image represented by the parent **PictureFormat** objec
 
 MsoTriState
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -152,4 +152,4 @@ Such add-ins should ensure that AutoSave is turned off by setting AutoSaveOn to 
 - [**BeforeSave** event in PowerPoint](../../api/PowerPoint.Application.PresentationBeforeSave.md)
 - [**BeforeSave** event in Word](../../api/Word.Application.DocumentBeforeSave.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

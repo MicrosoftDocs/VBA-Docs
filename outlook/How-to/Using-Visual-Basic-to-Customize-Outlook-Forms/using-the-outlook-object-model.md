@@ -39,5 +39,5 @@ localization_priority: Normal
 -  [Use Current User Properties from the Microsoft Exchange Server Global Address List](use-current-user-properties-from-the-microsoft-exchange-server-global-address-li.md)
     
 -  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

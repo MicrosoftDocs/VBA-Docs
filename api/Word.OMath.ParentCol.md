@@ -29,3 +29,4 @@ Returns an  **[OMathMatCol](Word.OMathMatCol.md)** object that represents the pa
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

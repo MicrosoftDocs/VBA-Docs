@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.Pattern Property (Project)](http://msdn.microsoft.com/library/d1aaabe7-c970-8738-caa4-b222db88fdd0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

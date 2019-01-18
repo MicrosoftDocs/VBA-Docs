@@ -30,3 +30,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestDeclineItem.BeforeAttachmentWriteToTempFile Event (Outlook)](http://msdn.microsoft.com/library/c9564849-ecb2-a5a2-1c7e-f7cfea5ce34d%28Office.15%29.aspx)
 - [TaskRequestItem.BeforeAttachmentWriteToTempFile Event (Outlook)](http://msdn.microsoft.com/library/edcc0bf0-e5bd-fadd-d8ce-7a3ac9f22c99%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeAttachmentWriteToTempFile Event (Outlook)](http://msdn.microsoft.com/library/2d53b081-6f97-daf9-4e21-61005cba942a%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

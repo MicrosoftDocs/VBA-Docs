@@ -17,3 +17,4 @@ Several methods are provided in Office Outlook 2007 to share contact information
 
 If you use the  **ForwardAsBusinessCard** or **AddBusinessCard** methods, the Electronic Business Card is also appended to the body of the mail item if the **[BodyFormat](../../../api/Outlook.MailItem.BodyFormat.md)** property of the **MailItem** object is set to **olFormatHTML**. You can also use the  **[SaveBusinessCardImage](../../../api/Outlook.ContactItem.SaveBusinessCardImage.md)** method of the **ContactItem** object to save an Electronic Business Card as a Portable Network Graphics (.png) image file.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

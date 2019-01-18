@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion.FontItalic Property (Project)](http://msdn.microsoft.com/library/db176109-6a39-e129-933e-1a5a1ce8c78a%28Office.15%29.aspx)
 [GroupCriterion2.FontItalic Property (Project)](http://msdn.microsoft.com/library/12a5735a-8e6f-4da3-2c4f-9669e2daf80a%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

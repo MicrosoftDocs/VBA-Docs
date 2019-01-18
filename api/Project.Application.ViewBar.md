@@ -33,4 +33,4 @@ Shows or hides the View Bar.
 
 The View Bar shows icons for many of the views in a bar along the left side of the Project application window.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

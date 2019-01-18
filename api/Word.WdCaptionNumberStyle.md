@@ -50,3 +50,4 @@ Specifies the number style to be used with the  **CaptionLabel** object.
 | **wdCaptionNumberStyleZodiac1**|30|Zodiac style 1.|
 | **wdCaptionNumberStyleZodiac2**|31|Zodiac style 2.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

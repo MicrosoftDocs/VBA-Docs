@@ -54,3 +54,4 @@ End Sub
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

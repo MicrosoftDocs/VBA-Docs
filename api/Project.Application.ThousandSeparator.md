@@ -25,4 +25,4 @@ Gets the thousands separator symbol. Read-only  **String**.
 
 Project internally sets the  **ThousandSeparator** property equal to the corresponding value of the **Digit grouping symbol** in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

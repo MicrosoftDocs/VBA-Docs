@@ -31,4 +31,4 @@ This example plots data points from last to first on the value axis.
 myChart.Axes(xlValue).ReversePlotOrder = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

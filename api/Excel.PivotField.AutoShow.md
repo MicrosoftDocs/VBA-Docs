@@ -51,3 +51,4 @@ ActiveSheet.PivotTables("Pivot1").PivotFields("Company") _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

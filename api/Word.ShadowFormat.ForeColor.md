@@ -29,3 +29,4 @@ Returns or sets a  **[ColorFormat](Word.ColorFormat.md)** object that represents
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

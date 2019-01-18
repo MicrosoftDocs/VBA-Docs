@@ -57,3 +57,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseUp
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

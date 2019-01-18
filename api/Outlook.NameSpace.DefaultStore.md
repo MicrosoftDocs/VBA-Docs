@@ -34,3 +34,4 @@ Returns an error if there is no default store for the current profile.
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ Use the  **Tag** property to assign an identification string to a control withou
 
 For example, you can use  **Tag** to check the identity of a control that is passed as a variable to a procedure.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

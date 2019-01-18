@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Window.KeyDown Event (Visio)](http://msdn.microsoft.com/library/70f7d929-5907-e125-1a7f-b68046c6b9dd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

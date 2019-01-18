@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.SelectionChanged Event (Visio)](http://msdn.microsoft.com/library/d2749204-9003-f4a7-1de0-b47d5e6abb1b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

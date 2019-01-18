@@ -16,3 +16,4 @@ Many of the properties and methods of the  **[Application](../../../api/Word.App
 
 Properties and methods that can be used without the  **Application** object qualifier are considered "global." To view the global properties and methods in the Object Browser, click **&lt;globals&gt;** at the top of the list in the **Classes** box.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

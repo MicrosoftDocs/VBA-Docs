@@ -30,3 +30,5 @@ The  **MonthPosition** property can be one of the following **[PjExceptionPositi
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

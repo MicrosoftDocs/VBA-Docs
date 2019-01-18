@@ -141,4 +141,4 @@ End Sub
 
 Sample code provided by Edwin Blancovitch, president of [Advanced Developers.net](https://advdev.net/), creators of [Easy Payroll](https://www.easypayroll.net/), a software package to manage your human resources, payroll, scheduling, time, and attendance needs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

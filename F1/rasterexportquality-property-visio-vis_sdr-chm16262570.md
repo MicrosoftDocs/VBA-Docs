@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportQuality Property (Visio)](http://msdn.microsoft.com/library/6864bbfd-bb2d-721f-4146-f66974318929%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

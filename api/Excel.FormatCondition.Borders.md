@@ -47,3 +47,4 @@ End Sub
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

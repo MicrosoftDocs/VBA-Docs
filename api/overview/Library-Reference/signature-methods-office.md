@@ -19,3 +19,4 @@ localization_priority: Normal
 |[ShowDetails](../../Office.Signature.ShowDetails.md)|Displays details related to a signature packet.|
 |[Sign](../../Office.Signature.Sign.md)|Creates a signature packet.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

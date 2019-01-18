@@ -47,3 +47,4 @@ ActiveSheet.PivotTables("PivotTable3") _
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

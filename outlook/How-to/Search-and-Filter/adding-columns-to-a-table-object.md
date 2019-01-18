@@ -19,4 +19,4 @@ Since a folder can contain heterogeneous items (for example, the Deleted Items f
 
  **Note**  Since the  **Item** method is the default method for the **[Row](../../../api/Outlook.Row.md)** object, `Row.Item("MessageClass")` is equivalent to `Row("MessageClass")`.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

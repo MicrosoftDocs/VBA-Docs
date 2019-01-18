@@ -25,4 +25,4 @@ Gets or sets a string representation of the task duration. Read/write  **String*
 
 The  **DurationText** property is used for manually scheduled tasks. When you convert a manually scheduled task to an auto-scheduled task, if **DurationText** has any value, you should convert the value to a date for the **Duration** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

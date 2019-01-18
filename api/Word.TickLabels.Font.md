@@ -29,3 +29,4 @@ Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFon
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

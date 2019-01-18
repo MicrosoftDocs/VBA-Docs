@@ -38,3 +38,4 @@ To distinguish between the left, right, and middle mouse buttons, use the  **Mou
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

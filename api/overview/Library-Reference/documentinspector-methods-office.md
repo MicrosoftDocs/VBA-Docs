@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Fix](../../Office.DocumentInspector.Fix.md)|Performs an action on specific information items or document properties depending on the Document Inspector module specified.|
 |[Inspect](../../Office.DocumentInspector.Inspect.md)|Inspects a document for specific information or document properties.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

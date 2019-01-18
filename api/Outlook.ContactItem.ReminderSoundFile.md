@@ -34,3 +34,4 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.ContactI
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

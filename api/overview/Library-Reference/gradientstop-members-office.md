@@ -22,3 +22,4 @@ Represents one gradient stop.
 |[Position](../../Office.GradientStop.Position.md)|Gets or sets a value representing the position of a stop within the gradient expressed as a percent. Read/write.|
 |[Transparency](../../Office.GradientStop.Transparency.md)|Gets or sets a value representing the opacity of the gradient fill expressed as a percent. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

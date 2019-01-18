@@ -36,3 +36,5 @@ Specified strings are written to the file with no intervening spaces or characte
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

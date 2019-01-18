@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Cell.CellColor Property (Project)](http://msdn.microsoft.com/library/30d67933-a9ce-9e57-f7ac-c4af2f485959%28Office.15%29.aspx)
 - [Task.CV Property (Project)](http://msdn.microsoft.com/library/29ca1811-b2f1-6830-424d-f3306dce38ef%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

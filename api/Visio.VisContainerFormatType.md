@@ -25,3 +25,4 @@ Version Added: Visio 2010
 | **visContainerFormatContainerAutoResize**|1|Change how the container resizes automatically.|
 | **visContainerFormatFitToContents**|2| Force the container to resize so as to tightly include all member shapes, including any applicable margins between the container and the shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

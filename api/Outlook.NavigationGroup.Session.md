@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [NavigationGroup Object](Outlook.NavigationGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

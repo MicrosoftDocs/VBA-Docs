@@ -49,3 +49,4 @@ ActiveWindow.Panes.Item(3).ScrollRow = 5
 
 [Panes Object](Excel.Panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

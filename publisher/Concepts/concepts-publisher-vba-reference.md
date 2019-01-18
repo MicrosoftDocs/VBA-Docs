@@ -16,5 +16,5 @@ This section contains the following overviews about programmability in Publisher
 -  [Using events with the Application object](using-events-with-the-application-object-publisher.md)
     
 -  [Using events with the Document object](using-events-with-the-document-object-publisher.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

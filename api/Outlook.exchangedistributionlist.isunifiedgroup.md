@@ -32,3 +32,4 @@ Returns the  **Outlook.Folder** object associated with the group using the [GetU
 
 [ExchangeDistributionList Object (Outlook)](Outlook.ExchangeDistributionList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Constants that represent building block types.
 | **pbBBUser**|3|User-defined type|
 | **pbBBWorkgroup**|4|Workgroup-defined type|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

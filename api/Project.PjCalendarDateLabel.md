@@ -53,3 +53,4 @@ Contains constants that specify the format for top and bottom date panes of each
 |**pjNoDateFormat**|35|No date is displayed.|
 |**pjOverflowIndicator**|122|Overflow indicator.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

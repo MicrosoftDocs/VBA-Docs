@@ -65,3 +65,4 @@ myDocument.Shapes(1).BlackWhiteMode = msoBlackWhiteBlack
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

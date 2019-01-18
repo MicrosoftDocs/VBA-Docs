@@ -34,3 +34,4 @@ When the  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The outermost table has a nesting level of 1. The nesting level of each successi
 
 [Columns Collection Object](Word.columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

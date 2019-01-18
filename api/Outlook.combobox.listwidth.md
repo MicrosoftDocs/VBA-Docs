@@ -30,4 +30,4 @@ If you want to display a multicolumn list, enter a value that will make the list
 
  When designing combo boxes, be sure to leave enough space to display your data and for a vertical scroll bar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

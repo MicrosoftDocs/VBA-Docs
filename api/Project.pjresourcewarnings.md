@@ -25,3 +25,4 @@ Defines the different types of warnings that may appear on resources triggering 
 |**pjResourceWarningWorkingInDraftEngagedTime**|**32**||
 |**pjResourceWarningWorkingInProposedEngagedTime**|**16**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

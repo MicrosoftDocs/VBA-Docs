@@ -44,3 +44,4 @@ Worksheets(1).Shapes(1).AlternativeText = "Concentric circles"
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

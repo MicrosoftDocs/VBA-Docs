@@ -36,4 +36,4 @@ Shows or hides drawings on the Gantt Chart.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

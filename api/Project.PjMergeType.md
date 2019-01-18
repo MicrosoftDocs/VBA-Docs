@@ -22,3 +22,4 @@ Contains constants that specify how to merge data.
 |**pjMerge**|1|Merge the data.|
 |**pjPrompt**|2|Prompt the user to choose how to merge.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

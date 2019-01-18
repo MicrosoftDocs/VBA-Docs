@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Layout property (Access)](http://msdn.microsoft.com/library/345bd2bf-1f4f-21d5-c4cf-b5fb41f280ea%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

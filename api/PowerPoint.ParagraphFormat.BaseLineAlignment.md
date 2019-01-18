@@ -58,3 +58,4 @@ MsgBox ActivePresentation.Slides(1).Shapes(2).TextFrame.TextRange _
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

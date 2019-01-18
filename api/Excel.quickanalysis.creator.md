@@ -38,3 +38,4 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ The  **Shapes** collection of layout elements can include drawings, shapes, OLE 
 
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

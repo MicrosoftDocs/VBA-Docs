@@ -41,4 +41,4 @@ Executes a redo action on items in the  **Redo** list.
 
 You can add items to the  **Redo** list by using the **[Undo](Project.Application.Undo.md)** method or clicking **Undo** in the Quick Access Toolbar.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

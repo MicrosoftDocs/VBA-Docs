@@ -68,4 +68,4 @@ Dim strNew As String
 > [!NOTE] 
 > A delete query is much more efficient than code that loops through a **Recordset**, modifying or deleting one record at a time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

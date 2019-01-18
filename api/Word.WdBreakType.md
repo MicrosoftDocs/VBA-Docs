@@ -28,3 +28,4 @@ Specifies type of break.
 | **wdSectionBreakOddPage**|5|Section break with the next section beginning on the next odd-numbered page. If the section break falls on an odd-numbered page, Word leaves the next even-numbered page blank.|
 | **wdTextWrappingBreak**|11|Ends the current line and forces the text to continue below a picture, table, or other item. The text continues on the next blank line that does not contain a table aligned with the left or right margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

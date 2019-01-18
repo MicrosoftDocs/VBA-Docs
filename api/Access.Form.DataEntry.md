@@ -38,3 +38,4 @@ Setting the  **DataEntry** property to Yes by using Visual Basic has the same ef
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

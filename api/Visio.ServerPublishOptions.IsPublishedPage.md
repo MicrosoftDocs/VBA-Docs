@@ -44,4 +44,4 @@ The setting of the  **IsPublishedPage** property corresponds to the status (sele
 
 To change the publish status of a page, you can use the  **[IncludePage](Visio.ServerPublishOptions.IncludePage.md)** and **[ExcludePage](Visio.ServerPublishOptions.ExcludePage.md)** methods of the **ServerPublishOptions** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

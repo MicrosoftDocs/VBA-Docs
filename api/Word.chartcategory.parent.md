@@ -32,4 +32,4 @@ Returns an  **Object** that represents the parent object of the specified **Char
 
 [ChartCategory Object](Word.chartcategory.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

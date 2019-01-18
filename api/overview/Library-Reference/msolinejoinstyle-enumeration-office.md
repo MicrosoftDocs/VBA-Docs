@@ -28,3 +28,4 @@ Specifies the type of join where two lines connect.
 |**msoLineJoinRound**|**1**||
 |Name|Value|Description|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

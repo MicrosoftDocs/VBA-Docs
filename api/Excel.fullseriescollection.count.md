@@ -33,3 +33,4 @@ _expression_ A variable that represents a [FullSeriesCollection object (Excel)](
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

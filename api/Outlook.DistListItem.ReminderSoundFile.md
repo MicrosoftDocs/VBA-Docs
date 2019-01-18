@@ -34,3 +34,4 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.DistList
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [CalculatedFields](Excel.CalculatedFie
 
 [CalculatedFields Collection](Excel.CalculatedFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Load](../../Office.ThemeFontScheme.Load.md)|Loads the font scheme of a Microsoft Office theme from a file.|
 |[Save](../../Office.ThemeFontScheme.Save.md)|Saves the font scheme of a Microsoft Office theme to a file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

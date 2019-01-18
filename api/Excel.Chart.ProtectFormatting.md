@@ -44,3 +44,4 @@ Worksheets(1).ChartObjects(1).Chart.ProtectFormatting = True
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

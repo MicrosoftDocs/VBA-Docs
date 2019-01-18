@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OldValue property (Access)](http://msdn.microsoft.com/library/a03e4e4c-0c02-7e6a-0654-fafc8a0f0036%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

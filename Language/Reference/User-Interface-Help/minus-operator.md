@@ -63,3 +63,5 @@ MyResult = 4 - 2   ' Returns 2.
 MyResult = 459.35 - 334.90   ' Returns 124.45.
 
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

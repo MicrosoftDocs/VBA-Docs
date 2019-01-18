@@ -34,3 +34,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BackColor property (Access)](http://msdn.microsoft.com/library/7880c596-7a47-39b6-74ad-8036355a8e0f%28Office.15%29.aspx)
 - [ToggleButton.BackColor property (Access)](http://msdn.microsoft.com/library/b86516be-1bf2-8a0d-ef4d-1795880ff8c4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

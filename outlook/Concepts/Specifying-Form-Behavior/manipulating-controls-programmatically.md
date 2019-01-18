@@ -139,5 +139,5 @@ localization_priority: Normal
 -  [How to: Swap Columns of a Multicolumn List Box](../../How-to/General/how-to-swap-columns-of-a-multicolumn-list-box.md)
     
 -  [How to: Undo and Redo an Action in a Text Box or a Combo Box](../../How-to/General/how-to-undo-and-redo-an-action-in-a-text-box-or-a-combo-box.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

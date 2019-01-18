@@ -37,3 +37,4 @@ The path doesn't include a trailing character — for example, "C:\MSOffice" or 
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

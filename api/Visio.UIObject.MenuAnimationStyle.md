@@ -47,3 +47,4 @@ Constants representing animation styles are prefixed with  **visMenuAnimation** 
 | **visMenuAnimationUnfold**| 2|
 | **visMenuAnimationSlide**| 3|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

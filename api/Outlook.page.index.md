@@ -28,4 +28,4 @@ The  **Index** property specifies the order in which tabs appear. Changing the v
 
 In a  **MultiPage**,  **Index** refers to a **Page** as well as the page's **[Tab](Outlook.tab.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnDblClick property (Access)](http://msdn.microsoft.com/library/465d95b4-64e3-1d1b-e388-5c96bfd2e5c9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

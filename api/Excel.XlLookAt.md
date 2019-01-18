@@ -20,3 +20,4 @@ Specifies whether a match is made against the whole of the search text or any pa
 | **xlPart**|2|Match against any part of the search text.|
 | **xlWhole**|1|Match against the whole of the search text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

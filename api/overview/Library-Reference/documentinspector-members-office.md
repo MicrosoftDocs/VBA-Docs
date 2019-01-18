@@ -30,3 +30,4 @@ Represents a Document Inspector module in a **[DocumentInspectors](../../Office.
 |[Name](../../Office.DocumentInspector.Name.md)|Gets the name of the module represented by a **DocumentInspector** object. Read-only.|
 |[Parent](../../Office.DocumentInspector.Parent.md)|Gets an object that represents the parent of the **DocumentInspector** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

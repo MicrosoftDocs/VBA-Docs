@@ -20,5 +20,5 @@ This documentation contains the following information:
 - Information about running the SaveAsWeb add-on from the command line and persisting Save as Web Page settings in the Windows registry.
     
 - Details about the Save as Web object model's enumeration, methods, objects, and properties.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

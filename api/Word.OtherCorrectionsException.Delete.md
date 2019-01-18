@@ -29,3 +29,4 @@ Deletes the specified exception.
 
 [OtherCorrectionsException Object](Word.OtherCorrectionsException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

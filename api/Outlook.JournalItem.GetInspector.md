@@ -34,3 +34,4 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

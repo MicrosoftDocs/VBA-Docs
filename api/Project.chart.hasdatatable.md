@@ -29,3 +29,5 @@ localization_priority: Normal
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

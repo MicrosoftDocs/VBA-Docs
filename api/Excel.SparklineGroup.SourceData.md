@@ -41,3 +41,4 @@ The data source range for a single sparkline in the sparkline group must be cont
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

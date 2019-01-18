@@ -22,3 +22,4 @@ Specifies how Excel opens the XML data file.
 | **xlXmlLoadOpenXml**|1|Opens the XML data file. The contents of the file will be flattened.|
 | **xlXmlLoadPromptUser**|0|Prompts the user to choose how to open the file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property returns  **True** if the object is locked or **False** if the obje
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

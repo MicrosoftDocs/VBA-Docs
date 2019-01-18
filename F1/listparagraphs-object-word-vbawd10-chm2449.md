@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ListParagraphs object (Word)](http://msdn.microsoft.com/library/759c510b-bca1-0b4b-005c-5a3783dd8e96%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

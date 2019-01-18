@@ -16,3 +16,4 @@ You have to enter a string when searching in the object browser. This error has 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

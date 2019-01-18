@@ -32,4 +32,4 @@ Set mySheet = myChart.Application.DataSheet
 mySheet.Range("A1:G37").Cut
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

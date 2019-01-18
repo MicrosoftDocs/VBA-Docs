@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

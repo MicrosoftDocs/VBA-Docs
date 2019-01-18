@@ -32,3 +32,4 @@ Represents a collection of **CustomXMLSchema** objects attached to a data stream
 |[NamespaceURI](../../Office.CustomXMLSchemaCollection.NamespaceURI.md)|Gets the unique address identifier for the namespace of the **CustomXMLSchemaCollection** object. Read-only.|
 |[Parent](../../Office.CustomXMLSchemaCollection.Parent.md)|Gets the **Parent** object for the **CustomXMLSchemaCollection** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

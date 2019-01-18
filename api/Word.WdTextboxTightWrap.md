@@ -30,4 +30,4 @@ Typically, text is wrapped to the extents of the text box, including any white s
 
  **Note**  This setting works only if the text box is floating and has no border or fill set.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

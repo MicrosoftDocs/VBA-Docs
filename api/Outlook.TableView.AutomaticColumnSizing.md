@@ -34,3 +34,4 @@ If this property is set to  **False** , then the **[Multiline](Outlook.TableView
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Specifies the type of messages in the specified folder or folders that a rule sh
 | **olRuleExecuteReadMessages**|1|Executes a rule against messages that have been read in the specified folder or folders.|
 | **olRuleExecuteUnreadMessages**|2|Executes a rule against messages that have not been read in the specified folder or folders.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

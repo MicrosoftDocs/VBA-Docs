@@ -35,3 +35,4 @@ _expression_ A variable that represents a 'ExplorerEvents_10' object.
 
 [Explorer.DisplayModeChange Event (Outlook)](Outlook.explorer.displaymodechange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

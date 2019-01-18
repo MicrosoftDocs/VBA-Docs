@@ -61,3 +61,4 @@ End With
 
 [Points Object](PowerPoint.Points.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

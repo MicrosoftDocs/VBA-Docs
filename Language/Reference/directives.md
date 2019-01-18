@@ -22,3 +22,5 @@ localization_priority: Priority
 
 - [Keywords by task](user-interface-help/keywords-by-task.md)
 - [Visual Basic language reference](user-interface-help/visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Executes the Forward action for the item or items that are selected in the contr
 
 _expression_ A variable that represents a  **ViewCtl** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

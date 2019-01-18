@@ -21,3 +21,4 @@ Contains constants that specify a field attribute.
 |**pjFieldAttributeNone**|0|None.|
 |**pjFieldAttributeValueList**|2|Value list.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

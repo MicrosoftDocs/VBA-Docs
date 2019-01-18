@@ -29,3 +29,4 @@ _expression_ A variable that represents a [XmlNamespace](./Excel.XmlNamespace.md
 
 [XmlNamespace Object](Excel.XmlNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

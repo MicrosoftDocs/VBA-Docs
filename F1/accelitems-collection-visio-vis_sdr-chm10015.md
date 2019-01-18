@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [AccelItems Object (Visio)](http://msdn.microsoft.com/library/183d6b82-7bd4-69a3-562a-c17092442f9f.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

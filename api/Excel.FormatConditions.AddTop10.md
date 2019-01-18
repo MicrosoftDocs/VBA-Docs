@@ -39,3 +39,4 @@ Using the  **Top10** object, you can find the highest and lowest values in a ran
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

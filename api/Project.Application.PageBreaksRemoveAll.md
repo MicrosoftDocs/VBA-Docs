@@ -28,4 +28,4 @@ Removes all manual page breaks in the active project.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

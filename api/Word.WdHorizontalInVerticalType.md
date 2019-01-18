@@ -21,3 +21,4 @@ Specifies the format of horizontal text set within vertical text.
 | **wdHorizontalInVerticalNone**|0|No formatting is applied to the horizontal text.|
 | **wdHorizontalInVerticalResizeLine**|2|The line of vertical text is sized to accommodate the horizontal text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

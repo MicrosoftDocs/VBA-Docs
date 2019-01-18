@@ -30,3 +30,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnKeyUp property (Access)](http://msdn.microsoft.com/library/77ebdf97-ae3f-73f4-d670-3c99d1f4f87d%28Office.15%29.aspx)
 - [ToggleButton.OnKeyUp property (Access)](http://msdn.microsoft.com/library/a932ab8a-3b48-8aa3-5ee4-97593b4394a4%28Office.15%29.aspx)
 - [WebBrowserControl.OnKeyUp property (Access)](http://msdn.microsoft.com/library/b9ad26fe-2e31-958c-220d-8394b8a2e3de%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

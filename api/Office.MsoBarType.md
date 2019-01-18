@@ -21,3 +21,4 @@ Specifies the type of the command bar.
 |**msoBarTypeNormal**|0|Default command bar.|
 |**msoBarTypePopup**|2|Shortcut menu.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

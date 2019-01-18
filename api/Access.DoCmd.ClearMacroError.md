@@ -36,3 +36,4 @@ After an error has been handled, the information in the  **MacroError** object i
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

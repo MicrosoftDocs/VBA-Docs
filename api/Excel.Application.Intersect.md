@@ -95,3 +95,4 @@ Intersect(Range("A1:A5"), Range("A5:A10")).Select 'Selects cell A5.
 
 - [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

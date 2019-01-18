@@ -160,4 +160,4 @@ End Sub
 
 Save the document to initialize the class, and then move the mouse briefly in the active window to fire a series of  **MouseMove** events. In the Immediate window, the handler prints a list of x- and y-position value pairs, each of which corresponds to the mouse position when a **MouseMove** event fired.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

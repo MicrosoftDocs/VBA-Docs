@@ -47,3 +47,4 @@ For a form that supports irreversible operations, such as deletions, it's a good
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

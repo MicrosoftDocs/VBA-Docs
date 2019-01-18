@@ -44,3 +44,4 @@ End If
 
 [Tab Object](Excel.Tab.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,5 +43,5 @@ This topic links to programming tasks (how-to and walkthrough topics) for common
 -  [How to: Create a User Form](../Controls-DialogBoxes-Forms/create-a-user-form.md)
     
       - Describes how to create a user form.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

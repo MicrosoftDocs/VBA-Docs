@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The [control](../../Glossary/vbe-glossary.md#control) named in the ASCII text file couldn't be loaded because its name is already in use in the application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

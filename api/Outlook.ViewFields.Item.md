@@ -42,3 +42,4 @@ A  **ViewField** object that represents the specified object.
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

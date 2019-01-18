@@ -38,4 +38,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.OnMouseUp property (Access)](http://msdn.microsoft.com/library/734cb3dc-0489-d336-007c-e7a93658680f%28Office.15%29.aspx)
 - [WebBrowserControl.OnMouseUp property (Access)](http://msdn.microsoft.com/library/7c76ab24-d9df-c038-b4cc-cb6fbe38a8a0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

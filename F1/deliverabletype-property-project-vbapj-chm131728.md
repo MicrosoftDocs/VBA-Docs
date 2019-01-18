@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.DefaultFinishTime Property (Project)](http://msdn.microsoft.com/library/25c6bcc1-6543-b4b4-780b-d924189054de%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

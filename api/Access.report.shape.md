@@ -44,4 +44,4 @@ strShape = Reports(0).Shape
 
  **STRING**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,3 +53,4 @@ Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 
 [Charts Collection](Excel.Charts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

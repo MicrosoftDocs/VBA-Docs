@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Click  **OK** to see more errors, otherwise click **Cancel**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

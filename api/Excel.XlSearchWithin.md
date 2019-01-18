@@ -20,3 +20,4 @@ Specifies the extent of the search for the range.
 | **xlWithinSheet**|1|Limit search to current sheet.|
 | **xlWithinWorkbook**|2|Search whole workbook.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

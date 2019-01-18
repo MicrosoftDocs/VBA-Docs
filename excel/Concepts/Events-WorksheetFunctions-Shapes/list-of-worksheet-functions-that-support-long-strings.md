@@ -55,4 +55,4 @@ For more information about a particular function, see the [Excel functions (by c
 - USDOLLAR
 - VALUE
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

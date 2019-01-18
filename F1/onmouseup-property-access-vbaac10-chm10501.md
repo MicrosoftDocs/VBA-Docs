@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.OnMouseUp property (Access)](http://msdn.microsoft.com/library/01abc8c3-031e-eb7e-1893-a4a7c6fbd24e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

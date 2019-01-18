@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Sent
 
 [Sentences Collection Object](Word.sentences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

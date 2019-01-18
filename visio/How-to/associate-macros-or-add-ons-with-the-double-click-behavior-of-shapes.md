@@ -23,5 +23,5 @@ localization_priority: Normal
 5. Click  **OK**.
     
 6. Double-click the shape to run the macro or add-on.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

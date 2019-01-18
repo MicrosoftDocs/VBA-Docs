@@ -34,3 +34,4 @@ You can use this method on column, bar, line, or radar charts.
 
 [Floor Object](Word.Floor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

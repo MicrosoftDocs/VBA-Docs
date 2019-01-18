@@ -49,3 +49,5 @@ This example uses the **#Const** directive to declare conditional compiler const
 ## See also
 
 - [Const statement](const-statement.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

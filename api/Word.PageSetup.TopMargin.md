@@ -59,3 +59,4 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

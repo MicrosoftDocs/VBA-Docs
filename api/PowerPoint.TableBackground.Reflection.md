@@ -34,3 +34,4 @@ ReflectionFormat
 
 [TableBackground Object](PowerPoint.TableBackground.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

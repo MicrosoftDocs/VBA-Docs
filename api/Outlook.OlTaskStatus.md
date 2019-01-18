@@ -30,4 +30,4 @@ Indicates the task status.
 
 Used by the [TaskItem.Status Property (Outlook)](Outlook.TaskItem.Status.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

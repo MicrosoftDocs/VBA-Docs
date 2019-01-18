@@ -45,3 +45,4 @@ The **Raise** method of the **Err** object generates the specified error. The **
 >  
 > - If you wish to return the descriptive string associated with a Access error or a Data Access Objects (DAO) error, but the error has not actually occurred in your code, you can use the AccessError method to return the string.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

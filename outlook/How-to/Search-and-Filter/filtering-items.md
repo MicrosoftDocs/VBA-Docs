@@ -67,7 +67,5 @@ The syntax of a filter depends on the type of the property you are filtering on.
 -  [Filtering Items Using Comparison and Logical Operators](filtering-items-using-comparison-and-logical-operators.md)
     
 -  [Filtering Items Using Query Keywords](filtering-items-using-query-keywords.md)
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,4 +17,4 @@ To add  [controls](activex-controls.md) to a document, open the **Control Toolbo
 
  **Note**  Dragging a control or a number of "grouped" controls from the form back to the  **Control Toolbox** creates a template of the controls, which you can reuse. This is a useful feature for implementing a standard interface for your applications.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

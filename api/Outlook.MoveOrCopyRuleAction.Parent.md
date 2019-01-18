@@ -34,3 +34,4 @@ The parent object is the  **[RuleAction](Outlook.RuleAction.md)** object.
 
 [MoveOrCopyRuleAction Object](Outlook.MoveOrCopyRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

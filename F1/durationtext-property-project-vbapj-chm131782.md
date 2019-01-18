@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.EnterpriseCheckedOutBy Property (Project)](http://msdn.microsoft.com/library/9e741c85-ffc7-6d49-18ea-bfdcafe23934%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ShowCriticalSlack Property (Project)](http://msdn.microsoft.com/library/fac1cf14-8f6f-34ca-7bab-71d444e78346%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

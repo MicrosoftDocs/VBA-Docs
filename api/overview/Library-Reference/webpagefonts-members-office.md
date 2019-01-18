@@ -22,3 +22,4 @@ A collection of **WebPageFont** objects that describe the proportional font, pro
 |[Creator](../../Office.WebPageFonts.Creator.md)|Gets a 32-bit integer that indicates the application in which the **WebPageFonts** object was created. Read-only.|
 |[Item](../../Office.WebPageFonts.Item.md)|Gets a **WebPageFont** object from the **WebPageFonts** collection for a particular value of **MsoCharacterSet**. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

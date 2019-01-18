@@ -23,3 +23,4 @@ Contains constants that specify a line pattern.
 |**pjDot**|3|Dotted line.|
 |**pjNoLines**|0|No line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

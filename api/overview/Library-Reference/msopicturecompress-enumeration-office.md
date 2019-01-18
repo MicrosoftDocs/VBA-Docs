@@ -19,3 +19,4 @@ Specifies whether a picture will be compressed or not when inserted into a file.
 |**msoPictureCompressFalse**|0|The picture is not compressed.|
 |**msoPictureCompressTrue**|1|The picture will be compressed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

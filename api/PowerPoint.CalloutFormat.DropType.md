@@ -87,3 +87,4 @@ End With
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

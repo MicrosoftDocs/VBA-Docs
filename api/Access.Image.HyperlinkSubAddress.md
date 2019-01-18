@@ -62,3 +62,4 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 
 [Image Object](Access.Image.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

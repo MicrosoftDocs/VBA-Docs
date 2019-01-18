@@ -20,3 +20,4 @@ Specifies how to associate a style sheet with the document.
 | **wdStyleSheetLinkTypeImported**|1|Imported internal style sheet.|
 | **wdStyleSheetLinkTypeLinked**|0|Linked external style sheet.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

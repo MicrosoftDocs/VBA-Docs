@@ -38,3 +38,4 @@ If the  **PostItem** object is created in a version of Microsoft Outlook earlier
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

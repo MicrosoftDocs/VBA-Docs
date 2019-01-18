@@ -26,5 +26,5 @@ For more information, see  [How to: Specify a Subject Prefix of an Item Resultin
 3. In the  **Subject prefix** box, type the text as you want it to appear (Outlook automatically adds a colon after the text).
     
     For example, you could add the prefix "Re:" to a reply form.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

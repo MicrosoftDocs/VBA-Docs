@@ -54,3 +54,4 @@ The Change event doesn't occur when a value changes in a calculated control.
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

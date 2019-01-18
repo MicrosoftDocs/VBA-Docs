@@ -34,3 +34,4 @@ The properties  **[ContactItem.User1](Outlook.ContactItem.User1.md)** , **Contac
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

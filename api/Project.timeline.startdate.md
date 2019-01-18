@@ -21,5 +21,4 @@ Indicates the start date for a  **Timeline** bar based on the input argument. In
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

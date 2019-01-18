@@ -11,4 +11,4 @@ localization_priority: Normal
 
 This object or member is deprecated and is not intended to be used in your code.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

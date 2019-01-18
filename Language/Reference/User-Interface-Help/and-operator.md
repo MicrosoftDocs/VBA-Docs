@@ -70,3 +70,5 @@ MyCheck = A And B                 ' Returns 8 (bitwise comparison).
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ If Windows.Count > 1 Then ActiveDocument.ActiveWindow.Next.Activate
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

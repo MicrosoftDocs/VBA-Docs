@@ -215,3 +215,4 @@ To run the form region, you must register it in the Windows registry, specifying
     
 You will see the form region **Contoso Airlines** at the bottom of the **General** page of the Contact form, as shown in Figure 1.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

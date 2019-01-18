@@ -26,3 +26,4 @@ If the point has a picture fill, copies the picture to the Clipboard.
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

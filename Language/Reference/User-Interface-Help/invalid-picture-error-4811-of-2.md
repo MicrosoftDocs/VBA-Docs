@@ -17,6 +17,5 @@ An invalid graphics format was assigned to the  **Picture** property. This error
 
 
 - You tried to assign a graphics format other than a bitmap, icon, or Windows metafile to the  **Picture** property of a form or control. Ensure that the file you are trying to load into the **Picture** property is a valid graphics file supported by Visual Basic.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

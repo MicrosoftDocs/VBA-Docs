@@ -24,3 +24,4 @@ Contains constants that specify the resource graph style.
 |**pjStep**|2|Step.|
 |**pjStepLine**|4|Step line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

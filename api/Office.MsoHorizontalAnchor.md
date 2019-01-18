@@ -21,3 +21,4 @@ Specifies the horizontal alignment of text in a text frame. Used with the  **Hor
 |**msoAnchorNone**|1|No alignment.|
 |**msoHorizontalAnchorMixed**|-2|Return value only; indicates a combination of the other states.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

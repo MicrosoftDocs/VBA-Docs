@@ -36,4 +36,4 @@ The  **ActiveDocument** property often, but not necessarily, returns a reference
 
  **Note**  You can extend the set of properties and methods of a project's  **Document** object by adding public properties and methods to that project's **ThisDocument** class module. The new methods and properties are exposed just like the built-in methods and properties implemented by Visio. The new methods and properties are not available when you reference other **Document** objects. The **ThisDocument** object is not available to code that is not part of the VBA project of a Visio document.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

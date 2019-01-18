@@ -32,3 +32,5 @@ For an example that uses the  **ColumnsCount** property, see the **ReportTable**
 
 [ReportTable Object](Project.reporttable.md)
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

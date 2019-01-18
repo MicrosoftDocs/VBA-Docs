@@ -25,5 +25,5 @@ localization_priority: Normal
 -  [Examples of Validation Formulas](examples-of-validation-formulas.md)
     
 -  [Create a Validation Formula and Message](create-a-validation-formula-and-message.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

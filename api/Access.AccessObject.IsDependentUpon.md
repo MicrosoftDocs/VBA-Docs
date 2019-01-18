@@ -57,3 +57,4 @@ Access does not search Visual Basic for Applications (VBA) code, macros, or data
 
 [AccessObject Object](Access.AccessObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

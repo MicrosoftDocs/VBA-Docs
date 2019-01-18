@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [BuildingBlocks.Count property (Word)](http://msdn.microsoft.com/library/44a4d5ec-4333-6b13-cd26-f7b9b273ba65%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

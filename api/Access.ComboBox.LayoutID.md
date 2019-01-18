@@ -34,3 +34,4 @@ The  **LayoutID** property returns 0 (zero) if the specified control is not part
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

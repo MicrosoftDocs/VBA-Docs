@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You must use English (United States) date formats in SQL statements in Visual Basic. However, you can use international date formats in the query design grid.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

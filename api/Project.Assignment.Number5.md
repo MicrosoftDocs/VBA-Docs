@@ -20,4 +20,4 @@ Gets or sets a Number local custom field for an assignment. Read/write  **Double
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

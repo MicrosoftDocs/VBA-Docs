@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Lists object (Word)](http://msdn.microsoft.com/library/1fd927c5-6186-5ca0-80ae-c2ab225d092c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

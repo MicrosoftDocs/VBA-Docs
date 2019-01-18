@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a class name longer than 40 characters. The [class](../../Glossary/vbe-glossary.md#class) will be loaded with the name truncated to 40 characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

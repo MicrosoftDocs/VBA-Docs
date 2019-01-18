@@ -29,3 +29,4 @@ Returns a  **[Section](Word.Section.md)** object that represents the first item 
 
 [Sections Collection Object](Word.sections.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,4 @@ Note also that in previous versions of Visio, to save a document along with work
 
 Starting with Visio 2007, by default, workspace information is saved with all documents except stencils. To specify that workspace information not be saved with a document, set  **ContainsWorkspaceEx** to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

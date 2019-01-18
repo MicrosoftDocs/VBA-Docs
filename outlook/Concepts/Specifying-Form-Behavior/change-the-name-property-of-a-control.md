@@ -15,3 +15,4 @@ localization_priority: Normal
     
      **Note**  Each control should have a unique name.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

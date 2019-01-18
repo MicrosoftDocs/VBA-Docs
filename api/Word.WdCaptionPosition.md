@@ -20,3 +20,4 @@ Specifies the position of the caption label text.
 | **wdCaptionPositionAbove**|0|The caption label is added above.|
 | **wdCaptionPositionBelow**|1|The caption label is added below.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

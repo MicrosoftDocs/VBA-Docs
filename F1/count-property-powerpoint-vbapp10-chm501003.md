@@ -56,3 +56,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextStyles.Count Property (PowerPoint)](http://msdn.microsoft.com/library/afdd652f-7f97-899d-af82-1f2396ff23b9%28Office.15%29.aspx)
 - [ThemeVariants.Count Property (PowerPoint)](http://msdn.microsoft.com/library/8c81b865-ac46-60ce-ca0a-0650fce07eca%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

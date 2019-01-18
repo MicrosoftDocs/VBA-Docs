@@ -34,3 +34,4 @@ Use the  **Type** property of the **[FormField](Word.FormField.md)** object to d
 
 [DropDown Object](Word.DropDown.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

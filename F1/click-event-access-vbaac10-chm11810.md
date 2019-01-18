@@ -30,4 +30,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.MouseMove event (Access)](http://msdn.microsoft.com/library/ae3b48a2-962a-2990-5922-41abc9ab7f59%28Office.15%29.aspx)
 - [ToggleButton.MouseUp event (Access)](http://msdn.microsoft.com/library/a7db8f67-202d-21a4-f74a-3826e80bb22c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

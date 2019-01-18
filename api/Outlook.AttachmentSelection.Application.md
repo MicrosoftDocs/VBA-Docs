@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AttachmentSelection](./Outlook.Attac
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

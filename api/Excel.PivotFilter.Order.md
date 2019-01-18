@@ -42,3 +42,4 @@ Increasing the evaluation order for a field will decrease the evaluation order o
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Specifies the series labels for the series label levels.
 | **xlSeriesNameLevelNone**|-3 (&HFFFFFFFD)|Set no category labels in the chart. Defaults to automatic indexed labels.|
 | **xlSeriesNameLevelAll**| **-1**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

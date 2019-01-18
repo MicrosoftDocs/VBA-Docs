@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.CalloutRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/1a4c30f1-e449-f713-3cec-b02029935d02%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

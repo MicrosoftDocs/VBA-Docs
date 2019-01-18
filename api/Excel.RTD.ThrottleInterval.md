@@ -34,3 +34,4 @@ The default value is 2000 milliseconds. If this value is changed, the new value 
 
 [RTD Object](Excel.RTD.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

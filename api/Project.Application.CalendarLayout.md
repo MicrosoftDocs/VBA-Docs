@@ -37,4 +37,4 @@ Changes how task bars are arranged on the Calendar.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

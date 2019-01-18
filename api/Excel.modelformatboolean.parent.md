@@ -27,4 +27,4 @@ _expression_ A variable that represents a 'ModelFormatBoolean' object.
 
 [ModelFormatBoolean Object](Excel.modelformatboolean.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

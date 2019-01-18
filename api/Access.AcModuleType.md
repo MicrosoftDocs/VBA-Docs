@@ -23,3 +23,4 @@ Returns the type of the specified Visual Basic module.
 |**acClassModule**|1|The specified module is a class module.|
 |**acStandardModule**|0|The specified module is a standard module.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeAssignmentNew2 Event (Project)](http://msdn.microsoft.com/library/9e2f3358-325e-53b9-3da6-5323482e2a47%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Engagement.ReviewedByGuid Property (Project)](http://msdn.microsoft.com/library/f7080dbb-93f2-fe06-38c2-ed56fd3d73c0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

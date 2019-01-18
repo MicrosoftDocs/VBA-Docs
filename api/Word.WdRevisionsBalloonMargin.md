@@ -20,3 +20,4 @@ Specifies the margin where revision balloons should be displayed.
 | **wdLeftMargin**|0|Left margin.|
 | **wdRightMargin**|1|Right margin. default.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

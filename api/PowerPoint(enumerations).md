@@ -140,3 +140,4 @@ This section contains documentation for the enumerations in the PowerPoint objec
 - [XlUnderlineStyle](PowerPoint.XlUnderlineStyle.md)
 - [XlVAlign](PowerPoint.XlVAlign.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

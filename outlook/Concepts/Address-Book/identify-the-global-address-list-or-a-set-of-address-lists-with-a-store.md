@@ -166,4 +166,4 @@ public List<Outlook.AddressList> GetAddressLists(Outlook.Store store)
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

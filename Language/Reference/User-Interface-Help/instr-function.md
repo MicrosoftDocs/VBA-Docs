@@ -81,3 +81,5 @@ MyPos = Instr(1, SearchString, "W")    ' Returns 0.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

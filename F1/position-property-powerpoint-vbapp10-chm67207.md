@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [PlotArea.Position Property (PowerPoint)](http://msdn.microsoft.com/library/91a145b4-928c-5ec2-d50c-8e860458e2bd%28Office.15%29.aspx)
 [AxisTitle.Position Property (PowerPoint)](http://msdn.microsoft.com/library/7a6ccf47-0614-8880-2337-f1be9c9d1af4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

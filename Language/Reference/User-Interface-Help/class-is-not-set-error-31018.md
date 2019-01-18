@@ -16,3 +16,4 @@ If you don't specify a source document (**SourceDoc** property) when setting **A
 
 To display a list of the available class names at [design time](../../Glossary/vbe-glossary.md#design-time), right-click the  **OLE** container control and choose the **Insert Object** command.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

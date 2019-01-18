@@ -44,3 +44,4 @@ MsgBox "Microsoft Excel is using " & Application.OperatingSystem
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

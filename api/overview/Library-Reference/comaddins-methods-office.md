@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Item](../../Office.COMAddIns.Item.md)|Gets a member of the specified  **COMAddIns** collection.|
 |[Update](../../Office.COMAddIns.Update.md)|Updates the contents of the COMAddIns collection from the list of add-ins stored in the Windows registry.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Specifies whether a line is a line of text or a table row.
 | **wdTableRow**|1|A table row.|
 | **wdTextLine**|0|A line of text in the body of the document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

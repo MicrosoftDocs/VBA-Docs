@@ -59,3 +59,4 @@ End With
 
 [ODBCError Object](Excel.ODBCError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

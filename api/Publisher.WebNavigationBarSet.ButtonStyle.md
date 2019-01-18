@@ -43,4 +43,4 @@ The following example sets the button style to  **pbnbButtonStyleLarge** for the
 ActiveDocument.WebNavigationBarSets(1).ButtonStyle = pbnbButtonStyleLarge
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,5 +25,5 @@ localization_priority: Normal
 -  [Delete Data to Reset Solution Storage](../../How-to/Solution-Storage/delete-data-to-reset-solution-storage.md)
     
 -  [Save Auto-Archive Properties of a Folder in Solution Storage](../../How-to/Solution-Storage/save-auto-archive-properties-of-a-folder-in-solution-storage.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

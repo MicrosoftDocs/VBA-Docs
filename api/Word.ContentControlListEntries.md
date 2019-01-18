@@ -56,4 +56,4 @@ Dim objCC As ContentControl  Set objCC = ActiveDocument.ContentControls(1)  objC
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

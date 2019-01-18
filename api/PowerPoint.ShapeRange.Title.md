@@ -46,3 +46,4 @@ myDocument.Shapes.Title.TextFrame.TextRange.Text = "Welcome!"
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [XMLSchemaReferences object (Word)](http://msdn.microsoft.com/library/653a9f2e-ed31-072c-50c5-def8ccdbf139.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

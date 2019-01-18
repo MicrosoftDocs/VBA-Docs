@@ -43,4 +43,4 @@ MsgBox "Address of first hyperlink: " _
  .TextFrame.TextRange.Hyperlinks.Item(1).Address
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

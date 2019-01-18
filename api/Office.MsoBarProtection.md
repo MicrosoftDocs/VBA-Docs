@@ -26,3 +26,4 @@ Specifies how a command bar is protected from user customization.
 |**msoBarNoResize**|2|Command bar cannot be resized.|
 |**msoBarNoVerticalDock**|32|Command bar cannot be docked to the left or right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Compliant Property (Project)](http://msdn.microsoft.com/library/bceddf30-8cb4-4098-c354-46c044a97b0a%28Office.15%29.aspx)
 - [Task.Compliant Property (Project)](http://msdn.microsoft.com/library/d2e43c4a-a7c6-c179-70f3-c67b813be3b8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

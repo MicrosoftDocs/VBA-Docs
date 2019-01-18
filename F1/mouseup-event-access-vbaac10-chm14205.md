@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.MouseUp event (Access)](http://msdn.microsoft.com/library/0dfdc0b3-4a31-fd96-481c-d13db8197edd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,3 +50,5 @@ tesEffectScheme.Load("C:\myThemeEffectScheme.eftx")
 
 
 [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

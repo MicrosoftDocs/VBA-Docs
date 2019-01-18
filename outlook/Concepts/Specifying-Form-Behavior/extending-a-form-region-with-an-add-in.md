@@ -227,4 +227,4 @@ In C#:
 public object GetFormRegionIcon(string FormRegionName, int LCID, Outlook.OlFormRegionIcon Icon)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

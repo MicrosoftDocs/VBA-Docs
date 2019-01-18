@@ -38,3 +38,4 @@ If the PivotCell is in the data area, the  **PivotColumnLine** property returns 
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

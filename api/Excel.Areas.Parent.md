@@ -29,3 +29,4 @@ _expression_ A variable that represents an [Areas](Excel.Areas.md) object.
 
 [Areas Collection](Excel.Areas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

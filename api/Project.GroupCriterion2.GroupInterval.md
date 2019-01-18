@@ -26,3 +26,4 @@ Gets or sets the interval for a field used as a criterion in a group definition.
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Constants that represent chart category-label levels, passed to and returned by 
 |**xlCategoryLabelLevelCustom**|-2|Indicates literal data in the category labels.|
 |**xlCategoryLabelLevelNone**|-3|Use no category labels in the chart. Defaults to automatic indexed labels.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

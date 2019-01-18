@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SubForm.Enter event (Access)](http://msdn.microsoft.com/library/9b5e717c-2f48-c74f-c3fd-eea9004bc9f9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

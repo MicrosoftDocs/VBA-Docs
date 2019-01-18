@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.AfterModal Event (Visio)](http://msdn.microsoft.com/library/52c6926d-0b94-8425-729c-9494f5c7879e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

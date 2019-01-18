@@ -82,3 +82,4 @@ End Sub
 |[Parent](Publisher.Column.Parent.md)|
 |[Width](Publisher.Column.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

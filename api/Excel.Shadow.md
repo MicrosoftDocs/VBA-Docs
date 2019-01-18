@@ -40,4 +40,4 @@ This example adds a shadow to the title of  `myChart`.
 myChart.ChartTitle.Shadow = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

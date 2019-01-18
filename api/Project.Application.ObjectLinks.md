@@ -35,4 +35,4 @@ The  **ObjectLinks** method is equivalent to the **Links** command.
 
 To create an OLE link, use the  **[EditPasteSpecial](Project.Application.EditPasteSpecial.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

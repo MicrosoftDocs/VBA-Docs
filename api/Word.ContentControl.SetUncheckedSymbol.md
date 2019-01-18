@@ -52,3 +52,4 @@ objCC.SetUncheckedSymbol CharacterNumber:=&H2610, Font:="MS Gothic"
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

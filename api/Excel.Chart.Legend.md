@@ -40,3 +40,4 @@ Charts("Chart1").Legend.Font.ColorIndex = 5
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

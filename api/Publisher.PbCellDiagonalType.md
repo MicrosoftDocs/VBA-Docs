@@ -25,3 +25,4 @@ Represents a cell that is diagonally split.
 | **pbTableCellDiagonalNone**|0|Not split Diagonally|
 | **pbTableCellDiagonalUp**|1|Diagonal Up|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

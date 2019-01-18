@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The [project](../../Glossary/vbe-glossary.md#project) file is not writable. To change it, you must save it under a different name or remove the read-only attribute.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ Returns all the categories in the chart group, or the specified category, whethe
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

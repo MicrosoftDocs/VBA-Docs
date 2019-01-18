@@ -67,3 +67,4 @@ If the controls are on the same form, the control that's the source of the defau
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

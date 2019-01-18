@@ -19,5 +19,5 @@ localization_priority: Normal
 2. On the  **Edit** menu, click **Go To**.
     
 3. In the  **Line Number** box, type in the number of the line of code to which you want to go.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

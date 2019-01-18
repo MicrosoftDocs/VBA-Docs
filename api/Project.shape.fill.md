@@ -27,3 +27,5 @@ Gets a  **FillFormat** object for the shape, if the shape contains fill formatti
 
 [Shape Object](Project.shape.md)
 [FillFormat](https://msdn.microsoft.com/library/office/ff838198%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

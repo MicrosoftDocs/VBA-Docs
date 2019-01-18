@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TaskPanes object (Word)](http://msdn.microsoft.com/library/a560a41b-a1d7-175a-b475-af742c9fa1f8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

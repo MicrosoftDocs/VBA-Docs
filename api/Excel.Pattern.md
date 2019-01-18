@@ -82,4 +82,4 @@ This example adds a crisscross pattern to the interior of the plot area.
 myChart.PlotArea.Interior.Pattern = xlPatternCrissCross
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

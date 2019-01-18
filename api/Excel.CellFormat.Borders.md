@@ -65,3 +65,4 @@ End Sub
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

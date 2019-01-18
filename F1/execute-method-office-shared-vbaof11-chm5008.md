@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarPopup.Execute Method (Office)](http://msdn.microsoft.com/library/fedebe76-86f5-9c30-6e23-a20e0024bbf4%28Office.15%29.aspx)
 - [CommandBarButton.Execute Method (Office)](http://msdn.microsoft.com/library/1cf36559-86ba-8a9c-ef81-ef72185dd21c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

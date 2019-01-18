@@ -57,3 +57,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseUp
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

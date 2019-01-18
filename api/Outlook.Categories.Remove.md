@@ -42,3 +42,4 @@ If the name of a category is specified in  _Index_, this method removes the firs
 
 [Categories Object](Outlook.Categories.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

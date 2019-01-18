@@ -64,3 +64,4 @@ End Sub
 
 [HeadersFooters Collection Object](Word.headersfooters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

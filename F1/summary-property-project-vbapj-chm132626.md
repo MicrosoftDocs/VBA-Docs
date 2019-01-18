@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Summary Property (Project)](http://msdn.microsoft.com/library/252591e8-da5c-1b5e-a195-09deb44754af%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

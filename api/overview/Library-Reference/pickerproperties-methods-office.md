@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Add](../../Office.PickerProperties.Add.md)||
 |[Remove](../../Office.PickerProperties.Remove.md)|Removes a PickerProperty from the collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

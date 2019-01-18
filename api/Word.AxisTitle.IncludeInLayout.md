@@ -34,3 +34,4 @@ This property does not affect whether a chart is in autolayout mode or not. If t
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

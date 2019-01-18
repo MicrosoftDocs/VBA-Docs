@@ -22,4 +22,4 @@ Private Sub Form_Unload(Cancel As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

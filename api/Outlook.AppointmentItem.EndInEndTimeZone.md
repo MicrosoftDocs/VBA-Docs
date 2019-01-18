@@ -34,3 +34,4 @@ This is the value displayed as  **End time** in the appointment inspector user i
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

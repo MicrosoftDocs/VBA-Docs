@@ -46,3 +46,5 @@ If you need help on syntax for functions, statements, [properties](../../Glossar
 ## See also
 
 - [Visual Basic how-to topics](visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ When you design a form, use the grid to align controls easily and precisely.
     
      **Tip**  If you set the grid size to position command buttons in your application, use small grid settings so that you can position the command buttons closer to the edge of the form.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

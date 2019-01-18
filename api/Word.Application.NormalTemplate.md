@@ -50,3 +50,4 @@ If NormalTemplate.Saved = False Then NormalTemplate.Save
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

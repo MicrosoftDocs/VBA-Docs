@@ -47,3 +47,4 @@ If number is not a valid binary number, or if number contains more than 10 chara
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

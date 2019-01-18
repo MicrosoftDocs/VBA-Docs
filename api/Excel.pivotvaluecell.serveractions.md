@@ -38,3 +38,4 @@ A server action is an optional feature that an OLAP cube administrator can defin
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

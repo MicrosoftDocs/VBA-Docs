@@ -67,3 +67,4 @@ End Sub
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

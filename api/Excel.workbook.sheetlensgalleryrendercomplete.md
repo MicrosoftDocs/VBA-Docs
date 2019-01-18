@@ -40,3 +40,4 @@ This event can be used to indicate when re-enable screen updating or display add
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

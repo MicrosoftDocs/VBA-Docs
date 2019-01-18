@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.HyperlinkHREF Property (Project)](http://msdn.microsoft.com/library/dbfe6680-9131-af9e-a982-5eb1093b92d1%28Office.15%29.aspx)
 [Application.LevelPeriodBasis Property (Project)](http://msdn.microsoft.com/library/24a13a72-8a3d-e59b-d912-6847f79019e1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

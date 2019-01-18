@@ -27,4 +27,4 @@ If a picture is smaller than the form or page that contains it, you can tile the
 
 The tiling pattern depends on the current setting of the  **[PictureAlignment](Outlook.page.picturealignment.md)** and **[PictureSizeMode](Outlook.page.picturesizemode.md)** properties. For example, if **PictureAlignment** is set to 0, the tiling pattern starts at the upper left and repeats the picture across the form or page and down the height of the form or page. If **PictureSizeMode** is set to 0, the tiling pattern crops the last tile if it doesn't completely fit on the form or page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

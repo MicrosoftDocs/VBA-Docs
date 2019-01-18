@@ -58,3 +58,4 @@ Charts("Chart1").SeriesCollection(1).ErrorBar _
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

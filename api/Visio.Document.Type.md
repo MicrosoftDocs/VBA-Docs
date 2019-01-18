@@ -33,4 +33,4 @@ VisDocumentTypes
 
 Type value constants for  **Document** objects (the possible values that the **Type** property of a **Document** object returns) are declared by the Visio type library in **[VisDocumentTypes](Visio.visdocumenttypes.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

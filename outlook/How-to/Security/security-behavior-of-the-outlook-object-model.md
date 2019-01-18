@@ -73,4 +73,4 @@ Administrators can configure Outlook to locate the Outlook security form in a pu
 
 To take advantage of the new code security behavior based on the status of antivirus software, administrators must use either the default Outlook security settings or configure Outlook to use Group Policy settings to override this behavior.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

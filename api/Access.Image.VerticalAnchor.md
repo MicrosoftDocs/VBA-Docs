@@ -34,3 +34,4 @@ The default value is  **acVerticalAnchorTop**.
 
 [Image Object](Access.Image.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

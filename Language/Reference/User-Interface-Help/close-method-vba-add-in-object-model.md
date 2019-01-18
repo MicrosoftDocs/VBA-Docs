@@ -36,3 +36,4 @@ The following types of windows respond to the **Close** method in different ways
 - [Visual Basic Add-in Model reference](visual-basic-add-in-model-reference.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

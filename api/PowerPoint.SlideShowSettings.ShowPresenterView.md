@@ -29,3 +29,4 @@ Returns the presenter view of the  **SlideShowSettings** object. Read/write.
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

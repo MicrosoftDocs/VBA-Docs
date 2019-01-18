@@ -59,3 +59,4 @@ Forms("Suppliers").Controls("City").TabStop = False
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

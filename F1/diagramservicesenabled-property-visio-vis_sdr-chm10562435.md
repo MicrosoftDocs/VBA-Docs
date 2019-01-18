@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.DiagramServicesEnabled Property (Visio)f56fd833-ffdd-ed7e-6d92-bc6d2da921fd](http://msdn.microsoft.com/library/f56fd833-ffdd-ed7e-6d92-bc6d2da921fd.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ For a  **ModelConnection** object, this type will be set to either **xlCmdTable*
 
 [ModelConnection Object](Excel.modelconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

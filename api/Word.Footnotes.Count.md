@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of footnotes in the collection. R
 
 [Footnotes Collection Object](Word.footnotes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

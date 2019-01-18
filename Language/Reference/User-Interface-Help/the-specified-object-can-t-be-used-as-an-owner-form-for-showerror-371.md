@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You must use an appropriate object with the  **Show** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Attempting to set this property returns an error.
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

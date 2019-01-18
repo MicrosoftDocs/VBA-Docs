@@ -27,3 +27,4 @@ Using a property or method that does not apply to the type of object the  **Char
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

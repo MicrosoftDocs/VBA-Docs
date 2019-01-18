@@ -29,3 +29,4 @@ Represents a collection of Smart Art layout diagrams.
 |[Creator](../../Office.SmartArtLayouts.Creator.md)|Gets a 32-bit integer that indicates the application in which the **SmartArtLayouts** object was created. Read-only|
 |[Parent](../../Office.SmartArtLayouts.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ Microsoft Access adds the prefix portion of an event procedure name to the event
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

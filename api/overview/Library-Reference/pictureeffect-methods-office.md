@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.PictureEffect.Delete.md)|Deletes a Picture Effect.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

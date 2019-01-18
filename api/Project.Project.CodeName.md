@@ -27,4 +27,4 @@ The code name is the name of the module that stores event macros (and other macr
 
 Changing the project name doesn't change the code name, and changing the code name (using the  **Properties** window in the Visual Basic Editor) doesn't change the project name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

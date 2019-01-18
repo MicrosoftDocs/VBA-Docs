@@ -40,3 +40,4 @@ Represents a single building block. The  **BuildingBlock** object is a member of
 |[ShowInGallery](Publisher.BuildingBlock.ShowInGallery.md)|
 |[Type](Publisher.BuildingBlock.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

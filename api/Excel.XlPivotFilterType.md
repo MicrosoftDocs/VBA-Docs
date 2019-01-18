@@ -85,3 +85,4 @@ The type of filter applied.
 | **xlValueIsNotBetween**|14|Filters for all values that are not between a specified range of values|
 | **xlYearToDate**|52|Filters for all values that are within one year of a specified date|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

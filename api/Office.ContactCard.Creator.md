@@ -29,3 +29,5 @@ Long
 ## See also
 
 - [ContactCard object members](overview/library-reference/contactcard-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

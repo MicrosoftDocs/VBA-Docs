@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.InvertIfNegative Property (PowerPoint)](http://msdn.microsoft.com/library/dd672a13-d419-c68f-3330-a1449d14f636%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

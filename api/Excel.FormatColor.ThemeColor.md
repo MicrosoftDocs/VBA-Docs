@@ -29,3 +29,4 @@ _expression_ A variable that represents a [FormatColor](Excel.FormatColor.md) ob
 
 [FormatColor Object](Excel.FormatColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

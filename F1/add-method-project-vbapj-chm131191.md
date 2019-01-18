@@ -26,4 +26,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TimeScaleValues.Add Method (Project)](http://msdn.microsoft.com/library/083ef154-31ce-55ec-793a-0627c1eff211%28Office.15%29.aspx)
 - [WorkWeeks.Add Method (Project)](http://msdn.microsoft.com/library/46469e7b-8309-4e77-c89f-2115b9498c7a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

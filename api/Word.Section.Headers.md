@@ -61,3 +61,4 @@ End With
 
 [Section Object](Word.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

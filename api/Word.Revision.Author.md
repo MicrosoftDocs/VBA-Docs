@@ -42,3 +42,4 @@ MsgBox "Revisions made by " & rngSection.Revisions(1).Author
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

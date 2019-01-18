@@ -50,4 +50,4 @@ Use the  **MousePointer** property when you want to indicate changes in function
 
 Some icons vary depending on system settings, such as the icons associated with desktop themes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [GridLines Object](PowerPoint.GridLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

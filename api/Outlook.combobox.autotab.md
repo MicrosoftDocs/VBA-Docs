@@ -30,4 +30,4 @@ The  **[MaxLength](Outlook.combobox.maxlength.md)** property specifies the maxim
 
 You can specify the  **AutoTab** property for a **ComboBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the focus automatically moves to the next control in the tab order. For example, if a **ComboBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **ComboBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

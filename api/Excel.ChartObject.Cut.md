@@ -39,3 +39,4 @@ Only embedded charts can be cut.
 
 [ChartObject Object](Excel.ChartObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeDocumentSaveAs Event (Visio)](http://msdn.microsoft.com/library/e6782126-d2e7-c82e-b4dc-a9a5cece14b7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

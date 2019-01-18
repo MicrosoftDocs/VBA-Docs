@@ -44,3 +44,4 @@ Worksheets(1).ScrollArea = "a1:f10"
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

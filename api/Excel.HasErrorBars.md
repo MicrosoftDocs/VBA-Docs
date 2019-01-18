@@ -26,4 +26,4 @@ This example removes error bars from series one. The example should be run on a 
 myChart.SeriesCollection(1).HasErrorBars = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

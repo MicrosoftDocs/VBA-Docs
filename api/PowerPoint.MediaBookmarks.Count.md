@@ -31,3 +31,4 @@ Start and end points are implicit bookmarks, but they should not be part of the 
 
 [MediaBookmarks Object](PowerPoint.MediaBookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [PivotFields Object](Excel.PivotFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

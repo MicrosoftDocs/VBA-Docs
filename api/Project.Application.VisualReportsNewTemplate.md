@@ -46,4 +46,4 @@ Setting the ReportAllFields parameter to  **True** can degrade performance.
 
 The PjVisualReportsDataLevel parameter specifies the level to which the timephased data can be accessed. For example, if  **pjLevelMonths** (months) is specified, it not possible to access **pjLevelDays** (days).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

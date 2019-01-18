@@ -62,3 +62,4 @@ End Sub
 
 [Protection Object](Excel.Protection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

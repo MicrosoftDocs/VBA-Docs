@@ -45,3 +45,4 @@ For all the shortcut menu commands, see [Shortcut menu](user-interface-help/shor
 - [Toolbars](toolbars.md)
 - [Window elements](window-elements.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.ContactItem.IsMarkedAsT
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

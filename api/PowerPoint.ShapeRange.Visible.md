@@ -45,3 +45,4 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

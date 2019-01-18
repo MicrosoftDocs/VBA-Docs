@@ -32,3 +32,4 @@ Returns a [CoAuthor](Word.CoAuthor.md) object that represents the author of the 
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

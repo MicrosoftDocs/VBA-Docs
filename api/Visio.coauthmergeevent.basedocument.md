@@ -29,4 +29,4 @@ Returns a [Document](Visio.Document.md) object that represents the state of the 
 
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

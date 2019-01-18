@@ -50,3 +50,4 @@ You can use the  **Delete** method of the **FormatConditions** collection to del
 
 [FormatConditions Collection](Access.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

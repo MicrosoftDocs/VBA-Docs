@@ -12,5 +12,5 @@ localization_priority: Normal
 1. In the Forms Designer, right-click the field or control, then click  **Properties**. 
     
 2. In the  **Properties** dialog box, on the **Validation** page, select the **A value is required for this field** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.Moveable property (Access)](http://msdn.microsoft.com/library/ad0db2eb-9905-15d9-7a96-e61cefd12842%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

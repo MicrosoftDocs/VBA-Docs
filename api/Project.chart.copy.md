@@ -50,3 +50,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [CopyPicture Method](Project.chart.copypicture.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

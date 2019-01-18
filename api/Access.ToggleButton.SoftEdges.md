@@ -50,3 +50,4 @@ This property is not surfaced in the property sheet.
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

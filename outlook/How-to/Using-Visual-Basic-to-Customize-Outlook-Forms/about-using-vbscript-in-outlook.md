@@ -20,3 +20,4 @@ With VBScript, you have full access to the Outlook object model, except for two 
 
 You can also use Visual Basic for Applications in Outlook to respond to Outlook events and to create macros that automate procedures. Unlike VBScript code, however, Visual Basic for Applications code cannot be contained in a form and so cannot accompany an item that is sent to other users. Note that VBScript is only applicable to extending a form with a form page; if you are extending a form with a form region, you will not be able to use VBScript and will have to use an add-in.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

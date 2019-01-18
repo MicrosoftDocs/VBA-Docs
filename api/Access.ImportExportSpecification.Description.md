@@ -34,3 +34,4 @@ The maximum number of characters that can be used for the  **Description** prope
 
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

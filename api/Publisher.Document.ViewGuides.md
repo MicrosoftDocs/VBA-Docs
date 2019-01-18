@@ -28,4 +28,4 @@ Returns  **True** if guides are visible in the specified publication. Read/write
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

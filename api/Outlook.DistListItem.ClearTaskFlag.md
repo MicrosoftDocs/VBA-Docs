@@ -34,3 +34,4 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.DistListItem.IsMarkedAs
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

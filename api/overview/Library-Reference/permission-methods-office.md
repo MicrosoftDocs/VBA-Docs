@@ -19,3 +19,4 @@ localization_priority: Normal
 |[ApplyPolicy](../../Office.Permission.ApplyPolicy.md)|Applies the specified permission policy to the active document.|
 |[RemoveAll](../../Office.Permission.RemoveAll.md)|Removes all  **UserPermission** objects from the **Permission** collection of the active document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

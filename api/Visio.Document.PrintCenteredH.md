@@ -33,4 +33,4 @@ Boolean
 
 The  **PrintCenteredH** property corresponds to the **Center horizontally** check box in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group, and then click **Setup** on the **Print Setup** tab).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

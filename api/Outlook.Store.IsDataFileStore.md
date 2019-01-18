@@ -40,3 +40,4 @@ The return value of  **IsDataFileStore** can change if the user is configured fo
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

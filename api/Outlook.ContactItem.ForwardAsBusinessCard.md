@@ -48,3 +48,4 @@ This method creates a new Outlook mail item based on the information stored in t
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

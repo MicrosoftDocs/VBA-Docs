@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels object (Word)8ff6c81b-5793-4f9c-4973-a5051414c71a](http://msdn.microsoft.com/library/8ff6c81b-5793-4f9c-4973-a5051414c71a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

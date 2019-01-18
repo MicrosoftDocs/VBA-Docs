@@ -25,4 +25,4 @@ Gets or sets the way the task accrues fixed costs. Read/write  **PjAccrueAt**.
 
 The  **FixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjEnd**, **pjProrated**, or **pjStart**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

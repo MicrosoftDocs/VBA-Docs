@@ -28,4 +28,4 @@ Indicates if a shape represents an ActiveX or OLE object that is inherited from 
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

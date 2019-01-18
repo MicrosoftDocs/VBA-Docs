@@ -29,3 +29,4 @@ Returns the resolution height of the sample. Read-only.
 
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

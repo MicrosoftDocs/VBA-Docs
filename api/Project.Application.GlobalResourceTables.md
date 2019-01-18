@@ -28,4 +28,4 @@ Gets or sets a  **[Tables](Project.Table.md)** collection representing the resou
 
  In Project Professional, you can also add a resource table to the enterprise global template. First open the enterprise global template, making it the active project, and then run the **Add** method of the **Tables** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

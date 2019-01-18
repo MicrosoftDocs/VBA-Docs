@@ -34,3 +34,4 @@ You cannot use any of the constants that have the suffix  **AutoDetect**. These 
 
 [WebOptions Object](Excel.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

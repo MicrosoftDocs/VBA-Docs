@@ -31,4 +31,4 @@ You can use either  **BorderStyle** or **SpecialEffect** to specify the border f
 
  **BorderStyle** uses **[BorderColor](Outlook.frame.bordercolor.md)** to define the colors of its borders. To use the **BorderColor** property, the **BorderStyle** property must be set to a value other than 0.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

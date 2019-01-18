@@ -30,3 +30,4 @@ A collection of the **[SharedWorkspaceFile](../../Office.SharedWorkspaceFile.md)
 |[ItemCountExceeded](../../Office.SharedWorkspaceFiles.ItemCountExceeded.md)|Gets a **Boolean** value indicating whether the number of files allowed in the shared workspace has been exceeded. Read-only.|
 |[Parent](../../Office.SharedWorkspaceFiles.Parent.md)|Gets the **Parent** object for the **SharedWorkspaceFiles** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

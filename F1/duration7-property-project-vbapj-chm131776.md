@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Application.CloseUndoTransaction Method (Project)](http://msdn.microsoft.com/library/704bde43-803d-fd63-68a6-7b4058e5d3b1%28Office.15%29.aspx)
 - [Resource.Duration7 Property (Project)](http://msdn.microsoft.com/library/2f7dfe86-c595-927d-308b-8c8dfff77113%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

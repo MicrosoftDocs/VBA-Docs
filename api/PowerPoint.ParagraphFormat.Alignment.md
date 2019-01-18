@@ -56,3 +56,4 @@ Application.ActivePresentation.Slides(1).Shapes(2) _
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

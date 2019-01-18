@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of styles in the collection. Read
 
 [Styles Collection Object](Word.styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

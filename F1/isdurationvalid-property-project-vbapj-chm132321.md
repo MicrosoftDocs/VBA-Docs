@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion2.FieldName Property (Project)](http://msdn.microsoft.com/library/6828c1eb-aaa2-6538-0d92-6a458e678a20%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

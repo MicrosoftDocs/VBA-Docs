@@ -25,3 +25,4 @@ Specifies the mode in which a form or report is opened.
 |**acIcon**|2|The form or report opens minimized in the Windows taskbar.|
 |**acWindowNormal**|0| (Default) The form or report opens in the mode set by its properties.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

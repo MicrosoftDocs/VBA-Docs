@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.ControlTipText property (Access)](http://msdn.microsoft.com/library/3952c7f5-e5d1-7a7d-3187-d4c327a33fe0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,5 @@ This section also includes user interface elements of the Visual Basic Editor, s
 
 - [Visual Basic language reference](visual-basic-language-reference.md)
 - [Visual Basic for Applications language reference](https://docs.microsoft.com/office/vba/api/overview/language-reference)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.ReadingOrder property (Access)](http://msdn.microsoft.com/library/5d436f27-e896-15c0-3733-ec7629d58214%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

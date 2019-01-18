@@ -24,3 +24,4 @@ Specifies the size of the angle between the callout line and the side of the cal
 |**msoCalloutAngleAutomatic**|1|Default angle. Angle can be changed as you drag the object.|
 |**msoCalloutAngleMixed**|-2|Return value only; indicates a combination of the other states. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

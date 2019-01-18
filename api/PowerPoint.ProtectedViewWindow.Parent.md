@@ -29,3 +29,4 @@ Returns the parent object for the specified object. Read-only.
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

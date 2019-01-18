@@ -39,3 +39,4 @@ The path doesn't include the final backslash (\) or the name of the specified ob
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

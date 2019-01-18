@@ -71,3 +71,5 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 - [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
 - [Object Picker dialog box interfaces](https://docs.microsoft.com/windows/desktop/ad/object-picker-dialog-box-interfaces)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

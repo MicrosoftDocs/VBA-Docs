@@ -33,4 +33,4 @@ Deletes the dependency on the deliverable.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

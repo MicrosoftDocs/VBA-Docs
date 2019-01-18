@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Shape property (Access) Reference](http://msdn.microsoft.com/library/a22ca4ec-584d-46c8-2a11-aeb1503ec07f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

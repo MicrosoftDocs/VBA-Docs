@@ -44,3 +44,4 @@ End If
 
 [Gridlines Object](Excel.Gridlines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

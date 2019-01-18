@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.Views Property (Project)](http://msdn.microsoft.com/library/12a4c68a-f5bc-0754-bc7f-a5581e3aa200%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [GroupCriteria Collection Object](Project.groupcriteria.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

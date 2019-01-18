@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [pbCanvasArrangementType Enumeration (Publisher)](http://msdn.microsoft.com/library/3b2037d4-eba4-478a-8b47-8c12d6a3e922%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

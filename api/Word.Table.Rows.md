@@ -44,3 +44,4 @@ ActiveDocument.Tables(1).Rows(2).Delete
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

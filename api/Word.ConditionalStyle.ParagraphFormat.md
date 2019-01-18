@@ -42,3 +42,4 @@ End With
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

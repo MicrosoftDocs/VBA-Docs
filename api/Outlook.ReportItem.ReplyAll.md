@@ -40,3 +40,4 @@ Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

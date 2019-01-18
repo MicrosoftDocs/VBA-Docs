@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Application](./PowerPoint.Application
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

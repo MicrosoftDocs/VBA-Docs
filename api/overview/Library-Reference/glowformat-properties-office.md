@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Radius](../../Office.GlowFormat.Radius.md)|Gets or sets the radius value of the glow effect for the  **GlowFormat** object. Read/write.|
 |[Transparency](../../Office.GlowFormat.Transparency.md)|Returns or sets the degree of transparency of the specified glow as a value between 0.0 (opaque) and 1.0 (clear). Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

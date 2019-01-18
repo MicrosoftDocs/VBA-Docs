@@ -55,3 +55,4 @@ End With
 
 [ShapeNode Object](Word.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

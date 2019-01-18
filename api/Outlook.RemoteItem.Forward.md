@@ -40,3 +40,4 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

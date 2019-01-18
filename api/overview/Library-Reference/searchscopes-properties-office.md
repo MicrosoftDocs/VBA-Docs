@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.SearchScopes.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **SearchScopes** object was created. Read-only.|
 |[Item](../../Office.SearchScopes.Item.md)|Gets a  **SearchScope** object that corresponds to an area in which to perform a file search, such as local drives or Microsoft Outlook folders. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ This example causes the embedded chart to plot data by columns.
 myChart.PlotBy = xlColumns
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

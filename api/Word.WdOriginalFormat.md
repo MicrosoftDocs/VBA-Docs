@@ -21,3 +21,4 @@ Specifies the document format. This enumeration is commonly used when saving a d
 | **wdPromptUser**|2|Prompt user to select a document format.|
 | **wdWordDocument**|0|Microsoft Word document format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

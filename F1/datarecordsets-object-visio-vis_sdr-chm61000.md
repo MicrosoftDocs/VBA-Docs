@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataRecordsets Object (Visio)](http://msdn.microsoft.com/library/edf6d0dc-2f16-eee0-fd4c-ec4c9409179e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

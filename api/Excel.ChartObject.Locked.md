@@ -34,3 +34,4 @@ This property returns  **True** if the object is locked or **False** if the obje
 
 [ChartObject Object](Excel.ChartObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

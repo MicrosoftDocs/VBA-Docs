@@ -64,3 +64,4 @@ Documents("Main.doc").MailMerge.Fields.AddSkipIf _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

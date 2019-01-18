@@ -42,3 +42,4 @@ Zoom
 
 [Zooms Collection Object](Word.zooms.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

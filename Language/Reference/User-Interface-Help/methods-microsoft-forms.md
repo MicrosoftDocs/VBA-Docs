@@ -41,4 +41,4 @@ localization_priority: Normal
 - [Objects, methods, and properties (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Microsoft Forms](reference-microsoft-forms.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

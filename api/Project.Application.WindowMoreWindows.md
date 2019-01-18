@@ -28,4 +28,4 @@ Displays the  **Activate** dialog box, which prompts the user to activate a wind
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

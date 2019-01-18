@@ -40,4 +40,4 @@ Many of the SmartShapes symbols provided with Microsoft Visio have guarded cells
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **FormulaForce** property when you want to use local syntax in the formula. Use the **FormulaForceU** property when you want to use universal syntax in the formula.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

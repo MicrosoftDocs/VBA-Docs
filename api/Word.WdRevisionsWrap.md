@@ -21,3 +21,4 @@ Specifies how revision marks are displayed in the document.
 | **wdWrapAsk**|2|Ask the user if revisions should be wrapped.|
 | **wdWrapNever**|0|Never wrap revisions.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

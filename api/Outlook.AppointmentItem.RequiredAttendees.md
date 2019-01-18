@@ -34,3 +34,4 @@ This property only contains the display names for the required attendees. The at
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

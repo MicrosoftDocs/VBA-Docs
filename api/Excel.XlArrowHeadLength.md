@@ -19,3 +19,4 @@ Specifies the length of the arrowhead at the end of a line.
 | **xlArrowHeadLengthMedium**|-4138|Medium-length arrowhead|
 | **xlArrowHeadLengthShort**|1|Shortest arrowhead|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

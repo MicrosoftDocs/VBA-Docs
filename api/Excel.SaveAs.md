@@ -35,4 +35,4 @@ Loop Until fName <> False
 NewBook.SaveAs Filename:=fName
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,3 +52,4 @@ Application.ActivePresentation.Slides(1).Shapes.Title _
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

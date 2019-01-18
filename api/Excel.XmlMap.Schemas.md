@@ -34,3 +34,4 @@ The first item in the returned  **XmlSchemas** collection is the schema that is 
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

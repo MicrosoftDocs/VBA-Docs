@@ -44,3 +44,4 @@ End If
 
 [Phonetics Object](Excel.Phonetics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

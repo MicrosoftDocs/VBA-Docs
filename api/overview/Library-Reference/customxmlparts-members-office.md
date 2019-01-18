@@ -40,3 +40,4 @@ Represents a collection of **CustomXMLPart** objects.
 |[Item](../../Office.CustomXMLParts.Item.md)|Gets a **CustomXMLPart** object from the **CustomXMLParts** collection. Read-only.|
 |[Parent](../../Office.CustomXMLParts.Parent.md)|Gets the **Parent** object for the **CustomXMLParts** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

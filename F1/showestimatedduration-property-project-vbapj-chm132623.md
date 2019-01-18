@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ShowEstimatedDuration Property (Project)](http://msdn.microsoft.com/library/c32670b7-a2e8-a46b-f91d-88b20749fa46%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

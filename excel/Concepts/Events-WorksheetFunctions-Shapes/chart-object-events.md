@@ -43,3 +43,5 @@ End Sub
 ## See also
 
 - [Excel functions (by category)](https://support.office.com/article/excel-functions-by-category-5f91f4e9-7b42-46d2-9bd1-63f26a86c0eb)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This method is available only from outside Microsoft Word.
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

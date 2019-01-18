@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The name of a form occurs twice in the source file for a form, User Control, Property Page, or User Document. This error can occur if the file was modified by an editor other than Visual Basic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

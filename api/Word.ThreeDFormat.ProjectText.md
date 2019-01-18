@@ -29,3 +29,4 @@ Returns or sets an  **MsoTriState** constant that represents whether text on a s
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

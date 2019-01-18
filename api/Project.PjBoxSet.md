@@ -24,3 +24,4 @@ Contains constants that specify the creation, selection, or movement of a task i
 |**pjBoxSelect**|4|Selects the task, clearing any existing selection.|
 |**pjBoxUnselect**|5|Removes the task from the selection. If more than one task is selected and TaskID is not specified, the box with focus is removed from the selection. If TaskID is specified, only that task is removed from the selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

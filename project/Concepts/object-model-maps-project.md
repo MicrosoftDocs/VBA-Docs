@@ -19,5 +19,5 @@ localization_priority: Normal
 - [Resources object map (Project)](resources-object-map-project.md)
     
 - [Tasks object map (Project)](tasks-object-map-project.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

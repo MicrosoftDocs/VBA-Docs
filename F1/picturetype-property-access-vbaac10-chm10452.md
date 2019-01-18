@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.PictureType property (Access)](http://msdn.microsoft.com/library/a835b294-4de1-b948-e59c-a7e9c3a4f9ae%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OutlineCode.LinkedFieldID Property (Project)](http://msdn.microsoft.com/library/310202bc-6db7-11b8-d380-af26ef12ad11%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

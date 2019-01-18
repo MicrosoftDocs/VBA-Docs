@@ -78,3 +78,4 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

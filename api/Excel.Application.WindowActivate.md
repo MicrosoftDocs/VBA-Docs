@@ -43,3 +43,4 @@ For information about how to use event procedures with the  **Application** obje
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets a value that specifies how pictures are displayed on a column or
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

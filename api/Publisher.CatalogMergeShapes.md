@@ -149,3 +149,4 @@ Sub DeleteCatalogMergeAreaAndAllShapesWithin()
 |[Parent](Publisher.CatalogMergeShapes.Parent.md)|
 |[VerticalRepeat](Publisher.CatalogMergeShapes.VerticalRepeat.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

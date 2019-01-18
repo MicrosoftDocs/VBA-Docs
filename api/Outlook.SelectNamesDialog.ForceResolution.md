@@ -36,3 +36,4 @@ The default value is  **True**. If a recipient cannot be resolved, Outlook will 
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Occurs when the status of the connection with Project Server changes. Available 
 
 nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

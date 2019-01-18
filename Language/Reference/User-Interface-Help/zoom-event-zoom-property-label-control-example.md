@@ -67,4 +67,4 @@ Private Sub UserForm_Zoom(Percent As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

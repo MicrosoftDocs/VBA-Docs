@@ -26,4 +26,4 @@ This example causes Microsoft Graph to draw 2-D gridlines for the chart.
 myChart.WallsAndGridlines2D = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

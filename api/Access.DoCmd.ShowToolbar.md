@@ -45,3 +45,4 @@ If you want to show a particular toolbar on just one form or report, you can set
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

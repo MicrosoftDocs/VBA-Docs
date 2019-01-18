@@ -40,3 +40,4 @@ You can create and view custom fields in table views and card views. You can cre
 
 Each of the data types except  **Combination**,  **Formula**, and  **Keywords** has a series of standard formats that you can use to show the values of the fields.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

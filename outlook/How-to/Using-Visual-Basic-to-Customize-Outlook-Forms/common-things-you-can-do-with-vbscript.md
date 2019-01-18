@@ -30,5 +30,5 @@ The following topics are common tasks you can perform with VBScript in a form pa
 -  [Use Current User Properties from the Microsoft Exchange Server Global Address List](use-current-user-properties-from-the-microsoft-exchange-server-global-address-li.md)
     
 -  [Put a List of Fields and Values in the Message Body](put-a-list-of-fields-and-values-in-the-message-body.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

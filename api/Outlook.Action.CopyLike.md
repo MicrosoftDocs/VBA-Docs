@@ -34,3 +34,4 @@ The inheritance style is used when the action is executed to control how propert
 
 [Action Object](Outlook.Action.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

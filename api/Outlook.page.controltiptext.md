@@ -28,4 +28,4 @@ The  **ControlTipText** property lets you give users tips about a control in a r
 
 The default value of  **ControlTipText** is an empty string. When the value of **ControlTipText** is set to an empty string, no tip is available for that control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

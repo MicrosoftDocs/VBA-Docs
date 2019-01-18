@@ -34,3 +34,5 @@ The following table describes the dialog box options.
 - [Edit menu](edit-menu.md)
 - [Find dialog box](find-dialog-box.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

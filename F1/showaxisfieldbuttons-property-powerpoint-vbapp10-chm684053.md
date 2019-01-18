@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ShowAllFieldButtons Property (PowerPoint)](http://msdn.microsoft.com/library/50aa8c68-a91b-301f-a553-46353feb4d16%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

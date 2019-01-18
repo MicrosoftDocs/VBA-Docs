@@ -22,3 +22,4 @@ Type constants to pass to the  **Selection.Flip** method.
 | **visFlipSelection**|0|Flip the selection around its center.|
 | **visFlipShapes**|2|Flip the selected shapes around their pins.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

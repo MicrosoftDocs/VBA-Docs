@@ -53,4 +53,4 @@ Additionally, if you set a reference to an application's type library, all of it
 
 Because Access is a COM component that supports automation, you can also set a reference to its type library from another application and work with Access objects from that application.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -90,3 +90,4 @@ Represents a color scheme returned by the  **Item** property. It is a set of coo
 | **pbColorSchemeWaterfall**|-56|Waterfall|
 | **pbColorSchemeWildflower**|-57|Wildflower|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

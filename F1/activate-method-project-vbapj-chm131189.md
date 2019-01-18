@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Window.Activate Method (Project)](http://msdn.microsoft.com/library/95b97794-89d4-2e0f-b9b1-12cddb38ffbb%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -797,3 +797,4 @@ Contains constants that specify a custom field in Project.
 |**pjCustomTaskText8**|188743748|Represents the Custom Text8 (Task) field.|
 |**pjCustomTaskText9**|188743749|Represents the Custom Text9 (Task) field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

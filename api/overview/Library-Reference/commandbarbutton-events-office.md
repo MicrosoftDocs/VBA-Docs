@@ -18,3 +18,4 @@ This object has the following events:
 |:-----|:-----|
 |[Click](../../Office.CommandBarButton.Click.md)|Occurs when the user clicks a  **CommandBarButton** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

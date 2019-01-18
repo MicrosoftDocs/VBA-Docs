@@ -61,3 +61,5 @@ End Sub ' following the GoSub statement.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

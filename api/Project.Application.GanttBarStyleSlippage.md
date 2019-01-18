@@ -42,4 +42,4 @@ Shows or hides slippage for the specified baseline on Gantt bars of the active v
 
 On the Ribbon, the  **GanttBarStyleSlippage** method corresponds to the **Slippage** drop-down list in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

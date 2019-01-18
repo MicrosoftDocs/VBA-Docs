@@ -44,3 +44,4 @@ Application.ActivePresentation.Slides.Add 1, ppLayoutTitle
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

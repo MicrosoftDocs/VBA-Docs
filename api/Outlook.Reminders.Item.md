@@ -42,3 +42,4 @@ A  **Reminder** object that represents the specified object.
 
 [Reminders Object](Outlook.Reminders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The [project](../../Glossary/vbe-glossary.md#project) name can't be set at this time.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

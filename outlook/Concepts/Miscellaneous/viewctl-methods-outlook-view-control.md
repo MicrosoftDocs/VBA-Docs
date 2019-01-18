@@ -97,5 +97,5 @@ localization_priority: Normal
 -  [ViewCtl.Sort Method (Outlook View Control)](../../../api/Outlook.viewctl.so.md)
     
 -  [ViewCtl.SynchFolder Method (Outlook View Control)](../../../api/Outlook.viewctl.synchfold.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

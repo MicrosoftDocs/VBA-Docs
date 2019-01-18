@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.WorkflowTasks.Creator.md)|Gets a 32-bit integer that indicates the application in which the **WorkflowTasks** object was created. Read-only.|
 |[Item](../../Office.WorkflowTasks.Item.md)|Gets a **WorkflowTask** object from the **WorkflowTasks** collection. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

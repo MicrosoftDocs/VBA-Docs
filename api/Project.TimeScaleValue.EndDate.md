@@ -23,4 +23,4 @@ The end date for a period of time that defines the timescale value. Read-only  *
 
  _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

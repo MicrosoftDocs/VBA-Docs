@@ -31,3 +31,4 @@ _expression_ A variable that represents a [Application](./PowerPoint.Application
 | _shp_|Required|[Shape](PowerPoint.Shape.md)|The shape that was resized.|
 | _shp_|Required|SHAPE||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

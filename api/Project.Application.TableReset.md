@@ -36,4 +36,4 @@ If the user has added or hidden columns, the  **TableReset** method changes the 
 
  **Note**  When a column is added or hidden, the modified table shows in the  **Table Definition** dialog box when you edit the table.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

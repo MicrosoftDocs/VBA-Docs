@@ -35,4 +35,4 @@ localization_priority: Normal
 
  **VOID**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

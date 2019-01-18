@@ -110,3 +110,5 @@ ActiveProject.ResourceGroups2("Response Pending").GroupCriteria2.AddEx "% Work C
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

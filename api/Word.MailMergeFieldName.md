@@ -37,3 +37,4 @@ You cannot add fields to the  **MailMergeFieldNames** collection. Field names in
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

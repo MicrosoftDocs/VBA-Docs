@@ -21,6 +21,5 @@ A .dll file provided by the operating system; for example, DDEML.DLL, VERSION.DL
 - The DLL is corrupted or was deleted. Reload the DLL.
     
 - There isn't enough memory or swap space. Try to free up some memory by closing other applications.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

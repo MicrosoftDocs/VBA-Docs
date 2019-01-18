@@ -49,4 +49,4 @@ Passing a value of  **visTagDefault** (0) in the _RowTag_ argument generates the
 
 Adding a named row to a Connection Points section automatically converts any existing unnamed rows in the section into named rows, assigning them default names (Row_1, Row_2, and so on).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

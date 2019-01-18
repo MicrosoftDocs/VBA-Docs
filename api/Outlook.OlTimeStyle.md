@@ -28,4 +28,4 @@ Specifies how time values are displayed and how entries of time values are inter
 
 Use the time control with the  **olTimeStyleShortDuration** style for duration fields, such as the [Duration](Outlook.JournalItem.Duration.md) of a [JournalItem](Outlook.JournalItem.md). Use the time control with the  **olTimeStyleTimeDuration** style for the end time of an appointment item. Use the time control with the **olTimeStyleTimeOnly** style for the start time of an appointment item.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

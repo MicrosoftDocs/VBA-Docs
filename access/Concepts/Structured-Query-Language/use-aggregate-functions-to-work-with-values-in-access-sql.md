@@ -11,3 +11,4 @@ localization_priority: Priority
 
 <!--removed from TOC on 9-19-18-->
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

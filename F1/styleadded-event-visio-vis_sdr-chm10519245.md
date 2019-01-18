@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.StyleAdded Event (Visio)](http://msdn.microsoft.com/library/f6918406-51ab-8c9a-a8a2-d9f672ef7efc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

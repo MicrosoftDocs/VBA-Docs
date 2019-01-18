@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ChartFormat.Adjustments Property (PowerPoint)](http://msdn.microsoft.com/library/ff27cd8d-ccb7-189a-51b6-cabdbbe0a505%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

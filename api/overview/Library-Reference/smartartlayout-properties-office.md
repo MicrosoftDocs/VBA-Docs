@@ -23,3 +23,4 @@ localization_priority: Normal
 |[Name](../../Office.SmartArtLayout.Name.md)|Retrieves the string name of the SmartArt layout. Read-only|
 |[Parent](../../Office.SmartArtLayout.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

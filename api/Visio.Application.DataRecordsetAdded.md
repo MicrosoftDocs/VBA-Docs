@@ -41,4 +41,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

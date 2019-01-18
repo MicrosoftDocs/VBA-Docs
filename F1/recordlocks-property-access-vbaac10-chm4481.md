@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.RecordLocks property (Access)](http://msdn.microsoft.com/library/21f8d145-e417-a7a1-e697-b1e07434c760%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

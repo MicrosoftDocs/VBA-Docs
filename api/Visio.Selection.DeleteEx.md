@@ -53,4 +53,4 @@ Deletes additional shapes associated with the selection, such as connectors and 
 
 In a bitwise combination of  _DelFlags_ constants, you cannot combine **visDeleteHealConnectors** and **visDeleteNoHealConnectors**. If you attempt to do so, Microsoft Visio returns an Invalid Parameter error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

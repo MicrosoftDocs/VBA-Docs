@@ -36,4 +36,4 @@ This example sets the orientation for the chart title.
 myChart.ChartTitle.Orientation = xlHorizontal
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

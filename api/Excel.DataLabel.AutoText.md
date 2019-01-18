@@ -39,3 +39,4 @@ Charts("Chart1").SeriesCollection(1).DataLabels.AutoText = True
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

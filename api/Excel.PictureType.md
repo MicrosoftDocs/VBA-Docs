@@ -36,4 +36,4 @@ This example sets series one to stretch pictures. The example should be run on a
 myChart.SeriesCollection(1).PictureType = xlStretch
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

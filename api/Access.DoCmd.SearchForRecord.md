@@ -62,3 +62,4 @@ The following list demonstrates some things you can do with the **SearchForRecor
 
 - [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Returns an error if  **FlagTo** is an empty string.
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

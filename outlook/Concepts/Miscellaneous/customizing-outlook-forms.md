@@ -27,5 +27,5 @@ localization_priority: Normal
 -  [Using Visual Basic to Customize Outlook Forms](using-visual-basic-to-customize-outlook-forms.md)
     
 -  [Extending Forms and Form Regions Using Add-ins](extending-forms-and-form-regions-using-add-ins.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

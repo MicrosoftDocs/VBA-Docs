@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains an unknown [property](../../Glossary/vbe-glossary.md#property). The property will be skipped when loading the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

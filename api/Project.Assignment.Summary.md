@@ -28,4 +28,4 @@ For an example that checks whether summary tasks have assignments, see the  **[S
 
  **Note**  Project ignores the  **Summary** property for an assignment. The property value is always "No".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

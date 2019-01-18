@@ -37,4 +37,4 @@ myChart.SeriesCollection(1).ErrorBars. EndStyle = xlCap
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Indicates the recipient type for the meeting.
 | **olRequired**|1|Required attendee|
 | **olResource**|3|A resource such as a conference room|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

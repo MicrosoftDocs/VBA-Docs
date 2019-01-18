@@ -30,4 +30,4 @@ This example sets the number format for the data labels for series one.
 myChart.SeriesCollection(1).DataLabels.NumberFormat = "General"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

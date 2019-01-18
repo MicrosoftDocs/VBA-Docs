@@ -29,3 +29,4 @@ Deletes the specified matrix row.
 
 [OMathMatRow Object](Word.OMathMatRow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

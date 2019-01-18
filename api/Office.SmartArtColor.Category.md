@@ -30,3 +30,4 @@ _expression_. `Category`
 
 [SmartArtColor Object Members](./overview/Library-Reference/smartartcolor-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

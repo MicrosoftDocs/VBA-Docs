@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabel.VerticalAlignment Property (PowerPoint)](http://msdn.microsoft.com/library/2be75c8e-9859-688d-689b-7ce935333664%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

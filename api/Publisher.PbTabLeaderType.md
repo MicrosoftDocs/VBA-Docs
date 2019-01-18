@@ -26,3 +26,4 @@ Represents the leader character for a tab stop.
 | **pbTabLeaderLine**|3|Tab leader line|
 | **pbTabLeaderNone**|0|Tab leader none|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

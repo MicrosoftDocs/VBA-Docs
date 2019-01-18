@@ -27,4 +27,4 @@ The parent of a  **Pane** object can be a **Window** object in the **Windows** o
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,3 +57,4 @@ The following constants for the cell index are declared by the Microsoft Visio t
 | **visLayerNameUniv**|10 |
 | **visLayerColorTrans**|11|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

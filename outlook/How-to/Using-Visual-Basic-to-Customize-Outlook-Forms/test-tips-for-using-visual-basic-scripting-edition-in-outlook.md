@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Go to a Line of Code in the Script Editor](go-to-a-line-of-code-in-the-script-editor.md)
     
 -  [Use Message Boxes to Return Values](use-message-boxes-to-return-values.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

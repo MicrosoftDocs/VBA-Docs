@@ -37,3 +37,4 @@ The setting of the  **PreferCloudSaveLocations** property is the reverse of that
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

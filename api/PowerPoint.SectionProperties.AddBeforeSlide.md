@@ -52,3 +52,4 @@ If the presentation does not contain any sections and you call this method, pass
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

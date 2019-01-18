@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Period.Shift1 Property (Project)](http://msdn.microsoft.com/library/f2de8092-9a30-4aed-8da3-380f7eaa5f0c%28Office.15%29.aspx)
 [Day.Shift1 Property (Project)](http://msdn.microsoft.com/library/f57a5d81-85a6-0464-943a-0556b9521755%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

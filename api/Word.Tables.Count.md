@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of tables in the collection. Read
 
 [Tables Collection Object](Word.tables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

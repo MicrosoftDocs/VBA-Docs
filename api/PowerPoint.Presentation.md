@@ -184,3 +184,5 @@ MsgBox SlideShowWindows(1).Presentation.Name
 
 
 [PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

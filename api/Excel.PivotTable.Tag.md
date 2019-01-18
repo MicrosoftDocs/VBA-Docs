@@ -39,3 +39,4 @@ Worksheets(1).PivotTables("Pivot1").Tag = "Product Sales by Region"
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

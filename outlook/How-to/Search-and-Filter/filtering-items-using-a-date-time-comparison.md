@@ -165,4 +165,4 @@ Private Sub Application_AdvancedSearchComplete(ByVal SearchObject As Search)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

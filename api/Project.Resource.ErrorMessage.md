@@ -25,4 +25,4 @@ Gets errors reported by the  **Import Resources Wizard** and by local resource e
 
 The  **ErrorMessage** property is used by the **Import Resources Wizard** while saving the enterprise resource pool and when **[CheckResourceErrors](Project.Application.CheckResourceErrors.md)** and **[EnterpriseResourcesImport](Project.Application.EnterpriseResourcesImportEx.md)** methods are used.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Specifies contants that define the target of the validation rule; passed to and 
 | **visRuleTargetPage**|1|The rule applies to pages in the document.|
 | **visRuleTargetShape**|0|The rule applies to shapes in the document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

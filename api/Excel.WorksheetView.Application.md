@@ -34,3 +34,4 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

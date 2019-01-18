@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.CustomFieldValueListGetItem Method (Project)](http://msdn.microsoft.com/library/54ab8b15-374a-3c7a-ffe6-bc90b5d4561e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

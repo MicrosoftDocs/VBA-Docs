@@ -18,3 +18,4 @@ Specifies what value to allocate when performing what-if analysis on a PivotTabl
 | **xlAllocateIncrement**|2|Increment based on the old value.|
 | **xlAllocateValue**|1|The value entered divided by the number of allocations.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

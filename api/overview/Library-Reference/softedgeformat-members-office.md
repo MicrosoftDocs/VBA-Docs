@@ -22,3 +22,4 @@ Represents the soft edges effect in Office graphics.
 |[Radius](../../Office.SoftEdgeFormat.Radius.md)|Gets or sets the size, measured in points, of the soft edge effect of the shape. Read/write|
 |[Type](../../Office.SoftEdgeFormat.Type.md)|Gets or sets the type of the **SoftEdgeFormat** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

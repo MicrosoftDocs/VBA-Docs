@@ -51,4 +51,4 @@ The following command zooms in the Gantt chart to show the time between 10 AM an
 PanZoomZoomTo Start:="3/19/2012 10:00:00 AM", Finish:="3/19/2012 5:00:00 PM"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ End Sub
 
 [ErrorCheckingOptions Object](Excel.ErrorCheckingOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

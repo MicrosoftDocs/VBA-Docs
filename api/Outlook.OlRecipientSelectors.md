@@ -25,3 +25,4 @@ Specifies the edit boxes (for  **To**,  **Cc**,  **Bcc**), if any, to be display
 | **olShowToCc**|2|Only edit boxes for  **To** and **Cc** recipients will be displayed.|
 | **olShowToCcBcc**|3|Edit boxes for  **To**,  **Cc**, and  **Bcc** recipients will be displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

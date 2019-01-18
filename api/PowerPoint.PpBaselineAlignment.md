@@ -23,3 +23,4 @@ Specifies the base line alignment for a paragraph.
 |**ppBaselineAlignMixed**|-2|Mixed alignment.|
 |**ppBaselineAlignTop**|2|Aligned to the top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

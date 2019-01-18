@@ -16,6 +16,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [PivotTable.ShowTableStyleLastColumn property (Excel)](http://msdn.microsoft.com/library/4e266260-dae7-46af-bdb7-0972b186b382%28Office.15%29.aspx)
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

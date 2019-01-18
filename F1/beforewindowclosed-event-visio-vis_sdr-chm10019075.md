@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.BeforeWindowClosed Event (Visio)](http://msdn.microsoft.com/library/b998ba51-0746-e7b1-263e-c93f98bd6f36%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

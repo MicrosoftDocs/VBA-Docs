@@ -23,3 +23,4 @@ When you create a native-code executable file, some extra programs must run. Thi
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

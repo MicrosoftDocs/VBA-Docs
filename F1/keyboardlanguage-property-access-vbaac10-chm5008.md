@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ComboBox.KeyboardLanguage property (Access)](http://msdn.microsoft.com/library/5eb0e03c-c931-45b5-7801-d790c4678768%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

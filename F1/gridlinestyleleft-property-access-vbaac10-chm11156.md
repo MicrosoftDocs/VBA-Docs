@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.GridlineStyleLeft property (Access)](http://msdn.microsoft.com/library/f1c71748-a37c-d0d0-5d8e-9899cf1efba5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ To get a particular  **ValidationRule** object, you can use the **[Item](Visio.V
 
 The default property of the  **ValidationRule** object is **[NameU](Visio.ValidationRule.NameU.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The Outlook object browser displays the classes, properties, methods, events, and constants available from the Outlook object library. The object browser lets you view and use objects in the Script Editor and obtain information about the syntax for using the object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

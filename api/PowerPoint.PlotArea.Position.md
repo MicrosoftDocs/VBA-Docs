@@ -26,3 +26,4 @@ Returns or sets the position of the plot area on the chart. Read/write  **[xlCha
 
 [PlotArea Object](PowerPoint.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

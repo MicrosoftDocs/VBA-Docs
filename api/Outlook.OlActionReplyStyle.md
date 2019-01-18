@@ -32,4 +32,4 @@ Specifies the reply style.
 
 Used by the [ReplyStyle](Outlook.Action.ReplyStyle.md) property of an [Action](Outlook.Action.md) to specify the reply style that will be used when the **Action** is executed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

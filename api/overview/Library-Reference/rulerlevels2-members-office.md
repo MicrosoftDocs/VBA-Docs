@@ -28,3 +28,4 @@ A collection of all the **RulerLevel2** objects on the specified ruler.
 |[Creator](../../Office.RulerLevels2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **RulerLevels2** object was created. Read-only.|
 |[Parent](../../Office.RulerLevels2.Parent.md)|Gets the **Parent** object for the **RulerLevels2** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

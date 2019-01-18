@@ -49,4 +49,4 @@ The following code moves the page 100 pixels to the right (horizontally) and 200
 vsoViewer.Pan 100, 200
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

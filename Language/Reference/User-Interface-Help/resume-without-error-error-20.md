@@ -23,3 +23,4 @@ A  **Resume** statement can only appear within an error handler and can only be 
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

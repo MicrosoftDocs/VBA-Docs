@@ -30,3 +30,4 @@ Returns an  **Object** that represents the parent object of the specified **CoAu
 
 [CoAuthUpdates Object](./overview/Word.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

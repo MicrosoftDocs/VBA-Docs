@@ -33,4 +33,4 @@ Determines whether the selected background or border is applied to all pages in 
 
 The value of the  **ApplyBackgroundToDocument** property corresponds to the **Apply to All Pages** or **Apply to Current Page** commands that appear when the user right-clicks items in the **Backgrounds** or **Borders & Titles** gallery on the **Design** tab.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

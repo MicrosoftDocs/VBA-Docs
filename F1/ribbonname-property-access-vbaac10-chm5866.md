@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.RibbonName property (Access)](http://msdn.microsoft.com/library/598dc161-1d90-8339-a214-95d6e9d6396a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

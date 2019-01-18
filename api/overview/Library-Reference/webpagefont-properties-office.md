@@ -22,3 +22,4 @@ localization_priority: Normal
 |[ProportionalFont](../../Office.WebPageFont.ProportionalFont.md)|Sets or gets the proportional font setting in the host application. Read/write.|
 |[ProportionalFontSize](../../Office.WebPageFont.ProportionalFontSize.md)|Sets or gets the proportional font size setting in the host application, in points. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

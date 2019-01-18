@@ -20,3 +20,4 @@ This object has the following events:
 |[NodeAfterInsert](../../Office.CustomXMLPart.NodeAfterInsert.md)|Occurs after a node is inserted in a  **CustomXMLPart** object.|
 |[NodeAfterReplace](../../Office.CustomXMLPart.NodeAfterReplace.md)|Occurs just after a node is replaced in a  **CustomXMLPart** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

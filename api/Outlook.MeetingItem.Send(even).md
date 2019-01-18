@@ -39,3 +39,4 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

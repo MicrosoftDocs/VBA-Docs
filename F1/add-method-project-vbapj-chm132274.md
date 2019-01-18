@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Assignment.Flag16 Property (Project)](http://msdn.microsoft.com/library/fc4034ce-15b2-42fa-a292-453f5b2abacd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

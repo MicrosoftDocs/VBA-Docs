@@ -43,3 +43,4 @@ This property is used to return information representing various metadata proper
 
 [MetaProperties Object Members](./overview/Library-Reference/metaproperties-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

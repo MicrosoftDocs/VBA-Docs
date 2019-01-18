@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.Move method (Access)](http://msdn.microsoft.com/library/50b25305-0b91-378d-514f-d35b8d7aed6e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

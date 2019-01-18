@@ -42,3 +42,4 @@ FormField
 
 [FormFields Collection Object](Word.formfields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

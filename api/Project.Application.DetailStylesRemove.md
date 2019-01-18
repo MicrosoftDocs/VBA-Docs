@@ -36,4 +36,4 @@ Removes a timescale data field from a usage view.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

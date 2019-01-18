@@ -44,4 +44,4 @@ Toolbar
 
 If the index is zero (0), the object is added at the beginning of the collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

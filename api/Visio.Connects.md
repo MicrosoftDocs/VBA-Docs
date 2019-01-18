@@ -50,3 +50,4 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[Stat](./Visio.Connects.Stat.md)|
 |[ToSheet](./Visio.Connects.ToSheet.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

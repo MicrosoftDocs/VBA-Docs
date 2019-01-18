@@ -207,3 +207,4 @@ End Sub
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

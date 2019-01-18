@@ -26,3 +26,4 @@ Specifies the alignment for each paragraph in the specified paragraph format.
 |**ppAlignRight**|3|Right-aligned|
 |**ppAlignThaiDistribute**|6|Thai distributed|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

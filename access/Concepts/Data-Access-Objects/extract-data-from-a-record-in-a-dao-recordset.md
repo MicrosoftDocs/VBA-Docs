@@ -101,4 +101,4 @@ For example, if the fifth record cannot be retrieved in a group of 10 records th
 
 Because the **GetRows** method always returns all the fields in the **Recordset** object, you may want to create a query that returns just the fields that you need. This is especially important for OLE Object and Memo fields.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

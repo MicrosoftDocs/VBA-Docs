@@ -44,4 +44,4 @@ The setting of the  **BIDITextUI** property corresponds to the regional options 
 
 The setting of the  **BIDITextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **BIDITextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

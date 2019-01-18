@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.FormatConditions property (Access)](http://msdn.microsoft.com/library/6c643d8b-9b90-2b50-2ba0-c46bb821d38d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

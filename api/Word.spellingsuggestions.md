@@ -39,4 +39,4 @@ You cannot add suggestions to or remove suggestions from the collection of spell
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

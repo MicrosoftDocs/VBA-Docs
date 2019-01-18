@@ -28,4 +28,4 @@ Gets or sets the alignment of the title in a table field. Read/write  **PjAlignm
 
 Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

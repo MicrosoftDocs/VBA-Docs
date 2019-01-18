@@ -36,3 +36,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BorderColor property (Access)](http://msdn.microsoft.com/library/7522b663-4ce6-34a6-51db-7de503e01f04%28Office.15%29.aspx)
 - [ToggleButton.BorderColor property (Access)](http://msdn.microsoft.com/library/0ef018d1-397f-f7e8-317e-639e85de0e98%28Office.15%29.aspx)
 - [WebBrowserControl.BorderColor property (Access)](http://msdn.microsoft.com/library/a9b49340-7aab-64eb-7904-b2090ca44840%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

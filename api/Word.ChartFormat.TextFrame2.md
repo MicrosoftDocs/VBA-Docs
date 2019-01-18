@@ -29,3 +29,4 @@ Returns the text formatting for the specified chart element. Read-only  **TextFr
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

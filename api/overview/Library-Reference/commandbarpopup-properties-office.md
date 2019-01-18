@@ -44,3 +44,4 @@ localization_priority: Normal
 |[Visible](../../Office.CommandBarPopup.Visible.md)|Gets or sets the  **Visible** property of the **CommandBarPopup** control. Read/write.|
 |[Width](../../Office.CommandBarPopup.Width.md)|Gets or sets the width (in pixels) of the specified  **CommandBarPopup** control. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

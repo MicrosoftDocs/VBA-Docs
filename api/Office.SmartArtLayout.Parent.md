@@ -30,3 +30,4 @@ _expression_. `Parent`
 
 [SmartArtLayout Object Members](./overview/Library-Reference/smartartlayout-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

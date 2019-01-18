@@ -23,4 +23,4 @@ Returns a  **Variant** that represents the width, in points, of the specified pi
 
  _expression_ A variable that represents a  **PictureFormat** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

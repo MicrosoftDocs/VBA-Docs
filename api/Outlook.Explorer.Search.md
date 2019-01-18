@@ -45,3 +45,4 @@ The  **Search** method does not provide a callback to enable the developer to de
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

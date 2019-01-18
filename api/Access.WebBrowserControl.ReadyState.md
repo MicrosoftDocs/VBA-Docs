@@ -34,3 +34,4 @@ When the Web Browser control does not contain a document, the value of this prop
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

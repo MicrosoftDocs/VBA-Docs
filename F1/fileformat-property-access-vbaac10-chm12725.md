@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentProject.FileFormat property (Access)](http://msdn.microsoft.com/library/eb062d95-3042-eae7-9c0b-9d052e28b8cd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

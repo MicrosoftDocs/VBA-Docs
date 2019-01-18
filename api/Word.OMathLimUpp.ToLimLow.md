@@ -34,3 +34,4 @@ OMathFunction
 
 [OMathLimUpp Object](Word.OMathLimUpp.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

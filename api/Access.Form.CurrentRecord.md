@@ -38,3 +38,4 @@ The value specified by this property corresponds to the value shown in the recor
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

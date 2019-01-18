@@ -34,3 +34,4 @@ String
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ The  **Application** property is set by Microsoft Access and is read-only in all
 
 Each Microsoft Access object has an  **Application** property that returns the current **Application** object. You can use this property to access any of the object's properties.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

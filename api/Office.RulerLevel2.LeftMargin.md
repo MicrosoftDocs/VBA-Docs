@@ -40,3 +40,4 @@ If a paragraph begins with a bullet, the bullet position is determined by the  *
 
 [RulerLevel2 Object Members](./overview/Library-Reference/rulerlevel2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

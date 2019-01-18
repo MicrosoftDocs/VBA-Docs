@@ -30,3 +30,5 @@ For a code example that uses the  **Values** property, see the **[Series](Projec
 
 [Series Object](Project.series.md)
 [XValues Property](Project.series.xvalues.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

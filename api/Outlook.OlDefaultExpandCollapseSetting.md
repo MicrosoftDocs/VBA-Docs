@@ -24,3 +24,4 @@ Specifies the expand/collapse default value specified in the  **[DefaultExpandCo
 | **olAllExpanded**|0|All groups are expanded when the view is initially displayed.|
 | **olLastViewed**|2|Groups are displayed expanded or collapsed depending on the state the groups were in when the view was last closed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

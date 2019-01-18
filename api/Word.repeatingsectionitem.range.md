@@ -32,4 +32,4 @@ Returns the range of the specified repeating section item, excluding the start a
 
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

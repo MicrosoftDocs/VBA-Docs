@@ -38,3 +38,4 @@ Integer
 
 [TextColumn2 Object Members](./overview/Library-Reference/textcolumn2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,3 +53,4 @@ Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

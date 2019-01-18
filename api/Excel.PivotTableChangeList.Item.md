@@ -37,3 +37,4 @@ _expression_ A variable that returns a [PivotTableChangeList](Excel.PivotTableCh
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

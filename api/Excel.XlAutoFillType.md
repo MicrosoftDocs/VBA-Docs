@@ -28,3 +28,4 @@ Specifies how the target range is to be filled, based on the contents of the sou
 | **xlLinearTrend**|9|Extend the numeric values from the source range into the target range, assuming that the relationships between the numbers is additive (for example, '1, 2,' is extended as '3, 4, 5', assuming that each number is a result of adding some value to the previous number). Formats are copied from the source range to the target range, repeating if necessary.|
 | **xlFlashFill**|11|Extend the values from the source range into the target range based on the detected pattern of previous user actions, repeating if necessary.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

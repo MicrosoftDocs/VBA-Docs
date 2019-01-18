@@ -66,3 +66,5 @@ Lower = Lbound(AnyArray)    ' Returns 0 or 1, depending on
 - [Keywords (Visual Basic for Applications)](../keywords-visual-basic-for-applications.md)
 - [Statements (Visual Basic for Applications)](../statements.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

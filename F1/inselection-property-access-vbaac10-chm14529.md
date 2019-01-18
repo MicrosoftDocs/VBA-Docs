@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AcFormatBarLimits enumeration (Access)](http://msdn.microsoft.com/library/15cc7bb2-ef78-1b55-910c-fbc8b9f95c61%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

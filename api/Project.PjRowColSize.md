@@ -20,3 +20,4 @@ Contains constants that specify the size of a row or a column.
 |**pjSizeBestFit**|0|Best fit.|
 |**pjSizeFixed**|1|Fixed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

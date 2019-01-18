@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Formatting and VBA Codes for Headers and Footers](../Workbooks-and-Worksheets/formatting-and-vba-codes-for-headers-and-footers.md)
     
 -  [Returning an Object from a Collection (Excel)](../Workbooks-and-Worksheets/returning-an-object-from-a-collection-excel.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

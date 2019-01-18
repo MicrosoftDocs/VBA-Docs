@@ -37,6 +37,5 @@ Other important rules for pattern matching include the following:
 - When a range of characters is specified, they must appear in ascending sort order (A-Z or 0-100). [A-Z] is a valid pattern, but [Z-A] isn't.
     
 - The character sequence [ ] is ignored; it's considered to be a zero-length string ("").
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ _expression_ A variable that represents a '[Columns](Outlook.Columns.md)' object
 
 [Columns Object](Outlook.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

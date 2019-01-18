@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [References object (Access)](http://msdn.microsoft.com/library/ac020382-4ece-f138-d1b9-d05b0fe0f523%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

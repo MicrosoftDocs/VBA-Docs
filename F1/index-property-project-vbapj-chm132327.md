@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Group2.Index Property (Project)](http://msdn.microsoft.com/library/a7d4ec3e-825b-87c8-d7bb-a61984ba7ace%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

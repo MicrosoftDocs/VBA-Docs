@@ -70,4 +70,4 @@ You can set the background color for an individual stencil window by using the  
 
  **Note**  You can specify two colors for the stencil background. If users' screen resolution is adequate, one of the colors will grade into the other from the top to the bottom of the screen. To be able to use this feature, users must set their monitors to display 32-bit color. The ability to set stencil background color programmatically for users running in high-contrast mode is restricted.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

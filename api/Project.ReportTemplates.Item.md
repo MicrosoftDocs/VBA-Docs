@@ -33,3 +33,5 @@ Gets a single  **ReportTemplate** object from a **[ReportTemplates](Project.repo
 
 
 [ReportTemplates Collection Object](Project.reporttemplates.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ChartCharacters object (Word)dd6c70b2-62f9-0bd0-b3d2-286b97607a4b](http://msdn.microsoft.com/library/dd6c70b2-62f9-0bd0-b3d2-286b97607a4b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

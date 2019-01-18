@@ -27,3 +27,4 @@ Contains constants that specify the file format.
 |**pjXLSB**|21|Excel binary file.|
 |**pjXLSX**|20|Excel OpenXML format file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

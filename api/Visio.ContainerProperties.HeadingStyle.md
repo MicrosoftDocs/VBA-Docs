@@ -37,4 +37,4 @@ The value of the  **HeadingStyle** should always be greater than or equal to zer
 
 If no value is assigned to the  **HeadingStyle** property or it is set to a null value, a runtime error ensues. A runtime error also ensues if you assign the property a value less than 0 or greater than the maximum ID number in the **Heading Styles** gallery.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

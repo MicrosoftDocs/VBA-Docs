@@ -32,4 +32,4 @@ Returns or sets a  **String** that represents the name of a chart category. Read
 
 [ChartCategory Object](Word.categorycollection.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

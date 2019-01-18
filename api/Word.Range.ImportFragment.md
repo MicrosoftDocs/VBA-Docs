@@ -48,3 +48,4 @@ This method replaces the contents of a range. To stop this from occurring, use t
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The default value is **xlSelectionScope** , which sets the scope using the **App
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,5 @@ End Type ' female, 1 for male).
 
 - [Data type summary](../reference/user-interface-help/data-type-summary.md)
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

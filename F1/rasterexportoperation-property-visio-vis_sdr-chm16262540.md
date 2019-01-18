@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportOperation Property (Visio)](http://msdn.microsoft.com/library/15696f55-9927-a0c0-23eb-74e31f782249.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

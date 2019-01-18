@@ -27,4 +27,4 @@ Determines the format of the calendar information in the body of the  **[MailIte
 
 For more information, see [Sharing Calendars](../outlook/How-to/Sharing/sharing-calendars.md) and [Export a Calendar using Payload Sharing](../outlook/How-to/Sharing/export-a-calendar-using-payload-sharing.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ This example displays the index number of an object passed to this procedure.
 MsgBox "The index number of this object is " & obj.Index
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

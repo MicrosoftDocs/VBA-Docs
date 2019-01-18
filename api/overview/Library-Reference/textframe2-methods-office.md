@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[DeleteText](../../Office.TextFrame2.DeleteText.md)|Deletes the text from a text frame and all the associated properties of the text, including font attributes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

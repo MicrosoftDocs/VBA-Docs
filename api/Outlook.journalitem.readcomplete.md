@@ -45,3 +45,4 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

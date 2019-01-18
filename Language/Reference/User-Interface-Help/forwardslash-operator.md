@@ -48,3 +48,5 @@ MyValue = 10 / 4   ' Returns 2.5.
 MyValue = 10 / 3   ' Returns 3.333333.
 
 ```
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

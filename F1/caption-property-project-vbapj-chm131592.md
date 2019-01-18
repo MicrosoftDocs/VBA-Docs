@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Caption Property (Project)](http://msdn.microsoft.com/library/e43c55ea-d239-a6e5-42ce-35da5b47aa01%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ _expression_. `ShowCheckPhoneDialog`( `_PhoneNumber_` )
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

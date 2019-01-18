@@ -39,3 +39,4 @@ A gradient fill can be specified in the formatting for various elements (shapes)
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

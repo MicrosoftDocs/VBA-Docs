@@ -26,4 +26,4 @@ Returns or sets the length of an animation in seconds. Read/write.
 
  **FLOAT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

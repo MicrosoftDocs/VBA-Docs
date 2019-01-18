@@ -40,3 +40,5 @@ Lowercase = Lcase(UpperCase)    ' Returns "hello world 1234".
 
 - [UCase function](ucase-function.md)
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

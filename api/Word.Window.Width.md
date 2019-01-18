@@ -29,3 +29,4 @@ Returns or sets the width of the specified document window, in points. Read/writ
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

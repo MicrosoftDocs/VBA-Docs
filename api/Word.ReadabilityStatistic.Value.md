@@ -41,3 +41,4 @@ MsgBox ActiveDocument.ReadabilityStatistics( _
 
 [ReadabilityStatistic Object](Word.ReadabilityStatistic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

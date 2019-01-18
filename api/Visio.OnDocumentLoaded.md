@@ -50,4 +50,4 @@ Private Sub vsoViewer_OnDocumentLoaded()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

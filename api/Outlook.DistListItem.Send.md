@@ -39,3 +39,4 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

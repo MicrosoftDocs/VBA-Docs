@@ -39,3 +39,4 @@ This event returns an item object representing the inline response item.
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

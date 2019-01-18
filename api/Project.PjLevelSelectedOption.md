@@ -22,3 +22,4 @@ Contains constants that specify the leveling option.
 |**pjResolveNextAvailableTime**|2|Resolve leveling for the next available time.|
 |**pjResolveSelectedTasks**|0|Resolve leveling for the selected tasks.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

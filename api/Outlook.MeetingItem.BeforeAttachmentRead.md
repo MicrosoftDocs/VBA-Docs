@@ -35,3 +35,4 @@ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

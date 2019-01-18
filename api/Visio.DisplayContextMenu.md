@@ -49,4 +49,4 @@ The following code specifies that the shortcut menu appear at screen coordinates
 vsoViewer.DisplayContextMenu(300,300)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ Gets an object that represents the parent of the  **Shapes** object. Read-only *
 
 
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

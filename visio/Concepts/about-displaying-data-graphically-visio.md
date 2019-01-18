@@ -176,4 +176,4 @@ For intCounter = 1 To (vsoMaster_Old.GraphicItems.Count)
 
 To see a code sample that shows how to customize data graphics programmatically, download the Visio SDK and refer to the Code Samples Library.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

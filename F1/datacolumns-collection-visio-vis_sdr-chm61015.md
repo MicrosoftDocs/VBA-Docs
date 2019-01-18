@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataColumns Object (Visio)](http://msdn.microsoft.com/library/4741b6df-8613-9fda-1087-dba1a9a0fb5b.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,5 @@ Contains a collection of  **[ViewSingle](Project.ViewSingle.md)** objects.
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

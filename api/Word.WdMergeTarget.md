@@ -21,3 +21,4 @@ Specifies the target for a Compare and Merge Documents process.
 | **wdMergeTargetNew**|2|Merge into new document.|
 | **wdMergeTargetSelected**|0|Merge into selected document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

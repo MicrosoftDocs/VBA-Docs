@@ -50,3 +50,4 @@ Displays the selection state of an item.
 |:-----|:-----|
 | [Click](Outlook.checkbox(event).md)|Occurs when the user clicks inside the control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

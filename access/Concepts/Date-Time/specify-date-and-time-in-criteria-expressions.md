@@ -20,4 +20,4 @@ Suppose that you are creating a filter for an Employees form to display records 
 Forms!Employees.Filter = "[BirthDate] >= #10/1/1960#"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

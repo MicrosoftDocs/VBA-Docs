@@ -81,3 +81,4 @@ Specifies a miscellaneous constant in Microsoft Word.
 | **xlTransparent**|2|Transparent fill.|
 | **xlTriangle**|3|Triangle.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -114,3 +114,5 @@ Dim myArray()
 
 - [Data types](../../reference/user-interface-help/data-type-summary.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

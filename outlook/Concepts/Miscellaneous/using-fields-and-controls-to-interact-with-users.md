@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Manipulating Controls in the Forms Designer](../Specifying-Form-Behavior/manipulating-controls-in-the-forms-designer.md)
     
 -  [Manipulating Controls Programmatically](../Specifying-Form-Behavior/manipulating-controls-programmatically.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

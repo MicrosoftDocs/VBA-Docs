@@ -43,9 +43,6 @@ The **ItemsSelected** collection also provides a way to access data in the selec
 
 ### About the contributors
 
-Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
+Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools.
 
-
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ Forms(0).BeforeUpdate = "[Event Procedure]"
 
 [CheckBox Object](Access.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

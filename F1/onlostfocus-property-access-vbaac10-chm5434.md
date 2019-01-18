@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnLostFocus property (Access)](http://msdn.microsoft.com/library/1606cb80-bf56-3766-d939-b545c2738e17%28Office.15%29.aspx)
 - [ToggleButton.OnLostFocus property (Access)](http://msdn.microsoft.com/library/f7f9f17d-0fb3-49b1-a6d8-d9498b188651%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

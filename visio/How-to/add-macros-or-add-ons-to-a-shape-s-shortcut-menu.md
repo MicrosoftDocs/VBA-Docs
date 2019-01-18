@@ -29,4 +29,4 @@ localization_priority: Normal
 
  **Note**   You also can associate a macro or add-on with a shape by entering a formula that uses the RUNADDON function in any ShapeSheet cell.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

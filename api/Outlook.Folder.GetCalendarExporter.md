@@ -42,3 +42,4 @@ The  **GetCalendarExporter** method automatically sets the defaults for the **Ca
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

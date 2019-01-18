@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SubForm.SourceObject property (Access)](http://msdn.microsoft.com/library/bee9c1fe-c58c-b6f3-e2ad-7ceb99bacee4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

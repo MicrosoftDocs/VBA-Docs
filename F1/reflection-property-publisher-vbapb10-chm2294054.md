@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shape.Reflection Property (Publisher)](http://msdn.microsoft.com/library/a9a12d07-8edc-2f1b-9f7d-4aeae43b1335%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

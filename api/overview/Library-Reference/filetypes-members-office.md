@@ -29,3 +29,4 @@ A collection of values of the type **msoFileType** that determine which types of
 |[Creator](../../Office.FileTypes.Creator.md)|Gets a 32-bit integer that indicates the application in which the **FileTypes** object was created. Read-only.|
 |[Item](../../Office.FileTypes.Item.md)|Gets a value that indicates which file type will be searched for. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

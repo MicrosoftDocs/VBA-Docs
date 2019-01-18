@@ -45,3 +45,4 @@ To flush the cache and then reload the values from the address book, call  **Upd
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

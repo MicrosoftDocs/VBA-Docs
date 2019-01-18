@@ -47,3 +47,4 @@ ActiveWorkbook.DeleteNumberFormat("000-00-0000")
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

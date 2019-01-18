@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SplitParts Object (Project)](http://msdn.microsoft.com/library/bc36310c-9289-a363-f2d6-c8a0991725e5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

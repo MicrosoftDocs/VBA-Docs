@@ -38,4 +38,4 @@ Set NewBook = Workbooks.Add
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

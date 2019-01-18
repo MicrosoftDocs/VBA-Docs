@@ -34,3 +34,4 @@ Even if the Microsoft Windows setting for ClearType is turned off, setting this 
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

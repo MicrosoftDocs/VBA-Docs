@@ -39,5 +39,4 @@ Presents multiple screens of information as a single set.
 |:-----|:-----|
 | [Click](Outlook.multipage.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

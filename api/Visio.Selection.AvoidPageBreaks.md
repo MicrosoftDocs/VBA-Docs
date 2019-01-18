@@ -28,4 +28,4 @@ Makes small adjustments to selected shapes to move them off page breaks.
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

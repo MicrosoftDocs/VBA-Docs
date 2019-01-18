@@ -21,3 +21,4 @@ Specifies the direction that text runs.
 |**msoTextDirectionMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoTextDirectionRightToLeft**|2|Text runs right to left.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Deletes the specified  **Master** object.
 
 [Master Object](PowerPoint.Master.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

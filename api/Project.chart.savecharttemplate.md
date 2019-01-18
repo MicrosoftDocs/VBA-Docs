@@ -59,3 +59,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [SetDefaultChart Method](Project.chart.setdefaultchart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Used with the  **CursorOnHover** property to specify the type of cursor displaye
 |**acCursorOnHoverDefault**|0|The default cursor is displayed.|
 |**acCursorOnHoverHyperlinkHand**|1|The hyperlink hand cursor is displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

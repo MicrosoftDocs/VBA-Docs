@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Click event (Access)](http://msdn.microsoft.com/library/b3a11a9a-41ae-625b-1fa2-c771039957b1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -88,3 +88,4 @@ The code example in this topic shows how to add custom components to the ribbon 
 - [Customize the Office Fluent ribbon by using a managed COM add-in](customize-the-office-fluent-ribbon-by-using-a-managed-com-add-in.md)
 - [Customize the Office Fluent ribbon by using a Visual Basic COM add-in](https://docs.microsoft.com/previous-versions/office/developer/office-2010/ff863131(v=office.14))
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

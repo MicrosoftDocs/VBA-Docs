@@ -59,3 +59,4 @@ pvts.AddPivotTable(ActiveSheet.PivotTables("PivotTable1"))
 
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

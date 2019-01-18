@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ShapeRange.ApplyAnimation Method (PowerPoint)](http://msdn.microsoft.com/library/cfaa7d9c-3a65-1be7-dd6c-61e01b9e7d36%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

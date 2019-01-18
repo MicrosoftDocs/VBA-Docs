@@ -110,3 +110,4 @@ End With
 |[ReplaceScope](Publisher.FindReplace.ReplaceScope.md)|
 |[ReplaceWithText](Publisher.FindReplace.ReplaceWithText.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

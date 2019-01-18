@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of story ranges in the collection
 
 [StoryRanges Collection Object](Word.storyranges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

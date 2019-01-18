@@ -36,3 +36,4 @@ This property is not surfaced in the property sheet.
 
 [EmptyCell Object](Access.EmptyCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

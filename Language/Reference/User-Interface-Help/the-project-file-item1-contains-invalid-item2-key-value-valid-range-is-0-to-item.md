@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The range of key values is restricted. Keep the key value within the range specified.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

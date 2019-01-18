@@ -28,4 +28,4 @@ Displays cost information in the active view.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

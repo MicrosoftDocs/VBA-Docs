@@ -45,3 +45,4 @@ You must use error handling to handle run-time errors when the user clicks  **Ca
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

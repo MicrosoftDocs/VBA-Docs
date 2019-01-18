@@ -32,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelFormatScientificNumber Object](Excel.modelformatscientificnumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
