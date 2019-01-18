@@ -23,3 +23,5 @@ If the style is **Option**, an option button or check box appears at the beginni
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

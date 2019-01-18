@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ReturnVars object (Access)](http://msdn.microsoft.com/library/3cc16825-665f-4bd8-a606-6b3b93594659%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

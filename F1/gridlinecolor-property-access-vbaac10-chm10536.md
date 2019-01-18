@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.GridlineColor property (Access)](http://msdn.microsoft.com/library/2f332449-f34d-f290-096a-95f6d4109c4c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

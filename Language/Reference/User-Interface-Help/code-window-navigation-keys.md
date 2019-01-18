@@ -33,3 +33,4 @@ Use these key combinations to navigate in the [Code window](code-window.md).
 |CTRL+PAGE UP|Go to the top of the current procedure.|
 |F6|Switch between Code window panes (when the window is split).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

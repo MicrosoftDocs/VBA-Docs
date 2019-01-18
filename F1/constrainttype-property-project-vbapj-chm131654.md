@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeMaskLevel.Level Property (Project)](http://msdn.microsoft.com/library/aa8319cb-8199-c695-fd73-aef81708619f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

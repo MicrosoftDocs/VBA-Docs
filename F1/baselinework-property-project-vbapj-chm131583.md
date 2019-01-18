@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Project.BuiltinDocumentProperties Property (Project)](http://msdn.microsoft.com/library/7922b8e8-d2a9-be77-b1e5-e33d4a37887c%28Office.15%29.aspx)
 - [Assignment.BaselineWork Property (Project)](http://msdn.microsoft.com/library/9399ca50-e952-0ac0-3677-f0bee2a71ec7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

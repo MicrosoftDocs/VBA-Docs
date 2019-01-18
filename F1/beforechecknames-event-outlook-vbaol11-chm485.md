@@ -31,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.BeforeCheckNames Event (Outlook)](http://msdn.microsoft.com/library/6093de6d-a706-3798-8f7e-a9395ef9f776%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeCheckNames Event (Outlook)](http://msdn.microsoft.com/library/e2f0d5f3-ef86-2981-79bd-2d8c9a17b759%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

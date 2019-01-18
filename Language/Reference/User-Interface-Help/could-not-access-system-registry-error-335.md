@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An attempt to read from or write to the system [registry](../../Glossary/vbe-glossary.md#registry) failed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

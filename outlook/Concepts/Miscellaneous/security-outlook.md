@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Outlook Object Model Security Warnings](../../How-to/Security/outlook-object-model-security-warnings.md)
     
 -  [Protected Properties and Methods](../../How-to/Security/protected-properties-and-methods.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ Use the table of contents in the left navigation to view the topics in this sect
 - [What's new for VBA in Office 2016](../../../library-reference/concepts/what-s-new-for-vba-in-office-2016.md): Lists the new VBA language elements for Office 2016.
 - [Library reference conceptual topics](../../../library-reference/concepts/concepts-object-library-reference-for-office.md): Contains overviews about programmability in Office.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

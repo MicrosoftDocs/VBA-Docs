@@ -29,6 +29,5 @@ In some situations you are not allowed to unload a form or a control on a form. 
 - There is an  **Unload** statement in the RePosition event or Validate event of a **Data** control. Remove the **Unload** statement from the event.
     
 - There is an  **Unload** statement in the ObjectMove event of an **OLE Container** control. Remove the **Unload** statement from the event.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

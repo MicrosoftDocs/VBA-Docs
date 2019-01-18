@@ -30,4 +30,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnExit property (Access)](http://msdn.microsoft.com/library/2489acdf-4cf5-8b49-e9fe-fc78c07a87f3%28Office.15%29.aspx)
 - [ToggleButton.OnExit property (Access)](http://msdn.microsoft.com/library/59dd0f8d-7c77-08be-8978-ea039ad851b9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

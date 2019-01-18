@@ -827,3 +827,4 @@ This article covered ways to optimize Excel functionality such as links, lookups
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)   
 -  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

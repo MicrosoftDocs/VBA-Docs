@@ -27,5 +27,5 @@ localization_priority: Normal
 -  [Best Practices for Getting and Setting Properties](../../How-to/Navigation/best-practices-for-getting-and-setting-properties.md)
     
 -  [Identify a Meeting Item as a Counter-Proposal to a Prior Meeting Request](../../How-to/Navigation/identify-a-meeting-item-as-a-counter-proposal-to-a-prior-meeting-request.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

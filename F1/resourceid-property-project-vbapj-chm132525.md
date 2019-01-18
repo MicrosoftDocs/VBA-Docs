@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ProjectStart Property (Project)](http://msdn.microsoft.com/library/e29a67b8-fd54-b7ed-3eb0-da4adfa66b6a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

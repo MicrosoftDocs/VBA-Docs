@@ -27,4 +27,4 @@ The following example disables the Reading Pane from displaying a form region:
 
  **Note**  You can assign  **showReadingPane** either a string value or an integer value. The default value is **true** or **1**. To prevent the Reading Pane from displaying the form region, assign either  **false** or **0**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

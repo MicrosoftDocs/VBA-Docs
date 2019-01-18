@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.MouseDown event (Access)](http://msdn.microsoft.com/library/8daa650a-ebd8-6e87-a933-d5b1f240ded6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

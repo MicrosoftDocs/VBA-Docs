@@ -17,5 +17,5 @@ localization_priority: Normal
 3. In the  **Caption** box, type a new name for the page.
     
 4. In the  **Control Tip Text** box, type new text for the control tip.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

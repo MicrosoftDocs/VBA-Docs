@@ -13,4 +13,4 @@ This section of the Visio 2013 Viewer reference contains documentation for all t
 
 Use the table of contents in the left navigation to view the topics in this section.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

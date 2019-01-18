@@ -39,3 +39,5 @@ An error occurs if no matching folders are found. The **DeleteFolder** method st
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

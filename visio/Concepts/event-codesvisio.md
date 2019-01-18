@@ -130,3 +130,4 @@ When you are working with the  **[Add](../../api/Visio.EventList.Add.md)** or **
 | **[WindowChanged](../../api/Visio.Application.WindowChanged.md)**|visEvtMod+visEvtWindow|&H2001 (8193)|
 | **[WindowTurnedToPage](../../api/Visio.Application.WindowTurnedToPage.md)**|visEvtCodeWinPageTurn|&H02C0 (704)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

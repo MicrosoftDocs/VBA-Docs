@@ -21,3 +21,4 @@ localization_priority: Normal
 |[SelectSignatureCertificate](../../Office.SignatureInfo.SelectSignatureCertificate.md)|Displays a dialog box that allows users to select which signature certificate to use for signing a document.|
 |[ShowSignatureCertificate](../../Office.SignatureInfo.ShowSignatureCertificate.md)|Displays the selected or default digital certificate. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

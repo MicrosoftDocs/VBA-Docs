@@ -47,3 +47,5 @@ When the system uses the first row of data items as column headings, they can't 
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

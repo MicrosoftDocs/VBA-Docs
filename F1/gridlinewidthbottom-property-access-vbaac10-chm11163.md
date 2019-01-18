@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/4569d053-008b-a4ce-374f-6078f5ea9bee%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

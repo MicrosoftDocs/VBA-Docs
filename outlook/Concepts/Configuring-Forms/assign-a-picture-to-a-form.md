@@ -27,3 +27,4 @@ localization_priority: Normal
 | **[PictureSizeMode](../../../api/Outlook.page.picturesizemode.md)**|Clip|
 | **[PictureTiling](../../../api/Outlook.page.picturetiling.md)**| **True**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

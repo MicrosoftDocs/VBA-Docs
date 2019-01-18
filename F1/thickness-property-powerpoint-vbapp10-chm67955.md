@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Floor.Thickness Property (PowerPoint)](http://msdn.microsoft.com/library/44983b6e-7bbd-c6ef-bfdb-fb5c8c8dbbdb%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

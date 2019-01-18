@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Understanding Outlook Forms](../Forms/understanding-outlook-forms.md)
     
 -  [Customizing Outlook Forms](customizing-outlook-forms.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -77,3 +77,5 @@ Select the windows you want to be dockable and clear those that you do not. Any,
 
 - [Set Visual Basic environment options](../../how-to/set-visual-basic-environment-options.md)
 - [Dialog boxes](../dialog-boxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

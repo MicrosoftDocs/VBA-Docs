@@ -26,3 +26,5 @@ The default property of a **CommandButton** is the **Value** property. The defau
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

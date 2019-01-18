@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.DefaultFixedCostAccrual Property (Project)](http://msdn.microsoft.com/library/24acadcb-6eed-6b5e-ca50-5b509a7e4af0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

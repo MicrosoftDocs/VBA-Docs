@@ -73,4 +73,4 @@ Label3.Caption = ScrollBar1.Value
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

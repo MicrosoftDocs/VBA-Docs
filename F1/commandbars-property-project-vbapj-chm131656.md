@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.CommandBars Property (Project)](http://msdn.microsoft.com/library/80f57057-9bb3-018b-0e45-fd1423368091%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

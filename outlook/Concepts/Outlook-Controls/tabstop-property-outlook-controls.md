@@ -28,4 +28,4 @@ Returns or sets a  **Boolean** that indicates whether an object can receive focu
 
 You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a command button with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the command button won't appear in the tab order.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

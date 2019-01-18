@@ -18,4 +18,4 @@ The  [COMAddIns](../../../api/Outlook.Application.COMAddIns.md) property of the 
 
 Learn more about  [Customizing Outlook using COM add-ins](customizing-outlook-using-com-add-ins.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

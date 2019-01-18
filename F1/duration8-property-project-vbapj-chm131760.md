@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Duration8 Property (Project)](http://msdn.microsoft.com/library/dbe9b6a2-6502-f9f5-62a1-bd5b553dd44c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,5 @@ The default value of **Delay** is 50 milliseconds. This means that the object in
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

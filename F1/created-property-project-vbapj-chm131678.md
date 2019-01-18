@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Cost6 Property (Project)](http://msdn.microsoft.com/library/371f7cc5-7a15-3adc-c68c-7be971091da4%28Office.15%29.aspx)
 - [Resource.Cost6 Property (Project)](http://msdn.microsoft.com/library/97a86173-c589-3779-599c-fcab7d8b079e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LookupTableEntry.Delete Method (Project)](http://msdn.microsoft.com/library/97a15eed-c9d9-1421-dc4e-c261e10f2614%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

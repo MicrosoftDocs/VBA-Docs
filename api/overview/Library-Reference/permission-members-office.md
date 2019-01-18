@@ -39,3 +39,4 @@ The **Permission** property of the **Document** object in Microsoft Word, a **Wo
 |[RequestPermissionURL](../../Office.Permission.RequestPermissionURL.md)|Gets or sets the file or Web site URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.|
 |[StoreLicenses](../../Office.Permission.StoreLicenses.md)|Gets or sets a **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

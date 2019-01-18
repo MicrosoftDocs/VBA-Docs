@@ -31,3 +31,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Project.DeliverableUpdate Method (Project)](http://msdn.microsoft.com/library/665e79a0-b3b4-e36e-6369-627e526f7db0%28Office.15%29.aspx)
 - [Project.GetServerProjectGuid Method (Project)](http://msdn.microsoft.com/library/c9186a7a-8b46-f4f9-c157-46b896143e12%28Office.15%29.aspx)
 - [Project.GetTaskIndexByGuid Method (Project)](http://msdn.microsoft.com/library/6887241c-9daf-385b-42a2-7a82b37c8da7%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnClick property (Access)](http://msdn.microsoft.com/library/54f32b3d-16df-376d-b5c0-9bbb2ff0931a%28Office.15%29.aspx)
 - [ToggleButton.OnClick property (Access)](http://msdn.microsoft.com/library/54a5ade7-7da4-9357-588a-7b97f0a44661%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

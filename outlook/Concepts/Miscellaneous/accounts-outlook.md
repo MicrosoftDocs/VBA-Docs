@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Identify a Folder with an Account](../Accounts/identify-a-folder-with-an-account.md)
     
 -  [Create a Sendable Item for a Specific Account Based on the Current Folder (Outlook)](../Accounts/create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TextBox.ScrollBars property (Access)](http://msdn.microsoft.com/library/de3adbf1-4398-8782-0998-d392ab860669%28Office.15%29.aspx)
 [WebBrowserControl.ScrollBars property (Access)](http://msdn.microsoft.com/library/7f886ed1-32d1-5f0c-022f-e310046f75e0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

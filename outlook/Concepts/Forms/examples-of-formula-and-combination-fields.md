@@ -19,3 +19,4 @@ localization_priority: Priority
 |The first phone number recorded for a contact, in order of appearance in the formula. (**Combination** field)|[Business Phone] [Business Phone 2] [Home Phone] [Home Phone 2] [Cell Phone]|(555) 555-1234|
 |A description of a field combined with the field itself. (**Combination** field)|Task Due: [Due Date]|Task Due: 3/5/2009 8:00:00 A.M.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

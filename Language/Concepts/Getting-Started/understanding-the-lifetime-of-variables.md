@@ -32,3 +32,5 @@ If you include the **Static** keyword before a **[Sub](../../reference/user-inte
 
 - [Visual Basic reference](../../reference/user-interface-help/visual-basic-language-reference.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

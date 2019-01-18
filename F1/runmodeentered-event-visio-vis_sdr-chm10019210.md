@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.RunModeEntered Event (Visio)](http://msdn.microsoft.com/library/75bbf305-87c3-9731-ad9a-a55be67323ab%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

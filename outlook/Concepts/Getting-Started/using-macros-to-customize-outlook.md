@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Working with forms in the Visual Basic Editor](working-with-forms-in-the-visual-basic-editor.md)
     
 -  [Using Outlook Visual Basic for Applications to Respond to Outlook Events](using-outlook-visual-basic-for-applications-to-respond-to-outlook-events.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,6 +19,4 @@ Outlook provides several ways to add custom properties.
 | **Property type**|Specified by _Type_.|Specified by _Type_.|If the property is specified by the MAPI proptag or id namespace, the property type is contained in the lowest 16 bits of the identifier; otherwise, the property type is determined by the type of  _Value_.|Type of each property is determined by the same principles as in the **SetProperty** column; where the property is not specified by any namespace involving its proptag, its property type is the type of the corresponding element in the _Values_ array.|
 | **Upon property change**|The **CustomPropertyChange** event will fire on property change.|The **CustomPropertyChange** event will fire on property change.|An item-level property added this way does not become part of the item's **[UserProperties](../../../api/Outlook.UserProperties.md)** collection. It will not generate Outlook Object Model events when it is changed.|Same event considerations as in the  **SetProperty** column.|
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

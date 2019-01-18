@@ -26,3 +26,5 @@ When a record is deleted at one replica, but updated at another replica, the del
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

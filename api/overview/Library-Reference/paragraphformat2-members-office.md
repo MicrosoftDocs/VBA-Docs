@@ -38,3 +38,4 @@ Represents the paragraph formatting of a text range.
 |[TextDirection](../../Office.ParagraphFormat2.TextDirection.md)|Gets or sets the text direction for the specified paragraph. Read/write.|
 |[WordWrap](../../Office.ParagraphFormat2.WordWrap.md)|Determines whether the application wraps the Latin text in the middle of a word in the specified paragraphs. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,4 @@ Set rstCustomers = dbsNorthwind.OpenRecordset("Customers")
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Duration1 Property (Project)](http://msdn.microsoft.com/library/7123e447-1b2c-7304-3c61-1d3bd5be5af1%28Office.15%29.aspx)
 - [Application.DisplayEntryBar Property (Project)](http://msdn.microsoft.com/library/56121152-2302-9d32-3a64-68b8b68f0f90%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,5 @@ MyStr = "Check " & 123 & " Check"   ' Returns "Check 123 Check".
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

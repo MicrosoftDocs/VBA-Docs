@@ -36,4 +36,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.GridlineStyleBottom property (Access)](http://msdn.microsoft.com/library/02a2cc7e-f8e1-d107-6f13-075ce7448082%28Office.15%29.aspx)
 - [WebBrowserControl.GridlineStyleBottom property (Access)](http://msdn.microsoft.com/library/b3e2fe62-ef2b-3a8d-8f16-a8f7dd635d57%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

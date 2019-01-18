@@ -102,4 +102,4 @@ The following example identifies the built-in action,  `replyToFolder`, and disa
 
  **Note**  You can assign  **disabled** either a string value or an integer value. The default value is **false** or **0**. To disable a built-in action for a form region, assign  **disabled** either **true** or **1**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

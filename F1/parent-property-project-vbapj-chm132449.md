@@ -106,3 +106,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.OutlineCode2 Property (Project)](http://msdn.microsoft.com/library/94bb10d3-36ff-8117-e6bf-b08a0ef2d0ed%28Office.15%29.aspx)
 [Task.OutlineCode2 Property (Project)](http://msdn.microsoft.com/library/0b1e554a-a126-667e-966e-cdb9986422eb%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

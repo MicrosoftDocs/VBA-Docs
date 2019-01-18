@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The [control](../../Glossary/vbe-glossary.md#control) can't be loaded because there is no index, and it has the same name as a previously loaded control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

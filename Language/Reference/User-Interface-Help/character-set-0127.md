@@ -61,3 +61,5 @@ The values with blanks are control characters, not characters displayed or print
 ## See also
 
 - [Chr Function](chr-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

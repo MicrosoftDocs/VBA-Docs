@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [OptionGroup.HideDuplicates property (Access)](http://msdn.microsoft.com/library/d9b17b9f-1eef-eda2-674b-cc7c7b1b5c5a%28Office.15%29.aspx)
 [TextBox.HideDuplicates property (Access)](http://msdn.microsoft.com/library/a625d232-07d8-23d9-a28a-d01c70aa3a95%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

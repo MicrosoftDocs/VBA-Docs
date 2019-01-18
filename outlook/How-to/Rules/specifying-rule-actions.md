@@ -56,4 +56,4 @@ The following table lists all the rule actions supported by the Rules and Alerts
 |Reply using the specified template (.oft) file| **olRuleActionTemplate**|No|Yes|No|
 |Unrecognized rule action| **olRuleActionUnknown**|No|Yes|No|
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

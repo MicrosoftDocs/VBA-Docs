@@ -57,5 +57,5 @@ Be aware that there is no current record immediately following the first loop. T
 - If the first record is the current record when you use the **MovePrevious** method, **BOF** is set to **True**. If you use **MovePrevious** while **BOF** is **True**, a run-time error occurs. When this happens, **BOF** remains **True** and there is no current record.
     
 - Similarly, moving past the last record in the **Recordset** changes the value of the **EOF** property to **True**. If you use the **MoveNext** method while **EOF** is **True**, a run-time error occurs. When this happens, **EOF** remains **True** and there is no current record.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

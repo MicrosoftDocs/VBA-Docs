@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeDocumentClose Event (Visio)](http://msdn.microsoft.com/library/c0d7815e-25bb-7b7e-f80b-81472edc47ca%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

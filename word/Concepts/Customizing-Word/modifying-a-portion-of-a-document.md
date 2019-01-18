@@ -120,4 +120,4 @@ End Sub
 
 For more information about defining  **Range** objects, see [Working with Range objects](../Working-with-Word/working-with-range-objects.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

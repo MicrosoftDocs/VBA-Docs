@@ -13,6 +13,4 @@ localization_priority: Normal
     
 2. On the  **Developer** tab, in the **Arrange** group, click **Group**, and then click  **Group**.
 
-
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

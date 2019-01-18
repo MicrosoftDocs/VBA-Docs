@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewCombination Object (Project)](http://msdn.microsoft.com/library/34e4559a-5eb4-02be-8ad6-bdd3839d91db%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

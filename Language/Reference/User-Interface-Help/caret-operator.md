@@ -47,3 +47,5 @@ MyValue = (-5) ^ 3    ' Returns -125.
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

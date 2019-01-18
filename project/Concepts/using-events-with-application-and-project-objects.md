@@ -63,5 +63,5 @@ If you instantiate Project from another application and register an application-
 
     
 - If code for one of the three events [Application.ProjectBeforeClose](../../api/Project.Application.ProjectBeforeClose.md), [Application.ProjectBeforeSave](../../api/Project.Application.ProjectBeforeSave.md), or [Project.Open](../../api/Project.Project.Open.md) exists in the global file, but not in the project, it affects both the global and project files. If code exists for those events in both the global and project files, the code in the global file affects the global file, and the code in the project file affects the project.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

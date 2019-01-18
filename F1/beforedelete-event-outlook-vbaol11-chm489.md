@@ -30,3 +30,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestDeclineItem.BeforeDelete Event (Outlook)](http://msdn.microsoft.com/library/9a9699d7-cb2c-cbae-221d-11c72698115a%28Office.15%29.aspx)
 - [TaskRequestItem.BeforeDelete Event (Outlook)](http://msdn.microsoft.com/library/b681e1fb-8175-e691-4657-8949c3281631%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.BeforeDelete Event (Outlook)](http://msdn.microsoft.com/library/b19bb985-c218-847a-300e-397da5b8ae73%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

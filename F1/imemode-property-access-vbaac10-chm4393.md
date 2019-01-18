@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.IMEMode property (Access)](http://msdn.microsoft.com/library/fa4adf03-7c20-eade-4a28-e3c3ac64ebc3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

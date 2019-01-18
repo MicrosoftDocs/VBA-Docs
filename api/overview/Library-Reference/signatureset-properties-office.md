@@ -24,3 +24,4 @@ localization_priority: Normal
 |[ShowSignaturesPane](../../Office.SignatureSet.ShowSignaturesPane.md)|Gets or sets a  **Boolean** value indicating whether the **Signature** task pane should be displayed. Read/write.|
 |[Subset](../../Office.SignatureSet.Subset.md)|Gets or sets a value that acts as a filter on the available  **Signature** objects for a document. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

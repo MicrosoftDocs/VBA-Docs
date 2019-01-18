@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.GridX property (Access)](http://msdn.microsoft.com/library/ebc6a4d9-2f73-cf55-504f-a83aff1fecd4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

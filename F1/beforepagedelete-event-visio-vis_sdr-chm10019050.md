@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforePageDelete Event (Visio)](http://msdn.microsoft.com/library/658e3367-2f5b-e2d4-6c07-9b4463ee500a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

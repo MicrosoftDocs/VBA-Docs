@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A top-level  **Menu** control appeared in the ASCII form file with its **Checked** property set to **True**. Top-level menus can't be checked. The **Menu** control will be loaded, but its **Checked** property won't be set.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

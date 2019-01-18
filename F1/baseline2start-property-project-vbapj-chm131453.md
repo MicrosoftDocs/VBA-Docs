@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline2Start Property (Project)](http://msdn.microsoft.com/library/c2802511-429e-52c8-0fa9-e773fe9b13af%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

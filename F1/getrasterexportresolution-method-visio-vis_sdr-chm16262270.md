@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.GetRasterExportResolution Method (Visio)](http://msdn.microsoft.com/library/526d2970-006b-6596-bfef-49446dd58610%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

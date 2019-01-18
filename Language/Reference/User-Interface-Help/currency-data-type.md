@@ -23,3 +23,5 @@ The **Currency** [data type](../../Glossary/vbe-glossary.md#data-type) is useful
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ Represents a command bar in the container application. The **CommandBar** object
 |[Visible](../../Office.CommandBar.Visible.md)|Gets or sets the **Visible** property of the command bar. **True** if the command bar is visible. Read/write.|
 |[Width](../../Office.CommandBar.Width.md)|Gets or sets the width (in pixels) of the specified command bar. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

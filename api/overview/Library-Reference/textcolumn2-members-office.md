@@ -23,3 +23,4 @@ Represents a single text column. The **TextColumn2** object is a member of the *
 |[Spacing](../../Office.TextColumn2.Spacing.md)|Gets or sets the spacing between text columns in a **TextColumn2** object. Read/write.|
 |[TextDirection](../../Office.TextColumn2.TextDirection.md)|Gets or sets the direction of text in the **TextColumn2** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewSingle.Table Property (Project)](http://msdn.microsoft.com/library/356cf967-e443-e068-27f7-c7433f1a5329%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

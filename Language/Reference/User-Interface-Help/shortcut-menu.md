@@ -159,3 +159,5 @@ Allows you to view either the Design window or the Code window.
 ## See also
 
 - [Menus and commands](../menus-commands.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

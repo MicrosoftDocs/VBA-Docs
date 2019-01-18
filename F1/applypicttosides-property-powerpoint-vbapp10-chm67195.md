@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Point.ApplyPictToSides Property (PowerPoint)](http://msdn.microsoft.com/library/0becd070-eb00-7aa4-77ec-c5867b36cae3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

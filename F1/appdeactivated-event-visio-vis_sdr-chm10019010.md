@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.AppDeactivated Event (Visio)](http://msdn.microsoft.com/library/1ec2fc2f-8c57-3aa0-acff-c57bf1136bb6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

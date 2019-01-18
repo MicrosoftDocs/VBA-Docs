@@ -15,4 +15,4 @@ You can use add-ins to customize your Microsoft Outlook form pages and form regi
 
 For more information, see [How to: Add or Remove an Add-in](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/add-or-remove-an-add-in.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

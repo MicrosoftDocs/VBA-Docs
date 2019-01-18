@@ -22,3 +22,4 @@ Represents an object for passing a custom property.
 |[Type](../../Office.PickerProperty.Type.md)|Retrieves the type of the Picker property. Read-only|
 |[Value](../../Office.PickerProperty.Value.md)|Retrieves the value of a Picker property. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

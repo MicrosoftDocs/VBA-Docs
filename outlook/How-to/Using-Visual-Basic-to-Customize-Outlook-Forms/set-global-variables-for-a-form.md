@@ -14,4 +14,4 @@ localization_priority: Normal
 
 A global variable is available to any procedure in a form while the script is running. To set a global variable, assign the value to the variables before any procedures.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

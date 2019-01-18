@@ -92,4 +92,4 @@ Function ShowTrial(Reason As Integer)
 End Function
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

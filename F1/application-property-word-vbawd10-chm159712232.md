@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Rectangles.Application property (Word)](http://msdn.microsoft.com/library/6096264c-3da4-9f28-6014-9c0f2c495128%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

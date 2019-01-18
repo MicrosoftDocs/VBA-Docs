@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OMathArgs object (Word)](http://msdn.microsoft.com/library/5e4d542b-11c3-8cb8-be2a-5b990e777290%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

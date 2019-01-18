@@ -40,3 +40,5 @@ Time= MyTime ' Set system time to MyTime.
 - [Time function](time-function.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

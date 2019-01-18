@@ -26,3 +26,4 @@ Each Microsoft Outlook item is a collection of fields. These collections of fiel
 |Task Request|Sending information about a task to others and requestiong a response.|
 |RSS Article|Representing a blog post or other item from an RSS feed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

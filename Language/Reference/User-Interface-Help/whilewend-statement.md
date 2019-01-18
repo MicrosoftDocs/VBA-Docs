@@ -56,3 +56,5 @@ Debug.Print Counter ' Prints 20 in the Immediate window.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,3 +19,4 @@ localization_priority: Normal
 |[HrGetLossySave](../../Office.IConverterPreferences.HrGetLossySave.md)|This feature is only available in the Open XML Format SDK.|
 |[HrGetMacroEnabled](../../Office.IConverterPreferences.HrGetMacroEnabled.md)|This feature is only available in the Open XML Format SDK.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

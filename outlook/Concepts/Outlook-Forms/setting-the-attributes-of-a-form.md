@@ -21,3 +21,4 @@ If you plan to publish your form to a forms library that other users can access,
 
 To change how users reply to your form, click the **Actions** page. The **Actions** page lists the default Reply forms that are available. You can also add your own custom Reply forms. For example, forms based on a new email message have built-in Reply, Reply to All, Forward, and Reply to Folder forms. When users receive your form, the form contains buttons and menu commands so that users can respond to the form. You can disable some or all of these default forms and set attributes that define how these Reply forms appear.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

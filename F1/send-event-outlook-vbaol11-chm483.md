@@ -33,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TaskItem.Send Event (Outlook)](http://msdn.microsoft.com/library/f634105e-5351-6941-e915-ec63cd703b67%28Office.15%29.aspx)
 [MailItem.Send Event (Outlook)](http://msdn.microsoft.com/library/5acd0507-a96e-7235-e6a5-f31a4c0b7420%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

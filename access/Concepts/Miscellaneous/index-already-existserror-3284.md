@@ -23,3 +23,5 @@ You cannot have two indexes with the same name in a table. Rename one of the ind
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

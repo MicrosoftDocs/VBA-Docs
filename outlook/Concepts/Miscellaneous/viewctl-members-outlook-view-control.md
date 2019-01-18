@@ -88,3 +88,4 @@ The Microsoft Outlook View Control displays information about a specific folder 
 | **[SelectionChange](../../../api/Outlook.viewctl.selectionchan.md)**|Occurs when the selection of the current view changes. |
 | **[ViewSwitch](../../../api/Outlook.viewctl.viewswit.md)**|Occurs when Microsoft Outlook changes the view that is applied to the folder displayed in the View Control element, either as a result of user action or through program code.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

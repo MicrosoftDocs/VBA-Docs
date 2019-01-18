@@ -29,3 +29,4 @@ localization_priority: Priority
 |[SelectedItems](../../Office.FileDialog.SelectedItems.md)|Gets a  **FileDialogSelectedItems** collection. This collection contains a list of the paths of the files that a user selected from a file dialog box displayed using the **Show** method of the **FileDialog** object. Read-only.|
 |[Title](../../Office.FileDialog.Title.md)|Sets or gets the title of a file dialog box displayed using the  **FileDialog** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

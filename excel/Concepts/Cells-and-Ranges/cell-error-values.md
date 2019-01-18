@@ -69,4 +69,4 @@ If IsError(ActiveCell.Value) Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

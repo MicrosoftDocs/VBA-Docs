@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeMaskLevel.Delete Method (Project)](http://msdn.microsoft.com/library/0630c476-d45a-081b-01de-dc6d8ab17a9a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.WindowOpened Event (Visio)](http://msdn.microsoft.com/library/90fef7c3-17a1-5e96-112a-de01d4e24fc4%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

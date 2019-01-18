@@ -44,5 +44,4 @@ The  **Items**,  **Table**,  **[Application](../../../api/Outlook.Application.md
 | **[View.Filter](../../../api/Outlook.View.Filter.md)**|Sets a view's filter without changing the view's XML. Setting the filter for a view only changes the view in the user interface and does not result in a filtered  **Items** collecton.|Folder|No|Yes||
 | **[View.XML](../../../api/Outlook.View.XML.md)**|Gets or sets the XML for a view. Modifying the <Filter> node changes the view's filter. Setting the XML for a view only changes the view in the user interface and does not result in a filtered  **Items** collecton.|Folder|No|Yes|View XML is being deprecated. Use the View object model to program views.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

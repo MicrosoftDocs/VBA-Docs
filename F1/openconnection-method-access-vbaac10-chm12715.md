@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeProject.OpenConnection method (Access)](http://msdn.microsoft.com/library/ed67b379-20aa-0d4c-11e0-3bb2fbe4ff06%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.ContainerRelationshipDeleted Event (Visio)](http://msdn.microsoft.com/library/689cb7e6-48a4-6438-ba9d-e1b554ac0bca%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

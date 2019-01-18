@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.ShapeAdded Event (Visio)](http://msdn.microsoft.com/library/d80b6ee3-8b5f-9c34-e8db-8443146b4728%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

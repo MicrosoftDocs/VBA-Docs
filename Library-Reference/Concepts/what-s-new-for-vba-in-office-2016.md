@@ -350,3 +350,4 @@ The following tables summarize the new VBA language updates for Office 2016.
 |**[xlBinsType enumeration (Word)](../../api/Word.xlbinstype.md)**|Constants passed to and returned by the [ChartGroup.BinsType](../../api/Word.chartgroup.binstype.md) property.|
 |**[xlParentDataLabelOptions enumeration (Word)](../../api/Word.xlparentdatalabeloptions.md)**|Constants passed to and returned by the **Series.ParentDataLabelOption** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

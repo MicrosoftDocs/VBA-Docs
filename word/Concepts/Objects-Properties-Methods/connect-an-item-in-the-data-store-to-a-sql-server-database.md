@@ -493,4 +493,4 @@ For more information about working with ASP.NET 2.0, see  [https://www.asp.net/g
 
 This article explains how to extract data from a SQL Server database and insert it into your template document. You can also extract the data from other data sources, including, for example, Access and Excel. For more information about how to connect to data in those applications programmatically, see the Access and Excel developer documentation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TextBox.ValidationText property (Access)](http://msdn.microsoft.com/library/5d3ab2a3-9166-714f-a0c2-d56d42b19ebc%28Office.15%29.aspx)
 [OptionGroup.ValidationText property (Access)](http://msdn.microsoft.com/library/d115a085-7c22-7a88-539e-ec4461ca6d5d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

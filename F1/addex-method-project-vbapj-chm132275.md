@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Task.Flag17 Property (Project)](http://msdn.microsoft.com/library/3e4b1a66-6c29-cb24-ba3e-fa4a2522613c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

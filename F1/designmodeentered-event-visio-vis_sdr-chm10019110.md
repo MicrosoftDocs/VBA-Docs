@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.DesignModeEntered Event (Visio)](http://msdn.microsoft.com/library/312f0bda-1375-e176-f5c5-4ebd3c9c8b6d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

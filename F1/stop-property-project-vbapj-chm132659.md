@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.TaskGuid Property (Project)](http://msdn.microsoft.com/library/e08a97f7-6504-b15d-157f-e641112b61c2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

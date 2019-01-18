@@ -419,3 +419,4 @@ The value for fields with the  **Yes/No** data type is saved as **-1** or **0**.
 |Size|No| **Number**. Number of bytes used by the message.|
 |Subject|Yes| **Text**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

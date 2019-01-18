@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ComboBox.RowSource property (Access)](http://msdn.microsoft.com/library/1225e566-24e0-244d-09ae-e036c87f3141%28Office.15%29.aspx)
 [ListBox.RowSource property (Access)](http://msdn.microsoft.com/library/7f6c8b99-36b2-3bd3-af8f-f93d67d20f39%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

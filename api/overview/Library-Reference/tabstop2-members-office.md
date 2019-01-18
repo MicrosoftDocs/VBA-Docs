@@ -30,3 +30,4 @@ Represents a single tab stop. The **TabStop2** object is a member of the **TabSt
 |[Position](../../Office.TabStop2.Position.md)|Gets or sets the position of a tab stop relative to the left margin. Read/write.|
 |[Type](../../Office.TabStop2.Type.md)|Gets or sets the type of the **TabStop2** object. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

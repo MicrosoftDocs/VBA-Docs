@@ -32,3 +32,4 @@ The **SharedWorkspaceFile** object represents a file saved in a shared document 
 |[Parent](../../Office.SharedWorkspaceFile.Parent.md)|Gets the **Parent** object for the **SharedWorkspaceFile** object. Read-only.|
 |[URL](../../Office.SharedWorkspaceFile.URL.md)|Gets the full Uniform Resource Locator (URL) and file name of the shared workspace file. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

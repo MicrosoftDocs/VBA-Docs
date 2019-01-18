@@ -90,3 +90,4 @@ If an application does not support Automation, DDE may be an alternative. DDE is
 |Close DDE channel| **[DDETerminate](../../../api/Word.Application.DDETerminate.md)**|
 |Close all DDE channels| **[DDETerminateAll](../../../api/Word.Application.DDETerminateAll.md)**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

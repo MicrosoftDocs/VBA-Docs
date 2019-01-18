@@ -42,3 +42,5 @@ The _folderspec_ argument can have any of the following values:
 ## See also
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

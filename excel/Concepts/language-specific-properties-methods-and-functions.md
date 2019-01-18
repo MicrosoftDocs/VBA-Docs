@@ -66,5 +66,5 @@ The following are language-specific worksheet functions:
 -  **[SearchB](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
     
 -  **[USDollar](./Events-WorksheetFunctions-Shapes/list-of-worksheet-functions-available-to-visual-basic.md)**
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

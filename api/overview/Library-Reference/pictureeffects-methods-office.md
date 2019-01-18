@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Delete](../../Office.PictureEffects.Delete.md)|Deletes a  **PictureEffect** object from the collection.|
 |[Insert](../../Office.PictureEffects.Insert.md)|Inserts a Picture Effect in a chain of composite effects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

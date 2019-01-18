@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ClearToMatchColorStyle Method (Project)](http://msdn.microsoft.com/library/b2592ff4-8410-fa5c-a270-d03d47156607%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

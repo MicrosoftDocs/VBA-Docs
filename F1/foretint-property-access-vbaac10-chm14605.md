@@ -25,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationButton.ForeTint property (Access)](http://msdn.microsoft.com/library/4d19f8e8-67e0-412a-a515-dd357a26bc46%28Office.15%29.aspx)
 [TabControl.ForeTint property (Access)](http://msdn.microsoft.com/library/9e7c2a92-028b-f565-22fb-fc44753c7908%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

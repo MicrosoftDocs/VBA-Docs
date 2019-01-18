@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Explorer.DisplayModeChange Event (Outlook)](http://msdn.microsoft.com/library/cee77aad-8905-efed-466e-c2e88cfeeaa2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

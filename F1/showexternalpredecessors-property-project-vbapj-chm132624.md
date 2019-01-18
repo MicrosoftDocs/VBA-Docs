@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.SuccessorTasks Property (Project)](http://msdn.microsoft.com/library/1bd0f9df-9daa-37c0-c60d-6414fc8c87bb%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

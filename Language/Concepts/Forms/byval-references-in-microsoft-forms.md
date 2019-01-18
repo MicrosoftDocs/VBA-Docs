@@ -24,3 +24,5 @@ Assigning a value to an argument associated with a **ReturnBoolean**, **ReturnEf
 - [Keyword contexts](../../reference/keywords-visual-basic-for-applications.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Clear](../../Office.TabStop2.Clear.md)|Removes the specified custom tab stop|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

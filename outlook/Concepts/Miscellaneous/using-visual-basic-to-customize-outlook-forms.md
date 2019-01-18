@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Using Visual Basic Scripting Edition](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-visual-basic-scripting-edition.md)
     
 -  [Using the Outlook Object Model](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/using-the-outlook-object-model.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

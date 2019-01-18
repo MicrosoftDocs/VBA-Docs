@@ -15,5 +15,5 @@ localization_priority: Normal
 -  [Customizing Form Pages and Form Regions](../Forms/customizing-form-pages-and-form-regions.md)
     
 -  [Best Practices to Migrate Outlook 97-2003 Custom Forms](../Forms/best-practices-to-migrate-outlook-97-2003-custom-forms.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

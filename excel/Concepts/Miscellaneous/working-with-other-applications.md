@@ -23,5 +23,5 @@ localization_priority: Normal
 -  [Import Outlook Contacts to a Worksheet](../Working-with-Other-Applications/import-outlook-contacts-to-a-worksheet.md)
     
 -  [Sending Email to a List of Recipients Using Excel and Outlook](../Working-with-Other-Applications/sending-email-to-a-list-of-recipients-using-excel-and-outlook.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

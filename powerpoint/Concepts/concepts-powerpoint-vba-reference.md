@@ -18,6 +18,5 @@ This section contains the following overviews about programmability in PowerPoin
 - [Learn about language-specific information](learn-about-language-specific-information-powerpoint.md)
     
 - [OLE programmatic identifiers](ole-programmatic-identifiers-powerpoint.md)
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

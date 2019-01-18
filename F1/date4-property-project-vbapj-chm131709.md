@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.DefaultAssignmentOwner Property (Project)](http://msdn.microsoft.com/library/41f08732-0f5a-e366-dbc0-54aab1a89fe2%28Office.15%29.aspx)
 - [Task.Date4 Property (Project)](http://msdn.microsoft.com/library/8770070a-19f1-f1c1-8537-a387389195a9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

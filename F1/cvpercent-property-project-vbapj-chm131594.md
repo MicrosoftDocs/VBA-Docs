@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.CellColorEx Property (Project)](http://msdn.microsoft.com/library/a4ab73b9-0428-3564-6652-51baee12939e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

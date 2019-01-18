@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OtherCorrectionsExceptions object (Word)](http://msdn.microsoft.com/library/f72135be-9a82-2c45-1835-8cabb18869de%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

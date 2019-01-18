@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Attachment.PictureSizeMode property (Access)](http://msdn.microsoft.com/library/07d268ad-d4ba-c9ba-1ef4-7b3e7911ebba%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

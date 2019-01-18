@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.TabStop property (Access)](http://msdn.microsoft.com/library/ecb9ede6-e7a8-ca91-9ca3-3fad9de2ef90%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

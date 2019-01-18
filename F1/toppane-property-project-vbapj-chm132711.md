@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Assignment.TaskOutlineNumber Property (Project)](http://msdn.microsoft.com/library/0e356f68-76a8-11df-a723-718c93e61a2c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

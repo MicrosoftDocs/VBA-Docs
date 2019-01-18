@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarPopup.Height Property (Office)](http://msdn.microsoft.com/library/38692baa-5b41-6f38-305c-33eb1aa5f5df%28Office.15%29.aspx)
 [CommandBarControl.Height Property (Office)](http://msdn.microsoft.com/library/71dace36-3237-e94a-f45f-7d9718f13a69%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

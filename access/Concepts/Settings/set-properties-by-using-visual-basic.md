@@ -22,3 +22,4 @@ The following topics outline the steps involved for setting properties of each t
 
 - [Set properties of Data Access Objects in Visual Basic](../Data-Access-Objects/set-properties-of-data-access-objects-in-visual-basic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

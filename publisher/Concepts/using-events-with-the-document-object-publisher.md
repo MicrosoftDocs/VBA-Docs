@@ -51,4 +51,4 @@ End Sub
 
  **Note**  For information on creating event procedures for the  **Application** object, see [Using Events with the Application Object](using-events-with-the-application-object-publisher.md) .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

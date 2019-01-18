@@ -18,5 +18,5 @@ localization_priority: Normal
 4. When you are finished, click anywhere in the group, but do not click the selected control. The group is still selected. 
     
 5. Select another control in the group, or continue to another task.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Show](../../Office.WorkflowTemplate.Show.md)|Displays a workflow specific configuration user interface for the specified **WorkflowTemplate** object.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

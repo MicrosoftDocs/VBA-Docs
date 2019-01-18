@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.OutlineParent Property (Project)](http://msdn.microsoft.com/library/54dc7d2a-feb0-da23-5116-decf0f4388e9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

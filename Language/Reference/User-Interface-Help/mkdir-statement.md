@@ -34,3 +34,5 @@ MkDir "MYDIR" ' Make new directory or folder.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

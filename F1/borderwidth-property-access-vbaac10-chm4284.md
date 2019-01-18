@@ -36,4 +36,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.BorderWidth property (Access)](http://msdn.microsoft.com/library/cbfd0285-9332-743c-a446-dfbff4dc7443%28Office.15%29.aspx)
 - [WebBrowserControl.BorderWidth property (Access)](http://msdn.microsoft.com/library/f2db066e-bd06-0d88-ecd1-5a7ac8a040d6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a [property](../../Glossary/vbe-glossary.md#property) with a value that isn't correct for this[control](../../Glossary/vbe-glossary.md#control). The property is set with its default value.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

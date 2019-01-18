@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.ResourceNames Property (Project)](http://msdn.microsoft.com/library/0c933d60-42bf-ece6-fa37-da5181a56944%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

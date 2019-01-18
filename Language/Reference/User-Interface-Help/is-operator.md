@@ -66,3 +66,5 @@ MyCheck = MyObject Is ThatObject    ' Returns False.
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

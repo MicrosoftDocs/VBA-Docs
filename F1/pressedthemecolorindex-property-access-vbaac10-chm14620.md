@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/12d76216-6a16-c487-02b3-721ed5e27b79%28Office.15%29.aspx)
 [NavigationButton.PressedThemeColorIndex property (Access)](http://msdn.microsoft.com/library/82db8953-4344-8d4e-8bd6-9c9cedba6657%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

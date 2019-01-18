@@ -49,3 +49,5 @@ If **MultiRow** is **False** and tabs are truncated, there will be a small scrol
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

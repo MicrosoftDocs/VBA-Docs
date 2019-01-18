@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [SlideShowTransition.Duration Property (PowerPoint)](http://msdn.microsoft.com/library/f8c47dda-9687-e437-8038-dae11c022914%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

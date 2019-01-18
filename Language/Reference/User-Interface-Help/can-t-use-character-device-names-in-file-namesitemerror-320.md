@@ -17,6 +17,5 @@ From within Visual Basic, you can't give a file the same name as a character dev
 
 
 - You tried to use a file name such as AUX, CON, COM1, COM2, LPT1, LPT2, LPT3, LPT4, or NUL. Give the file another name.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

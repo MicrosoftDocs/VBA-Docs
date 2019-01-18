@@ -27,3 +27,4 @@ You can split the [Code window](../reference/user-interface-help/code-window.md)
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

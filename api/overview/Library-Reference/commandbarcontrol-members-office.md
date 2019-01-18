@@ -54,3 +54,4 @@ Represents a command bar control. The **CommandBarControl** object is a member o
 |[Visible](../../Office.CommandBarControl.Visible.md)|Gets or sets the **Visible** property of the **CommandBarControl**. **True** if the **CommandBarControl** is visible. Read/write.|
 |[Width](../../Office.CommandBarControl.Width.md)|Gets or sets the width (in pixels) of the specified **CommandBarControl**. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

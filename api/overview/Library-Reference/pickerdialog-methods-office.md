@@ -21,3 +21,5 @@ localization_priority: Normal
 ## See also
 
 - [PickerDialog interface](https://docs.microsoft.com/dotnet/api/microsoft.office.core.pickerdialog?view=office-pia)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

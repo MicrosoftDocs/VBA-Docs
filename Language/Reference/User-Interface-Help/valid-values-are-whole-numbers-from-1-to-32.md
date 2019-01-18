@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You attempted to set the  **TabStop Width** beyond the permitted range. A number between 1 and 32 (inclusive) is acceptable for this field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,4 +51,4 @@ Private Sub objPane_ModuleSwitch(ByVal CurrentModule As NavigationModule)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

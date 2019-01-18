@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.TabIndex property (Access)](http://msdn.microsoft.com/library/2fc2511e-5a92-7039-cfec-2556b3384fb7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

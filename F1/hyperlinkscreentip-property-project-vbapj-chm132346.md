@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.HyperlinkScreenTip Property (Project)](http://msdn.microsoft.com/library/71178d98-60ce-63ed-8e67-57b3fdacdad9%28Office.15%29.aspx)
 [Project.LevelToDate Property (Project)](http://msdn.microsoft.com/library/b697db71-8f8e-9caf-345c-59899f4024a3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

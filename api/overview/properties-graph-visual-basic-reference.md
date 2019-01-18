@@ -11,4 +11,4 @@ localization_priority: Normal
 
 This section provides reference information about the properties in the Microsoft Graph object model.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

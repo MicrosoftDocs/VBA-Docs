@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [GroupCriterion2.Ascending Property (Project)](http://msdn.microsoft.com/library/925ca236-4327-de03-d208-093f71d2f135%28Office.15%29.aspx)
 [GroupCriterion.Ascending Property (Project)](http://msdn.microsoft.com/library/b2ee3635-29f1-d0b9-8b41-1c713697d3b4%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

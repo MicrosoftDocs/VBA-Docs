@@ -34,3 +34,5 @@ This method will not remove a row from the list if the **[ListBox](listbox-contr
 - [Microsoft Forms examples](examples-microsoft-forms.md)
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

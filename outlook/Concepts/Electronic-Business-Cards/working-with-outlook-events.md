@@ -43,4 +43,4 @@ Responding to application-level events is somewhat more involved because steps m
 
 Except for certain form events, your program cannot assume that events will occur in a particular order, even if they appear to be called in a consistent sequence. The order in which Outlook calls event handlers might change depending on other events that might occur, or the order might change in future versions of Outlook.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

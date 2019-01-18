@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.NoEventsPending Event (Visio)](http://msdn.microsoft.com/library/8cb93f89-4541-53f8-a95c-abf5b349f67d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

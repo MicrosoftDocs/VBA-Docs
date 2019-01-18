@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectAfterSave Event (Project)](http://msdn.microsoft.com/library/e0dbe6de-0b5e-1b4a-2b30-8c228249b491%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

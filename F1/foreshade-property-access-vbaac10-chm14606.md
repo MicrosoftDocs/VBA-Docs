@@ -25,3 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [TextBox.ForeShade property (Access)](http://msdn.microsoft.com/library/b8437ede-edd1-7d86-1c2f-78d4ed1c3d0e%28Office.15%29.aspx)
 [ToggleButton.ForeShade property (Access)](http://msdn.microsoft.com/library/266e2047-8d29-69e7-bda9-c3d152cf78ba%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

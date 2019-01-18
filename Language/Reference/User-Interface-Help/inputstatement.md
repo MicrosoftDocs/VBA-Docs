@@ -77,3 +77,5 @@ Close #1    ' Close file.
 - [Input function](input-function.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

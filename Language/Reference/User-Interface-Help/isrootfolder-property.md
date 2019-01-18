@@ -48,3 +48,5 @@ End Sub
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

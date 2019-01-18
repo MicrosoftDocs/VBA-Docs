@@ -62,3 +62,5 @@ Debug.Print Tab(10); "10 columns from start."
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

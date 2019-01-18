@@ -52,4 +52,4 @@ varResult = DLookup("[EmployeeID]", "Employees", "[LastName] = '" _
  & strLastName & "'")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

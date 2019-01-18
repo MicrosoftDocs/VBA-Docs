@@ -19,6 +19,5 @@ The [property](../../Glossary/vbe-glossary.md#property) is read-only at [run tim
 - You tried to set or change a property whose value can only be set at [design time](../../Glossary/vbe-glossary.md#design-time).
     
     Remove the reference to the property from your code or change the reference to only return the value of the property at run time.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

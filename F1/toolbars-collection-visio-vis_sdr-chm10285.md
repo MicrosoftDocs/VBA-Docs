@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Toolbars Object (Visio)](http://msdn.microsoft.com/library/722c5101-e5b3-452d-e484-e2e2fa4209eb.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

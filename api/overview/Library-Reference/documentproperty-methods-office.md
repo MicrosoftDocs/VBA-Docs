@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.DocumentProperty.Delete.md)|Removes a custom document property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

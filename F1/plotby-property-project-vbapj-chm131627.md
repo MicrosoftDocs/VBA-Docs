@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.HasLegend Property (Project)](http://msdn.microsoft.com/library/3e4ba5bd-eb29-bb28-7403-87222b47ae40%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

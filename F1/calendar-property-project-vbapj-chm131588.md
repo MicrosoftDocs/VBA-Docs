@@ -26,3 +26,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WeekDay.Calendar Property (Project)](http://msdn.microsoft.com/library/2b61e964-9fba-c849-c5aa-dc25d535536a%28Office.15%29.aspx)
 - [WorkWeekDay.Calendar Property (Project)](http://msdn.microsoft.com/library/969e8ecd-f7cd-c87d-6d43-1b893841c5dc%28Office.15%29.aspx)
 - [Year.Calendar Property (Project)](http://msdn.microsoft.com/library/e96dbd75-3ca8-fe45-5e52-3f6f2bfaab0d%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

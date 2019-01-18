@@ -23,5 +23,5 @@ For more information, see the following topics:
 -  [Set Global Variables for a Form](set-global-variables-for-a-form.md)
     
 -  [Use the PropertyChange Event to Test Procedures](use-the-propertychange-event-to-test-procedures.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

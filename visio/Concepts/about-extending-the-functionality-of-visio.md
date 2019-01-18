@@ -43,4 +43,4 @@ Beginning with Visio 2002, you can use COM add-ins in the same standardized way 
 
 For more information about building COM add-ins, see MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

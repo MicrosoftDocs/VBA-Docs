@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ValidationIssues Object (Visio)](http://msdn.microsoft.com/library/13362aa2-7e09-14ed-8aa9-bf2a93edf302%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.DataModelConnection property (Excel)](http://msdn.microsoft.com/library/07143535-fb4f-6c66-a31c-c0613ce4c3cd%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

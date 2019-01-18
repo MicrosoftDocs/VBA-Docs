@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Specifying Rule Conditions](../../How-to/Rules/specifying-rule-conditions.md)
     
 -  [Create a Rule to Move Specific Emails to a Folder](../../How-to/Rules/create-a-rule-to-move-specific-e-mails-to-a-folder.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

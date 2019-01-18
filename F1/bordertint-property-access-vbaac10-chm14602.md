@@ -35,3 +35,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BorderTint property (Access)](http://msdn.microsoft.com/library/3e48aa7c-ed95-aa27-f092-70d5fb2f9fb1%28Office.15%29.aspx)
 - [ToggleButton.BorderTint property (Access)](http://msdn.microsoft.com/library/5d60c105-a765-5865-66b5-b236de827960%28Office.15%29.aspx)
 - [WebBrowserControl.BorderTint property (Access)](http://msdn.microsoft.com/library/feb247ea-127b-26fa-aae6-03590276c5c1%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

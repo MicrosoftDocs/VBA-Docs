@@ -20,5 +20,5 @@ localization_priority: Normal
 5. Create the control that you want to align. 
     
 6. Place the control to the right of the  **Label** control.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,3 +65,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Form.Undo event (Access)](http://msdn.microsoft.com/library/fdcf98c1-c560-1c29-586d-6c4eb4a6ccd0%28Office.15%29.aspx)
 - [Form.Unload event (Access)](http://msdn.microsoft.com/library/13f1f7f4-9d69-128f-7e02-f3d3b99ec0f4%28Office.15%29.aspx)
 - [Form.ViewChange event (Access)](http://msdn.microsoft.com/library/a3788eca-783f-cb5d-1a7b-1c4a23648629%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

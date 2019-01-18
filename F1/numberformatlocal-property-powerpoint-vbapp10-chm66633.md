@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DataLabels.NumberFormatLocal Property (PowerPoint)](http://msdn.microsoft.com/library/76da6803-23d6-5e1f-6073-882090542fb9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

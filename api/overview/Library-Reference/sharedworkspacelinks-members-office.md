@@ -31,3 +31,4 @@ A collection of the **[SharedWorkspaceLink](../../Office.SharedWorkspaceLink.md)
 |[ItemCountExceeded](../../Office.SharedWorkspaceLinks.ItemCountExceeded.md)|Gets a **Boolean** value that indicates whether the number of **SharedWorkspaceLinks** items in the collection has exceeded the 99 that can be displayed in the Shared Workspace task pane. Read-only.|
 |[Parent](../../Office.SharedWorkspaceLinks.Parent.md)|Gets the **Parent** object for the **SharedWorkspaceLinks** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

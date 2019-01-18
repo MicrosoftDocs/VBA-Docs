@@ -38,4 +38,4 @@ A version of Visio that supports the Visio Drawing Control must be installed on 
 
 To obtain support for issues that you encounter while integrating the Visio Drawing Control into your application, contact Microsoft Product Support Services. For contact information, see the documentation that comes with the Visio product.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

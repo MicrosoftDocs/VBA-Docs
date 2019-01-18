@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ThemeVariant.Width Property (PowerPoint)](http://msdn.microsoft.com/library/1c92798d-fa0f-3874-3a30-c42fe47c1b48%28Office.15%29.aspx)
 [ThemeVariant.Height Property (PowerPoint)](http://msdn.microsoft.com/library/05d084e8-d804-77f9-1826-e70654a3f86b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

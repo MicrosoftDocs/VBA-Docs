@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The required .exe or .dll file can't be found.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

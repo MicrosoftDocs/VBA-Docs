@@ -36,4 +36,4 @@ Private Sub Form_BeforeUpdate(Cancel As Integer)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

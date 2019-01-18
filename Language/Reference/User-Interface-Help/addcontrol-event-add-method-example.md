@@ -39,4 +39,4 @@ Private Sub UserForm_AddControl(ByVal Control As _
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

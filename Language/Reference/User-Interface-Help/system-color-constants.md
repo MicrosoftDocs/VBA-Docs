@@ -47,3 +47,5 @@ The following [constants](../../Glossary/vbe-glossary.md#constant) can be used a
 ## See also
 
 - [Constants (Visual Basic for Applications)](../constants-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Objects Property (Project)](http://msdn.microsoft.com/library/8ed27167-e1c6-c52c-dc62-2d962457af48%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

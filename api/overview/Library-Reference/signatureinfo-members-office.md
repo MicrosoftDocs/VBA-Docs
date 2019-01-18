@@ -41,3 +41,4 @@ Represents the information used to create a digital or in-document signature.
 |[SignatureProvider](../../Office.SignatureInfo.SignatureProvider.md)|Gets a value identifying an installed signature provider add-in. Read-only.|
 |[SignatureText](../../Office.SignatureInfo.SignatureText.md)|Gets or sets the value of the signature text used to sign this document. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

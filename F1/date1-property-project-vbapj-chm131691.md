@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Created Property (Project)](http://msdn.microsoft.com/library/3c7d89a9-619a-2075-5abd-6589381e5c9f%28Office.15%29.aspx)
 - [Assignment.Created Property (Project)](http://msdn.microsoft.com/library/6ad7a628-8841-716f-0de9-a6f13aa61e85%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

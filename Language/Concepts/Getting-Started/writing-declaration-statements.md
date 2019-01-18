@@ -37,3 +37,5 @@ The **Dim** statement declares the `myCell` variable. The data type is an object
 - [Declaring constants](declaring-constants.md)
 - [Declaring variables](declaring-variables.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

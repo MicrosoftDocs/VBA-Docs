@@ -13,5 +13,5 @@ localization_priority: Normal
     
      **Note**  Option buttons in a  **[Page](../../../api/Outlook.page.md)**,  **[MultiPage](../../../api/Outlook.multipage.md)**, or  **[Frame](../../../api/Outlook.frame.md)** automatically form an option group.
 2. For each button in the group, right-click the control, and in the  **Properties** box, set the **GroupName** property to the same value.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

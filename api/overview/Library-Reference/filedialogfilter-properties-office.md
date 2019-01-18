@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Extensions](../../Office.FileDialogFilter.Extensions.md)|Gets a value containing the extensions that determine which files are displayed in a file dialog box for each  **Filter** object. Read-only.|
 |[Parent](../../Office.FileDialogFilter.Parent.md)|Gets the  **Parent** object for the **FileDialogFilter** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

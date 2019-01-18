@@ -34,5 +34,5 @@ Just as you can add ActiveX controls to custom dialog boxes, you can add control
 5. Use control values while code is running
     
     Some properties can be set at run time.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

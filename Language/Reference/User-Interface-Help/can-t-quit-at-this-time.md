@@ -14,4 +14,4 @@ localization_priority: Priority
 
 You can't quit Windows while Visual Basic is in run mode or [break mode](../../Glossary/vbe-glossary.md#break-mode). You also can't quit Windows while a dialog box or message box is displayed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

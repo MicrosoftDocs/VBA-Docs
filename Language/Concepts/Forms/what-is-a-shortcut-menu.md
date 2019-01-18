@@ -38,3 +38,5 @@ To display the shortcut menu for a control or container, right-click the object.
 - [Display the shortcut menu for a TabStrip or Tab](display-the-shortcut-menu-for-a-tabstrip-or-tab.md)
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

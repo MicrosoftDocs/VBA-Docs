@@ -27,3 +27,4 @@ Represents items listed on the **New**_Item_ task pane available in several Micr
 |[Application](../../Office.NewFile.Application.md)|Gets an **Application** object that represents the container application for the **NewFile** object (you can use this property with an **Automation** object to return that object's container application). Read-only.|
 |[Creator](../../Office.NewFile.Creator.md)|Gets a 32-bit integer that indicates the application in which the **NewFile** object was created. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriteria.Add Method (Project)](http://msdn.microsoft.com/library/6356acb9-0dbf-6e5e-e353-9673c3ed8097%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

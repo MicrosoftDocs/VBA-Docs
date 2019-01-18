@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.ChartGroups property (Word)](http://msdn.microsoft.com/library/ae4da68e-1e80-f683-b1ef-eb26aa753420%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

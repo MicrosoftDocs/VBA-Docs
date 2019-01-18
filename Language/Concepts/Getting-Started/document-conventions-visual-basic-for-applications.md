@@ -59,3 +59,5 @@ Shift As Integer, X As Single, Y As Single)
 
 - [Visual Basic naming rules](visual-basic-naming-rules.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

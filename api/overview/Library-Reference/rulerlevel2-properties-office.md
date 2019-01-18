@@ -21,3 +21,4 @@ localization_priority: Normal
 |[LeftMargin](../../Office.RulerLevel2.LeftMargin.md)|Gets or sets the left indent for the specified outline level, in points. Read/write.|
 |[Parent](../../Office.RulerLevel2.Parent.md)|Gets the  **Parent** object for the **RulerLevel2** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

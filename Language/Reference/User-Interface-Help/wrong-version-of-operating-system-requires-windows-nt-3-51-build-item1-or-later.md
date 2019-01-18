@@ -14,4 +14,4 @@ localization_priority: Normal
 
 To run this version of Visual Basic, you must be running the specified build of Windows 95 or Windows NT version 3.51.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.OnEnter property (Access)](http://msdn.microsoft.com/library/d8f7aa7f-5222-ec0e-7be9-4022f5e697af%28Office.15%29.aspx)
 - [ToggleButton.OnEnter property (Access)](http://msdn.microsoft.com/library/06605089-613c-114b-4775-587a0357e875%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

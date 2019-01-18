@@ -21,3 +21,4 @@ localization_priority: Normal
 |[Item](../../Office.DocumentProperties.Item.md)|Gets a  **DocumentProperty** object from the **DocumentProperties** collection. Read-only.|
 |[Parent](../../Office.DocumentProperties.Parent.md)|Gets the  **Parent** object for the **DocumentProperties** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

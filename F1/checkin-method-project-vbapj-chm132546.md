@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.RemainingWork Property (Project)](http://msdn.microsoft.com/library/fe1e6503-4b6e-7b92-b907-7e12c02a4389%28Office.15%29.aspx)
 - [Assignment.RemainingWork Property (Project)](http://msdn.microsoft.com/library/94ff4bd9-502c-69f0-a2c2-ac457e677558%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

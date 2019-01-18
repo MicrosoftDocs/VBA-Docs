@@ -254,3 +254,5 @@ The following list contains topics that describe common functions used in Access
 - [StrReverse function](../../../language/reference/User-Interface-Help/strreverse-function.md)
 - [Trim function](../../../language/reference/User-Interface-Help/ltrim-rtrim-and-trim-functions.md)
 - [UCase function](../../../language/reference/User-Interface-Help/ucase-function.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

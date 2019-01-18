@@ -47,6 +47,4 @@ There are a few things to consider when you select the standard Outlook form for
 > - To make the custom form available so that you or other users can create new items in a folder, you must publish the form to the folder. If you want the form to be available to other users, publish the form to a public folder so that it is available to users who have permissions to that folder. If you want the form to be available only to you, publish it in a personal folder.
 > - Form regions cannot be published to the server; you must deploy them by using an add-in. For more information, see [Extending a Form Region with an Add-in](../Specifying-Form-Behavior/extending-a-form-region-with-an-add-in.md ).
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

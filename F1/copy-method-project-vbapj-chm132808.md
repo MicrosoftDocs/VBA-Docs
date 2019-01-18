@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Views.Copy Method (Project)](http://msdn.microsoft.com/library/5e82641a-f5c6-41a6-23bf-61220a4fc30c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

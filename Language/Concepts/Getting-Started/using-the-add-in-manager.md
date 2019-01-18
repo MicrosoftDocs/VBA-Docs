@@ -17,3 +17,5 @@ The add-in object itself will always stay resident in memory until the add-in is
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

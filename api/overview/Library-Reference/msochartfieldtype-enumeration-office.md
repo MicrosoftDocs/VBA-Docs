@@ -33,3 +33,4 @@ Specifies the type of data field to be inserted into a data label in a chart.
 |**msoChartFieldValue**|**5**||
 |Name|Value|Description|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

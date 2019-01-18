@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [CommandBarPopup.Index Property (Office)](http://msdn.microsoft.com/library/6f6f6d1f-a59a-cf52-d273-a732652b4f05%28Office.15%29.aspx)
 [CommandBarButton.Index Property (Office)](http://msdn.microsoft.com/library/2924d346-735b-cdb3-6237-f840f017cf3e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

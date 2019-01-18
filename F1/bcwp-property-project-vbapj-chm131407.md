@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.BCWP Property (Project)](http://msdn.microsoft.com/library/b21fdd25-7e81-8e26-963f-dd4a8035bb75%28Office.15%29.aspx)
 - [Application.AutoClearLeveling Property (Project)](http://msdn.microsoft.com/library/799384b3-8d85-b07c-14e3-3d25d7ec3d33%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.BeforeSave Event (Project)](http://msdn.microsoft.com/library/6947661e-f77c-b766-b926-fd37818019b7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

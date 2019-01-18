@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Shapes.AddPicture2 Method (PowerPoint)](http://msdn.microsoft.com/library/2956fa14-40bb-458a-aef1-caceab15e067%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

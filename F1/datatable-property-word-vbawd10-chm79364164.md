@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.SeriesCollection method (Word)](http://msdn.microsoft.com/library/b9688aef-839a-b45b-1596-d8f02225aa05%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

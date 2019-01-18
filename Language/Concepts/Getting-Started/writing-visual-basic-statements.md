@@ -52,3 +52,5 @@ If you press ENTER after typing a line of code and the line is displayed in red 
 - [Statements](../../reference/statements.md)
 - [Document conventions](document-conventions-visual-basic-for-applications.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

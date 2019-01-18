@@ -16,3 +16,5 @@ localization_priority: Priority
 ## See also
 
 - [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

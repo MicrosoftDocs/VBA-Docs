@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.TimeScaleData Method (Project)](http://msdn.microsoft.com/library/58526bce-9ee0-8dce-98ee-a8b8e07175eb%28Office.15%29.aspx)
 [Resource.TimeScaleData Method (Project)](http://msdn.microsoft.com/library/51649bc3-8224-15cd-dc9b-af37a1cc4d8b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

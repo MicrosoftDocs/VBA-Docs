@@ -107,3 +107,4 @@ To create the Word objects listed in the following table, use one of the corresp
 |**Document**|Word.Document, Word.Template|
 |**Global**|Word.Global|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

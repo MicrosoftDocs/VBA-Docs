@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Project.Activate Method (Project)](http://msdn.microsoft.com/library/965ad204-9f56-591f-91a1-7c42ded480cf%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OutlineCodes Object (Project)](http://msdn.microsoft.com/library/a2e6d0c7-0741-91c6-61aa-f4bcc299e66f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

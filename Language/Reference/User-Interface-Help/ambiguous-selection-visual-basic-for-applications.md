@@ -22,3 +22,4 @@ Either you have not selected a keyword or you have requested Help on a component
 [Object Browser](object-browser.md)
 [Watch Window or Pane](watch-window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.AfterUpdate property (Access)](http://msdn.microsoft.com/library/690bc0cd-9717-7712-c022-75ba457ca0e3%28Office.15%29.aspx)
 - [ToggleButton.AfterUpdate property (Access)](http://msdn.microsoft.com/library/58e20c71-189c-d2df-54a0-42b8fad6ec07%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

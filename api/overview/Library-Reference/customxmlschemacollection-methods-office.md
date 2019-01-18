@@ -19,3 +19,4 @@ localization_priority: Normal
 |[AddCollection](../../Office.CustomXMLSchemaCollection.AddCollection.md)|Adds an existing schema collection to the current schema collection. |
 |[Validate](../../Office.CustomXMLSchemaCollection.Validate.md)|Specifies whether the schemas in a schema collection are valid (conforms to the syntactic rules of XML and the rules for a specified vocabulary; a standard for structuring XML).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

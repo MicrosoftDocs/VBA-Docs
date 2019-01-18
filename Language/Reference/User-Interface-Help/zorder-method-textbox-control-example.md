@@ -75,4 +75,4 @@ ToggleButton1.Height = 50
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

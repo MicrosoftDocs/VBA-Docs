@@ -41,5 +41,4 @@ Describes useful common procedures (for example, how to use the **Object Browser
 - [Use the Project Explorer](use-the-project-explorer.md)
 - [Use the Properties window](use-the-properties-window.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

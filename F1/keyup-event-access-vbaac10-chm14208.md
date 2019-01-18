@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.KeyUp event (Access)](http://msdn.microsoft.com/library/2219075d-92e5-a472-c16a-8a99dfd991c2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

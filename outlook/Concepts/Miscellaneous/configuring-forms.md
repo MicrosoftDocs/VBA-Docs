@@ -29,5 +29,5 @@ localization_priority: Normal
 -  [Automatically Insert Prefix Text into the Subject Field of a Reply Form](../Configuring-Forms/automatically-insert-prefix-text-into-the-subject-field-of-a-reply-form.md)
     
 -  [Pre-address a Reply Form to a Public Folder or an Email Address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

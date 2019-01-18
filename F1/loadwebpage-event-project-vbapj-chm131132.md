@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.LoadWebPane Event (Project)](http://msdn.microsoft.com/library/b9fefabb-3d0b-9aa7-6d3b-b8fd8000571d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

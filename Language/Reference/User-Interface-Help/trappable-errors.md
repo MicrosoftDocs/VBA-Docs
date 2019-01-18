@@ -138,3 +138,4 @@ Trappable errors can occur while an application is running. Some trappable error
 |31036|[Error saving to file](error-saving-to-file-error-31036.md)|
 |31037|[Error loading from file](error-loading-from-file-error-31037.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

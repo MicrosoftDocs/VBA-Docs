@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Table.RowHeight Property (Project)](http://msdn.microsoft.com/library/923379b4-5c36-cd84-43a0-48f334758855%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/bb49f001-83a9-f1b8-c095-33b8b3f820b3%28Office.15%29.aspx)
 - [ToggleButton.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/f707fdde-cba6-2d09-b251-358de25db75e%28Office.15%29.aspx)
 - [WebBrowserControl.GridlineWidthTop property (Access)](http://msdn.microsoft.com/library/561bca13-3f9b-950c-ef74-71d267cb47d1%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

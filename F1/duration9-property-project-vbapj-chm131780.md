@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Application.EnterpriseAllowLocalBaseCalendars Property (Project)](http://msdn.microsoft.com/library/91c15501-a321-47fb-7c9a-ebe894ead50a%28Office.15%29.aspx)
 - [Resource.Duration9 Property (Project)](http://msdn.microsoft.com/library/05833578-6f5d-0a20-3d4f-f83b0fe5d198%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

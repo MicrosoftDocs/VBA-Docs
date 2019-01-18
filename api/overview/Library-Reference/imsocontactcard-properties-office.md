@@ -22,3 +22,4 @@ localization_priority: Normal
 |[Creator](../../Office.IMsoContactCard.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **IMsoContactCard** object was created. Read-only|
 |[Parent](../../Office.IMsoContactCard.Parent.md)|Returns the calling object. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

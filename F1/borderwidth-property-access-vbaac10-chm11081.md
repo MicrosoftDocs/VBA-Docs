@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.BorderWidth property (Access)](http://msdn.microsoft.com/library/e842887f-9ec1-4405-0558-6b3b3d3d221c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.DisplayWhen property (Access)](http://msdn.microsoft.com/library/881f7a17-be3d-436f-1511-d6af5a7f4c6e%28Office.15%29.aspx)
 - [WebBrowserControl.DisplayWhen property (Access)](http://msdn.microsoft.com/library/c03fdd8a-854a-8738-e904-7f857b94e52b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

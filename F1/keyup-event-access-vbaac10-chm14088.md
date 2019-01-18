@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.KeyUp event (Access)](http://msdn.microsoft.com/library/65461552-5178-0b71-e82d-a48e98f2cbef%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

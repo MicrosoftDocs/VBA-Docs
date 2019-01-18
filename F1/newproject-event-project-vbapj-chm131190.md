@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ActivateMicrosoftApp Method (Project)](http://msdn.microsoft.com/library/a9b59db3-7ad2-8674-9026-090e161ef983%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

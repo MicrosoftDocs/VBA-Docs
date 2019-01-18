@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ViewCombination.ShowInMenu Property (Project)](http://msdn.microsoft.com/library/62152a6e-3667-191e-a07f-ca93cfd1b492%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.IsUndoingOrRedoing Method (Project)](http://msdn.microsoft.com/library/e0e5ddc7-aa22-0d43-1de6-83a260d57608%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

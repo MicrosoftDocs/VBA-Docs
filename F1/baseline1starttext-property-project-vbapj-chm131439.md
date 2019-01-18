@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Baseline1Duration Property (Project)](http://msdn.microsoft.com/library/10c07591-6f3e-204d-2df6-6e16f3d300ee%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

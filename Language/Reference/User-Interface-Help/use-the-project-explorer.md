@@ -26,3 +26,5 @@ The **[Project Explorer](project-explorer.md)** displays a hierarchical list of 
 ## See also
 
 - [Visual Basic how-to topics](visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

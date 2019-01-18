@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a form with a name that is already being used in the application. The form isn't loaded.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

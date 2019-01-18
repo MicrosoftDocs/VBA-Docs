@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Flag3 Property (Project)](http://msdn.microsoft.com/library/94da8958-027a-8ea3-88fd-03d901297bc8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

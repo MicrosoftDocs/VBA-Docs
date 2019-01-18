@@ -36,4 +36,4 @@ End Sub
 
  **Note**  The index order can change if you move, add, or delete sheets.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

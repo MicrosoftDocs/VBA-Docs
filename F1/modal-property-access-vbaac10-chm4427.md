@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.Modal property (Access)](http://msdn.microsoft.com/library/654ff830-c8d9-5bd9-1ec6-61ee6546b4db%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

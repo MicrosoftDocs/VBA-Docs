@@ -36,3 +36,5 @@ MySqr = Sqr(-4)    ' Generates a run-time error.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

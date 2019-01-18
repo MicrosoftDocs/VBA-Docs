@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.Requery method (Access)](http://msdn.microsoft.com/library/613e89e1-5e02-d2da-4881-c77f3d8cb55e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

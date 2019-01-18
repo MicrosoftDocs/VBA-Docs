@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.OnKeyDown property (Access)](http://msdn.microsoft.com/library/8300e663-ec50-a08f-7ee5-f8b5cf7e5db0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

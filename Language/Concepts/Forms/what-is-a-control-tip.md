@@ -20,3 +20,5 @@ If you assign a control tip to a **[MultiPage](../../reference/user-interface-he
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ValidationRules.Document Property (Visio)](http://msdn.microsoft.com/library/cb75bba6-ff75-91fb-0993-7692b9d65f0d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

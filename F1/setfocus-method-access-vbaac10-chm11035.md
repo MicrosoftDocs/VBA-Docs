@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.SetFocus method (Access)](http://msdn.microsoft.com/library/dc5edcd0-09af-2fdb-0b94-49af0bfa705b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The specified key value is invalid. Please change it.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

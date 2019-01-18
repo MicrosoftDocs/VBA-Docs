@@ -25,4 +25,4 @@ If you can see the  **Developer** tab, you are running in developer mode. Otherw
 
 You should now be able to see the  **Developer** tab in the Office Fluent ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

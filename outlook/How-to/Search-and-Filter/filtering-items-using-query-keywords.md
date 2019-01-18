@@ -53,7 +53,4 @@ The following DASL query retrieves all contacts where the custom property **Orde
 & Chr(34) _ & " = 'Microsoft')"
 ```
 
-
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ToggleButton.PressedForeShade property (Access)](http://msdn.microsoft.com/library/9a6ddbd0-154d-6018-e8fd-8fa9bd916356%28Office.15%29.aspx)
 [TabControl.PressedForeShade property (Access)](http://msdn.microsoft.com/library/ff4421d8-58aa-93a8-ab57-af686f1c44da%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

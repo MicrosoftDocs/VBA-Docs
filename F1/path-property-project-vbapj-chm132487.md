@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Project.ProjectSummaryTask Property (Project)](http://msdn.microsoft.com/library/88603abc-e988-9ab3-dc83-c44221da13b9%28Office.15%29.aspx)
 [Project.Path Property (Project)](http://msdn.microsoft.com/library/6318f0ea-c6c9-4951-e53d-e0076f055bab%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

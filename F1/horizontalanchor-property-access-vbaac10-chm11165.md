@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/85dc54b2-7a20-4667-ade9-47202f77d524%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

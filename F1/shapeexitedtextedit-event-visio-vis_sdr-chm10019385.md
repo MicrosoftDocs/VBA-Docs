@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.ShapeExitedTextEdit Event (Visio)](http://msdn.microsoft.com/library/54e52c06-b7ab-f6c3-9c0d-6ee05da0e1f3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

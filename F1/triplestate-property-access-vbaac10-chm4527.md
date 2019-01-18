@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [OptionButton.TripleState property (Access)](http://msdn.microsoft.com/library/f2764290-00be-38f7-f078-fc0059340455%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

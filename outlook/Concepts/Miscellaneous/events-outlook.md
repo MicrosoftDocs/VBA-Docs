@@ -15,5 +15,5 @@ localization_priority: Normal
 -  [Working with Outlook Events](../Electronic-Business-Cards/working-with-outlook-events.md)
     
 -  [Using Events with Automation](../Electronic-Business-Cards/using-events-with-automation.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

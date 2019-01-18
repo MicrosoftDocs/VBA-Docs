@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LookupTableEntry.Index Property (Project)](http://msdn.microsoft.com/library/24c1ea75-522b-a010-3043-ed2ccf3547ec%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

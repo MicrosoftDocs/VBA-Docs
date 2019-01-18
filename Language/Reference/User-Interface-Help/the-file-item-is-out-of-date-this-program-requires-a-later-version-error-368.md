@@ -19,6 +19,5 @@ An [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) was found t
 - The number of [properties](../../Glossary/vbe-glossary.md#property) in the current version of the ActiveX control don't match the expected number of properties.
     
     Replace the ActiveX control with a later version.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

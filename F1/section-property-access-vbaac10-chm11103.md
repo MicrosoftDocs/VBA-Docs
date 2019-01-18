@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [RestoreWindow Macro Action](http://msdn.microsoft.com/library/507a6452-2be0-a523-1201-0108d2b9d23c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

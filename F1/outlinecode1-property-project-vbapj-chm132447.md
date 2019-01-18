@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Resource.OutlineCode1 Property (Project)](http://msdn.microsoft.com/library/7ae60245-8135-45cc-a609-fb2df1dfdd11%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ For more information and examples of different ways to customize the Outlook UI,
  [Implementing the IRibbonExtensibility Interface](implementing-the-iribbonextensibility-interface.md)<br>
  [Overview of Customizing the Ribbon](overview-of-customizing-the-ribbon.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

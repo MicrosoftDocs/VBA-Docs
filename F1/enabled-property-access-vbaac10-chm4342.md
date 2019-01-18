@@ -34,3 +34,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.Enabled property (Access)](http://msdn.microsoft.com/library/a13297e5-091c-7e83-78cd-fa67f5b81153%28Office.15%29.aspx)
 - [ToggleButton.Enabled property (Access)](http://msdn.microsoft.com/library/836c6553-07ae-0014-6a0a-ab1fa33cf550%28Office.15%29.aspx)
 - [WebBrowserControl.Enabled property (Access)](http://msdn.microsoft.com/library/6da2553d-0ad9-4741-c89f-fc19dfacb5a2%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

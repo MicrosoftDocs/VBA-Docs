@@ -18,4 +18,4 @@ A  **Variant** is a special kind of data type that can contain different kinds o
 
 At its simplest, a  **Variant** can contain either numeric or string information. A **Variant** behaves as a number when you use it in a numeric context and as a string when you use it in a string context. That is, if you are working with data that looks like numbers, VBScript assumes that it is numbers and does the thing that is most appropriate for numbers. Similarly, if you are working with data that can only be string data, VBScript treats it as string data. Of course, you can always make numbers behave as strings by enclosing them in quotation marks (" ").
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

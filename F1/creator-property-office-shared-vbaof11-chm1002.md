@@ -129,3 +129,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [WorkflowTemplate.Creator Property (Office)](http://msdn.microsoft.com/library/17d49292-fcfe-c9ea-35dc-c1e5cd0a1cc4%28Office.15%29.aspx)
 - [WorkflowTemplates.Creator Property (Office)](http://msdn.microsoft.com/library/5ed62a23-0edc-246f-21e3-79cad819e891%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

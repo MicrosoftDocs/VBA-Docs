@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An embedded object could not be created while loading a form, User Control, User Document, or Property Page from a text file. For example, you would get this error if you previously inserted a Microsoft Word document onto the form, and then removed Microsoft Word from your system. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

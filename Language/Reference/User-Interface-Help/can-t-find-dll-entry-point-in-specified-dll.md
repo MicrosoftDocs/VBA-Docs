@@ -23,3 +23,4 @@ An entry point is the name of a DLL (Windows) or code resource (Macintosh) proce
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

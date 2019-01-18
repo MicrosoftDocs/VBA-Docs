@@ -31,3 +31,4 @@ The  **[Documents](../../../api/Word.Application.Documents.md)** property return
 
 For more information, see  [Revising recorded Visual Basic macros](revising-recorded-visual-basic-macros.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

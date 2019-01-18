@@ -40,6 +40,4 @@ You can click a toolbar button once to carry out the action represented by that 
 - [Debug menu](debug-menu.md)
 - [Toolbars](../toolbars.md)
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

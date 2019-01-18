@@ -28,3 +28,4 @@ A collection of **PickerResult** objects.
 |[Creator](../../Office.PickerResults.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerResults** object was created. Read-only|
 |[Item](../../Office.PickerResults.Item.md)|Retrieves a **PickerResult** object at the specified index. Read-only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

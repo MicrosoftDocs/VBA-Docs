@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.Toolbar property (Access)](http://msdn.microsoft.com/library/a004200c-5404-c3ba-f00d-591c0f0a545d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

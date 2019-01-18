@@ -73,5 +73,4 @@ The following table shows the properties that are returned as default columns in
 |7| **PercentComplete**|
 |8| **IsRecurring**|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

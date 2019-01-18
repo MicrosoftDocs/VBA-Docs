@@ -24,3 +24,5 @@ You can restart execution from [break mode](../Glossary/vbe-glossary.md#break-mo
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

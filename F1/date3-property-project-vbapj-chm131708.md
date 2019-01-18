@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Task.Date3 Property (Project)](http://msdn.microsoft.com/library/083bcf61-dfb1-a5f3-06f9-45c5585b03b4%28Office.15%29.aspx)
 - [Assignment.Date3 Property (Project)](http://msdn.microsoft.com/library/7ddf378a-2ea4-0c66-4266-4ca77d86e18f%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

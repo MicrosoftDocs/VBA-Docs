@@ -86,3 +86,4 @@ For more information, including examples, about customizing explorer and inspect
  [Detecting Errors](detecting-errors.md)<br>
  [Overview of the IRibbonControl Object](overview-of-the-iribboncontrol-object.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

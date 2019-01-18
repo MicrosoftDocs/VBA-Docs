@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Report.PaletteSource property (Access)](http://msdn.microsoft.com/library/9dc324a1-dc31-b0c5-edca-c4bc1674155a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

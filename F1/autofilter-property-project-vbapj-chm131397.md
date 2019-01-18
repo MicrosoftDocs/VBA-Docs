@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Cell.Assignment Property (Project)](http://msdn.microsoft.com/library/ac17eff9-d697-dbfa-7968-d61a474690ba%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

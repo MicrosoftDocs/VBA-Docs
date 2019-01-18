@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Resource.Start10 Property (Project)](http://msdn.microsoft.com/library/72e9a525-9e00-e671-1eba-b6a334269075%28Office.15%29.aspx)
 - [Assignment.Start10 Property (Project)](http://msdn.microsoft.com/library/ef9bc83e-30b4-f46e-d6b4-e908a7e773c9%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

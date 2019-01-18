@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.Hyperlink Property (Project)](http://msdn.microsoft.com/library/72138942-5e4b-3fe5-abd1-f907b2ee315d%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,5 +12,5 @@ localization_priority: Normal
 1. In the Forms Designer, right-click the control that you want to modify, then click  **Properties**. 
     
 2. In the  **Properties** dialog box, on the **Display** page, select or clear the **Visible** check box.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

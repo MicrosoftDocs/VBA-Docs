@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Text19 Property (Project)](http://msdn.microsoft.com/library/d49e1b01-d118-138d-08af-9b9f15d03973%28Office.15%29.aspx)
 [Resource.Text19 Property (Project)](http://msdn.microsoft.com/library/353160a4-413c-7123-a4a2-fc98a083364c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

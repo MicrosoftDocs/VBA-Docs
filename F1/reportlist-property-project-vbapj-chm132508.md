@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Profile.Delete Method (Project)](http://msdn.microsoft.com/library/61c3e2a8-2efd-36d7-2619-acbb7a055162%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

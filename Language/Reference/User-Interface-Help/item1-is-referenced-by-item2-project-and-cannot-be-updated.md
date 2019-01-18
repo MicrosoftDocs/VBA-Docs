@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The specified control is referenced by more than one [project](../../Glossary/vbe-glossary.md#project). Updating it for one project might invalidate it for another.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

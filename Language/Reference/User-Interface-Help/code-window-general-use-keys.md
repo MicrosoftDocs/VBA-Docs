@@ -36,3 +36,4 @@ Use these key combinations in the [Code window](code-window.md).
 |CTRL+SHIFT+I|Turn on **Parameter Info**.|
 |CTRL+SPACEBAR|Turn on **Complete Word**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

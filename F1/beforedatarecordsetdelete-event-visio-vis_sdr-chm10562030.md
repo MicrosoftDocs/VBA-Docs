@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.BeforeDataRecordsetDelete Event (Visio)](http://msdn.microsoft.com/library/70e30b15-6254-b12b-6f46-ce1f7ae07140%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

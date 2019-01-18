@@ -33,3 +33,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.TabIndex property (Access)](http://msdn.microsoft.com/library/1712e879-20da-8797-e94d-ee68b0d23c59%28Office.15%29.aspx)
 - [WebBrowserControl.TabIndex property (Access)](http://msdn.microsoft.com/library/87661ef2-ce0d-2525-2759-c115e3ac2ab5%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

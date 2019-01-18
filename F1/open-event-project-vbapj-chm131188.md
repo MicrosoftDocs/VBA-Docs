@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.Change Event (Project)](http://msdn.microsoft.com/library/ef109b59-c7be-0707-9716-13c86180c27c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

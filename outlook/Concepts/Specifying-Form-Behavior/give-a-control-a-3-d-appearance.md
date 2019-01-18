@@ -15,5 +15,5 @@ localization_priority: Normal
     
      **Note**  The  **SpecialEffect** property is not available for all controls.
 3. Click  **Apply**.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

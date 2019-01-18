@@ -30,3 +30,4 @@ Represents a schema in a **CustomXMLSchemaCollection** collection.
 |[NamespaceURI](../../Office.CustomXMLSchema.NamespaceURI.md)|Gets the unique address identifier for the namespace of the **CustomXMLSchema** object. Read-only.|
 |[Parent](../../Office.CustomXMLSchema.Parent.md)|Gets the **Parent** object for the **CustomXMLSchema** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

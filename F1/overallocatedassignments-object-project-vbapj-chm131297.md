@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LookupTable Object (Project)](http://msdn.microsoft.com/library/d1740b7a-ae86-19de-16ff-b4ffb8454bf1%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

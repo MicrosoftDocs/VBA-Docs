@@ -30,3 +30,4 @@ Microsoft Forms provides many ways to work with groups and the controls in a gro
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -168,3 +168,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [ThemeColorScheme Object (Office)](http://msdn.microsoft.com/library/aa4e888e-cdcd-4682-13e3-fcae1a9e4d46%28Office.15%29.aspx)
 [CustomXMLNodes.Application Property (Office)](http://msdn.microsoft.com/library/e336d63b-b484-b2dc-8308-ff66327d2376%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

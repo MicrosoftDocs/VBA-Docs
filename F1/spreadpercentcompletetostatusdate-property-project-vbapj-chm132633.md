@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Table.Delete Method (Project)](http://msdn.microsoft.com/library/9a85b66b-5124-529c-84b6-306789cb6986%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

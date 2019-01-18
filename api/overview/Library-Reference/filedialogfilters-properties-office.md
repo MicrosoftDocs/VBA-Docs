@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.FileDialogFilters.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **FileDialogFilters** object was created. Read-only.|
 |[Parent](../../Office.FileDialogFilters.Parent.md)|Gets the  **Parent** object for the **FileDialogFilters** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

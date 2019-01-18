@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.BottomPadding property (Access)](http://msdn.microsoft.com/library/75d2b8bb-c5c5-1d00-b175-8db80a7525c5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,5 @@ localization_priority: Priority
 
 - [Debug toolbar](debug-toolbar.md)
 - [Menus and commands](../menus-commands.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

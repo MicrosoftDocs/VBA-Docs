@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.Flag1 Property (Project)](http://msdn.microsoft.com/library/167a2a3b-7118-1f36-0fa8-9323f530c965%28Office.15%29.aspx)
 [Resource.Flag1 Property (Project)](http://msdn.microsoft.com/library/e860df53-52e6-ee2a-2554-c0c5181d837e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

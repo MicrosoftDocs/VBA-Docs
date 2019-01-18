@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ObjectFrame.RowSourceType property (Access)](http://msdn.microsoft.com/library/d450ce8b-c2e9-f51b-61af-b46a64ab7d32%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

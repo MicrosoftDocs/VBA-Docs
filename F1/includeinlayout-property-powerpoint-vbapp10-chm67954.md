@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Legend.IncludeInLayout Property (PowerPoint)](http://msdn.microsoft.com/library/2e14a6e0-923b-d383-2e40-dfa17f95df92%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

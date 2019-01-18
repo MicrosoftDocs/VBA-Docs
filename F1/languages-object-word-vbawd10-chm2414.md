@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Languages object (Word)37d38404-c5c8-86b0-2877-fc4d565f2337](http://msdn.microsoft.com/library/37d38404-c5c8-86b0-2877-fc4d565f2337%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

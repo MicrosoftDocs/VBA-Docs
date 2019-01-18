@@ -35,10 +35,4 @@ Search results are returned in a **Table** that includes the same set of items r
 
 Because the item's Entry ID is one of the returned properties, you can also use **[GetItemFromID](../../../api/Outlook.NameSpace.GetItemFromID.md)** to obtain the item object, and access other item properties like **Body** and **AutoResolvedWinner** that are not supported by the **Table** object for performance reasons.|
 
-
-
-
-
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

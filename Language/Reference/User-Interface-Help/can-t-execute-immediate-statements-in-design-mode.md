@@ -21,3 +21,4 @@ localization_priority: Normal
 
 For additional information, place the cursor in the  Immediate window and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

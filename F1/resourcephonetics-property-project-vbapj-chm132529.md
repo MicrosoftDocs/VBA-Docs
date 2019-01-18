@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Engagement.ProposedFinish Property (Project)](http://msdn.microsoft.com/library/2c2233f2-ee0b-5054-1300-ed4afdfd4c5f%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ Consistent with the deprecation of command bars in the explorer and inspector wi
 
  [Office Fluent User Interface Extensibility for Outlook](office-fluent-user-interface-extensibility-for-outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

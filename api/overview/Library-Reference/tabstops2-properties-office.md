@@ -21,3 +21,4 @@ localization_priority: Normal
 |[DefaultSpacing](../../Office.TabStops2.DefaultSpacing.md)|Gets or sets the default spacing between tab stops. Read/write.|
 |[Parent](../../Office.TabStops2.Parent.md)|Gets an  **Object** that represents the **Parent** object of the specified **TabStops2** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

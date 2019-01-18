@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.LevelingDelay Property (Project)](http://msdn.microsoft.com/library/b01087ec-9440-9288-3afe-6c0ed87e4a50%28Office.15%29.aspx)
 [Task.LevelingDelay Property (Project)](http://msdn.microsoft.com/library/1fef1717-3a6d-b1c4-9350-c66db095539b%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

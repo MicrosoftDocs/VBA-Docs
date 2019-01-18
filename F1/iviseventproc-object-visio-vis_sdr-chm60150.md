@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [IVisEventProc Object (Visio)](http://msdn.microsoft.com/library/332ec60d-c70a-9d7f-15ad-bb797f60b3a5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

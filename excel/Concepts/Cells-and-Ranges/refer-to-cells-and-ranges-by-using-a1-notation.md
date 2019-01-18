@@ -39,3 +39,4 @@ The following table illustrates some A1-style references using the  **Range** pr
 | `Range("1:1,3:3,8:8")`|Rows 1, 3, and 8|
 | `Range("A:A,C:C,F:F")`|Columns A, C, and F|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

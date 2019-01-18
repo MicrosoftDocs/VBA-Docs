@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Subproject.InsertedProjectSummary Property (Project)](http://msdn.microsoft.com/library/a98d0c9c-2c9d-d15e-2716-ed27ee9273c2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

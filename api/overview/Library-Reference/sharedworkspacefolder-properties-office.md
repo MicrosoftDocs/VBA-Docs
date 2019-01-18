@@ -20,3 +20,4 @@ localization_priority: Normal
 |[FolderName](../../Office.SharedWorkspaceFolder.FolderName.md)|Gets the name of a subfolder within the main document library folder of a shared workspace. Read-only.|
 |[Parent](../../Office.SharedWorkspaceFolder.Parent.md)|Gets the  **Parent** object for the **SharedWorkspaceFolder** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

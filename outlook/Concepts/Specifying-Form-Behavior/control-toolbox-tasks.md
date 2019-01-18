@@ -33,5 +33,5 @@ localization_priority: Normal
 -  [Move a Control to Another Page in the Control Toolbox](move-a-control-to-another-page-in-the-control-toolbox.md)
     
 -  [Show or Hide the Control Toolbox](show-or-hide-the-control-toolbox.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

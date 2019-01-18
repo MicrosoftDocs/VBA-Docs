@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.FullSeriesCollection Method (PowerPoint)](http://msdn.microsoft.com/library/3b5620c0-4c0f-7d89-e8ee-5e12d9c292e7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

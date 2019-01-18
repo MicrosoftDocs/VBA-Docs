@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Reset](../../Office.SmartArt.Reset.md)|Resets the SmartArt graphic to its original state.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ localization_priority: Normal
 |[Status](../../Office.Sync.Status.md)|Gets the status of the synchronization of the local copy of the active document with the server copy. Read-only.|
 |[WorkspaceLastChangedBy](../../Office.Sync.WorkspaceLastChangedBy.md)|Displays the display name of the user who last saved changes to the server copy of a shared document. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

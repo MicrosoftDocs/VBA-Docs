@@ -21,6 +21,5 @@ A control [variable](../../Glossary/vbe-glossary.md#variable) is the _element_ p
     Make sure the  _group_ part of the **For Each...Next** is a **Variant** type variable.
     
 - For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

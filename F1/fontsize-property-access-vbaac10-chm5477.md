@@ -26,3 +26,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Label.FontSize property (Access)](http://msdn.microsoft.com/library/9b669364-ba6e-8b1a-7750-bf0c25b42e40%28Office.15%29.aspx)
 [ComboBox.FontSize property (Access)](http://msdn.microsoft.com/library/6dcd4b7e-01ec-a44d-4ceb-eecaa02ed1d7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

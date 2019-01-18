@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.PanZoomFinish Property (Project)](http://msdn.microsoft.com/library/a080b0b7-45fc-7c7e-90ee-7685ac9a1917%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

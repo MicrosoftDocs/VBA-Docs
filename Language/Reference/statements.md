@@ -91,3 +91,5 @@ localization_priority: Priority
 
 - [Keywords (Visual Basic for Applications)](keywords-visual-basic-for-applications.md)
 - [Visual Basic language reference](User-Interface-Help/visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

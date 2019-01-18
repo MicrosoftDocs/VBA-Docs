@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Resource.HyperlinkAddress Property (Project)](http://msdn.microsoft.com/library/44de3c24-ff9d-49dc-d942-8167a73b9ef6%28Office.15%29.aspx)
 [Task.HyperlinkAddress Property (Project)](http://msdn.microsoft.com/library/0fd6c70e-df9e-1d6e-df65-aa1de2f98b44%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,5 +49,5 @@ localization_priority: Normal
 -  [TextBox Object Reference (Outlook Forms Script)](../../Outlook.textbox.object.md)
     
 -  [ToggleButton Object Reference (Outlook Forms Script)](../../Outlook.togglebutton.object.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

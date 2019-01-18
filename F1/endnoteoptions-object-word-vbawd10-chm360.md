@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [EndnoteOptions object (Word)](http://msdn.microsoft.com/library/b63cf439-2297-fec9-ba36-66ad3f43dcbc%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

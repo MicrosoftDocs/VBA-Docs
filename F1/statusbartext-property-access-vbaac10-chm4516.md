@@ -34,4 +34,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.StatusBarText property (Access)](http://msdn.microsoft.com/library/098391de-a83b-b8cb-e045-b6d9edac3ff5%28Office.15%29.aspx)
 - [WebBrowserControl.StatusBarText property (Access)](http://msdn.microsoft.com/library/8d2daa59-e8aa-103a-ce26-99fe8a1eae80%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

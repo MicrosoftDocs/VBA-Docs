@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [GroupCriterion.StartAt Property (Project)](http://msdn.microsoft.com/library/27fa5bdb-c9a5-601f-ad0a-6bb50429fd28%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

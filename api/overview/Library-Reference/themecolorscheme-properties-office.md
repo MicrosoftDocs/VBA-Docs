@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Creator](../../Office.ThemeColorScheme.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **ThemeColorScheme** object was created. Read-only.|
 |[Parent](../../Office.ThemeColorScheme.Parent.md)|Gets the  **Parent** object for the **ThemeColorScheme** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

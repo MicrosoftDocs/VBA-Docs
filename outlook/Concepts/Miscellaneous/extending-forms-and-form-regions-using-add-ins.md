@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Use an Add-in to Specify Icons for a Form Region](../Specifying-Form-Behavior/use-an-add-in-to-specify-icons-for-a-form-region.md)
     
 -  [Create Separate Read and Compose Pages Using Form Regions in a Custom Form](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/create-separate-read-and-compose-pages-using-form-regions-in-a-custom-form.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

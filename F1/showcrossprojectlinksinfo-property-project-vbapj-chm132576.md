@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ResourceTables Property (Project)](http://msdn.microsoft.com/library/d3b0c4a2-5274-8dbd-bee9-b8975649364b%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

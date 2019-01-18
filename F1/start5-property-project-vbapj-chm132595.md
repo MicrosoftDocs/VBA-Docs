@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Assignment.SV Property (Project)](http://msdn.microsoft.com/library/c63cd139-5a5e-2111-ed52-f239d401f227%28Office.15%29.aspx)
 [Resource.SV Property (Project)](http://msdn.microsoft.com/library/176f083f-677a-fc38-b7e5-f51868fb5a27%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

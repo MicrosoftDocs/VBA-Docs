@@ -77,4 +77,4 @@ You can use the logical operators  **And**,  **Not**,  **Or** in filter strings 
   criteria = "[FirstName] = 'Peter' Or [FirstName] = 'Paul'"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

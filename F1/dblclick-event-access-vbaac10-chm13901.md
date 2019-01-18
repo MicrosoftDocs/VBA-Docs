@@ -40,3 +40,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Report.Resize event (Access)](http://msdn.microsoft.com/library/cd2c1c2a-959b-a5d0-9f75-a7443a9a57f1%28Office.15%29.aspx)
 - [Report.Timer event (Access)](http://msdn.microsoft.com/library/52e3db7f-a61c-8144-e39b-0f9daf61bd98%28Office.15%29.aspx)
 - [Report.Unload event (Access)](http://msdn.microsoft.com/library/05f0d51e-8fa0-9547-6b22-e7711754d1a5%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

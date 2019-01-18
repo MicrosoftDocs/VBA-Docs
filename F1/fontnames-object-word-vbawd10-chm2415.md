@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [FontNames object (Word)0e7fd4e9-c377-44bf-7b44-620f0bf7a851](http://msdn.microsoft.com/library/0e7fd4e9-c377-44bf-7b44-620f0bf7a851%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

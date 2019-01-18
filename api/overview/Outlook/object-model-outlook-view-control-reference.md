@@ -13,3 +13,4 @@ This section of the Outlook VBA reference contains documentation for all of the 
 
 Use the table of contents in the left navigation to view the topics in this section.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

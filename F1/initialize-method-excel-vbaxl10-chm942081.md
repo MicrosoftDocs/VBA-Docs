@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Model.ModelMeasures property (Excel)](http://msdn.microsoft.com/library/b92f52fc-7c11-accc-bf3a-ba62c87daf71%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

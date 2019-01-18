@@ -33,4 +33,4 @@ The following example assigns  `replyToBlog` as the internal name of a custom ac
 
  **Note**  You can specify  `this` as the value of the **targetForm** element to use the same message class and same form as those that the form region is defined on.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

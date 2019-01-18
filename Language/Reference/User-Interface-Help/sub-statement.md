@@ -108,3 +108,5 @@ End Sub
 - [Writing a Sub procedure](../../concepts/getting-started/writing-a-sub-procedure.md)
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

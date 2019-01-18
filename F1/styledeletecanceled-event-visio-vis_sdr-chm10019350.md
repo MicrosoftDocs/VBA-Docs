@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.StyleDeleteCanceled Event (Visio)](http://msdn.microsoft.com/library/c5d2960f-1fd2-0371-93c0-566ab541dc97%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

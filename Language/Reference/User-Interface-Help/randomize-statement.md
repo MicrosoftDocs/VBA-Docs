@@ -47,3 +47,5 @@ MyValue = Int((6 * Rnd) + 1) ' Generate random value between 1 and 6.
 
 - [Data types](data-type-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

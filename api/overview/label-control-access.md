@@ -40,3 +40,4 @@ When you create a label by using the **Label** tool, the label stands on its own
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

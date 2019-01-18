@@ -53,8 +53,6 @@ Use these key combinations in the Project Explorer.
 ## See also
 
 - [Use the Project Explorer](use-the-project-explorer.md)
-- [Window elements](../window-elements.md)   
-    
+- [Window elements](../window-elements.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

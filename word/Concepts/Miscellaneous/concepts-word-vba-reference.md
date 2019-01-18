@@ -18,5 +18,5 @@ This section contains the following overviews about programmability in Word. To 
 - [Objects, properties, and methods](../Objects-Properties-Methods/understanding-objects-properties-and-methods.md)
 
 - [Miscellaneous](modifying-a-word-command.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

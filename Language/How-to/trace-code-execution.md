@@ -34,3 +34,4 @@ You trace code execution because it may not always be obvious which statement is
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

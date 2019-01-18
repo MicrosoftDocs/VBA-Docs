@@ -60,4 +60,4 @@ localization_priority: Normal
 
  [How do I find the Visual Basic equivalent for a WordBasic command or function?](https://msdn.microsoft.com/library/office/aa158432%28v=office.10%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

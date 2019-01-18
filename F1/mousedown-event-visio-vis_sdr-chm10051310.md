@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.MouseDown Event (Visio)](http://msdn.microsoft.com/library/d02e19db-9f76-1669-8b5a-8b14f1950b83%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

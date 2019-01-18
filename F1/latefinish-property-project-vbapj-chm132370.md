@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.MapList Property (Project)](http://msdn.microsoft.com/library/b124f86e-fec6-ab92-93ff-5db4eff16892%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

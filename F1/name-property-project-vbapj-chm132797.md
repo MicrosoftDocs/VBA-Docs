@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [View.Name Property (Project)](http://msdn.microsoft.com/library/81dd6947-763a-f5f1-3313-e01a42e590db%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

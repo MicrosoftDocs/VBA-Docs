@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [VisFilterActions Enumeration (Visio)](http://msdn.microsoft.com/library/1b96bdba-e5e8-0e24-697d-3791c059fa15%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

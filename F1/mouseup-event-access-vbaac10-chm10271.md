@@ -23,3 +23,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Label.DblClick event (Access)](http://msdn.microsoft.com/library/0cb6512b-cb04-c586-dc8a-ab9208791475%28Office.15%29.aspx)
 [Label object (Access)](http://msdn.microsoft.com/library/3d83d916-85d7-b2eb-c9f6-f9a6ff0c9ec7%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

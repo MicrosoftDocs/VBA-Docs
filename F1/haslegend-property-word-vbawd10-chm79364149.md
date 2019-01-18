@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart.Axes method (Word)](http://msdn.microsoft.com/library/37f422b5-31f2-92ce-c04e-a837b0a3d407%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

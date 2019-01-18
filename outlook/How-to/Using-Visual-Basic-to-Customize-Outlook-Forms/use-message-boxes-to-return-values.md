@@ -19,4 +19,4 @@ One way to isolate errors is to use a message box to display the value of a vari
 MsgBox Item.GetInspector.ModifiedFormPages("Test").Textbox1.SelLength
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Document.Container Property (Visio)](http://msdn.microsoft.com/library/aa08d0da-1823-526e-3e3f-a420adb3597c.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

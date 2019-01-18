@@ -58,4 +58,4 @@ Run the Register_Event_Handler procedure. After the running procedure, the App o
 
  **Note**  For information on creating event procedures for the  **Document** object, see [Using Events with the Document Object](using-events-with-the-document-object-publisher.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

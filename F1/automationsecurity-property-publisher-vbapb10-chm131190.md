@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.Assistance Property (Publisher)](http://msdn.microsoft.com/library/2abac248-bec5-876f-9ae5-88a59ce16b59%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

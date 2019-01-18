@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Table Object (Project)](http://msdn.microsoft.com/library/f50f5d2d-a733-c5b0-16d8-e4ee98943321%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

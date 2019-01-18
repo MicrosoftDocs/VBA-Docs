@@ -55,3 +55,5 @@ A fixed-length string includes appended spaces or truncates as necessary:
 ## See also
 
 - [Data type summary](data-type-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Load](../../Office.ThemeColorScheme.Load.md)|Loads the color scheme of a Microsoft Office theme from a file.|
 |[Save](../../Office.ThemeColorScheme.Save.md)|Saves the color scheme of a Microsoft Office theme to a file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

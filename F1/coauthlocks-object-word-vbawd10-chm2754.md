@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CoAuthLocks object (Word)](http://msdn.microsoft.com/library/589763ed-8463-6988-3817-9c2152506d16%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

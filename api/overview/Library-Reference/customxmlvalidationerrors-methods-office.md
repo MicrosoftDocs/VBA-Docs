@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Add](../../Office.CustomXMLValidationErrors.Add.md)|Adds a  **CustomXMLValidationError** object containing an XML validation error to the **CustomXMLValidationErrors** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

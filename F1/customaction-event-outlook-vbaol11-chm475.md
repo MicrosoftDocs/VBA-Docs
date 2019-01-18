@@ -30,3 +30,5 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestDeclineItem.CustomAction Event (Outlook)](http://msdn.microsoft.com/library/b10158d6-feef-feb1-b922-5dc377cdba63%28Office.15%29.aspx)
 - [TaskRequestItem.CustomAction Event (Outlook)](http://msdn.microsoft.com/library/1b4fbc87-6494-b85e-f5a6-c2a538a21078%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.CustomAction Event (Outlook)](http://msdn.microsoft.com/library/8ff3cb23-c576-de24-51c5-792967ebdf58%28Office.15%29.aspx)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

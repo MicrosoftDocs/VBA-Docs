@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [CodeProject.AccessConnection property (Access)](http://msdn.microsoft.com/library/04b389d0-b87f-9eb9-f067-6b5e0d68e3f8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,6 +17,5 @@ Not all errors have an associated help topic. This error has the following cause
 
 
 - You generated an error for which no Help exists. Check the Readme file. Help for late-breaking errors is often available through the Readme file.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

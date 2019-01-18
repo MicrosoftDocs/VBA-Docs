@@ -31,4 +31,4 @@ localization_priority: Normal
 
  **Note**  If you click  **Send the form immediately**, you must  [pre-address](../Configuring-Forms/pre-address-a-reply-form-to-a-public-folder-or-an-e-mail-address.md) the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

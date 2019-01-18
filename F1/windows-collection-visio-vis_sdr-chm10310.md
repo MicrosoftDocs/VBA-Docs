@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Windows Object (Visio)](http://msdn.microsoft.com/library/7151eb44-29cd-877d-d885-d1e0ab5498ed.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

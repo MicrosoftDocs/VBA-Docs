@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.MultipleCriticalPaths Property (Project)](http://msdn.microsoft.com/library/f6ebb491-000e-cd09-b4d6-99d1852fad26%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

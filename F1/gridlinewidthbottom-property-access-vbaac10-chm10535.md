@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.GridlineWidthBottom property (Access)](http://msdn.microsoft.com/library/ba3c1daa-63bc-666b-d170-8747b2b4a37e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

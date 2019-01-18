@@ -24,5 +24,5 @@ Note: If you are looking for information about Microsoft Graph, the unified API 
 -  **[Properties](../properties-graph-visual-basic-reference.md)** Provides reference information about the properties in the object model.
     
 -  **[Enumerations](enumerations-graph-visual-basic-reference.md)** Provides reference information about the enumerations in the object model.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

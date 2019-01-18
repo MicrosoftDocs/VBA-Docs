@@ -31,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.Close Event (Outlook)](http://msdn.microsoft.com/library/d572bebe-11e5-9525-ce99-f4eb33255410%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.Close Event (Outlook)](http://msdn.microsoft.com/library/9843b2f1-109e-08f4-065b-fe6fa0df31e5%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

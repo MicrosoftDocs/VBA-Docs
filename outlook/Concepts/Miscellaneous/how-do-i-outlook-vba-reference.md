@@ -182,6 +182,5 @@ This topic links to how-to and walkthrough topics for common Microsoft Outlook s
 -  [How to: Save Auto-Archive Properties of a Folder in Solution Storage](../../How-to/Solution-Storage/save-auto-archive-properties-of-a-folder-in-solution-storage.md)
     
 -  [How to: Store Data in a StorageItem for a Solution](../../How-to/Solution-Storage/store-data-in-a-storageitem-for-a-solution.md)
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

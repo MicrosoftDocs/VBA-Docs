@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CommandButton.Visible property (Access)](http://msdn.microsoft.com/library/980c1f93-ae95-3481-5358-ad5362ffc9e8%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,5 @@ There are two access techniques for providing What's This Help in an application
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,5 @@ Because **ByVal** makes a copy of the argument, it allows you to pass a variant 
 ## See also
 
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

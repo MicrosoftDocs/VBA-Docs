@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportBackgroundColor Property (Visio)](http://msdn.microsoft.com/library/25591439-b332-af75-dec0-562cd261a453%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

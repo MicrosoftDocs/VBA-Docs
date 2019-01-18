@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Presentation.DisableDraftModeAllCharts Method (PowerPoint)](http://msdn.microsoft.com/library/15f13261-85b3-c277-e220-e8d820d4712d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

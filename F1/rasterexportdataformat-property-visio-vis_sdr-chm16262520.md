@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportDataFormat Property (Visio)](http://msdn.microsoft.com/library/d30c29f0-b4d9-b8f1-3950-c0a1fa626f02.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

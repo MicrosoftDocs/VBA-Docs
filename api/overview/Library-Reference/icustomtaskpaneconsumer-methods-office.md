@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[CTPFactoryAvailable](../../Office.ICustomTaskPaneConsumer.CTPFactoryAvailable.md)|Passes an  **CTPFactory** object to a Microsoft ActiveX add-in that can then used when creating a custom task pane.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

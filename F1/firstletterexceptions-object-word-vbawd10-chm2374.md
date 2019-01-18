@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [FirstLetterExceptions object (Word)7e289aae-34e0-8613-5fbf-4d34cd3d33d9](http://msdn.microsoft.com/library/7e289aae-34e0-8613-5fbf-4d34cd3d33d9%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

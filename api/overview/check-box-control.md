@@ -36,3 +36,4 @@ It's also possible to use an unbound check box in a custom dialog box to accept 
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

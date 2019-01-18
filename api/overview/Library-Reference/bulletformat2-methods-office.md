@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Picture](../../Office.BulletFormat2.Picture.md)|Sets the graphics file to be used for bullets in a bulleted list.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

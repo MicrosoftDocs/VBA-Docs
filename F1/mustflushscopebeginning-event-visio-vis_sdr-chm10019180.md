@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.MustFlushScopeBeginning Event (Visio)](http://msdn.microsoft.com/library/cb176106-b67a-134f-e171-6c454a47d3b2%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

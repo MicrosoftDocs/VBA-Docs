@@ -21,3 +21,5 @@ For example, if you set and then set breakpoint before the end of your code, whe
 ## See also
 
 - [Window elements](../window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AcPictureCaptionArrangement enumeration (Access)](http://msdn.microsoft.com/library/e77a758f-4139-343f-9f1c-5e29db3fe5a3%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

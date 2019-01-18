@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.Hyperlink property (Access)](http://msdn.microsoft.com/library/2d6bdb1a-808e-1712-1846-71ffa8619f0d%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

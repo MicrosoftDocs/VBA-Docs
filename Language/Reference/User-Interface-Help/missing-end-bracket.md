@@ -21,3 +21,4 @@ Brackets in a statement must occur in matching pairs. This error has the followi
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

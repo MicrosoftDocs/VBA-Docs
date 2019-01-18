@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.SharedWorkspaceFolder.Delete.md)|Deletes the current shared workspace folder and all data within it.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

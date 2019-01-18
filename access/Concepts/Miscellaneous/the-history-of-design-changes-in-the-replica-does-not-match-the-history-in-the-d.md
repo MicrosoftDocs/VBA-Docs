@@ -27,3 +27,4 @@ The Synchronizer is unable to synchronize the two members of the replica set bec
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

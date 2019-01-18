@@ -29,3 +29,4 @@ localization_priority: Normal
 |[UseTextFont](../../Office.BulletFormat2.UseTextFont.md)|Determines whether the specified bullets are set to the font of the first text character in the paragraph. Read/write.|
 |[Visible](../../Office.BulletFormat2.Visible.md)|Gets or sets a value that specifies whether the bullet is visible. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

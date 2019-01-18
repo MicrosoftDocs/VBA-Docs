@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a control name longer than 40 characters. The [control](../../Glossary/vbe-glossary.md#control) will be loaded with the name truncated to 40 characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

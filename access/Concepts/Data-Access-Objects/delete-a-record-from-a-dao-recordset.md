@@ -55,3 +55,4 @@ If you try to access a record after deleting it on a table-type **Recordset**, y
 
 If you have a **Recordset** clone positioned at the deleted record, and you try to read its value, you will see error 3167 regardless of the type of **Recordset** object. Trying to use a bookmark to move to a deleted record will also result in error 3167.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [VisGraphicField Enumeration (Visio)](http://msdn.microsoft.com/library/64186a31-92b1-8440-6127-e60aa00c6dfe%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

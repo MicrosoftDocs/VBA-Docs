@@ -22,4 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Report.Caption property (Access)](http://msdn.microsoft.com/library/8e662558-755f-0dbe-8803-b0f0ef093172%28Office.15%29.aspx)
 - [ToggleButton.Caption property (Access)](http://msdn.microsoft.com/library/7ae95889-3b92-14c1-792e-eac87a2fb910%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

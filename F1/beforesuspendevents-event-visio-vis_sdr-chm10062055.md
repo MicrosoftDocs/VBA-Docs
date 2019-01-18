@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.BeforeSuspendEvents Event (Visio)](http://msdn.microsoft.com/library/a6879424-40d8-e517-aad0-f31aa84a49f6%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

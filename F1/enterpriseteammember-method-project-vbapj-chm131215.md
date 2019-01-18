@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.FileFormatID Property (Project)](http://msdn.microsoft.com/library/86a6a5ce-6508-f1ad-b9cc-fb86fd96e410%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Visual Basic couldn't obtain enough memory to run. Close other applications and try again.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

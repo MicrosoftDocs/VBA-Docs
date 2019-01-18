@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [TextBox.TextAlign property (Access)](http://msdn.microsoft.com/library/2b6e5ad7-02f5-4e33-47a4-87882a3113b2%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

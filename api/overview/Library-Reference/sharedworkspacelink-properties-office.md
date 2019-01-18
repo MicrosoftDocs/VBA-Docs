@@ -26,3 +26,4 @@ localization_priority: Normal
 |[Parent](../../Office.SharedWorkspaceLink.Parent.md)|Gets the  **Parent** object for the **SharedWorkspaceLink** object. Read-only.|
 |[URL](../../Office.SharedWorkspaceLink.URL.md)|Gets the top-level Uniform Resource Locator (URL) of the shared workspace link. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

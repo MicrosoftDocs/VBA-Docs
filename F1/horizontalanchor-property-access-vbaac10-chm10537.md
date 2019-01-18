@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.HorizontalAnchor property (Access)](http://msdn.microsoft.com/library/a68f440f-99fd-54f1-bcc0-e06502ac2dbc%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

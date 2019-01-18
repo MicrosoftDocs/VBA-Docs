@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationControl.OnMouseDown property (Access)](http://msdn.microsoft.com/library/c8258e0e-c115-2556-a929-753c510fdc49%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

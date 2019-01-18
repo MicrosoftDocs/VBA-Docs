@@ -330,4 +330,4 @@ Conflicts can also occur when a previously data-linked row from the data records
 
 To remove the conflict, pass the shape to the  **[DataRecordset.RemoveRefreshConflict](../../api/Visio.DataRecordset.RemoveRefreshConflict.md)** method, which removes the conflicting information from the current document.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

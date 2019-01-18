@@ -21,3 +21,4 @@ Provides a means for developers to create a customized help experience for users
 |[SetDefaultContext](../../Office.IAssistance.SetDefaultContext.md)|Sets a help topic as the default topic that will be displayed when the user opens a help window.|
 |[ShowHelp](../../Office.IAssistance.ShowHelp.md)|Displays the help topic specified by its ID in the Office Help Viewer or, for help topics that ship with Office, in the Help window of the current Office application.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

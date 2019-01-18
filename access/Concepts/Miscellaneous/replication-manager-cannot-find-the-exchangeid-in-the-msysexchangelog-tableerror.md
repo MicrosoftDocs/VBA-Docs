@@ -27,3 +27,4 @@ This is an unexpected error. Please contact Microsoft Product Support Services f
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)v
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

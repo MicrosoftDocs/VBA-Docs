@@ -42,3 +42,5 @@ The following tables summarize the new Visual Basic for Applications (VBA) langu
 ## See also
 
 - [Library reference VBA](../../api/overview/library-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

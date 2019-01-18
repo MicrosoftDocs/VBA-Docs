@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LookupTableEntry.IsValid Property (Project)](http://msdn.microsoft.com/library/8c05e135-f507-5449-bef9-89b2d859f5f5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

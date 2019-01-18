@@ -33,5 +33,5 @@ localization_priority: Normal
 -  [Specify Locale-Specific User Interface for a Form Region](specify-locale-specific-user-interface-for-a-form-region.md)
     
 -  [Defining Actions for Form Regions](defining-actions-for-form-regions.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Sources object (Word)](http://msdn.microsoft.com/library/92a74894-1c69-0ff1-749d-baa49b45a174%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

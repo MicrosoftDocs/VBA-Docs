@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Task.FinishText Property (Project)](http://msdn.microsoft.com/library/1dac5d15-30e3-060a-9c8a-98f7de556e3a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

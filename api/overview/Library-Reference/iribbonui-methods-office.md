@@ -22,3 +22,4 @@ localization_priority: Normal
 |[InvalidateControl](../../Office.IRibbonUI.InvalidateControl.md)|Invalidates the cached value for a single control on the Ribbon user interface.|
 |[InvalidateControlMso](../../Office.IRibbonUI.InvalidateControlMso.md)|Used to invalidate a built-in control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

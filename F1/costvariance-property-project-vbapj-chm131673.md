@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Cost10 Property (Project)](http://msdn.microsoft.com/library/1c68b400-cc7c-3e54-94b4-6c791ab52579%28Office.15%29.aspx)
 - [Resource.Cost10 Property (Project)](http://msdn.microsoft.com/library/97957c20-5d14-7b11-93c2-e164c6356cd8%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

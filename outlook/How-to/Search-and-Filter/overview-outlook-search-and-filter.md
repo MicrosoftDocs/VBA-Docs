@@ -9,5 +9,6 @@ localization_priority: Normal
 
 # Overview (Outlook Search and Filter)
 
-The Outlook object model provides several entry points that support enumerating, searching, and filtering items in a folder. 
+The Outlook object model provides several entry points that support enumerating, searching, and filtering items in a folder.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ localization_priority: Normal
 |[MinorFont](../../Office.ThemeFontScheme.MinorFont.md)|Gets the font settings for the "Body" of a document. Read-only.|
 |[Parent](../../Office.ThemeFontScheme.Parent.md)|Gets the  **Parent** object for the **ThemeFontScheme** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

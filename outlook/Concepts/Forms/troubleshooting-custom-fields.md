@@ -37,5 +37,5 @@ For more information, see [Extending a Form Region with an Add-in](../Specifying
 ## When I try to sort, group, or filter a formula field or combination field, I receive an error message
 
 You cannot sort, group, or filter a formula field or a combination field in Microsoft Outlook.
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

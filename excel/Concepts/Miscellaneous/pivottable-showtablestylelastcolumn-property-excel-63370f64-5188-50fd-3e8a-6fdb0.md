@@ -11,3 +11,4 @@ localization_priority: Normal
 
 pivottable-showtablestylelastcolumn-property-excel-63370f64-5188-50fd-3e8a-6fdb0
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

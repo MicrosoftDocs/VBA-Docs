@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Remove](../../Office.UserPermission.Remove.md)|Removes the specified **UserPermission** object from the **[Permission](../../Office.Permission.md)** collection of the active document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

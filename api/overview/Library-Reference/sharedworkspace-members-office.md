@@ -41,3 +41,4 @@ The **SharedWorkspace** property of a **Document** object in Microsoft Word, a *
 |[Tasks](../../Office.SharedWorkspace.Tasks.md)|Gets a **[SharedWorkspaceTasks](../../Office.SharedWorkspaceTasks.md)** collection that represents the list of tasks in the current shared workspace. Read-only.|
 |[URL](../../Office.SharedWorkspace.URL.md)|Gets the top-level Uniform Resource Locator (URL) of the shared workspace. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

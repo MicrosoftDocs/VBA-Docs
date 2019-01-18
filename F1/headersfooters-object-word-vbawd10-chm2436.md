@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HeadersFooters object (Word)7e85bb4c-0945-2e92-a069-a0027d95556a](http://msdn.microsoft.com/library/7e85bb4c-0945-2e92-a069-a0027d95556a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

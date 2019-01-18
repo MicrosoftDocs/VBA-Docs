@@ -18,3 +18,4 @@ localization_priority: Normal
 |[Delete](../../Office.SharedWorkspaceLink.Delete.md)|Deletes the current  **SharedWorkspaceLink** object.|
 |[Save](../../Office.SharedWorkspaceLink.Save.md)|Uploads changes made programmatically to a shared server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

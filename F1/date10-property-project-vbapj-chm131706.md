@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Date10 Property (Project)](http://msdn.microsoft.com/library/795c71e1-5dfb-4044-3679-6db2bf2b30b5%28Office.15%29.aspx)
 - [Project.DaysPerMonth Property (Project)](http://msdn.microsoft.com/library/1c4add8e-7162-0627-671e-e94117016fbd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -158,3 +158,5 @@ Describes a control that is not related to a worksheet cell. In contrast, a boun
 ## See also
 
 - [Visual Basic Editor (VBE) Glossary](vbe-glossary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

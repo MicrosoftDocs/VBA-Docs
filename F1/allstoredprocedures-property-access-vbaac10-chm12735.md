@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CodeData.AllStoredProcedures property (Access)](http://msdn.microsoft.com/library/4a14d3b6-1878-5065-6e08-b97d23ddc999%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

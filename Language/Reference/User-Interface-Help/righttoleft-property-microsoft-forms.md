@@ -53,3 +53,4 @@ Microsoft Forms 2.0 controls that have the ability to exhibit bidirectional char
 - [Microsoft Forms reference](reference-microsoft-forms.md)
 - [Microsoft Forms concepts](concepts-microsoft-forms.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

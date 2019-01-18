@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ActiveX component has not been properly registered in the system [registry](../../Glossary/vbe-glossary.md#registry).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

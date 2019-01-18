@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.AutoCalcCosts Property (Project)](http://msdn.microsoft.com/library/fa9e27f9-7f7c-63f3-83c5-e2e0fc2ddfc7%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

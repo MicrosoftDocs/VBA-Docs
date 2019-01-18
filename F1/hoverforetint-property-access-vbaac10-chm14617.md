@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [NavigationButton.HoverForeTint property (Access)](http://msdn.microsoft.com/library/3d609fbc-0828-0607-5b14-e952bd321759%28Office.15%29.aspx)
 [ToggleButton.HoverForeTint property (Access)](http://msdn.microsoft.com/library/81b67e89-3ae9-941f-4830-fcdbf02afd9e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ Set rstProducts = dbsNorthwind.OpenRecordset(strSQL)
 
 The disadvantage of this approach is that the query string must be compiled each time it runs, whereas the stored query is compiled the first time it is saved, which usually results in slightly better performance.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

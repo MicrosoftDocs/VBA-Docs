@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.OldBorderStyle property (Access)](http://msdn.microsoft.com/library/6064f8b9-31ec-da00-0346-cd259b917daa%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

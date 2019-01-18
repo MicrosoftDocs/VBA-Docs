@@ -21,5 +21,5 @@ localization_priority: Normal
 -  [Searching](../../How-to/Search-and-Filter/searching.md)
     
 -  [How To](how-to.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

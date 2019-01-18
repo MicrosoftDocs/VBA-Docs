@@ -36,3 +36,5 @@ If _key_ is not found when changing an _item_, a new _key_ is created with the s
 
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Visual Basic language reference](visual-basic-language-reference.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

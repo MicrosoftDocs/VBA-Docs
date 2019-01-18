@@ -11,3 +11,4 @@ localization_priority: Normal
 
 pivottable-hasautoformat-property-excel-638f892d-7dc9-314c-efaf-ee724b9f86f5
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

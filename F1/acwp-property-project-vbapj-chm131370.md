@@ -22,3 +22,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 - [Assignment.ACWP Property (Project)](http://msdn.microsoft.com/library/a28a370c-f7ee-56e4-e11b-a40553dcaec0%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

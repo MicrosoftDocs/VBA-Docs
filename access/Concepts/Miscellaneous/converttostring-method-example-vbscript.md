@@ -53,3 +53,5 @@ CLASSID="clsid:BD96C556-65A3-11D0-983A-00C04FC29E33"></OBJECT>
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

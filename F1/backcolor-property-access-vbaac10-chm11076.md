@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.BackColor property (Access)](http://msdn.microsoft.com/library/6649513b-a692-ef90-2fc8-cfb7b7671b35%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

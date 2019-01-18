@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [LegendKey.MarkerSize Property (PowerPoint)](http://msdn.microsoft.com/library/712765a9-5a9a-5712-fc12-e1a477d1080c%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

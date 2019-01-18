@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An unexpected error occurred, and Visual Basic was unable to continue. This may be a hardware problem or an effect of other software in your system.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

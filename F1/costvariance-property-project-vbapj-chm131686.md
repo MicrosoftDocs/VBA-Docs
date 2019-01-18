@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Project.CurrentFilter Property (Project)](http://msdn.microsoft.com/library/b97e43ac-2167-80f0-bf5e-609a08f42fd9%28Office.15%29.aspx)
 - [Resource.CostVariance Property (Project)](http://msdn.microsoft.com/library/ae706493-fb99-74db-3e43-a1cda4632f21%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

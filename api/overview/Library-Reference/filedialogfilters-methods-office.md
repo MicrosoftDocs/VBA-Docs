@@ -20,3 +20,4 @@ localization_priority: Normal
 |[Delete](../../Office.FileDialogFilters.Delete.md)|Removes a file dialog filter.|
 |[Item](../../Office.FileDialogFilters.Item.md)|Gets a  **FileDialogFilter** object that is a member of the specified **FileDialogFilters** collection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

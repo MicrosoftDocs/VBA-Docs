@@ -26,3 +26,5 @@ The Microsoft Access database engine supports up to 255 fields per table, but th
 - [Access forums on UtterAccess](http://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](http://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

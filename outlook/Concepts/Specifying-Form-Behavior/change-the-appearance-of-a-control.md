@@ -34,5 +34,5 @@ For more information, see the following topics:
 -  [ How to: Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
     
 -  [How to: Make a Control Transparent](make-a-control-transparent.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

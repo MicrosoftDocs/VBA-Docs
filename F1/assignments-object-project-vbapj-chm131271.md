@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Chart Object (Project)](http://msdn.microsoft.com/library/810d4ec1-69d2-c432-b9da-57042b783b85%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

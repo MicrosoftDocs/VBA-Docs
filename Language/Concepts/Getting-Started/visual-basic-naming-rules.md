@@ -32,3 +32,5 @@ Use the following rules when you name [procedures](../../Glossary/vbe-glossary.m
 
 - [Document conventions (VBA)](document-conventions-visual-basic-for-applications.md)
 - [Visual Basic conceptual topics](../../reference/user-interface-help/visual-basic-conceptual-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

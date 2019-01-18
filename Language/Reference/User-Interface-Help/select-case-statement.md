@@ -84,3 +84,5 @@ End Select
 - [Data types](data-type-summary.md)
 - [Operators](operator-summary.md)
 - [Statements](../statements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

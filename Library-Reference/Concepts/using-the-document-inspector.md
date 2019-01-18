@@ -83,4 +83,4 @@ After the modules complete the inspection, the **Document Inspector** displays t
 
 If you choose to remove the data for a given module, the dialog box displays descriptive text that indicates whether the operation was successful or not. If the **Document Inspector** encounters errors during the operation, the module is flagged, displays an error message, and the data for that module does not change.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Visual Basic can't display system information when you choose  **System Info** from the **About Microsoft Visual Basic** dialog box. Your system may not have enough memory, or a required file may be corrupted or missing.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

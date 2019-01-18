@@ -21,3 +21,4 @@ localization_priority: Normal
 |[RGB](../../Office.ThemeColor.RGB.md)|Gets or sets a value of a color in the color scheme of a Microsoft Office theme. Read/write.|
 |[ThemeColorSchemeIndex](../../Office.ThemeColor.ThemeColorSchemeIndex.md)|Gets the index value a color scheme of a Microsoft Office theme. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

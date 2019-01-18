@@ -656,6 +656,5 @@ By using a straightforward set of techniques, you can speed up most slow-calcula
 -  [Excel performance: Performance and limit improvements](excel-performance-and-limit-improvements.md)      
 -  [Excel performance: Tips for optimizing performance obstructions](excel-tips-for-optimizing-performance-obstructions.md)    
 -  [Excel Developer Portal](https://msdn.microsoft.com/office/aa905411.aspx)
-    
-    
-  
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

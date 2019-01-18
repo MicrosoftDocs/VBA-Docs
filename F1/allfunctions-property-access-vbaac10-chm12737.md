@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CurrentData.AllFunctions property (Access)](http://msdn.microsoft.com/library/823d8ae8-b8b0-5bef-afe5-eeda12300738%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

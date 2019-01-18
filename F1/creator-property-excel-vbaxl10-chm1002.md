@@ -27,4 +27,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextFrame2.Creator property (Excel)](http://msdn.microsoft.com/library/a6621e71-b864-9e95-68d0-a74649bc15ec%28Office.15%29.aspx)
 - [ThreeDFormat.Creator property (Excel)](http://msdn.microsoft.com/library/adae19fb-0ef7-6366-e70d-ff43b443419a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TextBox.BackShade property (Access)](http://msdn.microsoft.com/library/36db2540-6d5b-ed43-a303-70b6282398cf%28Office.15%29.aspx)
 - [ToggleButton.BackShade property (Access)](http://msdn.microsoft.com/library/d536f879-2819-9dff-56ba-aa92f3964b50%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

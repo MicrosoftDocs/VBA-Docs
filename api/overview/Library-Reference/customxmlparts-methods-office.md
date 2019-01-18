@@ -19,3 +19,4 @@ localization_priority: Normal
 |[SelectByID](../../Office.CustomXMLParts.SelectByID.md)|Selects a custom XML part matching a GUID. |
 |[SelectByNamespace](../../Office.CustomXMLParts.SelectByNamespace.md)|Selects the collection of custom XML parts whose namespace matches the search criteria. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

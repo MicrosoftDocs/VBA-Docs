@@ -25,3 +25,4 @@ Represents a COM add-in in the Microsoft Office host application. The **COMAddIn
 |[Parent](../../Office.COMAddIn.Parent.md)|Gets the **Parent** object for the **COMAddIn** object. Read-only.|
 |[ProgId](../../Office.COMAddIn.ProgId.md)|Gets the programmatic identifier (ProgID) for the specified **COMAddIn** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

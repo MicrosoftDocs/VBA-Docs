@@ -37,3 +37,5 @@ MyYear = Year(MyDate)    ' MyYear contains 1969.
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

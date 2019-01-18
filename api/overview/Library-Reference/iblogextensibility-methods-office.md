@@ -24,3 +24,4 @@ localization_priority: Normal
 |[RepublishPost](../../Office.IBlogExtensibility.RepublishPost.md)|Hands off the current post so it can be republished by the provider.|
 |[SetupBlogAccount](../../Office.IBlogExtensibility.SetupBlogAccount.md)|Called from the  **Choose Account** dialog when the provider's name is chosen in the **Blog Host** dropdown or when the user requests to change a provider's account in the **Blog Accounts** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

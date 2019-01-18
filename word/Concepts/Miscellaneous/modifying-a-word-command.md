@@ -51,4 +51,4 @@ You can add additional instructions or remove the existing  `ActiveDocument.Save
 
 You can also replace a Word command by creating a code module named after a Word command (for example, FileSave) with a subroutine named Main.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

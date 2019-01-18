@@ -23,6 +23,5 @@ There is some problem that prevents printing. This error has the following cause
 - Your printer is jammed or out of paper. Physically correct the problem.
     
 - You tried to print a form to a printer that can accept only text. Switch to an installed printer that can print graphics.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

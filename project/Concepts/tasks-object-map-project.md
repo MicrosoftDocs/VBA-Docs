@@ -32,4 +32,4 @@ For an overview of the  **Application** and **Project** objects, and for details
 ![Tasks object hierarchy](../../images/pj15_VBAObjectMap_Tasks.jpg)
 ![Legend for the VBA object maps](../../images/ff3d756d-0d45-4140-bab4-e84faed9fdbd.gif)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

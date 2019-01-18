@@ -26,4 +26,4 @@ This navigation page contains links to overview topics about programmability in 
 - [Visio Drawing control](about-the-visio-drawing-control.md)
 - [Visio Type Library](about-the-visio-type-library.md)
 
-    
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

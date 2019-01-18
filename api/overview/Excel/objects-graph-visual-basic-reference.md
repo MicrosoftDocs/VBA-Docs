@@ -21,4 +21,4 @@ If you are viewing Help from inside your installed version of the documentation,
 
 If you are viewing the content on MSDN, you can use the table of contents located to the left of the topic to navigate through the documentation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,5 +21,5 @@ There are a few basic approaches to creating Outlook solutions. One method is to
 -  [Extending the Use of an Outlook Item by Adding Fields and Pages](../../How-to/Extending-Forms-and-Form-Regions-Using-Add-ins/extend-the-use-of-an-outlook-item-by-adding-fields-and-pages.md)
     
 -  [Creating Custom Forms by Using VBScript](../Customizing-Forms/creating-custom-forms-by-using-visual-basic-scripting-edition.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

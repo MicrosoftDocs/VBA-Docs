@@ -45,3 +45,4 @@ Item.UserProperties.Find("MAPI First Name") = myUser.Fields.item(&h3a06001e)
 |PidTagAssistant|&h3a30001e|
 |PidTagBusinessTelephoneNumber|&h3a08001e|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

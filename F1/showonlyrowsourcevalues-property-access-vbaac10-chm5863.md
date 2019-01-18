@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ListBox.ShowOnlyRowSourceValues property (Access)](http://msdn.microsoft.com/library/35fc7924-ba76-d322-99ae-f5e355536bc0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

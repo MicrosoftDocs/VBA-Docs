@@ -30,3 +30,4 @@ The **SmartDocument** property of the **Document** object in Microsoft Word and 
 |[SolutionID](../../Office.SmartDocument.SolutionID.md)|Gets or sets the ID, often a globally unique identifier (GUID), which identifies the XML expansion pack attached to the active document in Microsoft Word or workbook in Microsoft Excel. Read/write.|
 |[SolutionURL](../../Office.SmartDocument.SolutionURL.md)|Gets or sets an absolute URL which provides the complete path to the XML expansion pack file attached to the active document in Microsoft Word or a workbook in Microsoft Excel. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

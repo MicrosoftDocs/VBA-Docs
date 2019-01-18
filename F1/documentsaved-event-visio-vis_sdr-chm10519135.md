@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [DrawingControl.DocumentSaved Event (Visio)](http://msdn.microsoft.com/library/762cf670-f0bf-13f7-c6eb-f497e642db52%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

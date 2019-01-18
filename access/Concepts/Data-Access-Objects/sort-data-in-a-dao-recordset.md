@@ -49,4 +49,4 @@ Set rstSalesReps = dbsNorthwind.OpenRecordset("SalesRepQuery")
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,5 @@ Find information about VBA objects, along with their methods and properties, on 
 - [Properties (Visual Basic Add-In Model)](visual-basic-add-in-model/properties-visual-basic-add-in-model.md)
 - [Visual Basic language reference](user-interface-help/visual-basic-language-reference.md)
 - [Office client development reference](https://docs.microsoft.com/office/client-developer/office-client-development)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [HangulHanjaConversionDictionaries object (Word)](http://msdn.microsoft.com/library/b6ed1c54-428b-c160-a2bd-642978660f44%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

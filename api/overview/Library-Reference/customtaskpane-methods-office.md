@@ -17,3 +17,4 @@ localization_priority: Normal
 |:-----|:-----|
 |[Delete](../../Office.CustomTaskPane.Delete.md)|Deletes the active custom task pane.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

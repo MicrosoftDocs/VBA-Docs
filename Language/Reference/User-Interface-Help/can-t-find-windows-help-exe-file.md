@@ -10,3 +10,4 @@ localization_priority: Normal
 # Can't find Windows Help .exe file
 The Windows Help application isn't available. If the MSDN library viewer is on your computer, make sure it is on your path. If it isn't on your computer, you must install it before you can view Help.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

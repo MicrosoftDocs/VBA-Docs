@@ -60,4 +60,4 @@ The following table lists all the rule conditions supported by the Rules and Ale
 |Message has my name in the  **To** or **Cc** box.| **olConditionToOrCc**|Yes|Yes|No|
 |Unrecognized rule condition.| **olConditionUnknown**|No|Yes|No|
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

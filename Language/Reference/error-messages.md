@@ -555,3 +555,5 @@ localization_priority: Priority
 - [Menus and commands](menus-commands.md)
 - [Toolbars](toolbars.md)
 - [Window elements](window-elements.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [InvisibleApp.ConvertToGroupCanceled Event (Visio)](http://msdn.microsoft.com/library/28a6f088-2ee5-fba3-6d63-b02b2ab36085%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

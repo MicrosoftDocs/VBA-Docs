@@ -14,4 +14,4 @@ localization_priority: Normal
 
 An [ActiveX control](../../Glossary/vbe-glossary.md#activex-control) could not be created while loading a form, User Control, User Document, or Property Page from a text file. The control may be missing or corrupted. Reinstall the control and try again. This message is written to the error log file.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

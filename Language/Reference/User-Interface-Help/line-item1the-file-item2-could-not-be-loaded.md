@@ -16,3 +16,4 @@ Syntax errors are preventing Visual Basic from parsing and loading a file, or fo
 
 Make sure that the file causing this error is a valid ASCII form in the correct format and that no conflicts exist among the different forms in the [project](../../Glossary/vbe-glossary.md#project).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

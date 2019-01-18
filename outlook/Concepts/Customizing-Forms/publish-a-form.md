@@ -24,4 +24,4 @@ localization_priority: Priority
 
  **Note**  Publishing a form that has not been previously published will open the  **Publish Form As** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

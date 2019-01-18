@@ -37,6 +37,5 @@ For more information about the  **Picture** property to set for a specific contr
 - The  **[Picture](../../../api/Outlook.page.picture.md)** property for the **[Page](../../../api/Outlook.page.md)** control.
     
 - The  **[Picture](../../../api/Outlook.togglebutton.picture.md)** property for the **[ToggleButton](../../../api/Outlook.togglebutton.md)** control.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

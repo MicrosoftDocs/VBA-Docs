@@ -37,3 +37,4 @@ localization_priority: Normal
 |[WordArtformat](../../Office.TextFrame2.WordArtformat.md)|Returns or sets the WordArt type for the specified text frame. Read/write|
 |[WordWrap](../../Office.TextFrame2.WordWrap.md)|Determines whether lines of text break automatically to fit inside the shape. Read/write|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

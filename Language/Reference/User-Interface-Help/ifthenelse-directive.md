@@ -77,3 +77,5 @@ This example references conditional compiler constants in an **#If...Then...#Els
 - [Compiler constants](../../concepts/getting-started/compiler-constants.md)
 - [Declaring constants](../../concepts/getting-started/declaring-constants.md)
 - [Using constants](../../concepts/getting-started/using-constants.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Series.MarkerForegroundColorIndex Property (PowerPoint)](http://msdn.microsoft.com/library/85535a03-fb8c-fe76-9b67-ef60d51987b1%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

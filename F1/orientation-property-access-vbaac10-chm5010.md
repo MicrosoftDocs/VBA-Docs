@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Form.Orientation property (Access)](http://msdn.microsoft.com/library/25a13b75-48b7-69bd-4d70-e9aa8a94652e%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

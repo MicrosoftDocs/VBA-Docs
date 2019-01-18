@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ApplicationSettings.RasterExportDataCompression Property (Visio)](http://msdn.microsoft.com/library/fea9d5c6-a887-04eb-2293-f46b99eefc4a.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

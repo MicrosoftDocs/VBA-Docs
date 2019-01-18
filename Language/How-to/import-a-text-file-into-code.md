@@ -30,3 +30,5 @@ You can import a text file containing code into the current [module](../Glossary
 ## See also
 
 - [Visual Basic how-to topics](../reference/user-interface-help/visual-basic-how-to-topics.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

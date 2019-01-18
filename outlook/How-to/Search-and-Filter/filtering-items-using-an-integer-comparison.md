@@ -28,4 +28,4 @@ criteria = "[Importance] = " _ & CStr(Outlook.OlImportance.olImportanceHigh)
 criteria = "@SQL=" & Chr(34) & "urn:schemas:httpmail:importance" _ & Chr(34) & " = 2"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

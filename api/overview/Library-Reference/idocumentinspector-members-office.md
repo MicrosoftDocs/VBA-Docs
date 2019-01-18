@@ -20,3 +20,4 @@ Represents the interface through which the methods of a **IDocumentInspector** o
 |[GetInfo](../../Office.IDocumentInspector.GetInfo.md)|Gets information about a custom Document Inspector module.|
 |[Inspect](../../Office.IDocumentInspector.Inspect.md)|Inspects a document for specific information items or document properties by using a custom Document Inspector module.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

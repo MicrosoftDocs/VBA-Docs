@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.Top property (Access)](http://msdn.microsoft.com/library/7bce7df5-2c37-ac6e-9788-f6a5a0d26940%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

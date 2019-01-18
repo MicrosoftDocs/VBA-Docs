@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [NavigationButton.ShortcutMenuBar property (Access)](http://msdn.microsoft.com/library/bfc92fea-48ef-e995-53c4-be0354de1550%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.ScheduleFromStart Property (Project)](http://msdn.microsoft.com/library/e6f792cf-3b91-9bcd-92c0-e9b2418477d0%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

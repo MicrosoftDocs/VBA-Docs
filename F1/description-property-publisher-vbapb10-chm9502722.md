@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [CaptionStyle.Parent Property (Publisher)](http://msdn.microsoft.com/library/b159947a-fe70-0737-e156-a5f9b413796c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

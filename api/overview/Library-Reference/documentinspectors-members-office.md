@@ -22,3 +22,4 @@ Represents a collection of **DocumentInspector** objects.
 |[Item](../../Office.DocumentInspectors.Item.md)|Gets the **DocumentInspector** object specified by the index. Read-only.|
 |[Parent](../../Office.DocumentInspectors.Parent.md)|Gets an object that represents the parent of a **DocumentInspectors** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,4 +58,4 @@ End Sub
 
 Run the InitializeApp procedure. After the procedure is run, the App object in the class module points to the Microsoft Office PowerPoint **Application** object, and the event procedures in the class module will run when the events occur.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

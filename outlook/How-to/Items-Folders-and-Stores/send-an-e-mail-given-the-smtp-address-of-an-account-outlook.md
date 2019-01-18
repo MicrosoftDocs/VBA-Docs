@@ -114,4 +114,4 @@ Namespace OutlookAddIn2
 End Namespace
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

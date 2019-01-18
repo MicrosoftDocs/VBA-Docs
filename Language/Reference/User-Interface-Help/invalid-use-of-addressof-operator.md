@@ -28,3 +28,5 @@ For additional information, select the item in question and press F1 (in Windows
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

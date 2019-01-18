@@ -35,4 +35,4 @@ Dim dblX As Double
 dblX = DAvg("[UnitPrice] * [Discount]", "[Order Details]")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

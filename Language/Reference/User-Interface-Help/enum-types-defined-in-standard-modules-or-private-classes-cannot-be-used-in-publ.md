@@ -21,3 +21,4 @@ This error has the following cause and solution:
 
 Exposed here means that the enum is exposed from the ActiveX server that is being defined, which is equivalent to saying that it is declared in a public class of an ActiveX Exe or Dll project.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

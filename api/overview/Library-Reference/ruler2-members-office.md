@@ -22,3 +22,4 @@ Represents the ruler for the text in the specified shape or for all text in the 
 |[Parent](../../Office.Ruler2.Parent.md)|Gets the **Parent** object for the **Ruler2** object. Read-only.|
 |[TabStops](../../Office.Ruler2.TabStops.md)|Gets a **TabStops2** collection that represents the tab stops for the specified text. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

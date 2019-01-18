@@ -22,3 +22,4 @@ Represents a namespace prefix.
 |[Parent](../../Office.CustomXMLPrefixMapping.Parent.md)|Gets the **Parent** object of the **CustomXMLPrefixMapping** object. Read-only.|
 |[Prefix](../../Office.CustomXMLPrefixMapping.Prefix.md)|Gets the prefix for a **CustomXMLPrefixMapping** object. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

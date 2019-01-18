@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [TextBox.GotFocus event (Access)](http://msdn.microsoft.com/library/bc5d12a2-476b-a91d-2ad4-cdd6f46dd44c%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

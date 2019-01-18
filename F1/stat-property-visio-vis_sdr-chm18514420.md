@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [ValidationIssues.Stat Property (Visio)](http://msdn.microsoft.com/library/b1b92228-c844-4bdb-60d3-8fde3a5fc1c3%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

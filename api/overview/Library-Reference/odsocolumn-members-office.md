@@ -23,3 +23,4 @@ Represents a field in a data source. The **ODSOColumn** object is a member of th
 |[Parent](../../Office.ODSOColumn.Parent.md)|Gets the **Parent** object for the **ODSOColumn** object. Read-only.|
 |[Value](../../Office.ODSOColumn.Value.md)|Gets the value of a data field in a mail merge data source. Read-only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

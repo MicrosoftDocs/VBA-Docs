@@ -22,4 +22,4 @@ Item.GetInspector.ModifiedFormPages("Test").Checkbox1.Name = "Selection"
 
  **Note**  Each control should have a unique name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

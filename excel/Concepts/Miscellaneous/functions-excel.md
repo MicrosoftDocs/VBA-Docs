@@ -39,5 +39,5 @@ localization_priority: Normal
 -  [SolverSave Function](../Functions/solversave-function.md)
     
 -  [SolverSolve Function](../Functions/solversolve-function.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

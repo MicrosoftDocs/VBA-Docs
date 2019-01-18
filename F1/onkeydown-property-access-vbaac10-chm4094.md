@@ -31,4 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [ToggleButton.OnKeyDown property (Access)](http://msdn.microsoft.com/library/b6a167f8-a6a3-a0b1-e04f-7bf1b595c318%28Office.15%29.aspx)
 - [WebBrowserControl.OnKeyDown property (Access)](http://msdn.microsoft.com/library/43e45acd-33a4-a740-b733-516e8f6c3c83%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

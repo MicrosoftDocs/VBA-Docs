@@ -49,3 +49,4 @@ localization_priority: Normal
 |[Visible](../../Office.CommandBarButton.Visible.md)|Gets or sets the  **Visible** property of the **CommandBarButton** control. **True** if the **CommandBarButton** is visible. Read/write.|
 |[Width](../../Office.CommandBarButton.Width.md)|Gets or sets the width (in pixels) of the specified  **CommandBarButton** control. Read/write.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

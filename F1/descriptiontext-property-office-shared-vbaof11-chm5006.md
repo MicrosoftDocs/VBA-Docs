@@ -19,3 +19,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [CommandBarComboBox.DescriptionText Property (Office)](http://msdn.microsoft.com/library/e06b5800-eecd-6863-68f7-9b88d3c4696b%28Office.15%29.aspx)
 - [CommandBarPopup.DescriptionText Property (Office)](http://msdn.microsoft.com/library/81a6b11d-40ea-d17d-4a28-ca423a3e29ec%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

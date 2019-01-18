@@ -116,4 +116,4 @@ End Sub
 - [Statements](../statements.md)
 - [Visual Basic Editor (VBE) Glossary](../../Glossary/vbe-glossary.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

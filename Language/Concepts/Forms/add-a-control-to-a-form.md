@@ -26,3 +26,4 @@ Use any of the following methods to add a control from the **[Toolbox](../../ref
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

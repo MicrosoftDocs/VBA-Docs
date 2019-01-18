@@ -13,3 +13,4 @@ You cannot customize the default pages of a distribution list form. Because the 
 
 You can customize the first page of a form by adding an adjoining form region or by using form regions to replace existing form pages. For more information, see  [Form Regions](../Outlook-Forms/form-regions.md).
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

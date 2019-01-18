@@ -26,3 +26,4 @@ Specifies the application capabilities available for a document or presentation 
 |**BroadcastCapSupportsUpdateDoc**|**4**||
 |Name|Value|Description|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

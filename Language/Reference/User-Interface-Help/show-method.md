@@ -78,3 +78,5 @@ End Sub
 
 - [ShowModal property](showmodal-property.md)
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

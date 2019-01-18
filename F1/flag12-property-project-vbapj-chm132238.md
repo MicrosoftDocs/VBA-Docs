@@ -21,3 +21,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 [Task.Flag12 Property (Project)](http://msdn.microsoft.com/library/6a924ae6-6390-d17a-c533-df0a69164229%28Office.15%29.aspx)
 [Selection.FieldIDList Property (Project)](http://msdn.microsoft.com/library/9a9549ca-466c-6536-3a19-d0e056227bfd%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

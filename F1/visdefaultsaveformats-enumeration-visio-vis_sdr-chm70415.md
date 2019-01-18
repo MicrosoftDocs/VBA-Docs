@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [VisDefaultSaveFormats Enumeration (Visio)](http://msdn.microsoft.com/library/0e2b7c41-c1ec-6c9e-b9a2-76f2fe52abd5%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

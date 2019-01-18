@@ -57,5 +57,4 @@ Information to help you get started with Visual Basic programming.
 - [Write executable statements](../../Concepts/Getting-Started/writing-executable-statements.md)
 - [Write Visual Basic statements](../../Concepts/Getting-Started/writing-visual-basic-statements.md)
 
-    
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.ProjectBeforeAssignmentDelete Event (Project)](http://msdn.microsoft.com/library/f0db513e-3dec-e9d6-8385-ac0117e8f28e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

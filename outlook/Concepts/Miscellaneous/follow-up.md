@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [Setting Items for Follow-up](../Electronic-Business-Cards/setting-items-for-follow-up.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

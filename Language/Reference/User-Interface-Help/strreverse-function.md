@@ -23,3 +23,5 @@ The _expression_ argument is the string whose characters are to be reversed. If 
 ## See also
 
 - [Functions (Visual Basic for Applications)](../functions-visual-basic-for-applications.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

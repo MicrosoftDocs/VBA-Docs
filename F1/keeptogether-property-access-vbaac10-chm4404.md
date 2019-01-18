@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Section.KeepTogether property (Access)](http://msdn.microsoft.com/library/dbe3780b-2150-4b4c-d8bf-5685ab48181e%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

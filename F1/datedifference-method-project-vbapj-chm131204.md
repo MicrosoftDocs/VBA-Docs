@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Application.SetSidepaneStateButton Method (Project)](http://msdn.microsoft.com/library/21603c44-d9f3-96b6-ee42-df17eb58287a%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

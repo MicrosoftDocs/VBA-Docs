@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [AutoCorrectEntries object (Word)](http://msdn.microsoft.com/library/3823f96c-f600-d279-2592-253025ad63ff%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

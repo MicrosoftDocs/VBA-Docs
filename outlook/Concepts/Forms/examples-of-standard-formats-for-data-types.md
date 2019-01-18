@@ -38,4 +38,4 @@ You can format fields that you create with different formats based on the data t
 
  **Note**  Values entered in a field of a  **Duration** data type with a regular format assume a 24-hour day.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

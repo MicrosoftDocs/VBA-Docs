@@ -13,6 +13,6 @@ Although you can add a control to a form and then bind the control to a field, i
 
 Microsoft Outlook displays the  **Field Chooser** whenever you open a form in design mode. For more information, see [Run in Developer Mode in Outlook](../../How-to/Using-Visual-Basic-to-Customize-Outlook-Forms/run-in-developer-mode-in-outlook.md).
 
- **Note**  
+ **Note**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [Assignment.Baseline1Finish Property (Project)](http://msdn.microsoft.com/library/92141961-5d2c-4fb8-8924-065e1b3bddb6%28Office.15%29.aspx)
 - [Task.Baseline1Finish Property (Project)](http://msdn.microsoft.com/library/36586b44-ed03-071f-3c1a-14d3ef298b07%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

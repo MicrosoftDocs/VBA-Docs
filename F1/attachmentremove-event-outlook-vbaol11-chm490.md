@@ -31,3 +31,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 - [TaskRequestItem.AttachmentRemove Event (Outlook)](http://msdn.microsoft.com/library/eaaf22ec-08d0-42c6-2d20-2f146d475445%28Office.15%29.aspx)
 - [TaskRequestUpdateItem.AttachmentRemove Event (Outlook)](http://msdn.microsoft.com/library/915b452e-e872-6258-0ee1-d5b973200d34%28Office.15%29.aspx)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

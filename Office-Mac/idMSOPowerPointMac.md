@@ -712,3 +712,5 @@ Office 2016 for Mac apps do not support some of the idMSOs that Office for Windo
 |ZoomClassic|gallery|
 |ZoomDialog|button|
 |ZoomFitToWindow|button|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

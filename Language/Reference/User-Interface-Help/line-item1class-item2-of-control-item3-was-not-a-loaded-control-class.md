@@ -14,4 +14,4 @@ localization_priority: Normal
 
 The ASCII file contains a control class that Visual Basic doesn't recognize. Add the custom control with this [class](../../Glossary/vbe-glossary.md#class) to your[project](../../Glossary/vbe-glossary.md#project).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

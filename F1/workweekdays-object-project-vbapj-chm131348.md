@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [WeekDays Object (Project)](http://msdn.microsoft.com/library/757437a0-e2ff-0027-f044-87d1cb357f62%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

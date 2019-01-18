@@ -72,3 +72,5 @@ MyCheck = A Or B    ' Returns 10 (bitwise comparison).
 ## See also
 
 - [Operator summary](operator-summary.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

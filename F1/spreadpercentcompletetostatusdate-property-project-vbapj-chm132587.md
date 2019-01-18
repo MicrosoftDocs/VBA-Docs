@@ -18,4 +18,4 @@ Hi there! You have landed on one of our F1 Help redirector pages. Please select 
 
 [Project.RevisionNumber Property (Project)](http://msdn.microsoft.com/library/1093ffd7-da1c-30d5-03af-d43a49554831%28Office.15%29.aspx)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,4 +14,4 @@ localization_priority: Normal
 
 You attempted to load a [control](../../Glossary/vbe-glossary.md#control) into a control which isn't a valid[container](../../Glossary/vbe-glossary.md#container).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -92,4 +92,4 @@ Next
 
 Use the **Align** and **Distribute** methods to position a set of shapes relative to one another or relative to the document that contains them. Use the **Group** method or the **Regroup** method to form a single grouped shape from a set of shapes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

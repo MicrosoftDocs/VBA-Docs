@@ -25,4 +25,4 @@ localization_priority: Normal
 
  **Note**  Each person who uses the form must have permission to access the public folder that you specify in the  **To** field.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

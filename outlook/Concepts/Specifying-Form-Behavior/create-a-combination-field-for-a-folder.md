@@ -34,7 +34,5 @@ localization_priority: Normal
 12. To position the field between the other fields in the view, click the field, and then click **Move Up** or **Move Down**. 
     
 13. To remove the field from the view, click **Remove**.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

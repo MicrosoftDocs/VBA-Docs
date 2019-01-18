@@ -51,5 +51,5 @@ The following functions can be used to control the Solver add-in from VBA. Each 
 -  [SolverSave Function](solversave-function.md)
     
 -  [SolverSolve Function](solversolve-function.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
