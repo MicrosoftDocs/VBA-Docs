@@ -50,3 +50,4 @@ End With
 
 [CustomView Object](Excel.CustomView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

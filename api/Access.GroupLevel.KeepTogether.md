@@ -50,3 +50,4 @@ If the  **KeepTogether** property for a section is set to No and the **KeepToget
 
 [GroupLevel Object](Access.GroupLevel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

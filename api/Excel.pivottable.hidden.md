@@ -37,3 +37,4 @@ When the  **Hidden** property is set to **True** , the PivotTable object is hidd
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

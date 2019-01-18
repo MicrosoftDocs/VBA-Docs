@@ -31,4 +31,4 @@ Returns the  **DataRecordset** object associated with the **DataRecordsetChanged
 
 DataRecordset
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

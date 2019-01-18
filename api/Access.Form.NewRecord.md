@@ -51,3 +51,4 @@ Sub NewRecordMark(frm As Form)
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

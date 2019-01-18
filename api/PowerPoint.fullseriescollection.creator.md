@@ -21,4 +21,4 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
  _expression_ A variable that represents a [FullSeriesCollection](PowerPoint.fullseriescollection.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

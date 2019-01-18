@@ -42,3 +42,4 @@ _expression_ A variable that represents a [TimelineState](Excel.timelinestate.md
 
 [TimelineState Object](Excel.timelinestate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

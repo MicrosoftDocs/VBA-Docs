@@ -34,3 +34,4 @@ Setting this property to  **True** (default) will have no immediate visual effec
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

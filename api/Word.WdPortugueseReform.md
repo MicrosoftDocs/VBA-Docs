@@ -21,3 +21,4 @@ Specifies the mode for the Brazilian or European Portuguese spellers. Read/write
 | **wdPortuguesePostReform**|2|Use the post-reform spelling rules.|
 | **wdPortuguesePreReform**|1|Use the pre-reform spelling rules.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

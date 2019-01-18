@@ -29,3 +29,4 @@ Returns a  **[SoftEdgeFormat](Publisher.softedgeformat.md)** object that represe
 
  [ShapeRange Object](Publisher.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

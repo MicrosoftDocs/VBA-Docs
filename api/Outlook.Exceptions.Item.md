@@ -42,3 +42,4 @@ An  **Exception** object that represents the specified object.
 
 [Exceptions Object](Outlook.Exceptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

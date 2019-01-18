@@ -24,3 +24,4 @@ Specifies the type of query used by Microsoft Excel to populate the query table 
 | **xlTextImport**|6|Based on a text file, for query tables only|
 | **xlWebQuery**|4|Based on a Web page, for query tables only|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ ActiveDocument.Paragraphs(1).TabStops(1).Clear
 
 [TabStop Object](Word.TabStop.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

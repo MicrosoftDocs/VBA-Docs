@@ -58,3 +58,4 @@ With ActiveDocument
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

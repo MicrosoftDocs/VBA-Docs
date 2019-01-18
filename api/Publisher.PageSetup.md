@@ -50,3 +50,4 @@ End Sub
 |[TopMargin](./Publisher.PageSetup.TopMargin.md)|
 |[VerticalGap](./Publisher.PageSetup.VerticalGap.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

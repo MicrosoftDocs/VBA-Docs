@@ -52,6 +52,4 @@ Application.XMLNamespaces.InstallManifest _
 
 ## See also
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

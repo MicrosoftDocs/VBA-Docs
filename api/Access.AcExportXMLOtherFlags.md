@@ -27,3 +27,4 @@ Use with the  **ExportXML** method to specify other behaviors associated with ex
 |**acPersistReportML**|16|Persists the exported object's ReportML information.|
 |**acRunFromServer**|4|Creates an Active Server Pages (ASP) wrapper; otherwise, default is an HTML wrapper. Applies only when you are exporting reports.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

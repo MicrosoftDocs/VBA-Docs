@@ -54,3 +54,4 @@ You can specify how vertical text will be displayed, edited, or printed in the c
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

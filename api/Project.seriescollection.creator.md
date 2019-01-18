@@ -32,3 +32,5 @@ If the chart was created in Microsoft Project, the  **Creator** property returns
 
 [SeriesCollection Object](Project.seriescollection.md)
 [Chart.Creator Property](Project.chart.creator.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

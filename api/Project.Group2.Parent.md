@@ -31,3 +31,4 @@ Use the  **Parent** property to access the properties or methods of an object's 
 
 [Group2 Object](Project.Group2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

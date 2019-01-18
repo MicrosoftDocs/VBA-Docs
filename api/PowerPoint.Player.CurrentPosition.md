@@ -29,3 +29,4 @@ Gets or sets a  **Long** that represents the current position of the player in t
 
 [Player Object](PowerPoint.Player.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

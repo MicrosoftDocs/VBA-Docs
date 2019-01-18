@@ -83,4 +83,4 @@ In rare cases, Visio 5.0 or later versions may insert a control whereas earlier 
 > [!CAUTION] 
 > Modifying the registry in any manner, whether through the Registry Editor or programmatically, always carries some degree of risk. Incorrect modification can cause serious problems that may require you to reinstall your operating system. It is a good practice to always back up a computer's registry first before modifying it. If you are running Microsoft Windows NT or Microsoft Windows 2000, you should also update your Emergency Repair Disk (ERD).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

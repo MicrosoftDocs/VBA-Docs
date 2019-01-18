@@ -94,3 +94,4 @@ End Sub
 
 [UserProperties Object](Outlook.UserProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies the position of a new frame in relation to an existing frame.
 | **wdFramesetNewFrameLeft**|3|To the left of existing frame.|
 | **wdFramesetNewFrameRight**|2|To the right of existing frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

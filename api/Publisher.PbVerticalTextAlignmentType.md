@@ -24,3 +24,4 @@ Represents the vertical alignment of text in a text box.
 | **pbVerticalTextAlignmentCenter**|1|Text is aligned to the center.|
 | **pbVerticalTextAlignmentTop**|0|Text is aligned to the top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

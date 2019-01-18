@@ -46,4 +46,4 @@ If the current view is a task view, the following example highlights the critica
 ActiveProject.TaskFilters("Critical").Apply Highlight:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

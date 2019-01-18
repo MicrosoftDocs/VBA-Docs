@@ -34,3 +34,4 @@ To support backward compatibility, the default value for this property is  **Tru
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

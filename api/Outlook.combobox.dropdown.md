@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 Use the  **DropDown** method to open the list in a combo box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

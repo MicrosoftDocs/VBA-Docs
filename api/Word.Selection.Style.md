@@ -34,3 +34,4 @@ When you return the style for a selection that includes more than one style, onl
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

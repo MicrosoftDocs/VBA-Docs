@@ -23,3 +23,4 @@ Specifies the current source of the list.
 | **xlSrcRange**|1|Range|
 | **xlSrcXml**|2|XML|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

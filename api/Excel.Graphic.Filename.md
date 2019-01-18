@@ -45,3 +45,4 @@ ActiveWorkbook.PublishObjects(1).FileName = _
 
 [Graphic Object](Excel.Graphic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

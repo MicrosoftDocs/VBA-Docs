@@ -67,3 +67,4 @@ Next
 
 [Hyperlinks Object](PowerPoint.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

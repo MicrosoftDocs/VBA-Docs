@@ -73,3 +73,4 @@ Me!Expected.ControlSource = "=Date() + 7"
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

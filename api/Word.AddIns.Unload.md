@@ -52,3 +52,4 @@ If AddIns.Count > 0 Then AddIns.UnLoad RemoveFromList:=False
 
 [AddIns Collection Object](Word.addins.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

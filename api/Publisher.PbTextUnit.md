@@ -38,3 +38,4 @@ The unit by which to expand a range.
 | **pbTextUnitWindow**|11|Expand by a window|
 | **pbTextUnitWord**|2|Expand by a word|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

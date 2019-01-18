@@ -25,4 +25,4 @@ Gets or sets a  **[ViewsSingle](Project.ViewSingle.md)** collection representing
 
  You can also add a single view to the enterprise global template. First open the enterprise global template, making it the active project, and then run the **Add** method of the **ViewsSingle** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

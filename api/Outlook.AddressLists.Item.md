@@ -42,3 +42,4 @@ An  **AddressList** object that represents the specified object.
 
 [AddressLists Object](Outlook.AddressLists.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

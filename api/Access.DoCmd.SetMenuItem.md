@@ -49,3 +49,4 @@ You can use the  **SetMenuItem** method to set the state of menu items (enabled 
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

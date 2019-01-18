@@ -39,3 +39,4 @@ Returns  **True** if the range contains merged cells.
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

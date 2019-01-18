@@ -34,3 +34,4 @@ The format code is the same string as the  **Format Codes** option in the **Form
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

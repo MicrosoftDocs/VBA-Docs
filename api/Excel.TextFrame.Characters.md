@@ -61,3 +61,4 @@ End With
 
 [TextFrame Object](Excel.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

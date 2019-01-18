@@ -23,4 +23,4 @@ To get a  **ValidationRules** collection, use the **[Rules](Visio.ValidationRule
 
 The default property of the  **ValidationRules** collection is **[Item](Visio.ValidationRules.Item.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

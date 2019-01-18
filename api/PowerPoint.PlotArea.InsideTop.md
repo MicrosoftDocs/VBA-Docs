@@ -68,3 +68,4 @@ End With
 
 [PlotArea Object](PowerPoint.PlotArea.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

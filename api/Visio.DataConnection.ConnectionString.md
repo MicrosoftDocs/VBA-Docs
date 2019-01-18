@@ -40,4 +40,4 @@ The easiest way to determine an appropriate connection string for a particular d
 
 Setting the  **ConnectionString** property to a new value has no effect on data already in any data recordsets. To update the data in a data recordset using a new **ConnectionString** setting, call the **[DataRecordset.Refresh](Visio.DataRecordset.Refresh.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

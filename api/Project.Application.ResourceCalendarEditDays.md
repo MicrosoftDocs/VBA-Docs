@@ -57,4 +57,4 @@ Edits days in a resource calendar.
 
 The  **ResourceCalendarEditDays** method returns a trappable error (error code 1101) when applied to material resources.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

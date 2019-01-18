@@ -44,3 +44,4 @@ The event occurs after the new  **Inspector** object is created but before the i
 
 [Inspectors Object](Outlook.Inspectors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

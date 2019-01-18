@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [MultiPage.Click Event (Outlook Forms Script)](Outlook.multipage.click.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,4 @@ Long
 
 [ThemeColorScheme Object Members](./overview/Library-Reference/themecolorscheme-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

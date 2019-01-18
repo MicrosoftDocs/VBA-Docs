@@ -43,3 +43,4 @@ If the navigation folder has been removed from the Navigation Pane, then this pr
 
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

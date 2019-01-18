@@ -33,4 +33,4 @@ Master
 
 If this  **Master** object is not an open copy of another **Master** object, the **Original** property returns **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

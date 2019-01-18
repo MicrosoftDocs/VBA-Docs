@@ -34,3 +34,4 @@ Not all properties of the  **Font** object are supported for a conditional forma
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

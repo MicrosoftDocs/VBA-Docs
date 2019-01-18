@@ -32,3 +32,4 @@ Indicates the  **Task Inspector** for use with engagement data. Introduced in Of
 
 [Application Object (Project)](Project.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

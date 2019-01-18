@@ -29,3 +29,4 @@ _expression_ A variable that represents a [DisplayUnitLabel](Excel.DisplayUnitLa
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

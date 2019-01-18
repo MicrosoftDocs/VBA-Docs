@@ -44,3 +44,4 @@ End If
 
 [TreeviewControl Object](Excel.TreeviewControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

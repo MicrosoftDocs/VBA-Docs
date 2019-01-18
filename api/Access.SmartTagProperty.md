@@ -43,3 +43,5 @@ To return a  **SmartTagProperty** object, use the **Item** method of the **Smart
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

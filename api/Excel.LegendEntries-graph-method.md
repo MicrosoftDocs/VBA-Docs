@@ -31,4 +31,4 @@ This example sets the font for legend entry one.
 myChart.Legend.LegendEntries(1).Font.Name = "Arial"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

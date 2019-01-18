@@ -54,3 +54,4 @@ Range("$A$1:$A$4").SparklineGroups.Add Type:=xlSparkColumn, SourceData:= _
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

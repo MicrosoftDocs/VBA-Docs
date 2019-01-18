@@ -40,3 +40,4 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

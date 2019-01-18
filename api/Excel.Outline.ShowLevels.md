@@ -59,3 +59,4 @@ Worksheets("Sheet1").Outline _
 
 [Outline Object](Excel.Outline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

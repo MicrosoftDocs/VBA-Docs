@@ -50,3 +50,4 @@ End With
 
 [ActionSettings Object](PowerPoint.ActionSettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

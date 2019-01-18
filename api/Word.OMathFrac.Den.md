@@ -29,3 +29,4 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the denominator fo
 
 [OMathFrac Object](Word.OMathFrac.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

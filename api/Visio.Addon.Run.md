@@ -42,8 +42,6 @@ Nothing
 If the add-on is implemented by an EXE file, the arguments are passed in the command line string. If the add-on is implemented by a VSL file, the arguments are passed in a member of the argument structure that accompanies the run message sent to the  **VisioLibMain** procedure of the VSL.
 
 
- **Security Note**  
+ **Security Note**
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Action codes to be passed to the  **Shape.UniqueID** property.
 | **visGetOrMakeGUID**|1|Return the unique ID string of the shape. If the shape does not already have a unique ID, assign one to the shape and return the new ID. |
 | **visGetOrMakeGUIDWithUndo**|3|Return the unique ID string of the shape. If the shape does not already have a unique ID, assign one to the shape and return the new ID. Undoable.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ You can implement an encryption provider by creating a custom COM add-in. Within
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

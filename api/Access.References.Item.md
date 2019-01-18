@@ -63,3 +63,4 @@ Debug.Print References.Item(1).Name
 
 [References Collection](Access.References.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

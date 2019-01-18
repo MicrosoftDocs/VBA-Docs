@@ -25,3 +25,4 @@ Represents the type of story.
 | **pbStoryTable**|0|Story table.|
 | **pbStoryTextFrame**|1|Story text frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [Adjustments](Excel.Adjustments.md) o
 
 [Adjustments Object](Excel.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

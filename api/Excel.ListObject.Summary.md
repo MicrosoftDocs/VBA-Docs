@@ -41,3 +41,4 @@ The value of the  **Summary** property corresponds to the setting of the **Descr
 [Range Object](Excel.Range(object).md)
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

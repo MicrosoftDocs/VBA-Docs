@@ -73,4 +73,4 @@ Sub BoxFormat_Color()
  Backgroundcolor:=pjBlue, BorderColor:=pjRed
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

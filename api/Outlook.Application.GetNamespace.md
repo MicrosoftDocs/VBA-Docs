@@ -73,4 +73,4 @@ End Sub
 
 [How to: Obtain and Log On to an Instance of Outlook](../outlook/How-to/Security/obtain-and-log-on-to-an-instance-of-outlook.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

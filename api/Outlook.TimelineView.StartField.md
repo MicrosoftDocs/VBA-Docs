@@ -34,3 +34,4 @@ The values of the  **StartField** and **[EndField](Outlook.TimelineView.EndField
 
 [TimelineView Object](Outlook.TimelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

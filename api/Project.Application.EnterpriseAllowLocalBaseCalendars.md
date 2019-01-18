@@ -30,4 +30,4 @@ To enable projects to use local calendars, click  **Allow projects to use local 
 
 The  **EnterpriseAllowLocalBaseCalendars** property is available only in Project Professional.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

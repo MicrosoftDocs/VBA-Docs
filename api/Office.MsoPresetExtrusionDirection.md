@@ -28,3 +28,4 @@ Specifies the direction that the extrusion's sweep path takes away from the extr
 |**msoExtrusionTopRight**|7|Upper right.|
 |**msoPresetExtrusionDirectionMixed**|-2|Return value only; indicates a combination of the other states. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

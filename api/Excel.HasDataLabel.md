@@ -30,4 +30,4 @@ With myChart.SeriesCollection(3).Points(7)
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,6 +35,6 @@ Displays a specified user's default folder in the control.
 
 ## Remarks
 
-An error occurs if the user running the control does not have permission to access the specified folder. 
+An error occurs if the user running the control does not have permission to access the specified folder.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

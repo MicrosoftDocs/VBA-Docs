@@ -34,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

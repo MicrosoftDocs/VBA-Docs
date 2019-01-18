@@ -41,3 +41,4 @@ MsgBox "Welcome to Microsoft Excel version " & _
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

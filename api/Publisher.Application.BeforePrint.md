@@ -77,3 +77,4 @@ End Sub
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

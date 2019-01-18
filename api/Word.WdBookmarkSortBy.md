@@ -20,3 +20,4 @@ Specifies the sorting option for bookmark names displayed in the  **Bookmark** d
 | **wdSortByLocation**|1|Sorted by location in document.|
 | **wdSortByName**|0|Sorted by bookmark name.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

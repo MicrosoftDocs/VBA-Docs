@@ -48,3 +48,4 @@ End If
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

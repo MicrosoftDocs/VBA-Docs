@@ -34,3 +34,4 @@ Setting this property to  **True** will result in a run-time error if the active
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ Quick Style shape-style constants passed to the [Selection.SetQuickStyle](Visio.
 | **visQuickStyleMatrixVariant3**| **102**|Matrix variant 3|
 | **visQuickStyleMatrixVariant4**| **103**|Matrix variant 4|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ For ODBC sources, setting the  **CommandText** causes the data to be refreshed.
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,5 @@ Adds a  **PayRate** object to a **PayRates** collection.
 
 
 [PayRates Collection Object](Project.payrates.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

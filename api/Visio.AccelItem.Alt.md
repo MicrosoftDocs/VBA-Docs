@@ -28,4 +28,4 @@ Determines whether the ALT key is a modifier for an accelerator. Read/write.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

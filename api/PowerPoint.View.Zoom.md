@@ -49,3 +49,4 @@ Windows(1).View.Zoom = 30
 
 [View Object](PowerPoint.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

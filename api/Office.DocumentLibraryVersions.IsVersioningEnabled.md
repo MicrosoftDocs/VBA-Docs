@@ -53,3 +53,5 @@ The following example displays the number of saved versions of the active docume
 ## See also
 
 - [DocumentLibraryVersions object members](overview/library-reference/documentlibraryversions-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

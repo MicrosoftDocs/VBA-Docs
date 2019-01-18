@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [JournalModule Object](Outlook.JournalModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

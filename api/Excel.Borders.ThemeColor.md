@@ -34,3 +34,4 @@ Attempting to access a theme color for an object whose color is not currently th
 
 [Borders Collection](Excel.Borders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

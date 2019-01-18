@@ -47,3 +47,4 @@ If the  **KeepTogether** property for a group is set to Whole Group or With Firs
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

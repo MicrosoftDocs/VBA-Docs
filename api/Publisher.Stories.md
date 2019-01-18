@@ -76,3 +76,4 @@ stFirst = Application.ActiveDocument.Stories(1)
 |[Count](Publisher.Stories.Count.md)|
 |[Parent](Publisher.Stories.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

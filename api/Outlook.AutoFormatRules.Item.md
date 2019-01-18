@@ -42,3 +42,4 @@ An  **AutoFormatRule** object that represents the specified object.
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

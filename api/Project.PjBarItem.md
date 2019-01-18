@@ -29,3 +29,4 @@ Contains constants that specify a bar item type.
 |**pjBarProjectSummary**|7|Project summary bar item.|
 |**pjBarSummary**|2|Summary bar item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

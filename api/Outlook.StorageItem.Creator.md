@@ -34,3 +34,4 @@ Outlook does not set the  **Creator** property. Use the **Creator** property to 
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

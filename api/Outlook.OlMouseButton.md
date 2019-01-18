@@ -24,3 +24,4 @@ Indicates which mouse button is pressed during a mouse event.
 | **olMouseButtonRight**|2|Indicates that the secondary (right) button on a mouse is pressed during the event.|
 | **olMouseButtonMiddle**|4|Indicates that the middle button on a mouse is pressed during the event.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

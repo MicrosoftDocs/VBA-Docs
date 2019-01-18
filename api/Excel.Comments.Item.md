@@ -52,3 +52,4 @@ Worksheets(1).Comments.Item(2).Visible = False
 
 [Comments Object](Excel.Comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

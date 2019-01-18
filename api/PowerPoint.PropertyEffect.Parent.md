@@ -50,3 +50,4 @@ End With
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

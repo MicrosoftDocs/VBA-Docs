@@ -61,3 +61,4 @@ End With
 
 [ShapeNodes Object](PowerPoint.ShapeNodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

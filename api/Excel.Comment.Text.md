@@ -44,3 +44,4 @@ String
 
 [Comment Object](Excel.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

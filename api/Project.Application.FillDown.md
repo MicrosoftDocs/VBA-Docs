@@ -36,4 +36,4 @@ Fills the selected cells or rows with the values in the specified cell or row of
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

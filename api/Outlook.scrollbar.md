@@ -25,4 +25,4 @@ The default property for a  **ScrollBar** is the **Value** property.
 
 To create a horizontal or vertical  **ScrollBar**, drag the sizing handles of the  **ScrollBar** horizontally or vertically on the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

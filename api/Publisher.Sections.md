@@ -105,3 +105,4 @@ Next i
 |[Item](Publisher.Sections.Item.md)|
 |[Parent](Publisher.Sections.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

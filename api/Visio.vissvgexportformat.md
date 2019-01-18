@@ -27,3 +27,4 @@ Constants passed to and returned by the [ApplicationSettings.SVGExportFormat](Vi
 
 [ApplicationSettings.SVGExportFormat](Visio.applicationsettings.svgexportformat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

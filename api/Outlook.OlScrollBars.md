@@ -25,3 +25,4 @@ Specifies which, if any, scroll bars to display for a control.
 | **olScrollBarsNone**|0|Display no scroll bars.|
 | **olScrollBarsVertical**|2|Display a vertical scroll bar only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,4 @@ The settings for SpecialEffect are:
 
 Although the  **SpecialEffect** property exists on the **ToggleButton**, the property is disabled. You cannot set or return a value for this property on the  **ToggleButton** **ToggleButton**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

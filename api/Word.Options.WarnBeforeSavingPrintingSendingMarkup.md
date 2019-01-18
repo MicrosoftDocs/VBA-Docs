@@ -54,3 +54,4 @@ EndSub
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

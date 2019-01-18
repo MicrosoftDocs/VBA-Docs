@@ -25,4 +25,4 @@ This example deletes row three on the datasheet.
 myChart.Application.DataSheet.Rows(3).Delete
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

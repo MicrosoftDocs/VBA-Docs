@@ -39,3 +39,4 @@ The value returned by the  **ContainedType** property can be one of the **[MsoSh
 
 [PlaceholderFormat Object](PowerPoint.PlaceholderFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

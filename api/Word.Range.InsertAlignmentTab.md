@@ -48,3 +48,4 @@ Selection.Range.InsertAlignmentTab 1, 1
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

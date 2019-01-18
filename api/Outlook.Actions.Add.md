@@ -66,3 +66,4 @@ End Sub
 
 [Actions Object](Outlook.Actions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

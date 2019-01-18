@@ -38,3 +38,4 @@ SignatureSetup
 
 [Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ Attempting to return this property for a line that doesn't have a gradient gener
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

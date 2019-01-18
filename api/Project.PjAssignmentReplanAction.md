@@ -20,3 +20,4 @@ Contains constants that specify the replan action for assignments.
 |**pjConstrainToMaxUnitsByDecreasingWork**|1|Constrain assignments to the maximum units by decreasing work.|
 |**pjConstrainToMaxUnitsByIncreasingDuration**|0|Constrain assignments to the maximum units by increasing duration.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,3 +66,4 @@ The value of the  **Layout** property can be one of these **PpSlideLayout** cons
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

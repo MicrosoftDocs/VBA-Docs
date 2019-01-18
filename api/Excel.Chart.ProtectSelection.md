@@ -46,3 +46,4 @@ Worksheets(1).ChartObjects(1).Chart.ProtectSelection = True
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

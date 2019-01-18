@@ -102,3 +102,4 @@ This section contains documentation for the enumerations in the Publisher object
 - [PbWrapType](Publisher.PbWrapType.md)
 - [PbZoom](Publisher.PbZoom.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

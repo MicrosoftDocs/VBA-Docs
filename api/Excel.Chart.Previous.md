@@ -36,3 +36,4 @@ On a protected sheet, this property returns the previous unlocked cell. On an un
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ Open → Load → Resize → Activate → Current
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

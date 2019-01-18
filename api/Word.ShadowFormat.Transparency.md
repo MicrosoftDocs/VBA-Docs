@@ -43,3 +43,4 @@ End With
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Specifies the type of item to be cross referenced.
 | **wdRefTypeHeading**|1|Heading.|
 | **wdRefTypeNumberedItem**|0|Numbered item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

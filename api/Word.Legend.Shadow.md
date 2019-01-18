@@ -29,3 +29,4 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
 [Legend Object](Word.Legend.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

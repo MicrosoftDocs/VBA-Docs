@@ -36,3 +36,4 @@ Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** proper
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

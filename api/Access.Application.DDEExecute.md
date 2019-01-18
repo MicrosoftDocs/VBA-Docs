@@ -49,3 +49,4 @@ If you need to manipulate another application's objects from Microsoft Access, y
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

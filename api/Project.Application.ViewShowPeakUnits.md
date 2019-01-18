@@ -33,4 +33,4 @@ Displays peak units information in the active Resource Graph view.
 
 The  **ViewShowPeakUnits** method has no effect unless the active window contains the Resource Graph view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

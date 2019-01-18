@@ -21,3 +21,4 @@ Specifies how numeric data will be calculated with the destinations cells in the
 | **xlPasteSpecialOperationNone**|-4142|No calculation will be done in the paste operation.|
 | **xlPasteSpecialOperationSubtract**|3|Copied data will be subtracted from the value in the destination cell.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

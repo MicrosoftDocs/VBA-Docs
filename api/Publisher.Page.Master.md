@@ -60,4 +60,4 @@ ActiveDocument.Pages(1).Master = _
  ActiveDocument.Pages(2).Master
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

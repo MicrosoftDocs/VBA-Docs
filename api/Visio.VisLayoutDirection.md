@@ -25,3 +25,4 @@ Specifies constants that define the layout directions for a diagram or selection
 | **visLayoutDirFlipVert**|2|Flips the diagram or selection vertically.|
 | **visLayoutDirFlipHorz**|3|Flips the diagram or selection horizontally.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ Setting the formula for a multiple-cell range fills all cells in the range with 
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

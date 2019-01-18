@@ -46,3 +46,4 @@ Me.ctl.BorderTint=25
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

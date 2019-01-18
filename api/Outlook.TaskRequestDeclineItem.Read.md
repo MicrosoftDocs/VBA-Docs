@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.TaskRequestDeclineItem.Ope
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

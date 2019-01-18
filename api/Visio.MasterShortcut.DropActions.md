@@ -46,4 +46,4 @@ Angle=45; FillForegnd=7; Width=(ThePage!PageWidth / 2 - 4cm)
 
 The application does not validate drop actions until they are applied to a new shape. If the  **DropActions** property contains syntax errors or invalid cell names, the offending actions are ignored. However, if the application is running in developer mode, an error message is displayed that identifies the invalid action and the cause of the error. When using shortcut drop actions in your code, always test your shortcuts in [developer mode](../visio/How-to/run-visio-in-developer-mode.md) to make sure the drop actions do not contain errors.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

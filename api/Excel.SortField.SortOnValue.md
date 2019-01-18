@@ -81,3 +81,4 @@ SortField.SetIcon ActiveWorkbook.IconSets(1).Item(3)
 
 [SortField Object](Excel.SortField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

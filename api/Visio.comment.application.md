@@ -24,3 +24,4 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 [Comment Object](Visio.comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

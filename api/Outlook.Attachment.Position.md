@@ -38,3 +38,4 @@ The only item that allows programmatic setting of the  **BodyFormat** property i
 
 [Attachment Object](Outlook.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

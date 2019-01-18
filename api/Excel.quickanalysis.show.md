@@ -59,3 +59,4 @@ When [xlQuickAnalysisMode enumeration (Excel)](Excel.xlquickanalysismode.md) is 
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

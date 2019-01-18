@@ -56,4 +56,4 @@ If the active view is the Resource Sheet, the following statement copies the res
 TableCopy Name:="Copy of Resource Sheet table"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

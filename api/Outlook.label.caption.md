@@ -29,4 +29,4 @@ The  **[ForeColor](Outlook.label.forecolor.md)** property of the control determi
 
 Setting  **[AutoSize](Outlook.label.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

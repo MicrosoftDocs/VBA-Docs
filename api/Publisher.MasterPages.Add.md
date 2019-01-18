@@ -52,4 +52,4 @@ ActiveDocument.MasterPages.Add _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -112,3 +112,5 @@ Use the  **OrganizerCopy** method to copy styles between documents and templates
 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

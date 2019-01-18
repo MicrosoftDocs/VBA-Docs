@@ -62,3 +62,4 @@ Set objBB = objTemplate.BuildingBlockEntries.Add("Author Name", _
 
 [BuildingBlockEntries Collection](Word.BuildingBlockEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

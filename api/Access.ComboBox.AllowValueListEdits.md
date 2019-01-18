@@ -40,3 +40,4 @@ The  **AllowValueEditLists** property is not available for combo boxes on a repo
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

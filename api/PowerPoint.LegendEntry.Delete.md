@@ -26,3 +26,4 @@ Deletes the object.
 
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,3 +59,4 @@ End Sub
 
 [Rectangle Object](Access.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,4 @@ A continuous range associated with a sparkline group can only be one dimensional
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

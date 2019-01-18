@@ -89,3 +89,4 @@ When you switch between two open forms, the  **Deactivate** event occurs for the
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

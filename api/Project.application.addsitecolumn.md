@@ -157,3 +157,5 @@ After you save the project, go to the task list in SharePoint. On the  **LIST** 
 
 
 [LinkToTaskList Method](Project.application.linktotasklist.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

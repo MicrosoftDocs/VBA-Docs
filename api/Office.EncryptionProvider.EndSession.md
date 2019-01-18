@@ -40,3 +40,5 @@ The **EncryptStream** method is then called, which gives the provider the entire
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets the task outline number of the assignment. Read-only  **String**.
 
 If the assignment is for the second task under the first summary task, the outline number is "1.2".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

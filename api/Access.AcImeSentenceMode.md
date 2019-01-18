@@ -23,3 +23,4 @@ Used with the [IMESentenceMode](overview/Access.md) property to specify the IME 
 |**acImeSentenceModePhrasePredict**|0||
 |**acImeSentenceModePluralClause**|1||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

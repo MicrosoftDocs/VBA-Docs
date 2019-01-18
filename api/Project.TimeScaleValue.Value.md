@@ -25,4 +25,4 @@ Gets or sets the value of a timephased data item. Work values are in minutes. Re
 
  **Value** is the default property of a **TimeScaleValue** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

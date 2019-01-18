@@ -34,3 +34,4 @@ Calling this method retrieves the data for the specified  **ContactItem** object
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

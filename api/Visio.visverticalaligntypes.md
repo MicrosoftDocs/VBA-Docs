@@ -23,3 +23,4 @@ Vertical alignment type values to pass to the  **Selection.Align** method.
 | **visVertAlignNone**|0|No vertical alignment.|
 | **visVertAlignTop**|1|Align to top of primary selected shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

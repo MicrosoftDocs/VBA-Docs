@@ -38,3 +38,5 @@ _expression_ An expression that returns an **[IConverterPreferences](Office.ICon
 ## See also
 
 - [IConverterPreferences object members](overview/Library-Reference/iconverterpreferences-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

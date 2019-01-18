@@ -36,3 +36,4 @@ If the value of the  **[ShortestBarLimit](Access.FormatCondition.ShortestBarLimi
 
 [FormatCondition Object](Access.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

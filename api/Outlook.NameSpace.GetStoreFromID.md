@@ -51,3 +51,4 @@ The store must be mounted in order for this method to succeed.
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

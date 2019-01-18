@@ -53,3 +53,4 @@ Selection.Previous(Unit:=wdWord, Count:=1).Select
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

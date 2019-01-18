@@ -34,3 +34,4 @@ _expression_ A variable that returns a '[SlicerPivotTables](Excel.SlicerPivotTab
 
 [SlicerPivotTables Object](Excel.SlicerPivotTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

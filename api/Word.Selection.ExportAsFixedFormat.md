@@ -54,3 +54,4 @@ You can save as a PDF or XPS file from a 2007 Microsoft Office system program on
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

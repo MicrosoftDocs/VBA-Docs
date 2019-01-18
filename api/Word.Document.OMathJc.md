@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** constant that represents t
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

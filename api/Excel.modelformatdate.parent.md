@@ -27,4 +27,4 @@ _expression_ A variable that represents a 'ModelFormatDate' object.
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

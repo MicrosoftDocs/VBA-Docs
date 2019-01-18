@@ -45,3 +45,4 @@ ActiveDocument.Sections(1).Range.Paragraphs.LineSpacingRule = _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

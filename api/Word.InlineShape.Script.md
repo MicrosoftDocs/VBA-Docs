@@ -34,3 +34,4 @@ If the page contains no script, nothing is returned.
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

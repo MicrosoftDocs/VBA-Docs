@@ -50,3 +50,4 @@ MsgBox "Current version of Office Web Components: " _
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

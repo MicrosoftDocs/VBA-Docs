@@ -48,3 +48,4 @@ The collection is automatically re-sorted incrementally by time. This method ret
 
 [MediaBookmarks Object](PowerPoint.MediaBookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

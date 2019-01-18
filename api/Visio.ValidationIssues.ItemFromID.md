@@ -36,4 +36,4 @@ Returns the  **[ValidationIssue](Visio.ValidationIssue.md)** object that matches
 
  **ValidationIssue**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

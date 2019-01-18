@@ -36,3 +36,4 @@ Attempting to set this property to a value less than -1 or more than 1 results i
 
 [Border Object](Excel.Border(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ Gets the unique identification number of the  **[LookupTableEntry](Project.Looku
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

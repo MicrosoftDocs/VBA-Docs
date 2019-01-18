@@ -29,3 +29,4 @@ Returns or sets the width, in points, of the specified inline shape. Read/write 
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

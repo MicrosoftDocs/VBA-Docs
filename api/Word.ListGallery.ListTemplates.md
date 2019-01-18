@@ -48,3 +48,4 @@ ActiveDocument.Lists(2).ApplyListTemplate ListTemplate:=mytemp
 
 [ListGallery Object](Word.ListGallery.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

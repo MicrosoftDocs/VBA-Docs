@@ -22,3 +22,4 @@ Specifies the automatic macro to run.
 | **xlAutoDeactivate**|4|Auto_Deactivate macros|
 | **xlAutoOpen**|1|Auto_Open macros|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

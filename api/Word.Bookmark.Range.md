@@ -34,3 +34,4 @@ For information about returning a range from a document or returning a shape ran
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

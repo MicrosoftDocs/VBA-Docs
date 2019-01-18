@@ -31,3 +31,5 @@ For example, the default foreground fill color of shapes is a medium-dark blue: 
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

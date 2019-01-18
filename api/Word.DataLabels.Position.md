@@ -29,3 +29,4 @@ Returns or sets the position of the data labels. Read/write  **[xlDataLabelPosit
 
 [DataLabels Object](Word.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

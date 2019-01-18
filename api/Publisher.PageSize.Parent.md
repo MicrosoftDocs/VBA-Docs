@@ -28,4 +28,4 @@ Returns the parent of the  **[PageSize](Publisher.PageSizes.md)** object. Read-o
 
 Object
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

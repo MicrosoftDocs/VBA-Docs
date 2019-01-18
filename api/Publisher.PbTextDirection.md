@@ -24,3 +24,4 @@ Indicats the direction in which text flows in the specified paragraph.
 | **pbTextDirectionMixed**|-9999999|Return value indicating a range containing some left-to-right text and some right-to-left text.|
 | **pbTextDirectionRightToLeft**|2|Text flows from right to left.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a [FillFormat](Word.FillFormat.md) object that contains fill formatting 
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

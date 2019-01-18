@@ -46,3 +46,4 @@ For more information about registering form regions, see [Specifying Form Region
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,3 +56,4 @@ This method is used to open iCalendar appointment (.ics) files, vCard (.vcf) fil
 
 [NameSpace Object](Outlook.NameSpace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

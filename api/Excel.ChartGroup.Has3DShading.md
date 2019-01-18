@@ -39,3 +39,4 @@ Charts(1).ChartGroups(1).Has3DShading = True
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

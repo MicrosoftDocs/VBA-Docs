@@ -29,3 +29,4 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the name of a math
 
 [OMathFunc Object](Word.OMathFunc.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

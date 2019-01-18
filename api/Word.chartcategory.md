@@ -22,5 +22,4 @@ You can use the [IsFiltered](Word.chartcategory.isfiltered.md) property to deter
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

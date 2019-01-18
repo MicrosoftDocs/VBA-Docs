@@ -49,3 +49,4 @@ MsgBox "The name of the active printer is " & Application.ActivePrinter
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

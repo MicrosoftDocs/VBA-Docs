@@ -67,3 +67,4 @@ Next
 
 [Slides Object](PowerPoint.Slides.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

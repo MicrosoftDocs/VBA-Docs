@@ -26,4 +26,4 @@ This example enables Microsoft Graph to automatically correct sentence capitaliz
 myChart.Application.AutoCorrect.CorrectSentenceCap = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

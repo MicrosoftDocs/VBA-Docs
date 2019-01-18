@@ -22,3 +22,4 @@ Specifies where revisions are displayed when change tracking is enabled.
 | **wdRevisedLinesMarkOutsideBorder**|3|Outside the border.|
 | **wdRevisedLinesMarkRightBorder**|2|In the right border.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

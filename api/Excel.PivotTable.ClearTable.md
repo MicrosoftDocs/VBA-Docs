@@ -44,3 +44,4 @@ ActiveSheet.PivotTables(1).ClearTable()
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

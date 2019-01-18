@@ -20,3 +20,4 @@ Specifies the format of the picture being copied.
 | **xlBitmap**|2|Bitmap (.bmp, .jpg, .gif).|
 | **xlPicture**|-4147|Drawn picture (.png, .wmf, .mix).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

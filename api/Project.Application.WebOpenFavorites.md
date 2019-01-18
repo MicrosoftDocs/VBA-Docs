@@ -28,4 +28,4 @@ Opens the Favorites folder.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

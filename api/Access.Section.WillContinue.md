@@ -44,3 +44,4 @@ MsgBox Reports("Product Summary").Section("PageHeaderSection").WillContinue
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

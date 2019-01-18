@@ -29,3 +29,4 @@ Returns a  **String** that represents an internal identifying label for a source
 
 [Source Object](Word.Source.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

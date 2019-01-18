@@ -25,4 +25,4 @@ To add a  **Hyperlink** object to a shape, use the **AddHyperlink** method.
 
 To navigate to a named hyperlink location, use the  **Follow** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

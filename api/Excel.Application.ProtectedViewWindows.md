@@ -29,3 +29,4 @@ _expression_ A variable that represents an '[Application](Excel.Application(obje
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

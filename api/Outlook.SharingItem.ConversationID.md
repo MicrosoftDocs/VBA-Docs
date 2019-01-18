@@ -38,3 +38,4 @@ If the  **SharingItem** object is created in a version of Microsoft Outlook earl
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

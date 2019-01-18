@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Templates Collection Object](Word.templates.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

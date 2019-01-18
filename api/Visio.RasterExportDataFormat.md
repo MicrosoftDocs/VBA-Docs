@@ -44,4 +44,4 @@ For any given session of Microsoft Visio, when the  **RasterExportDataFormat** p
 
 The setting of the  **RasterExportDataFormat** property corresponds to the **Data format** setting in the **GIF Output Options** or **PNG Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Graphics Interchange Format (*.gif)** or **Portable Network Graphics (*.png)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

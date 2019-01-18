@@ -34,3 +34,4 @@ The default value is  **acHorizontalAnchorLeft**.
 
 [OptionGroup Object](Access.OptionGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

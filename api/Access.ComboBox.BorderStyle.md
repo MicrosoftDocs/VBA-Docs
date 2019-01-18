@@ -52,3 +52,4 @@ A control's border style is visible only when its  **SpecialEffect** property is
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

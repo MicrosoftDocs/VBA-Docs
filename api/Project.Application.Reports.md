@@ -35,4 +35,4 @@ The older style of reports that require connection with a printer are deprecated
 
 For newer types of reports, see the  **[ReportsDialog](Project.application.reportsdialog.md)** method for the Office Art types of reports or the **[VisualReports](Project.Application.VisualReports.md)** method for the reports that use Excel and Visio templates.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

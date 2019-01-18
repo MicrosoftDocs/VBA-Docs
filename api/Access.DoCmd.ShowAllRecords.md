@@ -37,3 +37,4 @@ You can use the ShowAllRecords action to remove any applied filter from the acti
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

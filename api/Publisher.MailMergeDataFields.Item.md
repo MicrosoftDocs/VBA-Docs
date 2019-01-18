@@ -36,4 +36,4 @@ Returns a  **[MailMergeDataField](Publisher.MailMergeDataField.md)** object from
 
 MailMergeDataField
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

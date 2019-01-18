@@ -49,5 +49,5 @@ localization_priority: Normal
 -  [CheckBox.Value Property (Outlook Forms Script)](Outlook.checkbox.value.md)
     
 -  [CheckBox.WordWrap Property (Outlook Forms Script)](Outlook.checkbox.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

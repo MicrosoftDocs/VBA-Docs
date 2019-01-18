@@ -42,4 +42,4 @@ Splits the specified connector with the specified shape. Returns the new duplica
 
 When you call  **SplitConnector** , Microsoft Visio duplicates the connector (except for text), positions the shape automatically, and glues the shape to the two resulting connectors.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

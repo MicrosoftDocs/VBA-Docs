@@ -23,4 +23,4 @@ Returns the number of objects in the specified collection. Read-only.
 
  **INT32**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

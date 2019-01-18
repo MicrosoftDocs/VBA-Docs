@@ -36,3 +36,4 @@ The parent of a  **Conversation** object is the first item in the conversation.
 
 [Conversation Object](Outlook.Conversation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

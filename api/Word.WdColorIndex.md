@@ -37,3 +37,4 @@ Specifies the color to apply.
 | **wdWhite**|8|White color.|
 | **wdYellow**|7|Yellow color.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

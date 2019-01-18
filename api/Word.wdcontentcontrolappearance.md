@@ -22,3 +22,4 @@ Constants that represent the visualizations for a content control, passed to and
 | **wdContentControlTags**|2|Represents a content control shown as start and end markers.|
 | **wdContentControlHidden**|1|Represents a content control that is not shown.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ Sets the marker foreground color as an RGB value or returns the corresponding co
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

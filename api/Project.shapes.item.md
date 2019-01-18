@@ -66,3 +66,5 @@ The following statement is the same as the previous:
 
 [Shapes Object](Project.shapes.md)
 [Value Property](Project.shapes.value.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

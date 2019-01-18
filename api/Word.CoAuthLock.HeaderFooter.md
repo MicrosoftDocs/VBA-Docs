@@ -23,3 +23,4 @@ This property will always return  **false**.
 
 [CoAuthLock Object](Word.CoAuthLock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

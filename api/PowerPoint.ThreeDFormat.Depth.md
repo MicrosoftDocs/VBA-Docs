@@ -60,3 +60,4 @@ End With
 [TickLabels Object](PowerPoint.TickLabels.md)
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

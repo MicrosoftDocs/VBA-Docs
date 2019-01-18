@@ -50,3 +50,4 @@ The following table gives the values of the  **Tracking** property that correspo
 
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

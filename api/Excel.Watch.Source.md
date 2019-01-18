@@ -34,3 +34,4 @@ If the  **SourceType** property is set to **xlSourceRange** , this property retu
 
 [Watch Object](Excel.Watch.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 [OMathScrSub Object](Word.OMathScrSub.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

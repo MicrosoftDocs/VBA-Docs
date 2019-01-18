@@ -41,3 +41,4 @@ A [ModelRelationship object (Excel)](Excel.modelrelationship.md) object containe
 
 [ModelRelationships Object](Excel.modelrelationships.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

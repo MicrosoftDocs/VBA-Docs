@@ -44,3 +44,4 @@ This event doesn't occur on chart sheets.
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

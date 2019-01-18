@@ -41,4 +41,4 @@ There's no direct way to return the series or trendline that corresponds to a pa
 
 After legend entries have been deleted, the only way to restore them is to remove and then recreate the legend that contained them by setting the  **[HasLegend](Excel.HasLegend.md)** property for the chart to  **False** and then back to **True**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

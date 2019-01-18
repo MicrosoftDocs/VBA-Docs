@@ -25,3 +25,4 @@ Specifies the data source for a mail merge operation.
 | **wdMergeInfoFromWord**|0|From Microsoft Word.|
 | **wdNoMergeInfo**|-1|No merge information provided.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

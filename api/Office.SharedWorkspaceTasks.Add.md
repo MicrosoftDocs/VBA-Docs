@@ -87,3 +87,4 @@ The following example adds a new task to the tasks collection of the shared work
 
 [SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

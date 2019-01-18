@@ -77,4 +77,4 @@ The following statement corresponds to the  **For Email** command in the **Copy 
 TimelineExport ExportWidth:=600
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -92,3 +92,4 @@ For example, if you go to a new record and type a character in the first control
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

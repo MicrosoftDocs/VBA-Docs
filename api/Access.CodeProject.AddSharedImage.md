@@ -43,3 +43,4 @@ Use the  **AddSharedImage** method when you have an image that you want to use r
 
 [CodeProject Object](Access.CodeProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

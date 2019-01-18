@@ -42,3 +42,4 @@ Another example is changing the  **EndTimeZone** resulting in an appointment end
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

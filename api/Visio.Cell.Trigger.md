@@ -33,4 +33,4 @@ Nothing
 
 Triggering a cell simply evaluates the formula of that cell. If the formula contains other actions such as running an add-on, those actions occur.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

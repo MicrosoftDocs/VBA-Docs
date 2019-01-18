@@ -28,4 +28,4 @@ Specifies the folder display mode.
 
 Used as an optional parameter to the [Explorers.Add](Outlook.Explorers.Add.md) method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

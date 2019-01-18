@@ -60,3 +60,5 @@ Application.HighlightDrivenSuccessors True
 
 
 [Task.PathDrivenSuccessor Property](Project.task.pathdrivensuccessor.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

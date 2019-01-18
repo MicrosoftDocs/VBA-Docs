@@ -26,4 +26,4 @@ Returns or sets a  **Single** that represents the position of the drawing guide 
 
  **FLOAT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

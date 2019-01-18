@@ -37,3 +37,4 @@ Deletes a table cell or cells and optionally controls how the remaining cells ar
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

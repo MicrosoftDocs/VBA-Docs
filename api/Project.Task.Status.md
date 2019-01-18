@@ -25,4 +25,4 @@ Gets the status of a specified task. Read-only  **PjStatusType**.
 
 The Status property can be one of the following  **[PjStatusType](Project.PjStatusType.md)** constants: **pjComplete**, **pjFutureTask**, **pjLate**, **pjNoData**, or **pjOnSchedule**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

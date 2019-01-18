@@ -60,3 +60,4 @@ Specifies the bullet style.
 |**ppBulletTradChinPeriod**|22|Traditional Chinese with a period.|
 |**ppBulletTradChinPlain**|21|Traditional Chinese without a period.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

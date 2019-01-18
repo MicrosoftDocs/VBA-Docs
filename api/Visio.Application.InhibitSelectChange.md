@@ -37,4 +37,4 @@ Additionally, Visio attempts to preserve currently selected shapes whenever poss
 
 If a program neglects to turn the  **InhibitSelectChange** property off (**False**) after turning it on, the Visio instance will turn it back off when the user performs an operation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

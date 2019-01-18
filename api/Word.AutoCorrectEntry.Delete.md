@@ -29,3 +29,4 @@ Deletes the specified AutoCorrect entry.
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

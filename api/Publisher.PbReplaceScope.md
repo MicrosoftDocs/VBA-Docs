@@ -24,3 +24,4 @@ Specifies how many replacements are to be made: one, all, or none.
 | **pbReplaceScopeNone**|0|None need to be replaced.|
 | **pbReplaceScopeOne**|1|One needs to be replaced.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

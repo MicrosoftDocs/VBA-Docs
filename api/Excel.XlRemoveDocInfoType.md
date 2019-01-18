@@ -38,3 +38,4 @@ Specifies the type information to be removed from the document information.
 | **xlRDISendForReview**|7|Removes the send for review information from the document information.|
 | **xlRDITaskpaneWebExtensions**|22|Removes task pane Web Extensions from the document information.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

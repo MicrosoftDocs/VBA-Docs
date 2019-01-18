@@ -28,4 +28,4 @@ Flips an object vertically.
 
 Nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

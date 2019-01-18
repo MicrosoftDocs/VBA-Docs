@@ -48,3 +48,4 @@ End If
 
 [CategoryCollection Object](Excel.categorycollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

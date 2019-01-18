@@ -84,3 +84,4 @@ End With
 
 [Adjustments Object](PowerPoint.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

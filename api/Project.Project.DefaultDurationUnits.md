@@ -25,4 +25,4 @@ Gets or sets the default duration units. Read/write  **PjUnit**.
 
 The  **DefaultDurationUnits** property can be one of the following **[PjUnit](Project.PjUnit.md)** constants: **pjMinute**, **pjHour**, **pjDay**, **pjWeek**, or **pjMonthUnit**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

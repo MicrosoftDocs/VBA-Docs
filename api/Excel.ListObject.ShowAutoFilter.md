@@ -51,3 +51,4 @@ The following example displays the setting of the  **ShowAutoFilter** property t
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

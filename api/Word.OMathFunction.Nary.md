@@ -29,3 +29,4 @@ Returns an  **[OMathNary](Word.OMathNary.md)** object that represents the n-ary 
 
 [OMathFunction Object](Word.OMathFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ Determines which calendar is used when determining when and how dates are shaded
 
 When the Calendar view is active, using the  **CalendarDateShading** method with no arguments displays the **Timescale** dialog box with the **Date Shading** tab selected. You must specify either **BaseCalendarName** or **ResourceUniqueID**, but you cannot specify both.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

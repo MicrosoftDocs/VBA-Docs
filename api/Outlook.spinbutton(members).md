@@ -30,5 +30,4 @@ Increments and decrements a value.
 | [SmallChange](Outlook.spinbutton.smallchange.md)|Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **SpinButton**. Read/write.|
 | [Value](Outlook.spinbutton.value.md)|Returns or sets a  **Variant** that specifies the state of a **SpinButton**. Read/write.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Specifies constants that define the raster export size units; passed to the SetR
 | **visRasterCm**|1|Centimeters|
 | **visRasterInch**|2|Inches|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

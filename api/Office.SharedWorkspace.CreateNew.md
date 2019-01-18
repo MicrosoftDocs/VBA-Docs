@@ -75,3 +75,4 @@ The following example creates a shared workspace site at the URL https://server/
 
 [SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

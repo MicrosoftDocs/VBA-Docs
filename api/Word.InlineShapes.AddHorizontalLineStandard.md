@@ -53,3 +53,4 @@ ActiveDocument.Paragraphs(5).Range _
 
 [InlineShapes Collection Object](Word.inlineshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

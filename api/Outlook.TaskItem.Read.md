@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.TaskItem.Open.md)** event 
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

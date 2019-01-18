@@ -51,3 +51,4 @@ If ActiveDocument.Content.StoryLength = 1 Then _
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

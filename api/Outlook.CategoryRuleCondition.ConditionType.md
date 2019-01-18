@@ -34,3 +34,4 @@ The category rule condition is supported by rules for receiving messages and rul
 
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

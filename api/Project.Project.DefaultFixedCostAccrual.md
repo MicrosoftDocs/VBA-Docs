@@ -25,4 +25,4 @@ Gets or sets the default method used to accrue fixed task costs in the project. 
 
 The  **DefaultFixedCostAccrual** property can be one of the following **[PjAccrueAt](Project.PjAccrueAt.md)** constants: **pjStart**, **pjEnd**, or **pjProrated**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

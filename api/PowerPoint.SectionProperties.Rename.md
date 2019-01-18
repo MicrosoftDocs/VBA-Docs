@@ -43,3 +43,4 @@ If sectionName is empty, the section is assigned the default section name.
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

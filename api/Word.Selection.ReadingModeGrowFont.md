@@ -42,3 +42,4 @@ Use the  **[ReadingModeShrinkFont](Word.Selection.ReadingModeShrinkFont.md)** me
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

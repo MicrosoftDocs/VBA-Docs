@@ -47,3 +47,4 @@ Possible themes correspond to those displayed in the  **Themes** and the **Color
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

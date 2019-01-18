@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [Font Members (Outlook Forms Script)](Outlook.font(members).md)
     
 -  [Font Properties (Outlook Forms Script)](Outlook.font(properties).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

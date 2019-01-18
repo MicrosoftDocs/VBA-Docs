@@ -47,3 +47,4 @@ If no name is specified, the  **Duplicate** method uses the same default name as
 
 [TableStyle Object](Excel.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

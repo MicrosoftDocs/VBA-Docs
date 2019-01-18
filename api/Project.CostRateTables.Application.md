@@ -25,3 +25,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [CostRateTables Collection Object](Project.costratetables.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

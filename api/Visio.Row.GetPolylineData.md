@@ -54,3 +54,4 @@ The  _Flags_ parameter is a bitmask that specifies options for returning points.
 | **visGeomWHPct**|&H10 |The values returned in  _xyArray()_ will be percentages of width/height.|
 | **visGeomXYLocal**|&H20 |The values returned in  _xyArray()_ will be local, internal units in the drawing.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

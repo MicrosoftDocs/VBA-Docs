@@ -36,3 +36,4 @@ If the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconS
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Specifies the description of the Japanese input rules.
 | **xlIMEModeOff**|2|Off (English mode).|
 | **xlIMEModeOn**|1|Mode on.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

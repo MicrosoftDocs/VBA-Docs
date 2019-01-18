@@ -38,3 +38,4 @@ Returns an  **[OMath](Word.OMath.md)** object that represents a cell in a matrix
 
 [OMathMat Object](Word.OMathMat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

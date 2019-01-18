@@ -65,3 +65,4 @@ Worksheets("Sheet1").QueryTables(1) _
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

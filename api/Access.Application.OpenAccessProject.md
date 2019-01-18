@@ -53,3 +53,4 @@ If you have already opened a project and wish to open another project in the Mic
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

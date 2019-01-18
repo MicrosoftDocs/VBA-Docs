@@ -56,3 +56,4 @@ End With
 [SparklineGroup Object](Excel.SparklineGroup.md)
 [ShapeNode Object](Excel.ShapeNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ If Book2.End > Book1.Start Then Book1.Select
 
 [Bookmark Object](Word.Bookmark.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

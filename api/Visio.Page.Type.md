@@ -33,4 +33,4 @@ VisPageTypes
 
 Type value constants for  **Page** objects (the possible values that the **Type** property of a **Page** object returns) are declared by the Visio type library in **[VisPageTypes](Visio.vispagetypes.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

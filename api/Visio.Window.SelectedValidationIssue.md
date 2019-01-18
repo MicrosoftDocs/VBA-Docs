@@ -57,4 +57,4 @@ Set vsoIssuesWindow = Application.ActiveWindow.Windows.ItemFromID(Visio.VisWinTy
     End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

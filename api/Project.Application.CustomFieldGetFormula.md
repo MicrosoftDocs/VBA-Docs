@@ -36,4 +36,4 @@ Returns the formula associated with a custom field.
 
  **String**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

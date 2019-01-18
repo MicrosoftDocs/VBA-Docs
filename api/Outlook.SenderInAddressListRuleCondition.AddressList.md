@@ -34,3 +34,4 @@ Returns an error if the  **AddressList** object does not represent an initialize
 
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

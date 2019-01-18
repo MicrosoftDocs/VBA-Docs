@@ -26,3 +26,4 @@ Returns the name of the object. Read-only  **String**.
 
 [GridLines Object](PowerPoint.GridLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

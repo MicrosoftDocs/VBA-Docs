@@ -24,4 +24,4 @@ Describes the nature of the display mode. Possible modes include Normal, Portrai
 
 Used by the **DisplayMode** property of the [Explorer.DisplayModeChange](Outlook.explorer.displaymodechange.md) event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

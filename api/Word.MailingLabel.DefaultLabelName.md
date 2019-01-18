@@ -55,3 +55,4 @@ Application.MailingLabel.DefaultLabelName = "5160"
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

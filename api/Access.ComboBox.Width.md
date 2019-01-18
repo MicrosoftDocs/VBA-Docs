@@ -40,3 +40,4 @@ The width of forms and reports is measured from the inside of their borders. The
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

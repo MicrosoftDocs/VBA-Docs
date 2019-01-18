@@ -44,3 +44,4 @@ Specifying a value of 0 for Index plays animations beginning at the point just b
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

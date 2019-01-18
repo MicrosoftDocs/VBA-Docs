@@ -29,3 +29,4 @@ _expression_ A variable that represents a [FromRssFeedRuleCondition](./Outlook.F
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

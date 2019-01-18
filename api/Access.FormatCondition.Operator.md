@@ -34,3 +34,4 @@ The  **Operator** property's intrinsic constants are used in conjunction with th
 
 [FormatCondition Object](Access.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ Specifies the type of the chart item.
 | **xlXErrorBars**|10|X error bars.|
 | **xlYErrorBars**|11|Y error bars.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

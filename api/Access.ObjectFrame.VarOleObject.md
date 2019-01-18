@@ -43,3 +43,4 @@ If an API call is made to a function that performs a callback to the control, th
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

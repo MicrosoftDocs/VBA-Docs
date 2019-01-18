@@ -61,3 +61,5 @@ Worksheets("Sheet1").Range("A1:C5").Font.Bold = True
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

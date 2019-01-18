@@ -46,3 +46,4 @@ The  **[Pane.View](./Project.Pane.View.md)** method returns the **View** object.
 |[Single](./Project.View.Single.md)|
 |[Type](./Project.View.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

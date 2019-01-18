@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 If the selection includes one or more groups, the groups and all items in the groups are deleted.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

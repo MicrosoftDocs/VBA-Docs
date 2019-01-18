@@ -45,4 +45,4 @@ This example sets the marker style for series one. The example should be run on 
 myChart.SeriesCollection(1).MarkerStyle = xlMarkerStyleCircle
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

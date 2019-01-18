@@ -29,3 +29,4 @@ _expression_ A variable that represents a [MultiThreadedCalculation](Excel.Multi
 
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,4 @@ Specifies how revisions are displayed when change tracking is enabled.
 | **wdRevisedPropertiesMarkStrikeThrough**|6|Using strikethrough characters.|
 | **wdRevisedPropertiesMarkUnderline**|3|In underline.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

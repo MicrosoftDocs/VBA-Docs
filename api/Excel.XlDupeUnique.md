@@ -20,3 +20,4 @@ Specifies whether duplicate or unique values shoud be displayed.
 | **xlDuplicate**|1|Display duplicate values.|
 | **xlUnique**|0|Display unique values.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

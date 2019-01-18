@@ -53,3 +53,4 @@ You can set the default for this property by using the default control style or 
 
 [FormatCondition Object](Access.FormatCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

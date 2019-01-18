@@ -35,3 +35,4 @@ _expression_ A variable that represents a [TaskRequestItem](./Outlook.TaskReques
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

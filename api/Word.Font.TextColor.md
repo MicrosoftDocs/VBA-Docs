@@ -29,3 +29,4 @@ Returns a [ColorFormat](Word.ColorFormat.md) object that represents the color fo
 
 [Font Object](Word.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

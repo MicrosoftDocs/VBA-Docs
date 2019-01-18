@@ -27,4 +27,4 @@ Indicates the download state.
 
 Used by the  **DownLoadState** property of an item to indicate the download state.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

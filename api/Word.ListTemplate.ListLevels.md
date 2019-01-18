@@ -48,3 +48,4 @@ Next mylevel
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

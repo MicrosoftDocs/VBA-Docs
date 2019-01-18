@@ -50,3 +50,4 @@ Duplicate names for  **AutoFormatRule** objects are allowed in the **AutoFormatR
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

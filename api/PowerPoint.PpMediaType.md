@@ -22,3 +22,4 @@ Indicates the OLE media type.
 |**ppMediaTypeOther**|1|Others|
 |**ppMediaTypeSound**|2|Sound|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

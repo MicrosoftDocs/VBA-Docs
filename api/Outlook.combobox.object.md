@@ -21,5 +21,5 @@ localization_priority: Normal
 -  [ComboBox Methods (Outlook Forms Script)](Outlook.combobox(methods).md)
     
 -  [ComboBox Events (Outlook Forms Script)](Outlook.combobox(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

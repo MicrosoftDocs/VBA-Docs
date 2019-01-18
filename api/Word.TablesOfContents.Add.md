@@ -70,3 +70,4 @@ ActiveDocument.TablesOfContents.Add _
 
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ Setting  **SelectedDataRowID** clears the current selection and sets the selecti
 
 If multiple rows are selected when you get  **SelectedDataRowID** , the property returns the ID of the row that has the focus.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

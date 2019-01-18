@@ -39,3 +39,4 @@ ActiveDocument.Paragraphs.SpaceAfter = 12
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

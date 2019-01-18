@@ -39,3 +39,4 @@ ActiveDocument.Tables(1).Range.Cells(3).WordWrap = True
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

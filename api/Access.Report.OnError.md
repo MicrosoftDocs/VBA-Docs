@@ -57,3 +57,4 @@ Forms("Order Entry").OnError = "Error_Handler_Macro"
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

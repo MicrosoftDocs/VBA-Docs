@@ -32,3 +32,4 @@ Contains constants that specify the background pattern.
 |**pjBackgroundSolidFill**|1|Solid fill.|
 |**pjBackgroundThinVerticalStripe**|9|Thin vertical stripe.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

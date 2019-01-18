@@ -60,4 +60,4 @@ Dim shpLoop As Shape
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

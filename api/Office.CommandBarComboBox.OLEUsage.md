@@ -39,3 +39,5 @@ If one of the merging applications isn't an Office application, normal OLE menu 
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

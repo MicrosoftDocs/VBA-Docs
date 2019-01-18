@@ -46,3 +46,4 @@ objEq.Type = wdOMathInline
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

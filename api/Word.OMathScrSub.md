@@ -22,4 +22,4 @@ Represents an equation with a base that contains a subscript.
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

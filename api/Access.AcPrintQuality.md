@@ -25,3 +25,4 @@ Used with the  **PrintOut** method to specify the print quality of a particular 
 |**acLow**|2|Low quality|
 |**acMedium**|1|Medium quality|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

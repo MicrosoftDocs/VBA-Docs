@@ -20,3 +20,4 @@ Specifies the language format to apply to the current date, time, or both.
 | **wdDateLanguageBidi**|10|Bidirectional date/time format.|
 | **wdDateLanguageLatin**|1033|Latin date/time format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

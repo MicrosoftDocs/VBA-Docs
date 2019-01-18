@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 The ** ItemCount** property always returns the number of items that are in the current folder displayed in the control, and not the number of items that are visible in the view. Setting the [Filter](Outlook.viewctl.filt.md) or the [FilterAppend](Outlook.viewctl.filterappe.md) property has no effect on the value of the **ItemCount** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

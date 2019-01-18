@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 For a multiline  **TextBox**,  **TextLength** includes LF (line feed) and CR (carriage return) characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

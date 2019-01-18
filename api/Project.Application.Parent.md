@@ -36,4 +36,4 @@ For example, executing either of the following statements in the  **Immediate** 
 ? Application.Name
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

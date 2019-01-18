@@ -25,3 +25,4 @@ Specifies constants that define the types of raster export color reduction; pass
 | **visRasterDiffusion**|1|Diffusion color reduction.|
 | **visRasterHalftone**|2|Halftone color reduction.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

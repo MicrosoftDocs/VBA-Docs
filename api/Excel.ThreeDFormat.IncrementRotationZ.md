@@ -43,3 +43,4 @@ You cannot adjust the rotation around the z-axis of the specified shape past the
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

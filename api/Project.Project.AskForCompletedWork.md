@@ -25,4 +25,4 @@ Gets or sets the way completed work is reported in team status messages. Read/wr
 
 The  **AskForCompletedWork** property can be one of the following **[PjTeamStatusCompletedWork](Project.PjTeamStatusCompletedWork.md)** constants: **pjBrokenDownByDay**, **pjBrokenDownByWeek**, or **pjTotalForEntirePeriod**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

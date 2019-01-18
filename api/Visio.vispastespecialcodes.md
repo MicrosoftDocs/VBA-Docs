@@ -37,3 +37,4 @@ Format codes passed to the  **PasteSpecial** method.
 | **visPasteVisioShapes**|65540|Paste Visio shapes.|
 | **visPasteVisioText**|65542|Paste Visio text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

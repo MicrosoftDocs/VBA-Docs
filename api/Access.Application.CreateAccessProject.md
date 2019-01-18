@@ -55,5 +55,4 @@ Application.CreateAccessProject "C:\Order Entry.adp"
 
 ```
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

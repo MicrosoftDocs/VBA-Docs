@@ -23,3 +23,4 @@ Specifies a range to print.
 | **wdPrintRangeOfPages**|4|A specified range of pages.|
 | **wdPrintSelection**|1|The current selection.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

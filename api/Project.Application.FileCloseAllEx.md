@@ -37,4 +37,4 @@ Closes all projects.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

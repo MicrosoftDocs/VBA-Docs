@@ -26,3 +26,4 @@ Specifies the type of comparison to use when a condition is added to a mail merg
 | **wdMergeIfLessThanOrEqual**|4|A value is output if the mail merge field is less than or equal to a value.|
 | **wdMergeIfNotEqual**|1|A value is output if the mail merge field is not equal to a value.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,4 +62,4 @@ Private Sub Document_DocumentOpened(ByValdoc As IVDocument)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

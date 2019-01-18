@@ -29,3 +29,4 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](P
 
 [Walls Object](PowerPoint.Walls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

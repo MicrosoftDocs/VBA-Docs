@@ -59,3 +59,4 @@ ActivePresentation.Slides(1) _
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

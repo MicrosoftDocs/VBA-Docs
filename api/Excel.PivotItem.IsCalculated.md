@@ -34,3 +34,4 @@ For OLAP data sources, this property always returns  **False**.
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

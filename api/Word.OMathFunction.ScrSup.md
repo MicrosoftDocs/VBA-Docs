@@ -29,3 +29,4 @@ Returns an  **[OMathScrSup](Word.OMathScrSup.md)** object that represents the ma
 
 [OMathFunction Object](Word.OMathFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

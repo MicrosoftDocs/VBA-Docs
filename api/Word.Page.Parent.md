@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Page
 
 [Page Object](Word.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

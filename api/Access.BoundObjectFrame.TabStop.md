@@ -59,3 +59,4 @@ Forms("Suppliers").Controls("City").TabStop = False
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

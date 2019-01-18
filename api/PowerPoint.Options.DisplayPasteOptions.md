@@ -67,3 +67,4 @@ End Sub
 
 [Options Object](PowerPoint.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

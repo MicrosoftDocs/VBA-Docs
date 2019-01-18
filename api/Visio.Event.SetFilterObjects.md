@@ -86,4 +86,4 @@ For example, if you want to listen only to events sourced by a shape or guide, y
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

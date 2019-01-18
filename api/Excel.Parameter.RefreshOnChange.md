@@ -49,3 +49,4 @@ objParam1.SetParam xlRange, Range("D4")
 
 [Parameter Object](Excel.Parameter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,3 +59,4 @@ The  _PublishPages_ parameter can be one of the following **VisPublishPages** co
 | **visPublishPageAll**|0|Publish all pages.|
 | **visPublishPageSelect**|1|Publish selected pages.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

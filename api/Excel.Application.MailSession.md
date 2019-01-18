@@ -46,3 +46,4 @@ If Not IsNull(Application.MailSession) Then Application.MailLogoff
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

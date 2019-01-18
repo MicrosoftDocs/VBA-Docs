@@ -29,3 +29,4 @@ Returns or sets a  **Single** that represents the height (in points) of the spec
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

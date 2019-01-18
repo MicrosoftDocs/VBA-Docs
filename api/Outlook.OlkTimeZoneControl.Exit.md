@@ -37,3 +37,4 @@ _expression_ A variable that represents an [OlkTimeZoneControl](./Outlook.OlkTim
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

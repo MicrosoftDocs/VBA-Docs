@@ -25,3 +25,4 @@ Indicates the format used to display yes/no Outlook item properties.
 | **olFormatYesNoTrueFalse**|3|Displays "True" or "False".|
 | **olFormatYesNoYesNo**|1|Displays "Yes" or "No".|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

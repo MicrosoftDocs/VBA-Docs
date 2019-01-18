@@ -120,3 +120,4 @@ End Sub
 
 [TimelineView Object](Outlook.timelineView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

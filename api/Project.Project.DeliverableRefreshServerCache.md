@@ -25,4 +25,4 @@ Checks for updates on the server and refreshes the cache for deliverable and dep
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

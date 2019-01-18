@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagImportance**.
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

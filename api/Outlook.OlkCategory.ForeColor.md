@@ -34,3 +34,4 @@ This property is of the type  **OLE_COLOR** which is a **Long** value. The defau
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

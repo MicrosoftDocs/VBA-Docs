@@ -20,3 +20,4 @@ Specifies where a paragraph should be relocated in relation to its current posit
 | **wdRelocateDown**|1|Below the next visible paragraph.|
 | **wdRelocateUp**|0|Above the previous visible paragraph.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

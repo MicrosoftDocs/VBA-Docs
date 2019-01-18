@@ -34,3 +34,4 @@ Single
 
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

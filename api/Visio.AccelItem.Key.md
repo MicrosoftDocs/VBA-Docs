@@ -33,4 +33,4 @@ Integer
 
 For a list of ASCII key code values, search for "Virtual-Key Codes" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

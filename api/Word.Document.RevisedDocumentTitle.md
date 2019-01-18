@@ -34,3 +34,4 @@ To perform a legal-blackline document compare, use the  **[CompareDocuments](Wor
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

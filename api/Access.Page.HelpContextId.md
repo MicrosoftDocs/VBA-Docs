@@ -41,3 +41,4 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [Page Object](Access.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

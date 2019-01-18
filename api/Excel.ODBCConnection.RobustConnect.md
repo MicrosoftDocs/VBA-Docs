@@ -41,3 +41,4 @@ This provides robust connectivity in scenarios where an Information Technology D
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

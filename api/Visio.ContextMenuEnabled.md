@@ -42,4 +42,4 @@ The following code disables the shortcut menu in Visio Viewer.
 vsoViewer.ContextMenuEnabled = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

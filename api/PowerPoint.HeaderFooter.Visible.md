@@ -45,3 +45,4 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 [HeaderFooter Object](PowerPoint.HeaderFooter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

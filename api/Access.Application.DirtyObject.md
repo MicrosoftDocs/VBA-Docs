@@ -45,3 +45,4 @@ A run-time error will occur if the form or report specified by the  _ObjectName_
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

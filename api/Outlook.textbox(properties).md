@@ -87,5 +87,5 @@ localization_priority: Normal
 -  [TextBox.Value Property (Outlook Forms Script)](Outlook.textbox.value.md)
     
 -  [TextBox.WordWrap Property (Outlook Forms Script)](Outlook.textbox.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Integer
 
 The  **ShowToolbar** property is valid for a Microsoft Visio instance only. The **ShowStatusBar** property persists each time you run Visio.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,3 +35,4 @@ Object
 
 [ScopeFolders Object Members](./overview/Library-Reference/scopefolders-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

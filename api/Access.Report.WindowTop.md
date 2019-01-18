@@ -34,3 +34,4 @@ Use the  **Move** method to change the position of a report.
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

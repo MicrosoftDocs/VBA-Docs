@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Scenario](Excel.Scenario.md) object.
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

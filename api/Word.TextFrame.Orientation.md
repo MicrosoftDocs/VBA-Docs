@@ -50,3 +50,4 @@ mydoc.Shapes(1).TextFrame.Orientation = msoTextOrientationUpward
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,4 @@ Gets or sets the start date of the work week. Read/write  **Variant**.
 
 [WorkWeek Object](Project.WorkWeek.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

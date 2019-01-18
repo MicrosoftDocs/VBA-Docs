@@ -40,3 +40,4 @@ The  **ItemsSelected** collection has no methods and two properties, the **Count
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

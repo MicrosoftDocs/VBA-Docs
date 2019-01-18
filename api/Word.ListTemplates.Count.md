@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of list templates in the collecti
 
 [ListTemplates Collection Object](Word.listtemplates.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

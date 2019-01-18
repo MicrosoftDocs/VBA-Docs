@@ -60,3 +60,4 @@ Contains constants that specify the text item in the Project database. For more 
 |**pjTickLabels**|5|Represents the Tick Labels text item.|
 |**pjWeeklyTitles**|10|Represents the Weekly Titles text item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

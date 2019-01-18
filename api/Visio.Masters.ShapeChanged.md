@@ -66,4 +66,4 @@ If you are handling this event from a program that receives a notification over 
 
 For performance considerations, the  **Document** object's event set does not include the **ShapeChanged** event. To sink the **ShapeChanged** event from a **Document** object (and from the **ThisDocument** object in a VBA project), you must use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

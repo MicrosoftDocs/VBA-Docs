@@ -34,3 +34,4 @@ If you change the value axis in such a way that it became smaller than the size 
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

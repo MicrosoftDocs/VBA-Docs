@@ -45,3 +45,4 @@ MsgBox "The first character is... " & char
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

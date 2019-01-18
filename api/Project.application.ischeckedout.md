@@ -81,3 +81,5 @@ End Sub
 
 
 [Project.CheckoutProject Method](Project.project.checkoutproject.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

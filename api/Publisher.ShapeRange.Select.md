@@ -51,4 +51,4 @@ ActiveDocument.Pages(1).Shapes.Range(Array(2, 4)) _
  .Select Replace:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

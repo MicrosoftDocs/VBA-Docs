@@ -35,4 +35,4 @@ The  **TaskDrivers** method corresponds to the **Inspect Task** drop-down menu i
 
 The  **Task Inspector** pane includes factors that affect the task start and finish dates (task drivers such as calendars and predecessor tasks) and can also show warnings, suggestions, and ignored problems.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

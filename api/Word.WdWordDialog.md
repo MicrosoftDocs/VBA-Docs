@@ -253,3 +253,4 @@ Indicates the Microsoft Word dialog boxes with which you can work and specifies 
 | **wdDialogXMLElementAttributes**|1460|(none)|
 | **wdDialogXMLOptions**|1425|(none)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

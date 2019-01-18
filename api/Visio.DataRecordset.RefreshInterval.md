@@ -40,4 +40,4 @@ By setting  **RefreshInterval** to a positive **Long** value, you can specify th
 
 This setting corresponds to the value a user can set in the  **Configure Refresh** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

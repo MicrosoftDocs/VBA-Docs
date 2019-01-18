@@ -49,3 +49,4 @@ If the range selection is valid, but none of the cells are mapped, Excel returns
 
 - [ListColumn Object](Excel.ListColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [AllTables Collection](Access.AllTables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

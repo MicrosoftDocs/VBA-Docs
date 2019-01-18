@@ -23,3 +23,4 @@ Specifies the type of formatting to apply to the table of authorities in the act
 | **wdTOASimple**|4|Simple formatting.|
 | **wdTOATemplate**|0|Template formatting.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

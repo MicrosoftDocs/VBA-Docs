@@ -46,3 +46,4 @@ Msgbox "The page width is " _
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

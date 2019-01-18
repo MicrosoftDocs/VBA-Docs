@@ -23,3 +23,4 @@ Flags to pass to the  **Selection.DrawRegion** method.
 | **visDrawRegionIncludeDataGraphics**|&H40|Include data graphic callout shapes and their sub-shapes. |
 | **visDrawRegionIncludeHidden**|&H10|Include hidden geometry.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

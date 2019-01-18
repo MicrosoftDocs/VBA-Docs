@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md)
 
 [Broadcast Object](PowerPoint.Broadcast.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

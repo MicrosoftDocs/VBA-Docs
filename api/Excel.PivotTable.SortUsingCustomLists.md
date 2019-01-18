@@ -34,3 +34,4 @@ Setting this property to  **False** can optimize performance for fields with man
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

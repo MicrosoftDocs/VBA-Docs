@@ -28,4 +28,4 @@ Indicates the save mode.
 
 Used as a parameter to the  **Close** method of item objects and the [Inspector.Close Method (Outlook)](Outlook.Inspector.Close(method).md) to indicate the save mode.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

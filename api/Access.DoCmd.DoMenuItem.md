@@ -54,3 +54,4 @@ If you leave the Subcommand argument blank but specify the Version argument, you
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

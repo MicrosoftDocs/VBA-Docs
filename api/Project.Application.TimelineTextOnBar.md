@@ -51,4 +51,4 @@ The following statement changes selected tasks on the Timeline bar to display as
 TimelineTextOnBar TextOnBar:=False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

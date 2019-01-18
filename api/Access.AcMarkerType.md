@@ -29,3 +29,5 @@ Specifies the marker shape to use for plotting a series when its effective chart
 |**acMarkerSquare**|1|Square|
 |**acMarkerTriangle**|3|Triangle|
 |**acMarkerX**|4|X|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of variables in the collection.
 
 [Variables Collection Object](Word.variables.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

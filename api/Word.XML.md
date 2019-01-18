@@ -37,3 +37,4 @@ Returns a  **String** that represents the text, with or without XML markup, that
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

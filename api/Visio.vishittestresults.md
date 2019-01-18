@@ -22,3 +22,4 @@ Result values returned by the  **Shape.HitTest** method.
 | **visHitOnBoundary**|1|Hit position is on shape boundary|
 | **visHitOutside**|0|Hit position is outside shape boundary|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

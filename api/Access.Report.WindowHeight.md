@@ -34,3 +34,4 @@ The  **WindowHeight** property is measured from the upper-left corner of the rep
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

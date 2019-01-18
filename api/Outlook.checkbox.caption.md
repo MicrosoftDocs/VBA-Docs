@@ -32,4 +32,4 @@ The  **[ForeColor](Outlook.checkbox.forecolor.md)** property of the control dete
 
 Setting  **[AutoSize](Outlook.checkbox.autosize.md)** to **True** automatically adjusts the size of the control to frame the entire caption.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

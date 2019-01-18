@@ -45,7 +45,5 @@ The bitmap or drawing object must be displayed as an icon and selected. The  **O
 5. On the Gantt chart, choose  **Object** in the **Old Methods** tab. In the **Insert Object** dialog box, choose **Bitmap Image**. You can create a new image or add it from a file. Check  **Display As Icon**.
     
 6. Select the bitmap image object on the Gantt chart, and then choose  **Convert** on the **Old Methods** tab of the Ribbon. In the **Convert** dialog box, choose **Change Icon**.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 [TempVars Collection](Access.TempVars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

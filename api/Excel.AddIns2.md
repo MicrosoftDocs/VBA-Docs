@@ -27,4 +27,4 @@ The contents of the  **AddIns2** collection correspond to the list of add-ins di
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

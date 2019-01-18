@@ -23,3 +23,4 @@ Specifies the way the case of the specified text will be changed.
 |**ppCaseToggle**|5|Toggle the casing.|
 |**ppCaseUpper**|3|Change to uppercase.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

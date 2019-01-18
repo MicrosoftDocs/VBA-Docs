@@ -67,3 +67,4 @@ Next
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

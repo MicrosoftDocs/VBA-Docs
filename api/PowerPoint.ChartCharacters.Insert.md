@@ -37,3 +37,4 @@ _expression_ A variable that represents a '[ChartCharacters](PowerPoint.ChartCha
 
 [ChartCharacters Object](PowerPoint.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

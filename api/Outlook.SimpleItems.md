@@ -158,3 +158,5 @@ void EnumerateConversation(object item,
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [How to: Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -96,3 +96,4 @@ Selection.GoTo What:=wdGoToPage, Which:=wdGoToPrevious, Count:=2
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

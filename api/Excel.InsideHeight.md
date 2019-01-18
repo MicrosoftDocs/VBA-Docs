@@ -21,4 +21,4 @@ Returns the inside height of the plot area, in points. Read-only  **Double**.
 
 The plot area used for this measurement doesn't include the axis labels. The  **Height** property for the plot area uses the bounding rectangle that includes the axis labels.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

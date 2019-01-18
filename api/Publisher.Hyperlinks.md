@@ -94,3 +94,4 @@ The  **[Count](./Publisher.Hyperlinks.Count.md)** property for this collection r
 |[Item](./Publisher.Hyperlinks.Item.md)|
 |[Parent](./Publisher.Hyperlinks.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

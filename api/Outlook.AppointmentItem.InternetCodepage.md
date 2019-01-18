@@ -103,3 +103,4 @@ The following table lists the code pages Microsoft recommends that you use for t
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

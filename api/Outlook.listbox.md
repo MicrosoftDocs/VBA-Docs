@@ -36,4 +36,4 @@ If the style is 0, each item is on a separate row; the user selects an item by h
 
 If the style is 1, an  **OptionButton** or **CheckBox** appears at the beginning of each row. With this style, the user selects an item by clicking the option button or check box. Check boxes appear only when the **[MultiSelect](Outlook.listbox.multiselect.md)** property is **True**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

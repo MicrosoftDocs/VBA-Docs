@@ -58,3 +58,4 @@ Debug.Print Modules.Item(0)
 
 [AllModules Collection](Access.AllModules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

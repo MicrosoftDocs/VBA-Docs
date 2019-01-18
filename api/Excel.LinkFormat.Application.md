@@ -44,3 +44,4 @@ End If
 
 [LinkFormat Object](Excel.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

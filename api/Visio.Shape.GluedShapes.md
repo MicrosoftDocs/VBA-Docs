@@ -64,4 +64,4 @@ If you specify an invalid shape for  _pOtherConnectedShape_ , Microsoft Visio re
 
  **GluedShapes** returns an empty array if there are no qualifying shapes to return.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

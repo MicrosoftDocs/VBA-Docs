@@ -34,3 +34,4 @@ This method fails if you run it on a control that is not of type  **wdContentCon
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

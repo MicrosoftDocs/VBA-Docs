@@ -51,3 +51,4 @@ The  **PickerDialog** object is available in the Microsoft Office type library. 
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

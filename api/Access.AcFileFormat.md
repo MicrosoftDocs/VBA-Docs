@@ -27,3 +27,4 @@ Specifies the Microsoft Access file format to use when converting an Access file
 |**acFileFormatAccess95**|7|Microsoft Access 95 format|
 |**acFileFormatAccess97**|8|Microsoft Access 97 format|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

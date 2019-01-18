@@ -30,3 +30,4 @@ Represents the type of hyperlink.
 | **pbHlinkTargetTypePreviousPage**|6|Previous Page|
 | **pbHlinkTargetTypeURL**|1|URL|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Category](./Outlook.Category.md) obje
 
 [Category Object](Outlook.Category.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

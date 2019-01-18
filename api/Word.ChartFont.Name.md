@@ -29,3 +29,4 @@ Returns or sets the name of the object. Read/write  **String**.
 
 [ChartFont Object](Word.ChartFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

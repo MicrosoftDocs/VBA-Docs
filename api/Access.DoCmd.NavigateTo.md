@@ -61,3 +61,4 @@ The following table contains examples of valid  _Group_ arguments for each _Cate
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

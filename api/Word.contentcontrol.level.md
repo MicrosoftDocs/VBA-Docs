@@ -32,3 +32,4 @@ Returns the level of the content control—whether the content control surrounds
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

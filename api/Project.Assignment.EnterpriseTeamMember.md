@@ -40,4 +40,4 @@ The  **EnterpriseTeamMember** method returns **False** for summary resource assi
 
 The  **EnterpriseTeamMember** method returns a trappable error (error code 1004) if the active view is not a Resource or Assignment view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

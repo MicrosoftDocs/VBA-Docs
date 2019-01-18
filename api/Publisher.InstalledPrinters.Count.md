@@ -28,4 +28,4 @@ Returns the number of printers installed on your computer. Read-only.
 
 Int
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

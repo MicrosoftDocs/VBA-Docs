@@ -43,3 +43,4 @@ This property is not available for OLE DB data sources.
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

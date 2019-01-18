@@ -40,4 +40,4 @@ The  **NewWindow** method opens a new window of the same type as the instance of
 
  **Note**  The  **NewWindow** method is not available for the Microsoft Visio Drawing Control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

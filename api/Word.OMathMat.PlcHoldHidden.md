@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether placeholders in a matrix 
 
 [OMathMat Object](Word.OMathMat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ This example hides the Publisher window.
 ActiveWindow.Visible = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

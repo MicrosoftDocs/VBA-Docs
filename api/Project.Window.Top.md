@@ -27,4 +27,4 @@ The window display area is below the ribbon in Project and Project. The default 
 
 For the distance of the main window from the top of the screen, see the  **[Top](Project.Application.Top.md)** property of the **Application** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

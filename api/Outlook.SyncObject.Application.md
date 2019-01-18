@@ -29,3 +29,4 @@ _expression_ A variable that represents a [SyncObject](./Outlook.SyncObject.md) 
 
 [SyncObject Object](Outlook.SyncObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

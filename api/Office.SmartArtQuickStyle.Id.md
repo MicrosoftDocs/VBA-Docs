@@ -35,3 +35,4 @@ The ID associated with this property is case sensitive.
 
 [SmartArtQuickStyle Object Members](./overview/Library-Reference/smartartquickstyle-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

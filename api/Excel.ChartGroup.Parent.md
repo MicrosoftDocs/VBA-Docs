@@ -29,3 +29,4 @@ _expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-ob
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

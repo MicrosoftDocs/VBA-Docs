@@ -39,4 +39,4 @@ The index number represents the position of the legend entry in the legend.  `Le
 myChart.Legend.LegendEntries(1).Font.Italic = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

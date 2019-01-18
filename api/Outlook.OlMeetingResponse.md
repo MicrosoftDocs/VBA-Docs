@@ -28,4 +28,4 @@ Indicates the response to a meeting request.
 
 See [MeetingItem Object (Outlook)](Outlook.MeetingItem.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

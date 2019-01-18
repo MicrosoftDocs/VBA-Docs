@@ -39,3 +39,4 @@ For more information about Content Types, see [Introduction to Content Types](ht
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

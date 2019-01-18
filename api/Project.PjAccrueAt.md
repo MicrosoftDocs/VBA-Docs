@@ -21,3 +21,4 @@ Contains constants that specify how the cost of a resource is accrued.
 |**pjProrated**|3|Task accrues the resource cost as the task progresses.|
 |**pjStart**|1| Task accrues the resource cost when the task starts.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

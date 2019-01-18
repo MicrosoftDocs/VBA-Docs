@@ -38,3 +38,5 @@ A Data Service data connection may contain one or more entities. Each entity spe
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ If you do not want any of the objects in the  **ServerViewableItems** collection
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

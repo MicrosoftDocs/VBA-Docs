@@ -33,4 +33,4 @@ Displays the  **More Groups** dialog box, which prompts the user to apply a grou
 
 The  **Groups** method corresponds to the following command on the Ribbon: In the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **More Groups**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

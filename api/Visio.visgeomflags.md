@@ -22,3 +22,4 @@ Flags to pass to methods of the  **Row** object that get and put vertex arrays, 
 | **visGeomWHPct**|16 (&H10)|The X and Y values are percentages of width and height.|
 | **visGeomXYLocal**|32 (&H20)|The X and Y values are local, internal units in the drawing.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

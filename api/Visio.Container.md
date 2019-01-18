@@ -33,4 +33,4 @@ Object
 
 The interface returned is the result of querying the  **IOleContainer** interface provided by the containing object for **IDispatch**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

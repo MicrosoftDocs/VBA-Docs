@@ -38,3 +38,4 @@ Specifies a document synchronization error.
 |**msoSyncErrorVirusDownload**|8|Virus downloaded.|
 |**msoSyncErrorVirusUpload**|7|Virus uploaded.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

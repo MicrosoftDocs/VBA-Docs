@@ -23,3 +23,5 @@ Specifies the line dash style for a series when its effective chart type is line
 |**acDashTypeDashDot**|3|Dash Dot|
 |**acDashTypeDot**|2|Dot|
 |**acDashTypeSolid**|0|Solid|
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

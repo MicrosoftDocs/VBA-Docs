@@ -24,3 +24,4 @@ Indicates the view mode when using a  **[TimelineView](Outlook.TimelineView.md)*
 | **olTimelineViewMonth**|2|Displays a timeline in which the upper scale represents months and the lower scale represents days.|
 | **olTimelineViewWeek**|1|Displays a timeline in which the upper scale represents weeks and the lower scale represents days.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

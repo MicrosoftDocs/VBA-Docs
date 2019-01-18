@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of categories in the collection. 
 
 [TablesOfAuthoritiesCategories Collection Object](Word.tablesofauthoritiescategories.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

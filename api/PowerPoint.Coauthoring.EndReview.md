@@ -34,3 +34,4 @@ Returns an error if the application is not already in merge mode.
 
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

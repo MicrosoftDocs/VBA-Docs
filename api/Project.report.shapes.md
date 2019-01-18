@@ -74,3 +74,5 @@ End Sub
 
 [Report Object](Project.report.md)
 [Shapes Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

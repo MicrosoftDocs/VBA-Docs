@@ -63,3 +63,4 @@ You can use the following  **[xlConstants](Word.XlConstants.md)** constants for 
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

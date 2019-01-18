@@ -52,3 +52,5 @@ Individual  **Page** objects in the **Pages** collection are indexed beginning w
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

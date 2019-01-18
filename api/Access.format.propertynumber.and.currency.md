@@ -95,3 +95,5 @@ The following are examples of custom number formats.
 - [Date/Time](Access.format.propertydate.time.md)
 - [Text and Memo](Access.format.propertytext.and.memo.md)
 - [Yes/No](Access.format.propertyyes.no.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

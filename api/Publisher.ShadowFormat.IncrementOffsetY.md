@@ -50,4 +50,4 @@ ActiveDocument.Pages(1).Shapes(3).Shadow _
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

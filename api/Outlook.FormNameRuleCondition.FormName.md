@@ -38,3 +38,4 @@ You can assign an array with one string or an array of multiple strings to the  
 
 [FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

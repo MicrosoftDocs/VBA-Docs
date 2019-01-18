@@ -185,3 +185,4 @@ This section contains documentation for the enumerations in the Project object m
 - [PjWorkContourType](Project.PjWorkContourType.md)
 - [PjYesNoAutomatic](Project.PjYesNoAutomatic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

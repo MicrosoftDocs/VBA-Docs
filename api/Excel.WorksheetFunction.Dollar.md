@@ -48,3 +48,4 @@ The major difference between formatting a cell that contains a number with the  
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

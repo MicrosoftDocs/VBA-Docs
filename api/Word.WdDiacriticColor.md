@@ -20,3 +20,4 @@ Specifies whether to apply a different color to diacritics in bi-directional or 
 | **wdDiacriticColorBidi**|0|Bi-directional language (Arabic, Hebrew, and so forth).|
 | **wdDiacriticColorLatin**|1|Latin style languages.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

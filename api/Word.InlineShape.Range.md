@@ -29,3 +29,4 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

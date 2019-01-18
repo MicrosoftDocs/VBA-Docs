@@ -33,4 +33,4 @@ Double
 
 The value of the  **PageTabWidth** property is a percentage of the drawing window width, from 0 to 100. To use the default page tab control width, set the **PageTabWidth** property to -1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Worksheets("Sheet1").Range("A1").Style.IncludeAlignment = True
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

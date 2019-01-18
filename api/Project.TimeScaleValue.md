@@ -83,3 +83,4 @@ TSV.Add 480, 2
 |[StartDate](./Project.TimeScaleValue.StartDate.md)|
 |[Value](./Project.TimeScaleValue.Value.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,3 +54,4 @@ Workbooks("BOOK1.XLS").Close SaveChanges:=False
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

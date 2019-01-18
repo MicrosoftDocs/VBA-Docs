@@ -54,3 +54,4 @@ If Err = 4198 Then MsgBox "Document was not closed"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

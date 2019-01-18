@@ -33,3 +33,4 @@ _expression_. `Item`( `_Index_` )
 
 [Permission Object Members](overview/Library-Reference/permission-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

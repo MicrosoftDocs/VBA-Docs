@@ -41,3 +41,4 @@ Flags to be passed to the ** Documents.AddEx** , **Documents.OpenEx** , and **Do
 | **visSaveAsRO**|1|Saves the document as read-only.|
 | **visSaveAsWS**|2|Saves the workspace and the file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

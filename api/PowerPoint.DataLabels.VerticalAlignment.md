@@ -44,3 +44,4 @@ You can set the value of this property to one of the following  **[xlConstants](
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

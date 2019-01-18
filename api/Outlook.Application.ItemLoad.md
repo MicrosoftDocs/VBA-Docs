@@ -50,6 +50,5 @@ This event is not raised when the following conditions occur:
 - A reminder is triggered for an Outlook item.
     
 - A Desktop Alert is displayed for an Outlook item.
-    
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

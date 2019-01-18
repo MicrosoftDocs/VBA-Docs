@@ -28,4 +28,4 @@ The default property of a  **Toolbars** collection is **Item**.
 
 Unlike other Microsoft Visio collections, the  **Toolbars** collection is indexed starting with zero (0) rather than 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

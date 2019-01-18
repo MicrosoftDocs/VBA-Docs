@@ -36,3 +36,4 @@ When the control is locked, the control does not have a "disabled" appearance, b
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

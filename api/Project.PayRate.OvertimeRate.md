@@ -25,4 +25,4 @@ Gets or sets the overtime rate for a  **PayRate** object. Read/write **Variant**
 
 For a code example that sets overtime rates for a resources, see  **[OvertimeRate](Project.Resource.OvertimeRate.md)** for the **Resource** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

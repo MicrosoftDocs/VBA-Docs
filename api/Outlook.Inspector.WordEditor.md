@@ -51,3 +51,4 @@ The  **WordEditor** property is only valid if the **[IsWordMail](Outlook.Inspect
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [ListBox.Clear Method (Outlook Forms Script)](Outlook.ListBox.clear.md)
     
 -  [ListBox.RemoveItem Method (Outlook Forms Script)](Outlook.ListBox.removeitem.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

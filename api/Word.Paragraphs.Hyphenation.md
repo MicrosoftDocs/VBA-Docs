@@ -44,3 +44,4 @@ ActiveDocument.Paragraphs.Hyphenation = False
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ Nothing
 
 [PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

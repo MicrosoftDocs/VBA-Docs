@@ -63,3 +63,4 @@ End With
 
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

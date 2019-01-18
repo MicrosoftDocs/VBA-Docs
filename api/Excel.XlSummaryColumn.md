@@ -20,3 +20,4 @@ Specifies the location of the summary columns in the outline.
 | **xlSummaryOnLeft**|-4131|The summary column will be positioned to the left of the detail columns in the outline.|
 | **xlSummaryOnRight**|-4152|The summary column will be positioned to the right of the detail columns in the outline.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

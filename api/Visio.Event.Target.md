@@ -37,4 +37,4 @@ If the action code of the event is  **visActCodeRunAddon** , the **Target** prop
 
 If the action code of the event is  **visActCodeAdvise** , the **Target** property is not available. Attempting to get or set the **Target** property for such an event causes an exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

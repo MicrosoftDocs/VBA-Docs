@@ -29,3 +29,4 @@ Constants that indicate the file format of the specified document.
 | **pbFileUnicodeText**|9|The file was saved in Unicode Text Format.|
 | **pbFileWebArchive**|5|The file was saved in the MHTML format that allows users to save a Web page and all its related files as a single file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

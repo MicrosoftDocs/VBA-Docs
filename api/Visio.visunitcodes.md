@@ -66,3 +66,4 @@ Unit codes used in conjunction with  **Cell.Result** and similar properties.
 | **visUnitsString**|231|String units|
 | **visYards**|75|Yards|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

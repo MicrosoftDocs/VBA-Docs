@@ -73,3 +73,4 @@ End With
 
 [ChartBorder Object](PowerPoint.ChartBorder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

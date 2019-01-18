@@ -45,3 +45,4 @@ Specifies the type of control created by the  **CreateControl** and **CreateRepo
 |**acToggleButton**|122|Toggle Button control.|
 |**acWebBrowser**|128|Web browser control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

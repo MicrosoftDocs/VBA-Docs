@@ -23,6 +23,6 @@ Gets a value that indicates the position of the task in the outline hierarchy. R
 
 ## Remarks
 
-An outline number of 1.1 indicates that the task is the first subtask under the first summary task. An outline number of 7.2 indicates that the task is the second subtask under the seventh top-level task. 
+An outline number of 1.1 indicates that the task is the first subtask under the first summary task. An outline number of 7.2 indicates that the task is the second subtask under the seventh top-level task.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

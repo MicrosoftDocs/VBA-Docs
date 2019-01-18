@@ -96,3 +96,4 @@ ActiveCell.Task.Split "10/3/2012", "10/8/2012"
 |[Parent](Project.SplitPart.Parent.md)|
 |[Start](Project.SplitPart.Start.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

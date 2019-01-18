@@ -39,4 +39,4 @@ MsgBox "The handle to the Publisher application window is " & _
  Application.ActiveWindow.Hwnd
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

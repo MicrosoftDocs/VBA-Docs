@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Tabs Properties (Outlook Forms Script)](Outlook.tabs(properties).md)
     
 -  [Tabs Methods (Outlook Forms Script)](Outlook.tabs(methods).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

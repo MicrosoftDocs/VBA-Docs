@@ -53,3 +53,4 @@ Worksheets("sheet1").ChartObjects(1).Chart _
 
 [LegendEntries Object](Excel.LegendEntries(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Indicates whether an inline shape has left, right, or in-text alignment.
 | **pbInlineAlignmentMixed**|-2|Shape is mixed-aligned.|
 | **pbInlineAlignmentRight**|2|Shape is right-aligned.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

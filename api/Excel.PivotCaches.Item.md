@@ -52,3 +52,4 @@ ActiveWorkbook.PivotCaches.Item(1).Refresh
 
 [PivotCaches Object](Excel.PivotCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

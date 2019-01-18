@@ -47,4 +47,4 @@ End If
 
 [ChartCategory Object](Excel.chartcategory.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

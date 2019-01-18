@@ -34,3 +34,4 @@ Use the  **[CancelRefresh](Excel.ODBCConnection.CancelRefresh.md)** method to ca
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

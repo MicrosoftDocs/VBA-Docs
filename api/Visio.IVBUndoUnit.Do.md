@@ -47,4 +47,4 @@ If the  **Do** method is passed a **Nothing** pointer, the unit should carry out
 
 For more information about the  **Do** method and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

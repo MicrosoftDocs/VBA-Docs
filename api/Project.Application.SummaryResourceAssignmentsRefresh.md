@@ -28,4 +28,4 @@ Refreshes the summary resource assignments of a project by getting the latest av
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

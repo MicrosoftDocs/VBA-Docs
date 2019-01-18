@@ -25,3 +25,4 @@ Constants that represent galleries of building blocks.
 | **pbBBGalNone**|-1 (&HFFFFFFFF)|No gallery|
 | **pbBBGalPageParts**|4|Page Parts gallery|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ Loads a bibliography source file.
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

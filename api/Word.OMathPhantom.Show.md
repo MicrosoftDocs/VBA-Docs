@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether the contents of a phantom
 
 [OMathPhantom Object](Word.OMathPhantom.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

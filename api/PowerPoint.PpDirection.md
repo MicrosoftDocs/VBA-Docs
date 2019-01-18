@@ -21,3 +21,4 @@ Specifies the layout direction for text, table cells , or user interface.
 |**ppDirectionMixed**|-2|Mixed layout|
 |**ppDirectionRightToLeft**|2|Right-to-left layout|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **LanguageSettings** object, which contains information about the lan
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

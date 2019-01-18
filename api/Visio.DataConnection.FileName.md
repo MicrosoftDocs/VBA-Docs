@@ -40,4 +40,4 @@ When you use the  **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.
 
 You can use the  **Data Connection Wizard** in Microsoft Access or Microsoft Excel to create an ODC file that will connect to and retrieve the data you want.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

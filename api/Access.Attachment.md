@@ -263,3 +263,5 @@ Office Access 2007 blocks the following types of attached files. At this time, y
 
 [Attachment Object Members](overview/Access.md)
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

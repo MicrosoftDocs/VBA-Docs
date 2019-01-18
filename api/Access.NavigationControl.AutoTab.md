@@ -47,3 +47,4 @@ You could use the  **AutoTab** property if you have a text box on a form for whi
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

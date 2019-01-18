@@ -28,4 +28,4 @@ Indicates whether the style includes fill attributes. Read/write.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

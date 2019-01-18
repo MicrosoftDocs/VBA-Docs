@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TabStrip** object.
 
 The minimum size is 4 points.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

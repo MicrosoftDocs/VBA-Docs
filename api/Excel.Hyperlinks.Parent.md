@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Hyperlinks](Excel.Hyperlinks.md) obje
 
 [Hyperlinks Object](Excel.Hyperlinks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

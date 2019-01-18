@@ -21,3 +21,4 @@ Specifies what bookmarks to include when exporting a document.
 | **wdExportCreateNoBookmarks**|0|Do not create bookmarks in the exported document.|
 | **wdExportCreateWordBookmarks**|2|Create a bookmark in the exported document for each Word bookmark, which includes all bookmarks except those contained within headers and footers.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Use this property with the  **[HeightRelative](Word.Shape.HeightRelative.md)** p
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

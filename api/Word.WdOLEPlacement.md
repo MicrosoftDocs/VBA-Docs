@@ -20,3 +20,4 @@ Specifies the placement for an OLE object.
 | **wdFloatOverText**|1|Float over text.|
 | **wdInLine**|0|In line with text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

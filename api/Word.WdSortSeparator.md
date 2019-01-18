@@ -21,3 +21,4 @@ Specifies the type of field separator.
 | **wdSortSeparateByDefaultTableSeparator**|2|Default table separator.|
 | **wdSortSeparateByTabs**|0|Tab.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

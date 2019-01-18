@@ -78,3 +78,4 @@ End Sub
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

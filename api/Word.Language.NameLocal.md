@@ -40,3 +40,4 @@ MsgBox Languages(wdGerman).Name
 
 [Language Object](Word.Language.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Specifies the line break control level for the specified document.
 | **wdFarEastLineBreakLevelNormal**|0|Normal line break control.|
 | **wdFarEastLineBreakLevelStrict**|1|Strict line break control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

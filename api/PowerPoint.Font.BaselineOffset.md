@@ -61,3 +61,4 @@ End With
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

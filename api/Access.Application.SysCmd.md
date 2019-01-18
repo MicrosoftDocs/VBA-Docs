@@ -90,6 +90,4 @@ SysCmd 14, "<ActiveX Control GUID>"
 > - Replace `<ActiveX Control GUID>` with the globally unique identifier (GUID) that identifies the ActiveX control that you want to enable in expressions.
 > - You cannot remove an ActiveX control once it has been added to the list of allowed controls.
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

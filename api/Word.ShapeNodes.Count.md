@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of shape nodes in the collection.
 
 [ShapeNodes Collection Object](Word.shapenodes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

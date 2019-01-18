@@ -59,4 +59,4 @@ End Sub
 
 If the document had no project associated with it, "0 -1" would be reported in the Immediate window. If the document had a project, the upper bound would be some number greater than zero (0). For example, "0 1535" would indicate that a project had 1,536 bytes of data.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

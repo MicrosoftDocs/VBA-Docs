@@ -25,4 +25,4 @@ Gets or sets the name of the calendar to be used when scheduling the task. Read/
 
 When there is no calendar set for the task, the  **Calendar** property is "None".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

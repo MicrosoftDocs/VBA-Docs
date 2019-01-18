@@ -32,3 +32,5 @@ For a code example that uses the  **Task** object, see **[Name](Project.Task.Nam
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

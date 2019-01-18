@@ -39,3 +39,4 @@ The property name is passed to the event so that you can determine which propert
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

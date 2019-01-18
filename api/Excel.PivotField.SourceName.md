@@ -60,3 +60,4 @@ When using the  **[Item](Excel.PivotItems.Item.md)** property to reference a spe
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

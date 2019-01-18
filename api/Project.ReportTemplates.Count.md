@@ -33,3 +33,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [ReportTemplates Collection Object](Project.reporttemplates.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

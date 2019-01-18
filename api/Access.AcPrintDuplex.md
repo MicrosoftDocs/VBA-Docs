@@ -24,3 +24,4 @@ Used with the  **Duplex** property to specify how the printer handles duplex pri
 |**acPRDPSimplex**|1|Single-sided printing with the current orientation setting.|
 |**acPRDPVertical**|3|Double-sided printing using a vertical page turn.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

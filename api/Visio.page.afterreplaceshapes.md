@@ -33,3 +33,4 @@ Occurs after a shape-replacement operation.
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

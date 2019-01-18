@@ -24,3 +24,4 @@ Used with the  **DisplayAsHyperlink** property to specify whether to display the
 |**acDisplayAsHyperlinkIfHlink**|0|Display the contents of the control as a hyperlink only when its contents are in the form of a Uniform Resource Locator (URL).|
 |**acDisplayAsHyperlinkOnScreenOnly**|2|Display the contents of the control as a hyperlink only on the screen.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

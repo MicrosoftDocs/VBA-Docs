@@ -26,4 +26,4 @@ This example sets the depth of the chart to be 50 percent of its width. The exam
 myChart.DepthPercent = 50
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

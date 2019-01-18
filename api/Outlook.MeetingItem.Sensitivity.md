@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagSensitivity**.
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

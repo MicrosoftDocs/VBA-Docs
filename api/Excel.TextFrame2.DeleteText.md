@@ -43,3 +43,4 @@ With ActiveSheet.Shapes(1).TextFrame2
 
 [TextFrame2 Object](Excel.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ Creates a test condition against the value of a custom field to determine which 
 
 The  **CustomFieldIndicatorAdd** method returns a trappable error (error code 1004) if the list specified by _CriteriaList_ is read-only because it has been set to inherit values from another list.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

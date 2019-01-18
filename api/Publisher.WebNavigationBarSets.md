@@ -118,3 +118,4 @@ ActiveDocument.WebNavigationBarSets.Item _
 |[Count](Publisher.WebNavigationBarSets.Count.md)|
 |[Parent](Publisher.WebNavigationBarSets.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

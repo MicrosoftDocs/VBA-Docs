@@ -31,3 +31,4 @@ For an example that uses the  **TotalDetectedCount** property, see the **[Item](
 
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

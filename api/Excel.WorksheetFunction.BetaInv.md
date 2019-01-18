@@ -66,3 +66,4 @@ Given a value for probability, BetaInv seeks that value x such that BetaDist(x, 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

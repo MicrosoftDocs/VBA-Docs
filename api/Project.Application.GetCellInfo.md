@@ -54,4 +54,4 @@ Dim c As Cell
  c.CellColor = pjRed 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

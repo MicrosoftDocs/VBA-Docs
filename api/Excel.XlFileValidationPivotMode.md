@@ -35,3 +35,4 @@ The effect of the  **xlFileValidationPivotDefault** setting is controlled by the
 |1|Validate PivotTable report data caches in the following cases (Default setting):<ul><li><p>The file was opened from the Internet.</p></li><li><p>The file is an email attachment.</p></li><li><p>The file was opened by using the <span class="ui">Open in Protected View</span> command of the <span class="ui">Open</span> dialog box.</p></li><li><p>The file was opened from a known unsafe location where Internet content is cached locally, or from a user-defined untrusted location. </p></li><li><p>The data cache is parsed on load when the file is opened.</p></li></ul>|
 |2|Validate all PivotTable report data caches.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

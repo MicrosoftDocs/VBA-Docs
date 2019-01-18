@@ -34,3 +34,4 @@ Use the  **[CancelRefresh](Excel.OLEDBConnection.CancelRefresh.md)** method to c
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

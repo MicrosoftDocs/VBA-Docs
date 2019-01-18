@@ -40,3 +40,4 @@ ActiveSheet.Scenarios(1).ChangingCells.Select
 
 [Scenario Object](Excel.Scenario.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

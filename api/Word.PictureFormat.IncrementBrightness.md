@@ -62,3 +62,4 @@ End With
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

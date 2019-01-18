@@ -42,3 +42,4 @@ An  **Object** value that represents the specified object.
 
 [Panes Object](Outlook.Panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

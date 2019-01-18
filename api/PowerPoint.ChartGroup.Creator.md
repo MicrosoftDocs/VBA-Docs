@@ -26,3 +26,4 @@ _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md
 
 [ChartGroup Object](PowerPoint.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

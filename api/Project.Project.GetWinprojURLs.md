@@ -117,4 +117,4 @@ The following is an example of the XML schema definition.
 </xs:schema>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

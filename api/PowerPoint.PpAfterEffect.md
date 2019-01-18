@@ -23,3 +23,4 @@ Indicates whether the specified shape appears dimmed, hidden, or unchanged after
 |**ppAfterEffectMixed**|-2|Mixed effect|
 |**ppAfterEffectNothing**|0|No effect|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

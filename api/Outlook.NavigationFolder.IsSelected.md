@@ -42,3 +42,4 @@ The  **[SelectedChange](Outlook.NavigationGroups.SelectedChange.md)** event for 
 
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

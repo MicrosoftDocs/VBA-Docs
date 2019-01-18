@@ -23,3 +23,4 @@ Specifies target browser for documents viewed in a Web browser.
 |**msoTargetBrowserV3**|0|Netscape Navigator 3.|
 |**msoTargetBrowserV4**|1|Netscape Navigator 4.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

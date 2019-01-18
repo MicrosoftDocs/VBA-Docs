@@ -37,3 +37,4 @@ Specifies the effects camera type and rotation to use for the specified  **Three
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

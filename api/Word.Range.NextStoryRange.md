@@ -41,3 +41,4 @@ The following table describes the range returned depending on the type of story.
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

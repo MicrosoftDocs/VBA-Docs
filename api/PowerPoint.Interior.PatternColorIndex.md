@@ -67,3 +67,4 @@ End With
 
 [Interior Object](PowerPoint.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

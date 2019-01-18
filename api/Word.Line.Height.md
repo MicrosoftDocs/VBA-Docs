@@ -29,3 +29,4 @@ Returns or sets the height of a line.
 
 [Line Object](Word.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets the name and version of the operating system. Read-only  **String**.
 
 For example, in a pre-release installation of 32-bit Microsoft Windows 7, the  **OperatingSystem** property is "Windows (32-bit) NT 6.1".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

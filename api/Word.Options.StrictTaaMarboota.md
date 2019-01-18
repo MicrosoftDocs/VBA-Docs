@@ -34,3 +34,4 @@ Setting this property has the same effect as selecting or clearing the  **Enforc
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

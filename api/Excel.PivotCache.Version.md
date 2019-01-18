@@ -34,3 +34,4 @@ This property returns the version of the PivotTable. Default settings and behavi
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

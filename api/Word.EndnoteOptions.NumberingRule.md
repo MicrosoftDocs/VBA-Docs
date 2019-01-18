@@ -39,3 +39,4 @@ ActiveDocument.Endnotes.NumberingRule = wdRestartSection
 
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

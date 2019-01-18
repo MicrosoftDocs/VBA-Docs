@@ -29,3 +29,4 @@ Returns or sets the width of the specified  **Task** object, in points. Read/wri
 
 [Task Object](Word.Task.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

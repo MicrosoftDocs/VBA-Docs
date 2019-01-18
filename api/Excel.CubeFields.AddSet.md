@@ -81,3 +81,4 @@ End Sub
 
 [CubeFields Object](Excel.CubeFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

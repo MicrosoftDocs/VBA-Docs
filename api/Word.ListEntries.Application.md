@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

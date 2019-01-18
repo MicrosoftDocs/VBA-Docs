@@ -62,3 +62,4 @@ To distinguish between the left, right, and middle mouse buttons, use the **Mous
 
 [OptionButton Object](Access.OptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

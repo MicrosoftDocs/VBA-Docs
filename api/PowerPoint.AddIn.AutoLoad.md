@@ -82,3 +82,4 @@ Application.AddIns("mytools").AutoLoad = msoTrue
 
 [AddIn Object](PowerPoint.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

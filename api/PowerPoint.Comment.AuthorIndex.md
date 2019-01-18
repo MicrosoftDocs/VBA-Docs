@@ -63,3 +63,4 @@ End Sub
 
 [Comment Object](PowerPoint.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

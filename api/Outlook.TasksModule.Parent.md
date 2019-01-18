@@ -29,3 +29,4 @@ _expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md
 
 [TasksModule Object](Outlook.TasksModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

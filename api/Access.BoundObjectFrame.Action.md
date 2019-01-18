@@ -69,3 +69,4 @@ When a control's **Enabled** property is set to No or its **Locked** property is
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

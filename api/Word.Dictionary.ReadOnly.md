@@ -34,3 +34,4 @@ The active grammar, hyphenation, spelling, and thesaurus dictionaries are read-o
 
 [Dictionary Object](Word.Dictionary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

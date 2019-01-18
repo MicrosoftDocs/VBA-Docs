@@ -57,3 +57,4 @@ AutoCorrect.Entries("sr").Apply ActiveDocument.Words(1)
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

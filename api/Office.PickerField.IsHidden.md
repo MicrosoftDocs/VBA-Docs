@@ -33,3 +33,4 @@ _expression_. `IsHidden`
 
 [PickerField Object Members](./overview/Library-Reference/pickerfield-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

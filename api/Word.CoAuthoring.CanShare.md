@@ -47,3 +47,4 @@ End If
 
 [CoAuthoring Object](Word.CoAuthoring.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,4 @@ This example sets the default chart template to the custom autoformat named "Mon
 myChart.Application.SetDefaultChart FormatName:="Monthly Sales"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

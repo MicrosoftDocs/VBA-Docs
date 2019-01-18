@@ -33,3 +33,4 @@ _expression_ A variable that represents a [ModelColumnChange object (Excel)](Exc
 
 [ModelColumnChange Object](Excel.modelcolumnchange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

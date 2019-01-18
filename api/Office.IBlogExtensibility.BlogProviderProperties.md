@@ -38,3 +38,4 @@ _expression_.**BlogProviderProperties** (_BlogProvider_, _FriendlyName_, _Catego
 
 - [IBlogExtensibility object members](overview/Library-Reference/iblogextensibility-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

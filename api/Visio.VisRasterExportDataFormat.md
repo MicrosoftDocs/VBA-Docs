@@ -24,3 +24,4 @@ Specifies constants that identify which raster export data format algorithm to u
 | **visRasterInterlace**|0|Interlace format; the default.|
 | **visRasterNonInterlace**|1|Non-interlace format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

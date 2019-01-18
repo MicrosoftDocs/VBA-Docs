@@ -97,4 +97,4 @@ Private Sub Document_ShapeAdded(ByVal vsoShape As Visio.IVShape)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [Reminder Object](Outlook.Reminder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

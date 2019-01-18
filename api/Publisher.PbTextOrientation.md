@@ -25,3 +25,4 @@ Represents how text flows in a text box.
 | **pbTextOrientationRightToLeft**|256|RightToLeft text orientation|
 | **pbTextOrientationVerticalEastAsia**|2|VerticalEastAsia text orientation|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

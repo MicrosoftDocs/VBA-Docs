@@ -21,3 +21,4 @@ Specifies where to relocate a chart.
 | **xlLocationAsObject**|2|Chart is to be embedded in an existing sheet.|
 | **xlLocationAutomatic**|3|Excel controls chart location.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

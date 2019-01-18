@@ -62,3 +62,4 @@ The following sample code uses the  **SeriesNameLevel** property to set the char
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

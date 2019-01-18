@@ -44,3 +44,4 @@ You specify the data source in the prefix for the  **[Connection](Excel.PivotCac
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Returns or sets the distance in points from the top edge of the specified window
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

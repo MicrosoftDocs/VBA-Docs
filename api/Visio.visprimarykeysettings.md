@@ -25,3 +25,4 @@ Primary key settings constants passed to the  **[DataRecordset.SetPrimaryKey](Vi
 | **visKeyRowOrder**|1|Use row order as the primary key.|
 | **visKeySingle**|2|Use a single column as the primary key column.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

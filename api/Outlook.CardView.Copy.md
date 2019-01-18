@@ -43,3 +43,4 @@ A  **View** object that represents the new view.
 
 [CardView Object](Outlook.CardView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

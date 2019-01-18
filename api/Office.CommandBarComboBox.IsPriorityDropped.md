@@ -53,3 +53,5 @@ You can use the following table to predict the number of sessions for which a me
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

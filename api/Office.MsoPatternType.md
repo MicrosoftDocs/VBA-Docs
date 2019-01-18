@@ -73,3 +73,4 @@ Specifies the fill pattern used in a shape.
 |**msoPatternWideUpwardDiagonal**|26|Wide Upward Diagonal|
 |**msoPatternZigZag**|38|Zig Zag|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

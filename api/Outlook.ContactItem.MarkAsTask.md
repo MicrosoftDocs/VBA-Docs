@@ -42,3 +42,4 @@ Calling this method sets the value of several other properties, depending on the
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

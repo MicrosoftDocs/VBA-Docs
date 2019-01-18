@@ -29,3 +29,4 @@ Gets a single  **Group** object from the **TaskGroups** collection. Read-only **
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Variant**|The name or index number of the object to return.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

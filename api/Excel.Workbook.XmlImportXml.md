@@ -70,3 +70,4 @@ Use the  **XMLImport** method of the **[Workbook](Excel.Workbook.md)** object to
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property corresponds to the  **Hide built-in name when alternate names exis
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

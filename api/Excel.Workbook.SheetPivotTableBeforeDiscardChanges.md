@@ -50,3 +50,4 @@ Occurs immediately before Excel executes a  **ROLLBACK TRANSACTION** statement a
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

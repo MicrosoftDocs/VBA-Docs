@@ -24,3 +24,4 @@ Specifies constants that define the end points of a connector; passed to the  **
 | **visConnectorEndPoint**|1|The end point of the connector.|
 | **visConnectorBothEnds**|2|Both the begin point and the end point of the connector.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

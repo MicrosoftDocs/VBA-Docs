@@ -18,4 +18,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 _expression_ A variable that represents a '[ChartCategory](PowerPoint.chartcategory.md)' object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

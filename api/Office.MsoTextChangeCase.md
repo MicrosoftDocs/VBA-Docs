@@ -23,3 +23,4 @@ Specifies the capitalization of text.
 |**msoCaseToggle**|5|Indicates that lowercase text should be converted to uppercase and that uppercase text should be converted to lowercase text. |
 |**msoCaseUpper**|3|Display the text as uppercase characters.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

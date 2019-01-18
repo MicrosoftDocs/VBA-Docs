@@ -37,3 +37,5 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [Years Collection Object](Project.years.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

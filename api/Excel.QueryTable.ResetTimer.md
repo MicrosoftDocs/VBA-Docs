@@ -39,3 +39,4 @@ ActiveSheet.QueryTables(1).ResetTimer
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

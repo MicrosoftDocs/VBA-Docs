@@ -26,3 +26,4 @@ Constants describing the style of command bar buttons to be passed to and return
 | **visButtonIconandCaption**|3|Image and text.|
 | **visButtonIcon**|1|Text only (in menus).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

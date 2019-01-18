@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [CheckBox Properties (Outlook Forms Script)](Outlook.checkbox(properties.md)
     
 -  [CheckBox Events (Outlook Forms Script)](Outlook.checkbox(event).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

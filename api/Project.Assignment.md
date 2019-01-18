@@ -332,3 +332,4 @@ ActiveProject.Tasks(1).Assignments.Add ResourceID:=212
 |[WorkVariance](./Project.Assignment.WorkVariance.md)|
 |[Compliant](./Project.assignment.compliant.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

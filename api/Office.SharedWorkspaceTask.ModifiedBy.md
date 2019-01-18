@@ -46,3 +46,4 @@ For shared workspace objects, the  **ModifiedBy** property returns the display n
 
 [SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

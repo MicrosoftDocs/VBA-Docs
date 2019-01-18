@@ -29,3 +29,4 @@ Returns or sets a  **Single** that represents the width of the shadow. Read/writ
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

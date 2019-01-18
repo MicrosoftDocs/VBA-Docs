@@ -34,3 +34,4 @@ You can use an ID label as a hyperlink reference in other HTML documents or on t
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

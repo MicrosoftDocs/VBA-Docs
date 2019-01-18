@@ -34,3 +34,4 @@ The  **[LastName](Outlook.ContactItem.LastName.md)** , **[FirstName](Outlook.Con
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

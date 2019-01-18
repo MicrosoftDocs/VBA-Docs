@@ -48,4 +48,4 @@ The following code gets a value that indicates whether the layer at index positi
 Debug.Print vsoViewer.LayerDeleted(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

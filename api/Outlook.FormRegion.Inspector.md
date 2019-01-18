@@ -34,3 +34,4 @@ Returns  **Null** (**Nothing** in Visual Basic) if the form region is displayed 
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

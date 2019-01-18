@@ -53,3 +53,4 @@ To use content indexing search in a  **Table** , use the **[Restrict](Outlook.Ta
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

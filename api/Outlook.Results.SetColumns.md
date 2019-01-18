@@ -34,3 +34,4 @@ The  **SetColumns** method is useful for iterating through the **[Results](Outlo
 
 [Results Object](Outlook.Results.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,3 +42,4 @@ A  **SyncObject** object that represents the specified object.
 
 [SyncObjects Object](Outlook.SyncObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

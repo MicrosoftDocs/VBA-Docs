@@ -33,4 +33,4 @@ String
 
 If the help string is blank, the  **Help** command uses the help string defined by the shortcut's target master, determined by the **Help** property of that master's top-level shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [DropLines Object](Excel.DropLines(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

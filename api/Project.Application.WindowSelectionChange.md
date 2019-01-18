@@ -40,4 +40,4 @@ nothing
 
 The  **WindowSelectionChange** event does not occur when changing the selection on the right pane of a **Task Usage** or **Resource Usage** view, or when changing the selection within a node in the ** Network Diagram** view.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

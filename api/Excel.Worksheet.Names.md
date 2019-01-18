@@ -45,3 +45,4 @@ ActiveWorkbook.Names.Add Name:="myName", RefersToR1C1:= _
 
 [Worksheet Object](Excel.Worksheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

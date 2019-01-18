@@ -30,3 +30,4 @@ Contains constants that specify the type of calculation to be performed for summ
 |**pjCalcRollupOr**|0|Rollup Or.|
 |**pjCalcRollupSum**|3|Rollup Sum.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

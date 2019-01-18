@@ -35,4 +35,4 @@ _expression_ A variable that returns an [AddIns2](Excel.AddIns2.md) object.
 
 AddIn
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

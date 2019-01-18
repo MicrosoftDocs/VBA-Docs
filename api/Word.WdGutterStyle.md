@@ -21,3 +21,4 @@ Specifies where the gutter appears in the document.
 | **wdGutterPosRight**|2|On the right side.|
 | **wdGutterPosTop**|1|At the top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

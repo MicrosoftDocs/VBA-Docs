@@ -47,5 +47,4 @@ Range("A1").Select
 ActiveCell.NavigateArrow True, 1
 ```
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

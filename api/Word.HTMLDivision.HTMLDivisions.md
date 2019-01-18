@@ -79,3 +79,4 @@ End Sub
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.JournalItem.Close(method).md)** method to fire
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

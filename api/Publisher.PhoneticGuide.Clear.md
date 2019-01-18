@@ -23,4 +23,4 @@ Removes the phonetic information from Japanese text.
 
  _expression_ A variable that represents a  **PhoneticGuide** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

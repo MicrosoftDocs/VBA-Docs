@@ -47,3 +47,5 @@ End With
 
 [PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
 [SlideShowView Object Members](./overview/PowerPoint.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

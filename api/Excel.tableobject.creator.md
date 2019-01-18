@@ -38,3 +38,4 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [TableObject Object](Excel.tableobject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

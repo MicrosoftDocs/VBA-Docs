@@ -34,3 +34,4 @@ Changing the value for the  **[AppointmentItem.Start](Outlook.AppointmentItem.St
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

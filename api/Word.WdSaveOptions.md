@@ -21,3 +21,4 @@ Specifies how pending changes should be handled.
 | **wdPromptToSaveChanges**|-2|Prompt the user to save pending changes.|
 | **wdSaveChanges**|-1|Save pending changes automatically without prompting the user.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

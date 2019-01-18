@@ -67,3 +67,4 @@ End With
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

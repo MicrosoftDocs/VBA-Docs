@@ -42,4 +42,4 @@ Sets a reminder in Microsoft Outlook for the start time or finish time of the ac
 
 The  **ReminderSet** method is available only in Project Professional.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

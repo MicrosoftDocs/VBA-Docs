@@ -44,3 +44,4 @@ Worksheets("Sheet1").Range("A1:G37").ClearContents
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

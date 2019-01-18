@@ -36,3 +36,4 @@ Specifies the formatting to use when pasting the selected table cells.
 | **wdTableOverwriteCells**|23|Pastes table cells and overwrites existing table cells.|
 | **wdUseDestinationStylesRecovery**|19|Uses the styles that are in use in the destination document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

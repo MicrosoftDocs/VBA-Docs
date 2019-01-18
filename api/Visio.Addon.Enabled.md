@@ -35,4 +35,4 @@ An add-on implemented by an executable (EXE) file always reports itself as enabl
 
 You cannot tell an add-on to enable or disable itself. Visio will not send a run message to a disabled add-on. If an add-on is disabled, its name appears unavailable in the Visio user interface.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

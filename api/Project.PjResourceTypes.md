@@ -21,3 +21,4 @@ Contains constants that specify the type of resource.
 |**pjResourceTypeMaterial**|1|Resource type is  **Material**.|
 |**pjResourceTypeWork**|0|Resource type is  **Work**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

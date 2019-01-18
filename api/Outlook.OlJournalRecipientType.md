@@ -22,3 +22,4 @@ Indicates the recipient type for Journal items.
 |:-----|:-----|:-----|
 | **olAssociatedContact**|1|The Contact associated with the Journal item.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

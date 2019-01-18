@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ Combines all of the shapes in the range to create a single new shape.
 
  **VOID**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

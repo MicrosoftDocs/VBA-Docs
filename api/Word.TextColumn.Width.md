@@ -39,3 +39,4 @@ Next acol
 
 [TextColumn Object](Word.TextColumn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

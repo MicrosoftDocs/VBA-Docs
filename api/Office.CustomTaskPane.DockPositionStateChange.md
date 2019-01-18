@@ -62,3 +62,5 @@ private void CTP_DockPositionStateChange(object sender, string dockpositionArgs)
 ## See also
 
 - [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

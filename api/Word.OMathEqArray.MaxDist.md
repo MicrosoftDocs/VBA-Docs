@@ -34,3 +34,4 @@ The container for an equation array may be the margins of a page, the margins of
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

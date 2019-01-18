@@ -44,3 +44,4 @@ End If
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

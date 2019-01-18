@@ -43,3 +43,4 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

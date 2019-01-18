@@ -44,3 +44,4 @@ End If
 
 [PivotLayout Object](Excel.PivotLayout.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

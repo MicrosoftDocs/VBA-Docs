@@ -21,3 +21,4 @@ Specifies page break location in the worksheet.
 | **xlPageBreakManual**|-4135|Page breaks are manually inserted.|
 | **xlPageBreakNone**|-4142|Page breaks are not inserted in the worksheet.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

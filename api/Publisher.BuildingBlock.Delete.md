@@ -23,4 +23,4 @@ Deletes the specified  **BuildingBlock** object from the **[BuildingBlocks](Publ
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,4 +76,4 @@ Following is the format of the XML string returned by  **GetProjectServerSetting
 
  **GroupsForCurrentProjectManager -** The security groups that the project manager is a member of.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

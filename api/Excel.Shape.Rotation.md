@@ -34,3 +34,4 @@ Rotations are always rounded to the nearest integer.
 
 [Shape Object](Excel.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

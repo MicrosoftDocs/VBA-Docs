@@ -42,3 +42,4 @@ ListGallery
 
 [ListGalleries Collection Object](Word.listgalleries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

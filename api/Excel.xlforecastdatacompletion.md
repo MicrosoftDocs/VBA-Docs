@@ -29,3 +29,4 @@ Constants passed to various  **WorksheetFunction** and **Workbook** statistical 
 [Forecast_ETS_STAT Method](Excel.worksheetfunction.forecast_ets_stat.md)
 [Workbook.CreateForecastSheet Method](Excel.workbook.createforecastsheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

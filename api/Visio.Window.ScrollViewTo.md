@@ -44,4 +44,4 @@ The  **ScrollViewTo** method scrolls to the _x_ and _y_ coordinates.
 
 If the value of the  **Window** object's **Type** property is not **visDrawing** , the method raises an exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

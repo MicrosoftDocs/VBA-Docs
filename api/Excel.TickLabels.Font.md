@@ -29,3 +29,4 @@ _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

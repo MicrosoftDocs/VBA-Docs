@@ -66,3 +66,4 @@ Workbooks("Book1").Connections.Add2 _
 
 [PivotCaches Object](Excel.PivotCaches.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

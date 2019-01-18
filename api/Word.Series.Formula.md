@@ -38,3 +38,4 @@ If the range is a one- or two-dimensional range, you can set the formula to a Vi
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,3 +28,4 @@ _expression_ Required. A variable that represents a **[CommandBarPopup](Office.C
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

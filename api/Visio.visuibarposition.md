@@ -29,3 +29,4 @@ Values passed to and returned by the  **MenuSet.Position** and **Toolbar.Positio
 | **visBarRight**|2|Display docked at right of drawing window.|
 | **visBarTop**|1|Display docked at top of drawing window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

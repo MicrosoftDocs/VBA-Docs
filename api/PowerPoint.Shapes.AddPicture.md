@@ -61,3 +61,4 @@ myDocument.Shapes.AddPicture FileName:="c:\microsoft office\" & _
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

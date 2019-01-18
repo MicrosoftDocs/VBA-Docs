@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 
 [GroupShapes Collection Object](Word.groupshapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

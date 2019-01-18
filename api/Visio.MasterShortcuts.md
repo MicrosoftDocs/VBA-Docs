@@ -23,4 +23,4 @@ To retrieve a  **MasterShortcuts** collection, use the **MasterShortcuts** prope
 
 The default property of a  **MasterShortcuts** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

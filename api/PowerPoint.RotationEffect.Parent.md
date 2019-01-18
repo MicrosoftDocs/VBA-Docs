@@ -52,3 +52,4 @@ End With
 
 [RotationEffect Object](PowerPoint.RotationEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

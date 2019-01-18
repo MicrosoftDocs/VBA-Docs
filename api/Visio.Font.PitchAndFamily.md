@@ -33,4 +33,4 @@ Integer
 
 The possible values of the  **PitchAndFamily** property correspond to those of the **lfPitchAndFamily** member of the Windows **LOGFONT** data structure. For details, search for "LOGFONT" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The  **Index** property is only valid during the current session and can change 
 
 [Attachment Object](Outlook.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagImportance**.
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

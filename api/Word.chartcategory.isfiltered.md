@@ -32,4 +32,4 @@ Returns or sets a  **Boolean** that determines whether the specified chart categ
 
 [ChartCategory Object](Word.chartcategory.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Minimizes the main window.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

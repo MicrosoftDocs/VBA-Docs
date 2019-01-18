@@ -52,3 +52,4 @@ The event does not fire under the following circumstances:
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

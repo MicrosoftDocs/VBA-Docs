@@ -45,3 +45,4 @@ Dialogs(wdDialogInsertBookmark).Show
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

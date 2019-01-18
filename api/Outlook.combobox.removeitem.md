@@ -34,4 +34,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 A  **Boolean** that returns **True** if the method succeeds, **False** otherwise.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

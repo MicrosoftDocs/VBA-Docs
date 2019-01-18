@@ -38,4 +38,4 @@ Regardless of which method you use to create the group of buttons, clicking one 
 
 For example, assume your form includes some option buttons and a  **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The option buttons on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a button on the **MultiPage** does not affect the buttons on the form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

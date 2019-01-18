@@ -48,4 +48,4 @@ The following code shows how to override the color of the layer at index positio
 vsoViewer.LayerColorOverride(1) = False
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

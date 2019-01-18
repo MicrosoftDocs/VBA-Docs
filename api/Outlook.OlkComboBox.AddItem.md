@@ -43,3 +43,4 @@ If the value of  _Index_ is equal to or larger than the number of elements in th
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

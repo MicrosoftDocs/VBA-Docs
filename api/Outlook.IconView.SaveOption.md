@@ -120,3 +120,4 @@ End Sub
 
 [IconView Object](Outlook.iconView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

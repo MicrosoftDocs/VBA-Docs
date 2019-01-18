@@ -34,3 +34,4 @@ The  **PrintOut** method is the only Outlook method that can be used for printin
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

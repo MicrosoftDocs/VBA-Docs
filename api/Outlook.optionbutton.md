@@ -27,4 +27,4 @@ You can also use an  **OptionButton** inside a group box to select one or more o
 
 The default property for an  **OptionButton** is the **[Value](Outlook.optionbutton.value.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -162,3 +162,4 @@ Contains constants that specify the mail field. Obsolete.
 |**pjMailTaskWBS**|188743696|Represents the WBS (Task) field.|
 |**pjMailWork**|32772|Represents the Work field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -67,3 +67,4 @@ For example, the following settings are applied to a 4-inch list box with three 
 
 [ListBox Object](Access.ListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

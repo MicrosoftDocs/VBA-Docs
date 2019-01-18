@@ -38,4 +38,4 @@ Pastes a shape to the specified location.
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [RuleActions](./Outlook.RuleActions.md
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

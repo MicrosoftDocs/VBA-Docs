@@ -74,4 +74,4 @@ Private Sub vsoApplication_CellChanged(ByVal vsoCell As IVCell)
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

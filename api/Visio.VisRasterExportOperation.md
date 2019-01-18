@@ -24,3 +24,4 @@ Specifies constants that identify the varieties of raster export operations; pas
 | **visRasterBaseline**|0|Baseline operation; the default.|
 | **visRasterProgressive**|1|Progressive operation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

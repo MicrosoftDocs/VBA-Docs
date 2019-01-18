@@ -47,3 +47,5 @@ The  **ShowOSFTaskPane** method is not fully implemented in Project. If another 
 
 
 [Application Object](Project.Application.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

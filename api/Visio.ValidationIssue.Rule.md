@@ -28,4 +28,4 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that generated
 
  **ValidationRule**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

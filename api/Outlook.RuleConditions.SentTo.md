@@ -36,3 +36,4 @@ This property of the  **[RuleConditions](Outlook.RuleConditions.md)** collection
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,3 +51,4 @@ Microsoft Access uses the DEVNAMES structure to initialize the  **Print** dialog
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property will always return a  **Long** value of "4", which is equivalent t
 
 [Databar Object](Excel.Databar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

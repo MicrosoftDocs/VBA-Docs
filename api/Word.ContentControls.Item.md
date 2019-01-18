@@ -39,3 +39,4 @@ ContentControl
 
 [ContentControls Collection](Word.ContentControls.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

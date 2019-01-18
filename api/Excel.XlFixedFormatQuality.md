@@ -20,3 +20,4 @@ Specifies the quality of speadsheets saved in different fixed formats.
 | **xlQualityMinimum**|1|Minimum quality|
 | **xlQualityStandard**|0|Standard quality|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

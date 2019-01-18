@@ -40,3 +40,4 @@ Range("A1").Precedents.Select
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

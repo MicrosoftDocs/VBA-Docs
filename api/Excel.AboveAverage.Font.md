@@ -34,3 +34,4 @@ Not all properties of the  **Font** object are supported for a conditional forma
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

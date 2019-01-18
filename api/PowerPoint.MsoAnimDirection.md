@@ -63,3 +63,4 @@ Specifies the direction used for an animation effect.
 |**msoAnimDirectionVerticalIn**|25|Moves Vertically In|
 |**msoAnimDirectionVerticalOut**|26|Moves Vertically Out|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

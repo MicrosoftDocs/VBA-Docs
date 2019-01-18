@@ -20,3 +20,4 @@ Specifies the verb on which the server of the OLE object should act.
 | **xlVerbOpen**|2|Open the object.|
 | **xlVerbPrimary**|1|Perform the primary action for the server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

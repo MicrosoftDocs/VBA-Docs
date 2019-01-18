@@ -34,3 +34,4 @@ This property returns  **True** when a given member property is used as a captio
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

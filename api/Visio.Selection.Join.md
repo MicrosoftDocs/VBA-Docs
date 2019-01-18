@@ -48,4 +48,4 @@ The  **Join** method and the **Combine** method are similar but differ in the fo
 
 You might want to join shapes after importing a non-Visio drawing in which apparent polylines are represented by many independent shapes, each possessing a single line or curve segment. By joining the shapes that constitute a polyline in such a drawing, you can replace many single-segment shapes with one multiple-segment shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

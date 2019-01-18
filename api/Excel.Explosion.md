@@ -24,4 +24,4 @@ myChart.SeriesCollection(1).Points(2). Explosion = 20
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

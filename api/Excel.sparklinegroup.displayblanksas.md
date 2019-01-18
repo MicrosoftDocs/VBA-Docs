@@ -23,4 +23,4 @@ _expression_ A variable that represents a [SparklineGroup](./Excel.SparklineGrou
 
  **XLDISPLAYBLANKSAS**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,3 +60,4 @@ MsgBox KeyString(KeyCode:=BuildKeyCode(wdKeyControl, _
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

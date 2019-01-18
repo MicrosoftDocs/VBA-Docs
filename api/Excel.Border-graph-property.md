@@ -30,4 +30,4 @@ This example sets the color of the chart area border to red.
 myChart.ChartArea.Border.ColorIndex = 3
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

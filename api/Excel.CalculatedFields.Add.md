@@ -55,3 +55,4 @@ Worksheets(1).PivotTables(1).CalculatedFields.Add "PxS", _
 
 [CalculatedFields Collection](Excel.CalculatedFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -115,3 +115,4 @@ Specifies the special effect applied to the animation for the specified shape or
 |**ppEffectZoomOut**|3347|Zoom Out|
 |**ppEffectZoomOutSlightly**|3348|Zoom Out Slightly|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

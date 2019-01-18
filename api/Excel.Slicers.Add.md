@@ -64,3 +64,4 @@ End Sub
 
 [Slicers Object](Excel.Slicers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

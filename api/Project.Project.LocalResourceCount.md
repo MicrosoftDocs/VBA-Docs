@@ -28,4 +28,4 @@ Returns the number of local resources in the project.
 
  **Long**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

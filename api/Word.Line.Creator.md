@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Line Object](Word.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -91,3 +91,4 @@ End Sub
 
 [CalculatedMembers Collection](Excel.CalculatedMembers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **[FillFormat](Word.FillFormat.md)** object for the parent chart elem
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

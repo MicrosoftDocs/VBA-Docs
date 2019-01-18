@@ -29,3 +29,4 @@ Stops the media playing in the specified object.
 
 [Player Object](PowerPoint.Player.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ Specifies the type of a shape or range of shapes.
 |**msoTextEffect**|15|Text effect|
 |**msoWebVideo**|26|Web video|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

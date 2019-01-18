@@ -42,4 +42,4 @@ This method only works on legacy/non-model external connections and will fail wi
 
 [Model Object Members](overview/Excel.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

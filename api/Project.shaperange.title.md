@@ -26,3 +26,5 @@ Gets or sets the title of the shapes in the shape range. Read/write  **String**.
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

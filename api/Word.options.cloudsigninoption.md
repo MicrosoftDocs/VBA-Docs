@@ -37,3 +37,4 @@ The setting of  **CloudSignInOption** corresponds to that of the **Show addition
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

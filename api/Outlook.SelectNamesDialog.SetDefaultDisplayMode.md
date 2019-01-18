@@ -46,3 +46,4 @@ You can set additional properties (for example, setting  **[NumberOfRecipientSel
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -84,3 +84,4 @@ Selection.InsertFormula Formula:= "=GrossSales-45,000.00", _
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

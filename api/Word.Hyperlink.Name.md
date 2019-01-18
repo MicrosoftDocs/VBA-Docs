@@ -29,3 +29,4 @@ Returns the name of the specified object. Read-only  **String**.
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

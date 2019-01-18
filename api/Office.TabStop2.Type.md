@@ -40,3 +40,4 @@ Examples of  **MsoTabStopType** types include **msoTabStopCenter**, **msoTabStop
 
 [TabStop2 Object Members](./overview/Library-Reference/tabstop2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

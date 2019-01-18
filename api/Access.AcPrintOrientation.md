@@ -23,3 +23,4 @@ Used with the  **Orientation** property to specify a printer's print orientation
 |**acPRORLandscape**|2|Landscape orientation|
 |**acPRORPortrait**|1|Portrait orientation|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

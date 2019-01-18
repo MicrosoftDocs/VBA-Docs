@@ -34,3 +34,4 @@ After you enable a rule condition, you must also save the rule by using  **[Rule
 
 [AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

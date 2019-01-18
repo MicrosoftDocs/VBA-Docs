@@ -34,3 +34,4 @@ The  **IsCompiled** property of the **[Application](Access.Application.md)** obj
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

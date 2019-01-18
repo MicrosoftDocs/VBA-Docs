@@ -34,3 +34,4 @@ This property is only valid if the  **[ReminderOverrideDefault](Outlook.PostItem
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

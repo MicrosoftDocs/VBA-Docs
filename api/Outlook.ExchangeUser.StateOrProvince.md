@@ -36,3 +36,4 @@ This property corresponds to the MAPI property,  **PidTagStateOrProvince**.
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

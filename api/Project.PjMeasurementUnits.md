@@ -21,3 +21,4 @@ Contains constants that specify the units of measurement.
 |**pjDefault**|2|The  **MaxImageWidth** and **MaxImageHeight** values are in the default system measurement units. The default **Measurement System** is selected in the **Regional and Language Options** of the **Windows Control Panel**.|
 |**pjInches**|0|The  **MaxImageWidth** and **MaxImageHeight** values are in inches.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,3 +59,4 @@ In combo boxes for which the  **LimitToList** property is set to Yes, the **NotI
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

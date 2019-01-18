@@ -21,3 +21,4 @@ Specifies whether the command bar button is a hyperlink. If the command bar butt
 |**msoCommandBarButtonHyperlinkNone**|0|The command bar button is not a hyperlink.|
 |**msoCommandBarButtonHyperlinkOpen**|1|Clicking the command bar button opens the link specified in the command bar button's  **TooltipText** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

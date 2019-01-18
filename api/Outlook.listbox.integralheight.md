@@ -30,4 +30,4 @@ The  **IntegralHeight** property relates to the height of the list, just as the 
 
 If  **IntegralHeight** is **True**, the list box automatically resizes when necessary to show full rows. If  **False**, the list remains a fixed size; if items are taller than the available space in the list, the entire item is not shown.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

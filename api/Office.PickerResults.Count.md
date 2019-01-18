@@ -68,3 +68,4 @@ Next
 
 [PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

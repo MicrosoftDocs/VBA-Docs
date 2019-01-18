@@ -28,4 +28,4 @@ Shows or hides the legend in a project version comparison report.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

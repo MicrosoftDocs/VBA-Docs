@@ -27,3 +27,4 @@ Represents the line spacing for the specified paragraphs.
 | **pbLineSpacingMultiple**|5|A  **LineSpacing** property value must be specified, in number of lines.|
 | **pbLineSpacingSingle**|0|Sets paragraph line spacing to one space.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

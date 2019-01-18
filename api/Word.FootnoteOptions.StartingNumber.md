@@ -29,3 +29,4 @@ Returns or sets the starting footnote number. Read/write  **Long**.
 
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

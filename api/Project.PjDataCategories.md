@@ -21,3 +21,4 @@ Contains constants that specify the category of data.
 |**pjMapResources**|1|Map resources.|
 |**pjMapTasks**|0|Map tasks.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,3 +54,4 @@ Worksheets(1).PivotTables(1).PivotFormulas _
 
 [PivotFormulas Object](Excel.PivotFormulas.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

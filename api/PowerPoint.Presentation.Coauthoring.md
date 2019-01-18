@@ -29,3 +29,4 @@ Returns a  **Coauthoring** object in the current **Presentation** object. Read-o
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

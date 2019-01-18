@@ -38,3 +38,4 @@ Debug.Print activeproject.TaskGroups2(2).ShowSummary
 
 [Group2 Object](Project.Group2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

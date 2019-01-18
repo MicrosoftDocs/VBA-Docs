@@ -28,4 +28,4 @@ Returns the DOM object for the Microsoft Internet Explorer window loaded in the 
 
  **[IHTMLDOCUMENT2]**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ This property is set to an empty string if the  **[Type](Outlook.SharingItem.Typ
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

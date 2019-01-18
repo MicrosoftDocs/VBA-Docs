@@ -34,3 +34,4 @@ This property will always return a  **Long** value of "3", which is equivalent t
 
 [ColorScale Object](Excel.ColorScale.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

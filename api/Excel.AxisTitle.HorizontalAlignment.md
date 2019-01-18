@@ -42,3 +42,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [AxisTitle Object](Excel.AxisTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

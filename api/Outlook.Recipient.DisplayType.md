@@ -34,3 +34,4 @@ You can use the  **DisplayType** property to filter recipients. The **DisplayTyp
 
 [Recipient Object](Outlook.Recipient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

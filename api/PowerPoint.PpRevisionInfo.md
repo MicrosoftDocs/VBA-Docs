@@ -21,3 +21,4 @@ Constants that specify the status of revision information in a presentation. In 
 |**ppRevisionInfoMerged**|2|Information merged.|
 |**ppRevisionInfoNone**|0|No information.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

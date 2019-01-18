@@ -22,3 +22,4 @@ Specifies the type of workbook to create. The new workbook contains a single she
 | **xlWBATExcel4MacroSheet**|3|Excel version 4 international macro|
 | **xlWBATWorksheet**|-4167|Worksheet|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

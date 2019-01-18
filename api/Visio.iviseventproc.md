@@ -23,4 +23,4 @@ To handle event notifications in Visio, create a class module that implements th
 
 For more information about using the  **IVisEventProc** interface to handle event notifications, search for "Visio event objects" on MSDN, the Microsoft Developer Network. For more information about implementing IDispatch methods, search for "Implementing the IDispatch Interface" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

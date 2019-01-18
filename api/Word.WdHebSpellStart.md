@@ -22,3 +22,4 @@ Specifies which rules the Hebrew spelling checker will follow.
 | **wdMixedScript**|2|The spelling checker follows rules for full and partial script and allows non-conventional spelling variations. Only completely unrecognized words are highlighted as potential mistakes.|
 | **wdPartialScript**|1|The spelling checker follows rules for the traditional script used only for text with diacritics.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

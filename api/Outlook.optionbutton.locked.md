@@ -35,7 +35,5 @@ The  **[Enabled](Outlook.optionbutton.enabled.md)** and **Locked** properties wo
 - If  **Enabled** is **False** and **Locked** is **True**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
     
 - If  **Enabled** and **Locked** are both **False**, the control cannot receive focus and is dimmed in the form. The user can neither copy nor edit data in the control.
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

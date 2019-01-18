@@ -54,4 +54,4 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 If you are handling this event from a program that receives a notification over a connection created by using the  **AddAdvise** method, the _varMoreInfo_ argument to **VisEventProc** designates the document index: "/doc=1".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

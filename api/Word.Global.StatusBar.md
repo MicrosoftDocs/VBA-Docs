@@ -22,3 +22,4 @@ This property is no longer supported in Microsoft Word Visual Basic for Applicat
 
 [Global Object](Word.Global.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

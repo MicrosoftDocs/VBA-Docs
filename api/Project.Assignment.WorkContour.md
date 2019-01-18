@@ -28,4 +28,4 @@ Gets or sets the type of work contour for the assignment. Read/write  **PjWorkCo
 
 The  **WorkContour** property can be one of the following **[PjWorkContourType](Project.PjWorkContourType.md)** constants: **pjBackLoaded**, **pjBell**, **pjContour**, **pjDoublePeak**, **pjEarlyPeak**, **pjFlat**, **pjFrontLoaded**, **pjLatePeak**, or **pjTurtle**. The default value is **pjFlat**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

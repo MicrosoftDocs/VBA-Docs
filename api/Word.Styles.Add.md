@@ -62,3 +62,4 @@ myToc.HeadingStyles.Add Style:="Title", Level:=2
 
 [Styles Collection Object](Word.styles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

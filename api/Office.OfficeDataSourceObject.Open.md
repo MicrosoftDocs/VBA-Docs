@@ -45,3 +45,4 @@ _expression_ A variable that represents an [OfficeDataSourceObject](Office.Offic
 
 [OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

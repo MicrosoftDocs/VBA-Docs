@@ -37,3 +37,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OMathBar Object](Word.OMathBar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

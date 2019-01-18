@@ -40,3 +40,4 @@ Contains constants that specify which fields to copy from.
 |**pjCopyStart_Finish8**|9|Dates in the Start8 and Finish8 custom fields.|
 |**pjCopyStart_Finish9**|10|Dates in the Start9 and Finish9 custom fields.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

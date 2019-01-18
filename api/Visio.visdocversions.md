@@ -31,3 +31,4 @@ Return values for the  **Document.Version** property.
 | **visVersion60**|393216 (&H60000)|Visio version 2000 or 2002 document.|
 | **visVersionUnsaved**|0|Visio version number of an unsaved document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

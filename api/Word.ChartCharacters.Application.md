@@ -44,3 +44,4 @@ End If
 
 [ChartCharacters Object](Word.ChartCharacters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

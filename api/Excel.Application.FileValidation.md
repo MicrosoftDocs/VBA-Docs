@@ -39,3 +39,4 @@ Files that do not pass validation will be opened in a  **Protected View** window
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

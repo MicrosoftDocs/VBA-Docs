@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of rows in the collection. Read-o
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

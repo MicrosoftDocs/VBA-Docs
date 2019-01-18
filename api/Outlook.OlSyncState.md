@@ -27,4 +27,4 @@ Indicates the synchronization state.
 
 See [SyncObject.Progress Event (Outlook)](Outlook.SyncObject.Progress.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

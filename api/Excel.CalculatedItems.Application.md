@@ -44,3 +44,4 @@ End If
 
 [CalculatedItems Collection](Excel.CalculatedItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

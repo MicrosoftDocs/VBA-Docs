@@ -41,3 +41,5 @@ If you enter the following statement in the Immediate pane of the VBE, the state
 
 
 [Profile Object](Project.Profile.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

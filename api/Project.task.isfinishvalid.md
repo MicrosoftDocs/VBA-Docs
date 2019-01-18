@@ -30,4 +30,4 @@ To check the start date and duration, use the  **[IsStartValid](Project.task.iss
 
  **VARIANT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

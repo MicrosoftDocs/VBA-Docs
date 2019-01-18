@@ -24,3 +24,4 @@ Specifies the styles and formatting to display in the  **Styles and Formatting**
 | **wdShowFilterStylesInUse**|1|All styles in use.|
 | **wdShowFilterFormattingRecommended**|5|Only recommended styles.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

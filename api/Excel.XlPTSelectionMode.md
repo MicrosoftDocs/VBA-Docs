@@ -25,3 +25,4 @@ Specifies what can be selected in a PivotTable during a structured selection. Th
 | **xlLabelOnly**|1|Label|
 | **xlOrigin**|3|Origin|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

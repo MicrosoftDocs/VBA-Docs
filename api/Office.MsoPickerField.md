@@ -27,3 +27,4 @@ Specifies contact-picker field types.
 |**msoPickerFieldUser**|4|A user or group field.|
 |**msoPickerFieldMax**|5|The sentinel value of the enumeration.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

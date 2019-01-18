@@ -27,3 +27,4 @@ Specifies constants that identify which shapes to return, based on the dimension
 | **visGluedShapesIncoming2D**|4|If the source object is a 1-D shape, return the 2-D shape to which the begin point is glued. If the source object is a 2-D shape, return the 2-D shapes that are glued to this shape.|
 | **visGluedShapesOutgoing2D**|5|If the source object is a 1-D shape, return the 2-D shape to which the end point is glued. If the source object is a 2-D shape, return the 2-D shapes to which this shape is glued.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

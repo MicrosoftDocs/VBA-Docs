@@ -60,5 +60,5 @@ In Project Server 2013 , the default text custom fields that have a lookup table
 - Resource Departments
     
 - RBS
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

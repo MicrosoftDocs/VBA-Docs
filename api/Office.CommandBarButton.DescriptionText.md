@@ -38,3 +38,4 @@ The description is not displayed to the user, but it can be useful for documenti
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

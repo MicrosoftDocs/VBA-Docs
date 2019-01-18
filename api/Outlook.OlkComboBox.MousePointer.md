@@ -34,3 +34,4 @@ The default value is  **olMousePointerDefault**.
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

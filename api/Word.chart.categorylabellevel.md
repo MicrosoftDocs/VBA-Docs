@@ -32,3 +32,4 @@ Returns or sets an [XlCategoryLabel](Word.xlcategorylabellevel.md) constant that
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

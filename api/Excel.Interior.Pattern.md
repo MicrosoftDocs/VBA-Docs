@@ -40,3 +40,4 @@ Worksheets("Sheet1").Range("A1"). _
 
 [Interior Object](Excel.Interior(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,4 +19,4 @@ Returns the  **Permission** object of the document.
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

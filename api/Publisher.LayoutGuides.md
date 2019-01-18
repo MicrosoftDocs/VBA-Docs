@@ -68,3 +68,4 @@ End With
 |[VerticalBaseLineOffset](Publisher.LayoutGuides.VerticalBaseLineOffset.md)|
 |[VerticalBaseLineSpacing](Publisher.LayoutGuides.VerticalBaseLineSpacing.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

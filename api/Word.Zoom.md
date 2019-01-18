@@ -44,4 +44,4 @@ The  **Add** method isn't available for the **Zooms** collection. The **Zooms** 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,4 +54,4 @@ Set vsoValidationRule = vsoValidationRuleSet.Rules.Add("Unglued2DShape")
 vsoValidationRule.TargetType = Visio.VisRuleTargets.visRuleTargetShape
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

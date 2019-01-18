@@ -60,3 +60,4 @@ Parameter values are also settable in code using the ActiveX Data Object's (ADO)
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

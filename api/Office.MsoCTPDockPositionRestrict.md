@@ -22,3 +22,4 @@ Specifies retrictions on the docking behavior of the custom task pane.
 |**msoCTPDockPositionRestrictNone**|0|No restrictions on docking the task pane.|
 |**msoCTPDockPositionRestrictNoVertical**|3|Task pane can't be docked to either the top or the bottom of the document window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

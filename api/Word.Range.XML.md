@@ -37,3 +37,4 @@ Returns a  **String** that represents the XML text in the specified object. .
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

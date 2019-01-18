@@ -33,4 +33,4 @@ myChart.Application.AddChartAutoFormat _
  Name:="Presentation Chart"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

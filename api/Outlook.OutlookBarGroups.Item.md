@@ -42,3 +42,4 @@ An  **OutlookBarGroup** object that represents the specified object.
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

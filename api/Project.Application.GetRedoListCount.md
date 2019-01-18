@@ -28,4 +28,4 @@ localization_priority: Normal
 
  **Long**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

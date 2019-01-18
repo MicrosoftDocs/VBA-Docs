@@ -44,3 +44,4 @@ Allowable values to pass for the  _ReplaceFlags_ parameter include either **visR
 
 [Selection Object](Visio.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

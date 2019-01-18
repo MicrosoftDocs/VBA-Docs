@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TabStrip** object.
 
 Zero (0) indicates the first tab. The maximum value is one less than the number of tabs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ The value of the  **SavePreviewMode** property corresponds to the **Save preview
 | **visSavePreviewDraft1st**| 1| The first page; includes only Visio shapes. Does not include embedded objects, text, or gradient fills.|
 | **visSavePreviewDetailed1st**| 2| The first page; includes all objects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ Specifies how to convert a graphic.
 | **xlWMF**|2|Windows Metafile|
 | **xlWPG**|3|WordPerfect/DrawPerfect Graphic|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

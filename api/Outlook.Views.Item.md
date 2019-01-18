@@ -42,3 +42,4 @@ A  **View** object that represents the specified object.
 
 [Views Object](Outlook.Views.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

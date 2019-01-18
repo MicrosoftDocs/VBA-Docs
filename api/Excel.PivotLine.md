@@ -30,3 +30,4 @@ PivotLines always have a PivotItem in all positions. This means that the PivotLi
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

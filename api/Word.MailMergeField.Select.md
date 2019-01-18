@@ -34,3 +34,4 @@ After using this method, use the  **Selection** property to work with the select
 
 [MailMergeField Object](Word.MailMergeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

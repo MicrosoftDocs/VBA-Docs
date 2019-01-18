@@ -46,4 +46,4 @@ When retrieving objects from a collection, you can omit  **Item** from the expre
 objRet = object(index )
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

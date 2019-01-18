@@ -34,3 +34,4 @@ The  **ParentTab** propety will return a run-time error if the specified navigat
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

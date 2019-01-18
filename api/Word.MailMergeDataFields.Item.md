@@ -42,3 +42,4 @@ MailMergeDataField
 
 [MailMergeDataFields Collection Object](Word.mailmergedatafields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

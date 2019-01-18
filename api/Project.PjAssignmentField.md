@@ -466,3 +466,4 @@ Contains constants that specify an assignment field in the Project database. For
 |**pjAssignmentWorkContour**|255852583|Represents the Work Contour (Assignment) field.|
 |**pjAssignmentWorkVariance**|255852792|Represents the Work Variance (Assignment) field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

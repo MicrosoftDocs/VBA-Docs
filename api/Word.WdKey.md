@@ -116,3 +116,4 @@ Specifies a keyboard character. Although uppercase and lowercase characters are 
 | **wdKeyZ**|90|The Z key.|
 | **wdNoKey**|255|No key.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

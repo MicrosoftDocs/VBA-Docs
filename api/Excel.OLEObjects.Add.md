@@ -74,3 +74,4 @@ Worksheets(1).OLEObjects.Add ClassType:="Forms.CommandButton.1", _
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

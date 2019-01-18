@@ -40,3 +40,5 @@ Worksheets(1).Range("E5:G10").DataTypeToText
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LeaderLines Object](Word.LeaderLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

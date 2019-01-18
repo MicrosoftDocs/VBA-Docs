@@ -29,3 +29,4 @@ Applies to the specified shape range formatting that's been copied by using the 
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

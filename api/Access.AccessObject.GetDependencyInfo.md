@@ -44,5 +44,4 @@ This method will return a run-time error if any of the following conditions are 
 
 Access does not search Visual Basic for Applications (VBA) code, macros, or data access pages for dependencies.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

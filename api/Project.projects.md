@@ -97,3 +97,5 @@ Projects.Add False
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

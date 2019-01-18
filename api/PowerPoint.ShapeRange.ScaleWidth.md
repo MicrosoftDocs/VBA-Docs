@@ -61,3 +61,4 @@ The  _fScale_ parameter value can be one of the following **MsoScaleFrom** const
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

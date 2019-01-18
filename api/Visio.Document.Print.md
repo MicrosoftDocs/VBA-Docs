@@ -52,4 +52,4 @@ If you are using Microsoft Visual Basic for Applications (VBA) or Visual Basic, 
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

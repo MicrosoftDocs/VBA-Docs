@@ -50,3 +50,5 @@ Set myOlBarGroup = myOutlookBarGroups.Item("Other Shortcuts")
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

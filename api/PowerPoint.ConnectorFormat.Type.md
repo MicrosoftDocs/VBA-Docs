@@ -46,3 +46,4 @@ The value of the  **Type** property can be one of these **MsoConnectorType** con
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

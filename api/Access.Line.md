@@ -69,3 +69,5 @@ You can use the  **BorderWidth** property to change the line width. You can use 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

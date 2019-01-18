@@ -23,3 +23,4 @@ Specifies the vertical position of fonts on a line.
 | **wdBaselineAlignFarEast50**|3|Align using the baseline for Asian language font standards.|
 | **wdBaselineAlignTop**|0|Align along top of each font.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

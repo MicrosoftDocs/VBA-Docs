@@ -46,4 +46,4 @@ If the  **Type** property of a **Shape** object returns any value other than **v
 
 If the shape represents an OLE 2.0 embedded object, for example, its  **ForeignType** property is &H8200.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

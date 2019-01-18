@@ -28,4 +28,4 @@ Gets the version name of the project. Obsolete in Project. Read-only  **String**
 
 In Project Server 2003, it is possible to have multiple projects with the same name but differentiated by version codes. In Office Project 2007 and later versions, each enterprise project must have a different name. The  **VersionName** property is an empty string ("").
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

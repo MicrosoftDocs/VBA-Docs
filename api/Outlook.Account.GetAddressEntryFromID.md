@@ -51,3 +51,4 @@ The  **ID** property for an **AddressEntry** is a permanent, unique string ident
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

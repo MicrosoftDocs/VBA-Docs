@@ -62,3 +62,4 @@ End With
 
 [RulerLevels Object](PowerPoint.RulerLevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

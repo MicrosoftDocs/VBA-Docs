@@ -31,3 +31,4 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 [Groups2 Collection Object](Project.groups2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

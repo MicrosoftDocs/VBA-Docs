@@ -68,3 +68,4 @@ You can obtain the GUID for a list or view from the SharePoint site by using the
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

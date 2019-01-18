@@ -26,3 +26,4 @@ Flags passed to or returned by the  **Document.GlueSettings** property.
 | **visGlueToNone**|&H0|Glue is enabled but no other glue settings are on.|
 | **visGlueToVertices**|&H4|Glue to shape vertices.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

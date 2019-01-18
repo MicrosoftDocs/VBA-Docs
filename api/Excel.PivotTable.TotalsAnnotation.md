@@ -46,3 +46,4 @@ ActiveSheet.PivotTables(1).TotalsAnnotation = False
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

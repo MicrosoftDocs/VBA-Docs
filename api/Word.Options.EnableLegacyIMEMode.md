@@ -29,3 +29,4 @@ Returns or sets a **Boolean** that represents whether to enable legacy IME mode.
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

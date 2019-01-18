@@ -34,4 +34,4 @@ The drop-down portion of a  **[ComboBox](Outlook.combobox.md)** does not support
 
 You can combine the effects of the  **[EnterFieldBehavior](Outlook.combobox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of combo box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

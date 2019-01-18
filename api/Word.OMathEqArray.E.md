@@ -29,3 +29,4 @@ Returns an  **OMathArgs** object that represents the list of arguments for the s
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

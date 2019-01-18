@@ -44,3 +44,4 @@ End If
 
 [CustomProperty Object](Excel.CustomProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

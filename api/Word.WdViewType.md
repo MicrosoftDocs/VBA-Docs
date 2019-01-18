@@ -25,3 +25,4 @@ Specifies the view type.
 | **wdReadingView**|7|A reading view.|
 | **wdWebView**|6|A Web view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

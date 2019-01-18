@@ -50,3 +50,4 @@ End With
 
 [Row Object](PowerPoint.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

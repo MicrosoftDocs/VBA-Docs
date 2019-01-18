@@ -53,3 +53,4 @@ Application.MailingLabel.DefaultLaserTray = wdPrinterUpperBin
 
 [MailingLabel Object](Word.MailingLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ localization_priority: Normal
 
  You can also determine that an entry is not valid if the color is red in the **Edit Lookup Table** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

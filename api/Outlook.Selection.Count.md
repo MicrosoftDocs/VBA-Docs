@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' ob
 
 [Selection Object](Outlook.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

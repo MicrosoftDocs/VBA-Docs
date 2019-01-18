@@ -44,3 +44,4 @@ End If
 
 [Points Object](Word.Points.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

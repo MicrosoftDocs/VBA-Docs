@@ -39,3 +39,4 @@ Application.RecentFiles.Maximum = 6
 
 [RecentFiles Object](Excel.RecentFiles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

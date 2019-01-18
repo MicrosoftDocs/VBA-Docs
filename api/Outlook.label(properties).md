@@ -43,5 +43,5 @@ localization_priority: Normal
 -  [Label.TextAlign Property (Outlook Forms Script)](Outlook.Label.textalign.md)
     
 -  [Label.WordWrap Property (Outlook Forms Script)](Outlook.Label.wordwrap.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Returns  **Nothing** if no first object exists, for example, if there are no obj
 
 [Conflicts Object](Outlook.Conflicts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

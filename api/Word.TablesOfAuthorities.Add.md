@@ -69,3 +69,4 @@ ActiveDocument.TablesOfAuthorities.Add Range:=myRange, _
 
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

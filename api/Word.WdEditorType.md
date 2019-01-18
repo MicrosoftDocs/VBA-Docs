@@ -22,3 +22,4 @@ Specifies a user or group of users for a document.
 | **wdEditorEveryone**|-1|Represents all users who open a document.|
 | **wdEditorOwners**|-4|Represents the Owners group for documents that use Information Rights Management.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,3 +55,4 @@ Given a value for probability, NORMSINV seeks that value z such that NORMSDIST(z
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

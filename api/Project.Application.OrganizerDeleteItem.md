@@ -39,4 +39,4 @@ Deletes an item from the Organizer.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

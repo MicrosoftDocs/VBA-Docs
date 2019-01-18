@@ -30,3 +30,4 @@ _expression_. `Application`
 
 [SmartArtLayouts Object Members](./overview/Library-Reference/smartartlayouts-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

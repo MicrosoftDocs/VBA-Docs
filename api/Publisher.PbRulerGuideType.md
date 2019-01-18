@@ -23,3 +23,4 @@ Represents the ruler guide type.
 | **pbRulerGuideTypeHorizontal**|2|Horizontal ruler|
 | **pbRulerGuideTypeVertical**|1|Vertical ruler|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

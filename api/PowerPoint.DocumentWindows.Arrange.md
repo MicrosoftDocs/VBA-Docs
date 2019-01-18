@@ -54,4 +54,4 @@ Windows.Arrange ppArrangeCascade
 
 [DocumentWindows Object](PowerPoint.DocumentWindows.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **CanLevel** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

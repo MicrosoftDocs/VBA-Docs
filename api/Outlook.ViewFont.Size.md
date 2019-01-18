@@ -36,3 +36,4 @@ The default value for this property is determined by the operating system.
 
 [ViewFont Object](Outlook.ViewFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

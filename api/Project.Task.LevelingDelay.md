@@ -25,4 +25,4 @@ Gets or sets the amount of time the task is delayed due to leveling. Read/write 
 
 Project recalculates the leveling delay as resources are leveled across the project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

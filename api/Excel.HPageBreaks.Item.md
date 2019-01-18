@@ -47,3 +47,4 @@ Worksheets(1).HPageBreaks.Item(1).Location = .Range("e5")
 
 [HPageBreaks Object](Excel.HPageBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

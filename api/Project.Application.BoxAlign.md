@@ -41,4 +41,4 @@ Aligns the specified part of the selected boxes in the active Network Diagram vi
 
 If only one box is selected, the  **BoxAlign** method has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

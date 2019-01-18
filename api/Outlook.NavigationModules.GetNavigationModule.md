@@ -42,3 +42,4 @@ A  **NavigationModule** object that represents the navigation module with the sp
 
 [NavigationModules Object](Outlook.NavigationModules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

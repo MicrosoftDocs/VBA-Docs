@@ -40,4 +40,4 @@ The following code displays the minor version number of Visio Viewer in the  **I
 Debug.Print vsoViewer.MinorVersionNumber
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

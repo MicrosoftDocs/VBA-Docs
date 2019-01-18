@@ -44,3 +44,4 @@ Worksheets("Sheet1").PageSetup.Draft = True
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

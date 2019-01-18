@@ -49,4 +49,4 @@ The following table shows the compatibility of several browsers with various gra
 
 The  **AltFormat** property corresponds to the **Provide alternate format for older browsers** check box on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

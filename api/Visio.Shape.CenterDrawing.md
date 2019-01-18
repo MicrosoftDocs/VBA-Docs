@@ -33,4 +33,4 @@ Nothing
 
 Centering shapes does not change their position relative to each other.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

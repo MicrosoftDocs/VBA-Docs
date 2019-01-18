@@ -23,4 +23,4 @@ Returns or sets the color of the current  **Font** object. Read-write.
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

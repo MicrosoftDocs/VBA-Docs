@@ -29,3 +29,4 @@ Specifies the document element to display in the print layout view.
 | **wdSeekPrimaryFooter**|4|The primary footer.|
 | **wdSeekPrimaryHeader**|1|The primary header.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

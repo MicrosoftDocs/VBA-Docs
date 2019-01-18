@@ -34,3 +34,4 @@ You can assign an array with one string or multiple strings for evaluation. Mult
 
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

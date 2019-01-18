@@ -38,4 +38,4 @@ mySheet.Range("A1:D4").Copy _
  Destination:= mySheet.Range("E5")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

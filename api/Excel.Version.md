@@ -27,4 +27,4 @@ MsgBox "Welcome to Microsoft Graph version " & _
  myChart.Application.Version
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

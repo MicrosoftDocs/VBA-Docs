@@ -85,3 +85,4 @@ You must combine the  **Section** property with other properties that apply to f
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

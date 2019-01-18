@@ -47,3 +47,4 @@ MsgBox ActiveDocument.Paragraphs(1).Range.Conflicts.Count
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

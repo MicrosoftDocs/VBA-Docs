@@ -29,3 +29,4 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 [ErrorBars Object](Word.ErrorBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

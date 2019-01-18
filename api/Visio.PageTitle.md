@@ -30,4 +30,4 @@ Specifies the name of the Web page as it appears in the browser's title bar. Rea
 
 The  **PageTitle** property value corresponds to the value in the **Page title** box in the **Set Page Title** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, and then click  **Change Title**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

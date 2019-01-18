@@ -45,3 +45,4 @@ The  **Swash** property value can be one of the following **MsoTriState** consta
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the range are formatted as swash.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

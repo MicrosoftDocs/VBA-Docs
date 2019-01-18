@@ -29,3 +29,4 @@ Clears the formatting of the object.
 
 [ErrorBars Object](Word.ErrorBars.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

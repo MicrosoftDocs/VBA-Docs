@@ -42,3 +42,4 @@ The caller must have the permission to delete properties. The  **DeleteProperty*
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

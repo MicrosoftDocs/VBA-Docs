@@ -23,3 +23,4 @@ Used with the  **ItemLayout** property to specify how columns are laid out when 
 |**acPRHorizontalColumnLayout**|1953|Columns are laid across, then down.|
 |**acPRVerticalColumnLayout**|1954|Columns are laid down, then across.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

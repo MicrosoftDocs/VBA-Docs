@@ -50,3 +50,4 @@ End With
 
 [DataTable Object](Word.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

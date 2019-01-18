@@ -57,3 +57,5 @@ MsgBox Chart(1).FullSeriesCollection.Item(2).Name
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

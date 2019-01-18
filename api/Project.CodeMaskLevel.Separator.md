@@ -25,4 +25,4 @@ Gets or sets the character that separates the levels of a code mask Read/write  
 
 The  **Separator** property can be one of the following characters: ".", "-", "+", or "/".
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

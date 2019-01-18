@@ -52,3 +52,4 @@ Charts("Chart1").Legend.LegendEntries(1).Font.Name = "Arial"
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

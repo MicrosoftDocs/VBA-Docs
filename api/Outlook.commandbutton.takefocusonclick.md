@@ -30,4 +30,4 @@ The  **TakeFocusOnClick** property defines only what happens when the user click
 
 Use this property to complete actions that affect a control without requiring that control to give up focus. For example, assume your form includes a  **[TextBox](Outlook.textbox.md)** and a **[CommandButton](Outlook.commandbutton.md)** that checks for correct spelling of text. You would like to be able to select text in the **TextBox**, then click the  **CommandButton** and run the spelling checker without taking focus away from the **TextBox**. You can do this by setting the  **TakeFocusOnClick** property of the **CommandButton** to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ PowerPoint uses the specified graphics filter to save each individual slide. The
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

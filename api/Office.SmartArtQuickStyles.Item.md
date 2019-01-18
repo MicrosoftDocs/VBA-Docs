@@ -43,3 +43,4 @@ SmartArtQuickStyle
 
 [SmartArtQuickStyles Object Members](./overview/Library-Reference/smartartquickstyles-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

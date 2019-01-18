@@ -42,3 +42,4 @@ For more information about using the  **IVBUndoUnit** interface to create undo u
 | **UnitTypeLong**| Read-only. Returns a **Long** that can be used to identify the undo unit.|
 | **UnitSize**| Size in bytes. Used to measure how much memory undo information is using.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

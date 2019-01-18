@@ -73,3 +73,4 @@ Application.Presentations("Year-End Report.ppt").Close
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [CodeProject Object](Access.CodeProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

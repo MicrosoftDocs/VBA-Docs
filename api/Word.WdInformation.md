@@ -59,3 +59,4 @@ Specifies the type of information returned about a specified selection or range.
 | **wdWithInTable**|12|Returns  **True** if the selection is in a table.|
 | **wdZoomPercentage**|19|Returns the current percentage of magnification as set by the  **Percentage** property.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

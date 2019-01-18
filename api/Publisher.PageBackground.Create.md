@@ -40,4 +40,4 @@ If ActiveDocument.Pages(1).Background.Exists = False Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

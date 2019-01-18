@@ -28,3 +28,4 @@ Specifies the view when opeing a form.
 |**acNormal**|0|(Default) The form opens in Form view.|
 |**acPreview**|2|The form opens in Print Preview.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

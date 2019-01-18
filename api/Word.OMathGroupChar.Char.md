@@ -29,3 +29,4 @@ Returns or sets an  **Integer** that represents the character placed above or be
 
 [OMathGroupChar Object](Word.OMathGroupChar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

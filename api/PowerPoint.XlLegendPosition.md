@@ -24,3 +24,4 @@ Specifies the position of the legend on a chart.
 |**xlLegendPositionRight**|-4152|Right of the chart.|
 |**xlLegendPositionTop**|-4160|Above the chart.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 Selecting a group automatically selects and prints all items in the group. The  **Print** dialog box is displayed so that the user can specify how to print the items.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

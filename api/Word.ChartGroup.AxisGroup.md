@@ -29,3 +29,4 @@ Returns the type of axis group. Read/write  **[xlAxisGroup](Word.xlaxisgroup.md)
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

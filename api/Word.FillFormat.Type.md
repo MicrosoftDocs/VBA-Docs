@@ -29,3 +29,4 @@ Returns the shape fill format type. Read-only  **MsoFillType**.
 
 [FillFormat Object](Word.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

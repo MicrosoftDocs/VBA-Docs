@@ -41,3 +41,4 @@ The value of this property corresponds to the setting of the  **Evaluate calcula
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

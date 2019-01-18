@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of list entries in the collection
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

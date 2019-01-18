@@ -29,4 +29,4 @@ With myChart.SeriesCollection(1).DataLabels
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

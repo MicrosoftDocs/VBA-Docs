@@ -52,3 +52,4 @@ End With
 
 [Interior Object](Word.Interior.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

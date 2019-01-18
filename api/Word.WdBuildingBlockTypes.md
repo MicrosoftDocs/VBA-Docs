@@ -53,3 +53,4 @@ Specifies the type of building block.
 | **wdTypeTextBox**|10|Text box building block.|
 | **wdTypeWatermarks**|8|Watermark building block.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

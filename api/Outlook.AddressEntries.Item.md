@@ -42,3 +42,4 @@ An  **AddressEntry** object that represents the specified object.
 
 [AddressEntries Object](Outlook.AddressEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,3 +54,4 @@ End With
 
 [AutoCorrect Object](Excel.AutoCorrect(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

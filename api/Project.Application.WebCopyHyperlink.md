@@ -33,4 +33,4 @@ Copies the hyperlink of the selected item to the Clipboard.
 
 The  **WebCopyHyperlink** method is unavailable if the selected item does not contain a hyperlink.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,3 +50,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [RightAngleAxes Property](Project.chart.rightangleaxes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

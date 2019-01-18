@@ -34,3 +34,4 @@ Use the  **UpdatePageNumbers** method to update the page numbers of items in a t
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

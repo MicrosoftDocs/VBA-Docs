@@ -36,3 +36,4 @@ Use the  **Parent** property to access the properties or methods of an object's 
 
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

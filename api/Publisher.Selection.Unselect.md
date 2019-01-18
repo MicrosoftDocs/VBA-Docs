@@ -33,4 +33,4 @@ This example cancels the current selection in the active publication.
 ActiveDocument.Selection.Unselect
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

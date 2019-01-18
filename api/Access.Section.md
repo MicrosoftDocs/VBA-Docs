@@ -93,3 +93,5 @@ You can set section properties which are attributes of a form that affect the ap
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [Section Object Members](overview/Access.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

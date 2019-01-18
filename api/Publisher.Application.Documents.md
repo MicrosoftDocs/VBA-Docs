@@ -49,3 +49,4 @@ MsgBox Prompt:=strMsg, Title:="Current Documents Open", Buttons:=vbOKOnly
 
  [Application Object](Publisher.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

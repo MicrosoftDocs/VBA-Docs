@@ -34,3 +34,4 @@ Attempting to set this property to a value less than or equal to zero (0) raises
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

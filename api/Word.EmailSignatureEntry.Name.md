@@ -29,3 +29,4 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 [EmailSignatureEntry Object](Word.EmailSignatureEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ localization_priority: Normal
 
 If  **DisplayWindowsInTaskbar** is **False**, the taskbar shows only the **Microsoft Project** button with the active project name. In Microsoft Windows 7, if taskbar buttons are combined, the button group shows only one item, **Microsoft Project** with the active project name.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

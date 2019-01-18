@@ -22,3 +22,4 @@ This enumeration has been deprecated and should not be used.
 | **wdSubscriberRTF**|1|Not supported.|
 | **wdSubscriberText**|2|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,4 +64,4 @@ Dim vsoMaster As Visio.Master
 Set vsoMaster = Visio.ActiveDocument.Masters("A{0478DA94-1315-9876-8E4C-006523ABC9B2}")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

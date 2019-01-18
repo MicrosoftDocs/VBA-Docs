@@ -26,4 +26,4 @@ This example assigns a different color or pattern to each data marker in chart g
 myChart.ChartGroups(1).VaryByCategories = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

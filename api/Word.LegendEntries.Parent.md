@@ -29,3 +29,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [LegendEntries Object](Word.LegendEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

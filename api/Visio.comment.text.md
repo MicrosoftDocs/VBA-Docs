@@ -29,3 +29,4 @@ Returns or sets the text of the specified comment. Read/write  **String**.
 
 [Comment Object](Visio.comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

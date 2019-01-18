@@ -28,4 +28,4 @@ Closes an undo set for a series of operations previously created by  **[OpenUndo
 
 See "Creating an Undo Transaction Set" in Multiple Undo/Redo Actions.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

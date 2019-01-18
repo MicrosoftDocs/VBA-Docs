@@ -34,3 +34,4 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

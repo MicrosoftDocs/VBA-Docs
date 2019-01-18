@@ -54,3 +54,4 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields("[Summary P&L]"). _
 
 [CubeField Object](Excel.CubeField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

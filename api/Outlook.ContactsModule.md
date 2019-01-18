@@ -44,3 +44,5 @@ You can use the  **[Visible](Outlook.ContactsModule.Visible.md)** property to de
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

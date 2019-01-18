@@ -29,3 +29,4 @@ Returns a  **[Bibliography](Word.Bibliography.md)** object that represents the b
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

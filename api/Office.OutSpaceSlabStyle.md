@@ -21,3 +21,4 @@ Specifies constants that define the styles of the slabs on the  **File** tab.
 |**OutSpaceSlabStyleNormal**|0|Normal style.|
 |**OutSpaceSlabStyleWarning**|1|Warning style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

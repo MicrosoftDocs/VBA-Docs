@@ -37,3 +37,4 @@ The default value is  **False**. This property corresponds to the **Remove conte
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

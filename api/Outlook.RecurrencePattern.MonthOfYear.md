@@ -34,3 +34,4 @@ The value can be a number from 1 through 12. For example, setting this property 
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

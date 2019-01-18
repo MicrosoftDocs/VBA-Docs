@@ -29,3 +29,4 @@ Returns or sets the trendline order (an integer greater than 1) when the trendli
 
 [Trendline Object](PowerPoint.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

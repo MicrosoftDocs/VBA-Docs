@@ -25,3 +25,4 @@ Specifies the pane (window).
 | **olOutlookBar**|1|The Outlook bar pane|
 | **olPreview**|3|The reading pane|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

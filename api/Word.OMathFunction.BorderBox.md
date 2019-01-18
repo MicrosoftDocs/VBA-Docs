@@ -29,3 +29,4 @@ Returns an  **[OMathBorderBox](Word.OMathBorderBox.md)** object that represents 
 
 [OMathFunction Object](Word.OMathFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

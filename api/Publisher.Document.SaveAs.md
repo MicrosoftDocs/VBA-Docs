@@ -82,4 +82,4 @@ With ActiveDocument
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

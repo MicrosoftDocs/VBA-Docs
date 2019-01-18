@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

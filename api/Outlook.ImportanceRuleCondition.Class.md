@@ -29,3 +29,4 @@ _expression_ A variable that represents an [ImportanceRuleCondition](./Outlook.I
 
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

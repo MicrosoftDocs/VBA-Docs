@@ -31,4 +31,4 @@ Returns the instance of Microsoft Visio associated with the  **GraphicItems** co
 
 Application
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

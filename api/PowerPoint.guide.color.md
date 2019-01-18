@@ -26,4 +26,4 @@ Returns a [ColorFormat](PowerPoint.ColorFormat.md) object that represents the co
 
  **COLORFORMAT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

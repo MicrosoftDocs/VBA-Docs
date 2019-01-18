@@ -26,3 +26,4 @@ Specifies constants that define which type of raster export resolution to use; p
 | **visRasterUseSourceResolution**|2|Use source resolution.|
 | **visRasterUseCustomResolution**|3|Use custom resolution.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

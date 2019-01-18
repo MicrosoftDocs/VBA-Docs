@@ -33,4 +33,4 @@ Cell
 
 If the value in this cell is a local value, the  **InheritedValueSource** property returns itself.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

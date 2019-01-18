@@ -25,4 +25,4 @@ Applies the view.
 
  **Nothing**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

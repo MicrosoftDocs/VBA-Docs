@@ -20,3 +20,4 @@ Specifies whether the command bar combo box includes a label or not.
 |**msoComboLabel**|1|Combo box includes a label, specified by the  **Caption** property of the combo box.|
 |**msoComboNormal**|0|Combo box does not include a label.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,3 +49,4 @@ Use the Save method to upload changes to the server after changing the propertie
 
 [SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

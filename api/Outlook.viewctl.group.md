@@ -30,4 +30,4 @@ This method gives the user the ability to group items in the current view.
 
 This method is valid only for table-type views.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

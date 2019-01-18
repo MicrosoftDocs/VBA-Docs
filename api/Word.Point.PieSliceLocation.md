@@ -48,3 +48,4 @@ This property only applies to pie chart types.
 
 [Point Object](Word.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

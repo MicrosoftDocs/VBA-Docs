@@ -27,3 +27,5 @@ Gets the number of connection sites on the shape range. Read-only  **Long**.
 
 [ShapeRange Object](Project.shaperange.md)
 [AddConnector Method](Project.shapes.addconnector.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

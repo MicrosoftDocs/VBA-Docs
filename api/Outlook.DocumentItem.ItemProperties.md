@@ -34,3 +34,4 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

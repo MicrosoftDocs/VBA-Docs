@@ -76,3 +76,4 @@ System.Connect Path:="\\Team1\Public", Drive:=2
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

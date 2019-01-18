@@ -47,3 +47,4 @@ Inserts the specified SmartArt graphic into the active document.
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

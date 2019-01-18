@@ -53,3 +53,4 @@ ActiveDocument.XMLNodes(1).RemoveChild _
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

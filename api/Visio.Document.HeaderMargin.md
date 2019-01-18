@@ -45,4 +45,4 @@ Automation constants for representing units are declared by the Visio type libra
 
 For a complete list of valid unit strings along with corresponding Automation constants (integer values), see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

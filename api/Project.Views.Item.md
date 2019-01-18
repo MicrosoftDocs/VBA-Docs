@@ -33,3 +33,5 @@ Gets a single  **View** object from the **Views** collection. Read-only **View**
 
 
 [Views Collection Object](Project.views(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.To.Name
 
 For an example of how to set the  **To** property value, see the **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object topic.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ This won't run any Auto_Activate or Auto_Deactivate macros that might be attache
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

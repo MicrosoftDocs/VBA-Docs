@@ -44,3 +44,4 @@ ActiveSheet.Range("A1:A10").SetPhonetic
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,4 @@ Indicates the address to use as the mailing address.
 
 See [ContactItem.SelectedMailingAddress Property (Outlook)](Outlook.ContactItem.SelectedMailingAddress.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

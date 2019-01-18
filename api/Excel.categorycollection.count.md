@@ -33,3 +33,4 @@ _expression_ A variable that represents a [CategoryCollection object (Excel)](Ex
 
 [CategoryCollection Object](Excel.categorycollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

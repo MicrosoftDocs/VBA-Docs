@@ -27,3 +27,5 @@ _expression_ Required. A variable that represents a **[CommandBarControl](Office
 ## See also
 
 - [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

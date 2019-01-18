@@ -37,3 +37,4 @@ Using the  **SmartTags** property will result in a run-time error if the control
 
 [Control Object](Access.Control.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

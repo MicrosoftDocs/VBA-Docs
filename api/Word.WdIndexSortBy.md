@@ -20,3 +20,4 @@ Specifies the criteria by which Word sorts the specified index.
 | **wdIndexSortByStroke**|0|Sort by the number of strokes in a character.|
 | **wdIndexSortBySyllable**|1|Sort phonetically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

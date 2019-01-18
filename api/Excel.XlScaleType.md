@@ -20,3 +20,4 @@ Specifies the scale type of the value axis.
 | **xlScaleLinear**|-4132|Linear|
 | **xlScaleLogarithmic**|-4133|Logarithmic|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

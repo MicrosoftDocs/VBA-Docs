@@ -46,3 +46,4 @@ Row-type constants used in conjunction with the  **Shape.RowType** property and 
 | **visTagTab2**|150|The row type of a row in a  **visSectionTab** section that defines up to 2 tab stops.|
 | **visTagTab60**|181|The row type of a row in a  **visSectionTab** section that defines up to 60 tab stops.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

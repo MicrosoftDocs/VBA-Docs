@@ -42,3 +42,4 @@ OMathBreak
 
 [OMathBreaks Collection](Word.OMathBreaks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

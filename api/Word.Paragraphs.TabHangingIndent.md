@@ -61,3 +61,4 @@ ActiveDocument.Paragraphs.TabHangingIndent(-1)
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ If  **True** , the specified item is in conflict.
 
 [NoteItem Object](Outlook.NoteItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

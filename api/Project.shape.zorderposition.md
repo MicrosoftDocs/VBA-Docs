@@ -36,3 +36,5 @@ When you add a shape to a  **Shapes** collection, the shape is added to the fron
 
 [Shape Object](Project.shape.md)
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

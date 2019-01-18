@@ -34,3 +34,4 @@ For OLAP data sources, this property is read-only and always returns  **False**.
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

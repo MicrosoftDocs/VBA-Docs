@@ -36,3 +36,4 @@ If **BccLabel** is not set, then the default value will be the localized string 
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

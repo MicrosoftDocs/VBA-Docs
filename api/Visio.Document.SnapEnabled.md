@@ -33,4 +33,4 @@ Boolean
 
 Setting the value of the  **SnapEnabled** property to **True** is equivalent to selecting the **Snap** check box on the **General** tab in the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Used with the [NewCurrentDatabase](Access.Application.NewCurrentDatabase.md) met
 |**acNewDatabaseFormatAccess2002**|10|Create a database in the Microsoft Access 2002-2003 (.mdb) file format.|
 |**acNewDatabaseFormatUserDefault**|0|Create a database in the default file format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

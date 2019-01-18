@@ -21,3 +21,4 @@ Specifies the type of information the link will return.
 | **xlLinkInfoStatus**|3|Returns the link status.|
 | **xlUpdateState**|1|Specifies whether the link updates automatically or manually.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ If the threshold type is a formula, you can set the formula as a  **String**. Th
 
 [ConditionValue Object](Excel.ConditionValue.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

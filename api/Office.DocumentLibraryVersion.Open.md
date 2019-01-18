@@ -42,4 +42,4 @@ The following example opens the previous saved version of the active document in
 
 - [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

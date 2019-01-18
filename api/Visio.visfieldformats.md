@@ -115,3 +115,4 @@ Text field formats.
 | **visFmtTimeHMMAMPM**|35|
 | **visFmtTimeHMM**|31|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

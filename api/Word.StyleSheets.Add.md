@@ -61,3 +61,4 @@ End Sub
 
 [StyleSheets Collection](Word.StyleSheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

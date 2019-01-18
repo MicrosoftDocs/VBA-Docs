@@ -33,4 +33,4 @@ VisMasterTypes
 
 Type value constants for  **Master** objects (the possible values that the **Type** property of a **Master** object returns) are declared by the Visio type library in **[VisMasterTypes](Visio.vismastertypes.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

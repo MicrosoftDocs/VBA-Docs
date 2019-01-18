@@ -27,3 +27,5 @@ Gets the reflection formatting for the shape range. Read-only  **[ReflectionForm
 
 [ShapeRange Object](Project.shaperange.md)
 [ReflectionFormat](https://msdn.microsoft.com/library/office/ff863140%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

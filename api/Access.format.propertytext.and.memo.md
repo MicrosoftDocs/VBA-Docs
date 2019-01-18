@@ -61,4 +61,4 @@ The following are examples of text and memo custom formats.
 - [Number and Currency](Access.format.propertynumber.and.currency.md)
 - [Yes/No](Access.format.propertyyes.no.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

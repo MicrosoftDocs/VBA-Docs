@@ -46,3 +46,4 @@ Application.DefaultWebOptions.UpdateLinksOnSave = False
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

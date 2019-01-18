@@ -34,3 +34,4 @@ A message is always created and submitted in a folder, usually the  **Outbox**.
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

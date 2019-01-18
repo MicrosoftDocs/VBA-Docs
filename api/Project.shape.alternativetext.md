@@ -31,3 +31,5 @@ The alternative text can be displayed either in place of the shape's image in th
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

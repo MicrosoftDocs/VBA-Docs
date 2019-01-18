@@ -58,4 +58,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 Set vsoValidationIssue = vsoValidationRule.AddIssue(vsoPage, vsoShape)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

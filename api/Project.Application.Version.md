@@ -25,4 +25,4 @@ Gets the version number of the Project application. Read-only  **String**.
 
 The  **Version** property returns "15.0" for Project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

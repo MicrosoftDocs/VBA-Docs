@@ -58,3 +58,4 @@ myT.TextFrame.TextRange.Characters(1, 5).Font.Bold = msoTrue
 
 [Font Object](PowerPoint.Font.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

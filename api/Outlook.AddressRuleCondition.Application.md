@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AddressRuleCondition](./Outlook.Addr
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

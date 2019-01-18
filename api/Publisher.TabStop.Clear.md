@@ -23,4 +23,4 @@ Removes the specified custom tab stop.
 
  _expression_ A variable that represents a  **TabStop** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

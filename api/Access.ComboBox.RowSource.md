@@ -74,7 +74,6 @@ End Sub
 
 ### About the contributors
 
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
+Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com.
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

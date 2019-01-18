@@ -23,3 +23,4 @@ Type codes returned by the  **Page.Type** property.
 | **visTypeForeground**|1|A foreground page.|
 | **visTypeMarkup**|3|An annotation page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

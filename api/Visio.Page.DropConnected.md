@@ -50,4 +50,4 @@ The  _PlacementDir_ parameter value must be one of the **VisAutoConnectDir** con
 
 The  _Connector_ parameter must be an object that references a one-dimensional (1-D) routable shape. If you pass a selection of shapes represented by an **IDataObject** object, Visio uses only the first of those shapes. If _Connector_ is not a valid Visio object, Visio returns an Invalid Parameter error. If _Connector_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

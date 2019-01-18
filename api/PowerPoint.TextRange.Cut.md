@@ -39,3 +39,4 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame.TextRange.Cut
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

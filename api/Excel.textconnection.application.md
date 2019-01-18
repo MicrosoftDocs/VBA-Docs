@@ -48,3 +48,4 @@ End If
 
 [TextConnection Object](Excel.textconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

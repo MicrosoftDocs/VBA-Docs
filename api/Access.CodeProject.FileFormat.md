@@ -61,3 +61,4 @@ MsgBox "This is a " & strFormat & " project."
 
 [CodeProject Object](Access.CodeProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

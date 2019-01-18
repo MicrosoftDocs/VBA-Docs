@@ -48,3 +48,4 @@ System.Cursor = wdCursorNormal
 
 [System Object](Word.System.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

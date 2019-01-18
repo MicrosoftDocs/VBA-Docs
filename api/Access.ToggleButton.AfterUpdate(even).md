@@ -49,3 +49,4 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

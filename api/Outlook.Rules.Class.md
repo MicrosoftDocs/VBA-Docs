@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 [Rules Object](Outlook.Rules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

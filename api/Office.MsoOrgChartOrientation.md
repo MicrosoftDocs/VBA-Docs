@@ -20,3 +20,4 @@ Specifies orientation of an organization chart.
 |**msoOrgChartOrientationMixed**|-2|Mixed orientation.|
 |**msoOrgChartOrientationVertical**|1|Vertical orientation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ Specifies the length for a given level in the code mask. Can be the string "Any"
 
  _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

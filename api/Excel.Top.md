@@ -43,4 +43,4 @@ This example sets the position of the top of the chart title.
 myChart.ChartTitle.Top = 10
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

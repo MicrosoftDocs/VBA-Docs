@@ -38,3 +38,4 @@ A Component Object Model (COM) object, such as a Microsoft Visio  **Document** o
 
 [Comments Collection](Visio.comments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

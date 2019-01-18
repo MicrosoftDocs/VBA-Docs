@@ -59,3 +59,4 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
 
 [Table Object](PowerPoint.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

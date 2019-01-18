@@ -46,3 +46,4 @@ WorkflowTask
 
 [WorkflowTasks Object Members](./overview/Library-Reference/workflowtasks-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,3 +56,4 @@ Application.CustomDictionaries.ActiveCustomDictionary = dicCustom
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

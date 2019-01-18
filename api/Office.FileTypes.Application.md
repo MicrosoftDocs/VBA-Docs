@@ -30,3 +30,4 @@ Object
 
 - [FileTypes object members](overview/library-reference/filetypes-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

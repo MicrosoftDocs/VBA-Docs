@@ -24,3 +24,4 @@ Specifies the type of formatting to apply to the table of figures in the active 
 | **wdTOFSimple**|5|Simple formatting.|
 | **wdTOFTemplate**|0|Template formatting.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

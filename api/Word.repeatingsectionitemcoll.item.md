@@ -41,4 +41,4 @@ Returns an individual repeating section item.
 
 [RepeatingSectionItemColl Object](Word.repeatingsectionitemcoll.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

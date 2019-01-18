@@ -18,3 +18,4 @@ Specifies the format of the picture being copied.
 | **xlBitmap**|2|A bitmap (.bmp, .jpg, .gif).|
 | **xlPicture**|-4147|A drawn picture (.png, .wmf, .mix).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

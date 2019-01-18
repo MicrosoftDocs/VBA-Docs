@@ -34,3 +34,4 @@ This property will return  **False** if not every threshold is set to percentile
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

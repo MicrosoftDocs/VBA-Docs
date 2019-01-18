@@ -29,3 +29,5 @@ Long
 ## See also
 
 - [CustomXMLPrefixMapping object members](overview/library-reference/customxmlprefixmapping-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

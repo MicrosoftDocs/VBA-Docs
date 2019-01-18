@@ -33,4 +33,4 @@ Displays the  **Layout** dialog box, which allows the user to set layout options
 
 The  **Layout** method is only available when a Gantt, Network Diagram, or Calendar view is active.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

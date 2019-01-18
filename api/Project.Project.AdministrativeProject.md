@@ -23,4 +23,4 @@ In Microsoft Project 2003, indicates whether the project is an administrative pr
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

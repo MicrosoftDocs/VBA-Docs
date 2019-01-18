@@ -39,3 +39,4 @@ The  **Value** property returns or sets a control's default property, which is t
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

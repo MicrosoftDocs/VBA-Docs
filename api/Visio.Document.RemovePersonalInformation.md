@@ -35,4 +35,4 @@ The personal information that can be saved with a file appears on the  **Summary
 
 Setting the  **RemovePersonalInformation** property is equivalent to setting the **Remove personal information from file properties on save** option under **Document-specific settings** on the **Privacy Options** page of the **Trust Center** dialog box (click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

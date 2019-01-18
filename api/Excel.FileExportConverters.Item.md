@@ -42,3 +42,4 @@ FileExportConverter
 
 [FileExportConverters Collection](Excel.FileExportConverters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

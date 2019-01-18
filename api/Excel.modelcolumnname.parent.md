@@ -33,3 +33,4 @@ _expression_ A variable that represents a [ModelColumnName object (Excel)](Excel
 
 [ModelColumnName Object](Excel.modelcolumnname.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

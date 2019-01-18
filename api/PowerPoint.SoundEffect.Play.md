@@ -40,3 +40,4 @@ ActivePresentation.Slides(2).SlideShowTransition.SoundEffect.Play
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 [Player Object](PowerPoint.Player.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

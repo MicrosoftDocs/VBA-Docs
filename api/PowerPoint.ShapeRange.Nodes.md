@@ -29,3 +29,4 @@ Returns a  **[ShapeNodes](PowerPoint.ShapeNodes.md)** collection that represents
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

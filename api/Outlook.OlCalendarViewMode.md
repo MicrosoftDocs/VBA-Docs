@@ -26,3 +26,4 @@ Indicates the view mode specified in the  **[CalendarViewMode](Outlook.CalendarV
 | **olCalendarViewMultiDay**|3|Displays a number of days equal to the  **[DaysInMultiDayMode](Outlook.CalendarView.DaysInMultiDayMode.md)** property value of the **CalendarView** object.|
 | **olCalendarViewWeek**|1|Displays a 7-day week.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

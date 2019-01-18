@@ -28,4 +28,4 @@ Activates the lower pane if the upper pane is active; activates the upper pane i
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

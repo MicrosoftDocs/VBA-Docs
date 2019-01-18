@@ -37,4 +37,4 @@ Sets options for displaying timephased data for the resource.
 
  **TimeScaleValues**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

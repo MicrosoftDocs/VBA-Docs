@@ -36,3 +36,4 @@ If this property is set to  **True** , attempting to set the **[SendUsingAccount
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

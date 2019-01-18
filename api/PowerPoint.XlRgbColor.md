@@ -162,3 +162,4 @@ Specifies the RGB color.
 |**xlYellow**|65535|Yellow|
 |**xlYellowGreen**|3329434|Yellow Green|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

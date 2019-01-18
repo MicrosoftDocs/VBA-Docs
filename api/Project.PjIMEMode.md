@@ -29,3 +29,4 @@ Contains constants that specify the Input Method Editor (IME) mode.
 |**pjIMEModeOff**|2|Mode off.|
 |**pjIMEModeOn**|1|Mode on.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

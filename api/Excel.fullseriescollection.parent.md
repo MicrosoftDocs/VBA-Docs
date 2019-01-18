@@ -38,3 +38,4 @@ Typically the chart to which this  **FullSeriesCollection** object belongs is re
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

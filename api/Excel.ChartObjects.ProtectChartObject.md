@@ -42,3 +42,4 @@ Worksheets(1).ChartObjects(1).ProtectChartObject = True
 
 [ChartObjects Object](Excel.ChartObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

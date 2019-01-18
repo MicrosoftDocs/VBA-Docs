@@ -25,4 +25,4 @@ Returns  **True** if any of the Office task panes are visible.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

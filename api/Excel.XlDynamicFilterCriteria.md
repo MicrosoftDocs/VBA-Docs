@@ -52,3 +52,4 @@ Specifies the filter criterion.
 | **xlFilterYearToDate**|16|Filter all values from today until a year ago.|
 | **xlFilterYesterday**|2|Filter all values related to yesterday.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Specifies whether the solution root and its subfolders are shown in their defaul
 | **olHideInDefaultModules**|0|The solution root and its subfolders are displayed in the  **Solutions** module and the **Folder List**.|
 | **olShowInDefaultModules**|1|The solution root and its subfolders are displayed in the  **Solutions** module and the **Folder List**, as well as in their respective default modules.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

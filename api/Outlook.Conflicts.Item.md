@@ -42,3 +42,4 @@ A  **Conflict** object that represents the specified object.
 
 [Conflicts Object](Outlook.Conflicts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ Worksheets("Sheet1").Columns("C"). _
 - [Range object](Excel.Range(object).md)
 - [Number format codes (Microsoft Support)](https://support.office.com/article/number-format-codes-5026bbd6-04bc-48cd-bf33-80f18b4eae68)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

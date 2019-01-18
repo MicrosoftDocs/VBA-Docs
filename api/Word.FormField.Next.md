@@ -29,3 +29,4 @@ Returns the next form field in the collection. Read-only.
 
 [FormField Object](Word.FormField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

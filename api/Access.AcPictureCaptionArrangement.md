@@ -27,3 +27,4 @@ Used with the  **[PictureCaptionArrangement](Access.CommandButton.PictureCaption
 |**acRight**|5|The caption appears to the right of the picture.|
 |**acTop**|2|The caption appears above the picture.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

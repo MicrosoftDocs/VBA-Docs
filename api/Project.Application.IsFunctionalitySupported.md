@@ -34,4 +34,4 @@ Occurs after the  **LoadWebBrowserControl** method is called with the third para
 
 nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

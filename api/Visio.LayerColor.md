@@ -52,4 +52,4 @@ The following code shows how to get the color of the layer at index position 1 i
 Debug.Print vsoViewer.LayerColor(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ The  **Pages** collection is initially empty, and there is a limit of 5 customiz
 
 [Pages Object (Outlook)](Outlook.Pages.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

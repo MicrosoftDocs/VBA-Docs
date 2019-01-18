@@ -32,4 +32,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ModelMeasure Object](Excel.modelmeasure.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **[Document](Word.Document.md)** object associated with the specified
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

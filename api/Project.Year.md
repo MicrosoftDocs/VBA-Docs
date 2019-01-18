@@ -126,3 +126,4 @@ Figure 1 shows the results of the  **CountYears** macro.
 |[Shift5](Project.Year.Shift5.md)|
 |[Working](Project.Year.Working.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

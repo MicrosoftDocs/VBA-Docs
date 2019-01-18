@@ -36,3 +36,4 @@ Using  **Rule.Enabled** and **Rules.Save** applies the rule consistently and per
 
 [Rule Object](Outlook.Rule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

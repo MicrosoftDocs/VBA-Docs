@@ -99,3 +99,4 @@ The following table lists the different date filter types that will be deleted b
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

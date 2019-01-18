@@ -21,3 +21,4 @@ Specifies which key interrupts recalculation.
 | **xlEscKey**|1|Pressing the ESC key interrupts recalculation.|
 | **xlNoKey**|0|No key press can interrupt recalculation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

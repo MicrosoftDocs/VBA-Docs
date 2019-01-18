@@ -49,3 +49,4 @@ Any of these arguments can be a negative number. If no arguments are specified, 
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property returns  **True** if text automatically shrinks to fit in the avai
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

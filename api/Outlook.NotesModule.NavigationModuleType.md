@@ -34,3 +34,4 @@ This property returns  **olModuleNotes** for the **[NotesModule](Outlook.NotesMo
 
 [NotesModule Object](Outlook.NotesModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

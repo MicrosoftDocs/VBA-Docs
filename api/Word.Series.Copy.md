@@ -29,3 +29,4 @@ If the series has a picture fill, copies the picture to the Clipboard.
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

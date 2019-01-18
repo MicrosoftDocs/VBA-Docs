@@ -36,3 +36,4 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 
 [OptionButton Object](Access.OptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

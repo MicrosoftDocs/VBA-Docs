@@ -69,3 +69,4 @@ If Repeat(3) = True Then StatusBar = "Action repeated"
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

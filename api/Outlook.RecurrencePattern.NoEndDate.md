@@ -34,3 +34,4 @@ This property must be coordinated with other properties when setting up a recurr
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

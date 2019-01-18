@@ -34,3 +34,4 @@ This property will always return a  **Long** value of "6", which is equivalent t
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

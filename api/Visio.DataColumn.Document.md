@@ -31,4 +31,4 @@ Gets the  **Document** object that contains the **DataColumn** object. Read-only
 
 Document
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

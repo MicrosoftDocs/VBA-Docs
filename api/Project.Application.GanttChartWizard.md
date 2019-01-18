@@ -28,4 +28,4 @@ Starts the GanttChartWizard.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ The  **EnterKeyBehavior** and **[MultiLine](Outlook.textbox.multiline.md)** prop
 
 The effect of pressing  **CTRL+ENTER** also depends on the value of **MultiLine**. If  **MultiLine** is **True**, pressing  **CTRL+ENTER** creates a new line regardless of the value of **EnterKeyBehavior**. If  **MultiLine** is **False**, pressing  **CTRL+ENTER** has no effect.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

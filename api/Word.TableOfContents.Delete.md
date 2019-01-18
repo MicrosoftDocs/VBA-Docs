@@ -29,3 +29,4 @@ Deletes the specified table of contents.
 
 [TableOfContents Object](Word.TableOfContents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

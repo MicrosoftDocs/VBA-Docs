@@ -34,3 +34,4 @@ Corresponds to the  **Pasting between two documents (with styles)** option in th
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

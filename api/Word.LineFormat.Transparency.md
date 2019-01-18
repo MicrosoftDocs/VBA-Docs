@@ -48,3 +48,4 @@ End With
 
 [LineFormat Object](Word.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

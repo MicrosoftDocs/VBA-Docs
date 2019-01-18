@@ -34,3 +34,4 @@ Word normally loads building blocks when they are first needed, for example when
 
 [Templates Collection Object](Word.templates.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

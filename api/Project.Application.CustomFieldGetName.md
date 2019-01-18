@@ -33,4 +33,4 @@ Returns the friendly name for a custom field.
 
  **String**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

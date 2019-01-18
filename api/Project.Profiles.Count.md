@@ -30,3 +30,5 @@ The  `Profiles.Count` statement shows the number of profiles that are defined in
 
 
 [Profiles Collection Object](Project.profiles.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

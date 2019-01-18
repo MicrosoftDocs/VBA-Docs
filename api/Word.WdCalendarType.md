@@ -29,3 +29,4 @@ Specifies a calendar type.
 | **wdCalendarUmalqura**|13|Um-al-Qura calendar.|
 | **wdCalendarWestern**|0|Western. Corresponds to the Gregorian calendar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

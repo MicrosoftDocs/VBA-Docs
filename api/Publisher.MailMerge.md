@@ -63,3 +63,4 @@ End Sub
 |[ViewMailMergeFieldCodes](./Publisher.MailMerge.ViewMailMergeFieldCodes.md)|
 |[WizardState](./Publisher.MailMerge.WizardState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,4 @@ Changes the mode of the selected tasks, to manually scheduled or automatically s
 
 The  **SetTaskMode** method corresponds to the **Manually Schedule** command and the **Auto Schedule** command on the **TASK** ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

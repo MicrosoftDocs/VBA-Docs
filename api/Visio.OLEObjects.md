@@ -23,4 +23,4 @@ Each member of an  **OLEObjects** collection is an **OLEObject** object, which r
 
 The default property of an  **OLEObjects** collection is **Item**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

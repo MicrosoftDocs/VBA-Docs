@@ -34,3 +34,4 @@ If the  **TableDirection** property is set to **wdTableDirectionLtr** , the sele
 
 [TableStyle Object](Word.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

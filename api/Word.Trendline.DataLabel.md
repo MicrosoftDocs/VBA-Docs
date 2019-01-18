@@ -34,3 +34,4 @@ To enable data labels for a trendline, you need to set the  **[DisplayEquation](
 
 [Trendline Object](Word.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

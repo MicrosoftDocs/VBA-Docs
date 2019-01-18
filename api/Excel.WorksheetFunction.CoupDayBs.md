@@ -75,3 +75,4 @@ The following table contains the list of values for  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

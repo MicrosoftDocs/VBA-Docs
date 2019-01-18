@@ -44,3 +44,4 @@ docActive.Shapes(1).PictureFormat.ColorType = _
 
 [PictureFormat Object](Word.PictureFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

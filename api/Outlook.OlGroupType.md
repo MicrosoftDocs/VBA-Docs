@@ -28,3 +28,4 @@ Identifies the group type of a  **[NavigationGroup](Outlook.NavigationGroup.md)*
 | **olReadOnlyGroup**|6|Identifies a navigation group that is, by default, read-only and no folders can be added or removed from that navigation group. This does not imply the folders themselves are read-only, and write access to the folders depends on how the folders are set up.|
 | **olRoomsGroup**|5|Identifies the  **Rooms** navigation group in the **Calendar** navigation module.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

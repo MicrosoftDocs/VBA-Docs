@@ -22,3 +22,4 @@ Specifies the type of date to apply to a data series.
 | **xlWeekday**|2|Weekdays|
 | **xlYear**|4|Year|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

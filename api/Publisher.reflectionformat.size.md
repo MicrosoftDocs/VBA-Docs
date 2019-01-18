@@ -33,3 +33,4 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

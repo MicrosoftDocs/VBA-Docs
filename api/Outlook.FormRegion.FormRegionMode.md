@@ -34,3 +34,4 @@ If the user has a mail item in the Reading Pane, you can use the  **[MailItem.Se
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

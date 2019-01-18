@@ -25,4 +25,4 @@ The  **MouseIcon** property is valid when the **[MousePointer](Outlook.frame.mou
 
 To assign an image for the mouse pointer, you can either assign a picture to the  **MouseIcon** property or load a picture from a file using the **LoadPicture** function in Visual Basic Scripting Edition.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

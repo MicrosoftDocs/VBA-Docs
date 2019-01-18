@@ -89,3 +89,5 @@ When you type inside an empty cell, Microsoft Access automatically inserts a  **
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

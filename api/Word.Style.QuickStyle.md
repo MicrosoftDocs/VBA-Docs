@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether the style corresponds to 
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Displays the  **Cleanup Cache** dialog box. Available only in Project Profession
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

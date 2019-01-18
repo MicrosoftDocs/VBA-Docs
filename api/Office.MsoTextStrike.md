@@ -22,3 +22,4 @@ Indicates the number of times a character is printed to darken the image.
 |**msoSingleStrike**|1|Specifies that the character is printed once.|
 |**msoStrikeMixed**|-2|Specifies that the text can contain a combination of doublestrike and single strike characters. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

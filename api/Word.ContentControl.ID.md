@@ -36,3 +36,4 @@ When you get the  **ID** property value at runtime, it is returned as an unsigne
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

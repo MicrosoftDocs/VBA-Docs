@@ -29,3 +29,4 @@ Returns or sets a  **String** that represents the contents of an equation auto c
 
 [OMathAutoCorrectEntry Object](Word.OMathAutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

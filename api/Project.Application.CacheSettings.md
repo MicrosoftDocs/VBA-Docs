@@ -28,4 +28,4 @@ Displays the  **Cache Settings** dialog box. Available in Project Professional o
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

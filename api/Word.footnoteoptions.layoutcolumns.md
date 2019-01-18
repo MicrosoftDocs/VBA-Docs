@@ -32,3 +32,4 @@ Returns or sets the way footnotes are laid out in columns when the section conta
 
 [FootnoteOptions Object](Word.FootnoteOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

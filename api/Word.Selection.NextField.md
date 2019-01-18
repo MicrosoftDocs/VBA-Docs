@@ -61,3 +61,4 @@ If Not (myField Is Nothing) Then StatusBar = "Field found"
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

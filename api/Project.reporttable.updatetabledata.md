@@ -46,3 +46,5 @@ Updates rows and columns in the report table to show the specified task or resou
 
 
 [ReportTable Object](Project.reporttable.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

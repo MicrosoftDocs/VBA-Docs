@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LineNumbering Object](Word.LineNumbering.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ You can use the  **Visible** property to hide a control on a form or report by i
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

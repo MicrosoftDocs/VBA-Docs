@@ -31,4 +31,4 @@ This example sets the number of categories between tick marks on the category ax
 myChart.Axes(xlCategory).TickMarkSpacing = 10
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

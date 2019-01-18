@@ -80,4 +80,4 @@ shpCrop.PictureFormat.CropRight = sngPoints
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

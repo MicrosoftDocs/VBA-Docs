@@ -48,3 +48,4 @@ End If
 
 [ModelRelationships Object](Excel.modelrelationships.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

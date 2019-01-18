@@ -67,3 +67,4 @@ Application.ActivePresentation.PageSetup _
 
 [PageSetup Object](PowerPoint.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

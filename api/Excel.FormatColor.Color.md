@@ -34,3 +34,4 @@ The format color is expressed as an RGB function. For example, to set the color 
 
 [FormatColor Object](Excel.FormatColor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

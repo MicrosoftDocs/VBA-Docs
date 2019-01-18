@@ -30,3 +30,4 @@ Contains constants that specify the type of comparsion.
 |**pjCompareNotWithin**|8|The custom field's value is not within  **Value**.|
 |**pjCompareWithin**|0|The custom field's value is within  **Value**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

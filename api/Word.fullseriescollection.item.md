@@ -41,4 +41,4 @@ Returns an individual full series item from the collection.
 
 [FullSeriesCollection Object](Word.fullseriescollection.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

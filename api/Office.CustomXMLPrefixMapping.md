@@ -31,3 +31,5 @@ objNamespace = CustomXMLPrefixMappings.AddNamespace("xs", "urn:invoice:namespace
 
 - [CustomXMLPrefixMapping object members](overview/library-reference/customxmlprefixmapping-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

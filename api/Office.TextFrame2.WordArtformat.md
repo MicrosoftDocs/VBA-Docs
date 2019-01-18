@@ -48,3 +48,4 @@ pptSlide.Shapes(1).TextFrame2.WordArtFormat = msoTextEffect20
 
 [TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

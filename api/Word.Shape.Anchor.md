@@ -46,3 +46,4 @@ ActiveDocument.Shapes(1).Anchor.Paragraphs(1).Range.Select
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

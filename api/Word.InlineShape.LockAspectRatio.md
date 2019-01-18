@@ -29,3 +29,4 @@ localization_priority: Normal
 
 [InlineShape Object](Word.InlineShape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

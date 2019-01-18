@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [NotesModule Object](Outlook.NotesModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

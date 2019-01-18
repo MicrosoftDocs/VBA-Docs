@@ -25,4 +25,4 @@ localization_priority: Normal
 
 You can set the  **LevelingCanSplit** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then click **Leveling can create splits in remaining work**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

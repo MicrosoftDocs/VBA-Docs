@@ -47,3 +47,4 @@ Set objRectangles = ActiveDocument.ActiveWindow _
 
 [Line Object](Word.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

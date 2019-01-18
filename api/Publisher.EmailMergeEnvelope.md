@@ -100,3 +100,4 @@ End Sub
 |[Subject](Publisher.EmailMergeEnvelope.Subject.md)|
 |[To](Publisher.EmailMergeEnvelope.To.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

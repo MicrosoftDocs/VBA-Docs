@@ -35,4 +35,4 @@ For example, if you resize a shape that is a member of a container in a structur
 
 Setting  **DeferRelationshipRecalc** to **False** causes Visio to immediately process all deferred actions.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

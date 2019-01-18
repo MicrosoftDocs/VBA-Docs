@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

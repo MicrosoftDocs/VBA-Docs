@@ -44,3 +44,4 @@ End If
 
 [Errors Object](Excel.Errors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

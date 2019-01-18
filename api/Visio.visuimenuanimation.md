@@ -26,3 +26,4 @@ Values used in conjunction with the  **UIObject.MenuAnimationStyle** property.
 | **visMenuAnimationSlide**|3|Animations appear to slide into view from above.|
 | **visMenuAnimationUnfold**|2|Animations appear to expand from a point in the upper-left corner of the animation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

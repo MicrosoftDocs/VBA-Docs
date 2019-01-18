@@ -53,3 +53,4 @@ Forms("Suppliers").ShortcutMenuBar = "Suppliers_Toolbar"
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

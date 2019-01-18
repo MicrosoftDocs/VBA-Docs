@@ -38,4 +38,4 @@ A math zone is a text range within which math typography rules apply and outside
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

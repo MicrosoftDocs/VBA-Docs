@@ -20,3 +20,4 @@ Contains constants that specify which rows to copy to a picture.
 |**pjCopyOnScreen**|0|Copy all rows that have content.|
 |**pjCopySelected**|1|Copy only selected rows.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

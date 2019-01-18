@@ -27,4 +27,4 @@ myChart.Legend.Font.Color = _
  myChart.PlotArea.Fill.ForeColor.RGB
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

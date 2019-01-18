@@ -33,4 +33,4 @@ Used with the  **Type** property of the **WrapFormat** object. You can view what
 
  **Note**   **wdWrapSquare** , **wdWrapTight** , and **wdWrapThrough** all function in essentially the same way.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

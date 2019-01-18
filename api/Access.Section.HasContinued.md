@@ -43,3 +43,4 @@ You can use this property to determine whether to show or hide certain controls 
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

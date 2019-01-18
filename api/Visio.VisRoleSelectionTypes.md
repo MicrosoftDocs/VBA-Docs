@@ -24,3 +24,4 @@ Specifies selections that contain all shapes of a given role; passed to the  **[
 | **visRoleSelContainer**|2|A selection that contains all container shapes.|
 | **visRoleSelCallout**|4|A selection that contains all callout shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

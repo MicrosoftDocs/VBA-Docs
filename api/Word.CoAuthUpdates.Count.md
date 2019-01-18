@@ -40,4 +40,4 @@ MsgBox "The active document contains " & _
 
 [CoAuthUpdates Object](./overview/Word.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

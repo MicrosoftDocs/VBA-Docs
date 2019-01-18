@@ -32,3 +32,5 @@ MsoCustomXMLValidationErrorType
 ## See also
 
 - [CustomXMLValidationError object members](overview/library-reference/customxmlvalidationerror-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

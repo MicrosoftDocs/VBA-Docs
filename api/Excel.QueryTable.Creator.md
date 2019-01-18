@@ -36,3 +36,4 @@ Data from Web queries or text queries is imported as a  **[QueryTable](Excel.Que
 
 [QueryTable Object](Excel.QueryTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

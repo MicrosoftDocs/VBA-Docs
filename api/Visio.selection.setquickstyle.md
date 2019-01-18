@@ -50,3 +50,4 @@ Calling the  **SetQuickStyle** method corresponds to setting a quick style in th
 
 [Selection Object](Visio.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

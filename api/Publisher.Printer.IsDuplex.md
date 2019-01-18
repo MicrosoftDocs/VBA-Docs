@@ -28,4 +28,4 @@ Returns  **True** if the device represented by the parent **Printer** object is 
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

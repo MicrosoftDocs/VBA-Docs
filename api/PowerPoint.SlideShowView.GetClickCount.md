@@ -39,3 +39,4 @@ When a slide contains animations, the  **GetClickCount** method returns the numb
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

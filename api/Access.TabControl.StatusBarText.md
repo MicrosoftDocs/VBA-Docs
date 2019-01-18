@@ -56,3 +56,4 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

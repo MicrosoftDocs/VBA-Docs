@@ -23,3 +23,4 @@ Constants passed to the  **[ExportAsFixedFormat](Publisher.Document.ExportAsFixe
 | **pbFixedFormatTypePDF**|2|PDF format|
 | **pbFixedFormatTypeXPS**|1|XPS format|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Worksheets("Sheet1").Range("A1:A5").Font.Italic = True
 
 [Font Object](Excel.Font(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

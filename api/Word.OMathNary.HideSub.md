@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether to hide the lower limit o
 
 [OMathNary Object](Word.OMathNary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

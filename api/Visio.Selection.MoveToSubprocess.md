@@ -43,4 +43,4 @@ Moves the selection to the specified page, and drops a replacement shape on the 
 
 The  _ObjectToDrop_ parameter is typically a Microsoft Visio object, such as a **[Master](Visio.Master.md)** or **[MasterShortcut](Visio.MasterShortcut.md)** object. However, it can be any OLE object that provides an **IDataObject** interface. If _ObjectToDrop_ is null, Visio drops a default shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

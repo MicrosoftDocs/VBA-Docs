@@ -28,4 +28,4 @@ Deletes the active row or the row that contains the active cell.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

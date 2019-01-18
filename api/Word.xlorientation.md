@@ -20,3 +20,4 @@ Specifies the text orientation.
 | **xlUpward**|-4171|Text runs upward.|
 | **xlVertical**|-4166|Text runs downward and is centered in the cell.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

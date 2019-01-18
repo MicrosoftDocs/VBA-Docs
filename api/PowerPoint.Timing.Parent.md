@@ -52,3 +52,4 @@ End With
 
 [Timing Object](PowerPoint.Timing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the nesting level of the specified HTML DIV elements. Read-only  **Long*
 
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

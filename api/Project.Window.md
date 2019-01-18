@@ -124,3 +124,4 @@ Application.WindowNewWindow
 |[Width](Project.Window.Width.md)|
 |[WindowState](Project.Window.WindowState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

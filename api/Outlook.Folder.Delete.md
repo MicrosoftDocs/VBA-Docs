@@ -36,3 +36,4 @@ In general, deleting a folder does not require first deleting the items in the f
 
 [Folder Object](Outlook.Folder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

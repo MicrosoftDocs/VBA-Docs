@@ -36,3 +36,4 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

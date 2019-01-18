@@ -70,4 +70,4 @@ Set shpConnect = ActiveDocument.Pages(1).Shapes.AddConnector _
  EndX:=180, EndY:=72)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Contains constants that specify a calendar bar type.
 |**pjNoBar**|2|No bar.|
 |**pjNormalBar**|0|Normal bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

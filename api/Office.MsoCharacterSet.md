@@ -30,3 +30,4 @@ Specifies the character set to be used when rendering text.
 |**msoCharacterSetTraditionalChinese**|11|Traditional Chinese character set.|
 |**msoCharacterSetVietnamese**|12|Vietnamese character set.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

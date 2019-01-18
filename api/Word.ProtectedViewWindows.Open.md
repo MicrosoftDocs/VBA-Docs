@@ -62,3 +62,4 @@ ProtectedViewWindows.Open FileName:="C:\MyFiles\MyDoc.doc"
 
 [ProtectedViewWindows Object](Word.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

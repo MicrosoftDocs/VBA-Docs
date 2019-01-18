@@ -34,3 +34,4 @@ The display name of the  **Solutions** module can be customized if there is only
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

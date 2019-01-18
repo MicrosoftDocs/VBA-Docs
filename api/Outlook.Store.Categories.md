@@ -76,3 +76,4 @@ End Sub
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

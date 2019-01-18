@@ -64,3 +64,4 @@ End Sub
 
 [CustomLabels Collection Object](Word.customlabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

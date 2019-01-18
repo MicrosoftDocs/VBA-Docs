@@ -55,4 +55,4 @@ AddNewColumn (3)
 
  **Note**  If the user does not name the column header,  **AddNewColumn** removes the selected column. When you add a column, it does not exist until the field is named. If you try to use the **ColumnEdit** method after **AddNewColumn**, Project shows run-time error 1100 (the command in the macro is not available in this situation).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

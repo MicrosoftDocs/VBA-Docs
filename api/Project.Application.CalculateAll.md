@@ -28,4 +28,4 @@ Calculates all open projects.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

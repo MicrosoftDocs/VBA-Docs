@@ -48,3 +48,4 @@ End If
 
 [ModelTableNameChanges Object](Excel.modeltablenamechanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

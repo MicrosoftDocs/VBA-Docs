@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether breaks are allowed inside
 
 [OMathBox Object](Word.OMathBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
