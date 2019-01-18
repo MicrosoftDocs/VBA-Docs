@@ -28,4 +28,4 @@ Returns the number of  **PageSize** objects in the **PageSizes** collection of t
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

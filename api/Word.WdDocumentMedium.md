@@ -21,3 +21,4 @@ Specifies the type of document to which you are applying a theme.
 | **wdEmailMessage**|0|Email message.|
 | **wdWebPage**|2|Web page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

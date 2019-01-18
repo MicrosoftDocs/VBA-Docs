@@ -30,4 +30,4 @@ Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with
 
  **Note**   _xlPivotTableVersionCurrent_ is included only for backward compatibility reasons. It cannot be used with new **PivotCache** and **PivotTable** objects. There are no differences in behavior between _xlPivotTableVersion11_ and _xlPivotTableVersion10_ .
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

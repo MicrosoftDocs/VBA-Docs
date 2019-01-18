@@ -30,3 +30,5 @@ The  `Profiles.ActiveProfile` statement returns the name of the current account 
 
 
 [Profiles Collection Object](Project.profiles.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [ChartFormat Object](Excel.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

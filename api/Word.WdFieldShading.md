@@ -21,3 +21,4 @@ Specifies when to apply on-screen shading for form fields.
 | **wdFieldShadingNever**|0|Never apply.|
 | **wdFieldShadingWhenSelected**|2|Apply only when form field is selected.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

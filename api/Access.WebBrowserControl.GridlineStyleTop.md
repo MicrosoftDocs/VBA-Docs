@@ -46,3 +46,4 @@ The  **TopGridlineStyle** property uses the following settings.
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

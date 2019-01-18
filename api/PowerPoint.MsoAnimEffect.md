@@ -168,3 +168,4 @@ Specifies the type of animation effect.
 |**msoAnimEffectZip**|46|Zip effect|
 |**msoAnimEffectZoom**|23|Zoom effect|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

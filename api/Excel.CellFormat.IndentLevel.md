@@ -34,3 +34,4 @@ Using this property to set the indent level to a number less than 0 (zero) or gr
 
 [CellFormat Object](Excel.CellFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

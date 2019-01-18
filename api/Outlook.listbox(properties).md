@@ -67,5 +67,5 @@ localization_priority: Normal
 -  [ListBox.TopIndex Property (Outlook Forms Script)](Outlook.ListBox.topindex.md)
     
 -  [ListBox.Value Property (Outlook Forms Script)](Outlook.ListBox.value.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

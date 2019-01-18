@@ -29,3 +29,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [Trendline Object](Word.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ localization_priority: Normal
 
 [List Object](Word.List.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

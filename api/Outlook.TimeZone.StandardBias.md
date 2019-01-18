@@ -36,3 +36,4 @@ In relation to the UTC time and the local time of the time zone, UTC time is the
 
 [TimeZone Object](Outlook.TimeZone.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ You can use the  **DisplayType** property to filter address entries. The **Displ
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

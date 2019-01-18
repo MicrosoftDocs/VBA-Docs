@@ -69,3 +69,5 @@ Set myProp = myItem.UserProperties.Add("MyPropName", olText)
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [UserProperty Object Members](./overview/Outlook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

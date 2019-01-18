@@ -28,4 +28,4 @@ Determines whether an object is visible. Read/write.
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

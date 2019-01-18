@@ -48,3 +48,4 @@ For information about using events with the  **Application** object, see [Using 
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

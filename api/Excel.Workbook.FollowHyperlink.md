@@ -63,3 +63,4 @@ ActiveWorkbook.FollowHyperlink Address:="https://example.microsoft.com"
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ You can use the  **NavigationButtons** property to control record navigation.
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

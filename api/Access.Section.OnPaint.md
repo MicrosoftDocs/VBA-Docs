@@ -47,3 +47,4 @@ If the  **On Paint** box is blank, the property value is an empty string.
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

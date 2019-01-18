@@ -37,3 +37,4 @@ Constants that specify the type of animation filter effect, passed to and return
 |**msoAnimFilterEffectTypeWheel**|17|Wheel|
 |**msoAnimFilterEffectTypeWipe**|18|Wipe|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

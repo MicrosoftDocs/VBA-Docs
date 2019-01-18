@@ -30,4 +30,4 @@ The  **EnterFieldBehavior** property controls the way text is selected when the 
 
 You can combine the effects of the  **EnterFieldBehavior** property and **[DragBehavior](Outlook.OlkComboBox.DragBehavior.md)** to create a large number of combo box styles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

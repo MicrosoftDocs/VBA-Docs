@@ -42,3 +42,4 @@ This event is similar to the  **[AutoDiscoverComplete](Outlook.NameSpace.AutoDis
 
 [Accounts Object](Outlook.Accounts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

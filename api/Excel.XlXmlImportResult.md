@@ -21,3 +21,4 @@ Specifies the results of the refresh or import operation.
 | **xlXmlImportSuccess**|0|The XML data file was successfully imported.|
 | **xlXmlImportValidationFailed**|2|The contents of the XML data file do not match the specified schema map.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

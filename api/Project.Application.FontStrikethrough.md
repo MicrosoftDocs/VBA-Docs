@@ -36,4 +36,4 @@ Applies or removes strikethrough formatting from the selected text.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

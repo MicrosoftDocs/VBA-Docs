@@ -29,3 +29,4 @@ Deletes the specified  **Editor** object.
 
 [Editor Object](Word.Editor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

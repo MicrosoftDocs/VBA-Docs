@@ -39,3 +39,4 @@ Use an icon set to annotate and classify data into three to five categories sepa
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

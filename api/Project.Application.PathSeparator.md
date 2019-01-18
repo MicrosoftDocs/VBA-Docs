@@ -25,4 +25,4 @@ Gets the separator character for the file system path. Read/write  **String**.
 
 The default value of  **PathSeparator** is "\", for example, in the path "C:\Projects". Project sets the value of **PathSeparator** internally.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

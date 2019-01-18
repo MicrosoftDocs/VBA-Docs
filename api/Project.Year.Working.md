@@ -25,4 +25,4 @@ localization_priority: Normal
 
 For an example that uses the  **Month** object, see **[Working](Project.Month.Working.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

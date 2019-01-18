@@ -42,4 +42,4 @@ End If
 
 [ModelFormatDecimalNumber Object](Excel.modelformatdecimalnumber.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

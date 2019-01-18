@@ -17,5 +17,4 @@ Contains the data and functionality needed to connect to data feeds. The same ob
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

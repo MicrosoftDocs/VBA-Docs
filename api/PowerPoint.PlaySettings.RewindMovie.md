@@ -57,3 +57,4 @@ OLEobj.AnimationSettings.PlaySettings.RewindMovie = msoTrue
 
 [PlaySettings Object](PowerPoint.PlaySettings.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

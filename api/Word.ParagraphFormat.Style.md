@@ -34,3 +34,4 @@ To set this property, specify the local name of the style, an integer, a  **[WdB
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ There are two types of numbers: preset numbers (**wdNumberParagraph**), which yo
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.
 
 [StyleSheet Object](Word.StyleSheet.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

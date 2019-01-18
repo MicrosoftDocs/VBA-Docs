@@ -47,3 +47,4 @@ This property is typically used when casting a  **[NavigationModule](Outlook.Nav
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

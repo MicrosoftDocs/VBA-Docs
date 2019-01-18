@@ -19,4 +19,4 @@ Represents the mathematical radical object, consisting of a radical, a base, and
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

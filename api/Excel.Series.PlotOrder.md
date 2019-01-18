@@ -46,3 +46,4 @@ Charts("Chart1").ChartGroups(1).SeriesCollection(2).PlotOrder = 3
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

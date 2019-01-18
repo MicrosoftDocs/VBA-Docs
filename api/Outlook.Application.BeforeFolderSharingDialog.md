@@ -43,3 +43,4 @@ This event provides an add-in with the capability of replacing the sharing user 
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

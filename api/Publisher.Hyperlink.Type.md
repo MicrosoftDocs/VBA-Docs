@@ -34,3 +34,4 @@ The  **Type** property value can be one of these **MsoHyperlinkType** constants.
 | **msoHyperlinkRange**|
 | **msoHyperlinkShape**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

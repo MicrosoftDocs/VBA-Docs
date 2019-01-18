@@ -34,3 +34,4 @@ Attempting to delete the only existing column in a table will result in a run-ti
 
 [Column Object](PowerPoint.Column.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

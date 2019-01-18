@@ -80,3 +80,4 @@ curTotalAmount = Forms!Orders!OrderDetails.Form!TotalAmount
 
 [SubForm Object](Access.SubForm.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,3 +52,4 @@ End With
 
 [Placeholders Object](PowerPoint.Placeholders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

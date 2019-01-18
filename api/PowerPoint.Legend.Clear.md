@@ -26,3 +26,4 @@ Clears the entire object.
 
 [Legend Object](PowerPoint.Legend.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

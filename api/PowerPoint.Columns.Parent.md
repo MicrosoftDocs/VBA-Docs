@@ -50,3 +50,4 @@ End With
 
 [Columns Object](PowerPoint.Columns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

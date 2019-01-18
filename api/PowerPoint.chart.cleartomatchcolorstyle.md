@@ -28,4 +28,4 @@ _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
 Use this method to reset all the chart color formatting to the color style applied to the chart.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

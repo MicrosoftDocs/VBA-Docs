@@ -29,3 +29,4 @@ _expression_ A variable that represents an [ItemProperties](./Outlook.ItemProper
 
 [ItemProperties Object](Outlook.ItemProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

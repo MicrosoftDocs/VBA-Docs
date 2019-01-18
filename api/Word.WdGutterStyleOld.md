@@ -20,3 +20,4 @@ Specifies whether the gutter style should conform to left-to-right text flow or 
 | **wdGutterStyleBidi**|2|Bidirectional gutter should be used to conform to right-to-left text flow.|
 | **wdGutterStyleLatin**|-10|Latin gutter should be used to conform to left-to-right text flow.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

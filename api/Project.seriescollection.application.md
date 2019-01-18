@@ -21,3 +21,5 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [SeriesCollection Object](Project.seriescollection.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

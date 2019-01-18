@@ -32,4 +32,4 @@ ActiveChart.Colors(5) = RGB(255, 0, 0)
 
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

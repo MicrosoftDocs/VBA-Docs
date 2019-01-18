@@ -42,3 +42,4 @@ End With
 
 [AxisTitle Object](Excel.AxisTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

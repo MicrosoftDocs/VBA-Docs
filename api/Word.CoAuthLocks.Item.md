@@ -42,3 +42,4 @@ Returns an individual  **[CoAuthLock](Word.CoAuthLock.md)** object in a collecti
 
 [CoAuthLocks Object](Word.CoAuthLocks.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

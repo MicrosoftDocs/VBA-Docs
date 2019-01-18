@@ -36,4 +36,4 @@ Returns the minimal distance, in the specified units, between the edges of the c
 
  **Double**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

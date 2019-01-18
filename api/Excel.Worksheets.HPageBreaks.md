@@ -52,3 +52,4 @@ MsgBox cFull & " full-screen page breaks, " & cPartial & _
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

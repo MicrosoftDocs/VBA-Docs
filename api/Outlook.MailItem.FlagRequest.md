@@ -34,3 +34,4 @@ By default, a mail item is not marked with any flag and the default value for th
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

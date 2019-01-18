@@ -35,3 +35,4 @@ Integer
 
 [ThemeFonts Object Members](./overview/Library-Reference/themefonts-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

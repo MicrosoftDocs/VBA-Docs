@@ -31,4 +31,4 @@ This example sets the space between column clusters in the 2-D column chart grou
 myChart.ColumnGroups(1).GapWidth = 50
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

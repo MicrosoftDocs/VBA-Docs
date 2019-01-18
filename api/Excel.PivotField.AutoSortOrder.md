@@ -44,6 +44,4 @@ With Worksheets(1).PivotTables(1).PivotFields("product")
 End With
 ```
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

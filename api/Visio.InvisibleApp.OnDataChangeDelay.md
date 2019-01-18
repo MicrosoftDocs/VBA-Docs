@@ -43,4 +43,4 @@ The  **OnDataChangeDelay** property affects only instances of Visio that are run
 
  **Note**  If you experience decreased performance when you add or move shapes that are contained in a Visio drawing that is hosted in the Visio Drawing Control, you can install a hot fix and then use the  **OnDataChangeDelay** property to overcome this problem. For more information, see the Microsoft Knowledge Base article[839079](https://support.microsoft.com/kb/839079/).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

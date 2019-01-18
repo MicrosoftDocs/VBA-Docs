@@ -36,3 +36,4 @@ The value is expressed in units of pixels. The default value is 96.
 
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

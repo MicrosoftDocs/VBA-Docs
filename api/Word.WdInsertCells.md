@@ -22,3 +22,4 @@ Specifies where and what type of cells to add to an existing table.
 | **wdInsertCellsShiftDown**|1|Inserts new cells above the selected cells.|
 | **wdInsertCellsShiftRight**|0|Insert new cells to the left of the selected cells.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

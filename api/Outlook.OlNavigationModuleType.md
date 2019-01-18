@@ -53,4 +53,4 @@ This enumeration is used by the [NavigationModule.NavigationModuleType Property 
     
 The enumeration is also used by the [NavigationModules.GetNavigationModule Method (Outlook)](Outlook.NavigationModules.GetNavigationModule.md) to identify the navigation module type of the **NavigationModule** to retrieve.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ By default, the value of the **Caption** property is used as the **ScreenTip**.
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

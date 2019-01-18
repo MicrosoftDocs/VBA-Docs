@@ -72,4 +72,4 @@ Private Sub vsoViewer_OnViewChanged(ByVal PageXAtViewCenter As Double, ByVal Pag
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

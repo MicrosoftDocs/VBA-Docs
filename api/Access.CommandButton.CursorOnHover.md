@@ -34,3 +34,4 @@ Setting the  **CursorOnHover** property to **acCursorOnHoverHyperlinkHand** can 
 
 [CommandButton Object](Access.CommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

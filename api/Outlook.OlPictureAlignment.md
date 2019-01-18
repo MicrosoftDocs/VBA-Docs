@@ -27,4 +27,4 @@ Specifies how an image is aligned with respect to text on a button.
 
 In bidirectional text,  **olPictureAlignmentLeft** specifies that the image should be aligned to the right of the text and vertically centered on the button.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

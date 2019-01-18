@@ -34,3 +34,4 @@ Returns  **Null** (**Nothing** in Visual Basic) if the account does not have a d
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

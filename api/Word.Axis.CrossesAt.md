@@ -36,3 +36,4 @@ You cannot use this property on radar charts. For 3-D charts, this property indi
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

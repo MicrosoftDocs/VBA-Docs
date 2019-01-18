@@ -67,3 +67,4 @@ End Sub
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

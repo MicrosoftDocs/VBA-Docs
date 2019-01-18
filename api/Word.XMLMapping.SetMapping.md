@@ -91,3 +91,4 @@ objCustomControl.XMLMapping.SetMapping _
 
 [XMLMapping Object](Word.XMLMapping.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

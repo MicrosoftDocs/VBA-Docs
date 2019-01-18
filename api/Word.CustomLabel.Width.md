@@ -29,3 +29,4 @@ Returns or sets the width of a custom mailing label, in points. Read/write  **Lo
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

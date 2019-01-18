@@ -34,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Dialog Object](Excel.Dialog.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

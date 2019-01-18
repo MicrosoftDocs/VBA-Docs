@@ -33,4 +33,4 @@ Provides a print preview of the active project. Acts the same as the  **FilePrin
 
  **FilePrintPreview** opens the Backstage view and displays the **Print** tab with a print preview.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ To select a cell or a range of cells, use the  **Select** method. To make a sing
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

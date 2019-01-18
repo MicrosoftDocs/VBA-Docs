@@ -53,3 +53,4 @@ ActiveCell.SparklineGroups.Item(1).ModifySourceData "B1:D4"
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

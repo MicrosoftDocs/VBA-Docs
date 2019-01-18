@@ -42,4 +42,4 @@ ActiveDocument.Pages(1).RulerGuides _
  .Item(1).Position = InchesToPoints(3)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

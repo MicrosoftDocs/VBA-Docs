@@ -40,3 +40,4 @@ If ActiveDocument.ActiveWindow.Panes.Count >= 2 Then _
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

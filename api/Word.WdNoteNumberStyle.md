@@ -47,3 +47,4 @@ Specifies the number style to apply to endnotes, endnote options, footnotes, or 
 | **wdNoteNumberStyleUppercaseRoman**|1|Uppercase Roman number style.|
 | **wdNoteNumberStyleVietCardinalText**|56|Vietnamese Cardinal text style.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

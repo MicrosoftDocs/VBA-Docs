@@ -31,3 +31,4 @@ Flags passed to or returned by the  **Document.SnapSettings** property.
 | **visSnapToRulerSubdivisions**|&H1|Snap to tick marks on the ruler.|
 | **visSnapToVertices**|&H10|Snap to vertices.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

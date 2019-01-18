@@ -25,4 +25,4 @@ Clicking a  **SpinButton** changes the **Value** property of the control.
 
 Any integer is an acceptable setting for this property. The recommended range of values is from -32,767 to +32,767. The default value is 1.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

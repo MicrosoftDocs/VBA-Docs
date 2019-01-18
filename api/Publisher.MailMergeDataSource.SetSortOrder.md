@@ -48,4 +48,4 @@ ActiveDocument.MailMerge.DataSource.SetSortOrder _
  SortField2:="LastName", SortField3:="FirstName"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,3 +55,4 @@ The  **DateFormat** property can be one of the following **[PjDateFormat](Projec
 |**pjDate_Www_dd**|W41/2|
 |**pjDate_Www_dd_yy_hh_mmAM**|W41/2/02 12:33 PM|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

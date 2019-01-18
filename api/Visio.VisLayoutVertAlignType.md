@@ -26,3 +26,4 @@ Specifies constants that define the different ways to incrementally align a shap
 | **visLayoutVertAlignMiddle**|3|Align the middles of the shapes.|
 | **visLayoutVertAlignBottom**|4|Align the bottom edges of the shapes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [ViewFont Object](Outlook.ViewFont.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

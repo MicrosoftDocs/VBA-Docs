@@ -52,3 +52,4 @@ Next anEntry
 
 [AutoCorrect Object](Word.AutoCorrect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

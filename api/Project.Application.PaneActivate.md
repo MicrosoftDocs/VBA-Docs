@@ -25,4 +25,4 @@ Occurs when the pane is activated.
 
 nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

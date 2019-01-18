@@ -57,3 +57,4 @@ Canceling this property will revert the control to the current value of the prop
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

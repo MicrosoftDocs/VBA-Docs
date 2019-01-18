@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

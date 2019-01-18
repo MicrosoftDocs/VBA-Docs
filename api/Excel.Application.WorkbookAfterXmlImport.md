@@ -58,3 +58,4 @@ Use the  **[AfterXmlImport](Excel.Workbook.AfterXmlImport.md)** event if you wan
 [Workbook Object](Excel.Workbook.md)
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

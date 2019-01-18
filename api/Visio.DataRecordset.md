@@ -79,4 +79,4 @@ When you refresh data from a data source that has changed since the last time yo
 
  **Note**  When you save a Visio document that contains one or more data recordsets, all the data in the recordset is saved in the Visio file. For recordsets that contain a large amount of data, this can create large Visio files, which can affect performance. Consequently, you should consider filtering large data sources before importing them into Visio.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

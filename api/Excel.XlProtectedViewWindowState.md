@@ -21,3 +21,4 @@ Specifies the state of the  **Protected View** window.
 | **xlProtectedViewWindowMinimized**|1|Minimized|
 | **xlProtectedViewWindowNormal**|0|Normal|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

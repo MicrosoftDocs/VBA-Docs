@@ -41,3 +41,4 @@ The value of this property can be set to one of the following constants:
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

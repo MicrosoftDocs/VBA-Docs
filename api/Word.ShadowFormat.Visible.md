@@ -34,3 +34,4 @@ Some methods and properties may be unavailable if the  **Visible** property is *
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

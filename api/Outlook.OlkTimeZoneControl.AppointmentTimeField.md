@@ -34,3 +34,4 @@ This control does not support standard data binding.
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

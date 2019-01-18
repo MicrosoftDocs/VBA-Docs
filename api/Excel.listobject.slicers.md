@@ -37,3 +37,4 @@ A  **ListObject** is essentially a table.
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

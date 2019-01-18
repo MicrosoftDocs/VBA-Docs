@@ -25,3 +25,4 @@ Represents the page type.
 | **pbPageRightPage**|2|Right page|
 | **pbPageScratchPage**|3|Scratch page|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

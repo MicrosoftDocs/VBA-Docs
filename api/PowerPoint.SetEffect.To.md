@@ -34,3 +34,4 @@ Do not confuse this property with the  **ToX** or **ToY** properties of the **[S
 
 [SetEffect Object](PowerPoint.SetEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

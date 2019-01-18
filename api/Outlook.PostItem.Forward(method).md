@@ -34,3 +34,4 @@ A  **MailItem** object that represents the new mail item.
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

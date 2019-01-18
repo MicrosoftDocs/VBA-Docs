@@ -34,3 +34,4 @@ Returns the  **TextRange2** object of the current **Selection** object. Read-onl
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

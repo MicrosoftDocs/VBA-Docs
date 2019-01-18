@@ -46,4 +46,4 @@ However, adding a  **DocumentOpened** event to the **EventList** collection of a
 
 You can prevent code from running in response to the  **DocumentCreated** , **DocumentOpened** or **DocumentAdded** event and all events from firing by setting the value of the **EventsEnabled** property of an **Application** object to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,5 @@ Gets or sets the bit mask used for calendar exceptions of type  **pjWeekly**, in
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

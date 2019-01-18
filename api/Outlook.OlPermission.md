@@ -28,4 +28,4 @@ Indicates the permission restrictions on an  **Item**.
 
 Used by the [SharingItem.Permission Property (Outlook)](Outlook.SharingItem.Permission.md) and [MailItem.Permission Property (Outlook)](Outlook.MailItem.Permission.md) to specify the permissions that the recipients will have on the item.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

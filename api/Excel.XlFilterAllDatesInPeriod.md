@@ -24,3 +24,4 @@ Specifies how dates should be filtered in the specified period.
 | **xlFilterAllDatesInPeriodSecond**|5|Filter all dates until the specified second.|
 | **xlFilterAllDatesInPeriodYear**|0|Filter all dates for the specified year.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

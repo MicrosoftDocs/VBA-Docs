@@ -29,3 +29,4 @@ Returns the source name of the current  **ProtectedViewWindow** object. Read-onl
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

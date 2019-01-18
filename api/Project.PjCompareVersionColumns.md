@@ -21,3 +21,4 @@ Contains constants that specify how to compare views of project versions.
 |**pjCompareVersionColumnsDataOnly**|1|Show only column data.|
 |**pjCompareVersionColumnsDifferencesOnly**|2|Show only column differences.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

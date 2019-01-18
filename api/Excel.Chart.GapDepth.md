@@ -39,3 +39,4 @@ Charts("Chart1").GapDepth = 200
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

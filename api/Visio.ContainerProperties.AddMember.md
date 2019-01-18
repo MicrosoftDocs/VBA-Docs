@@ -74,4 +74,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 vsoContainerShape.ContainerProperties.AddMember vsoShape, visMemberAddExpandContainer
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

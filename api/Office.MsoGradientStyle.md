@@ -26,3 +26,4 @@ Specifies the style for a gradient fill.
 |**msoGradientMixed**|-2|Gradient is mixed.|
 |**msoGradientVertical**|2|Gradient running vertically down the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -72,4 +72,4 @@ With myDocument.Shapes(3).Nodes
 End With
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

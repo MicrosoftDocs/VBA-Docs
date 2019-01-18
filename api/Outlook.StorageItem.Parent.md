@@ -34,3 +34,4 @@ The parent of the StorageItem object is the  **[Folder](Outlook.Folder.md)** obj
 
 [StorageItem Object](Outlook.StorageItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

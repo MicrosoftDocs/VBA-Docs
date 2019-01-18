@@ -60,3 +60,4 @@ Use the  _RunType_ argument to specify the type of run you want. You can use any
 | **visParaRun**|11 |Reports runs whose boundaries are between successive paragraphs in the shape's text. Mimics triple-clicking to select text. |
 | **visFieldRun**|20 |Reports runs whose boundaries are between characters that are and are not the result of the expansion of a text field, or between characters that are the result of the expansion of distinct text fields. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

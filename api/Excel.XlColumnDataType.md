@@ -28,3 +28,4 @@ Specifies how a column is to be parsed.
 | **xlYDMFormat**|8|YDM date format.|
 | **xlYMDFormat**|5|YMD date format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

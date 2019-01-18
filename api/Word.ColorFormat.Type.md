@@ -29,3 +29,4 @@ Returns or sets the shape color type. Read-only  **MsoColorType**.
 
 [ColorFormat Object](Word.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

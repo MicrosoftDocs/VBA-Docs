@@ -29,3 +29,4 @@ Returns or sets the distance, in points, from the left edge of the object to the
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

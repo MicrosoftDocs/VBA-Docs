@@ -38,3 +38,4 @@ Saving to an Excel 2007 or later file format, when in compatibility mode, will s
 
 [PivotCache Object](Excel.PivotCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

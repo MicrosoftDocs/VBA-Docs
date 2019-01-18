@@ -27,4 +27,4 @@ _expression_ A variable that represents a 'ModelMeasures' object.
 
 [ModelMeasures Object ](Excel.modelmeasures.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

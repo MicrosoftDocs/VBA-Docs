@@ -50,3 +50,4 @@ For information about available ActiveX control class types, see [OLE Programmat
 
 [Shapes Collection Object](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

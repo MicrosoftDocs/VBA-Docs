@@ -29,3 +29,4 @@ _expression_ A variable that represents a '[FileExportConverter](Excel.FileExpor
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

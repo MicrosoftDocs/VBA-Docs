@@ -25,3 +25,4 @@ Specifies horizontal alignment type values to pass to the  **[Selection.Align](V
 | **visHorzAlignNone**|0|No horizontal alignment.|
 | **visHorzAlignRight**|3|Align to the right of the primary selected shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,3 +46,4 @@ Filters are commonly used to view a temporary subset of the records in a databas
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

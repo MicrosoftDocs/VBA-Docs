@@ -58,3 +58,4 @@ strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

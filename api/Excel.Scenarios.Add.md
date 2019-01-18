@@ -65,3 +65,4 @@ Worksheets("Sheet1").Scenarios.Add Name:="Best Case", _
 
 [Scenarios Object](Excel.Scenarios.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

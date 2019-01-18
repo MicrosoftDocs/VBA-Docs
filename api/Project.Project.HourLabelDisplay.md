@@ -30,4 +30,4 @@ The  **HourLabelDisplay** property corresponds to the **Hours** list on the **Ad
 
 Values of the  **HourLabelDisplay** property can be 0 to 2.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

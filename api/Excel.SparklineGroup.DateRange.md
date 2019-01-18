@@ -45,3 +45,4 @@ Empty cells and non-date values in the date range are not displayed.
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

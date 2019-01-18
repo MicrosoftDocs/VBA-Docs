@@ -81,4 +81,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Workbook Object](Excel.Workbook.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

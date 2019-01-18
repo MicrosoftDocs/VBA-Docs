@@ -52,4 +52,4 @@ The following example opens the "MyTemplate.xlt" template, with a data level of 
 Application.VisualReportsEdit("C:\MyTemplate.xlt", pjMonths)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

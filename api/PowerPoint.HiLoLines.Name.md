@@ -29,3 +29,4 @@ Returns the name of the object. Read-only  **String**.
 
 [HiLoLines Object](PowerPoint.HiLoLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,3 +58,4 @@ End With
 
 [ActionSetting Object](PowerPoint.ActionSetting.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

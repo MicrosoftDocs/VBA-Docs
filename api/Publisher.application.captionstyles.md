@@ -26,4 +26,4 @@ Returns a  **[CaptionStyles](Publisher.Documents.md)** collection that represent
 
  **CaptionStyles**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

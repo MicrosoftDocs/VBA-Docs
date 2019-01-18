@@ -31,4 +31,4 @@ Indicates the response to a meeting request.
 
 Used by [Recipient.MeetingResponseStatus Property (Outlook)](Outlook.Recipient.MeetingResponseStatus.md) and [AppointmentItem.ResponseStatus Property (Outlook)](Outlook.AppointmentItem.ResponseStatus.md).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

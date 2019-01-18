@@ -64,3 +64,4 @@ End Sub
 
 [OutlookBarGroups Object](Outlook.OutlookBarGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

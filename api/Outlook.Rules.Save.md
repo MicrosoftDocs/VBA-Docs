@@ -48,3 +48,4 @@ The Exchange server limits the maximum number of rules that can be supported by 
 
 [Rules Object](Outlook.Rules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,3 +37,4 @@ _expression_ A variable that represents a [NavigationControl](Access.NavigationC
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,3 +58,4 @@ Next revLoop
 
 [Revision Object](Word.Revision.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

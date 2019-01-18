@@ -34,3 +34,4 @@ This property corresponds to the  **Show Developer tab in the Ribbon** check box
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

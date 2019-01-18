@@ -61,3 +61,4 @@ MsgBox "This is a " & strFormat & " project."
 
 [CurrentProject Object](Access.CurrentProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

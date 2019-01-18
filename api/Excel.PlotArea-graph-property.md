@@ -26,4 +26,4 @@ This example sets the color of the plot area interior of  `myChart` to cyan.
 myChart.PlotArea.Interior.ColorIndex = 8
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

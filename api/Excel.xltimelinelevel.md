@@ -23,3 +23,4 @@ One of the built-in hierarchy levels that Timeline supports.
 | **xlTimelineLevelMonths**|2|Months level|
 | **xlTimelineLevelDays**|3|Days level|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

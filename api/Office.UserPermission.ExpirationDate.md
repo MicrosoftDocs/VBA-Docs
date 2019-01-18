@@ -43,3 +43,4 @@ The  **UserPermission** object associates a set of permissions on the active doc
 
 [UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

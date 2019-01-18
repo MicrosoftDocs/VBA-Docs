@@ -34,3 +34,4 @@ Returns an error if the text is an empty string.
 
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

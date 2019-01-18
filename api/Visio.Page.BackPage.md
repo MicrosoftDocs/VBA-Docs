@@ -40,4 +40,4 @@ Markup overlay pages cannot have background pages, so you cannot use the  **Back
 
  **Note**  In earlier versions of Visio (through version 4.1), the  **BackPage** property returned an object (as opposed to a **Variant** of type **Object**) and it accepted a string (as opposed to a **Variant** of type **String**). Because of changes in Automation support tools, the property has been modified so that it accepts and returns a **Variant**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

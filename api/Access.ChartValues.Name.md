@@ -25,3 +25,5 @@ _expression_ A variable that represents a **[ChartValues](Access.ChartValues.md)
 ## See also
 
 - [Chart object](Access.Chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

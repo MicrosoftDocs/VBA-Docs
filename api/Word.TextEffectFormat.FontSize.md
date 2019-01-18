@@ -42,3 +42,4 @@ docActive.Shapes("WordArt 2").TextEffect.FontSize = 16
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

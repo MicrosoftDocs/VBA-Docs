@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathHorizAlignType](Word.WdOMathHorizAlignType.md)** co
 
 [OMathMatCol Object](Word.OMathMatCol.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

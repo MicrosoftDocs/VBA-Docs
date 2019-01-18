@@ -34,3 +34,4 @@ Multiple recipients are evaluated using the logical OR operation.
 
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

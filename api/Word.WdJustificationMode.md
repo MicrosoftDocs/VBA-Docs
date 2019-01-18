@@ -21,3 +21,4 @@ Specifies the character spacing adjustment for a document.
 | **wdJustificationModeCompressKana**|2|Compress, using rules of the kana syllabaries, Hiragana and Katakana.|
 | **wdJustificationModeExpand**|0|Expand.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

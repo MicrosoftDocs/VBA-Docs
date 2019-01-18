@@ -21,3 +21,4 @@ Specifies the character inserted after the number for a numbered list item.
 | **wdTrailingSpace**|1|A space is inserted. Default.|
 | **wdTrailingTab**|0|A tab is inserted.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

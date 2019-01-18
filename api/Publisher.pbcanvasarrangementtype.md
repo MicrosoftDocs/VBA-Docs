@@ -19,3 +19,4 @@ Constants passed to and returned by the  ** [Shapes.CanvasArrangementType](Publi
 | **pbCanvasArrangementTypeOneCanvas**|0|Canvas arranged as a single unit.|
 | **pbCanvasArrangementTypeRowsCanvas**|2|Canvas arranged into rows.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

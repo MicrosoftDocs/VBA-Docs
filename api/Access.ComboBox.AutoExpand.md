@@ -36,3 +36,4 @@ When the  **[LimitToList](Access.ComboBox.LimitToList.md)** property is set to *
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

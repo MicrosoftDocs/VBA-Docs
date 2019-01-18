@@ -23,3 +23,4 @@ Specifies the type of section break for the specified item.
 | **wdSectionNewPage**|2|New page section break.|
 | **wdSectionOddPage**|4|Odd pages section break.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

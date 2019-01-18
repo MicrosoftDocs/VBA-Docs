@@ -71,3 +71,4 @@ End Sub
 
 [NavigationPane Object](Outlook.NavigationPane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

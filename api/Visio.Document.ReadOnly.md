@@ -28,4 +28,4 @@ Indicates whether a file is open as read-only. Read-only.
 
 Integer
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -117,3 +117,4 @@ End Sub
 |[TextRange](./Publisher.TextFrame.TextRange.md)|
 |[VerticalTextAlignment](./Publisher.TextFrame.VerticalTextAlignment.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

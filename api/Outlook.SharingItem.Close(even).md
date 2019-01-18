@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.SharingItem.Close(method).md)** method to fire
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

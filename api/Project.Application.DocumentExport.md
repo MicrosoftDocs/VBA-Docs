@@ -59,4 +59,4 @@ If the active project shows a Network Diagram view, the following example create
 DocumentExport FileName:="TestProject.xps", FileType:=pjXPS
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

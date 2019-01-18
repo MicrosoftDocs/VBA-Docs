@@ -61,3 +61,4 @@ Charts("Chart1").SeriesCollection.Extend _
 
 [SeriesCollection Object](./Excel.SeriesCollection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

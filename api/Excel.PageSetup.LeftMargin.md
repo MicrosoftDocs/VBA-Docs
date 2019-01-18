@@ -66,3 +66,4 @@ MsgBox "The current left margin is " & marginInches & " inches"
 
 [PageSetup Object](Excel.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

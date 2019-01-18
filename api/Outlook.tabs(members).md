@@ -33,5 +33,4 @@ Represents all the  [Tab Object (Outlook Forms Script)](Outlook.tab.md) controls
 |:-----|:-----|
 | [Count](Outlook.tabs.count.md)|Returns a  **Long** that represents the number of objects in a collection. Read-only.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

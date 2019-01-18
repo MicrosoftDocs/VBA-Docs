@@ -29,3 +29,4 @@ Deletes the specified add-in.
 
 [AddIn Object](Word.AddIn.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

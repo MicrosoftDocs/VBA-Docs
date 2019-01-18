@@ -31,4 +31,4 @@ Returns the  **DataRecordsets** collection contained in the document. Read-only.
 
 DataRecordsets
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

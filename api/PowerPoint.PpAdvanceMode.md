@@ -21,3 +21,4 @@ Specifies how the specified animation advances.
 |**ppAdvanceOnClick**|1|Only when clicked.|
 |**ppAdvanceOnTime**|2|Automatically after a specified amount of time.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

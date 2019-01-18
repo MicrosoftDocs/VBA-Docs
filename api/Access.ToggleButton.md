@@ -205,3 +205,5 @@ You can also use a toggle button in a custom dialog box to accept user input.
 
 [Access Object Model Reference](overview/Access/object-model.md)<br/>
 [ToggleButton Object Members](overview/Access.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

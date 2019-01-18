@@ -34,3 +34,4 @@ Any changes made to the  **AutoFormatRules** collection, such as adding or remov
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

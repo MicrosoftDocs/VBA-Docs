@@ -26,3 +26,4 @@ This enumeration has been deprecated and should not be used.
 | **wdPageNumberStyleBidiLetter1**|49|Not supported.|
 | **wdPageNumberStyleBidiLetter2**|50|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

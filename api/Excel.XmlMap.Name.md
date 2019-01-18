@@ -34,3 +34,4 @@ The string specified for the  **Name** property must be unique within the workbo
 
 [XmlMap Object](Excel.XmlMap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

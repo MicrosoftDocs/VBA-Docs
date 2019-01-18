@@ -34,3 +34,4 @@ If  **MsoTriState** is set to msoTrue, the text remains horizontal.
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

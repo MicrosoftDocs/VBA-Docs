@@ -34,3 +34,4 @@ The number of criteria is equivalent to the number of threshold values assigned 
 
 [IconCriteria Collection](Excel.IconCriteria.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

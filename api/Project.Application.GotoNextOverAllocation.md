@@ -28,4 +28,4 @@ Scrolls a timescale view to display the next overallocated resource.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

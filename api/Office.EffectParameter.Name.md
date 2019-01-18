@@ -23,3 +23,5 @@ _expression_ An expression that returns an **[EffectParameter](Office.EffectPara
 ## See also
 
 - [EffectParameter object members](overview/library-reference/effectparameter-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

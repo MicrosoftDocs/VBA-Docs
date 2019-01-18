@@ -60,3 +60,4 @@ Adds a chart to the document. Returns a [Shape](Word.Shape.md) object that repre
 
 [Shapes Collection](Word.shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

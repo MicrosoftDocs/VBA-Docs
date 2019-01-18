@@ -44,3 +44,4 @@ ActiveDocument.Styles("Normal").ParagraphFormat.Hyphenation = False
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

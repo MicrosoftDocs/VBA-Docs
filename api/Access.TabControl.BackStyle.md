@@ -47,3 +47,4 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 
 [TabControl Object](Access.TabControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

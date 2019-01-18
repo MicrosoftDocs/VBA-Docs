@@ -36,3 +36,4 @@ When this property is set to  **True** , multiple filters can be applied to sing
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

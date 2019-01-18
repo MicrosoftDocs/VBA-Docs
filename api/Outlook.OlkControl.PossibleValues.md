@@ -34,3 +34,4 @@ For controls that do not support a drop-down list, the value of this property is
 
 [OlkControl Class](Outlook.olkcontrol.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

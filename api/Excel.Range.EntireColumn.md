@@ -39,3 +39,4 @@ ActiveCell.EntireColumn.Cells(1, 1).Value = 5
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

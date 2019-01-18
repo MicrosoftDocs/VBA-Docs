@@ -25,3 +25,5 @@ Gets or sets the finish date of an exception. Read/write  **Variant**.
 
 
 [Exception Object](Project.Exception.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

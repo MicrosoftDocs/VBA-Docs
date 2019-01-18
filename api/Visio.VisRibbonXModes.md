@@ -25,3 +25,4 @@ Specifies constants that identify the various modes in which to display the cust
 | **visRXModeStencil**|2|Display the custom UI in Stencil mode.|
 | **visRXModePrintPreview**|4|Display the custom UI in Print Preview mode.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

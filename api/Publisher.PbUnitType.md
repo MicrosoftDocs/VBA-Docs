@@ -32,3 +32,4 @@ Represents the standard measurement unit for Microsoft Publisher.
 | **pbUnitPoint**|3|Sets the unit of measurement to points.|
 | **pbUnitTwip**|5|Sets the unit of measurement to twip.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

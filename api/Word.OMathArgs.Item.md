@@ -39,3 +39,4 @@ OMath
 
 [OMathArgs Collection](Word.OMathArgs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

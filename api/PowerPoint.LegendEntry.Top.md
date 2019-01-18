@@ -26,3 +26,4 @@ Returns the distance, in points, from the top edge of the object to the top of t
 
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

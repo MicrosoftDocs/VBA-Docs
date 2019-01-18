@@ -30,4 +30,4 @@ This example quits Microsoft Graph.
 myChart.Application.Quit
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

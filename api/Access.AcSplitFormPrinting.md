@@ -23,3 +23,4 @@ Used with the [SplitFormPrinting](Access.Form.SplitFormPrinting.md) property to 
 |**acFormOnly**|0|The contents of the form are printed.|
 |**acGridOnly**|1|The contents of the datasheet are printed. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

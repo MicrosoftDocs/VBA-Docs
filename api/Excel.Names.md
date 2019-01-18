@@ -123,5 +123,4 @@ Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .N
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

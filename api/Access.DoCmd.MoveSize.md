@@ -59,3 +59,4 @@ DoCmd.MoveSize 1440, 2400, , 2000
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

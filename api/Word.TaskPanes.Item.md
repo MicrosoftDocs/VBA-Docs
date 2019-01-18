@@ -42,3 +42,4 @@ TaskPane
 
 [TaskPanes Collection](Word.TaskPanes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

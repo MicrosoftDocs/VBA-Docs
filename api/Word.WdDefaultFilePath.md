@@ -35,3 +35,4 @@ Specifies a default folder for files related to Microsoft Word.
 | **wdUserTemplatesPath**|2|User templates path.|
 | **wdWorkgroupTemplatesPath**|3|Workgroup templates path.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

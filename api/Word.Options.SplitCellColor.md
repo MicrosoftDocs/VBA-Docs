@@ -34,3 +34,4 @@ This property applies only to documents upon which you have run the  **[CompareD
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,3 +58,4 @@ DoCmd.TransferSpreadsheet acImport, 3, _
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

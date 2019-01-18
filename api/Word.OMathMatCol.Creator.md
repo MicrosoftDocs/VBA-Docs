@@ -37,3 +37,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OMathMatCol Object](Word.OMathMatCol.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

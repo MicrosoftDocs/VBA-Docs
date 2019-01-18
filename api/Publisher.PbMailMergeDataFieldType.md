@@ -23,3 +23,4 @@ Represents the type of data contained in the data field.
 | **pbMailMergeDataFieldPicture**|1|Contains a picture.|
 | **pbMailMergeDataFieldString**|0|Contains a string.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

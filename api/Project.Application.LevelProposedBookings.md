@@ -27,4 +27,4 @@ When the booking type is proposed, the resource is not yet assigned to the proje
 
 The  **[LevelingOptions](Project.Application.LevelingOptions.md)** method includes a LevelProposedBookings parameter.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

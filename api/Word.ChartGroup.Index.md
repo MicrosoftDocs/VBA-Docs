@@ -29,3 +29,4 @@ Returns the index number of the object within the collection of similar objects.
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

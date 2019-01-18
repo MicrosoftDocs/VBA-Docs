@@ -35,4 +35,4 @@ _expression_ A variable that represents a 'CategoryCollection' object.
 
  **CHARTCATEGORY**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

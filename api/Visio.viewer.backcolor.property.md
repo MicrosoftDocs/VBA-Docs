@@ -42,4 +42,4 @@ The following code sets the value of the  **BackColor** property to the default 
  vsoViewer.BackColor = &H8000000F
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

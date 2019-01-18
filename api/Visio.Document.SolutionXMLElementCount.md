@@ -35,4 +35,4 @@ The first element in the document has an index of 1.
 
 The number of SolutionXML elements you can add to a document is limited only by the amount of available computer memory.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

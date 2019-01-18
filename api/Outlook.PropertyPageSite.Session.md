@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [PropertyPageSite Object](Outlook.PropertyPageSite.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

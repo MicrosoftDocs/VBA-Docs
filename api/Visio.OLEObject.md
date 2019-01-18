@@ -23,4 +23,4 @@ The default property of  **OLEObject** is **Object**.
 
 To obtain the  **IDispatch** interface on an ActiveX control or embedded or linked OLE 2.0 object represented by a shape, use the **Object** property of an **OLEObject** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

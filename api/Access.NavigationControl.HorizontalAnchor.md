@@ -34,3 +34,4 @@ The default value is  **acHorizontalAnchorLeft**.
 
 [NavigationControl Object](Access.NavigationControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

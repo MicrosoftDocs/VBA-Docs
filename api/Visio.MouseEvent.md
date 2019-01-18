@@ -29,4 +29,4 @@ where  _event code_ returns the code of the event that fired (**MouseDown** , **
 
 Use the  **Application** property of the **MouseEvent** object to determine the Microsoft Visio instance hosting the object, and use the **Window** property to determine the Visio window associated with a mouse event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

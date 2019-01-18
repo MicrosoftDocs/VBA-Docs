@@ -34,3 +34,4 @@ The default value is  **olBorderStyleSingle**.
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,4 +50,4 @@ MsgBox "The name of the active sheet is " & ActiveSheet.Name
 
 [Window.ActiveSheet Property](excel.window.activesheet.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

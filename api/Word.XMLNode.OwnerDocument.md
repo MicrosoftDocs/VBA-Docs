@@ -41,3 +41,4 @@ Set objDoc = Selection.XMLNodes(1).OwnerDocument
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

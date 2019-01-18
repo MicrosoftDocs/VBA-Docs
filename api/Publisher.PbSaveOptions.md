@@ -24,3 +24,4 @@ Specifies what Microsoft Publisher should do if there is already an open publica
 | **pbPromptToSaveChanges**|1|Default. Prompt the user whether to save changes in the open publication.|
 | **pbSaveChanges**|2|Save the open publication before closing it.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

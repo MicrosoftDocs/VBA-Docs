@@ -23,3 +23,4 @@ Specifies the type of page displayed by a control.
 | **olPageTypePlanner**|0|The free/busy scheduling grid from a meeting request form.|
 | **olPageTypeTracker**|1|The tracking grid from a meeting request that has been sent.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

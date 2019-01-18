@@ -22,3 +22,4 @@ Contains constants that specify the placement of a symbol.
 |**pjBefore**|0|Before.|
 |**pjBeforeWithSpace**|2|Before with a space.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

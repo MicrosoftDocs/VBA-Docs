@@ -35,4 +35,4 @@ This example sets the axes to intersect at right angles. The example should be r
 myChart.RightAngleAxes = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

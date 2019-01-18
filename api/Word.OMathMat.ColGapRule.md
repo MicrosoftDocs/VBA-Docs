@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** constant
 
 [OMathMat Object](Word.OMathMat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

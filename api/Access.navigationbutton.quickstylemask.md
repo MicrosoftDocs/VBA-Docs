@@ -31,4 +31,4 @@ Set the  **QuickStyleMask** property to -1 to remove modifications to the select
 
  **INT32**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

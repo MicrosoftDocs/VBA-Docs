@@ -54,3 +54,4 @@ End If
 
 [Border Object](Word.Border.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

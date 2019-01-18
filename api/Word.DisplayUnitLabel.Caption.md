@@ -29,3 +29,4 @@ Returns or sets the display unit label text. Read/write  **String**.
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

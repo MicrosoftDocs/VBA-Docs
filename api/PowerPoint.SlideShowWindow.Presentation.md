@@ -53,3 +53,4 @@ Windows(2).Presentation.PageSetup _
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,3 +53,4 @@ End Sub
 
 [MailMerge Object](Word.MailMerge.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

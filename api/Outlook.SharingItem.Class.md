@@ -34,3 +34,4 @@ This property always returns  **olSharing** for the **[SharingItem](Outlook.Shar
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

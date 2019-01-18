@@ -25,4 +25,4 @@ The original content remains on the object.
 
 The actual content that is copied depends on the object. Using  **Copy** for a form, **[Frame](Outlook.frame.md)**, or  **[Page](Outlook.page.md)** copies the currently active control.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

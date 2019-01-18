@@ -43,3 +43,4 @@ Returns the collection of all the series in the specified chart, or the specifie
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

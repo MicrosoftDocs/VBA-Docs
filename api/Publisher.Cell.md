@@ -86,3 +86,4 @@ End Sub
 |[VerticalTextAlignment](./Publisher.Cell.VerticalTextAlignment.md)|
 |[Width](./Publisher.Cell.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

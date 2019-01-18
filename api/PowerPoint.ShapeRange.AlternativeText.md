@@ -44,3 +44,4 @@ ActiveWindow.Selection.ShapeRange.AlternativeText = "This is a mallard duck."
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

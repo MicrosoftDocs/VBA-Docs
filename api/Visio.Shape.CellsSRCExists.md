@@ -57,4 +57,4 @@ The  _fExistsLocally_ argument specifies the scope of the search:
 
 To search for a cell by name, use the  **CellExists** or **CellExistsU** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ _expression_ A variable that represents a **[CommandBarComboBox](Office.CommandB
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

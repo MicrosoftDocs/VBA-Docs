@@ -34,3 +34,4 @@ The  **[TickLabelSpacing](Excel.Axis.TickLabelSpacing.md)** property returns the
 
 [Axis Object](Excel.Axis(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ PpMediaTaskStatus
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

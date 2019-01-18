@@ -29,3 +29,4 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 [HiLoLines Object](Word.HiLoLines.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -170,3 +170,4 @@ The following abbreviated unit prefixes can be prepended to any metric from_unit
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

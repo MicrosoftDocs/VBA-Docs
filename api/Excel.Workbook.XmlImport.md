@@ -72,3 +72,4 @@ Use the  **[XmlImportXml](Excel.Workbook.XmlImportXml.md)** method of the **[Wor
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

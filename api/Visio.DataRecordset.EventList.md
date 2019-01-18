@@ -36,4 +36,4 @@ EventList
 
 Once you retrieve the  **EventList** collection, to receive a notification when one of the events in that collection fires, you can pass the ID of the **[Event](Visio.Event.md)** object that represents that event to the **[EventList.AddAdvise ](Visio.EventList.AddAdvise.md)** method as its EventCode parameter.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

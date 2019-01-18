@@ -28,4 +28,4 @@ Gets the table type for the specified table. Read-only  **PjItemType**.
 
 The  **TableType** property can be one of the following **[PjItemType](Project.PjItemType.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

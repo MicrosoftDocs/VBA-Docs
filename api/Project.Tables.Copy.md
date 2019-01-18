@@ -42,3 +42,5 @@ Makes a copy of a group definition for the  **Tables** collection and returns a 
 
 
 [Tables Collection Object](Project.tables.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

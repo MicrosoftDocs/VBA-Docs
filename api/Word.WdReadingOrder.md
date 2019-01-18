@@ -20,3 +20,4 @@ Specifies the text flow and reading order of the document.
 | **wdReadingOrderLtr**|1|Left-to-right reading order.|
 | **wdReadingOrderRtl**|0|Right-to-left reading order.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Displays the  **Convert** dialog box, which prompts the user to convert the acti
 
 The  **ObjectConvert** method is equivalent to the **Convert** command. For an example of how to use the **Convert** command, see the **[ObjectChangeIcon](Project.Application.ObjectChangeIcon.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ If the selected parent hierarchy does not have an "All" parent member, another d
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

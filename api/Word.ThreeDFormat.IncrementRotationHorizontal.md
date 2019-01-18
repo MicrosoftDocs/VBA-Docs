@@ -37,3 +37,4 @@ Horizontally rotates a shape on the x-axis using the specified incrementation va
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

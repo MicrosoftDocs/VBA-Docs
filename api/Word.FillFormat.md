@@ -86,3 +86,5 @@ Many of the properties of the  **FillFormat** object are read-only. To set one o
 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

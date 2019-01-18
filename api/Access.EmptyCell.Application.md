@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [EmptyCell Object](Access.EmptyCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AutoRecover](Excel.AutoRecover.md) o
 
 [AutoRecover Object](Excel.AutoRecover.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

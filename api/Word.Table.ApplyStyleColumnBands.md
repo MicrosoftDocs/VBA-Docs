@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether to apply style bands to t
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

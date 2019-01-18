@@ -44,4 +44,4 @@ MenuSet
 
 The ID corresponds to a window or context menu. Constants for IDs are prefixed with  **visUIObjectSet** and are declared by the Visio type library in **[VisUIObjSets](Visio.visuiobjsets.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

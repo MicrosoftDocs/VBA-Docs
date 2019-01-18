@@ -84,3 +84,4 @@ myDocument.Shapes.AddCurve SafeArrayOfPoints:=pts
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

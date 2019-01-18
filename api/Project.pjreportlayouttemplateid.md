@@ -38,3 +38,5 @@ The  _TemplateId_ parameter in the **[Application.ApplyReportLayoutTemplate](Pro
 
 
 [Application.ApplyReportLayoutTemplate](Project.application.applyreportlayouttemplate.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -79,3 +79,5 @@ End Sub
 
 [Shape Object](Project.shape.md)
 [TextFrame2](https://msdn.microsoft.com/library/office/ff822136%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

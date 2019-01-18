@@ -53,3 +53,4 @@ Worksheets(1).ChartObjects(1).Chart _
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

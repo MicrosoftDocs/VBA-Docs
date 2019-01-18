@@ -32,3 +32,5 @@ The return value will be an **[MsoDocProperties](office.msodocproperties.md)** c
 ## See also
 
 - [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

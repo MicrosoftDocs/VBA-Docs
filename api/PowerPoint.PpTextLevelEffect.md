@@ -26,3 +26,4 @@ Constants that specify the paragraph level by which text effects are animated, p
 |**ppAnimateLevelMixed**|-2|Mixed level|
 |**ppAnimateLevelNone**|0|No level|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

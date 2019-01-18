@@ -53,3 +53,4 @@ End If
 
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

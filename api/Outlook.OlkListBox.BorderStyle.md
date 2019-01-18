@@ -34,3 +34,4 @@ The default value is  **olBorderStyleSingle**.
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

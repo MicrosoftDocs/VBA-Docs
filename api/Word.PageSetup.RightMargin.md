@@ -56,3 +56,4 @@ Selection.Sections(2).PageSetup.RightMargin = InchesToPoints(1)
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

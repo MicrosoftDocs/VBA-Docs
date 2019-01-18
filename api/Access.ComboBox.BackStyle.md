@@ -47,3 +47,4 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

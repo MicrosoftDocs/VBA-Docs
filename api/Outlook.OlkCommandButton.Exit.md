@@ -37,3 +37,4 @@ _expression_ A variable that represents an [OlkCommandButton](./Outlook.OlkComma
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

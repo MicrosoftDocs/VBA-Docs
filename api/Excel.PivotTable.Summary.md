@@ -28,4 +28,4 @@ _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' ob
 
 The value of the  **Summary** property corresponds to the value in the **Description** box on the **Alt Text** tab of the **PivotTable Options** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,3 +55,4 @@ aRange.MoveWhile Cset:="atiATI", Count:=wdForward
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

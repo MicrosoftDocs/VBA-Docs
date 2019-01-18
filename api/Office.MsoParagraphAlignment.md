@@ -26,3 +26,4 @@ Specifies paragraph alignment for a text block.
 |**msoAlignRight**|2|Specifies that the rightmost character of each line is aligned to the right margin, and the left edge of each line is ragged. This is the default alignment for paragraphs with right-to-left text direction.|
 |**msoAlignThaiDistribute**|5|Specifies that the first and last characters of each line (except the last) are aligned to the left and right margins, and lines are filled by adding or subtracting space between (but not within) words. The last line of the paragraph is aligned to the left margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

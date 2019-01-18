@@ -48,3 +48,5 @@ Adds an  **Exception** object to an **Exceptions** collection.
 
 
 [Exceptions Collection Object](Project.exceptions.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the width of the Word art text effects, in points. Read/write  *
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

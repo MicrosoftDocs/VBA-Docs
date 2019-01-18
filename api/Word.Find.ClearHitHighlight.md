@@ -39,3 +39,4 @@ Use the  **[HitHighlight](Word.Find.HitHighlight.md)** method to highlight found
 
 [Find Object](Word.Find.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

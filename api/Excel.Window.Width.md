@@ -34,3 +34,4 @@ Use the  **[UsableWidth](Excel.Window.UsableWidth.md)** property to determine th
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

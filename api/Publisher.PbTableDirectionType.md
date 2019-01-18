@@ -23,3 +23,4 @@ Represents whether text in a table is read from left to right or from right to l
 | **pbTableDirectionLeftToRight**|1|Left to Right|
 | **pbTableDirectionRightToLeft**|2|Right to Left|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

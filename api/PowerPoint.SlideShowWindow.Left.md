@@ -29,3 +29,4 @@ Returns or sets a  **Single** that represents the distance in points from the le
 
 [SlideShowWindow Object](PowerPoint.SlideShowWindow.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

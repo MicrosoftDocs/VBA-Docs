@@ -36,3 +36,4 @@ If you don't set a caption for a form, button, or label, Microsoft Access will a
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

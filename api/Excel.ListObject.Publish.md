@@ -60,3 +60,4 @@ If the  **ListObject** object is not currently linked to a list on a SharePoint 
 
 [ListObject Object](Excel.ListObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

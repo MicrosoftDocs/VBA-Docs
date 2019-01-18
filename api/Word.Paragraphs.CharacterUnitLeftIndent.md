@@ -40,3 +40,4 @@ ActiveDocument.Paragraphs(1) _
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **[GlowFormat](Publisher.glowformat.md)** object that represents the 
 
  [ShapeRange Object](Publisher.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

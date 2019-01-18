@@ -40,3 +40,4 @@ cf.DropDownLines = cf.ListCount
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

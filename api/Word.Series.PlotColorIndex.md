@@ -39,3 +39,4 @@ This property is used internally by Excel and is not intended to be called from 
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

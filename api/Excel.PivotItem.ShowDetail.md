@@ -47,3 +47,4 @@ If the specified range is in a PivotTable report, it's possible to set this prop
 
 [PivotItem Object](Excel.PivotItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

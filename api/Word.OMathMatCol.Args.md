@@ -29,3 +29,4 @@ Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the argume
 
 [OMathMatCol Object](Word.OMathMatCol.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

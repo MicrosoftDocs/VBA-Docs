@@ -34,3 +34,4 @@ Corresponds to the  **Pasting within the same document** option in the **Advance
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

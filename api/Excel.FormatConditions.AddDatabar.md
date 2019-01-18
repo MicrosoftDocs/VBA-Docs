@@ -39,3 +39,4 @@ Data bars help you see the value of a cell relative to other cells. The length o
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

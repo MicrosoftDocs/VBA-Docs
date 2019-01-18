@@ -23,3 +23,4 @@ Constants passed to and returned by the  **Window.ShowScrollBars** property.
 | **visScrollBarNeither**|&H0|Show neither scrollbar.|
 | **visScrollBarVert**|&H4|Show the vertical scrollbar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

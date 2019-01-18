@@ -37,3 +37,4 @@ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md)
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

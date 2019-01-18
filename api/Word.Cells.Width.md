@@ -41,3 +41,4 @@ End If
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

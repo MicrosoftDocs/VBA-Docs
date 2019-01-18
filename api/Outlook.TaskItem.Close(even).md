@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.TaskItem.Close(method).md)** method to fire th
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

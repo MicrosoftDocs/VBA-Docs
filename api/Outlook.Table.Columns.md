@@ -38,3 +38,4 @@ To add  **[Column](Outlook.Column.md)** objects to the **Columns** collection of
 
 [Table Object](Outlook.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

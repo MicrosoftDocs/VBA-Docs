@@ -41,3 +41,4 @@ Changing the value of this property for a  **NavigationModule** object changes t
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

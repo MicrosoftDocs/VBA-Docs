@@ -25,4 +25,4 @@ When you add or remove a member shape from a container, Microsoft Visio fires a 
 
 When you add or remove a callout relationship from a document, Microsoft Visio fires a  **CalloutRelationshipAdded** or **CalloutRelationshipDeleted** event respectively, and in each case, returns a **RelatedShapePairEvent** object that encapsulates information about the event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

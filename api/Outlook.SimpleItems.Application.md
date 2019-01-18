@@ -29,3 +29,4 @@ _expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md
 
 [SimpleItems Object](Outlook.SimpleItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,3 +23,4 @@ Identifies the type of Electronic Business Card (EBC) format associated with a  
 | **olBusinessCardTypeInterConnect**|1|Indicates that the  **ContactItem** uses the Microsoft Office InterConnect format for the associated Electronic Business Card.|
 | **olBusinessCardTypeOutlook**|0|Indicates that the  **ContactItem** object uses the Microsoft Outlook format for the associated Electronic Business Card.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

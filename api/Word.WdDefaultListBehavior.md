@@ -21,3 +21,4 @@ Specifies the default list behavior for a list.
 | **wdWord8ListBehavior**|0|Use formatting compatible with Microsoft Word 97.|
 | **wdWord9ListBehavior**|1|Use Web-oriented formatting as introduced in Microsoft Word 2000. |
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

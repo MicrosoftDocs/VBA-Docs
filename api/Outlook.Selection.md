@@ -59,3 +59,5 @@ Set mySelectedItems = myExplorer.Selection
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Selection Object Members](./overview/Outlook.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

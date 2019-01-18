@@ -47,3 +47,4 @@ Charts(2).ChartArea.Fill.UserTextured "brick.gif"
 
 [FillFormat Object](Excel.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Displays the  **More Tables** dialog box, which prompts the user to manage table
 
 The  **Tables** method has the same effect as the **More Tables** command on the **Tables** drop-down menu on the **View** tab of the Ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

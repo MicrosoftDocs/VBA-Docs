@@ -46,3 +46,4 @@ Worksheets("Sheet1").Columns("C").Hidden = True
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

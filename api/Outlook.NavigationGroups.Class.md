@@ -34,3 +34,4 @@ This property returns  **olNavigationGroups** for the **[NavigationGroups](Outlo
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,3 +20,4 @@ Specifies the selection behavior based on visual cursor movement in a right-to-l
 | **wdVisualSelectionBlock**|0|All selected lines are the same width.|
 | **wdVisualSelectionContinuous**|1|The selection wraps from line to line.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

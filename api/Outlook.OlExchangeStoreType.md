@@ -30,4 +30,4 @@ Specifies the type of Exchange store.
 
 Used by the [ExchangeStoreType](Outlook.Store.ExchangeStoreType.md) property of the [Store](Outlook.Store.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

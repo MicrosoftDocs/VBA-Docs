@@ -47,3 +47,4 @@ The  **[Name](Outlook.NavigationModule.Name.md)** property is the default proper
 
 [NavigationModules Object](Outlook.NavigationModules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

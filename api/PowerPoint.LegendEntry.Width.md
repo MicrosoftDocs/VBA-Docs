@@ -26,3 +26,4 @@ Returns the width, in points, of the object. Read-only  **Double**.
 
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

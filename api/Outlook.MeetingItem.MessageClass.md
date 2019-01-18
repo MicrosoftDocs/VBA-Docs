@@ -39,3 +39,4 @@ This property corresponds to the MAPI property  **PidTagMessageClass**. The **Me
 
 [Item Types and Message Classes](../outlook/Concepts/Forms/item-types-and-message-classes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

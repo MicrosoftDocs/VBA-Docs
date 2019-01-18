@@ -34,3 +34,4 @@ The  **Format** function uses different format code strings than do the **[Numbe
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [Panes Object](Excel.Panes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

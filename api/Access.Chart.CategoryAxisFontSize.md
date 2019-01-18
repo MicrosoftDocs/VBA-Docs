@@ -21,3 +21,4 @@ _expression_.**CategoryAxisFontSize**
 
 _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

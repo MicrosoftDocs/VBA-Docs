@@ -39,3 +39,4 @@ You can use the object's name in conjunction with the  **Item** method to return
 
 [Application Object](PowerPoint.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

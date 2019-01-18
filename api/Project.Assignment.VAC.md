@@ -25,4 +25,4 @@ Gets the VAC (Variance At Completion) cost for the assignment. Read-only  **Vari
 
 The VAC shows the difference between the baseline cost (the BAC or Budgeted At Completion) and the EAC (Estimated At Completion).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

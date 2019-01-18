@@ -46,3 +46,4 @@ You can use the Column property to return data from a specified row and column, 
 
 [ComboBox Object](Access.ComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

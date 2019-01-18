@@ -28,4 +28,4 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  **[Application](Visio.Application.md)**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

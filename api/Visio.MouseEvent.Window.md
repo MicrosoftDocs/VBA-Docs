@@ -33,4 +33,4 @@ Window
 
 For the  **KeyboardEvent** object, the **Window** property returns the window associated with the event represented by the object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

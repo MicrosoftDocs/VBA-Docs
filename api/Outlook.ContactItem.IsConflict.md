@@ -36,3 +36,4 @@ If  **True** , the specified item is in conflict.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

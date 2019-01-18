@@ -28,4 +28,4 @@ localization_priority: Normal
 
 Due to changes in the Project object model, the  **ShowWelcome** property no longer has an effect. It has been retained for backward compatibility.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

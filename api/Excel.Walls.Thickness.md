@@ -34,3 +34,4 @@ Use this property to set the thickness of the wall. The default thickness is 0.
 
 [Walls Object](Excel.Walls(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

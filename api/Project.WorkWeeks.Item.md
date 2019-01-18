@@ -33,3 +33,5 @@ Gets a single  **WorkWeek** object from the **WorkWeeks** collection. Read-only 
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

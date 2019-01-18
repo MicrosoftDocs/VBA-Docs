@@ -44,3 +44,5 @@ End Sub
 ## See also
 
 - [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

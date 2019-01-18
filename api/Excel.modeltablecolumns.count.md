@@ -33,3 +33,4 @@ _expression_ A variable that represents a [ModelTableColumns object (Excel)](Exc
 
 [ModelTableColumns Object](Excel.modeltablecolumns.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

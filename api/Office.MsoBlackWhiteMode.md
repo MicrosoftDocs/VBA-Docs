@@ -29,3 +29,4 @@ Specifies how a shape appears when viewed in black-and-white mode.
 |**msoBlackWhiteMixed**|-2|Not supported.|
 |**msoBlackWhiteWhite**|9|White.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

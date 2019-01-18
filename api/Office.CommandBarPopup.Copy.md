@@ -39,3 +39,5 @@ CommandBarControl
 ## See also
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

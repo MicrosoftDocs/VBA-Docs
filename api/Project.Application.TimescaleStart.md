@@ -35,4 +35,4 @@ If the Gantt chart timescale starts on May 3, 2012, the following statement show
 Debug.Print TimescaleStart
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

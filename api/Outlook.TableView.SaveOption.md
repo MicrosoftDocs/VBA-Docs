@@ -120,3 +120,4 @@ End Sub
 
 [TableView Object](Outlook.tableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

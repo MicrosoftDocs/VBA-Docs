@@ -20,3 +20,4 @@ Specifies the direction in which text flows from one text column to the next.
 | **wdFlowLtr**|0|Text in columns flows from left to right.|
 | **wdFlowRtl**|1|Text in columns flows from right to left.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

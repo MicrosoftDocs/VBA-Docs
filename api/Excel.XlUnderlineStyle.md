@@ -23,3 +23,4 @@ Specifies the type of underline applied to a font.
 | **xlUnderlineStyleSingle**|2|Single underlining.|
 | **xlUnderlineStyleSingleAccounting**|4|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

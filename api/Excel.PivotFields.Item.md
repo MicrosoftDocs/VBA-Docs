@@ -59,3 +59,4 @@ Worksheets("sheet3").PivotTables(1) _
 
 [PivotFields Object](Excel.PivotFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

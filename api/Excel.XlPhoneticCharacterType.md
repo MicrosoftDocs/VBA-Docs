@@ -22,3 +22,4 @@ Specifies the type of phonetic text in a cell.
 | **xlKatakanaHalf**|0|Half-size Katakana|
 | **xlNoConversion**|3|No conversion|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

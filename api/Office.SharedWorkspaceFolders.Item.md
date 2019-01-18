@@ -44,3 +44,4 @@ _expression_. `Item`( `_Index_` )
 
 [SharedWorkspaceFolders Object Members](./overview/Library-Reference/sharedworkspacefolders-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

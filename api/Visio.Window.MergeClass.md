@@ -39,4 +39,4 @@ At present, windows of type  **visDocked** can be merged only with other windows
 
 Use the  **Type** property to determine window type.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

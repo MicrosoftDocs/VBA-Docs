@@ -67,3 +67,4 @@ Next
 
 [TextStyleLevels Object](PowerPoint.TextStyleLevels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

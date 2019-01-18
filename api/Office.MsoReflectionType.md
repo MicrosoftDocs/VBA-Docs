@@ -29,3 +29,4 @@ Specifies the type of the  **ReflectionFormat** object.
 |**msoReflectionTypeMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoReflectionTypeNone**|0|No reflection type.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

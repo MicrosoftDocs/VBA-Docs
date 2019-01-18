@@ -48,3 +48,4 @@ ActiveDocument.Tables(1).Cell(1, 1).Split NumColumns:=2
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

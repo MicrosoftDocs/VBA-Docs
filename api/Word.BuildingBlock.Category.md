@@ -29,3 +29,4 @@ Returns a  **[Category](Word.Category.md)** object that represents the category 
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

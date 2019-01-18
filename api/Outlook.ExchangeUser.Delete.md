@@ -34,3 +34,4 @@ The  **ExchangeUser** object is derived from the **[AddressEntry](Outlook.Addres
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

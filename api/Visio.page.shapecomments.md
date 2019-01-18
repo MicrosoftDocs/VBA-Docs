@@ -29,3 +29,4 @@ Returns a [Comments](Visio.comments.md) object that represents the collection of
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents the positioning of n-ary limits i
 
 [OMathNary Object](Word.OMathNary.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

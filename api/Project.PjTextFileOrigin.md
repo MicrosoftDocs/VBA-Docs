@@ -22,3 +22,4 @@ Contains constants that specify the character set under which a text file was cr
 |**pjTextOriginUnicode**|3|Unicode character set.|
 |**pjTextOriginWin**|0|Windows character set.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

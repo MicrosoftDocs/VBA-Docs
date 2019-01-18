@@ -23,4 +23,4 @@ Returns a  **String** that represents the value of a mail merge data field recor
 
  _expression_ A variable that represents a  **MailMergeMappedDataField** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

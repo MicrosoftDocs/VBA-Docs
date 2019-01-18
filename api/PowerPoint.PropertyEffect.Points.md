@@ -34,3 +34,4 @@ Use the  **[From](PowerPoint.PropertyEffect.From.md)** and **[To](PowerPoint.Pro
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

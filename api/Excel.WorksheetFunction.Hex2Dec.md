@@ -47,3 +47,4 @@ If number is not a valid hexadecimal number, HEX2DEC returns the #NUM! error val
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

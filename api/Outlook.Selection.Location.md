@@ -36,3 +36,4 @@ If the  **Location** property is not equal to **olViewList** , calling **GetSele
 
 [Selection Object](Outlook.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

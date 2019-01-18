@@ -67,3 +67,4 @@ End Sub
 |[Parent](Publisher.LinkFormat.Parent.md)|
 |[SourceFullName](Publisher.LinkFormat.SourceFullName.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

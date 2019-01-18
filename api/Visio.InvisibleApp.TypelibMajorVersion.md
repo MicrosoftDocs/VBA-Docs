@@ -35,4 +35,4 @@ The major and/or minor version number of the Visio type library will increase wh
 
 Small changes to the Visio type library do not affect the  **Application** object's **Version** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

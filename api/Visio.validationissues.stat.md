@@ -18,4 +18,4 @@ localization_priority: Normal
 
  _expression_ A variable that represents a [ValidationIssues](./Visio.ValidationIssues.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

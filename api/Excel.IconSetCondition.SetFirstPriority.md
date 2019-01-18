@@ -37,3 +37,4 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

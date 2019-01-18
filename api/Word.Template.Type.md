@@ -29,3 +29,4 @@ Returns the template type. Read-only  **[WdTemplateType](Word.WdTemplateType.md)
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

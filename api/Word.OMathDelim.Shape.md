@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathShapeType](Word.WdOMathShapeType.md)** constant tha
 
 [OMathDelim Object](Word.OMathDelim.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

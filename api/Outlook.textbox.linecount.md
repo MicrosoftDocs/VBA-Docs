@@ -18,4 +18,4 @@ Returns a  **Long** that specifies the number of text lines in a **[TextBox](Out
 
 _expression_ A variable that represents a  **TextBox** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

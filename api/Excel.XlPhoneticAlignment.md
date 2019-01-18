@@ -22,3 +22,4 @@ Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phon
 | **xlPhoneticAlignLeft**|1|Left aligned|
 | **xlPhoneticAlignNoControl**|0|Excel controls alignment|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ In a drawing window, the primary selected item is shown with green selection han
 
 If a  **Selection** object contains no **Shape** objects, or the primary **Shape** object is one that isn't enumerated given the **Selection** object's **IterationMode** property, the **PrimaryItem** property returns **Nothing** and raises no exception.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

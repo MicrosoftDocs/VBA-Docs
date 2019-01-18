@@ -36,3 +36,4 @@ This property affects only displayed headings. Use the  **[PrintHeadings](Excel.
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

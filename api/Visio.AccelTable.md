@@ -21,4 +21,4 @@ Represents a Microsoft Windows accelerator table.
 
 You can create one  **AccelTable** object for each Microsoft Visio window context (drawing window, stencil window, ShapeSheet window, and so on).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

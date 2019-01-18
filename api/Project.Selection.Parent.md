@@ -27,4 +27,4 @@ The parent of a  **Selection** object can be the **Application** or the hidden *
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

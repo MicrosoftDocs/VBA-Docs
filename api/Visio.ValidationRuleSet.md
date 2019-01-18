@@ -23,4 +23,4 @@ To get a particular  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object,
 
 The default property of the  **ValidationRuleSet** object is **[Name](Visio.ValidationRuleSet.Name.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

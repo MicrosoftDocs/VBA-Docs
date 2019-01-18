@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [ViewFields Object](Outlook.ViewFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

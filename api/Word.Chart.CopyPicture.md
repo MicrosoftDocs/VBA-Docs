@@ -39,3 +39,4 @@ Copies the selected object to the Clipboard as a picture.
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

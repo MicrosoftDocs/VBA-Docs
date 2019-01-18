@@ -51,4 +51,4 @@ No events are fired when using the  **EnterpriseResSubstitutionWizard** method.
 
 The  **EnterpriseResSubstitutionWizard** method does not include a parameter for specifying that resources from the enterprise resource pool should be used.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

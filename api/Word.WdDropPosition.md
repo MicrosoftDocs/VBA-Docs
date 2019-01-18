@@ -21,3 +21,4 @@ Specifies the position of a dropped capital letter.
 | **wdDropNone**|0|No dropped capital letter.|
 | **wdDropNormal**|1|Dropped capital letter begins at the left margin.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

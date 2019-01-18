@@ -34,3 +34,4 @@ The default value is  **acVerticalAnchorTop**.
 
 [CustomControl Object](Access.CustomControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

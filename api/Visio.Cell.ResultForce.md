@@ -57,4 +57,4 @@ Automation constants for representing units are declared by the Visio type libra
 
 To specify internal units, pass a zero-length string (""). Internal units are inches for distance and radians for angles. To specify implicit units, you must use the  **Formula** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

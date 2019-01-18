@@ -45,3 +45,4 @@ ActiveDocument.ActiveWindow.ActivePane.NewFrameset
 
 [Pane Object](Word.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

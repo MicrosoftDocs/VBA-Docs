@@ -26,4 +26,4 @@ This example sets the 3-D line group to use a different color for each data mark
 myChart.Line3DGroup.VaryByCategories = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

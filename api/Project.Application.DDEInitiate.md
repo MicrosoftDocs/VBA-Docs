@@ -37,4 +37,4 @@ Opens a dynamic data exchange (DDE) channel to an application.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

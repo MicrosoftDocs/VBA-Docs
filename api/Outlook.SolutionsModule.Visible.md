@@ -34,3 +34,4 @@ If there are no solutions under the  **Solutions** module, setting or getting th
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

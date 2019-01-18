@@ -25,4 +25,4 @@ Gets the character that separates the whole and fractional parts of a number. Re
 
 Project sets the  **DecimalSeparator** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

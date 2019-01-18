@@ -21,3 +21,4 @@ Specifies the way that conflicts are to be resolved whenever a shared workbook i
 | **xlOtherSessionChanges**|3|The local user's changes are always rejected.|
 | **xlUserResolution**|1|A dialog box asks the user to resolve the conflict.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

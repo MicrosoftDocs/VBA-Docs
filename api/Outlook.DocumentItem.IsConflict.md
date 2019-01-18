@@ -36,3 +36,4 @@ If  **True** , the specified item is in conflict.
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

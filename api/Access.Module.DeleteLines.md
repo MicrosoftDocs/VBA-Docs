@@ -104,3 +104,4 @@ End Sub
 
 - [DeleteLines method (VBA Add-In Object Model)](../language/reference/user-interface-help/deletelines-method-vba-add-in-object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

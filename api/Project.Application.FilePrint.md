@@ -72,4 +72,4 @@ The following command prints the active view to the default printer, and shows t
 Application.FilePrint ShowIEPrintDialog:=True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

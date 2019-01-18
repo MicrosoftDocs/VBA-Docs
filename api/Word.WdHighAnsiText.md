@@ -21,3 +21,4 @@ Specifies how Word interprets high-ANSI text.
 | **wdHighAnsiIsFarEast**|0|Word doesn't interpret any high-ANSI text as East Asian characters.|
 | **wdHighAnsiIsHighAnsi**|1|Word interprets all high-ANSI text as East Asian characters.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

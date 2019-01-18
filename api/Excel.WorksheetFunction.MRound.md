@@ -48,3 +48,4 @@ MROUND rounds up, away from zero, if the remainder of dividing number by multipl
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

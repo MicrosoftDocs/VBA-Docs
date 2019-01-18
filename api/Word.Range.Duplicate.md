@@ -34,3 +34,4 @@ By duplicating a  **Range** object, you can change the starting or ending charac
 
 [Range Object](Word.Range.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

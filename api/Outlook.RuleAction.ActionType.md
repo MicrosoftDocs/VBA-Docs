@@ -34,3 +34,4 @@ For more information on the rule actions supported for programmatic rule creatio
 
 [RuleAction Object](Outlook.RuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

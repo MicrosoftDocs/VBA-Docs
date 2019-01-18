@@ -34,3 +34,4 @@ This property corresponds to the  **Open email attachments in Reading mode** che
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

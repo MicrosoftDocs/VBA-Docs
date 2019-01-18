@@ -37,3 +37,4 @@ When  **MemberPropertyCaption** is set, the setting is remembered while toggling
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

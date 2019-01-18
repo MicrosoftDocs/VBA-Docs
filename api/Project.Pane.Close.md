@@ -60,4 +60,4 @@ ActiveWindow.BottomPane.Activate
 ActiveWindow.ActivePane.Close
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

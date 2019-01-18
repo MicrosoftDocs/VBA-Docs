@@ -29,3 +29,4 @@ Returns or sets the callout type. Read/write  **MsoCalloutType**.
 
 [CalloutFormat Object](Word.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

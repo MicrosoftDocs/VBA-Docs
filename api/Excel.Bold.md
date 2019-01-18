@@ -30,4 +30,4 @@ This example sets the font style to bold for the chart title.
 myChart.ChartTitle.Font.Bold = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

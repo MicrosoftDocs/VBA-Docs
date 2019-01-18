@@ -30,4 +30,4 @@ Headings in combo boxes appear only when the list drops down.
 
 Setting this property to  **True** displays a blank row as column headings. However, currently there is no way to specify the text for column headings.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

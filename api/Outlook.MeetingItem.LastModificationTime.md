@@ -117,3 +117,4 @@ End Sub
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

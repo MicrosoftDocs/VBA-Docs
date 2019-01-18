@@ -47,4 +47,4 @@ Set shpTextEffect = ActiveDocument.Pages(1).Shapes.AddTextEffect _
 shpTextEffect.TextEffect.ToggleVerticalText
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ Opens or closes the connection to Project Server.
 
 Available in Project Professional only. If Project is started with an offline account, the WorkOffline method results in a run-time error 1100: "The method is not available in this situation."
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

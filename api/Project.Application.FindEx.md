@@ -75,3 +75,4 @@ FindEx Field:="OtherField", value:="2", Test:="xx", FieldID:=pjTaskName, _
     TestID:=pjCompareContains, SearchAllFields:=True
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

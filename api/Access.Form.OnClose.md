@@ -47,3 +47,4 @@ If the  **On Close** box is blank, the property value is an empty string.
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

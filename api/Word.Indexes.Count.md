@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of indexes in the collection. Rea
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

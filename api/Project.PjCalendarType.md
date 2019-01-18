@@ -21,3 +21,4 @@ Contains constants that specify the type of calandar.
 |**pjHijriCalendar**|6|Hijri Calendar.|
 |**pjThaiCalendar**|7|Thai Calendar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

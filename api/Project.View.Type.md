@@ -25,4 +25,4 @@ Gets the type of item in the view, such as tasks or resources. Read-only  **PjIt
 
 The  **Type** property for a view can be one of the following **[PjItemType](Project.PjItemType.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

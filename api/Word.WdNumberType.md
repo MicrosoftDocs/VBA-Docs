@@ -21,3 +21,4 @@ Specifies the type of number.
 | **wdNumberListNum**|2|Default value for LISTNUM fields.|
 | **wdNumberParagraph**|1|Preset numbers you can add to paragraphs by selecting a template in the  **Bullets and Numbering** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

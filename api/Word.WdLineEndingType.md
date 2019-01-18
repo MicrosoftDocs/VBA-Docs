@@ -23,3 +23,4 @@ Specifies how Microsoft Word marks the line and paragraph breaks in documents sa
 | **wdLFOnly**|2|Line feed only.|
 | **wdLSPS**|4|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

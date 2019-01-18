@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TwoInitialCapsException Object](Word.TwoInitialCapsException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

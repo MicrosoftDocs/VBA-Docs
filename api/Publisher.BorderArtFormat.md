@@ -153,3 +153,4 @@ End Sub
 |[StretchPictures](Publisher.BorderArtFormat.StretchPictures.md)|
 |[Weight](Publisher.BorderArtFormat.Weight.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ A recipient can be specified by a string representing the recipient's display na
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

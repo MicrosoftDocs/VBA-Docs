@@ -50,3 +50,4 @@ Selection.ParagraphFormat.OpenUp
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

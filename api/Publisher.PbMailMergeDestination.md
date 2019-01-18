@@ -25,3 +25,4 @@ The destination of the mail merge or catalog merge results.
 | **pbSendEmail**|4|Merge and send as an email message.|
 | **pbSendToPrinter**|1|Merge and send to the printer.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,4 +51,4 @@ The following command deletes style number 41 in the  **Bar Styles** dialog box.
 GanttBarStyleDelete Item:="41"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

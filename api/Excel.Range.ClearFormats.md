@@ -53,3 +53,4 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

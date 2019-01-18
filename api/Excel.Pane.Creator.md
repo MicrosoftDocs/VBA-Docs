@@ -34,3 +34,4 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [Pane Object](Excel.Pane.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

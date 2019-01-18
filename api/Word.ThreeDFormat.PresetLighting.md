@@ -29,3 +29,4 @@ Returns or sets an  **MsoBevelType** constant that represents the lighting prese
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

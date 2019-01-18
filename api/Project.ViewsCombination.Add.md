@@ -44,3 +44,5 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 
 
 [ViewsCombination Collection Object](Project.viewscombination(object).md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

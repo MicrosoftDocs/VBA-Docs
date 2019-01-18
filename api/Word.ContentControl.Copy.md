@@ -34,3 +34,4 @@ When you use the  **Copy** method, the original content control remains in the a
 
 [ContentControl Object](Word.ContentControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

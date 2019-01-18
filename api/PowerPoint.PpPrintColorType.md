@@ -21,3 +21,4 @@ Specifies the way the specified document will be printed: in black and white, in
 |**ppPrintColor**|1|Colored|
 |**ppPrintPureBlackAndWhite**|3|Pure Black and White|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

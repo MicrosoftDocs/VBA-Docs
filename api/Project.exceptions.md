@@ -51,3 +51,5 @@ Use the  **[Add](Project.Exceptions.Add.md)** method to add an **Exception** obj
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,3 +57,4 @@ End If
 
 [LanguageSettings Object Members](./overview/Library-Reference/languagesettings-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

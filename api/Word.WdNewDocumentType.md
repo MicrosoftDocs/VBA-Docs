@@ -23,3 +23,4 @@ Specifies the type of new document to create.
 | **wdNewWebPage**|1|Web page.|
 | **wdNewXMLDocument**|4|XML document.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

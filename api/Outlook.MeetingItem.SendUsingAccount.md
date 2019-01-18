@@ -36,3 +36,4 @@ This property is read-only if the  **MeetingItem** is a received item, or if the
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

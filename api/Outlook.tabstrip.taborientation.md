@@ -34,4 +34,4 @@ The settings for  **TabOrientation** are:
 
 If you use TrueType fonts, the text rotates when the  **TabOrientation** property is set to 2 or 3. If you use bitmapped fonts, the text does not rotate.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

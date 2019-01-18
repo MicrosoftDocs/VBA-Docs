@@ -45,3 +45,4 @@ ActiveDocument.Tables(1).LeftPadding = _
 
 [TableStyle Object](Word.TableStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

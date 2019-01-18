@@ -34,3 +34,4 @@ The associated Outlook session is closed completely; the user is logged out of t
 
 [Application Object](Outlook.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

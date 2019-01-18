@@ -40,3 +40,4 @@ Makes a copy of a group definition from the  **Groups2** collection and returns 
 
 [Groups2 Collection Object](Project.groups2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

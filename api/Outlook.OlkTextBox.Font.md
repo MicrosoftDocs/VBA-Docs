@@ -34,3 +34,4 @@ The font is expressed as the Microsoft Windows type  **StdFont**.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

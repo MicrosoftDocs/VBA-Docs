@@ -37,4 +37,4 @@ If you are creating an undo unit for your solution, the  **UnitTypeLong** proper
 
 For more information about the  **UnitTypeLong** property and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

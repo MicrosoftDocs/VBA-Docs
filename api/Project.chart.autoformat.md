@@ -61,3 +61,5 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [ChartWizard Method](Project.chart.chartwizard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

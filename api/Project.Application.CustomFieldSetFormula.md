@@ -37,4 +37,4 @@ Specifies a formula to use when assigning a value to a custom field.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

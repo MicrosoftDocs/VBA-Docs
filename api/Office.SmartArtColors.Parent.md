@@ -30,3 +30,4 @@ _expression_. `Parent`
 
 [SmartArtColors Object Members](./overview/Library-Reference/smartartcolors-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

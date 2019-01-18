@@ -28,4 +28,4 @@ Gets the master shortcut that is displayed in a window. Read-only.
 
 MasterShortcut
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

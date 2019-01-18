@@ -34,3 +34,4 @@ A  **TempVar** can store only numeric or text data. Setting the **Value** proper
 
 [TempVar Object](Access.TempVar.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

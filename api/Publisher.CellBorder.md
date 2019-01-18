@@ -61,3 +61,4 @@ cbTemp.Weight = 2
 |[Parent](Publisher.CellBorder.Parent.md)|
 |[Weight](Publisher.CellBorder.Weight.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

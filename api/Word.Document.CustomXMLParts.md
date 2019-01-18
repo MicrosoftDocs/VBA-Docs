@@ -29,3 +29,4 @@ Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** collection that repres
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

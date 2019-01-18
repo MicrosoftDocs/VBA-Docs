@@ -39,3 +39,4 @@ For General and Right alignment when orientation is RTL,  **LabelX** and **Label
 
 [CommandButton Object](Access.CommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

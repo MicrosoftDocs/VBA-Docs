@@ -29,3 +29,4 @@ _expression_ A variable that represents a [SlicerCache](./Excel.SlicerCache.md) 
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,3 +31,4 @@ Identifies the source object.
 | **xlSourceSheet**|1|An entire worksheet|
 | **xlSourceWorkbook**|0|A workbook|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

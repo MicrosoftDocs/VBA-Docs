@@ -35,3 +35,4 @@ Contains constants that specify a color.
 |**pjWhite**|7|Color is white.|
 |**pjYellow**|2|Color is yellow.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

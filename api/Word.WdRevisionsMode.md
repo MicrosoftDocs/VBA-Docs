@@ -21,3 +21,4 @@ Specifies whether Microsoft Word displays balloons in the margin or inline with 
 | **wdInLineRevisions**|1|Displays revisions within the text using strikethrough for deletions and underlining for insertions. This is the default setting for prior versions of Word.|
 | **wdMixedRevisions**|2|Not supported.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

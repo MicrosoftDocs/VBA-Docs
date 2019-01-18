@@ -28,4 +28,4 @@ Closes the project version comparison report.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

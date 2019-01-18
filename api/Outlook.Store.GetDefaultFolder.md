@@ -49,3 +49,4 @@ One example of when  **GetDefaultFolder** returns **Null** (**Nothing** in Visua
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

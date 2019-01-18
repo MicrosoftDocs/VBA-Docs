@@ -34,3 +34,4 @@ The glow effect adds a vibrant colored edge to graphics.
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnecti
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

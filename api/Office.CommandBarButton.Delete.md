@@ -34,3 +34,4 @@ _expression_ Required. A variable that represents a **[CommandBarButton](Office.
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

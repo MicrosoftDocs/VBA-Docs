@@ -23,3 +23,4 @@ Specifies the location of the field in a PivotTable report.
 | **xlPageField**|3|Page|
 | **xlRowField**|1|Row|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

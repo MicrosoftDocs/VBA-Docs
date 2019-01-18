@@ -44,3 +44,4 @@ End If
 
 [ErrorBars Object](Excel.ErrorBars(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

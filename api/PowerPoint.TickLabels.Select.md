@@ -29,3 +29,4 @@ Selects the object.
 
 [TickLabels Object](PowerPoint.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

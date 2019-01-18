@@ -28,4 +28,4 @@ Gets or sets the number of undo levels. The default is 20. Read/write  **Long**.
 
 The minimum value of  **UndoLevels** is 1 (no multilevel undo) and the maximum is 99.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

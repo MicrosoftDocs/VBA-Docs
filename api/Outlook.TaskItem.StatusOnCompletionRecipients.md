@@ -34,3 +34,4 @@ This property is calculated from the  **[Recipients](Outlook.TaskItem.Recipients
 
 [TaskItem Object](Outlook.TaskItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

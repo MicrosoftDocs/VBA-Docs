@@ -34,3 +34,4 @@ Use  **NavigationFolder.DisplayName** , instead of **[Folder.Name](Outlook.Folde
 
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,3 +30,4 @@ Specifies the area of a table to which to apply special style formatting.
 | **wdSECell**|10|Applies formatting to the last cell in the table.|
 | **wdSWCell**|11|Applies formatting to first cell in the last row of the table.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

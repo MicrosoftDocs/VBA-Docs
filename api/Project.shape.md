@@ -196,3 +196,5 @@ Figure 1 shows the result, where the shape is selected to make the ribbon  **FOR
 [Report Object](Project.report.md)
  
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

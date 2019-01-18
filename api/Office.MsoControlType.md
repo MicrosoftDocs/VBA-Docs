@@ -45,3 +45,4 @@ Specifies the type of the command bar control. Used with the  **Add** method of 
 |**msoControlSplitExpandingGrid**|17|Split expanding grid. Cannot be created through the object model.|
 |**msoControlWorkPane**|25|Work pane. Cannot be created through the object model.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

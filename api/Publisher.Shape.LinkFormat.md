@@ -41,4 +41,4 @@ For Each sh In ActiveDocument.Pages(1).Shapes
 Next
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

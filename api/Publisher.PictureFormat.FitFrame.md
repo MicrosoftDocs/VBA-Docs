@@ -23,4 +23,4 @@ Fits the image represented by the  **PictureFormat** object to the frame of the 
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

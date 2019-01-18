@@ -21,3 +21,4 @@ Specifies what should be calculated.
 | **xlColGroups**|2|Column groups.|
 | **xlRowGroups**|1|Row groups.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Indicates whether a shape is currently open for interactive text editing. Read-o
 
 Boolean
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

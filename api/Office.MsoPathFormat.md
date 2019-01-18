@@ -29,3 +29,4 @@ Specifies the format of a file or folder path.
 |**msoPathTypeMixed**|-2|Represents a mixed format.|
 |**msoPathTypeNone**|0|Represents no format.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

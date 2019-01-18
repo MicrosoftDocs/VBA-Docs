@@ -33,4 +33,4 @@ String
 
  The document's default line style is applied to new shapes created with the Microsoft Visio drawing tools or with the **Draw** methods by Automation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [UsedObjects Object](Excel.UsedObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,3 +53,4 @@ MsgBox "OrderByOn property is " & Forms("Mailing List").OrderByOn
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,3 +50,4 @@ If  _Before_ and _After_ are both omitted, the new sheet is inserted before the 
 
 [Worksheets Object](Excel.Worksheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

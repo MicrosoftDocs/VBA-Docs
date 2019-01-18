@@ -75,3 +75,4 @@ End Sub
 |[UseCatalogAtStartup](./Publisher.Options.UseCatalogAtStartup.md)|
 |[UseWizardForBlankPublication](./Publisher.Options.UseWizardForBlankPublication.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

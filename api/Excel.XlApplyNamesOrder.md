@@ -18,3 +18,4 @@ Specifies which range name is listed first when a cell reference is replaced by 
 | **xlColumnThenRow**|2|Columns listed before rows|
 | **xlRowThenColumn**|1|Rows listed before columns|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

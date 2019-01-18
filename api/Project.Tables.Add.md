@@ -40,3 +40,5 @@ Adds a  **Table** object to a **Tables** collection.
 
 
 [Tables Collection Object](Project.tables.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

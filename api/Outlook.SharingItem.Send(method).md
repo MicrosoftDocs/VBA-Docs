@@ -38,3 +38,4 @@ An error occurs if the  **[BCC](Outlook.SharingItem.BCC.md)** or **[CC](Outlook.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

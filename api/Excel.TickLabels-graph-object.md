@@ -30,4 +30,4 @@ Use the  **TickLabels** property to return the **TickLabels** object. The follow
 myChart.Axes(xlValue).TickLabels.NumberFormat = "0.00"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,3 +43,4 @@ Shortcut menus aren't available to any object if the  **AllowShortcutMenus** pro
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Specifies the conflict resolution options for updating a list on a Microsoft Sha
 | **xlListConflictError**|3|Raise an error if a conflict occurs.|
 | **xlListConflictRetryAllConflicts**|1|Overwrite the version of the data stored on the SharePoint site.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,4 +38,4 @@ If the scroll bars are visible when they are not required, they appear normal in
 
 If the  **KeepScrollBarsVisible** property is **True**, any scroll bar on a form or page is always visible, regardless of whether the object's contents fit within the object's borders.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

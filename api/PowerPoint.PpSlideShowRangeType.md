@@ -21,3 +21,4 @@ Constants that specify the type of the slideshow range, passed to and returned b
 |**ppShowNamedSlideShow**|3|Show named slideshow.|
 |**ppShowSlideRange**|2|Show slide range.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

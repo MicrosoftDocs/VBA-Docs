@@ -25,3 +25,4 @@ Specifies constants that define how to apply the raster export flip; passed to a
 | **visRasterFlipHorizontal**|1|Flip horizontally.|
 | **visRasterFlipVertical**|2|Flip vertically.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

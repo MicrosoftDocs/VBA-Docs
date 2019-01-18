@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.m
 
 [Legend Object](Excel.Legend(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

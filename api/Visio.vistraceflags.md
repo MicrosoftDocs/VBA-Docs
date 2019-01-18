@@ -28,3 +28,4 @@ The value of the  **TraceFlags** property can be a combination of the following 
 | **visTraceCallsToVBA**|&H8|Microsoft Visual Basic for Applications (VBA) invocations.|
 | **visTraceEvents**|&H1|Event occurrences.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

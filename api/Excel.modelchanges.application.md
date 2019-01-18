@@ -48,3 +48,4 @@ End If
 
 [ModelChanges Object](Excel.modelchanges.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ Calling the  **Union** method is equivalent to clicking **Union** in the Microso
 
 When the operation is complete, the original shapes are deleted and no shapes are selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

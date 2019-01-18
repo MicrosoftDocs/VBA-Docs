@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

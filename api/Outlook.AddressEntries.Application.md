@@ -29,3 +29,4 @@ _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEnt
 
 [AddressEntries Object](Outlook.AddressEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

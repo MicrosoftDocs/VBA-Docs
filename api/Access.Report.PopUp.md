@@ -54,3 +54,4 @@ Setting the  **PopUp** property to Yes makes the report a pop-up window only whe
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

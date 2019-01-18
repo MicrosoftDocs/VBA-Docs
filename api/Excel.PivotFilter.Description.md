@@ -34,3 +34,4 @@ The maximum length of the description string is 255 characters.
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

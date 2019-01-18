@@ -30,3 +30,4 @@ Object
 
 - [DocumentInspector object members](overview/library-reference/documentinspector-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

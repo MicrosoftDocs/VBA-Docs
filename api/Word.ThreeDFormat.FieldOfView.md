@@ -29,3 +29,4 @@ Returns or sets a  **Single** that represents the amount of perspective for a sh
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

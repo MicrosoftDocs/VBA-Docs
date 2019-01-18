@@ -47,3 +47,4 @@ _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.m
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

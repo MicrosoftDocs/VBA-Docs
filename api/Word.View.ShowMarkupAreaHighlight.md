@@ -34,3 +34,4 @@ This property corresponds to the  **Markup Area Highlight** option in the **Show
 
 [View Object](Word.View.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

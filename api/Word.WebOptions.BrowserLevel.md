@@ -36,3 +36,4 @@ After you set the  **BrowserLevel** property on the **DefaultWebOptions** object
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

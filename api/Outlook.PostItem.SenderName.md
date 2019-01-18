@@ -36,3 +36,4 @@ If you wish to retrieve the fully qualified email address of the sender, use the
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

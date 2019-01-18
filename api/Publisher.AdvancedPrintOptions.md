@@ -70,3 +70,4 @@ End Sub
 |[UseOnlyPublicationFonts](Publisher.AdvancedPrintOptions.UseOnlyPublicationFonts.md)|
 |[VerticalFlip](Publisher.AdvancedPrintOptions.VerticalFlip.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ Application.Quit
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

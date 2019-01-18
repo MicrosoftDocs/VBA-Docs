@@ -34,3 +34,4 @@ This information may not always be available for attachments. For example, on an
 
 [Attachment Object](Outlook.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

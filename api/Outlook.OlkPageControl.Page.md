@@ -34,3 +34,4 @@ The default value is  **olPageTypePlanner**.
 
 [OlkPageControl Object](Outlook.OlkPageControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

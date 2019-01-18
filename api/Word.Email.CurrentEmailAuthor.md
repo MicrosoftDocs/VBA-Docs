@@ -40,3 +40,4 @@ MsgBox ActiveDocument.Email _
 
 [Email Object](Word.Email.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

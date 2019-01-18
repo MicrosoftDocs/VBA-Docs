@@ -42,3 +42,4 @@ Microsoft Word adjusts the numbering value to be used for numbering each list le
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

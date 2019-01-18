@@ -43,3 +43,4 @@ Next con
 
 [Conflict Object](Word.Conflict.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

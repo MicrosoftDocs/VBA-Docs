@@ -34,3 +34,4 @@ The value of this property might be different from the current item name if the 
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,3 +62,4 @@ End Sub
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

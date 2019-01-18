@@ -33,3 +33,4 @@ Specifies the type of calculation performed by a data PivotField when a custom c
 | **xlRankDecending**|15|Rank largest to smallest.|
 | **xlRunningTotal**|5|Data for successive items in the Base field as a running total.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

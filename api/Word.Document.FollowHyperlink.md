@@ -64,3 +64,4 @@ ActiveDocument.FollowHyperlink Address:="file:C:\Pages\Default.htm"
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

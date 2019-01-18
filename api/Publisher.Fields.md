@@ -74,3 +74,4 @@ End Sub
 |[Count](Publisher.Fields.Count.md)|
 |[Parent](Publisher.Fields.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

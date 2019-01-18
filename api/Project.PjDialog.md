@@ -19,3 +19,4 @@ Contains constants that specify the dialog box to activate.
 |:-----|:-----|:-----|
 |**pjResourceAssignment**|4087|**Resource Assignment** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

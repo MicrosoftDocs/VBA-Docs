@@ -45,4 +45,4 @@ Set vsoValidationRuleSet = vsoDocument.Validation.RuleSets.Add("Connectivity")
 vsoValidationRuleSet.Description = "Verify that shapes are correctly connected in the document."
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

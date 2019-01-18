@@ -29,3 +29,4 @@ Returns or sets name of the object. Read/write  **String**.
 
 [Trendline Object](Word.Trendline.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

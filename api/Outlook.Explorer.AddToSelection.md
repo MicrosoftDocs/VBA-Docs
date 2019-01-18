@@ -88,3 +88,4 @@ Note that you can use  **AddToSelection** to add items to a selection, but you c
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

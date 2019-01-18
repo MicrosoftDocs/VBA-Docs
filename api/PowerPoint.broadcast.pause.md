@@ -31,4 +31,4 @@ _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md)
 
 If the specified broadcast is not in progress,  **Pause** returns runtime error 4702.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

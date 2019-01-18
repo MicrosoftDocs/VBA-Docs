@@ -45,4 +45,4 @@ Using the  **Drop** method is similar to moving a shape with the mouse. The obje
 
 If  _ObjectToDrop_ is a **Master** , the pin of the master is dropped at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

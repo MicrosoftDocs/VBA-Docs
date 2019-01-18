@@ -96,3 +96,5 @@ Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

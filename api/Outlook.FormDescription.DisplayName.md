@@ -34,3 +34,4 @@ If both the  **[FormDescription.Name](Outlook.FormDescription.Name.md)** and **F
 
 [FormDescription Object](Outlook.FormDescription.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

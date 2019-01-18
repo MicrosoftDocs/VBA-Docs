@@ -27,3 +27,4 @@ Indicates the current state of the player.
 |**ppPlaying**|**0**||
 |**ppStopped**|**2**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

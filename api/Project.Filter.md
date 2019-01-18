@@ -44,3 +44,4 @@ The following example applies a critical task filter to the active project.
 |[ShowInMenu](./Project.Filter.ShowInMenu.md)|
 |[ShowRelatedSummaryRows](./Project.Filter.ShowRelatedSummaryRows.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

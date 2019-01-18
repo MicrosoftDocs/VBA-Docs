@@ -29,3 +29,4 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [Axes Object](Word.Axes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

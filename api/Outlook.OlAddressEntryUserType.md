@@ -32,3 +32,4 @@ Represents the type of user for the  **[AddressEntry](Outlook.AddressEntry.md)**
 | **olOutlookDistributionListAddressEntry**|11|An address entry that is an Outlook distribution list.|
 | **olSmtpAddressEntry**|30|An address entry that uses the Simple Mail Transfer Protocol (SMTP).|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

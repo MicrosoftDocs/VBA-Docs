@@ -49,3 +49,4 @@ You can use the  **DecimalPlaces** property to display numbers differently from 
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

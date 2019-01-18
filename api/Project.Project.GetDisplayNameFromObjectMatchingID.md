@@ -49,4 +49,4 @@ The following example gets the display name of View object that has the Matching
 MsgBox(ActiveProject.GetDisplayNameFromObjectMatchingID(pjView, "My Gantt Chart"))
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

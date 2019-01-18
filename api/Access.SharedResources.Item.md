@@ -58,3 +58,4 @@ Debug.Print Modules.Item(0)
 
 [SharedResources Collection](Access.SharedResources.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

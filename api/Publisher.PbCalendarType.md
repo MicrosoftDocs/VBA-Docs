@@ -31,3 +31,4 @@ The calendar type to use when displaying the date or time.
 | **pbCalendarTypeTranslitFrench**|9|French calendar|
 | **pbCalendarTypeWestern**|0|Western calendar|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

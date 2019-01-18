@@ -29,3 +29,4 @@ _expression_ A variable that represents a [LinkFormat](Excel.LinkFormat.md) obje
 
 [LinkFormat Object](Excel.LinkFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

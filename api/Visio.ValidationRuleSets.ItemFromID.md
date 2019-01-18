@@ -36,4 +36,4 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that mat
 
  **ValidationRuleSet**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

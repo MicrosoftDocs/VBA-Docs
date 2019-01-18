@@ -285,3 +285,5 @@ This section contains documentation for the enumerations in the Excel object mod
 ## See also
 
 - [Visual Basic constants](../language/reference/user-interface-help/visual-basic-constants.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

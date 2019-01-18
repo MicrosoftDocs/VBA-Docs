@@ -40,3 +40,4 @@ You can create custom bitmaps by using Microsoft Paintbrush or another applicati
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFrame
 
 [Frameset Object](Word.Frameset.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

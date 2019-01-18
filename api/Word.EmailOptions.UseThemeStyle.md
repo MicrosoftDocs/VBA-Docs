@@ -45,3 +45,4 @@ Application.EmailOptions.UseThemeStyle = True
 
 [EmailOptions Object](Word.EmailOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

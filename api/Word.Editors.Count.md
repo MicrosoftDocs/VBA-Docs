@@ -29,3 +29,4 @@ Returns a the  **Long** that represents the number of Editor objects in the coll
 
 [Editors Collection](Word.Editors.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

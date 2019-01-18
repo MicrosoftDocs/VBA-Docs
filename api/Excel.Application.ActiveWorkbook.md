@@ -42,3 +42,4 @@ MsgBox "The name of the active workbook is " & ActiveWorkbook.Name
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

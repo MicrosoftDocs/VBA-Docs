@@ -28,3 +28,4 @@ Indicates the type of content control.
 | **wdContentControlRichText**|0|Specifies a rich-text content control.|
 | **wdContentControlText**|1|Specifies a text content control|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -75,3 +75,4 @@ End With
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

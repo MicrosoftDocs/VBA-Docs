@@ -29,3 +29,4 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 [Axis Object](Word.Axis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

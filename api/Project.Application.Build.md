@@ -25,4 +25,4 @@ Gets the version and build number of Microsoft Project. Read-only  **String**.
 
 For example, a  **Build** value of 15.0.4027 is for , where the major version is 15, the minor version is 0, and the build number is 4027.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

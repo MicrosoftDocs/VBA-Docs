@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PivotAxis](Excel.PivotAxis.md) object
 
 [PivotAxis Object](Excel.PivotAxis.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

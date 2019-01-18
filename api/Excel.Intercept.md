@@ -31,4 +31,4 @@ This example sets trendline one to cross the value axis at 5. The example should
 myChart.SeriesCollection(1).Trendlines(1).Intercept = 5
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

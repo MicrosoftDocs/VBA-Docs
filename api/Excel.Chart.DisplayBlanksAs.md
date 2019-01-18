@@ -40,3 +40,4 @@ Charts("Chart1").DisplayBlanksAs = xlNotPlotted
 [Chart Object](Excel.Chart(object).md)
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

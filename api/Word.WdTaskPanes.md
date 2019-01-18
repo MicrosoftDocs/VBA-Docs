@@ -37,3 +37,4 @@ Specifies the type of task pane.
 | **wdTaskPaneXMLMapping**|21|XML mapping pane.|
 | **wdTaskPaneXMLStructure**|5|XML structure pane.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

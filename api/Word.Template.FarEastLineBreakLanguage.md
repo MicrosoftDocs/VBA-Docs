@@ -29,3 +29,4 @@ Returns or sets the East Asian language to use when breaking lines of text in th
 
 [Template Object](Word.Template.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

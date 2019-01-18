@@ -24,4 +24,4 @@ This example sets the interior color of the chart title.
 myChart.ChartTitle.Interior.ColorIndex = 8
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

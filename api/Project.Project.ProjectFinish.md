@@ -25,4 +25,4 @@ Gets or sets the finish date for a project. Read/write  **Variant**.
 
 Setting  **ProjectFinish** also causes the project to be scheduled from its finish date. This has the same effect as setting the **ScheduleFromStart** property to **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

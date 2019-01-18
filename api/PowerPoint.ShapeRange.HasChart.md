@@ -45,3 +45,4 @@ The value of the  **HasChart** property can be one of these **MsoTriState** cons
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

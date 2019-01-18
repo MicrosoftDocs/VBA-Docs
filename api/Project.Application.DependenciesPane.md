@@ -28,4 +28,4 @@ Displays the project  **Dependency** pane when connected to Project Server. Avai
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

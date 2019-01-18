@@ -29,3 +29,4 @@ _expression_ A variable that represents a [NavigationFolders](./Outlook.Navigati
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

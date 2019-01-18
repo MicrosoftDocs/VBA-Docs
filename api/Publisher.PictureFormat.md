@@ -98,3 +98,4 @@ End Sub
 |[VerticalScale](./Publisher.PictureFormat.VerticalScale.md)|
 |[Width](./Publisher.PictureFormat.Width.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The custom picture is of the Microsoft Windows type  **StdPicture**. The default
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

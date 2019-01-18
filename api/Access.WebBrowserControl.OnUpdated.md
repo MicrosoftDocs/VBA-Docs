@@ -45,3 +45,4 @@ If the  **On Updated** box is blank, the property value is an empty string.
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

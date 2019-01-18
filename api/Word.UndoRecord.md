@@ -39,4 +39,4 @@ Set objUndo = Application.UndoRecord
 [Working With the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

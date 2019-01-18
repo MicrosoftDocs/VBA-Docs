@@ -83,6 +83,4 @@ If ActiveDocument.Footnotes.Count >= 1 Then
 End If
 ```
 
-
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

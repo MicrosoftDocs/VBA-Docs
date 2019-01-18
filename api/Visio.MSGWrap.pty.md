@@ -35,4 +35,4 @@ The  **pty** property corresponds to the **pt.y** member in the **MSG** structur
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

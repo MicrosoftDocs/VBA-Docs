@@ -34,3 +34,4 @@ Variant
 
 [Characters Object](Excel.Characters.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

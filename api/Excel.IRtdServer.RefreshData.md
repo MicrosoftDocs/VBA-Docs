@@ -47,3 +47,4 @@ The data returned to Excel is a  **Variant** containing a two-dimensional array.
 
 [IRtdServer Object](Excel.IRtdServer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Inserts a column to the left of the active column, and then displays the  **Fiel
 
 By comparison, the  **[AddNewColumn](Project.Application.AddNewColumn.md)** method can specify the column location and allows the user to type the field name directly in the new column header, rather than showing the **Field Settings** dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

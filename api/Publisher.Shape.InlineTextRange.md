@@ -55,4 +55,4 @@ If Not theShape.IsInline = True Then
 End If
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

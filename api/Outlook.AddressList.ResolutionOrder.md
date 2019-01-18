@@ -36,3 +36,4 @@ When  **Custom** is selected in the **Addressing** dialog box, the **ResolutionO
 
 [AddressList Object](Outlook.AddressList.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

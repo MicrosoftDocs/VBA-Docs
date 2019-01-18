@@ -58,3 +58,4 @@ Debug.Print Modules.Item(0)
 
 [Entities Collection](Access.Entities.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

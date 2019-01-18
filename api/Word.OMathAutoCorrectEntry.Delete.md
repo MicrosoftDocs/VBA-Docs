@@ -29,3 +29,4 @@ Deletes the specified equation auto correct entry.
 
 [OMathAutoCorrectEntry Object](Word.OMathAutoCorrectEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

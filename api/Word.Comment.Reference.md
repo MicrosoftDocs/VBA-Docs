@@ -29,3 +29,4 @@ Returns a  **Range** object that represents a reference mark for a comment.
 
 [Comment Object](Word.Comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

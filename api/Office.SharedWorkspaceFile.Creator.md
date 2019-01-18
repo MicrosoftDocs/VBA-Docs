@@ -45,3 +45,4 @@ The  **Creator** property always returns the numeric identifier for the active a
 
 [SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

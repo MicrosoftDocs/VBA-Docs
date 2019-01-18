@@ -29,3 +29,4 @@ Returns or sets the width, in points, of the shapes within the range. Read/write
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,3 +60,4 @@ If num = True Then ActiveDocument.Lists(3).ApplyListTemplate _
 
 [ListTemplate Object](Word.ListTemplate.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

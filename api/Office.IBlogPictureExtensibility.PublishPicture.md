@@ -45,3 +45,4 @@ This method is called during xHTML generation and hands off a .PNG representatio
 
 - [IBlogPictureExtensibility object members](overview/Library-Reference/iblogpictureextensibility-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

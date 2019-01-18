@@ -75,3 +75,4 @@ Documents.Add Template:=tmpName, NewTemplate:=True
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

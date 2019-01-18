@@ -22,3 +22,4 @@ Indicates how to paste copied text.
 | **wdMatchDestinationFormatting**|1|Matches formatting to the destination document.|
 | **wdUseDestinationStyles**|3|Matches formatting to the destination document using styles for formatting.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

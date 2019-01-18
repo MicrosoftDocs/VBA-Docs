@@ -26,3 +26,5 @@ Gets the number of  **Shape** objects in the **Shapes** collection. Read-only **
 
 
 [Shapes Object](Project.shapes.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

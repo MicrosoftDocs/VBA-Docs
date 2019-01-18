@@ -43,3 +43,4 @@ The  **Characters** object isn't a collection.
 
 [AxisTitle Object](Excel.AxisTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

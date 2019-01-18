@@ -34,3 +34,4 @@ The  **Value** property returns or sets a control's default property, which is t
 
 [SmartTagProperty Object](Access.SmartTagProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

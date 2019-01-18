@@ -57,3 +57,4 @@ ActivePresentation.Slides(2).Shapes.AddTable(3, 4, 10, 10, 288, 216)
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

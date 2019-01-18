@@ -39,3 +39,4 @@ AutoCaptions.CancelAutoInsert
 
 [AutoCaptions Collection Object](Word.autocaptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

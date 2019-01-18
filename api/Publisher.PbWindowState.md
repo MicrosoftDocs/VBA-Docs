@@ -24,3 +24,4 @@ Indicates the state of the Microsoft Publisher window.
 | **pbWindowStateMinimize**|1|Window is minimized.|
 | **pbWindowStateNormal**|2|Window is neither maximized nor minimized.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

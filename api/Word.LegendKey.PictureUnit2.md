@@ -29,3 +29,4 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](W
 
 [LegendKey Object](Word.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

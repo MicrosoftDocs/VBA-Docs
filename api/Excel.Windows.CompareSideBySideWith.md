@@ -47,3 +47,4 @@ You cannot use the  **CompareSideBySideWith** method with the **[Application](Ex
 
 [Windows Object](Excel.Windows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

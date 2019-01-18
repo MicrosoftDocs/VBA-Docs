@@ -29,3 +29,4 @@ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) obj
 
 [Explorer Object](Outlook.Explorer.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

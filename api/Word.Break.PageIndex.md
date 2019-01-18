@@ -39,3 +39,4 @@ ActiveDocument.ActiveWindow.Panes(1).Pages(1).Breaks(1).PageIndex
 
 [Break Object](Word.Break.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

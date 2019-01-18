@@ -34,3 +34,4 @@ An  **[xlXmlImportResult](Excel.XlXmlImportResult.md)** value that indicates the
 
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

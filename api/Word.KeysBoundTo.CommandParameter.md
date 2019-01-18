@@ -51,3 +51,4 @@ MsgBox kbNew.Command & Chr$(32) & kbNew.CommandParameter _
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

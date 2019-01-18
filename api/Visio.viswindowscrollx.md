@@ -26,3 +26,4 @@ X parameters to pass to the  **Window.Scroll** method.
 | **visScrollToLeft**|6|Scroll so that the upper left corner of the drawing page is centered in the window.|
 | **visScrollToRight**|7|Scroll so that the lower right corner of the drawing page is centered in the window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

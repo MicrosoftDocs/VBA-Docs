@@ -34,3 +34,4 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the width, in points, of the object. Read-only.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

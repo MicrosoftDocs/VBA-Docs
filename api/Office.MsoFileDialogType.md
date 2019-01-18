@@ -22,3 +22,4 @@ Specifies the type of a  **FileDialog** object.
 |**msoFileDialogOpen**|1|**Open** dialog box.|
 |**msoFileDialogSaveAs**|2|**Save As** dialog box.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ Set r = Worksheets(1).VPageBreaks(1).Location
 
 [VPageBreak Object](Excel.VPageBreak.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

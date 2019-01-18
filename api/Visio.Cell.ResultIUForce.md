@@ -33,4 +33,4 @@ Double
 
 The cell's units default to the Microsoft Visio internal units, which are inches for distance and radians for angles.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

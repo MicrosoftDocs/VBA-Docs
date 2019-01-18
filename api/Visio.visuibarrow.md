@@ -24,3 +24,4 @@ Values passed to and returned by the  **MenuSet.RowIndex** and **Toolbar.RowInde
 | **visBarRowFirst**|0|First row.|
 | **visBarRowLast**|-1|Last row.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

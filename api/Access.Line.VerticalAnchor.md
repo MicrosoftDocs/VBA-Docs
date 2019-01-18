@@ -34,3 +34,4 @@ The default value is  **acVerticalAnchorTop**.
 
 [Line Object](Access.Line.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

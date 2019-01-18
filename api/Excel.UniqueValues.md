@@ -23,3 +23,4 @@ The  **UniqueValues** object uses the **DupeUnique** property to returns or sets
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

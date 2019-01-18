@@ -33,4 +33,4 @@ Characters
 
 The  **SelectedText** property applies only to drawing windows. If you try to access the **SelectedText** property for other types of window, Visio may return an error.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

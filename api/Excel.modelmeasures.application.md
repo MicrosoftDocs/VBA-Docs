@@ -42,4 +42,4 @@ End If
 
 [ModelMeasures Object ](Excel.modelmeasures.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

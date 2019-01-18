@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 Any value you assign to the  **[Text](Outlook.textbox.text.md)** property is also assigned to the **Value** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

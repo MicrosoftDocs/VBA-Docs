@@ -62,3 +62,4 @@ myDocument.Shapes.AddShape msoShapeRectangle, 50, 50, 100, 200
 
 [Shapes Object](Excel.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

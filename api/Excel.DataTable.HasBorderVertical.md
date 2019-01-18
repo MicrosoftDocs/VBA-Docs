@@ -46,3 +46,4 @@ End With
 
 [DataTable Object](Excel.DataTable(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

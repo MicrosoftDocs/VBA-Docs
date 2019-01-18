@@ -34,3 +34,4 @@ The value of  **ConditionType** depends on the type of rule condition, as severa
 
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

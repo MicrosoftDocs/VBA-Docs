@@ -64,3 +64,4 @@ End With
 
 [ChartGroups Object](PowerPoint.ChartGroups.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

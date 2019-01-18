@@ -29,3 +29,4 @@ Clears the formatting of the object.
 
 [LegendKey Object](Word.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

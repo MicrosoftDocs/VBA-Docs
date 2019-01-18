@@ -27,3 +27,5 @@ Gets the common parent shape of a child shape or a range of child shapes. Read-o
 
 [ShapeRange Object](Project.shaperange.md)
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

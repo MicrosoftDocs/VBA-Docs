@@ -22,3 +22,4 @@ Specifies the editing type of a node.
 |**msoEditingSmooth**|2|Smooth node.|
 |**msoEditingSymmetric**|3|Symmetric node.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

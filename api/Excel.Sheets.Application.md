@@ -44,3 +44,4 @@ End If
 
 [Sheets Object](Excel.Sheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

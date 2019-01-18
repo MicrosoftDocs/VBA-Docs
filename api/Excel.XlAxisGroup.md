@@ -18,3 +18,4 @@ Specifies the type of axis group.
 | **xlPrimary**|1|Primary axis group|
 | **xlSecondary**|2|Secondary axis group|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

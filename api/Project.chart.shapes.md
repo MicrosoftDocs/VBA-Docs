@@ -26,3 +26,5 @@ Gets a  **[Shapes](./overview/Project.md)** collection that represents all the s
 
 
 [Chart Object](Project.chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

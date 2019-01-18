@@ -38,3 +38,4 @@ If the  **MailItem** object is created in a version of Microsoft Outlook earlier
 
 [MailItem Object](Outlook.MailItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

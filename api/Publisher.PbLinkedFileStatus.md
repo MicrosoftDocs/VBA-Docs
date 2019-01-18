@@ -24,3 +24,4 @@ Indicates the status of the file linked to the specified picture.
 | **pbLinkedFileModified**|3|The linked file has been modified since it was linked to the picture.|
 | **pbLinkedFileOK**|1|The file resides at the specified path, and has not been modified since it was linked to the picture.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

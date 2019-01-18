@@ -44,3 +44,4 @@ ActiveDocument.Paragraphs(2).Reset
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

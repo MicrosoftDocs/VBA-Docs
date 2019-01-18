@@ -36,3 +36,4 @@ Once you establish a reference to the  **CommandBars** collection object, you ca
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

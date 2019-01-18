@@ -33,3 +33,4 @@ Occurs when Visio incorporates changes from other users? versions of a document 
 
 [Document Object](Visio.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

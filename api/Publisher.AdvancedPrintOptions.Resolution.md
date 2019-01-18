@@ -62,3 +62,4 @@ ActiveDocument.AdvancedPrintOptions.Resolution = "300 x 300"
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

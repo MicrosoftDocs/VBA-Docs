@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathFracType](Word.WdOMathFracType.md)** constant that 
 
 [OMathFrac Object](Word.OMathFrac.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,3 +60,4 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

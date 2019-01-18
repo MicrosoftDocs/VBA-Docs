@@ -23,3 +23,4 @@ Specifies the docking behavior of the custom task pane.
 |**msoCTPDockPositionRight**|2|Dock the task pane on the right side of the document window.|
 |**msoCTPDockPositionTop**|1|Dock the task pane at the top of the document window.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,4 @@ Y parameters to pass to the  **Window.Scroll** method.
 | **visScrollUpPage**|2|Scroll vertically so that the lower edge of the drawing page is centered in the window.|
 | **visScrollUp**|0|Scroll vertically up the same distance as clicking the up scroll button.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

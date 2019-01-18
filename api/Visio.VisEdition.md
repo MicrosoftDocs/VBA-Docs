@@ -24,3 +24,4 @@ Specifies constants that represent the installed edition of Microsoft Visio.
 | **visEditionStandard**|0|Standard edition.|
 | **visEditionProfessional**|1|Professional edition.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

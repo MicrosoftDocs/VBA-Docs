@@ -48,4 +48,4 @@ If the value passed for  _serverUrl_ has invalid formatting, **Start** returns a
 
 [Broadcast Object](Word.broadcast.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -227,3 +227,4 @@ Use the [Group](./PowerPoint.ShapeRange.Group.md) or [Regroup](./PowerPoint.Shap
 
 [PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

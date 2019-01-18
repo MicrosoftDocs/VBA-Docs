@@ -21,3 +21,4 @@ Specifies the unit of time for chart axes and data series.
 | **xlMonths**|1|Months|
 | **xlYears**|2|Years|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property can be set to one of the following constants:  **xlStack** or **xl
 
 [Floor Object](Excel.Floor(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

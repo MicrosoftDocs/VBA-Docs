@@ -67,3 +67,4 @@ The following example adds a new member to the members collection of the shared 
 
 [SharedWorkspaceMembers Object Members](./overview/Library-Reference/sharedworkspacemembers-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

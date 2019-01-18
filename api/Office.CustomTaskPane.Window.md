@@ -38,3 +38,4 @@ The specific class for this property depends on the host application.
 
 - [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,3 +41,4 @@ Use the  **Shift*n*** property to return a **Shift** object. The following examp
 |[Parent](Project.Shift.Parent.md)|
 |[Start](Project.Shift.Start.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

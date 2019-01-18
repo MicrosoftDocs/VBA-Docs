@@ -40,3 +40,4 @@ If ActiveDocument.Tables.Count >= 1 Then _
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

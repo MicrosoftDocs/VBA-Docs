@@ -50,4 +50,4 @@ The following constants declared by the Visio type library in  **VisZoomBehavior
 
 If this value is set to the default,  **visZoomInPlaceContainer** , Visio uses the container's **IOleCommandTarget** interface to perform the zoom and forces a fit-to-window zoom within the in-place window. If the container does not support **IOleCommandTarget** , no zooming occurs.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

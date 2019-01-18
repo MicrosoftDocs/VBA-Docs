@@ -23,3 +23,4 @@ Specifies whether the search is confined to the current field in each record or 
 |**acAll**|0|Search in all fields in each record.|
 |**acCurrent**|-1|Confine the search to the current field.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

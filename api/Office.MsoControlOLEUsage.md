@@ -22,3 +22,4 @@ Specifies the OLE client and OLE server roles in which a command bar control is 
 |**msoControlOLEUsageNeither**|0|Control runs on neither client nor server.|
 |**msoControlOLEUsageServer**|1|Server-only control.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

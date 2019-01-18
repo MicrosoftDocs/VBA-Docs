@@ -40,3 +40,4 @@ If the code attached to the command button causes changes to another control on 
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

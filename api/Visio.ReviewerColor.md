@@ -52,4 +52,4 @@ The following code gets the color of the markup overlay of the reviewer at index
 Debug.Print vsoViewer.ReviewerColor(1)
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

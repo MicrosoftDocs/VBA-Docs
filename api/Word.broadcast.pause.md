@@ -37,4 +37,4 @@ If the specified broadcast is not in progress,  **Pause** returns runtime error 
 
 [Broadcast Object](Word.broadcast.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -63,3 +63,5 @@ If you leave off the  **Shapes** property, the following statement is effectivel
 
 [Shapes Object](Project.shapes.md)
 [Item Method](Project.shapes.item.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

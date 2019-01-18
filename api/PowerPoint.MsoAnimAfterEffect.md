@@ -23,3 +23,4 @@ Indicates whether an after effect appears dimmed, hidden, or unchanged after it 
 |**msoAnimAfterEffectMixed**|-1|Mixed|
 |**msoAnimAfterEffectNone**|0|Unchanged|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

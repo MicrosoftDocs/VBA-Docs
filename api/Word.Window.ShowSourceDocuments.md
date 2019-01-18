@@ -29,3 +29,4 @@ Returns or sets a  **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** co
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

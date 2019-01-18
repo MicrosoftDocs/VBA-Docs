@@ -36,3 +36,4 @@ This property is not surfaced in the property sheet.
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

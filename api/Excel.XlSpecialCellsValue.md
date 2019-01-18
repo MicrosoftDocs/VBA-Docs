@@ -22,3 +22,4 @@ Specifies cells with a particular type of value to include in the result.
 | **xlNumbers**|1|Cells with numeric values.|
 | **xlTextValues**|2|Cells with text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

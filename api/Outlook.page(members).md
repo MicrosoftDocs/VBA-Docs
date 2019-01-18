@@ -64,5 +64,4 @@ Represents one page of a  [MultiPage](Outlook.multipage.md) or a single member o
 | [Visible](Outlook.Page.visible.md)|Returns or sets a  **Boolean** that specifies whether a **Page** is visible or hidden. Read/write.|
 | [Zoom](Outlook.Page.zoom.md)|Returns or sets an  **Integer** that specifies the percentage to increase or decrease the displayed image. Read/write.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

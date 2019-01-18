@@ -44,4 +44,4 @@ The setting of the  **KashidaTextUI** property corresponds to the regional optio
 
 The setting of the  **KashidaTextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **KashidaTextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

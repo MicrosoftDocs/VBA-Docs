@@ -54,3 +54,4 @@ The  **PrtMip** property setting is read/write in Design view and read-only in o
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

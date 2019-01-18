@@ -34,3 +34,4 @@ The default value for this property is  **False**.
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

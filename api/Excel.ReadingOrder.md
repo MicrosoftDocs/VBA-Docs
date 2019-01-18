@@ -40,4 +40,4 @@ This example sets the chart title's reading order to right-to-left.
 myChart.ChartTitle.ReadingOrder = xlRTL
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

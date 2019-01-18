@@ -47,4 +47,4 @@ The points  _x_,  _y_,  _xprime_, and  _yprime_ are all treated as internal draw
 
 An exception is raised if object is not a  **Shape** object of a **Page** or **Master** object, or if _OtherShape_ is not in the same **Page** or **Master** object as _object_.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

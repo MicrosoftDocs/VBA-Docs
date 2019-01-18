@@ -29,3 +29,4 @@ Deletes the specified XML element from an XML document.
 
 [XMLNode Object](Word.XMLNode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ The task link types are sometimes abbreviated as FF (finish to finish), FS (fini
 
 The  **Type** property can be one of the following **[PjTaskLinkType](Project.PjTaskLinkType.md)** constants: **pjFinishToFinish**, **pjFinishToStart**, **pjStartToFinish**, or **pjStartToStart**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

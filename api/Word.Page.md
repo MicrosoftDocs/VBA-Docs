@@ -63,3 +63,5 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

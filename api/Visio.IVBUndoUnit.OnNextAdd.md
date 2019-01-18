@@ -37,4 +37,4 @@ When an undo unit receives an  **OnNextAdd** notification, it communicates back 
 
 For more information about the using the  **OnNextAdd** method and using the **IVBUndoUnit** interface to create undo units, search for "creating undo units" on MSDN.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Me.Application.MenuBar
 
 [AllModules Collection](Access.AllModules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

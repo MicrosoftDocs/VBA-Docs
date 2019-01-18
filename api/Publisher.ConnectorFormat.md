@@ -96,3 +96,4 @@ End With
 |[Parent](Publisher.ConnectorFormat.Parent.md)|
 |[Type](Publisher.ConnectorFormat.Type.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

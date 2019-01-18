@@ -29,3 +29,4 @@ Returns a  **[Frame](Word.Frame.md)** object that represents the frame formattin
 
 [Replacement Object](Word.Replacement.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

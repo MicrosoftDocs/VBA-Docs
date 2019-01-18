@@ -67,3 +67,4 @@ You can use this event to determine that a store has been removed, and take appr
 
 [Stores Object](Outlook.Stores.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

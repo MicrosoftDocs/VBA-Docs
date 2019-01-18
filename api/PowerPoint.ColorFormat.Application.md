@@ -64,3 +64,4 @@ Next
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Deletes the specified version.
 
 [Version Object](Word.Version.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

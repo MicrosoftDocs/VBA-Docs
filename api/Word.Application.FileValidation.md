@@ -39,3 +39,4 @@ Files that do not pass validation will be opened in a [Protected View window](Wo
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

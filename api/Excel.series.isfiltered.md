@@ -37,3 +37,4 @@ When a user filters out a series, the series  **IsFiltered** property switches t
 
 [Series Object](Excel.Series(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

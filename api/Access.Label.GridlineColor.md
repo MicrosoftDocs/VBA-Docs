@@ -36,3 +36,4 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

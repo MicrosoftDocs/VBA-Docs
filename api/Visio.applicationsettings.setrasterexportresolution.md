@@ -62,3 +62,5 @@ The _resolutionUnits_ parameter must be one of the following **VisRasterExportRe
 <br/>
 
 When the **SetRasterExportResolution** method runs successfully, the resulting settings will remain in effect until you either run the method again or change the settings in the user interface.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

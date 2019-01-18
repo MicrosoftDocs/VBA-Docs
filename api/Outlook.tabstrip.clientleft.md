@@ -28,4 +28,4 @@ For  **[ClientHeight](Outlook.tabstrip.clientheight.md)** and **[ClientWidth](Ou
 
 At run time,  **ClientLeft**,  **ClientTop**,  **ClientHeight**, and  **ClientWidth** automatically store the coordinates and dimensions of the **TabStrip** control's internal area, which is shared by objects in the **TabStrip**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

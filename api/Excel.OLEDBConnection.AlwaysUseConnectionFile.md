@@ -34,3 +34,4 @@ When this property is  **True** the connection file will always be used to estab
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

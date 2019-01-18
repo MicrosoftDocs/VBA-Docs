@@ -60,3 +60,4 @@ Conjunction can be one of these  **MsoFilterConjunction** constants.
 | **msoFilterConjunctionAnd**|
 | **msoFilterConjunctionOr**|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

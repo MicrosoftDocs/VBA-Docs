@@ -57,3 +57,4 @@ MsgBox Windows.Count & " windows open"
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

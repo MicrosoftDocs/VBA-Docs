@@ -42,3 +42,4 @@ An error occurs if the event handler for this event calls either the  **[Close](
 
 [Inspector Object](Outlook.Inspector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

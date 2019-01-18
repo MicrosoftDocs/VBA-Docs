@@ -35,3 +35,5 @@ Contains a collection of **[View](Project.View.md)** objects. The **[View](./Pro
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Accepts the changes on the server for a deliverable.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

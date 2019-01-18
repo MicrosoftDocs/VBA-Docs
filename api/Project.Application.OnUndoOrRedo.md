@@ -43,4 +43,4 @@ nothing
 
 You can use the  **OnUndoOrRedo** event to manage undo or redo actions that are specified by the global **OpenUndoTransaction** and **CloseUndoTransaction** methods.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

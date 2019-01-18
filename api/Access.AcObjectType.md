@@ -34,3 +34,4 @@ Specifies the type of object.
 |**acTable**|0|Table|
 |**acTableDataMacro**|12|Data macro|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

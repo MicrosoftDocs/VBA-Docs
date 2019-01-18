@@ -40,3 +40,4 @@ Charts("Chart1").Legend.LegendEntries(1).LegendKey _
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

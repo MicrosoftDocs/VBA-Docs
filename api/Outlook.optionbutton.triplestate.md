@@ -33,4 +33,4 @@ When  **TripleState** is **False**, the user can choose either  **True** or **Fa
 
 A control set to  **Null** does not initiate the **[Click](Outlook.optionbutton.click.md)** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

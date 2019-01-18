@@ -60,3 +60,4 @@ ChiSq_Test returns the value from the chi-squared ( 2 ) distribution for the sta
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

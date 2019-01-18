@@ -29,3 +29,4 @@ Specifies the default caption, the number of buttons, the button labels, and the
 | **olDefaultSingleName**|7|Displays no edit boxes for recipients, uses localized string representing "Select Name" for caption.  **ToLabel**,  **CcLabel**, and  **Bcclabel** are set to an empty string. Sets **AllowMultipleSelection** to **False** and **NumberOfRecipientSelectors** to **olNone**. |
 | **olDefaultTask**|3|Displays one edit box for To recipients, uses localized string representing "To" for To button, and localized string representing "Select Task Recipient" for caption.  **CcLabel** and **BccLabel** are set to an empty string. Sets **AllowMultipleSelection** to **True** and **NumberOfRecipientSelectors** to **olTo**.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

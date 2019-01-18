@@ -50,3 +50,4 @@ For reports, use the  **Format** and **Retreat** events to specify an event proc
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

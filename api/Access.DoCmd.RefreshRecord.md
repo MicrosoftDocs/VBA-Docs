@@ -34,3 +34,4 @@ In a client database, the  **RefreshRecord** method is equivalent to the **[Refr
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

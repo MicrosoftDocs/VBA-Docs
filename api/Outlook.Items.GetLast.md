@@ -39,3 +39,4 @@ It returns  **Nothing** if no last object exists, for example, if the collection
 
 [Items Object](Outlook.Items.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

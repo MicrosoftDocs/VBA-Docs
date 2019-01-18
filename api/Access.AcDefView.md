@@ -27,3 +27,4 @@ Use with the  **DefaultView** property to set or return the opening view of a fo
 |**acDefViewSingle**|0|(Default) Displays one record at a time.|
 |**acDefViewSplitForm**|5|Displays the form in Split Form view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

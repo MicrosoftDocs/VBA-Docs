@@ -36,3 +36,4 @@ This property is not surfaced in the property sheet.
 
 [Section Object](Access.Section.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

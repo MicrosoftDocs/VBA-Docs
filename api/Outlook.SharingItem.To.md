@@ -34,3 +34,4 @@ This property contains the display names only. The  **To** property corresponds 
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

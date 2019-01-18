@@ -38,3 +38,4 @@ Creates a Web presentation (in HTML format) containing slides from any loaded pr
 
 [Presentation Object](PowerPoint.Presentation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

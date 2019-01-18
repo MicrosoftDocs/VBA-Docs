@@ -50,3 +50,4 @@ End With
 
 [CellRange Object](PowerPoint.CellRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

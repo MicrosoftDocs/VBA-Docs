@@ -29,3 +29,4 @@ Deletes the  **FirstLetterException** object.
 
 [FirstLetterException Object](Word.FirstLetterException.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

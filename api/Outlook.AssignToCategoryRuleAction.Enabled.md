@@ -34,3 +34,4 @@ After you enable a rule, you must also save the rule by using  **[Rules.Save](Ou
 
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

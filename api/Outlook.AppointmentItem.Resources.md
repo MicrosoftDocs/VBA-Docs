@@ -34,3 +34,4 @@ This property contains the display names only. The  **[Recipients](Outlook.Recip
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

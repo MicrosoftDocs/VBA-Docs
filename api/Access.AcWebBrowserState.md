@@ -26,3 +26,4 @@ Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to det
 |**acLoading**|1|The Web Browser control is loading a new document.|
 |**acUnintialized**|0|No document is currently loaded.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

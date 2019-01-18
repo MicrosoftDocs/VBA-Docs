@@ -38,4 +38,4 @@ The string returned by  **DataAsXML** contains all the rows in the data recordse
 
 The string returned by  **DataAsXML** contains all the valid rows and columns in the data recordset that was imported as well as an additional column, named _Visio_RowID_, inserted as the first column, that assigns a unique row ID to each row in the data recordset.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

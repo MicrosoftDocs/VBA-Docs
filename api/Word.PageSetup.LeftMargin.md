@@ -44,3 +44,4 @@ ActiveDocument.Sections(2).PageSetup.LeftMargin = 72
 
 [PageSetup Object](Word.PageSetup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns the hyperlink type. Read-only  **MsoHyperlinkType**.
 
 [Hyperlink Object](Word.Hyperlink.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

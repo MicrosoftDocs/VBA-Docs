@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.TaskRequestDeclineItem.Close(method).md)** met
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

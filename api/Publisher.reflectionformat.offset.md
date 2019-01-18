@@ -33,3 +33,4 @@ Returns or sets the amount of separation, in points, of the reflected image from
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

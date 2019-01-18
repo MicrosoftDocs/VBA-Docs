@@ -29,4 +29,4 @@ To create an  **Event** object that runs an add-on, use the **Add** method of an
 
 To create an  **Event** object that sends a notification, use the **AddAdvise** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

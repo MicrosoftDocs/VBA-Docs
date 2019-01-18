@@ -34,3 +34,4 @@ To display an item, you can use [DocumentItem.Display](Outlook.DocumentItem.Disp
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

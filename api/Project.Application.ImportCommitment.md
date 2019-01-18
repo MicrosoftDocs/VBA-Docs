@@ -42,4 +42,4 @@ Imports the specified deliverable into a project.
 
 In this method, the term  _commitment_ is synonymous with the _deliverable_ feature in Project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

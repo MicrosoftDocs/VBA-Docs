@@ -39,3 +39,4 @@ To change equations to professional format, use the  **[BuildUp](Word.OMaths.Bui
 
 [OMaths Object](Word.OMaths.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

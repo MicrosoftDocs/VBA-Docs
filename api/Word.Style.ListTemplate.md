@@ -34,3 +34,4 @@ A list template includes all the formatting that defines a particular list. Each
 
 [Style Object](Word.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

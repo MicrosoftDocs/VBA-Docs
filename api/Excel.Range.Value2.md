@@ -44,3 +44,4 @@ Range("a1").Value2 = Range("b1").Value2 + Range("c1").Value2
 
 [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

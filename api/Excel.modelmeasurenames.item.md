@@ -41,3 +41,4 @@ A [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object contained 
 
 [ModelMeasureNames Object](Excel.modelmeasurenames.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

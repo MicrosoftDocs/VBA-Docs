@@ -48,3 +48,4 @@ The  **Shape** property uses the following settings.
 
 [CommandButton Object](Access.CommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

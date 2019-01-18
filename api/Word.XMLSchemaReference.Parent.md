@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **XMLS
 
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,5 @@ You can't add or delete a  **Form** object from the **Forms** collection.
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [Forms Object Members](overview/Access.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

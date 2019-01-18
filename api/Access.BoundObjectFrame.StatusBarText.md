@@ -56,3 +56,4 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

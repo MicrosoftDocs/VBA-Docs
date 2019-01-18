@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Colo
 
 [ColorFormat Object](Word.ColorFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

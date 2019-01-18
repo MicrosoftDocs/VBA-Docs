@@ -34,3 +34,4 @@ The value of the  **ShapeStyle** property can be one of the **[MsoShapeStyleInde
 
 [Shape Object](PowerPoint.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

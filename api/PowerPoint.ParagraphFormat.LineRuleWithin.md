@@ -75,3 +75,4 @@ MsgBox "Current line spacing: " & ls & lsUnits
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,3 +56,4 @@ Returns or sets the distance from the left edge of the object to the left edge o
 _expression_. **Left**
  _expression_ Required. An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ End If
 
 [OLEFormat Object](Word.OLEFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

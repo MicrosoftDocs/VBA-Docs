@@ -39,4 +39,4 @@ After you run a  **Compare Projects** command, Project displays the **COMPARE PR
 
 To compare resources in a comparison report, use the  **[ResourceComparison](Project.Application.ResourceComparison.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

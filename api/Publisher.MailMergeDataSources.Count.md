@@ -28,4 +28,4 @@ Returns the number of  **MailMergeDataSource** objects in the **MailMergeDataSou
 
 Long
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

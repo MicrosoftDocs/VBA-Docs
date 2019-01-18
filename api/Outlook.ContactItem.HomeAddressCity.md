@@ -34,3 +34,4 @@ This property is parsed from the  **[HomeAddress](Outlook.ContactItem.HomeAddres
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

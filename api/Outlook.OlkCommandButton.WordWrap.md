@@ -34,3 +34,4 @@ The default value is  **True**.
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

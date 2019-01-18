@@ -38,4 +38,4 @@ Action text is a string that describes the action on the  **Undo**,  **Redo**, a
 
 If the  **ActionText** property is empty and the object's **CmdNum** property is set to one of the Microsoft Visio built-in command IDs, the item uses the default action text from the built-in Visio user interface.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

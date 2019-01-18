@@ -202,3 +202,4 @@ Specifies the shape type for an  **AutoShape** object.
 |**msoShapeVerticalScroll**|101|Vertical scroll.|
 |**msoShapeWave**|103|Wave.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

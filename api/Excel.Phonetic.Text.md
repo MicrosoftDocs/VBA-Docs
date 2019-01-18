@@ -34,3 +34,4 @@ For the  **[Phonetic](Excel.Phonetic.md)** object, this property returns or sets
 
 [Phonetic Object](Excel.Phonetic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,3 +48,4 @@ The name you specify when you add a named slide show is the name you use as an a
 
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

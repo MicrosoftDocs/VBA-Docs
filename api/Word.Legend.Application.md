@@ -44,3 +44,4 @@ End If
 
 [Legend Object](Word.Legend.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ When you change the type of a shape, the shape retains its size, color, and othe
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

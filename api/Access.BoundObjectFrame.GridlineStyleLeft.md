@@ -40,3 +40,4 @@ The  **BottomGridlineWidth** property uses the following settings.
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

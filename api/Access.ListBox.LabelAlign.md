@@ -48,3 +48,4 @@ When created, controls have an attached label (as long as their  **AutoLabel** p
 
 [ListBox Object](Access.ListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

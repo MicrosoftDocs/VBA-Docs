@@ -40,5 +40,5 @@ Several methods use the  **PjOrganizer** enumeration. See the following:
 - [Application.OrganizerDeleteItem](Project.Application.OrganizerDeleteItem.md) method
     
 - [Project.GetDisplayNameFromObjectMatchingID](Project.Project.GetDisplayNameFromObjectMatchingID.md) method
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

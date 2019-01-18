@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of HTML DIV elements in the colle
 
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

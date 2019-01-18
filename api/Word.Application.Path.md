@@ -66,3 +66,4 @@ If AddIns.Count >= 1 Then MsgBox AddIns(1).Path
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

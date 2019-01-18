@@ -43,3 +43,4 @@ The setting of the  **RotateWithObject** property corresponds to the setting of 
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

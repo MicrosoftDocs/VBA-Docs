@@ -34,3 +34,4 @@ The parent of the  **[Store](Outlook.Store.md)** object is the **[NameSpace](Out
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

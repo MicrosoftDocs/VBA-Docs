@@ -40,3 +40,4 @@ ActiveDocument.Paragraphs(1) _
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

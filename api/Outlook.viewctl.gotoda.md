@@ -32,3 +32,4 @@ Opens a calendar view of a specific date.
 |:-----|:-----|:-----|:-----|
 | _newDate_|Required| **String**|The specific date in the calendar to view.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

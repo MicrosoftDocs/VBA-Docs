@@ -20,4 +20,4 @@ Gets or sets a string that represents the description of the building block. Rea
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

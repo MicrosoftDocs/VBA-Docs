@@ -35,4 +35,4 @@ Layout options can be set with the  **Layout** method.
 
 The  **LayoutNow** method is only available when a Network Diagram or Calendar view is active.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

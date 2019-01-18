@@ -52,3 +52,4 @@ End With
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

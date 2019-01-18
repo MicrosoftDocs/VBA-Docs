@@ -47,3 +47,4 @@ If you try to add a mix of both sheets and named items to the  **[ServerViewable
 
 [ServerViewableItems Object](Excel.ServerViewableItems.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,5 @@ Gets or sets the shadow formatting properties for the shape range. Read-only  **
 
 [ShapeRange Object](Project.shaperange.md)
 [ShadowFormat](https://msdn.microsoft.com/library/office/ff195339%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

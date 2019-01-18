@@ -86,3 +86,4 @@ The array form of LOOKUP is very similar to the HLOOKUP and VLOOKUP functions. T
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -67,3 +67,4 @@ End Sub
 |[Type](Publisher.ShadowFormat.Type.md)|
 |[Visible](Publisher.ShadowFormat.Visible.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

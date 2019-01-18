@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [CheckBox.Click Event (Outlook Forms Script)](Outlook.checkbox.click.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,3 +47,4 @@ Constants that specify type of file to save as, passed to the  **SaveAs** method
 |**ppSaveAsXMLPresentation**|34|
 |**ppSaveAsXPS**|33|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

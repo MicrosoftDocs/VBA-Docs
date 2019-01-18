@@ -29,3 +29,4 @@ Returns or sets a  **[WdOMathJc](Word.WdOMathJc.md)** that represents the justif
 
 [OMath Object](Word.OMath.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

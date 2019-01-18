@@ -39,3 +39,4 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

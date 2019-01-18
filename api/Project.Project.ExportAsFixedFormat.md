@@ -58,4 +58,4 @@ If the active project shows a Network Diagram view, the following example create
 ExportAsFixedFormat FileName:="TestProject.xps", FileType:=pjXPS
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

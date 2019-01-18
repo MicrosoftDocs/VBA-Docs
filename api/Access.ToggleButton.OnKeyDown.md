@@ -57,3 +57,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyDown
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

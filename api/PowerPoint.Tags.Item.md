@@ -60,3 +60,4 @@ Next
 
 [Tags Object](PowerPoint.Tags.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

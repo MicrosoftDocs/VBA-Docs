@@ -66,3 +66,4 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 |[Name](Publisher.Plate.Name.md)|
 |[Parent](Publisher.Plate.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

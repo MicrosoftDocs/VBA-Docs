@@ -35,4 +35,4 @@ If the indicated window is the only window open for a document and the document 
 
 If you close a docked stencil window, only that window is closed. However, if you close a drawing window that contains docked stencils, the docked stencil window is also closed.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

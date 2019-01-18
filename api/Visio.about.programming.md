@@ -184,4 +184,4 @@ In your Visual Studio project, in the Form1.cs file, add the following code to i
 </code>
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

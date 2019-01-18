@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **Docu
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,3 +36,4 @@ Microsoft Access adds the prefix portion of an event procedure name to the event
 
 [CheckBox Object](Access.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -67,3 +67,4 @@ Next
 
 [Selection Object](PowerPoint.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

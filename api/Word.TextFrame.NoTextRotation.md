@@ -34,3 +34,4 @@ Only the  **MsoTriState** constants **msoFalse** and **msoTrue** can be used to 
 
 [TextFrame Object](Word.TextFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,3 +22,4 @@ Constants that represent column width in reading layout, passed to and returned 
 | **wdColumnWidthNarrow**|1|Narrow column width.|
 | **wdColumnWidthWide**|3|Wide column width.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of list galleries in the collecti
 
 [ListGalleries Collection Object](Word.listgalleries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

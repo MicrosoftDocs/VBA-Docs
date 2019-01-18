@@ -34,3 +34,4 @@ When opening a database in Access that was created in an earlier version of Micr
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

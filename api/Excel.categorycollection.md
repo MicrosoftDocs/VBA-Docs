@@ -17,5 +17,4 @@ Represents the collection of visible chart categories in the chart.
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

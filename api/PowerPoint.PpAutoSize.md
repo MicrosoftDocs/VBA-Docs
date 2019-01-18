@@ -21,3 +21,4 @@ Specifies whether the size of the specified shape is changed automatically to fi
 |**ppAutoSizeNone**|0|Does not change size.|
 |**ppAutoSizeShapeToFitText**|1|Auto sizes the shape to fit the text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

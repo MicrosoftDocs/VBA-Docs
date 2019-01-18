@@ -50,4 +50,4 @@ ActiveDocument.ColorScheme _
  = Application.ColorSchemes("Alpine")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

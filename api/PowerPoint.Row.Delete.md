@@ -34,3 +34,4 @@ Attempting to delete the only existing row in a table will result in a run-time 
 
 [Row Object](PowerPoint.Row.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

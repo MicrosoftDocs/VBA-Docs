@@ -30,3 +30,4 @@ Data-column-property constants passed to the  **[DataColumn.SetProperty](Visio.D
 | **visDataColumnPropertyUnits**|4|Units property of the data column.|
 | **visDataColumnPropertyVisible**|7|Whether the data-column property is visible in the UI, and therefore if the data column participates in data linking. For shapes linked to data rows in a data recordset, only visible columns populate shape data items in the shape.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

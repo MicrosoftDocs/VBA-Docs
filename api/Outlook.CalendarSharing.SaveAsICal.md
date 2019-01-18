@@ -201,3 +201,4 @@ End Sub
 
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

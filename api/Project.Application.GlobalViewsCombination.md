@@ -28,4 +28,4 @@ Gets or sets a  **[ViewsCombination](Project.ViewCombination.md)** collection re
 
  You can also add a combination view to the enterprise global template. First open the enterprise global template, making it the active project, and then run the **Add** method of the **ViewsCombination** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ This event occurs before an attachment is previewed, either from the attachment 
 
 [ReportItem Object](Outlook.ReportItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

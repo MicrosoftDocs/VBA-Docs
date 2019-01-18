@@ -41,3 +41,4 @@ End If
 
 [Adjustments Object](Excel.Adjustments.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

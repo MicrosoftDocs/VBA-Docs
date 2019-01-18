@@ -33,3 +33,5 @@ Gets a  **ThreeDFormat** object that contains 3-D formatting properties for the 
 
 [ShapeRange Object](Project.shaperange.md)
 [ThreeDFormat](https://msdn.microsoft.com/library/office/ff836783%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

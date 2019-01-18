@@ -33,4 +33,4 @@ Appends text to the Notes field.
 
 New text is added with the formatting in use at the end of any existing notes.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

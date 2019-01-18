@@ -34,3 +34,4 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

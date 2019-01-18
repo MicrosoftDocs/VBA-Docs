@@ -36,4 +36,4 @@ Boolean
 
 You can use any  **UIObject** object to get or set this property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

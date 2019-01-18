@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [CommandButton Properties (Outlook Forms Script)](Outlook.commandbutton(properties).md)
     
 -  [CommandButton Events (Outlook Forms Script)](Outlook.commandbutton(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

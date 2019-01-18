@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 If the current folder is a file system folder, or if Outlook  **Today** or any folder with a current Web view is currently displayed, this property returns an empty collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

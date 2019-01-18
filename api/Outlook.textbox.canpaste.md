@@ -27,4 +27,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 If the Clipboard data is in a format that the object does not support, the  **CanPaste** property is **False**. For example, if you try to paste a bitmap into an object that only supports text,  **CanPaste** will be **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

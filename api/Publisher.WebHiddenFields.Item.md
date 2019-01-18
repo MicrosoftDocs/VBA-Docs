@@ -36,4 +36,4 @@ Returns a  **String** corresponding to the value of a hidden field in a Web form
 
 String
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

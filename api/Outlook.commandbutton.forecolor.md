@@ -30,4 +30,4 @@ RGB(15,200,75)
 
 Use the  **ForeColor** property for controls on forms to make them easy to read or to convey a special meaning. For example, if a text box reports the number of units in stock, you can change the color of the text when the value falls below the reorder level.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [ProtectedViewWindows](Excel.Protected
 
 [ProtectedViewWindows Object](Excel.ProtectedViewWindows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

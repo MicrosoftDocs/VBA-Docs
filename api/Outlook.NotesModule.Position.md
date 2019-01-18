@@ -41,3 +41,4 @@ Changing the value of this property for a given  **NotesModule** object changes 
 
 [NotesModule Object](Outlook.NotesModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

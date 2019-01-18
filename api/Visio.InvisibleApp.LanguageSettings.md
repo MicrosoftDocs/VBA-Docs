@@ -33,6 +33,6 @@ Object
 
 After you use the  **LanguageSettings** property to get a reference to the MSO **LanguageSettings** interface, you can use methods of that interface to get the locale identifier (LCID) for the language used when Office was installed, the user interface (UI) language, and the language for Help, as well as the current setting for the preferred language for editing in the UI.
 
-However, you cannot use the  **LanguageSettings** interface to change language settings: you can change language settings only in the **Microsoft Office Language Settings 2007** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office 2007 Language Settings**. 
+However, you cannot use the  **LanguageSettings** interface to change language settings: you can change language settings only in the **Microsoft Office Language Settings 2007** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office 2007 Language Settings**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

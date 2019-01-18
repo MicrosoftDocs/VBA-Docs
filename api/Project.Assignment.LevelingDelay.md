@@ -27,4 +27,4 @@ Project recalculates the leveling delay as resources are leveled across the proj
 
 The  **LevelingDelay** property does not return any meaningful information for assignments of material resources. Setting a value returns a trappable error (error code 1101) when applied to assignments of material resources.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

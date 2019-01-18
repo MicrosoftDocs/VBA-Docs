@@ -28,4 +28,4 @@ The  **ListIndex** property contains an index of the selected row in a list. Val
 
 The  **ListIndex** value is also available by setting the **[BoundColumn](Outlook.combobox.boundcolumn.md)** property to 0 for a combo box. If **BoundColumn** is 0, the underlying data source to which the combo box is bound contains the same list index value as **ListIndex**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

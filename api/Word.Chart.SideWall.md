@@ -29,3 +29,4 @@ Returns a  **[Walls](Word.Walls.md)** object that allows the user to individuall
 
 [Chart Object](Word.Chart.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

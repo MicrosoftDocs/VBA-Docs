@@ -23,3 +23,4 @@ Specifies the text color for the outline pane and the background color for the o
 |**ppFrameColorsPresentationSchemeTextColor**|2|Use the Presentation Scheme Text Color.|
 |**ppFrameColorsWhiteTextOnBlack**|4|Use Black text on a White frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

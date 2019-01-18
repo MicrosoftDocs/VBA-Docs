@@ -234,3 +234,4 @@ Specifies the language identifier.
 |**msoLanguageIDYoruba**|1130|The Yoruba language.|
 |**msoLanguageIDZulu**|1077|The Zulu language.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

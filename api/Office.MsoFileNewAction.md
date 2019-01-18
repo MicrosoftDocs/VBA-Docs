@@ -21,3 +21,4 @@ Specifies action to take when a user clicks an item in the task pane. Used with 
 |**msoEditFile**|0|Edit file.|
 |**msoOpenFile**|2|Open file.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

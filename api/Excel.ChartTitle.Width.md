@@ -34,3 +34,4 @@ Double
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

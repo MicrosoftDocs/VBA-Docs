@@ -34,3 +34,4 @@ Setting the  **DeferAsyncQueries** property to **True** prevents any asynchronou
 
 [Application Object](Excel.Application(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

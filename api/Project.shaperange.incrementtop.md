@@ -35,3 +35,5 @@ Moves each shape in the shape range vertically by the specified number of points
 
 
 [ShapeRange Object](Project.shaperange.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

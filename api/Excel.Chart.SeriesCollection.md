@@ -52,3 +52,4 @@ Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 
 [Chart Object](Excel.Chart(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

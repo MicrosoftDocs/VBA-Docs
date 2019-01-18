@@ -64,4 +64,4 @@ End Sub
 
 For an example that uses an enterprise resource custom field, see the  **[SetField](Project.Resource.SetField.md)** method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

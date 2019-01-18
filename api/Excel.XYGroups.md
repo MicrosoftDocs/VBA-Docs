@@ -31,4 +31,4 @@ This example sets X-Y group (scatter group) one to use a different color for eac
 myChart.XYGroups(1).VaryByCategories = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

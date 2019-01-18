@@ -21,3 +21,5 @@ This feature is only available in the [Open XML Format SDK](https://docs.microso
 
 - [IConverterPreferences object members](overview/Library-Reference/iconverterpreferences-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

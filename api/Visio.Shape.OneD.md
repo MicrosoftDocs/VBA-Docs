@@ -37,4 +37,4 @@ The  **OneD** property of a **Shape** object that is a guide is always 0. If you
 
 The  **OneD** property of an object from another application is always **False**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

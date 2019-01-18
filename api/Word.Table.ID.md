@@ -29,3 +29,4 @@ Returns or sets the identifying label for the specified table when the document 
 
 [Table Object](Word.Table.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

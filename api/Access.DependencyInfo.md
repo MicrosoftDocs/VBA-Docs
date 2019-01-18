@@ -39,3 +39,5 @@ To return the dependency information for an  **AccessObject** object, use the **
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

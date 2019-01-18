@@ -29,3 +29,4 @@ _expression_ A variable that represents a [UserProperty](./Outlook.UserProperty.
 
 [UserProperty Object](Outlook.UserProperty.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

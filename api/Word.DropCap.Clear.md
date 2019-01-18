@@ -40,3 +40,4 @@ If Not (drop Is Nothing) Then drop.Clear
 
 [DropCap Object](Word.DropCap.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

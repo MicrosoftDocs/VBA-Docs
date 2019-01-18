@@ -50,3 +50,4 @@ When you set the  **PictureTiling** property to Yes, tiling of the picture will 
 
 [Attachment Object](Access.Attachment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

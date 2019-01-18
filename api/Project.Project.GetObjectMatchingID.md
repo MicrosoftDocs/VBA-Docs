@@ -52,4 +52,4 @@ The following example gets the Matching ID of a View object with the display nam
 MsgBox(ActiveProject.GetObjectMatchingID(pjView, "Gantt Chart"))
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

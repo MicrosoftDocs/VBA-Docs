@@ -31,3 +31,4 @@ The  **Read** event differs from the **[Open](Outlook.JournalItem.Open.md)** eve
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

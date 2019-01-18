@@ -34,3 +34,4 @@ For file-based data sources (for example, Access) the  **SourceDataFile** proper
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

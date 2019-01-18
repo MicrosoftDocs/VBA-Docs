@@ -47,3 +47,4 @@ ActiveSheet.ChartObjects("Chart 1").Chart.PivotLayout.PivotTable.PivotColumnAxis
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

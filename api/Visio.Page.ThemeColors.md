@@ -46,4 +46,4 @@ You can set the  **ThemeColors** property value to any one of the following:
 
 The  **ThemeColors** property always returns the universal name of the current theme colors.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

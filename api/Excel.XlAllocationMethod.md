@@ -22,4 +22,4 @@ Specifies the method to use to allocate values when performing what-if analysis 
 
 If the **[AllocationMethod](Excel.PivotTable.AllocationMethod.md)** property is set to **xlWeightedAllocation**, you can optionally specify the weight expression to use by setting the **[AllocationWeightExpression](Excel.PivotTable.AllocationWeightExpression.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

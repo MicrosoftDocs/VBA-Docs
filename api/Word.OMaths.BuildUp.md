@@ -39,3 +39,4 @@ To change equations to linear format, use the  **[Linearize](Word.OMaths.Lineari
 
 [OMaths Object](Word.OMaths.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

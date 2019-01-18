@@ -48,3 +48,4 @@ If  _Custom_ parameter is **True** , only custom user properties will be searche
 
 [UserProperties Object](Outlook.UserProperties.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

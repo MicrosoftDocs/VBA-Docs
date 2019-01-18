@@ -35,4 +35,4 @@ The following code displays the number of pages in the current document in the  
 Debug.Print vsoViewer.PageCount
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

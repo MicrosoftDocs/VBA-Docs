@@ -34,3 +34,4 @@ This property replicates the property indicated by the  **[SelectedMailingAddres
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -16,4 +16,4 @@ localization_priority: Normal
 
 Returns a  **[Corners](Excel.Corners-graph-object.md)** object that represents the corners of the specified 3-D chart. Read-only.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,4 @@ If an [BinsUnderflowEnabled](Word.chartgroup.binsunderflowenabled.md) is **True*
 
 [ChartGroup Object](Word.ChartGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

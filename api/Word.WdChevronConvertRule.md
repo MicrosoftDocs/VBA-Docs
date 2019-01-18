@@ -22,3 +22,4 @@ Specifies rules for converting text enclosed in chevron characters (? ?) to merg
 | **wdAskToNotConvert**|2|The converter prompts the user to convert or not convert chevrons when a Word for the Macintosh document is opened.|
 | **wdNeverConvert**|0|The converter passes the text through without attempting any interpretation.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

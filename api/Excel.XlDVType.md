@@ -26,3 +26,4 @@ Specifies the type of validation test to be performed in conjunction with values
 | **xlValidateTime**|5|Time values.|
 | **xlValidateWholeNumber**|1|Whole numeric values.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

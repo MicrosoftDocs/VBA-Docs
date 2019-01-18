@@ -21,3 +21,4 @@ Contains constants that specify the type of action. Obsolete.
 |**pjMailEndFields**|0|Number of fields.|
 |**pjMailStartFields**|1|End of field definitions.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

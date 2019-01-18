@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of XML schemas in the collection.
 
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

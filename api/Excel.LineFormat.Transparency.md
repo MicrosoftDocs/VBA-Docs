@@ -34,3 +34,4 @@ The value of this property affects the appearance of solid-colored fills and lin
 
 [LineFormat Object](Excel.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

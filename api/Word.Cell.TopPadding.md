@@ -45,3 +45,4 @@ ActiveDocument.Tables(1).TopPadding = _
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

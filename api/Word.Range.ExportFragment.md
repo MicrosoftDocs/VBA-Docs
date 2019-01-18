@@ -37,4 +37,4 @@ localization_priority: Normal
 
 Nothing
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

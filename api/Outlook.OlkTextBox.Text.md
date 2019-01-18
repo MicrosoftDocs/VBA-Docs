@@ -36,3 +36,4 @@ The  **Text** property provides the same value as the **[Value](Outlook.OlkTextB
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

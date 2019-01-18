@@ -34,3 +34,4 @@ For controls, you can use the  **Section** property to determine which section o
 
 [CheckBox Object](Access.CheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

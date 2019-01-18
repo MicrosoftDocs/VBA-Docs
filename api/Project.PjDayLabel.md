@@ -23,3 +23,4 @@ Contains constants that specify the display format for days in a timescale.
 |**pjDayLabelDay_di**|20|Examples: M, T|
 |**pjDayLabelNoDateFormat**|35|No date is displayed.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

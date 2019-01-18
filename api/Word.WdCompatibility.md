@@ -79,3 +79,4 @@ Specifies a compatibility option.
 | **wdUseNormalStyleForList**|51|Use the Normal style instead of the List Paragraph style for bulleted or numbered lists.|
 | **wdWW11IndentRules**|55|Use Word 2003 indent rules for text next to wrapped objects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,3 +58,4 @@ The following example lists the subfolders in the current shared workspace.
 
 [SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

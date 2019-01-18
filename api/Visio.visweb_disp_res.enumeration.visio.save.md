@@ -31,3 +31,4 @@ Specifies the screen resolution for a Web page.
 | **res1920x1200**|13|1920 x 1200 pixels|
 | **resINVALID**|14|Reserved.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

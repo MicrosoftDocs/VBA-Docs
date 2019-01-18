@@ -33,4 +33,4 @@ Returns an array of  **Long** values that represent the collection of identifier
 
 If there are no callouts associated with the target shape, the  **CalloutsAssociated** property returns an empty array.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

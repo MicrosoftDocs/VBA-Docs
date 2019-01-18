@@ -24,3 +24,4 @@ Contains constants that specify which side or portion of a box to use for the al
 |**pjAlignRights**|2|Aligns the right edges of the boxes.|
 |**pjAlignTops**|3|Aligns the top edges of the boxes.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns or sets the width (in points) of the frame, in points. Read/write  **Lon
 
 [Frame Object](Word.Frame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

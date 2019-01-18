@@ -72,3 +72,4 @@ The type of Design Gallery object to add to the publication.
 | **pbWizardGroupWebSidebars**|104|Group Web Sidebars|
 | **pbWizardGroupWellPullQuotes**|103|Group Well Pull Quotes|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

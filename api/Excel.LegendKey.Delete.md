@@ -39,3 +39,4 @@ Deleting a  **[LegendKey](Excel.LegendKey(object).md)** object deletes the entir
 
 [LegendKey Object](Excel.LegendKey(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,4 @@ Represents the shape color type.
 | **pbColorTypeRGB**|1|RGB|
 | **pbColorTypeScheme**|2|Scheme|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

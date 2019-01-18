@@ -32,3 +32,4 @@ Returns of sets the join style for the specified line. Read-write.
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

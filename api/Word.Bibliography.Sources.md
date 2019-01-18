@@ -29,3 +29,4 @@ Returns a  **[Sources](Word.Sources.md)** collection that represents all the sou
 
 [Bibliography Object](Word.Bibliography.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,3 +26,5 @@ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 ## See also
 
 - [TransformedRowSource property](Access.Chart.TransformedRowSource.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

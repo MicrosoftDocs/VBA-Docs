@@ -48,3 +48,4 @@ MsgBox "AddHorizontalLine - WidthType = " _
 
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

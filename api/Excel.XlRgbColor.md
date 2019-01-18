@@ -160,3 +160,4 @@ Specifies the RGB color.
 | **rgbYellow**|65535|Yellow|
 | **rgbYellowGreen**|3329434|Yellow Green|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

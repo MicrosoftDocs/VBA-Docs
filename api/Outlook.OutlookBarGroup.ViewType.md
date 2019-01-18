@@ -34,3 +34,4 @@ This property does not have any effect on the icons displayed in the  **Shortcut
 
 [OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

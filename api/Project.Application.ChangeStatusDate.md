@@ -51,4 +51,4 @@ The following example changes the project status date to April 7, 2012.
 ChangeStatusDate("4/7/12")
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

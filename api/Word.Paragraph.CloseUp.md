@@ -50,3 +50,4 @@ Selection.Paragraphs(1).CloseUp
 
 [Paragraph Object](Word.Paragraph.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

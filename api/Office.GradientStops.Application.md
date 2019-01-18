@@ -34,3 +34,5 @@ You can use this property with an OLE **Automation** object to return the applic
 ## See also
 
 - [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Accessing the  **AddressEntry** property forces resolution of an unresolved reci
 
 [Recipient Object](Outlook.Recipient.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

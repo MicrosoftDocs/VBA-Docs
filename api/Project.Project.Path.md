@@ -25,4 +25,4 @@ Gets the path of the open project. Read-only  **String**.
 
 The  **Path** property returns an empty string ("") for an unsaved project.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

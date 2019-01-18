@@ -41,4 +41,4 @@ Levels the selected tasks to resolve resource conflicts or overallocations.
 
 The  **LevelSelected** method corresponds to the **Level Selection** command in the **Level** group on the **Resource** tab. The **Level Selection** command is enabled when more than one task is selected.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

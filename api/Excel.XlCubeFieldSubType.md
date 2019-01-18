@@ -34,4 +34,4 @@ Specifies the subtype of the CubeField.
 
  **Note**  The values have ?Cube? in the name in order to not overlap with the  **xlMeasure** and **xlSet** values for the **CubeFieldType** property. If the names are the same, autocomplete will not work in the Visual Basic environment because it finds ambiguous values.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,3 +28,4 @@ _expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md)
 
 - [AboveAverage object](Excel.AboveAverage.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

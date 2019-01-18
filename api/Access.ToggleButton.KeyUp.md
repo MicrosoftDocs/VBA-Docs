@@ -77,3 +77,4 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 
 [ToggleButton Object](Access.ToggleButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

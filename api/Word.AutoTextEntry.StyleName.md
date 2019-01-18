@@ -41,3 +41,4 @@ MsgBox myentry.StyleName
 
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

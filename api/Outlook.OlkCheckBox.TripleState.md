@@ -34,3 +34,4 @@ If this property is  **True** , the check box clicks through the three states. I
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

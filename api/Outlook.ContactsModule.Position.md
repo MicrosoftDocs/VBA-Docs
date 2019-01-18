@@ -41,3 +41,4 @@ Changing the value of this property for a given  **ContactsModule** object chang
 
 [ContactsModule Object](Outlook.ContactsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

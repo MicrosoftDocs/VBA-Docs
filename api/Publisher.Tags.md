@@ -80,3 +80,4 @@ End Sub
 |[Count](Publisher.Tags.Count.md)|
 |[Parent](Publisher.Tags.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

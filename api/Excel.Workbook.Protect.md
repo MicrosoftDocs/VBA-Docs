@@ -39,3 +39,4 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 [Workbook Object](Excel.Workbook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

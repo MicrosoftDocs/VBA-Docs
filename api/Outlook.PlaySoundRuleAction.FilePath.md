@@ -34,3 +34,4 @@ Returns an error if the path is invalid.
 
 [PlaySoundRuleAction Object](Outlook.PlaySoundRuleAction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

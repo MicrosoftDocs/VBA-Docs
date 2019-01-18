@@ -48,5 +48,4 @@ Shows the selection state of an item.
 |:-----|:-----|
 | [Click](Outlook.togglebutton.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

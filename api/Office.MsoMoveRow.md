@@ -22,3 +22,4 @@ This enumeration has been deprecated and should not be used.
 |**msoMoveRowNext**|-2|Internal use only.|
 |**msoMoveRowPrev**|-3|Internal use only.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

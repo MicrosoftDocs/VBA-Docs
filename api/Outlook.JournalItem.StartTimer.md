@@ -34,3 +34,4 @@ The  **[Duration](Outlook.JournalItem.Duration.md)** , **[End](Outlook.JournalIt
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

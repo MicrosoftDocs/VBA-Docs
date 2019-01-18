@@ -29,3 +29,4 @@ Returns or sets the default start-up mode for the Japanese Input Method Editor (
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

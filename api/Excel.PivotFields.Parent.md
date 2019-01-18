@@ -29,3 +29,4 @@ _expression_ A variable that represents a [PivotFields](Excel.PivotFields.md) ob
 
 [PivotFields Object](Excel.PivotFields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

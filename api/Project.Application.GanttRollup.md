@@ -37,4 +37,4 @@ Specifies the rollup behavior of bars on the Gantt Chart.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

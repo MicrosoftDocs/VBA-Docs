@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [ChartFormat Object](Word.ChartFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

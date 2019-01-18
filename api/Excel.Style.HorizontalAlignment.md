@@ -34,3 +34,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [Style Object](Excel.Style.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

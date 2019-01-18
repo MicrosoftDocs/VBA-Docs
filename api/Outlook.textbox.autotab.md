@@ -27,4 +27,4 @@ The  **[MaxLength](Outlook.textbox.maxlength.md)** property specifies the maximu
 
 You can specify the  **AutoTab** property for a **TextBox** on a form for which you usually enter a set number of characters. Once a user enters the maximum number of characters, the focus automatically moves to the next control in the tab order. For example, if a **TextBox** displays inventory stock numbers that are always five characters long, you can use **MaxLength** to specify the maximum number of characters to enter into the **TextBox** and **AutoTab** to automatically tab to the next control after the user enters five characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

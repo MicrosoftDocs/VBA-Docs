@@ -24,3 +24,4 @@ Defines how to align specified objects relative to one another.
 |**msoAlignRights**|2|Align right sides of specified objects.|
 |**msoAlignTops**|3|Align tops of specified objects.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

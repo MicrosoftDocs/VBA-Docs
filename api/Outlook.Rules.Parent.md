@@ -34,3 +34,4 @@ The parent of the  **Rules** object is the **[Store](Outlook.Store.md)** object.
 
 [Rules Object](Outlook.Rules.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

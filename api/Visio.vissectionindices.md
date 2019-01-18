@@ -43,3 +43,4 @@ Logical indices of ShapeSheet sections for  **Shape** or **Style** objects.
 | **visSectionTextField**|8|Stores an object's text fields.|
 | **visSectionUser**|242|Stores cells created and used by an external solution.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

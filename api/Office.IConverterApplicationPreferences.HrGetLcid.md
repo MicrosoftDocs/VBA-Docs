@@ -38,3 +38,5 @@ _expression_ An expression that returns an **[IConverterApplicationPreferences](
 ## See also
 
 - [IConverterApplicationPreferences object members](overview/Library-Reference/iconverterapplicationpreferences-members-office.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

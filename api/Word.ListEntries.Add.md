@@ -59,3 +59,4 @@ End With
 
 [ListEntries Collection Object](Word.listentries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

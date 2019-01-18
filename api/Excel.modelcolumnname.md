@@ -17,5 +17,4 @@ An object representing the name of a column in the data model.
 
 ## See also
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

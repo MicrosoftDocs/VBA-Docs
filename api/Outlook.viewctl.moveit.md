@@ -18,4 +18,4 @@ Displays the Microsoft Outlook  **Move Items** dialog box for the items that are
 
 _expression_ A variable that represents a  **ViewCtl** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

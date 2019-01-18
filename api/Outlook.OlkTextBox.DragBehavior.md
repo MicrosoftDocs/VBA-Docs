@@ -34,3 +34,4 @@ The default value is  **olDragDropDisabled**.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of tables of contents in the coll
 
 [TablesOfContents Collection Object](Word.tablesofcontents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

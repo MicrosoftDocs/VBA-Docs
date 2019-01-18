@@ -34,4 +34,4 @@ You can cancel this event to prevent the user from changing the view in the View
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

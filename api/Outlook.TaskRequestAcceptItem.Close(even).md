@@ -41,3 +41,4 @@ If you use the  **[Close](Outlook.TaskRequestAcceptItem.Close(method).md)** meth
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

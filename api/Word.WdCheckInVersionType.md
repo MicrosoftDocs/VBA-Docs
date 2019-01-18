@@ -21,3 +21,4 @@ Specifies the type of version for the document checked in when using the  **Chec
 | **wdCheckInMinorVersion**|0|Minor version.|
 | **wdCheckInOverwriteVersion**|2|Overwrite current version on the server.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

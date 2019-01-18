@@ -38,3 +38,4 @@ An error is returned if the account is not associated with an Exchange Server th
 
 [Account Object](Outlook.Account.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

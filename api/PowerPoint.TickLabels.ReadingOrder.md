@@ -29,3 +29,4 @@ Returns or sets an  **[xlReadingOrder](PowerPoint.XlReadingOrder.md)** constant 
 
 [TickLabels Object](PowerPoint.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

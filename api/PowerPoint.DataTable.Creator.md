@@ -26,3 +26,4 @@ _expression_ A variable that represents a '[DataTable](PowerPoint.DataTable.md)'
 
 [DataTable Object](PowerPoint.DataTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

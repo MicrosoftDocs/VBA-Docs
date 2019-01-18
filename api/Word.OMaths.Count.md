@@ -29,3 +29,4 @@ Returns the number of items in the  **OMaths** collection. Read-only **Long**.
 
 [OMaths Object](Word.OMaths.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

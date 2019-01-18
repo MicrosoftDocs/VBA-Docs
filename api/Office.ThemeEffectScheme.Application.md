@@ -35,3 +35,4 @@ Object
 
 [ThemeEffectScheme Object Members](./overview/Library-Reference/themeeffectscheme-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

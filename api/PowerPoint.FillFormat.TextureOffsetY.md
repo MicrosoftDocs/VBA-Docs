@@ -36,3 +36,4 @@ The setting of the  **TextureHorizontalScale** property corresponds to the setti
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

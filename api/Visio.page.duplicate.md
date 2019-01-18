@@ -37,3 +37,4 @@ The duplicated page is inserted immediately after the original page in the docum
 
 [Page Object](Visio.Page.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

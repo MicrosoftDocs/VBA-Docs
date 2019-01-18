@@ -33,4 +33,4 @@ IDataObject
 
 By using the  **DefaultRectangleDataObject** property to get an **IDataObject** interface, you can create a new rectangle shape linked to data—a result similar to that you would get by dragging a data recordset row onto the page. This property is useful in situations where no master is selected in a docked stencil.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

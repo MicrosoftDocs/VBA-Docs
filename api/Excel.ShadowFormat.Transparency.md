@@ -48,3 +48,4 @@ End With
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

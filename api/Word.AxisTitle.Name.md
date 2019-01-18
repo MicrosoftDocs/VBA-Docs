@@ -29,3 +29,4 @@ Returns a  **String** value that represents the name of the object.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

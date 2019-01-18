@@ -58,3 +58,4 @@ End If
 
 [List Object](Word.List.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ Charts("Chart1").Axes(xlCategory).TickMarkSpacing = 10
 
 [Axis Object](Excel.Axis(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

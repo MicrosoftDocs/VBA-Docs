@@ -40,3 +40,5 @@ Adds an  **Assignment** object to an **Assignments** collection.
 
 
 [Assignments Collection Object](Project.assignments.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

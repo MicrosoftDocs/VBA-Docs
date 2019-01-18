@@ -25,3 +25,4 @@ Specifies the reason why protected view is being closed.
 |**ppProtectedViewCloseForced**|**2**||
 |**ppProtectedViewCloseNormal**|**0**||
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,5 +50,4 @@ The following example shows a custom yes/no format for a text box control. The c
 - [Number and Currency](Access.format.propertynumber.and.currency.md)
 - [Text and Memo](Access.format.propertytext.and.memo.md)
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

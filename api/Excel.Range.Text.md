@@ -47,3 +47,4 @@ MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
 
 - [Range Object](Excel.Range(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

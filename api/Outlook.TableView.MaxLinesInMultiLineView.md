@@ -34,3 +34,4 @@ This property can be set to a value between 2 and 20. If this property is set to
 
 [TableView Object](Outlook.TableView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

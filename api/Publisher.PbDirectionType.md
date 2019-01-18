@@ -23,3 +23,4 @@ Represents a global Microsoft Publisher option, indicating whether text flows fr
 | **pbDirectionLeftToRight**|1|Left to Right|
 | **pbDirectionRightToLeft**|2|Right to Left|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

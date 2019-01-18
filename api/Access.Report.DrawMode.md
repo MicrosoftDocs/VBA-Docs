@@ -59,3 +59,4 @@ Use this property to produce visual effects when drawing on a report. Microsoft 
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

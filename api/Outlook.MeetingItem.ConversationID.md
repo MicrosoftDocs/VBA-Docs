@@ -38,3 +38,4 @@ If the  **MeetingItem** object is created in a version of Microsoft Outlook earl
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,3 +39,4 @@ Charts("Chart1").ChartTitle.Shadow = True
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

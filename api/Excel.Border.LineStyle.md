@@ -50,3 +50,4 @@ End With
 
 [Border Object](Excel.Border(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

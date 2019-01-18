@@ -42,3 +42,4 @@ The  **ChangePivotCache** method can only be used with a **PivotTable** that use
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

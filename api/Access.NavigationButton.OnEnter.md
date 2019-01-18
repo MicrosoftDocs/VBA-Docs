@@ -57,3 +57,4 @@ Forms("Order Entry").Controls("OK").OnEnter = "Enter_Macro"
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

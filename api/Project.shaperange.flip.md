@@ -35,3 +35,5 @@ Flips each shape in the shape range around its horizontal or vertical axis.
 
 [ShapeRange Object](Project.shaperange.md)
 [MsoFlipCmd](https://msdn.microsoft.com/library/office/ff863040%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

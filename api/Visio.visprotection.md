@@ -25,3 +25,4 @@ Flags to be passed to or returned by the  **Document.Protection** property.
 | **visProtectShapes**|&H2|Protect document shapes from user customization.|
 | **visProtectStyles**|&H1|Protect document styles from user customization.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

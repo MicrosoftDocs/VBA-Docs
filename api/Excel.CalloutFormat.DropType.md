@@ -64,3 +64,4 @@ End With
 
 [CalloutFormat Object](Excel.CalloutFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -73,3 +73,4 @@ An error occurs if there is no data on the Clipboard when the  **PasteSpecial** 
 
 [TextRange Object](PowerPoint.TextRange.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

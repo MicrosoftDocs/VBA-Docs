@@ -30,4 +30,4 @@ This example applies pictures to the front of all points in series one. The seri
 myChart.SeriesCollection(1).ApplyPictToFront = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

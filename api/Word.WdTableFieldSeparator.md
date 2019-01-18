@@ -22,3 +22,4 @@ Specifies the character to use to separate text into cells when converting text 
 | **wdSeparateByParagraphs**|0|Paragraph markers.|
 | **wdSeparateByTabs**|1|A tab.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

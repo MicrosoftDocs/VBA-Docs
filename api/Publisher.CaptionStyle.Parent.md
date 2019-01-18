@@ -20,4 +20,4 @@ Returns the parent of the  **CaptionStyle** object. Read-only.
 
  _expression_ A variable that represents a  **CaptionStyle** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

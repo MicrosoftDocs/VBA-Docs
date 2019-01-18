@@ -79,3 +79,4 @@ End If
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

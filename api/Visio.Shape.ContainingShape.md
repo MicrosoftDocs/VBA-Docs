@@ -37,4 +37,4 @@ If the  **Shape** object is a top-level shape in its **Page** or **Master** obje
 
 If the  **Shape** object is the page sheet of a page or master, the **ContainingShape** property returns **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

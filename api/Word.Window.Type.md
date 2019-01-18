@@ -29,3 +29,4 @@ Returns the window type. Read-only  **[WdWindowType](Word.WdWindowType.md)**.
 
 [Window Object](Word.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

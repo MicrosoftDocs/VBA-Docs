@@ -41,3 +41,4 @@ Changing the value of this property for a given  **TasksModule** object changes 
 
 [TasksModule Object](Outlook.TasksModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

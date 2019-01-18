@@ -46,3 +46,4 @@ Contains constants that specify a view in Project.
 
 The  **PjViewType** enumeration is used in the [ViewApplyEx](Project.Application.ViewApplyEx.md) method.
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

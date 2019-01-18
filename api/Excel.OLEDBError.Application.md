@@ -44,3 +44,4 @@ End If
 
 [OLEDBError Object](Excel.OLEDBError.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

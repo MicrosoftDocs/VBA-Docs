@@ -43,4 +43,4 @@ txtHyperlink = ActiveDocument.Pages(1) _
 txtHyperlink.Text = "Go here"
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ For General and Right alignment when orientation is RTL,  **LabelX** and **Label
 
 [OptionButton Object](Access.OptionButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,4 @@ For any given session of Microsoft Visio, when the  **RasterExportDataCompressio
 
 The setting of the  **RasterExportDataCompression** property corresponds to the **Data compression** setting in the **BMP Output Options** or **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)** or **Tag Image File Format (*.tif)**, and then click  **Save**.)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

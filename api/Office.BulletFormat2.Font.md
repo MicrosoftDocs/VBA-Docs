@@ -30,3 +30,4 @@ Font2
 
 - [BulletFormat2 object members](overview/Library-Reference/bulletformat2-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

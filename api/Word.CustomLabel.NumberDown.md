@@ -48,3 +48,4 @@ MsgBox Prompt:= "Number of labels across " & numAcr & vbCr _
 
 [CustomLabel Object](Word.CustomLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

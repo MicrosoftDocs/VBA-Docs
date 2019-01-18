@@ -26,3 +26,5 @@ Gets or sets the rotation of the shape, in degrees. Read/write  **Single**.
 
 
 [Shape Object](Project.shape.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

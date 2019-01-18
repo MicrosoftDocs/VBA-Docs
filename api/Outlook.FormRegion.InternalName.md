@@ -36,3 +36,4 @@ The value of the  **InternalName** property is used by the add-in or Microsoft O
 
 [FormRegion Object](Outlook.FormRegion.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

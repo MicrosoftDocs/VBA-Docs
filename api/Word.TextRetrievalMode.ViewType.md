@@ -46,3 +46,4 @@ Msgbox myText
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

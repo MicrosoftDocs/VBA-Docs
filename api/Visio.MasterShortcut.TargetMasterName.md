@@ -35,4 +35,4 @@ The name specified by this property must be the target master's universal name, 
 
 When the user drops a master shortcut onto a drawing page, the application first locates the document identified by the shortcut's  **TargetDocumentName** property, and then it searches that document for a master whose universal name matches the shortcut's **TargetMasterName** property. Once located, the target master (not the shortcut) is used to create the new shape instance on the drawing page.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

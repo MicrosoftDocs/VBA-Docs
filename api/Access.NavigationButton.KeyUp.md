@@ -78,3 +78,4 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

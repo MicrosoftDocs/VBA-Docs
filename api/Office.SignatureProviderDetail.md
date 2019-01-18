@@ -21,3 +21,4 @@ Specifies properties of a signature provider.
 |**sigprovdetUIOnly**|2|Indicates that the signature provider only uses a custom user interface.|
 |**sigprovdetUrl**|0|The URL of the signature provider.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

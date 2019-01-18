@@ -49,3 +49,4 @@ Some of these constants may not be available to you, depending on the language s
 
 [DataLabel Object](Word.DataLabel.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

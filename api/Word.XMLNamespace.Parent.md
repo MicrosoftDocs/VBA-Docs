@@ -29,3 +29,4 @@ Returns an  **Object** that represents the parent object of the specified **XMLN
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

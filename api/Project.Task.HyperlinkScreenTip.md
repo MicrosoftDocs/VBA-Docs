@@ -25,4 +25,4 @@ Gets or sets a ScreenTip for the hyperlink. Read/write  **String**.
 
 The  **HyperlinkScreenTip** property is limited to 255 characters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

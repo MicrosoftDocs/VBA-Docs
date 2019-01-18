@@ -34,3 +34,4 @@ This property corresponds to the MAPI property  **PidTagLanguage**.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

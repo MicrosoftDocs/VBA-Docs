@@ -33,3 +33,4 @@ The settings for  **VerticalScrollBarSide** are:
 |0|Puts the scroll bar on the right side (default).|
 |1|Puts the scroll bar on the left side.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

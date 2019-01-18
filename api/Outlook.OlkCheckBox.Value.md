@@ -34,3 +34,4 @@ For the check box control, this property is  **True** or **False** , or if the *
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

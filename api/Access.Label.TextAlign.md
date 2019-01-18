@@ -56,3 +56,4 @@ Forms("Suppliers").Controls("Address").TextAlign = 3
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

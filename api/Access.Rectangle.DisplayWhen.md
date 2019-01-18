@@ -50,3 +50,4 @@ For reports, use the  **Format** and **Retreat** events to specify an event proc
 
 [Rectangle Object](Access.Rectangle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

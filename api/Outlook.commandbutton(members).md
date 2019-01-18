@@ -43,5 +43,4 @@ Starts, ends, or interrupts an action or series of actions.
 |:-----|:-----|
 | [Click](Outlook.commandbutton.click.md)|Occurs when the user clicks inside the control.|
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

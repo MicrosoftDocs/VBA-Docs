@@ -34,3 +34,4 @@ The default value is  **olBackStyleOpaque**.
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

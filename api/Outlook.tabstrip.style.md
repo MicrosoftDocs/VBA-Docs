@@ -31,3 +31,4 @@ The settings of the  **Style** property are:
 |1|Displays buttons on the tab bar.|
 |2|Does not display the tab bar.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

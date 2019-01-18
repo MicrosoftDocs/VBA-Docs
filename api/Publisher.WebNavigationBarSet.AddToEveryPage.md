@@ -71,4 +71,4 @@ Set objWebNavBarSet = ActiveDocument.WebNavigationBarSets.AddSet( _
 objWebNavBarSet.AddToEveryPage Left:=50, Top:=10, Width:=500
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

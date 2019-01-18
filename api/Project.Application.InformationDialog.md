@@ -47,4 +47,4 @@ If a resource is selected, Tab can be one of the following  **PjInformationTab**
 
 If a task is selected, Tab can be one of the following  **PjInformationTab** constants: **pjTaskGeneralTab**, **pjTaskPredecessorsTab**, **pjTaskResourcesTab**, **pjTaskAdvancedTab**, or **pjTaskNotesTab**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

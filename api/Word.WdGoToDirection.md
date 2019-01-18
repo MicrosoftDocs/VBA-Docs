@@ -24,3 +24,4 @@ Specifies the position to which a selection or the insertion point is moved in r
 | **wdGoToPrevious**|3|The previous instance of the specified object.|
 | **wdGoToRelative**|2|A position relative to the current position.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

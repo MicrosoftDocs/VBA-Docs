@@ -37,3 +37,4 @@ You can use both the  **Update** method and the **AutoUpdate** property to updat
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

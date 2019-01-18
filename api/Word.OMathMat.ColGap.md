@@ -29,3 +29,4 @@ Returns or sets a  **Long** that represents the spacing between columns in a mat
 
 [OMathMat Object](Word.OMathMat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ If you create a control by dragging a field from the field list, the value in a 
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

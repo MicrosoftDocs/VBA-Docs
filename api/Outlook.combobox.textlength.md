@@ -21,4 +21,4 @@ _expression_. **TextLength**
 
 _expression_ A variable that represents a  **ComboBox** object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

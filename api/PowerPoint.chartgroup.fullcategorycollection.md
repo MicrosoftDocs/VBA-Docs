@@ -35,4 +35,4 @@ _expression_ A variable that represents a [ChartGroup](./PowerPoint.ChartGroup.m
 
  **OBJECT**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

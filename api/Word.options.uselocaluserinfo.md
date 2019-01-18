@@ -22,4 +22,4 @@ Returns or sets a Boolean; True if Microsoft Word identifies the document author
 ## Remarks
 Corresponds to setting of the Always use these values regardless of sign in to Office check box on the General tab of the Word Options dialog box.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

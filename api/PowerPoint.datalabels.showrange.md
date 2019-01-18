@@ -26,4 +26,4 @@ _expression_ A variable that represents a [DataLabels](./PowerPoint.DataLabels.m
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

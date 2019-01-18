@@ -47,3 +47,4 @@ The following example sets the line spacing to 0.25 inches for the text box "Pur
 
 [Label Object](Access.Label.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

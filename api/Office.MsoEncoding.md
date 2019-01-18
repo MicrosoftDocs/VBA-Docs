@@ -155,3 +155,4 @@ Specifies the document encoding (code page or character set) for the Web browser
 |**msoEncodingVietnamese**|1258|Vietnamese.|
 |**msoEncodingWestern**|1252|Western.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

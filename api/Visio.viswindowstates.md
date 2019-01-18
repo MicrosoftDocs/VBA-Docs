@@ -36,3 +36,4 @@ Window-state codes passed to and returned by the  **Window.WindowState** propert
 | **visWSRestored**|&H10000000|Window is restored.|
 | **visWSVisible**|&H8000000|Window is visible.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

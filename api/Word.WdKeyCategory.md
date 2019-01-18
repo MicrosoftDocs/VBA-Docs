@@ -27,3 +27,4 @@ Specifies the type of item assigned to the key binding.
 | **wdKeyCategoryStyle**|5|Key is assigned to a style.|
 | **wdKeyCategorySymbol**|6|Key is assigned to a symbol.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Variant
 
 [ChartObject Object](Excel.ChartObject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ For list containers, setting  **LockMembership** to **True** locks container mem
 
 The setting of the  **LockMembership** property corresponds to the setting of **Lock Container** in the **Membership** group on the **Container Tools Format** tab.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

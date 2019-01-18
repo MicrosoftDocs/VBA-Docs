@@ -38,4 +38,4 @@ This example clears cell B2 on the datasheet.
 myChart.Application.DataSheet.Range("A1").Item(2, 2).Clear
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

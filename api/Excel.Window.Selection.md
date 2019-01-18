@@ -57,3 +57,4 @@ MsgBox "The selection object type is " & TypeName(Selection)
 
 [Window Object](Excel.Window.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,3 +44,4 @@ End If
 
 [Axes Object](Word.Axes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

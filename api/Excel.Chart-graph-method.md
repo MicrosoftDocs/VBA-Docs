@@ -16,4 +16,4 @@ localization_priority: Normal
 
 Returns a  **Chart** object that represents the Microsoft Graph chart.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

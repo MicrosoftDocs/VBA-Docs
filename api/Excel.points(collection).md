@@ -35,4 +35,4 @@ Use  **Points**( _index_), where  _index_ is the point's index number, to return
 myChart.SeriesCollection(1).Points(3).MarkerStyle = xlDiamond
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

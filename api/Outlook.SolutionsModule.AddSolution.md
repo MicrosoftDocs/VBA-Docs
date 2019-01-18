@@ -64,3 +64,4 @@ By default, Outlook displays the  **Solutions** module after the **Tasks** modul
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

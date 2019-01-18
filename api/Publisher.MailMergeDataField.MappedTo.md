@@ -33,4 +33,4 @@ String
 
 The parent  **MailMergeDataField** object must represent a field (column) in a connected data source that is not the master data source (the combination of all connected data sources). The **MappedTo** property is not available for data fields in the data source represented by the **DataSource** property of the **MailMerge** object of the active **Document** object ( `ThisDocument.MailMerge.DataSource`).
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

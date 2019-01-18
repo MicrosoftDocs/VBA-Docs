@@ -56,3 +56,4 @@ End Sub
 |[Count](Publisher.ObjectVerbs.Count.md)|
 |[Parent](Publisher.ObjectVerbs.Parent.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

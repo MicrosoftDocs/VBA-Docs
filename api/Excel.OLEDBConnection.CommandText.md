@@ -36,3 +36,4 @@ The  **[CommandType](Excel.OLEDBConnection.CommandType.md)** property describes 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

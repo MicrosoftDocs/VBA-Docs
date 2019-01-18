@@ -29,3 +29,4 @@ Returns or sets a value that determines whether the object has a shadow. Read/wr
 
 [AxisTitle Object](Word.AxisTitle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

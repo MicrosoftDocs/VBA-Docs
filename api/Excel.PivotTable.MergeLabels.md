@@ -39,3 +39,4 @@ Worksheets(1).PivotTables(1).MergeLabels = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

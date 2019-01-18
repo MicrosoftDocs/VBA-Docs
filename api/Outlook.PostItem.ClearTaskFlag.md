@@ -34,3 +34,4 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.PostItem.IsMarkedAsTask
 
 [PostItem Object](Outlook.PostItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

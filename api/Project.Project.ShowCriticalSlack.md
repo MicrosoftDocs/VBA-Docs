@@ -25,4 +25,4 @@ Gets or sets how much slack causes a task to be displayed as a critical task. Re
 
 If the slack time of a task does not exceed the number of days returned by the  **ShowCriticalSlack** property, Project displays the task as critical.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

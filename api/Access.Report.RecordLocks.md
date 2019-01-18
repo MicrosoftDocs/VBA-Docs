@@ -54,3 +54,4 @@ You can use the All Records setting when you need to ensure that no changes are 
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Validation](./Excel.Validation.md) ob
 
 [Validation Object](Excel.Validation.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,3 +59,5 @@ ActiveWorkbook.Sheets.Add(After:=Worksheets(Worksheets.Count))
 
 > [!NOTE] 
 > In 32-bit Excel 2010, this method cannot create more than 255 sheets at one time.
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,3 +45,4 @@ This method creates a new document, and it also registers the specified blog acc
 
 [Documents Collection Object](Word.documents.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

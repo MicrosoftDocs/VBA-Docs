@@ -28,3 +28,4 @@ Specifies an object's view.
 |**acViewPreview**|2|Print Preview|
 |**acViewReport**|5|Report view|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

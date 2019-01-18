@@ -34,3 +34,4 @@ Only shared or linked folders can be programmatically removed from the Navigatio
 
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

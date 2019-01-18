@@ -42,3 +42,4 @@ Paragraph
 
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

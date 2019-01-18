@@ -86,3 +86,4 @@ Documents.Open FileName:="C:\Files\Doc.doc", ReadOnly:=True
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

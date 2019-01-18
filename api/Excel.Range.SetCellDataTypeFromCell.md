@@ -45,3 +45,5 @@ After it runs, cells `A1` and `B2` will have a "Seattle" data type in them, and 
 - [Range.HasRichDataType](Excel.Range.HasRichDataType.md)
 - [Range.LinkedDataTypeState](Excel.Range.LinkedDataTypeState.md)
 - [Range.ShowCard](Excel.Range.ShowCard.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

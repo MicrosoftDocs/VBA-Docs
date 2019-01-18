@@ -31,3 +31,4 @@ Deleting a  **LegendKey** object deletes the entire series.
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

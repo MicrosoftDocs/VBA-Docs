@@ -20,4 +20,4 @@ Gets or sets the baseline10 budget work (in hours) for an  **Assignment**. Read/
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

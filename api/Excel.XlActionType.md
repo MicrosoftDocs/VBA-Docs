@@ -20,3 +20,4 @@ Specifies the action that should be performed.
 | **xlActionTypeRowset**|16|Rowset|
 | **xlActionTypeUrl**|1|URL|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

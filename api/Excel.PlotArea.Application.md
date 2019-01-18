@@ -44,3 +44,4 @@ End If
 
 [PlotArea Object](Excel.PlotArea(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

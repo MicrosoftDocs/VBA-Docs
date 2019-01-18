@@ -23,4 +23,4 @@ To display a value updated by a  **SpinButton**, you must assign the value of th
 
 The default property for a  **SpinButton** is the **[Value](Outlook.textbox.value.md)** property.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

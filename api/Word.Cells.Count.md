@@ -29,3 +29,4 @@ Returns the number of items in the  **Cells** collection. Read-only **Long**.
 
 [Cells Collection Object](Word.cells.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

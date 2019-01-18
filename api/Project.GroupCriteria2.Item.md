@@ -34,3 +34,4 @@ Gets a single item from a collection. Read-only  **GroupCriterion2**.
 
 [GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

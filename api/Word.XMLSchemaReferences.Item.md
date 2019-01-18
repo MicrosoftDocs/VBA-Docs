@@ -42,3 +42,4 @@ XMLSchemaReference
 
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

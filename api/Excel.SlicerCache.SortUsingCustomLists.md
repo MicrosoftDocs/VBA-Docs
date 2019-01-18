@@ -36,3 +36,4 @@ The  **SortUsingCustomLists** property only applies to slicers that are filterin
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

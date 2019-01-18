@@ -47,3 +47,4 @@ Cells with formulas that return "" (empty text) are also counted. Cells with zer
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Specifies constants that define how to apply the raster export rotation; passed 
 | **visRasterRotateLeft**|1|Rotate left.|
 | **visRasterRotateRight**|2|Rotate right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

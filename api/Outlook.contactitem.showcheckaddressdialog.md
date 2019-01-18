@@ -39,3 +39,4 @@ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md
 
 [ContactItem Object](Outlook.ContactItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

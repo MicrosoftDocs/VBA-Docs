@@ -34,3 +34,4 @@ The parent of the  **AccountSelector** object returns an **[Explorer](Outlook.Ex
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

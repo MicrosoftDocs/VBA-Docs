@@ -25,3 +25,4 @@ Specifies the relative position of the specified shape.
 | **wdShapeRight**|-999996|On the right.|
 | **wdShapeTop**|-999999|At the top.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

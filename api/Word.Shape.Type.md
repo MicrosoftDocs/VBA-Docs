@@ -29,3 +29,4 @@ Returns the type of inline shape. Read-only  **MsoShapeType**.
 
 [Shape Object](Word.Shape.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

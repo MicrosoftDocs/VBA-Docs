@@ -22,3 +22,4 @@ Specifies the standard color scale.
 | **ColorScaleRYG**|1|RYG.|
 | **ColorScaleWhiteBlack**|4|White over Black.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -143,3 +143,5 @@ Publish completed: WinProj test 1
 
 [PjCacheJobState Enumeration](Project.pjcachejobstate.md)
 [PjJobType Enumeration](Project.pjjobtype.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,3 +29,4 @@ Returns an  **[Application](PowerPoint.Application.md)** object that represents 
 
 [Player Object](PowerPoint.Player.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

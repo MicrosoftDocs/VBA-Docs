@@ -29,3 +29,4 @@ Marks the moved-from text when text in a document with tracked changes is moved 
 | **wdMoveFromTextMarkStrikeThrough**|2|Marks moved text with a strikethrough.|
 | **wdMoveFromTextMarkUnderline**|8|Underlines moved text.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

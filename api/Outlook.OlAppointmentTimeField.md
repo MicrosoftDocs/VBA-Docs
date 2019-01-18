@@ -24,3 +24,4 @@ Specifies the time field in an appointment that the control is bound to.
 | **olAppointmentTimeFieldNone**|1|The control is not bound. |
 | **olAppointmentTimeFieldStart**|2|The control is bound to the start time of the appointment.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

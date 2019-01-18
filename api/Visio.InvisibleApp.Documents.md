@@ -33,4 +33,4 @@ Documents
 
 You can iterate through a  **Documents** collection by using the **Count** property to retrieve the number of documents in the collection. You can use the **Item** property to retrieve individual elements from a collection.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

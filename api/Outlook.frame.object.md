@@ -21,5 +21,5 @@ localization_priority: Normal
 -  [Frame Methods (Outlook Forms Script)](Outlook.frame(methods).md)
     
 -  [Frame Events (Outlook Forms Script)](Outlook.frame(events).md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

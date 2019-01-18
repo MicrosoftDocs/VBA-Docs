@@ -28,4 +28,4 @@ Gets or sets the corresponding  **Use internal IDs** option on the **Advanced** 
 
 Object Matching Identifier (OMID) fields are added to objects that can be shared across multilanguage versions. OMIDs are supported for  **Calendar**, **Filter**, **Group**, **Table**, and **View** objects. OMIDs are not supported for **Form** and **Report** objects. Project uses OMIDs to match similar elements in a multilanguage installation and avoid multiple language elements in the UI.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

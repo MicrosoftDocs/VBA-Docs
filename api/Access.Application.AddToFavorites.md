@@ -34,3 +34,4 @@ When applied to the **Application** object, the **AddToFavorites** method adds t
 
 [Application Object](Access.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

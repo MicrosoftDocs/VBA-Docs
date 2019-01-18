@@ -56,3 +56,4 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [NavigationButton Object](Access.NavigationButton.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

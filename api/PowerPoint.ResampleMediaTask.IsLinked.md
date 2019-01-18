@@ -29,3 +29,4 @@ Returns whether the sample is linked. Read-only.
 
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

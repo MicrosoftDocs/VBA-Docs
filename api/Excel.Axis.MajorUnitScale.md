@@ -56,3 +56,4 @@ End With
 
 [Axis Object](Excel.Axis(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,3 +27,5 @@ Gets callout formatting properties for the shape, when the  **Shape** object rep
 
 [Shape Object](Project.shape.md)
 [CalloutFormat Object](https://msdn.microsoft.com/library/office/ff839772%28v=office.15%29)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

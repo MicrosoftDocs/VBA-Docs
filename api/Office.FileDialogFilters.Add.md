@@ -43,4 +43,4 @@ Note that when a filter is added to the list, the default filters are not remove
 
 - [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

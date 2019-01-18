@@ -53,3 +53,4 @@ End If
 
 [Language Object](Word.Language.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

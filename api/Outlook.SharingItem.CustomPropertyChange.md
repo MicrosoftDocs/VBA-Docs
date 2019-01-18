@@ -39,3 +39,4 @@ The property name is passed to the procedure so that you can determine which cus
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

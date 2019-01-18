@@ -33,4 +33,4 @@ Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**,
 
 The **HelpContents** method has the same effect as **[HelpLaunch](Project.Application.HelpLaunch.md)** method when it is used with no parameters.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

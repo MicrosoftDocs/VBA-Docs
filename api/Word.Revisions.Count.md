@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of revisions in the collection. R
 
 [Revisions Collection Object](Word.revisions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

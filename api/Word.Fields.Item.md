@@ -42,3 +42,4 @@ Field
 
 [Fields Collection Object](Word.fields.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,3 +55,4 @@ Documents("Report.doc").TablesOfFigures(1).Update
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

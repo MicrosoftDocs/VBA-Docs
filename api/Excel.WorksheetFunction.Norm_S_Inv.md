@@ -52,3 +52,4 @@ Given a value for probability, NORM_S_INV seeks that value z such that NORM_S_DI
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

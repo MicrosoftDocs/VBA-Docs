@@ -35,4 +35,4 @@ Calling the  **Fragment** method is equivalent to clicking **Fragment** in the M
 
 The original shapes are deleted and there aren't any shapes selected when the operation is complete.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

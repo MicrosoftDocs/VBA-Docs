@@ -47,3 +47,4 @@ To express the arcsine in degrees, multiply the result by 180/PI( ) or use the [
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

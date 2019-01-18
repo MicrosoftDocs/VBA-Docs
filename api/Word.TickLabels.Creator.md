@@ -34,3 +34,4 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ It is necessary for the  **Name** property to be set before calling the **[Addre
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

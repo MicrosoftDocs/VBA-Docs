@@ -56,3 +56,4 @@ End With
 
 [HeadingStyle Object](Word.HeadingStyle.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

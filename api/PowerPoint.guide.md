@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Represents a drawing guide in the presentation or custom layout.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

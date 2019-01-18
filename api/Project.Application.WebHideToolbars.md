@@ -41,4 +41,4 @@ Shows or hides all toolbars except the  **Menu** and **Web** toolbars. Obsolete 
 
 Project does not use toolbars.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

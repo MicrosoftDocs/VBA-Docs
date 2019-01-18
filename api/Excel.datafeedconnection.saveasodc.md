@@ -57,3 +57,4 @@ End Sub
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

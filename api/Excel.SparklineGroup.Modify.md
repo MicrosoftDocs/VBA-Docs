@@ -54,3 +54,4 @@ ActiveCell.SparklineGroups.Item(1).Modify Location:=Range("$A$1:$A$3"), SourceDa
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

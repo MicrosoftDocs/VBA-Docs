@@ -66,3 +66,4 @@ With ActiveWorkbook.Worksheets("Sheet1").ListObjects("Table1").Sort
 End With
 ```
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

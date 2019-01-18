@@ -48,4 +48,4 @@ This example turns on the primary value axis.
 myChart.HasAxis(xlValue, xlPrimary) = True
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

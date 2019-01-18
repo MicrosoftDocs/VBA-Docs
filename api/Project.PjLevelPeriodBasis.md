@@ -23,3 +23,4 @@ Contains constants that specify the time period for leveling.
 |**pjMonthByMonth**|4|Month by month.|
 |**pjWeekByWeek**|3|Week by week.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

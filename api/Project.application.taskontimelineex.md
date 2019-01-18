@@ -38,4 +38,4 @@ Manages tasks on the Timeline pane or for a specified custom timeline, including
 
  **BOOL**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

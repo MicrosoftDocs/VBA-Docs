@@ -46,3 +46,4 @@ ActiveSheet.OLEObjects(1).AutoLoad = False
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

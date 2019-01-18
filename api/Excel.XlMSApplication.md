@@ -25,3 +25,4 @@ Specifies a Microsoft application.
 | **xlMicrosoftSchedulePlus**|7|Microsoft Schedule Plus|
 | **xlMicrosoftWord**|1|Microsoft Office Word|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

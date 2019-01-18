@@ -56,3 +56,4 @@ By using the related  **ScaleHeight**, **ScaleWidth**, **ScaleLeft**, and **Scal
 
 [Report Object](Access.Report.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

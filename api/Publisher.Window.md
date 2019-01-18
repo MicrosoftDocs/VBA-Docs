@@ -72,3 +72,4 @@ End Sub
 |[Width](Publisher.Window.Width.md)|
 |[WindowState](Publisher.Window.WindowState.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

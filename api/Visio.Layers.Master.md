@@ -33,4 +33,4 @@ Master
 
 If the  **Layers** collection is from a page rather than a master, its **Master** property returns **Nothing**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

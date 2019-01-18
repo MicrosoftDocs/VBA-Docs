@@ -20,3 +20,4 @@ Specifies the type of index.
 | **wdIndexIndent**|0|An indented index.|
 | **wdIndexRunin**|1|A run-in index.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

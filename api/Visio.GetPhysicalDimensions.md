@@ -62,4 +62,4 @@ Public Sub GetPhysicalDimensions_Example()
 End Sub
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

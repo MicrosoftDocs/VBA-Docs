@@ -40,3 +40,4 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ This property returns only the XML in the document that is needed to represent t
 
 [Selection Object](Word.Selection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

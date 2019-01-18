@@ -39,3 +39,4 @@ The  **Zoom** property value can be from 10 to 400 percent.
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

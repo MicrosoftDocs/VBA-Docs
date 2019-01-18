@@ -42,3 +42,4 @@ An  **Object** value that represents the item which has been moved to the design
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

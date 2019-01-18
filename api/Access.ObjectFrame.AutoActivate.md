@@ -51,3 +51,4 @@ With Visual Basic, you can determine if a control contains an object by checking
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

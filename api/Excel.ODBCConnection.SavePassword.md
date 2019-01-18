@@ -34,3 +34,4 @@ This property is used in both ODBC and OLE DB queries, and by both PivotTables a
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

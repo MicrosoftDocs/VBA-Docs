@@ -44,3 +44,4 @@ Set objSession = Application.Session
 
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

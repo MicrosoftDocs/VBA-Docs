@@ -34,3 +34,4 @@ The  **InheritValueList** property is effective only when the list box is bound 
 
 [ListBox Object](Access.ListBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

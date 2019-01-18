@@ -36,4 +36,4 @@ This example sets Microsoft Graph to not plot blank cells.
 myChart.DisplayBlanksAs = xlNotPlotted
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

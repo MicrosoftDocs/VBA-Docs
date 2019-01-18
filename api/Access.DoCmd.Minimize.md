@@ -36,3 +36,4 @@ This method cannot be applied to module windows in the Visual Basic Editor (VBE)
 
 [DoCmd Object](Access.DoCmd.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

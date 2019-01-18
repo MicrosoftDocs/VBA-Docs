@@ -40,4 +40,4 @@ If the row in the Shape Data section existed prior to linking, setting the  **Vi
 
 When the  **Visible** property is set to **False** , Visio does not create a ShapeSheet row for the data column when it links shapes to data.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,3 +25,4 @@ Flags to pass to the  **DrawSpline** and **DrawPolyline** methods.
 | **visSplineDoCircles**|2|Recognize circular segments in the given array of points and generate circular arcs for those segments.|
 | **visSplinePeriodic**|1|Draw a periodic spline.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

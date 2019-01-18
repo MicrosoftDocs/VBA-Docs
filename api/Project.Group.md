@@ -60,3 +60,4 @@ ActiveProject.ResourceGroups("Standard Rate").ShowSummary = True
 |[Parent](Project.Group.Parent.md)|
 |[ShowSummary](Project.Group.ShowSummary.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,3 +21,4 @@ Contains constants that specify the resource pooling option.
 |**pjResSubstitutionResInProject**|0|Use resources already specified in the project.|
 |**pjResSubstitutionResInRBS**|1|Use resources in the resouce breakdown structure (RBS) level specified in the  **EnterpriseResSubstitutionWizard** method.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

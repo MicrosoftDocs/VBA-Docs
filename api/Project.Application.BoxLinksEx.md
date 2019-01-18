@@ -65,4 +65,4 @@ End Sub
 
  **Note**  If you use any of the **PjColor** enumeration constants for the _CriticalColor_ or _NoncriticalColor_ parameters, the color will be nearly black. For example, the value of **pjGreen** is 9, which in the **BoxLinksEx** method is a very dark red. To use only the sixteen colors available with **PjColor** constants, use the [BoxLinks](Project.Application.BoxLinks.md) method.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

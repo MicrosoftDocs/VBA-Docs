@@ -44,3 +44,4 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [JournalItem Object](Outlook.JournalItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

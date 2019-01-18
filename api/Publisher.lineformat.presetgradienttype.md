@@ -37,3 +37,4 @@ Use the  **[PresetGradient](Publisher.lineformat.presetgradient.md)** method to 
 
  [LineFormat Object](Publisher.LineFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

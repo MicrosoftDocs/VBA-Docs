@@ -36,3 +36,4 @@ This property of the  **[RuleActions](Outlook.RuleActions.md)** collection alway
 
 [RuleActions Object](Outlook.RuleActions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ The  **AccessObjectProperties** collection object is the collection of all the p
 
 [CurrentProject Object](Access.CurrentProject.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

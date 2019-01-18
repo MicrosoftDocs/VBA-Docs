@@ -38,4 +38,4 @@ The  **State** property can return one of the following three states:
 
  **&lt;unknown type&gt;**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

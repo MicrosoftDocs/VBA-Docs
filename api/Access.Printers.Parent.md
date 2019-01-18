@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Printers](Access.Printers.md) object.
 
 [Printers Collection](Access.Printers.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

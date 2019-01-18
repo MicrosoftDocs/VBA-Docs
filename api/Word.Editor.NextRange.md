@@ -48,3 +48,4 @@ Set objRange = objEditor.NextRange
 
 [Editor Object](Word.Editor.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

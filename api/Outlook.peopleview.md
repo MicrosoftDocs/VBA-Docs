@@ -24,3 +24,4 @@ Version Added: Outlook 2013
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [PeopleView Object Members](./overview/Outlook.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -105,3 +105,4 @@ End Sub
 |[UseCharBasedFirstLineIndent](./Publisher.ParagraphFormat.UseCharBasedFirstLineIndent.md)|
 |[WidowControl](./Publisher.ParagraphFormat.WidowControl.md)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

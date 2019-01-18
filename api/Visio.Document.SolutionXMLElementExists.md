@@ -41,4 +41,4 @@ Boolean
 
 Because the  **SolutionXMLElement** property can overwrite existing XML data, always use the **SolutionXMLElementExists** property to verify whether _ElementName_ already exists in the document.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

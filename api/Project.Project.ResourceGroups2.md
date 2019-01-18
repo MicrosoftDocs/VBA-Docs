@@ -20,4 +20,4 @@ Gets a  **[ResourceGroups2](Project.resourcegroups2(object).md)** collection tha
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

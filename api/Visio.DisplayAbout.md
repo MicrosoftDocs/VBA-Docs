@@ -40,4 +40,4 @@ The following code displays the  **About Microsoft Visio Viewer** dialog box.
 vsoViewer.DisplayAbout
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

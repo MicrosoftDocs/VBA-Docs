@@ -37,3 +37,4 @@ _expression_ A variable that represents a [Sheets](./Excel.Sheets.md) object.
 
 [Sheets Object](Excel.Sheets.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

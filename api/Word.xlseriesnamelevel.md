@@ -22,3 +22,4 @@ Series-name-level constants passed to and returned by the [Chart.SeriesNameLevel
 | **xlSeriesNameLevelCustom**|-2|Indicates literal data in the series names.|
 | **xlSeriesNameLevelNone**|-3|Sets no series names in the chart.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

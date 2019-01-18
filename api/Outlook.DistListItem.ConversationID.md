@@ -38,3 +38,4 @@ If the  **DistListItem** object is created in a version of Microsoft Outlook ear
 
 [DistListItem Object](Outlook.DistListItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

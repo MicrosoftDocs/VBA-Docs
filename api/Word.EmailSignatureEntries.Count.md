@@ -29,3 +29,4 @@ Returns a  **Long** that represents the number of email signature entries in the
 
 [EmailSignatureEntries Collection](Word.EmailSignatureEntries.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

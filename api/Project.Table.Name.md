@@ -30,4 +30,4 @@ Gets the name of a  **Table** object. Read/write **String**.
 
 For a code example that uses the  **Task** object, see **[Name](Project.Task.Name.md)**.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

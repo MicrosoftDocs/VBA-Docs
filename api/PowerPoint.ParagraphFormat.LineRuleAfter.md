@@ -75,3 +75,4 @@ MsgBox "Current spacing after paragraphs: " & sa & saUnits
 
 [ParagraphFormat Object](PowerPoint.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

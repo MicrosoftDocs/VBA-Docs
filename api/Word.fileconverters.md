@@ -53,4 +53,4 @@ File converters for saving documents are listed in the  **Save As** dialog box. 
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

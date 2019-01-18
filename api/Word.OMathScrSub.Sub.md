@@ -29,3 +29,4 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the subscript for 
 
 [OMathScrSub Object](Word.OMathScrSub.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ Gets a single  **Group2** object from a **Groups2** collection. Read-only **[Gro
 
 [Groups2 Collection Object](Project.groups2.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

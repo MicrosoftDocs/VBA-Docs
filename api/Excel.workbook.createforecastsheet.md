@@ -53,7 +53,5 @@ When you use a formula to create a forecast, it returns a table with the histori
 - Forecasted values column (calculated by using FORECAST_ETS)
     
 - Two columns representing the confidence interval (calculated by using FORECAST_ETS_CONFINT)
-    
 
-
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

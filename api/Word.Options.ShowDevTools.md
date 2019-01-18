@@ -34,3 +34,4 @@ This property corresponds to the  **Show Developer tab in the Ribbon** check box
 
 [Options Object](Word.Options.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

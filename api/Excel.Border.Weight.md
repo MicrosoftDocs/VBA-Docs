@@ -39,3 +39,4 @@ Worksheets("Sheet1").Ovals(1).Border.Weight = xlMedium
 
 [Border Object](Excel.Border(object).md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

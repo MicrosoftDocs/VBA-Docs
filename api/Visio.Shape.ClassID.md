@@ -46,4 +46,4 @@ This identifies the application that services the object. It might, for example,
 
 After using a shape's  **Object** property to obtain an Automation interface on the object the shape represents, you might want to obtain the shape's **ClassID** or **ProgID** property to determine the methods and properties provided by the interface.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

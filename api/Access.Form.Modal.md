@@ -63,3 +63,4 @@ The form isn't modal in Design view or Datasheet view and also isn't modal if yo
 
 [Form Object](Access.Form.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

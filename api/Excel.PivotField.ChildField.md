@@ -48,3 +48,4 @@ MsgBox "The name of the child field is " & _
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

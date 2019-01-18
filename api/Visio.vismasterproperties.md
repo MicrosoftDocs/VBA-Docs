@@ -45,3 +45,4 @@ Values for various properties of a Microsoft Visio master.
 | **visTall**|2|Icon size is tall (32 x 64 pixels).|
 | **visWide**|3|Icon size is wide (64 x 32 pixels)|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

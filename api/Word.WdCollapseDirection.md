@@ -20,3 +20,4 @@ Specifies the direction in which to collapse a range or selection.
 | **wdCollapseEnd**|0|Collapse the range to the ending point.|
 | **wdCollapseStart**|1|Collapse the range to the starting point.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,3 +38,4 @@ The height of controls is measured from the center of their borders so controls 
 
 [TextBox Object](Access.TextBox.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

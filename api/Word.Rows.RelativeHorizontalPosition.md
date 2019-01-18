@@ -29,3 +29,4 @@ Specifies the relative horizontal position of a group of rows. Read/write  **[Wd
 
 [Rows Collection Object](Word.rows.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

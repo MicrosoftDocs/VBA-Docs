@@ -42,3 +42,4 @@ In VBScript, if you set the return value of this function to  **False** , the sa
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

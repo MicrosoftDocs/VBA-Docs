@@ -29,4 +29,4 @@ Indicates the form registry (library) where the  **Form** is stored.
 
 Used as a parameter to the [FormDescription.PublishForm](Outlook.FormDescription.PublishForm.md) method to specify the form registry (library) in which to register the Form.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

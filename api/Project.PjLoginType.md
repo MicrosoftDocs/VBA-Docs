@@ -20,3 +20,4 @@ Contains constants that specify the login type.
 |**pjProjectServerLogin**|2|Project Server.|
 |**pjWindowsLogin**|1|Windows.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

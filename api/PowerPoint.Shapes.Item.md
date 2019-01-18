@@ -53,3 +53,4 @@ ActivePresentation.Slides.Item(1).Shapes.Item("rectangle 1").Fill _
 
 [Shapes Object](PowerPoint.Shapes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

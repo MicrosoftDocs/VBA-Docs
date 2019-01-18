@@ -24,3 +24,4 @@ Represents how Microsoft Publisher automatically adjusts the text font size and 
 | **pbTextAutoFitNone**|0|Allows text to overflow the text frame.|
 | **pbTextAutoFitShrinkOnOverflow**|1|Text font reduces so text fits within the text frame.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

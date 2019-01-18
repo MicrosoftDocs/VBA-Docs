@@ -85,4 +85,4 @@ The  _Flags_ parameter is a bitmask that specifies options for drawing the new s
 
 If the first and last points in  _xyArray_ do coincide, the **DrawNURBS** method produces a filled shape.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

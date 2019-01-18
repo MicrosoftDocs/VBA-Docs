@@ -29,3 +29,4 @@ Returns or sets a  **Long** that represents whether left and right indents are t
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

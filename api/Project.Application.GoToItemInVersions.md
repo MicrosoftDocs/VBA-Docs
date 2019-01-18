@@ -35,4 +35,4 @@ When you compare two versions of a project file, Project creates a new project n
 
 The  **GoToItemInVersions** method is equivalent to the **Go to Item** command in the **Compare** group of the **Compare Projects** tab on the Ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

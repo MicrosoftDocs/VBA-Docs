@@ -60,3 +60,4 @@ Specifies numbered bullet styles.
 |**msoBulletTradChinPeriod**|22|Traditional Chinese bulllet with period.|
 |**msoBulletTradChinPlain**|21|Traditional Chinese bulllet.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,3 +34,4 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

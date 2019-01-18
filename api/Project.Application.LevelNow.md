@@ -36,4 +36,4 @@ Levels overallocated resources.
 
  **Boolean**
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

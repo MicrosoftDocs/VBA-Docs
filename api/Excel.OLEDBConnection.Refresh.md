@@ -42,3 +42,4 @@ To see whether the number of fetched rows exceeded the number of available rows 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

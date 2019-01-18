@@ -34,3 +34,4 @@ This property returns  **olTasksModule** for the **[TasksModule](Outlook.TasksMo
 
 [TasksModule Object](Outlook.TasksModule.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

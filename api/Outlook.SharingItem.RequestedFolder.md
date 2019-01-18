@@ -34,3 +34,4 @@ A  **[SharingItem](Outlook.SharingItem.md)** object that represents a sharing re
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

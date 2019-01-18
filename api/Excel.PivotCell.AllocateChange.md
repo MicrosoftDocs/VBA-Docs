@@ -41,3 +41,4 @@ Running the  **AllocateChange** method for a cell in a PivotTable report based o
 
 [PivotCell Object](Excel.PivotCell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,4 @@ The  **DrawingProperties** method displays an error unless a drawing object is a
 
 The  **DrawingProperties** method has the same effect as the **Properties** command in the **Drawing** drop-down menu on the **Format** tab in the Ribbon.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

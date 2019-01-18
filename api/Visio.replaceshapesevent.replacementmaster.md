@@ -34,4 +34,4 @@ The replacement shape is an object of type [Master](Visio.Master.md) or [MasterS
 
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

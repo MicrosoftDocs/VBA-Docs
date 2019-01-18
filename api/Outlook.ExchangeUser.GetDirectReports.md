@@ -39,3 +39,4 @@ An  **AddressEntries** collection object that contains the users directly report
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,3 +40,4 @@ strPgName = pvtTable.PivotFields("Country").CurrentPage.Name
 
 [PivotField Object](Excel.PivotField.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

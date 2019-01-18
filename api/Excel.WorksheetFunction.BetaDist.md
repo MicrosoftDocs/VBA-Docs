@@ -64,3 +64,4 @@ The beta distribution is commonly used to study variation in the percentage of s
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

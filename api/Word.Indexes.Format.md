@@ -29,3 +29,4 @@ Returns or sets a  **WdIndexFormat** that represents the formatting for the inde
 
 [Indexes Collection Object](Word.indexes.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

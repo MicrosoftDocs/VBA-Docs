@@ -34,3 +34,4 @@ Some chart types are not available for PivotChart reports.
 
 [Series Object](Word.Series.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

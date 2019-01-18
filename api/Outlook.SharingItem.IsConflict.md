@@ -36,3 +36,4 @@ If  **true** , the specified item is in conflict.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

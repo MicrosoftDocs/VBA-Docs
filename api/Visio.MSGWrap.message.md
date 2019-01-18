@@ -48,4 +48,4 @@ The  **OnKeystrokeMessageForAddon** event fires for messages in the following ra
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

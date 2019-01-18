@@ -61,4 +61,4 @@ If you specify  **visBiasLetVisioChoose** , Visio uses the same logic it would a
 > [!NOTE] 
 > In the context of a  **Characters** object, "left" means logically prior. In other words, one character is to the "left" of another if it would have been typed first in the course of normal writing. It is necessary to make this distinction because in some languages, characters are normally written from right to left, and not from left to right.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

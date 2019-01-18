@@ -21,3 +21,4 @@ Constants that specify how hyperlinks in presentaitons should be updated, passed
 |**ppUpdateOptionManual**|1|Link will be updated only when the user specifically asks to update the presentation.|
 |**ppUpdateOptionMixed**|-2|Mixed|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

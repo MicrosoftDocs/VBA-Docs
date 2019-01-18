@@ -26,3 +26,4 @@ Specifies the type of border to be used.
 | **wdBorderTop**|-1|A top border.|
 | **wdBorderVertical**|-6|Vertical borders.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

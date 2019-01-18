@@ -29,3 +29,4 @@ Returns or sets the alignment for the specified phonetic text or tick label. Rea
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

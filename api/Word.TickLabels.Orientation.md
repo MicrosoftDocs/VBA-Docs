@@ -34,3 +34,4 @@ The value of this property can be an integer from -90 through 90 degrees or one 
 
 [TickLabels Object](Word.TickLabels.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

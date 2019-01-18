@@ -21,4 +21,4 @@ The macro or event procedure assigned to the  **CommandButton** control's **[Cli
 
 The only event for a  **CommandButton** is the **Click** event.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

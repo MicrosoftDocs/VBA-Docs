@@ -39,3 +39,4 @@ Rectangle
 
 [Rectangles Collection](Word.Rectangles.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

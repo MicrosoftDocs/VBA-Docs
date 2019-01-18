@@ -24,3 +24,4 @@ Specifies the level of importance for an item marked by the creator of the item.
 | **olImportanceLow**|0|Item is marked as low importance.|
 | **olImportanceNormal**|1|Item is marked as medium importance.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

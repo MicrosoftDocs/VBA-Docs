@@ -24,3 +24,4 @@ Represents a bitmask to indicate which modifier key is pressed during a keyboard
 | **olShiftStateCtrlMask**|2|Indicates that the CTRL key is pressed during the event.|
 | **olShiftStateAltMask**|4|Indicates that the ALT key is pressed during the event.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

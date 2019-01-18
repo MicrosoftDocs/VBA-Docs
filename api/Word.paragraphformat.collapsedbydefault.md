@@ -37,3 +37,4 @@ The  **CollapsedByDefault** property setting corresponds to the setting of the *
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

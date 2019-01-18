@@ -21,3 +21,4 @@ Specifies the alignment of a horizontal line.
 | **wdHorizontalLineAlignLeft**|0|Aligned to the left.|
 | **wdHorizontalLineAlignRight**|2|Aligned to the right.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

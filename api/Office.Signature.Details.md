@@ -43,3 +43,4 @@ Among the information that can be read is whether the certificate associated wit
 
 [Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

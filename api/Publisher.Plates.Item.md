@@ -42,4 +42,4 @@ MsgBox "Name of first color plate: " _
  & ActiveDocument.Plates.Item(1).Name
 ```
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

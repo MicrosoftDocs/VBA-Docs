@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Tabs.Item Method (Outlook Forms Script)](Outlook.tabs.item.md)
     
 -  [Tabs.Remove Method (Outlook Forms Script)](Outlook.tabs.remove.md)
-    
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

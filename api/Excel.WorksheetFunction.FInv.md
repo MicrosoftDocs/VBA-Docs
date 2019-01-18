@@ -68,3 +68,4 @@ Given a value for probability, FINV seeks that value x such that FDIST(x, degree
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

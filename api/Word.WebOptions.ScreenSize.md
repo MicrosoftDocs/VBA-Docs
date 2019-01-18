@@ -40,3 +40,4 @@ ActiveDocument.WebOptions.ScreenSize = _
 
 [WebOptions Object](Word.WebOptions.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

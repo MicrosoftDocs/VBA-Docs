@@ -29,3 +29,4 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the degree for a r
 
 [OMathRad Object](Word.OMathRad.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

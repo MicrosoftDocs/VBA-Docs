@@ -47,3 +47,4 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

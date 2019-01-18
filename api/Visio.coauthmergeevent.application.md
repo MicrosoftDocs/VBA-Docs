@@ -18,4 +18,4 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
  _expression_ A variable that represents a 'CoauthMergeEvent' object.
 
-
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

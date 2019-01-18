@@ -26,3 +26,4 @@ Returns or sets a value that specifies how pictures are displayed on a column or
 
 [Point Object](PowerPoint.Point.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

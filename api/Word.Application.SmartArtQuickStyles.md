@@ -50,3 +50,4 @@ mySmartArt.QuickStyle = Application.SmartArtQuickStyles.Item(6)
 
 [Application Object](Word.Application.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

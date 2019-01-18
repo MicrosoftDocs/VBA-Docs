@@ -171,3 +171,5 @@ ppt.Presentations.Open "c:\My Documents\ex_a2a.ppt"
 
 
 [PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

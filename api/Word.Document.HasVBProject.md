@@ -34,3 +34,4 @@ This property is most useful in programatically determining whether a document n
 
 [Document Object](Word.Document.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

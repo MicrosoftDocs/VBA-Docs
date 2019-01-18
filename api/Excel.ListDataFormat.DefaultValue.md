@@ -58,3 +58,4 @@ End Sub
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

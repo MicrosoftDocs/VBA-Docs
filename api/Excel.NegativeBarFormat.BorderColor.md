@@ -34,3 +34,4 @@ _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBar
 
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

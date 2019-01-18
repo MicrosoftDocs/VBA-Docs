@@ -16,3 +16,4 @@ Specifies the page movement type.
 | **wdVertical**|1|Document page movement type vertical.|
 | **wdSideToSide**|2|Document page movement type side-to-side.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

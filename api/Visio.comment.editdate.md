@@ -29,3 +29,4 @@ Returns the most recent date on which the specified comment was edited. Read-onl
 
 [Comment Object](Visio.comment.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

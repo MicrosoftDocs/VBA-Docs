@@ -131,3 +131,5 @@ Table name: Table 3
 
 [ReportTable Object](Project.reporttable.md)
 [ID Property](Project.shape.id.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

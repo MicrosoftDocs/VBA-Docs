@@ -29,3 +29,4 @@ Returns or sets a  **Boolean** that represents whether to hide the degree for a 
 
 [OMathRad Object](Word.OMathRad.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,3 +24,4 @@ Indicates the zoom setting of the specified view.
 | **pbZoomPageWidth**|-1|Resizes the page view to the width of the publication.|
 | **pbZoomWholePage**|-2|Resizes the page view to the size of a whole page.|
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

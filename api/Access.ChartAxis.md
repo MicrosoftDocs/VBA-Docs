@@ -24,3 +24,5 @@ Represents a field whose values will be included in the category axis of a chart
 
 - [ChartAxisCollection object](Access.ChartAxisCollection.md)
 - [Chart object](Access.Chart.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

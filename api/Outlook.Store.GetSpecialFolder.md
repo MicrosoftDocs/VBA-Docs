@@ -47,3 +47,4 @@ Not all special folders exist in all stores. If the requested special folder doe
 
 [Store Object](Outlook.Store.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

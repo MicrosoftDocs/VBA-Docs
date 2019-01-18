@@ -57,3 +57,4 @@ Msgbox Selection.Cells(1).ColumnIndex
 
 [Cell Object](Word.Cell.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

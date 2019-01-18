@@ -29,3 +29,4 @@ _expression_ A variable that represents a [Graphic](Excel.Graphic.md) object.
 
 [Graphic Object](Excel.Graphic.md)
 
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
