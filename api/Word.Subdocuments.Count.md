@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of subdocuments in the collection
 
 [Subdocuments Collection Object](Word.subdocuments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

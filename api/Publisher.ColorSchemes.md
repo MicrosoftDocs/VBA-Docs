@@ -81,4 +81,3 @@ End Sub
 |[Item](Publisher.ColorSchemes.Item.md)|
 |[Parent](Publisher.ColorSchemes.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

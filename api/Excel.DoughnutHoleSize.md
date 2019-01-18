@@ -26,4 +26,4 @@ This example sets the hole size for doughnut group one. The example should be ru
 myChart.DoughnutGroups(1).DoughnutHoleSize = 10
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

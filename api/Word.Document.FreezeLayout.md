@@ -29,4 +29,3 @@ In Web view, fixes the layout of the document as it currently appears so that li
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

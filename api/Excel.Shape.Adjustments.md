@@ -40,4 +40,3 @@ myDocument.Shapes(1).Adjustments(1) = 0.25
 
 [Shape Object](Excel.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -67,4 +67,4 @@ Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed for
 
  **VOID**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

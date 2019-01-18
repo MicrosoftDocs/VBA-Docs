@@ -41,4 +41,3 @@ The  **Delete** method moves the item from the containing folder to the **Delete
 
 [Delete All Items and Subfolders in the Deleted Items Folder](../outlook/How-to/Items-Folders-and-Stores/delete-all-items-and-subfolders-in-the-deleted-items-folder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

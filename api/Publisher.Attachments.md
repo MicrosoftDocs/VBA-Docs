@@ -101,4 +101,3 @@ End Sub
 |[Item](Publisher.Attachments.Item.md)|
 |[Parent](Publisher.Attachments.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

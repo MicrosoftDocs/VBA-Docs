@@ -30,4 +30,4 @@ This example inverts the pattern for negative values in series one. The example 
 myChart.SeriesCollection(1).InvertIfNegative = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

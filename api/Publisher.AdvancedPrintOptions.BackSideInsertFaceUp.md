@@ -39,4 +39,3 @@ The  **BackSideInsertFaceUp** property setting corresponds to whether the **Face
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

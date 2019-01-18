@@ -96,4 +96,3 @@ End Sub
 
 [Application Object](Outlook.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

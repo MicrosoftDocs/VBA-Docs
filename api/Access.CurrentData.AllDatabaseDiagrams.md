@@ -29,4 +29,3 @@ _expression_ A variable that represents a [CurrentData](Access.CurrentData.md) o
 
 [CurrentData Object](Access.CurrentData.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Specifies Clipboard formats.
 |**msoClipboardFormatPlainText**|4|Plain text format.|
 |**msoClipboardFormatRTF**|3|RTF format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

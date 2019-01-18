@@ -33,4 +33,3 @@ _expression_ A variable that represents a [TextConnection](Excel.textconnection.
 
 [TextConnection Object](Excel.textconnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

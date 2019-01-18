@@ -61,4 +61,4 @@ For Each shpLoop In ActiveDocument.Pages(1).Shapes
 Next shpLoop
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

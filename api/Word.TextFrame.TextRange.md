@@ -61,4 +61,3 @@ MsgBox ActiveDocument.Shapes("TextBox 1").TextFrame.TextRange.Text
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

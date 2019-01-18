@@ -54,4 +54,4 @@ Dim shpWizardTag As Shape
 Set shpWizardTag = ActiveDocument.FindShapeByWizardTag(WizardTag:=pbWizardDate, Instance:=2)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

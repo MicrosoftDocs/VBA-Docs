@@ -91,5 +91,3 @@ End Sub
 
 
 [OutlineCodes Collection Object](Project.outlinecodes(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

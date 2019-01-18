@@ -46,4 +46,3 @@ Use the  **GlueTo** or **GlueToPos** method of a **Cell** object to connect one 
 |[ToPart](./Visio.Connect.ToPart.md)|
 |[ToSheet](./Visio.Connect.ToSheet.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

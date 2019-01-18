@@ -45,4 +45,3 @@ This event doesn't occur when the user double-clicks the border of a cell.
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

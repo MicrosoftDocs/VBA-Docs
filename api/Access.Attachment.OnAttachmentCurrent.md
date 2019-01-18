@@ -34,4 +34,3 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

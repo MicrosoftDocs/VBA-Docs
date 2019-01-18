@@ -34,4 +34,3 @@ If formatting for the  **ShapeRange** object has not previously been copied usin
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

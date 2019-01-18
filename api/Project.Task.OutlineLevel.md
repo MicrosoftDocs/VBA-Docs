@@ -25,4 +25,4 @@ Gets the level of the task in the outline hierarchy. Read/write  **Integer**.
 
 A task with an outline level of 1 is at the highest level in the outline; there are no summary tasks above it. A task with an outline level of 3 has two summary tasks above it.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -42,4 +42,3 @@ _expression_. `Delete`( `_Index_`, `_DeferUpdate_` )
 
 [ODSOFilters Object Members](./overview/Library-Reference/odsofilters-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

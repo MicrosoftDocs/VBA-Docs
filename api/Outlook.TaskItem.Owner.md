@@ -34,4 +34,3 @@ This is a free-form string field. Setting this property to someone other than th
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

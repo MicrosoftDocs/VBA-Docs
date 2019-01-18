@@ -20,4 +20,4 @@ Gets or sets the size of the font for a field used as a criterion in a group def
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

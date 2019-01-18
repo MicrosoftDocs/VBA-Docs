@@ -20,4 +20,4 @@ Gets or sets the local Finish custom field of the resource. Read/write  **Varian
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

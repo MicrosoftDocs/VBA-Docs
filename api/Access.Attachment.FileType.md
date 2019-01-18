@@ -37,4 +37,3 @@ _expression_ A variable that represents an [Attachment](Access.Attachment.md) ob
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

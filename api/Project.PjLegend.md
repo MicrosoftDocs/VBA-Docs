@@ -21,4 +21,3 @@ Contains constants that specify the pages on which the legend appears.
 |**pjNoLegend**|0|No legend.|
 |**pjOnEveryPage**|2|Legend appears on every page.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

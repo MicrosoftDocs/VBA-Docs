@@ -35,4 +35,4 @@ The  **wParam** property corresponds to the **wParam** member ofn the **MSG** st
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

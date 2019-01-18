@@ -34,4 +34,3 @@ For controls, you can use the  **Section** property to determine which section o
 
 [Page Object](Access.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

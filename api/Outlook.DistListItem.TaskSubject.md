@@ -34,4 +34,3 @@ This property returns the value of the  **[Subject](Outlook.DistListItem.Subject
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ End With
 
 [DataLabel Object](PowerPoint.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

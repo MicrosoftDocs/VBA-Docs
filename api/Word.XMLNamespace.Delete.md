@@ -29,4 +29,3 @@ Deletes the specified XML schema from the list of available XML schemas.
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

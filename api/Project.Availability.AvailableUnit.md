@@ -37,4 +37,4 @@ The following line of code prints the percentage of time the resource is availab
 Debug.Print ActiveProject.Resources(1).Availabilities(2).AvailableUnit
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

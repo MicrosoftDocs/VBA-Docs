@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [SyncObjects Object](Outlook.SyncObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

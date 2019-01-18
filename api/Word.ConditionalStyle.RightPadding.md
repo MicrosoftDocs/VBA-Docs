@@ -45,4 +45,3 @@ ActiveDocument.Tables(1).RightPadding = _
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

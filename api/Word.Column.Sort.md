@@ -51,4 +51,3 @@ If you want to sort paragraphs within a table cell, include only the paragraphs 
 
 [Column Object](Word.Column.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

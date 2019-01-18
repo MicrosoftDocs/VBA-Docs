@@ -20,4 +20,3 @@ Specifies how to use the value specified in the  **ExtraInfo** property of the *
 |**msoMethodGet**|0|The value specified in the  **ExtraInfo** property is a string that is appended to the address.|
 |**msoMethodPost**|1|The value specified in the  **ExtraInfo** property is posted as a string or byte array.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

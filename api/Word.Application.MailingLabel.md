@@ -42,4 +42,3 @@ Application.MailingLabel.CreateNewDocument _
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

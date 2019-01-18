@@ -26,4 +26,4 @@ This example sets the distance between the data series to 200 percent of the mar
 myChart.GapDepth = 200
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -31,4 +31,4 @@ Returns an array of names of data columns in a data recordset whose types have c
 
 String()
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

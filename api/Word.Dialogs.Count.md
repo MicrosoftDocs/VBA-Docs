@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of dialog boxes in the collection
 
 [Dialogs Collection Object](Word.dialogs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

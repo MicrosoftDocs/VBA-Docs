@@ -29,4 +29,3 @@ Returns the time that is associated with the bookmark. Read-only.
 
 [MediaBookmark Object](PowerPoint.MediaBookmark.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

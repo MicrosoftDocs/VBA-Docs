@@ -34,4 +34,3 @@ The value of the  **InsertOptions** property can be any **[WdDocPartInsertOption
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

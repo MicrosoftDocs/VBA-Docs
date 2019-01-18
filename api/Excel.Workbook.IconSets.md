@@ -39,4 +39,3 @@ Selection.AutoFilter Field:=1, Criteria1:=ActiveWorkbook.IconSets(xl3Arrows).Ite
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

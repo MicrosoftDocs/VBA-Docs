@@ -34,4 +34,3 @@ This property is used for each threshold of a color scale or data bar conditiona
 
 [FormatColor Object](Excel.FormatColor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

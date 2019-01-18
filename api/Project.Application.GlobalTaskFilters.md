@@ -28,4 +28,4 @@ Gets or sets a  **[Filters](Project.Filter.md)** collection representing the tas
 
  In Project Professional, you can also add a task filter to the enterprise global template. First open the enterprise global template, making it the active project, and then run the **Add** method of the **Filters** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -61,4 +61,3 @@ When you use the  **CanShrink** property, remember that:
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

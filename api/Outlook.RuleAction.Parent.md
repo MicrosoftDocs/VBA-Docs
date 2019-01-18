@@ -34,4 +34,3 @@ The parent of the  **[RuleAction](Outlook.RuleAction.md)** object is the **[Rule
 
 [RuleAction Object](Outlook.RuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,6 +21,6 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 ## Remarks
 
-The user is prompted to confirm any changes.
+The user is prompted to confirm any changes. 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -94,4 +94,3 @@ End Sub
 
 [Selection Object](Outlook.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets or sets a  **[Views](Project.View.md)** collection representing the views i
 
  In Project Professional, you can also add a view to the enterprise global template. First open the enterprise global template, making it the active project, and then run the **Add** method of the **Views** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

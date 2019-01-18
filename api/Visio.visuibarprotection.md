@@ -29,4 +29,3 @@ Values passed to and returned by the  **MenuSet.Protection** and **Toolbar.Prote
 | **visBarNoResize**|2|Can't be resized.|
 | **visBarNoVerticalDock**|32|Can't be docked vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

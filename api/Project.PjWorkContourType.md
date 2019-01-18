@@ -27,4 +27,3 @@ Contains constants that specify the type of a work contour.
 |**pjLatePeak**|5|Late peak.|
 |**pjTurtle**|7|Turtle.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

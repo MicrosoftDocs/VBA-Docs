@@ -27,4 +27,3 @@ Specifies the scale of time periods used to display Outlook items in a  **[Calen
 | **olTimeScale60Minutes**|5|Indicates that each time period represents 60 minutes.|
 | **olTimeScale6Minutes**|1|Indicates that each time period represents 6 minutes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

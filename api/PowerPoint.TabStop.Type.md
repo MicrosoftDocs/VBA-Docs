@@ -47,4 +47,3 @@ The value of the  **Type** property can be one of these **PpTabStopType** consta
 
 [TabStop Object](PowerPoint.TabStop.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

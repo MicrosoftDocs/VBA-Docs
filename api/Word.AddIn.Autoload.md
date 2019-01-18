@@ -69,4 +69,3 @@ Next addinLoop
 
 [AddIn Object](Word.AddIn.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -87,4 +87,3 @@ Worksheets. ("sheet1").PrintOut From:=2, To:=3, Copies:=3
 
 [Sheets Object](Excel.Sheets.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ The property returns  **True** , if the style is shown in the gallery for PivotT
 
 [TableStyle Object](Excel.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

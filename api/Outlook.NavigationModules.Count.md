@@ -29,4 +29,3 @@ _expression_. `Count`
 
 [NavigationModules Object](Outlook.NavigationModules.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

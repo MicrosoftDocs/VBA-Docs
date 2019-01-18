@@ -53,4 +53,3 @@ saNode.OrgChartLayout = msoOrgChartLayoutDefault
 - [SmartArtNode Object](Office.SmartArtNode.md)
 - [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,3 @@ Specifies the part of speech that a word represents when returned by the Word th
 | **wdPronoun**|4|A pronoun.|
 | **wdVerb**|3|A verb.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

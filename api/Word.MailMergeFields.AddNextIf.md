@@ -64,4 +64,3 @@ Documents("Main.doc").MailMerge.Fields.AddNextIf _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

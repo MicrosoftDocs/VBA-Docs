@@ -27,5 +27,3 @@ Gets the  **ReportTable** object in the shape. Read-only[ReportTable](Project.re
 
 [Shape Object](Project.shape.md)
 [ReportTable Object](Project.reporttable.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

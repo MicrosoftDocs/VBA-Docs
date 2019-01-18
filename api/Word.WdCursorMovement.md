@@ -20,4 +20,3 @@ Specifies how the insertion point progresses within bidirectional text.
 | **wdCursorMovementLogical**|0|Insertion point progresses according to the direction of the language Microsoft Word detects.|
 | **wdCursorMovementVisual**|1|Insertion point progresses to the next visually adjacent character.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

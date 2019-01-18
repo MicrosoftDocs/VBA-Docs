@@ -34,4 +34,3 @@ This is similar to the  **GotFocus** event exposed by managed-code controls or i
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

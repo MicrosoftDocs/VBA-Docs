@@ -34,4 +34,3 @@ This property will always return a  **Long** value of "12", which is equivalent 
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

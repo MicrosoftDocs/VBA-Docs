@@ -43,4 +43,3 @@ The  **WdRulerStyle** behavior described above applies to left-aligned tables. T
 
 [Columns Collection Object](Word.columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

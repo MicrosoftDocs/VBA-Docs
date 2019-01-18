@@ -23,4 +23,4 @@ Returns or sets a  **String** that represents the value of a Web check box or op
 
  _expression_ A variable that represents a  **WebOptionButton** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

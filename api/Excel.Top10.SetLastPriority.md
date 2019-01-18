@@ -37,4 +37,3 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

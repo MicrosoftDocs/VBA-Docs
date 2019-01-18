@@ -25,4 +25,3 @@ Specifies how Microsoft Word classifies the first character of entries in the sp
 | **wdIndexFilterMedium**|5|Japanese words use the AIUEO method of alphabetizing.|
 | **wdIndexFilterNone**|0|No special filtering.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Returns status information. Read-only.
 
 VisStatCodes
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

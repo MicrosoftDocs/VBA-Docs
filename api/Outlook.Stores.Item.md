@@ -49,4 +49,3 @@ If  _Index_ is a string and no item can be found by that name, an error will be 
 
 [Stores Object](Outlook.Stores.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

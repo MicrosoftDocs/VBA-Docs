@@ -54,4 +54,3 @@ End Property
 
 [PropertyPage Object](Outlook.PropertyPage.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the name of the specified object. Read-only  **String**.
 
 [Editor Object](Word.Editor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets an  **Integer** that represents the accent character for the acc
 
 [OMathAcc Object](Word.OMathAcc.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

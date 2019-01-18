@@ -34,4 +34,3 @@ The  **Top** and **Left** properties of the **Page** object always return 0 (zer
 
 [Page Object](Word.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

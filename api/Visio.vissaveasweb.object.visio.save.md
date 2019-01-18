@@ -50,4 +50,4 @@ They can be organized as flat files or in a subfolder that has the same name as 
 > [!NOTE] 
 > To view the **VisSaveAsWeb** class in the Object Browser, make sure that you have a reference to the Save As Web Page DLL in your project (in the Visual Basic Editor window, click **References**, on the **Tools** menu, and then select the **Microsoft Visio 15.0 SaveAsWeb Type Library** check box in the **Available References** list).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

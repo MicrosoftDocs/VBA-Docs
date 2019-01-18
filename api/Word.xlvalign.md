@@ -21,4 +21,3 @@ Specifies the vertical alignment for the object.
 | **xlVAlignJustify**|-4130|Justified alignment.|
 | **xlVAlignTop**|-4160|Top alignment.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

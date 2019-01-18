@@ -32,4 +32,3 @@ The  **VisToParts** return codes indicate the part of a shape to which a connect
 | **visToNone**|0|Do not connect.|
 | **visWholeShape**|3|Connect to entire target shape, using dynamic glue.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

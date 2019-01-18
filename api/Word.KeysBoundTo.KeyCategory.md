@@ -29,4 +29,3 @@ Returns the type of item assigned to the specified key binding. Read-only  **WdK
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

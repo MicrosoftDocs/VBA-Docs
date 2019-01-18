@@ -23,4 +23,3 @@ Constants that represent the possible levels for a content control, returned by 
 | **wdContentControlLevelParagraph**|1|Represents a content control that surrounds one or more complete paragraphs.|
 | **wdContentControlLevelRow**|2|Represents a content control that surrounds a table row.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

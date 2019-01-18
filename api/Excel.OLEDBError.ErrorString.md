@@ -29,4 +29,3 @@ _expression_ A variable that represents an [OLEDBError](Excel.OLEDBError.md) obj
 
 [OLEDBError Object](Excel.OLEDBError.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

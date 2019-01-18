@@ -18,4 +18,3 @@ Export intent constants passed to the  **[Document.ExportAsFixedFormat](Visio.Do
 | **visDocExIntentPrint**|1|Intent is to publish online and to print.|
 | **visDocExIntentScreen**|0|Intent is to publish online.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

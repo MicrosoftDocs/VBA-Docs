@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Mail
 
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

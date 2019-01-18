@@ -43,4 +43,3 @@ The section is moved to the index position immediately before the section whose 
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

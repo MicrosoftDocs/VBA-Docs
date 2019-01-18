@@ -29,4 +29,3 @@ Returns the index number of the object within the collection of similar objects.
 
 [LegendEntry Object](Word.LegendEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

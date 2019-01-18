@@ -56,4 +56,3 @@ Worksheets("Sheet1").UsedRange.Columns("A:C").Calculate
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

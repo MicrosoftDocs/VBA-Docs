@@ -20,4 +20,3 @@ This enumeration has been deprecated and should not be used.
 |**msoIntegerMixed**|32768|Internal use only.|
 |**msoSingleMixed**|-2147483648|Internal use only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

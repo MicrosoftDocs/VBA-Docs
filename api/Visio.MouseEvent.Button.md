@@ -120,4 +120,4 @@ End Sub
 
 Save the document to initialize the class, and then click anywhere in the active window to fire a  **MouseDown** event. In the Immediate window, the handler prints the value that represents the mouse button that was clicked to fire the event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

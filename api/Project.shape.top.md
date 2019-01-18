@@ -26,5 +26,3 @@ Gets or sets the vertical distance, in points, from the top of the report pane t
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

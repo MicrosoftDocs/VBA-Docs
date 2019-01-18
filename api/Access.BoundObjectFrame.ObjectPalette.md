@@ -43,4 +43,3 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

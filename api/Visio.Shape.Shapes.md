@@ -28,4 +28,4 @@ Returns the  **Shapes** collection for a page, master, or group. Read-only.
 
 Shapes
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

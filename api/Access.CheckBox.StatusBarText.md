@@ -56,4 +56,3 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

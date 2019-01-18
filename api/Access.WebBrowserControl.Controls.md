@@ -41,4 +41,3 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

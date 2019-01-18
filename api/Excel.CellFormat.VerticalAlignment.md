@@ -52,4 +52,3 @@ Worksheets("Sheet1").Rows(2).VerticalAlignment = xlVAlignCenter
 
 [CellFormat Object](Excel.CellFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

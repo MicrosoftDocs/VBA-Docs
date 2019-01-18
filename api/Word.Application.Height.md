@@ -29,4 +29,3 @@ Returns or sets the height of the active document window in pixels. Read/write  
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

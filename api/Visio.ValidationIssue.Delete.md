@@ -54,4 +54,4 @@ intIssueNumber = 1
  Next intCurrentIssue
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -62,4 +62,3 @@ Runs the specified procedure.
 | _Arg29_|Optional|**Variant**|Any argument to pass to the macro specified in Name.|
 | _Arg30_|Optional|**Variant**|Any argument to pass to the macro specified in Name.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

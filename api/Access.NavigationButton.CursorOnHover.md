@@ -34,4 +34,3 @@ Setting the  **CursorOnHover** property to **acCursorOnHoverHyperlinkHand** can 
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

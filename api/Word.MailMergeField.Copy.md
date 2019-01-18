@@ -29,4 +29,3 @@ Copies the specified mail merge field to the Clipboard.
 
 [MailMergeField Object](Word.MailMergeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies what the bubble size represents on a bubble chart.
 | **xlSizeIsArea**|1|Area of the bubble.|
 | **xlSizeIsWidth**|2|Width of the bubble.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

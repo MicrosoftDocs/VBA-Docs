@@ -34,4 +34,3 @@ Use the  **Kind** property to specify a document type.
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

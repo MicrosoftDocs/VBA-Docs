@@ -59,4 +59,3 @@ If IsObjectValid(aTable) = True Then _
 
 [Global Object](Word.Global.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

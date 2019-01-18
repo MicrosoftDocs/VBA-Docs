@@ -27,4 +27,5 @@ ActiveWorksheet.QuickAnalysis.Hide(1)
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

@@ -26,5 +26,3 @@ Gets the identification type for the shape. Read-only  **Long**.
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

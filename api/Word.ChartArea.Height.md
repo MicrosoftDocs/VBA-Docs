@@ -29,4 +29,3 @@ Returns or sets the height, in points, of the object. Read/write  **Double**.
 
 [ChartArea Object](Word.ChartArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

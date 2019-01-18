@@ -91,4 +91,3 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 [Access Object Model Reference](overview/Access/object-model.md)
 [AllForms Object Members](overview/Access.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

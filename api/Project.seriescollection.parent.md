@@ -27,5 +27,3 @@ The parent of a  **SeriesCollection** object is a **Chart** object.
 
 [SeriesCollection Object](Project.seriescollection.md)
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

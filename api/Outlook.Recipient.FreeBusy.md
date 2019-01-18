@@ -86,4 +86,3 @@ myFBInfo = myRecipient.FreeBusy(#8/1/03#, 60, True)
 
 [Recipient Object](Outlook.Recipient.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -97,4 +97,4 @@ End Sub
 
 Save the document to initialize the class, and then click anywhere in the active window (optionally, while pressing SHIFT and/or CTRL) to fire a  **MouseDown** event. In the Immediate window, the handler prints the name of the mouse button that was clicked to fire the event. If you pressed either or both of the keys, the name of the key or keys you pressed will print as well.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

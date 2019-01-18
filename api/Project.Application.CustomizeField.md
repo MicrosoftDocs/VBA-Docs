@@ -33,4 +33,4 @@ Displays the  **Customize Fields** dialog box.
 
 The  **CustomizeField** method has the same effect as the **Custom Fields** command on the **Project** tab on the Ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

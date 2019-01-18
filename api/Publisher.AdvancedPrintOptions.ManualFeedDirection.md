@@ -41,4 +41,3 @@ Possible values for  **ManualFeedDirection** are **pbOrientationLandscape** (2) 
 
  [AdvancedPrintOptions Object](Publisher.AdvancedPrintOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

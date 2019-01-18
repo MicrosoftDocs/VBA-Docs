@@ -35,4 +35,4 @@ The  **AddProgressLine** method has no effect unless the active view is a Gantt 
 
 The  **AddProgressLine** method requires user interaction before additional code can be executed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

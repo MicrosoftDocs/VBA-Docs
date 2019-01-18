@@ -59,4 +59,3 @@ newWordArt.TextEffect.Tracking =0.8
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

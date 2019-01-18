@@ -21,4 +21,3 @@ Specifies the mail system that is installed on the host computer.
 | **xlNoMailSystem**|0|No mail system|
 | **xlPowerTalk**|2|PowerTalk mail system|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

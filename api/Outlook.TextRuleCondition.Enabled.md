@@ -36,4 +36,3 @@ Returns an error if you attempt to enable a rule condition that is supported onl
 
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

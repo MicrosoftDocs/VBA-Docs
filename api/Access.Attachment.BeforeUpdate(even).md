@@ -72,4 +72,3 @@ A run-time error will occur if you attempt to modify the data contained in the c
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 [Conversation Object](Outlook.Conversation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

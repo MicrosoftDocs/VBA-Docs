@@ -50,4 +50,4 @@ The following code gets the transparency of the layer at index position 1.
 Debug.Print vsoViewer.LayerColorTrans(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

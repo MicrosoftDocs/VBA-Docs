@@ -29,4 +29,3 @@ Returns the number of levels of category tick labels. Read-only  **Long**.
 
 [TickLabels Object](Word.TickLabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

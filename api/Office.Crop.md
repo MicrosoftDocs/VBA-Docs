@@ -37,5 +37,3 @@ End Sub
 
 - [Crop object members](overview/library-reference/crop-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

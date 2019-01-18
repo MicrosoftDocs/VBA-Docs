@@ -38,4 +38,3 @@ The  **WorkbookConnection** property applies only to **QueryTable** objects.
 
 [QueryTable Object](Excel.QueryTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

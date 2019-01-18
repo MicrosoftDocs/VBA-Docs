@@ -32,4 +32,4 @@ To use the  **BorderColor** property, the **[BorderStyle](Outlook.label.borderst
 
  **BorderStyle** uses **BorderColor** to define the border colors. The **[SpecialEffect](Outlook.label.specialeffect.md)** property uses system colors exclusively to define its border colors. For Windows operating systems, system color settings are set using the **Display** icon in Control Panel.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

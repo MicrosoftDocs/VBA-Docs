@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [ContactsModule Object](Outlook.ContactsModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

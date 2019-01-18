@@ -34,4 +34,3 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the SmartArt diagram of the  **ShapeRange** object. Read-only.
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

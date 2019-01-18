@@ -32,4 +32,4 @@ Returns a single  **[ThemeVariant](PowerPoint.themevariant.md)** object from the
 
  **ThemeVariant**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

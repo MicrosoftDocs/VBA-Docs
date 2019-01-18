@@ -43,4 +43,3 @@ This event fires when a new inline response or draft inline response is closed f
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

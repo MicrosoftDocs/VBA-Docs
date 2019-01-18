@@ -43,4 +43,3 @@ The state of the modifier keys (**SHIFT**,  **CTRL**, or  **ALT**) that are pres
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

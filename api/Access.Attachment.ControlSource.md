@@ -39,4 +39,3 @@ The  **ControlSource** property uses the following settings.
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -60,4 +60,3 @@ End Sub
 
 - [Font2 object members](overview/library-reference/font2-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

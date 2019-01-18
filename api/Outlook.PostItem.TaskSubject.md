@@ -34,4 +34,3 @@ This property returns the value of the  **[Subject](Outlook.PostItem.Subject.md)
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

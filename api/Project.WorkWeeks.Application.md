@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [WorkWeeks Collection Object](Project.workweeks.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

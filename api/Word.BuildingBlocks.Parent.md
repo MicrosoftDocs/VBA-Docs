@@ -26,4 +26,3 @@ Returns an  **Object** that represents the parent object of the specified **Buil
 
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

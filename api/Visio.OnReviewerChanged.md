@@ -69,4 +69,4 @@ Private Sub vsoViewer_OnReviewerChanged(ByVal ReviewerIndex As Long, ByVal Revie
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

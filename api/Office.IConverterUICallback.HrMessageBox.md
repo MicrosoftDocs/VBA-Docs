@@ -41,5 +41,3 @@ _expression_ An expression that returns an **[IConverterUICallback](Office.IConv
 ## See also
 
 - [IConverterUICallback object members](overview/Library-Reference/iconverteruicallback-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

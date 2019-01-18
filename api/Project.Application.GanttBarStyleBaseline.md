@@ -52,4 +52,4 @@ The following command shows the baseline 1 data for tasks on the active Gantt ch
 GanttBarStyleBaseline(1, True)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

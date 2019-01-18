@@ -44,4 +44,4 @@ blnGrouped = Application.ActiveDocument.MasterPages _
  .Item.Shapes(1).IsGroupMember
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

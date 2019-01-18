@@ -43,4 +43,3 @@ Specifies which predefined gradient to use to fill a shape.
 |**msoGradientWheat**|13|Wheat gradient.|
 |**msoPresetGradientMixed**|-2|Mixed gradient.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

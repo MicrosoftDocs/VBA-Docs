@@ -34,4 +34,3 @@ The setting of the  **BottomPadding** property for a single cell overrides the s
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

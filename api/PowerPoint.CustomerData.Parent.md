@@ -34,4 +34,3 @@ Object
 
 [CustomerData Collection](PowerPoint.CustomerData.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

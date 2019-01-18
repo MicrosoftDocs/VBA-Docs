@@ -28,4 +28,4 @@ Displays information about the task or resource object in the active details vie
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns the soft edge formatting for a shape. Read-only  **[SoftEdgeFormat](Word
 
 [ChartFormat Object](Word.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

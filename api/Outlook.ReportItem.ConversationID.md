@@ -38,4 +38,3 @@ If the  **ReportItem** object is created in a version of Microsoft Outlook earli
 
 [ReportItem Object](Outlook.ReportItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

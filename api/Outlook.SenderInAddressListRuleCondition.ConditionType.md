@@ -34,4 +34,3 @@ The rule condition that the sender must be in the address list is supported only
 
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

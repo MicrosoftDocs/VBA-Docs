@@ -34,4 +34,3 @@ Use the  **[SetPlaceholderText](Word.ContentControl.SetPlaceholderText.md)** met
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **[Range](Word.Range.md)** object that represents the first sentence 
 
 [Sentences Collection Object](Word.sentences.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

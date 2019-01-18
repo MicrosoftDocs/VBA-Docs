@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) obje
 
 [Reminder Object](Outlook.Reminder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

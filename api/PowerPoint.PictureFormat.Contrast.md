@@ -51,4 +51,3 @@ myDocument.Shapes(1).PictureFormat.Contrast = 0.8
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

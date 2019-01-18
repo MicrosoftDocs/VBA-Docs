@@ -25,4 +25,4 @@ localization_priority: Normal
 
 Project sets the  **UserControl** property internally.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns the number of items in the  **OMathFunctions** collection. Read-only **L
 
 [OMathFunctions Collection](Word.OMathFunctions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

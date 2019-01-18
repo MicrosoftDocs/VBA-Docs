@@ -34,4 +34,3 @@ The data is copied in unformatted text format, replacing the existing contents o
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

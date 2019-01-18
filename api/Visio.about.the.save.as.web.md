@@ -52,4 +52,4 @@ Whether you run the Save as Web Page feature from the user interface, from code,
 
 For information about the data that is stored in the registry, see  [Persisting Save as Web Page settings](Visio.persisting.save.as.web.md).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

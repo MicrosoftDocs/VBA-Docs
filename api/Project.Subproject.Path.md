@@ -25,4 +25,4 @@ Gets or sets the path to the source project. Read/write  **String**.
 
 The  **Path** property (**Subproject** object) can be set only if the **[LinkToSource](Project.Subproject.LinkToSource.md)** property for the subproject has been set to **True**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

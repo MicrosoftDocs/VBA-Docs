@@ -21,4 +21,3 @@ This enumeration has been deprecated and should not be used.
 | **wdPriorityLow**|2|Not supported.|
 | **wdPriorityNormal**|1|Not supported.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

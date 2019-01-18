@@ -49,4 +49,3 @@ objBB.BuildingBlockCategory = "General"
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ MsgBox ActiveDocument.Fields(1).OLEFormat.Label
 
 [OLEFormat Object](Word.OLEFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

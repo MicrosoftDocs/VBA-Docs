@@ -42,4 +42,3 @@ This method does not support taking constants for native or combination charts.
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

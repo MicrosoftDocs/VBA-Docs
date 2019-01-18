@@ -76,4 +76,3 @@ End Sub
 
 [Reminders Object](Outlook.Reminders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

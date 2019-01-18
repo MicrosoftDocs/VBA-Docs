@@ -27,4 +27,4 @@ The  **Event** property of the **Event** object establishes the event that trigg
 
 Use the  **Persistable** property to find out if the event can be stored with a Microsoft Visio document, or the **Persistent** property to find out if the event is stored. Use the **Trigger** method to trigger an **Event** object's action without waiting for the event to occur. Use the **Enabled** property to temporarily disable an event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

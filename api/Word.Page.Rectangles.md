@@ -47,4 +47,3 @@ Set objRectangles = ActiveDocument.ActiveWindow _
 
 [Page Object](Word.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

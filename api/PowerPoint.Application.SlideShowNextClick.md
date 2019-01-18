@@ -43,4 +43,3 @@ For information about using events with the  **Application** object, see [How to
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

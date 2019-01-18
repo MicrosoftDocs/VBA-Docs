@@ -22,4 +22,3 @@ Specifies cell reference style when a formula is being converted.
 | **xlRelative**|4|Convert to relative row and column style.|
 | **xlRelRowAbsColumn**|3|Convert to relative row and absolute column style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

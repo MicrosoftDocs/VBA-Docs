@@ -35,4 +35,3 @@ Object
 
 [Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

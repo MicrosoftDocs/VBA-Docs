@@ -41,4 +41,4 @@ The  **DataConnection** object exposes properties that make it possible to acces
 
 Multiple  **DataRecordset** objects can share the same **DataConnection** object. When any of the data recordsets that share a data connection are refreshed, all are refreshed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

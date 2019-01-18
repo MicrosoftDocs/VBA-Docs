@@ -33,4 +33,3 @@ Specifies constants that define the raster export color formats; passed to and r
 | **visRaster256ColorGrayScale**|9|256-color grayscale color format|TIFF|
 | **visRaster16Bit**|10|16-bit color format|BMP|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

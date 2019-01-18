@@ -57,4 +57,3 @@ Canceling this property will revert the control to the current value of the prop
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

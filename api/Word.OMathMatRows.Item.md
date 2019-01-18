@@ -42,4 +42,3 @@ OMathMatRow
 
 [OMathMatRows Collection](Word.OMathMatRows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Integer
 
 Setting the  **ShowConnectPoints** property is equivalent to selecting **Connection Points** in the **Visual Aids** group on the **View** tab.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

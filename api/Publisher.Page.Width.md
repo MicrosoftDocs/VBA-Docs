@@ -23,4 +23,4 @@ Returns a  **Long** that represent the width (in points) of a cell, range of cel
 
  _expression_ A variable that represents a  **Page** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -102,4 +102,3 @@ End Sub
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

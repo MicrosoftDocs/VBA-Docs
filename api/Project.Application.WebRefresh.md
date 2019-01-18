@@ -28,4 +28,4 @@ Displays the previously viewed document, without reading it from the cache.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

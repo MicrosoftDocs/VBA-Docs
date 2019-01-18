@@ -34,4 +34,3 @@ The  **[RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)** property
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

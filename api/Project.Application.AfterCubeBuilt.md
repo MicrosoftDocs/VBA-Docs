@@ -33,4 +33,4 @@ Occurs when the OLAP cube-building process completes.
 
 nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

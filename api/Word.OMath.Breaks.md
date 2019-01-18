@@ -29,4 +29,3 @@ Returns an  **[OMathBreaks](Word.OMathBreaks.md)** collection that represents th
 
 [OMath Object](Word.OMath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

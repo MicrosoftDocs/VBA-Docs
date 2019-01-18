@@ -52,4 +52,3 @@ objRet = object(index )
 
 [Comments Collection](Visio.comments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

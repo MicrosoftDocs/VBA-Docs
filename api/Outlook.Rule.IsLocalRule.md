@@ -38,4 +38,3 @@ If the rules collection on a store contains both server and client-side rules, t
 
 [Rule Object](Outlook.Rule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

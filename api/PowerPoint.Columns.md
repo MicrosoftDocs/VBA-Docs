@@ -69,4 +69,3 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Select
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

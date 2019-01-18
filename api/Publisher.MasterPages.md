@@ -81,4 +81,3 @@ End Sub
 |[Item](Publisher.MasterPages.Item.md)|
 |[Parent](Publisher.MasterPages.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

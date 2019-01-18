@@ -34,4 +34,3 @@ An  **AddressEntry** object that represents the organizer of the **AppointmentIt
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

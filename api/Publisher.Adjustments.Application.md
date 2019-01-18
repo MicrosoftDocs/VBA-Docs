@@ -57,4 +57,3 @@ Next
 
  [Adjustments Object](Publisher.Adjustments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

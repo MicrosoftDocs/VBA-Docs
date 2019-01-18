@@ -60,4 +60,3 @@ Position page breaks above or below other controls. Placing a page break on the 
 
 [Access Object Model Reference](overview/Access/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

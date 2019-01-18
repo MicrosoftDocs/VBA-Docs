@@ -63,4 +63,3 @@ The following constants for  _fRound_ are declared in the Visio type library in 
 | **visTruncate**|0 |Truncate the result. |
 | **visRound**|1 |Round the result. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

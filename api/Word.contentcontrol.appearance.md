@@ -32,4 +32,3 @@ Returns or sets the appearance of the content control. Read/write [WdContentCont
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

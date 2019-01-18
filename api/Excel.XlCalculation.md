@@ -21,4 +21,3 @@ Specifies the calculation mode.
 | **xlCalculationManual**|-4135|Calculation is done when the user requests it.|
 | **xlCalculationSemiautomatic**|2|Excel controls recalculation but ignores changes in tables.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -19,4 +19,3 @@ Specifies the width of the arrowhead at the end of a line.
 | **xlArrowHeadWidthNarrow**|1|Narrowest arrowhead|
 | **xlArrowHeadWidthWide**|3|Widest arrowhead|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,4 @@ List position is one-based.
 
 If the container is not a list, Visio returns an Invalid Source error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

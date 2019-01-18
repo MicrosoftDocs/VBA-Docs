@@ -29,4 +29,3 @@ Deletes the specified comment.
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

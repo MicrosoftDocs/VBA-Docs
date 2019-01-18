@@ -46,4 +46,3 @@ Worksheets(1).Hyperlinks(1).EmailSubject = "Quote Request"
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

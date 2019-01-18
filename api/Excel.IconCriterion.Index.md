@@ -34,4 +34,3 @@ For an icon set, this property will return a value of "1" for the minimum thresh
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

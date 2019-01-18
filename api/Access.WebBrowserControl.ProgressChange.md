@@ -50,4 +50,3 @@ To calculate the percent of progress to show in a progress indicator, multiply t
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

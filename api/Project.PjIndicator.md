@@ -84,4 +84,3 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorSquareWhite**|26|The indicator is a white square.|
 |**pjIndicatorSquareYellow**|23|The indicator is a yellow square.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

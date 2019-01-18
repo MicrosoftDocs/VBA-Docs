@@ -48,4 +48,4 @@ Set txtFrame = ActiveDocument.Pages(1) _
 txtFrame.TextRange.Font = "Times New Roman"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

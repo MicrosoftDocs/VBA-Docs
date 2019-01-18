@@ -29,4 +29,3 @@ Copies the object to the Clipboard.
 
 [ChartArea Object](Word.ChartArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

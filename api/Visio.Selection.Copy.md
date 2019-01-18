@@ -58,4 +58,4 @@ Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in 
 
 To make a copy without using the Clipboard, use the  **Duplicate** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

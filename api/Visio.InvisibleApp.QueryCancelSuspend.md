@@ -69,4 +69,4 @@ Private Function vsoApplication_QueryCancelSuspend(ByVal _
 End Function
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

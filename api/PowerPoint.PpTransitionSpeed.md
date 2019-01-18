@@ -22,4 +22,3 @@ Constants that specify the speed of the transition from one slide to the next, p
 |**ppTransitionSpeedMixed**|-2|Mixed|
 |**ppTransitionSpeedSlow**|1|Slow|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

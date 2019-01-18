@@ -27,4 +27,3 @@ Beginning with Microsoft Office 2010, this object or member has been deprecated 
 |**msoSyncStatusNotRoaming**|0|No syncronization is needed.|
 |**msoSyncStatusSuspended**|5|Syncronization has been suspended.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

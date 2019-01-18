@@ -29,4 +29,3 @@ Use the  **[Id](PowerPoint.TableStyle.Id.md)** property to return the numeric id
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

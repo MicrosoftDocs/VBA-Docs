@@ -26,4 +26,4 @@ Returns a  **[Guides](PowerPoint.guides.md)** collection that represents all of 
 
  **GUIDES**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

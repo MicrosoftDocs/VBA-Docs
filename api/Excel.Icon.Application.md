@@ -34,4 +34,3 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [Icon Object](Excel.Icon.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

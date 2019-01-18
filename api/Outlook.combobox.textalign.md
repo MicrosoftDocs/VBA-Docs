@@ -33,4 +33,4 @@ The settings for  **TextAlign** are:
 
 The  **TextAlign** property only affects the edit region; this property has no effect on the alignment of text in the list.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the limit of the l
 
 [OMathLimLow Object](Word.OMathLimLow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

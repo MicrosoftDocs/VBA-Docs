@@ -65,4 +65,3 @@ Forms("Order Entry").Controls("Customer Photo").PictureType = 1
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

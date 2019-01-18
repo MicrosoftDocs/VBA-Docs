@@ -49,4 +49,4 @@ With ActiveDocument.Pages(1).Shapes(3).Shadow
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

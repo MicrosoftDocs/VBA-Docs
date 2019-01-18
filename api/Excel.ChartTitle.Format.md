@@ -34,4 +34,3 @@ The  **[ChartFormat](Excel.ChartFormat.md)** object contains the line, fill, eff
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

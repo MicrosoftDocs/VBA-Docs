@@ -29,4 +29,3 @@ Returns the type of built-in Microsoft Word dialog box. Read-only  **[WdWordDial
 
 [Dialog Object](Word.Dialog.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

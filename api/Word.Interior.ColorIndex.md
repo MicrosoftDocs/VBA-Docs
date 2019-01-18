@@ -39,4 +39,3 @@ The color is specified as an index value into the current color palette, or as o
 
 [Interior Object](Word.Interior.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

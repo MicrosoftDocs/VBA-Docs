@@ -72,4 +72,3 @@ The following example lists the links in a shared workspace site that were modif
 
 [SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

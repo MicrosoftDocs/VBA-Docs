@@ -28,4 +28,4 @@ Indicates whether a master has changed since it was opened. Read-only.
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

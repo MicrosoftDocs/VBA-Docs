@@ -31,4 +31,4 @@ This example pastes the contents of the Clipboard into cell A1 on the datasheet.
 myChart.Application.DataSheet.Range("A1").Paste
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

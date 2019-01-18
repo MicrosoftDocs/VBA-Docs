@@ -28,4 +28,4 @@ Indicates whether the shape is a callout shape. Read-only.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

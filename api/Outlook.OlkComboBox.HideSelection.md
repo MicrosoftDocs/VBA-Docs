@@ -34,4 +34,3 @@ The default value of this property is  **True**.
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

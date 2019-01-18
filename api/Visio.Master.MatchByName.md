@@ -39,4 +39,5 @@ Suppose you create an instance of a shape master from a stand-alone stencil (pro
 
 - If the  **MatchByName** property of the document master is **True** , dragging the original master from the stand-alone stencil into the drawing creates a shape instance that has the document master's attributes and doesn't produce a shape _master_ in the document stencil.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

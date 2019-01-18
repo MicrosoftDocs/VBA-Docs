@@ -55,4 +55,4 @@ The  **Maximum** property returns the maximum number of simultaneous custom conv
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

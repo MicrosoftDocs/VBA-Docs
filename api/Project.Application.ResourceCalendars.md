@@ -42,4 +42,4 @@ Displays the  **Change Working Time** dialog box, which prompts the user to mana
 
 The  **ResourceCalendars** method returns a trappable error (error code 1101) when applied to material resources.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

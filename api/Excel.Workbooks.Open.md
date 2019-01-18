@@ -124,4 +124,4 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 [Workbooks Object](Excel.Workbooks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

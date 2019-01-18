@@ -40,4 +40,3 @@ Setting the formula of a multiple-cell range fills all cells in the range with t
 
 [Series Object](Excel.Series(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

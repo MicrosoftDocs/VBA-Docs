@@ -45,4 +45,3 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

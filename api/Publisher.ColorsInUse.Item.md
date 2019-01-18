@@ -32,4 +32,3 @@ Returns an individual object from a specified collection. Read-only.
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the object to return.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

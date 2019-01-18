@@ -33,4 +33,4 @@ Shape
 
 If this shape is not part of a master instance, the  **RootShape** property returns **Nothing**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

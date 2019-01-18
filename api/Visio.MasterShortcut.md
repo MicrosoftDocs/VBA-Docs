@@ -21,4 +21,4 @@ Represents a master shortcut in a stencil. A master shortcut references a master
 
 The default property of a  **MasterShortcut** object is **Name**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

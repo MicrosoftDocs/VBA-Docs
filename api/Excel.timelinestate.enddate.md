@@ -43,4 +43,3 @@ This property will return an error for either of the following conditions:
 
 [TimelineState Object](Excel.timelinestate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a [ThreeDFormat](Word.ThreeDFormat.md) object that contains 3-D effect f
 
 [Font Object](Word.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

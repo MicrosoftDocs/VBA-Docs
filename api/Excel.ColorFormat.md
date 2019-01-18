@@ -66,4 +66,3 @@ End With
 |[TintAndShade](Excel.ColorFormat.TintAndShade.md)|
 |[Type](Excel.ColorFormat.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

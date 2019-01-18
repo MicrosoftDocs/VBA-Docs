@@ -44,4 +44,4 @@ For any given session of Microsoft Visio, when the  **RasterExportOperation** pr
 
 The setting of the  **RasterExportOperation** property corresponds to the **Operation** setting in the **JPG Output Options** dialog box in the Microsoft Visio user interface. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **JPEG File Interchange Format (*.jpg)**, and then click  **Save**.)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

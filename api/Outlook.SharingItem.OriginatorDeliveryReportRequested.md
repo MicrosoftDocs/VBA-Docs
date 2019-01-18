@@ -36,4 +36,3 @@ The  **OriginatorDeliveryReportRequested** property corresponds to the MAPI prop
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

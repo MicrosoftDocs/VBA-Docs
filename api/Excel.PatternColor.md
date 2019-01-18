@@ -29,4 +29,4 @@ This example sets the color of the interior pattern for the chart area.
 myChart.ChartArea.Interior.PatternColor = RGB(255,0,0)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

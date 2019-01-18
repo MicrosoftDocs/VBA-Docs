@@ -34,4 +34,3 @@ This property returns  **olModuleContacts** for the **[ContactsModule](Outlook.C
 
 [ContactsModule Object](Outlook.ContactsModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

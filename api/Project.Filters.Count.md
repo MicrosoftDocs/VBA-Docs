@@ -91,5 +91,3 @@ End Sub
 
 
 [Filters Collection Object](Project.filters.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You can use the Color Builder to set this property by clicking the  **Build** bu
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

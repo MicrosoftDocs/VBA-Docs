@@ -21,4 +21,3 @@ Contains constants that specify the method to use when importing data.
 |**pjImportMerge**|2|Imported data is merged into the active project.|
 |**pjImportNew**|0|Imported data is placed in a new project.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

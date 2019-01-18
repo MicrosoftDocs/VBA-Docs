@@ -69,4 +69,4 @@ Application.DeferRecalc = blsDeferCalcOriginalValue
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

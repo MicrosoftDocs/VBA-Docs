@@ -44,4 +44,4 @@ Set vsoValidationRule = vsoValidationRuleSet.Rules.Add("Unglued2DShape")
 vsoValidationRule.Ignored = False
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

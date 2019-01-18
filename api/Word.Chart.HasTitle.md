@@ -34,4 +34,3 @@ A chart title is represented by a  **[ChartTitle](Word.ChartTitle.md)** object.
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

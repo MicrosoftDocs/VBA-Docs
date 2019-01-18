@@ -35,4 +35,3 @@ Use the  **[Subprojects](./Project.Project.Subprojects.md)** property to return 
 |[ReadOnly](./Project.Subproject.ReadOnly.md)|
 |[SourceProject](./Project.Subproject.SourceProject.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

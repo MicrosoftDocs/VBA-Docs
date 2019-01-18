@@ -47,4 +47,3 @@ MsgBox "There are " & lockCount & _
 
 [CoAuthor Object](Word.CoAuthor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

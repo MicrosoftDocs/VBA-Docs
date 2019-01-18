@@ -34,4 +34,3 @@ The  **Address** box on the **Details** tab can contain the URL location of the 
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

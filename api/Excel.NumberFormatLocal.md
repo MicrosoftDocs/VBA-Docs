@@ -32,4 +32,4 @@ MsgBox "The number format for the first series is " & _
  myChart.SeriesCollection(1).DataLabels.NumberFormatLocal
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

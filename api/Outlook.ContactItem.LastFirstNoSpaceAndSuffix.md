@@ -34,4 +34,3 @@ This property is used only when the  **[FirstName](Outlook.ContactItem.FirstName
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

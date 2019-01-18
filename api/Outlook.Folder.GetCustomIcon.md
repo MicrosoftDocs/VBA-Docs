@@ -54,4 +54,3 @@ You can only call  **GetCustomIcon** from code that runs in-process as Outlook. 
 
 [Folder Object](Outlook.Folder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

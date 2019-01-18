@@ -27,4 +27,4 @@ Setting  **ColumnCount** to 0 displays zero columns, and setting it to -1 displa
 
 You can use the  **[ColumnWidths](Outlook.listbox.columnwidths.md)** property to set the width of the columns displayed in the control.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

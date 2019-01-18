@@ -28,4 +28,3 @@ Contains constants that specify the unit of time for any tier of a timescale in 
 |**pjTimescaleWeeks**|3|Weeks.|
 |**pjTimescaleYears**|0|Years.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

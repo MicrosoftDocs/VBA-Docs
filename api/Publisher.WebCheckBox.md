@@ -53,4 +53,3 @@ End Sub
 |[Selected](Publisher.WebCheckBox.Selected.md)|
 |[Value](Publisher.WebCheckBox.Value.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

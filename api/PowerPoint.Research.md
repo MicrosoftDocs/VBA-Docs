@@ -27,4 +27,3 @@ The research service feature provides the ability to search multiple custom and 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

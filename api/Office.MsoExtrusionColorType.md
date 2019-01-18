@@ -21,4 +21,3 @@ Specifies whether the extrusion color is based on the extruded shape's fill (the
 |**msoExtrusionColorCustom**|2|Extrusion color is independent of shape fill.|
 |**msoExtrusionColorTypeMixed**|-2|Return value only; indicates a combination of the other states. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

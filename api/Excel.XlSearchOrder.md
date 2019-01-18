@@ -20,4 +20,3 @@ Specifies the order in which to search the range.
 | **xlByColumns**|2|Searches down through a column, then moves to the next column.|
 | **xlByRows**|1|Searches across a row, then moves to the next row.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

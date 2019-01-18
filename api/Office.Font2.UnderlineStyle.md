@@ -30,4 +30,3 @@ _expression_ An expression that returns a **[Font2](Office.Font2.md)** object.
 
 - [Font2 object members](overview/library-reference/font2-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

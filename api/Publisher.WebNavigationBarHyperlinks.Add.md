@@ -55,4 +55,3 @@ RelativePage can be one of these  [PbHlinkTargetType](Publisher.PbHlinkTargetTyp
 | **pbHlinkTargetTypePreviousPage**|
 | **pbHlinkTargetTypeURL**|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

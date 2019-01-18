@@ -17,4 +17,5 @@ Represents the format to be used for a model measure in the data model.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

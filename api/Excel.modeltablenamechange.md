@@ -17,4 +17,5 @@ An object representing the old and new name of a table which was renamed in the 
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

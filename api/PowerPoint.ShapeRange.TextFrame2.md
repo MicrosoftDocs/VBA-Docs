@@ -41,4 +41,3 @@ Use the  **[HasTextFrame](PowerPoint.ShapeRange.HasTextFrame.md)** property to d
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

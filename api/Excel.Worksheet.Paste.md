@@ -56,4 +56,3 @@ ActiveSheet.Paste Destination:=Worksheets("Sheet1").Range("D1:D5")
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

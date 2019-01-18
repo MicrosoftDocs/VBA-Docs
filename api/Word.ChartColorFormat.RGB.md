@@ -48,4 +48,3 @@ End With
 
 [ChartColorFormat Object](Word.ChartColorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

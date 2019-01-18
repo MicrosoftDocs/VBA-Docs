@@ -52,4 +52,3 @@ End Sub
 |[Top](Publisher.ReaderSpread.Top.md)|
 |[Width](Publisher.ReaderSpread.Width.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -63,5 +63,3 @@ Set myReply = myItem.Actions("Reply").Execute
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Actions Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

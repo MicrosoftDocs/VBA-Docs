@@ -49,4 +49,3 @@ This method will produce an error if any of the following conditions are true:
 
 [XPath Object](Excel.XPath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

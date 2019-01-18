@@ -44,4 +44,3 @@ Controls on the same form, report, or data access page can't have the same name,
 
 [Rectangle Object](Access.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

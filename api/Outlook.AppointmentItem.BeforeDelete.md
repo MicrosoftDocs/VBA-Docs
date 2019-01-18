@@ -42,4 +42,3 @@ The event occurs each time an item is deleted.
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

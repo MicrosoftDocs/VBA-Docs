@@ -39,4 +39,3 @@ Application.CurrentProject.UpdateDependencyInfo
 
 [DependencyInfo Object](Access.DependencyInfo.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

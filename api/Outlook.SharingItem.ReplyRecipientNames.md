@@ -34,4 +34,3 @@ This property only contains the display names for the reply recipients. The repl
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

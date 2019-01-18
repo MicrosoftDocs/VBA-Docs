@@ -76,4 +76,3 @@ shapeTextbox2.TextFrame.BreakForwardLink
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

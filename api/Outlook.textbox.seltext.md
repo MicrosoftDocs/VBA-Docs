@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 If no characters are selected in the edit region of the control, the  **SelText** property returns a zero length string. This property is valid regardless of whether the control has the focus.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

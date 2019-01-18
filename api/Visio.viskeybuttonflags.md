@@ -24,4 +24,3 @@ Flags passed to the  **MouseDown** , **MouseMove** , and **MouseUp** events.
 | **visMouseMiddle**|16|Mouse wheel.|
 | **visMouseRight**|2|Right mouse button.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

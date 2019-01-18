@@ -34,4 +34,3 @@ _expression_ A variable that represents a '[Range](Excel.Range(object).md)' obje
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ In cell-reference data-point tracking, data labels track the cell reference that
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

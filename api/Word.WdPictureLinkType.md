@@ -21,4 +21,3 @@ Specifies how a picture should be linked to a document.
 | **wdLinkDataOnDisk**|2|Link the picture to the document.|
 | **wdLinkNone**|0|Do not link to or embed the picture in the document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

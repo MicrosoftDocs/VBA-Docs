@@ -29,4 +29,3 @@ Returns the last item in the  **Sections** collection as a **Section** object.
 
 [Sections Collection Object](Word.sections.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

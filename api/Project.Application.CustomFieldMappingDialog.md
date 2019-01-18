@@ -36,4 +36,4 @@ Returns  **True** if custom task fields can be imported by using a mapping dialo
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

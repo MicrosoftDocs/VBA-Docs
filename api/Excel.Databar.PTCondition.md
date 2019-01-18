@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
 
 [Databar Object](Excel.Databar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

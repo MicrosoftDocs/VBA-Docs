@@ -40,4 +40,3 @@ If you design a form on a system with a different printer than the one you will 
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

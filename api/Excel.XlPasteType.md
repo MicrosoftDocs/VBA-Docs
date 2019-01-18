@@ -28,4 +28,3 @@ Specifies the part of the range to be pasted.
 | **xlPasteValues**|-4163|Values are pasted.|
 | **xlPasteValuesAndNumberFormats**|12|Values and Number formats are pasted.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

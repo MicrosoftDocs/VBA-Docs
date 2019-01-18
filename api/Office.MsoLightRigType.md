@@ -46,4 +46,3 @@ Indicates the effects lighting for an object.
 |**msoLightRigThreePoint**|13|Specifies the ThreePoint effect.|
 |**msoLightRigTwoPoint**|25|Specifies the TwoPoint effect.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

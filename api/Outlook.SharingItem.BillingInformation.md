@@ -34,4 +34,3 @@ This is a free-form text field.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

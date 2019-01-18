@@ -22,4 +22,3 @@ Specifies whether the document text should wrap on both sides of the specified s
 | **wdWrapLeft**|1|Left side of shape only.|
 | **wdWrapRight**|2|Right side of shape only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Gets or sets the type of a table field. Read/write  **PjField**.
 
 The  **Field** property can be one of the **[PjField](Project.PjField.md)** constants.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 [Hyperlink Object](Word.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

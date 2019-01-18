@@ -42,4 +42,3 @@ Returns the current state of the player. Read-only.
 
 [Player Object](PowerPoint.Player.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,3 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

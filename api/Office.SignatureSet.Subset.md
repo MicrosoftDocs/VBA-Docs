@@ -38,4 +38,3 @@ MsoSignatureSubset
 
 [SignatureSet Object Members](./overview/Library-Reference/signatureset-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

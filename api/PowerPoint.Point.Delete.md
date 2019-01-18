@@ -31,4 +31,3 @@ Deleting a  **Point** object deletes the entire series.
 
 [Point Object](PowerPoint.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

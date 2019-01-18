@@ -23,4 +23,3 @@ Indicates the format used to display currency Outlook item properties.
 | **olFormatCurrencyDecimal**|1|Displays currency values with decimal places.|
 | **olFormatCurrencyNonDecimal**|2|Displays currency values without decimal places, rounding the currency value to the nearest integer.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

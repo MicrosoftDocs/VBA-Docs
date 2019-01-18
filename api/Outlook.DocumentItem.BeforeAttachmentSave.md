@@ -42,4 +42,3 @@ In VBScript, if you set the return value of this function to  **False** , the sa
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

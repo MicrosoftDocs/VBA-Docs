@@ -33,4 +33,4 @@ Determines the user initials associated with the Microsoft Visio file. Read/writ
 
 Setting the  **UserInitials** property is equivalent to setting the **Initials** option on the **General** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

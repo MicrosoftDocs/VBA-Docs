@@ -134,5 +134,3 @@ The events that do not work for the  **RemoteItem** object include **Open**, **C
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

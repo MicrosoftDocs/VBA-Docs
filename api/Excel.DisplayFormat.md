@@ -54,5 +54,3 @@ Actions such as changing the conditional formatting or table style of a range ca
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

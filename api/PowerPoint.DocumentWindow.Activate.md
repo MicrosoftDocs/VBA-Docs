@@ -39,4 +39,4 @@ Windows(2).Activate
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents a '[SparkColor](Excel.SparkColor.md)' ob
 
 [SparkColor Object](Excel.SparkColor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

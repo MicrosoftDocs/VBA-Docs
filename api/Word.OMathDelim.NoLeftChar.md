@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether to hide the opening delim
 
 [OMathDelim Object](Word.OMathDelim.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

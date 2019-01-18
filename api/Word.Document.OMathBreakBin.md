@@ -36,4 +36,3 @@ When this property is set to  **wdOMathBreakBinRepeat** , use the **[OMathBreakS
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

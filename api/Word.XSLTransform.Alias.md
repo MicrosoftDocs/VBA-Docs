@@ -39,4 +39,3 @@ MsgBox Application.XMLNamespaces(1).Alias
 
 [XSLTransform Object](Word.XSLTransform.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

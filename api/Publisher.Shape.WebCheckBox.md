@@ -47,4 +47,4 @@ Set wcbTemp = shpNew.WebCheckBox
 wcbTemp.Selected = msoTrue
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

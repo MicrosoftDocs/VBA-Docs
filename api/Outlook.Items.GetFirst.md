@@ -39,4 +39,3 @@ Returns  **Nothing** if no first object exists, for example, if there are no obj
 
 [Items Object](Outlook.Items.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

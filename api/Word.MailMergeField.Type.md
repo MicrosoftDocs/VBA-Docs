@@ -37,4 +37,3 @@ Returns the field type. Read-only  **[WdFieldType](Word.WdFieldType.md)**.
 
 [MailMergeField Object](Word.MailMergeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

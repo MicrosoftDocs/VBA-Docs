@@ -43,4 +43,3 @@ The  **Characters** object isn't a collection.
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Values related to the IDs of Microsoft Visio masters and pages.
 | **visInvalMasterID**|-1|An ID no master will ever have.|
 | **visInvalPageID**|-1|An ID no master will ever have.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

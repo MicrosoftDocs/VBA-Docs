@@ -29,4 +29,3 @@ Returns a  **TextFrame** object that contains the text for the specified range o
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property is stored as the  **Std** value for the time zone in the registry.
 
 [TimeZone Object](Outlook.TimeZone.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

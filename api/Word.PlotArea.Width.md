@@ -29,4 +29,3 @@ Returns or sets the width, in points, of the object. Read/write  **Double**.
 
 [PlotArea Object](Word.PlotArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

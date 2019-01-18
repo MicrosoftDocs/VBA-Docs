@@ -39,4 +39,3 @@ The value of the  **Order** property is automatically assigned by Excel based on
 
 [ValueChange Object](Excel.ValueChange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

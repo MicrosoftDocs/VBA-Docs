@@ -21,4 +21,3 @@ Specifies how to interpret the height or width of a specified frame on a frames 
 | **wdFramesetSizeTypePercent**|0|Word interprets the height or width of the specified frame as a percentage of the screen height or width.|
 | **wdFramesetSizeTypeRelative**|2|Word interprets the height or width of the specified frame as relative to the height or width of other frames on the frames page.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

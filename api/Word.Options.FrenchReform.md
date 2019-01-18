@@ -29,4 +29,3 @@ Returns or sets a  **[WdFrenchSpeller](Word.WdFrenchSpeller.md)** constant that 
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

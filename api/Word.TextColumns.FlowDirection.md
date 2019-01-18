@@ -40,4 +40,3 @@ ActiveDocument.PageSetup.TextColumns.FlowDirection = _
 
 [TextColumns Collection Object](Word(textcolumns).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

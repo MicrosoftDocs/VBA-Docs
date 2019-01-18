@@ -37,5 +37,3 @@ Use the  **[Item](Project.ReportTemplates.Item.md)** property of the **ReportTem
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

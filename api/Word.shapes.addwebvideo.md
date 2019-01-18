@@ -50,4 +50,3 @@ Adds a new web video to the document.
 
 [Shapes Collection](Word.shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

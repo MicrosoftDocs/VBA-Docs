@@ -23,4 +23,3 @@ Specifies the source of the report data.
 | **xlPivotTable**|-4148|Same source as another PivotTable report.|
 | **xlScenario**|4|Data is based on scenarios created using the Scenario Manager.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

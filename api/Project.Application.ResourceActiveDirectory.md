@@ -33,4 +33,4 @@ Displays the  **Select Users or Groups** dialog box, where users can select reso
 
 The  **ResourceActiveDirectory** method is only available in resource views.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

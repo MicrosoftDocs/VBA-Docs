@@ -40,4 +40,4 @@ The following code shows how to determine whether alerts are enabled in Visio Vi
  Debug.Print vsoViewer.AlertsEnabled
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

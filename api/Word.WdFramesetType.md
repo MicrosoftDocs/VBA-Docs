@@ -20,4 +20,3 @@ Specifies the type of frame.
 | **wdFramesetTypeFrame**|1|A single frame.|
 | **wdFramesetTypeFrameset**|0|A frameset.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Indicates units of time measurement.
 |**xlMonths**|1|Specifies Month units.|
 |**xlYears**|2|Specifies Year units.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Checks the spelling in the active project.
 
 The  **SpellingCheck** method is equivalent to the **Spelling** command on the **Project** tab of the Ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

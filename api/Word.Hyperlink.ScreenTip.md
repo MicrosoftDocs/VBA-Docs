@@ -40,4 +40,3 @@ ActiveDocument.Hyperlinks(1).ScreenTip = _
 
 [Hyperlink Object](Word.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

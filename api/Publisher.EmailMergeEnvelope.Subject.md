@@ -28,4 +28,4 @@ Gets or sets the subject line of the merged email message. Read/write.
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

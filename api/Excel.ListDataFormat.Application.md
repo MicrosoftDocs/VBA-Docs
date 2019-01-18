@@ -44,4 +44,3 @@ End If
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

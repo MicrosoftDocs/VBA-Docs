@@ -34,4 +34,3 @@ Boolean
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

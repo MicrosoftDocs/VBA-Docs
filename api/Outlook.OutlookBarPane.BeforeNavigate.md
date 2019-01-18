@@ -75,4 +75,3 @@ End Sub
 
 [OutlookBarPane Object](Outlook.OutlookBarPane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

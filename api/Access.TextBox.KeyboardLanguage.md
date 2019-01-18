@@ -37,4 +37,3 @@ Setting this property to a language that is not installed may either have no eff
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

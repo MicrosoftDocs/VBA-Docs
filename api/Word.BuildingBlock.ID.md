@@ -34,4 +34,3 @@ The  **ID** property returns an identification string that is in the form of a G
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

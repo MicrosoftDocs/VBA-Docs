@@ -34,4 +34,3 @@ The  **IAssistance** object exposes methods that allow developers to display Hel
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,4 @@ Set mySheet = myChart.Application.DataSheet
 mySheet.Range("A1:C5").Insert Shift:=xlShiftDown
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

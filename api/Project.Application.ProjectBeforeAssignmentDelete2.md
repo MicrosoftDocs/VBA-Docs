@@ -43,4 +43,4 @@ Project events do not occur when the project is embedded in another document or 
 
 The  **ProjectBeforeAssignmentDelete2** event doesn't occur when an assignment is deleted as the result of a drag-and-drop operation in the **Resource Usage** view, or when changes have been made using a custom form.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

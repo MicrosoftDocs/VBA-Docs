@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Phonetic](Excel.Phonetic.md) object.
 
 [Phonetic Object](Excel.Phonetic.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

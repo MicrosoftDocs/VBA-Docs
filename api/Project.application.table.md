@@ -34,5 +34,3 @@ The  **Table** method corresponds to the **Table** command on the **DESIGN** tab
 
 
 [Shapes.AddTable Method](Project.shapes.addtable.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

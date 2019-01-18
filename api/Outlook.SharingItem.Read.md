@@ -31,4 +31,3 @@ The  **Read** event differs from the **[Open](Outlook.SharingItem.Open.md)** eve
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,4 +38,3 @@ Worksheets(1).ChartObjects(1).Chart _
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

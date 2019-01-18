@@ -42,4 +42,3 @@ TablesOfAuthoritiesCategory
 
 [TablesOfAuthoritiesCategories Collection Object](Word.tablesofauthoritiescategories.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

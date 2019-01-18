@@ -22,4 +22,5 @@ The  **ModelTableColumn** object will be read only. The purpose of this object i
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

@@ -34,4 +34,3 @@ When the  **[GetRecurrencePattern](Outlook.TaskItem.GetRecurrencePattern.md)** m
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

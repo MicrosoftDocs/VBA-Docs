@@ -39,4 +39,3 @@ If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[
 
 [NegativeBarFormat Object](Excel.NegativeBarFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

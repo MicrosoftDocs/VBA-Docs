@@ -40,4 +40,3 @@ The height of sections is measured from the inside of their borders. The height 
 
 [Section Object](Access.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

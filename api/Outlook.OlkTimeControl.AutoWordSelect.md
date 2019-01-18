@@ -34,4 +34,3 @@ The default value is  **True**.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

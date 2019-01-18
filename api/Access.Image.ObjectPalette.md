@@ -41,4 +41,3 @@ The setting of the  **ObjectPalette** property makes the palette of the applicat
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

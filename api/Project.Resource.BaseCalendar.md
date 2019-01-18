@@ -25,4 +25,4 @@ Gets or sets the name of the base calendar for a resource. Read/write  **String*
 
 The  **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

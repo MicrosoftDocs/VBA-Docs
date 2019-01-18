@@ -20,4 +20,3 @@ Contains constants that specify the way that earned value is calculated.
 |**pjPercentComplete**|0|Percent complete.|
 |**pjPhysicalPercentComplete**|1|Percent complete physically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

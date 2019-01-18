@@ -49,4 +49,3 @@ If num <> 9 Then RecentFiles.Maximum = num + 1
 
 [RecentFiles Collection Object](Word.recentfiles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

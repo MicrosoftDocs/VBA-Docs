@@ -26,4 +26,3 @@ Specifies to what the vertical position of a frame, a shape, or a group of rows 
 | **wdRelativeVerticalPositionOuterMarginArea**|7|Relative to outer margin area.|
 | **wdRelativeVerticalPositionTopMarginArea**|4|Relative to top margin.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

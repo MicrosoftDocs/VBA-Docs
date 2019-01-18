@@ -23,4 +23,4 @@ Deletes the  **TableField** object from a **TableFields** collection.
 
  _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

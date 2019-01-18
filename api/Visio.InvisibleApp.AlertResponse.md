@@ -49,4 +49,3 @@ The values you supply for the  **AlertResponse** property correspond to the stan
 |IDYES|6|
 |IDNO|7|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

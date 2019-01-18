@@ -49,4 +49,4 @@ The following code follows the hyperlink in the first index position in the coll
 vsoViewer.FollowHyperlink 1, 1
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

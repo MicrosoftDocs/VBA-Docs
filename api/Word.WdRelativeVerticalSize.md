@@ -24,4 +24,3 @@ Specifies the relative height of a shape using the value specified in the  **Hei
 | **wdRelativeVerticalSizePage**|1|Height is relative to the height of the page.|
 | **wdRelativeVerticalSizeTopMarginArea**|2|Height is relative to the size of the top margin.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

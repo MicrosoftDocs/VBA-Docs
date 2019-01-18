@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyPress
 
 [NavigationControl Object](Access.NavigationControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

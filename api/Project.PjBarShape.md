@@ -26,4 +26,3 @@ Contains constants that specify the middle shape of a bar.
 |**pjRectangleMiddle**|3|Rectangle middle.|
 |**pjRectangleTop**|2|Rectangle top.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

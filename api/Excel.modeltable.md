@@ -47,5 +47,3 @@ The  **ModelTable** object will be read only (cannot be created or edited progra
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

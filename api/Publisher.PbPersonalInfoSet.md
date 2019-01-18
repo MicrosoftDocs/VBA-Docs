@@ -25,4 +25,3 @@ Indicates the current identity set.
 | **pbPersonalInfoPrimaryBusiness**|1|Primary business|
 | **pbPersonalInfoSecondaryBusiness**|2|Secondary business|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ Copies a bookmark to the new bookmark specified in the Name argument, and return
 
 [Bookmark Object](Word.Bookmark.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

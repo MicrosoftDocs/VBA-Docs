@@ -58,4 +58,4 @@ The  _Direction_ parameter must be one of the following **VisResizeDirection** c
 
 When you resize a selection in a diagonal direction (that is, NE, NW, SE, or SW), the specified distance is applied along both the horizontal and vertical axes (as opposed to along the compass direction).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

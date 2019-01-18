@@ -72,4 +72,3 @@ End With
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

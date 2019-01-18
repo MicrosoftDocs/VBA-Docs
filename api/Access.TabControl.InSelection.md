@@ -70,4 +70,3 @@ End Function
 
 [TabControl Object](Access.TabControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

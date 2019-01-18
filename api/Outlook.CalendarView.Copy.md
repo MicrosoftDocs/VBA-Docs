@@ -43,4 +43,3 @@ A  **View** object that represents the new view.
 
 [CalendarView Object](Outlook.CalendarView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

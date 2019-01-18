@@ -62,4 +62,3 @@ End Sub
 
 [SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

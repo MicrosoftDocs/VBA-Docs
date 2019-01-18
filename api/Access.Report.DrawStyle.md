@@ -50,4 +50,3 @@ The  **DrawStyle** property produces the results described in the preceding tabl
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

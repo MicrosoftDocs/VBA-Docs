@@ -47,4 +47,3 @@ This method is similar to the  **[GetRecipientFromID](Outlook.NameSpace.GetRecip
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

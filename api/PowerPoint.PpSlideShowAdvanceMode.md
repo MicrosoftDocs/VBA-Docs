@@ -21,4 +21,3 @@ Constants that specify the mode of advance of the slide show, passed to and retu
 |**ppSlideShowRehearseNewTimings**|3|Rehearsed timings|
 |**ppSlideShowUseSlideTimings**|2|Specified timings for each slide|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

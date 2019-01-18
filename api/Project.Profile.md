@@ -55,4 +55,3 @@ The  **Project Server Accounts** dialog box shows the number and order of profil
 |[Type](Project.Profile.Type.md)|
 |[UserName](Project.Profile.UserName.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

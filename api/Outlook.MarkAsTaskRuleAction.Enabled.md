@@ -34,4 +34,3 @@ After you enable a rule, you must also save the rule by using  **[Rules.Save](Ou
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

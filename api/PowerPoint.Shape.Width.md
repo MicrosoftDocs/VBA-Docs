@@ -79,4 +79,3 @@ ActivePresentation.Slides(2).Shapes(5).Table.Columns(1).Width = 80
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

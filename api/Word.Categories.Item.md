@@ -42,4 +42,3 @@ Category
 
 [Categories Object](Word.Categories.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ Returns an instance of a  **RevisionsFilter** object. Read-only.
 
 [RevisionsFilter Object](Word.revisionsfilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

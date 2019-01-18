@@ -29,4 +29,3 @@ Returns the number of items in the  **Borders** collection. Read-only **Long**.
 
 [Borders Collection Object](Word.borders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

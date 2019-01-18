@@ -46,4 +46,3 @@ The  **RunCommand** method replaces the **DoMenuItem** method of the **DoCmd** o
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

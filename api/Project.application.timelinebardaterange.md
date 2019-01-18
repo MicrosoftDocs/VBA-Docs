@@ -37,4 +37,4 @@ Modifies the start and finish dates for a  **Timeline** bar. Introduced in Offic
 
  **BOOLEAN**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

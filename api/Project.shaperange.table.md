@@ -27,5 +27,3 @@ Gets the  **ReportTable** object in the shape range. Read-only[ReportTable](Proj
 
 [ShapeRange Object](Project.shaperange.md)
 [ReportTable Object](Project.reporttable.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,4 +57,3 @@ tableNew.Cell(1, 1).Shading.BackgroundPatternColorIndex = _
 
 [Shading Object](Word.Shading.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

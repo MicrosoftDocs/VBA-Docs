@@ -50,4 +50,3 @@ Protects the specified document from unauthorized changes.
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

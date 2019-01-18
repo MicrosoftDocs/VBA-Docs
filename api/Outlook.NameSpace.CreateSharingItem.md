@@ -50,4 +50,3 @@ If  _Provider_ is not specified, the method attempts to use the appropriate shar
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

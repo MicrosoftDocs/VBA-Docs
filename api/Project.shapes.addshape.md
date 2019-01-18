@@ -79,5 +79,3 @@ End Sub
 [Shape Object](Project.shape.md)
 [AutoShapeType Property](Project.shape.autoshapetype.md)
 [MsoAutoShapeType enumeration (Office)](https://msdn.microsoft.com/library/office/ff862770%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

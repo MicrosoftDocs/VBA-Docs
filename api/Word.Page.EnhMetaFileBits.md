@@ -34,4 +34,3 @@ The  **EnhMetaFileBits** property returns an array of bytes, which can be used w
 
 [Page Object](Word.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

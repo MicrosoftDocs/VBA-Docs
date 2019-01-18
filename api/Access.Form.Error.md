@@ -117,4 +117,4 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

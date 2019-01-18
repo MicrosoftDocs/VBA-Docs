@@ -43,4 +43,3 @@ The following constants declared by the Visio type library show the possible ali
 | **visCenter**|2|
 | **visRight**|3|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

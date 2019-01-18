@@ -30,4 +30,3 @@ _expression_. `Blur`
 
 [ReflectionFormat Object Members](./overview/Library-Reference/reflectionformat-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

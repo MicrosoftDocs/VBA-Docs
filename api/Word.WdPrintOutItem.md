@@ -27,4 +27,3 @@ Specifies the item to print.
 | **wdPrintProperties**|1|Properties in the current document.|
 | **wdPrintStyles**|3|Styles in the current document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

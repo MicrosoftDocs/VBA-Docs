@@ -86,4 +86,3 @@ End Sub
 |[Parent](Publisher.View.Parent.md)|
 |[Zoom](Publisher.View.Zoom.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

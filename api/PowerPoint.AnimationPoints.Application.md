@@ -67,4 +67,3 @@ Next
 
 [AnimationPoints Object](PowerPoint.AnimationPoints.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

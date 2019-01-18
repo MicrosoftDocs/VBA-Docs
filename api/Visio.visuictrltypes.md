@@ -31,4 +31,3 @@ Constants that describe control types, used in conjuction with the  **CntrlType*
 | **visCtrlTypeSPLITBUTTON_MRU_COMMAND**|18|Split button, with MRU command behavior.|
 | **visCtrlTypeSPLITBUTTON**|17|Split button.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

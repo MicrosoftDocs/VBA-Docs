@@ -38,4 +38,3 @@ Through the  **Conditions** property, each rule is associated with a **RuleCondi
 
 [Rule Object](Outlook.Rule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Specifies a shape's fill type.
 |**msoFillSolid**|1|Solid fill.|
 |**msoFillTextured**|4|Textured fill.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

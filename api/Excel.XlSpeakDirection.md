@@ -20,4 +20,3 @@ Specifies the order in which the cells are spoken.
 | **xlSpeakByColumns**|1|Reads down a column, then moves to the next column.|
 | **xlSpeakByRows**|0|Reads across a row, then moves to the next row.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

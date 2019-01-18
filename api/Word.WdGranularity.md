@@ -20,4 +20,3 @@ Specifies the granularity of changes to track when comparing two documents.
 | **wdGranularityCharLevel**|0|Tracks character-level changes.|
 | **wdGranularityWordLevel**|1|Tracks word-level changes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

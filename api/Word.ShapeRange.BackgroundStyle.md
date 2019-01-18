@@ -29,4 +29,3 @@ Sets or returns the background style of the shapes in the specified shape range.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

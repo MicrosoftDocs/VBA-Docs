@@ -39,4 +39,3 @@ This property must be set to  **False** if the **[CalendarDetail](Outlook.Calend
 
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

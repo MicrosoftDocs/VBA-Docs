@@ -21,4 +21,3 @@ Contains constants that specify the type of resource request.
 |**pjResourceRequestTypeNone**|0|None.|
 |**pjResourceRequestTypeRequest**|1|Request.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

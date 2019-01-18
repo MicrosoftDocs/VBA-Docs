@@ -28,4 +28,4 @@ Indicates whether the parent  **MailMergeDataSource** object is a master data so
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

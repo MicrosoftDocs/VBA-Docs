@@ -34,4 +34,3 @@ Some of the  **WdNoteNumberStyle** constants may not be available to you, depend
 
 [Footnotes Collection Object](Word.footnotes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Represents the orientation used to print envelopes.
 | **pbOrientationLandscape**|2|Landscape orientation|
 | **pbOrientationPortrait**|1|Portrait orientation|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

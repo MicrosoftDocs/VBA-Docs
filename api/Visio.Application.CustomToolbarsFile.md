@@ -36,4 +36,4 @@ String
 
 If the object is not using custom toolbars, the  **CustomToolbarsFile** property returns **Nothing**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

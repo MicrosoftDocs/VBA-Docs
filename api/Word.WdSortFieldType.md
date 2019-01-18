@@ -25,4 +25,3 @@ Specifies the sort type to apply when sorting a column.
 | **wdSortFieldStroke**|5|Stroke order.|
 | **wdSortFieldSyllable**|3|Syllable order.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

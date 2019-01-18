@@ -47,4 +47,3 @@ ActiveDocument.Shapes(2).Title = "Shape 2."
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

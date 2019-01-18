@@ -77,4 +77,3 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
 
 [Shapes Object](Excel.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ If  **True** , the specified item is in conflict.
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

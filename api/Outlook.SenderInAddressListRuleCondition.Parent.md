@@ -34,4 +34,3 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 [SenderInAddressListRuleCondition Object](Outlook.SenderInAddressListRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

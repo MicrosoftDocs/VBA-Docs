@@ -34,4 +34,3 @@ For contacts with a Microsoft Office InterConnect card type, this will reset the
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

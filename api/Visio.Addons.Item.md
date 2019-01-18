@@ -59,4 +59,4 @@ Beginning with Microsoft Visio 2000, you can use both local and universal names 
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Item** property to access an object in the **Masters** , **Pages** , **Shapes** , **Styles** , **Layers** , or **MasterShortcuts** collection by using its local name. Use the **ItemU** property to access an object from one of these collections by using the object's universal name.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

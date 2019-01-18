@@ -21,4 +21,3 @@ Specifies the horizontal alignment for an equation.
 | **wdOMathHorizAlignLeft**|1|Left alignment.|
 | **wdOMathHorizAlignRight**|2|Right alignment.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -100,4 +100,3 @@ EuroConvert(1.47,"FRF","DEM",TRUE,3)
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

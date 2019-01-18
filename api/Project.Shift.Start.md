@@ -20,4 +20,4 @@ Gets or sets the start date of the work shift. Read/write  **Variant**.
 
  _expression_ A variable that represents a [Shift](./Project.Shift.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

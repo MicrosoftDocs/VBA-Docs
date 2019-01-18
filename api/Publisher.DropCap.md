@@ -58,4 +58,3 @@ End Sub
 |[Size](Publisher.DropCap.Size.md)|
 |[Span](Publisher.DropCap.Span.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

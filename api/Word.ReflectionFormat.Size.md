@@ -29,4 +29,3 @@ Returns or sets the size of the reflection as a percentage of the reflected shap
 
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

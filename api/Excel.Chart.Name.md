@@ -34,4 +34,3 @@ This property is read-only for chart objects (embedded charts).
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

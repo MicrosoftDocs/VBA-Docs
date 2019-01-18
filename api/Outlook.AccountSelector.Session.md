@@ -36,4 +36,3 @@ You can use the  **Session** property and the **[GetNamespace](Outlook.Applicati
 
 [AccountSelector Object](Outlook.AccountSelector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,3 @@ Windows(1).Selection.TextRange.Font.Bold = True
 
 [Selection Object](PowerPoint.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

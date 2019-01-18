@@ -37,4 +37,3 @@ You can specify a gradient fill in the formatting for various shapes. The valid 
 
  [FillFormat Object](Publisher.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

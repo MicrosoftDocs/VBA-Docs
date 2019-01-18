@@ -17,4 +17,5 @@ A collection of [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) o
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

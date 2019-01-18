@@ -17,4 +17,5 @@ Specifies a chart type's category.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

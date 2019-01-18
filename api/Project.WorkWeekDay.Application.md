@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Object**
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

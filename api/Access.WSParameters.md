@@ -36,5 +36,3 @@ Use the [WSParameters](Access.Operation.WSParameters.md) property of the [Operat
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

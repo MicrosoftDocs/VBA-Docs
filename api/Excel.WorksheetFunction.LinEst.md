@@ -116,4 +116,3 @@ The following illustration shows the order in which the additional regression st
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

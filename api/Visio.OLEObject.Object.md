@@ -37,4 +37,4 @@ If the  **Object** property succeeds, it returns an **IDispatch** interface on t
 
 Beginning with Microsoft Visio 5.0, if the object returned by the  **Object** property is embedded and the shape inherits the object from its master, the **Object** property severs the instance—that is, it copies the inherited data into the instance. Otherwise, if the client receiving the **IDispatch** interface from the **Object** property makes changes to the object, all instances of the master, not just the instance being queried, change. If the object returned by the **Object** property is linked, the **Object** property does not sever the instance because, by definition, there may be other entities referencing the link. The **ObjectIsInherited** property was added to Visio 5.0 so that client programs can know if a shape inherits its object and access the master's object(s).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

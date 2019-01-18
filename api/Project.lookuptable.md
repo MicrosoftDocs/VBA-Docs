@@ -37,4 +37,3 @@ The following example adds three level entries to a lookup table, where the thir
 |[Item](./Project.LookupTable.Item.md)|
 |[Parent](./Project.LookupTable.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

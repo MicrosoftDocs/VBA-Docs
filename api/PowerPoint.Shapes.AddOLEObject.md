@@ -88,4 +88,3 @@ myDocument.Shapes.AddOLEObject Left:=100, Top:=100, _
 
 [Shapes Object](PowerPoint.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

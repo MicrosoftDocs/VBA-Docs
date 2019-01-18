@@ -78,4 +78,3 @@ To respond to an event caused by moving the mouse, you use a  **MouseMove** even
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ nothing
 
 Project events do not occur when the project is embedded in another document or application.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

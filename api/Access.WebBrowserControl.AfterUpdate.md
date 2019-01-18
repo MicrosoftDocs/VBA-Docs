@@ -52,4 +52,3 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Simulates the user clicking the drop button on the control. This method causes t
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,4 @@ Dim txtStyle As TextStyle
 Set txtStyle = ActiveDocument.TextStyles.Item(Index:="Normal")
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

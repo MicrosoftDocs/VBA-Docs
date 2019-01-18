@@ -30,5 +30,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [GroupCriteria Collection Object](Project.groupcriteria.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

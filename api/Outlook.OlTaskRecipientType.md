@@ -27,4 +27,4 @@ Indicates the task recipient type.
 
 Used by the [Recipient.Type Property (Outlook)](Outlook.Recipient.Type.md) for[TaskItem](Outlook.TaskItem.md) recipients.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

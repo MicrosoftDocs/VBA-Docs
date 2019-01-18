@@ -34,4 +34,3 @@ The default value is  **olMousePointerDefault**.
 
 [OlkFrameHeader Object](Outlook.OlkFrameHeader.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

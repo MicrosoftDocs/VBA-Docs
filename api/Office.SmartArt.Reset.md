@@ -40,4 +40,3 @@ This action mirrors the functionality presented by the Reset Graphic button unde
 
 [SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

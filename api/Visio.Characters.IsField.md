@@ -33,4 +33,4 @@ Integer
 
 To change the range of text represented by a  **Characters** object, set its **Begin** and **End** properties.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

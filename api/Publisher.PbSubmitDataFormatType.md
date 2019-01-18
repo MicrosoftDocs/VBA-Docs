@@ -25,4 +25,3 @@ Represents the format to use when saving Web form data to a file.
 | **pbSubmitDataFormatRichText**|2|Saves Web form data to a formatted file.|
 | **pbSubmitDataFormatTab**|4|Saves Web form data to a tab-delimited text file.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

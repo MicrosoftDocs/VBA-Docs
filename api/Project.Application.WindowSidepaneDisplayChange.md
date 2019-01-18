@@ -42,4 +42,4 @@ Project events do not occur when the project is embedded in another document or 
 
  **Note**  The Project Guide is disabled by default in Project. Although you can create and display custom Project Guide pages, we recommend that you create a task pane app instead of a custom Project Guide for new development.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns a  **[Range](Word.Range.md)** object that represents the first character
 
 [Characters Collection Object](Word.characters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

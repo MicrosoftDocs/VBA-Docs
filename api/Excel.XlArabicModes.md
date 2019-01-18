@@ -20,4 +20,3 @@ Specifies spelling rules for the Arabic spelling checker.
 | **xlArabicStrictAlefHamza**|1|The spelling checker uses spelling rules regarding Arabic words beginning with an alef hamza.|
 | **xlArabicStrictFinalYaa**|2|The spelling checker uses spelling rules regarding Arabic words ending with the letter yaa.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

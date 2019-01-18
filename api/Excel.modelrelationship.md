@@ -17,4 +17,5 @@ Represents a relationship, currently in the data model, between two tables.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

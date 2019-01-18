@@ -42,4 +42,3 @@ This property directly reflects the state of the  **Select All** check box in th
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,3 @@ The  **DeliverableType** property can have the following values:
 |1|The associated deliverable is produced by the task.|
 |2|The associated deliverable is produced by a separate project or task upon which the current task is dependent.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

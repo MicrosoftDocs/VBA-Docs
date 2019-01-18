@@ -25,4 +25,3 @@ Driver-type constants returned by the  ** [Printer.DriverType](Publisher.Printer
 | **pbDriverTypePostScript2**|3|PostScript 2|
 | **pbDriverTypePostScript3**|4|PostScript 3|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

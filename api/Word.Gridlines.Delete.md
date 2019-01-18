@@ -29,4 +29,3 @@ Deletes the object.
 
 [GridLines Object](Word.GridLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

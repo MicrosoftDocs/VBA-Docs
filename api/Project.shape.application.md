@@ -26,5 +26,3 @@ Gets the  **[Application Object (Project)](Project.Application.md)** object. Rea
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

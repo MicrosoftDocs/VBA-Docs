@@ -29,4 +29,3 @@ _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) ob
 
 [SortFields Object](Excel.SortFields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

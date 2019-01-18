@@ -39,5 +39,5 @@ localization_priority: Normal
 -  [CommandButton.TakeFocusOnClick Property (Outlook Forms Script)](Outlook.commandbutton.takefocusonclick.md)
     
 -  [CommandButton.WordWrap Property (Outlook Forms Script)](Outlook.commandbutton.wordwrap.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

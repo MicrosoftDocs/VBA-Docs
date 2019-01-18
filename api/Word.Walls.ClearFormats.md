@@ -29,4 +29,3 @@ Clears the formatting of the object.
 
 [Walls Object](Word.Walls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

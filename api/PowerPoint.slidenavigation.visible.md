@@ -44,4 +44,4 @@ End Sub
 
  **BOOL**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

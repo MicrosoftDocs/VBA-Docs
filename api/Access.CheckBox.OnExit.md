@@ -57,4 +57,3 @@ Forms("Order Entry").Controls("OK").OnExit = "Exit_Macro"
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

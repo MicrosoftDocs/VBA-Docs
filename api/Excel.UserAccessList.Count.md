@@ -29,4 +29,3 @@ _expression_ A variable that represents an [UserAccessList](./Excel.UserAccessLi
 
 [UserAccessList Object](Excel.UserAccessList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,4 +55,3 @@ ActiveChart.SeriesCollection(1).InvertColor = RGB(255, 0, 255)
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

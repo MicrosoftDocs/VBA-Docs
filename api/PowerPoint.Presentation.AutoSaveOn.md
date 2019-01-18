@@ -48,5 +48,3 @@ End Sub
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [Presentation Object](PowerPoint.Presentation.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

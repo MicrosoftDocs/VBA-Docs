@@ -29,4 +29,3 @@ Returns an  **[OMaths](Word.OMaths.md)** collection that represents the **[OMath
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

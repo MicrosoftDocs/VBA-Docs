@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents the right margin for equations. Re
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

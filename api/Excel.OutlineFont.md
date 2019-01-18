@@ -35,4 +35,4 @@ This example sets the font for the chart title to an outline font.
 myChart.ChartTitle.Font.OutlineFont = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

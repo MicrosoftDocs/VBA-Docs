@@ -52,4 +52,4 @@ The following code loads a drawing named "Shapes.vsd" from the local drive into 
 vsoViewer.Load "C:\Users\User\Shapes.vsd"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

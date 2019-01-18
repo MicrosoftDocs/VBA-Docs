@@ -36,4 +36,3 @@ Specifies the mouse cursor that is displayed while the mouse is positioned over 
 | **olMousePointerSizeWE**|9|Resize cursor from West to East.|
 | **olMousePointerUpArrow**|10|The cursor is the vertical arrow.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

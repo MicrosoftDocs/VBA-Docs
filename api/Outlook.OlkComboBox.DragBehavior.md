@@ -34,4 +34,3 @@ The default value is  **olDragDropDisabled**.
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

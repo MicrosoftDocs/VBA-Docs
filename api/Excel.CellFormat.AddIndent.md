@@ -36,4 +36,3 @@ To set text alignment to equal distribution, you can set the  **[VerticalAlignme
 
 [CellFormat Object](Excel.CellFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

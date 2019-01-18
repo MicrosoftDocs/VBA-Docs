@@ -34,4 +34,3 @@ This property returns only the XML in the document that is needed to represent t
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

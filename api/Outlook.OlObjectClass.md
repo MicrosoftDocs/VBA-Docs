@@ -173,4 +173,4 @@ Specifies constants that represent the different Microsoft Outlook object classe
 
 This enumeration is used by the  **Class** property of Outlook objects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

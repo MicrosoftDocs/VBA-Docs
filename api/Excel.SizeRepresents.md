@@ -35,4 +35,4 @@ This example sets what the bubble size represents for the chart. (The example as
 myChart.ChartGroups(1).SizeRepresents = xlSizeIsWidth
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

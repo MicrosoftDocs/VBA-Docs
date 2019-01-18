@@ -63,4 +63,3 @@ Dialogs(wdDialogFileOpen).Show
 
 [Global Object](Word.Global.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

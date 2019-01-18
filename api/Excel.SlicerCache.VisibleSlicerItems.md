@@ -39,4 +39,3 @@ The  **VisibleSlicerItems** property is only applicable for slicers that are bas
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,3 @@ This method has the same effect as clicking the Microsoft Office Button
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

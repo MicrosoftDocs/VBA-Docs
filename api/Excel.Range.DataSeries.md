@@ -59,4 +59,3 @@ dateRange.DataSeries Type:=xlChronological, Date:=xlMonth
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

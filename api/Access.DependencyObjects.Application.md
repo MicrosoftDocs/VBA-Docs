@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [DependencyObjects Collection](Access.DependencyObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

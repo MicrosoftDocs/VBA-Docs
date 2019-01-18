@@ -44,4 +44,3 @@ End If
 
 [Points Object](Excel.Points(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

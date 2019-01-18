@@ -28,4 +28,4 @@ Returns a  **[Shape](Visio.Shape.md)** object that represents the shape that is 
 
  **Shape**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

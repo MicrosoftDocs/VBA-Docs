@@ -50,4 +50,3 @@ Application.MailingLabel.CreateNewDocument Name:="My Label"
 
 [CustomLabel Object](Word.CustomLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

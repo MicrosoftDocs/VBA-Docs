@@ -33,4 +33,4 @@ If the data grid window is already open, this method has no effect.
 
 The  **ActivateChartDataWindow** method differs from the [ChartData.Activate](PowerPoint.ChartData.Activate.md) method in that the former opens the chart in an Excel window within Word, with the Excel ribbon unavailable, whereas the latter opens a full version of Excel, with the ribbon available.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

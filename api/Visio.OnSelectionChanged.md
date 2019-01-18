@@ -58,4 +58,4 @@ Private Sub vsoViewer_OnSelectionChanged(ByVal ShapeIndex As Long)
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

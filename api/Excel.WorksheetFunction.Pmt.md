@@ -62,4 +62,3 @@ For a more complete description of the arguments in PMT, see the PV function.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

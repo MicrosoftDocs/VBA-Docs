@@ -14,4 +14,4 @@ localization_priority: Normal
 
 Represents the full collection of all chart series, both filtered and unfiltered.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

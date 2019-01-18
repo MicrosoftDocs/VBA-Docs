@@ -17,4 +17,5 @@ An object representing a column in a table in the Excel data model for which the
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

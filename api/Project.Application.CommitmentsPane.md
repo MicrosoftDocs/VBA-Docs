@@ -33,4 +33,4 @@ Opens the  **Deliverables** pane. Available only in Project Professional.
 
 Project Professional must be connected with Project Server to manage deliverables. The  **Manage Deliverables** item on the **Deliverable** drop-down menu on the task tab of the Ribbon also opens the **Deliverables** pane.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

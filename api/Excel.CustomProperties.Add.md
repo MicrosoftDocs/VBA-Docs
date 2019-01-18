@@ -68,4 +68,3 @@ End Sub
 
 [CustomProperties Object](Excel.CustomProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

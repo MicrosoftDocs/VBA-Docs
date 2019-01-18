@@ -55,4 +55,3 @@ objSchema.AttachToDocument ActiveDocument
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

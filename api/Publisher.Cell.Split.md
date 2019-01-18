@@ -47,4 +47,4 @@ Set cllMerged = ActiveDocument.Pages(1).Shapes(1).Table.Cells.Item(1)
 cllMerged.Split
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

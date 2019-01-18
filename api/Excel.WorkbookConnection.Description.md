@@ -36,4 +36,3 @@ The maximum size of a description is 255 characters. If the user specifies a des
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,4 +57,3 @@ Canceling this property will revert the control to the current value of the prop
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

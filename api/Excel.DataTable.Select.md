@@ -29,4 +29,3 @@ _expression_ A variable that represents a [DataTable](Excel.DataTable-graph-prop
 
 [DataTable Object](Excel.DataTable(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

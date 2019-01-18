@@ -106,4 +106,3 @@ Worksheets("Sheet1").ListObjects("Table1").Range.AutoFilter _
  SubField:="Population"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

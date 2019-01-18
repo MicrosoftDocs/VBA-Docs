@@ -48,5 +48,3 @@ You can use the  **Modify** method to change one of the formats, or the **[Delet
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagConversationIndex**.
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

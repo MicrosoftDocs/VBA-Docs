@@ -34,4 +34,3 @@ A search can be synchronous or asynchronous. If the search is synchronous, code 
 
 [Search Object](Outlook.Search.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

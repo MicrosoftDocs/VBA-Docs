@@ -23,4 +23,4 @@ Gets or sets the row height in a table, where the row height is the number of li
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -27,4 +27,3 @@ Constants passed to the  **DataRecordsets.Add** method, specifying characteristi
 | **visDataRecordsetDelayQuery**|8|Adds a data recordset but does not execute the command-string query until the next time you call the  **Refresh** method.|
 | **visDataRecordsetDontCopyLinks**|16|Adds a data recordset, but shape-data links are not copied to the Clipboard when shapes are copied or cut.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

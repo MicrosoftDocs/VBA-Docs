@@ -72,4 +72,4 @@ Set shpSheet = ActiveDocument.Pages(1).Shapes.AddOLEObject _
 shpSheet.OLEFormat.Activate
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

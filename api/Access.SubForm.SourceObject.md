@@ -41,4 +41,3 @@ If you delete the  **SourceObject** property setting in the property sheet for a
 
 [SubForm Object](Access.SubForm.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

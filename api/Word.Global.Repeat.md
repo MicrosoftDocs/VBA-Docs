@@ -69,4 +69,3 @@ If Repeat(3) = True Then StatusBar = "Action repeated"
 
 [Global Object](Word.Global.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

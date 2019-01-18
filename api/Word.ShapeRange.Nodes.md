@@ -29,4 +29,3 @@ Returns a  **ShapeNodes** collection that represents the geometric description o
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

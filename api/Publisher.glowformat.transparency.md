@@ -31,5 +31,5 @@ Returns or sets the degree of transparency for the glow effect as a value betwee
 
 
  [GlowFormat Object](Publisher.glowformat.md)
+ 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

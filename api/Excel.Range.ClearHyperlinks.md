@@ -39,4 +39,3 @@ Calling the  **ClearHyperlinks** method on the specified range is equivalent to 
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Displays the  **Column Definition** dialog box for the specified column.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ If the template has not been saved before, the  **Save As** dialog box prompts t
 
 [Template Object](Word.Template.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

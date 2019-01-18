@@ -22,4 +22,5 @@ Supported contiguous ranges can be set through the [TimelineState.SetFilterDateR
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

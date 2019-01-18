@@ -42,4 +42,3 @@ The event occurs each time an item is deleted.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

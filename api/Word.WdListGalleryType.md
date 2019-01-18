@@ -21,4 +21,3 @@ Specifies the type of list from a list template gallery.
 | **wdNumberGallery**|2|Numbered list.|
 | **wdOutlineNumberGallery**|3|Outline numbered list.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

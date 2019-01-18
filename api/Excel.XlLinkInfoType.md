@@ -21,4 +21,3 @@ Specifies the type of link.
 | **xlLinkInfoPublishers**|5|Publisher|
 | **xlLinkInfoSubscribers**|6|Subscriber|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

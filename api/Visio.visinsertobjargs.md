@@ -25,4 +25,3 @@ Flags to be passed to the  **Page.InsertObject** and **Page.InsertFromFile** met
 | **visInsertLink**|8|If set, the new shape represents an OLE link to the named file. Otherwise, the InsertFromFile method produces an OLE object from the contents of the named file and embeds it in the document that contains the page, master, or group.|
 | **visInsertNoDesignModeTransition**|256|If set, when an ActiveX control is inserted, prevents Microsoft Visio from transitioning to design mode. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

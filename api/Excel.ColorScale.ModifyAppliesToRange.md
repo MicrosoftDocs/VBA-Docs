@@ -44,4 +44,3 @@ You can also use a local defined name in any part of the range, but the name mus
 
 [ColorScale Object](Excel.ColorScale.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

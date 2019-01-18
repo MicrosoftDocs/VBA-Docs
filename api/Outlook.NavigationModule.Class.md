@@ -34,4 +34,3 @@ This property returns  **olNavigationModule** for the **[NavigationModule](Outlo
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

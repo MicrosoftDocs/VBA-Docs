@@ -29,4 +29,3 @@ _expression_ A variable that represents a [CubeFields](Excel.CubeFields.md) obje
 
 [CubeFields Object](Excel.CubeFields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

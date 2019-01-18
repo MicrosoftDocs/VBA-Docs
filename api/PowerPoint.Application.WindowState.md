@@ -58,4 +58,3 @@ Application.ActiveWindow.WindowState = ppWindowMaximized
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

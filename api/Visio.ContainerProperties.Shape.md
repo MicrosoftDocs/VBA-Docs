@@ -28,4 +28,4 @@ Returns the Microsoft Visio  **[Shape](Visio.Shape.md)** object that is associat
 
  **Shape**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

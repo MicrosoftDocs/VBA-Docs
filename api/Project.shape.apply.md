@@ -59,5 +59,3 @@ End Sub
 [Shape Object](Project.shape.md)
 [PickUp Method](Project.shape.pickup.md)
 [ShapeRange.Apply Method](Project.shaperange.apply.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,3 @@ Specifies the type of symbol to use as an enclosure.
 | **wdEnclosureSquare**|1|A square.|
 | **wdEnclosureTriangle**|2|A triangle.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

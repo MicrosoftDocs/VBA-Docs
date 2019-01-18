@@ -46,4 +46,3 @@ Me.ctl.BorderShade=25
 
 [SubForm Object](Access.SubForm.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

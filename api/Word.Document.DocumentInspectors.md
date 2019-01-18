@@ -29,4 +29,3 @@ Returns a  **DocumentInspectors** collection that enables you to locate hidden p
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

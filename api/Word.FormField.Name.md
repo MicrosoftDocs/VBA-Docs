@@ -29,4 +29,3 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 [FormField Object](Word.FormField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

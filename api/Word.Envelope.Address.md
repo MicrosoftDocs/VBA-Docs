@@ -43,4 +43,3 @@ If Err = 5852 Then MsgBox "Insert an envelope into the document"
 
 [Envelope Object](Word.Envelope.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

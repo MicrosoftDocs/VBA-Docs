@@ -68,4 +68,3 @@ The  _pSizeUnits_ parameter must be one of the following **VisRasterExportSizeUn
 | **visRasterCm**|1|Centimeters|
 | **visRasterInch**|2|Inches|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

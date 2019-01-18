@@ -36,4 +36,3 @@ The default setting is (none). After the graphic is loaded into the object, the 
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

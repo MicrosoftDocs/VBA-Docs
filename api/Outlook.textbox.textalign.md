@@ -31,4 +31,3 @@ The settings for  **TextAlign** are:
 |2|Centers the text in the control's display or edit area.|
 |3|Aligns the last character of displayed text with the right edge of the control's display or edit area.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

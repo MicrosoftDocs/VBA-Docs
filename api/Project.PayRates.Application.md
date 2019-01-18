@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [PayRates Collection Object](Project.payrates.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

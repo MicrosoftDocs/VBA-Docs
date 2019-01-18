@@ -56,4 +56,4 @@ Sets information about a project.
 
 Using the  **ProjectSummaryInfo** method with no arguments displays the **Project Information** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

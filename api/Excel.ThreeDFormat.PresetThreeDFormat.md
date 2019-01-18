@@ -76,4 +76,3 @@ End With
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

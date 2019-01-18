@@ -45,4 +45,3 @@ If your report is larger than the available display window, you can use the  **S
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

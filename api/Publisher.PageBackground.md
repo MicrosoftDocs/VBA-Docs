@@ -104,4 +104,3 @@ ActiveDocument.Pages(1).Background.Delete
 |[Fill](Publisher.PageBackground.Fill.md)|
 |[Parent](Publisher.PageBackground.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

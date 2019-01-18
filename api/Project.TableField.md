@@ -39,4 +39,3 @@ Represents a field of a table in Project. The  **TableField** object is a member
 |[Title](./Project.TableField.Title.md)|
 |[Width](./Project.TableField.Width.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

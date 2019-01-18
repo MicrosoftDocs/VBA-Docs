@@ -45,4 +45,3 @@ Adds a chart to the document. Returns an [InlineShape](Word.InlineShape.md) obje
 
 [InlineShapes Collection](Word.inlineshapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

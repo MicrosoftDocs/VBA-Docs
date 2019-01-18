@@ -44,4 +44,3 @@ ActiveWorkbook.SlicerCaches("Slicer_Country").Delete
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

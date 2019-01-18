@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserC
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

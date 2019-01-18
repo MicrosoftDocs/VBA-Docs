@@ -42,4 +42,3 @@ There are other ways to provide information about a form or a control on a form.
 
 [OptionGroup Object](Access.OptionGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

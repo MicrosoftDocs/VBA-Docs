@@ -34,4 +34,3 @@ Some of the constants listed above may not be available to you, depending on the
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

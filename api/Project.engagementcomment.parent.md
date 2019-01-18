@@ -24,4 +24,3 @@ localization_priority: Normal
 
 [EngagementComment Object (Project)](Project.engagementcomment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ By default, when Track Changes is turned on, moved text is marked as deleted and
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

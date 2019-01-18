@@ -30,5 +30,3 @@ The  **MonthItem** property can be one of the following **[PjExceptionItem](Proj
 
 
 [Exception Object](Project.Exception.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

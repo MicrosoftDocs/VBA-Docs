@@ -46,4 +46,3 @@ ActiveDocument.WebOptions.UseDefaultFolderSuffix
 
 [WebOptions Object](Word.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,4 +50,3 @@ End With
 
 [ExtraColors Object](PowerPoint.ExtraColors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

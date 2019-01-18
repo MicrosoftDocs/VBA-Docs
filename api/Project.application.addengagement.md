@@ -32,4 +32,3 @@ Adds a  **Resource Plan** view, enabling users to display and edit engagement da
 
 [Application Object (Project)](Project.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

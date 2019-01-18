@@ -47,4 +47,3 @@ End Sub
 
 [Paragraph Object](Word.Paragraph.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

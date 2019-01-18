@@ -28,4 +28,4 @@ Deselects all shapes in a window or selection.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

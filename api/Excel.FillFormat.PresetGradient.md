@@ -39,4 +39,3 @@ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) obje
 
 [FillFormat Object](Excel.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

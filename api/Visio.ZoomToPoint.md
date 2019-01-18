@@ -52,4 +52,4 @@ The following code displays the drawing at half its previous size, and places th
 vsoViewer.ZoomToPoint 200, 200, 0.5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

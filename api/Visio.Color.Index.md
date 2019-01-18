@@ -33,4 +33,4 @@ Long
 
  The **Colors** collection is indexed starting with 0.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

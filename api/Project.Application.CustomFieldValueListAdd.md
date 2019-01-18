@@ -41,4 +41,4 @@ Adds an item to the value list for a custom field.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

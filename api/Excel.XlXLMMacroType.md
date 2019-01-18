@@ -21,4 +21,3 @@ Specifies, in a Microsoft Excel version 4 macro worksheet, what type of macro a 
 | **xlFunction**|1|Custom function.|
 | **xlNotXLM**|3|Not a macro.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

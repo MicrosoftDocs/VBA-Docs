@@ -54,5 +54,3 @@ Use the  **[Item](Project.WorkWeekDays.Item.md)** property of the **WorkWeekDays
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

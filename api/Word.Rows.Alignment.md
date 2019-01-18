@@ -42,4 +42,3 @@ End Sub
 
 [Rows Collection Object](Word.rows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

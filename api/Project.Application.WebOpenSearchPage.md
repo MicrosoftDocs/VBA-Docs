@@ -28,4 +28,4 @@ Opens the Search Page.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns or sets a  **WdListLevelAlignment** constant that represents the alignme
 
 [ListLevel Object](Word.ListLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

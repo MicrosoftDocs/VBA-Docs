@@ -26,5 +26,3 @@ Gets or sets whether to display report filter field buttons on a PivotChart. Rea
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,3 @@ Flags passed to various properties of the  **Shape** object, including the **Dis
 | **visSpatialIncludeGuides**|&H2|Consider a guide's Geometry section. By default, guides do not influence the result.|
 | **visSpatialIncludeHidden**|&H10|Consider hidden Geometry sections. By default, hidden Geometry sections do not influence the result.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

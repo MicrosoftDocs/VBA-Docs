@@ -51,4 +51,3 @@ For information regarding default values, see the table describing command-line 
 
 Serious problems might occur if you modify the registry incorrectly by using Registry Editor or by using another method. These problems might require that you reinstall the operating system. Microsoft cannot guarantee that these problems can be solved. Modify the registry at your own risk.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

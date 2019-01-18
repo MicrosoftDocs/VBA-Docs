@@ -34,4 +34,3 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

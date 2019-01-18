@@ -25,4 +25,4 @@ Indicates the number of output formats that are installed on the user's computer
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

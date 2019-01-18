@@ -29,4 +29,3 @@ Returns a  **Long** that represents the height of a rectangle, in pixels.
 
 [Rectangle Object](Word.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

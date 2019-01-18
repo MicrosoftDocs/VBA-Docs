@@ -32,4 +32,3 @@ Deletes the specified hidden Web field or Web list box item object.
 |:-----|:-----|:-----|:-----|
 |Index|Required| **Long**|The number of the Web field or list box item to delete.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

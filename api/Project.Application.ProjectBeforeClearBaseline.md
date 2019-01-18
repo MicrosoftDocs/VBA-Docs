@@ -85,5 +85,7 @@ End Sub
 3. Run the RunMacros procedure to start listening to the events.
     
 4. On the  **Tools** menu, point to **Tracking** and click **Clear Baseline**.The event causes a message box to pop up every time a baseline is cleared.
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

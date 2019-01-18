@@ -32,5 +32,3 @@ Boolean
 ## See also
 
 - [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

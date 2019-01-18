@@ -29,4 +29,3 @@ Deletes the specified email signature.
 
 [EmailSignatureEntry Object](Word.EmailSignatureEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,4 @@ You cannot set the  **NameU** property to a value that exceeds 255 characters or
 
 As a developer, you can use universal names in a program when you do not want to change a name each time a solution is localized. Use the  **[Name](Visio.ValidationRuleSet.Name.md)** property to get or set an object's local name. Use the **NameU** property to get or set its universal name.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

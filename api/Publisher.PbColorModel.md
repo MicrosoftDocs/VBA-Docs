@@ -25,4 +25,3 @@ Represents the color model of the picture.
 | **pbColorModelRGB**|1|RGB|
 | **pbColorModelUnknown**|4|Unknown|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

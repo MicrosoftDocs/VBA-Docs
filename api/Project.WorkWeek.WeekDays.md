@@ -26,4 +26,3 @@ Gets a  **[WorkWeekDays](Project.Year.md)** collection representing the days in 
 
 [WorkWeek Object](Project.WorkWeek.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

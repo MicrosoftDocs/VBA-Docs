@@ -45,4 +45,3 @@ MsgBox ActiveDocument.ActiveWindow.ActivePane _
 
 [Frameset Object](Word.Frameset.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

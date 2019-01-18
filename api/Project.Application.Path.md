@@ -25,4 +25,4 @@ Gets the path of the WINPROJ.EXE application file. Read-only  **String**.
 
 The default value of  **Path** for Project is "C:\Program Files\Microsoft Office\Office15".
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

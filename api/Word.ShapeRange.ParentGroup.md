@@ -29,4 +29,3 @@ Returns a  **Shape** object that represents the common parent shape of a range o
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property can be any valid  **WdColor** constant or a value returned by Visu
 
 [Font Object](Word.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

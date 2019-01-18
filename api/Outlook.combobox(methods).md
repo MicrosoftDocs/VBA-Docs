@@ -25,5 +25,5 @@ localization_priority: Normal
 -  [ComboBox.Paste Method (Outlook Forms Script)](Outlook.combobox.paste.md)
     
 -  [ComboBox.RemoveItem Method (Outlook Forms Script)](Outlook.combobox.removeitem.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

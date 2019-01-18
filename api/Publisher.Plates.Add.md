@@ -48,4 +48,4 @@ If ActiveDocument.ColorMode = pbColorModeSpot Then
 End If
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

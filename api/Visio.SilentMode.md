@@ -36,4 +36,4 @@ To control only the display of dialog boxes in the Visio user interface, use the
 
 If both the  **QuietMode** and **SilentMode** properties are set to **True**, the  **SilentMode** property takes precedence and no user interface components are displayed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

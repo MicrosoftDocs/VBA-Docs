@@ -37,4 +37,3 @@ This property returns  **wdUndefined** if it's set to **True** for some of the s
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

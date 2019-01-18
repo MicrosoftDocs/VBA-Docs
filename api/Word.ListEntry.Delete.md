@@ -29,4 +29,3 @@ Deletes the specified list entry.
 
 [ListEntry Object](Word.ListEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

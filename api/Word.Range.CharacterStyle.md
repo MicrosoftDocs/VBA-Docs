@@ -29,4 +29,3 @@ Returns a  **Variant** that represents the style used to format one or more char
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

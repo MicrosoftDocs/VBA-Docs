@@ -38,4 +38,3 @@ The  **VisSnapExtensions** constants specify the snap extensions currently activ
 | **visSnapExtMidpoint**|&H10|Show segment midpoints.|
 | **visSnapExtNone**|&H0|Show no extentions.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

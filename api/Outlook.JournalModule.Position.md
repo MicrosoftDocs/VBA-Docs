@@ -41,4 +41,3 @@ Changing the value of this property for a given  **JournalModule** object change
 
 [JournalModule Object](Outlook.JournalModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

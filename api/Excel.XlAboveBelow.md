@@ -22,4 +22,3 @@ Specifies if the values are above or below average.
 | **xlEqualAboveAverage**|2|Equal above average|
 | **xlEqualBelowAverage**|3|Equal below average|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

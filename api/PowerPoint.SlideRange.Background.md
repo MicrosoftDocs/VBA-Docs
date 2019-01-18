@@ -64,4 +64,3 @@ End With
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

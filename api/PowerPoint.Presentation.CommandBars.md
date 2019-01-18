@@ -29,4 +29,3 @@ Returns a  **CommandBars** collection that represents the merged command bar set
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

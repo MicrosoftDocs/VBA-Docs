@@ -42,4 +42,3 @@ To determine the name of the  **Reference** object you wish to remove, check the
 
 [References Collection](Access.References.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ This example maximizes the Microsoft Graph application window.
 myChart.Application.WindowState = xlMaximized
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

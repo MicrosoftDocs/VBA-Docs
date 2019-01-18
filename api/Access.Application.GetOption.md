@@ -119,4 +119,3 @@ When you quit Microsoft Access, you can reset all options to their original sett
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

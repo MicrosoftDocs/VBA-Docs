@@ -34,4 +34,3 @@ Corresponds to the  **Pasting from other programs** option in the **Advanced** t
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

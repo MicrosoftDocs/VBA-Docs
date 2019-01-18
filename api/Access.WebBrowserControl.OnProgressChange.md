@@ -34,4 +34,3 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

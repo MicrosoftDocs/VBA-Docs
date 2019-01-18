@@ -34,4 +34,3 @@ The  **Value** property of a custom property contains the value of the specified
 
 [AccessObjectProperty Object](Access.AccessObjectProperty.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

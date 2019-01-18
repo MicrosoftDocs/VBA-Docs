@@ -66,4 +66,3 @@ If a modal dialog box is displayed as a result of pressing or sending a key, the
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

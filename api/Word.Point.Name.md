@@ -39,4 +39,3 @@ This property corresponds to the name of a data point on a chart. The name is re
 
 [Point Object](Word.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

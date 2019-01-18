@@ -36,4 +36,4 @@ Long
 
 These collections are indexed starting with 0:  **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -24,4 +24,3 @@ Represents the horizontal alignment of the buttons in a Web navigation bar set.
 | **pbnbAlignLeft**|1|Left-aligned|
 | **pbnbAlignRight**|3|Right-aligned|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -83,4 +83,3 @@ Represents the layout type of the specified publication.
 | **pbLayoutWithComplimentsCard**| **58**||
 | **pbLayoutWordImport**| **48**||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

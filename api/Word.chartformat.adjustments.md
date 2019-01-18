@@ -32,4 +32,3 @@ Returns an [Adjustments](Word.Adjustments.md) object that contains a collection 
 
 [ChartFormat Object](Word.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

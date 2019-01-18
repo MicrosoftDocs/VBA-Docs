@@ -34,4 +34,3 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

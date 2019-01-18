@@ -29,4 +29,3 @@ _expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) obje
 
 [CellFormat Object](Excel.CellFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

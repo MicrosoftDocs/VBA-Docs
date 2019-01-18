@@ -29,4 +29,3 @@ Returns a  **[ReflectionFormat](Publisher.reflectionformat.md)** object that rep
 
  [ShapeRange Object](Publisher.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

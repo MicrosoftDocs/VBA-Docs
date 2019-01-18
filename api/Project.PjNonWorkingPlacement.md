@@ -21,4 +21,3 @@ Contains constants that specify how nonworking times are denoted in relation to 
 |**pjDoNotDraw**|2|Do not draw.|
 |**pjInFront**|1|In front of the Gantt bars.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

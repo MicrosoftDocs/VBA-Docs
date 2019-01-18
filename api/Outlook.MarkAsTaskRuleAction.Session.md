@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

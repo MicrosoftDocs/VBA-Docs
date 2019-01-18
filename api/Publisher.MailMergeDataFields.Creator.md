@@ -20,4 +20,4 @@ Returns a  **Long** that represents the application in which the specified objec
 
  _expression_ A variable that represents a  **MailMergeDataFields** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

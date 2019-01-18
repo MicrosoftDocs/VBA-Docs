@@ -24,4 +24,3 @@ Range constants to be used with the  **Document.PrintOut** method.
 | **visPrintFromTo**|1|Print pages between from index and to index.|
 | **visPrintSelection**|3|Print selection.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

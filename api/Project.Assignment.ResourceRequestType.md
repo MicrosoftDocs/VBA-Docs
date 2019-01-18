@@ -25,4 +25,4 @@ Gets or sets the type of resource request for the assignment. Read/write  **PjRe
 
 The  **ResourceRequestType** property can be one of the following **[PjResourceRequestType](Project.PjResourceRequestType.md)** constants: **pjResourceRequestTypeDemand**, **pjResourceRequestTypeNone**, or **pjResourceRequestTypeRequest**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

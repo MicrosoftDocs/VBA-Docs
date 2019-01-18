@@ -47,4 +47,3 @@ If the name of a category is specified in  _Index_, this method returns the firs
 
 [Categories Object](Outlook.Categories.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

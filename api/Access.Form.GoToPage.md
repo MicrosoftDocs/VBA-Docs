@@ -58,4 +58,3 @@ Forms!Customer.GoToPage 2, 1440, 600
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

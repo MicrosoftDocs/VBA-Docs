@@ -28,4 +28,4 @@ Read/write
 
 PbPrintMode
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

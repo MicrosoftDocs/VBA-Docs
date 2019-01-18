@@ -27,4 +27,4 @@ To instantiate or to return an  **IRTDUpdateEvent** object, declare a variable a
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

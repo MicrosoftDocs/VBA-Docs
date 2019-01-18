@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [Controls Collection](Access.Controls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

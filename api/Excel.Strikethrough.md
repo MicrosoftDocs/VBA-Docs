@@ -30,4 +30,4 @@ This example sets the font in the chart title to strikethrough.
 myChart.ChartTitle.Font.Strikethrough = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

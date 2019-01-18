@@ -22,4 +22,3 @@ Values passed to and returned by the  **Document.SavePreviewMode** property.
 | **visSavePreviewDraftAll**|4|All file pages; includes only Visio shapes. Does not include embedded objects, text, or gradient fills.|
 | **visSavePreviewNone**|0|No preview picture.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

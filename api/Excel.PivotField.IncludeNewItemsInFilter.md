@@ -42,4 +42,3 @@ In PivotTables, this setting is set on the  **PivotField** object. Toggling this
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

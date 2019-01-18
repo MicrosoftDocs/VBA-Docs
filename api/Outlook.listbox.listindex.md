@@ -27,4 +27,4 @@ If you use the  **[MultiSelect](Outlook.listbox.multiselect.md)** property to cr
 
 The  **ListIndex** value is also available by setting the **[BoundColumn](Outlook.listbox.boundcolumn.md)** property to 0 for a list box. If **BoundColumn** is 0, the underlying data source to which the list box is bound contains the same list index value as **ListIndex**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

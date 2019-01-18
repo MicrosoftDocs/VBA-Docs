@@ -45,4 +45,3 @@ End If
 
 [ListFormat Object](Word.ListFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

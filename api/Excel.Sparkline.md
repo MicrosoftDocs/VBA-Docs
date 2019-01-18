@@ -27,4 +27,4 @@ Use the  **[ModifyLocation](Excel.Sparkline.ModifyLocation.md)** method to chang
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

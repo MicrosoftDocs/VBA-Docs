@@ -26,5 +26,3 @@ Gets an  **Office.IMsoChartFormat** object that enables access to format informa
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,4 +76,3 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 [Access Object Model Reference](overview/Access/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

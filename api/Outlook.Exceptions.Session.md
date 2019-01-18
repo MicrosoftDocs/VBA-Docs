@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Exceptions Object](Outlook.Exceptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,4 +57,3 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

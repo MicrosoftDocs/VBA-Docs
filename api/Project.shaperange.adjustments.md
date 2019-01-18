@@ -27,5 +27,3 @@ Gets an  **[Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=
 
 [ShapeRange Object](Project.shaperange.md)
 [Adjustments](https://msdn.microsoft.com/library/office/ff838852%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

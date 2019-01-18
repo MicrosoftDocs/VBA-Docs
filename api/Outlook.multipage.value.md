@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **MultiPage** object.
 
 Zero (0) indicates the first page. The maximum value is one less than the number of pages.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

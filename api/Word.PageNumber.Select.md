@@ -34,4 +34,3 @@ After using this method, use the  **Selection** property to work with the select
 
 [PageNumber Object](Word.PageNumber.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The value of the  **BackgroundStyle** property can be one of the **[MsoBackgroun
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

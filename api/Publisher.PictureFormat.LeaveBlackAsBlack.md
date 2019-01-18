@@ -33,4 +33,4 @@ MsoTriState
 
 The  **LeaveBlackAsBlack** property corresponds to the **Leave black parts black** option in the **Recolor Picture** dialog box in the Microsoft Publisher user interface. (On the **Format** menu, click **Picture**, and then click  **Recolor**).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

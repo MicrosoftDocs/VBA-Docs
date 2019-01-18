@@ -55,4 +55,3 @@ This property is not surfaced in the property sheet.
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

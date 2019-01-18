@@ -29,4 +29,3 @@ Returns or sets whether page numbers in a table of contents or a table of figure
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

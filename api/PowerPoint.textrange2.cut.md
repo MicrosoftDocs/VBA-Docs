@@ -24,4 +24,4 @@ Removes a portion or all of the text from a range of text.
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

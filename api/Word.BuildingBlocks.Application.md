@@ -26,4 +26,3 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

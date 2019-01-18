@@ -34,4 +34,3 @@ For more information, see [Working with Bibliographies](../word/Concepts/Working
 
 [Bibliography Object](Word.Bibliography.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

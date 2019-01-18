@@ -40,4 +40,3 @@ The  **Orientation** property uses the following settings.
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

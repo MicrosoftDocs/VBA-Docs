@@ -42,4 +42,3 @@ returnValue = Worksheet1.FilterMode
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ Worksheets("Sheet1").Rows(2).OutlineLevel = 1
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,4 +56,4 @@ With ActiveDocument.Pages(5).ReaderSpread
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

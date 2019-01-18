@@ -28,4 +28,4 @@ Removes all timescale data fields from a usage view.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

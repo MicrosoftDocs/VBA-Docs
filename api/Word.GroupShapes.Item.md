@@ -42,4 +42,3 @@ Shape
 
 [GroupShapes Collection Object](Word.groupshapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

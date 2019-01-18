@@ -77,4 +77,4 @@ If the parent object has no geometry, or if  _Flags_ excludes consideration of a
 
 The  **DistanceFromPoint** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when computing its result.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

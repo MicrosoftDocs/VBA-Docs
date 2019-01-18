@@ -49,4 +49,4 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
  **Note**  Beginning with Visio 2002, the  **AddOnName** property cannot execute a string that contains arbitrary VBA code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move the code to a procedure in a document's VBA project that is called from the **AddOnName** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

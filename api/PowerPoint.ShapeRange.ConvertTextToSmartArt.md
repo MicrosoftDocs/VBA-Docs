@@ -42,4 +42,3 @@ Returns the number of objects in the specified collection. Read-only.
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ Specifies constants that define different ways to align shapes; passed to and re
 | **visListAlignCenterOrMiddle**|1|Center-align or middle-align shapes.|
 | **visListAlignRightOrBottom**|2|Right-align or bottom-align shapes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

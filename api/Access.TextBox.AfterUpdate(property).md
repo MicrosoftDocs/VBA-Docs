@@ -45,4 +45,3 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

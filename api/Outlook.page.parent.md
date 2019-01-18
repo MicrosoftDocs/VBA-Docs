@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **Page** object.
 
 Use the  **Parent** property to access the controls on the parent object of a given page.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

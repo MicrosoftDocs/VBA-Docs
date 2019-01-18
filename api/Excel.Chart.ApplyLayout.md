@@ -43,4 +43,3 @@ When you use a layout on the current chart type, a number from 1 to 10 is applie
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

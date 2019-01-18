@@ -29,4 +29,3 @@ Returns or sets the height of an inline shape. Read/write  **Single**.
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

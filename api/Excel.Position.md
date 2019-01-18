@@ -57,4 +57,4 @@ This example sets the position of the legend to the top of the chart.
 myChart.Legend.Position = xlLegendPositionTop
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

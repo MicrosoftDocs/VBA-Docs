@@ -46,4 +46,3 @@ currentproject.allforms.count
 
 [AllReports Collection](Access.AllReports.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

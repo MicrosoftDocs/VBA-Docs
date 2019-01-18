@@ -44,4 +44,3 @@ Worksheets(1).Shapes(1).OnAction = "ShapeClick"
 
 [Shape Object](Excel.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

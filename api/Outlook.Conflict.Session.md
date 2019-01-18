@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Conflict Object](Outlook.Conflict.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

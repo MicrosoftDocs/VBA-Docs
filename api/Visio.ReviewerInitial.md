@@ -48,4 +48,4 @@ The following code gets the initials of the reviewer at index position 1 in the 
 Debug.Print vsoViewer.ReviewerInitial(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

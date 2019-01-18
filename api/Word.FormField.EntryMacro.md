@@ -53,4 +53,3 @@ ActiveDocument.FormFields("Text1").EntryMacro = "Breadth"
 
 [FormField Object](Word.FormField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the width, in points, of a rectangle
 
 [Rectangle Object](Word.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Closes the lower pane of the active window.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

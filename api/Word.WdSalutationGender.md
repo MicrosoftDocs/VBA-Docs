@@ -22,4 +22,3 @@ Specifies the gender to use in a salutation.
 | **wdGenderNeutral**|2|Neutral gender.|
 | **wdGenderUnknown**|3|Unknown gender.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

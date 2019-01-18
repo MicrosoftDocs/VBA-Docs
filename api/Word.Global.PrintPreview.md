@@ -49,4 +49,3 @@ ActiveDocument.ActiveWindow.View.Type = wdNormalView
 
 [Global Object](Word.Global.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

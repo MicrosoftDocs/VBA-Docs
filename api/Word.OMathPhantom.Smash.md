@@ -34,4 +34,3 @@ If this property is  **True** , the **[ZeroAsc](Word.OMathPhantom.ZeroAsc.md)** 
 
 [OMathPhantom Object](Word.OMathPhantom.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

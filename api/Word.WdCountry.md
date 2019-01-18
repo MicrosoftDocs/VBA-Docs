@@ -42,4 +42,3 @@ Specifies the country/region setting of the current system.
 | **wdUS**|1|United States|
 | **wdVenezuela**|58|Venezuela|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

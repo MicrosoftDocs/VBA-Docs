@@ -59,4 +59,3 @@ The following example shows how to set a command effect animation behavior.
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

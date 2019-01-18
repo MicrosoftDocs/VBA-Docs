@@ -45,4 +45,3 @@ Forms(0).BeforeUpdate = "[Event Procedure]"
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

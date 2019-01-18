@@ -89,4 +89,3 @@ End Sub
 |[Type](Publisher.FillFormat.Type.md)|
 |[Visible](Publisher.FillFormat.Visible.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

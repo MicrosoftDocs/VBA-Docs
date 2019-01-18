@@ -38,4 +38,3 @@ _expression_ An expression that returns a [DoCmd](Access.DoCmd.md) object.
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

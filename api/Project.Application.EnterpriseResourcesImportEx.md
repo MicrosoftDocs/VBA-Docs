@@ -47,4 +47,4 @@ Using the  **EnterpriseResourcesImportEx** method with no arguments starts the *
 
 The  **EnterpriseResourcesImportEx** method is available in Project Professional only and requires a connection with Project Server.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

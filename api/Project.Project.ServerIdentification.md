@@ -25,4 +25,4 @@ Gets or sets the way Project Professional users are identified to Project Server
 
 The  **ServerIdentification** property can be one of the following **[PjAuthentication](Project.PjAuthentication.md)** constants: **pjWindowsUserAccount** or **pjUserName**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

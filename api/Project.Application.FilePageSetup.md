@@ -36,4 +36,4 @@ Displays the  **Page Setup** dialog box. Equivalent to clicking **Page Setup** o
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

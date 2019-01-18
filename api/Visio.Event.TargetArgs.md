@@ -37,4 +37,4 @@ When you use  **visActCodeRunAddon** , the **TargetArgs** property contains the 
 
 When you use  **visActCodeAdvise** , the **TargetArgs** property contains the string specified with the **AddAdvise** method when the **Event** object was created. When the program receives notification of the event, it can get the **Event** object and its **TargetArgs** property to obtain the string.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

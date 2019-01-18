@@ -39,4 +39,3 @@ MsgBox Selection.Rows(1).IsFirst
 
 [Row Object](Word.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,4 +76,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

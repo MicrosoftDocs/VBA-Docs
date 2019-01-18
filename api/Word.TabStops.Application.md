@@ -34,4 +34,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [TabStops Collection Object](Word.tabstops.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

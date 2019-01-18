@@ -39,4 +39,3 @@ Constants passed to the  **Selection.AutomaticLink** method, specifying the shap
 | **visAutoLinkUserRowName**|3|Field is user-defined cell local row name; field name is  **Cell.RowName** and is required.|
 | **visAutoLinkUserRowNameU**|15|Field is universal user-defined cell row name; field name is  **Cell.RowNameU** and is required.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

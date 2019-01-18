@@ -61,4 +61,3 @@ End With
 
 [Styles Object](Excel.Styles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

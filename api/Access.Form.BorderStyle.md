@@ -60,4 +60,3 @@ Pop-up forms are typically fixed in size, but you can make a pop-up form sizable
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

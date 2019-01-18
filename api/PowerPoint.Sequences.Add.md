@@ -42,4 +42,3 @@ Sequence
 
 [Sequences Object](PowerPoint.Sequences.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

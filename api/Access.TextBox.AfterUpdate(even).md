@@ -47,4 +47,3 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,3 @@ Use with the  **ExportXML** method to specify the type of object to export.
 |**acExportStoredProcedure**|9|Stored procedure (Microsoft Access project only)|
 |**acExportTable**|0|Table|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

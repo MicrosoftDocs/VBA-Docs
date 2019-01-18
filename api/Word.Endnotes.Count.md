@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of endnotes in the collection. Re
 
 [Endnotes Collection Object](Word.endnotes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

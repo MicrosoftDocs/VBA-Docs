@@ -24,4 +24,3 @@ Specifies the tab stop alignment to apply.
 | **wdAlignTabList**|6|List-aligned.|
 | **wdAlignTabRight**|2|Right-aligned.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

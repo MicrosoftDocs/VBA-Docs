@@ -64,5 +64,3 @@ The following examples are valid, if the specified  _URL_ location exists:
 
 
 [Application Object](Project.Application.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Returns the specified  **[CaptionStyle](Publisher.CaptionStyle.md)** object from
 
 CaptionStyle
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

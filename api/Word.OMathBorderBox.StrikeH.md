@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents a horizontal strikethrough. Read/
 
 [OMathBorderBox Object](Word.OMathBorderBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

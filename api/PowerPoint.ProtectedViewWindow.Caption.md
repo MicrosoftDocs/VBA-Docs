@@ -29,4 +29,3 @@ Returns the text that appears in the title bar of the specified window. Read-onl
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

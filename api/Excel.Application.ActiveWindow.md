@@ -30,4 +30,5 @@ This example displays the name (**Caption** property) of the active Excel window
 MsgBox "The name of the active window is " & ActiveWindow.Caption
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

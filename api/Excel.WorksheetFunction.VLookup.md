@@ -67,4 +67,3 @@ The V in  **VLookup** stands for vertical. Use the **VLookup** method instead of
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

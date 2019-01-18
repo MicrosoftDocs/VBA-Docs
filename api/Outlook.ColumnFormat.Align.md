@@ -34,4 +34,3 @@ The value of this property is ignored for properties in which the column label i
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

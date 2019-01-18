@@ -43,4 +43,4 @@ ActiveDocument.ApplyDocumentTheme _
  "Document Themes 12\Verve.thmx"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

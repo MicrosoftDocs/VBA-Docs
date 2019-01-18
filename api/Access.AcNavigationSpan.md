@@ -23,4 +23,3 @@ Specifies the orientation of navigation buttons.
 |**acHorizontal**|0|The navigation buttons are displayed horizontally.|
 |**acVertical**|1|The navigation buttons are displayed vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ Specifies the interior pattern of a chart or interior object.
 |**xlPatternUp**|-4162|Dark diagonal lines running from the lower left to the upper right.|
 |**xlPatternVertical**|-4166|Dark vertical bars.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

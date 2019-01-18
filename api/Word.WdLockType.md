@@ -22,4 +22,3 @@ Specifies the type of lock for a  **[CoAuthLock](Word.CoAuthLock.md)** object.
 | **wdLockNone**|0|Reserved for future use.|
 | **wdLockReservation**|1|Specifies a reservation lock. A reservation lock is explicitly created by a user through the  **Block Authors** button on the **Review** tab in Word.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

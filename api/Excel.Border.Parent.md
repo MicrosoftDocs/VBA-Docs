@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Border](Excel.Border-graph-property.m
 
 [Border Object](Excel.Border(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

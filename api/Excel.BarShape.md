@@ -39,4 +39,4 @@ This example sets the shape used with series one on the chart.
 myChart.SeriesCollection(1).BarShape = xlConeToPoint
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

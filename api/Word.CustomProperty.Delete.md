@@ -29,4 +29,3 @@ Deletes the specified custom property.
 
 [CustomProperty Object](Word.CustomProperty.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

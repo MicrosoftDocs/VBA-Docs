@@ -22,4 +22,3 @@ Specifies the extent to which the colors in the specified object follow the slid
 |**ppFollowColorsScheme**|1|All the colors in the chart follow the slide's color scheme.|
 |**ppFollowColorsTextAndBackground**|2|Only the text and background follow the slide's color scheme.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

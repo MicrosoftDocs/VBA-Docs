@@ -29,4 +29,3 @@ Returns or sets an  **Integer** that represents a character used as the n-ary op
 
 [OMathNary Object](Word.OMathNary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

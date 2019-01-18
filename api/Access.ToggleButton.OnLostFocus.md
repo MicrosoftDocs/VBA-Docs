@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnLostFocus
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

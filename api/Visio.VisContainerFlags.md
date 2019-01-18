@@ -28,4 +28,3 @@ Specifies which container member shape IDs to return; constants passed to the  *
 | **visContainerFlagsExcludeNested**|16|Excludes any member shapes that are members of containers nested within the container.|
 | **visContainerFlagsExcludeListMembers**|32|Excludes members of a list container that are explicitly members of the list. Does not exclude other shapes in the list container.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

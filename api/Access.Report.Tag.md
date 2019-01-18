@@ -38,4 +38,3 @@ You can use this property to assign an identification string to an object withou
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

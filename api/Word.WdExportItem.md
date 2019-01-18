@@ -20,4 +20,3 @@ Specifies whether to export the document with markup.
 | **wdExportDocumentContent**|0|Exports the document without markup.|
 | **wdExportDocumentWithMarkup**|7|Exports the document with markup.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

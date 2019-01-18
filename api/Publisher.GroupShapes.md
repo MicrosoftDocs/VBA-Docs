@@ -62,4 +62,3 @@ End Sub
 |[Count](Publisher.GroupShapes.Count.md)|
 |[Parent](Publisher.GroupShapes.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

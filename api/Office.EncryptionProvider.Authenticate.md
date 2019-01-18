@@ -45,5 +45,3 @@ This is where your COM add-in encryption provider displays whatever user interfa
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

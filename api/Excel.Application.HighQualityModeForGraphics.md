@@ -34,4 +34,3 @@ This property corresponds to the setting of the  **High quality mode for graphic
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

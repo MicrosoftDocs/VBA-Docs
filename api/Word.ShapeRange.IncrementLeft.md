@@ -37,4 +37,3 @@ Moves the specified shape horizontally by the specified number of points.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

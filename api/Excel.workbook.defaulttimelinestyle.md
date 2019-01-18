@@ -32,4 +32,3 @@ _expression_ A variable that represents a [Workbook object (Excel)](Excel.Workbo
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

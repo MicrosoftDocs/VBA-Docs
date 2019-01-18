@@ -21,4 +21,3 @@ Specifies how the application handles calls to methods and properties that requi
 |**msoFeatureInstallOnDemand**|1|Prompts the user to install new features.|
 |**msoFeatureInstallOnDemandWithUI**|2|Displays a progress meter during installation; does not prompt the user to install new features.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,4 @@ With ActiveDocument.LayoutGuides
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

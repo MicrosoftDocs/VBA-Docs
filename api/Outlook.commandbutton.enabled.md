@@ -40,4 +40,4 @@ The  **Enabled** and **[Locked](Outlook.commandbutton.locked.md)** properties wo
 
 You can combine the settings of the  **Enabled** and the **TabStop** properties to prevent the user from selecting a **[CommandButton](Outlook.commandbutton.md)** with TAB, while still allowing the user to click the button. Setting **TabStop** to **False** means that the **CommandButton** won't appear in the tab order. However, if **Enabled** is **True**, then the user can still click the command button, as long as  **[TakeFocusOnClick](Outlook.commandbutton.takefocusonclick.md)** is set to **True**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -22,4 +22,3 @@ Contains constants that specify the work breakdown structure (WBS) sequence.
 |**pjWBSOrderedUppercaseLetters**|1|Uppercase letters.|
 |**pjWBSUnorderedCharacters**|3|Unordered characters.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

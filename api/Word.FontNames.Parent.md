@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Font
 
 [FontNames Object](Word.FontNames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

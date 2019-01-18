@@ -29,4 +29,3 @@ Returns or sets a  **Variant** that represents the name of the character style t
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents the left indent value (in points) 
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

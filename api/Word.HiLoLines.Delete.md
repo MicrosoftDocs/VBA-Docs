@@ -29,4 +29,3 @@ Deletes the object.
 
 [HiLoLines Object](Word.HiLoLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies the control over the multi-threaded calculation mode.
 | **xlThreadModeAutomatic**|0|Multi-threaded calculation mode is automatic.|
 | **xlThreadModeManual**|1|Multi-threaded calculation mode is manual.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

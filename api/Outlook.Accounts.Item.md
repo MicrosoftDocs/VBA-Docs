@@ -42,4 +42,3 @@ An  **Account** object that matches the account specified by _Index_ .
 
 [Accounts Object](Outlook.Accounts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

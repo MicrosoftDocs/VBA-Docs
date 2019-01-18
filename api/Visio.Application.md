@@ -279,4 +279,3 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[WindowHandle32](./Visio.Application.WindowHandle32.md)|
 |[Windows](./Visio.Application.Windows.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,5 +23,3 @@ Specifies the position of a legend relative to its associated chart.
 |**acLegendPositionLeft**|0|Left edge of the chart|
 |**acLegendPositionRight**|2|Right edge of the chart|
 |**acLegendPositionTop**|1|Top edge of the chart|
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

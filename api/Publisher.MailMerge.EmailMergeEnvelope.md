@@ -28,4 +28,4 @@ Returns the  **EmailMergeEnvelope** object associated with the parent **MailMerg
 
 EmailMergeEnvelope
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -44,4 +44,3 @@ If the word is spelled correctly, the  **Count** property of the **[SpellingSugg
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

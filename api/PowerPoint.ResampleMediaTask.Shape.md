@@ -34,4 +34,3 @@ Shape
 
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

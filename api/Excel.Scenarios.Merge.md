@@ -47,4 +47,3 @@ The value of a merged range is specified in the cell of the range's upper-left c
 
 [Scenarios Object](Excel.Scenarios.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

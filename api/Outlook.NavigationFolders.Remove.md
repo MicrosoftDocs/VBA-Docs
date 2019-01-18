@@ -42,4 +42,3 @@ Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](Ou
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

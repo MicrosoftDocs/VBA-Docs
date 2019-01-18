@@ -53,4 +53,3 @@ Msgbox ActiveSheet.PivotTables(1) _
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

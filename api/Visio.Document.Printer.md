@@ -33,4 +33,4 @@ String
 
 The  **Printer** property corresponds to the **Name** box in the **Print** dialog box (click the **File** tab, click **Print**, and then click  **Print** again).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -21,4 +21,3 @@ Specifies the state of the command underlines in Microsoft Excel for the Macinto
 | **xlCommandUnderlinesOff**|-4146|Command underlines are not displayed.|
 | **xlCommandUnderlinesOn**|1|Command underlines are displayed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseMove
 
 [OptionGroup Object](Access.OptionGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

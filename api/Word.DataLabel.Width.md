@@ -29,4 +29,3 @@ Gets or sets the width, in points, of the object. Read/write  **Double**.
 
 [DataLabel Object](Word.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

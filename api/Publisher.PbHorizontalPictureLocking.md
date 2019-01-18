@@ -25,4 +25,3 @@ Indicates where newly inserted pictures appear in relation to the specified fram
 | **pbHorizontalLockingRight**|2|New pictures are inserted along the right edge of the frame.|
 | **pbHorizontalLockingStretch**|3|New pictures are horizontally stretched to the full width of the frame.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

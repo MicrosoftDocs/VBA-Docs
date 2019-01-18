@@ -21,4 +21,3 @@ Specifies the font bias for symbols.
 | **wdFontBiasDontCare**|255|No font bias specified.|
 | **wdFontBiasFareast**|1|Font bias for Asian languages.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

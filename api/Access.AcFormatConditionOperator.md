@@ -29,4 +29,3 @@ Specifies the operator to apply when using the  **Add** method to create a condi
 |**acNotBetween**|1|The value must not be between the values specified by the Expression1 and Expression2 arguments. |
 |**acNotEqual**|3|The value must not be equal to the value specified by the Expression1 argument.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

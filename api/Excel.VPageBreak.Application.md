@@ -44,4 +44,3 @@ End If
 
 [VPageBreak Object](Excel.VPageBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You can set the orientation for a text frame or for a range that happens to occu
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

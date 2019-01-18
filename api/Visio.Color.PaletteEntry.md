@@ -42,4 +42,4 @@ The value passed is four tightly packed BYTE fields. The correspondence between 
     paletteentry == r+256(b+256(g+256f))
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

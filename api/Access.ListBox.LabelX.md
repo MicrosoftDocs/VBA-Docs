@@ -39,4 +39,3 @@ For General and Right alignment when orientation is RTL,  **LabelX** and **Label
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

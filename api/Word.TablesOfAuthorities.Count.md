@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of tables of authorities in the c
 
 [TablesOfAuthorities Collection Object](Word.tablesofauthorities.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

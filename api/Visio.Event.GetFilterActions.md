@@ -57,4 +57,4 @@ The filter actions that are returned in the first and second array elements of e
 
 For more information about using event extensions to define filter actions, see the  **[SetFilterActions](Visio.Event.SetFilterActions.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

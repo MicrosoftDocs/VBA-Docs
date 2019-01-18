@@ -78,4 +78,3 @@ ActiveDocument.Hyperlinks.Add Anchor:=Selection.ShapeRange(1), _
 
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

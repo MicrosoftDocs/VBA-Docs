@@ -28,5 +28,3 @@ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 ```vb
 [Employee];[Date Worked]
 ```
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

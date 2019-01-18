@@ -28,4 +28,4 @@ Starts the Visual Basic Editor and displays any macro code in the active project
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

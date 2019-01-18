@@ -93,4 +93,3 @@ End Sub
 |[Count](Publisher.Rows.Count.md)|
 |[Parent](Publisher.Rows.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

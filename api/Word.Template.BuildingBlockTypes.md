@@ -29,4 +29,3 @@ Returns a  **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection that 
 
 [Template Object](Word.Template.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

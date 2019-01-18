@@ -33,4 +33,4 @@ Selects all cells in the active table.
 
 The  **SelectSheet** method is only available when the Gantt Chart, Task Sheet, Task Usage view, Resource Sheet, or Resource Usage view is the active view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

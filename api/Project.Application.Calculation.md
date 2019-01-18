@@ -25,4 +25,4 @@ Gets or sets the calculation mode. Read/write  **PjCalculation**.
 
 The  **Calculation** value can be one of the following **[PjCalculation](Project.PjCalculation.md)** constants: **pjAutomatic** or **pjManual**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

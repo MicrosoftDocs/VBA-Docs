@@ -56,4 +56,3 @@ The value of the  **Protection** property can be a combination of the following 
 | **visProtectBackgrounds**|&H8|
 | **visProtectPreviews**|&H10|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

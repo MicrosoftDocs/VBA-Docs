@@ -55,4 +55,4 @@ Diagram services apply only to solutions that manipulate Visio programmatically 
 
 By default, diagram services are disabled for a document. You must enable any services you want to take advantage of before your solution modifies the diagram. Diagram service settings are not persisted from one session of Visio to the next.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

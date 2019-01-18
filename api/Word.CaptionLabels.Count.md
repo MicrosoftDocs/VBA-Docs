@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of caption labels in the collecti
 
 [CaptionLabels Collection Object](Word.captionlabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

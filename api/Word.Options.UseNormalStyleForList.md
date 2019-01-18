@@ -34,4 +34,3 @@ Corresponds to the  **Use Normal style for bulleted and numbered lists** check b
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

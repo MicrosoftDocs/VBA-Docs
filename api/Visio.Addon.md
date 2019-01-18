@@ -23,4 +23,4 @@ To retrieve an  **Addon** object, use the **Addons** collection of an **Applicat
 
 The default property of an  **Addon** object is **Name**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -47,4 +47,4 @@ If an argument is omitted, its default value is specified by the current setting
 
  **OptionsSecurityEx** returns **True** if the user clicks **OK** in the **Options** dialog box, or **False** if the user chooses **Cancel**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

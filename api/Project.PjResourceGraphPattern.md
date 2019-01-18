@@ -35,4 +35,3 @@ Contains constants that specify the pattern of a resource graph.
 |**pjNoGraphLine**|0|No graph line.|
 |**pjSolidFill**|1|Solid fill.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

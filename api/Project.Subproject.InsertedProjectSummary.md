@@ -20,4 +20,4 @@ Gets a  **[Task](Project.Task.md)** object that represents the summary task of t
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -24,4 +24,4 @@ Adds period (.) punctuation to the right side of the text contained in TextRange
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

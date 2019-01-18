@@ -86,4 +86,3 @@ Next
 
 [TextEffectFormat Object](Excel.TextEffectFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

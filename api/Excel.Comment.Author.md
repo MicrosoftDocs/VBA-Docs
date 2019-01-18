@@ -33,4 +33,5 @@ For Each c in ActiveSheet.Comments
 Next
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

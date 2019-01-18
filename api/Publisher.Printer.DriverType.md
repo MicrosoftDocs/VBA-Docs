@@ -42,4 +42,3 @@ Possible values for the  **DriverType** property are declared in the **PbDriverT
 | **pbDriverTypePostScript2**|3|PostScript 2|
 | **pbDriverTypePostScript3**|4|PostScript 3|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

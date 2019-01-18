@@ -42,4 +42,4 @@ nothing
 
 More details about the Queue job can be obtained by making the ** getJobCompletionState PSI** call on the **QueueSystem.asmx** webservice with the job GUID.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

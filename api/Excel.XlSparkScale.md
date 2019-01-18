@@ -25,4 +25,4 @@ Specifies how the minimum or maximum value of the vertical axis of the sparkline
 
 The constants of the  **xlSparkScale** enumeration correspond to the settings of the **Vertical Axis Minimum Value Options** and the **Vertical Axis Maximum Value Options** on the **Axis** drop-down list on the **Sparkline Tools Design** tab of the ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

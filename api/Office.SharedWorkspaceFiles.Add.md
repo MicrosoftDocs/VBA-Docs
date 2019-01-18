@@ -65,4 +65,3 @@ The following example adds a new file to the files collection of the shared work
 
 [SharedWorkspaceFiles Object Members](./overview/Library-Reference/sharedworkspacefiles-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

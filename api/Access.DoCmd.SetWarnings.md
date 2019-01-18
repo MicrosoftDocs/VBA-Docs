@@ -65,4 +65,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

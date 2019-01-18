@@ -33,5 +33,3 @@ Gets a single  **Calendar** object from the **Calendars** collection. Read-only 
 
 
 [Calendars Collection Object](Project.calendars.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

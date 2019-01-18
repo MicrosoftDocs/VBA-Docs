@@ -42,4 +42,3 @@ Pane
 
 [Panes Collection Object](Word.panes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

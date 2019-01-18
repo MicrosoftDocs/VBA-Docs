@@ -36,4 +36,4 @@ Integer
 
 The value of  **Left** must be greater than or equal to zero.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -24,4 +24,3 @@ Specifies if and how extensive entry matching is applied while the user types in
 | **olMatchEntryFirstLetter**|0|Basic matching: The control searches for the next entry that starts with the character entered. Repeatedly typing the same letter cycles through all entries beginning with that letter.|
 | **olMatchEntryNone**|2|No matching is performed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 The  **MatchFound** property is read-only. It is not applicable when the **[MatchEntry](Outlook.combobox.matchentry.md)** property is set to 2.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

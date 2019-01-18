@@ -120,4 +120,3 @@ End Sub
 
 [CardView Object](Outlook.cardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

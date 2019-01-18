@@ -28,4 +28,4 @@ Returns the  **Fonts** collection of a **Document** object. Read-only.
 
 Fonts
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

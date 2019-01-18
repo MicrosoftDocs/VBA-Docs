@@ -35,4 +35,4 @@ You must set the value of the  **PrintFitOnPages** property to **True** in order
 
 The  **PrintPagesAcross** property corresponds to the **Fit to sheet(s) across** setting in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

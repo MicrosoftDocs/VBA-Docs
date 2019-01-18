@@ -53,4 +53,3 @@ The default value varies depending whether the new media is an audio or video fi
 
 [Shapes Object](PowerPoint.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

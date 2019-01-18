@@ -34,4 +34,4 @@ The value returned by  **ReplaceFlags** is equal to a combination of one or more
 
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

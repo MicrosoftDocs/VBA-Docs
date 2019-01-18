@@ -29,4 +29,3 @@ _expression_. `Visible`
 
 [NavigationModule Object](Outlook.NavigationModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

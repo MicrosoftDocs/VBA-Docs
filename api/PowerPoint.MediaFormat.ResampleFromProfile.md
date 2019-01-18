@@ -55,4 +55,3 @@ profile must be one of the following  **PpResampleMediaProfile** constants.
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

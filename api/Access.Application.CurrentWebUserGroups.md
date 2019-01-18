@@ -47,4 +47,3 @@ The  **CurrentWebUserGroups** method returns **Null** if the user is not a membe
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

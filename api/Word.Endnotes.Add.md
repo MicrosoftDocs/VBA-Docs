@@ -56,4 +56,3 @@ ActiveDocument.Endnotes.Add Range:=myRange, _
 
 [Endnotes Collection Object](Word.endnotes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

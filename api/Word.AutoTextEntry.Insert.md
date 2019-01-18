@@ -63,4 +63,3 @@ End Sub
 
 [AutoTextEntry Object](Word.AutoTextEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

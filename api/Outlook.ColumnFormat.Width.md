@@ -36,4 +36,3 @@ If the value of this property for every column in a view is less than the total 
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

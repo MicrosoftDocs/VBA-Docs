@@ -34,4 +34,3 @@ Does not apply to PivotTables connected to OLAP data sources.
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -67,4 +67,3 @@ The  _pResolutionUnits_ parameter must be one of the following **VisRasterExport
 | **visRasterPixelsPerInch**|0|Pixels per inch.|
 | **visRasterPixelsPerCm**|1|Pixels per centimeter.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,3 @@ Constants that specify how text-unit effects are animated, passed to and returne
 |**ppAnimateByWord**|1|Text-unit effects are animated by word.|
 |**ppAnimateUnitMixed**|-2|Text-unit effects are animated in a mixed manner.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

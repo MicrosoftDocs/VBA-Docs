@@ -39,4 +39,3 @@ You can control the appearance and behavior of a shadow applied to a table by se
 
 [TableBackground Object](PowerPoint.TableBackground.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

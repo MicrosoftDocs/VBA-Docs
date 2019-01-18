@@ -91,5 +91,3 @@ End Sub
 
 
 [Assignments Collection Object](Project.assignments.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

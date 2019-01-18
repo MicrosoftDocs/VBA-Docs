@@ -46,4 +46,4 @@ The following example returns the label of the first item in the undo list.
 GetUndoListItem(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

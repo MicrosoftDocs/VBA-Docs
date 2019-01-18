@@ -67,5 +67,3 @@ public void CTPFactoryAvailable(ICTPFactory CTPFactoryInst)
 ## See also
 
 - [ICTPFactory object members](overview/Library-Reference/ictpfactory-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

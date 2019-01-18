@@ -65,4 +65,3 @@ The following example alerts the user and displays the sync status if more than 
 
 [Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

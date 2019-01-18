@@ -46,4 +46,3 @@ MsgBox "The current database is located at " & Application.CurrentProject.Path &
 
 [CodeProject Object](Access.CodeProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

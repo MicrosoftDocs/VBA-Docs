@@ -43,4 +43,3 @@ You can also set the default for this property by using a control's default cont
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

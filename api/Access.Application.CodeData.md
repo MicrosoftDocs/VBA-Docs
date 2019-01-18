@@ -34,4 +34,3 @@ Use the  **CodeData** property to refer to one of the following code database co
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

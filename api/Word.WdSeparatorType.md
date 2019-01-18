@@ -23,4 +23,3 @@ Specifies the type of separator to place between items.
 | **wdSeparatorHyphen**|0|A hyphen.|
 | **wdSeparatorPeriod**|1|A period.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

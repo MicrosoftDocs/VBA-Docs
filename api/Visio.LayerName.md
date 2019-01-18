@@ -54,4 +54,4 @@ For intCounter = 1 To vsoViewer.LayerCount
 Next intCounter
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

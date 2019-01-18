@@ -34,4 +34,3 @@ The contents of the range are moved to the Clipboard but a collapsed range remai
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

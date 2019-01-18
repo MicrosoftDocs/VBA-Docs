@@ -61,4 +61,4 @@ If there are no  **True** ranges defined in the array, events are considered **T
 
 For details about defining event filters using command IDs, see the  **SetFilterObjects** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

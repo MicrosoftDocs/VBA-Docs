@@ -29,4 +29,3 @@ Returns or sets the spacing (in points) between the cells in a table style. Read
 
 [TableStyle Object](Word.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

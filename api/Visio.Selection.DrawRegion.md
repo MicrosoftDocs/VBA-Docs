@@ -73,4 +73,4 @@ If the  **DrawRegion** method is passed a reference to a **Master** object in _R
 
 The new  **Shape** object has no text other than text already in _ResultsMaster_.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

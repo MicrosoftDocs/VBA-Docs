@@ -38,4 +38,4 @@ You can get the connection string associated with a data recordset by first usin
 
 The  **DataConnection** property returns **Nothing** for "connectionless" **DataRecordset** objects—those that are created by using the **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

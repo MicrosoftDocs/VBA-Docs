@@ -71,5 +71,3 @@ Specifies the file format when saving the worksheet.
 | **xlWorks2FarEast**|28|Microsoft Works 2.0 far east format|*.wks|
 | **xlWQ1**|34|Quattro Pro format|*.wq1|
 | **xlXMLSpreadsheet**|46|XML Spreadsheet|*.xml|
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ You can use these properties with the  **SelHeight** and **SelWidth** properties
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

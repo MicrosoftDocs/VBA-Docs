@@ -39,4 +39,4 @@ If the [ContentControl.AllowInsertDeleteSection](Word.contentcontrol.allowinsert
 
 [RepeatingSectionItem Object](Word.repeatingsectionitem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -37,4 +37,4 @@ Each shape in the selection is added to its underlying containers according to t
 
 The  **AddToContainers** method works only if the selection sits at least partially on top of a container that does not already contain it.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

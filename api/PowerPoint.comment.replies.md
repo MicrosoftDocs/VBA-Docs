@@ -31,4 +31,4 @@ Calling the [Add](PowerPoint.Comments.Add.md) method on the returned collection 
 
  **COMMENTS**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

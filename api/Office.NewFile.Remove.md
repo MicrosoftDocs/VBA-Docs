@@ -48,4 +48,3 @@ The arguments supplied to the  **Remove** method must match the arguments that w
 
 [NewFile Object Members](./overview/Library-Reference/newfile-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

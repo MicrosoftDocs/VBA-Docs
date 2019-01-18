@@ -50,4 +50,3 @@ The formula for the hyperbolic cosine is:
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ The  **NavigationWhereClaue** property is a string expression consisting of a WH
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

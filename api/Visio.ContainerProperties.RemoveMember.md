@@ -47,4 +47,4 @@ If the  **[ContainerProperties.LockMembership](Visio.ContainerProperties.LockMem
 
 If  _ObjectToRemove_ does not contain top-level shapes on the page, Visio returns an Invalid Parameter error. However, if _ObjectToRemove_ is not a container member, Visio does not return an error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -39,4 +39,3 @@ It returns  **Nothing** if no previous object exists, for example, if already po
 
 [Results Object](Outlook.Results.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ Fills the selected cells or columns with the values in the specified cell or col
 
 The  **FillAcross** method is only available in timephased cells of usage views.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessC
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

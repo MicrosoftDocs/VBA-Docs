@@ -34,4 +34,3 @@ You can set the thread mode to either  **xlThreadModeAutomatic** or **xlThreadMo
 
 [MultiThreadedCalculation Object](Excel.MultiThreadedCalculation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

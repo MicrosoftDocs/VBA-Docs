@@ -29,4 +29,3 @@ Used with the  **GoToRecord** method to specify the type of object that contains
 |**acDataStoredProcedure**|9|A stored procedure contains the record (Microsoft Access project only).|
 |**acDataTable**|0|A table contains the record.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

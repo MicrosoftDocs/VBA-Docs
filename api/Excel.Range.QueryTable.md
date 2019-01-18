@@ -39,4 +39,3 @@ Worksheets(1).Range("a10").QueryTable.Refresh
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

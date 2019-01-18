@@ -34,4 +34,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Template Object](Word.Template.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

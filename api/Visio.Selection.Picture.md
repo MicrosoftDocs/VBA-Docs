@@ -53,4 +53,4 @@ Currently, only in-process solutions can use the  **Picture** property because t
     
 For details about the  **IPictureDisp** interface, see the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

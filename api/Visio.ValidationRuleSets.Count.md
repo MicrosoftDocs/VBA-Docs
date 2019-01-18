@@ -28,4 +28,4 @@ Returns the number of  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** objec
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

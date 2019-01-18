@@ -44,4 +44,3 @@ The  **HyperlinkAddress** property can contain an absolute or a relative path to
 
 [Hyperlink Object](Access.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

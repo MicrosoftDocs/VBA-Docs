@@ -39,4 +39,3 @@ Specifies the type of equation function.
 | **wdOMathFunctionScrSup**|19|Scr sup.|
 | **wdOMathFunctionText**|20|Equation text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

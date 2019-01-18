@@ -47,4 +47,3 @@ Returns an error when the rule cannot be found in the collection.
 
 [Rules Object](Outlook.Rules.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

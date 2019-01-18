@@ -55,4 +55,5 @@ End Sub
 - [RibbonXML callbacks](https://docs.microsoft.com/previous-versions/office/developer/office-2007/aa722523(v=office.12))
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

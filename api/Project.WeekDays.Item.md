@@ -33,5 +33,3 @@ Gets a single  **WeekDay** object from the **WeekDays** collection. Read-only **
 
 
 [WeekDays Collection Object](Project.weekdays.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

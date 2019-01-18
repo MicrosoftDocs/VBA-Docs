@@ -42,4 +42,4 @@ The following code sets a typical path to a source file in Visio Viewer.
 vsoViewer.SRC = "C:\users\Visio User\My Visio Drawing.vsd"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

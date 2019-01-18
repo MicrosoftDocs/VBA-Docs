@@ -93,4 +93,3 @@ End Sub
 |[RotationY](Publisher.ThreeDFormat.RotationY.md)|
 |[Visible](Publisher.ThreeDFormat.Visible.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

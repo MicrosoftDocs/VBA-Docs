@@ -21,4 +21,5 @@ Returns the timeline for the  **Timeline** object. Introduced in Office 2016.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

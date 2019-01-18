@@ -22,4 +22,5 @@ Each measure is represented by a [ModelMeasure](Excel.modelmeasure.md) object. U
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

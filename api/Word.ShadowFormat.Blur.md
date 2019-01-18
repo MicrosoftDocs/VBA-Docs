@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents the blur level for a shadow format
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,3 @@ An error occurs if an add-in attempts to add more than 50 navigation groups to a
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

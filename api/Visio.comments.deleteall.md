@@ -37,4 +37,3 @@ Deletes all the comments from the active document.
 
 [Comments Collection](Visio.comments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

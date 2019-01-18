@@ -39,4 +39,3 @@ A  **[Conflict](Outlook.Conflict.md)** object that represents the last object co
 
 [Conflicts Object](Outlook.Conflicts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

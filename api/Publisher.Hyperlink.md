@@ -95,4 +95,3 @@ End Sub
 |[TextToDisplay](./Publisher.Hyperlink.TextToDisplay.md)|
 |[Type](./Publisher.Hyperlink.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

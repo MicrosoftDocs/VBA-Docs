@@ -29,4 +29,3 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
 [DataLabel Object](Word.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

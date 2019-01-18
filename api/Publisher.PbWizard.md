@@ -83,4 +83,3 @@ The wizard to use to create the new publication.
 | **pbWizardWithComplimentsCards**|73|Creates with compliments cards|
 | **pbWizardWordDocument**|189|Creates a Microsoft Office Word document|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

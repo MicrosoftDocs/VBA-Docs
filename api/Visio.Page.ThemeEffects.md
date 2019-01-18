@@ -46,4 +46,4 @@ You can set the  **ThemeEffects** property value to any one of the following:
 
 The  **ThemeEffects** property always returns the universal name of the current theme effect.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

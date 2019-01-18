@@ -38,4 +38,4 @@ Returns the value, description, or phonetic spelling of an item in the value lis
 
  **String**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -26,4 +26,3 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

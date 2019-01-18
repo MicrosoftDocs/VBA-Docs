@@ -34,4 +34,3 @@ The  **SingleStep** method will not stop the execution of or assist in debugging
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

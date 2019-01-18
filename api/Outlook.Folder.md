@@ -96,5 +96,3 @@ There is a set of folders within an Outlook data store that supports the default
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Folder Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

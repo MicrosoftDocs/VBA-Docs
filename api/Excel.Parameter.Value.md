@@ -34,4 +34,3 @@ For more information, see the  **[Parameter](Excel.Parameter.md)** object.
 
 [Parameter Object](Excel.Parameter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

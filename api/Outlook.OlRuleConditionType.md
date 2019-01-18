@@ -59,4 +59,4 @@ The list of rule condition types in this enumeration includes all the rule condi
 
 For example, the rule condition types  **olConditionDateRange** and **olConditionSizeRange** are supported only for enumeration and enabling or disabling in an existing rule. You cannot programmatically create a rule with such conditions. You cannot programmatically get or set the values of x and y that represent the range.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

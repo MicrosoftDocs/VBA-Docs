@@ -34,4 +34,4 @@ Changes to the merged document returned by the  **WorkingDocument** property are
 
 [CoauthMergeEvent Object](Visio.coauthmergeevent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

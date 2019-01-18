@@ -45,4 +45,3 @@ Documents("Sales.doc").FormFields("Colors").DropDown _
 
 [DropDown Object](Word.DropDown.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

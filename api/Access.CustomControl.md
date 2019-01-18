@@ -150,5 +150,3 @@ You can also view the custom properties dialog box by clicking the **Properties*
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

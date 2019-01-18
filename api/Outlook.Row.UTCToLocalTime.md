@@ -49,4 +49,3 @@ For information on property value representation in a  **Table** , see [Factors 
 
 [Row Object](Outlook.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

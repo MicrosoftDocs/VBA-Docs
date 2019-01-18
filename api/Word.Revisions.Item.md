@@ -42,4 +42,3 @@ Revision
 
 [Revisions Collection Object](Word.revisions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The value of this property affects the appearance of solid-colored fills. It has
 
 [FillFormat Object](Word.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

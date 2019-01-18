@@ -29,4 +29,3 @@ Returns an  **OMathArgs** object that represents the list of arguments for the s
 
 [OMathDelim Object](Word.OMathDelim.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

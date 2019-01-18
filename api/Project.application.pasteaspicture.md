@@ -38,5 +38,3 @@ Pastes a copy of a report or a shape, where the copy is a picture.
 [PasteDestFormatting Method](Project.application.pastedestformatting.md)
 [CopyReport Method](Project.application.copyreport.md)
 [Shape.Copy Method](Project.shape.copy.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

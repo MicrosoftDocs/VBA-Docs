@@ -52,5 +52,3 @@ Worksheets("sheet4").Outline.ShowLevels 1
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

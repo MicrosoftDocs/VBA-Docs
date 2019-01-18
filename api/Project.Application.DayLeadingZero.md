@@ -25,4 +25,4 @@ localization_priority: Normal
 
 Project sets the  **DayLeadingZero** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

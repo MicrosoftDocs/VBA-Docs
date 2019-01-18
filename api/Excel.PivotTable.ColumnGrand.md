@@ -40,4 +40,3 @@ pvtTable.ColumnGrand = True
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

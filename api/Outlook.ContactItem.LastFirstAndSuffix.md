@@ -34,4 +34,3 @@ There is a comma between the last and first names and spaces between all the nam
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

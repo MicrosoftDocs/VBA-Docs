@@ -26,4 +26,3 @@ Specifies constants that define the different ways to incrementally align a shap
 | **visLayoutHorzAlignCenter**|3|Align the centers of the shapes.|
 | **visLayoutHorzAlignRight**|4|Align the right edges of the shapes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ Returns the horizontal position of the upper-left corner of a box in the active 
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

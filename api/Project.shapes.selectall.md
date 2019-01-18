@@ -26,5 +26,3 @@ Selects all shapes in the  **Shapes** collection.
 
 
 [Shapes Object](Project.shapes.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

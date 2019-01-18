@@ -91,4 +91,4 @@ Function GetCommandEnabled(command As String) As String
 End Function
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

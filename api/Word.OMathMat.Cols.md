@@ -29,4 +29,3 @@ Returns an  **[OMathMatCols](Word.OMathMatCols.md)** collection that represents 
 
 [OMathMat Object](Word.OMathMat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

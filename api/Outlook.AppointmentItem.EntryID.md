@@ -38,4 +38,3 @@ Furthermore, when you call the  **AppointmentItem.Respond** method with the **ol
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

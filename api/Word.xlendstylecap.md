@@ -18,4 +18,3 @@ Specifies the end style for error bars.
 | **xlCap**|1|Caps are applied.|
 | **xlNoCap**|2|No caps are applied.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

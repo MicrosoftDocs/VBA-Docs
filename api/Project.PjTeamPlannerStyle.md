@@ -23,4 +23,3 @@ Contains constants that specify the Team Planner style to edit in Project.
 |**pjTPScheduledWork**|0|Set the  **Auto Scheduled** style in the Team Planner .|
 |**pjTPSRA**|2|Set the  **External Task** style in the Team Planner.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [LeaderLines](Excel.LeaderLines-graph-
 
 [LeaderLines Object](Excel.LeaderLines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

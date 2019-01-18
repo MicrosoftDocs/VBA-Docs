@@ -41,4 +41,3 @@ Possible values for the  **Priority** property are declared in the **pbEmailMerg
 | **pbPriorityLow**|2|Low priority|
 | **pbPriorityHigh**|1|High priority|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

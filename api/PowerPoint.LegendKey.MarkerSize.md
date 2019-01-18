@@ -31,4 +31,3 @@ The value of this property can be from 2 through 72.
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

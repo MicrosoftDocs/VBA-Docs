@@ -26,4 +26,4 @@ Returns  **True** if the current instance of Visio is 32-bit. Returns **False** 
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

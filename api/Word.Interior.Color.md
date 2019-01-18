@@ -29,4 +29,3 @@ Returns or sets the primary color of the object. Read/write  **Variant**.
 
 [Interior Object](Word.Interior.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

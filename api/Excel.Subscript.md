@@ -16,4 +16,4 @@ localization_priority: Normal
 
  **True** if the specified font is formatted as subscript. The default value is **False**. Read/write  **Variant**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

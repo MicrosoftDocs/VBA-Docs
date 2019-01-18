@@ -56,4 +56,4 @@ Dim intCounter As Integer
 Next intCounter
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

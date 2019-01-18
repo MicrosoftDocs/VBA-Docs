@@ -75,5 +75,3 @@ ActiveProject.TaskGroups2("Overallocated Tasks").GroupCriteria(1).Ascending = Fa
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

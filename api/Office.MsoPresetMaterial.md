@@ -34,4 +34,3 @@ Specifies the extrusion surface material. Used with the  **PresetMaterial** prop
 |**msoMaterialWireFrame**|4|Wireframe|
 |**msoPresetMaterialMixed**|-2|Mixed Material|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

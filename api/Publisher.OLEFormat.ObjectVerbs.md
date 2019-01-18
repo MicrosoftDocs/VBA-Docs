@@ -44,4 +44,4 @@ With ActiveDocument.Pages(2).Shapes(1).OLEFormat
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

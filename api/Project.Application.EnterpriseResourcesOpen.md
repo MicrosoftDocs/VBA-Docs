@@ -37,4 +37,4 @@ Opens the pool of enterprise resources for viewing in a temporary project. Avail
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

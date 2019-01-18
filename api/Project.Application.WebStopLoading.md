@@ -28,4 +28,4 @@ Stops loading the document.
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

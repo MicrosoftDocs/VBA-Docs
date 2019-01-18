@@ -28,4 +28,4 @@ Displays the  **File Open** dialog box, which allows the user to search for a fi
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

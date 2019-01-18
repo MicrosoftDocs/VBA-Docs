@@ -78,4 +78,3 @@ Indicates the function of a specified shape with respect to its publication desi
 | **pbWizardTagTagLineGroup**|119|Tag Line Group|
 | **pbWizardTagTime**|1836|Tag Time|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

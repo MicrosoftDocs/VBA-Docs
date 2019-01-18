@@ -32,4 +32,3 @@ Specifies the page size for a custom mailing label.
 | **wdCustomLabelVertHalfSheet**|9|Half-sheet portrait label dimensions.|
 | **wdCustomLabelVertHalfSheetLS**|10|Half-sheet landscape label dimensions.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

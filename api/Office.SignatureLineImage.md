@@ -22,4 +22,3 @@ Indicates the signature line image.
 |**siglnimgSoftwareRequired**|0|The SoftwareRequired image.|
 |**siglnimgUnsigned**|1|The Unsigned image.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ File format types passed to the  **Document.ExportAsFixedFormat** method.
 | **visFixedFormatPDF**|1|PDF format.|
 | **visFixedFormatXPS**|2|XPS format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

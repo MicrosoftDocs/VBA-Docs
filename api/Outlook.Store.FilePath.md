@@ -34,4 +34,3 @@ This property supports both Exchange and non-Exchange stores. If the store is no
 
 [Store Object](Outlook.Store.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

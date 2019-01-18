@@ -49,4 +49,4 @@ If Not theShape.IsInline = msoTrue Then
 End If
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

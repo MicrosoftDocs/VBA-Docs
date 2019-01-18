@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [TimeZones Object](Outlook.TimeZones.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

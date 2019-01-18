@@ -37,4 +37,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

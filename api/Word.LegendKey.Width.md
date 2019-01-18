@@ -29,4 +29,3 @@ Returns the width, in points, of the object. Read-only  **Double**.
 
 [LegendKey Object](Word.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Conflict Object](Word.Conflict.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

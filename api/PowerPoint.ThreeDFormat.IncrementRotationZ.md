@@ -37,4 +37,3 @@ Rotates the  **ThreeDFormat** object around the ground plane by the specified nu
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,4 @@ The number of stylistic sets available varies, depending on the font.
 > [!NOTE] 
 > The  **StylisticSets** property has an effect only for OpenType fonts that contain stylistic sets.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

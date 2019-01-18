@@ -35,4 +35,4 @@ You can use the  **SubType** property of the **Window** object to determine whet
 
 If the  **Window** object shows a master that is open for editing, the master returned is the temporary master being edited, not the original master that was opened for editing.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

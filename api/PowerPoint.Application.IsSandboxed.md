@@ -34,4 +34,3 @@ Use the  **IsSandboxed** property to determine whether a presentation is open in
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,4 +62,4 @@ The following example lists comments and other properties for each version of a 
 
 - [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

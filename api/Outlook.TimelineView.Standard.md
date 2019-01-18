@@ -74,4 +74,3 @@ End Sub
 
 [TimelineView Object](Outlook.TimelineView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

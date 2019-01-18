@@ -19,4 +19,3 @@ Specifies the axis type.
 | **xlSeriesAxis**|3|Axis displays data series.|
 | **xlValue**|2|Axis displays values.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

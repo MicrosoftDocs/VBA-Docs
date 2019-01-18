@@ -20,4 +20,3 @@ Specifies how to sort when using East Asian sorting methods.
 | **xlCodePage**|2|Sort by code page.|
 | **xlSyllabary**|1|Sort phonetically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

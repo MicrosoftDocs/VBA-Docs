@@ -164,4 +164,3 @@ End Sub
 |[Text](./Publisher.TextRange.Text.md)|
 |[WordsCount](./Publisher.TextRange.WordsCount.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

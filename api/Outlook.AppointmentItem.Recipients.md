@@ -34,4 +34,3 @@ A recipient can be specified by a string representing the recipient's display na
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

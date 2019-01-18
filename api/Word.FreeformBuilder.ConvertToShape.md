@@ -42,4 +42,3 @@ You must apply the  **[AddNodes](Word.FreeformBuilder.AddNodes.md)** method to a
 
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

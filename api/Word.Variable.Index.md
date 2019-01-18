@@ -41,4 +41,3 @@ num = myVar.Index
 
 [Variable Object](Word.Variable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

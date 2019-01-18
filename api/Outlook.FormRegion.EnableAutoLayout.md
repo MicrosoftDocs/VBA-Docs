@@ -36,4 +36,3 @@ When this property is  **True** , the forms designer performs automatic layout r
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

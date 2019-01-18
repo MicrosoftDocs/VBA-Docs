@@ -21,4 +21,3 @@ Specifies the state of the window.
 | **xlMinimized**|-4140|Minimized|
 | **xlNormal**|-4143|Normal|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

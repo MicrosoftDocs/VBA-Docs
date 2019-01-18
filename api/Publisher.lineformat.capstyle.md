@@ -32,4 +32,3 @@ Specifies the style of line endings, as well as the format of dashed lines. Read
 
  [LineFormat Object](Publisher.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

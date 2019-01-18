@@ -43,4 +43,4 @@ The value of the  **ResizeAsNeeded** property can be one of the following **VisC
 
 The setting of the  **ResizeAsNeeded** property corresponds to the selection in the **Automatic Resize** drop-down list in the **Size** group on the **Container Tools Format** tab.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

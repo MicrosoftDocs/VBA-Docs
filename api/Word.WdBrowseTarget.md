@@ -30,4 +30,3 @@ Specifies the document item that the  **[Next](Word.Browser.Next.md)** or **[Pre
 | **wdBrowseSection**|2|Places insertion point before next or previous section.|
 | **wdBrowseTable**|7|Places insertion point before next or previous table.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

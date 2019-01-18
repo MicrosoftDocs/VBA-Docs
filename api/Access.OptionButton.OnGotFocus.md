@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnGotFocus
 
 [OptionButton Object](Access.OptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

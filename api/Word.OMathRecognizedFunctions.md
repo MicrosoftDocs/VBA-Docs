@@ -28,4 +28,3 @@ The  **OMathRecognizedFunctions** collection is a collection of the names that a
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

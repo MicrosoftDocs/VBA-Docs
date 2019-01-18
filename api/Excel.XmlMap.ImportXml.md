@@ -62,4 +62,3 @@ If either of the following conditions is true, a runtime error will occur. If mo
 
 [XmlMap Object](Excel.XmlMap.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

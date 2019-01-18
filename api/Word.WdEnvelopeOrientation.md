@@ -27,4 +27,3 @@ Specifies the orientation of envelopes.
 | **wdRightLandscape**|5|Right landscape orientation.|
 | **wdRightPortrait**|2|Right portrait orientation.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

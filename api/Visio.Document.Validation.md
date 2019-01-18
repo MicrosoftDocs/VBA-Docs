@@ -28,4 +28,4 @@ Returns the  **[Validation](Visio.Validation.md)** object that is associated wit
 
  **Validation**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

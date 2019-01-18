@@ -28,4 +28,4 @@ Navigates to the area of the Office.com web site that is dedicated to Microsoft 
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

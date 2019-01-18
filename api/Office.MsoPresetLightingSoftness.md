@@ -22,4 +22,3 @@ Specifies the intensity of light used on a shape.
 |**msoLightingNormal**|2|Normal light.|
 |**msoPresetLightingSoftnessMixed**|-2|Not supported.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

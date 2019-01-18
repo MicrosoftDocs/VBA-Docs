@@ -55,4 +55,3 @@ End With
 
 [ChartBorder Object](Word.ChartBorder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

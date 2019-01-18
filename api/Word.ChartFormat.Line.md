@@ -34,4 +34,3 @@ For a line, the  **LineFormat** object represents the line itself; for a chart w
 
 [ChartFormat Object](Word.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ If you design a report on a system with a different printer than the one you wil
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

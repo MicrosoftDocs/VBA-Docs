@@ -37,4 +37,3 @@ _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
 [Items Object](Outlook.Items.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,3 @@ Specifies constants that define particular sets of instruction to apply to a del
 | **visDeleteNoContainerMembers**|4|Do not delete unselected members of containers or lists.|
 | **visDeleteNoAssociatedCallouts**|8|Do not delete unselected callouts associated with shapes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

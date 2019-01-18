@@ -29,4 +29,4 @@ To use the  **DocumentProperties** collection object, set a reference to the Mic
 
 Use the  **[CustomDocumentProperties](Project.Project.CustomDocumentProperties.md)** property to return the collection of custom document properties.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

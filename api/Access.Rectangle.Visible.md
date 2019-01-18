@@ -36,4 +36,3 @@ You can use the  **Visible** property to hide a control on a form or report by i
 
 [Rectangle Object](Access.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

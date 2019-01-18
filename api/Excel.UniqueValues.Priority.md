@@ -34,4 +34,3 @@ When setting the priority, the value must be a positive integer between 1 and th
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

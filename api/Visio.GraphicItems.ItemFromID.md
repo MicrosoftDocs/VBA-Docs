@@ -44,4 +44,4 @@ GraphicItem
 
 You can get the ID of a  **GraphicItem** object by getting the value of the **GraphicItem.ID** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

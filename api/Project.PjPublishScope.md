@@ -22,4 +22,3 @@ Contains constants that specify the scope of assignments to be published.
 |**pjPublishScopeSelected**|3|Selected.|
 |**pjPublishScopeVisible**|2|Visible.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

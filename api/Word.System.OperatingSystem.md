@@ -39,4 +39,3 @@ MsgBox "This computer is running " & System.OperatingSystem
 
 [System Object](Word.System.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Gets the name of the summary task for the task in the assignment. Read-only  **S
 
  **Note**  Assignments should not be made on summary tasks.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

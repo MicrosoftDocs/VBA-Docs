@@ -26,4 +26,3 @@ Represents the selection type.
 | **pbSelectionTableCells**|3|Selection type table cells.|
 | **pbSelectionText**|2|Selection type text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

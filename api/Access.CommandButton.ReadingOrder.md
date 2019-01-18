@@ -51,4 +51,3 @@ Forms("International Shipping").Controls("Address").ReadingOrder = 2
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

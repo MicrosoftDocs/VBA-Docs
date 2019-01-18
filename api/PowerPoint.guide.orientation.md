@@ -26,4 +26,4 @@ Returns the orientation of the drawing guide (horizontal or vertical) as a const
 
  **PPGUIDEORIENTATION**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

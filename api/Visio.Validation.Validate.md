@@ -66,4 +66,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 Call Visio.ActiveDocument.Validation.Validate(,Visio.VisValidationFlags.visValidationDefault)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

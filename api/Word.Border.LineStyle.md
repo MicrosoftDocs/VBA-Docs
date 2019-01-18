@@ -75,4 +75,3 @@ ActiveDocument.Words(4).Borders(wdBorderTop) _
 
 [Border Object](Word.Border.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

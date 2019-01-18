@@ -34,4 +34,3 @@ The default value of this property is  **True**.
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

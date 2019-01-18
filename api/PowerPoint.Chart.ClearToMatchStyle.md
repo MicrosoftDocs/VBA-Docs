@@ -31,4 +31,3 @@ Use this method to reset the chart elements formatting to automatic. If you use 
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

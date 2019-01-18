@@ -66,4 +66,4 @@ For Each pgLoop In ActiveDocument.Pages
 Next pgLoop
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

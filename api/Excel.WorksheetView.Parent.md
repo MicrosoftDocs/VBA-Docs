@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WorksheetView](./Excel.WorksheetView.
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

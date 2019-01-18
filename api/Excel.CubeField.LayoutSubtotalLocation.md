@@ -50,4 +50,3 @@ End With
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

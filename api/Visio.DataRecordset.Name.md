@@ -42,4 +42,4 @@ The  **Name** property value must be unique within a particular document—you c
 
 However, if you delete a data recordset, you can reuse the display name of the deleted data recordset for another data recordset in the same document. This is in contrast to the case with the  **[DataRecordset.ID](Visio.DataRecordset.ID.md)** property value. A particular ID is unique for the life of the document and you cannot reuse it, even if you delete the data recordset to which it was assigned.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

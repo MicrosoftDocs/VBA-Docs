@@ -42,4 +42,3 @@ Set rng = ActiveDocument.CoAuthoring.Updates(1).Range
 
 [CoAuthUpdate Object](Word.CoAuthUpdate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,4 @@ This example regroups the selected shapes in the active publication. If the shap
 ActiveDocument.Selection.ShapeRange.Regroup
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

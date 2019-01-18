@@ -25,5 +25,3 @@ Gets a  **[Window](Project.Window.md)** object that represents the active window
 
 
 [Windows Collection Object](Project.windows(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

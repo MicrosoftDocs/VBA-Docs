@@ -40,4 +40,4 @@ The following example shows how to make the drawing page visible in Visio Viewer
 vsoViewer.PageVisible = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

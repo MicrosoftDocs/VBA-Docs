@@ -29,4 +29,3 @@ Returns the font of the specified object. Read-only  **[ChartFont](PowerPoint.Ch
 
 [TickLabels Object](PowerPoint.TickLabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

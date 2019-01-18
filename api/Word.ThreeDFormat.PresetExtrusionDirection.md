@@ -51,4 +51,3 @@ Next
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

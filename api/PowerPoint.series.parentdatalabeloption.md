@@ -27,4 +27,3 @@ Specifies the parent data label option (banner, overlapping, or none) for the sp
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

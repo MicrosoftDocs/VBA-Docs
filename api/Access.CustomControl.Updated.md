@@ -41,4 +41,3 @@ The  **Updated** event occurs when the data in an OLE object has been modified. 
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

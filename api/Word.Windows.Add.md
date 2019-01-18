@@ -66,4 +66,3 @@ Windows.Add Window:=Documents("MyDoc.doc").Windows(1)
 
 [Windows Collection Object](Word.windows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

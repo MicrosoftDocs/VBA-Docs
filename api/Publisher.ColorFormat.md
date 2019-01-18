@@ -73,4 +73,3 @@ End Sub
 |[Transparency](Publisher.ColorFormat.Transparency.md)|
 |[Type](Publisher.ColorFormat.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

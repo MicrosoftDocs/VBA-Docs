@@ -29,4 +29,4 @@ Use the  **[PictureSizeMode](Outlook.page.picturesizemode.md)** property to dete
 
 Transparent pictures sometimes have a hazy appearance. If you do not like this appearance, display the picture on a control that supports opaque images.  **[Image](Outlook.image.md)** supports opaque images.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

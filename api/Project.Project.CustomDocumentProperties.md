@@ -72,4 +72,4 @@ Work    : 40h
 % Work Complete : 0%
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

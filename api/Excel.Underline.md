@@ -35,4 +35,4 @@ This example sets the font in the chart title to single underline.
 myChart.ChartTitle.Font.Underline = xlUnderlineStyleSingle
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

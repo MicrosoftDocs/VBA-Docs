@@ -71,5 +71,3 @@ End Sub
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

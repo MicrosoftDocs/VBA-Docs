@@ -52,4 +52,3 @@ Worksheets("options").Scenarios.Item("typical").Show
 
 [Scenarios Object](Excel.Scenarios.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

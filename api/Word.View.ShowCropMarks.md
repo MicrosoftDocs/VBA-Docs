@@ -37,4 +37,3 @@ Displaying crop marks does not allow a user to change the margins by dragging th
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

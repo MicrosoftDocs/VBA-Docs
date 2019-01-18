@@ -34,4 +34,3 @@ This property is valid only for Label filters and for OLAP PivotFields that have
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

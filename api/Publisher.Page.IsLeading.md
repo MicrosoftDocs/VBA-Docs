@@ -33,4 +33,4 @@ Boolean
 
 The following example diplays for each page whether the page is a trailing or leading page in the publication.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

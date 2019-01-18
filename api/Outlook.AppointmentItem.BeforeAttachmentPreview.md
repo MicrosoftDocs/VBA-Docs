@@ -40,4 +40,3 @@ This event occurs before an attachment is previewed, either from the attachment 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

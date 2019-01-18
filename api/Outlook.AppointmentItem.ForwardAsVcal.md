@@ -39,4 +39,3 @@ The  **ForwardAsVcal** method returns a **[MailItem](Outlook.MailItem.md)** with
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

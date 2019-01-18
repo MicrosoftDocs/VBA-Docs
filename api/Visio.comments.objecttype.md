@@ -34,4 +34,3 @@ Constants representing object types are prefixed with  **visObjType** and are de
 
 [Comments Collection](Visio.comments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

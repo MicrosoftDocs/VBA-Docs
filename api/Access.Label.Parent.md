@@ -34,4 +34,3 @@ The  **Parent** property of a label control is the control the label is linked t
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

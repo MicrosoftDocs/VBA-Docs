@@ -30,4 +30,3 @@ Represents the specified color of the current color scheme.
 | **pbSchemeColorMain**|1|Sets the color to main.|
 | **pbSchemeColorNone**|0|Sets the color scheme to none.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

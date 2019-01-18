@@ -21,4 +21,3 @@ Contains constants that specify the type borders.
 |**pjNoBorder**|0|No border.|
 |**pjOutsidePages**|2|On the outside pages.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

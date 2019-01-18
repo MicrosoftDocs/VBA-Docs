@@ -131,4 +131,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum. Click here to j
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

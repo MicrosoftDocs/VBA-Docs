@@ -55,4 +55,4 @@ objectReturned = expression(Index)
 
  The **DataRecordsets** collection is indexed starting with 1.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

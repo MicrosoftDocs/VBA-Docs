@@ -42,4 +42,3 @@ Calling this method sets the value of several other properties, depending on the
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

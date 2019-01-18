@@ -20,4 +20,4 @@ Gets or sets the name of the current version of a project for a comparison of pr
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

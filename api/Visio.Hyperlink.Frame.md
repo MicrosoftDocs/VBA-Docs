@@ -35,4 +35,4 @@ Setting the  **Frame** property of a shape's **Hyperlink** object is optional an
 
 Setting the  **Frame** property is equivalent to setting the result of the Frame cell in the shape's Hyperlink. _name_ row.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -20,4 +20,3 @@ Specifies the format in which to return data from a database.
 | **xlPivotTableReport**|1|Returns the data as a PivotTable.|
 | **xlQueryTable**|0|Returns the data as a QueryTable.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents an [AllViews](Access.AllViews.md) object
 
 [AllViews Collection](Access.AllViews.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

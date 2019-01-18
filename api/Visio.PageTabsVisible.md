@@ -40,4 +40,4 @@ The following code makes the page tabs visible in Visio Viewer.
 vsoViewer.PageTabsVisible = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 
 [HiLoLines Object](PowerPoint.HiLoLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

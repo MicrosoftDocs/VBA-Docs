@@ -43,4 +43,6 @@ Set myControl = Application.CommandBars.FindControl _
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+
+

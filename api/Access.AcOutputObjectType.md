@@ -29,4 +29,3 @@ Specifies the type of object to output when using the  **OutputTo** method.
 |**acOutputStoredProcedure**|9|Stored Procedure|
 |**acOutputTable**|0|Table|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

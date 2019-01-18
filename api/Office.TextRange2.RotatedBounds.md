@@ -76,4 +76,3 @@ End With
 
 [TextRange2 Object Members](./overview/Library-Reference/textrange2-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

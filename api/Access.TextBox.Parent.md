@@ -29,4 +29,3 @@ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

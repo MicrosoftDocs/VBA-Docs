@@ -34,4 +34,3 @@ This is the value displayed as  **Start time** in the appointment inspector user
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

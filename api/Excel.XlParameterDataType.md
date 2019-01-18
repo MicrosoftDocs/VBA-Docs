@@ -39,4 +39,3 @@ Specifies the data type of a query parameter.
 | **xlParamTypeVarChar**|12|Variable-length string.|
 | **xlParamTypeWChar**|-8|Unicode character string.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,3 @@ A [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object contained in
 
 [ModelColumnNames Object](Excel.modelcolumnnames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

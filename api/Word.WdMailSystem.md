@@ -22,4 +22,3 @@ Specifies the type of mail system.
 | **wdNoMailSystem**|0|No mail system.|
 | **wdPowerTalk**|2|PowerTalk mail system.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

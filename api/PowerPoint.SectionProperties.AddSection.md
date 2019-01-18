@@ -54,4 +54,3 @@ If no sections exist in the presentation, calling this method and passing a sect
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

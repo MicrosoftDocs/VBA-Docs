@@ -51,4 +51,3 @@ ActivePresentation.Slides(1).Shapes(1).TextFrame _
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

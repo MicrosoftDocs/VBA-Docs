@@ -52,4 +52,3 @@ Charts(1).ChartGroups.Item(1).HasDropLines = True
 
 [ChartGroups Object](Excel.ChartGroups(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

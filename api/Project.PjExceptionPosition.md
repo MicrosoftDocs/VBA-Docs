@@ -23,4 +23,3 @@ Contains constants that specify the week in a month in which an exception occurs
 |**pjSecond**|1|Second week of the month.|
 |**pjThird**|2|Third week of the month.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

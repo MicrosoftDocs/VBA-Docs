@@ -59,4 +59,3 @@ Specifies shape of WordArt text. You can see a preview of each text effect shape
 |**msoTextEffectShapeWave1**|21|Text follows a wave up, then down and up again.|
 |**msoTextEffectShapeWave2**|22|Text follows a wave down, then up and down again.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

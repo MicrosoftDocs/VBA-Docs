@@ -34,4 +34,3 @@ For more information on the rule conditions supported for programmatic rule crea
 
 [RuleCondition Object](Outlook.RuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

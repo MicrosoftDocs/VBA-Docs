@@ -47,4 +47,3 @@ If  _Index_ is outside the range of the allowed values (between zero and **[List
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

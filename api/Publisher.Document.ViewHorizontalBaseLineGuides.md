@@ -46,4 +46,4 @@ objDocument.ViewHorizontalBaseLineGuides = True
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

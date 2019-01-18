@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of task panes in the collection. 
 
 [TaskPanes Collection](Word.TaskPanes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

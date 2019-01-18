@@ -26,4 +26,4 @@ Returns a  **Long** that represents the number of full series in the collection.
 
  **INT32**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

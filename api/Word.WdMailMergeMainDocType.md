@@ -26,4 +26,3 @@ Specifies a type of mail merge document.
 | **wdMailingLabels**|1|Mailing label.|
 | **wdNotAMergeDocument**|-1|Not a merge document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

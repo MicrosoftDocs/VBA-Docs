@@ -47,4 +47,3 @@ Worksheets(1).VPageBreaks.Item(1).Location = .Range("e5")
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

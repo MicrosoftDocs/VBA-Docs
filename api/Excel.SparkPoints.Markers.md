@@ -39,4 +39,3 @@ The  **Markers** property corresponds to the setting of the **Markers** check bo
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

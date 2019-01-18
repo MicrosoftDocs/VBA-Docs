@@ -37,4 +37,3 @@ Deletes the specified shape node.
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

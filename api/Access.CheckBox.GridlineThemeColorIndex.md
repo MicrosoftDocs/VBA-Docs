@@ -55,4 +55,3 @@ This property is not surfaced in the property sheet.
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

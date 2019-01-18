@@ -43,4 +43,4 @@ Use the  **ResultFromIntForce** property to set a cell's value even if the cell'
 
 Setting the  **ResultFromIntForce** property is similar to setting a cell's **ResultForce** property. The difference is that the **ResultFromIntForce** property accepts an integer for the value of the cell, whereas the **ResultForce** property accepts a floating point number.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -49,4 +49,3 @@ If no child items exist under that node, the  **GetChildren** method returns a *
 
 [Conversation Object](Outlook.Conversation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

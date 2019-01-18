@@ -34,4 +34,3 @@ This property corresponds to the  **Flag repeated words** check box on the **Pro
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

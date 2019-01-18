@@ -50,4 +50,4 @@ The following code gets the name of the page at index position 1 in the collecti
 Debug.Print vsoViewer.PageName(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -61,4 +61,3 @@ Dim cmykColor As ColorCMYK Set cmykColor = ActiveDocument.Pages(1).Shapes(1).Fil
 |[Parent](Publisher.ColorCMYK.Parent.md)|
 |[Yellow](Publisher.ColorCMYK.Yellow.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

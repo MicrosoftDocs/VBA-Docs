@@ -29,4 +29,4 @@ This example sets the width of the chart.
 myChart.Width = 360
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -28,4 +28,3 @@ Represents the preset tracking type for characters in the specified font in a te
 | **pbTrackingVeryLoose**|0|Very Loose|
 | **pbTrackingVeryTight**|4|Very Tight|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

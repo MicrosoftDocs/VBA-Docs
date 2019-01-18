@@ -26,4 +26,3 @@ Specifies the contact card type.
 |**msoContactCardTypeEnterpriseGroup**|3|A contact card for an enterprise distribution list contact address.|
 |**msoContactCardTypePersonalDistributionList**|4|A contact card for a personal distribution list contact address.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

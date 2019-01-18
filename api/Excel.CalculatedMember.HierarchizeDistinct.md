@@ -43,4 +43,3 @@ This property along with the  **[DisplayFolder](Excel.CalculatedMember.DisplayFo
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,4 +66,4 @@ The optional  _Connector_ parameter value must be an object that references a on
 
 If you use the  **IDataObject** interface to pass a selection of shapes for _Connector_ , Visio uses only the first shape. If _Connector_ is not a Visio object, Visio returns an Invalid Parameter error. If _Connector_ is not a shape that matches the context of the method, Visio returns an Invalid Source error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

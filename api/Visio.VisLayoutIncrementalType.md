@@ -23,4 +23,3 @@ Specifies constants that define types of incremental layout; passed to the  **[P
 | **visLayoutIncrAlign**|1|Align shapes.|
 | **visLayoutIncrSpace**|2|Space shapes evenly.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

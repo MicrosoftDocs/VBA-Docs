@@ -35,4 +35,4 @@ You must set the value of the  **PrintFitOnPages** property to **True** to use t
 
 The  **PrintPagesDown** property corresponds to the **Fit by sheet(s) down** setting in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

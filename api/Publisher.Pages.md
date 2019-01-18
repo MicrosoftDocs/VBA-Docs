@@ -60,4 +60,3 @@ End Sub
 |[Item](Publisher.Pages.Item.md)|
 |[Parent](Publisher.Pages.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

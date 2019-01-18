@@ -41,4 +41,3 @@ The order of the fields in Datasheet view doesn't affect the order of the fields
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

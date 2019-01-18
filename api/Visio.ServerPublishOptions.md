@@ -21,4 +21,4 @@ Represents the settings to apply when you save a Web Drawing (as a .vdw file) to
 
 To get a  **ServerPublishOptions** object, you can use the **[ServerPublishOptions](Visio.Document.ServerPublishOptions.md)** property of the **[Document](Visio.Document.md)** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

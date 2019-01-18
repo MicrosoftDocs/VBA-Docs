@@ -70,4 +70,3 @@ Logical indices of rows in ShapeSheet sections of  **Shape** or **Style** object
 | **visRowXForm1D**|4|Index of the row in 1-D shape's  **visSectionObject** that defines its endpoints.|
 | **visRowXFormOut**|1|Index of the row in  **visSectionObject** that defines the shape's transform properties.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

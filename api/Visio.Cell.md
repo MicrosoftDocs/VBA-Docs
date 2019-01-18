@@ -91,4 +91,3 @@ A program can control a shape's appearance and behavior by working with the form
 |[Style](./Visio.Cell.Style.md)|
 |[Units](./Visio.Cell.Units.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

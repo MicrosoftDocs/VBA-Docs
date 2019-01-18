@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ChartView](Excel.ChartView.md) object
 
 [ChartView Object](Excel.ChartView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

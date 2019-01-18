@@ -36,4 +36,3 @@ This property can be set to **xlAllValues** , **xlColGroups** , or **xlRowGroups
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

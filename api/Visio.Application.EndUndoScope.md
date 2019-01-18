@@ -129,4 +129,4 @@ Private Sub vsoApplication_ExitScope(ByVal app As IVApplication, _
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

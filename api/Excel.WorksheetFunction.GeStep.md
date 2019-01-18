@@ -48,4 +48,3 @@ If any argument is nonnumeric, GESTEP returns the #VALUE! error value.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

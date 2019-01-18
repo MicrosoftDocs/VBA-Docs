@@ -21,4 +21,3 @@ Specifies the delimiter to use to specify text.
 | **xlTextQualifierNone**|-4142|No delimiter.|
 | **xlTextQualifierSingleQuote**|2|Single quotation mark (').|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ SlicerItem
 
 [SlicerItems Object](Excel.SlicerItems.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

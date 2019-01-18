@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ListColumn](Excel.ListColumn.md) obje
 
 [ListColumn Object](Excel.ListColumn.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

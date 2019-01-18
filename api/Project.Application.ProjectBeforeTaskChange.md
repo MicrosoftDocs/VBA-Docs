@@ -65,4 +65,4 @@ Private Sub App_ProjectBeforeTaskChange(ByVal tsk As Task, ByVal Field As PjFiel
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

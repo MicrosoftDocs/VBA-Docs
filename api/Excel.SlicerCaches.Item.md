@@ -42,4 +42,3 @@ _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' c
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

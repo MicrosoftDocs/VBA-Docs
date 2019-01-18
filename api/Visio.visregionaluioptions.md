@@ -27,4 +27,3 @@ You can set regional user interface (UI) options on the  **Set the Office Langua
 | **visRegionalUIOptionsShow**|1|Always show regional UI.|
 | **visRegionalUIOptionsUseSystemSettings**|-1|Not used.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

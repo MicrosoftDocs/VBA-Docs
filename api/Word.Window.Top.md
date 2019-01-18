@@ -29,4 +29,3 @@ Returns or sets the vertical position of the specified document window, in point
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

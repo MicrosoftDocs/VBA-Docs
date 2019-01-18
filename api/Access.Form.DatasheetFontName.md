@@ -51,4 +51,3 @@ The following table contains the properties that don't exist in the DAO  **Prope
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

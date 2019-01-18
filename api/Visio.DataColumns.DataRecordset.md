@@ -36,4 +36,4 @@ DataRecordset
 
 Each  **DataRecordset** object contains one and only one **DataColumns** collection.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -40,4 +40,4 @@ The following code gets the count of layers in the drawing open in Visio Viewer.
 Debug.Print vsoViewer.LayerCount
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

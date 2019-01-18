@@ -42,4 +42,3 @@ The name of the field corresponds to the name of the corresponding XML element i
 
 [Source Object](Word.Source.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

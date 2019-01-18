@@ -34,4 +34,3 @@ After you enable a rule condition, you must also save the rule by using  **[Rule
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

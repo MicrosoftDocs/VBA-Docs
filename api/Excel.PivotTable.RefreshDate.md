@@ -46,4 +46,3 @@ MsgBox "The data was last refreshed on " & dateString
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

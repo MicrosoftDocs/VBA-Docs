@@ -46,4 +46,3 @@ Use the  **[Period](Project.Calendar.Period.md)** method to return a **Period** 
 |[Shift5](Project.Period.Shift5.md)|
 |[Working](Project.Period.Working.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

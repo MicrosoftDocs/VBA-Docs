@@ -29,4 +29,3 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 [Walls Object](PowerPoint.Walls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

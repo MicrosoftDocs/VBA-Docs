@@ -33,4 +33,3 @@ Types of icons that Outlook can display for an item that uses a specified replac
 | **olFormRegionIconUnsent**|6|The icon to display when an item has not been sent.|
 | **olFormRegionIconWindow**|10|The icon to display on the Inspector when an item has been opened.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

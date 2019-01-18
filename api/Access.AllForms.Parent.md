@@ -43,4 +43,3 @@ For example, you might insert an OrderDetails subform into both a form and a rep
 
 [AllForms Collection](Access.AllForms.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

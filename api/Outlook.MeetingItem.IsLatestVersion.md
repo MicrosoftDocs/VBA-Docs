@@ -36,4 +36,3 @@ This property applies to all  **MeetingItem** objects including meeting requests
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

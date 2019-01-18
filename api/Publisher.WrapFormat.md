@@ -60,4 +60,3 @@ End Sub
 |[Side](Publisher.WrapFormat.Side.md)|
 |[Type](Publisher.WrapFormat.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

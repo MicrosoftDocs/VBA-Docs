@@ -36,4 +36,4 @@ Sets the date format for text around bars on the Gantt Chart.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

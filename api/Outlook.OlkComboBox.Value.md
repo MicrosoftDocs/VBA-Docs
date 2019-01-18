@@ -34,4 +34,3 @@ The value is the same as the value of  **[Text](Outlook.OlkComboBox.Text.md)** ,
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

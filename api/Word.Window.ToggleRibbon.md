@@ -34,4 +34,3 @@ If the ribbon is visible, the  **TobbleRibbon** method hides it; if the ribbon i
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

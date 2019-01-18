@@ -34,4 +34,3 @@ This property may not be available to you, depending on the language support (U.
 
 [LetterContent Object](Word.LetterContent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies the access mode for the Save As function.
 | **xlNoChange**|1|Default (does not change the access mode)|
 | **xlShared**|2|Share list|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

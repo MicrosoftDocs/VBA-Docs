@@ -47,4 +47,3 @@ Microsoft Outlook calculates the value of this property based on the item retent
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

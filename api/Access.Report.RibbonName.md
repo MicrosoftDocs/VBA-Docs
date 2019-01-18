@@ -34,4 +34,3 @@ For more information about how to display a customized ribbon when loading a rep
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

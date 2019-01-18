@@ -34,4 +34,3 @@ This is a free-form text field.
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

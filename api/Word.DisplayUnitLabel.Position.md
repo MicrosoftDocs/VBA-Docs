@@ -29,4 +29,3 @@ Returns or sets the position of the unit label on an axis in the chart. Read/wri
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

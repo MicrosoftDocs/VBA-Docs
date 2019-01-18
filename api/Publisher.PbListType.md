@@ -68,4 +68,3 @@ Constants specifying the list type of a  **ParagraphFormat** object, passed to t
 | **pbListTypeZodiac1**|30|Zodiac1|
 | **pbListTypeZodiac2**|31|Zodiac2|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -51,4 +51,3 @@ To specify an array of integers or strings for  **Index**, you can use the **Arr
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

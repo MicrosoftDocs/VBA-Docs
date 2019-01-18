@@ -57,4 +57,4 @@ myShape.Fill.ForeColor.RGB = RGB(80, 160, 130)
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

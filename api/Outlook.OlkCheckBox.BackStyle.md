@@ -34,4 +34,3 @@ The default value is  **olBackStyleOpaque**.
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

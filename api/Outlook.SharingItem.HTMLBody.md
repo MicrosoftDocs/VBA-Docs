@@ -38,4 +38,3 @@ Setting the  **HTMLBody** property will always update the **[Body](Outlook.Shari
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

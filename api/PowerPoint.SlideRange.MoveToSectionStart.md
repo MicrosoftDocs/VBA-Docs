@@ -37,4 +37,3 @@ Moves the current position to the start of the specified section in the  **Slide
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

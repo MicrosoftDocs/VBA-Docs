@@ -31,4 +31,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [Rectangles Collection](Word.Rectangles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

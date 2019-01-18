@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Tab](./Excel.Tab.md) object.
 
 [Tab Object](Excel.Tab.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The default for this property is true.
 
 [TickLabels Object](Excel.TickLabels(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

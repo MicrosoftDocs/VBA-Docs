@@ -49,4 +49,3 @@ ActiveDocument.ActiveWindow.View.Draft = _
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

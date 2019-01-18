@@ -20,4 +20,3 @@ Specifies the position of tick-mark labels on the specified axis.
 | **xlTickLabelPositionNextToAxis**|4|Next to the axis (where the axis is not at either side of the chart).|
 | **xlTickLabelPositionNone**|-4142|No tick marks.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

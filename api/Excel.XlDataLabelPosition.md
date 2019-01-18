@@ -29,4 +29,3 @@ Specifies where the data label is positioned.
 | **xlLabelPositionOutsideEnd**|2|Data label is positioned outside the data point at the top edge.|
 | **xlLabelPositionRight**|-4152|Data label is positioned to the right of the data point.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

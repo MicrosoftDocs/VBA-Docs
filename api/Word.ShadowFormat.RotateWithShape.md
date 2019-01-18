@@ -29,4 +29,3 @@ Returns or sets an  **MsoTriState** that represents whether to rotate the shadow
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

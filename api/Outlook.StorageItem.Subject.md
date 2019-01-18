@@ -36,4 +36,3 @@ The  **Subject** serves as a unique identifier for **[StorageItem](Outlook.Stora
 
 [StorageItem Object](Outlook.StorageItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

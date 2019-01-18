@@ -42,4 +42,4 @@ The formula returned by the  **FieldFormula** property corresponds to the formul
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **FieldFormula** property to get a formula in local syntax. Use the **FieldFormulaU** property to get a formula in universal syntax.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

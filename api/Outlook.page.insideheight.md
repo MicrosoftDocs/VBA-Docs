@@ -18,4 +18,4 @@ _expression_. **InsideHeight**
 
 _expression_ A variable that represents a  **Page** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

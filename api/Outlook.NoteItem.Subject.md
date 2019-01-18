@@ -36,4 +36,3 @@ This property corresponds to the MAPI property  **PidTagSubject**. The **Subject
 
 [NoteItem Object](Outlook.NoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

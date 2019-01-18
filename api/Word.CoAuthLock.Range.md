@@ -39,4 +39,3 @@ MsgBox ActiveDocument.Coauthoring.Locks(1).Range
 
 [CoAuthLock Object](Word.CoAuthLock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

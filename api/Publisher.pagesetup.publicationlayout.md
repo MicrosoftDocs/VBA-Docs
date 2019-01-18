@@ -50,4 +50,3 @@ End With
 
  [PageSetup Object (Publisher)](Publisher.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

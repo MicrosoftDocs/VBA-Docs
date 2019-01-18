@@ -29,4 +29,4 @@ The  **SlicerPivotTables** collection contains information about the PivotTables
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

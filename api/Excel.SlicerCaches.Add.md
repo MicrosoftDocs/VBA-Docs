@@ -56,4 +56,3 @@ The following code example adds a slicer cache based on the Customer Geography O
 
 [SlicerCaches Object](Excel.SlicerCaches.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Specifies the type of tab stop.
 |**msoTabStopMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoTabStopRight**|3|Right tab stop.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ChartTitle](./PowerPoint.ChartTitle.m
 
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

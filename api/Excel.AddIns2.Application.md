@@ -29,4 +29,3 @@ _expression_ A variable that represents an '[AddIns2](Excel.AddIns2.md)' object.
 
 [AddIns2 Object](Excel.AddIns2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

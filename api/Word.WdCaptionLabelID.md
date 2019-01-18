@@ -21,4 +21,3 @@ Specifies the type for a caption label.
 | **wdCaptionFigure**|-1|Figure.|
 | **wdCaptionTable**|-2|Table.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

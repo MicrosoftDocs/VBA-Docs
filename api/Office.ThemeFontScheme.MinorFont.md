@@ -35,4 +35,3 @@ ThemeFonts
 
 [ThemeFontScheme Object Members](./overview/Library-Reference/themefontscheme-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

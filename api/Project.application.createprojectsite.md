@@ -39,4 +39,4 @@ Creates a site for the active project in a Project Web App instance on SharePoin
 
  **True** if the project site is successfully created.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

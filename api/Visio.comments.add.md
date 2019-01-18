@@ -38,4 +38,3 @@ Adds a new [Comment](Visio.comment.md) object to the **Comments** collection, an
 
 [Comments Collection](Visio.comments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,4 @@ There are some exceptions. The  **Colors** collection is indexed starting with 0
 
 These collections are also indexed starting with 0:  **AccelItems** , **AccelTables** , **MenuSets** , **MenuItems** , **Menus** , **ToolbarItems** , **Toolbars** , and **ToolbarSets**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

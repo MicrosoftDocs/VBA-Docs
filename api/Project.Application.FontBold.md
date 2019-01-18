@@ -36,4 +36,4 @@ Applies or removes bold formatting from the selected text.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

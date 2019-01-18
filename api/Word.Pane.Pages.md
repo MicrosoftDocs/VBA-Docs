@@ -49,4 +49,3 @@ ActiveDocument.Shapes.AddLine _
 
 [Pane Object](Word.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

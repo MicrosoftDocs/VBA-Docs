@@ -51,5 +51,3 @@ End Sub
 
 - [CustomXMLNodes object members](overview/library-reference/customxmlnodes-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Contains constants that specify the type of report template for the Visual Repor
 |**pjVisioMetric**|2|Microsoft Visio template with metric units.|
 |**pjVisioUS**|3|Microsoft Visio template with U.S. English units.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

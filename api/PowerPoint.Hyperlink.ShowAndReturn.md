@@ -45,4 +45,3 @@ The value of the  **ShowAndReturn** property can be one of these **MsoTriState**
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

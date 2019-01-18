@@ -38,4 +38,3 @@ _expression_. `Item`( `_Index_` )
 
 [PickerFields Object Members](./overview/Library-Reference/pickerfields-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

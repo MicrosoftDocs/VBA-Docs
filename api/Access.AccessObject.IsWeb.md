@@ -34,4 +34,3 @@ The  **IsWeb** property contains **True** if the object is a Web object.
 
 [AccessObject Object](Access.AccessObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ Returns an error if you attempt to enable an exception condition of type  **olCo
 
 [RuleCondition Object](Outlook.RuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

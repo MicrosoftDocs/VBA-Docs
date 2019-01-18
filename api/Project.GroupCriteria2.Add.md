@@ -56,4 +56,3 @@ To add a  **GroupCriterion2** object where colors can be hexadecimal values, use
 
 [GroupCriteria2 Collection Object](Project.groupcriteria2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property applies to bubble charts only.
 
 [Point Object](Excel.Point(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

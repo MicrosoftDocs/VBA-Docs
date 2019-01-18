@@ -23,4 +23,3 @@ Specifies context under which a wizard's callback procedure is called. Used as a
 |**msoWizardMsgShowHelp**|3|User clicked the left button in the decision or branch balloon.|
 |**msoWizardMsgSuspending**|4|Passed to the  **ActivateWizard** method if **msoWizardActSuspend** is specified for the Act argument.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Variant
 
 [HiLoLines Object](Excel.HiLoLines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

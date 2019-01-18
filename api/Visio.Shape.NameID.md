@@ -37,4 +37,4 @@ The value of a shape's  **UniqueID** property is unique across pages and masters
 
 Also,  **NameID** properties are reused. If a shape whose **NameID** property is sheet. _N_ is deleted, a shape subsequently added to the same context may be assigned sheet.N as its **NameID** property. Therefore, persisting **NameID** properties in separate data stores is generally not as sound as persisting **UniqueID** properties.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -45,4 +45,4 @@ The picture and the caption, as a unit, are centered on the control. If no capti
 
 This property is ignored if the  **[Picture](Outlook.label.picture.md)** property does not specify a picture.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -28,4 +28,3 @@ A table style defines the formatting for one or all of the elements of a table, 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

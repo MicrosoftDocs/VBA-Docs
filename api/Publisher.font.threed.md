@@ -32,4 +32,3 @@ Returns a  [ThreeDFormat](Publisher.ThreeDFormat.md) object that contains 3-D ef
 
  [Font Object](Publisher.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

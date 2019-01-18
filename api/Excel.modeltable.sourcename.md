@@ -33,4 +33,3 @@ _expression_ A variable that represents a [ModelTable object (Excel)](Excel.mode
 
 [ModelTable Object](Excel.modeltable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

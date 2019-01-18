@@ -43,4 +43,3 @@ If a document has not been saved before, the  **Save As** dialog box prompts the
 
 [Documents Collection Object](Word.documents.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ A  **TimeZone** object that represents the specified object in the collection.
 
 [TimeZones Object](Outlook.TimeZones.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

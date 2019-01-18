@@ -34,4 +34,3 @@ The value of this property can be an integer value from -90 through 90 degrees o
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,4 +50,3 @@ Worksheets("Sheet1").Range("B1").FormulaR1C1 = "=SQRT(R1C1)"
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

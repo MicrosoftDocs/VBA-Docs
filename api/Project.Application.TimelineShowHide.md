@@ -52,4 +52,4 @@ The following statement hides the time scale on the timeline.
 Application.TimelineShowHide Item:=pjTimelineShowHideTimescale, Show:=False
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

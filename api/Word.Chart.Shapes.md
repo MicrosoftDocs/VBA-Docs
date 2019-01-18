@@ -29,4 +29,3 @@ Returns a collection that represents all the shapes on the chart sheet. Read-onl
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The  **ItemProperties** collection is a zero-based collection, meaning that the 
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

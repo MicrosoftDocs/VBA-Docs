@@ -34,4 +34,3 @@ If you set the  **Visible** property for a name to **False** , the name won't ap
 
 [Name Object](Excel.Name.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

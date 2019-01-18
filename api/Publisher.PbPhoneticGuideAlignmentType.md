@@ -27,4 +27,3 @@ Constants passed to the  ** [Fields.AddPhoneticGuide](Publisher.Fields.AddPhonet
 | **pbPhoneticGuideAlignmentRight**|5|Right alignment|
 | **pbPhoneticGuideAlignmentZeroOneZero**|1|Zero One Zero alignment|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

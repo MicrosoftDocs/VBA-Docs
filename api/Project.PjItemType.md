@@ -21,4 +21,3 @@ Contains constants that specify the type of an item.
 |**pjResourceItem**|1|Resource item.|
 |**pjTaskItem**|0|Task item.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

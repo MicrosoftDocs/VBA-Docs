@@ -17,4 +17,5 @@ Collection of model tables inside the Data Model.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

@@ -93,4 +93,3 @@ Use the  **[FindPlateByInkName](Publisher.Plates.FindPlateByInkName.md)** method
 |[Item](Publisher.Plates.Item.md)|
 |[Parent](Publisher.Plates.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

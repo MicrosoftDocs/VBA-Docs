@@ -38,4 +38,4 @@ Links a deliverable or a dependency to a project.
 
 The  **DeliverableLinkToProject** method unlinks the deliverable or dependency from a task.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

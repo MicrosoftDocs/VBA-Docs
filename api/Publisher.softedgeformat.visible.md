@@ -31,5 +31,5 @@ localization_priority: Normal
 
 
  [SoftEdgeFormat Object](Publisher.softedgeformat.md)
+ 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

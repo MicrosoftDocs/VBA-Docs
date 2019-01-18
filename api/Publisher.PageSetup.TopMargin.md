@@ -35,4 +35,4 @@ Numeric values are evaluated as points. String values can be in any unit support
 
 The  **TopMargin** property returns a value only when you print multiple pages on a single sheet of printer paper. If you attempt to use it in other circumstances, Microsoft Publisher will return nothing.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

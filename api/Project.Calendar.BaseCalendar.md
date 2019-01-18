@@ -25,4 +25,4 @@ Gets a  **[Calendar](Project.Calendar.md)** object representing a base calendar.
 
 The  **BaseCalendar** property does not return any meaningful information for material resources. Setting a value returns a trappable error (error code 1101) when applied to material resources.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

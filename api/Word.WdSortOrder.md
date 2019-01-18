@@ -20,4 +20,3 @@ Specifies the sort direction.
 | **wdSortOrderAscending**|0|Ascending order. Default.|
 | **wdSortOrderDescending**|1|Descending order.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

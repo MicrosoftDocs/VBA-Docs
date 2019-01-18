@@ -37,4 +37,3 @@ _expression_ A variable that represents a [NoteItem](./Outlook.NoteItem.md) obje
 
 [NoteItem Object](Outlook.NoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

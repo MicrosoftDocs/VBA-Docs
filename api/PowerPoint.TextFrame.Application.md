@@ -64,4 +64,3 @@ Next
 
 [TextFrame Object](PowerPoint.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -89,4 +89,3 @@ End Sub
 
 [Attachment Object](Outlook.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

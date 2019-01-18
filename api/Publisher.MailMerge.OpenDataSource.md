@@ -73,5 +73,3 @@ ActiveDocument.MailMerge.OpenDataSource _
     fNeverPrompt:=True, fOpenExclusive:=True 
 
 ```
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

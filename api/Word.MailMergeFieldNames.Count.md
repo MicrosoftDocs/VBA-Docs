@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of mail merge field names in the 
 
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

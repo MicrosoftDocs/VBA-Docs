@@ -26,4 +26,3 @@ Contains constants that specify the type of custom field.
 |**pjStartField**|6|Start date custom field.|
 |**pjTextField**|7|Text custom field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

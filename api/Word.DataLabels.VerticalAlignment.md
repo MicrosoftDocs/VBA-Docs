@@ -47,4 +47,3 @@ You can set the value of this property to one of the following  **[xlConstants](
 
 [DataLabels Object](Word.DataLabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

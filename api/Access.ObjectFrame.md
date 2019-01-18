@@ -168,5 +168,3 @@ You can use the unbound object frame or an [image control](overview/Access.md) t
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [ObjectFrame Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

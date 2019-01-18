@@ -43,4 +43,3 @@ The  **State** property can be one of the following constants declared by the Vi
 | **visButtonUp**|0|Button is not pressed|
 | **visButtonDown**|-1|Button is pressed|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

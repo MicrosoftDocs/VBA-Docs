@@ -21,4 +21,3 @@ Specifies the target document for displaying document comparison differences.
 | **wdCompareTargetNew**|2|Places comparison differences in a new document.|
 | **wdCompareTargetSelected**|0|Places comparison differences in the target document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

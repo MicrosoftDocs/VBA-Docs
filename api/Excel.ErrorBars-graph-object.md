@@ -33,4 +33,4 @@ myChart.SeriesCollection(1).ErrorBars.EndStyle = xlNoCap
 
 The  **[ErrorBar](Excel.ErrorBar.md)** method changes the format and type of error bars.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

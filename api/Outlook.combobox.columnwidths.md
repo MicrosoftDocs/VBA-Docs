@@ -50,4 +50,4 @@ Unless specified otherwise, column widths are measured in points. To specify ano
 
 In a  **ComboBox**, the system displays the column designated by the  **[TextColumn](Outlook.combobox.textcolumn.md)** property in the text box portion of the control. Setting **TextColumn** to -1 displays the first column that has a **ColumnWidths** value greater than 0.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -57,4 +57,4 @@ Application.ActiveWindow.LargeScroll Down:=3
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

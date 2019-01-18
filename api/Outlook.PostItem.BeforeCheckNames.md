@@ -52,4 +52,3 @@ The event does not fire under the following circumstances:
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

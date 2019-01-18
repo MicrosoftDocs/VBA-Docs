@@ -42,4 +42,4 @@ The following code gets the last error code returned by Visio Viewer.
 Debug.Print vsoViewer.LastErrorCode
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

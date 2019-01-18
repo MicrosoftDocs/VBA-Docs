@@ -29,4 +29,3 @@ _expression_. `StartDate`
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

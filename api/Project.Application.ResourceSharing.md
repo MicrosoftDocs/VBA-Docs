@@ -56,4 +56,4 @@ In the following example, the project that contains the resources to share is na
 Application.ResourceSharing Share:=False, Name:="SharedResourcePool.mpp", Pool:=True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

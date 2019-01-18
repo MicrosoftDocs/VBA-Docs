@@ -48,4 +48,3 @@ myShape.ActionSettings(ppMouseOver).SoundEffect.Name = "applause"
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

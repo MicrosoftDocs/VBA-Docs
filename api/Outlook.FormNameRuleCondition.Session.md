@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [FormNameRuleCondition Object](Outlook.FormNameRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

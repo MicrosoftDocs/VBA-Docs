@@ -91,4 +91,3 @@ End Sub
 |[Parent](Publisher.TabStop.Parent.md)|
 |[Position](Publisher.TabStop.Position.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

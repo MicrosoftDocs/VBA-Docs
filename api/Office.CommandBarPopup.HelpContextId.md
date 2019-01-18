@@ -37,5 +37,3 @@ To use this property, you must also set the **[HelpFile](office.commandbarpopup.
 ## See also
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that has
 
 When retrieving objects from a collection, you can omit  **Item** from the expression because it is the default property for all collections.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -30,4 +30,4 @@ For objects, the default value of  **Name** consists of the object's class name 
 
 You can set the  **Name** property for a control from the control's property sheet or, for controls added at run time, by using program statements. If you add a control at design time, you cannot modify its **Name** property at run time.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

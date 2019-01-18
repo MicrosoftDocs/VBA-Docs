@@ -34,4 +34,4 @@ You cannot use  **Text** to change the value of an entry in a **ComboBox**; use 
 
 The  **[ForeColor](Outlook.combobox.forecolor.md)** property determines the color of the text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ The  **Folder** containing the calendar items to be shared.
 
 [CalendarSharing Object](Outlook.CalendarSharing.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

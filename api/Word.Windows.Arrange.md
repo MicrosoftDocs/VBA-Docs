@@ -70,4 +70,3 @@ Windows.Arrange ArrangeStyle:=wdIcons
 
 [Windows Collection Object](Word.windows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,5 +31,5 @@ Returns or sets a  **Single** that represents the length of the radius for a sof
 
 
  [SoftEdgeFormat Object](Publisher.softedgeformat.md)
+ 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

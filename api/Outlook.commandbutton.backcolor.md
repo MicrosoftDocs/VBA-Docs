@@ -30,4 +30,4 @@ RGB(15,200,75)
 
 You can only see the background color of an object if the  **[BackStyle](Outlook.commandbutton.backstyle.md)** property is set to 1.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

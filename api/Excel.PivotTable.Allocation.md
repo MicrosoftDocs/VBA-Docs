@@ -39,4 +39,3 @@ The  **Allocation** property corresponds to the **Calculate with changes** setti
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ This example saves the active publication if it has changed since it was last sa
 If ActiveDocument.Saved = False Then ActiveDocument.Save
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

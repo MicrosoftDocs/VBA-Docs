@@ -29,4 +29,3 @@ Clears the formatting of the object.
 
 [PlotArea Object](Word.PlotArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

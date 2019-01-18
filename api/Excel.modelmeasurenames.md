@@ -17,4 +17,5 @@ A collection of [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) obj
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

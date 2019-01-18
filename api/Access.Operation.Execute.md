@@ -42,4 +42,3 @@ Variant
 
 [Operation Object](Access.Operation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

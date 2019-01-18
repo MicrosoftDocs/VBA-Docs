@@ -34,4 +34,3 @@ The  **NameSpace** object is the root of all the folders for the given name spac
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

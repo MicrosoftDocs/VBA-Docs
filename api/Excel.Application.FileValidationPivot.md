@@ -39,4 +39,3 @@ Files that contain data caches that do not validate will be opened in a  **Prote
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

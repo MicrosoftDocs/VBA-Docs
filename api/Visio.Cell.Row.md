@@ -28,4 +28,4 @@ Returns the row index of a cell. Read-only.
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

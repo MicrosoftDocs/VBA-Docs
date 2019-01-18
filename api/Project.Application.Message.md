@@ -44,4 +44,4 @@ Displays a message in a message box.
 
 The  **Message** method provides compatibility with the macro language used in Microsoft Project version 3. _x_. The **MsgBox** method in the VBA library should be used in new macros.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

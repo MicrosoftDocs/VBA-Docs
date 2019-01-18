@@ -63,4 +63,3 @@ Used with the  **PaperSize** property to indicate the paper size to use when pri
 |**acPRPSTabloid**|3|Tabloid (11 in. x 17 in.)|
 |**acPRPSUser**|256|User-defined|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

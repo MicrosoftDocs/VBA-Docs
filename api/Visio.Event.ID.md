@@ -45,4 +45,4 @@ For  **Window** objects, the **ID** property can be used with the **ItemFromID**
 
 For  **Event** objects, the **ID** property uniquely identifies an **Event** object in its **EventList** collection. As long as a reference is held on an **EventList** collection or on the source object of an **EventList** collection, you can cache the **ID** property of any **Event** object in the list. Even if other events are added to or removed from the list, the cached ID can be used later to identify the original event. If an event is persistent, its ID can be cached indefinitely. While the event with that ID might be removed, no new **Event** object in the same **EventList** collection is given the same ID.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

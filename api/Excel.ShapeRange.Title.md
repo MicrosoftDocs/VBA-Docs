@@ -39,4 +39,3 @@ To set the descriptive text string of the alternative text for a shape range, us
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,3 @@ You can also close the form by pressing ALT+F4.
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

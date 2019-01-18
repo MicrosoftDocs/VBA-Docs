@@ -23,4 +23,4 @@ The default property of a  **Font** object is **Name**.
 
 A  **Font** object maps its name (for example, "Arial") to the font ID (for example, 3) that Microsoft Visio stores in a Font cell in a Character section of a shape whose text is formatted with that font. Font IDs can change when a document is opened on different systems or when fonts are installed or removed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

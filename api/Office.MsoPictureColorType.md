@@ -23,4 +23,3 @@ Specifies the color transformation applied to a picture.
 |**msoPictureMixed**|-2|Mixed transformation.|
 |**msoPictureWatermark**|4|Watermark transformation.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

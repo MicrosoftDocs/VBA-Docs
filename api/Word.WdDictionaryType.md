@@ -28,4 +28,3 @@ Specifies a proofing tool type.
 | **wdSpellingMedical**|7|Medical dictionary.|
 | **wdThesaurus**|2|Thesaurus.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

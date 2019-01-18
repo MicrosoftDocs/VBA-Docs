@@ -21,4 +21,3 @@ Specifies which set of changes is shown in a shared workbook.
 | **xlNotYetReviewed**|3|Show only changes not yet reviewed.|
 | **xlSinceMyLastSave**|1|Show changes made since last save by last user.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

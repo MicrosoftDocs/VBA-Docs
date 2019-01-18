@@ -39,6 +39,6 @@ Inserts a new resource in a resource view.
 
 ## Remarks
 
-The  **InsertResource** method corresponds to the **Insert Resource** command on the right-click option menu in the Resource Sheet view or Resource Usage view. The **Resource Name** cell is selected with **<Type Resource Name Here>**. In the Team Planner view,  **InsertResource** creates a row below the last resource, with the name **New Resource**.
+The  **InsertResource** method corresponds to the **Insert Resource** command on the right-click option menu in the Resource Sheet view or Resource Usage view. The **Resource Name** cell is selected with **<Type Resource Name Here>**. In the Team Planner view,  **InsertResource** creates a row below the last resource, with the name **New Resource**. 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

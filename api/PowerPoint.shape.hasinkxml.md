@@ -46,4 +46,4 @@ The value of this property can be one of these  **MsoTriState** constants.
 [MsoTriState](Office.MsoTriState.md)
 [Shape.InkXML](PowerPoint.shape.inkxml.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

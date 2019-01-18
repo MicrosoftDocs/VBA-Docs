@@ -29,4 +29,3 @@ Returns a [Comments](Visio.comments.md) object that represents the collection of
 
 [Shape Object](Visio.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

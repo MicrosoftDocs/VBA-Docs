@@ -47,4 +47,3 @@ Application.DefaultWebOptions _
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

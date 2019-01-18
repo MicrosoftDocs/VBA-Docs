@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Fiel
 
 [Field Object](Word.Field.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,3 @@ Specifies the story type of a selection or item.
 | **wdPrimaryHeaderStory**|7|Primary header story.|
 | **wdTextFrameStory**|5|Text frame story.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

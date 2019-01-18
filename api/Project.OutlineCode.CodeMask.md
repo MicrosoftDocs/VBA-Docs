@@ -28,4 +28,4 @@ Gets a  **[CodeMask](Project.codemask.md)** collection representing the code mas
 
 The  **CodeMask** property returns nothing if the code shares a lookup table from another code.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

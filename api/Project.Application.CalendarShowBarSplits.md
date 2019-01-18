@@ -36,4 +36,4 @@ Shows or hides task splits on the Calendar.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

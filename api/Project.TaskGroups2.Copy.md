@@ -40,4 +40,3 @@ Makes a copy of a group definition for the  **TaskGroups2** collection and retur
 
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

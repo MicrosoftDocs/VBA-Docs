@@ -34,4 +34,3 @@ The custom picture is of the Microsoft Windows type  **StdPicture**. The default
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

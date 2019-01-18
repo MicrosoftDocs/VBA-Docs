@@ -49,4 +49,3 @@ Set ns = Charts(1).SeriesCollection.NewSeries
 
 [SeriesCollection Object](./Excel.SeriesCollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

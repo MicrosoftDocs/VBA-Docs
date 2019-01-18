@@ -36,4 +36,3 @@ When you return the style for a range that includes more than one style, only th
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

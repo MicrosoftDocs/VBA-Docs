@@ -38,4 +38,3 @@ If the item is in an inspector, the value of the  **Parent** property is the sam
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

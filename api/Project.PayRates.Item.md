@@ -33,5 +33,3 @@ Gets a single  **PayRate** object from the **PayRates** collection. Read-only **
 
 
 [PayRates Collection Object](Project.payrates.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

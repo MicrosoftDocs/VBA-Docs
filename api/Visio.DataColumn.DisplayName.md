@@ -41,4 +41,4 @@ The value of the  **DisplayName** property corresponds to the value in the Label
 
  **Note**  In some previous versions of Visio, Shape Data were called Custom Properties.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

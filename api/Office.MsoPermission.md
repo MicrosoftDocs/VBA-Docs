@@ -27,4 +27,3 @@ Specifies an Information Rights Management (IRM) permission type for a document.
 |**msoPermissionSave**|4|Permission to save.|
 |**msoPermissionView**|1|Permission to view.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

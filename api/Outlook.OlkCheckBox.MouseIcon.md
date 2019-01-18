@@ -34,4 +34,3 @@ The custom picture is of the Microsoft Windows type  **StdPicture**. The default
 
 [OlkCheckBox Object](Outlook.OlkCheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

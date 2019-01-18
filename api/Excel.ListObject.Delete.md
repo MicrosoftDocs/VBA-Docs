@@ -34,4 +34,3 @@ If the list is linked to a SharePoint site, deleting it does not affect data on 
 
 [ListObject Object](Excel.ListObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

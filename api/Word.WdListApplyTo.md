@@ -21,4 +21,3 @@ Specifies the portion of a list to which to apply a list template.
 | **wdListApplyToThisPointForward**|1|From cursor insertion point to end of list.|
 | **wdListApplyToWholeList**|0|Entire list.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ Range
 
 [ProofreadingErrors Collection Object](Word.proofreadingerrors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

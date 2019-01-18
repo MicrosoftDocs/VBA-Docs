@@ -20,4 +20,3 @@ Specifies the position of endnotes.
 | **wdEndOfDocument**|1|At end of active document.|
 | **wdEndOfSection**|0|At end of current section.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

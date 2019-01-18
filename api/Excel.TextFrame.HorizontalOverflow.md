@@ -39,4 +39,3 @@ This property only has an effect when the  **[WordWrap](Excel.TextFrame2.WordWra
 
 [TextFrame Object](Excel.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ Indicates additional information about a signature.
 |**sigdetVertResolution**|7|Specifies the vertical resolution.|
 |**sigdetWindowsVersion**|4|Specifies the Windows version.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

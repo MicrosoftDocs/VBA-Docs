@@ -34,4 +34,3 @@ If this property is set to  **True** , the contents of the property referenced b
 
 [OrderField Object](Outlook.OrderField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The  **[Top](Word.Page.Top.md)** and **[Left](Word.Page.Left.md)** properties of
 
 [Page Object](Word.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

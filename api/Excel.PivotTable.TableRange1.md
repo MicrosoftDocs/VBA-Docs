@@ -45,4 +45,3 @@ Range("A3").PivotTable.TableRange1.Select
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

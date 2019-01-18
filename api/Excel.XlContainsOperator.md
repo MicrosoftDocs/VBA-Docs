@@ -22,4 +22,3 @@ Specifies the operator used in a function.
 | **xlDoesNotContain**|1|Does not contain the specified value.|
 | **xlEndsWith**|3|Endswith the specified value|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

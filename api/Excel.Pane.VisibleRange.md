@@ -41,4 +41,3 @@ MsgBox "There are " & Windows(1).VisibleRange.Cells.Count _
 
 [Pane Object](Excel.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

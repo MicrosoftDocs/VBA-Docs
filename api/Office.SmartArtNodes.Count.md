@@ -30,4 +30,3 @@ _expression_. `Count`
 
 [SmartArtNodes Object Members](./overview/Library-Reference/smartartnodes-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Returns the number of objects in a collection. Read-only.
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

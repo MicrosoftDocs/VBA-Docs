@@ -33,4 +33,4 @@ Gets the identifier of the  **[ValidationIssue](Visio.ValidationIssue.md)** obje
 
 The ID of a validation issue is unique within the scope of the document.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

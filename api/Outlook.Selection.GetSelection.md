@@ -54,4 +54,3 @@ If the current view is not a conversation view, or, if  **Selection.Location** i
 
 [How to: Obtain and Enumerate Selected Conversations](../outlook/Concepts/Categories-and-Conversations/obtain-and-enumerate-selected-conversations.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

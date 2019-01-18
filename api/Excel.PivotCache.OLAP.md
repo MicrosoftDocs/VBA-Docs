@@ -48,4 +48,3 @@ End Sub
 
 [PivotCache Object](Excel.PivotCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

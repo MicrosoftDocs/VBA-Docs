@@ -33,4 +33,4 @@ String
 
 This property is used when a slicer item has a localized version and its  **SourceNameStandard** property value differs from the **[SourceName](Excel.SlicerItem.SourceName.md)** property value, such as with date formatting.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -27,4 +27,4 @@ The  **DefaultAssignmentOwner** property affects all assignments for the resourc
 
 The  **DefaultAssignmentOwner** property is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -33,4 +33,4 @@ Returns an enumerated value that represents the edition of the current instance 
 
 The  **CurrentEdition** property returns a constant from the **VisEdition** enumeration.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -58,4 +58,4 @@ ActiveDocument.Pages(1).Shapes _
  Left:=100, Top:=100
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

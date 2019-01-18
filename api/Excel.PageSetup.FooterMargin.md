@@ -40,4 +40,3 @@ Worksheets("Sheet1").PageSetup.FooterMargin = _
 
 [PageSetup Object](Excel.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

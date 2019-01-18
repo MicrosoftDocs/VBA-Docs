@@ -53,4 +53,3 @@ End Sub
 |[Item](./Publisher.PageSizes.Item.md)|
 |[Parent](./Publisher.PageSizes.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

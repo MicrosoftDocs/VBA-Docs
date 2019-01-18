@@ -34,4 +34,3 @@ The returned Microsoft Office  **SmartArt** object replaces the PowerPoint **Dia
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

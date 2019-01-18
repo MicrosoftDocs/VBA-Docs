@@ -33,4 +33,4 @@ Double
 
 This property does not affect the height of the slicer. Use the  **[Height](Excel.Slicer.Height.md)** property of the **[Slicer](Excel.Slicer.md)** object to return or set the height of the slicer.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

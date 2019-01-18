@@ -25,4 +25,4 @@ Gets the XML data from Project Professional for all of the deliverables and depe
 
  **String**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

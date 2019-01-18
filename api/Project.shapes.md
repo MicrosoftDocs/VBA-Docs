@@ -97,5 +97,3 @@ End Sub
 [Shape Object](./Project.shape.md)
 [Report Object](./Project.report.md)
 [ShapeRange Object](./Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

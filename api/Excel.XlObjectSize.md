@@ -21,4 +21,3 @@ Specifies the way a chart is scaled to fit on a page.
 | **xlFullPage**|3|Print the chart to fit the page, adjusting the height-to-width ratio as necessary.|
 | **xlScreenSize**|1|Print the chart the same size as it appears on the screen.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

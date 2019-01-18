@@ -56,4 +56,3 @@ Do not confuse the add-in title with the add-in name, which is the file name of 
 
 [PowerPoint Object Model Reference](overview/PowerPoint/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

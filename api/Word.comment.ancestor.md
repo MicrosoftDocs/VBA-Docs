@@ -26,4 +26,3 @@ _expression_ A variable that represents a **[Comment](Word.Comment.md)** object.
 
 **COMMENT**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

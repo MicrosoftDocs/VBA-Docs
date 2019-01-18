@@ -28,4 +28,4 @@ Returns the color that has been applied to the image represented by the parent  
 
 ColorFormat
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -48,4 +48,3 @@ End If
 
 [ModelColumnName Object](Excel.modelcolumnname.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

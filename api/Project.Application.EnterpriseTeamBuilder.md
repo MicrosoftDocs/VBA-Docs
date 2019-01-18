@@ -28,4 +28,4 @@ Displays the  **Build Team** dialog box. Available in Project Professional only.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

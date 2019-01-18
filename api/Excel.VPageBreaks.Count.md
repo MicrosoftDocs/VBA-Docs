@@ -29,4 +29,3 @@ _expression_ A variable that represents a [VPageBreaks](./Excel.VPageBreaks.md) 
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

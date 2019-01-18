@@ -24,4 +24,3 @@ Specifies an auto macro that is stored in the document.
 | **wdAutoOpen**|2|AutoOpen macro.|
 | **wdAutoSync**|5|AutoSync macro.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ Charts("Chart1").SeriesCollection(1).HasDataLabels = True
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

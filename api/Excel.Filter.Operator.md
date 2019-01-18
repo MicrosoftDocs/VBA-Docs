@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Filter](Excel.Filter.md) object.
 
 [Filter Object](Excel.Filter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

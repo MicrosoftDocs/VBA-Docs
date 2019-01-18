@@ -29,4 +29,3 @@ Returns or sets an  **MsoVerticalAnchor** constant that represents the vertical 
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

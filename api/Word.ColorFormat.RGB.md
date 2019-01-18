@@ -58,4 +58,3 @@ MsgBox ActiveDocument.Shapes(1).Fill.ForeColor.RGB
 
 [ColorFormat Object](Word.ColorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

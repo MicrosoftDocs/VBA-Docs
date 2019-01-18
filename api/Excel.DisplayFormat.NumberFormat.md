@@ -39,4 +39,3 @@ This property returns  **Null** if all cells in the specified range do not have 
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

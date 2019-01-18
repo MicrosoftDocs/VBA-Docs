@@ -29,4 +29,3 @@ Returns an  **OMath** object that represents the parent, or containing, argument
 
 [OMath Object](Word.OMath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

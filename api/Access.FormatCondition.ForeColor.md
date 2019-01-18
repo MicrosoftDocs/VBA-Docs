@@ -76,4 +76,3 @@ End Sub
 
 [FormatCondition Object](Access.FormatCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

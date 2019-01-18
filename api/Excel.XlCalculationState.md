@@ -21,4 +21,3 @@ Specifies the calculation state of the application.
 | **xlDone**|0|Calculations complete.|
 | **xlPending**|2|Changes that trigger calculation have been made, but a recalculation has not yet been performed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

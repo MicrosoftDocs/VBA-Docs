@@ -45,4 +45,4 @@ Private Sub App_ProjectBeforeAssignmentChange2(ByVal asg As Assignment, ByVal Fi
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

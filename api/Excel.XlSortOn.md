@@ -22,4 +22,3 @@ Specifies the parameter on which the data should be sorted.
 | **SortOnIcon**|3|Icon.|
 | **SortOnValues**|0|Values.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

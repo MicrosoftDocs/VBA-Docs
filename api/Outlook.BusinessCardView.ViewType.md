@@ -29,4 +29,3 @@ _expression_. `ViewType`
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

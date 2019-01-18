@@ -40,5 +40,3 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
 
 
 [VisBoundingBoxArgs Enumeration (Visio)](./Visio.visboundingboxargs.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

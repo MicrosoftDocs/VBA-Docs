@@ -26,4 +26,4 @@ This example sets the height of the chart to 80 percent of its width. The exampl
 myChart.HeightPercent = 80
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

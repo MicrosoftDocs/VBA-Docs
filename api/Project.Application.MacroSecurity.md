@@ -33,4 +33,4 @@ Displays the  **Security** dialog box, which can be used to set the security lev
 
 The  **MacroSecurity** method has the same effect as clicking **Trust Center Settings** in the **Project Options** dialog box, and then clicking **Macro Settings**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

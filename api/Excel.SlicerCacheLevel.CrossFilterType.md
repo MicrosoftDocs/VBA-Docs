@@ -43,4 +43,3 @@ Slicers filtering non-OLAP data sources (**SlicerCache**. **OLAP** = **False**) 
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

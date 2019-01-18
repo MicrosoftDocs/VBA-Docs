@@ -26,5 +26,3 @@ Gets or sets whether to display legend field buttons on a PivotChart. Read/write
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

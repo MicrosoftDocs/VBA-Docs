@@ -78,4 +78,3 @@ End With
 
 [AutoTextEntries Collection Object](Word.autotextentries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

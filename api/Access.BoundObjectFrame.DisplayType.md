@@ -51,4 +51,3 @@ Changing the  **DisplayType** property of a bound object frame doesn't affect th
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

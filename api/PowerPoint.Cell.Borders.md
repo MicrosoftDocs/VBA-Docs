@@ -45,4 +45,3 @@ ActiveWindow.Selection.ShapeRange.Table.Rows(2) _
 
 [Cell Object](PowerPoint.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

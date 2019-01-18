@@ -36,4 +36,4 @@ Use  **DataLabels**( _index_), where  _index_ is the data label's index number, 
 myChart.SeriesCollection(1).DataLabels(5).NumberFormat = "0.000"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

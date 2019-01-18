@@ -47,4 +47,3 @@ The value of the BeforeColumn parameter must be between 1 and the number of colu
 
 [Columns Object](PowerPoint.Columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

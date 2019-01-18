@@ -29,4 +29,3 @@ Returns the number of items in the  **Bookmarks** collection. Read-only **Long**
 
 [Bookmarks Collection Object](Word.bookmarks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

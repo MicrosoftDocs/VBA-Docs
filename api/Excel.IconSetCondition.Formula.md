@@ -34,4 +34,3 @@ This property is useful to limit the range of values that will display the condi
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

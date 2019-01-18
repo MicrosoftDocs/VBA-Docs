@@ -29,4 +29,3 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object for the parent char
 
 [UpBars Object](PowerPoint.UpBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

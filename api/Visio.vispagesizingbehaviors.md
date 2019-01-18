@@ -21,4 +21,3 @@ Values for the  **DrawingControl.PageSizingBehavior** property.
 | **visNeverResizePages**|0|Do not automatically resize pages under any circumstances.|
 | **visResizePages**|1|Automatically resize all pages when the Microsoft Visio Drawing Control is resized or when a new document is loaded into it. Leave shapes unchanged.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

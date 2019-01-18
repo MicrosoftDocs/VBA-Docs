@@ -34,4 +34,3 @@ In compatibility mode, certain functionality is disabled or functions differentl
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

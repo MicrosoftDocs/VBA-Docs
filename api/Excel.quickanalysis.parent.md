@@ -33,4 +33,3 @@ _expression_ A variable that represents a [QuickAnalysis object (Excel)](Excel.q
 
 [QuickAnalysis Object](Excel.quickanalysis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

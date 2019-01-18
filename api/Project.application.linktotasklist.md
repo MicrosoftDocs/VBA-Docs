@@ -38,5 +38,3 @@ Links to a SharePoint tasks list.
 
 
 [Application Object](Project.Application.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

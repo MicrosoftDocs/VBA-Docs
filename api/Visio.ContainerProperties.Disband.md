@@ -28,4 +28,4 @@ Removes all member shapes from the container and deletes the container shape.
 
  **Nothing**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

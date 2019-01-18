@@ -34,4 +34,3 @@ Double
 
 [ChartTitle Object](PowerPoint.ChartTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

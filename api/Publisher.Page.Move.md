@@ -42,4 +42,4 @@ This example moves the first page of the publication before the third page of th
 ActiveDocument.Pages(1).Move page:=3, After:=False
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

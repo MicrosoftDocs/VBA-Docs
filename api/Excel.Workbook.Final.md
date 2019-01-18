@@ -34,4 +34,3 @@ Setting the value to  **True** marks the workbook as final, notifies recipients 
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

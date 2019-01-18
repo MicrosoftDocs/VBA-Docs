@@ -56,4 +56,3 @@ You can specify the Kanji Conversion Mode when the focus shifts to control by se
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

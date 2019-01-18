@@ -19,4 +19,4 @@ Project Plan uses the project plan to calculate resource availability, Resource 
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

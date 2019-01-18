@@ -48,5 +48,3 @@ To return a single  **[SmartTag](Access.SmartTag.md)** object, use the **Item** 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

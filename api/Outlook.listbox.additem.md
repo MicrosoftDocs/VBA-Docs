@@ -40,4 +40,4 @@ If the control is bound to data, the  **AddItem** method fails.
 
 You can add more than one row at a time to a  **ListBox** by using **List**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

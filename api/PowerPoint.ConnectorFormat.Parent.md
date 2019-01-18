@@ -50,4 +50,3 @@ End With
 
 [ConnectorFormat Object](PowerPoint.ConnectorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -68,4 +68,4 @@ vsoValidationRule.FilterExpression = "NOT(Is1D())"
 vsoValidationRule.TestExpression = "AGGCOUNT(GLUEDSHAPES(0)) + AGGCOUNT(GLUEDSHAPES(3)) > 0"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

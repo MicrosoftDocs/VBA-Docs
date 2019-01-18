@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether the equations in an equat
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

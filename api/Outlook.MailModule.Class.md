@@ -34,4 +34,3 @@ This property returns  **olMailModule** for the **[MailModule](Outlook.MailModul
 
 [MailModule Object](Outlook.MailModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ _expression_ Required. A variable that represents a **[FileDialogSelectedItems](
 
 - [FileDialogSelectedItems object members](overview/library-reference/filedialogselecteditems-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

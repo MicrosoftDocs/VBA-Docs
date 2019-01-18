@@ -21,4 +21,3 @@ Specifies how Microsoft Word resizes a table when the AutoFit feature is used.
 | **wdAutoFitFixed**|0|The table is set to a fixed size, regardless of the content, and is not automatically sized.|
 | **wdAutoFitWindow**|2|The table is automatically sized to the width of the active window.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

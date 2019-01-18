@@ -46,4 +46,4 @@ This example sets the value axis to cross the category axis at the maximum x val
 myChart.Axes(xlCategory).Crosses = xlMaximum
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -59,4 +59,3 @@ objTemplate.BuildingBlockTypes(wdTypeAutoText) _
 
 [BuildingBlocks Collection](Word.BuildingBlocks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

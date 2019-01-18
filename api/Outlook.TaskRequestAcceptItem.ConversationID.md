@@ -38,4 +38,3 @@ If the  **TaskRequestAcceptItem** object is created in a version of Microsoft Ou
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

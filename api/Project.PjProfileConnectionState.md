@@ -20,4 +20,3 @@ Contains constants that specify the connection state.
 |**pjProfileOffline**|0|Offline.|
 |**pjProfileOnline**|1|Online.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

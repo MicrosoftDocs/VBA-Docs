@@ -38,4 +38,3 @@ _expression_. `Item`( `_Index_` )
 
 [PictureEffects Object Members](./overview/Library-Reference/pictureeffects-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

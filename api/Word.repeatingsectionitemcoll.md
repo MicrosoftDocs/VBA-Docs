@@ -17,4 +17,5 @@ Represents the collection of [RepeatingSectionItem](Word.repeatingsectionitem.md
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

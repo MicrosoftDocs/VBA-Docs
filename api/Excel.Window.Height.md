@@ -34,4 +34,3 @@ Use the  **[UsableHeight](Excel.Window.UsableHeight.md)** property to determine 
 
 [Window Object](Excel.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

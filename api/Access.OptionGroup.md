@@ -135,5 +135,3 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 [OptionGroup Object Members](overview/Access.md)
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

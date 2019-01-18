@@ -45,4 +45,3 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

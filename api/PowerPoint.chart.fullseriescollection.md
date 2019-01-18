@@ -35,4 +35,4 @@ _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 
  **Object**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

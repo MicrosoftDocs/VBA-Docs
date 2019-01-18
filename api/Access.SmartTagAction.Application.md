@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [SmartTagAction Object](Access.SmartTagAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

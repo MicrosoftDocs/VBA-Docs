@@ -49,4 +49,4 @@ Valid field format constants are defined in the Visio type library in  **[VisFie
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **AddCustomField** method to set a custom field that uses local syntax. Use the **AddCustomFieldU** method to set a custom field that uses universal syntax.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

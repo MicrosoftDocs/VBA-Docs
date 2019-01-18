@@ -49,4 +49,4 @@ If you do not use  **WordWrap**, the  **TextBox** starts a new line of text when
     
 Avoid using  **AutoSize** with an empty **TextBox** that also uses the **MultiLine** and **WordWrap** properties. When the user enters text into a **TextBox** with these properties, the **TextBox** automatically sizes to a long narrow box one character wide and as long as the line of text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

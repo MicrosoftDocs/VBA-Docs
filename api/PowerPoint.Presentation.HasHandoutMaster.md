@@ -34,4 +34,3 @@ Indicates whether the presentation has media that resides on a handout master. R
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

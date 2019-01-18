@@ -26,4 +26,3 @@ localization_priority: Normal
 |**msoSoftEdgeTypeNone**|0|No soft edge.|
 |**SoftEdgeTypeMixed**|-2|A mix of soft edge types.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

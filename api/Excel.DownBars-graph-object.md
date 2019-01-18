@@ -35,4 +35,4 @@ End With
 
 If the  **[HasUpDownBars](Excel.HasUpDownBars.md)** property is  **False**, most properties of the  **DownBars** object are disabled.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

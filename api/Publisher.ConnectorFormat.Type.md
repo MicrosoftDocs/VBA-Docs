@@ -35,4 +35,3 @@ The  **Type** property value can be one of these **MsoConnectorType** constants.
 | **msoConnectorStraight**|
 | **msoConnectorTypeMixed**|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

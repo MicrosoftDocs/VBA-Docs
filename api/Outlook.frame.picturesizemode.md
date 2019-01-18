@@ -38,4 +38,4 @@ The 1 and 3 settings both enlarge the image, but 1 causes distortion. The 1 sett
 
 Setting the  **PictureSizeMode** property to 2 overrides **[PictureAlignment](Outlook.frame.picturealignment.md)**. When  **PictureSizeMode** is set to 2, the picture fills the entire control or container.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

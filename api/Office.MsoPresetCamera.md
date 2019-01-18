@@ -81,4 +81,3 @@ Indicates the effects camera type used by the specified object.
 |**msoCameraPerspectiveRight**|50|Specifies Perspective Right.|
 |**msoPresetCameraMixed**|-2|Specifies a mixed effect.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

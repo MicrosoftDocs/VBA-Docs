@@ -40,4 +40,3 @@ Makes a copy of a group definition for the  **ResourceGroups2** collection and r
 
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

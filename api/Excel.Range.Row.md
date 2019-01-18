@@ -139,4 +139,4 @@ Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .N
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

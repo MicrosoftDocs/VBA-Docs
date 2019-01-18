@@ -39,4 +39,4 @@ A document's Gesture Format sheet is cleared automatically when a document is op
 
 If a user attempts to use formatting commands on the menus and toolbars to make changes to any shape, but no shapes are currently selected, this formatting is stored in the gesture format sheet and applied to new shapes the user draws.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

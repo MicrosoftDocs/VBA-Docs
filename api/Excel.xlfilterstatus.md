@@ -23,4 +23,3 @@ Used to return a status from filter functions.
 | **xlFilterStatusDateHasTime**|2|SetFilterDateRange(?): StartDate or EndDate have a time portion.|
 | **xlFilterStatusInvalidDate** ****|3|SetFilterDateRange(?): StartDate or EndDate are not valid dates.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

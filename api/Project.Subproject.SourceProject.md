@@ -20,4 +20,4 @@ Gets a  **[Project](Project.Project.md)** object representing the master project
 
  _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

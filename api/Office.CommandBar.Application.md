@@ -33,4 +33,3 @@ Object
 
 - [CommandBar object members](overview/library-reference/commandbar-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Returns an error if account does not represent an initialized account.
 
 [AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ The  **FileURL** property returns an empty string if the table that contains the
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

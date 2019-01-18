@@ -39,4 +39,3 @@ Worksheets(1).PivotTables(1).PivotCache.Refresh
 
 [PivotCache Object](Excel.PivotCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

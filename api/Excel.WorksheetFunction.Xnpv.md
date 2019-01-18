@@ -62,4 +62,3 @@ npv = Application.Evaluate("=XNPV(.09,A2:A6,B2:B6)")
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

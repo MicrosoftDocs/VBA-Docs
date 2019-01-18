@@ -21,4 +21,3 @@ Specifies how a building block is inserted into a document.
 | **wdInsertPage**|2|Page-level building block.|
 | **wdInsertParagraph**|1|Paragraph-level building block.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

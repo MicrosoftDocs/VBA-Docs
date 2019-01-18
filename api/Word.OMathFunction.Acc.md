@@ -29,4 +29,3 @@ Returns an  **[OMathAcc](Word.OMathAcc.md)** object that represents a base chara
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

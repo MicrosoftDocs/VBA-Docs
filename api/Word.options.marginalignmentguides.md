@@ -37,4 +37,3 @@ If  **MarginAlignmentGuides** is set to **True**, margin alignment guides are di
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

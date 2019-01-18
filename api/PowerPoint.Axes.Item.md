@@ -66,4 +66,3 @@ End With
 
 [Axes Object](PowerPoint.Axes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

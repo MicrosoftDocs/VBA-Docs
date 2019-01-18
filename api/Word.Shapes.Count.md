@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of shapes in the collection. Read
 
 [Shapes Collection Object](Word.shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

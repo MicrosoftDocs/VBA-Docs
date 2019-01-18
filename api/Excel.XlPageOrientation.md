@@ -20,4 +20,3 @@ Specifies the page orientation when the worksheet is printed.
 | **xlLandscape**|2|Landscape mode.|
 | **xlPortrait**|1|Portrait mode.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

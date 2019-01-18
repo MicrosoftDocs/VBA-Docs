@@ -46,4 +46,4 @@ The  **VisualReports** method corresponds to the **Visual Reports** command on t
 
  **Note**  The  **[Reports](Project.Application.Reports.md)** method, for the older style of reports that require connection with a printer, is deprecated in Project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

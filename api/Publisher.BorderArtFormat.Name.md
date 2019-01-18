@@ -36,4 +36,3 @@ The  **Name** property is the default property for the **BorderArt**,  **BorderA
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

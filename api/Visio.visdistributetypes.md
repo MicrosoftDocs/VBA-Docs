@@ -32,4 +32,3 @@ These constants correspond to the options available in the  **Distribute Shapes*
 | **visDistVertSpace**|4|Distributes shapes vertically so that there is a uniform space between shapes.|
 | **visDistVertTop**|5|Distributes shapes vertically so that their top edges are uniformly spaced. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

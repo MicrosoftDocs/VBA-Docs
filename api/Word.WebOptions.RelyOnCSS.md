@@ -46,4 +46,3 @@ Application.DefaultWebOptions.RelyOnCSS = True
 
 [WebOptions Object](Word.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

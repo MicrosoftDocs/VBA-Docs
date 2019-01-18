@@ -25,4 +25,4 @@ This method gives the user the ability to select the fields to display in the cu
 
 This method has no effect if the current view does not allow the user to change the fields displayed in the view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

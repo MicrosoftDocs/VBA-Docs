@@ -93,5 +93,3 @@ For more information about Outlook controls, see [Controls in a Custom Form](../
 
 [OlkDateControl Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

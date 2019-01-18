@@ -31,4 +31,4 @@ The  **Type** property value can be one of the **[PbFieldType](Publisher.PbField
 
  **PBFIELDTYPE**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

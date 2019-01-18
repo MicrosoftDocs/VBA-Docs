@@ -45,4 +45,3 @@ ActiveWindow.Document.Frameset _
 
 [Frameset Object](Word.Frameset.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

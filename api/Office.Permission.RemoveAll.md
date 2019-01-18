@@ -61,4 +61,3 @@ The following example uses the  **RemoveAll** method to remove all user permissi
 
 [Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

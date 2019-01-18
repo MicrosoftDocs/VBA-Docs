@@ -39,4 +39,4 @@ This example clears the formatting from the chart.
 myChart.ChartArea.ClearFormats
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

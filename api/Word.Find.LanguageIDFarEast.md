@@ -34,4 +34,3 @@ This is the recommended way to return or set the language of East Asian text in 
 
 [Find Object](Word.Find.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

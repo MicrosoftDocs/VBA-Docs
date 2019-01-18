@@ -23,4 +23,3 @@ Indicates if a rule is applied to messages that are being sent or received.
 | **olRuleReceive**|0|Indicates that the rule is applied to messages that are being received.|
 | **olRuleSend**|1|Indicates that the rule is being applied to messages being sent.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

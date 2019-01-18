@@ -36,4 +36,3 @@ Only one character is accepted for the value of this property. If a string of mo
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

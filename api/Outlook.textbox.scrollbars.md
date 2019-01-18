@@ -63,5 +63,7 @@ For a multiline  **[TextBox](Outlook.textbox.md)**, you can display scroll bars 
   - The control has enough room to include the scroll bar under the edit region.
     
   - The  **WordWrap** property is set to **False**.
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

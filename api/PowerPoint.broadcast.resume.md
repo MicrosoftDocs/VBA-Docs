@@ -31,4 +31,4 @@ _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md)
 
 The  **Resume** method returns an error (#4700) if the document is DRM protected, is already being broadcast (#4698), is not being broadcast at all (#4702), or has conflicting edits (is in merge mode, #4701).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

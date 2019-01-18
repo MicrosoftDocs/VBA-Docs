@@ -29,4 +29,3 @@ Sets or returns a  **Boolean** that represents whether to prompt a warning dialo
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

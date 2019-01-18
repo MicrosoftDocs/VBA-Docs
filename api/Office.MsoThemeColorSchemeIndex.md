@@ -30,4 +30,3 @@ Indicates the color scheme for an Office theme.
 |**msoThemeLight1**|2|Specifies color scheme Light 1.|
 |**msoThemeLight2**|4|Specifies color scheme Light 2.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Indicates the behavior of a combo box control.
 | **olComboBoxStyleCombo**|0|Indicates that the combo box behaves like a traditional combo box in which the user can type a value in the edit box or select a value from the drop-down list.|
 | **olComboBoxStyleList**|1|Indicates that the combo box behaves like a drop-down list from which the user can only select a value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

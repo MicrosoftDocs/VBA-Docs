@@ -28,4 +28,3 @@ Specifies the type of the form control.
 | **xlScrollBar**|8|Scroll bar.|
 | **xlSpinner**|9|Spinner.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

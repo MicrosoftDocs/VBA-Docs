@@ -27,4 +27,3 @@ Used with the [DoCmd.SendObject method (Access)](Access.DoCmd.SendObject.md) met
 |**acSendReport**|3|Send a Report.|
 |**acSendTable**|0|Send a Table.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

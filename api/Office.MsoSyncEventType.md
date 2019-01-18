@@ -27,4 +27,3 @@ Beginning with Microsoft Office 2010, this object or member has been deprecated 
 |**msoSyncEventUploadInitiated**|3|Upload initiated.|
 |**msoSyncEventUploadSucceeded**|4|Upload succeeded.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

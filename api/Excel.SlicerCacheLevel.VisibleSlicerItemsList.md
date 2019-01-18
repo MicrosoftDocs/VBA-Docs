@@ -39,4 +39,3 @@ The list of slicer items are returned as MDX unique name strings. If this list i
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

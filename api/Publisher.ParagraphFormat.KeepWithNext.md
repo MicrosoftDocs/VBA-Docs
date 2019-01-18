@@ -48,4 +48,4 @@ Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _
 objParaForm.KeepWithNext = msoTrue
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

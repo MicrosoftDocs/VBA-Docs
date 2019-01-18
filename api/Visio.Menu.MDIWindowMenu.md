@@ -33,4 +33,4 @@ Integer
 
 The  **MDIWindowMenu** property usually refers to the **Window** menu.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

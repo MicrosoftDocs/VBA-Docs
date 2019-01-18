@@ -39,4 +39,3 @@ The  **InvertColorIndex** property enables you to set the fill color for negativ
 
 [Series Object](Word.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

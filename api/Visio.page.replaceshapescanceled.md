@@ -33,4 +33,3 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 [Page Object](Visio.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

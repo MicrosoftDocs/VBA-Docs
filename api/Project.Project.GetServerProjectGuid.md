@@ -25,4 +25,4 @@ Returns the GUID for the enterprise project.
 
  **String**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

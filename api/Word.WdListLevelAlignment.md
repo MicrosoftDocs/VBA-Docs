@@ -21,4 +21,3 @@ Specifies the alignment of a list level.
 | **wdListLevelAlignLeft**|0|Left-aligned.|
 | **wdListLevelAlignRight**|2|Right-aligned.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **String** that represents the physical location of an XML schema. Re
 
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 vsoValidationRule.FilterExpression = "NOT(Is1D())"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

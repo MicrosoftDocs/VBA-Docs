@@ -35,4 +35,3 @@ Long
 
 [SignatureSetup Object Members](./overview/Library-Reference/signaturesetup-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

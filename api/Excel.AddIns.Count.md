@@ -29,4 +29,3 @@ _expression_ A variable that represents an [AddIns](Excel.AddIns.md) object.
 
 [AddIns Collection](Excel.AddIns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

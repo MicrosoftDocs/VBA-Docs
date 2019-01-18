@@ -25,4 +25,4 @@ Specifies the type of data in the  **PivotTable** field.
 
 This enumeration is used with the  **DataType** property of the **PivotField** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

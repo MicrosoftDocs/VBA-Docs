@@ -37,4 +37,3 @@ _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

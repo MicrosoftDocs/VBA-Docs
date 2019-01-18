@@ -25,4 +25,4 @@ The default property of a  **ToggleButton** is the **[Value](Outlook.togglebutto
 
 The only event for a  **ToggleButton** is the **[Click](Outlook.togglebutton.click.md)** event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -30,5 +30,3 @@ The  **Index** properties of different objects are used in similar ways. For an 
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

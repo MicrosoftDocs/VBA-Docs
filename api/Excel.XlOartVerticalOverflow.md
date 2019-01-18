@@ -21,4 +21,3 @@ Specifies the vertical overflow setting for a text frame.
 | **xlOartVerticalOverflowEllipsis**|2|Hide text that does not fit vertically within the text frame, and add an ellipsis (...) at the end of the visible text.|
 | **xlOartVerticalOverflowOverflow**|0|Allow text to overflow the text frame vertically (can be from the top, bottom, or both depending on the text alignment).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

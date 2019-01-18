@@ -39,4 +39,4 @@ Event codes are declared by the Microsoft Visio type library in  **[VisEventCode
 
 A program can use the  **Trigger** method to cause an **Event** object's action to be performed without waiting for the event to occur.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

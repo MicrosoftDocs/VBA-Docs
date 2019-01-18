@@ -75,4 +75,3 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 |[Index](Project.Availability.Index.md)|
 |[Parent](Project.Availability.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

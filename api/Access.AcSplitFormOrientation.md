@@ -25,4 +25,3 @@ Used with the [SplitFormOrientation](Access.Form.SplitFormOrientation.md) proper
 |**acDatasheetOnRight**|3|The datasheet is displayed to the right of the form.|
 |**acDatasheetOnTop**|0|The datasheet is displayed above the form. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

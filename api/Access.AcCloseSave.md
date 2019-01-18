@@ -22,4 +22,3 @@ Used by the  **Close** method to specify whether or not to save an object upon c
 |**acSavePrompt**|0|The user is asked whether or not they want to save the object.<table><tr><th>**Note**</th></tr><tr><td>This value is ignored if you are closing a Visual Basic module. The module will be closed, but changes to the module will not be saved.</td></tr></table>|
 |**acSaveYes**|1|The specified object is saved.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

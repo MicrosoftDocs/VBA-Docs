@@ -28,4 +28,4 @@ Returns a  **Paths** collection that reports the coordinates of a shape's paths 
 
 Paths
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

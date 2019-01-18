@@ -29,4 +29,3 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 [Trendlines Object](Word.Trendlines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

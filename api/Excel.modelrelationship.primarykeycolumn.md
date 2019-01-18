@@ -33,4 +33,3 @@ _expression_ A variable that represents a [ModelRelationship object (Excel)](Exc
 
 [ModelRelationship Object](Excel.modelrelationship.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

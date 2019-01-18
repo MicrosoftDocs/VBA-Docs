@@ -29,4 +29,3 @@ Returns the dictionary type. Read-only  **WdDictionaryType**.
 
 [Dictionary Object](Word.Dictionary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

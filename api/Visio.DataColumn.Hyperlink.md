@@ -36,4 +36,4 @@ Boolean
 
 The  **Hyperlink** property setting corresponds to the setting of the **Hyperlink** check box in the **Types and Units** dialog box for the column in the Visio UI.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -73,4 +73,3 @@ MsgBox "The original item name is " & _
 
 [PivotItem Object](Excel.PivotItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

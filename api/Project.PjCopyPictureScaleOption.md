@@ -24,4 +24,3 @@ Contains constants that specify how to treat a picture of the active view if it 
 |**pjCopyPictureTimescale**|4|Adjusts the timescale (zooms out) so that the picture fits  **MaxImageWidth** by **MaxImageHeight MeasurementUnits**.|
 |**pjCopyPictureTruncate**|5|Truncates any portion of the picture that exceeds the boundaries of  **MaxImageWidth** by **MaxImageHeight MeasurementUnits**.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

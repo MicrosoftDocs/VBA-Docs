@@ -49,4 +49,3 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

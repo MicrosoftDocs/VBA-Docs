@@ -27,4 +27,4 @@ The  **LevelFreeformTasks** property corresponds to the **Level manually schedul
 
 To set other leveling options, see the  **[LevelingOptionsEx](Project.Application.LevelingOptionsEx.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

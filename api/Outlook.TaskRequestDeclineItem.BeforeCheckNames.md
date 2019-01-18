@@ -52,4 +52,3 @@ The event does not fire under the following circumstances:
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

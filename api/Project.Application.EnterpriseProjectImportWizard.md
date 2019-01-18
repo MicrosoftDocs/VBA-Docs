@@ -43,4 +43,4 @@ Using the  **EnterpriseProjectImportWizard** method still requires that you clic
 
 Alternatively, you can use the  **[SaveAs](Project.Project.SaveAs.md)** method in conjunction with the **[EnterpriseResourceGet](Project.Application.EnterpriseResourceGet.md)** method to convert team members into enterprise resources. Using the Map argument in the **SaveAs** method also allows you to specify the import/export map to use when exporting the data.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

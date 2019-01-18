@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of list paragraphs in the collect
 
 [ListParagraphs Collection Object](Word.listparagraphs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

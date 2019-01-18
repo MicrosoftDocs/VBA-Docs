@@ -34,4 +34,3 @@ This is the recommended way to return or set the language of Latin text in a doc
 
 [Find Object](Word.Find.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

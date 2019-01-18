@@ -35,4 +35,4 @@ The  **FromConnects** property of a shape returns a **Connects** collection that
 
 To obtain a  **Connects** collection that contains every **Connect** object for which the shape is the **FromSheet** property, use the shape's **Connects** property. This tells you all the shapes to which the shape is connected.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

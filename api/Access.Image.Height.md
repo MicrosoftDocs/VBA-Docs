@@ -43,4 +43,3 @@ The height of controls is measured from the center of their borders so controls 
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

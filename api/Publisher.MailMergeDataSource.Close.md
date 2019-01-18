@@ -38,4 +38,4 @@ The following example closes the data source for the active mail merge publicati
 ActiveDocument.MailMerge.DataSource.Close
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns or sets the position of the axis title on the chart. Read/write  **[xlCh
 
 [AxisTitle Object](Word.AxisTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

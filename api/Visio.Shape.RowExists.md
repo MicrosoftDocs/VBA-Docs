@@ -47,4 +47,4 @@ If  _fExistsLocally_ is **True** (non-zero), the **RowExists** property returns 
 
 For a list of row index values, see the  **AddRow** method or view the Visio type library for the members of the **[VisRowIndices](Visio.visrowindices.md)** enumeration. For a list of section index values, see the **AddSection** method or view the Visio type library for the members of the **[VisSectionIndices](Visio.vissectionindices.md)** enumeration.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

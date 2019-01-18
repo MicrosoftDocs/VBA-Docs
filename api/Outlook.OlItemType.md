@@ -29,4 +29,3 @@ Indicates the Outlook item type.
 | **olPostItem**|6|A  **[PostItem](Outlook.PostItem.md)** object.|
 | **olTaskItem**|3|A  **[TaskItem](Outlook.TaskItem.md)** object.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

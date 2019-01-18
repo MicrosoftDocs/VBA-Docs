@@ -45,4 +45,3 @@ Selection.Comments.Add Range:=Selection.Range, Text:="Approved"
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

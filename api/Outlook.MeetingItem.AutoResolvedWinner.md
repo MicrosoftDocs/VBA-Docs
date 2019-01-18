@@ -36,4 +36,3 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Meet
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

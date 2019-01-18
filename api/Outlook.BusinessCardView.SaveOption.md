@@ -116,4 +116,3 @@ End Sub
 
 [BusinessCardView Object](Outlook.businesscardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

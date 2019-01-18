@@ -34,4 +34,3 @@ The default value is zero, which only means that no maximum length for the value
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

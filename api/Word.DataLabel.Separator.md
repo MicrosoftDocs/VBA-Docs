@@ -49,4 +49,3 @@ End With
 
 [DataLabel Object](Word.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

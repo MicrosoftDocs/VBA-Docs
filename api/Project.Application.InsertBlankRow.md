@@ -35,4 +35,4 @@ The  **InsertBlankRow** method corresponds to the **Blank Row** command in the *
 
 By comparison, the  **[InsertTask](Project.Application.InsertTask.md)** method creates a task of the default task type, where the **Task Name** cell is selected with **<Type Task Name Here>**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

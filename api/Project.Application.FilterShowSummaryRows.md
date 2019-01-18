@@ -51,4 +51,4 @@ If the current filter shows only completed tasks, for example, the following com
 FilterShowSummaryRows (true)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -60,4 +60,3 @@ The aggregation parameter ( _Arg7_) is a numeric value specifying the method to 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

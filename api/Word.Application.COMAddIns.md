@@ -34,4 +34,3 @@ COM add-ins are listed in the  **COM Add-Ins** dialog box.
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

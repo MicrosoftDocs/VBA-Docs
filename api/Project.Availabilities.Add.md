@@ -40,5 +40,3 @@ Adds an  **Availability** object to an **Availabilities** collection.
 
 
 [Availabilities Collection Object](Project.availabilities.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,5 +55,3 @@ End Sub
 ## See also
 
 - [Crop object members](overview/library-reference/crop-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

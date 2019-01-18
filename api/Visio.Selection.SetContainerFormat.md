@@ -54,4 +54,4 @@ If the selection does not include any containers, this method has no effect.
 
 If  _FormatType_ is of an incorrect type or is out of the range of **VisContainerFormatType** , Microsoft Visio returns an Invalid Parameter error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

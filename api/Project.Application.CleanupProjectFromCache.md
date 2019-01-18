@@ -51,4 +51,4 @@ You can use the  **CleanupProjectFromCache** method if you suspect the project i
 CleanupProjectFromCache("Sample.mpp")
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

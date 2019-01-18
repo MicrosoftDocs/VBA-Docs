@@ -42,4 +42,3 @@ KeyBinding
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

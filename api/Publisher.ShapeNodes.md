@@ -87,4 +87,3 @@ End Sub
 |[Count](Publisher.ShapeNodes.Count.md)|
 |[Parent](Publisher.ShapeNodes.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_. `Shape`
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets a  **[TaskGroups](Project.taskgroups(object).md)** collection representing 
 
 To get a collection of task-based  **Group2** objects, use the **[TaskGroups2](Project.Project.TaskGroups2.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

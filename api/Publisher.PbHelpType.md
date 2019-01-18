@@ -24,4 +24,3 @@ The type of help to display.
 | **pbHelpActiveWindow**|2|Displays Help describing the command associated with the active view or pane.|
 | **pbHelpPSSHelp**|3|Displays product support information.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

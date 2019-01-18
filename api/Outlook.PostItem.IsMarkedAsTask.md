@@ -29,4 +29,3 @@ _expression_. `IsMarkedAsTask`
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

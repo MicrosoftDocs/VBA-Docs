@@ -54,4 +54,3 @@ myPage.Controls("bar").ItemProperty = "subject"
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

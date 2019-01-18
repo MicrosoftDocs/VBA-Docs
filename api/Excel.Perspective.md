@@ -27,4 +27,4 @@ myChart.RightAngleAxes = False
 myChart.Perspective = 70
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

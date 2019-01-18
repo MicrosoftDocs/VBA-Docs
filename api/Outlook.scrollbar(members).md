@@ -32,4 +32,5 @@ Returns or sets the value of another control based on the position of the scroll
 | [SmallChange](Outlook.scrollbar.smallchange.md)|Returns or sets an  **Integer** that specifies the amount of movement that occurs when the user clicks either scroll arrow in a **ScrollBar**. Read/write.|
 | [Value](Outlook.scrollbar.value.md)|Returns or sets a  **Variant** that specifies the state of a **ScrollBar**. Read/write.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

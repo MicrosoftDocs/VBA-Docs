@@ -41,4 +41,4 @@ Regardless of which method you use to create the group of check boxes, clicking 
 
 For example, assume your form includes some check boxes and a  **[MultiPage](Outlook.multipage.md)** that also includes option buttons. The check boxes on the **MultiPage** are one group and the buttons on the form are another group. The two groups do not affect each other. Changing the setting of a check box on the **MultiPage** does not affect the check boxes on the form.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

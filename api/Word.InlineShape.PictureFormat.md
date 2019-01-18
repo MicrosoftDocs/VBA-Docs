@@ -34,4 +34,3 @@ Applies to  **InlineShape** objects that represent pictures or OLE objects.
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

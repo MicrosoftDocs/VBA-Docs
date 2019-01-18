@@ -69,4 +69,5 @@ Displays a list of values and lets you select one or more.
 |:-----|:-----|
 | [Click](Outlook.ListBox.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

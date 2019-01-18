@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) ob
 
 [WebOptions Object](Excel.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ A  **UserProperty** object that represents the specified object.
 
 [UserProperties Object](Outlook.UserProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

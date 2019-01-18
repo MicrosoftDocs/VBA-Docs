@@ -51,4 +51,3 @@ This method adds contact information, generated from the information stored in t
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

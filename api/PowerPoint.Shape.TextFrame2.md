@@ -41,4 +41,3 @@ Use the  **[HasTextFrame](PowerPoint.Shape.HasTextFrame.md)** property to determ
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

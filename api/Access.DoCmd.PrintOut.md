@@ -57,4 +57,3 @@ DoCmd.PrintOut acPages, 1, 4, , 2
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

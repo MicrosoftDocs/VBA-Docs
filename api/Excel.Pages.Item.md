@@ -37,4 +37,3 @@ _expression_ A variable that represents a [Pages](Excel.Pages.md) object.
 
 [Pages Object](Excel.Pages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

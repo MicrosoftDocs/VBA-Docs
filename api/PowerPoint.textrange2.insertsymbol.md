@@ -39,4 +39,4 @@ TextRange2
 
 [TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

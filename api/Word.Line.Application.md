@@ -34,4 +34,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [Line Object](Word.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

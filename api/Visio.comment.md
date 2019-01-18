@@ -14,4 +14,5 @@ Represents a single comment in a Visio document.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

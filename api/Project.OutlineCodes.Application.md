@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [OutlineCodes Collection Object](Project.outlinecodes(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

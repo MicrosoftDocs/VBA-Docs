@@ -45,4 +45,3 @@ ActiveDocument.Hyperlinks(1).Shape.Fill.ForeColor.RGB = _
 
 [Hyperlink Object](Word.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

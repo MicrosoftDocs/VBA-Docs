@@ -20,4 +20,3 @@ Contains constants that specify the booking type.
 |**pjBookingTypeCommitted**|0|Committed.|
 |**pjBookingTypeProposed**|1|Proposed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

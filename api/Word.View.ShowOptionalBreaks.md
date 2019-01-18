@@ -39,4 +39,3 @@ ActiveDocument.ActiveWindow.View.ShowOptionalBreaks = True
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

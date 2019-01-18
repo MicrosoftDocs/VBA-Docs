@@ -29,4 +29,3 @@ Returns or sets the starting endnote number. Read/write  **Long**.
 
 [EndnoteOptions Object](Word.EndnoteOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

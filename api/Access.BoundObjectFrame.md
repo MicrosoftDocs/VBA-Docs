@@ -152,5 +152,3 @@ The object in a bound object frame is different for each record. The bound objec
 
 [BoundObjectFrame Object Members](overview/Access.md)
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

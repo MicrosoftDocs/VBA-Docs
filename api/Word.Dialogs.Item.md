@@ -54,4 +54,3 @@ End Sub
 
 [Dialogs Collection Object](Word.dialogs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

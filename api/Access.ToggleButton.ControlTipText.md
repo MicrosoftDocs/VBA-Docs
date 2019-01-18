@@ -42,4 +42,3 @@ There are other ways to provide information about a form or a control on a form.
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

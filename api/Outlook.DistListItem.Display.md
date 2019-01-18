@@ -44,4 +44,3 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

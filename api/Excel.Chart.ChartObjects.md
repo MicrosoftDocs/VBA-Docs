@@ -80,4 +80,3 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.ClearFormats
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

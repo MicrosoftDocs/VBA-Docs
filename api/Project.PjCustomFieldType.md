@@ -27,4 +27,3 @@ Contains constants that specify the type of a custom field.
 |**pjStartCustomField**|6|Start.|
 |**pjTextCustomField**|7|Text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

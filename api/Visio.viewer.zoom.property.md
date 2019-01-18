@@ -38,4 +38,4 @@ The following code gets the percentage of zoom in the drawing that is open in Vi
 Debug.Print "Zoom = "; vsoViewer.Zoom
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

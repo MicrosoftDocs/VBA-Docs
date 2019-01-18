@@ -27,4 +27,3 @@ Specifies how the horizontal axis of the histogram chart is formatted, by bins t
 
 [ChartGroup Object](Word.ChartGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ End If
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

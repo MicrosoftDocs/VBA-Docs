@@ -40,4 +40,3 @@ The value of this property can be an integer value from -90 to 90 degrees or one
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

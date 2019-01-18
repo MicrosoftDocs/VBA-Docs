@@ -34,4 +34,3 @@ Some chart types aren't available for PivotChart reports.
 
 [Series Object](Excel.Series(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

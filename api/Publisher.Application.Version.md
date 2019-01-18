@@ -47,4 +47,3 @@ MsgBox "You are currently running Microsoft Publisher, " _
 
  [Application Object](Publisher.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

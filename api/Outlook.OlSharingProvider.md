@@ -29,4 +29,3 @@ Indicates the sharing provider associated with a  **[SharingItem](Outlook.Sharin
 | **olProviderUnknown**|0|Represents an unknown sharing provider. This value is used if the sharing provider GUID in the sharing message does not match the GUID of any of the sharing providers represented in this enumeration.|
 | **olProviderWebCal**|2|Represents the WebCal sharing provider.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

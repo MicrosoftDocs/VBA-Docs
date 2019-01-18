@@ -196,4 +196,4 @@ This example applies the line with the markers chart type.
 myChart.ApplyCustomType xlLineMarkers
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

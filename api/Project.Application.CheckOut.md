@@ -46,4 +46,4 @@ Sub CheckOutProject(docCheckOut As String)
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

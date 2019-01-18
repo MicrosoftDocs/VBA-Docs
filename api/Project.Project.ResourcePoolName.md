@@ -30,4 +30,4 @@ If the project is using enterprise resources,  **ResourcePoolName** gets the nam
 
 If the project is not using enterprise resources,  **ResourcePoolName** gets the path and name of the project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

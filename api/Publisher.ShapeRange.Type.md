@@ -28,4 +28,4 @@ Specifies the shape type. Read-only.
 
 The  **Type** property value can be one of the **[PbShapeType](Publisher.PbShapeType.md)** constants declared in the Microsoft Publisher type library.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

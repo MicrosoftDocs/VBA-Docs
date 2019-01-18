@@ -61,4 +61,3 @@ End Sub
 
 [ChartCharacters Object](PowerPoint.ChartCharacters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

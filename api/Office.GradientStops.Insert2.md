@@ -46,5 +46,3 @@ This method differs from the **[Insert](Office.GradientStops.Insert.md)** method
 ## See also
 
 - [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

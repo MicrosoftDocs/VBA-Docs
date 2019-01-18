@@ -42,4 +42,3 @@ There are other ways to provide information about a form or a control on a form.
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

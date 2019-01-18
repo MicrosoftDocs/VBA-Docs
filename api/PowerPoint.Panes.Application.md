@@ -67,4 +67,3 @@ Next
 
 [Panes Object](PowerPoint.Panes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

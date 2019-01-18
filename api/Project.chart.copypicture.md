@@ -40,5 +40,3 @@ Copies a selected object to the Clipboard as a picture.
 
 [Chart Object](Project.chart.md)
 [Copy Method](Project.chart.copy.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

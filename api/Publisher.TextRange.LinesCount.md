@@ -28,4 +28,4 @@ Returns the number of lines of text in the text range represented by the parent 
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

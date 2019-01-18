@@ -27,5 +27,3 @@ _expression_ Required. A variable that represents a **[CommandBarComboBox](Offic
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

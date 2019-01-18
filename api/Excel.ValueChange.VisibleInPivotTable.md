@@ -39,4 +39,3 @@ Return  **True** if the cell (tuple) is currently visible in the PivotTable repo
 
 [ValueChange Object](Excel.ValueChange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

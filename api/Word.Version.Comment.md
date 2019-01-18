@@ -61,4 +61,3 @@ MsgBox Prompt:=verTemp(lngCount).Comment, _
 
 [Version Object](Word.Version.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

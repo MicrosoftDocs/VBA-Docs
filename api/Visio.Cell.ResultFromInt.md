@@ -55,4 +55,4 @@ Automation constants for representing units are declared by the Visio type libra
 
 If the cell's formula is protected with a GUARD function, use the  **ResultFromIntForce** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

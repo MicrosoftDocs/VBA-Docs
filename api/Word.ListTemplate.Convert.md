@@ -52,4 +52,3 @@ ActiveDocument.ListTemplates(1).Convert
 
 [ListTemplate Object](Word.ListTemplate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

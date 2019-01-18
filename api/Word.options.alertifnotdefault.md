@@ -37,4 +37,3 @@ The setting of  **AlertIfNotDefault** corresponds to the setting of **Tell me if
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

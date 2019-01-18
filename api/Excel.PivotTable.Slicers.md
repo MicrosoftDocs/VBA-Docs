@@ -34,4 +34,3 @@ Slicers can be used to filter data in PivotTable reports. The  **Slicers** colle
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

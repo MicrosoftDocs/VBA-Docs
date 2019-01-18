@@ -36,4 +36,3 @@ All text formatting will be lost when the  **BodyFormat** property is switched f
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ _expression_ A variable that represents an [Actions](./Outlook.Actions.md) objec
 
 [Actions Object](Outlook.Actions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

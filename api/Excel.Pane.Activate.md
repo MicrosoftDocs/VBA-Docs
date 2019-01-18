@@ -39,4 +39,3 @@ If the pane isn't in the active window, the window that the pane belongs to will
 
 [Pane Object](Excel.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

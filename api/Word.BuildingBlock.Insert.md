@@ -59,4 +59,3 @@ objBB.Insert ActiveDocument.Paragraphs(1).Range
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

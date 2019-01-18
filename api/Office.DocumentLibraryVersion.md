@@ -65,5 +65,3 @@ The following example displays the properties of each saved version of the activ
 
 - [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

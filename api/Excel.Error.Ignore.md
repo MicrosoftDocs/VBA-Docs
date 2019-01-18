@@ -56,4 +56,3 @@ End Sub
 
 [Error Object](Excel.Error.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

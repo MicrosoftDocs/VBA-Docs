@@ -46,4 +46,4 @@ Application.ActivePresentation.Slides(1) _
 
 [EffectParameters Object](PowerPoint.EffectParameters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

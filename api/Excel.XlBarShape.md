@@ -24,4 +24,3 @@ Specifies the shape used with the 3-D bar or column chart.
 | **xlPyramidToMax**|2|Pyramid, truncated at value.|
 | **xlPyramidToPoint**|1|Pyramid, coming to point at value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

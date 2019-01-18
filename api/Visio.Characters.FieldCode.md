@@ -37,4 +37,4 @@ Field codes correspond to the fields in the  **Field** list in the **Field** dia
 
 Constants for field codes are declared by the Microsoft Visio type library in  **[VisFieldCodes](Visio.visfieldcodes.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

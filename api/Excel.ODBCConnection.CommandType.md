@@ -52,4 +52,3 @@ End With
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,4 +59,3 @@ Close #1
 
 [PublishObjects Object](Excel.PublishObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

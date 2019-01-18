@@ -48,4 +48,3 @@ ActiveWorkbook.SlicerCaches("Slicer_Country"). _
 
 [SlicerCacheLevels Object](Excel.SlicerCacheLevels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

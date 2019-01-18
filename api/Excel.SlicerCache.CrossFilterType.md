@@ -43,4 +43,3 @@ The user interface settings that correspond to the setting of the  **CrossFilter
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

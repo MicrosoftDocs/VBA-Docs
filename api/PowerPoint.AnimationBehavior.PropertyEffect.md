@@ -71,4 +71,3 @@ End Sub
 
 [AnimationBehavior Object](PowerPoint.AnimationBehavior.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

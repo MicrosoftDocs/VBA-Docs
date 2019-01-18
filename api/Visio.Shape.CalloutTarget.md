@@ -45,4 +45,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 Set vsoShape = vsoCalloutShape.CalloutTarget
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

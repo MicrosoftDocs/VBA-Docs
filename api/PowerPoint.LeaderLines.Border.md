@@ -26,4 +26,3 @@ Returns the border of the object. Read-only  **[ChartBorder](PowerPoint.ChartBor
 
 [LeaderLines Object](PowerPoint.LeaderLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

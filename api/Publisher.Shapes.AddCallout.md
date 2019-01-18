@@ -68,4 +68,4 @@ Set shpCallout = ActiveDocument.Pages(1).Shapes.AddCallout _
  Width:=36, Height:=72)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns a  **Shape** object that represents the parent shape of the text frame.
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

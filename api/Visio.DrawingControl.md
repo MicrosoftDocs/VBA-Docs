@@ -36,4 +36,4 @@ Use the  **Window** property of the **DrawingControl** object to get the Visio *
 
 The  **DrawingControl** object has no default property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -41,5 +41,3 @@ This method is typically called by your COM add-in during a save operation.
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

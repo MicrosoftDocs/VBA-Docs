@@ -59,4 +59,3 @@ Set theWO = Application.WebOptions
 |[RelyOnVML](Publisher.WebOptions.RelyOnVML.md)|
 |[ShowOnlyWebFonts](Publisher.WebOptions.ShowOnlyWebFonts.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

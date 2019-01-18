@@ -72,4 +72,3 @@ End Sub
 
 [NoteItem Object](Outlook.NoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

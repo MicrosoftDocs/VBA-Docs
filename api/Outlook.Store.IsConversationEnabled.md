@@ -36,4 +36,3 @@ If a store supports conversations, calling the  **GetConversation** method of an
 
 [Store Object](Outlook.Store.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

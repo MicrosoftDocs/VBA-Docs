@@ -60,4 +60,3 @@ MsgBox "The insertion point is in section " & _
 
 - [Selection object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

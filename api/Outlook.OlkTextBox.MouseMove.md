@@ -45,4 +45,3 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

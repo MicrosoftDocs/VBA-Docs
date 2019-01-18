@@ -43,4 +43,4 @@ Using the  **SetTitleRowHeight** method without specifying any arguments sets th
 
 The  **SetTitleRowHeight** method applies only to sheet views. Project returns a trappable error (error code 1100) in a non-sheet view such as the **Network Diagram** or **Calendar** view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

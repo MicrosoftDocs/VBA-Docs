@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Pages](./Outlook.Pages.md) object.
 
 [Pages Object (Outlook)](Outlook.Pages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the name of the specified object. Read-only  **String**.
 
 [AutoCaption Object](Word.AutoCaption.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

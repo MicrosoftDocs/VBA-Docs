@@ -36,4 +36,3 @@ This property is always 0 for objects that do not have scroll bars. For these ob
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

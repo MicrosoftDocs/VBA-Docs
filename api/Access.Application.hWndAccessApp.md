@@ -43,4 +43,3 @@ To get the handle to a window containing a Microsoft Access object such as a For
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

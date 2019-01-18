@@ -63,4 +63,3 @@ Forms!Employees!EmployeeID.SetFocus
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-pr
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

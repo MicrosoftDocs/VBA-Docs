@@ -59,4 +59,3 @@ MsgBox mc.Address(ReferenceStyle:=xlR1C1, _
 
 - [Range object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

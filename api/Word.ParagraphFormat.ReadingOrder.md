@@ -45,4 +45,3 @@ ActiveDocument.Paragraphs(1).ReadingOrder = _
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Integer
 
 Valid command IDs are declared by the Visio type library in  **[VisUICmds](Visio.visuicmds.md)**. They have the prefix **visCmd**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

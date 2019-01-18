@@ -21,4 +21,3 @@ Specifies the priority of a SendMailer message.
 | **xlPriorityLow**|-4134|Low|
 | **xlPriorityNormal**|-4143|Normal|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

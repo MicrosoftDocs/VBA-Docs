@@ -99,4 +99,3 @@ End Sub
 |[ParagraphFormat](Publisher.TextStyle.ParagraphFormat.md)|
 |[Parent](Publisher.TextStyle.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

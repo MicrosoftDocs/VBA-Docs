@@ -29,4 +29,3 @@ Returns the font of the specified object. Read-only  **[ChartFont](Word.ChartFon
 
 [LegendEntry Object](Word.LegendEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

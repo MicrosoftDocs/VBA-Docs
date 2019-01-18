@@ -25,4 +25,4 @@ Gets the remaining overtime cost for the assignment. Read-only  **Variant**.
 
 For a code example that uses a  **Task** object, see **[RemainingOvertimeCost](Project.Task.RemainingOvertimeCost.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

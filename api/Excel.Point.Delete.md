@@ -39,4 +39,3 @@ Deleting a  **[Point](Excel.Point(object).md)** object deletes the entire series
 
 [Point Object](Excel.Point(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

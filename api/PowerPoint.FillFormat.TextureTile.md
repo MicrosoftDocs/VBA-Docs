@@ -48,4 +48,3 @@ The setting of the  **TextureTile** property corresponds to the setting of the *
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

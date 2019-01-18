@@ -28,4 +28,3 @@ A value that indicates which component (slides, handouts, notes pages, or an out
 |**ppPrintOutputThreeSlideHandouts**|3|Three Slide Handouts|
 |**ppPrintOutputTwoSlideHandouts**|2|Two Slide Handouts|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

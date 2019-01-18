@@ -45,4 +45,3 @@ The  **Activate** event occurs before the **GotFocus** event; the Deactivate eve
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

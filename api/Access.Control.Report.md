@@ -49,4 +49,3 @@ curTotalSales = Reports!Sales!Employees.Report!TotalSales
 
 [Control Object](Access.Control.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

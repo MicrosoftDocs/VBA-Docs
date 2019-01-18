@@ -34,4 +34,3 @@ If you manually right align a paragraph and the underlying style has a different
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

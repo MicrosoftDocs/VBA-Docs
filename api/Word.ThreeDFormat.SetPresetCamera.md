@@ -37,4 +37,3 @@ Sets the camera presets for a shape.
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

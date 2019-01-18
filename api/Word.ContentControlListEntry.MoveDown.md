@@ -54,4 +54,3 @@ End If
 
 [ContentControlListEntry Object](Word.ContentControlListEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

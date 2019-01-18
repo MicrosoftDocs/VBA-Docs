@@ -41,4 +41,3 @@ The value of this property can be set to one of the following  **MsoTriState** c
 
 [CalloutFormat Object](Excel.CalloutFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

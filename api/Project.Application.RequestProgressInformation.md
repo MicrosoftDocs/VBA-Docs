@@ -38,4 +38,4 @@ Requests progress information from resources, republishes, and saves the active 
 
 Using the  **RequestProgressInformation** method with no arguments displays the **Request Progress Information** dialog box. The **RequestProgressInformation** method is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -35,4 +35,4 @@ If a deliverable is out of synchronization with Project Server, there is a red e
 
 The  **TaskDeliverableSync** method is equivalent to the **Sync Deliverables** command in the **Deliverable** drop-down menu on the **TASK** ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

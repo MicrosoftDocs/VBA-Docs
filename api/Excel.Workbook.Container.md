@@ -34,4 +34,3 @@ This property provides a way to access the object model of the container applica
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

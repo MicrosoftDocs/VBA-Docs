@@ -43,4 +43,3 @@ Contains constants that specify the shape of a task bar on a Gantt chart.
 |**pjTriangleRight**|6|Triangle pointing right.|
 |**pjTriangleUp**|4|Circled triangle pointing up.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

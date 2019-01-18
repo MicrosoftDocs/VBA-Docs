@@ -28,4 +28,4 @@ Gets or sets the caption for a window. Read/write.
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

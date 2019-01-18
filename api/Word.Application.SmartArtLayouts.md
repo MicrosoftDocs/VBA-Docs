@@ -50,4 +50,3 @@ mySmartArt.Layout = Application.SmartArtLayouts(15)
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

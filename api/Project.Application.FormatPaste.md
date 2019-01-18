@@ -28,4 +28,4 @@ Pastes formats (copied with the  **FormatCopy** method) into the selected cells.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

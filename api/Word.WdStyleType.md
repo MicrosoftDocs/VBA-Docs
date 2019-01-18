@@ -22,4 +22,3 @@ Specifies the style type to apply.
 | **wdStyleTypeParagraph**|1|Paragraph style.|
 | **wdStyleTypeTable**|3|Table style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

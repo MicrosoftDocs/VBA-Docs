@@ -34,4 +34,3 @@ This property is only valid for recurrences of the  **olRecursMonthNth** and **o
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

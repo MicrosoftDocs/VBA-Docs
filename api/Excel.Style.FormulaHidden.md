@@ -34,4 +34,3 @@ Don't confuse this property with the  **[Hidden](Excel.Range.Hidden.md)** proper
 
 [Style Object](Excel.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

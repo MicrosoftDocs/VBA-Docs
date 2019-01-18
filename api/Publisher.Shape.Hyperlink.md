@@ -37,4 +37,4 @@ Set hypTemp = ActiveDocument.Pages(1).Shapes(1).Hyperlink
 hypTemp.Address = "https://www.tailspintoys.com/"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

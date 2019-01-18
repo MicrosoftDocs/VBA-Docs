@@ -61,4 +61,3 @@ End Function
 
 [ListObject Object](Excel.ListObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

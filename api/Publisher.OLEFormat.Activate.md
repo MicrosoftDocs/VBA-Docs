@@ -51,4 +51,4 @@ Set shpSheet = ActiveDocument.Pages(1).Shapes.AddOLEObject (Left:=72, Top:=72, C
 shpSheet.OLEFormat.Activate
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

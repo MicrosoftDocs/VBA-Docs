@@ -20,4 +20,3 @@ Specifies the type of edition to be changed.
 | **xlPublisher**|1|Publisher|
 | **xlSubscriber**|2|Subscriber|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

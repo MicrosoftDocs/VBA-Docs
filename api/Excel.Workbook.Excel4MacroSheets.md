@@ -45,4 +45,3 @@ MsgBox "There are " & ActiveWorkbook.Excel4MacroSheets.Count & _
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ Removes a  **Timeline** bar from the view. Introduced in Office 2016.
 
  **BOOLEAN**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

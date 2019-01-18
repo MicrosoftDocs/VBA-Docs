@@ -42,5 +42,3 @@ Use the  **ZOrderPosition** property to determine the current position of a shap
 [Shape Object](Project.shape.md)
 [MsoZOrderCmd](https://msdn.microsoft.com/library/office/ff861432%28v=office.15%29)
 [ZOrderPosition Property](Project.shaperange.zorderposition.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

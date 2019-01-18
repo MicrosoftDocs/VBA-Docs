@@ -23,4 +23,4 @@ Gets the GUID of the task for the assignment. Read-only  **String**.
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

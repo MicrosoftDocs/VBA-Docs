@@ -31,4 +31,4 @@ Returns the number of  **GraphicItem** objects in the **GraphicItems** collectio
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

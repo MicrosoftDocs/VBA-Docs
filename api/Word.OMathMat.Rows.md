@@ -29,4 +29,3 @@ Returns an  **[OMathMatRows](Word.OMathMatRows.md)** object that represents the 
 
 [OMathMat Object](Word.OMathMat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

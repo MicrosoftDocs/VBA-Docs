@@ -38,4 +38,3 @@ Returns an error if one or more elements in the array contains an empty string o
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

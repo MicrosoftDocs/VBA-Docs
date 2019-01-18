@@ -25,4 +25,4 @@ Not all user actions can be undone. If an action cannot be undone, the  **Undo**
 
 You must apply this method before the form or control is updated. You may want to include this method in a form's  **PropertyChange** event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

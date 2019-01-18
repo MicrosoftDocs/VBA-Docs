@@ -50,4 +50,3 @@ Set objSession = Application.Session
 
 [Accounts Object](Outlook.Accounts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

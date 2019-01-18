@@ -33,5 +33,3 @@ Gets a single  **Availability** object from the **Availabilities** collection. R
 
 
 [Availabilities Collection Object](Project.availabilities.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,3 @@ If you use the  **[Close](Outlook.RemoteItem.Close(method).md)** method to fire 
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

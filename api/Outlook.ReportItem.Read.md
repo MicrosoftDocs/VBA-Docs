@@ -31,4 +31,3 @@ The  **Read** event differs from the **[Open](Outlook.ReportItem.Open.md)** even
 
 [ReportItem Object](Outlook.ReportItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

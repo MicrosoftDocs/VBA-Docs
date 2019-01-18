@@ -26,4 +26,4 @@ Use the  **Walls** property to return the **Walls** object. The following exampl
 myChart.Walls.Interior.Pattern = xlGray75
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

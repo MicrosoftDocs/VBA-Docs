@@ -34,4 +34,3 @@ The  **DependencyObjects** collection returned by this property contains a colle
 
 [DependencyInfo Object](Access.DependencyInfo.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

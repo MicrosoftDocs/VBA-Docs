@@ -29,4 +29,3 @@ Returns name of the specified object. Read-only  **String**.
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

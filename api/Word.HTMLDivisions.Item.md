@@ -42,4 +42,3 @@ HTMLDivision
 
 [HTMLDivisions Collection](Word.HTMLDivisions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

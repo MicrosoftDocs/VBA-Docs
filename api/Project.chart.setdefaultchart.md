@@ -36,5 +36,3 @@ Specifies the name of the default chart template that Project uses when creating
 
 [Chart Object](Project.chart.md)
 [SaveChartTemplate Method](Project.chart.savecharttemplate.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

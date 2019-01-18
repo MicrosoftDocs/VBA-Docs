@@ -22,4 +22,3 @@ Use the table of contents in the left navigation to view the topics in this sect
 - [Getting started with VBA in Office](https://docs.microsoft.com/office/vba/library-reference/concepts/getting-started-with-vba-in-office): Provides insight into how VBA programming can help to customize Office solutions.
 - [What's new for VBA in Office 2016](https://docs.microsoft.com/office/vba/library-reference/concepts/what-s-new-for-vba-in-office-2016): Lists the new VBA language elements for Office 2016.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

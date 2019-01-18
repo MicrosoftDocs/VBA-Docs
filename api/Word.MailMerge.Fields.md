@@ -29,4 +29,3 @@ Returns a read-only  **MailMergeFields** collection that represents all the mail
 
 [MailMerge Object](Word.MailMerge.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

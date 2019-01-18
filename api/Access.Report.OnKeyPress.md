@@ -47,4 +47,3 @@ If the  **On Key Press** box is blank, the property value is an empty string.
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

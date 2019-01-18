@@ -29,4 +29,3 @@ Returns the name of the object. Read-only  **String**.
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

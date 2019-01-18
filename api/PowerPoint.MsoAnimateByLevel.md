@@ -46,4 +46,3 @@ Specifies for charts, diagrams, or text, the level to which the animation effect
 |**msoAnimateTextBySecondLevel**|3|Animate text by second level|
 |**msoAnimateTextByThirdLevel**|4|Animate text by third level|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

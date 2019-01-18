@@ -23,4 +23,3 @@ Contains constants that specify actions to perform on the resource pool.
 |**pjSharersTakePrecedence**|2|Causes the sharers to take precedence over the resource pool.|
 |**pjUnlinkSharer**|5|Unlinks the sharer from the resource pool.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

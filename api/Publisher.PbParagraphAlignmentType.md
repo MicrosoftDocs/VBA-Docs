@@ -34,4 +34,3 @@ localization_priority: Normal
 | **pbParagraphAlignmentMixed**|-9999999|Mixed alignment|
 | **pbParagraphAlignmentRight**|2|Right alignment|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

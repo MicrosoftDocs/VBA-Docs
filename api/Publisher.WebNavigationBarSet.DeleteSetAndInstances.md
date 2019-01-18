@@ -36,4 +36,4 @@ For Each objWebNavBarSet In ActiveDocument.WebNavigationBarSets
 Next objWebNavBarSet
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

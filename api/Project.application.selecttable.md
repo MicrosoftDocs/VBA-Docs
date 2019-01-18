@@ -43,5 +43,3 @@ If the active view is not a report, the  **SelectTable** method displays a dialo
 
 [ReportTable Object](Project.reporttable.md)
 [Shape.Table Property](Project.shape.table.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

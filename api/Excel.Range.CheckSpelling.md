@@ -54,4 +54,3 @@ To check only cells and notes, use this method with the object returned by the  
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

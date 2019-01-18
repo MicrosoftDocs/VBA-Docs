@@ -20,4 +20,4 @@ Returns an object that represents the parent object of the specified object. Rea
 
  _expression_ A variable that represents a  **BuildingBlocks** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

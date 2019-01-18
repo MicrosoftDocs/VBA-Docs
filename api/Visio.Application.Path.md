@@ -28,4 +28,4 @@ Returns the drive and folder path of the Microsoft Visio application. Read-only.
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

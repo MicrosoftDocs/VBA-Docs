@@ -34,4 +34,3 @@ String
 
 [TableStyle Object](PowerPoint.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method o
 
 [StorageItem Object](Outlook.StorageItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

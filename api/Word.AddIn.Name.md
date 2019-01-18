@@ -29,4 +29,3 @@ Returns the name of an add-in. Read-only  **String**.
 
 [AddIn Object](Word.AddIn.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

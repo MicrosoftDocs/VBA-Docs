@@ -138,5 +138,3 @@ For more information about working with fields in Project, see the  _Available f
 
 
 [Available fields reference](https://support.office.com/article/Available-fields-reference-615a4563-1cc3-40f4-b66f-1b17e793a460)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

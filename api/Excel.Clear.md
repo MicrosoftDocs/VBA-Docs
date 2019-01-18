@@ -44,4 +44,4 @@ This example clears the chart area (the chart data and formatting) of Chart1.
 myChart.ChartArea.Clear
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -26,5 +26,3 @@ Copies the shape range to the Clipboard.
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

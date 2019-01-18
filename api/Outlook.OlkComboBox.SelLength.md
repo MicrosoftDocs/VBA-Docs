@@ -40,4 +40,3 @@ Setting  **SelLength** to a value less than zero causes an error. Attempting to 
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

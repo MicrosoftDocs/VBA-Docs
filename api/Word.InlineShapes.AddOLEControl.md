@@ -47,4 +47,3 @@ For information about available ActiveX control class types, see [OLE Programmat
 
 [InlineShapes Collection Object](Word.inlineshapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

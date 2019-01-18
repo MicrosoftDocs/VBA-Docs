@@ -42,4 +42,3 @@ MediaBookmark
 
 [MediaBookmarks Object](PowerPoint.MediaBookmarks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

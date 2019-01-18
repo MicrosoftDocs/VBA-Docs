@@ -37,4 +37,3 @@ If  **DisplayAlignmentGuides** is **True**, alignment guides are enabled. Settin
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents an [IRTDUpdateEvent](Excel.IRTDUpdateEve
 
 [IRTDUpdateEvent Object](Excel.IRTDUpdateEvent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

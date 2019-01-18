@@ -29,4 +29,3 @@ Returns or sets the width, in points, of the specified text input field. Read/wr
 
 [TextInput Object](Word.TextInput.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

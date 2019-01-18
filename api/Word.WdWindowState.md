@@ -21,4 +21,3 @@ Specifies the state of the current document window or task window.
 | **wdWindowStateMinimize**|2|Minimized.|
 | **wdWindowStateNormal**|0|Normal.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

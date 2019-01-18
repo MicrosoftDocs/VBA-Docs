@@ -63,4 +63,3 @@ rngTemp.InsertAfter "Sequence Number: "
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

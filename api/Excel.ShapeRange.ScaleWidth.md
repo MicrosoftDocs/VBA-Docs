@@ -75,4 +75,3 @@ Next
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

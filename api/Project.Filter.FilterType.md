@@ -28,4 +28,4 @@ Gets the type of the filter. Read-only  **PjItemType**.
 
 The  **FilterType** property can be one of the following **[PjItemType](Project.PjItemType.md)** constants: **pjOtherItem**, **pjResourceItem**, or **pjTaskItem**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

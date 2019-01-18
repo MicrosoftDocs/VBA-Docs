@@ -36,4 +36,3 @@ This property applies only to a recipient of a meeting request. If the recipient
 
 [Recipient Object](Outlook.Recipient.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

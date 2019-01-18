@@ -44,4 +44,3 @@ Allowable values to pass for the  _ReplaceFlags_ parameter include either **visR
 
 [Shape Object](Visio.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

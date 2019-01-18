@@ -39,4 +39,3 @@ Because a group of shapes is treated as a single object, grouping and ungrouping
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

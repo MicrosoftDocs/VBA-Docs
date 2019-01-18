@@ -25,4 +25,4 @@ Displays a message box in the user interface that lists the output format types 
 
  **Nothing**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

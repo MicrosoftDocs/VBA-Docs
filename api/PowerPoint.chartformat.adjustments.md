@@ -23,4 +23,4 @@ _expression_ A variable that represents a [ChartFormat](./PowerPoint.ChartFormat
 
  **ADJUSTMENTS**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,3 @@ If the  **Column** is a default column in the **[Table](Outlook.Table.md)** , or
 
 [Column Object](Outlook.Column.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

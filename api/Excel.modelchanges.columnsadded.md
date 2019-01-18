@@ -33,4 +33,3 @@ _expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) 
 
 [ModelChanges Object](Excel.modelchanges.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

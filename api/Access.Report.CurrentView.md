@@ -45,4 +45,3 @@ Use this property to perform different tasks depending on the current view. For 
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

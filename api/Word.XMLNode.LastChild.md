@@ -41,4 +41,3 @@ Set objNode = ActiveDocument.XMLNodes(2).LastChild
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,5 +59,3 @@ To refer to a  **TempVar** object in a collection by its ordinal number or by it
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [TempVars Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

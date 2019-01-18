@@ -47,4 +47,3 @@ The inverse hyperbolic tangent is the value whose hyperbolic tangent is  _Arg1_ 
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

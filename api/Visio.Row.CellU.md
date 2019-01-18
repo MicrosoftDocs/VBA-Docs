@@ -48,4 +48,4 @@ The first cell in a row has an index of zero (0).
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Cell** property to get a **Cell** object by using its local name. Use the **CellU** property to get a **Cell** object by using its universal name.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

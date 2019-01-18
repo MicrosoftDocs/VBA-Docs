@@ -21,4 +21,3 @@ Specifies how shapes are displayed.
 | **xlHide**|3|Hide all shapes.|
 | **xlPlaceholders**|2|Show only placeholders.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

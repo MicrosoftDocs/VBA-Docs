@@ -26,4 +26,3 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

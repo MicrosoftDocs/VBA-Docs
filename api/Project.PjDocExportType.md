@@ -20,4 +20,3 @@ Contains constants that specify the type of document export.
 |**pjPDF**|0|Export to a PDF document.|
 |**pjXPS**|1|Export to an XPS document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

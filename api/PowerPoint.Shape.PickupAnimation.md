@@ -29,4 +29,3 @@ Picks up all animation from the  **Shape** object.
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

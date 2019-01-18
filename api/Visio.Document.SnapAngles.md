@@ -33,4 +33,4 @@ Double()
 
 The value of the  **SnapAngles** property is equivalent to the value in the **Isometric angles (degs)** box on the **Advanced** tab of the **Snap & Glue** dialog box (click the **Visual Aids** arrow on the **View** tab).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

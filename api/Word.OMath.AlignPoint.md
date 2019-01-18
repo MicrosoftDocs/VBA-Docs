@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the character position of the alignm
 
 [OMath Object](Word.OMath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

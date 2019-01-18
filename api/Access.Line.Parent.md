@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Line](Access.Line.md) object.
 
 [Line Object](Access.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

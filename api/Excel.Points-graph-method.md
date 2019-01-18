@@ -31,4 +31,4 @@ This example applies a data label to point one in series one.
 myChart.SeriesCollection(1).Points(1).ApplyDataLabels
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

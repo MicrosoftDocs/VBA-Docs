@@ -35,5 +35,3 @@ Applying the  **Default** method to a base calendar resets the properties to the
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

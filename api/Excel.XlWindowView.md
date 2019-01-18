@@ -21,4 +21,3 @@ Specifies the view showing in the window.
 | **xlPageBreakPreview**|2|Page break preview.|
 | **xlPageLayoutView**|3|Page layout view.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

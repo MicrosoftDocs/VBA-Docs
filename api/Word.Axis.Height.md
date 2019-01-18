@@ -29,4 +29,3 @@ Returns the height, in points, of the object. Read-only  **Double**.
 
 [Axis Object](Word.Axis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

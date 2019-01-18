@@ -35,4 +35,3 @@ Specifies the type of item to move the insertion point or selection just prior t
 | **wdGoToSpellingError**|13|A spelling error.|
 | **wdGoToTable**|2|A table.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,3 @@ In Datasheet View or Print Preview, changes made using the  **Move** method are 
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,4 +38,4 @@ This example clears the list of actions that can be undone for the active public
 ActiveDocument.UndoClear
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

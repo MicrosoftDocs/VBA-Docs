@@ -65,4 +65,3 @@ When you maximize a window in Microsoft Access, all other windows are also maxim
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

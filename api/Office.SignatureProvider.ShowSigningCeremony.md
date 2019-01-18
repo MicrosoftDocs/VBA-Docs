@@ -79,4 +79,3 @@ The following example, written in C#, shows the implementation of the  **ShowSig
 
 [SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

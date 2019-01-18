@@ -40,4 +40,4 @@ An object's  **AddOnName** property indicates the name of the add-on to which th
 
  Beginning with Visio 2002, the **AddOnName** property used in the following example cannot execute a string that contains arbitrary Microsoft Visual Basic code. To call code that in previous versions of Visio you would have passed to the **AddOnName** property, move it to a procedure in a document's Visual Basic project that is called from the **AddOnName** property, as shown in the following example.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

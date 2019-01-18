@@ -26,4 +26,3 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

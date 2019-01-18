@@ -55,4 +55,3 @@ Depending on the value chosen, the following properties are set to the specified
 | **olMarkToday**| **IsMarkedAsTask** is set to **True**. **TaskSubject** is set to the value of the **Subject** property for the Outlook item. **TaskStartDate** and **TaskDueDate** are set to the current date. **TaskCompletedDate** is set to the empty date value (#1/1/4501#). **ToDoTaskOrdinal** is set to the current date and time (**Now** in Visual Basic).|
 | **olMarkTomorrow**| **IsMarkedAsTask** is set to **True**. **TaskSubject** is set to the value of the **Subject** property for the Outlook item. **TaskStartDate** and **TaskDueDate** are set to one day after the current date. **TaskCompletedDate** is set to the empty date value (#1/1/4501#). **ToDoTaskOrdinal** is set to the current date and time (**Now** in Visual Basic).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

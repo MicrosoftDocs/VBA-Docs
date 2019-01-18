@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WebService](Access.WebService.md) obj
 
 [WebService Object](Access.WebService.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

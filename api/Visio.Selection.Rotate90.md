@@ -28,4 +28,4 @@ Rotates an object 90 degrees counterclockwise.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,3 @@ When an  **Application** object is created by using Automation, the **Visible** 
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

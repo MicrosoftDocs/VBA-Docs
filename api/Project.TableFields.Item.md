@@ -33,5 +33,3 @@ Gets a single  **TableField** object from the **TableFields** collection. Read-o
 
 
 [TableFields Collection Object](Project.tablefields.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

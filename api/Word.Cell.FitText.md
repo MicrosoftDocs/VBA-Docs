@@ -44,4 +44,3 @@ Selection.Cells(1).FitText = True
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

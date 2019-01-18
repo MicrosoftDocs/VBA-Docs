@@ -38,4 +38,3 @@ If the  **ContactItem** object is created in a version of Microsoft Outlook earl
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

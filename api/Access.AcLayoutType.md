@@ -25,4 +25,3 @@ Specifies the type of layout that the control is part of.
 |**acLayoutStacked**|2|The control is part of a stacked layout.|
 |**acLayoutTabular**|1|The control is part of a tabular layout.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

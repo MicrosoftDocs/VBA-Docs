@@ -59,4 +59,3 @@ MsgBox ExecuteExcel4Macro("GET.CELL(42)")
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

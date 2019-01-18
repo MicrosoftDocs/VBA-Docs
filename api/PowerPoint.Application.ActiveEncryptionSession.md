@@ -42,4 +42,3 @@ The encryption provider mechanism manages each file on a separate process, so ea
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

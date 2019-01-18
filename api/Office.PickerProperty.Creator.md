@@ -30,4 +30,3 @@ _expression_. `Creator`
 
 [PickerProperty Object Members](./overview/Library-Reference/pickerproperty-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ The  **InsertTask** method corresponds to the **Insert Task** command on the rig
 
 By comparison, the  **[InsertBlankRow](Project.Application.InsertBlankRow.md)** method creates a blank row, where additional task information can be added programmatically. To create a manually scheduled task where the default mode is automatic, use the **[InsertManualTask](Project.Application.InsertManualTask.md)** method. To create an automatically scheduled task where the default mode is manual, use the **[InsertScheduledTask](Project.Application.InsertScheduledTask.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

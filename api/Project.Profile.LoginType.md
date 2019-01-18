@@ -35,4 +35,4 @@ If the second account profile is a Project Server account, the following stateme
 Debug.Print Profiles(2).LoginType
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

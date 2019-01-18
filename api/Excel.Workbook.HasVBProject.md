@@ -34,4 +34,3 @@ This property is most useful in programmatically determining whether a workbook 
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

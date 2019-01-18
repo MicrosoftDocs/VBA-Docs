@@ -34,4 +34,3 @@ This property corresponds to the  **Allow opening a document in draft view** che
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

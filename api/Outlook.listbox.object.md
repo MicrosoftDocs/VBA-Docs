@@ -21,5 +21,5 @@ localization_priority: Normal
 -  [ListBox Methods (Outlook Forms Script)](Outlook.listbox(methods).md)
     
 -  [ListBox Events (Outlook Forms Script)](Outlook.listbox(events).md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

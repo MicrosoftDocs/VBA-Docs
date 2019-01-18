@@ -39,4 +39,3 @@ The property name is passed to the event so that you can determine which propert
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,5 +33,3 @@ Gets a single  **Resource** object from the **CalendarDrivers** collection. Read
 
 
 [CalendarDrivers Collection Object](Project.calendardrivers.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

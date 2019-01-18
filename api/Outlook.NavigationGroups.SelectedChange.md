@@ -42,4 +42,3 @@ This event occurs when the selection state changes for a folder in the  **Calend
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

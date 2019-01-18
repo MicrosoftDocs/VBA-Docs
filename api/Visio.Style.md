@@ -27,4 +27,4 @@ Any  **Shape** object to which a style is applied inherits the attributes define
 
 Like a  **Shape** object, a **Style** object has cells whose formulas define the values of the style's attributes. To retrieve one of these cells, use the **Cells** or **CellsSRC** property of the **Style** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

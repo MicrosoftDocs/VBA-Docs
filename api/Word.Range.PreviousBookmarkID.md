@@ -45,4 +45,3 @@ If num <> 0 Then MsgBox ActiveDocument.Content.Bookmarks(num).Name
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

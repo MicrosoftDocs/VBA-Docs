@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [Properties Collection](Access.Properties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ The following code shows how to turn off visiblity of markup overlays in Visio V
 vsoViewer.MarkupOverlaysVisble = False
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

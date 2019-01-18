@@ -42,4 +42,4 @@ Activates the drawing feature.
 
 The  **DrawingCreate** method requires user interaction before additional code can be executed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

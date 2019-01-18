@@ -21,4 +21,3 @@ Specifies whether the OLAP field is a hierarchy, set, or measure field.
 | **xlMeasure**|2|OLAP field is a measure.|
 | **xlSet**|3|OLAP field is a set.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

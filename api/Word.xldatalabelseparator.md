@@ -17,4 +17,3 @@ Specifies the separator used with data labels.
 |:-----|:-----|:-----|
 | **xlDataLabelSeparatorDefault**|1|Word selects the separator.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

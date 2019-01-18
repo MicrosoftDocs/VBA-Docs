@@ -42,4 +42,3 @@ ColorScheme
 
 [ColorSchemes Object](PowerPoint.ColorSchemes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The  **LayoutID** property returns 0 (zero) if the specified control is not part
 
 [Control Object](Access.Control.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

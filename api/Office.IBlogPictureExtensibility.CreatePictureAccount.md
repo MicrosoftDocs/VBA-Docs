@@ -39,4 +39,3 @@ _expression_ An expression that returns an **[IBlogPictureExtensibility](Office.
 
 - [IBlogPictureExtensibility object members](overview/Library-Reference/iblogpictureextensibility-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

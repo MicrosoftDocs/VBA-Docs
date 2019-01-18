@@ -34,4 +34,3 @@ If a paragraph has a heading style applied to it (Heading 1 through Heading 9), 
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

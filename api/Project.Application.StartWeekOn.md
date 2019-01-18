@@ -25,4 +25,4 @@ Gets or sets the first day of the week for new projects. Read/write  **PjWeekday
 
 The  **StartWeekOn** property can be one of the **[PjWeekday](Project.PjWeekday.md)** constants. The **Project Options** dialog box displays the value in the **Week starts on** drop-down list on the **Schedule** tab.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

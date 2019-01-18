@@ -76,4 +76,3 @@ Specifies theme color constants that are passed to and returned by the  **[Page.
 | **visThemeColorsThatch**|55|Thatch|
 | **visThemeColorsWaveform**|56|Waveform|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

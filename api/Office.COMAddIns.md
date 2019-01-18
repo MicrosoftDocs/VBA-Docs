@@ -44,5 +44,3 @@ MsgBox Application.COMAddIns.Item("msodraa9.ShapeSelect").Description
 
 - [COMAddIns object members](overview/Library-Reference/comaddins-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

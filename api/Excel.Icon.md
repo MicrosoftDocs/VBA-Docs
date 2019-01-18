@@ -28,4 +28,3 @@ The  **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** prop
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

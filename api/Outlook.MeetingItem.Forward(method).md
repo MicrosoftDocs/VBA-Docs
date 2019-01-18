@@ -34,4 +34,3 @@ A  **MeetingItem** object that represents the new meeting item.
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

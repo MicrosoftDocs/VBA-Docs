@@ -48,4 +48,3 @@ When created, controls have an attached label (as long as their  **AutoLabel** p
 
 [OptionButton Object](Access.OptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,4 +55,3 @@ myDocument.Shapes(1).ThreeD.IncrementRotationX 10
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

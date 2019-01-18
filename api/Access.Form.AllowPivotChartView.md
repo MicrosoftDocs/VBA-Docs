@@ -46,4 +46,3 @@ DoCmd.OpenForm FormName:=Forms(0).Name, View:=acFormPivotChart
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

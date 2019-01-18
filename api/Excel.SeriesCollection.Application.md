@@ -44,4 +44,3 @@ End If
 
 [SeriesCollection Object](./Excel.SeriesCollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies whether a shape should be flipped horizontally or vertically.
 |**msoFlipHorizontal**|0|Flip horizontally.|
 |**msoFlipVertical**|1|Flip vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

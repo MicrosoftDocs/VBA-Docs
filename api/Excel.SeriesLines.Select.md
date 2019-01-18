@@ -34,4 +34,3 @@ Variant
 
 [SeriesLines Object](Excel.SeriesLines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

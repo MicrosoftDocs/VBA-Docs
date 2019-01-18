@@ -26,4 +26,3 @@ Specifies the horizontal alignment for the object.
 | **xlHAlignLeft**|-4131|Left.|
 | **xlHAlignRight**|-4152|Right.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ The  **Path** object is conceptually of zero width. Line weights, patterns, and 
 
 If you retrieve a  **Path** object from a collection obtained by the **Paths** property of a shape, its coordinates are expressed in the shape's parent coordinate system. If you retrieve a **Path** object from a collection obtained by the **PathsLocal** property of a shape, its coordinates are expressed in the shape's local coordinate system. In both cases, coordinates are expressed in internal drawing units (inches).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

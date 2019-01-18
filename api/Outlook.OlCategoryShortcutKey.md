@@ -33,4 +33,3 @@ Identifies the shortcut key specified for the  **[ShortcutKey](Outlook.Category.
 | **olCategoryShortcutKeyCtrlF9**|9| **CTRL+F9**|
 | **olCategoryShortcutKeyNone**|0|No shortcut key specified.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

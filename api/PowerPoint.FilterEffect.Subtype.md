@@ -68,4 +68,3 @@ End Sub
 
 [FilterEffect Object](PowerPoint.FilterEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Not all properties of the  **Font** object are supported for a conditional forma
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

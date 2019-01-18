@@ -25,4 +25,3 @@ Specifies the category labels for the category label levels.
 | **xlCategoryLabelLevelCustom**| **-2**||
 | **xlCategoryLabelLevelNone**| **-3**||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

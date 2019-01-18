@@ -44,4 +44,4 @@ You can wrap text around  **Shape** or **ShapeRange** objects by using the **Wra
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

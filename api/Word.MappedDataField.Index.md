@@ -29,4 +29,3 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 [MappedDataField Object](Word.MappedDataField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

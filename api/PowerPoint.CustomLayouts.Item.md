@@ -42,4 +42,3 @@ CustomLayout
 
 [CustomLayouts Object](PowerPoint.CustomLayouts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

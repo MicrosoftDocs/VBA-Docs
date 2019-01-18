@@ -25,4 +25,3 @@ Shape-replacement flags sent to the [Shape.ReplaceShape](Visio.shape.replaceshap
 | **visReplaceShapeLockShapeData**| **4**|Override the behavior specified by the ReplaceLockShapeData cell in the Change Shape Behavior section: behave as if ReplaceLockShapeData = 1.|
 | **visReplaceShapeLockText**| **2**|Override the behavior specified by the ReplaceLockText cell in the Change Shape Behavior section: behave as if ReplaceLockText = 1.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

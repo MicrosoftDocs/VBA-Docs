@@ -43,4 +43,3 @@ In order for  **SaveFormRegion** to save the form region, the form region must h
 
 [Inspector Object](Outlook.Inspector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that rep
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

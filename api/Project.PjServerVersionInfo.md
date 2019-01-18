@@ -26,4 +26,3 @@ Contains constants that specify how to format data from Project Server versions.
 |**pjServerVersionInfo_P12**|1200|Format information from Office Project 2007.|
 |**pjServerVersionInfo_P14**|1400|Format information from Project.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

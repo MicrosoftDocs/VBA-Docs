@@ -34,4 +34,3 @@ This property can be  **True** , **False** , or **wdUndefined**.
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

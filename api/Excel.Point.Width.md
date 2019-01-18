@@ -34,4 +34,3 @@ Double
 
 [Point Object](Excel.Point(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' 
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

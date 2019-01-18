@@ -25,4 +25,3 @@ Constants passed to the [Workbook.CreateForecastSheet Method](Excel.workbook.cre
 
 [Workbook.CreateForecastSheet Method](Excel.workbook.createforecastsheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

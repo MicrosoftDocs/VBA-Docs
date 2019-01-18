@@ -51,4 +51,3 @@ MsgBox "Print_Area: " & UBound(p, 1) & " rows, " & _
 
 [Name Object](Excel.Name.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

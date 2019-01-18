@@ -34,4 +34,4 @@ End With
 
 If the  **[HasSeriesLines](Excel.HasSeriesLines.md)** property is  **False**, most properties of the  **SeriesLines** object are disabled.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

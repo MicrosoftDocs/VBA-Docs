@@ -30,5 +30,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [CalendarDrivers Collection Object](Project.calendardrivers.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

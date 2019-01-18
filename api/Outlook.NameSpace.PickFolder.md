@@ -39,4 +39,3 @@ The  **Pick Folder** dialog box is a modal dialog box which means that code exec
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

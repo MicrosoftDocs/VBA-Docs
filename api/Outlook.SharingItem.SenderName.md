@@ -36,4 +36,3 @@ If you wish to retrieve the fully qualified email address of the sender, use the
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

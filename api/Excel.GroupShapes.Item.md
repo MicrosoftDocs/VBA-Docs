@@ -53,4 +53,3 @@ sr.Item(2).OnAction = "ShapeAction"
 
 [GroupShapes Object](Excel.GroupShapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

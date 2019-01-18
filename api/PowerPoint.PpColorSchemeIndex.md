@@ -28,4 +28,3 @@ Specifies the color in the applied color scheme that is associated with the spec
 |**ppShadow**|3|Shadow|
 |**ppTitle**|4|Title|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

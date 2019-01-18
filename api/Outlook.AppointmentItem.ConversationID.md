@@ -38,4 +38,3 @@ If the  **AppointmentItem** object is created in a version of Microsoft Outlook 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

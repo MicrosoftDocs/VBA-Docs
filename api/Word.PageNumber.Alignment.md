@@ -29,4 +29,3 @@ Returns or sets a  **WdPageNumberAlignment** constant that represents the alignm
 
 [PageNumber Object](Word.PageNumber.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

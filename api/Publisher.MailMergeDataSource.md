@@ -93,4 +93,3 @@ End Sub
 |[Type](Publisher.MailMergeDataSource.Type.md)|
 |[ValidatedClean](Publisher.MailMergeDataSource.ValidatedClean.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

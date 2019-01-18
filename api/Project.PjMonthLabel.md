@@ -33,4 +33,3 @@ Contains constants that specify the display format for months in a timescale. Th
 |**pjMonthLabelMonthFromStart_Month_mm**|44|Examples: Month1, Month2 (months from start date of project)|
 |**pjMonthLabelNoDateFormat**|35|No date is displayed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

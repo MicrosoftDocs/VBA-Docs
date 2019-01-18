@@ -150,4 +150,3 @@ Specifies a built-in Microsoft Word style.
 | **wdStyleTOC8**|-27|TOC 8.|
 | **wdStyleTOC9**|-28|TOC 9.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

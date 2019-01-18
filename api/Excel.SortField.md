@@ -53,5 +53,3 @@ Developers can use the  **BeforeSort** event to override Excel's default behavio
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

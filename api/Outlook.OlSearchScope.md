@@ -32,4 +32,4 @@ You can select stores to search in the  **Locations to Search** menu by clicking
 
 By default, search does not include the Deleted Items folder. To search the Deleted Items folder, set that folder as your current folder and search by  **olSearchScopeCurrentFolder**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

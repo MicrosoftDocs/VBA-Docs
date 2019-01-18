@@ -29,4 +29,3 @@ Deletes the specified mail merge field.
 
 [MailMergeField Object](Word.MailMergeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,3 @@ If an [BinsOverflowEnabled](./Excel.chartgroup.binsoverflowenabled.md) is **True
 
 [ChartGroup Object](Word.ChartGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

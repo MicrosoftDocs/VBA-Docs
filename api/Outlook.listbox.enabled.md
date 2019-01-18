@@ -40,4 +40,4 @@ The  **Enabled** and **[Locked](Outlook.listbox.locked.md)** properties work tog
 
 Clicking a disabled  **[ListBox](Outlook.listbox.md)** does not initiate the **[Click](Outlook.listbox.click.md)** event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

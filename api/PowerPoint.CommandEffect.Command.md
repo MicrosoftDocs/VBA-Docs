@@ -63,4 +63,3 @@ The following example shows how to set a command effect animation behavior.
 
 [CommandEffect Object](PowerPoint.CommandEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

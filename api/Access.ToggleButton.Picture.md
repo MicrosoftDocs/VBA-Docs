@@ -44,4 +44,3 @@ To create a command button or toggle button with a caption and a picture, you co
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -89,4 +89,3 @@ When the  _SelType_ argument is **visSelTypeByType** , possible _Data_ values sh
 | **visTypeSelOLE**|64|A shape that is linked, embedded, or a control.|
 | **visTypeSelShape**|2|A native Visio shape.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

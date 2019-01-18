@@ -25,4 +25,3 @@ Specifies the alignment of controls in the horizontal direction.
 | **olHorizontalLayoutAlignLeft**|0|Align controls horizontally by the left edge of each control.|
 | **olHorizontalLayoutAlignRight**|2|Align controls horizontally by the right edge of each control.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ End If
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

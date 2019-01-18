@@ -63,4 +63,3 @@ End If
 
 [Indexes Collection Object](Word.indexes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ If  **PageSizingBehavior** is set to **visResizePages** , when a new document is
 
 If  **PageSizingBehavior** is set to the default, **visNeverResizePages** , when a new document is loaded into the Visio Drawing Control, the pages of that document (and the shapes on the page) retain their existing size. In this case, the size of the control in the container application has no relation to the size of the pages it displays; it is simply an open "window" onto the page or pages.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

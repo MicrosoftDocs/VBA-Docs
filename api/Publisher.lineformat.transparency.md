@@ -37,4 +37,3 @@ The value of this property can be expressed as a value between 0.0 (opaque) and 
 
  [LineFormat Object](Publisher.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,4 +58,3 @@ End Sub
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ The  **FILTERXML** function returns results that are parsed via the user specifi
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

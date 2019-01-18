@@ -49,4 +49,4 @@ The following example sets Microsoft Publisher to email publication pages as JPE
 Application.WebOptions.EmailAsImg = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

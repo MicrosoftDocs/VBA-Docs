@@ -37,4 +37,3 @@ You can use this property only with repeating section content controls. Using it
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

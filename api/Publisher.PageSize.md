@@ -59,4 +59,3 @@ End Sub
 |[TopMargin](./Publisher.PageSize.TopMargin.md)|
 |[VerticalGap](./Publisher.PageSize.VerticalGap.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

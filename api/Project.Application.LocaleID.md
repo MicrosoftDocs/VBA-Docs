@@ -25,4 +25,4 @@ Returns the locale ID of the currently installed version of Project. .
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

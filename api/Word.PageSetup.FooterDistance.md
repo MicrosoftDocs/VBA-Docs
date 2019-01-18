@@ -48,4 +48,3 @@ Selection.Range.PageSetup.FooterDistance = 72
 
 [PageSetup Object](Word.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

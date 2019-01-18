@@ -48,4 +48,3 @@ The  **PivotTableAfterValueChange** event does not occur under any conditions ot
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

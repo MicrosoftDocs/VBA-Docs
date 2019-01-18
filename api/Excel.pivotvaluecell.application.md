@@ -48,4 +48,3 @@ End If
 
 [PivotValueCell Object](Excel.pivotvaluecell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

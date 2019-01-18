@@ -47,4 +47,3 @@ Worksheets(1).PivotTables(1).PivotItems("Year").Add "1998"
 
 [PivotItems Object](Excel.PivotItems.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

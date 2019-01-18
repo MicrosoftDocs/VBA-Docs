@@ -36,4 +36,3 @@ If  **True** , the specified item is in conflict.
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

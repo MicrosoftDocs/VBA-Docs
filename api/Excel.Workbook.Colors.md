@@ -56,4 +56,3 @@ ActiveWorkbook.Colors(5) = RGB(255, 0, 0)
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

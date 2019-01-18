@@ -47,4 +47,3 @@ If the  _Template_ argument specifies a file, the file name can include a path.
 
 [Workbooks Object](Excel.Workbooks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

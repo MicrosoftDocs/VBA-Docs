@@ -56,4 +56,3 @@ Indicates various image warping formats.
 |**msoWarpFormat9**|8|Specifies Warp Format 9.|
 |**msoWarpFormatMixed**|-2|Specifies a mix of warp formats.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

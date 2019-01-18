@@ -46,4 +46,4 @@ For Each pageLoop In ActiveDocument.Pages
 Next pageLoop
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

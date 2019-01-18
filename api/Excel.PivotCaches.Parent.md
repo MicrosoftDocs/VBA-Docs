@@ -29,4 +29,3 @@ _expression_ A variable that represents a [PivotCaches](Excel.PivotCaches.md) ob
 
 [PivotCaches Object](Excel.PivotCaches.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

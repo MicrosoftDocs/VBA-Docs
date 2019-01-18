@@ -178,5 +178,3 @@ Set myItem = Application.CreateItem(olTaskItem)
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [TaskItem Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

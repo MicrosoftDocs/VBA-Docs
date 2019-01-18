@@ -46,4 +46,3 @@ Workbooks(1).WebOptions.UseDefaultFolderSuffix
 
 [WebOptions Object](Excel.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

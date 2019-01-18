@@ -106,6 +106,5 @@ This section contains documentation for the enumerations in the Access object mo
 - [OldConstants](Access.oldconstants.md) (Legacy constants)
 - [Intrinsic constants as bit masks](../access/concepts/miscellaneous/intrinsic-constants-as-bit-masks.md)
 - [Microsoft Access constants overview](../access/concepts/miscellaneous/microsoft-access-constantsoverview.md)
-- [Constants enumeration (Access)](../access/concepts/miscellaneous/constants-enumeration-access.md)
+- [Constants enumeration (Access)](../access/concepts/miscellaneous/constants-enumeration-access.md) 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

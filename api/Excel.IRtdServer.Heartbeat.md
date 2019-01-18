@@ -39,4 +39,3 @@ The  **Heartbeat** method is called by Microsoft Excel if the **[HeartbeatInterv
 
 [IRtdServer Object](Excel.IRtdServer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

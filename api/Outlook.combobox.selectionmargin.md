@@ -30,4 +30,4 @@ When the  **SelectionMargin** property is **True**, the selection margin occupie
 
 If the  **SelectionMargin** property is set to **True** when a control is printed, the selection margin also prints.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

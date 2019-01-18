@@ -28,4 +28,3 @@ Use the  **OMathPhantom** object to display the spacing of part of an equation w
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies the format to use when subscribing to a published edition.
 | **xlSubscribeToPicture**|-4147|Picture|
 | **xlSubscribeToText**|-4158|Text|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

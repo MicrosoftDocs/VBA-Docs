@@ -43,4 +43,4 @@ Using the  **LevelingClear** method without specifying any arguments displays th
 
 The  **LevelingClear** method has no effect if a task has a priority of 1000 (do not level).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

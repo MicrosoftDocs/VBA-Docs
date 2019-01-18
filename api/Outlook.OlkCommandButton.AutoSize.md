@@ -36,4 +36,3 @@ For a button control, this property specifies whether the control automatically 
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

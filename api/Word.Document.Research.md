@@ -29,4 +29,3 @@ Returns a  **Research** object that represents the research service for a docume
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

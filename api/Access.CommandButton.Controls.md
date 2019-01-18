@@ -41,4 +41,3 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

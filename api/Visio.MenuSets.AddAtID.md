@@ -46,4 +46,4 @@ The ID corresponds to a window or context menu. If the collection already contai
 
 Valid IDs are declared by the Visio type library in member  **[VisUIObjSets](Visio.visuiobjsets.md)**. Not all collections include an object for every possible ID.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

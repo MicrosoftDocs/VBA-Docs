@@ -34,4 +34,3 @@ This property corresponds to the setting of the  **Show the Values** row check b
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

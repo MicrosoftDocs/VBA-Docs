@@ -21,4 +21,3 @@ Specifies the mode for checking the spelling of Portuguese.
 | **xlPortuguesePostReform**|2|The spelling checker recognizes only post-reform spellings.|
 | **xlPortuguesePreReform**|1|The spelling checker recognizes only pre-reform spellings.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

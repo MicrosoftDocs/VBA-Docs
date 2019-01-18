@@ -22,4 +22,3 @@ Specifies the width of the arrowhead at the end of a line.
 |**msoArrowheadWidthMedium**|2|Medium.|
 |**msoArrowheadWidthMixed**|-2|Return value only; indicates a combination of the other states. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ ActiveWindow.DisplayOutline = True
 
 [Window Object](Excel.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

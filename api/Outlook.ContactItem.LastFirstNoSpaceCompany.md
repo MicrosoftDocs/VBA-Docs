@@ -34,4 +34,3 @@ The company name for the contact is included after the middle name. This propert
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

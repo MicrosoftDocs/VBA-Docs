@@ -63,5 +63,3 @@ End Sub
 ## See also
 
 - [IRibbonUI object members](overview/library-reference/iribbonui-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

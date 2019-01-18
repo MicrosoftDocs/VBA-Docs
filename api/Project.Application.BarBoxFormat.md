@@ -33,4 +33,4 @@ Displays the  **Format Bar** dialog box (if the Gantt Chart, Resource Graph, or 
 
 The  **BarBoxFormat** method has the same effect as selecting **Bar** (Gantt Chart, Resource Graph, and Calendar views) or **Box** (Network Diagram) on the **Format** menu.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

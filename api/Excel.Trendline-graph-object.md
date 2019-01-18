@@ -28,4 +28,4 @@ myChart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg
 
 The index number denotes the order in which the trendlines are added to the series.  `Trendlines(1)` is the first trendline added to the series, and is the first trendline added to the series, and `Trendlines(Trendlines.Count)` is the last one added.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

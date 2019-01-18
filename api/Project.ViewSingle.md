@@ -42,4 +42,3 @@ Represents a single-pane view in Project. The  **ViewSingle** object is a member
 |[Table](./Project.ViewSingle.Table.md)|
 |[Type](./Project.ViewSingle.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

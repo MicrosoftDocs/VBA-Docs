@@ -33,4 +33,3 @@ If the container application doesn't define a value for one of the built-in docu
 
 - [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

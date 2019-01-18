@@ -26,4 +26,4 @@ This example sets the 3-D pie group to use a different color for each data marke
 myChart.Pie3DGroup.VaryByCategories = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

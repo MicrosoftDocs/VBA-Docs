@@ -52,4 +52,3 @@ MsgBox Worksheets(1).PivotTables(1).PivotFormulas.Item(1).Formula
 
 [PivotFormulas Object](Excel.PivotFormulas.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

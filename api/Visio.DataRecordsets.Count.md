@@ -31,4 +31,4 @@ Returns the number of  **DataRecordset** objects in the **DataRecordsets** colle
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -38,4 +38,3 @@ For data access pages and for forms based on views or non-parameterized SQL quer
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

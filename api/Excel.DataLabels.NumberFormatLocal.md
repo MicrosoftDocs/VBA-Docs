@@ -34,4 +34,3 @@ The  **Format** function uses different format code strings than do the **[Numbe
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

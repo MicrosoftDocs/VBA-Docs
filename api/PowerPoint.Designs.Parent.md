@@ -52,4 +52,3 @@ End With
 
 [Designs Object](PowerPoint.Designs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

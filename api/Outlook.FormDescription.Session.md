@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [FormDescription Object](Outlook.FormDescription.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

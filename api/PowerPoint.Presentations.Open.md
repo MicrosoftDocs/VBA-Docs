@@ -86,4 +86,3 @@ Presentations.Open FileName:="C:\My Documents\pres1.pptx", ReadOnly:=msoTrue
 
 [Presentations Object](PowerPoint.Presentations.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

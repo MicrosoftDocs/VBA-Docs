@@ -154,4 +154,3 @@ To create an instance of a master in a drawing, use the  **Drop** method of a **
 |[Type](./Visio.Master.Type.md)|
 |[UniqueID](./Visio.Master.UniqueID.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

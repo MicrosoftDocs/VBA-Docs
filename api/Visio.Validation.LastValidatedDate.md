@@ -28,4 +28,4 @@ Returns the time and date the document was last validated. Read-only.
 
 If the document has never been validated, the  **LastValidatedDate** property returns zero (0).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

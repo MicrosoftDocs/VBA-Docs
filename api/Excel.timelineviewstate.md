@@ -17,4 +17,5 @@ Represents the Timeline-specific members of a Slicer view.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

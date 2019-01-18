@@ -41,4 +41,3 @@ Do not confuse this property with the  **ToX** or **ToY** properties of the **[S
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -71,5 +71,3 @@ End Sub
 
 [Application.IsCheckedOut](Project.application.ischeckedout.md)
 [Application.ProjectCheckOut](Project.application.projectcheckout.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

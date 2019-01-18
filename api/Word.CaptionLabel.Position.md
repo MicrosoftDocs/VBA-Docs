@@ -29,4 +29,3 @@ Returns or sets the position of caption label text. Read/write  **WdCaptionPosit
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

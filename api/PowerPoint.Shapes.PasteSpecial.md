@@ -74,4 +74,3 @@ An error occurs if there is no data on the Clipboard when the **PasteSpecial** m
 
 [Shapes Object](PowerPoint.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

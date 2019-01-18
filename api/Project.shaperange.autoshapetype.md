@@ -32,5 +32,3 @@ When you change the type of a shape, the shape retains its size, color, and othe
 
 [ShapeRange Object](Project.shaperange.md)
 [MsoAutoShapeType Enumeration](https://msdn.microsoft.com/library/office/ff862770%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of exceptions in the collection. 
 
 [OtherCorrectionsExceptions Collection Object](Word.othercorrectionsexceptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

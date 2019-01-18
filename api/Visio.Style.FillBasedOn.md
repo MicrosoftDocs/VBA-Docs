@@ -33,4 +33,4 @@ String
 
 To base a style on no style, set the  **FillBasedOn** property to a zero-length string ("").
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -28,4 +28,4 @@ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 Can be one of the following [constants](Excel.Constants.md):  **xlContext** , **xlLTR** (left-to-right), or **xlRTL** (right-to-left).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

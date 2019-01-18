@@ -42,4 +42,3 @@ Returns an error if  **Categories** contains one or more empty strings.
 
 [CategoryRuleCondition Object](Outlook.CategoryRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

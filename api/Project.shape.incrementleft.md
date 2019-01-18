@@ -35,5 +35,3 @@ Moves the shape horizontally by the specified number of points.
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

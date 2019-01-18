@@ -34,4 +34,3 @@ This property can be set to a value between 20 and 100. If this property is set 
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

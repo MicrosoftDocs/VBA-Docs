@@ -48,4 +48,4 @@ A document's mode is not a persistent property. By default, a Visio document ope
 
 However, you can change default settings in the  **Macro Settings** category of the Visio **Trust Center** (Click the **File** tab, click **Options**, click  **Trust Center**, and then click  **Trust Center Settings**.) If  **Disable all macros except digitally signed macros** is selected, Visio documents not in a trusted location open in run mode only if they are digitally signed. If **Disable all macros without notification** or **Disable all macros with notification** is selected, documents not in a trusted location open in design mode. If **Enable all macros** is selected, documents always open in run mode, but this option presents a security risk and is not recommended.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

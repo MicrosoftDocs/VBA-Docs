@@ -39,4 +39,3 @@ _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' obje
 
 [TextFrame Object](Excel.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

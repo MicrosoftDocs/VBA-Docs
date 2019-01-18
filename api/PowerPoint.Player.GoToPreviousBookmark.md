@@ -29,4 +29,3 @@ Goes to the previous bookmark.
 
 [Player Object](PowerPoint.Player.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

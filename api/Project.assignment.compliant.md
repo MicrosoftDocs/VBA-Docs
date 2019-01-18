@@ -24,4 +24,3 @@ Gets the compliant for a task assignment in Project. Read-only Introduced in Off
 
 [Assignment Object (Project)](Project.Assignment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The constant that is returned or set describes the value of the  **[CommandText]
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

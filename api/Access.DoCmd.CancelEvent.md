@@ -45,4 +45,3 @@ For events that can be canceled, the default behavior for the event (that is, wh
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

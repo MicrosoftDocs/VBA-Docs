@@ -27,4 +27,3 @@ Specifies the alignment of a paragraph.
 | **wdAlignParagraphRight**|2|Right-aligned.|
 | **wdAlignParagraphThaiJustify**|9|Justified according to Thai formatting layout.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ ActiveCell.Phonetics(1).CharacterType = xlHiragana
 
 [Phonetic Object](Excel.Phonetic.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ Msgbox ActiveDocument.Styles(wdStyleHeading3).ListLevelNumber
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

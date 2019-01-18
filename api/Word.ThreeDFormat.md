@@ -41,4 +41,4 @@ You cannot apply three-dimensional formatting to some kinds of shapes, such as b
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

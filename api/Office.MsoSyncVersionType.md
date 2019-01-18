@@ -21,4 +21,3 @@ Beginning with Microsoft Office 2010, this object or member has been deprecated 
 |**msoSyncVersionLastViewed**|0|Opens the copy of the document that is created whenever the user overwrites the local copy with the server copy.|
 |**msoSyncVersionServer**|1|Opens the server version. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

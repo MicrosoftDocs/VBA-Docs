@@ -46,4 +46,3 @@ The  **BottomGridlineStyle** property uses the following settings.
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

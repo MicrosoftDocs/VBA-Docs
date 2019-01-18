@@ -29,4 +29,3 @@ Returns or sets a  **[WdCalendarType](Word.WdCalendarType.md)** constant that re
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

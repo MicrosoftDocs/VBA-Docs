@@ -34,4 +34,3 @@ _expression_ A variable that represents a [NewItemAlertRuleAction](./Outlook.New
 
 [NewItemAlertRuleAction Object](Outlook.NewItemAlertRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

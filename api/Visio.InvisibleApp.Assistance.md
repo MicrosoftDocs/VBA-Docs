@@ -33,4 +33,4 @@ Object
 
 The  **IAssistance** object exposes methods that allow developers to display Help topics in the Office Help Viewer or to display Help topics that ship with Microsoft Office in the Visio **Help** window.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

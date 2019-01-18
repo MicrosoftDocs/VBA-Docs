@@ -66,4 +66,4 @@ This example copies the text in shape one on page one of the active publication 
 ActiveDocument.Pages(1).Shapes(1).TextFrame.TextRange.Copy
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

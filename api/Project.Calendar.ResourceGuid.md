@@ -20,4 +20,4 @@ Gets the GUID of the resource calendar. Read-only  **String**.
 
  _expression_ An expression that returns a [Calendar](./Project.Calendar.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -100,4 +100,3 @@ End Sub
 [Report.Current event (Access)](Access.Report.Current.md)
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

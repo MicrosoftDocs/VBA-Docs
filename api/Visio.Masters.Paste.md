@@ -60,4 +60,4 @@ Setting  _Flags_ to **visCopyPasteNormal** is the equivalent of the behavior in 
 
 If you need to control the format of the pasted information and (optionally) establish a link to a source file (for example, a Microsoft Word document), use the **PasteSpecial** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

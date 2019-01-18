@@ -36,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Hyperlink
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

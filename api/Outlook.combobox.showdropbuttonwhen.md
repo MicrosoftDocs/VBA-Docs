@@ -34,4 +34,3 @@ The settings for  **ShowDropButtonWhen** are:
 |1|Show the drop-down button when the control has the focus.|
 |2|Always show the drop-down button. This is the default value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The value of this property determines whether the resulting SVG file includes bo
 
 [ApplicationSettings Object](Visio.ApplicationSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

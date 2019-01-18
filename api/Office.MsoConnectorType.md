@@ -22,4 +22,3 @@ Specifies a type of connector.
 |**msoConnectorStraight**|1|Straight line connector.|
 |**msoConnectorTypeMixed**|-2|Return value only; indicates a combination of the other states.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

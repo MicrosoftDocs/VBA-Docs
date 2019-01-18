@@ -24,4 +24,3 @@ Specifies contants that define whether to populate the legend; passed to the Dro
 | **visLegendPopulate**|0|Drop the legend and populate it.|
 | **visLegendNoContents**|1|Drop the legend and do not populate it.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

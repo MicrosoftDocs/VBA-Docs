@@ -30,4 +30,4 @@ Unlike other Microsoft Visio collections, the  **ToolbarSets** collection is ind
 
 A  **ToolbarSet** object is identified in the **ToolbarSets** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values for **ToolbarSet** objects, see the **SetID** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

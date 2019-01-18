@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of tab stops in the collection. R
 
 [TabStops Collection Object](Word.tabstops.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

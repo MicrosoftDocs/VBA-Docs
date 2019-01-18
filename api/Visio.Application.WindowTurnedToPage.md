@@ -41,5 +41,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.EApplication_WindowTurnedToPageEventHandler** (the **WindowTurnedToPage** delegate.)
     
 -  **Microsoft.Office.Interop.Visio.EApplication_Event.WindowTurnedToPage** (the **WindowTurnedToPage** event.)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

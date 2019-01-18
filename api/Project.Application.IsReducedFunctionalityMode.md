@@ -30,4 +30,4 @@ Indicates whether the installed Project application is in reduced functionality 
 
 If a user does not activate Project after installing it, after a period of time the application will start only in reduced-functionality mode. In this mode, the user cannot save changes to projects or create a new project. To be able to use the full functionality, the user must activate the Project application.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

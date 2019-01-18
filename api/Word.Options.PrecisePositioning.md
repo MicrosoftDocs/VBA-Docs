@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether Word optimizes character 
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

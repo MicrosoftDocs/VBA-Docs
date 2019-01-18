@@ -38,4 +38,3 @@ Positions a task window.
 
 [Task Object](Word.Task.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

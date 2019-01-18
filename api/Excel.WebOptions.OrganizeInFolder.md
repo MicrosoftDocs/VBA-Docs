@@ -48,4 +48,3 @@ Application.DefaultWebOptions.OrganizeInFolder = False
 
 [WebOptions Object](Excel.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

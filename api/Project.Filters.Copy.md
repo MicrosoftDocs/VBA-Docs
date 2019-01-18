@@ -42,5 +42,3 @@ Makes a copy of a group definition for the  **Filters** collection and returns a
 
 
 [Filters Collection Object](Project.filters.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

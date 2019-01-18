@@ -54,4 +54,4 @@ For details about the  **IPictureDisp** interface, see the Microsoft Platform SD
 
 Currently, only in-process solutions can use the  **Icon** property because the **IPictureDisp** interface cannot be marshaled.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

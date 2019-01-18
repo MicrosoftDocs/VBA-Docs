@@ -37,4 +37,4 @@ You can use either the  **SpecialEffect** or the **[BorderStyle](Outlook.label.b
 
  **SpecialEffect** uses the system colors to define its borders.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

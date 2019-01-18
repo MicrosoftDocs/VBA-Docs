@@ -56,4 +56,3 @@ End If
 
 [GroupShapes Object](PowerPoint.GroupShapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

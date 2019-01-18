@@ -42,4 +42,3 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,4 +62,3 @@ End Sub
 
 [Folders Object](Outlook.Folders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

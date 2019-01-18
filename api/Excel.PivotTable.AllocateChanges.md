@@ -39,4 +39,3 @@ The  **AllocateChanges** method will execute an **UPDATE CUBE** statement for al
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

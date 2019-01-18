@@ -33,5 +33,3 @@ Gets a  **[Resource](Project.Resource.md)** object from its containing collectio
 
 
 [Resources Collection Object](Project.resources(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

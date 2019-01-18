@@ -53,4 +53,3 @@ End Sub
 |[Selected](Publisher.WebOptionButton.Selected.md)|
 |[Value](Publisher.WebOptionButton.Value.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

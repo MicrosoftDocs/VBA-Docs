@@ -34,4 +34,3 @@ If you use this property with a  **Shape** object that is a floating linked pict
 
 [LinkFormat Object](Word.LinkFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

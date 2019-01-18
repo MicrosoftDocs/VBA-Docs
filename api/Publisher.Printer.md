@@ -75,4 +75,3 @@ End Sub
 |[PrinterName](./Publisher.Printer.PrinterName.md)|
 |[PrintMode](./Publisher.Printer.Printer.PrintMode.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

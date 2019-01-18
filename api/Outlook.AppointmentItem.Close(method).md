@@ -37,4 +37,3 @@ _expression_ A variable that represents an [AppointmentItem](./Outlook.Appointme
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ This example sets the angle for the first slice in chart group one. The example 
 myChart.ChartGroups(1).FirstSliceAngle = 15
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

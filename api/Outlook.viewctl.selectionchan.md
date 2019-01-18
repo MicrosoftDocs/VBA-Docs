@@ -27,4 +27,4 @@ This event does not occur if the current folder is a file system folder or if  *
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

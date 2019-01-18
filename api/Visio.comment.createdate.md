@@ -29,4 +29,3 @@ Returns the date the specified comment was created. Read-only  **Date**.
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

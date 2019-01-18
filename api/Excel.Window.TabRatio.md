@@ -44,4 +44,3 @@ ActiveWindow.TabRatio = 0.5
 
 [Window Object](Excel.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

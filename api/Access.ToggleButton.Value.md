@@ -39,4 +39,3 @@ The  **Value** property returns or sets a control's default property, which is t
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

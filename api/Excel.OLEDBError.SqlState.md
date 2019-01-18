@@ -34,4 +34,3 @@ For an explanation of the specific error, see you SQL documentation.
 
 [OLEDBError Object](Excel.OLEDBError.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

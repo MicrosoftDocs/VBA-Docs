@@ -46,4 +46,4 @@ MsgBox "The name of the first co author in this document is " & author.Name
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

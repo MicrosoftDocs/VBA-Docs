@@ -45,4 +45,3 @@ ActiveDocument.Tables(1).Rows(1).Cells(1).RightPadding = _
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

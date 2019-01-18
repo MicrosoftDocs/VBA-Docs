@@ -68,4 +68,4 @@ ActiveDocument.Pages(1).Shapes(1).TextFrame _
  Leader:=pbTabLeaderNone
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

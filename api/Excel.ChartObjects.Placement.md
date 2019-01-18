@@ -33,4 +33,4 @@ This example sets the objects on Sheet1 to be free-floating (they neither moves 
 Worksheets("Sheet1").ChartObjects.Placement = xlFreeFloating
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

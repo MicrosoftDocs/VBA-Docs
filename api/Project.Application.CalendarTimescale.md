@@ -33,4 +33,4 @@ Displays the  **Timescale** dialog box, which allows the user to customize the C
 
 The  **CalendarTimescale** method has the same effect as the **Timescale** command on the **Format** menu.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

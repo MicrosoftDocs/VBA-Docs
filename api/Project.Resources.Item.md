@@ -33,5 +33,3 @@ Gets a single  **Resource** object from the **Resources** collection. Read-only 
 
 
 [Resources Collection Object](Project.resources(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

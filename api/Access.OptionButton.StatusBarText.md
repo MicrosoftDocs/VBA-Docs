@@ -56,4 +56,3 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [OptionButton Object](Access.OptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

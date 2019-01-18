@@ -32,4 +32,3 @@ Returns or sets the auto shape type of the specified object. Read-write [MSOAuto
 
 [ChartFormat Object](Word.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

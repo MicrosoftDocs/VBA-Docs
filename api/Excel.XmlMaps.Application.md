@@ -44,4 +44,3 @@ End If
 
 [XmlMaps Object](Excel.XmlMaps.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

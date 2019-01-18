@@ -56,4 +56,3 @@ Forms("Mailing List").Controls("Address_TextBox"). _
 
 [EmptyCell Object](Access.EmptyCell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

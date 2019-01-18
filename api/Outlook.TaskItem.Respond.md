@@ -59,4 +59,3 @@ The following table describes the behavior of the  **Respond** method depending 
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ There are other ways to provide information about a form or a control on a form.
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

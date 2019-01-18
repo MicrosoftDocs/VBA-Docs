@@ -44,4 +44,3 @@ If an invalid index or name is specified, an error occurs.
 
  [Pages Object](Outlook.pages(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

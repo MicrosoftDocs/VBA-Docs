@@ -66,4 +66,3 @@ End Sub
 
 [TableStyle Object](Word.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

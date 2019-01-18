@@ -42,4 +42,3 @@ List
 
 [Lists Collection Object](Word.lists.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

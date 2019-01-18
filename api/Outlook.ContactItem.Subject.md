@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagSubject**. The **Subject
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,4 @@ Changes the side pane that is displayed in  **Project Guide**.
 
 The  **SidepaneTaskChange** method only has an effect when the **Project Guide** is shown.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

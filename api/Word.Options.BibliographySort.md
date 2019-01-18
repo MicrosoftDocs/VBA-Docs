@@ -34,4 +34,3 @@ Possible values for the  **BibliographySort** property are `Author`,  `Title`,  
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

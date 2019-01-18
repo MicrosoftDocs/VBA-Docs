@@ -34,4 +34,3 @@ The value is the same as the value of  **[Text](Outlook.OlkDateControl.Text.md)*
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

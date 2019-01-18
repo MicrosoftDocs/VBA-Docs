@@ -47,4 +47,3 @@ The index value of a  **NavigationGroup** in the collection represents the ordin
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

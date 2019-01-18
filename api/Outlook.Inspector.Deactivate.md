@@ -34,4 +34,3 @@ This event is not available in Microsoft Visual Basic Scripting Edition (VBScrip
 
 [Inspector Object](Outlook.Inspector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

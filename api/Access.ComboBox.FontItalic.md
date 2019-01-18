@@ -53,4 +53,3 @@ You can set the default for this property by using the default control style or 
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

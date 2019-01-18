@@ -43,4 +43,4 @@ ActiveDocument.Pages(1).Shapes(1).ThreeD _
  .ResetRotation
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

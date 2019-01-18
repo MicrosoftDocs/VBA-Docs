@@ -41,4 +41,3 @@ If you try to execute this method for a PivotTable report based on a non-OLAP da
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

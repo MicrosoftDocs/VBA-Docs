@@ -52,4 +52,4 @@ The following command in the  **Immediate** window of the VBE prints the value 2
 ? ActiveProject.Calendar.WeekDays.Item(3).Shift2.Index
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

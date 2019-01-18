@@ -47,4 +47,3 @@ End With
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ Adds a new web video to the document.
 
 [InlineShapes Collection](Word.inlineshapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

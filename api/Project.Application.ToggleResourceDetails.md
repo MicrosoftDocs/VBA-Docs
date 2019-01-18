@@ -35,4 +35,4 @@ The  **ToggleResourceDetails** method corresponds to selecting or clearing the *
 
 You can use  **ToggleResourceDetails** to add a **Resource Form** split view to other views except an empty Timeline view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

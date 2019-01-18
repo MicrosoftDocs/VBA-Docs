@@ -49,4 +49,3 @@ Use the  **[BaseCalendarCreate](./Project.Application.BaseCalendarCreate.md)** m
 |[WorkWeeks](./Project.Calendar.WorkWeeks.md)|
 |[Years](./Project.Calendar.Years.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

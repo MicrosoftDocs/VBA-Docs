@@ -47,4 +47,3 @@ End With
 
 [Validation Object](Excel.Validation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

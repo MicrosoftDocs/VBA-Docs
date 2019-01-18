@@ -34,4 +34,3 @@ The parent  **ExchangeUser** object.
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

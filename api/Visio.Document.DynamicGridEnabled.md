@@ -28,4 +28,4 @@ Determines whether the dynamic grid is enabled. Read/write.
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

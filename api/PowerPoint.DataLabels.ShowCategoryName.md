@@ -50,4 +50,3 @@ End With
 
 [DataLabels Object](PowerPoint.DataLabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

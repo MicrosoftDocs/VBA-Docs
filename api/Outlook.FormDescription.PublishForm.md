@@ -104,4 +104,3 @@ myForm.PublishForm olPersonalRegistry
 
 [FormDescription Object](Outlook.FormDescription.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

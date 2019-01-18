@@ -44,4 +44,4 @@ Set objSession = Application.Session
 
 [Pages Object](./Outlook.pages(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

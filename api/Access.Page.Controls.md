@@ -41,4 +41,3 @@ Forms("Form1").Controls("Textbox1").Properties(5).Name
 
 [Page Object](Access.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

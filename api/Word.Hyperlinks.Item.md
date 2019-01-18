@@ -42,4 +42,3 @@ Hyperlink
 
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,3 @@ End With
 
 [OLEFormat Object](Excel.OLEFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property only contains the display names for the reply recipients. The repl
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -94,4 +94,5 @@ Combines the features of a  [ListBox](Outlook.ListBox.md) and a [TextBox](Outloo
 |:-----|:-----|
 | [Click](Outlook.combobox.click.md)|Occurs when the user definitively selects a value for the control that has more than one possible value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

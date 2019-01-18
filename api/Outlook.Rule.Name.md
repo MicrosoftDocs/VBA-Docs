@@ -36,4 +36,3 @@ Rule names are not unique among rules in the same collection.
 
 [Rule Object](Outlook.Rule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

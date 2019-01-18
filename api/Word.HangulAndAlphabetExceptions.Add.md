@@ -59,4 +59,3 @@ AutoCorrect.HangulAndAlphabetExceptions.Add Name:="test"
 
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

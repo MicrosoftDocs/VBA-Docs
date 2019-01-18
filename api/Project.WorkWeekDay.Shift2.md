@@ -25,5 +25,3 @@ Gets a  **[Shift](Project.Shift.md)** object representing the second work shift 
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

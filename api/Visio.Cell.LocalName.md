@@ -35,4 +35,4 @@ A cell has both a local name and a universal name. The local name differs accord
 
 To get the universal name of a cell, use the  **Name** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

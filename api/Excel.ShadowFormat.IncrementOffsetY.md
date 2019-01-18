@@ -48,4 +48,3 @@ myDocument.Shapes(3).Shadow.IncrementOffsetY -3
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

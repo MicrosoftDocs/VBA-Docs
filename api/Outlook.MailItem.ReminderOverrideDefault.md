@@ -34,4 +34,3 @@ You must set the  **ReminderOverrideDefault** property to validate the **[Remind
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ Applies a color scheme to the specified range of slides.
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

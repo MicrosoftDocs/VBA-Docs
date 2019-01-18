@@ -49,4 +49,3 @@ End If
 
 [ChartFormat Object](Excel.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,6 +42,6 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 
 
- **Note**  In Microsoft Office Visio 2003, the  **KanaFindAndReplace** property was read/write, and the property setting corresponded to an option on the **Regional** tab of the **Options** dialog box. In Microsoft Office Visio 2007, you can determine current language settings by getting the value of the **[Application.LanguageSettings](Visio.Application.LanguageSettings.md)** property. Or, you can change language settings in the **Microsoft Office Language Settings 2007** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office 2007 Language Settings**.
+ **Note**  In Microsoft Office Visio 2003, the  **KanaFindAndReplace** property was read/write, and the property setting corresponded to an option on the **Regional** tab of the **Options** dialog box. In Microsoft Office Visio 2007, you can determine current language settings by getting the value of the **[Application.LanguageSettings](Visio.Application.LanguageSettings.md)** property. Or, you can change language settings in the **Microsoft Office Language Settings 2007** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office 2007 Language Settings**. 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

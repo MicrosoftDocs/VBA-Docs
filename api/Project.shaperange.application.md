@@ -26,5 +26,3 @@ Gets the [Application Object (Project)](Project.Application.md) object. Read-onl
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

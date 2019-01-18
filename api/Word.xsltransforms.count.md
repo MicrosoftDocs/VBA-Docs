@@ -24,4 +24,6 @@ Returns a  **Long** that represents the number of XSLTransforms in the collectio
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+
+

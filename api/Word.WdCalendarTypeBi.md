@@ -20,4 +20,3 @@ Specifies calendar type to use when displaying the date or time.
 | **wdCalendarTypeBidi**|99|Bi-directional calendar.|
 | **wdCalendarTypeGregorian**|100|Gregorian calendar.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

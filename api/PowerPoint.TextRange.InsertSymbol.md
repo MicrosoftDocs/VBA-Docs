@@ -78,4 +78,3 @@ End Sub
 
 [TextRange Object](PowerPoint.TextRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

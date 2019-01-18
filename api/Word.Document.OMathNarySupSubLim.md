@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents the default location of limits fo
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

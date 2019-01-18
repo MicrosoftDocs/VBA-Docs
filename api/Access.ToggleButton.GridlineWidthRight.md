@@ -40,4 +40,3 @@ The  **RightGridlineWidth** property uses the following settings.
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

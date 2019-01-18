@@ -26,4 +26,4 @@ Returns the available members of the  **[BuildingBlocks](Publisher.BuildingBlock
 
  **BuildingBlocks**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

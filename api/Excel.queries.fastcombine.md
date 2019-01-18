@@ -32,4 +32,4 @@ For silent refresh operations, use the  **FastCombine** property in conjunction 
 
 [Queries Object](Excel.queries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

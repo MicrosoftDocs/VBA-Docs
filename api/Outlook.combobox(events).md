@@ -13,5 +13,5 @@ localization_priority: Normal
 
 
 -  [ComboBox.Click Event (Outlook Forms Script)](Outlook.combobox.click.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

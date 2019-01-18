@@ -69,4 +69,5 @@ Displays information from a user or from an organized set of data.
 | [Value](Outlook.textbox.value.md)|Returns or sets a  **Variant** that specifies text in the edit region. Read/write.|
 | [WordWrap](Outlook.textbox.wordwrap.md)|Returns or sets a  **Boolean** that specifies whether the contents of a control automatically wrap at the end of a line and the control expands to fit the text. Read/write.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

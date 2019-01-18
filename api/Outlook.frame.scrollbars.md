@@ -41,4 +41,4 @@ If visible, a scroll bar constrains its scroll box to the visible region of the 
 
 If a scroll bar is not visible, then you can set its scroll position to any value. Negative values and values greater than the scroll size are both valid.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

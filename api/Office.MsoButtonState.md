@@ -21,4 +21,3 @@ Specifies the appearance of a command bar button control.
 |**msoButtonMixed**|2|Button is pressed down.|
 |**msoButtonUp**|0|Button is not pressed down.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

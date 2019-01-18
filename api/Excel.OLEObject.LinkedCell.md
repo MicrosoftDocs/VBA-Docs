@@ -34,4 +34,3 @@ You cannot use this property with multiselect list boxes.
 
 [OLEObject Object](Excel.OLEObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

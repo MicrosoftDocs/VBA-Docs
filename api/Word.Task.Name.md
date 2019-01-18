@@ -29,4 +29,3 @@ Returns the name of the specified object. Read-only  **String**.
 
 [Task Object](Word.Task.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

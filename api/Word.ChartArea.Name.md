@@ -29,4 +29,3 @@ Returns the name of the object. Read-only  **String**.
 
 [ChartArea Object](Word.ChartArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

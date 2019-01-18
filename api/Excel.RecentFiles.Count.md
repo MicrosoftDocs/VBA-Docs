@@ -29,4 +29,3 @@ _expression_ A variable that represents a [RecentFiles](Excel.RecentFiles.md) ob
 
 [RecentFiles Object](Excel.RecentFiles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

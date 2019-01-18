@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of pages in the collection. Read-
 
 [Pages Collection](Word.pages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [PageNumber Object](Word.PageNumber.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

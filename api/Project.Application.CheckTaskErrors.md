@@ -36,4 +36,4 @@ Checks the task to ensure that required custom fields are filled and that the ca
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

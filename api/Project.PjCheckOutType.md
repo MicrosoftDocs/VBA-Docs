@@ -20,4 +20,3 @@ Contains constants that specify the type of checkout.
 |**pjReadOnly**|0|Check out as read-only.|
 |**pjReadWrite**|1|Check out as read/write.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

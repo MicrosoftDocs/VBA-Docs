@@ -39,4 +39,3 @@ The  **AllocationValue** property corresponds to the **Value to Allocate** setti
 
 [ValueChange Object](Excel.ValueChange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

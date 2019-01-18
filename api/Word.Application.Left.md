@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the horizontal position of the activ
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

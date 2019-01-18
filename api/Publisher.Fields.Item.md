@@ -49,4 +49,4 @@ Set fldTemp = ActiveDocument.Pages(Index:=1) _
  .Shapes(1).TextFrame.TextRange.Fields.Item(Index:=1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

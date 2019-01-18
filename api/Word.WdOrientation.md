@@ -20,4 +20,3 @@ Specifies a page layout orientation.
 | **wdOrientLandscape**|1|Landscape orientation.|
 | **wdOrientPortrait**|0|Portrait orientation.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

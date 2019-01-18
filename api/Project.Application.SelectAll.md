@@ -28,4 +28,4 @@ Selects all cells on the active sheet.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

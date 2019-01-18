@@ -26,4 +26,3 @@ Specifies the border to be retrieved.
 | **xlInsideHorizontal**|12|Horizontal borders for all cells in the range except borders on the outside of the range.|
 | **xlInsideVertical**|11|Vertical borders for all the cells in the range except borders on the outside of the range.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

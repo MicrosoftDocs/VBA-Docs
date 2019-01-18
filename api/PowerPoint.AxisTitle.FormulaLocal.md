@@ -29,4 +29,3 @@ _expression_ A variable that represents an [AxisTitle](./PowerPoint.AxisTitle.md
 
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

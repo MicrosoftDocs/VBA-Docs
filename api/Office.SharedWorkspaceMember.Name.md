@@ -59,4 +59,3 @@ The following example displays properties of the shared workspace member.
 
 [SharedWorkspaceMember Object Members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

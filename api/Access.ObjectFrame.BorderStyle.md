@@ -52,4 +52,3 @@ A control's border style is visible only when its  **SpecialEffect** property is
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

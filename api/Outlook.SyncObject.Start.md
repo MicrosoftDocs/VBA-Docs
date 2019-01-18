@@ -55,4 +55,3 @@ End Sub
 
 [SyncObject Object](Outlook.SyncObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

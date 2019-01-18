@@ -26,4 +26,4 @@ This example sets the data-marker size for all data markers in series one.
 MyChart.SeriesCollection(1).MarkerSize = 10
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

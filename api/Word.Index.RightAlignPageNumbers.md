@@ -29,4 +29,3 @@ localization_priority: Normal
 
 [Index Object](Word.Index.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

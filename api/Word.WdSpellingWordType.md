@@ -21,4 +21,3 @@ Specifies the way Microsoft Word makes spelling suggestions.
 | **wdSpellword**|0|Spellword searching.|
 | **wdWildcard**|1|Wildcard searching.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

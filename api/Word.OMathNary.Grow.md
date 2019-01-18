@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether n-ary operators grow to t
 
 [OMathNary Object](Word.OMathNary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

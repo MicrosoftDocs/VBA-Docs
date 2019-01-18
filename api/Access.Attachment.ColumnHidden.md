@@ -40,4 +40,3 @@ Hiding a column with the  **ColumnHidden** property in Datasheet view doesn't hi
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

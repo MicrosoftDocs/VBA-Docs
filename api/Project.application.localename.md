@@ -31,4 +31,4 @@ Language name that is used by Project, such as en-us or za-ch. Introduced in Off
 
  **STRING**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

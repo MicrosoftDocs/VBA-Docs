@@ -28,4 +28,3 @@ Flags to be passed to the  **BoundingBox** method of various objects.
 | **visBBoxUprightText**|&H2|Return a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's text.|
 | **visBBoxUprightWH**|&H1|Return a rectangle that is the smallest rectangle parallel to the local coordinate system of the shape's parent that encloses the shape's width-height box.If the shape is not rotated, its upright width-height box and its width-height box are the same. Paths in the shape's geometry need not and often do not lie entirely within the shape's width-height box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

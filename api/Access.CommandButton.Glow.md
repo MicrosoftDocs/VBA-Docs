@@ -78,4 +78,3 @@ Me.ctl.Glow = 17
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

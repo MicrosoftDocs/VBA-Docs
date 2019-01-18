@@ -23,4 +23,3 @@ Indicates the text alignment against tab stops or line breaks.
 |**msoTabAlignMixed**|-2|Specifies that mixed text alignment against tab stops is used.|
 |**msoTabAlignRight**|2|Specifies that the following text up to the next tab or line break is rendered flush right to the designated tab stop.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

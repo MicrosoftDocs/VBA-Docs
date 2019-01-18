@@ -31,4 +31,3 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

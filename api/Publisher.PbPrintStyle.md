@@ -33,4 +33,3 @@ Constants specifying the print style and passed to the  **PrintOutEx** and **Exp
 | **pbPrintStyleQuarterFoldTop**|9|Prints the publication in the quarter fold top style.|
 | **pbPrintStyleTiled**|2|Prints the publication in the tiled style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

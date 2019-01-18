@@ -56,4 +56,3 @@ You can specify the Kanji Conversion Mode when the focus shifts to control by se
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,3 @@ Specifies a format for the Clipboard contents when they are inserted into the do
 |**ppPasteShape**|11|Paste a shape.|
 |**ppPasteText**|7|Paste text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

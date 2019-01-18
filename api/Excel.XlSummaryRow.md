@@ -20,4 +20,3 @@ Specifies the location of the summary rows in the outline.
 | **xlSummaryAbove**|0|The summary row will be positioned above the detail rows in the outline.|
 | **xlSummaryBelow**|1|The summary row will be positioned below the detail rows in the outline.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

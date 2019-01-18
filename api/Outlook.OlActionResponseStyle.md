@@ -28,4 +28,4 @@ Specifies the response style.
 
 Used by the [ResponseStyle](Outlook.Action.ResponseStyle.md) property of an [Action](Outlook.Action.md) to specify the response style that will be used when the **Action** is executed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

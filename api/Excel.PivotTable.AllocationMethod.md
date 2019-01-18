@@ -39,4 +39,3 @@ The  **AllocationMethod** property corresponds to the **Allocation Method** sett
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

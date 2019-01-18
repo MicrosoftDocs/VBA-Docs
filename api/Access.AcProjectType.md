@@ -24,4 +24,3 @@ Used with the  **ProjectType** property to determine the type of project that is
 |**acMDB**|2|The current project is a Microsoft Access database.|
 |**acNull**|0||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

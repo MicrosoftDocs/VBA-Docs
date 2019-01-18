@@ -29,4 +29,3 @@ Returns or sets a  **[WdReadingLayoutMargin](Word.WdReadingLayoutMargin.md)** co
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

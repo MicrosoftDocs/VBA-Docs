@@ -101,4 +101,3 @@ End Sub
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

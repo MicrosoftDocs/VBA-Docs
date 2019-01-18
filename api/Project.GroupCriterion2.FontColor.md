@@ -46,4 +46,3 @@ To use a hexadecimal RGB value, see the  **[FontColorEx](Project.GroupCriterion2
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

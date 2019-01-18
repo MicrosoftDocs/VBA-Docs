@@ -37,4 +37,3 @@ _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

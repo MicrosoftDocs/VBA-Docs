@@ -44,4 +44,3 @@ Set myFrame = ActiveDocument.Frames.Add(Range:=Selection.Range)
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

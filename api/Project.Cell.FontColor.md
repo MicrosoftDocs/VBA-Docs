@@ -40,4 +40,4 @@ The  **FontColor** property can be one of the following **[PjColor](Project.PjCo
 
 To use a hexadecimal RGB value, see the  **[FontColorEx](Project.Cell.FontColorEx.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

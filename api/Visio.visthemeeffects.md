@@ -36,4 +36,3 @@ Theme effects constants passed to and returned by the  **Page.ThemeEffects** pro
 | **visThemeEffectsToy**|15|Toy.|
 | **visThemeEffectsBasicShadow**|16|Basic shadow.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

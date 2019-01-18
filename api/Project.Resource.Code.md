@@ -25,4 +25,4 @@ Gets or sets the code value of the resource. Read/write  **String**.
 
 You can also set the code value on the  **General** tab of the **Resource Information** dialog box. A resource code can be used for different purposes, for example the code can be an accounting number or a telephone number.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -43,4 +43,3 @@ You can remove a filter by clicking the pressed-in  **Apply Filter** button, cli
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

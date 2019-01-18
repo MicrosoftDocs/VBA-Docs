@@ -56,4 +56,3 @@ ActivePresentation.Slides.Range(Array(1, 3)).ApplyTheme "C:\Program Files\Micros
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

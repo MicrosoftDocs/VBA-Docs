@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Cust
 
 [CustomProperties Collection](Word.CustomProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

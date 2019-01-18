@@ -23,4 +23,3 @@ Specifies the status of a shared workspace task.
 |**msoSharedWorkspaceTaskStatusNotStarted**|1|Not started.|
 |**msoSharedWorkspaceTaskStatusWaiting**|5|Waiting.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

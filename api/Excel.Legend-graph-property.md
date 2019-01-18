@@ -27,4 +27,4 @@ myChart.HasLegend = True
 myChart.Legend.Font.ColorIndex = 5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

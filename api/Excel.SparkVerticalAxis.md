@@ -27,4 +27,4 @@ Use the  **[Vertical](Excel.SparkAxes.Vertical.md)** property of the **[SparkAxe
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -24,4 +24,3 @@ Used with the [Quit](Access.Application.Quit.md) method to specify whether or no
 |**acQuitSaveAll**|1|(Default) Saves all objects without displaying a dialog box.|
 |**acQuitSaveNone**|2|Quits Microsoft Access without saving any objects.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ If the account does not have a user name defined,  **UserName** returns an empty
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

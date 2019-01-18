@@ -75,5 +75,3 @@ Because an **AccessObject** object corresponds to an existing object, you can't 
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [Access Object Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

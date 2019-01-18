@@ -20,4 +20,3 @@ Specifies where the subtotal will be displayed on the worksheet.
 | **xlAtBottom**|2|Subtotal will be at the bottom.|
 | **xlAtTop**|1|Subtotal will be at the top.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

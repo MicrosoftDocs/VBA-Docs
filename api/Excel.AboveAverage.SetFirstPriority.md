@@ -37,4 +37,3 @@ When you have multiple conditional formatting rules in a worksheet, if the rule 
 
 [AboveAverage Object](Excel.AboveAverage.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -78,5 +78,3 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(1).Delete
 
 
 [PowerPoint Object Model Reference](./overview/PowerPoint/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

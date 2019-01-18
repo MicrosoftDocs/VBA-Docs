@@ -36,4 +36,3 @@ This however does not mean that the rule always has a defined rule condition for
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

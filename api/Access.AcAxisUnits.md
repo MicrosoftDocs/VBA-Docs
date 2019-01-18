@@ -32,5 +32,3 @@ Specifies the unit of measurement for values displayed on an axis.
 |**acAxisUnitsTenThousands**|4|Ten Thousands|
 |**acAxisUnitsThousands**|3|Thousands|
 |**acAxisUnitsTrillions**|12|Trillions|
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

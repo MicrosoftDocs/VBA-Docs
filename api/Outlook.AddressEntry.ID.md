@@ -34,4 +34,3 @@ The transport provider assigns a permanent, unique string  **ID** property when 
 
 [AddressEntry Object](Outlook.AddressEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

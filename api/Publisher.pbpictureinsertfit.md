@@ -24,4 +24,4 @@ Insert section body here.
 
 Insert subsection body here.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

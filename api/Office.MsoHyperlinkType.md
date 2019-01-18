@@ -21,4 +21,3 @@ Specifies the type of hyperlink.
 |**msoHyperlinkRange**|0|Hyperlink applies to a  **Range** object.|
 |**msoHyperlinkShape**|1|Hyperlink applies to a  **Shape** object.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

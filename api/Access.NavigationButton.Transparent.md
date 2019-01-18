@@ -50,4 +50,3 @@ Forms.Item("Purchase Orders").Controls.Item("Preview"). _
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

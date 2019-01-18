@@ -61,4 +61,4 @@ Public Sub Sync_Example
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

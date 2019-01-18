@@ -49,4 +49,3 @@ End If
 
 [ListGallery Object](Word.ListGallery.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

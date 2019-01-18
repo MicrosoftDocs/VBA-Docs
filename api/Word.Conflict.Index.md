@@ -29,4 +29,3 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 [Conflict Object](Word.Conflict.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

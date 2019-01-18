@@ -58,4 +58,4 @@ For intShapeCounter = 1 To vsoViewer.ShapeCount
 Next
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

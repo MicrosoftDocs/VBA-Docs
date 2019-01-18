@@ -31,4 +31,3 @@ Use the  **Parent** property to access the properties or methods of an object's 
 
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

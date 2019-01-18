@@ -33,4 +33,4 @@ Returns the  **[ContainerProperties](Visio.ContainerProperties.md)** object asso
 
 If the shape is not a container, the  **ContainerProperties** property returns **Nothing**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

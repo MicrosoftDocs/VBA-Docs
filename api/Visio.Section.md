@@ -50,4 +50,3 @@ The default property of a  **Section** object is **Row**.
 |[Stat](./Visio.Section.Stat.md)|
 |[Style](./Visio.Section.Style.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

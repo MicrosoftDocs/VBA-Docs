@@ -36,4 +36,3 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Docu
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

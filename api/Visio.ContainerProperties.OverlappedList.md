@@ -39,4 +39,4 @@ To remove an existing overlapped list relationship between the source list shape
 
  **OverlappedList** returns an Invalid Source error if the source shape is not a list. It returns an Invalid Target error if the target shape is not a list.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

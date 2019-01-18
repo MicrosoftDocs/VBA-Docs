@@ -34,4 +34,3 @@ The name of a  **[Range](Excel.Range(object).md)** object is a **[Name](Excel.Na
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

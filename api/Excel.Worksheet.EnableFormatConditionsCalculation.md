@@ -36,4 +36,3 @@ The purpose of this flag is to allow VBA programmers to configure a rule complet
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

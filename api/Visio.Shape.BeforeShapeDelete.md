@@ -55,5 +55,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.EShape_BeforeShapeDeleteEventHandler** (the **BeforeShapeDelete** delegate.)
     
 -  **Microsoft.Office.Interop.Visio.EShape_Event.BeforeShapeDelete** (the **BeforeShapeDelete** event.)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

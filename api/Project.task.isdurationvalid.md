@@ -30,4 +30,4 @@ To check the start date and finish date, use the  **[IsStartValid](Project.task.
 
  **VARIANT**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

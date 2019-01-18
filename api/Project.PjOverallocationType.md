@@ -22,4 +22,3 @@ Contains constants that specify the type of resource overallocation.
 |**pjOverallocationTypeWorkingInNonWorkingTime**|2|The resource is allocated in nonworking time.|
 |**pjOverallocationTypeWorkingOnOtherTasks**|3|The resource is working on other tasks.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

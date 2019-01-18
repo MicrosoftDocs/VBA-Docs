@@ -31,5 +31,5 @@ localization_priority: Normal
 -  [MultiPage.TabOrientation Property (Outlook Forms Script)](Outlook.multipage.taborientation.md)
     
 -  [MultiPage.Value Property (Outlook Forms Script)](Outlook.multipage.value.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

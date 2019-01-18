@@ -34,4 +34,3 @@ This property returns only the XML in the document that is needed to represent t
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

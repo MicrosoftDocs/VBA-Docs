@@ -40,4 +40,3 @@ When  **IncludeNewItemsInFilter** is set to **True** , the **VisibleItemsList** 
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

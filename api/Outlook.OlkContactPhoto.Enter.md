@@ -34,4 +34,3 @@ This event occurs only when the control is displaying the contact picture button
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

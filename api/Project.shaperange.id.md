@@ -26,5 +26,3 @@ Gets the identification type for the shape range. Read-only  **Long**.
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

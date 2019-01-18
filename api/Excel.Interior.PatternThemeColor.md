@@ -29,4 +29,3 @@ _expression_ A variable that represents an [Interior](Excel.Interior-graph-prope
 
 [Interior Object](Excel.Interior(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the maximum number of custom or conversion dictionaries allowed. Read-on
 
 [HangulHanjaConversionDictionaries Collection Object](Word.hangulhanjaconversiondictionaries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

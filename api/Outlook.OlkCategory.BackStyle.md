@@ -34,4 +34,3 @@ The default value is  **olBackStyleOpaque**.
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

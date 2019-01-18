@@ -52,4 +52,3 @@ End With
 
 [PageSetup Object](PowerPoint.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

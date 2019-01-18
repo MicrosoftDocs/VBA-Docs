@@ -22,4 +22,3 @@ Specifies how to display source documents when two documents are compared using 
 | **wdShowSourceDocumentsOriginal**|1|Shows the original document only.|
 | **wdShowSourceDocumentsRevised**|2|Shows the revised document only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

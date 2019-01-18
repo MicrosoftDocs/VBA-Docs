@@ -47,5 +47,3 @@ End Sub
 [coauthoring](../excel/Concepts/about-coauthoring-in-excel.md)
 
 [Workbook Object](Excel.Workbook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

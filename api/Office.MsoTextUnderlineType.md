@@ -37,4 +37,3 @@ Indicates the type of underline for text.
 |**msoUnderlineWavyLine**|15|Specifies a wavy line underline.|
 |**msoUnderlineWords**|1|Specifies underlining words.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

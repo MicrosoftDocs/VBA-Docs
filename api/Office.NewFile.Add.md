@@ -44,4 +44,3 @@ _expression_. `Add`( `_FileName_`, `_Section_`, `_DisplayName_`, `_Action_` )
 
 [NewFile Object Members](./overview/Library-Reference/newfile-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

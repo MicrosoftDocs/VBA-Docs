@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [PlaySoundRuleAction Object](Outlook.PlaySoundRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

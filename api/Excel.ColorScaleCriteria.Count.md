@@ -34,4 +34,3 @@ The number of criteria is equivalent to the number of threshold values assigned 
 
 [ColorScaleCriteria Collection](Excel.ColorScaleCriteria.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

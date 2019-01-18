@@ -37,4 +37,3 @@ Setting  **EnableLiveDrag** to True is the equivalent of selecting **Update docu
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

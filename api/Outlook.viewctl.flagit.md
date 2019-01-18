@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 If the selection includes more than one item, the dialog box applies to the last item in the selection.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

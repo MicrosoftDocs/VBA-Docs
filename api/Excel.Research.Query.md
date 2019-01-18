@@ -48,4 +48,3 @@ Variant
 
 [Research Object](Excel.Research.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

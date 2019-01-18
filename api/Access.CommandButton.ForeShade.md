@@ -46,4 +46,3 @@ Me.ctl.ForeShade=25
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

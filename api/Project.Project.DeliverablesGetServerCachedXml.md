@@ -25,4 +25,4 @@ Gets the cached XML data from Project Server for all of the deliverables and dep
 
  **String**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ The  **Caption** property is a string expression that can contain up to 2,048 ch
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Specifies information about the current user of a Web database.
 |**acWebUserLoginName**|2|The current user's login name.|
 |**acWebUserName**|1|The current user's display name.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

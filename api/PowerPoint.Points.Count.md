@@ -26,4 +26,3 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 [Points Object](PowerPoint.Points.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

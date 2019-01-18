@@ -27,4 +27,3 @@ Flags to be passed to the  **Cut** , **Copy** , or **Paste** methods.
 | **visCopyPasteDontAddToContainers**|&H32|Do not add pasted shapes to any underlying containers.|
 | **visCopyPasteNoCascade**|&H64|Do not offset shapes on copy.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ Returns the color, style, and embellishment, if any, of the variant of the theme
 
 [Page Object](Visio.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

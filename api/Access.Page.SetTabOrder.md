@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Page](Access.Page.md) object.
 
 [Page Object](Access.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

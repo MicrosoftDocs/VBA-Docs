@@ -59,4 +59,3 @@ End With
 
 [ShapeNode Object](Excel.ShapeNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ If this property returns  **True** , then the journalized item was routed as par
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

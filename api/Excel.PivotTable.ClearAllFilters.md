@@ -34,4 +34,3 @@ After calling the  **ClearAllFilters** method, the **PivotFilters** collection w
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

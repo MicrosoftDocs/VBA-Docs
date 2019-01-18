@@ -36,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Tag
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

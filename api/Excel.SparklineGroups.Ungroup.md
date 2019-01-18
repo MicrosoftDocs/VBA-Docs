@@ -45,4 +45,3 @@ Selection.SparklineGroups.Ungroup
 
 [SparklineGroups Object](Excel.SparklineGroups.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

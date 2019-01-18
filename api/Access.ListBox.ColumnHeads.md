@@ -51,4 +51,3 @@ Headings in combo boxes appear only when displaying the list in the control.
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,4 +54,3 @@ This method returns  **Nothing** if the XPath location path is not mapped into t
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

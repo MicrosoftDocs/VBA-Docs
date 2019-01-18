@@ -60,4 +60,3 @@ Indicates the line and shape style.
 |**msoShapeStyleMixed**|-2|A mix of shape styles.|
 |**msoShapeStyleNone**|0|No shape style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

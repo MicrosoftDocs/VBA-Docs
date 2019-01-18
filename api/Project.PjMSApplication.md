@@ -26,4 +26,3 @@ Contains constants that specify the Microsoft application to activate.
 |**pjMicrosoftSchedulePlus**|6|Microsoft Schedule+.|
 |**pjMicrosoftWord**|0|Microsoft Word.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

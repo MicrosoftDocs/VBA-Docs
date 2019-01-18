@@ -23,4 +23,4 @@ The default value is  **True**. Set this property to  **False** if you don't wan
 
 If you set this property to  **False**, Microsoft Graph doesn't automatically set it back to  **True** when your macro stops running. Write your macro such that it always sets this property back to **True** when it stops running.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

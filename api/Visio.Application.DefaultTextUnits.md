@@ -56,4 +56,4 @@ In this case, the text is 12 points if the  **DefaultTextUnits** property is **v
 
 For details about implicit units of measure, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

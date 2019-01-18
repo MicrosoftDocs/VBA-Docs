@@ -32,4 +32,3 @@ Specifies the type of rectangle and the information it contains.
 | **wdReadingModeNavigation**|9|Represents space occupied by the page navigation buttons when reading a document in full page reading view.|
 | **wdReadingModePanningArea**|11|Represents space occupied for page turning when reading a document in full page reading view.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

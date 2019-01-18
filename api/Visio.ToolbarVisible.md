@@ -40,4 +40,4 @@ The following code hides the toolbar in Visio Viewer.
 vsoViewer.ToolbarVisible = False
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

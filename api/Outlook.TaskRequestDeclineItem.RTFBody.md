@@ -34,4 +34,3 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

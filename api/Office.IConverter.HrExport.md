@@ -43,5 +43,3 @@ _expression_ An expression that returns an **[IConverter](Office.IConverter.md)*
 ## See also
 
 - [IConverter object members](overview/Library-Reference/iconverter-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

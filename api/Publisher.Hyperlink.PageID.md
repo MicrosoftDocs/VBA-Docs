@@ -42,4 +42,4 @@ strPage = ActiveDocument.Pages.FindByPageID(PageID:=lngID).PageNumber
 MsgBox "This hyperlink goes to the page " & strPage & "."
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

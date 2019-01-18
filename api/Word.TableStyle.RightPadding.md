@@ -34,4 +34,3 @@ The setting of the  **RightPadding** property for a single cell overrides the se
 
 [TableStyle Object](Word.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

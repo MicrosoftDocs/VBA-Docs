@@ -29,4 +29,3 @@ _expression_ A variable that represents a [LegendEntry](Excel.LegendEntry-graph-
 
 [LegendEntry Object](Excel.LegendEntry(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

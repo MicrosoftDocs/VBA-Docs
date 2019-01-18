@@ -26,4 +26,4 @@ The index of the  **ToolbarItem** object within the **ToolbarItems** collection 
 
 Beginning with Microsoft Visio 2002, use the  **BeginGroup** property to create spaces on a toolbar.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

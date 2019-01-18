@@ -31,4 +31,4 @@ Returns an array of IDs of data rows newly added to the data recordset as a resu
 
 Long()
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

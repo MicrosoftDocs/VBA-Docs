@@ -80,4 +80,3 @@ where the dependent y-value is a function of the independent x-values. The m-val
 
 - [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

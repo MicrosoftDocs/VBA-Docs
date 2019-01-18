@@ -25,4 +25,3 @@ Specifies the position or behavior of a command bar.
 |**msoBarRight**|2|Command bar is docked on the right side of the application window.|
 |**msoBarTop**|1|Command bar is docked at the top of the application window.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

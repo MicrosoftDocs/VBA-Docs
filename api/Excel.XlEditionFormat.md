@@ -22,4 +22,3 @@ Specifies the format of the published edition. This enumeration is only for Maci
 | **xlRTF**|4|Rich Text Format (.rtf).|
 | **xlVALU**|8|VALU.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

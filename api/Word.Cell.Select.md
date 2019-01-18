@@ -34,4 +34,3 @@ After using this method, use the  **[Selection](Word.Selection.md)** object to w
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

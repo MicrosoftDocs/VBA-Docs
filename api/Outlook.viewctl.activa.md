@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 This event does not occur when the control is placed on a Visual Basic Application UserForm.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

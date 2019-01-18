@@ -59,4 +59,3 @@ End If
 
 [DropDown Object](Word.DropDown.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

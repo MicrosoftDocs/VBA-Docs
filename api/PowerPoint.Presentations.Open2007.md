@@ -102,4 +102,3 @@ Presentations.Open2007 FileName:="C:\My Documents\pres1.ppt", ReadOnly:=msoTrue,
 
 [Presentations Object](PowerPoint.Presentations.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

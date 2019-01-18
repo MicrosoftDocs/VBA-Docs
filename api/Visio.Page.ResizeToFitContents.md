@@ -39,5 +39,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVPage.ResizeToFitContents()**
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

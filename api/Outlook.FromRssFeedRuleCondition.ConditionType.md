@@ -34,4 +34,3 @@ This rule condition is supported by rules for receiving messages. For more infor
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

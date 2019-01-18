@@ -39,4 +39,3 @@ MsgBox "And the answer is... " & Selection.Calculate
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

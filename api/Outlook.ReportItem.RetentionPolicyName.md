@@ -34,4 +34,3 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 
 [ReportItem Object](Outlook.ReportItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

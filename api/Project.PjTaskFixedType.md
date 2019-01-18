@@ -21,4 +21,3 @@ Contains constants that specify the task type.
 |**pjFixedUnits**|0|Fixed units.|
 |**pjFixedWork**|2|Fixed work.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

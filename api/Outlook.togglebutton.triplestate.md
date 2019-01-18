@@ -31,4 +31,4 @@ A control set to  **Null** does not initiate the **[Click](Outlook.togglebutton.
 
 Regardless of the property setting, the  **Null** value can always be assigned programmatically to a **ToggleButton**, causing that control to appear shaded.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

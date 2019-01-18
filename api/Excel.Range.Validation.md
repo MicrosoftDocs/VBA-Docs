@@ -39,4 +39,3 @@ Range("e5").Validation.IgnoreBlank = True
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Resets the  **Period** item of a resource calendar to the value in the correspon
 
 Applying the  **Default** method to a base calendar resets the properties to their default values.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

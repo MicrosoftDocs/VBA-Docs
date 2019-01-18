@@ -40,4 +40,4 @@ Moves an item in the Organizer.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

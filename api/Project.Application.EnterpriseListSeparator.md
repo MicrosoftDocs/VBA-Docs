@@ -28,4 +28,4 @@ Gets or sets the separator character for enterprise lists. Read/write  **String*
 
 The  **EnterpriseListSeparator** property is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

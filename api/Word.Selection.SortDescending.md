@@ -34,4 +34,3 @@ This method offers a simplified form of sorting intended for mail-merge data sou
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ qString = ActiveDocument.MailMerge.DataSource.QueryString
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

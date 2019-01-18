@@ -83,4 +83,3 @@ End With
 |[Parent](Publisher.HeaderFooter.Parent.md)|
 |[TextRange](Publisher.HeaderFooter.TextRange.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

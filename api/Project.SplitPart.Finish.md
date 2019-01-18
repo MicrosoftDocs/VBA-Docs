@@ -20,4 +20,4 @@ Gets or sets the finish date of the part of a split task represented by the  **S
 
  _expression_ A variable that represents a [SplitPart](./Project.SplitPart.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

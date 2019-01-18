@@ -39,4 +39,3 @@ Name of the slicer cache must be unique within the workbook namespace. By defaul
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

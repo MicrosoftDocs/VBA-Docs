@@ -26,4 +26,3 @@ Represents the type of  **[AddressList](Outlook.AddressList.md)**.
 | **olOutlookAddressList**|2|An address list that corresponds to the Outlook Contacts Address Book.|
 | **olOutlookLdapAddressList**|3|An address list that uses the Lightweight Directory Access Protocol (LDAP).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

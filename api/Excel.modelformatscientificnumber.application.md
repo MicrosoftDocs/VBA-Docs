@@ -42,4 +42,4 @@ End If
 
 [ModelFormatScientificNumber Object](Excel.modelformatscientificnumber.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -24,4 +24,3 @@ Specifies the relative width of a shape using the value specified in the  **Widt
 | **wdRelativeHorizontalSizePage**|1|Width is relative to the width of the page.|
 | **wdRelativeHorizontalSizeRightMarginArea**|3|Width is relative to the width of the right margin.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

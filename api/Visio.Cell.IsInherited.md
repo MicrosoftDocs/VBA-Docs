@@ -33,4 +33,4 @@ Integer
 
 In the ShapeSheet window, values and formulas of cells that have local values appear in blue. Values and formulas of cells that inherit from a master or style appear in black.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

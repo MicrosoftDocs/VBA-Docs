@@ -71,4 +71,3 @@ End With
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,4 +58,3 @@ Worksheets(1).PivotTables(1).PivotFields("year") _
 
 [CalculatedItems Collection](Excel.CalculatedItems.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

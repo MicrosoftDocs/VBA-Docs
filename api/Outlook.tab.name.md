@@ -29,4 +29,4 @@ You can set the  **Name** property for a control from the control's property she
 
 Each control added to a form at design time must have a unique name.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

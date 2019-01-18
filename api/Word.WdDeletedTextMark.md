@@ -29,4 +29,3 @@ Specifies the formatting of text that is deleted while change tracking is enable
 | **wdDeletedTextMarkUnderline**|7|Deleted text is underlined.|
 | **wdDeletedTextMarkDoubleStrikeThrough**|10|Deleted text is marked up by using double-strikethrough characters.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

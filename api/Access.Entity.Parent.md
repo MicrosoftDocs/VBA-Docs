@@ -29,4 +29,3 @@ _expression_ A variable that represents an [Entity](Access.Entity.md) object.
 
 [Entity Object](Access.Entity.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

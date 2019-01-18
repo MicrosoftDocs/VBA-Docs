@@ -29,4 +29,3 @@ You can reference a  **Page** by its index value. The index value reflects the o
 
  [Outlook Object Model Reference](overview/Outlook/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

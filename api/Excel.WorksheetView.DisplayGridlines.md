@@ -36,4 +36,3 @@ This property affects only displayed gridlines. Use the  **[PrintGridlines](Exce
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ Selection.FitTextWidth = CentimetersToPoints(5)
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

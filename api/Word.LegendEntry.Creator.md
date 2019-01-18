@@ -34,4 +34,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [LegendEntry Object](Word.LegendEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

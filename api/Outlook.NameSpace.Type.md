@@ -34,4 +34,3 @@ The only supported string is "MAPI."
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -76,4 +76,3 @@ hypTemp.Follow NewWindow:=False, AddHistory:=True
 
 [Hyperlink Object](Word.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

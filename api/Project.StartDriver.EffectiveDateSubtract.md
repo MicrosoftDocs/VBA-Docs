@@ -48,4 +48,4 @@ The following statement returns the value "6/24/2009 8:00:00 AM", which is six d
 Debug.Print ActiveProject.Tasks(3).StartDriver.EffectiveDateSubtract("7/2/2009", "6d")
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -48,4 +48,3 @@ Selection.Range.ListFormat.ApplyListTemplate ListTemplate:=myltemp
 
 [ListFormat Object](Word.ListFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

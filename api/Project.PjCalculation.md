@@ -20,4 +20,3 @@ Contains constants that specify the calculation mode.
 |**pjAutomatic**|-1|Automatic.|
 |**pjManual**|0|Manual.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

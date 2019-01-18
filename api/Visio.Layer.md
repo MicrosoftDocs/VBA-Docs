@@ -56,4 +56,3 @@ A layer's  **Index** and **Row** properties typically have different values. The
 |[Row](./Visio.Layer.Row.md)|
 |[Stat](./Visio.Layer.Stat.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

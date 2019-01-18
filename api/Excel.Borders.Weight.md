@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
 
 [Borders Collection](Excel.Borders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

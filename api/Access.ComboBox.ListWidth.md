@@ -56,4 +56,3 @@ str = Forms("Order Entry").Controls("States").ListWidth
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

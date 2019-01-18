@@ -34,4 +34,3 @@ The parent of the  **[Folder](Outlook.Folder.md)** object is the **[Folders](Out
 
 [Folder Object](Outlook.Folder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

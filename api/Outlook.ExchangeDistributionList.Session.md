@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

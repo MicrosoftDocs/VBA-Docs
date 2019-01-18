@@ -52,4 +52,3 @@ Worksheets(1).Range("E5").AddComment "Current Sales"
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

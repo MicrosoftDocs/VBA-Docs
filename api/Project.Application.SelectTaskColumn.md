@@ -44,4 +44,4 @@ Selects a column containing task information.
 
 The  **SelectTaskColumn** method is only available when the Gantt Chart, Task Sheet, or Task Usage view is the active view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

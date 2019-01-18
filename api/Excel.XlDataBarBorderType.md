@@ -20,4 +20,3 @@ Specifies the border of a data bar.
 | **xlDataBarBorderNone**|0|The data bar has no border.|
 | **xlDataBarBorderSolid**|1|The data bar has a solid border.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

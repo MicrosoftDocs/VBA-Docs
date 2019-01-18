@@ -60,4 +60,3 @@ Specifies the size of the paper.
 | **xlPaperTabloid**|3|Tabloid (11 in. x 17 in.)|
 | **xlPaperUser**|256|User-defined|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

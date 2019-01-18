@@ -24,4 +24,3 @@ Used with the  **HorizontalAnchor** property to specify how a control is anchore
 |**acHorizontalAnchorLeft**|0|The control is anchored to the left side of its layout.|
 |**acHorizontalAnchorRight**|1|The control is anchored to the right side of its layout.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

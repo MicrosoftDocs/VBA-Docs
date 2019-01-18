@@ -61,4 +61,3 @@ End With
 
 [PublishObject Object](PowerPoint.PublishObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

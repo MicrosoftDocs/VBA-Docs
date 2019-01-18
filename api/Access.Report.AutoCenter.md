@@ -45,4 +45,3 @@ Depending on the size and placement of the application window, reports can appea
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

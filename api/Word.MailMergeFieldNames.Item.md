@@ -42,4 +42,3 @@ MailMergeFieldName
 
 [MailMergeFieldNames Object](Word.MailMergeFieldNames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

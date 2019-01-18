@@ -513,4 +513,3 @@ Use the  **[Add](./Project.Tasks.Add.md)** method to add a **Task** object to th
 |[WorkVariance](./Project.Task.WorkVariance.md)|
 |[Compliant](./Project.task.compliant.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

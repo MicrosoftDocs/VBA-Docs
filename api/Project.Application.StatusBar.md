@@ -35,4 +35,4 @@ The following line of code sets custom text in the status bar.
 Application.StatusBar = "This is custom text."
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Separates a list into two separate lists. For numbered lists, the new list resta
 
 [Paragraph Object](Word.Paragraph.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

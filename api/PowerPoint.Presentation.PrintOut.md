@@ -79,4 +79,3 @@ Application.ActivePresentation.PrintOut PrintToFile:="TestPrnt"
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

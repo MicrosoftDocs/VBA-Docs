@@ -56,4 +56,3 @@ End Sub
 |[Parent](Publisher.MailMergeMappedDataField.Parent.md)|
 |[Value](Publisher.MailMergeMappedDataField.Value.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

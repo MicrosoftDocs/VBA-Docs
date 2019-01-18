@@ -20,4 +20,3 @@ Specifies the position of footnotes.
 | **wdBeneathText**|1|Beneath current text.|
 | **wdBottomOfPage**|0|At bottom of current page.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

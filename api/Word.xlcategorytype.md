@@ -19,4 +19,3 @@ Specifies the type of the category axis.
 | **xlCategoryScale**|2|Axis groups data by an arbitrary set of categories.|
 | **xlTimeScale**|3|Axis groups data on a time scale.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

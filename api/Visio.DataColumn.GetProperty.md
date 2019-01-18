@@ -94,4 +94,4 @@ Public Sub GetProperty_Example(vsoDataRecordset As Visio.DataRecordset)
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

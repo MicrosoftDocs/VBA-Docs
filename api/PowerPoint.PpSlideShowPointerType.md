@@ -24,4 +24,3 @@ Specifies the type of pointer for the slideshow.
 |**ppSlideShowPointerNone**|0|No pointer used.|
 |**ppSlideShowPointerPen**|2|Pen pointer used.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

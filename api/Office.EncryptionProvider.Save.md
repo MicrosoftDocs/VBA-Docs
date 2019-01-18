@@ -44,5 +44,3 @@ When you save a file to the Office Open XML File format (which is the only forma
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -82,4 +82,3 @@ End Sub
 |[Visible](Publisher.LineFormat.Visible.md)|
 |[Weight](Publisher.LineFormat.Weight.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

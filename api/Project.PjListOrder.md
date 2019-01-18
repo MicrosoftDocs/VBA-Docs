@@ -21,4 +21,3 @@ Contains constants that specify the order in which the items in a list are displ
 |**pjListOrderDefault**|0|Default.|
 |**pjListOrderDescending**|2|Descending.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

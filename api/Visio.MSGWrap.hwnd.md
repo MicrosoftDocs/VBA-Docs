@@ -35,4 +35,4 @@ The properties of the  **MSGWrap** object correspond to the members of the **MSG
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

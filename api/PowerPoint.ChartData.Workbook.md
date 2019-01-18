@@ -66,4 +66,3 @@ End With
 
 [ChartData Object](PowerPoint.ChartData.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

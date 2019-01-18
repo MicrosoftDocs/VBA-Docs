@@ -45,4 +45,3 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

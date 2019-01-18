@@ -29,4 +29,3 @@ _expression_ A variable that represents an [OutlookBarShortcut](./Outlook.Outloo
 
 [OutlookBarShortcut Object](Outlook.OutlookBarShortcut.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,4 +65,3 @@ myDocument.Shapes(3).TextFrame.Orientation = msoTextOrientationHorizontal
 
 [TextFrame Object](PowerPoint.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

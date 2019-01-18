@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of columns in the collection. Rea
 
 [Columns Collection Object](Word.columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

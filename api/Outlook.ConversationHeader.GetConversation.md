@@ -50,4 +50,3 @@ A  **Conversation** object that represents the conversation to which this conver
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -77,4 +77,3 @@ The following example checks the  **SolutionID** property to determine whether t
 
 [SmartDocument Object Members](./overview/Library-Reference/smartdocument-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

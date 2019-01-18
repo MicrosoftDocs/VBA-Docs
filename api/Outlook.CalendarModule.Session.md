@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [CalendarModule Object](Outlook.CalendarModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

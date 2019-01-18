@@ -23,4 +23,3 @@ Specifies a unit of measure to use.
 | **wdPicas**|4|Picas (commonly used in traditional typewriter font spacing).|
 | **wdPoints**|3|Points.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

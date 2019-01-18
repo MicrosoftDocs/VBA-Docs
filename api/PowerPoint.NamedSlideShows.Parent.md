@@ -50,4 +50,3 @@ End With
 
 [NamedSlideShows Object](PowerPoint.NamedSlideShows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ c1.End(xlDown).Offset(2, 0).Formula = "=sum(Column1)"
 
 [QueryTable Object](Excel.QueryTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

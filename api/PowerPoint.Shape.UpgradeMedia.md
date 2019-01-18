@@ -29,4 +29,3 @@ Converts a legacy media object to an updated media object.
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

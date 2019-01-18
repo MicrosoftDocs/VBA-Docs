@@ -29,4 +29,3 @@ Returns or sets the position of the chart title on the chart. Read/write  **[xlC
 
 [ChartTitle Object](Word.ChartTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

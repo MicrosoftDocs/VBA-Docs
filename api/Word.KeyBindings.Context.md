@@ -34,4 +34,3 @@ This property can return a  **Document** , **Template** , or **Application** obj
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

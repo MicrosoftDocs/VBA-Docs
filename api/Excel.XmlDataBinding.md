@@ -31,4 +31,4 @@ Use the  **[ClearSettings](Excel.XmlDataBinding.ClearSettings.md)** method to re
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -40,4 +40,3 @@ _expression_ A variable that represents a [Sort](./Excel.Sort.md) object.
 
 [Sort Object](Excel.Sort.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

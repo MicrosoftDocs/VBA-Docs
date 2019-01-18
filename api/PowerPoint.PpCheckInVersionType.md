@@ -21,4 +21,3 @@ Constants that specify the type of version of the Microsoft PowerPoint file to b
 |**ppCheckInMinorVersion**|0|Minor version|
 |**ppCheckInOverwriteVersion**|2|Overwrite current version|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

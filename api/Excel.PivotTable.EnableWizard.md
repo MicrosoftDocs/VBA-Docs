@@ -44,4 +44,3 @@ Worksheets(1).PivotTables("Pivot1").EnableWizard = False
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

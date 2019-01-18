@@ -40,4 +40,4 @@ This example sets the color of the interior pattern for the chart area.
 myChart.ChartArea.Interior.PatternColorIndex = 5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

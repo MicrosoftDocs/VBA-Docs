@@ -23,4 +23,3 @@ Specifies the type of print range for the presentation.
 |**ppPrintSelection**|2|Print a selection of slides.|
 |**ppPrintSlideRange**|4|Print a range of slides.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

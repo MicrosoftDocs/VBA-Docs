@@ -101,4 +101,3 @@ End Sub
 |[Parent](Publisher.CalloutFormat.Parent.md)|
 |[Type](Publisher.CalloutFormat.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

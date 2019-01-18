@@ -46,4 +46,3 @@ Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Wind
 |visWinIDValidationIssues|2263|When  **Window.Type** is **visAnchorBarBuiltIn** , **Validation Issues** window.|
 |visWinOther|0|Unknown window type.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

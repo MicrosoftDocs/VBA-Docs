@@ -28,4 +28,4 @@ Pastes a hyperlink to the source of the contents of the Clipboard.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

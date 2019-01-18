@@ -34,4 +34,3 @@ Use this property to set the thickness of the floor. The default thickness is ze
 
 [Floor Object](Word.Floor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

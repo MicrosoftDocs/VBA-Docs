@@ -34,4 +34,3 @@ The  **[TickLabelSpacing](Word.Axis.TickLabelSpacing.md)** property returns the 
 
 [Axis Object](Word.Axis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,5 +43,3 @@ To access the  **SlicerItem** object that represents the currently selected butt
 
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

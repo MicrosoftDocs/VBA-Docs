@@ -37,4 +37,3 @@ In some cases, Word loses the formatting at the Insertion Point after running ot
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

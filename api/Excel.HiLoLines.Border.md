@@ -29,4 +29,3 @@ _expression_ A variable that represents a [HiLoLines](Excel.HiLoLines-graph-prop
 
 [HiLoLines Object](Excel.HiLoLines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

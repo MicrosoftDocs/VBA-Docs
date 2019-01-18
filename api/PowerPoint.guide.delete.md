@@ -26,4 +26,4 @@ Removes the drawing guide from the presentation or custom layout.
 
  **VOID**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

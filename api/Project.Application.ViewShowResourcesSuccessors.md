@@ -28,4 +28,4 @@ Displays information about resource assignments and successor tasks in the activ
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

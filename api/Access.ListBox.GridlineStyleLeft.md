@@ -40,4 +40,3 @@ The  **BottomGridlineWidth** property uses the following settings.
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -57,4 +57,4 @@ End If
 
  **Note**  In versions of Visio through version 4.1, the  **Page** property of a **Window** object returned an **Object** (as opposed to a **Variant** of type **Object**) and the **Page** property of a **Window** object accepted a **String** (as opposed to a **Variant** of type **String**). Because of changes in Automation support tools, the property was changed to accept and return a **Variant**. For backward compatibility, the **PageAsObj** and **PageFromName** properties were added. The **PageAsObj** and **PageFromName** properties have the same signatures and occupy the same vtable slots as did the prior version of the **Page** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

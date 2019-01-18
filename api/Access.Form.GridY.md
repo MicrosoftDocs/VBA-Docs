@@ -38,4 +38,3 @@ The  **GridX** and **GridY** properties provide control over the placement and a
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

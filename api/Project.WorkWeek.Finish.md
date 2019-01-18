@@ -26,4 +26,3 @@ Gets or sets the finish date of a work week represented by the **WorkWeek** obje
 
 [WorkWeek Object](Project.WorkWeek.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Contains constants that specify the bar type.
 |**pjFramed**|1|Framed.|
 |**pjSolid**|0|Solid.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

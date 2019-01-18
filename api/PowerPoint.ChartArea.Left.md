@@ -26,4 +26,3 @@ _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)'
 
 [ChartArea Object](PowerPoint.ChartArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

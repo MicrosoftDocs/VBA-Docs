@@ -38,4 +38,3 @@ For the  **Scripts** collection, using the **Delete** method removes all scripts
 
 [Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

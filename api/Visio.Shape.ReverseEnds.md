@@ -28,4 +28,4 @@ Reverses an object by flipping it both horizontally and vertically.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

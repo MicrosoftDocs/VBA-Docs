@@ -37,4 +37,4 @@ The  **MergePosition** property applies only to anchored windows. If the **Windo
 
 Use the  **Type** property to determine window type.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

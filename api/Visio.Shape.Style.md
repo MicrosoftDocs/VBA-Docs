@@ -37,4 +37,4 @@ To preserve local formatting, use the  **StyleKeepFmt** property.
 
 Beginning with Visio 2002, setting  **Style** to an empty string ("") will cause the master's style to be reapplied to the shape. (Earlier versions generate a "no such style" exception.) If the shape has no master, its style remains unchanged.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

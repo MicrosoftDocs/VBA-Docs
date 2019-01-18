@@ -44,4 +44,3 @@ Returns an error message if an invalid  _Index_ has been specified.
 
 [Columns Object](Outlook.Columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ Set rng = ActiveDocument.CoAuthoring.Conflicts(2).Range
 
 [Conflict Object](Word.Conflict.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

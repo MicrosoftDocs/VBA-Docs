@@ -30,5 +30,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [StartDriver Object](Project.StartDriver.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

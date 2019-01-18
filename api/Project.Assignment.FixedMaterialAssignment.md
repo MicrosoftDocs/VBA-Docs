@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **FixedMaterialAssignment** property returns **True** if the assignment is for a work (non-material) resource.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ If this property is set to  **False** , the LCID value in the connection string 
 
 [OLEDBConnection Object](Excel.OLEDBConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

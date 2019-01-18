@@ -25,4 +25,3 @@ _expression_ A variable that represents a 'ModelConnection' object.
 
 [ModelConnection Object](Excel.modelconnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

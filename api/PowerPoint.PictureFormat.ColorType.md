@@ -59,4 +59,3 @@ myDocument.Shapes(1).PictureFormat.ColorType = msoPictureGrayScale
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the degree of transparency for the glow effect as a value betwee
 
 [GlowFormat Object](Word.GlowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

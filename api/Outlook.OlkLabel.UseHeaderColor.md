@@ -34,4 +34,3 @@ This property is intended for label controls in a message form displayed in the 
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

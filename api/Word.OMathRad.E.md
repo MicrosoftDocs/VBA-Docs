@@ -29,4 +29,3 @@ Returns an  **OMath** object that represents the base of the specified equation 
 
 [OMathRad Object](Word.OMathRad.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

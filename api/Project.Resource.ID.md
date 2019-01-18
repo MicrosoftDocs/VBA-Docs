@@ -25,4 +25,4 @@ Gets the identification number of a resource. Read-only  **Long**.
 
 The  **ID** property changes when a resource moves to a new location in a view such as the **Resource Sheet**. Use the  **UniqueID** property if you want a constant reference to a resource.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

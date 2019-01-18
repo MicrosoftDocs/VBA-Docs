@@ -28,4 +28,4 @@ Removes selected shapes from a group.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

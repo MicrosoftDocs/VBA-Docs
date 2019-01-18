@@ -34,4 +34,3 @@ For controls, you can use the  **Section** property to determine which section o
 
 [NavigationControl Object](Access.NavigationControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

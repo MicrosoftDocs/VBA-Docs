@@ -50,4 +50,3 @@ ActiveDocument.Paragraphs.TabStops.ClearAll
 
 [TabStops Collection Object](Word.tabstops.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

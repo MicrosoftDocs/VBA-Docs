@@ -51,4 +51,4 @@ Private Sub vsoViewer_OnLayerChanged(ByVal LayerIndex As Long, ByVal Visible As 
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

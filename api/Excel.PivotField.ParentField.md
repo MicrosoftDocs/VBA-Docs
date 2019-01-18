@@ -41,4 +41,3 @@ MsgBox "The active field is a child of the field " & _
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

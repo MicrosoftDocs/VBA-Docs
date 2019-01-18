@@ -27,5 +27,3 @@ Constants that specify the type of document information, passed to the **[Remove
 |**ppRDIPublishPath**|13|Remove publication path information.|
 |**ppRDIRemovePersonalInformation**|4|Remove personal information.|
 |**ppRDISlideUpdateInformation**|17|Remove slide update information.|
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

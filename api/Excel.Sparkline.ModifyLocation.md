@@ -42,4 +42,3 @@ Nothing
 
 [Sparkline Object](Excel.Sparkline.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

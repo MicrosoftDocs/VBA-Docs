@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

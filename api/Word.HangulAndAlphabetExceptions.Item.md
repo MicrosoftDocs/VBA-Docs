@@ -42,4 +42,3 @@ HangulAndAlphabetException
 
 [HangulAndAlphabetExceptions Collection Object](Word.hangulandalphabetexceptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

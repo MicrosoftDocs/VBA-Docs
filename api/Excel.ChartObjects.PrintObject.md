@@ -33,4 +33,4 @@ This example sets the objects on Sheet1 to be printed with the worksheet.
 Worksheets("Sheet1").ChartObjects.PrintObject = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

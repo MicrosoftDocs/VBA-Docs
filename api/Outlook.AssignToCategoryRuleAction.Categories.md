@@ -36,4 +36,3 @@ This property uses the character specified in the value name,  **sList** , under
 
 [AssignToCategoryRuleAction Object](Outlook.AssignToCategoryRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

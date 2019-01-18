@@ -29,4 +29,3 @@ _expression_ A variable that represents a [CurrentProject](Access.CurrentProject
 
 [CurrentProject Object](Access.CurrentProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ This example sets the  **MoveAfterReturn** property to **True**.
 myChart.Application.MoveAfterReturn = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

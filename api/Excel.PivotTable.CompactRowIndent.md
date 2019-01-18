@@ -34,4 +34,3 @@ The default value is 1. The valid values for this setting are 0 to the maximum i
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

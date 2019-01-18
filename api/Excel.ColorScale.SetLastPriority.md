@@ -37,4 +37,3 @@ The actual value of the priority will be equal to the total number of conditiona
 
 [ColorScale Object](Excel.ColorScale.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

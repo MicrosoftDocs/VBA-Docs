@@ -25,4 +25,4 @@ Gets the identification number of a project. Read-only  **Long**.
 
 The  **ID** property of a project can change when the project is closed and then opened again after other projects are opened. Use the **UniqueID** property if you want a constant reference to a project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

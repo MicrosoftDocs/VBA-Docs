@@ -41,4 +41,3 @@ If you use the  **[Close](Outlook.MeetingItem.Close(method).md)** method to fire
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

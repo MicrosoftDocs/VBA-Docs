@@ -20,4 +20,3 @@ Specifies which axis values are to receive error bars.
 | **xlX**|-4168|Bars run parallel to the Y axis for X-axis values.|
 | **xlY**|1|Bars run parallel to the X axis for Y-axis values.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

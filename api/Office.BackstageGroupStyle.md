@@ -19,4 +19,3 @@ Specifies constants that define the styles of the groups on the **File** tab.
 |**BackstageGroupStyleNormal**|0|Normal style.|
 |**BackstageGroupStyleWarning**|1|Warning style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

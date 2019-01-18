@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether the grouping character is
 
 [OMathGroupChar Object](Word.OMathGroupChar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ If Outlook is running in sessionless mode,  **Accounts** returns an **Accounts**
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

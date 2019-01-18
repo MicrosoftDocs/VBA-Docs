@@ -34,4 +34,3 @@ The  **Reports** collection contains all of the currently open reports in a Micr
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

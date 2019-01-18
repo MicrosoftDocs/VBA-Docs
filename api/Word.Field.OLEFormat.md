@@ -29,4 +29,3 @@ Returns an  **OLEFormat** object that represents the OLE characteristics (other 
 
 [Field Object](Word.Field.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ If you do not have address verification software installed on your computer, the
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

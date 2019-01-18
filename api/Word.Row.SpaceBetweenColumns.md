@@ -41,4 +41,3 @@ myTable.Rows(1).SpaceBetweenColumns = InchesToPoints(0.5)
 
 [Row Object](Word.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

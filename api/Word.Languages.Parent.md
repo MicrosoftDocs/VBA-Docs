@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Lang
 
 [Languages Collection Object](Word.languages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

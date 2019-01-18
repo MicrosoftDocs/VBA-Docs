@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [Groups Collection Object](Project.groups.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

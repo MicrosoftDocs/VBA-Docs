@@ -61,4 +61,3 @@ Represents an animation property.
 |**msoAnimX**|1|X coordinate|
 |**msoAnimY**|2|Y coordinate|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

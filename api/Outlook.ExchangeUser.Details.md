@@ -44,4 +44,3 @@ The  **Details** method actually stops the code from running while the dialog bo
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

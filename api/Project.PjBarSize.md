@@ -25,4 +25,3 @@ Contains constants that specify the height of a bar in points.
 |**pjBarSize6**|6|Bar size 6 points.|
 |**pjBarSize8**|8|Bar size 8 points.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

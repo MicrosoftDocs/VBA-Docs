@@ -25,4 +25,4 @@ Deletes the  **Calendar** object from a **Calendars** collection.
 
 The  **Delete** method does not apply to resource calendars.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -20,4 +20,3 @@ Specifies whether to cascade or tile the windows.
 |**ppArrangeCascade**|2|Cascade|
 |**ppArrangeTiled**|1|Tiled|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

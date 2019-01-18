@@ -36,4 +36,3 @@ When the control is disabled, the contents of the control appear dimmed.
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

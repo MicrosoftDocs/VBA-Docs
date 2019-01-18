@@ -45,4 +45,3 @@ Worksheets(1).ChartObjects(1).Chart.PlotBy = xlColumns
 [SparklineGroup Object](Excel.SparklineGroup.md)
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies the axis position for a range of cells with conditional formatting as 
 | **xlDataBarAxisMidpoint**|1|Display the axis at the midpoint of the cell regardless of the set of values in the range. Positive values are displayed in a left-to-right direction. Negative values are displayed in a right-to-left direction. |
 | **xlDataBarAxisNone**|2|No axis is displayed, and both positive and negative values are displayed in the left-to-right direction.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,4 +38,3 @@ If you want to create a recurring appointment for a particular time zone, you sh
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

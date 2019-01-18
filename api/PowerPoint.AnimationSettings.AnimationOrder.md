@@ -53,4 +53,3 @@ ActivePresentation.Slides(2).Shapes(2) _
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

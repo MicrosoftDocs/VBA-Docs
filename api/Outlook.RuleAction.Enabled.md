@@ -36,4 +36,3 @@ Returns an error if you attempt to enable a rule action that is supported only o
 
 [RuleAction Object](Outlook.RuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

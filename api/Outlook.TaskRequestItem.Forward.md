@@ -40,4 +40,3 @@ In VBScript, if you set the return value of this function to  **False** , the fo
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies how Microsoft Word handles a subtraction operator that falls before a 
 | **wdOMathBreakSubMinusPlus**|2|Inserts a minus sign at the end of the first line, before the line break, and a plus sign at the beginning of the following line, before the number.|
 | **wdOMathBreakSubPlusMinus**|1|Inserts a plus sign at the end of the first line, before the line break, and a minus sign at the beginning of the following line, before the number.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

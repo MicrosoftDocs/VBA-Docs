@@ -21,4 +21,3 @@ Specifies what can be selected on the sheet.
 | **xlNoSelection**|-4142|Nothing can be selected.|
 | **xlUnlockedCells**|1|Only unlocked cells can be selected.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Goes to the previous document in the history list.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

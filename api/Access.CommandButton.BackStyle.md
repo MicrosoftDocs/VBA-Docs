@@ -47,4 +47,3 @@ To make a command button invisible, set its  **Transparent** property to Yes.
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

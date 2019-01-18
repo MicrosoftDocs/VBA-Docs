@@ -23,4 +23,4 @@ Gets the number of resources in a project, not including blank entries. Read-onl
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

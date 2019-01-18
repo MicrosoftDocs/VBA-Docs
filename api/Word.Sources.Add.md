@@ -37,4 +37,3 @@ Add a new source to the sources listed in the  **Source Manager** dialog box.
 
 [Sources Collection](Word.Sources.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ End If
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

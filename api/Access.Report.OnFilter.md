@@ -57,4 +57,3 @@ Reports("Catalog").OnFilter = "[Event Procedure]"
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

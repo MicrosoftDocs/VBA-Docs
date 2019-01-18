@@ -39,4 +39,3 @@ The  **Firstpoint** property corresponds to the setting of the **First Point** c
 
 [SparkPoints Object](Excel.SparkPoints.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

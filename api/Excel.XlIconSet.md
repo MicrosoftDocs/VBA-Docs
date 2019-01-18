@@ -34,4 +34,3 @@ Specifies the type of icon set.
 | **xl5CRV**|15|5 CRV|
 | **xl5Quarters**|16|5 Quarters|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

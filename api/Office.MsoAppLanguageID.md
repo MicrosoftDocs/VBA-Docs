@@ -23,4 +23,3 @@ Specifies a language setting in a Microsoft Office application. The  **msoAppLan
 |**msoLanguageIDUI**|2|User interface language.|
 |**msoLanguageIDUIPrevious**|5|User interface language used prior to the current user interface language.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

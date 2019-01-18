@@ -34,4 +34,3 @@ To support backward compatibility, the default value for this property is  **Tru
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

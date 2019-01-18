@@ -38,5 +38,3 @@ To enable or disable AutoCorrect functionality for a particular  **TextBox** or 
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

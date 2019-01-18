@@ -54,4 +54,3 @@ MsgBox "The following error occurred:" &
 
 [ODBCErrors Object](Excel.ODBCErrors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

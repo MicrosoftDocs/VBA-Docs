@@ -28,4 +28,4 @@ _expression_ Required. A variable that represents a **[DocumentLibraryVersion](O
 
 - [DocumentLibraryVersion object members](overview/library-reference/documentlibraryversion-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns or sets the primary color of the object. Read/write  **Variant**.
 
 [ChartBorder Object](Word.ChartBorder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

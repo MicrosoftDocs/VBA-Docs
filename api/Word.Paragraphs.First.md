@@ -29,4 +29,3 @@ Returns a  **[Paragraph](Word.Paragraph.md)** object that represents the first i
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

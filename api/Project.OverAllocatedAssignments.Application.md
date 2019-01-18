@@ -26,4 +26,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

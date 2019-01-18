@@ -49,4 +49,3 @@ MsgBox System.ProfileString("SubkeyName", "EntryName")
 
 [System Object](Word.System.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

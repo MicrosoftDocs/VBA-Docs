@@ -36,4 +36,3 @@ When you set this property, the text in the range is replaced with formatted tex
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

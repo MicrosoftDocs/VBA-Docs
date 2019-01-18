@@ -68,4 +68,3 @@ To create an instance of a container shape on the drawing page, use the  **[Page
 |[Shape](./Visio.ContainerProperties.Shape.md)|
 |[Stat](./Visio.ContainerProperties.Stat.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

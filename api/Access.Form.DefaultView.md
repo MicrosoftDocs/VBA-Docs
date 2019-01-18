@@ -58,4 +58,3 @@ The combination of these properties creates the following conditions.
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

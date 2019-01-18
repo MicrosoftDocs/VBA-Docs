@@ -20,4 +20,3 @@ Specifies the format of the selected Japanese text.
 | **wdKanaHiragana**|9|The text is formatted as Hiragana.|
 | **wdKanaKatakana**|8|The text is formatted as Katakana.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

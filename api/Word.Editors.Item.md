@@ -42,4 +42,3 @@ Editor
 
 [Editors Collection](Word.Editors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

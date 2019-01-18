@@ -54,4 +54,4 @@ The following example compares the local and server copies of the document using
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

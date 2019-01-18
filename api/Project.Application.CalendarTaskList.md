@@ -36,4 +36,4 @@ Displays the list of tasks for a specific date.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

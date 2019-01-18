@@ -44,4 +44,4 @@ The following code gets the index of the page displayed in Visio Viewer when a d
  Debug.Print vsoViewer.CurrentPageIndex
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

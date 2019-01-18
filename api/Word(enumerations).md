@@ -368,4 +368,3 @@ This section contains documentation for the enumerations in the Word object mode
  
  - [Visual Basic constants](../language/reference/user-interface-help/visual-basic-constants.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

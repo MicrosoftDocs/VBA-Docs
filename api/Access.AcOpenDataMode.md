@@ -24,4 +24,3 @@ Specifies the data entry mode when opening a table, query, stored procedure, vie
 |**acEdit**|1|The user can view or edit existing records and add new records.|
 |**acReadOnly**|2|The user can only view records.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ End Sub
 |:-----|
 |[Cancel](Project.EventInfo.Cancel.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

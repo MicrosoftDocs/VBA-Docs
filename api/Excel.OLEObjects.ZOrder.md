@@ -45,4 +45,3 @@ MsgBox "The chart's z-order position is " & _
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

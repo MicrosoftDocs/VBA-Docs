@@ -71,4 +71,3 @@ If you double-click any other control besides a command button, the second  **Cl
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

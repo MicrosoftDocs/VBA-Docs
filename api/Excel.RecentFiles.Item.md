@@ -47,4 +47,3 @@ Application.RecentFiles.Item(2).Open
 
 [RecentFiles Object](Excel.RecentFiles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

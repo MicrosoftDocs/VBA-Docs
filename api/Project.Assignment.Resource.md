@@ -20,4 +20,4 @@ Gets the  **[Resource](Project.Resource.md)** object associated with the **[Assi
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [FormatCondition](Excel.FormatConditio
 
 [FormatCondition Object](Excel.FormatCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

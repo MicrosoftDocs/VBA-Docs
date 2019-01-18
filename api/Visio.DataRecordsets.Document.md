@@ -28,4 +28,4 @@ Gets the  **Document** object that contains the **DataRecordsets** collection. R
 
 Document
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -39,4 +39,3 @@ The value of this property can be set to one of the following constants:
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

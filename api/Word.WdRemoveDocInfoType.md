@@ -34,4 +34,3 @@ Specifies the type of information to remove from a document.
 | **wdRDITaskpaneWebExtensions**|17|Removes taskpane web extensions information.|
 | **wdRDIVersions**|3|Removes document version information.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

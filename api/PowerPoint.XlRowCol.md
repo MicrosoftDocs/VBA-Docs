@@ -20,4 +20,3 @@ Specifies whether the values that correspond to a particular data series are in 
 |**xlColumns**|2|The data series is in a row.|
 |**xlRows**|1|The data series is in a column.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

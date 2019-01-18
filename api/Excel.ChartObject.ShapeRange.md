@@ -39,4 +39,3 @@ Set sr = Worksheets(1).ChartObjects.ShapeRange
 
 [ChartObject Object](Excel.ChartObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

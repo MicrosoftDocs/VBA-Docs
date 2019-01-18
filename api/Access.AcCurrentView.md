@@ -29,4 +29,3 @@ Used with the  **CurrentView** property to determine the current view of an obje
 |**acCurViewPreview**|5|The object is in Print Preview.|
 |**acCurViewReportBrowse**|6|The object is in Report view.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

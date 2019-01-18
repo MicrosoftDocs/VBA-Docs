@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagCreationTime**.
 
 [NoteItem Object](Outlook.NoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

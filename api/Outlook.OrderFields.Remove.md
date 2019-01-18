@@ -37,4 +37,3 @@ _expression_ A variable that represents an [OrderFields](./Outlook.OrderFields.m
 
 [OrderFields Object](Outlook.OrderFields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

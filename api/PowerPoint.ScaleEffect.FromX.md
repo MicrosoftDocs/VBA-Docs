@@ -77,4 +77,3 @@ End Sub
 
 [ScaleEffect Object](PowerPoint.ScaleEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

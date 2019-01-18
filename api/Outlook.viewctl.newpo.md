@@ -25,4 +25,4 @@ When the user posts the message, it is posted to the folder that is displayed in
 
 This method has no effect if the folder displayed in the control does not support messages.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

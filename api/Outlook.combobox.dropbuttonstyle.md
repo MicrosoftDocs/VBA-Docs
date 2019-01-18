@@ -37,4 +37,4 @@ The possible values for  **DropButtonStyle** are:
 
 The recommended setting for showing items in a list is 1.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

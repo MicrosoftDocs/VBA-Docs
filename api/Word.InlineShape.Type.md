@@ -29,4 +29,3 @@ Returns the type of inline shape. Read-only  **[WdInlineShapeType](Word.WdInline
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ The path doesn't include a trailing character—for example, "C:\MSOffice" or "h
 
 [StyleSheet Object](Word.StyleSheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

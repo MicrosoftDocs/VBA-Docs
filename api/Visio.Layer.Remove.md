@@ -44,4 +44,4 @@ If the shape is a group and  _fPresMems_ is non-zero, member shapes of the group
 
 Removing a shape from a layer does not delete the shape.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

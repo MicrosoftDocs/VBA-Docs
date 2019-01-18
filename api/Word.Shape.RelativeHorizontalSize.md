@@ -34,4 +34,3 @@ Use this property with the  **[WidthRelative](Word.Shape.WidthRelative.md)** pro
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

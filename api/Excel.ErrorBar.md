@@ -66,4 +66,4 @@ myChart.SeriesCollection(1).ErrorBar _
  Type:=xlErrorBarTypeStError
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

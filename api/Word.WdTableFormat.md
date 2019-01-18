@@ -61,4 +61,3 @@ Specifies the predefined format to apply to a table.
 | **wdTableFormatWeb2**|41|Web format number 2.|
 | **wdTableFormatWeb3**|42|Web format number 3.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

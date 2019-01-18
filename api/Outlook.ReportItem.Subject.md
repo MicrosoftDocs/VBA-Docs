@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagSubject**. The **Subject
 
 [ReportItem Object](Outlook.ReportItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

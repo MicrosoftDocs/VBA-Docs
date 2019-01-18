@@ -44,4 +44,4 @@ Changes Project Guide goal areas by triggering the  **[WindowGoalAreaChange](Pro
 
 Script in the main.html page looks up and loads the appropriate task list page for the new goal area.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

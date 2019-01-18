@@ -45,4 +45,3 @@ nftpTemp.Add FileName:="C:\Sales_Quarterly.mdb", _
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

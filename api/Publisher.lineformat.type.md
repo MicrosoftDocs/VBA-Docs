@@ -32,4 +32,3 @@ Returns the line fill-format type. Read-only.
 
  [LineFormat Object](Publisher.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

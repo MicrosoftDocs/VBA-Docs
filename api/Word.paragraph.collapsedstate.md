@@ -32,4 +32,3 @@ Returns or sets whether the specified paragraph is currently in a collapsed stat
 
 [Paragraph Object](Word.Paragraph.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

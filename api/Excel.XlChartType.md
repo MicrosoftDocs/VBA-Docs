@@ -89,4 +89,3 @@ Specifies the chart type.
 | **xlXYScatterSmooth**|72|Scatter with Smoothed Lines.|
 | **xlXYScatterSmoothNoMarkers**|73|Scatter with Smoothed Lines and No Data Markers.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

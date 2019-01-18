@@ -50,4 +50,3 @@ Set objSession = Application.Session
 
 [SimpleItems Object](Outlook.SimpleItems.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

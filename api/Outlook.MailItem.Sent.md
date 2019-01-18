@@ -34,4 +34,3 @@ In general, there are three different kinds of messages: sent, posted, and saved
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

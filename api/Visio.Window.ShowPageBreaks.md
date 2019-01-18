@@ -33,4 +33,4 @@ Integer
 
 Setting the  **ShowPageBreaks** property is equivalent to selecting **Page Breaks** in the **Show/Hide** group on the **View** tab.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

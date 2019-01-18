@@ -25,4 +25,3 @@ Contains constants that specify the day of the week.
 |**pjTuesday**|3|Tuesday.|
 |**pjWednesday**|4|Wednesday.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Wind
 
 [Windows Collection Object](Word.windows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

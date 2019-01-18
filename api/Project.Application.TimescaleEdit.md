@@ -78,4 +78,4 @@ TimescaleEdit TierCount:=3, _
 
  **Note**  Values for the label time range in the  _TopLabel_, _MajorLabel_, and _MinorLabel_ parameters must be compatible with the time unit of the specified timescale tier. For example, if the time unit of the bottom tier is hours, the parameter value `MinorLabel:=PjDateLabel.pjHour_hhAM` is valid. However, the parameter value `MinorLabel:=PjDateLabel.pjHalfYear_hhh_Half` results in the run time error 1101: "The argument value is not valid."
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

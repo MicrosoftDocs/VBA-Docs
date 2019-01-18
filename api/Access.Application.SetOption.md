@@ -90,4 +90,3 @@ Application.SetOption "Selection Behavior", 1
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

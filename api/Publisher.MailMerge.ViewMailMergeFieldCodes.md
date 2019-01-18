@@ -44,4 +44,4 @@ ActiveDocument.MailMerge.ViewMailMergeFieldCodes = False
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

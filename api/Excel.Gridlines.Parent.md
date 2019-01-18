@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-obje
 
 [Gridlines Object](Excel.Gridlines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

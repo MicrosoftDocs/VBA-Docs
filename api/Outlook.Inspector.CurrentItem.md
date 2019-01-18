@@ -54,4 +54,3 @@ End Sub
 
 [Inspector Object](Outlook.Inspector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

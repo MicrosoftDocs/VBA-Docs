@@ -94,4 +94,3 @@ End Sub
 |[Item](Publisher.ColorsInUse.Item.md)|
 |[Parent](Publisher.ColorsInUse.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -61,4 +61,3 @@ Specifies the predefined format when a range is automatically formatted.
 | **xlRangeAutoFormatTable8**|39|Table 8.|
 | **xlRangeAutoFormatTable9**|40|Table 9.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

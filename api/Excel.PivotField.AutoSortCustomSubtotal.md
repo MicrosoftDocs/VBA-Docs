@@ -53,4 +53,3 @@ If sorting is applied based on a custom subtotal, and that subtotal is removed f
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

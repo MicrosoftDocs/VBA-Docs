@@ -26,4 +26,3 @@ Contains constants that specify the type of driver that affects task recalculati
 |**pjDriverPredecessor**|8|The task driver is a predecessor task.|
 |**pjDriverProjectStart**|16|The task driver is the project start date.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

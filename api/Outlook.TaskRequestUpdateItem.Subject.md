@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagSubject**. The **Subject
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

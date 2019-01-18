@@ -31,4 +31,4 @@ This example sets radar group one to use a different color for each data marker.
 myChart.RadarGroups(1).VaryByCategories = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

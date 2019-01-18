@@ -34,4 +34,3 @@ The parent of the  **[Account](Outlook.Account.md)** object is the **[Accounts](
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

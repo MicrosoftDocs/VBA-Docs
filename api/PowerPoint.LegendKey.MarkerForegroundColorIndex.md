@@ -31,4 +31,3 @@ This property applies only to line, scatter, and radar charts.
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

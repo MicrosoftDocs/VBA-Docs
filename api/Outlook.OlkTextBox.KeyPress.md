@@ -55,4 +55,3 @@ A  **KeyPress** event does not occur under the following conditions:
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

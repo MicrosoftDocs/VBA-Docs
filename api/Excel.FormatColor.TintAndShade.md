@@ -34,4 +34,3 @@ You can enter a number from -1 (darkest) to 1 (lightest) for the  **TintAndShade
 
 [FormatColor Object](Excel.FormatColor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

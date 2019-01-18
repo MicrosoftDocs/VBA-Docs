@@ -36,4 +36,3 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Repo
 
 [ReportItem Object](Outlook.ReportItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

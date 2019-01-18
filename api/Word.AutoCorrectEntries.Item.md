@@ -42,4 +42,3 @@ AutoCorrectEntry
 
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

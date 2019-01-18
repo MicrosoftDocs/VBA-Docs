@@ -25,4 +25,4 @@ Gets or sets a list of the identification numbers of a task's predecessors. Read
 
 If the predecessors of the specified task have identification numbers of 2 and 10, and the list separator character is the comma, the  **Predecessors** property returns "2,10".
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

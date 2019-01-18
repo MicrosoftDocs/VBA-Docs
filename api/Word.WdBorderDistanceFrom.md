@@ -20,4 +20,3 @@ Specifies whether a page border is measured from the edge of the page or from th
 | **wdBorderDistanceFromPageEdge**|1|From the edge of the page.|
 | **wdBorderDistanceFromText**|0|From the text it surrounds.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

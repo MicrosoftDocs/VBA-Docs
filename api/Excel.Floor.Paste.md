@@ -34,4 +34,3 @@ This method can be used on column, bar, line, or radar charts.
 
 [Floor Object](Excel.Floor(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **Boolean** that represents whether a source has been cited in a docu
 
 [Source Object](Word.Source.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

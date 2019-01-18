@@ -34,4 +34,3 @@ The default value is  **acVerticalAnchorTop**.
 
 [Rectangle Object](Access.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

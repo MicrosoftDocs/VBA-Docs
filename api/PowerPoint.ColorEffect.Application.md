@@ -67,4 +67,3 @@ Next
 
 [ColorEffect Object](PowerPoint.ColorEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

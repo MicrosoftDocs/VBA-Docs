@@ -41,4 +41,3 @@ The value of this property corresponds to the setting of the **Display items fro
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

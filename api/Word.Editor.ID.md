@@ -29,4 +29,3 @@ Returns or sets the identifying label for the specified object when the parent d
 
 [Editor Object](Word.Editor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

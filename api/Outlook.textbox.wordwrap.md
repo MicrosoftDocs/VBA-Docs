@@ -25,4 +25,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 For controls that support the  **[MultiLine](Outlook.textbox.multiline.md)** property as well as the **WordWrap** property, **WordWrap** is ignored when **MultiLine** is **False**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

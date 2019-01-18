@@ -40,4 +40,3 @@ Applies a design template to the specified slide range.
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

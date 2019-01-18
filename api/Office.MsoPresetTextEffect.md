@@ -69,4 +69,3 @@ Specifies what text effect to use on a  **WordArt** object. Refer to the **WordA
 |**msoTextEffect9**|8|Ninth text effect.|
 |**msoTextEffectMixed**|-2|Not used.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

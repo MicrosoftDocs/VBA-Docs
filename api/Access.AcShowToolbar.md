@@ -24,4 +24,3 @@ Used with the [DoCmd.ShowToolbar method (Access)](Access.DoCmd.ShowToolbar.md) m
 |**acToolbarWhereApprop**|1|Display the toolbar while in the appropriate view.|
 |**acToolbarYes**|0|Display the toolbar.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

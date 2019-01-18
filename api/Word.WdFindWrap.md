@@ -21,4 +21,3 @@ Specifies wrap behavior if a selection or range is specified for a find operatio
 | **wdFindContinue**|1|The find operation continues if the beginning or end of the search range is reached.|
 | **wdFindStop**|0|The find operation ends if the beginning or end of the search range is reached.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

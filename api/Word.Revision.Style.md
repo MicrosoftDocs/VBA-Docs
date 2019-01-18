@@ -29,4 +29,3 @@ Returns a  **Style** object that represents the style associated with a revision
 
 [Revision Object](Word.Revision.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

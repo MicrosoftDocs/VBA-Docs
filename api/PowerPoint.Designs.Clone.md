@@ -64,4 +64,3 @@ End Sub
 
 [Designs Object](PowerPoint.Designs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

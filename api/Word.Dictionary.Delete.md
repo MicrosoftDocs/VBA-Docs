@@ -29,4 +29,3 @@ Deletes the specified dictionary.
 
 [Dictionary Object](Word.Dictionary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

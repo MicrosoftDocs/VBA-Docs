@@ -67,4 +67,3 @@ End With
 
 [Column Object](PowerPoint.Column.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

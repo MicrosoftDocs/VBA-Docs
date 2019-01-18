@@ -23,4 +23,4 @@ localization_priority: Normal
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -154,4 +154,4 @@ In the Task Usage view, the default field is  **Work**. The following statement 
 Application.UsageViewEntryEx Order:=11, CurIndex:=1, DisplayField:=True, FontColor:=&H10FF10
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -40,4 +40,4 @@ The  **FaceID** property determines a button's icon, but not its function. Use t
 
 The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON** , which is declared in the Visio type library in **[VisUICtrlTypes](Visio.visuictrltypes.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

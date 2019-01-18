@@ -51,4 +51,3 @@ MsgBox "The number of updates is " & countOfUpdates
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

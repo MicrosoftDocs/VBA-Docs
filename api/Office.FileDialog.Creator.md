@@ -30,4 +30,3 @@ Long
 
 - [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

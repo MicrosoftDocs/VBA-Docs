@@ -34,5 +34,3 @@ For built-in controls, if you set the **Enabled** property to **True**, the appl
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ Returns the gap between adjacent member shapes in the list.
 
 If the container is not a list, Microsoft Visio returns an Invalid Source error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

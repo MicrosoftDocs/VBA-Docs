@@ -38,4 +38,3 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

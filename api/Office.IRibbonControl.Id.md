@@ -32,5 +32,3 @@ String
 ## See also
 
 - [IRibbonControl object members](overview/library-reference/iribboncontrol-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

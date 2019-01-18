@@ -36,4 +36,3 @@ After calling this method, the  **HiddenItemsList** / **HiddenItems** and **Visi
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

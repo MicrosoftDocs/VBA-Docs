@@ -34,4 +34,3 @@ You can use the  **[Color](Outlook.ViewFont.Color.md)** property or the **[Exten
 
 [ViewFont Object](Outlook.ViewFont.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

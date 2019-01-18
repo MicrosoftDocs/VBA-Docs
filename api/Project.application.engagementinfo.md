@@ -47,4 +47,3 @@ Displays the engagement information dialog box user interface for the  **Resourc
 
 [Application Object (Project)](Project.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

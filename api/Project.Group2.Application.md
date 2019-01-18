@@ -31,4 +31,3 @@ Application
 
 [Group2 Object](Project.Group2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

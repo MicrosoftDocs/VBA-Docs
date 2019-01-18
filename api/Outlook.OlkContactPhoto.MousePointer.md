@@ -34,4 +34,3 @@ The default value is  **olMousePointerDefault**.
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

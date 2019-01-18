@@ -38,4 +38,3 @@ If you try to set  **UseMemberPropertyAsCaption** to **True** for a PivotField w
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ Source
 
 [Sources Collection](Word.Sources.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

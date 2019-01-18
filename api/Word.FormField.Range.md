@@ -29,4 +29,3 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 [FormField Object](Word.FormField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whe
 |**acTextFormatHTMLRichText**|1|Rich text can be displayed.|
 |**acTextFormatPlain**|0| (Default) Plain text is displayed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

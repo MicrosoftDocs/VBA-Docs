@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 Data pasted into a  **[TextBox](Outlook.textbox.md)** is treated as text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

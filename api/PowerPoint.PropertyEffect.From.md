@@ -38,4 +38,3 @@ Do not confuse this property with the  **FromX** or **FromY** properties of the 
 
 [PropertyEffect Object](PowerPoint.PropertyEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

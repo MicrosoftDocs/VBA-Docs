@@ -34,4 +34,3 @@ The number format is specified using the same format codes displayed on the  **N
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

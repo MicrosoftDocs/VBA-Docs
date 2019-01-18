@@ -52,4 +52,3 @@ End With
 
 [BulletFormat Object](PowerPoint.BulletFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

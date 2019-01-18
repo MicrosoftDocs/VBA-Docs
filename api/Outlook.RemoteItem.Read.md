@@ -31,4 +31,3 @@ The  **Read** event differs from the **[Open](Outlook.RemoteItem.Open.md)** even
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

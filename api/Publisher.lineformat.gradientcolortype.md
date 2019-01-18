@@ -32,4 +32,3 @@ Returns the gradient color type for the specified line. Read-only.
 
  [LineFormat Object](Publisher.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

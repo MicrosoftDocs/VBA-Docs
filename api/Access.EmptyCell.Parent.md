@@ -29,4 +29,3 @@ _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) obje
 
 [EmptyCell Object](Access.EmptyCell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

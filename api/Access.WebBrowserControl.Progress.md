@@ -34,4 +34,3 @@ The  **Progress** property contains -1 when the download operation is complete.
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

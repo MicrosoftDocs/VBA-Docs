@@ -51,4 +51,4 @@ Set vsoValidationRuleSet = vsoDocument.Validation.RuleSets.Add("Connectivity")
 vsoValidationRuleSet.RuleSetFlags = Visio.VisRuleSetFlags.visRuleSetDefault
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

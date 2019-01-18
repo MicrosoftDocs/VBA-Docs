@@ -38,4 +38,3 @@ The shape will always remain on the same page as its anchor. If the  **LockAncho
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

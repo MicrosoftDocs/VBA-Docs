@@ -23,4 +23,3 @@ Specifies which properties of a toolbar are restricted. Options can be combined 
 | **xlNoShapeChanges**|2|No changes to toolbar shape.|
 | **xlToolbarProtectionNone**|-4143|All changes permitted.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

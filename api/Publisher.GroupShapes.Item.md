@@ -49,4 +49,4 @@ Set shpTemp = ActiveDocument.Pages(Index:=1) _
  .Shapes(1).GroupItems.Item(Index:=1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

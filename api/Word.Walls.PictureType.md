@@ -34,4 +34,3 @@ You can set this property to one of the following  **[xlChartPictureType](Word.x
 
 [Walls Object](Word.Walls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

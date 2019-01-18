@@ -61,4 +61,3 @@ End Sub
 [Timing Object](PowerPoint.Timing.md)
 [SlideShowTransition Object](PowerPoint.SlideShowTransition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

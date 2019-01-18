@@ -48,4 +48,3 @@ ActivePresentation.Slides(2).Shapes(5).Table.Cell(1, 1).Split 2, 1
 
 [Cell Object](PowerPoint.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

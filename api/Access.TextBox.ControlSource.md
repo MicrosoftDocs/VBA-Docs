@@ -73,4 +73,3 @@ Me!Expected.ControlSource = "=Date() + 7"
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

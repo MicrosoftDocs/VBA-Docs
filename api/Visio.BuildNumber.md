@@ -40,4 +40,4 @@ The following code gets the build number of Visio Viewer and prints it in the  *
 Debug.Print vsoViewer.BuildNumber
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

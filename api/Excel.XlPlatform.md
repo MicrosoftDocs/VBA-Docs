@@ -21,4 +21,3 @@ Specifies the platform on which a text file originated.
 | **xlMSDOS**|3|MS-DOS|
 | **xlWindows**|2|Microsoft Windows|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

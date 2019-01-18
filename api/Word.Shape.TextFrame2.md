@@ -29,4 +29,3 @@ Returns a  **TextFrame2** object that contains the text for the specified shape.
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,3 @@ The value of the  **Visible** property can be one of these **MsoTriState** const
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

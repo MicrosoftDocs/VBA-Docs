@@ -37,5 +37,3 @@ The container application determines whether the value is a valid macro name.
 ## See also
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

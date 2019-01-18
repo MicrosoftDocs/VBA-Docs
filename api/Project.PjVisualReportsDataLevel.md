@@ -24,4 +24,3 @@ Contains constants that specify the time level of data to use in Visual Reports.
 |**pjLevelWeeks**|3|The time level is weeks.|
 |**pjLevelYears**|0|The time level is years.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

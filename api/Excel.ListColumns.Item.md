@@ -37,4 +37,3 @@ _expression_ A variable that represents a [ListColumns](Excel.ListColumns.md) ob
 
 [ListColumns Object](Excel.ListColumns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

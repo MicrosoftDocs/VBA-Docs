@@ -64,4 +64,3 @@ You can use this event to determine whether a store has been added and take appr
 
 [Stores Object](Outlook.Stores.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ This property applies only to pie chart types.
 
 [Point Object](PowerPoint.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

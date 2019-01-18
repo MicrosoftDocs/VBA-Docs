@@ -26,4 +26,3 @@ Returns the number of objects in the specified collection. Read-only.
 
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

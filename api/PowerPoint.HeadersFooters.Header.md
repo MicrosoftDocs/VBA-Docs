@@ -47,4 +47,3 @@ myHandHF.Header.Text = "Third Quarter Report"
 
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,4 @@ The  **CommandString** property does not apply to data recordsets created by usi
 
 The following sample command string directs Visio to retrieve all data from an Excel worksheet named Sheet1:  `"SELECT * FROM [Sheet1$]"`.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

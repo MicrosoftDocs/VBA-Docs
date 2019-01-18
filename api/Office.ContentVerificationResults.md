@@ -21,4 +21,3 @@ Provides the status of verifying whether the content of a document has changed.
 |**contverresValid**|3|The content of the document has been verified and is valid.|
 |**contverresVerifying**|1|The content of the document is currently being verified.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

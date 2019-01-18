@@ -36,4 +36,3 @@ For more information on accessing properties in Outlook, see [Properties Overvie
 
 [UserProperty Object](Outlook.UserProperty.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

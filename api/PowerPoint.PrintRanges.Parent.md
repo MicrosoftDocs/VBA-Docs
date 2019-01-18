@@ -50,4 +50,3 @@ End With
 
 [PrintRanges Object](PowerPoint.PrintRanges.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

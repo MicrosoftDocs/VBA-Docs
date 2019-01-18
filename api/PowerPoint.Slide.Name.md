@@ -32,4 +32,5 @@ String
 
 You can use the object's name in conjunction with the **Item** method to return a reference to the object if the **Item** method for the collection that contains the object takes a **Variant** argument. For example, if the value of the **Name** property for a shape is Rectangle 2, `.Shapes("Rectangle 2")` will return a reference to that shape.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

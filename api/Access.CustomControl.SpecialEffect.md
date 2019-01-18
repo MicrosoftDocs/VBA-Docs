@@ -57,4 +57,3 @@ Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

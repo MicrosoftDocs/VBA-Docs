@@ -41,4 +41,3 @@ This property can be set to one of the following  **MsoTriState** constants:
 
 [ThreeDFormat Object](Excel.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,3 @@ The  **Read** event differs from the **[Open](Outlook.MeetingItem.Open.md)** eve
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ This property is not surfaced in the property sheet.
 
 [SubForm Object](Access.SubForm.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

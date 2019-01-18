@@ -44,4 +44,3 @@ End If
 
 [XPath Object](Excel.XPath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

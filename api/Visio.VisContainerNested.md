@@ -23,4 +23,3 @@ Specifies whether to include or exclude shapes from nested containers; constants
 | **visContainerIncludeNested**|0|Include shapes that are in nested containers.|
 | **visContainerExcludeNested**|1|Exclude shapes that are in nested containers.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

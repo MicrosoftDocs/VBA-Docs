@@ -41,4 +41,3 @@ The color is specified as an index value into the current color palette, or as o
 
 [Borders Collection](Excel.Borders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

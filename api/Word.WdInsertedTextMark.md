@@ -26,4 +26,3 @@ Specifies the formatting of text that is inserted while change tracking is enabl
 | **wdInsertedTextMarkUnderline**|3|Inserted text is underlined.|
 | **wdInsertedTextMarkDoubleStrikeThrough**|7|Inserted text is marked up by using double-strikethrough characters.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The Data parameter of the  **[Add](Word.Sources.Add.md)** method for the **[Sour
 
 [Source Object](Word.Source.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

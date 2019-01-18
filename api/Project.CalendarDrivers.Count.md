@@ -32,5 +32,3 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [CalendarDrivers Collection Object](Project.calendardrivers.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

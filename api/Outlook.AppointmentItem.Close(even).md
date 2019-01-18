@@ -41,4 +41,3 @@ If you use the  **[Close](Outlook.AppointmentItem.Close(method).md)** method to 
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

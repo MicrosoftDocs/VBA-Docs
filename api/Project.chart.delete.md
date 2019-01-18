@@ -58,5 +58,3 @@ End Sub
 
 [Chart Object](Project.chart.md)
 [Report.Delete Method](Project.report.delete.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,5 @@ If ActiveDocument.Words(10).Information(wdWithInTable) Then _
  ActiveDocument.Words(10).Tables(1).Select
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

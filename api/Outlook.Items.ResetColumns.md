@@ -34,4 +34,3 @@ All properties are accessible after calling the  **ResetColumns** method. **SetC
 
 [Items Object](Outlook.Items.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

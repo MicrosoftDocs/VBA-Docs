@@ -20,4 +20,3 @@ Specifies the horizontal or vertical position of a point on a pie chart, in poin
 | **xlHorizontalCoordinate**|1|The horizontal coordinate (x)|
 | **xlVerticalCoordinate**|2|The vertical coordinate (y)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

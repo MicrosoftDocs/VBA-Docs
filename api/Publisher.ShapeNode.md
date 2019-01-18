@@ -48,4 +48,3 @@ End Sub
 |[Points](Publisher.ShapeNode.Points.md)|
 |[SegmentType](Publisher.ShapeNode.SegmentType.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

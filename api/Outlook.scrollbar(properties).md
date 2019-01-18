@@ -37,5 +37,5 @@ localization_priority: Normal
 -  [ScrollBar.SmallChange Property (Outlook Forms Script)](Outlook.scrollbar.smallchange.md)
     
 -  [ScrollBar.Value Property (Outlook Forms Script)](Outlook.scrollbar.value.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

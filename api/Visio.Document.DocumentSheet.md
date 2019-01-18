@@ -28,4 +28,4 @@ Returns a  **Shape** object whose cells represent properties of the document. Re
 
 Shape
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

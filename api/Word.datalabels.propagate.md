@@ -46,4 +46,3 @@ If the source data label supports fields that are incompatible with the destinat
 
 [DataLabels Collection](Word.DataLabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

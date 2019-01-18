@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ColorScheme](./PowerPoint.ColorScheme
 
 [ColorScheme Object](PowerPoint.ColorScheme.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

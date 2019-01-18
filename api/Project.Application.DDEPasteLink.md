@@ -28,4 +28,4 @@ Pastes the contents of the clipboard into the active selection, establishing a l
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

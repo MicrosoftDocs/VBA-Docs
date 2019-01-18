@@ -66,4 +66,3 @@ Worksheets("Sheet1").Columns("A").Replace _
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents how equations are represented in 
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

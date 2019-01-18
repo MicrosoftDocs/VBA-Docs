@@ -42,4 +42,3 @@ ActiveDocument.Tables.Add Range:=Selection.Range, _
 
 [AutoCaption Object](Word.AutoCaption.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

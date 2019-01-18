@@ -38,4 +38,3 @@ Used as an optional parameter to the [Attachments.Add Method (Outlook)](Outlook.
 [Limit the Size of an Attachment to an Outlook Email Message](../outlook/Concepts/Attachments/limit-the-size-of-an-attachment-to-an-outlook-email-message.md)
 [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

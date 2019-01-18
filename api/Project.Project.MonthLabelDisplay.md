@@ -30,4 +30,4 @@ The  **MonthLabelDisplay** property corresponds to the **Months** list on the **
 
 Values of the  **MonthLabelDisplay** property can be 0 to 2.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -42,4 +42,3 @@ Endnote
 
 [Endnotes Collection Object](Word.endnotes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

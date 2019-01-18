@@ -59,4 +59,4 @@ With myDocument.Shapes(1).ThreeD
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

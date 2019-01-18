@@ -28,4 +28,4 @@ Returns the parent of the  **[InstalledPrinters](Publisher.InstalledPrinters.md)
 
 Object
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

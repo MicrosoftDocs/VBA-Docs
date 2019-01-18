@@ -34,4 +34,3 @@ This property applies only to worksheets and macro sheets.
 
 [WorksheetView Object](Excel.WorksheetView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

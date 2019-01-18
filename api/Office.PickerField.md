@@ -36,5 +36,3 @@ Represents the field definitions of sub-items in a  **PickerResult** object. Eac
 
 
 [Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

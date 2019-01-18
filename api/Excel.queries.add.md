@@ -55,4 +55,4 @@ query1 = ActiveWorkbook.Queries.Add(?query1?, mFormula)
 
 [Queries Object](Excel.queries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

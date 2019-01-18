@@ -42,4 +42,3 @@ Use the  **ScaleProportionally** method to resize a table and maintain the text 
 
 [Table Object](PowerPoint.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

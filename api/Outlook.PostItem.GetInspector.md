@@ -34,4 +34,3 @@ This property is useful for returning an  **Inspector** object in which to displ
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

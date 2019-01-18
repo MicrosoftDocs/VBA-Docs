@@ -49,4 +49,3 @@ MsgBox ActiveDocument.Shapes(1).Hyperlink.Address
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

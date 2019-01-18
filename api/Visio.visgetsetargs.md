@@ -29,4 +29,3 @@ Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults**
 | **visSetTestCircular**|4|Test for establishment of circular cell references.|
 | **visSetUniversalSyntax**|8|Formulas are in universal syntax.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

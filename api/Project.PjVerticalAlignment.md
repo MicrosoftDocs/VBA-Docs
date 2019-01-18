@@ -21,4 +21,3 @@ Contains constants that specify the vertical alignment.
 |**pjMiddle**|1|Middle.|
 |**pjTop**|0|Top.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

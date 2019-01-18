@@ -35,4 +35,4 @@ The  **posttime** property corresponds to the **time** member of the **MSG** str
 
 For details, search for "MSG structure" on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

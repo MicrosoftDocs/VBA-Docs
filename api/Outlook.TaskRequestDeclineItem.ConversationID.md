@@ -38,4 +38,3 @@ If the  **TaskRequestDeclineItem** object is created in a version of Microsoft O
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

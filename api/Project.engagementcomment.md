@@ -36,4 +36,3 @@ A collection of  **EngagementComment** objects. Introduced in Office 2016.
 |[Message](Project.engagementcomment.message.md)|
 |[Parent](Project.engagementcomment.parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

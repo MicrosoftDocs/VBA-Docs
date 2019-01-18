@@ -44,4 +44,3 @@ Documents(1).PageSetup.PaperSize = wdPaperLegal
 
 [PageSetup Object](Word.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

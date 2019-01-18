@@ -34,4 +34,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [LinkFormat Object](Excel.LinkFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

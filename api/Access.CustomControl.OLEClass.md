@@ -49,4 +49,3 @@ MsgBox "The OLE class = " & Forms("Order Entry").Controls("Customer Picture").OL
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

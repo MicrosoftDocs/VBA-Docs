@@ -46,4 +46,3 @@ Next objPO
 
 [PublishObject Object](Excel.PublishObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

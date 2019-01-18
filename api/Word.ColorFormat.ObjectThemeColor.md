@@ -29,4 +29,3 @@ localization_priority: Normal
 
 [ColorFormat Object](Word.ColorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

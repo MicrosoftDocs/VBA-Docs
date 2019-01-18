@@ -40,4 +40,3 @@ Returns the reply as a  **[MailItem](Outlook.MailItem.md)** object.
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

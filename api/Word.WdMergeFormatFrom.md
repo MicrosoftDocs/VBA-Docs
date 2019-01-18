@@ -21,4 +21,3 @@ Specifies the document from which to retain formatting during a document compare
 | **wdMergeFormatFromPrompt**|2|Prompt the user for the document to use for formatting.|
 | **wdMergeFormatFromRevised**|1|Retains formatting from the revised document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

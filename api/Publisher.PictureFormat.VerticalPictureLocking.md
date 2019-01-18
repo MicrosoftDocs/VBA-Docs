@@ -54,4 +54,4 @@ With ActiveDocument.Pages(1).Shapes(1).PictureFormat
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

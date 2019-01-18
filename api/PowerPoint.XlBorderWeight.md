@@ -22,4 +22,3 @@ Specifies the weight of the border around a range.
 |**xlThick**|4|A thick border (widest border).|
 |**xlThin**|2|A thin border.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

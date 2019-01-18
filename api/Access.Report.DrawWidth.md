@@ -38,4 +38,3 @@ Increase the value of this property to increase the width of the line. If the  *
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

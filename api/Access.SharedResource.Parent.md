@@ -29,4 +29,3 @@ _expression_ A variable that represents a [SharedResource](Access.SharedResource
 
 [SharedResource Object](Access.SharedResource.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

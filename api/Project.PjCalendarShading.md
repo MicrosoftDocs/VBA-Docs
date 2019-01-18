@@ -24,4 +24,3 @@ Contains constants that specify shading in the Calendar.
 |**pjResourceNonworking**|4|Nonworking days in a resource calendar.|
 |**pjResourceWorking**|3|Working days in a resource calendar.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

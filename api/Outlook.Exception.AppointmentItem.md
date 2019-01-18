@@ -186,4 +186,3 @@ End Sub
 
 [Exception Object](Outlook.Exception.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

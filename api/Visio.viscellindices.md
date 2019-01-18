@@ -489,4 +489,3 @@ Specifies logical indices of cells in ShapeSheet rows of  **[Shape](Visio.Shape.
 | **visYRulerOrigin**|5|YRulerOrigin Cell (Ruler & Grid Section)|
 | **visY**|1|Y Cell (Geometry Section)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

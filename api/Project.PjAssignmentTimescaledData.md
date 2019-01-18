@@ -108,4 +108,3 @@ Contains constants that specify a field for timescaled data in the Project datab
 |**pjAssignmentTimescaledSV**|37|Represents the SV (Assignment) field.|
 |**pjAssignmentTimescaledWork**|8|Represents the Work (Assignment) field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

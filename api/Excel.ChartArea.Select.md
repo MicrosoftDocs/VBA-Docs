@@ -34,4 +34,3 @@ A Variant value that represents the selected object.
 
 [ChartArea Object](Excel.ChartArea(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

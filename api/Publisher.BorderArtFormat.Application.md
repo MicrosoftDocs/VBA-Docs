@@ -57,4 +57,3 @@ Next
 
  [BorderArtFormat Object](Publisher.BorderArtFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

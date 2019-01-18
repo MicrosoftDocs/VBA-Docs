@@ -34,4 +34,3 @@ A  **RecurrencePattern** that represents the recurrence attributes of the task.
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

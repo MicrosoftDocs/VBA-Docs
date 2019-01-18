@@ -34,4 +34,3 @@ This object or member is part of the shared chart object model infrastructure be
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

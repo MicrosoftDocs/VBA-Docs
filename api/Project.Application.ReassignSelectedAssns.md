@@ -62,4 +62,4 @@ The following line of code changes the assignments to unassigned.
 ReassignSelectedAssns ResourceID:=-65535
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

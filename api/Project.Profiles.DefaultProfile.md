@@ -25,5 +25,3 @@ Gets or sets a  **[Profile](Project.Profile.md)** object that represents the def
 
 
 [Profiles Collection Object](Project.profiles.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

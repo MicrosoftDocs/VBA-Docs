@@ -51,4 +51,3 @@ Forms("International Shipping").Controls("Address").ReadingOrder = 2
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ For information about returning a single member of a collection, see [Returning 
 
 [Frame Object](Word.Frame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

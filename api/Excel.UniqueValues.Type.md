@@ -34,4 +34,3 @@ This property will always return a  **Long** value of "8", which is equivalent t
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

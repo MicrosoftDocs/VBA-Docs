@@ -22,4 +22,3 @@ Not used with PowerPoint.
 |**msoAnimEffectAfterRemove**|2|After remove.|
 |**msoAnimEffectAfterTransition**|4|After transition.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

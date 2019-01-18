@@ -28,4 +28,4 @@ Returns the identifier of the  **[Page](Visio.Page.md)** object that is associat
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -78,4 +78,3 @@ ActiveDocument.Envelope.PrintOut Address:=recep, _
 
 [Envelope Object](Word.Envelope.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

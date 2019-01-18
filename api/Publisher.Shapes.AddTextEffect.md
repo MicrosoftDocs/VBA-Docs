@@ -88,4 +88,4 @@ Set shpWordArt = ActiveDocument.Pages(1).Shapes.AddTextEffect _
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

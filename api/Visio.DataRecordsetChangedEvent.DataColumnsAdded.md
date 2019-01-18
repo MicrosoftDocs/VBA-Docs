@@ -31,4 +31,4 @@ After data in a data recordset are refreshed, returns an array of names of data 
 
 String()
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

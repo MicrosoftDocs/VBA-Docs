@@ -48,4 +48,3 @@ The value of the  **PathFormat** property can be one of these **MsoPathType** co
 
 [TextFrame2 Object](PowerPoint.TextFrame2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

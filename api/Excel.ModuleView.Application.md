@@ -22,4 +22,3 @@ This object or member has been deprecated, but it remains part of the object mod
 
 [ModuleView Object](Excel.ModuleView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

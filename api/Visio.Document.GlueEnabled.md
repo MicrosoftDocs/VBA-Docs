@@ -33,4 +33,4 @@ Boolean
 
 The value of the  **GlueEnabled** property corresponds to the setting of the **Glue** check box on the **General** tab in the **Snap & Glue** dialog box (on the **View** tab, click the **Visual Aids** arrow).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Inserts a new page at the position of the Insertion Point.
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

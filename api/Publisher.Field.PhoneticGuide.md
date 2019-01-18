@@ -40,4 +40,3 @@ Sub AddPhoneticText()
  (Range:=Selection.TextRange, Text:="ver-E nIs") 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,4 @@ This example saves the chart in Microsoft Graph version 5.0 file format.
 myChart.Application.SaveAsOldFileFormat MajorVersion:=5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

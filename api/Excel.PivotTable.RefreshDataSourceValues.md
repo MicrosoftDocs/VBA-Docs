@@ -43,4 +43,3 @@ This method applies only to PivotTable reports with OLAP data sources. Trying to
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

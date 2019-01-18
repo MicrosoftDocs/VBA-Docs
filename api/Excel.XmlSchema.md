@@ -31,4 +31,4 @@ Use the  **[XML](Excel.XmlSchema.XML.md)** property to return the XML contents o
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -61,4 +61,3 @@ The following example checks for a conflict between the local and the server cop
 
 [Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

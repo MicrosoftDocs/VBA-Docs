@@ -21,4 +21,3 @@ Contains constants that specify the type of Gnatt bar links.
 |**pjToEnd**|2|At the end.|
 |**pjToTop**|1|At the top.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

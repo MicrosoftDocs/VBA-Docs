@@ -54,4 +54,3 @@ objFirst = saPage.Shapes(1)
 |[Parent](Publisher.ScratchArea.Parent.md)|
 |[Shapes](Publisher.ScratchArea.Shapes.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

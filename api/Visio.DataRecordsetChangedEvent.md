@@ -28,4 +28,4 @@ When data recordset rows are added, changed, or deleted, and when data recordset
 
 All properties of the  **DataRecordsetChangedEvent** object are read-only.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

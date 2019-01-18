@@ -46,4 +46,3 @@ objCC.DropdownListEntries.Clear
 
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

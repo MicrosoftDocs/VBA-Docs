@@ -47,4 +47,3 @@ If Selection.Style = "Normal" Then _
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

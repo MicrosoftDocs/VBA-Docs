@@ -26,4 +26,4 @@ This example makes negative bubbles visible for chart group one.
 myChart.ChartGroups(1).ShowNegativeBubbles = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

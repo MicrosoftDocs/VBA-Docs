@@ -31,4 +31,4 @@ This example sets the space between bar clusters in the 2-D bar chart group to b
 myChart.BarGroups(1).GapWidth = 50
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -67,5 +67,7 @@ Following is the default map list in Project:
 - Cost data by task
     
 - Compare to Baseline
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

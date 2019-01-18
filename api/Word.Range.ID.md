@@ -29,4 +29,3 @@ Returns or sets the identification name for the specified range. Read/write  **S
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

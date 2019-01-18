@@ -29,4 +29,3 @@ _expression_ A variable that represents a [PlaySoundRuleAction](./Outlook.PlaySo
 
 [PlaySoundRuleAction Object](Outlook.PlaySoundRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

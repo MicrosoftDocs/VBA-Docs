@@ -29,4 +29,3 @@ Returns the document that contains the comment. Read-only  ** **[Document](Visio
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the [Document](Visio.Document.md) object that is associated with an obje
 
 [Comments Collection](Visio.comments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

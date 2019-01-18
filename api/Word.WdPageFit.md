@@ -22,4 +22,3 @@ Specifies the view setting for a page.
 | **wdPageFitNone**|0|Do not adjust the view settings for the page.|
 | **wdPageFitTextFit**|3|Best fit the text of the page to the active window.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

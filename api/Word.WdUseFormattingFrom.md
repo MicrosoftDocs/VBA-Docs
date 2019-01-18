@@ -21,4 +21,3 @@ Specifies a source to copy formatting from.
 | **wdFormattingFromPrompt**|2|Prompt the user for formatting to use.|
 | **wdFormattingFromSelected**|1|Copy source formatting from the current selection.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

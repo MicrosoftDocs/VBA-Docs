@@ -255,4 +255,3 @@ Represents one project in the set of open projects. The  **Project** object is a
 |[WriteReserved](./Project.Project.WriteReserved.md)|
 |[YearLabelDisplay](./Project.Project.YearLabelDisplay.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

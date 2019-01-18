@@ -39,4 +39,3 @@ MsgBox "Number of pages in TabCtl1:" & TabCtl1.Pages.Count
 
 [Control Object](Access.Control.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

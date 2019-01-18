@@ -28,4 +28,4 @@ Gets or sets the value of the  **Hyperlink base** box in a document's **Properti
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

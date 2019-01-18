@@ -44,4 +44,3 @@ ActiveDocument.Shapes(1).WrapFormat.AllowOverlap = True
 
 [WrapFormat Object](Word.WrapFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

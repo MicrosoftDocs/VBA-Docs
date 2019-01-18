@@ -29,4 +29,3 @@ Returns a  **Range** object that represents the portion of a document that is co
 
 [TableOfAuthorities Object](Word.TableOfAuthorities.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

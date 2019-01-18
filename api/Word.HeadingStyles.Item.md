@@ -42,4 +42,3 @@ HeadingStyle
 
 [HeadingStyles Collection Object](Word.headingstyles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

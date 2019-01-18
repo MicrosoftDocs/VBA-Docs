@@ -66,4 +66,3 @@ Represents the font script for a text range.
 | **pbFontScriptTibetan**|19|Tibetan|
 | **pbFontScriptYi**|27|Yi|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

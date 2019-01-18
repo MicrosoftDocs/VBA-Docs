@@ -39,4 +39,3 @@ Worksheets("Sheet1").PageSetup.RightHeader = "&F"
 
 [PageSetup Object](Excel.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

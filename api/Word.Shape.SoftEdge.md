@@ -29,4 +29,3 @@ Returns a  **[SoftEdgeFormat](Word.SoftEdgeFormat.md)** object that represents t
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

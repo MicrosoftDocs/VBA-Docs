@@ -30,4 +30,3 @@ _expression_. `Application`
 
 [PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

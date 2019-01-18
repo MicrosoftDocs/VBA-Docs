@@ -39,4 +39,3 @@ Worksheets(1).ChartObjects(1).LockedText = True
 
 [ControlFormat Object](Excel.ControlFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

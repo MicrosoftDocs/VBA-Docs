@@ -21,4 +21,3 @@ Contains constants that specify the type of email system.
 |**pjMAPICompatible**|2|Email system that is compatible with MAPI .|
 |**pjNoMailSystem**|0|Unrecognized or missing email system.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

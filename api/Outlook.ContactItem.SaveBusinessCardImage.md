@@ -42,4 +42,3 @@ This method generates an image, as a Portable Network Graphics (.png) file, of t
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents an 'OlkControl' object.
 
 [OlkControl Class](Outlook.olkcontrol.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

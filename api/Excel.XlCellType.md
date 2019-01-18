@@ -28,4 +28,3 @@ Specifies the type of cells.
 | **xlCellTypeSameValidation**|-4175|Cells having the same validation criteria.|
 | **xlCellTypeVisible**|12|All visible cells.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -75,4 +75,3 @@ AutoCorrect.OtherCorrectionsExceptions.Add Name:="myCompany"
 
 [TwoInitialCapsExceptions Collection Object](Word.twoinitialcapsexceptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

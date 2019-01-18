@@ -41,4 +41,4 @@ The index order of graphic items affects the stacking order for multiple grpahic
 
  **Note**  Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master that contains the graphic item for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

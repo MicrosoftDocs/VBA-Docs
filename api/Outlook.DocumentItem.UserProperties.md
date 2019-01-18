@@ -34,4 +34,3 @@ Even though  **olWordDocumentItem** is a valid constant in the **[OlItemType](Ou
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

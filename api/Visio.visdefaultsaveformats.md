@@ -27,4 +27,3 @@ These options correspond to those available in the  **Save files in this format*
 | **visDefaultSaveCurrentMacroEnabled**|3|Macro-enabled file format for current version of Visio.|
 | **visDefaultSavePreviousBinary**|1|Binary format for previous version of Visio (11.0).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

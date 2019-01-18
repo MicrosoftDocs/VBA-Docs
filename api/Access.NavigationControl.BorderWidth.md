@@ -47,4 +47,3 @@ The exact border width depends on your computer and printer. On some systems, th
 
 [NavigationControl Object](Access.NavigationControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

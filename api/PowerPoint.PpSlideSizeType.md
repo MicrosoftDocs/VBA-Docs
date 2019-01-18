@@ -32,4 +32,3 @@ Constants that specify the size type for the slide, passed to and returned by th
 |**ppSlideSizeOnScreen**|1|On Screen|
 |**ppSlideSizeOverhead**|5|Overhead|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

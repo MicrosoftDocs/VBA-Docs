@@ -20,4 +20,3 @@ Specifies whether Microsoft Word automatically resizes cells in a table to fit t
 | **wdWord8TableBehavior**|0|Disables AutoFit. Default.|
 | **wdWord9TableBehavior**|1|Enables AutoFit.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

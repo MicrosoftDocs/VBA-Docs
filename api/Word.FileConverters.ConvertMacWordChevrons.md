@@ -47,4 +47,3 @@ Documents.Open FileName:="C:\Documents\Mac Word Document"
 
 [FileConverters Collection Object](Word.fileconverters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

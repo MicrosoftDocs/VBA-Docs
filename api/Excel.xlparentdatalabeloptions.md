@@ -23,4 +23,3 @@ Constants passed to and returned by the **Series.ParentDataLabelOption** propert
 
 - [Series.ParentDataLabelOption](Excel.series.parentdatalabeloption.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

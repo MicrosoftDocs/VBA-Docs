@@ -29,4 +29,3 @@ Returns a  **[GlowFormat](Word.GlowFormat.md)** object that represents the glow 
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

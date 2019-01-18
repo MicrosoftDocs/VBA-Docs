@@ -45,4 +45,3 @@ This property returns  **Null** (**Nothing** in Visual Basic) if no inline respo
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

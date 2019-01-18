@@ -36,4 +36,3 @@ On a protected sheet, this property returns the next unlocked cell. On an unprot
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

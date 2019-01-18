@@ -34,4 +34,3 @@ Multiple recipients are evaluated using the logical OR operation.
 
 [SendRuleAction Object](Outlook.SendRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

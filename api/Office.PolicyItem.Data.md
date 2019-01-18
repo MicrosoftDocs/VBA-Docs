@@ -43,4 +43,3 @@ For example, the policy item might contain code to transform the document into a
 
 [PolicyItem Object Members](./overview/Library-Reference/policyitem-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

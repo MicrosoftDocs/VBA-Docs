@@ -46,4 +46,3 @@ Me.ctl.BackTint=25
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

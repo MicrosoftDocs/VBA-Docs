@@ -34,4 +34,3 @@ Double
 
 [DisplayUnitLabel Object](PowerPoint.DisplayUnitLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -61,4 +61,3 @@ Selection.EndKey Unit:=wdStory, Extend:=wdMove
 
 - [Selection object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

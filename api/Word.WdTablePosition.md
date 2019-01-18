@@ -25,4 +25,3 @@ Specifies the relative position of a table in the document.
 | **wdTableRight**|-999996|Aligned to the right side of the document.|
 | **wdTableTop**|-999999|At the top of the document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property is set to the value of the  **[FullName](Outlook.ContactItem.FullN
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -87,5 +87,3 @@ End Sub
 [Report Object](Project.report.md)
 [AlignTableCellTop Method](Project.application.aligntablecelltop.md)
 [AligntableCellBottom Method](Project.application.aligntablecellbottom.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

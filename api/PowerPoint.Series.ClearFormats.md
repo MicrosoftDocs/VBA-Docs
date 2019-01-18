@@ -26,4 +26,3 @@ Clears the formatting of the object.
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ You can assign the icon set by using the  **[IconSets](Excel.Workbook.IconSets.m
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

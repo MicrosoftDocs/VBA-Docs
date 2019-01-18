@@ -108,4 +108,3 @@ End Sub
 
 [Referencing Properties by Namespace](../outlook/How-to/Navigation/referencing-properties-by-namespace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

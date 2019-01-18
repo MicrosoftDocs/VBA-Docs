@@ -62,4 +62,3 @@ Given a value for probability, GAMMAINV seeks that value x such that GAMMADIST(x
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

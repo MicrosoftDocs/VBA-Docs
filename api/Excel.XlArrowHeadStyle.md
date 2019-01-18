@@ -21,4 +21,3 @@ Specifies the type of arrowhead to apply at the end of a line.
 | **xlArrowHeadStyleNone**|-4142|No arrowhead.|
 | **xlArrowHeadStyleOpen**|2|Large triangular arrowhead.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

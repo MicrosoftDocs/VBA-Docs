@@ -44,4 +44,4 @@ The  **DefaultView** property can be the name of a custom view or one of the fol
 
 The default value is "Gantt with Timeline".
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

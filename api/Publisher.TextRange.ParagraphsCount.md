@@ -28,4 +28,4 @@ Returns the number of paragraphs of text in the text range represented by the pa
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

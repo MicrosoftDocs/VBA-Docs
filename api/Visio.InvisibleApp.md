@@ -38,4 +38,4 @@ Use the  **ActiveDocument** , **ActivePage** , or **ActiveWindow** property to r
 
  **Note**  Code in the Microsoft Visual Basic for Applications (VBA) project of a Visio document can use the Visio global object instead of a Visio  **Invisible App** object to retrieve other objects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

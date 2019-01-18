@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ShadowFormat](./Excel.ShadowFormat.md
 
 [ShadowFormat Object](Excel.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

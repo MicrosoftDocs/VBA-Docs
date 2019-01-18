@@ -67,4 +67,3 @@ Next
 
 [TimeLine Object](PowerPoint.TimeLine.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

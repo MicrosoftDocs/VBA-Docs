@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Page](Excel.Page.md) object.
 
 [Page Object](Excel.Page.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

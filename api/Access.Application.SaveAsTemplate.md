@@ -53,4 +53,3 @@ Templates created by the  **SaveAsTemplate** method cannot be used in Microsoft 
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

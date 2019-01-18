@@ -47,4 +47,3 @@ The cut range must be made up of adjacent cells.
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

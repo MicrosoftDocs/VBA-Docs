@@ -77,4 +77,3 @@ ActiveDocument.SaveAs _
 
 [FileConverter Object](Word.FileConverter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

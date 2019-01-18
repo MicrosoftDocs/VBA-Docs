@@ -63,4 +63,3 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,4 +56,3 @@ End Sub
 
 [OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

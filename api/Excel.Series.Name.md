@@ -34,4 +34,3 @@ You can reference using R1C1 notation, for example, "=Sheet1!R1C1".
 
 [Series Object](Excel.Series(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

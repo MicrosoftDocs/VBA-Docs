@@ -22,4 +22,3 @@ Specifies the language to use to determine which line break level is used when t
 |**MsoFarEastLineBreakLanguageSimplifiedChinese**|2052|SimplifiedChinese|
 |**MsoFarEastLineBreakLanguageTraditionalChinese**|1028|TraditionalChinese|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

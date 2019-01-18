@@ -28,4 +28,3 @@ Use the  **[Horizontal](Excel.SparkAxes.Horizontal.md)** property of the **[Spar
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

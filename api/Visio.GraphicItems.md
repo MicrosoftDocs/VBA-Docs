@@ -31,4 +31,4 @@ Use the  **[DataGraphic](Visio.GraphicItem.DataGraphic.md)** property to return 
 
  **Note**  You must create masters of type  **visTypeDataGraphic** by using the Visio user interface—you cannot create them programmatically. For more information about creating these masters, search for "data graphics" in Visio end-user Help.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

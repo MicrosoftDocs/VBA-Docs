@@ -42,4 +42,4 @@ Integer
 
 Use section and row index constants declared by the Visio type library in members  **[VisSectionIndices](Visio.vissectionindices.md)** and **[VisRowIndices](Visio.visrowindices.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

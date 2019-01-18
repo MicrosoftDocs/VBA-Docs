@@ -29,4 +29,3 @@ Deletes the specified style.
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

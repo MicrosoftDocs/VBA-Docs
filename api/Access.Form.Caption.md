@@ -40,4 +40,3 @@ Include two ampersands (&&) in the setting for a caption if you want to display 
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

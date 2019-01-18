@@ -34,4 +34,3 @@ Returns a **Boolean** that represents whether a style is a linked style that can
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

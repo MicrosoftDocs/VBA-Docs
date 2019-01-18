@@ -44,4 +44,3 @@ End If
 
 [RecentFile Object](Excel.RecentFile.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ Specifies whether to expand the container to accommodate the new member(s) or to
 | **visMemberAddExpandContainer**|1|Expand the container to fit the incoming shape(s).|
 | **visMemberAddDoNotExpand**|2|Do not expand the container to fit the incoming shape(s).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

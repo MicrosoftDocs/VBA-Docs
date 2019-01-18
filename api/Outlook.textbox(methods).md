@@ -17,5 +17,5 @@ localization_priority: Normal
 -  [TextBox.Cut Method (Outlook Forms Script)](Outlook.textbox.cut.md)
     
 -  [TextBox.Paste Method (Outlook Forms Script)](Outlook.textbox.paste.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

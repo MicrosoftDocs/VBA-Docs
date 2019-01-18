@@ -99,4 +99,3 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

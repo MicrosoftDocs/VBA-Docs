@@ -40,4 +40,4 @@ Debug.Print ThisDocument.MailMerge.EmailMergeEnvelope.Cc.Name
 
 For an example of how to set the  **Cc** property value, see the **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.md)** object topic.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -33,5 +33,3 @@ Gets a  **[Task](Project.Task.md)** object from its containing collection. Read-
 
 
 [Tasks Collection Object](Project.tasks(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

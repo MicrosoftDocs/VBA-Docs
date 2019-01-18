@@ -36,4 +36,3 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets the total slack time for a task in minutes. Read-only  **Variant**.
 
 The total slack is the amount of time that a task finish date can be delayed without delaying the project finish date.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

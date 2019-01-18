@@ -36,4 +36,3 @@ The  **Address** property must be set before calling the **[ExchangeUser.Details
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

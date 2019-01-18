@@ -36,4 +36,3 @@ Returns  **True** if the label filter is based on PivotItem captions of a member
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

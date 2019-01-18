@@ -81,4 +81,3 @@ UI object-set identifiers, used with the  **SetID** and **ItemAtID** properties 
 | **visUIObjSetShapeSheet**|4|ShapeSheet window is active.|X|X|X|
 | **visUIObjSetStencil**|3|Stencil window is active.|X|X|X|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

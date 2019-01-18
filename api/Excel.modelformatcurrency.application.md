@@ -42,4 +42,4 @@ End If
 
 [ModelFormatCurrency Object](Excel.modelformatcurrency.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

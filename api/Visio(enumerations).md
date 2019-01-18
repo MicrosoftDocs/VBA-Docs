@@ -168,5 +168,3 @@ This section contains documentation for the enumerations in the Visio object mod
 - [VisWindowStates](Visio.viswindowstates.md)
 - [VisWinTypes](Visio.viswintypes.md)
 - [VisZoomBehavior](Visio.viszoombehavior.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

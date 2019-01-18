@@ -34,4 +34,3 @@ A message is always created and submitted in a folder, usually the  **Outbox**.
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The Electronic Business Card can be either in Microsoft Office InterConnect form
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

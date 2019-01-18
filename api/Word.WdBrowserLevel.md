@@ -21,4 +21,3 @@ Specifies the version of Web browser at which you want to target new Web pages c
 | **wdBrowserLevelMicrosoftInternetExplorer6**|2|Microsoft Internet Explorer 6.|
 | **wdBrowserLevelV4**|0|Microsoft Internet Explorer 4.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

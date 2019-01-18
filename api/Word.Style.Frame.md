@@ -50,4 +50,3 @@ Selection.Paragraphs(1).Range.Style = "frame"
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

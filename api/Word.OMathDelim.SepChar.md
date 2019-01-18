@@ -29,4 +29,3 @@ Returns or sets an  **Integer** that represents the separator character in a del
 
 [OMathDelim Object](Word.OMathDelim.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

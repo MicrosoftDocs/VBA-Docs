@@ -78,4 +78,3 @@ The following example attempts to resolve a conflict by merging changes between 
 
 [Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

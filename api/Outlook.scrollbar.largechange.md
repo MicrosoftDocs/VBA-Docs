@@ -32,4 +32,4 @@ The value of  **LargeChange** is the amount by which the **ScrollBar** control's
 
  **LargeChange** does not have units. Any integer is a valid setting for **LargeChange**. The recommended range of values is from -32,767 to +32,767, and the value must be between the values of the  **[Max](Outlook.scrollbar.max.md)** and **[Min](Outlook.scrollbar.min.md)** properties of the **ScrollBar**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

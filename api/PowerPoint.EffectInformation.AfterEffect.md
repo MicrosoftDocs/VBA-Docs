@@ -61,4 +61,3 @@ End With
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

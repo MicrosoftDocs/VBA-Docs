@@ -62,4 +62,4 @@ To specify language and calendary versions for Date/Time fields, use the  **AddF
 
 Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)** , **[VisFieldCodes](Visio.visfieldcodes.md)** , and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

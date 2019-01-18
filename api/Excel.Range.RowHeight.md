@@ -54,4 +54,3 @@ End With
 - [Slicer.RowHeight property](Excel.Slicer.RowHeight.md)
 - [Range object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

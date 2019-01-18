@@ -34,4 +34,3 @@ Panning mode changes the mouse pointer to a hand and enables the user to press a
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

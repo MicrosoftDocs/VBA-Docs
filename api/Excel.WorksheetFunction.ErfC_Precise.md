@@ -47,4 +47,3 @@ If the specified value is nonnumeric,  **ErfC_Precise** generates an error.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

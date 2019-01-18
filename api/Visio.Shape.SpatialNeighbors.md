@@ -133,4 +133,4 @@ Public Sub Document_ShapeAdded(ByVal Shape As IVShape)
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

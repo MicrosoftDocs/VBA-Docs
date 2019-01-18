@@ -41,4 +41,3 @@ If a control's  **HelpContextID** property setting is 0 (the default), Microsoft
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

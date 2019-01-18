@@ -191,5 +191,3 @@ Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property of the **[Navigat
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

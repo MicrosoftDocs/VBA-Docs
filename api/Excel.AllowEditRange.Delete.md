@@ -29,4 +29,3 @@ _expression_ A variable that represents an [AllowEditRange](Excel.AllowEditRange
 
 [AllowEditRange Object](Excel.AllowEditRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

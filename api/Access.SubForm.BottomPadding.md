@@ -29,4 +29,3 @@ _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
 [SubForm Object](Access.SubForm.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

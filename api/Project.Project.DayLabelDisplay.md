@@ -27,4 +27,4 @@ The  **DayLabelDisplay** property corresponds to the **Days** list on the **Adva
 
 Values of the  **DayLabelDisplay** property can be 0 to 2.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

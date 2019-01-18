@@ -33,4 +33,4 @@ Boolean
 
 The setting of the  **UseWizardForBlankPublication** property corresponds to the setting of the **Use a wizard for blank publications** check box on the **User Assistance** tab of the **Options** dialog box (**Tools** menu).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

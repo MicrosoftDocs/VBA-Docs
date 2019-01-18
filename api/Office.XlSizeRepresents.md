@@ -20,4 +20,3 @@ Indicates what the size measurement is in relation to.
 |**xlSizeIsArea**|1|The size measure is for the area.|
 |**xlSizeIsWidth**|2|The size measure is for the width.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

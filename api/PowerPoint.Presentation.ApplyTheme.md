@@ -56,4 +56,3 @@ ActivePresentation.ApplyTheme "C:\Program Files\Microsoft Office\Templates\MyThe
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

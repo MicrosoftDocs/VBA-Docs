@@ -29,4 +29,3 @@ Returns the index position of the bookmark. Read-only.
 
 [MediaBookmark Object](PowerPoint.MediaBookmark.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

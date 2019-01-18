@@ -53,4 +53,3 @@ If n is the number of data points in a range, then LARGE(array,1) returns the la
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

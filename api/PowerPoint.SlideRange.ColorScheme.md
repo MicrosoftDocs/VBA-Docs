@@ -46,4 +46,3 @@ mySlides.ColorScheme.Colors(ppTitle).RGB = RGB(0, 255, 0)
 
 [SlideRange Object](PowerPoint.SlideRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

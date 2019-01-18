@@ -57,4 +57,4 @@ The following possible values for the  **HorizontalPosition** property are from 
 > [!NOTE] 
 > Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open for editing a copy of the data graphic master whose **GraphicItems** collection the graphic item belongs to. When you are finished setting properties, use the **Master.Close** method to commit changes.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

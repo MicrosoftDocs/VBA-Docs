@@ -34,4 +34,3 @@ If the application window is minimized, this property controls the position of t
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

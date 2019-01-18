@@ -42,4 +42,3 @@ A [Series object (Excel)](Excel.Series(object).md) object contained in the colle
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

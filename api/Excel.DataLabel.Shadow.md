@@ -29,4 +29,3 @@ _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-prop
 
 [DataLabel Object](Excel.DataLabel(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

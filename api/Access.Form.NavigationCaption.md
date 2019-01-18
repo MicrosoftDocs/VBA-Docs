@@ -34,4 +34,3 @@ Although  **Record:** appears to the left of the navigation buttons by default, 
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

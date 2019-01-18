@@ -46,4 +46,3 @@ Set objNode = ActiveDocument.XMLNodes(2).NextSibling
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

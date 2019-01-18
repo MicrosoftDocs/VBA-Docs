@@ -44,4 +44,3 @@ End If
 
 [SeriesLines Object](Word.SeriesLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

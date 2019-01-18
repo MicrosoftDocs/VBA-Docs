@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseMove
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

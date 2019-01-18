@@ -28,4 +28,4 @@ Gets or sets the alignment of data in a table field. Read/write  **PjAlignment**
 
 Can be one of the following  **[PjAlignment](Project.PjAlignment.md)** constants: **pjCenter**, **pjLeft**, or **pjRight**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

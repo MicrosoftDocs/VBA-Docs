@@ -58,4 +58,3 @@ When using the  **Item** property to reference a specific member of a collection
 
 [PivotItem Object](Excel.PivotItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

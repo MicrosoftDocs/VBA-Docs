@@ -39,4 +39,3 @@ Worksheets(1).Shapes(1).Hyperlink.SubAddress = "A1:B10"
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

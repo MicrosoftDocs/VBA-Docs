@@ -26,5 +26,3 @@ Gets or sets the name of the shape range. Read-write  **String**.
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

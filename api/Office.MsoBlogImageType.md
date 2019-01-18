@@ -21,4 +21,3 @@ Specifies blog image types.
 |**msoBlogImageTypeJPEG**|1|JPEG image.|
 |**msoBlogImageTypePNG**|3|PNG image.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

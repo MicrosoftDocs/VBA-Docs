@@ -32,4 +32,3 @@ Deletes the specified comment and all replies associated with it.
 
 [Comment Object](Word.Comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

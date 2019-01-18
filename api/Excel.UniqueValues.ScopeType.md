@@ -34,4 +34,3 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

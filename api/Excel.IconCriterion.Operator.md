@@ -34,4 +34,3 @@ For an icon set conditional formatting rule, this property can be set to only on
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

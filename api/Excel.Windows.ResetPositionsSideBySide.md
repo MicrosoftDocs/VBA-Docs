@@ -34,4 +34,3 @@ Use the  **ResetPositionsSideBySide** method to reset the position of two worksh
 
 [Windows Object](Excel.Windows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

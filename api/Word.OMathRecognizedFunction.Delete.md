@@ -29,4 +29,3 @@ Deletes the specified recognized function from the list of the recognized functi
 
 [OMathRecognizedFunction Object](Word.OMathRecognizedFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Gets or sets the Ribbon XML string that is passed to the document to customize t
 
 When you set the  **UserCustomUI** property value, Microsoft Visio does not validate the Ribbon XML. Instead, the XML is persisted in the document file and validated the next time that the document is loaded.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

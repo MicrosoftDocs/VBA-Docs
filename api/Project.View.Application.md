@@ -20,4 +20,4 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
  _expression_ A variable that represents a [View](./Project.View.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

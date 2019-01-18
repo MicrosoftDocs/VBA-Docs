@@ -31,5 +31,3 @@ Use the  **Parent** property to access the properties and methods of the parent 
 
 
 [Report Object](Project.report.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

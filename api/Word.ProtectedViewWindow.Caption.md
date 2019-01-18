@@ -56,4 +56,3 @@ ActiveProtectedViewWindow.Caption = Application.UserName & "'s copy of Word"
 
 [ProtectedViewWindow Object](Word.ProtectedViewWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

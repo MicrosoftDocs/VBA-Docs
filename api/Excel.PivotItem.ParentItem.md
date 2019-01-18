@@ -46,4 +46,3 @@ MsgBox "This item is a subitem of " & _
 
 [PivotItem Object](Excel.PivotItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

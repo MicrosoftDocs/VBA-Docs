@@ -28,4 +28,4 @@ Returns the parent of the  **[EmailMergeEnvelope](Publisher.EmailMergeEnvelope.m
 
 Object
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

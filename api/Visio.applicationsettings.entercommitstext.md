@@ -26,4 +26,5 @@ Returns or sets a  **Boolean** that determines whether pressing **Enter** commit
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

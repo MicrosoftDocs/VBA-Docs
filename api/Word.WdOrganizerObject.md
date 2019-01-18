@@ -22,4 +22,3 @@ Specifies the type of object used by a delete, copy, or rename action.
 | **wdOrganizerObjectProjectItems**|3|A project item.|
 | **wdOrganizerObjectStyles**|0|A style item.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

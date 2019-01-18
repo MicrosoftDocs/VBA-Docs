@@ -57,4 +57,3 @@ newWordArt.TextEffect.Tracking = 0.8
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

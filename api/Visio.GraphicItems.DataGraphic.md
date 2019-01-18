@@ -31,4 +31,4 @@ Returns the  **Master** object of type **visTypeDataGraphic** that contains the 
 
 Master
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

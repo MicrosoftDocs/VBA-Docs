@@ -39,4 +39,4 @@ If the document is not being broadcast, the method returns runtime error 4702.
 
 [Broadcast Object](Word.broadcast.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

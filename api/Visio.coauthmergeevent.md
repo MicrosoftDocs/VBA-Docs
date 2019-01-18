@@ -14,4 +14,5 @@ Represents the merging of changes by various authors to a document or documents.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

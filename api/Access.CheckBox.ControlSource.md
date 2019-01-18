@@ -73,4 +73,3 @@ Me!Expected.ControlSource = "=Date() + 7"
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

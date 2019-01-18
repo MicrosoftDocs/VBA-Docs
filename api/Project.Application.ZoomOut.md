@@ -28,4 +28,4 @@ Zooms out from the active view. Not available on the Resource Sheet, Task Sheet,
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

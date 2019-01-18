@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 If the view displayed in the control does not group items, or if an item in the view is selected, this method has no effect.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

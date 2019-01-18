@@ -35,4 +35,3 @@ Occurs immediately after a shape-replacement operation is requested. If any even
 
 [Documents Object](Visio.Documents.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

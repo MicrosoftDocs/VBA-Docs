@@ -34,4 +34,3 @@ To set this property, specify an expression that returns a  **[Font](Word.Font.m
 
 [ListLevel Object](Word.ListLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

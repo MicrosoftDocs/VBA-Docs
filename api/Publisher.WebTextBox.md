@@ -53,4 +53,3 @@ End Sub
 |[RequiredControl](Publisher.WebTextBox.RequiredControl.md)|
 |[ReturnDataLabel](Publisher.WebTextBox.ReturnDataLabel.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

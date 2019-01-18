@@ -30,4 +30,3 @@ Indicates the format used to display number Outlook item properties.
 | **olFormatNumberScientific**|5|Displays formatted number values, using scientific notation. For example, the value 1048576 is displayed as "1.049E+06".|
 | **olFormatNumberTruncated**|2|Displays formatted number values as integers, rounding all decimal values, using the group and decimal delimiters specified in the system's regional settings. For example, the value 4010.1 is displayed as "4,010". |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

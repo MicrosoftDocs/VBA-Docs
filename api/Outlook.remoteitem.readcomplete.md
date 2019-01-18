@@ -45,4 +45,3 @@ The  **ReadComplete** event corresponds to the Exchange Client Extensions (ECE) 
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

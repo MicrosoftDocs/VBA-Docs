@@ -59,4 +59,3 @@ End Sub
 [Databar Object](Excel.Databar.md)
 [Speech Object](Excel.Speech.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,4 +66,3 @@ Selection.Paragraphs(1).Range.Relocate Direction:=wdRelocateUp
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

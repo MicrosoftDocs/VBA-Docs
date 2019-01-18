@@ -18,4 +18,4 @@ Creates and displays a new task request.
 
 _expression_ A variable that represents a  **ViewCtl** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

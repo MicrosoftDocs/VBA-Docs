@@ -42,4 +42,3 @@ An  **OutlookBarShortcut** object that represents the specified object.
 
 [OutlookBarShortcuts Object](Outlook.OutlookBarShortcuts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

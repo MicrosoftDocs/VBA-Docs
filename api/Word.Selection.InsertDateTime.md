@@ -57,4 +57,3 @@ Selection.InsertDateTime DateTimeFormat:="MMMM dd, yyyy", _
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,5 +37,3 @@ If the specified parameter is set for a built-in control, the application can mo
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

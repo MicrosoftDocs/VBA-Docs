@@ -58,4 +58,3 @@ MsgBox "The hyperlink goes to " & SCut.SubAddress
 
 [Hyperlink Object](Word.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

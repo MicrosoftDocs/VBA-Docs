@@ -34,4 +34,3 @@ The [ChartFormat](PowerPoint.ChartFormat.md) object contains the line, fill, and
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

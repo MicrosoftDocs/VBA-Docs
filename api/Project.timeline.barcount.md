@@ -21,4 +21,5 @@ Indicates the number of bars in a  **Timeline** view. Introduced in Office 2016.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

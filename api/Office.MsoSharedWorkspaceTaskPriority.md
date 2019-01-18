@@ -21,4 +21,3 @@ Specifies the priority for a shared workspace task.
 |**msoSharedWorkspaceTaskPriorityLow**|3|Low priority.|
 |**msoSharedWorkspaceTaskPriorityNormal**|2|Normal priority.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

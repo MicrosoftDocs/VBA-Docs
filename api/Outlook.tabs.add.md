@@ -43,4 +43,4 @@ The index value for the first  **Tab** of a collection is 0, the value for the s
 
 You can change the  **Name** property of the object at run time only if you added that control at run time with the **Add** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

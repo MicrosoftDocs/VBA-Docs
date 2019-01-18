@@ -42,5 +42,3 @@ This method is called by your COM add-in.
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

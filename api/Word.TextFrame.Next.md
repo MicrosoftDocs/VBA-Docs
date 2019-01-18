@@ -29,4 +29,3 @@ Returns a  **TextFrame** object that represents the next text frame in a collect
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ When opening a report in Access that's part of a database that was created in an
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

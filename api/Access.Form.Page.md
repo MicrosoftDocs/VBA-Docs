@@ -36,4 +36,3 @@ This property is only available in Print Preview or when printing.
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,4 +53,3 @@ End Sub
 
 [PrintOptions Object](PowerPoint.PrintOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

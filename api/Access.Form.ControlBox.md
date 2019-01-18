@@ -55,4 +55,3 @@ Setting the  **ControlBox** property to No suppresses the **Control** menu when 
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

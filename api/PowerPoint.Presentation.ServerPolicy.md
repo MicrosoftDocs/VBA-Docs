@@ -39,4 +39,3 @@ The  **ServerPolicy** object represents a policy specified for a document type s
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

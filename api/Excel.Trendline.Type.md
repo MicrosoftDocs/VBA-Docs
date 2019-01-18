@@ -40,4 +40,3 @@ Worksheets(1).ChartObjects(1).Chart _
 
 [Trendline Object](Excel.Trendline(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

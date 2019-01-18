@@ -32,4 +32,3 @@ _expression_ A variable that represents a [PivotLineCells](Excel.PivotLineCells.
 
 [PivotLineCells Object](Excel.PivotLineCells.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You cannot use digits in an accelerator.
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

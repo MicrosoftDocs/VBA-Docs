@@ -45,4 +45,3 @@ If the  **On Updated** box is blank, the property value is an empty string.
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

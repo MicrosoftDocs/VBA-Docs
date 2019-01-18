@@ -41,5 +41,7 @@ The  **Combine** method is similar to the **Join** method but differs in the fol
 - The  **Combine** method produces a shape with one Geometry section for each original shape. The resulting shape will have holes in regions where the original shapes overlapped.
     
 - The  **Join** method differs from **Combine** in that it will coalesce abutting line and curve segments in the original shapes into a single Geometry section in the resulting shape.
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

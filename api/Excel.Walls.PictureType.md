@@ -34,4 +34,3 @@ This property can be set to one of the following constants:  **xlStack** or **xl
 
 [Walls Object](Excel.Walls(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

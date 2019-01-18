@@ -53,4 +53,3 @@ Outlook maintains a hierarchy of address books for a session, and the address en
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

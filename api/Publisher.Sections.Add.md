@@ -36,4 +36,4 @@ Adds a new  **Section** object to the specified **Sections** collection and retu
 
 Section
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

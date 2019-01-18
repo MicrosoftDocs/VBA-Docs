@@ -35,4 +35,4 @@ The blank page size represented by the parent  **PageSize** object corresponds t
 
 Numeric values are evaluated as points. String values can be in any unit supported by Microsoft Publisher (for example, "2.5 in"). The valid range of possible values is from zero to the difference between the sheet height and the page height.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

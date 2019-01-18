@@ -21,4 +21,3 @@ Specifies the type of an OLE object.
 | **wdOLEEmbed**|1|Embedded OLE object.|
 | **wdOLELink**|0|Linked OLE object.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

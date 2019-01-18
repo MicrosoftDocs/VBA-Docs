@@ -34,4 +34,3 @@ Gets a single item from a collection. Read-only  **Object**.
 
 [ResourceGroups2 Collection Object](Project.resourcegroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

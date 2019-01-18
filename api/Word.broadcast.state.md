@@ -44,4 +44,4 @@ The  **State** property can return one of the following three states:
 
 [Broadcast Object](Word.broadcast.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -37,4 +37,4 @@ When assigning a new parent shape, you must assign a  **Shape** object. If you w
 
 A shape and its parent shape must be in the same containing page or containing master. If the new parent is not a  **Shape** object, or if the **ContainingPage** or **ContainingMaster** property of the parent shape is different from that of the shape, Microsoft Visio raises an exception.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

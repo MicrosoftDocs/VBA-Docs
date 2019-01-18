@@ -38,4 +38,3 @@ To use this property, you must also set the **[HelpFile](office.commandbarbutton
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

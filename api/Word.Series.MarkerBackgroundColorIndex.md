@@ -34,4 +34,3 @@ This property applies only to line, scatter, and radar charts.
 
 [Series Object](Word.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

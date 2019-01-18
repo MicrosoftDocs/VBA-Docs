@@ -51,4 +51,3 @@ For field types not listed in the above table, the value of this property is ign
 
 [ColumnFormat Object](Outlook.ColumnFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

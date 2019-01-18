@@ -52,4 +52,4 @@ With myChart.Axes(xlValue)
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

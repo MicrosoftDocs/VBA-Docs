@@ -28,4 +28,4 @@ Displays information about resource assignments and predecessor tasks in the act
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -37,4 +37,4 @@ Adds a lookup table entry to a  **[LookupTable](Project.lookuptable.md)** collec
 
  **LookupTableEntry**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

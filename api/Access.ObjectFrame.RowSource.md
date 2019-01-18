@@ -65,4 +65,3 @@ Forms!Employees!cmboNames.RowSource = "EmployeeList"
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

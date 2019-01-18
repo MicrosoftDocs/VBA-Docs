@@ -53,4 +53,3 @@ Later, the document is saved as a Web page, and the following line of HTML is ad
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

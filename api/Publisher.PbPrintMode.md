@@ -25,4 +25,3 @@ Represents whether the specified publication is printed as a composite or separa
 | **pbPrintModeCompositeRGB**|1|Print a composite whose colors are defined by the RGB color model.|
 | **pbPrintModeSeparations**|2|Print a separate plate for each ink used in the publication.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ ActivePresentation.Slides(1).Copy
 
 [Slide Object](PowerPoint.Slide.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

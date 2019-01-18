@@ -39,4 +39,3 @@ ActiveDocument.Paragraphs(1).LeftIndent = InchesToPoints(1)
 
 [Paragraph Object](Word.Paragraph.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

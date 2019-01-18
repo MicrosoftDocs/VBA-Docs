@@ -36,4 +36,4 @@ Copies the preview picture from another document into the current document.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

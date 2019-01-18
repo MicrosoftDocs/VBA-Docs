@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyDown
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

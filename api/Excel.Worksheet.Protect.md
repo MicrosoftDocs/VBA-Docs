@@ -60,4 +60,3 @@ If changes wanted to be made to a protected worksheet, it is possible to use the
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

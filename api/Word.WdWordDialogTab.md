@@ -105,4 +105,3 @@ Specifies the active tab when the specified dialog box is displayed.
 | **wdDialogStyleManagementTabRecommend**|2200001| **Recommend** tab of the **Style Management** dialog box.|
 | **wdDialogStyleManagementTabRestrict**|2200002| **Restrict** tab of the **Style Management** dialog box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

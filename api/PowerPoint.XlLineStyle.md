@@ -26,4 +26,3 @@ Specifies the line style for the border.
 |**xlLineStyleNone**|-4142|No line.|
 |**xlSlantDashDot**|13|Slanted dashes.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

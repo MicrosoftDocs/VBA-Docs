@@ -35,4 +35,4 @@ The Project Guide is disabled by default in Project. Although you can create and
 
 The state of the button should be depressed when the side pane is showing, normal when the side pane is hidden.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

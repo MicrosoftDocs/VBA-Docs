@@ -24,4 +24,3 @@ Indicates when multiple lines are displayed in a  **[TableView](Outlook.TableVie
 | **olAlwaysSingleLine**|1|Single lines are always displayed.|
 | **olWidthMultiLine**|0|Single lines are displayed unless the length of the line, in characters, is greater than the value for the  **[MultiLineWidth](Outlook.TableView.MultiLineWidth.md)** property of the **TableView** object, at which point multiple lines are displayed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

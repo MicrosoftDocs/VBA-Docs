@@ -54,4 +54,3 @@ Any of the arguments can be a negative number.
 
 [Pane Object](Excel.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

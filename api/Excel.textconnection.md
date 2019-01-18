@@ -17,4 +17,5 @@ Contains Service Contract settings that enable Microsoft Excel to connect to a D
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 The  **Cut** method removes currently selected text in the control to the Clipboard. This method does not require that the control have the focus.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

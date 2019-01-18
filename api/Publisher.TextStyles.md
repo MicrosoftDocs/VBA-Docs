@@ -96,4 +96,3 @@ End Sub
 |[Count](Publisher.TextStyles.Count.md)|
 |[Parent](Publisher.TextStyles.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

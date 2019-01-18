@@ -65,4 +65,3 @@ Me.ctl.BorderThemeColorIndex=2
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

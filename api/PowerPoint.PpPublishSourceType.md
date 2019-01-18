@@ -21,4 +21,3 @@ Constants that specify the type of source material to be published, passed to an
 |**ppPublishNamedSlideShow**|3|Publish a named slideshow.|
 |**ppPublishSlideRange**|2|Publish a range of slides.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

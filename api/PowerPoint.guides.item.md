@@ -35,4 +35,4 @@ Returns a [Guide](PowerPoint.guide.md) object from the collection.
 
  **Guide**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

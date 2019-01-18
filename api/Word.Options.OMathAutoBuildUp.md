@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word automatica
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

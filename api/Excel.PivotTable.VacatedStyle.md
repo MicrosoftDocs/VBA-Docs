@@ -39,4 +39,3 @@ Worksheets(1).PivotTables("Pivot1").VacatedStyle = "BlackAndBlue"
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

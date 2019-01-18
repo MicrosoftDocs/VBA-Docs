@@ -41,4 +41,3 @@ If you use the  **[Close](Outlook.DistListItem.Close(method).md)** method to fir
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

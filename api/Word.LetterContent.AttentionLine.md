@@ -55,4 +55,3 @@ ActiveDocument.SetLetterContent LetterContent:=lcTemp
 
 [LetterContent Object](Word.LetterContent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

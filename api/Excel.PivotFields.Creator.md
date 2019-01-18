@@ -34,4 +34,3 @@ If the object was created in Microsoft Excel, this property returns the string X
 
 [PivotFields Object](Excel.PivotFields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

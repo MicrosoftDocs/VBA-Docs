@@ -34,4 +34,3 @@ _expression_ A variable that represents an [Account](./Outlook.Account.md) objec
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

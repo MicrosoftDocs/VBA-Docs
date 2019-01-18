@@ -21,4 +21,3 @@ Specifies the type of credentials method used.
 | **CredentialsMethodNone**|1|No credentials used|
 | **CredentialsMethodStored**|2|Use stored credentials|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

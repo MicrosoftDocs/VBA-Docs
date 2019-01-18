@@ -31,4 +31,3 @@ Use the  **Parent** property to access the properties or methods of an object's 
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

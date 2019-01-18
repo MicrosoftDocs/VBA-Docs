@@ -34,4 +34,3 @@ You can delete cube fields only if you have created the cube fields yourself by 
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

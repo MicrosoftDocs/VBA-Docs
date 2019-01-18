@@ -34,4 +34,3 @@ After you enable a rule condition, you must also save the rule by using  **[Rule
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

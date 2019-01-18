@@ -22,4 +22,4 @@ Represents an invisible box around an equation or part of an equation to which y
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

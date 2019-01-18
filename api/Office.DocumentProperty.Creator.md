@@ -38,5 +38,3 @@ _expression_ A variable that represents a **[DocumentProperty](Office.DocumentPr
 ## See also
 
 - [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

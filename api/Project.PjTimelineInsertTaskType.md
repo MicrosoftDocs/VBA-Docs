@@ -21,4 +21,3 @@ Contains constants that specify the type of task to insert on the Timeline view 
 |**pjTimelineInsertMilestone**|1|Insert a milestone (a task with 0 days duration).|
 |**pjTimelineInsertTask**|0|Insert a task.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

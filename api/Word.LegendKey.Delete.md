@@ -34,4 +34,3 @@ Deleting a  **LegendKey** object deletes the entire series.
 
 [LegendKey Object](Word.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

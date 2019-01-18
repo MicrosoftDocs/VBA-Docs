@@ -46,4 +46,3 @@ Me.ctl.BorderTint=25
 
 [Line Object](Access.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

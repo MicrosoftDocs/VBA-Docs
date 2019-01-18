@@ -39,4 +39,3 @@ Worksheets("Sheet1").ChartObjects(1).Chart.ChartArea.RoundedCorners = True
 
 [ChartArea Object](Excel.ChartArea(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,3 @@ Specifies the type of Help topic or window to display.
 | **wdHelpSearch**|9|Displays the  **Help Topics** dialog box.|
 | **wdHelpUsingHelp**|10|Displays a list of Help topics that describe how to use Help.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ Worksheets("Sheet1").OLEObjects(1).Update
 
 [OLEObject Object](Excel.OLEObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

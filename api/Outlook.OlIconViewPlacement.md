@@ -25,4 +25,3 @@ Indicates how icons are arranged in an  **[IconView](Outlook.IconView.md)** obje
 | **olIconLineUp**|1|Icons are automatically lined up, but are not sorted or arranged.|
 | **olIconSortAndAutoArrange**|3|Icons are automatically sorted, lined up, and arranged to prevent gaps or overlaps.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

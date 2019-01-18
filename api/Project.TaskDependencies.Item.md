@@ -33,5 +33,3 @@ Gets a single  **TaskDependency** object from the **TaskDependencies** collectio
 
 
 [TaskDependencies Collection Object](Project.taskdependencies.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

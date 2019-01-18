@@ -28,4 +28,4 @@ Pastes the text range on the Clipboard into an object.
 
 Nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

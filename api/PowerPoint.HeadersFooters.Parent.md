@@ -53,4 +53,3 @@ End With
 
 [HeadersFooters Object](PowerPoint.HeadersFooters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

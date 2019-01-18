@@ -31,5 +31,3 @@ In general for applications that implement Office Art, the  **RerouteConnections
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

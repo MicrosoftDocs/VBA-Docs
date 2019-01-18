@@ -40,4 +40,3 @@ Indicates the type of underline for the selected characters in the specified fon
 | **pbUnderlineWavyHeavy**|10|Wavy Heavy|
 | **pbUnderlineWordsOnly**|2|Words Only|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

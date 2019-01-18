@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether delimiter characters grow
 
 [OMathDelim Object](Word.OMathDelim.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ Because charts and chart sheets do not support comments, the  **PrintedCommentPa
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

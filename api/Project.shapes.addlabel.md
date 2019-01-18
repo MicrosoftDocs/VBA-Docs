@@ -81,5 +81,3 @@ End Sub
 
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,3 @@ To set the height, use the **[RowHeight](excel.range.rowheight.md)** property.
 
 - [Range object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

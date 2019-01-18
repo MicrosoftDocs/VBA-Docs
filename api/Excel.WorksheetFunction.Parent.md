@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,5 +27,3 @@ Gets a  **GlowFormat** object for the shape, if the shape contains glow formatti
 
 [Shape Object](Project.shape.md)
 [GlowFormat](https://msdn.microsoft.com/library/office/ff864010%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,3 @@ The value of the **Type** property is available as a value in the **[MsoControlT
 
 - [CommandBarControl object members](overview/library-reference/commandbarcontrol-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ An  **Object** value that represents the specified object.
 
 [PropertyPages Object](Outlook.PropertyPages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

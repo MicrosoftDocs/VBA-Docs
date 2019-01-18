@@ -33,5 +33,3 @@ Gets a single  **Exception** object from the **Exceptions** collection. Read-onl
 
 
 [Exceptions Collection Object](Project.exceptions.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

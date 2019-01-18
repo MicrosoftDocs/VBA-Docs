@@ -23,4 +23,4 @@ Returns or sets a  **Variant** that represents the font size for the specified W
 
  _expression_ A variable that represents a  **TextEffectFormat** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

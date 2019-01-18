@@ -51,4 +51,3 @@ End If
 
 [AddIns2 Object](Excel.AddIns2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

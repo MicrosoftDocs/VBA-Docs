@@ -34,4 +34,3 @@ After using this method, use the  **Selection** object to work with the selected
 
 [Rows Collection Object](Word.rows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

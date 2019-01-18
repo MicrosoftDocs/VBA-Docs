@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Research](Excel.Research.md) object.
 
 [Research Object](Excel.Research.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

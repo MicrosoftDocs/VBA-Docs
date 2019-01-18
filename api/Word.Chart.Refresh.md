@@ -29,4 +29,3 @@ Causes the specified chart to be redrawn immediately.
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

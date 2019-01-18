@@ -58,4 +58,3 @@ End Sub
 |[Parent](Publisher.WebCommandButton.Parent.md)|
 |[PostFormData](Publisher.WebCommandButton.PostFormData.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

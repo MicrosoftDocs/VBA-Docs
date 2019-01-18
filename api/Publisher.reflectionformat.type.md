@@ -33,4 +33,3 @@ Returns or sets an  **MsoReflectionType** constant that represents the type and 
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

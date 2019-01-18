@@ -46,4 +46,4 @@ ActiveWorkbook.SlicerCaches(1).Slicers(1).Caption = "My Slicer"
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

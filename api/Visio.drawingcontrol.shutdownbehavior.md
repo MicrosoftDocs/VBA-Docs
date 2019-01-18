@@ -34,4 +34,3 @@ A value of 0 (the default) does not unload MSO dlls when the drawing control is 
 
 [DrawingControl Object](Visio.DrawingControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

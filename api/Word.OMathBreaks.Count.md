@@ -29,4 +29,3 @@ Returns the number of items in the  **OMathBreaks** collection. Read-only **Long
 
 [OMathBreaks Collection](Word.OMathBreaks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -69,4 +69,3 @@ End If
 
 [Screen Object](Access.Screen.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

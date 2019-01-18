@@ -87,4 +87,3 @@ MsgBox "The definition of the " & strProc & " procedure begins on line " & _
 
 [Module Object](Access.Module.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,4 @@ If a broadcast is not in progress,  **SessionID** returns an empty string.
 
  **STRING**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

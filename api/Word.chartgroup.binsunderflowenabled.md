@@ -27,4 +27,3 @@ Specifies whether a bin for values below the [BinsUnderflowValue](Word.chartgrou
 
 [ChartGroup Object](Word.ChartGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

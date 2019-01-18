@@ -36,4 +36,4 @@ Toolbars
 
 In general, an object's parent is the object that contains it.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

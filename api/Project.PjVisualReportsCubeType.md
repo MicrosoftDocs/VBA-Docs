@@ -24,4 +24,3 @@ Contains constants that specify the type of report cube on which to operate.
 |**pjTaskNTP**|4|Nontimephased task cube.|
 |**pjTaskTP**|1|Timephased task cube.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

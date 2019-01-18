@@ -23,4 +23,3 @@ Specifies the group type as public or private for the [CreateUnifiedGroup](Outlo
 | **PrivateGroup**|1|Assigns a private group.|
 | **PublicGroup**|2|Assigns a public group.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

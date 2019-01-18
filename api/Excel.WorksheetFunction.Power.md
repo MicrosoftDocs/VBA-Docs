@@ -48,4 +48,3 @@ The "^" operator can be used instead of POWER to indicate to what power the base
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

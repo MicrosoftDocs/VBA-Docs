@@ -26,4 +26,3 @@ This enumeration is only for Macintosh and should not be used.
 | **xlSendPublisher**|2|Send to Microsoft Publisher.|
 | **xlUpdateSubscriber**|2|Update subscriber.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

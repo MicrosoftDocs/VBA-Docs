@@ -43,4 +43,4 @@ End Sub
 
 [RevisionsFilter Object](Word.revisionsfilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

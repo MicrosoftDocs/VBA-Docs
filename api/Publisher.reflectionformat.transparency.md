@@ -33,4 +33,3 @@ Returns or sets the degree of transparency for the reflection effect as a value 
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

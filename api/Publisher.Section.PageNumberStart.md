@@ -39,4 +39,4 @@ ActiveDocument.Sections(1).PageNumberStart = 45
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

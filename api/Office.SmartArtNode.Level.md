@@ -38,4 +38,3 @@ The levels start at 1 and increment upward. If a node has no level, a 0 is retur
 - [SmartArtNode Object](Office.SmartArtNode.md)
 - [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns name of the specified object. Read-only  **String**.
 
 [MappedDataField Object](Word.MappedDataField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

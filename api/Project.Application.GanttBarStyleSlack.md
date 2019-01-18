@@ -41,4 +41,4 @@ Shows or hides the slack style for tasks on the active Gantt chart.
 
 On the Ribbon, the  **GanttBarStyleSlack** method corresponds to the **Slack** checkbox in the **Bar Styles** group on the **Format** tab for **Gantt Chart Tools**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

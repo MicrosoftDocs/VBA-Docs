@@ -34,4 +34,3 @@ The  **Assistance** object allows developers to show custom help and help that i
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

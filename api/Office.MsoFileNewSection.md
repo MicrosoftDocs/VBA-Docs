@@ -23,4 +23,3 @@ Specifies the task pane section to which to add a file or where the file referen
 |**msoNewfromTemplate**|3|**New from Template** section.|
 |**msoOpenDocument**|0|**Open Document** section.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,3 @@ Select the field by which you want to sort the records and either click the appr
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,3 @@ _expression_ A variable that represents an [OlkInfoBar](./Outlook.OlkInfoBar.md)
 
 [OlkInfoBar Object](Outlook.OlkInfoBar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

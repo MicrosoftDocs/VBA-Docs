@@ -39,4 +39,3 @@ You can use the object's name in conjunction with the  **Item** method to return
 
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

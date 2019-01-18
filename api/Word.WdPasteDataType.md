@@ -28,4 +28,3 @@ Specifies the format for the Clipboard contents when they are inserted into a do
 | **wdPasteShape**|8|Shape.|
 | **wdPasteText**|2|Text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

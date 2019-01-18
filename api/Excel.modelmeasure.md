@@ -17,4 +17,5 @@ Represents a single  **ModelMeasure** object in the [ModelMeasures](Excel.modelm
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

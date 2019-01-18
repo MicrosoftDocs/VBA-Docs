@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

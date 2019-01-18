@@ -20,4 +20,3 @@ Specifies whether data is to be copied or left in place during a filter operatio
 | **xlFilterCopy**|2|Copy filtered data to new location.|
 | **xlFilterInPlace**|1|Leave data in place.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ The Message property for the EngagementComment object. Introduced in Office 2016
 
 [EngagementComment Object (Project)](Project.engagementcomment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies the search direction when searching a range.
 | **xlNext**|1|Search for next matching value in range.|
 | **xlPrevious**|2|Search for previous matching value in range.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

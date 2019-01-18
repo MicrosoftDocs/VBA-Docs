@@ -28,4 +28,4 @@ Indicates the name of the specified Web navigation bar set. Read/write.
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

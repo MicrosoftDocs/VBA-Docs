@@ -40,4 +40,3 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ Setting the  **Caption** to a long string (for example, 300 characters) will cau
 
 [SelectNamesDialog Object](Outlook.SelectNamesDialog.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

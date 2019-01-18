@@ -130,4 +130,3 @@ KeyBindings.Add KeyCategory:=wdKeyCategoryAutoText, _
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

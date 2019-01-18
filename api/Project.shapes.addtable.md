@@ -133,5 +133,3 @@ Run the modified  **TestReportTable** macro on a project that has four tasks wit
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [Application.Table Method](Project.application.table.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

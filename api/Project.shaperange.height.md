@@ -26,5 +26,3 @@ Gets or sets the height of the shape range, in points. Read-write  **Single**.
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

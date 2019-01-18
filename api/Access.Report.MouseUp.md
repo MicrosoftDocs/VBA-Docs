@@ -71,4 +71,3 @@ To respond to an event caused by moving the mouse, you use a  **MouseMove** even
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

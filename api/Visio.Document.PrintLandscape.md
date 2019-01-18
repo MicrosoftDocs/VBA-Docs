@@ -33,4 +33,4 @@ Boolean
 
 The  **PrintLandscape** property corresponds to the **Portrait** and **Landscape** settings in the **Print Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

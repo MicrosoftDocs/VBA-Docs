@@ -71,4 +71,4 @@ Set shpPicture = ActiveDocument.Pages(1).Shapes.AddPicture _
  Left:=72, Top:=72)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -33,4 +33,3 @@ Returns or sets a  **Single** that specifies the degree of blur effect applied t
  
  [ReflectionFormat Object](Publisher.reflectionformat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

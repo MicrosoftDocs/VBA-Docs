@@ -58,5 +58,3 @@ The  **[Application.GetCacheStatusForProject](Project.application.getcachestatus
 [GetCacheStatusForProject Property](Project.application.getcachestatusforproject.md)
 [PjJobType Enumeration](Project.pjjobtype.md)
 [QueueConstants.JobState enumeration](https://msdn.microsoft.com/library/microsoft.office.project.server.library.queueconstants.jobstate_di_pj14mref%28office.15%29.aspx)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

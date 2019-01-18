@@ -25,4 +25,3 @@ Specifies the type of formatting to apply to the table of contents in the active
 | **wdTOCSimple**|6|Simple formatting.|
 | **wdTOCTemplate**|0|Template formatting.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

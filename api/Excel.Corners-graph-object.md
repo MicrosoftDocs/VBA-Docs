@@ -28,4 +28,4 @@ myChart.Corners.Select
 
 If the chart isn't a 3-D chart, the  **Corners** property fails.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

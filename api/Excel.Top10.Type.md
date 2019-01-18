@@ -34,4 +34,3 @@ This property will always return a  **Long** value of "5", which is equivalent t
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

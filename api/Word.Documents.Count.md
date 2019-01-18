@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of documents in the collection. R
 
 [Documents Collection Object](Word.documents.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

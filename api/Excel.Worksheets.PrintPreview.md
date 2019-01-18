@@ -47,4 +47,3 @@ Worksheets("Sheet1").PrintPreview
 
 [Worksheets Object](Excel.Worksheets.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

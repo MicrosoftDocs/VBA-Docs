@@ -112,4 +112,3 @@ Set cnnConn = Nothing
 
 [PivotTables Object](Excel.PivotTables.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

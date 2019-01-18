@@ -24,4 +24,3 @@ Specifies the style for a line.
 |**msoLineThinThick**|3|Thick line next to thin line. For horizontal lines, thick line is below thin line. For vertical lines, thick line is to the right of the thin line.|
 |**msoLineThinThin**|2|Two thin lines.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -261,4 +261,4 @@ UtterAccess is the premier Microsoft Access wiki and help forum.
 - [Access object model reference](overview/Access/object-model.md)
 - [SubForm object members](overview/Access.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Deletes the specified table row.
 
 [Row Object](Word.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

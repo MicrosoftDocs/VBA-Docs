@@ -41,4 +41,3 @@ MsgBox "The description of this " &amp; _
 
 - [COMAddIn object members](overview/Library-Reference/comaddin-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ For file-based data sources (for example, Access) the  **SourceDataFile** proper
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

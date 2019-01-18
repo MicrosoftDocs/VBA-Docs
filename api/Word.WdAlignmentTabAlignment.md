@@ -21,4 +21,3 @@ Specifies tab alignment.
 | **wdLeft**|0|Left-aligned tab.|
 | **wdRight**|2|Right-aligned tab.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Indicates how to format the child nodes in an organization chart.
 |**msoOrgChartLayoutRightHanging**|4|Places child nodes vertically below the parent node on the right side.|
 |**msoOrgChartLayoutStandard**|1|Places child nodes horizontally below the parent node.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

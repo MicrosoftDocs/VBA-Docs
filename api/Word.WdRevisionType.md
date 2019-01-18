@@ -40,4 +40,3 @@ Specifies the type of a change that is marked with a revision mark.
 | **wdRevisionStyleDefinition**|13|Style definition changed.|
 | **wdRevisionTableProperty**|11|Table property changed.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

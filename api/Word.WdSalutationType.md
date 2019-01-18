@@ -22,4 +22,3 @@ Specifies the type of salutation to use for a letter.
 | **wdSalutationInformal**|0|Informal salutation.|
 | **wdSalutationOther**|3|Custom salutation.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

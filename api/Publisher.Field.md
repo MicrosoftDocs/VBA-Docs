@@ -79,4 +79,3 @@ End Sub
 |[TextRange](Publisher.Field.TextRange.md)|
 |[Type](Publisher.field.type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

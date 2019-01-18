@@ -41,4 +41,3 @@ Reading the  **DataSourceValue** property for cells that are outside of the valu
 
 [PivotCell Object](Excel.PivotCell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

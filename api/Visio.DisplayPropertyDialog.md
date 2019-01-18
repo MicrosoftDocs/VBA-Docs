@@ -61,4 +61,4 @@ vsoViewer.DisplayPropertyDialog lngScreenPosX, lngScreenPosY
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

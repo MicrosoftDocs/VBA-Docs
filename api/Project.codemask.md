@@ -57,4 +57,3 @@ End Sub
 |[Item](Project.CodeMask.Item.md)|
 |[Parent](Project.CodeMask.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

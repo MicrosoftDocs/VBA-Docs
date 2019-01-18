@@ -34,4 +34,3 @@ This property always returns the constant  **olAttachmentWell**.
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

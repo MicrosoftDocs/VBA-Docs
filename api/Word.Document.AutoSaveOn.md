@@ -48,5 +48,3 @@ End Sub
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
 
 [Document Object](Word.Document.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

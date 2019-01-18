@@ -25,4 +25,4 @@ localization_priority: Normal
 
 Setting  **DisplayRecentFiles** to **False** removes the list of recent projects, but the **Recent** tab still shows in the BackStage view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

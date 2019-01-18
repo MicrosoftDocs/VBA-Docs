@@ -44,4 +44,3 @@ Built-in formatting rules cannot be removed from the collection.
 
 [AutoFormatRules Object](Outlook.AutoFormatRules.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

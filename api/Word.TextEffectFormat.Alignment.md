@@ -29,4 +29,3 @@ Returns or sets an  **MsoTextEffectAlignment** constant that represents the alig
 
 [TextEffectFormat Object](Word.TextEffectFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

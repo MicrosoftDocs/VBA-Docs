@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
 
 [Stores Object](Outlook.Stores.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

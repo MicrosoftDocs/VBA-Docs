@@ -47,4 +47,4 @@ _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) o
 
  **COMMENT**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

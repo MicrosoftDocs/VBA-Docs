@@ -48,5 +48,3 @@ This data can be obtained from the Windows registry key HKEY_LOCAL_MACHINE\SOFTW
 
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

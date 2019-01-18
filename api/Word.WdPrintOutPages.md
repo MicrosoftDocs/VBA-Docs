@@ -21,4 +21,3 @@ Specifies the type of pages to print.
 | **wdPrintEvenPagesOnly**|2|Even-numbered pages only.|
 | **wdPrintOddPagesOnly**|1|Odd-numbered pages only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

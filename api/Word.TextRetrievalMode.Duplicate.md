@@ -34,4 +34,3 @@ You can use the  **Duplicate** property to pick up the settings of all the prope
 
 [TextRetrievalMode Object](Word.TextRetrievalMode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

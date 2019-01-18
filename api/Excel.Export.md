@@ -34,4 +34,4 @@ myChart.Export _
  FileName:="current_sales.gif", FilterName:="GIF"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -54,4 +54,3 @@ End Sub
 
 [Areas Collection](Excel.Areas.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

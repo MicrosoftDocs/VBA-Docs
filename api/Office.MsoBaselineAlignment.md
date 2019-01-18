@@ -24,4 +24,3 @@ Specifies baseline text alignment.
 |**msoBaselineAlignMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoBaselineAlignTop**|2|Top alignment.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

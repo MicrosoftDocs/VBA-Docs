@@ -49,5 +49,5 @@ localization_priority: Normal
 -  [OptionButton.Value Property (Outlook Forms Script)](Outlook.optionbutton.value.md)
     
 -  [OptionButton.WordWrap Property (Outlook Forms Script)](Outlook.optionbutton.wordwrap.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

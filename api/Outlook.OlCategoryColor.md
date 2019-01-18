@@ -53,4 +53,4 @@ Used by the [Color](Outlook.Category.Color.md) property of the [Category Object 
 
 The color constants provided here are approximations of the actual colors used by the  **Category** object. Use the [CategoryBorderColor](Outlook.Category.CategoryBorderColor.md), [CategoryGradientBottomColor](Outlook.Category.CategoryGradientBottomColor.md), and [CategoryGradientTopColor](Outlook.Category.CategoryGradientTopColor.md) properties to retrieve the **OLE_COLOR** color values that are used to represent the **Category** object, after setting the **Color** property to the appropriate constant.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -44,4 +44,3 @@ Documents("Report.doc").Tables(1).Rows(1).Select
 
 [Row Object](Word.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

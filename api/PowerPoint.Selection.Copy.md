@@ -46,4 +46,3 @@ Windows(2).View.Paste
 
 [Selection Object](PowerPoint.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

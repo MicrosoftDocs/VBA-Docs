@@ -77,4 +77,3 @@ If the control you move to on the subform previously had the focus, neither its 
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

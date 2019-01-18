@@ -55,4 +55,3 @@ End With
 
 [Trendlines Object](Excel.Trendlines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

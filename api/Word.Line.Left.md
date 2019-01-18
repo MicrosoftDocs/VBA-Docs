@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of pixels from the left edge of t
 
 [Line Object](Word.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Calling the  **Refresh** method does not commit changes to the list in the Excel
 
 [ListObject Object](Excel.ListObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

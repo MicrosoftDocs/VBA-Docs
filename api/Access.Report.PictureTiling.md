@@ -47,4 +47,3 @@ If the  **PictureAlignment** property is set to Form Center and the **PictureTil
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ ActiveDocument.Footnotes.Location = wdBottomOfPage
 
 [Footnotes Collection Object](Word.footnotes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

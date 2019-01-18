@@ -40,4 +40,4 @@ The  **CellColor** property can be one of the following **[PjColor](Project.PjCo
 
 To use a hexadecimal RGB value for the cell color, see the  **[CellColorEx](Project.Cell.CellColorEx.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

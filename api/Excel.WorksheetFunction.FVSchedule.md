@@ -48,4 +48,3 @@ The values in schedule can be numbers or blank cells; any other value produces t
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ localization_priority: Normal
 
 The  **AndMoveCompleted** and **AndMoveRemaining** properties can also be set with the **[OptionsCalculation](Project.Application.OptionsCalculation.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

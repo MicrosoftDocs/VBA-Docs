@@ -52,4 +52,3 @@ If the  **AutoExpand** property is set to Yes, Microsoft Access automatically fi
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

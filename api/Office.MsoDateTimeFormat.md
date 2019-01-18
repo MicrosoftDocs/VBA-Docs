@@ -33,4 +33,3 @@ Specifies the format of a date/time data type.
 |**msoDateTimeMMMMyy**|6|Specifies a MMMMyy format.|
 |**msoDateTimeMMyy**|7|Specifies a MMyy format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

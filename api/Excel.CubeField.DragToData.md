@@ -34,4 +34,3 @@ For OLAP data sources, the value is  **False** for measure fields.
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

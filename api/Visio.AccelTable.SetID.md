@@ -37,4 +37,4 @@ You can retrieve an object from its collection by passing the object's set ID to
 
 Valid set ID values are declared by the Visio type library in  **[VisUIObjSets](Visio.visuiobjsets.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -43,5 +43,3 @@ The output of this method is another session handle with the same encryption set
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

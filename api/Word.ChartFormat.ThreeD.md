@@ -29,4 +29,3 @@ Returns the 3-D-effect formatting properties for the specified chart. Read-only 
 
 [ChartFormat Object](Word.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

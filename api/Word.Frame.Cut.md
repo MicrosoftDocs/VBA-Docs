@@ -29,4 +29,3 @@ Removes the specified frame from the document and places it on the Clipboard.
 
 [Frame Object](Word.Frame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

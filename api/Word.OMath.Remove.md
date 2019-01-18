@@ -29,4 +29,3 @@ Removes an equation from the collection of equations in a document, range, or se
 
 [OMath Object](Word.OMath.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

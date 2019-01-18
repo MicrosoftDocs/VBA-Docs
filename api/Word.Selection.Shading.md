@@ -29,4 +29,3 @@ Returns a  **[Shading](Word.Shading.md)** object that refers to the shading form
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

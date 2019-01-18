@@ -23,4 +23,3 @@ Represents the alignment of the navigation bar; vertical or horizontal.
 | **pbNavBarOrientHorizontal**|1|Horizontal orientation|
 | **pbNavBarOrientVertical**|2|Vertical orientation|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

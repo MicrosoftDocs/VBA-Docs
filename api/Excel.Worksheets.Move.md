@@ -54,4 +54,3 @@ Worksheets("Sheet1").Move _
 
 [Worksheets Object](Excel.Worksheets.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

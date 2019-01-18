@@ -42,4 +42,3 @@ If the current view or current folder does not contain any items, calling  **Sel
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

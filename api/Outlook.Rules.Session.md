@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Rules Object](Outlook.Rules.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

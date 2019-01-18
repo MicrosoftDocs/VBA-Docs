@@ -29,4 +29,3 @@ Opens the specified  **OLEFormat** object.
 
 [OLEFormat Object](Word.OLEFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

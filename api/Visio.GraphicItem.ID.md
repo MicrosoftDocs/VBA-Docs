@@ -36,4 +36,4 @@ Long
 
  **ID** is the default property of **GraphicItem**. The ID of each **GraphicItem** object is unique in the **GraphicItems** collection to which it belongs.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,3 @@ If  **True** , the specified item is in conflict.
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

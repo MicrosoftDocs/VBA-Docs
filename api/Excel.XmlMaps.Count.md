@@ -29,4 +29,3 @@ _expression_ A variable that represents a [XmlMaps](./Excel.XmlMaps.md) object.
 
 [XmlMaps Object](Excel.XmlMaps.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

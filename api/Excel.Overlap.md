@@ -31,4 +31,4 @@ This example sets the overlap for chart group one to -50. The example should be 
 myChart.ChartGroups(1).Overlap = -50
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

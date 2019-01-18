@@ -34,4 +34,3 @@ Normally, updates are sent to attendees only if the time or location of an appoi
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

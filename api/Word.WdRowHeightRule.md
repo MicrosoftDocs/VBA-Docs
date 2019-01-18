@@ -21,4 +21,3 @@ Specifies the rule for determining the height of the specified cells or rows.
 | **wdRowHeightAuto**|0|The row height is adjusted to accommodate the tallest value in the row.|
 | **wdRowHeightExactly**|2|The row height is an exact value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

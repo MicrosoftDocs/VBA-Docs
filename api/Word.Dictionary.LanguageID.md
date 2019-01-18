@@ -36,4 +36,3 @@ Some  **WdLanguageID** constants may not be available to you, depending on the l
 
 [Dictionary Object](Word.Dictionary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

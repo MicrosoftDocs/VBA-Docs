@@ -35,4 +35,4 @@ Possible values for  **PaperOrientation** are **pbOrientationLandscape** (2) and
 
 The  **PaperOrientation** property setting corresponds to the **Orientation** setting on the **Publication and Paper Settings** tab of the **Print Setup** dialog box (**File** menu) in the Microsoft Publisher user interface.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns or sets the width, in points, of a line. Read/write  **Long**.
 
 [Line Object](Word.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

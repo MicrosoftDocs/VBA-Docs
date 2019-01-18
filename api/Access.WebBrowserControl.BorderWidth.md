@@ -47,4 +47,3 @@ The exact border width depends on your computer and printer. On some systems, th
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

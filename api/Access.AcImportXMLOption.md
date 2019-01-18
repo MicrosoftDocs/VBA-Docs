@@ -24,4 +24,3 @@ Specifies the action to take when using the [Application.ImportXML method (Acces
 |**acStructureAndData**|1|Imports the data into a new table based on the structure of the specified XML file.|
 |**acStructureOnly**|0|Creates a new table based on the struture of the specified XML file.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

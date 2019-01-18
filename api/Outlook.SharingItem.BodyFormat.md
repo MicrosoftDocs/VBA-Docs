@@ -36,4 +36,3 @@ All text formatting will be lost when the  **BodyFormat** property is switched f
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

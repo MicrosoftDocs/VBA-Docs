@@ -21,4 +21,3 @@ Contains constants that specify the action to take with the specified tasks.
 |**pj0to100Percent**|1|Sets the percent complete to reflect the update date.|
 |**pjReschedule**|2|Schedules the remainder of the work to start on the update date.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

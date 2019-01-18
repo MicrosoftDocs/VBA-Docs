@@ -38,4 +38,3 @@ String
 
 [MetaProperty Object Members](./overview/Library-Reference/metaproperty-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

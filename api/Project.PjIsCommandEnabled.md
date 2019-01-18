@@ -21,4 +21,3 @@ Contains constants that specify whether a command is enabled.
 |**pjCommandEnabled**|0|The command is enabled.|
 |**pjCommandUndefined**|2|The command is undefined.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

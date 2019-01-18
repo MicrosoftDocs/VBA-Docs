@@ -221,4 +221,4 @@ Private Function ShapesOverlap(vsoShape1 As IVShape, vsoShape2 As IVShape) As Bo
 End Function
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

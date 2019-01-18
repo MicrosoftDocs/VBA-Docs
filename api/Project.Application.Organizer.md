@@ -42,4 +42,4 @@ Displays the  **Organizer** dialog box, which enables the user to manage views, 
 
 If  _Type_ is set to **pjToolbar**, that maps to the **Modules** tab in the **Organizer** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

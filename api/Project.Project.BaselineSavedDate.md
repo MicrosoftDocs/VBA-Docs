@@ -33,4 +33,4 @@ Gets date the specified baseline was last saved. Read-only  **Variant**.
 
 If the specified baseline has not been saved,  **BaselineSavedDate** returns "NA".
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

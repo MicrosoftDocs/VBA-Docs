@@ -268,4 +268,3 @@ Icon identifiers used in conjunction with the  **FaceID** property of the **Menu
 | **visIconIXZOOMIN**|16|
 | **visIconIXZOOMOUT**|15|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

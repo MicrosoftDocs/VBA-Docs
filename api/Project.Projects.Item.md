@@ -33,5 +33,3 @@ Gets a single  **Project** object from the **Projects** collection. Read-only **
 
 
 [Projects Collection Object](Project.projects.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

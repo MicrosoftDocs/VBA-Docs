@@ -25,4 +25,3 @@ This enumeration groups together constants used with various Microsoft Word meth
 | **wdToggle**|9999998|Toggles a property's value.|
 | **wdUndefined**|9999999|Represents an undefined value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

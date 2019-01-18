@@ -59,4 +59,3 @@ When you create a subform or subreport by dragging a form or report from the Dat
 
 [SubForm Object](Access.SubForm.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 [TextRuleCondition Object](Outlook.TextRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

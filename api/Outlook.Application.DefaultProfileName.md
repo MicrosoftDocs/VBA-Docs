@@ -34,4 +34,3 @@ Returns an empty string if no profile has been configured or if there is no defa
 
 [Application Object](Outlook.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

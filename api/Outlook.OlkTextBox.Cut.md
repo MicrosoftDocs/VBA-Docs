@@ -34,4 +34,3 @@ The data is copied to the clipboard in unformatted text format, replacing the ex
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

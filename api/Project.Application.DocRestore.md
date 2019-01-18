@@ -28,4 +28,4 @@ Sets the active window to its last nonmaximized state.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

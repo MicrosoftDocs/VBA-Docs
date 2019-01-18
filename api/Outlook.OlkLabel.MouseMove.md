@@ -45,4 +45,3 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

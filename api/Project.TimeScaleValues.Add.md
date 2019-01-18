@@ -39,5 +39,3 @@ Adds a  **TimeScaleValue** object to a **TimeScaleValues** collection.
 
 
 [TimeScaleValues Collection Object](Project.timescalevalues.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

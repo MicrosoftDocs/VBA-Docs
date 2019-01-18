@@ -25,4 +25,3 @@ Specifies the menu group that a command bar pop-up control belongs to when the m
 |**msoOLEMenuGroupObject**|3|**Object** menu.|
 |**msoOLEMenuGroupWindow**|4|**Window** menu.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

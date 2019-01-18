@@ -34,4 +34,3 @@ Use this property in conjunction with the  **[PathName](Outlook.Attachment.PathN
 
 [Attachment Object](Outlook.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

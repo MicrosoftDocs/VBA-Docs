@@ -45,4 +45,3 @@ Specifies the subtype of the filter effect.
 |**msoAnimFilterEffectSubtypeUpRight**|17|Up Right|
 |**msoAnimFilterEffectSubtypeVertical**|6|Vertical|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

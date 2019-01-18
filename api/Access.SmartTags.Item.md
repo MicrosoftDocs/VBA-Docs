@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [SmartTags Collection](Access.SmartTags.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

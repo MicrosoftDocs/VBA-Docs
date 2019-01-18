@@ -91,5 +91,3 @@ End Sub
 [Shape Object](Project.shape.md)
 [Line Property](Project.shape.line.md)
 [Fill Property](Project.shape.fill.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

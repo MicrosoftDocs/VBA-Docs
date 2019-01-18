@@ -21,4 +21,3 @@ Specifies where to display the property.
 | **xlDisplayPropertyInPivotTableAndTooltip**|3|Displays member property in the tooltip only.|
 | **xlDisplayPropertyInTooltip**|2|Displays member property in both the tooltip and the PivotTable. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

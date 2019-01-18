@@ -29,4 +29,3 @@ Returns or sets the spacing (in points) before the specified HTML DIV element. R
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

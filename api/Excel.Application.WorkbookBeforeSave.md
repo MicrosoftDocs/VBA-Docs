@@ -60,5 +60,3 @@ End Sub
 [Application Object](Excel.Application(object).md)
 
 [AutoSave](../Library-Reference/Concepts/how-autosave-impacts-addins-and-macros.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

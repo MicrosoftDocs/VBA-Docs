@@ -31,4 +31,3 @@ You can use this method on column, bar, line, or radar charts.
 
 [Floor Object](PowerPoint.Floor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

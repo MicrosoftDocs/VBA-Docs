@@ -62,4 +62,3 @@ End If
 
 [Comment Object](Word.Comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

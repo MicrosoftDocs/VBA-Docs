@@ -28,4 +28,4 @@ Gets the instance handle of the  **[Application](Visio.Application.md)** object 
 
  **Int64**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

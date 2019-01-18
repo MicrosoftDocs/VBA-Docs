@@ -57,4 +57,3 @@ Forms("Order Entry").Controls("OK").OnEnter = "Enter_Macro"
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Redoes the top item on the redo stack.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

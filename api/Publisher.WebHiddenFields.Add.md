@@ -49,4 +49,4 @@ ActiveDocument.Pages(1).Shapes(1) _
  .Add Name:="subject", Value:="service request"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

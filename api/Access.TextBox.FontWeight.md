@@ -110,4 +110,5 @@ Forms!Products.DatasheetFontHeight = 10
 Forms!Products.DatasheetFontWeight = 500
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

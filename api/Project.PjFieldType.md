@@ -21,4 +21,3 @@ Contains constants that specify the type of entity for a field.
 |**pjResource**|1|Resouce entity.|
 |**pjTask**|0|Task entity.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

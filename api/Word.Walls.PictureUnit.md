@@ -29,4 +29,3 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](.
 
 [Walls Object](Word.Walls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

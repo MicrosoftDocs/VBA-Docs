@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Capt
 
 [CaptionLabels Collection Object](Word.captionlabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

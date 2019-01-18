@@ -34,4 +34,3 @@ This value of this property reflects whether an attachment is blocked based on i
 
 [Attachment Object](Outlook.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

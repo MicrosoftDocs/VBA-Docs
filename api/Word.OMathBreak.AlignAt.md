@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the operator in one line, to which M
 
 [OMathBreak Object](Word.OMathBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

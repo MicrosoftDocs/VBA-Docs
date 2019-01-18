@@ -34,5 +34,3 @@ To show the  **Office.IMsoWalls** object in the Object Browser, select the **Off
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

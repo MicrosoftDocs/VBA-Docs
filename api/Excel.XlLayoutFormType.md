@@ -20,4 +20,3 @@ Specifies the way the specified PivotTable items appear?in table format or in ou
 | **xlOutline**|1|The  **LayoutSubtotalLocation** property specifies where the subtotal appears in the PivotTable report.|
 | **xlTabular**|0|Default.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

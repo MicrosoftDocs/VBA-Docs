@@ -33,4 +33,4 @@ Returrns the identifier of the second (member) shape in the related shape pair. 
 
 The first shape in the related shape pair is the container or callout shape. The second shape is the member shape.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

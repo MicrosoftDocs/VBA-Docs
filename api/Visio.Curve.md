@@ -29,4 +29,4 @@ Use the  **Point** method of a curve object to extrapolate a point along the cur
 
 Use the  **Points** property of a **Curve** object to obtain a stream of points that approximate the curve's path.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

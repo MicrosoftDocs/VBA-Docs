@@ -19,4 +19,4 @@ This object or member is deprecated and is not intended to be used in your code.
 
  **BOOL**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

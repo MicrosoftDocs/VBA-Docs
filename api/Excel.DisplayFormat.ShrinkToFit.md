@@ -39,4 +39,3 @@ Returns  **True** if text automatically shrinks to fit in the available column w
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

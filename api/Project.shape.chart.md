@@ -27,5 +27,3 @@ Gets a  **Chart** object that represents the chart contained in the shape. Read-
 
 [Shape Object](Project.shape.md)
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

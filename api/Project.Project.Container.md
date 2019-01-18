@@ -25,4 +25,4 @@ Gets the object that contains the embedded project. Read-only  **Object**.
 
 Use the  **Container** property to access the properties or methods of the object that contains the project. If the container doesn't support automation or the project is not embedded, the **Container** property fails with run-time error 1004.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

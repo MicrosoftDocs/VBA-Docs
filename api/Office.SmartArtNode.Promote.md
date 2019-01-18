@@ -47,4 +47,3 @@ This functionality mimics the promote button on the Microsoft Office Fluent Ribb
 - [SmartArtNode Object](Office.SmartArtNode.md)
 - [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Returns  **False** if Project Professional is connected with Project Server.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

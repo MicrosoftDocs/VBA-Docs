@@ -23,4 +23,3 @@ Specifies the type of text separator to place between headings in an index.
 | **wdHeadingSeparatorLetterLow**|3|A designated lowercase letter.|
 | **wdHeadingSeparatorNone**|0|No separator.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

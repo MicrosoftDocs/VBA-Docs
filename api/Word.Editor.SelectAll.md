@@ -34,4 +34,3 @@ This method doesn't select  **InlineShape** objects.
 
 [Editor Object](Word.Editor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

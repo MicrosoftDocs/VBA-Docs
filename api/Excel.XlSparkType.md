@@ -21,4 +21,3 @@ Specifies the type of sparkline.
 | **xlSparkColumnStacked100**|3|A win/loss chart sparkline.|
 | **xlSparkLine**|1|A line chart sparkline.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

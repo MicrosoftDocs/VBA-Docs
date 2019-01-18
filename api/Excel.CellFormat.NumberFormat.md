@@ -45,4 +45,3 @@ Range("A1:A5").NumberFormat = "General"
 
 [CellFormat Object](Excel.CellFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

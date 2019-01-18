@@ -24,4 +24,3 @@ The action that triggers the animation effect. The default value is  **msoAnimTr
 |**msoAnimTriggerOnShapeClick**|4|When a shape is clicked.|
 |**msoAnimTriggerWithPrevious**|2|When the  **Previous** button is clicked.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

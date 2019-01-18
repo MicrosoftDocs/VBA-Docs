@@ -23,4 +23,4 @@ Gets or sets the specific level of the lookup table entry. Can be an integer val
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

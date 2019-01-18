@@ -29,4 +29,3 @@ Returns the parent for the specified object. Read-only  **Object**.
 
 [ChartFont Object](Word.ChartFont.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

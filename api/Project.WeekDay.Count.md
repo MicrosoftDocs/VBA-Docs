@@ -30,4 +30,4 @@ The following example shows there is one day in the third day of the work week.
 Debug.Print ActiveProject.Resources(1).Calendar.WorkWeeks(1).WeekDays(3).Count
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

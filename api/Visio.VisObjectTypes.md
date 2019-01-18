@@ -88,4 +88,3 @@ Specifies codes returned by the  **ObjectType** property.
 | **visObjTypeWindow**|21|[Window](Visio.Window.md) object|
 | **visObjTypeWindows**|22|[Windows](Visio.Windows.md) collection|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

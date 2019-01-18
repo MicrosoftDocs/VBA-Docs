@@ -39,4 +39,3 @@ Returns  **True** if the formula is hidden when the worksheet is protected, **Nu
 
 [DisplayFormat Object](Excel.DisplayFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

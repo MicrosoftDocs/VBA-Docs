@@ -222,4 +222,3 @@ Specifies the language to use.
 | **wdYoruba**|1130|Yoruba language.|
 | **wdZulu**|1077|Zulu language.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

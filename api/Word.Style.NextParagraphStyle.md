@@ -61,4 +61,3 @@ Set myStyle = myDoc.Styles.Add(Name:= "MyStyle")
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

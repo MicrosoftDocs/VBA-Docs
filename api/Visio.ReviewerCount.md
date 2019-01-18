@@ -40,4 +40,4 @@ The following code gets the number of reviewers in the drawing open in Visio Vie
 Debug.Print vsoViewer.ReviewerCount
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

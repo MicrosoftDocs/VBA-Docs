@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ListDataFormat](Excel.ListDataFormat.
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

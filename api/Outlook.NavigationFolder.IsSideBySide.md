@@ -40,4 +40,3 @@ However, the  **IsSideBySide** property is automatically set to **True** if the 
 
 [NavigationFolder Object](Outlook.NavigationFolder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

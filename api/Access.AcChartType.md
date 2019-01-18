@@ -30,5 +30,3 @@ Specifies the chart type.
 |**acChartLineStacked**|7|Line Stacked|
 |**acChartLineStacked100**|8|100% Stacked Line|
 |**acChartPie**|9|Pie|
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

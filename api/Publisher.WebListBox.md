@@ -69,4 +69,3 @@ End Sub
 |[Parent](Publisher.WebListBox.Parent.md)|
 |[ReturnDataLabel](Publisher.WebListBox.ReturnDataLabel.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

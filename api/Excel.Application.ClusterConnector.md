@@ -46,4 +46,3 @@ Before you can specify the  **ClusterConnector** property, you must use the **[U
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

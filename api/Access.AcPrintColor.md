@@ -23,4 +23,3 @@ Used with the  **ColorMode** property to specify whether the printer should prin
 |**acPRCMColor**|2|The printer should print in color. |
 |**acPRCMMonochrome**|1|The printer should print in monochrome. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

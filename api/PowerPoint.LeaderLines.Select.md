@@ -26,4 +26,3 @@ Selects the object.
 
 [LeaderLines Object](PowerPoint.LeaderLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

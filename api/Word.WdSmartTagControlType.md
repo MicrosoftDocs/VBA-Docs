@@ -34,4 +34,3 @@ Specifies the type of control associated with a  **SmartTagAction** object.
 | **wdControlSmartTag**|1|Smart tag.|
 | **wdControlTextbox**|10|Text box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

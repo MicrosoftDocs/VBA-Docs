@@ -34,4 +34,3 @@ The  **LinearGradient** object transitions through a series of colors in a linea
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

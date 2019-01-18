@@ -117,4 +117,4 @@ End Sub
 
 Alerts appear on the drawing page asking whether you want to remove the unneeded local override. If you click  **Yes** and then reopen the ShapeSheet window, you can see that the color of the value in the LinePattern cell is once again black, indicating that the inherited value has been restored.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

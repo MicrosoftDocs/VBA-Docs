@@ -108,4 +108,3 @@ The following table shows some useful input masks and the type of values you can
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

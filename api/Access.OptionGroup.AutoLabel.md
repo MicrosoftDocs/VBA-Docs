@@ -29,4 +29,3 @@ _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) 
 
 [OptionGroup Object](Access.OptionGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

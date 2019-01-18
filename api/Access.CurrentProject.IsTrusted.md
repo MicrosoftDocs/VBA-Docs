@@ -57,4 +57,4 @@ Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are 
 
 [CurrentProject Object](Access.CurrentProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

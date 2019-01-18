@@ -24,4 +24,3 @@ Specifies behavior when the user cancels an alert. Only  **msoAlertCancelDefault
 |**msoAlertCancelSecond**|1|Not supported.|
 |**msoAlertCancelThird**|2|Not supported.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

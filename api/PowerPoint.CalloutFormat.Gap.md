@@ -46,4 +46,3 @@ myDocument.Shapes(1).Callout.Gap = 3
 
 [CalloutFormat Object](PowerPoint.CalloutFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

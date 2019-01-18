@@ -33,4 +33,4 @@ Integer
 
 Set the  **Control** property to **True** to use the CTRL key as a modifier for an accelerator, for example, CTRL+BACKSPACE.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

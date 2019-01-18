@@ -54,4 +54,3 @@ The  **SnapExtensions** property can be any combination of the following **VisSn
 | **visSnapExtEllipseCenter**|&H800|
 | **visSnapExtIsometricAngles**|&H1000|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies the type of proofreading error returned by the Word proofreading proce
 | **wdGrammaticalError**|1|Grammatical error.|
 | **wdSpellingError**|0|Spelling error.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

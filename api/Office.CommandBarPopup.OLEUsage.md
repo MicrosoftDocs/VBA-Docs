@@ -39,5 +39,3 @@ If one of the merging applications is not an Office application, normal OLE menu
 ## See also
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

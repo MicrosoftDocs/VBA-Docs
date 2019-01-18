@@ -49,4 +49,4 @@ Set mmfTemp = ActiveDocument.MailMerge _
  .DataSource.MappedDataFields.Item(Index:="City")
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

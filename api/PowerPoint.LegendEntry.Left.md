@@ -26,4 +26,3 @@ Returns the distance, in points, from the left edge of the object to the left ed
 
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

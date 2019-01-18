@@ -43,4 +43,3 @@ Changing the value of this property for a given  **SolutionsModule** object chan
 
 [SolutionsModule Object](Outlook.SolutionsModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

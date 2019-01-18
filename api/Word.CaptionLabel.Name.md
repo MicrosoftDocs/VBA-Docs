@@ -29,4 +29,3 @@ Returns the name of the specified object. Read-only  **String**.
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

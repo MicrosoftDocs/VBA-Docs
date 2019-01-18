@@ -41,4 +41,4 @@ Toggles the  **Wrap Text** setting in a column.
 
 The  **WrapText** method corresponds to the **Wrap Text** command in the option menu for a column.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

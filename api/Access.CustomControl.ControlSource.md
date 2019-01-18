@@ -71,4 +71,3 @@ Me!Expected.ControlSource = "=Date() + 7"
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

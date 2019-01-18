@@ -21,4 +21,3 @@ Specifies whether items displayed in the slicer are sorted, and if they are sort
 | **xlSlicerSortDataSourceOrder**|1|Slicer items are displayed in the order provided by the data source.|
 | **xlSlicerSortDescending**|3|Slicer items are sorted in descending order by item captions.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

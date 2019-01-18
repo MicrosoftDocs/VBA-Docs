@@ -54,4 +54,3 @@ ActiveWorkbook.SaveAs _
 
 [FileExportConverter Object](Excel.FileExportConverter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

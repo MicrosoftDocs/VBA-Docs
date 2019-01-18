@@ -40,4 +40,3 @@ mySG.SeriesColor.Color = RGB(255, 0, 0)
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

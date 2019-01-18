@@ -35,5 +35,3 @@ Use the  **ClearToMatchColorSyle** method to reset the formatting of chart color
 
 [Chart Object](Project.chart.md)
 [ClearToMatchStyle](Project.chart.cleartomatchstyle.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

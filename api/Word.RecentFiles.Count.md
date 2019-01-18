@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of recent files in the collection
 
 [RecentFiles Collection Object](Word.recentfiles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

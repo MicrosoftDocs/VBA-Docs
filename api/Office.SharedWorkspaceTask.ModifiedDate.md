@@ -64,4 +64,3 @@ Dim swsFile As Office.SharedWorkspaceFile
 
 [SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

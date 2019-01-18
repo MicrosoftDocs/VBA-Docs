@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents the distance in points from the le
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

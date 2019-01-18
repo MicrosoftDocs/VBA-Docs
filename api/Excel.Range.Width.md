@@ -30,4 +30,3 @@ To set the width, use the **[ColumnWidth](excel.range.columnwidth.md)** property
 
 - [Range object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

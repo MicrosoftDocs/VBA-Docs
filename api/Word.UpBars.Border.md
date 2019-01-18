@@ -29,4 +29,3 @@ Returns the border of the object. Read-only  **[ChartBorder](Word.ChartBorder.md
 
 [UpBars Object](Word.UpBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

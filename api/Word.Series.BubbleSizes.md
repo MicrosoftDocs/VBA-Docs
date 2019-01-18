@@ -65,4 +65,3 @@ End With
 
 [Series Object](Word.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

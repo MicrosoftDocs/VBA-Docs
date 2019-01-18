@@ -34,4 +34,3 @@ The default value is  **olBorderStyleSingle**.
 
 [OlkLabel Object](Outlook.OlkLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

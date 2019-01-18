@@ -53,4 +53,3 @@ AutoCorrect.Entries.Add Name:="thier", Value:="their"
 
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

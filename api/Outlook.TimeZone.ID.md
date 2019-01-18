@@ -34,4 +34,3 @@ The  **ID** of a time zone is globally the same for that time zone. It is the na
 
 [TimeZone Object](Outlook.TimeZone.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

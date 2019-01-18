@@ -29,4 +29,3 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 [Source Object](Word.Source.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

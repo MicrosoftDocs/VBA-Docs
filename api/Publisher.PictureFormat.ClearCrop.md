@@ -23,4 +23,4 @@ Removes a picture shape from an image, and resets the crop region to the origina
 
  _expression_ A variable that represents a  [PictureFormat](Publisher.PictureFormat.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

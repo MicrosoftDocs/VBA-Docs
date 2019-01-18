@@ -36,4 +36,4 @@ The settings for  **Orientation** are:
 
 If you specify automatic orientation, the height and width of the control determine whether it appears horizontally or vertically. For example, if the control is wider than it is tall, it appears horizontally; if it is taller than it is wide, the control appears vertically.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

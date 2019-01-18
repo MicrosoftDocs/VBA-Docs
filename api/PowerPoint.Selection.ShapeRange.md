@@ -52,4 +52,3 @@ Windows(1).Selection.ShapeRange.Fill _
 
 [Selection Object](PowerPoint.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

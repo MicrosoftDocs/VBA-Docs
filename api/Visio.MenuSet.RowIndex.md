@@ -45,4 +45,3 @@ Constants that represent the first and last positions (see the following table) 
 | **visBarRowFirst**|0|
 | **visBarRowLast**|-1|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

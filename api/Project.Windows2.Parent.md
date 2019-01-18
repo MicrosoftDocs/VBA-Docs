@@ -32,5 +32,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [Windows2 Collection Object](Project.windows2(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

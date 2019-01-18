@@ -30,4 +30,4 @@ This example activates the datasheet.
 myChart.Application.DataSheet.Activate
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,3 @@ Flags passed to the  **Document.Clean** method that indicate which document cond
 | **visDocCleanAlertDefault**|&H0|Default conditions to report.|
 | **visDocCleanFixDefault**|&H3D8|Default conditions to fix.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

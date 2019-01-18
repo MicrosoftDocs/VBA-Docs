@@ -34,4 +34,3 @@ This property returns a  **Store** object except in the case where the **Folder*
 
 [Folder Object](Outlook.Folder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

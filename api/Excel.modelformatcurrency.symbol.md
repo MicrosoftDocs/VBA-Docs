@@ -27,4 +27,4 @@ _expression_ A variable that represents a 'ModelFormatCurrency' object.
 
 [ModelFormatCurrency Object](Excel.modelformatcurrency.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

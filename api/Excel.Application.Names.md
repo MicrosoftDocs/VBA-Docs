@@ -34,4 +34,3 @@ Using this property without an object qualifier is equivalent to using  `ActiveW
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,3 @@ Indices of colors in the default palette.
 | **visWhite**|1|White|
 | **visYellow**|5|Yellow|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

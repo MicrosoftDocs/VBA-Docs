@@ -21,4 +21,3 @@ Specifies the mode for checking the spelling of Spanish.
 | **xlSpanishTuteoOnly**|0|Tuteo verb forms only.|
 | **xlSpanishVoseoOnly**|2|Voseo verb forms only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

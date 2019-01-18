@@ -62,4 +62,4 @@ If the current view includes the Timeline and the Gantt Chart, where the Timelin
 application.ViewsEx ApplyTo:=5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

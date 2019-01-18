@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of fields in the collection. Read
 
 [Fields Collection Object](Word.fields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

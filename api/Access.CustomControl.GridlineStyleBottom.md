@@ -46,4 +46,3 @@ The  **BottomGridlineStyle** property uses the following settings.
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

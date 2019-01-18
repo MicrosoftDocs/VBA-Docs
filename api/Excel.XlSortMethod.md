@@ -20,4 +20,3 @@ Specifies the type of sort.
 | **xlPinYin**|1|Phonetic Chinese sort order for characters. This is the default value. |
 | **xlStroke**|2|Sort by the quantity of strokes in each character.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

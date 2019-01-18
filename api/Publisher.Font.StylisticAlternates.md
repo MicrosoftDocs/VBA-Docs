@@ -29,4 +29,4 @@ Returns or sets a  **Variant** that represents the state of the **StylisticAlter
 > [!NOTE] 
 > The  **StylisticAlternates** property has an effect only for OpenType fonts that contain stylistic alternatives.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

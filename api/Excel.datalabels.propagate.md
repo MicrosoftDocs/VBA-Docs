@@ -48,4 +48,3 @@ If the source data label supports fields that are incompatible with the destinat
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

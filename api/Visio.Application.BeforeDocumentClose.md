@@ -41,5 +41,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.EApplication_BeforeDocumentCloseEventHandler** (the **BeforeDocumentClose** delegate.)
     
 -  **Microsoft.Office.Interop.Visio.EApplication_Event.BeforeDocumentClose**(the  **BeforeDocumentClose** event.)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

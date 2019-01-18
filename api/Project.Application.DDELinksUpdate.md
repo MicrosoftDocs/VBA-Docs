@@ -28,4 +28,4 @@ Updates dynamic data exchange (DDE) links.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

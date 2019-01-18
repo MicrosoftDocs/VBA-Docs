@@ -173,4 +173,3 @@ The members of a  **Document** object's **Pages** collection represent the pages
 |[ThemeEffects](./Visio.Page.ThemeEffects.md)|
 |[Type](./Visio.Page.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

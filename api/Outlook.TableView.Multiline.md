@@ -34,4 +34,3 @@ If the value of the  **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumn
 
 [TableView Object](Outlook.TableView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

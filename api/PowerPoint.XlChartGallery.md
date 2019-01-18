@@ -21,4 +21,3 @@ Specifies a chart gallery.
 |**xlBuiltIn**|21|The built-in gallery.|
 |**xlUserDefined**|22|The user-defined gallery.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

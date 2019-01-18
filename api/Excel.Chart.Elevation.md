@@ -44,4 +44,3 @@ Charts("Chart1").Elevation = 34
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

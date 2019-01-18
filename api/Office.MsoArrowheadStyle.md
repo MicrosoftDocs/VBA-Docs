@@ -25,4 +25,3 @@ Specifies the style of the arrowhead at the end of a line.
 |**msoArrowheadStyleMixed**|-2|Return value only; indicates a combination of the other states. |
 |**msoArrowheadTriangle**|2|Triangular.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

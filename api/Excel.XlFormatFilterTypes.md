@@ -22,4 +22,3 @@ Specifies the types of format filters.
 | **FilterTop**|1|Top.|
 | **FilterTopPercent**|3|Top Percent.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

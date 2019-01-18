@@ -29,4 +29,3 @@ Returns or sets the width, in points, of the specified shape. Read/write  **Long
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

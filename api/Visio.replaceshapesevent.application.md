@@ -24,4 +24,4 @@ Returns the instance of Microsoft Visio that is associated with an object. Read-
 
 [ReplaceShapesEvent Object](Visio.replaceshapesevent.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

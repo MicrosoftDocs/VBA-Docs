@@ -20,4 +20,4 @@ The default value of the  **Tabs** collection identifies the current **Tab** of 
 
 You can reference a  **Tab** by its index value. The index value reflects the ordinal position of the **Tab** within the collection. The index of the first **Tab** in a collection is 0; the index of the second **Tab** is 1; and so on.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

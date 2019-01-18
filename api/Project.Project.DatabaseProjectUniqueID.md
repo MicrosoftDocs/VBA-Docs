@@ -28,4 +28,4 @@ Gets the project unique ID for a project stored in a database. Read/write  **Var
 
 Office Project 2007, Project, and Project cannot save projects to an ODBC database, but they can open projects in a database that were saved by previous versions of Project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -42,4 +42,3 @@ Range
 
 [Characters Collection Object](Word.characters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

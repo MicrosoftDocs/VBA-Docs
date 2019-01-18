@@ -33,4 +33,4 @@ Arranges all of the open windows in Project.
 
 The  **WindowArrangeAll** method is equivalent to the **Arrange All** command on the **VIEW** ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

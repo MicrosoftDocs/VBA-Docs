@@ -17,4 +17,5 @@ Represents the full collection of all chart series, both filtered and unfiltered
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

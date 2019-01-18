@@ -34,4 +34,3 @@ After using this method, use the  **Selection** property to work with the select
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,3 @@ Indicates the line style used to display grid lines for  **[TableView](Outlook.T
 | **olGridLineSmallDots**|1|Lines using small dots are used to draw the grid.|
 | **olGridLineSolid**|4|Solid lines are used to draw the grid.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

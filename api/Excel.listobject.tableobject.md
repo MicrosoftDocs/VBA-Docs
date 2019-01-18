@@ -37,4 +37,3 @@ The  **TableObject** object is a worksheet table built from data returned from a
 
 [ListObject Object](Excel.ListObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

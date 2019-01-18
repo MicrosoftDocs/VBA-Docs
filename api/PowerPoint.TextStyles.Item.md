@@ -59,4 +59,3 @@ The  _Type_ parameter value can be one of these **PpTextStyleType** constants.
 
 [TextStyles Object](PowerPoint.TextStyles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

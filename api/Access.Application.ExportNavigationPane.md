@@ -37,4 +37,3 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

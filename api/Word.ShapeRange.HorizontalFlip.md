@@ -29,4 +29,3 @@ Indicates that a range of shapes has been flipped horizontally. Read-only  **Mso
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Valid values for this property are " _macroname_" where  _macroname_ is the name
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

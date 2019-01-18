@@ -21,4 +21,3 @@ Specifies whether the object is visible.
 | **xlSheetVeryHidden**|2|Hides the object so that the only way for you to make it visible again is by setting this property to True (the user cannot make the object visible).|
 | **xlSheetVisible**|-1|Displays the sheet.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

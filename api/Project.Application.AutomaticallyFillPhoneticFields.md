@@ -25,4 +25,4 @@ localization_priority: Normal
 
 The  **AutomaticallyFillPhoneticFields** property produces tangible results only if the Japanese version of Project is used.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

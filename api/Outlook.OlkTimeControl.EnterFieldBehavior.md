@@ -34,4 +34,3 @@ The default value is  **olEnterFieldBehaviorSelectAll**.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,3 @@ Gets or sets the type of grouping for a field used as a criterion in a group def
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

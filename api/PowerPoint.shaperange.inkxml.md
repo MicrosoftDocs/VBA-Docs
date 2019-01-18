@@ -25,4 +25,3 @@ If the specified shape range does not contain a ink object more than one ink obj
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

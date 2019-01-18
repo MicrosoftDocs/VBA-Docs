@@ -67,4 +67,3 @@ End With
 
 [Trendlines Object](Word.Trendlines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

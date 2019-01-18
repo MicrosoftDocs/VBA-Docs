@@ -75,5 +75,3 @@ myAttachments.Add "C:\My Documents\Q496.xls", _
 [Modify an Attachment of an Outlook Email Message](../outlook/Concepts/Attachments/modify-an-attachment-of-an-outlook-email-message.md)
 [Attachments Object Members](./overview/Outlook.md)
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

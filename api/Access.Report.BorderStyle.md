@@ -52,4 +52,3 @@ A control's border style is visible only when its  **SpecialEffect** property is
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

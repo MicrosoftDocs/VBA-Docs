@@ -24,4 +24,3 @@ Theme types passed to the  **Document.GetThemeNames** and **Document.GetThemeNam
 | **visThemeTypeFont**|4|Theme fonts.|
 | **visThemeTypeIndex**|0|Theme indices.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ Linked styles are styles that can be applied either as character styles or as pa
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

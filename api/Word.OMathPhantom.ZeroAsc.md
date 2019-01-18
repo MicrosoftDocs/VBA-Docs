@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether the ascent of the phantom
 
 [OMathPhantom Object](Word.OMathPhantom.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

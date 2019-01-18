@@ -28,4 +28,4 @@ Returns  **True** if object boundaries are visible in the specified publication.
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

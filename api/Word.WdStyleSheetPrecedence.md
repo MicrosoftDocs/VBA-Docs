@@ -22,4 +22,3 @@ Specifies the level of importance of a style sheet compared with other cascading
 | **wdStyleSheetPrecedenceLower**|-2|Lower precedence.|
 | **wdStyleSheetPrecedenceLowest**|0|Lowest precedence.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ Set sr = Selection.ShapeRange
 
 [Shapes Object](Excel.Shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ End With
 
 [Table Object](PowerPoint.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The account rule condition is supported by rules for receiving messages and rule
 
 [AccountRuleCondition Object](Outlook.AccountRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

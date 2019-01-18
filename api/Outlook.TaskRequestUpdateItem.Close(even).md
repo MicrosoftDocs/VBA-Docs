@@ -41,4 +41,3 @@ If you use the  **[Close](Outlook.TaskRequestItem.Close(method).md)** method to 
 
 [TaskRequestUpdateItem Object](Outlook.TaskRequestUpdateItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

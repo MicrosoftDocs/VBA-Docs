@@ -61,4 +61,3 @@ In addition, you can use the following Microsoft Visual Basic for Applications (
 | ** vbCyan**|0xFFFF00|Cyan|
 | ** vbWhite**|0xFFFFFF|White|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

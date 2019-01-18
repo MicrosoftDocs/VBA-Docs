@@ -20,4 +20,4 @@ A  **[PbBuildingBlockGallery](Publisher.pbbuildingblockgallery.md)** constant th
 
  _expression_ A variable that represents a  **BuildingBlock** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

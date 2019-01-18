@@ -50,4 +50,4 @@ The following code shows how to get the index of the page in the drawing that is
 Debug.Print vsoViewer.PageIDToIndex(0)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

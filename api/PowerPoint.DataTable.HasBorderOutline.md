@@ -68,4 +68,3 @@ End With
 
 [DataTable Object](PowerPoint.DataTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -91,5 +91,3 @@ Represents the window in which an Outlook item is displayed.
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Inspector Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

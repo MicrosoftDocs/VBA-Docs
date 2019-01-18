@@ -43,4 +43,4 @@ Use the  **PrintTile** method to print a single tile of a drawing that spans mul
 
 Using this method is the equivalent of clicking  **Print** when you are previewing a single tile in **Print Preview** mode.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

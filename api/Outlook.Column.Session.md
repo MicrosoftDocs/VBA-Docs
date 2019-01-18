@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Column Object](Outlook.Column.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

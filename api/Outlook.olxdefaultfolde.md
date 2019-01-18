@@ -26,4 +26,3 @@ Specifies the folder type for a specified folder.
 | **olFolderSentMail**|5|The Sent Mail folder.|
 | **olFolderTasks**|13|The Tasks folder.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

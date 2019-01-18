@@ -41,4 +41,4 @@ Sets the value of a resource field.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

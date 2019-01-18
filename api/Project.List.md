@@ -46,4 +46,3 @@ MsgBox Left$(ReportNames, Len(ReportNames) - Len(ListSeparator &amp; " "))
 |[Item](./Project.List.Item.md)|
 |[Parent](./Project.List.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

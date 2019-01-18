@@ -29,4 +29,5 @@ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 A chart value may exceed the **PrimaryValuesAxisMaximum**, but its representation in a chart (for example, a bar in a bar chart) may be clipped according to the maximum.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

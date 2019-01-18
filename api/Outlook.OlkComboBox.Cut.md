@@ -36,4 +36,3 @@ If the control style is  **olComboBoxStyleListBox** , then this method will not 
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

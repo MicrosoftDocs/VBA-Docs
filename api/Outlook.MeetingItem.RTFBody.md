@@ -34,4 +34,3 @@ You can use the  **StrConv** function in Microsoft Visual Basic for Applications
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

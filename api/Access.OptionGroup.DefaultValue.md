@@ -67,4 +67,3 @@ If the controls are on the same form, the control that's the source of the defau
 
 [OptionGroup Object](Access.OptionGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

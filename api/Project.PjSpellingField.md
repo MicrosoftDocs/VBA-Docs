@@ -275,4 +275,3 @@ Contains constants that specify the field for spelling check.
 |**pjSpellTaskText8**|188743748|Text8 (Task) field.|
 |**pjSpellTaskText9**|188743749|Text9 (Task) field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

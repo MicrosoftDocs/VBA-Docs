@@ -29,4 +29,3 @@ Indicates the  **DPI Scale Factor**, used for optimizing scale settings. Introdu
 
 [Application Object (Project)](Project.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

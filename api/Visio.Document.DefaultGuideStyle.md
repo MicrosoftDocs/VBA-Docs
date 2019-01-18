@@ -33,4 +33,4 @@ String
 
 The  **DefaultGuideStyle** property specifies what style is applied to new guides created in the document.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

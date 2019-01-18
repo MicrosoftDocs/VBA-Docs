@@ -44,4 +44,4 @@ Adds a chart to the document. Returns a [Shape](PowerPoint.Shape.md) object that
 
  **SHAPE**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

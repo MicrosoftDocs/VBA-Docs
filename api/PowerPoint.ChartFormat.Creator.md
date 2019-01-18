@@ -26,4 +26,3 @@ _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.
 
 [ChartFormat Object](PowerPoint.ChartFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

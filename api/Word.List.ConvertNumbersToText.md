@@ -39,4 +39,3 @@ ActiveDocument.Lists(1).ConvertNumbersToText
 
 [List Object](Word.List.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

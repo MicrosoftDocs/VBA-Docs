@@ -22,4 +22,3 @@ Specifies the data series to create.
 | **xlDataSeriesLinear**|-4132|Extend values, assuming an additive progression (for example, '1, 2' is extended as '3, 4, 5').|
 | **xlGrowth**|2|Extend values, assuming a multiplicative progression (for example, '1, 2' is extended as '4, 8, 16').|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

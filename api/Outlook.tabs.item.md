@@ -41,4 +41,4 @@ The  _varg_ can be either a **String** or an **Integer**. If it is a  **String**
 
 If an invalid index or name is specified, an error occurs.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

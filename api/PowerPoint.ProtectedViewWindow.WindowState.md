@@ -29,4 +29,3 @@ Returns or sets the state of the specified window. Read/write.
 
 [ProtectedViewWindow Object](PowerPoint.ProtectedViewWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

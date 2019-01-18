@@ -38,4 +38,4 @@ This example displays the email message header for the active publication.
 ActiveDocument.EnvelopeVisible = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -65,4 +65,3 @@ Me.ctl.ForeThemeColorIndex=2
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,3 @@ End With
 
 [Shading Object](Word.Shading.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,4 +65,3 @@ End With
 
 [Border Object](Word.Border.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

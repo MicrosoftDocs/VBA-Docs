@@ -61,5 +61,3 @@ Use the  **BackColor**, **Enabled**, **FontBold**, **FontItalic**, **FontUnderli
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

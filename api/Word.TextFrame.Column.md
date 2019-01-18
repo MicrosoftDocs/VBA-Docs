@@ -22,4 +22,3 @@ This object, member, or enumeration is deprecated and is not intended to be used
 
 [TextFrame Object](Word.TextFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

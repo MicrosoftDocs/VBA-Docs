@@ -18,4 +18,3 @@ Specifies the source of the change to the data model.
 | **xlChangeByExcel**|0|Excel|
 | **xlChangeByPowerPivotAddIn**|1|PowerPivot add-in|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

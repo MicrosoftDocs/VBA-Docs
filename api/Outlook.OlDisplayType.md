@@ -32,4 +32,4 @@ Describes the nature of the address.
 
 Used by the  **DisplayType** property of the [ExchangeDistributionList](Outlook.ExchangeDistributionList.md), [ExchangeUser](Outlook.ExchangeUser.md), and [Recipient](Outlook.Recipient.md) objects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

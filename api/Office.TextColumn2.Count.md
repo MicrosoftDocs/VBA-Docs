@@ -25,4 +25,4 @@ _expression_. `Count`
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

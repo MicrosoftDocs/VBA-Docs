@@ -45,4 +45,4 @@ For any given session of Microsoft Visio, when the  **RasterExportRotation** pro
 
 The setting of the  **RasterExportRotation** property corresponds to the style of rotation selected in the **Rotation** list in the **Output Options** dialog box for the corresponding file type in the Microsoft Visio user interface. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select the file type, and then click **Save**.)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

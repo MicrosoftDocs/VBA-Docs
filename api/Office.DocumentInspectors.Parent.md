@@ -33,4 +33,3 @@ Object
 
 - [DocumentInspectors object members](overview/library-reference/documentinspectors-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

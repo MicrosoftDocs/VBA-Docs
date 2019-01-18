@@ -33,4 +33,3 @@ Object
 
 - [DocumentLibraryVersions object members](overview/library-reference/documentlibraryversions-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

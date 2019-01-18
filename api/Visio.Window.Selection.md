@@ -89,4 +89,4 @@ Public Sub Selection_Example_2()
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

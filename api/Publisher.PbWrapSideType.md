@@ -27,4 +27,3 @@ Indicates whether text should wrap around a shape.
 | **pbWrapSideNeither**|4|Does not wrap the shape on the sides|
 | **pbWrapSideRight**|2|Wrap the right side of the shape|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

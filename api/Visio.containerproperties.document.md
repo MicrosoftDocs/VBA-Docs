@@ -26,4 +26,4 @@ Gets the  **[Document](Visio.Document.md)** object that is associated with the *
 
  **Document**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -61,4 +61,3 @@ Returns or sets the marker style for a point or series in a line chart, scatter 
 
 [Point Object](Word.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

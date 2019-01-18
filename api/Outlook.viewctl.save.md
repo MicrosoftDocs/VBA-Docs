@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 The  **Save As** dialog box is displayed so that the user can select the location and format of the resulting file. By default, if more than one item is selected, the items are concatenated and saved as a text file.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

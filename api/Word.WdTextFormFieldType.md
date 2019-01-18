@@ -24,4 +24,3 @@ Specifies the text form field type.
 | **wdNumberText**|1|Number text field.|
 | **wdRegularText**|0|Regular text field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

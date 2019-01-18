@@ -34,4 +34,3 @@ _expression_ A variable that represents a [MarkAsTaskRuleAction](./Outlook.MarkA
 
 [MarkAsTaskRuleAction Object](Outlook.MarkAsTaskRuleAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

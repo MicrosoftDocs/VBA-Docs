@@ -29,4 +29,3 @@ Returns a  **Long** that represents the ordinal position of a column within the 
 
 [OMathMatCol Object](Word.OMathMatCol.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

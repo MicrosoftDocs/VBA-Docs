@@ -32,4 +32,3 @@ _expression_ A variable that represents a [ListObject](Excel.ListObject.md) obje
 
 [ListObject Object](Excel.ListObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

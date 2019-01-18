@@ -86,4 +86,3 @@ Specifies the numeric style to apply to a list.
 | **wdListNumberStyleZodiac2**|31|Zodiac 2 style.|
 | **wdListNumberStyleZodiac3**|32|Zodiac 3 style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

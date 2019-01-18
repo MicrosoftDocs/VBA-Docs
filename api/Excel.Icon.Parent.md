@@ -29,4 +29,3 @@ _expression_ A variable that represents an [Icon](Excel.Icon.md) object.
 
 [Icon Object](Excel.Icon.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

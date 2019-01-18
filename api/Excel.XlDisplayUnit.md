@@ -27,4 +27,3 @@ Specifies the display unit label for an axis.
 | **xlThousandMillions**|-9|Thousands of millions.|
 | **xlThousands**|-3|Thousands.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

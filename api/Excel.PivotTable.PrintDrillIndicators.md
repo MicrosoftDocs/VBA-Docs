@@ -36,4 +36,3 @@ When the  **[ShowDrillIndicators](Excel.PivotTable.ShowDrillIndicators.md)** pro
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

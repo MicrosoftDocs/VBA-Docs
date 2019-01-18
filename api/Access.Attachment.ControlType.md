@@ -39,4 +39,3 @@ The  **ControlType** property is also used to specify the type of control to cre
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies the OLE object type.
 | **xlOLEEmbed**|1|Embedded OLE object|
 | **xlOLELink**|0|Linked OLE object|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

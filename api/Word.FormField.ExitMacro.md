@@ -57,4 +57,3 @@ Documents("Form.doc").FormFields(intMax).ExitMacro = "Blue"
 
 [FormField Object](Word.FormField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

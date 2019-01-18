@@ -44,4 +44,4 @@ The following example sets the page color to red.
 vsoViewer.PageColor = 225
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

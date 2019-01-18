@@ -31,4 +31,3 @@ You can set this property to one of the following  **[xlChartPictureType](PowerP
 
 [Walls Object](PowerPoint.Walls.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

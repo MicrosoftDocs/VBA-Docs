@@ -36,4 +36,4 @@ GraphicItems
 
 The master must be of type  **visTypeDataGraphic**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

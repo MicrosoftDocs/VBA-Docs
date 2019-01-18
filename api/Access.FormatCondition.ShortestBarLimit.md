@@ -34,4 +34,3 @@ By default, the lowest value is used to determine the length of the shortest dat
 
 [FormatCondition Object](Access.FormatCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

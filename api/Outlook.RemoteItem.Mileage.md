@@ -34,4 +34,3 @@ This is a free-form string field and can be used to store mileage information as
 
 [RemoteItem Object](Outlook.RemoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

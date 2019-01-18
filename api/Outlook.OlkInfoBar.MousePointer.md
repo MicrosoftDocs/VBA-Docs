@@ -34,4 +34,3 @@ The default value is  **olMousePointerDefault**.
 
 [OlkInfoBar Object](Outlook.OlkInfoBar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

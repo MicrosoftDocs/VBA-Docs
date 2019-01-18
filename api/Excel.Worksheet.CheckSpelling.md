@@ -49,4 +49,3 @@ To check only cells and notes, use this method with the object returned by the  
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

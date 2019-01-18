@@ -22,4 +22,3 @@ Specifies the type of vertical alignment to apply.
 | **wdAlignVerticalJustify**|2|Justified vertical alignment.|
 | **wdAlignVerticalTop**|0|Top vertical alignment.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

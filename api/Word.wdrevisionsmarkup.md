@@ -22,4 +22,3 @@ Constants that represent the extent of markup visible in the document, returned 
 | **wdRevisionsMarkupNone**|0|Displays the final document with no markup visible.|
 | **wdRevisionsMarkupSimple**|1|Displays the final document in simple markup: with revisions incorporated, but with no markup visible.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ To set the  **Font** property, specify an expression that returns a **[Font](Wor
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Constants that specify the type of fixed-format file to export, passed to the  *
 |**ppFixedFormatTypePDF**|2|PDF format|
 |**ppFixedFormatTypeXPS**|1|XPS format|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,5 +39,3 @@ Use the  **Hyperlink** property to return a reference to a hyperlink object.
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [Hyperlink Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

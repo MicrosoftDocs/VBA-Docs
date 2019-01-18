@@ -20,4 +20,3 @@ Specifies the type of link.
 | **xlLinkTypeExcelLinks**|1|A link to a Microsoft Excel source.|
 | **xlLinkTypeOLELinks**|2|A link to an OLE source.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

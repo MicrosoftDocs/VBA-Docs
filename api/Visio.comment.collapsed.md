@@ -29,4 +29,3 @@ Returns or sets whether the specified comment is collapsed. Read-write  **Boolea
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

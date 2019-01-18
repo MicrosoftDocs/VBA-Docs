@@ -22,4 +22,4 @@ This object or member has been deprecated, but it remains part of the object mod
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

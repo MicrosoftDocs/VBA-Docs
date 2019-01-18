@@ -34,4 +34,3 @@ Use the  **Paste** method of the **[Selection](Word.Selection.md)** object or th
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

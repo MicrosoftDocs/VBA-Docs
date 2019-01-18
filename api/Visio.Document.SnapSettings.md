@@ -52,4 +52,3 @@ The  **SnapSettings** property can be any combination of the following **VisSnap
 | **visSnapToDisabled**|&H8000 |Disable snap. |
 | **visSnapToIntersections**|&H10000 |Snap to intersections. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

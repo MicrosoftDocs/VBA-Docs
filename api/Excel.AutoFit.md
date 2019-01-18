@@ -44,4 +44,4 @@ This example changes the width of columns A through E on the datasheet to achiev
 myChart.Application.DataSheet.Range("A1:E1").Columns.AutoFit
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,4 @@ Deletes the specified custom field.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

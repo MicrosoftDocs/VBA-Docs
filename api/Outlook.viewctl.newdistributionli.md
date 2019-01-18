@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 When the new distribution list is saved, it is saved to the  **Contacts**folder, if any, that is displayed in the control. If there is no  **Contacts** folder displayed in the control, the distribution list is saved to the user's default **Contacts** folder.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

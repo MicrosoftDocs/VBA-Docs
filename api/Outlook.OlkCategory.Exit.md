@@ -37,4 +37,3 @@ _expression_ A variable that represents an [OlkCategory](./Outlook.OlkCategory.m
 
 [OlkCategory Object](Outlook.OlkCategory.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

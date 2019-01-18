@@ -41,4 +41,3 @@ Include two ampersands (&&) in the setting for a caption if you want to display 
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

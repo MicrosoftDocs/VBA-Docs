@@ -20,4 +20,3 @@ Specifies how the picture should be copied.
 | **xlPrinter**|2|The picture is copied as it will look when it is printed.|
 | **xlScreen**|1|The picture is copied to resemble its display on the screen as closely as possible.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

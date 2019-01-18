@@ -24,4 +24,3 @@ Specifies the alignment of phonetic text that is added to the specified range.
 | **wdPhoneticGuideAlignmentRightVertical**|5|Word aligns the phonetic text on the right side of vertical text.|
 | **wdPhoneticGuideAlignmentZeroOneZero**|1|Word adjusts the inside and outside spacing of the phonetic text in a 0:1:0 ratio.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

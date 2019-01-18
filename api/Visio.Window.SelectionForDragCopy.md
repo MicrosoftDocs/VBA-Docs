@@ -33,4 +33,4 @@ Returns the  **[Selection](Visio.Selection.md)** object that represents the coll
 
 The  **Selection** object that **SelectionForDragCopy** returns includes any unselected members of selected containers and lists, and unselected callouts associated with selected target shapes; all of these will also participate in the drag or copy operation.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

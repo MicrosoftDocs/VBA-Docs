@@ -28,4 +28,4 @@ Returns the page number of the page that the specified  **Section** object begin
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

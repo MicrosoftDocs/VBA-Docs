@@ -37,4 +37,3 @@ Specifies the type of placeholder.
 |**ppPlaceholderVerticalObject**|17|Vertical Object|
 |**ppPlaceholderVerticalTitle**|5|Vertical Title|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

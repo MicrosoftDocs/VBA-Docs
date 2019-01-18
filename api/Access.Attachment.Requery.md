@@ -65,4 +65,3 @@ If a subform control has the focus, this method requeries the record source only
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

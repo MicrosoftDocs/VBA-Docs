@@ -25,4 +25,4 @@ Gets the number of items in the  **CodeMask** object. Read-only **Long**.
 
 Use of the  **Count** property in most collection objects is similar. For an example, see the **[Assignments.Count](Project.Assignments.Count.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -39,4 +39,3 @@ ActiveDocument.Words(4).EmphasisMark = wdEmphasisMarkOverComma
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

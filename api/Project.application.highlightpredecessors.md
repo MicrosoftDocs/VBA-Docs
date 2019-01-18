@@ -60,5 +60,3 @@ Application.HighlightPredecessors True
 
 
 [Task.PathPredecessor Property](Project.task.pathpredecessor.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

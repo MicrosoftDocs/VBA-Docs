@@ -20,4 +20,3 @@ Specifies whether a command bar is in the first row or last row relative to othe
 |**msoBarRowFirst**|0|First row of docking area.|
 |**msoBarRowLast**|-1|Last row of docking area.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

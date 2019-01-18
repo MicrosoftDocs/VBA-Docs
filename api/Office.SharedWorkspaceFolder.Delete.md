@@ -44,4 +44,3 @@ _expression_. `Delete`( `_DeleteEvenIfFolderContainsFiles_` )
 
 [SharedWorkspaceFolder Object Members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

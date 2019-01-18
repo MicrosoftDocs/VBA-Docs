@@ -34,4 +34,3 @@ For an inline shape with a border, the  **LineFormat** object represents the bor
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

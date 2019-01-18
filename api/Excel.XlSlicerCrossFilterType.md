@@ -22,4 +22,3 @@ Specifies the type of cross filtering used by the specified slicer cache and how
 | **xlSlicerCrossFilterShowItemsWithNoData**|3|Cross filtering is turned on for this slicer cache, any tile with no data for a filtering selection in other slicers connected to the same data source will be dimmed.|
 | **xlSlicerNoCrossFilter**|1|Cross filtering is turned off entirely, so all tiles are displayed and active (not dimmed) regardless of filtering selections in other slicers.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

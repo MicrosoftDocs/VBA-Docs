@@ -49,4 +49,3 @@ Closing a workbook from Visual Basic doesn't run any Auto_Close macros in the wo
 
 [Window Object](Excel.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

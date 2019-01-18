@@ -29,4 +29,3 @@ Returns the parent object for the specified object. Read-only.
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

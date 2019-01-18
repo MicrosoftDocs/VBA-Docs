@@ -21,4 +21,3 @@ Specifies the preferred unit of measure to use when measuring the width of an it
 | **wdPreferredWidthPercent**|2|Measure the current item width using a specified percentage.|
 | **wdPreferredWidthPoints**|3|Measure the current item width using a specified number of points.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

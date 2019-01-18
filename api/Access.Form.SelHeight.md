@@ -42,4 +42,3 @@ The  **SelHeight** and **SelWidth** properties contain the position of the lower
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

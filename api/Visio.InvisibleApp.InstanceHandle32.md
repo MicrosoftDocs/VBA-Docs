@@ -33,4 +33,4 @@ Long
 
 Calls to the  **InstanceHandle** property are directed to the **InstanceHandle32** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

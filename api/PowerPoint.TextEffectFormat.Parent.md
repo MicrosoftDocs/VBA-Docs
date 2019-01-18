@@ -52,4 +52,3 @@ End With
 
 [TextEffectFormat Object](PowerPoint.TextEffectFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

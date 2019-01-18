@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Page
 
 [PageSetup Object](Word.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
 [CoAuthLock Object](Word.CoAuthLock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

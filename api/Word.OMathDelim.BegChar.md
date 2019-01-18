@@ -29,4 +29,3 @@ Returns or sets an  **Integer** that represents the beginning delimiter characte
 
 [OMathDelim Object](Word.OMathDelim.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

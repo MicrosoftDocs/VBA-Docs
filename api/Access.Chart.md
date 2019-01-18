@@ -235,4 +235,3 @@ A customizable visualization of data that can be included in a report.
 - Visible
 - Width
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

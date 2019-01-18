@@ -62,4 +62,3 @@ Application.ActivePrinter = "HP LaserJet 4 local on LPT1:"
 
 [Global Object](Word.Global.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

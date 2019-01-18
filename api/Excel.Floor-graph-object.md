@@ -26,4 +26,4 @@ Use the  **Floor** property to return the **Floor** object. The following exampl
 myChart.Floor.Interior.Color = RGB(0, 255, 255)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

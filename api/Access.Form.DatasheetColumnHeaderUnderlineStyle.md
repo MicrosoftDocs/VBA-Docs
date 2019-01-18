@@ -58,4 +58,3 @@ Forms(0).DatasheetColumnHeaderUnderlineStyle = 5
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

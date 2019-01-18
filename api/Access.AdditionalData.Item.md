@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [AdditionalData Object](Access.AdditionalData.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

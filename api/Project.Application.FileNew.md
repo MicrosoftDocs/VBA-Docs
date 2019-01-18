@@ -39,4 +39,4 @@ Creates a new project.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

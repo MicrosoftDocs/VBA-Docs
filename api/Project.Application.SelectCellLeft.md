@@ -42,4 +42,4 @@ Selects cells to the left of the current selection.
 
 The  **SelectCellLeft** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

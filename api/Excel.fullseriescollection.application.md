@@ -48,4 +48,3 @@ End If
 
 [FullSeriesCollection Object](Excel.fullseriescollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

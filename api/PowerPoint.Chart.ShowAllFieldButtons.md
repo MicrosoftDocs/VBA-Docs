@@ -39,4 +39,3 @@ This member is part of the shared chart object model infrastructure between Word
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

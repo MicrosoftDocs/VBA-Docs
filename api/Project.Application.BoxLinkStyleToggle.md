@@ -36,4 +36,4 @@ Toggles the box link style between rectilinear links and straight links.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

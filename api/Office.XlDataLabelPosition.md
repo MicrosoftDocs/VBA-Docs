@@ -29,4 +29,3 @@ Indicates the position of data labels relative to the data markers.
 |**xlLabelPositionOutsideEnd**|2|Data label positioned at top of bar or pie.|
 |**xlLabelPositionRight**|-4152|Data label positioned at top of bar or pie.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

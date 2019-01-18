@@ -28,4 +28,4 @@ _expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) 
 
 This property returns  **True** if the objects are locked or **False** if the objects can be modified when the sheet is protected.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

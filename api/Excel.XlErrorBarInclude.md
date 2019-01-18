@@ -22,4 +22,3 @@ Specifies which error-bar parts to include.
 | **xlErrorBarIncludeNone**|-4142|No error bar range.|
 | **xlErrorBarIncludePlusValues**|2|Only positive error range.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

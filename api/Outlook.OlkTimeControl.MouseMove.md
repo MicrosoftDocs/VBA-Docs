@@ -45,4 +45,3 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

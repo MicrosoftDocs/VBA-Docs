@@ -64,4 +64,4 @@ The following code shows how to display the names of the current toolbar buttons
 Debug.Print vsoViewer.ToolbarButtons
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns the  **Selection** object that represents a selection or the insertion p
 
 [Pane Object](Word.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

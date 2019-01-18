@@ -21,4 +21,4 @@ Represents a color in the color palette for a Microsoft Visio document.
 
 The default property of a  **Color** object is **PaletteEntry**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

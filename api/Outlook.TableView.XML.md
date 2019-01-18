@@ -36,4 +36,3 @@ To determine how the XML should be structured when creating views, you can creat
 
 [TableView Object](Outlook.TableView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

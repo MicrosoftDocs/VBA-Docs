@@ -29,4 +29,3 @@ Returns a  **ShadowFormat** object that represents the shadow formatting for the
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

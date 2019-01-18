@@ -34,4 +34,3 @@ The comment text cannot exceed 255 characters.
 
 [Name Object](Excel.Name.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

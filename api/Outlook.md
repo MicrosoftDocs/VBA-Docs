@@ -144,4 +144,3 @@ This section contains documentation for the enumerations in the Outlook object m
 - [OlWindowState enumeration](Outlook.OlWindowState.md)
 - [OlxDefaultFolders enumeration](Outlook.olxdefaultfolde.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,4 +27,4 @@ The width and number of tabs determines the number of rows. Changing the control
 
 If  **MultiRow** is **False** and tabs are truncated, there will be a small scroll bar on the **[TabStrip](Outlook.tabstrip.md)** to allow scrolling to the other tabs or pages.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

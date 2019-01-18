@@ -29,4 +29,3 @@ Returns the number of items in the  **BuildingBlockTypes** collection. Read-only
 
 [BuildingBlockTypes Collection](Word.BuildingBlockTypes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

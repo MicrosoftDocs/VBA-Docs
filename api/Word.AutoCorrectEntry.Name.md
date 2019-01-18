@@ -29,4 +29,3 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 [AutoCorrectEntry Object](Word.AutoCorrectEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

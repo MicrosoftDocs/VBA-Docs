@@ -27,4 +27,3 @@ Specifies how table formatting should be applied.
 | **wdTableFormatApplyLastRow**|64|Apply AutoFormat to last row.|
 | **wdTableFormatApplyShading**|2|Shading.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [Calendars Collection Object](Project.calendars.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

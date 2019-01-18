@@ -22,4 +22,3 @@ Specifies the way Word adjusts the table when the left indent is changed.
 | **wdAdjustProportional**|1|Adjusts the left edge of the first column, preserving the position of the right edge of the table by proportionally adjusting the widths of all the cells in the specified row or rows.|
 | **wdAdjustSameWidth**|3|Adjusts the left edge of the first column, preserving the position of the right edge of the table by setting the widths of all the cells in the specified row or rows to the same value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

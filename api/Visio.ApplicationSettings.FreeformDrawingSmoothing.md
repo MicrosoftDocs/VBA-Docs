@@ -35,4 +35,4 @@ Setting the  **FreeformDrawingSmoothing** property is equivalent to setting the 
 
 Possible values for the  **FreeformDrawingSmoothing** property range from 0 (**Tight**) to 10 (**Loose**). The default is 5.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

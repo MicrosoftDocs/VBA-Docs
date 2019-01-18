@@ -33,5 +33,3 @@ Distributes the rows of a selected table in a report, so that all rows are the s
 
 
 [Shape.Select Method](Project.shape.select.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

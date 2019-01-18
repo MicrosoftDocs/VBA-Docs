@@ -33,4 +33,4 @@ Integer
 
 The  **Flags** property of a **Color** object corresponds to the **peFlags** member of a Microsoft Windows **PALETTEENTRY** data structure. For details, search for "PALETTEENTRY" in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

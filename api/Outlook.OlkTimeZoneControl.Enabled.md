@@ -34,4 +34,3 @@ The default value is  **True**.
 
 [OlkTimeZoneControl Object](Outlook.OlkTimeZoneControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

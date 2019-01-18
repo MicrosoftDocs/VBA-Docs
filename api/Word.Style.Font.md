@@ -44,4 +44,3 @@ ActiveDocument.Styles(wdStyleHeading1).Font.Bold = False
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

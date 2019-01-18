@@ -36,4 +36,3 @@ The default value is an empty string.
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

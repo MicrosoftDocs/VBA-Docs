@@ -29,4 +29,3 @@ _expression_ A variable that represents a [TabControl](Access.TabControl.md) obj
 
 [TabControl Object](Access.TabControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

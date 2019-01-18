@@ -65,4 +65,3 @@ Reperesents the formatting of the page numbering.
 | **pbPageNumberFormatZodiac1**|30|Zodiac1|
 | **pbPageNumberFormatZodiac2**|31|Zodiac2|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -81,4 +81,4 @@ If **visMasIsFillPat** is selected, the pattern mode should be one of the follow
 
 In addition, **visMasFPScale** (&H4000) can optionally be included in the **PatternFlags** property value.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

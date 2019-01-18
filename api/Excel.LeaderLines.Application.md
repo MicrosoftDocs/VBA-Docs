@@ -44,4 +44,3 @@ End If
 
 [LeaderLines Object](Excel.LeaderLines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

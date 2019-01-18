@@ -27,4 +27,4 @@ If neither the  **[Namespace](Outlook.viewctl.namespa.md)** property nor the **F
 
 In addition to accepting a  **string** that represents a valid folder path, you can also set the **Folder** property to the EntryID of the folder that you want to display in the View Control.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -42,4 +42,3 @@ This method is atomic so it makes sure that if layout options cannot be set on a
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

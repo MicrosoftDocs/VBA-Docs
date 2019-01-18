@@ -22,4 +22,3 @@ Contains constants that specify the way Project Server tracks actuals for a proj
 |**pjTrackingMethodSpecifyHours**|1|Tracking is by reported hours worked per period.|
 |**pjTrackingMethodTotalAndRemaining**|3|Tracking is by total work completed and estimated remaining work.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

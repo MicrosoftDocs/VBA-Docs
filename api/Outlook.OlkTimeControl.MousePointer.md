@@ -34,4 +34,3 @@ The default value is  **olMousePointerDefault**.
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

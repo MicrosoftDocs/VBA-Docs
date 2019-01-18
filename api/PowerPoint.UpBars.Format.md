@@ -29,4 +29,3 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 [UpBars Object](PowerPoint.UpBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

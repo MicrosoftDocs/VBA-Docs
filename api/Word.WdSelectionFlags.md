@@ -23,4 +23,3 @@ Specifies the properties of the selection.
 | **wdSelReplace**|16|The selection was replaced.|
 | **wdSelStartActive**|1|The selection is at the start of the active document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

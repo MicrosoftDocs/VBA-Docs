@@ -23,4 +23,3 @@ Specifies spacing for an equation.
 | **wdOMathSpacingMultiple**|4|Custom spacing measurement.|
 | **wdOMathSpacingSingle**|0|Single spacing.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the number of items in the  **Breaks** collection. Read-only **Long**.
 
 [Breaks Collection](Word.Breaks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

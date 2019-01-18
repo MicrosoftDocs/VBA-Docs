@@ -51,4 +51,4 @@ ActiveDocument.Pages(1).Shapes(1).ThreeD _
  .IncrementRotationY Increment:=-10
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

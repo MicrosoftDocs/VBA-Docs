@@ -21,4 +21,3 @@ Specifies the Spanish speller modes.
 | **wdSpanishTuteoOnly**|0|The Spanish spelling checker recognizes only tuteo verb forms.|
 | **wdSpanishVoseoOnly**|2|The Spanish spelling checker recognizes only voseo verb forms.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

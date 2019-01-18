@@ -29,4 +29,3 @@ Deletes the specified equation break.
 
 [OMathBreak Object](Word.OMathBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

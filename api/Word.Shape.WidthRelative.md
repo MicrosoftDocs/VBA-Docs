@@ -34,4 +34,3 @@ Use this property with the  **[RelativeVerticalSize](Word.Shape.RelativeVertical
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

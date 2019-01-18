@@ -89,4 +89,3 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[TabPropsRow](./Visio.Characters.TabPropsRow.md)|
 |[Text](./Visio.Characters.Text.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

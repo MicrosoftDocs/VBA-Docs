@@ -24,4 +24,3 @@ Represents the style of the navigation bar buttons: large, small, or text-only.
 | **pbnbButtonStyleSmall**|1|Small buttons|
 | **pbnbButtonStyleText**|3|Text-only buttons|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

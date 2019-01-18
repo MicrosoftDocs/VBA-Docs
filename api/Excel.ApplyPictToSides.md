@@ -26,4 +26,4 @@ This example applies pictures to the sides of all points in series one. The seri
 myChart.SeriesCollection(1).ApplyPictToSides = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

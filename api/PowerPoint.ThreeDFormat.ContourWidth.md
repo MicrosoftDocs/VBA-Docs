@@ -39,4 +39,3 @@ The maximum value of the  **ContourWidth** property is 144 points.
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

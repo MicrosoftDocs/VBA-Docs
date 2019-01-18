@@ -50,4 +50,3 @@ _expression_ A variable that represents a [Series](./Excel.Series-graph-object.m
 
 [Series Object](Excel.Series(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -78,4 +78,3 @@ To respond to an event caused by moving the mouse, you use a  **MouseMove** even
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,4 @@ Creates a lower pane for the active window. Closes the lower pane, if it already
 
 The lower pane contains the default details view for the active window.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

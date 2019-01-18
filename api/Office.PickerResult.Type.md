@@ -61,4 +61,3 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 [PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

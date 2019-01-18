@@ -58,4 +58,3 @@ When using the  **[Item](Excel.IconCriteria.Item.md)** property to reference a s
 
 [PivotItem Object](Excel.PivotItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

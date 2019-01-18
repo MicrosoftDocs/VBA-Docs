@@ -29,4 +29,3 @@ _expression_ A variable that represents a [FreeformBuilder](Excel.FreeformBuilde
 
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

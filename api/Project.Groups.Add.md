@@ -39,5 +39,3 @@ Adds a  **Group** object to a **Groups** collection.
 
 
 [Groups Collection Object](Project.groups.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ Represents the placement of envelopes in the printer tray.
 | **pbPlacementLeft**|1|Left|
 | **pbPlacementRight**|2|Right|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

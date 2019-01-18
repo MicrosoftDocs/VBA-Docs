@@ -98,4 +98,3 @@ Workbooks.OpenText filename:="DATA.TXT", _
 
 [Workbooks Object](Excel.Workbooks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

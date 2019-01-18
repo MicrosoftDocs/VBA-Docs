@@ -29,4 +29,3 @@ Deletes the specified endnote.
 
 [Endnote Object](Word.Endnote.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

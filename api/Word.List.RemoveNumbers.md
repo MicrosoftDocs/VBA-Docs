@@ -37,4 +37,3 @@ Removes numbers or bullets from the specified list.
 
 [List Object](Word.List.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

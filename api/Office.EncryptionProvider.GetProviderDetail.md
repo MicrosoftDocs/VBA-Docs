@@ -43,5 +43,3 @@ This method allows you to query the **EncryptionProvider** object for informatio
 ## See also
 
 - [EncryptionProvider object members](overview/library-reference/encryptionprovider-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

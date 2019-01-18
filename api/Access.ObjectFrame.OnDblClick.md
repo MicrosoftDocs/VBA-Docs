@@ -62,4 +62,3 @@ End With
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -27,5 +27,3 @@ For an example that uses the  **SeriesCollection.Count** property, see the [Seri
 
 [SeriesCollection Object](Project.seriescollection.md)
 [Series Object](Project.series.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

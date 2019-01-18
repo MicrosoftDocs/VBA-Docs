@@ -77,4 +77,3 @@ If rngTemp.Revisions.Count >= 1 Then _
 
 [Revision Object](Word.Revision.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

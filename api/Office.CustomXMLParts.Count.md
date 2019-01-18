@@ -32,5 +32,3 @@ Long
 ## See also
 
 - [CustomXMLParts object members](overview/library-reference/customxmlparts-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

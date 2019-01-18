@@ -30,4 +30,4 @@ Unlike other Visio collections, the  **AccelTables** collection is indexed start
 
 An  **AccelTable** object is identified in the **AccelTables** collection by its **SetID** property, which corresponds to a Visio window context. For a list of **SetID** values that identify **AccelTable** objects, see the **SetID** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

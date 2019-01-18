@@ -40,4 +40,3 @@ The width of forms and reports is measured from the inside of their borders. The
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

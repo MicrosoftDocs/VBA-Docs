@@ -63,4 +63,3 @@ Specifies the table style element used.
 | **xlTotalRow**|2|Total Row|
 | **xlWholeTable**|0|Whole Table|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

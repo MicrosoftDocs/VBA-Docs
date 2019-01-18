@@ -85,4 +85,3 @@ End Sub
 |[Row](Publisher.CellRange.Row.md)|
 |[Width](Publisher.CellRange.Width.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

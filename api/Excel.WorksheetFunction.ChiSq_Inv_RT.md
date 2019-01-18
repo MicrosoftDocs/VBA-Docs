@@ -59,4 +59,3 @@ Given a value for probability, ChiSq_Inv_RT seeks that value x such that ChiSq_D
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

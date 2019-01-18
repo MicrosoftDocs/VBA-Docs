@@ -58,4 +58,3 @@ myDocument.Shapes.AddShape(msoShapeCube, 50, 50, 100, 200) _
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

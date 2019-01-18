@@ -135,5 +135,3 @@ You can use the image control or an [Unbound object frame](overview/Access.md) f
 
 [Access Object Model Reference](overview/Access/object-model.md)<br>
 [Image Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

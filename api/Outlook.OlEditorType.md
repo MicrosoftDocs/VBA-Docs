@@ -29,4 +29,4 @@ Specifies the editor type.
 
 Used by the [EditorType](Outlook.Inspector.EditorType.md) property of[Inspector](Outlook.Inspector.md) objects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -23,4 +23,3 @@ Contains constants that specify the action to take when opening a resource pool 
 |**pjPoolReadWrite**|2|Open pool as read/write.|
 |**pjPromptPool**|0|Prompt the user before opening the pool.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents the position of a bar in a bar ob
 
 [OMathBar Object](Word.OMathBar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

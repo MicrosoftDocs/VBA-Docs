@@ -29,5 +29,3 @@ Integer
 ## See also
 
 - [GradientStops object members](overview/library-reference/gradientstops-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

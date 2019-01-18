@@ -34,4 +34,3 @@ _expression_ A variable that represents a '[TableStyle](Excel.TableStyle.md)' ob
 
 [TableStyle Object](Excel.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

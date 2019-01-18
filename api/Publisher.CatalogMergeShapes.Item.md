@@ -36,4 +36,4 @@ Returns an individual object in a specified collection.
 
 Shape
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -53,4 +53,3 @@ The following table describes the acceptable threshold values for each type of e
 
 [ConditionValue Object](Excel.ConditionValue.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

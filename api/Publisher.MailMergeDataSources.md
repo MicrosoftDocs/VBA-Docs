@@ -104,4 +104,3 @@ End Sub
 |[Creator](Publisher.MailMergeDataSources.Creator.md)|
 |[Parent](Publisher.MailMergeDataSources.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

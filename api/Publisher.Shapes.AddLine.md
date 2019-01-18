@@ -59,4 +59,4 @@ Set shpLine = ActiveDocument.Pages(1).Shapes.AddLine _
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

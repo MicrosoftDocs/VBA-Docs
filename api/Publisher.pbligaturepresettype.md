@@ -25,4 +25,3 @@ Constants passed to and returned by the  ** [Font.Ligature](Publisher.font.ligat
 | **pbLigatureStandardHistorical**|2|Standard historical ligature applied|
 | **pbLigatureStandardOptional**|1|Standard optional ligature applied|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

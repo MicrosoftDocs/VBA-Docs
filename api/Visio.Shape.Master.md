@@ -35,4 +35,4 @@ If the  **Shape** object is not an instance of a master, its **Master** property
 
 If the  **Shape** object is in a group, its **Master** property is the same as the group's **Master** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

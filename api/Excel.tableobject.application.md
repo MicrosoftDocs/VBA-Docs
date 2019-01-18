@@ -48,4 +48,3 @@ End If
 
 [TableObject Object](Excel.modeltable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

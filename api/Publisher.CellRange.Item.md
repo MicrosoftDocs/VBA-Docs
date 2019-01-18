@@ -48,4 +48,4 @@ Dim cllTemp As Cell
 Set cllTemp = ActiveDocument.Pages(Index:=1).Shapes(1).Table.Cells.Item(Index:=1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

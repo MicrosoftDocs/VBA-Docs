@@ -34,4 +34,3 @@ This is a free-form text field.
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

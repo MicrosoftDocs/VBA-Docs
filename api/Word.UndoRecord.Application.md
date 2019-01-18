@@ -29,4 +29,3 @@ Returns an [Application](Word.Application.md) object that represents the Word ap
 
 [UndoRecord Object](Word.UndoRecord.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

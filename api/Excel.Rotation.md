@@ -26,4 +26,4 @@ This example sets the rotation of  `myChart` to 30 degrees. The example should b
 myChart.Rotation = 30
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

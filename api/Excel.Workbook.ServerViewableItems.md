@@ -34,4 +34,3 @@ This property returns a collection of the items that could be published to Excel
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

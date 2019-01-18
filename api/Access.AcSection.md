@@ -30,4 +30,3 @@ Specifies the section that will contain the new control.
 |**acPageFooter**|4|Page footer|
 |**acPageHeader**|3|Page header|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Contains constants that specify how to handle the ** CTRL+BREAK** key combinatio
 |**pjErrorHandler**|2|Sends the interrupt to the macro as a trappable error. The error code is 18.|
 |**pjInterrupt**|1|**CTRL+BREAK** interrupts the macro.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,4 +30,4 @@ Indicates the status of an item after it is received by a remote user.
 
 See  **MarkForDownLoad** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

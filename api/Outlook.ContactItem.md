@@ -279,5 +279,3 @@ Set myItem = Application.CreateItem(olContactItem)
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [ContactItem Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

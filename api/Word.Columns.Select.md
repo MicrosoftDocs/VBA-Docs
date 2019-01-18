@@ -34,4 +34,3 @@ After using this method, use the  **[Selection](Word.Selection.md)** object to w
 
 [Columns Collection Object](Word.columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

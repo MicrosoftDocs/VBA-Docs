@@ -43,4 +43,3 @@ If the presentation contains more than one section, you cannot delete the first 
 
 [SectionProperties Object](PowerPoint.SectionProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

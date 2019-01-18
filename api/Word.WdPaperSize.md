@@ -60,4 +60,3 @@ Specifies a paper size.
 | **wdPaperStatement**|22|Statement dimensions.|
 | **wdPaperTabloid**|23|Tabloid dimensions.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

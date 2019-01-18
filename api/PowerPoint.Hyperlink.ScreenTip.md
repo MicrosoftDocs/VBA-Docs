@@ -50,4 +50,3 @@ ActivePresentation.Slides(1).Hyperlinks(1) _
 
 [Hyperlink Object](PowerPoint.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

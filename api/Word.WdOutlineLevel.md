@@ -28,4 +28,3 @@ Specifies the outline level to apply to a paragraph.
 | **wdOutlineLevel9**|9|Outline level 9.|
 | **wdOutlineLevelBodyText**|10|No outline level.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

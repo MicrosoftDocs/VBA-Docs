@@ -37,4 +37,4 @@ Adds a new drawing guide to the presentation, slide master, or custom layout.
 
 [Guide](PowerPoint.guide.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

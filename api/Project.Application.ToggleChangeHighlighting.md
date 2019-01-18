@@ -33,4 +33,4 @@ Toggles calculation  **Change Highlighting** on or off.
 
 Returns  **True** if successful. See also the **[EnableChangeHighlighting](Project.Application.EnableChangeHighlighting.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

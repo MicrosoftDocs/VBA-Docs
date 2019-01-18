@@ -24,4 +24,3 @@ Specifies whether the page number is the current page number or the next or prev
 | **pbPageNumberNextInStory**|2|Inserts the page number of the next linked text box.|
 | **pbPageNumberPreviousInStory**|3|Inserts the page number of the previous linked text box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

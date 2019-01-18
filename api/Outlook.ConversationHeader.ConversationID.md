@@ -36,4 +36,3 @@ This property corresponds with the MAPI property  **PidTagConversationId**.
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

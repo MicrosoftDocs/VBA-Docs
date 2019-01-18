@@ -44,4 +44,4 @@ When a list box control's  **[MultiSelect](Outlook.listbox.multiselect.md)** pro
 
 Entering a value that is out of range for the index does not generate an error message, but does not set a property for any item in the list.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

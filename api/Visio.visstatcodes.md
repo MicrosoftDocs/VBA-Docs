@@ -24,4 +24,3 @@ Status information codes returned by the  **Stat** property of various objects.
 | **visStatNormal**|0|Object status is normal.|
 | **visStatSuspended**|16|Object status is suspended.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

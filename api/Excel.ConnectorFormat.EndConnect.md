@@ -62,4 +62,3 @@ End With
 
 [ConnectorFormat Object](Excel.ConnectorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

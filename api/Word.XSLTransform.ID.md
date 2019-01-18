@@ -29,4 +29,3 @@ Returns a  **String** containing the GUID assigned to the current[XSLTransform](
 
 [XSLTransform Object](Word.XSLTransform.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

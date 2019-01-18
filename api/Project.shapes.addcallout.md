@@ -98,5 +98,3 @@ End Sub
 [Shapes Object](Project.shapes.md)
 [Shape Object](Project.shape.md)
 [AddShape Method](Project.shapes.addshape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

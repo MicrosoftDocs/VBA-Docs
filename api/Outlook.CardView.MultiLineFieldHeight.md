@@ -34,4 +34,3 @@ This property can be set to a value between 1 and 20. If this property is set to
 
 [CardView Object](Outlook.CardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

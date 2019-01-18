@@ -57,4 +57,3 @@ ActiveWorkbook.ChangeLink "c:\excel\book1.xls", _
 
 [Workbook Object](Excel.Workbook.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

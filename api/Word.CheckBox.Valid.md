@@ -42,4 +42,3 @@ MsgBox myFormField.CheckBox.Valid
 
 [CheckBox Object](Word.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

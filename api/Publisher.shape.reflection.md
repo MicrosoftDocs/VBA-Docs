@@ -28,5 +28,5 @@ Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represe
 
 
  [Shape Object](./Word.Shape.md)
+ 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

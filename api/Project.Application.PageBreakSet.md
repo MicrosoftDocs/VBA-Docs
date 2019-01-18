@@ -28,4 +28,4 @@ Sets a page break in the active row.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

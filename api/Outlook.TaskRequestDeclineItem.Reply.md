@@ -42,4 +42,3 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

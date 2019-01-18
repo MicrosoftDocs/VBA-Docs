@@ -26,4 +26,4 @@ This example enables Microsoft Graph to automatically correct accidental use of 
 myChart.Application.AutoCorrect.CorrectCapsLock = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

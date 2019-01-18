@@ -41,4 +41,4 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

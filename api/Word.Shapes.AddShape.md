@@ -51,4 +51,3 @@ To change the type of an AutoShape that you've added, set the  **AutoShapeType**
 
 [Shapes Collection Object](Word.shapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

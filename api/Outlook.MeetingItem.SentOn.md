@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagClientSubmitTime**. When
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

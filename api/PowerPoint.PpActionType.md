@@ -32,4 +32,3 @@ Specifies the type of action that will occur when the specified shape is clicked
 |**ppActionRunMacro**|8|Runs a macro.|
 |**ppActionRunProgram**|9|Runs a program.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

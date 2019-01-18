@@ -33,4 +33,4 @@ Shows or hides assignments for one or more selected task or resources in usage v
 
 The  **ToggleAssignments** method has the same effect as clicking the box next to a task or resource, to expand or hide assignments.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

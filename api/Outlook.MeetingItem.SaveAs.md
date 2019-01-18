@@ -43,4 +43,3 @@ Also note that even though  **olDoc** is a valid **OlSaveAsType** constant, mess
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

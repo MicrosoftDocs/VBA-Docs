@@ -29,4 +29,3 @@ Specifies to the relative horizontal position of a shape. Read/write  **[WdRelat
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

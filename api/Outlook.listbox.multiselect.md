@@ -38,4 +38,4 @@ When the  **MultiSelect** property is set to 1 or 2, you must use the list box's
 
 The  **[ListIndex](Outlook.listbox.listindex.md)** property returns the index of the row with the keyboard focus.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

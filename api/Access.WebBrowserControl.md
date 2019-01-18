@@ -146,5 +146,3 @@ Use the [ControlSource](Access.WebBrowserControl.ControlSource.md) property to s
 
 [Access Object Model Reference](overview/Access/object-model.md)
 [WebBrowserControl Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -52,4 +52,3 @@ Text-field codes passed to the  **AddField** and **AddFieldEx** methods.
 | **visFCodeTitle**|6|Document title.|
 | **visFCodeWidth**|0|Width.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

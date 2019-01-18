@@ -32,5 +32,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [Projects Collection Object](Project.projects.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

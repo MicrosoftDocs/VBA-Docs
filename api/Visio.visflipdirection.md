@@ -21,4 +21,3 @@ Direction constants to pass to the  **Selection.Flip** method.
 | **visFlipHorizontal**|1|Flip the selection horizontally.|
 | **visFlipVertical**|2|Flip the selection vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

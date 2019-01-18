@@ -37,4 +37,4 @@ This example sets the border weight for the chart area.
 myChart.ChartArea.Border.Weight = xlMedium
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

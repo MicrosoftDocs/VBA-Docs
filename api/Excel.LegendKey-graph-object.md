@@ -27,4 +27,4 @@ myChart.Legend.LegendEntries(1) _
  .LegendKey.MarkerBackgroundColorIndex = 5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

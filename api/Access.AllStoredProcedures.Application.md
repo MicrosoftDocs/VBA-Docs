@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [AllStoredProcedures Collection](Access.AllStoredProcedures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

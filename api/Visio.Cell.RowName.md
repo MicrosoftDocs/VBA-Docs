@@ -42,4 +42,4 @@ When you change a row name, any cell objects referring to cells in that row beco
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **RowName** property to get or set an object's local row name. Use the **RowNameU** property to get or set an object's universal row name.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

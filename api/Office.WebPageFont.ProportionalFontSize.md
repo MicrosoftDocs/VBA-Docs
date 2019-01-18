@@ -53,4 +53,3 @@ Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _
 
 [WebPageFont Object Members](./overview/Library-Reference/webpagefont-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

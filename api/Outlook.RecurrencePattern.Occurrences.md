@@ -34,4 +34,3 @@ This property allows the definition of a recurrence pattern that is only valid f
 
 [RecurrencePattern Object](Outlook.RecurrencePattern.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

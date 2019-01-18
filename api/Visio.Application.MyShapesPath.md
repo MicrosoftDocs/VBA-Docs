@@ -33,4 +33,4 @@ String
 
 The setting of the  **MyShapesPath** property corresponds to the value of the **My Shapes** text box in the **File Locations** dialog box. (Click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click  **File Locations**.)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

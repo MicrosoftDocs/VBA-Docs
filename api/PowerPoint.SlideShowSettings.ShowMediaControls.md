@@ -29,4 +29,3 @@ Allows access to the media controls in the  **SlideShowSettings** object. Read/w
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

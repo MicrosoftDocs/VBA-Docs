@@ -21,4 +21,3 @@ Specifies the security mode an application uses when programmatically opening fi
 |**msoAutomationSecurityForceDisable**|3|Disables all macros in all files opened programmatically, without showing any security alerts.|
 |**msoAutomationSecurityLow**|1|Enables all macros. This is the default value when the application is started.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

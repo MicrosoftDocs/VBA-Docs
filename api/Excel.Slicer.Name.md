@@ -39,4 +39,3 @@ The name must be unique across all slicers within a workbook. The default name u
 
 [Slicer Object](Excel.Slicer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

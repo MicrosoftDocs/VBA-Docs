@@ -41,4 +41,3 @@ The workbook connection value must be unique. Setting the workbook connection to
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

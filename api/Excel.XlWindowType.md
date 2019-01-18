@@ -23,4 +23,3 @@ Specifies how the chart is displayed.
 | **xlInfo**|-4129|This constant has been deprecated.|
 | **xlWorkbook**|1|This constant applies to Macintosh only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the identification type for the range of shapes. Read-only  **Long**.
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ The  **Views** method has the same effect as the **More Views** command in the *
 
 To specify the pane to select in a split view, use the  **[ViewsEx](Project.Application.ViewsEx.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

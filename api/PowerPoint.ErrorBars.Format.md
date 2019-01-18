@@ -30,4 +30,3 @@ _expression_ A variable that represents an '[ErrorBars](PowerPoint.ErrorBars.md)
 
 [ErrorBars Object](PowerPoint.ErrorBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

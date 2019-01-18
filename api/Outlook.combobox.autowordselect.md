@@ -30,4 +30,4 @@ The  **AutoWordSelect** property specifies how the selection extends or contract
 
 If the user places the insertion point in the middle of a word and then extends the selection while  **AutoWordSelect** is **True**, the selection includes the entire word.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

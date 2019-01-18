@@ -54,4 +54,3 @@ End With
 
 [Filter Object](Excel.Filter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

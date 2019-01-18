@@ -33,4 +33,4 @@ Custom forms are not used in Project.
 
 In previous versions of Project, the  **CustomForms** method displays the **Customize Forms** dialog box, which prompts the user to manage custom forms.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

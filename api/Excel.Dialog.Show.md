@@ -61,4 +61,3 @@ Application.Dialogs(xlDialogOpen).Show
 
 [Dialog Object](Excel.Dialog.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

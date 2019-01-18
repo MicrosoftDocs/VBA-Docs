@@ -49,4 +49,3 @@ Nothing
 | **xlXmlExportSuccess**. The XML data file was successfully exported.|
 | **xlXmlExportValidationFailed**. The contents of the XML data file do not match the specified schema map.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

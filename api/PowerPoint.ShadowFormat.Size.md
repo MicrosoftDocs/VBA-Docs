@@ -39,4 +39,3 @@ Setting the  **Size** property to 0 removes the shadow. Setting the **Size** pro
 
 [ShadowFormat Object](PowerPoint.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

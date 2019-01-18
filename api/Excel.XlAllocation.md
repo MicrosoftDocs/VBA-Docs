@@ -18,4 +18,3 @@ Specifies when to calculate changes when performing what-if analysis on a PivotT
 | **xlAutomaticAllocation**|2|Calculate changes automatically after each value is changed.|
 | **xlManualAllocation**|1|Calculate changes manually. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

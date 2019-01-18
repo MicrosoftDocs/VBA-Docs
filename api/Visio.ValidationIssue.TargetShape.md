@@ -33,4 +33,4 @@ Returns the  **[Shape](Visio.Shape.md)** object that is associated with the vali
 
  If the error is not associated with a specific shape, the **TargetShape** property returns **Nothing**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

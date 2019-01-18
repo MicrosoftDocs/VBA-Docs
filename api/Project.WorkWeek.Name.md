@@ -33,4 +33,3 @@ For a code example that uses the  **Task** object, see **[Name](Project.Task.Nam
 
 [WorkWeek Object](Project.WorkWeek.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

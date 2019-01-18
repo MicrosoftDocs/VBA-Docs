@@ -29,4 +29,3 @@ Returns an  **[OMathLimUpp](Word.OMathLimUpp.md)** object that represents upper 
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

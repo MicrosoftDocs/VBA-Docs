@@ -42,4 +42,3 @@ End With
 
 [Pane Object](Word.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

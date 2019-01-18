@@ -20,4 +20,3 @@ Specifies how to shift cells to replace deleted cells.
 | **xlShiftToLeft**|-4159|Cells are shifted to the left.|
 | **xlShiftUp**|-4162|Cells are shifted up.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

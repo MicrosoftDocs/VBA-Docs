@@ -41,4 +41,3 @@ Use a property such as the  **[BottomPane](Project.Window.BottomPane.md)** prope
 |[Index](Project.Pane.Index.md)|
 |[Parent](Project.Pane.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

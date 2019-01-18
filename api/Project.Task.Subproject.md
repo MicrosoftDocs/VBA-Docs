@@ -30,4 +30,4 @@ The following line of code inserts the specified project as a subproject for the
 activecell.Task.SubProject = "C:\Project\MySubProject.mpp"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

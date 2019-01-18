@@ -39,4 +39,3 @@ For more information about A1-style notation, see [How to: Refer to Cells and Ra
 
 [ChartTitle Object](Excel.ChartTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

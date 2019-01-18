@@ -43,4 +43,3 @@ Specifies the border style for an object.
 | **wdLineStyleThinThickThinSmallGap**|11|An internal single thin solid line surrounded by a single thick solid line surrounded by a single thin solid line with a small gap between all lines.|
 | **wdLineStyleTriple**|8|Three solid thin lines.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

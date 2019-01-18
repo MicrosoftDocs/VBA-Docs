@@ -45,4 +45,3 @@ ActiveDocument.Indexes(1).IndexLanguage = _
 
 [Index Object](Word.Index.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

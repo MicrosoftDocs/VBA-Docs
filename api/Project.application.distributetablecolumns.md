@@ -33,5 +33,3 @@ Distributes the columns of a selected table in a report, so that all columns are
 
 
 [Shape.Select Method](Project.shape.select.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

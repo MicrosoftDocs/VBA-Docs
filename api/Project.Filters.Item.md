@@ -33,5 +33,3 @@ Gets a single  **Filter** object from the **Filters** collection. Read-only **Fi
 
 
 [Filters Collection Object](Project.filters.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

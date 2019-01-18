@@ -37,4 +37,3 @@ Returns a  **String** that represents the Uniform Resource Identifier (URI) of t
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

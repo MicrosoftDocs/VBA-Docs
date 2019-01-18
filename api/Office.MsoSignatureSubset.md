@@ -24,4 +24,3 @@ Specifies properties of the signature subset. These settings act as filters for 
 |**msoSignatureSubsetSignaturesAllSigs**|0|All non-visible signatures plus all signed signature lines.|
 |**msoSignatureSubsetSignaturesNonVisible**|1|All non-visible signatures.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

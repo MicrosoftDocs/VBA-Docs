@@ -25,5 +25,3 @@ Gets or sets the period for calendar exception recurrences, specified as the num
 
 
 [Exception Object](Project.Exception.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

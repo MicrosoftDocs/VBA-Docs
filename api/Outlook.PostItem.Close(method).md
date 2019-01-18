@@ -37,4 +37,3 @@ _expression_ A variable that represents a [PostItem](./Outlook.PostItem.md) obje
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

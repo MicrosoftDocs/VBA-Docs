@@ -118,4 +118,3 @@ End Sub
 |[Count](Publisher.Columns.Count.md)|
 |[Parent](Publisher.Columns.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

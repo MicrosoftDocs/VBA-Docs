@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **SpinButton** object.
 
 The  **Value** property is an integer between the values specified for the **[Max](Outlook.spinbutton.max.md)** and **[Min](Outlook.spinbutton.min.md)** properties.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

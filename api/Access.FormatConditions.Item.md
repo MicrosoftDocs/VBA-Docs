@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [FormatConditions Collection](Access.FormatConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

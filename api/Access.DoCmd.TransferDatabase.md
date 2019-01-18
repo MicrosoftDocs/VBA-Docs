@@ -81,4 +81,3 @@ DoCmd.TransferDatabase acLink, "ODBC Database", _
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

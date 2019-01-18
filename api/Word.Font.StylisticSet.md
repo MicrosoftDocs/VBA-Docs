@@ -45,4 +45,3 @@ ActiveDocument.Range.Font.StylisticSet = wdStylisticSet06
 
 [Font Object](Word.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

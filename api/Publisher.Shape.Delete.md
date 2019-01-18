@@ -30,4 +30,4 @@ A run-time error occurs if the specified object does not exist.
 
 Closing a mail merge data source deletes the shape that represents the catalog merge area of the publication page associated with the data source
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

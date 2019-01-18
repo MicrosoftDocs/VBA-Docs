@@ -61,4 +61,3 @@ ws.Range("A2").CopyFromRecordset rs
 
 - [Range object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

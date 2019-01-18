@@ -47,4 +47,3 @@ The  **GetAssociatedTask** method will not work unless the **TaskItem** is proce
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

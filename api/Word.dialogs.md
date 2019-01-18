@@ -38,4 +38,4 @@ For more information, see [Displaying built-in Word dialog boxes](../word/Concep
 
 [Word Object Model Reference](./overview/Word/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

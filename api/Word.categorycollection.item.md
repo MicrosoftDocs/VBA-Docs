@@ -41,4 +41,4 @@ Returns an individual chart category.
 
 [CategoryCollection Object](Word.categorycollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

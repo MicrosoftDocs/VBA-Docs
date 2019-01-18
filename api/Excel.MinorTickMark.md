@@ -37,4 +37,4 @@ This example sets the minor tick marks for the value axis to be inside the axis.
 myChart.Axes(xlValue).MinorTickMark = xlTickMarkInside
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

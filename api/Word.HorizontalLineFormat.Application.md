@@ -34,4 +34,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [HorizontalLineFormat Object](Word.HorizontalLineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,4 +31,3 @@ Specifies the subtotal function.
 | **xlVar**|-4164|Variation, based on a sample.|
 | **xlVarP**|-4165|Variation, based on the whole population.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

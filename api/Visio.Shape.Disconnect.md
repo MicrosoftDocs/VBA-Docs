@@ -58,4 +58,4 @@ Visio offsets the endpoint(s) from their current position by the amount specifie
 
 The  **Disconnect** method does not apply to non-connector shapes. If you call **Disconnect** on a non-connector shape or on a shape in a master, Visio returns an Invalid Source error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

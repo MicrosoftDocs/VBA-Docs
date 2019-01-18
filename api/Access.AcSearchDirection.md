@@ -24,4 +24,3 @@ Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) met
 |**acSearchAll**|2|Search all records.|
 |**acUp**|0|Search all records above the current record.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -49,4 +49,4 @@ For any given session of Microsoft Visio, when the  **RasterExportColorReduction
 
 The setting of the  **RasterExportColorReduction** property corresponds to the **Color reduction** setting in the **BMP Output Options**,  **GIF Output Options**,  **PNG Output Options**, or  **TIFF Output Options** dialog box. (Click the **File** tab, click **Save As**, in the  **Save as type** list, select **Windows Bitmap (*.bmp; *.dib)**,  **Graphics Interchange Format (*.gif)**,  **Portable Network Graphics (*.png)**, or  **Tag Image File Format (*.tif)**, and then click  **Save**.)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

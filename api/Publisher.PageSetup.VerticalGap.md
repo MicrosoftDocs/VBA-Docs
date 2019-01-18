@@ -33,4 +33,4 @@ Variant
 
 You can use the  **VerticalGap** property when you want to print multiple pages on a single sheet of printer paper. If the page size, including the values for the **VerticalGap** and **HorizontalGap** properties, is greater than half the paper size, Microsoft Publisher displays an error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

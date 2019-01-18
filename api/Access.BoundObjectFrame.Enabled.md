@@ -36,4 +36,3 @@ When the  **Enabled** property is **True**, the conditional format can be displa
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

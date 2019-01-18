@@ -34,4 +34,3 @@ The  **ExchangeStoreType** property distinguishes among different Exchange store
 
 [Store Object](Outlook.Store.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

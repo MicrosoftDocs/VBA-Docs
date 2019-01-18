@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -63,4 +63,3 @@ Given a value for probability, ChiInv seeks that value x such that ChiDist(x, de
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

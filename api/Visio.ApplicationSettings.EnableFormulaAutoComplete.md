@@ -33,4 +33,4 @@ Indicates whether ShapeSheet formula AutoComplete is enabled. Read/write.
 
 The setting of the  **EnableFormulaAutoComplete** property corresponds to the setting of the **ShapeSheet formula AutoComplete** check box under **Editing options** on the **Advanced** tab of the **Visio Options** dialog box. To open the **Visio Options** dialog box, click the **File** tab, click **Options**, and then click  **Advanced**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

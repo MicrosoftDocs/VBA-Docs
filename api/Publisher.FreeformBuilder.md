@@ -62,4 +62,3 @@ End Sub
 |[Application](Publisher.FreeformBuilder.Application.md)|
 |[Parent](Publisher.FreeformBuilder.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

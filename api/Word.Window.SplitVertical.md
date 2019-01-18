@@ -53,4 +53,3 @@ Windows("Document1").SplitVertical = 50
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

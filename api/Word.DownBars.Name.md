@@ -29,4 +29,3 @@ Returns the name of the object. Read-only  **String**.
 
 [DownBars Object](Word.DownBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

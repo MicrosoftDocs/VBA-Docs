@@ -41,4 +41,3 @@ A [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object containe
 
 [ModelColumnChanges Object](Excel.modelcolumnchanges.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

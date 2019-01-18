@@ -29,4 +29,3 @@ Returns the name of the author of the comment. Read-only  **String**.
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

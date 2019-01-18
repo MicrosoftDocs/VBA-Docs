@@ -34,4 +34,3 @@ OMathFunction
 
 [OMathScrSubSup Object](Word.OMathScrSubSup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

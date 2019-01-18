@@ -29,4 +29,3 @@ Returns or sets an  **MsoLightRigType** constant that represents the type and di
 
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies the text orientation for tick-mark labels.
 | **xlTickLabelOrientationUpward**|-4171|The text runs upward.|
 | **xlTickLabelOrientationVertical**|-4166|The characters run vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

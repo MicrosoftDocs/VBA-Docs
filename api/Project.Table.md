@@ -42,4 +42,3 @@ Represents a table in Project. The  **Table** object is a member of the **[Table
 |[TableFields](./Project.Table.TableFields.md)|
 |[TableType](./Project.Table.TableType.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

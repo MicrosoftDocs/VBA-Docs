@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of tables of figures in the colle
 
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

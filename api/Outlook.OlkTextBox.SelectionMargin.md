@@ -34,4 +34,3 @@ If  **True** , clicking in the margin causes selection of text. If **False** , t
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

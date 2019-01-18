@@ -48,4 +48,3 @@ Application.DefaultWebOptions.LocationOfComponents = _
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

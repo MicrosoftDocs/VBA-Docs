@@ -33,4 +33,4 @@ Starts the Visual Basic Editor.
 
 The  **MacroShowVba** method has the same effect as pressing the **Alt** and **F11** keys.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

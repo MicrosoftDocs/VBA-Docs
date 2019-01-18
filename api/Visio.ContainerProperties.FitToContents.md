@@ -35,4 +35,4 @@ Calling the  **FitToContents** method has no effect on the **[ResizeAsNeeded](Vi
 
 The  **FitToContents** method does not work for list shapes.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

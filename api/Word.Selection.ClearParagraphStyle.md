@@ -37,4 +37,3 @@ This method does not remove paragraph formatting that a user has applied manuall
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

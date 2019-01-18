@@ -34,4 +34,3 @@ For the  **Font** object, this property has no effect in Microsoft Windows, but 
 
 [ChartObject Object](Excel.ChartObject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Contains constants that specify the positioning scheme to use for display.
 |**pjLayoutTopDownCriticalFirst**|4|Layout top down by critical first.|
 |**pjLayoutTopDownFromLeft**|0|Layout top down from left.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

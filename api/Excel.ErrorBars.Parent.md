@@ -29,4 +29,3 @@ _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-pro
 
 [ErrorBars Object](Excel.ErrorBars(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

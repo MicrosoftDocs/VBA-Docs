@@ -29,4 +29,3 @@ Downgrades a document to the Word 97-2003 document format so that it can be edit
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,3 @@ This property along with the **[Dynamic](Excel.CalculatedMember.Dynamic.md)** an
 
 [CalculatedMember Object](Excel.CalculatedMember.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

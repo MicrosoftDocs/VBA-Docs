@@ -44,4 +44,4 @@ The setting of the  **SATextUI** property corresponds to the regional options se
 
 The setting of the  **SATextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **SATextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

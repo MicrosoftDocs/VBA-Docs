@@ -26,5 +26,3 @@ Gets or sets the height of the shape, in points. Read-write  **Single**.
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

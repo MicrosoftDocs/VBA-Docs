@@ -28,4 +28,4 @@ Returns the parent of the  **[MailMergeDataSources](Publisher.MailMergeDataSourc
 
 Object
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

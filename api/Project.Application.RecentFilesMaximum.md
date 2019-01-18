@@ -30,4 +30,4 @@ The value of the  **RecentFilesMaximum** property can be 0 to 50.
 
 Setting the  **RecentFilesMaximum** property to 0 also sets the **DisplayRecentFiles** property to **False**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

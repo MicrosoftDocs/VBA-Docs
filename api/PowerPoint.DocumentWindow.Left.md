@@ -29,4 +29,4 @@ _expression_ A variable that represents a [DocumentWindow](./PowerPoint.Document
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -23,4 +23,3 @@ Specifies a tri-state value.
 |**msoTriStateToggle**|-3|Not supported.|
 |**msoTrue**|-1|True.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

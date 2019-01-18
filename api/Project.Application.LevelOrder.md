@@ -27,4 +27,4 @@ The  **LevelOrder** property can be one of the following **[PjLevelOrder](Projec
 
 You can also set the  **LevelOrder** property in the **Resource Leveling** dialog box. To access the setting, click **Leveling Options** on the **Resource** tab of the Ribbon, and then set the **Leveling order** drop-down list.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

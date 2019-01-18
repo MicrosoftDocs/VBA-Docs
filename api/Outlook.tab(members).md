@@ -27,4 +27,5 @@ Represents an individual member of a  [Tabs](Outlook.tabs.md) collection.
 | [Tag](Outlook.tab.tag.md)|Returns or sets a  **String** that specifies additional information about an object. Read/write.|
 | [Visible](Outlook.tab.visible.md)|Returns or sets a  **Boolean** that specifies whether a **Tab** is visible or hidden. Read/write.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

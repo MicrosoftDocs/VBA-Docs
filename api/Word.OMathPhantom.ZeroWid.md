@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether the width of a phantom ob
 
 [OMathPhantom Object](Word.OMathPhantom.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 [LegendEntry Object](PowerPoint.LegendEntry.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

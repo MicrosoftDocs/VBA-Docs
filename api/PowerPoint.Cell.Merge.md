@@ -59,4 +59,3 @@ End With
 [Presentation Object](PowerPoint.Presentation.md)
 [Cell Object](PowerPoint.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

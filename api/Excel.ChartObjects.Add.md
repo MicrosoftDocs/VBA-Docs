@@ -56,4 +56,3 @@ co.Chart.ChartWizard Source:=Worksheets("Sheet1").Range("A1:B2"), _
 
 [ChartObjects Object](Excel.ChartObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

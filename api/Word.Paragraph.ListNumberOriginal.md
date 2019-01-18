@@ -37,4 +37,3 @@ Returns an  **Integer** that represents the original list level for a paragraph.
 
 [Paragraph Object](Word.Paragraph.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

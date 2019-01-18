@@ -28,4 +28,4 @@ Determines whether an object is a default Microsoft Visio user interface object 
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

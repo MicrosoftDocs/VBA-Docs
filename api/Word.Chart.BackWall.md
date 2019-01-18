@@ -29,4 +29,3 @@ Returns an object that allows the user to individually format the back wall of a
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

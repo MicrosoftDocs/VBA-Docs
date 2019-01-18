@@ -42,5 +42,3 @@ For more information about external content types, see [What Are External Conten
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

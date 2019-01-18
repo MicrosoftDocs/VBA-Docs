@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

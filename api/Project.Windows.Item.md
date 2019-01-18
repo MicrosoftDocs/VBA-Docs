@@ -33,5 +33,3 @@ Gets a single  **Window** object from the **Windows** collection. Read-only **Wi
 
 
 [Windows Collection Object](Project.windows(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

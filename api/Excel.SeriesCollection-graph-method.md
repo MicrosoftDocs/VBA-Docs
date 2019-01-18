@@ -31,4 +31,4 @@ This example turns on data labels for series one.
 myChart.SeriesCollection(1).HasDataLabels = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

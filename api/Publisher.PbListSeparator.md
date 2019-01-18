@@ -30,4 +30,3 @@ Constants that represent the list separator of the specified paragraphs, passed 
 | **pbListSeparatorSquare**|262144|Square|
 | **pbListSeparatorWideComma**|524288|WideComma|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

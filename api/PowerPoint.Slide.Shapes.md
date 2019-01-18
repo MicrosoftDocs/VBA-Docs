@@ -99,4 +99,3 @@ testShape.TextFrame.TextRange.Text = "First Item" & _
 
 [Slide Object](PowerPoint.Slide.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

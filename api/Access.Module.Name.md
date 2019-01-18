@@ -44,4 +44,3 @@ Controls on the same form, report, or data access page can't have the same name,
 
 [Module Object](Access.Module.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

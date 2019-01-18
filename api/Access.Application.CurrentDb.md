@@ -69,4 +69,3 @@ Set dbsContacts = DBEngine.Workspaces(0).OpenDatabase("Contacts.mdb")
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

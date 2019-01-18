@@ -40,4 +40,4 @@ Set vsoIssues = vsoDocument.Validation.Issues
 intIssueTotal = vsoIssues.Count
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

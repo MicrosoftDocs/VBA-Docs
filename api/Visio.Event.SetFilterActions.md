@@ -104,4 +104,4 @@ Dim alngFilterActions(1 To (3 * 3)) As Long
 
 Note that mouse actions that occupy the second position in an array-element triplet must always be later in the sequence (that is, higher in value) than those that occupy the first position in an array-element triplet.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

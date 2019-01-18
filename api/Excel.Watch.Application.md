@@ -44,4 +44,3 @@ End If
 
 [Watch Object](Excel.Watch.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

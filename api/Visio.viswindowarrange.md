@@ -22,4 +22,3 @@ Values to pass to the  **Windows.Arrange** method.
 | **visArrangeTileHorizontal**|2|Tile the windows horizontally.|
 | **visArrangeTileVertical**|1|Tile the windows vertically.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

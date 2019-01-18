@@ -33,4 +33,3 @@ _expression_ A variable that represents a [ModelTableNames object (Excel)](Excel
 
 [ModelTableNames Object](Excel.modeltablenames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

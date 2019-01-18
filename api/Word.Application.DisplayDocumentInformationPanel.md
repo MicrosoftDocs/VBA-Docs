@@ -30,4 +30,3 @@ This property has been deprecated in Office 2016, but it remains part of the obj
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

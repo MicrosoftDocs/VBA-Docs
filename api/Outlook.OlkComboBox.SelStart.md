@@ -38,4 +38,3 @@ The  **SelStart** property is always valid, even when the control does not have 
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

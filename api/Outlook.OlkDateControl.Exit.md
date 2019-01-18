@@ -36,4 +36,3 @@ _expression_ A variable that represents an **OlkDateControl** object.
 
 - [OlkDateControl Object](Outlook.OlkDateControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

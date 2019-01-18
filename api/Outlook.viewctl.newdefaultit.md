@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 The item type that the method creates is the default item type for the folder that is displayed in the control.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

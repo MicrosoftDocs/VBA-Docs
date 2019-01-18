@@ -31,4 +31,3 @@ Note that the index value for the first page of a collection is zero, the value 
 
  [Pages Object](Outlook.pages(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

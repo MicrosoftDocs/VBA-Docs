@@ -28,4 +28,4 @@ Returns the base cyan-magenta-yellow-black (CMYK) color value of the parent  **C
 
 ColorCMYK
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

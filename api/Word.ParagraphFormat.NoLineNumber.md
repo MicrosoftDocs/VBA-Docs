@@ -34,4 +34,3 @@ Use the  **[LineNumbering](Word.PageSetup.LineNumbering.md)** property of the **
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,4 @@ Gets the index of a  **WeekDay** object in the **WeekDays** containing object. R
 
 The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

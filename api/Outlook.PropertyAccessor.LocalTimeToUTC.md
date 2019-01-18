@@ -47,4 +47,3 @@ For more information on type conversion when using the  **PropertyAccessor** obj
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

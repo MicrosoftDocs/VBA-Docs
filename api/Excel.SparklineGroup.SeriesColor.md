@@ -34,4 +34,3 @@ FormatColor
 
 [SparklineGroup Object](Excel.SparklineGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

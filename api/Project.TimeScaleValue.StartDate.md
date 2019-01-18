@@ -20,4 +20,4 @@ The start date for a period of time that defines a timescale data unit. Read-onl
 
  _expression_ A variable that represents a [TimeScaleValue](./Project.TimeScaleValue.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

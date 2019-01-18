@@ -34,4 +34,3 @@ If the  **HeightRule** property of the specified row is **wdRowHeightAuto** , **
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

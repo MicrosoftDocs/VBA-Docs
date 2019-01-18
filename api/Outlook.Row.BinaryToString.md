@@ -47,4 +47,3 @@ Use the helper functions  **Row.BinaryToString** , **[Row.LocalTimeToUTC](Outloo
 
 [Row Object](Outlook.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

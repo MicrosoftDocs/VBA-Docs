@@ -34,4 +34,4 @@ Makes a copy of a group definition for the  **TaskGroups** collection and return
 
  **Group**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

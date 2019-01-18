@@ -29,4 +29,5 @@ Returns a  **Long** that represents the number of full series in the collection.
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

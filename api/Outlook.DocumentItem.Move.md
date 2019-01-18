@@ -42,4 +42,3 @@ An  **Object** that represents the item which has been moved to the designated f
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

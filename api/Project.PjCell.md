@@ -34,4 +34,3 @@ Contains constants that specify a cell.
 |**pjCell4_3**|11|Column 4, row 3.|
 |**pjCell4_4**|15|Column 4, row 4.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

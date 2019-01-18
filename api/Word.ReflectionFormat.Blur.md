@@ -29,4 +29,3 @@ Returns or sets a  **Single** that specifies the degree of blur effect applied t
 
 [ReflectionFormat Object](Word.ReflectionFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

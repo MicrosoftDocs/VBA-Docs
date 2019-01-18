@@ -36,4 +36,3 @@ The  **Text** property provides the same value as the **[Value](Outlook.OlkListB
 
 [OlkListBox Object](Outlook.OlkListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

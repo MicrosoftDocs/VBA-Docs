@@ -34,4 +34,4 @@ The  **DispScreenRes** property affects only how raster-based formats (for examp
 
 The  **DispScreenRes** property value corresponds to the value in the **Target monitor** box on the **Advanced** tab of the **Save As Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the  **Save as type** list, select **Web Page (*.htm;*.html)**, click  **Publish**, and then click  **Advanced**).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

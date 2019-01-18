@@ -48,4 +48,3 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 
 [TaskRequestItem Object](Outlook.TaskRequestItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

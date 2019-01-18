@@ -29,4 +29,3 @@ Returns a  **[HeadingStyles](Word.headingstyles.md)** object that represents add
 
 [TableOfFigures Object](Word.TableOfFigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

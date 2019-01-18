@@ -20,4 +20,4 @@ Gets or sets the booking type for a resource. Can be one of the following  **PjB
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ Returns or sets an  **[xlReadingOrder](Word.XlReadingOrder.md)** constant that r
 
 [ChartTitle Object](Word.ChartTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

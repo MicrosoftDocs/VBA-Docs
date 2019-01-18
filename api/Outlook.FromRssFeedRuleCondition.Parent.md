@@ -34,4 +34,3 @@ The parent object is the  **[RuleCondition](Outlook.RuleCondition.md)** object.
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

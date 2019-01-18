@@ -33,5 +33,3 @@ Gets a single  **View** object from the **ViewsSingle** collection. Read-only **
 
 
 [ViewsSingle Collection Object](Project.viewssingle(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

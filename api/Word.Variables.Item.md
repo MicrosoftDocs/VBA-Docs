@@ -42,4 +42,3 @@ Variable
 
 [Variables Collection Object](Word.variables.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ Setting this property to a language that is not installed may either have no eff
 
 [NavigationControl Object](Access.NavigationControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

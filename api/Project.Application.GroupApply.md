@@ -36,4 +36,4 @@ Sets the current group.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

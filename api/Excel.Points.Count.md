@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Points](Excel.Points(object).md) obje
 
 [Points Object](Excel.Points(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

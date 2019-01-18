@@ -39,5 +39,3 @@ If creating a new task portion would overlap any other portions in the same task
 
 
 [SplitParts Collection Object](Project.splitparts.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

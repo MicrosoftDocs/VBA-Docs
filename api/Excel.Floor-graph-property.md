@@ -26,4 +26,4 @@ This example sets the floor color to blue. The example should be run on a 3-D ch
 myChart.Floor.Interior.ColorIndex = 5
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

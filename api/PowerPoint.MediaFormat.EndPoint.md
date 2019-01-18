@@ -39,4 +39,3 @@ The end point must be after the start point.
 
 [MediaFormat Object](PowerPoint.MediaFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

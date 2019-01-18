@@ -57,4 +57,3 @@ Tasks("Calculator").WindowState = wdWindowStateNormal
 
 [Tasks Collection Object](Word.tasks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,4 @@ nothing
 
 The  **SaveStartingToServer** event cannot be cancelled.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

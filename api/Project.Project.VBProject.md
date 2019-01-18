@@ -28,4 +28,4 @@ Gets a  **VBProject** object that represents the Microsoft Visual Basic project.
 
 To use the  **VBProject** object, set a reference to Microsoft Visual Basic for Applications Extensibility 5.3 (the VBIDE library).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

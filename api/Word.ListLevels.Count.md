@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of list levels in the collection.
 
 [ListLevels Collection Object](Word.listlevels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

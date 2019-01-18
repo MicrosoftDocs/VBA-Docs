@@ -34,4 +34,3 @@ Setting the  **HeightRule** property of a **Cell** object automatically sets the
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -35,4 +35,4 @@ Window
 
 Use the  **Parent** property of a **Window** object to get the **Windows** collection to which a **Window** object belongs.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

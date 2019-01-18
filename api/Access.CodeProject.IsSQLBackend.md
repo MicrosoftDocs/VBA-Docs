@@ -26,4 +26,3 @@ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) o
 
 - [CodeProject Object](Access.CodeProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

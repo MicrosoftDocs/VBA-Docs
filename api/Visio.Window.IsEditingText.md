@@ -28,4 +28,4 @@ Determines whether a text editing session is active in the drawing window. Read-
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

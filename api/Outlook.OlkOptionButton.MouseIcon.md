@@ -34,4 +34,3 @@ The custom picture is of the Microsoft Windows type  **StdPicture**. The default
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

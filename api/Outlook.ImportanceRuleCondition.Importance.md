@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagImportance**.
 
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property returns  **True** if the object is locked or **False** if the obje
 
 [OLEObjects Object](Excel.OLEObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

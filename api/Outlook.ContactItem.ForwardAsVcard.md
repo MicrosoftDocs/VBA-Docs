@@ -39,4 +39,3 @@ vCard is the Internet standard for creating and sharing virtual business cards.
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

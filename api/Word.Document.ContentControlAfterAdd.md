@@ -43,4 +43,3 @@ For information about using events with the  **Document** object, see [Using Eve
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

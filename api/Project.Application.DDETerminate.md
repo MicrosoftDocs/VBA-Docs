@@ -28,4 +28,4 @@ Ends a dynamic data exchange (DDE) session.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

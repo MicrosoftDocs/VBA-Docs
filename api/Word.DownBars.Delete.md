@@ -29,4 +29,3 @@ Deletes the object.
 
 [DownBars Object](Word.DownBars.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

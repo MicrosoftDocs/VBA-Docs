@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **ViewCtl** object.
 
 When the new appointment is saved, it is saved to the folder, if any, that is displayed in the control. If there is no folder displayed in the control, the appointment is saved to the user's default  **Calendar** folder.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

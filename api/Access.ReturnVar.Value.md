@@ -28,4 +28,4 @@ _expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) objec
 
 A  **ReturnVar** can store only numeric or text data. Setting the **Value** property to an Object data type will result in a run-time error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

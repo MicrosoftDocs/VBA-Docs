@@ -42,4 +42,3 @@ OMathMatCol
 
 [OMathMatCols Collection](Word.OMathMatCols.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

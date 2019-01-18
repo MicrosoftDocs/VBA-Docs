@@ -24,4 +24,3 @@ Identifies the mode that the form region is being loaded into, which corresponds
 | **olFormRegionPreview**|2|The form region is in the Reading Pane.|
 | **olFormRegionRead**|0|The form region is in the read page of a received message or a post note.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

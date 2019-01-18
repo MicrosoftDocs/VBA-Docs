@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [WSParameters Collection](Access.WSParameters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

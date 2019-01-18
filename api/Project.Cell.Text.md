@@ -20,4 +20,4 @@ Gets the text contents of the cell. Read-only  **String**.
 
  _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

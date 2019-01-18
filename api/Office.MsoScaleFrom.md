@@ -21,4 +21,3 @@ Specifies which part of the shape retains its position when the shape is scaled.
 |**msoScaleFromMiddle**|1|Shape's midpoint retains its position.|
 |**msoScaleFromTopLeft**|0|Shape's upper left corner retains its position.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

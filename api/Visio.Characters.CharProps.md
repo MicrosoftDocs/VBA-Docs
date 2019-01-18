@@ -69,5 +69,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 
 
 -  **Microsoft.Office.Interop.Visio.IVCharacters.set_CharProps**
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

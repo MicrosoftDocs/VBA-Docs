@@ -34,4 +34,3 @@ This property returns  **olNavigationPane** for the **[NavigationPane](Outlook.N
 
 [NavigationPane Object](Outlook.NavigationPane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

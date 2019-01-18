@@ -278,4 +278,3 @@ End Sub
 |[WizardTagInstance](./Publisher.Shape.WizardTagInstance.md)|
 |[ZOrderPosition](./Publisher.Shape.ZOrderPosition.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

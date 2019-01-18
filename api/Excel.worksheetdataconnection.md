@@ -17,4 +17,5 @@ Used to import data into the Data Model from data on the worksheet such as range
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

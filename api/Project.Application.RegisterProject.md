@@ -41,4 +41,4 @@ Registers the active project on Project Server.
 
 The  **RegisterProject** method is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

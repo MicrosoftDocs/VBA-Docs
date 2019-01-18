@@ -37,4 +37,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CoAuthors Object](Word.CoAuthors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

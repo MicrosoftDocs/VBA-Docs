@@ -37,4 +37,3 @@ _expression_ A variable that represents a [JournalItem](./Outlook.JournalItem.md
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

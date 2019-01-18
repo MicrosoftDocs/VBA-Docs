@@ -28,4 +28,4 @@ To reset a filter back to its default value, type the following line of code.
 object.Filter = " ""DAV:isfolder"" = False And ""DAV:ishidden"" = False "
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -41,4 +41,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [CategoryCollection Object](Word.categorycollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

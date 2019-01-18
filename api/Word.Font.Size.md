@@ -58,4 +58,3 @@ End If
 
 [Font Object](Word.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

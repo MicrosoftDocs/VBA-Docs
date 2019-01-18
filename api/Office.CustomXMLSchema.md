@@ -34,5 +34,3 @@ SchemaCollection.Add "https://tempuri.org/XMLSchema.xsd"
 
 - [CustomXMLSchema object members](overview/library-reference/customxmlschema-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

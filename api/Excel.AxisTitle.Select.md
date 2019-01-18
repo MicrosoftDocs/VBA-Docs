@@ -34,4 +34,3 @@ A Variant value representing the selected object.
 
 [AxisTitle Object](Excel.AxisTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

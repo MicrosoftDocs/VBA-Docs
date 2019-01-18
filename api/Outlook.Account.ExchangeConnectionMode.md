@@ -34,4 +34,3 @@ This property is similar to the  **[ExchangeConnectionMode](Outlook.NameSpace.Ex
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

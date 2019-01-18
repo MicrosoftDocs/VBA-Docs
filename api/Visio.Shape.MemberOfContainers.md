@@ -33,4 +33,4 @@ Returns an array of  **Long** values that represent the identifiers of the conta
 
 The  **MemberOfContainers** property returns **Nothing** if the shape is not a member of any container.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

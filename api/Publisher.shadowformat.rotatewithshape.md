@@ -32,4 +32,3 @@ Returns or sets an  **MsoTriState** constant that represents whether to rotate t
 
  [ShadowFormat Object](Publisher.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,5 +36,5 @@ For any object, some methods and properties may be unavailable if the  **Visible
 
 
  [GlowFormat Object](Publisher.glowformat.md)
+ 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

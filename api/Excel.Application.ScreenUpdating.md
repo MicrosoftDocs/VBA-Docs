@@ -64,4 +64,3 @@ MsgBox "Elapsed time, screen updating on: " & elapsedTime(1) & _
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

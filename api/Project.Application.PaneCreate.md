@@ -33,4 +33,4 @@ Creates a lower pane for the active window.
 
 If the active view is one of the task views, including the Task Usage view, the new pane will be the Task Form. If the active view is one of the resource views, including the Resource Usage view, the new pane will be the Resource Form.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

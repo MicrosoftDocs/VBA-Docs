@@ -25,4 +25,4 @@ Gets current Goal Bar theme and updates sidepane header background style.
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

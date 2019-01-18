@@ -50,4 +50,3 @@ Set objSession = Application.Session
 
 [StorageItem Object](Outlook.StorageItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

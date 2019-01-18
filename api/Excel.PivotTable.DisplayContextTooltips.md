@@ -34,4 +34,3 @@ If  **DisplayContextTooltips** is set to **False** , contextual tooltips for Piv
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ You can use the  **UniqueValues** object to quickly visualize cells that contain
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

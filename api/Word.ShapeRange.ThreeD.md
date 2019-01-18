@@ -29,4 +29,3 @@ Returns a  **ThreeDFormat** object that contains 3-D formatting properties for t
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

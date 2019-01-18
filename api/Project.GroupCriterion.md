@@ -109,4 +109,3 @@ ActiveProject.ResourceGroups("Response Pending").GroupCriteria.Add "% Work Compl
 |[Pattern](Project.GroupCriterion.Pattern.md)|
 |[StartAt](Project.GroupCriterion.StartAt.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

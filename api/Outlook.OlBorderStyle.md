@@ -23,4 +23,3 @@ Specifies how the border of a control is rendered.
 | **olBorderStyleNone**|0|The control is rendered without any border.|
 | **olBorderStyleSingle**|1|The control is rendered with a single-line border.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

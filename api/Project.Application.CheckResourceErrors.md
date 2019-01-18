@@ -38,4 +38,4 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

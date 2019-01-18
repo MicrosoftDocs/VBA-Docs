@@ -41,4 +41,3 @@ Changing the value of this property for a given  **MailModule** object changes t
 
 [MailModule Object](Outlook.MailModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

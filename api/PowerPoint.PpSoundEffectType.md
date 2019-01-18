@@ -22,4 +22,3 @@ Constants that specify the type of sound effect, passed to and returned by the  
 |**ppSoundNone**|0|None|
 |**ppSoundStopPrevious**|1|Stop Previous|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

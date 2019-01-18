@@ -33,5 +33,3 @@ A collection of all [Action](Excel.Action.md) objects for the specified series.
 
 
 [Excel Object Model Reference](overview/Excel/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

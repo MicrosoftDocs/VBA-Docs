@@ -62,4 +62,3 @@ End Sub
 - [Worksheet.Tab property](Excel.Worksheet.Tab.md)
 - [Excel object model reference](overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

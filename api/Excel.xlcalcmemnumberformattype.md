@@ -22,4 +22,3 @@ Specifies the format of cell values that are based on the calculated member.
 |xlNumberFormatTypeNumber|1|Calculated member cell format is a number.|
 |xlNumberFormatTypePercent|2|Calculated member cell format is a percentage.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

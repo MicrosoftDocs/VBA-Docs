@@ -26,4 +26,3 @@ Returns the number of objects in the specified collection. Read-only.
 
 [ProtectedViewWindows Object](PowerPoint.ProtectedViewWindows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

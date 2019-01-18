@@ -60,4 +60,3 @@ For examples of add-ins in C# and Visual Basic .NET that implement the  **[FormR
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

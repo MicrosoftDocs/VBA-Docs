@@ -34,4 +34,3 @@ The default value of this property is  **True**.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

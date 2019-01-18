@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [TasksModule Object](Outlook.TasksModule.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

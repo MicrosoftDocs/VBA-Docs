@@ -18,4 +18,4 @@ Returns a value from the [XlDataLabelPosition](PowerPoint.XlDataLabelPosition.md
 
 _expression_ A variable that represents a [DataLabels](PowerPoint.DataLabels.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

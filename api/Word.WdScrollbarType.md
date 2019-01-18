@@ -21,4 +21,3 @@ Specifies when scroll bars are available for the specified frame when viewing it
 | **wdScrollbarTypeNo**|2|Scroll bars are never available for the specified frame.|
 | **wdScrollbarTypeYes**|1|Scroll bars are always available for the specified frame.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

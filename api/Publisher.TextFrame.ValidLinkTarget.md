@@ -56,4 +56,4 @@ If txtFrame1.ValidLinkTarget(LinkTarget:=txtFrame2.Parent) = True Then
 End If
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

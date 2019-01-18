@@ -126,4 +126,3 @@ Codes for Microsoft Visio events, event actions, and event IDs.
 | **visEvtWindow**|1| **Window** object|
 | **visScopeIDInval**|-1|An ID no event scope can have.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

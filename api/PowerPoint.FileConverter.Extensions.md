@@ -53,4 +53,3 @@ MsgBox "The file name extensions for " & fcTemp.FormatName _
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

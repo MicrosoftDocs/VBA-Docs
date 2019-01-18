@@ -43,5 +43,3 @@ The **IDocumentInspector** object is for the exclusive use of custom Document In
 ## See also
 
 - [IDocumentInspector object members](overview/Library-Reference/idocumentinspector-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

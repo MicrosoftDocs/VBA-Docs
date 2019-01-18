@@ -44,4 +44,3 @@ End If
 
 [ChartGroups Object](Excel.ChartGroups(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

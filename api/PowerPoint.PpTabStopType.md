@@ -23,4 +23,3 @@ Constants that specify the tab-stop type, passed to and returned by the  **Type*
 |**ppTabStopMixed**|-2|Mixed|
 |**ppTabStopRight**|3|Right tab stop|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

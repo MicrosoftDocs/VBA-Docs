@@ -85,5 +85,3 @@ End Sub
 [ConnectorFormat Property](Project.shape.connectorformat.md)
 [AutoShapeType Property](Project.shape.autoshapetype.md)
 [MsoConnectorType](https://msdn.microsoft.com/library/office/ff860918%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

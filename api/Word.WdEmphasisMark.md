@@ -23,4 +23,3 @@ Specifies the type of emphasis mark to use for a character or designated charact
 | **wdEmphasisMarkOverWhiteCircle**|3|An empty white circle.|
 | **wdEmphasisMarkUnderSolidCircle**|4|A solid black circle.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

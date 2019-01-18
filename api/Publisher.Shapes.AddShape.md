@@ -61,4 +61,4 @@ Set shpShape = ActiveDocument.Pages(1).Shapes.AddShape _
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -57,4 +57,3 @@ Set myNewColumn = ActiveWorkbook.Worksheets(1).ListObjects(1).ListColumns.Add
 
 [ListColumns Object](Excel.ListColumns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

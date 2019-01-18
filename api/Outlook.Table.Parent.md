@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 [Table Object](Outlook.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

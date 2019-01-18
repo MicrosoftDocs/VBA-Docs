@@ -101,4 +101,3 @@ strAddress = Application.GetAddress(Name:="John Smith", _
 
 - [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

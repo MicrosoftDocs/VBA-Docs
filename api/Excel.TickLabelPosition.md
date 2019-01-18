@@ -38,4 +38,4 @@ myChart.Axes(xlCategory) _
  .TickLabelPosition = xlTickLabelPositionHigh
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

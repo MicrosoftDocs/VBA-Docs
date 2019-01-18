@@ -81,4 +81,4 @@ This example changes the trendline type for the first series in the chart. If th
 myChart.SeriesCollection(1).Trendlines(1).Type = xlMovingAvg
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

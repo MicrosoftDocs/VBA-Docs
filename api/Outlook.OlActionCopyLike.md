@@ -30,4 +30,4 @@ Specifies how item properties will be copied.
 
 Used by the [CopyLike](Outlook.Action.CopyLike.md) property of an [Action](Outlook.Action.md) to specify how item properties will be copied to the new item that is created when the **Action** is executed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

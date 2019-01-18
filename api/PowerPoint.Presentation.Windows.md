@@ -44,4 +44,3 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.PowerPoi
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

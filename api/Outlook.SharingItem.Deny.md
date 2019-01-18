@@ -44,4 +44,3 @@ This method generates a new  **SharingItem** object and sets the **Type** proper
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You can set the orientation for a text frame or for a selection that happens to 
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

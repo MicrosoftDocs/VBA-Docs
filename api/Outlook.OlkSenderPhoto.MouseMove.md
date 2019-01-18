@@ -45,4 +45,3 @@ Pressing the  **ALT** key fires the **MouseMove** event.
 
 [OlkSenderPhoto Object](Outlook.OlkSenderPhoto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ If the store does not support the display of quota information, this method does
 
 [Store Object](Outlook.Store.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

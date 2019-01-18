@@ -44,4 +44,3 @@ End If
 
 [PivotItemList Object](Excel.PivotItemList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

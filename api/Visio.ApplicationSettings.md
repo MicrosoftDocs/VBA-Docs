@@ -23,4 +23,4 @@ Use the  **Settings** property of the **Application** object to get an **Applica
 
 The  **ApplicationSettings** object has no default property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

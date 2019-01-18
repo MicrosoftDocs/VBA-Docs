@@ -199,5 +199,3 @@ You can display text on a command button by setting its  **Caption** property, o
 
 [Access Object Model Reference](overview/Access/object-model.md)<br/>
 [CommandButton Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

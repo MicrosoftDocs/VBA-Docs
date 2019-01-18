@@ -37,4 +37,3 @@ Use this method to reset all the chart color formatting to the color style appli
 
 [Chart Object](Word.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

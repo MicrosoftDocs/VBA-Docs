@@ -46,4 +46,3 @@ Charts("Chart1").ChartArea.Clear
 
 [ChartArea Object](Excel.ChartArea(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

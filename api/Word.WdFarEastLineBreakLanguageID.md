@@ -22,4 +22,3 @@ Specifies the East Asian language to use when breaking lines of text in the spec
 | **wdLineBreakSimplifiedChinese**|2052|Simplified Chinese.|
 | **wdLineBreakTraditionalChinese**|1028|Traditional Chinese.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

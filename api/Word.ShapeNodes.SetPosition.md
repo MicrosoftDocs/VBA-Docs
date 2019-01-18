@@ -58,4 +58,3 @@ End With
 
 [ShapeNodes Collection Object](Word.shapenodes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [AllStoredProcedures Collection](Access.AllStoredProcedures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

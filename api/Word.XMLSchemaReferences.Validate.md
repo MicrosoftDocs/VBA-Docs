@@ -39,4 +39,3 @@ When you run the  **Validate** method, Microsoft Word populates the **[XMLSchema
 
 [XMLSchemaReferences Collection](Word.XMLSchemaReferences.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

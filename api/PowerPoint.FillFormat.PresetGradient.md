@@ -98,4 +98,3 @@ myDocument.Shapes.AddShape(msoShapeRectangle, 90, 90, 140, 80).Fill.PresetGradie
 
 [FillFormat Object](PowerPoint.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

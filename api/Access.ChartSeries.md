@@ -36,5 +36,3 @@ Represents a series of values in the specified chart.
 
 - [ChartSeriesCollection object](Access.ChartSeriesCollection.md)
 - [Chart object](Access.Chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

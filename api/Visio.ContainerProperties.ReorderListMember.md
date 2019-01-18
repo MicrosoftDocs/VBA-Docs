@@ -62,4 +62,4 @@ The following Visual Basic for Applications (VBA) example shows how to use the  
 vsoListShape.ContainerProperties.ReorderListMember vsoShape, 2
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

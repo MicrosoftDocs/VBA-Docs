@@ -49,4 +49,3 @@ If Err = 5852 Then MsgBox _
 
 [Envelope Object](Word.Envelope.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

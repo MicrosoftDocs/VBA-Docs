@@ -37,4 +37,3 @@ Use the  **Connection** property to refer to the **Connection** object of the Ac
 
 [CodeProject Object](Access.CodeProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

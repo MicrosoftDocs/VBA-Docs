@@ -29,4 +29,3 @@ _expression_ A variable that represents an [OutlookBarGroup](./Outlook.OutlookBa
 
 [OutlookBarGroup Object](Outlook.OutlookBarGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -71,4 +71,3 @@ AutoCorrect.Entries.AddRichText "NewText", ActiveDocument.Words(3)
 
 [AutoCorrectEntries Collection Object](Word.autocorrectentries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

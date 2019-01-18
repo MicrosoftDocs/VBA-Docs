@@ -29,4 +29,3 @@ Constants passed to and returned by the  **GraphicItem.VerticalPosition** proper
 | **visGraphicTopEdge**|5|The horizontal centerline of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 | **visGraphicAbove**|6|The bottom edge of the graphic item's alignment box is aligned with the top edge of the shape or container's alignment box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

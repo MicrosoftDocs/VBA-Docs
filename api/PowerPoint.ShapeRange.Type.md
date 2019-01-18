@@ -64,4 +64,3 @@ The value of the  **Type** property can be one of these **MsoShapeType** constan
 
 [ShapeRange Object](PowerPoint.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

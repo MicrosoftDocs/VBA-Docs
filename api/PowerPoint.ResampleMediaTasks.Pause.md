@@ -29,4 +29,3 @@ Pauses the media represented by the specified object.
 
 [ResampleMediaTasks Object](PowerPoint.ResampleMediaTasks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

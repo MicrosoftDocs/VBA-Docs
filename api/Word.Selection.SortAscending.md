@@ -34,4 +34,3 @@ Sorts paragraphs or table rows in ascending alphanumeric order.
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

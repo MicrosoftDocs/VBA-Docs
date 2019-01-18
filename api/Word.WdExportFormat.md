@@ -20,4 +20,3 @@ Specifies format to use for exporting a document.
 | **wdExportFormatPDF**|17|Export document into PDF format.|
 | **wdExportFormatXPS**|18|Export document into XML Paper Specification (XPS) format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

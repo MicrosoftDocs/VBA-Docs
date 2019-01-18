@@ -32,4 +32,4 @@ myChart.SeriesCollection(1).Trendlines(1) _
  .InterceptIsAuto = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

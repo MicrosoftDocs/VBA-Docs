@@ -28,4 +28,4 @@ Gets the instance handle of the  **[InvisibleApp](Visio.InvisibleApp.md)** objec
 
  **Int64**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

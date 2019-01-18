@@ -43,4 +43,4 @@ Resets a resource calendar.
 
 The  **ResourceCalendarReset** method has no effect for material resources.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

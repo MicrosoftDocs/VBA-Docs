@@ -40,4 +40,4 @@ The following code shows how to display the grid in Visio Viewer.
 vsoViewer.GridVisible = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -31,4 +31,4 @@ If a broadcast is not in progress,  **PresenterServiceUrl** returns an empty str
 
  **STRING**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

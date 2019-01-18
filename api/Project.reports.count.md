@@ -31,5 +31,3 @@ For a code example that uses the  **Reports.Count** property, see the **[Report.
 
 
 [Reports Object](Project.reports.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Specifies a statistic to return from a selection or item.
 | **wdStatisticParagraphs**|4|Count of paragraphs.|
 | **wdStatisticWords**|0|Count of words.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,4 @@ With myChart.Application.DataSheet.Columns("A")
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

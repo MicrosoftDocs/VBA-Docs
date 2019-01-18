@@ -34,4 +34,3 @@ You can use this property with an OLE Automation object to return the applicatio
 
 [PivotAxis Object](Excel.PivotAxis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

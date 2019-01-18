@@ -26,4 +26,3 @@ Specifies to what the horizontal position of a frame, a shape, or a group of row
 | **wdRelativeHorizontalPositionOuterMarginArea**|7|Relative to outer margin area.|
 | **wdRelativeHorizontalPositionRightMarginArea**|5|Relative to right margin.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

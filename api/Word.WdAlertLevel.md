@@ -24,4 +24,3 @@ Specifies the way certain alerts and messages are handled while a macro is runni
 | **wdAlertsMessageBox**|-2|Only message boxes are displayed; errors are trapped and returned to the macro.|
 | **wdAlertsNone**|0|No alerts or message boxes are displayed. If a macro encounters a message box, the default value is chosen and the macro continues.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

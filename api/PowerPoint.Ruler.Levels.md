@@ -29,4 +29,3 @@ Returns a  **[RulerLevels](PowerPoint.RulerLevels.md)** object that represents o
 
 [Ruler Object](PowerPoint.Ruler.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

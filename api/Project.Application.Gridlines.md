@@ -28,4 +28,4 @@ Displays the  **Gridlines** dialog box. This method is unavailable when the acti
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

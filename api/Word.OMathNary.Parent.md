@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **OMat
 
 [OMathNary Object](Word.OMathNary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

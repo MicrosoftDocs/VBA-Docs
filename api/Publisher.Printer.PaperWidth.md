@@ -28,4 +28,4 @@ Gets or sets the width of a printed page in points. Read/write.
 
 Long
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

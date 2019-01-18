@@ -33,4 +33,3 @@ Specifies the format for the automatically updated date and time.
 |**ppDateTimeMMMMyy**|6|MMMMyy|
 |**ppDateTimeMMyy**|7|MMyy|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

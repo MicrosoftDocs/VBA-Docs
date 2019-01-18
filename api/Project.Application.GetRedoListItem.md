@@ -36,4 +36,4 @@ Returns the label of the specified item in the redo list.
 
  **String**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

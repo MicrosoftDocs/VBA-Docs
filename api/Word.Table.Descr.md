@@ -53,4 +53,3 @@ tbl.Descr = "This is a table description."
 
 [Table Object](Word.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

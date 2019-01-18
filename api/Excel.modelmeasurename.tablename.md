@@ -33,4 +33,3 @@ _expression_ A variable that represents a [ModelMeasureName](Excel.modelmeasuren
 
 [ModelMeasureName Object](Excel.modelmeasurename.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

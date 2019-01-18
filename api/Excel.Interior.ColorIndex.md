@@ -34,4 +34,3 @@ The color is specified as an index value into the current color palette, or as o
 
 - [Interior object](Excel.Interior(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

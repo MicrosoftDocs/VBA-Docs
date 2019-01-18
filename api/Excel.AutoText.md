@@ -26,4 +26,4 @@ This example sets the data labels for series one to automatically generate appro
 myChart.SeriesCollection(1).DataLabels.AutoText = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

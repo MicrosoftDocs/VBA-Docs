@@ -83,5 +83,3 @@ End If
 [Range Object](Excel.Range(object).md)
 
 [Worksheet.Rows Property](excel.worksheet.rows.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

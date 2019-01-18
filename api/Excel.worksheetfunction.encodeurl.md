@@ -45,4 +45,3 @@ This method enables the referencing of other cells as arguments into the Web Ser
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

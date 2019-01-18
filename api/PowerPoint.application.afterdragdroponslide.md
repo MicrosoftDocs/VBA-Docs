@@ -33,4 +33,3 @@ _expression_ A variable that represents an [Application](PowerPoint.Application.
 | _X_|Required|FLOAT||
 | _Y_|Required|FLOAT||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

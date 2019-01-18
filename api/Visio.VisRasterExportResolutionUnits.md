@@ -25,4 +25,3 @@ Specifies constants that define the raster export resolution units; passed to th
 | **visRasterPixelsPerInch**|0|Pixels per inch.|
 | **visRasterPixelsPerCm**|1|Pixels per centimeter.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

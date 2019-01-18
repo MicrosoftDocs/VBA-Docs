@@ -58,5 +58,3 @@ Application.CommandBars.GetImageMso("Paste", 32, 32)
 ## See also
 
 - [CommandBars object members](overview/library-reference/commandbars-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ End If
 
 [FormatConditions Object](Excel.FormatConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

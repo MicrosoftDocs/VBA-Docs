@@ -29,4 +29,3 @@ Returns or sets the distance, in points, from the left edge of the object to the
 
 [ChartArea Object](Word.ChartArea.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

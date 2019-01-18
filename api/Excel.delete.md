@@ -56,4 +56,4 @@ This example deletes the chart title.
 myChart.ChartTitle.Delete
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -21,4 +21,3 @@ Specifies the range marked by error bars.
 | **xlErrorBarTypeStDev**|-4155|Shows the range for a specified number of standard deviations.|
 | **xlErrorBarTypeStError**|4|Shows the standard error range.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

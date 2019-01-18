@@ -42,4 +42,3 @@ TableStyle
 
 [TableStyles Object](Excel.TableStyles.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

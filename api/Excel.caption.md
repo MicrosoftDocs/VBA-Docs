@@ -30,4 +30,4 @@ myChart.ChartTitle.Caption = "Annual Salary Figures"
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

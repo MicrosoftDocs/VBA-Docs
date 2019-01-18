@@ -29,4 +29,3 @@ Deletes the specified XML Schema Reference.
 
 [XMLSchemaReference Object](Word.XMLSchemaReference.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

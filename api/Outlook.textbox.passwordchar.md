@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **TextBox** object.
 
 You can use the  **PasswordChar** property to protect sensitive information, such as passwords or security codes. The value of **PasswordChar** is the character (usually an asterisk) that appears in a control instead of the actual characters that the user types. If you don't specify a character, the control displays the characters that the user types.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

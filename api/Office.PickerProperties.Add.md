@@ -67,4 +67,3 @@ Set objPickerProperty = objPickerProperties.Add("SiteUrl", "https://my", msoPick
 
 [PickerProperties Object Members](./overview/Library-Reference/pickerproperties-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

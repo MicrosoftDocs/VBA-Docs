@@ -25,4 +25,4 @@ When the meeting request is sent, the corresponding appointment is saved to the 
 
 Responses to the meeting request are tallied only if the appointment is saved to the user's default  **Calendar** folder.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

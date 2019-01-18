@@ -27,4 +27,3 @@ Represents the glow formatting for a shape or a range of shapes.
 |[Transparency](Publisher.glowformat.transparency.md)|
 |[Visible](Publisher.glowformat.visible.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

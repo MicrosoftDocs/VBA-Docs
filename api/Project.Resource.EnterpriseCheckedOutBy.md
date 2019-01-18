@@ -28,4 +28,4 @@ Gets the name of the user who has the enterprise resource checked out. Read-only
 
 The  **EnterpriseCheckedOutBy** property is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

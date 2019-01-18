@@ -67,4 +67,3 @@ End Sub
 - [Sync object](Office.Sync.md)
 - [Sync object members](overview/Library-Reference/sync-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

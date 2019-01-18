@@ -28,4 +28,4 @@ Clears the  **Undo** list.
 
  **Nothing**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

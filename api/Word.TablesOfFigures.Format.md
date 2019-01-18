@@ -29,4 +29,3 @@ Returns or sets the formatting for the tables of figures in the specified docume
 
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

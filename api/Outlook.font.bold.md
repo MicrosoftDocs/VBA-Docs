@@ -27,4 +27,4 @@ The font's appearance on screen and in print may differ, depending on your compu
 
 Changing the value of  **Bold** also changes the value of **[Weight](Outlook.font.weight.md)**. Setting  **Bold** to **True** sets **Weight** to 700; setting **Bold** to **False** sets **Weight** to 400. Conversely, setting **Weight** to anything over 550 sets **Bold** to **True**; setting  **Weight** to 550 or less sets **Bold** to **False**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

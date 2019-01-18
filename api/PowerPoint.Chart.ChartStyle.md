@@ -34,4 +34,3 @@ You can use a number from 1 to 48 to set the chart style.
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

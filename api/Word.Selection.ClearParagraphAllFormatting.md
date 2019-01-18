@@ -37,4 +37,3 @@ This method removes all paragraph formatting. If you need to remove paragraph fo
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

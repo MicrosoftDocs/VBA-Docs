@@ -26,5 +26,3 @@ Gets or sets the horizontal distance, in points, from the left side of the repor
 
 
 [Shape Object](Project.shape.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

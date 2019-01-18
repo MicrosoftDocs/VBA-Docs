@@ -26,4 +26,4 @@ _expression_ A variable that represents a 'ChartCategory' object.
 
  **STRING**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

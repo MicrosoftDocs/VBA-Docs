@@ -38,4 +38,4 @@ With Worksheets("Sheet1").Rows(4)
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

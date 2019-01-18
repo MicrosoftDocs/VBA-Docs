@@ -34,4 +34,3 @@ The  **WebSite** property contains a zero-length string if the database has not 
 
 [CodeProject Object](Access.CodeProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

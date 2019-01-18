@@ -26,5 +26,3 @@ Gets the parent object of the chart. Read-only  **Object**.
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

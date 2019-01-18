@@ -23,4 +23,3 @@ Used with the [Form.SplitFormDatasheet property (Access)](Access.Form.SplitFormD
 |**acDatasheetAllowEdits**|0|The user can edit the contents of the datasheet.|
 |**acDatasheetReadOnly**|1|The user cannot edit the contents of the datasheet.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

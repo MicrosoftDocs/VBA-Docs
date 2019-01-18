@@ -28,4 +28,4 @@ Gets or sets the prompt string for a master or master shortcut. Read/write.
 
 String
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

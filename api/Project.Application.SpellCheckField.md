@@ -42,4 +42,4 @@ Checks the spelling of text custom fields.
 
 To check spelling in the entire project, including text custom fields, use the  **[SpellingCheck](Project.Application.SpellingCheck.md)** method. The **SpellingCheck** method is equivalent to the **Spelling** command on the **Project** tab of the Ribbon.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

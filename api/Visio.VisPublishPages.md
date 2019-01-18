@@ -23,4 +23,3 @@ Specifies constants that define which pages to publish; passed to the  **[Server
 | **visPublishPageAll**|0|Publish all pages.|
 | **visPublishPageSelect**|1|Publish selected pages.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,4 +64,3 @@ Selection.Sections(1).ProtectedForForms = Not _
 
 [Section Object](Word.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

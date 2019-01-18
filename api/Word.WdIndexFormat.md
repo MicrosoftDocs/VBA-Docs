@@ -25,4 +25,3 @@ Specifies the formatting for indexes in a document.
 | **wdIndexSimple**|6|Simple.|
 | **wdIndexTemplate**|0|From template.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

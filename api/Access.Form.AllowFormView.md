@@ -45,4 +45,3 @@ DoCmd.OpenForm FormName:=Forms(0).Name, View:=acNormal
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

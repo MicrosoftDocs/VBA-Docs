@@ -42,4 +42,3 @@ This event can be cancelled after it has started.
 
 [Inspector Object](Outlook.Inspector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

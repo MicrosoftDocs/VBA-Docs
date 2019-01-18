@@ -21,4 +21,3 @@ Specifies a spelling error type.
 | **wdSpellingCorrect**|0|Spelling is correct.|
 | **wdSpellingNotInDictionary**|1|The word is not in the specified dictionary.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ This example sets the height of the chart legend to 1 inch (72 points).
 myChart.Legend.Height = 72
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

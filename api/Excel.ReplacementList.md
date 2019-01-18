@@ -39,4 +39,4 @@ For x = 1 To UBound(repl)
 Next
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

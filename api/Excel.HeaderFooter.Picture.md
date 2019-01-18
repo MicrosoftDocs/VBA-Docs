@@ -29,4 +29,3 @@ _expression_ A variable that represents a [HeaderFooter](Excel.HeaderFooter.md) 
 
 [HeaderFooter Object](Excel.HeaderFooter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of items in the collection. Read-
 
 [CustomLabels Collection Object](Word.customlabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

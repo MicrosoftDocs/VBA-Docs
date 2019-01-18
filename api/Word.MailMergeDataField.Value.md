@@ -49,4 +49,3 @@ MsgBox dRecord
 
 [MailMergeDataField Object](Word.MailMergeDataField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

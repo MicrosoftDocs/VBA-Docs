@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents the inset size for the bottom beve
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

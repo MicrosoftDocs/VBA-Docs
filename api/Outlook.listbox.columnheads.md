@@ -25,4 +25,4 @@ _expression_ A variable that represents a  **ListBox** object.
 
 Setting this property to  **True** displays a blank row as column headings. However, currently there is no way to specify the text for column headings.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

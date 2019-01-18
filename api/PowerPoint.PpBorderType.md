@@ -24,4 +24,3 @@ Indicates the direction in which a cell border or diagonal line is drawn.
 |**ppBorderRight**|4|Right|
 |**ppBorderTop**|1|Top|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

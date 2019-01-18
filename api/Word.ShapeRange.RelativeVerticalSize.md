@@ -34,4 +34,3 @@ Use this property with the  **[HeightRelative](Word.ShapeRange.HeightRelative.md
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

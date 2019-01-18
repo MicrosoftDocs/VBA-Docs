@@ -31,5 +31,3 @@ If you change the value axis to be smaller than the size of the data points, you
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

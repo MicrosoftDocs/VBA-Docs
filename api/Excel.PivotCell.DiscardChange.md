@@ -39,4 +39,3 @@ For a cell in a PivotTable based on an OLAP data source, the  **DiscardChange** 
 
 [PivotCell Object](Excel.PivotCell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

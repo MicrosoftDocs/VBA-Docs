@@ -32,4 +32,3 @@ Returns a  **Boolean** that indicates whether the specified document is in compa
 
 [Document Object](Visio.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

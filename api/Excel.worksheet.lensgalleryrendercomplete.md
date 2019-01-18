@@ -32,4 +32,3 @@ This event can be used to indicate when re-enable screen updating or display add
 
 [Worksheet Object](Excel.Worksheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ If the  **GetNamesU** method succeeds, _NameArray()_ returns a one-dimensional a
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **GetNames** method to get the local name of more than one object. Use the **GetNamesU** method to get the universal name of more than one object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

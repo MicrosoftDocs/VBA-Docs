@@ -25,4 +25,3 @@ Represents the alignment for the specified tab stop.
 | **pbTabAlignmentLeading**|0|Leading tab alignment|
 | **pbTabAlignmentTrailing**|2|Trailing tab alignment|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

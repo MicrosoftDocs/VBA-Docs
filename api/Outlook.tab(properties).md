@@ -27,5 +27,5 @@ localization_priority: Normal
 -  [Tab.Tag Property (Outlook Forms Script)](Outlook.tab.tag.md)
     
 -  [Tab.Visible Property (Outlook Forms Script)](Outlook.tab.visible.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

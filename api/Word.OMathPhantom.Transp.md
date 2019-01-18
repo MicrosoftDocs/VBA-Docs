@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether a phantom object is trans
 
 [OMathPhantom Object](Word.OMathPhantom.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

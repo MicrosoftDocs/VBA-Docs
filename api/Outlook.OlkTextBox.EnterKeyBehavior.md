@@ -34,4 +34,3 @@ When this property is  **True** , pressing **ENTER** creates a new line. When th
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

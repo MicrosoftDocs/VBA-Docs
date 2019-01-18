@@ -65,4 +65,3 @@ For example, you need to find 10 people with excellent reflexes, and you know th
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

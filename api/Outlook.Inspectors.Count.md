@@ -29,4 +29,3 @@ _expression_ A variable that represents an [Inspectors](./Outlook.Inspectors.md)
 
 [Inspectors Object](Outlook.Inspectors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

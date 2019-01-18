@@ -41,4 +41,3 @@ The value of this property can be set to one of the following constants:
 
 [DisplayUnitLabel Object](Excel.DisplayUnitLabel(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

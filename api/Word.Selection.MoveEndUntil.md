@@ -73,4 +73,3 @@ If char = 0 Then StatusBar = "Selection not moved"
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

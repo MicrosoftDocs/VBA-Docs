@@ -45,4 +45,3 @@ Worksheets("Sheet1").Protect
 
 [CellFormat Object](Excel.CellFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

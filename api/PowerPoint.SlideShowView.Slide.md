@@ -39,4 +39,3 @@ If the currently displayed slide is from an embedded presentation, you can use t
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -69,4 +69,3 @@ End With
 
 [AnimationSettings Object](PowerPoint.AnimationSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

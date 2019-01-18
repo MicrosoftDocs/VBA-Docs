@@ -35,4 +35,4 @@ If the issue is not associated with a specific page, the  **TargetPage** propert
 
 If the target page is not valid (for example, if it has been deleted), the  **TargetPage** property returns an error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

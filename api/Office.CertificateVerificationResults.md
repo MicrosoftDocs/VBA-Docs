@@ -24,4 +24,3 @@ Provides the results of verifying a digital certificate.
 |**certverresValid**|3|The certification is valid.|
 |**certverresVerifying**|1|The certificate is currently being verified.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

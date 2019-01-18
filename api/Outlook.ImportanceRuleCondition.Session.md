@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [ImportanceRuleCondition Object](Outlook.ImportanceRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

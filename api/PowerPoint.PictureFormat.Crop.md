@@ -39,4 +39,3 @@ Cropping is calculated relative to the original size of the picture.
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

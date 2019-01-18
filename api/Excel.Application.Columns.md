@@ -36,4 +36,3 @@ When applied to a  **Range** object that's a multiple-area selection, this prope
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

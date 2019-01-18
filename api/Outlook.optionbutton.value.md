@@ -32,4 +32,3 @@ The settings for  **Value** are:
 |False|Indicates the item is cleared.|
 |Zero (0)|Indicates the first page. The maximum value is one less than the number of pages.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

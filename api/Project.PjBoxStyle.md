@@ -32,4 +32,3 @@ Contains constants that specify the box style.
 |**pjBoxNoncriticalSummary**|5|Noncritical summary style.|
 |**pjBoxProjectSummaryTask**|12|Project summary task style.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

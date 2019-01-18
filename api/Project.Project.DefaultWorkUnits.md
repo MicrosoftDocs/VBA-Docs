@@ -25,4 +25,4 @@ Gets or sets the default work units for the project. Read/write  **PjUnit**.
 
 The  **DefaultWorkUnits** property can be one of the following **[PjUnit](Project.PjUnit.md)** constants: **pjMinute**, **pjHour**, **pjDay, pjWeek**, or **pjMonthUnit**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

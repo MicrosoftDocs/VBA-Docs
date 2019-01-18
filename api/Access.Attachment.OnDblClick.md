@@ -47,4 +47,3 @@ If the  **On Dbl Click** box is blank, the property value is an empty string.
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

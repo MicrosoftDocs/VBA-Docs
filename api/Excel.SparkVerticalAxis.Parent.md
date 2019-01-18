@@ -29,4 +29,3 @@ _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVertic
 
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

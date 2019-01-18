@@ -50,4 +50,3 @@ You can use the  **BuildKeyCode** method to create the KeyCode or KeyCode2 argum
 
 [KeysBoundTo Collection Object](Word.keysboundto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

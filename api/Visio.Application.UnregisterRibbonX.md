@@ -37,4 +37,4 @@ Unregisters a previouly registered  **IRibbonExtensiblity** interface that a Mic
 
  **Nothing**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

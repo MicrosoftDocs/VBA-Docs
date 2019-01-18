@@ -36,4 +36,3 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Task
 
 [TaskRequestAcceptItem Object](Outlook.TaskRequestAcceptItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

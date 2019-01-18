@@ -30,4 +30,4 @@ Use the  **Visible** property to control access to information without displayin
 
 All pages are visible at design time.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

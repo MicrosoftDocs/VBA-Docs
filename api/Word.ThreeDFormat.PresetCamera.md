@@ -29,4 +29,3 @@ Returns an  **MsoPresetCamera** constant that represents the camera presets. Rea
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ The  **NewCurrentDatabase** method enables you to create a new Microsoft Access 
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

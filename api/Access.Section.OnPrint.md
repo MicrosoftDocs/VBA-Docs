@@ -57,4 +57,3 @@ Debug.Print Reports("Purchase Order").Section("GroupHeader0").OnPrint
 
 [Section Object](Access.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

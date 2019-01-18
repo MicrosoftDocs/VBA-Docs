@@ -39,4 +39,3 @@ Set Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 
 [HPageBreak Object](Excel.HPageBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 [ShapeRange Object](Excel.ShapeRange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -63,4 +63,3 @@ Next fieldLoop
 
 [LinkFormat Object](Word.LinkFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

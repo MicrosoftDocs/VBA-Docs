@@ -44,4 +44,3 @@ End If
 
 [Dialog Object](Excel.Dialog.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,5 +29,3 @@ For a code example that uses the  **Name** property, see the **[Series](Project.
 
 
 [Series Object](Project.series.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

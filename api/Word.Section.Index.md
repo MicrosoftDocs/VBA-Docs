@@ -29,4 +29,3 @@ Returns a  **Long** that represents the position of an item in a collection. Rea
 
 [Section Object](Word.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

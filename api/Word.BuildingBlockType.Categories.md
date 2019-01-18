@@ -29,4 +29,3 @@ Returns a  **Categories** collection that represents the categories for a buildi
 
 [BuildingBlockType Object](Word.BuildingBlockType.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

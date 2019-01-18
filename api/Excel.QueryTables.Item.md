@@ -52,4 +52,3 @@ Sheets("sheet1").QueryTables.Item(1).FillAdjacentFormulas = True
 
 [QueryTables Object](Excel.QueryTables.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

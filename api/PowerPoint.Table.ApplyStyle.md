@@ -38,4 +38,3 @@ Applies a table style to the specified table.
 
 [Table Object](PowerPoint.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

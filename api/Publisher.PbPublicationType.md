@@ -23,4 +23,3 @@ Represents the type of the specified publication.
 | **pbTypePrint**|1|Print publication|
 | **pbTypeWeb**|2|Web publication|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

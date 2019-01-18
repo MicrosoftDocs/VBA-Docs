@@ -29,5 +29,5 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 -  **Microsoft.Office.Interop.Visio.IVWindows.GetEnumerator()** (to enumerate the **Window** objects.)
     
 -  **Microsoft.Office.Interop.Visio.IVWindows**
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

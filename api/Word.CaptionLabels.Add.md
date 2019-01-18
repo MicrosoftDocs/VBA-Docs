@@ -54,4 +54,3 @@ End Sub
 
 [CaptionLabels Collection Object](Word.captionlabels.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

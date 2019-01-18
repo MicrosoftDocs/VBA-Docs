@@ -31,4 +31,4 @@ This example sets the starting angle for doughnut group one.
 myChart.DoughnutGroups(1).FirstSliceAngle = 45
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

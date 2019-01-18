@@ -41,5 +41,3 @@ Debug.Print "Open in Backstage: " & Application.FileOpenUsingBackstage()
 
 
 [FileOpenEx Method](Project.Application.FileOpenEx.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

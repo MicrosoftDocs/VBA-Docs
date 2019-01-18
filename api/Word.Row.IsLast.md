@@ -39,4 +39,3 @@ MsgBox ActiveDocument.Tables(1).Rows(2).IsLast
 
 [Row Object](Word.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

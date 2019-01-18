@@ -34,4 +34,3 @@ This property returns  **Null** (**Nothing** in Visual Basic) if the **[IsMarked
 
 [ContactItem Object](Outlook.ContactItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

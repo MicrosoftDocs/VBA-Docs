@@ -128,5 +128,3 @@ Selected task ID 4, name: T4
 [PathDrivingPredecessor Property](Project.task.pathdrivingpredecessor.md)
 [PathPredecessor Property](Project.task.pathpredecessor.md)
 [PathDrivenSuccessor Property](Project.task.pathdrivensuccessor.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

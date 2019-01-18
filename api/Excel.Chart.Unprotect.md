@@ -42,4 +42,3 @@ If you forget the password, you cannot unprotect the sheet or workbook. It's a g
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

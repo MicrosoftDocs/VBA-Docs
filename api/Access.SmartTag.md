@@ -53,5 +53,3 @@ To return the collection of actions available for the smart tag, use the  **[Sma
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Specifies the type of database connection.
 | **xlConnectionTypeWORKSHEET**|8|Worksheet|
 | **xlConnectionTypeXMLMAP**|3|XML MAP|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the SIP (Session Initiation Protocol) address of the author of the comme
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

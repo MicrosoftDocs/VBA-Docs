@@ -39,4 +39,3 @@ The  **CustomMinScaleValue** property can be returned or set only when the **[Mi
 
 [SparkVerticalAxis Object](Excel.SparkVerticalAxis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

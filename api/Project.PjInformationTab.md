@@ -32,4 +32,3 @@ Contains constants that specify which information tab to display.
 |**pjTaskPredecessorsTab**|1|Predecessors tab of the Task Information dialog box.|
 |**pjTaskResourcesTab**|2|Resources tab of the Task Information dialog box.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **String** that represents the localized name of a building block typ
 
 [BuildingBlockType Object](Word.BuildingBlockType.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

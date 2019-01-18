@@ -27,4 +27,3 @@ Specifies the type of an  **[Account](Outlook.Account.md)**.
 | **olOtherAccount**|5|Other or unknown account.|
 | **olPop3**|2|A POP3 account.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

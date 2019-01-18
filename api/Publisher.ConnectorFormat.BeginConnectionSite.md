@@ -74,4 +74,4 @@ With ActiveDocument.Pages(1).Shapes
 End With
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

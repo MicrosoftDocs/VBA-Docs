@@ -21,4 +21,3 @@ Specifies the way that an object is attached to its underlying cells.
 | **xlMove**|2|Object is moved with the cells.|
 | **xlMoveAndSize**|1|Object is moved and sized with the cells.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

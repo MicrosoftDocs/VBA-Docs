@@ -20,4 +20,4 @@ localization_priority: Normal
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

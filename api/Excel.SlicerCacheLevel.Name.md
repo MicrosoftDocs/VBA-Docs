@@ -34,4 +34,3 @@ _expression_ A variable that returns a '[SlicerCacheLevel](Excel.SlicerCacheLeve
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

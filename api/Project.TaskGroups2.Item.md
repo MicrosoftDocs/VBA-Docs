@@ -34,4 +34,3 @@ Gets a single item from a collection. Read-only  **Object**.
 
 [TaskGroups2 Collection Object](Project.taskgroups2(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

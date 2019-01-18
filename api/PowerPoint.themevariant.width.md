@@ -23,4 +23,4 @@ Returns the height of the theme variation. Read-only.
 
  **INT32**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

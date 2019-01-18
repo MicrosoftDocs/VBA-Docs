@@ -28,4 +28,4 @@ Determines whether page tab controls are shown in the drawing window. Read/write
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

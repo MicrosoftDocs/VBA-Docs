@@ -38,4 +38,3 @@ A MAPI store provider assigns a unique ID string when an item is created in its 
 
 [StorageItem Object](Outlook.StorageItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

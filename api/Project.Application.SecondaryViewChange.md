@@ -36,4 +36,4 @@ Event occurs when a secondary view pane changes within a project window.
 
 nothing
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

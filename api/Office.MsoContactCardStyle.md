@@ -23,4 +23,3 @@ Specifies how the contact card is displayed.
 |**msoContactCardFull**|1|The contact card is displayed as a full card.|
 |**msoContactCardHover**|0|The contact card is displayed as a hover card.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

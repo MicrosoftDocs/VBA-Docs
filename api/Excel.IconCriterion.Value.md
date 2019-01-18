@@ -36,4 +36,3 @@ If the type of threshold is a formula, you can set the formula as a  **String**.
 
 [IconCriterion Object](Excel.IconCriterion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

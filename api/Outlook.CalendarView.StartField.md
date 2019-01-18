@@ -34,4 +34,3 @@ The values of the  **StartField** and **[EndField](Outlook.CalendarView.EndField
 
 [CalendarView Object](Outlook.CalendarView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ _expression_ An expression that returns a **[GlowFormat](Office.GlowFormat.md)**
 
 - [GlowFormat object members](overview/library-reference/glowformat-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Specifies the folders in which the view is available and the read permissions at
 
 Used by the  **Copy** method and **SaveOption** property of **View** objects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

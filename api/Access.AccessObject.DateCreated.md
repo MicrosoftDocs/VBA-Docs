@@ -40,4 +40,4 @@ For Each acobjLoop In CurrentProject.AllReports
 Next acobjLoop
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

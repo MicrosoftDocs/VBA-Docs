@@ -53,4 +53,4 @@ The following code gets the ID of the subshape at point (200, 200) in the drawin
 Debug.Print vsoViewer.SubShapeAtPoint (200, 200)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

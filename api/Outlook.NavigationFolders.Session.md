@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

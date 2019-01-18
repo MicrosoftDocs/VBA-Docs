@@ -48,4 +48,3 @@ Specifies a built-in document property.
 | **wdPropertyVBATotalEdit**|13|Number of edits to VBA project.|
 | **wdPropertyWords**|15|Word count.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

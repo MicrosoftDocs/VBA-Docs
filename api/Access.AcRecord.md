@@ -27,4 +27,3 @@ Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which r
 |**acNext**|1|Make the next record the current record.|
 |**acPrevious**|0|Make the previous record the current record.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

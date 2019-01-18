@@ -36,4 +36,3 @@ This property does not indicate whether the appointment item has a time conflict
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

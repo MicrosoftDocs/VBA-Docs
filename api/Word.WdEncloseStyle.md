@@ -21,4 +21,3 @@ Specifies the relative size of an enclosure.
 | **wdEncloseStyleNone**|0|The enclosure assumes the default size.|
 | **wdEncloseStyleSmall**|1|The enclosure is smaller.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

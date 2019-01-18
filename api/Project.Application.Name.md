@@ -30,4 +30,4 @@ Gets the name of the  **Application** object. Read-only **String**.
 Debug.Print Application
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

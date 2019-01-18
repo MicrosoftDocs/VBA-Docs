@@ -32,4 +32,3 @@ Returns a  **Long** that represents the number of frames in the collection. Read
 
 [Frames Collection](Word.Frames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

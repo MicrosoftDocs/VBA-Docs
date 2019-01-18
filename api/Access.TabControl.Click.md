@@ -60,4 +60,3 @@ To distinguish between the left, right, and middle mouse buttons, use the **Mous
 
 [TabControl Object](Access.TabControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

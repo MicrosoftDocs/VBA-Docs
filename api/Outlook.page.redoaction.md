@@ -28,4 +28,4 @@ A  **Boolean** that specifies **True** if the method succeeds, **False** otherwi
 
 Redo reverses the last  **Undo**, which is not necessarily the last action taken. Not all actions can be undone.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

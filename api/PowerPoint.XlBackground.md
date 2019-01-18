@@ -21,4 +21,3 @@ Specifies the background type for text in charts.
 |**xlBackgroundOpaque**|3|An opaque background.|
 |**xlBackgroundTransparent**|2|A transparent background.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

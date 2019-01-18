@@ -41,4 +41,3 @@ The order of the  **Rule** objects in the collection returned from **GetRules** 
 
 [Store Object](Outlook.Store.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

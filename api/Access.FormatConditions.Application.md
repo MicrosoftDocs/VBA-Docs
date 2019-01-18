@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [FormatConditions Collection](Access.FormatConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

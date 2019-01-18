@@ -90,4 +90,3 @@ Once you have created a data recordset, the connection string and query command 
 |[Stat](./Visio.DataRecordset.Stat.md)|
 |[TimeRefreshed](./Visio.DataRecordset.TimeRefreshed.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ The  **Collection** property is similar to the **Parent** property.
 
 [Reference Object](Access.Reference.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

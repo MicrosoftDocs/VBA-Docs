@@ -98,4 +98,3 @@ End Sub
 |[XOffsetWithinReaderSpread](./Publisher.Page.XOffsetWithinReaderSpread.md)|
 |[YOffsetWithinReaderSpread](./Publisher.Page.YOffsetWithinReaderSpread.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

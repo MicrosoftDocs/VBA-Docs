@@ -36,4 +36,4 @@ Deletes a project from the Project Server database. Available in Project Profess
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

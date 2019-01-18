@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of sentences in the collection. R
 
 [Sentences Collection Object](Word.sentences.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

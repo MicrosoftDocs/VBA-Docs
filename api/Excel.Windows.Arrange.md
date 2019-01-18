@@ -67,4 +67,3 @@ Application.Windows.Arrange ArrangeStyle:=xlArrangeStyleTiled
 
 [Windows Object](Excel.Windows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

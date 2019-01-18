@@ -70,4 +70,3 @@ End Sub
 
 [ItemProperties Object](Outlook.ItemProperties.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

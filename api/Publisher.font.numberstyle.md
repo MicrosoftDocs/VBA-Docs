@@ -32,4 +32,4 @@ Returns or sets a  **[pbNumberStyles](Publisher.pbnumberstylestype.md)** constan
 > [!NOTE] 
 > The  **NumberStyles** property has an effect only for OpenType fonts that contain number styles.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

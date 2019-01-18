@@ -49,4 +49,4 @@ The index that the  **RunEnd** property returns is greater than or equal to the 
 
 Use the  _RunType_ argument to specify the type of run you want. You can use any of the constants declared by the Visio type library in **[VisRunTypes Constants](Visio.visruntypes.md)**. To find a list of _RunType_ values, see the **RunBegin** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

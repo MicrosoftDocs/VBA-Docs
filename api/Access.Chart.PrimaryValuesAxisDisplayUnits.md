@@ -27,4 +27,3 @@ _expression_ A variable that represents a **[Chart](Access.Chart.md)** object.
 
 As an example, if **6** is a value on the axis, and **PrimaryValuesAxisDisplayUnits** is changed from **None** to **Hundreds**, the displayed value changes from **6** to **.06**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

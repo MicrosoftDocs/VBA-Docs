@@ -44,4 +44,4 @@ DataRecordset
 
 The ID of a  **DataRecordset** object is never recycled for a particular document. You can get the ID of a **DataRecordset** object by getting the value of the **DataRecordset.ID** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

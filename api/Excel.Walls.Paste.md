@@ -34,4 +34,3 @@ This method can be used on column, bar, line, or radar charts.
 
 [Walls Object](Excel.Walls(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

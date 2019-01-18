@@ -34,4 +34,3 @@ For OLAP data sources, setting this property for one field in a hierarchy sets t
 
 [CubeField Object](Excel.CubeField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

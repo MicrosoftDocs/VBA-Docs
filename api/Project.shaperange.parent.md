@@ -26,5 +26,3 @@ Gets the parent object of the shape. Read-only  **Object**.
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

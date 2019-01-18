@@ -31,4 +31,3 @@ Some chart types are not available for PivotChart reports.
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

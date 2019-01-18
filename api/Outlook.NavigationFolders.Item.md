@@ -47,4 +47,3 @@ The index value of a  **NavigationFolder** in the collection represents the ordi
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

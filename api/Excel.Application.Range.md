@@ -103,4 +103,3 @@ Worksheets("Sheet1").Range(Cells(1, 1), Cells(5, 3)). _
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

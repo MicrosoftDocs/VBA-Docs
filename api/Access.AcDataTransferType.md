@@ -31,4 +31,4 @@ Specifies the type of transfer that you want to make with the  **TransferDatabas
 
  **Note**   The **acLink** transfer type is not supported for Microsoft Access projects (.adp).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

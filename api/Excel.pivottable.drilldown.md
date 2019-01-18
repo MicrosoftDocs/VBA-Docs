@@ -66,4 +66,3 @@ ActiveChart.PivotLayout.PivotTable.DrillDown ActiveChart.PivotLayout.PivotTable 
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

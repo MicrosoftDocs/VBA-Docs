@@ -38,4 +38,4 @@ Long
 
  **ID** is the default property of the **DataRecordset** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

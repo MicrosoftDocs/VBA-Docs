@@ -38,4 +38,3 @@ The height of controls is measured from the center of their borders so controls 
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

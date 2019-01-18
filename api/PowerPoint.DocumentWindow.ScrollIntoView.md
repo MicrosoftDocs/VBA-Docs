@@ -65,4 +65,4 @@ ActiveWindow.ScrollIntoView Left:=50, Top:=20, _
 
 [DocumentWindow Object](PowerPoint.DocumentWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

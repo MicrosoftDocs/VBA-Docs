@@ -28,5 +28,3 @@ Gets a value that indicates whether the shape is flipped around the vertical axi
 [Shape Object](Project.shape.md)
 [HorizontalFlip Property](Project.shape.horizontalflip.md)
 [MsoTriState](https://msdn.microsoft.com/library/office/ff860737%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ End If
 
 [TableOfContents Object](Word.TableOfContents.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

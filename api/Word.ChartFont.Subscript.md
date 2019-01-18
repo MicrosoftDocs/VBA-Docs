@@ -29,4 +29,3 @@ localization_priority: Normal
 
 [ChartFont Object](Word.ChartFont.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

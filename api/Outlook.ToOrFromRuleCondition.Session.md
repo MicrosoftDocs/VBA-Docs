@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [ToOrFromRuleCondition Object](Outlook.ToOrFromRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

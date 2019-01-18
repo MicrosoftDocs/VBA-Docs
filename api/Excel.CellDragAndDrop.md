@@ -26,4 +26,4 @@ This example enables dragging and dropping cells.
 myChart.Application.CellDragAndDrop = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

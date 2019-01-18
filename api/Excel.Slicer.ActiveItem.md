@@ -41,5 +41,7 @@ The  **ActiveItem** property will return **Null** under the following circumstan
 - The specified slicer has focus and the whole slicer itself is selected (for example, the user can move the whole slicer around using the keyboard in this state).
     
 - The specified slicer has focus and the active control is the  **Clear Filter** button in the header of the slicer.
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

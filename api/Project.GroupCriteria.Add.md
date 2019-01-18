@@ -50,5 +50,3 @@ Adds a  **GroupCriterion** object to a **GroupCriteria** collection.
 
 
 [GroupCriteria Collection Object](Project.groupcriteria.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

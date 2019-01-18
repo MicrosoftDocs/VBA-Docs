@@ -34,4 +34,3 @@ Use the  **[Paste](PowerPoint.CustomLayouts.Paste.md)** method of the **[CustomL
 
 [CustomLayout Object](PowerPoint.CustomLayout.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

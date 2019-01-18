@@ -24,4 +24,4 @@ localization_priority: Normal
 
 The index of a  **Menu** object within the **Menus** collection corresponds to the menu's position from left to right on the menu bar, starting with zero (0) for the menu farthest to the left if the menus are arranged horizontally.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

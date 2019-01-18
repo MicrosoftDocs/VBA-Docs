@@ -37,5 +37,5 @@ localization_priority: Normal
 -  [Image.PictureTiling Property (Outlook Forms Script)](Outlook.Image.picturetiling.md)
     
 -  [Image.SpecialEffect Property (Outlook Forms Script)](Outlook.Image.specialeffect.md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

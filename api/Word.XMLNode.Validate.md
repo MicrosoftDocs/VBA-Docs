@@ -64,4 +64,3 @@ MsgBox "The following elements do not validate against " & _
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [PageBreak Object](Access.PageBreak.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

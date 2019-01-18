@@ -57,4 +57,3 @@ Charts("Chart1").SeriesCollection.Paste
 
 [SeriesCollection Object](./Excel.SeriesCollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

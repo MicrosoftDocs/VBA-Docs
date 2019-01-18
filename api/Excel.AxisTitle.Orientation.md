@@ -33,4 +33,3 @@ The value of this property can be set to an integer value from -90 to 90 degrees
 
 [AxisTitle Object](Excel.AxisTitle(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

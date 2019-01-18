@@ -47,4 +47,4 @@ The values returned correspond to either Office or Microsoft Office 2010 broadca
 
 [Broadcast Object](Word.broadcast.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -50,4 +50,3 @@ A  **Conversation** object that represents the conversation to which this item b
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ _expression_ A variable that represents a [PivotTable object (Excel)](Excel.Pivo
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ localization_priority: Normal
 
 By default, the  **ProjectServerUsedForTracking** property is set to **True** for all new projects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

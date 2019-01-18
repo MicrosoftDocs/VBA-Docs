@@ -34,4 +34,3 @@ The phantom can be used to add horizontal spacing or vertical spacing, or to sup
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

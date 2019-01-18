@@ -59,4 +59,3 @@ Objects created by using the  **CreateForm** or **CreateReport** methods are lig
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

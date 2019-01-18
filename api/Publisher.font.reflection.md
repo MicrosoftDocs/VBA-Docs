@@ -32,4 +32,3 @@ Returns a  [ReflectionFormat](Publisher.reflectionformat.md) object that represe
 
  [Font Object](Publisher.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

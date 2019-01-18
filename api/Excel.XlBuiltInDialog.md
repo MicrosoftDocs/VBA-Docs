@@ -277,4 +277,3 @@ Specifies which dialog box to display.
 | **xlDialogWorkspace**|95| **Workspace** dialog box|
 | **xlDialogZoom**|256| **Zoom** dialog box|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

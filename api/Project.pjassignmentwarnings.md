@@ -24,4 +24,3 @@ Defines the different types of warnings that may appear on assignments triggerin
 |**pjAssignmentWarningOverlappingWithLessWorkCommittedEngagement**|**4**||
 |**pjAssignmentWarningPartiallyOverlappingCommittedEngagement**|**2**||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

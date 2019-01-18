@@ -40,4 +40,3 @@ If ActiveDocument.Revisions.Count >= 1 Then _
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,4 +43,3 @@ The  **ChartCharacters** object is not a collection.
 
 [AxisTitle Object](PowerPoint.AxisTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

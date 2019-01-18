@@ -26,4 +26,3 @@ Specifies the style of a command bar button.
 |**msoButtonIconAndWrapCaptionBelow**|15|Image with text wrapped below image.|
 |**msoButtonWrapCaption**|14|Text only, centered and wrapped.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

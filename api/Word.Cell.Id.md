@@ -34,4 +34,3 @@ You can use a label as a hyperlink reference from other Web pages or from within
 
 [Cell Object](Word.Cell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -53,4 +53,4 @@ The following code example adds a reservation lock to the first paragraph in the
 ActiveDocument.CoAuthoring.Locks.Add(ActiveDocument.Paragraphs(1).Range, wdLockReservation)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

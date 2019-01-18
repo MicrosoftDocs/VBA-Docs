@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of languages in the collection. R
 
 [Languages Collection Object](Word.languages.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

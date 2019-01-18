@@ -30,4 +30,4 @@ If the entry bar is selected and you run the command  `DisplayEntryBar = False`,
 
 The  **DisplayEntryBar** property corresponds to the **Entry bar** checkbox on the **Display** tab of the **Project Options** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

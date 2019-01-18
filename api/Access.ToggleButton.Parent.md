@@ -34,4 +34,3 @@ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md)
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

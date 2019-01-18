@@ -26,4 +26,4 @@ The default property of a  **Toolbar** object is **Caption**.
 
 The index of the  **Toolbar** object within the **Toolbars** collection corresponds to its order in the Visio window, starting with zero (0) for the toolbar closest to the top. Up to 10 toolbars can be displayed in a Visio window at one time.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

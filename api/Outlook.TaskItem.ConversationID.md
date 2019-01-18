@@ -38,4 +38,3 @@ If the  **TaskItem** object is created in a version of Microsoft Outlook earlier
 
 [TaskItem Object](Outlook.TaskItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

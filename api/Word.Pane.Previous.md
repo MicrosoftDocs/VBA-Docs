@@ -29,4 +29,3 @@ Returns a  **Pane** object that represents the previous document pane in the col
 
 [Pane Object](Word.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

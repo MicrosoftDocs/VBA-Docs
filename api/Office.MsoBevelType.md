@@ -32,4 +32,3 @@ Indicates the bevel type of a  **ThreeDFormat** object.
 |**msoBevelSoftRound**|7|Specifies a SoftRound bevel.|
 |**msoBevelTypeMixed**|-2|Specifies a mixed type bevel.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

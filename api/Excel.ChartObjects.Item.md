@@ -57,4 +57,3 @@ Worksheets("sheet1").ChartObjects.Item(1).Activate
 
 [ChartObjects Object](Excel.ChartObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

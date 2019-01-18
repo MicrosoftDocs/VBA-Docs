@@ -25,4 +25,4 @@ _expression_ A variable that represents a  **ScrollBar** object.
 
 Use the  **Enabled** property to enable and disable controls. A disabled control appears dimmed, while an enabled control does not. Also, if a control displays a bitmap, the bitmap is dimmed whenever the control is dimmed.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

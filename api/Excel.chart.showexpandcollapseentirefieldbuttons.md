@@ -27,4 +27,3 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

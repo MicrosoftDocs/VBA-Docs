@@ -36,4 +36,4 @@ Returns the  **[Printer](Publisher.Printer.md)** object with the specified name 
 
 Printer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

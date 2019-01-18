@@ -34,4 +34,3 @@ The first paragraph or table row is considered a header record and isn't include
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

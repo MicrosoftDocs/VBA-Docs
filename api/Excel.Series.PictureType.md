@@ -39,4 +39,3 @@ Charts("Chart1").SeriesCollection(1).PictureType = xlStretch
 
 [Series Object](Excel.Series(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

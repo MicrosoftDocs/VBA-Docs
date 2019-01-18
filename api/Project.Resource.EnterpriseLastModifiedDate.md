@@ -28,4 +28,4 @@ Gets the date and time when the resource was last checked in to the enterprise r
 
 The  **EnterpriseLastModifiedDate** property is available only in Project Professional.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

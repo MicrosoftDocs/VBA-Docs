@@ -50,4 +50,3 @@ Windows(1).Selection.SlideRange.ColorScheme _
 
 [Selection Object](PowerPoint.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

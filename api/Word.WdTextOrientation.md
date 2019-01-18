@@ -24,4 +24,3 @@ Specifies the text direction in a range or selection.
 | **wdTextOrientationVerticalFarEast**|1|Text flows vertically and reads downward from the top, right to left.|
 | **wdTextOrientationVertical**|5|Text flows vertically and reads downward from the top, left to right.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

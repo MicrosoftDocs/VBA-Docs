@@ -32,4 +32,4 @@ Any integer is an acceptable setting for this property. The recommended range of
 
  **Max** refer to locations, not to relative values, on the **ScrollBar**. That is, the value of  **Max** could be less than the value of **[Min](Outlook.scrollbar.min.md)**. If this is the case, moving toward the  **Max** (bottom) position means decreasing **Value**; moving toward the  **Min** (top) position means increasing **Value**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

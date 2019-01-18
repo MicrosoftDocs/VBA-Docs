@@ -34,4 +34,3 @@ The  **LayoutID** property returns 0 (zero) if the specified control is not part
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,5 @@ To use for all PivotTables connected to the model, there will have a new "specia
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

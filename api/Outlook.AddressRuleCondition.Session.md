@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

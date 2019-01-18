@@ -44,4 +44,4 @@ You can also use  **Column** to copy an entire two-dimensional array of values t
 
 When copying data from a two-dimensional array,  **Column** transposes the contents of the array in the control so that the contents of `ListBox1.Column(X, Y)` is the same as `MyArray(Y, X)`. You can also use the  **[List](Outlook.listbox.list.md)** property to copy an array without transposing it.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

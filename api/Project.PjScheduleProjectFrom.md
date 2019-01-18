@@ -20,4 +20,3 @@ Contains constants that specify the scheduling of a project.
 |**pjProjectFinish**|2|Schedule project from finish.|
 |**pjProjectStart**|1|Schedule project from start.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

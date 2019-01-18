@@ -34,4 +34,3 @@ The source document must be formatted as a Word document.
 
 [Fields Collection Object](Word.fields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ To support backward compatibility, the default value for this property is  **Tru
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

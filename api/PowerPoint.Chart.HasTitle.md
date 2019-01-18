@@ -34,4 +34,3 @@ A chart title is represented by a  **[ChartTitle](PowerPoint.ChartTitle.md)** ob
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

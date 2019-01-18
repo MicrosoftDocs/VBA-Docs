@@ -35,4 +35,3 @@ Specifies the theme colors for document themes.
 | **wdThemeColorText1**|13|Text color 1.|
 | **wdThemeColorText2**|15|Text color 2.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

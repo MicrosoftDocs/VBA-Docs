@@ -29,4 +29,3 @@ _expression_ A variable that represents an [OutlookBarStorage](./Outlook.Outlook
 
 [OutlookBarStorage Object](Outlook.OutlookBarStorage.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

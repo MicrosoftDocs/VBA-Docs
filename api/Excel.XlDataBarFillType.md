@@ -20,4 +20,3 @@ Specifies how a data bar is filled with color.
 | **xlDataBarFillGradient**|1|The data bar is filled with a color gradient.|
 | **xlDataBarFillSolid**|0|The data bar is filled with solid color.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

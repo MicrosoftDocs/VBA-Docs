@@ -40,4 +40,3 @@ You can also view the custom properties dialog box by clicking the **Properties*
 
 [CustomControl Object](Access.CustomControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -55,4 +55,4 @@ For a complete list of valid unit strings along with corresponding Automation co
 
 Automation constants for representing units are declared by the Visio type library in member  **[VisUnitCodes](Visio.visunitcodes.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

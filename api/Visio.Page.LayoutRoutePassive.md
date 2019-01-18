@@ -37,4 +37,4 @@ The default setting of the  **LayoutRoutePassive** property is **False** , which
 
 The  **LayoutRoutePassive** property can also affect paste behavior. When you paste shapes into a diagram, the resulting connector behavior depends on how you pasted the shape into the diagram. When you paste by using the keyboard combination CTRL+V, advanced connector rerouting does not take place, but when you paste by using the right-click (context) menu, advanced connector rerouting does take place. However, if the **LayoutRoutePassive** property is set to **True** , advanced connector routing is always disabled when you paste shapes into the drawing, no matter which method you use.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

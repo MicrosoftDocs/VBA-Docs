@@ -34,4 +34,3 @@ A  **[MailItem](Outlook.MailItem.md)** object that represents the reply.
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

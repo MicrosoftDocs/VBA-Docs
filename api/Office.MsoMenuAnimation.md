@@ -22,4 +22,3 @@ Specifies animation style for Microsoft Office command bars.
 |**msoMenuAnimationSlide**|3|Menus slide into view.|
 |**msoMenuAnimationUnfold**|2|Menus unfold into view.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

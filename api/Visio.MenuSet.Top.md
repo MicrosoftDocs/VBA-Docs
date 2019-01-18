@@ -28,4 +28,4 @@ Gets the distance between the top of an object and the top of the docking area o
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

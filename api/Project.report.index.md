@@ -54,5 +54,3 @@ End Sub
 
 [Report Object](Project.report.md)
 [Reports Object](Project.reports.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

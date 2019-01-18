@@ -38,4 +38,3 @@ Use the  **ActiveCell** property to return a **Cell** object.
 |[Text](./Project.Cell.Text.md)|
 |[Engagement](./Project.cell.engagement.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

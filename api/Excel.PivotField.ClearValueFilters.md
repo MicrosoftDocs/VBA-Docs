@@ -53,4 +53,3 @@ The following table lists the different value filter types that will be deleted 
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

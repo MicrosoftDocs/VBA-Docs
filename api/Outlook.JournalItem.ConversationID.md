@@ -38,4 +38,3 @@ If the  **JournalItem** object is created in a version of Microsoft Outlook earl
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

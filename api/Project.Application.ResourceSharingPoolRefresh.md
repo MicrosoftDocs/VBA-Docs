@@ -36,4 +36,4 @@ Refreshes the local resource sharing pool.
 
  **Note**  Project Professional can share local resources only when not logged on Project Server. If Project Professional is using a Project Server profile, local resource sharing is unavailable.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

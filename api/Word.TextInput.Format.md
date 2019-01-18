@@ -43,4 +43,3 @@ End If
 
 [TextInput Object](Word.TextInput.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

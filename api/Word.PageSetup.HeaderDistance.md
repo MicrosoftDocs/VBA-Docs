@@ -42,4 +42,3 @@ Msgbox PointsToInches(sngDistance) & " inches"
 
 [PageSetup Object](Word.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

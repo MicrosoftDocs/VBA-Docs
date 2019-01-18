@@ -28,4 +28,4 @@ Displays the  **Recurring Task Information** dialog box, which prompts the user 
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

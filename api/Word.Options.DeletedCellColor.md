@@ -29,4 +29,3 @@ Returns or sets a  **WdCellColor** constant that represents the color for a dele
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

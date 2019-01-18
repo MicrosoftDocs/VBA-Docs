@@ -34,4 +34,3 @@ The value of this property is a DAV Search and Locating (DASL) string that repre
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

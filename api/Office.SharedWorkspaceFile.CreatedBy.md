@@ -65,4 +65,3 @@ The following example lists files in the shared workspace site that were created
 
 [SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

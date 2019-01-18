@@ -29,5 +29,3 @@ Workbook.PublishToDocs(Title As String, DisclosureScope As XlPublishToDocsDisclo
 
 
 [Workbook Object](./Excel.Workbook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

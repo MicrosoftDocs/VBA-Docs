@@ -34,4 +34,3 @@ The default value is  **acHorizontalAnchorLeft**.
 
 [OptionButton Object](Access.OptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

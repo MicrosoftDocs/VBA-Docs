@@ -23,4 +23,3 @@ Specifies the type of a [SharedResource](Access.SharedResource.md) object.
 |**acResourceImage**|1|Image.|
 |**acResourceTheme**|0|Office theme.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

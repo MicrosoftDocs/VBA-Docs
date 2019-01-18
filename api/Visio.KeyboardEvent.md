@@ -29,4 +29,4 @@ where  _event code_ returns the code of the event that fired (**KeyDown** , **Ke
 
 Use the  **Application** property of the **KeyboardEvent** object to determine the Microsoft Visio instance hosting the object, and use the **Window** property to determine the Visio window associated with a keyboard event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

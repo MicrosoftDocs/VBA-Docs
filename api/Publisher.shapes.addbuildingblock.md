@@ -36,4 +36,4 @@ Adds a  **[BuildingBlock](Publisher.BuildingBlock.md)** object and returns a **[
 
  **Shape**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -30,4 +30,4 @@ The  **BackStyle** property determines whether a control is transparent. If **Ba
 
  **BackStyle** does not affect the transparency of bitmaps. You must use a picture editor such as Paintbrush to make a bitmap transparent. Not all controls support transparent bitmaps.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

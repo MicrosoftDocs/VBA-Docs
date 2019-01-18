@@ -31,4 +31,3 @@ Specifies the information to include in a cross-reference.
 | **wdPageNumber**|7|Insert page number of specified item.|
 | **wdPosition**|15|Insert the word "Above" or the word "Below" as appropriate.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

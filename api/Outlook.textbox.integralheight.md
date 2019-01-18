@@ -27,4 +27,4 @@ The  **IntegralHeight** property relates to the height of the text box, just as 
 
 If  **IntegralHeight** is **True**, the text box automatically resizes when necessary to show full rows. If  **False**, the text box remains a fixed size; if items are taller than the available space in the text box, the entire item is not shown.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

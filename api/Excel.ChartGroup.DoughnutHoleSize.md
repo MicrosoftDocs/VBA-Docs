@@ -39,4 +39,3 @@ Charts("Chart1").DoughnutGroups(1).DoughnutHoleSize = 10
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

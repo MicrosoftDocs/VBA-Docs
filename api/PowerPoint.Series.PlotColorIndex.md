@@ -39,4 +39,3 @@ This property is used internally by Microsoft PowerPoint and is not intended to 
 
 [Series Object](PowerPoint.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

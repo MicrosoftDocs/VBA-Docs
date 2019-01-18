@@ -41,4 +41,3 @@ It also returns an error if no connection is available or the user is set to wor
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

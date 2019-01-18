@@ -30,5 +30,3 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [ViewsSingle Collection Object](Project.viewssingle(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

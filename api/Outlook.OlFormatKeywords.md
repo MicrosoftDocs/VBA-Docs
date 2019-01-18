@@ -22,4 +22,3 @@ Indicates the format used to display keyword Outlook item properties.
 |:-----|:-----|:-----|
 | **olFormatKeywordsText**|1|Displays values as text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

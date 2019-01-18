@@ -21,4 +21,3 @@ Specifies the format in which to display month names.
 | **wdMonthNamesEnglish**|1|English format.|
 | **wdMonthNamesFrench**|2|French format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

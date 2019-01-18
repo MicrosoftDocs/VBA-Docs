@@ -28,4 +28,4 @@ Gets or sets the degree of transparency of the color represented by the parent  
 
 Single
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

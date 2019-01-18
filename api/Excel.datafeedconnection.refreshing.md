@@ -33,4 +33,3 @@ _expression_ A variable that represents a [DataFeedConnection object (Excel)](Ex
 
 [DataFeedConnection Object](Excel.datafeedconnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

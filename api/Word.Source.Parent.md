@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Sour
 
 [Source Object](Word.Source.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

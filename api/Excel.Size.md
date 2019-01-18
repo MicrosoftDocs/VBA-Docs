@@ -26,4 +26,4 @@ This example sets the font size for the chart title.
 myChart.ChartTitle.Font.Size = 12
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

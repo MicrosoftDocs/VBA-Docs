@@ -29,4 +29,3 @@ Returns the number of items in the  **[AutoTextEntries](Word.autotextentries.md)
 
 [AutoTextEntries Collection Object](Word.autotextentries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

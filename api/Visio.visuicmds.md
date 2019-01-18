@@ -698,4 +698,3 @@ UI command ID constants, to be used in conjunction with the  **CmdNum** property
 | **visCmdZoomPt**|1215|
 | **visCmdZoomSingleTile**|1512|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

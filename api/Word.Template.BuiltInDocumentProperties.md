@@ -38,4 +38,3 @@ Use the  **CustomDocumentProperties** property to return the collection of custo
 
 [Template Object](Word.Template.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

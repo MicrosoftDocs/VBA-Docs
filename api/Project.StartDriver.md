@@ -42,5 +42,3 @@ Use the  **[Index](./Project.Task.Index.md)** method of the **[Task](Project.Tas
 
 
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

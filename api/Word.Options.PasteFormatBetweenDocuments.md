@@ -34,4 +34,3 @@ Corresponds to the  **Pasting between two documents (without styles)** option in
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

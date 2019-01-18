@@ -26,4 +26,4 @@ This example sets the color of the tick-mark label font for the value axis.
 myChart.Axes(xlValue).TickLabels.Font.ColorIndex = 3
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

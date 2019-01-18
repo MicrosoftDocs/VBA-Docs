@@ -21,4 +21,4 @@ _expression_. **InsideHeight**
 
 _expression_ A variable that represents a  **Frame** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

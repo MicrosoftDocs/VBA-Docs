@@ -28,4 +28,4 @@ localization_priority: Normal
 
 The  **UseFYStartYear** property can also be set with the **[OptionsCalendar](Project.Application.OptionsCalendar.md)** method or on the **Schedule** tab of the **Project Options** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

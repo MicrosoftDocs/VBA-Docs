@@ -26,4 +26,3 @@ Values passed to the  _Data_ argument of the **CreateSelection** method when the
 | **visTypeSelOLE**|64|A shape that is linked, embedded, or a control.|
 | **visTypeSelShape**|2|A native Visio shape.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This method does not remove the column from the sheet. If the list is linked to 
 
 [ListColumn Object](Excel.ListColumn.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

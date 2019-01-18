@@ -29,4 +29,3 @@ Allows Microsoft Word to break the specified table across pages. Read/write  **B
 
 [TableStyle Object](Word.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

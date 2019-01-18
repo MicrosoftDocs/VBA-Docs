@@ -39,4 +39,3 @@ The  **BevelTopType** property value can be one of the **[MsoBevelType](Office.M
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

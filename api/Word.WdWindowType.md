@@ -20,4 +20,3 @@ Specifies the type of window.
 | **wdWindowDocument**|0|A document window.|
 | **wdWindowTemplate**|1|A template window.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 A  **ComboBox** only has one line.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

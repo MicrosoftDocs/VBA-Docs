@@ -29,4 +29,3 @@ Returns or sets the data label text. Read/write  **String**.
 
 [DataLabel Object](Word.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

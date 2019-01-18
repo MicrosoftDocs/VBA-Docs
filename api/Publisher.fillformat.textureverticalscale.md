@@ -37,4 +37,3 @@ The setting of the  **TextureVerticalScale** property corresponds to the setting
 
  [FillFormat Object](Publisher.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

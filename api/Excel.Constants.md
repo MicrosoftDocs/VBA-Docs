@@ -185,4 +185,3 @@ This enumeration groups together constants used with various Excel methods.
 | **xlWorksheetCell**|3|Worksheet Cell|
 | **xlWorksheetShort**|5|Worksheet Short|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

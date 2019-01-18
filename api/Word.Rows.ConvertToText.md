@@ -38,4 +38,3 @@ Converts rows in a table to text and returns a  **Range** object that represents
 
 [Rows Collection Object](Word.rows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ ActiveDocument.Shapes.AddShape(msoShapeCan, 90, 90, 40, 80) _
 
 [FillFormat Object](Word.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

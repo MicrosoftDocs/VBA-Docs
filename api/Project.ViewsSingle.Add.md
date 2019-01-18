@@ -47,5 +47,3 @@ Adds a  **ViewSingle** object to a **ViewsSingle** collection.
 
 
 [ViewsSingle Collection Object](Project.viewssingle(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

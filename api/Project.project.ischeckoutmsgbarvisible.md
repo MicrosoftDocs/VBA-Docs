@@ -51,5 +51,3 @@ End Sub
 [IsCheckoutOSVisible](Project.project.ischeckoutosvisible.md)
 [HideCheckoutMsgBar Method](Project.project.hidecheckoutmsgbar.md)
 [CheckoutProject Method](Project.project.checkoutproject.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

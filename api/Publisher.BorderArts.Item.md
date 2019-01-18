@@ -42,4 +42,3 @@ BorderArt
 
  [BorderArts Object](Publisher.BorderArts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

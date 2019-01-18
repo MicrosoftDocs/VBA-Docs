@@ -21,4 +21,3 @@ Specifies whether margins are visible or hidden when a document is viewed in Ful
 | **wdFullMargin**|2|Shows the pages with margins.|
 | **wdSuppressMargin**|1|Microsoft Word determines automatically whether to show or hide the margins based on the available space.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

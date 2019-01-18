@@ -56,5 +56,3 @@ Contains constants that specify the display format for weeks in a timescale.
 [PjDayLabel Enumeration](Project.PjDayLabel.md)
 [PjMonthLabel Enumeration](Project.PjMonthLabel.md)
 [PjDateLabel Enumeration](Project.PjDateLabel.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

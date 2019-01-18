@@ -44,4 +44,3 @@ End If
 
 [PivotCaches Object](Excel.PivotCaches.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,4 +40,4 @@ Sub AddHyperlink()
 End Su
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

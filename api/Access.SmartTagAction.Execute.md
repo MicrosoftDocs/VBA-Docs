@@ -41,4 +41,3 @@ Calling the  **Execute** method will result in a run-time error if the smart tag
 
 [SmartTagAction Object](Access.SmartTagAction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

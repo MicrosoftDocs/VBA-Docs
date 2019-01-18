@@ -33,4 +33,4 @@ String
 
 The  **Description** property of the **IVBUndoUnit** interface is read-only. It returns a string that describes the undo unit and appears in the **Undo** list on the **Quick Access** toolbar. For more information about the **Description** property as it applies to the **IVBUndoUnit** interface, search for "creating undo units" on MSDN, the Microsoft Developer Network.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

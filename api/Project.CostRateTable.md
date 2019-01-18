@@ -45,4 +45,3 @@ GovtRates.PayRates(1).StandardRate = "$10/h"
 |[Parent](Project.CostRateTable.Parent.md)|
 |[PayRates](Project.CostRateTable.PayRates.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

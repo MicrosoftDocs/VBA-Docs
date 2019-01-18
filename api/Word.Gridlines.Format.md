@@ -29,4 +29,3 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 [GridLines Object](Word.GridLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

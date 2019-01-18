@@ -182,4 +182,3 @@ Specifies the graphical page border setting of a page.
 | **wdArtZigZag**|137|A zigzag border.|
 | **wdArtZigZagStitch**|143|A zigzag stitch border.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

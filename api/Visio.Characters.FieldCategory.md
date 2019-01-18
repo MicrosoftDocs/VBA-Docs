@@ -50,4 +50,3 @@ The following constants for field categories are declared by the Visio type libr
 | **visFCatObject**|4 |
 | **visFCatPage**|5 |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

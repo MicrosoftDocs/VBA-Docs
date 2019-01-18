@@ -33,4 +33,4 @@ Inserts a new manually scheduled task above the selected task row or cell in a G
 
 By comparison, the  **[InsertTask](Project.Application.InsertTask.md)** method creates a task of the default mode and **[InsertScheduledTask](Project.Application.InsertScheduledTask.md)** creates an automatically scheduled task.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

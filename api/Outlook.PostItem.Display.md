@@ -44,4 +44,3 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

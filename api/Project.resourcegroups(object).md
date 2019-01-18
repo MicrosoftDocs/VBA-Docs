@@ -70,4 +70,3 @@ For resource groups where the group hierarchy can be maintained and cell color c
 |[Item](Project.ResourceGroups.Item.md)|
 |[Parent](Project.ResourceGroups.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

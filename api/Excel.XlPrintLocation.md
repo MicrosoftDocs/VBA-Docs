@@ -21,4 +21,3 @@ Specifies the way that comments are printed with the sheet.
 | **xlPrintNoComments**|-4142|Comments will not be printed.|
 | **xlPrintSheetEnd**|1|Comments will be printed as end notes at the end of the worksheet.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

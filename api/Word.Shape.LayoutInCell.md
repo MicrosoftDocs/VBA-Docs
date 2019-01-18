@@ -49,4 +49,3 @@ ActiveDocument.Shapes(1).LayoutInCell = False
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

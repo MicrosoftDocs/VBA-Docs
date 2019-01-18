@@ -27,4 +27,4 @@ The parent of a  **Shift** object can be a **Day**, **Weekday**, **WorkWeekDay**
 
 Use the  **Parent** property to access the properties or methods of the parent of an object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

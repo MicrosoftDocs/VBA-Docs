@@ -37,4 +37,3 @@ Returns an individual object in a collection.
 
 [AddIns Collection Object](Word.addins.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,3 @@ This method only opens a page for a new form region in design mode. This method 
 
 [Inspector Object](Outlook.Inspector.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

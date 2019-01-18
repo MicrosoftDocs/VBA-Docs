@@ -38,4 +38,3 @@ The  **ListItemsEditForm** property is not available for list boxes on a report.
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

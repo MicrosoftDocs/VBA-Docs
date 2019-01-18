@@ -29,4 +29,3 @@ Deletes the object.
 
 [Axis Object](Word.Axis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

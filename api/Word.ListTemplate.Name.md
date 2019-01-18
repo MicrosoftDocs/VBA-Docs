@@ -29,4 +29,3 @@ Returns or sets the name of the specified object. Read/write  **String**.
 
 [ListTemplate Object](Word.ListTemplate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

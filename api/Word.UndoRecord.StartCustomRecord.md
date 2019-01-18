@@ -67,4 +67,4 @@ End Sub
 
 [Working with the UndoRecord Object](../word/Concepts/Working-with-Word/working-with-the-undorecord-object.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

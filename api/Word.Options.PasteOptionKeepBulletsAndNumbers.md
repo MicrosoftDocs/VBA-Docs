@@ -34,4 +34,3 @@ This property corresponds to the  **Keep bullets and numbers when pasting text w
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

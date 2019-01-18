@@ -33,4 +33,4 @@ _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' 
 
 When the value of the  **[VisibleInPivotTable](Excel.ValueChange.VisibleInPivotTable.md)** property of the specified **ValueChange** object is **True** , the **PivotCell** property returns a **PivotCell** object for the cell (tuple) that was changed. When the value of the **VisibleInPivotTable** property of the specified **ValueChange** object is **False** , the **PivotCell** property returns **NULL**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

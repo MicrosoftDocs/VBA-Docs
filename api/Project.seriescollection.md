@@ -113,5 +113,3 @@ Series 3: Work
 [Chart Object](Project.chart.md)
  
 [Series Object](Project.series.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

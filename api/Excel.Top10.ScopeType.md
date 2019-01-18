@@ -34,4 +34,3 @@ The default value is  **xlSelectionScope** , which sets the scope using the **Ap
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

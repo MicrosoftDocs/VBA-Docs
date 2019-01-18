@@ -74,5 +74,3 @@ For example, running the  **GetSeriesValue** macro on a chart that includes a pl
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

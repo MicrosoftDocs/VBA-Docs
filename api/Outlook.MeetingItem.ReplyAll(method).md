@@ -34,4 +34,3 @@ A  **[MailItem](Outlook.MailItem.md)** that represents the reply.
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

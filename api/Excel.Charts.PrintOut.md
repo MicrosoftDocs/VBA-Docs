@@ -65,4 +65,3 @@ ActiveSheet.PrintOut
 
 [Charts Collection](Excel.Charts.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

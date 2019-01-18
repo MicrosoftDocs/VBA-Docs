@@ -231,5 +231,3 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 [Access Object Model Reference](overview/Access/object-model.md)<br/>
 [TextBox Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

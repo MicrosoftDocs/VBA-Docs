@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("Address").OnChange
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

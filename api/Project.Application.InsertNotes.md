@@ -28,4 +28,4 @@ Prompts the user to enter notes for the active assignment, resource, or task. If
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -46,4 +46,3 @@ Me.ctl.ForeShade=25
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

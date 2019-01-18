@@ -36,4 +36,3 @@ If an item has  **[Conflicts.Count](Outlook.Conflicts.Count.md)** of its **[Note
 
 [NoteItem Object](Outlook.NoteItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

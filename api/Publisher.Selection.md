@@ -88,4 +88,3 @@ End Sub
 |[TextRange](Publisher.Selection.TextRange.md)|
 |[Type](Publisher.Selection.Type.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

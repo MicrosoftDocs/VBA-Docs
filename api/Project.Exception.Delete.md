@@ -25,5 +25,3 @@ Deletes the  **Exception** object from an **Exceptions** collection.
 
 
 [Exception Object](Project.Exception.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

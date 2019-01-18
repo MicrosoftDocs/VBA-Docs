@@ -61,4 +61,4 @@ Private Sub appWord_DocumentBeforeClose _
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

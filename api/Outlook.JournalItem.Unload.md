@@ -34,4 +34,3 @@ This event occurs after the  **Close** event for the Outlook item occurs, but be
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

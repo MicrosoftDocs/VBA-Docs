@@ -27,4 +27,3 @@ Specifies whether a bin for values above the [BinsOverflowValue](./Excel.chartgr
 
 [ChartGroup Object](Word.ChartGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,4 +45,3 @@ To flush the cache and then reload the values from the address book, call  **Upd
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,4 +38,3 @@ For example, in a state adopting daylight time in the Pacific time zone, the  **
 
 [TimeZone Object](Outlook.TimeZone.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

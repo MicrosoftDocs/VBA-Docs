@@ -20,4 +20,3 @@ Contains constants that specify the layout mode.
 |**pjLayoutAutomatic**|1|Layout is done automatically.|
 |**pjLayoutManual**|2|Layout is done manually.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

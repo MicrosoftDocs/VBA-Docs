@@ -31,4 +31,4 @@ If a task has two successor tasks with the  **UniqueID** values of 10 and 12, fo
 
  **Note**   **UniqueID** values remain constant within a project and do not necessarily match the task **ID** values that can change with the position of the task in the outline or as tasks are deleted and added.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

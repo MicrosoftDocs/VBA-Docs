@@ -95,4 +95,3 @@ End Sub
 
 [ViewField Object](Outlook.ViewField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -70,4 +70,3 @@ End With
 
 [FreeformBuilder Object](Word.FreeformBuilder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

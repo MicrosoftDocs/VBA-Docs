@@ -19,5 +19,5 @@ localization_priority: Normal
 -  [Image Properties (Outlook Forms Script)](Outlook.image(properties).md)
     
 -  [Image Events (Outlook Forms Script)](Outlook.image(events).md)
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

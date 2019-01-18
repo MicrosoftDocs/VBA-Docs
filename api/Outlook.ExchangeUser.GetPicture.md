@@ -43,4 +43,3 @@ You can only call  **GetPicture** from code that runs in-process as Outlook. An 
 
 [ExchangeUser Object](Outlook.ExchangeUser.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

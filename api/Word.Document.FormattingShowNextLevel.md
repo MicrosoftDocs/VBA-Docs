@@ -34,4 +34,3 @@ This property corresponds to the  **Show next heading when previous level is use
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

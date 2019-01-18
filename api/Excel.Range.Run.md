@@ -49,4 +49,3 @@ The  **Run** method returns whatever the called macro returns. Objects passed as
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

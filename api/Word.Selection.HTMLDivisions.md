@@ -29,4 +29,3 @@ Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** object that represents an
 
 [Selection Object](Word.Selection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

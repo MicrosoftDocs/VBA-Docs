@@ -41,4 +41,4 @@ MsgBox "The current color scheme is " _
  & ActiveDocument.ColorScheme.Name & "."
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

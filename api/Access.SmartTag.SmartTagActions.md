@@ -34,4 +34,3 @@ Smart tag actions are processes that are programmed into smart tags that allow u
 
 [SmartTag Object](Access.SmartTag.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

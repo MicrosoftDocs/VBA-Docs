@@ -29,4 +29,3 @@ Returns the name of the object. Read-only  **String**.
 
 [HiLoLines Object](Word.HiLoLines.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

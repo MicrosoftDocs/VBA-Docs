@@ -37,4 +37,4 @@ In previous versions of Word, the  **ToggleShowAllReviewers** method was on the 
 
 [RevisionsFilter Object](Word.revisionsfilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

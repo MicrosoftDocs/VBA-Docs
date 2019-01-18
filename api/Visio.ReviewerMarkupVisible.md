@@ -48,4 +48,4 @@ The following code shows how display the markup of the first reviewer in the col
 vsoViewer.ReviewerMarkupVisible(1)  = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

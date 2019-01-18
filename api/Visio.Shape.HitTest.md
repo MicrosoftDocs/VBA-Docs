@@ -57,4 +57,4 @@ The following are possible values returned by the  **HitTest** method, and are d
 
 Data graphic callout shapes (and their sub-shapes) that are applied to the parent shape are excluded from hit-test calculations. If the parent shape is itself a data graphic callout shape, its geometry (and that of its sub-shapes) is  _not_ excluded from hit-test calculations.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

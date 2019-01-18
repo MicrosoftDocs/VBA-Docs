@@ -20,4 +20,3 @@ Specifies the file validation mode.
 |**msoFileValidationDefault**|0|Validate the file (default).|
 |**msoFileValidationSkip**|1|Do not validate the file.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

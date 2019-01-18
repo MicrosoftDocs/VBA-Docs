@@ -49,4 +49,3 @@ Use the Save method to upload changes to the server after changing the propertie
 
 [SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

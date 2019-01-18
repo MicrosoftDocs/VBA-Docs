@@ -81,4 +81,3 @@ End Sub
 |[Item](Publisher.RulerGuides.Item.md)|
 |[Parent](Publisher.RulerGuides.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

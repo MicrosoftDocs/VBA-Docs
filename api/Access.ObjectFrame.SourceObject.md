@@ -36,4 +36,3 @@ For linked unbound object frames, the  **SourceObject** property can't be set in
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

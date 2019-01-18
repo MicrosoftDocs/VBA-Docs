@@ -37,4 +37,3 @@ If  **TRUE** is returned then the connection is refreshed. If **FALSE** is retur
 
 [WorkbookConnection Object](Excel.WorkbookConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

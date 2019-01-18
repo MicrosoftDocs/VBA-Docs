@@ -29,4 +29,3 @@ Returns a  **[Range](Word.Range.md)** object that represents the portion of a do
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

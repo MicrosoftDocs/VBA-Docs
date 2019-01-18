@@ -39,4 +39,3 @@ The default setting of this property is  **xlDataSourceOrder** (1).
 
 [SlicerCacheLevel Object](Excel.SlicerCacheLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,3 @@ Returns the number of objects in the collection. Read-only  **Long**.
 
 [SeriesCollection Object](PowerPoint.SeriesCollection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

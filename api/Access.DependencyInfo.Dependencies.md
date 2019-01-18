@@ -34,4 +34,3 @@ To return the collection of objects that depend upon the specified  **AccessObje
 
 [DependencyInfo Object](Access.DependencyInfo.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

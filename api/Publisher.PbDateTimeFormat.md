@@ -43,4 +43,3 @@ A format for the date and time.
 | **pbTimeSec24**|16|Time in 24-hour format|
 | **pbTimeSecPM**|14|Time including seconds in A.M./P.M. format|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

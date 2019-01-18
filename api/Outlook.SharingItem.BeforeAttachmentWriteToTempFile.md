@@ -35,4 +35,3 @@ _expression_. `BeforeAttachmentWriteToTempFile`( `_Attachment_` , `_Cancel_` )
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

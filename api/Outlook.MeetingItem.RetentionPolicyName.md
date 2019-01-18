@@ -34,4 +34,3 @@ Retention is enabled and disabled by an administrator for an Exchange Server on 
 
 [MeetingItem Object](Outlook.MeetingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,3 @@ This method doesn't load the new add-in. You must set the  **Loaded** property t
 
 [AddIns Object](PowerPoint.AddIns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

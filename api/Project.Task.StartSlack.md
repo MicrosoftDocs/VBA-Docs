@@ -25,4 +25,4 @@ Gets the starting slack time of a task in minutes. Read-only  **Variant**.
 
 Start slack is the difference between the early start and late start dates, where early start is the earliest date that a task can possibly start and late start is the latest date that a task can start without delaying the project finish date.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

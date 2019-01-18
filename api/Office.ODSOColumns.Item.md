@@ -56,4 +56,3 @@ oOdsoColumn = oOdsoColumns.Item(2)
 
 [ODSOColumns Object Members](./overview/Library-Reference/odsocolumns-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

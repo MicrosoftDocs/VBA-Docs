@@ -31,4 +31,3 @@ This property can have a value from 2 through 72.
 
 [Point Object](PowerPoint.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

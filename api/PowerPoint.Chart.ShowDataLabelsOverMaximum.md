@@ -34,4 +34,3 @@ If you change the value axis in such a way that it becomes smaller than the size
 
 [Chart Object](PowerPoint.Chart.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

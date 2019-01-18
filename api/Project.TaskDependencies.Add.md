@@ -40,5 +40,3 @@ Adds a  **TaskDependency** object to a **TaskDependencies** collection.
 
 
 [TaskDependencies Collection Object](Project.taskdependencies.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

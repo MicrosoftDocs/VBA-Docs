@@ -23,4 +23,3 @@ Indicates how to sort styles in the  **Styles** task pane.
 | **wdStyleSortByType**|4|Sorts styles based on whether the style is a paragraph style or character style.|
 | **wdStyleSortRecommended**|1|Sorts styles based on whether they are recommended for use.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

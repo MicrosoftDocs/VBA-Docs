@@ -75,4 +75,3 @@ End Sub
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

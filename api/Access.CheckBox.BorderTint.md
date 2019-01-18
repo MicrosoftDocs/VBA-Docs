@@ -46,4 +46,3 @@ Me.ctl.BorderTint=25
 
 [CheckBox Object](Access.CheckBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

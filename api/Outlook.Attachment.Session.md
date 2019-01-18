@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Attachment Object](Outlook.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

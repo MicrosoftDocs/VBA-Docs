@@ -28,4 +28,3 @@ Contains constants that specify the shape of a box.
 |**pjBoxWideRectangle**|1|Wide rectangle.|
 |**pjBoxWideRoundedRectangle**|3|Wide rounded rectangle.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

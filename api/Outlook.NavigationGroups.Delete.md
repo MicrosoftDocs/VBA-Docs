@@ -49,4 +49,3 @@ The  **Delete** method raises an error if:
 
 [NavigationGroups Object](Outlook.NavigationGroups.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

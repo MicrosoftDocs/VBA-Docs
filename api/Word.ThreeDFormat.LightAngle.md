@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents angle of the lighting. Read/write.
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

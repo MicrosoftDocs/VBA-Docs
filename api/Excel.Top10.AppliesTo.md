@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

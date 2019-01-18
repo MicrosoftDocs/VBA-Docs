@@ -160,5 +160,3 @@ You can also use check boxes in an option group to display values to choose from
 
 [Access Object Model Reference](overview/Access/object-model.md)<br/>
 [CheckBox Object Members](overview/Access.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

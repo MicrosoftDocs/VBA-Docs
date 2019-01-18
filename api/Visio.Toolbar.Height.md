@@ -36,4 +36,4 @@ Integer
 
 If the object is docked or protected from resizing, the application returns an error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

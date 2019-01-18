@@ -33,4 +33,4 @@ Displays the  **Group Definition** dialog box.
 
 The  **GroupNew** method corresponds to the following command on the Ribbon: On the **View** tab, click the **Group by** drop-down list in the **Data** group, and then click **New Group By**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

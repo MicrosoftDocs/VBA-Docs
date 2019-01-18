@@ -65,4 +65,4 @@ If the built-in Timeline pane is active and a custom timeline named "My Timeline
 application.TaskOnTimeline TaskID:=3, TimelineViewName:="My Timeline"
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

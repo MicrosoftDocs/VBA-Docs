@@ -31,4 +31,4 @@ The 0 setting transfers the focus to the first control of the next  **MultiPage*
 
 The 2 setting transfers the focus to the first control of the same form or the  **MultiPage** when the user tabs from the last control in the tab order.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

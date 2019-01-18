@@ -36,4 +36,3 @@ You can use the  **Visible** property to hide a control on a form or report by i
 
 [TabControl Object](Access.TabControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,4 +64,3 @@ shapeToCrop.PictureFormat.CropLeft = cropPoints
 
 [Graphic Object](Excel.Graphic.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ Application.ActiveDocument.Stories(1).TextRange.Font.Kerning = 6
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

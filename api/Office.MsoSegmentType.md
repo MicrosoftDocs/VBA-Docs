@@ -20,4 +20,3 @@ Specifies the type for a segment. Used with the  **Insert** and **AddNodes** met
 |**msoSegmentCurve**|1|Curve.|
 |**msoSegmentLine**|0|Line.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

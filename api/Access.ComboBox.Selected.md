@@ -60,4 +60,3 @@ Me!Combobox.Selected(4) = True
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

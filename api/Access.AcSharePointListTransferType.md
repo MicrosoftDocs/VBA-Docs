@@ -23,4 +23,3 @@ Used with the [DoCmd.TransferSharePointList method (Access)](Access.DoCmd.Transf
 |**acImportSharePointList**|0|Import the SharePoint list.|
 |**acLinkSharePointList**|1|Link to the SharePoint list.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

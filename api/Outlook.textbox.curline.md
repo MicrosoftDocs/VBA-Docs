@@ -28,4 +28,4 @@ The current line of a control is the line that contains the insertion point. The
 
 The  **CurLine** property is valid when the control has focus.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

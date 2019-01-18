@@ -29,4 +29,3 @@ _expression_ A variable that represents a [UpBars](./Excel.UpBars-graph-property
 
 [UpBars Object](Excel.UpBars(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

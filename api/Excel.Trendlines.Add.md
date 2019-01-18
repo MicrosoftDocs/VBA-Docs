@@ -60,4 +60,3 @@ ActiveWorkbook.Charts("Chart1").SeriesCollection(1).Trendlines.Add
 
 [Trendlines Object](Excel.Trendlines(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

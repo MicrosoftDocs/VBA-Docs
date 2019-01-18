@@ -70,4 +70,3 @@ The following example displays a list of all tasks in the current shared workspa
 
 [SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

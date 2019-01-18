@@ -27,4 +27,3 @@ Specifies the types of condition values that can be used.
 | **xlConditionValuePercent**|3|Percentage is used.|
 | **xlConditionValuePercentile**|5|Percentile is used.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

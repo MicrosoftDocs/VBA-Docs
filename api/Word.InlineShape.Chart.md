@@ -29,4 +29,3 @@ Returns a  **Chart** object that represents a chart within the collection of inl
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

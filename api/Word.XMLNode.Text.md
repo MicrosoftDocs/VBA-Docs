@@ -34,4 +34,3 @@ The  **Text** property returns the plain, unformatted text that is contained wit
 
 [XMLNode Object](Word.XMLNode.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns the distance, in points, from the left edge of the object to the left ed
 
 [Legend Object](Word.Legend.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

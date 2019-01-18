@@ -33,4 +33,3 @@ Contains constants that specify warnings for tasks or assignments.
 |**pjTaskWarningTaskFinishingInNonWorkingTime**|8192|The finish date of the task is in non-working time.|
 |**pjTaskWarningTaskStartingInNonWorkingTime**|4096|The start date of the task is in non-working time.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

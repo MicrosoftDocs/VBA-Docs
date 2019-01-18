@@ -64,4 +64,3 @@ In combo boxes for which the  **LimitToList** property is set to Yes, the **NotI
 
 [WebBrowserControl Object](Access.WebBrowserControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,5 +33,3 @@ Gets a single  **Task** object from the **ChildDrivers** collection. Read-only *
 
 
 [ChildDrivers Collection Object](Project.childdrivers.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

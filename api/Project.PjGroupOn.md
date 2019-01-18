@@ -45,4 +45,3 @@ Contains constants that specify the type of grouping.
 |**pjGroupOnTextEachValue**|50|Group on each text value.|
 |**pjGroupOnTextPrefix**|51|Group on the text prefix.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

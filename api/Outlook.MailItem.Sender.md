@@ -97,4 +97,3 @@ End Sub
 
 [How to: Create a Sendable Item for a Specific Account Based on the Current Folder](../outlook/Concepts/Accounts/create-a-sendable-item-for-a-specific-account-based-on-the-current-folder-outloo.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

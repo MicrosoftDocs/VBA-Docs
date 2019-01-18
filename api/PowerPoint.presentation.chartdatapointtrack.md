@@ -26,4 +26,4 @@ Returns or sets a  **Boolean** that specifies whether charts use cell-reference 
 
  **BOOL**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

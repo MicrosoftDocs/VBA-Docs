@@ -25,4 +25,4 @@ Gets a  **[ResourceGroups](Project.resourcegroups(object).md)** collection that 
 
 To get the resource groups that are based on  **Group2** objects, see the **[ResourceGroups2](Project.Project.ResourceGroups2.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

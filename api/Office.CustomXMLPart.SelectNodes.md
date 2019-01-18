@@ -60,4 +60,3 @@ Set cxp1 = ActiveDocument.CustomXMLParts("urn:invoice:namespace")
 
 - [CustomXMLPart object members](overview/library-reference/customxmlpart-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

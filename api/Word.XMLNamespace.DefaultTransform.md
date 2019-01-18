@@ -41,4 +41,3 @@ Set objXSLT = Application.XMLNamespaces(1).DefaultTransform
 
 [XMLNamespace Object](Word.XMLNamespace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

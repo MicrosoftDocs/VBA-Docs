@@ -35,4 +35,3 @@ Long
 
 [WorkflowTemplates Object Members](./overview/Library-Reference/workflowtemplates-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

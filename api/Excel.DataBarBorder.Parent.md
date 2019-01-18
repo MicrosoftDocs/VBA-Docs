@@ -29,4 +29,3 @@ _expression_ A variable that represents a [DataBarBorder](Excel.DataBarBorder.md
 
 [DataBarBorder Object](Excel.DataBarBorder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

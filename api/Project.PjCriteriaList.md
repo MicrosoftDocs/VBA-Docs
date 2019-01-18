@@ -21,4 +21,3 @@ Contains constants that specify the type of task where a custom field indicator 
 |**pjCriteriaProjectSummary**|2|The task is the project summary task (task ID 0).|
 |**pjCriteriaSummary**|1|Tasks are summary tasks.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

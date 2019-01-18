@@ -39,4 +39,3 @@ Worksheets("Sheet1").PageSetup.PrintGridlines = True
 
 [PageSetup Object](Excel.PageSetup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

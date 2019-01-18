@@ -26,4 +26,3 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 [Research Object](Word.Research.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

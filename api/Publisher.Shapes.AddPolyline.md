@@ -66,4 +66,4 @@ Set shpPolyline = ActiveDocument.Pages(1).Shapes.AddPolyline _
  (SafeArrayOfPoints:=arrPoints)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

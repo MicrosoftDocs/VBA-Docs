@@ -21,4 +21,3 @@ Specifies the layout of a letter created by the Letter Wizard.
 | **wdModifiedBlock**|1|Modified block.|
 | **wdSemiBlock**|2|Semi-block.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

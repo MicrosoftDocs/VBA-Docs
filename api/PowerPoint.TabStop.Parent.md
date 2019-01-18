@@ -52,4 +52,3 @@ End With
 
 [TabStop Object](PowerPoint.TabStop.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

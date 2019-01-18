@@ -23,4 +23,3 @@ Specifies the alignment to apply to page numbers.
 | **wdAlignPageNumberOutside**|4|Right-aligned just outside the footer.|
 | **wdAlignPageNumberRight**|2|Right-aligned.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

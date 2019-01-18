@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Names](Excel.Names.md) object.
 
 [Names Object](Excel.Names.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

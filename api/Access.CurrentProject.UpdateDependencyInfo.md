@@ -41,4 +41,3 @@ This method will return a run-time error if any of the following conditions are 
 
 [CurrentProject Object](Access.CurrentProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

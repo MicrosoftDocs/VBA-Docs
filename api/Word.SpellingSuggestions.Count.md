@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of spelling suggestions in the co
 
 [SpellingSuggestions Collection Object](Word.spellingsuggestions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

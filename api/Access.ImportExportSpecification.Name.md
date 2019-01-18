@@ -34,4 +34,3 @@ The  **Name** property must be unique within the **[ImportExportSpecifications](
 
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

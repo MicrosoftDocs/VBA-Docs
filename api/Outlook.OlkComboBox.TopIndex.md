@@ -36,4 +36,3 @@ The index value is zero-based. The default value is -1, indicating that no speci
 
 [OlkComboBox Object](Outlook.OlkComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

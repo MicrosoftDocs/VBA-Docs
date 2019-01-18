@@ -34,4 +34,3 @@ This property is similar to the  **[AutoDiscoverConnectionMode](Outlook.NameSpac
 
 [Account Object](Outlook.Account.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

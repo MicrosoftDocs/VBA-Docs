@@ -34,4 +34,3 @@ This arrow is rendered on the right on the button in languages written left-to-r
 
 [OlkCommandButton Object](Outlook.OlkCommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

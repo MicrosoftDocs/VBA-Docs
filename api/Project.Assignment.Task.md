@@ -20,4 +20,4 @@ Gets the  **[Task](Project.Task.md)** object associated with the **[Assignment](
 
  _expression_ An expression that returns an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

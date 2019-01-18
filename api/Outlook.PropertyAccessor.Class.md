@@ -29,4 +29,3 @@ _expression_ A variable that represents a [PropertyAccessor](./Outlook.PropertyA
 
 [PropertyAccessor Object](Outlook.PropertyAccessor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

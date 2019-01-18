@@ -39,4 +39,3 @@ The  **CalculateRowMajorOrder** method calculates the specified range cell-by-ce
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

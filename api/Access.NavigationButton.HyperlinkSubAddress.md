@@ -62,4 +62,3 @@ The following table contains examples of  **HyperlinkAddress** and **HyperlinkSu
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

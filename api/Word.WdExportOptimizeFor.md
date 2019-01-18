@@ -20,4 +20,3 @@ Specifies the resolution and quality of the exported document.
 | **wdExportOptimizeForOnScreen**|1|Export for screen, which is a lower quality and results in a smaller file size.|
 | **wdExportOptimizeForPrint**|0|Export for print, which is higher quailty and results in a larger file size.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

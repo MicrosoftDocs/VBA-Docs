@@ -88,5 +88,3 @@ ActiveProject.Resources("Tom").Availabilities.Add "4/1/2012", "4/30/2012", 50
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,5 +39,3 @@ Print ActiveProject.Reports("Simple scalar chart").Shapes(1).Chart.Creator
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

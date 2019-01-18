@@ -28,4 +28,4 @@ Gets or sets the GUID of the enterprise resource responsible for accepting or re
 
 The  **StatusManagerName** property is available only in Project Professional. **StatusManagerName** is an empty string for tasks in local projects.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

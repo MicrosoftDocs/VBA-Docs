@@ -33,4 +33,3 @@ Occurs after an event handler has returned  **True** (cancel) to a **QueryCancel
 
 [Application Object](Visio.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

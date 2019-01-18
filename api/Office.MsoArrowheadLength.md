@@ -22,4 +22,3 @@ Specifies the length of the arrowhead at the end of a line.
 |**msoArrowheadLong**|3|Long.|
 |**msoArrowheadShort**|1|Short.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

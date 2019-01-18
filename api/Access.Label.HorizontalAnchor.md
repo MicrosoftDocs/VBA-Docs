@@ -34,4 +34,3 @@ The default value is  **acHorizontalAnchorLeft**.
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

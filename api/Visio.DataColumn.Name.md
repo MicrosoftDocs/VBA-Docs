@@ -38,4 +38,4 @@ The  **Name** property is the default property of the **DataColumn** object. The
 
 For a given column, the value of the  **Name** property is not necessarily the same as that of the **[DisplayName](Visio.DataColumn.DisplayName.md)** property, which specifies the name of the column in the **External Data** window in the Visio user interface, and which is read/write.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

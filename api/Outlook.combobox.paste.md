@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **ComboBox** object.
 
 Data pasted into a  **[ComboBox](Outlook.combobox.md)** is treated as text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

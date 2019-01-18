@@ -21,4 +21,3 @@ Specifies the number form setting for an OpenType font.
 | **wdNumberFormLining**|1|Applies the lining number form to the font.|
 | **wdNumberFormOldstyle**|2|Applies the "old-style" number form to the font.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

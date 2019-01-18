@@ -36,4 +36,3 @@ If a worksheet or macro sheet has an Auto_Activate or Auto_Deactivate macro defi
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

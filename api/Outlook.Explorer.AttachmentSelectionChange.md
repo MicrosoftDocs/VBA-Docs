@@ -34,4 +34,3 @@ The  **AttachmentSelectionChange** event fires when a different or additional at
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

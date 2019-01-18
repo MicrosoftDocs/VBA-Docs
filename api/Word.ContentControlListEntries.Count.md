@@ -29,4 +29,3 @@ Returns the number of items in the  **ContentControlListEntries** collection. Re
 
 [ContentControlListEntries Collection](Word.ContentControlListEntries.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

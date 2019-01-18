@@ -28,4 +28,4 @@ Returns a  **[Selection](Visio.Selection.md)** object that represents the set of
 
  **Selection**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

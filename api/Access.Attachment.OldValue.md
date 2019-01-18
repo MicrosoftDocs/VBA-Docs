@@ -42,4 +42,3 @@ The  **OldValue** property setting has the same data type as the field to which 
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

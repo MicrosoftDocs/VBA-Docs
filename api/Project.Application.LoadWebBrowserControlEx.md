@@ -43,4 +43,4 @@ Displays HTML pages within Project when the  **Project Guide** is shown or hidde
 
 When the  **Project Guide** is hidden, the method loads the Web Browser Control within Project and issues the **LoadWebPage** event. When the **Project Guide** is shown, the method only issues the **LoadWebPage** event.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

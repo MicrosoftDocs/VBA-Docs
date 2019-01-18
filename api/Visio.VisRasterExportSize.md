@@ -26,4 +26,3 @@ Specifies constants that define which raster export size to use; passed to the S
 | **visRasterFitToSourceSize**|2|Use source size.|
 | **visRasterFitToCustomSize**|3|Use custom size.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

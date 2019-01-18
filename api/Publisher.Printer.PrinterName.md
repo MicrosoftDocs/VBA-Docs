@@ -33,4 +33,4 @@ String
 
 You can also use the  **[InstalledPrinters](Publisher.InstalledPrinters.md)** property to get a list of the names of the printers installed on the computer.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

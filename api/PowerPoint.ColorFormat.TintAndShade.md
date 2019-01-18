@@ -39,4 +39,3 @@ You can enter a value from -1 (darkest) to 1 (lightest) for the  **TintAndShade*
 
 [ColorFormat Object](PowerPoint.ColorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

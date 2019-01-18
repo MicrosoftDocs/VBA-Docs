@@ -64,4 +64,3 @@ Given a value for probability, F_INV_RT seeks that value x such that F_DIST_RT(x
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

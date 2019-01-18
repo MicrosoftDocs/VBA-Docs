@@ -27,4 +27,3 @@ Selection types to be passed to the  **CreateSelection** method of the **Master*
 | **visSelTypeEmpty**|0|A selection that initially contains no shapes. |
 | **visSelTypeSingle**|2|A selection that initially contains one shape. |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

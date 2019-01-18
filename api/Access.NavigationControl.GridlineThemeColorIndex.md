@@ -55,4 +55,3 @@ This property is not surfaced in the property sheet.
 
 [NavigationControl Object](Access.NavigationControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

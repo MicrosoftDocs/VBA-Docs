@@ -25,4 +25,4 @@ Gets a  **[LookupTable](Project.lookuptable.md)** collection of lookup table ent
 
 The  **LookupTable** property returns nothing if the code shares a lookup table from another outline code.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

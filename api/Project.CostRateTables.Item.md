@@ -33,5 +33,3 @@ Gets a single  **CostRateTable** object from the **CostRateTables** collection. 
 
 
 [CostRateTables Collection Object](Project.costratetables.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

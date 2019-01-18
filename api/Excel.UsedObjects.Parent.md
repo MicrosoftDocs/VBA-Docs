@@ -29,4 +29,3 @@ _expression_ A variable that represents a [UsedObjects](./Excel.UsedObjects.md) 
 
 [UsedObjects Object](Excel.UsedObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

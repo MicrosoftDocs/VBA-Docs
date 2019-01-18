@@ -28,4 +28,4 @@ Displays notes for the task or resource in the active details view.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

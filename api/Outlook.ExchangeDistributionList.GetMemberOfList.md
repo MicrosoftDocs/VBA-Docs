@@ -39,4 +39,3 @@ An  **AddressEntries** collection object that represents the distribution lists 
 
 [ExchangeDistributionList Object](Outlook.ExchangeDistributionList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ ActiveDocument.Paragraphs(1).HangingPunctuation = True
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

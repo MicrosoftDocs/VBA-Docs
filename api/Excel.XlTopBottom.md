@@ -20,4 +20,3 @@ Specifies the top 10 values from the top or bottom of a series of values.
 | **xlTop10Bottom**|0|Top 10 bottom values|
 | **xlTop10Top**|1|Top 10 values|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

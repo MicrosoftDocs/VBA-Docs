@@ -25,4 +25,4 @@ Gets the index of a  **Task** object in the **Tasks** containing object. Read-on
 
 The  **Index** properties of different objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

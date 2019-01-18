@@ -51,4 +51,4 @@ The  _Flags_ parameter must be one of the following **VisLangFlags** constants.
 
 Calling the  **IncludePage** method corresponds to selecting a page in the **Pages** list in the **Publish Settings** dialog box (click the **File** tab, click **Save & Send**, click  **Save to SharePoint**, click  **Web Drawing (*.vdw)**, click  **Save As**, and then click  **Options**).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

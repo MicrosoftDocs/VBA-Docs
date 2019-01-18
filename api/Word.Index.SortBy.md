@@ -40,4 +40,3 @@ ActiveDocument.Indexes(1).SortBy = _
 
 [Index Object](Word.Index.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

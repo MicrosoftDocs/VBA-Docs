@@ -29,4 +29,3 @@ Returns the type of text form field. Read-only  **[WdTextFormFieldType](Word.WdT
 
 [TextInput Object](Word.TextInput.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

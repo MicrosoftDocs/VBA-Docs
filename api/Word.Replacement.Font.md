@@ -34,4 +34,3 @@ To set this property, specify an expression that returns a  **[Font](Word.Font.m
 
 [Replacement Object](Word.Replacement.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

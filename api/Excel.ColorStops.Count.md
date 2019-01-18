@@ -44,4 +44,3 @@ ActiveCell.Interior.Gradient.ColorStops.Count
 
 [ColorStops Object](Excel.ColorStops.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

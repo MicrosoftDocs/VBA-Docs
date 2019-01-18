@@ -36,4 +36,3 @@ For more information about hyperlink addresses and their format, see the  **Hype
 
 [Hyperlink Object](Access.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

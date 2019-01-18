@@ -43,4 +43,3 @@ An  **[XmlMap](Excel.XmlMap.md)** object that represents the new XML map.
 
 [XmlMaps Object](Excel.XmlMaps.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

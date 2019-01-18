@@ -127,4 +127,3 @@ SELECT Links.URL, HyperlinkPart([URL],0)
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

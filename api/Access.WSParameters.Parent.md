@@ -29,4 +29,3 @@ _expression_ A variable that represents a [WSParameters](Access.WSParameters.md)
 
 [WSParameters Collection](Access.WSParameters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

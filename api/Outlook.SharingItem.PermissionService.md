@@ -36,4 +36,3 @@ While you can view content that is protected by IRM on any computer running the 
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

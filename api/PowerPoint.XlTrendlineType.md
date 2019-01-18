@@ -24,4 +24,3 @@ Specifies how the trendline that smoothes out fluctuations in the data is calcul
 |**xlPolynomial**|3|Uses an equation to calculate the least squares fit through points (for example, y = ax^6 + bx^5 + cx^4 + dx^3 + ex^2 + fx + g).|
 |**xlPower**|4|Uses an equation to calculate the least squares fit through points (for example, y = ax^b).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

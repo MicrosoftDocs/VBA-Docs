@@ -47,4 +47,4 @@ To add a shape to a group or on a drawing page, apply the  **Drop** method to a 
 
 If  _ObjectToDrop_ is a **Master** , the pin of the master is dropped at the specified coordinates. A master's pin is often, but not necessarily, at its center of rotation.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

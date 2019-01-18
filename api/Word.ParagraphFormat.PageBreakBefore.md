@@ -39,4 +39,3 @@ Selection.Paragraphs(1).PageBreakBefore = True
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

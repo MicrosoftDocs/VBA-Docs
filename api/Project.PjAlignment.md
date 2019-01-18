@@ -21,4 +21,3 @@ Contains constants that specify how data is aligned in a container, for example 
 |**pjLeft**|0|Align data at the left.|
 |**pjRight**|2|Align data at the right.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

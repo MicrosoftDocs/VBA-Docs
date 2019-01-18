@@ -34,4 +34,3 @@ The default value is  **acVerticalAnchorTop**.
 
 [BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

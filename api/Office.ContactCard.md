@@ -26,5 +26,3 @@ You can create a new instance of a **ContactCard** object by calling the Microso
 
 - [ContactCard object members](overview/library-reference/contactcard-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,4 @@ Returns the  **[PageSize](Publisher.PageSize.md)** object with the specified nam
 
 PageSize
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

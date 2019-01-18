@@ -29,4 +29,3 @@ Returns the name of the specified object. Read-only  **String**.
 
 [Template Object](Word.Template.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

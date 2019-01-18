@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of file converters in the collect
 
 [FileConverters Collection Object](Word.fileconverters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

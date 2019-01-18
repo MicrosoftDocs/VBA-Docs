@@ -138,5 +138,3 @@ End Sub
 
 [Outlook Object Model Reference](./overview/Outlook/object-model.md)
 [Store Object Members](./overview/Outlook.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

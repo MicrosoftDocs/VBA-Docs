@@ -29,4 +29,3 @@ Returns the story type for the specified range, selection, or bookmark. Read-onl
 
 [Range Object](Word.Range.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

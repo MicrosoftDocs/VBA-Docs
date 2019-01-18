@@ -22,4 +22,3 @@ Specifies the capitalization of the text.
 |**msoNoCaps**|0|Display the text with no uppercase letters.|
 |**msoSmallCaps**|1|Display the text as with all lowercasee letters.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

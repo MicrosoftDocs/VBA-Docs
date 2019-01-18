@@ -33,5 +33,3 @@ Gets a single  **View** object from the **ViewsCombination** collection. Read-on
 
 
 [ViewsCombination Collection Object](Project.viewscombination(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

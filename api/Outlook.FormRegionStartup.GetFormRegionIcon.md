@@ -55,4 +55,3 @@ In the XML manifest for the form region, under the  **icons** element, specify t
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

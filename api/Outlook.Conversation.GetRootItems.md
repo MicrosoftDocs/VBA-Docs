@@ -41,4 +41,3 @@ If all items are deleted from the conversation after the  **[Conversation](Outlo
 
 [Conversation Object](Outlook.Conversation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

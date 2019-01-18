@@ -44,4 +44,4 @@ Set vsoValidationRule = vsoValidationRuleSet.Rules.Add("Unglued2DShape")
 vsoValidationRule.Description = "This 2-dimensional shape is not connected to any other shape."
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

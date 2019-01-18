@@ -39,4 +39,3 @@ The Document Inspector is a feature that helps you to examine and remove sensiti
 
 [Presentation Object](PowerPoint.Presentation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

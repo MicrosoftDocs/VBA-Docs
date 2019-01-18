@@ -38,4 +38,3 @@ For relational data sources and OLAP attributes, this property is always  **Fals
 
 [PivotField Object](Excel.PivotField.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

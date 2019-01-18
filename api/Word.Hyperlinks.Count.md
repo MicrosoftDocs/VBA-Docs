@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of hyperlinks in the collection. 
 
 [Hyperlinks Collection Object](Word.hyperlinks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

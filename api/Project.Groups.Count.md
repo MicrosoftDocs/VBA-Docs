@@ -91,5 +91,3 @@ End Sub
 
 
 [Groups Collection Object](Project.groups.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

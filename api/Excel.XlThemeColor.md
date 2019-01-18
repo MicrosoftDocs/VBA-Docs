@@ -30,4 +30,3 @@ Specifies the theme color to be used.
 | **xlThemeColorLight1**|2|Light1|
 | **xlThemeColorLight2**|4|Light2|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

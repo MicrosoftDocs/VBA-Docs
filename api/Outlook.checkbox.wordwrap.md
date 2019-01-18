@@ -26,4 +26,4 @@ _expression_ A variable that represents a  **CheckBox** object.
 
  **True** to specify that the text wraps (default), **False** to specify that the text does not.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

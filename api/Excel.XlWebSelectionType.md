@@ -21,4 +21,3 @@ Specifies whether an entire Web page, all tables on the Web page, or only a spec
 | **xlEntirePage**|1|Entire page|
 | **xlSpecifiedTables**|3|Specified tables|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

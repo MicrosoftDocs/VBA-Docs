@@ -65,4 +65,3 @@ If the controls are on the same form, the control that's the source of the defau
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

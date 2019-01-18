@@ -24,4 +24,3 @@ Contains constants that specify the type of object to paste or link.
 |**pjTextData**|2|Paste text data.|
 |**pjUnformattedHTMLData**|5|Paste unformatted HTML data.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

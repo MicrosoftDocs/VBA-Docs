@@ -272,4 +272,3 @@ localization_priority: Normal
 |**V_SINGLE**|**4**||
 |**V_STRING**|**8**||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

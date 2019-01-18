@@ -27,5 +27,3 @@ Gets or sets the background style. Read/write  **MsoBackgroundStyleIndex**.
 
 [ShapeRange Object](Project.shaperange.md)
 [MsoBackgroundStyleIndex Enumeration](https://msdn.microsoft.com/library/office/ff862530%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

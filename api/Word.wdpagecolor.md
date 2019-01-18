@@ -22,4 +22,3 @@ Constants that represent background page color in reading mode, returned by and 
 | **wdPageColorNone**|0|No page color, the default. The page background is rendered in white. Any assigned page background colors are ignored.|
 | **wdPageColorSepia**|1|Sepia page color, RGB (112, 66, 20) at 80% transparency. Makes no changes to the contents of the document.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

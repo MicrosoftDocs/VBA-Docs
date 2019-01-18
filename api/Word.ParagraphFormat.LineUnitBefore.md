@@ -29,4 +29,3 @@ Returns or sets the amount of spacing (in gridlines) before the specified paragr
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ OMathFunction
 
 [OMathLimLow Object](Word.OMathLimLow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

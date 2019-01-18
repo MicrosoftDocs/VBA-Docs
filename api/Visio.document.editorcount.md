@@ -24,4 +24,3 @@ Returns a  **Long** that represents the number of editors of a co authored docum
 
 [Document Object](Visio.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ The  **SlicerCacheLevels** property applies only to slicers that filter OLAP dat
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

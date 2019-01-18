@@ -36,4 +36,3 @@ If a string specified by  **Address** is contained in the recipient or sender ad
 
 [AddressRuleCondition Object](Outlook.AddressRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,4 @@ Sets up margins for printing.
 
 Using the  **FilePageSetupMargins** method without specifying any arguments displays the **Page Setup** dialog box with the **Margins** tab selected.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents an [Image](Access.Image.md) object.
 
 [Image Object](Access.Image.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

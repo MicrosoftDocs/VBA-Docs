@@ -29,4 +29,3 @@ Returns or sets a **[WdStyleSort](Word.WdStyleSort.md)** constant that represent
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

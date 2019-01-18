@@ -32,4 +32,4 @@ Use the Word **Document.CustomDocumentProperties**(_index_) property, where _ind
 - [DocumentProperty object members](overview/library-reference/documentproperty-members-office.md)
 - [Object Model Reference](overview/library-reference/reference-object-library-reference-for-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

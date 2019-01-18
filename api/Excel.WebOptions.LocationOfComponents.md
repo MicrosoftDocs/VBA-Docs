@@ -34,4 +34,3 @@ Office Web components are automatically downloaded with the specified Web page i
 
 [WebOptions Object](Excel.WebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,3 @@ Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True
 
 [QueryTable Object](Excel.QueryTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

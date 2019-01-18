@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Coauthoring](./PowerPoint.Coauthoring
 
 [Coauthoring Object](PowerPoint.Coauthoring.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

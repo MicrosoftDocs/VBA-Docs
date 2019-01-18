@@ -68,4 +68,3 @@ strOutput = "1 line = " _
 
  [Application Object](Publisher.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

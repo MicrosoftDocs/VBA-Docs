@@ -42,4 +42,3 @@ Table
 
 [Tables Collection Object](Word.tables.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

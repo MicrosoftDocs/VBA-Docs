@@ -29,4 +29,3 @@ _expression_ A variable that represents a [DataLabels](Excel.DataLabels(object).
 
 [DataLabels Object](Excel.DataLabels(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

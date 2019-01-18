@@ -39,4 +39,3 @@ ActiveDocument.Tables(1).Rows.Last.Cells.Delete
 
 [Rows Collection Object](Word.rows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,3 @@ Specifies the format to use when the mail merge destination is an email message.
 | **wdMailFormatHTML**|1|Sends mail merge email documents using HTML format.|
 | **wdMailFormatPlainText**|0|Sends mail merge email documents using plain text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

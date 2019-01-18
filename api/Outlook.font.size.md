@@ -25,4 +25,4 @@ The font's appearance on screen and in print may differ, depending on your compu
 
 The default point size is determined by the operating system.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

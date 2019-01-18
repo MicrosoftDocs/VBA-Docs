@@ -34,4 +34,3 @@ The  **WindowHeight** property is measured from the upper-left corner of the for
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

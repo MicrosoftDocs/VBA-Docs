@@ -26,4 +26,3 @@ Returns or sets a value that indicates whether the object has a shadow. Read/wri
 
 [LegendKey Object](PowerPoint.LegendKey.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

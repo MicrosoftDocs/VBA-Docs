@@ -42,4 +42,4 @@ End If
 
 [ModelFormatBoolean Object](Excel.modelformatboolean.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

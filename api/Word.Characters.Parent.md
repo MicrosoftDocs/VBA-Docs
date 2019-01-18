@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Char
 
 [Characters Collection Object](Word.characters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

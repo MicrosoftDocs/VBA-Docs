@@ -47,4 +47,3 @@ The only reason that this method is exposed on the  **AttachmentSelection** obje
 
 [AttachmentSelection Object](Outlook.AttachmentSelection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

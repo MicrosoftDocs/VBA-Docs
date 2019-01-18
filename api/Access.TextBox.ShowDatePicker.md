@@ -43,4 +43,3 @@ The  **ShowDatePicker** property is not available for text boxes on reports.
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

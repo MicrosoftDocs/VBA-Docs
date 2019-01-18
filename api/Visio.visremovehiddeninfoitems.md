@@ -26,4 +26,3 @@ Document information constants passed to the  **Document.RemoveHiddenInformation
 | **visRHIStyles**|8|Unused styles and display formats.|
 | **visRHIValidationRules**|32|Validation rules.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

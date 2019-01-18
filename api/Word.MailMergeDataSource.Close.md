@@ -29,4 +29,3 @@ Closes the specified Mail Merge data source.
 
 [MailMergeDataSource Object](Word.MailMergeDataSource.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You can set this property to  **False** even when the style is already applied t
 
 [TableStyle Object](Excel.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

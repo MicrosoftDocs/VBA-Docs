@@ -52,4 +52,3 @@ The  _Collate_ parameter value can be one of these **MsoTriState** constants.
 
 [View Object](PowerPoint.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

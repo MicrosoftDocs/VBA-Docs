@@ -34,4 +34,3 @@ If this property returns  **True** , then the mail message can be forwarded.
 
 [MailItem Object](Outlook.MailItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

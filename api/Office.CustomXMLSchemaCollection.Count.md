@@ -33,4 +33,3 @@ Long
 
 - [CustomXMLSchemaCollection object members](overview/library-reference/customxmlschemacollection-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

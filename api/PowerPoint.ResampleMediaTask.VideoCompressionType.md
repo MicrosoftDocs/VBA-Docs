@@ -29,4 +29,3 @@ Returns the video compression format of the sample. Read-only.
 
 [ResampleMediaTask Object](PowerPoint.ResampleMediaTask.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

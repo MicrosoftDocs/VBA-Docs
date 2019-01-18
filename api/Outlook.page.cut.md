@@ -23,4 +23,4 @@ _expression_ A variable that represents a  **Page** object.
 
  **Cut** removes currently selected controls to the Clipboard. This method only removes controls created at run time.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ The transport provider assigns a permanent, unique string  **ID** property when 
 
 [AddressList Object](Outlook.AddressList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

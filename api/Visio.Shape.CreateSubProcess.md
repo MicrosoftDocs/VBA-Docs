@@ -28,4 +28,4 @@ Creates and returns a new sub-process page that is linked to the shape.
 
  **[Page](Visio.Page.md)**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -39,4 +39,3 @@ _expression_ A variable that represents a '[SpellingOptions](Excel.SpellingOptio
 
 [SpellingOptions Object](Excel.SpellingOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -69,4 +69,3 @@ The following tables lists values used in  _Arg6_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

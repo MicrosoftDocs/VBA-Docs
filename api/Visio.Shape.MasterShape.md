@@ -35,4 +35,4 @@ Each shape in an instance of a master (the group and all its subshapes) points t
 
 If the parent  **Shape** object is not part of a master instance, the **MasterShape** property returns **Nothing**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

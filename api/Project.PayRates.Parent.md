@@ -30,5 +30,3 @@ Use the  **Parent** property to access the properties or methods of the parent o
 
 
 [PayRates Collection Object](Project.payrates.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

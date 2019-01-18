@@ -29,4 +29,3 @@ Returns or sets a  **String** value that represents the axis title text.
 
 [AxisTitle Object](Word.AxisTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

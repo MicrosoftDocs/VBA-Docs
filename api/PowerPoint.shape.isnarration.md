@@ -24,4 +24,3 @@ Specifies whether the specified shape range contains a narration. Read/write.
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -56,4 +56,3 @@ On Error Goto 0       ' resume regular error handling
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

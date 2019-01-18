@@ -34,4 +34,3 @@ The  **Format** function uses different format code strings than do the **[Numbe
 
 [DataLabel Object](Word.DataLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

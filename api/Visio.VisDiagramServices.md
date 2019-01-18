@@ -30,4 +30,3 @@ Version Added: Visio 2010
 | **visServiceVersion140**|7|All diagram services that exist in Visio.|
 | **visServiceVersion150**|8|All diagram services that exist in Visio.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

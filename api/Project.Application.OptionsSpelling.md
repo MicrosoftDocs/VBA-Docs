@@ -73,4 +73,4 @@ Using the  **OptionsSpelling** method without specifying any arguments displays 
 
 You can also use the  **[SpellCheckField](Project.Application.SpellCheckField.md)** method to change the state of a spell check field.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

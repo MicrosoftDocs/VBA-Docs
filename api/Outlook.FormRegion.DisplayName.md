@@ -36,4 +36,3 @@ The value of the  **DisplayName** property is displayed at runtime in the **Show
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

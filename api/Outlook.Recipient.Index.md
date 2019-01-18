@@ -34,4 +34,3 @@ The  **Index** property is only valid during the current session and can change 
 
 [Recipient Object](Outlook.Recipient.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

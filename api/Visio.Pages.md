@@ -102,4 +102,3 @@ If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** 
 |[PersistsEvents](./Visio.Pages.PersistsEvents.md)|
 |[Stat](./Visio.Pages.Stat.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

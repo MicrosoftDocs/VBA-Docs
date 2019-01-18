@@ -37,5 +37,3 @@ The description is not displayed to the user, but it can be useful for documenti
 ## See also
 
 - [CommandBarComboBox object members](overview/library-reference/commandbarcombobox-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

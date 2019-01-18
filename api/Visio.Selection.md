@@ -130,4 +130,3 @@ By default, the items reported by a  **Selection** object do not include subsele
 |[TextStyle](./Visio.Selection.TextStyle.md)|
 |[TextStyleKeepFmt](./Visio.Selection.TextStyleKeepFmt.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

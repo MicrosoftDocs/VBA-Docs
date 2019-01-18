@@ -24,4 +24,3 @@ Constants passed to the  **Plate.Delete** method specifying how to replace the c
 | **pbReplaceTintMaintainLuminosity**|2|Maintain the same lightness value in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with an approximately 10% tint of blue.|
 | **pbReplaceTintUseDefault**|0|Default.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

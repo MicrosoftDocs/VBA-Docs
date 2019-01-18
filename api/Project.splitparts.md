@@ -115,5 +115,3 @@ ActiveCell.Task.Split "10/2/02", "10/7/02"
 
  
 [Project Object Model](../project/Concepts/project-object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ For a conditional formatting object, you can only set the properties for the top
 
 [UniqueValues Object](Excel.UniqueValues.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

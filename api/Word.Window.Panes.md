@@ -54,4 +54,3 @@ Windows("Document2").Panes(1).Activate
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

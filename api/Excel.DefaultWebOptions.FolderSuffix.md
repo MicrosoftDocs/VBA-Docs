@@ -81,4 +81,3 @@ The following table lists each language version of Office, and gives its corresp
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

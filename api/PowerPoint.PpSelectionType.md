@@ -22,4 +22,3 @@ Constants that specify the type of selection, returned by the  **Type** property
 |**ppSelectionSlides**|1|Slides|
 |**ppSelectionText**|3|Text|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) o
 
 [Font Object](Excel.Font(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

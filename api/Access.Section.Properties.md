@@ -74,4 +74,3 @@ End Sub
 
 [Section Object](Access.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

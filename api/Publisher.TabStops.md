@@ -122,4 +122,3 @@ End Sub
 |[Count](Publisher.TabStops.Count.md)|
 |[Parent](Publisher.TabStops.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

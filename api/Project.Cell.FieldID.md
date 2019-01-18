@@ -179,4 +179,3 @@ If the active cell contains a resource, can be one of the following  **PjField**
 |**pjResourceEnterpriseTeamMember**|**pjResourceWorkVariance**|
 |**pjResourceEnterpriseText1-40**||
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

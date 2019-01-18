@@ -28,4 +28,4 @@ Returns  **True** if the current instance of Microsoft Visio is 32-bit. Returns 
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

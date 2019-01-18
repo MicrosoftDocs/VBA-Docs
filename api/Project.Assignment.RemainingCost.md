@@ -20,4 +20,4 @@ Gets the remaining cost for the assignment. Read-only  **Variant**.
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

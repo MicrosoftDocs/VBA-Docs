@@ -46,4 +46,3 @@ After you call the  **StopAlwaysMoveToFolder** method, calling the **[GetAlwaysM
 
 [Conversation Object](Outlook.Conversation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

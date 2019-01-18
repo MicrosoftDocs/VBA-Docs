@@ -71,5 +71,3 @@ private void CTP_VisibleStateChange(object sender, string visiblestateArgs)
 ## See also
 
 - [CustomTaskPane object members](overview/library-reference/customtaskpane-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

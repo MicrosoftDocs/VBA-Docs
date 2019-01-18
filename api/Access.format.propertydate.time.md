@@ -97,4 +97,3 @@ Positive numbers are displayed as years with an "A.D." before the year. Negative
 - [Text and Memo](Access.format.propertytext.and.memo.md)
 - [Yes/No](Access.format.propertyyes.no.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -88,4 +88,3 @@ When you specify an item in a recurring appointment or task as an argument to th
 
 [Explorer Object](Outlook.Explorer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

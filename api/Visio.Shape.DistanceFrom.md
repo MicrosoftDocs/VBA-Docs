@@ -69,4 +69,4 @@ If the parent shape or  _OtherShape_ has no geometry, or if _Flags_ excludes con
 
 The  **DistanceFrom** property does not consider the width of a shape's line, shadows, line ends, control points, or connection points when comparing two shapes.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

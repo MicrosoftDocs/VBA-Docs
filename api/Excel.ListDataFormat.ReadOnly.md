@@ -51,4 +51,3 @@ The following example displays the setting of the  **ReadOnly** property for the
 
 [ListDataFormat Object](Excel.ListDataFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,4 +50,3 @@ MsgBox Worksheets(1).Range("A11").FormulaR1C1Local
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

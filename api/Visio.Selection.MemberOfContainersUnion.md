@@ -28,4 +28,4 @@ Returns an array of identifiers of the shapes that belong to the normal or list 
 
  **Long()**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

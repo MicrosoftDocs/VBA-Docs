@@ -34,5 +34,3 @@ The **Priority** property is not used by command bar controls that are menu item
 ## See also
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

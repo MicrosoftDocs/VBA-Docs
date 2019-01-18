@@ -27,4 +27,4 @@ If the  **DragBehavior** property is enabled, dragging in a text box starts a dr
 
 You can combine the effects of the  **[EnterFieldBehavior](Outlook.textbox.enterfieldbehavior.md)** property and **DragBehavior** to create a large number of text box styles.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

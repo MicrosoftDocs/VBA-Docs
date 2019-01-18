@@ -41,4 +41,3 @@ End If
 
 [ColorFormat Object](Excel.ColorFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

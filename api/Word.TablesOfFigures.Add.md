@@ -64,4 +64,3 @@ ActiveDocument.TablesOfFigures.Add Range:=Selection.Range
 
 [TablesOfFigures Collection Object](Word.tablesoffigures.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

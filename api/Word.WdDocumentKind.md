@@ -21,4 +21,3 @@ Specifies the format type that Microsoft Word uses when automatically formatting
 | **wdDocumentLetter**|1|Letter format.|
 | **wdDocumentNotSpecified**|0|No format specified.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

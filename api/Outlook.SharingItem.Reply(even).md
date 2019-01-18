@@ -42,4 +42,3 @@ In Microsoft Visual Basic Scripting Edition (VBScript), if you set the return va
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

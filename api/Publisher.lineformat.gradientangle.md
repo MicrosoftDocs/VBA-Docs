@@ -37,4 +37,3 @@ A gradient fill can be specified in the formatting for various elements. The val
 
  [LineFormat Object](Publisher.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

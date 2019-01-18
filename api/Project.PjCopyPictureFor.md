@@ -21,4 +21,3 @@ Contains constants that specify the intended target of the copy of a picture.
 |**pjPrinter**|1|For a printer.|
 |**pjScreen**|0|For a screen.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

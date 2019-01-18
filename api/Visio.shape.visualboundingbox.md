@@ -40,5 +40,3 @@ Returns the bounding rectangle of the given shape. Introduced in Office 2016.
 
 
 [VisBoundingBoxArgs Enumeration (Visio)](./Visio.visboundingboxargs.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

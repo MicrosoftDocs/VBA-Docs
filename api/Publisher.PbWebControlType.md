@@ -30,4 +30,3 @@ Specifies the type of Web form control to add.
 | **pbWebControlSingleLineTextBox**|105|Adds a single-line text box.|
 | **pbWebControlWebComponent**|106|Adds a single-line Web component.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

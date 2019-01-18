@@ -38,4 +38,4 @@ Replaces the specified shape?s current picture with a new picture.
 
 The  **DOUBLE** returned represents the ratio of the picture?s width to its height.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnMouseDown
 
 [ObjectFrame Object](Access.ObjectFrame.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

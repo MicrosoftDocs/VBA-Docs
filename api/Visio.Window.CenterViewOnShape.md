@@ -52,4 +52,4 @@ The  _Flags_ parameter value must be combination of one of more of the following
 
 If the specified shape is not valid, Microsoft Visio returns an Invalid Parameter error.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

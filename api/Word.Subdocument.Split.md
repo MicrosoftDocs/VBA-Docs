@@ -52,4 +52,3 @@ Selection.Range.Subdocuments(1).Split Range:=Selection.Range
 
 [Subdocument Object](Word.Subdocument.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

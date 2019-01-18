@@ -48,4 +48,4 @@ The following code displays the default Help topic.
 vsoViewer.DisplayHelp(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

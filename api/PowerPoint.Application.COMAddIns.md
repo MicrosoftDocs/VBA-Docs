@@ -34,4 +34,3 @@ For information about returning a single member of a collection, see [Returning 
 
 [Application Object](PowerPoint.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

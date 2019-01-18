@@ -30,5 +30,3 @@ If  **TotalDetectedCount** is greater than 5 then count is 0.
 
 
 [PredecessorDrivers Collection Object](Project.predecessordrivers.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

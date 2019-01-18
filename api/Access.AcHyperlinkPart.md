@@ -27,4 +27,3 @@ Specifies the information you want returned by the  **HyperlinkPart** method.
 |**acScreenTip**|4|The tooltip part of a Hyperlink field.|
 |**acSubAddress**|3|The subaddress part of a Hyperlink field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

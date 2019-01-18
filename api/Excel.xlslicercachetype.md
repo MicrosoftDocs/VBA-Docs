@@ -21,4 +21,3 @@ Designates the type of slicer or slicer cache.
 | **xlSlicer**|1|Slicer cache represents a Slicer.|
 | **xlTimeline**|2|Slicer cache represents a Timeline.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

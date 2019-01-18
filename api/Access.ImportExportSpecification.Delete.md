@@ -29,4 +29,3 @@ _expression_ A variable that represents an [ImportExportSpecification](Access.Im
 
 [ImportExportSpecification Object](Access.ImportExportSpecification.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

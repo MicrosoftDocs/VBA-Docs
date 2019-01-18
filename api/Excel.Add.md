@@ -51,4 +51,4 @@ This example creates a new linear trendline on the chart.
 myChart.SeriesCollection(1).Trendlines.Add
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

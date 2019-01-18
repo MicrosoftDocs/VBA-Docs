@@ -33,4 +33,3 @@ _expression_ A variable that represents a [WorksheetDataConnection](Excel.worksh
 
 [WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

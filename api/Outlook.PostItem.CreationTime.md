@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagCreationTime**.
 
 [PostItem Object](Outlook.PostItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

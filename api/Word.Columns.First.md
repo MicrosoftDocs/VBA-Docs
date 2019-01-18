@@ -29,4 +29,3 @@ Returns a  **[Column](Word.Column.md)** object that represents the first item in
 
 [Columns Collection Object](Word.columns.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

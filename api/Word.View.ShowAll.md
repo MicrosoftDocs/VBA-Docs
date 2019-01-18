@@ -48,4 +48,3 @@ Windows(1).View.ShowAll = Not Windows(1).View.ShowAll
 
 [View Object](Word.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

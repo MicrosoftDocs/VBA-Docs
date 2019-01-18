@@ -23,4 +23,3 @@ Specifies whether animation behaviors accumulate.
 |**msoAnimAccumulateAlways**|2|Accumulates with other animation behaviors.|
 |**msoAnimAccumulateNone**|1|Does not accumulate.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ This color should be used to display the border of a gradient-shaded color swatc
 
 [Category Object](Outlook.Category.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

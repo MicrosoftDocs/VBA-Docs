@@ -25,5 +25,3 @@ Gets the  **[Application](Project.Application.md)** object. Read-only **Applicat
 
 
 [ViewsSingle Collection Object](Project.viewssingle(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

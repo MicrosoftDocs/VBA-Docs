@@ -56,4 +56,3 @@ ActivePresentation.SlideMaster.ApplyTheme "C:\Program Files\Microsoft Office\Tem
 
 [Master Object](PowerPoint.Master.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

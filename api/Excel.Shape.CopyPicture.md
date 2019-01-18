@@ -43,4 +43,3 @@ If you copy a range, it must be made up of adjacent cells.
 
 [Shape Object](Excel.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

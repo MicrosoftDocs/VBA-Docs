@@ -36,4 +36,4 @@ Saves the file for viewing offline.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

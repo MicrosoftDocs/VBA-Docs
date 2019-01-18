@@ -52,4 +52,3 @@ Setting the REG_MULTI_SZ value,  `DisableCrossAccountCopy`, in  `HKCU\Software\M
 
 [AppointmentItem Object](Outlook.AppointmentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

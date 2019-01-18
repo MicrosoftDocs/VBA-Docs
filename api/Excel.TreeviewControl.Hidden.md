@@ -49,4 +49,3 @@ ActiveSheet.PivotTables("PivotTable1").CubeFields(1) _
 
 [TreeviewControl Object](Excel.TreeviewControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

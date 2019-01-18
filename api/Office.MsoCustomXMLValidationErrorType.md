@@ -21,4 +21,3 @@ Indicates how validation errors will be cleared or generated.
 |**msoCustomXMLValidationErrorManual**|2|Specifies that the error will not be cleared until the  **Delete** method is called.|
 |**msoCustomXMLValidationErrorSchemaGenerated**|0|Specifies that where there is a non-empty schema collection available for the custom XML part and validation is in effect, any changes to the part will cause validation errors.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ After using this method, use the  **[Selection](Word.Selection.md)** property to
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

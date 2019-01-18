@@ -58,4 +58,3 @@ ActivePresentation.Slides(2).Shapes(5).Table.Rows(2).Height = 100
 
 [Shape Object](PowerPoint.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

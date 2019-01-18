@@ -41,4 +41,3 @@ Variant
 
 [SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

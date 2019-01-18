@@ -68,4 +68,3 @@ intGetVal = Reports![Sales By Year].Section(acDetail).ForceNewPage
 
 [Section Object](Access.Section.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

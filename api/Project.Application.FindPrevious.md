@@ -33,4 +33,4 @@ Repeats the last search and returns  **True** if the search value is found.
 
 The  **FindPrevious** method is functionally identical to the [FindNext method](Project.Application.FindNext.md). It is retained for compatibility with previous versions of Project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ Use the  **[Refreshing](Excel.ODBCConnection.Refreshing.md)** property to determ
 
 [ODBCConnection Object](Excel.ODBCConnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

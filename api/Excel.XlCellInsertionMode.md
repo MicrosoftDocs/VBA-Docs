@@ -21,4 +21,3 @@ Specifies the way that rows on the specified worksheet are added or deleted to a
 | **xlInsertEntireRows**|2|Entire rows are inserted, if necessary, to accommodate any overflow. No cells or rows are deleted from the worksheet.|
 | **xlOverwriteCells**|0|No new cells or rows are added to the worksheet. Data in surrounding cells is overwritten to accommodate any overflow.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

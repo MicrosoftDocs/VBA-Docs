@@ -47,4 +47,3 @@ To check headers, footers, and objects on a worksheet, use this method on a  **[
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

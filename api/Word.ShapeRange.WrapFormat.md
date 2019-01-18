@@ -29,4 +29,3 @@ Returns a  **WrapFormat** object that contains the properties for wrapping text 
 
 [ShapeRange Collection Object](Word.shaperange.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

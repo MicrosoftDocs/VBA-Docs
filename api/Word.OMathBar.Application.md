@@ -29,4 +29,3 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 [OMathBar Object](Word.OMathBar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

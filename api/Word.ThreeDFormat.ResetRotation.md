@@ -47,4 +47,3 @@ ActiveDocument.Shapes(1).ThreeD.ResetRotation
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -28,4 +28,4 @@ Determines whether the SHIFT key is a modifier for an  **AccelItem** object. Rea
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

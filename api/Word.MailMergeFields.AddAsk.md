@@ -89,4 +89,3 @@ colMailMergeFields.AddAsk Range:=rngTemp, Name:="name", _
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

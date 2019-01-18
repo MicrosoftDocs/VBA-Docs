@@ -23,4 +23,4 @@ To get a particular  **ValidationIssue** object, you can use the **[Item](Visio.
 
 The default property of the  **ValidationIssue** object is **[Ignored](Visio.ValidationIssue.Ignored.md)**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

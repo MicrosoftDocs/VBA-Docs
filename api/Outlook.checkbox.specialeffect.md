@@ -35,4 +35,4 @@ The settings for  **SpecialEffect** are:
 
  **SpecialEffect** uses the system colors to define its borders.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

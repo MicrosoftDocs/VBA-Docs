@@ -43,4 +43,3 @@ Values returned in the array are of the same type as the values in the parent  *
 
 [Row Object](Outlook.Row.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

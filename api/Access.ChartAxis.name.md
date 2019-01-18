@@ -22,4 +22,4 @@ _expression_.**Name**
 
 _expression_ A variable that represents a **[ChartAxis](Access.ChartAxis.md)** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

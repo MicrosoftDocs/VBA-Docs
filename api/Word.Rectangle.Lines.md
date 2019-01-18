@@ -51,4 +51,3 @@ If objRectangle.RectangleType = wdTextRectangle Then _
 
 [Rectangle Object](Word.Rectangle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

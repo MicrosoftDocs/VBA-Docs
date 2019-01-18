@@ -34,4 +34,3 @@ This property corresponds to the  **Enable Live Preview** check box in the **Exc
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -33,4 +33,3 @@ _expression_ A variable that represents a [TimelineViewState object (Excel)](Exc
 
 [TimelineViewState Object](Excel.timelineviewstate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,4 @@ You cannot use  **Text** to change the value of an entry in a **ListBox**; use t
 
 The  **[ForeColor](Outlook.listbox.forecolor.md)** property determines the color of the text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

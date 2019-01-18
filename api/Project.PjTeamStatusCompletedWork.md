@@ -21,4 +21,3 @@ Contains constants that specify how completed work should be reported.
 |**pjBrokenDownByWeek**|2|Report work by week.|
 |**pjTotalForEntirePeriod**|0|Report total work for the entire period.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,4 @@ If the class ID of the container application in which the document is embedded c
 
 This string identifies the application that contains the document. It might, for example, identify the document's container as a Microsoft Excel object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -114,4 +114,4 @@ End Sub
 
 Save the document to initialize the class, and then click anywhere in the active window to fire a  **MouseDown** event. In the Immediate window, the handler prints the _x_ and _y_ coordinates of the location in the Visio window coordinate space where the mouse was clicked.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

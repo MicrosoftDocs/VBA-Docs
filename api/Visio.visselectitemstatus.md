@@ -22,4 +22,3 @@ Values returned by the  **Selection.ItemStatus** property.
 | **visSelIsSubItem**|&H2|The item is a subselected item.|
 | **visSelIsSuperItem**|&H4|The item is a superselected item.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

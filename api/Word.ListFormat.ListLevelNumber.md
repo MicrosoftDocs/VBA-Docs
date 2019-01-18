@@ -39,4 +39,3 @@ lev = ActiveDocument.Paragraphs(3).Range.ListFormat.ListLevelNumber
 
 [ListFormat Object](Word.ListFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

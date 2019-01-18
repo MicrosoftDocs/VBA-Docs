@@ -22,4 +22,3 @@ Contains constants that specify the calendar item to format.
 |**pjMonthlyTitles**|1|Monthly titles.|
 |**pjPreviousNextMonths**|2|Previous and next months.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

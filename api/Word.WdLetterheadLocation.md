@@ -22,4 +22,3 @@ Specifies a location to place letterhead in a letter created by the Letter Wizar
 | **wdLetterRight**|3|To the right of the letter.|
 | **wdLetterTop**|0|At the top of the letter.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

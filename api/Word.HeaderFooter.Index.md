@@ -48,4 +48,3 @@ End Sub
 
 [HeaderFooter Object](Word.HeaderFooter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

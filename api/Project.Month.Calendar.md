@@ -25,4 +25,4 @@ localization_priority: Normal
 
 For an example that resets the project calendar, see the  **[Calendar](Project.Project.Calendar.md)** property of the **Project** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

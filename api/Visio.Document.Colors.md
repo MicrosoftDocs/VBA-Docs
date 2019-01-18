@@ -28,4 +28,4 @@ Returns the  **Colors** collection of a **Document** object. Read-only.
 
 Colors
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Panes](./Outlook.Panes.md) object.
 
 [Panes Object](Outlook.Panes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

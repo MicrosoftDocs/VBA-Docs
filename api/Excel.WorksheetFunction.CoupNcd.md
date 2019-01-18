@@ -78,4 +78,3 @@ The following table contains the values used in  _Arg4_ .
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

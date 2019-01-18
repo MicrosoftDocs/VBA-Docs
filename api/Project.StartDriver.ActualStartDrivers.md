@@ -25,5 +25,3 @@ Gets the  **[ActualStartDrivers](Project.actualstartdrivers.md)** collection for
 
 
 [StartDriver Object](Project.StartDriver.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

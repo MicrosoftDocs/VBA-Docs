@@ -68,4 +68,3 @@ End With
 
 [LineFormat Object](PowerPoint.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

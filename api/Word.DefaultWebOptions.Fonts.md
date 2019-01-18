@@ -48,4 +48,3 @@ End With
 
 [DefaultWebOptions Object](Word.DefaultWebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

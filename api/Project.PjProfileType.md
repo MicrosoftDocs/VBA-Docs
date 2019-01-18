@@ -20,4 +20,3 @@ Contains constants that specify the type of profile.
 |**pjLocalProfile**|0|Local profile.|
 |**pjServerProfile**|1|Server profile.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

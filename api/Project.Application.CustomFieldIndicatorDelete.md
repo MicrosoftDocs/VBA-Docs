@@ -43,4 +43,4 @@ Removes a test condition from a custom field graphical indicator criteria list.
 
 The  **CustomFieldIndicatorDelete** method returns a trappable error (error code 1004) if the list specified by _CriteriaList_ is read-only because it has been set to inherit values from another list.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

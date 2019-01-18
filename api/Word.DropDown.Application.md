@@ -34,4 +34,3 @@ Visual Basic's  **CreateObject** and **GetObject** functions give you access to 
 
 [DropDown Object](Word.DropDown.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

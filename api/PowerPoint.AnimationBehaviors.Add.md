@@ -58,4 +58,3 @@ The  _Type_ parameter value can be one of these **MsoAnimType** constants.
 
 [AnimationBehaviors Object](PowerPoint.AnimationBehaviors.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

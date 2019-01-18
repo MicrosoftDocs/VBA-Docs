@@ -49,4 +49,3 @@ Charts(1).SetSourceData Source:=Sheets(1).Range("a1:a10"), _
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

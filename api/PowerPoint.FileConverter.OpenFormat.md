@@ -29,4 +29,3 @@ Returns the file format of the specified file converter. Read-only  **Long**.
 
 [FileConverter Object](PowerPoint.FileConverter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

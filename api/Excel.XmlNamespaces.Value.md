@@ -34,4 +34,3 @@ If the workbook contains more than one namespace, then the namespaces are sepera
 
 [XmlNamespaces Object](Excel.XmlNamespaces.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

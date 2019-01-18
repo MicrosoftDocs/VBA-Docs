@@ -42,4 +42,3 @@ Like other worksheet events, this event doesn't occur if you right-click while t
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

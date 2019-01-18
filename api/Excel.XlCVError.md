@@ -25,4 +25,3 @@ Specifies the cell error number and value.
 | **xlErrRef**|2023|Error number: 2023|
 | **xlErrValue**|2015|Error number: 2015|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

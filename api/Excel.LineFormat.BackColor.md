@@ -29,4 +29,3 @@ _expression_ A variable that represents a [LineFormat](Excel.LineFormat.md) obje
 
 [LineFormat Object](Excel.LineFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

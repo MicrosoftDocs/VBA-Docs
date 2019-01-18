@@ -28,4 +28,4 @@ Determines whether ignored validation issues appear in the  **Issues** window. R
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

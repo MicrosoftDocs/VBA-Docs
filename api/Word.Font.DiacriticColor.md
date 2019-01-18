@@ -45,4 +45,3 @@ If Options.UseDiffDiacColor = True Then _
 
 [Font Object](Word.Font.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

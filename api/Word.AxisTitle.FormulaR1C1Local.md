@@ -29,4 +29,3 @@ Returns or sets the formula for the object, using R1C1-style notation in the lan
 
 [AxisTitle Object](Word.AxisTitle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -20,4 +20,4 @@ Returns a  **Long** that represents the number of items in the specified collect
 
  _expression_ A variable that represents a  **BuildingBlocks** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

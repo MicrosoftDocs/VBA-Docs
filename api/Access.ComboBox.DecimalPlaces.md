@@ -49,4 +49,3 @@ You can use the  **DecimalPlaces** property to display numbers differently from 
 
 [ComboBox Object](Access.ComboBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

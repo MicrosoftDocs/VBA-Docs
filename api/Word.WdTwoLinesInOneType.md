@@ -24,4 +24,3 @@ Specifies the character to use to enclose two lines being written into one.
 | **wdTwoLinesInOneParentheses**|2|Enclose the lines using parentheses.|
 | **wdTwoLinesInOneSquareBrackets**|3|Enclose the lines using square brackets.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

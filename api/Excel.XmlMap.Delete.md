@@ -34,4 +34,3 @@ Deleting the XML map will convert all of the XML Lists to generic Lists and remo
 
 [XmlMap Object](Excel.XmlMap.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

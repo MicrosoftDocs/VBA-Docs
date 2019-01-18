@@ -37,4 +37,3 @@ Rotates the  **ThreeDFormat** object along the vertical axis by the specified nu
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

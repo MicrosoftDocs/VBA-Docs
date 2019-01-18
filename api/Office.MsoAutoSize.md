@@ -22,4 +22,3 @@ Determines the type of automatic sizing allowed.
 |**msoAutoSizeShapeToFitText**|1|The shape is adjusted to fit the text.|
 |**msoAutoSizeTextToFitShape**|2|The text is adjusted to fit the shape.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

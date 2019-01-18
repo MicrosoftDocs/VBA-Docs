@@ -21,4 +21,4 @@ Returns the distance from the chart edge to the inside top edge of the plot area
 
 The plot area used for this measurement doesn't include the axis labels. The  **Top** property for the plot area uses the bounding rectangle that includes the axis labels.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

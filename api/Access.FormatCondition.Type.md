@@ -29,4 +29,3 @@ _expression_ A variable that represents a [FormatCondition](Access.FormatConditi
 
 [FormatCondition Object](Access.FormatCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

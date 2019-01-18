@@ -25,4 +25,4 @@ Gets the time separator character. Read-only  **String**.
 
 Project internally sets the  **TimeSeparator** property equal to the value shown in the **Regional and Language Options** dialog box in the Microsoft Windows Control Panel. The value for U.S. English is a colon (":").
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

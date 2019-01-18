@@ -36,4 +36,3 @@ If a valid language code is specified, the object will only be available in the 
 
 [View Object](Outlook.View.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

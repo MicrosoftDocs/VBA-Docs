@@ -25,4 +25,5 @@ Defines the characteristics of the text used by a control.
 | [Underline](Outlook.Font.underline.md)|Returns or sets a  **Boolean** that specifies whether text is underlined. Read/write.|
 | [Weight](Outlook.Font.weight.md)|Returns or sets an  **Integer** that specifies the darkness of the type. Read/write.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

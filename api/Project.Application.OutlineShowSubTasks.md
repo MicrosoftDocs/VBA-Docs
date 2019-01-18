@@ -28,4 +28,4 @@ Shows the subtasks of the selected task or tasks.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

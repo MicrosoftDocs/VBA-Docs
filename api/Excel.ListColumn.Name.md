@@ -34,4 +34,3 @@ The value of this property is also used as the display name of the list column. 
 
 [ListColumn Object](Excel.ListColumn.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

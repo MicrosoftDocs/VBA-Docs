@@ -29,4 +29,3 @@ Returns the name of the specified object. Read-only  **String**.
 
 [StyleSheet Object](Word.StyleSheet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

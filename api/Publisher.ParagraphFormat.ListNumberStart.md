@@ -53,4 +53,4 @@ Set objParaForm = ActiveDocument.Pages(1).Shapes(1) _
 End Sub
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -39,5 +39,3 @@ To return the collection of actions related to a smart tag, use the  **[SmartTag
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

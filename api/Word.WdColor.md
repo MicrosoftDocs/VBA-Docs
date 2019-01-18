@@ -78,4 +78,3 @@ Specifies the 24-bit color to apply.
 | **wdColorWhite**|16777215|White color.|
 | **wdColorYellow**|65535|Yellow color.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

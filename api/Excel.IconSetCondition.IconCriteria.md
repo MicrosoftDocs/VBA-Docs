@@ -34,4 +34,3 @@ After you have the  **IconCriteria** collection, you can use the **[Item](Excel.
 
 [IconSetCondition Object](Excel.IconSetCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

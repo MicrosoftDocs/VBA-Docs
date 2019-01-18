@@ -34,4 +34,3 @@ The parent of the  **[RuleConditions](Outlook.RuleConditions.md)** object is the
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

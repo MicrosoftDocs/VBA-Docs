@@ -47,4 +47,4 @@ Units can be an integer or string value such as "inches", "inch", "in.", or "i".
 
 For a list of valid integer and string values, see [About Units of Measure](../visio/Concepts/about-units-of-measure-visio.md).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

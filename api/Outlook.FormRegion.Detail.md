@@ -36,4 +36,3 @@ The  **Detail** property is optional for an adjoining form region.
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

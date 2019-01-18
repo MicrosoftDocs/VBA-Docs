@@ -26,4 +26,3 @@ Specifies constants that identify the available stencils; passed to the  **GetBu
 | **visBuiltInStencilCallouts**|3|The hidden stencil that contains the shapes displayed in the  **Callout** gallery (**Insert** tab).|
 | **visBuiltInStencilLegends**|4|The hidden stencil that contains the shapes displayed in the  **Insert Legend** gallery (**Data** tab).|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

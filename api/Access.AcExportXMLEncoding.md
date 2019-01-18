@@ -23,4 +23,3 @@ Use with the  **ExportXML** method to specify the text encoding to use for expor
 |**acUTF16**|1|UTF16 encoding.|
 |**acUTF8**|0|(Default) UTF8 encoding.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

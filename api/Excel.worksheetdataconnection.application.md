@@ -48,4 +48,3 @@ End If
 
 [WorksheetDataConnection Object](Excel.worksheetdataconnection.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

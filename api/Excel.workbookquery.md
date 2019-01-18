@@ -19,5 +19,3 @@ An object that represents a query that was created by Power Query. Introduced in
 
 
 [WorkbookQuery Object Members](./overview/Excel.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

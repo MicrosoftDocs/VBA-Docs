@@ -37,5 +37,3 @@ A popup's ID determines the built-in action for that object.
 ## See also
 
 - [CommandBarPopup object members](overview/library-reference/commandbarpopup-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

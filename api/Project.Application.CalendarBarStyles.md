@@ -41,4 +41,4 @@ Turns bar rounding on or off in the Calendar.
 
 The default start and default end times can be set with the  **OptionsCalendar** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

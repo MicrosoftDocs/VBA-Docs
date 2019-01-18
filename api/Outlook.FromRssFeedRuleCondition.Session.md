@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [FromRssFeedRuleCondition Object](Outlook.FromRssFeedRuleCondition.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,5 +39,3 @@ Adds a  **Resource** object to a **Resources** collection.
 
 
 [Resources Collection Object](Project.resources(object).md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

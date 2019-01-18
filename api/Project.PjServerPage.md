@@ -29,4 +29,3 @@ Contains constants that specify the page to show in Project Web App or in a proj
 |**pjServerPageStatusReports**|4|Show the Status Reports page.|
 |**pjServerPageWorkspace**|10|Show the Project Site page.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

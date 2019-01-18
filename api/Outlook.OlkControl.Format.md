@@ -36,4 +36,3 @@ The  **Format** property is specific to the property in the Outlook Object Model
 
 [OlkControl Class](Outlook.olkcontrol.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,4 @@ Represents the specified Microsoft Graph chart.
 
 Use the  **Chart** property to return a **Chart** object. Most of the time, you'll create a reference to a Microsoft Graph chart and then use the reference in your code.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

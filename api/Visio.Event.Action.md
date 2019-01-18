@@ -42,4 +42,3 @@ Microsoft Visio supports the following action codes.
 | **visActCodeRunAddon**|1 |
 | **visActCodeAdvise**|2 |
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

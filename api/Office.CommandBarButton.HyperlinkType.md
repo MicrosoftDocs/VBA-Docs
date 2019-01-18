@@ -54,4 +54,3 @@ End If
 
 - [CommandBarButton object members](overview/library-reference/commandbarbutton-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets a  **String** that represents the description for a building blo
 
 [BuildingBlock Object](Word.BuildingBlock.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

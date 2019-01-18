@@ -28,4 +28,3 @@ Specifies the alignment (the origin of the coordinate grid) for the tiling of th
 |**msoTextureTopLeft**|0|Top-left alignment.|
 |**msoTextureTopRight**|2|Top-right alignment.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

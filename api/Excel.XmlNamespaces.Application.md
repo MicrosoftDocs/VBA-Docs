@@ -44,4 +44,3 @@ End If
 
 [XmlNamespaces Object](Excel.XmlNamespaces.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

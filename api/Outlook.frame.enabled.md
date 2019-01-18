@@ -27,4 +27,4 @@ Use the  **Enabled** property to enable and disable controls. A disabled control
 
 If a  **[Frame](Outlook.frame.md)** is disabled, all controls that it contains are disabled.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

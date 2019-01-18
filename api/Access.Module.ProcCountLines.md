@@ -87,4 +87,3 @@ MsgBox "There are " & Forms(strForm).Module.ProcCountLines(strProc, vbext_pk_Pro
 
 [Module Object](Access.Module.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of key bindings in the collection
 
 [KeyBindings Collection Object](Word.keybindings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](W
 
 [Point Object](Word.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

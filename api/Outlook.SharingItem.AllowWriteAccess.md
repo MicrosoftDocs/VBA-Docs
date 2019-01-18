@@ -41,4 +41,3 @@ An error occurs if you attempt to set this property after the sharing message ha
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

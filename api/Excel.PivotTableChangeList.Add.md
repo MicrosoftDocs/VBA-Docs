@@ -51,4 +51,3 @@ The  **Add** method enables you to add **ValueChange** objects that represent ch
 
 [PivotTableChangeList Object](Excel.PivotTableChangeList.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

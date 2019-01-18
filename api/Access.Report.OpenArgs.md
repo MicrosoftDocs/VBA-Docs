@@ -36,4 +36,3 @@ To use the  **OpenArgs** property, open a report by using the **OpenReport** met
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

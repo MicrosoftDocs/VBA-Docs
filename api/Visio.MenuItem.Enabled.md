@@ -28,4 +28,4 @@ Determines whether or not an object is currently enabled. Read/write.
 
 Boolean
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

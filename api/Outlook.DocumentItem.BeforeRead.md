@@ -48,4 +48,3 @@ Implementers must release the object obtained from the  **MAPIOBJECT** property 
 
 [DocumentItem Object](Outlook.DocumentItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

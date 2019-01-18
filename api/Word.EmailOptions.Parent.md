@@ -29,4 +29,3 @@ Returns an  **Object** that represents the parent object of the specified **Emai
 
 [EmailOptions Object](Word.EmailOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -41,4 +41,4 @@ For "NAME=John Smith", set the  **ExtraInfo** property to "NAME=John Smith," bec
 
 For "PATH= _driveletter_ :\ _foldename_ ", set the **ExtraInfo** property to "PATH= _driveletter_ %3A%5C _foldername_ ", because of the reserved characters.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ The default value is  **olScrollBarsNone**.
 
 [OlkTextBox Object](Outlook.OlkTextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ The value of the  _Index_ parameter cannot be greater than the number of icons i
 
 [IconSet Object](Excel.IconSet.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

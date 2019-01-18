@@ -64,4 +64,3 @@ The following example lists the users who have permissions on the active documen
 
 [UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

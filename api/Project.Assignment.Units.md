@@ -25,4 +25,4 @@ Gets or sets the number of units completed for the assignment. Read-write  **Var
 
 If a resource has completed 80% of the assignment, for example, the  **Units** value is 0.8.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

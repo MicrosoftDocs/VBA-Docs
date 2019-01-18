@@ -23,4 +23,3 @@ Specifies the compatibility mode that Word uses when opening a document.
 | **wdWord2010**|14|Word is put into a mode that is most compatible with . Features new to Wordare disabled in this mode.|
 | **wdWord2013**|15|Default. All Word features are enabled.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

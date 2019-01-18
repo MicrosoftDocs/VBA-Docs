@@ -23,4 +23,4 @@ A  **[pbPresetWordArt](Publisher.pbpresetwordart.md)** constant that indicates t
 
  _expression_ A variable that represents a  **[TextEffectFormat](Publisher.TextEffectFormat.md)** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

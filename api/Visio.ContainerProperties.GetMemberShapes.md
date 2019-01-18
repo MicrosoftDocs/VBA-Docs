@@ -68,4 +68,4 @@ For Each memberID In vsoContainerShape.ContainerProperties.GetMemberShapes(visCo
 Next
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

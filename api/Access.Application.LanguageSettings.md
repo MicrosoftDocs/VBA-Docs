@@ -46,4 +46,3 @@ MsgBox "The language ID used for Access Help is " & mli
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

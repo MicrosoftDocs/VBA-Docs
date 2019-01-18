@@ -25,4 +25,3 @@ Specifies the format of the body text of an item.
 | **olFormatRichText**|3|Rich text format|
 | **olFormatUnspecified**|0|Unspecified format|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -113,4 +113,3 @@ The following example examines the  **Status** property and takes an appropriate
 
 [Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

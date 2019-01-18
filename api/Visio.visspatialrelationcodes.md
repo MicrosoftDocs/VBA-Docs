@@ -28,4 +28,3 @@ The spatial relationship between shapes can be indicated by any combination of t
 | **visSpatialOverlap**|&H1|Two shapes can overlap. Shapes overlap if their interior regions have at least one point in common. You will also get this result if you compare a shape to itself or if either shape is a sub-shape of the other.|
 | **visSpatialTouching**|&H8|A shape can be touching another shape. Shape A touches shape B if neither one contains or overlaps the other and they have one or more common points whose distance is within the specified tolerance.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

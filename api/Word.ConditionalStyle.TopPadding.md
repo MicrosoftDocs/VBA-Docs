@@ -34,4 +34,3 @@ The setting of the  **TopPadding** property for a single cell overrides the sett
 
 [ConditionalStyle Object](Word.ConditionalStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

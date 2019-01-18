@@ -28,4 +28,3 @@ Specifies the time period.
 | **xlTomorrow**|6|Tomorrow|
 | **xlYesterday**|1|Yesterday|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

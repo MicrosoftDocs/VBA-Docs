@@ -78,4 +78,3 @@ Next kbLoop
 
 [KeyBinding Object](Word.KeyBinding.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

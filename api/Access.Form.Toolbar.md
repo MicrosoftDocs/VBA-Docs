@@ -34,4 +34,3 @@ When opening a form in Access that is part of a database that was created in an 
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

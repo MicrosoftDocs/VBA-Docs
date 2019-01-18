@@ -30,4 +30,4 @@ When the user selects a row from a  **ComboBox**, the column referenced by  **Te
 
 When the  **Text** property of a **ComboBox** changes (such as when a user types an entry into the control), the new text is compared to the column of data specified by **TextColumn**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -70,4 +70,3 @@ End Sub
 [TypeName function](https://msdn.microsoft.com/vba/language-reference-vba/articles/typename-function)<br>
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

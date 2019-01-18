@@ -29,4 +29,3 @@ Returns or sets a  **Single** that represents z-axis rotation of the camera. Rea
 
 [ThreeDFormat Object](Word.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

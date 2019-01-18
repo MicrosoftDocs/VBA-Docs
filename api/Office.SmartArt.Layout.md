@@ -40,4 +40,3 @@ ActivePresentation.Slides(1).Shapes(1).SmartArt.Layout = Application.SmartArtLay
 
 [SmartArt Object Members](./overview/Library-Reference/smartart-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

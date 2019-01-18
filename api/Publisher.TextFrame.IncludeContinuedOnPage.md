@@ -33,4 +33,4 @@ MsoTriState
 
 The  **IncludeContinuedOnPage** property corresponds to the **Include "Continued on page..."** check box in the Publisher user interface. (With the text box selected, on the **Format** menu, click **Text Box**, and then click the  **Text Box** tab.)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

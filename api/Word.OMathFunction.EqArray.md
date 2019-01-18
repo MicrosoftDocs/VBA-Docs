@@ -29,4 +29,3 @@ Returns an  **[OMathEqArray](Word.OMathEqArray.md)** object that represents an e
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

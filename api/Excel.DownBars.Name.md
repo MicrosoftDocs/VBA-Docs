@@ -29,4 +29,3 @@ _expression_ A variable that represents a [DownBars](Excel.DownBars-graph-proper
 
 [DownBars Object](Excel.DownBars(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -40,6 +40,6 @@ Sends message to the Project Server Queueing Service to publish the local projec
 
 ## Remarks
 
-Typically the publish action is incremental: Only changed data is pushed through from the working store to the published store, Republish forces all data to be published.
+Typically the publish action is incremental: Only changed data is pushed through from the working store to the published store, Republish forces all data to be published. 
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

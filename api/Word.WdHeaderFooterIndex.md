@@ -21,4 +21,3 @@ Returns the specified header or footer in a document or section.
 | **wdHeaderFooterFirstPage**|2|Returns the first header or footer in a document or section.|
 | **wdHeaderFooterPrimary**|1|Returns the header or footer on all pages other than the first page of a document or section.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

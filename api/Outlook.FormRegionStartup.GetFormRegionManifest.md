@@ -67,4 +67,3 @@ Outlook ignores the following elements when the add-in provides the XML manifest
 
 [FormRegionStartup Interface](Outlook.formregionstartup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

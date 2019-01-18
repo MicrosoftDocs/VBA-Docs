@@ -39,4 +39,3 @@ Specifies an extrusion (three-dimensional) format.The  **msoPresetThreeDFormat**
 |**msoThreeD8**|8|Eighth 3-D format.|
 |**msoThreeD9**|9|Ninth 3-D format.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

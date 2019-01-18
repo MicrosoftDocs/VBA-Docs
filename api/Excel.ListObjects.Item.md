@@ -49,4 +49,3 @@ The following example displays the name of the default list object on Sheet1 of 
 
 [ListObjects Object](Excel.ListObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

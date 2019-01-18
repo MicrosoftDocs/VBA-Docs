@@ -46,4 +46,3 @@ The following  **VisDefaultSaveFormats** constants, which are declared in the Vi
 | **visDefaultSaveCurrentXML**|2|XML format for current version of Visio.|
 | **visDefaultSavePreviousBinary**|1|Binary format for previous version of Visio.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

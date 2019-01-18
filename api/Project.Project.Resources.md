@@ -25,4 +25,4 @@ Gets a  **[Resources](Project.resources(object).md)** collection representing th
 
 For a code example that uses the  **Task** object, see the **[Resources](Project.Task.Resources.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

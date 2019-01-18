@@ -27,4 +27,4 @@ The  **DateOrder** property can be one of the following **[PjDateOrder](Project.
 
 Project sets the  **DateOrder** property equal to the corresponding value in the **Regional and Language Options** dialog box of the Microsoft Windows Control Panel. For example, if the current format is set to **French (France)**, the  **DateOrder** property value is 0 (**pjDayMonthYear**).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

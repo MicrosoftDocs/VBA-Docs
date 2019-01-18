@@ -49,4 +49,3 @@ The **ColumnWidth** property for a field isn't available when the field's **Colu
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

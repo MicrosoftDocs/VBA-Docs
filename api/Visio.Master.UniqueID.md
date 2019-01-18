@@ -79,4 +79,4 @@ Set vsoMaster = Visio.ActiveDocument.Masters("U{0478DA94-1315-9876-8E4C-006523AB
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

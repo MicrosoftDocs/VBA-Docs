@@ -28,4 +28,4 @@ Returns the number of  **[ValidationRule](Visio.ValidationRule.md)** objects in 
 
  **Long**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

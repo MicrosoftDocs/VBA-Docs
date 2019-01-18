@@ -47,4 +47,3 @@ For a form that supports irreversible operations, such as deletions, it's a good
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ You can delete custom document properties, but you cannot delete a built-in docu
 
 [CustomProperty Object](Excel.CustomProperty.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

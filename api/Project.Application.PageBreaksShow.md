@@ -36,4 +36,4 @@ Shows or hides page breaks on the Network Diagram.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

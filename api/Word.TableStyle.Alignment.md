@@ -29,4 +29,3 @@ Returns or sets a  **WdRowAlignment** constant that represents the alignment for
 
 [TableStyle Object](Word.TableStyle.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

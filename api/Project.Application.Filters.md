@@ -33,4 +33,4 @@ Displays the  **More Filters** dialog box, which prompts the user to use a filte
 
 The  **Filters** method is equivalent to the **More Filters** command in the **Filter** drop-down list, available on the **VIEW** tab of the ribbon in Project.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -53,4 +53,3 @@ End With
 
 [SoundEffect Object](PowerPoint.SoundEffect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

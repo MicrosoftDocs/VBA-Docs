@@ -25,4 +25,3 @@ Specifies a type of list.
 | **wdListPictureBullet**|6|Picture bulleted list.|
 | **wdListSimpleNumbering**|3|Simple numeric list.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

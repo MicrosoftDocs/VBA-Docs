@@ -31,4 +31,3 @@ If you always put a Gantt chart in the same index of a project's  **Windows** co
 
 [GroupCriterion2 Object](Project.GroupCriterion2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

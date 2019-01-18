@@ -30,4 +30,4 @@ The  **YearLabelDisplay** property corresponds to the **Years** list on the **Ad
 
 Values of the  **YearLabelDisplay** property can be 0 to 2.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

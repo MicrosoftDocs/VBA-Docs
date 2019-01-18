@@ -98,4 +98,3 @@ The postal code converter program has been developed and licensed by Advanced Gi
 
 - [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

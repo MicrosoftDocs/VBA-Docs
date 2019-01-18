@@ -50,4 +50,4 @@ The following code selects the shape at index position 2 in the collection of sh
 vsoViewer.SelectShape (2)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

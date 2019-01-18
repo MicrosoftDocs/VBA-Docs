@@ -34,4 +34,3 @@ This property applies only to text content controls and rich text content contro
 
 [ContentControl Object](Word.ContentControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -22,4 +22,3 @@ Specifies the numeral style for an Arabic-language document.
 | **wdNumeralHindi**|1|Hindi shape is used for numerals.|
 | **wdNumeralSystem**|3|Numeral shape is determined by system settings.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -45,5 +45,3 @@ You can't add or delete an  **AccessObject** object from the **AllFunctions** co
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

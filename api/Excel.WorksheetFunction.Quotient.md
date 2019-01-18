@@ -48,4 +48,3 @@ If either argument is nonnumeric, QUOTIENT returns the #VALUE! error value.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

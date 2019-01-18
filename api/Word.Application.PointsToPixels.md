@@ -56,4 +56,3 @@ MsgBox "180x120 points is equivalent to " _
 
 [Application Object](Word.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

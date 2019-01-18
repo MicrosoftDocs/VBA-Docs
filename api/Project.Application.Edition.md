@@ -28,4 +28,4 @@ Gets the edition of the Project application, either Project Standard or Project 
 
 The  **Edition** property can be one of the following **[PjEditionType](Project.PjEditionType.md)** constants: **pjEditionProfessional** or **pjEditionStandard**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -58,4 +58,3 @@ myDocument.Shapes(1).ThreeD.IncrementRotationY -10
 
 [ThreeDFormat Object](PowerPoint.ThreeDFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

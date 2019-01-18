@@ -44,4 +44,3 @@ You can also set the default for this property by setting a control's  **Default
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

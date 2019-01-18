@@ -120,4 +120,3 @@ ActiveDocument.PrintOut _
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

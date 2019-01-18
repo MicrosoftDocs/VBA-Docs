@@ -31,4 +31,4 @@ This example adds a linear trendline to series one.
 myChart.SeriesCollection(1).Trendlines.Add Type:=xlLinear
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -58,4 +58,3 @@ Worksheets("sheet3").PivotTables.Item(1) _
 
 [PivotTables Object](Excel.PivotTables.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

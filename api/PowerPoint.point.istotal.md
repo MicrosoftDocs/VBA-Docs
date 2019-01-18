@@ -27,4 +27,3 @@ localization_priority: Normal
 
 [Point Object](PowerPoint.Point.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -17,4 +17,5 @@ This collection contains all relationships currently between data tables in the 
 
 ## See also
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

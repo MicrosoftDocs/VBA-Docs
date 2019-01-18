@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the priority for sorting styles in t
 
 [Style Object](Word.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ The AuthorResGuid property for the EngagementComment object. Introduced in Offic
 
 [EngagementComment Object (Project)](Project.engagementcomment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

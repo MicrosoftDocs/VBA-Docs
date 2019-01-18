@@ -30,5 +30,3 @@ Use of the  **Count** property in most collection objects is similar. For an exa
 
 
 [SplitParts Collection Object](Project.splitparts.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

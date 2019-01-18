@@ -29,4 +29,3 @@ Returns an  **[OMathDelim](Word.OMathDelim.md)** object that represents the deli
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

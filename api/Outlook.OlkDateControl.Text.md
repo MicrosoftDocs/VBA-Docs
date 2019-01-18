@@ -36,4 +36,3 @@ The  **Text** property provides the same value as the **[Value](Outlook.OlkDateC
 
 [OlkDateControl Object](Outlook.OlkDateControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

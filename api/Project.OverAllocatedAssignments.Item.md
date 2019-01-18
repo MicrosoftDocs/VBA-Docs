@@ -92,4 +92,3 @@ End Sub
 
 [OverAllocatedAssignments Collection Object](Project.overallocatedassignments.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

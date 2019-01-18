@@ -28,4 +28,3 @@ Specifies the location of lighting on an extruded (three-dimensional) shape rela
 |**msoLightingTopRight**|3|Lighting comes from the upper right.|
 |**msoPresetLightingDirectionMixed**|-2|Not supported.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

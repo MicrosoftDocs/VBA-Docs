@@ -68,4 +68,3 @@ The  **FontItalic** parameter value can be one of the following **MsoTriState** 
 | **msoTriStateToggle**|Set value that switches between  **msoTrue** and **msoFalse**.|
 | **msoTrue**|All characters in the WordArt are formatted as italic.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,4 +47,3 @@ The value of the  **TextUnitEffect** property can be one of these **MsoAnimTextU
 
 [EffectInformation Object](PowerPoint.EffectInformation.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

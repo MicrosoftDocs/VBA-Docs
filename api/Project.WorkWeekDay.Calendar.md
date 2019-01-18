@@ -30,5 +30,3 @@ For an example that resets the project calendar, see the  **[Calendar](Project.P
 
 
 [WorkWeekDay Object](Project.WorkWeekDay.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

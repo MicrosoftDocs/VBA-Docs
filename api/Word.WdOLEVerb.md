@@ -25,4 +25,3 @@ Specifies the action associated with the verb that the OLE object should perform
 | **wdOLEVerbShow**|-1|Shows the object to the user for editing or viewing. Use it to show a newly inserted object for initial editing.|
 | **wdOLEVerbUIActivate**|-4|Activates the object in place and displays any user-interface tools that the object needs, such as menus or toolbars.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

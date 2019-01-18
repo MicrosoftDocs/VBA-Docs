@@ -30,4 +30,3 @@ Long
 
 - [FileDialogFilters object members](overview/library-reference/filedialogfilters-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

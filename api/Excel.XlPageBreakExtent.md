@@ -20,4 +20,3 @@ Specifies whether a page break is full screen or applies only within the print a
 | **xlPageBreakFull**|1|Full screen.|
 | **xlPageBreakPartial**|2|Only within print area.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

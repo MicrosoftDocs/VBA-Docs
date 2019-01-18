@@ -25,4 +25,3 @@ Contains constants that specify the day on which a calendar exception occurs.
 |**pjItemTuesday**|5|The exception occurs on a Tuesday.|
 |**pjItemWednesday**|6|The exception occurs on a Wednesday.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

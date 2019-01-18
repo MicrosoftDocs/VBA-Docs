@@ -26,4 +26,3 @@ Returns or sets the distance, in points, from the top edge of the object to the 
 
 [Legend Object](PowerPoint.Legend.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

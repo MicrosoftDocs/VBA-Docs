@@ -25,4 +25,3 @@ Contains constants that specify how to compare items when comparing two project 
 |**pjCompareVersionItemsUniqueItemsOfVersion1**|4|Show unique items in the first version.|
 |**pjCompareVersionItemsUniqueItemsOfVersion2**|5|Show unique items in the second version.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

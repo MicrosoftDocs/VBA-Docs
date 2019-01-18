@@ -30,4 +30,4 @@ This example turns on drop lines for the 3-D area chart group.
 myChart.Area3DGroup.HasDropLines = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

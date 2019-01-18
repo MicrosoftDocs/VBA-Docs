@@ -34,4 +34,3 @@ This property corresponds to the  **Match suffix** check box in the **Find and R
 
 [Find Object](Word.Find.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

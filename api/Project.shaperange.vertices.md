@@ -43,5 +43,3 @@ For an array of vertices named  `vertArray`, the following table shows how the  
 
 
 [ShapeRange Object](Project.shaperange.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

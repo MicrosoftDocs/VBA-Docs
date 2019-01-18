@@ -91,4 +91,4 @@ End Sub
 
 For an example that uses a local resource custom field, see the  **[GetField](Project.Resource.GetField.md)** method.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

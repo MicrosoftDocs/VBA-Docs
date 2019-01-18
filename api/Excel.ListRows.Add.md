@@ -58,4 +58,3 @@ Set myNewRow = ActiveWorkbook.Worksheets(1).ListObject(1).ListRows.Add
 
 [ListRows Object](Excel.ListRows.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

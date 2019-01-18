@@ -29,4 +29,3 @@ Returns a  **Long** that represents the number of mail merge fields in the colle
 
 [MailMergeFields Collection Object](Word.mailmergefields.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

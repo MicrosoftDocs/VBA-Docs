@@ -33,4 +33,6 @@ String
 
 The **String** returned for a **MotionEffect** object is a specific path that the motion effect follows between From and To, using the same syntax as the VML path description.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+
+

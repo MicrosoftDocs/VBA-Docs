@@ -42,4 +42,3 @@ Range
 
 [Words Collection Object](Word.words.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

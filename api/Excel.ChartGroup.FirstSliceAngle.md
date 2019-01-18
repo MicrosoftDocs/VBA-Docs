@@ -39,4 +39,3 @@ Charts("Chart1").ChartGroups(1).FirstSliceAngle = 15
 
 [ChartGroup Object](Excel.ChartGroup(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

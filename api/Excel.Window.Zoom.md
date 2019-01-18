@@ -36,4 +36,3 @@ This function affects only the sheet that's currently active in the window. To u
 
 [Window Object](Excel.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

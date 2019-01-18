@@ -42,4 +42,3 @@ An  **Action** object that represents the specified object.
 
 [Actions Object](Outlook.Actions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

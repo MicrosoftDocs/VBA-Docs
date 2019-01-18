@@ -45,4 +45,3 @@ If (System.FreeDiskSpace \ 1048576) < 10 Then _
 
 [System Object](Word.System.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

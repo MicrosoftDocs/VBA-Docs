@@ -44,4 +44,3 @@ Selection.InsertCaption Label:="Figure", Title:=": History"
 
 [CaptionLabel Object](Word.CaptionLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

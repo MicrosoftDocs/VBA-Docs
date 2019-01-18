@@ -38,4 +38,4 @@ The following example resets the synchronization data that Publisher uses to giv
 Options.ResetWizardSynchronizing
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

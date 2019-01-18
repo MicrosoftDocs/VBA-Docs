@@ -36,4 +36,4 @@ The  **Session** property and the [GetNamespace](Outlook.Application.GetNamespac
 
 [PreviewPane Object (Outlook)](Outlook.previewpane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

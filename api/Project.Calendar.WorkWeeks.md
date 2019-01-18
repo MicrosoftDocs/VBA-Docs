@@ -23,4 +23,4 @@ Gets a  **[WorkWeeks](Project.Year.md)** collection representing the work weeks 
 
  _expression_ An expression that returns a [Calendar](./Project.Calendar.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

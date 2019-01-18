@@ -86,4 +86,3 @@ Possible values for  _Format_ declared by the Visio type library in **VisPasteSp
 | **visPasteVisioShapes**|65540|Paste Visio shapes.|
 | **visPasteVisioText**|65542|Paste Visio text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

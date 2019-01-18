@@ -29,4 +29,3 @@ Returns a  **[Range](Word.Range.md)** object that represents the first word in a
 
 [Words Collection Object](Word.words.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

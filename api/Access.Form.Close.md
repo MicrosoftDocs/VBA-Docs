@@ -49,4 +49,3 @@ The  **Unload** event can be canceled, but the **Close** event can't.
 
 [Form Object](Access.Form.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

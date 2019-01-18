@@ -61,4 +61,3 @@ End Sub
 |[Count](Publisher.WebHiddenFields.Count.md)|
 |[Parent](Publisher.WebHiddenFields.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

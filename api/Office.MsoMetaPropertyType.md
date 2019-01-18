@@ -38,4 +38,3 @@ Specifies the metadata property type.
 |**msoMetaPropertyTypeUrl**|17|Represents a URL.|
 |**msoMetaPropertyTypeUser**|18|Represents a category of user.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

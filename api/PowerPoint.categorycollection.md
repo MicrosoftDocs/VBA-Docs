@@ -19,4 +19,4 @@ Represents the collection of visible chart categories in the presentation.
 
 Categories are visible if they have not been filtered out of a chart.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

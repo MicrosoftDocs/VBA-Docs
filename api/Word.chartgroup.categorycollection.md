@@ -41,4 +41,3 @@ Returns all the visible categories in the chart group, or the specified visible 
 
 [ChartGroup Object](Word.ChartGroup.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

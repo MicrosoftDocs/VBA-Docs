@@ -38,4 +38,4 @@ The  **SelectedDataRecordset** property works only when the **Window** object re
 
 When you set the  **SelectedDataRecordset** property, the **DataRecordset** object you pass must not have been added with the **visDataRecordsetNoExternalDataUI** flag set.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -23,4 +23,4 @@ _expression_. `Count`
 
 _expression_ A variable that represents a [ReturnVars](Access.ReturnVars.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

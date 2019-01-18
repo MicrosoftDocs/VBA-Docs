@@ -24,4 +24,3 @@ Specifies the alignment of text in a control.
 | **olTextAlignLeft**|1|Text rendered in the control will be aligned to the left edge of the control.|
 | **olTextAlignRight**|3|Text rendered in the control will be aligned to the right edge of the control.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -21,4 +21,3 @@ Specifies what to look for in searches.
 | **LookForErrors**|1|Errors|
 | **LookForFormulas**|2|Formulas|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

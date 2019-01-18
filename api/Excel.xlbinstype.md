@@ -29,4 +29,3 @@ Constants passed to and returned by the [ChartGroup.BinsType](Excel.chartgroup.b
 
 [ChartGroup.BinsType Property](Excel.chartgroup.binstype.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

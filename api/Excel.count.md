@@ -26,4 +26,4 @@ MsgBox "The chart contains " & _
  " chart groups."
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

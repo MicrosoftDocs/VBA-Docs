@@ -29,4 +29,3 @@ Returns a  **Range** object that represents the portion of a document that's con
 
 [HTMLDivision Object](Word.HTMLDivision.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -25,4 +25,3 @@ Run-type constants to be passed to the  **Characters.RunBegin** and **Characters
 | **visTabPropRow**|3|Reports runs of characters that have common tab properties. Corresponds to a set of characters that are covered by one row in shape's Tabs section.|
 | **visWordRun**|10|Reports runs whose boundaries are between successive words in a shape's text. Mimics double-clicking to select text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

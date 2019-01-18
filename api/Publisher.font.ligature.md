@@ -34,4 +34,4 @@ Returns or sets a  **[pbLigaturePresetType](Publisher.pbligaturepresettype.md)**
 
 Ligatures are alternate appearances of sequences of characters; multiple characters are merged into one glyph. For example, when ligatures are turned on for the word  _Office_, the letters  _ffi_ are all joined together into one glyph that displays a continuous line from the first _f_ through the dot in the _i_.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

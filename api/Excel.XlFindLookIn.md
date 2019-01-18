@@ -21,4 +21,3 @@ Specifies the type of data to search.
 | **xlFormulas**|-4123|Formulas.|
 | **xlValues**|-4163|Values.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

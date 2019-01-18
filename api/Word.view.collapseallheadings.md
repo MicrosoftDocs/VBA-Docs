@@ -41,4 +41,3 @@ This method corresponds to the  **Collapse All Headings** command on the **Expan
 
 [View Members](./overview/Word.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ Set the  **RightToLeftPlotOrder** property to **True** to plot the values on the
 
 [SparkHorizontalAxis Object](Excel.SparkHorizontalAxis.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

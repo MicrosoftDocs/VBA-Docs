@@ -29,4 +29,3 @@ Returns the number of items in the  **OMathMatCols** collection. Read-only **Lon
 
 [OMathMatCols Collection](Word.OMathMatCols.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

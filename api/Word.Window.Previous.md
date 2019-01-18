@@ -29,4 +29,3 @@ Returns the previous document window in the collection open document windows. Re
 
 [Window Object](Word.Window.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

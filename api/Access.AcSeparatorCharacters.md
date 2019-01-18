@@ -25,4 +25,3 @@ Used with the [ComboBox.SeparatorCharacters property (Access)](Access.ComboBox.S
 |**acSeparatorCharactersSemiColon**|2|A semicolon (;) is used as the separator character.|
 |**acSeparatorCharactersSystemSeparator**|0|The  **List separator** setting in the **Regional and Language Options** in Windows Control Panel is used as the separator character.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

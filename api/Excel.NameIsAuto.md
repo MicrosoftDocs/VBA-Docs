@@ -26,4 +26,4 @@ This example sets Microsoft Graph to automatically determine the name for trendl
 myChart.SeriesCollection(1).Trendlines(1).NameIsAuto = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

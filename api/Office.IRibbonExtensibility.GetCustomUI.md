@@ -61,5 +61,3 @@ public string GetCustomUI(string RibbonID)
 ## See also
 
 - [IRibbonExtensibility object members](overview/library-reference/iribbonextensibility-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ You can use the  **Session** property and the **[GetNamespace](Outlook.Applicati
 
 [ConversationHeader Object](Outlook.ConversationHeader.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

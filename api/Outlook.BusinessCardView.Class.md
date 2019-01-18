@@ -34,4 +34,3 @@ This property returns  **olBusinessCardView** for the **[BusinessCardView](Outlo
 
 [BusinessCardView Object](Outlook.BusinessCardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

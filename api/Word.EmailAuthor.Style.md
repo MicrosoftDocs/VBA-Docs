@@ -41,4 +41,3 @@ Msgbox MyEmailStyle.Font.Name
 
 [EmailAuthor Object](Word.EmailAuthor.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

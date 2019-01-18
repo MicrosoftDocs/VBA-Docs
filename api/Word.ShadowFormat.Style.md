@@ -29,4 +29,3 @@ Returns or sets a  **MsoShadowType** that represents the type of shadow formatti
 
 [ShadowFormat Object](Word.ShadowFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

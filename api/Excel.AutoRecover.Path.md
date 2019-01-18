@@ -43,4 +43,3 @@ End Sub
 
 [AutoRecover Object](Excel.AutoRecover.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

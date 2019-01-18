@@ -34,4 +34,3 @@ Some of the  **WdLanguageID** constants may not be available to you, depending o
 
 [Find Object](Word.Find.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

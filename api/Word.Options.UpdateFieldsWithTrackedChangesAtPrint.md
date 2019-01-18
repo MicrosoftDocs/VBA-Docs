@@ -34,4 +34,3 @@ Setting this property has the same effect as selecting or unselecting the check 
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -65,4 +65,3 @@ End Sub
 
 [AutoCorrect Object](PowerPoint.AutoCorrect.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

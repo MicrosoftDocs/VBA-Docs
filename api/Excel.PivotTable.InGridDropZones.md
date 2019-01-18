@@ -34,4 +34,3 @@ When the  **InGridDropZones** property is set to **True** , there are in-grid dr
 
 [PivotTable Object](Excel.PivotTable.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

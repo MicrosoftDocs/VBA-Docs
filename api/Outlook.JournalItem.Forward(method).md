@@ -34,4 +34,3 @@ A  **MailItem** object that represents the new mail item.
 
 [JournalItem Object](Outlook.JournalItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

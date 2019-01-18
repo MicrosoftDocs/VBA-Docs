@@ -44,4 +44,3 @@ Application.DefaultWebOptions.RelyOnCSS = True
 
 [DefaultWebOptions Object](Excel.DefaultWebOptions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

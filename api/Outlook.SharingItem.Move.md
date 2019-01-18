@@ -42,4 +42,3 @@ An  **Object** value that represents the item that has been moved to the designa
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

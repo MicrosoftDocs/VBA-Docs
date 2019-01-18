@@ -34,4 +34,3 @@ The name of a  **[Font](Excel.Font(object).md)** object is a **String**.
 
 [Font Object](Excel.Font(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

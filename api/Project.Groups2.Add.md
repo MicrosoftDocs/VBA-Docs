@@ -40,4 +40,3 @@ Adds a  **[Group2](Project.Group2.md)** object to a **Groups2** collection.
 
 [Groups2 Collection Object](Project.groups2.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,4 +44,3 @@ ActiveCell.Characters(1,3).PhoneticCharacters = "フリガナ"
 
 [Characters Object](Excel.Characters.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

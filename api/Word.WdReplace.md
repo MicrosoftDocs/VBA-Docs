@@ -21,4 +21,3 @@ Specifies the number of replacements to be made when find and replace is used.
 | **wdReplaceNone**|0|Replace no occurrences.|
 | **wdReplaceOne**|1|Replace the first occurrence encountered.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

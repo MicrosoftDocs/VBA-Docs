@@ -29,4 +29,3 @@ Converts file to the newest file format and enables all new features.
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -62,4 +62,4 @@ If the  **GetFormulasU** method succeeds, _formulaArray()_ returns a one-dimensi
 
 As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **GetFormulas** method to get more than one formula when you are using local syntax. Use the **GetFormulasU** method to get more than one formula when you are using universal syntax.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

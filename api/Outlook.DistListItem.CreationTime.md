@@ -34,4 +34,3 @@ This property corresponds to the MAPI property  **PidTagCreationTime**.
 
 [DistListItem Object](Outlook.DistListItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

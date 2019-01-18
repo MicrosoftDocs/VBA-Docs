@@ -53,4 +53,3 @@ The  **GoToPage** method of the **DoCmd** object was added to provide backwards 
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

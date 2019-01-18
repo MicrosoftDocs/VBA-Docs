@@ -29,4 +29,3 @@ Returns the identification type for the specified shape. Read-only  **Long**.
 
 [Shape Object](Word.Shape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ This property can be set to  **xlAllValues** , **xlColGroups** , or **xlRowGroup
 
 [Top10 Object](Excel.Top10.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

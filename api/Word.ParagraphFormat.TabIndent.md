@@ -61,4 +61,3 @@ Selection.ParagraphFormat.TabIndent(-1)
 
 [ParagraphFormat Object](Word.ParagraphFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

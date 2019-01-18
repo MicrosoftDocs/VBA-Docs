@@ -60,5 +60,7 @@ To see the results, run  `AutoSaveToGlobal OnOff:=True` in the **Immediate** pan
 6. Click  **Other Views** again, and then click **More Views**. The  **Views** list contains the view you saved.
     
 7. In the  **More Views** dialog box, click **Organizer**. Scroll through the  **Global (+ non-cached Enterprise)** list to see that **R2 View Test** was automatically added to the global template.
+    
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

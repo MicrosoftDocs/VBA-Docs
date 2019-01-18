@@ -28,4 +28,4 @@ If a column is selected, brings up the  **Column Definition** dialog box. Otherw
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

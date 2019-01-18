@@ -40,4 +40,3 @@ _expression_ A variable that represents an [OlkContactPhoto](./Outlook.OlkContac
 
 [OlkContactPhoto Object](Outlook.OlkContactPhoto.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

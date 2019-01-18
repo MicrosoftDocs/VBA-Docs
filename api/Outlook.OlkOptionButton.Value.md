@@ -34,4 +34,3 @@ For the option button control, the value is either  **True** or **False** , repr
 
 [OlkOptionButton Object](Outlook.OlkOptionButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

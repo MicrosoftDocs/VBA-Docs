@@ -34,4 +34,3 @@ Indicates whether the media controls are visible. Read-only.
 
 [SlideShowView Object](PowerPoint.SlideShowView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

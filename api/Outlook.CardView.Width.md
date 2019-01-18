@@ -44,4 +44,3 @@ The default value for this property depends on the  **[DefaultItemType](Outlook.
 
 [CardView Object](Outlook.CardView.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

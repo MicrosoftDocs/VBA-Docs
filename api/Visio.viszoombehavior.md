@@ -25,4 +25,3 @@ Flags used in conjunction with the  **Application.DefaultZoomBehavior** , **Docu
 | **visZoomVisio**|2|Microsoft Visio performs the zoom. The default.|
 | **visZoomVisioExact**|4|Visio zooms when open in place; Visio does not adjust the zoom level.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

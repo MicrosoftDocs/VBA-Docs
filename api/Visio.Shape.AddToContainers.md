@@ -37,4 +37,4 @@ If the underlying container is a list, the shape is added as a normal container 
 
 The  **AddToContainers** method works only if the shape sits at least partially on top of a container that does not already contain it.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -36,4 +36,3 @@ The effect of the  **PercentMax** property varies depending on the setting of th
 
 [Databar Object](Excel.Databar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

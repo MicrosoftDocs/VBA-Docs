@@ -32,4 +32,3 @@ In the Excel user interface, you can view the collection of objects that are mar
 
 [Excel Object Model Reference](./overview/Excel/object-model.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

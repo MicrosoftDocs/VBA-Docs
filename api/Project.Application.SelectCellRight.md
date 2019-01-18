@@ -42,4 +42,4 @@ Selects cells to the right of the current selection.
 
 The  **SelectCellRight** method is not available when the Calendar, Network Diagram, or Resource Graph is the active view.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

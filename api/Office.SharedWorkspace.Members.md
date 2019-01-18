@@ -53,4 +53,3 @@ Dim swsMembers As Office.SharedWorkspaceMembers
 
 [SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

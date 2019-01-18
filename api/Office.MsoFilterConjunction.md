@@ -20,4 +20,3 @@ Specifies how a filter criterion relates to other filter criteria. Used with the
 |**msoFilterConjunctionAnd**|0|And conjunction.|
 |**msoFilterConjunctionOr**|1|Or conjunction.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

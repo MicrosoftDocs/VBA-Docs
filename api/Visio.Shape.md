@@ -255,4 +255,3 @@ To retrieve  **Cell** objects and **Connect** objects, use the **Cells** and **C
 |[Type](./Visio.Shape.Type.md)|
 |[UniqueID](./Visio.Shape.UniqueID.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

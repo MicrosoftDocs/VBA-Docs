@@ -21,4 +21,3 @@ Contains constants that specify the type of information in the list item.
 |**pjValueListPhonetics**|2|Phonetics.|
 |**pjValueListValue**|0|Value.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

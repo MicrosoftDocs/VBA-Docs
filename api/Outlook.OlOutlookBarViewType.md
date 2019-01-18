@@ -27,4 +27,4 @@ Specifies the type of view that is displayed by an  **[OutlookBarGroup](Outlook.
 
 Used by the [ViewType](Outlook.OutlookBarGroup.ViewType.md) property of the [OutlookBarGroup](Outlook.OutlookBarGroup.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

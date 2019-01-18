@@ -37,5 +37,3 @@ Opens or creates a project file from a project site on SharePoint, by using the 
 
 
 [Application Object](Project.Application.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

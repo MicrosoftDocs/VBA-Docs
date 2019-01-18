@@ -41,4 +41,4 @@ Specifies how the start date of a new task is set.
 
 The  **NewTasksStartOn** method corresponds to the **New tasks created** setting on the **Schedule** tab of the **Project Options** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

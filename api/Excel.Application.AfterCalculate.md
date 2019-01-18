@@ -38,4 +38,3 @@ This event occurs after all  **Worksheet**. **Calculate** , **Chart**. **Calcula
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

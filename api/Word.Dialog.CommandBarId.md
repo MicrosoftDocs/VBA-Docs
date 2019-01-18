@@ -29,4 +29,3 @@ Returns a  **Long** that represents the toolbar control id for a built-in Micros
 
 [Dialog Object](Word.Dialog.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

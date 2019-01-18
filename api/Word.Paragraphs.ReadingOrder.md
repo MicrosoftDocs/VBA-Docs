@@ -45,4 +45,3 @@ ActiveDocument.Paragraphs.ReadingOrder = _
 
 [Paragraphs Collection Object](Word.paragraphs.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

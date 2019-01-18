@@ -29,4 +29,3 @@ Returns a  **LinkFormat** object that represents the link options of the specifi
 
 [InlineShape Object](Word.InlineShape.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

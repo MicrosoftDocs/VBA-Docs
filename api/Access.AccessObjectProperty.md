@@ -83,5 +83,3 @@ With the same syntax forms, you can also refer to the  **Value** property of a *
 
 
 [Access Object Model Reference](overview/Access/object-model.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
 [DisplayUnitLabel Object](Word.DisplayUnitLabel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

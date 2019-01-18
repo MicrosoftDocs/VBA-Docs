@@ -34,4 +34,3 @@ For more information on Outlook automatically replacing a Forms 2.0 control by a
 
 [FormRegion Object](Outlook.FormRegion.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

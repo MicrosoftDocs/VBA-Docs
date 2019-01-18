@@ -27,4 +27,3 @@ Specifies the type of selection.
 | **wdSelectionRow**|5|A row selection.|
 | **wdSelectionShape**|8|A shape selection.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -50,4 +50,3 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 [Range Object](Excel.Range(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -36,4 +36,3 @@ Specifies the type of underline to apply.
 | **wdUnderlineWavyHeavy**|27|A heavy wavy line.|
 | **wdUnderlineWords**|2|Underline individual words only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

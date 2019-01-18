@@ -44,4 +44,3 @@ Me.Application.MenuBar
 
 [WebServices Collection](Access.WebServices.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

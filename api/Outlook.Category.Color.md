@@ -133,4 +133,3 @@ End Sub
 
 [Category Object](Outlook.Category.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,3 @@ Specifies whether member shapes are arranged in a list; value returned by the  *
 | **visContainerTypeNormal**|0|Member shapes are not arranged in a list.|
 | **visContainerTypeList**|1|Member shapes are arranged in a list.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

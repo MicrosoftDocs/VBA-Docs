@@ -45,4 +45,3 @@ The type of automatic formatting to apply to the specified table.
 | **pbTableAutoFormatTableOfContents2**|18|Auto Format Table Of Contents2|
 | **pbTableAutoFormatTableOfContents3**|19|Auto Format Table Of Contents3|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

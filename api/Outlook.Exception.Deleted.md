@@ -34,4 +34,3 @@ If this property returns  **True** , then the **AppointmentItem** was deleted fr
 
 [Exception Object](Outlook.Exception.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

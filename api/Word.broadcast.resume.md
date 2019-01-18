@@ -37,4 +37,4 @@ The  **Resume** method returns an error (#4700) if the document is DRM protected
 
 [Broadcast Object](Word.broadcast.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

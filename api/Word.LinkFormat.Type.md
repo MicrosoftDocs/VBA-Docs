@@ -37,4 +37,3 @@ Returns the link type. Read-only  **[WdLinkType](Word.WdLinkType.md)**.
 
 [LinkFormat Object](Word.LinkFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

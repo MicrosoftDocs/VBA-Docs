@@ -40,4 +40,3 @@ You can use the  **SizeToFit** method in conjunction with the **[CreateControl](
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

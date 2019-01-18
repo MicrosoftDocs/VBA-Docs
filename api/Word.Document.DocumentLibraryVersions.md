@@ -41,4 +41,3 @@ Set objVersions = ActiveDocument.DocumentLibraryVersions
 
 [Document Object](Word.Document.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

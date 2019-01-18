@@ -36,4 +36,4 @@ Specifies a document as the Start Page in Microsoft Internet Explorer.
 
  **Boolean**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

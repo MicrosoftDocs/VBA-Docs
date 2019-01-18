@@ -42,4 +42,3 @@ Calling this method sets the  **[IsMarkedAsTask](Outlook.SharingItem.IsMarkedAsT
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

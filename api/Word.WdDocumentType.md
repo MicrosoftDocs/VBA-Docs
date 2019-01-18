@@ -21,4 +21,3 @@ Specifies a document type.
 | **wdTypeFrameset**|2|Frameset.|
 | **wdTypeTemplate**|1|Template.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

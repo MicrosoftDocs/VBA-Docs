@@ -114,4 +114,3 @@ Specifies a Microsoft Word field. Unless otherwise specified, the field types de
 | **wdFieldBibliography**|97|Bibliography field.|
 | **wdFieldCitation**|96|Citation field.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

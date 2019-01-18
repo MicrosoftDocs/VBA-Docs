@@ -49,5 +49,3 @@ End With
 [Shape Object](Project.shape.md)
 [AddConnector Method](Project.shapes.addconnector.md)
 [ConnectorFormat](https://msdn.microsoft.com/library/office/ff820940%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

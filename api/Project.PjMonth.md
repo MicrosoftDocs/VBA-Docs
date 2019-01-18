@@ -30,4 +30,3 @@ Contains constants that specify a month.
 |**pjOctober**|10|October.|
 |**pjSeptember**|9|September.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

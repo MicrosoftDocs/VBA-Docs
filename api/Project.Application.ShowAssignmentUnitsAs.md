@@ -28,4 +28,4 @@ Gets or sets the way assignment units display. Read/write  **PjAssignmentUnits**
 
 The ShowAssignmentUnits property can be one of the following  **[PjAssignmentUnits](Project.PjAssignmentUnits.md)** constants: **pjDecimalAssignmentUnits** or **pjPercentageAssignmentUnits**.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

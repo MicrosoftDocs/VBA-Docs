@@ -31,5 +31,3 @@ To see the  **xlBarShape** enumeration in the Object Browser, show the hidden me
 
 
 [Chart Object](Project.chart.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

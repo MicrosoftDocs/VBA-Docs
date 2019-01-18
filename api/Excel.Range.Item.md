@@ -46,4 +46,5 @@ This example fills the range A1:A10 on Sheet1, based on the contents of cell A1.
 Worksheets("Sheet1").Cells.Item("A1:A10").FillDown.
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

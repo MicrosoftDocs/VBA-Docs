@@ -57,4 +57,3 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyUp
 
 [ListBox Object](Access.ListBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,4 +23,4 @@ You can also use a  **Frame** to create a group of **[ToggleButton](Outlook.togg
 
 To create a group of mutually exclusive  **[OptionButton](Outlook.optionbutton.md)** controls, you can put the buttons in a **Frame** on your form, or you can use the ** [OptionButton.GroupName](Outlook.optionbutton.groupname.md)** property.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

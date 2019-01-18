@@ -34,4 +34,3 @@ This property applies only to bubble charts.
 
 [Series Object](Word.Series.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

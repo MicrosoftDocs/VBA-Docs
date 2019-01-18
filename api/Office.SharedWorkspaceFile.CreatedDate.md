@@ -66,4 +66,3 @@ The following example returns a list of shared workspace files whose date and ti
 
 [SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,4 +39,3 @@ A Long value that represents the number of rows in the Table.
 
 [Table Object](Outlook.Table.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

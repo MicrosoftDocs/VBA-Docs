@@ -75,4 +75,3 @@ End With
 
 [PictureFormat Object](PowerPoint.PictureFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -48,4 +48,4 @@ The following code gets the ID of the reviewer at index position 1 in the drawin
 Debug.Print vsoViewer.ReviewerID(1)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

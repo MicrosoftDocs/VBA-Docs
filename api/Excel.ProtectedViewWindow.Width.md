@@ -34,4 +34,3 @@ You cannot set this property if the  **Protected View** window is maximized or m
 
 [ProtectedViewWindow Object](Excel.ProtectedViewWindow.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -42,4 +42,3 @@ A  **ColorStops** object contained by the collection.
 
 [ColorStops Object](Excel.ColorStops.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

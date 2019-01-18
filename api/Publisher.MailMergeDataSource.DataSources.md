@@ -28,4 +28,4 @@ Returns the  **MailMergeDataSources** collection that includes the parent **Mail
 
 MailMergeDataSources
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -88,4 +88,3 @@ ActiveProject.Calendar.Years(2008).Months(pjSeptember).Days.Count
 |[Shift5](Project.Day.Shift5.md)|
 |[Working](Project.Day.Working.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

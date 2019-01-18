@@ -116,4 +116,3 @@ An outline code is a type of local custom field that has a hierarchical text loo
 |[RequiredCode](Project.OutlineCode.RequiredCode.md)|
 |[SortOrder](Project.OutlineCode.SortOrder.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

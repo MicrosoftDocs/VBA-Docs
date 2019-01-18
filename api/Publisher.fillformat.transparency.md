@@ -39,4 +39,3 @@ The value of this property affects the appearance of solid-colored fills only. I
 
  [FillFormat Object](Publisher.FillFormat.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

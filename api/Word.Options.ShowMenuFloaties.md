@@ -29,4 +29,3 @@ Returns or sets a  **Boolean** that represents whether to display mini toolbars 
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

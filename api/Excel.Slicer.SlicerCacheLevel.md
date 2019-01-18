@@ -39,4 +39,3 @@ This property only applies to OLAP data sources.
 
 [Slicer Object](Excel.Slicer.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

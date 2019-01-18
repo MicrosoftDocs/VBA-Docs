@@ -58,4 +58,3 @@ Debug.Print Modules.Item(0)
 
 [DependencyObjects Collection](Access.DependencyObjects.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

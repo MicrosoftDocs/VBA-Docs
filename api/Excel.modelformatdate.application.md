@@ -42,4 +42,4 @@ End If
 
 [ModelFormatDate Object](Excel.modelformatdate.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

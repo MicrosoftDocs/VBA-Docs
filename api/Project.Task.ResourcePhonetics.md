@@ -28,4 +28,4 @@ Gets the phonetic representation of a resource name. Read-only  **String**.
 
 The  **ResourcePhonetics** property only produces tangible results if the Japanese version of Project is used.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

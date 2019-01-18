@@ -42,4 +42,3 @@ String
 
 [FontNames Object](Word.FontNames.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

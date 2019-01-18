@@ -57,4 +57,4 @@ If  _TargetDocument_ is null, the custom UI is defined at the level of the appli
 
 If  _FriendlyName_ is null, the method fails.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

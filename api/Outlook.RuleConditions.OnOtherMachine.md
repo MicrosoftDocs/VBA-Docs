@@ -38,4 +38,3 @@ You cannot programmatically enable or disable a condition of type  **olCondition
 
 [RuleConditions Object](Outlook.RuleConditions.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

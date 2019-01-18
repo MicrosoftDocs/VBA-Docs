@@ -36,5 +36,3 @@ picEffect.EffectParameters(1).Value = MsoPictureEffectType.msoEffectColorTempera
 ## See also
 
 - [EffectParameter object members](overview/library-reference/effectparameter-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ Use the  **Application** property to return the **Application** object. The foll
 myChart.Application.DataSheet.Range("A1").Value = 32
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

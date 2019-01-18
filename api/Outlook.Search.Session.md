@@ -44,4 +44,3 @@ Set objSession = Application.Session
 
 [Search Object](Outlook.Search.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

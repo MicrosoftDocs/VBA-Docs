@@ -34,4 +34,3 @@ If the window is split, the  **ScrollColumn** property of the **[Window](Excel.W
 
 [Pane Object](Excel.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

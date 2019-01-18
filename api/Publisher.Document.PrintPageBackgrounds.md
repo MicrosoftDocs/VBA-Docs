@@ -43,4 +43,4 @@ The following example sets page backgrounds to print for the active publication.
 ActiveDocument.PrintPageBackgrounds = True
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

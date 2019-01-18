@@ -65,4 +65,3 @@ The following table lists descriptions of how different actions by the user affe
 
 [PivotCell Object](Excel.PivotCell.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

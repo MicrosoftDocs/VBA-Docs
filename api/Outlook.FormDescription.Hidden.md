@@ -34,4 +34,3 @@ The custom form will not appear on the menu or in the  **Choose Form** dialog bo
 
 [FormDescription Object](Outlook.FormDescription.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -29,4 +29,3 @@ Returns or sets the number of the selected item in a drop-down form field. Read/
 
 [DropDown Object](Word.DropDown.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

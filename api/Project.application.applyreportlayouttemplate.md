@@ -75,5 +75,3 @@ End Sub
 
 [Report Object](Project.report.md)
 [PjReportLayoutTemplateId Enumeration](Project.pjreportlayouttemplateid.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

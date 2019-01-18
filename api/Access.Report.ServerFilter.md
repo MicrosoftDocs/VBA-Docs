@@ -72,4 +72,3 @@ When the  **ServerFilter** property is set in form Design view, Microsoft Access
 
 [Report Object](Access.Report.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

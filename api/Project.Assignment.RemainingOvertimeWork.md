@@ -20,4 +20,4 @@ Gets the remaining overtime work (in minutes) for the assignment. Read/write  **
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

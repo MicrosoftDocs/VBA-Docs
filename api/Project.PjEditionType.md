@@ -20,4 +20,3 @@ Contains constants that specify the edition of Project.
 |**pjEditionProfessional**|1|Professional edition.|
 |**pjEditionStandard**|0|Standard edition.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,4 +26,4 @@ localization_priority: Normal
 
  **&lt;unknown type&gt;**
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

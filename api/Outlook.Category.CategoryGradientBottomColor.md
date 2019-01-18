@@ -36,4 +36,3 @@ This color should be used to display a gradient-shaded color swatch for the  **C
 
 [Category Object](Outlook.Category.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

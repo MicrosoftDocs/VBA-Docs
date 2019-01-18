@@ -28,4 +28,4 @@ Gets the index of a  **CodeMaskLevel** object in the containing **CodeMask** col
 
 The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

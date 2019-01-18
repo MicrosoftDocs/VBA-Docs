@@ -37,4 +37,4 @@ This example assigns the name of the first trendline to the variable myTrendname
 myTrendname = myChart.SeriesCollection(1).Trendlines(1).Name
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

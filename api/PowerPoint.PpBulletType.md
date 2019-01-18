@@ -23,4 +23,3 @@ Specifies the type of bullet.
 |**ppBulletPicture**|3|Bullets with an image|
 |**ppBulletUnnumbered**|1|Unnumbered bullets|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

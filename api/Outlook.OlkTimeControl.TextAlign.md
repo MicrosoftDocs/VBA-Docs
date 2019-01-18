@@ -34,4 +34,3 @@ The default value is  **olTextAlignLeft** in left-to-right languages such as Eng
 
 [OlkTimeControl Object](Outlook.OlkTimeControl.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

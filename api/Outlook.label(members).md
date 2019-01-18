@@ -45,4 +45,5 @@ Displays descriptive text.
 |:-----|:-----|
 | [Click](Outlook.Label.click.md)|Occurs when the user clicks inside the control.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

@@ -29,4 +29,3 @@ _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
 [Style Object](Excel.Style.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

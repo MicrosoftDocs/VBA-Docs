@@ -69,4 +69,4 @@ Set thePage = ActiveDocument.Pages.Add(Count:=2, _
 Set thePage2 = ActiveDocument.Pages.Add(Count:=1, After:=6)
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -34,4 +34,3 @@ If the  **SharingItem** was just created, this property returns a **[Folder](Out
 
 [SharingItem Object](Outlook.SharingItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

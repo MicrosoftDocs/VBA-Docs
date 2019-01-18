@@ -33,4 +33,3 @@ Specifies a printer paper tray.
 | **wdPrinterTractorFeed**|8|Tractor feed.|
 | **wdPrinterUpperBin**|1|Upper bin.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,4 +34,3 @@ This property returns  **olNavigationFolders** for the **[NavigationFolders](Out
 
 [NavigationFolders Object](Outlook.NavigationFolders.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

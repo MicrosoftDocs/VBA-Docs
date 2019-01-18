@@ -29,4 +29,3 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the upper limit of
 
 [OMathNary Object](Word.OMathNary.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

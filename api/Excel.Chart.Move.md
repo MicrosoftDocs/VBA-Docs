@@ -43,4 +43,3 @@ If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new 
 
 [Chart Object](Excel.Chart(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

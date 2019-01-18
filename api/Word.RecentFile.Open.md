@@ -49,4 +49,3 @@ End Sub
 
 [RecentFile Object](Word.RecentFile.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

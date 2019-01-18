@@ -30,4 +30,3 @@ _expression_ Required. A variable that represents a **[FileDialog](Office.FileDi
 
 - [FileDialog object members](overview/library-reference/filedialog-members-office.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

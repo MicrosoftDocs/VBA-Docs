@@ -28,4 +28,4 @@ Gets or sets the control type of a menu. Read/write.
 
 Integer
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

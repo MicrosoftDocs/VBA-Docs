@@ -34,4 +34,3 @@ This property works only when you are in Web layout view.
 
 [Pane Object](Word.Pane.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -32,4 +32,3 @@ Activates a Microsoft application if the application is running or starts a new 
 |:-----|:-----|:-----|:-----|
 | _Index_|Required|**Long**|Specifies the Microsoft application to activate. Can be one of the  **[PjMSApplication](Project.PjMSApplication.md)** constants.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

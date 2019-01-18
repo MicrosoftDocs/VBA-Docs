@@ -48,4 +48,3 @@ When created, controls have an attached label (as long as their  **AutoLabel** p
 
 [CommandButton Object](Access.CommandButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

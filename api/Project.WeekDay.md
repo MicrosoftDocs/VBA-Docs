@@ -54,4 +54,3 @@ Use the  **[Weekdays](Project.Calendar.WeekDays.md)** property to return a **Wee
 |[Shift5](Project.WeekDay.Shift5.md)|
 |[Working](Project.WeekDay.Working.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

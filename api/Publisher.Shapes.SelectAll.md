@@ -33,4 +33,4 @@ This example selects all the shapes on page one of the active publication.
 ActiveDocument.Pages(1).Shapes.SelectAll
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

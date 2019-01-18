@@ -29,4 +29,3 @@ Returns the object associated with the specified comment. Read-only  **Object**.
 
 [Comment Object](Visio.comment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

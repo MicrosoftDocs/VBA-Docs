@@ -58,4 +58,3 @@ Given a value for probability, GAMMA_INV seeks that value x such that GAMMA_DIST
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

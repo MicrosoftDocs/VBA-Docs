@@ -26,4 +26,3 @@ Deletes the  **WorkWeek** object from a **WorkWeeks** collection.
 
 [WorkWeek Object](Project.WorkWeek.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

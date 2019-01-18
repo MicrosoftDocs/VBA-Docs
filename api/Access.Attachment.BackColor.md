@@ -38,4 +38,3 @@ To use the  **BackColor** property, the **BackStyle** property, if available, mu
 
 [Attachment Object](Access.Attachment.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

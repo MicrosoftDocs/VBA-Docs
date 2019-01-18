@@ -21,4 +21,3 @@ Provides information about the digital certificate.
 |**certdetSubject**|1|The holder of a Private Key corresponding to a Public Key.|
 |**certdetThumbprint**|4|A hash of the certificate's complete contents.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

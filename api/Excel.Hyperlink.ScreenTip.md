@@ -44,4 +44,3 @@ ActiveSheet.Hyperlinks(1).ScreenTip = "Return to the home page"
 
 [Hyperlink Object](Excel.Hyperlink.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

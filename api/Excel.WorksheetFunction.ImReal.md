@@ -47,4 +47,3 @@ Use COMPLEX to convert real and imaginary coefficients into a complex number.
 
 [WorksheetFunction Object](Excel.WorksheetFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

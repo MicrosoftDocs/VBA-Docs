@@ -32,4 +32,3 @@ Used with the [SetProperty](Access.DoCmd.SetProperty.md) method to specify which
 |**acPropertyVisible**|1|Set the  **Visible** property.|
 |**acPropertyWidth**|5|Set the  **Width** property.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

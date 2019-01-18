@@ -44,4 +44,3 @@ If you attempt to open an "unsafe" file system object (or "freedoc" file) by usi
 
 [TaskRequestDeclineItem Object](Outlook.TaskRequestDeclineItem.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

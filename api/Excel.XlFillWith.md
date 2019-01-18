@@ -21,4 +21,3 @@ Specifies how to copy the range.
 | **xlFillWithContents**|2|Copy contents only.|
 | **xlFillWithFormats**|-4122|Copy formats only.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -95,4 +95,3 @@ ActiveProject.Calendar.Years(2012).Months.Count
 |[Shift5](Project.Month.Shift5.md)|
 |[Working](Project.Month.Working.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

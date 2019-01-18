@@ -29,4 +29,3 @@ Returns an  **[OMathRad](Word.OMathRad.md)** object that represents the mathemat
 
 [OMathFunction Object](Word.OMathFunction.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

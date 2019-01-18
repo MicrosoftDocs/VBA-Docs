@@ -34,4 +34,3 @@ When using this property for the horizontal axis of scatter charts,  **xlCategor
 
 [Axis Object](Excel.Axis(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

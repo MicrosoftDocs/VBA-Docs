@@ -37,4 +37,3 @@ _expression_ A variable that represents a [SlicerCache object (Excel)](Excel.Sli
 
 [SlicerCache Object](Excel.SlicerCache.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

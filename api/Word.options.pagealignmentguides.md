@@ -37,4 +37,3 @@ If  **PageAlignmentGuides** is set to **True**, page alignment guides are displa
 
 [Options Object](Word.Options.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

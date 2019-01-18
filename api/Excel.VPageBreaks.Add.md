@@ -55,4 +55,3 @@ End With
 
 [VPageBreaks Object](Excel.VPageBreaks.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

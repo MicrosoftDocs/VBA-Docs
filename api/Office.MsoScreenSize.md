@@ -29,4 +29,3 @@ Specifies the ideal screen resolution to be used to view a document in a Web bro
 |**msoScreenSize720x512**|2|720x512 resolution.|
 |**msoScreenSize800x600**|3|800x600 resolution.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

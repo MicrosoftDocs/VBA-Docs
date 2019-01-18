@@ -44,4 +44,4 @@ The  **CustomizeIMEMode** method produces tangible results only if an East Asian
 
 Using the  **CustomizeIMEMode** method without specifying any arguments displays the **Customize IME Mode** dialog box.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

@@ -54,4 +54,3 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 
 [CustomViews Object](Excel.CustomViews.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

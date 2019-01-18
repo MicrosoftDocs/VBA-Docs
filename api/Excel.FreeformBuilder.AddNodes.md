@@ -78,4 +78,3 @@ End With
 
 [FreeformBuilder Object](Excel.FreeformBuilder.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

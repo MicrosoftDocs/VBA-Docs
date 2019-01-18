@@ -23,4 +23,3 @@ This enumeration is not implemented. Do not use.
 | **pbMergeInfoFromODSO**|5|From ODSO|
 | **pbMergeInfoSubODSO**|6|Sub ODSO|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

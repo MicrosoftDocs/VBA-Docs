@@ -30,5 +30,3 @@ The  **Index** properties of other objects are used in similar ways. For an exam
 
 
 [Exception Object](Project.Exception.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

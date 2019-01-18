@@ -37,4 +37,3 @@ Returns or sets a  **String** that represents the physical location of the XSL t
 
 [XSLTransform Object](Word.XSLTransform.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ _expression_ A variable that represents a [XmlDataBinding](./Excel.XmlDataBindin
 
 [XmlDataBinding Object](Excel.XmlDataBinding.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -46,4 +46,3 @@ End With
 
 [EmailSignature Object](Word.EmailSignature.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

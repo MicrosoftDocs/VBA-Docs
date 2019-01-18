@@ -54,4 +54,3 @@ Forms("Purchase Orders").Controls("Section Separator").LineSlant = True
 
 [Line Object](Access.Line.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

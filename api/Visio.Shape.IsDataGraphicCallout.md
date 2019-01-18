@@ -33,4 +33,4 @@ Boolean
 
 If the parent shape is a data graphic callout, the  **IsDataGraphicCallout** method returns **True**. If the shape is not a data graphic callout, the method returns **False**. Note that the method also returns **False** if the parent shape is a sub-shape of a shape that is a data graphic callout.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

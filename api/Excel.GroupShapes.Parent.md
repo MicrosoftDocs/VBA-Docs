@@ -29,4 +29,3 @@ _expression_ A variable that represents a [GroupShapes](Excel.GroupShapes.md) ob
 
 [GroupShapes Object](Excel.GroupShapes.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -101,5 +101,3 @@ End Sub
 [Shape.Copy Method](Project.shape.copy.md)
 [PasteDestFormatting Method](Project.application.pastedestformatting.md)
 [PasteAsPicture Method](Project.application.pasteaspicture.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

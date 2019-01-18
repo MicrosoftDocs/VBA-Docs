@@ -44,4 +44,3 @@ The  **OpenConnection** method is similar to the **Open** method of an ADO **Con
 
 [CodeProject Object](Access.CodeProject.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

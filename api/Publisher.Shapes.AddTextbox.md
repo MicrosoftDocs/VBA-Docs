@@ -70,4 +70,4 @@ Set shpTextBox = ActiveDocument.Pages(1).Shapes.AddTextBox _
 
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

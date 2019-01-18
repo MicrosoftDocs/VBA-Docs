@@ -44,4 +44,3 @@ When you use  **FuriganaControl** property in ADP file, be sure to change the da
 
 [TextBox Object](Access.TextBox.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

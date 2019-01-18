@@ -57,4 +57,4 @@ If you pass  **visLegendPopulate** for the _populateFlags_ parameter, Visio inse
 
 If you pass  **visLegendNoContents** for the _populateFlags_ parameter, Visio inserts a legend that consists of the outer list shape as well as a single inner container shape, which contains an inner list shape but has no heading text.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

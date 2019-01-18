@@ -28,4 +28,4 @@ Returns the section that contains a row. Read-only.
 
 Section
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

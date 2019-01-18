@@ -36,4 +36,3 @@ If you don't set a caption for a form, button, or label, Microsoft Access will a
 
 [ToggleButton Object](Access.ToggleButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

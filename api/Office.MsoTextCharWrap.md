@@ -23,4 +23,3 @@ Indicates the type of text wrap.
 |**msoStandardCharWrap**|1|Specifies wrapping text around the standard boundry of an object.|
 |**msoStrictCharWrap**|2|Specifies text wrapping that adheres to restrictions imposed by some languages such as Chinese and Japanese alphabets.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

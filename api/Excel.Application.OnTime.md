@@ -80,4 +80,3 @@ Application.OnTime EarliestTime:=TimeValue("17:00:00"), _
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

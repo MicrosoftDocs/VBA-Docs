@@ -47,4 +47,3 @@ If no report has the focus when you use the  **ActiveReport** property, an error
 
 [Screen Object](Access.Screen.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

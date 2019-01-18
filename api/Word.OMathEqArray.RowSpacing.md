@@ -29,4 +29,3 @@ Returns or sets a  **Long** that represents the spacing between the rows in an e
 
 [OMathEqArray Object](Word.OMathEqArray.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

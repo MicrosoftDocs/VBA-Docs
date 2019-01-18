@@ -66,5 +66,3 @@ End Sub
 [ShapeRange Object](Project.shaperange.md)
 [Shape.TextEffect Property](Project.shape.texteffect.md)
 [TextEffectFormat](https://msdn.microsoft.com/library/office/ff834714%28v=office.15%29)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

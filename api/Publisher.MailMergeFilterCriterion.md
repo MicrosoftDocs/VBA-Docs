@@ -76,4 +76,3 @@ End Sub
 |[Index](Publisher.MailMergeFilterCriterion.Index.md)|
 |[Parent](Publisher.MailMergeFilterCriterion.Parent.md)|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

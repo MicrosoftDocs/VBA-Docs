@@ -53,4 +53,3 @@ End With
 
 [Databar Object](Excel.Databar.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

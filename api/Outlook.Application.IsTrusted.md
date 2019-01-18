@@ -34,4 +34,3 @@ For out-of-process callers that have instantiated the  **[Application](Outlook.A
 
 [Application Object](Outlook.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -24,4 +24,3 @@ Specifies the alignment for the  **[Label](Outlook.ColumnFormat.Label.md)** prop
 | **olAlignLeft**|0|Indicates that the label for the specified column should be left-aligned.|
 | **olAlignRight**|2|Indicates that the label for the specified column should be right-aligned.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

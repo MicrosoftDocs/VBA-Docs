@@ -29,5 +29,3 @@ Object
 ## See also
 
 - [CustomXMLNodes object members](overview/library-reference/customxmlnodes-members-office.md)
-
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,4 +37,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [AutoCaption Object](Word.AutoCaption.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

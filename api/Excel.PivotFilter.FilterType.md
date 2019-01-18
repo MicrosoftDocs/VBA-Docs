@@ -106,4 +106,3 @@ The following table shows the new filter types, the arguments that must be suppl
 
 [PivotFilter Object](Excel.PivotFilter.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

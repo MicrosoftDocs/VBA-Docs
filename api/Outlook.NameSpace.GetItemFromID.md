@@ -50,4 +50,3 @@ For more information about Entry IDs, see the  **[EntryID](Outlook.Folder.EntryI
 
 [NameSpace Object](Outlook.NameSpace.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

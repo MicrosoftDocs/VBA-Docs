@@ -34,4 +34,3 @@ If the object was created in Microsoft Word, the  **Creator** property returns t
 
 [OMathFrac Object](Word.OMathFrac.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

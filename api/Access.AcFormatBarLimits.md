@@ -24,4 +24,3 @@ Specifies how the threshold values for a Data Bar is determined.
 |**acNumber**|1|A number is used.|
 |**acPercent**|2|A percentage is used.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

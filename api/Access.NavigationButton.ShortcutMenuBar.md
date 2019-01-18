@@ -53,4 +53,3 @@ Forms("Suppliers").ShortcutMenuBar = "Suppliers_Toolbar"
 
 [NavigationButton Object](Access.NavigationButton.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

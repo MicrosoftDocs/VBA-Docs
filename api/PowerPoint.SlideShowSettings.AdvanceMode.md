@@ -40,4 +40,3 @@ The value of the  **AdvanceMode** property can be one of these **PpSlideShowAdva
 
 [SlideShowSettings Object](PowerPoint.SlideShowSettings.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

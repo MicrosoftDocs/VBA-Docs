@@ -38,4 +38,3 @@ The height of controls is measured from the center of their borders so controls 
 
 [Label Object](Access.Label.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

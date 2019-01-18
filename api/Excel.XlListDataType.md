@@ -31,4 +31,3 @@ Specifies the data type of a list column connected to a Microsoft SharePoint Fou
 | **xlListDataTypeNumber**|3|Numerical.|
 | **xlListDataTypeText**|1|Plain text.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

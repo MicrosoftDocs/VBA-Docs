@@ -41,4 +41,4 @@ Nothing
 
 When  _fDeleteShapes_ is non-zero, shapes assigned only to the deleted layer are deleted. Otherwise, the shapes are simply no longer assigned to that layer.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

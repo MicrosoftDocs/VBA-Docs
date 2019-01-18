@@ -21,4 +21,3 @@ Specifies the type of shadowing effect.
 |**msoShadowStyleMixed**|-2|Specifies a combination of inner and outer shadow effects.|
 |**msoShadowStyleOuterShadow**|2|Specifies the outer shadow effect.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

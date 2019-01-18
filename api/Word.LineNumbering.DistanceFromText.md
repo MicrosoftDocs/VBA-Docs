@@ -43,4 +43,3 @@ End With
 
 [LineNumbering Object](Word.LineNumbering.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

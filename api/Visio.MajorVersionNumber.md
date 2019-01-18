@@ -40,4 +40,4 @@ The following code displays the major version number in the  **Immediate** windo
 Debug.Print vsoViewer.MajorVersionNumber
 ```
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

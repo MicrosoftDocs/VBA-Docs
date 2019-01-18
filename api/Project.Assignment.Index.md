@@ -25,4 +25,4 @@ Gets the index of an  **Assignment** object in the containing **Assignments** co
 
 The  **Index** properties of other objects are used in similar ways. For an example, see the **[Index](Project.Project.Index.md)** property of the **Project** object.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

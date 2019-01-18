@@ -28,4 +28,4 @@ Indicates the format in which the data file should be created.
 
 Used as a parameter to the [NameSpace.AddStoreEx Method (Outlook)](Outlook.NameSpace.AddStoreEx.md).
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

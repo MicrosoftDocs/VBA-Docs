@@ -27,4 +27,3 @@ Specifies the active record in a mail merge result set.
 | **wdPreviousDataSourceRecord**|-9|The previous record in the data source.|
 | **wdPreviousRecord**|-3|The previous record in the result set.|
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

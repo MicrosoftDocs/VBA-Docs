@@ -48,4 +48,3 @@ For more information about AXL, see [[MS-AXL]: Access Application Transfer Proto
 
 [Application Object](Access.Application.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

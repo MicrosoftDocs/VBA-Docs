@@ -32,4 +32,4 @@ Use the  **ForeColor** property for controls on forms to make them easy to read 
 
 The  **ForeColor** changes the color of the caption.
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

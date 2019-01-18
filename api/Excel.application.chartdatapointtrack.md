@@ -37,4 +37,3 @@ Data labels will now track the  _actual_ data point to which they are attached (
 
 [Application Object](Excel.Application(object).md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

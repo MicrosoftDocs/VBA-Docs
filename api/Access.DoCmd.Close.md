@@ -81,4 +81,3 @@ DoCmd.Close acForm, "Order Review", acSaveYes
 
 [DoCmd Object](Access.DoCmd.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]

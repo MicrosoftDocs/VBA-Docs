@@ -70,4 +70,3 @@ End Sub
 
 [GroupLevel Object](Access.GroupLevel.md)
 
-[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
