@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.MetaProperty.Validate
 ms.assetid: e8037c82-a9bd-936f-fbf1-03c35d83685b
-ms.date: 06/08/2017
+ms.date: 01/18/2019
 localization_priority: Normal
 ---
 
 
 # MetaProperty.Validate method (Office)
 
-Validates a  **MetaProperty** object representing a single property value according to a schema.
+Validates a **MetaProperty** object representing a single property value according to a schema.
 
 
 ## Syntax
 
-_expression_. `Validate`
+_expression_.**Validate**
 
- _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
+_expression_ An expression that returns a **[MetaProperty](Office.MetaProperty.md)** object.
 
 
 ## Return value
@@ -36,7 +36,7 @@ If the property is invalid, the test fails and an error message is returned. The
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
+In the following example, a **[MetaProperties](Office.MetaProperties.md)** object is passed to a validation function. The function then validates the value of a single property represented by its index and returns the result.
 
 
 ```vb
@@ -51,11 +51,8 @@ End Function
 
 ## See also
 
-
-[MetaProperty Object](Office.MetaProperty.md)
-
+- [MetaProperty object members](overview/Library-Reference/metaproperty-members-office.md)
 
 
-[MetaProperty Object Members](./overview/Library-Reference/metaproperty-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
