@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MetaProperties.GetItemByInternalName
 ms.assetid: 27c6bcd8-8631-1dbe-5df1-67c33b757c03
-ms.date: 06/08/2017
+ms.date: 01/18/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Gets a property's value specifying its name as opposed to its index value.
 
 ## Syntax
 
-_expression_. `GetItemByInternalName`( `_InternalName_` )
+_expression_.**GetItemByInternalName**(_InternalName_)
 
- _expression_ An expression that returns a [MetaProperty](Office.MetaProperty.md) object.
+_expression_ An expression that returns a **[MetaProperties](Office.MetaProperties.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -44,7 +42,7 @@ Metadata is information about a document that can be used to identify particular
 
 ## Example
 
-In the following example, a  **MetaProperties** object is passed to a validation function. The function then retrieves the value of one of its properties and assigns it to a **MetaProperty** object. Finally, the property is validated and the results are returned.
+In the following example, a **MetaProperties** object is passed to a validation function. The function then retrieves the value of one of its properties and assigns it to a **MetaProperty** object. Finally, the property is validated and the results are returned.
 
 
 ```vb
@@ -62,11 +60,11 @@ End Function
 
 ## See also
 
-
-[MetaProperties Object](Office.MetaProperties.md)
-
+- [MetaProperties object members](overview/Library-Reference/metaproperties-members-office.md)
 
 
-[MetaProperties Object Members](./overview/Library-Reference/metaproperties-members-office.md)
+
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: Applying Formatting to Text
+title: Applying formatting to text
 keywords: vbawd10.chm5209915
 f1_keywords:
 - vbawd10.chm5209915
@@ -10,23 +10,9 @@ localization_priority: Priority
 ---
 
 
-# Applying Formatting to Text
+# Applying formatting to text
 
-This topic includes Visual Basic examples related to the following tasks:
-
-
--  [Applying formatting to the selection](#Selection)
-    
--  [Applying formatting to a range](#Range)
-    
--  [Inserting text and applying character and paragraph formatting](#Inserting)
-    
--  [Switching the space before a paragraph between 12 points and none](#TogglingSpace)
-    
--  [Switching bold formatting on and off](#TogglingBold)
-    
--  [Increasing the left margin by 0.5 inch](#Increasing)
-    
+This topic includes Visual Basic examples related to the tasks in the following sections.
 
 ## Applying formatting to the selection
 
@@ -136,5 +122,7 @@ Sub FormatMargins()
  End With 
 End Sub
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
