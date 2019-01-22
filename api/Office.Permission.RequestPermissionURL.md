@@ -7,38 +7,37 @@ ms.prod: office
 api_name:
 - Office.Permission.RequestPermissionURL
 ms.assetid: 7d37d706-a7bf-9cb0-8930-299bd2bf37b0
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # Permission.RequestPermissionURL property (Office)
 
-Gets or sets the file or Web site URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.
+Gets or sets the file or website URL to visit or the email address to contact for users who need additional permissions on the active document. Read/write.
 
 
 ## Syntax
 
-_expression_. `RequestPermissionURL`
+_expression_.**RequestPermissionURL**
 
-_expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a **[Permission](Office.Permission.md)** object.
 
 
 ## Remarks
 
-The ** RequestPermissionURL** setting corresponds to the **Users can request additional permissions from** option in the permissions user interface. Use the **RequestPermissionURL** property to specify a file, a Web site, or an email contact from which users can request, or learn how to request, additional permissions on the active document, for example:
+The **RequestPermissionURL** setting corresponds to the **Users can request additional permissions from** option in the permissions user interface. Use the **RequestPermissionURL** property to specify a file, a website, or an email contact from which users can request, or learn how to request, additional permissions on the active document; for example:
 
-
-- A Web address:  `https://companyserver/request_permissions.asp`
+- A web address: `https://companyserver/request_permissions.asp`
     
-- A file:  `\\companyserver\share\requesting_permissions.txt`
+- A file: `\\companyserver\share\requesting_permissions.txt`
     
-- An email address:  `mailto:permissionsmgr@example.com?Subject=Request%20permissions`
+- An email address: `mailto:permissionsmgr@example.com?Subject=Request%20permissions`
     
 
 ## Example
 
-The following example displays information about the permissions settings of the active document, including the  **RequestPermissionURL** setting.
+The following example displays information about the permissions settings of the active document, including the **RequestPermissionURL** setting.
 
 
 ```vb
@@ -71,11 +70,8 @@ The following example displays information about the permissions settings of the
 
 ## See also
 
-
-[Permission Object](Office.Permission.md)
-
+- [Permission object members](overview/library-reference/permission-members-office.md)
 
 
-[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

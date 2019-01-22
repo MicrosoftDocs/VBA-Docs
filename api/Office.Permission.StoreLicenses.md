@@ -7,31 +7,31 @@ ms.prod: office
 api_name:
 - Office.Permission.StoreLicenses
 ms.assetid: c08e088c-8cdf-baa0-56e4-3d4d6f3caab8
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # Permission.StoreLicenses property (Office)
 
-Gets or sets a  **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
+Gets or sets a **Boolean** value that indicates whether the user's license to view the active document should be cached to allow offline viewing when the user cannot connect to a rights management server. Read/write.
 
 
 ## Syntax
 
-_expression_. `StoreLicenses`
+_expression_.**StoreLicenses**
 
-_expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a **[Permission](Office.Permission.md)** object.
 
 
 ## Remarks
 
-The  **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it when content is protected using the Information Rights Management service provided in Microsoft Office.
+The **StoreLicenses** property corresponds to (and its value is the opposite of) the **Require a connection to verify a user's permission** option in the permissions user interface. When **StoreLicenses** is **False**, users other than the document owner must connect to the rights management server and acquire the license to work with the document each time they open it, when content is protected by using the Information Rights Management service provided in Microsoft Office.
 
 
 ## Example
 
-The following example displays information about the permissions settings of the active document, including the  **StoreLicenses** setting.
+The following example displays information about the permissions settings of the active document, including the **StoreLicenses** setting.
 
 
 ```vb
@@ -64,11 +64,8 @@ The following example displays information about the permissions settings of the
 
 ## See also
 
-
-[Permission Object](Office.Permission.md)
-
+- [Permission object members](overview/library-reference/permission-members-office.md)
 
 
-[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

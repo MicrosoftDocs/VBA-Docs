@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Permission.ApplyPolicy
 ms.assetid: d1904d11-d212-de2f-19cb-78911136ccd7
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Applies the specified permission policy to the active document.
 
 ## Syntax
 
-_expression_. `ApplyPolicy`( `_FileName_` )
+_expression_.**ApplyPolicy** (_FileName_)
 
-_expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a **[Permission](Office.Permission.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,7 +32,7 @@ _expression_ A variable that represents a [Permission](Office.Permission.md) obj
 
 ## Remarks
 
-Microsoft Office Information Rights Management supports the use of administrative permission policies which list users and groups and their document permissions. The  **ApplyPolicy** method applies a permission policy to the active document.
+Microsoft Office Information Rights Management supports the use of administrative permission policies that list users and groups and their document permissions. The **ApplyPolicy** method applies a permission policy to the active document.
 
 
 ## Example
@@ -66,11 +64,8 @@ The following example enables permissions on the active document and applies an 
 
 ## See also
 
-
-[Permission Object](Office.Permission.md)
-
+- [Permission object members](overview/library-reference/permission-members-office.md)
 
 
-[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

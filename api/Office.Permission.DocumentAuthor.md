@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Permission.DocumentAuthor
 ms.assetid: d756c476-8adf-a302-9356-e491b0ae9bf7
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
@@ -19,18 +19,18 @@ Gets or sets the name in email form of the author of the active document. Read/w
 
 ## Syntax
 
-_expression_. `DocumentAuthor`
+_expression_.**DocumentAuthor**
 
-_expression_ A variable that represents a [Permission](Office.Permission.md) object.
+_expression_ A variable that represents a **[Permission](Office.Permission.md)** object.
 
 
 ## Remarks
 
-The  **DocumentAuthor** property returns or sets the author of the active document. The author always has non-expiring owner rights to the document, whether owner permission is granted explicitly (through a **[UserPermission](Office.userPermission.md)** object) or not.
+The **DocumentAuthor** property returns or sets the author of the active document. The author always has non-expiring owner rights to the document, whether owner permission is granted explicitly (through a **[UserPermission](Office.userPermission.md)** object) or not.
 
-The  **DocumentAuthor** property can only be changed to a different account that has been certified through the permissions user interface to open restricted content on the local computer. In most cases, users who have a single Windows account can only choose between their Windows and their Passport identities.
+The **DocumentAuthor** property can only be changed to a different account that has been certified through the permissions user interface to open restricted content on the local computer. In most cases, users who have a single Windows account can only choose between their Windows and Passport identities.
 
-If the user's Microsoft Windows and Passport identities use the same email address, then use the format  `passport:someone@example.com` to specify the Passport identity as the **DocumentAuthor** property.
+If the user's Windows and Passport identities use the same email address, use the format `passport:someone@example.com` to specify the Passport identity as the **DocumentAuthor** property.
 
 
 ## Example
@@ -68,11 +68,8 @@ The following example displays information about the permissions settings of the
 
 ## See also
 
-
-[Permission Object](Office.Permission.md)
-
+- [Permission object members](overview/library-reference/permission-members-office.md)
 
 
-[Permission Object Members](./overview/Library-Reference/permission-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
