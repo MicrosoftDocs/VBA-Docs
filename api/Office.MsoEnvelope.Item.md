@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.MsoEnvelope.Item
 ms.assetid: cc13343c-dea5-152f-b123-441a4120c22c
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # MsoEnvelope.Item property (Office)
 
-Gets a  **MailItem** object that can be used to send the document as an email. Read-only.
+Gets a **MailItem** object that can be used to send the document as an email. Read-only.
 
 
 ## Syntax
 
-_expression_. `Item`
+_expression_.**Item**
 
- _expression_ Required. A variable that represents a '[MsoEnvelope](Office.MsoEnvelope.md)' object.
+_expression_ Required. A variable that represents an **[MsoEnvelope](Office.MsoEnvelope.md)** object.
 
 
 ## Example
@@ -59,11 +59,11 @@ End Sub
 
 ## See also
 
-
-[MsoEnvelope Object](Office.MsoEnvelope.md)
-
+- [MsoEnvelope object members](overview/library-reference/msoenvelope-members-office.md)
 
 
-[MsoEnvelope Object Members](./overview/Library-Reference/msoenvelope-members-office.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

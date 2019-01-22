@@ -31173,7 +31173,7 @@
 ###### [Count](Word.OMathMatRows.Count.md)
 ###### [Creator](Word.OMathMatRows.Creator.md)
 ###### [Parent](Word.OMathMatRows.Parent.md)
-##### [OMathNary object](Word.OMathNary.md)
+#### [OMathNary object](Word.OMathNary.md)
 ##### Properties
 ###### [Application](Word.OMathNary.Application.md)
 ###### [Char](Word.OMathNary.Char.md)
