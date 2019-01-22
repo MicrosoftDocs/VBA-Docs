@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.ApplyFilter
 ms.assetid: 9ce3ed9b-3d84-9ebd-68ae-be958ad1a99c
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,14 @@ Applies a filter to a mail merge data source to filter specified records meeting
 
 ## Syntax
 
-_expression_. `ApplyFilter`
+_expression_.**ApplyFilter**
 
-_expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
+_expression_ A variable that represents an **[OfficeDataSourceObject](Office.OfficeDataSourceObject.md)** object.
 
 
 ## Example
 
-This example adds a new filter that removes all records with a blank Region field and then applies the filter to the active publication.
+This example adds a new filter that removes all records with a blank **Region** field and then applies the filter to the active publication.
 
 
 ```vb
@@ -55,11 +55,9 @@ End Sub
 
 ## See also
 
-
-[OfficeDataSourceObject Object](Office.OfficeDataSourceObject.md)
-
+- [OfficeDataSourceObject object members](overview/library-reference/officedatasourceobject-members-office.md)
 
 
-[OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

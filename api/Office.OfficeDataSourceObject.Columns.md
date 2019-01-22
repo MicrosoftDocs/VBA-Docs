@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.OfficeDataSourceObject.Columns
 ms.assetid: 02a3eb37-df7a-923a-6a98-dbb980b413f7
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # OfficeDataSourceObject.Columns property (Office)
 
-Gets an  **ODSOColumns** object that represents the fields in a data source. Read-only.
+Gets an **[ODSOColumns](office.odsocolumns.md)** object that represents the fields in a data source. Read-only.
 
 
 ## Syntax
 
-_expression_. `Columns`
+_expression_.**Columns**
 
-_expression_ A variable that represents an [OfficeDataSourceObject](Office.OfficeDataSourceObject.md) object.
+_expression_ A variable that represents an **[OfficeDataSourceObject](Office.OfficeDataSourceObject.md)** object.
 
 
 ## Example
@@ -49,11 +49,9 @@ End Sub
 
 ## See also
 
-
-[OfficeDataSourceObject Object](Office.OfficeDataSourceObject.md)
-
+- [OfficeDataSourceObject object members](overview/library-reference/officedatasourceobject-members-office.md)
 
 
-[OfficeDataSourceObject Object Members](./overview/Library-Reference/officedatasourceobject-members-office.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
