@@ -7,26 +7,26 @@ ms.prod: office
 api_name:
 - Office.ODSOFilter.Comparison
 ms.assetid: 992565b3-90c5-4f44-7cae-ba0533529127
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # ODSOFilter.Comparison property (Office)
 
-Gets or sets an  **MsoFilterComparison** constant that represents how to compare the **Column** and **CompareTo** properties. Read/write.
+Gets or sets an **[MsoFilterComparison](office.msofiltercomparison.md)** constant that represents how to compare the **Column** and **CompareTo** properties. Read/write.
 
 
 ## Syntax
 
-_expression_. `Comparison`
+_expression_.**Comparison**
 
-_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an **[ODSOFilter](Office.ODSOFilter.md)** object.
 
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a  **Region** field equal to "WA".
+The following example changes an existing filter to remove from the mail merge all records that do not have a **Region** field equal to "WA".
 
 
 ```vb
@@ -55,11 +55,9 @@ End Sub
 
 ## See also
 
-
-[ODSOFilter Object](Office.ODSOFilter.md)
-
+- [ODSOFilter object members](overview/library-reference/odsofilter-members-office.md)
 
 
-[ODSOFilter Object Members](./overview/Library-Reference/odsofilter-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
