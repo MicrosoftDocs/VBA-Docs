@@ -15,7 +15,7 @@ localization_priority: Normal
 
 |Name|Description|
 |:-----|:-----|
-|[Add](../../Office.PickerProperties.Add.md)||
-|[Remove](../../Office.PickerProperties.Remove.md)|Removes a PickerProperty from the collection.|
+|[Add](../../Office.PickerProperties.Add.md)|Adds a **PickerProperty** to the collection.|
+|[Remove](../../Office.PickerProperties.Remove.md)|Removes a **PickerProperty** from the collection.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

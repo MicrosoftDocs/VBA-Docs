@@ -7,29 +7,29 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.Show
 ms.assetid: 3073defe-4585-816d-6b86-9959cce4655f
-ms.date: 11/12/2018
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerDialog.Show method (Office)
 
-Displays the Picker Dialog with already specified data handler and given options.
+Displays the **PickerDialog** with the already specified data handler and given options.
 
 
 ## Syntax
 
-_expression_. `Show`( _IsMultiSelect_, _ExistingResults_ )
+_expression_.**Show** (_IsMultiSelect_, _ExistingResults_)
 
-_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
+_expression_ An expression that returns a **[PickerDialog](Office.PickerDialog.md)** object.
 
 
 ## Parameters
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _IsMultiSelect_|Optional|**Boolean**|Specifies whether the Picker Dialog user interface provides multiple item selection functions.|
-| _ExistingResults_|Optional|**PickerResults**|Contains existing **PickerResults** in the Picker Dialog user interface. These results are displayed in the selected item control.|
+| _IsMultiSelect_|Optional|**Boolean**|Specifies whether the **PickerDialog** user interface provides multiple item selection functions.|
+| _ExistingResults_|Optional|**PickerResults**|Contains existing **PickerResults** in the **PickerDialog** user interface. These results are displayed in the selected item control.|
 
 ## Return value
 
@@ -38,7 +38,7 @@ PickerResults
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb

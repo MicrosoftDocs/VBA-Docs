@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.Properties
 ms.assetid: 053b5d62-9d9a-68ed-c7ed-cf4df7053ecc
-ms.date: 11/12/2018
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerDialog.Properties property (Office)
 
-Returns the **PickerProperties** object to specify custom properties for data handler component. Read-only.
+Returns the **[PickerProperties](office.pickerproperties.md)** object to specify custom properties for the data handler component. Read-only.
 
 
 ## Syntax
 
-_expression_. `Properties`
+_expression_.**Properties**
 
-_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
+_expression_ An expression that returns a **[PickerDialog](Office.PickerDialog.md)** object.
 
 
 ## Remarks
@@ -31,7 +31,7 @@ The properties of the **PickerProperties** object will be passed to the data han
 
 ## Example
 
-The following code sets various Picker Dialog properties and retrieves the results.
+The following code sets various **PickerDialog** properties and retrieves the results.
 
 
 ```vb

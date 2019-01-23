@@ -7,26 +7,26 @@ ms.prod: office
 api_name:
 - Office.PickerResult.Type
 ms.assetid: e7e0356a-7d21-c9f4-81f3-4ac096c5ab4f
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerResult.Type property (Office)
 
-Represents the type of a  **PickerResult** object. Read/write
+Represents the type of a **PickerResult** object. Read/write.
 
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
- _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
+_expression_ An expression that returns a **[PickerResult](Office.PickerResult.md)** object.
 
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -51,14 +51,10 @@ Set objPickerExistingResult = objPickerExistingResults.Add("johndoe@contoso.com"
 Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 ```
 
-
 ## See also
 
-
-[PickerResult Object](Office.PickerResult.md)
-
+- [PickerResult object members](overview/Library-Reference/pickerresult-members-office.md)
 
 
-[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

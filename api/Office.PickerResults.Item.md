@@ -7,34 +7,32 @@ ms.prod: office
 api_name:
 - Office.PickerResults.Item
 ms.assetid: a871f16f-8278-87bd-3633-5e273bc8865f
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerResults.Item property (Office)
 
-Retrieves a  **PickerResult** object at the specified index. Read-only
+Retrieves a **[PickerResult](Office.PickerResult.md)** object at the specified index. Read-only.
 
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item**(_Index_)
 
- _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
+_expression_ An expression that returns a **[PickerResults](Office.PickerResults.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the  **PickerResult** object.|
+| _Index_|Required|**Integer**|Specifies an integer representing the indexed location of the **PickerResult** object.|
 
 ## Example
 
-The following code displays the Picker Dialog user interface, gets results, and then enumerates those results.
+The following code displays the **PickerDialog** user interface, gets results, and then enumerates those results.
 
 
 ```vb
@@ -69,11 +67,8 @@ Next
 
 ## See also
 
-
-[PickerResults Object](Office.PickerResults.md)
-
+- [PickerResults object members](overview/Library-Reference/pickerresults-members-office.md)
 
 
-[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

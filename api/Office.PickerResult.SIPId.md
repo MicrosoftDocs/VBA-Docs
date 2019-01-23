@@ -7,30 +7,27 @@ ms.prod: office
 api_name:
 - Office.PickerResult.SIPId
 ms.assetid: b1442592-1a6c-4f30-5242-2f2c080a6e46
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerResult.SIPId property (Office)
 
-Is the identifier for Office Communication Server. It's used only for people picking scenario. Read/write
+The identifier for Office Communication Server, used only for the people picking scenario. Read/write.
 
 
 ## Syntax
 
-_expression_. `SIPId`
+_expression_.**SIPId**
 
- _expression_ An expression that returns a [PickerResult](Office.PickerResult.md) object.
+_expression_ An expression that returns a **[PickerResult](Office.PickerResult.md)** object.
 
 
 ## See also
 
-
-[PickerResult Object](Office.PickerResult.md)
-
+- [PickerResult object members](overview/Library-Reference/pickerresult-members-office.md)
 
 
-[PickerResult Object Members](./overview/Library-Reference/pickerresult-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

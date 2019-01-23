@@ -16,8 +16,8 @@ A collection of **PickerProperty** objects.
 
 |Name|Description|
 |:-----|:-----|
-|[Add](../../Office.PickerProperties.Add.md)||
-|[Remove](../../Office.PickerProperties.Remove.md)|Removes a PickerProperty from the collection.|
+|[Add](../../Office.PickerProperties.Add.md)|Adds a **PickerProperty** to the collection.|
+|[Remove](../../Office.PickerProperties.Remove.md)|Removes a **PickerProperty** from the collection.|
 
 
 ## Properties
