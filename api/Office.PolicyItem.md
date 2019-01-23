@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.PolicyItem
 ms.assetid: aced7bdc-8ef7-2621-f188-f3c1d44ab6dc
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
 
 # PolicyItem object (Office)
 
-Represents an item within a  **ServerPolicy** object that contains the settings for one policy.
+Represents an item within a **[ServerPolicy](office.serverpolicy.md)** object that contains the settings for one policy.
 
 
 ## Remarks
@@ -24,7 +24,7 @@ A policy item cannot exist outside the scope of a policy. Policy items are disti
 
 ## Example
 
-The following example lists the name and description of all of the policy items for the active document.
+The following example lists the name and description of all the policy items for the active document.
 
 
 ```vb
@@ -46,26 +46,11 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.PolicyItem.Application.md)|
-|[Creator](Office.PolicyItem.Creator.md)|
-|[Data](Office.PolicyItem.Data.md)|
-|[Description](Office.PolicyItem.Description.md)|
-|[Id](Office.PolicyItem.Id.md)|
-|[Name](Office.PolicyItem.Name.md)|
-|[Parent](Office.PolicyItem.Parent.md)|
-
 ## See also
 
+- [PolicyItem object members](overview/Library-Reference/policyitem-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.PolicyItem.Data
 ms.assetid: 4ffa8c3a-f5fc-1813-daed-ea93f11df2dc
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets the information that is used to implement the policy item. Read-only.
 
 ## Syntax
 
-_expression_. `Data`
+_expression_.**Data**
 
- _expression_ An expression that returns a [PolicyItem](Office.PolicyItem.md) object.
+_expression_ An expression that returns a **[PolicyItem](Office.PolicyItem.md)** object.
 
 
 ## Return value
@@ -36,11 +36,7 @@ For example, the policy item might contain code to transform the document into a
 
 ## See also
 
+- [PolicyItem object members](overview/Library-Reference/policyitem-members-office.md)
 
-[PolicyItem Object](Office.PolicyItem.md)
-
-
-
-[PolicyItem Object Members](./overview/Library-Reference/policyitem-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
