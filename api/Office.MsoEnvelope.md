@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MsoEnvelope
 ms.assetid: 64cfde6b-cd71-1d7b-0e8f-1181d88d9457
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Provides access to functionality that lets you send documents as email messages 
 
 ## Remarks
 
-Use the  **MailEnvelope** property of the **Document** object, **Chart** object or **Worksheet** object (depending on the application you are using) to return a **MsoEnvelope** object.
+Use the **MailEnvelope** property of the **Document** object, **Chart** object, or **Worksheet** object (depending on the application you are using) to return an **MsoEnvelope** object.
 
 
 ## Example
@@ -55,32 +55,13 @@ End Sub
 ```
 
 
-## Events
-
-
-
-|Name|
-|:-----|
-|[EnvelopeHide](Office.MsoEnvelope.EnvelopeHide.md)|
-|[EnvelopeShow](Office.MsoEnvelope.EnvelopeShow.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[CommandBars](Office.MsoEnvelope.CommandBars.md)|
-|[Introduction](Office.MsoEnvelope.Introduction.md)|
-|[Item](Office.MsoEnvelope.Item.md)|
-|[Parent](Office.MsoEnvelope.Parent.md)|
-
 ## See also
 
+- [MsoEnvelope object members](overview/library-reference/msoenvelope-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

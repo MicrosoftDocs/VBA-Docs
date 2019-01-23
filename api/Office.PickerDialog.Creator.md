@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.PickerDialog.Creator
 ms.assetid: 1c4ac795-ba4d-62e8-3d7d-e656bcbf85d3
-ms.date: 11/12/2018
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
@@ -15,9 +15,9 @@ Gets a 32-bit integer that indicates the application in which the **PickerDialog
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
-_expression_ An expression that returns a [PickerDialog](Office.PickerDialog.md) object.
+_expression_ An expression that returns a **[PickerDialog](Office.PickerDialog.md)** object.
 
 
 ## See also

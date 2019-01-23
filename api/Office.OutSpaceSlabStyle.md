@@ -4,16 +4,14 @@ ms.prod: office
 api_name:
 - Office.OutSpaceSlabStyle
 ms.assetid: af928eab-5c6f-7a20-4b2f-b7612fb7e8e5
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # OutSpaceSlabStyle enumeration (Office)
 
-Specifies constants that define the styles of the slabs on the  **File** tab.
-
-
+Specifies constants that define the styles of the slabs on the **File** tab.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

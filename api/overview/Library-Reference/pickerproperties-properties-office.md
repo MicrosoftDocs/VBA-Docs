@@ -15,9 +15,9 @@ localization_priority: Normal
 
 |Name|Description|
 |:-----|:-----|
-|[Application](../../Office.PickerProperties.Application.md)|Gets an  **Application** object that represents the container application for the **PickerProperties** object. Read-only|
-|[Count](../../Office.PickerProperties.Count.md)|Retrieves the count of the number of  **PickerProperty** objects contained within the **PickerProperties** collection. Read-only|
-|[Creator](../../Office.PickerProperties.Creator.md)|Gets a 32-bit integer that indicates the application in which the  **PickerProperties** object was created. Read-only|
-|[Item](../../Office.PickerProperties.Item.md)|Retrieves a  **PickerProperty** object at the specified index. Read-only|
+|[Application](../../Office.PickerProperties.Application.md)|Gets an **Application** object that represents the container application for the **PickerProperties** object. Read-only|
+|[Count](../../Office.PickerProperties.Count.md)|Retrieves the count of the number of **PickerProperty** objects contained within the **PickerProperties** collection. Read-only|
+|[Creator](../../Office.PickerProperties.Creator.md)|Gets a 32-bit integer that indicates the application in which the **PickerProperties** object was created. Read-only|
+|[Item](../../Office.PickerProperties.Item.md)|Retrieves a **PickerProperty** object at the specified index. Read-only|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

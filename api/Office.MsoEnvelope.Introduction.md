@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.MsoEnvelope.Introduction
 ms.assetid: f37129d4-2a68-1623-272b-f71dfdeec59b
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # MsoEnvelope.Introduction property (Office)
 
-Sets or gets the introductory text that is included with a document that is sent using the  **MsoEnvelope** object. The introductory text is included at the top of the document in the email. Read/write.
+Sets or gets the introductory text that is included with a document that is sent by using the **MsoEnvelope** object. The introductory text is included at the top of the document in the email. Read/write.
 
 
 ## Syntax
 
-_expression_. `Introduction`
+_expression_.**Introduction**
 
-_expression_ A variable that represents a [MsoEnvelope](Office.MsoEnvelope.md) object.
+_expression_ A variable that represents an **[MsoEnvelope](Office.MsoEnvelope.md)** object.
 
 
 ## Example
@@ -43,7 +43,7 @@ Sub SendMail(ByVal strRecipient As String)
  
  'All of the mail item settings are saved with the document. 
  'When you add a recipient to the Recipients collection 
- 'or change other properties these settings will persist. 
+ 'or change other properties, these settings will persist. 
  
  .Recipients.Add strRecipient 
  .Subject = "Here is the document." 
@@ -59,11 +59,11 @@ End Sub
 
 ## See also
 
-
-[MsoEnvelope Object](Office.MsoEnvelope.md)
-
+- [MsoEnvelope object members](overview/library-reference/msoenvelope-members-office.md)
 
 
-[MsoEnvelope Object Members](./overview/Library-Reference/msoenvelope-members-office.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

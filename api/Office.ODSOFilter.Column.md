@@ -7,26 +7,26 @@ ms.prod: office
 api_name:
 - Office.ODSOFilter.Column
 ms.assetid: 53caf4f7-73f1-3969-b407-8fa89883c78d
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # ODSOFilter.Column property (Office)
 
-Gets or sets a  **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
+Gets or sets a **String** that represents the name of the field in the mail merge data source to use in the filter. Read/write.
 
 
 ## Syntax
 
-_expression_. `Column`
+_expression_.**Column**
 
-_expression_ A variable that represents an [ODSOFilter](Office.ODSOFilter.md) object.
+_expression_ A variable that represents an **[ODSOFilter](Office.ODSOFilter.md)** object.
 
 
 ## Example
 
-The following example changes an existing filter to remove from the mail merge all records that do not have a Region field equal to "WA".
+The following example changes an existing filter to remove from the mail merge all records that do not have a **Region** field equal to "WA".
 
 
 ```vb
@@ -55,13 +55,12 @@ End Sub
 
 ## See also
 
+- [ODSOFilter object members](overview/library-reference/odsofilter-members-office.md)
+- [TextFrame2 object](Office.TextFrame2.md)
+- [TextFrame2 object members](overview/library-reference/textframe2-members-office.md)
 
-[ODSOFilter Object](Office.ODSOFilter.md)
-[TextFrame2 Object](Office.TextFrame2.md)
 
-
-
-[ODSOFilter Object Members](./overview/Library-Reference/odsofilter-members-office.md)
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

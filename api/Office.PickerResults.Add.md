@@ -7,35 +7,33 @@ ms.prod: office
 api_name:
 - Office.PickerResults.Add
 ms.assetid: cf6e4f0f-4373-3caa-ddb3-512ca5c4675f
-ms.date: 06/08/2017
+ms.date: 01/22/2019
 localization_priority: Normal
 ---
 
 
 # PickerResults.Add method (Office)
 
-Adds a  **PickerResult** object to the **PickerResults** collection.
+Adds a **[PickerResult](Office.PickerResult.md)** object to the **PickerResults** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( `_Id_`, `_DisplayName_`, `_Type_`, `_SIPId_`, `_ItemData_`, `_SubItems_` )
+_expression_.**Add** (_Id_, _DisplayName_, _Type_, _SIPId_, _ItemData_, _SubItems_)
 
- _expression_ An expression that returns a [PickerResults](Office.PickerResults.md) object.
+_expression_ An expression that returns a **[PickerResults](Office.PickerResults.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Id_|Required|**String**|Represents an identifier of the PickerResult.|
-| _DisplayName_|Required|**String**|Represents a display name of the PickerResult. |
-| _Type_|Required|**String**|Represents a type of the PickerResult.|
-| _SIPId_|Optional|**String**|Currently not supported. The SIPId is the identifier for Office Communication Server. It is used only for the people picking scenario.|
-| _ItemData_|Optional|**Variant**|Non- displaying item binding data|
-| _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the PickerResult. It is used for passing column values in the Picker Dialog.|
+| _Id_|Required|**String**|Represents an identifier of the **PickerResult**.|
+| _DisplayName_|Required|**String**|Represents a display name of the **PickerResult**. |
+| _Type_|Required|**String**|Represents a type of the **PickerResult**.|
+| _SIPId_|Optional|**String**|Currently not supported. The **SIPId** is the identifier for Office Communication Server. It is used only for the people picking scenario.|
+| _ItemData_|Optional|**Variant**|Non-displaying item binding data.|
+| _SubItems_|Optional|**Variant**|Displays the purpose or non-display purpose field data of the **PickerResult**. It is used for passing column values in the **PickerDialog**.|
 
 ## Return value
 
@@ -44,7 +42,7 @@ PickerResult
 
 ## Example
 
-The following code sets the Picker Dialog properties and then displays the Picker Dialog.
+The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
 
 
 ```vb
@@ -71,11 +69,8 @@ Set objPickerResults = objPickerDialog.Show(True, objPickerExistingResult)
 
 ## See also
 
-
-[PickerResults Object](Office.PickerResults.md)
-
+- [PickerResults object members](overview/Library-Reference/pickerresults-members-office.md)
 
 
-[PickerResults Object Members](./overview/Library-Reference/pickerresults-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
