@@ -42,7 +42,7 @@ PickerResult
 
 ## Example
 
-The following code sets the **PickerDialog** properties and then displays the **PickerDialog**.
+The following code sets the **[PickerDialog](Office.PickerDialog.md)** properties and then displays the **PickerDialog**.
 
 
 ```vb

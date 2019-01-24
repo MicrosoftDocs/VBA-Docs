@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SearchFolders.Remove
 ms.assetid: f268c0e5-17c0-4302-1ef3-3c352604b292
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Removes the specified object from the collection.
 
 ## Syntax
 
-_expression_. `Remove`( `_Index_` )
+_expression_.**Remove** (_Index_)
 
- _expression_ Required. A variable that represents a '[SearchFolders](Office.SearchFolders.md)' object.
+_expression_ Required. A variable that represents a **[SearchFolders](Office.SearchFolders.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,11 +32,8 @@ _expression_. `Remove`( `_Index_` )
 
 ## See also
 
-
-[SearchFolders Object](Office.SearchFolders.md)
-
+- [SearchFolders object members](overview/Library-Reference/searchfolders-members-office.md)
 
 
-[SearchFolders Object Members](./overview/Library-Reference/searchfolders-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

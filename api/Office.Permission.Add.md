@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Permission.Add method (Office)
 
-Creates a set of permissions on the active document for the specified user. Returns a **UserPermission** object.
+Creates a set of permissions on the active document for the specified user. Returns a **[UserPermission](office.userpermission.md)** object.
 
 
 ## Syntax

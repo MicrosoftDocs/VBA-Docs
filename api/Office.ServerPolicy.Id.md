@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.ServerPolicy.Id
 ms.assetid: b1838ff9-d01a-bf19-a9a1-66627242eacc
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets the ID of a server policy. Read-only.
 
 ## Syntax
 
-_expression_. `Id`
+_expression_.**Id**
 
- _expression_ An expression that returns a [ServerPolicy](Office.ServerPolicy.md) object.
+_expression_ An expression that returns a **[ServerPolicy](Office.ServerPolicy.md)** object.
 
 
 ## Return value
@@ -31,11 +31,8 @@ String
 
 ## See also
 
-
-[ServerPolicy Object](Office.ServerPolicy.md)
-
+- [ServerPolicy object members](overview/Library-Reference/serverpolicy-members-office.md)
 
 
-[ServerPolicy Object Members](./overview/Library-Reference/serverpolicy-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

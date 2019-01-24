@@ -7,26 +7,26 @@ ms.prod: office
 api_name:
 - Office.ScopeFolder.Path
 ms.assetid: 744d1d00-ecbf-b0ad-e119-8f4267f5f7c5
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
 
 # ScopeFolder.Path property (Office)
 
-Gets a  **String** indicating the full path of a **ScopeFolder** object. Read-only.
+Gets a **String** indicating the full path of a **ScopeFolder** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `Path`
+_expression_.**Path**
 
-_expression_ A variable that represents a [ScopeFolder](Office.ScopeFolder.md) object.
+_expression_ A variable that represents a **[ScopeFolder](Office.ScopeFolder.md)** object.
 
 
 ## Example
 
-The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be "A:\", "C:\", etc.
+The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be `A:\`, `C:\`, etc.
 
 
 ```vb
@@ -61,11 +61,8 @@ End Sub
 
 ## See also
 
-
-[ScopeFolder Object](Office.ScopeFolder.md)
-
+- [ScopeFolder object members](overview/Library-Reference/scopefolder-members-office.md)
 
 
-[ScopeFolder Object Members](./overview/Library-Reference/scopefolder-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

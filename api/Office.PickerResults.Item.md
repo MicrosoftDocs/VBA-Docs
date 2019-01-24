@@ -32,7 +32,7 @@ _expression_ An expression that returns a **[PickerResults](Office.PickerResults
 
 ## Example
 
-The following code displays the **PickerDialog** user interface, gets results, and then enumerates those results.
+The following code displays the **[PickerDialog](Office.PickerDialog.md)** user interface, gets results, and then enumerates those results.
 
 
 ```vb

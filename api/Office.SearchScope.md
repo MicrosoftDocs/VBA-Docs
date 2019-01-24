@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SearchScope
 ms.assetid: 7faa5b49-6aa9-6682-165b-0d900fffd9ed
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
@@ -19,26 +19,23 @@ Corresponds to a type of folder tree that can be searched.
 
 ## Remarks
 
- Each **SearchScope** object contains a single **ScopeFolder** object that corresponds to the root folder of the search scope.
+Each **SearchScope** object contains a single **[ScopeFolder](office.scopefolder.md)** object that corresponds to the root folder of the search scope.
 
- Use the **Item** method of the **SearchScopes** collection to return a **SearchScope** object; for example:
-
-
-
+Use the **[Item](office.searchscopes.item.md)** property of the **SearchScopes** collection to return a **SearchScope** object; for example:
 
 ```vb
 Dim ss As SearchScope 
 Set ss = SearchScopes.Item(1)
 ```
 
-Ultimately, the  **SearchScope** object is intended to provide access to **ScopeFolder** objects that can be added to the **SearchFolders** collection. For an example that demonstrates how this is accomplished, see the **SearchFolders** collection topic.
+Ultimately, the **SearchScope** object is intended to provide access to **ScopeFolder** objects that can be added to the **[SearchFolders](office.searchfolders.md)** collection. For an example that demonstrates how this is accomplished, see the **SearchFolders** collection topic.
 
-See the  **ScopeFolder** object topic to see a simple example of how to return a **ScopeFolder** object from a **SearchScope** object.
+See the **ScopeFolder** object topic to see a simple example of how to return a **ScopeFolder** object from a **SearchScope** object.
 
 
 ## Example
 
-The following example displays all of the currently available  **SearchScope** objects.
+The following example displays all of the currently available **SearchScope** objects.
 
 
 ```vb
@@ -68,23 +65,9 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.SearchScope.Application.md)|
-|[Creator](Office.SearchScope.Creator.md)|
-|[ScopeFolder](Office.SearchScope.ScopeFolder.md)|
-|[Type](Office.SearchScope.Type.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [SearchScope object members](overview/Library-Reference/searchscope-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

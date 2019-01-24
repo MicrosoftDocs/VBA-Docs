@@ -7,26 +7,26 @@ ms.prod: office
 api_name:
 - Office.SearchScope.ScopeFolder
 ms.assetid: 9bb05a24-7d9c-e218-40b1-06c054baacab
-ms.date: 06/08/2017
+ms.date: 01/23/2019
 localization_priority: Normal
 ---
 
 
 # SearchScope.ScopeFolder property (Office)
 
-Gets a  **ScopeFolder** object. Read-only.
+Gets a **ScopeFolder** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `ScopeFolder`
+_expression_.**ScopeFolder**
 
-_expression_ A variable that represents a [SearchScope](Office.SearchScope.md) object.
+_expression_ A variable that represents a **[SearchScope](Office.SearchScope.md)** object.
 
 
 ## Example
 
-The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the  **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be "A:\", "C:\", etc.
+The following example displays the root path of each directory in My Computer. To retrieve this information, the example first gets the **ScopeFolder** object at the root of My Computer. The path of this **ScopeFolder** will always be "*". As with all **ScopeFolder** objects, the root object contains a **ScopeFolders** collection. This example loops through this **ScopeFolders** collection and displays the path of each **ScopeFolder** object in it. The paths of these **ScopeFolder** objects will be `A:\`, `C:\`, etc.
 
 
 ```vb
@@ -61,11 +61,8 @@ End Sub
 
 ## See also
 
-
-[SearchScope Object](Office.SearchScope.md)
-
+- [SearchScope object members](overview/Library-Reference/searchscope-members-office.md)
 
 
-[SearchScope Object Members](./overview/Library-Reference/searchscope-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
