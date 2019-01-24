@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.ModifiedBy
 ms.assetid: 3070460c-c3af-ff17-19b7-25a3c6339628
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,9 +22,9 @@ Gets the name of the user who last modified the object. Read-only.
 
 ## Syntax
 
-_expression_. `ModifiedBy`
+_expression_.**ModifiedBy**
 
-_expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceLink](Office.SharedWorkspaceLink.md)** object.
 
 
 ## Return value
@@ -34,12 +34,12 @@ String
 
 ## Remarks
 
-For shared workspace objects, the  **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object.
+For shared workspace objects, the **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object.
 
 
 ## Example
 
-The following example lists the links in a shared workspace site that were modified by a particular users.
+The following example lists the links in a shared workspace site that were modified by particular users.
 
 
 ```vb
@@ -65,11 +65,8 @@ The following example lists the links in a shared workspace site that were modif
 
 ## See also
 
-
-[SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-
+- [SharedWorkspaceLink object members](overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 
-[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

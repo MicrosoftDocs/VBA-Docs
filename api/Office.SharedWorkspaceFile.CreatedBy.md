@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.CreatedBy
 ms.assetid: e16e3e87-7188-7650-db58-d26e7a98d4eb
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -16,12 +16,14 @@ localization_priority: Normal
 
 Gets the display name of the member who created the shared workspace object. Read-only.
 
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 ## Syntax
 
-_expression_. `CreatedBy`
+_expression_.**CreatedBy**
 
-_expression_ A variable that represents a [SharedWorkspaceFile](Office.SharedWorkspaceFile.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** object.
 
 
 ## Return value
@@ -32,7 +34,6 @@ String
 ## Example
 
 The following example lists files in the shared workspace site that were created by users other than the creator of the workspace site.
-
 
 ```vb
  Dim swsFile As Office.SharedWorkspaceFile 
@@ -52,17 +53,13 @@ The following example lists files in the shared workspace site that were created
 
 ```
 
-> [!NOTE] 
-> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+
 
 
 ## See also
 
-
-[SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-
+- [SharedWorkspaceFile object members](overview/Library-Reference/sharedworkspacefile-members-office.md)
 
 
-[SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

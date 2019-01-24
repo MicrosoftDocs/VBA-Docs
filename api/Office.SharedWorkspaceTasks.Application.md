@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Application
 ms.assetid: a1d55488-3abe-4cec-375d-63e6bc08ba21
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -31,11 +31,8 @@ Object
 
 ## See also
 
-
-[SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-
+- [SharedWorkspaceTasks object members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 
-[SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks
 ms.assetid: de26341f-44d1-131e-1dbe-e31f3f68e312
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -37,33 +37,11 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Add](Office.SharedWorkspaceTasks.Add.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.SharedWorkspaceTasks.Application.md)|
-|[Count](Office.SharedWorkspaceTasks.Count.md)|
-|[Creator](Office.SharedWorkspaceTasks.Creator.md)|
-|[Item](Office.SharedWorkspaceTasks.Item.md)|
-|[ItemCountExceeded](Office.SharedWorkspaceTasks.ItemCountExceeded.md)|
-|[Parent](Office.SharedWorkspaceTasks.Parent.md)|
-
 ## See also
 
+- [SharedWorkspaceTasks object members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

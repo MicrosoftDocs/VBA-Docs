@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.ItemCountExceeded
 ms.assetid: 4a33fbae-1a7d-9d66-960b-e631b8d07316
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -44,11 +44,8 @@ Furthermore, once the  **ItemCountExceeded** property returns **True** for one o
 
 ## See also
 
-
-[SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-
+- [SharedWorkspaceTasks object members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 
-[SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

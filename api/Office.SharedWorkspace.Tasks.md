@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspace.Tasks
 ms.assetid: 9f7fa28d-f442-cbec-de7c-9109cc3e6f2e
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspace.Tasks property (Office)
 
-Gets a  **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** collection that represents the list of tasks in the current shared workspace. Read-only.
+Gets a **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** collection that represents the list of tasks in the current shared workspace. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Gets a  **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** collection th
 
 ## Syntax
 
-_expression_. `Tasks`
+_expression_.**Tasks**
 
-_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a **[SharedWorkspace](Office.SharedWorkspace.md)** object.
 
 
 ## Example
@@ -46,11 +46,8 @@ The following example lists the tasks in the current shared workspace.
 
 ## See also
 
-
-[SharedWorkspace Object](Office.SharedWorkspace.md)
-
+- [SharedWorkspace object members](overview/Library-Reference/sharedworkspace-members-office.md)
 
 
-[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

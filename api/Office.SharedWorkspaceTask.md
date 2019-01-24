@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask
 ms.assetid: fbd82b03-53fa-12ff-9fb2-07bef012dde8
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -62,41 +62,10 @@ The following example returns the number of tasks in the shared workspace and in
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Delete](Office.SharedWorkspaceTask.Delete.md)|
-|[Save](Office.SharedWorkspaceTask.Save.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.SharedWorkspaceTask.Application.md)|
-|[AssignedTo](Office.SharedWorkspaceTask.AssignedTo.md)|
-|[CreatedBy](Office.SharedWorkspaceTask.CreatedBy.md)|
-|[CreatedDate](Office.SharedWorkspaceTask.CreatedDate.md)|
-|[Creator](Office.SharedWorkspaceTask.Creator.md)|
-|[Description](Office.SharedWorkspaceTask.Description.md)|
-|[DueDate](Office.SharedWorkspaceTask.DueDate.md)|
-|[ModifiedBy](Office.SharedWorkspaceTask.ModifiedBy.md)|
-|[ModifiedDate](Office.SharedWorkspaceTask.ModifiedDate.md)|
-|[Parent](Office.SharedWorkspaceTask.Parent.md)|
-|[Priority](Office.SharedWorkspaceTask.Priority.md)|
-|[Status](Office.SharedWorkspaceTask.Status.md)|
-|[Title](Office.SharedWorkspaceTask.Title.md)|
-
 ## See also
 
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

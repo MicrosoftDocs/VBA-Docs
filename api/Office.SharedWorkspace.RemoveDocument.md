@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspace.RemoveDocument
 ms.assetid: 4bfb27d7-6fdd-9350-70d2-9c60d75020eb
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,21 +22,21 @@ Removes the active document from the shared workspace site.
 
 ## Syntax
 
-_expression_. `RemoveDocument`
+_expression_.**RemoveDocument**
 
-_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a **[SharedWorkspace](Office.SharedWorkspace.md)** object.
 
 
 ## Remarks
 
-If the user does not have permission to remove the shared workspace document from the server, then the server copy remains intact, but the local copy of the document is disconnected from the shared workspace. In the case where the document was opened directly from the workspace, then removed from the workspace using  **RemoveDocument**, the document must be saved to another location before closing; otherwise, it remains in the workspace.
+If the user does not have permission to remove the shared workspace document from the server, the server copy remains intact, but the local copy of the document is disconnected from the shared workspace. In the case where the document was opened directly from the workspace and then removed from the workspace by using **RemoveDocument**, the document must be saved to another location before closing; otherwise, it remains in the workspace.
 
-Use the  **[Disconnect](Office.SharedWorkspace.Disconnect.md)** method to detach the local copy of the document from the shared workspace without removing the shared copy.
+Use the **[Disconnect](Office.SharedWorkspace.Disconnect.md)** method to detach the local copy of the document from the shared workspace without removing the shared copy.
 
 
 ## Example
 
-The following example determines whether the active document is connected to a shared workspace, then offers the user the option of removing the document from the workspace site.
+The following example determines whether the active document is connected to a shared workspace, and then offers the user the option of removing the document from the workspace site.
 
 
 ```vb
@@ -62,11 +62,8 @@ The following example determines whether the active document is connected to a s
 
 ## See also
 
-
-[SharedWorkspace Object](Office.SharedWorkspace.md)
-
+- [SharedWorkspace object members](overview/Library-Reference/sharedworkspace-members-office.md)
 
 
-[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

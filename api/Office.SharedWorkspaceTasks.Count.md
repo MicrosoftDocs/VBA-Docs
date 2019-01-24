@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTasks.Count
 ms.assetid: 6db8223c-a4c3-1e63-ddc5-f0412828c6e9
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -34,11 +34,8 @@ Long
 
 ## See also
 
-
-[SharedWorkspaceTasks Object](Office.SharedWorkspaceTasks.md)
-
+- [SharedWorkspaceTasks object members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 
-[SharedWorkspaceTasks Object Members](./overview/Library-Reference/sharedworkspacetasks-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

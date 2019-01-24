@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.CreatedBy
 ms.assetid: a97760f8-5bed-7834-4890-21ef211cee32
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,9 +22,9 @@ Gets the display name of the member who created the shared workspace object. Rea
 
 ## Syntax
 
-_expression_. `CreatedBy`
+_expression_.**CreatedBy**
 
-_expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceLink](Office.SharedWorkspaceLink.md)** object.
 
 
 ## Return value
@@ -34,11 +34,8 @@ String
 
 ## See also
 
-
-[SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-
+- [SharedWorkspaceLink object members](overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 
-[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,15 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceMember.Email
 ms.assetid: 3539becc-bde4-9331-432c-e907523975a7
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspaceMember.Email property (Office)
 
-Gets the email name of the specified  **SharedWorkspaceMember** in the format user@domain.com. Read-only.
-
+Gets the email name of the specified **SharedWorkspaceMember** in the format user@domain.com. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -23,14 +22,14 @@ Gets the email name of the specified  **SharedWorkspaceMember** in the format us
 
 ## Syntax
 
- **Email**_expression_. `Email`
+_expression_.**Email**
 
- _expression_ An expression that returns a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
+_expression_ An expression that returns a **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** object.
 
 
 ## Example
 
-The following example extracts the email domain name from the  **Email** property of each shared workspace member and lists members who have email addresses at the "example.com" domain.
+The following example extracts the email domain name from the **Email** property of each shared workspace member and lists members who have email addresses at the `"example.com"` domain.
 
 
 ```vb
@@ -52,11 +51,8 @@ Dim swsMember As Office.SharedWorkspaceMember
 
 ## See also
 
-
-[SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-
+- [SharedWorkspaceMember object members](overview/Library-Reference/sharedworkspacemember-members-office.md)
 
 
-[SharedWorkspaceMember Object Members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

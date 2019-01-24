@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceLink.Notes
 ms.assetid: 5bb05b61-2746-f276-5159-ee8f28a30c66
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,14 +22,14 @@ Gets or sets the optional notes associated with a shared workspace link. Read/wr
 
 ## Syntax
 
-_expression_. `Notes`
+_expression_.**Notes**
 
-_expression_ A variable that represents a [SharedWorkspaceLink](Office.SharedWorkspaceLink.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceLink](Office.SharedWorkspaceLink.md)** object.
 
 
 ## Example
 
-The following example creates a list of all the shared workspace links that contain the word "building" in the Notes field.
+The following example creates a list of all the shared workspace links that contain the word "building" in the **Notes** field.
 
 
 ```vb
@@ -48,11 +48,8 @@ MsgBox "Building Links: " &amp; vbCrLf &amp; strBuildingLinks, _
 
 ## See also
 
-
-[SharedWorkspaceLink Object](Office.SharedWorkspaceLink.md)
-
+- [SharedWorkspaceLink object members](overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 
-[SharedWorkspaceLink Object Members](./overview/Library-Reference/sharedworkspacelink-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

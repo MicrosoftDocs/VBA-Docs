@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Creator
 ms.assetid: 414bba79-c72b-04f6-9784-3fb959b593e1
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -54,11 +54,8 @@ End If
 
 ## See also
 
-
-[SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 
-[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

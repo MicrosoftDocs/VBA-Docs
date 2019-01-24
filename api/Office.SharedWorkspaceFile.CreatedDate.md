@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFile.CreatedDate
 ms.assetid: c3a45dbd-c6b2-3046-2388-ed23ca7e36f0
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -16,12 +16,14 @@ localization_priority: Normal
 
 Gets the date and time when the shared workspace object was created. Read-only.
 
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
 ## Syntax
 
-_expression_. `CreatedDate`
+_expression_.**CreatedDate**
 
-_expression_ A variable that represents a [SharedWorkspaceFile](Office.SharedWorkspaceFile.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** object.
 
 
 ## Return value
@@ -53,17 +55,13 @@ The following example returns a list of shared workspace files whose date and ti
 
 ```
 
-> [!NOTE] 
-> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+
 
 
 ## See also
 
-
-[SharedWorkspaceFile Object](Office.SharedWorkspaceFile.md)
-
+- [SharedWorkspaceFile object members](overview/Library-Reference/sharedworkspacefile-members-office.md)
 
 
-[SharedWorkspaceFile Object Members](./overview/Library-Reference/sharedworkspacefile-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
