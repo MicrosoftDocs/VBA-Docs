@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTask.ModifiedDate property (Office)
 
-Gets the date and time when the  **SharedWorkspaceTask** object was last modified. Read-only.
+Gets the date and time when the **SharedWorkspaceTask** object was last modified. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Gets the date and time when the  **SharedWorkspaceTask** object was last modifie
 
 ## Syntax
 
-_expression_. `ModifiedDate`
+_expression_.**ModifiedDate**
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Return value

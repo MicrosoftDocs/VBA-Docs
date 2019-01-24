@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTask.Delete method (Office)
 
-Deletes the current  **SharedWorkspaceTask** object.
+Deletes the current **SharedWorkspaceTask** object.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Deletes the current  **SharedWorkspaceTask** object.
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
- _expression_ Required. A variable that represents a '[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)' object.
+_expression_ Required. A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## See also

@@ -22,14 +22,12 @@ Uploads changes made programmatically to a shared server.
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save** (_bstrQueryName_)
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,7 +35,7 @@ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWor
 
 ## Remarks
 
-Use the Save method to upload changes to the server after changing the properties of a shared workspace task.
+Use the **Save** method to upload changes to the server after changing the properties of a shared workspace task.
 
 
 ## See also

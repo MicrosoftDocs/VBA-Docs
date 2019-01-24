@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTasks.Parent property (Office)
 
-Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.
+Gets the **Parent** object for the **SharedWorkspaceTasks** object. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Getss the  **Parent** object for the **SharedWorkspaceTasks** object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents a [SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** object.
 
 
 ## Return value

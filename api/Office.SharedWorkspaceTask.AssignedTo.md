@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTask.AssignedTo property (Office)
 
-Gets or sets a value containing the name of the one assigned to the task represented by the  **SharedWorkspaceTask** object. Read/write.
+Gets or sets a value containing the name of the one assigned to the task represented by the **SharedWorkspaceTask** object. Read/write.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Gets or sets a value containing the name of the one assigned to the task represe
 
 ## Syntax
 
-_expression_. `AssignedTo`
+_expression_.**AssignedTo**
 
- _expression_ An expression that returns a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ An expression that returns a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Return value

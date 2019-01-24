@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTasks.Item property (Office)
 
-Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shared workspace. Read-only.
+Gets a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object from the **Tasks** collection of the shared workspace. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,18 +22,16 @@ Gets a  **SharedWorkspaceTask** object from the **Tasks** collection of the shar
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ Required. A variable that represents a '[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)' object. The specified **SharedWorkspaceTasks** collection.
+_expression_ Required. A variable that represents a **[SharedWorkspaceTasks](Office.SharedWorkspaceTasks.md)** object. The specified **SharedWorkspaceTasks** collection.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|Returns the  **SharedWorkspaceTask** at the position specified. The returned **SharedWorkspaceTask** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
+| _Index_|Required|**Long**|Returns the **SharedWorkspaceTask** at the position specified. The returned **SharedWorkspaceTask** object does not correspond to the order in which the items are displayed in the **Shared Workspace** pane, and is not affected by re-sorting the display.|
 
 ## See also
 

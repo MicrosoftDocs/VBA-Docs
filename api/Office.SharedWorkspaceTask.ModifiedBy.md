@@ -22,9 +22,9 @@ Gets the name of the user who last modified the object. Read-only.
 
 ## Syntax
 
-_expression_. `ModifiedBy`
+_expression_.**ModifiedBy**
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Return value
@@ -34,7 +34,7 @@ String
 
 ## Remarks
 
-For shared workspace objects, the  **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object. The **SharedWorkspaceMember** object does not have a **ModifiedBy** property.
+For shared workspace objects, the **ModifiedBy** property returns the display name stored in the **Name** property of the **SharedWorkspaceMember** object. The **SharedWorkspaceMember** object does not have a **ModifiedBy** property.
 
 
 ## See also

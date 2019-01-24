@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SharedWorkspaceTasks object (Office)
 
-A collection of the  **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** objects in the current shared workspace site.
+A collection of the **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** objects in the current shared workspace site.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,7 +22,7 @@ A collection of the  **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** ob
 
 ## Example
 
-Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedWorkspace](Office.SharedWorkspace.md)** object to return a **SharedWorkspaceTasks** collection.
+Use the **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedWorkspace](Office.SharedWorkspace.md)** object to return a **SharedWorkspaceTasks** collection.
 
 
 ```vb
@@ -41,7 +41,6 @@ Use the  **[Tasks](Office.SharedWorkspace.Tasks.md)** property of the **[SharedW
 
 - [SharedWorkspaceTasks object members](overview/Library-Reference/sharedworkspacetasks-members-office.md)
 - [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
