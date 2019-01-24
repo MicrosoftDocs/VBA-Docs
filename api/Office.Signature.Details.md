@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Signature.Details
 ms.assetid: c5de710a-876f-8eb4-ec46-21359b8d4bf4
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets information about a signature. Read-only.
 
 ## Syntax
 
-_expression_. `Details`
+_expression_.**Details**
 
- _expression_ An expression that returns a [Signature](Office.Signature.md) object.
+_expression_ An expression that returns a **[Signature](Office.Signature.md)** object.
 
 
 ## Return value
@@ -36,11 +36,8 @@ Among the information that can be read is whether the certificate associated wit
 
 ## See also
 
-
-[Signature Object](Office.Signature.md)
-
+- [Signature object members](overview/Library-Reference/signature-members-office.md)
 
 
-[Signature Object Members](./overview/Library-Reference/signature-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

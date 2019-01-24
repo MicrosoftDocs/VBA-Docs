@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureProvider.VerifyXmlDsig
 ms.assetid: 8b72f282-ace5-4b51-e90a-e2df79affcb1
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,21 +19,19 @@ Verifies a signature based on the signed state of the document and the legitimac
 
 ## Syntax
 
-_expression_. `VerifyXmlDsig`( `_QueryContinue_`, `_psigsetup_`, `_psiginfo_`, `_XmlDsigStream_`, `_pcontverres_`, `_pcertverres_` )
+_expression_.**VerifyXmlDsig**(_QueryContinue_, _psigsetup_, _psiginfo_, _XmlDsigStream_, _pcontverres_, _pcertverres_)
 
- _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
+_expression_ An expression that returns a **[SignatureProvider](Office.SignatureProvider.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _QueryContinue_|Required|**IQueryContinue**|Provides a way to query the host application for permission to continue the verification operation.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies configuration information about a signature line.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information captured from the signing ceremony.|
-| _XmlDsigStream_|Required|**IStream**|Represents a steam of data containing XML, which represents an  **XMLDSIG** object.|
+| _XmlDsigStream_|Required|**IStream**|Represents a stream of data containing XML, which represents an **XMLDSIG** object.|
 | _pcontverres_|Required|**ContentVerificationResults**|Specifies the status of the signature verification action.|
 | _pcertverres_|Required|**CertificateVerificationResults**|Specifies the status of the signing certificate verification.|
 
@@ -44,10 +42,10 @@ XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-cor
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **VerifyXmlDsig** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **VerifyXmlDsig** method in a custom signature provider project.
 
 
-```vb
+```cs
  public void VerifyXmlDsig(object queryContinue, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream, ref ContentVerificationResults contverresults, ref CertificateVerificationResults certverresults) 
  { 
  using (COMStream comstream = new COMStream(xmldsigStream)) 
@@ -73,11 +71,8 @@ The following example, written in C#, shows the implementation of the  **VerifyX
 
 ## See also
 
-
-[SignatureProvider Object](Office.SignatureProvider.md)
-
+- [SignatureProvider object members](overview/Library-Reference/signatureprovider-members-office.md)
 
 
-[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

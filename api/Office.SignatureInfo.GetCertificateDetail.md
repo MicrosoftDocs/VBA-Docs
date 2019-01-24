@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureInfo.GetCertificateDetail
 ms.assetid: f3cab134-5560-be37-25b4-2cbbfcf0693e
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Displays a specified detail related to a digital certificate.
 
 ## Syntax
 
-_expression_. `GetCertificateDetail`( `_certdet_` )
+_expression_.**GetCertificateDetail**(_certdet_)
 
- _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
+_expression_ An expression that returns a **[SignatureInfo](Office.SignatureInfo.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -56,11 +54,8 @@ End Sub
 
 ## See also
 
-
-[SignatureInfo Object](Office.SignatureInfo.md)
-
+- [SignatureInfo object members](overview/Library-Reference/signatureinfo-members-office.md)
 
 
-[SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

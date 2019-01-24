@@ -7,44 +7,41 @@ ms.prod: office
 api_name:
 - Office.SignatureProvider.ShowSigningCeremony
 ms.assetid: d098e755-2f64-4801-6b5c-ef36d721ee9c
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SignatureProvider.ShowSigningCeremony method (Office)
 
-Provides a signature provider add-in the opportunity to display the  **Signature** dialog box to users, allowing them to specify their identity and then be authenticated.
-
+Provides a signature provider add-in the opportunity to display the **Signature** dialog box to users, allowing them to specify their identity and then be authenticated.
 
 ## Syntax
 
-_expression_. `ShowSigningCeremony`( `_ParentWindow_`, `_psigsetup_`, `_psiginfo_` )
+_expression_.**ShowSigningCeremony**(_ParentWindow_, _psigsetup_, _psiginfo_)
 
- _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
+_expression_ An expression that returns a **[SignatureProvider](Office.SignatureProvider.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the  **Signature** dialog box.|
+| _ParentWindow_|Required|**IOleWindow**|Contains the handle to the window containing the **Signature** dialog box.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information about the signature provider.|
 
 ## Remarks
 
-This method is internally called by the Microsoft Office application when the user is attempting to sign a signature line, or if the add-in has called the  **Sign** method in the Office application's object model on a **SignatureLine** object.
+This method is internally called by the Microsoft Office application when the user is attempting to sign a signature line, or if the add-in has called the **Sign** method in the Office application's object model on a **SignatureLine** object.
 
 
 ## Example
 
-The following example, written in C#, shows the implementation of the  **ShowSigningCeremony** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **ShowSigningCeremony** method in a custom signature provider project.
 
 
-```vb
+```cs
  public void ShowSigningCeremony(object parentWindow, SignatureSetup sigsetup, SignatureInfo siginfo) 
  { 
  using (Win32WindowFromOleWindow window = new Win32WindowFromOleWindow(parentWindow)) 
@@ -72,11 +69,8 @@ The following example, written in C#, shows the implementation of the  **ShowSig
 
 ## See also
 
-
-[SignatureProvider Object](Office.SignatureProvider.md)
-
+- [SignatureProvider object members](overview/Library-Reference/signatureprovider-members-office.md)
 
 
-[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureInfo.SelectCertificateDetailByThumbprint
 ms.assetid: 997010ee-330f-433d-c62c-bf211b8351d6
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Displays a dialog box containing information about a digital certificate followi
 
 ## Syntax
 
-_expression_. `SelectCertificateDetailByThumbprint`( `_bstrThumbprint_` )
+_expression_.**SelectCertificateDetailByThumbprint**(_bstrThumbprint_)
 
- _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
+_expression_ An expression that returns a **[SignatureInfo](Office.SignatureInfo.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -51,11 +49,8 @@ End Sub
 
 ## See also
 
-
-[SignatureInfo Object](Office.SignatureInfo.md)
-
+- [SignatureInfo object members](overview/Library-Reference/signatureinfo-members-office.md)
 
 
-[SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
