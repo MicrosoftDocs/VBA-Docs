@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SignatureSet.Subset property (Office)
 
-Gets or sets a value that acts as a filter on the available **Signature** objects for a document. Read/write.
+Gets or sets a value that acts as a filter on the available **[Signature](office.signature.md)** objects for a document. Read/write.
 
 
 ## Syntax
