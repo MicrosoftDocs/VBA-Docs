@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SmartArtNode.Promote
 ms.assetid: 806dae89-7a05-7597-70dc-ad297c79fbff
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
@@ -16,9 +16,9 @@ Promotes the current node (and all its children) a single level within the data 
 
 ## Syntax
 
-_expression_. `Promote`
+_expression_.**Promote**
 
-_expression_ An expression that returns a [SmartArtNode](Office.SmartArtNode.md) object.
+_expression_ An expression that returns a **[SmartArtNode](Office.SmartArtNode.md)** object.
 
 
 ## Return value
@@ -28,7 +28,7 @@ Nothing
 
 ## Remarks
 
-This functionality mimics the promote button on the Microsoft Office Fluent Ribbon UI when working within the content pane. For example, given the following data model, if B is promoted, the resulting data model looks like the following: 
+This functionality mimics the **Promote** button on the Microsoft Office Fluent Ribbon UI when working within the content pane. For example, given the following data model, if B is promoted, the resulting data model looks like the following: 
 
 - A
   - B
@@ -44,7 +44,8 @@ This functionality mimics the promote button on the Microsoft Office Fluent Ribb
 
 ## See also
 
-- [SmartArtNode Object](Office.SmartArtNode.md)
-- [SmartArtNode Object Members](./overview/Library-Reference/smartartnode-members-office.md)
+- [SmartArtNode object members](overview/Library-Reference/smartartnode-members-office.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

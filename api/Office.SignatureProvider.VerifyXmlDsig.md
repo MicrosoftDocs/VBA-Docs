@@ -37,7 +37,7 @@ _expression_ An expression that returns a **[SignatureProvider](Office.Signature
 
 ## Remarks
 
-XMLDSIG is a standards-based signature format (https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in Microsoft Office.
+XMLDSIG is a [standards-based signature format](https://www.w3.org/TR/xmldsig-core/), verifiable by third parties. This is the default format for signatures in Microsoft Office.
 
 
 ## Example

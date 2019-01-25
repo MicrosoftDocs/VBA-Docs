@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SignatureSet object (Office)
 
-A collection of **Signature** objects that correspond to the digital signature attached to a document.
+A collection of **[Signature](office.signature.md)** objects that correspond to the digital signature attached to a document.
 
 
 ## Remarks

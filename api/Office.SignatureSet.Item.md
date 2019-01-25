@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SignatureSet.Item property (Office)
 
-Gets a **Signature** object that corresponds to one of the digital signatures with which the document is currently signed. Read-only.
+Gets a **[Signature](office.signature.md)** object that corresponds to one of the digital signatures with which the document is currently signed. Read-only.
 
 
 ## Syntax

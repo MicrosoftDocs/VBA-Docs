@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Sync.LastSyncTime
 ms.assetid: d85af059-a39e-e100-c81a-06265b43cade
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
@@ -22,16 +22,16 @@ Gets the date and time when the local copy of the active document was last synch
 
 ## Syntax
 
-_expression_. `LastSyncTime`
+_expression_.**LastSyncTime**
 
-_expression_ A variable that represents a [Sync](Office.Sync.md) object.
+_expression_ A variable that represents a **[Sync](Office.Sync.md)** object.
 
 
 ## Remarks
 
-Use the  **LastSyncTime** property to determine how much time has elapsed since the local copy of the active document was last synchronized with the server copy. Check the **[Status](Office.Sync.Status.md)** property to determine whether the local copy and the server copy are out of sync.
+Use the **LastSyncTime** property to determine how much time has elapsed since the local copy of the active document was last synchronized with the server copy. Check the **[Status](Office.Sync.Status.md)** property to determine whether the local copy and the server copy are out of sync.
 
-If the active document is not configured for synchronization between the local copy and the server copy, the  **LastSyncTime** property raises a run-time error.
+If the active document is not configured for synchronization between the local copy and the server copy, the **LastSyncTime** property raises a run-time error.
 
 
 ## Example
@@ -58,11 +58,8 @@ The following example alerts the user and displays the sync status if more than 
 
 ## See also
 
-
-[Sync Object](Office.Sync.md)
-
+- [Sync object members](overview/Library-Reference/sync-members-office.md)
 
 
-[Sync Object Members](./overview/Library-Reference/sync-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
