@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureInfo.GetSignatureDetail
 ms.assetid: 77a5a835-cc8a-0341-8e5d-6ddb603f9517
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Displays a specified detail related to a signature.
 
 ## Syntax
 
-_expression_. `GetSignatureDetail`( `_sigdet_` )
+_expression_.**GetSignatureDetail**(_sigdet_)
 
- _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
+_expression_ An expression that returns a **[SignatureInfo](Office.SignatureInfo.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -55,11 +53,8 @@ End Sub
 
 ## See also
 
-
-[SignatureInfo Object](Office.SignatureInfo.md)
-
+- [SignatureInfo object members](overview/Library-Reference/signatureinfo-members-office.md)
 
 
-[SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

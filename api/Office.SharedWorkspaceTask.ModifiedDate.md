@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.ModifiedDate
 ms.assetid: 26b96d4d-b3ee-a9cc-2a00-73457820b3e1
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspaceTask.ModifiedDate property (Office)
 
-Gets the date and time when the  **SharedWorkspaceTask** object was last modified. Read-only.
+Gets the date and time when the **SharedWorkspaceTask** object was last modified. Read-only.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,9 +22,9 @@ Gets the date and time when the  **SharedWorkspaceTask** object was last modifie
 
 ## Syntax
 
-_expression_. `ModifiedDate`
+_expression_.**ModifiedDate**
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Return value
@@ -57,11 +57,8 @@ Dim swsFile As Office.SharedWorkspaceFile
 
 ## See also
 
-
-[SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 
-[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

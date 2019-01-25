@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureProvider.GenerateSignatureLineImage
 ms.assetid: 36430574-939a-4050-c7b1-ce738be334a2
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,43 +19,36 @@ Gets a signature line image.
 
 ## Syntax
 
-_expression_. `GenerateSignatureLineImage`( `_siglnimg_`, `_psigsetup_`, `_psiginfo_` )
+_expression_.**GenerateSignatureLineImage**(_siglnimg_, _psigsetup_, _psiginfo_)
 
- _expression_ An expression that returns a [SignatureProvider](Office.SignatureProvider.md) object.
+_expression_ An expression that returns a **[SignatureProvider](Office.SignatureProvider.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _siglnimg_|Required|**SignatureLineImage**|Contains the name if the signature line graphic.|
+| _siglnimg_|Required|**SignatureLineImage**|Contains the name of the signature line graphic.|
 | _psigsetup_|Required|**SignatureSetup**|Specifies initial settings of the signature provider add-in.|
 | _psiginfo_|Required|**SignatureInfo**|Specifies information about the signature provider add-in.|
 
 ## Remarks
 
-The  **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is called for each of the images that is displayed in the document's content. The method can be called asynchronously. For example, the method may be called for the "Unsigned" image and the "No-software" image directly after signature setup. The method may then be called after signing for the "Signed" image. The four images used are:
+The **SignatureProvider** object is used exclusively in custom signature provider add-ins. This method is called for each of the images that is displayed in the document's content. The method can be called asynchronously. For example, the method may be called for the "Unsigned" image and the "No-software" image directly after signature setup. The method may then be called after signing for the "Signed" image. The four images used are:
 
-
--  **siglnimgSoftwareRequired**: This image is displayed to the user if the signature provider add-in is not installed on the user's computer. If the user tries to sign or view a signature line, they are redirected to a provider-supplied hyperlink specified in the **GetProviderDetail** method.
+- **siglnimgSoftwareRequired**: This image is displayed to the user if the signature provider add-in is not installed on the user's computer. If the user tries to sign or view a signature line, they are redirected to a provider-supplied hyperlink specified in the **GetProviderDetail** method.
     
--  **siglnimgUnsigned**: This image is displayed for an unsigned signature image. Basically, when a document loads with an unsigned signature line, the signature provider prompts for an up-to-date signature image and shows this image.
+- **siglnimgUnsigned**: This image is displayed for an unsigned signature image. Basically, when a document loads with an unsigned signature line, the signature provider prompts for an up-to-date signature image and shows this image.
     
--  **siglnimgSignedValid**: This is the image that is displayed when a signature line is signed and valid (or, to be more specific, signed and the signature does not register as invalid). When the document opens, it is assumed that all signed signatures are valid until the verification process is complete, at which point a "Signed/invalid" image is displayed for the invalid signatures. Because signature verification is time-intensive, the signature verification runs in parallel with Office on a background thread. Because your add-in implements signature verification, your code runs parallel with Office and should not attempt to display UI during signing or verifying.
+- **siglnimgSignedValid**: This is the image that is displayed when a signature line is signed and valid (or, to be more specific, signed and the signature does not register as invalid). When the document opens, it is assumed that all signed signatures are valid until the verification process is complete, at which point a "Signed/invalid" image is displayed for the invalid signatures. Because signature verification is time-intensive, the signature verification runs in parallel with Office on a background thread. Because your add-in implements signature verification, your code runs parallel with Office and should not attempt to display UI during signing or verifying.
     
--  **siglnimgSignedInvalid**: This is the image we show when a signature line is signed but there is a problem with the signature, such as the document was modified or the user's certificate is revoked. Because your add-in implements signature verification, you can decide how and when a signature is invalid.
+- **siglnimgSignedInvalid**: This is the image we show when a signature line is signed but there is a problem with the signature, such as the document was modified or the user's certificate is revoked. Because your add-in implements signature verification, you can decide how and when a signature is invalid.
     
-
-
-
 ## Example
 
-The following example, written in C#, shows the implementation of the  **GenerateSignatureLineImage** method in a custom signature provider project.
+The following example, written in C#, shows the implementation of the **GenerateSignatureLineImage** method in a custom signature provider project.
 
-
-```vb
+```cs
  public IPictureDisp GenerateSignatureLineImage(SignatureLineImage siglnimg, SignatureSetup sigsetup, SignatureInfo siginfo, object xmldsigStream) 
  { 
  IPictureDisp sigline = null; 
@@ -108,11 +101,8 @@ The following example, written in C#, shows the implementation of the  **Generat
 
 ## See also
 
-
-[SignatureProvider Object](Office.SignatureProvider.md)
-
+- [SignatureProvider object members](overview/Library-Reference/signatureprovider-members-office.md)
 
 
-[SignatureProvider Object Members](./overview/Library-Reference/signatureprovider-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

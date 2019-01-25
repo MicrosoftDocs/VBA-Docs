@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.CreatedBy
 ms.assetid: cfc16e77-0412-2a55-68b5-cee2abef5058
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,9 +22,9 @@ Gets the display name of the member who created the shared workspace object. Rea
 
 ## Syntax
 
-_expression_. `CreatedBy`
+_expression_.**CreatedBy**
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Return value
@@ -34,11 +34,8 @@ String
 
 ## See also
 
-
-[SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 
-[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

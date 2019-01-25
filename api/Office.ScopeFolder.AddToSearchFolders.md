@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ScopeFolder.AddToSearchFolders method (Office)
 
-Adds a **ScopeFolder** object to the **SearchFolders** collection.
+Adds a **ScopeFolder** object to the **[SearchFolders](office.searchfolders.md)** collection.
 
 
 ## Syntax

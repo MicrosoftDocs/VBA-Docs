@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceMember.Name
 ms.assetid: 6a7918a0-6029-4fe1-6c55-d100a360eddc
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,9 +22,9 @@ Gets the display name of the shared workspace member. Read-only.
 
 ## Syntax
 
-_expression_. `Name`
+_expression_.**Name**
 
-_expression_ A variable that represents a [SharedWorkspaceMember](Office.SharedWorkspaceMember.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceMember](Office.SharedWorkspaceMember.md)** object.
 
 
 ## Return value
@@ -52,11 +52,8 @@ The following example displays properties of the shared workspace member.
 
 ## See also
 
-
-[SharedWorkspaceMember Object](Office.SharedWorkspaceMember.md)
-
+- [SharedWorkspaceMember object members](overview/Library-Reference/sharedworkspacemember-members-office.md)
 
 
-[SharedWorkspaceMember Object Members](./overview/Library-Reference/sharedworkspacemember-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

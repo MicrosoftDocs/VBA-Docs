@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PictureEffect.Position property (Office)
 
-Specifies the position of a **PictureEffect** in a chain of composite effects. Read/write.
+Specifies the position of a picture effect in a chain of composite effects. Read/write.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureSetup.AdditionalXml
 ms.assetid: dd091bd0-f690-7a13-258d-6a4a811d56b6
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets or sets any additional XML information added to the signature during setup.
 
 ## Syntax
 
-_expression_. `AdditionalXml`
+_expression_.**AdditionalXml**
 
- _expression_ An expression that returns a [SignatureSetup](Office.SignatureSetup.md) object.
+_expression_ An expression that returns a **[SignatureSetup](Office.SignatureSetup.md)** object.
 
 
 ## Return value
@@ -31,11 +31,8 @@ String
 
 ## See also
 
-
-[SignatureSetup Object](Office.SignatureSetup.md)
-
+- [SignatureSetup object members](overview/Library-Reference/signaturesetup-members-office.md)
 
 
-[SignatureSetup Object Members](./overview/Library-Reference/signaturesetup-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

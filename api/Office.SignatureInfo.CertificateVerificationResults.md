@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SignatureInfo.CertificateVerificationResults
 ms.assetid: dc661f7e-f02e-79a6-91d6-c124109c6d4c
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets the results from the verification of a digital certificate. Read-only.
 
 ## Syntax
 
-_expression_. `CertificateVerificationResults`
+_expression_.**CertificateVerificationResults**
 
- _expression_ An expression that returns a [SignatureInfo](Office.SignatureInfo.md) object.
+_expression_ An expression that returns a **[SignatureInfo](Office.SignatureInfo.md)** object.
 
 
 ## Return value
@@ -31,11 +31,8 @@ CertificateVerificationResults
 
 ## See also
 
-
-[SignatureInfo Object](Office.SignatureInfo.md)
-
+- [SignatureInfo object members](overview/Library-Reference/signatureinfo-members-office.md)
 
 
-[SignatureInfo Object Members](./overview/Library-Reference/signatureinfo-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

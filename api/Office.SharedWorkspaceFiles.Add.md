@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFiles.Add
 ms.assetid: d6a8e86b-2075-be56-3e3f-75c3ffa6241c
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspaceFiles.Add method (Office)
 
-Adds a file to the document library in a shared workspace. Returns a  **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** object.
+Adds a file to the document library in a shared workspace. Returns a **[SharedWorkspaceFile](Office.SharedWorkspaceFile.md)** object.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,14 +22,12 @@ Adds a file to the document library in a shared workspace. Returns a  **[SharedW
 
 ## Syntax
 
-_expression_. `Add`( `_FileName_`, `_ParentFolder_`, `_OverwriteIfFileAlreadyExists_`, `_KeepInSync_` )
+_expression_.**Add** (_FileName_, _ParentFolder_, _OverwriteIfFileAlreadyExists_, _KeepInSync_)
 
- _expression_ Required. A variable that represents a '[SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md)' object.
+_expression_ Required. A variable that represents a **[SharedWorkspaceFiles](Office.SharedWorkspaceFiles.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -56,13 +54,11 @@ The following example adds a new file to the files collection of the shared work
 ```
 
 
+
 ## See also
 
-
-[SharedWorkspaceFiles Object](Office.SharedWorkspaceFiles.md)
-
+- [SharedWorkspaceFiles object members](overview/Library-Reference/sharedworkspacefiles-members-office.md)
 
 
-[SharedWorkspaceFiles Object Members](./overview/Library-Reference/sharedworkspacefiles-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

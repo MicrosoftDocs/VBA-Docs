@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PictureEffect object (Office)
 
-Represents a Picture Effect.
+Represents a picture effect.
 
 
 ## Remarks

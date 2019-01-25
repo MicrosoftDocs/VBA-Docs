@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SignatureDetail
 ms.assetid: 91f46046-6170-b1a1-74dd-de10d59a3c31
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -12,8 +12,6 @@ localization_priority: Normal
 # SignatureDetail enumeration (Office)
 
 Indicates additional information about a signature.
-
-
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -39,5 +37,7 @@ Indicates additional information about a signature.
 |**sigdetSignedData**|9|Specifies the signed data.|
 |**sigdetVertResolution**|7|Specifies the vertical resolution.|
 |**sigdetWindowsVersion**|4|Specifies the Windows version.|
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

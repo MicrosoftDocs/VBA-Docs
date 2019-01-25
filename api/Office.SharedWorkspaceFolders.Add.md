@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolders.Add
 ms.assetid: 5b941034-502b-b2a5-c6b3-aed57bc2a578
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspaceFolders.Add method (Office)
 
-Adds a folder to the document library in a shared workspace. Returns a  **[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)** object.
+Adds a folder to the document library in a shared workspace. Returns a **[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)** object.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,14 +22,12 @@ Adds a folder to the document library in a shared workspace. Returns a  **[Share
 
 ## Syntax
 
-_expression_. `Add`( `_FolderName_`, `_ParentFolder_` )
+_expression_.**Add** (_FolderName_, _ParentFolder_)
 
- _expression_ Required. A variable that represents a '[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)' object.
+_expression_ Required. A variable that represents a **[SharedWorkspaceFolders](Office.SharedWorkspaceFolders.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -54,11 +52,8 @@ The following example adds a new folder to the folders collection of the shared 
 
 ## See also
 
-
-[SharedWorkspaceFolders Object](Office.SharedWorkspaceFolders.md)
-
+- [SharedWorkspaceFolders object members](overview/Library-Reference/sharedworkspacefolders-members-office.md)
 
 
-[SharedWorkspaceFolders Object Members](./overview/Library-Reference/sharedworkspacefolders-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

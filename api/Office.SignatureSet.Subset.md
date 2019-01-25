@@ -7,21 +7,21 @@ ms.prod: office
 api_name:
 - Office.SignatureSet.Subset
 ms.assetid: 0ce176cb-9869-19ed-a3bc-e17b04c59255
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SignatureSet.Subset property (Office)
 
-Gets or sets a value that acts as a filter on the available  **Signature** objects for a document. Read/write.
+Gets or sets a value that acts as a filter on the available **Signature** objects for a document. Read/write.
 
 
 ## Syntax
 
-_expression_. `Subset`
+_expression_.**Subset**
 
- _expression_ An expression that returns a [SignatureSet](Office.SignatureSet.md) object.
+_expression_ An expression that returns a **[SignatureSet](Office.SignatureSet.md)** object.
 
 
 ## Return value
@@ -31,11 +31,8 @@ MsoSignatureSubset
 
 ## See also
 
-
-[SignatureSet Object](Office.SignatureSet.md)
-
+- [SignatureSet object members](overview/Library-Reference/signatureset-members-office.md)
 
 
-[SignatureSet Object Members](./overview/Library-Reference/signatureset-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

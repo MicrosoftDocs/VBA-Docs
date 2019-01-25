@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspace.SourceURL
 ms.assetid: 2c5de79b-ef91-4135-2caf-e05cfd138c82
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,23 +22,22 @@ Designates the location of the public copy of a shared document to which changes
 
 ## Syntax
 
-_expression_. `SourceURL`
+_expression_.**SourceURL**
 
-_expression_ A variable that represents a [SharedWorkspace](Office.SharedWorkspace.md) object.
+_expression_ A variable that represents a **[SharedWorkspace](Office.SharedWorkspace.md)** object.
 
 
 ## Remarks
 
-The Microsoft SharePoint Team Services user interface allows users to copy a public shared document from a document library to a separate document workspace for temporary collaboration purposes, then publish changes back to the original source location. The  **SourceURL** property indicates the original source location of a document copy stored in a temporary workspace.
+The Microsoft SharePoint Team Services user interface allows users to copy a public shared document from a document library to a separate document workspace for temporary collaboration purposes, and then publish changes back to the original source location. 
+
+The **SourceURL** property indicates the original source location of a document copy stored in a temporary workspace.
 
 
 ## See also
 
-
-[SharedWorkspace Object](Office.SharedWorkspace.md)
-
+- [SharedWorkspace object members](overview/Library-Reference/sharedworkspace-members-office.md)
 
 
-[SharedWorkspace Object Members](./overview/Library-Reference/sharedworkspace-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

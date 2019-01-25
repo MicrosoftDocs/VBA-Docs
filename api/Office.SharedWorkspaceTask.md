@@ -7,14 +7,14 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask
 ms.assetid: fbd82b03-53fa-12ff-9fb2-07bef012dde8
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspaceTask object (Office)
 
-The  **SharedWorkspaceTask** object represents a task in a shared document workspace. Member of the **SharedWorkspaceTasks** collection.
+The **SharedWorkspaceTask** object represents a task in a shared document workspace. Member of the **SharedWorkspaceTasks** collection.
 
 > [!NOTE] 
 > Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
@@ -22,19 +22,19 @@ The  **SharedWorkspaceTask** object represents a task in a shared document works
 
 ## Remarks
 
-Use the  **SharedWorkspaceTask** object to manage tasks assigned to the members who are collaborating on the documents in the shared workspace.
+Use the **SharedWorkspaceTask** object to manage tasks assigned to the members who are collaborating on the documents in the shared workspace.
 
-Use the  **Item** ( _index_ ) property of the **SharedWorkspaceTasks** collection to return a specific **SharedWorkspaceTask** object.
+Use the **Item** (_index_) property of the **SharedWorkspaceTasks** collection to return a specific **SharedWorkspaceTask** object.
 
-Use the  **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace Web page. Use the **Description** property to supply additional information about the task.
+Use the **Title** property to set the text of the task that appears on the **Tasks** tab of the **Shared Workspace** task pane and on the shared workspace web page. Use the **Description** property to supply additional information about the task.
 
-Assign the task to a member of the workspace using the  **AssignedTo** property and the member's domain user name. Specify a due date for the task using the **DueDate** property.
+Assign the task to a member of the workspace by using the **AssignedTo** property and the member's domain user name. Specify a due date for the task by using the **DueDate** property.
 
-Use the enumerations for task  **Priority** and **Status** to indicate the relative importance of the task and to update the task's status.
+Use the enumerations for task **Priority** and **Status** to indicate the relative importance of the task and to update the task's status.
 
-Use the  **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceTask** object.
+Use the **Save** method to upload changes to the server after you modify properties of the **SharedWorkspaceTask** object.
 
-Use the  **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each task.
+Use the **CreatedBy**, **CreatedDate**, **ModifiedBy**, and **ModifiedDate** properties to return information about the history of each task.
 
 
 ## Example
@@ -62,41 +62,10 @@ The following example returns the number of tasks in the shared workspace and in
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Delete](Office.SharedWorkspaceTask.Delete.md)|
-|[Save](Office.SharedWorkspaceTask.Save.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.SharedWorkspaceTask.Application.md)|
-|[AssignedTo](Office.SharedWorkspaceTask.AssignedTo.md)|
-|[CreatedBy](Office.SharedWorkspaceTask.CreatedBy.md)|
-|[CreatedDate](Office.SharedWorkspaceTask.CreatedDate.md)|
-|[Creator](Office.SharedWorkspaceTask.Creator.md)|
-|[Description](Office.SharedWorkspaceTask.Description.md)|
-|[DueDate](Office.SharedWorkspaceTask.DueDate.md)|
-|[ModifiedBy](Office.SharedWorkspaceTask.ModifiedBy.md)|
-|[ModifiedDate](Office.SharedWorkspaceTask.ModifiedDate.md)|
-|[Parent](Office.SharedWorkspaceTask.Parent.md)|
-|[Priority](Office.SharedWorkspaceTask.Priority.md)|
-|[Status](Office.SharedWorkspaceTask.Status.md)|
-|[Title](Office.SharedWorkspaceTask.Title.md)|
-
 ## See also
 
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceTask.Save
 ms.assetid: ebddddd5-f42d-5790-7bca-693554982edc
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,14 +22,12 @@ Uploads changes made programmatically to a shared server.
 
 ## Syntax
 
-_expression_. `Save`
+_expression_.**Save** (_bstrQueryName_)
 
-_expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWorkspaceTask.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedWorkspaceTask.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,16 +35,13 @@ _expression_ A variable that represents a [SharedWorkspaceTask](Office.SharedWor
 
 ## Remarks
 
-Use the Save method to upload changes to the server after changing the properties of a shared workspace task.
+Use the **Save** method to upload changes to the server after changing the properties of a shared workspace task.
 
 
 ## See also
 
-
-[SharedWorkspaceTask Object](Office.SharedWorkspaceTask.md)
-
+- [SharedWorkspaceTask object members](overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 
-[SharedWorkspaceTask Object Members](./overview/Library-Reference/sharedworkspacetask-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

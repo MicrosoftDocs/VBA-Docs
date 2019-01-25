@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.SharedWorkspaceFolder.FolderName
 ms.assetid: 1a5df8fc-0e9a-3e4e-675d-dff3fd3e7f2a
-ms.date: 06/08/2017
+ms.date: 01/24/2019
 localization_priority: Normal
 ---
 
@@ -22,14 +22,14 @@ Gets the name of a subfolder within the main document library folder of a shared
 
 ## Syntax
 
-_expression_. `FolderName`
+_expression_.**FolderName**
 
-_expression_ A variable that represents a [SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md) object.
+_expression_ A variable that represents a **[SharedWorkspaceFolder](Office.SharedWorkspaceFolder.md)** object.
 
 
 ## Remarks
 
-The  **FolderName** property returns the subfolder name in the format parentfolder/subfolder. For example, if the shared workspace contains a folder named "Supporting Documents", the **FolderName** property returns Shared Documents/Supporting Documents.
+The **FolderName** property returns the subfolder name in the format parentfolder/subfolder. For example, if the shared workspace contains a folder named `"Supporting Documents"`, the **FolderName** property returns `"Shared Documents/Supporting Documents"`.
 
 
 ## Example
@@ -56,11 +56,8 @@ The following example displays the number of subfolders in the shared workspace 
 
 ## See also
 
-
-[SharedWorkspaceFolder Object](Office.SharedWorkspaceFolder.md)
-
+- [SharedWorkspaceFolder object members](overview/Library-Reference/sharedworkspacefolder-members-office.md)
 
 
-[SharedWorkspaceFolder Object Members](./overview/Library-Reference/sharedworkspacefolder-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
