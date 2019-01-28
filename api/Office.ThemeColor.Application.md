@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.ThemeColor.Application
 ms.assetid: af9f011b-6a9a-8dce-96b3-683160679ed2
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
