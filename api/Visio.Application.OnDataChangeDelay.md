@@ -40,7 +40,7 @@ The **OnDataChangeDelay** property affects only instances of Visio that are run 
 - Setting the **OnDataChangeDelay** property to any value other than -1 or 0 overrides the registry setting and sets the delay between advises to the value of **OnDataChangeDelay**. If the **OnDataChangeDelay** property is not set or set to 1 and the **OLEUpdateDelay** setting is 0, Visio never sends advises to the container.
     
 > [!NOTE] 
-> If you experience decreased performance when you add or move shapes that are contained in a Visio drawing that is hosted in the Visio Drawing Control, you can install a hot fix and then use the **OnDataChangeDelay** property to overcome this problem. For more information, see the Microsoft Knowledge Base article [839079](https://support.microsoft.com/?scid=http%3a%2f%2fwww.support.microsoft.com%2fkb%2f839079%2f).
+> If you experience decreased performance when you add or move shapes that are contained in a Visio drawing that is hosted in the Visio Drawing Control, you can install a hot fix and then use the **OnDataChangeDelay** property to overcome this problem. 
 
 
 

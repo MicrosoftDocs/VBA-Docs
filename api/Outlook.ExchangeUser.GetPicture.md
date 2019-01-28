@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # ExchangeUser.GetPicture Method (Outlook)
 
-Obtains an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
+Obtains an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the picture of the Microsoft Exchange user that is displayed in Microsoft Outlook.
 
 
 ## Syntax
 
-_expression_. `GetPicture`
+_expression_.**GetPicture**
 
-_expression_ A variable that represents an '[ExchangeUser](Outlook.ExchangeUser.md)' object.
+_expression_ A variable that represents an **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 
 ## Return value
@@ -35,12 +35,10 @@ The picture of the Exchange user is stored in Active Directory and displayed in 
 
 If the picture does not exist for the user,  **GetPicture** returns **Null** (**Nothing** for Visual Basic).
 
-You can only call  **GetPicture** from code that runs in-process as Outlook. An **StdPicture** object cannot be marshaled across process boundaries. If you attempt to call **GetPicture** from out-of-process code, an exception occurs. For more information, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **GetPicture** from code that runs in-process as Outlook. An **StdPicture** object cannot be marshaled across process boundaries. If you attempt to call **GetPicture** from out-of-process code, an exception occurs. 
 
 
-## See also
 
 
-[ExchangeUser Object](Outlook.ExchangeUser.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

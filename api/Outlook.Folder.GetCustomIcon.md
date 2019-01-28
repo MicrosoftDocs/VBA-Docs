@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Folder.GetCustomIcon Method (Outlook)
 
-Returns an  **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)** object that represents the custom icon for the folder.
+Returns an  **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)** object that represents the custom icon for the folder.
 
 
 ## Syntax
 
-_expression_. `GetCustomIcon`
+_expression_.**GetCustomIcon**
 
-_expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
+_expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object.
 
 
 ## Return value
@@ -33,7 +33,7 @@ An  **IPictureDisp** object that represents a custom icon for the folder.
 
 The returned  **IPictureDisp** object has its **Type** property equal to **PICTYPE_ICON** or **PICTYPE_BITMAP**.
 
- **GetCustomIcon** returns **Null** (**Nothing** in Visual Basic) if the folder does not have a custom folder icon, or if the folder belongs to one of the following groups of folders:
+**GetCustomIcon** returns **Null** (**Nothing** in Visual Basic) if the folder does not have a custom folder icon, or if the folder belongs to one of the following groups of folders:
 
 
 - Default folders (as listed by the  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
@@ -42,16 +42,13 @@ The returned  **IPictureDisp** object has its **Type** property equal to **PICTY
     
 - Exchange public folders
     
--  Root folder of any Exchange mailbox
+- Root folder of any Exchange mailbox
     
 - Hidden folders
     
-You can only call  **GetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **GetCustomIcon** from out-of-process code, an exception occurs. For more information, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **GetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **GetCustomIcon** from out-of-process code, an exception occurs. 
 
 
-## See also
 
-
-[Folder Object](Outlook.Folder.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

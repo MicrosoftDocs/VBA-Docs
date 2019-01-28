@@ -19,9 +19,9 @@ Sets a custom icon that is specified by  _Picture_ for the folder.
 
 ## Syntax
 
-_expression_. `SetCustomIcon`( `_Picture_` )
+_expression_.**SetCustomIcon**(_Picture_)
 
-_expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
+_expression_ A variable that represents a **[Folder](Outlook.Folder.md)** object.
 
 
 ## Parameters
@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Picture_|Required| **[IPictureDisp](https://msdn.microsoft.com/library/ms680762%28VS.85%29.aspx)**|Specifies the custom icon for the folder.|
+| _Picture_|Required| **[IPictureDisp](https://docs.microsoft.com/windows/desktop/api/ocidl/nn-ocidl-ipicturedisp)**|Specifies the custom icon for the folder.|
 
 ## Remarks
 
@@ -39,17 +39,17 @@ The  **IPictureDisp** object specified by _Picture_ must have its **Type** prope
 You can set a custom icon for a search folder and for all folders that do not represent a default or a special folder. If you attempt to set a custom icon for a folder that belongs to one of the following groups of folders,  **SetCustomIcon** will return an error:
 
 
--  Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
+- Default folders (as listed by the **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration)
     
 - Special folders (as listed by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration)
     
 - Exchange public folders
     
--  Root folder of any Exchange mailbox
+- Root folder of any Exchange mailbox
     
 - Hidden folders
     
-You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. For more details, see [An automation server cannot pass a pointer to the picture object's IPictureDisp implementation across process boundaries](https://support.microsoft.com/kb/150034).
+You can only call  **SetCustomIcon** from code that runs in-process as Outlook. An **IPictureDisp** object cannot be marshaled across process boundaries. If you attempt to call **SetCustomIcon** from out-of-process code, an exception will occur. 
 
 The custom folder icon that this method provides does not persist beyond the running Outlook session. Add-ins therefore must set the custom folder icon every time that Outlook boots.
 
@@ -181,9 +181,6 @@ public static class PictureDispConverter
 ```
 
 
-## See also
 
-
-[Folder Object](Outlook.Folder.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
