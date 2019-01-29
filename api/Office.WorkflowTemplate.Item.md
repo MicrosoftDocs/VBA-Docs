@@ -17,14 +17,12 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
- _expression_ An expression that returns a **WorkflowTemplates** object.
+_expression_ An expression that returns a **[WorkflowTemplate](Office.WorkflowTemplate.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -33,5 +31,12 @@ Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Re
 ## Return value
 
 WorkflowTemplate
+
+
+## See also
+
+- [WorkflowTemplate object members](overview/Library-Reference/workflowtemplate-members-office.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

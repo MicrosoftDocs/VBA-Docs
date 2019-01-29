@@ -42,22 +42,10 @@ End Sub
 ```
 
 
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.WorkflowTemplates.Application.md)|
-|[Count](Office.WorkflowTemplates.Count.md)|
-|[Creator](Office.WorkflowTemplates.Creator.md)|
-
 ## See also
 
+- [WorkflowTemplates object members](overview/Library-Reference/workflowtemplates-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,34 +47,9 @@ End Sub
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Show](Office.WorkflowTemplate.Show.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.WorkflowTemplate.Application.md)|
-|[Creator](Office.WorkflowTemplate.Creator.md)|
-|[Description](Office.WorkflowTemplate.Description.md)|
-|[DocumentLibraryName](Office.WorkflowTemplate.DocumentLibraryName.md)|
-|[DocumentLibraryURL](Office.WorkflowTemplate.DocumentLibraryURL.md)|
-|[Id](Office.WorkflowTemplate.Id.md)|
-|[Name](Office.WorkflowTemplate.Name.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [WorkflowTemplate object members](overview/Library-Reference/workflowtemplate-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

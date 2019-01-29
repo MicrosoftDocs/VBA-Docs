@@ -56,11 +56,8 @@ End Sub
 
 ## See also
 
-
-[WorkflowTemplate Object](Office.WorkflowTemplate.md)
-
+- [WorkflowTemplate object members](overview/Library-Reference/workflowtemplate-members-office.md)
 
 
-[WorkflowTemplate Object Members](./overview/Library-Reference/workflowtemplate-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1539,6 +1539,14 @@
           {
             "source_path": "api/Office.GetUpdate.md",
             "redirect_url": "/office/vba/api/office.sync.getupdate"
+          },
+          {
+            "source_path": "api/overview/library-reference/textrange2-insertchartfield-method-office.md",
+            "redirect_url": "/office/vba/api/Office.TextRange2.InsertChartField"
+          },
+          {
+            "source_path": "api/overview/library-reference/workflowtemplate-item-property-office.md",
+            "redirect_url": "/office/vba/api/Office.WorkflowTemplate.Item"
           }
     ]
 }

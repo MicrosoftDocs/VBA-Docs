@@ -28,11 +28,7 @@ Long
 
 ## See also
 
+- [WorkflowTemplates object members](overview/Library-Reference/workflowtemplates-members-office.md)
 
-[WorkflowTemplates Object](Office.WorkflowTemplates.md)
-
-
-
-[WorkflowTemplates Object Members](./overview/Library-Reference/workflowtemplates-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
