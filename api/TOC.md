@@ -35855,7 +35855,7 @@
 ### [Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 #### [BulletFormat2 object](Office.BulletFormat2.md)
 ##### [BulletFormat2 members](./overview/Library-Reference/bulletformat2-members-office.md)
-##### [Properties](./overview/Library-Reference/bulletformat2-properties-office.md)
+##### Properties 
 ###### [Application](Office.BulletFormat2.Application.md)
 ###### [Character](Office.BulletFormat2.Character.md)
 ###### [Creator](Office.BulletFormat2.Creator.md)
@@ -35869,11 +35869,11 @@
 ###### [UseTextColor](Office.BulletFormat2.UseTextColor.md)
 ###### [UseTextFont](Office.BulletFormat2.UseTextFont.md)
 ###### [Visible](Office.BulletFormat2.Visible.md)
-##### [Methods](./overview/Library-Reference/bulletformat2-methods-office.md)
+##### Methods
 ###### [Picture](Office.BulletFormat2.Picture.md)
 #### [COMAddIn object](Office.COMAddIn.md)
 ##### [COMAddIn members](./overview/Library-Reference/comaddin-members-office.md)
-##### [Properties](./overview/Library-Reference/comaddin-properties-office.md)
+##### Properties 
 ###### [Application](Office.COMAddIn.Application.md)
 ###### [Connect](Office.COMAddIn.Connect.md)
 ###### [Creator](Office.COMAddIn.Creator.md)
@@ -35884,17 +35884,17 @@
 ###### [ProgId](Office.COMAddIn.ProgId.md)
 #### [COMAddIns object](Office.COMAddIns.md)
 ##### [COMAddIns members](./overview/Library-Reference/comaddins-members-office.md)
-##### [Properties](./overview/Library-Reference/comaddins-properties-office.md)
+##### Properties 
 ###### [Application](Office.COMAddIns.Application.md)
 ###### [Count](Office.COMAddIns.Count.md)
 ###### [Creator](Office.COMAddIns.Creator.md)
 ###### [Parent](Office.COMAddIns.Parent.md)
-##### [Methods](./overview/Library-Reference/comaddins-methods-office.md)
+##### Methods
 ###### [Item](Office.COMAddIns.Item.md)
 ###### [Update](Office.COMAddIns.Update.md)
 #### [CommandBar object](Office.CommandBar.md)
 ##### [CommandBar members](./overview/Library-Reference/commandbar-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbar-properties-office.md)
+##### Properties 
 ###### [AdaptiveMenu](Office.CommandBar.AdaptiveMenu.md)
 ###### [Application](Office.CommandBar.Application.md)
 ###### [BuiltIn](Office.CommandBar.BuiltIn.md)
@@ -35915,14 +35915,14 @@
 ###### [Type](Office.CommandBar.Type.md)
 ###### [Visible](Office.CommandBar.Visible.md)
 ###### [Width](Office.CommandBar.Width.md)
-##### [Methods](./overview/Library-Reference/commandbar-methods-office.md)
+##### Methods
 ###### [Delete](Office.CommandBar.Delete.md)
 ###### [FindControl](Office.CommandBar.FindControl.md)
 ###### [Reset](Office.CommandBar.Reset.md)
 ###### [ShowPopup](Office.CommandBar.ShowPopup.md)
 #### [CommandBarButton object](Office.CommandBarButton.md)
 ##### [CommandBarButton members](./overview/Library-Reference/commandbarbutton-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbarbutton-properties-office.md)
+##### Properties 
 ###### [Application](Office.CommandBarButton.Application.md)
 ###### [BeginGroup](Office.CommandBarButton.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarButton.BuiltIn.md)
@@ -35956,7 +35956,7 @@
 ###### [Type](Office.CommandBarButton.Type.md)
 ###### [Visible](Office.CommandBarButton.Visible.md)
 ###### [Width](Office.CommandBarButton.Width.md)
-##### [Methods](./overview/Library-Reference/commandbarbutton-methods-office.md)
+##### Methods
 ###### [Copy](Office.CommandBarButton.Copy.md)
 ###### [CopyFace](Office.CommandBarButton.CopyFace.md)
 ###### [Delete](Office.CommandBarButton.Delete.md)
@@ -35965,11 +35965,11 @@
 ###### [PasteFace](Office.CommandBarButton.PasteFace.md)
 ###### [Reset](Office.CommandBarButton.Reset.md)
 ###### [SetFocus](Office.CommandBarButton.SetFocus.md)
-##### [Events](./overview/Library-Reference/commandbarbutton-events-office.md)
+##### Events
 ###### [Click](Office.CommandBarButton.Click.md)
 #### [CommandBarComboBox object](Office.CommandBarComboBox.md)
 ##### [CommandBarComboBox members](./overview/Library-Reference/commandbarcombobox-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbarcombobox-properties-office.md)
+##### Properties 
 ###### [Application](Office.CommandBarComboBox.Application.md)
 ###### [BeginGroup](Office.CommandBarComboBox.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarComboBox.BuiltIn.md)
@@ -36003,7 +36003,7 @@
 ###### [Type](Office.CommandBarComboBox.Type.md)
 ###### [Visible](Office.CommandBarComboBox.Visible.md)
 ###### [Width](Office.CommandBarComboBox.Width.md)
-##### [Methods](./overview/Library-Reference/commandbarcombobox-methods-office.md)
+##### Methods
 ###### [AddItem](Office.CommandBarComboBox.AddItem.md)
 ###### [Clear](Office.CommandBarComboBox.Clear.md)
 ###### [Copy](Office.CommandBarComboBox.Copy.md)
@@ -36013,7 +36013,7 @@
 ###### [RemoveItem](Office.CommandBarComboBox.RemoveItem.md)
 ###### [Reset](Office.CommandBarComboBox.Reset.md)
 ###### [SetFocus](Office.CommandBarComboBox.SetFocus.md)
-##### [Events](./overview/Library-Reference/commandbarcombobox-events-office.md)
+##### Events
 ###### [Change](Office.CommandBarComboBox.Change.md)
 #### [CommandBarControl object](Office.CommandBarControl.md)
 ##### [CommandBarControl members](./overview/Library-Reference/commandbarcontrol-members-office.md)
