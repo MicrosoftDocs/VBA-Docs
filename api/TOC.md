@@ -36017,7 +36017,7 @@
 ###### [Change](Office.CommandBarComboBox.Change.md)
 #### [CommandBarControl object](Office.CommandBarControl.md)
 ##### [CommandBarControl members](./overview/Library-Reference/commandbarcontrol-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbarcontrol-properties-office.md)
+##### Properties
 ###### [Application](Office.CommandBarControl.Application.md)
 ###### [BeginGroup](Office.CommandBarControl.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarControl.BuiltIn.md)
@@ -36043,7 +36043,7 @@
 ###### [Type](Office.CommandBarControl.Type.md)
 ###### [Visible](Office.CommandBarControl.Visible.md)
 ###### [Width](Office.CommandBarControl.Width.md)
-##### [Methods](./overview/Library-Reference/commandbarcontrol-methods-office.md)
+##### Methods
 ###### [Copy](Office.CommandBarControl.Copy.md)
 ###### [Delete](Office.CommandBarControl.Delete.md)
 ###### [Execute](Office.CommandBarControl.Execute.md)
@@ -36052,17 +36052,17 @@
 ###### [SetFocus](Office.CommandBarControl.SetFocus.md)
 #### [CommandBarControls object](Office.CommandBarControls.md)
 ##### [CommandBarControls members](./overview/Library-Reference/commandbarcontrols-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbarcontrols-properties-office.md)
+##### Properties
 ###### [Application](Office.CommandBarControls.Application.md)
 ###### [Count](Office.CommandBarControls.Count.md)
 ###### [Creator](Office.CommandBarControls.Creator.md)
 ###### [Item](Office.CommandBarControls.Item.md)
 ###### [Parent](Office.CommandBarControls.Parent.md)
-##### [Methods](./overview/Library-Reference/commandbarcontrols-methods-office.md)
+##### Methods
 ###### [Add](Office.CommandBarControls.Add.md)
 #### [CommandBarPopup object](Office.CommandBarPopup.md)
 ##### [CommandBarPopup members](./overview/Library-Reference/commandbarpopup-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbarpopup-properties-office.md)
+##### Properties
 ###### [Application](Office.CommandBarPopup.Application.md)
 ###### [BeginGroup](Office.CommandBarPopup.BeginGroup.md)
 ###### [BuiltIn](Office.CommandBarPopup.BuiltIn.md)
@@ -36091,7 +36091,7 @@
 ###### [Type](Office.CommandBarPopup.Type.md)
 ###### [Visible](Office.CommandBarPopup.Visible.md)
 ###### [Width](Office.CommandBarPopup.Width.md)
-##### [Methods](./overview/Library-Reference/commandbarpopup-methods-office.md)
+##### Methods
 ###### [Copy](Office.CommandBarPopup.Copy.md)
 ###### [Delete](Office.CommandBarPopup.Delete.md)
 ###### [Execute](Office.CommandBarPopup.Execute.md)
@@ -36100,7 +36100,7 @@
 ###### [SetFocus](Office.CommandBarPopup.SetFocus.md)
 #### [CommandBars object](Office.CommandBars.md)
 ##### [CommandBars members](./overview/Library-Reference/commandbars-members-office.md)
-##### [Properties](./overview/Library-Reference/commandbars-properties-office.md)
+##### Properties
 ###### [ActionControl](Office.CommandBars.ActionControl.md)
 ###### [ActiveMenuBar](Office.CommandBars.ActiveMenuBar.md)
 ###### [AdaptiveMenus](Office.CommandBars.AdaptiveMenus.md)
@@ -36116,7 +36116,7 @@
 ###### [LargeButtons](Office.CommandBars.LargeButtons.md)
 ###### [MenuAnimationStyle](Office.CommandBars.MenuAnimationStyle.md)
 ###### [Parent](Office.CommandBars.Parent.md)
-##### [Methods](./overview/Library-Reference/commandbars-methods-office.md)
+##### Methods
 ###### [Add](Office.CommandBars.Add.md)
 ###### [CommitRenderingTransaction](Office.CommandBars.CommitRenderingTransaction.md)
 ###### [ExecuteMso](Office.CommandBars.ExecuteMso.md)
@@ -36130,19 +36130,19 @@
 ###### [GetSupertipMso](Office.CommandBars.GetSupertipMso.md)
 ###### [GetVisibleMso](Office.CommandBars.GetVisibleMso.md)
 ###### [ReleaseFocus](Office.CommandBars.ReleaseFocus.md)
-##### [Events](./overview/Library-Reference/commandbars-events-office.md)
+##### Events
 ###### [OnUpdate](Office.CommandBars.OnUpdate.md)
 #### [ContactCard object](Office.ContactCard.md)
 ##### [ContactCard members](./overview/Library-Reference/contactcard-members-office.md)
-##### [Properties](./overview/Library-Reference/contactcard-properties-office.md)
+##### Properties
 ###### [Application](Office.ContactCard.Application.md)
 ###### [Creator](Office.ContactCard.Creator.md)
-##### [Methods](./overview/Library-Reference/contactcard-methods-office.md)
+##### Methods
 ###### [Close](Office.ContactCard.Close.md)
 ###### [Show](Office.ContactCard.Show.md)
 #### [Crop object](Office.Crop.md)
 ##### [Crop members](./overview/Library-Reference/crop-members-office.md)
-##### [Properties](./overview/Library-Reference/crop-properties-office.md)
+##### Properties
 ###### [Application](Office.Crop.Application.md)
 ###### [Creator](Office.Crop.Creator.md)
 ###### [PictureHeight](Office.Crop.PictureHeight.md)
@@ -36155,7 +36155,7 @@
 ###### [ShapeWidth](Office.Crop.ShapeWidth.md)
 #### [CustomTaskPane object](Office.CustomTaskPane.md)
 ##### [CustomTaskPane members](./overview/Library-Reference/customtaskpane-members-office.md)
-##### [Properties](./overview/Library-Reference/customtaskpane-properties-office.md)
+##### Properties
 ###### [Application](Office.CustomTaskPane.Application.md)
 ###### [ContentControl](Office.CustomTaskPane.ContentControl.md)
 ###### [DockPosition](Office.CustomTaskPane.DockPosition.md)
@@ -36165,14 +36165,14 @@
 ###### [Visible](Office.CustomTaskPane.Visible.md)
 ###### [Width](Office.CustomTaskPane.Width.md)
 ###### [Window](Office.CustomTaskPane.Window.md)
-##### [Methods](./overview/Library-Reference/customtaskpane-methods-office.md)
+##### Methods
 ###### [Delete](Office.CustomTaskPane.Delete.md)
-##### [Events](./overview/Library-Reference/customtaskpane-events-office.md)
+##### Events
 ###### [DockPositionStateChange](Office.CustomTaskPane.DockPositionStateChange.md)
 ###### [VisibleStateChange](Office.CustomTaskPane.VisibleStateChange.md)
 #### [CustomXMLNode object](Office.CustomXMLNode.md)
 ##### [CustomXMLNode members](./overview/Library-Reference/customxmlnode-members-office.md)
-##### [Properties](./overview/Library-Reference/customxmlnode-properties-office.md)
+##### Properties
 ###### [Application](Office.CustomXMLNode.Application.md)
 ###### [Attributes](Office.CustomXMLNode.Attributes.md)
 ###### [BaseName](Office.CustomXMLNode.BaseName.md)

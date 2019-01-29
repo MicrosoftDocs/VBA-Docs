@@ -7,44 +7,43 @@ ms.prod: office
 api_name:
 - Office.UserPermission.Permission
 ms.assetid: 6350051e-c87f-f44d-2347-eab10775683b
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
 
 # UserPermission.Permission property (Office)
 
- Returns or sets a **MsoPermission** constant as a **Long** value representing the permissions on the active document assigned to the user associated with the specified **UserPermission** object. Read/write.
+Returns or sets an **[MsoPermission](office.msopermission.md)** constant as a **Long** value representing the permissions on the active document assigned to the user associated with the specified **UserPermission** object. Read/write.
 
 
 ## Syntax
 
-_expression_. `Permission`
+_expression_.**Permission**
 
-_expression_ A variable that represents a [UserPermission](Office.UserPermission.md) object.
+_expression_ A variable that represents a **[UserPermission](Office.UserPermission.md)** object.
 
 
 ## Remarks
 
-The  **Permission** property can be one or a combination of **MsoPermission** constants.
+The **Permission** property can be one or a combination of **MsoPermission** constants.
 
-The  **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Permission** property returns the set of user permissions determined by the specified **UserPermission** object. While some permissions granted through the user interface (such as **msoPermissionPrint**) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
+The **UserPermission** object associates a set of permissions on the active document with a single user and an optional expiration date. The **Permission** property returns the set of user permissions determined by the specified **UserPermission** object. While some permissions granted through the user interface (such as **msoPermissionPrint**) apply to all users, you can use the **UserPermission** object to assign them on a per-user basis with per-user expiration dates.
 
-
-- The  **msoPermissionView** or **msoPermissionRead** option corresponds to the **Read** option in the user interface.
+- The **msoPermissionView** or **msoPermissionRead** option corresponds to the **Read** option in the user interface.
     
-- The  **msoPermissionExtract** option corresponds to the **Allow users with read access to copy content** option in the user interface.
+- The **msoPermissionExtract** option corresponds to the **Allow users with read access to copy content** option in the user interface.
     
-- The  **msoPermissionChange** option corresponds to the **Change** option in the user interface. The **msoPermissionChange** option represents the sum of **msoPermissionView** + **msoPermissionEdit** + **msoPermissionSave** + **msoPermissionExtract** and allows users to view, edit, copy, and save, but not print the document.
+- The **msoPermissionChange** option corresponds to the **Change** option in the user interface. The **msoPermissionChange** option represents the sum of **msoPermissionView** + **msoPermissionEdit** + **msoPermissionSave** + **msoPermissionExtract** and allows users to view, edit, copy, and save, but not print the document.
     
-- The  **msoPermissionPrint** option corresponds to the **Print content** option in the user interface.
+- The **msoPermissionPrint** option corresponds to the **Print content** option in the user interface.
     
-- The  **msoPermissionObjectModel** option corresponds to the **Access content programmatically** option in the user interface and allows users to access the document programmatically through its object model. Users without **msoPermissionObjectModel** cannot use the object model to determine their own rights, since programmatic access is disabled.
+- The **msoPermissionObjectModel** option corresponds to the **Access content programmatically** option in the user interface and allows users to access the document programmatically through its object model. Users without **msoPermissionObjectModel** cannot use the object model to determine their own rights because programmatic access is disabled.
     
 
 ## Example
 
-The following example uses the bitwise  **And** operator with the **Permission** property and an **msoPermission** constant to determine whether the second user has permission to save the active document.
+The following example uses the bitwise **And** operator with the **Permission** property and an **MsoPermission** constant to determine whether the second user has permission to save the active document.
 
 
 ```vb
@@ -69,11 +68,7 @@ The following example uses the bitwise  **And** operator with the **Permission**
 
 ## See also
 
+- [UserPermission object members](overview/Library-Reference/userpermission-members-office.md)
 
-[UserPermission Object](Office.UserPermission.md)
-
-
-
-[UserPermission Object Members](./overview/Library-Reference/userpermission-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

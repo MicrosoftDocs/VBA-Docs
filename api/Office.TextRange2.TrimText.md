@@ -16,9 +16,9 @@ Returns a **TextRange2** object that represents the specified text that has the 
 
 ## Syntax
 
-_expression_. `TrimText`
+_expression_.**TrimText**
 
- _expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
+_expression_ An expression that returns a **[TextRange2](Office.TextRange2.md)** object.
 
 
 ## Return value

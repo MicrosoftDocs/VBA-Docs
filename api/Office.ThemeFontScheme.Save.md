@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.ThemeFontScheme.Save
 ms.assetid: 4adbeac7-b5cf-327e-f999-4dd2d721755d
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,12 @@ Saves the font scheme of a Microsoft Office theme to a file.
 
 ## Syntax
 
-_expression_. `Save`( `_FileName_` )
+_expression_.**Save** (_FileName_)
 
- _expression_ An expression that returns a [ThemeFontScheme](Office.ThemeFontScheme.md) object.
+_expression_ An expression that returns a **[ThemeFontScheme](Office.ThemeFontScheme.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -41,11 +39,8 @@ ThemeFontScheme.Save("C:\myThemeFontScheme.xml")
 
 ## See also
 
-
-[ThemeFontScheme Object](Office.ThemeFontScheme.md)
-
+- [ThemeFontScheme object members](overview/Library-Reference/themefontscheme-members-office.md)
 
 
-[ThemeFontScheme Object Members](./overview/Library-Reference/themefontscheme-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
