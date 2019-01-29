@@ -19,9 +19,9 @@ Gets or sets how long the Microsoft Visio instance waits before advising a conta
 
 ## Syntax
 
- _expression_. `OnDataChangeDelay`
+_expression_.**OnDataChangeDelay**
 
- _expression_ An expression that returns a [InvisibleApp](./Visio.InvisibleApp.md) object.
+_expression_ An expression that returns an **[InvisibleApp](Visio.InvisibleApp.md)** object.
 
 
 ## Return value
@@ -41,6 +41,8 @@ The  **OnDataChangeDelay** property affects only instances of Visio that are run
 - Setting the  **OnDataChangeDelay** property to any value other than -1 or 0 overrides the registry setting and sets the delay between advises to the value of **OnDataChangeDelay**. If the **OnDataChangeDelay** property is not set or set to 1 and the **OLEUpdateDelay** setting is 0, Visio never sends advises to the container.
     
 
- **Note**  If you experience decreased performance when you add or move shapes that are contained in a Visio drawing that is hosted in the Visio Drawing Control, you can install a hot fix and then use the  **OnDataChangeDelay** property to overcome this problem. For more information, see the Microsoft Knowledge Base article[839079](https://support.microsoft.com/kb/839079/).
+> [!NOTE] 
+> If you experience decreased performance when you add or move shapes that are contained in a Visio drawing that is hosted in the Visio Drawing Control, you can install a hot fix and then use the  **OnDataChangeDelay** property to overcome this problem. 
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37389,7 +37389,7 @@
 ###### [ThreeD](Office.TextFrame2.ThreeD.md)
 ###### [VerticalAnchor](Office.TextFrame2.VerticalAnchor.md)
 ###### [WarpFormat](Office.TextFrame2.WarpFormat.md)
-###### [WordArtformat](Office.TextFrame2.WordArtformat.md)
+###### [WordArtFormat](Office.TextFrame2.WordArtformat.md)
 ###### [WordWrap](Office.TextFrame2.WordWrap.md)
 ##### [Methods](./overview/Library-Reference/textframe2-methods-office.md)
 ###### [DeleteText](Office.TextFrame2.DeleteText.md)

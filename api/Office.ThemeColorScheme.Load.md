@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.ThemeColorScheme.Load
 ms.assetid: 636f14c1-4178-ef12-e22b-4d948719cced
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
@@ -16,14 +16,12 @@ Loads the color scheme of a Microsoft Office theme from a file.
 
 ## Syntax
 
-_expression_. `Load`( `_FileName_` )
+_expression_.**Load** (_FileName_)
 
- _expression_ An expression that returns a [ThemeColorScheme](Office.ThemeColorScheme.md) object.
+_expression_ An expression that returns a **[ThemeColorScheme](Office.ThemeColorScheme.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -42,11 +40,8 @@ ThemeColorScheme.Load ("C:\myThemeColorScheme.xml")
 
 ## See also
 
-
-[ThemeColorScheme Object](Office.ThemeColorScheme.md)
-
+- [ThemeColorScheme object members](overview/Library-Reference/themecolorscheme-members-office.md)
 
 
-[ThemeColorScheme Object Members](./overview/Library-Reference/themecolorscheme-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

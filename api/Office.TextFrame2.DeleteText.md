@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.TextFrame2.DeleteText
 ms.assetid: 4bfd3a9b-e902-0f83-f1fe-19dd95115278
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
@@ -16,9 +16,9 @@ Deletes the text from a text frame and all the associated properties of the text
 
 ## Syntax
 
-_expression_. `DeleteText`
+_expression_.**DeleteText**
 
- _expression_ An expression that returns a [TextFrame2](Office.TextFrame2.md) object.
+_expression_ An expression that returns a **[TextFrame2](Office.TextFrame2.md)** object.
 
 
 ## Return value
@@ -40,11 +40,8 @@ pptSlide.Shapes(1).TextFrame2.DeleteText
 
 ## See also
 
-
-[TextFrame2 Object](Office.TextFrame2.md)
-
+- [TextFrame2 object members](overview/Library-Reference/textframe2-members-office.md)
 
 
-[TextFrame2 Object Members](./overview/Library-Reference/textframe2-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

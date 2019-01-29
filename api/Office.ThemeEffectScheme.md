@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.ThemeEffectScheme
 ms.assetid: 3fad64c0-94ca-8749-0282-3ed903e2aa84
-ms.date: 06/08/2017
+ms.date: 01/25/2019
 localization_priority: Normal
 ---
 
@@ -25,30 +25,10 @@ tesEffectScheme.Load("C:\myThemeEffectScheme.eftx")
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Load](Office.ThemeEffectScheme.Load.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.ThemeEffectScheme.Application.md)|
-|[Creator](Office.ThemeEffectScheme.Creator.md)|
-|[Parent](Office.ThemeEffectScheme.Parent.md)|
-
 ## See also
 
+- [ThemeEffectScheme object members](overview/Library-Reference/themeeffectscheme-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
