@@ -11,14 +11,14 @@ localization_priority: Normal
 
 # ThemeColor.Application property (Office)
 
-Gets an  **Application** object that represents the container application for the **ThemeColor** object. Read-only.
+Gets an **Application** object that represents the container application for the **ThemeColor** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `Application`
+_expression_.**Application**
 
- _expression_ An expression that returns a [ThemeColor](Office.ThemeColor.md) object.
+_expression_ An expression that returns a **[ThemeColor](Office.ThemeColor.md)** object.
 
 
 ## Return value
@@ -28,11 +28,8 @@ Object
 
 ## See also
 
-
-[ThemeColor Object](Office.ThemeColor.md)
-
+- [ThemeColor object members](overview/Library-Reference/themecolor-members-office.md)
 
 
-[ThemeColor Object Members](./overview/Library-Reference/themecolor-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
