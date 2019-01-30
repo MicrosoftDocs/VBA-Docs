@@ -2,7 +2,7 @@
 title: ParagraphFormat2 members (Office)
 ms.prod: office
 ms.assetid: c0580593-7efb-659f-02a2-67dce512ee09
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

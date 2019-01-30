@@ -2,7 +2,7 @@
 title: MetaProperty members (Office)
 ms.prod: office
 ms.assetid: 97df3875-dd87-03b8-44f6-a8804d5ee1bd
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

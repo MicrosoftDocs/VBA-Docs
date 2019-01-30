@@ -2,7 +2,7 @@
 title: CustomXMLParts members (Office)
 ms.prod: office
 ms.assetid: 4e77b5ea-b73c-020f-4abf-25adc200de23
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

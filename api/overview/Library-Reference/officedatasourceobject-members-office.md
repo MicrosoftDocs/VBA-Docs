@@ -2,7 +2,7 @@
 title: OfficeDataSourceObject members (Office)
 ms.prod: office
 ms.assetid: 57ba0dc6-80e7-04a9-a619-2a3e6aa2cdff
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
@@ -17,8 +17,8 @@ Represents the mail merge data source in a mail merge operation.
 |Name|Description|
 |:-----|:-----|
 |[ApplyFilter](../../Office.OfficeDataSourceObject.ApplyFilter.md)|Applies a filter to a mail merge data source to filter specified records meeting specified criteria.|
-|[Move](../../Office.OfficeDataSourceObject.Move.md)|Moves a record in a return set from a **OfficeDataSourceObject** object from one position to another.|
-|[Open](../../Office.OfficeDataSourceObject.Open.md)|Opens a table in a **OfficeDataSourceObject** object.|
+|[Move](../../Office.OfficeDataSourceObject.Move.md)|Moves a record in a return set from an **OfficeDataSourceObject** object from one position to another.|
+|[Open](../../Office.OfficeDataSourceObject.Open.md)|Opens a table in an **OfficeDataSourceObject** object.|
 |[SetSortOrder](../../Office.OfficeDataSourceObject.SetSortOrder.md)|Sets the sort order for mail merge data.|
 
 

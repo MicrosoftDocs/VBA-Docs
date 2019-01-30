@@ -2,7 +2,7 @@
 title: SearchScopes members (Office)
 ms.prod: office
 ms.assetid: 2e4ad88b-25ba-02d1-b7ea-d850db076357
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

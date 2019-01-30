@@ -2,14 +2,14 @@
 title: SharedWorkspace members (Office)
 ms.prod: office
 ms.assetid: e4c2b518-d955-27e1-3e73-173d3c4f961d
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
 
 # SharedWorkspace members (Office)
 
-The **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object which allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
+The **SharedWorkspace** property of a **Document** object in Microsoft Word, a **Workbook** object in Microsoft Excel, and a **Presentation** object in Microsoft PowerPoint returns a **SharedWorkspace** object that allows the developer to add the active document to a SharePoint site and to manage other objects in the shared workspace site.
 
 
 ## Methods
@@ -19,7 +19,7 @@ The **SharedWorkspace** property of a **Document** object in Microsoft Word, a *
 |[CreateNew](../../Office.SharedWorkspace.CreateNew.md)|Creates a document workspace site on the server and adds the active document to the new shared workspace site.|
 |[Delete](../../Office.SharedWorkspace.Delete.md)|Deletes the current shared workspace and all data within it.|
 |[Disconnect](../../Office.SharedWorkspace.Disconnect.md)|Disconnects the local copy of the active document from the shared workspace site.|
-|[Refresh](../../Office.SharedWorkspace.Refresh.md)|Refreshes the local cache of the [SharedWorkspace](../../Office.SharedWorkspace.md) object's files, folders, links, members, and tasks from the server.|
+|[Refresh](../../Office.SharedWorkspace.Refresh.md)|Refreshes the local cache of the **[SharedWorkspace](../../Office.SharedWorkspace.md)** object's files, folders, links, members, and tasks from the server.|
 |[RemoveDocument](../../Office.SharedWorkspace.RemoveDocument.md)|Removes the active document from the shared workspace site.|
 
 

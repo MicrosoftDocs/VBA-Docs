@@ -3,7 +3,7 @@ title: OfficeTheme members (Office)
 description: Represents a Microsoft Office theme.
 ms.prod: office
 ms.assetid: f905de10-b23d-638a-b170-34ba0bd03cf8
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

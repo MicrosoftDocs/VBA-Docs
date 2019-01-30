@@ -2,7 +2,7 @@
 title: DocumentProperties members (Office)
 ms.prod: office
 ms.assetid: bb388713-3029-796e-3328-6193eb14d1bf
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

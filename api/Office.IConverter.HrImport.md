@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IConverter.HrImport method (Office)
 
-This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk.md).
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk).
 
 
 ## Syntax

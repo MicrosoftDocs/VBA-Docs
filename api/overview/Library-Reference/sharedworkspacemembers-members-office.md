@@ -3,7 +3,7 @@ title: SharedWorkspaceMembers members (Office)
 description: A collection of the SharedWorkspaceMember objects in the current shared workspace site.
 ms.prod: office
 ms.assetid: 296d0a8c-f0e6-769b-d5a4-8d38ad4403e2
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

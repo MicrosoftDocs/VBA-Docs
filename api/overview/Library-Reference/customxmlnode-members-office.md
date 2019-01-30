@@ -2,7 +2,7 @@
 title: CustomXMLNode members (Office)
 ms.prod: office
 ms.assetid: fbf957c8-40b8-2f75-fcc8-db0ed6e18438
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

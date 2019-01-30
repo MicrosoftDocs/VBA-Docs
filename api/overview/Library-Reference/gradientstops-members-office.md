@@ -2,7 +2,7 @@
 title: GradientStops members (Office)
 ms.prod: office
 ms.assetid: 9cab316d-3302-a119-b02b-54eea372acee
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

@@ -2,7 +2,7 @@
 title: SharedWorkspaceFile members (Office)
 ms.prod: office
 ms.assetid: 5d4b35b5-ef65-7b5b-917e-a0cc282f901f
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
@@ -10,7 +10,6 @@ localization_priority: Normal
 # SharedWorkspaceFile members (Office)
 
 The **SharedWorkspaceFile** object represents a file saved in a shared document workspace.
-
 
 ## Methods
 
