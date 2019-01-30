@@ -36192,7 +36192,7 @@
 ###### [Text](Office.CustomXMLNode.Text.md)
 ###### [XML](Office.CustomXMLNode.XML.md)
 ###### [XPath](Office.CustomXMLNode.XPath.md)
-##### [Methods](./overview/Library-Reference/customxmlnode-methods-office.md)
+##### Methods
 ###### [AppendChildNode](Office.CustomXMLNode.AppendChildNode.md)
 ###### [AppendChildSubtree](Office.CustomXMLNode.AppendChildSubtree.md)
 ###### [Delete](Office.CustomXMLNode.Delete.md)
@@ -36206,7 +36206,7 @@
 ###### [SelectSingleNode](Office.CustomXMLNode.SelectSingleNode.md)
 #### [CustomXMLNodes object](Office.CustomXMLNodes.md)
 ##### [CustomXMLNodes members](./overview/Library-Reference/customxmlnodes-members-office.md)
-##### [Properties](./overview/Library-Reference/customxmlnodes-properties-office.md)
+##### Properties
 ###### [Application](Office.CustomXMLNodes.Application.md)
 ###### [Count](Office.CustomXMLNodes.Count.md)
 ###### [Creator](Office.CustomXMLNodes.Creator.md)
@@ -36214,7 +36214,7 @@
 ###### [Parent](Office.CustomXMLNodes.Parent.md)
 #### [CustomXMLPart object](Office.CustomXMLPart.md)
 ##### [CustomXMLPart members](./overview/Library-Reference/customxmlpart-members-office.md)
-##### [Properties](./overview/Library-Reference/customxmlpart-properties-office.md)
+##### Properties
 ###### [Application](Office.CustomXMLPart.Application.md)
 ###### [BuiltIn](Office.CustomXMLPart.BuiltIn.md)
 ###### [Creator](Office.CustomXMLPart.Creator.md)
@@ -36226,30 +36226,30 @@
 ###### [Parent](Office.CustomXMLPart.Parent.md)
 ###### [SchemaCollection](Office.CustomXMLPart.SchemaCollection.md)
 ###### [XML](Office.CustomXMLPart.XML.md)
-##### [Methods](./overview/Library-Reference/customxmlpart-methods-office.md)
+##### Methods
 ###### [AddNode](Office.CustomXMLPart.AddNode.md)
 ###### [Delete](Office.CustomXMLPart.Delete.md)
 ###### [Load](Office.CustomXMLPart.Load.md)
 ###### [LoadXML](Office.CustomXMLPart.LoadXML.md)
 ###### [SelectNodes](Office.CustomXMLPart.SelectNodes.md)
 ###### [SelectSingleNode](Office.CustomXMLPart.SelectSingleNode.md)
-##### [Events](./overview/Library-Reference/customxmlpart-events-office.md)
+##### Events
 ###### [NodeAfterDelete](Office.CustomXMLPart.NodeAfterDelete.md)
 ###### [NodeAfterInsert](Office.CustomXMLPart.NodeAfterInsert.md)
 ###### [NodeAfterReplace](Office.CustomXMLPart.NodeAfterReplace.md)
 #### [CustomXMLParts object](Office.CustomXMLParts.md)
 ##### [CustomXMLParts members](./overview/Library-Reference/customxmlparts-members-office.md)
-##### [Properties](./overview/Library-Reference/customxmlparts-properties-office.md)
+##### Properties
 ###### [Application](Office.CustomXMLParts.Application.md)
 ###### [Count](Office.CustomXMLParts.Count.md)
 ###### [Creator](Office.CustomXMLParts.Creator.md)
 ###### [Item](Office.CustomXMLParts.Item.md)
 ###### [Parent](Office.CustomXMLParts.Parent.md)
-##### [Methods](./overview/Library-Reference/customxmlparts-methods-office.md)
+##### Methods
 ###### [Add](Office.CustomXMLParts.Add.md)
 ###### [SelectByID](Office.CustomXMLParts.SelectByID.md)
 ###### [SelectByNamespace](Office.CustomXMLParts.SelectByNamespace.md)
-##### [Events](./overview/Library-Reference/customxmlparts-events-office.md)
+##### Events
 ###### [PartAfterAdd](Office.CustomXMLParts.PartAfterAdd.md)
 ###### [PartAfterLoad](Office.CustomXMLParts.PartAfterLoad.md)
 ###### [PartBeforeDelete](Office.CustomXMLParts.PartBeforeDelete.md)
