@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WorkflowTemplate.DocumentLibraryName
 ms.assetid: 4fca9798-a8be-87c8-7210-4a1fa1e808b4
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets the name of the document library associated with the workflow template. Rea
 
 ## Syntax
 
-_expression_. `DocumentLibraryName`
+_expression_.**DocumentLibraryName**
 
- _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
+_expression_ An expression that returns a **[WorkflowTemplate](Office.WorkflowTemplate.md)** object.
 
 
 ## Return value
@@ -31,11 +31,8 @@ String
 
 ## See also
 
-
-[WorkflowTemplate Object](Office.WorkflowTemplate.md)
-
+- [WorkflowTemplate object members](overview/Library-Reference/workflowtemplate-members-office.md)
 
 
-[WorkflowTemplate Object Members](./overview/Library-Reference/workflowtemplate-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

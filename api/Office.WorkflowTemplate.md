@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WorkflowTemplate
 ms.assetid: 965d0474-dd51-9b0e-b34c-a11f921ff410
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
@@ -19,12 +19,12 @@ Represents one of the workflows available for the current document.
 
 ## Remarks
 
-A  **WorkflowTemplate** object corresponds to one of the options displayed in the **Start New Workflow** dialog box. On a Web page, the workflow templates are displayed as a list of options.
+A **WorkflowTemplate** object corresponds to one of the options displayed in the **Start New Workflow** dialog box. On a web page, the workflow templates are displayed as a list of options.
 
 
 ## Example
 
-The following example displays the name of each workflow template in the current document and then displays workflow specific configuration user interface for a specific template. It should be noted that calling the  **GetWorkflowTemplates** method involves a round-trip to the server.
+The following example displays the name of each workflow template in the current document and then displays a workflow-specific configuration user interface for a specific template. It should be noted that calling the **GetWorkflowTemplates** method involves a round-trip to the server.
 
 
 ```vb
@@ -47,34 +47,9 @@ End Sub
 ```
 
 
-## Methods
-
-
-
-|Name|
-|:-----|
-|[Show](Office.WorkflowTemplate.Show.md)|
-
-## Properties
-
-
-
-|Name|
-|:-----|
-|[Application](Office.WorkflowTemplate.Application.md)|
-|[Creator](Office.WorkflowTemplate.Creator.md)|
-|[Description](Office.WorkflowTemplate.Description.md)|
-|[DocumentLibraryName](Office.WorkflowTemplate.DocumentLibraryName.md)|
-|[DocumentLibraryURL](Office.WorkflowTemplate.DocumentLibraryURL.md)|
-|[Id](Office.WorkflowTemplate.Id.md)|
-|[Name](Office.WorkflowTemplate.Name.md)|
-
 ## See also
 
-
-
-
-
-[Object Model Reference](./overview/Library-Reference/reference-object-library-reference-for-office.md)
+- [WorkflowTemplate object members](overview/Library-Reference/workflowtemplate-members-office.md)
+- [Object Model Reference](overview/Library-Reference/reference-object-library-reference-for-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

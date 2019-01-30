@@ -24,7 +24,7 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 |[Find](../../Office.TextRange2.Find.md)|Searches a **TextRange2** object for a subset of text.|
 |[InsertAfter](../../Office.TextRange2.InsertAfter.md)|Inserts text to the right of the existing text in the **TextRange2** object.|
 |[InsertBefore](../../Office.TextRange2.InsertBefore.md)|Inserts text to the left of the existing text in the **TextRange2** object.|
-|[InsertChartField](textrange2-insertchartfield-method-office.md)|Inserts a field into the body of a data label in a chart. |
+|[InsertChartField](../../Office.TextRange2.InsertChartField.md)|Inserts a field into the body of a data label in a chart. |
 |[InsertSymbol](../../Office.TextRange2.InsertSymbol.md)|Inserts a symbol from the specified font set into the range of text represented by the **TextRange2** object.|
 |[Item](../../Office.TextRange2.Item.md)|Gets the range of text specified by the index number from the **TextRange2** object.|
 |[LtrRun](../../Office.TextRange2.LtrRun.md)|Returns a **TextRange2** object that represents the specified subset of left-to-right text runs. A text run consists of a range of characters that share the same font attributes.|
