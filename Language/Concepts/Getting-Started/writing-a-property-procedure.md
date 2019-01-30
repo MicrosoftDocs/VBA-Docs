@@ -30,7 +30,7 @@ When you create a property procedure, it becomes a property of the [module](../.
 
 The syntax for declaring a property procedure is as follows.
 
-[ **Public** | **Private** ] [ **Static** ] **Property** { **Get** | **Let** | **Set** } _propertyname_ [( _arguments_ )] [ **As**_type_ ]
+[ **Public** | **Private** ] [ **Static** ] **Property** { **Get** | **Let** | **Set** } _propertyname_ [( _arguments_ )] [ **As** _type_ ]
 _statements_ **End Property**
 
 Property procedures are usually used in pairs: **Property Let** with **Property Get**, and **Property Set** with **Property Get**. Declaring a **Property Get** procedure alone is like declaring a read-only property. Using all three property procedure types together is only useful for **Variant** variables, because only a **Variant** can contain either an object or other data type information. **Property Set** is intended for use with objects; **Property Let** isn't.
@@ -39,7 +39,7 @@ The required arguments in property procedure declarations are shown in the follo
 
 |Procedure|Declaration syntax|
 |:-----|:-----|
-|**Property Get**|**Property Get**_propname_ (1, …, _n_) **As**_type_|
+|**Property Get**|**Property Get**_propname_ (1, …, _n_) **As** _type_|
 |**Property Let**|**Property Let**_propname_ (1, …,,,, _n_, _n_ +1)|
 |**Property Set**|**Property Set**_propname_ (1, …, _n_, _n_ +1)|
 
