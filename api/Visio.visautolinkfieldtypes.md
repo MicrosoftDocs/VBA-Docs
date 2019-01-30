@@ -22,7 +22,7 @@ Constants passed to the  **Selection.AutomaticLink** method, specifying the shap
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **visAutoLinkCustPropsLabel**|2|Field is label for shape data (custom property); field name is label and is required.|
-| ** visAutoLinkGeometryAngle**|4|Field is angle in shape geometry.|
+| **visAutoLinkGeometryAngle**|4|Field is angle in shape geometry.|
 | **visAutoLinkGeometryHeight**|6|Field is height of shape.|
 | **visAutoLinkGeometryWidth**|5|Field is width of shape.|
 | **visAutoLinkMasterName**|8|Field is local name of the master for the shape.|
@@ -32,7 +32,7 @@ Constants passed to the  **Selection.AutomaticLink** method, specifying the shap
 | **visAutoLinkObjectData3**|13|Field is  **Data3** property of **Shape** object.|
 | **visAutoLinkObjectID**|7|Field is ID of the shape .|
 | **visAutoLinkObjectName**|9|Field is local name of the shape.|
-| ** visAutoLinkObjectNameU**|17|Field is universal name of the shape.|
+| **visAutoLinkObjectNameU**|17|Field is universal name of the shape.|
 | **visAutoLinkObjectType**|10|Field is type of shape object.|
 | **visAutoLinkPropRowNameU**|14|Field is universal property-row name; field name is  **Cell.RowNameU** and is required.|
 | **visAutoLinkShapeText**|1|Field is shape text.|
