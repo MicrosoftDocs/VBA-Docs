@@ -3,7 +3,7 @@ title: TextRange2 members (Office)
 description: Represents the text frame in a Shape or ShapeRange object.
 ms.prod: office
 ms.assetid: 26daffff-b9ef-fd94-f5b7-ed3a09840cb6
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 
 |Name|Description|
 |:-----|:-----|
-|[AddPeriods](../../Office.TextRange2.AddPeriods.md)|Adds period (.) punctuation to the right side of the text contained in TextRange2 object for left-to-right languages and on the left side for right-to-left languages.|
+|[AddPeriods](../../Office.TextRange2.AddPeriods.md)|Adds period (.) punctuation to the right side of the text contained in **TextRange2** object for left-to-right languages and on the left side for right-to-left languages.|
 |[ChangeCase](../../Office.TextRange2.ChangeCase.md)|Changes the case of a **TextRange2** object to one of the values in the **MsoTextChangeCase** enumeration.|
 |[Copy](../../Office.TextRange2.Copy.md)|Copies a **TextRange2** object.|
 |[Cut](../../Office.TextRange2.Cut.md)|Removes a portion or all of the text from a range of text.|
@@ -41,7 +41,7 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 
 |Name|Description|
 |:-----|:-----|
-|[Application](../../Office.TextRange2.Application.md)|Used without an object qualifier, this property returns an **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE Automation object, it returns the object's application. Read-only.|
+|[Application](../../Office.TextRange2.Application.md)|Used without an object qualifier, this property returns an **Application** object that represents the current instance of the Microsoft Office application. Used with an object qualifier, this property returns an **Application** object that represents the creator of the **TextRange2** object. When used with an OLE **Automation** object, it returns the object's application. Read-only.|
 |[BoundHeight](../../Office.TextRange2.BoundHeight.md)|Gets the height, in points, of the text bounding box for the specified text. Read-only.|
 |[BoundLeft](../../Office.TextRange2.BoundLeft.md)|Gets the left coordinate, in points, of the text bounding box for the specified text. Read-only.|
 |[BoundTop](../../Office.TextRange2.BoundTop.md)|Gets the top coordinate, in points, of the text bounding box for the specified text. Read-only.|
@@ -51,9 +51,9 @@ Represents the text frame in a **Shape** or **ShapeRange** object.
 |[Creator](../../Office.TextRange2.Creator.md)|Gets a 32-bit integer that indicates the application in which the **TextRange2** object was created. Read-only.|
 |[Font](../../Office.TextRange2.Font.md)|Returns a **Font** object that represents character formatting for the **TextRange2** object. Read-only.|
 |[LanguageID](../../Office.TextRange2.LanguageID.md)|Gets or sets the **MsoLanguageID** value of the **TextRange2** object. Read/write.|
-|[Length](../../Office.TextRange2.Length.md)|Get a Long that represents the length of a text range. Read-only.|
-|[Lines](../../Office.TextRange2.Lines.md)|Returns a TextRange2 object that represents the specified subset of text lines. Read-only.|
-|[MathZones](../../Office.TextRange2.MathZones.md)|Sets the starting point and length of a math zone within a text range. Read-only|
+|[Length](../../Office.TextRange2.Length.md)|Get a **Long** that represents the length of a text range. Read-only.|
+|[Lines](../../Office.TextRange2.Lines.md)|Returns a **TextRange2** object that represents the specified subset of text lines. Read-only.|
+|[MathZones](../../Office.TextRange2.MathZones.md)|Sets the starting point and length of a math zone within a text range. Read-only.|
 |[ParagraphFormat](../../Office.TextRange2.ParagraphFormat.md)|Returns a **ParagraphFormat** object that represents paragraph formatting for the specified text. Read-only.|
 |[Paragraphs](../../Office.TextRange2.Paragraphs.md)|Gets a **TextRange2** object that represents the specified subset of text paragraphs. Read-only.|
 |[Parent](../../Office.TextRange2.Parent.md)|Gets the **Parent** object for the **TextRange2** object. Read-only.|

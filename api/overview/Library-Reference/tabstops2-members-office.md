@@ -3,7 +3,7 @@ title: TabStops2 members (Office)
 description: The collection of TabStop2 objects.
 ms.prod: office
 ms.assetid: 90c91c91-96eb-91d1-90f8-f41d2a6d2dd7
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

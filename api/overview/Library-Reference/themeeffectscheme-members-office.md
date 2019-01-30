@@ -3,7 +3,7 @@ title: ThemeEffectScheme members (Office)
 description: Represents the effects scheme of a Microsoft Office theme.
 ms.prod: office
 ms.assetid: 4a48841c-2f51-2fe4-360b-a5d0044dba80
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

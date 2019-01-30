@@ -3,7 +3,7 @@ title: WorkflowTemplate members (Office)
 description: Represents one of the workflows available for the current document.
 ms.prod: office
 ms.assetid: c891ed9a-87bd-242b-1a6b-012ab1406a1c
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
