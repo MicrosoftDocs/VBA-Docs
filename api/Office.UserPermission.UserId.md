@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # UserPermission.UserId property (Office)
 
-Gets the email name of the user whose permissions on the active document are determined by the specified **[UserPermission](Office.UserPermission.md)** object. Read-only.
+Gets the email name of the user whose permissions on the active document are determined by the specified **UserPermission** object. Read-only.
 
 
 ## Syntax

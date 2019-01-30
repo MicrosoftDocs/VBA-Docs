@@ -14,9 +14,7 @@ localization_priority: Normal
 
 Bias constants to be passed to the  **Characters.CharPropsRow** property and similar properties.
 
-
-
-|** **Constant****|Value|Description|
+|Name|Value|Description|
 |:-----|:-----|:-----|
 | **visBiasLeft**|1|Specifies the ShapeSheet row that covers character formatting for the character to the left of the insertion point.|
 | **visBiasLetVisioChoose**|0|Specifies that Microsoft Visio decide the kind of character formatting to apply based on certain rules. See the [Characters.CharPropsRow](Visio.Characters.CharPropsRow.md) property topic for more information.|
