@@ -27468,6 +27468,8 @@
 ####### [ToolbarCustomizable](Visio.ToolbarCustomizable.md)
 ####### [ToolbarVisible](Visio.ToolbarVisible.md)
 ####### [Zoom](Visio.viewer.zoom.property.md)
+###### [VisColoringMethod-Enumeration](VisColoringMethod-Enumeration.md)
+###### [VisRecordsetFieldStatus-Enumeration](VisRecordsetFieldStatus-Enumeration.md)
 ## [Word](./overview/Word.md)
 ### [Concepts](../word/Concepts/Miscellaneous/concepts-word-vba-reference.md)
 #### Customizing Word
