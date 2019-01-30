@@ -1546,7 +1546,7 @@
           },
           {
             "source_path": "api/overview/library-reference/workflowtemplate-item-property-office.md",
-            "redirect_url": "/office/vba/api/Office.WorkflowTemplate.Item"
+            "redirect_url": "/office/vba/api/Office.WorkflowTemplates.Item"
           }
     ]
 }

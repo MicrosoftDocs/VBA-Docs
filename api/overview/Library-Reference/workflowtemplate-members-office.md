@@ -30,7 +30,6 @@ Represents one of the workflows available for the current document.
 |[DocumentLibraryName](../../Office.WorkflowTemplate.DocumentLibraryName.md)|Gets the name of the document library associated with the workflow template. Read-only.|
 |[DocumentLibraryURL](../../Office.WorkflowTemplate.DocumentLibraryURL.md)|Gets the URL address of the document library where workflow templates are stored. Read-only.|
 |[Id](../../Office.WorkflowTemplate.Id.md)|Gets the ID of a template used to create a workflow instance. Read-only.|
-|[Item](../../Office.WorkflowTemplate.Item.md)|Gets a **WorkflowTemplate** object from the **WorkflowTemplates** collection. Read-only.|
 |[Name](../../Office.WorkflowTemplate.Name.md)|Gets the name of the **WorkflowTemplate** object. Read-only.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

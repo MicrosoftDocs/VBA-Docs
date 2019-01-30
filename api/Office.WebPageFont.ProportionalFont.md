@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WebPageFont.ProportionalFont
 ms.assetid: fcefea5f-4c9f-c050-9599-fdf4c9269bdd
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
@@ -19,19 +19,19 @@ Sets or gets the proportional font setting in the host application. Read/write.
 
 ## Syntax
 
-_expression_. `ProportionalFont`
+_expression_.**ProportionalFont**
 
-_expression_ A variable that represents a [WebPageFont](Office.WebPageFont.md) object.
+_expression_ A variable that represents a **[WebPageFont](Office.WebPageFont.md)** object.
 
 
 ## Remarks
 
-When you set the  **ProportionalFont** property, the host application does not check the value for validity.
+When you set the **ProportionalFont** property, the host application does not check the value for validity.
 
 
 ## Example
 
-This example sets the proportional font and proportional font size for the English/Western European/Other Latin Script character set in the active application.
+This example sets the proportional font and proportional font size for the **English/Western European/Other Latin Script** character set in the active application.
 
 
 ```vb
@@ -46,11 +46,7 @@ Fonts(msoCharacterSetEnglishWesternEuropeanOtherLatinScript) _
 
 ## See also
 
+- [WebPageFont object members](overview/Library-Reference/webpagefont-members-office.md)
 
-[WebPageFont Object](Office.WebPageFont.md)
-
-
-
-[WebPageFont Object Members](./overview/Library-Reference/webpagefont-members-office.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

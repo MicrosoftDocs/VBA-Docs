@@ -7,19 +7,19 @@ ms.prod: office
 api_name:
 - Office.WorkflowTemplates
 ms.assetid: 01df4716-4440-7761-8504-22f78e40f8e4
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
 
 # WorkflowTemplates object (Office)
 
-Represents a collection of  **WorkflowTemplate** objects.
+Represents a collection of **[WorkflowTemplate](office.workflowtemplate.md)** objects.
 
 
 ## Example
 
-The following example displays the name of each workflow template in the current document and then displays workflow specific configuration user interface for a specific template. It should be noted that calling the  **GetWorkflowTemplates** method involves a round-trip to the server.
+The following example displays the name of each workflow template in the current document and then displays a workflow-specific configuration user interface for a specific template. It should be noted that calling the **GetWorkflowTemplates** method involves a round-trip to the server.
 
 
 ```vb

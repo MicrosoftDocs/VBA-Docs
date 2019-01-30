@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.WorkflowTemplate.DocumentLibraryURL
 ms.assetid: 17ae0600-3ab5-bf9c-2231-68f0e7a635bc
-ms.date: 06/08/2017
+ms.date: 01/29/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Gets the URL address of the document library where workflow templates are stored
 
 ## Syntax
 
-_expression_. `DocumentLibraryURL`
+_expression_.**DocumentLibraryURL**
 
- _expression_ An expression that returns a [WorkflowTemplate](Office.WorkflowTemplate.md) object.
+_expression_ An expression that returns a **[WorkflowTemplate](Office.WorkflowTemplate.md)** object.
 
 
 ## Return value
