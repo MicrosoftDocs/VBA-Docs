@@ -1,6 +1,6 @@
 ---
 title: VisColoringMethod enumeration (Visio)
-TOCTitle: VisColoringMethod Enumeration
+TOCTitle: VisColoringMethod 
 ms:assetid: d39f02dc-36ef-fdd4-62b1-0bfc4d7d2433
 ms:mtpsurl: https://msdn.microsoft.com/en-us/library/Mt576715(v=office.15)
 ms:contentKeyID: 70083486
