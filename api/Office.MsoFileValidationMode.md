@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoFileValidationMode
 ms.assetid: 2501a3a5-2053-9fc6-7a3f-bca2fe27f6d1
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the file validation mode.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

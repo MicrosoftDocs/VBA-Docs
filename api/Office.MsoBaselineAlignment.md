@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoBaselineAlignment
 ms.assetid: 5e764318-c398-19c0-2bc6-dbb97eac1c43
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies baseline text alignment.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

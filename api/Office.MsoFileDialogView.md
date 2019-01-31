@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoFileDialogView
 ms.assetid: fbeb4236-417c-53ba-199d-4ce7e219d2a2
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the view presented to the user in a file dialog box.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -25,6 +25,6 @@ Specifies the view presented to the user in a file dialog box.
 |**msoFileDialogViewSmallIcons**|7|Files displayed as small icons.|
 |**msoFileDialogViewThumbnail**|5|Files displayed as thumbnails.|
 |**msoFileDialogViewTiles**|9|Files displayed as tiled icons.|
-|**msoFileDialogViewWebView**|8|Files displayed in Web view.|
+|**msoFileDialogViewWebView**|8|Files displayed in web view.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

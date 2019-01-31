@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoAlignCmd
 ms.assetid: d4c62376-bb88-65e1-8922-ced2e5256ff7
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Defines how to align specified objects relative to one another.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

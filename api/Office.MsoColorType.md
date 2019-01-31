@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoColorType
 ms.assetid: d7dfbd4b-d3ac-6e08-b703-aaa1f69516dc
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the color type.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

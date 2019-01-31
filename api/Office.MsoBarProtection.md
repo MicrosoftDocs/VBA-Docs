@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoBarProtection
 ms.assetid: 5475758e-32c8-98bc-e07e-613668b6f20e
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies how a command bar is protected from user customization.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -22,7 +22,7 @@ Specifies how a command bar is protected from user customization.
 |**msoBarNoCustomize**|1|Command bar cannot be customized.|
 |**msoBarNoHorizontalDock**|64|Command bar cannot be docked to the top or bottom.|
 |**msoBarNoMove**|4|Command bar cannot be moved.|
-|**msoBarNoProtection**|0|All aspects of command bar can be customized by user.|
+|**msoBarNoProtection**|0|All aspects of the command bar can be customized by user.|
 |**msoBarNoResize**|2|Command bar cannot be resized.|
 |**msoBarNoVerticalDock**|32|Command bar cannot be docked to the left or right.|
 

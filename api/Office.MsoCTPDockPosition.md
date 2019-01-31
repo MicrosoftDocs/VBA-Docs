@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoCTPDockPosition
 ms.assetid: d8bee9c2-d162-006e-76b4-09798b078869
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the docking behavior of the custom task pane.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

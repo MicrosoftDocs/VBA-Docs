@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.MsoContactCardStyle
 ms.assetid: d60ec2a4-287d-8e93-84c6-f568c9e06ab3
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies how the contact card is displayed.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

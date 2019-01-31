@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.ContentVerificationResults
 ms.assetid: bf9c4dea-8828-9403-0682-d6cf5657484d
-ms.date: 01/04/2019
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -12,6 +12,8 @@ localization_priority: Normal
 # ContentVerificationResults enumeration (Office)
 
 Provides the status of verifying whether the content of a document has changed.
+
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
