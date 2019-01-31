@@ -2,7 +2,7 @@
 title: EncryptionProvider members (Office)
 ms.prod: office
 ms.assetid: 48bed5b8-b284-4b52-4143-153ae1c751a4
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

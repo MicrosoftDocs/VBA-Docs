@@ -31,7 +31,7 @@ The **Event** statement has these parts:
 
 The _arglist_ argument has the following syntax and parts:
 
-[ **ByVal** | **ByRef** ] _varname_ [ ( ) ] [ **As**_type_ ]
+[ **ByVal** | **ByRef** ] _varname_ [ ( ) ] [ **As** _type_ ]
 
 <br/>
 

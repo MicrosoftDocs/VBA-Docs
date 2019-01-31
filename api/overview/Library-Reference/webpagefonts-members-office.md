@@ -3,7 +3,7 @@ title: WebPageFonts members (Office)
 description: A collection of WebPageFont objects that describe the proportional font, proportional font size, fixed-width font, and fixed-width font size used when documents are saved as web pages.
 ms.prod: office
 ms.assetid: e5e9941a-1f41-3d1b-1e31-420fcec7e951
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

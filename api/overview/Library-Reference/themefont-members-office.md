@@ -3,7 +3,7 @@ title: ThemeFont members (Office)
 description: Represents a container for the font schemes of a Microsoft Office theme.
 ms.prod: office
 ms.assetid: 29f19d99-b33b-4f31-0a37-7665d7ef828b
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

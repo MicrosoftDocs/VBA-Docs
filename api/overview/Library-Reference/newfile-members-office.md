@@ -2,14 +2,14 @@
 title: NewFile members (Office)
 ms.prod: office
 ms.assetid: dc0ff9f2-6703-b835-26d8-9c5c2c0af763
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
 
 # NewFile members (Office)
 
-Represents items listed on the **New**_Item_ task pane available in several Microsoft Office applications.
+Represents items listed on the **New Item** task pane available in several Microsoft Office applications.
 
 
 ## Methods

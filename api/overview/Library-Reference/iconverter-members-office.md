@@ -2,14 +2,14 @@
 title: IConverter members (Office)
 ms.prod: office
 ms.assetid: c8396dba-f980-18a2-0b17-29164446dc5b
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
 
 # IConverter members (Office)
 
-This feature is only available in the Open XML Format SDK.
+This feature is only available in the [Open XML Format SDK](https://docs.microsoft.com/office/open-xml/open-xml-sdk).
 
 
 ## Methods

@@ -42,7 +42,7 @@ The **Property Set** statement syntax has these parts:
 
 The _arglist_ argument has the following syntax and parts:
 
-[ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As**_type_ ] [ **=** _defaultvalue_ ]
+[ **Optional** ] [ **ByVal** | **ByRef** ] [ **ParamArray** ] _varname_ [ ( ) ] [ **As** _type_ ] [ **=** _defaultvalue_ ]
 
 <br/>
 

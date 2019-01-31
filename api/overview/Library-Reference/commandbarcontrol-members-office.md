@@ -2,7 +2,7 @@
 title: CommandBarControl members (Office)
 ms.prod: office
 ms.assetid: 1d2360e4-7511-a3a4-9959-2f7c8282bf99
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Represents a command bar control. The **CommandBarControl** object is a member o
 |[Execute](../../Office.CommandBarControl.Execute.md)|Runs the procedure or built-in command assigned to the specified **CommandBarControl** control.|
 |[Move](../../Office.CommandBarControl.Move.md)|Moves the specified **CommandBarControl** to an existing command bar.|
 |[Reset](../../Office.CommandBarControl.Reset.md)|Resets a built-in command bar to its default configuration, or resets a built-in **CommandBarControl** to its original function and face.|
-|[SetFocus](../../Office.CommandBarControl.SetFocus.md)|Moves the keyboard focus to the specified CommandBarControl. If the control is disabled or isn't visible, this method will fail.|
+|[SetFocus](../../Office.CommandBarControl.SetFocus.md)|Moves the keyboard focus to the specified **CommandBarControl**. If the control is disabled or isn't visible, this method will fail.|
 
 
 ## Properties
@@ -39,7 +39,7 @@ Represents a command bar control. The **CommandBarControl** object is a member o
 |[HelpContextId](../../Office.CommandBarControl.HelpContextId.md)|Gets or sets the Help context Id number for the Help topic attached to the **CommandBarControl**. Read/write.|
 |[HelpFile](../../Office.CommandBarControl.HelpFile.md)|Gets or sets the file name for the Help topic attached to the **CommandBarControl**. Read/write.|
 |[Id](../../Office.CommandBarControl.Id.md)|Gets the ID for a built-in **CommandBarControl**. Read-only.|
-|[Index](../../Office.CommandBarControl.Index.md)|Gets a ** Long** representing the index number for a **CommandBarControl** object in the collection. Read-only.|
+|[Index](../../Office.CommandBarControl.Index.md)|Gets a **Long** representing the index number for a **CommandBarControl** object in the collection. Read-only.|
 |[IsPriorityDropped](../../Office.CommandBarControl.IsPriorityDropped.md)|Gets **True** if the control is currently dropped from the menu or toolbar based on usage statistics and layout space. (Note that this is not the same as the control's visibility, as set by the **Visible** property). Read-only.|
 |[Left](../../Office.CommandBarControl.Left.md)|Gets the horizontal position of the specified **CommandBarControl** (in pixels) relative to the left edge of the screen. Returns the distance from the left side of the docking area. Read-only.|
 |[OLEUsage](../../Office.CommandBarControl.OLEUsage.md)|Gets or sets the OLE client and OLE server roles in which a **CommandBarControl** will be used when two Microsoft Office applications are merged. Read/write.|

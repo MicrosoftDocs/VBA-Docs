@@ -3,7 +3,7 @@ title: SignatureInfo members (Office)
 description: Represents the information used to create a digital or in-document signature.
 ms.prod: office
 ms.assetid: 52c19097-8afb-d35c-a9f7-eae81e91c05d
-ms.date: 09/07/2018
+ms.date: 01/30/2019
 localization_priority: Normal
 ---
 

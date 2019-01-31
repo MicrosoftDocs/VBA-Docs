@@ -2,7 +2,7 @@
 title: Reference (Object library reference for Office)
 ms.prod: office
 ms.assetid: 499c789a-aba2-0fad-649a-0ea964cd3b5e
-ms.date: 10/10/2018
+ms.date: 01/30/2019
 localization_priority: Priority
 ---
 
