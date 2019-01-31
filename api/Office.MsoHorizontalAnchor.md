@@ -4,16 +4,16 @@ ms.prod: office
 api_name:
 - Office.MsoHorizontalAnchor
 ms.assetid: d70f3f09-65d7-956e-a312-7e5ae8a81b65
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
 
 # MsoHorizontalAnchor enumeration (Office)
 
-Specifies the horizontal alignment of text in a text frame. Used with the  **HorizontalAnchor** property of the **TextFrame** object.
+Specifies the horizontal alignment of text in a text frame. Used with the **HorizontalAnchor** property of the **TextFrame** object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

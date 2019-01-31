@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoPresetCamera
 ms.assetid: b7495803-a2f1-1dca-da3a-714d6fe9ba56
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Indicates the effects camera type used by the specified object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

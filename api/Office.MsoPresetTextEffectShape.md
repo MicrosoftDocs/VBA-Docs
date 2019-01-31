@@ -4,16 +4,16 @@ ms.prod: office
 api_name:
 - Office.MsoPresetTextEffectShape
 ms.assetid: d8b21a00-54af-b2cf-6a1d-4bbaef2aac78
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
 
 # MsoPresetTextEffectShape enumeration (Office)
 
-Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting  **WordArt Shape** in the **WordArt** toolbar.
+Specifies shape of WordArt text. You can see a preview of each text effect shape by selecting **WordArt Shape** in the **WordArt** toolbar.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

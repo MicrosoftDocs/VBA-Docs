@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoPathFormat
 ms.assetid: 744f8ecf-7a08-4bd3-eb8d-1dde193d71b4
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the format of a file or folder path.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

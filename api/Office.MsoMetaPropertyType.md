@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoMetaPropertyType
 ms.assetid: c1642d31-698c-332f-d7df-eefa9f890a83
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the metadata property type.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -30,10 +30,10 @@ Specifies the metadata property type.
 |**msoMetaPropertyTypeMax**|19|Represents the maximum value for a range.|
 |**msoMetaPropertyTypeMultiChoice**|12|Represents a collection of choices.|
 |**msoMetaPropertyTypeMultiChoiceFillIn**|13|Represents a collection of choices that require the user to write-in a value.|
-|**msoMetaPropertyTypeMultiChoiceLookup**|11|Represents a collection of choices used to lookup another value.|
+|**msoMetaPropertyTypeMultiChoiceLookup**|11|Represents a collection of choices used to look up another value.|
 |**msoMetaPropertyTypeNote**|14|Represents a value of one or more sentences.|
 |**msoMetaPropertyTypeNumber**|15|Represents a generic number data type.|
-|**msoMetaPropertyTypeText**|16|Represents a Text value.|
+|**msoMetaPropertyTypeText**|16|Represents a text value.|
 |**msoMetaPropertyTypeUnknown**|0|Represents an unknown value.|
 |**msoMetaPropertyTypeUrl**|17|Represents a URL.|
 |**msoMetaPropertyTypeUser**|18|Represents a category of user.|
