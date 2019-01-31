@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoScaleFrom
 ms.assetid: 9d1bd699-261a-c360-f680-ff4fac667a31
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies which part of the shape retains its position when the shape is scaled.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

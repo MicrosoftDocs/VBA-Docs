@@ -4,16 +4,16 @@ ms.prod: office
 api_name:
 - Office.MsoPresetMaterial
 ms.assetid: 4cf62ef4-f6c8-eb0c-1dfd-569aafca16c0
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
 
 # MsoPresetMaterial enumeration (Office)
 
-Specifies the extrusion surface material. Used with the  **PresetMaterial** property of the **ThreeDFormat** object.
+Specifies the extrusion surface material. Used with the **PresetMaterial** property of the **ThreeDFormat** object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

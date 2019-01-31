@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SignatureProviderDetail
 ms.assetid: 4781a2ab-583b-d823-cd8c-e2398d8d6224
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -12,6 +12,8 @@ localization_priority: Normal
 # SignatureProviderDetail enumeration (Office)
 
 Specifies properties of a signature provider.
+
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

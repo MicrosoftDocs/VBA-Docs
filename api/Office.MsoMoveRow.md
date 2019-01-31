@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoMoveRow
 ms.assetid: d353865e-0282-a594-50d4-de7d04ba90d0
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 This enumeration has been deprecated and should not be used.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

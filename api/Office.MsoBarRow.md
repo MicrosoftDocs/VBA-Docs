@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoBarRow
 ms.assetid: 639434a1-27c4-842f-294a-fbe6265b31ff
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies whether a command bar is in the first row or last row relative to other command bars in the same docking area.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

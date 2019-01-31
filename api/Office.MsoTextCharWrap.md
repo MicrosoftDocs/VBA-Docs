@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoTextCharWrap
 ms.assetid: 469b96d7-14ec-7bdc-2800-d7de83bd74e4
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Indicates the type of text wrap.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

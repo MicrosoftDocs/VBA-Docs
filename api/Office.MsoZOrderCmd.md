@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoZOrderCmd
 ms.assetid: 4615d1c7-9d7b-70a4-1821-785c3af11f4f
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies where in the z-order a shape should be moved relative to other shapes.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -4,17 +4,19 @@ ms.prod: office
 api_name:
 - Office.MsoSyncEventType
 ms.assetid: d9f4d2fa-9574-7ac1-c703-82897ff99c37
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
 
 # MsoSyncEventType enumeration (Office)
 
-Specifies the return value of a  **Sync** event. In Microsoft Word, used with the **Sync** event of the **Document** object or the **DocumentSync** event of the **Application** object. In Microsoft Excel, used with the **Sync** event of the **Workbook** object or the **WorkbookSync** event of the **Application** object. In Microsoft PowerPoint, used with the **PresentationSync** event of the **Application** object.
+Specifies the return value of a **Sync** event. In Microsoft Word, used with the **Sync** event of the **Document** object or the **DocumentSync** event of the **Application** object. In Microsoft Excel, used with the **Sync** event of the **Workbook** object or the **WorkbookSync** event of the **Application** object. In Microsoft PowerPoint, used with the **PresentationSync** event of the **Application** object.
 
-Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
+> [!NOTE] 
+> Beginning with Microsoft Office 2010, this object or member has been deprecated and should not be used.
 
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

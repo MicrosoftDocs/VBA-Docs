@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoShapeType
 ms.assetid: 21ab1915-9885-5837-02db-65e60b91322b
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Priority
 ---
 
@@ -13,22 +13,22 @@ localization_priority: Priority
 
 Specifies the type of a shape or range of shapes.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**msoAutoShape**|1|AutoShape.|
-|**msoCallout**|2|Callout.|
-|**msoCanvas**|20|Canvas.|
-|**msoChart**|3|Chart.|
-|**msoComment**|4|Comment.|
+|**msoAutoShape**|1|AutoShape |
+|**msoCallout**|2|Callout |
+|**msoCanvas**|20|Canvas |
+|**msoChart**|3|Chart |
+|**msoComment**|4|Comment |
 |**msoContentApp**|27|Content Office Add-in|
-|**msoDiagram**|21|Diagram.|
-|**msoEmbeddedOLEObject**|7|Embedded OLE object.|
-|**msoFormControl**|8|Form control.|
-|**msoFreeform**|5|Freeform.|
+|**msoDiagram**|21|Diagram |
+|**msoEmbeddedOLEObject**|7|Embedded OLE object |
+|**msoFormControl**|8|Form control |
+|**msoFreeform**|5|Freeform |
 |**msoGraphic**|28|Graphic|
-|**msoGroup**|6|Group.|
+|**msoGroup**|6|Group |
 |**msoIgxGraphic**|24|SmartArt graphic|
 |**msoInk**|22|Ink|
 |**msoInkComment**|23|Ink comment|

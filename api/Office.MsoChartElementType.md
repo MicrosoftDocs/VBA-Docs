@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoChartElementType
 ms.assetid: bfbdb3a9-b2bc-7fd0-9c15-680daf03fc72
-ms.date: 11/09/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -12,6 +12,8 @@ localization_priority: Normal
 # MsoChartElementType enumeration (Office)
 
 Specifies whether and how to display chart elements.
+
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

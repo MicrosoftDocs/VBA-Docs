@@ -1,7 +1,7 @@
 ---
 title: MsoPictureCompress enumeration (Office)
 ms.assetid: f58e84f7-f284-425f-88df-b8f8578cebeb
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 ms.prod: office
 localization_priority: Normal
 ---
@@ -11,7 +11,7 @@ localization_priority: Normal
 
 Specifies whether a picture will be compressed or not when inserted into a file.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

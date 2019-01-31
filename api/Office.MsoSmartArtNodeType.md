@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoSmartArtNodeType
 ms.assetid: 0b1369d2-0090-dc12-5990-d8ec5965b39f
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies constants that define the types of SmartArt nodes.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
