@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoShadowStyle
 ms.assetid: 98bbf0a7-03f5-449e-b469-3652d7642b4a
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the type of shadowing effect.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

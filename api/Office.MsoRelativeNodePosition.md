@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoRelativeNodePosition
 ms.assetid: b449ed12-1661-3e7a-6a79-9a934be294fa
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies where a node is added to a diagram relative to existing nodes.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

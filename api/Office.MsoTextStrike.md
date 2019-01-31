@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoTextStrike
 ms.assetid: 398c51a1-0296-b4ae-b6b0-6e46ba071bd8
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Indicates the number of times a character is printed to darken the image.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

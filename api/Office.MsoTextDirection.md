@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.MsoTextDirection
 ms.assetid: 75c1fbc6-87dd-20b1-450c-8b76c0185818
-ms.date: 06/08/2017
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -13,7 +13,7 @@ localization_priority: Normal
 
 Specifies the direction that text runs.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -4,7 +4,7 @@ ms.prod: office
 api_name:
 - Office.SignatureType
 ms.assetid: 96314015-e316-d5df-9532-45ba681dffaf
-ms.date: 01/24/2019
+ms.date: 01/31/2019
 localization_priority: Normal
 ---
 
@@ -12,6 +12,8 @@ localization_priority: Normal
 # SignatureType enumeration (Office)
 
 Specifies properties of a signature.
+
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
