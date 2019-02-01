@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the action to take when using the [Application.ImportXML method (Access)](Access.Application.ImportXML.md) method to import data from an XML file.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

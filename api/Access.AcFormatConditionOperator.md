@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcFormatConditionOperator enumeration (Access)
 
-Specifies the operator to apply when using the  **Add** method to create a conditional format.
+Specifies the operator to apply when using the **Add** method to create a conditional format.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Used with the [TransferSpreadsheet](Access.DoCmd.TransferSpreadsheet.md) method to specify the type of spreadsheet to import from, export to, or link to.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

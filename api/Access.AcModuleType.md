@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Returns the type of the specified Visual Basic module.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the type of a [SharedResource](Access.SharedResource.md) object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

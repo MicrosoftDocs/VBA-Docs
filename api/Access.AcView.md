@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Specifies an object's view.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

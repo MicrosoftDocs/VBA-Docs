@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintColor enumeration (Access)
 
-Used with the  **ColorMode** property to specify whether the printer should print output in color or monochrome.
+Used with the **ColorMode** property to specify whether the printer should print output in color or monochrome.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -14,9 +14,9 @@ localization_priority: Priority
 
 # AcOutputObjectType enumeration (Access)
 
-Specifies the type of object to output when using the  **OutputTo** method.
+Specifies the type of object to output when using the **OutputTo** method.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

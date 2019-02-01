@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [DoCmd.FindRecord method (Access)](Access.DoCmd.FindRecord.md) method to specify the direction to search.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

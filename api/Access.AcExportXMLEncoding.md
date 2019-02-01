@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcExportXMLEncoding enumeration (Access)
 
-Use with the  **ExportXML** method to specify the text encoding to use for exporting XML data.
+Use with the **ExportXML** method to specify the text encoding to use for exporting XML data.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

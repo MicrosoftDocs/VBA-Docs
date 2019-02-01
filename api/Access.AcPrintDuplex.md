@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintDuplex enumeration (Access)
 
-Used with the  **Duplex** property to specify how the printer handles duplex printing.
+Used with the **Duplex** property to specify how the printer handles duplex printing.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

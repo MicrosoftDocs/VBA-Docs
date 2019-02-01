@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the default startup mode for the Japanese Input Method Editor (IME). 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

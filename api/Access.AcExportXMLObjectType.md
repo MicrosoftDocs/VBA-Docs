@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcExportXMLObjectType enumeration (Access)
 
-Use with the  **ExportXML** method to specify the type of object to export.
+Use with the **ExportXML** method to specify the type of object to export.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

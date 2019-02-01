@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [TextFormat](Access.TextBox.TextFormat.md) property to specify whether or not rich text is displayed in a Text Box.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

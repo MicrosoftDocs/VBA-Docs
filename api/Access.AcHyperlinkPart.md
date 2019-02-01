@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcHyperlinkPart enumeration (Access)
 
-Specifies the information you want returned by the  **HyperlinkPart** method.
+Specifies the information you want returned by the **HyperlinkPart** method.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

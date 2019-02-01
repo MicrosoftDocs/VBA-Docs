@@ -36,7 +36,7 @@ For a bound control, the default name is the name of the field in the underlying
 
 You can't use "Form" or "Report" to name a control or section.
 
-Controls on the same form, report, or data access page can't have the same name, but controls on different forms, reports or data access pages can have the same name. A control and a section on the same form can't share the same name.
+Controls on the same form, report, or data access page can't have the same name, but controls on different forms, reports, or data access pages can have the same name. A control and a section on the same form can't share the same name.
 
 
 

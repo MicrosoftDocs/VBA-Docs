@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Specifies the data entry mode of a form.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -14,9 +14,9 @@ localization_priority: Priority
 
 # AcDataTransferType enumeration (Access)
 
-Specifies the type of transfer that you want to make with the  **TransferDatabase** or **TransferSpreadsheet** method.
+Specifies the type of transfer that you want to make with the **TransferDatabase** or **TransferSpreadsheet** method.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
@@ -26,9 +26,6 @@ Specifies the type of transfer that you want to make with the  **TransferDatabas
 
 ## Remarks
 
-
-
-
- **Note**   The **acLink** transfer type is not supported for Microsoft Access projects (.adp).
+The **acLink** transfer type is not supported for Microsoft Access projects (.adp).
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

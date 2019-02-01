@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the color to apply.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

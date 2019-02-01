@@ -14,9 +14,9 @@ localization_priority: Priority
 
 # AcCommand enumeration (Access)
 
-Used with the  **[RunCommand](Access.Application.RunCommand.md)** method to run built-in commands.
+Used with the **[RunCommand](Access.Application.RunCommand.md)** method to run built-in commands.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

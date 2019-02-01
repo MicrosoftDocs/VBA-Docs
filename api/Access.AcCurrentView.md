@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcCurrentView enumeration (Access)
 
-Used with the  **CurrentView** property to determine the current view of an object.
+Used with the **CurrentView** property to determine the current view of an object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

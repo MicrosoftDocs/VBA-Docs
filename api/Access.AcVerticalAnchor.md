@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcVerticalAnchor enumeration (Access)
 
-Used with the  **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
+Used with the **VerticalAnchor** property to specify how a control is anchored vertically within its layout.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

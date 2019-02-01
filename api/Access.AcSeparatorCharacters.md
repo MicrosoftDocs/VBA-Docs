@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [ComboBox.SeparatorCharacters property (Access)](Access.ComboBox.SeparatorCharacters.md) property to specify the separator displayed between values in combo boxes that are linked to multi-valued fields.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

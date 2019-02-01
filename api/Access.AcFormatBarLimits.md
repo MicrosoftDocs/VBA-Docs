@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies how the threshold values for a Data Bar is determined.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

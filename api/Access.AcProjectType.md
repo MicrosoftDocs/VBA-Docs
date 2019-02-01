@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcProjectType enumeration (Access)
 
-Used with the  **ProjectType** property to determine the type of project that is currently open.
+Used with the **ProjectType** property to determine the type of project that is currently open.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

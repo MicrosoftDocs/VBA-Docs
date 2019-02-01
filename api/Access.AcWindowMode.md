@@ -16,11 +16,11 @@ localization_priority: Priority
 
 Specifies the mode in which a form or report is opened.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**acDialog**|3|The form or report's  **Modal** and **PopUp** properties are set to **Yes**.|
+|**acDialog**|3|The form or report's **Modal** and **PopUp** properties are set to **Yes**.|
 |**acHidden**|1|The form or report is hidden.|
 |**acIcon**|2|The form or report opens minimized in the Windows taskbar.|
 |**acWindowNormal**|0| (Default) The form or report opens in the mode set by its properties.|

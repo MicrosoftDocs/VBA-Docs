@@ -14,9 +14,9 @@ localization_priority: Priority
 
 # AcControlType enumeration (Access)
 
-Specifies the type of control created by the  **CreateControl** and **CreateReportControl** methods.
+Specifies the type of control created by the **CreateControl** and **CreateReportControl** methods.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
