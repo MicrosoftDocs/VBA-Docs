@@ -30,7 +30,7 @@ The  **Vertical** property uses the following settings:
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Displays, edits, and prints vertical text.|
 |No|**False**|(Default) Does not display, edit, or print vertical text.|

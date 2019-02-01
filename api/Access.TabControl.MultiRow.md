@@ -30,7 +30,7 @@ The  **MultiRow** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Multiple rows are allowed.|
 |No|**False**|(Default) Multiple rows aren't allowed.|

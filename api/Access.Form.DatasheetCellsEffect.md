@@ -34,7 +34,7 @@ The  **DatasheetCellsEffect** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Flat|**acEffectNormal**|(Default) No special effects are applied to the cells in the datasheet.|
 |Raised|**acEffectRaised**|Cells in the datasheet appear raised.|

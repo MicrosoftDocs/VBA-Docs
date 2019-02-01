@@ -30,7 +30,7 @@ The  **PopUp** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The form opens as a pop-up window. It remains on top of all other Microsoft Access windows.|
 |No|**False**|(Default) The form isn't a pop-up window.|

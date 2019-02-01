@@ -30,7 +30,7 @@ The  **TextAlign** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |General|0|(Default) The text aligns to the left; numbers and dates align to the right.|
 |Left|1|The text, numbers, and dates align to the left.|

@@ -30,7 +30,7 @@ The  **UpdateOptions** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Automatic|**acOLEUpdateAutomatic**|(Default) Updates the object each time the linked data changes.|
 |Manual|**acOLEUpdateManual**|Updates the object only when the control's  **Action** property is set to **acOLEUpdate** or the link is updated with the **OLE/DDE Links** command on the **Edit** menu.|

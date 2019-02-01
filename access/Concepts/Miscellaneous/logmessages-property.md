@@ -27,7 +27,7 @@ You can use the **LogMessages** property in an SQL pass-through query to specify
 
 The **LogMessages** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|Microsoft Access stores messages returned from the SQL database in a messages table.|
 |No|**False** (0)|(Default) Microsoft Access doesn't store messages returned from the SQL database.|

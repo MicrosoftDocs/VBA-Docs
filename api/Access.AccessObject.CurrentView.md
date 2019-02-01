@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.CurrentView
 ms.assetid: d957f544-9619-be5c-dfce-c6962ba24655
-ms.date: 09/26/2018
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
@@ -16,11 +16,10 @@ localization_priority: Normal
 
 Returns the current view for the specified Access object. Read-only **[AcCurrentView](Access.AcCurrentView.md)**.
 
-
 ## Syntax
 
-_expression_. `CurrentView`
+_expression_.**CurrentView**
 
-_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,7 +30,7 @@ The  **Cancel** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The command button is the Cancel button.|
 |No|**False**|(Default) The command button isn't the Cancel button.|

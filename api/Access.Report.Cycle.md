@@ -30,7 +30,7 @@ The  **Cycle** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |All Records|0|(Default) Pressing the TAB key from the last control on a report moves the focus to the first control in the tab order in the next record.|
 |Current Record|1|Pressing the TAB key from the last control on a record moves the focus to the first control in the tab order in the same record.|

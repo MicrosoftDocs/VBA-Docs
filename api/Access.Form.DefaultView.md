@@ -30,7 +30,7 @@ The  **DefaultView** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Single Form|0|(Default) Displays one record at a time.|
 |Continuous Forms|1|Displays multiple records (as many as will fit in the current window), each in its own copy of the form's detail section.|

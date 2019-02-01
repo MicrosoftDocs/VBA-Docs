@@ -30,7 +30,7 @@ The  **HasModule** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The form or report has a class module.|
 |No|**False**|(Default) The form or report doesn't have a class module.|

@@ -30,7 +30,7 @@ The  **ScrollBars** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 | None|0|(Default) No scroll bars appear on the text box.|
 | Vertical|2|Vertical scroll bar appears on the text box.|

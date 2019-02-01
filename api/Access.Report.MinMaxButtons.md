@@ -30,7 +30,7 @@ The  **MinMaxButtons** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |None|0|The  **Maximize** and **Minimize** buttons aren't visible.|
 |Min Enabled|1|Only the  **Minimize** button is visible.|

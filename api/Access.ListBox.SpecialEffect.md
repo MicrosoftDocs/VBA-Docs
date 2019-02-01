@@ -30,7 +30,7 @@ The  **SpecialEffect** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Flat|0|The object appears flat and has the system's default colors or custom colors that were set in Design view.|
 |Raised|1|The object has a highlight on the top and left and a shadow on the bottom and right.|

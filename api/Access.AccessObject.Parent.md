@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.Parent
 ms.assetid: 3db6009b-6c7e-65de-4033-1d592b122887
-ms.date: 06/08/2017
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
-_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
 
 
-[AccessObject Object](Access.AccessObject.md)
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

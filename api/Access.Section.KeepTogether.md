@@ -30,7 +30,7 @@ The  **KeepTogether** property for a section uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Microsoft Access starts printing the section at the top of the next page if it can't print the entire section on the current page.|
 |No|**False**|(Default) Microsoft Access prints as much of the section as possible on the current page and prints the rest on the next page.|

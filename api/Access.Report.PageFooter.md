@@ -30,7 +30,7 @@ The  **PageFooter** property use the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |All Pages|0|(Default) The page footer is printed on all pages of a report.|
 |Not With Rpt Hdr|1|The page footer isn't printed on the same page as the report header.|

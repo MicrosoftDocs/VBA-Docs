@@ -30,7 +30,7 @@ The **NewRowOrCol** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |None|0|(Default) The row or column breaks are determined by the settings in the **Page Setup** dialog box (available by clicking **Page Setup** on the **File** menu) and the available space on the page.|
 |Before Section|1|Microsoft Access starts printing the current section (the section for which you are setting the property, such as a group header section) in a new row or column. It then prints the next section, such as a detail section, in that same row or column.|

@@ -30,7 +30,7 @@ For controls, the  **BorderStyle** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Transparent|0|Transparent|
 |Solid|1|(Default) Solid line|

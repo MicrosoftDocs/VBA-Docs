@@ -30,7 +30,7 @@ The  **BackStyle** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Normal|1|(Default) The control has its interior color set by the  **BackColor** property.|
 |Transparent|0| The control is transparent. The color of the form or report behind the control is visible.|

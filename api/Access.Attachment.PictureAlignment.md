@@ -30,7 +30,7 @@ The  **PictureAlignment** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Top Left|0|The picture is displayed in the top-left corner of the control.|
 |Top Right|1|The picture is displayed in the top-right corner of the control.|

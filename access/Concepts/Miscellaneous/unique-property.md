@@ -23,7 +23,7 @@ You can use the Unique property to specify that an index enforces uniqueness of 
 
 The **Unique** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True** (-1)|The index is a key (unique) index.|
 |No|**False** (0)|The index is a non-key index.|

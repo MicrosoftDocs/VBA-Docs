@@ -30,7 +30,7 @@ The  **LineSlant** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |**\**|**False**|(Default) Upper left to lower right|
 |**/**|**True**|Upper right to lower left|

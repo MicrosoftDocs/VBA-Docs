@@ -30,7 +30,7 @@ The  **Default** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The command button is the default button.|
 |No|**False**|(Default) The command button isn't the default button.|

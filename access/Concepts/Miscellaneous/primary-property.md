@@ -23,7 +23,7 @@ You can use the Primary property to specify the primary key field for a table. A
 
 The **Primary** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The selected index is the primary key.|
 |No|**False**|The selected index isn't the primary key.|

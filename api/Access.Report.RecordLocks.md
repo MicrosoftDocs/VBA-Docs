@@ -34,7 +34,7 @@ The  **RecordLocks** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |No Locks|0|(Default) In reports, records aren't locked while the report is previewed or printed. In queries, records aren't locked while the query is run.|
 |All Records|1|All records in the underlying table or query are locked while the report is previewed or printed, or while the query is run. Although users can read the records, the report has finished printing, or the query has finished running.|

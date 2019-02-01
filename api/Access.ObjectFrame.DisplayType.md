@@ -32,7 +32,7 @@ The  **DisplayType** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Content|**acOLEDisplayContent**|(Default) When the control contains an OLE object, the control displays the object's data, such as a document or spreadsheet.|
 |Icon|**acOLEDisplayIcon**|When the control contains an OLE object, the control displays the object's icon.|

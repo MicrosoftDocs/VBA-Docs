@@ -30,7 +30,7 @@ The  **FilterLookup** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Never|0|The field values aren't displayed. You can specify whether the filtered records can contain null values.|
 |Database Default|1|(Default) The field values are displayed according to the settings under  **Filter lookup options** on the **Current Database** tab of the **Access Options** dialog box, available by clicking the **Microsoft Office Button** ![File menu button](../images/O12FileMenuButton_ZA10077102.gif) and the clicking **Access Options**.|

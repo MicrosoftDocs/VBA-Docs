@@ -30,7 +30,7 @@ The  **DefaultView** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Print Preview|0| Displays the report in Print Preview.|
 |Report View|1|(Default) Displays the report in Report view. |

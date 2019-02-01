@@ -30,7 +30,7 @@ The  **Modal** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The form or report opens as a modal window.|
 |No|**False**|(Default) The form opens as a non-modal window.|

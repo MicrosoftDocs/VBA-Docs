@@ -30,7 +30,7 @@ The  **PicturePages** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |All Pages|0|(Default) The picture appears on all pages of the report.|
 |First Page|1|The picture appears only on the first page of the report.|

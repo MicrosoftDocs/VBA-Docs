@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AccessObject.DateModified
 ms.assetid: a5392776-febe-de09-103d-2d2683f2d0bf
-ms.date: 09/26/2018
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Returns a **Date** indicating the date and time when the design of the specified
 
 ## Syntax
 
-_expression_. `DateModified`
+_expression_.**DateModified**
 
-_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Example

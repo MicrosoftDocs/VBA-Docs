@@ -18,7 +18,7 @@ You can use the IgnoreNulls property to specify that records with Null values in
 
 ## Settings
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Records that contain Null values in the indexed fields aren't included in the index.|
 |No|**False**|(Default) Records that contain Null values in the indexed fields are included in the index.|

@@ -30,7 +30,7 @@ The  **ColumnHeads** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Column headings are enabled and either field captions, field names, or the first row of data items are used as column headings or chart labels.|
 |No|**False**|(Default) Column headings are not enabled.|

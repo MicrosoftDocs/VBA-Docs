@@ -30,7 +30,7 @@ The  **OrderByOn** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The  **OrderBy** property setting is applied when the object is opened.|
 |No|**False**|(Default) The  **OrderBy** property setting isn't applied when the object is opened.|

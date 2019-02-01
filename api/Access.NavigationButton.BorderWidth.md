@@ -30,7 +30,7 @@ The  **BorderWidth** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Hairline|0|(Default) The narrowest border possible on your system.|
 |1 pt to 6 pt|1 to 6|The width as indicated in points.|
