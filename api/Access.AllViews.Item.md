@@ -7,45 +7,38 @@ ms.prod: access
 api_name:
 - Access.AllViews.Item
 ms.assetid: 5fcdb90e-c70c-1a1f-153b-7c50e43308e8
-ms.date: 06/08/2017
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
 
 # AllViews.Item property (Access)
 
-The  **Item** property returns a specific member of a collection either by position or by index. Read-only **AccessObject**.
+The **Item** property returns a specific member of a collection either by position or by index. Read-only **AccessObject**.
 
 
 ## Syntax
 
-_expression_. `Item`( ` _var_` )
+_expression_.**Item** (_var_)
 
-_expression_ A variable that represents an [AllViews](Access.AllViews.md) object.
+_expression_ A variable that represents an **[AllViews](Access.AllViews.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument. If a numeric expression, the _index_ argument must be a number from 0 to the value of the collection's 'Count' property minus 1. If a string expression, the _index_ argument must be the name of a member of the collection|
+| _var_|Required|**Variant**|An expression that specifies the position of a member of the collection referred to by the _expression_ argument.<br/><br/>If a numeric expression, the _index_ argument must be a number from 0 to the value of the collection's **Count** property minus 1.<br/><br/>If a string expression, the _index_ argument must be the name of a member of the collection.|
 
 ## Remarks
 
-If the value provided for the  _index_ argument doesn't match any existing member of the collection, an error occurs.
+If the value provided for the _index_ argument doesn't match any existing member of the collection, an error occurs.
 
-The  **Item** property is the default member of a collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent:
-
-
-
+The **Item** property is the default member of a collection, so you don't have to specify it explicitly. For example, the following two lines of code are equivalent.
 
 ```vb
 Debug.Print Modules(0)
 ```
-
-
 
 
 ```vb
@@ -53,9 +46,6 @@ Debug.Print Modules.Item(0)
 ```
 
 
-## See also
 
-
-[AllViews Collection](Access.AllViews.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
