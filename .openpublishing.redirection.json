@@ -2419,6 +2419,14 @@
           {
             "source_path": "api/access.actionname.md",
             "redirect_url": "/office/vba/api/access.macroerror.actionname"
+          },
+          {
+            "source_path": "api/access.appicon.md",
+            "redirect_url": "/office/vba/api/Access.Application.AppIcon"
+          },
+          {
+            "source_path": "api/access.apptitle.md",
+            "redirect_url": "/office/vba/api/Access.Application.AppTitle"
           }
     ]
 }

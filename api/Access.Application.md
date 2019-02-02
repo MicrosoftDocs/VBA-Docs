@@ -138,7 +138,9 @@ For more information about creating a reference and controlling objects by using
 
 ## Properties
 
+- [AppIcon](Access.Application.AppIcon.md)
 - [Application](Access.Application.Application.md)
+- [AppTitle](Access.Application.AppTitle.md)
 - [Assistance](Access.Application.Assistance.md)
 - [AutoCorrect](Access.Application.AutoCorrect.md)
 - [AutomationSecurity](Access.Application.AutomationSecurity.md)

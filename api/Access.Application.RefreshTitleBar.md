@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.Application.RefreshTitleBar
 ms.assetid: 9924e3ff-714f-023e-460f-d4aba7702829
-ms.date: 06/08/2017
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
 
 # Application.RefreshTitleBar method (Access)
 
-The  **RefreshTitleBar** method refreshes the Microsoft Access title bar after the **[AppTitle](Access.AppTitle.md)** or **[AppIcon](Access.AppIcon.md)** property has been set in Visual Basic.
+The **RefreshTitleBar** method refreshes the Microsoft Access title bar after the **[AppTitle](Access.Application.AppTitle.md)** or **[AppIcon](Access.Application.AppIcon.md)** property has been set in Visual Basic.
 
 
 ## Syntax
 
-_expression_. `RefreshTitleBar`
+_expression_.**RefreshTitleBar**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Return value
@@ -31,19 +31,19 @@ Nothing
 
 ## Remarks
 
-For example, you can change the caption in the Microsoft Access title bar to "Contacts Database" by setting the  **AppTitle** property.
+For example, you can change the caption in the Microsoft Access title bar to "Contacts Database" by setting the **AppTitle** property.
 
-The  **AppTitle** and **AppIcon** properties enable you to customize your application by changing the title and icon that appear in the Microsoft Access title bar. The title bar is not automatically updated after you have set these properties. In order for the change to the title bar to appear, you must use the **RefreshTitleBar** method.
+The **AppTitle** and **AppIcon** properties enable you to customize your application by changing the title and icon that appear in the Microsoft Access title bar. The title bar is not automatically updated after you have set these properties. For the change to the title bar to appear, you must use the **RefreshTitleBar** method.
 
+> [!NOTE] 
+> In a Microsoft Access database, you can reset the **AppTitle** and **AppIcon** properties to their default values by deleting them from the **Properties** collection representing the current database. After you delete these properties, you must use the **RefreshTitleBar** method to restore the Microsoft Access defaults to the title bar.
 
- **Note**  In a Microsoft Access database, you can reset the  **AppTitle** and **AppIcon** properties to their default value by deleting them from the **Properties** collection representing the current database. After you delete these properties, you must use the **RefreshTitleBar** method to restore the Microsoft Access defaults to the title bar.
-
-It the path to the icon specified by the  **AppIcon** property is invalid, then no changes will be refled in the title bar when you call this method.
+If the path to the icon specified by the **AppIcon** property is invalid, no changes will be reflected in the title bar when you call this method.
 
 
 ## Example
 
-The following example sets the  **AppTitle** property of the current database and applies the **RefreshTitleBar** method to update the title bar.
+The following example sets the **AppTitle** property of the current database and applies the **RefreshTitleBar** method to update the title bar.
 
 
 ```vb
@@ -73,9 +73,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

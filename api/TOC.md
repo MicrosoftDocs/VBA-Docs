@@ -490,7 +490,9 @@
 ###### [SysCmd](Access.Application.SysCmd.md)
 ###### [TransformXML](Access.Application.TransformXML.md)
 ##### Properties
+###### [AppIcon](Access.Application.AppIcon.md)
 ###### [Application](Access.Application.Application.md)
+###### [AppTitle](Access.Application.AppTitle.md)
 ###### [Assistance](Access.Application.Assistance.md)
 ###### [AutoCorrect](Access.Application.AutoCorrect.md)
 ###### [AutomationSecurity](Access.Application.AutomationSecurity.md)

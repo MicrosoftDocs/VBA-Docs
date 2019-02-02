@@ -24,10 +24,10 @@ When you set startup properties from Visual Basic, you should include error-hand
 The names of the startup properties differ from the text that appears in the **Startup** dialog box. The following table provides the name of each startup property as it is used in Visual Basic code.
 
 
-|**Text in Startup dialog box**|**Property name**|
+|Text in Startup dialog box|Property name|
 |:-----|:-----|
-|Application Title|**[AppTitle](../../../api/Access.AppTitle.md)**|
-|Application Icon|**[AppIcon](../../../api/Access.AppIcon.md)**|
+|Application Title|**[AppTitle](../../../api/Access.Application.AppTitle.md)**|
+|Application Icon|**[AppIcon](../../../api/Access.Application.AppIcon.md)**|
 |Display Form/Page|**StartupForm**|
 |Display Database Window|**StartupShowDBWindow**|
 |Display Status Bar|**StartupShowStatusBar**|
