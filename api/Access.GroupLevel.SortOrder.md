@@ -30,7 +30,7 @@ The  **SortOrder** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Ascending|**False**|(Default) Sorts values in ascending (A to Z, 0 to 9) order.|
 |Descending|**True**|Sorts values in descending (Z to A, 9 to 0) order.|

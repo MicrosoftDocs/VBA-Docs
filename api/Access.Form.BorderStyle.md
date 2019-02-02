@@ -30,7 +30,7 @@ For controls, the  **BorderStyle** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |None|0|The form has no border or related border elements. The form isn't resizable.|
 |Thin|1|The form has a thin border and can include any of the border elements. The form isn't resizable (the  **Size** command on the **Control** menu isn't available). You often use this setting for pop-up forms. (If you want a form to remain on top of all Microsoft Access windows, you must also set its **PopUp** property to Yes.)|

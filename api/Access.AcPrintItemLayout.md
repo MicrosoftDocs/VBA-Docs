@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintItemLayout enumeration (Access)
 
-Used with the  **ItemLayout** property to specify how columns are laid out when printing.
+Used with the **ItemLayout** property to specify how columns are laid out when printing.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

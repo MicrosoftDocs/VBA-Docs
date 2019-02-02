@@ -16,9 +16,8 @@ localization_priority: Normal
 
 Specifies the type of layout that the control is part of.
 
+<br/>
 
-|
-|
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acLayoutNone**|0|The control is not part of a layout.|

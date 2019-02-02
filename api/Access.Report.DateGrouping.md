@@ -32,7 +32,7 @@ The  **DateGrouping** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |US Defaults|0|Microsoft Access uses the U.S. settings for the first day of the week (Sunday) and the first week of the year (starts on January 1).|
 |Use System Settings|1|(Default) Microsoft Access uses settings based on the locale selected in the  **Regional Options** dialog box in Windows Control Panel.|

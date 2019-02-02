@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcDisplayAs enumeration (Access)
 
-Use with the  **DisplayAs** property to specify what is displayed in an Attachment control.
+Use with the **DisplayAs** property to specify what is displayed in an Attachment control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

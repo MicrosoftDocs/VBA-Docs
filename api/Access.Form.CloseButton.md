@@ -30,7 +30,7 @@ The  **CloseButton** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|(Default) The  **Close** button is enabled.|
 |No|**False**|The  **Close** button is disabled and the **Close** command isn't available on the **Control** menu.|

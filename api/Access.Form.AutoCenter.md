@@ -30,7 +30,7 @@ The  **AutoCenter** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The form will be centered automatically on opening.|
 |No|**False**|(Default) The form upper-left corner will be in the same location as when the form was last saved.|

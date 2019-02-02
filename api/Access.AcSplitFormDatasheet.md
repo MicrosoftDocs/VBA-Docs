@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [Form.SplitFormDatasheet property (Access)](Access.Form.SplitFormDatasheet.md) property to specify whether the user can edit contents of the datasheet while a form is displayed in Split Form view.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

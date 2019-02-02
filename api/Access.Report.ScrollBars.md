@@ -30,7 +30,7 @@ The  **ScrollBars** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Neither |0|No scroll bars appear on the report.|
 |Horizontal Only |1|Horizontal scroll bar appears on the report.|

@@ -30,7 +30,7 @@ The  **Style** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Tabs|**0**|(Default) Tabs appear as tabs.|
 |Buttons|**1**|Tabs appear as buttons.|

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the section that will contain the new control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

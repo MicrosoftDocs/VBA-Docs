@@ -30,7 +30,7 @@ The  **TabStop** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|(Default) You can move the focus to the control by pressing the TAB key.|
 |No|**False**|You cannot move the focus to the control by pressing the TAB key.|

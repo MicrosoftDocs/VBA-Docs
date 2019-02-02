@@ -30,7 +30,7 @@ The  **LimitToList** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|If the user selects an item from the list in the combo box or enters text that matches a listed item, Microsoft Access accepts it. If the entered text doesn't match a listed item, the text isn't accepted and the user must then retype the entry, select a listed item, press ESC, or click  **Undo** on the **Edit** menu.|
 |No|**False**|(Default) Microsoft Access accepts any text that conforms to the  **[ValidationRule](Access.ComboBox.ValidationRule.md)** property.|

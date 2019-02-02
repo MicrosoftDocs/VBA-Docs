@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Used with the [GoToRecord](Access.DoCmd.GoToRecord.md) method to specify which record to make the current record.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -30,7 +30,7 @@ The  **MultiSelect** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |None|0|(Default) Multiple selection isn't allowed.|
 |Simple|1|Multiple items are selected or deselected by clicking them with the mouse or pressing the SPACEBAR.|

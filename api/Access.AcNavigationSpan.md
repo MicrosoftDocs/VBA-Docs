@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the orientation of navigation buttons.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -30,7 +30,7 @@ The  **DecimalPlaces** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Auto|255|(Default) Numbers appear as specified by the  **Format** property setting.|
 |0 to 15|0 to 15|Digits to the right of the decimal separator appear with the specified number of decimal places; digits to the left of the decimal separator appear as specified by the  **Format** property setting.|

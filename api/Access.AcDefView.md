@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcDefView enumeration (Access)
 
-Use with the  **DefaultView** property to set or return the opening view of a form.
+Use with the **DefaultView** property to set or return the opening view of a form.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

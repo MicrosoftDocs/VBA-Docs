@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Specifies the view when opeing a form.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

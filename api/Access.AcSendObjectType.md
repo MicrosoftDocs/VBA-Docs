@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [DoCmd.SendObject method (Access)](Access.DoCmd.SendObject.md) method to specify the type of object to send.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

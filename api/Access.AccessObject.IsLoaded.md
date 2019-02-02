@@ -7,28 +7,28 @@ ms.prod: access
 api_name:
 - Access.AccessObject.IsLoaded
 ms.assetid: 5e68398c-8a95-f3e1-87ec-e2d637f34429
-ms.date: 11/30/2017
+ms.date: 02/01/2019
 localization_priority: Priority
 ---
 
 
 # AccessObject.IsLoaded property (Access)
 
-You can use the **IsLoaded** property to determine if an **[AccessObject](Access.AccessObject.md)** is currently loaded. Read-only **Boolean**.
+You can use the **IsLoaded** property to determine if an **AccessObject** object is currently loaded. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `IsLoaded`
+_expression_.**IsLoaded**
 
-_expression_ A variable that represents an [AccessObject](Access.AccessObject.md) object.
+_expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
 
 
 ## Remarks
 
 The **IsLoaded** property uses the following settings.
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The specified **AccessObject** is loaded.|
 |No|**False**|The specified **AccessObject** is not loaded.|
@@ -36,9 +36,6 @@ The **IsLoaded** property uses the following settings.
 ## Example
 
 The following example shows how to prevent a user from opening a particular form directly from the navigation pane.
-
-
-**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 ```vb
 'Don't let this form be opened from the Navigator
@@ -50,12 +47,6 @@ If Not CurrentProject.AllForms(cFormUsage).IsLoaded Then
 End If
 ```
 
-### About the contributors
 
-Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
-
-## See also
-
-[AccessObject Object](Access.AccessObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

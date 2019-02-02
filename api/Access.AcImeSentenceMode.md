@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [IMESentenceMode](overview/Access.md) property to specify the IME sentence mode for the IMM.
 
-
+<br/>
 
 |**acImeSentenceModeConversation**|2||
 |**acImeSentenceModeNone**|3||

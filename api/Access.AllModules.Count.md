@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.AllModules.Count
 ms.assetid: d661e66b-aac3-2baf-f9ae-63198d256ae1
-ms.date: 06/08/2017
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
 
 # AllModules.Count property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents an [AllModules](Access.AllModules.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[AllModules](Access.AllModules.md)** object.
 
 
-[AllModules Collection](Access.AllModules.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

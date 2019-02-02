@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcHorizontalAnchor enumeration (Access)
 
-Used with the  **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.
+Used with the **HorizontalAnchor** property to specify how a control is anchored horizontally within its layout.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.AdditionalData
 ms.assetid: 2677072b-c2ca-3bcd-fef4-f6b1cadb0379
-ms.date: 06/08/2017
+ms.date: 02/01/2019
 localization_priority: Normal
 ---
 
 
 # AdditionalData object (Access)
 
-Represents the collection of tables and queries that will be included with the parent table that is exported by the  **[ExportXML](Access.Application.ExportXML.md)** method.
+Represents the collection of tables and queries that will be included with the parent table that is exported by the **[ExportXML](Access.Application.ExportXML.md)** method.
 
 
 ## Remarks
 
-To create an  **AdditionalData** object, use the **[CreateAdditionalData](Access.Application.CreateAdditionalData.md)** method of the **[Application](Access.Application.md)** object.
+To create an **AdditionalData** object, use the **[CreateAdditionalData](Access.Application.CreateAdditionalData.md)** method of the **[Application](Access.Application.md)** object.
 
-To add a table to an existing  **AdditionalData** object, use the **Add** method.
+To add a table to an existing **AdditionalData** object, use the **Add** method.
 
 
 ## Example
@@ -50,25 +50,17 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Access.AdditionalData.Add.md)|
+- [Add](Access.AdditionalData.Add.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Count](Access.AdditionalData.Count.md)|
-|[Item](Access.AdditionalData.Item.md)|
-|[Name](Access.AdditionalData.Name.md)|
+- [Count](Access.AdditionalData.Count.md)
+- [Item](Access.AdditionalData.Item.md)
+- [Name](Access.AdditionalData.Name.md)
 
 ## See also
 
+- [Access Object Model Reference](overview/Access/object-model.md)
 
-[Access Object Model Reference](overview/Access/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

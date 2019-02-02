@@ -30,7 +30,7 @@ The  **KeepTogether** property for a group uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |No|0|(Default) Prints the group without keeping the group header, detail section, and group footer on the same page.|
 |Whole Group|1|Prints the group header, detail section, and group footer on the same page.|

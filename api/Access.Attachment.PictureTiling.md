@@ -30,7 +30,7 @@ The  **PictureTiling** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The picture is tiled.|
 |No|**False**|(Default) The picture isn't tiled.|

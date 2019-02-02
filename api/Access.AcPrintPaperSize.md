@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintPaperSize enumeration (Access)
 
-Used with the  **PaperSize** property to indicate the paper size to use when printing.
+Used with the **PaperSize** property to indicate the paper size to use when printing.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies whether the search is confined to the current field in each record or includes all fields in each record. 
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

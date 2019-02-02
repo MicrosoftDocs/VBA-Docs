@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [DoCmd.ShowToolbar method (Access)](Access.DoCmd.ShowToolbar.md) method to specify whether to display a particular custom toolbar.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

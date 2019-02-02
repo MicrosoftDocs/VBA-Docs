@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the type of information to return about the group membership of the current user of a Web database.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

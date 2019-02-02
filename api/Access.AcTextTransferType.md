@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Used with the [DoCmd.TransferText method (Access)](Access.DoCmd.TransferText.md) method to specify the type of transfer you want to make.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

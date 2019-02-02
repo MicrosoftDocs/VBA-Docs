@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPictureCaptionArrangement enumeration (Access)
 
-Used with the  **[PictureCaptionArrangement](Access.CommandButton.PictureCaptionArrangement.md)** property to determine how a button's caption is arranged in relation to its picture.
+Used with the **[PictureCaptionArrangement](Access.CommandButton.PictureCaptionArrangement.md)** property to determine how a button's caption is arranged in relation to its picture.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

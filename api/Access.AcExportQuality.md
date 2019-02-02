@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcExportQuality enumeration (Access)
 
-Use with the  **OutputTo** method to specify the type of output device to optimize for when exporting an object.
+Use with the **OutputTo** method to specify the type of output device to optimize for when exporting an object.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

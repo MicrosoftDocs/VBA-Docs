@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used by the [ScrollBars](Access.WebBrowserControl.ScrollBars.md) property to specify whether scroll bars are displayed.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

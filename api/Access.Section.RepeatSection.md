@@ -32,7 +32,7 @@ The  **RepeatSection** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |**Yes**|**True**|The group header is repeated.|
 |**No**|**False**|(Default) The group header isn't repeated.|

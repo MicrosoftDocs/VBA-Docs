@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the type of conditional formatting to apply to a control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -28,7 +28,7 @@ You can use the **AllowZeroLength** property to specify whether a zero-length st
 The **AllowZeroLength** property uses the following settings.
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|A zero-length string is a valid entry. This is the default value when creating a field in the Access user interface.|
 |No|**False**|A zero-length string is an invalid entry. This is the default value when creating a field programmatically.|

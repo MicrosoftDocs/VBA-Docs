@@ -31,7 +31,7 @@ The  **NumeralShapes** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |System|0|Numeral shapes determined by the  **Numeral Shapes** system setting.|
 |Arabic|1|Arabic digit shapes will be used to display and print numerals.|

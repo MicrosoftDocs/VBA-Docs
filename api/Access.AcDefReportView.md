@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcDefReportView enumeration (Access)
 
-Use with the  **DefaultView** property to set or return the opening view of a report.
+Use with the **DefaultView** property to set or return the opening view of a report.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

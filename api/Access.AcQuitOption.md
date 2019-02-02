@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used with the [Quit](Access.Application.Quit.md) method to specify whether or not to save changes to the database when quitting Microsoft Access.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

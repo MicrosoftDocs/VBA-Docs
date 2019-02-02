@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies the data entry mode when opening a table, query, stored procedure, view, or user-defined function.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

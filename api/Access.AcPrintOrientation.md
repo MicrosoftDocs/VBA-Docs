@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintOrientation enumeration (Access)
 
-Used with the  **Orientation** property to specify a printer's print orientation.
+Used with the **Orientation** property to specify a printer's print orientation.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

@@ -30,7 +30,7 @@ The  **PictureSizeMode** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Clip|0|(Default) The picture is displayed in its actual size. If the picture is larger than the attachment control, then the picture is clipped.|
 |Stretch|1|The picture is stretched horizontally and vertically to fill the entire attachment control, even if its original ratio of height to width is distorted.|

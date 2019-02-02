@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Specifies information about the current user of a Web database.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

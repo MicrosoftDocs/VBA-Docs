@@ -34,7 +34,7 @@ The  **RecordLocks** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |No Locks|0|(Default) In forms, two or more users can edit the same record simultaneously. This is also called "optimistic" locking. If two users attempt to save changes to the same record, Microsoft Access displays a message to the user who tries to save the record second. This user can then discard the record, copy the record to the Clipboard, or replace the changes made by the other user. This setting is typically used on read-only forms or in single-user databases. It is also used in multiuser databases to permit more than one user to be able to make changes to the same record at the same time.|
 |All Records|1|All records in the underlying table or query are locked while the form is open in Form view or Datasheet view. Although users can read the records, no one can edit, add, or delete any records until the form is closed.|

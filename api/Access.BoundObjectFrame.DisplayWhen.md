@@ -32,7 +32,7 @@ The  **DisplayWhen** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Always|0|(Default) The object appears in Form view and when printed.|
 |Print Only|1|The object is hidden in Form view but appears when printed.|

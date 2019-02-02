@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to determine the state of the Web Browser control.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

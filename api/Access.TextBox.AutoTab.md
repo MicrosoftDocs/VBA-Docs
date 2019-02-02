@@ -30,7 +30,7 @@ The  **AutoTab** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|Generates a tab when the last allowable character in a text box is entered.|
 |No|**False**|(Default) Doesn't generate a tab when the last allowable character in a text box is entered.|

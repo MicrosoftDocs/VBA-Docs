@@ -30,7 +30,7 @@ The  **PopUp** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The report opens as a pop-up window. It remains on top of all other Microsoft Access windows.|
 |No|**False**|(Default) The report isn't a pop-up window.|

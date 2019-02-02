@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintRange enumeration (Access)
 
-Used with the  **PrintOut** method to specify the range to print.
+Used with the **PrintOut** method to specify the range to print.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

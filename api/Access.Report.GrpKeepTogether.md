@@ -30,7 +30,7 @@ The  **GrpKeepTogether** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Per Page|0|Groups are kept together by page.|
 |Per Column|1|(Default) Groups are kept together by column.|

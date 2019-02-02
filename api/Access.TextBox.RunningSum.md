@@ -32,7 +32,7 @@ The  **RunningSum** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |No|0|(Default) The text box displays the data from the underlying field for the current record.|
 |Over Group|1|The text box displays a running sum of values in the same group level. The value accumulates until another group level section is encountered.|

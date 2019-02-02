@@ -30,7 +30,7 @@ The  **CanShrink** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The section or control shrinks vertically so that the data it contains can be printed or previewed without leaving blank lines.|
 |No|**False**|(Default) The section or control doesn't shrink.|

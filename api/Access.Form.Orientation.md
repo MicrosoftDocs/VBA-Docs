@@ -30,7 +30,7 @@ The  **Orientation** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Left-to-Right|0|Sets the view orientation to left to right.|
 |Right-to-Left|1|Sets the view orientation to right to left.|

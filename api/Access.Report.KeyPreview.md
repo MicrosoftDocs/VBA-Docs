@@ -30,7 +30,7 @@ The  **KeyPreview** property uses the following settings.
 
 
 
-|**Setting**|**Visual Basic**|**Description**|
+|Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|True|The report receives keyboard events first, and then the active control receives keyboard events. |
 |No|False| (Default) Only the active control receives keyboard events.|

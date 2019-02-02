@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintObjQuality enumeration (Access)
 
-Used with the  **PrintQuality** property to specify the resolution at which the specified printer should print jobs.
+Used with the **PrintQuality** property to specify the resolution at which the specified printer should print jobs.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

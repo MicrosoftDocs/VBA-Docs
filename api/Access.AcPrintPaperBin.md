@@ -14,9 +14,9 @@ localization_priority: Normal
 
 # AcPrintPaperBin enumeration (Access)
 
-Used with the  **PaperBin** property to indicate which paper bin the specified printer should use.
+Used with the **PaperBin** property to indicate which paper bin the specified printer should use.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
