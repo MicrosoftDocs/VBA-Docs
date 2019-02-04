@@ -23,16 +23,25 @@ Every **AccessObject** object contains an **[AccessObjectProperties](access.acce
 
 You can create user-defined properties for the following objects:
 
-- **CodeData**, **CodeProject**, **CurrentProject**, and **CurrentData** objects  
-- **AccessObject** objects in the following collections.
-    
-  |CurrentProject and CodeProject object collections|CodeData and CodeProject object collections|
-  |:-----|:-----|
-  |**[AllForms](Access.AllForms.md)**|**[AllQueries](Access.AllQueries.md)**|
-  |**[AllReports](Access.AllReports.md)**|**[AllViews](Access.AllViews.md)**|
-  |**[AllMacros](Access.allmacros.md)**|**[AllStoredProcedures](Access.AllStoredProcedures.md)**|
-  |**[AllModules](Access.AllModules.md)**|**[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)**|
-  |**[AllTables](Access.AllTables.md)**||
+- **CodeData**, **CodeProject**, **CurrentProject**, and **CurrentData** objects
+
+- **AccessObject** objects in the following collections:
+
+  - CurrentProject and CodeProject object collections:
+
+    - **[AllForms](Access.AllForms.md)**
+    - **[AllReports](Access.AllReports.md)**
+    - **[AllMacros](Access.allmacros.md)**
+    - **[AllModules](Access.AllModules.md)**
+    - **[AllTables](Access.AllTables.md)**
+
+  - CodeData and CodeProject object collections:
+
+    - **[AllQueries](Access.AllQueries.md)**
+    - **[AllViews](Access.AllViews.md)**
+    - **[AllStoredProcedures](Access.AllStoredProcedures.md)**
+    - **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)**
+
 
 > [!NOTE] 
 > The **AccessObjectProperties** collection isn't accessible for objects derived from the **[CurrentData](access.currentdata.md)** object (for example, CurrentData.AllTables!Table1). For objects derived in this manner, you can only access their built-in properties by direct calls to the desired property (for example, CurrentData.AllTables!Table1.Name).
