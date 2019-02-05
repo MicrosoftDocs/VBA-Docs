@@ -62,7 +62,6 @@ For more information about creating a reference and controlling objects by using
 - [CloseCurrentDatabase](Access.Application.CloseCurrentDatabase.md)
 - [CodeDb](Access.Application.CodeDb.md)
 - [ColumnHistory](Access.Application.ColumnHistory.md)
-- [CompactRepair](Access.Application.CompactRepair.md)
 - [ConvertAccessProject](Access.Application.ConvertAccessProject.md)
 - [CreateAccessProject](Access.Application.CreateAccessProject.md)
 - [CreateAdditionalData](Access.Application.CreateAdditionalData.md)
