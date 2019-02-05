@@ -14,12 +14,12 @@ localization_priority: Priority
 
 # Application.DoCmd property (Access)
 
-You can use the  **DoCmd** property to access the read-only **[DoCmd](Access.DoCmd.md)** object and its related methods. Read-only **DoCmd**.
+You can use the **DoCmd** property to access the read-only **[DoCmd](Access.DoCmd.md)** object and its related methods. Read-only **DoCmd**.
 
 
 ## Syntax
 
-_expression_. `DoCmd`
+_expression_.**DoCmd**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
@@ -37,9 +37,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
