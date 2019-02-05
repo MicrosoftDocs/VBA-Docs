@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.Application.Application
 ms.assetid: 2be2025d-263d-23d9-1b70-fce5108b4875
-ms.date: 02/01/2019
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.Application property (Access)
 
-You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
+You can use the **Application** property to access the active Microsoft Access **Application** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.NewAccessProject
 ms.assetid: e3b3b9ef-31f8-885c-5c92-d269b824fbdb
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **NewAccessProject** method to create and open a new Microsoft 
 
 _expression_. `NewAccessProject`( ` _filepath_`, ` _Connect_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -46,15 +46,10 @@ If the Access project identified by  _projname_ already exists, an error occurs.
 
 The new Access project is opened under the Admin user account .
 
+> [!NOTE] 
+> To open an Access database, use the **[NewCurrentDatabase](Access.Application.NewCurrentDatabase.md)** method of the **[Application](Access.Application.md)** object.
 
 
 
- **Note**   To open an Access database, use the **[NewCurrentDatabase](Access.Application.NewCurrentDatabase.md)** method of the **[Application](Access.Application.md)** object.
-
-
-## See also
-
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

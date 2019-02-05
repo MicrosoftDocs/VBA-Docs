@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Nz
 ms.assetid: 669fe962-3881-83bb-cc40-ec9b23b44116
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Nz** function to return zero, a zero-length string (" "), or 
 
 _expression_. `Nz`( ` _Value_`, ` _ValueIfNull_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -126,9 +126,6 @@ End Sub
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

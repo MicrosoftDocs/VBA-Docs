@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application
 ms.assetid: aefb0713-97e6-e2c7-e530-8fd2e1316a55
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -20,7 +20,7 @@ The **Application** object refers to the active Microsoft Access application.
 
 The **Application** object contains all Access objects and collections.
 
-You can use the **Application** object to apply methods or property settings to the entire Access application. For example, you can use the **[SetOption](Access.Application.SetOption.md)** method of the **Application** object to set database options from Visual Basic. The following example shows how you can set the **Display Status Bar** check box on the **Current Database** tab of the **Access Options** dialog box.
+You can use the **Application** object to apply methods or property settings to the entire Access application. For example, you can use the **SetOption** method of the **Application** object to set database options from Visual Basic. The following example shows how you can set the **Display Status Bar** check box on the **Current Database** tab of the **Access Options** dialog box.
 
 ```vb
 Application.SetOption "Show Status Bar", True
@@ -28,7 +28,7 @@ Application.SetOption "Show Status Bar", True
 
 Access is a COM component that supports Automation, formerly called OLE Automation. You can manipulate Access objects from another application that also supports Automation. To do this, you use the **Application** object.
 
-For example, Microsoft Visual Basic is a COM component. You can open anAccess database from Visual Basic and work with its objects. From Visual Basic, first create a reference to the Access object library. Then create a new instance of the **Application** class and point an object variable to it, as in the following example:
+For example, Microsoft Visual Basic is a COM component. You can open an Access database from Visual Basic and work with its objects. From Visual Basic, first create a reference to the Access object library, and then create a new instance of the **Application** class and point an object variable to it, as in the following example:
 
 ```vb
 Dim appAccess As New Access.Application
@@ -41,7 +41,9 @@ Dim appAccess As Object
 Set appAccess = CreateObject("Access.Application")
 ```
 
-After you create a new instance of the **Application** class, you can open a database or create a new database, by using either the **[OpenCurrentDatabase](Access.Application.OpenCurrentDatabase.md)** method or the **[NewCurrentDatabase](Access.Application.NewCurrentDatabase.md)** method. You can then set the properties of the **Application** object and call its methods. When you return a reference to the **CommandBars** object by using the **CommandBars** property of the **Application** object, you can access all Microsoft Office command bar objects and collections by using this reference.
+After you create a new instance of the **Application** class, you can open a database or create a new database by using either the **OpenCurrentDatabase** method or the **NewCurrentDatabase** method. You can then set the properties of the **Application** object and call its methods. 
+
+When you return a reference to the **CommandBars** object by using the **CommandBars** property of the **Application** object, you can access all Microsoft Office command bar objects and collections by using this reference.
 
 You can also manipulate other Access objects through the **Application** object. For example, by using the **[OpenForm](Access.DoCmd.OpenForm.md)** method of the Access **[DoCmd](Access.DoCmd.md)** object, you can open an Access form from Microsoft Office Excel:
 
@@ -60,7 +62,6 @@ For more information about creating a reference and controlling objects by using
 - [CloseCurrentDatabase](Access.Application.CloseCurrentDatabase.md)
 - [CodeDb](Access.Application.CodeDb.md)
 - [ColumnHistory](Access.Application.ColumnHistory.md)
-- [CompactRepair](Access.Application.CompactRepair.md)
 - [ConvertAccessProject](Access.Application.ConvertAccessProject.md)
 - [CreateAccessProject](Access.Application.CreateAccessProject.md)
 - [CreateAdditionalData](Access.Application.CreateAdditionalData.md)

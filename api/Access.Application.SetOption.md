@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SetOption
 ms.assetid: 6cb1f036-01c2-16bf-f62a-e5235dfb3c65
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **SetOption** method sets the current value of an option in the **Access Op
 
 _expression_. `SetOption`( ` _OptionName_`, ` _Setting_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -80,14 +80,10 @@ To set an option that's a member of an option group, specify the index number of
 Application.SetOption "Selection Behavior", 1
 ```
 
-|**Note**|
-|:-----|
-|When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.|
+> [!NOTE] 
+> When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.
 
   
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

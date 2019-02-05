@@ -7,31 +7,31 @@ ms.prod: access
 api_name:
 - Access.Application.DBEngine
 ms.assetid: ad4638e4-0c72-ce24-e322-e147e2f0cfc2
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.DBEngine property (Access)
 
-You can use the  **DBEngine** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)to access the current  **DBEngine** object and its related properties. Read-only **DBEngine**.
+You can use the **DBEngine** property in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) to access the current **DBEngine** object and its related properties. Read-only **DBEngine**.
 
 
 ## Syntax
 
-_expression_. `DBEngine`
+_expression_.**DBEngine**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
 
-The  **DBEngine** property of the **[Application](Access.Application.md)** object represents the Microsoft Access database engine. The **DBEngine** object is the top-level object in the Data Access Objects (DAO) model and it contains and controls all other objects in the hierarchy of Data Access Objects.
+The **DBEngine** property of the **Application** object represents the Microsoft Access database engine. The **DBEngine** object is the top-level object in the Data Access Objects (DAO) model, and it contains and controls all other objects in the hierarchy of Data Access Objects.
 
 
 ## Example
 
-The following example displays the  **DBEngine** properties in a message box.
+The following example displays the **DBEngine** properties in a message box.
 
 
 ```vb
@@ -55,9 +55,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

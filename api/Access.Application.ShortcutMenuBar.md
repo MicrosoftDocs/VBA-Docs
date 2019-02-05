@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.ShortcutMenuBar
 ms.assetid: 6785320b-b50f-dcaa-3eae-13d378573613
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ShortcutMenuBar** property to specify the shortcut menu that 
 
 _expression_. `ShortcutMenuBar`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -31,9 +31,6 @@ When used with the  **[Application](Access.Application.md)** object, the **Short
 Shortcut menus aren't available to any object if the  **AllowShortcutMenus** property is set to **False**.
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

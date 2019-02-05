@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.NewFileTaskPane
 ms.assetid: 22b069c2-9c3a-7ee1-e47f-4916a24b32d0
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a  **NewFile** object that represents a document listed on the **New Fil
 
 _expression_. `NewFileTaskPane`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Example
@@ -40,9 +40,6 @@ nftpTemp.Add FileName:="C:\Sales_Quarterly.mdb", _
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

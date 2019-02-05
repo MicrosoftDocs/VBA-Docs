@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Eval
 ms.assetid: d02d5278-1ff3-c405-d579-7a58f2e1ea68
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Eval** function to evaluate an expression that results in a t
 
 _expression_. `Eval`( ` _StringExpr_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -43,8 +43,8 @@ You can construct a string and then pass it to the  **Eval** function as if the 
 
 If you pass to the  **Eval** function a string that contains the name of a function, the **Eval** function returns the return value of the function. For example, `Eval("Chr$(65)")` returns "A".
 
-
- **Note**  If you are passing the name of a function to the  **Eval** function, you must include parentheses after the name of the function in the _stringexpr_ argument. For example:
+> [!NOTE] 
+> If you are passing the name of a function to the  **Eval** function, you must include parentheses after the name of the function in the _stringexpr_ argument. For example:
 
 
 
@@ -135,9 +135,6 @@ End If
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

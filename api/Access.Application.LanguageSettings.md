@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.LanguageSettings
 ms.assetid: f2b039bf-95a8-7820-355e-67fa5e47aaf6
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **LanguageSettings** property to return a read-only reference t
 
 _expression_. `LanguageSettings`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -41,9 +41,6 @@ MsgBox "The language ID used for Access Help is " & mli
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

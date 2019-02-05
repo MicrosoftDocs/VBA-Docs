@@ -7,31 +7,29 @@ ms.prod: access
 api_name:
 - Access.Application.DeleteControl
 ms.assetid: f59f9368-0d7a-8e5f-5140-86e2d2c18c22
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.DeleteControl method (Access)
 
-The  **DeleteControl** method deletes a specified control from a form.
+The **DeleteControl** method deletes a specified control from a form.
 
 
 ## Syntax
 
-_expression_. `DeleteControl`( ` _FormName_`, ` _ControlName_` )
+_expression_.**DeleteControl** (_FormName_, _ControlName_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FormName_|Required|**String**|The name of the form containing the control you want to delete.|
-| _ControlName_|Required|**String**|The name of the control you want to delete.|
+| _FormName_|Required|**String**|The name of the form containing the control that you want to delete.|
+| _ControlName_|Required|**String**|The name of the control that you want to delete.|
 
 ## Return value
 
@@ -40,18 +38,17 @@ Nothing
 
 ## Remarks
 
-For example, suppose you have a procedure that must be run the first time each user logs onto your database. You can set the  **OnClick** property of a button on the form to this procedure. Once the user has logged on and run the procedure, you can use the **DeleteControl** method to dynamically remove the command button from the form.
+For example, suppose you have a procedure that must be run the first time each user signs in to your database. You can set the **OnClick** property of a button on the form to this procedure. After the user has signed in and run the procedure, you can use the **DeleteControl** method to dynamically remove the command button from the form.
 
-The  **DeleteControl** method is available only in form Design view or report Design view, respectively.
+The **DeleteControl** method is available only in form Design view or report Design view, respectively.
 
-
- **Note**  If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.
+> [!NOTE] 
+> If you are building a wizard that deletes a control from a form or report, your wizard must open the form or report in Design view before it can delete the control.
 
 
 ## Example
 
-The following example creates a form with a command button and displays a message that asks if the user wants to delete the command button. If the user clicks Yes, the command button is deleted.
-
+The following example creates a form with a command button and displays a message that asks if the user wants to delete the command button. If the user chooses **Yes**, the command button is deleted.
 
 ```vb
 Sub DeleteCommandButton() 
@@ -82,9 +79,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

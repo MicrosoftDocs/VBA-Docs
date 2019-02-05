@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.UserControl
 ms.assetid: e82213ac-bd7b-2669-3001-330f40cfdaaa
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **UserControl** property to determine whether the current Micro
 
 _expression_. `UserControl`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -52,9 +52,6 @@ MsgBox "The user started Access:  " & Application.UserControl
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

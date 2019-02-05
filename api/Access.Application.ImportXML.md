@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.ImportXML
 ms.assetid: c7baa4be-4ef6-c886-3cd6-06576563b77d
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **ImportXML** method allows developers to import XML data and/or schema inf
 
 _expression_. `ImportXML`( ` _DataSource_`, ` _ImportOptions_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -50,9 +50,6 @@ Application.ImportXML _
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SetDefaultWorkgroupFile
 ms.assetid: 64dc24a0-e6dc-685f-620a-463417e8a25d
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets the default workgroup file to the specified file.
 
 _expression_. `SetDefaultWorkgroupFile`( ` _Path_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -54,9 +54,6 @@ Application.SetDefaultWorkgroupFile _
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

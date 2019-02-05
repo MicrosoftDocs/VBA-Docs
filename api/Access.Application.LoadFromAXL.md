@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.LoadFromAXL
 ms.assetid: 1cce0568-1966-c089-a741-b0934b8676d6
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Imports the object defined in an Application XML (AXL) file into the database.
 
 _expression_. `LoadFromAXL`( ` _ObjectType_`, ` _ObjectName_`, ` _FileName_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -41,9 +41,6 @@ The  **LoadFromAXL** method does not provide a warning when the object specified
 For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](https://msdn.microsoft.com/library/dd927584.aspx).
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

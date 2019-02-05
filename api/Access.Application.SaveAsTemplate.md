@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SaveAsTemplate
 ms.assetid: 3f796181-70c7-f372-92e9-0c2dbbc7262a
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Converts an existing Access database file to a database template (*.accdt) forma
 
 _expression_. `SaveAsTemplate`( ` _Path_`, ` _Title_`, ` _IconPath_`, ` _CoreTable_`, ` _Category_`, ` _PreviewPath_`, ` _Description_`, ` _InstantiationForm_`, ` _ApplicationPart_`, ` _IncludeData_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -48,9 +48,6 @@ The  **SaveAsTemplate** method replaces the **SaveAsTemplate** method that was i
 Templates created by the  **SaveAsTemplate** method cannot be used in Microsoft Office Access 2007 or earlier versions.
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

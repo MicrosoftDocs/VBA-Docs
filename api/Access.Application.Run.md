@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Run
 ms.assetid: 4cdaf4cb-c25c-aaa4-96ab-52259f9f91c0
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Run** method to carry out a specified Microsoft Access or use
 
 _expression_. `Run`( ` _Procedure_`, ` _Arg1_`, ` _Arg2_`, ` _Arg3_`, ` _Arg4_`, ` _Arg5_`, ` _Arg6_`, ` _Arg7_`, ` _Arg8_`, ` _Arg9_`, ` _Arg10_`, ` _Arg11_`, ` _Arg12_`, ` _Arg13_`, ` _Arg14_`, ` _Arg15_`, ` _Arg16_`, ` _Arg17_`, ` _Arg18_`, ` _Arg19_`, ` _Arg20_`, ` _Arg21_`, ` _Arg22_`, ` _Arg23_`, ` _Arg24_`, ` _Arg25_`, ` _Arg26_`, ` _Arg27_`, ` _Arg28_`, ` _Arg29_`, ` _Arg30_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -66,8 +66,8 @@ The following example runs a user-defined  **Sub** procedure in a module in a Mi
 
 To try this example, create a new database called WizCode.mdb and set its  **ProjectName** property to WizCode. Open a new module in that database and enter the following code. Save the module, and close the database.
 
-
- **Note**  You set the  **ProjectName** by selecting Tools, WizCode Properties... from the VBE main menu.
+> [!NOTE] 
+> You set the  **ProjectName** by selecting Tools, WizCode Properties... from the VBE main menu.
 
 
 
@@ -102,9 +102,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,34 +7,33 @@ ms.prod: access
 api_name:
 - Access.Application.CodeContextObject
 ms.assetid: b675d334-33e6-b845-0dd9-6dca36f7b4ab
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.CodeContextObject property (Access)
 
-You can use the  **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
+You can use the **CodeContextObject** property to determine the object in which a macro or Visual Basic code is executing. Read-only **Object**.
 
 
 ## Syntax
 
-_expression_. `CodeContextObject`
+_expression_.**CodeContextObject**
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
 
-The  **CodeContextObject** property is set by Microsoft Access and is read-only in all views.
+The **CodeContextObject** property is set by Microsoft Access and is read-only in all views.
 
-The  **[ActiveControl](Access.Screen.ActiveControl.md)**, **[ActiveDatasheet](Access.Screen.ActiveDatasheet.md)**, **[ActiveForm](Access.Screen.ActiveForm.md)**, and **[ActiveReport](Access.Screen.ActiveReport.md)** properties of the **[Screen](Access.Screen.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](Access.Form.Timer.md)** event on a hidden form.
+The **[ActiveControl](Access.Screen.ActiveControl.md)**, **[ActiveDatasheet](Access.Screen.ActiveDatasheet.md)**, **[ActiveForm](Access.Screen.ActiveForm.md)**, and **[ActiveReport](Access.Screen.ActiveReport.md)** properties of the **[Screen](Access.Screen.md)** object always return the object that currently has the focus. The object with the focus may or may not be the object where a macro or Visual Basic code is currently running, for example, when Visual Basic code runs in the **[Timer](Access.Form.Timer.md)** event on a hidden form.
 
 
 ## Example
 
-In the following example the  **CodeContextObject** property is used in a function to identify the name of the object in which an error occurred. The object name is then used in the message box title as well as in the body of the error message. The **Error** statement is used in the command button's click event to generate the error for this example.
-
+In the following example, the **CodeContextObject** property is used in a function to identify the name of the object in which an error occurred. The object name is then used in the message box title as well as in the body of the error message. The **Error** statement is used in the command button's click event to generate the error for this example.
 
 ```vb
 Private Sub Command1_Click() 
@@ -65,9 +64,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

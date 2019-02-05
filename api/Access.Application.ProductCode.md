@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.ProductCode
 ms.assetid: b4e374ec-b52f-e73d-174e-bb07f40ab029
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ProductCode** property to determine the Access globally uniqu
 
 _expression_. `ProductCode`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Example
@@ -34,9 +34,6 @@ MsgBox "The GUID for Microsoft Access on this computer is " & Application.Produc
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
