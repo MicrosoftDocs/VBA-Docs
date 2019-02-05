@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DMax
 ms.assetid: d6d978f2-edad-f478-8c15-bc7aa5b575e0
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use  **DMax** function to determine maximum value in a specified set of 
 
 _expression_. `DMax`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -49,8 +49,8 @@ The  **DMax** function ignores **Null** values in the field referenced by _expr_
 
 You can use the  **DMax** function to specify criteria in the Criteria row of a query, in a calculated field expression in a query, or in the Update To row of an update query.
 
-
- **Note**  You can use the  **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use the  **DMax** function or the **Max** function in a calculated field expression of a totals query. If you use the **DMax** function, values are evaluated before the data is grouped. If you use the **Max** function, the data is grouped before values in the field expression are evaluated.
 
 Use the  **DMax** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed. For example, to display the maximum freight charged for an order shipped to California, set the **ControlSource** property of a text box to the following expression:
 

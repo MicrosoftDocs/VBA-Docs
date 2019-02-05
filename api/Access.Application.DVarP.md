@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DVarP
 ms.assetid: 99a2d948-0f38-85fa-6f68-5568262595ae
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Calculates the variance of a population in a specified set of records (a domain)
 
 _expression_. `DVarP`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -47,8 +47,8 @@ Whether you use the  **DVarP** function in a macro, module, query expression, or
 
 You can use the  **DVarP** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
-
- **Note**  You can use the  **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use the  **DVarP** function or the **VarP** function in a calculated field expression in a totals query. If you use the **DVarP** function, values are calculated before data is grouped. If you use the **VarP** function, the data is grouped before values in the field expression are evaluated.
 
 If you simply want to find the standard deviation across all records in  _domain_, use the  **Var** or **VarP** function.
 
@@ -129,9 +129,6 @@ The following examples show how to use various types of criteria with the  **DVa
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

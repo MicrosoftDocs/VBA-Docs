@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DLookup
 ms.assetid: cbe1fc56-e4d7-cb74-02df-48fc379cf432
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **DLookup** function to get the value of a particular field fro
 
 _expression_. `DLookup`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -71,12 +71,9 @@ You can also use the  **DLookup** function in an expression in a calculated cont
      & Forms![Order Details]!ProductID)
 ```
 
- **Tips**
-
-
-- Although you can use the  **DLookup** function to display a value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and then to base your form or report on that query.
-    
-- You can also use the Lookup Wizard to find values in a foreign table.
+> [!TIP] 
+> - Although you can use the  **DLookup** function to display a value from a field in a foreign table, it may be more efficient to create a query that contains the fields that you need from both tables and then to base your form or report on that query.
+> - You can also use the Lookup Wizard to find values in a foreign table.
     
  **Links provided by:**
 ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community

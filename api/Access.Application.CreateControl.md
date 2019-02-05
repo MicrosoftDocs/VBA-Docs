@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.CreateControl
 ms.assetid: f5b1689c-62c4-163d-c659-607cee7572f6
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -19,24 +19,22 @@ The **CreateControl** method creates a control on a specified open form. For exa
 
 ## Syntax
 
-_expression_. `CreateControl`( ` _FormName_`, ` _ControlType_`, ` _Section_`, ` _Parent_`, ` _ColumnName_`, ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
+_expression_.**CreateControl** (_FormName_, _ControlType_, _Section_, _Parent_, _ColumnName_, _Left_, _Top_, _Width_, _Height_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FormName_|Required|**String**|The name of the open form or report on which you want to create the control.|
-| _ControlType_|Required|**AcControlType**|An **[AcControlType](Access.AcControlType.md)** constant that represents the type of control you want to create.|
-| _Section_|Optional|**AcSection**|An **[AcSection](Access.AcSection.md)** constant that identifying the section that will contain the new control.|
-| _Parent_|Optional|**Variant**|The name of the parent control of an attached control. For controls that have no parent control, use a zero-length string for this argument, or omit it.|
-| _ColumnName_|Optional|**Variant**|The name of the field to which the control will be bound, if it is to be a data-bound control.|
-| _Left,Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in [[twips](../language/glossary/vbe-glossary.md#twip)](../language/glossary/vbe-glossary.md#twip).|
-| _Width, Height_|Optional|**Variant**|Numeric expressions indicating the width and height of the control in [twips](../language/glossary/vbe-glossary.md#twip).|
+| _ControlType_|Required|**[AcControlType](Access.AcControlType.md)**|An **AcControlType** constant that represents the type of control that you want to create.|
+| _Section_|Optional|**[AcSection](Access.AcSection.md)**|An **AcSection** constant that identifies the section that will contain the new control.|
+| _Parent_|Optional|**Variant**|The name of the parent control of an attached control. For controls that have no parent control, use a zero-length string for this argument or omit it.|
+| _ColumnName_|Optional|**Variant**|The name of the field to which the control will be bound if it is to be a data-bound control.|
+| _Left,Top_|Optional|**Variant**|The coordinates for the upper-left corner of the control in [twips](../language/glossary/vbe-glossary.md#twip).|
+| _Width, Height_|Optional|**Variant**|Numeric expressions indicating the width and height of the control in twips.|
 
 ## Return value
 
@@ -45,22 +43,22 @@ Control
 
 ## Remarks
 
-You can use the Create **Control** and **CreateReportControl** methods in a custom wizard to create controls on a form or report. Both methods return a **[Control](Access.Control.md)** object.
+You can use the **CreateControl** and **CreateReportControl** methods in a custom wizard to create controls on a form or report. Both methods return a **[Control](Access.Control.md)** object.
 
 You can use the **CreateControl** and **CreateReportControl** methods only in form Design view or report Design view, respectively.
 
-You use the  _parent_ argument to identify the relationship between a main control and a subordinate control. For example, if a text box has an attached label, the text box is the main (or parent) control and the label is the subordinate (or child) control. When you create the label control, set its _parent_ argument to a string identifying the name of the parent control. When you create the text box, set its _parent_ argument to a zero-length string.
+You use the _Parent_ argument to identify the relationship between a main control and a subordinate control. For example, if a text box has an attached label, the text box is the main (or parent) control and the label is the subordinate (or child) control. When you create the label control, set its _Parent_ argument to a string identifying the name of the parent control. When you create the text box, set its _Parent_ argument to a zero-length string.
 
-You also set the  _parent_ argument when you create check boxes, option buttons, or toggle buttons. An option group is the parent control of any check boxes, option buttons, or toggle buttons that it contains. The only controls that can have a parent control are a label, check box, option button, or toggle button. All of these controls can also be created independently, without a parent control.
+You also set the _Parent_ argument when you create check boxes, option buttons, or toggle buttons. An option group is the parent control of any check boxes, option buttons, or toggle buttons that it contains. The only controls that can have a parent control are a label, check box, option button, or toggle button. All of these controls can also be created independently, without a parent control.
 
-Set the  _columnname_ argument according to the type of control you are creating and whether or not it will be bound to a field in a table. The controls that may be bound to a field include the text box, list box, combo box, option group, and bound object frame. Additionally, the toggle button, option button, and check box controls may be bound to a field if they are not contained in an option group.
+Set the _ColumnName_ argument according to the type of control that you are creating and whether or not it will be bound to a field in a table. The controls that may be bound to a field include the text box, list box, combo box, option group, and bound object frame. Additionally, the toggle button, option button, and check box controls may be bound to a field if they are not contained in an option group.
 
-If you specify the name of a field for the  _columnname_ argument, you create a control that is bound to that field. All of the control's properties are then automatically set to the settings of any corresponding field properties. For example, the value of the control's **ValidationRule** property will be the same as the value of that property for the field.
+If you specify the name of a field for the _ColumnName_ argument, you create a control that is bound to that field. All of the control's properties are then automatically set to the settings of any corresponding field properties. For example, the value of the control's **ValidationRule** property will be the same as the value of that property for the field.
 
+> [!NOTE] 
+> If your wizard creates controls on a new or existing form or report, it must first open the form or report in Design view.
 
- **Note**  If your wizard creates controls on a new or existing form or report, it must first open the form or report in Design view.
-
-To remove a control from a form or report, use the **[DeleteControl](Access.Application.DeleteControl.md)** and **[DeleteReportControl](Access.Application.DeleteReportControl.md)** statements.
+To remove a control from a form or report, use the **[DeleteControl](Access.Application.DeleteControl.md)** and **[DeleteReportControl](Access.Application.DeleteReportControl.md)** methods.
 
 
 ## Example
@@ -95,9 +93,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

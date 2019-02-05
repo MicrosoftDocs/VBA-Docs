@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.GetHiddenAttribute
 ms.assetid: aee0e022-08d5-10f8-bfd0-588b5310fb43
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **GetHiddenAttribute** method returns the value of hidden attribute of a Mi
 
 _expression_. `GetHiddenAttribute`( ` _ObjectType_`, ` _ObjectName_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -52,9 +52,6 @@ Application.SetHiddenAttribute acTable,"Customers", True
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

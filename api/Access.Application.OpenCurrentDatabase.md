@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.OpenCurrentDatabase
 ms.assetid: fd214849-02ac-eaa6-7525-9aee42b92f3d
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **OpenCurrentDatabase** method to open an existing Microsoft Ac
 
 _expression_. `OpenCurrentDatabase`( ` _filepath_`, ` _Exclusive_`, ` _bstrPassword_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -45,15 +45,11 @@ You can use this method to open a database from another application that is cont
 
 If you have already opened a database and wish to open another database in the Microsoft Access window, you can use the  **[CloseCurrentDatabase](Access.Application.CloseCurrentDatabase.md)** method to close the first database before opening another.
 
+> [!NOTE] 
+> Use the  **[OpenAccessProject](Access.Application.OpenAccessProject.md)** method to open an existing Microsoft Access project (.adp) as the current database.
 
-
-
- **Note**  Use the  **[OpenAccessProject](Access.Application.OpenAccessProject.md)** method to open an existing Microsoft Access project (.adp) as the current database.
-
-
-
-
- **Note**  Don't confuse the  **OpenCurrentDatabase** method with the ActiveX Data Objects (ADO) **Open** method or the Data Access Object (DAO) **OpenDatabase** method. The **OpenCurrentDatabase** method opens a database in the Microsoft Access window. The DAO **OpenDatabase** method returns a **Database** object variable, which represents a particular database but don't actually open that database in the Microsoft Access window.
+> [!NOTE] 
+> Don't confuse the  **OpenCurrentDatabase** method with the ActiveX Data Objects (ADO) **Open** method or the Data Access Object (DAO) **OpenDatabase** method. The **OpenCurrentDatabase** method opens a database in the Microsoft Access window. The DAO **OpenDatabase** method returns a **Database** object variable, which represents a particular database but don't actually open that database in the Microsoft Access window.
 
 
 ## Example
@@ -91,9 +87,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

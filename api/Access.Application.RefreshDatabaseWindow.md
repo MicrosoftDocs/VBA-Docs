@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.RefreshDatabaseWindow
 ms.assetid: 63825d35-b24e-ae68-3214-5727dc97eb79
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **RefreshDatabaseWindow** method updates the Database window after a databa
 
 _expression_. `RefreshDatabaseWindow`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Return value
@@ -50,9 +50,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

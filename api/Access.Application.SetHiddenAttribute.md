@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SetHiddenAttribute
 ms.assetid: b92a1edc-033a-095c-980f-852b8f7e0785
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **SetHiddenAttribute** method sets the hidden attribute of an Access object
 
 _expression_. `SetHiddenAttribute`( ` _ObjectType_`, ` _ObjectName_`, ` _fHidden_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -53,9 +53,6 @@ Application.SetHiddenAttribute acTable,"Customers", True
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

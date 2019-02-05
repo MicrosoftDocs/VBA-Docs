@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DStDev
 ms.assetid: 401b4e16-dfd4-7256-b03d-f3915c5f9ca5
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Estimates the standard deviation across a population sample in a specified set o
 
 _expression_. `DStDev`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -56,8 +56,8 @@ You can use the  **DStDev** function to specify criteria in the Criteria row of 
 
 You can use the  **DStDev** function in a calculated field expression of a query, or in the Update To row of an update query.
 
-
- **Note**  You can use the  **DStDev** and **DStDevP** functions or the **StDev** and **StDevP** functions in a calculated field expression of a totals query. If you use the **DStDev** or **DStDevP** function, values are calculated before data is grouped. If you use the **StDev** or **StDevP** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use the  **DStDev** and **DStDevP** functions or the **StDev** and **StDevP** functions in a calculated field expression of a totals query. If you use the **DStDev** or **DStDevP** function, values are calculated before data is grouped. If you use the **StDev** or **StDevP** function, the data is grouped before values in the field expression are evaluated.
 
 Use the  **DStDev** function in a calculated control when you need to specify criteria to restrict the range of data on which the function is performed. For example, to display standard deviation for orders to be shipped to California, set the **ControlSource** property of a text box to the following expression:
 

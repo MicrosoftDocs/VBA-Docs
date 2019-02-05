@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.FeatureInstall
 ms.assetid: bc9057bc-72a4-0344-a50a-7b73a2d30212
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **FeatureInstall** property to specify or determine how Microso
 
 _expression_. `FeatureInstall`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -61,9 +61,6 @@ End With
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

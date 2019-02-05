@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DVar
 ms.assetid: e1566391-4aac-548f-6475-6a8ee63a2bb7
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Estimates the variance across a sample in a specified set of records (a domain).
 
 _expression_. `DVar`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -49,8 +49,8 @@ Whether you use the  **DVar** function in a macro, module, query expression, or 
 
 You can use the  **DVar** function to specify criteria in the **Criteria** row of a select query, in a calculated field expression in a query, or in the **Update To** row of an update query.
 
-
- **Note**  You can use the  **DVar** function or the **Var** function in a calculated field expression in a totals query. If you use the **DVar** function, values are calculated before data is grouped. If you use the **Var** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use the  **DVar** function or the **Var** function in a calculated field expression in a totals query. If you use the **DVar** function, values are calculated before data is grouped. If you use the **Var** function, the data is grouped before values in the field expression are evaluated.
 
 Use the  **DVar** function in a calculated control when you need to specify _criteria_ to restrict the range of data on which the function is performed. For example, to display a variance for orders to be shipped to California, set the **ControlSource** property of a text box to the following expression:
 
@@ -155,9 +155,6 @@ The following examples show how to use various types of criteria with the  **DVa
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

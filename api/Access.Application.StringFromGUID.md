@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.StringFromGUID
 ms.assetid: 527c9459-a62a-9f01-dcda-3c21987b2662
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **StringFromGUID** function converts a GUID, which is an array of type **By
 
 _expression_. `StringFromGUID`( ` _Guid_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -67,9 +67,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

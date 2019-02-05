@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.FollowHyperlink
 ms.assetid: b5142ca6-8d67-c42b-81a4-5417265a50b0
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **FollowHyperlink** method opens the document or Web page specified by a hy
 
 _expression_. `FollowHyperlink`( ` _Address_`, ` _SubAddress_`, ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Method_`, ` _HeaderInfo_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -87,9 +87,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

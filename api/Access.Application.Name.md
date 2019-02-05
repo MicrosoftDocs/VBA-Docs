@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Name
 ms.assetid: 63843be1-da9c-8052-52ee-39ca558b5856
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Name** property to determine the string expression that ident
 
 _expression_. `Name`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -39,9 +39,6 @@ You can't use "Form" or "Report" to name a control or section.
 Controls on the same form, report, or data access page can't have the same name, but controls on different forms, reports or data access pages can have the same name. A control and a section on the same form can't share the same name.
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

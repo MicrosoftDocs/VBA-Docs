@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.OpenAccessProject
 ms.assetid: fdc1b231-1512-cbcd-f376-935555861b38
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **OpenAccessProject** method to open an existing Microsoft Acce
 
 _expression_. `OpenAccessProject`( ` _filepath_`, ` _Exclusive_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -44,13 +44,10 @@ The  **OpenAccessProject** method enables you to open an existing project from w
 
 If you have already opened a project and wish to open another project in the Microsoft Access window, you can use the  **CloseCurrentDatabase** method to close the first Access project before opening another.
 
-
- **Note**  To open an Access database, use the  **OpenCurrentDatabase** method of the **[Application](Access.Application.md)** object.
-
-
-## See also
+> [!NOTE] 
+> To open an Access database, use the  **OpenCurrentDatabase** method of the **[Application](Access.Application.md)** object.
 
 
-[Application Object](Access.Application.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

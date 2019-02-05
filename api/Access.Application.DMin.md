@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DMin
 ms.assetid: d41b1852-7d97-ddfe-d071-8a1a7b42359b
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use  **DMin** function to determine minnimum value in a specified set of
 
 _expression_. `DMin`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -49,8 +49,8 @@ The  **DMin** function ignores **Null** values in the field referenced by _expr_
 
 You can use the  **DMin** function to specify criteria in the Criteria row of a query, in a calculated field expression in a query, or in the Update To row of an update query.
 
-
- **Note**  You can use the  **DMin** function or the **Min** function in a calculated field expression of a totals query. If you use the **DMin** function, values are evaluated before the data is grouped. If you use the **Min** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use the  **DMin** function or the **Min** function in a calculated field expression of a totals query. If you use the **DMin** function, values are evaluated before the data is grouped. If you use the **Min** function, the data is grouped before values in the field expression are evaluated.
 
 If you simply want to find the minimum or maximum value of all records in  _domain_, use the  **Min** or **Max** function.
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DSum
 ms.assetid: 53a3cfd4-a5e3-d0c5-1727-070c99d2b984
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the  **DSum** function to calculate the sum of a set of values in a 
 
 _expression_. `DSum`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -49,8 +49,8 @@ Whether you use the  **DSum** function in a macro, module, query expression, or 
 
 You can use the  **DSum** function to specify criteria in the Criteria row of a query, in a calculated field in a query expression, or in the Update To row of an update query.
 
-
- **Note**  You can use either the  **DSum** or **Sum** function in a calculated field expression in a totals query. If you use the **DSum** function, values are calculated before data is grouped. If you use the **Sum** function, the data is grouped before values in the field expression are evaluated.
+> [!NOTE] 
+> You can use either the  **DSum** or **Sum** function in a calculated field expression in a totals query. If you use the **DSum** function, values are calculated before data is grouped. If you use the **Sum** function, the data is grouped before values in the field expression are evaluated.
 
 You may want to use the  **DSum** function when you need to display the sum of a set of values from a field that is not in the record source for your form or report. For example, suppose you have a form that displays information about a particular product. You could use the **DSum** function to maintain a running total of sales of that product in a calculated control.
 
@@ -138,9 +138,6 @@ The following examples show how to use various types of criteria with the  **DSu
 UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

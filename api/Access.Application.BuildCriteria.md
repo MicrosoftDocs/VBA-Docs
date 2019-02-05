@@ -7,26 +7,24 @@ ms.prod: access
 api_name:
 - Access.Application.BuildCriteria
 ms.assetid: 098e9aca-3dc1-ad21-4374-5d8ae7c80c56
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
 
 # Application.BuildCriteria method (Access)
 
-The **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in Filter By Form or Server Filter By Form mode. For example, you may want to set a form's **Filter** or **[ServerFilter](Access.Form.ServerFilter.md)** property based on varying criteria from the user. You can use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
+The **BuildCriteria** method returns a parsed criteria string as it would appear in the query design grid, in **Filter By Form** or **Server Filter By Form** mode. For example, you may want to set a form's **Filter** or **[ServerFilter](Access.Form.ServerFilter.md)** property based on varying criteria from the user. You can use the **BuildCriteria** method to construct the string expression argument for the **Filter** or **ServerFilter** property. **String**.
 
 
 ## Syntax
 
-_expression_. `BuildCriteria`( ` _Field_`, ` _FieldType_`, ` _Expression_` )
+_expression_.**BuildCriteria** (_Field_, _FieldType_, _Expression_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,12 +36,11 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 
 String
 
-
 ## Remarks
 
-The **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the_expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in Filter By Form or Server Filter By Form mode.
+The **BuildCriteria** method enables you to easily construct criteria for a filter based on user input. It parses the _expression_ argument in the same way that the expression would be parsed had it been entered in the query design grid, in **Filter By Form** or **Server Filter By Form** mode.
 
-For example, a user creating a query on an Orders table might restrict the result set to orders placed after January 1, 1995, by setting criteria on an OrderDate field. The user might enter an expression such as the following one in the **Criteria** row beneath the OrderDate field:
+For example, a user creating a query on an Orders table might restrict the result set to orders placed after January 1, 1995, by setting criteria on an **OrderDate** field. The user might enter an expression such as the following one in the **Criteria** row beneath the **OrderDate** field:
 
 >1-1-95
 
@@ -53,20 +50,14 @@ Microsoft Access automatically parses this expression and returns the following 
 
 The **BuildCriteria** method provides the same parsing from Visual Basic code. For example, to return the preceding correctly parsed string, you can supply the following arguments to the **BuildCriteria** method:
 
-
-
-
 ```vb
 Dim strCriteria As String 
 strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95")
 ```
 
-Since you need to supply criteria for the **Filter** property in correctly parsed form, you can use the **BuildCriteria** method to construct a correctly parsed string.
+Because you need to supply criteria for the **Filter** property in correctly parsed form, you can use the **BuildCriteria** method to construct a correctly parsed string.
 
-You can use the **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the OrderDate field:
-
-
-
+You can use the **BuildCriteria** method to construct a string with multiple criteria if those criteria refer to the same field. For example, you can use the **BuildCriteria** method with the following arguments to construct a string with multiple criteria relating to the **OrderDate** field:
 
 ```vb
 strCriteria = BuildCriteria("OrderDate", dbDate, ">1-1-95 and <5-1-95")
@@ -109,9 +100,7 @@ End Sub
 ```
 
 
-## See also
 
 
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

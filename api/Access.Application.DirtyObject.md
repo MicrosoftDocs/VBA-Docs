@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DirtyObject
 ms.assetid: caf82388-d822-967f-c5f9-0042955ea8d8
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Marks a form or report as dirty.
 
 _expression_. `DirtyObject`( ` _ObjectType_`, ` _ObjectName_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters

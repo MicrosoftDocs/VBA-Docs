@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.NewCurrentDatabase
 ms.assetid: 6934a77e-5fa0-7e43-e159-2ffc2a944dca
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Creates a new Microsoft Access database.
 
 _expression_. `NewCurrentDatabase`( ` _filepath_`, ` _FileFormat_`, ` _Template_`, ` _SiteAddress_`, ` _ListID_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -43,9 +43,6 @@ You can use this method to create a new database from another application that i
 The  **NewCurrentDatabase** method enables you to create a new Microsoft Access database from another application through Automation. Once you have created an instance of Microsoft Access from another application, you must also create a new database. This database opens in the Microsoft Access window.
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

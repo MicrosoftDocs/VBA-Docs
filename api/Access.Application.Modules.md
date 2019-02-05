@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Modules
 ms.assetid: eb99e25f-9a31-82cd-1b61-41c8a227b859
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Modules** property to access the **[Modules](Access.Modules.m
 
 _expression_. `Modules`
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
@@ -47,9 +47,6 @@ strFormOpenCode = "Sub Form_Open(Cancel As Integer)" _
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

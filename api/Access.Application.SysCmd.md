@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SysCmd
 ms.assetid: 5064b8cc-6f9a-602b-e304-6d1478d9b4a7
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ You can use the **SysCmd** method to, display a progress meter or optional speci
 
 _expression_.**SysCmd** (_Action_, _Argument2_, _Argument3_)
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -89,5 +89,6 @@ SysCmd 14, "<ActiveX Control GUID>"
 > [!NOTE] 
 > - Replace `<ActiveX Control GUID>` with the globally unique identifier (GUID) that identifies the ActiveX control that you want to enable in expressions.
 > - You cannot remove an ActiveX control once it has been added to the list of allowed controls.
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

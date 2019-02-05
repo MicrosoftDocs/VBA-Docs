@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.DFirst
 ms.assetid: 670e54ac-a18f-e381-2ca7-257411f92865
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **DFirst** function to return a random record from a particular
 
 _expression_. `DFirst`( ` _Expr_`, ` _Domain_`, ` _Criteria_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -41,10 +41,8 @@ Variant
 
 ## Remarks
 
-
-
-
- **Note**   If you want to return the first or last record in a set of records (a domain), you should create a query sorted as either ascending or descending and set the **TopValues** property to 1. From Visual Basic, you can also create an ADO **Recordset** object and use the **MoveFirst** or **MoveLast** method to return the first or last record in a set of records.
+> [!NOTE] 
+> If you want to return the first or last record in a set of records (a domain), you should create a query sorted as either ascending or descending and set the **TopValues** property to 1. From Visual Basic, you can also create an ADO **Recordset** object and use the **MoveFirst** or **MoveLast** method to return the first or last record in a set of records.
 
 
 ## Example

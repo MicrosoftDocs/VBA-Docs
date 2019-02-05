@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.Echo
 ms.assetid: ce94d774-ef06-7cf4-0e91-b5affa41a437
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **Echo** method specifies whether Microsoft Access repaints the display scr
 
 _expression_. `Echo`( ` _EchoOn_`, ` _bstrStatusBarText_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -39,15 +39,15 @@ If you are running Visual Basic code that makes a number of changes to objects d
 
 The  **Echo** method does not suppress the display of modal dialog boxes, such as error messages, or pop-up forms, such as property sheets.
 
-
- **Note**  The  **Echo** method doesn't affect the visibility of the ribbon or the availability of ribbon commands.
+> [!NOTE] 
+> The  **Echo** method doesn't affect the visibility of the ribbon or the availability of ribbon commands.
 
 If you turn screen repainting off, the screen won't show any changes, even if the user presses CTRL+BREAK or Visual Basic encounters a breakpoint. You may want to create a macro that turns repainting on and then assign the macro to a key or custom menu command. You can then use the key combination or menu command to turn repainting on if it has been turned off in Visual Basic.
 
 If you turn screen repainting off and then try to step through the code, you won't be able to see progress through the code or any other visual cues until repainting is turned back on. However, your code will continue to execute.
 
-
- **Note**  Do not confuse the  **Echo** method with the **Repaint** method. The **Echo** method turns screen repainting on or off. The **Repaint** method forces an immediate screen repainting.
+> [!NOTE] 
+> Do not confuse the  **Echo** method with the **Repaint** method. The **Echo** method turns screen repainting on or off. The **Repaint** method forces an immediate screen repainting.
 
 
 ## Example
@@ -70,9 +70,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

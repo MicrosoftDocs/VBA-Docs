@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.InstantiateTemplate
 ms.assetid: de91646c-1681-37e5-30c4-97b42617497b
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Opens a new database and applies the specified template.
 
 _expression_. `InstantiateTemplate`( ` _Path_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -32,9 +32,6 @@ _expression_ A variable that represents an [Application](Access.Application.md) 
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The full path and filename of the template to apply to the new database.|
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

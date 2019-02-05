@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.HyperlinkPart
 ms.assetid: 011665ea-c650-fab3-a736-f26a3de1b65e
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **HyperlinkPart** method returns information about data stored as a Hyperli
 
 _expression_. `HyperlinkPart`( ` _Hyperlink_`, ` _Part_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -42,8 +42,8 @@ String
 
 You use the  **HyperlinkPart** method to return one of three values from a Hyperlink field or the displayed value. The value returned depends on the setting of the _part_ argument. The _part_ argument is optional. If it's not used, the function returns the value Microsoft Access displays for the hyperlink (which corresponds to the **acDisplayedValue** setting for the _part_ argument). The returned values can be one of the four parts of the Hyperlink field ( _displaytext_,  _address_,  _subaddress_, or  _screentip_), the full address,  _address_# _subaddress_, or the value Microsoft Access displays for the hyperlink.
 
-
- **Note**  If you use the  **HyperlinkPart** method in a query, the _part_ argument is required and you can't use the constants listed above but must use the actual value instead.
+> [!NOTE] 
+> If you use the  **HyperlinkPart** method in a query, the _part_ argument is required and you can't use the constants listed above but must use the actual value instead.
 
 When a value is provided in the  _displaytext_ part of a Hyperlink field, the value displayed by Microsoft Access will be the same as the _displaytext_ setting. When there's no value in the _displaytext_ part of a Hyperlink field, the value displayed will be the _address_ or _subaddress_ part of the Hyperlink field, depending on which value is first present in the field.
 
@@ -122,9 +122,6 @@ SELECT Links.URL, HyperlinkPart([URL],0)
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

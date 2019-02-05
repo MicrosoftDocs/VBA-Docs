@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.ExportXML
 ms.assetid: 47627677-d311-c2e1-7532-e8a8a9beef29
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Priority
 ---
 
@@ -21,7 +21,7 @@ The  **ExportXML** method allows developers to export XML data, schemas, and pre
 
 _expression_. `ExportXML`( ` _ObjectType_`, ` _DataSource_`, ` _DataTarget_`, ` _SchemaTarget_`, ` _PresentationTarget_`, ` _ImageTarget_`, ` _Encoding_`, ` _OtherFlags_`, ` _WhereCondition_`, ` _AdditionalData_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -76,9 +76,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

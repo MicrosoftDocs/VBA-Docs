@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.GetOption
 ms.assetid: 32736ddf-3551-07f5-1559-d0e139c1697d
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ The  **GetOption** method returns the current value of an option in the **Access
 
 _expression_. `GetOption`( `_OptionName_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -114,9 +114,6 @@ Application.SetOption "Selection Behavior", 1
 When you quit Microsoft Access, you can reset all options to their original settings by using the  **SetOption** method on all changed options. You may want to create public variables to store the values of the original settings. You might include code to reset options in the Close event procedure for a form, or in a custom exit procedure that the user must run to quit the application.
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

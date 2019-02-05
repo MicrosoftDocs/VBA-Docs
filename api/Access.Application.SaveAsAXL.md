@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Application.SaveAsAXL
 ms.assetid: a9557499-7e69-b405-8e2f-d9fcb23fb012
-ms.date: 06/08/2017
+ms.date: 02/05/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Exports the specified object to an Application XML (AXL) file.
 
 _expression_. `SaveAsAXL`( ` _ObjectType_`, ` _ObjectName_`, ` _FileName_` )
 
-_expression_ A variable that represents an [Application](Access.Application.md) object.
+_expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
@@ -43,9 +43,6 @@ The  **SaveAsAXL** method generates a run-time error if the current database is 
 For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](https://msdn.microsoft.com/library/dd927584.aspx).
 
 
-## See also
 
-
-[Application Object](Access.Application.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
