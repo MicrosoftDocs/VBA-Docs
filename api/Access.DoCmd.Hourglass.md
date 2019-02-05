@@ -30,7 +30,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _HourglassOn_|Required|**Variant**|Use  **True** (?1) to display the hourglass icon (or another icon you've chosen). Use **False** (0) to display the normal mouse pointer.|
+| _HourglassOn_|Required|**Variant**|Use  **True** (1) to display the hourglass icon (or another icon you've chosen). Use **False** (0) to display the normal mouse pointer.|
 
 ## Remarks
 

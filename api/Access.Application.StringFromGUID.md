@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # Application.StringFromGUID method (Access)
 
-The  **StringFromGUID** function converts a GUID, which is an array of type **Byte**, to a string.
+The **StringFromGUID** function converts a GUID, which is an array of type **Byte**, to a string.
 
 
 ## Syntax
 
-_expression_. `StringFromGUID`( ` _Guid_` )
+_expression_.**StringFromGUID** (_Guid_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Guid_|Required|**Variant**|An array of  **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
+| _Guid_|Required|**Variant**|An array of **Byte** data used to uniquely identify an application, component, or item of data to the operating system.|
 
 ## Return value
 
@@ -39,14 +37,14 @@ Variant
 
 ## Remarks
 
-The Microsoft Access database engine stores GUIDs as arrays of type  **Byte**. However, Microsoft Access can't return **Byte** data from a control on a form or report. In order to return the value of a GUID from a control, you must convert it to a string. To convert a GUID to a string, use the **StringFromGUID** function. To convert a string back to a GUID, use the **GUIDFromString** function.
+The Microsoft Access database engine stores GUIDs as arrays of type **Byte**. However, Access can't return **Byte** data from a control on a form or report. To return the value of a GUID from a control, you must convert it to a string. To convert a GUID to a string, use the **StringFromGUID** function. To convert a string back to a GUID, use the **[GUIDFromString](access.application.guidfromstring.md)** function.
 
-For example, you may need to refer to a field that contains a GUID when using database replication. To return the value of a control on a form bound to a field that contains a GUID, use the  **StringFromGUID** function to convert the GUID to a string.
+For example, you may need to refer to a field that contains a GUID when using database replication. To return the value of a control on a form bound to a field that contains a GUID, use the **StringFromGUID** function to convert the GUID to a string.
 
 
 ## Example
 
-The following example returns the value of the s_GUID control on an Employees form in string form and assigns it to a string variable. The s_GUID control is bound to the s_GUID field, one of the system fields added to each replicated table in a replicated database.
+The following example returns the value of the **s_GUID** control on an Employees form in string form and assigns it to a string variable. The **s_GUID** control is bound to the **s_GUID** field, one of the system fields added to each replicated table in a replicated database.
 
 
 ```vb

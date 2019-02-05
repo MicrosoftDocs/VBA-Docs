@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # Application.ExportNavigationPane method (Access)
 
-Saves the current configuration of the Navigation Pane to an XML file.
+Saves the current configuration of the navigation pane to an XML file.
 
 
 ## Syntax
 
-_expression_. `ExportNavigationPane`( ` _Path_` )
+_expression_.**ExportNavigationPane** (_Path_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Path_|Required|**String**|The path and name of the XML file that you want to save the configuration of the Navigation Pane to. |
+| _Path_|Required|**String**|The path and name of the XML file that you want to save the configuration of the navigation pane to. |
 
 
 

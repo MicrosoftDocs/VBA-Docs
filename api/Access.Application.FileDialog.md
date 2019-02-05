@@ -14,32 +14,30 @@ localization_priority: Priority
 
 # Application.FileDialog property (Access)
 
-Returns a  **FileDialog** object which represents a single instance of a file dialog box. Read-only.
+Returns a **FileDialog** object that represents a single instance of a file dialog box. Read-only.
 
 
 ## Syntax
 
-_expression_. `FileDialog`( ` _dialogType_` )
+_expression_.**FileDialog** (_dialogType_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _dialogType_|Required|**MsoFileDialogType**|An  **[MsoFileDialogType](Office.MsoFileDialogType.md)** constant that represents the type of dialog box.|
+| _dialogType_|Required|**[MsoFileDialogType](Office.MsoFileDialogType.md)**|An **MsoFileDialogType** constant that represents the type of dialog box.|
 
 ## Remarks
 
-The  **msoFileDialogOpen** and **msoFileDialogSaveAs** constants are not supported in Microsoft Access.
+The **msoFileDialogOpen** and **msoFileDialogSaveAs** constants are not supported in Microsoft Access.
 
 
 ## Example
 
-This example illustrates how to use the FileFialog object to display a dialog box that allow the user to select one or more files. The selected files are then added to a listbox named FileList.
+This example illustrates how to use the **FileDialog** object to display a dialog box that allows the user to select one or more files. The selected files are then added to a listbox named **FileList**.
 
 
 ```vb

@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Attachment](Access.Attachment.md) ob
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **Exit** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Exit** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **Exit** event occurs. Setting the _Cancel_ argument to **True** (1) cancels the **Exit** event.|
 
 ## Return value
 
