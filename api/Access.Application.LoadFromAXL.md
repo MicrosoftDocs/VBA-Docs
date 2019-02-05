@@ -19,14 +19,12 @@ Imports the object defined in an Application XML (AXL) file into the database.
 
 ## Syntax
 
-_expression_. `LoadFromAXL`( ` _ObjectType_`, ` _ObjectName_`, ` _FileName_` )
+_expression_.**LoadFromAXL** (_ObjectType_, _ObjectName_, _FileName_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -36,7 +34,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 ## Remarks
 
-The  **LoadFromAXL** method does not provide a warning when the object specified in the _ObjectName_ argument already exists. If an object of the same name already exists, it will be replaced by the object specified in the _ObjectName_ argument.
+The **LoadFromAXL** method does not provide a warning when the object specified in the _ObjectName_ argument already exists. If an object of the same name already exists, it will be replaced by the object specified in the _ObjectName_ argument.
 
 For more information about AXL, see [[MS-AXL]: Access Application Transfer Protocol Structure Specification](https://msdn.microsoft.com/library/dd927584.aspx).
 

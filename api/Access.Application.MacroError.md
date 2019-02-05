@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Application.MacroError property (Access)
 
-Returns a  **[MacroError](Access.MacroError.md)** object that contains information about the latest error to occur in a macro. Read-only.
+Returns a **[MacroError](Access.MacroError.md)** object that contains information about the latest error to occur in a macro. Read-only.
 
 
 ## Syntax
 
-_expression_. `MacroError`
+_expression_.**MacroError**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 

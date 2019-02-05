@@ -38,7 +38,7 @@ Boolean
 
 ## Remarks
 
-The **GetHiddenAttribute** method (along with the **[SetHiddenAttribute](sethiddenattribute.md)** method) provides a means of changing an object's hidden attribute from Visual Basic code. With these methods, you can set or read the hidden option available in the object's **Properties** dialog box.
+The **GetHiddenAttribute** method (along with the **[SetHiddenAttribute](access.application.sethiddenattribute.md)** method) provides a means of changing an object's hidden attribute from Visual Basic code. With these methods, you can set or read the hidden option available in the object's **Properties** dialog box.
 
 Because the user can set the hidden attributes by selecting or clearing a check box, the **GetHiddenAttribute** method returns **True** if the option setting is **Yes** (the check box is selected) or **False** if the option setting is **No** (the check box is cleared). 
 

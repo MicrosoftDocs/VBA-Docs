@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Application.LoadPicture method (Access)
 
-The  **LoadPicture** method loads a graphic into an ActiveX control.
+The **LoadPicture** method loads a graphic into an ActiveX control.
 
 
 ## Syntax
 
-_expression_. `LoadPicture`( ` _FileName_` )
+_expression_.**LoadPicture** (_FileName_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +37,7 @@ Object
 
 ## Remarks
 
-Assign the return value of the  **LoadPicture** method to the **Picture** property of an ActiveX control to dynamically load a graphic into the control. The following example loads a bitmap into a control called OLECustomControl on an Orders form:
+Assign the return value of the **LoadPicture** method to the **Picture** property of an ActiveX control to dynamically load a graphic into the control. The following example loads a bitmap into a control called OLECustomControl on an Orders form:
 
 
 ```vb
@@ -48,7 +46,7 @@ Set Forms!Orders!OLECustomControl.Picture = _
 ```
 
 > [!NOTE] 
-> You can't use the  **LoadPicture** method to set the **Picture** property of an image control. This method works with ActiveX controls only. To set the **Picture** property of an image control, simply assign to it a string specifying the file name and path of the desired graphic.
+> You can't use the **LoadPicture** method to set the **Picture** property of an image control. This method works with ActiveX controls only. To set the **Picture** property of an image control, simply assign to it a string specifying the file name and path of the desired graphic.
 
 
 

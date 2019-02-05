@@ -12,18 +12,19 @@ localization_priority: Normal
 
 # Application.ReturnVars property (Access)
 
-Returns the  **[ReturnVars](Access.ReturnVars.md)** collection representing all the available **ReturnVar** variables. Read-only **ReturnVars** collection.
+Returns the **[ReturnVars](Access.ReturnVars.md)** collection representing all the available **ReturnVar** variables. Read-only **ReturnVars** collection.
 
 
 ## Syntax
 
-_expression_. `ReturnVars`
+_expression_.**ReturnVars**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Property value
 
- **RETURNVARS**
+**RETURNVARS**
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

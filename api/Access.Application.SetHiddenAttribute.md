@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**[AcObjectType](Access.AcObjectType.md)**|An **AcObjectType** constant that specifies the type of Access object.|
 | _ObjectName_|Required|**String**|The name of the Access object.|
-| _fHidden_|Required|**Boolean**|**True** sets the hidden attribute and **False** clears the attribute.|
+| _fHidden_|Required|**Boolean**|**True** sets the hidden attribute, and **False** clears the attribute.|
 
 ## Return value
 
