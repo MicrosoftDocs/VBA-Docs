@@ -51,10 +51,10 @@ The following table shows the values returned by the **HyperlinkPart** method fo
 
 |Hyperlink field data|HyperlinkPart method returned values|
 |:-----|:-----|
-|#https://www.microsoft.com#|**acDisplayedValue**: https://www.microsoft.com<br/><br/>**acDisplayText**: **acAddress**: https://www.microsoft.com<br/><br/>**acSubAddress**: **acScreenTip**: **acFullAddress**: https://www.microsoft.com|
-|Microsoft#https://www.microsoft.com#|**acDisplayedValue**: Microsoft<br/><br/>**acDisplayText**: Microsoft<br/><br/>**acAddress**: https://www.microsoft.com<br/><br/>**acSubAddress**: **acScreenTip**: **acFullAddress**: https://www.microsoft.com|
-|Customers#https://www.microsoft.com#Form Customers|**acDisplayedValue**: Customers<br/><br/>**acDisplayText**: Customers<br/><br/>**acAddress**: https://www.microsoft.com<br/><br/>**acSubAddress**: Form Customers<br/><br/>**acScreenTip**: **acFullAddress**: https://www.microsoft.com#Form Customer|
-|##Form Customers#Enter Information|**acDisplayedValue**: Form Customers<br/><br/>**acDisplayText**: **acAddress**: **acSubAddress**: Form Customers<br/><br/>**acScreenTip**: Enter Information<br/><br/>**acFullAddress**: #FormCustomer|
+|#https://www.microsoft.com#|**acDisplayedValue**: `https://www.microsoft.com`<br/><br/>**acDisplayText**: **acAddress**: `https://www.microsoft.com`<br/><br/>**acSubAddress**: **acScreenTip**: **acFullAddress**: `https://www.microsoft.com`|
+|Microsoft#https://www.microsoft.com#|**acDisplayedValue**: `Microsoft`<br/><br/>**acDisplayText**: `Microsoft`<br/><br/>**acAddress**: `https://www.microsoft.com`<br/><br/>**acSubAddress**: **acScreenTip**: **acFullAddress**: `https://www.microsoft.com`|
+|Customers#https://www.microsoft.com#Form Customers|**acDisplayedValue**: `Customers`<br/><br/>**acDisplayText**: `Customers`<br/><br/>**acAddress**: `https://www.microsoft.com`<br/><br/>**acSubAddress**: `Form Customers`<br/><br/>**acScreenTip**: **acFullAddress**: `https://www.microsoft.com#Form Customer`|
+|##Form Customers#Enter Information|**acDisplayedValue**: `Form Customers`<br/><br/>**acDisplayText**: **acAddress**: **acSubAddress**: `Form Customers`<br/><br/>**acScreenTip**: `Enter Information`<br/><br/>**acFullAddress**: `#FormCustomer`|
 
 When you add an _address_ part to a **Hyperlink** field by using the **Insert Hyperlink** dialog box (available by choosing **Hyperlink** on the **Insert** menu) or by typing an address part directly into a **Hyperlink** field, Access adds the two # symbols that delimit parts of the hyperlink data.
 

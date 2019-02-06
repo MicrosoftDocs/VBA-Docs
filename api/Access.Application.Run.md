@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Procedure_|Required|**String**|The name of the **Function** or **Sub** procedure to be run. If you are calling a procedure in another database, use the project name and the procedure name separated by a dot in the form: "_projectname_._procedurename_". <br/><br/>If you execute Visual Basic code containing the **Run** method in a library database, Access looks for the procedure first in the library database, and then in the current database.|
+| _Procedure_|Required|**String**|The name of the **Function** or **Sub** procedure to be run. If you are calling a procedure in another database, use the project name and the procedure name separated by a dot in the form: "_projectname_._procedurename_" <br/><br/>If you execute Visual Basic code containing the **Run** method in a library database, Access looks for the procedure first in the library database, and then in the current database.|
 | _Arg1, Arg2, ...Arg30_|Optional|**Variant**|The arguments that should be passed to the **Function** or **Sub** specified in the _Procedure_ argument.|
 
 ## Return value
