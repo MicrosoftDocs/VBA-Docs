@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.Back method (Access)
 
-Moves the focus to the previous file in the specified  **Attachment** control.
+Moves the focus to the previous file in the specified **Attachment** control.
 
 
 ## Syntax
 
-_expression_. `Back`
+_expression_.**Back**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

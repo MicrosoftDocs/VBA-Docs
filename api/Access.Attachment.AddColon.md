@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.AddColon property (Access)
 
-Specifies whether a colon follows the text in labels for new controls. Read/write  **Boolean**.
+Specifies whether a colon follows the text in labels for new controls. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AddColon`
+_expression_.**AddColon**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

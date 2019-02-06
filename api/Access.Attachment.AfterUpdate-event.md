@@ -14,30 +14,27 @@ localization_priority: Normal
 
 # Attachment.AfterUpdate event (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **AfterUpdate** event occurs. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
 _expression_ An expression that returns an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **AfterUpdate** event applies only to controls on a form, not controls on a report.
+The **AfterUpdate** event applies only to controls on a form, not controls on a report.
 
-To run a macro or event procedure when this event occurs, set the  **AfterUpdate** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[AfterUpdate](access.attachment.afterupdate-property.md)** property to the name of the macro or to [Event Procedure].
 
-The  **AfterUpdate** event is triggered when a control or record is updated. Within a record, changed data in each control is updated when the control loses the focus or when the user presses ENTER or TAB.
+The **AfterUpdate** event is triggered when a control or record is updated. Within a record, changed data in each control is updated when the control loses the focus or when the user presses Enter or Tab.
 
- **AfterUpdate** macros and event procedures run only if you change the data in a control. This event does not occur when a value changes in a calculated control. **AfterUpdate** macros and event procedures for a form run only if you change the data in one or more controls in the record.
-
-
-## See also
+**AfterUpdate** macros and event procedures run only if you change the data in a control. This event does not occur when a value changes in a calculated control. **AfterUpdate** macros and event procedures for a form run only if you change the data in one or more controls in the record.
 
 
-[Attachment Object](Access.Attachment.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

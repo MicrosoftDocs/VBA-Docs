@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # AutoCorrect.DisplayAutoCorrectOptions property (Access)
 
-Returns or sets a  **Boolean** value that specifies whether the **AutoCorrect Options** button is displayed for the specified control. The default value is **True**. Read/write.
+Returns or sets a **Boolean** value that specifies whether the **AutoCorrect Options** button is displayed for the specified control. The default value is **True**. Read/write.
 
 
 ## Syntax
 
-_expression_. `DisplayAutoCorrectOptions`
+_expression_.**DisplayAutoCorrectOptions**
 
-_expression_ A variable that represents an [AutoCorrect](Access.AutoCorrect.md) object.
-
-
-## See also
+_expression_ A variable that represents an **[AutoCorrect](Access.AutoCorrect.md)** object.
 
 
-[AutoCorrect Object](Access.AutoCorrect.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

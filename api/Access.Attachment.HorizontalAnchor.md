@@ -14,24 +14,21 @@ localization_priority: Normal
 
 # Attachment.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the attachment is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the attachment is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
 
-_expression_. `HorizontalAnchor`
+_expression_.**HorizontalAnchor**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

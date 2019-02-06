@@ -14,23 +14,21 @@ localization_priority: Normal
 
 # Attachment.BackThemeColorIndex property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the  **BackColor** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the **[BackColor](access.attachment.backcolor.md)** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BackThemeColorIndex`
+_expression_.**BackThemeColorIndex**
 
-_expression_ A variable that represents an '[Attachment](Access.Attachment.md)' object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **BackThemeColorIndex** property contains one of the index values listed in the following table.
+The **BackThemeColorIndex** property contains one of the index values listed in the following table.
 
-
-
-|**Index Value**|**Description**|
+|Index value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1|Background 1|
@@ -45,14 +43,14 @@ The  **BackThemeColorIndex** property contains one of the index values listed in
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **BackThemeColorIndex** property contains -1.
+If no theme is applied, the **BackThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example sets the Background Color to the Text 2 color by setting the  **BackThemeColorIndex** property.
+The following code example sets the Background Color to the Text 2 color by setting the **BackThemeColorIndex** property.
 
 
 ```vb
@@ -60,9 +58,6 @@ Me.FormHeader.BackThemeColorIndex=2
 ```
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

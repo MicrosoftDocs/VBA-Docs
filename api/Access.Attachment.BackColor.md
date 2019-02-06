@@ -14,28 +14,25 @@ localization_priority: Normal
 
 # Attachment.BackColor property (Access)
 
-Gets or sets the interior color of the specified object. Read/write  **Long**.
+Gets or sets the interior color of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BackColor`
+_expression_.**BackColor**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
+The **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-To use the  **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
-
-
-## See also
+To use the **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
 
 
-[Attachment Object](Access.Attachment.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

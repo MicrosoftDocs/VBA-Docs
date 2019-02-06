@@ -14,24 +14,21 @@ localization_priority: Normal
 
 # Attachment.Top property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. 
 
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
+In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

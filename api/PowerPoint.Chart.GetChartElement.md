@@ -89,7 +89,7 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 |AxisType|Specifies the axis type. Can be one of the following  **[xlAxisType](PowerPoint.XlAxisType.md)** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
 |DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[xlPivotFieldOrientation](PowerPoint.XlPivotFieldOrientation.md)** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](PowerPoint.ChartGroups.md)** collection for a specific chart group.|
-|PointIndex|Specifies the offset within the  **[Points](PowerPoint.Points.md)** collection for a specific point within a series. A value of ?1 indicates that all data points are selected.|
+|PointIndex|Specifies the offset within the  **[Points](PowerPoint.Points.md)** collection for a specific point within a series. A value of 1 indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the  **[Series](PowerPoint.Series.md)** collection for a specific series.|
 |ShapeIndex|Specifies the offset within the  **[Shapes](PowerPoint.Shapes.md)** collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the  **[Trendlines](PowerPoint.Trendlines.md)** collection for a specific trendline within a series.|

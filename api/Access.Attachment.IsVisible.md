@@ -14,24 +14,21 @@ localization_priority: Normal
 
 # Attachment.IsVisible property (Access)
 
-You can use the  **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
+You can use the **IsVisible** property to determine whether a control on a report is visible. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `IsVisible`
+_expression_.**IsVisible**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-You can set the  **IsVisible** property only in the **Print** event of a report section that contains the control.
+You can set the **IsVisible** property only in the **Print** event of a report section that contains the control.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

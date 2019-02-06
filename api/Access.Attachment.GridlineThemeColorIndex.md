@@ -14,21 +14,19 @@ localization_priority: Normal
 
 # Attachment.GridlineThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.attachment.gridlinecolor.md)** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `GridlineThemeColorIndex`
+_expression_.**GridlineThemeColorIndex**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **GridlineThemeColorIndex** property uses one of the values listed in the following table.
-
-
+The **GridlineThemeColorIndex** property uses one of the values listed in the following table.
 
 |Value|Description|
 |:-----|:-----|
@@ -45,14 +43,11 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **GridlineThemeColorIndex** property contains -1.
+If no theme is applied, the **GridlineThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet. 
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

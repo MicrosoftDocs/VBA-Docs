@@ -14,33 +14,28 @@ localization_priority: Normal
 
 # Attachment.PictureTiling property (Access)
 
-You can use the  **PictureTiling** property to specify whether a background picture is tiled across the entire attachment control. Read/write **Boolean**.
+You can use the **PictureTiling** property to specify whether a background picture is tiled across the entire attachment control. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `PictureTiling`
+_expression_.**PictureTiling**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **PictureTiling** property uses the following settings.
-
-
+The **PictureTiling** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The picture is tiled.|
 |No|**False**|(Default) The picture isn't tiled.|
 
-You can also set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can also set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.DisplayAs property (Access)
 
-Gets or sets an  **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifies how a file should be displayed in the **Attachment** control. Read/write.
+Gets or sets an **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifies how a file should be displayed in the **Attachment** control. Read/write.
 
 
 ## Syntax
 
-_expression_. `DisplayAs`
+_expression_.**DisplayAs**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

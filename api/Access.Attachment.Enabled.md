@@ -14,26 +14,23 @@ localization_priority: Normal
 
 # Attachment.Enabled property (Access)
 
-You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
+You can use the **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `Enabled`
+_expression_.**Enabled**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **Enabled** property setting is a value that indicates whether the conditional format is enabled or disabled. **True** enables the conditional format. **False** disables the conditional format. The default is **True**.
+The **Enabled** property setting is a value that indicates whether the conditional format is enabled or disabled. **True** enables the conditional format. **False** disables the conditional format. The default is **True**.
 
-When the  **Enabled** property is **True**, the conditional format can be displayed in the **Conditional Formatting** dialog box.
-
-
-## See also
+When the **Enabled** property is **True**, the conditional format can be displayed in the **Conditional Formatting** dialog box.
 
 
-[Attachment Object](Access.Attachment.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

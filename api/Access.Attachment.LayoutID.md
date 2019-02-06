@@ -14,24 +14,21 @@ localization_priority: Normal
 
 # Attachment.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified attachment. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified attachment. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `LayoutID`
+_expression_.**LayoutID**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

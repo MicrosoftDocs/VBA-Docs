@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.LeftPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the attachment and its left gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the attachment and its left gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

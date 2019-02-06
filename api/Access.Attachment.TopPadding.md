@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the attachment and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the attachment and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

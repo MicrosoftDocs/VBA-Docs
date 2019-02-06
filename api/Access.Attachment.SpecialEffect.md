@@ -14,21 +14,19 @@ localization_priority: Normal
 
 # Attachment.SpecialEffect property (Access)
 
-You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
+You can use the **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `SpecialEffect`
+_expression_.**SpecialEffect**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-The  **SpecialEffect** property uses the following settings.
-
-
+The **SpecialEffect** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -39,12 +37,9 @@ The  **SpecialEffect** property uses the following settings.
 |Shadowed|4|The object has a shadow below and to the right of the control.|
 |Chiseled|5|The object has a sunken line below the control.|
 
-The  **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
+The **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

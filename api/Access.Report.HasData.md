@@ -34,7 +34,7 @@ The  **HasData** property uses the following settings.
 
 |Value|Description|
 |:-----|:-----|
-|?1|The object has data.|
+|1|The object has data.|
 |0|The object doesn't have data.|
 |1|The object is unbound.|
 

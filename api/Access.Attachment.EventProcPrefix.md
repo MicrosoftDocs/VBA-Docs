@@ -14,26 +14,23 @@ localization_priority: Normal
 
 # Attachment.EventProcPrefix property (Access)
 
-Gets or sets the prefix portion of an event procedure name. Read/write  **String**.
+Gets or sets the prefix portion of an event procedure name. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `EventProcPrefix`
+_expression_.**EventProcPrefix**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-For example, if you have a command button with an event procedure named Details_Click, the  **EventProcPrefix** property returns the string "Details".
+For example, if you have a command button with an event procedure named Details_Click, the **EventProcPrefix** property returns the string "Details".
 
 Microsoft Access adds the prefix portion of an event procedure name to the event name with an underscore character (_).
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

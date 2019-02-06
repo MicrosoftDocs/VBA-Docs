@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # Attachment.AttachmentCount property (Access)
 
-Gets the number of documents attached to the specified  **Attachment** control. Read-only **Long**.
+Gets the number of documents attached to the specified **Attachment** control. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `AttachmentCount`
+_expression_.**AttachmentCount**
 
 _expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

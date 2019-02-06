@@ -14,24 +14,27 @@ localization_priority: Normal
 
 # Attachment.AfterUpdate property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **[AfterUpdate](access.attachment.afterupdate-event.md)** event occurs. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
 _expression_ An expression that returns an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-Valid values for this property are " _macroname_" where  _macroname_ is the name of a macro; "[Event Procedure]" which indicates the event procedure associated with the **AfterUpdate** event for the specified object; or " **=** _functionname_ **()** " where _functionname_ is the name of a user-defined function.
+Valid values for this property are: 
+
+- _macroname_, where _macroname_ is the name of a macro.
+
+- [Event Procedure], which indicates the event procedure associated with the **AfterUpdate** event for the specified object.
+
+- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
 
 
-## See also
 
-
-[Attachment Object](Access.Attachment.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
