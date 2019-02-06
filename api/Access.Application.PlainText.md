@@ -19,19 +19,17 @@ Strips the rich text formatting from a string and returns an unformatted text st
 
 ## Syntax
 
-_expression_. `PlainText`( ` _RichText_`, ` _Length_` )
+_expression_.**PlainText** (_RichText_, _Length_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _RichText_|Required|**Variant**|The rich text string that you want to remove the formatting of.|
-| _Length_|Optional|**Variant**|The number of character to return.|
+| _Length_|Optional|**Variant**|The number of characters to return.|
 
 ## Return value
 

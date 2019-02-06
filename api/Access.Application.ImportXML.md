@@ -14,24 +14,22 @@ localization_priority: Priority
 
 # Application.ImportXML method (Access)
 
-The  **ImportXML** method allows developers to import XML data and/or schema information into Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 7.0 or later, or the Microsoft Access database engine.
+The **ImportXML** method allows developers to import XML data and/or schema information into Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 7.0 or later, or the Microsoft Access database engine.
 
 
 ## Syntax
 
-_expression_. `ImportXML`( ` _DataSource_`, ` _ImportOptions_` )
+_expression_.**ImportXML** (_DataSource_, _ImportOptions_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataSource_|Required|**String**|The name and path of the XML file to import.|
-| _ImportOptions_|Optional|**AcImportXMLOption**|An [AcImportXMLOption](Access.AcImportXMLOption.md) constant that specifies the option to use when importing XML files. The default value is **acStructureAndData**.|
+| _ImportOptions_|Optional|**[AcImportXMLOption](Access.AcImportXMLOption.md)**|An **AcImportXMLOption** constant that specifies the option to use when importing XML files. The default value is **acStructureAndData**.|
 
 ## Return value
 
@@ -41,7 +39,6 @@ Nothing
 ## Example
 
 The following example imports an XML file into a new table named Employees in the current database.
-
 
 ```vb
 Application.ImportXML _ 

@@ -19,14 +19,12 @@ Sets the default workgroup file to the specified file.
 
 ## Syntax
 
-_expression_. `SetDefaultWorkgroupFile`( ` _Path_` )
+_expression_.**SetDefaultWorkgroupFile** (_Path_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,7 +37,7 @@ Nothing
 
 ## Remarks
 
-If the file specified by  _Path_ does not exist, an error occurs.
+If the file specified by _Path_ does not exist, an error occurs.
 
 
 ## Example

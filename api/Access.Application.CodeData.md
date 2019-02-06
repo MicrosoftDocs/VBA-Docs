@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 ## Remarks
 
-Use the **CodeData** property to refer to one of the following code database collections together with one of its properties or methods.
+Use the **CodeData** property to refer to one of the following code database collections together with one of its properties or methods:
 
 - **[AllQueries](Access.AllQueries.md)**
 - **[AllViews](Access.AllViews.md)**

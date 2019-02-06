@@ -33,10 +33,10 @@ Nothing
 
 For example, you can change the caption in the Microsoft Access title bar to "Contacts Database" by setting the **AppTitle** property.
 
-The **AppTitle** and **AppIcon** properties enable you to customize your application by changing the title and icon that appear in the Microsoft Access title bar. The title bar is not automatically updated after you have set these properties. For the change to the title bar to appear, you must use the **RefreshTitleBar** method.
+The **AppTitle** and **AppIcon** properties enable you to customize your application by changing the title and icon that appear in the Access title bar. The title bar is not automatically updated after you set these properties. For the change to the title bar to appear, you must use the **RefreshTitleBar** method.
 
 > [!NOTE] 
-> In a Microsoft Access database, you can reset the **AppTitle** and **AppIcon** properties to their default values by deleting them from the **Properties** collection representing the current database. After you delete these properties, you must use the **RefreshTitleBar** method to restore the Microsoft Access defaults to the title bar.
+> In an Access database, you can reset the **AppTitle** and **AppIcon** properties to their default values by deleting them from the **Properties** collection representing the current database. After you delete these properties, you must use the **RefreshTitleBar** method to restore the Access defaults to the title bar.
 
 If the path to the icon specified by the **AppIcon** property is invalid, no changes will be reflected in the title bar when you call this method.
 

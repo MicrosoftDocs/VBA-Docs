@@ -14,32 +14,30 @@ localization_priority: Normal
 
 # Application.FeatureInstall property (Access)
 
-You can use the  **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](Office.MsoFeatureInstall.md)**.
+You can use the **FeatureInstall** property to specify or determine how Microsoft Access handles calls to methods and properties that require features not yet installed. Read/write **[MsoFeatureInstall](Office.MsoFeatureInstall.md)**.
 
 
 ## Syntax
 
-_expression_. `FeatureInstall`
+_expression_.**FeatureInstall**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Remarks
 
-When VBA code references an object that is not installed the Microsoft Installer technology will attempt to install the required feature. You use the  **FeatureInstall** property to control what happens when an uninstalled object is referenced. When this property is set to the default, any attempt to use an uninstalled object causes the Installer technology to try to install the requested feature. In some circumstances this may take some time, and the user may believe that the machine has stopped responding to additional commands.
+When VBA code references an object that is not installed, the Microsoft Installer technology will attempt to install the required feature. You use the **FeatureInstall** property to control what happens when an uninstalled object is referenced. When this property is set to the default, any attempt to use an uninstalled object causes the Installer technology to try to install the requested feature. In some circumstances this may take some time, and the user may believe that the machine has stopped responding to additional commands.
 
-You can set the  **FeatureInstall** property to **msoFeatureInstallOnDemandWithUI** so users can see that something is happening as the feature is being installed. You can set the **FeatureInstall** property to **msoFeatureInstallNone** if you want to trap the error that is returned and display your own dialog box to the user or take some other custom action.
+You can set the **FeatureInstall** property to **msoFeatureInstallOnDemandWithUI** so that users can see that something is happening as the feature is being installed. You can set the **FeatureInstall** property to **msoFeatureInstallNone** if you want to trap the error that is returned and display your own dialog box to the user or take some other custom action.
 
-If you have the  **[UserControl](Access.Application.UserControl.md)** property set to **False**, users will not be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **UserControl** property is set to **True**, an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
+If you have the **[UserControl](Access.Application.UserControl.md)** property set to **False**, users will not be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **UserControl** property is set to **True**, an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
 
 
 ## Example
 
-This example checks the value of the  **FeatureInstall** property. If the property is set to **msoFeatureInstallNone**, the code displays a message box that asks the user whether they want to change the property setting. If the user responds "Yes", the property is set to **msoFeatureInstallOnDemand**. The example uses an object variable named MyOfficeApp that is dimensioned as an application object.
-
+This example checks the value of the **FeatureInstall** property. If the property is set to **msoFeatureInstallNone**, the code displays a message box that asks the user whether they want to change the property setting. If the user responds "Yes," the property is set to **msoFeatureInstallOnDemand**. The example uses an object variable named _MyOfficeApp_ that is dimensioned as an application object.
 
 ```vb
- 
  
 Dim myofficeapp As Access.Application 
 Set myofficeapp = New Access.Application 
@@ -58,8 +56,8 @@ With MyOfficeApp
             End If 
     End If 
 End With
-```
 
+```
 
 
 

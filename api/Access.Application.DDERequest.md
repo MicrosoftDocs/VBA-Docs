@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ChanNum_|Required|**Variant**|A channel number, the integer returned by the **DDEInitiate** function.|
+| _ChanNum_|Required|**Variant**|A channel number, the integer returned by the **[DDEInitiate](Access.Application.DDEInitiate.md)** function.|
 | _Item_|Required|**String**|A string expression that's the name of a data item recognized by the application specified by the **DDEInitiate** function. Check the application's documentation for a list of possible items.|
 
 ## Return value

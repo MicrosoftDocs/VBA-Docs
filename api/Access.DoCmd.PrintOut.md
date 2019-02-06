@@ -35,7 +35,7 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 | _PageTo_|Optional|**Variant**|The last page to print. A numeric expression that's a valid page number in the active form or datasheet. This argument is required if you specify  **acPages** for the _printrange_ argument.|
 | _PrintQuality_|Optional|**AcPrintQuality**|A  **[AcPrintQuality](Access.AcPrintQuality.md)** constant that specifies the print quality. the default value is **acHigh**.|
 | _Copies_|Optional|**Variant**|The number of copies to print. If you leave this argument blank, the default (1) is assumed.|
-| _CollateCopies_|Optional|**Variant**|Use  **True** (?1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default (**True**) is assumed.|
+| _CollateCopies_|Optional|**Variant**|Use  **True** (1) to collate copies and **False** (0) to print without collating. If you leave this argument blank, the default (**True**) is assumed.|
 
 ## Remarks
 

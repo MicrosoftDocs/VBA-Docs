@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Application.TempVars property (Access)
 
-Returns the collection of  **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
+Returns the collection of **[TempVar](Access.TempVar.md)** objects. Read-only **[TempVars](Access.TempVars.md)**.
 
 
 ## Syntax
 
-_expression_. `TempVars`
+_expression_.**TempVars**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 

@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Application.Printers property (Access)
 
-Returns the  **[Printers](Access.Printers.md)** collection representing all the available printers on the current system. Read-only **Printers** collection.
+Returns the **[Printers](Access.Printers.md)** collection representing all the available printers on the current system. Read-only **Printers** collection.
 
 
 ## Syntax
 
-_expression_. `Printers`
+_expression_.**Printers**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 

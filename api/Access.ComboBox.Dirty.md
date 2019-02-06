@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|The setting determines if the  **Dirty** event occurs. Setting the _Cancel_ argument to **True** (?1) cancels the **Dirty** event.|
+| _Cancel_|Required|**Integer**|The setting determines if the  **Dirty** event occurs. Setting the _Cancel_ argument to **True** (1) cancels the **Dirty** event.|
 
 ## Remarks
 

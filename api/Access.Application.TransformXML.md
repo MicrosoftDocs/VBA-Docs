@@ -19,22 +19,20 @@ Applies an Extensible Stylesheet Language (XSL) stylesheet to an XML data file a
 
 ## Syntax
 
-_expression_. `TransformXML`( ` _DataSource_`, ` _TransformSource_`, ` _OutputTarget_`, ` _WellFormedXMLOutput_`, ` _ScriptOption_` )
+_expression_.**TransformXML** (_DataSource_, _TransformSource_, _OutputTarget_, _WellFormedXMLOutput_, _ScriptOption_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _DataSource_|Required|**String**|The name and path of the XML file to import.|
 | _TransformSource_|Required|**String**|The name and path to the XSL file to apply to the XML data file.|
 | _OutputTarget_|Required|**String**|The file name and path for the resulting XML data file after applying the XSL file.|
-| _WellFormedXMLOutput_|Optional|**Boolean**|Setting this argument to  **True** will create a well-formed XML file. Setting this argument to **False** will encode the resulting XML file in UTF-16 format. The default value is **False**.|
-| _ScriptOption_|Optional|**AcTransformXMLScriptOption**|A [AcTransformXMLScriptOption](Access.AcTransformXMLScriptOption.md) constant that specifies the action taken if the XSL file contains scripting code. The default value is **acPromptScript**.|
+| _WellFormedXMLOutput_|Optional|**Boolean**|Setting this argument to **True** will create a well-formed XML file. Setting this argument to **False** will encode the resulting XML file in UTF-16 format. The default value is **False**.|
+| _ScriptOption_|Optional|**[AcTransformXMLScriptOption](Access.AcTransformXMLScriptOption.md)**|An **AcTransformXMLScriptOption** constant that specifies the action taken if the XSL file contains scripting code. The default value is **acPromptScript**.|
 
 ## Return value
 
@@ -43,7 +41,7 @@ Nothing
 
 ## Remarks
 
-Setting the  _WellFormedXMLOutput_ argument to **True** will result in a run-time error if the XSL file that you apply does not result in well-formed XML.
+Setting the _WellFormedXMLOutput_ argument to **True** will result in a run-time error if the XSL file that you apply does not result in well-formed XML.
 
 
 

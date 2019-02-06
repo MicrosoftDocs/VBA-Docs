@@ -64,7 +64,7 @@ If you simply want to average all records in _Domain_, use the **Avg** function.
 
 You can use the **DAvg** function in a module or macro or in a calculated control on a form if a field that you need to display isn't in the record source on which your form is based. For example, suppose you have a form based on the Orders table, and you want to include the **Quantity** field from the Order Details table to display the average number of items ordered by a particular customer. You can use the **DAvg** function to perform this calculation and display the data on your form.
 
-> [TIP] 
+> [!TIP] 
 > - If you use the **DAvg** function in a calculated control, you may want to place the control on the form header or footer so that the value for this control is not recalculated each time you move to a new record.
 > - If the data type of the field from which _Expr_ is derived is a number, the **DAvg** function returns a **Double** data type. If you use the **DAvg** function in a calculated control, include a data type conversion function in the expression to improve performance.
 > - Although you can use the **DAvg** function to determine the average of values in a field in a foreign table, it may be more efficient to create a query that contains all of the fields that you need and then base your form or report on that query.

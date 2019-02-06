@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |:-----|:-----|:-----|:-----|
 | _SourceFilename_|Required|**String**|The name of the Access file to convert. If a path isn't specified, Access looks for the file in the current directory.|
 | _DestinationFilename_|Required|**String**|The name of the file where Access saves the converted file. If a path isn't specified, Access saves the file in the current directory.|
-| _DestinationFileFormat_|Required|**AcFileFormat**|An **[AcFileFormat](Access.AcFileFormat.md)** constant that specifies the format of the converted file.|
+| _DestinationFileFormat_|Required|**[AcFileFormat](Access.AcFileFormat.md)**|An **AcFileFormat** constant that specifies the format of the converted file.|
 
 ## Return value
 

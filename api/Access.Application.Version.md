@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # Application.Version property (Access)
 
-Returns a  **String** indicating the version number of the currently installed copy of Access. Read-only.
+Returns a **String** indicating the version number of the currently installed copy of Microsoft Access. Read-only.
 
 
 ## Syntax
 
-_expression_. `Version`
+_expression_.**Version**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 

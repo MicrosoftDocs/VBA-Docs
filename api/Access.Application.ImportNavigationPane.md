@@ -14,24 +14,22 @@ localization_priority: Normal
 
 # Application.ImportNavigationPane method (Access)
 
-Loads a saved Navigation Pane configuration from disk.
+Loads a saved navigation pane configuration from disk.
 
 
 ## Syntax
 
-_expression_. `ImportNavigationPane`( ` _Path_`, ` _fAppendOnly_` )
+_expression_.**ImportNavigationPane** (_Path_, _fAppendOnly_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Path_|Required|**String**|The path and name of the XML file that contains the Navigation Pane configuration to load. |
-| _fAppendOnly_|Optional|**Boolean**|Set to  **True** to append the imported categories to the existing categories. The default value is **False**.|
+| _Path_|Required|**String**|The path and name of the XML file that contains the navigation pane configuration to load. |
+| _fAppendOnly_|Optional|**Boolean**|Set to **True** to append the imported categories to the existing categories. The default value is **False**.|
 
 
 

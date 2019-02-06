@@ -14,30 +14,28 @@ localization_priority: Priority
 
 # Application.ExportXML method (Access)
 
-The  **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
+The **ExportXML** method allows developers to export XML data, schemas, and presentation information from Microsoft SQL Server 2000 Desktop Engine (MSDE 2000), Microsoft SQL Server 6.5 or later, or the Microsoft Access database engine.
 
 
 ## Syntax
 
-_expression_. `ExportXML`( ` _ObjectType_`, ` _DataSource_`, ` _DataTarget_`, ` _SchemaTarget_`, ` _PresentationTarget_`, ` _ImageTarget_`, ` _Encoding_`, ` _OtherFlags_`, ` _WhereCondition_`, ` _AdditionalData_` )
+_expression_.**ExportXML** (_ObjectType_, _DataSource_, _DataTarget_, _SchemaTarget_, _PresentationTarget_, _ImageTarget_, _Encoding_, _OtherFlags_, _WhereCondition_, _AdditionalData_)
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Required|**AcExportXMLObjectType**| A **[AcExportXMLObjectType](Access.AcExportXMLObjectType.md)** that represents the type of **[AccessObject](Access.AccessObject.md)** object to export.|
+| _ObjectType_|Required|**[AcExportXMLObjectType](Access.AcExportXMLObjectType.md)**| An **AcExportXMLObjectType** that represents the type of **[AccessObject](Access.AccessObject.md)** object to export.|
 | _DataSource_|Required|**String**| The name of the **AccessObject** object to export. The default is the currently open object of the type specified by the _ObjectType_ argument.|
 | _DataTarget_|Optional|**String**|The file name and path for the exported data. If this argument is omitted, data is not exported.|
 | _SchemaTarget_|Optional|**String**|The file name and path for the exported schema information. If this argument is omitted, schema information is not exported to a separate XML file.|
 | _PresentationTarget_|Optional|**String**|The file name and path for the exported presentation information. If this argument is omitted, presentation information is not exported.|
 | _ImageTarget_|Optional|**String**|The path for exported images. If this argument is omitted, images are not exported.|
-| _Encoding_|Optional|**AcExportXMLEncoding**|A  **[AcExportXMLEncoding](Access.AcExportXMLEncoding.md)** constant that specifies the text encoding to use for the exported XML. The default value is **acUTF8**.|
-| _OtherFlags_|Optional|**AcExportXMLOtherFlags**|A bit mask that specifies other behaviors associated with exporting to XML. Can be a combination of  **[AcExportXMLOtherFlags](Access.AcExportXMLOtherFlags.md)** constants.|
+| _Encoding_|Optional|**[AcExportXMLEncoding](Access.AcExportXMLEncoding.md)**|An **AcExportXMLEncoding** constant that specifies the text encoding to use for the exported XML. The default value is **acUTF8**.|
+| _OtherFlags_|Optional|**[AcExportXMLOtherFlags](Access.AcExportXMLOtherFlags.md)**|A bit mask that specifies other behaviors associated with exporting to XML. Can be a combination of **AcExportXMLOtherFlags** constants.|
 | _WhereCondition_|Optional|**String**|Specifies a subset of records to be exported.|
 | _AdditionalData_|Optional|**Variant**|Specifies additional tables to export. This argument is ignored if the  _OtherFlags_ argument is set to **acLiveReportSource**.|
 
@@ -48,7 +46,7 @@ Nothing
 
 ## Remarks
 
-Although the  _DataTarget_,  _SchemaTarget_, and  _PresentationTarget_ arguments are all optional, at least one must be specified when you are using this method. When the **ExportXML** method is called from within an **AccessObject** object, the default behavior is to overwrite any existing files specified in any of the arguments.
+Although the _DataTarget_,  _SchemaTarget_, and  _PresentationTarget_ arguments are all optional, at least one must be specified when you are using this method. When the **ExportXML** method is called from within an **AccessObject** object, the default behavior is to overwrite any existing files specified in any of the arguments.
 
 
 ## Example

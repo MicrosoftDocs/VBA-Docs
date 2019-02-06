@@ -29,6 +29,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 **MsoAutomationSecurity** can be one of these **MsoAutomationSecurity** constants:
 
 - **msoAutomationSecurityByUI**. Uses the security setting specified in the **Security** dialog box (**Tools** menu > **Macro** submenu). **msoAutomationSecurityByUI** is the default value when the application is started.
+
 - **msoAutomationSecurityForceDisable**. Access will not open any database if the macro security level is set to **High** or **Medium** in the **Security** dialog box (**Tools** menu > **Macro** submenu). No security messages are shown to the user.
 
   > [!NOTE] 

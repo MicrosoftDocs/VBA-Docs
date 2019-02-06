@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # Application.Printer property (Access)
 
-Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
+Returns or sets a **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
 
-_expression_. `Printer`
+_expression_.**Printer**
 
 _expression_ A variable that represents an **[Application](Access.Application.md)** object.
 
 
 ## Example
 
-The following example makes the first printer in the  **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
+The following example makes the first printer in the **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
 
 
 ```vb

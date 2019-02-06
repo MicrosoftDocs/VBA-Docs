@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 ## Remarks
 
-Use the **CurrentProject** property to refer to one of the following current database collections together with one of its properties or methods.
+Use the **CurrentProject** property to refer to one of the following current database collections together with one of its properties or methods:
 
 - **[AllForms](Access.AllForms.md)**
 - **[AllMacros](Access.allmacros.md)**
