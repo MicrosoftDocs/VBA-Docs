@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.AddColon
 ms.assetid: 8eeb0085-e880-50ff-1e9f-3ae48d5bc6de
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 
 _expression_. `AddColon`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

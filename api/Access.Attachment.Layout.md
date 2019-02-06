@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Layout
 ms.assetid: 1256c89d-96d6-20de-1a37-31c92e5e6ddb
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the type of layout for the specified attachment. Read-only  **[AcLayoutT
 
 _expression_. `Layout`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnLostFocus
 ms.assetid: 546d0491-ddb8-87d4-9f97-d68cfd96070c
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Lost Focus** box in the **Properties** wi
 
 _expression_. `OnLostFocus`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

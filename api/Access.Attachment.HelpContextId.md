@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.HelpContextId
 ms.assetid: a9eceafb-48b4-8bcd-bec1-6a16c71b4850
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **HelpContextID** property specifies the context ID of a topic in the custo
 
 _expression_. `HelpContextId`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

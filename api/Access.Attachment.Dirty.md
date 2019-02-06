@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Dirty
 ms.assetid: d211238b-cbe4-f0ef-471b-33c1ced1aa9b
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **Dirty** event occurs when the content of the specified control changes.
 
 _expression_. `Dirty`( ` _Cancel_`, )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

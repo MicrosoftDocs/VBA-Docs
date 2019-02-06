@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.VerticalAnchor
 ms.assetid: bbb588c4-ec99-1352-4f1b-fd166d67df33
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
 _expression_. `VerticalAnchor`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

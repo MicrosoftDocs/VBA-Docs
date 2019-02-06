@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.MouseUp
 ms.assetid: af4d03e6-af13-d91f-168f-70e90783aa2a
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **MouseUp** event occurs when the user releases a mouse button.
 
 _expression_. `MouseUp`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

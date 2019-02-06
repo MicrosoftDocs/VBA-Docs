@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Tag
 ms.assetid: 6d3e9f35-1986-e6b4-5f35-2652123c007c
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Stores extra information about a control needed by a Microsoft Access applicatio
 
 _expression_. `Tag`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

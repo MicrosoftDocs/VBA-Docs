@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnKeyDown
 ms.assetid: 8135c3e5-e7d0-bafa-3eef-740b6ee73edd
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Down** box in the **Properties** wind
 
 _expression_. `OnKeyDown`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

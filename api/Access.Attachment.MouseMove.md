@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.MouseMove
 ms.assetid: 61ec0bdb-6e39-a4a7-92aa-45d543e35109
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **MouseMove** event occurs when the user moves the mouse.
 
 _expression_. `MouseMove`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

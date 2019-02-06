@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.MouseDown
 ms.assetid: 45056b32-a019-1284-35e4-fefab6ba2e3e
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **MouseDown** event occurs when the user presses a mouse button.
 
 _expression_. `MouseDown`( ` _Button_`, ` _Shift_`, ` _X_`, ` _Y_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

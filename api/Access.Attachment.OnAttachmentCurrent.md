@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnAttachmentCurrent
 ms.assetid: 7987943b-5283-e9dc-17a6-5f4b54c90d4d
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or gets the value of the  **On Attachment Current** box in the Properties w
 
 _expression_. `OnAttachmentCurrent`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

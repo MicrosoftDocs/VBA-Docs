@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnKeyUp
 ms.assetid: 56e5a246-5907-f537-0c89-a746beab0865
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
 _expression_. `OnKeyUp`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

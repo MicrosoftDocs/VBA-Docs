@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnEnter
 ms.assetid: 5aae3814-5fff-2011-c86d-3765f2a3615d
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Enter** box in the **Properties** window 
 
 _expression_. `OnEnter`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

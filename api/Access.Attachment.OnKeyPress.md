@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnKeyPress
 ms.assetid: 9f3213eb-9c37-f550-6c14-e6dd85d030a5
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Press** box in the **Properties** win
 
 _expression_. `OnKeyPress`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.AfterUpdate
 ms.assetid: 556fc6d2-3936-5cc7-0c4f-03274f00cfc2
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 _expression_. `AfterUpdate`
 
-_expression_ An expression that returns an [Attachment](Access.Attachment.md) object.
+_expression_ An expression that returns an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

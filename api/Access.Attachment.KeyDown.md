@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.KeyDown
 ms.assetid: 91a000e2-0a4e-4dd0-2715-b1987eb7212a
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The **KeyDown** event occurs when the user presses a key while a form or control
 
 _expression_. `KeyDown`( ` _KeyCode_`, ` _Shift_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

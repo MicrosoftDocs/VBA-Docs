@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineWidthRight
 ms.assetid: 743ab25e-44ae-b5d1-7c7b-4f31a91a8f17
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the width of the right gridline for the specified attachment. Read/
 
 _expression_. `GridlineWidthRight`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

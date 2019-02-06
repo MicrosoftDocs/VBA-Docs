@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.FileURL
 ms.assetid: 661ce36f-77f8-be34-845f-a3c450b878bf
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the Uniform Resource Locator (URL) of the specified attachment. Read-onl
 
 _expression_. `FileURL`( ` _var_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

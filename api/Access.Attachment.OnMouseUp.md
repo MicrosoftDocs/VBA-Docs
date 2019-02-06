@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnMouseUp
 ms.assetid: 077568b6-2053-7ddb-9afe-503b8a9850a5
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Mouse Up** box in the **Properties** wind
 
 _expression_. `OnMouseUp`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

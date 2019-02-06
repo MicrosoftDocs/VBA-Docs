@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnExit
 ms.assetid: 5ca25e6f-1fc3-826a-9111-b899e324ef99
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Exit** box in the **Properties** window o
 
 _expression_. `OnExit`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

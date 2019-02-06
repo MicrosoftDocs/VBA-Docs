@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ShortcutMenuBar
 ms.assetid: be4ce61e-c4a9-9e3b-e2f4-187b77451f67
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ShortcutMenuBar** property to specify the shortcut menu that 
 
 _expression_. `ShortcutMenuBar`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

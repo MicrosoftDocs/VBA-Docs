@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.FileName
 ms.assetid: 4d39020e-b21f-35b5-f5dc-4d8d5b4fdc88
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the full file name of the specified attachment. Read-only  **String**.
 
 _expression_. `FileName`( ` _var_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

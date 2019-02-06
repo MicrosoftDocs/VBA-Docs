@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ControlSource
 ms.assetid: 6c1f2351-5671-51dd-0ff7-964719d91b9c
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ControlSource** property to specify what data appears in the 
 
 _expression_. `ControlSource`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

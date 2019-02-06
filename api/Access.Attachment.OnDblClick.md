@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnDblClick
 ms.assetid: 5bfe9633-dd3a-d1d5-450b-eafbc1a607c1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Dbl Click** box in the **Properties** win
 
 _expression_. `OnDblClick`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

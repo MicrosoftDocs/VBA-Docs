@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleLeft
 ms.assetid: 0a67119c-035e-157d-f47d-4f5cd3f356c8
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the width of the bottom gridline for the specified attachment. Read
 
 _expression_. `GridlineStyleLeft`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

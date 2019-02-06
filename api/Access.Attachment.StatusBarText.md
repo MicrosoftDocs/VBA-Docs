@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.StatusBarText
 ms.assetid: 9d947d11-edb1-947a-df0c-727ef9b1599a
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
 _expression_. `StatusBarText`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

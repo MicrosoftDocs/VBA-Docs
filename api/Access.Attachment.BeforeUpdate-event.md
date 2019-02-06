@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BeforeUpdate
 ms.assetid: 0437e831-b96f-60b6-1a7c-3e1f720394b7
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **BeforeUpdate** event occurs before changed data in a control or record is
 
 _expression_. `BeforeUpdate`( ` _Cancel_`, )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

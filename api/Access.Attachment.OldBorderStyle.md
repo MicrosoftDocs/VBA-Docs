@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OldBorderStyle
 ms.assetid: abbc1a8d-d9cc-b917-026d-a1847739c362
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use this property to set or return the unedited value of the  **BorderSt
 
 _expression_. `OldBorderStyle`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

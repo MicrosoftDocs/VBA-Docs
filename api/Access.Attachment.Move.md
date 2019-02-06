@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Move
 ms.assetid: cd807ce2-79b8-0873-c035-7927bc91967d
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Moves the specified object to the coordinates specified by the argument values.
 
 _expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

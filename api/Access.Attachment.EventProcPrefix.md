@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.EventProcPrefix
 ms.assetid: f58670ff-b42c-69eb-0561-90ce5cc40d19
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
 _expression_. `EventProcPrefix`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Requery
 ms.assetid: 6af04ea8-02cb-9eda-439d-6c69cd772891
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **Requery** method updates the data underlying a specified control that's o
 
 _expression_. `Requery`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

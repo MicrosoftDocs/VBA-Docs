@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.AutoCorrect.DisplayAutoCorrectOptions
 ms.assetid: 47cee9cd-a920-f439-9e0a-10cade1b54e0
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 

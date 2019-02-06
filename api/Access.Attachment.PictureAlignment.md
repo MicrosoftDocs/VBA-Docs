@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.PictureAlignment
 ms.assetid: 505daae0-8321-cce0-028a-ff6c2ac16245
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **PictureAlignment** property to specify where a background pic
 
 _expression_. `PictureAlignment`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

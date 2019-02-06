@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineStyleRight
 ms.assetid: c91f1804-656b-1c5d-84c5-3ac51a57ec20
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the right gridline style of the specified attachment. Read/write  *
 
 _expression_. `GridlineStyleRight`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

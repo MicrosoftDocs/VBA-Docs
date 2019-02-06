@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OnDirty
 ms.assetid: a3f0e108-3abe-23b2-6c7d-e528432fc3d9
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Dirty** box in the **Properties** window 
 
 _expression_. `OnDirty`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

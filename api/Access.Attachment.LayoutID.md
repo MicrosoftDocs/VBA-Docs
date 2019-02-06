@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.LayoutID
 ms.assetid: e66ced6f-59de-b7ec-6b15-28825f154992
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the unique identifier for the layout that contains the specified attachm
 
 _expression_. `LayoutID`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.KeyUp
 ms.assetid: 4b13f772-12e7-b840-029a-3736df1a9645
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The **KeyUp** event occurs when the user releases a key while a form or control 
 
 _expression_. `KeyUp`( ` _KeyCode_`, ` _Shift_` )
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

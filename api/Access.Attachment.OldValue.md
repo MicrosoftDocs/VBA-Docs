@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.OldValue
 ms.assetid: f3c20114-fc68-98ab-03de-0e023aacaaf1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **OldValue** property to determine the unedited value of a boun
 
 _expression_. `OldValue`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

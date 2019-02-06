@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BorderTint
 ms.assetid: 819768fc-1473-5f7e-c320-b2d25d1b83d3
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the tint that is applied to the theme color in the  **BorderColor**
 
 _expression_. `BorderTint`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

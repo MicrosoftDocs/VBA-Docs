@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Width
 ms.assetid: 708c9f0d-deaa-1149-2ce7-53f0b5ec8c25
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
 _expression_. `Width`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.DefaultPicture
 ms.assetid: 98bc9637-50c9-5831-8170-a32abe5915bc
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the path and file name of the graphic to be used as a background pi
 
 _expression_. `DefaultPicture`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

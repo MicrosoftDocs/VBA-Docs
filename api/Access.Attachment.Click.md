@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Click
 ms.assetid: cdeff1db-5d95-dab5-79ae-d02ac25d5659
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -20,7 +20,7 @@ The **Click** event occurs when the user presses and then releases a mouse butto
 
 _expression_. `Click`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 ## Return value
 

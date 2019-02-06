@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.InSelection
 ms.assetid: e17586b5-0619-e713-e1fa-f27c9e26b561
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **InSelection** property to determine or specify whether a cont
 
 _expression_. `InSelection`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

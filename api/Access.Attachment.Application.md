@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Application
 ms.assetid: db88250d-da59-300c-6f0c-3768c1bb8a7f
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Application** property to access the active Microsoft Access 
 
 _expression_.
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

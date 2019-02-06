@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.LostFocus
 ms.assetid: b2a680bb-faec-bc7d-c568-3c827ee5d6b1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **LostFocus** event occurs when the specified object receives the focus.
 
 _expression_. `LostFocus`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

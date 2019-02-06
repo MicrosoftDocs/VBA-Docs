@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Back
 ms.assetid: 96a8625a-2565-134b-e46e-52567ab08690
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Moves the focus to the previous file in the specified  **Attachment** control.
 
 _expression_. `Back`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

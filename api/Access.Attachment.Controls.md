@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Controls
 ms.assetid: 767fd173-4a85-48ac-820a-9235776b7b00
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 
 _expression_. `Controls`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

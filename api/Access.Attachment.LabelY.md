@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.LabelY
 ms.assetid: 4ac59667-61bf-925c-a70a-0857fabcf2e1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ The  **LabelY** property (along with the **LabelX** property) specifies the plac
 
 _expression_. `LabelY`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

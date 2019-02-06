@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineThemeColorIndex
 ms.assetid: 195122c2-c972-8d39-aea6-bf2b531b1f84
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 _expression_. `GridlineThemeColorIndex`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.DblClick
 ms.assetid: abc31523-5154-2d91-67c0-03cc0e73e957
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The **DblClick** event occurs when the user presses and releases the left mouse 
 
 _expression_. `DblClick`(*Cancel*)
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Parameters

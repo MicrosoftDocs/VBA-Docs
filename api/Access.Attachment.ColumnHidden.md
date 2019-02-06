@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ColumnHidden
 ms.assetid: 772c644e-b180-25ad-5566-c0b5dc6dbc41
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 
 _expression_. `ColumnHidden`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

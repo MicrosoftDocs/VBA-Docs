@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.LabelAlign
 ms.assetid: 328832bf-303b-1988-11b9-4e9505fe80de
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **LabelAlign** property specifies the text alignment within attached labels
 
 _expression_. `LabelAlign`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ControlType
 ms.assetid: f660ca13-59f0-efae-8e6b-7449662a15c2
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ControlType** property in Visual Basic to determine the type 
 
 _expression_. `ControlType`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

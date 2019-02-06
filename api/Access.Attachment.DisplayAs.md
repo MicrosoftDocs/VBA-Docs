@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.DisplayAs
 ms.assetid: a8813925-8062-501a-a985-27084c2033f4
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets an  **[AcDisplayAs](Access.AcDisplayAs.md)** constant that specifie
 
 _expression_. `DisplayAs`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

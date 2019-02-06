@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BackColor
 ms.assetid: 7a96f656-4ca5-ebf8-47d9-7fe1f4939517
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the interior color of the specified object. Read/write  **Long**.
 
 _expression_. `BackColor`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

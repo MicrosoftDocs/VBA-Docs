@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Locked
 ms.assetid: d35da857-2f8a-9d7f-19d2-6d7fbe029c76
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **Locked** property specifies whether you can edit data in a control in For
 
 _expression_. `Locked`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GridlineTint
 ms.assetid: c1730e7b-88ae-3810-1a6c-9a0ff17b95b1
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets the tint applied to the theme color in the  **GridlineColor** prope
 
 _expression_. `GridlineTint`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

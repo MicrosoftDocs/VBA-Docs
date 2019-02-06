@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ColumnWidth
 ms.assetid: 1827efbf-f481-7e26-0638-775a522b2c46
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the **ColumnWidth** property to specify the width of a column in Dat
 
 _expression_. `ColumnWidth`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

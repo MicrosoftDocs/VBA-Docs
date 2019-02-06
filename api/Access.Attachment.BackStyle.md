@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BackStyle
 ms.assetid: 7e86f99d-a74a-8153-64ef-fe7cea81d218
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **BackStyle** property to specify whether a control will be tra
 
 _expression_. `BackStyle`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

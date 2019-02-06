@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Enter
 ms.assetid: 0ca691d8-aace-3240-c7c7-acfb69960f4a
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **Enter** event occurs before a control actually receives the focus from a 
 
 _expression_. `Enter`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

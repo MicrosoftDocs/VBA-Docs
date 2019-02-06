@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.GotFocus
 ms.assetid: 9c841973-cb31-2ec6-d593-97ad8803250b
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The  **GotFocus** event occurs when the specified object receives the focus.
 
 _expression_. `GotFocus`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Return value

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.ColumnOrder
 ms.assetid: e11872da-df82-83e0-0c6f-8716989622dd
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ColumnOrder** property to specify the order of the columns in
 
 _expression_. `ColumnOrder`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

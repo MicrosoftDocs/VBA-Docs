@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Enabled
 ms.assetid: d0838624-4ed8-6099-8aac-ea947de2f56e
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Enabled** property to set or return the status of the conditi
 
 _expression_. `Enabled`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BeforeUpdate
 ms.assetid: 44a17114-bbb6-8ec9-89b5-db09cf60de98
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 _expression_. `BeforeUpdate`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.AutoLabel
 ms.assetid: 09007508-f7b4-3fa6-2548-a78afd34bd0c
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Specifies whether labels are automatically created and attached to new controls.
 
 _expression_. `AutoLabel`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## See also

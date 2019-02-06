@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.Left
 ms.assetid: cee21215-a0b0-9247-976d-9f7899287e54
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **Left** property to specify an object's location on a form or 
 
 _expression_. `Left`
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
