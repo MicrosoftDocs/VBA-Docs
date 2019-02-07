@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.KeyPress
 ms.assetid: c5e9760d-4a19-0249-e963-89a53c11966d
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ The **KeyPress** event occurs when the user presses and releases a key or key co
 
 _expression_. `KeyPress`( ` _KeyAscii_` )
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Parameters

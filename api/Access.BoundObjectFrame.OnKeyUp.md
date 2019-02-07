@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnKeyUp
 ms.assetid: 527a0034-31e1-af3f-d518-3c3b7cb62c8b
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
 _expression_. `OnKeyUp`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

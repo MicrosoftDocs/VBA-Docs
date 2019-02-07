@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnClick
 ms.assetid: 1afb4220-a3de-076b-5619-d758b4e8483c
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Click** box in the **Properties** window.
 
 _expression_. `OnClick`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

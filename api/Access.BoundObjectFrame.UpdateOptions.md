@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.UpdateOptions
 ms.assetid: 919ad3b4-1128-947a-09c0-7c7b0373698e
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **UpdateOptions** property to specify how a linkedOLE object is
 
 _expression_. `UpdateOptions`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

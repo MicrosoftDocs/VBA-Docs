@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Properties
 ms.assetid: da3ab868-434c-f06c-04c9-9f8b4c183980
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Returns a reference to a control's **[Properties](Access.Properties.md)** collec
 
 _expression_. `Properties`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

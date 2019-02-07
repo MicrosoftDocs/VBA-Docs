@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineThemeColorIndex
 ms.assetid: 1d527006-46f3-fc31-a579-ff2b32a104cc
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.GridlineThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **GridlineColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.boundobjectframe.gridlinecolor.md)** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `GridlineThemeColorIndex`
+_expression_.**GridlineThemeColorIndex**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **GridlineThemeColorIndex** property uses one of the values listed in the following table.
-
-
+The **GridlineThemeColorIndex** property uses one of the values listed in the following table.
 
 |Value|Description|
 |:-----|:-----|
@@ -45,14 +43,11 @@ The  **GridlineThemeColorIndex** property uses one of the values listed in the f
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **GridlineThemeColorIndex** property contains -1.
+If no theme is applied, the **GridlineThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

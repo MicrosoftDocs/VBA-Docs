@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.ShortcutMenuBar
 ms.assetid: 05f24e86-b02b-c55a-de10-0a6896ffefe0
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ You can use the  **ShortcutMenuBar** property to specify the shortcut menu that 
 
 _expression_. `ShortcutMenuBar`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

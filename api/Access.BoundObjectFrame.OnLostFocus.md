@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.OnLostFocus
 ms.assetid: 78ee2d7f-89d4-e9d2-a0ce-ecd6d35a98c3
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Lost Focus** box in the **Properties** wi
 
 _expression_. `OnLostFocus`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

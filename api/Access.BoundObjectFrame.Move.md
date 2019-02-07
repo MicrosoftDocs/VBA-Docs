@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.Move
 ms.assetid: 69784663-48ac-5c7f-d21d-0b0f10ba7284
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Moves the specified object to the coordinates specified by the argument values.
 
 _expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Parameters
