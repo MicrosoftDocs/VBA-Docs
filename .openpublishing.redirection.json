@@ -2443,6 +2443,38 @@
           {
             "source_path": "api/Access.Attachment.BeforeUpdate(property).md",
             "redirect_url": "/office/vba/api/Access.Attachment.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.afterupdate(even).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.afterupdate-event"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.beforeupdate(even).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.beforeupdate-event"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.afterupdate(property).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.afterupdate-property"
+          },
+          {
+            "source_path": "api/access.boundobjectframe.beforeupdate(property).md",
+            "redirect_url": "/office/vba/api/access.boundobjectframe.beforeupdate-property"
+          },
+          {
+            "source_path": "api/access.checkbox.afterupdate(even).md",
+            "redirect_url": "/office/vba/api/access.checkbox.afterupdate-event"
+          },
+          {
+            "source_path": "api/access.checkbox.beforeupdate(even).md",
+            "redirect_url": "/office/vba/api/access.checkbox.beforeupdate-event"
+          },
+          {
+            "source_path": "api/access.checkbox.afterupdate(property).md",
+            "redirect_url": "/office/vba/api/access.checkbox.afterupdate-property"
+          },
+          {
+            "source_path": "api/access.checkbox.beforeupdate(property).md",
+            "redirect_url": "/office/vba/api/access.checkbox.beforeupdate-property"
           }
     ]
 }
