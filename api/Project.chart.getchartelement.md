@@ -106,7 +106,7 @@ Table 2 describes the meaning of  _Arg1_ and _Arg2_ after the method returns. Va
 |DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **Office.XlPivotFieldOrientation** constants: **xlColumnField**,  **xlDataField**,  **xlPageField**, or  **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **Office.IMsoChart.ChartGroups** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the  **Excel.PivotFields** collection for a specific column (series), data, page, or row (category) field. The value is **-1** if the drop zone type is **xlDataField**.|
-|PointIndex|Specifies the offset within the  **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **?1** indicates that all data points are selected.|
+|PointIndex|Specifies the offset within the  **Office.IMsoSeries.Points** collection for a specific point within a series. A value of **1** indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the  **Office.IMsoChart.SeriesCollection** for a specific series.|
 |ShapeIndex|Specifies the offset within the [Shapes](./overview/Project.md) collection for a specific shape.|
 |TrendlineIndex|Specifies the offset within the  **Office.IMsoSeries.Trendlines** collection for a specific trendline within a series.|

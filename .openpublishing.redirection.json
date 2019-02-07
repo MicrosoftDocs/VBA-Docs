@@ -2427,6 +2427,22 @@
           {
             "source_path": "api/access.apptitle.md",
             "redirect_url": "/office/vba/api/Access.Application.AppTitle"
+          },
+          {
+            "source_path": "api/Access.Attachment.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Attachment.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Attachment.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Attachment.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Attachment.BeforeUpdate-property"
           }
     ]
 }

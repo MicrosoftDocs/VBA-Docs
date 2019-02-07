@@ -47,7 +47,7 @@ The following rules apply when you use the **SendObject** action to include a da
 
 - You can send table, query, and form datasheets. In the included object, all fields in the datasheet look as they do in Access, except fields containing OLE objects. The columns for these fields are included in the object, but the fields are blank.
     
-- For a control bound to a **Yes/No** field (a toggle button, option button, or check box), the output file displays the value ?1 (Yes) or 0 (No).
+- For a control bound to a **Yes/No** field (a toggle button, option button, or check box), the output file displays the value 1 (Yes) or 0 (No).
     
 - For a text box bound to a **Hyperlink** field, the output file displays the hyperlink for all output formats except MS-DOS text (in this case, the hyperlink is just displayed as normal text).
     

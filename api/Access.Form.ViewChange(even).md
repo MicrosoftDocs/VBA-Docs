@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Reason_|Required|**Long**| A **PivotViewReasonEnum** constant that indicates how the view was changed. _Reason_ always returns ?1 for PivotChart Views.|
+| _Reason_|Required|**Long**| A **PivotViewReasonEnum** constant that indicates how the view was changed. _Reason_ always returns 1 for PivotChart Views.|
 
 ## Example
 

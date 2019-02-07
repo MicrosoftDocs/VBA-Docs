@@ -39,7 +39,7 @@ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectF
   </p></li><li><p><b>acCtrlMask</b>  The bit mask for the CTRL key.</p></li><li><p><b>acAltMask</b>  The bit mask for the ALT key.  
   
  </p></li></ul>|
-| _X_|Required|**Single**|The x coordinate for the current location of the mouse pointer, in twips. |
+| _X_|Required|**Single**|The x coordinate for the current location of the mouse pointer, in [twips](../language/glossary/vbe-glossary.md#twip). |
 | _Y_|Required|**Single**|The y coordinate for the current location of the mouse pointer, in twips. |
 
 ## Remarks

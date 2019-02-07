@@ -43,18 +43,18 @@ If you pass to the **Eval** function a string that contains the name of a functi
 
 If you are passing the name of a function to the **Eval** function, you must include parentheses after the name of the function in the _stringexpr_ argument. For example:
 
-    ```vb
-    ' ShowNames is user-defined function. 
-     Debug.Print Eval("ShowNames()") 
-    ```
+```vb
+  ' ShowNames is user-defined function. 
+  Debug.Print Eval("ShowNames()") 
+```
 
-    ```vb
-     Debug.Print Eval("StrComp(""Joe"",""joe"", 1)")
-    ```
+```vb
+  Debug.Print Eval("StrComp(""Joe"",""joe"", 1)")
+```
 
-    ```vb
-     Debug.Print Eval("Date()")
-    ```
+```vb
+  Debug.Print Eval("Date()")
+```
 
 You can use the **Eval** function in a calculated control on a form or report, or in a macro or module. The **Eval** function returns a **Variant** that is either a string or a numeric type.
 
@@ -62,24 +62,24 @@ The argument _stringexpr_ must be an expression that is stored in a string. If y
 
 You can use the **Eval** function to determine the value stored in the **Value** property of a control. The following example passes a string containing a full reference to a control to the **Eval** function. It then displays the current value of the control in a dialog box.
 
-    ```vb
-     Dim ctl As Control 
-     Dim strCtl As String 
+```vb
+    Dim ctl As Control 
+    Dim strCtl As String 
     
-     Set ctl = Forms!Employees!LastName 
-     strCtl = "Forms!Employees!LastName" 
-     MsgBox ("The current value of " & ctl.Name & " is " & Eval(strCtl))
-    ```
+    Set ctl = Forms!Employees!LastName 
+    strCtl = "Forms!Employees!LastName" 
+    MsgBox ("The current value of " & ctl.Name & " is " & Eval(strCtl))
+```
 
 You can use the **Eval** function to access expression operators that aren't ordinarily available in Visual Basic. For example, you can't use the SQL operators **Between...And** or **In** directly in your code, but you can use them in an expression passed to the **Eval** function.
 
 The next example determines whether the value of a ShipRegion control on an Orders form is one of several specified state abbreviations. If the field contains one of the abbreviations, `intState` will be **True** (1). Note that you use single quotation marks (') to include a string within another string.
 
-    ```vb
-     Dim intState As Integer 
-     intState = Eval("Forms!Orders!ShipRegion In " _ 
-     & "('AK', 'CA', 'ID', 'WA', 'MT', 'NM', 'OR')")
-    ```
+```vb
+    Dim intState As Integer 
+    intState = Eval("Forms!Orders!ShipRegion In " _ 
+    & "('AK', 'CA', 'ID', 'WA', 'MT', 'NM', 'OR')")
+```
 
 
 ## Example

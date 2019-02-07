@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Height property (Access)
 
-Gets or sets the height of the specified object in twips. Read/write  **Integer**.
+Gets or sets the height of the specified object in [twips](../language/glossary/vbe-glossary.md#twip). Read/write  **Integer**.
 
 
 ## Syntax

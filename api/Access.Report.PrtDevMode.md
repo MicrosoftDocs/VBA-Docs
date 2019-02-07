@@ -49,7 +49,7 @@ The  **PrtDevMode** property uses the following members.
 |Scale|An  **Integer** that specifies the factor by which the printed output will be scaled. The apparent page size is scaled from the physical page size by a factor of _scale_ /100. For example, a piece of paper measuring 8.5 by 11 inches (letter-size) with a Scale value of 50 would contain as much data as a page measuring 17 by 22 inches because the output text and graphics would be half their original height and width.|
 |Copies|An  **Integer** that specifies the number of copies printed if the printing device supports multiple-page copies.|
 |DefaultSource|An  **Integer** that specifies the default bin from which the paper is fed. For available values, see the [DefaultSource member values](overview/values-for-the-defaultsource-member.md).|
-|PrintQuality|An  **Integer** that specifies the printer resolution. The values are ?4 (high), ?3 (medium), ?2 (low), and ?1 (draft).|
+|PrintQuality|An  **Integer** that specifies the printer resolution. The values are 4 (high), 3 (medium), 2 (low), and 1 (draft).|
 |Color|An  **Integer**. For a color printer, specifies whether the output is printed in color. The values are 1 (color) and 2 (monochrome).|
 |Duplex|An  **Integer**. For a printer capable of duplex printing, specifies whether the output is printed on both sides of the paper. The values are 1 (simplex), 2 (horizontal), and 3 (vertical).|
 |YResolution|An  **Integer** that specifies the y-resolution of the printer in dots per inch (dpi). If the printer initializes this member, the PrintQuality member specifies the x-resolution of the printer in dpi.|

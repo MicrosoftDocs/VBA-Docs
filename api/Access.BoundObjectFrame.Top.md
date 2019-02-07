@@ -26,7 +26,7 @@ _expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectF
 
 ## Remarks
 
-In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
+In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
 
 ## See also

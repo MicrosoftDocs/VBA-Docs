@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.Attachment.BorderStyle
 ms.assetid: a1156f6c-5649-ddef-619d-d15a57bb581a
-ms.date: 06/08/2017
+ms.date: 02/07/2019
 localization_priority: Normal
 ---
 
 
 # Attachment.BorderStyle property (Access)
 
-Specifies how a control's border appears. Read/write  **Byte**.
+Specifies how a control's border appears. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `BorderStyle`
+_expression_.**BorderStyle**
 
-_expression_ A variable that represents an [Attachment](Access.Attachment.md) object.
+_expression_ A variable that represents an **[Attachment](Access.Attachment.md)** object.
 
 
 ## Remarks
 
-For controls, the  **BorderStyle** property uses the following settings.
-
-
+For controls, the **BorderStyle** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -42,14 +40,11 @@ For controls, the  **BorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-A control's border style is visible only when its  **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderStyle** property changes the **SpecialEffect** property setting to Flat.
-
-
-## See also
+A control's border style is visible only when its **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderStyle** property changes the **SpecialEffect** property setting to Flat.
 
 
-[Attachment Object](Access.Attachment.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
