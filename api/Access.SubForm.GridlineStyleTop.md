@@ -14,36 +14,33 @@ localization_priority: Normal
 
 # SubForm.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified subform. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified subform. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleTop`
+_expression_.**GridlineStyleTop**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **GridlineStyleTop** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[SubForm Object](Access.SubForm.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+
