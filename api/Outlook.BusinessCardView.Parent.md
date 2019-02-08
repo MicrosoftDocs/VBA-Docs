@@ -19,7 +19,7 @@ Returns the parent  **Object** of the specified object. Read-only.
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
 _expression_ A variable that represents a [BusinessCardView](./Outlook.BusinessCardView.md) object.
 

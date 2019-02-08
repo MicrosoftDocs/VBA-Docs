@@ -19,7 +19,7 @@ Returns or sets the name of the specified object. Read/write  **CustomLabel**.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 

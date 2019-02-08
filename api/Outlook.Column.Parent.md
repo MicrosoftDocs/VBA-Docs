@@ -19,7 +19,7 @@ Returns the parent object of the  **[Column](Outlook.Column.md)** object. Read-o
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
 _expression_ A variable that represents a [Column](./Outlook.Column.md) object.
 

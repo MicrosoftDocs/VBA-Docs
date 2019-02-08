@@ -19,7 +19,7 @@ Returns or sets a  **Variant** value that indicates if the object is locked.
 
 ## Syntax
 
-_expression_. `Locked`
+_expression_.**Locked**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

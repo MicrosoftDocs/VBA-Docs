@@ -16,7 +16,7 @@ Gets or sets the name of a  **Group2** object. Read/write **String**.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

@@ -19,7 +19,7 @@ Returns an  **IDispatch** interface on the ActiveX control or embedded or linked
 
 ## Syntax
 
- _expression_. `Object`
+ _expression_.**Object**
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

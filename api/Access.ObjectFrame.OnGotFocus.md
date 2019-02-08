@@ -19,7 +19,7 @@ Sets or returns the value of the  **On Got Focus** box in the **Properties** win
 
 ## Syntax
 
-_expression_. `OnGotFocus`
+_expression_.**OnGotFocus**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

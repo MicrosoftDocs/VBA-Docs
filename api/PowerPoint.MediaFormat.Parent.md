@@ -19,7 +19,7 @@ Returns the parent object for the specified object. Read-only.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

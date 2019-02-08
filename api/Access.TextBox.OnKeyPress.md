@@ -19,7 +19,7 @@ Sets or returns the value of the  **On Key Press** box in the **Properties** win
 
 ## Syntax
 
-_expression_. `OnKeyPress`
+_expression_.**OnKeyPress**
 
 _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 

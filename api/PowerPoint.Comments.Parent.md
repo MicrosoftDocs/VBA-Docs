@@ -19,7 +19,7 @@ Returns the parent object for the specified object.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
 _expression_ A variable that represents a [Comments](./PowerPoint.Comments.md) object.
 

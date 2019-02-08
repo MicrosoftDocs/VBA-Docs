@@ -16,7 +16,7 @@ Gets the parent of the  **Availabilities** object. Read-only **Resource**.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents an 'Availabilities' object.
 

@@ -16,7 +16,7 @@ Name property as it applies to the  **Application** and **Trendline** objects.
 
 Returns or sets the name of the object. Read/write String.
 
-_expression_. `Name`
+_expression_.**Name**
 
  _expression_ Required. An expression that returns one of the above objects.
 Name property as it applies to the  **Font** object.

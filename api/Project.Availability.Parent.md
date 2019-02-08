@@ -16,7 +16,7 @@ Gets the parent of the  **Availability** object. Read-only **Resource**.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 

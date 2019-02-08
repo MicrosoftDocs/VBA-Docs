@@ -16,7 +16,7 @@ Gets the parent of the  **Task** object. Read-only **Object**.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

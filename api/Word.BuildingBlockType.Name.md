@@ -19,7 +19,7 @@ Returns a  **String** that represents the localized name of a building block typ
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ An expression that returns a [BuildingBlockType](./Word.BuildingBlockType.md) object.
 

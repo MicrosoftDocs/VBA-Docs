@@ -19,7 +19,7 @@ Gets or sets the amount of space (in inches) between the toggle button and its l
 
 ## Syntax
 
-_expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
 _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 

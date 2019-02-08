@@ -19,7 +19,7 @@ Returns a  **String** value that represents the name of the **[Column](Outlook.C
 
 ## Syntax
 
-_expression_. `Name`
+_expression_.**Name**
 
 _expression_ A variable that represents a [Column](./Outlook.Column.md) object.
 

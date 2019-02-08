@@ -19,7 +19,7 @@ The  **ObjectPalette** property specifies the palette in the application used to
 
 ## Syntax
 
-_expression_. `ObjectPalette`
+_expression_.**ObjectPalette**
 
 _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 

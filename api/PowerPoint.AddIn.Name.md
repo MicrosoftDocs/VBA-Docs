@@ -19,7 +19,7 @@ The name (title) of the add-in for file types that are registered. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
 _expression_ A variable that represents an [AddIn](./PowerPoint.AddIn.md) object.
 

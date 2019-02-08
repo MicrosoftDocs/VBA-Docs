@@ -19,7 +19,7 @@ Sets or returns the value of the  **On Key Up** box in the **Properties** window
 
 ## Syntax
 
-_expression_. `OnKeyUp`
+_expression_.**OnKeyUp**
 
 _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 

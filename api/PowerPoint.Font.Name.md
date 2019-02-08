@@ -19,7 +19,7 @@ Returns or sets the name of the specified object. Read/write.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ A variable that represents a [Font](./PowerPoint.Font.md) object.
 

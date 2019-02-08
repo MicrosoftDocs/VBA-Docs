@@ -19,7 +19,7 @@ Returns or sets the height of the specified slicer, in points. Read/write.
 
 ## Syntax
 
-_expression_. `Height`
+_expression_.**Height**
 
 _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

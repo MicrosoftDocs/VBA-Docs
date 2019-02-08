@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the **Addins** colle
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ An expression that returns an '[AddIns](Word.addins.md)' collection.
 

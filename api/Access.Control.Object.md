@@ -19,7 +19,7 @@ You can use the  **Object** property in Visual Basic to return a reference to th
 
 ## Syntax
 
-_expression_. `Object`
+_expression_.**Object**
 
 _expression_ A variable that represents a [Control](Access.Control.md) object.
 

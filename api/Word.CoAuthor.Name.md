@@ -19,7 +19,7 @@ Returns a  **String** that contains the display name of the specified co author.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ An expression that returns a [CoAuthor](./Word.CoAuthor.md) object.
 

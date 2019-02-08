@@ -19,7 +19,7 @@ Returns a  **Boolean** value that indicates **True** if the form cannot be modif
 
 ## Syntax
 
-_expression_. `Locked`
+_expression_.**Locked**
 
 _expression_ A variable that represents a [FormDescription](./Outlook.FormDescription.md) object.
 

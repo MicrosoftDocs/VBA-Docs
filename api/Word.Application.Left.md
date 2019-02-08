@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the horizontal position of the activ
 
 ## Syntax
 
- _expression_. `Left`
+ _expression_.**Left**
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

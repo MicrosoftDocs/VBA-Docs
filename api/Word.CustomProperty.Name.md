@@ -19,7 +19,7 @@ Returns the name of the specified object. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ Required. A variable that represents a '[CustomProperty](Word.CustomProperty.md)' object.
 

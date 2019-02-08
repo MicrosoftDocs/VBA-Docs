@@ -19,7 +19,7 @@ Gets or sets the amount of space (in inches) between the text box and its left g
 
 ## Syntax
 
-_expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
 _expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
 

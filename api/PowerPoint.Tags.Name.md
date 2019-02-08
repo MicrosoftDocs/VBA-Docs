@@ -19,7 +19,7 @@ Returns the name of the specified tag as a  **String**.
 
 ## Syntax
 
- _expression_. `Name`( `_Index_` )
+ _expression_.**Name**( `_Index_` )
 
  _expression_ A variable that represents a [Tags](./PowerPoint.Tags.md) object.
 

@@ -19,7 +19,7 @@ You can use this property to set or returns the unedited value of the  **BorderS
 
 ## Syntax
 
-_expression_. `OldBorderStyle`
+_expression_.**OldBorderStyle** 
 
 _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 
