@@ -42,8 +42,8 @@ The _newattributes_ argument can have any of the following values or any logical
 |**Volume**|8|Disk drive volume label. Attribute is read-only.|
 |**Directory**|16|Folder or directory. Attribute is read-only.|
 |**Archive**|32|File has changed since last backup. Attribute is read/write.|
-|**Alias**|64|Link or shortcut. Attribute is read-only.|
-|**Compressed**|128|Compressed file. Attribute is read-only.|
+|**Alias**|1024|Link or shortcut. Attribute is read-only.|
+|**Compressed**|2048|Compressed file. Attribute is read-only.|
 
 ## Remarks
 
