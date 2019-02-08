@@ -1,5 +1,5 @@
 ---
-title: xlSubscribeToFormat enumeration (Excel)
+title: XlSubscribeToFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSubscribeToFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSubscribeToFormat enumeration (Excel)
+# XlSubscribeToFormat enumeration (Excel)
 
 Specifies the format to use when subscribing to a published edition.
 

@@ -1,5 +1,5 @@
 ---
-title: xlReadingOrder enumeration (Word)
+title: XlReadingOrder enumeration (Word)
 ms.prod: word
 api_name:
 - Word.XlReadingOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlReadingOrder enumeration (Word)
+# XlReadingOrder enumeration (Word)
 
 Specifies the reading order for the specified object.
 

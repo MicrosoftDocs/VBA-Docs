@@ -1,5 +1,5 @@
 ---
-title: xlAutoFilterOperator enumeration (Excel)
+title: XlAutoFilterOperator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAutoFilterOperator
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlAutoFilterOperator enumeration (Excel)
+# XlAutoFilterOperator enumeration (Excel)
 
 Specifies the operator to use to associate two criteria applied by a filter.
 

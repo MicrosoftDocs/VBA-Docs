@@ -1,5 +1,5 @@
 ---
-title: xlDataSeriesType enumeration (Excel)
+title: XlDataSeriesType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataSeriesType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDataSeriesType enumeration (Excel)
+# XlDataSeriesType enumeration (Excel)
 
 Specifies the data series to create.
 

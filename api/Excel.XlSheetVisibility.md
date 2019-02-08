@@ -1,5 +1,5 @@
 ---
-title: xlSheetVisibility enumeration (Excel)
+title: XlSheetVisibility enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSheetVisibility
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlSheetVisibility enumeration (Excel)
+# XlSheetVisibility enumeration (Excel)
 
 Specifies whether the object is visible.
 

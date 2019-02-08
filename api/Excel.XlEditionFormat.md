@@ -1,5 +1,5 @@
 ---
-title: xlEditionFormat enumeration (Excel)
+title: XlEditionFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEditionFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlEditionFormat enumeration (Excel)
+# XlEditionFormat enumeration (Excel)
 
 Specifies the format of the published edition. This enumeration is only for Macintosh and should not be used.
 

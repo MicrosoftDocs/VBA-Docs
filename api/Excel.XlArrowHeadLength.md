@@ -1,5 +1,5 @@
 ---
-title: xlArrowHeadLength enumeration (Excel)
+title: XlArrowHeadLength enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlArrowHeadLength
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlArrowHeadLength enumeration (Excel)
+# XlArrowHeadLength enumeration (Excel)
 
 Specifies the length of the arrowhead at the end of a line.
 

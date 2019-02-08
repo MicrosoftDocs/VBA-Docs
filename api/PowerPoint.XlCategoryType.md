@@ -1,5 +1,5 @@
 ---
-title: xlCategoryType Enumeration (PowerPoint)
+title: XlCategoryType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlCategoryType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCategoryType Enumeration (PowerPoint)
+# XlCategoryType Enumeration (PowerPoint)
 
 Specifies the type of the category axis.
 

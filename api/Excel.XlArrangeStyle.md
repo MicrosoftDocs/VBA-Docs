@@ -1,5 +1,5 @@
 ---
-title: xlArrangeStyle enumeration (Excel)
+title: XlArrangeStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlArrangeStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlArrangeStyle enumeration (Excel)
+# XlArrangeStyle enumeration (Excel)
 
 Specifies how windows are arranged on the screen.
 

@@ -1,5 +1,5 @@
 ---
-title: xlSizeRepresents Enumeration (PowerPoint)
+title: XlSizeRepresents Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlSizeRepresents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSizeRepresents Enumeration (PowerPoint)
+# XlSizeRepresents Enumeration (PowerPoint)
 
 Specifies what the bubble size represents on a bubble chart.
 

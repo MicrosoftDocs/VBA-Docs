@@ -1,5 +1,5 @@
 ---
-title: xlPageBreak enumeration (Excel)
+title: XlPageBreak enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPageBreak
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPageBreak enumeration (Excel)
+# XlPageBreak enumeration (Excel)
 
 Specifies page break location in the worksheet.
 

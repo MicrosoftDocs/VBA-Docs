@@ -1,5 +1,5 @@
 ---
-title: xlDisplayUnit enumeration (Office)
+title: XlDisplayUnit enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlDisplayUnit
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDisplayUnit enumeration (Office)
+# XlDisplayUnit enumeration (Office)
 
 Indicates numeric units of measurement.
 

@@ -1,5 +1,5 @@
 ---
-title: xlYesNoGuess enumeration (Excel)
+title: XlYesNoGuess enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlYesNoGuess
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlYesNoGuess enumeration (Excel)
+# XlYesNoGuess enumeration (Excel)
 
 Specifies whether or not the first row contains headers. Cannot be used when sorting PivotTable reports.
 

@@ -1,5 +1,5 @@
 ---
-title: xlLinkInfo enumeration (Excel)
+title: XlLinkInfo enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLinkInfo
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLinkInfo enumeration (Excel)
+# XlLinkInfo enumeration (Excel)
 
 Specifies the type of information the link will return.
 

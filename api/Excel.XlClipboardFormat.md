@@ -1,5 +1,5 @@
 ---
-title: xlClipboardFormat enumeration (Excel)
+title: XlClipboardFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlClipboardFormat
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlClipboardFormat enumeration (Excel)
+# XlClipboardFormat enumeration (Excel)
 
 Specifies the format of an item on the Microsoft Windows clipboard.
 

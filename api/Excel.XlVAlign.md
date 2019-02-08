@@ -1,5 +1,5 @@
 ---
-title: xlVAlign enumeration (Excel)
+title: XlVAlign enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlVAlign
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlVAlign enumeration (Excel)
+# XlVAlign enumeration (Excel)
 
 Specifies the vertical alignment for the object.
 

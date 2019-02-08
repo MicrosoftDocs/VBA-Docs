@@ -1,5 +1,5 @@
 ---
-title: xlCheckInVersionType enumeration (Excel)
+title: XlCheckInVersionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCheckInVersionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCheckInVersionType enumeration (Excel)
+# XlCheckInVersionType enumeration (Excel)
 
 Specifies the type of version for the document checked in when using the  **CheckIn** method. Applies to workbooks stored in a SharePoint library.
 

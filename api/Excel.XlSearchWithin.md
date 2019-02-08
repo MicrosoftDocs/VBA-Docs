@@ -1,5 +1,5 @@
 ---
-title: xlSearchWithin enumeration (Excel)
+title: XlSearchWithin enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSearchWithin
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSearchWithin enumeration (Excel)
+# XlSearchWithin enumeration (Excel)
 
 Specifies the extent of the search for the range.
 

@@ -1,5 +1,5 @@
 ---
-title: xlContainsOperator enumeration (Excel)
+title: XlContainsOperator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlContainsOperator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlContainsOperator enumeration (Excel)
+# XlContainsOperator enumeration (Excel)
 
 Specifies the operator used in a function.
 

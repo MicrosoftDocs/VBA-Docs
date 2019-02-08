@@ -1,5 +1,5 @@
 ---
-title: xlBorderWeight Enumeration (PowerPoint)
+title: XlBorderWeight Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlBorderWeight
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlBorderWeight Enumeration (PowerPoint)
+# XlBorderWeight Enumeration (PowerPoint)
 
 Specifies the weight of the border around a range.
 

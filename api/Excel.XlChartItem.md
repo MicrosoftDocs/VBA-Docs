@@ -1,5 +1,5 @@
 ---
-title: xlChartItem enumeration (Excel)
+title: XlChartItem enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlChartItem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartItem enumeration (Excel)
+# XlChartItem enumeration (Excel)
 
 Specifies the type of the chart item.
 

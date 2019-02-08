@@ -1,5 +1,5 @@
 ---
-title: xlSmartTagControlType enumeration (Excel)
+title: XlSmartTagControlType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSmartTagControlType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSmartTagControlType enumeration (Excel)
+# XlSmartTagControlType enumeration (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

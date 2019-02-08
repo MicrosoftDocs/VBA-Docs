@@ -1,5 +1,5 @@
 ---
-title: xlDataLabelPosition enumeration (Office)
+title: XlDataLabelPosition enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlDataLabelPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDataLabelPosition enumeration (Office)
+# XlDataLabelPosition enumeration (Office)
 
 Indicates the position of data labels relative to the data markers.
 

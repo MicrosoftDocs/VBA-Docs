@@ -1,5 +1,5 @@
 ---
-title: xlDynamicFilterCriteria enumeration (Excel)
+title: XlDynamicFilterCriteria enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDynamicFilterCriteria
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDynamicFilterCriteria enumeration (Excel)
+# XlDynamicFilterCriteria enumeration (Excel)
 
 Specifies the filter criterion.
 

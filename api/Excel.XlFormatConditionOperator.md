@@ -1,5 +1,5 @@
 ---
-title: xlFormatConditionOperator enumeration (Excel)
+title: XlFormatConditionOperator enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormatConditionOperator
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFormatConditionOperator enumeration (Excel)
+# XlFormatConditionOperator enumeration (Excel)
 
 Specifies the operator to use to compare a formula against the value in a cell or, for  **xlBetween** and **xlNotBetween** , to compare two formulas.
 

@@ -1,5 +1,5 @@
 ---
-title: xlLineStyle enumeration (Excel)
+title: XlLineStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLineStyle
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlLineStyle enumeration (Excel)
+# XlLineStyle enumeration (Excel)
 
 Specifies the line style for the border.
 

@@ -1,5 +1,5 @@
 ---
-title: xlAxisCrosses enumeration (Excel)
+title: XlAxisCrosses enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAxisCrosses
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAxisCrosses enumeration (Excel)
+# XlAxisCrosses enumeration (Excel)
 
 Specifies the point on the specified axis where the other axis crosses.
 

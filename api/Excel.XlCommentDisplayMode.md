@@ -1,5 +1,5 @@
 ---
-title: xlCommentDisplayMode enumeration (Excel)
+title: XlCommentDisplayMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCommentDisplayMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCommentDisplayMode enumeration (Excel)
+# XlCommentDisplayMode enumeration (Excel)
 
 Specifies the way that cells display comments and comment indicators.
 

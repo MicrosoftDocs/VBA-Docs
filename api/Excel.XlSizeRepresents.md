@@ -1,5 +1,5 @@
 ---
-title: xlSizeRepresents enumeration (Excel)
+title: XlSizeRepresents enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSizeRepresents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSizeRepresents enumeration (Excel)
+# XlSizeRepresents enumeration (Excel)
 
 Specifies what the bubble size represents on a bubble chart.
 

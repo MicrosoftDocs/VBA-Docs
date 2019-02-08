@@ -1,5 +1,5 @@
 ---
-title: xlErrorBarInclude enumeration (Excel)
+title: XlErrorBarInclude enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorBarInclude
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlErrorBarInclude enumeration (Excel)
+# XlErrorBarInclude enumeration (Excel)
 
 Specifies which error-bar parts to include.
 

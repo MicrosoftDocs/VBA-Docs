@@ -1,5 +1,5 @@
 ---
-title: xlHAlign enumeration (Excel)
+title: XlHAlign enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlHAlign
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlHAlign enumeration (Excel)
+# XlHAlign enumeration (Excel)
 
 Specifies the horizontal alignment for the object.
 

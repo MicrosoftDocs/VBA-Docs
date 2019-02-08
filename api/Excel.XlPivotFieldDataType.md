@@ -1,5 +1,5 @@
 ---
-title: xlPivotFieldDataType enumeration (Excel)
+title: XlPivotFieldDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotFieldDataType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPivotFieldDataType enumeration (Excel)
+# XlPivotFieldDataType enumeration (Excel)
 
 Specifies the type of data in the  **PivotTable** field.
 

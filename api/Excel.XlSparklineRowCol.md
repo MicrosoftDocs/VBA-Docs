@@ -1,5 +1,5 @@
 ---
-title: xlSparklineRowCol enumeration (Excel)
+title: XlSparklineRowCol enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSparklineRowCol
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSparklineRowCol enumeration (Excel)
+# XlSparklineRowCol enumeration (Excel)
 
 Specifies how to plot the sparkline when the data on which it is based is in a square-shaped range.
 

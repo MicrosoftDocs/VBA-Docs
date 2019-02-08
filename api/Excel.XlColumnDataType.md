@@ -1,5 +1,5 @@
 ---
-title: xlColumnDataType enumeration (Excel)
+title: XlColumnDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlColumnDataType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlColumnDataType enumeration (Excel)
+# XlColumnDataType enumeration (Excel)
 
 Specifies how a column is to be parsed.
 

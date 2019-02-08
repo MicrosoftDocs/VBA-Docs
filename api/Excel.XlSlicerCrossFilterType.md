@@ -1,5 +1,5 @@
 ---
-title: xlSlicerCrossFilterType enumeration (Excel)
+title: XlSlicerCrossFilterType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSlicerCrossFilterType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSlicerCrossFilterType enumeration (Excel)
+# XlSlicerCrossFilterType enumeration (Excel)
 
 Specifies the type of cross filtering used by the specified slicer cache and how it is visualized.
 

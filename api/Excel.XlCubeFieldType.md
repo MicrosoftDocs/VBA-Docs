@@ -1,5 +1,5 @@
 ---
-title: xlCubeFieldType enumeration (Excel)
+title: XlCubeFieldType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCubeFieldType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCubeFieldType enumeration (Excel)
+# XlCubeFieldType enumeration (Excel)
 
 Specifies whether the OLAP field is a hierarchy, set, or measure field.
 

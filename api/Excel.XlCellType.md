@@ -1,5 +1,5 @@
 ---
-title: xlCellType enumeration (Excel)
+title: XlCellType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCellType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlCellType enumeration (Excel)
+# XlCellType enumeration (Excel)
 
 Specifies the type of cells.
 

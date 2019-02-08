@@ -1,5 +1,5 @@
 ---
-title: xlSortMethodOld enumeration (Excel)
+title: XlSortMethodOld enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortMethodOld
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSortMethodOld enumeration (Excel)
+# XlSortMethodOld enumeration (Excel)
 
 Specifies how to sort when using East Asian sorting methods.
 

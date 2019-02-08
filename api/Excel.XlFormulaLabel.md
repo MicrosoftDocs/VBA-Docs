@@ -1,5 +1,5 @@
 ---
-title: xlFormulaLabel enumeration (Excel)
+title: XlFormulaLabel enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormulaLabel
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFormulaLabel enumeration (Excel)
+# XlFormulaLabel enumeration (Excel)
 
 Specifies the formula label type for the specified range.
 

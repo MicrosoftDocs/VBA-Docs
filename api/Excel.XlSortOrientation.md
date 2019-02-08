@@ -1,5 +1,5 @@
 ---
-title: xlSortOrientation enumeration (Excel)
+title: XlSortOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortOrientation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSortOrientation enumeration (Excel)
+# XlSortOrientation enumeration (Excel)
 
 Specifies the sort orientation.
 

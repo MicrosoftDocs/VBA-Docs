@@ -1,5 +1,5 @@
 ---
-title: xlMouseButton enumeration (Excel)
+title: XlMouseButton enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMouseButton
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlMouseButton enumeration (Excel)
+# XlMouseButton enumeration (Excel)
 
 Specifies which mouse button was pressed.
 

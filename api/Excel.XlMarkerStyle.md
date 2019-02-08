@@ -1,5 +1,5 @@
 ---
-title: xlMarkerStyle enumeration (Excel)
+title: XlMarkerStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMarkerStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlMarkerStyle enumeration (Excel)
+# XlMarkerStyle enumeration (Excel)
 
 Specifies the marker style for a point or series in a line chart, scatter chart, or radar chart.
 

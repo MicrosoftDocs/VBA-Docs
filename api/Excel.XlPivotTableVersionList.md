@@ -1,5 +1,5 @@
 ---
-title: xlPivotTableVersionList enumeration (Excel)
+title: XlPivotTableVersionList enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotTableVersionList
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlPivotTableVersionList enumeration (Excel)
+# XlPivotTableVersionList enumeration (Excel)
 
 Specifies the version of a PivotTable or a PivotCache. Creating PivotTables with a specific version ensures that tables created in Excel behave in the same manner as they did in the corresponding version of Excel.
 

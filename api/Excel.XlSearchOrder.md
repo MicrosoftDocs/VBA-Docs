@@ -1,5 +1,5 @@
 ---
-title: xlSearchOrder enumeration (Excel)
+title: XlSearchOrder enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSearchOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSearchOrder enumeration (Excel)
+# XlSearchOrder enumeration (Excel)
 
 Specifies the order in which to search the range.
 

@@ -1,5 +1,5 @@
 ---
-title: xlWindowType enumeration (Excel)
+title: XlWindowType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlWindowType enumeration (Excel)
+# XlWindowType enumeration (Excel)
 
 Specifies how the chart is displayed.
 

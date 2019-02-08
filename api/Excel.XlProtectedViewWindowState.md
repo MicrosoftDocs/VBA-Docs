@@ -1,5 +1,5 @@
 ---
-title: xlProtectedViewWindowState enumeration (Excel)
+title: XlProtectedViewWindowState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlProtectedViewWindowState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlProtectedViewWindowState enumeration (Excel)
+# XlProtectedViewWindowState enumeration (Excel)
 
 Specifies the state of the  **Protected View** window.
 

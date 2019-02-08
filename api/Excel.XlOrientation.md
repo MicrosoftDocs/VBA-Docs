@@ -1,5 +1,5 @@
 ---
-title: xlOrientation enumeration (Excel)
+title: XlOrientation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOrientation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlOrientation enumeration (Excel)
+# XlOrientation enumeration (Excel)
 
 Specifies the text orientation.
 

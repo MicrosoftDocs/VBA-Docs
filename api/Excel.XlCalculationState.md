@@ -1,5 +1,5 @@
 ---
-title: xlCalculationState enumeration (Excel)
+title: XlCalculationState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalculationState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCalculationState enumeration (Excel)
+# XlCalculationState enumeration (Excel)
 
 Specifies the calculation state of the application.
 

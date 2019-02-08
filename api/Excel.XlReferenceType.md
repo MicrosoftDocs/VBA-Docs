@@ -1,5 +1,5 @@
 ---
-title: xlReferenceType enumeration (Excel)
+title: XlReferenceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlReferenceType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlReferenceType enumeration (Excel)
+# XlReferenceType enumeration (Excel)
 
 Specifies cell reference style when a formula is being converted.
 

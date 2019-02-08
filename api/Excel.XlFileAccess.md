@@ -1,5 +1,5 @@
 ---
-title: xlFileAccess enumeration (Excel)
+title: XlFileAccess enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFileAccess
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFileAccess enumeration (Excel)
+# XlFileAccess enumeration (Excel)
 
 Specifies the new access mode for the object.
 

@@ -1,5 +1,5 @@
 ---
-title: xlOrder enumeration (Excel)
+title: XlOrder enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlOrder enumeration (Excel)
+# XlOrder enumeration (Excel)
 
 Specifies the order in which cells are processed.
 

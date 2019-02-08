@@ -1,5 +1,5 @@
 ---
-title: xlMSApplication enumeration (Excel)
+title: XlMSApplication enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMSApplication
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlMSApplication enumeration (Excel)
+# XlMSApplication enumeration (Excel)
 
 Specifies a Microsoft application.
 

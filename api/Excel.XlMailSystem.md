@@ -1,5 +1,5 @@
 ---
-title: xlMailSystem enumeration (Excel)
+title: XlMailSystem enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMailSystem
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlMailSystem enumeration (Excel)
+# XlMailSystem enumeration (Excel)
 
 Specifies the mail system that is installed on the host computer.
 

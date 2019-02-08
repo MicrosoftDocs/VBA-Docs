@@ -1,5 +1,5 @@
 ---
-title: xlChartGallery enumeration (Excel)
+title: XlChartGallery enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlChartGallery
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartGallery enumeration (Excel)
+# XlChartGallery enumeration (Excel)
 
 Specifies a chart gallery.
 

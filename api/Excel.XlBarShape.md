@@ -1,5 +1,5 @@
 ---
-title: xlBarShape enumeration (Excel)
+title: XlBarShape enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlBarShape
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlBarShape enumeration (Excel)
+# XlBarShape enumeration (Excel)
 
 Specifies the shape used with the 3-D bar or column chart.
 

@@ -1,5 +1,5 @@
 ---
-title: xlCVError enumeration (Excel)
+title: XlCVError enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCVError
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCVError enumeration (Excel)
+# XlCVError enumeration (Excel)
 
 Specifies the cell error number and value.
 

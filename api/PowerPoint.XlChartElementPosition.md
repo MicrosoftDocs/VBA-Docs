@@ -1,5 +1,5 @@
 ---
-title: xlChartElementPosition Enumeration (PowerPoint)
+title: XlChartElementPosition Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartElementPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartElementPosition Enumeration (PowerPoint)
+# XlChartElementPosition Enumeration (PowerPoint)
 
 Specifies the position of the chart element.
 

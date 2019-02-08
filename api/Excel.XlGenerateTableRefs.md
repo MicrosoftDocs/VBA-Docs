@@ -1,5 +1,5 @@
 ---
-title: xlGenerateTableRefs enumeration (Excel)
+title: XlGenerateTableRefs enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlGenerateTableRefs
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlGenerateTableRefs enumeration (Excel)
+# XlGenerateTableRefs enumeration (Excel)
 
 Specifies the type of table references.
 

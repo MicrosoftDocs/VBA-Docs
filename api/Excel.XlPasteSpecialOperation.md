@@ -1,5 +1,5 @@
 ---
-title: xlPasteSpecialOperation enumeration (Excel)
+title: XlPasteSpecialOperation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPasteSpecialOperation
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlPasteSpecialOperation enumeration (Excel)
+# XlPasteSpecialOperation enumeration (Excel)
 
 Specifies how numeric data will be calculated with the destinations cells in the worksheet.
 

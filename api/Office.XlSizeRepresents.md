@@ -1,5 +1,5 @@
 ---
-title: xlSizeRepresents enumeration (Office)
+title: XlSizeRepresents enumeration (Office)
 ms.prod: office
 api_name:
 - Office.XlSizeRepresents
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSizeRepresents enumeration (Office)
+# XlSizeRepresents enumeration (Office)
 
 Indicates what the size measurement is in relation to (area or width).
 

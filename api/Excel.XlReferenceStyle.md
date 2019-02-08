@@ -1,5 +1,5 @@
 ---
-title: xlReferenceStyle enumeration (Excel)
+title: XlReferenceStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlReferenceStyle
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlReferenceStyle enumeration (Excel)
+# XlReferenceStyle enumeration (Excel)
 
 Specifies the reference style.
 

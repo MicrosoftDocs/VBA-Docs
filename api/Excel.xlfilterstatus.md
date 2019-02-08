@@ -1,5 +1,5 @@
 ---
-title: xlFilterStatus enumeration (Excel)
+title: XlFilterStatus enumeration (Excel)
 ms.prod: excel
 ms.assetid: 996a9bbc-27d3-93a6-dc83-0b8a930f6e2a
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlFilterStatus enumeration (Excel)
+# XlFilterStatus enumeration (Excel)
 
 Used to return a status from filter functions.
 

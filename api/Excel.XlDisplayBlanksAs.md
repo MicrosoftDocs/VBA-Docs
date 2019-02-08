@@ -1,5 +1,5 @@
 ---
-title: xlDisplayBlanksAs enumeration (Excel)
+title: XlDisplayBlanksAs enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDisplayBlanksAs
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDisplayBlanksAs enumeration (Excel)
+# XlDisplayBlanksAs enumeration (Excel)
 
 Specifies how blank cells are plotted on a chart.
 

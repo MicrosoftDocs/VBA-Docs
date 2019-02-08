@@ -1,5 +1,5 @@
 ---
-title: xlListObjectSourceType enumeration (Excel)
+title: XlListObjectSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlListObjectSourceType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlListObjectSourceType enumeration (Excel)
+# XlListObjectSourceType enumeration (Excel)
 
 Specifies the current source of the list.
 

@@ -1,5 +1,5 @@
 ---
-title: xlArrowHeadWidth enumeration (Excel)
+title: XlArrowHeadWidth enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlArrowHeadWidth
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlArrowHeadWidth enumeration (Excel)
+# XlArrowHeadWidth enumeration (Excel)
 
 Specifies the width of the arrowhead at the end of a line.
 

@@ -1,5 +1,5 @@
 ---
-title: xlPrintErrors enumeration (Excel)
+title: XlPrintErrors enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPrintErrors
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPrintErrors enumeration (Excel)
+# XlPrintErrors enumeration (Excel)
 
 Specifies the type of print error displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: xlOartVerticalOverflow enumeration (Excel)
+title: XlOartVerticalOverflow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlOartVerticalOverflow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlOartVerticalOverflow enumeration (Excel)
+# XlOartVerticalOverflow enumeration (Excel)
 
 Specifies the vertical overflow setting for a text frame.
 

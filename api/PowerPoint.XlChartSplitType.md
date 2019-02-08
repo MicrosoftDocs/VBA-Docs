@@ -1,5 +1,5 @@
 ---
-title: xlChartSplitType Enumeration (PowerPoint)
+title: XlChartSplitType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartSplitType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartSplitType Enumeration (PowerPoint)
+# XlChartSplitType Enumeration (PowerPoint)
 
 Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
 

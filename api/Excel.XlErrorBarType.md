@@ -1,5 +1,5 @@
 ---
-title: xlErrorBarType enumeration (Excel)
+title: XlErrorBarType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorBarType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlErrorBarType enumeration (Excel)
+# XlErrorBarType enumeration (Excel)
 
 Specifies the range marked by error bars.
 

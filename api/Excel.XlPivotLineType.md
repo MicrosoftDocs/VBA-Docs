@@ -1,5 +1,5 @@
 ---
-title: xlPivotLineType enumeration (Excel)
+title: XlPivotLineType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPivotLineType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPivotLineType enumeration (Excel)
+# XlPivotLineType enumeration (Excel)
 
 Specifies the type of the PivotLine.
 

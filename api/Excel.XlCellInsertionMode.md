@@ -1,5 +1,5 @@
 ---
-title: xlCellInsertionMode enumeration (Excel)
+title: XlCellInsertionMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCellInsertionMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCellInsertionMode enumeration (Excel)
+# XlCellInsertionMode enumeration (Excel)
 
 Specifies the way that rows on the specified worksheet are added or deleted to accommodate the number of rows in a recordset returned by a query.
 

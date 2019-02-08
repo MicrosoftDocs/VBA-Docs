@@ -1,5 +1,5 @@
 ---
-title: xlSourceType enumeration (Excel)
+title: XlSourceType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSourceType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSourceType enumeration (Excel)
+# XlSourceType enumeration (Excel)
 
 Identifies the source object.
 

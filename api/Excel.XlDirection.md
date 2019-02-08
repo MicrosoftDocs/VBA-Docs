@@ -1,5 +1,5 @@
 ---
-title: xlDirection enumeration (Excel)
+title: XlDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDirection
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlDirection enumeration (Excel)
+# XlDirection enumeration (Excel)
 
 Specifies the direction in which to move.
 

@@ -1,5 +1,5 @@
 ---
-title: xlTextParsingType enumeration (Excel)
+title: XlTextParsingType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTextParsingType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlTextParsingType enumeration (Excel)
+# XlTextParsingType enumeration (Excel)
 
 Specifies the column format for the data in the text file that you are importing into a query table.
 

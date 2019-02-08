@@ -1,5 +1,5 @@
 ---
-title: xlPortugueseReform enumeration (Excel)
+title: XlPortugueseReform enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPortugueseReform
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPortugueseReform enumeration (Excel)
+# XlPortugueseReform enumeration (Excel)
 
 Specifies the mode for checking the spelling of Portuguese.
 

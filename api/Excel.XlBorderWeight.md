@@ -1,5 +1,5 @@
 ---
-title: xlBorderWeight enumeration (Excel)
+title: XlBorderWeight enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlBorderWeight
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlBorderWeight enumeration (Excel)
+# XlBorderWeight enumeration (Excel)
 
 Specifies the weight of the border around a range.
 

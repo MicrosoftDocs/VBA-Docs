@@ -1,5 +1,5 @@
 ---
-title: xlRemoveDocInfoType enumeration (Excel)
+title: XlRemoveDocInfoType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRemoveDocInfoType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlRemoveDocInfoType enumeration (Excel)
+# XlRemoveDocInfoType enumeration (Excel)
 
 Specifies the type information to be removed from the document information.
 

@@ -1,5 +1,5 @@
 ---
-title: xlAboveBelow enumeration (Excel)
+title: XlAboveBelow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAboveBelow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAboveBelow enumeration (Excel)
+# XlAboveBelow enumeration (Excel)
 
 Specifies if the values are above or below average.
 

@@ -1,5 +1,5 @@
 ---
-title: xlSubtototalLocationType enumeration (Excel)
+title: XlSubtototalLocationType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSubtototalLocationType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSubtototalLocationType enumeration (Excel)
+# XlSubtototalLocationType enumeration (Excel)
 
 Specifies where the subtotal will be displayed on the worksheet.
 

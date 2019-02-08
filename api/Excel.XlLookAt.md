@@ -1,5 +1,5 @@
 ---
-title: xlLookAt enumeration (Excel)
+title: XlLookAt enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLookAt
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlLookAt enumeration (Excel)
+# XlLookAt enumeration (Excel)
 
 Specifies whether a match is made against the whole of the search text or any part of the search text.
 

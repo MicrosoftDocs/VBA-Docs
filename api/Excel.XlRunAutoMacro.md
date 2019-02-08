@@ -1,5 +1,5 @@
 ---
-title: xlRunAutoMacro enumeration (Excel)
+title: XlRunAutoMacro enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRunAutoMacro
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlRunAutoMacro enumeration (Excel)
+# XlRunAutoMacro enumeration (Excel)
 
 Specifies the automatic macro to run.
 

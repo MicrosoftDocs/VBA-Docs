@@ -1,5 +1,5 @@
 ---
-title: xlPictureConvertorType enumeration (Excel)
+title: XlPictureConvertorType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPictureConvertorType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPictureConvertorType enumeration (Excel)
+# XlPictureConvertorType enumeration (Excel)
 
 Specifies how to convert a graphic.
 

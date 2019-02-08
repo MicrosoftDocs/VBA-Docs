@@ -1,5 +1,5 @@
 ---
-title: xlThemeFont enumeration (Excel)
+title: XlThemeFont enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlThemeFont
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlThemeFont enumeration (Excel)
+# XlThemeFont enumeration (Excel)
 
 Specifies the theme font to use.
 

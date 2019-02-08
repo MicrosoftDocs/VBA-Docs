@@ -1,5 +1,5 @@
 ---
-title: xlFileFormat enumeration (Excel)
+title: XlFileFormat enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFileFormat
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlFileFormat enumeration (Excel)
+# XlFileFormat enumeration (Excel)
 
 Specifies the file format when saving the worksheet.
 

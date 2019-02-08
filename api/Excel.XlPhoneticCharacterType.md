@@ -1,5 +1,5 @@
 ---
-title: xlPhoneticCharacterType enumeration (Excel)
+title: XlPhoneticCharacterType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPhoneticCharacterType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPhoneticCharacterType enumeration (Excel)
+# XlPhoneticCharacterType enumeration (Excel)
 
 Specifies the type of phonetic text in a cell.
 

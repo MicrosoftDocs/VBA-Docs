@@ -1,5 +1,5 @@
 ---
-title: xlXmlExportResult enumeration (Excel)
+title: XlXmlExportResult enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlExportResult
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlXmlExportResult enumeration (Excel)
+# XlXmlExportResult enumeration (Excel)
 
 Specifies the results of the save or export operation.
 

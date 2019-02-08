@@ -1,5 +1,5 @@
 ---
-title: xlIconSet enumeration (Excel)
+title: XlIconSet enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlIconSet
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlIconSet enumeration (Excel)
+# XlIconSet enumeration (Excel)
 
 Specifies the type of icon set.
 

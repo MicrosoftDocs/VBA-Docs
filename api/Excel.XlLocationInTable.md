@@ -1,5 +1,5 @@
 ---
-title: xlLocationInTable enumeration (Excel)
+title: XlLocationInTable enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLocationInTable
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLocationInTable enumeration (Excel)
+# XlLocationInTable enumeration (Excel)
 
 Specifies the part of the PivotTable report that contains the upper-left corner of a range.
 

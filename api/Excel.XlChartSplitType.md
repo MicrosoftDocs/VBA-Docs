@@ -1,5 +1,5 @@
 ---
-title: xlChartSplitType enumeration (Excel)
+title: XlChartSplitType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartSplitType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartSplitType enumeration (Excel)
+# XlChartSplitType enumeration (Excel)
 
 Specifies the values displayed in the second chart in a pie chart or a bar of pie chart.
 

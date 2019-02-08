@@ -1,5 +1,5 @@
 ---
-title: xlTrendlineType Enumeration (PowerPoint)
+title: XlTrendlineType Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlTrendlineType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlTrendlineType Enumeration (PowerPoint)
+# XlTrendlineType Enumeration (PowerPoint)
 
 Specifies how the trendline that smoothes out fluctuations in the data is calculated.
 

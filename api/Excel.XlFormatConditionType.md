@@ -1,5 +1,5 @@
 ---
-title: xlFormatConditionType enumeration (Excel)
+title: XlFormatConditionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormatConditionType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlFormatConditionType enumeration (Excel)
+# XlFormatConditionType enumeration (Excel)
 
 Specifies whether the conditional format is based on a cell value or an expression.
 

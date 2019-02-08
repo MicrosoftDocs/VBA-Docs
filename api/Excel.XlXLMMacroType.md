@@ -1,5 +1,5 @@
 ---
-title: xlXLMMacroType enumeration (Excel)
+title: XlXLMMacroType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXLMMacroType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlXLMMacroType enumeration (Excel)
+# XlXLMMacroType enumeration (Excel)
 
 Specifies, in a Microsoft Excel version 4 macro worksheet, what type of macro a name refers to or whether the name refers to a macro.
 

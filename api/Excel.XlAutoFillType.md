@@ -1,5 +1,5 @@
 ---
-title: xlAutoFillType enumeration (Excel)
+title: XlAutoFillType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAutoFillType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlAutoFillType enumeration (Excel)
+# XlAutoFillType enumeration (Excel)
 
 Specifies how the target range is to be filled, based on the contents of the source range.
 

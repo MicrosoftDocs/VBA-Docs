@@ -1,5 +1,5 @@
 ---
-title: xlAllocationMethod enumeration (Excel)
+title: XlAllocationMethod enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAllocationMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAllocationMethod enumeration (Excel)
+# XlAllocationMethod enumeration (Excel)
 
 Specifies the method to use to allocate values when performing what-if analysis on a PivotTable report based on an OLAP data source.
 
