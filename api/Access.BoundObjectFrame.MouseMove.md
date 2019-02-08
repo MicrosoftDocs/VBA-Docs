@@ -36,29 +36,24 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-- The **MouseMove** event applies only to forms, form sections, and controls on a form, not controls on a report.
+The **MouseMove** event applies only to forms, form sections, and controls on a form, and not to controls on a report.
     
-- This event does not apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Pressing and releasing a mouse button in an attached label has the same effect as pressing and releasing the button in the associated control. The normal events for the control occur; no separate events occur for the attached label.
+This event does not apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Pressing and releasing a mouse button in an attached label has the same effect as pressing and releasing the button in the associated control. The normal events for the control occur; no separate events occur for the attached label.
     
-
-
 To run a macro or event procedure when these events occur, set the **OnMouseMove** property to the name of the macro or to [Event Procedure].
 
-The **MouseMove** event is generated continually as the mouse pointer moves over objects. Unless another object generates a mouse event, an object recognizes a MouseMove event whenever the mouse pointer is positioned within its borders.
+The **MouseMove** event is generated continually as the mouse pointer moves over objects. Unless another object generates a mouse event, an object recognizes a **MouseMove** event whenever the mouse pointer is positioned within its borders.
 
 To cause a **MouseMove** event for a form to occur, move the mouse pointer over a blank area, record selector, or scroll bar on the form. To cause a **MouseMove** event for a form section to occur, move the mouse pointer over a blank area of the form section.
 
 To respond to an event caused by moving the mouse, you use a **MouseMove** event.
-
-
- **Note**  
 
 To run a macro or event procedure in response to pressing and releasing the mouse buttons, you use the **MouseDown** and **MouseUp** events.
 
 
 ## Example
 
-The following example determines where the mouse is and whether the left mouse button and/or the SHIFT key is pressed. The x and y coordinates of the mouse pointer position are displayed in a label control as you move the mouse.
+The following example determines where the mouse is and whether the left mouse button and/or the Shift key is pressed. The x and y coordinates of the mouse pointer position are displayed in a label control as you move the mouse.
 
 
 ```vb
@@ -80,9 +75,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
