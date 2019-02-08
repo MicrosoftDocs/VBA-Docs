@@ -14,30 +14,33 @@ localization_priority: Normal
 
 # Image.GridlineStyleLeft property (Access)
 
-Gets or sets the width of the bottom gridline for the specified image. Read/write  **Byte**.
+Gets or sets the left gridline style of the specified image. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleLeft`
+_expression_.**GridlineStyleLeft**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineStyleLeft** property uses the following settings.
 
-
-
-|Setting|Description|
+|Setting|Gridline type|
 |:-----|:-----|
-|0| Hairline. This is the narrowest border possible on your system.|
-|1 to 6|The width as indicated in points. The default setting is 1 point.|
+|0 (default)|Transparent|
+|1|Solid|
+|2|Dashes|
+|3|Short dashes|
+|4|Dots|
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
-## See also
 
-
-[Image Object](Access.Image.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+
