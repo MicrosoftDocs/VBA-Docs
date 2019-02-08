@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Application`
+_expression_.**Application**
 
 _expression_ A variable that represents a [ProtectedViewWindows](Excel.ProtectedViewWindows.md) object.
 

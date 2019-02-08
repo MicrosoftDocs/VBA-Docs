@@ -19,7 +19,7 @@ Returns the distance, in points, from the top edge of the object to the top of r
 
 ## Syntax
 
- _expression_. `Top`
+ _expression_.**Top**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

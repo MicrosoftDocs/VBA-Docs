@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the width (in pixels) of the specified ob
 
 ## Syntax
 
-_expression_. `Width`
+_expression_.**Width**
 
 _expression_ A variable that represents an [Inspector](./Outlook.Inspector.md) object.
 

@@ -17,7 +17,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 ## Syntax
 
-_expression_. `Application`
+_expression_.**Application**
 
 _expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
 

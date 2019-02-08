@@ -19,7 +19,7 @@ Returns or sets a  **Long** indicating the position (in pixels) of the top horiz
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
 _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) object.
 

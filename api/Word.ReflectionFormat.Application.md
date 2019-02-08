@@ -19,7 +19,7 @@ Returns an [Application](Word.Application.md) object that represents the Microso
 
 ## Syntax
 
- _expression_. `Application`
+ _expression_.**Application**
 
  _expression_ An expression that returns a [ReflectionFormat](./Word.ReflectionFormat.md) object.
 

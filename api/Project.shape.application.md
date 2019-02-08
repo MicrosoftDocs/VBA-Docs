@@ -12,7 +12,7 @@ Gets the  **[Application Object (Project)](Project.Application.md)** object. Rea
 
 ## Syntax
 
- _expression_. `Application`
+ _expression_.**Application**
 
  _expression_ A variable that represents a 'Shape' object.
 

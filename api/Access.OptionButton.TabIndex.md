@@ -19,7 +19,7 @@ You can use the  **TabIndex** property to specify a control's place in the tab o
 
 ## Syntax
 
-_expression_. `TabIndex`
+_expression_.**TabIndex**
 
 _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
 _expression_ A variable that represents a [Legend](Excel.Legend-graph-property.md) object.
 

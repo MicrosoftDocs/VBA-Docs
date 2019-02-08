@@ -19,7 +19,7 @@ Returns or sets the width of a table cell, in points. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `Width`
+ _expression_.**Width**
 
  _expression_ A variable that represents a '[Cell](Word.Cell.md)' object.
 

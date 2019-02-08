@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Visible`
+ _expression_.**Visible**
 
  _expression_ An expression that represents a [FillFormat](./Word.FillFormat.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **String** value that represents the name of the specified style.
 
 ## Syntax
 
-_expression_. `Value`
+_expression_.**Value**
 
 _expression_ A variable that represents a [Style](./Excel.Style.md) object.
 
