@@ -19,7 +19,7 @@ Gets or sets the shade that is applied to the theme color in the  **BackColor** 
 
 ## Syntax
 
-_expression_. `BackShade`
+_expression_.**BackShade**
 
 _expression_ A variable that represents a '[CommandButton](Access.CommandButton.md)' object.
 

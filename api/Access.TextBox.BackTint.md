@@ -19,7 +19,7 @@ Gets or sets the tint that is applied to the theme color in the  **BackColor** p
 
 ## Syntax
 
-_expression_. `BackTint`
+_expression_.**BackTint**
 
 _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 

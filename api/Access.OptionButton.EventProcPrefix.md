@@ -19,7 +19,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
 ## Syntax
 
-_expression_. `EventProcPrefix`
+_expression_.**EventProcPrefix**
 
 _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the width of all columns in the specified range. Read/write **Do
 
 ## Syntax
 
-_expression_. `ColumnWidth`
+_expression_.**ColumnWidth**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

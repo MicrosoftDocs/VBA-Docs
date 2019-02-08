@@ -19,7 +19,7 @@ You can use the  **DisplayType** property to specify whether Microsoft Access di
 
 ## Syntax
 
-_expression_. `DisplayType`
+_expression_.**DisplayType**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

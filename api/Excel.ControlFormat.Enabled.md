@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `Enabled`
+_expression_.**Enabled**
 
 _expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
 

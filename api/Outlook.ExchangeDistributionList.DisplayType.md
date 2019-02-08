@@ -19,7 +19,7 @@ Returns  **olDistList** which is a constant from the **[OlDisplayType](Outlook.O
 
 ## Syntax
 
-_expression_. `DisplayType`
+_expression_.**DisplayType**
 
 _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 

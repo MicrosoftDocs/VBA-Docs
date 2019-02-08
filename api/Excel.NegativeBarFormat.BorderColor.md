@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `BorderColor`
+_expression_.**BorderColor**
 
 _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBarFormat.md)' object.
 

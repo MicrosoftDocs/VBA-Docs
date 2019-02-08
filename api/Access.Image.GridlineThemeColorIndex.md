@@ -19,7 +19,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 ## Syntax
 
-_expression_. `GridlineThemeColorIndex`
+_expression_.**GridlineThemeColorIndex**
 
 _expression_ A variable that represents an [Image](Access.Image.md) object.
 

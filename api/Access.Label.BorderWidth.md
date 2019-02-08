@@ -19,7 +19,7 @@ You can use the  **BorderWidth** property to specify the width of a control's bo
 
 ## Syntax
 
-_expression_. `BorderWidth`
+_expression_.**BorderWidth**
 
 _expression_ A variable that represents a [Label](Access.Label.md) object.
 

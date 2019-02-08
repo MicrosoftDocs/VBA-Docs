@@ -19,7 +19,7 @@ Returns or sets the gridline color as an RGB value. Read/write  **Long**.
 
 ## Syntax
 
-_expression_. `GridlineColor`
+_expression_.**GridlineColor**
 
 _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 

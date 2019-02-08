@@ -19,7 +19,7 @@ Returns a constant belonging to the  **[OlDisplayType](Outlook.OlDisplayType.md)
 
 ## Syntax
 
-_expression_. `DisplayType`
+_expression_.**DisplayType**
 
 _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry.md) object.
 

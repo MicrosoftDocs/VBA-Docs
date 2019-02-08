@@ -19,7 +19,7 @@ You can use the  **Class** property to specify or determine the class name of an
 
 ## Syntax
 
-_expression_. `Class`
+_expression_.**Class**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
