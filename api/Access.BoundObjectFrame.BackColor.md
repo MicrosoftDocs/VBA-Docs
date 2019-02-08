@@ -7,35 +7,35 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.BackColor
 ms.assetid: 84bad360-2e1d-0f8d-2751-c2d23fa8bb23
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.BackColor property (Access)
 
-Gets or sets the interior color of the specified object. Read/write  **Long**.
+Gets or sets the interior color of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `BackColor`
+_expression_.**BackColor**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
+The **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-To use the  **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
+To use the **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
 
 
 ## Example
 
-The following example uses the  **RGB** function to set the , **BackColor**, and **ForeColor** properties depending on the value of the `txtPastDue` text box. You can also use the **QBColor** function to set these properties. Putting the following code in the Form_Current( ) event sets the control display characteristics as soon as the user opens a form or moves to a new record.
+The following example uses the **RGB** function to set the **BorderColor**, **BackColor**, and **ForeColor** properties depending on the value of the `txtPastDue` text box. You can also use the **QBColor** function to set these properties. Putting the following code in the **Form_Current( )** event sets the control display characteristics as soon as the user opens a form or moves to a new record.
 
 
 ```vb
@@ -65,9 +65,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

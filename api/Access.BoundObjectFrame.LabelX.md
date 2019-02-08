@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.LabelX
 ms.assetid: 1e2dcc6f-f192-aac2-060c-9b848ca18d10
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -22,7 +22,7 @@ The  **LabelX** property (along with the **LabelY** property) specifies the plac
 
 _expression_. `LabelX`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

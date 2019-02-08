@@ -49,17 +49,15 @@ Unlike the **LostFocus** event, the **Exit** event does not occur when a form lo
 
 If you move the focus to a control on a form, and that control doesn't have the focus on that form, the **Exit** and **LostFocus** events for the control that does have the focus on the form occur before the **Enter** and **GotFocus** events for the control to which you moved.
 
-If you use the mouse to move the focus from a control on a main form to a control on a subform of that form (a control that doesn't already have the focus on the subform), the following events occur.
+If you use the mouse to move the focus from a control on a main form to a control on a subform of that form (a control that doesn't already have the focus on the subform), the following events occur:
 
-|Control|Event|
-|:--|:--|
-|**Exit** (for the control on the main form)|?|
-|**LostFocus** (for the control on the main form)|?|
-|**Enter** (for the subform control)|?|
-|**Exit** (for the control on the subform that had the focus)|?|
-|**LostFocus** (for the control on the subform that had the focus)|?|
-|**Enter** (for the control on the subform to which the focus moved)|?|
-|**GotFocus** (for the control on the subform to which the focus moved)|?|
+- **Exit** (for the control on the main form)
+- **LostFocus** (for the control on the main form)
+- **Enter** (for the subform control)
+- **Exit** (for the control on the subform that had the focus)
+- **LostFocus** (for the control on the subform that had the focus)
+- **Enter** (for the control on the subform to which the focus moved)
+- **GotFocus** (for the control on the subform to which the focus moved)
 
 If the control you move to on the subform previously had the focus, neither its **Enter** event nor its **GotFocus** event occurs, but the **Enter** event for the subform control does occur. If you move the focus from a control on a subform to a control on the main form, the **Exit** and **LostFocus** events for the control on the subform don't occur, just the **Exit** event for the subform control and the **Enter** and **GotFocus** events for the control on the main form.
 

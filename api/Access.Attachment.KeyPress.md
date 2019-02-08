@@ -50,18 +50,16 @@ A **KeyPress** event can involve any printable keyboard character, the Ctrl key 
 
 The **KeyDown** and **KeyPress** events occur when you press or send an ANSI key. The **KeyUp** event occurs after any event for a control caused by pressing or sending the key. If a keystroke causes the focus to move from one control to another control, the **KeyDown** event occurs for the first control, while the **KeyPress** and **KeyUp** events occur for the second control.
 
-For example, if you go to a new record and type a character in the first control in the record, the following events occur.
+For example, if you go to a new record and type a character in the first control in the record, the following events occur:
 
-|Control|Event|
-|:--|:--|
-|**Current** (for the new record)|?|
-|**Enter** (for the first control in the new record)|?|
-|**GotFocus** (for the control)|?|
-|**KeyDown** (for the control)|?|
-|**KeyPress** (for the control)|?|
-|**BeforeInsert** (for the new record in the form)|?|
-|**Change** (for the control if it's a text box or combo box)|?|
-|**KeyUp** (for the control)|?|
+- **Current** (for the new record)
+- **Enter** (for the first control in the new record)
+- **GotFocus** (for the control)
+- **KeyDown** (for the control)
+- **KeyPress** (for the control)
+- **BeforeInsert** (for the new record in the form)
+- **Change** (for the control if it's a text box or combo box)
+- **KeyUp** (for the control)
 
 
 

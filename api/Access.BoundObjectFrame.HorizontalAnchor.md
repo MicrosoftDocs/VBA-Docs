@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.HorizontalAnchor
 ms.assetid: b6f0b03d-8c64-ca0e-1efc-1b017aa6b615
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
@@ -21,7 +21,7 @@ Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant
 
 _expression_. `HorizontalAnchor`
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks

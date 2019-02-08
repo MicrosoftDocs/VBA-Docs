@@ -36,7 +36,7 @@ On a form, the **DblClick** event occurs when the user double-clicks a blank are
 
 The **DblClick** event applies only to forms, form sections, and controls on a form, and not to controls on a report.
     
-This event doesn't apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Double-clicking an attached label has the same effect as double-clicking the associated control. The normal events for the control occur, not any events for the attached label.
+This event doesn't apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Double-clicking an attached label has the same effect as double-clicking the associated control. The normal events for the control occur, but not any events for the attached label.
     
 To run a macro or event procedure when this event occurs, set the **OnDblClick** property to the name of the macro or to [Event Procedure].
 
@@ -56,7 +56,7 @@ When you double-click a command button, the following events occur in this order
 
 > **MouseDown** → **MouseUp** → **Click** → **DblClick** → **MouseUp** → **Click**
 
-The second click may have no effect (for example, if the **Click** macro or event procedure opens a modal dialog box in response to the first **Click** event). To prevent the second **Click** macro or event procedure from running, put a **CancelEvent** action in the **DblClick** macro or use the _Cancel_ argument in the **DblClick** event procedure. Note that, generally speaking, double-clicking a command button should be discouraged.
+The second click may have no effect (for example, if the **Click** macro or event procedure opens a modal dialog box in response to the first **Click** event). To prevent the second **Click** macro or event procedure from running, put a **CancelEvent** action in the **DblClick** macro, or use the _Cancel_ argument in the **DblClick** event procedure. Note that, generally speaking, double-clicking a command button should be discouraged.
 
 If you double-click any other control besides a command button, the second **Click** event doesn't occur.
 

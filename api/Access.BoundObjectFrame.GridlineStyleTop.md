@@ -7,43 +7,38 @@ ms.prod: access
 api_name:
 - Access.BoundObjectFrame.GridlineStyleTop
 ms.assetid: 8b8a6626-a0c5-e08d-f256-3d99b47aa984
-ms.date: 06/08/2017
+ms.date: 02/08/2019
 localization_priority: Normal
 ---
 
 
 # BoundObjectFrame.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified frame. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified frame. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleTop`
+_expression_.**GridlineStyleTop**
 
-_expression_ A variable that represents a [BoundObjectFrame](Access.BoundObjectFrame.md) object.
+_expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **GridlineStyleTop** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
