@@ -19,14 +19,14 @@ Gets or sets the width of the right gridline for the specified label. Read/write
 
 ## Syntax
 
-_expression_. `GridlineWidthRight`
+_expression_.**GridlineWidthRight**
 
 _expression_ A variable that represents a [Label](Access.Label.md) object.
 
 
 ## Remarks
 
-The  **RightGridlineWidth** property uses the following settings.
+The **GridlineWidthRight** property uses the following settings.
 
 
 

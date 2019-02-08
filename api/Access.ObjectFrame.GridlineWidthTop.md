@@ -19,14 +19,14 @@ Gets or sets the width of the top gridline for the specified frame. Read/write  
 
 ## Syntax
 
-_expression_. `GridlineWidthTop`
+_expression_.**GridlineWidthTop**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks
 
-The  **TopGridlineWidth** property uses the following settings.
+The **GridlineWidthTop** property uses the following settings.
 
 
 

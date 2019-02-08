@@ -19,14 +19,14 @@ Gets or sets the width of the bottom gridline for the specified text box. Read/w
 
 ## Syntax
 
-_expression_. `GridlineWidthBottom`
+_expression_.**GridlineWidthBottom**
 
 _expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineWidthBottom** property uses the following settings.
 
 
 
