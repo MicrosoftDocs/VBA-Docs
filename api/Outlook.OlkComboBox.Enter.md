@@ -19,7 +19,7 @@ Occurs when the control receives focus, immediately after the previous control's
 
 ## Syntax
 
-_expression_. `Enter`
+_expression_.**Enter**
 
 _expression_ A variable that represents an [OlkComboBox](./Outlook.OlkComboBox.md) object.
 
