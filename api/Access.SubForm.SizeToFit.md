@@ -19,7 +19,7 @@ You can use the  **SizeToFit** method to size a control so it fits the text or i
 
 ## Syntax
 
-_expression_. `SizeToFit`
+_expression_.**SizeToFit**
 
 _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 

@@ -19,7 +19,7 @@ Moves the specified object to the coordinates specified by the argument values.
 
 ## Syntax
 
-_expression_. `Move`( ` _Left_`, ` _Top_`, ` _Width_`, ` _Height_` )
+_expression_.**Move** (_Left_, _Top_, _Width_, _Height_)
 
 _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 

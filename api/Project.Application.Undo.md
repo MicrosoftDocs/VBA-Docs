@@ -19,7 +19,7 @@ Executes an undo action on items in the  **Undo** list.
 
 ## Syntax
 
- _expression_. `Undo`( ` _HowManyUndos_` )
+ _expression_.**Undo**( ` _HowManyUndos_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
