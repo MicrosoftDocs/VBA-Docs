@@ -19,7 +19,7 @@ Gets or sets the color of the gridline for the specified toggle button. Read/wri
 
 ## Syntax
 
-_expression_. `GridlineColor`
+_expression_.**GridlineColor**
 
 _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 

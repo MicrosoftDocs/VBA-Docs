@@ -1,5 +1,5 @@
 ---
-title: xlCategoryType enumeration (Excel)
+title: XlCategoryType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCategoryType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCategoryType enumeration (Excel)
+# XlCategoryType enumeration (Excel)
 
 Specifies the type of the category axis.
 

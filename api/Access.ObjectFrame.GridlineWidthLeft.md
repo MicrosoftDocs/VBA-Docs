@@ -19,14 +19,14 @@ Gets or sets the width of the left gridline for the specified frame. Read/write 
 
 ## Syntax
 
-_expression_. `GridlineWidthLeft`
+_expression_.**GridlineWidthLeft**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 
 
 ## Remarks
 
-The  **LeftGridlineWidth** property uses the following settings.
+The **GridlineWidthLeft** property uses the following settings.
 
 
 

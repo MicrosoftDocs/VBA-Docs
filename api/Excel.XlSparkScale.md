@@ -1,5 +1,5 @@
 ---
-title: xlSparkScale enumeration (Excel)
+title: XlSparkScale enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSparkScale
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSparkScale enumeration (Excel)
+# XlSparkScale enumeration (Excel)
 
 Specifies how the minimum or maximum value of the vertical axis of the sparkline is scaled relative to other sparklines in the group.
 

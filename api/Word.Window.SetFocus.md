@@ -19,7 +19,7 @@ Sets the focus of the specified document window to the body of an email message.
 
 ## Syntax
 
- _expression_. `SetFocus`
+ _expression_.**SetFocus**
 
  _expression_ Required. A variable that represents a '[Window](Word.Window.md)' object.
 

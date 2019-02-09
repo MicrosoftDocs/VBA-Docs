@@ -19,7 +19,7 @@ Returns the unique identifier for the layout that contains the specified option 
 
 ## Syntax
 
-_expression_. `LayoutID`
+_expression_.**LayoutID**
 
 _expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 

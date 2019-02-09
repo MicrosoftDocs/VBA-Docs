@@ -1,5 +1,5 @@
 ---
-title: xlBorderWeight enumeration (Word)
+title: XlBorderWeight enumeration (Word)
 ms.prod: word
 ms.assetid: 4e845cbe-9811-d5bb-847f-72c239793991
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlBorderWeight enumeration (Word)
+# XlBorderWeight enumeration (Word)
 
 Specifies the weight of the border around a range.
 

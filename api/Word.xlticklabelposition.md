@@ -1,5 +1,5 @@
 ---
-title: xlTickLabelPosition enumeration (Word)
+title: XlTickLabelPosition enumeration (Word)
 ms.prod: word
 ms.assetid: a149eda1-1d90-5e72-2fb4-1da4eebce518
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlTickLabelPosition enumeration (Word)
+# XlTickLabelPosition enumeration (Word)
 
 Specifies the position of tick-mark labels on the specified axis.
 

@@ -1,5 +1,5 @@
 ---
-title: xlChartGallery Enumeration (PowerPoint)
+title: XlChartGallery Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlChartGallery
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartGallery Enumeration (PowerPoint)
+# XlChartGallery Enumeration (PowerPoint)
 
 Specifies a chart gallery.
 

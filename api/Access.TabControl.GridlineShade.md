@@ -19,7 +19,7 @@ Gets or sets the shade applied to the theme color in the  **GridlineColor** prop
 
 ## Syntax
 
-_expression_. `GridlineShade`
+_expression_.**GridlineShade**
 
 _expression_ A variable that represents an [TabControl](Access.TabControl.md) object.
 

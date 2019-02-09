@@ -19,7 +19,7 @@ Returns the unique identifier for the layout that contains the specified object 
 
 ## Syntax
 
-_expression_. `LayoutID`
+_expression_.**LayoutID**
 
 _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 

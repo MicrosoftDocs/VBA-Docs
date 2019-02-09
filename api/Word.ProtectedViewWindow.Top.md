@@ -19,7 +19,7 @@ Returns or sets the vertical position, in points, of the specified protected vie
 
 ## Syntax
 
- _expression_. `Top`
+ _expression_.**Top**
 
  _expression_ An expression that returns a [ProtectedViewWindow](./Word.ProtectedViewWindow.md) object.
 

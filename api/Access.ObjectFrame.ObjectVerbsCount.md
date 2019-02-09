@@ -19,7 +19,7 @@ You can use the  **ObjectVerbsCount** property in Visual Basic to determine the 
 
 ## Syntax
 
-_expression_. `ObjectVerbsCount`
+_expression_.**ObjectVerbsCount** 
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

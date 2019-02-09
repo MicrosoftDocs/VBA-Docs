@@ -1,27 +1,27 @@
 ---
-title: ComboBox.AfterUpdate event (Access)
-keywords: vbaac10.chm14212
+title: ListBox.AfterUpdate event (Access)
+keywords: vbaac10.chm14172
 f1_keywords:
-- vbaac10.chm14212
+- vbaac10.chm14172
 ms.prod: access
 api_name:
-- Access.ComboBox.AfterUpdate
-ms.assetid: 89b45f0c-5ab1-889e-bd26-a34281b49b9e
+- Access.ListBox.AfterUpdate
+ms.assetid: b95d98c8-0899-c555-14b4-d8e853b5dce3
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
-# ComboBox.AfterUpdate event (Access)
+# ListBox.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks
@@ -41,21 +41,10 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
  **Note**  To perform simple validations, or more complex validations such as requiring a value in a field or validating more than one control on a form, you can use the  **ValidationRule** property for controls and the **ValidationRule** and **Required** properties for fields and records in tables.
 
- **Link provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
-
-
-- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
-    
-
-### About the contributors
-
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
-
 
 ## See also
 
 
-[ComboBox Object](Access.ComboBox.md)
+[ListBox Object](Access.ListBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

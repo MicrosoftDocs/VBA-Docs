@@ -1,5 +1,5 @@
 ---
-title: xlWindowState enumeration (Excel)
+title: XlWindowState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlWindowState enumeration (Excel)
+# XlWindowState enumeration (Excel)
 
 Specifies the state of the window.
 

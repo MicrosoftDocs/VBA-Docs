@@ -19,7 +19,7 @@ Returns the object name. Read-only.
 
 ## Syntax
 
- _expression_. `Name`
+ _expression_.**Name**
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 

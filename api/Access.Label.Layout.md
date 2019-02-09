@@ -19,7 +19,7 @@ Returns the type of layout for the specified label. Read-only  **[AcLayoutType](
 
 ## Syntax
 
-_expression_. `Layout`
+_expression_.**Layout**
 
 _expression_ A variable that represents a [Label](Access.Label.md) object.
 

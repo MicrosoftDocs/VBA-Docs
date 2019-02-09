@@ -1,5 +1,5 @@
 ---
-title: xlRangeValueDataType enumeration (Excel)
+title: XlRangeValueDataType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlRangeValueDataType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlRangeValueDataType enumeration (Excel)
+# XlRangeValueDataType enumeration (Excel)
 
 Specifies the range value data type.
 

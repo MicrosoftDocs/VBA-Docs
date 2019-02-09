@@ -14,7 +14,7 @@ Returns the height of the theme variation. Read-only.
 
 ## Syntax
 
- _expression_. `Height`
+ _expression_.**Height**
 
  _expression_ A variable that represents a 'ThemeVariant' object.
 

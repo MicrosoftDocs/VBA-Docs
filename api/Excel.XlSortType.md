@@ -1,5 +1,5 @@
 ---
-title: xlSortType enumeration (Excel)
+title: XlSortType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSortType enumeration (Excel)
+# XlSortType enumeration (Excel)
 
 Specifies which elements are to be sorted. Use this argument only when sorting PivotTable reports.
 

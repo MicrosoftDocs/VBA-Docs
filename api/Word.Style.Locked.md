@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Locked`
+ _expression_.**Locked**
 
  _expression_ An expression that represents a '[Style](Word.Style.md)' object.
 

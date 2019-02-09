@@ -19,20 +19,21 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 ## Syntax
 
-_expression_. `BeforeUpdate`
+_expression_.**BeforeUpdate**
 
 _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks
 
-Valid values for this property are " _macroname_" where  _macroname_ is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the **BeforeUpdate** event for the specified object, or " **=** _functionname_ **()** " where _functionname_ is the name of a user-defined function.
+Valid values for this property are: 
 
- **Link provided by:**
-![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
+- _macroname_, where _macroname_ is the name of a macro.
 
+- [Event Procedure], which indicates the event procedure associated with the **BeforeUpdate** event for the specified object.
 
-- [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
+- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
+
     
 
 ## Example

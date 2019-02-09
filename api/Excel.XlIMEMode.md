@@ -1,5 +1,5 @@
 ---
-title: xlIMEMode enumeration (Excel)
+title: XlIMEMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlIMEMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlIMEMode enumeration (Excel)
+# XlIMEMode enumeration (Excel)
 
 Specifies the description of the Japanese input rules.
 

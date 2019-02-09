@@ -17,7 +17,7 @@ Returns an  **Object** that represents the parent object of the specified[Catego
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
 _expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
 

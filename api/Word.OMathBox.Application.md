@@ -19,7 +19,7 @@ Returns an  **[Application](Word.Application.md)** object that represents the Mi
 
 ## Syntax
 
- _expression_. `Application`
+ _expression_.**Application**
 
  _expression_ Required. A variable that represents an '[OMathBox](Word.OMathBox.md)' object.
 

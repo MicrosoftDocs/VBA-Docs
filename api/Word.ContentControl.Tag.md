@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents a value to identify a content cont
 
 ## Syntax
 
- _expression_. `Tag`
+ _expression_.**Tag**
 
  _expression_ An expression that returns a '[ContentControl](Word.ContentControl.md)' object.
 

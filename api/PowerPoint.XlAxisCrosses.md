@@ -1,5 +1,5 @@
 ---
-title: xlAxisCrosses Enumeration (PowerPoint)
+title: XlAxisCrosses Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlAxisCrosses
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAxisCrosses Enumeration (PowerPoint)
+# XlAxisCrosses Enumeration (PowerPoint)
 
 Specifies the point on the specified axis where the other axis crosses.
 

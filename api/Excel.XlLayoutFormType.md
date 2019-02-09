@@ -1,5 +1,5 @@
 ---
-title: xlLayoutFormType enumeration (Excel)
+title: XlLayoutFormType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLayoutFormType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLayoutFormType enumeration (Excel)
+# XlLayoutFormType enumeration (Excel)
 
 Specifies the way the specified PivotTable items appear?in table format or in outline format.
 

@@ -1,5 +1,5 @@
 ---
-title: xlThemeColor enumeration (Excel)
+title: XlThemeColor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlThemeColor
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlThemeColor enumeration (Excel)
+# XlThemeColor enumeration (Excel)
 
 Specifies the theme color to be used.
 

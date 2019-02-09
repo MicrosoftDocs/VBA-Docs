@@ -16,7 +16,7 @@ Gets the parent of the  **GroupCriteria** object. Read-only **Group**.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents a 'GroupCriteria' object.
 

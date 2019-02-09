@@ -1,5 +1,5 @@
 ---
-title: xlQuickAnalysisMode enumeration (Excel)
+title: XlQuickAnalysisMode enumeration (Excel)
 ms.prod: excel
 ms.assetid: 56f07e46-19e9-76ab-25a2-67e2b8d9bdc6
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlQuickAnalysisMode enumeration (Excel)
+# XlQuickAnalysisMode enumeration (Excel)
 
 Indicates for which top level button the callout user interface is displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: xlDVType enumeration (Excel)
+title: XlDVType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDVType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDVType enumeration (Excel)
+# XlDVType enumeration (Excel)
 
 Specifies the type of validation test to be performed in conjunction with values.
 

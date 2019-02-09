@@ -19,7 +19,7 @@ The property specifies the text alignment within attached labels on new controls
 
 ## Syntax
 
-_expression_. `LabelAlign`
+_expression_.**LabelAlign**
 
 _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 

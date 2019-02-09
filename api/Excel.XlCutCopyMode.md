@@ -1,5 +1,5 @@
 ---
-title: xlCutCopyMode enumeration (Excel)
+title: XlCutCopyMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCutCopyMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCutCopyMode enumeration (Excel)
+# XlCutCopyMode enumeration (Excel)
 
 Specifies whether status is Copy mode or Cut mode.
 

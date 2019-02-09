@@ -19,7 +19,7 @@ Returns the width, in points, of the object. Read-only.
 
 ## Syntax
 
- _expression_. `Width`
+ _expression_.**Width**
 
  _expression_ A variable that represents an '[AxisTitle](Word.AxisTitle.md)' object.
 

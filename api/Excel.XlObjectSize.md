@@ -1,5 +1,5 @@
 ---
-title: xlObjectSize enumeration (Excel)
+title: XlObjectSize enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlObjectSize
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlObjectSize enumeration (Excel)
+# XlObjectSize enumeration (Excel)
 
 Specifies the way a chart is scaled to fit on a page.
 

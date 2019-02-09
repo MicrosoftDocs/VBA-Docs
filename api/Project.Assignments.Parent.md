@@ -16,7 +16,7 @@ Gets the parent the  **Assignments** object. Read-only **Project**.
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents an 'Assignments' object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Visible`
+ _expression_.**Visible**
 
  _expression_ Required. A variable that represents a '[Reviewer](Word.Reviewer.md)' object.
 

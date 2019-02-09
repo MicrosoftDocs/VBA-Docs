@@ -19,14 +19,14 @@ Gets or sets the width of the bottom gridline for the specified control. Read/wr
 
 ## Syntax
 
-_expression_. `GridlineWidthBottom`
+_expression_.**GridlineWidthBottom**
 
 _expression_ A variable that represents a [Control](Access.Control.md) object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineWidthBottom** property uses the following settings.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: xlLookFor enumeration (Excel)
+title: XlLookFor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLookFor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLookFor enumeration (Excel)
+# XlLookFor enumeration (Excel)
 
 Specifies what to look for in searches.
 

@@ -1,5 +1,5 @@
 ---
-title: xlArabicModes enumeration (Excel)
+title: XlArabicModes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlArabicModes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlArabicModes enumeration (Excel)
+# XlArabicModes enumeration (Excel)
 
 Specifies spelling rules for the Arabic spelling checker.
 

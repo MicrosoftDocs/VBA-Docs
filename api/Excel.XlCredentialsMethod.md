@@ -1,5 +1,5 @@
 ---
-title: xlCredentialsMethod enumeration (Excel)
+title: XlCredentialsMethod enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCredentialsMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCredentialsMethod enumeration (Excel)
+# XlCredentialsMethod enumeration (Excel)
 
 Specifies the type of credentials method used.
 

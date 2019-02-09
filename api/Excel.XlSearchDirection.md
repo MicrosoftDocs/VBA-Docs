@@ -1,5 +1,5 @@
 ---
-title: xlSearchDirection enumeration (Excel)
+title: XlSearchDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSearchDirection
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlSearchDirection enumeration (Excel)
+# XlSearchDirection enumeration (Excel)
 
 Specifies the search direction when searching a range.
 

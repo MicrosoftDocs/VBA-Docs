@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Cond
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ Required. A variable that represents a '[ConditionalStyle](Word.ConditionalStyle.md)' object.
 

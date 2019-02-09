@@ -16,7 +16,7 @@ localization_priority: Priority
 
 Returns an Application object that represents the Microsoft Graph application. Read-only Application object.
 
-_expression_. `Application`
+_expression_.**Application**
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

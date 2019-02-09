@@ -19,14 +19,14 @@ Gets or sets the width of the top gridline for the specified list box. Read/writ
 
 ## Syntax
 
-_expression_. `GridlineWidthTop`
+_expression_.**GridlineWidthTop**
 
 _expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Remarks
 
-The  **TopGridlineWidth** property uses the following settings.
+The **GridlineWidthTop** property uses the following settings.
 
 
 

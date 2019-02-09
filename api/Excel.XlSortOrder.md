@@ -1,5 +1,5 @@
 ---
-title: xlSortOrder enumeration (Excel)
+title: XlSortOrder enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortOrder
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlSortOrder enumeration (Excel)
+# XlSortOrder enumeration (Excel)
 
 Specifies the sort order for the specified field or range.
 

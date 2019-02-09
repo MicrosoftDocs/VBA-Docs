@@ -19,7 +19,7 @@ Returns a  **Variant** value that represents the distance, in points, from the l
 
 ## Syntax
 
-_expression_. `Left`
+_expression_.**Left**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

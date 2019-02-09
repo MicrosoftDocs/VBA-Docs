@@ -1,5 +1,5 @@
 ---
-title: xlSaveAction enumeration (Excel)
+title: XlSaveAction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveAction
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSaveAction enumeration (Excel)
+# XlSaveAction enumeration (Excel)
 
 Specifies during file close if the file will be saved.
 

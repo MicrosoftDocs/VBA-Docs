@@ -1,27 +1,27 @@
 ---
-title: Form.AfterUpdate event (Access)
-keywords: vbaac10.chm13638
+title: OptionButton.AfterUpdate event (Access)
+keywords: vbaac10.chm14135
 f1_keywords:
-- vbaac10.chm13638
+- vbaac10.chm14135
 ms.prod: access
 api_name:
-- Access.Form.AfterUpdate
-ms.assetid: b622d8c9-4802-a915-5cd4-f8a91ba57099
+- Access.OptionButton.AfterUpdate
+ms.assetid: dbff2785-184c-601c-f26e-1ca99ea496a8
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
-# Form.AfterUpdate event (Access)
+# OptionButton.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Remarks
@@ -29,6 +29,8 @@ _expression_ A variable that represents a [Form](Access.Form.md) object.
 Changing data in a control by using Visual Basic or a macro containing the SetValue action doesn't trigger these events for the control. However, if you then move to another record or save the record, the form's  **AfterUpdate** event does occur.
 
 To run a macro or event procedure when this event occurs, set the  **AfterUpdate** property to the name of the macro or to [Event Procedure].
+
+This event does not apply to option buttons, check boxes, or toggle buttons in an option group. It applies only to the option group itself.
 
 The  **AfterUpdate** event is triggered when a control or record is updated. Within a record, changed data in each control is updated when the control loses the focus or when the user presses ENTER or TAB.
 
@@ -45,6 +47,6 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 ## See also
 
 
-[Form Object](Access.Form.md)
+[OptionButton Object](Access.OptionButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

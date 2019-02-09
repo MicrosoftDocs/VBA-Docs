@@ -1,5 +1,5 @@
 ---
-title: xlLink enumeration (Excel)
+title: XlLink enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLink
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLink enumeration (Excel)
+# XlLink enumeration (Excel)
 
 Specifies the type of link.
 

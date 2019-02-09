@@ -37,8 +37,8 @@ An option group can also be set to an expression, or it can be unbound. You can 
 
 |Name|
 |:-----|
-|[AfterUpdate](Access.OptionGroup.AfterUpdate(even).md)|
-|[BeforeUpdate](Access.OptionGroup.BeforeUpdate(even).md)|
+|[AfterUpdate](Access.OptionGroup.AfterUpdate-event.md)|
+|[BeforeUpdate](Access.OptionGroup.BeforeUpdate-event.md)|
 |[Click](Access.OptionGroup.Click.md)|
 |[DblClick](Access.OptionGroup.DblClick.md)|
 |[Enter](Access.OptionGroup.Enter.md)|
@@ -66,7 +66,7 @@ An option group can also be set to an expression, or it can be unbound. You can 
 |Name|
 |:-----|
 |[AddColon](Access.OptionGroup.AddColon.md)|
-|[AfterUpdate](Access.OptionGroup.AfterUpdate(property).md)|
+|[AfterUpdate](Access.OptionGroup.AfterUpdate-property.md)|
 |[Application](Access.OptionGroup.Application.md)|
 |[AutoLabel](Access.OptionGroup.AutoLabel.md)|
 |[BackColor](Access.OptionGroup.BackColor.md)|
@@ -74,7 +74,7 @@ An option group can also be set to an expression, or it can be unbound. You can 
 |[BackStyle](Access.OptionGroup.BackStyle.md)|
 |[BackThemeColorIndex](Access.OptionGroup.BackThemeColorIndex.md)|
 |[BackTint](Access.OptionGroup.BackTint.md)|
-|[BeforeUpdate](Access.OptionGroup.BeforeUpdate(property).md)|
+|[BeforeUpdate](Access.OptionGroup.BeforeUpdate-property.md)|
 |[BorderColor](Access.OptionGroup.BorderColor.md)|
 |[BorderShade](Access.OptionGroup.BorderShade.md)|
 |[BorderStyle](Access.OptionGroup.BorderStyle.md)|

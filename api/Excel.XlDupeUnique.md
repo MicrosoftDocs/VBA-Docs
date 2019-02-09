@@ -1,5 +1,5 @@
 ---
-title: xlDupeUnique enumeration (Excel)
+title: XlDupeUnique enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDupeUnique
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDupeUnique enumeration (Excel)
+# XlDupeUnique enumeration (Excel)
 
 Specifies whether duplicate or unique values shoud be displayed.
 

@@ -1,5 +1,5 @@
 ---
-title: xlInsertShiftDirection enumeration (Excel)
+title: XlInsertShiftDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlInsertShiftDirection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlInsertShiftDirection enumeration (Excel)
+# XlInsertShiftDirection enumeration (Excel)
 
 Specifies the direction in which to shift cells during an insertion.
 

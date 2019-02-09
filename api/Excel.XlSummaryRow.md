@@ -1,5 +1,5 @@
 ---
-title: xlSummaryRow enumeration (Excel)
+title: XlSummaryRow enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSummaryRow
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSummaryRow enumeration (Excel)
+# XlSummaryRow enumeration (Excel)
 
 Specifies the location of the summary rows in the outline.
 

@@ -1,5 +1,5 @@
 ---
-title: xlBuiltInDialog enumeration (Excel)
+title: XlBuiltInDialog enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlBuiltInDialog
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlBuiltInDialog enumeration (Excel)
+# XlBuiltInDialog enumeration (Excel)
 
 Specifies which dialog box to display.
 

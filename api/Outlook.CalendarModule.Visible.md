@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** value that determines whether the **[CalendarModu
 
 ## Syntax
 
-_expression_. `Visible`
+_expression_.**Visible**
 
 _expression_ A variable that represents a [CalendarModule](./Outlook.CalendarModule.md) object.
 

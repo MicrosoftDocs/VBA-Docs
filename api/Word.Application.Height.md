@@ -19,7 +19,7 @@ Returns or sets the height of the active document window in pixels. Read/write  
 
 ## Syntax
 
- _expression_. `Height`
+ _expression_.**Height**
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

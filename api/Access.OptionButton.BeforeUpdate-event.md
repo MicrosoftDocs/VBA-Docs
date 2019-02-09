@@ -1,27 +1,27 @@
 ---
-title: ToggleButton.BeforeUpdate event (Access)
-keywords: vbaac10.chm14148
+title: OptionButton.BeforeUpdate event (Access)
+keywords: vbaac10.chm14134
 f1_keywords:
-- vbaac10.chm14148
+- vbaac10.chm14134
 ms.prod: access
 api_name:
-- Access.ToggleButton.BeforeUpdate
-ms.assetid: 4c910eb2-6ae9-ffef-2fd9-a95222975e49
+- Access.OptionButton.BeforeUpdate
+ms.assetid: 9c887502-2d9c-6f21-e5ef-adc164cde095
 ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
 
-# ToggleButton.BeforeUpdate event (Access)
+# OptionButton.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `BeforeUpdate`( ` _Cancel_` )
+_expression_.**BeforeUpdate** (_Cancel_)
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
 
 
 ## Parameters
@@ -92,6 +92,6 @@ End Sub
 ## See also
 
 
-[ToggleButton Object](Access.ToggleButton.md)
+[OptionButton Object](Access.OptionButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

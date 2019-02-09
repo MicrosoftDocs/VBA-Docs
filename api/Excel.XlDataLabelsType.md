@@ -1,5 +1,5 @@
 ---
-title: xlDataLabelsType enumeration (Excel)
+title: XlDataLabelsType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataLabelsType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDataLabelsType enumeration (Excel)
+# XlDataLabelsType enumeration (Excel)
 
 Specifies the type of data label to apply.
 

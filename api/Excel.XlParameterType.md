@@ -1,5 +1,5 @@
 ---
-title: xlParameterType enumeration (Excel)
+title: XlParameterType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlParameterType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlParameterType enumeration (Excel)
+# XlParameterType enumeration (Excel)
 
 Specifies how to determine the value of the parameter for the specified query table.
 

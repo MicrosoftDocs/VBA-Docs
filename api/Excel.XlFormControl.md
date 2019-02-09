@@ -1,5 +1,5 @@
 ---
-title: xlFormControl enumeration (Excel)
+title: XlFormControl enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormControl
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFormControl enumeration (Excel)
+# XlFormControl enumeration (Excel)
 
 Specifies the type of the form control.
 

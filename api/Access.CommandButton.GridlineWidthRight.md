@@ -19,14 +19,14 @@ Gets or sets the width of the right gridline for the specified button. Read/writ
 
 ## Syntax
 
-_expression_. `GridlineWidthRight`
+_expression_.**GridlineWidthRight**
 
 _expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
 
 
 ## Remarks
 
-The  **RightGridlineWidth** property uses the following settings.
+The **GridlineWidthRight** property uses the following settings.
 
 
 

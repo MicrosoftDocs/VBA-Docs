@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Emai
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 

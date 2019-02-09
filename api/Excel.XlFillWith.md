@@ -1,5 +1,5 @@
 ---
-title: xlFillWith enumeration (Excel)
+title: XlFillWith enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFillWith
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFillWith enumeration (Excel)
+# XlFillWith enumeration (Excel)
 
 Specifies how to copy the range.
 

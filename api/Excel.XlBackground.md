@@ -1,5 +1,5 @@
 ---
-title: xlBackground enumeration (Excel)
+title: XlBackground enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlBackground
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlBackground enumeration (Excel)
+# XlBackground enumeration (Excel)
 
 Specifies the background type for text in charts.
 

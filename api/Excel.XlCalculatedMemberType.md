@@ -1,5 +1,5 @@
 ---
-title: xlCalculatedMemberType enumeration (Excel)
+title: XlCalculatedMemberType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalculatedMemberType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCalculatedMemberType enumeration (Excel)
+# XlCalculatedMemberType enumeration (Excel)
 
 Specifies the type of a calculated member in a PivotTable.
 

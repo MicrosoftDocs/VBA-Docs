@@ -1,5 +1,5 @@
 ---
-title: xlErrorChecks enumeration (Excel)
+title: XlErrorChecks enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlErrorChecks
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlErrorChecks enumeration (Excel)
+# XlErrorChecks enumeration (Excel)
 
 Specifies the type of error object to be retrieved from the  **Errors** collection.
 

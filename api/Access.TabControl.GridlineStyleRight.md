@@ -14,36 +14,33 @@ localization_priority: Normal
 
 # TabControl.GridlineStyleRight property (Access)
 
-Gets or sets the right gridline style of the specified text box. Read/write  **Byte**.
+Gets or sets the right gridline style of the specified control. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleRight`
+_expression_.**GridlineStyleRight**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks
 
-The  **RightGridlineStyle** property uses the following settings.
+The **GridlineStyleRight** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[TabControl Object](Access.TabControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

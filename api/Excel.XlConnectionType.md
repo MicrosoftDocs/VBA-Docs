@@ -1,5 +1,5 @@
 ---
-title: xlConnectionType enumeration (Excel)
+title: XlConnectionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConnectionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlConnectionType enumeration (Excel)
+# XlConnectionType enumeration (Excel)
 
 Specifies the type of database connection.
 

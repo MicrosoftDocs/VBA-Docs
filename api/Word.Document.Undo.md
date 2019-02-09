@@ -14,19 +14,17 @@ localization_priority: Normal
 
 # Document.Undo method (Word)
 
-Undoes the last action or a sequence of actions, which are displayed in the  **Undo** list. Returns **True** if the actions were successfully undone.
+Undoes the last action or a sequence of actions, which are displayed in the **Undo** list. Returns **True** if the actions were successfully undone.
 
 
 ## Syntax
 
- _expression_. `Undo`( `_Times_` )
+_expression_.**Undo** (_Times_)
 
- _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
+_expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|

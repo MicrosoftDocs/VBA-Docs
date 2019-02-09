@@ -1,5 +1,5 @@
 ---
-title: xlChartPictureType enumeration (Excel)
+title: XlChartPictureType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartPictureType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartPictureType enumeration (Excel)
+# XlChartPictureType enumeration (Excel)
 
 Specifies how pictures are displayed on a column, bar picture chart, or legend key.
 

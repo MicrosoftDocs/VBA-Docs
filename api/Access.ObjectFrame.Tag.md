@@ -19,7 +19,7 @@ Stores extra information about a form, report, section, or control needed by a M
 
 ## Syntax
 
-_expression_. `Tag`
+_expression_.**Tag**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

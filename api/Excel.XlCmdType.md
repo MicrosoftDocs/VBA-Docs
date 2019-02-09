@@ -1,5 +1,5 @@
 ---
-title: xlCmdType enumeration (Excel)
+title: XlCmdType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlCmdType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCmdType enumeration (Excel)
+# XlCmdType enumeration (Excel)
 
 Specifies the value of the  **CommandText** property.
 

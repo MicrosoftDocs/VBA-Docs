@@ -1,5 +1,5 @@
 ---
-title: xlPhoneticAlignment enumeration (Excel)
+title: XlPhoneticAlignment enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPhoneticAlignment
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPhoneticAlignment enumeration (Excel)
+# XlPhoneticAlignment enumeration (Excel)
 
 Specifies the alignment for phonetic text. Used with a  **Phonetic** or a **Phonetics** object.
 

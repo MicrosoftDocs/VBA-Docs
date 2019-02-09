@@ -1,5 +1,5 @@
 ---
-title: xlWebSelectionType enumeration (Excel)
+title: XlWebSelectionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWebSelectionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlWebSelectionType enumeration (Excel)
+# XlWebSelectionType enumeration (Excel)
 
 Specifies whether an entire Web page, all tables on the Web page, or only a specific table is imported into a query table.
 

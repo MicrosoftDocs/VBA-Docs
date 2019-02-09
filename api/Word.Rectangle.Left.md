@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of pixels from the left edge of t
 
 ## Syntax
 
- _expression_. `Left`
+ _expression_.**Left**
 
  _expression_ An expression that represents a '[Rectangle](Word.Rectangle.md)' object.
 

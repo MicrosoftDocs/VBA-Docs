@@ -19,14 +19,14 @@ Gets or sets the width of the bottom gridline for the specified combo box. Read/
 
 ## Syntax
 
-_expression_. `GridlineWidthBottom`
+_expression_.**GridlineWidthBottom**
 
 _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks
 
-The  **BottomGridlineWidth** property uses the following settings.
+The **GridlineWidthBottom** property uses the following settings.
 
 
 

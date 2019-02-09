@@ -19,7 +19,7 @@ Returns a value that represents the distance, in points, from the top edge of th
 
 ## Syntax
 
- _expression_. `Top`
+ _expression_.**Top**
 
  _expression_ A variable that represents a '[Point](Word.Point.md)' object.
 

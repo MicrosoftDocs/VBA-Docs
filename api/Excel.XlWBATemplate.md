@@ -1,5 +1,5 @@
 ---
-title: xlWBATemplate enumeration (Excel)
+title: XlWBATemplate enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWBATemplate
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlWBATemplate enumeration (Excel)
+# XlWBATemplate enumeration (Excel)
 
 Specifies the type of workbook to create. The new workbook contains a single sheet of the specified type.
 

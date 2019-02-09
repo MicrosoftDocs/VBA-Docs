@@ -19,7 +19,7 @@ You can use the **ObjectVerbs** property in Visual Basic to determine the list o
 
 ## Syntax
 
-_expression_. `ObjectVerbs`( ` _Index_` )
+_expression_.**ObjectVerbs** (_Index_)
 
 _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 

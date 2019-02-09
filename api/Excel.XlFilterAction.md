@@ -1,5 +1,5 @@
 ---
-title: xlFilterAction enumeration (Excel)
+title: XlFilterAction enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFilterAction
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlFilterAction enumeration (Excel)
+# XlFilterAction enumeration (Excel)
 
 Specifies whether data is to be copied or left in place during a filter operation.
 

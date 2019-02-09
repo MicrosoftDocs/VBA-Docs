@@ -1,5 +1,5 @@
 ---
-title: xlTrendlineType enumeration (Excel)
+title: XlTrendlineType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTrendlineType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlTrendlineType enumeration (Excel)
+# XlTrendlineType enumeration (Excel)
 
 Specifies how the trendline that smoothes out fluctuations in the data is calculated.
 

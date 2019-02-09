@@ -19,7 +19,7 @@ Returns or sets a  **String** value that represents the name of the object.
 
 ## Syntax
 
-_expression_. `Name`
+_expression_.**Name**
 
 _expression_ A variable that represents an [UserAccess](./Excel.UserAccess.md) object.
 

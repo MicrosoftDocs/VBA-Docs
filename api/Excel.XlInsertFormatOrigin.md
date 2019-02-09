@@ -1,5 +1,5 @@
 ---
-title: xlInsertFormatOrigin enumeration (Excel)
+title: XlInsertFormatOrigin enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlInsertFormatOrigin
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlInsertFormatOrigin enumeration (Excel)
+# XlInsertFormatOrigin enumeration (Excel)
 
 Specifies from where to copy the format for inserted cells.
 

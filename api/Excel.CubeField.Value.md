@@ -19,7 +19,7 @@ Returns a  **String** value that represents the name of the specified field.
 
 ## Syntax
 
-_expression_. `Value`
+_expression_.**Value**
 
 _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
 

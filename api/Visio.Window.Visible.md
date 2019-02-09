@@ -19,7 +19,7 @@ Determines whether a window is visible. Read/write.
 
 ## Syntax
 
- _expression_. `Visible`
+ _expression_.**Visible**
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

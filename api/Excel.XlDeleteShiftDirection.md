@@ -1,5 +1,5 @@
 ---
-title: xlDeleteShiftDirection enumeration (Excel)
+title: XlDeleteShiftDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDeleteShiftDirection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDeleteShiftDirection enumeration (Excel)
+# XlDeleteShiftDirection enumeration (Excel)
 
 Specifies how to shift cells to replace deleted cells.
 

@@ -1,27 +1,27 @@
 ---
-title: ToggleButton.AfterUpdate event (Access)
-keywords: vbaac10.chm14149
+title: ComboBox.AfterUpdate event (Access)
+keywords: vbaac10.chm14212
 f1_keywords:
-- vbaac10.chm14149
+- vbaac10.chm14212
 ms.prod: access
 api_name:
-- Access.ToggleButton.AfterUpdate
-ms.assetid: 8e0e74e5-018f-5e0b-2c5d-d7e3db0e47f4
+- Access.ComboBox.AfterUpdate
+ms.assetid: 89b45f0c-5ab1-889e-bd26-a34281b49b9e
 ms.date: 06/08/2017
-localization_priority: Normal
+localization_priority: Priority
 ---
 
 
-# ToggleButton.AfterUpdate event (Access)
+# ComboBox.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Remarks
@@ -29,8 +29,6 @@ _expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md)
 Changing data in a control by using Visual Basic or a macro containing the SetValue action doesn't trigger these events for the control. However, if you then move to another record or save the record, the form's  **AfterUpdate** event does occur.
 
 To run a macro or event procedure when this event occurs, set the  **AfterUpdate** property to the name of the macro or to [Event Procedure].
-
-This event does not apply to option buttons, check boxes, or toggle buttons in an option group. It applies only to the option group itself.
 
 The  **AfterUpdate** event is triggered when a control or record is updated. Within a record, changed data in each control is updated when the control loses the focus or when the user presses ENTER or TAB.
 
@@ -43,10 +41,21 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 
  **Note**  To perform simple validations, or more complex validations such as requiring a value in a field or validating more than one control on a form, you can use the  **ValidationRule** property for controls and the **ValidationRule** and **Required** properties for fields and records in tables.
 
+ **Link provided by:**
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
+
+
+- [Forms: Populate Controls/Text Boxes Based on Combobox Selection](https://www.utteraccess.com/wiki/index.php/Forms:_Populate_Controls/Text_Boxes_Based_on_Combobox_Selection)
+    
+
+### About the contributors
+
+UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+
 
 ## See also
 
 
-[ToggleButton Object](Access.ToggleButton.md)
+[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

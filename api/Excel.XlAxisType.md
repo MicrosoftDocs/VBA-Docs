@@ -1,5 +1,5 @@
 ---
-title: xlAxisType enumeration (Excel)
+title: XlAxisType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAxisType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlAxisType enumeration (Excel)
+# XlAxisType enumeration (Excel)
 
 Specifies the axis type.
 

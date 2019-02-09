@@ -19,7 +19,7 @@ Gets the value of the specified  **[ReturnVar](Access.ReturnVar.md)**. Read-only
 
 ## Syntax
 
-_expression_. `Value`
+_expression_.**Value**
 
 _expression_ A variable that represents a [ReturnVar](Access.ReturnVar.md) object.
 

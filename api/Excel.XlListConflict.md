@@ -1,5 +1,5 @@
 ---
-title: xlListConflict enumeration (Excel)
+title: XlListConflict enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlListConflict
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlListConflict enumeration (Excel)
+# XlListConflict enumeration (Excel)
 
 Specifies the conflict resolution options for updating a list on a Microsoft SharePoint Foundation site with the changes made to a list in a Microsoft Excel worksheet.
 

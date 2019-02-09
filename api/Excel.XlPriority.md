@@ -1,5 +1,5 @@
 ---
-title: xlPriority enumeration (Excel)
+title: XlPriority enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPriority
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPriority enumeration (Excel)
+# XlPriority enumeration (Excel)
 
 Specifies the priority of a SendMailer message.
 

@@ -1,5 +1,5 @@
 ---
-title: xlEnableCancelKey enumeration (Excel)
+title: XlEnableCancelKey enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEnableCancelKey
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlEnableCancelKey enumeration (Excel)
+# XlEnableCancelKey enumeration (Excel)
 
 Specifies how Microsoft Office Excel 2007 handles CTRL+BREAK (or ESC or COMMAND+PERIOD) user interruptions to the running procedure.
 

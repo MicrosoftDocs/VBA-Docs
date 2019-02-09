@@ -1,5 +1,5 @@
 ---
-title: xlConstants enumeration (Word)
+title: XlConstants enumeration (Word)
 ms.prod: word
 api_name:
 - Word.XlConstants
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlConstants enumeration (Word)
+# XlConstants enumeration (Word)
 
 Specifies a miscellaneous constant in Microsoft Word.
 

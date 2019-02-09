@@ -1,5 +1,5 @@
 ---
-title: xlXmlImportResult enumeration (Excel)
+title: XlXmlImportResult enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlXmlImportResult
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlXmlImportResult enumeration (Excel)
+# XlXmlImportResult enumeration (Excel)
 
 Specifies the results of the refresh or import operation.
 

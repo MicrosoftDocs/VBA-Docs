@@ -19,7 +19,7 @@ When used without an object qualifier, returns an  **[Application](PowerPoint.Ap
 
 ## Syntax
 
- _expression_. `Application`
+ _expression_.**Application**
 
  _expression_ A variable that represents a '[GridLines](PowerPoint.GridLines.md)' object.
 

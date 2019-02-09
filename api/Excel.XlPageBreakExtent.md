@@ -1,5 +1,5 @@
 ---
-title: xlPageBreakExtent enumeration (Excel)
+title: XlPageBreakExtent enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPageBreakExtent
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPageBreakExtent enumeration (Excel)
+# XlPageBreakExtent enumeration (Excel)
 
 Specifies whether a page break is full screen or applies only within the print area.
 

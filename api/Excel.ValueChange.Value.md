@@ -19,7 +19,7 @@ Returns the value that the user entered in the cell or that the formula in the c
 
 ## Syntax
 
-_expression_. `Value`
+_expression_.**Value**
 
 _expression_ A variable that represents a '[ValueChange](Excel.ValueChange.md)' object.
 

@@ -19,7 +19,7 @@ Gets or sets the amount of space (in inches) between the image control and its r
 
 ## Syntax
 
-_expression_. `RightPadding`
+_expression_.**RightPadding**
 
 _expression_ A variable that represents an [Image](Access.Image.md) object.
 

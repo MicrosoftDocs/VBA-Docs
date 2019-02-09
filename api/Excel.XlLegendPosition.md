@@ -1,5 +1,5 @@
 ---
-title: xlLegendPosition enumeration (Excel)
+title: XlLegendPosition enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLegendPosition
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLegendPosition enumeration (Excel)
+# XlLegendPosition enumeration (Excel)
 
 Specifies the position of the legend on a chart.
 

@@ -1,5 +1,5 @@
 ---
-title: xlSpecialCellsValue enumeration (Excel)
+title: XlSpecialCellsValue enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSpecialCellsValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSpecialCellsValue enumeration (Excel)
+# XlSpecialCellsValue enumeration (Excel)
 
 Specifies cells with a particular type of value to include in the result.
 

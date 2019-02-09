@@ -1,5 +1,5 @@
 ---
-title: xlWindowView enumeration (Excel)
+title: XlWindowView enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlWindowView
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlWindowView enumeration (Excel)
+# XlWindowView enumeration (Excel)
 
 Specifies the view showing in the window.
 

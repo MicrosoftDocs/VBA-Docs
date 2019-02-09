@@ -1,5 +1,5 @@
 ---
-title: xlPrintLocation enumeration (Excel)
+title: XlPrintLocation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPrintLocation
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPrintLocation enumeration (Excel)
+# XlPrintLocation enumeration (Excel)
 
 Specifies the way that comments are printed with the sheet.
 

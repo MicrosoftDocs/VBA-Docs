@@ -1,5 +1,5 @@
 ---
-title: xlSortMethod enumeration (Excel)
+title: XlSortMethod enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSortMethod
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSortMethod enumeration (Excel)
+# XlSortMethod enumeration (Excel)
 
 Specifies the type of sort.
 

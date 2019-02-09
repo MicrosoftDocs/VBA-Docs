@@ -19,7 +19,7 @@ You can use the  **BackStyle** property to specify whether a control will be tra
 
 ## Syntax
 
-_expression_. `BackStyle`
+_expression_.**BackStyle**
 
 _expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 

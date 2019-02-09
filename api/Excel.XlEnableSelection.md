@@ -1,5 +1,5 @@
 ---
-title: xlEnableSelection enumeration (Excel)
+title: XlEnableSelection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEnableSelection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlEnableSelection enumeration (Excel)
+# XlEnableSelection enumeration (Excel)
 
 Specifies what can be selected on the sheet.
 

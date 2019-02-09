@@ -1,5 +1,5 @@
 ---
-title: xlPasteType enumeration (Excel)
+title: XlPasteType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPasteType
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlPasteType enumeration (Excel)
+# XlPasteType enumeration (Excel)
 
 Specifies the part of the range to be pasted.
 

@@ -19,7 +19,7 @@ Returns the parent  **[PivotTable](Excel.PivotTable.md)** object for the specifi
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
 _expression_ A variable that represents a [PivotTableChangeList](Excel.PivotTableChangeList.md) object.
 

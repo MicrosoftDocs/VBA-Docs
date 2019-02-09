@@ -1,5 +1,5 @@
 ---
-title: xlBordersIndex enumeration (Excel)
+title: XlBordersIndex enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlBordersIndex
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlBordersIndex enumeration (Excel)
+# XlBordersIndex enumeration (Excel)
 
 Specifies the border to be retrieved.
 

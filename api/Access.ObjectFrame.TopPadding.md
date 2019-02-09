@@ -19,7 +19,7 @@ Gets or sets the amount of space (in inches) between the object frame and its to
 
 ## Syntax
 
-_expression_. `TopPadding`
+_expression_.**TopPadding**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

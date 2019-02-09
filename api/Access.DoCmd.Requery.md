@@ -19,7 +19,7 @@ Carries out the Requery action in Visual Basic.
 
 ## Syntax
 
-_expression_. `Requery`( ` _ControlName_` )
+_expression_.**Requery**( ` _ControlName_` )
 
 _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 

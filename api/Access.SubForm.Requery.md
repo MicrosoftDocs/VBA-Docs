@@ -19,7 +19,7 @@ The  **Requery** method updates the data underlying a specified subform by reque
 
 ## Syntax
 
-_expression_. `Requery`
+_expression_.**Requery**
 
 _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 

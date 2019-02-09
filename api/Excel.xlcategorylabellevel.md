@@ -1,5 +1,5 @@
 ---
-title: xlCategoryLabelLevel enumeration (Excel)
+title: XlCategoryLabelLevel enumeration (Excel)
 ms.prod: excel
 ms.assetid: 06c766ab-57d8-a11f-f8be-4c9a582f8889
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlCategoryLabelLevel enumeration (Excel)
+# XlCategoryLabelLevel enumeration (Excel)
 
 Specifies the category labels for the category label levels.
 

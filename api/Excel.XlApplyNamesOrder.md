@@ -1,5 +1,5 @@
 ---
-title: xlApplyNamesOrder enumeration (Excel)
+title: XlApplyNamesOrder enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlApplyNamesOrder
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlApplyNamesOrder enumeration (Excel)
+# XlApplyNamesOrder enumeration (Excel)
 
 Specifies which range name is listed first when a cell reference is replaced by a row-oriented and column-oriented range name.
 

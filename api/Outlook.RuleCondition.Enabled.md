@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that determines if the **[RuleCondition](Outlook.
 
 ## Syntax
 
-_expression_. `Enabled`
+_expression_.**Enabled**
 
 _expression_ A variable that represents a [RuleCondition](./Outlook.RuleCondition.md) object.
 

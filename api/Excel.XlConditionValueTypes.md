@@ -1,5 +1,5 @@
 ---
-title: xlConditionValueTypes enumeration (Excel)
+title: XlConditionValueTypes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlConditionValueTypes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlConditionValueTypes enumeration (Excel)
+# XlConditionValueTypes enumeration (Excel)
 
 Specifies the types of condition values that can be used.
 

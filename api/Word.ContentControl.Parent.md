@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Cont
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ A variable that represents a '[ContentControl](Word.ContentControl.md)' object.
 

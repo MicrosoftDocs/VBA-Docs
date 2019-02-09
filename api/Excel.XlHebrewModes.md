@@ -1,5 +1,5 @@
 ---
-title: xlHebrewModes enumeration (Excel)
+title: XlHebrewModes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlHebrewModes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlHebrewModes enumeration (Excel)
+# XlHebrewModes enumeration (Excel)
 
 Specifies the mode for the Hebrew spelling checker.
 

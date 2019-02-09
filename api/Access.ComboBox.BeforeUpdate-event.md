@@ -1,27 +1,27 @@
 ---
-title: OptionButton.BeforeUpdate event (Access)
-keywords: vbaac10.chm14134
+title: ComboBox.BeforeUpdate event (Access)
+keywords: vbaac10.chm14211
 f1_keywords:
-- vbaac10.chm14134
+- vbaac10.chm14211
 ms.prod: access
 api_name:
-- Access.OptionButton.BeforeUpdate
-ms.assetid: 9c887502-2d9c-6f21-e5ef-adc164cde095
+- Access.ComboBox.BeforeUpdate
+ms.assetid: 4c4513e2-8596-fc44-a333-ae6ea9dce937
 ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
 
-# OptionButton.BeforeUpdate event (Access)
+# ComboBox.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `BeforeUpdate`( ` _Cancel_` )
+_expression_.**BeforeUpdate** (_Cancel_)
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
 
 
 ## Parameters
@@ -66,6 +66,12 @@ You often use the BeforeUpdate event to validate data, especially when you perfo
 
 A run-time error will occur if you attempt to modify the data contained in the control that fired the  **BeforeUpdate** event in the event's procedure.
 
+ **Link provided by:**
+![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/)
+
+
+- [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
+    
 
 ## Example
 
@@ -78,20 +84,25 @@ To try the example, add the following event procedure to a form named Products t
 
 ```vb
 Private Sub ProductName_BeforeUpdate(Cancel As Integer) 
- If(Not IsNull(DLookup("[ProductName]", _ 
- "Products", "[ProductName] ='" _ 
- & Me!ProductName & "'"))) Then 
- MsgBox "Product has already been entered in the database." 
- Cancel = True 
- Me!ProductName.Undo 
- End If 
+    If(Not IsNull(DLookup("[ProductName]", _ 
+        "Products", "[ProductName] ='" _ 
+        & Me!ProductName & "'"))) Then 
+        MsgBox "Product has already been entered in the database." 
+        Cancel = True 
+        Me!ProductName.Undo 
+    End If 
 End Sub
 ```
+
+
+### About the contributors
+
+Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
 
 
 ## See also
 
 
-[OptionButton Object](Access.OptionButton.md)
+[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

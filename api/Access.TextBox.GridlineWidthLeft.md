@@ -19,14 +19,14 @@ Gets or sets the width of the left gridline for the specified text box. Read/wri
 
 ## Syntax
 
-_expression_. `GridlineWidthLeft`
+_expression_.**GridlineWidthLeft**
 
 _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 
 
 ## Remarks
 
-The  **LeftGridlineWidth** property uses the following settings.
+The **GridlineWidthLeft** property uses the following settings.
 
 
 

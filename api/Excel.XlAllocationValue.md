@@ -1,5 +1,5 @@
 ---
-title: xlAllocationValue enumeration (Excel)
+title: XlAllocationValue enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAllocationValue
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAllocationValue enumeration (Excel)
+# XlAllocationValue enumeration (Excel)
 
 Specifies what value to allocate when performing what-if analysis on a PivotTable report based on an OLAP data source.
 

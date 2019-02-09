@@ -19,7 +19,7 @@ Gets or sets the tint applied to the theme color in the  **GridlineColor** prope
 
 ## Syntax
 
-_expression_. `GridlineTint`
+_expression_.**GridlineTint**
 
 _expression_ A variable that represents an [Image](Access.Image.md) object.
 

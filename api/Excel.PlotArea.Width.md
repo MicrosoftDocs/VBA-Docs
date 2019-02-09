@@ -19,7 +19,7 @@ Returns or sets a  **Double** value that represents the width, in points, of the
 
 ## Syntax
 
-_expression_. `Width`
+_expression_.**Width**
 
 _expression_ A variable that represents a [PlotArea](Excel.PlotArea-graph-property.md) object.
 

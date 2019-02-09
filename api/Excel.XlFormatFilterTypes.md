@@ -1,5 +1,5 @@
 ---
-title: xlFormatFilterTypes enumeration (Excel)
+title: XlFormatFilterTypes enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlFormatFilterTypes
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlFormatFilterTypes enumeration (Excel)
+# XlFormatFilterTypes enumeration (Excel)
 
 Specifies the types of format filters.
 

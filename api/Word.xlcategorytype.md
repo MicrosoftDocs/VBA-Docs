@@ -1,5 +1,5 @@
 ---
-title: xlCategoryType enumeration (Word)
+title: XlCategoryType enumeration (Word)
 ms.prod: word
 ms.assetid: 10dad161-2a90-7915-51bb-ddc69427c003
 ms.date: 06/08/2017
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlCategoryType enumeration (Word)
+# XlCategoryType enumeration (Word)
 
 Specifies the type of the category axis.
 

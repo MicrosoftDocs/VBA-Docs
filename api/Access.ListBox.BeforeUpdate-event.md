@@ -1,27 +1,27 @@
 ---
-title: OptionGroup.BeforeUpdate event (Access)
-keywords: vbaac10.chm14185
+title: ListBox.BeforeUpdate event (Access)
+keywords: vbaac10.chm14171
 f1_keywords:
-- vbaac10.chm14185
+- vbaac10.chm14171
 ms.prod: access
 api_name:
-- Access.OptionGroup.BeforeUpdate
-ms.assetid: a497ff9b-d617-df5d-9989-bc420c827575
+- Access.ListBox.BeforeUpdate
+ms.assetid: 2a0c1046-4d40-87f8-7ecc-4ef262ae90f0
 ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
 
-# OptionGroup.BeforeUpdate event (Access)
+# ListBox.BeforeUpdate event (Access)
 
 The  **BeforeUpdate** event occurs before changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `BeforeUpdate`( ` _Cancel_` )
+_expression_.**BeforeUpdate** (_Cancel_)
 
-_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
 
 
 ## Parameters
@@ -92,6 +92,6 @@ End Sub
 ## See also
 
 
-[OptionGroup Object](Access.OptionGroup.md)
+[ListBox Object](Access.ListBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -1,5 +1,5 @@
 ---
-title: xlPieSliceLocation Enumeration (PowerPoint)
+title: XlPieSliceLocation Enumeration (PowerPoint)
 ms.assetid: 3960e8bf-e26a-10b6-cd02-4c4f0a2c5202
 ms.date: 06/08/2017
 ms.prod: powerpoint
@@ -7,7 +7,7 @@ localization_priority: Normal
 ---
 
 
-# xlPieSliceLocation Enumeration (PowerPoint)
+# XlPieSliceLocation Enumeration (PowerPoint)
 
 Specifies which position on the slice to return the coordinate of.
 

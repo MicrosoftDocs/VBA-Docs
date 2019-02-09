@@ -1,5 +1,5 @@
 ---
-title: xlPropertyDisplayedIn enumeration (Excel)
+title: XlPropertyDisplayedIn enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPropertyDisplayedIn
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPropertyDisplayedIn enumeration (Excel)
+# XlPropertyDisplayedIn enumeration (Excel)
 
 Specifies where to display the property.
 

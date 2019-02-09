@@ -1,5 +1,5 @@
 ---
-title: xlApplicationInternational enumeration (Excel)
+title: XlApplicationInternational enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlApplicationInternational
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlApplicationInternational enumeration (Excel)
+# XlApplicationInternational enumeration (Excel)
 
 Specifies country/region and international settings.
 

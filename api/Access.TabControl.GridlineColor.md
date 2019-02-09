@@ -19,7 +19,7 @@ Gets or sets the color of the gridline for the specified list box. Read/write  *
 
 ## Syntax
 
-_expression_. `GridlineColor`
+_expression_.**GridlineColor**
 
 _expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
 

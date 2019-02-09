@@ -1,5 +1,5 @@
 ---
-title: xlCalculationInterruptKey enumeration (Excel)
+title: XlCalculationInterruptKey enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalculationInterruptKey
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCalculationInterruptKey enumeration (Excel)
+# XlCalculationInterruptKey enumeration (Excel)
 
 Specifies which key interrupts recalculation.
 

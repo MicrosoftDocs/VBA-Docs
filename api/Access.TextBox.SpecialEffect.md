@@ -19,7 +19,7 @@ You can use the  **SpecialEffect** property to specify whether special formattin
 
 ## Syntax
 
-_expression_. `SpecialEffect`
+_expression_.**SpecialEffect**
 
 _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 

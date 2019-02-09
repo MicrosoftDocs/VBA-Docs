@@ -1,5 +1,5 @@
 ---
-title: xlTextVisualLayoutType enumeration (Excel)
+title: XlTextVisualLayoutType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlTextVisualLayoutType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlTextVisualLayoutType enumeration (Excel)
+# XlTextVisualLayoutType enumeration (Excel)
 
 Specifies whether the visual layout of the text being imported is left-to-right or right-to-left.
 

@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Rece
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ Required. A variable that represents a '[RecentFiles](Word.recentfiles.md)' collection.
 

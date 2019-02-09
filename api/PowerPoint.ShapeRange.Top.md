@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the distance from the top edge of 
 
 ## Syntax
 
- _expression_. `Top`
+ _expression_.**Top**
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

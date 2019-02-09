@@ -1,5 +1,5 @@
 ---
-title: xlLayoutRowType enumeration (Excel)
+title: XlLayoutRowType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLayoutRowType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLayoutRowType enumeration (Excel)
+# XlLayoutRowType enumeration (Excel)
 
 Specifies the type of layout row.
 

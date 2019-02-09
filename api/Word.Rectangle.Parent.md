@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified **Rect
 
 ## Syntax
 
- _expression_. `Parent`
+ _expression_.**Parent**
 
  _expression_ Required. A variable that represents a '[Rectangle](Word.Rectangle.md)' object.
 

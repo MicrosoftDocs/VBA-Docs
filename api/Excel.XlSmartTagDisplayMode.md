@@ -1,5 +1,5 @@
 ---
-title: xlSmartTagDisplayMode enumeration (Excel)
+title: XlSmartTagDisplayMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSmartTagDisplayMode
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSmartTagDisplayMode enumeration (Excel)
+# XlSmartTagDisplayMode enumeration (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

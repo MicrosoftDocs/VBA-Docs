@@ -1,5 +1,5 @@
 ---
-title: xlToolbarProtection enumeration (Excel)
+title: XlToolbarProtection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlToolbarProtection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlToolbarProtection enumeration (Excel)
+# XlToolbarProtection enumeration (Excel)
 
 Specifies which properties of a toolbar are restricted. Options can be combined using Or.
 

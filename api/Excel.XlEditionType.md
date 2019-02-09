@@ -1,5 +1,5 @@
 ---
-title: xlEditionType enumeration (Excel)
+title: XlEditionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlEditionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlEditionType enumeration (Excel)
+# XlEditionType enumeration (Excel)
 
 Specifies the type of edition to be changed.
 

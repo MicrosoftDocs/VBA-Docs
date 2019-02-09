@@ -1,5 +1,5 @@
 ---
-title: xlPlatform enumeration (Excel)
+title: XlPlatform enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlPlatform
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlPlatform enumeration (Excel)
+# XlPlatform enumeration (Excel)
 
 Specifies the platform on which a text file originated.
 

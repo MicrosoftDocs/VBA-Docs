@@ -1,5 +1,5 @@
 ---
-title: xlCellChangedState enumeration (Excel)
+title: XlCellChangedState enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCellChangedState
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCellChangedState enumeration (Excel)
+# XlCellChangedState enumeration (Excel)
 
 Specifies whether a PivotTable value cell has been edited or recalculated since the PivotTable report was created or the last commit operation was performed. 
 

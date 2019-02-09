@@ -1,5 +1,5 @@
 ---
-title: xlUnderlineStyle enumeration (Excel)
+title: XlUnderlineStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlUnderlineStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlUnderlineStyle enumeration (Excel)
+# XlUnderlineStyle enumeration (Excel)
 
 Specifies the type of underline applied to a font.
 

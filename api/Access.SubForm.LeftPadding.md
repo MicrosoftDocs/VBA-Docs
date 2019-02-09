@@ -19,7 +19,7 @@ Gets or sets the amount of space (in inches) between the subform and its left gr
 
 ## Syntax
 
-_expression_. `LeftPadding`
+_expression_.**LeftPadding**
 
 _expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
 

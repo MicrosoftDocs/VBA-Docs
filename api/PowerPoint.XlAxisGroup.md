@@ -1,5 +1,5 @@
 ---
-title: xlAxisGroup Enumeration (PowerPoint)
+title: XlAxisGroup Enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.XlAxisGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAxisGroup Enumeration (PowerPoint)
+# XlAxisGroup Enumeration (PowerPoint)
 
 Specifies the type of axis group.
 

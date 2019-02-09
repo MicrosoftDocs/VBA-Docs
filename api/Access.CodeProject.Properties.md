@@ -19,7 +19,7 @@ Returns a reference to a  **[CodeProject](Access.CodeProject.md)** object's **[A
 
 ## Syntax
 
-_expression_. `Properties`
+_expression_.**Properties**
 
 _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
 

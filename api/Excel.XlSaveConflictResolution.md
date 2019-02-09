@@ -1,5 +1,5 @@
 ---
-title: xlSaveConflictResolution enumeration (Excel)
+title: XlSaveConflictResolution enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveConflictResolution
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlSaveConflictResolution enumeration (Excel)
+# XlSaveConflictResolution enumeration (Excel)
 
 Specifies the way that conflicts are to be resolved whenever a shared workbook is updated.
 

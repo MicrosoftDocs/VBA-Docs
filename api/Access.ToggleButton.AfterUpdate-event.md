@@ -1,27 +1,27 @@
 ---
-title: OptionButton.AfterUpdate event (Access)
-keywords: vbaac10.chm14135
+title: ToggleButton.AfterUpdate event (Access)
+keywords: vbaac10.chm14149
 f1_keywords:
-- vbaac10.chm14135
+- vbaac10.chm14149
 ms.prod: access
 api_name:
-- Access.OptionButton.AfterUpdate
-ms.assetid: dbff2785-184c-601c-f26e-1ca99ea496a8
+- Access.ToggleButton.AfterUpdate
+ms.assetid: 8e0e74e5-018f-5e0b-2c5d-d7e3db0e47f4
 ms.date: 06/08/2017
 localization_priority: Normal
 ---
 
 
-# OptionButton.AfterUpdate event (Access)
+# ToggleButton.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
 
 
 ## Remarks
@@ -47,6 +47,6 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 ## See also
 
 
-[OptionButton Object](Access.OptionButton.md)
+[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

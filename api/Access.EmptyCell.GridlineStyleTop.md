@@ -14,36 +14,33 @@ localization_priority: Normal
 
 # EmptyCell.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified text box. Read/write  **Byte**.
+Gets or sets the top gridline style of the specified cell. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `GridlineStyleTop`
+_expression_.**GridlineStyleTop**
 
-_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
 ## Remarks
 
-The  **TopGridlineStyle** property uses the following settings.
+The **GridlineStyleTop** property uses the following settings.
 
-
-
-|**Setting**|**Gridline type**|
+|Setting|Gridline type|
 |:-----|:-----|
 |0 (default)|Transparent|
 |1|Solid|
 |2|Dashes|
-|3|Short Dashes|
+|3|Short dashes|
 |4|Dots|
-|5|Sparse Dots|
-|6|Dash Dot|
-|7|Dash Dot Dot|
-
-## See also
+|5|Sparse dots|
+|6|Dash dot|
+|7|Dash dot dot|
 
 
-[EmptyCell Object](Access.EmptyCell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
+

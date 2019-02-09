@@ -1,5 +1,5 @@
 ---
-title: xlLinkStatus enumeration (Excel)
+title: XlLinkStatus enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlLinkStatus
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlLinkStatus enumeration (Excel)
+# XlLinkStatus enumeration (Excel)
 
 Specifies the status of a link.
 

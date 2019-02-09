@@ -1,5 +1,5 @@
 ---
-title: xlCalcFor enumeration (Excel)
+title: XlCalcFor enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalcFor
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlCalcFor enumeration (Excel)
+# XlCalcFor enumeration (Excel)
 
 Specifies what should be calculated.
 

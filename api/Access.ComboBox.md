@@ -20,9 +20,8 @@ This object corresponds to a combo box control. The combo box control combines t
 ## Remarks
 
 
-|||
+|Control|Tool|
 |:-----|:-----|
-|**Control**:|**Tool**:|
 |![Combo box control](../images/t-combox_ZA06053980.gif)|![Combo box tool](../images/a_combobox_ZA06047114.gif)|
 
 In Form view, Microsoft Access doesn't display the list until you click the combo box's arrow.
@@ -178,8 +177,8 @@ End Sub
 
 |Name|
 |:-----|
-|[AfterUpdate](Access.ComboBox.AfterUpdate(even).md)|
-|[BeforeUpdate](Access.ComboBox.BeforeUpdate(even).md)|
+|[AfterUpdate](Access.ComboBox.AfterUpdate-event.md)|
+|[BeforeUpdate](Access.ComboBox.BeforeUpdate-event.md)|
 |[Change](Access.ComboBox.Change.md)|
 |[Click](Access.ComboBox.Click.md)|
 |[DblClick](Access.ComboBox.DblClick.md)|
@@ -219,7 +218,7 @@ End Sub
 |Name|
 |:-----|
 |[AddColon](Access.ComboBox.AddColon.md)|
-|[AfterUpdate](Access.ComboBox.AfterUpdate(property).md)|
+|[AfterUpdate](Access.ComboBox.AfterUpdate-property.md)|
 |[AllowAutoCorrect](Access.ComboBox.AllowAutoCorrect.md)|
 |[AllowValueListEdits](Access.ComboBox.AllowValueListEdits.md)|
 |[Application](Access.ComboBox.Application.md)|
@@ -230,7 +229,7 @@ End Sub
 |[BackStyle](Access.ComboBox.BackStyle.md)|
 |[BackThemeColorIndex](Access.ComboBox.BackThemeColorIndex.md)|
 |[BackTint](Access.ComboBox.BackTint.md)|
-|[BeforeUpdate](Access.ComboBox.BeforeUpdate(property).md)|
+|[BeforeUpdate](Access.ComboBox.BeforeUpdate-property.md)|
 |[BorderColor](Access.ComboBox.BorderColor.md)|
 |[BorderShade](Access.ComboBox.BorderShade.md)|
 |[BorderStyle](Access.ComboBox.BorderStyle.md)|

@@ -1,5 +1,5 @@
 ---
-title: xlArrowHeadStyle enumeration (Excel)
+title: XlArrowHeadStyle enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlArrowHeadStyle
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlArrowHeadStyle enumeration (Excel)
+# XlArrowHeadStyle enumeration (Excel)
 
 Specifies the type of arrowhead to apply at the end of a line.
 

@@ -1,5 +1,5 @@
 ---
-title: xlActionType enumeration (Excel)
+title: XlActionType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlActionType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlActionType enumeration (Excel)
+# XlActionType enumeration (Excel)
 
 Specifies the action that should be performed.
 

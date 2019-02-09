@@ -1,5 +1,5 @@
 ---
-title: xlMousePointer enumeration (Excel)
+title: XlMousePointer enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlMousePointer
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlMousePointer enumeration (Excel)
+# XlMousePointer enumeration (Excel)
 
 Specifies the appearance of the mouse pointer in Excel.
 

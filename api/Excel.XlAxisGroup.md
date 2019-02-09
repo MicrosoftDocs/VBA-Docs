@@ -1,5 +1,5 @@
 ---
-title: xlAxisGroup enumeration (Excel)
+title: XlAxisGroup enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlAxisGroup
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlAxisGroup enumeration (Excel)
+# XlAxisGroup enumeration (Excel)
 
 Specifies the type of axis group.
 

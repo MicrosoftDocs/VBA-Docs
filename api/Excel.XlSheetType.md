@@ -1,5 +1,5 @@
 ---
-title: xlSheetType enumeration (Excel)
+title: XlSheetType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSheetType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSheetType enumeration (Excel)
+# XlSheetType enumeration (Excel)
 
 Specifies the worksheet type.
 

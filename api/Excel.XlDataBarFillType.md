@@ -1,5 +1,5 @@
 ---
-title: xlDataBarFillType enumeration (Excel)
+title: XlDataBarFillType enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDataBarFillType
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDataBarFillType enumeration (Excel)
+# XlDataBarFillType enumeration (Excel)
 
 Specifies how a data bar is filled with color.
 

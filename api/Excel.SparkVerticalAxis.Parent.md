@@ -19,7 +19,7 @@ Returns the parent  **[SparklineGroup](Excel.SparklineGroup.md)** object for the
 
 ## Syntax
 
-_expression_. `Parent`
+_expression_.**Parent**
 
 _expression_ A variable that represents a '[SparkVerticalAxis](Excel.SparkVerticalAxis.md)' object.
 

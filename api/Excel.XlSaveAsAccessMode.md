@@ -1,5 +1,5 @@
 ---
-title: xlSaveAsAccessMode enumeration (Excel)
+title: XlSaveAsAccessMode enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSaveAsAccessMode
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlSaveAsAccessMode enumeration (Excel)
+# XlSaveAsAccessMode enumeration (Excel)
 
 Specifies the access mode for the Save As function.
 

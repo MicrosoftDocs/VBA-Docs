@@ -19,7 +19,7 @@ Returns or sets the height of the specified table cell. .
 
 ## Syntax
 
- _expression_. `Height`
+ _expression_.**Height**
 
  _expression_ An expression that returns a [Cell](./Word.Cell.md) object.
 

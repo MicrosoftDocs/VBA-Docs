@@ -19,7 +19,7 @@ Returns a  **Double** value that represents the distance, in points, from the to
 
 ## Syntax
 
-_expression_. `Top`
+_expression_.**Top**
 
 _expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
 

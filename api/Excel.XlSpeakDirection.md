@@ -1,5 +1,5 @@
 ---
-title: xlSpeakDirection enumeration (Excel)
+title: XlSpeakDirection enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlSpeakDirection
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlSpeakDirection enumeration (Excel)
+# XlSpeakDirection enumeration (Excel)
 
 Specifies the order in which the cells are spoken.
 

@@ -1,5 +1,5 @@
 ---
-title: xlDisplayDrawingObjects enumeration (Excel)
+title: XlDisplayDrawingObjects enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlDisplayDrawingObjects
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlDisplayDrawingObjects enumeration (Excel)
+# XlDisplayDrawingObjects enumeration (Excel)
 
 Specifies how shapes are displayed.
 

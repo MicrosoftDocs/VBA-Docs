@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
-_expression_. `VarOleObject`
+_expression_.**VarOleObject**
 
 _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
 

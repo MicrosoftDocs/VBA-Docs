@@ -1,5 +1,5 @@
 ---
-title: xlCalculation enumeration (Excel)
+title: XlCalculation enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.xlCalculation
@@ -9,7 +9,7 @@ localization_priority: Priority
 ---
 
 
-# xlCalculation enumeration (Excel)
+# XlCalculation enumeration (Excel)
 
 Specifies the calculation mode.
 

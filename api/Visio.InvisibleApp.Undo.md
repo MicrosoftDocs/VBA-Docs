@@ -19,7 +19,7 @@ Reverses the most recent undo unit, if the undo unit can be reversed.
 
 ## Syntax
 
- _expression_. `Undo`
+ _expression_.**Undo**
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

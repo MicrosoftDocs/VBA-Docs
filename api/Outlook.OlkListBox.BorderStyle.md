@@ -19,7 +19,7 @@ Returns or sets an  **[OlBorderStyle](Outlook.OlBorderStyle.md)** constant that 
 
 ## Syntax
 
-_expression_. `BorderStyle`
+_expression_.**BorderStyle**
 
 _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 

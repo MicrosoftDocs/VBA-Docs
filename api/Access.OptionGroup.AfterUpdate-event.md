@@ -1,27 +1,27 @@
 ---
-title: TextBox.AfterUpdate event (Access)
-keywords: vbaac10.chm14195
+title: OptionGroup.AfterUpdate event (Access)
+keywords: vbaac10.chm14186
 f1_keywords:
-- vbaac10.chm14195
+- vbaac10.chm14186
 ms.prod: access
 api_name:
-- Access.TextBox.AfterUpdate
-ms.assetid: 609ef5f3-3894-85eb-4879-5db3fc7ff188
+- Access.OptionGroup.AfterUpdate
+ms.assetid: ea848f63-7d6d-dd03-058f-80e6cb46b1dd
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
-# TextBox.AfterUpdate event (Access)
+# OptionGroup.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
 
 
 ## Remarks
@@ -29,6 +29,8 @@ _expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
 Changing data in a control by using Visual Basic or a macro containing the SetValue action doesn't trigger these events for the control. However, if you then move to another record or save the record, the form's  **AfterUpdate** event does occur.
 
 To run a macro or event procedure when this event occurs, set the  **AfterUpdate** property to the name of the macro or to [Event Procedure].
+
+This event does not apply to option buttons, check boxes, or toggle buttons in an option group. It applies only to the option group itself.
 
 The  **AfterUpdate** event is triggered when a control or record is updated. Within a record, changed data in each control is updated when the control loses the focus or when the user presses ENTER or TAB.
 
@@ -45,6 +47,6 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 ## See also
 
 
-[TextBox Object](Access.TextBox.md)
+[OptionGroup Object](Access.OptionGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

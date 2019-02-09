@@ -19,14 +19,20 @@ Returns or sets which macro, event procedure, or user-defined function runs when
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
 _expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
 
 
 ## Remarks
 
-Valid values for this property are " _macroname_" where  _macroname_ is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the **AfterUpdate** event for the specified object, or " **=** _functionname_ **()** " where _functionname_ is the name of a user-defined function.
+Valid values for this property are: 
+
+- _macroname_, where _macroname_ is the name of a macro.
+
+- [Event Procedure], which indicates the event procedure associated with the **AfterUpdate** event for the specified object.
+
+- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
 
 
 ## Example

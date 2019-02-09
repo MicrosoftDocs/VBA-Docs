@@ -1,5 +1,5 @@
 ---
-title: xlChartPicturePlacement enumeration (Excel)
+title: XlChartPicturePlacement enumeration (Excel)
 ms.prod: excel
 api_name:
 - Excel.XlChartPicturePlacement
@@ -9,7 +9,7 @@ localization_priority: Normal
 ---
 
 
-# xlChartPicturePlacement enumeration (Excel)
+# XlChartPicturePlacement enumeration (Excel)
 
 Specifies the placement of a user-selected picture on a bar in a 3-D bar or column.
 

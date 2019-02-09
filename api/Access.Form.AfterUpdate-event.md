@@ -1,27 +1,27 @@
 ---
-title: ListBox.AfterUpdate event (Access)
-keywords: vbaac10.chm14172
+title: Form.AfterUpdate event (Access)
+keywords: vbaac10.chm13638
 f1_keywords:
-- vbaac10.chm14172
+- vbaac10.chm13638
 ms.prod: access
 api_name:
-- Access.ListBox.AfterUpdate
-ms.assetid: b95d98c8-0899-c555-14b4-d8e853b5dce3
+- Access.Form.AfterUpdate
+ms.assetid: b622d8c9-4802-a915-5cd4-f8a91ba57099
 ms.date: 06/08/2017
-localization_priority: Normal
+localization_priority: Priority
 ---
 
 
-# ListBox.AfterUpdate event (Access)
+# Form.AfterUpdate event (Access)
 
 The  **AfterUpdate** event occurs after changed data in a control or record is updated.
 
 
 ## Syntax
 
-_expression_. `AfterUpdate`
+_expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a [Form](Access.Form.md) object.
 
 
 ## Remarks
@@ -45,6 +45,6 @@ For bound controls, the  **OldValue** property isn't set to the updated value un
 ## See also
 
 
-[ListBox Object](Access.ListBox.md)
+[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
