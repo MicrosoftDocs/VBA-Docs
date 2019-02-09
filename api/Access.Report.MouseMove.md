@@ -47,9 +47,7 @@ To run a macro or event procedure when these events occur, set the **OnMouseMove
 
 The **MouseMove** event is generated continually as the mouse pointer moves over objects. Unless another object generates a mouse event, an object recognizes a **MouseMove** event whenever the mouse pointer is positioned within its borders.
 
-To cause a **MouseMove** event for a form to occur, move the mouse pointer over a blank area, record selector, or scroll bar on the form. To cause a **MouseMove** event for a form section to occur, move the mouse pointer over a blank area of the form section.
-
-To respond to an event caused by moving the mouse, you use a **MouseMove** event.
+To cause a **MouseMove** event for a report to occur, press the mouse button in a blank area on the report. To cause a **MouseMove** event for a report section to occur, press the mouse button in a blank area of the report section.
 
 To run a macro or event procedure in response to pressing and releasing the mouse buttons, you use the **MouseDown** and **MouseUp** events.
 

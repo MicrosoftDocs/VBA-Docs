@@ -7,80 +7,73 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.KeyDown
 ms.assetid: 1136ba36-01c9-bc97-7ba8-8bf215ad8a53
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.KeyDown event (Access)
 
-The  **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
+The **KeyDown** event occurs when the user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
 
-_expression_. `KeyDown`( ` _KeyCode_`, ` _Shift_` )
+_expression_.**KeyDown** (_KeyCode_, _Shift_)
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required|**Integer**||
-| _Shift_|Required|**Integer**||
+| _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the Home key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting _KeyCode_ to 0.|
+| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys at the time of the event. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the Shift key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the Ctrl key.</p></li><li><p><b>acAltMask</b>  The bit mask for the Alt key.</p></li></ul> |
 
 ## Return value
 
-nothing
-
+Nothing
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the  **OnKeyDown** property to the name of the macro or to [Event Procedure].
+The **KeyDown** event applies only to forms and controls on a form, and not to controls on a report.
+
+To run a macro or event procedure when these events occur, set the **OnKeyDown** property to the name of the macro or to [Event Procedure].
 
 For both events, the object with the focus receives all keystrokes. A form can have the focus only if it has no controls or all its visible controls are disabled.
 
-A form will also receive all keyboard events, even those that occur for controls, if you set the  **KeyPreview** property of the form to Yes. With this property setting, all keyboard events occur first for the form, and then for the control that has the focus. You can respond to specific keys pressed in the form, regardless of which control has the focus. For example, you may want the key combination CTRL+X to always perform the same action on a form.
+A form will also receive all keyboard events, even those that occur for controls, if you set the **KeyPreview** property of the form to Yes. With this property setting, all keyboard events occur first for the form, and then for the control that has the focus. You can respond to specific keys pressed in the form, regardless of which control has the focus. For example, you may want the key combination Ctrl+X to always perform the same action on a form.
 
-If you press and hold down a key, the  **KeyDown** and **KeyPress** events alternate repeatedly (**KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, then the **KeyUp** event occurs.
+If you press and hold down a key, the **KeyDown** and **KeyPress** events alternate repeatedly (**KeyDown**, **KeyPress**, **KeyDown**, **KeyPress**, and so on) until you release the key, and then the **KeyUp** event occurs.
 
-Although the  **KeyDown** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
-
+Although the **KeyDown** event occurs when most keys are pressed, it is typically used to recognize or distinguish between:
 
 - Extended character keys, such as function keys.
     
-- Navigation keys, such as HOME, END, PAGE UP, PAGE DOWN, UP ARROW, DOWN ARROW, RIGHT ARROW, LEFT ARROW, and TAB.
+- Navigation keys, such as Home, End, PgUp, PgDn, Up arrow, Down arrow, Right arrow, Left arrow, and Tab.
     
-- Combinations of keys and standard keyboard modifiers (SHIFT, CTRL, or ALT keys).
+- Combinations of keys and standard keyboard modifiers (Shift, Ctrl, or Alt keys).
     
 - The numeric keypad and keyboard number keys.
     
-The  **KeyDown** event does not occur when you press:
+The **KeyDown** event does not occur when you press:
 
-
-- The ENTER key if the form has a command button for which the  **Default** property is set to Yes.
+- The Enter key if the form has a command button for which the **Default** property is set to Yes.
     
-- The ESC key if the form has a command button for which the  **Cancel** property is set to Yes.
+- The Esc key if the form has a command button for which the **Cancel** property is set to Yes.
     
-The  **KeyDown** event occurs when you press or send an ANSI key. The **KeyUp** event occurs after any event for a control caused by pressing or sending the key. If a keystroke causes the focus to move from one control to another control, the **KeyDown** event occurs for the first control, while the **KeyPress** and **KeyUp** events occur for the second control.
+The **KeyDown** event occurs when you press or send an ANSI key. The **KeyUp** event occurs after any event for a control caused by pressing or sending the key. If a keystroke causes the focus to move from one control to another control, the **KeyDown** event occurs for the first control, while the **KeyPress** and **KeyUp** events occur for the second control.
 
-To find out the ANSI character corresponding to the key pressed, use the  **KeyPress** event.
+To find out the ANSI character corresponding to the key pressed, use the **KeyPress** event.
 
-If a modal dialog box is displayed as a result of pressing or sending a key, the  **KeyDown** and **KeyPress** events occur, but the **KeyUp** event doesn't occur.
-
+If a modal dialog box is displayed as a result of pressing or sending a key, the **KeyDown** and **KeyPress** events occur, but the **KeyUp** event doesn't occur.
 
 ## Example
 
-The following example determines whether you have pressed the SHIFT, CTRL, or ALT key.
+The following example determines whether you have pressed the Shift, Ctrl, or Alt key.
 
-To try the example, add the following event procedure to a form containing a text box named KeyHandler.
-
-
-
+To try the example, add the following event procedure to a form containing a text box named **KeyHandler**.
 
 ```vb
 Private Sub KeyHandler_KeyDown(KeyCode As Integer, _ 
@@ -100,9 +93,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
