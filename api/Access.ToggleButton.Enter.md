@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.Enter
 ms.assetid: b4d4f4ca-2b1f-8a9d-a6b6-eec730275af9
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

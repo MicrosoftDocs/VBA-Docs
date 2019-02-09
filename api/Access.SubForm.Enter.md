@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.SubForm.Enter
 ms.assetid: 9b5e717c-2f48-c74f-c3fd-eea9004bc9f9
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 
