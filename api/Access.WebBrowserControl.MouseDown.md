@@ -7,78 +7,63 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.MouseDown
 ms.assetid: c2679ba7-9f81-da1e-93ec-5232bb2c5111
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.MouseDown event (Access)
 
-The  **MouseDown** event occurs when the user presses a mouse button.
+The **MouseDown** event occurs when the user presses a mouse button.
 
 
 ## Syntax
 
 _expression_.**MouseDown** (_Button_, _Shift_, _X_, _Y_)
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Button_|Required|**Integer**||
-| _Shift_|Required|**Integer**||
-| _X_|Required|**Single**||
-| _Y_|Required|**Single**||
+| _Button_|Required|**Integer**|The button that was pressed to trigger the event. If you need to test for the _Button_ argument, you can use one of the following intrinsic constants as bit masks:<br/><br/>**acLeftButton** - The bit mask for the left mouse button.<br/>**acRightButton** - The bit mask for the right mouse button.<br/>**acMiddleButton** - The bit mask for the middle mouse button. |
+| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys when the button specified by the _Button_ argument was pressed or released. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<br/><br/>**acShiftMask** - The bit mask for the Shift key.<br/>**acCtrlMask** - The bit mask for the Ctrl key.<br/>**acAltMask** - The bit mask for the Alt key.|  
+| _X_|Required|**Single**|The x coordinate for the current location of the mouse pointer, in [twips](../language/glossary/vbe-glossary.md#twip). |
+| _Y_|Required|**Single**|The y coordinate for the current location of the mouse pointer, in twips. |
 
 ## Return value
 
-nothing
+Nothing
 
 
 ## Remarks
 
-
-
-
-- The  **MouseDown** event applies only to forms, form sections , and controls on a form, not controls on a report.
+The **MouseDown** event applies only to forms, form sections, and controls on a form, and not to controls on a report.
     
-- This event does not apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Pressing and releasing a mouse button in an attached label has the same effect as pressing and releasing the button in the associated control. The normal events for the control occur; no separate events occur for the attached label.
+This event does not apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Pressing and releasing a mouse button in an attached label has the same effect as pressing and releasing the button in the associated control. The normal events for the control occur; no separate events occur for the attached label.
     
+To run a macro or event procedure when these events occur, set the **OnMouseDown** property to the name of the macro or to [Event Procedure].
 
+You can use a **MouseDown** event to specify what happens when a particular mouse button is pressed or released. Unlike the **Click** and **DblClick** events, the **MouseDown** event enables you to distinguish between the left, right, and middle mouse buttons. You can also write code for mouse-keyboard combinations that use the Shift, Ctrl, and Alt keys.
 
-To run a macro or event procedure when these events occur, set the  **OnMouseDown** property to the name of the macro or to [Event Procedure].
+To cause a **MouseDown** event for a form to occur, press the mouse button in a blank area or record selector on the form. To cause a **MouseDown** event for a form section to occur, press the mouse button in a blank area of the form section.
 
-You can use a MouseDown event to specify what happens when a particular mouse button is pressed or released. Unlike the  **Click** and **DblClick** events, the MouseDown event enables you to distinguish between the left, right, and middle mouse buttons. You can also write code for mouse-keyboard combinations that use the SHIFT, CTRL, and ALT keys.
+The following apply to **MouseDown** events:
 
-To cause a  **MouseDown** event for a form to occur, press the mouse button in a blank area or record selector on the form. To cause a MouseDown event for a form section to occur, press the mouse button in a blank area of the form section.
-
-The following apply to  **MouseDown** events:
-
-
-
-
-- If a mouse button is pressed while the pointer is over a form or control, that object receives all mouse events up to and including the last  **MouseUp** event.
+- If a mouse button is pressed while the pointer is over a form or control, that object receives all mouse events up to and including the last **MouseUp** event.
     
 - If mouse buttons are pressed in succession, the object that receives the mouse event after the first press receives all mouse events until all buttons are released.
     
-
-
-To respond to an event caused by moving the mouse, you use a  **MouseMove** event.
+To respond to an event caused by moving the mouse, you use a **MouseMove** event.
 
 
 ## Example
 
-The following example shows how you can find out which mouse button caused a MouseDown event.
+The following example shows how you can find out which mouse button caused a **MouseDown** event.
 
-To try the example, add the following event procedure to a form:
-
-
-
+To try the example, add the following event procedure to a form.
 
 ```vb
 Private Sub Form_MouseDown(Button As Integer, _ 
@@ -97,9 +82,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
