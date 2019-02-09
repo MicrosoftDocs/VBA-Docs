@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Label.MouseMove
 ms.assetid: a06d836a-bd6b-83ad-26b0-59c3f9a24bcd
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

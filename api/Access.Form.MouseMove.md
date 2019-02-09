@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form.MouseMove
 ms.assetid: e255bb17-4997-9290-cd13-1a61666017b2
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

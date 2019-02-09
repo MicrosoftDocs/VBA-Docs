@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Section.MouseMove
 ms.assetid: 5ae021c2-24fc-5507-3267-245f061de35b
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

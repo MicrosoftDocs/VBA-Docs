@@ -28,10 +28,10 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Button_|Required|**Integer**|The button that was pressed to trigger the event. If you need to test for the _Button_ argument, you can use one of the following intrinsic constants as bit masks:<br/><br/>**acLeftButton** - The bit mask for the left mouse button.<br/>**acRightButton** - The bit mask for the right mouse button.<br/>**acMiddleButton** - The bit mask for the middle mouse button. |
-| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys when the button specified by the _Button_ argument was pressed or released. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<br/><br/>**acShiftMask** - The bit mask for the Shift key.<br/>**acCtrlMask** - The bit mask for the Ctrl key.<br/>**acAltMask** - The bit mask for the Alt key.|  
-| _X_|Required|**Single**|The x coordinate for the current location of the mouse pointer, in [twips](../language/glossary/vbe-glossary.md#twip). |
-| _Y_|Required|**Single**|The y coordinate for the current location of the mouse pointer, in twips. |
+| _Button_|Required|**Integer**|The button that was pressed to trigger the event. If you need to test for the _Button_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acLeftButton</b>  The bit mask for the left mouse button.</p></li><li><p><b>acRightButton</b>  The bit mask for the right mouse button.</p></li><li><p><b>acMiddleButton</b>  The bit mask for the middle mouse button.</p></li></ul>|
+| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys when the button specified by the _Button_ argument was pressed or released. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the Shift key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the Ctrl key.</p></li><li><p><b>acAltMask</b>  The bit mask for the Alt key.</p></li></ul>|  
+| _X_|Required|**Single**|The _x_ coordinate for the current location of the mouse pointer, in [twips](../language/glossary/vbe-glossary.md#twip). |
+| _Y_|Required|**Single**|The _y_ coordinate for the current location of the mouse pointer, in twips. |
 
 ## Remarks
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CommandButton.MouseMove
 ms.assetid: f20d4807-42a8-5c90-e18a-1208a138241c
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Image.MouseMove
 ms.assetid: 651525b5-0a71-0e54-d4ed-3802e672b4c2
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

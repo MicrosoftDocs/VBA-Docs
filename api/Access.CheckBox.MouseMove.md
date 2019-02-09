@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CheckBox.MouseMove
 ms.assetid: f45a89b3-eab8-0757-1ac8-b2aebaa47a1f
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.TextBox.MouseMove
 ms.assetid: 90d5d17b-8802-ec93-11ad-6be846bb1efe
-ms.date: 06/08/2017
+ms.date: 02/10/2019
 localization_priority: Normal
 ---
 
