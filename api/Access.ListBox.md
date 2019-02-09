@@ -22,9 +22,8 @@ This object corresponds to a list box control. The list box control displays a l
 In many cases, it's quicker and easier to select a value from a list than to remember a value to type. A list of choices also helps ensure that the value that's entered in a field is correct.
 
 
-|||
+|Control|Tool|
 |:-----|:-----|
-|**Control**:|**Tool**:|
 |![List box control](../images/t-lstbox_ZA06053984.gif)|![List box tool](../images/listbox_ZA06044481.gif)|
 
  **Note**  The list in a list box consists of rows of data. Rows can have one or more columns, which can appear with or without headings.
@@ -87,8 +86,8 @@ End Sub
 
 |Name|
 |:-----|
-|[AfterUpdate](Access.ListBox.AfterUpdate(even).md)|
-|[BeforeUpdate](Access.ListBox.BeforeUpdate(even).md)|
+|[AfterUpdate](Access.ListBox.AfterUpdate-event.md)|
+|[BeforeUpdate](Access.ListBox.BeforeUpdate-event.md)|
 |[Click](Access.ListBox.Click.md)|
 |[DblClick](Access.ListBox.DblClick.md)|
 |[Enter](Access.ListBox.Enter.md)|
@@ -123,7 +122,7 @@ End Sub
 |Name|
 |:-----|
 |[AddColon](Access.ListBox.AddColon.md)|
-|[AfterUpdate](Access.ListBox.AfterUpdate(property).md)|
+|[AfterUpdate](Access.ListBox.AfterUpdate-property.md)|
 |[AllowValueListEdits](Access.ListBox.AllowValueListEdits.md)|
 |[Application](Access.ListBox.Application.md)|
 |[AutoLabel](Access.ListBox.AutoLabel.md)|
@@ -131,7 +130,7 @@ End Sub
 |[BackShade](Access.ListBox.BackShade.md)|
 |[BackThemeColorIndex](Access.ListBox.BackThemeColorIndex.md)|
 |[BackTint](Access.ListBox.BackTint.md)|
-|[BeforeUpdate](Access.ListBox.BeforeUpdate(property).md)|
+|[BeforeUpdate](Access.ListBox.BeforeUpdate-property.md)|
 |[BorderColor](Access.ListBox.BorderColor.md)|
 |[BorderShade](Access.ListBox.BorderShade.md)|
 |[BorderStyle](Access.ListBox.BorderStyle.md)|

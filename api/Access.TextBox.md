@@ -38,9 +38,8 @@ End Sub
 Text boxes can be either bound or unbound. You use a bound text box to display data from a particular field. You use an unbound text box to display the results of a calculation, or to accept input from a user (as in the code example above).
 
 
-|||
+|Control|Tool|
 |:-----|:-----|
-|**Control**:|**Tool**:|
 |![Text box control](../images/t-txtbox_ZA06054010.gif)|![Text box tool](../images/textbox_ZA06044637.gif)|
 
 ## Events
@@ -49,8 +48,8 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 
 |Name|
 |:-----|
-|[AfterUpdate](Access.TextBox.AfterUpdate(even).md)|
-|[BeforeUpdate](Access.TextBox.BeforeUpdate(even).md)|
+|[AfterUpdate](Access.TextBox.AfterUpdate-event.md)|
+|[BeforeUpdate](Access.TextBox.BeforeUpdate-event.md)|
 |[Change](Access.TextBox.Change.md)|
 |[Click](Access.TextBox.Click.md)|
 |[DblClick](Access.TextBox.DblClick.md)|
@@ -86,7 +85,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 |Name|
 |:-----|
 |[AddColon](Access.TextBox.AddColon.md)|
-|[AfterUpdate](Access.TextBox.AfterUpdate(property).md)|
+|[AfterUpdate](Access.TextBox.AfterUpdate-property.md)|
 |[AllowAutoCorrect](Access.TextBox.AllowAutoCorrect.md)|
 |[Application](Access.TextBox.Application.md)|
 |[AsianLineBreak](Access.TextBox.AsianLineBreak.md)|
@@ -97,7 +96,7 @@ Text boxes can be either bound or unbound. You use a bound text box to display d
 |[BackStyle](Access.TextBox.BackStyle.md)|
 |[BackThemeColorIndex](Access.TextBox.BackThemeColorIndex.md)|
 |[BackTint](Access.TextBox.BackTint.md)|
-|[BeforeUpdate](Access.TextBox.BeforeUpdate(property).md)|
+|[BeforeUpdate](Access.TextBox.BeforeUpdate-property.md)|
 |[BorderColor](Access.TextBox.BorderColor.md)|
 |[BorderShade](Access.TextBox.BorderShade.md)|
 |[BorderStyle](Access.TextBox.BorderStyle.md)|

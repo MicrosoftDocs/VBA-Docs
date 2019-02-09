@@ -32,8 +32,8 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 
 |Name|
 |:-----|
-|[AfterUpdate](Access.OptionButton.AfterUpdate(even).md)|
-|[BeforeUpdate](Access.OptionButton.BeforeUpdate(even).md)|
+|[AfterUpdate](Access.OptionButton.AfterUpdate-event.md)|
+|[BeforeUpdate](Access.OptionButton.BeforeUpdate-event.md)|
 |[Click](Access.OptionButton.Click.md)|
 |[DblClick](Access.OptionButton.DblClick.md)|
 |[Enter](Access.OptionButton.Enter.md)|
@@ -65,10 +65,10 @@ It's also possible to use an unbound option button in a custom dialog box to acc
 |Name|
 |:-----|
 |[AddColon](Access.OptionButton.AddColon.md)|
-|[AfterUpdate](Access.OptionButton.AfterUpdate(property).md)|
+|[AfterUpdate](Access.OptionButton.AfterUpdate-property.md)|
 |[Application](Access.OptionButton.Application.md)|
 |[AutoLabel](Access.OptionButton.AutoLabel.md)|
-|[BeforeUpdate](Access.OptionButton.BeforeUpdate(property).md)|
+|[BeforeUpdate](Access.OptionButton.BeforeUpdate-property.md)|
 |[BorderColor](Access.OptionButton.BorderColor.md)|
 |[BorderShade](Access.OptionButton.BorderShade.md)|
 |[BorderStyle](Access.OptionButton.BorderStyle.md)|

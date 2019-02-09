@@ -2475,6 +2475,118 @@
           {
             "source_path": "api/access.checkbox.beforeupdate(property).md",
             "redirect_url": "/office/vba/api/access.checkbox.beforeupdate-property"
+          },
+          {
+            "source_path": "api/Access.ComboBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ComboBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ComboBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ComboBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ComboBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Form.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Form.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Form.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Form.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.Form.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.Form.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.Form.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.Form.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ListBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ListBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ListBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ListBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ListBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionButton.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionButton.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionButton.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionButton.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionButton.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.OptionGroup.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.OptionGroup.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.TextBox.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.TextBox.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.TextBox.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.TextBox.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.TextBox.BeforeUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.AfterUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.AfterUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.AfterUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.AfterUpdate-property"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.BeforeUpdate(even).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.BeforeUpdate-event"
+          },
+          {
+            "source_path": "api/Access.ToggleButton.BeforeUpdate(property).md",
+            "redirect_url": "/office/vba/api/Access.ToggleButton.BeforeUpdate-property"
           }
     ]
 }
