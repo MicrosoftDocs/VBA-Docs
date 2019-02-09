@@ -26,7 +26,14 @@ _expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) 
 
 ## Remarks
 
-Valid values for this property are " _macroname_" where  _macroname_ is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the **BeforeUpdate** event for the specified object, or " **=** _functionname_ **()** " where _functionname_ is the name of a user-defined function.
+Valid values for this property are: 
+
+- _macroname_, where _macroname_ is the name of a macro.
+
+- [Event Procedure], which indicates the event procedure associated with the **BeforeUpdate** event for the specified object.
+
+- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
+
 
 
 ## Example
