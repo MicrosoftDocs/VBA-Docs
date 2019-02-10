@@ -28,8 +28,8 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the HOME key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting KeyCode to 0.|
-| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys at the time of the event. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<br/><br/>**acShiftMask** - The bit mask for the Shift key.<br/>**acCtrlMask** - The bit mask for the Ctrl key.<br/>**acAltMask** - The bit mask for the Alt key.|
+| _KeyCode_|Required|**Integer**|A key code, such as **vbKeyF1** (the F1 key) or **vbKeyHome** (the Home key). To specify key codes, use the intrinsic constants shown in the Object Browser. You can prevent an object from receiving a keystroke by setting _KeyCode_ to 0.|
+| _Shift_|Required|**Integer**|The state of the Shift, Ctrl, and Alt keys at the time of the event. If you need to test for the _Shift_ argument, you can use one of the following intrinsic constants as bit masks:<ul><li><p><b>acShiftMask</b>  The bit mask for the Shift key.</p></li><li><p><b>acCtrlMask</b>  The bit mask for the Ctrl key.</p></li><li><p><b>acAltMask</b>  The bit mask for the Alt key.</p></li></ul> |
 
 
 ## Remarks
@@ -48,7 +48,7 @@ Although the **KeyUp** event occurs when most keys are pressed, it is typically 
 
 - Extended character keys, such as function keys.
     
-- Navigation keys, such as Home, End, PgUp, PgDn, UP arrow, DOWN arrow, RIGHT arrow, LEFT arrow, and Tab. 
+- Navigation keys, such as Home, End, PgUp, PgDn, Up arrow, Down arrow, Right arrow, Left arrow, and Tab. 
 
 - Combinations of keys and standard keyboard modifiers (Shift, Ctrl, or Alt keys).
     

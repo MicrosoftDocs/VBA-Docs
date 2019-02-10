@@ -36,7 +36,7 @@ The **Enter** event occurs before the **GotFocus** event. The **Exit** event occ
 
 Unlike the **GotFocus** and **LostFocus** events, the **Enter** and **Exit** events don't occur when a form receives or loses the focus. For example, suppose you select a check box on a form, and then click a report. The **Enter** and **GotFocus** events occur when you select the check box. Only the **LostFocus** event occurs when you click the report. The **Exit** event doesn't occur (because the focus is moving to a different window). If you select the check box on the form again to bring it to the foreground, the **GotFocus** event occurs, but not the **Enter** event (because the control had the focus when the form was last active). The **Exit** event occurs only when you click another control on the form.
 
-If you move the focus to a control on a form, and that control doesn't have the focus on that form, the **Exit** and **LostFocus** events for the control that does have the focus on the form occur before the **Enter** and **GotFocus** events for the control you moved to.
+If you move the focus to a control on a form, and that control doesn't have the focus on that form, the **Exit** and **LostFocus** events for the control that does have the focus on the form occur before the **Enter** and **GotFocus** events for the control that you moved to.
 
 If you use the mouse to move the focus from a control on a main form to a control on a subform of that form (a control that doesn't already have the focus on the subform), the following events occur:
 
@@ -48,7 +48,7 @@ If you use the mouse to move the focus from a control on a main form to a contro
 - **Enter** (for the control on the subform that the focus moved to)
 - **GotFocus** (for the control on the subform that the focus moved to)
 
-If the control that you move to on the subform previously had the focus, neither its **Enter** event nor its **GotFocus** event occurs, but the **Enter** event for the subform control does occur. If you move the focus from a control on a subform to a control on the main form, the **Exit** and **LostFocus** events for the control on the subform don't occur, just the **Exit** event for the subform control and the **Enter** and **GotFocus** events for the control on the main form.
+If the control that you move to on the subform previously had the focus, neither its **Enter** event nor its **GotFocus** event occurs, but the **Enter** event for the subform control does occur. If you move the focus from a control on a subform to a control on the main form, the **Exit** and **LostFocus** events for the control on the subform don't occur, only the **Exit** event for the subform control and the **Enter** and **GotFocus** events for the control on the main form.
 
 > [!NOTE] 
 > You often use the mouse or a key such as Tab to move the focus to another control. This causes mouse or keyboard events to occur in addition to the events discussed in this topic.
