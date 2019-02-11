@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.OptionButton.BeforeUpdate
 ms.assetid: 8940a73b-9b9c-7911-60b5-10db8445ecb9
-ms.date: 06/08/2017
+ms.date: 02/12/2019
 localization_priority: Normal
 ---
 
 
 # OptionButton.BeforeUpdate property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **[BeforeUpdate](access.OptionButton.beforeupdate-event.md)** event occurs. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**BeforeUpdate**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ Valid values for this property are:
 
 ## Example
 
-The following example specifies that when the BeforeUpdate event occurs on the first form of the current project, the associated event procedure should run.
+The following example specifies that when the **BeforeUpdate** event occurs on the first form of the current project, the associated event procedure should run.
 
 
 ```vb
@@ -47,9 +47,6 @@ Forms(0).BeforeUpdate = "[Event Procedure]"
 ```
 
 
-## See also
 
-
-[OptionButton Object](Access.OptionButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

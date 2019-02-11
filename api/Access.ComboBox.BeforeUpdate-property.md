@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.ComboBox.BeforeUpdate
 ms.assetid: ce748fb1-4f8d-9e96-f77c-5dfc54dfee48
-ms.date: 06/08/2017
+ms.date: 02/12/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.BeforeUpdate property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **[BeforeUpdate](access.ComboBox.beforeupdate-event.md)** event occurs. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**BeforeUpdate**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ Valid values for this property are:
 
 ## Example
 
-The following example specifies that when the BeforeUpdate event occurs on the first form of the current project, the associated event procedure should run.
+The following example specifies that when the **BeforeUpdate** event occurs on the first form of the current project, the associated event procedure should run.
 
 
 ```vb
@@ -47,14 +47,6 @@ Forms(0).BeforeUpdate = "[Event Procedure]"
 ```
 
 
-### About the contributors
 
-Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools. 
-
-
-## See also
-
-
-[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
