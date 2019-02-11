@@ -63,9 +63,9 @@ If you double-click any other control besides a command button, the second **Cli
 
 ## Example
 
-The following example shows how you can use a **DblClick** event procedure to open a form that displays records from the table that is the row source of a combo box. When the user double-clicks the Salesperson combo box in an Orders form, the Employees form is displayed, showing the record for the employee selected in the combo box.
+The following example shows how you can use a **DblClick** event procedure to open a form that displays records from the table that is the row source of a combo box. When the user double-clicks the **Salesperson** combo box in an **Orders** form, the **Employees** form is displayed, showing the record for the employee selected in the combo box.
 
-To try the example, add the following event procedure to a form named Orders that contains a combo box named EmployeeID. The combo box should have as its row source the same table that is the source for the Employees form (or a query based on that table).
+To try the example, add the following event procedure to a form named **Orders** that contains a combo box named **EmployeeID**. The combo box should have as its row source the same table that is the source for the **Employees** form (or a query based on that table).
 
 ```vb
 Private Sub EmployeeID_DblClick(Cancel As Integer) 
