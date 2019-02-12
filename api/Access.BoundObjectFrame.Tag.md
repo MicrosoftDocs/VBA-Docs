@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Tag property (Access)
 
-Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write  **String**.
+Stores extra information about a form, report, section, or control needed by a Microsoft Access application. Read/write **String**.
 
 
 ## Syntax
@@ -28,14 +28,16 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 You can enter a string expression up to 2048 characters long. The default setting is a zero-length string (" ").
 
-Unlike other properties, the  **Tag** property setting doesn't affect any of an object's attributes.
+Unlike other properties, the **Tag** property setting doesn't affect any of an object's attributes.
 
-You can use this property to assign an identification string to an object without affecting any of its other property settings or causing other side effects. The  **Tag** property is useful when you need to check the identity of a form, report, section, or control that is passed as a variable to a procedure.
+You can use this property to assign an identification string to an object without affecting any of its other property settings or causing other side effects. The **Tag** property is useful when you need to check the identity of a form, report, section, or control that is passed as a variable to a procedure.
 
 
 ## Example
 
-The following example uses the  **Tag** property to display custom messages about controls on a form. When a control has the focus, descriptive text is displayed in a label control called `lblMessage`. You specify the text for the message by setting the  **Tag** property for each control to a short text string. When a control receives the focus, its **Tag** property is assigned to the label control's **Caption** property. This example displays the descriptive text for a text box named `txtDescription` and a command button named `cmdButton` on a form.
+The following example uses the **Tag** property to display custom messages about controls on a form. When a control has the focus, descriptive text is displayed in a label control called **lblMessage**. You specify the text for the message by setting the **Tag** property for each control to a short text string. When a control receives the focus, its **Tag** property is assigned to the label control's **Caption** property. 
+
+This example displays the descriptive text for a text box named **txtDescription** and a command button named **cmdButton** on a form.
 
 
 ```vb
@@ -69,9 +71,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

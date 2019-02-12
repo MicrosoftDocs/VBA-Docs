@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ComboBox.OnMouseMove property (Access)
 
-Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Mouse Move** box in the Properties window. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **MouseMove** event occurs when the user moves the mouse over the object.
 
-The  **OnMouseMove** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Mouse Move** box in the object's **Properties** window):
+The  **OnMouseMove** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Mouse Move** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
@@ -44,7 +44,8 @@ If the  **On Mouse Move** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example prints the value of the  **OnMouseMove** property in the Immediate window for the button named "OK" on the "Order Entry" form.
+The following example prints the value of the  **OnMouseMove** property in the Immediate window for the button named **OK** on the **Order Entry** form.
+
 
 
 ```vb

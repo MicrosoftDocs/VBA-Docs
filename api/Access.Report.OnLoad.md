@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnLoad property (Access)
 
-Sets or returns the value of the  **On Load** box in the **Properties** window of a report. Read/write **String**.
+Sets or returns the value of the  **On Load** box in the Properties window of a report. Read/write **String**.
 
 
 ## Syntax

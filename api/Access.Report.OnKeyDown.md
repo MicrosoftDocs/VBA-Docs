@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnKeyDown property (Access)
 
-Sets or returns the value of the  **On Key Down** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Key Down** box in the Properties window. Read/write **String**.
 
 
 ## Syntax

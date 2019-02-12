@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.OnInsert property (Access)
 
-Sets or returns the value of the  **Before Insert** box in the **Properties** window of a form. Read/write **String**.
+Sets or returns the value of the  **Before Insert** box in the Properties window of a form. Read/write **String**.
 
 
 ## Syntax

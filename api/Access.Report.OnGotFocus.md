@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnGotFocus property (Access)
 
-Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified report. Read/write **String**.
+Sets or returns the value of the  **On Got Focus** box in the Properties window of the specified report. Read/write **String**.
 
 
 ## Syntax

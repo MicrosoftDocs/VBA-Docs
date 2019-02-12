@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.OnKeyPress property (Access)
 
-Sets or returns the value of the **On Key Press** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the **On Key Press** box in the Properties window. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The **[KeyPress](access.attachment.keypress.md)** event occurs when a user presses a key while a form or control has the focus. This event also occurs if you send a keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
-The **OnKeyPress** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Key Press** box in the object's **Properties** window):
+The **OnKeyPress** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Key Press** box in the object's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     

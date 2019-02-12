@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ComboBox.OnNotInList property (Access)
 
-Sets or returns the value of the  **On Not in List** box in the **Properties** window of a combo box. Read/write **String**.
+Sets or returns the value of the  **On Not in List** box in the Properties window of a combo box. Read/write **String**.
 
 
 ## Syntax

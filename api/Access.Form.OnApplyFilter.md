@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.OnApplyFilter property (Access)
 
-Sets or returns the value of the  **On Apply Filter** box in the **Properties** window of a form. Read/write **String**.
+Sets or returns the value of the  **On Apply Filter** box in the Properties window of a form. Read/write **String**.
 
 
 ## Syntax

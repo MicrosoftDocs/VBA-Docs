@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnUnload property (Access)
 
-Sets or returns the value of the  **On Unload** box in the **Properties** window of a form. Read/write **String**.
+Sets or returns the value of the  **On Unload** box in the Properties window of a form. Read/write **String**.
 
 
 ## Syntax

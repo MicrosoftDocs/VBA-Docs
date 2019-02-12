@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnMouseMove property (Access)
 
-Sets or returns the value of the  **On Mouse Move** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Mouse Move** box in the Properties window. Read/write **String**.
 
 
 ## Syntax

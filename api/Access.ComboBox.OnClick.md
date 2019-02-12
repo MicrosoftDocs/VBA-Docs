@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ComboBox.OnClick property (Access)
 
-Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Click** box in the Properties window. Read/write **String**.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ The  **Click** event occurs when one of the following things occurs:
     
 -  The user commits a change to the value of the combo box. In this case, the **Click** event fires after the **AfterUpdate** event and before the **Exit** event.
     
-The  **OnClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the object's **Properties** window):
+The  **OnClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

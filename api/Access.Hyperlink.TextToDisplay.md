@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) objec
 
 ## Example
 
-The following example displays the words "Go to Home page" as an active hyperlink in the label named "Label20" on the "Suppliers" form. Clicking the hyperlink takes the user to the address specified in the label's  **HyperlinkAddress** property.
+The following example displays the words "Go to Home page" as an active hyperlink in the label named "Label20" on the **Suppliers** form. Clicking the hyperlink takes the user to the address specified in the label's  **HyperlinkAddress** property.
 
 
 ```vb

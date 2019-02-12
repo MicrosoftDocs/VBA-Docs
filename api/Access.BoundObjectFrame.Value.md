@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Value property (Access)
 
-Gets of sets the value of the field that the control is bound to. Read/write  **Variant**.
+Gets of sets the value of the field that the control is bound to. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-The  **Value** property for a bound object frame or a bound chart control is set to the value of the field that the control is bound to. Since these fields normally contain OLE objects or chart objects, which are stored as binary data, this value is usually meaningless.
+The **Value** property for a bound object frame or a bound chart control is set to the value of the field that the control is bound to. Because these fields normally contain OLE objects or chart objects, which are stored as binary data, this value is usually meaningless.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
-
- **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
-
-
-## See also
+> [!NOTE] 
+> The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
 
 
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

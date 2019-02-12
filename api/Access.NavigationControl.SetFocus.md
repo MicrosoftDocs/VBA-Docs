@@ -45,7 +45,7 @@ You can use the  **SetFocus** method to move the focus to a subform, which is a 
 
 ## Example
 
-The following example uses the  **SetFocus** method to move the focus to an EmployeeID text box on an Employees form:
+The following example uses the  **SetFocus** method to move the focus to an **EmployeeID** text box on an **Employees** form.
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.OnCurrent property (Access)
 
-Sets or returns the value of the  **On Current** box in the **Properties** window of a form. Read/write **String**.
+Sets or returns the value of the  **On Current** box in the Properties window of a form. Read/write **String**.
 
 
 ## Syntax

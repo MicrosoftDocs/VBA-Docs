@@ -60,11 +60,11 @@ myDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _
  msoPatternHorizontalBrick
 ```
 
-An ActiveX control on a sheet has two names: the name of the shape that contains the control, which you can see in the  **Name** box when you view the sheet, and the code name for the control, which you can see in the cell to the right of **(Name)** in the **Properties** window. When you first add a control to a sheet, the shape name and code name match. However, if you change either the shape name or code name, the other isn't automatically changed to match.
+An ActiveX control on a sheet has two names: the name of the shape that contains the control, which you can see in the  **Name** box when you view the sheet, and the code name for the control, which you can see in the cell to the right of **(Name)** in the Properties window. When you first add a control to a sheet, the shape name and code name match. However, if you change either the shape name or code name, the other isn't automatically changed to match.
 
 
 
-You use the code name of a control in the names of its event procedures. However, when you return a control from the  **Shapes** or **OLEObjects** collection for a sheet, you must use the shape name, not the code name, to refer to the control by name. For example, assume that you add a check box to a sheet and that both the default shape name and the default code name are CheckBox1. If you then change the control code name by typing chkFinished next to **(Name)** in the **Properties** window, you must use chkFinished in event procedures names, but you still have to use CheckBox1 to return the control from the **Shapes** or **OLEObject** collection, as shown in the following example.
+You use the code name of a control in the names of its event procedures. However, when you return a control from the  **Shapes** or **OLEObjects** collection for a sheet, you must use the shape name, not the code name, to refer to the control by name. For example, assume that you add a check box to a sheet and that both the default shape name and the default code name are CheckBox1. If you then change the control code name by typing chkFinished next to **(Name)** in the Properties window, you must use chkFinished in event procedures names, but you still have to use CheckBox1 to return the control from the **Shapes** or **OLEObject** collection, as shown in the following example.
 
 
 

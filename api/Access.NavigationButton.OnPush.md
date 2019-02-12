@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationButton.OnPush property (Access)
 
-Sets or returns the value of the  **On Click** box in the **Properties** window of a command button. Read/write **String**.
+Sets or returns the value of the  **On Click** box in the Properties window of a command button. Read/write **String**.
 
 
 ## Syntax

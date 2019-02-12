@@ -26,7 +26,8 @@ _expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) 
 
 ## Remarks
 
-The  **Scaling** property corresponds to the **Size Mode** box in the object frame's **Properties** window. This property accepts the following values.
+The  **Scaling** property corresponds to the **Size Mode** box in the object frame's Properties window.
+ This property accepts the following values.
 
 
 -  **0** (Clip) If the object exceeds the control's boundaries, the object is clipped at the boundaries of the control.
@@ -38,7 +39,7 @@ The  **Scaling** property corresponds to the **Size Mode** box in the object fra
 
 ## Example
 
-The following example sets the size mode of the OLE control "Customer Picture" on the "Order Entry" form to zoomed.
+The following example sets the size mode of the OLE control **Customer Picture** on the **Order Entry** form to zoomed.
 
 
 ```vb

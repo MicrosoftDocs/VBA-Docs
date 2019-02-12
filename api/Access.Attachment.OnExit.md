@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.OnExit property (Access)
 
-Sets or returns the value of the **On Exit** box in the **Properties** window of the specified object. Read/write **String**.
+Sets or returns the value of the **On Exit** box in the Properties window of the specified object. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The **[Exit](access.attachment.exit.md)** event occurs just before a control loses the focus to another control on the same form.
 
-The **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's **Properties** window):
+The **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     

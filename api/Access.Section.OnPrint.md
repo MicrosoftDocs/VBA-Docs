@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section.OnPrint property (Access)
 
-Sets or returns the value of the  **On Print** box in the **Properties** window of a report section. Read/write **String**.
+Sets or returns the value of the  **On Print** box in the Properties window of a report section. Read/write **String**.
 
 
 ## Syntax
