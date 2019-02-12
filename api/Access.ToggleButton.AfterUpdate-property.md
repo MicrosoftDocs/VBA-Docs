@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.AfterUpdate
 ms.assetid: 58e20c71-189c-d2df-54a0-42b8fad6ec07
-ms.date: 06/08/2017
+ms.date: 02/12/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.AfterUpdate property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **AfterUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **[AfterUpdate](access.togglebutton.afterupdate-event.md)** event occurs. Read/write **String**.
 
 
 ## Syntax
 
 _expression_.**AfterUpdate**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
@@ -37,7 +37,7 @@ Valid values for this property are:
 
 ## Example
 
-The following example specifies that when the AfterUpdate event occurs on the first form of the current project, the associated event procedure should run.
+The following example specifies that when the **AfterUpdate** event occurs on the first form of the current project, the associated event procedure should run.
 
 
 ```vb
@@ -46,9 +46,6 @@ Forms(0).AfterUpdate = "[Event Procedure]"
 ```
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

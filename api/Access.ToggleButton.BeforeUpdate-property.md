@@ -7,21 +7,21 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.BeforeUpdate
 ms.assetid: a2754963-4168-aa9f-6b0c-8de4332c09e6
-ms.date: 06/08/2017
+ms.date: 02/12/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.BeforeUpdate property (Access)
 
-Returns or sets which macro, event procedure, or user-defined function runs when the  **BeforeUpdate** event occurs. Read/write **String**.
+Returns or sets which macro, event procedure, or user-defined function runs when the **[BeforeUpdate](access.togglebutton.beforeupdate-event.md)** event occurs. Read/write **String**. 
 
 
 ## Syntax
 
 _expression_.**BeforeUpdate**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
@@ -38,7 +38,7 @@ Valid values for this property are:
 
 ## Example
 
-The following example specifies that when the BeforeUpdate event occurs on the first form of the current project, the associated event procedure should run.
+The following example specifies that when the **BeforeUpdate** event occurs on the first form of the current project, the associated event procedure should run.
 
 
 ```vb
@@ -47,9 +47,6 @@ Forms(0).BeforeUpdate = "[Event Procedure]"
 ```
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
