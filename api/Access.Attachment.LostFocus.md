@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the **OnLostFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **[OnLostFocus](access.Attachment.onlostfocus.md)** property to the name of the macro or to [Event Procedure].
 
 This event occurs when the focus moves in response to a user action, such as pressing the Tab key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 

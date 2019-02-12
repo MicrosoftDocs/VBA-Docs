@@ -26,9 +26,9 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the **OnLostFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **[OnLostFocus](access.boundobjectframe.onlostfocus.md)** property to the name of the macro or to [Event Procedure].
 
-This events occurs when the focus moves in response to a user action, such as pressing the Tab key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
+This event occurs when the focus moves in response to a user action, such as pressing the Tab key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 
 A control can receive the focus only if its **Visible** and **Enabled** properties are set to Yes. A form can receive the focus only if it has no controls or if all visible controls are disabled. If a form contains any visible, enabled controls, the **GotFocus** event for the form doesn't occur.
 
@@ -61,7 +61,7 @@ When you switch between two open forms, the **Deactivate** event occurs for the 
 
 ## Example
 
-The following example displays a message in a label when the focus moves to an option button. To try the example, add the following event procedures to a form named Contacts that contains an option button named **OptionYes** and a label named **LabelYes**.
+The following example displays a message in a label when the focus moves to an option button. To try the example, add the following event procedures to a form named **Contacts** that contains an option button named **OptionYes** and a label named **LabelYes**.
 
 ```vb
 Private Sub OptionYes_GotFocus() 
