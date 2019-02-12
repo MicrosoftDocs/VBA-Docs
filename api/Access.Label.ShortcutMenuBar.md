@@ -40,7 +40,7 @@ Shortcut menus aren't available to any object if the  **AllowShortcutMenus** pro
 
 ## Example
 
-The following example sets the "Suppliers_Toolbar" as the custom shortcut menu to display when the user clicks the right mouse button on the "Suppliers" form.
+The following example sets the "Suppliers_Toolbar" as the custom shortcut menu to display when the user clicks the right mouse button on the **Suppliers** form.
 
 
 ```vb

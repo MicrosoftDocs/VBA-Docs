@@ -33,7 +33,7 @@ Nothing
 
 The **GotFocus** event applies only to forms and controls on a form, and not to controls on a report.
 
-To run a macro or event procedure when these events occur, set the **OnGotFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **[OnGotFocus](access.Attachment.ongotfocus.md)**  property to the name of the macro or to [Event Procedure].
 
 These events occur when the focus moves in response to a user action, such as pressing the Tab key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 

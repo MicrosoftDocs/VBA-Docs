@@ -26,7 +26,7 @@ _expression_. `CodeName`
 
 ## Remarks
 
-The value that you see in the cell to the right of  **(Name)** in the **Properties** window is the code name of the selected object. At design time, you can change the code name of an object by changing this value. You cannot programmatically change this property at run time.
+The value that you see in the cell to the right of  **(Name)** in the Properties window is the code name of the selected object. At design time, you can change the code name of an object by changing this value. You cannot programmatically change this property at run time.
 
 The code name for an object can be used in place of an expression that returns the object. For example, if the code name for worksheet one is "Sheet1", the following expressions are identical:
 

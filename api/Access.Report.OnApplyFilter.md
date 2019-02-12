@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnApplyFilter property (Access)
 
-Sets or returns the value of the  **On Apply Filter** box in the **Properties** window of a report. Read/write **String**.
+Sets or returns the value of the  **On Apply Filter** box in the Properties window of a report. Read/write **String**.
 
 
 ## Syntax

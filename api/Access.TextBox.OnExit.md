@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TextBox.OnExit property (Access)
 
-Sets or returns the value of the  **On Exit** box in the **Properties** window of specified object. Read/write **String**. .
+Sets or returns the value of the  **On Exit** box in the Properties window of specified object. Read/write **String**. .
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **Exit** event occurs just before a control loses the focus to another control on the same form.
 
-The  **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's **Properties** window):
+The  **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
@@ -44,7 +44,8 @@ If the  **On Exit** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example associates the  **Exit** event with the macro "Exit_Macro" for the button named "OK" on the "Order Entry" form.
+The following example associates the  **Exit** event with the macro "Exit_Macro" for the button named **OK** on the **Order Entry** form.
+
 
 
 ```vb

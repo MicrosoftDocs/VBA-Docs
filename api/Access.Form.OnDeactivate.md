@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.OnDeactivate property (Access)
 
-Sets or returns the value of the  **On Deactivate** box in the **Properties** window of a form or report. Read/write **String**.
+Sets or returns the value of the  **On Deactivate** box in the Properties window of a form or report. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **Deactivate** event occurs when the form or report loses the focus to a Table, Query, Form, Report, Macro, or Module window, or to the Database window.
 
-The  **OnDeactivate** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Deactivate** box in the object's **Properties** window):
+The  **OnDeactivate** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Deactivate** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

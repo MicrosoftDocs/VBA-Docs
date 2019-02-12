@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Section property (Access)
 
-You can identify these controls by the section of a form or report where the control appears. Read/write  **Integer**.
+You can identify these controls by the section of a form or report where the control appears. Read/write **Integer**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-For controls, you can use the  **Section** property to determine which section of a form or report a control is in.
+For controls, you can use the **Section** property to determine which section of a form or report a control is in.
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

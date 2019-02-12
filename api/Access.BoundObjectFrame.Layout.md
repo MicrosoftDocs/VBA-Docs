@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Layout property (Access)
 
-Returns the type of layout for the specified object frame. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
+Returns the type of layout for the specified object frame. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Layout**
 _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

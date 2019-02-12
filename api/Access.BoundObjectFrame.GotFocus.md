@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-To run a macro or event procedure when these events occur, set the **OnGotFocus** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when these events occur, set the **[OnGotFocus](access.BoundObjectFrame.ongotfocus.md)** property to the name of the macro or to [Event Procedure].
 
 These events occur when the focus moves in response to a user action, such as pressing the Tab key or clicking the object, or when you use the **SetFocus** method in Visual Basic or the SelectObject, GoToRecord, GoToControl, or GoToPage action in a macro.
 
@@ -51,7 +51,7 @@ If you use the mouse to move the focus from a control on a main form to a contro
 - **Enter** (for the control on the subform that the focus moved to)
 - **GotFocus** (for the control on the subform that the focus moved to)
 
-If the control that you move to on the subform previously had the focus, neither its **Enter** event nor its **GotFocus** event occurs, but the **Enter** event for the subform control does occur. If you move the focus from a control on a subform to a control on the main form, the **Exit** and **LostFocus** events for the control on the subform don't occur, just the **Exit** event for the subform control and the **Enter** and **GotFocus** events for the control on the main form.
+If the control that you move to on the subform previously had the focus, neither its **Enter** event nor its **GotFocus** event occurs, but the **Enter** event for the subform control does occur. If you move the focus from a control on a subform to a control on the main form, the **Exit** and **LostFocus** events for the control on the subform don't occur, only the **Exit** event for the subform control and the **Enter** and **GotFocus** events for the control on the main form.
 
 > [!NOTE] 
 > You often use the mouse or a key such as Tab to move the focus to another control. This causes mouse or keyboard events to occur in addition to the events discussed in this topic.
@@ -61,7 +61,7 @@ When you switch between two open forms, the **Deactivate** event occurs for the 
 
 ## Example
 
-The following example displays a message in a label when the focus moves to an option button. To try the example, add the following event procedures to a form named Contacts that contains an option button named **OptionYes** and a label named **LabelYes**.
+The following example displays a message in a label when the focus moves to an option button. To try the example, add the following event procedures to a form named **Contacts** that contains an option button named **OptionYes** and a label named **LabelYes**.
 
 ```vb
 Private Sub OptionYes_GotFocus() 

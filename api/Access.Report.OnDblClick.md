@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnDblClick property (Access)
 
-Sets or returns the value of the  **On Dbl Click** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Dbl Click** box in the Properties window. Read/write **String**.
 
 
 ## Syntax

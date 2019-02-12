@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OnLostFocus property (Access)
 
-Sets or returns the value of the  **On Lost Focus** box in the **Properties** window of the specified report. Read/write **String**.
+Sets or returns the value of the  **On Lost Focus** box in the Properties window of the specified report. Read/write **String**.
 
 
 ## Syntax

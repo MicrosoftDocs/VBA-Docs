@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationControl.OnGotFocus property (Access)
 
-Sets or returns the value of the  **On Got Focus** box in the **Properties** window of the specified object. Read/write **String**.
+Sets or returns the value of the  **On Got Focus** box in the Properties window of the specified object. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **GotFocus** event occurs when the object receives the focus.
 
-The  **OnGotFocus** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Got Focus** box in the object's **Properties** window):
+The  **OnGotFocus** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Got Focus** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
@@ -44,7 +44,8 @@ If the  **On Got Focus** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example prints the value of the  **OnGotFocus** property in the Immediate window for the button named "OK" on the "Order Entry" form.
+The following example prints the value of the  **OnGotFocus** property in the Immediate window for the button named **OK** on the **Order Entry** form.
+
 
 
 ```vb

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebBrowserControl.OnUpdated property (Access)
 
-Sets or returns the value of the  **On Updated** box in the **Properties** window of a form or report. Read/write **String**.
+Sets or returns the value of the  **On Updated** box in the Properties window of a form or report. Read/write **String**.
 
 
 ## Syntax

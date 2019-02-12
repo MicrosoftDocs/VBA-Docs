@@ -36,7 +36,7 @@ The control's  **OLETypeAllowed** property must be set to Linked or Either when 
 
 ## Example
 
-The following example creates a linked OLE object using an unbound object frame named  `OLE1` and sizes the control to display the object's entire contents when the user clicks a command button.
+The following example creates a linked OLE object using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user clicks a command button.
 
 
 ```vb

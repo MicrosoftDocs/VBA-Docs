@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section.OnFormat property (Access)
 
-Sets or returns the value of the  **On Format** box in the **Properties** window of a report section. Read/write **String**.
+Sets or returns the value of the  **On Format** box in the Properties window of a report section. Read/write **String**.
 
 
 ## Syntax

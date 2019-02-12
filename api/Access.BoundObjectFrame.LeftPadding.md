@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.LeftPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the object frame and its left gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the object frame and its left gridline. Read/write **Integer**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**LeftPadding**
 _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjectFrame.md)** object.
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

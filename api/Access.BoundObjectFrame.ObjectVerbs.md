@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.ObjectVerbs property (Access)
 
-You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
+You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs that an OLE object supports. Read-only **String**.
 
 
 ## Syntax
@@ -25,8 +25,6 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -70,9 +68,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

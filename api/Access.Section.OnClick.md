@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section.OnClick property (Access)
 
-Sets or returns the value of the  **On Click** box in the **Properties** window. Read/write **String**.
+Sets or returns the value of the  **On Click** box in the Properties window. Read/write **String**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **Click** event occurs when a user presses and releases the left mouse button over an object.
 
-The  **OnClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the object's **Properties** window):
+The  **OnClick** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Click** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

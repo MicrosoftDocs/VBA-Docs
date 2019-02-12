@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Locked property (Access)
 
-The  **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
+The **Locked** property specifies whether you can edit data in a control in Form view. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,14 +26,14 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-The default setting of the  **Locked** property is **False**. The **BoundObjectFrame** control functions normally but doesn't allow editing, adding, or deleting data.
+The default setting of the **Locked** property is **False**. The **BoundObjectFrame** control functions normally but doesn't allow editing, adding, or deleting data.
 
-Use the  **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
+Use the **Locked** property to protect data in a field by making it read-only. For example, you might want a control to only display information without allowing editing, or you might want to lock a control until a specific condition is met.
 
 
 ## Example
 
-The following example toggles the  **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, then the SalaryDetails button is enabled and the PersonalInfo control is unlocked and enabled.
+The following example toggles the **Enabled** property of a command button and the **Enabled** and **Locked** properties of a control, depending on the type of employee displayed in the current record. If the employee is a manager, the **SalaryDetails** button is enabled and the **PersonalInfo** control is unlocked and enabled.
 
 
 ```vb
@@ -51,9 +51,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

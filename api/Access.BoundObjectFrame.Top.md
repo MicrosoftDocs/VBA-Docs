@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Top property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
 
 
 ## Syntax
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

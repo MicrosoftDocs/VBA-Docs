@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.OLETypeAllowed property (Access)
 
-You can use the  **OLETypeAllowed** property to specify the type of OLE object a control can contain. Read/write **Byte**.
+You can use the **OLETypeAllowed** property to specify the type of OLE object that a control can contain. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-The  **OLETypeAllowed** property uses the following settings.
-
-
+The **OLETypeAllowed** property uses the following settings.
 
 |Setting|Constant|Description|
 |:-----|:-----|:-----|
@@ -36,14 +34,15 @@ The  **OLETypeAllowed** property uses the following settings.
 |Embedded|**acOLEEmbedded**|The control can contain only an embedded object.|
 |Either|**acOLEEither**|(Default) The control can contain either a linked or an embedded object.|
 
- **Note**   For unbound object frames and charts , you can't change the **OLETypeAllowed** setting after an object is created. For bound object frames, you can change the setting after the object is created. Changing the **OLETypeAllowed** property setting only affects new objects that you add to the control.
+> [!NOTE] 
+> For unbound object frames and charts , you can't change the **OLETypeAllowed** setting after an object is created. For bound object frames, you can change the setting after the object is created. Changing the **OLETypeAllowed** property setting only affects new objects that you add to the control.
 
-To determine the type of OLE object a control already contains, you can use the  **OLEType** property.
+To determine the type of OLE object that a control already contains, you can use the **OLEType** property.
 
 
 ## Example
 
-The following example creates a linked OLE object using an unbound object frame named  `OLE1` and sizes the control to display the object's entire contents when the user clicks a command button.
+The following example creates a linked OLE object by using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user clicks a command button.
 
 
 ```vb
@@ -63,9 +62,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

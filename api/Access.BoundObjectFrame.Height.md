@@ -33,9 +33,6 @@ Microsoft Access automatically sets the **Height** property when you create or s
 The height of controls is measured from the center of their borders so controls with different border widths align correctly. 
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

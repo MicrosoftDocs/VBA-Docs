@@ -31,7 +31,7 @@ Nothing
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the **OnChange** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[OnChange](access.attachment.onchange.md)** property to the name of the macro or to [Event Procedure].
 
 By running a macro or event procedure when a **Change** event occurs, you can coordinate data display among controls. You can also display data or a formula in one control and the results in another control.
 
@@ -39,8 +39,7 @@ The **Change** event doesn't occur when a value changes in a calculated control.
 
 A **Change** event can cause a cascading event. This occurs when a macro or event procedure that runs in response to the control's **Change** event alters the control's contents; for example, by changing a property setting that determines the control's value, such as the **Text** property for a text box. To prevent a cascading event:
 
-- If possible, avoid attaching a Change macro or event procedure to a control that alters the control's contents.
-    
+- If possible, avoid attaching a Change macro or event procedure to a control that alters the control's contents. 
 - Avoid creating two or more controls having **Change** events that affect each other; for example, two text boxes that update each other.
     
 
