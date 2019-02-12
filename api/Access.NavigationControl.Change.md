@@ -36,7 +36,7 @@ Examples of this event include entering a character directly in the text box or 
 > [!NOTE] 
 > Setting the value of a control by using a macro or Visual Basic doesn't trigger this event for the control. You must type the data directly into the control, or set the control's **Text** property.
 
-To run a macro or event procedure when this event occurs, set the **[OnChange](access.NavigationControl.onchange.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnChange** property to the name of the macro or to [Event Procedure].
 
 By running a macro or event procedure when a **Change** event occurs, you can coordinate data display among controls. You can also display data or a formula in one control and the results in another control.
 

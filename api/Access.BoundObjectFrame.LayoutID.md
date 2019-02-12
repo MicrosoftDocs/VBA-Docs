@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified object frame. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified object frame. Read-only **Long**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
 
-## See also
 
-
-[BoundObjectFrame Object](Access.BoundObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
