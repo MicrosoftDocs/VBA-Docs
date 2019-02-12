@@ -42,7 +42,7 @@ This event doesn't apply to check boxes, option buttons, or toggle buttons in an
     
 This event doesn't apply to a label attached to another control, such as the label for a text box. It applies only to "freestanding" labels. Double-clicking an attached label has the same effect as double-clicking the associated control. The normal events for the control occur, but not any events for the attached label.
     
-To run a macro or event procedure when this event occurs, set the **[OnDblClick](access.WebBrowserControl.ondblclick.md)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **OnDblClick** property to the name of the macro or to [Event Procedure].
 
 For controls, the result of double-clicking depends on the control. For example, double-clicking a word in a text box selects the entire word. Double-clicking a control containing an OLE object starts the application used to create the object, allowing it to be edited.
 
