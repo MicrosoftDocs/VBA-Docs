@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-Each Synchronizer should have a unique file system dropbox. Using the same dropbox location for multiple Synchronizers can result in lost messages and incomplete exchanges. The applicatin is unable to create the signal file because it is already opened by another transporter.
+Each Synchronizer should have a unique file system dropbox. Using the same dropbox location for multiple Synchronizers can result in lost messages and incomplete exchanges. The application is unable to create the signal file because it is already opened by another transporter.
 
 ## See also
 
