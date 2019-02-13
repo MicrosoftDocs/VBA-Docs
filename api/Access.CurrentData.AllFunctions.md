@@ -21,7 +21,7 @@ You can use the  **AllFunctions** property to reference the **[AllFunctions](Acc
 
 _expression_. `AllFunctions`
 
-_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Lost Focus** box in the Properties window
 
 _expression_.**OnLostFocus**
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets the value displayed in the specified control. Read/write  **Variant
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## See also

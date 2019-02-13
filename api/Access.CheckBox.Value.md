@@ -21,7 +21,7 @@ Determines or specifies whether or not the specified check box is checked. Read 
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks

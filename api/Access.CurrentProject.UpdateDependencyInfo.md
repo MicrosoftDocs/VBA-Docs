@@ -21,7 +21,7 @@ Updates the dependency information for the database.
 
 _expression_. `UpdateDependencyInfo`
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Remarks

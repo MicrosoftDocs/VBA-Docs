@@ -21,7 +21,7 @@ You can use the  **TripleState** property to specify how the specified control w
 
 _expression_. `TripleState`
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks

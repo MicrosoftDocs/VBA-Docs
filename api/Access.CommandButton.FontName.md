@@ -29,7 +29,7 @@ Read/write  **String**.
 
 _expression_. `FontName`
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

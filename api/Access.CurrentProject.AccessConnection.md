@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentProject.AccessConnection property (Access)
 
-You can use the  **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
+You can use the **AccessConnection** property to return a reference to the current Microsoft ActiveX Data Objects (ADO) **Connection** object and its related properties. Read-only **Connection**.
 
 
 ## Syntax
 
 _expression_. `AccessConnection`
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Remarks

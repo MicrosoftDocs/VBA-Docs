@@ -21,7 +21,7 @@ Returns a  **[Pages](Access.Pages.md)** collection that represents the pages in 
 
 _expression_. `Pages`
 
-_expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a **[Control](Access.Control.md)** object.
 
 
 ## Example

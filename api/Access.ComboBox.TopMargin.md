@@ -21,7 +21,7 @@ Along with the  **LeftMargin**, **RightMargin**, and **BottomMargin** properties
 
 _expression_. `TopMargin`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

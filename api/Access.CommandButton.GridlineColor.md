@@ -21,7 +21,7 @@ Gets or sets the color of the gridline for the specified command button. Read/wr
 
 _expression_.**GridlineColor**
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

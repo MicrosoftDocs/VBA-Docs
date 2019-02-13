@@ -21,7 +21,7 @@ Specifies a value that is automatically entered in a field when a new record is 
 
 _expression_. `DefaultValue`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

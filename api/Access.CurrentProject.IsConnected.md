@@ -21,7 +21,7 @@ You can use the  **IsConnected** property to determine if the **[CurrentProject]
 
 _expression_. `IsConnected`
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## See also

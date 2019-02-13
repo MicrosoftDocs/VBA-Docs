@@ -21,7 +21,7 @@ You can use the  **DatasheetFontWeight** property to specify the line width of t
 
 _expression_. `FontWeight`
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

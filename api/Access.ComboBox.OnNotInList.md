@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Not in List** box in the Properties windo
 
 _expression_. `OnNotInList`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

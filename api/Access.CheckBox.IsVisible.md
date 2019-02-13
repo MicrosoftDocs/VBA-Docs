@@ -21,7 +21,7 @@ You can use the  **IsVisible** property in to determine whether a control on a r
 
 _expression_.**IsVisible**
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks

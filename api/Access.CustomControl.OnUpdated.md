@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Updated** box in the Properties window of
 
 _expression_.**OnUpdated**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks

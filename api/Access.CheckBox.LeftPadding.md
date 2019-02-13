@@ -21,7 +21,7 @@ Gets or sets the amount of space (in inches) between the check box and its left 
 
 _expression_.**LeftPadding**
 
-_expression_ A variable that represents a [CheckBox](Access.CheckBox.md) object.
+_expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## See also

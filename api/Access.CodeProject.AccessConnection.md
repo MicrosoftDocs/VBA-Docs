@@ -21,7 +21,7 @@ You can use the  **AccessConnection** property to return a reference to the curr
 
 _expression_. `AccessConnection`
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks

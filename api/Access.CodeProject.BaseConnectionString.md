@@ -21,7 +21,7 @@ You can use the  **BaseConnectionString** property to return the base connection
 
 _expression_. `BaseConnectionString`
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets the amount of space (in inches) between the combo box and its right
 
 _expression_.**RightPadding**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## See also
