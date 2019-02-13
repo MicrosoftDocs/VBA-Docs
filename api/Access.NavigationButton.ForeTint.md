@@ -21,7 +21,7 @@ Gets or sets the tint that is applied to the theme color in the  **ForeColor** p
 
 _expression_. `ForeTint`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

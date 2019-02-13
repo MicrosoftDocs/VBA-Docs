@@ -21,7 +21,7 @@ The  **HelpContextID** property specifies the context ID of a topic in the custo
 
 _expression_.**HelpContextId**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

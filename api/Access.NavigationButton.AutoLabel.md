@@ -21,7 +21,7 @@ Specifies whether labels are automatically created and attached to new controls.
 
 _expression_.**AutoLabel**
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## See also

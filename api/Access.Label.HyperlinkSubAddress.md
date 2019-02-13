@@ -21,7 +21,7 @@ You can use the  **HyperlinkSubAddress** property to specify or determine a loca
 
 _expression_. `HyperlinkSubAddress`
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

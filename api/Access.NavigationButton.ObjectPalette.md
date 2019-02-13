@@ -21,7 +21,7 @@ The  **ObjectPalette** property specifies the palette in the application used to
 
 _expression_.**ObjectPalette**
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

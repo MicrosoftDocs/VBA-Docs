@@ -21,7 +21,7 @@ Gets the active tab of the navigation control. Read-only  **[NavigationButton](A
 
 _expression_. `SelectedTab`
 
-_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a **[NavigationControl](Access.NavigationControl.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Click** box in the Properties window of a
 
 _expression_. `OnPush`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

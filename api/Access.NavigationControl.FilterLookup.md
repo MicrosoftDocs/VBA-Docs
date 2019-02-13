@@ -21,7 +21,7 @@ You can use the  **FilterLookup** property to specify whether values appear in a
 
 _expression_. `FilterLookup`
 
-_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a **[NavigationControl](Access.NavigationControl.md)** object.
 
 
 ## Remarks

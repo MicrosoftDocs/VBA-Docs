@@ -21,7 +21,7 @@ The property specifies the text alignment within attached labels on new controls
 
 _expression_.**LabelAlign**
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Remarks

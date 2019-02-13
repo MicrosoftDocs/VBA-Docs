@@ -21,7 +21,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
 _expression_.**EventProcPrefix**
 
-_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a **[NavigationControl](Access.NavigationControl.md)** object.
 
 
 ## Remarks

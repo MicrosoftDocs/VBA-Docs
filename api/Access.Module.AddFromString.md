@@ -21,7 +21,7 @@ The  **AddFromString** method adds a string to a **[Module](Access.Module.md)** 
 
 _expression_. `AddFromString`( ` _String_` )
 
-_expression_ A variable that represents a [Module](Access.Module.md) object.
+_expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters

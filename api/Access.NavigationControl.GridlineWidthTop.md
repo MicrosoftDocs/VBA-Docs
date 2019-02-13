@@ -21,7 +21,7 @@ Gets or sets the width of the top gridline for the specified text box. Read/writ
 
 _expression_.**GridlineWidthTop**
 
-_expression_ A variable that represents a [NavigationControl](Access.NavigationControl.md) object.
+_expression_ A variable that represents a **[NavigationControl](Access.NavigationControl.md)** object.
 
 
 ## Remarks

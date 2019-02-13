@@ -29,7 +29,7 @@ You can use the  **FontItalic** property to specify whether text is italic in th
 
 _expression_. `FontItalic`
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

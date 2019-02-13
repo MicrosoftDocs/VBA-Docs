@@ -21,7 +21,7 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
 _expression_.**VerticalAnchor**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

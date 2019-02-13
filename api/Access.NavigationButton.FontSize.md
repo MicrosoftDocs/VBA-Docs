@@ -29,7 +29,7 @@ Read/write  **Integer**.
 
 _expression_. `FontSize`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks
