@@ -21,7 +21,7 @@ The disk could not be read due to an internal disk or drive failure.
 Possible causes:
 
 
-- You tried to read from a network drive, and the network is temporarily busy, or youyou arere no longer connected to the network. Check the network connection, and then try the operation again.
+- You tried to read from a network drive, and the network is temporarily busy, or you are no longer connected to the network. Check the network connection, and then try the operation again.
     
 - The disk or drive has failed.
     
