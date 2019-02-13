@@ -9,7 +9,7 @@ localization_priority: Priority
 
 # Retrieve the name of the user signed in to the network
 
-This topic contians a user-defined function, GetLogonName, that returns the current user name. The GetLogonName function utilizes the **GetUserNameA** Windows API to retrieve the current user name. 
+This topic contains a user-defined function, GetLogonName, that returns the current user name. The GetLogonName function utilizes the **GetUserNameA** Windows API to retrieve the current user name. 
 
 
 ```vb
