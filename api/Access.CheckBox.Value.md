@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # CheckBox.Value property (Access)
 
-Determines or specifies whether or not the specifed check box is checked. Read /write  **Variant**.
+Determines or specifies whether or not the specified check box is checked. Read /write  **Variant**.
 
 
 ## Syntax

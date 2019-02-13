@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Page.UniqueIDsToShapeIDs Method (Visio)
 
-Returns an array of shape IDs of shapes on the page, as specifed by their unique IDs.
+Returns an array of shape IDs of shapes on the page, as specified by their unique IDs.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.
