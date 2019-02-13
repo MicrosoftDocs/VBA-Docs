@@ -14,8 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.GridlineShade property (Access)
 
-Gets or sets the shade applied to the theme color in the **[GridlineColor](access.ObjectFrame.md)** object.
-.gridlinecolor.md)** property of the specified object. Read/write **Single**.
+Gets or sets the shade applied to the theme color in the **[GridlineColor](access.objectframe.gridlinecolor.md)** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
