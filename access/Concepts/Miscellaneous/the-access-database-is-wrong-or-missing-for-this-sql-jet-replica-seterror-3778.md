@@ -27,7 +27,7 @@ The Microsoft Access database specified is wrong or missing because:
 - The database specified is not replicable.
     
 
-The solution is to re-initailize your Jet Subscriber using the Re-Initialize tools on the SQL Server.
+The solution is to re-initialize your Jet Subscriber using the Re-Initialize tools on the SQL Server.
 
 ## See also
 
