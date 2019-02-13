@@ -30,7 +30,7 @@ The  **BorderThemeColorIndex** property contains one of the index values listed 
 
 
 
-|**Index Value**|**Description**|
+|Index Value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1|Background 1|
