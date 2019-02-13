@@ -76,9 +76,9 @@ End Sub
 ' Set parameters of RDS.DataControl at Run TimeSub Run_OnClick
 RDC.Server = txtServer.ValueRDC.SQL = txtSQL.Value
 RDC.Connect = txtConnect.ValueIf EO = "adcExecSync" Then 'Determine which ExecuteOption chosen
-RDC.ExecuteOptions = adcExecSyncMsgBox "Recordset brought in on current calling thread Syncronously"
+RDC.ExecuteOptions = adcExecSyncMsgBox "Recordset brought in on current calling thread Synchronously"
 ElseRDC.ExecuteOptions = adcExecAsync
-MsgBox "Recordset brought in on another thread Asyncronously"End If 
+MsgBox "Recordset brought in on another thread Asynchronously"End If 
 If FO = "adcFetchBackground" Then 'Determine 'which FetchOption chosenRDC.FetchOptions = adcFetchBackground
 MsgBox "Control goes back to user after first batch of records returned"ElseIf FO = " adcFetchUpFront" Then
 RDC.FetchOptions = adcFetchUpFrontMsgBox "All records returned before control goes back to user"
