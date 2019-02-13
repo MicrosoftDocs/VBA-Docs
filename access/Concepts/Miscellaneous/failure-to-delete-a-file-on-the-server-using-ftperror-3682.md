@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-Unabe to delete a file on the internet server. Make sure the server is running and the FTP share folder is configured properly with read/write access.
+Unable to delete a file on the internet server. Make sure the server is running and the FTP share folder is configured properly with read/write access.
 
 ## See also
 
