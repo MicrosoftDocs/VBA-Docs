@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Printer.BottomMargin property (Access)
 
-Along with the  **TopMargin**, **RightMargin**, and **LeftMargin** properties, specifies the margins for a printed page. Read/write **Long**.
+Along with the **TopMargin**, **RightMargin**, and **LeftMargin** properties, specifies the margins for a printed page. Read/write **Long**.
 
 
 ## Syntax
 
 _expression_. `BottomMargin`
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## See also

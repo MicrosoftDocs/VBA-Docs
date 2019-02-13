@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Filter** box in the Properties window of 
 
 _expression_. `OnFilter`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

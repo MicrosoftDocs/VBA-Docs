@@ -21,7 +21,7 @@ You can use the  **RecordLocks** property to determine how records are locked an
 
 _expression_. `RecordLocks`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

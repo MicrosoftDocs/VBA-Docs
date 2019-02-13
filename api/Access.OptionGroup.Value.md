@@ -21,7 +21,7 @@ Gets or sets whether or not the specified option button is selected. Read/write 
 
 _expression_.**Value**
 
-_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an **[OptionGroup](Access.OptionGroup.md)** object.
 
 
 ## Remarks

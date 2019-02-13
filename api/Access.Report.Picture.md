@@ -21,7 +21,7 @@ You can use the  **Picture** property to specify a bitmap or other type of graph
 
 _expression_. `Picture`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets a  **Long** indicating the horizontal space between detail secti
 
 _expression_. `RowSpacing`
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example

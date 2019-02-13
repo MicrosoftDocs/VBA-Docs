@@ -21,7 +21,7 @@ Gets or sets whether the specified report can be used in Layout View. Read/write
 
 _expression_. `AllowLayoutView`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## See also

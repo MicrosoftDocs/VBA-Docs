@@ -21,7 +21,7 @@ You can use the  **Painting** property to specify whether a report is repainted.
 
 _expression_. `Painting`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

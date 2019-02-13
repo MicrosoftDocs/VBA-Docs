@@ -19,9 +19,9 @@ The **Open** occurs before a report is previewed or printed.
 
 ## Syntax
 
-_expression_. **Open**(**_Cancel_**)
+_expression_.**Open** (_Cancel_)
 
-_expression_ A variable that represents a **Report** object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ You can use the  **SpecialEffect** property to specify whether special formattin
 
 _expression_.**SpecialEffect**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks

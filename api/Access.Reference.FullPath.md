@@ -21,7 +21,7 @@ The  **FullPath** property returns a string containing the path and file name of
 
 _expression_. `FullPath`
 
-_expression_ A variable that represents a [Reference](Access.Reference.md) object.
+_expression_ A variable that represents a **[Reference](Access.Reference.md)** object.
 
 
 ## Remarks

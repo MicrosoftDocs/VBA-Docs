@@ -18,9 +18,9 @@ The **NoData** event occurs after Microsoft Access formats a report for printing
 
 ## Syntax
 
-_expression_. **NoData**(**_Cancel_**)
+_expression_.**NoData** (_Cancel_)
 
-_expression_ A variable that represents a **Report** object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Parameters

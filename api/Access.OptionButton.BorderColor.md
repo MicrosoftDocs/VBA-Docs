@@ -21,7 +21,7 @@ You can use the  **BorderColor** property to specify the color of a control's bo
 
 _expression_.**BorderColor**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks

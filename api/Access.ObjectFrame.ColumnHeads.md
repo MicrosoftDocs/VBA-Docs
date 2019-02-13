@@ -21,7 +21,7 @@ You can use the  **ColumnHeads** property to display a single row of column head
 
 _expression_. `ColumnHeads`
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks

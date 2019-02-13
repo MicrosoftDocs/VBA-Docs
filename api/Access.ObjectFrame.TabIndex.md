@@ -21,7 +21,7 @@ You can use the  **TabIndex** property to specify a control's place in the tab o
 
 _expression_.**TabIndex**
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Specifies whether a report has a  **Control** menu in Report view. Read/write **
 
 _expression_. `ControlBox`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

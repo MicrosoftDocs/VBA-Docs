@@ -14,21 +14,21 @@ localization_priority: Normal
 
 # Screen.PreviousControl property (Access)
 
-You can use the  **PreviousControl** property with the **[Screen](Access.Screen.md)** object to return a reference to the control that last received the focus. Read-only.
+You can use the **PreviousControl** property with the **Screen** object to return a reference to the control that last received the focus. Read-only.
 
 
 ## Syntax
 
-_expression_. `PreviousControl`
+_expression_.**PreviousControl**
 
-_expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 
 ## Remarks
 
-The  **PreviousControl** property contains a reference to the control that last had the focus. Once you establish a reference to the control, you can access all the properties and methods of the control.
+The **PreviousControl** property contains a reference to the control that last had the focus. Once you establish a reference to the control, you can access all the properties and methods of the control.
 
-You can't use the  **PreviousControl** property until more than one control on any form has received the focus after a form is opened. Microsoft Access generates an error if you attempt to use this property when only one control on a form has received the focus.
+You can't use the **PreviousControl** property until more than one control on any form has received the focus after a form is opened. Microsoft Access generates an error if you attempt to use this property when only one control on a form has received the focus.
 
 
 ## Example
@@ -74,9 +74,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Screen Object](Access.Screen.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

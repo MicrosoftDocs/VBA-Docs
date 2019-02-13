@@ -21,7 +21,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 _expression_.**GridlineThemeColorIndex**
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks

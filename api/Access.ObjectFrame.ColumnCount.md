@@ -21,7 +21,7 @@ You can use the  **ColumnCount** property to specify the number of columns displ
 
 _expression_. `ColumnCount`
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks

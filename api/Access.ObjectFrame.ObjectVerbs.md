@@ -21,7 +21,7 @@ You can use the  **ObjectVerbs** property in Visual Basic to determine the list 
 
 _expression_.**ObjectVerbs** (_Index_)
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Parameters

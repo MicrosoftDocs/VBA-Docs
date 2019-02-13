@@ -21,7 +21,7 @@ You can use the  **OldValue** property to determine the unedited value of a boun
 
 _expression_.**OldValue** 
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Got Focus** box in the Properties window 
 
 _expression_.**OnGotFocus**
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

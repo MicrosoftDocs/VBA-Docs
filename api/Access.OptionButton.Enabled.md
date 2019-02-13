@@ -21,7 +21,7 @@ You can use the  **Enabled** property to set or return the status of the conditi
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks
