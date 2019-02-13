@@ -19,7 +19,7 @@ Along with the  **LeftMargin**, **RightMargin**, and **TopMargin** properties, s
 
 ## Syntax
 
-_expression_. `BottomMargin`
+_expression_.**BottomMargin**
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 

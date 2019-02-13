@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CurrentData.AllQueries property (Access)
 
-You can use the  **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
+You can use the **AllQueries** property to reference the **[AllQueries](Access.AllQueries.md)** collection and its related properties. Read-only **AllQueries** object.
 
 
 ## Syntax
 
-_expression_. `AllQueries`
+_expression_.**AllQueries**
 
 _expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 

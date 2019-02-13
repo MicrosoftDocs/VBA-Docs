@@ -14,26 +14,26 @@ localization_priority: Normal
 
 # CheckBox.TripleState property (Access)
 
-You can use the  **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
+You can use the **TripleState** property to specify how the specified control will display Null values. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `TripleState`
+_expression_.**TripleState**
 
 _expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks
 
-The  **Null** property uses the following settings.
+The **Null** property uses the following settings.
 
 
 
 |Setting|Description|
 |:-----|:-----|
-|**True**|The control will cycle through states for Yes, No, and  **Null** values. The control appears dimmed (grayed) when its **Value** property is set to **Null**.|
-|**False**|(Default) The control will cycle through states for Yes and No values.  **Null** values display as if they were No values.|
+|**True**|The control will cycle through states for Yes, No, and **Null** values. The control appears dimmed (grayed) when its **Value** property is set to **Null**.|
+|**False**|(Default) The control will cycle through states for Yes and No values. **Null** values display as if they were No values.|
 
 This property can be set in any view.
 

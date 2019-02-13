@@ -19,14 +19,14 @@ Gets or sets an [AcVerticalAnchor](Access.AcVerticalAnchor.md) constant that ind
 
 ## Syntax
 
-_expression_. **VerticalAnchor**
+_expression_.**VerticalAnchor**
 
-_expression_. A variable that represents a **CheckBox** object.
+_expression_. A variable that represents a **[CheckBox](Access.CheckBox.md)** object.
 
 
 ## Remarks
 
-The default value is  **acVerticalAnchorTop**.
+The default value is **acVerticalAnchorTop**.
 
 
 ## See also

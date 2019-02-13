@@ -19,7 +19,7 @@ Use the  **ValidationText** property to specify a message to be displayed to the
 
 ## Syntax
 
-_expression_. `ValidationText`
+_expression_.**ValidationText**
 
 _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 

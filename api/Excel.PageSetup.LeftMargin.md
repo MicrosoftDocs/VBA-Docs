@@ -19,7 +19,7 @@ Returns or sets the size of the left margin, in points. Read/write  **Double**.
 
 ## Syntax
 
-_expression_. `LeftMargin`
+_expression_.**LeftMargin**
 
 _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object.
 

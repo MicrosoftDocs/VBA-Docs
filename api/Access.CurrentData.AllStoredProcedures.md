@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CurrentData.AllStoredProcedures property (Access)
 
-You can use the  **AllStoredProcedures** property to reference the **[AllStoredProcedures](Access.AllStoredProcedures.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
+You can use the **AllStoredProcedures** property to reference the **[AllStoredProcedures](Access.AllStoredProcedures.md)** collection and its related properties. Read-only **AllStoredProcedures** object.
 
 
 ## Syntax
 
-_expression_. `AllStoredProcedures`
+_expression_.**AllStoredProcedures**
 
 _expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 

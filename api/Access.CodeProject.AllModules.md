@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CodeProject.AllModules property (Access)
 
-You can use the  **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
+You can use the **AllModules** property to reference the **[AllModules](Access.AllModules.md)** collection and its related properties. Read-only **AllModules** object.
 
 
 ## Syntax
 
-_expression_. `AllModules`
+_expression_.**AllModules**
 
 _expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 

@@ -19,7 +19,7 @@ You can use the **AccessConnection** property to return a reference to the curre
 
 ## Syntax
 
-_expression_. `AccessConnection`
+_expression_.**AccessConnection**
 
 _expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 

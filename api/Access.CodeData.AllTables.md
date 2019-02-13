@@ -14,12 +14,12 @@ localization_priority: Normal
 
 # CodeData.AllTables property (Access)
 
-You can use the  **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
+You can use the **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
 
 
 ## Syntax
 
-_expression_. `AllTables`
+_expression_.**AllTables**
 
 _expression_ A variable that represents a **[CodeData](Access.CodeData.md)** object.
 
