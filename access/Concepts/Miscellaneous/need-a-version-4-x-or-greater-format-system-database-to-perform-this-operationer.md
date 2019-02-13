@@ -13,7 +13,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-When using the Microsoft OLE DB Provider for Jet with security, it is necssary that the security database be in a Jet version 4.x file format. This can be done by compacting the existing security database or by creating a new one through the Microsoft OLE DB Provider for Jet.
+When using the Microsoft OLE DB Provider for Jet with security, it is necessary that the security database be in a Jet version 4.x file format. This can be done by compacting the existing security database or by creating a new one through the Microsoft OLE DB Provider for Jet.
 
 ## See also
 
