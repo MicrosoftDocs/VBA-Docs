@@ -21,7 +21,7 @@ Returns a reference to a control's[Properties](Access.Properties.md)collection o
 
 _expression_.**Properties**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks

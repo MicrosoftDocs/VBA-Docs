@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Down** box in the Properties window. 
 
 _expression_.**OnKeyDown**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks

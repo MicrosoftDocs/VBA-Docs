@@ -21,7 +21,7 @@ Returns the type of layout for the specified text box. Read-only [AcLayoutType](
 
 _expression_.**Layout**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## See also
