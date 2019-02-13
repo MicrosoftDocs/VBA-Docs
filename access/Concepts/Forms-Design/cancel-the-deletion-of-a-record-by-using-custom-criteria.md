@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # Cancel the deletion of a record by using custom criteria
 
-The following example illutrates how to use a form's **[Delete](../../../api/Access.Form.Delete.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
+The following example illustrates how to use a form's **[Delete](../../../api/Access.Form.Delete.md)** event to prevent the deletion of a record based on custom criteria. In this example, the **Delete** event is canceled if the value of the DataRequired field is Yes.
 
 
 ```vb
