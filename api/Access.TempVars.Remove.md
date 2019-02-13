@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TempVars.Remove method (Access)
 
-Removes the specified  **[TempVar](Access.TempVar.md)** object from the **[TempVars](Access.TempVars.md)** collection.
+Removes the specified **[TempVar](Access.TempVar.md)** object from the **TempVars** collection.
 
 
 ## Syntax
 
 _expression_. `Remove`( ` _var_` )
 
-_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
 
 ## Parameters

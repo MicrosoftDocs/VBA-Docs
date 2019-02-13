@@ -21,7 +21,7 @@ Gets or sets the shade that is applied to the theme color in the  **HoverColor**
 
 _expression_. `HoverShade`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

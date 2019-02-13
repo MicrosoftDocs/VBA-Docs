@@ -21,7 +21,7 @@ Gets or sets whether all records are displayed when the subform's master field i
 
 _expression_. `FilterOnEmptyMaster`
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## See also

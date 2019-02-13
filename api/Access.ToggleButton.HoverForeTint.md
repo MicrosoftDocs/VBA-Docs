@@ -21,7 +21,7 @@ Gets or sets the tint applied to the theme color in the  **HoverForeColor** prop
 
 _expression_. `HoverForeTint`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

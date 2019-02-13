@@ -21,7 +21,7 @@ Returns the type of layout for the specified toggle button. Read-only  **[AcLayo
 
 _expression_.**Layout**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## See also

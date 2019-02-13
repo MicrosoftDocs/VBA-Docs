@@ -21,7 +21,7 @@ You can use the  **BackStyle** property to specify whether a control will be tra
 
 _expression_.**BackStyle**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

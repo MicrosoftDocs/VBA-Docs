@@ -21,7 +21,7 @@ You can use the  **ValidationRule** property to specify requirements for data en
 
 _expression_. `ValidationRule`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns or sets the shape of the specified tab control. Read/write  **Long**.
 
 _expression_. `Shape`
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

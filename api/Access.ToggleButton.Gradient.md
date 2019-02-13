@@ -21,7 +21,7 @@ Gets or sets the gradient fill applied to the specified object. Read/write  **Lo
 
 _expression_. `Gradient`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ You can use the  **ReadingOrder** property to specify or determine the reading o
 
 _expression_. `ReadingOrder`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 _expression_. `ForeThemeColorIndex`
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets the amount of space (in inches) between the text box and its right 
 
 _expression_.**RightPadding**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## See also

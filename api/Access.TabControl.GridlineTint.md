@@ -21,7 +21,7 @@ Gets or sets the tint applied to the theme color in the  **GridlineColor** prope
 
 _expression_.**GridlineTint**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

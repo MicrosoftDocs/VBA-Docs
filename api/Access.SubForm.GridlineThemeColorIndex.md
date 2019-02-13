@@ -21,7 +21,7 @@ Gets or sets the theme color index that represents a color in the applied color 
 
 _expression_.**GridlineThemeColorIndex**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks

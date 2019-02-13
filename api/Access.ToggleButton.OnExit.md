@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Exit** box in the Properties window of sp
 
 _expression_.**OnExit**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

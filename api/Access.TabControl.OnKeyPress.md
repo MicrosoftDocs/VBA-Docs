@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Key Press** box in the Properties window.
 
 _expression_.**OnKeyPress**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns the unique identifier for the layout that contains the specified subform
 
 _expression_.**LayoutID**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks

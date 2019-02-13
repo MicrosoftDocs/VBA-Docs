@@ -21,7 +21,7 @@ Gets or sets the  **Shadow** effect applied to the specified object. Read/write 
 
 _expression_. `Shadow`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
