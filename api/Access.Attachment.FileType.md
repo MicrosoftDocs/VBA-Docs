@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.FileType property (Access)
 
-Returns the file extension of the specifed attachment. Read-only **String**.
+Returns the file extension of the specified attachment. Read-only **String**.
 
 
 ## Syntax
