@@ -52,7 +52,7 @@ Public Sub UnmapRecipientField_Example()
  If pubMailMergeDataField.IsMapped Then 
  
  pubMailMergeDataField.UnMapRecipientField 
- Debug.Print "Field unmapped succesfully." 
+ Debug.Print "Field unmapped successfully." 
  
  Else 
  
