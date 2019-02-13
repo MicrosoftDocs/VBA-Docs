@@ -33,7 +33,7 @@ The  **NoData** event occurs after Microsoft Access formats a report for printin
 The  **OnNoData** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On No Data** box in the report's **Properties** window):
 
 
-- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     
