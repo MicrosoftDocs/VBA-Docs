@@ -41,7 +41,7 @@ On Error GoTo ErrorHandler
    Do Until rstEmployee.EOF 
       If rstEmployee!Title = "Sales Representative" Then 
          rstEmployee.Edit 
-         rstEmloyee!Title = "Sales Associate" 
+         rstEmployee!Title = "Sales Associate" 
          rstEmployee.Update 
       End If 
       rstEmployee.MoveNext 
