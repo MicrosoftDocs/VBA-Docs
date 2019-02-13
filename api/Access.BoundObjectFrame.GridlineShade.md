@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.GridlineShade property (Access)
 
-Gets or sets the shade applied to the theme color in the **[GridlineColor](access.boundobjectframe.gridlinecolor.md)** property of the specified object. Read/write **Single**.
+Gets or sets the shade applied to the theme color in the **[GridlineColor](access.boundobjectframe.gridlinecolor.md)** property of the specified object. Read/write **Single**. 
 
 
 ## Syntax
