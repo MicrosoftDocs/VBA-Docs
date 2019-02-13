@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-During the create replica operation new objects that did not allow the operation to continue succesfully may have been created in the source replica. Try again.
+During the create replica operation new objects that did not allow the operation to continue successfully may have been created in the source replica. Try again.
 
 ## See also
 
