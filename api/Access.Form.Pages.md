@@ -21,7 +21,7 @@ You can use the **Pages** property to return information needed to print page nu
 
 _expression_. `Pages`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

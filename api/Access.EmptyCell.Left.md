@@ -21,7 +21,7 @@ You can use the  **Left** property to specify an object's location on a form or 
 
 _expression_.**Left**
 
-_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
 ## Remarks

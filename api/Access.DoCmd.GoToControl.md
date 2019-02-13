@@ -21,7 +21,7 @@ The  **GoToControl** method performs the GoToControl action in Visual Basic.
 
 _expression_. `GoToControl`( ` _ControlName_` )
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters

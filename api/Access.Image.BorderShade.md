@@ -21,7 +21,7 @@ Gets or sets the shade that is applied to the theme color in the  **BorderColor*
 
 _expression_.**BorderShade**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks

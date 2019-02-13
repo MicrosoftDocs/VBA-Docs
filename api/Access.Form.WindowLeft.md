@@ -21,7 +21,7 @@ Returns an  **Integer** indicating the screen position in [twips](../language/gl
 
 _expression_. `WindowLeft`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

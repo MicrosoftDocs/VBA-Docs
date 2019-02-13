@@ -21,7 +21,7 @@ Gets or sets how the shortest data bar is evaluated for the specified  **[Format
 
 _expression_. `ShortestBarLimit`
 
-_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a **[FormatCondition](Access.FormatCondition.md)** object.
 
 
 ## Remarks

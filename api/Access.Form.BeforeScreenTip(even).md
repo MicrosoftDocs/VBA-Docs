@@ -21,7 +21,7 @@ Occurs before a ScreenTip is displayed for an element in a PivotChart view or Pi
 
 _expression_. `BeforeScreenTip`( ` _ScreenTipText_`, ` _SourceObject_` )
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters

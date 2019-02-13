@@ -21,7 +21,7 @@ The **FindRecord** method carries out the FindRecord action in Visual Basic.
 
 _expression_. `FindRecord`( ` _FindWhat_`, ` _Match_`, ` _MatchCase_`, ` _Search_`, ` _SearchAsFormatted_`, ` _OnlyCurrentField_`, ` _FindFirst_` )
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters

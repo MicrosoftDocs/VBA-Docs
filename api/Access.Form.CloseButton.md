@@ -21,7 +21,7 @@ Specifies whether the  **Close** button on a form is enabled. Read/write **Boole
 
 _expression_. `CloseButton`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

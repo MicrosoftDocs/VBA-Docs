@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Click** box in the Properties window. Rea
 
 _expression_.**OnClick**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks

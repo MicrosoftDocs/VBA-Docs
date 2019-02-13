@@ -21,7 +21,7 @@ Gets or sets whether the specified form can be made available as a view on a Mic
 
 _expression_. `DisplayOnSharePointSite`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

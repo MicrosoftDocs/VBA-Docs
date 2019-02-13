@@ -21,7 +21,7 @@ You can use the  **Count** property to determine the number of items in a specif
 
 _expression_. `Count`
 
-_expression_ A variable that represents a [FormatConditions](Access.FormatConditions.md) object.
+_expression_ A variable that represents a **[FormatConditions](Access.FormatConditions.md)** object.
 
 
 ## See also

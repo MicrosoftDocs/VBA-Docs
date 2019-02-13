@@ -21,7 +21,7 @@ Returns the  **Controls** collection of a form, subform, report or section. Read
 
 _expression_.**Controls**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

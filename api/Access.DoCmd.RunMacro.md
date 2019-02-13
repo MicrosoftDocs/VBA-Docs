@@ -21,7 +21,7 @@ The  **RunMacro** method carries out the RunMacro action in Visual Basic.
 
 _expression_. `RunMacro`( ` _MacroName_`, ` _RepeatCount_`, ` _RepeatExpression_` )
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters

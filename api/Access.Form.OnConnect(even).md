@@ -21,7 +21,7 @@ Occurs when the specified PivotTable view connects to a data source.
 
 _expression_. `OnConnect`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Return value

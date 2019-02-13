@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Activate** box in the Properties window o
 
 _expression_. `OnActivate`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

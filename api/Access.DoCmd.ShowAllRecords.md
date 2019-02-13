@@ -21,7 +21,7 @@ The  **ShowAllRecords** method carries out the ShowAllRecords action in Visual B
 
 _expression_. `ShowAllRecords`
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Remarks

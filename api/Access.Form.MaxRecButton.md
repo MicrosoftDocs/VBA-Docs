@@ -21,7 +21,7 @@ You can use the  **MaxRecButton** property to specify or determine if the maximu
 
 _expression_. `MaxRecButton`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

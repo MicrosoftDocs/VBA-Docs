@@ -21,7 +21,7 @@ You can use the  **GroupInterval** property with the **[GroupOn](Access.GroupLev
 
 _expression_. `GroupInterval`
 
-_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)** object.
 
 
 ## Remarks

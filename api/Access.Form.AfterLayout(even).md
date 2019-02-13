@@ -21,7 +21,7 @@ Occurs after all charts in the specified PivotChart view have been laid out, but
 
 _expression_. `AfterLayout`( ` _drawObject_`, )
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters

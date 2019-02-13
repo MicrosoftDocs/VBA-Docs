@@ -21,7 +21,7 @@ You can use the  **SizeMode** property to specify how to size a picture or other
 
 _expression_.**SizeMode**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks

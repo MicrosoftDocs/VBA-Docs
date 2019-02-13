@@ -21,7 +21,7 @@ Gets or sets the prefix portion of an event procedure name. Read/write  **String
 
 _expression_.**EventProcPrefix**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks

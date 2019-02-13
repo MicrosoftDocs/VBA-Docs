@@ -21,7 +21,7 @@ You can use the  **ImageWidth** property to determine the width in [twips](../la
 
 _expression_. `ImageWidth`
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets the collection of operations defined for the specified  **[Entity](Access.E
 
 _expression_. `Operations`
 
-_expression_ A variable that represents an [Entity](Access.Entity.md) object.
+_expression_ A variable that represents an **[Entity](Access.Entity.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ You can use the  **InsideWidth** property (along with the **InsideHeight** prope
 
 _expression_. `InsideWidth`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

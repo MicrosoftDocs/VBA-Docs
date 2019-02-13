@@ -21,7 +21,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 _expression_.**BackThemeColorIndex**
 
-_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
 ## Remarks

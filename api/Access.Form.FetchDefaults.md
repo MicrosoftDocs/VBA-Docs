@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** indicating whether Microsoft Access shows default
 
 _expression_. `FetchDefaults`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Example

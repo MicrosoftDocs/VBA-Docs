@@ -20,7 +20,7 @@ You can use the **DatasheetFontWeight** property to specify the line width of th
 
 _expression_. DatasheetFontWeight
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

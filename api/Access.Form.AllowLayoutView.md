@@ -21,7 +21,7 @@ Gets or sets whether the specified form can be used in Layout View. Read/write  
 
 _expression_. `AllowLayoutView`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## See also

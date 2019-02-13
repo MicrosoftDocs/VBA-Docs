@@ -21,7 +21,7 @@ Returns or sets the ADO  **Recordset** or DAO **[Recordset](overview/Access.md)*
 
 _expression_. `Recordset`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

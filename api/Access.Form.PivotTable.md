@@ -21,7 +21,7 @@ Returns a  **PivotTable** object representing a PivotTable View on a form. Read-
 
 _expression_. `PivotTable`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Example

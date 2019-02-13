@@ -21,7 +21,7 @@ The  **Restore** method carries out the Restore action in Visual Basic.
 
 _expression_. `Restore`
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Remarks

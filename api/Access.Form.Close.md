@@ -21,7 +21,7 @@ The  **Close** event occurs when a form is closed and removed from the screen.
 
 _expression_. `Close`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Return value

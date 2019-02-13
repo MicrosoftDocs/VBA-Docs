@@ -21,7 +21,7 @@ You can use the **SearchForRecord** method to search for a specific record in a 
 
 _expression_. `SearchForRecord`(`ObjectType`, `ObjectName`, `Record`, `WhereCondition`)
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters
