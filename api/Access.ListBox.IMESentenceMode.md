@@ -34,7 +34,7 @@ The  **IMESentenceMode** property accepts the [AcImeSentenceMode enumeration (Ac
 |Normal|(Default) Set IME Sentence Mode to ?Normal? mode.|0|
 |Plural|Set IME Sentence Mode to ?Plural? mode.|1|
 |Speaking|Set IME Sentence Mode to ?Speaking? mode.|2|
-|No Conversion|Doesn?t set IME Sentence Mode.|3|
+|No Conversion|Doesn't set IME Sentence Mode.|3|
 
  **Normal mode**
 

@@ -42,7 +42,7 @@ Use the  **[RemoveAllItems](Excel.ControlFormat.RemoveAllItems.md)** method to r
 
 ## Example
 
-This example removes the selected item from a list box. If  `Shapes(2)` doesn?t represent a list box, this example fails.
+This example removes the selected item from a list box. If  `Shapes(2)` doesn't represent a list box, this example fails.
 
 
 ```vb

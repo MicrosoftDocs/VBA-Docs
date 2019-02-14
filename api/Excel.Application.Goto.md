@@ -44,7 +44,7 @@ This method differs from the  **[Select](Excel.Range.Select.md)** method in the 
     
 - When you use the  **Goto** method, the previous selection (before the **Goto** method runs) is added to the array of previous selections (for more information, see the **[PreviousSelections](Excel.Application.PreviousSelections.md)** property). You can use this feature to quickly jump between as many as four selections.
     
-- The  **Select** method has a _Replace_ argument; the **Goto** method doesn?t.
+- The  **Select** method has a _Replace_ argument; the **Goto** method doesn't.
     
 
 ## Example
