@@ -45,7 +45,7 @@ The following Microsoft Visual Basic for Applications (VBA) example prompts the 
 ```vb
 Public WithEvents myOlExp As Outlook.Explorer 
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
 Set myOlExp = Application.ActiveExplorer 
 End Sub 
  
