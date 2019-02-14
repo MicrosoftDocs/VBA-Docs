@@ -19,7 +19,7 @@ Represents a motion effect for an  **AnimationBehavior** object.
 
 ## Example
 
-Use the [MotionEffect](PowerPoint.AnimationBehavior.MotionEffect.md)propety of the  **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
+Use the [MotionEffect](PowerPoint.AnimationBehavior.MotionEffect.md) property of the  **AnimationBehavior** object to return a **MotionEffect** object. The following example refers to the motion effect for a given animation behavior.
 
 
 ```vb
