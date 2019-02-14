@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # XmlMap.WorkbookConnection property (Excel)
 
-Retuns a new connection for the specified  **XMLMap** object. Read-only.
+Returns a new connection for the specified  **XMLMap** object. Read-only.
 
 
 ## Syntax
