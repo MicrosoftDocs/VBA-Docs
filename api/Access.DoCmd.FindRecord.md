@@ -42,7 +42,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 When a procedure calls the FindRecord method, Access searches for the specified data in the records (the order of the search is determined by the setting of the Search argument). When Access finds the specified data, the data is selected in the record.
 
-The **FindRecord** method does not return a value indicating its success or failure. To determine whether a value exists in a recordset, use the **FindFirst**, **FindNext**, **FindPrevious** or **FindLast** method of the **Recordset** object. These methods set the value of the **NoMatch** property to **True** if the spcified value is not found.
+The **FindRecord** method does not return a value indicating its success or failure. To determine whether a value exists in a recordset, use the **FindFirst**, **FindNext**, **FindPrevious** or **FindLast** method of the **Recordset** object. These methods set the value of the **NoMatch** property to **True** if the specified value is not found.
 
 
 ## Example
