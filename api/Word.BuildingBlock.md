@@ -83,7 +83,7 @@ Set objTemplate = Templates(1)
 objTemplate.BuildingBlockEntries(1).Delete
 ```
 
- Building blocks are organized by category and type. Use the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection to access individual **[BuildingBlockType](Word.BuildingBlockType.md)** objects. Use the **[Categories](Word.Categories.md)** collection to access individual **[Category](Word.BuildingBlock.Category.md)** objects. Then use the **BuildingBlocks** propery to access the **BuildingBlocks** collection for a **Category** object. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
+ Building blocks are organized by category and type. Use the **[BuildingBlockTypes](Word.BuildingBlockTypes.md)** collection to access individual **[BuildingBlockType](Word.BuildingBlockType.md)** objects. Use the **[Categories](Word.Categories.md)** collection to access individual **[Category](Word.BuildingBlock.Category.md)** objects. Then use the **BuildingBlocks** property to access the **BuildingBlocks** collection for a **Category** object. The following example prints the type and category names of all the building blocks in the first template to the **Immediate Window**. (This example assumes that the **Immediate Window** is visible.)
 
 
 
