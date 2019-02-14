@@ -66,16 +66,16 @@ The following table illustrates the results of calling  **AddToSelection** , tak
 | **Existing** **Selection.Count**| **Reading Pane Displayed**| **Results**|
 |0|Yes|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the item.</p></li></ul>|
+<ul><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the item.</p></li></ul>|
 |0|No|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
+<ul><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
 |>=1|Yes|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane does not change the item it displays unless the view is a Calendar view, in which case, calling <b>AddToSelection</b>  can cause the Reading Pane to display a different item.</p></li></ul>|
+<ul><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane does not change the item it displays unless the view is a Calendar view, in which case, calling <b>AddToSelection</b>  can cause the Reading Pane to display a different item.</p></li></ul>|
 |>=1|No|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
+<ul><li><p>The item is added to the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
 If the specified item is already selected in the active explorer, calling  **AddToSelection** does not result in any change to the selection and the **SelectionChange** event does not fire.
 
 When you specify an item in a recurring appointment or task as an argument to the  **AddToSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences, using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you pass an instance variable that represents the appointment or task series, and the **AddToSelection** method operates on the series instead of the occurrence.

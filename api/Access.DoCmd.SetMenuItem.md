@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 | _CommandIndex_|Optional|**Variant**|An integer, counting from 0, that's the valid index of a command on the menu selected by the menuindex argument, as defined in the macro group that defines the selected menu for the custom menu bar or global menu bar for the active window.|
 | _SubcommandIndex_|Optional|**Variant**|An integer, counting from 0, that's the valid index of a subcommand in the submenu selected by the commandindex argument, as defined in the macro group that defines the selected submenu for the custom menu bar or global menu bar for the active window.|
 | _Flag_|Optional|**Variant**|The state you want to set the command or subcommand to. Can be one of the following constants.
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>acMenuCheck</b></p></li><li><p><b>acMenuGray</b></p></li><li><p><b>acMenuUncheck</b></p></li><li><p><b>acMenuUngray</b>  (default)</p></li></ul>|
+<ul><li><p><b>acMenuCheck</b></p></li><li><p><b>acMenuGray</b></p></li><li><p><b>acMenuUncheck</b></p></li><li><p><b>acMenuUngray</b>  (default)</p></li></ul>|
 
 ## Remarks
 

@@ -68,16 +68,16 @@ The following table illustrates the results of calling  **RemoveFromSelection** 
 | **Existing** **Selection.Count**| **Reading Pane Displayed**| **Specified Item Displayed in Reading Pane**| **Results**|
 |1|Yes|Yes|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The selection is cleared.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane is empty.</p></li></ul>|
+<ul><li><p>The selection is cleared.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane is empty.</p></li></ul>|
 |>1|Yes|No|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane does not change.</p></li></ul>|
+<ul><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane does not change.</p></li></ul>|
 |>1|Yes|Yes|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the next item or adjacent item in the selection.</p></li></ul>|
+<ul><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li><li><p>Reading Pane displays the next item or adjacent item in the selection.</p></li></ul>|
 |>=1|No|N/A|
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
+<ul><li><p>The item is removed from the selection.</p></li><li><p><b>SelectionChange</b>  fires.</p></li></ul>|
 If the specified item exists in the current view but is not selected in that view, calling  **RemoveFromSelection** does not result in any change to the selection and does not fire the **SelectionChange** event.
 
 When you specify an item in a recurring appointment or task as an argument to the  **RemoveFromSelection** method, make sure that before you pass the argument, you obtain an instance of the occurrence by first expanding the recurrences, using the **[IncludeRecurrences](Outlook.Items.IncludeRecurrences.md)** property and the **[Items](Outlook.Items.md)** collection. If you do not expand the recurrences and obtain an occurrence in the series, you would be passing an instance variable that represents the appointment or task series, and the **RemoveFromSelection** method would be operating on the series instead of the occurrence.

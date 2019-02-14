@@ -69,7 +69,7 @@ The next example presents two layouts for a report that divides data into four g
 |||
 |:-----|:-----|
 |
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b>  ? <b>Across, then Down</b><br /><br /> 
+<ul><li><p><b>Column Layout</b>  ? <b>Across, then Down</b><br /><br /> 
 Head1 
 <br />1a 1b     2a 2b     3a 3b     4a 4b<br /> 
 5a 5b<br /> 
@@ -80,7 +80,7 @@ Head3<br />
 Head4<br /> 
 1a 1b     2a 2b     3a 3b     4a 4b<br /> 
 5a 5b     6a 6b<br /></p></li><li><p><b>Grid Settings</b>  ? <b>Number of Columns</b>  set to 4<br /><br /></p></li><li><p><b>NewRowOrCol</b>  property setting for group header section ? Before & After</p></li></ul>|
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt"><li><p><b>Column Layout</b>  ? <b>Down, then Across</b><br /><br />Head1     Head2     Head3     Head4<br /> 
+<ul><li><p><b>Column Layout</b>  ? <b>Down, then Across</b><br /><br />Head1     Head2     Head3     Head4<br /> 
 1a 1b      1a 1b       1a 1b      1a 1b<br /> 
 2a 2b      2a 2b       2a 2b      2a 2b<br /> 
 3a 3b      3a 3b       3a 3b      3a 3b<br /> 
