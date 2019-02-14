@@ -26,7 +26,7 @@ Although a **ReturnVar** object can be used to store information for use in VBA 
 
 - By default, a **ReturnVar** object remains in memory until the next time that the **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** method is used.
     
-    Use the Value poperty of the ReturnVar
+    Use the Value property of the ReturnVar
     
 - A **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
     
