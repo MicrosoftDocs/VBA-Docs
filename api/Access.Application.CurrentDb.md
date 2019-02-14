@@ -32,7 +32,7 @@ Database
 ## Remarks
 
 > [!NOTE] 
-> In Microsoft Access the **CurrentDb** method establishes a hidden reference to the Microsoft Office 12.0 Access Conectivity Engine object library in a Microsoft Access database.
+> In Microsoft Access the **CurrentDb** method establishes a hidden reference to the Microsoft Office 12.0 Access Connectivity Engine object library in a Microsoft Access database.
 
 To manipulate the structure of your database and its data from Visual Basic, you must use Data Access Objects (DAO). The **CurrentDb** method provides a way to access the current database from Visual Basic code without having to know the name of the database. After you have a variable that points to the current database, you can also access and manipulate other objects and collections in the DAO hierarchy.
 
