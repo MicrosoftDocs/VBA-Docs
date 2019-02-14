@@ -65,7 +65,7 @@ Sub Export_Table_Data_Word()
     Set wdDoc = Nothing
     Set wdApp = Nothing
     
-    MsgBox "The " & stWordDocument & "'s table has succcessfully " & vbNewLine & _
+    MsgBox "The " & stWordDocument & "'s table has successfully " & vbNewLine & _
            "been updated!", vbInformation
 
 End Sub
