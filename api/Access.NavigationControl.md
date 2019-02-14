@@ -19,7 +19,7 @@ This object represents a navigation control on a form.
 
 ## Remarks
 
-The  **[NavigationControl](Access.NavigationControl.md)** contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](Access.NavigationButton.md)** objects. When a user clicks a navigation button, the assocated form or report is displayed in the control specified by the **[SubForm](Access.NavigationControl.SubForm.md)** property.
+The  **[NavigationControl](Access.NavigationControl.md)** contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](Access.NavigationButton.md)** objects. When a user clicks a navigation button, the associated form or report is displayed in the control specified by the **[SubForm](Access.NavigationControl.SubForm.md)** property.
 
 Use the  **[Tabs](Access.NavigationControl.Tabs.md)** property to return the collection of navigation buttons for the navigation control.
 
