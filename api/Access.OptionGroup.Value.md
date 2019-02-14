@@ -26,7 +26,7 @@ _expression_ A variable that represents an **[OptionGroup](Access.OptionGroup.md
 
 ## Remarks
 
-Set the  **Value** proprty to **True** to select the option button. The default value is **False**.
+Set the  **Value** property to **True** to select the option button. The default value is **False**.
 
 The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.m
 
 ## Remarks
 
-When the  **Value** proprty is set to **True**, the toggle button is pressed in.
+When the  **Value** property is set to **True**, the toggle button is pressed in.
 
 The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
