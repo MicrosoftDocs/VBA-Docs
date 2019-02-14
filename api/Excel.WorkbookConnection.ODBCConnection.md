@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WorkbookConnection.ODBCConnection property (Excel)
 
-Retuns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection**.
+Returns the ODBC Connection details for the specified  **WorkbookConnection** object. Read-only **ODBCConnection**.
 
 
 ## Syntax

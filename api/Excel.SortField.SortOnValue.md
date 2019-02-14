@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SortField.SortOnValue property (Excel)
 
-Retun the value on which the sort is performed for the specified  **SortField** object. Read-only.
+Return the value on which the sort is performed for the specified  **SortField** object. Read-only.
 
 
 ## Syntax
