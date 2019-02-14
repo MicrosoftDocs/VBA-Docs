@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.FindPrevious method (Excel)
 
-Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the previous cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. Doesn?t affect the selection or the active cell.
+Continues a search that was begun with the  **[Find](Excel.Range.Find.md)** method. Finds the previous cell that matches those same conditions and returns a **[Range](Excel.Range(object).md)** object that represents that cell. Doesn't affect the selection or the active cell.
 
 
 ## Syntax
