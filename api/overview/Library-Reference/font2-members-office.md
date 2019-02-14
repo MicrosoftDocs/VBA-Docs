@@ -32,7 +32,7 @@ Contains font attributes (for example, font name, font size, and color) for an o
 |[Highlight](../../Office.Font2.Highlight.md)|Gets a value indicating whether the font is displayed as highlighted. Read-only.|
 |[Italic](../../Office.Font2.Italic.md)|Gets or sets a value specifying whether the text for a selection is italic. Read/write.|
 |[Kerning](../../Office.Font2.Kerning.md)|Gets or sets a value specifying the amount of spacing between text characters. Read/write.|
-|[Line](../../Office.Font2.Line.md)|Gets a value specifiying the format of a line. Read-only.|
+|[Line](../../Office.Font2.Line.md)|Gets a value specifying the format of a line. Read-only.|
 |[Name](../../Office.Font2.Name.md)|Gets or sets a value specifying the font to use for a selection. Read/write.|
 |[NameAscii](../../Office.Font2.NameAscii.md)|Gets or sets the font used for Latin text (characters with character codes from 0 (zero) through 127). Read/write.|
 |[NameComplexScript](../../Office.Font2.NameComplexScript.md)|Gets or sets the complex script font name. Used for mixed language text. Read/write.|
