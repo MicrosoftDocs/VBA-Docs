@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)
 
 ## Remarks
 
-Use the **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
+Use the **AddSharedImage** method when you have an image that you want to use repeatedly, such as a company logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
 
 
 ## See also
