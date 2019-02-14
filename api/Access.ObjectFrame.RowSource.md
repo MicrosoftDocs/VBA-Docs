@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.RowSource property (Access)
 
-You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data tothe specified object. Read/write **String**.
+You can use the  **RowSource** property (along with the **RowSourceType** property) to tell Microsoft Access how to provide data to the specified object. Read/write **String**.
 
 
 ## Syntax
