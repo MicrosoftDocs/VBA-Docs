@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SignatureInfo.SelectCertificateDetailByThumbprint method (Office)
 
-Displays a dialog box containing information about a digital certificate following vertification of the user from a thumbprint.
+Displays a dialog box containing information about a digital certificate following verification of the user from a thumbprint.
 
 
 ## Syntax
