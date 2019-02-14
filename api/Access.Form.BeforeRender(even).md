@@ -21,7 +21,7 @@ Occurs before any object in the specified PivotChart view has been rendered.
 
 _expression_. `BeforeRender`( ` _drawObject_`, ` _chartObject_`, ` _Cancel_` )
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters

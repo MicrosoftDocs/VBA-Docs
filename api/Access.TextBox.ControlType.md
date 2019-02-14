@@ -21,7 +21,7 @@ You can use the  **ControlType** property in Visual Basic to determine the type 
 
 _expression_.**ControlType**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

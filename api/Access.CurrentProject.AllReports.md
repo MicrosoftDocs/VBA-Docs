@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentProject.AllReports property (Access)
 
-You can use the  **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
+You can use the **AllReports** property to reference the **[AllReports](Access.AllReports.md)** collection and its related properties. Read-only **AllReports** object.
 
 
 ## Syntax
 
-_expression_. `AllReports`
+_expression_.**AllReports**
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## See also

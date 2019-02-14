@@ -21,6 +21,6 @@ Returns the parent object for the specified object. Read-only  **Object**.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ReturnVars](Access.ReturnVars.md) object.
+_expression_ A variable that represents a **[ReturnVars](Access.ReturnVars.md)** object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

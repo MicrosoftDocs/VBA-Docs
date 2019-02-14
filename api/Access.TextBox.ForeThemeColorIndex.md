@@ -21,7 +21,7 @@ Gets or sets a value that represents a color in the applied color theme associat
 
 _expression_. `ForeThemeColorIndex`
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
@@ -30,7 +30,7 @@ The  **ForeThemeColorIndex** property contains one of the index values listed in
 
 
 
-|**Index Value**|**Description**|
+|Index Value|Description|
 |:-----|:-----|
 |0|Text 1|
 |1|Background 1|

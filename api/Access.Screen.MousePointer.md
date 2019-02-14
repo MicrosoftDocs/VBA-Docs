@@ -14,14 +14,14 @@ localization_priority: Priority
 
 # Screen.MousePointer property (Access)
 
-You can use the  **MousePointer** property together with the **[Screen](Access.Screen.md)** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
+You can use the  **MousePointer** property together with the **Screen** object to specify or determine the type of mouse pointer currently displayed. Read/write **Integer**.
 
 
 ## Syntax
 
 _expression_. `MousePointer`
 
-_expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 
 ## Remarks

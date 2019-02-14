@@ -21,7 +21,7 @@ Returns a reference to a control's **[Properties](Access.Properties.md)** collec
 
 _expression_.**Properties**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

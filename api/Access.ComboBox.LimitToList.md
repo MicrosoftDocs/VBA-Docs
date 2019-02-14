@@ -21,7 +21,7 @@ You can use the  **LimitToList** property to limit a combo box's values to the l
 
 _expression_. `LimitToList`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

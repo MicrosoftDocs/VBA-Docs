@@ -21,7 +21,7 @@ Gets the current error number. Read-only  **Long**.
 
 _expression_. `Number`
 
-_expression_ A variable that represents a [MacroError](Access.MacroError.md) object.
+_expression_ A variable that represents a **[MacroError](Access.MacroError.md)** object.
 
 
 ## Remarks

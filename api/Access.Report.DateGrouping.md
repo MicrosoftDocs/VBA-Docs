@@ -21,7 +21,7 @@ You can use the  **DateGrouping** property to specify how you want to group date
 
 _expression_. `DateGrouping`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

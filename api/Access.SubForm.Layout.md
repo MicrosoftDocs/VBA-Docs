@@ -21,7 +21,7 @@ Returns the type of layout for the specified subform. Read-only  **[AcLayoutType
 
 _expression_.**Layout**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## See also

@@ -30,8 +30,8 @@ FROM MyTable;
 
 
 
-```c#
-SELECT week1 + week2 as hours, hours + overtime as gross, gross + ytdpay as week1FROM EmployeePay
+```sql
+SELECT week1 + week2 as hours, hours + overtime as gross, gross + ytdpay as week1 FROM EmployeePay
 
 ```
 

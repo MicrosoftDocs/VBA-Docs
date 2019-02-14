@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `DefaultSize`
 
-_expression_ A variable that represents a [Printer](Access.Printer.md) object.
+_expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ You can use the  **Class** property to specify or determine the class name of an
 
 _expression_.**Class**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks

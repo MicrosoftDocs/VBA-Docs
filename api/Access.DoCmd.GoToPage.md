@@ -21,7 +21,7 @@ Carries out the GoToPage action in Visual Basic. .
 
 _expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters

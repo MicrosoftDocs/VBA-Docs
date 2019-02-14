@@ -21,7 +21,7 @@ Gets or sets the amount of space (in inches) between the label and its bottom gr
 
 _expression_.**BottomPadding**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## See also

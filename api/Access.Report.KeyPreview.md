@@ -21,7 +21,7 @@ You can use the  **KeyPreview** property to specify whether the report-level key
 
 _expression_. `KeyPreview`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ You can use the  **ColumnHidden** property to show or hide a specified column in
 
 _expression_.**ColumnHidden**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

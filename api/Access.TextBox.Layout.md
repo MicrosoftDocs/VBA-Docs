@@ -21,7 +21,7 @@ Returns the type of layout for the specified text box. Read-only  **[AcLayoutTyp
 
 _expression_.**Layout**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## See also

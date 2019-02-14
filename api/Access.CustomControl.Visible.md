@@ -21,7 +21,7 @@ Returns or sets whether the object is visible. Read/write  **Boolean**.
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks

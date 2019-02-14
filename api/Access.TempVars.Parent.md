@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TempVars.Parent property (Access)
 
-Returns the parent object for the specified object. Read-only  **Object**.
+Returns the parent object for the specified object. Read-only **Object**.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
 
 ## See also

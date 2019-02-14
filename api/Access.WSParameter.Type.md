@@ -21,7 +21,7 @@ Get the data type of the specified parameter.  **Read-only** Integer.
 
 _expression_. `Type`
 
-_expression_ A variable that represents a [WSParameter](Access.WSParameter.md) object.
+_expression_ A variable that represents a **[WSParameter](Access.WSParameter.md)** object.
 
 
 ## See also

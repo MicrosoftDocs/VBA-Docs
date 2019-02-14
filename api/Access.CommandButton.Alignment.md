@@ -21,7 +21,7 @@ Gets or sets how the specified button's caption and picture are aligned. Read/wr
 
 _expression_. `Alignment`
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

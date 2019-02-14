@@ -26,7 +26,7 @@ Specifies the status of the synchronization of the local copy of the active docu
 |**msoSyncStatusLocalChanges**|3|Only local copy has changes.|
 |**msoSyncStatusNewerAvailable**|2|Only server copy has changes.|
 |**msoSyncStatusNoSharedWorkspace**|0|No shared workspace.|
-|**msoSyncStatusNotRoaming**|0|No syncronization is needed.|
-|**msoSyncStatusSuspended**|5|Syncronization has been suspended.|
+|**msoSyncStatusNotRoaming**|0|No synchronization is needed.|
+|**msoSyncStatusSuspended**|5|Synchronization has been suspended.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

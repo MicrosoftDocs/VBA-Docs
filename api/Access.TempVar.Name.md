@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TempVar.Name property (Access)
 
-Gets the name of the specified  **[TempVar](Access.TempVar.md)**. Read-only **String**.
+Gets the name of the specified **TempVar** object. Read-only **String**.
 
 
 ## Syntax
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [TempVar](Access.TempVar.md) object.
+_expression_ A variable that represents a **[TempVar](Access.TempVar.md)** object.
 
 
 ## See also

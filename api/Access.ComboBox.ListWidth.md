@@ -21,7 +21,7 @@ You can use the  **ListWidth** property to set the width of the list box portion
 
 _expression_. `ListWidth`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

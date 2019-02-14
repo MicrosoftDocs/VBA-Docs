@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.GridlineShade property (Access)
 
-Gets or sets the shade applied to the theme color in the **[GridlineColor](access.attachment.gridlinecolor.md)** property of the specified object. Read/write **Single**.
+Gets or sets the shade applied to the theme color in the **[GridlineColor](access.attachment.gridlinecolor.md)** property of the specified object. Read/write **Single**. 
 
 
 ## Syntax

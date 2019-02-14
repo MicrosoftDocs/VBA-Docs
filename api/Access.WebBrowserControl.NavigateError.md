@@ -21,7 +21,7 @@ Occurs when an error occurs during navigation.
 
 _expression_. `NavigateError`( ` _pDisp_`, ` _URL_`, ` _TargetFrameName_`, ` _StatusCode_`, ` _Cancel_` )
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Parameters

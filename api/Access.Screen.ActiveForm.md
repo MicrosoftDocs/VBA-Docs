@@ -14,14 +14,14 @@ localization_priority: Priority
 
 # Screen.ActiveForm property (Access)
 
-You can use the  **ActiveForm** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the form that has the focus. Read-only **Form** object.
+You can use the  **ActiveForm** property together with the **Screen** object to identify or refer to the form that has the focus. Read-only **Form** object.
 
 
 ## Syntax
 
 _expression_. `ActiveForm`
 
-_expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 
 ## Remarks

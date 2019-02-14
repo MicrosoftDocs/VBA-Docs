@@ -21,7 +21,7 @@ The  **Close** event occurs when a report is closed and removed from the screen.
 
 _expression_. `Close`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

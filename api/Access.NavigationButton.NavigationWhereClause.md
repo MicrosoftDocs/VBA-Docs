@@ -21,7 +21,7 @@ Gets or sets the filter criteria applied when opening the form or report associa
 
 _expression_. `NavigationWhereClause`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

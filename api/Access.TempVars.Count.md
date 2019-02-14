@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # TempVars.Count property (Access)
 
-Gets the number of  **[TempVar](Access.TempVar.md)** objects in the **[TempVars](Access.TempVars.md)** collection. Read-only **Long**.
+Gets the number of **[TempVar](Access.TempVar.md)** objects in the **TempVars** collection. Read-only **Long**.
 
 
 ## Syntax
 
 _expression_. `Count`
 
-_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
 
 ## See also

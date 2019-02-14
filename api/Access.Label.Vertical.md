@@ -21,7 +21,7 @@ You can use the  **Vertical** property to set a form control for vertical displa
 
 _expression_. `Vertical`
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentData.AllTables property (Access)
 
-You can use the  **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
+You can use the **AllTables** property to reference the **[AllTables](Access.AllTables.md)** collection and its related properties. Read-only **AllTables** object.
 
 
 ## Syntax
 
-_expression_. `AllTables`
+_expression_.**AllTables**
 
-_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 
 
 ## See also

@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # DependencyInfo.Dependants property (Access)
 
-Returns a  **[DependencyObjects](Access.DependencyObjects.md)** collection that represents the objects that depend upon the specified **[AccessObject](Access.AccessObject.md)** object. Read-only.
+Returns a **[DependencyObjects](Access.DependencyObjects.md)** collection that represents the objects that depend upon the specified **[AccessObject](Access.AccessObject.md)** object. Read-only.
 
 
 ## Syntax
 
 _expression_. `Dependants`
 
-_expression_ A variable that represents a [DependencyInfo](Access.DependencyInfo.md) object.
+_expression_ A variable that represents a **[DependencyInfo](Access.DependencyInfo.md)** object.
 
 
 ## Remarks
 
-To return the collection of objects that an  **AccessObject** object depends upon, use the **[Dependencies](Access.DependencyInfo.Dependencies.md)** property of the **DependencyInfo** object.
+To return the collection of objects that an **AccessObject** object depends upon, use the **[Dependencies](Access.DependencyInfo.Dependencies.md)** property of the **DependencyInfo** object.
 
 
 ## See also

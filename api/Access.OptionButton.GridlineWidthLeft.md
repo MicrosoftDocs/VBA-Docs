@@ -21,7 +21,7 @@ Gets or sets the width of the left gridline for the specified option button. Rea
 
 _expression_.**GridlineWidthLeft**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks

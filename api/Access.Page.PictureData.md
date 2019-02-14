@@ -21,7 +21,7 @@ You can use the  **PictureData** property to copy the picture to another object 
 
 _expression_. `PictureData`
 
-_expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a **[Page](Access.Page.md)** object.
 
 
 ## Remarks

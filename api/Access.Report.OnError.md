@@ -21,7 +21,7 @@ Sets or returns the value of the  **OnError** box in the Properties window of a 
 
 _expression_. `OnError`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets the width of the specified object in twips. Read/write  **Integer**
 
 _expression_.**Width**
 
-_expression_ A variable that represents an [EmptyCell](Access.EmptyCell.md) object.
+_expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
 ## Remarks

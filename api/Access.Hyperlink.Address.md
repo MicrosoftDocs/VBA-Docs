@@ -14,21 +14,21 @@ localization_priority: Normal
 
 # Hyperlink.Address property (Access)
 
-You can use the  **Address** property to specify or determine the path to an object, document, Web page or other destination for a **[Hyperlink](Access.Hyperlink.md)** object associated with a command button, image control, or label control. Read/write **String**.
+You can use the **Address** property to specify or determine the path to an object, document, Web page or other destination for a **[Hyperlink](Access.Hyperlink.md)** object associated with a command button, image control, or label control. Read/write **String**.
 
 
 ## Syntax
 
 _expression_. `Address`
 
-_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** object.
 
 
 ## Remarks
 
  When you set the **Address** property, you automatically specify the **HyperlinkAddress** property for the control associated with the hyperlink.
 
-For more information about hyperlink addresses and their format, see the  **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
+For more information about hyperlink addresses and their format, see the **HyperlinkAddress** and **HyperlinkSubAddress** property topics.
 
 
 ## See also

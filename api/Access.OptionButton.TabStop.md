@@ -21,7 +21,7 @@ You can use the  **TabStop** property to specify whether you can use the TAB key
 
 _expression_.**TabStop**
 
-_expression_ A variable that represents an [OptionButton](Access.OptionButton.md) object.
+_expression_ A variable that represents an **[OptionButton](Access.OptionButton.md)** object.
 
 
 ## Remarks

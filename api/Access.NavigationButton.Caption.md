@@ -21,7 +21,7 @@ Gets or sets the text that appears in the control. Read/write  **String**.
 
 _expression_. `Caption`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

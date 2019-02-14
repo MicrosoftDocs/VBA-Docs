@@ -21,7 +21,7 @@ The  **Locked** property specifies whether you can edit data in a control in For
 
 _expression_.**Locked**
 
-_expression_ A variable that represents an [OptionGroup](Access.OptionGroup.md) object.
+_expression_ A variable that represents an **[OptionGroup](Access.OptionGroup.md)** object.
 
 
 ## Remarks

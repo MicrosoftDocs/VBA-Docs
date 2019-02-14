@@ -19,7 +19,7 @@ Returns or sets the reading order of the specified paragraphs without changing t
 
 ## Syntax
 
- _expression_. `ReadingOrder`
+ _expression_.**ReadingOrder**
 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

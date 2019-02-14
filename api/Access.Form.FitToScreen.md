@@ -21,7 +21,7 @@ Gets or sets whether the width of the form is reduced to fit the width of the sc
 
 _expression_. `FitToScreen`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## See also

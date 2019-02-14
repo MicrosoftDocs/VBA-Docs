@@ -21,7 +21,7 @@ The  **FindNext** method carries out the FindNext action in Visual Basic.
 
 _expression_. `FindNext`
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Remarks

@@ -14,19 +14,19 @@ localization_priority: Normal
 
 # CustomControl.About property (Access)
 
-Returns or sets a  **String** representing version and copyright information for an ActiveX control. Read/write.
+Returns or sets a **String** representing version and copyright information for an ActiveX control. Read/write.
 
 
 ## Syntax
 
 _expression_. `About`
 
-_expression_ A variable that represents a [CustomControl](Access.CustomControl.md) object.
+_expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks
 
-To view an  **About** box showing version and copyright information for an ActiveX control, click the **About** property box in the Microsoft Access property sheet. Then click the **Build** button to the right of the property box.
+To view an **About** box showing version and copyright information for an ActiveX control, click the **About** property box in the Microsoft Access property sheet. Then click the **Build** button to the right of the property box.
 
 
 ## See also

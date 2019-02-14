@@ -16,7 +16,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-This error occurs when a user specifies that the dataqbase open in row/page locking mode, but another user already has the database opened in page locking only mode.
+This error occurs when a user specifies that the database is open in row/page locking mode, but another user already has the database opened in page locking only mode.
 
 ## See also
 

@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CodeProject.AllForms property (Access)
 
-You can use the  **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
+You can use the **AllForms** property to reference the **[AllForms](Access.AllForms.md)** collection and its related properties. Read-only **AllForms** object.
 
 
 ## Syntax
 
-_expression_. `AllForms`
+_expression_.**AllForms**
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## See also

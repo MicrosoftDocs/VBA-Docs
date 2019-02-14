@@ -21,7 +21,7 @@ You can use the  **OpenConnection** method to open an ADO connection to an exist
 
 _expression_. `OpenConnection`( ` _BaseConnectionString_`, ` _UserID_`, ` _Password_` )
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Parameters

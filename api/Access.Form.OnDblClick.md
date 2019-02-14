@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Dbl Click** box in the Properties window.
 
 _expression_.**OnDblClick**
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

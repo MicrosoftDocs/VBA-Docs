@@ -21,7 +21,7 @@ Specifies the maximum number of records by a query or view. Read/write  **Long**
 
 _expression_. `MaxRecords`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

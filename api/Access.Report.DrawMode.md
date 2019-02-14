@@ -21,7 +21,7 @@ You can use the  **DrawMode** property to specify how the pen (the color used in
 
 _expression_. `DrawMode`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

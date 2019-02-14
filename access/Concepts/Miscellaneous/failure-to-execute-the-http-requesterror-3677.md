@@ -21,7 +21,7 @@ Failed attempting to send a request to the internet server. The request could ha
     
 - A request to delete a file across the internet.
     
-- An attempt to start the MSTRAI40.exe syncronization process on the internet server.
+- An attempt to start the MSTRAI40.exe synchronization process on the internet server.
     
 
 ## See also

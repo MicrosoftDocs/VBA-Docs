@@ -21,7 +21,7 @@ You can use the **ForceNewPage** property to specify whether form sections detai
 
 _expression_. `ForceNewPage`
 
-_expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a **[Section](Access.Section.md)** object.
 
 
 ## Remarks

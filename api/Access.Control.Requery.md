@@ -21,7 +21,7 @@ The  **Requery** method updates the data underlying a specified control that's o
 
 _expression_.**Requery**
 
-_expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a **[Control](Access.Control.md)** object.
 
 
 ## Remarks

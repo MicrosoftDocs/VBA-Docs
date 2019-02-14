@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** indicating whether line breaks in text boxes foll
 
 _expression_. `AsianLineBreak`
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

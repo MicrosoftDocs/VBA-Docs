@@ -21,7 +21,7 @@ Gets the  **[SharedResources](Access.SharedResources.md)** collection for the sp
 
 _expression_. `Resources`
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## See also

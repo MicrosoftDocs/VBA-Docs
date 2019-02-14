@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CustomLabel.TopMargin property (Word)
 
-Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write  **Single**.
+Returns or sets the distance (in points) between the top edge of the page and the top boundary of the body text. Read/write **Single**.
 
 
 ## Syntax
 
- _expression_. `TopMargin`
+ _expression_.**TopMargin**
 
- _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
+ _expression_ Required. A variable that represents a **[CustomLabel](Word.CustomLabel.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Gets or sets whether the specified control automatically adjusts vertically to p
 
 _expression_. `CanShrink`
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks

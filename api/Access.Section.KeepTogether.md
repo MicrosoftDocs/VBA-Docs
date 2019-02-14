@@ -21,7 +21,7 @@ You can use the  **KeepTogether** property for a section to print a form or repo
 
 _expression_. `KeepTogether`
 
-_expression_ A variable that represents a [Section](Access.Section.md) object.
+_expression_ A variable that represents a **[Section](Access.Section.md)** object.
 
 
 ## Remarks

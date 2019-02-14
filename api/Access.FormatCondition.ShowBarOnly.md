@@ -21,7 +21,7 @@ Gets or sets whether the data bar or the data bar and its value are displayed. S
 
 _expression_. `ShowBarOnly`
 
-_expression_ A variable that represents a [FormatCondition](Access.FormatCondition.md) object.
+_expression_ A variable that represents a **[FormatCondition](Access.FormatCondition.md)** object.
 
 
 ## See also

@@ -19,9 +19,9 @@ You can use the  **AllFunctions** property to reference the **[AllFunctions](Acc
 
 ## Syntax
 
-_expression_. `AllFunctions`
+_expression_.**AllFunctions**
 
-_expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
+_expression_ A variable that represents a **[CodeData](Access.CodeData.md)** object.
 
 
 ## See also

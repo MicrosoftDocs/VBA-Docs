@@ -21,7 +21,7 @@ You can use the  **OLEType** property to determine if a control contains an OLE 
 
 _expression_.**OLEType** 
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks

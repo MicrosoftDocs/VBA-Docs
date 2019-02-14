@@ -17,7 +17,7 @@ There are three intrinsic constants that can be used with the **SysCmd** method'
 
 |**Intrinsic constant**|**Description**|
 |:-----|:-----|
-|**acSysCmdInitMeter**|Initialize the progress meter. The maximum value that the process will attain is specifed in the **SysCmd** method's _value_ argument.|
+|**acSysCmdInitMeter**|Initialize the progress meter. The maximum value that the process will attain is specified in the **SysCmd** method's _value_ argument.|
 |**acSysCmdUpdateMeter**|Update the progress meter. A numeric expression that represents the current progress toward completion is specified in the **SysCmd** method's _value_ argument.|
 |**acSysCmdRemoveMeter**|Remove progress meter.|
 

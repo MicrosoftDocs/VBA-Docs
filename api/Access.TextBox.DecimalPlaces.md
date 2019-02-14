@@ -21,7 +21,7 @@ You can use the  **DecimalPlaces** property to specify the number of decimal pla
 
 _expression_. `DecimalPlaces`
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

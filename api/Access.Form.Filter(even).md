@@ -21,7 +21,7 @@ Occurs when the user opens a filter window by clicking  **Filter by Form**,  **A
 
 _expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters

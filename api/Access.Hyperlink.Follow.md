@@ -21,7 +21,7 @@ The  **Follow** method opens the document or Web page specified by a hyperlink a
 
 _expression_. `Follow`( ` _NewWindow_`, ` _AddHistory_`, ` _ExtraInfo_`, ` _Method_`, ` _HeaderInfo_` )
 
-_expression_ A variable that represents a [Hyperlink](Access.Hyperlink.md) object.
+_expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ The  **Beep** method carries out the Beep action in Visual Basic.
 
 _expression_. `Beep`
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Remarks

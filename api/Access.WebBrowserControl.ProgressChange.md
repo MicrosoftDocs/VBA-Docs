@@ -21,7 +21,7 @@ Occurs when the progress of a download operation is updated.
 
 _expression_. `ProgressChange`( ` _Progress_`, ` _ProgressMax_` )
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Parameters

@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Change** box in the Properties window of 
 
 _expression_. `OnChange`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

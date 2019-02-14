@@ -21,7 +21,7 @@ You can use the  **FrozenColumns** property to determine how many columns in a d
 
 _expression_. `FrozenColumns`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

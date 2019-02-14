@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Exit** box in the Properties window of sp
 
 _expression_.**OnExit**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
@@ -33,7 +33,7 @@ The  **Exit** event occurs just before a control loses the focus to another cont
 The  **OnExit** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Exit** box in the object's Properties window):
 
 
-- If Expression Builder is chosen, the value will be "=_expression_ ", where_expression_ is the expression from the Expression Builder window.
+- If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
 - If Macro Builder is chosen, the value is the name of the macro. 
     

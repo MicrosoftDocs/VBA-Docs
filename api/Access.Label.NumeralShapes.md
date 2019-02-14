@@ -22,7 +22,7 @@ localization_priority: Normal
 
 _expression_. `NumeralShapes`
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

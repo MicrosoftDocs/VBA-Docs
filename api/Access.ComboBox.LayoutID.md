@@ -21,7 +21,7 @@ Returns the unique identifier for the layout that contains the specified combo b
 
 _expression_.**LayoutID**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

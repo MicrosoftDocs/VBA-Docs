@@ -21,7 +21,7 @@ Returns a reference to a  **[CurrentProject](Access.CurrentProject.md)** object'
 
 _expression_.**Properties**
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Remarks

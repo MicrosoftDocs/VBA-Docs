@@ -21,7 +21,7 @@ You can use the  **ServerFilter** property to specify a subset of records to be 
 
 _expression_. `ServerFilter`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

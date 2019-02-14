@@ -21,7 +21,7 @@ You can use the  **StatusBarText** property to specify the text that is displaye
 
 _expression_.**StatusBarText**
 
-_expression_ A variable that represents a [Page](Access.Page.md) object.
+_expression_ A variable that represents a **[Page](Access.Page.md)** object.
 
 
 ## Remarks

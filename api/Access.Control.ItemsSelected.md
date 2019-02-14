@@ -21,7 +21,7 @@ You can use the  **ItemsSelected** property to return a read-only reference to t
 
 _expression_. `ItemsSelected`
 
-_expression_ A variable that represents a [Control](Access.Control.md) object.
+_expression_ A variable that represents a **[Control](Access.Control.md)** object.
 
 
 ## Remarks

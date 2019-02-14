@@ -21,7 +21,7 @@ The  **AddFromFile** method creates a reference to a type library in a specified
 
 _expression_. `AddFromFile`( ` _FileName_` )
 
-_expression_ A variable that represents a [References](Access.References.md) object.
+_expression_ A variable that represents a **[References](Access.References.md)** object.
 
 
 ## Parameters

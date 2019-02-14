@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentProject.AllMacros property (Access)
 
-You can use the  **AllMacros** property to reference the **[AllMacros](Access.allmacros.md)** collection and its related properties. Read-only **AllMacros** object.
+You can use the **AllMacros** property to reference the **[AllMacros](Access.allmacros.md)** collection and its related properties. Read-only **AllMacros** object.
 
 
 ## Syntax
 
-_expression_. `AllMacros`
+_expression_.**AllMacros**
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## See also

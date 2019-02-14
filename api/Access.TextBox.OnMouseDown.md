@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Mouse Down** box in the Properties window
 
 _expression_.**OnMouseDown**
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

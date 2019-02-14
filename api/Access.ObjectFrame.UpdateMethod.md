@@ -21,7 +21,7 @@ This property has been deprecated. Use the  **[UpdateOptions](Access.ObjectFrame
 
 _expression_. `UpdateMethod`
 
-_expression_ A variable that represents an [ObjectFrame](Access.ObjectFrame.md) object.
+_expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## See also

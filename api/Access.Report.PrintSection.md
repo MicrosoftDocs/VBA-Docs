@@ -21,7 +21,7 @@ The  **PrintSection** property specifies whether a section should be printed. Re
 
 _expression_. `PrintSection`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

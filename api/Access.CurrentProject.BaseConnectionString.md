@@ -19,9 +19,9 @@ You can use the  **BaseConnectionString** property to return the base connection
 
 ## Syntax
 
-_expression_. `BaseConnectionString`
+_expression_.**BaseConnectionString**
 
-_expression_ A variable that represents a [CurrentProject](Access.CurrentProject.md) object.
+_expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Remarks

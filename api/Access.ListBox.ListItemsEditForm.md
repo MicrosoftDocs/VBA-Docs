@@ -21,7 +21,7 @@ Gets or sets the name of the form that is displayed when the user clicks  **Edit
 
 _expression_. `ListItemsEditForm`
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Remarks

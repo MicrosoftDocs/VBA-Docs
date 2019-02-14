@@ -19,9 +19,9 @@ You can use the  **ReadingOrder** property to specify or determine the reading o
 
 ## Syntax
 
-_expression_. `ReadingOrder`
+_expression_.**ReadingOrder**
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks

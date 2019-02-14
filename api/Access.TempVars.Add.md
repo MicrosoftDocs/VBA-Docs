@@ -14,14 +14,14 @@ localization_priority: Priority
 
 # TempVars.Add method (Access)
 
-Adds a variable to the  **[TempVars](Access.TempVars.md)** collection.
+Adds a variable to the **[TempVars](Access.TempVars.md)** collection.
 
 
 ## Syntax
 
 _expression_. `Add`( ` _Name_`, ` _Value_` )
 
-_expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
+_expression_ A variable that represents a **[TempVar](Access.TempVar.md)** object.
 
 
 ## Parameters
@@ -30,8 +30,8 @@ _expression_ A variable that represents a [TempVars](Access.TempVars.md) object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Name_|Required|**String**|The name to use for the  **TempVar**.|
-| _Value_|Required|**Variant**|The value to store as a  **TempVar**. This value must be a string expression or a numeric expression. Setting this argument to an object data type will result in a run-time error.|
+| _Name_|Required|**String**|The name to use for the **TempVar**.|
+| _Value_|Required|**Variant**|The value to store as a **TempVar**. This value must be a string expression or a numeric expression. Setting this argument to an object data type will result in a run-time error.|
 
 ## See also
 

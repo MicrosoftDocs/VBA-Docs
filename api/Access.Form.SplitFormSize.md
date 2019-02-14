@@ -21,7 +21,7 @@ Gets or sets the size in [twips](../language/glossary/vbe-glossary.md#twip) of t
 
 _expression_. `SplitFormSize`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

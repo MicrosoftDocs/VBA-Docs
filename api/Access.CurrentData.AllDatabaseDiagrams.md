@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentData.AllDatabaseDiagrams property (Access)
 
-You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object.
+You can use the  **AllDatabaseDiagrams** property to reference the **[AllDatabaseDiagrams](Access.AllDatabaseDiagrams.md)** collection and its related properties. Read-only **AllDatabaseDiagrams** object. 
 
 
 ## Syntax
 
-_expression_. `AllDatabaseDiagrams`
+_expression_.**AllDatabaseDiagrams**
 
-_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 
 
 ## See also

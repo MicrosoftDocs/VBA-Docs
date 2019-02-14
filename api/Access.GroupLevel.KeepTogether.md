@@ -21,7 +21,7 @@ You can use the  **KeepTogether** property for a group in a report to keep parts
 
 _expression_. `KeepTogether`
 
-_expression_ A variable that represents a [GroupLevel](Access.GroupLevel.md) object.
+_expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)** object.
 
 
 ## Remarks

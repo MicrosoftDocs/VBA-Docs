@@ -21,7 +21,7 @@ Specifies whether a colon follows the text in labels for new controls. Read/writ
 
 _expression_.**AddColon**
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## See also

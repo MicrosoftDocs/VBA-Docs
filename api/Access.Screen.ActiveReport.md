@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Screen.ActiveReport property (Access)
 
-You can use the  **ActiveReport** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the report that has the focus. Read-only **Report** object.
+You can use the  **ActiveReport** property together with the **Screen** object to identify or refer to the report that has the focus. Read-only **Report** object.
 
 
 ## Syntax
 
 _expression_. `ActiveReport`
 
-_expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 
 ## Remarks

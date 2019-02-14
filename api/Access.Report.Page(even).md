@@ -21,7 +21,7 @@ The  **Page** event occurs after Microsoft Access formats a page of a report for
 
 _expression_. `Page`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Return value

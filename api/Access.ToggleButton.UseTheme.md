@@ -21,7 +21,7 @@ Gets or sets whether the specified object will utilize formatting styles defined
 
 _expression_. `UseTheme`
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks

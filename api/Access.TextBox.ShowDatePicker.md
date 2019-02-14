@@ -21,7 +21,7 @@ Gets or sets whether the date picker control is displayed for the specified text
 
 _expression_. `ShowDatePicker`
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

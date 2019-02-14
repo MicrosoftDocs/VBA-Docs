@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.GridlineThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.boundobjectframe.gridlinecolor.md)** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **[GridlineColor](access.boundobjectframe.gridlinecolor.md)** property of the specified object. Read/write **Long**. 
 
 
 ## Syntax

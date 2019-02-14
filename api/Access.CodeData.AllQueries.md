@@ -19,9 +19,9 @@ You can use the  **AllQueries** property to reference the **[AllQueries](Access.
 
 ## Syntax
 
-_expression_. `AllQueries`
+_expression_.**AllQueries**
 
-_expression_ A variable that represents a [CodeData](Access.CodeData.md) object.
+_expression_ A variable that represents a **[CodeData](Access.CodeData.md)** object.
 
 
 ## See also

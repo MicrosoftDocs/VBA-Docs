@@ -21,7 +21,7 @@ You can use the  **Object** property in Visual Basic to return a reference to th
 
 _expression_.**Object**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Gets or sets the amount of space (in inches) between the list box and its bottom
 
 _expression_.**BottomPadding**
 
-_expression_ A variable that represents a [WebBrowserControl](Access.WebBrowserControl.md) object.
+_expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## See also

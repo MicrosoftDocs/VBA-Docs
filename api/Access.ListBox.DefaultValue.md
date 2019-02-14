@@ -19,9 +19,9 @@ Specifies a value that is automatically entered in a field when a new record is 
 
 ## Syntax
 
-_expression_. `DefaultValue`
+_expression_.**DefaultValue**
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Remarks

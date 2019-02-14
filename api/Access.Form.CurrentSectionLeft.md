@@ -21,7 +21,7 @@ You can use this property to determine the distance in [twips](../language/gloss
 
 _expression_. `CurrentSectionLeft`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ You can use the  **ScrollBarAlign** to specify or determine the alignment of a v
 
 _expression_. `ScrollBarAlign`
 
-_expression_ A variable that represents a [ListBox](Access.ListBox.md) object.
+_expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Remarks

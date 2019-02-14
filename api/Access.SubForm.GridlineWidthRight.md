@@ -21,7 +21,7 @@ Gets or sets the width of the right gridline for the specified subform. Read/wri
 
 _expression_.**GridlineWidthRight**
 
-_expression_ A variable that represents a [SubForm](Access.SubForm.md) object.
+_expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
 
 ## Remarks

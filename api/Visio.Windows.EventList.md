@@ -55,7 +55,7 @@ Public Sub EventList_Example()
  Set vsoAddon = vsoAddons.Add ("fullpath\filename ") 
  
  'Add a ShapeAdded event to the EventList collection 
- 'of the document. The event will start the specifed add-on, which 
+ 'of the document. The event will start the specified add-on, which 
  'should take no arguments. 
  Set vsoEventList = ThisDocument.EventList 
  Set vsoEvent = vsoEventList.Add(visEvtAdd + visEvtShape, visActCodeRunAddon, _ 

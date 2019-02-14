@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Controls.Application property (Access)
 
-You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
+You can use the  **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object. 
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Controls](Access.Controls.md) object.
+_expression_ A variable that represents a **[Controls](Access.Controls.md)** object.
 
 
 ## Remarks

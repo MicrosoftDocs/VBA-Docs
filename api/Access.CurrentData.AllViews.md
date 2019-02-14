@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CurrentData.AllViews property (Access)
 
-You can use the  **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
+You can use the **AllViews** property to reference the **[AllViews](Access.AllViews.md)** collection and its related properties. Read-only **AllViews** object.
 
 
 ## Syntax
 
-_expression_. `AllViews`
+_expression_.**AllViews**
 
-_expression_ A variable that represents a [CurrentData](Access.CurrentData.md) object.
+_expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Gets or sets the text that appears to the left of the form's navigation buttons.
 
 _expression_. `NavigationCaption`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

@@ -14,21 +14,21 @@ localization_priority: Priority
 
 # Screen.ActiveControl property (Access)
 
-You can use the  **ActiveControl** property together with the **[Screen](Access.Screen.md)** object to identify or refer to the control that has the focus. Read-only **Control** object.
+You can use the **ActiveControl** property together with the **Screen** object to identify or refer to the control that has the focus. Read-only **Control** object.
 
 
 ## Syntax
 
 _expression_. `ActiveControl`
 
-_expression_ A variable that represents a [Screen](Access.Screen.md) object.
+_expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
 
 ## Remarks
 
-This property setting contains a reference to the  **Control** object that has the focus at run time.
+This property setting contains a reference to the **Control** object that has the focus at run time.
 
-You can use the  **ActiveControl** property to refer to the control that has the focus at run time together with one of its properties or methods. The following example assigns the name of the control with the focus to the `strControlName` variable.
+You can use the **ActiveControl** property to refer to the control that has the focus at run time together with one of its properties or methods. The following example assigns the name of the control with the focus to the `strControlName` variable.
 
 
 
@@ -40,7 +40,7 @@ Set ctlCurrentControl = Screen.ActiveControl
 strControlName = ctlCurrentControl.Name
 ```
 
-If no control has the focus when you use the  **ActiveControl** property, or if all of the active form's controls are hidden or disabled, an error occurs.
+If no control has the focus when you use the **ActiveControl** property, or if all of the active form's controls are hidden or disabled, an error occurs.
 
 
 ## Example

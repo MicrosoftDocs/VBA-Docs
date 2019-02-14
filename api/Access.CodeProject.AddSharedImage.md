@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # CodeProject.AddSharedImage method (Access)
 
-Imports the specified image into the database and adds it to the  **[SharedResources](Access.SharedResources.md)** collection.
+Imports the specified image into the database and adds it to the **[SharedResources](Access.SharedResources.md)** collection.
 
 
 ## Syntax
 
-_expression_. `AddSharedImage`( ` _SharedImageName_`, ` _FileName_` )
+_expression_.**AddSharedImage** (_SharedImageName_, _FileName_)
 
-_expression_ A variable that represents a [CodeProject](Access.CodeProject.md) object.
+_expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
 ## Parameters
@@ -35,7 +35,7 @@ _expression_ A variable that represents a [CodeProject](Access.CodeProject.md) o
 
 ## Remarks
 
-Use the  **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
+Use the **AddSharedImage** method when you have an image that you want to use repeatedly, such as a companny logo. The **AddSharedImage** method makes the image available in the **Insert Image** dropdown of the **Controls** group in the **Design** tab.
 
 
 ## See also

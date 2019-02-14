@@ -21,7 +21,7 @@ Gets or sets an  **[AcDisplayAsHyperlink](Access.AcDisplayAsHyperlink.md)** cons
 
 _expression_. `DisplayAsHyperlink`
 
-_expression_ A variable that represents a [ComboBox](Access.ComboBox.md) object.
+_expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## See also

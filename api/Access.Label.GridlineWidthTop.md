@@ -21,7 +21,7 @@ Gets or sets the width of the top gridline for the specified label. Read/write  
 
 _expression_.**GridlineWidthTop**
 
-_expression_ A variable that represents a [Label](Access.Label.md) object.
+_expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks

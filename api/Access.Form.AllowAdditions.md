@@ -21,7 +21,7 @@ You can use the  **AllowAdditions** property to specify whether a user can add a
 
 _expression_. `AllowAdditions`
 
-_expression_ A variable that represents a [Form](Access.Form.md) object.
+_expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks

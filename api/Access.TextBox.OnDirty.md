@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Dirty** box in the Properties window of a
 
 _expression_. `OnDirty`
 
-_expression_ A variable that represents a [TextBox](Access.TextBox.md) object.
+_expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks

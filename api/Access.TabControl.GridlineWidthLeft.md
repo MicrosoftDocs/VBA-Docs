@@ -21,7 +21,7 @@ Gets or sets the width of the left gridline for the specified text box. Read/wri
 
 _expression_.**GridlineWidthLeft**
 
-_expression_ A variable that represents a [TabControl](Access.TabControl.md) object.
+_expression_ A variable that represents a **[TabControl](Access.TabControl.md)** object.
 
 
 ## Remarks

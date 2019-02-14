@@ -21,7 +21,7 @@ You can use the  **Top** property to specify an object's location on a form or r
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [PageBreak](Access.PageBreak.md) object.
+_expression_ A variable that represents a **[PageBreak](Access.PageBreak.md)** object.
 
 
 ## Remarks

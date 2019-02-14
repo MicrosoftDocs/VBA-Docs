@@ -21,7 +21,7 @@ Gets or sets the Glow effect applied to the specified object. Read/write  **Long
 
 _expression_. `Glow`
 
-_expression_ A variable that represents a [NavigationButton](Access.NavigationButton.md) object.
+_expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks

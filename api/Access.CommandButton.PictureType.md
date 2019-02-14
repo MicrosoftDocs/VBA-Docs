@@ -21,7 +21,7 @@ You can use the  **PictureType** property to specify whether Microsoft Access st
 
 _expression_. `PictureType`
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

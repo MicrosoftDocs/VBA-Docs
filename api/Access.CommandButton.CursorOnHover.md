@@ -21,7 +21,7 @@ Gets or sets the type of mouse cursor displayed when the user rests the pointer 
 
 _expression_. `CursorOnHover`
 
-_expression_ A variable that represents a [CommandButton](Access.CommandButton.md) object.
+_expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks

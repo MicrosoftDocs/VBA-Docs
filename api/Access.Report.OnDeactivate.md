@@ -21,7 +21,7 @@ Sets or returns the value of the  **On Deactivate** box in the Properties window
 
 _expression_. `OnDeactivate`
 
-_expression_ A variable that represents a [Report](Access.Report.md) object.
+_expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks

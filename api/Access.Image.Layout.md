@@ -21,7 +21,7 @@ Returns the type of layout for the specified image. Read-only  **[AcLayoutType](
 
 _expression_.**Layout**
 
-_expression_ A variable that represents an [Image](Access.Image.md) object.
+_expression_ A variable that represents an **[Image](Access.Image.md)** object.
 
 
 ## See also

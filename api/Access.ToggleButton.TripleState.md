@@ -19,9 +19,9 @@ You can use the  **TripleState** property to specify how the specified control w
 
 ## Syntax
 
-_expression_. `TripleState`
+_expression_.**TripleState**
 
-_expression_ A variable that represents a [ToggleButton](Access.ToggleButton.md) object.
+_expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
