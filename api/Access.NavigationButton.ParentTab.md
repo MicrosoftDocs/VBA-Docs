@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 ## Remarks
 
-The  **ParentTab** propety will return a run-time error if the specified navigation button is a top-level navigation button.
+The  **ParentTab** property will return a run-time error if the specified navigation button is a top-level navigation button.
 
 
 ## See also
