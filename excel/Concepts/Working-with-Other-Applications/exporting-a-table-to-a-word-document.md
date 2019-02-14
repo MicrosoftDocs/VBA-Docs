@@ -35,7 +35,7 @@ Sub Export_Table_Word()
     Set wsSheet = wbBook.Worksheets("Sheet1")
     Set rnReport = wsSheet.Range("Table1")
     
-    'Initialize the Word objets.
+    'Initialize the Word objects.
     Set wdApp = New Word.Application
     Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordReport)
     Set wdbmRange = wdDoc.Bookmarks("Report").Range
