@@ -29,7 +29,7 @@ The required _identifier_ [argument](../../Glossary/vbe-glossary.md#argument) is
 **IsObject** returns **True** even if the variable has been set to **Nothing**. Use error trapping to be sure that an object reference is valid.
 
 > [!NOTE] 
-> This function is useful in error handling sections of the code where you are not sure whether an object was instantiated before the error occured, and for example, you want to close it.
+> This function is useful in error handling sections of the code where you are not sure whether an object was instantiated before the error occurred, and for example, you want to close it.
 
 ## Example
 
