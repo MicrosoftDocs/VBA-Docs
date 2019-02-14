@@ -53,7 +53,7 @@ This example shows how **Do...Loop** statements can be used. The inner **Do...Lo
 ```vb
 Public Sub LoopExample()
     Dim Check As Boolean, Counter As Long, Total As Long
-    Check = True: Counter = 0: Total = 0 ' Initalize variables.
+    Check = True: Counter = 0: Total = 0 ' Initialize variables.
     Do ' Outer loop.
         Do While Counter < 20 ' Inner Loop
             Counter = Counter + 1 ' Increment Counter.

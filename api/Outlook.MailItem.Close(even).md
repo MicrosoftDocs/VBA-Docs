@@ -46,7 +46,7 @@ Public WithEvents myItem As Outlook.MailItem
  
  
  
-Public Sub Initalize_Handler() 
+Public Sub Initialize_Handler() 
  
  Set myItem = Application.ActiveInspector.CurrentItem 
  

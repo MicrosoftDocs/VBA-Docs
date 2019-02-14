@@ -62,7 +62,7 @@ End Sub
  
  
  
-Public Sub Initalize_Handler() 
+Public Sub Initialize_Handler() 
  
  Const strCancelEvent = "Application-defined or object-defined error" 
  
