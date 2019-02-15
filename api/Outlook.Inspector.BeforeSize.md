@@ -47,7 +47,7 @@ Public WithEvents myIns As Outlook.Inspector
  
  
  
-Public Sub Initalize_Handler() 
+Public Sub Initialize_Handler() 
  
  Set myIns = Application.ActiveInspector 
  

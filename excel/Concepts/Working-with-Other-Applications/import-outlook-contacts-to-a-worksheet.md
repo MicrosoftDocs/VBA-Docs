@@ -59,7 +59,7 @@ Sub Import_Contacts()
     
     wsSheet.Activate
     
-    'Initalize the Outlook variables with the MAPI namespace and the default Outlook folder of the current user.
+    'Initialize the Outlook variables with the MAPI namespace and the default Outlook folder of the current user.
     Set olApp = New Outlook.Application
     Set olNamespace = olApp.GetNamespace("MAPI")
     Set olFolder = olNamespace.GetDefaultFolder(10)

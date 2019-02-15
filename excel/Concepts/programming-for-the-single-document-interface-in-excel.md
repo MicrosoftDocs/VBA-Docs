@@ -14,7 +14,7 @@ Learn about programming considerations for the Single Document Interface in Exce
 ## Comparing Single and Multiple Document Interfaces in Excel 2010 and Excel 2013
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Comparing"> </a>
 
-A new feature in Excel 2013 is the single document interface (SDI). SDI is a method of organizing graphical user interface (UI) applications into individual windows that the operating system window manager handles separately. In Excel 2013, each Excel window can contain only one workbook, and each has its own ribbon UI (see Figure 1). By default when you open a new worbook, it will be displayed in another Excel window, even though it is the same Excel instance.
+A new feature in Excel 2013 is the single document interface (SDI). SDI is a method of organizing graphical user interface (UI) applications into individual windows that the operating system window manager handles separately. In Excel 2013, each Excel window can contain only one workbook, and each has its own ribbon UI (see Figure 1). By default when you open a new workbook, it will be displayed in another Excel window, even though it is the same Excel instance.
 
 **Figure 1. Single Document Interface in Excel 2013**
 

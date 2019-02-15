@@ -32,7 +32,7 @@ Sub Export_Chart_Word()
     Dim wsSheet As Worksheet
     Dim ChartObj As ChartObject
     
-    'Initialize the Excel objets.
+    'Initialize the Excel objects.
     Set wbBook = ThisWorkbook
     Set wsSheet = wbBook.Worksheets("Sheet1")
     Set ChartObj = wsSheet.ChartObjects("Chart 1")
@@ -45,7 +45,7 @@ Sub Export_Chart_Word()
                    Filename:=wbBook.Path & "\" & stChartName, _
                    FilterName:="GIF"
     
-    'Initialize the Word objets to the existing Word document and bookmark.
+    'Initialize the Word objects to the existing Word document and bookmark.
     Set wdApp = New Word.Application
     Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\" & stWordDocument)
     Set wdbmRange = wdDoc.Bookmarks("ChartReport").Range

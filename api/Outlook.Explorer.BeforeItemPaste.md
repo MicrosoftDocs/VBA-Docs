@@ -49,7 +49,7 @@ Public WithEvents myOlExp As Outlook.Explorer
  
  
  
-Sub Initalize_Handler() 
+Sub Initialize_Handler() 
  
  Set myOlExp = Application.ActiveExplorer 
  

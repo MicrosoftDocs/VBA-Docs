@@ -44,7 +44,7 @@ The text name of the object is the value of the  **[Name](Excel.Shape.Name.md)**
 
 ## Example
 
-This example sets the  **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn?t represent a **Shapes** object, this example fails.
+This example sets the  **OnAction** property for shape two in a **Shapes** collection. If the ss variable doesn't represent a **Shapes** object, this example fails.
 
 
 ```vb

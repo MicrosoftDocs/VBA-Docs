@@ -33,7 +33,7 @@ If the  **FuriganaControl** property is set in the control, furigana will automa
 
  **FuriganaControl property in ADP**
 
-When you use  **FuriganaControl** property in ADP file, be sure to change the data type from CHAR/NCHAR to VARCHAR/NVARCHR. Otherwise, you cannot insert any furigana string into the target field. The **FuriganaControl** property inserts furigana strings to an existing target field, but if the data type definition of the field stays as CHAR/NCHAR, any string insertion fails because the field length is fixed, which result in an error message.
+When you use  **FuriganaControl** property in ADP file, be sure to change the data type from CHAR/NCHAR to VARCHAR/NVARCHAR. Otherwise, you cannot insert any furigana string into the target field. The **FuriganaControl** property inserts furigana strings to an existing target field, but if the data type definition of the field stays as CHAR/NCHAR, any string insertion fails because the field length is fixed, which result in an error message.
 
 
  **Note**  If you enter text in the target control, the furigana of the newly entered text is automatically added to the end of the designated target control content. Even if the text of the target control is revised or deleted, the characters before the change in the target control will not be revised or deleted. Changing the content of the target control revises the text in the furigana control as necessary. The  **FuriganaControl** property will not run if text is pasted into the target control.

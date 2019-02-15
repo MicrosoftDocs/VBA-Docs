@@ -20,7 +20,7 @@ Used by the [ScrollBars](Access.WebBrowserControl.ScrollBars.md) property to spe
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-|**acScrollAuto**|0|Scroll bars are displayed if the currrent page in the control is too large to be displayed in its entirely.|
+|**acScrollAuto**|0|Scroll bars are displayed if the current page in the control is too large to be displayed in its entirely.|
 |**acScrollNo**|2|Scroll bars are not displayed.|
 |**acScrollYes**|1|Scroll bars are displayed.|
 

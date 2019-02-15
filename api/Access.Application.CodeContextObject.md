@@ -57,7 +57,7 @@ Function ErrorMessage(strText As String, intType As Integer, _
  Set objCurrent = CodeContextObject 
  strMsgboxTitle = "Error in " & objCurrent.Name 
  strText = strText & "Error #" & intErrVal _ 
- & " occured in " & objCurrent.Name 
+ & " occurred in " & objCurrent.Name 
  ErrorMessage = MsgBox(strText, intType, strMsgboxTitle) 
  Err = 0 
 End Function

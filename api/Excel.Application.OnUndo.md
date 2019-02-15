@@ -35,7 +35,7 @@ _expression_ A variable that represents an [Application](Excel.Application-graph
 
 ## Remarks
 
-If a procedure doesn?t use the  **OnUndo** method, the **Undo** command is disabled.
+If a procedure doesn't use the  **OnUndo** method, the **Undo** command is disabled.
 
 The procedure must use the  **[OnRepeat](Excel.Application.OnRepeat.md)** and **OnUndo** methods last, to prevent the repeat and undo procedures from being overwritten by subsequent actions in the procedure.
 

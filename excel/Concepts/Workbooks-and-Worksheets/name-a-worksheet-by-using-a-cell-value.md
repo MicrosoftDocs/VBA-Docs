@@ -19,7 +19,7 @@ This example shows how to name a worksheet by using the value in cell A1 on that
 Private Sub Worksheet_Change(ByVal Target As Range)
     'Specify the target cell whose entry shall be the sheet tab name.
     If Target.Address <> "$A$1" Then Exit Sub
-        'If the target cell is empty (contents cleared) then do not change the shet name
+        'If the target cell is empty (contents cleared) then do not change the sheet name
     If IsEmpty(Target) Then Exit Sub
 
     'If the length of the target cell's entry is greater than 31 characters, disallow the entry.

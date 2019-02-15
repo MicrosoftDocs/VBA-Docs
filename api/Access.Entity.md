@@ -21,7 +21,7 @@ Represents an entity defined in a Data Service data connection.
 
 Use the  **[Item](Access.Entities.Item.md)** property of the **[Entities](Access.Entities.md)** to return an **[Entity](Access.Entity.md)** object.
 
-Use the  **[Operations](Access.Operations.md)** property to returnt he operations defined for the specified entity.
+Use the  **[Operations](Access.Operations.md)** property to return the operations defined for the specified entity.
 
 A Data Service data connection may contain one or more entities. Each entity specifies an external content type. Used throughout the functionality and services offered by Business Connectivity Services, external content types are reusable metadata descriptions of connectivity information and data definitions plus the behaviors you want to apply to a certain category of external data. 
 

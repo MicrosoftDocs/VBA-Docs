@@ -24,6 +24,6 @@ Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to det
 |**acInteractive**|3|The Web Browser control has loaded enough of the document to allow limited user interaction, such as clicking hyperlinks that have been displayed.|
 |**acLoaded**|2|The Web Browser control has loaded and initialized the new document, but has not yet received all the document data.|
 |**acLoading**|1|The Web Browser control is loading a new document.|
-|**acUnintialized**|0|No document is currently loaded.|
+|**acUninitialized**|0|No document is currently loaded.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

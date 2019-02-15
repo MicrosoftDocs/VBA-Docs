@@ -111,7 +111,7 @@ Set wsSheet = wbBook.Worksheets("Sheet1")
 
 vaData = wsSheet.Range("W_Data").Value
 
-' Instatiate the Word Objects.
+' Instantiate the Word Objects.
 Set wdApp = New Word.Application
 Set wdDoc = wdApp.Documents.Open(wbBook.Path & "\Test.docx")
 

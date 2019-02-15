@@ -19,7 +19,7 @@ Represents the collection of  **[ReturnVar](Access.ReturnVar.md)** objects.
 
 ## Remove
 
-The  **RetunVars** collection can store up to 255 **ReturnVar** objects.
+The  **ReturnVars** collection can store up to 255 **ReturnVar** objects.
 
 
 

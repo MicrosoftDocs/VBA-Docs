@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Font2.Line property (Office)
 
-Gets a value specifiying the format of a line. Read-only.
+Gets a value specifying the format of a line. Read-only.
 
 
 ## Syntax

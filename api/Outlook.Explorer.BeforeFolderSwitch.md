@@ -37,7 +37,7 @@ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) obj
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 
-If the folder being switched to is in a namespace that doesn?t support automation (such as the file system),  _NewFolder_ is **Nothing**.
+If the folder being switched to is in a namespace that doesn't support automation (such as the file system),  _NewFolder_ is **Nothing**.
 
 
 ## Example
