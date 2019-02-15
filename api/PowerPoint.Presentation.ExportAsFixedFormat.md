@@ -98,7 +98,7 @@ The  _OutputType_ parameter value can be a combination of one or more of these *
 |**ppPrintOutputNineSlideHandouts**|Prints nine slides per handout page.|
 |**ppPrintOutputNotesPages**|Prints notes pages.|
 |**ppPrintOutputOneSlideHandouts**|Prints one slide per handout page.|
-|**ppPrintOutputOutline**|Prints outine view.|
+|**ppPrintOutputOutline**|Prints outline view.|
 |**ppPrintOutputSixSlideHandouts**|Prints six slides per handout page.|
 |**ppPrintOutputSlides**|Prints all slides in the presentation. The default.|
 |**ppPrintOutputThreeSlideHandouts**|Prints three slides per handout page.|

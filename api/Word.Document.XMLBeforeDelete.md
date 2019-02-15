@@ -61,7 +61,7 @@ End Sub
 
 ## Example
 
-The following example runs when an XML element is deleted. If the element contains text, a message is displayed asking whether the user wants to delete the text the element contains. If the user reponds by clicking No, the contents of the element are copied to the Clipboard.
+The following example runs when an XML element is deleted. If the element contains text, a message is displayed asking whether the user wants to delete the text the element contains. If the user responds by clicking No, the contents of the element are copied to the Clipboard.
 
 
 ```vb

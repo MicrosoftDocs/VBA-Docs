@@ -64,7 +64,7 @@ Public Sub IsHierarchical_Example()
  Dim intCounterOuter As Integer 
  Dim intCounterInner As Integer 
  
- 'Get the UIOject object for the copy of the built-in menus. 
+ 'Get the UI Object object for the copy of the built-in menus. 
  Set vsoUIObject = Visio.Application.BuiltInMenus 
  
  'Set vsoMenuSet to the drawing menu set. 

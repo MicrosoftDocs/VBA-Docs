@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.Vertices Property (PowerPoint)
 
-Returns the coordinates of the specified freeform drawing's vertices (and control points for B?zier curves) as a series of coordinate pairs. Read-only.
+Returns the coordinates of the specified freeform drawing's vertices (and control points for Bézier curves) as a series of coordinate pairs. Read-only.
 
 
 ## Syntax

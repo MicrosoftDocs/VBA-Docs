@@ -19,7 +19,7 @@ Represents an entire frames page or a single frame on a frames page.
 
 ## Remarks
 
-Use the  **Frameset** propertyof a **Document** or **Pane** object to return a **Frameset** object.
+Use the  **Frameset** property of a **Document** or **Pane** object to return a **Frameset** object.
 
 
 -  For properties or methods that affect all frames on a frames page, use the **Frameset** object from the **Document** object ( `ActiveWindow.Document.Frameset`).

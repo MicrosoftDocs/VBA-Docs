@@ -63,7 +63,7 @@ Do While True
  ' Evaluate and display result. 
  strOutput = Trim(strInput) & " mm = " _ 
  & Format(Application _ 
- .Mill imetersToPoints(Value:=Val(strInput)), _ 
+ .MillimetersToPoints(Value:=Val(strInput)), _ 
  "0.00") & " points" 
  
  MsgBox strOutput 

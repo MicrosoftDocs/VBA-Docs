@@ -23,7 +23,7 @@ Project property for the three-character ISO standard currency code of the proje
 
 ## Example
 
-The follwoing example sets  **CurrencyCode** to the three-character ISO currency code "JPY".
+The following example sets  **CurrencyCode** to the three-character ISO currency code "JPY".
 
 
 ```vb

@@ -41,7 +41,7 @@ Sub AddShapeSetAnimFill()
     Dim shpRectangle As Shape
     Dim animBlinds As AnimationBehavior
 
-    'Adds rectangle and sets animiation effect
+    'Adds rectangle and sets animation effect
     Set shpRectangle = ActivePresentation.Slides(1).Shapes _
         .AddShape(Type:=msoShapeRectangle, Left:=100, _
         Top:=100, Width:=50, Height:=50)

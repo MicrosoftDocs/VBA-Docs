@@ -9,7 +9,7 @@ localization_priority: Normal
 
 # XlTrendlineType enumeration (Word)
 
-Specifies how the trendline that smoothes out fluctuations in the data is calculated.
+Specifies how the trendline that smooths out fluctuations in the data is calculated.
 
 
 

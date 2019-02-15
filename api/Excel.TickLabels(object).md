@@ -23,7 +23,7 @@ This object isn't a collection. There's no object that represents a single tick-
 
 Tick-mark label text for the category axis comes from the name of the associated category in the chart. The default tick-mark label text for the category axis is the number that indicates the position of the category relative to the left end of this axis. To change the number of unlabeled tick marks between tick-mark labels, you must change the  **[TickLabelSpacing](Excel.Axis.TickLabelSpacing.md)** property for the category axis.
 
-Tick-mark label text for the value axis is calculated based on the  **[MajorUnit](Excel.Axis.MajorUnit.md)**, **[MinimumScale](Excel.Axis.MinimumScale.md)**, and **[MaximumScale](Excel.Axis.MaximumScale.md)** properties of the value axis. To change the tick-mark label text for the value axis, you must change thte values of these properties.
+Tick-mark label text for the value axis is calculated based on the  **[MajorUnit](Excel.Axis.MajorUnit.md)**, **[MinimumScale](Excel.Axis.MinimumScale.md)**, and **[MaximumScale](Excel.Axis.MaximumScale.md)** properties of the value axis. To change the tick-mark label text for the value axis, you must change the values of these properties.
 
 
 ## Example

@@ -31,7 +31,7 @@ Sub AddPageNumberField()
 End Sub
 ```
 
-Use the  **[FindBypageID](./Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](./Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
+Use the  **[FindByPageID](./Publisher.Pages.FindByPageID.md)** property to locate a **Page** object using the application assigned page ID. Use the **[Add](./Publisher.Pages.Add.md)** method to create a new page and add it to the publication. The following example adds a new page to the active publication and then looks for that page using the page ID.
 
 
 

@@ -45,7 +45,7 @@ Sub BookName()
  
  
  
- 'Create a reference to namepsace 
+ 'Create a reference to namespace 
  
  Set nmsName = Application.GetNamespace("MAPI") 
  

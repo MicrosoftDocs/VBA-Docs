@@ -31,7 +31,7 @@ Sub CopySelection()
 End Sub
 ```
 
-The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active pubication.
+The following example determines what type of item is selected and, if it is an autoshape, fills the first shape in the selection with color. This example assumes there is at least one item selected in the active publication.
  
 
  

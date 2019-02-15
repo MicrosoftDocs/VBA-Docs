@@ -56,7 +56,7 @@ Unlike some other Visio events,  **KeyDown** does not have the prefix "Query," b
 
 
  > [!NOTE] 
- > Pressing an accelererator key combination, for example, CTRL + C, does not fire the  **KeyDown** event.
+ > Pressing an accelerator key combination, for example, CTRL + C, does not fire the  **KeyDown** event.
 
 If you are using VBA, the syntax in this topic describes a common, efficient way to handle events.
 

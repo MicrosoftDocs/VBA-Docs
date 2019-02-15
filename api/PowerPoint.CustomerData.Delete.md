@@ -39,7 +39,7 @@ Individual  **CustomXMLPart** objects in the **CustomerData** collection are rep
 
 ## Example
 
-The following example shows how to use the Delete method to delete a custom XML part from the  **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentaion. Then it gets the ID of the new part and passes it to the **Delete** method.
+The following example shows how to use the Delete method to delete a custom XML part from the  **CustomerData** collection. It adds a new custom XML part to the **CustomerData** collection of the first shape on the first slide of the active presentation. Then it gets the ID of the new part and passes it to the **Delete** method.
 
 
 ```vb

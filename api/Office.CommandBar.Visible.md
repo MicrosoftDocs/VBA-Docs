@@ -54,7 +54,7 @@ For Each cmdbar In CommandBars
     End If 
 Next 
 If Not foundFlag Then 
-    MsgBox "'Forms'command bar is not in the collection." 
+    MsgBox "'Forms' command bar is not in the collection." 
 End If
 ```
 

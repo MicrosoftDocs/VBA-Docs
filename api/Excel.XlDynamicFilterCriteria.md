@@ -21,7 +21,7 @@ Specifies the filter criterion.
 | **xlFilterAllDatesInPeriodApril**|24|Filter all dates in April.|
 | **xlFilterAllDatesInPeriodAugust**|28|Filter all dates in August.|
 | **xlFilterAllDatesInPeriodDecember**|32|Filter all dates in December.|
-| **xlFilterAllDatesInPeriodFebruray**|22|Filter all dates in February.|
+| **xlFilterAllDatesInPeriodFebruary**|22|Filter all dates in February.|
 | **xlFilterAllDatesInPeriodJanuary**|21|Filter all dates in January.|
 | **xlFilterAllDatesInPeriodJuly**|27|Filter all dates in July.|
 | **xlFilterAllDatesInPeriodJune**|26|Filter all dates in June.|

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Chart.ShowAxisFieldButtons property (Word)
 
-Returns or sets whether to display axis field buttons on a PivotChart. Read/write. Depcrecated.
+Returns or sets whether to display axis field buttons on a PivotChart. Read/write. Deprecated.
 
 
 ## Syntax

@@ -24,7 +24,7 @@ Constants that represent colors.
 | **olColorAqua**|15|Aqua|
 | **olColorBlack**|1|Black|
 | **olColorBlue**|13|Blue|
-| **olColorFuchsia**|14|Fuschsia|
+| **olColorFuchsia**|14|Fuchsia|
 | **olColorGray**|8|Gray|
 | **olColorGreen**|3|Green|
 | **olColorLime**|11|Lime|

@@ -39,7 +39,7 @@ Possible values for the  **PriFormat** property are as follows:
     
 - SVG (Scalable Vector Graphics)
     
-- JPG (JPEG File Interchage Format)
+- JPG (JPEG File Interchange Format)
     
 - GIF (Graphics Interchange Format)
     

@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PjStatusType Enumeration (Project)
 
-Contains constants that specify the staus of a task.
+Contains constants that specify the status of a task.
 
 
 

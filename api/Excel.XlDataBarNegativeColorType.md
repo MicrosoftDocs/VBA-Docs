@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlDataBarNegativeColorType enumeration (Excel)
 
-Specifies whether to use the same border and fill color as postive data bars.
+Specifies whether to use the same border and fill color as positive data bars.
 
 
 

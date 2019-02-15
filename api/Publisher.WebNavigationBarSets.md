@@ -85,7 +85,7 @@ MsgBox ActiveDocument.WebNavigationBarSets.Count
 
 ```
 
-Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Left is the distance from the left of the page to the left edge of the navigation bar, Top is the distance form the top of the page to the top edge of the navigation bar, and Width is the width of the navigaion bar, to add the specified navigation bar to every page. The following example adds the navigation bar named "WebNavBar1" to every page in the current publication.
+Use  **WebNavigationBarSets** **.AddToEveryPage** (Left, Top, [Width]), where Left is the distance from the left of the page to the left edge of the navigation bar, Top is the distance form the top of the page to the top edge of the navigation bar, and Width is the width of the navigation bar, to add the specified navigation bar to every page. The following example adds the navigation bar named "WebNavBar1" to every page in the current publication.
  
 
  

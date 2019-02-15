@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Timing.Decelerate Property (PowerPoint)
 
-Sets or returns the percentageof the duration over which a timing deceleration should take place. Read/write.
+Sets or returns the percentage of the duration over which a timing deceleration should take place. Read/write.
 
 
 ## Syntax

@@ -109,7 +109,7 @@ Contains constants that specify the type of field for task timescaled data in th
 |**pjTaskTimescaledCPI**|537|CPI (task) field.|
 |**pjTaskTimescaledCumulativeActualWork**|1341|Cumulative actual work (task) field.|
 |**pjTaskTimescaledCumulativeCost**|177|Cumulative Cost (task) field.|
-|**pjTaskTimescaledCumulativePercentComplete**|240|Cmulative Percent Complete (task) field.|
+|**pjTaskTimescaledCumulativePercentComplete**|240|Cumulative Percent Complete (task) field.|
 |**pjTaskTimescaledCumulativeWork**|176|Cumulative Work (task) field.|
 |**pjTaskTimescaledCV**|83|CV (task) field.|
 |**pjTaskTimescaledCVP**|539|CVP (task) field.|

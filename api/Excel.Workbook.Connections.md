@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 ## Example
 
-The following example rereshes the OBDC and OLEDB connections of the active workbook.
+The following example refreshes the OBDC and OLEDB connections of the active workbook.
 
 ```vb
 ActiveWorkbook.Connections(1).ODBCConnection.Refresh 

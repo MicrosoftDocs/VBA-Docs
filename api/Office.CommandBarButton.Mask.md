@@ -36,7 +36,7 @@ Always set the mask after you have set the picture for a **CommandBarButton** ob
 
 ## Example
 
-The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and sustitute the paths in the sample with the paths to your images.
+The following example sets the image and mask of the first **CommandBarButton** that the code returns. To make this work, create a mask image and a button image and substitute the paths in the sample with the paths to your images.
 
 
 ```vb

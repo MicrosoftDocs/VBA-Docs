@@ -35,11 +35,11 @@ Sub CheckInterruptKey()
  ' Determine the calculation interrupt key and notify the user. 
  Select Case Application.CalculationInterruptKey 
  Case xlAnyKey 
- MsgBox "The calcuation interrupt key is set to any key." 
+ MsgBox "The calculation interrupt key is set to any key." 
  Case xlEscKey 
- MsgBox "The calcuation interrupt key is set to 'Escape'" 
+ MsgBox "The calculation interrupt key is set to 'Escape'" 
  Case xlNoKey 
- MsgBox "The calcuation interrupt key is set to no key." 
+ MsgBox "The calculation interrupt key is set to no key." 
  End Select 
  
 End Sub

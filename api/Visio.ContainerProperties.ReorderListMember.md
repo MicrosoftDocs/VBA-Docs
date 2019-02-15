@@ -50,7 +50,7 @@ To insert after the final item in the list, set  _Position_ greater than or equa
 
 If you pass an out-of-range value for  _Position_, Visio uses the nearest valid position.
 
-If you pass a non-contiguous selection of list members for  _ObjectToReorder_, Visio makes the selection contiguous in the resulting reordered list, while maintaining relative position. For example, in a list ordered A,B,C,D, if you move B and D to position 1, the resutling list order is B,D,A,C.
+If you pass a non-contiguous selection of list members for  _ObjectToReorder_, Visio makes the selection contiguous in the resulting reordered list, while maintaining relative position. For example, in a list ordered A,B,C,D, if you move B and D to position 1, the resulting list order is B,D,A,C.
 
 
 ## Example

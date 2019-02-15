@@ -35,10 +35,10 @@ Setting the  **ExtraInfo** property of a shape's **Hyperlink** object is optiona
 
 You might, for example, set the  **Hyperlink** object's **ExtraInfo** property to the coordinates of an image map, the contents of a form, or a file name.
 
-If the  **ExtraInfo** property you provide contains reserved characters other than spaces, you must input the escape character "%" and the character's hexidecimal equivalent. For example:
+If the  **ExtraInfo** property you provide contains reserved characters other than spaces, you must input the escape character "%" and the character's hexadecimal equivalent. For example:
 
 For "NAME=John Smith", set the  **ExtraInfo** property to "NAME=John Smith," because the extra information contains spaces, but no reserved characters.
 
-For "PATH= _driveletter_ :\ _foldename_ ", set the **ExtraInfo** property to "PATH= _driveletter_ %3A%5C _foldername_ ", because of the reserved characters.
+For "PATH= _driveletter_ :\ _foldername_ ", set the **ExtraInfo** property to "PATH= _driveletter_ %3A%5C _foldername_ ", because of the reserved characters.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

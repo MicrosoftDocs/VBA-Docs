@@ -60,7 +60,7 @@ This method cannot be used and will cause an error with the following properties
 | **ConversationIndex**| **NetMeetingType**|
 | **DLName**| **RecurrenceState**|
 | **Email1EntryID**| **ReceivedByEntryID**|
-| **Email2EntryID**| **RecevedOnBehalfOfEntryID**|
+| **Email2EntryID**| **ReceivedOnBehalfOfEntryID**|
 | **Email3EntryID**| **ReplyRecipients**|
 | **EntryID**| **ResponseState**|
 | **HTMLBody**| **Saved**|

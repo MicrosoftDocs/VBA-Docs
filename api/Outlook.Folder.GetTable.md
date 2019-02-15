@@ -30,7 +30,7 @@ _expression_ A variable that represents a '[Folder](Outlook.Folder.md)' object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filter_|Optional| **String**|A filter in Microsft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent  **Folder**.|
+| _Filter_|Optional| **String**|A filter in Microsoft Jet or DAV Searching and Locating (DASL) syntax that specifies the criteria for items in the parent  **Folder**.|
 | _TableContents_|Optional| **[OlTableContents](Outlook.OlTableContents.md)**|Specifies the type of items in the folder that  **GetTable** returns. The default is **olUserItems**.|
 
 ## Return value

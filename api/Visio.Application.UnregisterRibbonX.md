@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.UnregisterRibbonX Method (Visio)
 
-Unregisters a previouly registered  **IRibbonExtensiblity** interface that a Microsoft Visio add-in implements.
+Unregisters a previously registered  **IRibbonExtensibility** interface that a Microsoft Visio add-in implements.
 
 
 ## Syntax

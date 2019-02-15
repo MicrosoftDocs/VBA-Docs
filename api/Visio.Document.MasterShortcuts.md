@@ -35,7 +35,7 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 
-Before running this example, replace the reference to  _StencilWithShortucts.vss_ with a reference to a valid .vss file that contains master shortcuts.
+Before running this example, replace the reference to  _StencilWithShortcuts.vss_ with a reference to a valid .vss file that contains master shortcuts.
 
 
 ### To create a stencil that contains master shortcuts:

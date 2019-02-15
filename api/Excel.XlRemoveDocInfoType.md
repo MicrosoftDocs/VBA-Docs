@@ -31,7 +31,7 @@ Specifies the type information to be removed from the document information.
 | **xlRDIInkAnnotations**|11|Removes ink annotations from the document information.|
 | **xlRDIInlineWebExtensions**|21|Removes inline Web Extensions from the document information.|
 | **xlRDIPrinterPath**|20|Removes printer paths from the document information.|
-| **xlRDIPublishInfo**|13|Removes the pubish information data from the document information.|
+| **xlRDIPublishInfo**|13|Removes the publish information data from the document information.|
 | **xlRDIRemovePersonalInformation**|4|Removes personal information from the document information.|
 | **xlRDIRoutingSlip**|6|Removes routing slip information from the document information.|
 | **xlRDIScenarioComments**|12|Removes scenario comments from the document information.|

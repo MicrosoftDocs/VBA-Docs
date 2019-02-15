@@ -33,7 +33,7 @@ The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is any
 
 If _number_ is not a whole number, it is rounded to the nearest whole number before being evaluated.
 
-For the opposite of **Hex**, precede a hexidecimal value with **&H**. For example, `Hex(255)` returns the string FF and `&HFF` returns the number 255.
+For the opposite of **Hex**, precede a hexadecimal value with **&H**. For example, `Hex(255)` returns the string FF and `&HFF` returns the number 255.
 
 
 ## Example
