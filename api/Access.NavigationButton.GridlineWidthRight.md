@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.GridlineWidthRight
 ms.assetid: 56895703-7936-104c-574c-a1d223936e9a
-ms.date: 06/08/2017
+ms.date: 02/16/2019
 localization_priority: Normal
 ---
 
 
 # NavigationButton.GridlineWidthRight property (Access)
 
-Gets or sets the width of the right gridline for the specified text box. Read/write  **Byte**.
+Gets or sets the width of the right gridline for the specified button. Read/write **Byte**.
 
 
 ## Syntax
@@ -28,16 +28,11 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 The **GridlineWidthRight** property uses the following settings.
 
-
-
 |Setting|Description|
 |:-----|:-----|
 |0| Hairline. This is the narrowest border possible on your system.|
 |1 to 6|The width as indicated in points. The default setting is 1 point.|
 
-## See also
 
-
-[NavigationButton Object](Access.NavigationButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
