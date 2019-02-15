@@ -29,7 +29,7 @@ Sub AddPoint()
 End Sub
 ```
 
-Transitions from one animation point to another can sometimes be abrupt or choppy. Use the [Smooth](PowerPoint.AnimationPoints.Smooth.md)property to make transitions smoother. This example smoothes the transitions between animation points.
+Transitions from one animation point to another can sometimes be abrupt or choppy. Use the [Smooth](PowerPoint.AnimationPoints.Smooth.md)property to make transitions smoother. This example smooths the transitions between animation points.
 
 
 

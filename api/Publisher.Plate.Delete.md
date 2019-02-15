@@ -45,7 +45,7 @@ The ReplaceTint parameter can be one of the following  **pbReplaceTint** constan
 | **pbReplaceTintMaintainLuminosity**| Maintain the same lightness value in the ink represented by the replacement plate as in the deleted plate. For example, replace a 100% tint of yellow with an approximately 10% tint of blue.|
 | **pbReplaceTintUseDefault**|Use the default. |
 
-If the  **pbReplaceTintMaintainLuminosity** constant is specified, the percentage of replacment ink in each color is calculated based on the luminosity values of the inks represented by the deleted and replacement plates. Publisher performs the following calculation, where _L1_ is the deleted ink luminosity, and _L2_ is the replacement ink luminosity: (100- _L1_)/(100- _L2_).
+If the  **pbReplaceTintMaintainLuminosity** constant is specified, the percentage of replacement ink in each color is calculated based on the luminosity values of the inks represented by the deleted and replacement plates. Publisher performs the following calculation, where _L1_ is the deleted ink luminosity, and _L2_ is the replacement ink luminosity: (100- _L1_)/(100- _L2_).
 
 For example, red ink has a luminosity of 30, and black has a luminosity of 0. Suppose you replaced the red ink plate in a publication with a black ink plate. If  **pbReplaceTintKeepTints** is specified, Publisher performs the following calculation to determine the percentage of black ink for each red color: (100-30)/(100-0). A color that was 100% red would now be 70% black; a color that was 50% red would now be 35% black, and so on.
 

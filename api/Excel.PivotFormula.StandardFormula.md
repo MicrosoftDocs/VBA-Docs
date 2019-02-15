@@ -37,7 +37,7 @@ This example adds 10 to the Decimals field and displays it as a calculated item 
 
 
 ```vb
-Sub UseStandardFomula() 
+Sub UseStandardFormula() 
  
  Dim pvtTable As PivotTable 
  Set pvtTable = ActiveSheet.PivotTables(1) 

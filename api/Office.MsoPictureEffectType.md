@@ -32,7 +32,7 @@ Specifies constants that define the types of picture effects.
 |**msoEffectLightScreen**|13|Light screen effect |
 |**msoEffectLineDrawing**|14|Line drawing effect |
 |**msoEffectMarker**|15|Marker effect |
-|**msoEffectMosiacBubbles**|16|Mosaic bubbles |
+|**msoEffectMosaicBubbles**|16|Mosaic bubbles |
 |**msoEffectNone**|17|No effect |
 |**msoEffectPaintBrush**|18|Paintbrush effect |
 |**msoEffectPaintStrokes**|19|Paint strokes effect |

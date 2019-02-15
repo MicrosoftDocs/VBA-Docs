@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Font2.BaselineOffset property (Office)
 
-Gets or sets a value specifying the horizontaol offset of the selected font. Read/write.
+Gets or sets a value specifying the horizontal offset of the selected font. Read/write.
 
 
 ## Syntax

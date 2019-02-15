@@ -26,7 +26,7 @@ Returns the description of the specified style. Read-only  **String**.
 
 ## Remarks
 
-A typical example of a descirption for a style might be "Normal + Font: Arial, 12 pt, Bold, Italic, Space Before 12 pt After 3 pt, KeepWithNext, Level 2."
+A typical example of a description for a style might be "Normal + Font: Arial, 12 pt, Bold, Italic, Space Before 12 pt After 3 pt, KeepWithNext, Level 2."
 
 
 ## Example

@@ -58,7 +58,7 @@ The method will return an error with the following properties in the  _Filter_ :
 | **DLName**| **RecurrenceState**|
 | **Email1EntryID**| **ReplyRecipients**|
 | **Email2EntryID**| **ReceivedByEntryID**|
-| **Email3EntryID**| **RecevedOnBehalfOfEntryID**|
+| **Email3EntryID**| **ReceivedOnBehalfOfEntryID**|
 | **EntryID**| **ResponseState**|
 | **HTMLBody**| **Saved**|
 | **IsOnlineMeeting**| **Sent**|

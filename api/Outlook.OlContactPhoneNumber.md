@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # OlContactPhoneNumber Enumeration (Outlook)
 
-Specfies the telephone number type.
+Specifies the telephone number type.
 
 
 

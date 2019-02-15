@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RelatedShapePairEvent.ToShapeID Property (Visio)
 
-Returrns the identifier of the second (member) shape in the related shape pair. Read-only.
+Returns the identifier of the second (member) shape in the related shape pair. Read-only.
 
 
 ## Syntax

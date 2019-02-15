@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Font](Excel.Font-graph-property.md) o
 |**xlBackground can be one of the following constants**|**Description of text background**|
 |:-----|:-----|
 | **xlBackgroundAutomatic**|Font background will automatically change the background area around the text to a color that best displays the chart text on the color applied to elements under the text|
-| **xlBackgroundOpaque**|Font background will set the font bacground to black if the text color and fill color underneath the text are very close or the same color, such that the text would not appear|
+| **xlBackgroundOpaque**|Font background will set the font background to black if the text color and fill color underneath the text are very close or the same color, such that the text would not appear|
 | **xlBackgroundTransparent**|Font background is set to transparent so that text background does not change if the text color is close to the color underneath the text|
 
 ## Example

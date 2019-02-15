@@ -30,7 +30,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that represents the new conneciton for the PivotTable.|
+| _conn_|Required| **WorkbookConnection**|A  **[WorkbookConnection](Excel.WorkbookConnection.md)** object that represents the new connection for the PivotTable.|
 
 ## Remarks
 

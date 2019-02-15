@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # IconCriterion.Operator property (Excel)
 
-Returns or sets one of the constants of the  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** enumeration, which specifes if the threshold is "greater than" or "greater than or equal to" the threshold value.
+Returns or sets one of the constants of the  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** enumeration, which specifies if the threshold is "greater than" or "greater than or equal to" the threshold value.
 
 
 ## Syntax

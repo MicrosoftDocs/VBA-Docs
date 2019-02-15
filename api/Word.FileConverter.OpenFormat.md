@@ -26,7 +26,7 @@ Returns the file format of the specified file converter. Read-only  **Long**.
 
 ## Remarks
 
-This property can be any vailid  **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
+This property can be any valid  **WdOpenFormat** constant, or it can be a unique number that represents an external file converter.
 
 
 ## Example

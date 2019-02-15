@@ -18,7 +18,7 @@ Contains constants that specify the type of entity for a field.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**pjProject**|2|Project entity.|
-|**pjResource**|1|Resouce entity.|
+|**pjResource**|1|Resource entity.|
 |**pjTask**|0|Task entity.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

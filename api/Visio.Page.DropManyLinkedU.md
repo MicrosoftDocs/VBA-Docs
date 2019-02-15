@@ -51,7 +51,7 @@ When you want to create shapes already linked to data on a drawing page that eit
 
 For the ObjectsToInstance() parameter, pass an array of objects to instance into shapes linked to data. While these objects are typically Visio objects such as  **Master** , **Shape** , or **Selection** objects, they can be any OLE objects that provide an **IDataObject** interface.
 
-For the XYs() parameter, pass an array of type  **Double**. Each consecutive pair of array-index-position values should correspond to the _x-_ and _y-_ page coordinates where you want the instance of the object in the corresponding positon in the ObjectsToInstance() array to be positioned. For example, if you want the instance of the object in the first array index position in ObjectsToInstance() to be positioned at page coordinate (2,4), place the value _2_ in the first array index position in XYs(), and place the value _4_ in the second array index positon in that array, and so on for the rest of the objects and coordinates.
+For the XYs() parameter, pass an array of type  **Double**. Each consecutive pair of array-index-position values should correspond to the _x-_ and _y-_ page coordinates where you want the instance of the object in the corresponding position in the ObjectsToInstance() array to be positioned. For example, if you want the instance of the object in the first array index position in ObjectsToInstance() to be positioned at page coordinate (2,4), place the value _2_ in the first array index position in XYs(), and place the value _4_ in the second array index position in that array, and so on for the rest of the objects and coordinates.
 
 When an object you pass in the ObjectsToInstance() array is a shape, the center of the shape's width-height box is positioned at the coordinates you specify in XYs().
 
@@ -84,7 +84,7 @@ Sub DropManyLinkedU_Example()
     Dim alngDataRowIDs(0 To 2) As Long 
     Dim alngShapeIDs() As Long 
     Dim vsoDataRecordset As Visio.DataRecordset 
-    Dim intRecordesetCount As Integer 
+    Dim intRecordsetCount As Integer 
     Dim lngReturned As Long 
     Dim intCounter As Integer 
      

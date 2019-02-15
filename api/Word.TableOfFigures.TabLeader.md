@@ -26,7 +26,7 @@ Returns or sets the character between entries and their page numbers in an table
 
 ## Example
 
-This example formats the tables of firgures in Sales.doc to use a dotted tab leader.
+This example formats the tables of figures in Sales.doc to use a dotted tab leader.
 
 
 ```vb

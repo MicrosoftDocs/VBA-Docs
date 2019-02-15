@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shapes.AddCurve Method (PowerPoint)
 
-Creates a B?zier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new curve.
+Creates a Bézier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that represents the new curve.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Creates a B?zier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first B?zier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
+| _SafeArrayOfPoints_|Required|**Variant**|An array of coordinate pairs that specifies the vertices and control points of the curve. The first point you specify is the starting vertex, and the next two points are control points for the first Bézier segment. Then, for each additional segment of the curve, you specify a vertex and two control points. The last point you specify is the ending vertex for the curve. Note that you must always specify 3n + 1 points, where n is the number of segments in the curve.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ Shape
 
 ## Example
 
-The following example adds a two-segment B?zier curve to myDocument.
+The following example adds a two-segment Bézier curve to myDocument.
 
 
 ```vb

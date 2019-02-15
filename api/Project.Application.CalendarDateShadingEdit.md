@@ -53,7 +53,7 @@ To edit calendar date boxes where the colors can be RGB values, use the  **[Cale
 
 ## Example
 
-The following example changes the background color of working days in the base calander to a stippled purple and the color of nonworking days to gray.
+The following example changes the background color of working days in the base calendar to a stippled purple and the color of nonworking days to gray.
 
 
 ```vb

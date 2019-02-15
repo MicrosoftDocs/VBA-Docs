@@ -40,7 +40,7 @@ This example sets the extrusion for the first shape on the first page of the act
 
 
 ```vb
-Sub SetExtrusionLightingBrighness() 
+Sub SetExtrusionLightingBrightness() 
  With ActiveDocument.Pages(1).Shapes(1).ThreeD 
  .Visible = True 
  .PresetLightingSoftness = msoLightingBright 

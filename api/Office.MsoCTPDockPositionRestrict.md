@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # MsoCTPDockPositionRestrict enumeration (Office)
 
-Specifies retrictions on the docking behavior of the custom task pane.
+Specifies restrictions on the docking behavior of the custom task pane.
 
 <br/>
 

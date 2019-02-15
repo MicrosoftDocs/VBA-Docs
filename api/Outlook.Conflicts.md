@@ -21,7 +21,7 @@ Contains a collection of  **[Conflict](Outlook.Conflict.md)** objects that repre
 
 Use the  **[Conflicts](Outlook.MailItem.Conflicts.md)** property of any Outlook item, such as **[MailItem](Outlook.MailItem.md)**, to return the **Conflicts** object.
 
-Use the  **[Count](Outlook.Conflicts.Count.md)** property of the **Conflicts** object to determine if the item is invloved in a conflict. A non-zero value indicates conflict.
+Use the  **[Count](Outlook.Conflicts.Count.md)** property of the **Conflicts** object to determine if the item is involved in a conflict. A non-zero value indicates conflict.
 
 Use the  **[Item](Outlook.Conflicts.Item.md)** method to retrieve a particular conflict item from the **Conflicts** collection object.
 

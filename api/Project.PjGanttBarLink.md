@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PjGanttBarLink Enumeration (Project)
 
-Contains constants that specify the type of Gnatt bar links.
+Contains constants that specify the type of Gantt bar links.
 
 
 

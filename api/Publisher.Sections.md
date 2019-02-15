@@ -54,7 +54,7 @@ Use  **Sections**.Count to return the number of sections in the publication. The
 MsgBox Documents(1).Sections.Count
 ```
 
-Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to reutrn a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
+Use  **Sections**.Add(StartPageIndex) where StartPageIndex is the index number of the page, to return a new section added to a document. A "Permission denied." error will be returned if the page already contains a section head. The following example adds a new section to the second page of the active document.
  
 
  

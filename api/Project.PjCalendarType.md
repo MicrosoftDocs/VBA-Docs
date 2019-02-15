@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PjCalendarType Enumeration (Project)
 
-Contains constants that specify the type of calandar.
+Contains constants that specify the type of calendar.
 
 
 

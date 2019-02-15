@@ -37,7 +37,7 @@ Possible values for the  **SecFormat** property are as follows:
 
 - PNG (Portable Network Graphics), the default
     
-- JPG (JPEG File Interchage Format)
+- JPG (JPEG File Interchange Format)
     
 - GIF (Graphics Interchange Format)
     

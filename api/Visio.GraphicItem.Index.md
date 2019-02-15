@@ -36,7 +36,7 @@ Long
 
 The index of a graphic item is originally determined by the order in which the item was added to the collection. The  **GraphicItems** collection is 1-based.
 
-The index order of graphic items affects the stacking order for multiple grpahic item callouts assigned to the same location. In addition, it determiones which graphic item takes precedence in control over a cell in the Microsoft Visio ShapeSheet spreadsheet when conflicting conditions set by multiple graphic items are all true .
+The index order of graphic items affects the stacking order for multiple graphic item callouts assigned to the same location. In addition, it determines which graphic item takes precedence in control over a cell in the Microsoft Visio ShapeSheet spreadsheet when conflicting conditions set by multiple graphic items are all true .
 
 
  **Note**  Before you can set any property of a graphic item, you must use the  **[Master.Open](Visio.Master.Open.md)** method to open a copy of the data graphic master that contains the graphic item for editing. When you are finished setting properties, use the **Master.Close** method to commit changes.

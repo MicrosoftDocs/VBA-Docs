@@ -26,7 +26,7 @@ Returns a  **Boolean** that represents whether a document has an attached Micros
 
 ## Remarks
 
-This property is most useful in programatically determining whether a document needs to be saved into a macro-enabled file format. If saved in another format, macros and code projects contained within the document may be lost.
+This property is most useful in programmatically determining whether a document needs to be saved into a macro-enabled file format. If saved in another format, macros and code projects contained within the document may be lost.
 
 
 ## See also

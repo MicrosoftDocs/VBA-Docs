@@ -23,7 +23,7 @@ Specifies whether and how to display chart elements.
 |**msoElementChartTitleCenteredOverlay**|1|Display title as centered overlay.|
 |**msoElementChartTitleNone**|0|Do not display chart title.|
 |**msoElementChartWallNone**|1100|Do not display chart wall.|
-|**msoElementChartWallShow**|1101|Dispaly chart wall.|
+|**msoElementChartWallShow**|1101|Display chart wall.|
 |**msoElementDataLabelBestFit**|210|Use best fit for data label.|
 |**msoElementDataLabelBottom**|209|Display data label at bottom.|
 |**msoElementDataLabelCallout**|211|Display data label as a callout.|
@@ -98,8 +98,8 @@ Specifies whether and how to display chart elements.
 |**msoElementSecondaryCategoryAxisReverse**|361|Reverse secondary category axis.|
 |**msoElementSecondaryCategoryAxisShow**|359|Display secondary category axis.|
 |**msoElementSecondaryCategoryAxisThousands**|376|Use thousands for secondary category axis units.|
-|**msoElementSecondaryCategoryAxisTitleAdjacentToAxis**|313|Dispaly secondary category axis title adjacent to axis.|
-|**msoElementSecondaryCategoryAxisTitleBelowAxis**|314|Dispaly secondary category axis title below axis.|
+|**msoElementSecondaryCategoryAxisTitleAdjacentToAxis**|313|Display secondary category axis title adjacent to axis.|
+|**msoElementSecondaryCategoryAxisTitleBelowAxis**|314|Display secondary category axis title below axis.|
 |**msoElementSecondaryCategoryAxisTitleHorizontal**|317|Display secondary category axis title horizontally.|
 |**msoElementSecondaryCategoryAxisTitleNone**|312|Do not display secondary category axis title.|
 |**msoElementSecondaryCategoryAxisTitleRotated**|315|Rotate secondary category axis title.|

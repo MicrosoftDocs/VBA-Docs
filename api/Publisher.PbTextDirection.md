@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbTextDirection Enumeration (Publisher)
 
-Indicats the direction in which text flows in the specified paragraph.
+Indicates the direction in which text flows in the specified paragraph.
 
 
 

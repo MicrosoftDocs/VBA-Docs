@@ -113,7 +113,7 @@ Sub Enabled_Example()
  
  End With 
  
- 'Tell Visio to use the new UIOjbect object while 
+ 'Tell Visio to use the new UIObject object while 
  'this document is active. 
  ThisDocument.SetCustomToolbars vsoUIObject 
  

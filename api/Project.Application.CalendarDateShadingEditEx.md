@@ -51,7 +51,7 @@ Besides  _Item_, **CalendarDateShadingEditEx** requires either the _Pattern_ or 
 
 ## Example
 
-The following example changes the background color of working days in the base calander to a stippled purple and the color of nonworking days to light gray.
+The following example changes the background color of working days in the base calendar to a stippled purple and the color of nonworking days to light gray.
 
 
 ```vb

@@ -89,7 +89,7 @@ Sub GetSelectedItems()
  
  ElseIf myOlSel.Item(x).Class = OlObjectClass.olAppointment Then 
  
- ' For appointment item, use the Organizser property. 
+ ' For appointment item, use the Organizer property. 
  
  Set oAppt = myOlSel.Item(x) 
  

@@ -44,7 +44,7 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorFaceStraightYellow**|61|The indicator is a yellow-colored straight face.|
 |**pjIndicatorFlagAqua**|18|The indicator is an aqua flag.|
 |**pjIndicatorFlagBlue**|19|The indicator is a blue flag.|
-|**pjIndicatorFlagFuschia**|20|The indicator is a fuschia flag.|
+|**pjIndicatorFlagFuchsia**|20|The indicator is a fuchsia flag.|
 |**pjIndicatorFlagLime**|14|The indicator is a lime flag.|
 |**pjIndicatorFlagRed**|16|The indicator is a red flag.|
 |**pjIndicatorFlagSilver**|21|The indicator is a silver flag.|
@@ -68,7 +68,7 @@ Contains constants that specify a graphical indicator.
 |**pjIndicatorSphereAqua**|6|The indicator is an aqua sphere.|
 |**pjIndicatorSphereBlack**|4|The indicator is a black sphere.|
 |**pjIndicatorSphereBlue**|8|The indicator is a blue sphere.|
-|**pjIndicatorSphereFuschia**|9|The indicator is a fuschia sphere.|
+|**pjIndicatorSphereFuchsia**|9|The indicator is a fuchsia sphere.|
 |**pjIndicatorSphereGray**|12|The indicator is a gray sphere.|
 |**pjIndicatorSphereGreen**|7|The indicator is a green sphere.|
 |**pjIndicatorSphereLime**|1|The indicator is a lime sphere.|

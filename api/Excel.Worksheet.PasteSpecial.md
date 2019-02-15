@@ -73,7 +73,7 @@ Worksheets("Sheet1").Range("F5").PasteSpecial _
 |0|"Picture (PNG)"|
 |1|"Picture (JPEG)"|
 |2|"Picture (GIF)"|
-|3|"Picture (Enghanced Metafile)"|
+|3|"Picture (Enhanced Metafile)"|
 |4|"Bitmap"|
 |5|"Microsoft Office Drawing Object"|
 

@@ -39,7 +39,7 @@ The index number represents the position of the file converter in the  **FileExp
 
 
 ```vb
-MsgBox FileExportConvters(1).Description
+MsgBox FileExportConverters(1).Description
 ```
 
 

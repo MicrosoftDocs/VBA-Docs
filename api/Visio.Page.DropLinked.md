@@ -74,7 +74,7 @@ Public Sub DropLinked_Example()
     Dim dblY As Double  
     Dim lngDataRowID As Long 
     Dim vsoDataRecordset As Visio.DataRecordset 
-    Dim intRecordesetCount As Integer 
+    Dim intRecordsetCount As Integer 
  
     intRecordsetCount = Visio.ActiveDocument.DataRecordsets.Count 
     Set vsoDataRecordset = Visio.ActiveDocument.DataRecordsets(intRecordsetCount) 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.MailEnvelope property (Excel)
 
-Rrepresents an email header for a document.
+Represents an email header for a document.
 
 
 ## Syntax

@@ -27,7 +27,7 @@ Gets the color of the markup overlay associated with the specified reviewer in t
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reveiwers.|
+|ReviewerIndex|Required| **Long**|The index of the reviewer in the collection of reviewers.|
 
 ## Return value
 

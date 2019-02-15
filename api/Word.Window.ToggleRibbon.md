@@ -26,7 +26,7 @@ Shows or hides the ribbon.
 
 ## Remarks
 
-If the ribbon is visible, the  **TobbleRibbon** method hides it; if the ribbon is hidden, the **ToggleRibbon** method shows it.
+If the ribbon is visible, the  **ToggleRibbon** method hides it; if the ribbon is hidden, the **ToggleRibbon** method shows it.
 
 
 ## See also

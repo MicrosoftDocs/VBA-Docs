@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section.PageNumberFormat Property (Publisher)
 
-Sets or returns a  **PbPageNumberFormat** constant that reperesents the formatting of the page numbering. Read/write.
+Sets or returns a  **PbPageNumberFormat** constant that represents the formatting of the page numbering. Read/write.
 
 
 ## Syntax

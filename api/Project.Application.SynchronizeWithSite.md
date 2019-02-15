@@ -40,7 +40,7 @@ Synchronizes a local project in Project Professional with a SharePoint 2013 task
 
 ## Remarks
 
-The  **SynchronizeWithSite** method is available in Project Professional only, for a local project or for a SharePoint tasks list project that is stored in Project Web App. Saving a local project to a SharePoint site is a way to share some project details with people who do not have access to Project Web App. The SharePoint tasks list also enables users who have the correct permission to add tasks, assign tasks to resources, set task priority (low, normal, or high), set task status and percent complete, and set task precedessors.
+The  **SynchronizeWithSite** method is available in Project Professional only, for a local project or for a SharePoint tasks list project that is stored in Project Web App. Saving a local project to a SharePoint site is a way to share some project details with people who do not have access to Project Web App. The SharePoint tasks list also enables users who have the correct permission to add tasks, assign tasks to resources, set task priority (low, normal, or high), set task status and percent complete, and set task predecessors.
 
 For a tasks list project that SharePoint manages, when you use Project Professional to open that project from Project Web App, you can synchronize changes with the SharePoint tasks list manually in the Backstage view, or programmatically by using the  **SynchronizeWithSite** method.
 
@@ -66,7 +66,7 @@ Sub CreateSharePointTasksList()
 End Sub
 ```
 
-After you create a tasks list, it is not necessary to specifiy the SiteURL or ListName arguments again to synchronize the project with the same tasks list.
+After you create a tasks list, it is not necessary to specify the SiteURL or ListName arguments again to synchronize the project with the same tasks list.
 
 
 

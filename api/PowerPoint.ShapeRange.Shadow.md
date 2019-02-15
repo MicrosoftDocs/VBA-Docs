@@ -30,9 +30,9 @@ This example adds a shadowed rectangle to slide one in the active presentation. 
 
 
 ```vb
-Set myShap = Application.ActivePresentation.Slides(1).Shapes
+Set myShape = Application.ActivePresentation.Slides(1).Shapes
 
-With myShap.AddShape(msoShapeRectangle, 10, 10, 150, 90).Shadow
+With myShape.AddShape(msoShapeRectangle, 10, 10, 150, 90).Shadow
 
     .Type = msoShadow17
 
