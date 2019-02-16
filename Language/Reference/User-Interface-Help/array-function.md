@@ -28,7 +28,7 @@ In the following example, the first [statement](../../Glossary/vbe-glossary.md#s
 
 ```vb
 Dim A As Variant, B As Long, i As Long
-A = Array(10, 20, 30)  ' A is a three element list by defeault indexed 0 to 2
+A = Array(10, 20, 30)  ' A is a three element list by default indexed 0 to 2
 B = A(2)               ' B is now 30
 ReDim Preserve A(4)    ' Extend A's length to five elements
 A(4) = 40              ' Set the fifth element's value

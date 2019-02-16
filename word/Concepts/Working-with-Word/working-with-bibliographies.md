@@ -176,7 +176,7 @@ End Sub
 There may be times when you want to share a source list with others in an organization. When you add sources to the master list, Word adds them to a file names "sources.xml" located at  `C:\Users\<user>\AppData\Roaming\Microsoft\Bibliography\sources.xml`. You can share this file with others by giving them the file, which users can then load manually from the **Source Manager** dialog box or programmatically through code.
 
 > [!NOTE] 
-> When a user loads a source file, this is a one-time-only occurence and does not change either the existing master list or their current list. They can manually add the items in the shared source file to the current list by using the **Source Manager** dialog box.
+> When a user loads a source file, this is a one-time-only occurrence and does not change either the existing master list or their current list. They can manually add the items in the shared source file to the current list by using the **Source Manager** dialog box.
 
 You can programmatically load a shared source. The following example shows how to load a shared source file that is located on a share on a local computer.
 

@@ -28,7 +28,7 @@ The following table lists all the rule conditions supported by the Rules and Ale
 | **Condition**| **Constant in olRuleConditionType**| **Supported when creating new rules programmatically?**| **Apply to olRuleReceive rules?**| **Apply to olRuleSend rules?**|
 |:-----|:-----|:-----|:-----|:-----|
 |Account is the account specified in  **[AccountRuleCondition.Account](../../../api/Outlook.AccountRuleCondition.Account.md)**.| **olConditionAccount**|Yes|Yes|Yes|
-|Message is assigned any category.| **olCondtionAnyCategory**|Yes|Yes|Yes|
+|Message is assigned any category.| **olConditionAnyCategory**|Yes|Yes|Yes|
 |Body contains words specified in  **[TextRuleCondition.Text](../../../api/Outlook.TextRuleCondition.Text.md)**.| **olConditionBody**|Yes|Yes|Yes|
 |Body or subject contains words specified by  **TextRuleCondition.Text.**| **olConditionBodyOrSubject**|Yes|Yes|Yes|
 |Message is assigned the category or categories specified in  **[CategoryRuleCondition.Categories](../../../api/Outlook.CategoryRuleCondition.Categories.md)**.| **olConditionCategory**|Yes|Yes|Yes|
@@ -37,8 +37,8 @@ The following table lists all the rule conditions supported by the Rules and Ale
 |Message is flagged for the specified action.| **olConditionFlaggedForAction**|No|Yes|Yes|
 |Message uses the form specified in  **[FormNameRuleCondition.FormName](../../../api/Outlook.FormNameRuleCondition.FormName.md)**.| **olConditionFormName**|Yes|Yes|Yes|
 |Sender is in the recipient list specified in  **[ToOrFromRuleCondition.Recipients](../../../api/Outlook.ToOrFromRuleCondition.Recipients.md)**.| **olConditionFrom**|Yes|Yes|No|
-|Message is generated from any RSS subscription.| **olCondtionFromAnyRssFeed**|Yes|Yes|No|
-|Message is generated from a specified RSS subscription.| **olCondtionFromRssFeed**|Yes|Yes|No|
+|Message is generated from any RSS subscription.| **olConditionFromAnyRssFeed**|Yes|Yes|No|
+|Message is generated from a specified RSS subscription.| **olConditionFromRssFeed**|Yes|Yes|No|
 |Message has an attachment.| **olConditionHasAttachment**|Yes|Yes|Yes|
 |Message is marked with the specified level of importance.| **olConditionImportance**|Yes|Yes|Yes|
 |Rule can run only on this machine.| **olConditionLocalMachineOnly**|Yes|Yes|Yes|

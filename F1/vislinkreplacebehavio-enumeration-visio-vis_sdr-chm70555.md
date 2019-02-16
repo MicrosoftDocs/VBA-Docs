@@ -1,5 +1,5 @@
 ---
-title: VisLinkReplaceBehavio Enumeration, Visio [vis_sdr.chm70555]
+title: VisLinkReplaceBehavior Enumeration, Visio [vis_sdr.chm70555]
 keywords: vis_sdr.chm70555
 f1_keywords:
 - vis_sdr.chm70555
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VisLinkReplaceBehavio Enumeration, Visio [vis_sdr.chm70555]
+# VisLinkReplaceBehavior Enumeration, Visio [vis_sdr.chm70555]
 
 Hi there! You have landed on one of our F1 Help redirector pages. Please select the topic you were looking for below.
 

@@ -113,7 +113,7 @@ namespace OutlookAddIn1
                     "The input string is not valid XML data or the specified file doesn't exist."); 
             } 
  
-            // Select all appointment nodes under the root appointements node. 
+            // Select all appointment nodes under the root appointments node. 
             XmlNodeList appointmentNodes = xmlDoc.SelectNodes("appointments/appointment"); 
             foreach (XmlNode appointmentNode in appointmentNodes) 
             { 
@@ -192,7 +192,7 @@ Namespace OutlookAddIn2
             End If 
  
  
-            ' Select all appointment nodes under the root appointements node. 
+            ' Select all appointment nodes under the root appointments node. 
             Dim appointmentNodes As XmlNodeList = xmlDoc.SelectNodes("appointments/appointment") 
  
             For Each appointmentNode As XmlNode In appointmentNodes 

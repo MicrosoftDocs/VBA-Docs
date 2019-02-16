@@ -193,14 +193,14 @@ Remember how you chose cell B2 to display the **Stop Recording** button again? T
 
 The lines of code that start with an apostrophe and colored green by the editor are comments that explain the code or remind you and other programmers the purpose of the code. VBA ignores any line, or portion of a line, that begins with a single quote. Writing clear and appropriate comments in your code is an important topic, but that discussion is out of the scope of this article. Subsequent references to this code in the article do not include those four comment lines.
 
-When the macro recorder generates the code, it uses a complex algorithm to determine the methods and the properties that you intended. If you do not recognize a given property, there are many resources available to help you. For example, in the macro that you recorded, the macro recorder generated code that refers to the **ForumulaR1C1** property. Not sure what that means?
+When the macro recorder generates the code, it uses a complex algorithm to determine the methods and the properties that you intended. If you do not recognize a given property, there are many resources available to help you. For example, in the macro that you recorded, the macro recorder generated code that refers to the **FormulaR1C1** property. Not sure what that means?
 
 > [!NOTE] 
 > Be aware that **Application** object is implied in all VBA macros. The code that you recorded works with **Application.** at the beginning of each line.
 
 ### Using Developer Help
 
-Select **ForumulaR1C1** in the recorded macro and press F1. The Help system runs a quick search, determines that the appropriate subjects are in the Excel Developer section of the Excel Help, and lists the **FormulaR1C1** property. You can choose the link to read more about the property, but before you do, be aware of the **Excel Object Model Reference** link near the bottom of the window. Choose the link to view a long list of objects that Excel uses in its object model to describe the Worksheets and their components. 
+Select **FormulaR1C1** in the recorded macro and press F1. The Help system runs a quick search, determines that the appropriate subjects are in the Excel Developer section of the Excel Help, and lists the **FormulaR1C1** property. You can choose the link to read more about the property, but before you do, be aware of the **Excel Object Model Reference** link near the bottom of the window. Choose the link to view a long list of objects that Excel uses in its object model to describe the Worksheets and their components. 
 
 Choose any one of those to see the properties and methods that apply to that particular object, along with cross references to different related options. Many Help entries also have brief code examples that can help you. For example, you can follow the links in the **Borders** object to see how to set a border in VBA.
 

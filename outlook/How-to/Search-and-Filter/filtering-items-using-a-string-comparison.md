@@ -139,7 +139,7 @@ The syntax of **ci_startswith** is as follows...
 
 ...where  _PropertySchemaName_ is a valid name of a property referenced by namespace, and _ComparisonString_ is the string used for comparison.
 
-**ci_startswith** performs a search to match prefixes. It uses tokens (characters, word, or words) in the comparison string to match against the first few characters of any word in the string value of the indexed property. If the comparison string contains multiple tokens, every token in the comarison string must have a prefix match in the indexed property. For example:
+**ci_startswith** performs a search to match prefixes. It uses tokens (characters, word, or words) in the comparison string to match against the first few characters of any word in the string value of the indexed property. If the comparison string contains multiple tokens, every token in the comparison string must have a prefix match in the indexed property. For example:
 
 - Restricting for "sea" would match "search"
     
@@ -195,7 +195,7 @@ The syntax of **ci_phrasematch** is as follows...
 
 ...where  _PropertySchemaName_ is a valid name of a property referenced by namespace and _ComparisonString_ is the string used for comparison.
 
-**ci_phrasematch** performs a search to match phrases. It uses tokens (characters, word, or words) in the comparison string to match entire words in the string value of the indexed property. Tokens are enclosed in double quotes or parentheses. Each token in the comparison string must have a phrase match, and not a substring or prefix match. If the comparison string contains multiple tokens, every token in the comarison string must have a phrase match. Any word within a multiple word property like **Subject** or **Body** can match; it doesn't have to be the first word. For example:
+**ci_phrasematch** performs a search to match phrases. It uses tokens (characters, word, or words) in the comparison string to match entire words in the string value of the indexed property. Tokens are enclosed in double quotes or parentheses. Each token in the comparison string must have a phrase match, and not a substring or prefix match. If the comparison string contains multiple tokens, every token in the comparison string must have a phrase match. Any word within a multiple word property like **Subject** or **Body** can match; it doesn't have to be the first word. For example:
 
 - Restricting for "cat" would match "cat", "cat box", "black cat"
     
@@ -260,7 +260,7 @@ For example, restricting for...
   like '%cat%'
 ```
 
-...would match "cat", "catalog", "kittycat", "decathalon".
+...would match "cat", "catalog", "kittycat", "decathlon".
     
     
 #### equivalence matching
