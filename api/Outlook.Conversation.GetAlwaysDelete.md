@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[Conversation](Outlook.Conversation.m
 
 ## Return value
 
-A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates whether all new items of the conversation are always moved to the Deleted Items folder of the specified delivey store.
+A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates whether all new items of the conversation are always moved to the Deleted Items folder of the specified delivery store.
 
 
 ## Remarks

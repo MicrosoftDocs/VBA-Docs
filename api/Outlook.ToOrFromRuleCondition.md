@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToOrFromRuleCondition Object (Outlook)
 
-Represents a rule condition that the sender or the recipeints of the message, as specified by  **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)**, is in the recipients list specified in **[ToOrFromRuleCondition.Recipients](Outlook.ToOrFromRuleCondition.Recipients.md)**.
+Represents a rule condition that the sender or the recipients of the message, as specified by  **[ToOrFromRuleCondition.ConditionType](Outlook.ToOrFromRuleCondition.ConditionType.md)**, is in the recipients list specified in **[ToOrFromRuleCondition.Recipients](Outlook.ToOrFromRuleCondition.Recipients.md)**.
 
 
 ## Remarks

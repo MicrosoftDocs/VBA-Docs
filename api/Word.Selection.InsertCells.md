@@ -30,7 +30,7 @@ Adds cells to an existing table.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ShiftCells_|Optional| **WdInsertCells**|Specifies how to insert the cells into the existing columns and rows of the tabel.|
+| _ShiftCells_|Optional| **WdInsertCells**|Specifies how to insert the cells into the existing columns and rows of the table.|
 
 ## Remarks
 

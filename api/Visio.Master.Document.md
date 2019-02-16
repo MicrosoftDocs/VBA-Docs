@@ -77,7 +77,7 @@ Public Sub Document_Example()
  'Get the Document object associated with various other objects.'Get the Document object associated with the Window object. 
  Set vsoTempDocument = vsoWindow.Document 
  
- 'Get the Title property of the Document object'to verify that this is the same document we added earlier. 
+ 'Get the Title property of the Document object to verify that this is the same document we added earlier. 
  Debug.Print vsoTempDocument.Title 
  
  'Get the Document object associated with the Page object. 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PivotTable.ShowTableStyleColumnHeaders property (Excel)
 
-The  **ShowTableStyleColumnHeaders** property is set to **True** if the coulmn headers should be displayed in the PivotTable. Read/write **Boolean**.
+The  **ShowTableStyleColumnHeaders** property is set to **True** if the column headers should be displayed in the PivotTable. Read/write **Boolean**.
 
 
 ## Syntax

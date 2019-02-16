@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # Connections.Add method (Excel)
 
-Adds a new connction to the workbook.
+Adds a new connection to the workbook.
 
 
 ## Syntax

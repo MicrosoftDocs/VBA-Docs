@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[CommandBars](Office.CommandBars.md)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Type_|Optional|**Variant**|Is one of the **[MsoControlType](office.msocontroltype.md)** constants specfying the type of control.|
+| _Type_|Optional|**Variant**|Is one of the **[MsoControlType](office.msocontroltype.md)** constants specifying the type of control.|
 | _Id_|Optional|**Variant**|The control's identifier.|
 | _Tag_|Optional|**Variant**|The control's tag value.|
 | _Visible_|Optional|**Variant**|**True** to include only visible command bar controls in the search. The default value is **False**.|

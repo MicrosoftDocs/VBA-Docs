@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Shape.IsDataGraphicCallout Property (Visio)
 
-Specifes whether a shape is a data graphic callout. Read-only.
+Specifies whether a shape is a data graphic callout. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

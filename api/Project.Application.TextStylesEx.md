@@ -127,6 +127,6 @@ _expression_ A variable that represents an **Application** object.
 
 Using the **TextStylesEx** method without specifying any arguments displays the **Text Styles** dialog box.
 
-To set the text style by using hexadicimal RGB values, see the **[TextStyles32Ex](Project.Application.TextStyles32Ex.md)** method.
+To set the text style by using hexadecimal RGB values, see the **[TextStyles32Ex](Project.Application.TextStyles32Ex.md)** method.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

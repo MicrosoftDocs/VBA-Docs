@@ -34,7 +34,7 @@ Nothing
 
 ## Remarks
 
-Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](Visio.DataConnection.md)** object (that is, having the same value for their **[DataConnection](Visio.DataRecordset.DataConnection.md)** property). **DataRecordset** objects sharing the same **DataConnection** property value are called _transacted_ data recordsets. The **Refresh** method must be called on a data recordset that is associated with a **DataConnection** objecct.
+Calling the  **Refresh** method on a particular **DataRecordset** object results in refreshing all other **DataRecordset** objects associated with the same **[DataConnection](Visio.DataConnection.md)** object (that is, having the same value for their **[DataConnection](Visio.DataRecordset.DataConnection.md)** property). **DataRecordset** objects sharing the same **DataConnection** property value are called _transacted_ data recordsets. The **Refresh** method must be called on a data recordset that is associated with a **DataConnection** object.
 
 If you call  **Refresh** on a data recordset not associated with a **DataConnection** object (one that was created by using the **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method), the **Refresh** method will return an error.
 

@@ -46,7 +46,7 @@ Variant
 
 To handle event notifications, create a class module that implements the  **IVisEventProc** interface and then create an instance of this class to pass as an argument to the **AddAdvise** method of the **EventList** collection. Use the **AddAdvise** method to create **Event** objects that send the notifications.
 
-The  _nEventCode_ parameter identifes the specific event or events that occurred. The _EventCode_ argument of the **AddAdvise** method is passed to **VisEventProc** as _nEventCode_. Within your procedure, you can use any branching technique you want to determine which event occurred and handle it. The example that accompanies this topic uses a  **Select Case** decision structure.
+The  _nEventCode_ parameter identifies the specific event or events that occurred. The _EventCode_ argument of the **AddAdvise** method is passed to **VisEventProc** as _nEventCode_. Within your procedure, you can use any branching technique you want to determine which event occurred and handle it. The example that accompanies this topic uses a  **Select Case** decision structure.
 
 Unlike the  **Index** property of the **EventList** collection, _nEventID_ does not change as **Event** objects are added or deleted from the collection.
 

@@ -36,7 +36,7 @@ Next conv
 
 The  **Add** method isn't available for the **FileConverters** collection. **[FileConverter](PowerPoint.FileConverter.md)** objects are added during installation of Microsoft Office or by installing supplemental converters.
 
-Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated wtih the Microsoft Excel worksheet converter.
+Use  **FileConverters** (Index), where Index is a class name or index number, to return a single **[FileConverter](PowerPoint.FileConverter.md)** object. The following example displays the extensions associated with the Microsoft Excel worksheet converter.
 
 
 

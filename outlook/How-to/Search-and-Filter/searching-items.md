@@ -19,15 +19,15 @@ This topic describes the entry points to search items in folders and access to s
 |**Search completion**|Use the **[AdvancedSearchComplete](../../../api/Outlook.Application.AdvancedSearchComplete.md)** event to determine when a given search has completed.|Does not provide a callback to indicate search completion.|Search is completed in the prior  **Application.AdvancedSearch**. **Search.GetTable** only returns the search results.|
 
 
-**Search results**
+### Search results
 
 Access the search results by one of these means:
 
-<ul xmlns:xlink="https://www.w3.org/1999/xlink" xmlns:mtps="https://msdn2.microsoft.com/mtps" xmlns:MSHelp="https://msdn.microsoft.com/mshelp" xmlns:mshelp="https://msdn.microsoft.com/mshelp" xmlns:ddue="https://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
-<li><p><b><a href="../../../api/Outlook.Search.Results.md">Search.Results</a></b> contains the search results as a <b><a href="../../../api/Outlook.Results.md">Results</a></b> collection. Each item in the collection contains the full set of item properties.</p></li>
-<li><p><b>Search</b>. <b>Save</b> saves the results to a search folder.</p></li>
-<li><p><b><a href="../../../api/Outlook.Search.GetTable.md">Search.GetTable</a></b> also returns the same set of items as in the <b>Results</b> collection, but each item  will contain only a default set of properties and therefore generally offers better performance.</p></li>
-</ul> 
+- **[Search.Results](../../../api/Outlook.Search.Results.md)** contains the search results as a **[Results](../../../api/Outlook.Results.md)** collection. Each item in the collection contains the full set of item properties.
+
+- **Search**. **Save** saves the results to a search folder.
+
+- **[Search.GetTable](../../../api/Outlook.Search.GetTable.md)** also returns the same set of items as in the **Results** collection, but each item  will contain only a default set of properties and therefore generally offers better performance.
 
 Search results are displayed in Explorer for the current folder. To remove any search results in Explorer, call **[Explorer.ClearSearch](../../../api/Outlook.Explorer.ClearSearch.md)**. 
 

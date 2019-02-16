@@ -47,7 +47,7 @@ For intCount = 1 To objTemplate.BuildingBlockTypes.Count
 Next
 ```
 
-Use the  **Item** method of the **Categories** collection to access an exising category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
+Use the  **Item** method of the **Categories** collection to access an existing category; to create a new category, use the **Add** method of the **BuildingBlockEntries** collection. Set the value of the Category parameter.
 
 For more information about building blocks, see [Working with Building Blocks](../word/Concepts/Working-with-Word/working-with-building-blocks.md).
 

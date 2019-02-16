@@ -77,7 +77,7 @@ Set myDocument = Worksheets(1)
 Set s = myDocument.Shapes 
 Set firstRect = s.AddShape(msoShapeRectangle, 100, 50, 200, 100) 
 Set secondRect = s.AddShape(msoShapeRectangle, 300, 300, 200, 100) 
-Setc c = s.AddConnector(msoConnectorCurve, 0, 0, 0, 0) 
+Set c = s.AddConnector(msoConnectorCurve, 0, 0, 0, 0) 
 With c.ConnectorFormat 
  .BeginConnect ConnectedShape:=firstRect, ConnectionSite:=1 
  .EndConnect ConnectedShape:=secondRect, ConnectionSite:=1 

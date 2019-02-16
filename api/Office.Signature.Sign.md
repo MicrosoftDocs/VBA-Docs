@@ -47,7 +47,7 @@ In the following example, the variables for the signature image, signer, signer'
 Set objSignature = New Signature 
 varSigline = CType(AxHost2.GetIPictureDispFromPicture(img),IPictureDisp) 
 varSuggestedSigner = "Nancy Davolio" 
-varSignatureTitle = "Sales Represenative" 
+varSignatureTitle = "Sales Representative" 
 varSignerEmail = "ndavolio@northwindtraders.com" 
 objSignature.Sign(varSigline, varSuggestedSigner, varSignatureTitle, varSignerEmail)
 ```

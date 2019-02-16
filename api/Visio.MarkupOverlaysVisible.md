@@ -33,11 +33,11 @@ A markup overlay is a layer that shows all the shapes, ink shapes, and comments 
 
 ## Example
 
-The following code shows how to turn off visiblity of markup overlays in Visio Viewer.
+The following code shows how to turn off visibility of markup overlays in Visio Viewer.
 
 
 ```vb
-vsoViewer.MarkupOverlaysVisble = False
+vsoViewer.MarkupOverlaysVisible = False
 ```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

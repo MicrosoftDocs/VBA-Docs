@@ -40,7 +40,7 @@ The following example adds an interactive sequence to the first slide and sets t
 
 
 ```vb
-Sub NewInteractiveSeqence()
+Sub NewInteractiveSequence()
 
     Dim seqInteractive As Sequence
     Dim shpText As Shape

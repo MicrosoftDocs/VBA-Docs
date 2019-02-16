@@ -86,7 +86,7 @@ If the  **Add** method succeeds, it performs the following actions:
 Unless you pass  **visDataRecordsetDelayQuery** as part of the AddOptions parameter, the **Add** method also does the following:
 
 
-- Executes the query string specified in the CommandString parameter and retreive the resulting data.
+- Executes the query string specified in the CommandString parameter and retrieve the resulting data.
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch**.
     

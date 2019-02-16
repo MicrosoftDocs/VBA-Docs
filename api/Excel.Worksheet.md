@@ -86,7 +86,7 @@ Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean
    'If you did not double-click on A1, then exit the function.
    If Target.Address <> "$A$1" Then Exit Sub
    
-   'If you did double-click on A1, then override the default double-click behaviour with this function.
+   'If you did double-click on A1, then override the default double-click behavior with this function.
    Cancel = True
    
    'Set the path to the files, the path to Notepad, the file extension of the files, and the names of the files,

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RelatedShapePairEvent.FromShapeID Property (Visio)
 
-Returrns the identifier of the first (container or callout) shape in the related shape pair. Read-only.
+Returns the identifier of the first (container or callout) shape in the related shape pair. Read-only.
 
 
 ## Syntax

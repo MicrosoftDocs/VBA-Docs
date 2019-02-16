@@ -30,7 +30,7 @@ Inserts a new structure, such as a fraction, into an equation at the specified p
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Range_|Required| **Range**| The place at which to insrt an equation.|
+| _Range_|Required| **Range**| The place at which to insert an equation.|
 | _Type_|Required| **WdOMathFunctionType**|The type of equation to insert.|
 | _NumArgs_|Optional| **Variant**| The number of arguments in the equation.|
 | _NumCols_|Optional| **Variant**|The number of columns in the equation.|

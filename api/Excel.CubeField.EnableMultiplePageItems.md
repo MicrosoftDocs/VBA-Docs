@@ -38,9 +38,9 @@ Sub UseMultiplePageItems()
  Set pvtTable = ActiveSheet.PivotTables(1) 
  Set cbeField = pvtTable.CubeFields("[Country]") 
  
- ' Determine setting for mulitple page items. 
+ ' Determine setting for multiple page items. 
  If cbeField.EnableMultiplePageItems = False Then 
- MsgBox "Mulitple page items cannot be selected." 
+ MsgBox "Multiple page items cannot be selected." 
  Else 
  MsgBox "Multiple page items can be selected." 
  End If 

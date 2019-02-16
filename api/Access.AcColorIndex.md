@@ -25,7 +25,7 @@ Specifies the color to apply.
 |**acColorIndexBlue**|12|Blue color.|
 |**acColorIndexBrightGreen**|10|Bright green color.|
 |**acColorIndexDarkBlue**|4|Dark blue color.|
-|**acColorIndexFuschia**|13|Fuchsia color.|
+|**acColorIndexFuchsia**|13|Fuchsia color.|
 |**acColorIndexGray**|7|Gray color.|
 |**acColorIndexGreen**|2|Green color.|
 |**acColorIndexMaroon**|1|Maroon color.|

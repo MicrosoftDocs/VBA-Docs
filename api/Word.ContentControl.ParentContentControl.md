@@ -26,7 +26,7 @@ Returns a  **ContentControl** that represents the parent content control for a c
 
 ## Remarks
 
-If a content control is not nested, this proprerty returns an error.
+If a content control is not nested, this property returns an error.
 
 
 ## See also

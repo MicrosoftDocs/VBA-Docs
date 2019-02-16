@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 | _BeginX_|Required| **Single**|The horizontal position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _BeginY_|Required| **Single**|The vertical position (in points) of the connector's starting point relative to the upper-left corner of the document.|
 | _EndX_|Required| **Single**|The horizontal position (in points) of the connector's end point relative to the upper-left corner of the document.|
-| _EndY_|Required| **Single**|The veritcal position (in points) of the connector's end point relative to the upper-left corner of the document.|
+| _EndY_|Required| **Single**|The vertical position (in points) of the connector's end point relative to the upper-left corner of the document.|
 
 ## Return value
 

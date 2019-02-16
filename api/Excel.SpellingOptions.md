@@ -57,7 +57,7 @@ The following example uses the  **[IgnoreCaps](Excel.SpellingOptions.IgnoreCaps.
 ```vb
 Sub IgnoreAllCAPS() 
  
- ' Place mispelled versions of the same word in all caps and mixed case. 
+ ' Place misspelled versions of the same word in all caps and mixed case. 
  Range("A1").Formula = "Testt" 
  Range("A2").Formula = "TESTT" 
  

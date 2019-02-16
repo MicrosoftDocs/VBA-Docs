@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Table.FirstRow Property (PowerPoint)
 
-Determinew whether to display special formatting for the first row of the specified table. Read/write.
+Determine whether to display special formatting for the first row of the specified table. Read/write.
 
 
 ## Syntax

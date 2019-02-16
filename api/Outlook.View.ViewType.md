@@ -31,7 +31,7 @@ This property does not have any effect on the icons displayed in the Shortcuts p
 
 ## Example
 
-The following Visual Basic for Applicatons (VBA) example displays the name and type of all views in the user's  **Inbox**.
+The following Visual Basic for Applications (VBA) example displays the name and type of all views in the user's  **Inbox**.
 
 
 ```vb

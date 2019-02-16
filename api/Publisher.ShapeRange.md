@@ -76,7 +76,7 @@ Use the  **[Align](./Publisher.ShapeRange.Align.md)**, **[Distribute](./Publishe
 
 
 ```vb
-Sub AlignDistibuteShapes() 
+Sub AlignDistributeShapes() 
     Dim rngShapes As ShapeRange 
     Set rngShapes = ActiveDocument.Pages(1).Shapes.Range 
  

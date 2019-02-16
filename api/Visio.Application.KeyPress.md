@@ -39,7 +39,7 @@ If you set  _CancelDefault_ to **True** , Visio does not process the message rec
 Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 
- **Note**  Pressing an accelererator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
+ **Note**  Pressing an accelerator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

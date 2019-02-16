@@ -41,7 +41,7 @@ The value of the  **Type** property can be one of these **MsoAnimType** constant
 |**MsoAnimTypeMotion**|
 |**MsoAnimTypeNone**|
 |**MsoAnimTypeProperty**|
-|**MsoAnimTypeRoatation**|
+|**MsoAnimTypeRotation**|
 |**MsoAnimTypeScale**|
 |**MsoAnimTypeTransition**|
 

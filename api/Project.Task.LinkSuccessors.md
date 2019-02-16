@@ -43,7 +43,7 @@ The following example create two tasks and links the second task as successor to
 
 ```vb
 Sub Link_Successors() 
-    Dim SucessorTask As Task 
+    Dim SuccessorTask As Task 
     Dim PredecessorTask As Task 
  
     'Activate Task Sheet view 
@@ -60,13 +60,13 @@ Sub Link_Successors()
  
     'link them 
     Set PredecessorTask = ActiveProject.Tasks("TestTask-1") 
-    Set SucessorTask = ActiveProject.Tasks("TestTask-2") 
+    Set SuccessorTask = ActiveProject.Tasks("TestTask-2") 
  
-    PredecessorTask.LinkSuccessors Tasks:=SucessorTask, Link:=pjFinishToStart 
+    PredecessorTask.LinkSuccessors Tasks:=SuccessorTask, Link:=pjFinishToStart 
  
     'delete the tasks 
     PredecessorTask.Delete 
-    SucessorTask.Delete 
+    SuccessorTask.Delete 
 End Sub
 ```
 

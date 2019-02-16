@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md
 
 ## Remarks
 
-Outlook does not set the  **Creator** property. Use the **Creator** property to identify the **StorageItem** objects you have created for your add-in. One recomended value for this property is the programmatic identifier (ProgID) of the add-in.
+Outlook does not set the  **Creator** property. Use the **Creator** property to identify the **StorageItem** objects you have created for your add-in. One recommended value for this property is the programmatic identifier (ProgID) of the add-in.
 
 
 ## See also

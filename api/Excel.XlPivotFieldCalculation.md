@@ -28,7 +28,7 @@ Specifies the type of calculation performed by a data PivotField when a custom c
 | **xlPercentOfParentRow**|10|Percentage of the total of the parent row.|
 | **xlPercentOfRow**|6|Percentage of the total for the row or category.|
 | **xlPercentOfTotal**|8|Percentage of the grand total of all the data or data points in the report.|
-| **xlPercentRunningTotal**|13|Percentatge of the running total of the specified Base field.|
+| **xlPercentRunningTotal**|13|Percentage of the running total of the specified Base field.|
 | **xlRankAscending**|14|Rank smallest to largest.|
 | **xlRankDecending**|15|Rank largest to smallest.|
 | **xlRunningTotal**|5|Data for successive items in the Base field as a running total.|

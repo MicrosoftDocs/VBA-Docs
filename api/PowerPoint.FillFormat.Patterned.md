@@ -30,7 +30,7 @@ Sets the specified fill to a pattern.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Pattern_|Required|**MsoPatternType**|The pattern to be used for the specified fill. See Reamrks for possible values.|
+| _Pattern_|Required|**MsoPatternType**|The pattern to be used for the specified fill. See Remarks for possible values.|
 
 ## Remarks
 

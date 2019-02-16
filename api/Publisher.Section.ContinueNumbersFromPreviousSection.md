@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Section.ContinueNumbersFromPreviousSection Property (Publisher)
 
- **True** if the specified section continues the numbering from the prvious section. Read/write **Boolean**.
+ **True** if the specified section continues the numbering from the previous section. Read/write **Boolean**.
 
 
 ## Syntax

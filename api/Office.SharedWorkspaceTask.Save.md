@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[SharedWorkspaceTask](Office.SharedW
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _bstrQueryName_|Required|**String**|Name of the query used to change the property of the shared workspcae link.|
+| _bstrQueryName_|Required|**String**|Name of the query used to change the property of the shared workspace link.|
 
 ## Remarks
 

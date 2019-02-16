@@ -30,7 +30,7 @@ This example sets Microsoft Word to automatically start the Letter Wizard when t
 
 
 ```vb
-Sub AutoLeterWizard() 
+Sub AutoLetterWizard() 
  Options.AutoFormatAsYouTypeAutoLetterWizard = True 
 End Sub
 ```

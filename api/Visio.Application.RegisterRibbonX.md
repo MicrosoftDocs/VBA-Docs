@@ -30,7 +30,7 @@ Registers the  **[IRibbonExtensibility](Office.IRibbonExtensibility.md)** interf
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _SourceAddOn_|Required| **IRibbonExtensibilty**|The add-on to register.|
+| _SourceAddOn_|Required| **IRibbonExtensibility**|The add-on to register.|
 | _TargetDocument_|Required| **[Document](Visio.Document.md)**|The document that uses the custom UI.|
 | _TargetModes_|Required| **[VisRibbonXModes](Visio.VisRibbonXModes.md)**|The modes in which the custom UI should be visible. See Remarks for possible values.|
 | _FriendlyName_|Required| **String**|The name to associate with the UI items and errors that originate in the add-on.|

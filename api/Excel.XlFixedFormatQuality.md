@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlFixedFormatQuality enumeration (Excel)
 
-Specifies the quality of speadsheets saved in different fixed formats.
+Specifies the quality of spreadsheets saved in different fixed formats.
 
 
 

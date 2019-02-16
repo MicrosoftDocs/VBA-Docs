@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LineFormat.InsetPen Property (PowerPoint)
 
-Detemines whether to draw lines on the inside of a specified shape. Read/write.
+Determines whether to draw lines on the inside of a specified shape. Read/write.
 
 
 ## Syntax

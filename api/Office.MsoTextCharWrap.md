@@ -20,7 +20,7 @@ Indicates the type of text wrap.
 |**msoCharWrapMixed**|-2|Specifies a mixed text wrap.|
 |**msoCustomCharWrap**|3|Specifies a custom text wrap scheme.|
 |**msoNoCharWrap**|0|Specifies no text wrapping.|
-|**msoStandardCharWrap**|1|Specifies wrapping text around the standard boundry of an object.|
+|**msoStandardCharWrap**|1|Specifies wrapping text around the standard boundary of an object.|
 |**msoStrictCharWrap**|2|Specifies text wrapping that adheres to restrictions imposed by some languages such as Chinese and Japanese alphabets.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

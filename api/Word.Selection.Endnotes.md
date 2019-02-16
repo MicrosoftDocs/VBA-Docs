@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.Endnotes property (Word)
 
-Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes conatined within a selection. Read-only.
+Returns an  **[Endnotes](Word.endnotes.md)** collection that represents all the endnotes contained within a selection. Read-only.
 
 
 ## Syntax

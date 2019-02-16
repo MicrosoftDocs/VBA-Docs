@@ -75,7 +75,7 @@ The following table lists each language version of Office and gives its correspo
 |Swedish|1053|-filer|
 |Thai|1054|.files|
 |Turkish|1055|_dosyalar|
-|Ukranian|1058|.files|
+|Ukrainian|1058|.files|
 |Vietnamese|1066|.files|
 
 

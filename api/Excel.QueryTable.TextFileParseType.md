@@ -30,7 +30,7 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 
 | **xlTextParsingType** can be one of these **xlTextParsingType** constants.|
 | **xlFixedWidth**. Indicates that the data in the file is arranged in columns of fixed widths.|
-| **xlDelimited**_default_ . Iindicates the file is delimited by delimiter characters|
+| **xlDelimited**_default_ . Indicates the file is delimited by delimiter characters|
 
 Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
 

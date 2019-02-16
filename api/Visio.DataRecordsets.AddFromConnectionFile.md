@@ -71,7 +71,7 @@ If the  **AddFromConnectionFile** method succeeds, it performs the following act
     
 - Associates a new or existing  **DataConnection** object with the **DataRecordset** object.
     
-- Executes the query string specified in the command string within the ODC file and retreives the resulting data.
+- Executes the query string specified in the command string within the ODC file and retrieves the resulting data.
     
 - Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. 
     

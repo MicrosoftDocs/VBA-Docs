@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # Viewer.ZoomToRect Method (Visio Viewer)
 
-Zooms to display a rectanglular section, specified by the parameters, of the drawing that is open in Microsoft Visio Viewer.
+Zooms to display a rectangular section, specified by the parameters, of the drawing that is open in Microsoft Visio Viewer.
 
 
 ## Syntax

@@ -37,7 +37,7 @@ Occurs when the user issues the command to insert postal barcodes into a mail-me
 
 You can use the  **[InsertBarcode](Publisher.TextRange.InsertBarcode.md)** method to insert barcodes into a mail merge publication.
 
-Third-party add-ins that validate mail-merge addresses can use the  **MailMergeInsertBarcode** event to listen for user actions requesting that barcodes be inserted. In this situation, when the add-in receives notification that the **MailMergeInsertBarcode** event fired, it checks the validity of the addresses in the mail-merge list, and if the addreses are valid, it attempts to generate barcodes. If this attempt is successful, the add-in should return **True** for the OkToInsert parameter. If the attempt fails, the add-in should return **False**.
+Third-party add-ins that validate mail-merge addresses can use the  **MailMergeInsertBarcode** event to listen for user actions requesting that barcodes be inserted. In this situation, when the add-in receives notification that the **MailMergeInsertBarcode** event fired, it checks the validity of the addresses in the mail-merge list, and if the addresses are valid, it attempts to generate barcodes. If this attempt is successful, the add-in should return **True** for the OkToInsert parameter. If the attempt fails, the add-in should return **False**.
 
 Actual barcode data is provided to Publisher by the  **[MailMergeGenerateBarcode](Publisher.Application.MailMergeGenerateBarcode.md)** event.
 

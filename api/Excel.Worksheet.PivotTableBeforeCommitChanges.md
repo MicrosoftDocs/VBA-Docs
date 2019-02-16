@@ -47,7 +47,7 @@ The  **PivotTableBeforeCommitChanges** event occurs immediately before Excel exe
 
 ## Example
 
-The following code example prompts the user before changes are commited to the PivotTable's OLAP data source.
+The following code example prompts the user before changes are committed to the PivotTable's OLAP data source.
 
 
 ```vb

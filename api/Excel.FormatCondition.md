@@ -21,16 +21,16 @@ Represents a conditional format.
 
  The **FormatCondition** object is a member of the **[FormatConditions](Excel.FormatConditions.md)** collection. The **FormatConditions** collection can now contain more than three conditional formats for a given range.
 
-Use the  **[Add](Excel.FormatConditions.Add.md)** method to create a new conditional format. If a range has mulitple formats, you can use the **[Modify](Excel.FormatCondition.Modify.md)** method to change one of the formats, or you can use the **[Delete](Excel.FormatCondition.Delete.md)** method to delete a format and then use the **Add** method to create a new format.
+Use the  **[Add](Excel.FormatConditions.Add.md)** method to create a new conditional format. If a range has multiple formats, you can use the **[Modify](Excel.FormatCondition.Modify.md)** method to change one of the formats, or you can use the **[Delete](Excel.FormatCondition.Delete.md)** method to delete a format and then use the **Add** method to create a new format.
 
-Use the  **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCondition.Borders.md)**, and **[Interior](Excel.FormatCondition.Interior.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren?t supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
+Use the  **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCondition.Borders.md)**, and **[Interior](Excel.FormatCondition.Interior.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren't supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
 
 
 
 |**Object**|**Properties**|
 |:-----|:-----|
 |**[Font](Excel.Font(object).md)**|**Bold** **Color** **ColorIndex** **FontStyle** **Italic** **Strikethrough** **Underline** The accounting underline styles cannot be used.|
-|**[Border](Excel.Border(object).md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren?t supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren?t supported): **xlWeightHairline** and **xlWeightThin**.|
+|**[Border](Excel.Border(object).md)**|**Bottom** **Color** **Left** **Right** **Style** The following border styles can be used (all others aren't supported): **xlNone**, **xlSolid**, **xlDash**, **xlDot**, **xlDashDot**, **xlDashDotDot**, **xlGray50**, **xlGray75**, and **xlGray25**. **Top** **Weight** The following border weights can be used (all others aren't supported): **xlWeightHairline** and **xlWeightThin**.|
 |**[Interior](Excel.Interior(object).md)**|**Color** **ColorIndex** **Pattern** **PatternColorIndex**|
 
 ## Example

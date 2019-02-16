@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PbPageNumberFormat Enumeration (Publisher)
 
-Reperesents the formatting of the page numbering.
+Represents the formatting of the page numbering.
 
 
 

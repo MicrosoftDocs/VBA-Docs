@@ -40,7 +40,7 @@ Possible values for the Wizard parameter are declared in the  **[PbWizard](Publi
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ChangeDocument** method to change the wizard used by the current publicaton to a brochure.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to use the  **ChangeDocument** method to change the wizard used by the current publication to a brochure.
 
 
 ```vb

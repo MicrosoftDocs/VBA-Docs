@@ -28,7 +28,7 @@ Shapes inside the catalog merge area are automatically resized or repositioned i
  
 
  
-The catalog merge area can contain picture and text data fields you have inserted, in addtion to other design elements you choose. 
+The catalog merge area can contain picture and text data fields you have inserted, in addition to other design elements you choose. 
  
 
  
