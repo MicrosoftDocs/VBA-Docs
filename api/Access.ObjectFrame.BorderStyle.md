@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.BorderStyle
 ms.assetid: 243484f6-1401-cbe9-dfb9-d5c8f7e419ce
-ms.date: 06/08/2017
+ms.date: 02/20/2019
 localization_priority: Normal
 ---
 
 
 # ObjectFrame.BorderStyle property (Access)
 
-Specifies how a control's border appears.Read/write  **Byte**.
+Specifies how a control's border appears. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md
 
 ## Remarks
 
-For controls, the  **BorderStyle** property uses the following settings.
-
-
+For controls, the **BorderStyle** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -42,14 +40,11 @@ For controls, the  **BorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
 
-A control's border style is visible only when its  **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderStyle** property changes the **SpecialEffect** property setting to Flat.
-
-
-## See also
+A control's border style is visible only when its **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderStyle** property changes the **SpecialEffect** property setting to Flat.
 
 
-[ObjectFrame Object](Access.ObjectFrame.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

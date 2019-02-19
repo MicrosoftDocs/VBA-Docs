@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.BorderStyle property (Access)
 
-Specifies how a control's border appears.Read/write **Byte**.
+Specifies how a control's border appears. Read/write **Byte**.
 
 
 ## Syntax
