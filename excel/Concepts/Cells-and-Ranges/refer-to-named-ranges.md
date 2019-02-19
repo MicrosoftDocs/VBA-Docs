@@ -45,7 +45,7 @@ Chosen name of range is "name" within the same worksheet refer to the named name
 
 The following example refers to the range named "MyRange" in the workbook named "MyBook.xls."
 
-```a
+```vb
 Sub FormatRange() 
     Range("MyBook.xls!MyRange").Font.Italic = True 
 End Sub
@@ -53,7 +53,7 @@ End Sub
 
 The following example refers to the worksheet-specific range named "Sheet1!Sales" in the workbook named "Report.xls."
 
-```a
+```vb
 Sub FormatSales() 
     Range("[Report.xls]Sheet1!Sales").BorderAround Weight:=xlthin 
 End Sub
@@ -61,7 +61,7 @@ End Sub
 
 To select a named range, use the  **GoTo** method, which activates the workbook and the worksheet and then selects the range.
 
-```a
+```vb
 Sub ClearRange() 
     Application.Goto Reference:="MyBook.xls!MyRange" 
     Selection.ClearContents 
@@ -70,7 +70,7 @@ End Sub
 
 The following example shows how the same procedure would be written for the active workbook.
 
-```a
+```vb
 Sub ClearRange() 
     Application.Goto Reference:="MyRange" 
     Selection.ClearContents 
@@ -81,7 +81,7 @@ End Sub
 
 This example uses a named range as the formula for data validation. This example requires the validation data to be on Sheet 2 in the range A2:A100. This validation data is used to validate data entered on Sheet 1 in the range D2:D10.
 
-```a
+```vb
 Sub Add_Data_Validation_From_Other_Worksheet()
 'The current Excel workbook and worksheet, a range to define the data to be validated, and the target range
 'to place the data in.
@@ -131,7 +131,7 @@ End Sub
 
 The following example loops through each cell in a named range by using a  **For Each...Next** loop. If the value of any cell in the range exceeds the value of `Limit`, the cell color is changed to yellow.
 
-```a
+```vb
 Sub ApplyColor() 
     Const Limit As Integer = 25 
     For Each c In Range("MyRange") 
