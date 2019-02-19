@@ -33,7 +33,7 @@ criteria = "[LastModificationTime] < '" _
 
 ## Time Zones Used in Comparison
 
-When an explicit built-in property is referenced in a Jet query with its explict string name, the comparison evaluates the property value and the date-time comparison string as local time values.
+When an explicit built-in property is referenced in a Jet query with its explicit string name, the comparison evaluates the property value and the date-time comparison string as local time values.
 
 When a property is referenced in a DASL query by namespace, the comparison evaluates the property value and the date-time comparison string as Coordinated Universal Time (UTC) values. For example, the following DASL query finds all contacts that have been modified before June 12, 2005 at 3:30 pm, UTC.
 

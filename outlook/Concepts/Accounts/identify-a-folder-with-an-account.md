@@ -40,7 +40,7 @@ Outlook.Account GetAccountForFolder(Outlook.Folder folder)
     foreach (Outlook.Account account in Application.Session.Accounts) 
     { 
         // Match the DefaultStore.StoreID of the account 
-        // with the Store.StoreID for the currect folder. 
+        // with the Store.StoreID for the correct folder. 
         if (account.DeliveryStore.StoreID  == store.StoreID) 
         { 
             // Return the account whose default delivery store 

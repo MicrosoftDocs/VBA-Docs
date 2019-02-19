@@ -60,7 +60,7 @@ public Outlook.AddressList GetGlobalAddressList(Outlook.Store store)
         throw new ArgumentNullException(); 
     } 
  
-    // Obtain the store UID using the proprety string and  
+    // Obtain the store UID using the property string and  
     // property accessor on the store. 
     Outlook.PropertyAccessor oPAStore = store.PropertyAccessor; 
  

@@ -141,7 +141,7 @@ This sample makes the following changes to the ribbon in Word, in the following 
 
 4. Adds a new **SampleGroup** group to the **My Tab** tab.
     
-5. Adds a large-sized ToogleButton1 button to **My Group** and specifies an onAction callback along with a GetPressed callback.
+5. Adds a large-sized ToggleButton1 button to **My Group** and specifies an onAction callback along with a GetPressed callback.
     
 6. Adds a **CheckBox1** check box to **My Group** with a custom screentip and specifies an onAction callback.
     

@@ -15,7 +15,7 @@ This walkthrough shows how to add an adjoining form region to the **General** pa
     
 2. Use a text editor, such as Notepad, to create a form region manifest XML file for the form region. This file describes to Outlook how to display the form region (for example, title, and localized action names) and what it does (for example, custom actions and add-in support).
     
-3. Use the Windows Registry Editor to register the form region with a message class, identifying to Outlook the type of items that are elgible to use this form region.
+3. Use the Windows Registry Editor to register the form region with a message class, identifying to Outlook the type of items that are eligible to use this form region.
     
 4. Restart Outlook to use the updated Contact form.
     

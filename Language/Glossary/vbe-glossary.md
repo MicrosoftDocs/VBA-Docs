@@ -303,7 +303,7 @@ Any self-contained work created with an application and given a unique file name
 
 ## document design mode
 
-A design mode toggled by the host application typically via a button on the developer ribbon where mouse interactions with controls embeded in a document adjusts its placement, size and proporties instead of activating its actions.
+A design mode toggled by the host application typically via a button on the developer ribbon where mouse interactions with controls embedded in a document adjusts its placement, size and properties instead of activating its actions.
 
 
 ## Double data type
