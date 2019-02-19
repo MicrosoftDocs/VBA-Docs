@@ -35,7 +35,7 @@ The **BorderWidth** property uses the following settings.
 
 You can set the default for this property by using the control's default control style or the **DefaultControl** property in Visual Basic.
 
-To use the **BorderWidth** property, the **SpecialEffect** property must be set to Flat or Shadowed, and the **BorderStyle** property must not be set to Transparent. If the **SpecialEffect** property is set to any other value and/or the **BorderStyle** property is set to Transparent, and you set the **BorderWidth** property, the **SpecialEffect** property is automatically reset to Flat and the **BorderStyle** property is automatically reset to Solid.
+To use the **BorderWidth** property, the **SpecialEffect** property must be set to Flat or Shadowed, and the **BorderStyle** property must not be set to Transparent. If the **SpecialEffect** property is set to any other value, and/or the **BorderStyle** property is set to Transparent, and you set the **BorderWidth** property, the **SpecialEffect** property is automatically reset to Flat, and the **BorderStyle** property is automatically reset to Solid.
 
 The exact border width depends on your computer and printer. On some systems, the hairline and 1-point widths appear the same.
 
