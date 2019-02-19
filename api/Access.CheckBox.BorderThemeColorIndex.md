@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CheckBox.BorderThemeColorIndex property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the **[BorderColor](access.checkbox.bordercolor.md)** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the **[BorderColor](access.checkbox.bordercolor.md)** property of the specified object. Read/write **Long**. 
 
 
 ## Syntax
@@ -50,7 +50,7 @@ This property is not surfaced in the property sheet.
 
 ## Example
 
-The following code example sets the Border Color to the Text 2 color by setting the **BorderThemeColorIndex** property.
+The following code example sets the border color to the Text 2 color by setting the **BorderThemeColorIndex** property.
 
 ```vb
 Me.ctl.BorderThemeColorIndex=2
