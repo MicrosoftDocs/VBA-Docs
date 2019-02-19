@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.NavigationControl.Move
 ms.assetid: bbf4e87e-8468-7cfd-7cd4-5f423a6517c8
-ms.date: 06/08/2017
+ms.date: 02/20/2019
 localization_priority: Normal
 ---
 
@@ -26,27 +26,22 @@ _expression_ A variable that represents a **[NavigationControl](Access.Navigatio
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Left_|Required|**Variant**||
-| _Top_|Optional|**Variant**||
-| _Width_|Optional|**Variant**||
-| _Height_|Optional|**Variant**||
+| _Left_|Required|**Variant**|The screen position in [twips](../language/glossary/vbe-glossary.md#twip) for the left edge of the object relative to the left edge of the Microsoft Access window.|
+| _Top_|Optional|**Variant**|The screen position in twips for the top edge of the object relative to the top edge of the Access window.|
+| _Width_|Optional|**Variant**|The desired width of the object in twips.|
+| _Height_|Optional|**Variant**|The desired height of the object in twips.|
 
 ## Remarks
 
-Only the  _Left_ argument is required. However, to specify any other arguments, you must specify all the arguments that precede it. For example, you cannot specify _Width_ without specifying _Left_ and _Top_. Any trailing arguments that are unspecified remain unchanged.
+Only the _Left_ argument is required. However, to specify any other arguments, you must specify all the arguments that precede it. For example, you cannot specify _Width_ without specifying _Left_ and _Top_. Any trailing arguments that are unspecified remain unchanged.
 
-This method overrides the  **Moveable** property.
+This method overrides the **Moveable** property.
 
-In Datasheet View or Print Preview, changes made using the  **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
-
-
-## See also
+In Datasheet view or Print Preview, changes made by using the **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
 
 
-[NavigationControl Object](Access.NavigationControl.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
