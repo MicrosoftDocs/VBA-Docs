@@ -39,7 +39,7 @@ Only the _Left_ argument is required. However, to specify any other arguments, y
 
 This method overrides the **Moveable** property.
 
-In Datasheet View or Print Preview, changes made by using the **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
+In Datasheet view or Print Preview, changes made by using the **Move** method are saved if the user explicitly saves the database, but Access does not prompt the user to save such changes.
 
 
 

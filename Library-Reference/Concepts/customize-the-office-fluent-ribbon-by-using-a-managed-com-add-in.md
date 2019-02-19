@@ -139,7 +139,7 @@ In this step you add code to the Extensibility.IDTExtensibility2::OnConnection t
 
 5. Insert the following statement into the **GetCustomUI** method, overwriting the existing code: `return GetResource("customUI.xml");`
     
-6. Insert the following method below the **GetCustommUI** method:
+6. Insert the following method below the **GetCustomUI** method:
     
    ```cs
     private string GetResource(string resourceName) 

@@ -12,7 +12,7 @@ localization_priority: Normal
 This topic describes how to allow a user to select an Exchange distribution list and display the name and office location of each member who is a manager belonging to that distribution list. The major steps of this procedure are as follows:
 
 
-1. The code sample below displays a  **Select Distribition List** dialog box for the user to select a distribution list.
+1. The code sample below displays a  **Select Distribution List** dialog box for the user to select a distribution list.
     
     It uses the  **[SelectNamesDialog](../../../api/Outlook.SelectNamesDialog.md)** object to display the dialog box and obtain user selection. The sample then obtains the user selection through the **[SelectNamesDialog.Recipients](../../../api/Outlook.SelectNamesDialog.Recipients.md)** property.
     

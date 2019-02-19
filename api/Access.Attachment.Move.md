@@ -30,8 +30,8 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 |:-----|:-----|:-----|:-----|
 | _Left_|Required|**Variant**|The screen position in [twips](../language/glossary/vbe-glossary.md#twip) for the left edge of the object relative to the left edge of the Microsoft Access window.|
 | _Top_|Optional|**Variant**|The screen position in twips for the top edge of the object relative to the top edge of the Access window.|
-| _Width_|Optional|**Variant**|The desired width in twips of the object.|
-| _Height_|Optional|**Variant**|The desired height in twips of the object.|
+| _Width_|Optional|**Variant**|The desired width of the object in twips.|
+| _Height_|Optional|**Variant**|The desired height of the object in twips.|
 
 ## Remarks
 

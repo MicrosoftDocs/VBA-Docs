@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Attachment.BorderThemeColorIndex
 ms.assetid: a1ee1ca4-74d4-5e8e-e2b7-fb44cd7f3617
-ms.date: 02/07/2019
+ms.date: 02/20/2019
 localization_priority: Normal
 ---
 
@@ -50,7 +50,7 @@ This property is not surfaced in the property sheet.
 
 ## Example
 
-The following code example sets the Border Color to the Text 2 color by setting the **BorderThemeColorIndex** property.
+The following code example sets the border color to the Text 2 color by setting the **BorderThemeColorIndex** property.
 
 
 ```vb

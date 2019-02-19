@@ -8,7 +8,7 @@ api_name:
 - Access.CheckBox.BorderTint
 ms.assetid: 57e00b53-89eb-3cee-a075-9eb3c9ab60ee
 ms.date: 02/14/2019
-localization_priority: Normal
+localization_priority: Normal 
 ---
 
 

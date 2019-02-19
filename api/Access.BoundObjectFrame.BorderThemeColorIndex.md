@@ -28,8 +28,6 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 The **BorderThemeColorIndex** property contains one of the index values listed in the following table.
 
-
-
 |Index value|Description|
 |:-----|:-----|
 |0|Text 1|
@@ -52,7 +50,7 @@ This property is not surfaced in the property sheet.
 
 ## Example
 
-The following code example sets the Border Color to the Text 2 color by setting the **BorderThemeColorIndex** property.
+The following code example sets the border color to the Text 2 color by setting the **BorderThemeColorIndex** property.
 
 
 ```vb

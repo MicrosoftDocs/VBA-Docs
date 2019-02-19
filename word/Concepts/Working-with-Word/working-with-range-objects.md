@@ -13,15 +13,15 @@ A common task when using Visual Basic is to specify an area in a document and th
 
 A **Range** object refers to a contiguous area in a document. Each **Range** object is defined by a starting and ending character position. Similar to the way bookmarks are used in a document, **Range** objects are used in Visual Basic procedures to identify specific portions of a document. A **Range** object can be as small as the insertion point or as large as the entire document. However, unlike a bookmark, a **Range** object exists only while the procedure that defined it is running.
 
-The **[Start](../../../api/Word.Range.Start.md)**, **[End](../../../api/Word.Range.End.md)**, and **[StoryType](../../../api/Word.Range.StoryType.md)** properties uniquely identify a **Range** object. The **Start** and **End** properties return or set the starting and ending character positions of the **Range** object. The character position at the beginning of the document is zero, the position after the first character is one, and so on. There are 11 different story types represented by the **WdStoryType** constants of the **StoryType** property.
+The **[Start](../../../api/Word.Range.Start.md)**, **[End](../../../api/Word.Range.End.md)**, and **[StoryType](../../../api/Word.Range.StoryType.md)** properties uniquely identify a **Range** object. The **Start** and **End** properties return or set the starting and ending character positions of the **Range** object. The character position at the beginning of the document is zero, the position after the first character is one, and so on. There are several story types represented by the **[WdStoryType](../../../api/word.wdstorytype.md)** constants of the **StoryType** property.
 
-
- **Note**  **Range** objects are independent of the selection. That is, you can define and modify a range without changing the current selection. You can also define multiple ranges in a document, but there is only one selection per document pane.
+> [!NOTE] 
+> **Range** objects are independent of the selection. That is, you can define and modify a range without changing the current selection. You can also define multiple ranges in a document, but there is only one selection per document pane.
 
 
 ## Using the Range method
 
-Use the **[Range](../../../api/Word.Range.CheckSynonyms.md)** method of the **[Document](../../../api/Word.Document.md)** object to create a **Range** object that is located in the main story and has a given start and endpoint. The following example creates a **Range** object that starts at the beginning of the first character and extends through the tenth character.
+Use the **[Range](../../../api/word.document.range.md)** method of the **[Document](../../../api/Word.Document.md)** object to create a **Range** object that is located in the main story and has a given start and endpoint. The following example creates a **Range** object that starts at the beginning of the first character and extends through the tenth character.
 
 
 ```vb
@@ -150,8 +150,8 @@ End Sub
 
 For additional information and examples, see the **[Range](../../../api/Word.Range.CheckSynonyms.md)** method for the **[Document](../../../api/Word.Document.md)**.
 
-
- **Note**  When debugging your macros, you can use the **Select**method to ensure that a **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
+> [!NOTE] 
+> When debugging your macros, you can use the **Select**method to ensure that a **Range** object is referring to the correct range of text. For example, the following selects a **Range** object that refers to the second and third paragraphs in the active document, and then formats the font of the selection.
 
 
 

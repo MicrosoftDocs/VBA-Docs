@@ -32,7 +32,7 @@ Setting the **Left** or **Top** property to 0 places the control's edge at the l
 
 ## Remarks
 
-For most systems, the recommended range of values for **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your sytem configuration. 
+For most systems, the recommended range of values for **Left** and **Top** is from -32,767 to +32,767. Other values may also work depending on your system configuration. 
 
 For a **[ComboBox](combobox-control.md)**, values of **Left** and **Top** apply to the text portion of the control, not to the list portion. When you move or size a control, its new **Left** setting is automatically entered in the property sheet. When you print a form, the control's horizontal or vertical location is determined by its **Left** or **Top** setting.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.ColumnHidden property (Access)
 
-You can use the **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**.
+You can use the **ColumnHidden** property to show or hide a specified column in Datasheet view. Read/write **Boolean**. 
 
 
 ## Syntax
@@ -44,7 +44,7 @@ The **ColumnHidden** property is not available in Design view.
 
 ## Example
 
-The following example hides the ProductID field in Datasheet view of the Products form.
+The following example hides the **ProductID** field in Datasheet view of the **Products** form.
 
 ```vb
 Forms!Products!ProductID.ColumnHidden = -1
@@ -52,7 +52,7 @@ Forms!Products!ProductID.ColumnHidden = -1
 
 <br/>
 
-The next example hides the ProductID field in Datasheet view of the Products table.
+The next example hides the **ProductID** field in Datasheet view of the **Products** table.
 
 ```vb
 Public Sub SetColumnHidden() 
