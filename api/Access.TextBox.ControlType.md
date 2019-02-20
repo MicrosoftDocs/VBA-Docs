@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.TextBox.ControlType
 ms.assetid: 4cc842d9-2985-b65e-e259-697cedaa56fc
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Priority
 ---
 
 
 # TextBox.ControlType property (Access)
 
-You can use the  **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
+You can use the **ControlType** property in Visual Basic to determine the type of control on a form or report. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,44 +26,22 @@ _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** objec
 
 ## Remarks
 
-The  **ControlType** property setting is an intrinsic constant that specifies the control type.
+The **ControlType** property setting is an intrinsic constant that specifies the control type. For a complete list of controls created by the **[CreateControl](Access.Application.CreateControl.md)** and **[CreateReportControl](access.application.createreportcontrol.md)** methods, see the **[AcControlType](access.accontroltype.md)** enumeration.
 
+The **ControlType** property can only be set by using Visual Basic in form Design view or report Design view, but it can be read in all views.
 
+The **ControlType** property is useful not only for checking for a specific control type in code, but also for changing the type of control to another type. For example, you can change a text box to a combo box by setting the **ControlType** property for the text box to **acComboBox** while in form Design view.
 
-|**Constant**|**Control**|
-|:-----|:-----|
-|**acBoundObjectFrame**|[Bound object frame](overview/bound-object-frame-control.md)|
-|**acCheckBox**|[Check box](overview/check-box-control.md)|
-|**acComboBox**|[Combo box](overview/combo-box-control.md)|
-|**acCommandButton**|[Command button](overview/command-button-control.md)|
-|**acCustomControl**|[ActiveX (custom) control](overview/activex-control.md)|
-|**acImage**|[Image](overview/image-control-misc.md)|
-|**acLabel**|[Label](overview/label-control-access.md)|
-|**acLine**|[Line](overview/line-control.md)|
-|**acListBox**|[List box](overview/list-box-control.md)|
-|**acObjectFrame**|[Unbound object frame](overview/unbound-object-frame-control.md) or [Chart](overview/chart-control.md)|
-|**acOptionButton**|[Option button](overview/option-button-control.md)|
-|**acOptionGroup**|[Option group](overview/option-group-control.md)|
-|**acPage**|[Page](overview/page.md)|
-|**acPageBreak**|[Page break](overview/page-break-control.md)|
-|**acRectangle**|[Rectangle](overview/rectangle-control.md)|
-|**acSubform**|[Subform/subreport](overview/subform-subreport-control.md)|
-|**acTabCtl**|[Tab](overview/tab-control.md)|
-|**acTextBox**|[Text box](overview/text-box-control.md)|
-|**acToggleButton**|[Toggle button](overview/toggle-button-control.md) [Toggle button](overview/toggle-button-control.md)|
+You can use the **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect** property for all text boxes to Flat and set the form's **AllowEdits** property to No. (The **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
 
- **Note**  The  **ControlType** property can only be set by using Visual Basic in form Design view or report Design view, but it can be read in all views.
-
-The  **ControlType** property is useful not only for checking for a specific control type in code, but also for changing the type of control to another type. For example, you can change a text box to a combo box by setting the **ControlType** property for the text box to **acComboBox** while in form Design view.
-
-You can use the  **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect** property for all text boxes to Flat and set the form's **AllowEdits** property to No. (The **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
-
-The  **ControlType** property is also used to specify the type of control to create when you are using the **[CreateControl](Access.Application.CreateControl.md)** method.
+The **ControlType** property is also used to specify the type of control to create when you are using the **CreateControl** method.
 
 
 ## Example
 
-The following example examines the  **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed and the text box controls' **SpecialEffect** property is set to Normal and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
+The following example examines the **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. 
+
+When the **SpecialEffect** property of the label control is set to Shadowed, and the **SpecialEffect** property of the text box control is set to Normal, and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
 
 
 ```vb
@@ -112,9 +90,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
