@@ -55,10 +55,10 @@ The  _FixedFormatType_ parameter value can be one of these **PpFixedFormatType**
 
 
 
-|Constant|Description|
-|:-----|:-----|
-|**msoFalse**|The default. Does not display the embedded object (or link) as an icon.|
-|**msoTrue**|Displays the embedded object (or link) as an icon.|
+|Constant|Value|Description|
+|:-----|:-----|:-----|
+|**ppFixedFormatTypePDF**|2|Export to PDF format|
+|**ppFixedFormatTypeXPS**|1|Export to XPS format|
 
 The  _Intent_ parameter value can be one of these **PpFixedFormatIntent** constants.
 
