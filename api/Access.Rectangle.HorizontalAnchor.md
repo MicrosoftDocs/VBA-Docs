@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.Rectangle.HorizontalAnchor
 ms.assetid: f00173af-cb55-516f-de3e-293414d8fd08
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # Rectangle.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the rectangle is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the rectangle is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[Rectangle](Access.Rectangle.md)** o
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
-
-## See also
-
-
-[Rectangle Object](Access.Rectangle.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
