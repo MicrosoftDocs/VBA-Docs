@@ -33,7 +33,7 @@ The **PictureTiling** property uses the following settings.
 |Yes|**True**|The picture is tiled.|
 |No|**False**|(Default) The picture isn't tiled.|
 
-You can also set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can also set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 
 

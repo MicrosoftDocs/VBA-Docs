@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 The **BackColor** property contains a numeric expression that corresponds to the color used to fill a control's or section's interior.
 
-You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 To use the **BackColor** property, the **BackStyle** property, if available, must be set to Normal.
 

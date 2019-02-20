@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[NavigationControl](Access.Navigatio
 
 The **BorderColor** property setting is a numeric expression that corresponds to the color that you want to use for a control's border.
 
-You can set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 A control's border color is visible only when its **SpecialEffect** property is set to Flat or Shadowed. If the **SpecialEffect** property is set to something other than Flat or Shadowed, setting the **BorderColor** property changes the **SpecialEffect** property setting to Flat.
 

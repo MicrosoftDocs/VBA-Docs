@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 
 You set the **ControlTipText** property by using a string expression up to 255 characters long.
 
-For controls on forms, you can set the default for this property by using the default control style or the **DefaultControl** property in Visual Basic.
+For controls on forms, you can set the default for this property by using the default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 You can set the **ControlTipText** property in any view.
 

@@ -36,7 +36,7 @@ The **DisplayWhen** property uses the following settings.
 |Print Only|1|The object is hidden in Form view but appears when printed.|
 |Screen Only|2|The object appears in Form view but not when printed.|
 
-For controls, you can set the default for this property by using the default control style or the **DefaultControl** property in Visual Basic.
+For controls, you can set the default for this property by using the default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 In many cases, certain controls are useful only in Form view. To prevent Microsoft Access from printing these controls, you can set their **DisplayWhen** property to Screen Only. For example, you might have a command button or instructions on a form that you don't want printed. Or you might have form header and form footer sections that you don't want displayed on screen but that you do want printed. In this case, you should set the **DisplayWhen** property to Print Only.
 
