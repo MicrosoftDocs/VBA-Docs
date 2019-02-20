@@ -41,7 +41,7 @@ The order of the fields in Datasheet view doesn't affect the order of the fields
 
 ## Example
 
-The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns in Datasheet view of the Products form.
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns in Datasheet view of the **Products** form.
 
 ```vb
 Forms!Products!ProductName.ColumnOrder = 1 
@@ -50,7 +50,7 @@ Forms!Products!QuantityPerUnit.ColumnOrder = 2
 
 <br/>
 
-The next example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns of the Products table in Datasheet view. To set the **ColumnOrder** property, the example uses the SetFieldProperty procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns of the **Products** table in Datasheet view. To set the **ColumnOrder** property, the example uses the **SetFieldProperty** procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
 
 ```vb
 Public Sub SetColumnOrder() 
@@ -74,6 +74,7 @@ Private Sub SetFieldProperty(ByRef fld As DAO.Field, _
  ByVal strPropertyName As String, _ 
  ByVal intPropertyType As Integer, _ 
  ByVal varPropertyValue As Variant) 
+ 
  ' Set field property without producing nonrecoverable run-time error. 
  
  Const conErrPropertyNotFound = 3270 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ListBox.ColumnOrder
 ms.assetid: 846b745a-0818-a312-dc60-774dce7ec059
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
@@ -25,12 +25,11 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 ## Remarks
 
-To set or change this property for a table or query by using Visual Basic, you must use a column's **Properties** collection. For details about using the **Properties** collection, see **Properties**.
+To set or change this property for a table or query by using Visual Basic, you must use a column's **Properties** collection. For more information about using the **Properties** collection, see **[Properties](Access.ListBox.properties.md)**.
 
-> [!NOTE] 
-> The **ColumnOrder** property isn't available in Design view.
+The **ColumnOrder** property isn't available in Design view.
 
-The **ColumnOrder** property applies to all fields in Datasheet view and to form controls (such as List box) when the form is in Datasheet view. This property controls what column order the elements of the form are displayed in when the form is displayed as a datasheet.
+The **ColumnOrder** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
 In Datasheet view, a field's **ColumnOrder** property setting is determined by the field's position. For example, the field in the leftmost column in Datasheet view has a **ColumnOrder** property setting of 1, the next field has a setting of 2, and so on. Changing a field's **ColumnOrder** property resets the property for that field and every field to the left of its original position in Datasheet view.
 
@@ -38,18 +37,20 @@ In other views, the property setting is 0 unless you explicitly change the order
 
 The order of the fields in Datasheet view doesn't affect the order of the fields in table Design view or Form view.
 
-List box can be a form control, and forms can be displayed in "Datasheet View". This property controls what column order the elements of the form are displayed in when the form is displayed as a datasheet.
+List box can be a form control, and forms can be displayed in Datasheet view. This property controls what column order the elements of the form are displayed in when the form is displayed as a datasheet.
 
 ## Example
 
-The following example displays the ProductName and QuantityPerUnit fields in the first two columns in Datasheet view of the Products form.
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns in Datasheet view of the **Products** form.
 
 ```vb
 Forms!Products!ProductName.ColumnOrder = 1 
 Forms!Products!QuantityPerUnit.ColumnOrder = 2
 ```
 
-The next example displays the ProductName and QuantityPerUnit fields in the first two columns of the Products table in Datasheet view. To set the **ColumnOrder** property, the example uses the SetFieldProperty procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
+<br/>
+
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns of the **Products** table in Datasheet view. To set the **ColumnOrder** property, the example uses the **SetFieldProperty** procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
 
 ```vb
 Public Sub SetColumnOrder() 
@@ -101,5 +102,7 @@ Private Sub SetFieldProperty(ByRef fld As DAO.Field, _
  
 End Sub
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
