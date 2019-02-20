@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.DatasheetFontHeight property (Access)
 
-You can use the  **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
+You can use the **DatasheetFontHeight** property to specify the font point size used to display and print field names and data in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
@@ -28,9 +28,9 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 This property is only available within a Microsoft Access database.
 
-For the  **DatasheetFontHeight** property, the font size you specify must be valid for the font specified by the **DatasheetFontName** property. For example, MS Sans Serif is available only in sizes 8, 10, 12, 14, 18, and 24 points.
+For the **DatasheetFontHeight** property, the font size you specify must be valid for the font specified by the **DatasheetFontName** property. For example, MS Sans Serif is available only in sizes 8, 10, 12, 14, 18, and 24 points.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database (.mdb) by using the **CreateProperty** method and append it to the **DAO Properties** collection.
+The following table contains the properties that don't exist in the DAO **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database (.mdb) by using the **CreateProperty** method and append it to the **DAO Properties** collection.
 
 
 |||
@@ -41,7 +41,7 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
 |**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the  **Properties** collection of the database.
+ **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
 
 
 ## Example
