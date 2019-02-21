@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
-Returns  **True** if drill indicators are displayed in the PivotTable and returns ** False** if drill indicators are not displayed in the PivotTable.
+Returns  **True** if drill indicators are displayed in the PivotTable and returns **False** if drill indicators are not displayed in the PivotTable.
 
 
 ## See also

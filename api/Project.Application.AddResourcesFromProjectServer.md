@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.AddResourcesFromProjectServer Method (Project)
 
-Opens the ** Build Team** dialog box if you are connected to Project Server and are currently in a resource view.
+Opens the **Build Team** dialog box if you are connected to Project Server and are currently in a resource view.
 
 
 ## Syntax
@@ -36,7 +36,7 @@ The  **AddResourcesFromProjectServer** method is only available in resource view
 
 ## Example
 
-The following example displays the  **Build Team from Project Server** dialog box. First, Project adds the URL specified in **Collaboration Options** (**Collaborate** menu) to Microsoft Internet Explorer's list of trusted sites. Upon confirmation, Project switches to a **Resource Sheet** view and displays the ** Build Team from Project Server** dialog box, if connected to My Computer in workgroup mode. Project displays the ** Build Team from <Project Name>** dialog box when connected to Project Server.
+The following example displays the  **Build Team from Project Server** dialog box. First, Project adds the URL specified in **Collaboration Options** (**Collaborate** menu) to Microsoft Internet Explorer's list of trusted sites. Upon confirmation, Project switches to a **Resource Sheet** view and displays the **Build Team from Project Server** dialog box, if connected to My Computer in workgroup mode. Project displays the ** Build Team from <Project Name>** dialog box when connected to Project Server.
 
 
 ```vb

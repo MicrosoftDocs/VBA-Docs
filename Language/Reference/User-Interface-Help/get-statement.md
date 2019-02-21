@@ -56,7 +56,7 @@ For files opened in **Random** mode, the following rules apply:
     Dim MyArray(1 To 5,1 To 10) As Integer 
   ```
 
-  The 118 bytes are distributed as follows: 18 bytes for the descriptor (2 + 8 * 2), and 100 bytes for the data (5 * 10 * 2).
+  The 118 bytes are distributed as follows: 18 bytes for the descriptor (`2 + 8 * 2`), and 100 bytes for the data (`5 * 10 * 2`).
     
 - If the variable being read into is a fixed-size array, **Get** reads only the data. No descriptor is read.
     

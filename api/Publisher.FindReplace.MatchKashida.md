@@ -33,7 +33,7 @@ Boolean
 
 This property may not be available depending on the language enabled on your operating system. The default value is  **False**.
 
-Returns ** Access denied** if Arabic is not enabled.
+Returns **Access denied** if Arabic is not enabled.
 
 
 ## Example

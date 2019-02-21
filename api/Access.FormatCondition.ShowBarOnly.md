@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormatCondition.ShowBarOnly property (Access)
 
-Gets or sets whether the data bar or the data bar and its value are displayed. Set to  **True** to display only the data bar. Read/write ** Boolean**.
+Gets or sets whether the data bar or the data bar and its value are displayed. Set to  **True** to display only the data bar. Read/write **Boolean**.
 
 
 ## Syntax

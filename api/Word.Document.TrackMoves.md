@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.TrackMoves property (Word)
 
-Returns or sets a ** Boolean** that represents whether to mark moved text when Track Changes is turned on. Read/write.
+Returns or sets a **Boolean** that represents whether to mark moved text when Track Changes is turned on. Read/write.
 
 
 ## Syntax

@@ -59,7 +59,7 @@ For files opened in **Random** mode, the following rules apply:
 
   ```
   
-- The 118 bytes are distributed as follows: 18 bytes for the descriptor (2 + 8 * 2), and 100 bytes for the data (5 * 10 * 2).
+- The 118 bytes are distributed as follows: 18 bytes for the descriptor (`2 + 8 * 2`), and 100 bytes for the data (`5 * 10 * 2`).
     
 - If the variable being written is a fixed-size array, **Put** writes only the data. No descriptor is written to disk.
     

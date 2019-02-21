@@ -78,7 +78,7 @@ SELECT tblCustomers.[Last Name],
 
 An **[OUTER JOIN](../../../api/overview/Access.md)** is used to retrieve records from multiple tables while preserving records from one of the tables, even if there is no matching record in the other table. There are two types of **OUTER JOINs** that the Access database engine supports: **LEFT OUTER JOINs** and **RIGHT OUTER JOINs**. 
 
-Think of two tables that are beside each other, a table on the left and a table on the right. The ** LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
+Think of two tables that are beside each other, a table on the left and a table on the right. The **LEFT OUTER JOIN** selects all rows in the right table that match the relational comparison criteria, and also selects all rows from the left table, even if no match exists in the right table. The **RIGHT OUTER JOIN** is simply the reverse of the **LEFT OUTER JOIN**; all rows in the right table are preserved instead.
 
 As an example, suppose that you want to determine the total amount invoiced to each customer, but if a customer has no invoices, you want to show it by displaying the word "NONE."
 
