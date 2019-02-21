@@ -14,8 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.LabelAlign property (Access)
 
-The property specifies the text alignment within attached labels on new controls. Read/write **Byte**.
-
+The **LabelAlign** property specifies the text alignment within attached labels on new controls. Read/write **Byte**.
 
 ## Syntax
 
