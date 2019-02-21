@@ -23,7 +23,7 @@ localization_priority: Normal
    - To hide ToolTips, clear the **Show ToolTips** box.
     
 
- ## See also
+## See also
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
