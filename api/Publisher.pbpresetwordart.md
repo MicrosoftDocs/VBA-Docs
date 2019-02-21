@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # pbPresetWordArt Enumeration (Publisher)
 
-Constants that specify the type of preset WordArt, passed to the  ** [Shapes.AddWordArt](Publisher.Shapes.AddWordArt.md)** method and passed to and returned by the ** [TextEffectFormat.PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)** property.
+Constants that specify the type of preset WordArt, passed to the  **[Shapes.AddWordArt](Publisher.Shapes.AddWordArt.md)** method and passed to and returned by the **[TextEffectFormat.PresetWordArt](Publisher.TextEffectFormat.PresetWordArt.md)** property.
 
 
 

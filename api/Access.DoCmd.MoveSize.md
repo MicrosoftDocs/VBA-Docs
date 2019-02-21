@@ -19,7 +19,7 @@ The  **MoveSize** method carries out the MoveSize action in Visual Basic.
 
 ## Syntax
 
-_expression_. `MoveSize`( ` _Right_`, ` _Down_`, ` _Width_`, ` _Height_` )
+_expression_. `MoveSize`( `_Right_`, `_Down_`, `_Width_`, `_Height_` )
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 

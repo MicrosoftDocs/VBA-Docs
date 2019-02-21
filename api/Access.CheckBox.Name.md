@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CheckBox.Name
 ms.assetid: 545d17e4-f695-33ab-8e72-4c8e048b86d4
-ms.date: 02/13/2019
+ms.date: 02/12/2019
 localization_priority: Normal
 ---
 

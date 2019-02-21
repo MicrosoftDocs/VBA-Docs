@@ -19,7 +19,7 @@ Shows or hides task splits on the Calendar.
 
 ## Syntax
 
- _expression_. `CalendarShowBarSplits`( ` _Display_` )
+ _expression_. `CalendarShowBarSplits`( `_Display_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

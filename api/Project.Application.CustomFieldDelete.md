@@ -19,7 +19,7 @@ Deletes the specified custom field.
 
 ## Syntax
 
- _expression_. `CustomFieldDelete`( ` _Field_` )
+ _expression_. `CustomFieldDelete`( `_Field_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

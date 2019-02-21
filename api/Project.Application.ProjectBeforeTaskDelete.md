@@ -16,7 +16,7 @@ Occurs before a task is deleted.
 
 ## Syntax
 
- _expression_. `ProjectBeforeTaskDelete`( ` _tsk_`, ` _Cancel_` )
+ _expression_. `ProjectBeforeTaskDelete`( `_tsk_`, `_Cancel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

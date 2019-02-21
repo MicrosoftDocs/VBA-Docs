@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WorkbookConnection.OLEDBConnection property (Excel)
 
-Returns the OLEDB Connection details for the specified  **WorkbookConnection** object. Read-only ** OLEDBConnection**.
+Returns the OLEDB Connection details for the specified  **WorkbookConnection** object. Read-only **OLEDBConnection**.
 
 
 ## Syntax

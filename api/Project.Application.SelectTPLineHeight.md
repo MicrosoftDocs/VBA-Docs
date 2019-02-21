@@ -19,7 +19,7 @@ Sets the number of text lines for assignment rows in the Team Planner.
 
 ## Syntax
 
- _expression_. `SelectTPLineHeight`( ` _LineMultiple_` )
+ _expression_. `SelectTPLineHeight`( `_LineMultiple_` )
 
  _expression_ An expression that returns a [Application](./Project.Application.md) object.
 

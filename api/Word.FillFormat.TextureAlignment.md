@@ -52,7 +52,7 @@ The value returned by the  **TextureAlignment** property can be one of the follo
     
 -  msoTextureBottomRight
     
-The setting of the  **TextureAlignment** property corresponds to the setting of the **Alignment** box under **Tiling** Options on the **Fill** pane of the ** Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format Tab,** expand the **Shape Styles** group.)
+The setting of the  **TextureAlignment** property corresponds to the setting of the **Alignment** box under **Tiling** Options on the **Fill** pane of the **Format Picture** dialog box in the Microsoft Word user interface (under **Drawing Tools**, on the  **Format Tab,** expand the **Shape Styles** group.)
 
 
 ## See also

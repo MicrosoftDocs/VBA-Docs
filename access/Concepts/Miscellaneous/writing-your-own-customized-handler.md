@@ -57,7 +57,7 @@ _pRS_ A **Recordset** object.
 
 This is the interface definition for **IDataFactoryHandler** that appears in the **msdfhdl.idl** file.
 
-```sql
+```idl
 [ 
   uuid(D80DE8B3-0001-11d1-91E6-00C04FBBBFB3), 
   version(1.0) 

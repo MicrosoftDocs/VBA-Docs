@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # PjEnableCancelKey Enumeration (Project)
 
-Contains constants that specify how to handle the ** CTRL+BREAK** key combination.
+Contains constants that specify how to handle the **CTRL+BREAK** key combination.
 
 
 

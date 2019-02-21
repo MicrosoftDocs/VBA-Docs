@@ -19,7 +19,7 @@ Makes a copy of the active table, adds it to the  **Tables** drop-down menu, and
 
 ## Syntax
 
- _expression_. `TableCopy`( ` _Name_` )
+ _expression_. `TableCopy`( `_Name_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

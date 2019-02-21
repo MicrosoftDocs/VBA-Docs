@@ -19,7 +19,7 @@ You can use the  **Section** property to identify a section of a report and prov
 
 ## Syntax
 
-_expression_.**Section**( ` _Index_` )
+_expression_.**Section**( `_Index_` )
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 

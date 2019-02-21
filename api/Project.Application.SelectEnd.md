@@ -19,7 +19,7 @@ Selects the last cell in the active table that contains a resource or task.
 
 ## Syntax
 
- _expression_. `SelectEnd`( ` _Extend_` )
+ _expression_. `SelectEnd`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

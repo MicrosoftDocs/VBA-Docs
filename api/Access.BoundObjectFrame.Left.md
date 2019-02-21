@@ -30,7 +30,9 @@ In Visual Basic, use a numeric expression to set the value of this property. Val
 
 For reports, you can set these properties only by using a macro or event procedure in Visual Basic while the report is in Print Preview or being printed.
 
-For reports, the **Left** property setting is the amount the current section is offset from the left of the page. This property is expressed in twips. You can use this property to specify how far down the page you want a section to print in the section's **Format** event procedure.
+For reports, the **Left** property setting is the amount that the current section is offset from the left of the page. This property is expressed in twips. 
+
+You can use this property to specify how far down the page you want a section to print in the section's **Format** event procedure.
 
 
 ## Example

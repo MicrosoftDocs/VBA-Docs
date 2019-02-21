@@ -16,7 +16,7 @@ Appends text to the Notes field.
 
 ## Syntax
 
- _expression_. `AppendNotes`( ` _Value_` )
+ _expression_. `AppendNotes`( `_Value_` )
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

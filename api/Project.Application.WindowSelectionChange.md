@@ -16,7 +16,7 @@ Occurs when the selection handle is changed within a window in Project.
 
 ## Syntax
 
- _expression_. `WindowSelectionChange`( ` _Window_`, ` _sel_`, ` _selType_` )
+ _expression_. `WindowSelectionChange`( `_Window_`, `_sel_`, `_selType_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -38,6 +38,6 @@ nothing
 
 ## Remarks
 
-The  **WindowSelectionChange** event does not occur when changing the selection on the right pane of a **Task Usage** or **Resource Usage** view, or when changing the selection within a node in the ** Network Diagram** view.
+The  **WindowSelectionChange** event does not occur when changing the selection on the right pane of a **Task Usage** or **Resource Usage** view, or when changing the selection within a node in the **Network Diagram** view.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' 
 
 ## Remarks
 
- The **Negative** property corresponds to the setting of the **Negative Point** check box in the **Show** section, and of the **Negative Points** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+ The **Negative** property corresponds to the setting of the **Negative Point** check box in the **Show** section, and of the **Negative Points** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also

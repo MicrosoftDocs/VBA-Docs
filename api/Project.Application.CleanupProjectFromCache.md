@@ -19,7 +19,7 @@ Deletes the specified project file from the local cache. Available only in Proje
 
 ## Syntax
 
- _expression_. `CleanupProjectFromCache`( ` _Filename_` )
+ _expression_. `CleanupProjectFromCache`( `_Filename_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

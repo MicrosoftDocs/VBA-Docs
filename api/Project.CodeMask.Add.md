@@ -19,7 +19,7 @@ Returns a  **[CodeMaskLevel ](Project.CodeMaskLevel.md)** object.
 
 ## Syntax
 
- _expression_. `Add`( ` _Sequence_`, ` _Length_`, ` _Separator_` )
+ _expression_. `Add`( `_Sequence_`, `_Length_`, `_Separator_` )
 
  _expression_ A variable that represents a 'CodeMask' object.
 

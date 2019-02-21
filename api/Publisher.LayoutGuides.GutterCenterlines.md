@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-The  **GutterCenterlines** property can only be used if the ** [LayoutGuides.Rows](Publisher.LayoutGuides.Rows.md)** property or the ** [LayoutGuides.Columns](Publisher.LayoutGuides.Columns.md)** property is greater than 1.
+The  **GutterCenterlines** property can only be used if the **[LayoutGuides.Rows](Publisher.LayoutGuides.Rows.md)** property or the **[LayoutGuides.Columns](Publisher.LayoutGuides.Columns.md)** property is greater than 1.
 
 If  **True**, a red line appears in the center of the gutter guides. If  **False**, no line appears in the center of the gutter guides. The default value is  **False**.
 

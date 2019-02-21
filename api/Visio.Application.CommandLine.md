@@ -42,7 +42,7 @@ The following table includes other command line switches you can use to start th
 |/nonew|The  **New** tab is not shown on startup.|
 |/nologo|The startup screen is not shown on startup.|
 |/p filename|The  **Print** dialog box is shown, so that you can quickly print a file.|
-|filename|Opens a Visio file. Either the file has to be in the  **Drawings** file path in the **File Locations** dialog box (click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click ** File Locations**), or you must name an absolute path.|
+|filename|Opens a Visio file. Either the file has to be in the  **Drawings** file path in the **File Locations** dialog box (click the **File** tab, click **Options**, click  **Advanced**, and then, under  **General**, click **File Locations**), or you must name an absolute path.|
 |/1, /2, /3,.../9|Opens one of the last-opened files.|
 |/noreg|Prevents Visio from registering itself.|
 |/u|Unregisters Visio.|

@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.Control.LayoutID
 ms.assetid: 1cf53242-e9e8-dc87-907a-788036844f4c
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
 
 # Control.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified control. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified control. Read-only **Long**.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[Control](Access.Control.md)** objec
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
-
-## See also
-
-
-[Control Object](Access.Control.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

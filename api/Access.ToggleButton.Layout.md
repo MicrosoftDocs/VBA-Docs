@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.Layout
 ms.assetid: 28602d7f-17c1-a54d-82d3-dfa15a88de4a
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.Layout property (Access)
 
-Returns the type of layout for the specified toggle button. Read-only  **[AcLayoutType](Access.AcLayoutType.md)**.
+Returns the type of layout for the specified toggle button. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**Layout**
 _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

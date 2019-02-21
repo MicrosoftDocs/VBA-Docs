@@ -19,7 +19,7 @@ The Dirty event occurs when the contents of the specified control changes.
 
 ## Syntax
 
-_expression_. `Dirty`( ` _Cancel_`, )
+_expression_. `Dirty`( `_Cancel_` )
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 

@@ -220,7 +220,7 @@ You can create a Web-based application that enables users to select a company na
     
 11. Add the following code to the **WebForm1.aspx** file, overwriting the part of the file bounded by the opening and closing `<html>` tags.
     
-    ```html
+    ```asp
         <html xmlns="https://www.w3.org/1999/xhtml">
         <head runat="server">
             <title>Data-Driven Document Generation - SQL Server Sample</title>
@@ -372,7 +372,7 @@ End Class
 ```
 
 
-## Sample Code: C#
+## Sample Code: C\#
 
 The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the **WebForm1.Aspx.cs** file, copying over the existing code.
 

@@ -61,7 +61,7 @@ Following is the format of the XML string returned by  **GetProjectServerSetting
     
 
 
- **AdminTrackingLocked -** Whether or not managers are forced to use the tracking method specified on the server for all projects. You can see this on Project Web App by going to ** Server Settings->(Time and task management section)Task Settings and Display->Tracking Method** property. It can be one of the following:
+ **AdminTrackingLocked -** Whether or not managers are forced to use the tracking method specified on the server for all projects. You can see this on Project Web App by going to **Server Settings->(Time and task management section)Task Settings and Display->Tracking Method** property. It can be one of the following:
 
 
 - 0 = Managers are not forced.

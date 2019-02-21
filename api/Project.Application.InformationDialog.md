@@ -19,7 +19,7 @@ Displays the  **Assignment Information**,  **Resource Information**, or  **Task 
 
 ## Syntax
 
- _expression_. `InformationDialog`( ` _Tab_` )
+ _expression_. `InformationDialog`( `_Tab_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -30,7 +30,7 @@ Displays the  **Assignment Information**,  **Resource Information**, or  **Task 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Tab_|Optional|**Long**|The tab to display in the ** Assignment Information**, **Resource Information**, or  **Task Information** dialog box.|
+| _Tab_|Optional|**Long**|The tab to display in the **Assignment Information**, **Resource Information**, or  **Task Information** dialog box.|
 
 ## Return value
 

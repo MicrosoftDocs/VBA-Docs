@@ -19,7 +19,7 @@ The  **TransferDatabase** method carries out the TransferDatabase action in Visu
 
 ## Syntax
 
-_expression_. `TransferDatabase`( ` _TransferType_`, ` _DatabaseType_`, ` _DatabaseName_`, ` _ObjectType_`, ` _Source_`, ` _Destination_`, ` _StructureOnly_`, ` _StoreLogin_` )
+_expression_. `TransferDatabase`( `_TransferType_`, `_DatabaseType_`, `_DatabaseName_`, `_ObjectType_`, `_Source_`, `_Destination_`, `_StructureOnly_`, `_StoreLogin_` )
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 

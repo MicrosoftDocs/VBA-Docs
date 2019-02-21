@@ -30,7 +30,7 @@ Use the following steps to install a Data Services data connection in your datab
     
 3. In the  **Import &amp; Link** group, click the **More** dropdown and then click **Data Services**.
     
-4. At the bottom of the ** Create Link to Data Services** dialog box, click **Install New Connection**.
+4. At the bottom of the **Create Link to Data Services** dialog box, click **Install New Connection**.
     
 5. In the  **Select a connection definition file** dialog box, browse to and select the XML file that contains the description of the Data Service.
     

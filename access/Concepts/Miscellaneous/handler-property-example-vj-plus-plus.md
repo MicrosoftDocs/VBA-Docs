@@ -16,7 +16,7 @@ This example demonstrates the [RDS DataControl](https://msdn.microsoft.com/libra
 
 Assume that the following sections in the parameter file, Msdfmap.ini, are located on the server:
 
-```sql
+```ini
  
 [connect AuthorDataBase] 
 Access=ReadWrite 

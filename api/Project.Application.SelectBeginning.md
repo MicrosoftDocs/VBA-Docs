@@ -19,7 +19,7 @@ Selects the first cell in the active table or view.
 
 ## Syntax
 
- _expression_. `SelectBeginning`( ` _Extend_` )
+ _expression_. `SelectBeginning`( `_Extend_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

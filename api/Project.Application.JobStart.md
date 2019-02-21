@@ -16,7 +16,7 @@ Occurs before the queue job is put on the server queue. Project Professional onl
 
 ## Syntax
 
- _expression_. `JobStart`( ` _bstrName_`, ` _bstrprojGuid_`, ` _bstrjobGuid_`, ` _jobType_`, ` _lResult_` )
+ _expression_. `JobStart`( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
@@ -40,6 +40,6 @@ nothing
 
 ## Remarks
 
-More details about the Queue job can be obtained by making the ** getJobCompletionState PSI** call on the **QueueSystem.asmx** webservice with the job GUID.
+More details about the Queue job can be obtained by making the **getJobCompletionState PSI** call on the **QueueSystem.asmx** webservice with the job GUID.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

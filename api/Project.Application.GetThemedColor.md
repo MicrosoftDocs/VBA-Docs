@@ -19,7 +19,7 @@ Returns the color of the specified theme element type in the Project Guide. Depr
 
 ## Syntax
 
- _expression_. `GetThemedColor`( ` _elementType_` )
+ _expression_. `GetThemedColor`( `_elementType_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

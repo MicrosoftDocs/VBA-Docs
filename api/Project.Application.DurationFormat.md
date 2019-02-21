@@ -19,7 +19,7 @@ Returns a duration in the specified units.
 
 ## Syntax
 
- _expression_. `DurationFormat`( ` _Duration_`, ` _Units_` )
+ _expression_. `DurationFormat`( `_Duration_`, `_Units_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ListBox.OldBorderStyle
 ms.assetid: 4da79825-91df-d731-ec39-c1d304972077
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
 
 # ListBox.OldBorderStyle property (Access)
 
-You can use this property to set or returns the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
+You can use this property to set or return the unedited value of the **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 ## Remarks
 
-The  **OldBorderStyle** property uses the following settings.
-
-
+The **OldBorderStyle** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -42,12 +40,10 @@ The  **OldBorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
- **Note**  
-
 
 ## Example
 
-The following example demonstrates the effect of changing a control's  **BorderStyle** property, while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
+The following example demonstrates the effect of changing a control's **BorderStyle** property while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
 
 
 ```vb
@@ -69,10 +65,5 @@ With Forms("Order Entry").Controls("Zip Code")
 End With
 ```
 
-
-## See also
-
-
-[ListBox Object](Access.ListBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

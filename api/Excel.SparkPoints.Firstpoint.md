@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' 
 
 ## Remarks
 
-The  **Firstpoint** property corresponds to the setting of the **First Point** check box in the **Show** section, and of the **First Point** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The  **Firstpoint** property corresponds to the setting of the **First Point** check box in the **Show** section, and of the **First Point** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also

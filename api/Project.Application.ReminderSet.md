@@ -19,7 +19,7 @@ Sets a reminder in Microsoft Outlook for the start time or finish time of the ac
 
 ## Syntax
 
- _expression_. `ReminderSet`( ` _Start_`, ` _LeadTime_` )
+ _expression_. `ReminderSet`( `_Start_`, `_LeadTime_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 
