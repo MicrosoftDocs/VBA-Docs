@@ -69,7 +69,7 @@ Public Sub Validate_Field()
  curChange = Abs(curNewValue - curOriginalValue) 
  
  If curChange > (curOriginalValue * .1) Then 
- strMsg = "Change is more than 10% of original unit price. " _ 
+ strMsg = "Change is more than 10% of original unit price." _ 
  & "Restoring original unit price." 
  MsgBox strMsg, vbExclamation, "Invalid change." 
  Forms!Products!UnitPrice = curOriginalValue 
