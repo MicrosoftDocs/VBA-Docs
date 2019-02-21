@@ -43,7 +43,7 @@ The **OldBorderStyle** property uses the following settings.
 
 ## Example
 
-The following example demonstrates the effect of changing a control's **BorderStyle** property, while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
+The following example demonstrates the effect of changing a control's **BorderStyle** property while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
 
 
 ```vb
@@ -64,8 +64,6 @@ With Forms("Order Entry").Controls("Zip Code")
         "OldBorderStyle = " & .OldBorderStyle  ' Prints 1, 1 
 End With
 ```
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

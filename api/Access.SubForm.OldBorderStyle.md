@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.SubForm.OldBorderStyle
 ms.assetid: 1ca8384c-66c6-3e07-f269-7ec1c989b6c1
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
 
 # SubForm.OldBorderStyle property (Access)
 
-You can use this property to set or returns the unedited value of the  **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
+You can use this property to set or return the unedited value of the **BorderStyle** property for a form or control. This property is useful if you need to revert to an unedited or preferred border style. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents a **[SubForm](Access.SubForm.md)** objec
 
 ## Remarks
 
-The  **OldBorderStyle** property uses the following settings.
-
-
+The **OldBorderStyle** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -42,12 +40,10 @@ The  **OldBorderStyle** property uses the following settings.
 |Dash dot dot|7|Line with a dash-dot-dot combination|
 |Double solid|8|Double solid lines|
 
- **Note**  
-
 
 ## Example
 
-The following example demonstrates the effect of changing a control's  **BorderStyle** property, while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
+The following example demonstrates the effect of changing a control's **BorderStyle** property while leaving the **OldBorderStyle** unaffected. The example concludes with setting the **BorderStyle** property to its original unedited value.
 
 
 ```vb
@@ -69,10 +65,5 @@ With Forms("Order Entry").Controls("Zip Code")
 End With
 ```
 
-
-## See also
-
-
-[SubForm Object](Access.SubForm.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
