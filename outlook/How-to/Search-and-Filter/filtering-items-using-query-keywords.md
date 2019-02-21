@@ -45,7 +45,7 @@ You can combine the **Is Null** keywords with the **Not** operator to evaluate i
     
 The following DASL query retrieves all contacts where the custom property **Order Date** is not null and the **[CompanyName](../../../api/Outlook.ContactItem.CompanyName.md)** property is exactly Microsoft:
     
-```sql
+```vb
   criteria = "@SQL=" & "(NOT(" _ 
 & Chr(34) & "http://schemas.microsoft.com/mapi/string/" _ 
 & "{00020329-0000-0000-C000-000000000046}/Order%20Date" & Chr(34) _ 
