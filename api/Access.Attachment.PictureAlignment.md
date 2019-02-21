@@ -36,7 +36,7 @@ The **PictureAlignment** property uses the following settings.
 |Bottom Left|3|The picture is displayed in the bottom-left corner of the control.|
 |Bottom Right|4|The picture is displayed in the bottom-right corner of the control.|
 
-You can also set the default for this property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can also set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 This property can be set in any view.
 

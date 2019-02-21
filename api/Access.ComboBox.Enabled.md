@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ComboBox.Enabled
 ms.assetid: 69952de0-af27-32fe-0567-6558e85f53c5
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.Enabled property (Access)
 
-You can use the  **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
+You can use the **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
 
 
 ## Syntax
@@ -26,14 +26,11 @@ _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** obj
 
 ## Remarks
 
-The  **Enabled** property setting is a value that indicates whether the conditional format is enabled or disabled. **True** enables the conditional format. **False** disables the conditional format. The default is **True**.
+The **Enabled** property setting is a value that indicates whether the conditional format is enabled or disabled. **True** enables the conditional format. **False** disables the conditional format. The default is **True**.
 
-When the  **Enabled** property is **True**, the conditional format can be displayed in the **Conditional Formatting** dialog box.
-
-
-## See also
+When the **Enabled** property is **True**, the conditional format can be displayed in the **Conditional Formatting** dialog box.
 
 
-[ComboBox Object](Access.ComboBox.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.Control.HorizontalAnchor
 ms.assetid: e81daacc-3c0b-608c-aea1-e01bc162b6b3
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # Control.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the control is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the control is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[Control](Access.Control.md)** objec
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
-
-## See also
-
-
-[Control Object](Access.Control.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

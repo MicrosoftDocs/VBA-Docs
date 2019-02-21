@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.HorizontalAnchor
 ms.assetid: a68f440f-99fd-54f1-bcc0-e06502ac2dbc
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # NavigationButton.HorizontalAnchor property (Access)
 
-Gets or sets an  **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
-
-## See also
-
-
-[NavigationButton Object](Access.NavigationButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

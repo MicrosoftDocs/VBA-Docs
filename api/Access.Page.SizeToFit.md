@@ -40,7 +40,7 @@ You can use the **SizeToFit** method in conjunction with the **[CreateControl](A
 
 ## Example
 
-The following example creates a new form and creates a new command button on the form. The procedure then sets the control's **Caption** property and sizes the control to fit the caption.
+The following example creates a new form and a command button on the form. The procedure then sets the control's **Caption** property and sizes the control to fit the caption.
 ```vb
 Sub SizeNewControl() 
  Dim frm As Form, ctl As Control 

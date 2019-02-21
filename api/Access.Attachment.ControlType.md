@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Attachment.ControlType property (Access)
 
-You can use the **ControlType** property in Visual Basic to determine the type of a control on a form or report. Read/write **Byte**.
+You can use the **ControlType** property in Visual Basic to determine the type of control on a form or report. Read/write **Byte**.
 
 
 ## Syntax

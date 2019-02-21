@@ -38,7 +38,7 @@ The  **LabelAlign** property uses the following settings.
 |3|The label text aligns to the right.|
 |4|The label text is evenly distributed.|
 
-You can set the  **LabelAlign** property by using a control's default control style or the **DefaultControl** property in Visual Basic.
+You can set the  **LabelAlign** property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 When created, controls have an attached label (as long as their  **AutoLabel** property is set to Yes). Changes to the **LabelAlign** default control style setting affect only controls created on the current form or report.
 

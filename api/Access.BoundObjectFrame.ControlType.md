@@ -34,14 +34,14 @@ The **ControlType** property is useful not only for checking for a specific cont
 
 You can use the **ControlType** property to change characteristics of similar controls on a form according to certain conditions. For example, if you don't want users to edit existing data in text boxes, you can set the **SpecialEffect** property for all text boxes to Flat and set the form's **AllowEdits** property to No. (The **SpecialEffect** property doesn't affect whether data can be edited; it's used here to provide a visual cue that the control behavior has changed.)
 
-The **ControlType** property is also used to specify the type of control to create when you are using the **[CreateControl](Access.Application.CreateControl.md)** method.
+The **ControlType** property is also used to specify the type of control to create when you are using the **CreateControl** method.
 
 
 ## Example
 
 The following example examines the **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. 
 
-When the label controls' **SpecialEffect** property is set to Shadowed, and the text box controls' **SpecialEffect** property is set to Normal, and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
+When the **SpecialEffect** property of the label control is set to Shadowed, and the **SpecialEffect** property of the text box control is set to Normal, and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
 
 
 ```vb

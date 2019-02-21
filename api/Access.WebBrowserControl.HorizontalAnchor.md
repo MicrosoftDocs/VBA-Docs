@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.HorizontalAnchor
 ms.assetid: 42f1b968-5b61-2d17-85f8-a354db3d8e51
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.HorizontalAnchor property (Access)
 
-Gets or sets an [AcHorizontalAnchor](Access.AcHorizontalAnchor.md) constant that indicates how the text box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowse
 
 ## Remarks
 
-The default value is  **acHorizontalAnchorLeft**.
+The default value is **acHorizontalAnchorLeft**.
 
-
-## See also
-
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

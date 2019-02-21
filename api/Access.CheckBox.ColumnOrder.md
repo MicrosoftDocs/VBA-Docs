@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.CheckBox.ColumnOrder
 ms.assetid: b485afc6-b19a-cd0a-990e-9de14f6f9104
-ms.date: 06/08/2017
+ms.date: 02/21/2019
 localization_priority: Normal
 ---
 
 
 # CheckBox.ColumnOrder property (Access)
 
-You can use the  **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
+You can use the **ColumnOrder** property to specify the order of the columns in Datasheet view. Read/write **Integer**.
 
 
 ## Syntax
@@ -26,34 +26,31 @@ _expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** obj
 
 ## Remarks
 
-To set or change this property for a table or query by using Visual Basic, you must use a column's  **Properties** collection. For details on using the **Properties** collection, see **Properties**.
+To set or change this property for a table or query by using Visual Basic, you must use a column's **Properties** collection. For more information about using the **Properties** collection, see **[Properties](Access.CheckBox.properties.md)**.
 
+The **ColumnOrder** property isn't available in Design view.
 
- **Note**  The  **ColumnOrder** property isn't available in Design view.
+The **ColumnOrder** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-The  **ColumnOrder** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+In Datasheet view, a field's **ColumnOrder** property setting is determined by the field's position. For example, the field in the leftmost column in Datasheet view has a **ColumnOrder** property setting of 1, the next field has a setting of 2, and so on. Changing a field's **ColumnOrder** property resets the property for that field and every field to the left of its original position in Datasheet view.
 
-In Datasheet view, a field's  **ColumnOrder** property setting is determined by the field's position. For example, the field in the leftmost column in Datasheet view has a **ColumnOrder** property setting of 1, the next field has a setting of 2, and so on. Changing a field's **ColumnOrder** property resets the property for that field and every field to the left of its original position in Datasheet view.
-
-In other views, the property setting is 0 unless you explicitly change the order of one or more fields in Datasheet view (either by dragging the fields to new positions or by changing their  **ColumnOrder** property settings). Fields to the right of the moved field's new position will have a property setting of 0 in views other than Datasheet view.
+In other views, the property setting is 0 unless you explicitly change the order of one or more fields in Datasheet view (either by dragging the fields to new positions or by changing their **ColumnOrder** property settings). Fields to the right of the moved field's new position will have a property setting of 0 in views other than Datasheet view.
 
 The order of the fields in Datasheet view doesn't affect the order of the fields in table Design view or Form view.
 
 
 ## Example
 
-The following example displays the ProductName and QuantityPerUnit fields in the first two columns in Datasheet view of the Products form.
-
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns in Datasheet view of the **Products** form.
 
 ```vb
 Forms!Products!ProductName.ColumnOrder = 1 
 Forms!Products!QuantityPerUnit.ColumnOrder = 2
 ```
 
-The next example displays the ProductName and QuantityPerUnit fields in the first two columns of the Products table in Datasheet view. To set the  **ColumnOrder** property, the example uses the SetFieldProperty procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
+<br/>
 
-
-
+The following example displays the **ProductName** and **QuantityPerUnit** fields in the first two columns of the **Products** table in Datasheet view. To set the **ColumnOrder** property, the example uses the **SetFieldProperty** procedure. If this procedure is run while the table is open, changes will not be displayed until it is closed and reopened.
 
 ```vb
 Public Sub SetColumnOrder() 
@@ -107,9 +104,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[CheckBox Object](Access.CheckBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
