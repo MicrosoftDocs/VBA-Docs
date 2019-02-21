@@ -372,7 +372,7 @@ End Class
 ```
 
 
-## Sample Code: C#
+## Sample Code: C\#
 
 The following C# sample shows how to bind to a SQL Server database to retrieve data based on a customer selection and create a new document based on the CustomerLetterGenerator.docm template document. Add the following code to the **WebForm1.Aspx.cs** file, copying over the existing code.
 
