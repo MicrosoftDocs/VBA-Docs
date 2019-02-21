@@ -19,7 +19,7 @@ The  **Line** method draws lines and rectangles on a **Report** object when the 
 
 ## Syntax
 
-_expression_. `Line` ( ` _Step_` ( `x1,  _y1_` ) - ` _Step_` ( ` _x2, y2_` ), ` _color_`, ` _BF_` )
+_expression_. `Line` ( `_Step_` ( `x1,  _y1_` ) - `_Step_` ( `_x2, y2_` ), `_Color_`, `_BF_` )
 
 _expression_ Required. A variable that represents a **[Report](Access.Report.md)** object. An expression that returns one of the objects in the **Applies To** list.
 

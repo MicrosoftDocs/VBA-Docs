@@ -19,7 +19,7 @@ Turns selection extension on or off.
 
 ## Syntax
 
- _expression_. `SelectionExtend`( ` _Extend_`, ` _Add_` )
+ _expression_. `SelectionExtend`( `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

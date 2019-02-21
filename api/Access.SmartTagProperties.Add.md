@@ -19,7 +19,7 @@ Adds a custom property to a smart tag.
 
 ## Syntax
 
-_expression_. `Add`( ` _Name_`, ` _Value_` )
+_expression_. `Add`( `_Name_`, `_Value_` )
 
 _expression_ A variable that represents a **[SmartTagProperties](Access.SmartTagProperties.md)** object.
 

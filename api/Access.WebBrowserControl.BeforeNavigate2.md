@@ -19,7 +19,7 @@ Occurs before navigation occurs in the given  **WebBrowserControl**.
 
 ## Syntax
 
-_expression_. `BeforeNavigate2`( ` _pDisp_`, ` _URL_`, ` _flags_`, ` _TargetFrameName_`, ` _PostData_`, ` _Headers_`, ` _Cancel_` )
+_expression_. `BeforeNavigate2`( `_pDisp_`, `_URL_`, `_flags_`, `_TargetFrameName_`, `_PostData_`, `_Headers_`, `_Cancel_` )
 
 _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 

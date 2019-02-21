@@ -19,7 +19,7 @@ Edits a local outline code custom field definition.
 
 ## Syntax
 
- _expression_. `CustomOutlineCodeEditEx`( ` _FieldID_`, ` _Level_`, ` _Sequence_`, ` _Length_`, ` _Separator_`, ` _OnlyLookUpTableCodes_`, ` _OnlyCompleteCodes_`, ` _OnlyLeaves_`, ` _MatchGeneric_`, ` _RequiredCode_`, ` _LookupDefault_`, ` _DefaultValue_`, ` _SortOrder_` )
+ _expression_. `CustomOutlineCodeEditEx`( `_FieldID_`, `_Level_`, `_Sequence_`, `_Length_`, `_Separator_`, `_OnlyLookUpTableCodes_`, `_OnlyCompleteCodes_`, `_OnlyLeaves_`, `_MatchGeneric_`, `_RequiredCode_`, `_LookupDefault_`, `_DefaultValue_`, `_SortOrder_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

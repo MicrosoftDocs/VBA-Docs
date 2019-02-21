@@ -19,7 +19,7 @@ The  **GoToPage** method moves the focus to the first control on a specified pag
 
 ## Syntax
 
-_expression_. `GoToPage`( ` _PageNumber_`, ` _Right_`, ` _Down_` )
+_expression_. `GoToPage`( `_PageNumber_`, `_Right_`, `_Down_` )
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 

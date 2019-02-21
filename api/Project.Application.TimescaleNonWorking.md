@@ -19,7 +19,7 @@ Sets the format of nonworking times.
 
 ## Syntax
 
- _expression_. `TimescaleNonWorking`( ` _Draw_`, ` _Calendar_`, ` _Color_`, ` _Pattern_` )
+ _expression_. `TimescaleNonWorking`( `_Draw_`, `_Calendar_`, `_Color_`, `_Pattern_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

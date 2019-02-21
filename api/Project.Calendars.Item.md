@@ -16,7 +16,7 @@ Gets a single  **Calendar** object from the **Calendars** collection. Read-only 
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ A variable that represents a 'Calendars' object.
 

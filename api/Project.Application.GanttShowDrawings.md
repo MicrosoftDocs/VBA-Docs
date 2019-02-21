@@ -19,7 +19,7 @@ Shows or hides drawings on the Gantt Chart.
 
 ## Syntax
 
- _expression_. `GanttShowDrawings`( ` _Display_` )
+ _expression_. `GanttShowDrawings`( `_Display_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

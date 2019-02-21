@@ -19,7 +19,7 @@ Adds a  **ViewCombination** object to a **ViewsCombination** collection.
 
 ## Syntax
 
- _expression_. `Add`( ` _Name_`, ` _TopView_`, ` _BottomView_`, ` _ShowInMenu_` )
+ _expression_. `Add`( `_Name_`, `_TopView_`, `_BottomView_`, `_ShowInMenu_` )
 
  _expression_ A variable that represents a 'ViewsCombination' object.
 

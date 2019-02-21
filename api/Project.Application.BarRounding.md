@@ -19,7 +19,7 @@ Controls whether the start times of tasks are reflected by their corresponding t
 
 ## Syntax
 
- _expression_. `BarRounding`( ` _On_` )
+ _expression_. `BarRounding`( `_On_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

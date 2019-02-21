@@ -19,7 +19,7 @@ Edits an enterprise calendar. Available in Project Professional only.
 
 ## Syntax
 
- _expression_. `EditEnterpriseCalendar`( ` _UniqueID_` )
+ _expression_. `EditEnterpriseCalendar`( `_UniqueID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

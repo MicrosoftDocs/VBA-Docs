@@ -19,7 +19,7 @@ Displays the  **Assign Resources** dialog box, expands or collapses the **Resour
 
 ## Syntax
 
- _expression_. `ResourceAssignmentDialog`( ` _ShowResourceListOptions_`, ` _ResourceListFields_`, ` _UseNamedFilter_`, ` _FilterName_`, ` _UseAvailableToWorkFilter_`, ` _AvailableToWork_` )
+ _expression_. `ResourceAssignmentDialog`( `_ShowResourceListOptions_`, `_ResourceListFields_`, `_UseNamedFilter_`, `_FilterName_`, `_UseAvailableToWorkFilter_`, `_AvailableToWork_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

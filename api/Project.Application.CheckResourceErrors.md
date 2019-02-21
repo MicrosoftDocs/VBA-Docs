@@ -19,7 +19,7 @@ Checks for errors when resources are imports to the enterprise, or when enterpri
 
 ## Syntax
 
- _expression_. `CheckResourceErrors`( ` _LocalRUID_`, ` _ResetImport_`, ` _CheckEnterprise_` )
+ _expression_. `CheckResourceErrors`( `_LocalRUID_`, `_ResetImport_`, `_CheckEnterprise_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

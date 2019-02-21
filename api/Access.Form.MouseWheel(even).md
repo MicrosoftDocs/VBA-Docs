@@ -19,7 +19,7 @@ Occurs when the user rolls the mouse wheel in Form View, Split Form View, Datash
 
 ## Syntax
 
-_expression_. `MouseWheel`( ` _Page_`, ` _Count_` )
+_expression_. `MouseWheel`( `_Page_`, `_Count_` )
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 

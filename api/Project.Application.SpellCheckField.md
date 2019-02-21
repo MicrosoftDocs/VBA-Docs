@@ -19,7 +19,7 @@ Checks the spelling of text custom fields.
 
 ## Syntax
 
- _expression_. `SpellCheckField`( ` _FieldName_`, ` _EnableSpellCheck_` )
+ _expression_. `SpellCheckField`( `_FieldName_`, `_EnableSpellCheck_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

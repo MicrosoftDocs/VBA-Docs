@@ -19,7 +19,7 @@ Sets options for the calendar of the active project.
 
 ## Syntax
 
- _expression_. `OptionsCalendar`( ` _StartWeekOnMonday_`, ` _StartYearIn_`, ` _StartTime_`, ` _FinishTime_`, ` _HoursPerDay_`, ` _HoursPerWeek_`, ` _SetDefaults_`, ` _StartWeekOn_`, ` _UseFYStartYear_`, ` _DaysPerMonth_` )
+ _expression_. `OptionsCalendar`( `_StartWeekOnMonday_`, `_StartYearIn_`, `_StartTime_`, `_FinishTime_`, `_HoursPerDay_`, `_HoursPerWeek_`, `_SetDefaults_`, `_StartWeekOn_`, `_UseFYStartYear_`, `_DaysPerMonth_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

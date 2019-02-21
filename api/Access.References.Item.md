@@ -19,7 +19,7 @@ The  **Item** method returns a specific member of a collection either by positio
 
 ## Syntax
 
-_expression_. `Item`( ` _var_` )
+_expression_. `Item`( `_var_` )
 
 _expression_ A variable that represents a **[References](Access.References.md)** object.
 

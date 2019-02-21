@@ -16,7 +16,7 @@ Adds a  **Table** object to a **Tables** collection.
 
 ## Syntax
 
- _expression_. `Add`( ` _Name_`, ` _Field_`, ` _Task_` )
+ _expression_. `Add`( `_Name_`, `_Field_`, `_Task_` )
 
  _expression_ A variable that represents a 'Tables' object.
 

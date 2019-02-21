@@ -19,7 +19,7 @@ The  **OpenDataAccessPage** method carries out the OpenDataAccessPage action in 
 
 ## Syntax
 
-_expression_. `OpenDataAccessPage`( ` _DataAccessPageName_`, ` _View_` )
+_expression_. `OpenDataAccessPage`( `_DataAccessPageName_`, `_View_` )
 
 _expression_ An expression that returns a [DoCmd](Access.DoCmd.md) object.
 
