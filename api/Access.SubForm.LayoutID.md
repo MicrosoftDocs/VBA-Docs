@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.SubForm.LayoutID
 ms.assetid: ec73504d-252b-40d5-aabf-5ac128cbe778
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
 
 # SubForm.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified subform. Read-only  **Long**.
+Returns the unique identifier for the layout that contains the specified subform. Read-only **Long**.
 
 
 ## Syntax
@@ -26,12 +26,7 @@ _expression_ A variable that represents a **[SubForm](Access.SubForm.md)** objec
 
 ## Remarks
 
-The  **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
+The **LayoutID** property returns 0 (zero) if the specified control is not part of a layout.
 
-
-## See also
-
-
-[SubForm Object](Access.SubForm.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
