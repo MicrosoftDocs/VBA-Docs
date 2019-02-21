@@ -21,7 +21,7 @@ localization_priority: Normal
    - To display the shortcut menu of the entire **[MultiPage](../../reference/user-interface-help/multipage-control.md)**, right-click anywhere in the control, but not on the caption of any **Page** in the control.
     
 
-  ## See also
+## See also
 
 - [Microsoft Forms reference](../../reference/user-interface-help/reference-microsoft-forms.md)
 - [Microsoft Forms conceptual topics](../../reference/user-interface-help/concepts-microsoft-forms.md)
