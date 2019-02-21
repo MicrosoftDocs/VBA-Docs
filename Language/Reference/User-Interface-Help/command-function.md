@@ -22,15 +22,11 @@ Returns the [argument](../../Glossary/vbe-glossary.md#argument) portion of the [
 
 When Visual Basic is launched from the command line, any portion of the command line that follows `/cmd` is passed to the program as the command-line argument. In the following command line example, `cmdlineargs` represents the argument information returned by the **Command** function.
 
-```text
-VB /cmd cmdlineargs
-```
+    VB /cmd cmdlineargs
 
 For applications developed with Visual Basic and compiled to an .exe file, **Command** returns any arguments that appear after the name of the application on the command line. For example:
 
-```text
-MyApp cmdlineargs
-```
+    MyApp cmdlineargs
 
 To find how command line arguments can be changed in the user interface of the application you are using, search Help for "command line arguments."
 

@@ -37,7 +37,7 @@ This example uses the Employees table to return the values from the LastName fie
 
 This example calls the EnumFields procedure, which you can find in the SELECT statement example.
 
-```sql
+```vb
 Sub FirstLastX1() 
  
     Dim dbs As Database, rst As Recordset 
@@ -68,7 +68,7 @@ End Sub
 
 The next example compares using the **First** and **Last** functions with simply using the **Min** and **Max** functions to find the earliest and latest birth dates of Employees.
 
-```sql
+```vb
 Sub FirstLastX2() 
  
     Dim dbs As Database, rst As Recordset 

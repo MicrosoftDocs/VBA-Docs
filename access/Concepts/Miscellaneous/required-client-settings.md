@@ -26,7 +26,7 @@ RDS provides a default handler on the server named **MSDFMAP.Handler**. (The def
 
 Assume that the following sections in **MSDFMAP.INI** and the data source name, AdvWorks, have been previously defined:
 
-```sql
+```ini
 [connect CustomerDataBase] 
 Access=ReadWrite 
 Connect="DSN=AdvWorks" 

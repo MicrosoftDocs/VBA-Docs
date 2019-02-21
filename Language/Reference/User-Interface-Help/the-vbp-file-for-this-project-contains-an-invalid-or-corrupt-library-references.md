@@ -15,11 +15,9 @@ localization_priority: Normal
 When you save a [project](../../Glossary/vbe-glossary.md#project) for which a reference has been selected from the **References** dialog box, an entry is made in the project's .vbp file (called the .mak file in earlier versions of Visual Basic). For example, the entry for a data access object is:
 
 
-```text
-Reference=*\G{00025E01-0000-0000-C000-000000000046}#0.0#0#C:\WINDOWS\SYSTEM\DAO2516.DLL#Microsoft 
-DAO 2.5 Object Library 
+    Reference=*\G{00025E01-0000-0000-C000-000000000046}#0.0#0#C:\WINDOWS\SYSTEM\DAO2516.DLL#Microsoft 
+    DAO 2.5 Object Library 
 
-```
 
 
 This error occurs when such a reference has been edited or corrupted. This error has the following cause and solution:

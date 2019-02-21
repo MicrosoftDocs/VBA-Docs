@@ -46,12 +46,10 @@ The following example shows the contents of a sample registry-editor (.reg) file
 
 
 
-```text
-[HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace] 
-"FriendlyName"="Sample Add-in" 
-"Description"="Sample Outlook Add-In" 
-"LoadBehavior"=dword:00000008
-```
+    [HKEY_CURRENT_USER\Software\Microsoft\Office\Outlook\Addins\SampleAddIn.AddInIFace]
+    "FriendlyName"="Sample Add-in"
+    "Description"="Sample Outlook Add-In"
+    "LoadBehavior"=dword:00000008
 
 When the COM add-in is first registered,  **LoadBehavior** can be set to any of the following flags.
 

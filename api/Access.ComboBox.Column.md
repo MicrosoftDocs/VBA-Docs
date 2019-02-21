@@ -47,9 +47,7 @@ You can use the  **Column** property to assign the contents of a combo box or li
 
 
 
-```text
-=Forms!Customers!CompanyName.Column(1)
-```
+    =Forms!Customers!CompanyName.Column(1)
 
 If the user has made no selection when you refer to a column in a combo box or list box, the  **Column** property setting will be **Null**. You can use the **IsNull** function to determine if a selection has been made, as in the following example:
 
