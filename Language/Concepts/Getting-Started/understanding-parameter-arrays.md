@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-#  Understanding parameter arrays
+# Understanding parameter arrays
 
 A [parameter](../../Glossary/vbe-glossary.md#parameter) [array](../../Glossary/vbe-glossary.md#array) can be used to pass an array of [arguments](../../Glossary/vbe-glossary.md#argument) to a [procedure](../../Glossary/vbe-glossary.md#procedure). You don't have to know the number of elements in the array when you define the procedure.
 
