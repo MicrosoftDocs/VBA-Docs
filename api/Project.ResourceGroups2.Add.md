@@ -16,7 +16,7 @@ Adds a  **[Group2](Project.Group2.md)** object to a **ResourceGroups2** collecti
 
 ## Syntax
 
- _expression_. `Add`( ` _Name_`, ` _FieldName_` )
+ _expression_. `Add`( `_Name_`, `_FieldName_` )
 
  _expression_ An expression that returns a 'ResourceGroups2' object.
 

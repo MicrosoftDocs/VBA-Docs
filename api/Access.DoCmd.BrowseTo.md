@@ -19,7 +19,7 @@ The  **BrowseTo** method performs the BrowseTo action in Visual Basic.
 
 ## Syntax
 
-_expression_. `BrowseTo`( ` _ObjectType_`, ` _ObjectName_`, ` _PathtoSubformControl_`, ` _WhereCondition_`, ` _Page_`, ` _DataMode_` )
+_expression_. `BrowseTo`( `_ObjectType_`, `_ObjectName_`, `_PathtoSubformControl_`, `_WhereCondition_`, `_Page_`, `_DataMode_` )
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 

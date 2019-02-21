@@ -19,7 +19,7 @@ Shows or hides summary tasks in the active Network Diagram.
 
 ## Syntax
 
- _expression_. `SummaryTasksShow`( ` _Show_` )
+ _expression_. `SummaryTasksShow`( `_Show_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

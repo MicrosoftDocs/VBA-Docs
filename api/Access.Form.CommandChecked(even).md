@@ -19,7 +19,7 @@ Occurs when the specified Microsoft Office Web Component determines whether the 
 
 ## Syntax
 
-_expression_. `CommandChecked`( ` _Command_`, ` _Checked_` )
+_expression_. `CommandChecked`( `_Command_`, `_Checked_` )
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 

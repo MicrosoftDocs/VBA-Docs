@@ -19,7 +19,7 @@ For groups where the group hierarchy can be maintained and cell color can be a h
  
 
  
-Use  `TaskGroups(Index)` or ` ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
+Use  `TaskGroups(Index)` or `ResourceGroups(Index)`, where *Index* is the group definition index or group definition name, to return a **Group** object.
  
 
  

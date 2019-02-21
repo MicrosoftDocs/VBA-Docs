@@ -19,7 +19,7 @@ The  **Unload** event occurs after a form is closed but before it's removed from
 
 ## Syntax
 
-_expression_. `Unload`( ` _Cancel_`, )
+_expression_. `Unload`( `_Cancel_` )
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 

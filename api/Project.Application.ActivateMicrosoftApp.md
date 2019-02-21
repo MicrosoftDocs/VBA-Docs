@@ -19,7 +19,7 @@ Activates a Microsoft application if the application is running or starts a new 
 
 ## Syntax
 
- _expression_. `ActivateMicrosoftApp`( ` _Index_` )
+ _expression_. `ActivateMicrosoftApp`( `_Index_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

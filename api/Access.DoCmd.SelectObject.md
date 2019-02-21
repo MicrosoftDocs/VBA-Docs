@@ -19,7 +19,7 @@ The  **SelectObject** method carries out the SelectObject action in Visual Basic
 
 ## Syntax
 
-_expression_. `SelectObject`( ` _ObjectType_`, ` _ObjectName_`, ` _InNavigationPane_` )
+_expression_. `SelectObject`( `_ObjectType_`, `_ObjectName_`, `_InNavigationPane_` )
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 

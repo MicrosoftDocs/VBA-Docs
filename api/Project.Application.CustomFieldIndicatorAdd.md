@@ -19,7 +19,7 @@ Creates a test condition against the value of a custom field to determine which 
 
 ## Syntax
 
- _expression_. `CustomFieldIndicatorAdd`( ` _FieldID_`, ` _Test_`, ` _Value_`, ` _IndicatorID_`, ` _CriteriaList_`, ` _Index_` )
+ _expression_. `CustomFieldIndicatorAdd`( `_FieldID_`, `_Test_`, `_Value_`, `_IndicatorID_`, `_CriteriaList_`, `_Index_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

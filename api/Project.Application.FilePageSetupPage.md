@@ -19,7 +19,7 @@ Sets up pages for printing.
 
 ## Syntax
 
- _expression_. `FilePageSetupPage`( ` _Name_`, ` _Portrait_`, ` _PercentScale_`, ` _PagesTall_`, ` _PagesWide_`, ` _PaperSize_`, ` _FirstPageNumber_` )
+ _expression_. `FilePageSetupPage`( `_Name_`, `_Portrait_`, `_PercentScale_`, `_PagesTall_`, `_PagesWide_`, `_PaperSize_`, `_FirstPageNumber_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

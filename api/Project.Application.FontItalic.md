@@ -19,7 +19,7 @@ Applies or removes italic formatting from the selected text.
 
 ## Syntax
 
- _expression_. `FontItalic`( ` _Set_` )
+ _expression_. `FontItalic`( `_Set_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

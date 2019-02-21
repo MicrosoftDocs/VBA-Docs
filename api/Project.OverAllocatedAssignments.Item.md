@@ -16,7 +16,7 @@ Gets a single  **Assignment** object from the **OverAllocatedAssignments** colle
 
 ## Syntax
 
- _expression_. `Item`( ` _Index_` )
+ _expression_. `Item`( `_Index_` )
 
  _expression_ An expression that returns an 'OverAllocatedAssignments' object.
 

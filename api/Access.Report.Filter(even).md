@@ -19,7 +19,7 @@ Occurs when the user opens a filter window by clicking  **Advanced Filter/Sort**
 
 ## Syntax
 
-_expression_. `Filter`( ` _Cancel_`, ` _FilterType_` )
+_expression_. `Filter`( `_Cancel_`, `_FilterType_` )
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 

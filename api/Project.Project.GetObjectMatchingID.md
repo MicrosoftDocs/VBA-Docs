@@ -19,7 +19,7 @@ Returns the matching identification name of an object.
 
 ## Syntax
 
- _expression_. `GetObjectMatchingID`( ` _ObjectType_`, ` _ObjectName_` )
+ _expression_. `GetObjectMatchingID`( `_ObjectType_`, `_ObjectName_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

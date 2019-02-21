@@ -19,7 +19,7 @@ Specifies which categories are displayed under  **Navigate to Category** in the 
 
 ## Syntax
 
-_expression_. `SetDisplayedCategories`( ` _Show_`, ` _Category_` )
+_expression_. `SetDisplayedCategories`( `_Show_`, `_Category_` )
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 

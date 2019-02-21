@@ -19,7 +19,7 @@ Selects a cell containing task information.
 
 ## Syntax
 
- _expression_. `SelectTaskCell`( ` _Row_`, ` _Column_`, ` _RowRelative_` )
+ _expression_. `SelectTaskCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

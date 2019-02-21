@@ -19,7 +19,7 @@ The **Item** property returns a specific member of a collection either by positi
 
 ## Syntax
 
-_expression_. `Item`( ` _Index_` )
+_expression_. `Item`( `_Index_` )
 
 _expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
