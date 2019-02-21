@@ -33,7 +33,7 @@ When a control is selected, its sizing handles are visible and it can be resized
 
 The following function uses the **InSelection** property to determine whether the **strControlName** control on a form is selected.
 
-To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the Customers form in Design view, and select the **CompanyName** control. You can then enter the following line in the Debug window.
+To test this code, paste the **IsControlSelected** function code in the Declarations section of a code module in the Northwind sample database, open the **Customers** form in Design view, and select the **CompanyName** control. You can then enter the following line in the Debug window.
 
 ```vb
 ? IsControlSelected (Forms!Customers, "CompanyName") 
