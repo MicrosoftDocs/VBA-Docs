@@ -35,7 +35,7 @@ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md
 | **msoLightRigFlat**|
 | **msoLightRigFlood**|
 | **msoLightRigFreezing**|
-| ** msoLightRigGlow**|
+| **msoLightRigGlow**|
 | **msoLightRigHarsh**|
 | **msoLightRigLegacyFlat1**|
 | **msoLightRigLegacyFlat2**|
@@ -55,7 +55,7 @@ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md
 | **msoLightRigSunrise**|
 | **msoLightRigSunset**|
 | **msoLightRigThreePoint**|
-| ** msoLightRigTwoPoint**|
+| **msoLightRigTwoPoint**|
 
 ## See also
 

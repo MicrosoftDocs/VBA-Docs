@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SparkPoints](Excel.SparkPoints.md)' 
 
 ## Remarks
 
-The  **Markers** property corresponds to the setting of the **Markers** check box in the **Show** section, and of the **Markers** item on the **Marker Color** drop-down list in the **Style** section of the ** Sparkline Tools Design** tab of the ribbon.
+The  **Markers** property corresponds to the setting of the **Markers** check box in the **Show** section, and of the **Markers** item on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon.
 
 
 ## See also

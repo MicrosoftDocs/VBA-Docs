@@ -28,7 +28,7 @@ _expression_ A variable that represents a [ThreeDFormat](./Excel.ThreeDFormat.md
 
 
 |MsoBevelType can be one of these  **MsoBevelType** constants.|
-| ** msoBevelAngle**|
+| **msoBevelAngle**|
 | **msoBevelArtDeco**|
 | **msoBevelCircle**|
 | **msoBevelConvex**|

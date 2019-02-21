@@ -46,11 +46,11 @@ Double
 
 
 
-- The fixed-declining balance method computes depreciation at a fixed rate. DB uses the following formulas to calculate depreciation for a period: (cost - total depreciation from prior periods) * rate where: rate = 1 - ((salvage / cost) ^ (1 / life)), rounded to three decimal places 
+- The fixed-declining balance method computes depreciation at a fixed rate. DB uses the following formulas to calculate depreciation for a period: `(cost - total depreciation from prior periods) * rate` where: `rate = 1 - ((salvage / cost) ^ (1 / life))`, rounded to three decimal places 
     
-- Depreciation for the first and last periods is a special case. For the first period, DB uses this formula: cost * rate * month / 12 
+- Depreciation for the first and last periods is a special case. For the first period, DB uses this formula: `cost * rate * month / 12`
     
-- For the last period, DB uses this formula: ((cost - total depreciation from prior periods) * rate * (12 - month)) / 12 
+- For the last period, DB uses this formula: `((cost - total depreciation from prior periods) * rate * (12 - month)) / 12`
     
 
 ## See also

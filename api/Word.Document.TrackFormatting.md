@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.TrackFormatting property (Word)
 
-Returns or sets a ** Boolean** that represents whether to track formatting changes when change tracking is turned on. Read/write.
+Returns or sets a **Boolean** that represents whether to track formatting changes when change tracking is turned on. Read/write.
 
 
 ## Syntax

@@ -44,7 +44,7 @@ The  **TimelineInsertTask** method shows a manually scheduled or automatically s
 If the user cancels the  **Task Information** dialog box, **TimelineInsertTask** returns **False**.
 
 
- **Note**  The  ** Display on Timeline** check box in the **Task Information** dialog box is clear. The **TimelineInsertTask** method adds a task to the timeline whether the check box is checked or clear.
+ **Note**  The  **Display on Timeline** check box in the **Task Information** dialog box is clear. The **TimelineInsertTask** method adds a task to the timeline whether the check box is checked or clear.
 
 The  **TimelineInsertTask** method corresponds to the **Task**,  **Callout Task**, and  **Milestone** commands in the **Insert** group on the **Format** tab on the ribbon. The **Format** tab displays the **Insert** group when the Timeline view is selected. If the Timeline view is not selected, the **TimelineInsertTask** method results in error 1100, "The method is not available in this situation."
 
