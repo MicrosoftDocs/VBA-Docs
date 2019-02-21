@@ -19,7 +19,7 @@ You can use the **Name** property to determine the string expression that identi
 
 ## Syntax
 
-_expression_.Name
+_expression_.**Name**
 
 _expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
