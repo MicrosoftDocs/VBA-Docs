@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.Parent
 ms.assetid: e55825ab-95a2-9431-487c-66e246410258
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,7 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
-## See also
 
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

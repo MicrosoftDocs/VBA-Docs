@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ComboBox.Parent
 ms.assetid: 31dc2078-38ea-00a4-fcaa-626c4b940fbc
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
-## See also
 
-
-[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

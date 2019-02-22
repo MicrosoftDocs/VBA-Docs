@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Controls.Parent
 ms.assetid: 89ec2e2d-ebab-c6db-9810-75f83c712c4d
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,7 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Controls](Access.Controls.md)** object.
 
 
-## See also
 
 
-[Controls Collection](Access.Controls.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

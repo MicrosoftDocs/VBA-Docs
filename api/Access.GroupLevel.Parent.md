@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.GroupLevel.Parent
 ms.assetid: 8be7db3f-a600-cbde-10b8-e6113c285c09
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)** object.
 
 
-## See also
 
-
-[GroupLevel Object](Access.GroupLevel.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

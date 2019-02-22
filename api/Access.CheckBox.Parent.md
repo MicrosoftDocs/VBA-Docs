@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CheckBox.Parent
 ms.assetid: c95e4144-3bf5-f38c-dbb5-02e752459c0a
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -26,12 +26,12 @@ _expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** obj
 
 ## Remarks
 
-The  **Parent** property of a label control is the control the label is linked to. The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. The **Parent** property of an option group control is the name of the form.
+The **Parent** property of a label control is the control that the label is linked to. 
+
+The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. 
+
+The **Parent** property of an option group control is the name of the form.
 
 
-## See also
-
-
-[CheckBox Object](Access.CheckBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

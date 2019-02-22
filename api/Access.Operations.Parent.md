@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Operations.Parent
 ms.assetid: 2ab9a0a7-8e7a-f339-6124-957f64186115
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[Operations](Access.Operations.md)** object.
 
 
-## See also
 
-
-[Operations Collection](Access.Operations.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

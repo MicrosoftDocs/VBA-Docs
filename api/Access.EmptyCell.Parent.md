@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.EmptyCell.Parent
 ms.assetid: 32df1586-86f2-eb4d-0a90-784b47ffdd7d
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[EmptyCell](Access.EmptyCell.md)** object.
 
 
-## See also
 
-
-[EmptyCell Object](Access.EmptyCell.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

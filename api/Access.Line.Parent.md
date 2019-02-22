@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Line.Parent
 ms.assetid: fa253611-b5ec-3e73-a5d7-268bf3841f89
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Line](Access.Line.md)** object.
 
 
-## See also
 
-
-[Line Object](Access.Line.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

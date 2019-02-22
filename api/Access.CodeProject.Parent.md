@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CodeProject.Parent
 ms.assetid: 2dfa77fe-de58-15f4-da97-41da8b06c449
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)** object.
 
 
-## See also
 
-
-[CodeProject Object](Access.CodeProject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

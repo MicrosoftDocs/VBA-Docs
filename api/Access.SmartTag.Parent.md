@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.SmartTag.Parent
 ms.assetid: 5f3bcd79-072f-6b27-ae55-ce2da5fad0e5
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[SmartTag](Access.SmartTag.md)** object.
 
 
-## See also
 
-
-[SmartTag Object](Access.SmartTag.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

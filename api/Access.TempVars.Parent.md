@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.TempVars.Parent
 ms.assetid: 0dfb9feb-54ef-e15d-2569-1261f2ae3358
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,7 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[TempVars](Access.TempVars.md)** object.
 
 
-## See also
 
-
-[TempVars Collection](Access.TempVars.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+

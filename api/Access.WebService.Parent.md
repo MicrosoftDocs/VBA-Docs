@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.WebService.Parent
 ms.assetid: c26a45eb-8809-dc99-673c-2f600b3eb1ff
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,7 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[WebService](Access.WebService.md)** object.
 
 
-## See also
 
-
-[WebService Object](Access.WebService.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
