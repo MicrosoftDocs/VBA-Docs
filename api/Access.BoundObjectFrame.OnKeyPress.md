@@ -51,6 +51,4 @@ Debug.Print Forms("Order Entry").Controls("OK").OnKeyPress
 ```
 
 
-
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
