@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 ## Remarks
 
-This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
+This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
 
 The **DblClick** event occurs when a user presses and releases the left mouse button twice over an object within the double-click time limit of the system.
 

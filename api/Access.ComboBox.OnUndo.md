@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** obj
 
 ## Remarks
 
-This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered.
+This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered.
 
 Valid values for this property are " _macroname_" where  _macroname_ is the name of macro, "[Event Procedure]" which indicates the event procedure associated with the Undo event for the specified object, or "= _functionname_()" where  _functionname_ is the name of a user-defined function.
 

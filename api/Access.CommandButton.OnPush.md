@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[CommandButton](Access.CommandButton
 
 ## Remarks
 
-This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
+This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
 
 Although the name of this property is  **OnPush**, setting this property actually sets the value of the **On Click** box.
 
