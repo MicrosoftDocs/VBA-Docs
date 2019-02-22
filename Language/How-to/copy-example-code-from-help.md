@@ -14,7 +14,7 @@ localization_priority: Normal
 
 Sometimes you may want to copy a useful example from Visual Basic Help. While many of the examples require more code to work correctly, some examples are useful to see how a particular [procedure](../Glossary/vbe-glossary.md#procedure) or control flow technique behaves.
 
-### To copy example code from Help to your application
+**To copy example code from Help to your application**
 
 1. Use Help to display the topic for the language element whose example you want to use.
     

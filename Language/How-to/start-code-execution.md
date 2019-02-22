@@ -14,7 +14,7 @@ localization_priority: Normal
 
 One way to test your code is to run it and work with it as a user would.
 
-### To start code execution
+**To start code execution**
 
 - Choose **Run Sub/UserForm** (F5) from the **[Run](../reference/user-interface-help/run-menu.md)** menu.
     

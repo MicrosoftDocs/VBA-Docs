@@ -35,7 +35,7 @@ _expression_ An expression that returns an **Application** object.
 
 <br/>
 
-#### ApplyTo values
+### ApplyTo values
 
 |||
 |:-----|:-----|

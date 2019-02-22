@@ -1,5 +1,5 @@
 ---
-title: Explorer.DisplayModeChange Event (Outlook)
+title: Explorer.DisplayModeChange event (Outlook)
 ms.assetid: cee77aad-8905-efed-466e-c2e88cfeeaa2
 ms.date: 06/08/2017
 ms.prod: outlook
@@ -7,27 +7,22 @@ localization_priority: Normal
 ---
 
 
-# Explorer.DisplayModeChange Event (Outlook)
+# Explorer.DisplayModeChange event (Outlook)
 
 Occurs when the user performs an action that changes the display mode. Possible modes include Normal, Portrait View, and Portrait Reading Pane.
 
 
-### Syntax
+## Syntax
 
- _expression_**DisplayModeChange**
+_expression_**DisplayModeChange**
 
-_expression_ A variable that represents a [Explorer](./Outlook.Explorer.md) object.
+_expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 
 
 ## Parameters
 
-
-
 | _DisplayMode_|Required|Indicates the display mode.|
 
-## See also
 
-
-[Explorer Object (Outlook)](Outlook.Explorer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

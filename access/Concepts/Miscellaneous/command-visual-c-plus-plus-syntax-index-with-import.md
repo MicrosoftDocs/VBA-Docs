@@ -11,7 +11,7 @@ localization_priority: Normal
 
 **Applies to:** Access 2013 | Access 2016
 
-### Methods
+## Methods
 
 ```csharp
 HRESULT Invalid DDUE based on source, error:link not allowed in code, link filename:mdmthadocancel_HV10294125.xml( ); 
@@ -25,7 +25,7 @@ _ParameterPtr Invalid DDUE based on source, error:link not allowed in code, link
 
 ```
 
-### Properties
+## Properties
 
 ```cs
 _ConnectionPtr GetActiveConnection( ); 

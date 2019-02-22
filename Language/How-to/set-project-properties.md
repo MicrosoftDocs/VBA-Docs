@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Set project properties
 
-### To set project properties
+**To set project properties**
 
 1. From the **[Tools](../reference/user-interface-help/tools-menu.md)** menu, choose **&lt;projectname&gt; Properties**.
     

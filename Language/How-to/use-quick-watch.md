@@ -14,7 +14,7 @@ localization_priority: Normal
 
 In [break mode](../Glossary/vbe-glossary.md#break-mode), you may want to check the current value of a [variable](../Glossary/vbe-glossary.md#variable) or [expression](../Glossary/vbe-glossary.md#expression) for which you haven't defined a [watch expression](../Glossary/vbe-glossary.md#watch-expression). Do this by using the **Quick Watch** command.
 
-### To display a Quick Watch
+**To display a Quick Watch**
 
 1. Select an expression in the [module](../Glossary/vbe-glossary.md#module) where it resides.
     

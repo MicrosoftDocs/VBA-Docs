@@ -19,11 +19,9 @@ You can set the behavior and look of the Visual Basic development environment by
 - **General** tab to specify form, error handling, and compile settings for your project.   
 - **Docking** tab to specify whether a window is attached or "anchored" to one edge of other dockable or application windows.
     
-### To set environment options
-
-- On the **[Tools](../reference/user-interface-help/tools-menu.md)** menu of the Visual Basic editor, choose **Options**. Each option is described in the following tables.
+To set environment options, on the **[Tools](../reference/user-interface-help/tools-menu.md)** menu of the Visual Basic editor, choose **Options**. Each option is described in the following sections.
     
-#### Editor
+## Editor
 
 |Option|Description|
 |:-----|:-----|
@@ -38,9 +36,9 @@ You can set the behavior and look of the Visual Basic development environment by
 |**Auto Data Tips**|Automatically display the value of any [variable](../Glossary/vbe-glossary.md#variable) on which you place the mouse pointer. Available only in [break mode](../Glossary/vbe-glossary.md#break-mode).|
 |**Drag-Drop in Text Editing**|Code elements can be dragged from the Code window into the Immediate or Watch windows.|
 
-<br/>
 
-#### Editor Format
+
+## Editor Format
 
 |Option|Description|
 |:-----|:-----|
@@ -49,9 +47,9 @@ You can set the behavior and look of the Visual Basic development environment by
 |**Size**|The size of the font used for code.|
 |**Margin Indicator Bar**|Display the **Margin Indicator Bar**.|
 
-<br/>
 
-#### General
+
+## General
 
 |Option|Description|
 |:-----|:-----|
@@ -69,9 +67,9 @@ You can set the behavior and look of the Visual Basic development environment by
 |**Compile On Demand**|A project is fully compiled before it starts, or code is compiled as needed.|
 |**Background Compile**|Use idle time during run time to finish compiling the project in the background (available only if **Compile On Demand** is set).|
 
-<br/>
 
-#### Docking
+
+## Docking
 
 |Option|Description|
 |:-----|:-----|

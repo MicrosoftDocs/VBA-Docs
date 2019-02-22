@@ -14,7 +14,7 @@ localization_priority: Normal
 
 You can restart execution from [break mode](../Glossary/vbe-glossary.md#break-mode). Restarting returns the code to a newly initialized state, resetting all [variables](../Glossary/vbe-glossary.md#variable) and removing any suspended [procedures](../Glossary/vbe-glossary.md#procedure) from memory.
 
-### To restart execution
+**To restart execution**
 
 1. On the **[Run](../reference/user-interface-help/run-menu.md)** menu, choose **Reset <projectname&gt;**, or use the toolbar shortcut: ![Toolbar button](../../images/tbr_end_ZA01201701.gif).
     

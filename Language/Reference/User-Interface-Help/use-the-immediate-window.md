@@ -14,11 +14,11 @@ localization_priority: Priority
 
 The [Immediate window](immediate-window.md) displays information resulting from debugging statements in your code or from commands typed directly into the window.
 
-### To display the Immediate window
+**To display the Immediate window**
 
 - From the **[View](view-menu.md)** menu, choose Immediate window (CTRL+G).
     
-### To execute code in the Immediate window
+**To execute code in the Immediate window**
 
 1. Type a line of code in the Immediate window.
     

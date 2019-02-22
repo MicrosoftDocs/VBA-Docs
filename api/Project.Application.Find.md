@@ -38,7 +38,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Comparison strings
+### Comparison strings
 
 |**Comparison string**|**Description**|
 |:-----|:-----|

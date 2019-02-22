@@ -16,7 +16,7 @@ The **[Object Browser](object-browser.md)** allows you to browse through all ava
 
 You can get help for the **Object Browser** by searching for **Object Browser** in Help.
 
-### To navigate the Object Browser
+**To navigate the Object Browser**
 
 1. Activate a [module](../../Glossary/vbe-glossary.md#module).
     

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Troubleshooting Forms
 
-### My solution doesn't run on other computers
+## My solution doesn't run on other computers
 
 Use the following troubleshooting tips to help troubleshoot problems if your forms or programming solution works on some computers, but not others.
 
@@ -22,11 +22,11 @@ Use the following troubleshooting tips to help troubleshoot problems if your for
  
 **Permissions or user rights** Make sure that any user experiencing problems has proper permissions or rights to use any public folders or other resources that your solution uses.
  
-### The Click event of a control doesn't fire
+## The Click event of a control doesn't fire
 
 The **Click** event doesn't fire for controls bound to a field. Because the controls are bound to a field, you can use the **PropertyChange** or **CustomPropertyChange** event of the item to detect any change to the value of the field.
 
-### Is there anything that helps debugging my custom form?
+## Is there anything that helps debugging my custom form?
 
 **Problems in the user interface** If your custom form is extended by an add-in, the problems you see in the user interface of the form may be caused by the add-in. In the **Other** tab of the **Options** dialog box, click **Advanced Options**. Select the check box for **Show add-in user interface errors**. This will help you debug errors that your add-in causes in the user interface.
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Edit a watch expression
 
-### To edit a watch expression
+**To edit a watch expression**
 
 1. Double-click the [watch expression](../Glossary/vbe-glossary.md#watch-expression) in the [Watch window](../reference/user-interface-help/watch-window.md).
     
