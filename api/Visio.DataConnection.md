@@ -31,7 +31,7 @@ The  **DataConnection** object exposes properties that make it possible to acces
 
 
 
--  The **[ConnectionString](Visio.DataConnection.ConnectionString.md)** property gets or sets the connection string used to access an existing **DataConnection** object or to create a new **DataConnection** object. Note that setting this property to a new value does not immediately change the connection—Visio re-evaluates this property only when the **[DataRecordset.Refresh ](Visio.DataRecordset.Refresh.md)** method is called.
+-  The **[ConnectionString](Visio.DataConnection.ConnectionString.md)** property gets or sets the connection string used to access an existing **DataConnection** object or to create a new **DataConnection** object. Note that setting this property to a new value does not immediately change the connection—Visio re-evaluates this property only when the **[DataRecordset.Refresh](Visio.DataRecordset.Refresh.md)** method is called.
     
 - The  **[Timeout](Visio.DataConnection.Timeout.md)** property determines how long (in seconds) Visio should attempt to establish a data-source connection before terminating the connection attempt and generating an error. The default is 15 seconds.
     

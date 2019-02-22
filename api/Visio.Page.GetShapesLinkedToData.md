@@ -45,7 +45,7 @@ Nothing
 
 For the ShapeIDs() parameter, pass an empty, dimensionless array of type  **Long**. If there are no linked shapes on the page, **GetShapesLinkedToData** will return an empty array.
 
-To determine the specific data row in the data recordset shapes are linked to, use the  **[Page.GetShapesLinkedToDataRow ](Visio.Page.GetShapesLinkedToDataRow.md)** method.
+To determine the specific data row in the data recordset shapes are linked to, use the  **[Page.GetShapesLinkedToDataRow](Visio.Page.GetShapesLinkedToDataRow.md)** method.
 
 
 ## Example

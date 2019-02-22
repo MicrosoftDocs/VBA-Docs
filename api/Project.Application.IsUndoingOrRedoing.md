@@ -28,6 +28,6 @@ Indicates whether Project is currently executing an undo or redo action.
 
 ## Remarks
 
- Use the **[Application.OnUndoOrRedo ](Project.Application.OnUndoOrRedo.md)** event to listen for specific undo or redo actions.
+ Use the **[Application.OnUndoOrRedo](Project.Application.OnUndoOrRedo.md)** event to listen for specific undo or redo actions.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

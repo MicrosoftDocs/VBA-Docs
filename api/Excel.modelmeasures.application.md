@@ -40,6 +40,6 @@ End If
 ## See also
 
 
-[ModelMeasures Object ](Excel.modelmeasures.md)
+[ModelMeasures Object](Excel.modelmeasures.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

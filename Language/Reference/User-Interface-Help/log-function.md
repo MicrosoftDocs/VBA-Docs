@@ -22,7 +22,7 @@ The required _number_ [argument](../../Glossary/vbe-glossary.md#argument) is a [
 
 ## Remarks
 
-The natural logarithm is the logarithm to the base _e_. The [constant ](../../Glossary/vbe-glossary.md#constant) _e_ is approximately 2.718282.
+The natural logarithm is the logarithm to the base _e_. The [constant](../../Glossary/vbe-glossary.md#constant) _e_ is approximately 2.718282.
 
 You can calculate base-_n_ logarithms for any number _x_ by dividing the natural logarithm of _x_ by the natural logarithm of _n_ as follows:
 
