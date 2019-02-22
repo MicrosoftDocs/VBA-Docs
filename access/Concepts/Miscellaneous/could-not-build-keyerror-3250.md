@@ -20,12 +20,7 @@ When building a primary index, the Microsoft Access database engine could not bu
 
 This error can occur when you use the  **Seek** method and pass it a value for a field that is not part of the index. For example, suppose you want to use the **Seek** method on a **Recordset** whose current index uses the LastName field of the underlying table, and you write it this way:
 
-
-
-```
-rstEmployees.Seek "=", "Smith", "Joe"
-
-```
+    rstEmployees.Seek "=", "Smith", "Joe"
 
 The Microsoft Access database engine will try to construct a primary key from two fields, but because one field is indexed, the attempt will fail and this error results.
 
