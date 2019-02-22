@@ -25,9 +25,7 @@ Everything you need to open an ADO  **Recordset** is built into the **Open** met
 
 
 
-```
-recordset .OpenSource, ActiveConnection, CursorType, LockType, Options
-```
+    recordset .OpenSource, ActiveConnection, CursorType, LockType, Options
 
 All arguments are optional because the information they pass can be communicated to ADO in other ways. However, understanding each argument will help you to understand many important ADO concepts. The following topics will examine each argument of this method in more detail.
 
@@ -37,9 +35,7 @@ All arguments are optional because the information they pass can be communicated
 The  _Source_ and _Options_ arguments appear in the same topic because they are closely related.
 
 
-```
-recordset .Open Source, ActiveConnection, CursorType, LockType, Options
-```
+    recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
 The  _Source_ argument is a **Variant** that evaluates to a valid **Command** object, a text command (e.g., a SQL statement), a table name, a stored procedure call, a URL, or the name of a file or **Stream** object containing a persistently stored **Recordset**. If _Source_ is a file path name, it can be a full path ("C:\dir\file.rst"), a relative path ("..\file.rst"), or a URL ("http://files/file.rst"). You can also specify this information in the **Recordset** object **Source** property and leave the _Source_ argument blank.
 
@@ -66,9 +62,7 @@ For more information about using these enumerated constants for  _Options_ and w
 You can pass in either a  **Connection** object or a connection string as the _ActiveConnection_ argument.
 
 
-```
-recordset .Open Source, ActiveConnection, CursorType, LockType, Options
-```
+    recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
 The  _ActiveConnection_ argument corresponds to the **ActiveConnection** property and specifies in which connection to open the **Recordset** object. If you pass a connection definition for this argument, ADO opens a new connection using the specified parameters. After opening the **Recordset** with a client-side cursor ( **CursorLocation** = **adUseClient** ), you can change the value of this property to send updates to another provider. Or you can set this property to Nothing (in Microsoft Visual Basic) or NULL to disconnect the **Recordset** from any provider. Changing **ActiveConnection** for a server-side cursor generates an error, however.
 
@@ -79,9 +73,7 @@ If you pass a  **Command** object in the _Source_ argument and also pass an _Act
 <a name="sectionSection2"> </a>
 
 
-```
-recordset .Open Source, ActiveConnection, CursorType, LockType, Options
-```
+    recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
 As discussed in The Significance of Cursor Location, the type of cursor that your application uses will determine which capabilities are available to the resultant  **Recordset** (if any). For a detailed examination of cursor types, see Chapter 8: Understanding Cursors and Locks.
 
@@ -92,9 +84,7 @@ The  _CursorType_ argument can accept any of the **CursorTypeEnum** values.
 <a name="sectionSection3"> </a>
 
 
-```
-recordset .Open Source, ActiveConnection, CursorType, LockType, Options
-```
+    recordset .Open Source, ActiveConnection, CursorType, LockType, Options
 
 Set the  _LockType_ argument to specify what type of locking the provider should use when opening the **Recordset**. The different types of locking are discussed in Chapter 8: Understanding Cursors and Locks.
 

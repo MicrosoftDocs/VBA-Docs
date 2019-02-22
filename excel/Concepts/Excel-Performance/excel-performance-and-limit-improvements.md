@@ -20,13 +20,11 @@ These lookup functions now create an internal cached index for the column range 
 
 *For example calculating 100 rows of these 5 VLOOKUP formulas took 37 seconds to calculate using Excel 2010 and only 12 seconds using Excel 2016.*
 
-```
- =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
- =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
-```
+    =VLOOKUP($A900000,$A$2:$E$1000000,1,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,2,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,3,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,4,FALSE)
+    =VLOOKUP($A900000,$A$2:$E$1000000,5,FALSE)
 
 ## LAA memory improvement for 32-bit Excel
 
