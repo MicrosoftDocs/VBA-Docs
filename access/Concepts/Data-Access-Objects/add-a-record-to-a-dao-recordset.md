@@ -12,7 +12,7 @@ localization_priority: Priority
 You can add a new record to a table-type or dynaset-type **[Recordset](../../../api/overview/Access.md)** object by using the **[AddNew](../../../api/overview/Access.md)** method.
 
 
-### To add a record to a table-type or dynaset-type Recordset object:
+## To add a record to a table-type or dynaset-type Recordset object:
 
 1. Use the **AddNew** method to create a record you can edit.
     

@@ -22,11 +22,11 @@ You trace code execution because it may not always be obvious which statement is
     
 - **Run To Cursor**: Allows you to select a statement in your code where you want execution to stop. This allows you to "step over" sections of code, for example, large loops.
     
-### To trace execution from the current statement
+## To trace execution from the current statement
 
 - From the **[Debug](../reference/user-interface-help/debug-menu.md)** menu, choose **Step Into** (F8), **Step Over** (SHIFT+F8), **Step Out** (CTRL+SHIFT+F8), or **Run To Cursor** (CTRL+F8).
     
-### To trace execution from the beginning of the program
+## To trace execution from the beginning of the program
 
 - From the **Debug** menu, choose **Step Into** (F8), **Step Over** (SHIFT+F8), **Step Out** (CTRL+SHIFT+F8), or **Run To Cursor** (CTRL+F8).
     

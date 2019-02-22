@@ -14,7 +14,7 @@ localization_priority: Normal
 
 Automation (formerly OLE Automation) enables you to use objects from other applications in Visual Basic code. An application that provides its objects for use by other applications also provides information about those objects in a [type library](../Glossary/vbe-glossary.md#type-library). To achieve the best possible performance when using another application's objects, you should set a reference to that application's type library.
 
-### To set a reference to an application's type library
+## To set a reference to an application's type library
 
 1. Choose **References** on the **[Tools](../reference/user-interface-help/tools-menu.md)** menu.
     

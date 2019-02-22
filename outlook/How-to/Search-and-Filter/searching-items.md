@@ -19,7 +19,7 @@ This topic describes the entry points to search items in folders and access to s
 |**Search completion**|Use the **[AdvancedSearchComplete](../../../api/Outlook.Application.AdvancedSearchComplete.md)** event to determine when a given search has completed.|Does not provide a callback to indicate search completion.|Search is completed in the prior  **Application.AdvancedSearch**. **Search.GetTable** only returns the search results.|
 
 
-### Search results
+## Search results
 
 Access the search results by one of these means:
 

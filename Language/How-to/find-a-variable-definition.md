@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # Find a variable definition
 
-### To view the definition of a variable
+## To view the definition of a variable
 
 1. In the  Code window, select the [variable](../Glossary/vbe-glossary.md#variable) whose definition you want to see.
     
 2. From the **[View](../reference/user-interface-help/view-menu.md)** menu, choose **Definition** (SHIFT+F2).
     
 
-### To return the mouse pointer to its previous position
+## To return the mouse pointer to its previous position
 
 - On the **View** menu, choose **Last Position** (CTRL+SHIFT+F2).
     

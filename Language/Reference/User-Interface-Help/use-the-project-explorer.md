@@ -14,7 +14,7 @@ localization_priority: Priority
 
 The **[Project Explorer](project-explorer.md)** displays a hierarchical list of the [projects](../../Glossary/vbe-glossary.md#project) and all of the items contained and referenced by each project.
 
-### To navigate the Project Explorer
+## To navigate the Project Explorer
 
 1. From the **View** menu, choose **Project Explorer** (CTRL+R), or use the toolbar shortcut: ![Toolbar button](../../../images/tbr_pexp_ZA01201722.gif).
     

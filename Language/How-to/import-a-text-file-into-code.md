@@ -14,7 +14,7 @@ localization_priority: Normal
 
 You can import a text file containing code into the current [module](../Glossary/vbe-glossary.md#module) and use it in your code.
 
-### To import a text file into a module
+## To import a text file into a module
 
 1. Open the module into which you want to insert text and position the entry point at the place where you want the text inserted.
     

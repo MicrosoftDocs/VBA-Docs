@@ -32,7 +32,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 <br/>
 
-#### Tag IDs
+### Tag IDs
 
 |**Tag ID**|**Description**|
 |:-----|:-----|

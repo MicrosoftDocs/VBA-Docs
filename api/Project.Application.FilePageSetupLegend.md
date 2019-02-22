@@ -42,7 +42,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### Format codes
+### Format codes
 
 |**Format code**|**Description**|
 |:-----|:-----|
@@ -75,7 +75,7 @@ _expression_ A variable that represents an **Application** object.
 
 <br/>
 
-#### PjColor constants
+### PjColor constants
 
 |||
 |:-----|:-----|

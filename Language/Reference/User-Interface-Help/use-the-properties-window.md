@@ -14,7 +14,7 @@ localization_priority: Normal
 
 The [Properties window](properties-window.md) lists the [design-time](../../Glossary/vbe-glossary.md#design-time) [properties](../../Glossary/vbe-glossary.md#property) for selected objects and their current settings. You can change these properties at design time. When you select multiple controls, the Properties window contains a list of the properties common to all the selected controls.
 
-### To navigate the Properties window
+## To navigate the Properties window
 
 1. From the **View** menu of the Visual Basic Editor, choose Properties window (F4).
     
@@ -22,7 +22,7 @@ The [Properties window](properties-window.md) lists the [design-time](../../Glos
     
 3. Click the **Alphabetic** tab to display properties in alphabetic order, or choose the **Categorized** tab to display object properties by category.
     
-### To change a property's value
+## To change a property's value
 
 1. Select the property in the left column.
     

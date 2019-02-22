@@ -38,7 +38,7 @@ localization_priority: Normal
 
 <br/>
 
-#### Comparison strings
+### Comparison strings
 
 |**Comparison string**|**Description**|
 |:-----|:-----|

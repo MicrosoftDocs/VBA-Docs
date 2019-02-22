@@ -15,7 +15,7 @@ localization_priority: Priority
 If you want to run code in one Microsoft Office application that works with the objects in another application, follow these steps.
 
 
-### To run the code
+## To run the code
 
 
 1. Set a reference to the other application's type library in the  **References** dialog box (**Tools** menu). Then, the objects, properties, and methods will appear in the Object Browser and the syntax will be checked at compile time. You can also get context-sensitive Help on them.

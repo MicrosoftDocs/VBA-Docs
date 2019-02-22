@@ -19,11 +19,11 @@ You can set the behavior and look of the Visual Basic development environment by
 - **General** tab to specify form, error handling, and compile settings for your project.   
 - **Docking** tab to specify whether a window is attached or "anchored" to one edge of other dockable or application windows.
     
-### To set environment options
+## To set environment options
 
 - On the **[Tools](../reference/user-interface-help/tools-menu.md)** menu of the Visual Basic editor, choose **Options**. Each option is described in the following tables.
     
-#### Editor
+### Editor
 
 |Option|Description|
 |:-----|:-----|
@@ -40,7 +40,7 @@ You can set the behavior and look of the Visual Basic development environment by
 
 <br/>
 
-#### Editor Format
+### Editor Format
 
 |Option|Description|
 |:-----|:-----|
@@ -51,7 +51,7 @@ You can set the behavior and look of the Visual Basic development environment by
 
 <br/>
 
-#### General
+### General
 
 |Option|Description|
 |:-----|:-----|
@@ -71,7 +71,7 @@ You can set the behavior and look of the Visual Basic development environment by
 
 <br/>
 
-#### Docking
+### Docking
 
 |Option|Description|
 |:-----|:-----|

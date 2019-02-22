@@ -57,7 +57,7 @@ You can also use the DATABASE reserved word to specify the external database. Fo
 
 The following example shows how you can use the IN clause to retrieve data from an external database. In each example, assume the hypothetical Customers table is stored in an external database.
 
-#### Microsoft Access database engine database
+### Microsoft Access database engine database
 
 ```sql
 SELECT CustomerID
@@ -66,7 +66,7 @@ IN OtherDB.mdb
 WHERE CustomerID Like "A*";
 ```
 
-#### dBASE III or IV
+### dBASE III or IV
 
 To retrieve data from a dBASE III table, substitute "dBASE III;" for "dBASE IV;".
 
@@ -77,7 +77,7 @@ IN "C:\DBASE\DATA\SALES" "dBASE IV;"
 WHERE CustomerID Like "A*";
 ```
 
-#### dBASE III or IV using database syntax
+### dBASE III or IV using database syntax
 
 ```sql
 SELECT CustomerID
@@ -86,7 +86,7 @@ IN "" [dBASE IV; Database=C:\DBASE\DATA\SALES;]
 WHERE CustomerID Like "A*";
 ```
 
-#### Paradox 3.x or 4.x
+### Paradox 3.x or 4.x
 
 To retrieve data from a Paradox version 3.x table, substitute "Paradox 3.x;" for "Paradox 4.x;".
 
@@ -97,7 +97,7 @@ IN "C:\PARADOX\DATA\SALES" "Paradox 4.x;"
 WHERE CustomerID Like "A*";
 ```
 
-#### Paradox 3.x or 4.x using Database syntax
+### Paradox 3.x or 4.x using Database syntax
 
 ```sql
 SELECT CustomerID
@@ -106,7 +106,7 @@ IN "" [Paradox 4.x;Database=C:\PARADOX\DATA\SALES;]
 WHERE CustomerID Like "A*";
 ```
 
-#### A Microsoft Excel worksheet
+### A Microsoft Excel worksheet
 
 ```sql
 SELECT CustomerID, CompanyName
@@ -116,7 +116,7 @@ WHERE CustomerID Like "A*"
 ORDER BY CustomerID;
 ```
 
-#### A named range in a worksheet
+### A named range in a worksheet
 
 ```sql
 SELECT CustomerID, CompanyName

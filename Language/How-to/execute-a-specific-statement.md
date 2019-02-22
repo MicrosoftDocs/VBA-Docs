@@ -14,7 +14,7 @@ localization_priority: Normal
 
 While execution of your code is halted, you can control the execution sequence of [statements](../Glossary/vbe-glossary.md#statement) within a [procedure](../Glossary/vbe-glossary.md#procedure). You can resume execution at a statement you choose without executing any intervening code.
 
-### To set the next statement to be executed
+## To set the next statement to be executed
 
 1. In the Code window, position the insertion point anywhere within the statement.
     

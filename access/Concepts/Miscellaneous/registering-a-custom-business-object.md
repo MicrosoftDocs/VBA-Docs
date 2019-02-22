@@ -17,7 +17,7 @@ To successfully launch a custom business object (.dll or .exe) through the Web s
 > [!NOTE] 
 > For MDAC 2.0 and later, the default business object **RDSServer.DataFactory** is not registered by default during MDAC installation. However, if **RDSServer.DataFactory** was registered as safe for execution on the computer prior to the installation, the registry entry is maintained for the new installation.
 
-### To register a custom business object
+## To register a custom business object
 
 1. Click **Start**, and then click **Run**.
     

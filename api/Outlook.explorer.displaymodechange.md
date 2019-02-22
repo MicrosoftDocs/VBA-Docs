@@ -12,7 +12,7 @@ localization_priority: Normal
 Occurs when the user performs an action that changes the display mode. Possible modes include Normal, Portrait View, and Portrait Reading Pane.
 
 
-### Syntax
+## Syntax
 
  _expression_**DisplayModeChange**
 

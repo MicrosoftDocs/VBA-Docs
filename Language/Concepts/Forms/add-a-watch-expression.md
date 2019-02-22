@@ -14,7 +14,7 @@ localization_priority: Priority
 
 A watch expression is an expression that you define to be monitored in the [Watch window](../../reference/user-interface-help/watch-window.md). When your application enters [break mode](../../Glossary/vbe-glossary.md#break-mode), the watch expressions you selected appear in the Watch window where you can observe their values.
 
-### To add a watch expression
+## To add a watch expression
 
 1. On the **[Debug](../../reference/user-interface-help/debug-menu.md)** menu, choose **Add Watch**. The **[Add Watch](../../reference/user-interface-help/add-watch-dialog-box.md)** dialog box is displayed.
     

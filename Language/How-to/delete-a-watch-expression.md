@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Delete a watch expression
 
-### To delete a watch expression in the Watch window
+## To delete a watch expression in the Watch window
 
 Do any of the following:
 

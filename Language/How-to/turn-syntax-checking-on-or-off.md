@@ -20,7 +20,7 @@ Visual Basic includes a syntax-checking feature that:
     
 This feature is turned on when you first start, but you can turn it off if you prefer to write code without being alerted to errors as they occur.
 
-### To enable syntax checking
+## To enable syntax checking
 
 1. On the **[Tools](../reference/user-interface-help/tools-menu.md)** menu, choose **Options**.
     
@@ -31,7 +31,7 @@ This feature is turned on when you first start, but you can turn it off if you p
 4. Choose **OK**.
     
 
-### To disable syntax checking
+## To disable syntax checking
 
 1. Choose **Options** on the **Tools** menu.
     
