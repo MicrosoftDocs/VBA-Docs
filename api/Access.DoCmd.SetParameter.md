@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # DoCmd.SetParameter method (Access)
 
-Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo ](Access.DoCmd.BrowseTo.md)**, **[OpenForm](Access.DoCmd.OpenForm.md)**, **[OpenQuery](Access.DoCmd.OpenQuery.md)**, **[OpenReport](Access.DoCmd.OpenReport.md)**, or **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** methods.
+Use the  **SetParameter** method to create a parameter for use by the **[BrowseTo](Access.DoCmd.BrowseTo.md)**, **[OpenForm](Access.DoCmd.OpenForm.md)**, **[OpenQuery](Access.DoCmd.OpenQuery.md)**, **[OpenReport](Access.DoCmd.OpenReport.md)**, or **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** methods.
 
 
 ## Syntax

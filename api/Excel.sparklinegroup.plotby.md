@@ -19,7 +19,7 @@ Returns or sets how to plot the sparkline when the data on which it is based is 
 
 _expression_. `PlotBy`
 
-_expression_ A variable that represents a '[SparklineGroup ](Excel.SparklineGroup.md)' object.
+_expression_ A variable that represents a '[SparklineGroup](Excel.SparklineGroup.md)' object.
 
 
 ## Return value
