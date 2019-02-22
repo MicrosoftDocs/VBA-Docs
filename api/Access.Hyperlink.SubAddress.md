@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.SubAddress property (Access)
 
-You can use the  **SubAddress** property to specify or determine a location within the target document specified by the **[Address](Access.Hyperlink.Address.md)** property. Read/write **String**. .
+You can use the  **SubAddress** property to specify or determine a location within the target document specified by the **[Address](Access.Hyperlink.Address.md)** property. Read/write **String**. 
 
 
 ## Syntax
