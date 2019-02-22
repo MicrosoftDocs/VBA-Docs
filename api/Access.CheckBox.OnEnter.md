@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CheckBox.OnEnter
 ms.assetid: 54894c2c-e0ab-8679-a55a-df44af856f8a
-ms.date: 06/08/2017
+ms.date: 02/22/2019
 localization_priority: Normal
 ---
 
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **Enter** event occurs before a control actually receives the focus from a control on the same form.
 
-The  **OnEnter** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Enter** box in the object's Properties window):
+The  **OnEnter** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Enter** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

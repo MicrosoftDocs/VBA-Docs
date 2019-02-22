@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action Microsoft Acce
 
 The  **Paint** event occurs when the section is redrawn.
 
-The  **OnPaint** value will be one of the following, depending on the selection in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Paint** box in the object's Properties window):
+The  **OnPaint** value will be one of the following, depending on the selection in the Choose Builder window (accessed by choosing the **Build** button next to the **On Paint** box in the object's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

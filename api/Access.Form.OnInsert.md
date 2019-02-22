@@ -32,7 +32,7 @@ Although the name of this property is  **OnInsert**, setting this property actua
 
 The  **BeforeInsert** event occurs when the user types the first character in a new record, but before the record is actually created.
 
-The  **OnInsert** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **Before Insert** box in the form's **Properties** window):
+The  **OnInsert** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **Before Insert** box in the form's **Properties** window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
