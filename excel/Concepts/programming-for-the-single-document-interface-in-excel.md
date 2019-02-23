@@ -90,7 +90,7 @@ In this article, we will discuss the implementation of the SDI in the Excel UI a
 ## What's changed in the User Interface
 <a name="odc_xl15_ta_ProgrammingtheSDIinExcel2013_Changed"> </a>
 
-If you look closely after opening an Excel workbook, you no longer see the window state buttons (_minimize_,  _maximize_, and  _restore_) in the upper-left corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
+If you look closely after opening an Excel workbook, you no longer see the window state buttons (_minimize_,  _maximize_, and  _restore_) in the upper-right corner of the ribbon. Figure 3 shows the window state buttons that are available in Excel and Excel 2007. Because the top-level window is now tied directly to a single workbook or workbook view, there is no longer a need for the windows management UI in Excel.
 
 
 **Figure 3. Windows state UI in Excel 2010**
