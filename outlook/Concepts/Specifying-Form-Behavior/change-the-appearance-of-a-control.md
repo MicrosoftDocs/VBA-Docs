@@ -31,7 +31,7 @@ For more information, see the following topics:
     
 -  [How to: Use a Custom Color for the Background or Foreground of a Control](use-a-custom-color-for-the-background-or-foreground-of-a-control.md)
     
--  [ How to: Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
+-  [How to: Set the Background Color of a Form](../Configuring-Forms/set-the-background-color-of-a-form.md)
     
 -  [How to: Make a Control Transparent](make-a-control-transparent.md)
 

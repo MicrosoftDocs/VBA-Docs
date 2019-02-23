@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Page.Parent
 ms.assetid: f774a4d5-e841-40c3-a640-79791dd6fe11
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Page](Access.Page.md)** object.
 
 
-## See also
 
-
-[Page Object](Access.Page.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LegendKey.PictureUnit2 property (Excel)
 
-Returns or sets the unit for each picture on the chart if the  **[PictureType ](Excel.LegendKey.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double**.
+Returns or sets the unit for each picture on the chart if the  **[PictureType](Excel.LegendKey.PictureType.md)** property is set to **xlStackScale** (if not, this property is ignored). Read/write **Double**.
 
 
 ## Syntax

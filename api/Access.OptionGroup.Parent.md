@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.OptionGroup.Parent
 ms.assetid: 882e6786-a8c3-d865-675d-a97e3143a8ab
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -26,12 +26,10 @@ _expression_ A variable that represents an **[OptionGroup](Access.OptionGroup.md
 
 ## Remarks
 
- The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. The **Parent** property of an option group control is the name of the form.
+The **Parent** property for a check box, option button, or toggle button in an option group is the name of the option group control. 
+
+The **Parent** property of an option group control is the name of the form.
 
 
-## See also
-
-
-[OptionGroup Object](Access.OptionGroup.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

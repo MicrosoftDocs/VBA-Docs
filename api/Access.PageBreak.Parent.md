@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.PageBreak.Parent
 ms.assetid: 9d2d7b85-c720-f3f1-cf5f-949823d0c22b
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[PageBreak](Access.PageBreak.md)** object.
 
 
-## See also
 
-
-[PageBreak Object](Access.PageBreak.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

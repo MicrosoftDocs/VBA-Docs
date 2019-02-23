@@ -56,9 +56,9 @@ The following are examples of these property settings:
 
 - For an Open Database Connectivity (ODBC) database, the **SourceConnectStr** property setting is the name of the source database and any additional information required by the product, such as a logon identification (ID) and password. For example, for a Microsoft SQL Server database the setting might be:
     
-  ```
+
     ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
-  ```
+
 
 
 The **SourceDatabase** property doesn't have a value for an ODBC database.

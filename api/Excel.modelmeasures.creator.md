@@ -30,6 +30,6 @@ If the object was created in Microsoft Excel, this property returns the string X
 ## See also
 
 
-[ModelMeasures Object ](Excel.modelmeasures.md)
+[ModelMeasures Object](Excel.modelmeasures.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

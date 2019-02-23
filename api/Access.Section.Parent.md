@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Section.Parent
 ms.assetid: ee464bb6-9bf7-15d2-df96-214a4955891b
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Section](Access.Section.md)** object.
 
 
-## See also
 
-
-[Section Object](Access.Section.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

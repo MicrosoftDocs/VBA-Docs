@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Replace text in code
 
-### To replace text in a module
+**To replace text in a module**
 
 1. On the **[Edit](../reference/user-interface-help/edit-menu.md#replace)** menu, choose **Replace**. The **Replace** dialog box appears.
     

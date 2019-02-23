@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DependencyObjects.Parent
 ms.assetid: b35d46b6-f90f-367c-a35c-555733386c2d
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -21,12 +21,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
+_expression_ A variable that represents a **[DependencyObjects](Access.DependencyObjects.md)** object.
 
 
-## See also
 
-
-[DependencyObjects Collection](Access.DependencyObjects.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

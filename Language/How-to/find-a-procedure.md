@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Find a procedure
 
-### To find a procedure in the Code window
+**To find a procedure in the Code window**
 
 - To view an existing general procedure, select **(General)** in the [Object box](../Glossary/vbe-glossary.md#object-box) in the [Code window](../reference/user-interface-help/code-window.md), and then select the procedure in the [Procedure box](../Glossary/vbe-glossary.md#procedure-box).
     
@@ -21,7 +21,7 @@ localization_priority: Normal
   > [!NOTE] 
   > To visually separate [procedures](../Glossary/vbe-glossary.md#procedure) in the Code window, you can select the **Procedure Separator** check box on the **[Editor](../reference/user-interface-help/options-dialog-box.md#editor-tab)** tab of the **Options** dialog box (**Tools** menu). You can switch between Procedure view and Full Module view by using the buttons in the lower-left corner of the Code window.
 
-### To find a procedure in another module
+**To find a procedure in another module**
 
 1. On the **[View](../reference/user-interface-help/view-menu.md)** menu, choose **Object Browser**, or press F2.
     
@@ -31,7 +31,7 @@ localization_priority: Normal
     
 4. Double-click the procedure name in the **Members of** list. The selected procedure is displayed in the Code window.
     
-### Keyboard shortcuts
+## Keyboard shortcuts
 
 You can use the following keyboard shortcuts.
 

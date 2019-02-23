@@ -39,7 +39,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 <br/>
 
-#### Results
+### Results
 
 |**Value**|**Result**|
 |:-----|:-----|
@@ -49,7 +49,7 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 <br/>
 
-#### Display mode
+### Display mode
 
 |**Value**|**Display mode**|
 |:-----|:-----|

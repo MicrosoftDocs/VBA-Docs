@@ -14,9 +14,7 @@ localization_priority: Normal
 
 This is the basic syntax of the **AddNew** method:
 
-```
-recordset.AddNewFieldList,Values
-```
+    recordset.AddNewFieldList,Values
 
 The  _FieldList_ and _Values_ arguments are optional. _FieldList_ is either a single name or an array of names or ordinal positions of the fields in the new record.
 

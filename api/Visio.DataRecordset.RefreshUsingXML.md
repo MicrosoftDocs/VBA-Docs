@@ -48,7 +48,7 @@ The data in the XML string you pass to the  **RefreshUsingXML** method should be
 
 When you create a data recordset, Microsoft Visio assigns row IDs to all the rows in the recordset based on the existing order of the rows in the data source. 
 
-If the XML string you pass to the  **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML ](Visio.DataRecordset.DataAsXML.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
+If the XML string you pass to the  **RefreshUsingXML** method contains a column consisting of Visio row IDs (as it would, for example, if you exported it from Visio by getting the **[DataAsXML](Visio.DataRecordset.DataAsXML.md)** property value of the data recordset), the **RefreshUsingXML** method attempts to validate the row IDs in the string. If the method finds the row IDs to be valid, it reuses them in the updated data recordset. If it finds them to be invalid, it returns an error.
 
 
 ## Example

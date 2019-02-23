@@ -26,11 +26,11 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-This property is helpful for programmatically changing the action Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
+This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
 
 The **GotFocus** event occurs when the object receives the focus.
 
-The **OnGotFocus** value will be one of the following, depending on the selection chosen in the **Choose Builder** window (accessed by clicking the **Build** button next to the **On Got Focus** box in the object's Properties window):
+The **OnGotFocus** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Got Focus** box in the object's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
@@ -49,8 +49,6 @@ The following example prints the value of the **OnGotFocus** property in the Imm
 ```vb
 Debug.Print Forms("Order Entry").Controls("OK").OnGotFocus
 ```
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

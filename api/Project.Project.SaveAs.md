@@ -45,7 +45,7 @@ _expression_ A variable that represents a **Project** object.
 
 <br/>
 
-#### Format strings
+### Format strings
 
 |**Format string**|**Description**|
 |:-----|:-----|

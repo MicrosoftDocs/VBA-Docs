@@ -14,7 +14,7 @@ localization_priority: Normal
 
 Code within a [module](../Glossary/vbe-glossary.md#module) is organized into [procedures](../Glossary/vbe-glossary.md#procedure). A procedure tells the application how to perform a specific task. Use procedures to divide complex code tasks into more manageable units.
 
-### To create a procedure by writing code
+**To create a procedure by writing code**
 
 1. Open the module for which you want to write the procedure.
     
@@ -24,7 +24,7 @@ Code within a [module](../Glossary/vbe-glossary.md#module) is organized into [pr
     
 4. Type code for the procedure. Visual Basic concludes the procedure with the appropriate **[End Sub](../reference/user-interface-help/end-statement.md)**, **End Function**, or **End Property** statement.
     
-### To create a procedure by using the Insert Procedure dialog box
+**To create a procedure by using the Insert Procedure dialog box**
 
 1. Open the module for which you want to write the procedure.
     

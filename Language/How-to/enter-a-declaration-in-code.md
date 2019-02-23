@@ -18,7 +18,7 @@ To enter [module-level](../Glossary/vbe-glossary.md#module-level) declarations, 
 
 You can also enter [procedure-level](../Glossary/vbe-glossary.md#procedure-level) declarations. For whatever code level and technique you use to declare a variable or constant, specific [scoping](../Glossary/vbe-glossary.md#scope) rules may apply.
 
-### To open the Declarations section of a module
+**To open the Declarations section of a module**
 
 1. In the **[Project](../reference/user-interface-help/project-explorer.md)** window, select the form, standard, or class module that you want to open, and choose the **View Code** button, or right-click and choose **View Code** from the context menu.
     

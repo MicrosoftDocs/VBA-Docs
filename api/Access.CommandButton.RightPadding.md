@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.CommandButton.RightPadding
 ms.assetid: f5a02077-2598-3b5c-58c9-fa77d5947cff
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
 
 # CommandButton.RightPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the button and its right gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the button and its right gridline. Read/write **Integer**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**RightPadding**
 _expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
-## See also
 
-
-[CommandButton Object](Access.CommandButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

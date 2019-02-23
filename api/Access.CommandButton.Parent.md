@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CommandButton.Parent
 ms.assetid: 288169cc-0934-43b0-a7b4-18445844519b
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
-## See also
 
-
-[CommandButton Object](Access.CommandButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

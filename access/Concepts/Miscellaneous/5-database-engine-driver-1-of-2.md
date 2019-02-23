@@ -22,36 +22,33 @@ When you install the Microsoft Jet version 3.5 Engine database driver, the Setup
 
 The **Access Connectivity Engine\Engines\Jet 3.x** folder includes initialization settings for the Acer3x.dll driver, used for access to Microsoft Access 97 worksheets. Typical initialization settings for the entries in this folder are shown in the following example.
 
+    win32=<path>\ Acer3x.dll
 
-```
-win32=<path>\ Acer3x.dll
+    FlushTransactionTimeout=500
 
-FlushTransactionTimeout=500 
+    LockDelay=100
 
-LockDelay=100 
+    LockRetry=20
 
-LockRetry=20 
+    MaxBufferSize= 0
 
-MaxBufferSize= 0 
+    MaxLocksPerFile= 9500
 
-MaxLocksPerFile= 9500 
+    PageTimeout=5000
 
-PageTimeout=5000 
+    Threads=3
 
-Threads=3 
+    UserCommitSync=Yes
 
-UserCommitSync=Yes 
+    ImplicitCommitSync=No
 
-ImplicitCommitSync=No 
+    ExclusiveAsyncDelay=2000
 
-ExclusiveAsyncDelay=2000 
+    SharedAsyncDelay=0
 
-SharedAsyncDelay=0 
+    RecycleLVs=0
 
-RecycleLVs=0 
-
-SortMemorySource=0
-```
+    SortMemorySource=0
 
 The Microsoft Access database engine uses the following entries.
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Printers.Parent
 ms.assetid: 60cd2e92-97d1-2bba-1706-6e7dc06a5548
-ms.date: 06/08/2017
+ms.date: 02/23/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents a **[Printers](Access.Printers.md)** object.
 
 
-## See also
 
-
-[Printers Collection](Access.Printers.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

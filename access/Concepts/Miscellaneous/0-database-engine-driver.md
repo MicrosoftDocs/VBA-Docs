@@ -22,14 +22,11 @@ When you install the Microsoft Access database engine database driver, the Setup
 
 The **Access Connectivity Engine\Engines** folder includes initialization settings for the msjet40.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
+    SystemDB = <path>\System.mdb
 
-```
-SystemDB = <path>\System.mdb 
+    CompactBYPkey = 1
 
-CompactBYPkey = 1 
-
-PrevFormatCompactWithUNICODECompression=1
-```
+    PrevFormatCompactWithUNICODECompression=1
 
 The Microsoft Access database engine uses the following entries.
 
@@ -43,33 +40,31 @@ The Microsoft Access database engine uses the following entries.
 
 The **Access Connectivity Engine\Engines\ACE** folder includes initialization settings for the Ace.dll database engine, used for access to Microsoft Access databases. Typical initialization settings for the entries in this folder are shown in the following example.
 
-```
-FlushTransactionTimeout=500 
+    FlushTransactionTimeout=500
 
-LockDelay=100 
+    LockDelay=100
 
-LockRetry=20 
+    LockRetry=20
 
-MaxBufferSize= 0 
+    MaxBufferSize= 0
 
-MaxLocksPerFile= 9500 
+    MaxLocksPerFile= 9500
 
-PageTimeout=5000 
+    PageTimeout=5000
 
-Threads=3 
+    Threads=3
 
-UserCommitSync=Yes 
+    UserCommitSync=Yes
 
-ImplicitCommitSync=No 
+    ImplicitCommitSync=No
 
-ExclusiveAsyncDelay=2000 
+    ExclusiveAsyncDelay=2000
 
-SharedAsyncDelay=0 
+    SharedAsyncDelay=0
 
-RecycleLVs=0 
+    RecycleLVs=0
 
-PagesLockedToTableLock=0
-```
+    PagesLockedToTableLock=0
 
 <br/>
 

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # Search for text in code
 
-### To search for specific text in a module
+**To search for specific text in a module**
 
 1. On the **[Edit](../reference/user-interface-help/edit-menu.md#find-find-next)** menu, choose **Find**. The **Find** dialog box appears.
     

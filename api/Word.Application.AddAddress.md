@@ -32,9 +32,9 @@ _expression_ Required. A variable that represents an **[Application](Word.Applic
 
 <br/>
 
-#### Tag IDs
+### Tag IDs
 
-|**Tag ID**|**Description**|
+|Tag ID|Description|
 |:-----|:-----|
 |PR_DISPLAY_NAME|Name displayed in the **Address Book** dialog box|
 |PR_DISPLAY_NAME_PREFIX|Title (for example, "Ms." or "Dr.")|

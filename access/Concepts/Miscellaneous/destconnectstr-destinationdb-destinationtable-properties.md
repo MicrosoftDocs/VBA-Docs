@@ -52,9 +52,7 @@ To specify a table in a database created by a different product, such as Paradox
 
 To specify an Open Database Connectivity (ODBC) database, enter the name of the database in the **DestConnectStr** property box along with additional information, such as a logon identification (ID) and password, as required by the product. For example, you might use the following setting for a Microsoft SQL Server database:
 
-```
-ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
-```
+    ODBC;DSN=salessrv;UID=jace;PWD=password;DATABASE=sales;
 
 For more information about ODBC drivers, such as Microsoft SQL Server, see the Help provided with the driver.
 

@@ -41,7 +41,7 @@ _expression_ An expression that returns an **Application** object.
 | _LabelFontColor_|Optional|**Long**|The color of the font. Can be a hexadecimal RGB value, where red is the last byte. For example, the value &H01FFFF is yellow.|
 
 
-#### Format codes
+### Format codes
 
 |**Format code**|**Description**|
 |:-----|:-----|
