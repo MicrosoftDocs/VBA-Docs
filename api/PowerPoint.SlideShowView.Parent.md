@@ -42,7 +42,7 @@ With myShapes.AddShape(Type:=msoShapeOval, Left:=50, _
 
     .TextRange.Text = "Test text"
     .Parent.Rotation = 45
-	
+
 End With
 ```
 

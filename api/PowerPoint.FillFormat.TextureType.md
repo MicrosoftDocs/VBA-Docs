@@ -63,8 +63,6 @@ For Each s In myDocument.Shapes
     End With
 
 Next
-
-	
 ```
 
 

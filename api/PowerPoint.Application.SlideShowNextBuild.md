@@ -65,11 +65,9 @@ Private Sub App_SlideShowNextBuild(ByVal Wn As SlideShowWindow)
 
     End If
 
-	EvtCounter = EvtCounter + 1
+    EvtCounter = EvtCounter + 1
 
 End Sub
-
-	
 ```
 
 

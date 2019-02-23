@@ -35,10 +35,10 @@ This example illustrates the difference between the **Text** and **[Value](Excel
 
 ```vb
 Dim c As Range
-c.Value = 1198.3 	Set c = Worksheets("Sheet1").Range("A1")
-c.NumberFormat = "$#,##0_);($#,##0)" 	c.Value = 1198.3
-MsgBox c.Value 	c.NumberFormat = "$#,##0_);($#,##0)"
-MsgBox c.Text	MsgBox c.Value & " is the value." 'Returns "1198.3 is the value."
+Set c = Worksheets("Sheet1").Range("A1")
+c.NumberFormat = "$#,##0_);($#,##0)"
+c.Value = 1198.3
+MsgBox c.Value & " is the value." 'Returns "1198.3 is the value."
 MsgBox c.Text & " is the text."   'Returns "$1,198 is the text."
 ```
 

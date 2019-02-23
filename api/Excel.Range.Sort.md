@@ -38,7 +38,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 | _Header_|Optional| **xlYesNoGuess**|Specifies whether the first row contains header information. **xlNo** is the default value; specify **xlGuess** if you want Excel to attempt to determine the header.|
 | _OrderCustom_|Optional| **Variant**|Specifies a one-based integer offset into the list of custom sort orders.|
 | _MatchCase_|Optional| **Variant**|Set to **True** to perform a case-sensitive sort, **False** to perform non-case sensitive sort; cannot be used with pivot tables.|
-| _Orientation_|Optional| **xlSortOrientation**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to	1	to sort by column. Set **xlSortRows** value to 2 to sort by row. (This is the default value.) |
+| _Orientation_|Optional| **xlSortOrientation**|Specifies if the sort should be by row (default) or column. Set **xlSortColumns** value to 1 to sort by column. Set **xlSortRows** value to 2 to sort by row. (This is the default value.) |
 | _SortMethod_|Optional| **xlSortMethod**|Specifies the sort method.|
 | _DataOption1_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in _Key1_; does not apply to pivot table sorting.|
 | _DataOption2_|Optional| **xlSortDataOption**|Specifies how to sort text in the range specified in  _Key2_; does not apply to pivot table sorting.|

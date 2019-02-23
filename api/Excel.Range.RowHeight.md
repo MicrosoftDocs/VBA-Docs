@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 Use the **[AutoFit](Excel.Range.AutoFit.md)** method to set row heights based on the contents of cells.
 
 > [!NOTE]
-> If a merged cell is in the range, **RowHeight** returns **Null** for varied row heights.	Use the **[Height](Excel.Range.Height.md)** property to return the total height of a range of cells.
+> If a merged cell is in the range, **RowHeight** returns **Null** for varied row heights. Use the **[Height](Excel.Range.Height.md)** property to return the total height of a range of cells.
 
 > [!NOTE]
 > When a range contains rows of different heights, **RowHeight** might return the height of the first row or might return **Null**.

@@ -246,11 +246,12 @@ For more information about how the Visual Basic Editor can significantly affect 
     Private Declare PtrSafe Function getFrequency Lib "kernel32" Alias _
         "QueryPerformanceFrequency" (cyFrequency As Currency) As Long
     Private Declare PtrSafe Function getTickCount Lib "kernel32" Alias _
-         "QueryPerformanceCounter" (cyTickCount As Currency) As Long
+        "QueryPerformanceCounter" (cyTickCount As Currency) As Long
 #Else
-    Private Declare Function getFrequency Lib "kernel32" Alias _                                         	"QueryPerformanceFrequency" (cyFrequency As Currency) As Long
+    Private Declare Function getFrequency Lib "kernel32" Alias _
+        "QueryPerformanceFrequency" (cyFrequency As Currency) As Long
     Private Declare Function getTickCount Lib "kernel32" Alias _
-    	"QueryPerformanceCounter" (cyTickCount As Currency) As Long
+        "QueryPerformanceCounter" (cyTickCount As Currency) As Long
 #End If
 Function MicroTimer() As Double
 '

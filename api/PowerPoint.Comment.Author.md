@@ -49,7 +49,6 @@ Sub GetAuthorName()
         MsgBox "This comment was created by " & _
             .Comments(1).Author & " (" & .Comments(1).AuthorInitials & ")."
     End With
-	
 End Sub
 ```
 

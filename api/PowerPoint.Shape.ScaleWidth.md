@@ -68,7 +68,7 @@ For Each s In myDocument.Shapes
     Select Case s.Type
       Case msoEmbeddedOLEObject, msoLinkedOLEObject, _
             msoOLEControlObject, msoLinkedPicture, msoPicture 
-		s.ScaleHeight 1.75, msoTrue
+        s.ScaleHeight 1.75, msoTrue
         s.ScaleWidth 1.75, msoTrue
 
       Case Else

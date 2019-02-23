@@ -59,7 +59,7 @@ Sub ShapeID()
 
             Case Else
                 .Fill.ForeColor.RGB = RGB(Red:=0, Green:=0, Blue:=255)
-				
+
         End Select
     End With
 

@@ -52,7 +52,6 @@ Private Sub Report_Load()
         Me.OnCurrent = "[Event Procedure]"
 
 End Sub
-		
 ```
 
 The event procedure  **Report_Current()** is automatically called when the **Current** event is fired. This procedure simply collects the values of two of the Report's text boxes and sends them to another procedure for processing.
@@ -76,7 +75,6 @@ Private Sub Report_Current()
         VerifyCreditAvail curPrice, curCreditAvail
 
 End Sub
-		
 ```
 
 The following code example simply processes the two values passed to it.

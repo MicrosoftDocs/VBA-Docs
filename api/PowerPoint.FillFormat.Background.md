@@ -60,7 +60,7 @@ With ActivePresentation.Slides(1)
             .Fill.PresetGradient _
             msoGradientHorizontal, 1, msoGradientDaybreak
     End With
-	
+
 End With
 ```
 
