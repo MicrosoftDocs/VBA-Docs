@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Remarks
 
-The  **SelLeft** property returns a value between 1 and the number of columns in the datasheet.
+The **SelLeft** property returns a value between 2 and the number of columns in the datasheet + 1 (Access starts counting at 0). The first two columns are always the record selector column and the expand/collapse indicator column for a subdatasheet.
 
 If there's no selection, the value returned by these properties is the row and column of the cell with the focus. If you've selected one or more records in the datasheet (using the record selectors), you can't change the setting of the  **SelLeft** property.
 
