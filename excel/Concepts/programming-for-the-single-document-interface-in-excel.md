@@ -125,8 +125,7 @@ Custom Task Panes that attached to a top level window in MDI are now attached to
 
 To summarize, as a developer, you will want to:
 
-
-- Ensure that for any workbooks where you want to want to show the custom task pane, you write code to explicitly do that.
+- Ensure that for any workbooks where you want to show the custom task pane, you write code to explicitly do that.
     
 - Ensure that you explicitly handle updating the custom task pane state across all instances, if you want all of the custom task panes to reflect the same state. For example, a check box is toggled to ON by the user, and you want that to be reflected across all of the custom task panes in all instances of Excel.
     
@@ -138,11 +137,9 @@ Custom ribbon tabs and controls that assumed a single ribbon UI per application 
 
 If you want to keep all the ribbon UI controls in the same state across open workbooks, you will need to:
 
-
 - Ensure that the code is able to cycle through the workbook windows and update the state of the controls.
     
 OR
-
 
 - Cache the state of the controls so that when the user switches to another workbook, that event can be captured and the controls updated as part of the window switch.
     
