@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.TabStop
 ms.assetid: 28712aec-2836-9ed0-c8a0-fd5aa50828d0
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.TabStop property (Access)
 
-You can use the  **TabStop** property to specify whether you can use the TAB key to move the focus to a control. Read/write **Boolean**.
+You can use the **TabStop** property to specify whether you can use the Tab key to move the focus to a control. Read/write **Boolean**.
 
 
 ## Syntax
@@ -28,20 +28,18 @@ _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.m
 
 This property doesn't apply to toggle button controls when they appear in an option group. It applies only to the option group itself.
 
-The  **TabStop** property uses the following settings.
-
-
+The **TabStop** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
-|Yes|**True**|(Default) You can move the focus to the control by pressing the TAB key.|
-|No|**False**|You can't move the focus to the control by pressing the TAB key.|
+|Yes|**True**|(Default) You can move the focus to the control by pressing the Tab key.|
+|No|**False**|You can't move the focus to the control by pressing the Tab key.|
 
-When you create a control on a form, Microsoft Access automatically assigns the control a position in the form's tab order. Each new control is placed last in the tab order. If you want to prevent a control from being available when you tab through the controls in a form, set the control's  **TabStop** property to No.
+When you create a control on a form, Microsoft Access automatically assigns the control a position in the form's tab order. Each new control is placed last in the tab order. If you want to prevent a control from being available when you tab through the controls in a form, set the control's **TabStop** property to No.
 
-In Form view, hidden or disabled controls remain in the tab order but are skipped when you move through the controls by pressing TAB, even if their  **TabStop** properties are set to Yes.
+In Form view, hidden or disabled controls remain in the tab order but are skipped when you move through the controls by pressing Tab, even if their **TabStop** properties are set to Yes.
 
-As long as a control's  **Enabled** property is set to Yes, you can click the control or use an access key to select it, regardless of its **TabStop** property setting. For example, you can set the **TabStop** property of a command button to No to prevent users from selecting the button by pressing TAB. However, they can still click the command button to choose it.
+As long as a control's **Enabled** property is set to Yes, you can click the control or use an access key to select it, regardless of its **TabStop** property setting. For example, you can set the **TabStop** property of a command button to No to prevent users from selecting the button by pressing Tab. However, they can still click the command button to choose it.
 
 
 ## Example
@@ -54,9 +52,5 @@ Forms("Suppliers").Controls("City").TabStop = False
 ```
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
