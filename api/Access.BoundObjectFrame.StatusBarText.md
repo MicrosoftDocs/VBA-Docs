@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 ## Remarks
 
-You set the **StatusBarText** property by using a string expression up to 255 characters long.
-
-> [!NOTE] 
-> The length of the text you can display in the status bar depends on your computer hardware and video display.
+You set the **StatusBarText** property by using a string expression up to 255 characters long. The length of the text that you can display in the status bar depends on your computer hardware and video display.
 
 You can use the **StatusBarText** property to provide specific information about a control. For example, when a text box has the focus, a brief instruction can tell the user what kind of data to enter.
 
-> [!NOTE] 
-> You can also use the **ControlTipText** property to display a ScreenTip for a control.
-
 If you create a control by dragging a field from the field list, the value in a field's **Description** property is copied to the **StatusBarText** property.
+
+> [!TIP] 
+> You can also use the **ControlTipText** property to display a ScreenTip for a control.
 
 
 ## Example
