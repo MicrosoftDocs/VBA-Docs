@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.ShortcutMenuBar property (Access)
 
-You can use the **ShortcutMenuBar** property to specify the shortcut menu that will appear when you right-click the specified object. Read/write **String**.
+You can use the **ShortcutMenuBar** property to specify the shortcut menu that appears when you right-click the specified object. Read/write **String**.
 
 
 ## Syntax

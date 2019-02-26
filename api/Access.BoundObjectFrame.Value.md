@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Value property (Access)
 
-Gets of sets the value of the field that the control is bound to. Read/write **Variant**.
+Gets or sets the value of the field that the control is bound to. Read/write **Variant**.
 
 
 ## Syntax

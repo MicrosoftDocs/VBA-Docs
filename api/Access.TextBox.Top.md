@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.TextBox.Top
 ms.assetid: 6a220cec-d42c-05e3-c8c0-078687813a8d
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Normal
 ---
 
 
 # TextBox.Top property (Access)
 
-You can use the  **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. 
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** objec
 
 ## Remarks
 
-In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in twips.
+In Visual Basic, use a numeric expression to set the value of this property. Values are expressed in [twips](../language/glossary/vbe-glossary.md#twip).
 
 
-## See also
 
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

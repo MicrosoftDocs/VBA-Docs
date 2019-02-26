@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.SubForm.SpecialEffect
 ms.assetid: b2959ab7-c66d-99a4-e7df-716556ec56b1
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Normal
 ---
 
 
 # SubForm.SpecialEffect property (Access)
 
-You can use the  **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
+You can use the **SpecialEffect** property to specify whether special formatting will apply to the specified object. Read/write **Byte**.
 
 
 ## Syntax
@@ -23,12 +23,9 @@ _expression_.**SpecialEffect**
 
 _expression_ A variable that represents a **[SubForm](Access.SubForm.md)** object.
 
-
 ## Remarks
 
-The  **SpecialEffect** property uses the following settings.
-
-
+The **SpecialEffect** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -39,22 +36,17 @@ The  **SpecialEffect** property uses the following settings.
 |Shadowed|4|The object has a shadow below and to the right of the control.|
 |Chiseled|5|The object has a sunken line below the control.|
 
-The  **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
+The **SpecialEffect** property setting affects related property settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties. For example, if the **SpecialEffect** property is set to Raised, the settings for the **BorderStyle**, **BorderColor**, and **BorderWidth** properties are ignored. In addition, changing or setting the **BorderStyle**, **BorderColor**, and **BorderWidth** properties may cause Microsoft Access to change the **SpecialEffect** property setting to Flat.
 
 
 ## Example
 
-The following example sets the appearance of the text box **OrganizationName1** on the **Mailing List** form to raised.
+The following example sets the appearance of the text box **OrganizationName1** on the **Mailing List** form to Raised.
 
 
 ```vb
 Forms("Mailing List").Controls("OrganizationName1").SpecialEffect = 1
 ```
 
-
-## See also
-
-
-[SubForm Object](Access.SubForm.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

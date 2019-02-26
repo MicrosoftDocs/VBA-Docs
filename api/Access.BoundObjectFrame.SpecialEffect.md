@@ -42,7 +42,7 @@ The **SpecialEffect** property setting affects related property settings for the
 
 ## Example
 
-The following example sets the appearance of the text box **OrganizationName1** on the **Mailing List** form to raised.
+The following example sets the appearance of the text box **OrganizationName1** on the **Mailing List** form to Raised.
 
 
 ```vb

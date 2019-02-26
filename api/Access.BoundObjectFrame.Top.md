@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Top property (Access)
 
-You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. .
+You can use the **Top** property to specify an object's location on a form or report. Read/write **Integer**. 
 
 
 ## Syntax
