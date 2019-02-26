@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CurrentProject.AllMacros
 ms.assetid: 73c01f69-530b-eb7f-8f77-ecf47e9c2d2f
-ms.date: 06/08/2017
+ms.date: 02/27/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**AllMacros**
 _expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
-## See also
 
-
-[CurrentProject Object](Access.CurrentProject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

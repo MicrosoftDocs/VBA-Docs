@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AccessObject.FullName property (Access)
 
-Sets or returns the full path (including file name) of a specific object. Read/write **String**.
+Sets or returns the full path (including the file name) of a specific object. Read/write **String**.
 
 
 ## Syntax
@@ -22,5 +22,7 @@ Sets or returns the full path (including file name) of a specific object. Read/w
 _expression_.**FullName**
 
 _expression_ A variable that represents an **[AccessObject](Access.AccessObject.md)** object.
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

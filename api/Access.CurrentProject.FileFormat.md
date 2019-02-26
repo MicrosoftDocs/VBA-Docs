@@ -7,26 +7,26 @@ ms.prod: access
 api_name:
 - Access.CurrentProject.FileFormat
 ms.assetid: eb062d95-3042-eae7-9c0b-9d052e28b8cd
-ms.date: 06/08/2017
+ms.date: 02/27/2019
 localization_priority: Normal
 ---
 
 
 # CurrentProject.FileFormat property (Access)
 
-Returns an  **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
+Returns an **[AcFileFormat](Access.AcFileFormat.md)** constant indicating the Microsoft Access version format of the specified project. Read-only.
 
 
 ## Syntax
 
-_expression_. `FileFormat`
+_expression_.**FileFormat**
 
 _expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
 ## Remarks
 
-Use the  **ConvertAccessProject** method to convert an Access project from one version to another.
+Use the **ConvertAccessProject** method to convert an Access project from one version to another.
 
 
 ## Example
@@ -56,9 +56,6 @@ MsgBox "This is a " & strFormat & " project."
 ```
 
 
-## See also
 
-
-[CurrentProject Object](Access.CurrentProject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
