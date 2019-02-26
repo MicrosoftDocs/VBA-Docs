@@ -21,7 +21,7 @@ Gets or sets an **[AcVerticalAnchor](Access.AcVerticalAnchor.md)** constant that
 
 _expression_.**VerticalAnchor**
 
-_expression_. A variable that represents a **BoundObjectFrame** object.
+_expression_. A variable that represents a **[BoundObjectFrame](access.boundobjectframe.md)** object.
 
 
 ## Remarks
