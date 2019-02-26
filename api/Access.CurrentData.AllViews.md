@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CurrentData.AllViews
 ms.assetid: fab56178-86bd-18fa-8742-1749fd1c7707
-ms.date: 06/08/2017
+ms.date: 02/27/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**AllViews**
 _expression_ A variable that represents a **[CurrentData](Access.CurrentData.md)** object.
 
 
-## See also
 
-
-[CurrentData Object](Access.CurrentData.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
