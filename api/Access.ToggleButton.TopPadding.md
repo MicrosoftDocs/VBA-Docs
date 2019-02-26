@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.TopPadding
 ms.assetid: 5a53f0b9-895f-afbb-b0cf-209652d3863e
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.TopPadding property (Access)
 
-Gets or sets the amount of space (in inches) between the toggle button and its top gridline. Read/write  **Integer**.
+Gets or sets the amount of space (in inches) between the toggle button and its top gridline. Read/write **Integer**.
 
 
 ## Syntax
@@ -24,9 +24,6 @@ _expression_.**TopPadding**
 _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
