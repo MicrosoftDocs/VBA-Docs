@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Label.LeftMargin property (Access)
 
-Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**. .
+Along with the  **TopMargin**, **RightMargin**, and **BottomMargin** properties, specifies the location of information displayed within a label control. Read/write **Integer**. 
 
 
 ## Syntax
