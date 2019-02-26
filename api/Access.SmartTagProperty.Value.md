@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.SmartTagProperty.Value
 ms.assetid: d2405ad4-9d68-4272-0b26-f97cd639778a
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Normal
 ---
 
 
 # SmartTagProperty.Value property (Access)
 
-Gets or sets the value of the specified object. Read/write  **Variant**.
+Gets or sets the value of the specified object. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,12 +26,9 @@ _expression_ A variable that represents a **[SmartTagProperty](Access.SmartTagPr
 
 ## Remarks
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
 
-## See also
 
-
-[SmartTagProperty Object](Access.SmartTagProperty.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

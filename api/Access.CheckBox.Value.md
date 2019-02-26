@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.CheckBox.Value
 ms.assetid: a19b0395-eebb-42d6-58b8-affbe56a72b5
-ms.date: 06/08/2017
+ms.date: 02/26/2019
 localization_priority: Priority
 ---
 
 
 # CheckBox.Value property (Access)
 
-Determines or specifies whether or not the specified check box is checked. Read /write  **Variant**.
+Determines or specifies whether the specified check box is selected. Read/write **Variant**.
 
 
 ## Syntax
@@ -26,17 +26,14 @@ _expression_ A variable that represents a **[CheckBox](Access.CheckBox.md)** obj
 
 ## Remarks
 
-Set to  **True** to select the check box. The default value is **False**.
+Set to **True** to select the check box. The default value is **False**.
 
-The  **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
+The **Value** property returns or sets a control's default property, which is the property that is assumed when you don't explicitly specify a property name.
 
-
- **Note**   The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
-
-
-## See also
+> [!NOTE] 
+> The **Value** property is not the same as the **DefaultValue** property, which specifies the value that a property is assigned when a new record is created.
 
 
-[CheckBox Object](Access.CheckBox.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
