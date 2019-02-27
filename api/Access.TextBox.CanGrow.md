@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.TextBox.CanGrow
 ms.assetid: 5e96e693-9e1a-1f1f-5d5d-672e6232c330
-ms.date: 06/08/2017
+ms.date: 02/28/2019
 localization_priority: Priority
 ---
 
 
 # TextBox.CanGrow property (Access)
 
-Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data the control contains. Read/write  **Boolean**.
+Gets or sets whether the specified control automatically adjusts vertically to print or preview all the data that the control contains. Read/write **Boolean**. 
 
 
 ## Syntax
 
-_expression_. `CanGrow`
+_expression_.**CanGrow**
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
 
-The  **CanGrow** property uses the following settings.
-
-
+The **CanGrow** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -37,26 +35,18 @@ The  **CanGrow** property uses the following settings.
 
 This property setting is read-only in a macro or Visual Basic in any view but Design view.
 
-You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so any amount of data can be printed. When a control grows, the controls below it move down the page.
+You can use this property to control the appearance of printed forms and reports. When you set the property to Yes, the object automatically adjusts so that any amount of data can be printed. When a control grows, the controls below it move down the page.
 
-If you set a control's  **CanGrow** property to Yes, Microsoft Access automatically sets the **CanGrow** property of the section containing the control to Yes.
+If you set a control's **CanGrow** property to Yes, Microsoft Access automatically sets the **CanGrow** property of the section containing the control to Yes.
 
-Sections grow vertically across their entire width. To grow the data independently, you can place two subform or subreport controls side by side, and set their  **CanGrow** property to Yes.
+Sections grow vertically across their entire width. To grow the data independently, you can place two subform or subreport controls side by side, and set their **CanGrow** property to Yes.
 
-When you use the  **CanGrow** property, remember that:
-
+When you use the **CanGrow** property, remember that:
 
 - The property settings don't affect the horizontal spacing between controls; they affect only the vertical space the controls occupy.
     
 - Overlapping controls can't grow.
     
 
- **Note**  
-
-
-## See also
-
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
