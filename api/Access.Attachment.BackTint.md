@@ -37,12 +37,9 @@ This property is not surfaced in the property sheet.
 
 The following code example lightens the **BackColor** property by 75%.
 
-
 ```vb
 Me.ctl.BackTint=25
 ```
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
