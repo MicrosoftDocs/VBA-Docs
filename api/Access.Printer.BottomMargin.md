@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Printer.BottomMargin
 ms.assetid: db09e17d-8ef7-12f3-428d-1e6a0a551f4a
-ms.date: 06/08/2017
+ms.date: 02/28/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,5 @@ _expression_.**BottomMargin**
 _expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
-## See also
-
-
-[Printer Object](Access.Printer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
