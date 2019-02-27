@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.CurrentProject.ImportExportSpecifications
 ms.assetid: b614eb40-d9cd-d615-41c9-c6980ea85006
-ms.date: 06/08/2017
+ms.date: 02/27/2019
 localization_priority: Normal
 ---
 
 
 # CurrentProject.ImportExportSpecifications property (Access)
 
-Returns a  **[ImportExportSpecifications](Access.ImportExportSpecifications.md)** collection that represents the collection of saved import or export operations for the specified object. Read-only.
+Returns an **[ImportExportSpecifications](Access.ImportExportSpecifications.md)** collection that represents the collection of saved import or export operations for the specified object. Read-only.
 
 
 ## Syntax
 
-_expression_. `ImportExportSpecifications`
+_expression_.**ImportExportSpecifications**
 
 _expression_ A variable that represents a **[CurrentProject](Access.CurrentProject.md)** object.
 
 
-## See also
 
-
-[CurrentProject Object](Access.CurrentProject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
