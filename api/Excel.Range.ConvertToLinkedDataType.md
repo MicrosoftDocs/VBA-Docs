@@ -27,16 +27,17 @@ _expression_ A variable that represents a **[Range](Excel.Range(Object).md)** ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ServiceID_|Required| **Long**|The ID of the service that will provide the linked entity.|
-| _LanguageCulture_|Required| **String**|A string representing the [LCID](https://msdn.microsoft.com/library/cc233982.aspx) of the language and culture that you would like to use for the linked entity. |
+| _LanguageCulture_|Required| **String**|A string representing the [LCID](https://docs.microsoft.com/openspecs/windows_protocols/ms-lcid/a9eac961-e77d-41a6-90a5-ce1a8b0cdb9c) of the language and culture that you would like to use for the linked entity. |
 
 ## Remarks
 
 The method will fail and throw a runtime exception '1004' if the specified locale is not supported on the specified service.
 
 It will have no effect (and throw no exception) in these cases:
-1. The cells in the range are blank (that is, there is nothing to convert).
-2. The cells in the range contain a formula. If you want to convert such a range, you need to set the cell values to the current calc result first.
-3. The cells in the range have already been converted to the specified data type.
+
+- The cells in the range are blank (that is, there is nothing to convert).
+- The cells in the range contain a formula. If you want to convert such a range, you need to set the cell values to the current calc result first.
+- The cells in the range have already been converted to the specified data type.
 
 ## Example
 
@@ -46,7 +47,7 @@ This code will convert cell `E5` to a "Stocks" Linked data type in the US-Englis
 Range("E5").ConvertToLinkedDataType ServiceID:=268435456, LanguageCulture:= "en-US"
 ```
 
-This code will convert cell E6 to a "Geography" Linked data type in the US-English locale:
+This code will convert cell `E6` to a "Geography" Linked data type in the US-English locale:
 
 ```vb
 Range("E6").ConvertToLinkedDataType ServiceID:=536870912, LanguageCulture:= "en-US"
