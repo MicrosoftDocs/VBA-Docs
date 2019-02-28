@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: excel
 api_name:
 - Excel.Range.ConvertToLinkedDataType
-ms.date: 09/12/2018
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
@@ -17,9 +17,9 @@ Attempts to convert all the cells in the range to a Linked data type such as [St
 
 ## Syntax
 
-_expression_. `ConvertToLinkedDataType`( `ServiceID`, `LanguageCulture` )
+_expression_.**ConvertToLinkedDataType** (_ServiceID_, _LanguageCulture_)
 
-_expression_ A variable that represents a [Range](Excel.Range(Object).md) object.
+_expression_ A variable that represents a **[Range](Excel.Range(Object).md)** object.
 
 
 ## Parameters
