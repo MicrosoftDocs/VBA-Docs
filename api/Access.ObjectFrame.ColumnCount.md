@@ -38,7 +38,7 @@ To display a different combination of fields, create either a new query or a new
 
 If the **RowSource** property contains a list of values (the **RowSourceType** property is set to Value List), the values are put into the rows and columns of the combo box or list box in the order they are listed in the **RowSource** property. For example, if the **RowSource** property contains the list "Red; Green; Blue; Yellow" and the **ColumnCount** property is set to 2, the first row of the combo box or list box list will contain "Red" in the first column and "Green" in the second column. The second row will contain "Blue" in the first column and "Yellow" in the second column.
 
-You can use the **ColumnWidths** property to set the width of the columns displayed in the control, or to hide columns.
+You can use the **ColumnWidths** property to set the width of the columns displayed in the control or to hide columns.
 
 
 ## Example

@@ -19,7 +19,7 @@ The **NotInList** event occurs when the user enters a value in the text box port
 
 ## Syntax
 
-_expression_**NotInList** (_NewData_, _Response_)
+_expression_.**NotInList** (_NewData_, _Response_)
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
@@ -43,7 +43,7 @@ The **NotInList** event doesn't trigger the **Error** event.
 
 The **NotInList** event occurs for combo boxes whose **LimitToList** property is set to Yes, after you enter a value that isn't in the list and attempt to move to another control or save the record. The event occurs after all the **Change** events for the combo box.
 
-When the **[AutoExpand](Access.ComboBox.AutoExpand.md)** property is set to Yes, Access selects matching values in the list as the user enters characters in the text box portion of the combo box. If the characters that the user types match the first characters of a value in the list (for example, the user types "Smith," and "Smithson" is a value in the list), the **NotInList** event will not occur when the user moves to another control or saves the record. However, the characters that Access adds to the characters that the user types (in the example, "son") are selected in the text box portion of the combo box. If the user wants the **NotInList** event to fire in such cases (for example, the user wants to add the new name "Smith" to the combo box list), the user can enter a **Space**, **Backspace**, or **Delete** character after the last character in the new value.
+When the **[AutoExpand](Access.ComboBox.AutoExpand.md)** property is set to Yes, Access selects matching values in the list as the user enters characters in the text box portion of the combo box. If the characters that the user types match the first characters of a value in the list (for example, the user types "Smith," and "Smithson" is a value in the list), the **NotInList** event will not occur when the user moves to another control or saves the record. However, the characters that Access adds to the characters that the user types (in the example, "son") are selected in the text box portion of the combo box. If the user wants the **NotInList** event to fire in such cases (for example, the user wants to add the new name "Smith" to the combo box list), the user can enter a Space, Backspace, or Delete character after the last character in the new value.
 
 When the **LimitToList** property is set to Yes and the combo box list is dropped down, Access selects matching values in the list as the user enters characters in the text box portion of the combo box, even if the **AutoExpand** property is set to No. If the user presses **Enter** or moves to another control or record, the selected value appears in the combo box. In this case, the **NotInList** event will not fire. To allow the **NotInList** event to fire, the user should not drop down the combo box list.
 
