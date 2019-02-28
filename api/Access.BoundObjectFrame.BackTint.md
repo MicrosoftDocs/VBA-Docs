@@ -32,17 +32,13 @@ To lighten the color, first determine the percentage by which to lighten from 1 
 
 This property is not surfaced in the property sheet.
 
-
 ## Example
 
 The following code example lightens the **BackColor** property by 75%.
 
-
 ```vb
 Me.ctl.BackTint=25
 ```
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

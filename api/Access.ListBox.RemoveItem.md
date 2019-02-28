@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ListBox.RemoveItem
 ms.assetid: 5a2f010b-9888-9aff-fee1-1e9e596464e8
-ms.date: 06/08/2017
+ms.date: 02/28/2019
 localization_priority: Priority
 ---
 
@@ -19,14 +19,12 @@ Removes an item from the list of values displayed by the specified list box cont
 
 ## Syntax
 
-_expression_. `RemoveItem`( `_Index_` )
+_expression_.**RemoveItem** (_Index_)
 
 _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,16 +32,16 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 ## Remarks
 
-This method is only valid for list box or combo box controls on forms. Also, the  **RowSourceType** property of the control must be set to "Value List".
+This method is only valid for list box or combo box controls on forms. Also, the **RowSourceType** property of the control must be set to Value List.
 
-List item numbers start from zero. If the value of the  _Index_ argument doesn't correspond to an existing item number or the text of an existing item, an error occurs.
+List item numbers start from zero. If the value of the _Index_ argument doesn't correspond to an existing item number or the text of an existing item, an error occurs.
 
-Use the  **AddItem** method to add items to the list of values.
+Use the **AddItem** method to add items to the list of values.
 
 
 ## Example
 
-This example removes the specified item from the list in a list box control. For the function to work, you must pass it a  **ListBox** object representing a list box control on a form and a **Variant** value representing the item to be removed.
+This example removes the specified item from the list in a list box control. For the function to work, you must pass it a **ListBox** object representing a list box control on a form and a **Variant** value representing the item to be removed.
 
 
 ```vb
@@ -70,9 +68,5 @@ End Function
 ```
 
 
-## See also
-
-
-[ListBox Object](Access.ListBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

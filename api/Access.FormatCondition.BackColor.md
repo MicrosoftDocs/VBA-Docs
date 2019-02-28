@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.FormatCondition.BackColor
 ms.assetid: b0154db6-f474-4d7d-3d30-e7a0fadf3b18
-ms.date: 06/08/2017
+ms.date: 02/28/2019
 localization_priority: Normal
 ---
 
@@ -35,8 +35,7 @@ To use the **BackColor** property, the **BackStyle** property, if available, mus
 
 ## Example
 
-The following example uses the **RGB** function to set the , **BackColor**, and **ForeColor** properties depending on the value of the `txtPastDue` text box. You can also use the **QBColor** function to set these properties. Putting the following code in the Form_Current( ) event sets the control display characteristics as soon as the user opens a form or moves to a new record.
-
+The following example uses the **RGB** function to set the **BorderColor**, **BackColor**, and **ForeColor** properties depending on the value of the **txtPastDue** text box. You can also use the **QBColor** function to set these properties. Putting the following code in the **Form_Current( )** event sets the control display characteristics as soon as the user opens a form or moves to a new record.
 
 ```vb
 Sub Form_Current() 
@@ -65,9 +64,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[FormatCondition Object](Access.FormatCondition.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

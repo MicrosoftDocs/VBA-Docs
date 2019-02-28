@@ -50,7 +50,7 @@ This property is not surfaced in the property sheet.
 
 ## Example
 
-The following code example sets the Background Color to the Text 2 color by setting the **BackThemeColorIndex** property.
+The following code example sets the background color to the Text 2 color by setting the **BackThemeColorIndex** property.
 
 
 ```vb
