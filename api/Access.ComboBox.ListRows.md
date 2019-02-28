@@ -31,7 +31,7 @@ The  **ListRows** property holds an integer that indicates the maximum number of
 
  **Note**  Microsoft Access sets the  **ListRows** property automatically when you select Lookup Wizard as the data type for a field in table Design view.
 
-You can set the default for this property by using a combo box's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a combo box's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 If the actual number of rows exceeds the number specified by the  **ListRows** property setting, a vertical scroll bar appears in the list box portion of the combo box.
 

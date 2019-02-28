@@ -34,7 +34,7 @@ The  **ForeColor** property contains a numeric expression that represents the va
 
 You can use the Color Builder to set this property by clicking the  **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom colors for text in controls.
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.report.defaultcontrol.md)** property in Visual Basic.
 
 For reports, you can set the  **Circle** property only by using a macro or a Visual Basic event procedure specified in a section's **OnPrint** event property setting.
 

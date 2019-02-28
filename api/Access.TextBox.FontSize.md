@@ -7,36 +7,30 @@ ms.prod: access
 api_name:
 - Access.TextBox.FontSize
 ms.assetid: 73bf8d74-c616-8824-c2e0-8eed072df582
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # TextBox.FontSize property (Access)
 
-You can use the  **FontSize** property to specify the point size for text in the following situations:
+You can use the **FontSize** property to specify the point size for text in the following situations:
 
-
-- When displaying or printing controls on forms and reports.
+- When displaying or printing controls on forms and reports.   
+- When using the **[Print](Access.Report.Print.md)** method on a report.
     
-- When using the  **Print** method on a report.
-    
-
-Read/write  **Integer**.
+Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `FontSize`
+_expression_.**FontSize**
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
-
 ## Remarks
 
-The  **FontSize** property uses the following settings.
-
-
+The **FontSize** property uses the following settings.
 
 |Setting|Description|
 |:-----|:-----|
@@ -44,16 +38,16 @@ The  **FontSize** property uses the following settings.
 |10|(Default for command buttons) The text is 10-point type.|
 |Other sizes|The text is the indicated size.|
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
-For reports, you can set this property only in an event procedure or in a macro specified by the  **OnPrint** event property setting.
+For reports, you can set this property only in an event procedure or in a macro specified by the **OnPrint** event property setting.
 
-In Visual Basic, you set the  **FontSize** property by using a numeric expression equal to the desired size of the font. The setting for the **FontSize** property can be between 1 and 127, inclusive.
+In Visual Basic, you set the **FontSize** property by using a numeric expression equal to the desired size of the font. The setting for the **FontSize** property can be between 1 and 127, inclusive.
 
 
 ## Example
 
-The following example uses the  **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
+The following example uses the **Print** method to display text on a report named Report1. It uses the **TextWidth** and **TextHeight** methods to center the text vertically and horizontally.
 
 
 ```vb
@@ -85,9 +79,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

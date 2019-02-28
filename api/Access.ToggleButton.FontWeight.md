@@ -42,7 +42,7 @@ The  **FontWeight** property uses the following settings.
 |Extra Bold|800|
 |Heavy|900|
 
-You can set the default for this property by using a control's default control style or the  **DefaultControl** property in Visual Basic.
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer. For example, a  **FontWeight** property setting of Thin may look identical to Normal on screen but appear lighter when printed.
 
