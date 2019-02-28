@@ -7,51 +7,44 @@ ms.prod: access
 api_name:
 - Access.ComboBox.FontBold
 ms.assetid: c125e323-8e4a-4814-3dd6-cc5bef6ebf96
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.FontBold property (Access)
 
-You can use the  **FontBold** property to specify whether a font appears in a bold style in the following situations:
+You can use the **FontBold** property to specify whether a font appears in a bold style in the following situations:
 
-
-- When displaying or printing controls on forms and reports.
+- When displaying or printing controls on forms and reports.   
+- When using the **Print** method on a report.
     
-- When using the  **Print** method on a report.
-    
-
- Read/write **Boolean**.
+Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `FontBold`
+_expression_.**FontBold**
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-The  **FontBold** property uses the following settings.
-
-
+The **FontBold** property uses the following settings.
 
 |Setting|Description|
 |:-----|:-----|
 |**True**|The text is bold.|
 |**False**|(Default) The text isn't bold.|
 
-To use the  **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
+To use the **FontBold** property on a report, first create a **Print** event procedure that prints the desired text.
 
 A font's appearance on screen and in print may differ, depending on your computer and printer.
 
-The  **FontWeight** property, which is available in the property sheet for controls, can also be used to set the line width for a control's text. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
+The **FontWeight** property, which is available in the property sheet for controls, can also be used to set the line width for a control's text. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
 
-
-
-|**If**|**Then**|
+|If|Then|
 |:-----|:-----|
 |**FontBold** = **False**|**FontWeight** = Normal (400)|
 |**FontBold** = **True**|**FontWeight** = Bold (700)|
@@ -60,7 +53,7 @@ The  **FontWeight** property, which is available in the property sheet for contr
 
 ## Example
 
-The following Print event procedure prints a report title and the current date in a bold style on a report at the coordinates specified by the  **CurrentX** and **CurrentY** property settings.
+The following **Print** event procedure prints a report title and the current date in a bold style on a report at the coordinates specified by the **CurrentX** and **CurrentY** property settings.
 
 
 ```vb
@@ -76,10 +69,5 @@ Private Sub ReportHeader0_Print(Cancel As Integer, _
 End Sub
 ```
 
-
-## See also
-
-
-[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
