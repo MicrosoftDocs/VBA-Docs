@@ -31,14 +31,12 @@ _expression_ A variable that represents a [Range](Excel.Range(Object).md) object
 
 ## Remarks
 
-The method will fail in all of these cases:
+The method will fail and throw a runtime exception '1004' if the specified locale is not supported on the specified service.
 
-1. The specified locale is not supported on the specified service.
-2. All the cells in the range are blank (that is, there is nothing to convert).
-3. All the cells in the range contain a formula. If you want to convert such a range, you need to set the cell values to the current calc result first.
-4. The cells in the range have already been converted to the specified data type.
-
-In these cases, the method will throw a runtime exception '1004'.
+It will have no effect (and throw no exception) in these cases:
+1. The cells in the range are blank (that is, there is nothing to convert).
+2. The cells in the range contain a formula. If you want to convert such a range, you need to set the cell values to the current calc result first.
+3. The cells in the range have already been converted to the specified data type.
 
 ## Example
 
