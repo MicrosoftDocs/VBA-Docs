@@ -7,15 +7,14 @@ ms.prod: access
 api_name:
 - Access.ComboBox.FontWeight
 ms.assetid: 4e1cf348-4114-788d-34a6-c0b17152ee4b
-ms.date: 03/01/2019
+ms.date: 03/02/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.FontWeight property (Access)
 
-You can use the **[DatasheetFontWeight](access.form.datasheetfontweight.md)** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view. Read/write **Integer**.
-
+Use the **FontWeight** property to specify the line width that Windows uses to display and print characters in a control. Read/write **Integer**.
 
 ## Syntax
 
@@ -26,93 +25,35 @@ _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** obj
 
 ## Remarks
 
-The **DatasheetFontWeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+The **FontWeight** property uses the following settings.
 
-These properties are only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) within a Microsoft Access database.
-
-In Visual Basic, the **DatasheetFontWeight** property setting uses the following **Integer** values.
-
-|Setting|Description|
+|Setting|Visual Basic|
 |:-----|:-----|
-|100|Thin|
-|200|Extra Light|
-|300|Light|
-|400|(Default) Normal|
-|500|Medium|
-|600|Semi-bold|
-|700|Bold|
-|800|Extra Bold|
-|900|Heavy|
+|Thin|100|
+|Extra Light|200|
+|Light|300|
+|Normal|400|
+|Medium|500|
+|Semi-bold|600|
+|Bold|700|
+|Extra Bold|800|
+|Heavy|900|
 
-<br/>
+You can set the default for this property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
-The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+A font's appearance on screen and in print may differ, depending on your computer and printer. For example, a **FontWeight** property setting of Thin may look identical to Normal on screen but appear lighter when printed.
 
-|||
+The **FontBold** property, which is available only in Visual Basic and macros, can also be used to set the line width for a control's or report's text to bold. The **FontBold** property gives you a quick way to make text bold; the **FontWeight** property gives you finer control over the line width setting for text. The following table shows the relationship between these properties' settings.
+
+|If|Then|
 |:-----|:-----|
-|**[DatasheetFontItalic](Access.Form.DatasheetFontItalic.md)** *|**[DatasheetForeColor](Access.Form.DatasheetForeColor.md)** *|
-|**[DatasheetFontHeight](Access.Form.DatasheetFontHeight.md)** *|**[DatasheetBackColor](Access.Form.DatasheetBackColor.md)**|
-|**[DatasheetFontName](Access.Form.DatasheetFontName.md)** *|**[DatasheetGridlinesColor](Access.Form.DatasheetGridlinesColor.md)**|
-|**[DatasheetFontUnderline](Access.Form.DatasheetFontUnderline.md)** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
-|**DatasheetFontWeight** *|**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|
+|**FontBold** = **False**|**FontWeight** = Normal (400)|
+|**FontBold** = **True**|**FontWeight** = Bold (700)|
+|**FontWeight** < 700|**FontBold** = **False**|
+|**FontWeight** > = 700|**FontBold** = **True**|
 
-> [!NOTE] 
-> When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
+## See also
 
-
-## Example
-
-The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the **Products** table.
-
-```vb
-Sub SetDatasheetFont 
- 
-   Dim dbs As Object, objProducts As Object 
-   Set dbs = CurrentDb 
-   Const DB_Text As Long = 10 
-   Const DB_Integer As Long = 3 
-   Set objProducts = dbs!Products 
-    
-   SetTableProperty objProducts, "DatasheetFontName", DB_Text, "MS Serif" 
-   SetTableProperty objProducts, "DatasheetFontHeight", DB_Integer, 10 
-   SetTableProperty objProducts, "DatasheetFontWeight", DB_Integer, 500 
- 
-End Sub 
- 
-Sub SetTableProperty(objTableObj As Object, strPropertyName As String, _ 
-        intPropertyType As Integer, varPropertyValue As Variant) 
-    ' Set Microsoft Access-defined table property without causing 
-    ' nonrecoverable run-time error. 
-    Const conErrPropertyNotFound = 3270 
-    Dim prpProperty As Variant 
-    On Error Resume Next                ' Don't trap errors. 
-    objTableObj.Properties(strPropertyName) = varPropertyValue 
-    If Err <> 0 Then                    ' Error occurred when value set. 
-        If Err <> conErrPropertyNotFound Then 
-            On Error GoTo 0 
-            MsgBox "Couldn't set property '" & strPropertyName _ 
-                & "' on table '" & objTableObj.Name & "'", 48, "SetTableProperty" 
-        Else 
-            On Error GoTo 0 
-            Set prpProperty = objTableObj.CreateProperty(strPropertyName, _ 
-                intPropertyType, varPropertyValue) 
-            objTableObj.Properties.Append prpProperty 
-        End If 
-    End If 
-    objTableObj.Properties.Refresh 
-End Sub
-```
-
-<br/>
-
-The following example makes the same changes as the preceding example in Datasheet view of the open **Products** form.
-
-```vb
-Forms!Products.DatasheetFontName = "MS Serif" 
-Forms!Products.DatasheetFontHeight = 10 
-Forms!Products.DatasheetFontWeight = 500
-```
-
-
+- [DatasheetFontWeight property](access.form.datasheetfontweight.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
