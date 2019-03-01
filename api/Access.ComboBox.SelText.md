@@ -7,36 +7,35 @@ ms.prod: access
 api_name:
 - Access.ComboBox.SelText
 ms.assetid: dc2b46d7-c688-c9b5-c44f-c490a91589fe
-ms.date: 06/08/2017
+ms.date: 03/02/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.SelText property (Access)
 
-The  **SelText** property returns a string containing the selected text. Read/write **String**.
+The **SelText** property returns a string containing the selected text. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `SelText`
+_expression_.**SelText**
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
- If no text is selected, the **SelText** property contains a **Null** value.
+If no text is selected, the **SelText** property contains a **Null** value.
 
-The  **SelText** property uses a string expression that contains the text selected in the control. If the control contains selected text when this property is set, the selected text is replaced by the new **SelText** setting.
+The **SelText** property uses a string expression that contains the text selected in the control. If the control contains selected text when this property is set, the selected text is replaced by the new **SelText** setting.
 
-To set or return this property for a control, the control must have the focus. To move the focus to a control, use the  **SetFocus** method.
+To set or return this property for a control, the control must have the focus. To move the focus to a control, use the **SetFocus** method.
 
 
 ## Example
 
-The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's Load event procedure. The Click event procedure for the Find button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
-
+The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's **Load** event procedure. The **Click** event procedure for the **Find** button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
 
 ```vb
 Sub Form_Load() 
@@ -69,9 +68,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

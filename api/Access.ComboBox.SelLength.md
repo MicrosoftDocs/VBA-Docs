@@ -7,35 +7,35 @@ ms.prod: access
 api_name:
 - Access.ComboBox.SelLength
 ms.assetid: f465a2a0-2c4c-ac8b-0867-4033ca44e3f4
-ms.date: 06/08/2017
+ms.date: 03/02/2019
 localization_priority: Normal
 ---
 
 
 # ComboBox.SelLength property (Access)
 
-The  **SelLength** property specifies or determines the number of characters selected in the text box portion of a combo box. Read/write **Integer**.
+The **SelLength** property specifies or determines the number of characters selected in the text box portion of a combo box. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `SelLength`
+_expression_.**SelLength**
 
 _expression_ A variable that represents a **[ComboBox](Access.ComboBox.md)** object.
 
 
 ## Remarks
 
-The  **SelLength** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
+The **SelLength** property uses an **Integer** in the range 0 to the total number of characters in the text box portion of a combo box.
 
-To set or return this property for a control, the control must have the focus. To move the focus to a control, use the  **SetFocus** method.
+To set or return this property for a control, the control must have the focus. To move the focus to a control, use the **SetFocus** method.
 
-Setting the  **SelLength** property to a number less than 0 produces a run-time error.
+Setting the **SelLength** property to a number less than 0 produces a run-time error.
 
 
 ## Example
 
-The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's Load event procedure. The Click event procedure for the Find button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
+The following example uses two event procedures to search for text specified by a user. The text to search is set in the form's **Load** event procedure. The **Click** event procedure for the **Find** button (which the user clicks to start the search) prompts the user for the text to search for and selects the text in the text box if the search is successful.
 
 
 ```vb
@@ -79,9 +79,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ComboBox Object](Access.ComboBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
