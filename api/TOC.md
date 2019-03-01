@@ -293,6 +293,7 @@
 ##### [Register custom business object](../access/concepts/miscellaneous/registering-a-custom-business-object.md)
 ##### [Required client settings](../access/concepts/miscellaneous/required-client-settings.md)
 ##### [Required property](../access/concepts/miscellaneous/required-property-access.md)
+##### [RowSourceType user-defined functions](access.rowsourcetype.md)
 ##### [Set Startup properties from Visual Basic](../access/concepts/miscellaneous/set-startup-properties-from-visual-basic.md)
 ##### [SetObjectOwner method (ADOX)](../access/concepts/miscellaneous/setobjectowner-method-adox.md)
 ##### [Size property (ADO stream)](../access/concepts/miscellaneous/size-property-ado-stream.md)
