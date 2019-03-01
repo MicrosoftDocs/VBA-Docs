@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ComboBox.ListIndex
 ms.assetid: 2165ba25-f129-3378-fb49-ea26ca446e9e
-ms.date: 01/02/2019
+ms.date: 03/02/2019
 localization_priority: Priority
 ---
 
@@ -36,13 +36,6 @@ List boxes also have a **MultiSelect** property that allows the user to select m
 
 The **ItemsSelected** collection also provides a way to access data in the selected rows of a list box or combo box.
 
-**Link provided by** ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) Luke Chung, [FMS, Inc.](https://www.fmsinc.com/).
 
-- [Tips and Techniques for Using and Validating Combo Boxes](https://www.fmsinc.com/free/NewTips/Access/ComboBox/AccessComboBox.asp)
-    
-
-### About the contributors
-
-Luke Chung is the founder and president of FMS, Inc., a leading provider of custom database solutions and developer tools.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
