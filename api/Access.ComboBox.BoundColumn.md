@@ -42,14 +42,14 @@ The leftmost visible column in a combo box (the leftmost column whose setting in
 > [!NOTE] 
 > If the bound column is not the same as the leftmost visible column in the control (or if you set the **BoundColumn** property to 0), the **LimitToList** property is set to Yes.
 
-Access uses zero-based numbers to refer to columns in the **Column** property. That is, the first column is referenced by using the expression `Column(0)`; the second column is referenced by using the expression `Column(1)`; and so on. However, the **BoundColumn** property uses 1-based numbers to refer to the columns. This means that if the **BoundColumn** property is set to 1, you could access the value stored in that column by using the expression `Column(0)`.
+Access uses zero-based numbers to refer to columns in the **Column** property. That is, the first column is referenced by using the expression `Column(0)`, the second column is referenced by using the expression `Column(1)`, and so on. However, the **BoundColumn** property uses 1-based numbers to refer to the columns. This means that if the **BoundColumn** property is set to 1, you could access the value stored in that column by using the expression `Column(0)`.
 
 If the **AutoExpand** property is set to Yes, Access automatically fills in a value in the text box portion of the combo box that matches a value in the combo box list as you type.
 
 
 ## Example
 
-The following example show how to create a combo box that is bound to one column while displaying another. Setting the **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
+The following example shows how to create a combo box that is bound to one column while displaying another. Setting the **ColumnCount** property to 2 specifies that the **cboDept** combo box will display the first two columns of the data source specified by the **RowSource** property. Setting the **BoundColumn** property to 1 specifies that the value stored in the first column will be returned when you inspect the value of the combo box.
 
 The **ColumnWidths** property specifies the width of the two columns. By setting the width of the first column to **0in.**, the first column is not displayed in the combo box.
 

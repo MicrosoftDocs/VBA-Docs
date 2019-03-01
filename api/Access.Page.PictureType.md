@@ -37,7 +37,7 @@ The  **PictureType** property uses the following settings.
 
 This property can be set only in form Design view or report Design view.
 
-For controls, you can set the default for this property by using the default control style or the  **DefaultControl** property in Visual Basic.
+For controls, you can set the default for this property by using the default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 When this property is set to 0, the size of the database increases by the size of the picture file and, with some .wmf files, the size may increase as much as twice the size of the picture file. When this property is set to 1, there is no increase in the size of the database because Microsoft Access only saves a pointer to the picture's location on the disk.
 

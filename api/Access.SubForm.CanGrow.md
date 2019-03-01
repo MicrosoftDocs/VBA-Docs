@@ -43,7 +43,7 @@ Sections grow vertically across their entire width. To grow the data independent
 
 When you use the **CanGrow** property, remember that:
 
-- The property settings don't affect the horizontal spacing between controls; they affect only the vertical space the controls occupy.
+- The property settings don't affect the horizontal spacing between controls; they affect only the vertical space that the controls occupy.
     
 - Overlapping controls can't grow.
     

@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.Label.ForeThemeColorIndex
 ms.assetid: 68165420-a121-a610-51bd-17a83fd9ee90
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # Label.ForeThemeColorIndex property (Access)
 
-Gets or sets a value that represents a color in the applied color theme associated with the  **ForeColor** property of the specified object. Read/write **Long**.
+Gets or sets a value that represents a color in the applied color theme associated with the **ForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `ForeThemeColorIndex`
+_expression_.**ForeThemeColorIndex**
 
 _expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks
 
-The  **ForeThemeColorIndex** property contains one of the index values listed in the following table.
-
-
+The **ForeThemeColorIndex** property contains one of the index values listed in the following table.
 
 |Index Value|Description|
 |:-----|:-----|
@@ -45,24 +43,18 @@ The  **ForeThemeColorIndex** property contains one of the index values listed in
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **ForeThemeColorIndex** property contains -1.
+If no theme is applied, the **ForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
 ## Example
 
-The following code example sets the Fore Color to the Text 2 color by setting the  **ForeThemeColorIndex** property.
-
+The following code example sets the fore color to the Text 2 color by setting the **ForeThemeColorIndex** property.
 
 ```vb
 Me.ctl.ForeThemeColorIndex=2
 ```
 
-
-## See also
-
-
-[Label Object](Access.Label.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.TextBox.FormatConditions
 ms.assetid: 6c643d8b-9b90-2b50-2ba0-c46bb821d38d
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # TextBox.FormatConditions property (Access)
 
-You can use the  **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
+You can use the **FormatConditions** property to return a read-only reference to the **[FormatConditions](Access.FormatConditions.md)** collection and its related properties.
 
 
 ## Syntax
 
-_expression_. `FormatConditions`
+_expression_.**FormatConditions**
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Example
 
-The following example sets format properties for an existing conditional format for the "Textbox1" control.
-
+The following example sets format properties for an existing conditional format for the **Textbox1** control.
 
 ```vb
 With Forms("forms1").Controls("Textbox1").FormatConditions(1) 
@@ -38,9 +37,5 @@ End With
 ```
 
 
-## See also
-
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # ComboBox.Column property (Access)
 
-You can use the **Column** property to refer to a specific column, or column and row combination, in a multiple-column combo box or list box. Read-only **Variant**.
+You can use the **Column** property to refer to a specific column or column and row combination in a multiple-column combo box or list box. Read-only **Variant**.
 
 
 ## Syntax

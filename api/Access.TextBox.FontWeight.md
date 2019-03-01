@@ -7,25 +7,25 @@ ms.prod: access
 api_name:
 - Access.TextBox.FontWeight
 ms.assetid: 4dbf8092-c09c-c6ec-9476-20af2e9cf051
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # TextBox.FontWeight property (Access)
 
-You can use the **DatasheetFontWeight** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view, including text boxes. Read/write **Integer**.
+You can use the **[DatasheetFontWeight](access.form.datasheetfontweight.md)** property to specify the line width of the font used to display and print characters for field names and data in Datasheet view, including text boxes. Read/write **Integer**.
 
 ## Syntax
 
-_expression_. FontWeight
+_expression_.**FontWeight**
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
 ## Remarks
 
-The **DatasheetFontWeight** property applies to all fields in Datasheet view, including text boxes, and to form controls when the form is in Datasheet view.
+The **DatasheetFontWeight** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
 These properties are only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) within a Microsoft Access database.
 
@@ -43,8 +43,9 @@ In Visual Basic, the **DatasheetFontWeight** property setting uses the following
 |800|Extra Bold|
 |900|Heavy|
 
-The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
+<br/>
 
+The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 |||
 |:-----|:-----|
@@ -57,9 +58,10 @@ The following table contains the properties that don't exist in the DAO **Proper
 > [!NOTE] 
 > When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
 
+
 ## Example
 
-The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the Products table.
+The following example sets the font to MS Serif, the font size to 10 points, and the font weight to medium (500) in Datasheet view of the **Products** table.
 
 ```vb
 Sub SetDatasheetFont 
@@ -102,12 +104,14 @@ End Sub
 
 <br/>
 
-The next example makes the same changes as the preceding example in Datasheet view of the open Products form.
+The following example makes the same changes as the preceding example in Datasheet view of the open **Products** form.
 
 ```vb
 Forms!Products.DatasheetFontName = "MS Serif" 
 Forms!Products.DatasheetFontHeight = 10 
 Forms!Products.DatasheetFontWeight = 500
 ```
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

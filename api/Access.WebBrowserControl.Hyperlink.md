@@ -7,27 +7,28 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.Hyperlink
 ms.assetid: 0f82426e-3bc6-b9ab-7587-ff43978ceec1
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.Hyperlink property (Access)
 
-You can use the  **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
+You can use the **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
 
-_expression_. `Hyperlink`
+_expression_.**Hyperlink**
 
 _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
 
 ## Example
 
-The CreateHyperlink procedure in the following example sets the hyperlink properties for a command button, label, or image control to the address and subaddress values passed to the procedure. The address setting is an optional argument, because a hyperlink to an object in the current database uses only the subaddress setting, To try this example, create a form with two text box controls ( `txtAddress` and `txtSubAddress`) and a command button ( `cmdFollowLink`) and paste the following into the Declarations section of the form's module:
+The CreateHyperlink procedure in the following example sets the hyperlink properties for a command button, label, or image control to the address and subaddress values passed to the procedure. The address setting is an optional argument, because a hyperlink to an object in the current database uses only the subaddress setting.
 
+To try this example, create a form with two text box controls (**txtAddress** and **txtSubAddress**) and a command button (**cmdFollowLink**), and paste the following into the Declarations section of the form's module.
 
 ```vb
 Private Sub cmdFollowLink_Click() 
@@ -60,9 +61,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
