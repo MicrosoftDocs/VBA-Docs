@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.Label.TextAlign
 ms.assetid: 088c8577-2057-8936-6a47-3c304c8e0eb2
-ms.date: 06/08/2017
+ms.date: 03/02/2019
 localization_priority: Normal
 ---
 
 
 # Label.TextAlign property (Access)
 
-The  **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
+The **TextAlign** property specifies the text alignment in new controls. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `TextAlign`
+_expression_.**TextAlign**
 
 _expression_ A variable that represents a **[Label](Access.Label.md)** object.
 
 
 ## Remarks
 
-The  **TextAlign** property uses the following settings.
-
-
+The **TextAlign** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -38,22 +36,16 @@ The  **TextAlign** property uses the following settings.
 |Right|3|The text, numbers, and dates align to the right.|
 |Distribute|4|The text, numbers, and dates are evenly distributed.|
 
-You can set the default for the  **TextAlign** property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
+You can set the default for the **TextAlign** property by using a control's default control style or the **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
 
 
 ## Example
 
-The following example aligns the text in the "Address" text box on the "Suppliers" form to the right.
-
+The following example aligns the text in the **Address** text box on the **Suppliers** form to the right.
 
 ```vb
 Forms("Suppliers").Controls("Address").TextAlign = 3
 ```
 
-
-## See also
-
-
-[Label Object](Access.Label.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

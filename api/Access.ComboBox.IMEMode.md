@@ -32,7 +32,7 @@ The **IMEMode** property uses the following settings.
 |On|Turns on Kanji Conversion Mode.|1|
 |Off|Turns off Kanji Conversion Mode.|2|
 |Disable|Disables Kanji Conversion Mode.|3|
-|Hiragana|Sets full pitch hiragana|4|
+|Hiragana|Sets full pitch hiragana.|4|
 |Full pitch Katakana|Sets full pitch katakana.|5|
 |Half pitch Katakana|Sets half pitch katakana.|6|
 |Full pitch Alpha/Num|Sets full pitch letters/numbers.|7|
