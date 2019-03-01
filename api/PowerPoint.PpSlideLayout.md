@@ -1,27 +1,27 @@
 ---
-title: PpSlideLayout Enumeration (PowerPoint)
+title: PpSlideLayout enumeration (PowerPoint)
 ms.prod: powerpoint
 api_name:
 - PowerPoint.PpSlideLayout
 ms.assetid: ff56107a-f37a-f817-86ef-68ee708cbdc2
-ms.date: 06/08/2017
+ms.date: 03/02/2019
 localization_priority: Normal
 ---
 
 
-# PpSlideLayout Enumeration (PowerPoint)
+# PpSlideLayout enumeration (PowerPoint)
 
-Constants that specify the layout of the slide, passed to and returned by the  **Layout** property of the **Slide** and **SlideRange** objects.
-
-
+Constants that specify the layout of the slide, passed to and returned by the **Layout** property of the **[Slide](powerpoint.slide.md)** and **[SlideRange](powerpoint.sliderange.md)** objects.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**ppLayoutBlank**|12|Blank|
 |**ppLayoutChart**|8|Chart|
 |**ppLayoutChartAndText**|6|Chart and text|
-|**ppLayoutClipartAndText**|10|Clipart and text|
+|**ppLayoutClipArtAndText**|10|ClipArt and text|
 |**ppLayoutClipArtAndVerticalText**|26|ClipArt and vertical text|
+|**ppLayoutComparison** | 34 | Comparison|
+|**ppLayoutContentWithCaption** | 35 | Content with caption|
 |**ppLayoutCustom**|32|Custom|
 |**ppLayoutFourObjects**|24|Four objects|
 |**ppLayoutLargeObject**|15|Large object|
@@ -32,10 +32,12 @@ Constants that specify the layout of the slide, passed to and returned by the  *
 |**ppLayoutObjectAndTwoObjects**|30|Object and two objects|
 |**ppLayoutObjectOverText**|19|Object over text|
 |**ppLayoutOrgchart**|7|Organization chart|
+|**ppLayoutPictureWithCaption** | 36 | Picture with caption|
+|**ppLayoutSectionHeader** | 33 | Section header|
 |**ppLayoutTable**|4|Table|
 |**ppLayoutText**|2|Text|
 |**ppLayoutTextAndChart**|5|Text and chart|
-|**ppLayoutTextAndClipart**|9|Text and clipart|
+|**ppLayoutTextAndClipArt**|9|Text and ClipArt|
 |**ppLayoutTextAndMediaClip**|17|Text and MediaClip|
 |**ppLayoutTextAndObject**|13|Text and object|
 |**ppLayoutTextAndTwoObjects**|21|Text and two objects|
@@ -50,5 +52,7 @@ Constants that specify the layout of the slide, passed to and returned by the  *
 |**ppLayoutVerticalText**|25|Vertical text|
 |**ppLayoutVerticalTitleAndText**|27|Vertical title and text|
 |**ppLayoutVerticalTitleAndTextOverChart**|28|Vertical title and text over chart|
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
