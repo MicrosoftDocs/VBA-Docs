@@ -57,7 +57,7 @@ Use the **Recordset** property to:
     
   Changing a form's **Recordset** property may also change the **RecordSource**, **RecordsetType**, and **RecordLocks** properties. Also, some data-related properties may be overridden, for example, the **Filter**, **FilterOn**, **OrderBy**, and **OrderByOn** properties.
 
-  Calling the **Requery** method of a form's recordset (for example, `Forms(0).Recordset.Requery`) can cause the form to become unbound. To refresh the data in a form bound to a recordset, set the **RecordSource** property of the form to itself (`Forms(0).RecordSource = Forms(0).RecordSource`).
+  Calling the **Requery** method of a form's recordset (for example, `Forms(0).Recordset.Requery`) can cause the form to become unbound. To refresh the data in a form bound to a recordset, set the **RecordSource** property of the form to itself: `Forms(0).RecordSource = Forms(0).RecordSource`.
 
 - Bind multiple forms to a common data set. This allows synchronization of multiple forms. For example:
     
