@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-You can set the  **Src** property either at design time (for example, in the **Properties** window in Microsoft Visual Basic 6.0), or at run time, typically in the **Form_Load()** procedure, as shown in the following example. It is recommended that you set **Src** at design time.
+You can set the  **Src** property either at design time (for example, in the Properties window in Microsoft Visual Basic 6.0), or at run time, typically in the **Form_Load()** procedure, as shown in the following example. It is recommended that you set **Src** at design time.
 
 The source file can be any valid Visio file type, including .vsd, .vdx, .vss, .vsx, .vst, and .vtx. You can load a file that you distribute with your program or any other file that users have access to, including files on their computer, on their local network, or on the Web.
 

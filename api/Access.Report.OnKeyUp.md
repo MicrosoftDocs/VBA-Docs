@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The **KeyUp** event occurs when a user presses a key while a report or control has the focus. This event also occurs if you send a keystroke to a report or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
-The **OnKeyUp** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Key Up** box in the report's **Properties** window):
+The **OnKeyUp** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Key Up** box in the report's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     

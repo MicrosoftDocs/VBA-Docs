@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The  **Unload** event occurs after a form is closed but before it's removed from the screen.
 
-The  **OnUnload** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Unload** box in the form's **Properties** window):
+The  **OnUnload** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Unload** box in the form's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

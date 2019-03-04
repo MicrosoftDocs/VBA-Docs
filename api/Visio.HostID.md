@@ -31,7 +31,7 @@ String
 
 ## Remarks
 
-Setting this property is optional. Set  **HostID** at design time, for example in the **Properties** window in your Microsoft Visual Studio project.
+Setting this property is optional. Set  **HostID** at design time, for example in the Properties window in your Microsoft Visual Studio project.
 
 Setting the  **HostID** property creates (or modifies) a subkey at the following location in the registry:
 

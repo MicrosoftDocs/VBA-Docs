@@ -30,7 +30,7 @@ If you want a procedure to run automatically every time you open a particular re
 
  _Note that the  **Current** event fires when you run (open) a report._
 
-If you set the form's  **On Current** property in the UI, it gets it value based on your selection in the **Choose Builder** window, which appears when you click the **...** button next to **On Current** in the Report's **Properties** window.
+If you set the form's  **On Current** property in the UI, it gets it value based on your selection in the **Choose Builder** window, which appears when you click the **...** button next to **On Current** in the Report's Properties window.
 
 
 - If you select  **Code Builder**, then the value will be  _[Event Procedure]_.
