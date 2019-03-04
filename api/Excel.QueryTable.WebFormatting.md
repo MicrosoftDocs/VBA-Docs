@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.WebFormatting property (Excel)
 
-Returns or sets a value that determines how much formatting from a Web page, if any, is applied when you import the page into a query table. Read/write  **[xlWebFormatting](Excel.XlWebFormatting.md)**.
+Returns or sets a value that determines how much formatting from a web page, if any, is applied when you import the page into a query table. Read/write  **[xlWebFormatting](Excel.XlWebFormatting.md)**.
 
 
 ## Syntax
@@ -44,7 +44,7 @@ The  **WebFormatting** property applies only to **QueryTable** objects.
 
 ## Example
 
-This example adds a new Web query table to the first worksheet in the first workbook, imports all of the Web page formatting applied to the data, and then refreshes the query table.
+This example adds a new Web query table to the first worksheet in the first workbook, imports all of the web page formatting applied to the data, and then refreshes the query table.
 
 
 ```vb

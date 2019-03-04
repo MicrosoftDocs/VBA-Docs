@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # QueryTable.WebDisableDateRecognition property (Excel)
 
- **True** if data that resembles dates is parsed as text when you import a Web page into a query table. **False** if date recognition is used. The default value is **False**. Read/write **Boolean**.
+ **True** if data that resembles dates is parsed as text when you import a web page into a query table. **False** if date recognition is used. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ The  **WebDisableDateRecognition** property applies only to **QueryTable** objec
 
 ## Example
 
-This example turns off date recognition so that Web page data that resembles dates is imported as text. The example then refreshes the query table.
+This example turns off date recognition so that web page data that resembles dates is imported as text. The example then refreshes the query table.
 
 
 ```vb

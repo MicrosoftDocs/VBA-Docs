@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # QueryTable.WebTables property (Excel)
 
-Returns or sets a comma-delimited list of table names or table index numbers when you import a Web page into a query table. Read/write  **String**.
+Returns or sets a comma-delimited list of table names or table index numbers when you import a web page into a query table. Read/write  **String**.
 
 
 ## Syntax
@@ -37,7 +37,7 @@ The  **WebTables** property applies only to **QueryTable** objects.
 
 ## Example
 
-This example adds a new Web query table to the first worksheet in the first workbook and then imports data from the first and second tables in the Web page.
+This example adds a new Web query table to the first worksheet in the first workbook and then imports data from the first and second tables in the web page.
 
 
 ```vb

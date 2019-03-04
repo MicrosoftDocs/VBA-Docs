@@ -28,12 +28,12 @@ _expression_ A variable that represents a [WebOptions](./Excel.WebOptions.md) ob
 
 You can set the  **[LocationOfComponents](Excel.WebOptions.LocationOfComponents.md)** property to a central URL (on the intranet or Web) or path (local or network) to a location from which authorized users can download components when viewing your saved document. The path must be valid and must point to a location that contains the necessary components, and the user must have a valid Microsoft Office license.
 
-Office Web components add interactivity to documents that you save as Web pages. If you view a Web page in a browser on a computer that does not have the components installed, the interactive portions of the page will be static.
+Office Web components add interactivity to documents that you save as web pages. If you view a web page in a browser on a computer that does not have the components installed, the interactive portions of the page will be static.
 
 
 ## Example
 
-This example allows the Office Web components to be downloaded with the specified Web page, if they are not already installed.
+This example allows the Office Web components to be downloaded with the specified web page, if they are not already installed.
 
 
 ```vb

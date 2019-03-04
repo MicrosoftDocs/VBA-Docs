@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.AlwaysSaveInDefaultEncoding property (Excel)
 
- **True** if the default encoding is used when you save a Web page or plain text document, independent of the file's original encoding when opened. **False** if the original encoding of the file is used. The default value is **False**. Read/write **Boolean**.
+ **True** if the default encoding is used when you save a web page or plain text document, independent of the file's original encoding when opened. **False** if the original encoding of the file is used. The default value is **False**. Read/write **Boolean**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The  **[Encoding](Excel.DefaultWebOptions.Encoding.md)** property can be used to
 
 ## Example
 
-This example sets the encoding to the default encoding. The encoding is used when you save the document as a Web page.
+This example sets the encoding to the default encoding. The encoding is used when you save the document as a web page.
 
 
 ```vb

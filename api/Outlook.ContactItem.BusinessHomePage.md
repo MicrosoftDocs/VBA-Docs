@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.BusinessHomePage Property (Outlook)
 
-Returns or sets a  **String** representing the URL of the business Web page for the contact. Read/write.
+Returns or sets a  **String** representing the URL of the business web page for the contact. Read/write.
 
 
 ## Syntax

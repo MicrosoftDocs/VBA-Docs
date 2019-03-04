@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.EmailSubject property (Access)
 
-You can use the  **EmailSubject** property to specify or determine return the email subject line of a hyperlink to an object, document, Web page or other destination for a command button, image control, or label control. Read/write **String**.
+You can use the  **EmailSubject** property to specify or determine return the email subject line of a hyperlink to an object, document, web page or other destination for a command button, image control, or label control. Read/write **String**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** o
 
 ## Remarks
 
-When you move the cursor over a command button, image control, or label control whose  **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or Web page specified by the link.
+When you move the cursor over a command button, image control, or label control whose  **HyperlinkAddress** property is set, the cursor changes to an upward-pointing hand. Clicking the control displays the object or web page specified by the link.
 
 To open objects in the current database, leave the  **HyperlinkAddress** property blank and specify the object type and object name you want to open in the **HyperlinkSubAddress** property by using the syntax " _objecttype objectname_". If you want to open an object contained in another Microsoft Access database, enter the database path and file name in the  **HyperlinkAddress** property and specify the database object to open by using the **HyperlinkSubAddress** property.
 

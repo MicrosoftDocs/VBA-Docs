@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.WebViewURL Property (Outlook)
 
-Returns or sets a  **String** indicating the URL of the Web page that is assigned to a folder. Read/write.
+Returns or sets a  **String** indicating the URL of the web page that is assigned to a folder. Read/write.
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DefaultWebOptions.Fonts property (Excel)
 
-Returns the  **[WebPageFonts](Office.WebPageFonts.md)** collection representing the set of fonts Microsoft Excel uses when you open a Web page in Excel and there is either no font information specified in the Web page, or the current default font can't display the character set in the Web page. Read-only.
+Returns the  **[WebPageFonts](Office.WebPageFonts.md)** collection representing the set of fonts Microsoft Excel uses when you open a web page in Excel and there is either no font information specified in the web page, or the current default font can't display the character set in the web page. Read-only.
 
 
 ## Syntax

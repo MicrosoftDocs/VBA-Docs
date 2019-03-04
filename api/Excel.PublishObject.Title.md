@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.Title property (Excel)
 
-Returns or sets the title of the Web page when the document is saved as a Web page. Read/write  **String**.
+Returns or sets the title of the web page when the document is saved as a web page. Read/write  **String**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The title is usually displayed in the window title bar when the document is view
 
 ## Example
 
-This example sets the Web page title to "Sales Forecast" when the first item in the first workbook is saved as a Web page.
+This example sets the web page title to "Sales Forecast" when the first item in the first workbook is saved as a web page.
 
 
 ```vb

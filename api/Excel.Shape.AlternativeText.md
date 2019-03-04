@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Shape.AlternativeText property (Excel)
 
-Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a Web page. Read/write **String**.
+Returns or sets the descriptive (alternative) text string for a  **[Shape](Excel.Shape.md)** object when the object is saved to a web page. Read/write **String**.
 
 
 ## Syntax

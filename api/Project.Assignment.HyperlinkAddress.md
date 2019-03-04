@@ -4,27 +4,26 @@ ms.prod: project-server
 api_name:
 - Project.Assignment.HyperlinkAddress
 ms.assetid: ead317d6-aa1a-57a1-4d58-189ccf551b40
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # Assignment.HyperlinkAddress Property (Project)
 
-Gets or sets the URL or UNC path of a document. Read/write  **String**.
+Gets or sets the URL or UNC path of a document. Read/write **String**.
 
 
 ## Syntax
 
- _expression_. `HyperlinkAddress`
+_expression_.**HyperlinkAddress**
 
- _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
+_expression_ A variable that represents an **[Assignment](Project.Assignment.md)** object.
 
 
 ## Example
 
-The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects
-
+The following example adds a hyperlink to all tasks in the active project, including tasks in subprojects.
 
 ```vb
 Sub AddHyperlink() 
@@ -39,5 +38,6 @@ Sub AddHyperlink()
  
 End Su
 ```
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

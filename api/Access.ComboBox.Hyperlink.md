@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ComboBox.Hyperlink property (Access)
 
-You can use the **Hyperlink** property to return a reference to a **Hyperlink** object. You can use the **Hyperlink** property to access the properties and methods of a control's hyperlink. Read-only.
+You can use the **Hyperlink** property to return a reference to a **Hyperlink** object and to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
