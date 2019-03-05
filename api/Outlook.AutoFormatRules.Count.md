@@ -19,7 +19,7 @@ Returns a  **Long** value indicating the count of **[AutoFormatRule](Outlook.Aut
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents an [AutoFormatRules](./Outlook.AutoFormatRules.md) object.
 

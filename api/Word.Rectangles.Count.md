@@ -16,7 +16,7 @@ Returns a  **Long** that represents the number of rectangles in the collection. 
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ Required. A variable that represents a '[Rectangles](Word.Rectangles.md)' collection.
 

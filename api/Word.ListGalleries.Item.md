@@ -19,7 +19,7 @@ Returns an individual  **ListGalleries** object in a collection.
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a 'ListGalleries' object.
 

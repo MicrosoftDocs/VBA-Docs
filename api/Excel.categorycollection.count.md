@@ -17,7 +17,7 @@ Returns a  **Long** value that represents the number of objects in the **Categor
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
 

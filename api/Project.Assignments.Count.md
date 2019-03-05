@@ -16,7 +16,7 @@ Gets the number of items in the  **Assignments** collection. Read-only **Long**.
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents an 'Assignments' object.
 

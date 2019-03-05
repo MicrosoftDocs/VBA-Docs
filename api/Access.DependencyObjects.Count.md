@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.DependencyObjects.Count
 ms.assetid: 4d3d9995-037a-b124-0e06-9766b9f2d69b
-ms.date: 06/08/2017
+ms.date: 03/06/2019
 localization_priority: Normal
 ---
 
 
 # DependencyObjects.Count property (Access)
 
-You can use the  **Count** property to determine the number of items in a specified collection. Read-only **Long**.
+You can use the **Count** property to determine the number of items in a specified collection. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
-_expression_ A variable that represents a [DependencyObjects](Access.DependencyObjects.md) object.
-
-
-## See also
+_expression_ A variable that represents a **[DependencyObjects](Access.DependencyObjects.md)** object.
 
 
-[DependencyObjects Collection](Access.DependencyObjects.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

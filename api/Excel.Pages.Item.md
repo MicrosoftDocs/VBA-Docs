@@ -19,7 +19,7 @@ Returns a  **Page** object that represents a collection of pages in a workbook. 
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [Pages](Excel.Pages.md) object.
 

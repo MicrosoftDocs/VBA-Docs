@@ -19,7 +19,7 @@ Returns an item in the  **[SimpleItems](Outlook.SimpleItems.md)** collection.
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [SimpleItems](./Outlook.SimpleItems.md) object.
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Controls.Application
 ms.assetid: c8650732-ffee-830b-9d9d-571a09af3a4c
-ms.date: 06/08/2017
+ms.date: 03/06/2019
 localization_priority: Normal
 ---
 

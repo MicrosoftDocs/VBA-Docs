@@ -19,7 +19,7 @@ Returns a  **[Recipient](Outlook.Recipient.md)** object from the collection.
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [Recipients](./Outlook.Recipients.md) object.
 

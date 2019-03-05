@@ -19,7 +19,7 @@ Returns a single  **SlideShowWindow** object from the specified **SlideShowWindo
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a [SlideShowWindows](./PowerPoint.SlideShowWindows.md) collection.
 

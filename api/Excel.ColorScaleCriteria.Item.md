@@ -19,7 +19,7 @@ Returns a single  **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** object
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [ColorScaleCriteria](Excel.ColorScaleCriteria.md) object.
 

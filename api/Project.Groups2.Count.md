@@ -16,7 +16,7 @@ Gets the number of  **Group2** objects in the **Groups2** collection. Read-only 
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ An expression that returns a 'Groups2' object.
 

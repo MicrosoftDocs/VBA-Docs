@@ -16,7 +16,7 @@ Gets a single  **Availability** object from the **Availabilities** collection. R
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ A variable that represents an 'Availabilities' object.
 

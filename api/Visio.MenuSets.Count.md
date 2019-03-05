@@ -19,7 +19,7 @@ Returns the number of objects in a collection. Read-only.
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a [MenuSets](./Visio.MenuSets.md) object.
 

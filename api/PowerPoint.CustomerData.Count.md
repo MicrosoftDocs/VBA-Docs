@@ -16,7 +16,7 @@ Returns the number of  **[CustomXMLPart](Office.CustomXMLPart.md)** objects in t
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 

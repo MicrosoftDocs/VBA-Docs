@@ -16,7 +16,7 @@ Gets a single  **GroupCriterion** object from the **GroupCriteria** collection. 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'GroupCriteria' object.
 

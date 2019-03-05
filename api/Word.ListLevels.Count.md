@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of list levels in the collection.
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ Required. A variable that represents a '[ListLevels](Word.listlevels.md)' collection.
 

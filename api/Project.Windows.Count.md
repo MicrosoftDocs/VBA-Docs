@@ -16,7 +16,7 @@ Gets the number of items in the  **Windows** collection. Read-only **Long**.
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a 'Windows' object.
 

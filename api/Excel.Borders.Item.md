@@ -19,7 +19,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents one of t
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [Borders](Excel.Borders.md) object.
 

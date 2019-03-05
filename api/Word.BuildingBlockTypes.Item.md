@@ -19,7 +19,7 @@ Returns a  **BuildingBlockType** object that represents the specified item in th
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ An expression that returns a '[BuildingBlockTypes](Word.BuildingBlockTypes.md)' object.
 

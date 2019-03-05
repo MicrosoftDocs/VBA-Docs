@@ -17,7 +17,7 @@ Returns a  **Long** value that represents the number of objects in a [ModelTable
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a [ModelTableNames object (Excel)](Excel.modeltablenames.md) object.
 

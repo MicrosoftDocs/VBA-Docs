@@ -19,7 +19,7 @@ Returns a  **Long** value that represents the number of objects in the collectio
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a [Windows](./Excel.Windows.md) object.
 

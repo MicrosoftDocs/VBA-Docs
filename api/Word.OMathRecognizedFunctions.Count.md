@@ -19,7 +19,7 @@ Returns the number of items in the  **OMathRecognizedFunctions** collection. Rea
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a '[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)' object.
 

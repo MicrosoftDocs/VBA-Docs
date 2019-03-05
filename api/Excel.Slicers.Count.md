@@ -19,7 +19,7 @@ Returns the number of objects in the collection.
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
 

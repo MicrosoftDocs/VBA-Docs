@@ -19,7 +19,7 @@ Returns an Outlook item from a collection.
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents an [Items](./Outlook.Items.md) object.
 
