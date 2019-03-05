@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.CommandButton.Shape
 ms.assetid: 92088237-5dd8-0b40-ed2d-e5a5bfef4495
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # CommandButton.Shape property (Access)
 
-Returns or sets the shape of the specified button. Read/write  **Long**.
+Returns or sets the shape of the specified button. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Shape`
+_expression_.**Shape**
 
 _expression_ A variable that represents a **[CommandButton](Access.CommandButton.md)** object.
 
 
 ## Remarks
 
-The  **Shape** property uses the following settings.
-
-
+The **Shape** property uses the following settings.
 
 |Setting|Description|
 |:-----|:-----|
@@ -43,9 +41,6 @@ The  **Shape** property uses the following settings.
 |8|Round Diagonal Corner Rectangle|
 |9|Oval|
 
-## See also
 
-
-[CommandButton Object](Access.CommandButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

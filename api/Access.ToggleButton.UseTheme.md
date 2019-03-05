@@ -7,31 +7,28 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.UseTheme
 ms.assetid: 770bea3c-4039-f6a5-a341-93d878d74085
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.UseTheme property (Access)
 
-Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write  **Boolean**.
+Gets or sets whether the specified object will utilize formatting styles defined in Office Document Themes. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `UseTheme`
+_expression_.**UseTheme**
 
 _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The default value is  **True**.
+The default value is **True**.
 
 
-## See also
 
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

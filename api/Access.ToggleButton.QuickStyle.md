@@ -7,30 +7,28 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.QuickStyle
 ms.assetid: 6dc5a569-8758-86cd-5b2a-693081ef95c5
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.QuickStyle property (Access)
 
-Gets or sets the Quick Style that is applied to the specified object. Read/write  **Long**.
+Gets or sets the quick style that is applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `QuickStyle`
+_expression_.**QuickStyle**
 
 _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **QuickStyle** uses one of the values listed in the following table.
+The **QuickStyle** property uses one of the values listed in the following table.
 
-
-
-|**Value**|**Effect**|
+|Value|Effect|
 |:-----|:-----|
 |0 (Default)|No Quick Style |
 |1|Colored Outline - Black, Dark 1|
@@ -76,14 +74,14 @@ The  **QuickStyle** uses one of the values listed in the following table.
 |41|Intense Effect - Green, Accent 5|
 |42|Intense Effect - Gray-50%, Accent 6|
 
-To see the available Quick Styles and apply a Quick Style through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a shadow effect. Next, on the  **Format** tab, in the **Control Formatting** group, click **Quick Styles** and choose a Quick Style. Notice that the Quick Styles are indexed from left to right, and then top to bottom. So the first item, **Colored Outline - Black, Dark 1**, has the value 1. The first row contains Quick Styles with values from 1 to 7. The second row from 8 to 14, and so on.
+To see the available quick styles and apply a quick style through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the navigation pane, and then choosing the view that you want. 
+
+Next, choose the object to which you want to apply a quick style. Next, on the **Format** tab, in the **Control Formatting** group, choose **Quick Styles**, and then choose a quick style. 
+
+Notice that the quick styles are indexed from left to right, and then from top to bottom. The first item, **Colored Outline - Black, Dark 1**, has the value 1. The first row contains quick styles with values from 1 to 7, the second row from 8 to 14, and so on.
 
 This property is not surfaced in the property sheet. 
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

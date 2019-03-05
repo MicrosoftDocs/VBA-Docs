@@ -46,7 +46,7 @@ The bevel effects include values that are listed in the following table.
 |11|Hard Edge|
 |12|Art Deco|
 
-To see the available bevel effects and apply a bevel through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the navigation pane, and then choosing the view you want. 
+To see the available bevel effects and apply a bevel through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the navigation pane, and then choosing the view that you want. 
 
 Next, choose the object to which you want to apply a bevel effect. On the **Format** tab, in the **Control Formatting** group, choose **Shape Effects** > **Bevel**, and then choose a bevel effect. 
 

@@ -7,33 +7,31 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.PressedTint
 ms.assetid: 01fa017e-05b3-7bd7-b2bf-19bf4a641802
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # ToggleButton.PressedTint property (Access)
 
-Gets or sets the tint applied to the theme color in the  **PressedColor** property of the specified object. Read/write **Single**.
+Gets or sets the tint applied to the theme color in the **PressedColor** property of the specified object. Read/write **Single**.
 
 
 ## Syntax
 
-_expression_. `PressedTint`
+_expression_.**PressedTint**
 
 _expression_ A variable that represents a **[ToggleButton](Access.ToggleButton.md)** object.
 
 
 ## Remarks
 
-The  **PressedTint** property contains a numeric expression that can be used to lighten the theme color in the **PressedColor** property. The default value of the **PressedTint** property is 100, which is neutral, and does not change the theme color. To lighten the color, first determine the percentage by which to lighten from 1 to 100, and then subtract that value as a whole number from 100 and use the remainder. For example, to lighten the theme color tint by 75%, subtract 75 from 100 and use the remainder, which is 25.
+The **PressedTint** property contains a numeric expression that can be used to lighten the theme color in the **PressedColor** property. The default value of the **PressedTint** property is 100, which is neutral, and does not change the theme color. 
+
+To lighten the color, first determine the percentage by which to lighten from 1 to 100, and then subtract that value as a whole number from 100 and use the remainder. For example, to lighten the theme color tint by 75%, subtract 75 from 100 and use the remainder, which is 25.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
-
-
-[ToggleButton Object](Access.ToggleButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -7,31 +7,29 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.SoftEdges
 ms.assetid: ab52bf67-7ea2-e23e-d4a5-264bb153ee0d
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # NavigationButton.SoftEdges property (Access)
 
-Gets or sets the  **Soft Edges** effect applied to the specified object. Read/write **Long**.
+Gets or sets the soft edges effect applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `SoftEdges`
+_expression_.**Soft Edges**
 
 _expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks
 
-The  **SoftEdges** property uses one of the values listed in the following table.
+The **SoftEdges** property uses one of the values listed in the following table.
 
-
-
-|**Value**|**Effect**|
-|:-----|:-----|
+|Value|Effect|
+|:----|:-----|
 |0 (Default)|No Soft Edges|
 |1|1 Point|
 |2|2.5 Points|
@@ -40,14 +38,13 @@ The  **SoftEdges** property uses one of the values listed in the following table
 |5|25 Points|
 |6|50 Points|
 
-To see the available shadow effects and apply a shadow through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a soft edge effect. Next, on the  **Format** tab, in the **Control Formatting** group, click **Shape Effects**, then click  **Soft Edges** and choose a soft edge effect. Notice that the shadow effects are indexed from top to bottom.
+To see the available soft edges effects and apply soft edges through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the navigation pane, and then choosing the view that you want. 
 
-This property is not surfaced in the property sheet. 
+Next, choose the object to which you want to apply a soft edges effect. On the **Format** tab, in the **Control Formatting** group, choose **Shape Effects** > **Soft Edges**, and then choose a soft edges effect. Notice that the soft edges effects are indexed from top to bottom.
+
+This property is not surfaced in the property sheet.
 
 
-## See also
 
-
-[NavigationButton Object](Access.NavigationButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

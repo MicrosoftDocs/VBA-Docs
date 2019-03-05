@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.PressedForeThemeColorIndex
 ms.assetid: 3c8ee610-503b-1d9d-80e3-6a4dcbcb9b5b
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # NavigationButton.PressedForeThemeColorIndex property (Access)
 
-Gets or sets the theme color index that represents a color in the applied color theme associated with the  **PressedForeColor** property of the specified object. Read/write **Long**.
+Gets or sets the theme color index that represents a color in the applied color theme associated with the **PressedForeColor** property of the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `PressedForeThemeColorIndex`
+_expression_.**PressedForeThemeColorIndex**
 
 _expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks
 
-The  **PressedForeThemeColorIndex** uses one of the values listed in the following table.
-
-
+The **PressedForeThemeColorIndex** uses one of the values listed in the following table.
 
 |Value|Description|
 |:-----|:-----|
@@ -45,14 +43,11 @@ The  **PressedForeThemeColorIndex** uses one of the values listed in the followi
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the  **PressedForeThemeColorIndex** property contains -1.
+If no theme is applied, the **PressedForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 
 
-## See also
 
-
-[NavigationButton Object](Access.NavigationButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

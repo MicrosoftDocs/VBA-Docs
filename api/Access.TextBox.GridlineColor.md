@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** objec
 
 The **GridlineColor** property setting is a numeric expression that corresponds to the color that you want to use for a control's gridline.
 
-You can use the Color Builder to set this property by clicking the **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom border colors for controls.
+You can use the Color Builder to set this property by choosing the **Build** button to the right of the property box in the property sheet. Using the Color Builder enables you to define custom border colors for controls.
 
 
 
