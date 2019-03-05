@@ -38,7 +38,7 @@ Worksheets(1).Range("a1")
 Sheet1.Range("a1")
 ```
 
-It's possible for the sheet name to be different from the code name. When you create a sheet, the sheet name and code name are the same, but changing the sheet name doesn't change the code name, and changing the code name (using the  **Properties** window in the Visual Basic Editor) doesn't change the sheet name.
+It's possible for the sheet name to be different from the code name. When you create a sheet, the sheet name and code name are the same, but changing the sheet name doesn't change the code name, and changing the code name (using the  Properties window in the Visual Basic Editor) doesn't change the sheet name.
 
 
 ## Example

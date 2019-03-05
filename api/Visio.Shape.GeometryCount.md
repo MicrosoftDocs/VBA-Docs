@@ -35,7 +35,7 @@ This Microsoft Visual Basic for Applications (VBA) macro shows how to use the  *
 
 
 
-To run this macro, first insert into your project a user form that contains a list box. Use the default names for the form and the list box. In the  **Properties** window, set the width of the form to 400 and the width of the list box to 300. This macro also assumes that you have one or more shapes on the active page.
+To run this macro, first insert into your project a user form that contains a list box. Use the default names for the form and the list box. In the  Properties window, set the width of the form to 400 and the width of the list box to 300. This macro also assumes that you have one or more shapes on the active page.
 
 
 

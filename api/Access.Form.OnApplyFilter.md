@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The  **Apply Filter** event occurs when a filter is applied or removed.
 
-The  **OnApplyFilter** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Apply Filter** box in the form's **Properties** window):
+The  **OnApplyFilter** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Apply Filter** box in the form's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

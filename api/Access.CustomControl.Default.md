@@ -7,44 +7,38 @@ ms.prod: access
 api_name:
 - Access.CustomControl.Default
 ms.assetid: ffe92e84-4bfa-56a2-298e-00d448f8dc29
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # CustomControl.Default property (Access)
 
-You can use the  **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
+You can use the **Default** property to specify whether a command button is the default button on a form. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `Default`
+_expression_.**Default**
 
 _expression_ A variable that represents a **[CustomControl](Access.CustomControl.md)** object.
 
 
 ## Remarks
 
-The  **Default** property uses the following settings.
-
-
+The **Default** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Yes|**True**|The command button is the default button.|
 |No|**False**|(Default) The command button isn't the default button.|
 
-When the command button's  **Default** property setting is Yes and the Form window is active, the user can choose the command button by pressing ENTER (if no other command button has the focus) as well as by clicking the command button.
+When the command button's **Default** property setting is Yes and the Form window is active, the user can choose the command button by pressing Enter (if no other command button has the focus) as well as by clicking the command button.
 
-Only one command button on a form can be the default button. When the  **Default** property is set to Yes for one command button, it is automatically set to No for all other command buttons on the form.
+Only one command button on a form can be the default button. When the **Default** property is set to Yes for one command button, it is automatically set to No for all other command buttons on the form.
 
-For a form that supports irreversible operations, such as deletions, it's a good idea to make the  **Cancel** button the default command button. To do this, set both the **Default** property and the Cancel property to Yes.
-
-
-## See also
+For a form that supports irreversible operations, such as deletions, it's a good idea to make the **Cancel** button the default command button. To do this, set both the **Default** property and the **Cancel** property to Yes.
 
 
-[CustomControl Object](Access.CustomControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

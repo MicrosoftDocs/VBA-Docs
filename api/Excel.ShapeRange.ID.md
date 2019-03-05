@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ShapeRange](./Excel.ShapeRange.md) ob
 
 ## Remarks
 
-You can use an ID label as a hyperlink reference in other HTML documents or on the same Web page.
+You can use an ID label as a hyperlink reference in other HTML documents or on the same web page.
 
 
 ## See also

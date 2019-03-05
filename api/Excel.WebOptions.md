@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebOptions object (Excel)
 
-Contains workbook-level attributes used by Microsoft Excel when you save a document as a Web page or open a Web page.
+Contains workbook-level attributes used by Microsoft Excel when you save a document as a web page or open a web page.
 
 
 ## Remarks

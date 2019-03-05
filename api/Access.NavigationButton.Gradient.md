@@ -7,31 +7,29 @@ ms.prod: access
 api_name:
 - Access.NavigationButton.Gradient
 ms.assetid: b23fb655-67bf-645f-f510-c4baafe02e58
-ms.date: 06/08/2017
+ms.date: 03/05/2019
 localization_priority: Normal
 ---
 
 
 # NavigationButton.Gradient property (Access)
 
-Gets or sets the gradient fill applied to the specified object. Read/write  **Long**.
+Gets or sets the gradient fill applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Gradient`
+_expression_.**Gradient**
 
 _expression_ A variable that represents a **[NavigationButton](Access.NavigationButton.md)** object.
 
 
 ## Remarks
 
-The  **Gradient** property contains a numeric expression that represents the gradient fill applied to the specified object. The default value of the **Gradient** property is 0, which does not apply a gradient. The values are listed in the following table.
+The **Gradient** property contains a numeric expression that represents the gradient fill applied to the specified object. The default value of the **Gradient** property is 0, which does not apply a gradient. The values are listed in the following table.
 
-
-
-|**Value**|**Gradient Fill**|
-|:-----|:-----|
+|Value|Gradient fill|
+|:----|:------------|
 |0|None|
 |1|Linear Diagonal - Top Left to Bottom Right, Light|
 |2|Linear Down, Light|
@@ -60,7 +58,9 @@ The  **Gradient** property contains a numeric expression that represents the gra
 |25|Linear Up, Dark|
 |26|Linear Diagonal - Bottom Right to Top Left, Light|
 
-To see the available gradient fills and apply a gradient through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the Navigation Pane, and then clicking the view you want. Then, click the object to which you want to apply a gradient fill. Next, on the  **Format** tab, in the **Control Formatting** group, click **Shape Fill**, then click  **Gradient** and choose a gradient fill. You can hover over a gradient fill to see a description.
+To see the available gradient fills and apply a gradient through the user interface, first open the form or report in Layout view or Design view by right-clicking the form or report in the navigation pane, and then choosing the view that you want. 
+
+Next, choose the object to which you want to apply a gradient fill. On the **Format** tab, in the **Control Formatting** group, choose **Shape Fill** > **Gradient**, and then choose a gradient fill. You can hover over a gradient fill to see a description.
 
 This property is not surfaced in the property sheet.
 
@@ -69,15 +69,10 @@ This property is not surfaced in the property sheet.
 
 The following code example sets the gradient fill to Linear Down, Light.
 
-
 ```vb
 Me.ctl.Gradient = 2
 ```
 
 
-## See also
-
-
-[NavigationButton Object](Access.NavigationButton.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

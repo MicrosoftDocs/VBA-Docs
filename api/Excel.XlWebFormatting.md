@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # XlWebFormatting enumeration (Excel)
 
-Specifies how much formatting from a Web page, if any, is applied when a Web page is imported into a query table.
+Specifies how much formatting from a web page, if any, is applied when a web page is imported into a query table.
 
 
 

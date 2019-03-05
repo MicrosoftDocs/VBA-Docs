@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[SubForm](Access.SubForm.md)** objec
 
 ## Remarks
 
-For example, if you have a command button with an event procedure named `Details_Click`, the **EventProcPrefix** property returns the string `Details`.
+For example, if you have a command button with an event procedure named **Details_Click**, the **EventProcPrefix** property returns the string **Details**.
 
 Microsoft Access adds the prefix portion of an event procedure name to the event name with an underscore character ( _ ).
 

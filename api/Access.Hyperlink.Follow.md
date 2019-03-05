@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # Hyperlink.Follow method (Access)
 
-The  **Follow** method opens the document or Web page specified by a hyperlink address associated with a control on a form or report.
+The  **Follow** method opens the document or web page specified by a hyperlink address associated with a control on a form or report.
 
 
 ## Syntax

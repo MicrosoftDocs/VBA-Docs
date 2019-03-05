@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Worksheet.Copy
 ms.assetid: ace07575-34f4-a4ae-0922-a2671f2df1ba
-ms.date: 06/08/2017
+ms.date: 03/04/2019
 localization_priority: Priority
 ---
 
@@ -19,40 +19,36 @@ Copies the sheet to another location in the current workbook or a new workbook.
 
 ## Syntax
 
-_expression_. `Copy`( `_Before_` , `_After_` )
+_expression_.**Copy** (_Before_, _After_)
 
-_expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) object.
+_expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Before_|Optional| **Variant**|The sheet before which the copied sheet will be placed. You cannot specify  _Before_ if you specify _After_.|
-| _After_|Optional| **Variant**|The sheet after which the copied sheet will be placed. You cannot specify  _After_ if you specify _Before_.|
+| _Before_|Optional| **Variant**|The sheet before which the copied sheet will be placed. You cannot specify _Before_ if you specify _After_.|
+| _After_|Optional| **Variant**|The sheet after which the copied sheet will be placed. You cannot specify _After_ if you specify _Before_.|
 
 ## Remarks
 
-If you don't specify either  _Before_ or _After_, Microsoft Excel creates a new [workbook](Excel.Workbook.md) that contains the copied sheet object that contains the copied[Worksheet](Excel.Worksheet.md) object. The newly created workbook holds the [Application.ActiveWorkbook property (Excel)](Excel.Application.ActiveWorkbook.md) property and contains a single worksheet. The single worksheet retains the [Worksheet.Name property (Excel)](Excel.Worksheet.Name.md) and [Worksheet.CodeName property (Excel)](Excel.Worksheet.CodeName.md) properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
+If you don't specify either _Before_ or _After_, Microsoft Excel creates a new workbook that contains the copied **Worksheet** object. The newly created workbook holds the **[Application.ActiveWorkbook](Excel.Application.ActiveWorkbook.md)** property and contains a single worksheet. The single worksheet retains the **[Worksheet.Name](Excel.Worksheet.Name.md)** and **[Worksheet.CodeName](Excel.Worksheet.CodeName.md)** properties of the source worksheet. If the copied worksheet held a worksheet code sheet in a VBA project, that is also carried into the new workbook.
 
-An array selection of multiple worksheets can be copied to a new blank [Workbook object (Excel)](Excel.Workbook.md) object in a similar manner.
+An array selection of multiple worksheets can be copied to a new blank **[Workbook](Excel.Workbook.md)** object in a similar manner.
 
 
 ## Example
 
 This example copies Sheet1, placing the copy after Sheet3.
 
-
 ```vb
 Worksheets("Sheet1").Copy After:=Worksheets("Sheet3")
 ```
 
-This example first copies Sheet1 to a new blank workbook, then saves and closes the new workbook.
+<br/>
 
-
-
+This example first copies Sheet1 to a new blank workbook, and then saves and closes the new workbook.
 
 ```vb
 Worksheets("Sheet1").Copy
@@ -63,10 +59,9 @@ End With
 
 ```
 
-This example copies worksheets Sheet1, Sheet2 and Sheet4 to a new blank workbook, then saves and closes the new workbook.
+<br/>
 
-
-
+This example copies worksheets Sheet1, Sheet2, and Sheet4 to a new blank workbook, and then saves and closes the new workbook.
 
 ```vb
 Worksheets(Array("Sheet1", "Sheet2", "Sheet4")).Copy
@@ -78,9 +73,5 @@ End With
 ```
 
 
-## See also
-
-
-[Worksheet Object](Excel.Worksheet.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

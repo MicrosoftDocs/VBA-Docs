@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PublishObjects](Excel.PublishObjects.
 
 ## Example
 
-This example obtains the identifier from a <DIV> tag and finds the line in a Web page (q198.htm) that you saved from a workbook. The example then creates a copy of the Web page (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
+This example obtains the identifier from a <DIV> tag and finds the line in a web page (q198.htm) that you saved from a workbook. The example then creates a copy of the web page (newq1.htm) and inserts a comment line before the <DIV> tag in the copy of the file.
 
 
 ```vb

@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The  **Format** event occurs when Microsoft Access determines which data belongs in a report section, but before Access formats the section for previewing or printing.
 
-The  **OnFormat** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Format** box in the report section's **Properties** window):
+The  **OnFormat** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Format** box in the report section's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

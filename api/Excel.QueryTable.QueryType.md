@@ -31,7 +31,7 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 | **xlQueryType** can be one of these **xlQueryType** constants.|
 | **xlTextImport**. Based on a text file, for query tables only|
 | **xlOLEDBQuery**. Based on an OLE DB query, including OLAP data sources|
-| **xlWebQuery**. Based on a Web page, for query tables only|
+| **xlWebQuery**. Based on a web page, for query tables only|
 | **xlADORecordset**. Based on an ADO recordset query|
 | **xlDAORecordSet**. Based on a DAO recordset query, for query tables only|
 | **xlODBCQuery**. Based on an ODBC data source|
@@ -47,7 +47,7 @@ You can use the  **[QueryTable](Excel.ListObject.QueryTable.md)** property of th
 
 ## Example
 
-This example refreshes the first query table on the first worksheet if the table is based on a Web page.
+This example refreshes the first query table on the first worksheet if the table is based on a web page.
 
 
 ```vb

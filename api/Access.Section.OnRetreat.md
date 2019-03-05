@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The  **Retreat** event occurs when Microsoft Access returns to a previous report section during report formatting.
 
-The  **OnRetreat** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Retreat** box in the report section's **Properties** window):
+The  **OnRetreat** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Retreat** box in the report section's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.

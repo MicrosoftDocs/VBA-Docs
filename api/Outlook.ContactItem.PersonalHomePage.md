@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContactItem.PersonalHomePage Property (Outlook)
 
-Returns or sets a  **String** representing the URL of the personal Web page for the contact. Read/write.
+Returns or sets a  **String** representing the URL of the personal web page for the contact. Read/write.
 
 
 ## Syntax

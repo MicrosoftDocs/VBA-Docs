@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlink.Address property (Access)
 
-You can use the **Address** property to specify or determine the path to an object, document, Web page or other destination for a **[Hyperlink](Access.Hyperlink.md)** object associated with a command button, image control, or label control. Read/write **String**.
+You can use the **Address** property to specify or determine the path to an object, document, web page or other destination for a **[Hyperlink](Access.Hyperlink.md)** object associated with a command button, image control, or label control. Read/write **String**.
 
 
 ## Syntax

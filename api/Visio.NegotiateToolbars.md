@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-You can set the  **NegotiateToolbars** property either at design time (for example, in the **Properties** window in Microsoft Visual Basic 6.0), or at run time, as shown in the following example. It is recommended that you set **NegotiateToolbars** at design time. If you do set **NegotiateToolbars** at run time, set the property prior to in-place activation of the Visio Drawing Control.
+You can set the  **NegotiateToolbars** property either at design time (for example, in the Properties window in Microsoft Visual Basic 6.0), or at run time, as shown in the following example. It is recommended that you set **NegotiateToolbars** at design time. If you do set **NegotiateToolbars** at run time, set the property prior to in-place activation of the Visio Drawing Control.
 
 When  **NegotiateToolbars** is set to **True** , you can use the methods and properties of the Visio object model to customize Visio toolbars in the Visio Drawing Control window.
 

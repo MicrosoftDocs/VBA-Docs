@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The  **Timer** event occurs for a report at regular intervals as specified by the report's **TimerInterval** property.
 
-The  **OnTimer** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Timer** box in the report's **Properties** window):
+The  **OnTimer** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Timer** box in the report's Properties window):
 
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
