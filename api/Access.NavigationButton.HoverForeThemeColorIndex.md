@@ -43,7 +43,7 @@ The **HoverForeThemeColorIndex** property uses one of the values listed in the f
 |10|Hyperlink|
 |11|Followed Hyperlink|
 
-If no theme is applied, the **HoverThemeColorIndex** property contains -1.
+If no theme is applied, the **HoverForeThemeColorIndex** property contains -1.
 
 This property is not surfaced in the property sheet.
 

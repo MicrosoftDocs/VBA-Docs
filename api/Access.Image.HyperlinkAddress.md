@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Image.HyperlinkAddress property (Access)
 
-You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, web page, or other destination for a hyperlink associated with a specified control. Read/write **String**.
+You can use the **HyperlinkAddress** property to specify or determine the path to an object, document, web page, or other destination for a hyperlink associated with the specified control. Read/write **String**.
 
 
 ## Syntax
@@ -52,7 +52,7 @@ The following table contains examples of **HyperlinkAddress** and **HyperlinkSub
 |C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm ||The Cajun Delights page in the Access sample applications subdirectory.|
 |C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm |NewProducts|The "NewProducts" Name tag on the Cajun Delights page.|
 |C:\Personal\MyResume.doc |References|The bookmark named "References" in the Microsoft Word document MyResume.doc.|
-|C:\Finance\First Quarter.xls |Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet First Quarter.xls.|
+|C:\Finance\FirstQuarter.xls |Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet FirstQuarter.xls.|
 |C:\Presentation\NewPlans.ppt |10|The tenth slide in the Microsoft PowerPoint document NewPlans.ppt.|
 
 
