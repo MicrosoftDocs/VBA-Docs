@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.VarOleObject property (Access)
 
- Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant**.
+Gets a pointer to an **IOLEObject** that represents the memory address of an OLE object. Read-only **Variant**.
 
 
 ## Syntax
