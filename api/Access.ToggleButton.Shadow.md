@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ToggleButton.Shadow property (Access)
 
-Gets or sets the **Shadow** effect applied to the specified object. Read/write **Long**.
+Gets or sets the shadow effect applied to the specified object. Read/write **Long**.
 
 
 ## Syntax
