@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Report.Pages
 ms.assetid: b97a6878-0a2c-3834-8f3d-6f4460dab3bd
-ms.date: 06/08/2017
+ms.date: 03/06/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ You can use the **Pages** property to return information needed to print page nu
 
 ## Syntax
 
-_expression_. `Pages`
+_expression_.**Pages**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
@@ -30,18 +30,16 @@ This property is only available in Print Preview or when printing.
 
 To refer to the **Pages** property in a macro or Visual Basic, the form or report must include a text box whose **ControlSource** property is set to an expression that uses **Pages**. For example, you can use the following expressions as the **ControlSource** property setting for a text box in a page footer.
 
-
-
-|**This expression**|**Prints**|
-|:-----|:-----|
+|This expression|Prints|
+|:--------------|:-----|
 |=Page|A page number (for example, 1, 2, 3) in the page footer.|
-|="Page " & Page & " of " & Pages|"Page  _n_ of _nn_ " (for example, Page 1 of 5, Page 2 of 5) in the page footer.|
-|=Pages|The total number pages in the report (for example, 5).|
+|="Page" & Page & "of" & Pages|"Page _n_ of _nn_" (for example, Page 1 of 5, Page 2 of 5) in the page footer.|
+|=Pages|The total number of pages in the form (for example, 5).|
+
 
 ## Example
 
-The following example displays a message that tells how many pages the report contains. For this example to work, the report must include a text box for which the **ControlSource** property is set to the expression `=Pages`. To test this example, paste the following code into the Page Event for the Alphabetical List of Products form.
-
+The following example displays a message that tells how many pages the report contains. For this example to work, the report must include a text box for which the **ControlSource** property is set to the expression `=Pages`. To test this example, paste the following code into the **Page** event for the **Alphabetical List of Products** form.
 
 ```vb
 Dim intTotalPages As Integer 
@@ -50,12 +48,10 @@ Dim strMsg As String
 intTotalPages = Me.Pages 
 strMsg = "This report contains " & intTotalPages & " pages." 
 MsgBox strMsg
+
 ```
 
 
-## See also
 
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

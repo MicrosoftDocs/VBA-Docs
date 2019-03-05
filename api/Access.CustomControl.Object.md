@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.CustomControl.Object
 ms.assetid: d578251a-7768-6843-c9af-77084a26a737
-ms.date: 06/08/2017
+ms.date: 03/06/2019
 localization_priority: Normal
 ---
 
 
 # CustomControl.Object property (Access)
 
-You can use the  **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
+You can use the **Object** property in Visual Basic to return a reference to the ActiveX object that is associated with a linked or embedded OLE object in a control. By using this reference, you can access the properties or invoke the methods of the OLE object. Read-only **Object**.
 
 
 ## Syntax
@@ -26,16 +26,18 @@ _expression_ A variable that represents a **[CustomControl](Access.CustomControl
 
 ## Remarks
 
-The  **Object** property returns a reference to an ActiveX object. You can use the **Set** statement to assign this ActiveX object to an object variable. The type of object reference returned depends on which application created the OLE object.
+The **Object** property returns a reference to an ActiveX object. You can use the **Set** statement to assign this ActiveX object to an object variable. The type of object reference returned depends on which application created the OLE object.
 
-When you embed or link an OLE object in a Microsoft Access form, you can set properties that determine the type of object and the behavior of the container control. However, you can't directly set or read the OLE object's properties or apply its methods, as you can when performing Automation. The  **Object** property returns a reference to an Automation object that represents the linked or embedded OLE object. By using this reference, you can change the OLE object by setting or reading its properties or applying its methods. For example, Microsoft Excel is an COM component that supports Automation. If you've embedded a Microsoft Excel worksheet in a Microsoft Access form, you can use the **Object** property to set a reference to the **Worksheet** object associated with that worksheet. You can then use any of the properties and methods of the **Worksheet** object.
+When you embed or link an OLE object in a Microsoft Access form, you can set properties that determine the type of object and the behavior of the container control. However, you can't directly set or read the OLE object's properties or apply its methods, as you can when performing Automation. 
 
-For information on which properties and methods an ActiveX object supports, see the documentation for the application that was used to create the OLE object.
+The **Object** property returns a reference to an Automation object that represents the linked or embedded OLE object. By using this reference, you can change the OLE object by setting or reading its properties or applying its methods. For example, Microsoft Excel is a COM component that supports Automation. If you've embedded an Excel worksheet in an Access form, you can use the **Object** property to set a reference to the **Worksheet** object associated with that worksheet. You can then use any of the properties and methods of the **Worksheet** object.
+
+For information about which properties and methods an ActiveX object supports, see the documentation for the application that was used to create the OLE object.
 
 
 ## Example
 
-The following example uses the  **Object** property of an unbound object frame named OLE1. Customer name and address information is inserted in an embedded Microsoft Word document formatted as a form letter with placeholders for the name and address information and boilerplate text in the body of the letter. The procedure replaces the placeholder information for each record and prints the form letter. It doesn't save copies of the printed form letter.
+The following example uses the **Object** property of an unbound object frame named OLE1. Customer name and address information is inserted in an embedded Microsoft Word document formatted as a form letter with placeholders for the name and address information and boilerplate text in the body of the letter. The procedure replaces the placeholder information for each record and prints the form letter. It doesn't save copies of the printed form letter.
 
 
 ```vb
@@ -87,9 +89,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[CustomControl Object](Access.CustomControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
