@@ -19,7 +19,7 @@ Returns an  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** object from the co
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookBarGroups.md) object.
 

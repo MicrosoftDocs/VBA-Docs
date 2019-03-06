@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of locks in the **[CoAuthLocks](W
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ An expression that returns a [CoAuthLocks](./Word.CoAuthLocks.md) object.
 

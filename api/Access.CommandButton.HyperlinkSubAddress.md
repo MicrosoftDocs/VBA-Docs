@@ -49,11 +49,11 @@ The following table contains examples of **HyperlinkAddress** and **HyperlinkSub
 |HyperlinkAddress|HyperlinkSubAddress|Description|
 |:-----|:-----|:-----|
 |https://www.microsoft.com/ ||The Microsoft home page on the web.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm||The Cajun Delights page in the Access sample applications subdirectory.|
-|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm|NewProducts|The "NewProducts" Name tag on the Cajun Delights page.|
-|C:\Personal\MyResume.doc|References|The bookmark named "References" in the Microsoft Word document MyResume.doc.|
-|C:\Finance\First Quarter.xls|Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet First Quarter.xls.|
-|C:\Presentation\NewPlans.ppt|10|The tenth slide in the Microsoft PowerPoint document NewPlans.ppt.|
+|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm ||The Cajun Delights page in the Access sample applications subdirectory.|
+|C:\Program Files\Microsoft Office\Office\Samples\Cajun.htm |NewProducts|The "NewProducts" Name tag on the Cajun Delights page.|
+|C:\Personal\MyResume.doc |References|The bookmark named "References" in the Microsoft Word document MyResume.doc.|
+|C:\Finance\FirstQuarter.xls |Sheet1!TotalSales|The range named "TotalSales" in the Microsoft Excel spreadsheet FirstQuarter.xls.|
+|C:\Presentation\NewPlans.ppt |10|The tenth slide in the Microsoft PowerPoint document NewPlans.ppt.|
 
 
 

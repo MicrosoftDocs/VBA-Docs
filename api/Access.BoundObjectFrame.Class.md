@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # BoundObjectFrame.Class property (Access)
 
-You can use the **Class** property to specify or determine the class name of an embeddedOLE object. Read/write **String**.
+You can use the **Class** property to specify or determine the class name of an embedded OLE object. Read/write **String**.
 
 
 ## Syntax
@@ -41,7 +41,7 @@ The **Class** property setting is updated when you copy an object from the Clipb
 
 ## Example
 
-The following example creates a linked OLE object by using an unbound object frame named `OLE1` and sizes the control to display the object's entire contents when the user clicks a command button.
+The following example creates a linked OLE object by using an unbound object frame named **OLE1** and sizes the control to display the object's entire contents when the user chooses a command button.
 
 
 ```vb

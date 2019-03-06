@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of canvas shapes in the specified
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ Required. A variable that represents a '[CanvasShapes](Word.CanvasShapes.md)' collection.
 

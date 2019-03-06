@@ -19,7 +19,7 @@ Returns the count of sparkline groups in the associated  **[Range](Excel.Range(o
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a '[SparklineGroups](Excel.SparklineGroups.md)' object.
 

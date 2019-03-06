@@ -19,7 +19,7 @@ Returns a Microsoft Outlook item or conversation header from the selection.
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a '[Selection](Outlook.Selection.md)' object.
 

@@ -17,7 +17,7 @@ Returns a  **Long** that represents the number of XSLTransforms in the collectio
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ Required. A variable that represents a '' collection.
 

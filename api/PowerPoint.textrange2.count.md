@@ -14,7 +14,7 @@ Gets a  **Long** indicating the number of items in the **TextRange2** collection
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ An expression that returns a 'TextRange2' object.
 

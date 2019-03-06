@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The row in the combo box or list box containing the data that you want to return. Rows in combo boxes and list boxes are indexed starting with zero. For example, to return the item in the sixth row of a combo box, you'd specify 5 for the  _rowindex_ argument.|
+| _Index_|Required|**Long**|The row in the combo box or list box containing the data that you want to return. Rows in combo boxes and list boxes are indexed starting with zero. For example, to return the item in the sixth row of a combo box, you'd specify 5 for the _rowindex_ argument.|
 
 ## Remarks
 

@@ -19,7 +19,7 @@ Returns the number of  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** objec
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
 

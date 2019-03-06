@@ -19,7 +19,7 @@ Returns a  **SortField** object that represents a collection of items that can b
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [SortFields](./Excel.SortFields.md) object.
 

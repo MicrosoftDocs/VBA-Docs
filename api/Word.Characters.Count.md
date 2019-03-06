@@ -19,7 +19,7 @@ Returns the number of characters in the  **Characters** collection. Read-only **
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a '[Characters](Word.characters.md)' collection.
 

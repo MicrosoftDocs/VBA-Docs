@@ -26,9 +26,9 @@ _expression_ A variable that represents an **[Attachment](Access.Attachment.md)*
 
 ## Remarks
 
-The **DefaultPicture** property contains (bitmap) or the path and file name of a bitmap or other type of graphic to be displayed.
+The **DefaultPicture** property contains _(bitmap)_ or the path and file name of a bitmap or other type of graphic to be displayed.
 
-The default setting is (none). After the graphic is loaded into the object, the property setting is (bitmap) or the path and file name of the graphic. If you delete the path and file name of the graphic from the property setting, the picture is deleted from the object, and the property setting is again (none).
+The default setting is _(none)_. After the graphic is loaded into the object, the property setting is _(bitmap)_ or the path and file name of the graphic. If you delete the path and file name of the graphic from the property setting, the picture is deleted from the object, and the property setting is again _(none)_.
 
 
 

@@ -19,7 +19,7 @@ Returns a  **[Store](Outlook.Store.md)** object that is specified by _Index_ . R
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a [Stores](./Outlook.Stores.md) object.
 

@@ -16,7 +16,7 @@ Gets a single  **CostRateTable** object from the **CostRateTables** collection. 
 
 ## Syntax
 
- _expression_. `Item`( `_Index_` )
+ _expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'CostRateTables' object.
 

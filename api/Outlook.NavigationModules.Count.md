@@ -19,7 +19,7 @@ Returns a  **Long** indicating the count of objects in the specified collection.
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
  _expression_ An expression that returns a [NavigationModules](./Outlook.NavigationModules.md) object.
 

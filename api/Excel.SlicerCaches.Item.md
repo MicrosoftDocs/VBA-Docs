@@ -19,7 +19,7 @@ Returns a single  **[SlicerCache](Excel.SlicerCache.md)** object from the collec
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that returns a '[SlicerCaches](Excel.SlicerCaches.md)' collection.
 

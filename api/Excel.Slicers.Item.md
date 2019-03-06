@@ -19,7 +19,7 @@ Returns a  **[Slicer](Excel.Slicer.md)** object from the collection. Read-only.
 
 ## Syntax
 
-_expression_. `Item`( `_Index_` )
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a '[Slicers](Excel.Slicers.md)' collection.
 

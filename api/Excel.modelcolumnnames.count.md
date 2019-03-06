@@ -17,7 +17,7 @@ Returns a  **Long** value that represents the number of a [ModelColumnName objec
 
 ## Syntax
 
-_expression_. `Count`
+_expression_.**Count**
 
 _expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
 

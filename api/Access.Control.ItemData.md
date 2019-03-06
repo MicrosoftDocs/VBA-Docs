@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Control.ItemData
 ms.assetid: 5eb23c40-566e-33bb-9b73-0ecc701ea5e5
-ms.date: 06/08/2017
+ms.date: 03/01/2019
 localization_priority: Normal
 ---
 
@@ -27,7 +27,7 @@ _expression_ A variable that represents a **[Control](Access.Control.md)** objec
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required|**Long**|The row in the combo box or list box containing the data that you want to return. Rows in combo boxes and list boxes are indexed starting with zero. For example, to return the item in the sixth row of a combo box, you'd specify 5 for the  _rowindex_ argument.|
+| _Index_|Required|**Long**|The row in the combo box or list box containing the data that you want to return. Rows in combo boxes and list boxes are indexed starting with zero. For example, to return the item in the sixth row of a combo box, you'd specify 5 for the _rowindex_ argument.|
 
 ## Remarks
 

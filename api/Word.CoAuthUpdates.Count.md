@@ -19,7 +19,7 @@ Returns the number of items in the [CoAuthUpdates](./overview/Word.md) collectio
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ An expression that returns a 'CoAuthUpdates' object.
 

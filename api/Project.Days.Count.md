@@ -16,7 +16,7 @@ Gets the number of items in the  **Days** collection. Read-only **Integer**.
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ A variable that represents a 'Days' object.
 

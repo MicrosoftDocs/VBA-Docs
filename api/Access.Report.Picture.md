@@ -25,9 +25,9 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-The **Picture** property contains "(bitmap)" or the path and file name of a bitmap or other type of graphic to be displayed.
+The **Picture** property contains _(bitmap)_ or the path and file name of a bitmap or other type of graphic to be displayed.
 
-The default setting is "(none)." After the graphic is loaded into the object, the property setting is "(bitmap)" or the path and file name of the graphic. If you delete "(bitmap)" or the path and file name of the graphic from the property setting, the picture is deleted from the object, and the property setting is again "(none)".
+The default setting is _(none)_. After the graphic is loaded into the object, the property setting is _(bitmap)_ or the path and file name of the graphic. If you delete _(bitmap)_ or the path and file name of the graphic from the property setting, the picture is deleted from the object, and the property setting is again _(none)_.
 
 If the **PictureType** property is set to Embedded, the graphic is stored with the object.
 

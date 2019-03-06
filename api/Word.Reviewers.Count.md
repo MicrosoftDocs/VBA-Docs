@@ -19,7 +19,7 @@ Returns a  **Long** that represents the number of reviewers in the collection. R
 
 ## Syntax
 
- _expression_. `Count`
+ _expression_.**Count**
 
  _expression_ Required. A variable that represents a '[Reviewers](Word.Reviewers.md)' collection.
 
