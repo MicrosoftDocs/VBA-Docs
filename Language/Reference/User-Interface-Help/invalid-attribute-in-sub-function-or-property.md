@@ -1,5 +1,5 @@
 ---
-title: Invalid attribute in Sub, Function, or Property
+title: Invalid attribute in sub, function, or property
 keywords: vblr6.chm1011196
 f1_keywords:
 - vblr6.chm1011196
@@ -10,13 +10,11 @@ localization_priority: Normal
 ---
 
 
-# Invalid attribute in Sub, Function, or Property
+# Invalid attribute in sub, function, or property
 
 Some attributes are invalid within [procedures](../../Glossary/vbe-glossary.md#procedure). This error has the following cause and solution:
 
-
-
-- A  **Public** or **Private** attribute appears within the body of a procedure definition. Remove the attribute from the procedure. To give the [variable](../../Glossary/vbe-glossary.md#variable) wider[scope](../../Glossary/vbe-glossary.md#scope), move the declaration to [module level](../../Glossary/vbe-glossary.md#module-level). Variables declared within procedures are always  **Private**.
+- A  **Public** or **Private** attribute appears within the body of a procedure definition. Remove the attribute from the procedure. To give the [variable](../../Glossary/vbe-glossary.md#variable) wider [scope](../../Glossary/vbe-glossary.md#scope), move the declaration to [module level](../../Glossary/vbe-glossary.md#module-level). Variables declared within procedures are always  **Private**.
     
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
