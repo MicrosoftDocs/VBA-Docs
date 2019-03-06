@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.AddMenu
 ms.assetid: d2db2143-fd15-56b3-ee99-b895bc6b21f8
-ms.date: 06/08/2017
+ms.date: 03/06/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ The **AddMenu** method carries out the AddMenu action in Visual Basic.
 
 ## Syntax
 
-_expression_. `AddMenu`( `_MenuName_`, `_MenuMacroName_`, `_StatusBarText_` )
+_expression_.**AddMenu** (_MenuName_, _MenuMacroName_, _StatusBarText_)
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,7 +36,6 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the AddMenu action to create:
 
-
 - A custom menu bar for a form or report. The custom menu bar replaces the built-in menu bar for the form or report.
     
 - A custom shortcut menu for a form, form control, or report. The custom shortcut menu replaces the built-in shortcut menu for the form, form control, or report.
@@ -47,14 +44,11 @@ You can use the AddMenu action to create:
     
 - A global shortcut menu. The global shortcut menu replaces the built-in shortcut menu for fields in table and query datasheets, forms in Form view, Datasheet view, and Print Preview, and reports in Print Preview, except where you've added a custom shortcut menu for a form, form control, or report.
     
-You must include the  _menuname_ and _menumacroname_ arguments in the **AddMenu** method for custom menu bars and global menu bars. The _menuname_ argument is not required and will be ignored for custom shortcut menus and global shortcut menus.
+You must include the _MenuName_ and _MenuMacroName_ arguments in the **AddMenu** method for custom menu bars and global menu bars. The _MenuName_ argument is not required and will be ignored for custom shortcut menus and global shortcut menus.
 
-The  _statusbartext_ argument is optional, this argument is ignored for custom shortcut menus and global shortcut menus.
-
-
-## See also
+The _StatusBarText_ argument is optional; this argument is ignored for custom shortcut menus and global shortcut menus.
 
 
-[DoCmd Object](Access.DoCmd.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
