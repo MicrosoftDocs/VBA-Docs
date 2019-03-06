@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.FindRecord
 ms.assetid: dc48bc3d-5408-40a8-509b-e52b48b26187
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 

@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the RunSQL action to run a Microsoft Access action query by using the corresponding SQL statement. You can also run a data-definition query.
 
-This method only applies to Microsoft Access databases.
+This method only applies to Access databases.
 
 The maximum length of the  _sqlstatement_ argument is 32,768 characters (unlike the SQL Statement action argument in the Macro window, whose maximum length is 256 characters).
 
@@ -72,7 +72,7 @@ End Sub
 
 ### About the contributors
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Access wiki and help forum. Click here to join. 
 
 
 ## See also

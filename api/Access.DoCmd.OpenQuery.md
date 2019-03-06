@@ -39,7 +39,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 You can use the  **OpenQuery** method to open a select or crosstab query in Datasheet view, Design view, or Print Preview. This action runs an action query. You can also select a data entry mode for the query.
 
 
- **Note**  This method is only available in the Microsoft Access database environment. See the  **OpenView** or **OpenStoredProcedure** methods if using the Microsoft Access Project environment (.adp).
+ **Note**  This method is only available in the Access database environment. See the  **OpenView** or **OpenStoredProcedure** methods if using the Access Project environment (.adp).
 
  **Link provided by:**
 ![Community Member Icon](../images/8b9774c4-6c97-470e-b3a2-56d8f786444c.png) The[UtterAccess](https://www.utteraccess.com) community
@@ -60,7 +60,7 @@ DoCmd.OpenQuery "Sales Totals Query", , acReadOnly
 
 ### About the contributors
 
-UtterAccess is the premier Microsoft Access wiki and help forum. Click here to join. 
+UtterAccess is the premier Access wiki and help forum. Click here to join. 
 
 
 ## See also

@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-In a Microsoft Access project, you can use the  **OpenStoredProcedure** method to open a stored procedure in Datasheet view, stored procedure Design view, or Print Preview. This method runs the named stored procedure when opened in Datasheet view. You can select the data entry mode for the stored procedure and restrict the records that the stored procedure displays.
+In an Access project, you can use the  **OpenStoredProcedure** method to open a stored procedure in Datasheet view, stored procedure Design view, or Print Preview. This method runs the named stored procedure when opened in Datasheet view. You can select the data entry mode for the stored procedure and restrict the records that the stored procedure displays.
 
 If you don't want to display the system messages that normally appear when a stored procedure is run (indicating it's a stored procedure and showing how many records will be affected), you can use the  **SetWarnings** method to suppress the display of these messages.
 

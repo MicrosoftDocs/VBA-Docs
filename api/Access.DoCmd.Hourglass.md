@@ -38,7 +38,7 @@ You can use the  **Hourglass** method to change the mouse pointer to an image of
 
 You often use this method if you've turned echo off by using the  **Echo** method. When echo is off, Microsoft Access suspends screen updates until the macro is finished.
 
-Microsoft Access automatically resets the  _HourglassOn_ argument to **False** when the procedure finishes running.
+Access automatically resets the  _HourglassOn_ argument to **False** when the procedure finishes running.
 
 
 ## See also

@@ -36,7 +36,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-In a Microsoft Access project, you can use the  **OpenView** method to open a view in Datasheet view, view Design view, or Print Preview. This action runs the named view when opened in Datasheet view. You can select data entry for the view and restrict the records that the view displays.
+In an Access project, you can use the  **OpenView** method to open a view in Datasheet view, view Design view, or Print Preview. This action runs the named view when opened in Datasheet view. You can select data entry for the view and restrict the records that the view displays.
 
 If you don't want to display the system messages that normally appear when a view is run (indicating it's a view and showing how many records will be affected), you can use the  **SetWarnings** method to suppress the display of these messages.
 

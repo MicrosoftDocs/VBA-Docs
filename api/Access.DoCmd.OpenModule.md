@@ -30,14 +30,14 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ModuleName_|Optional|**Variant**| A string expression that's the valid name of the Visual Basic module you want to open. If you leave this argument blank, Microsoft Access searches all the standard modules in the database for the procedure you selected with the _procedurename_ argument and opens the module containing the procedure to that procedure. If you execute Visual Basic code containing the **OpenModule** method in a library database, Microsoft Access looks for the module with this name first in the library database, then in the current database.|
+| _ModuleName_|Optional|**Variant**| A string expression that's the valid name of the Visual Basic module you want to open. If you leave this argument blank, Microsoft Access searches all the standard modules in the database for the procedure you selected with the _procedurename_ argument and opens the module containing the procedure to that procedure. If you execute Visual Basic code containing the **OpenModule** method in a library database, Access looks for the module with this name first in the library database, then in the current database.|
 | _ProcedureName_|Optional|**Variant**|A string expression that's the valid name for the procedure you want to open the module to. If you leave this argument blank, the module opens to the Declarations section.|
 
 ## Remarks
 
 You can use the  **OpenModule** method to open a specified Visual Basic module at a specified procedure. This can be a Sub procedure, a Function procedure, or an event procedure.
 
-You must include at least one of the two OpenModule action arguments. If you enter a value for both arguments, Microsoft Access opens the specified module at the specified procedure.
+You must include at least one of the two OpenModule action arguments. If you enter a value for both arguments, Access opens the specified module at the specified procedure.
 
 
 ## Example

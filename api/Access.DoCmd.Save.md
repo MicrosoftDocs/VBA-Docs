@@ -36,7 +36,7 @@ The **Save** method works on all database objects that the user can explicitly o
 
 If you leave the  _objecttype_ and _objectname_ arguments blank (the default constant, **acDefault**, is assumed for the _objecttype_ argument), Microsoft Access saves the active object. 
 
-If you leave the _objecttype_ argument blank, but enter a name in the _objectname_ argument, Microsoft Access saves the active object with the specified name. 
+If you leave the _objecttype_ argument blank, but enter a name in the _objectname_ argument, Access saves the active object with the specified name. 
 
 If you enter an object type in the _objecttype_ argument, you must enter an existing object's name in the _objectname_ argument.
 
