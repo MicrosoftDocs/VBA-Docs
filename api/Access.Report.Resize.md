@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-To run a macro or event procedure when this event occurs, set the **[OnResize](access.report.onresize)** property to the name of the macro or to [Event Procedure].
+To run a macro or event procedure when this event occurs, set the **[OnResize](access.report.onresize.md)** property to the name of the macro or to [Event Procedure].
 
 This event occurs if you change the size of the report in a macro or event procedure—for example, if you use the MoveSize action in a macro to resize the report.
 
