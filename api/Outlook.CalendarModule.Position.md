@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CalendarModule.Position Property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[CalendarModule](Outlook.CalendarModule.md)** object when it is displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[CalendarModule](Outlook.CalendarModule.md)** object when it is displayed in the navigation pane. Read/write.
 
 
 ## Syntax
@@ -38,7 +38,7 @@ Changing the value of this property for a given  **CalendarModule** object chang
 
 ## Example
 
-The following Visual Basic for Applications (VBA) sample code attempts to retrieve the  **Calendar** navigation module from the Navigation Pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the Navigation Pane. Finally, the code sets the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](Outlook.NavigationPane.md)** object to the retrieved **Calendar** module, which selects it in the Navigation Pane.
+The following Visual Basic for Applications (VBA) sample code attempts to retrieve the  **Calendar** navigation module from the navigation pane. If it successfully retrieves the module, the code sets the **Position** property of the **CalendarModule** object to '1,' which moves it to the top of the navigation pane. Finally, the code sets the **[CurrentModule](Outlook.NavigationPane.CurrentModule.md)** property of the **[NavigationPane](Outlook.NavigationPane.md)** object to the retrieved **Calendar** module, which selects it in the navigation pane.
 
 
 ```vb
@@ -62,7 +62,7 @@ Sub MoveCalendarModuleFirst()
  
  ' Get the Calendar navigation module 
  
- ' from the Navigation Pane. 
+ ' from the navigation pane. 
  
  Set objModule = objPane.Modules.GetNavigationModule( _ 
  

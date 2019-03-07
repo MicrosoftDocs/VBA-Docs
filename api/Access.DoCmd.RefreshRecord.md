@@ -7,31 +7,27 @@ ms.prod: access
 api_name:
 - Access.DoCmd.RefreshRecord
 ms.assetid: 2707cdf2-7458-7ef2-8c20-26fed3eda3ce
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 
 
 # DoCmd.RefreshRecord method (Access)
 
-The  **RefreshRecord** method performs the **RefreshRecord** macro operation from Visual Basic.
+The **RefreshRecord** method performs the RefreshRecord macro operation from Visual Basic.
 
 
 ## Syntax
 
-_expression_. `RefreshRecord`
+_expression_.**RefreshRecord**
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Remarks
 
-In a client database, the  **RefreshRecord** method is equivalent to the **[Refresh](Access.Form.Refresh.md)** method of the **Form** object. In a web database, see the **[RefreshRecord](overview/Access.md)** macro action.
+In a client database, the **RefreshRecord** method is equivalent to the **[Refresh](Access.Form.Refresh.md)** method of the **Form** object. In a web database, see the [RefreshRecord](overview/Access.md) macro action.
 
 
-## See also
-
-
-[DoCmd Object](Access.DoCmd.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

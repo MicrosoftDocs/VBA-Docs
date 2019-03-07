@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.TransferSQLDatabase
 ms.assetid: d6a88496-9137-b190-8357-316fd580a036
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ Transfers the entire specified Microsoft SQL Server database to another SQL Serv
 
 ## Syntax
 
-_expression_. `TransferSQLDatabase`( `_Server_`, `_Database_`, `_UseTrustedConnection_`, `_Login_`, `_Password_`, `_TransferCopyData_` )
+_expression_.**TransferSQLDatabase** (_Server_, _Database_, _UseTrustedConnection_, _Login_, _Password_, _TransferCopyData_)
 
-_expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
+_expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,13 +32,12 @@ _expression_ A variable that represents a [DoCmd](Access.DoCmd.md) object.
 | _Database_|Required|**Variant**|The name of the new database on the specified server.|
 | _UseTrustedConnection_|Optional|**Variant**|**True** if the current connection is using a login with system administrator privileges. If this argument is not **True**, you must specify a login and password in the _Login_ and _Password_ arguments.|
 | _Login_|Optional|**Variant**|The name of a login on the destination server with system administrator privileges. If  _UseTrustedConnection_ is **True**, this argument is ignored.|
-| _Password_|Optional|**Variant**|The password for the login specified in  _Login_. If  _UseTrustedConnection_ is **True**, this argument is ignored.|
+| _Password_|Optional|**Variant**|The password for the login specified in _Login_. If _UseTrustedConnection_ is **True**, this argument is ignored.|
 | _TransferCopyData_|Optional|**Variant**|**True** if all data in the database is transferred to the destination database. If this argument is not **True**, only the database schema will be transferred.|
 
 ## Remarks
 
 The following conditions must be met or else an error occurs:
-
 
 - The current and destination servers are SQL Server version 7.0 or later.
     
@@ -53,7 +50,6 @@ The following conditions must be met or else an error occurs:
 
 This example transfers the current SQL Server database to a new SQL Server database called Inventory on the server MainOffice. (It is assumed that the user has system administrator privileges on MainOffice.) The data is copied along with the database schema.
 
-
 ```vb
 DoCmd.TransferCompleteSQLDatabase _ 
  Server:="MainOffice", _ 
@@ -64,9 +60,6 @@ DoCmd.TransferCompleteSQLDatabase _
 ```
 
 
-## See also
 
-
-[DoCmd Object](Access.DoCmd.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

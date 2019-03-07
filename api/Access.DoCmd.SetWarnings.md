@@ -34,7 +34,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the **SetWarnings** method to turn system messages on or off.
 
-If you turn the display of system messages off in Visual Basic, you must turn it back on, or it will remain off, even if the user presses CTRL+BREAK, or Visual Basic encounters a breakpoint. You may want to create a macro that turns the display of system messages on and then assign that macro to a key combination or a custom menu command. You could then use the key combination or menu command to turn the display of system messages on if it has been turned off in Visual Basic.
+If you turn the display of system messages off in Visual Basic, you must turn it back on, or it will remain off, even if the user presses Ctrl+Break, or Visual Basic encounters a breakpoint. You may want to create a macro that turns the display of system messages on and then assign that macro to a key combination or a custom menu command. You could then use the key combination or menu command to turn the display of system messages on if it has been turned off in Visual Basic.
 
 ## Example
 
@@ -43,9 +43,6 @@ The following example turns the display of system messages off.
 ```vb
 DoCmd.SetWarnings False
 ```
-
-
-
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

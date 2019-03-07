@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.Save
 ms.assetid: 7e01f370-36c9-9f4d-b506-61bc8886ee18
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 
@@ -18,7 +18,7 @@ The **Save** method carries out the Save action in Visual Basic.
 
 ## Syntax
 
-_expression_. Save( _ObjectType_, _ObjectName_ )
+_expression_.**Save** (_ObjectType_, _ObjectName_)
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
@@ -27,18 +27,18 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectType_|Optional|**AcObjectType**|An **[AcObjectType](Access.AcObjectType.md)** constant that specifies the type of object you want to save.|
-| _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the  _objecttype_ argument.|
+| _ObjectType_|Optional|**[AcObjectType](Access.AcObjectType.md)**|An **AcObjectType** constant that specifies the type of object that you want to save.|
+| _ObjectName_|Optional|**Variant**|A string expression that's the valid name of an object of the type selected by the   _ObjectType_ argument.|
 
 ## Remarks
 
 The **Save** method works on all database objects that the user can explicitly open and save. The specified object must be open for the **Save** method to have any effect on the object.
 
-If you leave the  _objecttype_ and _objectname_ arguments blank (the default constant, **acDefault**, is assumed for the _objecttype_ argument), Microsoft Access saves the active object. 
+If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for the _ObjectType_ argument), Microsoft Access saves the active object. 
 
-If you leave the _objecttype_ argument blank, but enter a name in the _objectname_ argument, Microsoft Access saves the active object with the specified name. 
+If you leave the _ObjectType_ argument blank, but enter a name in the _ObjectName_ argument, Access saves the active object with the specified name. 
 
-If you enter an object type in the _objecttype_ argument, you must enter an existing object's name in the _objectname_ argument.
+If you enter an object type in the _ObjectType_ argument, you must enter an existing object's name in the _ObjectName_ argument.
 
 > [!NOTE] 
 > You can't use the **Save** method to save any of the following with a new name:
@@ -59,8 +59,6 @@ The following example uses the **Save** method to save the form named **New Empl
 DoCmd.Save acForm, "New Employees Form"
 ```
 
-## See also
 
-- [DoCmd.RunCommand method (Access)](access.docmd.runcommand.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

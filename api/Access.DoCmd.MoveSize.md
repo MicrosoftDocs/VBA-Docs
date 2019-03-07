@@ -7,26 +7,24 @@ ms.prod: access
 api_name:
 - Access.DoCmd.MoveSize
 ms.assetid: 8fe8fc60-023e-26ce-c11a-2c29ffc21fbb
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 
 
 # DoCmd.MoveSize method (Access)
 
-The  **MoveSize** method carries out the MoveSize action in Visual Basic.
+The **MoveSize** method carries out the MoveSize action in Visual Basic.
 
 
 ## Syntax
 
-_expression_. `MoveSize`( `_Right_`, `_Down_`, `_Width_`, `_Height_` )
+_expression_.**MoveSize** (_Right_, _Down_, _Width_, _Height_)
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -37,26 +35,22 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-You can use the  **MoveSize** method to move or resize the active window.
+You can use the **MoveSize** method to move or resize the active window.
 
-The units for the arguments are twips.
+The units for the arguments are [twips](../language/glossary/vbe-glossary.md#twip).
 
-You must include at least one argument for the  **MoveSize** method. If you leave an argument blank, the current setting for the window is used.
+You must include at least one argument for the **MoveSize** method. If you leave an argument blank, the current setting for the window is used.
 
 
 ## Example
 
-The following example moves the active window and changes its height, but leaves its width unchanged:
-
+The following example moves the active window and changes its height, but leaves its width unchanged.
 
 ```vb
 DoCmd.MoveSize 1440, 2400, , 2000
 ```
 
 
-## See also
 
-
-[DoCmd Object](Access.DoCmd.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

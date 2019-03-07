@@ -30,7 +30,7 @@ _expression_.**Item** (_Index_)
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **Variant**|Either the integer index of the position of the navigation module in the Navigation Pane, or the value used to match the default property of an object in the collection.|
+| _Index_|Required| **Variant**|Either the integer index of the position of the navigation module in the navigation pane, or the value used to match the default property of an object in the collection.|
 
 ## Return value
 

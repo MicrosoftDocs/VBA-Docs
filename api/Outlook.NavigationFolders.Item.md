@@ -39,7 +39,7 @@ A  **NavigationFolder** object that represents the specified object.
 
 ## Remarks
 
-The index value of a  **NavigationFolder** in the collection represents the ordinal position of the folder in the navigation group when displayed in the Navigation Pane. Changing the position of navigation folders within the navigation group also changes the index values of folders contained within the **[NavigationFolders](Outlook.NavigationFolders.md)** collection for that **[NavigationGroup](Outlook.NavigationGroup.md)** object.
+The index value of a  **NavigationFolder** in the collection represents the ordinal position of the folder in the navigation group when displayed in the navigation pane. Changing the position of navigation folders within the navigation group also changes the index values of folders contained within the **[NavigationFolders](Outlook.NavigationFolders.md)** collection for that **[NavigationGroup](Outlook.NavigationGroup.md)** object.
 
 
 ## See also

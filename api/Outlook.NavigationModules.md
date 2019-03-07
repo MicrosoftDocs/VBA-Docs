@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModules Object (Outlook)
 
-Contains a read-only set of  **[NavigationModule](Outlook.NavigationModule.md)** objects that represent the navigation modules displayed by the Navigation Pane.
+Contains a read-only set of  **[NavigationModule](Outlook.NavigationModule.md)** objects that represent the navigation modules displayed by the navigation pane.
 
 
 ## Remarks
@@ -23,7 +23,7 @@ Use the  **[Modules](Outlook.NavigationPane.Modules.md)** property of the **[Nav
 
 Use the  **[Item](Outlook.NavigationModules.Item.md)** method to retrieve a **NavigationModule** object by either the name or ordinal position of the navigation module within the collection, or use the **[GetNavigationModule](Outlook.NavigationModules.GetNavigationModule.md)** method to return a **NavigationModule** object by the navigation module type.
 
-Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the number of navigation modules contained in the Navigation Pane.
+Use the  **[Count](Outlook.NavigationModules.Count.md)** property to return the number of navigation modules contained in the navigation pane.
 
 
 ## Methods

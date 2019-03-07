@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Folder.ShowItemCount Property (Outlook)
 
-Sets or returns a constant in the  **[OlShowItemCount](Outlook.OlShowItemCount.md)** enumeration that indicates whether to display the number of unread messages in the folder or the total number of items in the folder in the Navigation Pane. Read/write.
+Sets or returns a constant in the  **[OlShowItemCount](Outlook.OlShowItemCount.md)** enumeration that indicates whether to display the number of unread messages in the folder or the total number of items in the folder in the navigation pane. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ The  **ShowItemCount** property does not work with Public Folders.
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example displays the unread count for the Inbox in the Navigation Pane.
+This Microsoft Visual Basic for Applications (VBA) example displays the unread count for the Inbox in the navigation pane.
 
 
 ```vb

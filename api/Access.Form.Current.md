@@ -32,7 +32,7 @@ This event occurs both when a form is opened and whenever the focus leaves one r
 
 By running a macro or event procedure when a form's  **Current** event occurs, you can display a message or synchronize records in another form related to the current record. For example, when a customer record becomes current, you can display the customer's previous order. When a supplier record becomes current, you can display the products manufactured by the supplier in a Suppliers form. You can also perform calculations based on the current record or change the form in response to data in the current record.
 
-If your macro or event procedure runs a  **GoToControl** or **GoToRecord** action or the corresponding method of the **DoCmd** object in response to an **Open** event, the **Current** event occurs.
+If your macro or event procedure runs a GoToControl or GoToRecord action or the corresponding method of the **DoCmd** object in response to an **Open** event, the **Current** event occurs.
 
 The  **Current** event also occurs when you refresh a form or requery the form's underlying table or query— for example, when you click Remove Filter/Sort on the Records menu or use the Requery action in a macro or the **Requery** method in Visual Basic code.
 

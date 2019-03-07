@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the **DeleteObject** method to delete a specified database object.
 
-If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Microsoft Access deletes the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the _InDatabaseWindow_ argument set to Yes (**True**).
+If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Access deletes the object selected in the Database window. To select an object in the Database window, you can use the SelectObject action or **SelectObject** method with the _InDatabaseWindow_ argument set to Yes (**True**).
 
 
 ## Example

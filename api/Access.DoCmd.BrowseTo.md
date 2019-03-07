@@ -37,7 +37,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-Use the **BrowseTo** method to navigate between objects in place. You can also change the source object of a subform control by specifying the _PathtoSubformControl_ argument. You can use **BrowseTo** to navigate from form1 to form2 without opening up a new window.
+Use the **BrowseTo** method to navigate between objects in place. You can also change the source object of a subform control by specifying the _PathtoSubformControl_ argument. You can use **BrowseTo** to navigate from Form1 to Form2 without opening up a new window.
 
 The _PathtoSubformControl_ argument must be specified by using the syntax in the following example.
 

@@ -30,7 +30,7 @@ This method has no arguments and can be called directly by using the syntax **Do
 
 You can also use the VBA command **Interaction.Beep** to accomplish the same result.
 
-You can also use the Visual Basic **Beep** statement to cause your computer to sound a tone through its speaker.
+You can also use the Visual Basic **[Beep](../language/reference/user-interface-help/beep-statement.md)** statement to cause your computer to sound a tone through its speaker.
 
 
 

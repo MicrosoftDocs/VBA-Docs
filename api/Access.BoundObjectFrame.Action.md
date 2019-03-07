@@ -42,7 +42,7 @@ The **Action** property uses the following settings.
 |**acOLEDelete** (10)|Deletes the specified OLE object and frees the associated memory.<br/><br/>This setting enables you to explicitly delete an OLE object. Objects are automatically deleted when a form is closed or when the object is updated to a new object. You can't use the **Action** property to delete a bound OLE object from its underlying table or query.|
 |**acOLEInsertObjDlg** (14)|Displays the **Insert Object** dialog box.<br/><br/>In Form view or Datasheet view, you display this dialog box to enable the user to create a new object or to link or embed an existing object. You can use the control's **OLETypeAllowed** property to determine the type of object the user can create (with the constant **acOLELinked**, **acOLEEmbedded**, or **acOLEEither**) by using this dialog box.|
 |**acOLEPasteSpecialDlg** (15)|Displays the **Paste Special** dialog box.<br/><br/>In Form view or Datasheet view, you display this dialog box to enable the user to paste an object from the Clipboard. The dialog box provides several options, including pasting either a linked or embedded object. You can use the control's **OLETypeAllowed** property to determine the type of object that can be pasted (with the constant **acOLELinked**, **acOLEEmbedded**, or **acOLEEither**) by using this dialog box.|
-|**acOLEFetchVerbs** (17)|Updates the list of verbs an OLE object supports.<br/><br/>To display the list of verbs, use the **ObjectVerbs** and **ObjectVerbsCount** properties.|
+|**acOLEFetchVerbs** (17)|Updates the list of verbs that an OLE object supports.<br/><br/>To display the list of verbs, use the **ObjectVerbs** and **ObjectVerbsCount** properties.|
 
 <br/>
 

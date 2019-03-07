@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomControl.ObjectVerbs property (Access)
 
-You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs an OLE object supports. Read-only **String**.
+You can use the **ObjectVerbs** property in Visual Basic to determine the list of verbs that an OLE object supports. Read-only **String**.
 
 
 ## Syntax

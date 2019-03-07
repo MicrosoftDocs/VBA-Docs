@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationPane.CurrentModule Property (Outlook)
 
-Returns or sets a  **[NavigationModule](Outlook.NavigationModule.md)** object that represents the currently selected navigation module in the Navigation Pane. Read/write.
+Returns or sets a  **[NavigationModule](Outlook.NavigationModule.md)** object that represents the currently selected navigation module in the navigation pane. Read/write.
 
 
 ## Syntax

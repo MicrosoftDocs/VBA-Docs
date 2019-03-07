@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolder.IsRemovable Property (Outlook)
 
-Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object can be removed from the Navigation Pane. Read-only.
+Returns a  **Boolean** value that indicates whether the **[NavigationFolder](Outlook.NavigationFolder.md)** object can be removed from the navigation pane. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationFolder](./Outlook.Navigatio
 
 ## Remarks
 
-Only shared or linked folders can be programmatically removed from the Navigation Pane.
+Only shared or linked folders can be programmatically removed from the navigation pane.
 
 
 ## See also

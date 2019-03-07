@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModule Object (Outlook)
 
-Represents a navigation module in the Navigation Pane.
+Represents a navigation module in the navigation pane.
 
 
 ## Remarks
@@ -40,7 +40,7 @@ The  **NavigationModule** object provides access to the various navigation modul
 
 The  **Shortcuts** and **Folder List** navigation modules do not have a corresponding object, such as **MailModule**, because they do not support programmatic access to navigation groups or navigation folders. You can use the **NavigationModule** object to access the properties of the **Shortcuts** and **Folder List** modules.
 
-You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to determine whether the navigation module is visible, and use the **[Position](Outlook.NavigationModule.Position.md)** property to return or set the display position of the navigation module within the Navigation Pane. You can also use the **[Name](Outlook.NavigationModule.Name.md)** property to return the display name of the navigation module in the Navigation Pane.
+You can use the  **[Visible](Outlook.NavigationModule.Visible.md)** property to determine whether the navigation module is visible, and use the **[Position](Outlook.NavigationModule.Position.md)** property to return or set the display position of the navigation module within the navigation pane. You can also use the **[Name](Outlook.NavigationModule.Name.md)** property to return the display name of the navigation module in the navigation pane.
 
 
 ## Properties

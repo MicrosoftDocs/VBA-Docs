@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.DoCmd.Requery
 ms.assetid: 6869c39f-b43f-ad83-4140-67b763342605
-ms.date: 02/20/2019
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 
@@ -44,7 +44,6 @@ In addition, when you use the Requery action or the **DoCmd.Requery** method, Mi
 ## Example
 
 The following example uses the **Requery** method to update the **EmployeeList** control.
-
 
 ```vb
 DoCmd.Requery "EmployeeList"

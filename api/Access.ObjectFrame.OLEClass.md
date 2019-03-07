@@ -31,7 +31,8 @@ This property is set automatically in the control's property sheet to a string e
 > [!NOTE] 
 > If you are using Automation (formerly called OLE Automation) and need to specify a name to refer to the OLE object, use the **Class** property.
 
-The **OLEClass** property and the **Class** property are similar but not identical. The **OLEClass** property setting is a general description of the OLE object, whereas the **Class** property setting is the name used to refer to the OLE object in Visual Basic. Examples of **OLEClass** property settings are Microsoft Excel Chart, Microsoft Word Document, and Paintbrush Picture.
+> [!NOTE] 
+> The **OLEClass** property and the **Class** property are similar but not identical. The **OLEClass** property setting is a general description of the OLE object, whereas the **Class** property setting is the name used to refer to the OLE object in Visual Basic. Examples of **OLEClass** property settings are Microsoft Excel Chart, Microsoft Word Document, and Paintbrush Picture.
 
 
 ## Example

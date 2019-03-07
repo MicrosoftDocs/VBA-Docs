@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModule.Position Property (Outlook)
 
-Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationModule](Outlook.NavigationModule.md)** object when displayed in the Navigation Pane. Read/write.
+Returns or sets a  **Long** value that represents the ordinal position of the **[NavigationModule](Outlook.NavigationModule.md)** object when displayed in the navigation pane. Read/write.
 
 
 ## Syntax

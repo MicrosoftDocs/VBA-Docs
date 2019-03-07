@@ -36,10 +36,10 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the **Close** method to close either a specified Microsoft Access window or the active window if none is specified.
 
-If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Microsoft Access closes the active window. If you specify the  _Save_ argument and leave the _ObjectType_ and _ObjectName_ arguments blank, you must include the _ObjectType_ and _ObjectName_ arguments' commas.
+If you leave the _ObjectType_ and _ObjectName_ arguments blank (the default constant, **acDefault**, is assumed for _ObjectType_), Access closes the active window. If you specify the  _Save_ argument and leave the _ObjectType_ and _ObjectName_ arguments blank, you must include the _ObjectType_ and _ObjectName_ arguments' commas.
 
 > [!NOTE] 
-> If a form has a control bound to a field that has its **Required** property set to Yes, and the form is closed by using the **Close** method without entering any data for that field, an error message is not displayed. Any changes made to the record will be aborted. When the form is closed by using the user interface, Microsoft Access displays an alert.
+> If a form has a control bound to a field that has its **Required** property set to Yes, and the form is closed by using the **Close** method without entering any data for that field, an error message is not displayed. Any changes made to the record will be aborted. When the form is closed by using the user interface, Access displays an alert.
 
 To display an error message, use the **RunCommand** method to invoke the **acCmdSaveRecord** command before calling the **Close** method. This will cause a run-time error if one or more required fields are **Null**. This technique is illustrated in the following example.
 

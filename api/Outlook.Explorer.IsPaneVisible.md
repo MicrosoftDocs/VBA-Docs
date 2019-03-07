@@ -44,7 +44,7 @@ You can also use the  **[Visible](Outlook.OutlookBarPane.Visible.md)** property 
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](Outlook.Explorer.ShowPane.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the Navigation Pane.
+This Microsoft Visual Basic for Applications (VBA) sample uses the  **IsPaneVisible** method to determine whether the preview pane is visible and uses the **[ShowPane](Outlook.Explorer.ShowPane.md)** method to display it if it is not visible. Use the **olNavigationPane** constant to hide or display the navigation pane.
 
 
 ```vb

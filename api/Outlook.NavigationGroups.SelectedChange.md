@@ -34,7 +34,7 @@ _expression_ A variable that represents a [NavigationGroups](./Outlook.Navigatio
 
 ## Remarks
 
-This event occurs when the selection state changes for a folder in the  **Calendar** navigation module, either by a user checking or unchecking a folder in the **Calendar** navigation module of the Navigation Pane or by an add-in changing the value of the **[IsSelected](Outlook.NavigationFolder.IsSelected.md)** property for a **NavigationFolder** object contained in the **[NavigationGroups](Outlook.NavigationGroups.md)** collection of a **[CalendarModule](Outlook.CalendarModule.md)** object.
+This event occurs when the selection state changes for a folder in the  **Calendar** navigation module, either by a user checking or unchecking a folder in the **Calendar** navigation module of the navigation pane or by an add-in changing the value of the **[IsSelected](Outlook.NavigationFolder.IsSelected.md)** property for a **NavigationFolder** object contained in the **[NavigationGroups](Outlook.NavigationGroups.md)** collection of a **[CalendarModule](Outlook.CalendarModule.md)** object.
 
 
 ## See also

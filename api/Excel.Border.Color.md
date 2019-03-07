@@ -7,41 +7,39 @@ ms.prod: excel
 api_name:
 - Excel.Border.Color
 ms.assetid: ca90fc42-2a7a-d43e-9c2c-0055f6bf9010
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Priority
 ---
 
 
 # Border.Color property (Excel)
 
-Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the  **RGB** function to create a color value. Read/write **Variant**.
+Returns or sets the primary color of the object, as shown in the table in the remarks section. Use the **RGB** function to create a color value. Read/write **Variant**.
 
 
 ## Syntax
 
-_expression_. `Color`
+_expression_.**Color**
 
- _expression_ An expression that returns a [Border](Excel.Border-graph-property.md) object.
+_expression_ An expression that returns a **[Border](Excel.Border(object).md)** object.
 
 
 ## Remarks
 
-
-
-
-
-|**Object**|**Color**|
+|Object|Color|
 |:-----|:-----|
 | **Border**|The color of the border.|
-| **Borders**|The color of all four borders of a range. If they're not all the same color,  **Color** returns 0 (zero).|
+| **Borders**|The color of all four borders of a range. If they're not all the same color, **Color** returns 0 (zero).|
 | **Font**|The color of the font.|
 | **Interior**|The cell shading color or the drawing object fill color.|
 | **Tab**|The color of the tab.|
 
+> [!IMPORTANT] 
+> Note that the visual properties of a **Border** object are interlocked; that is, changing one property can induce changes in another. In most cases, the induced changes serve to make the border visible (which may or may not be desirable). However, other (more unexpected) results are possible. For an example, see the **[Border](excel.border(object).md)** object.
+
 ## Example
 
 This example sets the color of the tick-mark labels on the value axis in Chart1.
-
 
 ```vb
 Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _ 
@@ -51,8 +49,8 @@ Charts("Chart1").Axes(xlValue).TickLabels.Font.Color = _
 
 ## See also
 
-[Border Object](Excel.Border(object).md)
+- [RGB function](../Language/Reference/User-Interface-Help/rgb-function.md)
 
-[RGB Function](../Language/Reference/User-Interface-Help/rgb-function.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

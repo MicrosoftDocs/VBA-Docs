@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolder.Position Property (Outlook)
 
-Returns or sets an  **Long** value that represents the ordinal position of the **[NavigationFolder](Outlook.NavigationFolder.md)** object when displayed in the Navigation Pane. Read/write.
+Returns or sets an  **Long** value that represents the ordinal position of the **[NavigationFolder](Outlook.NavigationFolder.md)** object when displayed in the navigation pane. Read/write.
 
 
 ## Syntax
@@ -35,7 +35,7 @@ Changing the value of this property for a  **NavigationFolder** object changes t
     
 - If the new value is greater than the original value, then the specified  **NavigationFolder** object moves down to the new position and pushes the other navigation folders between the old position and the new position up, filling the old position.
     
-If the navigation folder has been removed from the Navigation Pane, then this property returns -1 to indicate that the navigation folder is no longer part of the navigation group.
+If the navigation folder has been removed from the navigation pane, then this property returns -1 to indicate that the navigation folder is no longer part of the navigation group.
 
 
 ## See also
