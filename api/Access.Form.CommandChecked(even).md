@@ -7,46 +7,43 @@ ms.prod: access
 api_name:
 - Access.Form.CommandChecked
 ms.assetid: ec30f538-bbd2-9935-1ad9-5210f457b15f
-ms.date: 06/08/2017
+ms.date: 03/08/2019
 localization_priority: Normal
 ---
 
 
 # Form.CommandChecked event (Access)
 
-Occurs when the specified Microsoft Office Web Component determines whether the specified command is checked.
+Occurs when the specified Microsoft Office web component determines whether the specified command is selected.
 
 
 ## Syntax
 
-_expression_. `CommandChecked`( `_Command_`, `_Checked_` )
+_expression_.**CommandChecked** (_Command_, _Checked_)
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Command_|Required|**Variant**| The command that has been verified as being checked.|
-| _Checked_|Required|**Object**| Set the **Value** property of this object to **False** to uncheck the command.|
+| _Command_|Required|**Variant**| The command that has been verified as being selected.|
+| _Checked_|Required|**Object**| Set the **Value** property of this object to **False** to clear the command.|
 
 ## Return value
 
-nothing
+Nothing
 
 
 ## Remarks
 
-The  **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office Web Components.
+The **OCCommandId**, **ChartCommandIdEnum**, and **PivotCommandId** constants contain lists of the supported commands for each of the Microsoft Office web components.
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **CommandChecked** event.
-
+The following example demonstrates the syntax for a subroutine that traps the **CommandChecked** event.
 
 ```vb
 Private Sub Form_CommandChecked( _ 
@@ -66,9 +63,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
