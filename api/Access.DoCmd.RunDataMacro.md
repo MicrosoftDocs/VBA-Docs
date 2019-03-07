@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _MacroName_|Required|**Variant**|Name of the saved macro. The name must include the name of the table to which the data macro is attached (for example, "Comments.AddComment").|
+| _MacroName_|Required|**Variant**|Name of the saved macro. The name must include the name of the table to which the data macro is attached (for example, Comments.AddComment).|
 
 ## Remarks
 

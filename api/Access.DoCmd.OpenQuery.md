@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # DoCmd.OpenQuery method (Access)
 
-The **OpenQuery** method carries out the **OpenQuery action in Visual Basic.
+The **OpenQuery** method carries out the OpenQuery action in Visual Basic.
 
 
 ## Syntax
