@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.Entity.Operations
 ms.assetid: 13113ff7-0f9d-cb50-c603-fede2aea910c
-ms.date: 06/08/2017
+ms.date: 03/08/2019
 localization_priority: Normal
 ---
 
 
 # Entity.Operations property (Access)
 
-Gets the collection of operations defined for the specified  **[Entity](Access.Entity.md)**. Read-only **[Operations](Access.Operations.md)**.
+Gets the collection of operations defined for the specified **Entity** object. Read-only **[Operations](Access.Operations.md)**.
 
 
 ## Syntax
 
-_expression_. `Operations`
+_expression_.**Operations**
 
 _expression_ A variable that represents an **[Entity](Access.Entity.md)** object.
 
 
-## See also
 
-
-[Entity Object](Access.Entity.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

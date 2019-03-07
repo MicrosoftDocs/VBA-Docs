@@ -37,7 +37,7 @@ You can use the RunSQL action to run a Microsoft Access action query by using th
 
 This method only applies to Access databases.
 
-The maximum length of the _SQLStatement_ argument is 32,768 characters (unlike the SQL Statement action argument in the Macro window, whose maximum length is 256 characters).
+The maximum length of the _SQLStatement_ argument is 32,768 characters (unlike the _SQLStatement_ action argument in the Macro window, whose maximum length is 256 characters).
 
 ## Example
 

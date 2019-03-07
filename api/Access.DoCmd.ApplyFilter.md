@@ -51,7 +51,7 @@ If you want to apply a filter automatically when a form is first opened, specify
 
 You must include at least one of the two **ApplyFilter** method arguments. If you enter a value for both arguments, the _WhereCondition_ argument is applied to the filter.
 
-The maximum length of the _WhereCondition_ argument is 32,768 characters (unlike the Where Condition action argument in the Macro window, whose maximum length is 256 characters).
+The maximum length of the _WhereCondition_ argument is 32,768 characters (unlike the _WhereCondition_ action argument in the Macro window, whose maximum length is 256 characters).
 
 
 ## Example

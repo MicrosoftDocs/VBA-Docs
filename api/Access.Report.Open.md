@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.Report.Open
 ms.assetid: d170b67d-3123-6f51-6cf8-38433736f104
-ms.date: 11/30/2017
+ms.date: 03/08/2019
 localization_priority: Normal
 ---
 
 
 # Report.Open event (Access)
 
-The **Open** occurs before a report is previewed or printed.
+The **Open** event occurs before a report is previewed or printed.
 
 
 ## Syntax
@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required|**Integer**|
+| _Cancel_|Required|**Integer**|The setting determines if the opening of the form or report occurs. Setting the _Cancel_ argument to **True** (1) cancels the opening of the form or report.|
 
 ## Return value
 
@@ -38,7 +38,7 @@ Nothing
 
 For example, an **Open** macro or event procedure can open a custom dialog box in which the user enters the criteria to filter the set of records to display on a form or the date range to include for a report.
 
-When you open a report based on an underlying query, Microsoft Access runs the **Open** macro or event procedure before it runs the underlying query for the report. This enables the user to specify criteria for the report before it opens ? for example, in a custom dialog box you display when the **Open** event occurs.
+When you open a report based on an underlying query, Microsoft Access runs the **Open** macro or event procedure before it runs the underlying query for the report. This enables the user to specify criteria for the report before it opens; for example, in a custom dialog box you display when the **Open** event occurs.
 
 If your application can have more than one form loaded at a time, use the **Activate** and **Deactivate** events instead of the **Open** event to display and hide custom toolbars when the focus moves to a different form.
 
@@ -50,8 +50,6 @@ If you are trying to decide whether to use the **Open** or **Load** event for yo
 ## Example
 
 The following example shows how to use a Structured Query Language (SQL) statement to establish the data source of a report as it is opened.
-
-**Sample code provided by:** The [Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 
 ```vb
 Private Sub Report_Open(Cancel As Integer)
@@ -84,13 +82,5 @@ End Sub
 ```
 
 
-### About the contributors
-
-Wrox Press is driven by the Programmer to Programmer philosophy. Wrox books are written by programmers for programmers, and the Wrox brand means authoritative solutions to real-world programming problems. 
-
-
-## See also
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

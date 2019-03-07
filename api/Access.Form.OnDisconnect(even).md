@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form.OnDisconnect
 ms.assetid: b5b2a18b-d159-c122-c35e-fe749d755f0e
-ms.date: 06/08/2017
+ms.date: 03/08/2019
 localization_priority: Normal
 ---
 
@@ -19,20 +19,19 @@ Occurs when the specified PivotTable view disconnects from a data source.
 
 ## Syntax
 
-_expression_. `OnDisconnect`
+_expression_.**OnDisconnect**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Return value
 
-nothing
+Nothing
 
 
 ## Example
 
-The following example demonstrates the syntax for a subroutine that traps the  **OnDisconnect** event.
-
+The following example demonstrates the syntax for a subroutine that traps the **OnDisconnect** event.
 
 ```vb
 Private Sub Form_OnDisconnect() 
@@ -42,9 +41,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
