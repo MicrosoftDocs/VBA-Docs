@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationModules.GetNavigationModule Method (Outlook)
 
-Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the specified navigation module type from the Navigation Pane.
+Retrieves a  **[NavigationModule](Outlook.NavigationModule.md)** object with the specified navigation module type from the navigation pane.
 
 
 ## Syntax

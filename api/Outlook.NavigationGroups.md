@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationGroups Object (Outlook)
 
-Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the Navigation Pane.
+Contains a set of  **[NavigationGroup](Outlook.NavigationGroup.md)** objects that represent the navigation groups displayed by a navigation module in the navigation pane.
 
 
 ## Remarks

@@ -56,7 +56,7 @@ Double-clicking a control causes both the **DblClick** and **Click** events to o
 
 Typically, you attach a **Click** event procedure or macro to a command button to carry out commands and command-like actions. For the other applicable controls, use this event to trigger actions in response to one of the occurrences discussed earlier in this topic.
 
-You can use a **CancelEvent** action in a DblClick macro to cancel the second **Click** event. For more information, see the **[DblClick](access.CommandButton.dblclick.md)** event topic.
+You can use a CancelEvent action in a DblClick macro to cancel the second **Click** event. For more information, see the **[DblClick](access.CommandButton.dblclick.md)** event topic.
 
 To distinguish between the left, right, and middle mouse buttons, use the **MouseDown** and **MouseUp** events.
 

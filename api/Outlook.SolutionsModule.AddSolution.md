@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SolutionsModule](Outlook.SolutionsMo
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Solution_|Required| **[Folder](Outlook.Folder.md)**|Specifies the solution root folder to add to the  **Solutions** module.|
-| _Scope_|Required| **[OlSolutionScope](Outlook.OlSolutionScope.md)**|Specifies whether to display the folders that are in the solution only in the  **Solutions** module and the **Folder List**, or to display them in their respective default modules in the Navigation Pane as well.|
+| _Scope_|Required| **[OlSolutionScope](Outlook.OlSolutionScope.md)**|Specifies whether to display the folders that are in the solution only in the  **Solutions** module and the **Folder List**, or to display them in their respective default modules in the navigation pane as well.|
 
 ## Remarks
 
@@ -40,7 +40,7 @@ If the  **AddSolution** method succeeds and no solution root folder previously e
 You cannot add the following folders to the  **Solutions** module as a solution root folder:
 
 
-- A folder that Outlook displays on the Navigation Pane, as defined by the  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration.
+- A folder that Outlook displays on the navigation pane, as defined by the  **[OlDefaultFolders](Outlook.OlDefaultFolders.md)** enumeration.
     
 - A special folder, as defined by the  **[OlSpecialFolders](Outlook.OlSpecialFolders.md)** enumeration.
     
@@ -56,7 +56,7 @@ If the  _Scope_ parameter is set to **olShowInDefaultModules** of the **OlSoluti
 
 Solution folders are always displayed in the  **Folder List** module.
 
-By default, Outlook displays the  **Solutions** module after the **Tasks** module, provided that the navigation modules are in the default order ? **Mail**,  **Calendar**,  **Contacts**, and  **Tasks**. If the Navigation Pane is expanded, the  **Solutions** module is also initially displayed as an expanded module. If the **Tasks** module is not displayed, the **Solutions** module is displayed after the last expanded module in the Navigation Pane.
+By default, Outlook displays the  **Solutions** module after the **Tasks** module, provided that the navigation modules are in the default order ? **Mail**,  **Calendar**,  **Contacts**, and  **Tasks**. If the navigation pane is expanded, the  **Solutions** module is also initially displayed as an expanded module. If the **Tasks** module is not displayed, the **Solutions** module is displayed after the last expanded module in the navigation pane.
 
 
 ## See also

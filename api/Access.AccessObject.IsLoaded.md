@@ -40,7 +40,7 @@ The following example shows how to prevent a user from opening a particular form
 ```vb
 'Don't let this form be opened from the Navigator
 If Not CurrentProject.AllForms(cFormUsage).IsLoaded Then
-    MsgBox "This form cannot be opened from the Navigation Pane.", _
+    MsgBox "This form cannot be opened from the navigation pane.", _
         vbInformation + vbOKOnly, "Invalid form usage"
     Cancel = True
     Exit Sub

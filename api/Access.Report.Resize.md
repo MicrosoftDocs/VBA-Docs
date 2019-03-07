@@ -34,15 +34,12 @@ By running a macro or an event procedure when a  **Resize** event occurs, you ca
 
 When you first open a report, the following events occur in this order:
 
-Open → Load → Resize → Activate → Current
+> Open → Load → Resize → Activate → Current
+
+> [!NOTE] 
+> You need to be careful if you use a MoveSize, Maximize, Minimize, or Restore action (or the corresponding methods of the **DoCmd** object) in a **Resize** macro or event procedure. These actions can trigger a **Resize** event for the report, and thus cause a cascading event.
 
 
- **Note**  You need to be careful if you use a  **MoveSize**, **Maximize**, **Minimize**, or **Restore** action (or the corresponding methods of the **DoCmd** object) in a **Resize** macro or event procedure. These actions can trigger a **Resize** event for the report, and thus cause a cascading event.
 
-
-## See also
-
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

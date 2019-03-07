@@ -54,7 +54,7 @@ The actions in the  **ApplyFilter** macro or event procedure occur before the fi
 
 - Applies or removes a filter by using the  **ApplyFilter**, **OpenReport**, or **ShowAllRecords** actions in a macro, or their corresponding methods of the **DoCmd** object in Visual Basic.
     
-- Uses the  **Close** action or the **Close** method of the **DoCmd** object to close the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window
+- Uses the Close action or the **Close** method of the **DoCmd** object to close the Advanced Filter/Sort, Filter By Form, or Server Filter By Form window
     
 - Sets the  **Filter** or **ServerFilter** property or **FilterOn** or **ServerFilterByForm** property in a macro or Visual Basic (although you can set these properties in an **ApplyFilter** macro or event procedure).
     

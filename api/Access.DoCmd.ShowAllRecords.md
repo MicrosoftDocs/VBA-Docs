@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.DoCmd.ShowAllRecords
 ms.assetid: 765ead1a-d626-3a54-1831-1490fc8daacc
-ms.date: 06/08/2017
+ms.date: 03/07/2019
 localization_priority: Normal
 ---
 
 
 # DoCmd.ShowAllRecords method (Access)
 
-The  **ShowAllRecords** method carries out the ShowAllRecords action in Visual Basic.
+The **ShowAllRecords** method carries out the ShowAllRecords action in Visual Basic.
 
 
 ## Syntax
 
-_expression_. `ShowAllRecords`
+_expression_.**ShowAllRecords** 
 
 _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
@@ -28,13 +28,10 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 You can use the ShowAllRecords action to remove any applied filter from the active table, query result set, or form, and display all records in the table or result set or all records in the form's underlying table or query.
 
-
- **Note**  This method only applies to tables, queries, and forms within a Microsoft Access database.
-
-
-## See also
+> [!NOTE] 
+> This method only applies to tables, queries, and forms within a Microsoft Access database.
 
 
-[DoCmd Object](Access.DoCmd.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

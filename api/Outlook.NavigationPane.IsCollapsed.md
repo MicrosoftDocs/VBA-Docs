@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationPane.IsCollapsed Property (Outlook)
 
-Returns or sets a  **Boolean** value that determines whether the Navigation Pane is collapsed. Read/write.
+Returns or sets a  **Boolean** value that determines whether the navigation pane is collapsed. Read/write.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [NavigationPane](./Outlook.NavigationP
 
 ## Example
 
-The following Visual Basic for Applications (VBA) example collapses the Navigation Pane after hiding all of the modules contained by it.
+The following Visual Basic for Applications (VBA) example collapses the navigation pane after hiding all of the modules contained by it.
 
 
 ```vb
@@ -56,7 +56,7 @@ Sub CollapseAndHideAllModules()
  
  ' Set the IsCollapsed property to 
  
- ' collapse the Navigation Pane. 
+ ' collapse the navigation pane. 
  
  objPane.IsCollapsed = True 
  

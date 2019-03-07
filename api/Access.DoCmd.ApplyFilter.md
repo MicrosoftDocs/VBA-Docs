@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # DoCmd.ApplyFilter method (Access)
 
-The **ApplyFilter** method carries out the **ApplyFilter** action in Visual Basic.
+The **ApplyFilter** method carries out the ApplyFilter action in Visual Basic.
 
 
 ## Syntax

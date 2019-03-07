@@ -37,7 +37,7 @@ When you first open a form, the following events occur in this order:
 Open → Load → Resize → Activate → Current
 
 
- **Note**  You need to be careful if you use a  **MoveSize**, **Maximize**, **Minimize**, or **Restore** action (or the corresponding methods of the **DoCmd** object) in a **Resize** macro or event procedure. These actions can trigger a **Resize** event for the form, and thus cause a cascading event.
+**Note**  You need to be careful if you use a  MoveSize, Maximize, Minimize, or Restore action (or the corresponding methods of the **DoCmd** object) in a **Resize** macro or event procedure. These actions can trigger a **Resize** event for the form, and thus cause a cascading event.
 
 
 ## Example

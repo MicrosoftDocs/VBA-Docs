@@ -28,11 +28,11 @@ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 A SharePoint Foundation folder is a custom folder in Outlook that contains a live copy of the contact list or event list that lives on a SharePoint Foundation Web site. The contact list maps to a Contacts folder in Outlook and the event list maps to a Calendar folder. 
 
-SharePoint Foundation folders are automatically created under the  **SharePoint Folders** node in the Navigation Pane when a contact list or an event list is exported from the SharePoint Foundation Web site.
+SharePoint Foundation folders are automatically created under the  **SharePoint Folders** node in the navigation pane when a contact list or an event list is exported from the SharePoint Foundation Web site.
 
 Though SharePoint Foundation folders work the same way as other folders, there are a few exceptions. SharePoint Foundation folders are read-only and any attempt to edit folder properties or add, edit, or remove existing items will fail. 
 
-A folder in the user's Microsoft Exchange server folder will never be a SharePoint Foundation folder, and no folder in the user's default Personal Folders file (.pst) will ever be a SharePoint Foundation folder. Typically the SharePoint Foundation folders will be under the node  **SharePoint Folders** in the Navigation Pane.
+A folder in the user's Microsoft Exchange server folder will never be a SharePoint Foundation folder, and no folder in the user's default Personal Folders file (.pst) will ever be a SharePoint Foundation folder. Typically the SharePoint Foundation folders will be under the node  **SharePoint Folders** in the navigation pane.
 
 
 ## Example

@@ -30,7 +30,7 @@ This property is available only by using a macro or by using Visual Basic with t
 
 To use the  **OpenArgs** property, open a form by using the **OpenForm** method of the **DoCmd** object and set the _OpenArgs_ argument to the desired string expression. The **OpenArgs** property setting can then be used in code for the form, such as in an **Open** event procedure. You can also refer to the property setting in a macro, such as an **Open** macro, or an expression, such as an expression that sets the **ControlSource** property for a control on the form.
 
-For example, suppose that the form you open is a continuous-form list of clients. If you want the focus to move to a specific client record when the form opens, you can set the  **OpenArgs** property to the client's name, and then use the **FindRecord** action in an Open macro to move the focus to the record for the client with the specified name.
+For example, suppose that the form you open is a continuous-form list of clients. If you want the focus to move to a specific client record when the form opens, you can set the  **OpenArgs** property to the client's name, and then use the FindRecord action in an Open macro to move the focus to the record for the client with the specified name.
 
 
 ## Example
@@ -58,7 +58,7 @@ Sub Form_Open(Cancel As Integer)
 End Sub
 ```
 
-The following example shows how to use the  **OpenArgs** property to prevent a form from being opened from the Navigation Pane.
+The following example shows how to use the  **OpenArgs** property to prevent a form from being opened from the navigation pane.
 
  **Sample code provided by:** The[Microsoft Access 2010 Programmer's Reference](https://www.wrox.com/WileyCDA/WroxTitle/Access-2010-Programmer-s-Reference.productCd-0470591668.html)
 

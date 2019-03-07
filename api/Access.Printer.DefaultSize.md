@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Printer.DefaultSize property (Access)
 
- **True** if the size of the detail section in Design View is used for printing; otherwise, the values of the **[ItemSizeHeight](Access.Printer.ItemSizeHeight.md)** and **[ItemSizeWidth](Access.Printer.ItemSizeWidth.md)** properties are used. Read/write **Boolean**.
+**True** if the size of the detail section in Design view is used for printing; otherwise, the values of the **[ItemSizeHeight](Access.Printer.ItemSizeHeight.md)** and **[ItemSizeWidth](Access.Printer.ItemSizeWidth.md)** properties are used. Read/write **Boolean**.
 
 
 ## Syntax
