@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ComboBox.GridlineStyleTop
 ms.assetid: a68481b9-2e6f-fb25-c87f-4e94416aa1dd
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.CheckBox.GridlineStyleTop
 ms.assetid: a9bd50a3-0fc1-b39d-ab04-38b06bc2bb65
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

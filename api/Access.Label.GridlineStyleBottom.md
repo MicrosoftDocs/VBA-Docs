@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Label.GridlineStyleBottom
 ms.assetid: 14b9658c-4284-0f08-006b-f0ba6d5bc27f
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

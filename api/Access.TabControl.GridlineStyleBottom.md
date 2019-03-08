@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.TabControl.GridlineStyleBottom
 ms.assetid: 06c42eb1-5123-24a0-2b39-59371b0b23bf
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

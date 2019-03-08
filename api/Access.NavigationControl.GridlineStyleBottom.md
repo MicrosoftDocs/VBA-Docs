@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.NavigationControl.GridlineStyleBottom
 ms.assetid: 9bd6575e-a0a5-0757-c517-a694b04130e8
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 
