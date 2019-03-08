@@ -44,7 +44,7 @@ Valid values are between zero and eight. Values greater than eight are ignored; 
 
 ## Example
 
-This example sets the datasheet border line style on the first open form to short dashes. The form must be set to Datasheet View in order for you to see the change.
+This example sets the datasheet border line style on the first open form to short dashes. The form must be set to Datasheet view in order for you to see the change.
 
 
 ```vb

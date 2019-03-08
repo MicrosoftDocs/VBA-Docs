@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Printer.DataOnly property (Access)
 
- **True** if Microsoft Access prints only the data from a table or query in Datasheet View and not the labels, control borders, gridlines, and display graphics. Read/write **Boolean**.
+ **True** if Microsoft Access prints only the data from a table or query in Datasheet view and not the labels, control borders, gridlines, and display graphics. Read/write **Boolean**.
 
 
 ## Syntax
