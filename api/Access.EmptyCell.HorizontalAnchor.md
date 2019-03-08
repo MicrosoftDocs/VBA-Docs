@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EmptyCell.HorizontalAnchor property (Access)
 
-Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the cell is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax

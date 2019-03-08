@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationButton.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified text box. Read/write **Byte**.
+Gets or sets the bottom gridline style of the specified button. Read/write **Byte**.
 
 ## Syntax
 

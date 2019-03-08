@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.Filter event (Access)
 
-Occurs when the user opens a filter window by clicking **Filter by Form**, **Advanced Filter/Sort**, or **Server Filter By Form**.
+Occurs when the user opens a filter window by choosing **Filter by Form**, **Advanced Filter/Sort**, or **Server Filter By Form**.
 
 
 ## Syntax

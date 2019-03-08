@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TabControl.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified text box. Read/write **Byte**.
+Gets or sets the bottom gridline style of the specified control. Read/write **Byte**.
 
 ## Syntax
 

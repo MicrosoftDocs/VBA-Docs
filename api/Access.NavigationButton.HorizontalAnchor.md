@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationButton.HorizontalAnchor property (Access)
 
-Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the text box is anchored horizontally within its layout. Read/write.
+Gets or sets an **[AcHorizontalAnchor](Access.AcHorizontalAnchor.md)** constant that indicates how the button is anchored horizontally within its layout. Read/write.
 
 
 ## Syntax

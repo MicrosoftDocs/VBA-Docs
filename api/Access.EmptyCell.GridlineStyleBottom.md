@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # EmptyCell.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified text box. Read/write **Byte**.
+Gets or sets the bottom gridline style of the specified cell. Read/write **Byte**.
 
 ## Syntax
 

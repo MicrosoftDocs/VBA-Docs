@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebBrowserControl.GridlineStyleTop property (Access)
 
-Gets or sets the top gridline style of the specified text box. Read/write **Byte**.
+Gets or sets the top gridline style of the specified control. Read/write **Byte**.
 
 
 ## Syntax
