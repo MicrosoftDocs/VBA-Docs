@@ -32,7 +32,7 @@ Valid values for this property are:
 
 - [Event Procedure], which indicates the event procedure associated with the **BeforeUpdate** event for the specified object.
 
-- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
+- _=functionname()_, where _functionname_ is the name of a user-defined function.
 
 
 ## Example

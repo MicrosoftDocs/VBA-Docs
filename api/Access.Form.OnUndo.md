@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.OnUndo property (Access)
 
-Returns or sets a **String** indicating which macro, event procedure, or user-defined function runs when the **Undo** event occurs. Read/write.
+Returns or sets a **String** indicating which macro, event procedure, or user-defined function runs when the **[Undo](access.form.undo(even).md)** event occurs. Read/write.
 
 
 ## Syntax
@@ -34,7 +34,7 @@ Valid values for this property are:
 
 - [Event Procedure], which indicates the event procedure associated with the **Undo** event for the specified object.
 
-- = _functionname_(), where _functionname_ is the name of a user-defined function.
+- =_functionname_(), where _functionname_ is the name of a user-defined function.
 
 
 ## Example

@@ -7,31 +7,34 @@ ms.prod: access
 api_name:
 - Access.Report.MouseWheel
 ms.assetid: ea9d6443-abfd-6140-e167-548f4aafd342
-ms.date: 06/08/2017
+ms.date: 03/09/2019
 localization_priority: Normal
 ---
 
 
 # Report.MouseWheel property (Access)
 
-Returns or sets a  **String** indicating which macro, event procedure, or user-defined function runs when the **MouseWheel** event occurs. Read/write.
+Returns or sets a **String** indicating which macro, event procedure, or user-defined function runs when the **[MouseWheel](access.report.mousewheel(even).md)** event occurs. Read/write.
 
 
 ## Syntax
 
-_expression_. `MouseWheel`
+_expression_.**MouseWheel**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks
 
-Valid values for this property are "macroname", where  _macroname_ is the name of the macro; "[Event Procedure]", which indicates the event procedure associated with the **BeforeInsert** event for the specified object; or "=functionname()", where _functionname_ is the name of a user-defined function.
+Valid values for this property are:
+
+- _macroname_, where _macroname_ is the name of a macro.
+
+- [Event Procedure], which indicates the event procedure associated with the **MouseWheel** event for the specified object.
+
+- _=functionname()_, where _functionname_ is the name of a user-defined function.
 
 
-## See also
 
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -30,7 +30,7 @@ Valid values for this property are:
 
 - _macroname_, where _macroname_ is the name of a macro.
 
-- [Event Procedure], which indicates the event procedure associated with the **BeforeInsert** event for the specified object.
+- [Event Procedure], which indicates the event procedure associated with the **CommandBeforeExecute** event for the specified object.
 
 - _=functionname()_, where _functionname_ is the name of a user-defined function.
 

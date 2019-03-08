@@ -28,11 +28,11 @@ _expression_ A variable that represents a **[BoundObjectFrame](Access.BoundObjec
 
 Valid values for this property are:
 
--  _macroname_, where _macroname_ is the name of a macro.
+- _macroname_, where _macroname_ is the name of a macro.
 
 - [Event Procedure], which indicates the event procedure associated with the **AfterUpdate** event for the specified object.
 
-- **=** _functionname_ **()**, where _functionname_ is the name of a user-defined function.
+- _=functionname()_, where _functionname_ is the name of a user-defined function.
 
 
 ## Example
