@@ -36,12 +36,9 @@ To run a macro or event procedure when these events occur, set the **OnUnload** 
 
 The **Unload** event is caused by user actions such as:
 
-- Closing the report.
-    
-- Running the Close action in a macro.
-    
-- Quitting an application by right-clicking the application's taskbar button and then choosing **Close**.
-    
+- Closing the report.   
+- Running the Close action in a macro.   
+- Quitting an application by right-clicking the application's taskbar button and then choosing **Close**. 
 - Quitting Windows while an application is running.
     
 By running a macro or an event procedure when a report's **Unload** event occurs, you can verify that the report should be unloaded or specify actions that should take place when the report is unloaded. You can also open another report or display a dialog box requesting the user's name to make a log entry indicating who used the report.

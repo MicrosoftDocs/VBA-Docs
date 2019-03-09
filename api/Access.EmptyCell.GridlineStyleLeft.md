@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.EmptyCell.GridlineStyleLeft
 ms.assetid: 90b16457-7115-e07b-04c4-359c1a52de38
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

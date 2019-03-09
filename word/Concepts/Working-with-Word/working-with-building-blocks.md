@@ -2,7 +2,7 @@
 title: Working with building blocks
 ms.prod: word
 ms.assetid: c32a8972-a6fc-bb66-b62a-039b88580b37
-ms.date: 03/08/2019
+ms.date: 03/09/2019
 localization_priority: Priority
 ---
 
@@ -113,14 +113,14 @@ Sub InsertExistingBuildingBlock()
  Dim objTemplate As Template 
  Dim objBB As BuildingBlock 
  
- ' Set the template to store the building block 
+ ' Set the template where the building block is stored 
  Set objTemplate = ActiveDocument.AttachedTemplate 
  
  ' Access the building block through the type and category 
  Set objBB = objTemplate.BuildingBlockTypes(wdTypeCustomHeaders) _ 
  .Categories("Book Titles").BuildingBlocks("Title") 
  
- ' Insert the building block into the document replacing any selected text. 
+ ' Insert the building block into the document replacing any selected text 
  objBB.Insert Selection.Range 
  
 End Sub

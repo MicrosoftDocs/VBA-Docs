@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 |:-----|:-----|:-----|:-----|
 | _drawObject_|Required|**Object**|A reference to the **ChChartDraw** object. Use the **DrawType** property of the returned object to determine what type of rendering is about to occur.|
 | _chartObject_|Required|**Object**| The object that is to be rendered. Use the **TypeName** function to determine the type of the object.|
-| _Cancel_|Required|**Object**| Set the **Value** property of this object to **True** to cancel the rendering of the PivotChart View object.|
+| _Cancel_|Required|**Object**| Set the **Value** property of this object to **True** to cancel the rendering of the PivotChart view object.|
 
 ## Return value
 

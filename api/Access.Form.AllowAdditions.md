@@ -7,50 +7,44 @@ ms.prod: access
 api_name:
 - Access.Form.AllowAdditions
 ms.assetid: 8e440a96-7f9e-c009-5055-377c75999267
-ms.date: 06/08/2017
+ms.date: 03/09/2019
 localization_priority: Priority
 ---
 
 
 # Form.AllowAdditions property (Access)
 
-You can use the  **AllowAdditions** property to specify whether a user can add a record when using a form. Read/write **Boolean**.
+You can use the **AllowAdditions** property to specify whether a user can add a record when using a form. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `AllowAdditions`
+_expression_.**AllowAdditions**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-Set the  **AllowAdditions** property to No to allow users to view or edit existing records but not add new records.
+Set the **AllowAdditions** property to No to allow users to view or edit existing records but not add new records.
 
-If you want to prevent changes to existing records (make a form read-only), set the  **AllowAdditions**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
+If you want to prevent changes to existing records (make a form read-only), set the **AllowAdditions**, **[AllowDeletions](Access.Form.AllowDeletions.md)**, and **[AllowEdits](Access.Form.AllowEdits.md)** properties to No. You can also make records read-only by setting the **[RecordsetType](overview/Access.md)** property to Snapshot.
 
-If you want to open a form for data entry only, set the form's  **[DataEntry](Access.Form.DataEntry.md)** property to Yes.
+If you want to open a form for data entry only, set the form's **[DataEntry](Access.Form.DataEntry.md)** property to Yes.
 
-When the  **AllowAdditions** property is set to No, the **Data Entry** command on the **Records** menu isn't available.
+When the **AllowAdditions** property is set to No, the **Data Entry** command on the **Records** menu isn't available.
 
-
- **Note**  When the Data Mode argument of the OpenForm action is used, Microsoft Access will override a number of form property settings. If the Data Mode argument of the OpenForm action is set to Edit, Microsoft Access will open the form with the following property settings:
-
-
--  **AllowEdits** — Yes
-    
--  **AllowDeletions** — Yes
-    
--  **AllowAdditions** — Yes
-    
--  **DataEntry** — No
+> [!NOTE] 
+> When the _DataMode_ argument of the OpenForm action is used, Microsoft Access will override a number of form property settings. If the _DataMode_ argument of the OpenForm action is set to Edit, Access will open the form with the following property settings:
+> - **AllowEdits** - Yes
+> - **AllowDeletions** - Yes
+> - **AllowAdditions** - Yes
+> - **DataEntry** - No
     
 
 ## Example
 
-The following example examines the  **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed and the text box controls' **SpecialEffect** property is set to Normal and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
-
+The following example examines the **ControlType** property for all controls on a form. For each label and text box control, the procedure toggles the **SpecialEffect** property for those controls. When the label controls' **SpecialEffect** property is set to Shadowed, and the text box controls' **SpecialEffect** property is set to Normal, and the **AllowAdditions**, **AllowDeletions**, and **AllowEdits** properties are all set to **True**, the `intCanEdit` variable is toggled to allow editing of the underlying data.
 
 ```vb
 Sub ToggleControl(frm As Form) 
@@ -98,9 +92,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

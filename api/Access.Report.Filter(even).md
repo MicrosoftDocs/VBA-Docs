@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.Filter event (Access)
 
-Occurs when the user opens a filter window by clicking **Advanced Filter/Sort**.
+Occurs when the user opens a filter window by choosing **Advanced Filter/Sort**.
 
 
 ## Syntax

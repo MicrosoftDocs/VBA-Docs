@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.PivotTable property (Access)
 
-Returns a  **PivotTable** object representing a PivotTable View on a form. Read-only.
+Returns a  **PivotTable** object representing a PivotTable view on a form. Read-only.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Example
 
-This example reports the version of Microsoft Office Web Components in use for the specified form, assuming that there is a PivotTable View on the form.
+This example reports the version of Microsoft Office Web Components in use for the specified form, assuming that there is a PivotTable view on the form.
 
 
 ```vb

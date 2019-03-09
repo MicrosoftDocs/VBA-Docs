@@ -44,7 +44,7 @@ By running a macro or event procedure when a **Dirty** event occurs, you can det
 
 Changing the data in a record by using the keyboard causes keyboard events to occur in addition to control events like the **Dirty** event. For example, if you move to a new record and type an ANSI character in a text box in the record, the following events occur in this order:
 
-> **KeyDown** > **KeyPress** > **BeforeInsert** > **Dirty** > **KeyUp**
+> **KeyDown** → **KeyPress** → **BeforeInsert** → **Dirty** → **KeyUp**
 
 The **BeforeUpdate** and **AfterUpdate** events for a record occur after you enter the new or changed data in the record and move to another record (or choose **Save Record** on the **Records** menu), and therefore after the **Dirty** event for the record.
 

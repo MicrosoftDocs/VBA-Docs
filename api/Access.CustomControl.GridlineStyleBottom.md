@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.CustomControl.GridlineStyleBottom
 ms.assetid: 6cacbac2-3960-3f3e-45a1-d5b0d8fd3ac0
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 
 
 # CustomControl.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified text box. Read/write **Byte**.
+Gets or sets the bottom gridline style of the specified control. Read/write **Byte**.
 
 ## Syntax
 

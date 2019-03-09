@@ -41,7 +41,7 @@ The following example demonstrates the syntax for a subroutine that traps the **
 
 ```vb
 Private Sub Form_AfterFinalRender(ByVal drawObject As Object) 
- MsgBox "The PivotChart View has fully rendered." 
+ MsgBox "The PivotChart view has fully rendered." 
 End Sub
 ```
 

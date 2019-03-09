@@ -30,10 +30,8 @@ To run a macro or event procedure when these events occur, set the **OnLoad** pr
 
 The **Load** event is caused by user actions such as:
 
-- Starting an application. 
-    
+- Starting an application.    
 - Opening a report by choosing **Open** in the Database window.
-    
 - Running the OpenReport action in a macro.
     
 By running a macro or an event procedure when a report's **Load** event occurs, you can specify default settings for controls, or display calculated data that depends on the data in the report's records.

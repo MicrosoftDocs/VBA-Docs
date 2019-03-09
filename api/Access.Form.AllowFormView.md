@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Form.AllowFormView property (Access)
 
-Returns or sets a  **Boolean** indicating whether the specified form may be viewed in Form View. **True** if Form View is allowed. Read/write.
+Returns or sets a  **Boolean** indicating whether the specified form may be viewed in Form view. **True** if Form view is allowed. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Use the  **AllowDatasheetView**, **AllowFormView**, **[AllowPivotChartView](Acce
 
 ## Example
 
-The following example makes Form View valid for the specified form and then opens the form in Form View.
+The following example makes Form view valid for the specified form and then opens the form in Form view.
 
 
 ```vb

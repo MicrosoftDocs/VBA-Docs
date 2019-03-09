@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.GridlineStyleLeft
 ms.assetid: 09791118-77ec-c03c-00e9-d6450d1c7fe2
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 

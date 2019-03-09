@@ -43,7 +43,7 @@ Valid values are between zero and seven. Values greater than seven are ignored; 
 
 ## Example
 
-This example sets the horizontal gridline style on the first open form to dash-dot. The form must be set to Datasheet View in order for you to see the change.
+This example sets the horizontal gridline style on the first open form to dash-dot. The form must be set to Datasheet view in order for you to see the change.
 
 
 ```vb

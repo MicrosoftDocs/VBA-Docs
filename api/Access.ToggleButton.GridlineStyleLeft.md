@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ToggleButton.GridlineStyleLeft
 ms.assetid: 1f5fb2ce-e8e2-f14c-d30d-0d28651aed06
-ms.date: 06/08/2017
+ms.date: 02/14/2019
 localization_priority: Normal
 ---
 
