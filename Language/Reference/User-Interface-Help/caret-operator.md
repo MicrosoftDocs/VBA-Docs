@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1008849
 ms.prod: office
 ms.assetid: 9a2f874a-bf55-ae06-cf93-951d774eff0a
-ms.date: 11/19/2018
+ms.date: 03/12/2019
 localization_priority: Normal
 ---
 
@@ -43,11 +43,14 @@ MyValue = 3 ^ 3 ^ 3    ' Returns 19683.
 MyValue = (-5) ^ 3    ' Returns -125.
 
 ```
-Note to 64-bit users: Since the caret operator is used to create Long Long data types in 64-bit environment, the VBA IDE may not interpret this operator correctly. To insure proper interpretation, add a space character immediately before the caret as shown.
-```vb
-x=y^2    ' Will generate "expected )" from VBA IDE.
-x=y ^2   ' Will be interpreted as x equals y squared.
-```
+
+> [!NOTE] 
+> **For 64-bit users**: Because the caret operator is used to create **Long Long** data types in a 64-bit environment, the VBA IDE may not interpret this operator correctly. To ensure proper interpretation, add a space character immediately before the caret as shown.
+> 
+> ```vb
+>  x=y^2    ' Will generate "expected )" from VBA IDE.
+>  x=y ^2   ' Will be interpreted as x equals y squared.
+> ```
 
 ## See also
 
