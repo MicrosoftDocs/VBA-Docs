@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Remarks
 
-Use the **AllowDatasheetView**, **[AllowPivotChartView](Access.Form.AllowPivotChartView.md)**, **AllowPivotChartView**, or **[AllowPivotTableView](Access.Form.AllowPivotTableView.md)** properties to control which views are allowed for a form.
+Use the **[AllowDatasheetView](Access.Form.AllowDatasheetView.md)**, **[AllowFormView](Access.Form.AllowFormView.md)**, **AllowPivotChartView**, or **[AllowPivotTableView](Access.Form.AllowPivotTableView.md)** properties to control which views are allowed for a form.
 
 
 ## Example
