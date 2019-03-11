@@ -14,21 +14,19 @@ localization_priority: Normal
 
 # Form.DefaultView property (Access)
 
-You can use the  **DefaultView** property to specify the opening view of a form. Read/write **Byte**.
+You can use the **DefaultView** property to specify the opening view of a form. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `DefaultView`
+_expression_.**DefaultView**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-The  **DefaultView** property uses the following settings.
-
-
+The **DefaultView** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -39,13 +37,13 @@ The  **DefaultView** property uses the following settings.
 |PivotChart|4|Displays the form as a PivotChart.|
 |Split Form|5|Displays a split view of a Single Form and a datasheet containing the form's records.|
 
-The views displayed in the  **View** button list depend on the setting of the **ViewsAllowed** property. For example, if the **ViewsAllowed** property is set to Datasheet, Form view is disabled in the **View** button list and on the **View** menu.
+<br/>
+
+The views displayed in the **View** button list depend on the setting of the **ViewsAllowed** property. For example, if the **ViewsAllowed** property is set to Datasheet, Form view is disabled in the **View** button list and on the **View** menu.
 
 The combination of these properties creates the following conditions.
 
-
-
-|**DefaultView**|**ViewsAllowed**|**Description**|
+|DefaultView|ViewsAllowed|Description|
 |:-----|:-----|:-----|
 |Single, Continuous Forms, or Datasheet|Both|Users can switch between Form view and Datasheet view.|
 |Single or Continuous Forms|Form|Users can't switch from Form view to Datasheet view.|
@@ -53,9 +51,6 @@ The combination of these properties creates the following conditions.
 |Datasheet|Form|Users can switch from Datasheet view to Form view but not back again.|
 |Datasheet|Datasheet|Users can't switch from Datasheet view to Form view.|
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

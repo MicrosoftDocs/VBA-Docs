@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.Form.FrozenColumns
 ms.assetid: 5b595c5e-6a2e-e3d8-1ae8-a2f224eb5516
-ms.date: 06/08/2017
+ms.date: 03/12/2019
 localization_priority: Normal
 ---
 
 
 # Form.FrozenColumns property (Access)
 
-You can use the  **FrozenColumns** property to determine how many columns in a datasheet are frozen. Read/write **Integer**.
+You can use the **FrozenColumns** property to determine how many columns in a datasheet are frozen. Read/write **Integer**.
 
 
 ## Syntax
 
-_expression_. `FrozenColumns`
+_expression_.**FrozenColumns**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
@@ -28,16 +28,15 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 Frozen columns are displayed on the left side of the datasheet and don't move when you scroll horizontally through the datasheet.
 
+> [!NOTE] 
+> The **FrozenColumns** property applies only to tables, forms, and queries in Datasheet view.
 
- **Note**  The  **FrozenColumns** property applies only to tables, forms, and queries in Datasheet view.
-
-In [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md), this property setting is an  **Integer** value indicating the number of columns in the datasheet that have been frozen by using the **Freeze Columns** command. The record selector column is always frozen, so the default value is 1. Consequently, if you freeze one column, the **FrozenColumns** property is set to 2; if you freeze two columns, it's set to 3; and so on.
+In [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md), this property setting is an **Integer** value indicating the number of columns in the datasheet that have been frozen by using the **Freeze Columns** command. The record selector column is always frozen, so the default value is 1. Consequently, if you freeze one column, the **FrozenColumns** property is set to 2; if you freeze two columns, it's set to 3, and so on.
 
 
 ## Example
 
-The following example uses the  **FrozenColumns** property to determine how many columns are frozen in a table in Datasheet view. If more than three columns are frozen, the table size is maximized so you can see as many unfrozen columns as possible.
-
+The following example uses the **FrozenColumns** property to determine how many columns are frozen in a table in Datasheet view. If more than three columns are frozen, the table size is maximized so that you can see as many unfrozen columns as possible.
 
 ```vb
 Sub CheckFrozen(strTableName As String) 
@@ -66,9 +65,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
