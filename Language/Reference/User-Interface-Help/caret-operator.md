@@ -43,6 +43,11 @@ MyValue = 3 ^ 3 ^ 3    ' Returns 19683.
 MyValue = (-5) ^ 3    ' Returns -125.
 
 ```
+Note to 64-bit users: Since the caret operator is used to create Long Long data types in 64-bit environment, the VBA IDE may not interpret this operator correctly. To insure proper interpretation, add a space character immediately before the caret as shown.
+```vb
+x=y^2    ' Will generate "expected )" from VBA IDE.
+x=y ^2   ' Will be interpreted as x equals y squared.
+```
 
 ## See also
 
