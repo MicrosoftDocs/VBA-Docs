@@ -1,5 +1,5 @@
 ---
-title: Form.Hwnd property (Access)
+title: Form.hWnd property (Access)
 keywords: vbaac10.chm13408
 f1_keywords:
 - vbaac10.chm13408
@@ -7,35 +7,34 @@ ms.prod: access
 api_name:
 - Access.Form.Hwnd
 ms.assetid: 894b2d6d-b11d-c674-e1e5-21ff33aeca36
-ms.date: 06/08/2017
+ms.date: 03/12/2019
 localization_priority: Normal
 ---
 
 
-# Form.Hwnd property (Access)
+# Form.hWnd property (Access)
 
-You can use the  **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Microsoft Windows to the current window. Read/write **Long**.
+You can use the **hWnd** property to determine the handle (a unique **Long Integer** value) assigned by Windows to the current window. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `Hwnd`
+_expression_.**hWnd**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-You can use this property in Visual Basic when making calls to Windows application programming interface (API) functions or other external routines that require the  **hWnd** property as an argument. Many Windows functions require the **hWnd** property value of the current window as one of the arguments.
+You can use this property in Visual Basic when making calls to Windows application programming interface (API) functions or other external routines that require the **hWnd** property as an argument. Many Windows functions require the **hWnd** property value of the current window as one of the arguments.
 
-
- **Note**  Because the value of this property can change while a program is running, don't store the  **hWnd** property value in a public variable.
+> [!NOTE] 
+> Because the value of this property can change while a program is running, don't store the **hWnd** property value in a public variable.
 
 
 ## Example
 
-The following example uses the  **hWnd** property with the Windows API **IsZoomed** function to determine if a window is maximized.
-
+The following example uses the **hWnd** property with the Windows API **IsZoomed** function to determine if a window is maximized.
 
 ```vb
 ' Enter on single line in Declarations section of Module window. 
@@ -51,9 +50,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

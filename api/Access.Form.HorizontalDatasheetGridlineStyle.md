@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.Form.HorizontalDatasheetGridlineStyle
 ms.assetid: 31467913-382f-031e-b030-68181a71d5e0
-ms.date: 06/08/2017
+ms.date: 03/12/2019
 localization_priority: Normal
 ---
 
 
 # Form.HorizontalDatasheetGridlineStyle property (Access)
 
-Returns or sets a  **Byte** indicating the line style to use for horizontal gridlines on the specified datasheet. Read/write.
+Returns or sets a **Byte** indicating the line style to use for horizontal gridlines on the specified datasheet. Read/write.
 
 
 ## Syntax
 
-_expression_. `HorizontalDatasheetGridlineStyle`
+_expression_.**HorizontalDatasheetGridlineStyle**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
@@ -27,8 +27,6 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 ## Remarks
 
 Valid values are between zero and seven. Values greater than seven are ignored; negative values or values above 255 cause an error.
-
-
 
 |Value|Description|
 |:-----|:-----|
@@ -43,7 +41,7 @@ Valid values are between zero and seven. Values greater than seven are ignored; 
 
 ## Example
 
-This example sets the horizontal gridline style on the first open form to dash-dot. The form must be set to Datasheet view in order for you to see the change.
+This example sets the horizontal gridline style on the first open form to dash-dot. The form must be set to Datasheet view for you to see the change.
 
 
 ```vb
@@ -52,9 +50,6 @@ Forms(0).HorizontalDatasheetGridlineStyle = 6
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

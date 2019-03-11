@@ -7,31 +7,30 @@ ms.prod: access
 api_name:
 - Access.Form.DatasheetFontUnderline
 ms.assetid: a232a1a8-b537-4935-bd64-138548241c7c
-ms.date: 06/08/2017
+ms.date: 03/12/2019
 localization_priority: Normal
 ---
 
 
 # Form.DatasheetFontUnderline property (Access)
 
-You can use the  **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
+You can use the **DatasheetFontUnderline** property to specify an underlined appearance for field names and data in Datasheet view. Read/write **Boolean**.
 
 
 ## Syntax
 
-_expression_. `DatasheetFontUnderline`
+_expression_.**DatasheetFontUnderline**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-The  **DatasheetFontUnderline** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
+The **DatasheetFontUnderline** property applies to all fields in Datasheet view and to form controls when the form is in Datasheet view.
 
-This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)within a Microsoft Access database.
+This property is only available in [Visual Basic](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) within a Microsoft Access database.
 
-The following table contains the properties that don't exist in the DAO  **Properties** collection of until you set them by using the **Formatting (Datasheet)** toolbar or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
-
+The following table contains the properties that don't exist in the DAO **Properties** collection until you set them by using the **Formatting (Datasheet)** toolbar, or you can add them in an Access database by using the **CreateProperty** method and append it to the DAO **Properties** collection.
 
 |||
 |:-----|:-----|
@@ -41,25 +40,22 @@ The following table contains the properties that don't exist in the DAO  **Prope
 |**DatasheetFontUnderline** *|**[DatasheetGridlinesBehavior](Access.Form.DatasheetGridlinesBehavior.md)**|
 |**[DatasheetFontWeight](Access.Form.DatasheetFontWeight.md)** *|**[DatasheetCellsEffect](Access.Form.DatasheetCellsEffect.md)**|
 
- **Note**  When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the  **Properties** collection of the database.
+> [!NOTE] 
+> When you add or set any property listed with an asterisk, Microsoft Access automatically adds all the properties listed with an asterisk to the **Properties** collection of the database.
 
 
 ## Example
 
-The following example displays the data and field names in Datasheet view of the Products form as italic and underlined.
-
+The following example displays the data and field names in Datasheet view of the **Products** form as italic and underlined.
 
 ```vb
 Forms![Products].DatasheetFontItalic = True 
 Forms![Products].DatasheetFontUnderline = True
 ```
 
-The next example displays the data and field names in Datasheet view of the Products table as italic and underlined.
+<br/>
 
-To set the  **DatasheetFontItalic** and **DatasheetFontUnderline** properties, the example uses the SetTableProperty procedure, which is in the database's standard module.
-
-
-
+The following example displays the data and field names in Datasheet view of the **Products** table as italic and underlined. To set the **DatasheetFontItalic** and **DatasheetFontUnderline** properties, the example uses the **SetTableProperty** procedure, which is in the database's standard module.
 
 ```vb
 Dim dbs As Object, objProducts As Object 
@@ -94,9 +90,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
