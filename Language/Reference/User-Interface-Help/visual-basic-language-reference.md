@@ -18,14 +18,16 @@ Provides documentation about Visual Basic the language: all its methods, propert
 - [Events](../events-visual-basic-for-applications.md)
 - [Functions](../functions-visual-basic-for-applications.md)
 - [Keywords](keywords-by-task.md) 
-- [Methods](../methods-visual-basic-for-applications.md)
+- [Methods](../methods-visual-basic-for-applications.md) <---
 - [Microsoft Forms](reference-microsoft-forms.md)
-- [Object Browser](../object-browser-visual-basic-for-applications.md)
+- [Object Browser](../object-browser-visual-basic-for-applications.md) <---
 - [Objects](../objects-visual-basic-for-applications.md)
 - [Operators](../operators.md)
-- [Properties](../properties-visual-basic-for-applications.md)
+- [Properties](../properties-visual-basic-for-applications.md) <---
 - [Statements](../statements.md)
 - [Visual Basic Add-in Model](visual-basic-add-in-model-reference.md)
+
+![Link missing](https://user-images.githubusercontent.com/26076874/54222203-2f4db500-44b2-11e9-9acb-c766a27cfac8.png)
 
 
 ## See also
