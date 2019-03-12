@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Caption
 ms.assetid: 618f5623-2eb7-4b7e-2f15-c30a0c2e0fe2
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

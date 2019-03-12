@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.SetWarnings
 ms.assetid: fe8cbd54-fa63-4057-8ea2-da9ba79ed1a6
 ms.date: 01/18/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

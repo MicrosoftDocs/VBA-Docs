@@ -3,7 +3,7 @@ title: Publish a Form
 ms.prod: outlook
 ms.assetid: 10d333e6-2588-ba6d-6909-ff377bb42851
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

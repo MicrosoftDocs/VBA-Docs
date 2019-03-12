@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.CalculateFullRebuild
 ms.assetid: 6d3dac24-7fb8-05fd-b6ee-cb3ef7d5f33a
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

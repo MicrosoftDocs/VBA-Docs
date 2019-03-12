@@ -3,7 +3,7 @@ title: Working with Bibliographies
 ms.prod: word
 ms.assetid: ce05a0bd-bacd-16e1-0ab0-793a47a15da5
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

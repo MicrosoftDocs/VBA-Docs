@@ -8,7 +8,7 @@ api_name:
 - Office.Collection
 ms.assetid: 1bc5c060-34c7-84e7-c99c-f20266a2d071
 ms.date: 11/12/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

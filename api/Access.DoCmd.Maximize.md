@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.Maximize
 ms.assetid: 6b1103f5-07b8-fbcf-ff7e-ccbfd6945768
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

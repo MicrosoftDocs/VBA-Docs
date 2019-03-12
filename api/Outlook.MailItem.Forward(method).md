@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.Forward
 ms.assetid: 5b8c2261-c5ac-fd80-8acf-dfa645a04a1e
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

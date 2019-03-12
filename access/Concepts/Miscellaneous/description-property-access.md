@@ -9,7 +9,7 @@ api_name:
 - Access.Description
 ms.assetid: b2933bc9-5e8b-9bee-d07b-2b015c530ebe
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

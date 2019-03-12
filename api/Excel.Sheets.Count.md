@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets.Count
 ms.assetid: 0211fbdd-8a51-2cee-3695-c2e2ee5e56c8
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

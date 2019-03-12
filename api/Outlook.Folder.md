@@ -8,7 +8,7 @@ api_name:
 - Outlook.Folder
 ms.assetid: 3cf6cda8-6d70-666e-2643-9d9c5b9cacfc
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

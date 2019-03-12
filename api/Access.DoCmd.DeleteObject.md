@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.DeleteObject
 ms.assetid: 8e59c5a8-89bd-0d90-9fd1-a1178c73c1c1
 ms.date: 03/06/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

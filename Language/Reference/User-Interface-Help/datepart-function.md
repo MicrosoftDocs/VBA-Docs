@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 65476ecc-c1d6-333e-b8b5-417a96373594
 ms.date: 12/12/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # DatePart function

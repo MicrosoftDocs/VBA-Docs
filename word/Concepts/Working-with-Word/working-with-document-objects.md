@@ -3,7 +3,7 @@ title: Working with Document Objects
 ms.prod: word
 ms.assetid: af304f65-6cdd-ff7d-a81f-cce0161f2b47
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # Working with Document Objects

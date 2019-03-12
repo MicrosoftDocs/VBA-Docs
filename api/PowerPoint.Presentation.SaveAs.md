@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.SaveAs
 ms.assetid: d70a678b-66ed-9dd6-5a5e-454cdf808784
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # Presentation.SaveAs Method (PowerPoint)

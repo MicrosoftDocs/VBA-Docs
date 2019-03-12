@@ -8,7 +8,7 @@ api_name:
 - Outlook.OlDefaultFolders
 ms.assetid: 1a17abd8-09b9-d3e1-2d93-0a4d5580a950
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

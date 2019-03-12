@@ -8,7 +8,7 @@ api_name:
 - Office.MouseMove
 ms.assetid: 0bbb767d-c113-2a65-7ca1-a3f98f4a3cce
 ms.date: 11/15/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

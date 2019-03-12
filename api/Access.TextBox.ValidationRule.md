@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.ValidationRule
 ms.assetid: e481fba1-7e08-f8da-b644-5e38c2bf445e
 ms.date: 02/27/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

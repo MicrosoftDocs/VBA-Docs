@@ -8,7 +8,7 @@ api_name:
 - Office.DeleteFile
 ms.assetid: e036b009-4fd9-297a-de24-acc0dbc96c7a
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

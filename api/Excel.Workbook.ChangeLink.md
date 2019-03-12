@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbook.ChangeLink
 ms.assetid: 9b2c0b82-73ff-3bdb-63df-82c0708cb703
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.RowFields
 ms.assetid: 3976d5ec-b248-55f5-659d-2671af3f3bfd
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

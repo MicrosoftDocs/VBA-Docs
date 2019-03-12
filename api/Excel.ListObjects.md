@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObjects
 ms.assetid: 3a888055-1ed0-d37d-0586-ced999dc1c42
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

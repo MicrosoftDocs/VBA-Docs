@@ -8,7 +8,7 @@ api_name:
 - Outlook.Application.CreateObject
 ms.assetid: 09b6ff5b-a750-c07d-7499-c1f8a00214fe
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

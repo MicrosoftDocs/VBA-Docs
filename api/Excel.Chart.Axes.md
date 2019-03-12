@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Axes
 ms.assetid: d0520f61-9aff-894b-9975-37dcb5b5fe3c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentations.Add
 ms.assetid: 9a09ad9b-c52d-9fd6-20ef-68b694596ed2
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

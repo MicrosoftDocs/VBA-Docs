@@ -8,7 +8,7 @@ api_name:
 - Office.ShowModal
 ms.assetid: 710c7bc7-ce50-057f-680e-e2be157d0dac
 ms.date: 12/19/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

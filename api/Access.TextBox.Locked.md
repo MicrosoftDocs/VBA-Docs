@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Locked
 ms.assetid: 025b88db-7409-4cb6-bcc0-c72a6a3850d3
 ms.date: 02/22/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

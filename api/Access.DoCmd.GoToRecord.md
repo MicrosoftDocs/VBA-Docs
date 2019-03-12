@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.GoToRecord
 ms.assetid: 5494b6fc-112f-e944-9072-873b00271ab1
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

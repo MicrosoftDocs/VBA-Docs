@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.CenterHorizontally
 ms.assetid: 6b3e97fd-6b05-6863-c642-b085ea9ddd33
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

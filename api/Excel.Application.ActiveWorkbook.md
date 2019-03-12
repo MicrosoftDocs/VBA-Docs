@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.ActiveWorkbook
 ms.assetid: 637a2a30-f80c-08cd-e5c2-84716d0fff01
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

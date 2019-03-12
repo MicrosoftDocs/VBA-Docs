@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.SetSourceData
 ms.assetid: fc41cc05-087a-f53c-2f54-fd6307de51d6
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

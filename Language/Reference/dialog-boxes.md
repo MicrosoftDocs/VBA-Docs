@@ -6,7 +6,7 @@ f1_keywords:
 - vblr6.chm1103511
 ms.prod: office
 ms.date: 11/27/2018 
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # Dialog boxes

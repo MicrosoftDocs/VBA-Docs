@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: access
 ms.assetid: 0c039f53-f0c2-1fb7-0cd2-9bb6fd87560f
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

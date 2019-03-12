@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Cursor
 ms.assetid: 5137b89d-aba9-3e5f-b6c4-cd2264a7bd7f
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

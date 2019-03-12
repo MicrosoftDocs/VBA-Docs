@@ -8,7 +8,7 @@ api_name:
 - Access.Form.SetFocus
 ms.assetid: b0169892-0040-bb61-904f-0ea81eea681a
 ms.date: 02/20/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

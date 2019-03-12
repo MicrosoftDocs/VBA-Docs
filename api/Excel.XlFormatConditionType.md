@@ -5,7 +5,7 @@ api_name:
 - Excel.XlFormatConditionType
 ms.assetid: ae97c695-f56a-c9ee-91b0-dac413c93428
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

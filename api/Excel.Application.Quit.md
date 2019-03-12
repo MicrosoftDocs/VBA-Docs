@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Quit
 ms.assetid: d01de494-95c7-6e3e-3049-f89b31aa9d0c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.ListIndex
 ms.assetid: ec6f8ad0-472b-18e3-6c56-bf2e94152504
 ms.date: 11/16/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

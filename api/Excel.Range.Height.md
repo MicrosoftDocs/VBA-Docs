@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Height
 ms.assetid: e204a719-d7de-cd18-65b9-c34575bd92e5
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

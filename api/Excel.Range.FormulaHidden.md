@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.FormulaHidden
 ms.assetid: b6425c86-7e20-e34e-2d96-eb16075c20b6
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

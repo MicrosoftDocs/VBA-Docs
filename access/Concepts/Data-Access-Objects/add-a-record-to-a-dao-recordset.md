@@ -3,7 +3,7 @@ title: Add a record to a DAO Recordset
 ms.prod: access
 ms.assetid: b6366906-4b37-0d35-cfd5-d38e7717131c
 ms.date: 09/21/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

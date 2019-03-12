@@ -3,7 +3,7 @@ title: Using the Document Inspector
 ms.prod: office
 ms.assetid: 62180311-ee41-1812-797d-3b5814add284
 ms.date: 01/02/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

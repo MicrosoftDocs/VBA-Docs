@@ -8,7 +8,7 @@ api_name:
 - Office.CopyFile
 ms.assetid: 2ab700b1-0827-c277-6af5-93a86ed05cc1
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

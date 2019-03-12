@@ -3,7 +3,7 @@ title: Concepts (Word VBA reference)
 ms.prod: word
 ms.assetid: 235f8709-b17d-a03e-7c78-6a663d037721
 ms.date: 10/10/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

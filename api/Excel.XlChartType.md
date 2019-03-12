@@ -5,7 +5,7 @@ api_name:
 - Excel.XlChartType
 ms.assetid: bba4ee89-ee91-f55a-d2e0-59a73e5bfabe
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

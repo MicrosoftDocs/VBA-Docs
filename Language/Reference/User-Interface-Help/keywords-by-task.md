@@ -3,7 +3,7 @@ title: Keywords by task
 ms.prod: office
 ms.assetid: 2136bce4-57d3-de8e-5bd9-48504ac17964
 ms.date: 11/29/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

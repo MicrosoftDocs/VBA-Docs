@@ -8,7 +8,7 @@ api_name:
 - Excel.PageSetup.PrintArea
 ms.assetid: da4d5231-cc74-5940-ffd4-224b78e5244c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.EnableEvents
 ms.assetid: 5e14ce7b-02f6-03d4-2dfc-1df05a032301
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.OldValue
 ms.assetid: d62150d2-6dc6-85c0-0452-e9e5fee199b4
 ms.date: 02/22/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

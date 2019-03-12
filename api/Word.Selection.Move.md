@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Move
 ms.assetid: 8bd36cf4-ca05-6412-2145-31d07367730e
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
