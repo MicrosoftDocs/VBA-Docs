@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Rank
 ms.assetid: e75cabc4-1d97-b8fd-4e7d-3b12ab6a53c5
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

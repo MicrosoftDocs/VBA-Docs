@@ -4,7 +4,7 @@ description: Provides file dialog box functionality similar to the functionality
 ms.prod: office
 ms.assetid: b6b7e87e-9420-0649-2feb-6d8f36bb53bc
 ms.date: 01/30/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

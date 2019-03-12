@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ListCount
 ms.assetid: 5363c040-1845-6e5c-7306-e48f392f0da9
 ms.date: 03/02/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

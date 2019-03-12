@@ -8,7 +8,7 @@ api_name:
 - Access.Application.OpenCurrentDatabase
 ms.assetid: fd214849-02ac-eaa6-7525-9aee42b92f3d
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

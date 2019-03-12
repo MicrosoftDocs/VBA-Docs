@@ -8,7 +8,7 @@ api_name:
 - Access.Application.Run
 ms.assetid: 4cdaf4cb-c25c-aaa4-96ab-52259f9f91c0
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

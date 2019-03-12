@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BeforeUpdate
 ms.assetid: 0d57cbce-bdbf-e19e-7f6a-11a00cb6c5f4
 ms.date: 02/12/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

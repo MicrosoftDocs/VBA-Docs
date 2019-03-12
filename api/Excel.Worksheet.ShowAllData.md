@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.ShowAllData
 ms.assetid: 412acb6c-f83d-44d4-20b5-54a2b7c66284
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

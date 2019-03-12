@@ -8,7 +8,7 @@ api_name:
 - Excel.Font.Bold
 ms.assetid: 7343989f-f973-0b1d-e595-c625ef2e0c15
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

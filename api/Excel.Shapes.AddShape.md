@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.AddShape
 ms.assetid: 5d08e6d5-2875-795a-8fe1-f4032d4d3fc0
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

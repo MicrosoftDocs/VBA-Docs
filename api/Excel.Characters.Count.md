@@ -8,7 +8,7 @@ api_name:
 - Excel.Characters.Count
 ms.assetid: 0fabbbe3-5c4a-c215-1bc0-201ee5971fb0
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

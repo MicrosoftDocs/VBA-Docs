@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DCount
 ms.assetid: 257f0b2a-e23d-2728-afd2-7700b59e5456
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

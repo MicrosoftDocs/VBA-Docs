@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.SetOrderBy
 ms.assetid: 020fde6d-4809-79f6-3da5-fc5f6a315a83
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

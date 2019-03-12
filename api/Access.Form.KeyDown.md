@@ -8,7 +8,7 @@ api_name:
 - Access.Form.KeyDown
 ms.assetid: ceb66db0-695a-e3b1-f0f7-6c9bd9191b2b
 ms.date: 02/10/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

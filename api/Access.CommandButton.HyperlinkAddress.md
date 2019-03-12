@@ -8,7 +8,7 @@ api_name:
 - Access.CommandButton.HyperlinkAddress
 ms.assetid: 7efa1230-955b-183c-a459-1b2598eb9163
 ms.date: 03/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

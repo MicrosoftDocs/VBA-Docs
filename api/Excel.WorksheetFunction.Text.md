@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.Text
 ms.assetid: f8a00b5c-f937-9b8b-c8c3-055e556e6ab9
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -3,7 +3,7 @@ title: OLE DB for OLAP properties used by Excel
 ms.prod: excel
 ms.assetid: 5caa2240-1f7b-08d7-c87b-ec30f3bcb441
 ms.date: 01/18/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

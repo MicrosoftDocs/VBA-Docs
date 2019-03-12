@@ -3,7 +3,7 @@ title: Create a Rule to Move Specific Emails to a Folder
 ms.prod: outlook
 ms.assetid: e72fa307-8224-c2d2-1318-a18cd8e9f22f
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

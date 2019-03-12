@@ -8,7 +8,7 @@ api_name:
 - Office.Keys
 ms.assetid: d5ec76fc-d293-264b-7b84-1d9e7cac170c
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

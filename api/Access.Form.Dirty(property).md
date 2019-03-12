@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Dirty
 ms.assetid: 5806283f-7947-9e13-d6c3-49d519a8b521
 ms.date: 03/12/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

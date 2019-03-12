@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.CopyPicture
 ms.assetid: f69451cd-4be5-982a-58b8-63e0f24e0261
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

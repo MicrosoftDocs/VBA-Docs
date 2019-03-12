@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Hyperlink
 ms.assetid: c8d53079-b280-c93c-a3c9-b865d09abe1a
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

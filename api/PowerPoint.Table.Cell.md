@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Table.Cell
 ms.assetid: 31a2908b-7a33-994d-860a-e01da62729e7
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

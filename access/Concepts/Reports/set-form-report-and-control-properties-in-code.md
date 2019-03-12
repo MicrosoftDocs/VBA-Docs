@@ -3,7 +3,7 @@ title: Set form, report, and control properties in code
 ms.prod: access
 ms.assetid: 23d88ab3-9ee6-5f7f-2351-14bb94d7a27b
 ms.date: 09/26/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

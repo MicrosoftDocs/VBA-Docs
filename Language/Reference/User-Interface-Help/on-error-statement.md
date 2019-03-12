@@ -6,7 +6,7 @@ f1_keywords:
 ms.prod: office
 ms.assetid: 5f723da4-34bd-0a29-11b6-f6986d701570
 ms.date: 12/03/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # On Error statement

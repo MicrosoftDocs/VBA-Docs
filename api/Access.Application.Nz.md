@@ -8,7 +8,7 @@ api_name:
 - Access.Application.Nz
 ms.assetid: 669fe962-3881-83bb-cc40-ec9b23b44116
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

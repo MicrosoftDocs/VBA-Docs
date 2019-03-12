@@ -3,7 +3,7 @@ title: Change the Order of Pages in the Control Toolbox
 ms.prod: outlook
 ms.assetid: 3b4f5643-762e-9f99-9b96-9a6aea25aef8
 ms.date: 06/08/2017
-localization_priority: Normal
+localization_priority: Priority
 ---
 
 

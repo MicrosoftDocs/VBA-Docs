@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.InsertBreak
 ms.assetid: 2c9d8cb8-1cc1-3d69-1e26-3a6878c0b1da
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

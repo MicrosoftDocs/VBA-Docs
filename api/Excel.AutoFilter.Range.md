@@ -8,7 +8,7 @@ api_name:
 - Excel.AutoFilter.Range
 ms.assetid: f8d1aca1-0d69-161a-981a-4dd10826e9d6
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

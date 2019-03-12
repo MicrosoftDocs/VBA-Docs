@@ -8,7 +8,7 @@ api_name:
 - Excel.ListObject.QueryTable
 ms.assetid: fe019d61-654a-9c87-0bf4-30590a1274ca
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

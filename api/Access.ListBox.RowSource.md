@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.RowSource
 ms.assetid: 7f6c8b99-36b2-3bd3-af8f-f93d67d20f39
 ms.date: 03/02/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

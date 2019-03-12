@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Chart
 ms.assetid: 3fcf082f-9f58-f67d-1061-e7f37e30fbcd
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

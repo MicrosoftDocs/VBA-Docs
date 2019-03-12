@@ -3,7 +3,7 @@ title: Add "(All)" to a combo box or list box
 ms.prod: access
 ms.assetid: f246db25-84b1-736f-8a79-16b9eea9cbda
 ms.date: 09/21/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

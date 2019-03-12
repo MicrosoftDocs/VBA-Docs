@@ -8,7 +8,7 @@ api_name:
 - Office.Print
 ms.assetid: 489447fa-e0ea-404a-10f2-23dcd9a8e41a
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

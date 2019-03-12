@@ -3,7 +3,7 @@ title: Find a record in a table-type DAO Recordset
 ms.prod: access
 ms.assetid: b17f14db-9b3e-7f12-9fc8-f56c6dcbad09
 ms.date: 09/21/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

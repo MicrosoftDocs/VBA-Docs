@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.PageFields
 ms.assetid: eff7a772-0472-41ec-412f-9a56f0a0de16
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

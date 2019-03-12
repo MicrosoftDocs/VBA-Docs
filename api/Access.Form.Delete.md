@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Delete
 ms.assetid: 89916f81-ec7a-f322-d4e6-a4a42db523cf
 ms.date: 03/08/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

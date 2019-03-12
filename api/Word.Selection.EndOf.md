@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.EndOf
 ms.assetid: 33aa094b-17f9-3572-f66f-59692c57dc01
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

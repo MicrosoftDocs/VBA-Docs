@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AfterInsert
 ms.assetid: 07140c13-ce7c-91f2-7451-d7f834653ef2
 ms.date: 03/08/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

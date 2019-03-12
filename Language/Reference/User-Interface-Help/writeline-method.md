@@ -8,7 +8,7 @@ api_name:
 - Office.WriteLine
 ms.assetid: 38118a0d-90ec-bfa0-3e5e-74a0b2c6c98b
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

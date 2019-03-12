@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.UnMerge
 ms.assetid: dfc49876-29b0-0b61-fe18-3953438f7452
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

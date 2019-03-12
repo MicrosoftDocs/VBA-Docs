@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Shapes.AddShape
 ms.assetid: 2bc6cce5-3461-61ff-083d-bd36ee71cb59
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

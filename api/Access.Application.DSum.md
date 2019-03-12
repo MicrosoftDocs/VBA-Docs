@@ -8,7 +8,7 @@ api_name:
 - Access.Application.DSum
 ms.assetid: 53a3cfd4-a5e3-d0c5-1727-070c99d2b984
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -5,7 +5,7 @@ api_name:
 - Excel.xlCellType
 ms.assetid: 9b0dedec-60a4-6004-0049-4dda1009ef22
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

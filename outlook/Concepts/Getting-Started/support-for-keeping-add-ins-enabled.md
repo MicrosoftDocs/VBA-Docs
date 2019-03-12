@@ -3,7 +3,7 @@ title: Support for keeping add-ins enabled
 ms.prod: outlook
 ms.assetid: 63cd5a19-6c46-42f9-8fe2-9ce943bf106c
 ms.date: 11/12/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

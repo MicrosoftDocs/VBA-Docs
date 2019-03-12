@@ -8,7 +8,7 @@ api_name:
 - Office.FileDialog.Filters
 ms.assetid: 0aef7760-a618-c20c-0816-98be1b93e564
 ms.date: 01/09/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
