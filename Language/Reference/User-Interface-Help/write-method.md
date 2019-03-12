@@ -8,7 +8,7 @@ api_name:
 - Office.Write
 ms.assetid: fd66062a-aa05-15a3-d88c-34a0c033f496
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

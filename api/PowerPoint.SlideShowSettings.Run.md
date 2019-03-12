@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.SlideShowSettings.Run
 ms.assetid: 497fae3b-b6a3-dc26-20d9-bdc8057ddc09
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

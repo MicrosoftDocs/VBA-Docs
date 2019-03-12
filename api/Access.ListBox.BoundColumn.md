@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.BoundColumn
 ms.assetid: f6a742a4-40ff-bb83-8946-7e8bb71e5690
 ms.date: 02/28/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Visio.Shape.Cells
 ms.assetid: 2d90b848-ee2c-d69c-e44e-9c30b04bf776
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

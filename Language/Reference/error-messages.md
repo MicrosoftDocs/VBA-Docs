@@ -3,7 +3,7 @@ title: Error messages
 ms.prod: office
 ms.assetid: 765648c7-9c73-4ed1-8238-2a40a0b4d8eb
 ms.date: 11/26/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

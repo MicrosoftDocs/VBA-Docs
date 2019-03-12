@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Interior
 ms.assetid: 9599b0f7-9f52-627c-51e6-d8be8aeb9bbf
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

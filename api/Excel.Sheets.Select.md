@@ -8,7 +8,7 @@ api_name:
 - Excel.Sheets.Select
 ms.assetid: f5a34995-2243-1588-149a-d693e9eae87f
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Chart.Refresh
 ms.assetid: 4ede937c-d710-521d-dfeb-0af21ee6ba7d
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

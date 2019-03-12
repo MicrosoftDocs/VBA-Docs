@@ -8,7 +8,7 @@ api_name:
 - Outlook.AddressEntry.GetExchangeUser
 ms.assetid: eaaafd52-42c9-7f6b-1acb-0b987496d604
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

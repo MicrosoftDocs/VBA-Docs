@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.ColumnWidths
 ms.assetid: cd7894fd-e989-4f17-d779-073c8ef6c664
 ms.date: 03/01/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

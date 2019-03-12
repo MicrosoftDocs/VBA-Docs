@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.ApplyFilter
 ms.assetid: 926c7135-131b-1a7c-465b-a9b2ed71cd7b
 ms.date: 03/06/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

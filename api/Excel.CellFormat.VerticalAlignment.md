@@ -8,7 +8,7 @@ api_name:
 - Excel.CellFormat.VerticalAlignment
 ms.assetid: c901dff3-3f0a-1f54-250e-c03b9e32c819
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

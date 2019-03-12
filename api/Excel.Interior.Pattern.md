@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.Pattern
 ms.assetid: 90587a6d-273c-00df-bb12-1a4415591705
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.OpenTextFile
 ms.assetid: f44f7bc5-e48b-05f2-eb22-5b02701d449e
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

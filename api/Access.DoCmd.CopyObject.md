@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.CopyObject
 ms.assetid: 003e5b47-f8a2-2b6a-5e0c-7fb3e87b3258
 ms.date: 03/06/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

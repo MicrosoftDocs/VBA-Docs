@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Presentation.UpdateLinks
 ms.assetid: 1ce2246c-d64e-c78c-8d2a-7c564eb07ecc
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

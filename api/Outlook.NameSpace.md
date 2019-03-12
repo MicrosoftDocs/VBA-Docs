@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace
 ms.assetid: f0dcaa19-07f5-5d42-a3bf-2e42b7885644
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.MatchEntry
 ms.assetid: 8f3ab1b9-5d69-b955-423b-be259a94a2f4
 ms.date: 11/16/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.NameSpace.Folders
 ms.assetid: a732d338-c825-4d38-0107-345069da708c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

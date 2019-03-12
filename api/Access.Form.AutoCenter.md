@@ -8,7 +8,7 @@ api_name:
 - Access.Form.AutoCenter
 ms.assetid: a60f8783-5a25-42b5-da99-c5e2925fd6ea
 ms.date: 03/09/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

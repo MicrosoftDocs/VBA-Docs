@@ -8,7 +8,7 @@ api_name:
 - Office.OpenAsTextStream
 ms.assetid: 11bdf601-368b-7d95-a7db-394271d59da6
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

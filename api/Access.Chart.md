@@ -67,7 +67,7 @@ ms.prod: access
 api_name:
 - Access.Chart
 ms.date: 11/28/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

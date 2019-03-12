@@ -8,7 +8,7 @@ api_name:
 - Access.SubForm.Parent
 ms.assetid: 6d40d3c3-aea4-782f-157a-a063d60a76f4
 ms.date: 02/23/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

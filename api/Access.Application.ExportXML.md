@@ -8,7 +8,7 @@ api_name:
 - Access.Application.ExportXML
 ms.assetid: 47627677-d311-c2e1-7532-e8a8a9beef29
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Error
 ms.assetid: bc8c4e3c-c831-58fd-c367-4246ad510ba9
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 # Error object (Excel)

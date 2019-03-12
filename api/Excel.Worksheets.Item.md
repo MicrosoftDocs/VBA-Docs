@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheets.Item
 ms.assetid: 66099ca2-54a0-f8ae-58ab-07791bbf5e7c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

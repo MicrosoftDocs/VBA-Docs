@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Characters
 ms.assetid: 5011b6d3-23ab-e2a8-9616-c4c73d3ae60e
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

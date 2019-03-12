@@ -4,7 +4,7 @@ description: This section of the Excel VBA Reference contains documentation for 
 ms.prod: excel
 ms.assetid: 11ea8598-8a20-92d5-f98b-0da04263bf2c
 ms.date: 10/10/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

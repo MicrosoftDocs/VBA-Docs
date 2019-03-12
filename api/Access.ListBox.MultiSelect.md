@@ -8,7 +8,7 @@ api_name:
 - Access.ListBox.MultiSelect
 ms.assetid: 7115a913-1696-03b4-c88b-0626da1d587a
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

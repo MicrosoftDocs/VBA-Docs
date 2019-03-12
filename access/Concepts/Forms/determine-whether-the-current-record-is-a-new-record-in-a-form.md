@@ -3,7 +3,7 @@ title: Determine whether the current record is a new record in a form
 ms.prod: access
 ms.assetid: 04aa27cd-b6b1-1397-c177-bac939780492
 ms.date: 09/25/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

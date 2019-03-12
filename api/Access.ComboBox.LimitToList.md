@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.LimitToList
 ms.assetid: 885ed814-6e04-b9f1-0acb-3ded28e00f93
 ms.date: 03/02/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

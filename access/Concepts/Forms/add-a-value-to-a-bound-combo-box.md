@@ -3,7 +3,7 @@ title: Add a value to a bound combo box
 ms.prod: access
 ms.assetid: a34fddd2-eef6-10e2-c141-609053d1dd90
 ms.date: 09/25/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Word.Rows.Add
 ms.assetid: d84286cb-42b5-a717-f152-0d9c3f1c6d9c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

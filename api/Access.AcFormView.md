@@ -8,7 +8,7 @@ api_name:
 - Access.AcFormView
 ms.assetid: e8abcb80-a68b-5328-80d0-ce18e2cabe42
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

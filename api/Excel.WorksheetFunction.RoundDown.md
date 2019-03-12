@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.RoundDown
 ms.assetid: 44b334b1-39cf-3be1-bc57-02864c29a995
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

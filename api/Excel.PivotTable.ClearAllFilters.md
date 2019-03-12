@@ -8,7 +8,7 @@ api_name:
 - Excel.PivotTable.ClearAllFilters
 ms.assetid: e12fba36-f699-9800-99bc-d29b58b26043
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

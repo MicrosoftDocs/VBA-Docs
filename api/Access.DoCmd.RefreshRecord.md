@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.RefreshRecord
 ms.assetid: 2707cdf2-7458-7ef2-8c20-26fed3eda3ce
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -3,7 +3,7 @@ title: Read from and write to a field in a DAO Recordset
 ms.prod: access
 ms.assetid: 4fe0c334-9c44-773c-7aed-182b042213a7
 ms.date: 09/21/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

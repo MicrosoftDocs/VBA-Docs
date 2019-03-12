@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Caption
 ms.assetid: 44dcd309-7a07-c4b3-2d85-d1bc09f98843
 ms.date: 03/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

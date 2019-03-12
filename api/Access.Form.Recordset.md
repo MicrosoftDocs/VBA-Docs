@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Recordset
 ms.assetid: baf6c8c4-b4ac-8618-ecbf-4444ae5e88d4
 ms.date: 03/02/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

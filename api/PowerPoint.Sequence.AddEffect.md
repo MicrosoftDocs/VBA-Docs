@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Sequence.AddEffect
 ms.assetid: fea5ac1e-83ae-2241-bf3a-8cfdd8354791
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

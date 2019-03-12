@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Bookmark
 ms.assetid: e214a924-9110-a3de-9812-b9ec5cbad8ed
 ms.date: 03/12/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

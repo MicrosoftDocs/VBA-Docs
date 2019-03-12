@@ -8,7 +8,7 @@ api_name:
 - Access.Label.BackColor
 ms.assetid: b4901275-e47c-a074-9f44-b0338677f3ef
 ms.date: 02/28/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
