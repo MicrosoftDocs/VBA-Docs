@@ -8,7 +8,7 @@ api_name:
 - Access.Form.GotFocus
 ms.assetid: ded3dc26-938e-adb2-8017-e72dd83c9742
 ms.date: 02/13/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.Change
 ms.assetid: ed16e578-85f8-12ae-2adc-03df45dadc47
 ms.date: 02/13/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

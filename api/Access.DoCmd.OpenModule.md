@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.OpenModule
 ms.assetid: 3d0b1599-6f52-e369-55e4-7fdc1c370953
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

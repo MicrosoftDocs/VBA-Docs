@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.BackColor
 ms.assetid: 7880c596-7a47-39b6-74ad-8036355a8e0f
 ms.date: 02/28/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

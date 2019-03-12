@@ -8,7 +8,7 @@ api_name:
 - Word.Cell.Merge
 ms.assetid: 79d929bd-9578-e937-405f-8ad970ae883c
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.Find
 ms.assetid: e7a791d8-b80b-df07-84a3-a85acabfcf80
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

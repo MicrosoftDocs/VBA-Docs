@@ -8,7 +8,7 @@ api_name:
 - Excel.Error.Ignore
 ms.assetid: 2e1eea04-fa93-86ed-670a-23246dddfbfe
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

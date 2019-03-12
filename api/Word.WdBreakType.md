@@ -5,7 +5,7 @@ api_name:
 - Word.WdBreakType
 ms.assetid: 537782ce-c41a-b849-4f7b-2b70b0ac1700
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

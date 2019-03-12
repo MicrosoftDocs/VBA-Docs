@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.Calculate
 ms.assetid: 7c29afda-4980-6992-fc8d-b4caf2f74660
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

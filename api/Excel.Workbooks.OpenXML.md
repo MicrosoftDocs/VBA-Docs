@@ -8,7 +8,7 @@ api_name:
 - Excel.Workbooks.OpenXML
 ms.assetid: c16a7842-19e9-6731-146e-038322c248ba
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

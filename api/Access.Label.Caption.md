@@ -8,7 +8,7 @@ api_name:
 - Access.Label.Caption
 ms.assetid: 47f58d63-a93d-a0ef-333c-ab0479bad6c9
 ms.date: 03/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

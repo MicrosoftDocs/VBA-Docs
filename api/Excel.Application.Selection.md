@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Selection
 ms.assetid: f25b5608-035b-983a-545d-d720990c28be
 ms.date: 04/25/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

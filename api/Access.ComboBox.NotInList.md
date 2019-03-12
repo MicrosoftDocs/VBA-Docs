@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.NotInList
 ms.assetid: 1c8a73e1-ca69-ae31-c86a-c1dc6cb3e860
 ms.date: 02/28/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

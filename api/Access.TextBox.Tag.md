@@ -8,7 +8,7 @@ api_name:
 - Access.TextBox.Tag
 ms.assetid: 9df21640-6bea-60a9-f9d0-dac90a60af1c
 ms.date: 02/26/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

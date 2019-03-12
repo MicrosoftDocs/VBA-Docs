@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.EnableSelection
 ms.assetid: e1647c07-3863-9268-864c-1c62b2eebbb1
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Recipients.ResolveAll
 ms.assetid: 82404dc6-af4e-f32d-68b2-9451328b5ca6
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

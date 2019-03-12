@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.Find
 ms.assetid: 66004412-4da2-586d-887c-6f9867e06ea6
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

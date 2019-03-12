@@ -8,7 +8,7 @@ api_name:
 - Access.DoCmd.CancelEvent
 ms.assetid: f8c0d2ff-9bf3-09d5-d15b-d3134bb6df80
 ms.date: 03/06/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

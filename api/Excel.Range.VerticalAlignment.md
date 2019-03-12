@@ -8,7 +8,7 @@ api_name:
 - Excel.Range.VerticalAlignment
 ms.assetid: b09a2dcb-b51b-b477-6247-fd5b11a67ccf
 ms.date: 08/24/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

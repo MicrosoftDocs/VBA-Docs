@@ -3,7 +3,7 @@ title: Objects (Graph Visual Basic reference)
 ms.prod: excel
 ms.assetid: 4c29adab-f32d-ed69-af08-2b74de5eb807
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

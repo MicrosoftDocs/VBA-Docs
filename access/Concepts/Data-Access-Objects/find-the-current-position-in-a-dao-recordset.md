@@ -3,7 +3,7 @@ title: Find the current position in a DAO Recordset
 ms.prod: access
 ms.assetid: 1f08caa7-b671-b844-59a0-f924a5220cf4
 ms.date: 09/21/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.MailItem.UnRead
 ms.assetid: af6058cb-abcf-8e77-a5f5-1402addcb333
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

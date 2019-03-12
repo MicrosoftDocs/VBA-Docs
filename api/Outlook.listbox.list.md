@@ -3,7 +3,7 @@ title: ListBox.List Property (Outlook Forms Script)
 ms.prod: outlook
 ms.assetid: 3eb66479-c7d2-13d7-ebd3-1a09eb136dbe
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

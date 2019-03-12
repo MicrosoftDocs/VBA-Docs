@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IfError
 ms.assetid: 864812c0-990e-2e99-3c3b-05fe5210cf16
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

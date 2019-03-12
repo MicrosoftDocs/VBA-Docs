@@ -8,7 +8,7 @@ api_name:
 - Excel.Application.Volatile
 ms.assetid: 27047561-9d76-b37d-100d-1c58e6edf494
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

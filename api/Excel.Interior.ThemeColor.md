@@ -8,7 +8,7 @@ api_name:
 - Excel.Interior.ThemeColor
 ms.assetid: 52c0f8a9-2cfb-1fb9-4949-dcc031ac78d8
 ms.date: 11/29/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

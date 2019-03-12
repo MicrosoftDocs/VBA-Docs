@@ -8,7 +8,7 @@ api_name:
 - Excel.Shapes.Count
 ms.assetid: b08b503a-a812-970c-bb10-54c5e9c3a46a
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Outlook.Items.ItemAdd
 ms.assetid: e46f5958-aff8-3a6b-b3df-5c4352b6c3d9
 ms.date: 11/13/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

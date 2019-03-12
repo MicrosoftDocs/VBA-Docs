@@ -8,7 +8,7 @@ api_name:
 - Outlook.Recipient.Type
 ms.assetid: 3bdc616c-f008-ec95-0a92-0f704eedee34
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

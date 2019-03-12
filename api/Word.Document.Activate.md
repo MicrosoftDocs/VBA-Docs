@@ -8,7 +8,7 @@ api_name:
 - Word.Document.Activate
 ms.assetid: 83cc5935-020b-470a-f7aa-7fea057ec08b
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

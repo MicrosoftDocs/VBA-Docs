@@ -8,7 +8,7 @@ api_name:
 - Word.Selection.TypeParagraph
 ms.assetid: e866733b-4800-8e2c-7026-4e9603ccf585
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Office.FileDialog.Show
 ms.assetid: e67f7fc3-326d-12d0-fe44-e20048ff6abf
 ms.date: 01/09/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

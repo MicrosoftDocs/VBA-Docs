@@ -8,7 +8,7 @@ api_name:
 - Office.RowSource
 ms.assetid: 13e863a3-c28e-5aba-04b1-03e04c107614
 ms.date: 11/16/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

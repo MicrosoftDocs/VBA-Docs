@@ -8,7 +8,7 @@ api_name:
 - Excel.WorksheetFunction.IsNA
 ms.assetid: db315cb6-cf6d-eaf6-7ffa-2b8ce18c2a09
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

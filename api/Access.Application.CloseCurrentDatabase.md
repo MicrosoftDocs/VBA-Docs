@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CloseCurrentDatabase
 ms.assetid: f5dec73c-54b4-c5ea-7cb9-25b5997f539e
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

@@ -8,7 +8,7 @@ api_name:
 - Excel.Border
 ms.assetid: bca516bf-7c0f-f9df-078d-dfb522f256f3
 ms.date: 03/07/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

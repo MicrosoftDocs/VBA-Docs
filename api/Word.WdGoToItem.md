@@ -5,7 +5,7 @@ api_name:
 - Word.WdGoToItem
 ms.assetid: 14b60456-ee96-e845-2686-79e9810a2af5
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

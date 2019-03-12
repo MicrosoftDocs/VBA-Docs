@@ -8,7 +8,7 @@ api_name:
 - PowerPoint.Slide.Shapes
 ms.assetid: 8eaf3611-2799-835d-ecaa-c8f802256673
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

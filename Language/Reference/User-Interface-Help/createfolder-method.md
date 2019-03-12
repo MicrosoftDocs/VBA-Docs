@@ -8,7 +8,7 @@ api_name:
 - Office.CreateFolder
 ms.assetid: 61e07ffc-91ed-5e86-1288-584680375a6e
 ms.date: 12/14/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

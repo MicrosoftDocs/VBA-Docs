@@ -8,7 +8,7 @@ api_name:
 - Access.CurrentProject.Path
 ms.assetid: 25f28502-b5fc-aafa-9189-eb091907a529
 ms.date: 02/27/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

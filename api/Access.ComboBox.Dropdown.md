@@ -8,7 +8,7 @@ api_name:
 - Access.ComboBox.Dropdown
 ms.assetid: f6a4bb90-be0a-930f-56e7-bc6833af73c3
 ms.date: 02/28/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

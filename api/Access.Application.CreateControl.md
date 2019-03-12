@@ -8,7 +8,7 @@ api_name:
 - Access.Application.CreateControl
 ms.assetid: f5b1689c-62c4-163d-c659-607cee7572f6
 ms.date: 02/05/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

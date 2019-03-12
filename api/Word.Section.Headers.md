@@ -8,7 +8,7 @@ api_name:
 - Word.Section.Headers
 ms.assetid: 72b61449-2f93-a67a-2757-3c0441961307
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

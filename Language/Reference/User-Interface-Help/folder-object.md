@@ -8,7 +8,7 @@ api_name:
 - Office.Folder
 ms.assetid: 877e81a5-5a34-9ef9-2375-3c60d35d3255
 ms.date: 11/12/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

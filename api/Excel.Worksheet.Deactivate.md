@@ -8,7 +8,7 @@ api_name:
 - Excel.Worksheet.Deactivate
 ms.assetid: 3f66b86b-d0f0-bdc0-594c-3eb9faa44ff2
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

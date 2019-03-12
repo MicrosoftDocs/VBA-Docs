@@ -5,7 +5,7 @@ api_name:
 - Excel.XlPictureAppearance
 ms.assetid: 5fd97feb-a976-2c1c-4051-f2c99d0fa793
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

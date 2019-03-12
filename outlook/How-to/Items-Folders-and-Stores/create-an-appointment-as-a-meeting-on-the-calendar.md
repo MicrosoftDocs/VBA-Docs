@@ -3,7 +3,7 @@ title: Create an Appointment as a Meeting on the Calendar
 ms.prod: outlook
 ms.assetid: 130b6ae1-d1a4-3805-7e9c-75543b93fff5
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

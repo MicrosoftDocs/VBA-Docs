@@ -8,7 +8,7 @@ api_name:
 - Word.Table.Borders
 ms.assetid: 904bce6b-db91-32be-f65d-7200f9a63be8
 ms.date: 06/08/2017
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

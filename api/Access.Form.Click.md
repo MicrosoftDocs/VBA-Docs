@@ -8,7 +8,7 @@ api_name:
 - Access.Form.Click
 ms.assetid: 43cf0568-c645-60eb-3c46-d9dd0b147d8d
 ms.date: 02/12/2019
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 

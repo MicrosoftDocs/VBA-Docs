@@ -4,7 +4,7 @@ description: This section of the Word VBA Reference contains documentation for a
 ms.prod: word
 ms.assetid: be452561-b436-bb9b-6f94-3faa9a74a6fd
 ms.date: 10/10/2018
-localization_priority: Priority
+localization_priority: Normal
 ---
 
 
