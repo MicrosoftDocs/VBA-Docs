@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form.InputParameters
 ms.assetid: fc3e17a7-f62a-a6bb-c44a-f3a9d7efe6ac
-ms.date: 03/12/2019
+ms.date: 03/13/2019
 localization_priority: Normal
 ---
 
@@ -50,7 +50,7 @@ An example **InputParameters** property string used with a stored procedure woul
 
 ```
 
-This would result in the _@state_ parameter being set to the current value of the **StateList** control, and the user getting prompted for the _@salesyear_ parameter. If there were any other parameters to the stored procedure that were not in this list, they would get default values assigned.
+This would result in the *@state* parameter being set to the current value of the **StateList** control, and the user getting prompted for the *@salesyear* parameter. If there were any other parameters to the stored procedure that were not in this list, they would get default values assigned.
 
 The stored procedure should be executed by using a command string containing the {call } syntax with one marker for each non-default parameter in the **InputParameters** list.
 
