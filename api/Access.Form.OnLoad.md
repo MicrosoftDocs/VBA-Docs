@@ -44,7 +44,7 @@ If the  **On Load** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example prints the value of the  **OnLoad** property in the Immediate window for the "Order Entry" form.
+The following example prints the value of the  **OnLoad** property in the Immediate window for the **Order Entry** form.
 
 
 ```vb

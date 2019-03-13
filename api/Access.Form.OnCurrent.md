@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.Form.OnCurrent
 ms.assetid: bb7eb7be-7bb6-8fdd-6a48-f5b33ad7dc14
-ms.date: 06/08/2017
+ms.date: 03/14/2019
 localization_priority: Normal
 ---
 
 
 # Form.OnCurrent property (Access)
 
-Sets or returns the value of the  **On Current** box in the Properties window of a form. Read/write **String**.
+Sets or returns the value of the **On Current** box in the Properties window of a form. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `OnCurrent`
+_expression_.**OnCurrent**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
@@ -28,10 +28,9 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered. 
 
-The  **Current** event occurs when the focus moves to a record, making it the current record, or when the form is refreshed or requeried.
+The **Current** event occurs when the focus moves to a record, making it the current record, or when the form is refreshed or requeried.
 
-The  **OnCurrent** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Apply Filter** box in the form's Properties window):
-
+The **OnCurrent** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Apply Filter** box in the form's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
@@ -39,23 +38,17 @@ The  **OnCurrent** value will be one of the following, depending on the selectio
     
 - If Code Builder is chosen, the value will be "[Event Procedure]". 
     
-If the  **On Current** box is blank, the property value is an empty string.
+If the **On Current** box is blank, the property value is an empty string.
 
 
 ## Example
 
-The following example associates the  **Current** event with the macro "Current_Macro" for the "Order Entry" form.
-
+The following example associates the **Current** event with the macro Current_Macro for the **Order Entry** form.
 
 ```vb
 Forms("Order Entry").OnDeactivate = "Current_Macro" 
 
 ```
 
-
-## See also
-
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
