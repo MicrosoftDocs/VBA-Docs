@@ -44,7 +44,7 @@ If the  **On Activate** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example associates the  **Activate** event with the macro "Activate_Macro" for the "Order Entry" form.
+The following example associates the  **Activate** event with the macro "Activate_Macro" for the **Order Entry** form.
 
 
 ```vb

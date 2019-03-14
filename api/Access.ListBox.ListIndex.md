@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[ListBox](Access.ListBox.md)** objec
 
 The **ListIndex** property is an integer from 0 to the total number of items in a list box or combo box minus 1. Microsoft Access sets the **ListIndex** property value when an item is selected in a list box or list box portion of a combo box. The **ListIndex** property value of the first item in a list is 0, the value of the second item is 1, and so on.
 
-This property is available only by using a macro or Visual Basic . You can read this property only in Form view and Datasheet view. This property is read-only and isn't available in other views.
+This property is available only by using a macro or Visual Basic. You can read this property only in Form view and Datasheet view. This property is read-only and isn't available in other views.
 
 The **ListIndex** property value is also available by setting the **BoundColumn** property to 0 for a combo box or list box. If the **BoundColumn** property is set to 0, the underlying table field to which the combo box or list box is bound will contain the same value as the **ListIndex** property setting.
 

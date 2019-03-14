@@ -43,7 +43,7 @@ When a small picture is used for the  **Picture** property of a form or report, 
 
 ## Example
 
-The following example sets the background picture of the "Order Entry" form to "Contacts.gif", and stretches the picture to fit the entire form's background.
+The following example sets the background picture of the **Order Entry** form to "Contacts.gif", and stretches the picture to fit the entire form's background.
 
 
 ```vb

@@ -35,7 +35,7 @@ Changing the value of the  **PageIndex** property changes the location of a **Pa
 
 ## Example
 
-The following example moves the page named "Notes" on the tab control named "Information" on the "Order Entry" form to the first page.
+The following example moves the page named "Notes" on the tab control named "Information" on the **Order Entry** form to the first page.
 
 
 ```vb

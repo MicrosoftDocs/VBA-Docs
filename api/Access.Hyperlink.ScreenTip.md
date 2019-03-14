@@ -33,7 +33,7 @@ For more information about hyperlink addresses and their format, see the  **Hype
 
 ## Example
 
-The following example displays the message "Go to Home page" when the cursor hovers over the hyperlink named "HomePage" on the "Order Entry" form.
+The following example displays the message "Go to Home page" when the cursor hovers over the hyperlink named "HomePage" on the **Order Entry** form.
 
 
 ```vb

@@ -45,7 +45,7 @@ If the  **MultiSelect** property is set to Extended, requerying the list box cle
 
 ## Example
 
-To return the value of the  **MultiSelect** property for a list box named "Country" on the "Order Entry" form, you can use the following:
+To return the value of the  **MultiSelect** property for a list box named "Country" on the **Order Entry** form, you can use the following:
 
 
 ```vb

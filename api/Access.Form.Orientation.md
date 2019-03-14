@@ -7,37 +7,32 @@ ms.prod: access
 api_name:
 - Access.Form.Orientation
 ms.assetid: 25a13b75-48b7-69bd-4d70-e9aa8a94652e
-ms.date: 06/08/2017
+ms.date: 03/14/2019
 localization_priority: Normal
 ---
 
 
 # Form.Orientation property (Access)
 
-You can use the  **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
+You can use the **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `Orientation`
+_expression_.**Orientation**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-The  **Orientation** property uses the following settings.
-
-
+The **Orientation** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Left-to-Right|0|Sets the view orientation to left to right.|
 |Right-to-Left|1|Sets the view orientation to right to left.|
 
-## See also
 
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

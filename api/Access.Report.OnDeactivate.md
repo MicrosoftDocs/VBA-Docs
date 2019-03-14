@@ -44,7 +44,7 @@ If the  **On Deactivate** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example associates the  **Deactivate** event with the macro "Deactivate_Macro" for the "Order Entry" form.
+The following example associates the  **Deactivate** event with the macro "Deactivate_Macro" for the **Order Entry** form.
 
 
 ```vb

@@ -44,7 +44,7 @@ If the  **OnError** box is blank, the property value is an empty string.
 
 ## Example
 
-The following example associates the  **Error** event with the macro "Error_Handler_Macro" for the "Order Entry" form.
+The following example associates the  **Error** event with the macro "Error_Handler_Macro" for the **Order Entry** form.
 
 
 ```vb
