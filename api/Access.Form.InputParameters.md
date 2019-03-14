@@ -50,7 +50,7 @@ An example **InputParameters** property string used with a stored procedure woul
 
 ```
 
-This would result in the *@state* parameter being set to the current value of the **StateList** control, and the user getting prompted for the *@salesyear* parameter. If there were any other parameters to the stored procedure that were not in this list, they would get default values assigned.
+This would result in the @state parameter being set to the current value of the **StateList** control, and the user getting prompted for the @salesyear parameter. If there were any other parameters to the stored procedure that were not in this list, they would get default values assigned.
 
 The stored procedure should be executed by using a command string containing the {call } syntax with one marker for each non-default parameter in the **InputParameters** list.
 
