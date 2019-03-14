@@ -7,37 +7,32 @@ ms.prod: access
 api_name:
 - Access.Report.Orientation
 ms.assetid: 46687f4f-77e2-d9c3-ed12-5df0a8abc2bb
-ms.date: 06/08/2017
+ms.date: 03/15/2019
 localization_priority: Normal
 ---
 
 
 # Report.Orientation property (Access)
 
-You can use the  **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
+You can use the **Orientation** property to specify or determine the view orientation. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `Orientation`
+_expression_.**Orientation**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks
 
-The  **Orientation** property uses the following settings.
-
-
+The **Orientation** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Left-to-Right|0|Sets the view orientation to left to right.|
 |Right-to-Left|1|Sets the view orientation to right to left.|
 
-## See also
 
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

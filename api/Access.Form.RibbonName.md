@@ -7,31 +7,27 @@ ms.prod: access
 api_name:
 - Access.Form.RibbonName
 ms.assetid: e352711e-a43d-2dd2-d6db-2bbec7c99e74
-ms.date: 06/08/2017
+ms.date: 03/15/2019
 localization_priority: Normal
 ---
 
 
 # Form.RibbonName property (Access)
 
-Gets or set the name of the customized ribbon to be displayed when the specified form is loaded. Read/write  **String**.
+Gets or sets the name of the customized ribbon to be displayed when the specified form is loaded. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `RibbonName`
+_expression_.**RibbonName**
 
 _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 
 ## Remarks
 
-For more information about how to display a customized ribbon when loading a form, see [How to: Apply a Filter When Opening a Form or Report](../access/Concepts/Forms-Design/apply-a-filter-when-opening-a-form-or-report.md).
+For more information about how to display a customized ribbon when loading a form, see [Apply a filter when opening a form or report](../access/Concepts/Forms-Design/apply-a-filter-when-opening-a-form-or-report.md).
 
 
-## See also
-
-
-[Form Object](Access.Form.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

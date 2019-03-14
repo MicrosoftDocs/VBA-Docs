@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form.OnCurrent
 ms.assetid: bb7eb7be-7bb6-8fdd-6a48-f5b33ad7dc14
-ms.date: 03/14/2019
+ms.date: 03/15/2019
 localization_priority: Normal
 ---
 
@@ -30,7 +30,7 @@ This property is helpful for programmatically changing the action that Microsoft
 
 The **Current** event occurs when the focus moves to a record, making it the current record, or when the form is refreshed or requeried.
 
-The **OnCurrent** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Apply Filter** box in the form's Properties window):
+The **OnCurrent** value will be one of the following, depending on the selection chosen in the Choose Builder window (accessed by choosing the **Build** button next to the **On Current** box in the form's Properties window):
 
 - If Expression Builder is chosen, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
     
@@ -46,7 +46,7 @@ If the **On Current** box is blank, the property value is an empty string.
 The following example associates the **Current** event with the macro Current_Macro for the **Order Entry** form.
 
 ```vb
-Forms("Order Entry").OnDeactivate = "Current_Macro" 
+Forms("Order Entry").OnCurrent = "Current_Macro" 
 
 ```
 

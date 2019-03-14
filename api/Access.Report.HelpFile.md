@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.Report.HelpFile
 ms.assetid: cfab3009-c8e1-5f56-020a-e0a972e0de50
-ms.date: 06/08/2017
+ms.date: 03/15/2019
 localization_priority: Normal
 ---
 
 
 # Report.HelpFile property (Access)
 
-The name of a help file associated with a report. Read/write  **String**.
+The name of a help file associated with a report. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `HelpFile`
+_expression_.**HelpFile**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Example
 
-This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses SHIFT+F1.
-
+This example adds a custom command bar with a combo box that tracks stock data. The example also specifies the Help topic to be displayed for the combo box when the user presses Shift+F1.
 
 ```vb
 Set myBar = CommandBars _ 
@@ -50,9 +49,6 @@ End With
 ```
 
 
-## See also
 
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
