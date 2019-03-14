@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Form.OnApplyFilter
 ms.assetid: 5e147a50-5516-f6d3-c1c9-e2c4522cb804
-ms.date: 03/14/2019
+ms.date: 03/15/2019
 localization_priority: Normal
 ---
 
@@ -46,7 +46,7 @@ If the **On Apply Filter** box is blank, the property value is an empty string.
 The following example associates the **OnApplyFilter** property for the **Order Entry** form to the event **Form_ApplyFilter**.
 
 ```vb
-Forms("Order Entry").OnFilter = "[Event Procedure]"
+Forms("Order Entry").OnApplyFilter = "[Event Procedure]"
 ```
 
 
