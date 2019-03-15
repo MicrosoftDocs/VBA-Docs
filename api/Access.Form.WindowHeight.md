@@ -29,5 +29,4 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 The **WindowHeight** property is measured from the upper-left corner of the form to its lower-left corner.
 
 
-
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

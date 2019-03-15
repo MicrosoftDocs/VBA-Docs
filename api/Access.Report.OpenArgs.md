@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Report.OpenArgs property (Access)
 
-Determines the string expression specified by the _OpenArgs_ argument of the **OpenReport** method that opened a report. Read/write **Variant**.
+Determines the string expression specified by the _OpenArgs_ argument of the **[OpenReport](access.docmd.openreport.md)** method that opened a report. Read/write **Variant**.
 
 
 ## Syntax
