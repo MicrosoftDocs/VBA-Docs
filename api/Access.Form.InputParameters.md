@@ -43,7 +43,7 @@ A refresh or requery command (via menu, keyboard, or navigation bar) in Access s
 
 ### When used with a stored procedure
 
-An example **InputParameters** property string used with a stored procedure would be:
+An example **InputParameters** property string used with a stored procedure would use the following syntax.
 
 ```vb
 @state char=[Forms]![formname]![StateList], @salesyear smallint=[Forms]![formname]![Enter year of interest]

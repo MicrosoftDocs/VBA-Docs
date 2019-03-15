@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-If you want a procedure to run automatically every time you open a particular report, you set the form's **OnCurrent** property to _[Event Procedure]_ and Access automatically stubs out a procedure for you called _Private Sub Report\_Current()_. 
+If you want a procedure to run automatically every time you open a particular report, you set the form's **OnCurrent** property to [Event Procedure] and Access automatically stubs out a procedure for you called _Private Sub Report\_Current()_. 
 
 The **OnCurrent** property allows you to programmatically determine the value of the form's **OnCurrent** property, or to programmatically set the form's **OnCurrent** property.
 
@@ -35,11 +35,11 @@ The **OnCurrent** property allows you to programmatically determine the value of
 
 If you set the form's **OnCurrent** property in the UI, it gets its value based on your selection in the Choose Builder window, which appears when you choose the **...** button next to the **On Current** box in the report's Properties window.
 
-- If you select Code Builder, the value will be _[Event Procedure]_.
+- If you choose Expression Builder, the value will be =_expression_, where _expression_ is the expression from the Expression Builder window.
     
-- If you select Expression Builder, the value will be "=_expression_", where _expression_ is the expression from the Expression Builder window.
+- If you choose Macro Builder, the value is the name of the macro. 
     
-- If you select Macro Builder, the value will be the name of the macro.
+- If you choose Code Builder, the value will be [Event Procedure].
     
 
 ## Example
