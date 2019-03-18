@@ -5,7 +5,7 @@ f1_keywords:
 - vblr6.chm1011070
 ms.prod: office
 ms.assetid: 5d5e7712-459a-d504-dae6-4b52a9a90c6f
-ms.date: 12/13/2018
+ms.date: 03/19/2019
 localization_priority: Priority
 ---
 
@@ -62,9 +62,9 @@ MyString = "AbCdEfG"
 ' Where "A", "C", "E", and "G" are DBCS and "b", "d", 
 ' and "f" are SBCS.
 MyNewString = Mid(MyString, 3, 4)
-' Returns ""CdEf"
+' Returns "CdEf"
 MyNewString = MidB(MyString, 3, 4)
-' Returns ""bC"
+' Returns "bC"
 MyNewString = MidMbcs(MyString, 3, 4)
 ' Returns "bCd"
 
