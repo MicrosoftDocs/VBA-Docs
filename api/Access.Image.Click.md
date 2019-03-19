@@ -16,6 +16,8 @@ localization_priority: Normal
 
 The **Click** event occurs when the user presses and then releases a mouse button over an object.
 
+> [!NOTE] 
+> The functionality for the **Image** object's **Click** and **DoubleClick** events has been deprecated. If you want an image with click/double-click events, use instead a **Button** control and associate an image with that control to provide better accessibility. **Button** controls are part of the Tab Order loop, but **Image** controls are not. Existing applications will not be affected by this change.
 
 ## Syntax
 

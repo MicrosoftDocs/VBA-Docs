@@ -54,7 +54,7 @@ The **[Add](Excel.AddIns.Add.md)** method adds an add-in to the list of availabl
 AddIns.Add("generic.xll").Installed = True
 ```
 
-Use **Workbooks** ( _index_ ) where _index_ is the add-in filename (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
+Use **Workbooks** ( _index_ ) where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
 
 ```vb
 Set wb = Workbooks("myaddin.xla")

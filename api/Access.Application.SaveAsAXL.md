@@ -30,7 +30,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 |:-----|:-----|:-----|:-----|
 | _ObjectType_|Required|**[AcObjectType](access.acobjecttype.md)**|Specifies the type of object to export.|
 | _ObjectName_|Required|**String**|Specifies the name of the object to export. |
-| _FileName_|Required|**String**|Specifies the full path and filename of the AXL file to create.|
+| _FileName_|Required|**String**|Specifies the full path and file name of the AXL file to create.|
 
 ## Remarks
 

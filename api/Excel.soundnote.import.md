@@ -27,7 +27,7 @@ _expression_ A variable that represents a 'SoundNote' object.
 
 
 |||||
-| _Filename_|Required|STRING|The filename of the sound note to import.|
+| _Filename_|Required|STRING|The file name of the sound note to import.|
 
 ## See also
 

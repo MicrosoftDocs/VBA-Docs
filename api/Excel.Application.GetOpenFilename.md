@@ -49,7 +49,7 @@ To use multiple MS-DOS wildcard expressions for a single file filter type, separ
 
 If  _FileFilter_ is omitted, this argument defaults to "All Files (*.*),*.*".
 
-This method returns the selected file name or the name entered by the user. The returned name may include a path specification. If  _MultiSelect_ is **True** , the return value is an array of the selected file names (even if only one filename is selected). Returns **False** if the user cancels the dialog box.
+This method returns the selected file name or the name entered by the user. The returned name may include a path specification. If  _MultiSelect_ is **True** , the return value is an array of the selected file names (even if only one file name is selected). Returns **False** if the user cancels the dialog box.
 
 This method may change the current drive or folder.
 

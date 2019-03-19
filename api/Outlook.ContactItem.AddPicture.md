@@ -30,7 +30,7 @@ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Path_|Required| **String**|A string containing the complete path and filename of the picture to be added to the contact item.|
+| _Path_|Required| **String**|A string containing the complete path and file name of the picture to be added to the contact item.|
 
 ## Remarks
 

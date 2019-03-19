@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Permission](Office.Permission.md)**
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required|**String**| The path and filename of the permission policy template file.|
+| _FileName_|Required|**String**| The path and file name of the permission policy template file.|
 
 ## Remarks
 
