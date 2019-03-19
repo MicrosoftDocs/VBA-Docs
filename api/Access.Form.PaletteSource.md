@@ -42,9 +42,9 @@ The default setting is (Default), which specifies the palette included with Micr
 
 For a form, you can set the **PaletteSource** property in form Design view and Form view. The property setting is unavailable in other views.
 
-Windows can have only one color palette active at a time. Microsoft Access allows you to have multiple graphics on a form, each using a different color palette. The **PaletteSource** and **PaintPalette** properties let you specify which color palette a form uses when displaying graphics.
+Windows can have only one color palette active at a time. Access allows you to have multiple graphics on a form, each using a different color palette. The **PaletteSource** and **PaintPalette** properties let you specify which color palette a form uses when displaying graphics.
 
-When you set the **PaletteSource** property for a form or report, Microsoft Access automatically updates its **PaintPalette** property. Conversely, when you set a form's or report's **PaintPalette** property, the **PaletteSource** property is also updated. For example, when you specify a custom palette with the **PaintPalette** property, the **PaletteSource** property setting changes to (Custom). The **PaintPalette** property (which is available only in a macro or Visual Basic) is used to set the palette for the form or report. The **PaletteSource** property gives you a way to set the palette for the form or report in the property sheet by using an existing graphics file.
+When you set the **PaletteSource** property for a form or report, Access automatically updates its **PaintPalette** property. Conversely, when you set a form's or report's **PaintPalette** property, the **PaletteSource** property is also updated. For example, when you specify a custom palette with the **PaintPalette** property, the **PaletteSource** property setting changes to (Custom). The **PaintPalette** property (which is available only in a macro or Visual Basic) is used to set the palette for the form or report. The **PaletteSource** property gives you a way to set the palette for the form or report in the property sheet by using an existing graphics file.
 
 
 ## Example
@@ -58,7 +58,9 @@ Forms!Seascape.PaintPalette = _
 
 The **ObjectPalette** and **PaintPalette** properties are useful for programmatically altering the color palette in use by an open form at run time. A common use of these properties is to set the current form's **PaintPalette** property to the palette of a graphic displayed in a control that has the focus.
 
-For example, you can have a form with an ocean picture, showing many shades of blue, and a sunset picture, showing many shades of red. Because Windows only allows one color palette active at a time, one picture will look much better than the other. The following example uses a control's **Enter** event for setting the form's **PaintPalette** property to the control's **ObjectPalette** property so that the graphic that has the focus will have an optimal appearance.
+For example, you can have a form with an ocean picture, showing many shades of blue, and a sunset picture, showing many shades of red. Because Windows only allows one color palette active at a time, one picture will look much better than the other. 
+
+The following example uses a control's **Enter** event for setting the form's **PaintPalette** property to the control's **ObjectPalette** property so that the graphic that has the focus will have an optimal appearance.
 
 ```vb
 Sub OceanPicture_Enter() 

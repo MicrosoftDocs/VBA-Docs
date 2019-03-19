@@ -41,7 +41,7 @@ The **PrtDevNames** property uses the following members.
 
 Microsoft Access sets the **PrtDevNames** property when you make selections in the Printer section of the **Print** dialog box. You can also set the property by using Visual Basic.
 
-Microsoft Access uses the DEVNAMES structure to initialize the **Print** dialog box. When the user chooses **OK** to close the dialog box, information about the selected printer is returned by the **PrtDevNames** property.
+Access uses the DEVNAMES structure to initialize the **Print** dialog box. When the user chooses **OK** to close the dialog box, information about the selected printer is returned by the **PrtDevNames** property.
 
 
 
