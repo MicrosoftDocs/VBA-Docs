@@ -49,7 +49,7 @@ The  **SetWindowRect** method sets the size and position of the client area of t
 
 ## Example
 
-The following example shows how to use the  **SetWindowRect** method to set the size and position of a **Window** object. It opens the **Pan & Zoom** window and prints the window's coordinates, width, and height in the **Immediate** window. Then it uses **SetWindowRect** to change the height of the window, and prints the new values.
+The following example shows how to use the  **SetWindowRect** method to set the size and position of a **Window** object. It opens the **Pan & Zoom** window and prints the window's coordinates, width, and height in the **Immediate** window. It then uses **SetWindowRect** to change the height of the window, and prints the new values.
 
 
 ```vb

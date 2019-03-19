@@ -69,7 +69,7 @@ objRet = vsoShapes.ItemU("*{2287DC42-B167-11CE-88E9-0020AFDDD917}")
 
 ## Example
 
-This Microsoft Visual Basic macro shows how to use the  **ItemU** property of the **Pages** collection to get the **Shapes** collection. Then it uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
+This Microsoft Visual Basic macro shows how to use the  **ItemU** property of the **Pages** collection to get the **Shapes** collection. It then uses the **ItemU** property of the **Shapes** collection to print the universal names of all shapes on Page-1 in the Immediate window.
 
 To run this macro, make sure the active document has shapes on Page-1.
 

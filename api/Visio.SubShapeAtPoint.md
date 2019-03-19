@@ -39,7 +39,7 @@ Gets the ID of the subshape in the drawing that is open in Microsoft Visio Viewe
 
 A  _subshape_ is a shape that is a member of a group shape.
 
-The origin of the coordinate system of the Visio Viewer window is the upper left corner. The positive x-direction is to the right, and the positive y-direction is down.
+The origin of the coordinate system of the Visio Viewer window is the upper-left corner. The positive x-direction is to the right, and the positive y-direction is down.
 
 If there is no subshape at the specified point, the  **SubShapeAtPoint** property returns 0.
 

@@ -38,7 +38,7 @@ Nothing
 
 ## Remarks
 
-The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
+The page view consists of the center point of the page, expressed in x-y page coordinates, with the origin of the coordinate system at the lower-left corner of the page; and the zoom factor, expressed as a numerical percentage, ranging from 1% to 400%.
 
 You can get the current page view in Visio Viewer by using the  **[GetPageView](Visio.GetPageView.md)** method, and you can set the page view programmatically by using the **[SetPageView](Visio.SetPageView.md)** method.
 

@@ -43,7 +43,7 @@ The **RecordLocks** property uses the following settings.
 
 You can use the No Locks setting for forms if only one person uses the underlying tables or queries or makes all the changes to the data.
 
-In a multiuser database, you can use the No Locks setting if you want to use optimistic locking and warn users attempting to edit the same record on a form. You can use the Edited Record setting if you want to prevent two or more users editing data at the same time.
+In a multiuser database, you can use the No Locks setting if you want to use optimistic locking and warn users attempting to edit the same record on a form. You can use the Edited Record setting if you want to prevent two or more users from editing data at the same time.
 
 In Form view or Datasheet view, each locked record has a locked indicator in its record selector.
 

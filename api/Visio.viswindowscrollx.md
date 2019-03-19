@@ -23,7 +23,7 @@ X parameters to pass to the  **Window.Scroll** method.
 | **visScrollNoneX**|9|Do not scroll horizontally.|
 | **visScrollRightPage**|3|Scroll horizontally so that the right edge of the drawing page is centered in the window.|
 | **visScrollRight**|1|Scroll horizontally to the right the same distance as clicking the right scroll button.|
-| **visScrollToLeft**|6|Scroll so that the upper left corner of the drawing page is centered in the window.|
-| **visScrollToRight**|7|Scroll so that the lower right corner of the drawing page is centered in the window.|
+| **visScrollToLeft**|6|Scroll so that the upper-left corner of the drawing page is centered in the window.|
+| **visScrollToRight**|7|Scroll so that the lower-right corner of the drawing page is centered in the window.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -31,7 +31,7 @@ Before you can use the  **Execute** method of the **[MailMerge](Publisher.MailMe
 
 ## Example
 
-The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an email merge and then send the resulting email message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the email message. Then it uses the **Execute** method of the **MailMerge** object to execute the merge and send the email.
+The following Microsoft Visual Basic for Applications (VBA) macro shows how to assign some of the properties of an  **EmailMergeEnvelope** object that represents an email merge and then send the resulting email message, an invitation. The macro connects to a data source, assigns values to the **To** and **Subject** properties of the **EmailMergeEnvelope** object, and adds a text box containing merge fields and some additional text to the email message. It then uses the **Execute** method of the **MailMerge** object to execute the merge and send the email.
  
 
  

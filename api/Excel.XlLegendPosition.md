@@ -18,7 +18,7 @@ Specifies the position of the legend on a chart.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 | **xlLegendPositionBottom**|-4107|Below the chart.|
-| **xlLegendPositionCorner**|2|In the upper right-hand corner of the chart border.|
+| **xlLegendPositionCorner**|2|In the upper-right corner of the chart border.|
 | **xlLegendPositionCustom**|-4161|A custom position.|
 | **xlLegendPositionLeft**|-4131|Left of the chart.|
 | **xlLegendPositionRight**|-4152|Right of the chart.|
