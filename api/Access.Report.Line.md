@@ -28,8 +28,9 @@ _expression_ Required. A variable that represents a **[Report](Access.Report.md)
 
 |Name|Data type|Description|
 |:---|:--------|:----------|
-| _Step_ |**Keyword** |Indicates that the starting point coordinates are relative to the current graphics position given by the current settings for the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** properties of the _Object_ argument.|
+| _Step_ |*Keyword* |Indicates that the starting point coordinates are relative to the current graphics position given by the current settings for the **[CurrentX](Access.Report.CurrentX.md)** and **[CurrentY](Access.Report.CurrentY.md)** properties of the _Object_ argument.|
 |_x1, y1_ | **Single** |Indicates the coordinates of the starting point for the line or rectangle. The Scale properties (**[ScaleMode](Access.Report.ScaleMode.md)**, **ScaleLeft**, **ScaleTop**, **ScaleHeight**, and **ScaleWidth**) of the **Report** object specified by the _Object_ argument determine the unit of measure used. If this argument is omitted, the line begins at the position indicated by the **CurrentX** and **CurrentY** properties.|
+|_x2, y2_ | **Single** |**Required.** Indicates the coordinates of the ending point for the line or rectangle. be sure that the starting point and the ending point are separated by a  **hyphen "-"**.|
 | _Color_ | **Long** |Indicates the RGB (red-green-blue) color used to draw the line. If this argument is omitted, the value of the **ForeColor** property is used. You can also use the **RGB** function or **QBColor** function to specify the color.|
 | _B_ | |An option that creates a rectangle by using the coordinates as opposite corners of the rectangle.|
 | _F_ | |_F_ cannot be used without _B_. If the _B_ option is used, the _F_ option specifies that the rectangle is filled with the same color used to draw the rectangle. If _B_ is used without _F_, the rectangle is filled with the color specified by the current settings of the **FillColor** and **BackStyle** properties. The default value for the **BackStyle** property is Normal for rectangles and lines.|
@@ -43,7 +44,7 @@ To connect two drawing lines, make sure that one line begins at the end point of
 
 The width of the line drawn depends on the **[DrawWidth](Access.Report.DrawWidth.md)** property setting. The way a line or rectangle is drawn on the background depends on the settings of the **[DrawMode](Access.Report.DrawMode.md)** and **[DrawStyle](Access.Report.DrawStyle.md)** properties.
 
-When you apply the **Line** method, the **CurrentX** and **CurrentY** properties are set to the end point specified by the _x2_ and _y2_ arguments.
+When you apply the **Line** method, the **CurrentX** and **CurrentY** properties are re-set to the end point specified by the _x2_ and _y2_ arguments.
 
 
 ## Example
