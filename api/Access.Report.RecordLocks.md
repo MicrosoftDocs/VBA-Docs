@@ -34,7 +34,7 @@ The **RecordLocks** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
-|No Locks|0|(Default) In reports, records aren't locked while the report is previewed or printed. In queries, records aren't locked while the query is run.|
+|No Locks|0|(Default) In reports, records aren't locked while the report is previewed or printed. In queries, records aren't locked while the query is run. This is also called "optimistic" locking.|
 |All Records|1|All records in the underlying table or query are locked while the report is previewed or printed or the query is run. Although users can read the records, no one can edit, add, or delete any records until the report or query is closed.|
 |Edited Record|2| Applies only to forms and queries. A page of records is locked as soon as any user starts editing any field in the record and stays locked until the user moves to another record. Consequently, a record can be edited by only one user at a time. This is also called "pessimistic" locking.|
 
