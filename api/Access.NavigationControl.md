@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.NavigationControl
 ms.assetid: ab08e35c-e5e4-444c-d169-1092d282ed15
-ms.date: 06/08/2017
+ms.date: 03/21/2019
 localization_priority: Normal
 ---
 
@@ -19,11 +19,11 @@ This object represents a navigation control on a form.
 
 ## Remarks
 
-The **[NavigationControl](Access.NavigationControl.md)** contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](Access.NavigationButton.md)** objects. When a user clicks a navigation button, the associated form or report is displayed in the control specified by the **[SubForm](Access.NavigationControl.SubForm.md)** property.
+The **NavigationControl** object contains a collection of navigation buttons, each of which is represented by a **[NavigationButton](Access.NavigationButton.md)** object. When a user chooses a navigation button, the associated form or report is displayed in the control specified by the **SubForm** property.
 
-Use the **[Tabs](Access.NavigationControl.Tabs.md)** property to return the collection of navigation buttons for the navigation control.
+Use the **Tabs** property to return the collection of navigation buttons for the navigation control.
 
-Use **[SelectedTab](Access.NavigationControl.SelectedTab.md)** property to return the navigation button that is currently selected.
+Use the **SelectedTab** property to return the navigation button that is currently selected.
 
 
 ## Events
