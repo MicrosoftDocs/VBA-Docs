@@ -33,7 +33,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 | _Data_|Required| **String**|The data to import.|
 | _ImportMap_|Required| **[XmlMap](Excel.XmlMap.md)**|The schema map to apply when importing the file.|
 | _Overwrite_|Optional| **Variant**|If a value is not specified for the Destination parameter, then this parameter specifies whether or not to overwrite data that has been mapped to the schema map specified in the ImportMap parameter. Set to  **True** to overwrite the data or **False** to append the new data to the existing data. The default value is **True**. If a value is specified for the Destination parameter, then this parameter specifies whether or not to overwrite existing data. Set to **True** to overwrite existing data or **False** to cancel the import if data would be overwritten. The default value is **True**.|
-| _Destination_|Optional| **Variant**|Specifies the range where the list will be created. Excel only uses the top left corner of the range.|
+| _Destination_|Optional| **Variant**|Specifies the range where the list will be created. Excel only uses the top-left corner of the range.|
 
 ## Return value
 

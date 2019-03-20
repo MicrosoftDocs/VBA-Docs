@@ -1,5 +1,5 @@
 ---
-title: ComboBox.Hyperlink property (Access)
+title: ComboBoxYou can use the **Hyperlink** property to return a reference to a **[Hyperlink](access.hyperlink.md)** object
 keywords: vbaac10.chm11368
 f1_keywords:
 - vbaac10.chm11368
@@ -12,9 +12,9 @@ localization_priority: Normal
 ---
 
 
-# ComboBox.Hyperlink property (Access)
+# ComboBox
 
-You can use the **Hyperlink** property to return a reference to a **Hyperlink** object and to access the properties and methods of a control's hyperlink. Read-only.
+You can use the **Hyperlink** property to return a reference to a **[Hyperlink](access.hyperlink.md)** object and to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax

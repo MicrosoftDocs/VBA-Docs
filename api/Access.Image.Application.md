@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Image.Application
 ms.assetid: 7c308c10-ee19-f162-a9e4-2d6d6b9eafb0
-ms.date: 06/08/2017
+ms.date: 03/21/2019
 localization_priority: Normal
 ---
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[NavigationButton](Access.Navigation
 
 The **HyperlinkAddress** property is a string expression representing the path to a file (UNC path) or web page (URL).
 
-When you set the **HyperlinkAddress** property, you automatically specify the **Address** property for the **Hyperlink** object associated with the control.
+When you set the **HyperlinkAddress** property, you automatically specify the **Address** property for the **[Hyperlink](access.hyperlink.md)** object associated with the control.
 
 > [!NOTE] 
 > When you create a hyperlink by using the **Insert Hyperlink** dialog box, Microsoft Access automatically sets the **HyperlinkAddress** property and **HyperlinkSubAddress** to the location specified in the **Type the file or web page name** box. The **HyperlinkSubAddress** property can also be set to the location specified in the **Select an object in this database** box.

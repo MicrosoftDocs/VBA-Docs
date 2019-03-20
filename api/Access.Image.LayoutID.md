@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Image.LayoutID property (Access)
 
-Returns the unique identifier for the layout that contains the specified image. Read-only **Long**.
+Returns the unique identifier for the layout that contains the specified image control. Read-only **Long**.
 
 
 ## Syntax
