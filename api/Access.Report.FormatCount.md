@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 ## Remarks
 
-You can use this property only in an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md)specified by a section's **OnFormat** property setting.
+You can use this property only in an [event procedure](../access/Concepts/Settings/set-properties-by-using-visual-basic.md) specified by a section's **OnFormat** property setting.
 
 This property isn't available in report Design view.
 

@@ -21,7 +21,7 @@ Specifies the type of rectangle and the information it contains.
 | **wdMarkupRectangle**|2|Represents a space occupied by a comment balloon.|
 | **wdMarkupRectangleButton**|3|Represents a space occupied by the more (...) indicator that appears in a comment balloon when there is additional text for the comment.|
 | **wdPageBorderRectangle**|4|Represents a space occupied by a page border.|
-| **wdSelection**|6|Represents a space occupied by a selection tool, for example the table selection tool in the upper left corner of a table or the anchor for an image.|
+| **wdSelection**|6|Represents a space occupied by a selection tool, for example the table selection tool in the upper-left corner of a table or the anchor for an image.|
 | **wdShapeRectangle**|1|Represents a space occupied by a shape.|
 | **wdSystem**|7|Not applicable.|
 | **wdTextRectangle**|0|Represents a space occupied by text.|

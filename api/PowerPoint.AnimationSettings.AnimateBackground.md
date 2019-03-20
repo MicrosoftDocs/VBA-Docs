@@ -45,7 +45,7 @@ The value of the  **AnimateBackground** property can be one of these **MsoTriSta
 
 ## Example
 
-This example creates a rectangle that contains text. The example then specifies that the shape should fly in from the lower right, that the text should be built from first-level paragraphs, and that the shape should be animated separately from the text it contains. In this example, the  **EntryEffect** property turns on animation.
+This example creates a rectangle that contains text. The example then specifies that the shape should fly in from the lower-right, that the text should be built from first-level paragraphs, and that the shape should be animated separately from the text it contains. In this example, the  **EntryEffect** property turns on animation.
 
 
 ```vb

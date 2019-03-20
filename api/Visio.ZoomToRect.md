@@ -41,12 +41,12 @@ Nothing
 
 The coordinate system for the  **ZoomToRect** method has its origin at the top left corner of the Visio Viewer window. Positive directions are to the right (x) and down (y). The units of measurement are pixels.
 
-The  **ZoomToRect** method, in effect, crops a rectangular section of the drawing, specified by the parameters, and then displays that section in the entire Visio Viewer window. The parameters are a set of two pairs of coordinates, the first pair specifying the upper left corner of the section, and the second pair the lower right corner.
+The  **ZoomToRect** method, in effect, crops a rectangular section of the drawing, specified by the parameters, and then displays that section in the entire Visio Viewer window. The parameters are a set of two pairs of coordinates, the first pair specifying the upper-left corner of the section, and the second pair the lower-right corner.
 
 
 ## Example
 
-The following code zooms to display a rectangular section of the drawing that is open in Visio Viewer. The upper left corner of the displayed section corresponds to the upper left corner of the Visio Viewer window as originally displayed. The lower right corner corresponds to a point 300 pixels down and 300 pixels to the right of the upper left corner in that original display.
+The following code zooms to display a rectangular section of the drawing that is open in Visio Viewer. The upper-left corner of the displayed section corresponds to the upper-left corner of the Visio Viewer window as originally displayed. The lower-right corner corresponds to a point 300 pixels down and 300 pixels to the right of the upper-left corner in that original display.
 
 
 ```vb

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbooks](./Excel.Workbooks.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Filename_|Required| **String**|The connection string which contains the location and filename of the database.|
+| _Filename_|Required| **String**|The connection string which contains the location and file name of the database.|
 | _CommandText_|Optional| **Variant**|The command text of the query.|
 | _CommandType_|Optional| **Variant**|The command type of the query. Specify one of the constants of the  **[xlCmdType](Excel.XlCmdType.md)** enumeration: **xlCmdCube** , **xlCmdList** , **xlCmdSql** , **xlCmdTable** , and **xlCmdDefault**.|
 | _BackgroundQuery_|Optional| **Variant**|This parameter is a variant data type but you can only pass a Boolean value. If you pass  **True** , the query is performed in the background (asynchronously). The default value is **False**.|

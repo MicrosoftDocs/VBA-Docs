@@ -31,7 +31,7 @@ _expression_ Required. A variable that represents a **[SharedWorkspaceFiles](Off
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required|**String**|The path and filename of the file to be added to the current shared workspace.|
+| _FileName_|Required|**String**|The path and file name of the file to be added to the current shared workspace.|
 | _ParentFolder_|Optional|**SharedWorkspaceFolder**|The subfolder in which to place the file, if not the main document library folder within the shared workspace. Add the file to the main document library folder by leaving this optional argument empty.|
 | _OverwriteIfFileAlreadyExists_|Optional|**Boolean**|**True** to overwrite an existing file by the same name. Default is **False**.|
 | _KeepInSync_|Optional|**Boolean**|**True** to keep the local copy of the document synchronized with the copy in the shared workspace. Default is **False**.|

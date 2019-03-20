@@ -7,39 +7,37 @@ ms.prod: access
 api_name:
 - Access.GroupLevel.GroupInterval
 ms.assetid: 98ba66b9-658e-9fa6-155b-3b4f1a7c3f01
-ms.date: 06/08/2017
+ms.date: 03/20/2019
 localization_priority: Normal
 ---
 
 
 # GroupLevel.GroupInterval property (Access)
 
-You can use the  **GroupInterval** property with the **[GroupOn](Access.GroupLevel.GroupOn.md)** property to specify how records are grouped in a report. Read/write **Long**.
+You can use the **GroupInterval** property with the **[GroupOn](Access.GroupLevel.GroupOn.md)** property to specify how records are grouped in a report. Read/write **Long**.
 
 
 ## Syntax
 
-_expression_. `GroupInterval`
+_expression_.**GroupInterval**
 
 _expression_ A variable that represents a **[GroupLevel](Access.GroupLevel.md)** object.
 
 
 ## Remarks
 
-The  **GroupInterval** property specifies an interval value that records are grouped by. This interval differs depending on the data type and **GroupOn** property setting of the field or expression you are grouping on. For example, you can set the **GroupInterval** property to 1 if you want to group records by the first character of a Text field, such as ProductName.
+The **GroupInterval** property specifies an interval value that records are grouped by. This interval differs depending on the data type and **GroupOn** property setting of the field or expression that you are grouping on. For example, you can set the **GroupInterval** property to 1 if you want to group records by the first character of a **Text** field, such as ProductName.
 
-The  **GroupInterval** property settings are **Long** values that depend on the field's data type and its **GroupOn** property setting. The default **GroupInterval** setting is 1.
+The **GroupInterval** property settings are **Long** values that depend on the field's data type and its **GroupOn** property setting. The default **GroupInterval** setting is 1.
 
-You can set the  **GroupInterval** property only the **[Open](Access.Report.Open.md)** event procedure of a report.
+You can set the **GroupInterval** property only in the **[Open](Access.Report.Open.md)** event procedure of a report.
 
+> [!NOTE] 
+> To set the **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](Access.GroupLevel.GroupHeader.md)** or **[GroupFooter](Access.GroupLevel.GroupFooter.md)** property or both to Yes for the selected field or expression.
 
- **Note**  To set the  **GroupInterval** property to a value other than its default setting (1), you must first set the **[GroupHeader](Access.GroupLevel.GroupHeader.md)** or **[GroupFooter](Access.GroupLevel.GroupFooter.md)** property or both to Yes for the selected field or expression.
+Here are examples of **GroupInterval** property settings for different field data types.
 
-Here are examples of  **GroupInterval** property settings for different field data types.
-
-
-
-|**Field data type**|**GroupOn setting**|**GroupInterval setting**|
+|Field data type|GroupOn setting|GroupInterval setting|
 |:-----|:-----|:-----|
 |All|Each value|(Default) Set to 1.|
 |Text|Prefix characters|Set to 3 for grouping by the first three characters in the field (for example, Chai, Chartreuse, and Chang would be grouped together).|
@@ -48,8 +46,7 @@ Here are examples of  **GroupInterval** property settings for different field da
 
 ## Example
 
-The following example sets the  **SortOrder** and grouping properties for the first group level in the Products By Category report to create an alphabetical list of products.
-
+The following example sets the **SortOrder** and grouping properties for the first group level in the **Products By Category** report to create an alphabetical list of products.
 
 ```vb
 Private Sub Report_Open(Cancel As Integer) 
@@ -65,9 +62,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[GroupLevel Object](Access.GroupLevel.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

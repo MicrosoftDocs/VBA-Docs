@@ -28,7 +28,7 @@ _expression_ A variable that represents an **[Application](Access.Application.md
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Path_|Required|**String**|The full path and filename of the template to apply to the new database.|
+| _Path_|Required|**String**|The full path and file name of the template to apply to the new database.|
 
 
 

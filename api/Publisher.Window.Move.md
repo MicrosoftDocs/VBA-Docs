@@ -40,7 +40,7 @@ If the application window is either maximized or minimized, this method will ret
 
 ## Example
 
-This example checks the state of the application window, and if it is neither maximized nor minimized, moves the window to the upper left corner of the screen.
+This example checks the state of the application window, and if it is neither maximized nor minimized, moves the window to the upper-left corner of the screen.
 
 
 ```vb

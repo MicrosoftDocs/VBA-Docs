@@ -46,7 +46,7 @@ When the **FillStyle** property is set to 0, a circle or line has the color set 
 
 To use the **FillStyle** property, the **[SpecialEffect](Access.Line.SpecialEffect.md)** property must be set to Normal.
 
-The following example uses the **Circle** method to draw a circle and create a pie slice within the circle. It then uses the **FillColor** and **FillStyle** properties to color the pie slice red. It also draws a line from the upper left to the center of the circle.
+The following example uses the **Circle** method to draw a circle and create a pie slice within the circle. It then uses the **FillColor** and **FillStyle** properties to color the pie slice red. It also draws a line from the upper-left to the center of the circle.
 
 
 ## Example

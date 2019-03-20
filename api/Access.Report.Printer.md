@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.Report.Printer
 ms.assetid: 9e21b583-5539-bc24-49a0-c248e7f9aafb
-ms.date: 06/08/2017
+ms.date: 03/20/2019
 localization_priority: Normal
 ---
 
 
 # Report.Printer property (Access)
 
-Returns or sets a  **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
+Returns or sets a **[Printer](Access.Printer.md)** object representing the default printer on the current system. Read/write.
 
 
 ## Syntax
 
-_expression_. `Printer`
+_expression_.**Printer**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Example
 
-The following example makes the first printer in the  **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
-
+The following example makes the first printer in the **[Printers](Access.Printers.md)** collection the default printer for the system, and then reports its name, driver information, and port information.
 
 ```vb
 Dim prtDefault As Printer 
@@ -45,9 +44,6 @@ End With
 ```
 
 
-## See also
 
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

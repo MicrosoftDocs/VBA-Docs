@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormatCondition.Enabled property (Access)
 
-You can use the **Enabled** property to set or return the status of the conditional format in the **[FormatCondition](Access.FormatCondition.md)** object. Read/write **Boolean**.
+You can use the **Enabled** property to set or return the status of the conditional format in the **FormatCondition** object. Read/write **Boolean**.
 
 
 ## Syntax

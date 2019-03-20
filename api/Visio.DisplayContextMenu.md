@@ -37,7 +37,7 @@ Nothing
 
 ## Remarks
 
-Use the screenX and screenY parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper left corner.
+Use the screenX and screenY parameters to specify the coordinates of the point where you want the shortcut menu to appear, relative to the origin of the frame of the screen. The origin of the screen frame is in the upper-left corner.
 
 
 ## Example

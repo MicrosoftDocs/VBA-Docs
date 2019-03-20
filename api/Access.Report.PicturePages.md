@@ -7,28 +7,26 @@ ms.prod: access
 api_name:
 - Access.Report.PicturePages
 ms.assetid: a1266a43-3e1c-33f3-ae18-a7306723cc11
-ms.date: 06/08/2017
+ms.date: 03/20/2019
 localization_priority: Normal
 ---
 
 
 # Report.PicturePages property (Access)
 
-You can use the  **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
+You can use the **PicturePages** property to specify on which page or pages of a report a picture will be displayed. Read/write **Byte**.
 
 
 ## Syntax
 
-_expression_. `PicturePages`
+_expression_.**PicturePages**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 
 ## Remarks
 
-The  **PicturePages** property uses the following settings.
-
-
+The **PicturePages** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -38,8 +36,7 @@ The  **PicturePages** property uses the following settings.
 
 ## Example
 
-The following example prints a stretched version of the picture "Logo.gif" on only the first page of the "Purchase Order" report.
-
+The following example prints a stretched version of the picture Logo.gif on only the first page of the **Purchase Order** report.
 
 ```vb
 With Reports("Purchase Order") 
@@ -50,9 +47,5 @@ End With
 ```
 
 
-## See also
-
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

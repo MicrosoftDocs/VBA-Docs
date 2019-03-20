@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.Report.UseDefaultPrinter
 ms.assetid: a7edf38e-181b-3822-bdb4-fb74ec18d40a
-ms.date: 06/08/2017
+ms.date: 03/20/2019
 localization_priority: Normal
 ---
 
 
 # Report.UseDefaultPrinter property (Access)
 
-Returns or sets a  **Boolean** indicating whether the specified report uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
+Returns or sets a **Boolean** indicating whether the specified report uses the default printer for the system; **True** if the form or report uses the default printer. Read/write.
 
 
 ## Syntax
 
-_expression_. `UseDefaultPrinter`
+_expression_.**UseDefaultPrinter**
 
 _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
@@ -28,13 +28,12 @@ _expression_ A variable that represents a **[Report](Access.Report.md)** object.
 
 This property is read/write in Design view and read-only in all other views.
 
-When this property is  **True**, the form or report inherits all of its printer settings from the settings of the default printer. Changing the printer associated with a form or report by assigning its **Printer** property to a **Printer** object sets the **UseDefaultPrinter** property to **False**.
+When this property is **True**, the form or report inherits all its printer settings from the settings of the default printer. Changing the printer associated with a form or report by assigning its **Printer** property to a **Printer** object sets the **UseDefaultPrinter** property to **False**.
 
 
 ## Example
 
 The following example checks to see if the specified form is using the default printer; if not, the user is asked if it should.
-
 
 ```vb
 Function CheckPrinter(frmTemp As Form) As Boolean 
@@ -51,9 +50,5 @@ End Function
 ```
 
 
-## See also
-
-
-[Report Object](Access.Report.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

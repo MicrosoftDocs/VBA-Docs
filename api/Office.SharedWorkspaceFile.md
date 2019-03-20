@@ -27,7 +27,7 @@ Use the **SharedWorkspaceFile** object to manage documents and files saved in a 
 
 ## Example
 
-Although the **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the filename from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
+Although the **SharedWorkspaceFile** object has a **URL** property that returns the file's complete path and filename, it does not have a **FileName** property. Use a simple function to extract the file name from the file's URL as in the following example. An additional supporting function decodes escaped space characters in the URL.
 
 
 ```vb

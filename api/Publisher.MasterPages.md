@@ -45,7 +45,7 @@ Sub ChangeMasterPage()
 End Sub
 ```
 
-Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper left corner of the master page that will appear on each page in the active publication.
+Use the  **[Shapes](Publisher.Page.Shapes.md)** property to work with AutoShapes and text boxes on the master page. This example adds a small red heart shape to the upper-left corner of the master page that will appear on each page in the active publication.
  
 
  

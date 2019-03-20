@@ -31,7 +31,7 @@ Boolean
 
 ## Example
 
-This example adds a red star in the upper left corner of the master page so that it shows up on each page; then it adds a couple of new pages and sets one of the pages to ignore the master page so that the shape doesn't show on it.
+This example adds a red star in the upper-left corner of the master page so that it shows up on each page; then it adds a couple of new pages and sets one of the pages to ignore the master page so that the shape doesn't show on it.
 
 
 ```vb

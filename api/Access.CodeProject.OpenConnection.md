@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[CodeProject](Access.CodeProject.md)
 |:-----|:-----|:-----|:-----|
 | _BaseConnectionString_|Optional|**Variant**|A string expression that is the base connection string of the database.|
 | _UserID_|Optional|**Variant**|A string expression that is the name of the existing Access project, including the path name and the file name extension. If your network supports it, you can also specify a network path in the following form: \\Server\Share\Folder\Filename.adp|
-| _Password_|Optional|**Variant**|If you don't supply the filename extension, .adp is appended to the filename. You can use this method or the **OpenCurrentDatabase** method to open .adp files.|
+| _Password_|Optional|**Variant**|If you don't supply the file name extension, .adp is appended to the filename. You can use this method or the **OpenCurrentDatabase** method to open .adp files.|
 
 ## Remarks
 

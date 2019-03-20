@@ -37,7 +37,7 @@ Gets the ID of the shape in the drawing that is open in Microsoft Visio Viewer, 
 
 ## Remarks
 
-The origin of the coordinate system of the Visio Viewer window is the upper left corner. The positive x-direction is to the right, and the positive y-direction is down.
+The origin of the coordinate system of the Visio Viewer window is the upper-left corner. The positive x-direction is to the right, and the positive y-direction is down.
 
 If there is no shape at the specified point, the  **ShapeAtPoint** property returns 0.
 

@@ -43,7 +43,7 @@ Presentation
 
 ## Remarks
 
-With the proper file converters installed, Microsoft Office PowerPoint 2003 and earlier versions open files with the following MS-DOS filename extensions: .ch3, .cht, .doc, .htm, .html, .mcw, .pot, .ppa, .pps, .ppt, .pre, .rtf, .sh3, .shw, .txt, .wk1, .wk3, .wk4, .wpd, .wpf, .wps, and .xls. PowerPoint also opens files with the following filename extensions: .docm, .docx, .mhtml, .potm, .potx, .ppam, .pptm, .pptx, .ppsm, .ppsx, .thmx, .xlsm, and .xlsx.
+With the proper file converters installed, Microsoft Office PowerPoint 2003 and earlier versions open files with the following MS-DOS file name extensions: .ch3, .cht, .doc, .htm, .html, .mcw, .pot, .ppa, .pps, .ppt, .pre, .rtf, .sh3, .shw, .txt, .wk1, .wk3, .wk4, .wpd, .wpf, .wps, and .xls. PowerPoint also opens files with the following file name extensions: .docm, .docx, .mhtml, .potm, .potx, .ppam, .pptm, .pptx, .ppsm, .ppsx, .thmx, .xlsm, and .xlsx.
 
 The  _ReadOnly_ parameter value can be one of these **MsoTriState** constants.
 

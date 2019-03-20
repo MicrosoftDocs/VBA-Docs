@@ -35,7 +35,6 @@ For reports, the **Top** property setting is the amount that the current section
 
 The following example checks the **Top** property setting for the current report. If the value is less than the minimum margin setting, the **NextRecord** and **PrintSection** properties are set to **False**. The section doesn't advance to the next record, and the next section isn't printed.
 
-
 ```vb
 Sub Detail1_Format(Cancel As Integer, FormatCount As Integer) 
 Const conTopMargin = 1880 

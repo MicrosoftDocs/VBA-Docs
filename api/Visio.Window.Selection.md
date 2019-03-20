@@ -68,7 +68,7 @@ Public Sub Selection_Example()
 End Sub
 ```
 
-This VBA macro shows how to use the  **CreateSelection** method to select all shapes on a particular layer. Then it uses the **Selection** property to display the selection in the Visio drawing window.
+This VBA macro shows how to use the  **CreateSelection** method to select all shapes on a particular layer. It then uses the **Selection** property to display the selection in the Visio drawing window.
 
 Before running this macro, create two layers in your drawing, one named "a" and one named "b", and then add shapes to both layers.
 

@@ -50,10 +50,10 @@ Sub ExportChart()
     Dim chartShape As Shape
     Dim reportName As String
     Dim fileFormat As String
-    Dim filename As String
+    Dim fileName As String
     
     fileFormat = "PNG"
-    filename = "C:\Project\VBA\Samples\SimpleChart.png"
+    fileName = "C:\Project\VBA\Samples\SimpleChart.png"
     
     reportName = "Simple scalar chart"
     Set chartShape = ActiveProject.Reports(reportName).Shapes(1)
