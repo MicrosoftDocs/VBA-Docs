@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebServices.Application property (Access)
 
-You can use the **Application** property to access the active Microsoft Access[Application](Access.Application.md)object and its related properties. Read-only **Application** object.
+You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax
