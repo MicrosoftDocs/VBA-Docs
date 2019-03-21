@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Image.GridlineStyleLeft property (Access)
 
-Gets or sets the left gridline style of the specified image. Read/write **Byte**.
+Gets or sets the left gridline style of the specified image control. Read/write **Byte**.
 
 
 ## Syntax

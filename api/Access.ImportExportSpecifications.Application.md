@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ImportExportSpecifications.Application
 ms.assetid: 513bafb1-c905-20cd-d8a4-e7379031a54a
-ms.date: 06/08/2017
+ms.date: 03/21/2019
 localization_priority: Normal
 ---
 
 
 # ImportExportSpecifications.Application property (Access)
 
-You can use the **Application** property to access the active Microsoft Access[Application](Access.Application.md)object and its related properties. Read-only **Application** object.
+You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
 
 
 ## Syntax

@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Hyperlink](Access.Hyperlink.md)** o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required|**String**| The name and path of the document. The type of document format that you want to use can be determined by the extension used with the file name to output the data. You can create HTML (\*.htm), Microsoft Active Server Pages (\*.asp), Microsoft Excel (\*.xls), Microsoft IIS (\*.htx, \*.idc), MS-DOS Text (\*.txt), or Rich Text Format (\*.rtf). Modules can be output only to MS-DOS text format. Microsoft Internet Information Server and Microsoft Active Server formats are available only for tables, queries, and forms.|
+| _FileName_|Required|**String**| The name and path of the document. The type of document format that you want to use can be determined by the extension used with the file name to output the data. You can create the following:<ul><li>HTML (\*.htm)</li><li>Microsoft Active Server Pages (\*.asp)</li><li>Microsoft Excel (\*.xls)</li><li>Microsoft IIS (\*.htx, \*.idc)</li><li>MS-DOS Text (\*.txt)</li><li>Rich Text Format (\*.rtf)</li></ul>.<br/>Modules can be output only to MS-DOS text format. Microsoft Internet Information Server and Microsoft Active Server formats are available only for tables, queries, and forms.|
 | _EditNow_|Required|**Boolean**|**True** opens the document in Design view, and **False** stores the new document in the specified database directory. The default is **True**.|
 | _Overwrite_|Required|**Boolean**|**True** overwrites an existing document if the _FileName_ argument identifies an existing document, and **False** requires that the _FileName_ argument specify a new file name. The default is **False**.|
 

@@ -27,10 +27,10 @@ Zooms to display a rectangular section, specified by the parameters, of the draw
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-|Left|Required| **Long**|The x-coordinate of the top left corner of the rectangle to zoom to.|
-|Top|Required| **Long**|The y-coordinate of the top left corner of the rectangle to zoom to.|
-|Right|Required| **Long**|The x-coordinate of the bottom right corner of the rectangle to zoom to.|
-|Bottom|Required| **Long**|The y-coordinate of the bottom right corner of the rectangle to zoom to.|
+|Left|Required| **Long**|The x-coordinate of the top-left corner of the rectangle to zoom to.|
+|Top|Required| **Long**|The y-coordinate of the top-left corner of the rectangle to zoom to.|
+|Right|Required| **Long**|The x-coordinate of the bottom-right corner of the rectangle to zoom to.|
+|Bottom|Required| **Long**|The y-coordinate of the bottom-right corner of the rectangle to zoom to.|
 
 ## Return value
 
@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-The coordinate system for the  **ZoomToRect** method has its origin at the top left corner of the Visio Viewer window. Positive directions are to the right (x) and down (y). The units of measurement are pixels.
+The coordinate system for the  **ZoomToRect** method has its origin at the top-left corner of the Visio Viewer window. Positive directions are to the right (x) and down (y). The units of measurement are pixels.
 
 The  **ZoomToRect** method, in effect, crops a rectangular section of the drawing, specified by the parameters, and then displays that section in the entire Visio Viewer window. The parameters are a set of two pairs of coordinates, the first pair specifying the upper-left corner of the section, and the second pair the lower-right corner.
 

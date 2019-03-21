@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Image.Layout property (Access)
 
-Returns the type of layout for the specified image. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
+Returns the type of layout for the specified image control. Read-only **[AcLayoutType](Access.AcLayoutType.md)**.
 
 
 ## Syntax

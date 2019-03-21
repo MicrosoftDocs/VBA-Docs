@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Label.Hyperlink property (Access)
 
-You can use the **Hyperlink** property to return a reference to a **Hyperlink** object and to access the properties and methods of a control's hyperlink. Read-only.
+You can use the **Hyperlink** property to return a reference to a **[Hyperlink](access.hyperlink.md)** object and to access the properties and methods of a control's hyperlink. Read-only.
 
 
 ## Syntax
