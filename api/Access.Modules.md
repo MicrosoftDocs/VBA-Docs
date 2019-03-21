@@ -21,7 +21,7 @@ The **Modules** collection contains all open standard modules and class modules 
 
 All open modules are included in the **Modules** collection, whether they are uncompiled, compiled, or in break mode, or contain the code that's running.
 
-To determine whether an individual **Module** object represents a standard module or a class module, check the **Module** object's **Type** property.
+To determine whether an individual **[Module](Access.Module.md)** object represents a standard module or a class module, check the **Module** object's **Type** property.
 
 The **Modules** collection belongs to the Microsoft Access **Application** object.
 

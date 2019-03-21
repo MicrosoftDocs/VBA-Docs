@@ -25,7 +25,7 @@ For example, you may want to display your company logo on every form that you cr
 
 Use the **[Resources](Access.CodeProject.Resources.md)** property of the **CodeProject** object or the **[Resources](Access.CurrentProject.Resources.md)** property of the **CurrentProject** object to enumerate the **SharedResources** collection.
 
-To import an image as a **SharedResource** object, use the **[AddSharedImage](Access.CodeProject.AddSharedImage.md)** method of the **CodeProject** object or the **[AddSharedImage](Access.CurrentProject.AddSharedImage.md)** method of the **CurrentProject** object.
+To import an image as a **[SharedResource](Access.SharedResource.md)** object, use the **[AddSharedImage](Access.CodeProject.AddSharedImage.md)** method of the **CodeProject** object or the **[AddSharedImage](Access.CurrentProject.AddSharedImage.md)** method of the **CurrentProject** object.
 
 
 ## Properties

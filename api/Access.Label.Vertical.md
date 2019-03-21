@@ -37,8 +37,7 @@ You can specify how vertical text will be displayed, edited, or printed in the c
 
 If using full pitch characters, the display and print directions are the same as the control for horizontal text. If using half pitch characters, it shifts 90 degrees to the right. The cursor is also rotated 90 degrees to the right in a vertical text control.
 
-> [!NOTE] 
-> Text selection using key combinations is different for vertical text control and horizontal text control. Key combinations and their effect on range selection are described in the following table.
+Text selection using key combinations is different for vertical text control and horizontal text control. Key combinations and their effect on range selection are described in the following table.
 
 |Key combination|Vertical text control|Horizontal text control|
 |:--------------|:--------------------|:----------------------|

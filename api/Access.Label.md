@@ -19,16 +19,15 @@ This object corresponds to a label control. Labels on a form or report display d
 
 ## Remarks
 
+|Control|Tool|
+|:------|:---|
+|![Label control](../images/t-label_ZA06053967.gif)|![Label tool](../images/label_ZA06044394.gif)|
+
 Labels have certain characteristics:
 
 - Labels don't display values from fields or expressions.
 - Labels are always unbound.
 - Labels don't change as you move from record to record.
-    
-
-|Control|Tool|
-|:------|:---|
-|![Label control](../images/t-label_ZA06053967.gif)|![Label tool](../images/label_ZA06044394.gif)|
 
 A label can be attached to another control. When you create a text box, for example, it has an attached label that displays a caption for that text box. This label appears as a column heading in the Datasheet view of a form.
 
