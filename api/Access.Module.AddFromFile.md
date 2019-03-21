@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Module.AddFromFile
 ms.assetid: a782b4dc-a4be-5166-3ce3-deb87ed1195b
-ms.date: 06/08/2017
+ms.date: 03/22/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,12 @@ The **AddFromFile** method adds the contents of a text file to a **Module** obje
 
 ## Syntax
 
-_expression_. `AddFromFile`( `_Filename_` )
+_expression_.**AddFromFile** (_FileName_)
 
 _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -38,13 +36,12 @@ The **AddFromFile** method places the contents of the specified text file immedi
 
 The **AddFromFile** method enables you to import code or comments stored in a text file.
 
-In order to add the contents of a file to a form or report module, the form or report must be open in form Design view or report Design view. In order to add the contents of a file to a standard module or class module, the module must be open.
+To add the contents of a file to a form or report module, the form or report must be open in form Design view or report Design view. To add the contents of a file to a standard module or class module, the module must be open.
 
 
 ## Example
 
 The following example places the contents of the file "ShippingRoutines.bas" into the module "CalculateShipping" immediately after the Declarations section, but before the first procedure in the module.
-
 
 ```vb
 Modules("CalculateShipping").AddFromFile "C:\Shipping\ShippingRoutines.bas" 
@@ -52,9 +49,5 @@ Modules("CalculateShipping").AddFromFile "C:\Shipping\ShippingRoutines.bas"
 ```
 
 
-## See also
-
-
-[Module Object](Access.Module.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
