@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.TabControl
 ms.assetid: 05f7de7b-8665-df6d-3fbb-47f8547d3baf
-ms.date: 06/08/2017
+ms.date: 03/21/2019
 localization_priority: Normal
 ---
 
 
 # TabControl object (Access)
 
-A tab control contains multiple pages on which you can place other controls, such as text boxes or option buttons. When a user clicks the corresponding tab, that page becomes active.
+A tab control contains multiple pages on which you can place other controls, such as text boxes or option buttons. When a user chooses the corresponding tab, that page becomes active.
 
 
 ## Remarks
 
-With the tab control, you can construct a single form or dialog box that contains several different tabs, and you can group similar options or data on each tab's page. For example, you might use a tab control on an Employees form to separate general and personal information.
+With the tab control, you can construct a single form or dialog box that contains several different tabs, and you can group similar options or data on each tab's page. For example, you might use a tab control on an **Employees** form to separate general and personal information.
 
 
 ## Events

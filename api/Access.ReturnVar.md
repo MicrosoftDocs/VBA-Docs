@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ReturnVar
 ms.assetid: 8ad5254d-a249-46ba-ac5d-14943179ce05
-ms.date: 06/08/2017
+ms.date: 03/21/2019
 localization_priority: Normal
 ---
 
@@ -23,17 +23,11 @@ A **ReturnVar** object provides a convenient way to use values set in a Data Mac
 
 Although a **ReturnVar** object can be used to store information for use in VBA procedures, it does not have the same functionality as a VBA variable.
 
-
-- By default, a **ReturnVar** object remains in memory until the next time that the **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** method is used.
+By default, a **ReturnVar** object remains in memory until the next time the **[RunDataMacro](Access.DoCmd.RunDataMacro.md)** method is used.
     
-    Use the Value property of the ReturnVar
+A **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
     
-- A **ReturnVar** object can store only text or numeric data. **ReturnVar** objects cannot store objects.
-    
-To refer to a TempVar object in a collection by its ordinal number or by its Name property setting, use the following syntax form:
-
-
-
+To refer to a **TempVar** object in a collection by its ordinal number or by its **Name** property setting, use the following syntax form.
 
 ```vb
 ReturnVars![name] 
@@ -43,16 +37,11 @@ ReturnVars![name]
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Name](Access.ReturnVar.Name.md)|
-|[Value](Access.ReturnVar.Value.md)|
+- [Name](Access.ReturnVar.Name.md)
+- [Value](Access.ReturnVar.Value.md)
 
 ## See also
 
-
-[Access Object Model Reference](overview/Access/object-model.md)
+- [Access Object Model Reference](overview/Access/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
