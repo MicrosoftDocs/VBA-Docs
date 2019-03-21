@@ -27,7 +27,7 @@ If you want to refer to a specific form in the **Forms** collection, it's better
 |**AllForms**!_formname_|`AllForms!OrderForm`|
 |**AllForms**![_form name_]|`AllForms![Order Form]`|
 |**AllForms**("_formname_")|`AllForms("OrderForm")`|
-|**AllForms**(_formname_)|`AllForms(0)`|
+|**AllForms**(_index_)|`AllForms(0)`|
 
 Each **Form** object has a **Controls** collection, which contains all controls on the form. You can refer to a control on a form either by implicitly or explicitly referring to the **Controls** collection. Your code will be faster if you refer to the **Controls** collection implicitly. The following examples show two of the ways you might refer to a control named **NewData** on the form called **OrderForm**.
 

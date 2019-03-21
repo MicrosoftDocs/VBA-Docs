@@ -39,10 +39,10 @@ For example, an **AccessObject** object representing a form is a member of the *
 
 |Syntax|Example|
 |:-----|:-----|
-|**AllForms** !_formname_|AllForms!OrderForm|
-|**AllForms** ![_form name_]|AllForms![Order Form]|
-|**AllForms** ("_formname_")|AllForms("OrderForm")|
-|**AllForms** (_formname_)|AllForms(0)|
+|**AllForms**!_formname_|AllForms!OrderForm|
+|**AllForms**![_form name_]|AllForms![Order Form]|
+|**AllForms**("_formname_")|AllForms("OrderForm")|
+|**AllForms**(_index_)|AllForms(0)|
 
 ## Methods
 

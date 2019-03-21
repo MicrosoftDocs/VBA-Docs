@@ -41,10 +41,10 @@ For example, an **AccessObject** representing a table is a member of the **AllTa
 
 |Syntax|Example|
 |:-----|:-----|
-|**AllTables** !_tablename_|AllTables!OrderTable|
-|**AllTables** ![_table name_]|AllTables![Order Table]|
-|**AllTables** ("_tablename_")|AllTables("OrderTable")|
-|**AllTables** (_index_)|AllTables(0)|
+|**AllTables**!_tablename_|AllTables!OrderTable|
+|**AllTables**![_table name_]|AllTables![Order Table]|
+|**AllTables**("_tablename_")|AllTables("OrderTable")|
+|**AllTables**(_index_)|AllTables(0)|
 
 ## Properties
 
