@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.NavigationControl.SelectedTab
 ms.assetid: 8e6da4b2-eada-51db-b198-da8213c647ac
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # NavigationControl.SelectedTab property (Access)
 
-Gets the active tab of the navigation control. Read-only  **[NavigationButton](Access.NavigationButton.md)**.
+Gets the active tab of the navigation control. Read-only **[NavigationButton](Access.NavigationButton.md)**.
 
 
 ## Syntax
 
-_expression_. `SelectedTab`
+_expression_.**SelectedTab**
 
 _expression_ A variable that represents a **[NavigationControl](Access.NavigationControl.md)** object.
 
 
-## See also
 
-
-[NavigationControl Object](Access.NavigationControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
