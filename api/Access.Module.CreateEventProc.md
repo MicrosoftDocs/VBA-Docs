@@ -7,31 +7,29 @@ ms.prod: access
 api_name:
 - Access.Module.CreateEventProc
 ms.assetid: 13d2a4db-ec80-4225-f3fd-87527dbf660e
-ms.date: 06/08/2017
+ms.date: 03/22/2019
 localization_priority: Normal
 ---
 
 
 # Module.CreateEventProc method (Access)
 
-The  **CreateEventProc** method creates an event procedure in a class module.
+The **CreateEventProc** method creates an event procedure in a class module.
 
 
 ## Syntax
 
-_expression_. `CreateEventProc`( `_EventName_`, `_ObjectName_` )
+_expression_.**CreateEventProc** (_EventName_, _ObjectName_)
 
 _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventName_|Required|**String**|The name of an event.|
-| _ObjectName_|Required|**String**|An object that has the event specified by the  _eventname_ argument. If the event procedure is being added to a **[Form](Access.Form.md)**, the word "Form" should be specified for this argument. If the event procedure is being added to a **[Report](Access.Report.md)**, the word "Report" should be specified for this argument. If the event procedure is being added to a **[Control](Access.Control.md)**, the name of the control should be specified for this argument.|
+| _ObjectName_|Required|**String**|An object that has the event specified by the _EventName_ argument.<br/><br/>If the event procedure is being added to a **[Form](Access.Form.md)**, the word "Form" should be specified for this argument. If the event procedure is being added to a **[Report](Access.Report.md)**, the word "Report" should be specified for this argument. If the event procedure is being added to a **[Control](Access.Control.md)**, the name of the control should be specified for this argument.|
 
 ## Return value
 
@@ -40,17 +38,16 @@ Long
 
 ## Remarks
 
-The value returned by the  **CreateEventProc** method indicates the line number of the first line of the event procedure.
+The value returned by the **CreateEventProc** method indicates the line number of the first line of the event procedure.
 
-The  **CreateEventProc** method creates a code stub for an event procedure for the specified object. For example, you can use this method to create a Click event procedure for a command button on a form. Microsoft Access creates the Click event procedure in the module associated with the form that contains the command button.
+The **CreateEventProc** method creates a code stub for an event procedure for the specified object. For example, you can use this method to create a **Click** event procedure for a command button on a form. Microsoft Access creates the **Click** event procedure in the module associated with the form that contains the command button.
 
-Once you've created the event procedure code stub by using the  **CreateEventProc** method, you can add lines of code to the procedure by using other methods of the **Module** object. For example, you can use the **[InsertLines](Access.Module.InsertLines.md)** method to insert a line of code.
+After you've created the event procedure code stub by using the **CreateEventProc** method, you can add lines of code to the procedure by using other methods of the **Module** object. For example, you can use the **[InsertLines](Access.Module.InsertLines.md)** method to insert a line of code.
 
 
 ## Example
 
-The following example creates a new form, adds a command button, and creates a Click event procedure for the command button:
-
+The following example creates a new form, adds a command button, and creates a **Click** event procedure for the command button.
 
 ```vb
 Function ClickEventProc() As Boolean 
@@ -83,9 +80,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Module Object](Access.Module.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

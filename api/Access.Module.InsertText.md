@@ -7,26 +7,24 @@ ms.prod: access
 api_name:
 - Access.Module.InsertText
 ms.assetid: 105c77fe-29a3-ef93-3d01-8420f7725325
-ms.date: 06/08/2017
+ms.date: 03/22/2019
 localization_priority: Normal
 ---
 
 
 # Module.InsertText method (Access)
 
-The  **InsertText** method inserts a specified string of text into a standard module or a class module.
+The **InsertText** method inserts a specified string of text into a standard module or a class module.
 
 
 ## Syntax
 
-_expression_. `InsertText`( `_Text_` )
+_expression_.**InsertText** (_Text_)
 
 _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -39,22 +37,19 @@ Nothing
 
 ## Remarks
 
-When you insert a string by using the  **InsertText** method, Microsoft Access places the new text at the end of the module, after all other procedures.
+When you insert a string by using the **InsertText** method, Microsoft Access places the new text at the end of the module, after all other procedures.
 
-To add multiple lines, include the intrinsic constant **vbCrLf** at the desired line breaks within the string that makes up the _text_ argument. This constant forces a carriage return and line feed.
+To add multiple lines, include the intrinsic constant **vbCrLf** at the desired line breaks within the string that makes up the _Text_ argument. This constant forces a carriage return and line feed.
 
-To specify at which line the text is inserted, use the  **[InsertLines](Access.Module.InsertLines.md)** method. To insert code into the Declarations section of the module, use the **InsertLines** method rather than the **InsertText** method.
+To specify at which line the text is inserted, use the **[InsertLines](Access.Module.InsertLines.md)** method. To insert code into the Declarations section of the module, use the **InsertLines** method rather than the **InsertText** method.
 
-
-
-
- **Note**  In previous versions of Microsoft Access, the  **InsertText** method was a method of the **[Application](Access.Application.md)** object. You can still use the **InsertText** method of the **Application** object, but it's recommended that you use the **InsertText** method of the **Module** object instead.
+> [!NOTE] 
+> In previous versions of Microsoft Access, the **InsertText** method was a method of the **[Application](Access.Application.md)** object. You can still use the **InsertText** method of the **Application** object, but we recommend that you use the **InsertText** method of the **Module** object instead.
 
 
 ## Example
 
-The following example inserts a string of text into a standard module:
-
+The following example inserts a string of text into a standard module.
 
 ```vb
 Function InsertProc(strModuleName) As Boolean 
@@ -84,9 +79,6 @@ End Function
 ```
 
 
-## See also
 
-
-[Module Object](Access.Module.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

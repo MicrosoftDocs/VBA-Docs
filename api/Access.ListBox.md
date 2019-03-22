@@ -19,11 +19,11 @@ This object corresponds to a list box control. The list box control displays a l
 
 ## Remarks
 
-In many cases, it's quicker and easier to select a value from a list than to remember a value to type. A list of choices also helps ensure that the value that's entered in a field is correct.
-
 |Control|Tool|
 |:-----|:-----|
 |![List box control](../images/t-lstbox_ZA06053984.gif)|![List box tool](../images/listbox_ZA06044481.gif)|
+
+In many cases, it's quicker and easier to select a value from a list than to remember a value to type. A list of choices also helps ensure that the value that's entered in a field is correct.
 
 > [!NOTE] 
 > The list in a list box consists of rows of data. Rows can have one or more columns, which can appear with or without headings.

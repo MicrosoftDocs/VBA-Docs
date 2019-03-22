@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowse
 
 ## Example
 
-The CreateHyperlink procedure in the following example sets the hyperlink properties for a command button, label, or image control to the address and subaddress values passed to the procedure. The address setting is an optional argument, because a hyperlink to an object in the current database uses only the subaddress setting.
+The **CreateHyperlink** procedure in the following example sets the hyperlink properties for a command button, label, or image control to the address and subaddress values passed to the procedure. The address setting is an optional argument, because a hyperlink to an object in the current database uses only the subaddress setting.
 
 To try this example, create a form with two text box controls (**txtAddress** and **txtSubAddress**) and a command button (**cmdFollowLink**), and paste the following into the Declarations section of the form's module.
 

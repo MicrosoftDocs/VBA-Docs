@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.Module.CountOfLines
 ms.assetid: 6c3bb4c8-15a9-6365-155d-d28dc0c5de78
-ms.date: 06/08/2017
+ms.date: 03/22/2019
 localization_priority: Normal
 ---
 
 
 # Module.CountOfLines property (Access)
 
-The  **CountOfLines** property returns a **Long** value indicating the number of lines of code in a standard module or class module. Read-only **Long**.
+The **CountOfLines** property returns a **Long** value indicating the number of lines of code in a standard module or class module. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `CountOfLines`
+_expression_.**CountOfLines**
 
 _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
@@ -28,12 +28,12 @@ _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 Lines in a module are numbered beginning with 1.
 
-The line number of the last line in a module is the value of the  **CountOfLines** property.
+The line number of the last line in a module is the value of the **CountOfLines** property.
 
 
 ## Example
 
-The following example counts the number of lines and declaration lines in each standard module in the  **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
+The following example counts the number of lines and declaration lines in each standard module in the **Modules** collection. Note that the **Modules** collection contains only modules that are open in the module editor.
 
 
 ```vb
@@ -58,9 +58,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Module Object](Access.Module.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

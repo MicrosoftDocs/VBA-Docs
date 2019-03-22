@@ -7,57 +7,54 @@ ms.prod: access
 api_name:
 - Access.Module.ProcOfLine
 ms.assetid: 64a21820-923d-a816-6b6e-2a679d0e09ac
-ms.date: 06/08/2017
+ms.date: 03/22/2019
 localization_priority: Normal
 ---
 
 
 # Module.ProcOfLine property (Access)
 
-The  **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
+The **ProcOfLine** property returns the name of the procedure that contains a specified line in a standard module or a class module. Read-only string.
 
 
 ## Syntax
 
-_expression_. `ProcOfLine`( `_Line_`, `_pprockind_` )
+_expression_.**ProcOfLine** (_Line_, _ProcKind_)
 
 _expression_ A variable that represents a **[Module](Access.Module.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Line_|Required|**Long**|The number of a line in the module.|
-| _pprockind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|
+| _ProcKind_|Required|**vbext_ProcKind**|The type of procedure. See the Remarks section for the possible settings.|
 
 ## Remarks
 
-The  _ProcKind_ argument can be one of the following **vbext_ProcKind** constants:
-
-
+The _ProcKind_ argument can be one of the following **vbext_ProcKind** constants:
 
 |Constant|Description|
 |:-----|:-----|
-|**vbext_pk_Get**|A  **Property Get** procedure.|
-|**vbext_pk_Let**|A  **Property Let** procedure.|
-|**vbext_pk_Proc**|A  **Sub** or **Function** procedure.|
-|**vbext_pk_Set**|A  **Property Set** procedure.|
+|**vbext_pk_Get**|A **Property Get** procedure.|
+|**vbext_pk_Let**|A **Property Let** procedure.|
+|**vbext_pk_Proc**|A **Sub** or **Function** procedure.|
+|**vbext_pk_Set**|A **Property Set** procedure.|
 
-For any given line number, the  **ProcOfLine** property returns the name of the procedure that contains that line. Since comments and compilation constants immediately preceding a procedure definition are considered part of that procedure, the **ProcOfLine** property may return the name of a procedure for a line that isn't within the body of the procedure. The **[ProcStartLine](Access.Module.ProcStartLine.md)** property indicates the line on which a procedure begins; the **[ProcBodyLine](Access.Module.ProcBodyLine.md)** property indicates the line on which the procedure definition begins (the body of the procedure).
+For any given line number, the **ProcOfLine** property returns the name of the procedure that contains that line. Because comments and compilation constants immediately preceding a procedure definition are considered part of that procedure, the **ProcOfLine** property may return the name of a procedure for a line that isn't within the body of the procedure.
 
-Note that the  _pprockind_ argument indicates whether the line belongs to a **Sub** or **Function** procedure, a **Property Get** procedure, a **Property Let** procedure, or a **Property Set** procedure. To determine what type of procedure a line is in, pass a variable of type **Long** to the **ProcOfLine** property, then check the value of that variable.
+The **[ProcStartLine](Access.Module.ProcStartLine.md)** property indicates the line on which a procedure begins; the **[ProcBodyLine](Access.Module.ProcBodyLine.md)** property indicates the line on which the procedure definition begins (the body of the procedure).
 
+Note that the _ProcKind_ argument indicates whether the line belongs to a **Sub** or **Function** procedure, a **Property Get** procedure, a **Property Let** procedure, or a **Property Set** procedure. To determine what type of procedure a line is in, pass a variable of type **Long** to the **ProcOfLine** property, and then check the value of that variable.
 
- **Note**  The  **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of **Property** procedure.
+> [!NOTE] 
+> The **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
 
 
 ## Example
 
-The following function procedure lists the names of all procedures in a specified module:
-
+The following function procedure lists the names of all procedures in a specified module.
 
 ```vb
 Public Function AllProcs(ByVal strModuleName As String) 
@@ -120,9 +117,5 @@ End Function
 ```
 
 
-## See also
-
-
-[Module Object](Access.Module.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
