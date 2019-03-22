@@ -7,26 +7,24 @@ ms.prod: access
 api_name:
 - Access.References.ItemAdded
 ms.assetid: c84b2bd3-42ce-be34-8a5c-ad3cdf1c3f63
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # References.ItemAdded event (Access)
 
-The  **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
+The **ItemAdded** event occurs when a reference is added to the project from Visual Basic.
 
 
 ## Syntax
 
-_expression_. `ItemAdded`( `_Reference_`, )
+_expression_.**ItemAdded** (_Reference_)
 
 _expression_ A variable that represents a **[References](Access.References.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -34,18 +32,16 @@ _expression_ A variable that represents a **[References](Access.References.md)**
 
 ## Remarks
 
-
-- The  **ItemAdded** event applies to the **[References](Access.References.md)** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, in order to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
+The **ItemAdded** event applies to the **References** collection. It isn't associated with a control, form, or report, as are most other events. Therefore, to create a procedure definition for the **ItemAdded** event procedure, you must use a special syntax.
     
-- The  **ItemAdded** event can run only an event procedure when it occurs, it cannot run a macro.
+The **ItemAdded** event can run only an event procedure when it occurs; it cannot run a macro.
     
-This event occurs only when you add a reference from code. It doesn't occur when you add a reference from the  **References** dialog box, available by clicking **References** on the **Tools** menu when the Module window is the active window.
+This event occurs only when you add a reference from code. It doesn't occur when you add a reference from the **References** dialog box, available by choosing **References** on the **Tools** menu when the Module window is the active window.
 
 
 ## Example
 
-The following example includes event procedures for the  **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by clicking **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents:
-
+The following example includes event procedures for the **ItemAdded** and **ItemRemoved** events. To try this example, first create a new class module by choosing **Class Module** on the **Insert** menu. Paste the following code into the class module and save the module as RefEvents.
 
 ```vb
 ' Declare object variable to represent References collection. 
@@ -75,10 +71,9 @@ Private Sub evtReferences_ItemRemoved(ByVal Reference As _
 End Sub
 ```
 
-The following Function procedure adds a specified reference. When a reference is added, the ItemAdded event procedure defined in the RefEvents class runs.
+<br/>
 
-
-
+The following **Function** procedure adds a specified reference. When a reference is added, the **ItemAdded** event procedure defined in the **RefEvents** class runs.
 
 ```vb
 ' Create new instance of RefEvents class. 
@@ -104,9 +99,6 @@ End Function
 ```
 
 
-## See also
 
-
-[References Collection](Access.References.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

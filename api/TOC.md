@@ -3088,7 +3088,7 @@
 ###### [BuiltIn](Access.Reference.BuiltIn.md)
 ###### [Collection](Access.Reference.Collection.md)
 ###### [FullPath](Access.Reference.FullPath.md)
-###### [Guid](Access.Reference.Guid.md)
+###### [GUID](Access.Reference.Guid.md)
 ###### [IsBroken](Access.Reference.IsBroken.md)
 ###### [Kind](Access.Reference.Kind.md)
 ###### [Major](Access.Reference.Major.md)
@@ -3100,7 +3100,7 @@
 ###### [ItemRemoved](Access.References.ItemRemoved.md)
 ##### Methods
 ###### [AddFromFile](Access.References.AddFromFile.md)
-###### [AddFromGuid](Access.References.AddFromGuid.md)
+###### [AddFromGUID](Access.References.AddFromGuid.md)
 ###### [Item](Access.References.Item.md)
 ###### [Remove](Access.References.Remove.md)
 ##### Properties
