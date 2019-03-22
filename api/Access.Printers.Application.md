@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Printers.Application
 ms.assetid: 45fdff4e-6408-17c1-e24d-a4a20c9f472a
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 

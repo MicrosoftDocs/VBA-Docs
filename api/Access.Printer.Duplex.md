@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.Duplex
 ms.assetid: 9b683f3c-5971-b60c-8482-833b6521c40d
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # Printer.Duplex property (Access)
 
-Returns or sets an  **[AcPrintDuplex](Access.AcPrintDuplex.md)** constant indicating how the specified printer handles duplex printing. Read/write.
+Returns or sets an **[AcPrintDuplex](Access.AcPrintDuplex.md)** constant indicating how the specified printer handles duplex printing. Read/write.
 
 
 ## Syntax
 
-_expression_. `Duplex`
+_expression_.**Duplex**
 
 _expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -70,9 +69,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Printer Object](Access.Printer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

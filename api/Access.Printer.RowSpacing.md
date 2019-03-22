@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.RowSpacing
 ms.assetid: 78d6a87d-53ae-9c35-3ca6-3b66cb162ecf
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # Printer.RowSpacing property (Access)
 
-Returns or sets a  **Long** indicating the horizontal space between detail sections in twips. Read/write.
+Returns or sets a **Long** indicating the horizontal space between detail sections in [twips](../language/glossary/vbe-glossary.md#twip). Read/write.
 
 
 ## Syntax
 
-_expression_. `RowSpacing`
+_expression_.**RowSpacing**
 
 _expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -70,9 +69,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Printer Object](Access.Printer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

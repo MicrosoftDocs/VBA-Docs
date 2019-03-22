@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.Action
 ms.assetid: 042d3418-fe67-c4cc-60b1-dc3b373b8d4f
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
@@ -28,12 +28,10 @@ _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md
 
 The **Action** property uses the following settings.
 
-
-
 |Constant|Description|
 |:-----|:-----|
-|**acOLECreateEmbed** (0)|Creates an embedded object. To use this setting, you must first set the control's **OLETypeAllowed** property to **acOLEEmbedded** or **acOLEEither**. Set the **Class** property to the type of OLE object you want to create. You can use the **SourceDoc** property to use an existing file as a template.|
-|**acOLECreateLink** (1)|Creates a linked OLE object from the contents of a file. To use this setting, you must first set the control's **OLETypeAllowed** and **SourceDoc** properties. Set the **OLETypeAllowed** property to **acOLELinked** or **acOLEEither**. The **SourceDoc** property specifies the file used to create the OLE object. You can also set the control's **SourceItem** property (for example, to specify a row-and-column range if the object you are creating is a Microsoft Excel worksheet). When you create an OLE object by using this setting, the control displays a metafile graphic image of the file specified by the control's **SourceDoc** property. If you save the OLE object, only the link information, such as the name of the application that supplied the object and the name of the linked file, is saved because the control contains an image of the data but no source data.|
+|**acOLECreateEmbed** (0)|Creates an embedded object. To use this setting, you must first set the control's **OLETypeAllowed** property to **acOLEEmbedded** or **acOLEEither**. Set the **Class** property to the type of OLE object that you want to create. You can use the **SourceDoc** property to use an existing file as a template.|
+|**acOLECreateLink** (1)|Creates a linked OLE object from the contents of a file. To use this setting, you must first set the control's **OLETypeAllowed** and **SourceDoc** properties.<br/><br/>Set the **OLETypeAllowed** property to **acOLELinked** or **acOLEEither**. The **SourceDoc** property specifies the file used to create the OLE object.<br/><br/>You can also set the control's **SourceItem** property (for example, to specify a row-and-column range if the object that you are creating is a Microsoft Excel worksheet). When you create an OLE object by using this setting, the control displays a metafile graphic image of the file specified by the control's **SourceDoc** property. If you save the OLE object, only the link information, such as the name of the application that supplied the object and the name of the linked file, is saved because the control contains an image of the data but no source data.|
 |**acOLECopy** (4)|Copies the object to the Clipboard. When you copy an OLE object to the Clipboard, all the data and link information associated with the object is placed on the Clipboard as well. You can copy both linked and embedded objects onto the Clipboard. |
 |**acOLEPaste** (5)|Pastes data from the Clipboard to the control. If the paste operation is successful, the control's **OLEType** property is set to **acOLELinked** or **acOLEEmbedded**. If the paste operation isn't successful, the **OLEType** property is set to **acOLENone**.|
 |**acOLEUpdate** (6)|Retrieves the current data from the application that supplied the object and displays that data as a metafile graphic in the control.|
@@ -48,9 +46,7 @@ The **Action** property isn't available in Design view but can be read or set in
 
 When a control's **Enabled** property is set to No or its **Locked** property is set to Yes, you can't use some **Action** property settings. The following table indicates which settings are allowed or not allowed under these conditions.
 
-
-
-|**Setting**|**Enabled = No**|**Locked = Yes**|
+|Setting|Enabled = No|Locked = Yes|
 |:-----|:-----|:-----|
 |**acOLECreateEmbed** (0)|Not allowed|Not allowed|
 |**acOLECreateLink** (1)|Not allowed|Not allowed|
@@ -64,9 +60,6 @@ When a control's **Enabled** property is set to No or its **Locked** property is
 |**acOLEPasteSpecialDlg** (15)|Not allowed|Not allowed|
 |**acOLEFetchVerbs** (17)|Not allowed|Allowed|
 
-## See also
 
-
-[ObjectFrame Object](Access.ObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

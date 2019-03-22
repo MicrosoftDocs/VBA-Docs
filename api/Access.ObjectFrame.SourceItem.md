@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.SourceItem
 ms.assetid: 86cb94a8-9c13-0b07-58c2-1b78849061c9
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # ObjectFrame.SourceItem property (Access)
 
-You can use the  **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
+You can use the **SourceItem** property to specify the data within a file to be linked when you create a linked OLE object. Read/write **String**.
 
 
 ## Syntax
@@ -26,18 +26,17 @@ _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md
 
 ## Remarks
 
-You can set the  **SourceItem** property by specifying data in units recognized by the application supplying the object. For example, when you link to Microsoft Excel, you specify the **SourceItem** property setting by using a cell or cell-range reference such as R1C1 or R3C4:R9C22 or a named range such as Revenues.
+You can set the **SourceItem** property by specifying data in units recognized by the application supplying the object. For example, when you link to Microsoft Excel, you specify the **SourceItem** property setting by using a cell or cell-range reference such as R1C1 or R3C4:R9C22 or a named range such as Revenues.
 
+> [!NOTE] 
+> To determine the syntax to describe a unit of data for a particular object, see the documentation for the application that was used to create the object.
 
- **Note**  To determine the syntax to describe a unit of data for a particular object, see the documentation for the application that was used to create the object.
-
-The control's  **OLETypeAllowed** property must be set to Linked or Either when you use this property. Use the control's **SourceDoc** property to specify the file to link.
+The control's **OLETypeAllowed** property must be set to Linked or Either when you use this property. Use the control's **SourceDoc** property to specify the file to link.
 
 
 ## Example
 
-The following example creates a linked OLE object using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user clicks a command button.
-
+The following example creates a linked OLE object by using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user chooses a command button.
 
 ```vb
 Sub Command1_Click 
@@ -55,10 +54,5 @@ Sub Command1_Click
 End Sub
 ```
 
-
-## See also
-
-
-[ObjectFrame Object](Access.ObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

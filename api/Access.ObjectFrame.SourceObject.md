@@ -7,33 +7,30 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.SourceObject
 ms.assetid: 985c8b01-84d8-2da6-6cad-5de08d835434
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # ObjectFrame.SourceObject property (Access)
 
-You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only  **String**.
+You can use this property for linked unbound object frames to determine the complete path and file name of the file that contains the data linked to the object frame. Read-only **String**.
 
 
 ## Syntax
 
-_expression_. `SourceObject`
+_expression_.**SourceObject**
 
 _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md)** object.
 
 
 ## Remarks
 
-For unbound object frames, the  **SourceObject** property is set automatically when you use the **SourceObject** command on the **Insert** menu to insert a linked OLE object.
+For unbound object frames, the **SourceObject** property is set automatically when you use the **SourceObject** command on the **Insert** menu to insert a linked OLE object.
 
-For linked unbound object frames, the  **SourceObject** property can't be set in any view.
-
-
-## See also
+For linked unbound object frames, the **SourceObject** property can't be set in any view.
 
 
-[ObjectFrame Object](Access.ObjectFrame.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

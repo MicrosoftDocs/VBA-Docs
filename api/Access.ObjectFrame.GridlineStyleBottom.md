@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.GridlineStyleBottom property (Access)
 
-Gets or sets the bottom gridline style of the specified frame. Read/write **Byte**.
+Gets or sets the bottom gridline style of the specified object frame. Read/write **Byte**.
 
 ## Syntax
 

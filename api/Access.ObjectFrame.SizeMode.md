@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.SizeMode
 ms.assetid: 2aaa2f95-7982-a585-1a9f-a6ed191be79e
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # ObjectFrame.SizeMode property (Access)
 
-You can use the  **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
+You can use the **SizeMode** property to specify how to size a picture or other object in a bound object frame, an unbound object frame, or an image control.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md
 
 ## Remarks
 
-The  **SizeMode** property uses the following settings.
-
-
+The **SizeMode** property uses the following settings.
 
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
@@ -41,8 +39,7 @@ Use the Clip setting for the fastest display. You can use the Stretch setting fo
 
 ## Example
 
-The following example creates a linked OLE object using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user clicks a command button.
-
+The following example creates a linked OLE object by using an unbound object frame named **OLE1**, and sizes the control to display the object's entire contents when the user chooses a command button.
 
 ```vb
 Sub Command1_Click 
@@ -61,9 +58,5 @@ End Sub
 ```
 
 
-## See also
-
-
-[ObjectFrame Object](Access.ObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
