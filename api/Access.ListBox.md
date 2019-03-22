@@ -25,10 +25,9 @@ This object corresponds to a list box control. The list box control displays a l
 
 In many cases, it's quicker and easier to select a value from a list than to remember a value to type. A list of choices also helps ensure that the value that's entered in a field is correct.
 
-> [!NOTE] 
-> The list in a list box consists of rows of data. Rows can have one or more columns, which can appear with or without headings.
-> 
-> ![Multi-column list box](../images/cfrmlst2_ZA06047456.gif)
+The list in a list box consists of rows of data. Rows can have one or more columns, which can appear with or without headings, as shown in the following diagram.
+
+![Multi-column list box](../images/cfrmlst2_ZA06047456.gif)
 
 If a multiple-column list box is bound, Microsoft Access stores the values from one of the columns.
 

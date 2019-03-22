@@ -59,7 +59,7 @@ The **ProcStartLine** and **ProcBodyLine** properties can have the same value if
 It may be easier to determine where a procedure begins if you have the **Procedure Separator** option selected. With this option selected, there is a line between the end of a procedure and the beginning of the next procedure. The first line of code (or blank line) below the procedure separator is the first line of the following procedure, which is the line returned by the **ProcStartLine** property. The **Procedure Separator** option is located on the **Editor** tab of the **Options** dialog box, available by choosing **Options** on the **Tools** menu.
 
 > [!NOTE] 
-> The **ProcCountLines** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
+> The **ProcStartLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
 
 
 ## Example
