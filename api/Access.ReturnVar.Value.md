@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ReturnVar.Value property (Access)
 
-Gets the value of the specified **[ReturnVar](Access.ReturnVar.md)**. Read-only **Variant**.
+Gets the value of the specified **ReturnVar** object. Read-only **Variant**.
 
 
 ## Syntax

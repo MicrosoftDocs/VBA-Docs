@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ObjectFrame.OLEType
 ms.assetid: eb9a08ba-8fc6-247d-14c3-0791a0461f0c
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # ObjectFrame.OLEType property (Access)
 
-You can use the  **OLEType** property to determine if a control contains an OLE object, and, if so, whether the object is linked or embedded. Read/write **Byte**.
+You can use the **OLEType** property to determine if a control contains an OLE object, and, if so, whether the object is linked or embedded. Read/write **Byte**.
 
 
 ## Syntax
@@ -26,9 +26,7 @@ _expression_ A variable that represents an **[ObjectFrame](Access.ObjectFrame.md
 
 ## Remarks
 
-The  **OLEType** property uses the following settings.
-
-
+The **OLEType** property uses the following settings.
 
 |Setting|Constant|Description|
 |:-----|:-----|:-----|
@@ -36,13 +34,12 @@ The  **OLEType** property uses the following settings.
 |Embedded|**acOLEEmbedded**|The control contains an embedded object. All the object's data is managed by Microsoft Access.|
 |None|**acOLENone**|The control doesn't contain an OLE object.|
 
-When creating an OLE object, use the  **OLETypeAllowed** property to determine what type of object a control can contain.
+When creating an OLE object, use the **OLETypeAllowed** property to determine what type of object a control can contain.
 
 
 ## Example
 
-The following example illustrates how to display the  **Insert Object** dialog box and how to display an error message if the **Cancel** button in the **Insert Object** dialog box is clicked.
-
+The following example illustrates how to display the **Insert Object** dialog box and how to display an error message if the **Cancel** button in the **Insert Object** dialog box is chosen.
 
 ```vb
 Sub InsertObject_Click() 
@@ -68,9 +65,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[ObjectFrame Object](Access.ObjectFrame.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

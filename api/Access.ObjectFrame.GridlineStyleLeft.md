@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.GridlineStyleLeft property (Access)
 
-Gets or sets the left gridline style of the specified frame. Read/write **Byte**.
+Gets or sets the left gridline style of the specified object frame. Read/write **Byte**.
 
 
 ## Syntax

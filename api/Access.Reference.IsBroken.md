@@ -7,36 +7,35 @@ ms.prod: access
 api_name:
 - Access.Reference.IsBroken
 ms.assetid: 7a0bce38-0362-2645-a934-ddfb92322bcd
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # Reference.IsBroken property (Access)
 
-The  **IsBroken** property returns a **Boolean** value indicating whether a **[Reference](Access.Reference.md)** object points to a valid reference in the Windows Registry. Read-only **Boolean**.
+The **IsBroken** property returns a **Boolean** value indicating whether a **Reference** object points to a valid reference in the Windows Registry. Read-only **Boolean**.
 
 
 ## Syntax
 
-_expression_. `IsBroken`
+_expression_.**IsBroken**
 
 _expression_ A variable that represents a **[Reference](Access.Reference.md)** object.
 
 
 ## Remarks
 
-The default value of the  **IsBroken** property is **False**. The **IsBroken** property returns **True** only if the **Reference** object no longer points to a valid reference in the Registry.
+The default value of the **IsBroken** property is **False**. The **IsBroken** property returns **True** only if the **Reference** object no longer points to a valid reference in the Registry.
 
-By evaluating the  **IsBroken** property, you can determine whether or not the file associated with a particular **Reference** object has been moved to a different directory or deleted.
+By evaluating the **IsBroken** property, you can determine whether the file associated with a particular **Reference** object has been moved to a different directory or deleted.
 
-If the  **IsBroken** property is **True**, Microsoft Access generates an error when you try to read the **Name** or **FullPath** properties.
+If the **IsBroken** property is **True**, Microsoft Access generates an error when you try to read the **Name** or **FullPath** properties.
 
 
 ## Example
 
-The following example prints the value of the  **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **References** collection:
-
+The following example prints the value of the **FullPath**, **GUID**, **IsBroken**, **Major**, and **Minor** properties for each **Reference** object in the **[References](Access.References.md)** collection.
 
 ```vb
 Sub ReferenceProperties() 
@@ -58,9 +57,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Reference Object](Access.Reference.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

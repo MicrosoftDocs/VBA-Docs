@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.Screen.ActiveDatasheet
 ms.assetid: cff189e7-9b8a-280f-e287-e4367f8ac134
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ You can use the **ActiveDatasheet** property together with the **Screen** object
 
 ## Syntax
 
-_expression_. `ActiveDatasheet`
+_expression_.**ActiveDatasheet**
 
 _expression_ A variable that represents a **[Screen](Access.Screen.md)** object.
 
@@ -30,9 +30,6 @@ The **ActiveDatasheet** property setting contains the datasheet object that has 
 
 You can use this property to refer to an active datasheet together with one of its properties or methods. For example, the following code uses the **ActiveDatasheet** property to reference the top row of the selection in the active datasheet.
 
-
-
-
 ```vb
 TopRow = Screen.ActiveDatasheet.SelTop
 ```
@@ -41,7 +38,6 @@ TopRow = Screen.ActiveDatasheet.SelTop
 ## Example
 
 The following example uses the **ActiveDatasheet** property to identify the datasheet cell with the focus, or if more than one cell is selected, the location of the first row and column in the selection.
-
 
 ```vb
 Public Sub GetSelection() 
@@ -74,9 +70,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Screen Object](Access.Screen.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

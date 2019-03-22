@@ -7,27 +7,26 @@ ms.prod: access
 api_name:
 - Access.Printer.PrintQuality
 ms.assetid: 730121d7-c07e-8acd-6a9c-4ba499e5d786
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # Printer.PrintQuality property (Access)
 
-Returns or sets an  **[AcPrintObjQuality](Access.AcPrintObjQuality.md)** constant indicating the resolution at which the specified printer should print jobs. Read/write.
+Returns or sets an **[AcPrintObjQuality](Access.AcPrintObjQuality.md)** constant indicating the resolution at which the specified printer should print jobs. Read/write.
 
 
 ## Syntax
 
-_expression_. `PrintQuality`
+_expression_.**PrintQuality**
 
 _expression_ A variable that represents a **[Printer](Access.Printer.md)** object.
 
 
 ## Example
 
-The following example sets a variety of printer settings for the form specified in the  _strFormname_ argument of the procedure.
-
+The following example sets a variety of printer settings for the form specified in the _strFormname_ argument of the procedure.
 
 ```vb
 Sub SetPrinter(strFormname As String) 
@@ -70,9 +69,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[Printer Object](Access.Printer.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

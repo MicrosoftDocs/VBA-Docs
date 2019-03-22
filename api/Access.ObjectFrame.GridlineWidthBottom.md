@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.GridlineWidthBottom property (Access)
 
-Gets or sets the width of the bottom gridline for the specified frame. Read/write **Byte**.
+Gets or sets the width of the bottom gridline for the specified object frame. Read/write **Byte**.
 
 
 ## Syntax

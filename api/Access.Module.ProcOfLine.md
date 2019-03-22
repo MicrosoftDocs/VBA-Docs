@@ -49,7 +49,7 @@ The **[ProcStartLine](Access.Module.ProcStartLine.md)** property indicates the l
 Note that the _ProcKind_ argument indicates whether the line belongs to a **Sub** or **Function** procedure, a **Property Get** procedure, a **Property Let** procedure, or a **Property Set** procedure. To determine what type of procedure a line is in, pass a variable of type **Long** to the **ProcOfLine** property, and then check the value of that variable.
 
 > [!NOTE] 
-> The **ProcBodyLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
+> The **ProcOfLine** property treats **Sub** and **Function** procedures similarly, but distinguishes between each type of Property procedure.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.GridlineWidthTop property (Access)
 
-Gets or sets the width of the top gridline for the specified frame. Read/write **Byte**.
+Gets or sets the width of the top gridline for the specified object frame. Read/write **Byte**.
 
 
 ## Syntax

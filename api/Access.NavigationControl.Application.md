@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.NavigationControl.Application
 ms.assetid: b980f9dd-1d8e-8296-8e4a-17051b5fcd4e
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
