@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.ReturnVars.Application
 ms.assetid: f27f1d56-7cf7-49f9-b37b-9b6cc272f9b5
-ms.date: 06/08/2017
+ms.date: 03/23/2019
 localization_priority: Normal
 ---
 
 
 # ReturnVars.Application property (Access)
 
-You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object.
+You can use the **Application** property to access the active Microsoft Access **[Application](Access.Application.md)** object and its related properties. Read-only **Application** object. 
 
 
 ## Syntax

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebBrowserControl.Value property (Access)
 
-Determines or specifies the text in the text box. Read/write **Variant**.
+Determines or specifies the text in the control. Read/write **Variant**.
 
 
 ## Syntax
