@@ -56,4 +56,6 @@ Selection.SplitTable
 
 [Selection Object](Word.Selection.md)
 
+[Table Object](Word.Table.Split.md) . `Split`( `_BeforeRow_` )
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
