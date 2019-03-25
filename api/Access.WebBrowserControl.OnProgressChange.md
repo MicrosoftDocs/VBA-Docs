@@ -7,19 +7,19 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.OnProgressChange
 ms.assetid: 8b1b84ac-b164-e582-2159-2d98f4ff8733
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.OnProgressChange property (Access)
 
-Gets or sets the value of the  **On Progress Change** box in the property sheet os a Web Browser control. Read/write **String**.
+Gets or sets the value of the **On Progress Change** box in the property sheet of a Web Browser control. Read/write **String**.
 
 
 ## Syntax
 
-_expression_. `OnProgressChange`
+_expression_.**OnProgressChange**
 
 _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowserControl.md)** object.
 
@@ -28,10 +28,5 @@ _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowse
 
 This property is helpful for programmatically changing the action that Microsoft Access takes when an event is triggered. For example, between event calls you may want to change an expression's parameters, or switch from an event procedure to an expression or macro, depending on the circumstances under which the event was triggered.
 
-
-## See also
-
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

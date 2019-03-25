@@ -7,14 +7,14 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.KeyPress
 ms.assetid: 6419c8b0-b857-0c05-e626-e996e65d7739
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
 
 # WebBrowserControl.KeyPress event (Access)
 
-The  **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
+The **KeyPress** event occurs when the user presses and releases a key or key combination that corresponds to an ANSI code while a form or control has the focus. This event also occurs if you send an ANSI keystroke to a form or control by using the SendKeys action in a macro or the **SendKeys** statement in Visual Basic.
 
 
 ## Syntax
@@ -80,9 +80,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[WebBrowserControl Object](Access.WebBrowserControl.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
