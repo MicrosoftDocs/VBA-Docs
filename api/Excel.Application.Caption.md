@@ -19,7 +19,7 @@ Returns or sets a  **String** value that represents the name that appears in the
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
 _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 

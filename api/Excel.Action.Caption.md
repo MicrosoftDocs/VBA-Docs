@@ -19,9 +19,9 @@ Returns the caption assigned to the  **Action** object. Read-only **String**.
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
-_expression_ A variable that represents an [Action](Excel.Action.md) object.
+_expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
 ## See also

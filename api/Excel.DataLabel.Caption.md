@@ -19,7 +19,7 @@ Returns or sets a  **String** value that represents the data label text.
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
 _expression_ A variable that represents a [DataLabel](Excel.DataLabel-graph-property.md) object.
 

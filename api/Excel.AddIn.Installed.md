@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `Installed`
 
-_expression_ A variable that represents an [AddIn](Excel.AddIn.md) object.
+_expression_ A variable that represents an **[AddIn](Excel.AddIn.md)** object.
 
 
 ## Remarks

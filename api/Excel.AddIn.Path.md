@@ -21,7 +21,7 @@ Returns a  **String** value that represents the complete path to the **Add-in**,
 
 _expression_. `Path`
 
-_expression_ A variable that represents an [AddIn](Excel.AddIn.md) object.
+_expression_ A variable that represents an **[AddIn](Excel.AddIn.md)** object.
 
 
 ## See also

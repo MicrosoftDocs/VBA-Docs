@@ -21,7 +21,7 @@ Performs the specified action.
 
 _expression_. `Execute`
 
-_expression_ A variable that represents an [Action](Excel.Action.md) object.
+_expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
 ## See also

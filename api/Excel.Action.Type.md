@@ -21,7 +21,7 @@ Returns the action type. Read-only  **[xlActionType](Excel.XlActionType.md)**.
 
 _expression_.**Type**
 
-_expression_ A variable that represents an [Action](Excel.Action.md) object.
+_expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
 ## See also
