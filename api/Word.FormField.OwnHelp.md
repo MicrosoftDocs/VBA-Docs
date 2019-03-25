@@ -26,7 +26,7 @@ Specifies the source of the text that's displayed in a message box when a form f
 
 ## Remarks
 
-If  **True** , the text specified by the **[HelpText](Word.FormField.HelpText.md)** property is displayed. If **False** , the text in the AutoText entry specified by the **HelpText** property is displayed.
+If  **True**, the text specified by the **[HelpText](Word.FormField.HelpText.md)** property is displayed. If **False**, the text in the AutoText entry specified by the **HelpText** property is displayed.
 
 
 ## Example

@@ -19,7 +19,7 @@ Represents the type of shape or shapes in a range of shapes. Read-only.
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

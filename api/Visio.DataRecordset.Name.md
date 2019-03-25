@@ -34,7 +34,7 @@ String
 
 ## Remarks
 
-The display name of a  **[DataRecordset](Visio.DataRecordset.md)** object is the name that you passed as the Name parameter to the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)** , **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)** , or **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method when you first created the data recordset; or the name that you subsequently assigned by setting this property. If you do not assign a name when you create a data recordset, Microsoft Visio assigns a default name, such as _Sheet1_ , which would be the assigned name if you imported data from a Microsoft Excel workbook.
+The display name of a  **[DataRecordset](Visio.DataRecordset.md)** object is the name that you passed as the Name parameter to the **[DataRecordsets.Add](Visio.DataRecordsets.Add.md)**, **[DataRecordsets.AddFromConnectionFile](Visio.DataRecordsets.AddFromConnectionFile.md)**, or **[DataRecordsets.AddFromXML](Visio.DataRecordsets.AddFromXML.md)** method when you first created the data recordset; or the name that you subsequently assigned by setting this property. If you do not assign a name when you create a data recordset, Microsoft Visio assigns a default name, such as _Sheet1_ , which would be the assigned name if you imported data from a Microsoft Excel workbook.
 
  If you specify (in the AddOptions parameter of one of the **Add** methods) that the **External Data** window be displayed in the Visio user interface, the display name appears on the tab of the **External Data** window that corresponds to the data recordset.
 

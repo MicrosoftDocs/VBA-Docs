@@ -19,14 +19,14 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
 ## Syntax
 
-_expression_. `StopIfTrue`
+_expression_.**StopIfTrue**
 
 _expression_ A variable that represents a [Databar](Excel.Databar.md) object.
 
 
 ## Remarks
 
-To support backward compatibility, the default value for this property is  **False** , which is the opposite behavior of a formatting rule created in the user interface.
+To support backward compatibility, the default value for this property is  **False**, which is the opposite behavior of a formatting rule created in the user interface.
 
 
 ## See also

@@ -30,7 +30,7 @@ This event occurs whenever calculation is completed and there are no outstanding
 
 Add-in developers use the  **AfterCalculate** event to know when all the data in the workbook has been fully updated by any queries and/or calculations that may have been in progress.
 
-This event occurs after all  **Worksheet**. **Calculate** , **Chart**. **Calculate** , **AfterRefresh** , and **SheetChange** events. It is the last event to occur after all refresh processing and all calc processing have completed, and it occurs after **Application**. **CalculationState** is set to **xlDone**.
+This event occurs after all  **Worksheet**. **Calculate**, **Chart**. **Calculate**, **AfterRefresh**, and **SheetChange** events. It is the last event to occur after all refresh processing and all calc processing have completed, and it occurs after **Application**. **CalculationState** is set to **xlDone**.
 
 
 ## See also

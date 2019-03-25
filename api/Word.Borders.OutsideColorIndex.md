@@ -26,7 +26,7 @@ Returns or sets the color of the outside borders. Read/write  **WdColorIndex**.
 
 ## Remarks
 
-If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the  **OutsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example

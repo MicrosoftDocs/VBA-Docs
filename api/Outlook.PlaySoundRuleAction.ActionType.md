@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PlaySoundRuleAction.ActionType Property (Outlook)
 
-Returns a constant,  **olRuleActionPlaySound** , from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
+Returns a constant,  **olRuleActionPlaySound**, from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** enumeration that indicates the type of action that is taken by the rule. Read-only.
 
 
 ## Syntax

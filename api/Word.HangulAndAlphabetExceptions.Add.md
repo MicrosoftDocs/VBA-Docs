@@ -39,7 +39,7 @@ HangulAndAlphabetException
 
 ## Remarks
 
-If the  **HangulAndAlphabetAutoAdd** property is set to **True** , words are automatically added to the list of hangul and alphabet AutoCorrect exceptions.
+If the  **HangulAndAlphabetAutoAdd** property is set to **True**, words are automatically added to the list of hangul and alphabet AutoCorrect exceptions.
 
 For more information on using Word with East Asian languages, see Word features for East Asian languages .
 

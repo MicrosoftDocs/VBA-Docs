@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md)
 
 ## Remarks
 
-If this property is  **True** , the control displays fill lines of text; otherwise it displays partial lines. The default value is **True**.
+If this property is  **True**, the control displays fill lines of text; otherwise it displays partial lines. The default value is **True**.
 
 
 ## See also

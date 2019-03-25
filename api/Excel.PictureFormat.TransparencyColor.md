@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PictureFormat](Excel.PictureFormat.md
 
 ## Remarks
 
-If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **Visible** property of the picture's **FillFormat** object to **False**. If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True** , the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
+If you want to be able to see through the transparent parts of the picture all the way to the objects behind the picture, you must set the  **Visible** property of the picture's **FillFormat** object to **False**. If your picture has a transparent color and the **Visible** property of the picture's **FillFormat** object is set to **True**, the picture's fill will be visible through the transparent color, but objects behind the picture will be obscured.
 
 
 ## Example

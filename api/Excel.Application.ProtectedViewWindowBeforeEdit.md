@@ -31,7 +31,7 @@ _expression_ A variable that represents an '[Application](Excel.Application(obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Pvw_|Required| **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)**|The  **Protected View** window that contains the workbook that is enabled for editing.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , editing is not enabled on the workbook.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, editing is not enabled on the workbook.|
 
 ## Return value
 

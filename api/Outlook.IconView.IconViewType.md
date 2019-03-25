@@ -26,7 +26,7 @@ _expression_ A variable that represents an [IconView](./Outlook.IconView.md) obj
 
 ## Remarks
 
-If the value of this property is set to  **olIconSortAndAutoArrange** , the value of the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property is automatically set to **olIconSortAndAutoArrange**.
+If the value of this property is set to  **olIconSortAndAutoArrange**, the value of the **[IconPlacement](Outlook.IconView.IconPlacement.md)** property is automatically set to **olIconSortAndAutoArrange**.
 
 
 ## Example

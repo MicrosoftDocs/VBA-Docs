@@ -31,6 +31,6 @@ Boolean
 
 ## Remarks
 
-The  **LiveDynamics** property tracks actions, such as resizing and rotating shapes, and is effective when shapes are glued or related to each other. When the value of the **LiveDynamics** property is **True** , more events such as **CellChanged** occur. Solutions that respond to such events may operate more quickly if the **LiveDynamics** property is set to **False**.
+The  **LiveDynamics** property tracks actions, such as resizing and rotating shapes, and is effective when shapes are glued or related to each other. When the value of the **LiveDynamics** property is **True**, more events such as **CellChanged** occur. Solutions that respond to such events may operate more quickly if the **LiveDynamics** property is set to **False**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

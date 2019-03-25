@@ -28,7 +28,7 @@ _expression_ A variable that represents a [TreeviewControl](./Excel.TreeviewCont
 
 Don't confuse this property with the  **[FormulaHidden](Excel.Range.FormulaHidden.md)** property.
 
-The  **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String** , containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](Excel.PivotItem.DrilledDown.md)** property of the **[PivotItem](Excel.PivotItem.md)** object to determine when members are visible (expanded) in the control.
+The  **Hidden** property returns or sets an array. Each element of the array corresponds to a level of the cube field that is hidden. The maximum number of elements is the number of levels in the cube field. Each element of the array is an array of type **String**, containing unique member names that are hidden at the corresponding level of the control. See the **[DrilledDown](Excel.PivotItem.DrilledDown.md)** property of the **[PivotItem](Excel.PivotItem.md)** object to determine when members are visible (expanded) in the control.
 
 
 ## Example

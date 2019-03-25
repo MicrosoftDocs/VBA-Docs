@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # GraphicItem.ObjectType Property (Visio)
 
-Returns  **visObjTypeGraphicItem** , the type of a **GraphicItem** object. Read-only.
+Returns  **visObjTypeGraphicItem**, the type of a **GraphicItem** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

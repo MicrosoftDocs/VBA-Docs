@@ -26,7 +26,7 @@ _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' obj
 
 ## Remarks
 
-After the  **ClearSelection** method is called, the **[Count](Outlook.Selection.Count.md)** property of the **[Selection](Outlook.Selection.md)** object that the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property returns is zero. Then, the **[SelectionChange](Outlook.Explorer.SelectionChange.md)** event fires unless prior to calling of **ClearSelection** , the current view did not contain any items, the current folder was empty, or the **Count** property was already zero.
+After the  **ClearSelection** method is called, the **[Count](Outlook.Selection.Count.md)** property of the **[Selection](Outlook.Selection.md)** object that the **[Explorer.Selection](Outlook.Explorer.Selection.md)** property returns is zero. Then, the **[SelectionChange](Outlook.Explorer.SelectionChange.md)** event fires unless prior to calling of **ClearSelection**, the current view did not contain any items, the current folder was empty, or the **Count** property was already zero.
 
 If the Reading Pane is visible and the current view is a table view, calling  **ClearSelection** renders the Reading Pane blank.
 

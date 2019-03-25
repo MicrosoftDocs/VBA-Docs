@@ -26,7 +26,7 @@ _expression_ A variable that represents a [StorageItem](./Outlook.StorageItem.md
 
 ## Remarks
 
-If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method on the **[UserProperties](Outlook.UserProperties.md)** object associated with a **[StorageItem](Outlook.StorageItem.md)** , the optional _AddToFolderFields_ and _DisplayFormat_ arguments of the **UserProperties.Add** method will be ignored. Any custom properties of the **StorageItem** object will not be exposed as custom properties in the **Field Chooser**.
+If you use the  **[UserProperties.Add](Outlook.UserProperties.Add.md)** method on the **[UserProperties](Outlook.UserProperties.md)** object associated with a **[StorageItem](Outlook.StorageItem.md)**, the optional _AddToFolderFields_ and _DisplayFormat_ arguments of the **UserProperties.Add** method will be ignored. Any custom properties of the **StorageItem** object will not be exposed as custom properties in the **Field Chooser**.
 
 
 ## See also

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Range.BorderAround method (Excel)
 
-Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)** , **[LineStyle](Excel.Border.LineStyle.md)** , and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant**.
+Adds a border to a range and sets the  **[Color](Excel.Border.Color.md)**, **[LineStyle](Excel.Border.LineStyle.md)**, and **[Weight](Excel.Border.Weight.md)** properties for the new border. **Variant**.
 
 
 ## Syntax
@@ -47,7 +47,7 @@ You must specify only one of the following:  _ColorIndex_,  _Color_, or  _ThemeC
 
 You can specify either  _LineStyle_ or _Weight_, but not both. If you don't specify either argument, Microsoft Excel uses the default line style and weight.
 
-This method outlines the entire range without filling it in. To set the borders of all the cells, you must set the  **Color** , **LineStyle** , and **Weight** properties for the **[Borders](Excel.Borders.md)** collection. To clear the border, you must set the **LineStyle** property to **xlLineStyleNone** for all the cells in the range.
+This method outlines the entire range without filling it in. To set the borders of all the cells, you must set the  **Color**, **LineStyle**, and **Weight** properties for the **[Borders](Excel.Borders.md)** collection. To clear the border, you must set the **LineStyle** property to **xlLineStyleNone** for all the cells in the range.
 
 
 ## Example

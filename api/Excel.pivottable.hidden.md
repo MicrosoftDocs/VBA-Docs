@@ -24,7 +24,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
-When the  **Hidden** property is set to **True** , the PivotTable object is hidden from the worksheet level. When the property is set to **False** , the PivotTable exists on a worksheet.
+When the  **Hidden** property is set to **True**, the PivotTable object is hidden from the worksheet level. When the property is set to **False**, the PivotTable exists on a worksheet.
 
 
 ## Property value

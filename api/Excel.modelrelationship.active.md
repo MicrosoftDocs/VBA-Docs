@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ModelRelationship.Active property (Excel)
 
-When  **True** , the relationship is active. When **False** , this relationship is inactive. **Boolean**. Read/Write
+When  **True**, the relationship is active. When **False**, this relationship is inactive. **Boolean**. Read/Write
 
 
 ## Syntax

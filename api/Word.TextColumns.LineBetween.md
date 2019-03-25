@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-The  **LineBetween** property can be **True** , **False** , or **wdUndefined**.
+The  **LineBetween** property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example

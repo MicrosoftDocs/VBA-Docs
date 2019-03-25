@@ -19,7 +19,7 @@ Returns or sets a  **String** value that represents the format code for the obje
 
 ## Syntax
 
-_expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
 _expression_ A variable that represents a [TickLabels](./Excel.TickLabels-graph-property.md) object.
 

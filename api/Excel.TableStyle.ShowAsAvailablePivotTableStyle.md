@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) ob
 
 ## Remarks
 
-The property returns  **True** , if the style is shown in the gallery for PivotTable styles.
+The property returns  **True**, if the style is shown in the gallery for PivotTable styles.
 
 
  **Note**  Users can set the  **ShowAsAvailableTableStyle** or **ShowAsAvailablePivotTableStyle** properties to **False** even when the style is already applied to a table or PivotTable. In this case, the gallery will not show the style and no style is shown as selected when the active cell is in the table or the PivotTable.

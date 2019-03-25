@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-If the  **EventsEnabled** property is **False** , Visio does not fire events, run add-ons, or execute strings that contain arbitrary Visual Basic for Applications (VBA) code when evaluating RUNADDON operands in cell formulas.
+If the  **EventsEnabled** property is **False**, Visio does not fire events, run add-ons, or execute strings that contain arbitrary Visual Basic for Applications (VBA) code when evaluating RUNADDON operands in cell formulas.
 
 By default, the  **EventsEnabled** property is **True** when an instance of Visio starts.
 

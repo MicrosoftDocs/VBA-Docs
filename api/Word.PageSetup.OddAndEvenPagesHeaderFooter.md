@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-The  **OddAndEvenPagesHeaderFooter** property can be **True** , **False** , or **wdUndefined**.
+The  **OddAndEvenPagesHeaderFooter** property can be **True**, **False**, or **wdUndefined**.
 
 
 ## Example

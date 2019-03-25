@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AddressEntry.GetContact Method (Outlook)
 
-Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)** , if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
+Returns a  **[ContactItem](Outlook.ContactItem.md)** object that represents the **[AddressEntry](Outlook.AddressEntry.md)**, if the **AddressEntry** corresponds to a contact in an Outlook Contacts Address Book (CAB).
 
 
 ## Syntax

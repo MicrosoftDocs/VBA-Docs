@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-This property returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle**.
+This property returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
 
 ## Example

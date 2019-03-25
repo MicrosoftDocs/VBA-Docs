@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Search](./Outlook.Search.md) object.
 
 ## Remarks
 
-This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method and is specified when the search is initiated. If **True** , the **Search** object searches through any subfolders in the specified filter path.
+This property is determined by the  _SearchSubfolders_ argument of the **[AdvancedSearch](Outlook.Application.AdvancedSearch.md)** method and is specified when the search is initiated. If **True**, the **Search** object searches through any subfolders in the specified filter path.
 
 
 ## Example

@@ -21,7 +21,7 @@ Represents series lines in a chart group.
 
  Series lines connect the data values from each series. Only 2-D stacked bar, 2-D stacked column, pie-of-pie, or bar-of-pie charts can have series lines. This object is not a collection. There is no object that represents a single series line; you either enable series lines for all points in a chart group or you disable them.
 
-If the  **[HasSeriesLines](Word.ChartGroup.HasSeriesLines.md)** property is **False** , most properties of the **SeriesLines** object are disabled.
+If the  **[HasSeriesLines](Word.ChartGroup.HasSeriesLines.md)** property is **False**, most properties of the **SeriesLines** object are disabled.
 
 
 ## Example

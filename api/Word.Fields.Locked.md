@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined** (if some of the fields in the collection are locked and others are not).
+This property can be  **True**, **False**, or **wdUndefined** (if some of the fields in the collection are locked and others are not).
 
 
 ## Example

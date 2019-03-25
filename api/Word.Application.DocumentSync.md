@@ -19,7 +19,7 @@ This object or member has been deprecated, but it remains part of the object mod
 
 ## Syntax
 
-Private Sub_**DocumentSync**(**_Doc_** , **_SyncEventType_**)
+Private Sub_**DocumentSync**(**_Doc_**, **_SyncEventType_**)
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object declared using the **WithEvents** keyword in a class module.
 

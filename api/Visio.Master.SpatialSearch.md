@@ -46,11 +46,11 @@ Selection
 
 - The  _relation_ argument can be any combination of the constants defined in **[VisSpatialRelationCodes](Visio.visspatialrelationcodes.md)**. If _relation_ is not specified, the **SpatialSearch** property uses both relationships as criteria.
     
-- The  _flags_ argument can be any combination of the values of the constants defined in **[VisSpatialRelationFlags](Visio.visspatialrelationflags.md)** in the Visio type library (except **visSpatialIncludeHidden** , which is reserved for future use, and should not be used).
+- The  _flags_ argument can be any combination of the values of the constants defined in **[VisSpatialRelationFlags](Visio.visspatialrelationflags.md)** in the Visio type library (except **visSpatialIncludeHidden**, which is reserved for future use, and should not be used).
     
 Use the NoShow cell to determine whether a Geometry section is hidden or visible. Hidden Geometry section sections have a value of TRUE and visible Geometry sections have a value of FALSE in the NoShow cell.
 
-Beginning with Microsoft Visio 2002, if  _flags_ contains **visSpatialFrontToBack** , items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object _._
+Beginning with Microsoft Visio 2002, if  _flags_ contains **visSpatialFrontToBack**, items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object _._
 
 
 

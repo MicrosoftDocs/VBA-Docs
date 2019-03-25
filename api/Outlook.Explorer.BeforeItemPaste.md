@@ -32,7 +32,7 @@ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) obj
 |:-----|:-----|:-----|:-----|
 | _ClipboardContent_|Required| **Variant**|The content to be pasted.|
 | _Target_|Required| **Folder**|The destination of the paste.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not deleted.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not deleted.|
 
 ## Remarks
 

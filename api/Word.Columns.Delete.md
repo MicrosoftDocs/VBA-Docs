@@ -19,7 +19,7 @@ Deletes the specified columns.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

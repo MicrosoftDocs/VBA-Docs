@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisUIIconIDs Enumeration (Visio)
 
-Icon identifiers used in conjunction with the  **FaceID** property of the **Menu** , **MenuItem** , and **ToolbarItem** objects.
+Icon identifiers used in conjunction with the  **FaceID** property of the **Menu**, **MenuItem**, and **ToolbarItem** objects.
 
 
  **Note**  Starting with Visio, the Microsoft Office Fluent user interface (UI) replaces the previous system of layered menus, toolbars, and task panes. VBA objects and members that you used to customize the user interface in previous versions of Visio are still available in Visio, but they function differently.

@@ -34,7 +34,7 @@ _expression_ A variable that represents an [Application](./Outlook.Application.m
 
 ## Remarks
 
-This event fires once for every received item that is processed by Microsoft Outlook. The item can be one of several different item types, for example,  **[MailItem](Outlook.MailItem.md)** , **[MeetingItem](Outlook.MeetingItem.md)** , or **[SharingItem](Outlook.SharingItem.md)**. The _EntryIDsCollection_ string contains the Entry ID that corresponds to that item. Note that this behavior has changed from earlier versions of the event when the _EntryIDCollection_ contained a list of comma-delimited Entry IDs of all the items received in the Inbox since the last time the event was fired.
+This event fires once for every received item that is processed by Microsoft Outlook. The item can be one of several different item types, for example,  **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[SharingItem](Outlook.SharingItem.md)**. The _EntryIDsCollection_ string contains the Entry ID that corresponds to that item. Note that this behavior has changed from earlier versions of the event when the _EntryIDCollection_ contained a list of comma-delimited Entry IDs of all the items received in the Inbox since the last time the event was fired.
 
 This event is not available in Microsoft Visual Basic Scripting Edition (VBScript).
 

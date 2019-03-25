@@ -30,7 +30,7 @@ Creates a new container  **[Shape](Visio.Shape.md)** object on the page, places 
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The container shape to add to the page. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **Shape** , or **IDataObject** object.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The container shape to add to the page. Can be a  **[Master](Visio.Master.md)**, **[MasterShortcut](Visio.MasterShortcut.md)**, **Shape**, or **IDataObject** object.|
 | _TargetShapes_|Required| **[UNKNOWN]**|The shapes that the container should contain. Can be a  **Shape** or a **[Selection](Visio.Selection.md)** object. The shapes or selection must already be on the page.|
 
 ## Return value
@@ -40,13 +40,13 @@ Creates a new container  **[Shape](Visio.Shape.md)** object on the page, places 
 
 ## Remarks
 
-To pass a  **Master** object for the _ObjectToDrop_ parameter, use the **[Documents.OpenEx](Visio.Documents.OpenEx.md)** method and the **[Application.GetBuiltInStencilFile](Visio.Application.GetBuiltInStencilFile.md)** method, passing it **visBuiltInStencilContainers** , to open the hidden, built-in container stencil. Then use the **[Masters.ItemU](Visio.Masters.ItemU.md)** property to get the particular container that you want from the stencil.
+To pass a  **Master** object for the _ObjectToDrop_ parameter, use the **[Documents.OpenEx](Visio.Documents.OpenEx.md)** method and the **[Application.GetBuiltInStencilFile](Visio.Application.GetBuiltInStencilFile.md)** method, passing it **visBuiltInStencilContainers**, to open the hidden, built-in container stencil. Then use the **[Masters.ItemU](Visio.Masters.ItemU.md)** property to get the particular container that you want from the stencil.
 
 An  **IDataObject** that you pass for _ObjectToDrop_ must be provided by Microsoft Visio and must be in the same process space as Visio.
 
 If  _ObjectToDrop_ is not a Visio object, or if it is not a container, Visio returns an Invalid Parameter error. If the value you pass is a shape that does not match the context of the method, Visio returns an Invalid Source error.
 
-If the  _TargetShapes_ parameter is **Nothing** , Visio places the container shape at the center of the page, devoid of any target shapes. If the specified target shapes are not top-level members of the page, Visio returns an Invalid Parameter error.
+If the  _TargetShapes_ parameter is **Nothing**, Visio places the container shape at the center of the page, devoid of any target shapes. If the specified target shapes are not top-level members of the page, Visio returns an Invalid Parameter error.
 
 The  **DropContainer** method corresponds to the **Insert Container** command in the Visio user interface. (On the **Insert** tab, click **Container**.)
 

@@ -28,7 +28,7 @@ _expression_. `ReplyAll`( `_Response_` , `_Cancel_` )
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Response_|Required| **Object**|The new item being sent in response to the original message.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the reply all operation is not completed and the new item is not displayed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the reply all operation is not completed and the new item is not displayed.|
 
 ## Remarks
 

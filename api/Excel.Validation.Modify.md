@@ -44,10 +44,10 @@ The  **Modify** method requires different arguments, depending on the validation
 
 |**Validation type**|**Arguments**|
 |:-----|:-----|
-| **xlInputOnly**| **AlertStyle** , **Formula1** , and **Formula2** are not used.|
+| **xlInputOnly**| **AlertStyle**, **Formula1**, and **Formula2** are not used.|
 | **xlValidateCustom**| **Formula1** is required; **Formula2** is ignored. **Formula1** must contain an expression that evaluates to **True** when data entry is valid and **False** when data entry is invalid.|
 | **xlValidateList**| **Formula1** is required; **Formula2** is ignored. **Formula1** must contain either a comma-delimited list of values or a worksheet reference to the list.|
-| **xlValidateDate** , **xlValidateDecimal** , **xlValidateTextLength** , **xlValidateTime** , or **xlValidateWholeNumber**| **Formula1** or **Formula2** , or both, must be specified.|
+| **xlValidateDate**, **xlValidateDecimal**, **xlValidateTextLength**, **xlValidateTime**, or **xlValidateWholeNumber**| **Formula1** or **Formula2**, or both, must be specified.|
 
 ## Example
 

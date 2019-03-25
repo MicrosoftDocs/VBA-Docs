@@ -26,21 +26,21 @@ _expression_ A variable that represents a [RecurrencePattern](./Outlook.Recurren
 
 ## Remarks
 
-You must set the  **RecurrenceType** property before you set other properties for a **[RecurrencePattern](Outlook.RecurrencePattern.md)** object. The **RecurrencePattern** properties that you can set subsequently depends on the value of **RecurrenceType** , as shown in the following table:
+You must set the  **RecurrenceType** property before you set other properties for a **[RecurrencePattern](Outlook.RecurrencePattern.md)** object. The **RecurrencePattern** properties that you can set subsequently depends on the value of **RecurrenceType**, as shown in the following table:
 
 
 
 | **OlRecurrenceType**| **Valid RecurrencePattern Properties**|
-| **olRecursDaily**| **[Duration](Outlook.RecurrencePattern.Duration.md)** , **[EndTime](Outlook.RecurrencePattern.EndTime.md)** , **[Interval](Outlook.RecurrencePattern.Interval.md)** , **[NoEndDate](Outlook.RecurrencePattern.NoEndDate.md)** , **[Occurrences](Outlook.RecurrencePattern.Occurrences.md)** , **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** , **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** , **[StartTime](Outlook.RecurrencePattern.StartTime.md)**|
-| **olRecursWeekly**| **[DayOfWeekMask](Outlook.RecurrencePattern.DayOfWeekMask.md)** , **Duration** , **EndTime** , **Interval** , **NoEndDate** , **Occurrences** , **PatternStartDate** , **PatternEndDate** , **StartTime**|
-| **olRecursMonthly**| **[DayOfMonth](Outlook.RecurrencePattern.DayOfMonth.md)** , **Duration** , **EndTime** , **Interval** , **NoEndDate** , **Occurrences** , **PatternStartDate** , **PatternEndDate** , **StartTime**|
-| **olRecursMonthNth**| **DayOfWeekMask** , **Duration** , **EndTime** , **Interval** , **[Instance](Outlook.RecurrencePattern.Instance.md)** , **NoEndDate** , **Occurrences** , **PatternStartDate** , **PatternEndDate** , **StartTime**|
-| **olRecursYearly**| **DayOfMonth** , **Duration** , **EndTime** , **Interval** , **MonthOfYear** , **NoEndDate** , **Occurrences** , **PatternStartDate** , **PatternEndDate** , **StartTime**|
-| **olRecursYearNth**| **DayOfWeekMask** , **Duration** , **EndTime** , **Interval** , **Instance** , **NoEndDate** , **Occurrences** , **PatternStartDate** , **PatternEndDate** , **StartTime**|
+| **olRecursDaily**| **[Duration](Outlook.RecurrencePattern.Duration.md)**, **[EndTime](Outlook.RecurrencePattern.EndTime.md)**, **[Interval](Outlook.RecurrencePattern.Interval.md)**, **[NoEndDate](Outlook.RecurrencePattern.NoEndDate.md)**, **[Occurrences](Outlook.RecurrencePattern.Occurrences.md)**, **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)**, **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)**, **[StartTime](Outlook.RecurrencePattern.StartTime.md)**|
+| **olRecursWeekly**| **[DayOfWeekMask](Outlook.RecurrencePattern.DayOfWeekMask.md)**, **Duration**, **EndTime**, **Interval**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|
+| **olRecursMonthly**| **[DayOfMonth](Outlook.RecurrencePattern.DayOfMonth.md)**, **Duration**, **EndTime**, **Interval**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|
+| **olRecursMonthNth**| **DayOfWeekMask**, **Duration**, **EndTime**, **Interval**, **[Instance](Outlook.RecurrencePattern.Instance.md)**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|
+| **olRecursYearly**| **DayOfMonth**, **Duration**, **EndTime**, **Interval**, **MonthOfYear**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|
+| **olRecursYearNth**| **DayOfWeekMask**, **Duration**, **EndTime**, **Interval**, **Instance**, **NoEndDate**, **Occurrences**, **PatternStartDate**, **PatternEndDate**, **StartTime**|
 
 ## Example
 
-This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)**. The properties, **RecurrenceType** , **DayOfWeekMask** , **[MonthOfYear](Outlook.RecurrencePattern.MonthOfYear.md)** , **Instance** , **Occurrences** , **StartTime** , **EndTime** , and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
+This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)**. The properties, **RecurrenceType**, **DayOfWeekMask**, **[MonthOfYear](Outlook.RecurrencePattern.MonthOfYear.md)**, **Instance**, **Occurrences**, **StartTime**, **EndTime**, and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs the first Monday of June effective 6/1/2007 until 6/6/2016 from 2:00 PM to 5:00 PM."
 
 
 ```vb

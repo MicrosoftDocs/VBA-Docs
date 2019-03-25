@@ -62,7 +62,7 @@ Use the NoShow cell to determine whether a Geometry section is hidden or visible
 
 If  _Relation_ is not specified, the **SpatialNeighbors** property uses all the possible relationships as criteria.
 
-Beginning with Visio 2002, if  _Flags_ contains **VisSpatialFrontToBack** , items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object.
+Beginning with Visio 2002, if  _Flags_ contains **VisSpatialFrontToBack**, items in the **Selection** object returned by the **SpatialNeighbors** property are ordered front to back. If **visSpatialBackToFront** is set, the items returned are ordered back to front. If this flag is not set, or if you are running an earlier version of Visio, the order is unpredictable. You can determine the order by using the **Index** property of the shapes identified in the **Selection** object.
 
 If you don't specify  _ResultRoot_, this property returns a  **Selection** object that represents the shapes that meet certain criteria in relation to the specified shape. If you specify _ResultRoot_, this property returns a  **Selection** object that represents all the shapes in the **Shape** object specified by _ResultRoot_ that meet certain criteria in relation to the specified shape. For example, specify _ResultRoot_ to find all shapes within a group that are near a specified shape.
 

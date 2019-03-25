@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[PivotTable](Excel.PivotTable.md)' ob
 
 ## Remarks
 
-The  **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation** , which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
+The  **Allocation** property corresponds to the **Calculate with changes** setting in the **What-If Analysis Settings** dialog box. The default setting is **xlManualAllocation**, which corresponds to the **Manually (when selecting calculate PivotTable with changes)** setting.
 
 
 ## See also

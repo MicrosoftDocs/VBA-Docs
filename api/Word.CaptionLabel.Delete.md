@@ -19,7 +19,7 @@ Deletes the specified caption label.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ Required. A variable that represents a '[CaptionLabel](Word.CaptionLabel.md)' object.
 

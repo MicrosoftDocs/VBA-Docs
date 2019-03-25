@@ -26,7 +26,7 @@ Returns or sets the way that Word handles CTRL+BREAK user interruptions. Read/wr
 
 ## Remarks
 
-Use this property very carefully. If you use  **wdCancelDisabled** , there is no way to interrupt a runaway loop or other non - self-terminating code. Also, the **EnableCancelKey** property is not reset to **wdCancelInterrupt** when your code stops running; unless you explicitly reset its value, it will remain set to **wdCancelDisabled** for the duration of the Word session.
+Use this property very carefully. If you use  **wdCancelDisabled**, there is no way to interrupt a runaway loop or other non - self-terminating code. Also, the **EnableCancelKey** property is not reset to **wdCancelInterrupt** when your code stops running; unless you explicitly reset its value, it will remain set to **wdCancelDisabled** for the duration of the Word session.
 
 
 ## Example

@@ -27,7 +27,7 @@ For Each aCap In AutoCorrect.OtherCorrectionsExceptions
 Next aCap
 ```
 
-If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
+If the value of the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
 
 
 

@@ -34,8 +34,8 @@ Rotates selected shapes either as a group or individually about their pins.
 | _AngleUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _Angle_. See Remarks for possible values. The default is degrees.|
 | _BlastGuards_|Optional| **Boolean**| **True** to override formulas in the ShapeSheet of any of the selected shapes to which the GUARD function has been applied; **False** to leave guarded formulas unchanged. The default is **False**.|
 | _RotationType_|Optional| **VisRotationTypes**|Specifies how the selection is to be rotated. See Remarks for possible values.|
-| _PinX_|Optional| **Double**|When  _RotationType_ is **visRotateSelectionWithPin** , specifies the X-position of the pin about which the selection is to be rotated.|
-| _PinY_|Optional| **Double**| When _RotationType_ is **visRotateSelectionWithPin** , specifies the Y-position of the pin about which the selection is to be rotated.|
+| _PinX_|Optional| **Double**|When  _RotationType_ is **visRotateSelectionWithPin**, specifies the X-position of the pin about which the selection is to be rotated.|
+| _PinY_|Optional| **Double**| When _RotationType_ is **visRotateSelectionWithPin**, specifies the Y-position of the pin about which the selection is to be rotated.|
 | _PinUnitsNameOrCode_|Optional| **Variant**|Specifies the units to use for  _PinX_ and _PinY_. See Remarks for possible values. The default is inches.|
 
 ## Return value

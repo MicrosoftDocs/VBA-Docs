@@ -34,7 +34,7 @@ _expression_ A variable that represents a '[NavigationFolders](Outlook.Navigatio
 
 ## Remarks
 
-Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property value set to **True** , can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](Outlook.Folder.Delete.md)** to remove any user-created folders.
+Only removable folders,  **NavigationFolder** objects with an **[IsRemovable](Outlook.NavigationFolder.IsRemovable.md)** property value set to **True**, can be removed from a **NavigationFolders** collection. This means that you can use **NavigationFolders.Remove** to remove shared folders, public folders, and linked folders. However, you must use **[Folder.Delete](Outlook.Folder.Delete.md)** to remove any user-created folders.
 
 
 ## See also

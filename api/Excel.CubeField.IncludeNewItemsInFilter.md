@@ -28,11 +28,11 @@ _expression_ A variable that represents a [CubeField](Excel.CubeField.md) object
 
 Default value is  **False**.
 
-When this setting is set to  **True** , excluded items are tracked when manual filtering is applied. When this setting is set to **False** , included items are tracked when manual filtering is applied.
+When this setting is set to  **True**, excluded items are tracked when manual filtering is applied. When this setting is set to **False**, included items are tracked when manual filtering is applied.
 
-When  **IncludeNewItemsInFilter** is set to **False** , the **HiddenItemsList** and **HiddenItems** collections are empty and items cannot be added to them.
+When  **IncludeNewItemsInFilter** is set to **False**, the **HiddenItemsList** and **HiddenItems** collections are empty and items cannot be added to them.
 
-When  **IncludeNewItemsInFilter** is set to **True** , the **VisibleItemsList** and **VisibleItems** collections are empty and items cannot be added to them.
+When  **IncludeNewItemsInFilter** is set to **True**, the **VisibleItemsList** and **VisibleItems** collections are empty and items cannot be added to them.
 
 
 ## See also

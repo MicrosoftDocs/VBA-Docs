@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' 
 
 ## Remarks
 
- **True** , if the slicer is based on an OLAP data source; otherwise **False**.
+ **True**, if the slicer is based on an OLAP data source; otherwise **False**.
 
 
 ## See also

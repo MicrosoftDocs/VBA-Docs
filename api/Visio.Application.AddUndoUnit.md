@@ -46,7 +46,7 @@ For information about implementing the  **IOleUndoUnit** interface on your objec
 
 The following procedure shows how to use the  **AddUndoUnit** method to add an object to the Visio undo queue. When a shape is added to the active document, the procedure checks to see if it was added as a result of an undo or redo action, and if not, it adds an Undo unit.
 
-This procedure is a member of class  **clsParticipateInUndo** , which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits**.) For more information on these class modules, see the Visio SDK on MSDN.
+This procedure is a member of class  **clsParticipateInUndo**, which is defined in one of two related class modules in the Code Samples Library in the Visio SDK, and is not intended to be run independently. (The other class module defines class **clsVBUndoUnits**.) For more information on these class modules, see the Visio SDK on MSDN.
 
 
 

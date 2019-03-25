@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Rule](./Outlook.Rule.md) object.
 
 ## Remarks
 
-A client-side rule executes only when Outlook is running. If  **IsLocalRule** is **False** , then the rule executes as a server-side rule.
+A client-side rule executes only when Outlook is running. If  **IsLocalRule** is **False**, then the rule executes as a server-side rule.
 
 If you have a Microsoft Exchange Server email account, the server can apply server-side rules to your messages even if you don't have Outlook running. The rules must be set to be applied to messages when they are delivered to your Inbox on the server, and the rules must be able to run to completion on the server. For example, a rule cannot run to completion on the server if the action specifies that a message be printed. If a rule cannot be applied on the server, it is applied when you start Outlook.
 

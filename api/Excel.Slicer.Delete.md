@@ -19,7 +19,7 @@ Deletes the slicer and removes it from the associated  **[Slicers](Excel.Slicers
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
 _expression_ A variable that represents a '[Slicer](Excel.Slicer.md)' object.
 

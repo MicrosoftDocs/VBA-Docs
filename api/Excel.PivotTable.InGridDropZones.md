@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
-When the  **InGridDropZones** property is set to **True** , there are in-grid drop zones. When the property is set to **False** , there are no in-grid drop zones. The PivotTable layout also changes with this property.
+When the  **InGridDropZones** property is set to **True**, there are in-grid drop zones. When the property is set to **False**, there are no in-grid drop zones. The PivotTable layout also changes with this property.
 
 
 ## See also

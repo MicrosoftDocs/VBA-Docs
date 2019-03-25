@@ -54,7 +54,7 @@ If attempting to refresh the data in an existing data recordset causes an error,
 
 It is possible, however, that Visio may not know specifically which data recordset generated the error. This can only happen when you attempt to refresh a data recordset that is one of a group of data recordsets that share the same connection to a data source. This is because when data in one data recordset in such a group (called  _transacted_ datarecordsets) is refreshed, all the data recordsets in the group are refreshed. In this situation, if the refresh operation fails before all datarecordsets in the group are refreshed, Visio rolls back the refresh of any datarecordsets successfully completed up to that point.
 
-If you then call  **GetLastDataError** , the method returns the following:
+If you then call  **GetLastDataError**, the method returns the following:
 
 
 - The ID of the data recordset on which you called the  **Refresh** method to start the refresh operation that subsequently failed.

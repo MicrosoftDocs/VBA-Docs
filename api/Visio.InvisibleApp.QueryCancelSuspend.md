@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # InvisibleApp.QueryCancelSuspend Event (Visio)
 
-Occurs before the operating system enters a suspended state. If any event handler returns  **True** , the Microsoft Visio instance will deny the operating system's request.
+Occurs before the operating system enters a suspended state. If any event handler returns  **True**, the Microsoft Visio instance will deny the operating system's request.
 
 
 ## Syntax

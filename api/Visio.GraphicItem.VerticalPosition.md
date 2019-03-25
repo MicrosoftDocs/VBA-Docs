@@ -34,7 +34,7 @@ VisGraphicPositionVertical
 
 ## Remarks
 
-The default vertical callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** , commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True** , the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False** , its vertical position is determined by the settings of the **GraphicItem.VerticalPosition** property.
+The default vertical callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**, commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False**, its vertical position is determined by the settings of the **GraphicItem.VerticalPosition** property.
 
 Note, however, that users can manually re-position a data graphic that has been applied to a shape by using the control handle of the data graphic. A position set in this manner takes precedence over the position specified by property settings.
 

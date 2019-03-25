@@ -30,7 +30,7 @@ For a non-OLAP data source, the value of the  **LocalConnection** property is an
 
 Setting the  **LocalConnection** property does not immediately initiate the connection to the data source. You must first use the **Refresh** method to make the connection and retrieve the data.
 
-The value of the  **LocalConnection** property is used if the **UseLocalConnection** property is set to **True**. If the **UseLocalConnection** property is set to **False** , the **Connection** property specifies the connection string for query tables based on sources other than local cube files.
+The value of the  **LocalConnection** property is used if the **UseLocalConnection** property is set to **True**. If the **UseLocalConnection** property is set to **False**, the **Connection** property specifies the connection string for query tables based on sources other than local cube files.
 
 For more information about the syntax for connection strings, see the Help topic for the  **Add** method of the PivotTable collection.
 

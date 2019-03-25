@@ -26,7 +26,7 @@ For Each aCap In AutoCorrect.TwoInitialCapsExceptions
 Next aCap
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
+If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "Industry" to the list of initial-capital exceptions.
 
 
 

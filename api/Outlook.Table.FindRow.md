@@ -45,7 +45,7 @@ A  **[Row](Outlook.Row.md)** object that represents the first row in the **Table
 
  **FindRow** returns an error if _Filter_ is a blank string or an invalid restriction. In cases where **FindRow** does not find any row, the current row will not be repositioned to where it was before the call to **FindRow**.
 
-To use content indexing search in a  **Table** , use the **[Restrict](Outlook.Table.Restrict.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
+To use content indexing search in a  **Table**, use the **[Restrict](Outlook.Table.Restrict.md)** method. **FindRow** returns an error if _Filter_ contains content indexing keywords.
 
 
 ## See also

@@ -31,7 +31,7 @@ IDataObject
 
 ## Remarks
 
- By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject** , it raises an exception.
+ By default, **ConnectorToolDataObject** returns the built-in Visio **Connector** tool. If a master from a stencil is the active connector, **ConnectorToolDataObject** returns a data object for that master. If Visio fails to retrieve the internal **IDataObject**, it raises an exception.
 
 
 ## Example

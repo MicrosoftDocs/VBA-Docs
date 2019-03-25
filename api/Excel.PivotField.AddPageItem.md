@@ -31,7 +31,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **String**| Source name of a **PivotItem** object, corresponding to the specific Online Analytical Processing (OLAP) member unique name.|
-| _ClearList_|Optional| **Variant**|If  **False** (default), adds a page item to the existing list. If **True** , deletes all current items and adds _Item_.|
+| _ClearList_|Optional| **Variant**|If  **False** (default), adds a page item to the existing list. If **True**, deletes all current items and adds _Item_.|
 
 ## Remarks
 

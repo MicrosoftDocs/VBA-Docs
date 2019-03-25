@@ -19,7 +19,7 @@ Returns an  **[OlObjectClass](Outlook.OlObjectClass.md)** constant indicating th
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [Conflict](./Outlook.Conflict.md) object.
 

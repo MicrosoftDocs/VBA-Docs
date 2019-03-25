@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TaskItem](./Outlook.TaskItem.md) obje
 
 ## Remarks
 
- Sets **[PercentComplete](Outlook.TaskItem.PercentComplete.md)** to "100%", **[Complete](Outlook.TaskItem.Complete.md)** to **True** , and **[DateCompleted](Outlook.TaskItem.DateCompleted.md)** to the current date.
+ Sets **[PercentComplete](Outlook.TaskItem.PercentComplete.md)** to "100%", **[Complete](Outlook.TaskItem.Complete.md)** to **True**, and **[DateCompleted](Outlook.TaskItem.DateCompleted.md)** to the current date.
 
 
 ## See also

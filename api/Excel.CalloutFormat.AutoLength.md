@@ -35,7 +35,7 @@ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md
 | **msoTriStateToggle**|
 | **msoTrue**. The first segment of the callout line (the segment attached to the text callout box) is scaled automatically whenever the callout is moved.|
 
-This property is read-only. Use the  **[AutomaticLength](Excel.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue** , and use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set this property to **mosFalse**.
+This property is read-only. Use the  **[AutomaticLength](Excel.CalloutFormat.AutomaticLength.md)** method to set this property to **msoTrue**, and use the **[CustomLength](Excel.CalloutFormat.CustomLength.md)** method to set this property to **mosFalse**.
 
 
 ## Example

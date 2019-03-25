@@ -29,7 +29,7 @@ Removes character formatting that has been applied through character styles from
 This method does not remove character formatting that a user has applied manually. To remove manually applied character formatting, use the  **[ClearCharacterDirectFormatting](Word.Selection.ClearCharacterDirectFormatting.md)** method. To remove all character formatting, both style and manual formatting, use the **[ClearCharacterAllFormatting](Word.Selection.ClearCharacterAllFormatting.md)** method.
 
 
- **Note**  To remove paragraph formatting, see the  **[ClearParagraphAllFormatting](Word.Selection.ClearParagraphAllFormatting.md)** , **[ClearParagraphDirectFormatting](Word.Selection.ClearParagraphDirectFormatting.md)** , or **[ClearParagraphStyle](Word.Selection.ClearParagraphStyle.md)** method.
+ **Note**  To remove paragraph formatting, see the  **[ClearParagraphAllFormatting](Word.Selection.ClearParagraphAllFormatting.md)**, **[ClearParagraphDirectFormatting](Word.Selection.ClearParagraphDirectFormatting.md)**, or **[ClearParagraphStyle](Word.Selection.ClearParagraphStyle.md)** method.
 
 
 ## See also

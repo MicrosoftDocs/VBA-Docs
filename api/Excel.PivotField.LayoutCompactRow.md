@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 ## Remarks
 
-Setting this property to  **True** (default) will have no immediate visual effect in the PivotTable if the **LayoutForm** property is set to **xlTabular** , but it can be set independently.
+Setting this property to  **True** (default) will have no immediate visual effect in the PivotTable if the **LayoutForm** property is set to **xlTabular**, but it can be set independently.
 
 
 ## See also

@@ -31,7 +31,7 @@ _expression_ A variable that represents an [OutlookBarShortcuts](./Outlook.Outlo
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The  **OutlookBarShortcut** that is being removed.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the shortcut is not removed from the group.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the shortcut is not removed from the group.|
 
 ## Remarks
 

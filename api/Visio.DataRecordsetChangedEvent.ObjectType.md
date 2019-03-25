@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordsetChangedEvent.ObjectType Property (Visio)
 
-Returns  **visObjTypeDataRecordsetChangedEvent** , the type of a **DataRecordsetChangedEvent** object. Read-only.
+Returns  **visObjTypeDataRecordsetChangedEvent**, the type of a **DataRecordsetChangedEvent** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

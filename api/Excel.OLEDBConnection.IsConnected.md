@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnecti
 
 ## Remarks
 
-The  **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True** , sending commands to the provider could result in an error if the connection is no longer valid.
+The  **IsConnected** property does not check to see if the connection is connected. Even if this property returns **True**, sending commands to the provider could result in an error if the connection is no longer valid.
 
 
 ## See also

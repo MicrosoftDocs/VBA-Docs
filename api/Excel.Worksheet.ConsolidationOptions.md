@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Worksheet.ConsolidationOptions property (Excel)
 
-Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True** , that option is set. Read-only **Variant**.
+Returns a three-element array of consolidation options, as shown in the following table. If the element is  **True**, that option is set. Read-only **Variant**.
 
 
 ## Syntax

@@ -30,7 +30,7 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the refresh doesn't occur when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the refresh doesn't occur when the procedure is finished.|
 
 ## Return value
 

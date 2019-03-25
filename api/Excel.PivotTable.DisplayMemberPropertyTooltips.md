@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
-If  **DisplayMemberPropertyTooltips** is set to **False** , no member properties will be displayed in tooltips. If it is set to **True** , member properties will be displayed in tooltips.
+If  **DisplayMemberPropertyTooltips** is set to **False**, no member properties will be displayed in tooltips. If it is set to **True**, member properties will be displayed in tooltips.
 
 
 ## See also

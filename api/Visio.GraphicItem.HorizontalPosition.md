@@ -34,7 +34,7 @@ Gets or sets the horizontal position of the  **GraphicItem** object relative to 
 
 ## Remarks
 
-The default horizontal callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** , commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicHorizontalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True** , the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False** , its horizontal position is determined by the settings of the **GraphicItem.HorizontalPosition** property.
+The default horizontal callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**, commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicHorizontalPosition** property. If **GraphicItem.UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False**, its horizontal position is determined by the settings of the **GraphicItem.HorizontalPosition** property.
 
 Note, however, that users can manually re-position a data graphic that was applied to a shape by using the control handle of the data graphic. A position set in this manner takes precedence over the position specified by property settings.
 

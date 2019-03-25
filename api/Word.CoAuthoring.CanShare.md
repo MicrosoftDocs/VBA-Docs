@@ -26,7 +26,7 @@ Returns a  **Boolean** that specifies whether this document can be co authored. 
 
 ## Remarks
 
-The value of this property is affected by whether  **[CanMerge](Word.CoAuthoring.CanMerge.md)** is **True** , the file extension is .docx, and the document is stored on a server that supports the File Synchronization via SOAP over HTTP protocol.
+The value of this property is affected by whether  **[CanMerge](Word.CoAuthoring.CanMerge.md)** is **True**, the file extension is .docx, and the document is stored on a server that supports the File Synchronization via SOAP over HTTP protocol.
 
 
 ## Example

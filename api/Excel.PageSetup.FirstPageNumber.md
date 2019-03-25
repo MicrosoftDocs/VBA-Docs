@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PageSetup.FirstPageNumber property (Excel)
 
-Returns or sets the first page number that will be used when this sheet is printed. If  **xlAutomatic** , Microsoft Excel chooses the first page number. The default is **xlAutomatic**. Read/write **Long**.
+Returns or sets the first page number that will be used when this sheet is printed. If  **xlAutomatic**, Microsoft Excel chooses the first page number. The default is **xlAutomatic**. Read/write **Long**.
 
 
 ## Syntax

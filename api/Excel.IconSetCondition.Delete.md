@@ -19,7 +19,7 @@ Deletes the specified conditional formatting rule object.
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
 _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 

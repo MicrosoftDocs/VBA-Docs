@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ServerPublishOptions.ObjectType Property (Visio)
 
-Returns  **visObjTypeServerPublishOptions** , the type of this object. Read-only.
+Returns  **visObjTypeServerPublishOptions**, the type of this object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

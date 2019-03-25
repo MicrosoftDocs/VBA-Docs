@@ -28,7 +28,7 @@ _expression_ A variable that represents an [ExchangeUser](./Outlook.ExchangeUser
 
 This property corresponds to the MAPI property,  **PidTagDisplayType**.
 
- The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeUser** , **DisplayType** should always return **olUser**.
+ The **ExchangeUser** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **DisplayType** property from the **AddressEntry** object. In the case of **ExchangeUser**, **DisplayType** should always return **olUser**.
 
 
 ## See also

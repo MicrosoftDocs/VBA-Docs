@@ -26,7 +26,7 @@ Returns the country/region designation of the system. Read-only  **WdCountry**.
 
 ## Example
 
-If the  **CountryRegion** property returns **wdUS** , this example converts the top margin value from points to inches.
+If the  **CountryRegion** property returns **wdUS**, this example converts the top margin value from points to inches.
 
 
 ```vb

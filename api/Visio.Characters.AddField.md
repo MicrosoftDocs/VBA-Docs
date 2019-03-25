@@ -60,6 +60,6 @@ To add a custom formula field, use the  **AddCustomField** method.
 
 To specify language and calendar versions for Date/Time fields, use the  **AddFieldEx** method.
 
-Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)** , **[VisFieldCodes](Visio.visfieldcodes.md)** , and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
+Constant values for  _Category_,  _Code_, and  _Format_ are declared by the Visio type library in **[VisFieldCategories](Visio.visfieldcategories.md)**, **[VisFieldCodes](Visio.visfieldcodes.md)**, and **[VisFieldFormats](Visio.visfieldformats.md)** respectively.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

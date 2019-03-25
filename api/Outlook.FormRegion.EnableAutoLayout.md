@@ -28,7 +28,7 @@ _expression_ A variable that represents a [FormRegion](./Outlook.FormRegion.md) 
 
 The automatic layout resizing feature in the forms designer recalculates the form layout dynamically as the form is resized. This feature is only available to form regions in the forms designer.
 
-When this property is  **True** , the forms designer performs automatic layout resizing. When this property is **False** , the forms designer does not perform automatic layout resizing. The default value is **True**.
+When this property is  **True**, the forms designer performs automatic layout resizing. When this property is **False**, the forms designer does not perform automatic layout resizing. The default value is **True**.
 
 
 ## See also

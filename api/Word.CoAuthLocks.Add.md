@@ -30,7 +30,7 @@ Returns a  **[CoAuthLock](Word.CoAuthLock.md)** object that represents a lock ad
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Range_|Optional| **Variant**|Specifies the document range locked by the  **[CoAuthLock](Word.CoAuthLock.md)** object. This parameter may be a **Paragraph** , **Column** , **Cell** , **Row** , **Table** , **Range** , or **Selection** object.|
+| _Range_|Optional| **Variant**|Specifies the document range locked by the  **[CoAuthLock](Word.CoAuthLock.md)** object. This parameter may be a **Paragraph**, **Column**, **Cell**, **Row**, **Table**, **Range**, or **Selection** object.|
 | _Type_|Optional| **[WdLockType](Word.WdLockType.md)**|Specifies the type of lock. The  **WdLockType** specified can only be **wdLockEphemeral** or **WdLockReservation**|
 
 ## Return value

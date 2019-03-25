@@ -31,7 +31,7 @@ Adds an  **Event** object that runs an add-on when an event occurs. The **Event*
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _EventCode_|Required| **Integer**|The event(s) to capture.|
-| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon** , a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
+| _Action_|Required| **Integer**|The action to perform. Must be  **visActCodeRunAddon**, a member of **[VisEventCodes](Visio.viseventcodes.md)** in the Visio type Library.|
 | _Target_|Required| **String**|The name of your add-on.|
 | _TargetArgs_|Required| **String**|The string that is passed to your  **Event** object to set its **TargetArgs** property.|
 
@@ -48,7 +48,7 @@ Creating  **Event** objects is a common way to handle events from C++ or other n
 
  **Event** objects that run add-ons can be persistent: that is, they can be stored with a Visio document. To be persistent, an **Event** object's **Persistent** and **Persistable** properties must both be **True**.
 
-The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event** , **Action** (**visActCodeRunAddon**), **Target** , and **TargetArgs** properties.
+The arguments passed to the  **Add** method set the initial values of the **Event** object's **Event**, **Action** (**visActCodeRunAddon**), **Target**, and **TargetArgs** properties.
 
 Event codes are declared by the Visio type library and have the prefix  **visEvt**. Event codes are often a combination of constants. For example, **visEvtAdd** + **visEvtDoc** is the event code for the **DocumentAdded** event. To find an event code for the event you want to create, see [Event Codes](../visio/Concepts/event-codesvisio.md).
 

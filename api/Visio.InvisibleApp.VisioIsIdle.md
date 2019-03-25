@@ -42,7 +42,7 @@ Visio continually processes messages in its message queue. When its message queu
     
 3. If the message queue is still empty, Visio fires the  **VisioIsIdle** event.
     
-4. If the message queue is still empty, Visio calls  **WaitMessage** , which is a call to Microsoft Windows that doesn't return until a new message gets added to the Visio message queue.
+4. If the message queue is still empty, Visio calls  **WaitMessage**, which is a call to Microsoft Windows that doesn't return until a new message gets added to the Visio message queue.
     
 
 

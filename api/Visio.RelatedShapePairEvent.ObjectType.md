@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # RelatedShapePairEvent.ObjectType Property (Visio)
 
-Returns  **visObjTypeRelatedShapePairEvent** , the type of this object. Read-only.
+Returns  **visObjTypeRelatedShapePairEvent**, the type of this object. Read-only.
 
 
 ## Syntax

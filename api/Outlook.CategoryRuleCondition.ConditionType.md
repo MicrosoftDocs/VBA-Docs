@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CategoryRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionCategory** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionCategory**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

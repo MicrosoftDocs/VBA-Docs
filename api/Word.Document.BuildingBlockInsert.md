@@ -19,7 +19,7 @@ Occurs when you insert a building block into a document. .
 
 ## Syntax
 
-Private Sub  _expression_ _'BuildingBlockInsert'(**_Range_** , **_Name_** , **_Category_** , **_Type_** , **_Template_**)
+Private Sub  _expression_ _'BuildingBlockInsert'(**_Range_**, **_Name_**, **_Category_**, **_Type_**, **_Template_**)
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

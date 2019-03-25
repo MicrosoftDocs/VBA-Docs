@@ -19,9 +19,9 @@ Returns or sets the priority value of the conditional formatting rule. The prior
 
 ## Syntax
 
-_expression_. `Priority`
+_expression_.**Priority**
 
-_expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## Remarks

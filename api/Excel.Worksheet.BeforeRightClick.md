@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) obje
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurs.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action doesn't occur when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default right-click action doesn't occur when the procedure is finished.|
 
 ## Remarks
 

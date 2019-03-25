@@ -26,7 +26,7 @@ Returns or sets the distance (in points) between the left edge of the page and t
 
 ## Remarks
 
-If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True** , the LeftMargin property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
+If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the LeftMargin property controls the setting for inside margins and the **[RightMargin](Word.PageSetup.RightMargin.md)** property controls the setting for outside margins.
 
 
 ## Example

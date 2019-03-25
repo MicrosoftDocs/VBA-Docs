@@ -26,7 +26,7 @@ Returns an  **[OlViewType](Outlook.OlViewType.md)** constant representing the vi
 
 ## Remarks
 
-This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to  **olLargeIcon** , it will not have any effect.
+This property does not have any effect on the icons displayed in the Shortcuts pane. Large icons have been removed and if this property is set to  **olLargeIcon**, it will not have any effect.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Hyperlinks.Shape Property (Visio)
 
-Returns the  **Shape** object that owns a **Cell** , **Characters** , **Row** , or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
+Returns the  **Shape** object that owns a **Cell**, **Characters**, **Row**, or **Section** object or that is associated with a **Hyperlink** or **OLEObject** object or with the **Hyperlinks** collection. Read-only.
 
 
 ## Syntax

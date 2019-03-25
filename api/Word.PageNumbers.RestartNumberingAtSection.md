@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-If set to  **False** , the **RestartNumberingAtSection** property will override the **[StartingNumber](Word.PageNumbers.StartingNumber.md)** property so that page numbering can continue from the previous section.
+If set to  **False**, the **RestartNumberingAtSection** property will override the **[StartingNumber](Word.PageNumbers.StartingNumber.md)** property so that page numbering can continue from the previous section.
 
 
 ## Example

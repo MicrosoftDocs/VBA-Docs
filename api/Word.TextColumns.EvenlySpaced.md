@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-The  **EvenlySpaced** property can be **True** , **False** , or **wdUndefined**.
+The  **EvenlySpaced** property can be **True**, **False**, or **wdUndefined**.
 
 If you set the  **[Spacing](Word.TextColumns.Spacing.md)** or **[Width](Word.TextColumns.Width.md)** property of the **TextColumns** object, the **EvenlySpaced** property is automatically set to **True**. Also, setting the **EvenlySpaced** property may change the settings for the **Spacing** and **Width** properties of the **TextColumns** object.
 

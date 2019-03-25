@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action isn't performed when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default right-click action isn't performed when the procedure is finished.|
 
 ## Remarks
 

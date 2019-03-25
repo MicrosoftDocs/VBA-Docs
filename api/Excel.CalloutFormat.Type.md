@@ -19,7 +19,7 @@ Returns or sets a  **[MsoCalloutType](Office.MsoCalloutType.md)** value that rep
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
 

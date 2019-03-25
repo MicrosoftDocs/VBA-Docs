@@ -48,7 +48,7 @@ myDocument.Shapes.Range(Array(1, 3)) _
  .Fill.Patterned msoPatternHorizontalBrick
 ```
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
 
 

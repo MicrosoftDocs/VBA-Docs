@@ -37,7 +37,7 @@ _expression_ A variable that represents a [Worksheets](./Excel.Worksheets.md) ob
 | _ActivePrinter_|Optional| **Variant**|Sets the name of the active printer.|
 | _PrintToFile_|Optional| **Variant**| **True** to print to a file. If _PrToFileName_ is not specified, Microsoft Excel prompts the user to enter the name of the output file.|
 | _Collate_|Optional| **Variant**| **True** to collate multiple copies.|
-| _PrToFileName_|Optional| **Variant**|If  _PrintToFile_ is set to **True** , this argument specifies the name of the file you want to print to.|
+| _PrToFileName_|Optional| **Variant**|If  _PrintToFile_ is set to **True**, this argument specifies the name of the file you want to print to.|
 | _IgnorePrintAreas_|Optional| **Variant**| **True** to ignore print areas and print the entire object.|
 
 ## Return value

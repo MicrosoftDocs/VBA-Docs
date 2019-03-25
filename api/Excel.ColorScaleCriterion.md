@@ -21,7 +21,7 @@ Represents the criteria for the minimum, midpoint, or maximum thresholds for a c
 
 Each  **ColorScaleCriterion** is part of the **[ColorScaleCriteria](Excel.ColorScaleCriteria.md)** collection. Use **ColorScaleCriteria** ( _index_ ), to return an individual criterion.
 
-You can set the  **[Type](Excel.ColorScaleCriterion.Type.md)** , **[Value](Excel.ColorScaleCriterion.Value.md)** , and **[FormatColor](Excel.ColorScaleCriterion.FormatColor.md)** of each threshold for the color scale.
+You can set the  **[Type](Excel.ColorScaleCriterion.Type.md)**, **[Value](Excel.ColorScaleCriterion.Value.md)**, and **[FormatColor](Excel.ColorScaleCriterion.FormatColor.md)** of each threshold for the color scale.
 
 
 ## Example

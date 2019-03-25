@@ -40,7 +40,7 @@ For example, you pass the string "Jack" for an Exchange user who has an address 
 
 ## Example
 
-The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. For each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)** , it uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it uses **GetExchangeUser** to obtain and print the various pieces of data for the user.
+The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. For each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)**, it uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it uses **GetExchangeUser** to obtain and print the various pieces of data for the user.
 
 
 ```vb

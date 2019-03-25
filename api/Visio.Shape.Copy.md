@@ -39,7 +39,7 @@ Nothing
 
 ## Remarks
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 

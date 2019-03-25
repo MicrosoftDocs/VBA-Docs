@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[Databar](Excel.Databar.md)' object.
 
 ## Remarks
 
-The axis for data bars is displayed only when the  **AxisPosition** property is either **xlDataBarAxisAutomatic** or **xlDataBarAxisMidpoint** , and when there are negative values in the range of values specified with a data bar conditional formatting rule. If the conditional formatting rule is created programmatically, the default value for the **AxisPosition** property is **xlDataBarAxisNone**. If the conditional formatting rule is created using the user interface, the default value for the **AxisPosition** property is **xlDataBarAxisAutomatic**.
+The axis for data bars is displayed only when the  **AxisPosition** property is either **xlDataBarAxisAutomatic** or **xlDataBarAxisMidpoint**, and when there are negative values in the range of values specified with a data bar conditional formatting rule. If the conditional formatting rule is created programmatically, the default value for the **AxisPosition** property is **xlDataBarAxisNone**. If the conditional formatting rule is created using the user interface, the default value for the **AxisPosition** property is **xlDataBarAxisAutomatic**.
 
 
 ## Example

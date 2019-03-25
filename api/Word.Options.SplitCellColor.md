@@ -26,7 +26,7 @@ Returns or sets a  **WdCellColor** that represents the color for split table cel
 
 ## Remarks
 
-This property applies only to documents upon which you have run the  **[CompareDocuments](Word.Application.CompareDocuments.md)** , **[Compare](Word.Document.Compare.md)** , or **[Merge](Word.Document.Merge.md)** method.
+This property applies only to documents upon which you have run the  **[CompareDocuments](Word.Application.CompareDocuments.md)**, **[Compare](Word.Document.Compare.md)**, or **[Merge](Word.Document.Merge.md)** method.
 
 
 ## See also

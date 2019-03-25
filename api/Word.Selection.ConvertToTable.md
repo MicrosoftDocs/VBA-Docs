@@ -44,7 +44,7 @@ Converts text within a range to a table. Returns the table as a  **Table** objec
 | _ApplyFirstColumn_|Optional| **Variant**| **True** to apply the first-column properties of the specified format.|
 | _ApplyLastColumn_|Optional| **Variant**| **True** to apply the last-column properties of the specified format.|
 | _AutoFit_|Optional| **Variant**| **True** to decrease the width of the table columns as much as possible without changing the way text wraps in the cells.|
-| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior** , this argument is ignored.|
+| _AutoFitBehavior_|Optional| **Variant**|Sets the AutoFit rules for how Word sizes a table. Can be one of the following  **WdAutoFitBehavior** constant. If DefaultTableBehavior is **wdWord8TableBehavior**, this argument is ignored.|
 | _DefaultTableBehavior_|Optional| **Variant**| Sets a value that specifies whether Microsoft Word automatically resizes cells in a table to fit the contents (AutoFit). Can be one of the **WdDefaultTableBehavior** constant.|
 
 ## Return value

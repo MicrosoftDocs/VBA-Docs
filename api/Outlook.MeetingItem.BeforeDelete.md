@@ -28,7 +28,7 @@ _expression_ A variable that represents a [MeetingItem](./Outlook.MeetingItem.md
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Item_|Required| **Object**|The item being deleted.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the item is not deleted.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the item is not deleted.|
 
 ## Remarks
 

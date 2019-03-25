@@ -35,7 +35,7 @@ Attempting to get or set the  **SelectedValidationIssue** property on a window o
 
 If multiple issues are selected in the  **Issues** window, Visio returns the issue that has the focus.
 
-If no issue is selected, Visio returns  **Nothing**. By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing** , Visio clears the selection in the **Issues** window.
+If no issue is selected, Visio returns  **Nothing**. By default, issues that you have specified to be ignored are not displayed. If you set the property to **Nothing**, Visio clears the selection in the **Issues** window.
 
 
 ## Example

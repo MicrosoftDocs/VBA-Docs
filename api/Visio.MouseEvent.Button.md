@@ -43,9 +43,9 @@ Possible values for the  **Button** property can be any of the constants shown i
 
 ## Example
 
-This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown** , **MouseMove** , and **MouseUp** events.
+This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **MouseDown**, **MouseMove**, and **MouseUp** events.
 
-To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **MouseListener**, and insert the following code in the module.
 
 
 

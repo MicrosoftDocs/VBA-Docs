@@ -31,7 +31,7 @@ _expression_ A variable that represents an '[OutlookBarPane](Outlook.OutlookBarP
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Shortcut_|Required| **[OutlookBarShortcut](Outlook.OutlookBarShortcut.md)**|The shortcut that the user clicked.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the current folder is not changed.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the current folder is not changed.|
 
 ## Remarks
 

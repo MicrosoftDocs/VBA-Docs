@@ -44,7 +44,7 @@ The  **GetAssociatedTask** method will not work unless the **TaskItem** is proce
 
 ## Example
 
-This Microsoft Visual Basic for Applications (VBA) example accepts a  **[TaskRequestItem](Outlook.TaskRequestItem.md)** , sending the response without displaying the inspector.
+This Microsoft Visual Basic for Applications (VBA) example accepts a  **[TaskRequestItem](Outlook.TaskRequestItem.md)**, sending the response without displaying the inspector.
 
 
 ```vb

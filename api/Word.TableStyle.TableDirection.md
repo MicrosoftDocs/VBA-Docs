@@ -26,7 +26,7 @@ Returns or sets the direction in which Microsoft Word orders cells in the specif
 
 ## Remarks
 
-If the  **TableDirection** property is set to **wdTableDirectionLtr** , the selected rows are arranged with the first column in the leftmost position. If the **TableDirection** property is set to **wdTableDirectionRtl** , the selected rows are arranged with the first column in the rightmost position.
+If the  **TableDirection** property is set to **wdTableDirectionLtr**, the selected rows are arranged with the first column in the leftmost position. If the **TableDirection** property is set to **wdTableDirectionRtl**, the selected rows are arranged with the first column in the rightmost position.
 
 
 ## See also

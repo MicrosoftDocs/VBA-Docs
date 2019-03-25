@@ -48,7 +48,7 @@ The **SetColumnProperties** method is a more efficient way to set properties for
 
 For the ColumnNames() parameter, pass an array of the names of the data columns whose properties you want to change. If you want to change multiple properties of the same column, you can either place the same name in multiple array positions, or you can place the column name in one array position and place empty strings in the succeeding positions that correspond to the array positions of the properties you want to change. 
 
-Possible values for items in the Properties() parameter array are declared in **VisDataColumnProperties** , and are shown in the following table.
+Possible values for items in the Properties() parameter array are declared in **VisDataColumnProperties**, and are shown in the following table.
 
 
 

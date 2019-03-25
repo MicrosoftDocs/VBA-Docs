@@ -19,7 +19,7 @@ Returns the axis type. Read-only  **[xlAxisType](Word.xlaxistype.md)**.
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

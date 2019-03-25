@@ -19,14 +19,14 @@ Returns or sets a  **Boolean** value that determines if additional formatting ru
 
 ## Syntax
 
-_expression_. `StopIfTrue`
+_expression_.**StopIfTrue**
 
 _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks
 
-To support backward compatibility, the default value for this property is  **True** , which is the opposite behavior of a formatting rule created in the user interface.
+To support backward compatibility, the default value for this property is  **True**, which is the opposite behavior of a formatting rule created in the user interface.
 
 
 ## See also

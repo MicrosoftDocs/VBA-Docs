@@ -54,13 +54,13 @@ The following constants declared by the Visio type library in  **VisSelectArgs**
 | **visSelectAll**|4|Selects a shape and all its peers.|
 | **visDeselectAll**|256|Cancels the selection of a shape and all its peers.|
 
-If SelectAction is  **visSubSelect** , the parent shape of SheetObject must already be selected.
+If SelectAction is  **visSubSelect**, the parent shape of SheetObject must already be selected.
 
 You can combine  **visDeselectAll** with **visSelect** and **visSubSelect** to clear all shapes prior to selecting or subselecting other shapes.
 
 If the object being operated on is a  **Selection** object, and if the **Select** method selects a **Shape** object whose **ContainingShape** property is different from the **ContainingShape** property of the **Selection** object, the **Select** method clears everything, even if the selection type value does not specify canceling the selection.
 
-If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect** , the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
+If the object being operated on is a  **Window** object, and if SelectAction is not **visSubSelect**, the parent shape of SheetObject must be the same shape as that returned by the **ContainingShape** property of the **Window.Selection** object.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this method maps to the following types:
 

@@ -38,7 +38,7 @@ You can use any of the constants prefixed with  **visIconIX** that are declared 
 
 The  **FaceID** property determines a button's icon, but not its function. Use the **CmdNum** property of a **ToolbarItem** object to set a button's function.
 
-The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON** , which is declared in the Visio type library in **[VisUICtrlTypes](Visio.visuictrltypes.md)**.
+The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON**, which is declared in the Visio type library in **[VisUICtrlTypes](Visio.visuictrltypes.md)**.
 
 
 ## Example

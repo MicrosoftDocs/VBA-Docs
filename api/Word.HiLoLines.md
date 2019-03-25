@@ -21,7 +21,7 @@ Represents the high-low lines in a chart group.
 
  High-low lines connect the highest point with the lowest point in every category in the chart group. Only 2-D line groups can have high-low lines. This object is not a collection. There is no object that represents a single high-low line; you either enable high-low lines for all points in a chart group or disable them.
 
-If the  **[HasHiLoLines](Word.ChartGroup.HasHiLoLines.md)** property is **False** , most properties of the **HiLoLines** object are disabled.
+If the  **[HasHiLoLines](Word.ChartGroup.HasHiLoLines.md)** property is **False**, most properties of the **HiLoLines** object are disabled.
 
 
 ## Example

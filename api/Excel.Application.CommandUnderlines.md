@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Application](Excel.Application-graph
 
 ## Remarks
 
-In Microsoft Excel for Windows, reading this property always returns  **xlCommandUnderlinesOn** , and setting this property to anything other than **xlCommandUnderlinesOn** is an error.
+In Microsoft Excel for Windows, reading this property always returns  **xlCommandUnderlinesOn**, and setting this property to anything other than **xlCommandUnderlinesOn** is an error.
 
 
 ## Example

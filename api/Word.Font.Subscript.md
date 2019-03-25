@@ -26,9 +26,9 @@ localization_priority: Normal
 
 ## Remarks
 
-Returns  **True** , **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True** , **False** , or **wdToggle**.
+Returns  **True**, **False** or **wdUndefined** (a mixture of **True** and **False**). Can be set to **True**, **False**, or **wdToggle**.
 
-Setting the  **Subscript** property to **True** sets the **[Superscript](Word.Font.Superscript.md)** property to **False** , and vice versa.
+Setting the  **Subscript** property to **True** sets the **[Superscript](Word.Font.Superscript.md)** property to **False**, and vice versa.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) ob
 
 ## Remarks
 
-If the value of the  **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumnSizing.md)** property is set to **False** or if the value of the **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True** , the value of this property is automatically set to **olAlwaysSingleLine**.
+If the value of the  **[AutomaticColumnSizing](Outlook.TableView.AutomaticColumnSizing.md)** property is set to **False** or if the value of the **[AllowInCellEditing](Outlook.TableView.AllowInCellEditing.md)** property is set to **True**, the value of this property is automatically set to **olAlwaysSingleLine**.
 
 
 ## See also

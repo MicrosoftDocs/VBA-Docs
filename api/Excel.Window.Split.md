@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 
 ## Remarks
 
-It's possible for  **[FreezePanes](Excel.Window.FreezePanes.md)** to be **True** and **Split** to be **False** , or vice versa.
+It's possible for  **[FreezePanes](Excel.Window.FreezePanes.md)** to be **True** and **Split** to be **False**, or vice versa.
 
 This property applies only to worksheets and macro sheets.
 

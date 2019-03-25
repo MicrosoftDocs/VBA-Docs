@@ -26,7 +26,7 @@ Returns the gradient variant for the specified fill as an integer value from 1 t
 
 ## Remarks
 
-If the gradient style is  **msoGradientFromCenter** , this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box.
+If the gradient style is  **msoGradientFromCenter**, this property returns either 1 or 2. The values for this property correspond to the gradient variants (numbered from left to right and from top to bottom) on the **Gradient** tab in the **Fill Effects** dialog box.
 
 Use the  **[OneColorGradient](Word.FillFormat.OneColorGradient.md)** or **[TwoColorGradient](Word.FillFormat.TwoColorGradient.md)** method to set the gradient variant for the fill.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Worksheet](./Excel.Worksheet.md) obje
 
 ## Remarks
 
-When the value of this property is  **False** , you cannot request a recalculation. When you change the value from **False** to **True** , Excel recalculates the worksheet.
+When the value of this property is  **False**, you cannot request a recalculation. When you change the value from **False** to **True**, Excel recalculates the worksheet.
 
 
 ## Example

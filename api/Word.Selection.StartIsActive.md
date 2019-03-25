@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-If the selection is not collapsed to an insertion point, either the beginning or the end of the selection is active. The active end of the selection moves when you call the following methods:  **[EndKey](Word.Selection.EndKey.md)** , **[Extend](Word.Selection.Extend.md)** (with the Characters argument), **[HomeKey](Word.Selection.HomeKey.md)** , **[MoveDown](Word.Selection.MoveDown.md)** , **[MoveLeft](Word.Selection.MoveLeft.md)** , **[MoveRight](Word.Selection.MoveRight.md)** , and **[MoveUp](Word.Selection.MoveUp.md)**.
+If the selection is not collapsed to an insertion point, either the beginning or the end of the selection is active. The active end of the selection moves when you call the following methods:  **[EndKey](Word.Selection.EndKey.md)**, **[Extend](Word.Selection.Extend.md)** (with the Characters argument), **[HomeKey](Word.Selection.HomeKey.md)**, **[MoveDown](Word.Selection.MoveDown.md)**, **[MoveLeft](Word.Selection.MoveLeft.md)**, **[MoveRight](Word.Selection.MoveRight.md)**, and **[MoveUp](Word.Selection.MoveUp.md)**.
 
 This property is equivalent to using the  **[Flags](Word.Selection.Flags.md)** property with the **wdSelStartActive** constant. However, using the **Flags** property requires binary operations, which are more complicated than using the **StartIsActive** property.
 

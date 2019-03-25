@@ -33,7 +33,7 @@ Sub ShowItalianNames()
 End Sub
 ```
 
-For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary** , **ActiveHyphenationDictionary** , **ActiveSpellingDictionary** , and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
+For each language for which proofing tools are installed, you can use the  **ActiveGrammarDictionary**, **ActiveHyphenationDictionary**, **ActiveSpellingDictionary**, and **ActiveThesaurusDictionary** properties to return the corresponding **Dictionary** object. The following example returns the full path for the active spelling dictionary used in the U.S. English version of Word.
 
 
 
@@ -83,7 +83,7 @@ Sub SetWritingStyle()
 End Sub
 ```
 
-If you mark text as  **wdNoProofing** , Word skips the marked text when running a spelling or grammar check.
+If you mark text as  **wdNoProofing**, Word skips the marked text when running a spelling or grammar check.
 
 
  **Note**  You must have the proofing tools installed for each language you intend to check. For more information on working in other languages, see [Language-specific information](./overview/Word.md).

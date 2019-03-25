@@ -19,7 +19,7 @@ Returns the type of the object. Read-only.
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 
@@ -33,7 +33,7 @@ Integer
 
 Type value constants for  **Window** objects (the possible values that the **Type** property of a **Window** object returns) are declared by the Visio type library in **[VisWinTypes](Visio.viswintypes.md)**.
 
-If a  **Window** object is type **visDrawing** , use the **SubType** property to determine the type of drawing window represented by the object.
+If a  **Window** object is type **visDrawing**, use the **SubType** property to determine the type of drawing window represented by the object.
 
 
 ## Example

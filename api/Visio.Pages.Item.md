@@ -48,7 +48,7 @@ objRet = object(stringExpression)
 
 ```
 
-You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant**.
+You can retrieve an object in an  **Addons**, **Documents**, **Fonts**, **Hyperlinks**, **Layers**, **Masters**, **MasterShortcuts**, **OLEObjects**, **Pages**, **Shapes**, or **Styles** collection by passing the object's name as a string expression in a **Variant**.
 
 For more information about passing ID strings to the  **Item** property, see the topic for the **UniqueID** property in this Automation Reference.
 
@@ -57,7 +57,7 @@ For more information about passing ID strings to the  **Item** property, see the
 
 Beginning with Microsoft Visio 2000, you can use both local and universal names to refer to Visio shapes, masters, documents, pages, rows, add-ons, cells, hyperlinks, styles, fonts, master shortcuts, UI objects, and layers. When a user names a shape, for example, the user is specifying a local name. Beginning with Microsoft Office Visio 2003, the ShapeSheet spreadsheet displays only universal names in cell formulas and values. (In prior versions, universal names were not visible in the user interface.) 
 
-As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Item** property to access an object in the **Masters** , **Pages** , **Shapes** , **Styles** , **Layers** , or **MasterShortcuts** collection by using its local name. Use the **ItemU** property to access an object from one of these collections by using the object's universal name.
+As a developer, you can use universal names in a program when you don't want to change a name each time a solution is localized. Use the  **Item** property to access an object in the **Masters**, **Pages**, **Shapes**, **Styles**, **Layers**, or **MasterShortcuts** collection by using its local name. Use the **ItemU** property to access an object from one of these collections by using the object's universal name.
 
 If your Visual Studio solution includes the  **Microsoft.Office.Interop.Visio** reference, this property maps to the following types:
 

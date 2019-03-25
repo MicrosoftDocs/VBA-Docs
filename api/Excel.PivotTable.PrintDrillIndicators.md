@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 Returns  **True** if drill indicators are printed with the PivotTable and returns **False** if drill indicators are not printed with the PivotTable.
 
-When the  **[ShowDrillIndicators](Excel.PivotTable.ShowDrillIndicators.md)** property is set to **False** , the **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
+When the  **[ShowDrillIndicators](Excel.PivotTable.ShowDrillIndicators.md)** property is set to **False**, the **PrintDrillIndicators** property has no effect. Drill indicators are not printed when they are not displayed in the PivotTable.
 
 
 ## See also

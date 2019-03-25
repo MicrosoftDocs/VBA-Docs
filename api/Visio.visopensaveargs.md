@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisOpenSaveArgs Enumeration (Visio)
 
-Flags to be passed to the **Documents.AddEx** , **Documents.OpenEx** , and **Documents.SaveAsEx** methods.
+Flags to be passed to the **Documents.AddEx**, **Documents.OpenEx**, and **Documents.SaveAsEx** methods.
 
 
 

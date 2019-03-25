@@ -19,7 +19,7 @@ Deletes the specified  **[CustomXMLPart](Office.CustomXMLPart.md)** object from 
 
 ## Syntax
 
- _expression_. `Delete`( `_Id_` )
+ _expression_.**Delete**( `_Id_` )
 
  _expression_ An expression that returns a [CustomerData](./PowerPoint.CustomerData.md) object.
 

@@ -86,8 +86,8 @@ The following table describes the meaning of Arg1 and Arg2 after the method retu
 |**Argument**|**Description**|
 |:-----|:-----|
 |AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **[xlAxisGroup](Word.xlaxisgroup.md)** constants: **xlPrimary** or **xlSecondary**.|
-|AxisType|Specifies the axis type. Can be one of the following  **[xlAxisType](Word.xlaxistype.md)** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue**.|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[xlPivotFieldOrientation](Word.xlpivotfieldorientation.md)** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
+|AxisType|Specifies the axis type. Can be one of the following  **[xlAxisType](Word.xlaxistype.md)** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **[xlPivotFieldOrientation](Word.xlpivotfieldorientation.md)** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](Word.ChartGroups.md)** collection for a specific chart group.|
 |PointIndex|Specifies the offset within the  **[Points](Word.Points.md)** collection for a specific point within a series. A value of 1 indicates that all data points are selected.|
 |SeriesIndex|Specifies the offset within the  **[Series](Word.Series.md)** collection for a specific series.|

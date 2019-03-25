@@ -26,7 +26,7 @@ _expression_ A variable that represents a [FillFormat](Excel.FillFormat.md) obje
 
 ## Remarks
 
- **MsoGradientColorMixed** is a return value only which indicates a combination of the other states in the specified range. Use the **[OneColorGradient](Excel.FillFormat.OneColorGradient.md)** , **[PresetGradient](Excel.FillFormat.PresetGradient.md)** , or **[TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
+ **MsoGradientColorMixed** is a return value only which indicates a combination of the other states in the specified range. Use the **[OneColorGradient](Excel.FillFormat.OneColorGradient.md)**, **[PresetGradient](Excel.FillFormat.PresetGradient.md)**, or **[TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)** method to set the gradient type for the fill.
 
 
 ## Example

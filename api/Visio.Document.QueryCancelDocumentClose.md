@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.QueryCancelDocumentClose Event (Visio)
 
-Occurs before the application closes a document in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
+Occurs before the application closes a document in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax

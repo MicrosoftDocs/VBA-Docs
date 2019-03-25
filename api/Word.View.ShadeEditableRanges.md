@@ -26,7 +26,7 @@ Returns or sets a  **Long** that represents whether shading is applied to the ra
 
 ## Remarks
 
- **True** shades the ranges in a document that users can modify. Range shading is on by default. When range shading is on, or when you set the property to **True** , the **ShadeEditableRanges** property returns a value of -1. When you set the **ShadeEditableRanges** property to **False** it returns a value of 0. The values have no meaning beyond indicating whether the property is **True** or **False**.
+ **True** shades the ranges in a document that users can modify. Range shading is on by default. When range shading is on, or when you set the property to **True**, the **ShadeEditableRanges** property returns a value of -1. When you set the **ShadeEditableRanges** property to **False** it returns a value of 0. The values have no meaning beyond indicating whether the property is **True** or **False**.
 
 
 ## Example

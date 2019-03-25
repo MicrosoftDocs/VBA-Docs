@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ColorScaleCriterion](Excel.ColorScale
 
 ## Remarks
 
-You can set the value only if the  **[ColorScaleCriterion.Type](Excel.ColorScaleCriterion.Type.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber** , **xlConditionValuePercent** , **xlConditionValuePercentile** , or **xlConditionValueFormula**.
+You can set the value only if the  **[ColorScaleCriterion.Type](Excel.ColorScaleCriterion.Type.md)** property for the conditional format is set to one of the following constants: **xlConditionValueNumber**, **xlConditionValuePercent**, **xlConditionValuePercentile**, or **xlConditionValueFormula**.
 
 If the type of threshold is a formula, you can set the formula as a  **String**. The formula must return a single number.
 

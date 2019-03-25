@@ -19,7 +19,7 @@ Returns a  **Long** that represents the four-character creator code for the appl
 
 ## Syntax
 
- _expression_. `Creator`
+ _expression_.**Creator**
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

@@ -47,7 +47,7 @@ Possible values for the  **PriFormat** property are as follows:
     
 - VML (Vector Markup Language)
     
-This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As** , in the **Save as type** list, select **Web Page (*.htm;*.html)** , click **Publish** , and then click **Advanced**).
+This value corresponds to the value selected in the  **Output formats** list on the **Advanced** tab of the **Save as Web Page** dialog box (click the **BackstageButton** tab, click **Save As**, in the **Save as type** list, select **Web Page (*.htm;*.html)**, click **Publish**, and then click **Advanced**).
 
 
 ## Example

@@ -33,7 +33,7 @@ VisDocVersions
 
 Setting the  **Version** property of a document tells Microsoft Visio which file format version to save the document in the next time the document is saved. The Visio type library declares constants for file format versions in **[VisDocVersions](Visio.visdocversions.md)**.
 
-Microsoft Visio can save a document in the following file format versions. Note that there are two constants,  **visVersion120** and **visVersion110** , that have identical values.
+Microsoft Visio can save a document in the following file format versions. Note that there are two constants,  **visVersion120** and **visVersion110**, that have identical values.
 
 
 

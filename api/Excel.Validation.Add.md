@@ -31,8 +31,8 @@ _expression_ A variable that represents a [Validation](./Excel.Validation.md) ob
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Type_|Required| **xlDVType**|The validation type.|
-| _AlertStyle_|Optional| **Variant**|The validation alert style. Can be one of the following  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** constants: **xlValidAlertInformation** , **xlValidAlertStop** , or **xlValidAlertWarning**.|
-| _Operator_|Optional| **Variant**|The data validation operator. Can be one of the following  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** constants: **xlBetween** , **xlEqual** , **xlGreater** , **xlGreaterEqual** , **xlLess** , **xlLessEqual** , **xlNotBetween** , or **xlNotEqual**.|
+| _AlertStyle_|Optional| **Variant**|The validation alert style. Can be one of the following  **[xlDVAlertStyle](Excel.XlDVAlertStyle.md)** constants: **xlValidAlertInformation**, **xlValidAlertStop**, or **xlValidAlertWarning**.|
+| _Operator_|Optional| **Variant**|The data validation operator. Can be one of the following  **[xlFormatConditionOperator](Excel.XlFormatConditionOperator.md)** constants: **xlBetween**, **xlEqual**, **xlGreater**, **xlGreaterEqual**, **xlLess**, **xlLessEqual**, **xlNotBetween**, or **xlNotEqual**.|
 | _Formula1_|Optional| **Variant**|The first part of the data validation equation. Value must not exceed 255 characters.|
 | _Formula2_|Optional| **Variant**|The second part of the data validation when  _Operator_ is **xlBetween** or **xlNotBetween** (otherwise, this argument is ignored).|
 
@@ -45,9 +45,9 @@ The  **Add** method requires different arguments, depending on the validation ty
 |**Validation type**|**Arguments**|
 |:-----|:-----|
 | **xlValidateCustom**| **Formula1** is required, **Formula2** is ignored. **Formula1** must contain an expression that evaluates to **True** when data entry is valid and **False** when data entry is invalid.|
-| **xlInputOnly**| **AlertStyle** , **Formula1** , or **Formula2** are used.|
+| **xlInputOnly**| **AlertStyle**, **Formula1**, or **Formula2** are used.|
 | **xlValidateList**| **Formula1** is required, **Formula2** is ignored. **Formula1** must contain either a comma-delimited list of values or a worksheet reference to this list.|
-| **xlValidateWholeNumber** , **xlValidateDate** , **xlValidateDecimal** , **xlValidateTextLength** , or **xlValidateTime**|One of either  **Formula1** or **Formula2** must be specified, or both may be specified.|
+| **xlValidateWholeNumber**, **xlValidateDate**, **xlValidateDecimal**, **xlValidateTextLength**, or **xlValidateTime**|One of either  **Formula1** or **Formula2** must be specified, or both may be specified.|
 
 ## Example
 

@@ -19,7 +19,7 @@ Deletes the specified file on the list of recent files.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ Required. A variable that represents a '[RecentFile](Word.RecentFile.md)' object.
 

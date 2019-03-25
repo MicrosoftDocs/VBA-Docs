@@ -26,7 +26,7 @@ Returns or sets the color of the inside borders. Read/write  **WdColorIndex**.
 
 ## Remarks
 
-If the  **InsideLineStyle** property is set to either **wdLineStyleNone** or **False** , setting this property has no effect.
+If the  **InsideLineStyle** property is set to either **wdLineStyleNone** or **False**, setting this property has no effect.
 
 
 ## Example

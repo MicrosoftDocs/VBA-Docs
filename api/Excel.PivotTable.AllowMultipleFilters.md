@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 Default value is  **False**.
 
-When this property is set to  **True** , multiple filters can be applied to single PivotFields. When it is set to **False** , applying a filter to a PivotField that is already filtered will remove the existing filter and apply the new one. Setting this property to **False** when the PivotTable has fields with more than one filter applied will silently remove all filters in the PivotTable without displaying any alert. However, there is an alert when this is done through the user interface.
+When this property is set to  **True**, multiple filters can be applied to single PivotFields. When it is set to **False**, applying a filter to a PivotField that is already filtered will remove the existing filter and apply the new one. Setting this property to **False** when the PivotTable has fields with more than one filter applied will silently remove all filters in the PivotTable without displaying any alert. However, there is an alert when this is done through the user interface.
 
 
 ## See also

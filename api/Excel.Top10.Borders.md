@@ -19,7 +19,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that specifies the formatt
 
 ## Syntax
 
-_expression_. `Borders`
+_expression_.**Borders**
 
 _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 

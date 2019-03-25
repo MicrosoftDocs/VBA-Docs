@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 
 ## Remarks
 
-If the  **[TransitionNavigKeys](Excel.Application.TransitionNavigKeys.md)** property is **False** , this prefix character will be ' for a text label, or blank. If the **TransitionNavigKeys** property is **True** , this character will be ' for a left-justified label, " for a right-justified label, ^ for a centered label, \ for a repeated label, or blank.
+If the  **[TransitionNavigKeys](Excel.Application.TransitionNavigKeys.md)** property is **False**, this prefix character will be ' for a text label, or blank. If the **TransitionNavigKeys** property is **True**, this character will be ' for a left-justified label, " for a right-justified label, ^ for a centered label, \ for a repeated label, or blank.
 
 
 ## Example

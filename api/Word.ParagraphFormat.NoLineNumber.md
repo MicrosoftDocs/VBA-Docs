@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ParagraphFormat.NoLineNumber property (Word)
 
- **True** if line numbers are repressed for the specified paragraphs. Can be **True** , **False** , or **wdUndefined**. Read/write **Long**.
+ **True** if line numbers are repressed for the specified paragraphs. Can be **True**, **False**, or **wdUndefined**. Read/write **Long**.
 
 
 ## Syntax

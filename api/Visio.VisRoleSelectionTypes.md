@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # VisRoleSelectionTypes Enumeration (Visio)
 
-Specifies selections that contain all shapes of a given role; passed to the  **[Master.CreateSelection](Visio.Master.CreateSelection.md)** , **[Page.CreateSelection](Visio.Page.CreateSelection.md)** , and **[Shape.CreateSelection](Visio.Shape.CreateSelection.md)** methods.
+Specifies selections that contain all shapes of a given role; passed to the  **[Master.CreateSelection](Visio.Master.CreateSelection.md)**, **[Page.CreateSelection](Visio.Page.CreateSelection.md)**, and **[Shape.CreateSelection](Visio.Shape.CreateSelection.md)** methods.
 
 
 

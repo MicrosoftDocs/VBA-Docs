@@ -40,7 +40,7 @@ Valid values for  **OLE_COLOR** within Microsoft Visio can be one of the followi
     
 For details about the  **GetSysColor** function, search for " **GetSysColor** " in the Microsoft Platform SDK on MSDN, the Microsoft Developer Network.
 
-The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR** , the Properties window will display a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
+The  **OLE_COLOR** data type is used for properties that return colors. When a property is declared as **OLE_COLOR**, the Properties window will display a color-picker dialog box that allows the user to select the color for the property visually, rather than having to remember the numeric equivalent.
 
 You can also set this value in the  **Color** box in the **Choose Font** dialog box (click the **File** tab, click **Print**, click  **Print Preview**, in the  **Preview** group, click **Header & Footer**, and then click  **Choose Font**).
 

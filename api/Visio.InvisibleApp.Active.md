@@ -44,7 +44,7 @@ For example, suppose you start one instance of Visio and one of another applicat
     
 
 
-If an  **Application** object's **Active** property is **True** , you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True**. If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
+If an  **Application** object's **Active** property is **True**, you can assume that the corresponding instance of Visio is the active instance of Visio unless the **InPlace** property is also **True**. If an instance of Visio is activated for in-place editing in a container application, that instance may not necessarily report itself as the active instance of Visio.
 
 
 ## Example

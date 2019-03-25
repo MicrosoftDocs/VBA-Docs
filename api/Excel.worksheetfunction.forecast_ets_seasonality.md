@@ -39,7 +39,7 @@ _expression_ A variable that represents a [WorksheetFunction](./Excel.WorksheetF
 
 ## Remarks
 
-You can use  **Forecast_ETS_Seasonality** following[Forecast_ETS](Excel.worksheetfunction.forecast_ets.md) to identify which automatic seasonality was detected and used in **Forecast_ETS**. While you can also use it independently of **Forecast_ETS** , the methods are tied together, because the seasonality detected in this method is identical to the one used by **Forecast_ETS** , considering that the same input parameters that affect data completion are passed in both methods.
+You can use  **Forecast_ETS_Seasonality** following[Forecast_ETS](Excel.worksheetfunction.forecast_ets.md) to identify which automatic seasonality was detected and used in **Forecast_ETS**. While you can also use it independently of **Forecast_ETS**, the methods are tied together, because the seasonality detected in this method is identical to the one used by **Forecast_ETS**, considering that the same input parameters that affect data completion are passed in both methods.
 
  It isn't necessary to sort the timeline ( _Arg2_), because  **Forecast_ETS_Seasonality** sorts it implicitly for calculations. If **Forecast_ETS_Seasonality** can't identify a constant step in the timeline, it returns runtime error ?1004?. If the timeline contains duplicate values, **Forecast_ETS_Seasonality** also returns an error. If the ranges of the timeline and values aren't all of the same size, **Forecast_ETS_Seasonality** returns runtime error ?1004?.
 

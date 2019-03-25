@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AboveAverage.AboveBelow
 ms.assetid: 9436063c-b82a-aa0b-0379-5eaee6f68041
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,11 @@ Returns or sets one of the constants of the **[xlAboveBelow](Excel.XlAboveBelow.
 
 ## Syntax
 
-_expression_. `AboveBelow`
+_expression_.**AboveBelow**
 
-_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an **[AboveAverage](Excel.AboveAverage.md)** object.
 
 
-## See also
 
-- [AboveAverage object](Excel.AboveAverage.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

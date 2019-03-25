@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MovedSelectionEvent.ObjectType Property (Visio)
 
-Returns  **visObjTypeMovedSelectionEvent** , the type of this object. Read-only.
+Returns  **visObjTypeMovedSelectionEvent**, the type of this object. Read-only.
 
 
 ## Syntax

@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisZoomBehavior Enumeration (Visio)
 
-Flags used in conjunction with the  **Application.DefaultZoomBehavior** , **Document.ZoomBehavior** , and **Window.ZoomBehavior** properties.
+Flags used in conjunction with the  **Application.DefaultZoomBehavior**, **Document.ZoomBehavior**, and **Window.ZoomBehavior** properties.
 
 
 ****

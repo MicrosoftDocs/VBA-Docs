@@ -41,7 +41,7 @@ A  **Selection** object that contains the specified kind of objects that are sel
 
 Calling  **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object that has the **[Location](Outlook.Selection.Location.md)** property equal to **OlSelectionLocation.olViewList**.
 
-If the current view is not a conversation view, or, if  **Selection.Location** is not equal to **OlSelectionLocation.olViewList** , calling **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object with **[Selection.Count](Outlook.Selection.Count.md)** equal to 0.
+If the current view is not a conversation view, or, if  **Selection.Location** is not equal to **OlSelectionLocation.olViewList**, calling **GetSelection** with **olConversationHeaders** as the argument returns a **Selection** object with **[Selection.Count](Outlook.Selection.Count.md)** equal to 0.
 
 
 ## See also

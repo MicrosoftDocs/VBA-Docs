@@ -36,9 +36,9 @@ The values returned by  **KeyAscii** are ASCII codes. To see a list of these cod
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
+This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **KeyboardListener** , and insert the following code in the module.
+To run this example, insert a new class module in your Microsoft Visual Basic for Applications (VBA) project, name it  **KeyboardListener**, and insert the following code in the module.
 
 
 

@@ -44,7 +44,7 @@ Document
 
 The  **AddEx** method is similar to the **Add** method as it applies to the **Documents** collection, except that **AddEx** provides several additional arguments in which the caller can specify how the document is created.
 
-The  _MeasurementSystem_ argument should be one of the following members of **VisMeasurementSystem** , which is declared in the Visio type library.
+The  _MeasurementSystem_ argument should be one of the following members of **VisMeasurementSystem**, which is declared in the Visio type library.
 
 
 
@@ -54,7 +54,7 @@ The  _MeasurementSystem_ argument should be one of the following members of **Vi
 | **visMSMetric**|1|Metric measurement system.|
 | **visMSUS**|2|US units measurement system.|
 
-The  _Flags_ argument should be a combination of one or more of the following members of **VisOpenSaveArgs** , which is declared in the Visio type library.
+The  _Flags_ argument should be a combination of one or more of the following members of **VisOpenSaveArgs**, which is declared in the Visio type library.
 
 
 

@@ -21,7 +21,7 @@ Contains properties that apply to header and footer picture objects.
 
 There are several properties of the **[PageSetup](Excel.PageSetup.md)** object that return the **Graphic** object.
 
-Use the **[CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)** , **[CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)** , **[LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)** , **[LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)** , **[RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)** , or **[RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)** properties to return a **Graphic** object.
+Use the **[CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)**, **[CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)**, **[LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)**, **[LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)**, **[RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)**, or **[RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)** properties to return a **Graphic** object.
 
 
  **Note**  It is required that "&G" is a part of the **LeftFooter** string in order for the image to show up in the left footer.

@@ -19,7 +19,7 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you do not want to format all the text in an  **[AxisTitle](Word.AxisTitle.md)** , **[ChartTitle](Word.ChartTitle.md)** , **[DataLabel](Word.DataLabel.md)** , or **[DisplayUnitLabel](Word.DisplayUnitLabel.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](Word.ChartCharacters.md)** object. Then use the **[Font](Word.ChartCharacters.Font.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
+If you do not want to format all the text in an  **[AxisTitle](Word.AxisTitle.md)**, **[ChartTitle](Word.ChartTitle.md)**, **[DataLabel](Word.DataLabel.md)**, or **[DisplayUnitLabel](Word.DisplayUnitLabel.md)** object the same way, use the **Characters** property of that object to first return a subset of the text as a **[ChartCharacters](Word.ChartCharacters.md)** object. Then use the **[Font](Word.ChartCharacters.Font.md)** property of the **ChartCharacters** object to return a **ChartFont** object you can use to format the subset of text, as needed.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # PublishObject.Source property (Excel)
 
-Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.PublishObject.SourceType.md)** property value of **xlSourceRange** , **xlSourceChart** , **xlSourcePrintArea** , **xlSourceAutoFilter** , **xlSourcePivotTable** , or **xlSourceQuery**.
+Returns a  **Variant** value that represents the unique name that identifies items that have a **[SourceType](Excel.PublishObject.SourceType.md)** property value of **xlSourceRange**, **xlSourceChart**, **xlSourcePrintArea**, **xlSourceAutoFilter**, **xlSourcePivotTable**, or **xlSourceQuery**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PublishObject](Excel.PublishObject.md
 
 ## Remarks
 
-If the  **SourceType** property is set to **xlSourceRange** , this property returns a range, which can be a defined name. If the **SourceType** property is set to **xlSourceChart** , **xlSourcePivotTable** , or **xlSourceQuery** , this property returns the name of the object, such as a chart name, a PivotTable report name, or a query table name.
+If the  **SourceType** property is set to **xlSourceRange**, this property returns a range, which can be a defined name. If the **SourceType** property is set to **xlSourceChart**, **xlSourcePivotTable**, or **xlSourceQuery**, this property returns the name of the object, such as a chart name, a PivotTable report name, or a query table name.
 
 
 ## Example

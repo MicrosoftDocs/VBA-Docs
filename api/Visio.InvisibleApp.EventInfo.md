@@ -39,7 +39,7 @@ String
 
 ## Remarks
 
-When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs** , **DocumentSavedAs** , **EnterScope** , **ExitScope** , **MarkerEvent** , **ShapesDeleted** , and **ShapeChanged**. Use the application's **EventInfo** property to obtain this information, when available.
+When Microsoft Visio fires an event, there are a small number of events for which additional information is available. These events are  **BeforeDocumentSaveAs**, **DocumentSavedAs**, **EnterScope**, **ExitScope**, **MarkerEvent**, **ShapesDeleted**, and **ShapeChanged**. Use the application's **EventInfo** property to obtain this information, when available.
 
 The  **EventInfo** property returns the following:
 
@@ -68,9 +68,9 @@ To ensure that the information returned by the  **EventInfo** property is associ
 
 
 
-- If the  **Action** property of the **Event** object returns **visActCodeRunAddon** , the command line string passed to the add-on contains a substring of the form "/eventid=<sequence number>".
+- If the  **Action** property of the **Event** object returns **visActCodeRunAddon**, the command line string passed to the add-on contains a substring of the form "/eventid=<sequence number>".
     
      **Note**   Even though the substring is labeled "/eventid," don't confuse the <sequence number> passed in the command line string with the **ID** property of the firing **Event** object, which identifies the **Event** object in its **EventList** collection. The number being passed is actually the firing sequence number.
-- If the  **Action** property of the **Event** object returns **visActCodeAdvise** , the sequence number is passed as an argument to the **VisEventProc** procedure implemented by the target object.
+- If the  **Action** property of the **Event** object returns **visActCodeAdvise**, the sequence number is passed as an argument to the **VisEventProc** procedure implemented by the target object.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

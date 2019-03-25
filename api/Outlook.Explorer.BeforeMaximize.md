@@ -30,7 +30,7 @@ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) obj
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the operation is not completed and the explorer is not maximized.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the operation is not completed and the explorer is not maximized.|
 
 ## Remarks
 

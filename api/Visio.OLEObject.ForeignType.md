@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-If the  **Type** property of a **Shape** object returns any value other than **visTypeForeignObject** , the **ForeignType** property returns the same value as the **Shape** object's **Type** property. If the **Type** property of a **Shape** object returns **visTypeForeignObject** , the **ForeignType** property returns a combination of the following values.
+If the  **Type** property of a **Shape** object returns any value other than **visTypeForeignObject**, the **ForeignType** property returns the same value as the **Shape** object's **Type** property. If the **Type** property of a **Shape** object returns **visTypeForeignObject**, the **ForeignType** property returns a combination of the following values.
 
 
 

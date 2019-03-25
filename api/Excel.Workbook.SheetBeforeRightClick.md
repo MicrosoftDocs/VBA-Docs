@@ -32,7 +32,7 @@ _expression_. `SheetBeforeRightClick`( `_Sh_` , `_Target_` , `_Cancel_` )
 |:-----|:-----|:-----|:-----|
 | _Sh_|Required| **Object**|A  **[Worksheet](Excel.Worksheet.md)** object that represents the sheet.|
 | _Target_|Required| **Range**|The cell nearest to the mouse pointer when the right-click occurred.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default right-click action isn't performed when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default right-click action isn't performed when the procedure is finished.|
 
 ## Remarks
 

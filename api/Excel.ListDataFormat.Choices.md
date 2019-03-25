@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ListDataFormat.Choices property (Excel)
 
- Returns an **Array** of **String** values that contains the choices offered to the user by the **ListLookUp** , **ChoiceMulti** , and **Choice** data types of the **[DefaultValue](Excel.ListDataFormat.DefaultValue.md)** property. Read-only **Variant**.
+ Returns an **Array** of **String** values that contains the choices offered to the user by the **ListLookUp**, **ChoiceMulti**, and **Choice** data types of the **[DefaultValue](Excel.ListDataFormat.DefaultValue.md)** property. Read-only **Variant**.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ In Microsoft Excel, you cannot set any of the properties associated with the  **
 
 ## Example
 
-The following example displays the setting of the  **Choice** property for the third column in a list that is linked to a SharePoint list. In this example, it is assumed that the **DefaultValue** property has been set to the **Choice** , **ChoiceMulti** , or **ListLookup** data type.
+The following example displays the setting of the  **Choice** property for the third column in a list that is linked to a SharePoint list. In this example, it is assumed that the **DefaultValue** property has been set to the **Choice**, **ChoiceMulti**, or **ListLookup** data type.
 
 
 ```vb

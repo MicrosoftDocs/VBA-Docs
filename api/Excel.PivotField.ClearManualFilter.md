@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 This method is available for the  **PivotField** object in PivotTables and for the **CubeField** object in the OLAP PivotTables. Calling it for a PivotField in an OLAP PivotTable will return a run-time error.
 
-After calling this method, the following collections are empty:  **HiddenItemsList** , **HiddenItems** , **VisibleItemsList** , and **VisibleItems**.
+After calling this method, the following collections are empty:  **HiddenItemsList**, **HiddenItems**, **VisibleItemsList**, and **VisibleItems**.
 
 
 ## See also

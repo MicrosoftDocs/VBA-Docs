@@ -31,7 +31,7 @@ Private Sub  _expression_ _'DocumentChanged'(**_ByVal doc As [IVDOCUMENT]_**)
 
 ## Remarks
 
-The  **DocumentChanged** event indicates that one of a document's properties, such as **Author** or **Description** , has changed.
+The  **DocumentChanged** event indicates that one of a document's properties, such as **Author** or **Description**, has changed.
 
 If you are using Microsoft Visual Basic or Visual Basic for Applications (VBA), the syntax in this topic describes a common, efficient way to handle events.
 

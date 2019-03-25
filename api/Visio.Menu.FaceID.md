@@ -36,6 +36,6 @@ Integer
 
 You can use any of the constants prefixed with  **visIconIX** that are declared by the Visio type library in **[VisUIIconIDs](Visio.visuiiconids.md)**.
 
-The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON** , which is declared in the Visio type library in **[VisUICtrlTypes](Visio.visuictrltypes.md)**.
+The  **FaceID** property is the same as the **TypeSpecific1** property when the **CtrlType** property is type **visCtrlTypeBUTTON**, which is declared in the Visio type library in **[VisUICtrlTypes](Visio.visuictrltypes.md)**.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

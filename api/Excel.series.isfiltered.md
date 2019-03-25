@@ -24,7 +24,7 @@ _expression_ A variable that represents a [Series](Excel.Series-graph-object.md)
 
 ## Remarks
 
-When a user filters out a series, the series  **IsFiltered** property switches to **True** , and the series is transferred out of its parent **SeriesCollection**. However, that series still remains in its parent **FullSeriesCollection**. When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection**.
+When a user filters out a series, the series  **IsFiltered** property switches to **True**, and the series is transferred out of its parent **SeriesCollection**. However, that series still remains in its parent **FullSeriesCollection**. When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection**.
 
 
 ## Property value

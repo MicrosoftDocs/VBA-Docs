@@ -31,7 +31,7 @@ A Long value that represents the number of rows in the Table.
 
 ## Remarks
 
- **GetRowCount** on a large table will result in a performance impact. Due to MAPI restrictions (for example, memory constraints for large tables, simultaneous operations on the **Table**), **GetRowCount** may not be able to determine the number of rows in the **Table** , or it may only return an approximate row count. In these cases, **GetRowCount** will return an error. You should use appropriate error detection for **GetRowCount** to determine if the call returns an error.
+ **GetRowCount** on a large table will result in a performance impact. Due to MAPI restrictions (for example, memory constraints for large tables, simultaneous operations on the **Table**), **GetRowCount** may not be able to determine the number of rows in the **Table**, or it may only return an approximate row count. In these cases, **GetRowCount** will return an error. You should use appropriate error detection for **GetRowCount** to determine if the call returns an error.
 
 
 ## See also

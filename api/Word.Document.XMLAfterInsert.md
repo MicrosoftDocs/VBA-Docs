@@ -19,7 +19,7 @@ Occurs when a user adds a new XML element to a document. If more than one elemen
 
 ## Syntax
 
-Private Sub  _expression_ _'XMLAfterInsert'(**_NewXMLNode_** , **_InUndoRedo_**)
+Private Sub  _expression_ _'XMLAfterInsert'(**_NewXMLNode_**, **_InUndoRedo_**)
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object that has been declared by using the **WithEvents** keyword in a class module. For information about using events with a **Document** object, see [Using Events with the Document Object](../word/Concepts/Objects-Properties-Methods/using-events-with-the-document-object.md).
 
@@ -35,9 +35,9 @@ Private Sub  _expression_ _'XMLAfterInsert'(**_NewXMLNode_** , **_InUndoRedo_**)
 
 ## Remarks
 
-If the InUndoRedo parameter is  **True** , never change the XML in a document while the **XMLAfterInsert** and **XMLBeforeDelete** events are running.
+If the InUndoRedo parameter is  **True**, never change the XML in a document while the **XMLAfterInsert** and **XMLBeforeDelete** events are running.
 
-If the InUndoRedo parameter is  **False** , you can insert and delete the XML in the document, but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
+If the InUndoRedo parameter is  **False**, you can insert and delete the XML in the document, but be careful that the **XMLAfterInsert** and **XMLBeforeDelete** events will not try to cancel each other out, causing an infinite loop. You can prevent infinite loops by using a global **Boolean** variable and check for that at the beginning of the error handler, as shown in the following example.
 
 
 

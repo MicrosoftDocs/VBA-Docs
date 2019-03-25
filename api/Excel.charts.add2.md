@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Charts](Excel.Charts.md) object.
 | _Before_|Optional|VARIANT|An object that specifies the sheet before which the new sheet is added.|
 | _After_|Optional|VARIANT|An object that specifies the sheet after which the new sheet is added.|
 | _Count_|Optional|VARIANT|The number of sheets to be added. The default value is one.|
-| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True** , the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True**, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 
 ## Return value
 

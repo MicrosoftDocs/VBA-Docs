@@ -19,7 +19,7 @@ Returns or sets the format code for the object. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `NumberFormat`
+ _expression_.**NumberFormat**
 
  _expression_ A variable that represents a '[TickLabels](Word.TickLabels.md)' object.
 

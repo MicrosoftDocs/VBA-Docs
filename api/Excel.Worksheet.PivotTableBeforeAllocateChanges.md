@@ -33,7 +33,7 @@ _expression_ A variable that represents a '[Worksheet](Excel.Worksheet.md)' obje
 | _TargetPivotTable_|Required| **[PivotTable](Excel.PivotTable.md)**|The PivotTable that contains the changes to apply.|
 | _ValueChangeStart_|Required| **Long**|The index to the first change in the associated  **[PivotTableChangeList](Excel.PivotTableChangeList.md)** collection. The index is specified by the **[Order](Excel.ValueChange.Order.md)** property of the **[ValueChange](Excel.ValueChange.md)** object in the **PivotTableChangeList** collection.|
 | _ValueChangeEnd_|Required| **Long**|The index to the last change in the associated  **PivotTableChangeList** collection. The index is specified by the **Order** property of the **ValueChange** object in the **PivotTableChangeList** collection.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the changes are not applied to the PivotTable and all edits are lost.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the changes are not applied to the PivotTable and all edits are lost.|
 
 ## Return value
 

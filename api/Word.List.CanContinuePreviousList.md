@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # List.CanContinuePreviousList method (Word)
 
-Returns a  **[WdContinue](Word.WdContinue.md)** constant (**wdContinueDisabled** , **wdResetList** , or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
+Returns a  **[WdContinue](Word.WdContinue.md)** constant (**wdContinueDisabled**, **wdResetList**, or **wdContinueList**) that indicates whether the formatting from the previous list can be continued.
 
 
 ## Syntax

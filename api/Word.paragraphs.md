@@ -24,7 +24,7 @@ With Selection.Paragraphs
 End With
 ```
 
-Use the  **Add** , **InsertParagraph** , **InsertParagraphAfter** , or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
+Use the  **Add**, **InsertParagraph**, **InsertParagraphAfter**, or **InsertParagraphBefore** method to add a new paragraph to a document. The following example adds a new paragraph before the first paragraph in the selection.
 
 
 

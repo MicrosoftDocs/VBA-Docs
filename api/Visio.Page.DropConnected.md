@@ -30,10 +30,10 @@ Creates a new  **[Shape](Visio.Shape.md)** object on the page, places the new sh
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The shape to add to the page. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **Shape** , or an **IDataObject** object.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The shape to add to the page. Can be a  **[Master](Visio.Master.md)**, **[MasterShortcut](Visio.MasterShortcut.md)**, **Shape**, or an **IDataObject** object.|
 | _TargetShape_|Required| **Shape**|The existing shape from which to align, space, and connect.|
 | _PlacementDir_|Required| **[VisAutoConnectDir](Visio.visautoconnectdir.md)**|The direction from  _TargetShape_ in which to place _ObjectToDrop_.|
-| _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a  **Master** , **MasterShortcut** , **Shape** , or an **IDataObject** object.|
+| _Connector_|Optional| **[UNKNOWN]**|The connector to use. Can be a  **Master**, **MasterShortcut**, **Shape**, or an **IDataObject** object.|
 
 ## Return value
 

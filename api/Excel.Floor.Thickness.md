@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Floor.Thickness property (Excel)
 
-Returns or sets a  **Long** , specifying the thickness of the floor. Read/write.
+Returns or sets a  **Long**, specifying the thickness of the floor. Read/write.
 
 
 ## Syntax

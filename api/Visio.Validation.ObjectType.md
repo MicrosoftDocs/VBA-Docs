@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Validation.ObjectType Property (Visio)
 
-Returns  **visObjTypeValidation** , the type of this object. Read-only.
+Returns  **visObjTypeValidation**, the type of this object. Read-only.
 
 
 ## Syntax

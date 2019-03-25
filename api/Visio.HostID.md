@@ -38,7 +38,7 @@ Setting the  **HostID** property creates (or modifies) a subkey at the following
 
     HKEY_CURRENTUSER\Software\Microsoft\Office\14.0\VisioHosts\
 
-If you set  **HostID** , use a unique string that identifies your program, preferably a unique GUID, although any string less than 128 characters or less in length that contains no backslash ("\") or forward slash ("/") character is valid. A GUID should be no more than 40 characters. Write your Setup program so that when it uninstalls your program, it deletes the registry key and all its subkeys.
+If you set  **HostID**, use a unique string that identifies your program, preferably a unique GUID, although any string less than 128 characters or less in length that contains no backslash ("\") or forward slash ("/") character is valid. A GUID should be no more than 40 characters. Write your Setup program so that when it uninstalls your program, it deletes the registry key and all its subkeys.
 
 All instances of the Visio Drawing Control in your program share the same  **HostID** value. If you set **HostID** multiple times for multiple instances of the Visio Drawing Control within the same application, later values will overwrite earlier ones in the registry.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md)
 
 ## Remarks
 
-If this property is  **True** , pressing **TAB** inserts a tab character in the text box. If this property is **False** , focus moves to the next control in the tab order.
+If this property is  **True**, pressing **TAB** inserts a tab character in the text box. If this property is **False**, focus moves to the next control in the tab order.
 
 The default value is  **False**.
 

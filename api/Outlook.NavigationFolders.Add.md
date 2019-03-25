@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # NavigationFolders.Add Method (Outlook)
 
-Adds the specified  **[Folder](Outlook.Folder.md)** , as a **[NavigationFolder](Outlook.NavigationFolder.md)** object, to the end of the **[NavigationFolders](Outlook.NavigationFolders.md)** collection.
+Adds the specified  **[Folder](Outlook.Folder.md)**, as a **[NavigationFolder](Outlook.NavigationFolder.md)** object, to the end of the **[NavigationFolders](Outlook.NavigationFolders.md)** collection.
 
 
 ## Syntax

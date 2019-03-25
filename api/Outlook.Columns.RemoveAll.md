@@ -26,12 +26,12 @@ _expression_ A variable that represents a [Columns](./Outlook.Columns.md) object
 
 ## Remarks
 
- **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table**. After a call to **RemoveAll** , **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
+ **RemoveAll** resets the **Table** by moving the current row to just before the first row of the **Table**. After a call to **RemoveAll**, **[Columns.Count](Outlook.Columns.Count.md)** becomes zero (0).
 
 
 ## Example
 
-The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table** , add specific columns, and print the values of the corresponding properties of these items.
+The following code sample illustrates how to obtain a  **Table** object based on the **LastModificationTime** of items in the Inbox. It also shows how to remove the default columns of the **Table**, add specific columns, and print the values of the corresponding properties of these items.
 
 
 ```vb

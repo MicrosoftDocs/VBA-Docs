@@ -26,7 +26,7 @@ Returns or sets the amount (in points) of extra margin space added to each page 
 
 ## Remarks
 
-If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True** , the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
+If the  **[MirrorMargins](Word.PageSetup.MirrorMargins.md)** property is set to **True**, the **Gutter** property adds the extra space to the inside margins. Otherwise, the extra space is added to the left margin.
 
 
 ## Example

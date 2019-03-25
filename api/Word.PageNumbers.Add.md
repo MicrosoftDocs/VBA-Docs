@@ -31,11 +31,11 @@ Returns a  **PageNumber** object that represents page numbers added to a header 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _PageNumberAlignment_|Optional| **Variant**|Can be any  **WdPageNumberAlignment** constant.|
-| _FirstPage_|Optional| **Variant**| **False** to make the first-page header and the first-page footer different from the headers and footers on all subsequent pages in the document. If FirstPage is set to **False** , a page number isn't added to the first page. If this argument is omitted, the setting is controlled by the **DifferentFirstPageHeaderFooter** property.|
+| _FirstPage_|Optional| **Variant**| **False** to make the first-page header and the first-page footer different from the headers and footers on all subsequent pages in the document. If FirstPage is set to **False**, a page number isn't added to the first page. If this argument is omitted, the setting is controlled by the **DifferentFirstPageHeaderFooter** property.|
 
 ## Remarks
 
-If the  **LinkToPrevious** property for the **HeaderFooter** object is set to **True** , the page numbers will continue sequentially from one section to next throughout the document.
+If the  **LinkToPrevious** property for the **HeaderFooter** object is set to **True**, the page numbers will continue sequentially from one section to next throughout the document.
 
 
 ## Example

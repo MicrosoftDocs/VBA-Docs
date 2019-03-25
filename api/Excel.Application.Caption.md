@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Application](Excel.Application-graph
 
 ## Remarks
 
-If you don't set a name, or if you set the name to  **Empty** , this property returns "Microsoft Excel".
+If you don't set a name, or if you set the name to  **Empty**, this property returns "Microsoft Excel".
 
 
 ## Example

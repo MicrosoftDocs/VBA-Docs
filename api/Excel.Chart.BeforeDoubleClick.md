@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the default double-click action isn't performed when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the default double-click action isn't performed when the procedure is finished.|
 | _Arg1_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
 | _Arg2_|Required| **Long**|Additional event information, depending on the value of  _ElementID_. For more information about this parameter, see the Remarks section.|
 | _ElementID_|Required| **Long**|The double-clicked object. The value of this parameter determines the expected values of  _Arg1_ and _Arg2_. For more information about this parameter, see the Remarks section.|
@@ -86,8 +86,8 @@ The following table describes the meaning of the arguments.
 |**Argument**|**Description**|
 |:-----|:-----|
 |AxisIndex|Specifies whether the axis is primary or secondary. Can be one of the following  **xlAxisGroup** constants: **xlPrimary** or **xlSecondary**.|
-|AxisType|Specifies the axis type. Can be one of the following  **xlAxisType** constants: **xlCategory** , **xlSeriesAxis** , or **xlValue**.|
-|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **xlPivotFieldOrientation** constants: **xlColumnField** , **xlDataField** , **xlPageField** , or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
+|AxisType|Specifies the axis type. Can be one of the following  **xlAxisType** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**.|
+|DropZoneType|Specifies the drop zone type: column, data, page, or row field. Can be one of the following  **xlPivotFieldOrientation** constants: **xlColumnField**, **xlDataField**, **xlPageField**, or **xlRowField**. The column and row field constants specify the series and category fields, respectively.|
 |GroupIndex|Specifies the offset within the  **[ChartGroups](Excel.ChartGroups(object).md)** collection for a specific chart group.|
 |PivotFieldIndex|Specifies the offset within the  **[PivotFields](Excel.PivotFields.md)** collection for a specific column (series), data, page, or row (category) field.|
 |PointIndex|Specifies the offset within the  **[Points](Excel.Points(object).md)** collection for a specific point within a series. The value ? 1 indicates that all data points are selected.|

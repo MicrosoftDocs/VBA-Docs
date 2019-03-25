@@ -41,7 +41,7 @@ Nothing
 
 The  **Paste** method works only with **Shape** objects that are group shapes. Use the **Type** property of a shape to determine whether it is a group.
 
-Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes** , and are described in the following table.
+Possible values for  _Flags_ are declared by the Visio type library in **VisCutCopyPasteCodes**, and are described in the following table.
 
 
 

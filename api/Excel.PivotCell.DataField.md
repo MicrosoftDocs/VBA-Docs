@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotCell](Excel.PivotCell.md) object
 
 ## Remarks
 
-This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[xlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField** , **xlPivotCellTypeSubtotal** , or **xlPivotCellTypeGrandTotal**.
+This property will return an error if the  **PivotCell** object is not one of the allowed constants of **[xlPivotCellType](Excel.XlPivotCellType.md)** : **xlPivotCellTypeDataField**, **xlPivotCellTypeSubtotal**, or **xlPivotCellTypeGrandTotal**.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that returns an [Application](Excel.Application-graph-pr
 
 ## Return value
 
- **True** , if communication with the printer is turned on; otherwise **False**.
+ **True**, if communication with the printer is turned on; otherwise **False**.
 
 
 ## Remarks

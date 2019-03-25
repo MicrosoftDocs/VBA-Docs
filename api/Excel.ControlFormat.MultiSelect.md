@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ControlFormat.MultiSelect property (Excel)
 
-Returns or sets the selection mode of the specified list box. Can be one of the following constants:  **xlNone** , **xlSimple** , or **xlExtended**. Read/write **Long**.
+Returns or sets the selection mode of the specified list box. Can be one of the following constants:  **xlNone**, **xlSimple**, or **xlExtended**. Read/write **Long**.
 
 
 ## Syntax

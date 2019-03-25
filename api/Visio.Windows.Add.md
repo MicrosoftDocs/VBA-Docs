@@ -59,7 +59,7 @@ The following macro shows how to use the  **Add** method to add a **Window** obj
 
 Add a form to your Microsoft Visual Basic (VBA) project called  **frmMain**, and then add a  **TextBox** control named **txtForm** to the form.
 
-The  **SetParent** , **FindWindow** , and **SetWindowLongLib** functions are from the Windows API, and are necessary to add the form to the new window.
+The  **SetParent**, **FindWindow**, and **SetWindowLongLib** functions are from the Windows API, and are necessary to add the form to the new window.
 
 Add the following code to the form module to resize the text box when the form is resized:
 

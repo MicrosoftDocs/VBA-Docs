@@ -12,7 +12,7 @@ Gets the shape type. Read-only  **[MsoShapeType](https://msdn.microsoft.com/libr
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ A variable that represents a 'Shape' object.
 

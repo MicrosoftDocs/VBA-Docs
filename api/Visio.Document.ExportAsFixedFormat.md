@@ -34,8 +34,8 @@ Exports a Microsoft Visio document as a file in a fixed format, either PDF or XP
 | _OutputFileName_|Optional| **String**|The name and path of the file to which to output, enclosed in quotation marks.|
 | _Intent_|Required| **VisDocExIntent**|The output quality. See Remarks for possible values.|
 | _PrintRange_|Required| **VisPrintOutRange**|The range of document pages to be exported. See Remarks for possible values.|
-| _FromPage_|Optional| **Long**| If _PrintRange_ is **visPrintFromTo** , the first page in the range to be exported. The default is 1, which indicates the first page of the drawing.|
-| _ToPage_|Optional| **Long**|If  _PrintRange_ is **visPrintFromTo** , the last page in the range to be exported. The default is -1, which indicates the last page of the drawing.|
+| _FromPage_|Optional| **Long**| If _PrintRange_ is **visPrintFromTo**, the first page in the range to be exported. The default is 1, which indicates the first page of the drawing.|
+| _ToPage_|Optional| **Long**|If  _PrintRange_ is **visPrintFromTo**, the last page in the range to be exported. The default is -1, which indicates the last page of the drawing.|
 | _ColorAsBlack_|Optional| **Boolean**| **True** to render all colors as black to ensure that all shapes are visible in the exported drawing. **False** to render colors normally. The default is **False**.|
 | _IncludeBackground_|Optional| **Boolean**|Whether to include background pages in the exported file. The default is  **True**.|
 | _IncludeDocumentProperties_|Optional| **Boolean**|Whether to include document properties in the exported file. The default is  **True**.|

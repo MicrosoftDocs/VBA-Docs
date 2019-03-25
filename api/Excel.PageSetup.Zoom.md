@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object
 
 This property applies only to worksheets.
 
-If this property is  **False** , the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** and **[FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)** properties control how the worksheet is scaled.
+If this property is  **False**, the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** and **[FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)** properties control how the worksheet is scaled.
 
 All scaling retains the aspect ratio of the original document.
 

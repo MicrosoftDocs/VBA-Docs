@@ -41,7 +41,7 @@ Long
 
 ## Remarks
 
-When the Unit is  **wdCell** , the Extend argument can only be **wdMove**.
+When the Unit is  **wdCell**, the Extend argument can only be **wdMove**.
 
 
 ## Example

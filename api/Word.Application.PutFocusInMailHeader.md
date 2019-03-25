@@ -26,7 +26,7 @@ Places the insertion point in the  **To**line of the mail header if the document
 
 ## Remarks
 
-For best results, use the  **PutFocusInMailHeader** method with the **EnvelopeVisible** property. When the **EnvelopeVisible** property is set to **True** , the **PutFocusInMailHeader** method will place the insertion point in the mail header.
+For best results, use the  **PutFocusInMailHeader** method with the **EnvelopeVisible** property. When the **EnvelopeVisible** property is set to **True**, the **PutFocusInMailHeader** method will place the insertion point in the mail header.
 
 
 ## Example

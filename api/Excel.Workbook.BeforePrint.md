@@ -30,7 +30,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't printed when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the workbook isn't printed when the procedure is finished.|
 
 ## Return value
 

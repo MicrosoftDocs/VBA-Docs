@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.Interactive property (Excel)
 
- **True** if Microsoft Excel is in interactive mode; this property is usually **True**. If you set the this property to **False** , Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean**.
+ **True** if Microsoft Excel is in interactive mode; this property is usually **True**. If you set the this property to **False**, Microsoft Excel will block all input from the keyboard and mouse (except input to dialog boxes that are displayed by your code). Read/write **Boolean**.
 
 
 ## Syntax
@@ -30,7 +30,7 @@ Blocking user input will prevent the user from interfering with the macro as it 
 
 This property is useful if you are using DDE or OLE Automation to communicate with Microsoft Excel from another application.
 
-If you set this property to  **False** , don't forget to set it back to **True**. Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
+If you set this property to  **False**, don't forget to set it back to **True**. Microsoft Excel won't automatically set this property back to **True** when your macro stops running.
 
 
 ## Example

@@ -26,7 +26,7 @@ Returns a list of the parts of speech corresponding to the meanings found for th
 
 ## Remarks
 
-The list of the parts of speech is returned as an array consisting of the following  **WdPartOfSpeech** constants: **wdAdjective** , **wdAdverb** , **wdConjunction** , **wdIdiom** , **wdInterjection** , **wdNoun** , **wdOther** , **wdPreposition** , **wdPronoun** , and **wdVerb**. The array elements are ordered to correspond to the elements returned by the **[MeaningList](Word.SynonymInfo.MeaningList.md)** property.
+The list of the parts of speech is returned as an array consisting of the following  **WdPartOfSpeech** constants: **wdAdjective**, **wdAdverb**, **wdConjunction**, **wdIdiom**, **wdInterjection**, **wdNoun**, **wdOther**, **wdPreposition**, **wdPronoun**, and **wdVerb**. The array elements are ordered to correspond to the elements returned by the **[MeaningList](Word.SynonymInfo.MeaningList.md)** property.
 
 
 ## Example

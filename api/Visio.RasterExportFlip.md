@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ApplicationSettings.RasterExportFlip Property (Visio)
 
-Determines the flip that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, JPG, PNG, or TIFF file. Read/write.
+Determines the flip that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, JPG, PNG, or TIFF file. Read/write.
 
 
 ## Syntax

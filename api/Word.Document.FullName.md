@@ -26,7 +26,7 @@ Returns a  **String** that represents the name of a document, including the path
 
 ## Remarks
 
-Using this property is equivalent to using the  **Path** , **PathSeparator** , and **Name** properties in sequence.
+Using this property is equivalent to using the  **Path**, **PathSeparator**, and **Name** properties in sequence.
 
 
 ## Example

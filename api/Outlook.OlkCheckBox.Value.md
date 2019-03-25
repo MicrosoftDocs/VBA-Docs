@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkCheckBox](./Outlook.OlkCheckBox.m
 
 ## Remarks
 
-For the check box control, this property is  **True** or **False** , or if the **[TripleState](Outlook.OlkCheckBox.TripleState.md)** property is set, the **Value** property can also be **Null** (**Nothing** in Visual Basic). The default value is **False**.
+For the check box control, this property is  **True** or **False**, or if the **[TripleState](Outlook.OlkCheckBox.TripleState.md)** property is set, the **Value** property can also be **Null** (**Nothing** in Visual Basic). The default value is **False**.
 
 
 ## See also

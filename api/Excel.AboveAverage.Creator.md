@@ -7,32 +7,31 @@ ms.prod: excel
 api_name:
 - Excel.AboveAverage.Creator
 ms.assetid: 87047e1c-b3d2-d95f-43c4-323427f998ec
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
 
 # AboveAverage.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which this object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which this object was created. Read-only **Long**.
 
 
 ## Syntax
 
-_expression_. `Creator`
+_expression_.**Creator**
 
-_expression_ A variable that represents an [AboveAverage](Excel.AboveAverage.md) object.
+_expression_ A variable that represents an **[AboveAverage](Excel.AboveAverage.md)** object.
 
 
 ## Remarks
 
-If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The  **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
+If the object was created in Microsoft Excel, this property returns the string XCEL, which is equivalent to the hexadecimal number 5843454C. The **Creator** property is designed to be used in Microsoft Excel for the Macintosh, where each application has a four-character creator code. For example, Microsoft Excel has the creator code XCEL.
 
 
 ## Example
 
 This example displays a message about the creator of an Excel workbook.
-
 
 ```vb
 Sub FindCreator() 
@@ -49,9 +48,6 @@ End Sub
 ```
 
 
-## See also
 
-
-[AboveAverage Object](Excel.AboveAverage.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

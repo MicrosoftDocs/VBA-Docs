@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[TextFrame](Excel.TextFrame.md)' obje
 
 ## Remarks
 
- **True** if Excel automatically calculates text frame margins; otherwise **False**. When this property is **True** , the **[MarginLeft](Excel.TextFrame.MarginLeft.md)** , **[MarginRight](Excel.TextFrame.MarginRight.md)** , **[MarginTop](Excel.TextFrame.MarginTop.md)** , and **[MarginBottom](Excel.TextFrame.MarginBottom.md)** properties are ignored.
+ **True** if Excel automatically calculates text frame margins; otherwise **False**. When this property is **True**, the **[MarginLeft](Excel.TextFrame.MarginLeft.md)**, **[MarginRight](Excel.TextFrame.MarginRight.md)**, **[MarginTop](Excel.TextFrame.MarginTop.md)**, and **[MarginBottom](Excel.TextFrame.MarginBottom.md)** properties are ignored.
 
 
 ## See also
