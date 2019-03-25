@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.SmartTag.Application
 ms.assetid: ace22dc5-6837-5bcc-686e-49686a4b04d3
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 

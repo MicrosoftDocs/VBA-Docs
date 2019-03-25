@@ -7,26 +7,23 @@ ms.prod: access
 api_name:
 - Access.TextBox.TextFormat
 ms.assetid: 3d164782-9d9c-5462-ac40-51772d475407
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
 
 # TextBox.TextFormat property (Access)
 
-Gets or sets whether rich text is displayed in the specified text box. Read/write [AcTextFormat](Access.AcTextFormat.md).
+Gets or sets whether rich text is displayed in the specified text box. Read/write **[AcTextFormat](Access.AcTextFormat.md)**.
 
 
 ## Syntax
 
-_expression_. `TextFormat`
+_expression_.**TextFormat**
 
 _expression_ A variable that represents a **[TextBox](Access.TextBox.md)** object.
 
 
-## See also
 
-
-[TextBox Object](Access.TextBox.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

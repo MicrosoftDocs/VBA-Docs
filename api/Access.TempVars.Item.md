@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # TempVars.Item property (Access)
 
-The **Item** property returns a specific member of a collection either by position or by index. Read-only **TempVar**.
+The **Item** property returns a specific member of a collection either by position or by index. Read-only **[TempVar](Access.TempVar.md)**.
 
 
 ## Syntax
