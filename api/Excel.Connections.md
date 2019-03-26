@@ -30,28 +30,19 @@ ActiveWorkbook.Connections.AddFromFile _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add2](Excel.Connections.Add.md)|
-|[AddFromFile](Excel.Connections.AddFromFile.md)|
-|[Item](Excel.Connections.Item.md)|
+- [Add2](Excel.Connections.Add.md)
+- [AddFromFile](Excel.Connections.AddFromFile.md)
+- [Item](Excel.Connections.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Connections.Application.md)|
-|[Count](Excel.Connections.Count.md)|
-|[Creator](Excel.Connections.Creator.md)|
-|[Parent](Excel.Connections.Parent.md)|
+- [Application](Excel.Connections.Application.md)
+- [Count](Excel.Connections.Count.md)
+- [Creator](Excel.Connections.Creator.md)
+- [Parent](Excel.Connections.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

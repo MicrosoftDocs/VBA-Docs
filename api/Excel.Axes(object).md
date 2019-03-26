@@ -50,26 +50,17 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Excel.Axes.Item.md)|
+- [Item](Excel.Axes.Item.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Axes.Application.md)|
-|[Count](Excel.Axes.Count.md)|
-|[Creator](Excel.Axes.Creator.md)|
-|[Parent](Excel.Axes.Parent.md)|
+- [Application](Excel.Axes.Application.md)
+- [Count](Excel.Axes.Count.md)
+- [Creator](Excel.Axes.Creator.md)
+- [Parent](Excel.Axes.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

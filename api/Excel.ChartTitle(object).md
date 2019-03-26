@@ -39,46 +39,37 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.ChartTitle.Delete.md)|
-|[Select](Excel.ChartTitle.Select.md)|
+- [Delete](Excel.ChartTitle.Delete.md)
+- [Select](Excel.ChartTitle.Select.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.ChartTitle.Application.md)|
-|[Caption](Excel.ChartTitle.Caption.md)|
-|[Characters](Excel.ChartTitle.Characters.md)|
-|[Creator](Excel.ChartTitle.Creator.md)|
-|[Format](Excel.ChartTitle.Format.md)|
-|[Formula](Excel.ChartTitle.Formula.md)|
-|[FormulaLocal](Excel.ChartTitle.FormulaLocal.md)|
-|[FormulaR1C1](Excel.ChartTitle.FormulaR1C1.md)|
-|[FormulaR1C1Local](Excel.ChartTitle.FormulaR1C1Local.md)|
-|[Height](Excel.ChartTitle.Height.md)|
-|[HorizontalAlignment](Excel.ChartTitle.HorizontalAlignment.md)|
-|[IncludeInLayout](Excel.ChartTitle.IncludeInLayout.md)|
-|[Left](Excel.ChartTitle.Left.md)|
-|[Name](Excel.ChartTitle.Name.md)|
-|[Orientation](Excel.ChartTitle.Orientation.md)|
-|[Parent](Excel.ChartTitle.Parent.md)|
-|[Position](Excel.ChartTitle.Position.md)|
-|[ReadingOrder](Excel.ChartTitle.ReadingOrder.md)|
-|[Shadow](Excel.ChartTitle.Shadow.md)|
-|[Text](Excel.ChartTitle.Text.md)|
-|[Top](Excel.ChartTitle.Top.md)|
-|[VerticalAlignment](Excel.ChartTitle.VerticalAlignment.md)|
-|[Width](Excel.ChartTitle.Width.md)|
+- [Application](Excel.ChartTitle.Application.md)
+- [Caption](Excel.ChartTitle.Caption.md)
+- [Characters](Excel.ChartTitle.Characters.md)
+- [Creator](Excel.ChartTitle.Creator.md)
+- [Format](Excel.ChartTitle.Format.md)
+- [Formula](Excel.ChartTitle.Formula.md)
+- [FormulaLocal](Excel.ChartTitle.FormulaLocal.md)
+- [FormulaR1C1](Excel.ChartTitle.FormulaR1C1.md)
+- [FormulaR1C1Local](Excel.ChartTitle.FormulaR1C1Local.md)
+- [Height](Excel.ChartTitle.Height.md)
+- [HorizontalAlignment](Excel.ChartTitle.HorizontalAlignment.md)
+- [IncludeInLayout](Excel.ChartTitle.IncludeInLayout.md)
+- [Left](Excel.ChartTitle.Left.md)
+- [Name](Excel.ChartTitle.Name.md)
+- [Orientation](Excel.ChartTitle.Orientation.md)
+- [Parent](Excel.ChartTitle.Parent.md)
+- [Position](Excel.ChartTitle.Position.md)
+- [ReadingOrder](Excel.ChartTitle.ReadingOrder.md)
+- [Shadow](Excel.ChartTitle.Shadow.md)
+- [Text](Excel.ChartTitle.Text.md)
+- [Top](Excel.ChartTitle.Top.md)
+- [VerticalAlignment](Excel.ChartTitle.VerticalAlignment.md)
+- [Width](Excel.ChartTitle.Width.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

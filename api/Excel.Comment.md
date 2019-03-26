@@ -55,31 +55,22 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.Comment.Delete.md)|
-|[Next](Excel.Comment.Next.md)|
-|[Previous](Excel.Comment.Previous.md)|
-|[Text](Excel.Comment.Text.md)|
+- [Delete](Excel.Comment.Delete.md)
+- [Next](Excel.Comment.Next.md)
+- [Previous](Excel.Comment.Previous.md)
+- [Text](Excel.Comment.Text.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Comment.Application.md)|
-|[Author](Excel.Comment.Author.md)|
-|[Creator](Excel.Comment.Creator.md)|
-|[Parent](Excel.Comment.Parent.md)|
-|[Shape](Excel.Comment.Shape.md)|
-|[Visible](Excel.Comment.Visible.md)|
+- [Application](Excel.Comment.Application.md)
+- [Author](Excel.Comment.Author.md)
+- [Creator](Excel.Comment.Creator.md)
+- [Parent](Excel.Comment.Parent.md)
+- [Shape](Excel.Comment.Shape.md)
+- [Visible](Excel.Comment.Visible.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

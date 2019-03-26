@@ -66,36 +66,27 @@ The  **[Sheets](Excel.Sheets.md)** collection contains all the sheets in the wor
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add2](Excel.charts.add2.md)|
-|[Copy](Excel.Charts.Copy.md)|
-|[Delete](Excel.Charts.Delete.md)|
-|[Move](Excel.Charts.Move.md)|
-|[PrintOut](Excel.Charts.PrintOut.md)|
-|[PrintPreview](Excel.Charts.PrintPreview.md)|
-|[Select](Excel.Charts.Select.md)|
+- [Add2](Excel.charts.add2.md)
+- [Copy](Excel.Charts.Copy.md)
+- [Delete](Excel.Charts.Delete.md)
+- [Move](Excel.Charts.Move.md)
+- [PrintOut](Excel.Charts.PrintOut.md)
+- [PrintPreview](Excel.Charts.PrintPreview.md)
+- [Select](Excel.Charts.Select.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Charts.Application.md)|
-|[Count](Excel.Charts.Count.md)|
-|[Creator](Excel.Charts.Creator.md)|
-|[HPageBreaks](Excel.Charts.HPageBreaks.md)|
-|[Item](Excel.Charts.Item.md)|
-|[Parent](Excel.Charts.Parent.md)|
-|[Visible](Excel.Charts.Visible.md)|
-|[VPageBreaks](Excel.Charts.VPageBreaks.md)|
+- [Application](Excel.Charts.Application.md)
+- [Count](Excel.Charts.Count.md)
+- [Creator](Excel.Charts.Creator.md)
+- [HPageBreaks](Excel.Charts.HPageBreaks.md)
+- [Item](Excel.Charts.Item.md)
+- [Parent](Excel.Charts.Parent.md)
+- [Visible](Excel.Charts.Visible.md)
+- [VPageBreaks](Excel.Charts.VPageBreaks.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

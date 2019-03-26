@@ -33,11 +33,8 @@ Worksheets("sheet1").ChartObjects.Delete
 
 You cannot use the  **ChartObjects** collection to call the following properties and methods:
 
-
--  **Locked** property
-    
--  **Placement** property
-    
+-  **Locked** property   
+-  **Placement** property   
 -  **PrintObject** property
     
 
@@ -69,43 +66,34 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.ChartObjects.Add.md)|
-|[Copy](Excel.ChartObjects.Copy.md)|
-|[CopyPicture](Excel.ChartObjects.CopyPicture.md)|
-|[Cut](Excel.ChartObjects.Cut.md)|
-|[Delete](Excel.ChartObjects.Delete.md)|
-|[Duplicate](Excel.ChartObjects.Duplicate.md)|
-|[Item](Excel.ChartObjects.Item.md)|
-|[Select](Excel.ChartObjects.Select.md)|
+- [Add](Excel.ChartObjects.Add.md)
+- [Copy](Excel.ChartObjects.Copy.md)
+- [CopyPicture](Excel.ChartObjects.CopyPicture.md)
+- [Cut](Excel.ChartObjects.Cut.md)
+- [Delete](Excel.ChartObjects.Delete.md)
+- [Duplicate](Excel.ChartObjects.Duplicate.md)
+- [Item](Excel.ChartObjects.Item.md)
+- [Select](Excel.ChartObjects.Select.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.ChartObjects.Application.md)|
-|[Count](Excel.ChartObjects.Count.md)|
-|[Creator](Excel.ChartObjects.Creator.md)|
-|[Height](Excel.ChartObjects.Height.md)|
-|[Left](Excel.ChartObjects.Left.md)|
-|[Locked](Excel.ChartObjects.Locked.md)|
-|[Parent](Excel.ChartObjects.Parent.md)|
-|[Placement](Excel.ChartObjects.Placement.md)|
-|[PrintObject](Excel.ChartObjects.PrintObject.md)|
-|[ProtectChartObject](Excel.ChartObjects.ProtectChartObject.md)|
-|[ShapeRange](Excel.ChartObjects.ShapeRange.md)|
-|[Top](Excel.ChartObjects.Top.md)|
-|[Visible](Excel.ChartObjects.Visible.md)|
-|[Width](Excel.ChartObjects.Width.md)|
+- [Application](Excel.ChartObjects.Application.md)
+- [Count](Excel.ChartObjects.Count.md)
+- [Creator](Excel.ChartObjects.Creator.md)
+- [Height](Excel.ChartObjects.Height.md)
+- [Left](Excel.ChartObjects.Left.md)
+- [Locked](Excel.ChartObjects.Locked.md)
+- [Parent](Excel.ChartObjects.Parent.md)
+- [Placement](Excel.ChartObjects.Placement.md)
+- [PrintObject](Excel.ChartObjects.PrintObject.md)
+- [ProtectChartObject](Excel.ChartObjects.ProtectChartObject.md)
+- [ShapeRange](Excel.ChartObjects.ShapeRange.md)
+- [Top](Excel.ChartObjects.Top.md)
+- [Visible](Excel.ChartObjects.Visible.md)
+- [Width](Excel.ChartObjects.Width.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

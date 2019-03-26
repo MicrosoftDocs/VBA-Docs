@@ -61,19 +61,14 @@ End If
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Areas.Application.md)|
-|[Count](Excel.Areas.Count.md)|
-|[Creator](Excel.Areas.Creator.md)|
-|[Item](Excel.Areas.Item.md)|
-|[Parent](Excel.Areas.Parent.md)|
+- [Application](Excel.Areas.Application.md)
+- [Count](Excel.Areas.Count.md)
+- [Creator](Excel.Areas.Creator.md)
+- [Item](Excel.Areas.Item.md)
+- [Parent](Excel.Areas.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,37 +39,28 @@ Worksheets("Sheet1").ChartObjects(1).Chart. _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Excel.ChartArea.Clear.md)|
-|[ClearContents](Excel.ChartArea.ClearContents.md)|
-|[ClearFormats](Excel.ChartArea.ClearFormats.md)|
-|[Copy](Excel.ChartArea.Copy.md)|
-|[Select](Excel.ChartArea.Select.md)|
+- [Clear](Excel.ChartArea.Clear.md)
+- [ClearContents](Excel.ChartArea.ClearContents.md)
+- [ClearFormats](Excel.ChartArea.ClearFormats.md)
+- [Copy](Excel.ChartArea.Copy.md)
+- [Select](Excel.ChartArea.Select.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.ChartArea.Application.md)|
-|[Creator](Excel.ChartArea.Creator.md)|
-|[Format](Excel.ChartArea.Format.md)|
-|[Height](Excel.ChartArea.Height.md)|
-|[Left](Excel.ChartArea.Left.md)|
-|[Name](Excel.ChartArea.Name.md)|
-|[Parent](Excel.ChartArea.Parent.md)|
-|[RoundedCorners](Excel.ChartArea.RoundedCorners.md)|
-|[Shadow](Excel.ChartArea.Shadow.md)|
-|[Top](Excel.ChartArea.Top.md)|
-|[Width](Excel.ChartArea.Width.md)|
+- [Application](Excel.ChartArea.Application.md)
+- [Creator](Excel.ChartArea.Creator.md)
+- [Format](Excel.ChartArea.Format.md)
+- [Height](Excel.ChartArea.Height.md)
+- [Left](Excel.ChartArea.Left.md)
+- [Name](Excel.ChartArea.Name.md)
+- [Parent](Excel.ChartArea.Parent.md)
+- [RoundedCorners](Excel.ChartArea.RoundedCorners.md)
+- [Shadow](Excel.ChartArea.Shadow.md)
+- [Top](Excel.ChartArea.Top.md)
+- [Width](Excel.ChartArea.Width.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

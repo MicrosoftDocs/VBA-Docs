@@ -84,18 +84,16 @@ End If
 
 ## Properties
 
-|Name|
-|:-----|
-|[Application](Excel.AddIn.Application.md)|
-|[CLSID](Excel.AddIn.CLSID.md)|
-|[Creator](Excel.AddIn.Creator.md)|
-|[FullName](Excel.AddIn.FullName.md)|
-|[Installed](Excel.AddIn.Installed.md)|
-|[IsOpen](Excel.AddIn.IsOpen.md)|
-|[Name](Excel.AddIn.Name.md)|
-|[Parent](Excel.AddIn.Parent.md)|
-|[Path](Excel.AddIn.Path.md)|
-|[progID](Excel.AddIn.progID.md)|
+- [Application](Excel.AddIn.Application.md)
+- [CLSID](Excel.AddIn.CLSID.md)
+- [Creator](Excel.AddIn.Creator.md)
+- [FullName](Excel.AddIn.FullName.md)
+- [Installed](Excel.AddIn.Installed.md)
+- [IsOpen](Excel.AddIn.IsOpen.md)
+- [Name](Excel.AddIn.Name.md)
+- [Parent](Excel.AddIn.Parent.md)
+- [Path](Excel.AddIn.Path.md)
+- [progID](Excel.AddIn.progID.md)
 
 ## See also
 

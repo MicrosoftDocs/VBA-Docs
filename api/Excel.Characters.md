@@ -48,31 +48,22 @@ Worksheets("Sheet1").Range("A5").Font.Italic = True
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.Characters.Delete.md)|
-|[Insert](Excel.Characters.Insert.md)|
+- [Delete](Excel.Characters.Delete.md)
+- [Insert](Excel.Characters.Insert.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Characters.Application.md)|
-|[Caption](Excel.Characters.Caption.md)|
-|[Count](Excel.Characters.Count.md)|
-|[Creator](Excel.Characters.Creator.md)|
-|[Font](Excel.Characters.Font.md)|
-|[Parent](Excel.Characters.Parent.md)|
-|[PhoneticCharacters](Excel.Characters.PhoneticCharacters.md)|
-|[Text](Excel.Characters.Text.md)|
+- [Application](Excel.Characters.Application.md)
+- [Caption](Excel.Characters.Caption.md)
+- [Count](Excel.Characters.Count.md)
+- [Creator](Excel.Characters.Creator.md)
+- [Font](Excel.Characters.Font.md)
+- [Parent](Excel.Characters.Parent.md)
+- [PhoneticCharacters](Excel.Characters.PhoneticCharacters.md)
+- [Text](Excel.Characters.Text.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
