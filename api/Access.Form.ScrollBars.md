@@ -31,8 +31,8 @@ The **ScrollBars** property uses the following settings.
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Neither |0| No scroll bars appear on the form.|
-|Horizontal Only|1|Horizontal scroll bar appears on the form. |
-|Vertical Only|2|Vertical scroll bar appears on the form.|
+|Horizontal Only|1|A horizontal scroll bar appears on the form. |
+|Vertical Only|2|A vertical scroll bar appears on the form.|
 |Both|3|(Default) Vertical and horizontal scroll bars appear on the form. |
 
 If your form is larger than the available display window, you can use the **ScrollBars** property to allow the user to view the entire form.

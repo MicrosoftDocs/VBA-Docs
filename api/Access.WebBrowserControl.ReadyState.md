@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebBrowserControl.ReadyState property (Access)
 
-Gets the status of the specified Web Browser control. Read-only **[AcWebBrowserState](Access.AcWebBrowserState.md)**.
+Gets the status of the specified web browser control. Read-only **[AcWebBrowserState](Access.AcWebBrowserState.md)**.
 
 
 ## Syntax
@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[WebBrowserControl](Access.WebBrowse
 
 ## Remarks
 
-When the Web Browser control does not contain a document, the value of this property is **acUninitialized**. Other values indicate the control state when it navigates to a new document.
+When the web browser control does not contain a document, the value of this property is **acUninitialized**. Other values indicate the control state when it navigates to a new document.
 
 
 

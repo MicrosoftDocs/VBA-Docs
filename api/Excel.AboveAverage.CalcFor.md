@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AboveAverage.CalcFor property (Excel)
 
-Returns or sets one of the constants of the **[xlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies the scope of data to be evaluated for the conditional format in a PivotTable report.
+Returns or sets one of the constants of the **[XlCalcFor](Excel.XlCalcFor.md)** enumeration, which specifies the scope of data to be evaluated for the conditional format in a PivotTable report.
 
 
 ## Syntax

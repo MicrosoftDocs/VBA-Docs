@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # WebBrowserControl.OnProgressChange property (Access)
 
-Gets or sets the value of the **On Progress Change** box in the property sheet of a Web Browser control. Read/write **String**.
+Gets or sets the value of the **On Progress Change** box in the property sheet of a web browser control. Read/write **String**.
 
 
 ## Syntax

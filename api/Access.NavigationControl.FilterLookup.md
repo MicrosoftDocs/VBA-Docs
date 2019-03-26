@@ -31,7 +31,7 @@ The **FilterLookup** property uses the following settings.
 |Setting|Visual Basic|Description|
 |:-----|:-----|:-----|
 |Never|0|The field values aren't displayed. You can specify whether the filtered records can contain null values.|
-|Database Default|1|(Default) The field values are displayed according to the settings under **Filter lookup options** on the **Current Database** tab of the **Access Options** dialog box, available by choosing the **Microsoft Office** button, and then choosing **Access Options**.|
+|Database Default|1|(Default) The field values are displayed according to the settings under **Filter lookup options** on the **Current Database** tab of the **Access Options** dialog box, available by choosing the Microsoft Office button, and then choosing **Access Options**.|
 |Always|2|The field values are always displayed.|
 
 You can also set the default for this property by setting a control's **[DefaultControl](access.form.defaultcontrol.md)** property in Visual Basic.
