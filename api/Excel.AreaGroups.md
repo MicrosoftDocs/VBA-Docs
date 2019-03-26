@@ -1,5 +1,5 @@
 ---
-title: AreaGroups Method
+title: AreaGroups method (Excel Graph)
 keywords: vbagr10.chm3077607
 f1_keywords:
 - vbagr10.chm3077607
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AreaGroups Method
+# AreaGroups method (Excel Graph)
 
 On a 2-D chart, this method returns an object that represents a single area chart group or a collection of all the area chart groups.
 

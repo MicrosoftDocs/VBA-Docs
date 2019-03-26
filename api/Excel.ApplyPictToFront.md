@@ -1,5 +1,5 @@
 ---
-title: ApplyPictToFront Property
+title: ApplyPictToFront property (Excel Graph)
 keywords: vbagr10.chm3076954
 f1_keywords:
 - vbagr10.chm3076954
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplyPictToFront Property
+# ApplyPictToFront property (Excel Graph)
 
 True if a picture is applied to the front of the point or all points in the series. Read/write Boolean.
 

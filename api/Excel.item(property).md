@@ -1,5 +1,5 @@
 ---
-title: Item property (Graph)
+title: Item property (Excel Graph)
 keywords: vbagr10.chm3077068
 f1_keywords:
 - vbagr10.chm3077068
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Item property (Graph)
+# Item property (Excel Graph)
 
 Returns a Range object that represents a range that's offset from the specified range. Read/write Variant.
 

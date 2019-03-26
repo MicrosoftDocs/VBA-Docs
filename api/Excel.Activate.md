@@ -1,5 +1,5 @@
 ---
-title: Activate method (Graph)
+title: Activate method (Excel Graph)
 keywords: vbagr10.chm5206998
 f1_keywords:
 - vbagr10.chm5206998
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Activate method (Graph)
+# Activate method (Excel Graph)
 
 Activates the object.
 

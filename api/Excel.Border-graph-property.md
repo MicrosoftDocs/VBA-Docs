@@ -1,5 +1,5 @@
 ---
-title: Border property (Graph)
+title: Border property (Excel Graph)
 keywords: vbagr10.chm3076965
 f1_keywords:
 - vbagr10.chm3076965
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Border property (Graph)
+# Border property (Excel Graph)
 
 Returns a **[Border](Excel.Border-graph-object.md)** object that represents the border of the specified object. Read-only **Border** object.
 

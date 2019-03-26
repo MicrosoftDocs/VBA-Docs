@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 _expression_.**Left**
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## See also

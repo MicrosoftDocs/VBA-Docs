@@ -1,5 +1,5 @@
 ---
-title: Axes Collection
+title: Axes collection (Excel Graph)
 keywords: vbagr10.chm131099
 f1_keywords:
 - vbagr10.chm131099
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axes Collection
+# Axes collection (Excel Graph)
 
 A collection of all the  **[Axis](Excel.Axis-graph-object.md)** objects in the specified chart.
 

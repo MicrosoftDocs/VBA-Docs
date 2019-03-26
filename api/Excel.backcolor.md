@@ -1,5 +1,5 @@
 ---
-title: BackColor Property (Graph)
+title: BackColor property (Excel Graph)
 keywords: vbagr10.chm67174
 f1_keywords:
 - vbagr10.chm67174
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# BackColor Property (Graph)
+# BackColor property (Excel Graph)
 
 Returns a  **ChartColorFormat** object that represents the fill background color.
 

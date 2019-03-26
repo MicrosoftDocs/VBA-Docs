@@ -21,7 +21,7 @@ Returns or sets the reading order for the specified object. Can be one of the fo
 
 _expression_.**ReadingOrder**
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets the minor unit scale value for the category axis when the  **Cat
 
 _expression_. `MinorUnitScale`
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks

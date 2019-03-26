@@ -1,5 +1,5 @@
 ---
-title: ApplyPictToSides Property
+title: ApplyPictToSides property (Excel Graph)
 keywords: vbagr10.chm67195
 f1_keywords:
 - vbagr10.chm67195
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplyPictToSides Property
+# ApplyPictToSides property (Excel Graph)
 
  **True** if a picture is applied to the sides of the point or all points in the series. Read/write **Boolean**.
 

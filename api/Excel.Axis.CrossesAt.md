@@ -21,7 +21,7 @@ Returns or sets the point on the value axis where the category axis crosses it. 
 
 _expression_. `CrossesAt`
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks

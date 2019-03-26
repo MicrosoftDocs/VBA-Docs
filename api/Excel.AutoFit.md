@@ -1,5 +1,5 @@
 ---
-title: AutoFit Method
+title: AutoFit method (Excel Graph)
 keywords: vbagr10.chm65773
 f1_keywords:
 - vbagr10.chm65773
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoFit Method
+# AutoFit method (Excel Graph)
 
 Changes the width of the columns in the specified range to achieve the best fit.
 

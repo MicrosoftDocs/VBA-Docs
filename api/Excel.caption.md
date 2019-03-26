@@ -1,5 +1,5 @@
 ---
-title: Caption Property (Graph)
+title: Caption property (Excel Graph)
 keywords: vbagr10.chm3076968
 f1_keywords:
 - vbagr10.chm3076968
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Caption Property (Graph)
+# Caption property (Excel Graph)
 
 Returns or sets the title text for the object. Read/write String.
 

@@ -1,5 +1,5 @@
 ---
-title: Border object (Graph)
+title: Border object (Excel Graph)
 keywords: vbagr10.chm5207143
 f1_keywords:
 - vbagr10.chm5207143
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Border object (Graph)
+# Border object (Excel Graph)
 
 Represents the border of the specified object.
 

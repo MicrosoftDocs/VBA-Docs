@@ -1,5 +1,5 @@
 ---
-title: AddChartAutoFormat method (Graph)
+title: AddChartAutoFormat method (Excel Graph)
 keywords: vbagr10.chm65752
 f1_keywords:
 - vbagr10.chm65752
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddChartAutoFormat method (Graph)
+# AddChartAutoFormat method (Excel Graph)
 
 Adds a custom chart autoformat to the list of available chart autoformats.
 

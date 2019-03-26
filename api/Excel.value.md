@@ -1,5 +1,5 @@
 ---
-title: Value Property (Graph)
+title: Value property (Excel Graph)
 keywords: vbagr10.chm65542
 f1_keywords:
 - vbagr10.chm65542
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Value Property (Graph)
+# Value property (Excel Graph)
 
 Returns the value of the specified cell. If the cell is empty, Value returns the value Empty (use the IsEmpty function to test for this case). If the Range object contains more than one cell, this property returns an array of values (use the IsArray function to test for this case). Read/write Variant.
 

@@ -21,7 +21,7 @@ Returns or sets the primary color of the object, as shown in the table in the re
 
 _expression_. `Color`
 
- _expression_ An expression that returns a [Borders](Excel.Borders.md) object.
+ _expression_ An expression that returns a **[Borders](Excel.Borders.md)** object.
 
 
 ## Remarks

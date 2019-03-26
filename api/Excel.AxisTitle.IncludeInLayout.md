@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IncludeInLayout`
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## Remarks

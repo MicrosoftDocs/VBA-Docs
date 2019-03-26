@@ -21,7 +21,7 @@ Returns or sets the text for the specified object. Read/write  **String**.
 
 _expression_. `Text`
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## Example

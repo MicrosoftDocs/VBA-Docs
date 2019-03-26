@@ -21,7 +21,7 @@ Allows the user to display or hide the  **AutoCorrect Options** button. The defa
 
 _expression_. `DisplayAutoCorrectOptions`
 
-_expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an **[AutoCorrect](Excel.AutoCorrect(object).md)** object.
 
 
 ## Remarks

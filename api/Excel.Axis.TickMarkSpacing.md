@@ -21,7 +21,7 @@ Returns or sets the number of categories or series between tick marks. Applies o
 
 _expression_. `TickMarkSpacing`
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks

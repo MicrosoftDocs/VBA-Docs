@@ -1,5 +1,5 @@
 ---
-title: Refresh Method (Graph)
+title: Refresh method (Excel Graph)
 keywords: vbagr10.chm3077631
 f1_keywords:
 - vbagr10.chm3077631
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Refresh Method (Graph)
+# Refresh Method (Excel Graph)
 
 Causes the specified chart to be redrawn immediately.
 

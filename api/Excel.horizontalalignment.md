@@ -1,5 +1,5 @@
 ---
-title: HorizontalAlignment Property (Graph)
+title: HorizontalAlignment property (Excel Graph)
 keywords: vbagr10.chm65672
 f1_keywords:
 - vbagr10.chm65672
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# HorizontalAlignment Property (Graph)
+# HorizontalAlignment property (Excel Graph)
 
 Returns or sets the horizontal alignment for the specified object. Read/write 
  **xlHAlign**

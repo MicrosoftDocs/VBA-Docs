@@ -1,5 +1,5 @@
 ---
-title: Background Property
+title: Background property (Excel Graph)
 keywords: vbagr10.chm65716
 f1_keywords:
 - vbagr10.chm65716
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Background Property
+# Background property (Excel Graph)
 
 Returns or sets the text background type. This property is used only for text on charts. Read/write 
  **xlBackground**

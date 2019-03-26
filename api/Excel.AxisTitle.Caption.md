@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the axis title text.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## See also

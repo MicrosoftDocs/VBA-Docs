@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Property
+title: AutoCorrect property (Excel Graph)
 keywords: vbagr10.chm5207061
 f1_keywords:
 - vbagr10.chm5207061
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoCorrect Property
+# AutoCorrect property (Excel Graph)
 
 Returns an  **[AutoCorrect](Excel.AutoCorrect-graph-object.md)** object that represents the Microsoft Graph AutoCorrect attributes. Read-only.
 

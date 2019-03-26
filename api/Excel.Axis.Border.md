@@ -21,7 +21,7 @@ Returns a  **[Border](Excel.Border(object).md)** object that represents the bord
 
 _expression_. `Border`
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## See also

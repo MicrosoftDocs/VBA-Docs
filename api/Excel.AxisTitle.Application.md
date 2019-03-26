@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## Example

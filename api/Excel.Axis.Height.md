@@ -21,7 +21,7 @@ Returns a  **Double** value that represents the height, in points, of the object
 
 _expression_.**Height**
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## See also

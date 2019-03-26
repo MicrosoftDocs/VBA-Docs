@@ -1,5 +1,5 @@
 ---
-title: AutoScaleFont Property
+title: AutoScaleFont property (Excel Graph)
 keywords: vbagr10.chm5207069
 f1_keywords:
 - vbagr10.chm5207069
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoScaleFont Property
+# AutoScaleFont property (Excel Graph)
 
  **True** if the text in the object changes font size when the object size changes. The default value is **True**. Read/write  **Variant**.
 

@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Property
+title: AxisTitle property (Excel Graph)
 keywords: vbagr10.chm65618
 f1_keywords:
 - vbagr10.chm65618
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisTitle Property
+# AxisTitle property (Excel Graph)
 
 Returns an AxisTitle object that represents the title of the specified axis. Read-only AxisTitle object.
 

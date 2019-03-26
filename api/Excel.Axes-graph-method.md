@@ -1,5 +1,5 @@
 ---
-title: Axes Method
+title: Axes method (Excel Graph)
 keywords: vbagr10.chm3077608
 f1_keywords:
 - vbagr10.chm3077608
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axes Method
+# Axes method (Excel Graph)
 
 Returns an object that represents either a single axis or a collection of the axes on the chart.
 

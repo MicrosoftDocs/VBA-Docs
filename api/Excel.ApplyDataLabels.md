@@ -1,5 +1,5 @@
 ---
-title: ApplyDataLabels Method
+title: ApplyDataLabels method (Excel Graph)
 keywords: vbagr10.chm67458
 f1_keywords:
 - vbagr10.chm67458
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplyDataLabels Method
+# ApplyDataLabels method (Excel Graph)
 
 ApplyDataLabels method as it applies to the  **Chart** object.
 

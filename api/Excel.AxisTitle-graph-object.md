@@ -1,5 +1,5 @@
 ---
-title: AxisTitle Object
+title: AxisTitle object (Excel Graph)
 keywords: vbagr10.chm131082
 f1_keywords:
 - vbagr10.chm131082

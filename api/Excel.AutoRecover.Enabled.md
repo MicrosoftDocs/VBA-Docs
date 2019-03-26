@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_.**Enabled**
 
-_expression_ A variable that represents an [AutoRecover](Excel.AutoRecover.md) object.
+_expression_ A variable that represents an **[AutoRecover](Excel.AutoRecover.md)** object.
 
 
 ## See also

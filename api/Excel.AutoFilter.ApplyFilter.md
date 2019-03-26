@@ -21,7 +21,7 @@ Applies the specified  **Autofilter** object.
 
 _expression_. `ApplyFilter`
 
-_expression_ A variable that represents an [AutoFilter](Excel.AutoFilter.md) object.
+_expression_ A variable that represents an **[AutoFilter](Excel.AutoFilter.md)** object.
 
 
 ## See also
