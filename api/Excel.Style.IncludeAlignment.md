@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Style.IncludeAlignment property (Excel)
 
- **True** if the style includes the **AddIndent** , **HorizontalAlignment** , **VerticalAlignment** , **WrapText** , **IndentLevel** , and **Orientation** properties. Read/write **Boolean**.
+ **True** if the style includes the **AddIndent**, **HorizontalAlignment**, **VerticalAlignment**, **WrapText**, **IndentLevel**, and **Orientation** properties. Read/write **Boolean**.
 
 
 ## Syntax

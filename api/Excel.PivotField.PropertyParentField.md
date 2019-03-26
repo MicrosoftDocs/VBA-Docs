@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 Valid only for fields that are member property fields.
 
-If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False** , using the **PropertyParentField** property will return a run-time error.
+If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False**, using the **PropertyParentField** property will return a run-time error.
 
 
 ## Example

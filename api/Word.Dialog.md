@@ -26,7 +26,7 @@ Use  **Dialogs** (Index), where Index is a **WdWordDialog** constant that identi
 dlgAnswer = Dialogs(wdDialogFileOpen).Show
 ```
 
-The  **WdWordDialog** constants are formed from the prefix "wdDialog" followed by the name of the menu and the dialog box. For example, the constant for the **Page Setup** dialog box is **wdDialogFilePageSetup** , and the constant for the **New** dialog box is **wdDialogFileNew**.
+The  **WdWordDialog** constants are formed from the prefix "wdDialog" followed by the name of the menu and the dialog box. For example, the constant for the **Page Setup** dialog box is **wdDialogFilePageSetup**, and the constant for the **New** dialog box is **wdDialogFileNew**.
 
 For more information about working with built-in Word dialog boxes, see [Displaying built-in Word dialog boxes](../word/Concepts/Customizing-Word/displaying-built-in-word-dialog-boxes.md).
 

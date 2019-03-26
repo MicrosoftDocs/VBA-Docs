@@ -19,7 +19,7 @@ Returns one of the constants of the  **[xlFormatConditionType](Excel.XlFormatCon
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [Top10](./Excel.Top10.md) object.
 

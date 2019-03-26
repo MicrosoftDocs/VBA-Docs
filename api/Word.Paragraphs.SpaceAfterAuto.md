@@ -28,7 +28,7 @@ localization_priority: Normal
 
 This property returns  **wdUndefined** if the **SpaceAfterAuto** property is set to **True** for only some of the specified paragraphs. Can be set to either **True** or **False**.
 
-If  **SpaceAfterAuto** is set to **True** , the **SpaceAfter** property is ignored.
+If  **SpaceAfterAuto** is set to **True**, the **SpaceAfter** property is ignored.
 
 
 ## Example

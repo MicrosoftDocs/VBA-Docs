@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.KoreanUseAutoChangeList property (Excel)
 
-When set to  **True** , this enables Microsoft Excel to use the auto-change list for Korean words when using the spelling checker. Read/write **Boolean**.
+When set to  **True**, this enables Microsoft Excel to use the auto-change list for Korean words when using the spelling checker. Read/write **Boolean**.
 
 
 ## Syntax

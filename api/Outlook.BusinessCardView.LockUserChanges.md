@@ -26,7 +26,7 @@ _expression_. `LockUserChanges`
 
 ## Remarks
 
-If  **True** , the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
+If  **True**, the user can modify the settings of the current view. However, changes made to the interface will not be saved. If **False** (the default), any changes will be saved.
 
 
 ## Example

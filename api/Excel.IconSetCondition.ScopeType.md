@@ -19,14 +19,14 @@ Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
-_expression_. `ScopeType`
+_expression_.**ScopeType**
 
 _expression_ A variable that represents an [IconSetCondition](Excel.IconSetCondition.md) object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
+The default value is  **xlSelectionScope**, which sets the scope using the **AppliesTo** property.
 
 
 ## See also

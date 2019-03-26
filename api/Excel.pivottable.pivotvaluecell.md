@@ -28,8 +28,8 @@ _expression_ A variable that represents a [PivotTable object (Excel)](Excel.Pivo
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _rowline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
-| _columnline_|Optional|VARIANT|If of type  **PivotLine** , specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int** , then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|
+| _rowline_|Optional|VARIANT|If of type  **PivotLine**, specifies the **PivotLine** in the row area that the **PivotValueCell** is aligned with. If of type **Int**, then specifies position of the **PivotLine** on the row area that the **PivotValueCell** is aligned with. If missing, Empty, Null, or 0 specifies the grand total row.|
+| _columnline_|Optional|VARIANT|If of type  **PivotLine**, specifies the **PivotLine** in the column area that the **PivotValueCell** is aligned with. If of type **Int**, then specifies position of the **PivotLine** on the column area that the **PivotValueCell** is aligned with. If missing, Empty, Null or 0, specifies the grand total column.|
 
 ## Return value
 

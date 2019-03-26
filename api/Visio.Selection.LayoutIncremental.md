@@ -77,11 +77,11 @@ The  _AlignVertical_ parameter must be one of the following **VisLayoutVertAlign
 | **visLayoutVertAlignMiddle**|3|Align the middles of the shapes.|
 | **visLayoutVertAlignBottom**|4|Align the bottom edges of the shapes.|
 
-If  _AlignOrSpace_ is **visLayoutIncrAlign** , either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone** , or _AlignVertical_ must be a value other than **visLayoutVertAlignNone**.
+If  _AlignOrSpace_ is **visLayoutIncrAlign**, either _AlignHorizontal_ must be a value other than **visLayoutHorzAlignNone**, or _AlignVertical_ must be a value other than **visLayoutVertAlignNone**.
 
-If  _AlignOrSpace_ is **visLayoutIncrSpace** , both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.
+If  _AlignOrSpace_ is **visLayoutIncrSpace**, both _AlignHorizontal_ and _AlignVertical_ must be greater than zero.
 
-If  _AlignOrSpace_ is a combination of **visLayoutIncrAlign** and **visLayoutIncrSpace** , both of these conditions must be true.
+If  _AlignOrSpace_ is a combination of **visLayoutIncrAlign** and **visLayoutIncrSpace**, both of these conditions must be true.
 
 If the page layout style is circular, Visio uses only the  _AlignHorizontal_ value to determine whether to align, and only the _SpaceHorizontal_ parameter value to determine whether to space, ignoring the _AlignVertical_ and _SpaceVertical_ parameter values, respectively. In this case, if you pass a value other than **visLayoutHorzAlignNone** for _AlignHorizontal_ , Visio performs the alignment. Similarly, if you pass any value greater than zero for _SpaceHorizontal_ , Visio performs the spacing.
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OLEDBConnection](Excel.OLEDBConnecti
 
 ## Remarks
 
-When making the connection to the OLE DB data source, Microsoft Excel uses the connection string specified by the  **[Connection](Excel.OLEDBConnection.Connection.md)** property. If the specified connection string is missing required values, dialog boxes will be displayed to prompt the user for the required information. If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False** , dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
+When making the connection to the OLE DB data source, Microsoft Excel uses the connection string specified by the  **[Connection](Excel.OLEDBConnection.Connection.md)** property. If the specified connection string is missing required values, dialog boxes will be displayed to prompt the user for the required information. If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False**, dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
 
 After Microsoft Excel makes a successful connection, it stores the completed connection string so that prompts will not be displayed for subsequent calls to the  **Refresh** method during the same editing session. You can obtain the completed connection string by examining the value of the **[Connection](Excel.OLEDBConnection.Connection.md)** property.
 

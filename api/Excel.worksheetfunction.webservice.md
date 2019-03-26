@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm137466
 ms.prod: excel
 ms.assetid: 7b7be122-2b68-0431-6687-cc5dad897274
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
@@ -17,32 +17,31 @@ Underlying function that calls the web service asynchronously, using an HTTP GET
 
 ## Syntax
 
-_expression_. `WebService`_(Arg1)_
+_expression_.**WebService** (_Url_)
 
-_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a **[WorksheetFunction](Excel.WorksheetFunction.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Arg1_|Required|STRING|The URL of the web service to make the HTTP GET request to.|
+| _Url_|Required|**String**|The URL of the web service to make the HTTP GET request to.|
 
 ### Remarks
 
-The XPath parameter is limited to 1024 characters.
+The URL parameter is limited to 2048 characters.
 
 
 ## Return value
 
- **VARIANT**
+**VARIANT**
 
 
 ## See also
 
+- [WEBSERVICE() function](https://support.office.com/article/webservice-function-0546a35a-ecc6-4739-aed7-c0b7ce1562c4)
 
-[WorksheetFunction Object](Excel.WorksheetFunction.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

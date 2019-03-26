@@ -34,7 +34,7 @@ Boolean
 
 ## Remarks
 
-The default callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic** , commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** and **Master.DataGraphicHorizontalPosition** properties. If **GraphicItem.UseDataGraphicPosition** is **True** , the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False** , its position is determined by the settings of the **GraphicItem.VerticalPosition** and **GraphicItem.HorizontalPosition** properties.
+The default callout position for graphic items in the  **GraphicItems** collection of a **Master** object of type **visTypeDataGraphic**, commonly called a data graphic master, is specified by the settings of the **Master.DataGraphicVerticalPosition** and **Master.DataGraphicHorizontalPosition** properties. If **GraphicItem.UseDataGraphicPosition** is **True**, the graphic item is positioned according to the default setting. If **UseDataGraphicPosition** is **False**, its position is determined by the settings of the **GraphicItem.VerticalPosition** and **GraphicItem.HorizontalPosition** properties.
 
 In addition, if the  **HorizontalPosition** and **VerticalPosition** property values of a graphic item are equal to the **DataGraphicHorizontalPosition** and **DataGraphicVerticalPosition** property values, the value of the **UseDataGraphicPosition** property for that graphic item is automatically set to **True**.
 

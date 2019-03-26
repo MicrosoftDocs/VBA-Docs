@@ -21,7 +21,7 @@ Represents the drop lines in a chart group.
 
 Drop lines connect the points in the chart with the x-axis. Only line and area chart groups can have drop lines. This object isn't a collection. There's no object that represents a single drop line; you either have drop lines turned on for all points in a chart group or you have them turned off.
 
-If the  **[HasDropLines](Excel.ChartGroup.HasDropLines.md)** property is **False** , most properties of the **DropLines** object are disabled.
+If the  **[HasDropLines](Excel.ChartGroup.HasDropLines.md)** property is **False**, most properties of the **DropLines** object are disabled.
 
 
 ## Example

@@ -56,9 +56,9 @@ The  _size_ parameter must be one of the following **VisRasterExportSize** const
 | **visRasterFitToSourceSize**|2|Use source size.|
 | **visRasterFitToCustomSize**|3|Use custom size.|
 
-If  _size_ is anything other than **visRasterFitToCustomSize** , **SetRasterExportSize** ignores all other parameters.
+If  _size_ is anything other than **visRasterFitToCustomSize**, **SetRasterExportSize** ignores all other parameters.
 
-If  _size_ is **visRasterFitToCustomSize** , **SetRasterExportSize** accepts values for all parameters, if they meet the noted constraints. If they do not meet these constraints, **SetRasterExportSize** returns an Invalid Parameter error.
+If  _size_ is **visRasterFitToCustomSize**, **SetRasterExportSize** accepts values for all parameters, if they meet the noted constraints. If they do not meet these constraints, **SetRasterExportSize** returns an Invalid Parameter error.
 
 The  _sizeUnits_ parameter must be one of the following **VisRasterExportSizeUnits** constants.
 

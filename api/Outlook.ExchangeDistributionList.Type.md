@@ -19,14 +19,14 @@ Returns a  **String** representing the type of entry for the **[ExchangeDistribu
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents an [ExchangeDistributionList](./Outlook.ExchangeDistributionList.md) object.
 
 
 ## Remarks
 
-The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList** , the type is always the string "EX".
+The  **ExchangeDistributionList** object is derived from the **[AddressEntry](Outlook.AddressEntry.md)** object. It inherits the **Type** property from the **AddressEntry** object. In the case of **ExchangeDistributionList**, the type is always the string "EX".
 
 
 ## See also

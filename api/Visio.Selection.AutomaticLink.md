@@ -53,7 +53,7 @@ For the AutoLinkFieldTypes() parameter, pass an array of  **Long** values from t
 
 For the FieldNames() parameter, pass an array of strings that represent shape values. At least one position in the FieldNames() array must have a value that corresponds to the values in the same position in the ColumnNames() and AutoLinkFieldTypes() arrays.
 
-For most values of AutoLinkFieldTypes(), for example, for  **visAutoLinkShapeText** , it is not necessary to specify the FieldNames() value; you can pass an empty string instead. However, when you pass the **visAutoLinkCustPropsLabel** , **visAutoLinkUserRowName** , **visAutoLinkPropRowNameU** , or **visAutoLinkUserRowNameU** values of AutoLinkFieldTypes, you must pass a value for FieldNames() that fully specifies the shape data item (called custom property value in some previous versions of Visio) to compare to the data column name.
+For most values of AutoLinkFieldTypes(), for example, for  **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value; you can pass an empty string instead. However, when you pass the **visAutoLinkCustPropsLabel**, **visAutoLinkUserRowName**, **visAutoLinkPropRowNameU**, or **visAutoLinkUserRowNameU** values of AutoLinkFieldTypes, you must pass a value for FieldNames() that fully specifies the shape data item (called custom property value in some previous versions of Visio) to compare to the data column name.
 
 For the optional AutoLinkBehavior parameter, you can pass a combination of one or more values from the  **VisAutoLinkBehaviors** enumeration that specify how the linking will occur. The following table shows possible values.
 
@@ -74,7 +74,7 @@ You cannot pass a value that includes both  **visAutoLinkDontReplaceExistingLink
 If you pass a value for AutoLinkBehavior, it modifies the default behavior, which is as follows:
 
 
-- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt** , it is treated as if it were **visLinkReplaceAlways**.
+- Use the data recordset's  **LinkReplaceBehavior** setting to determine whether to break existing links. If the setting is **visLinkReplacePrompt**, it is treated as if it were **visLinkReplaceAlways**.
     
 - Link selected shapes and their subshapes.
     
@@ -93,7 +93,7 @@ For example, say that your drawing contains a selection of shapes representing d
     
 - For the AutoLinkFieldTypes() parameter, enumeration value  **visAutoLinkShapeText** at array position 0.
     
-- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText** , it is not necessary to specify the FieldNames() value.
+- For the FieldNames() parameter, an empty string (''") at array position 0, because, when AutoLinkFieldTypes() is  **visAutoLinkShapeText**, it is not necessary to specify the FieldNames() value.
     
 
 ## Example

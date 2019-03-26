@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 This property doesn't apply to OLAP data sources and is always  **False**.
 
-When this property is  **True** , only records in the database that match the selected page field item are retrieved. From then on, whenever the user changes the page field selection, the newly selected page field item is passed to the query as a parameter, and the cache is refreshed.
+When this property is  **True**, only records in the database that match the selected page field item are retrieved. From then on, whenever the user changes the page field selection, the newly selected page field item is passed to the query as a parameter, and the cache is refreshed.
 
 This property cannot be set if any of the following conditions are true:
 

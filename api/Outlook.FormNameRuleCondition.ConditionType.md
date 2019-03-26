@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # FormNameRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionFormName** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionFormName**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

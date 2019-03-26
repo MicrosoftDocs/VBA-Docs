@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # InvisibleApp.QueryCancelMasterDelete Event (Visio)
 
-Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
+Occurs before the application deletes a master in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax

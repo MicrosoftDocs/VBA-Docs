@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # LinkFormat.Locked property (Word)
 
- **True** if a **Field** , **InlineShape** , or **Shape** object is locked to prevent automatic updating. Read/write **Boolean**.
+ **True** if a **Field**, **InlineShape**, or **Shape** object is locked to prevent automatic updating. Read/write **Boolean**.
 
 
 ## Syntax

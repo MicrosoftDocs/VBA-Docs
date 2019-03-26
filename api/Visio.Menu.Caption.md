@@ -19,7 +19,7 @@ Gets or sets the caption for a menu. Read/write.
 
 ## Syntax
 
- _expression_. `Caption`
+ _expression_.**Caption**
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

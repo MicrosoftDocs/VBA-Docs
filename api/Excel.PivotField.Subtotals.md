@@ -34,7 +34,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 ## Remarks
 
-If an index is  **True** , the field shows that subtotal. If index 1 (Automatic) is **True** , all other values are set to **False**.
+If an index is  **True**, the field shows that subtotal. If index 1 (Automatic) is **True**, all other values are set to **False**.
 
 
 

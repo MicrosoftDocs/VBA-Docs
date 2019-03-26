@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.WebBrowserControl.Application
 ms.assetid: 10fdd4be-d129-fb18-4d88-245b5a0ae431
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 

@@ -19,9 +19,9 @@ Returns an  **[Interior](Excel.Interior(object).md)** object that specifies a ce
 
 ## Syntax
 
-_expression_. `Interior`
+_expression_.**Interior**
 
-_expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## See also

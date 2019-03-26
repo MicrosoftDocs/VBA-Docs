@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataColumn.ObjectType Property (Visio)
 
-Returns  **visObjTypeDataColumn** , the type of a **DataColumn** object. Read-only.
+Returns  **visObjTypeDataColumn**, the type of a **DataColumn** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

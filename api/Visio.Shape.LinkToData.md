@@ -44,7 +44,7 @@ Nothing
 
 ## Remarks
 
-The  **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)** , except that it links a single shape, instead of a selection of shapes, to a single data row.
+The  **Shape.LinkToData** method functions much like the same method of the **Selection** object, **[Selection.LinkToData](Visio.Selection.LinkToData.md)**, except that it links a single shape, instead of a selection of shapes, to a single data row.
 
 If you pass  **True** for the AutoApplyDataGraphics parameter, Microsoft Visio re-applies the existing data graphic to a shape if it already had a data graphic applied before you called the method. For a shape that previously had no data graphic, Visio applies the data graphic most recently applied to any other shape in the current document.
 

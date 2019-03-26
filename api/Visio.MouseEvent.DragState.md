@@ -57,18 +57,18 @@ Possible values returned by the  **DragState** property are shown in the followi
 
 When the  **DragState** property returns **visMouseMoveDragStatesBegin** a drag and drop action is beginning. The **DragState** property returns **visMouseMoveDragStatesBegin** just once for each drag and drop action. At this point, you can cancel the drag and drop action entirely; if you do so, Visio fires no additional **MouseMove** events for any target windows.
 
-When the  **DragState** property returns **visMouseMoveDragStatesEnter** , an end-user is dragging an object into a drop-target window. This event is fired once per drop-target window. At this point, you can cancel the drag and drop action for that specific drop-target window.
+When the  **DragState** property returns **visMouseMoveDragStatesEnter**, an end-user is dragging an object into a drop-target window. This event is fired once per drop-target window. At this point, you can cancel the drag and drop action for that specific drop-target window.
 
-When the  **DragState** property returns **visMouseMoveDragStatesOver** , the user is dragging an object over a drop-target window. You can cancel the drag action, based on the type of window or on an _x,y_ range within a window, as specified in your code. Canceling a drag action over the drop-target window prevents the end-user from completing the drag and drop action.
+When the  **DragState** property returns **visMouseMoveDragStatesOver**, the user is dragging an object over a drop-target window. You can cancel the drag action, based on the type of window or on an _x,y_ range within a window, as specified in your code. Canceling a drag action over the drop-target window prevents the end-user from completing the drag and drop action.
 
-When the  **DragState** property returns **visMouseMoveDragStatesDrop** , the drop-target window is receiving a drop. You can cancel the drop action, thus preventing the drop from occurring. When this occurs and you do not also cancel the drag action over the drop-target window, the end-user does not get any visual feedback to indicate that the drop action has been prevented.
+When the  **DragState** property returns **visMouseMoveDragStatesDrop**, the drop-target window is receiving a drop. You can cancel the drop action, thus preventing the drop from occurring. When this occurs and you do not also cancel the drag action over the drop-target window, the end-user does not get any visual feedback to indicate that the drop action has been prevented.
 
-When the  **DragState** property returns **visMouseMoveDragStatesLeave** , the end-user is moving the mouse out of the drop-target window. There is no way for you to cancel this operation at this point, but there would also be no logical reason to do so.
+When the  **DragState** property returns **visMouseMoveDragStatesLeave**, the end-user is moving the mouse out of the drop-target window. There is no way for you to cancel this operation at this point, but there would also be no logical reason to do so.
 
 
 ## Example
 
-This example shows how to create a class module that implements the  **IVisEventProc** interface to handle events fired by the **MouseEvent** object. The module consists of the function **VisEventProc** , which uses a **Select Case** block to determine if the event that fired was a **MouseMove** event. If so, the code uses an **If...Else** block and the **DragState** property to determine the particular **MouseMove** event extension that fired.
+This example shows how to create a class module that implements the  **IVisEventProc** interface to handle events fired by the **MouseEvent** object. The module consists of the function **VisEventProc**, which uses a **Select Case** block to determine if the event that fired was a **MouseMove** event. If so, the code uses an **If...Else** block and the **DragState** property to determine the particular **MouseMove** event extension that fired.
 
 Events other than  **MouseMove** fall under the default case (**Case Else**). In both cases, the **Case** block constructs a string ( _strMessage_ ) that contains the name and event code of the event that fired, including the drag-state extension and the _x-_ and _y-_ values of the location where the event fired, derived from the values of the **MouseEvent.X** and **MouseEvent.Y** properties. Finally, the function displays the message in the **Immediate** window.
 

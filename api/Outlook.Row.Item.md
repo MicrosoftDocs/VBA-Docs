@@ -45,7 +45,7 @@ The  **Item** method is the default method of the **Row** object, meaning that t
 
  `Row("Subject")`
 
-If a  **Column** has been added to a **Table** using a property name referencing a namespace, you must reference the **Column** in the **Row.Item** method by the same namespace reference. If you use an explicit built-in name reference in **Row.Item** , you will get an error.
+If a  **Column** has been added to a **Table** using a property name referencing a namespace, you must reference the **Column** in the **Row.Item** method by the same namespace reference. If you use an explicit built-in name reference in **Row.Item**, you will get an error.
 
 
 ## Example

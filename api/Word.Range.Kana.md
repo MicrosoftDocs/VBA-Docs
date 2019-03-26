@@ -26,7 +26,7 @@ Returns or sets whether the specified range of Japanese language text is hiragan
 
 ## Remarks
 
-This property returns  **wdUndefined** if the range contains a mix of hiragana and katakana or if the range contains some non-Japanese text. If you set the **Kana** property to **wdUndefined** , an error occurs.
+This property returns  **wdUndefined** if the range contains a mix of hiragana and katakana or if the range contains some non-Japanese text. If you set the **Kana** property to **wdUndefined**, an error occurs.
 
 
 ## Example

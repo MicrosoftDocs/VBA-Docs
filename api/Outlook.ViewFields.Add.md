@@ -47,7 +47,7 @@ If you are adding a custom property to the  **ViewFields** collection, the prope
 
 If the property already exists in the  **ViewFields** collection, Outlook will raise an error.
 
-Certain properties cannot be added to a view using  **ViewFields.Add** , including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
+Certain properties cannot be added to a view using  **ViewFields.Add**, including binary properties, computed properties, and HTML or RTF body content. For more information, see [Unsupported Properties in a Table Object or Table Filter](../outlook/How-to/Search-and-Filter/unsupported-properties-in-a-table-object-or-table-filter.md).
 
 
 ## Example
@@ -103,7 +103,7 @@ Err_Handler:
 End Sub
 ```
 
-The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)** , references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add**.
+The following code sample in VBA assumes the current view is a  **[TableView](Outlook.TableView.md)**, references the Message Class property by namespace and adds it to the current view of the current folder. To avoid Outlook raising an error, the code checks for the existence of this property in the view before calling **ViewFields.Add**.
 
 
 

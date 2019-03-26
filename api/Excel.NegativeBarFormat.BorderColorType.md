@@ -31,7 +31,7 @@ _expression_ A variable that represents a '[NegativeBarFormat](Excel.NegativeBar
 
 ## Remarks
 
-If you set the  **BorderColorType** property to **xlDataBarColor** , use the **[BorderColor](Excel.NegativeBarFormat.BorderColor.md)** of the **NegativeBarFormat** to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to specify the border color.
+If you set the  **BorderColorType** property to **xlDataBarColor**, use the **[BorderColor](Excel.NegativeBarFormat.BorderColor.md)** of the **NegativeBarFormat** to return a **[FormatColor](Excel.FormatColor.md)** object that you can use to specify the border color.
 
 
 ## See also

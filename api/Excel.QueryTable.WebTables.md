@@ -26,11 +26,11 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 
 ## Remarks
 
-Use this property only when the query table's  **[QueryType](Excel.QueryTable.QueryType.md)** property is set to **xlWebQuery** , the query returns an HTML document, and the value of the **[WebSelectionType](Excel.QueryTable.WebSelectionType.md)** property is **xlSpecifiedTables**.
+Use this property only when the query table's  **[QueryType](Excel.QueryTable.QueryType.md)** property is set to **xlWebQuery**, the query returns an HTML document, and the value of the **[WebSelectionType](Excel.QueryTable.WebSelectionType.md)** property is **xlSpecifiedTables**.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **WebTables** property applies only to **QueryTable** objects.
 

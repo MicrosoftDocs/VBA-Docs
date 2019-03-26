@@ -47,7 +47,7 @@ objRet = object(index)
 objRet = object(stringExpression)
 ```
 
-You can retrieve an object in an  **Addons** , **Documents** , **Fonts** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **OLEObjects** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant**.
+You can retrieve an object in an  **Addons**, **Documents**, **Fonts**, **Hyperlinks**, **Layers**, **Masters**, **MasterShortcuts**, **OLEObjects**, **Pages**, **Shapes**, or **Styles** collection by passing the object's name as a string expression in a **Variant**.
 
 If you retrieve a  **Shape** object by name, the **Item** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **Item** property can be a shape that is not in the **Shapes** collection.
 

@@ -31,7 +31,7 @@ Integer
 
 ## Remarks
 
-You must set the value of the  **PrintFitOnPages** property to **True** in order to use the **PrintPagesAcross** property. If the value of the **PrintFitOnPages** property is **False** , Microsoft Visio ignores the **PrintPagesAcross** property.
+You must set the value of the  **PrintFitOnPages** property to **True** in order to use the **PrintPagesAcross** property. If the value of the **PrintFitOnPages** property is **False**, Microsoft Visio ignores the **PrintPagesAcross** property.
 
 The  **PrintPagesAcross** property corresponds to the **Fit to sheet(s) across** setting in the **Page Setup** dialog box (on the **Design** tab, click the arrow in the **Page Setup** group).
 

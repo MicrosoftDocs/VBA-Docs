@@ -28,7 +28,7 @@ _expression_ A variable that represents a [MailItem](./Outlook.MailItem.md) obje
 
 This property corresponds to the MAPI property  **PidTagReceivedByEntryId**.
 
-If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **ReceivedByEntryID** , you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[MailItem.PropertyAccessor](Outlook.MailItem.PropertyAccessor.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
+If you are getting this property in a Microsoft Visual Basic or Microsoft Visual Basic for Applications (VBA) solution, owing to some type issues, instead of directly referencing  **ReceivedByEntryID**, you should get the property through the **[PropertyAccessor](Outlook.PropertyAccessor.md)** object returned by the **[MailItem.PropertyAccessor](Outlook.MailItem.PropertyAccessor.md)** property, specifying the **PidTagReceivedByEntryId** property and its MAPI proptag namespace. The following code sample in VBA shows the workaround.
 
 
 

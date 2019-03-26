@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableStyle](./Excel.TableStyle.md) ob
 
 ## Remarks
 
-If  **True** , this style is shown in the gallery for table styles.
+If  **True**, this style is shown in the gallery for table styles.
 
 You can set this property to  **False** even when the style is already applied to a table. In this case the gallery will not show the style and when the active cell is in that table, no style is shown as selected.
 

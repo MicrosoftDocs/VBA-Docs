@@ -45,7 +45,7 @@ The  **GetTable** method returns a **Table** that has all items of the conversat
 
 By default, the rows in the table are sorted by the  **ConversationIndex** property of the items.
 
-To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)** , **[Remove](Outlook.Columns.Remove.md)** , or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
+To modify the default column set, use the  **[Add](Outlook.Columns.Add.md)**, **[Remove](Outlook.Columns.Remove.md)**, or **[RemoveAll](Outlook.Columns.RemoveAll.md)** methods of the **[Columns](Outlook.Columns.md)** collection object.
 
 The  **Table** object returned by this **GetTable** method does not include items in the conversation that have been moved to the Deleted Items folder.
 

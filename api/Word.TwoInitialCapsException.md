@@ -35,7 +35,7 @@ The index number represents the position of the initial-capital exception in the
 MsgBox AutoCorrect.TwoInitialCapsExceptions(1).Name
 ```
 
-If the  **TwoInitialCapsAutoAdd** property is **True** , words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "INdustry" to the list of initial-capital exceptions.
+If the  **TwoInitialCapsAutoAdd** property is **True**, words are automatically added to the list of initial-capital exceptions. Use the **Add** method to add an item to the **TwoInitialCapsExceptions** collection. The following example adds "INdustry" to the list of initial-capital exceptions.
 
 
 

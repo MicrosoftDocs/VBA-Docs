@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.CutCopyMode property (Excel)
 
-Returns or sets the status of Cut or Copy mode. Can be  **True** , **False** , or an **[XLCutCopyMode](Excel.XlCutCopyMode.md)** constant, as shown in the following tables. Read/write **Long**.
+Returns or sets the status of Cut or Copy mode. Can be  **True**, **False**, or an **[XLCutCopyMode](Excel.XlCutCopyMode.md)** constant, as shown in the following tables. Read/write **Long**.
 
 
 ## Syntax

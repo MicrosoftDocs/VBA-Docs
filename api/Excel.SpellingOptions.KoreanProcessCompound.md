@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SpellingOptions.KoreanProcessCompound property (Excel)
 
-When set to  **True** , this enables Microsoft Excel to process Korean compound nouns when using the spelling checker. Read/write **Boolean**.
+When set to  **True**, this enables Microsoft Excel to process Korean compound nouns when using the spelling checker. Read/write **Boolean**.
 
 
 ## Syntax

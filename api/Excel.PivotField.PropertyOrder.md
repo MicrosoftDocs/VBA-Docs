@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 Setting this property will rearrange the order of the properties for this cube field. This property is one-based. The allowable range is from one to the maximum number of member property fields being displayed for the hierarchy. 
 
-If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False** , using the **PropertyOrder** property will create a run-time error.
+If the  **[IsMemberProperty](Excel.PivotField.IsMemberProperty.md)** property is **False**, using the **PropertyOrder** property will create a run-time error.
 
 
 ## Example

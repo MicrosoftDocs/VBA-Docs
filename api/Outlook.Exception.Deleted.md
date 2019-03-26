@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Exception](./Outlook.Exception.md) o
 
 ## Remarks
 
-If this property returns  **True** , then the **AppointmentItem** was deleted from the recurring pattern.
+If this property returns  **True**, then the **AppointmentItem** was deleted from the recurring pattern.
 
 
 ## See also

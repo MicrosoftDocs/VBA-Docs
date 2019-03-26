@@ -31,7 +31,7 @@ Determines whether the rules in the specified validation rule set are checked wh
 
 ## Remarks
 
-If the value of the  **Enabled** property is **True** , the rules in the validation rule set are checked when validation is triggered for the current document. Validation is triggered when the user clicks **Check Diagram** on the **Process** tab or when the **[Validate](Visio.Validation.Validate.md)** method is run on the current document.
+If the value of the  **Enabled** property is **True**, the rules in the validation rule set are checked when validation is triggered for the current document. Validation is triggered when the user clicks **Check Diagram** on the **Process** tab or when the **[Validate](Visio.Validation.Validate.md)** method is run on the current document.
 
 Rule sets for which the value of  **Enabled** is **False** are purged from the current document when the **[RemoveHiddenInformation](Visio.Document.RemoveHiddenInformation.md)** method is run with the **visRHIValidationRules** flag set, or when the equivalent command is issued in the user interface.
 

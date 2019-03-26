@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Selection.GoToNext method (Word)
 
-Returns a  **Range** object that refers to the start position of the next item or location specified by the What argument. If you apply this method to the **Selection** object, the method moves the selection to the specified item (except for the **wdGoToGrammaticalError** , **wdGoToProofreadingError** , and **wdGoToSpellingError** constants).
+Returns a  **Range** object that refers to the start position of the next item or location specified by the What argument. If you apply this method to the **Selection** object, the method moves the selection to the specified item (except for the **wdGoToGrammaticalError**, **wdGoToProofreadingError**, and **wdGoToSpellingError** constants).
 
 
 ## Syntax
@@ -37,7 +37,7 @@ Returns a  **Range** object that refers to the start position of the next item o
 
 
 
- **Note**  When you use this method with the  **wdGoToGrammaticalError** , **wdGoToProofreadingError** , or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
+ **Note**  When you use this method with the  **wdGoToGrammaticalError**, **wdGoToProofreadingError**, or **wdGoToSpellingError** constant, the **Range** object that's returned includes any grammar error text or spelling error text.
 
 
 ## See also

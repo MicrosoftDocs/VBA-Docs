@@ -19,7 +19,7 @@ Returns or sets a  **[xlWindowType](Excel.XlWindowType.md)** value that represen
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [Window](./Excel.Window.md) object.
 

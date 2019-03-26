@@ -19,7 +19,7 @@ Deletes the specified  **Effect** object.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ A variable that represents an [Effect](./PowerPoint.Effect.md) object.
 

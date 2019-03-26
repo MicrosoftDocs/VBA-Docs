@@ -11,7 +11,7 @@ localization_priority: Normal
 
 # ValidationRules.ObjectType Property (Visio)
 
-Returns  **visObjTypeValidationRules** , the type of this object. Read-only.
+Returns  **visObjTypeValidationRules**, the type of this object. Read-only.
 
 
 ## Syntax

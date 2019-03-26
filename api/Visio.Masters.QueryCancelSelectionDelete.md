@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Masters.QueryCancelSelectionDelete Event (Visio)
 
-Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True** , the operation is canceled.
+Occurs before the application deletes a selection of shapes in response to a user action in the interface. If any event handler returns  **True**, the operation is canceled.
 
 
 ## Syntax

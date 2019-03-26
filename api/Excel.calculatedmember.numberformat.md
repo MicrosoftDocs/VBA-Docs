@@ -17,7 +17,7 @@ Returns a  **[xlCalcMemNumberFormatType](Excel.xlcalcmemnumberformattype.md)** v
 
 ## Syntax
 
-_expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
 _expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
 

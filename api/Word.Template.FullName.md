@@ -26,7 +26,7 @@ Specifies the name of a template, including the drive or Web path. Read-only  **
 
 ## Remarks
 
-Using this property is equivalent to using the  **Path** , **PathSeparator** , and **Name** properties in sequence.
+Using this property is equivalent to using the  **Path**, **PathSeparator**, and **Name** properties in sequence.
 
 
 ## Example

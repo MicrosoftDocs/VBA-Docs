@@ -19,7 +19,7 @@ Returns or sets a Long value that represents the series type.
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [Series](./Excel.Series-graph-object.md) object.
 

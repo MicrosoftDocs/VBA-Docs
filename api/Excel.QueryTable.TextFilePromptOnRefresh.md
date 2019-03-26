@@ -28,13 +28,13 @@ _expression_ A variable that represents a [QueryTable](Excel.QueryTable.md) obje
 
 Use this property only when your query table is based on data from a text file (with the  **[QueryType](Excel.QueryTable.QueryType.md)** property set to **xlTextImport**).
 
-If the value of this property is  **True** , the dialog box doesn't appear the first time a query table is refreshed.
+If the value of this property is  **True**, the dialog box doesn't appear the first time a query table is refreshed.
 
 The default value is  **True** in the user interface.
 
 If you import data using the user interface, data from a Web query or a text query is imported as a  **[QueryTable](Excel.QueryTable.md)** object, while all other external data is imported as a **[ListObject](Excel.ListObject.md)** object.
 
-If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable** , while all other external data can be imported as either a **ListObject** or a **QueryTable**.
+If you import data using the object model, data from a Web query or a text query must be imported as a  **QueryTable**, while all other external data can be imported as either a **ListObject** or a **QueryTable**.
 
 The  **TextFilePromptOnRefresh** property applies only to **QueryTable** objects.
 

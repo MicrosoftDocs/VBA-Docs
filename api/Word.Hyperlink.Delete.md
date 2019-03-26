@@ -19,7 +19,7 @@ Deletes the specified hyperlink.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

@@ -30,7 +30,7 @@ With ActiveDocument.Sentences(1).TextRetrievalMode
 End With
 ```
 
-Changing the  **ViewType** , **IncludeHiddentText** , or **IncludeFieldCodes** property of the **TextRetrievalMode** object doesn't change the screen display. Instead, changing one of these properties determines what text is retrieved from a **Range** object when the **Text** property is used.
+Changing the  **ViewType**, **IncludeHiddentText**, or **IncludeFieldCodes** property of the **TextRetrievalMode** object doesn't change the screen display. Instead, changing one of these properties determines what text is retrieved from a **Range** object when the **Text** property is used.
 
 
 ## See also

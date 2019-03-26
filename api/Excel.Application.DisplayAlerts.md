@@ -28,7 +28,7 @@ _expression_ A variable that represents an [Application](Excel.Application-graph
 
 The default value is  **True**. Set this property to **False** to suppress prompts and alert messages while a macro is running; when a message requires a response, Microsoft Excel chooses the default response.
 
-If you set this property to  **False** , Microsoft Excel sets this property to **True** when the code is finished, unless you are running cross-process code.
+If you set this property to  **False**, Microsoft Excel sets this property to **True** when the code is finished, unless you are running cross-process code.
 
 
 

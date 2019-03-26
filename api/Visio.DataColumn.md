@@ -22,7 +22,7 @@ Allows custom mapping of the properties of a column of a data recordset to Micro
 
 ## Remarks
 
-The default property of the  **DataColumn** object is **[Name](Visio.DataColumn.Name.md)** , which returns the name of the data column in the associated data recordset.
+The default property of the  **DataColumn** object is **[Name](Visio.DataColumn.Name.md)**, which returns the name of the data column in the associated data recordset.
 
 The  **[Visible](Visio.DataColumn.Visible.md)** property specifies whether the data column is visible in the **External Data** window.
 
@@ -37,7 +37,7 @@ Note that the read-only  **Name** property specifies the programmatic name for t
 
  **Note**  In Visio 2003 and prior versions, Shape Data were called Custom Properties. 
 
-Use the  **[GetProperty](Visio.DataColumn.GetProperty.md)** method to get the value of the data column property you specify. Data column properties must be one of the enumerated values in **VisDataColumnProperties** , which is declared in the Visio type library.
+Use the  **[GetProperty](Visio.DataColumn.GetProperty.md)** method to get the value of the data column property you specify. Data column properties must be one of the enumerated values in **VisDataColumnProperties**, which is declared in the Visio type library.
 
 Use the  **[SetProperty](Visio.DataColumn.SetProperty.md)** method to set the value of the data column property you specify, from the members of **VisDataColumnProperties**. The **SetProperty** topic contains a table that shows a matrix of allowable data column types and property settings. These settings correspond to those you can set in the **Types and Settings** dialog box for an individual column (select a column in the **Column Settings** dialog box, and then click **Data Type**).
 

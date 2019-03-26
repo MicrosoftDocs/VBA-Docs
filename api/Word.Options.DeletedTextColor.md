@@ -26,7 +26,7 @@ Returns or sets the color of text that is deleted while change tracking is enabl
 
 ## Remarks
 
-If the  **DeletedTextColor** property is set to **wdByAuthor** , Word automatically assigns a unique color to each of the first eight authors who revise a document.
+If the  **DeletedTextColor** property is set to **wdByAuthor**, Word automatically assigns a unique color to each of the first eight authors who revise a document.
 
 
 ## Example

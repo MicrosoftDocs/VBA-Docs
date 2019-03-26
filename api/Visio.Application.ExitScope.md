@@ -16,7 +16,7 @@ Queued when an internal command ends, or when an Automation client exits a scope
 
 ## Syntax
 
-Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_** , **_ByVal bErrOrCancelled As Boolean_**)
+Private Sub  _expression_ _'ExitScope'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal nScopeID As Long_**, **_ByVal bstrDescription As String_**, **_ByVal bErrOrCancelled As Boolean_**)
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -44,7 +44,7 @@ If you are handling this event from a program that receives a notification over 
 
 The  **EventInfo** property returns _bstrDescription_, as described previously. In addition, the  _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: [<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>], where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command. _nHwndContext_ could be 0.
 
-For  **ExitScope** , _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
+For  **ExitScope**, _bErrOrCancelled_ is non-zero if the operation failed or was canceled.
 
 
 ## Example

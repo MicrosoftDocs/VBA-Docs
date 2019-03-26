@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 ## Remarks
 
- **MoveToStart** is equivalent to resetting the **Table**. If you call **[GetNextRow](Outlook.Table.GetNextRow.md)** after you call **MoveToStart** , you will return a row representing the first row in the **Table**.
+ **MoveToStart** is equivalent to resetting the **Table**. If you call **[GetNextRow](Outlook.Table.GetNextRow.md)** after you call **MoveToStart**, you will return a row representing the first row in the **Table**.
 
 
 ## See also

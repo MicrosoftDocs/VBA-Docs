@@ -26,7 +26,7 @@ _expression_ A variable that represents an [ODBCConnection](Excel.ODBCConnection
 
 ## Remarks
 
-When this property is  **True** , the connection file will be used to establish the connection to the data source. If the connection embedded within the workbook is different from the external connection file, the embedded connection will be ignored and the external connection file will be the only version considered.
+When this property is  **True**, the connection file will be used to establish the connection to the data source. If the connection embedded within the workbook is different from the external connection file, the embedded connection will be ignored and the external connection file will be the only version considered.
 
 
 ## See also

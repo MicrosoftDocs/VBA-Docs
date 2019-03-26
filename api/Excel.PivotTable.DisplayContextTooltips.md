@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
-If  **DisplayContextTooltips** is set to **False** , contextual tooltips for PivotTable cells will not be displayed. If it is set to **True** , tooltips for PivotTable cells in the row, column, and data areas will be displayed.
+If  **DisplayContextTooltips** is set to **False**, contextual tooltips for PivotTable cells will not be displayed. If it is set to **True**, tooltips for PivotTable cells in the row, column, and data areas will be displayed.
 
 
 ## See also

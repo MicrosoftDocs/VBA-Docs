@@ -49,7 +49,7 @@ Set ffield = ActiveDocument.FormFields.Add( _
 ffield.CheckBox.Value = True
 ```
 
-Use the  **CheckBox** , **DropDown** , and **TextInput** properties with the **FormField** object to return the **CheckDown** , **DropDown** , and **TextInput** objects. The following example selects the check box named "Check1."
+Use the  **CheckBox**, **DropDown**, and **TextInput** properties with the **FormField** object to return the **CheckDown**, **DropDown**, and **TextInput** objects. The following example selects the check box named "Check1."
 
 
 

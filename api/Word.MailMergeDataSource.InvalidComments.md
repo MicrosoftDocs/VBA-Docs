@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # MailMergeDataSource.InvalidComments property (Word)
 
-If the  **[InvalidAddress](Word.MailMergeDataSource.InvalidAddress.md)** property is **True** , returns or sets a **String** that describes an invalid address error. Read/write.
+If the  **[InvalidAddress](Word.MailMergeDataSource.InvalidAddress.md)** property is **True**, returns or sets a **String** that describes an invalid address error. Read/write.
 
 
 ## Syntax

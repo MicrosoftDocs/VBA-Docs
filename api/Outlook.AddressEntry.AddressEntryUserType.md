@@ -26,12 +26,12 @@ _expression_ A variable that represents an [AddressEntry](./Outlook.AddressEntry
 
 ## Remarks
 
- **AddressEntryUserType** provides a level of granularity for user types that is finer than that of **[AddressEntry.DisplayType](Outlook.AddressEntry.DisplayType.md)**. The **DisplayType** property does not distinguish users with different types of **AddressEntry** , such as an **AddressEntry** that has a Simple Mail Transfer Protocol (SMTP) email address, a Lightweight Directory Access Protocol (LDAP) address, an Exchange user address, or an **AddressEntry** in the Outlook Contacts Address Book. All these entires have **olUser** as their **AddressEntry.DisplayType**.
+ **AddressEntryUserType** provides a level of granularity for user types that is finer than that of **[AddressEntry.DisplayType](Outlook.AddressEntry.DisplayType.md)**. The **DisplayType** property does not distinguish users with different types of **AddressEntry**, such as an **AddressEntry** that has a Simple Mail Transfer Protocol (SMTP) email address, a Lightweight Directory Access Protocol (LDAP) address, an Exchange user address, or an **AddressEntry** in the Outlook Contacts Address Book. All these entires have **olUser** as their **AddressEntry.DisplayType**.
 
 
 ## Example
 
-The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)** , the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
+The following code sample shows how to obtain the business phone number, office location, and job title for all Exchange user entries in the Exchange Global Address List. It first uses  **[AddressList.AddressListType](Outlook.AddressList.AddressListType.md)** to find the Global Address List. Since the Global Address List can contain multiple types of entries such as Exchange user, Exchange distribution list, and Exchange public folder, for each **AddressEntry** on that **[AddressList](Outlook.AddressList.md)**, the code sample uses **AddressEntryUserType** to verify if the **AddressEntry** represents an Exchange user. After it finds an Exchange user, it obtains and prints the various pieces of data for the user.
 
 
 ```vb

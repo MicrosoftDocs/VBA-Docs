@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Validation](./Excel.Validation.md) ob
 
 ## Remarks
 
-If the  **IgnoreBlank** property is **True** , cell data is considered valid if the cell is blank, or if a cell referenced by either the **MinVal** or **MaxVal** property is blank.
+If the  **IgnoreBlank** property is **True**, cell data is considered valid if the cell is blank, or if a cell referenced by either the **MinVal** or **MaxVal** property is blank.
 
 
 ## Example

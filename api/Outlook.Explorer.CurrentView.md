@@ -26,7 +26,7 @@ _expression_ A variable that represents an [Explorer](./Outlook.Explorer.md) obj
 
 ## Remarks
 
-To obtain a  **[View](Outlook.View.md)** object for the view of the current **[Explorer](Outlook.Explorer.md)** , use **Explorer.CurrentView** instead of the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**.
+To obtain a  **[View](Outlook.View.md)** object for the view of the current **[Explorer](Outlook.Explorer.md)**, use **Explorer.CurrentView** instead of the **[CurrentView](Outlook.Folder.CurrentView.md)** property of the current **[Folder](Outlook.Folder.md)** object returned by **[Explorer.CurrentFolder](Outlook.Explorer.CurrentFolder.md)**.
 
 You must save a reference to the  **View** object returned by **CurrentView** before you proceed to use it for any purpose.
 

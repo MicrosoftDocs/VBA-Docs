@@ -31,7 +31,7 @@ Imports a document fragment into the document at the specified range.
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _FileName_|Required| **String**|Specifies the path and file name where the document fragment is stored.|
-| _MatchDestination_|Optional| **Boolean**|Specifies whether to match the destination formatting. If  **False** , the imported document fragment retains the formatting in the original document. Default value is **False**.|
+| _MatchDestination_|Optional| **Boolean**|Specifies whether to match the destination formatting. If  **False**, the imported document fragment retains the formatting in the original document. Default value is **False**.|
 
 ## Return value
 

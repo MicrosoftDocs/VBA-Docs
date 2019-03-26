@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 | _Top_|Optional|VARIANT|The position, in points, of the top edge of the chart, relative to the anchor.|
 | _Width_|Optional|VARIANT|The width, in points, of the chart.|
 | _Height_|Optional|VARIANT|The height, in points, of the chart.|
-| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True** , the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
+| _NewLayout_|Optional|VARIANT|If  **NewLayout** is **True**, the chart is inserted by using the new dynamic formatting rules (Title is on, and Legend is on only if there are multiple series).|
 
 ## Return value
 

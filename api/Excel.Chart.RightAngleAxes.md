@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 ## Remarks
 
-If this property is  **True** , the **[Perspective](Excel.Chart.Perspective.md)** property is ignored.
+If this property is  **True**, the **[Perspective](Excel.Chart.Perspective.md)** property is ignored.
 
 
 ## Example

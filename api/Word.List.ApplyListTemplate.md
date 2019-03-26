@@ -7,38 +7,35 @@ ms.prod: word
 api_name:
 - Word.List.ApplyListTemplate
 ms.assetid: 55fbbdef-880b-5b3c-ada3-4f8d423c68b3
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
 
 # List.ApplyListTemplate method (Word)
 
-Applies a set of list-formatting characteristics to the specified  **ListFormat** object.
+Applies a set of list-formatting characteristics to the specified **ListFormat** object.
 
 
 ## Syntax
 
- _expression_. `ApplyListTemplate`( `_ListTemplate_` , `_ContinuePreviousList_` , `_ApplyTo_` , `_DefaultListBehavior_` )
+_expression_.**ApplyListTemplate** (_ListTemplate_, _ContinuePreviousList_, _ApplyTo_, _DefaultListBehavior_)
 
- _expression_ Required. A variable that represents a '[List](Word.List.md)' object.
+_expression_ Required. A variable that represents a **[List](Word.List.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _ListTemplate_|Required| **[ListTemplate](Word.ListTemplate.md)**|The list template to be applied.|
 | _ContinuePreviousList_|Optional| **Variant**| **True** to continue the numbering from the previous list; **False** to start a new list.|
-| _ApplyTo_|Optional| **Variant**|The portion of the list that the list template is to be applied to. Can be one of the following  **[WdListApplyTo](Word.WdListApplyTo.md)** constants: **wdListSelection** , **wdListWholeList** , or **wdListThisPointForward**.|
-| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new Web-oriented formatting for better list display. Can be either of the following  **[WdDefaultListBehavior](Word.WdDefaultListBehavior.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use Web-oriented formatting). For compatibility reasons, the default constant is **wdWord8ListBehavior** , but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved Web-oriented formatting with respect to indenting and multilevel lists.|
+| _ApplyTo_|Optional| **Variant**|The portion of the list that the list template is to be applied to. Can be one of the following **[WdListApplyTo](Word.WdListApplyTo.md)** constants: **wdListApplyToSelection**, **wdListApplyToWholeList**, or **wdListApplyToThisPointForward**.|
+| _DefaultListBehavior_|Optional| **Variant**|Sets a value that specifies whether Microsoft Word uses new web-oriented formatting for better list display. Can be either of the following **[WdDefaultListBehavior](Word.WdDefaultListBehavior.md)** constants: **wdWord8ListBehavior** (use formatting compatible with Microsoft Word 97) or **wdWord9ListBehavior** (use web-oriented formatting).<br/><br/>For compatibility reasons, the default constant is **wdWord8ListBehavior**, but in new procedures you should use **wdWord9ListBehavior** to take advantage of improved web-oriented formatting with respect to indenting and multilevel lists.|
 
 ## Example
 
-This example sets the variable myRange to a range in the active document, and then it checks to see whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
-
+This example sets the variable _myRange_ to a range in the active document, and then it checks to see whether the range has list formatting. If no list formatting has been applied, the fourth outline-numbered list template is applied to the range.
 
 ```vb
 Set myDoc = ActiveDocument 
@@ -53,9 +50,6 @@ End If
 ```
 
 
-## See also
 
-
-[List Object](Word.List.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

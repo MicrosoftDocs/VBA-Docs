@@ -17,7 +17,7 @@ Returns or sets a **Variant** value that represents the format code for the obje
 
 ## Syntax
 
-_expression_. `NumberFormat`
+_expression_.**NumberFormat**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

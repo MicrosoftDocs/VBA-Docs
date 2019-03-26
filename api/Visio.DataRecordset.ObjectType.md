@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # DataRecordset.ObjectType Property (Visio)
 
-Returns  **visObjTypeDataRecordset** , the type of a **DataRecordset** object. Read-only.
+Returns  **visObjTypeDataRecordset**, the type of a **DataRecordset** object. Read-only.
 
 
  **Note**  This Visio object or member is available only to licensed users of Visio Professional 2013.

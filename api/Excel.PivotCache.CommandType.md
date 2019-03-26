@@ -36,7 +36,7 @@ _expression_. `CommandType`
 
 You can set the  **CommandType** property only if the value of the **[QueryType](Excel.PivotCache.QueryType.md)** property for the query table or PivotTable cache is **xlOLEDBQuery**.
 
-If the value of the  **CommandType** property is **xlCmdCube** , you cannot change this value if there is a PivotTable report associated with the query table.
+If the value of the  **CommandType** property is **xlCmdCube**, you cannot change this value if there is a PivotTable report associated with the query table.
 
 
 ## Example

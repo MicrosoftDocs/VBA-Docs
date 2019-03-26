@@ -42,8 +42,8 @@ Possible values for  **PageSizingBehavior** are declared in the Visio type libra
 
 You can set the  **PageSizingBehavior** property either at design time (for example, in the Properties window in Microsoft Visual Basic 6.0), or at run time, typically in the **Form_Load()** procedure. It is recommended that you set **PageSizingBehavior** at design time.
 
-If  **PageSizingBehavior** is set to **visResizePages** , when a new document is loaded into the Visio Drawing Control, the pages of that document are resized to match the size of the control itself. However, the shapes on those pages neither change size nor move; they retain their existing sizes and their locations relative to the coordinate system of the Visio page, which has its origin in the bottom-left corner of the page.
+If  **PageSizingBehavior** is set to **visResizePages**, when a new document is loaded into the Visio Drawing Control, the pages of that document are resized to match the size of the control itself. However, the shapes on those pages neither change size nor move; they retain their existing sizes and their locations relative to the coordinate system of the Visio page, which has its origin in the bottom-left corner of the page.
 
-If  **PageSizingBehavior** is set to the default, **visNeverResizePages** , when a new document is loaded into the Visio Drawing Control, the pages of that document (and the shapes on the page) retain their existing size. In this case, the size of the control in the container application has no relation to the size of the pages it displays; it is simply an open "window" onto the page or pages.
+If  **PageSizingBehavior** is set to the default, **visNeverResizePages**, when a new document is loaded into the Visio Drawing Control, the pages of that document (and the shapes on the page) retain their existing size. In this case, the size of the control in the container application has no relation to the size of the pages it displays; it is simply an open "window" onto the page or pages.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

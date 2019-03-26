@@ -26,7 +26,7 @@ Returns or sets the path and name of the source file for the specified linked OL
 
 ## Remarks
 
-Using this property is equivalent to using in sequence the  **[SourcePath](Word.LinkFormat.SourcePath.md)** , **[PathSeparator](Word.Application.PathSeparator.md)** , and **[SourceName](Word.LinkFormat.SourceName.md)** properties.
+Using this property is equivalent to using in sequence the  **[SourcePath](Word.LinkFormat.SourcePath.md)**, **[PathSeparator](Word.Application.PathSeparator.md)**, and **[SourceName](Word.LinkFormat.SourceName.md)** properties.
 
 
 ## Example

@@ -16,7 +16,7 @@ Occurs when a keyboard key is pressed.
 
 ## Syntax
 
-Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal CancelDefault As Boolean_**)
+Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_**, **_ByVal CancelDefault As Boolean_**)
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 
@@ -34,9 +34,9 @@ Private Sub  _expression_ _'KeyPress'(**_ByVal KeyAscii As Long_** , **_ByVal Ca
 
 Possible values for  _KeyAscii_ are the ASCII codes. To see a list of these codes, search for "ASCII character codes" on MSDN.
 
-If you set  _CancelDefault_ to **True** , Visio does not process the message received when the mouse button is clicked.
+If you set  _CancelDefault_ to **True**, Visio does not process the message received when the mouse button is clicked.
 
-Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress** , either by setting _CancelDefault_ to **True** , or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
+Unlike some other Visio events,  **KeyPress** does not have the prefix "Query," but it is still a query event. That is, you can cancel processing the message sent by **KeyPress**, either by setting _CancelDefault_ to **True**, or, if you are using the **VisEventProc** method to handle the event, by returning **True**. For more information, see the topics for the **VisEventProc** method and for any of the query events (for example, the **QueryCancelSuspend** event) in this Automation Reference.
 
 
  **Note**  Pressing an accelerator key combination, for example, CTRL + C, does not fire the  **KeyPress** event.
@@ -48,9 +48,9 @@ If you want to create your own  **Event** objects, use the **Add** or **AddAdvis
 
 ## Example
 
-This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown** , **KeyPress** , and **KeyUp** events.
+This class module shows how to define a sink class called  **KeyboardListener** that listens for events fired by keyboard actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains event handlers for the **KeyDown**, **KeyPress**, and **KeyUp** events.
 
-To run this example, insert a new class module in your VBA project, name it  **KeyboardListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **KeyboardListener**, and insert the following code in the module.
 
 
 

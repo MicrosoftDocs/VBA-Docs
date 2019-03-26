@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-This property can be  **True** , **False** , or **wdUndefined**.
+This property can be  **True**, **False**, or **wdUndefined**.
 
 
 ## See also

@@ -21,7 +21,7 @@ Represents the down bars in a chart group.
 
  Down bars connect points on the first series in the chart group with lower values on the last series (the lines go down from the first series). Only 2-D line groups that contain at least two series can have down bars. This object isn't a collection. There's no object that represents a single down bar; you either have up bars and down bars turned on for all points in a chart group or you have them turned off.
 
-If the  **[HasUpDownBars](Excel.ChartGroup.HasUpDownBars.md)** property is **False** , most properties of the **DownBars** object are disabled.
+If the  **[HasUpDownBars](Excel.ChartGroup.HasUpDownBars.md)** property is **False**, most properties of the **DownBars** object are disabled.
 
 
 ## Example

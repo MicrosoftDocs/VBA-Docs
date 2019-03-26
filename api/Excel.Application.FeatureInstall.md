@@ -35,12 +35,12 @@ _expression_ A variable that represents an [Application](Excel.Application-graph
 
 You can use the  **msoFeatureInstallOnDemandWithUI** constant to prevent users from thinking that the application isn't responding while a feature is being installed. Use the **msoFeatureInstallNone** constant if you want the developer to be the only one who can install features.
 
-If you have the  **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property set to **False** , users won't be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **DisplayAlerts** property is set to **True** , an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
+If you have the  **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property set to **False**, users won't be prompted to install new features even if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**. If the **DisplayAlerts** property is set to **True**, an installation progress meter will appear if the **FeatureInstall** property is set to **msoFeatureInstallOnDemand**.
 
 
 ## Example
 
-This example activates a new instance of Microsoft Word and checks the value of the  **FeatureInstall** property. Be sure to set a reference to the Microsoft Word object library. If the **FeatureInstall** property is set to **msoFeatureInstallNone** , the code displays a message box that asks the user whether they want to change the property setting. If the user responds Yes, the property is set to **msoFeatureInstallOnDemand**.
+This example activates a new instance of Microsoft Word and checks the value of the  **FeatureInstall** property. Be sure to set a reference to the Microsoft Word object library. If the **FeatureInstall** property is set to **msoFeatureInstallNone**, the code displays a message box that asks the user whether they want to change the property setting. If the user responds Yes, the property is set to **msoFeatureInstallOnDemand**.
 
 
 ```vb

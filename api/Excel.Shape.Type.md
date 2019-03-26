@@ -19,7 +19,7 @@ Returns or sets a  **[MsoShapeType](Office.MsoShapeType.md)** value that represe
 
 ## Syntax
 
-_expression_. `Type`
+_expression_.**Type**
 
 _expression_ A variable that represents a [Shape](./Excel.Shape.md) object.
 

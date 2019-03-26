@@ -30,7 +30,7 @@ Creates a new callout  **[Shape](Visio.Shape.md)** object on the page near the s
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _ObjectToDrop_|Required| **[UNKNOWN]**|The callout to add to the page. Can be a  **[Master](Visio.Master.md)** , **[MasterShortcut](Visio.MasterShortcut.md)** , **Shape** , or **IDataObject** object.|
+| _ObjectToDrop_|Required| **[UNKNOWN]**|The callout to add to the page. Can be a  **[Master](Visio.Master.md)**, **[MasterShortcut](Visio.MasterShortcut.md)**, **Shape**, or **IDataObject** object.|
 | _TargetShape_|Required| **Shape**|The existing shape with which to associate the callout.|
 
 ## Return value

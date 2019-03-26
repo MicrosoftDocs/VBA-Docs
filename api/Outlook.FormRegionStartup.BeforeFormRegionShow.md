@@ -38,7 +38,7 @@ This method lets Outlook pass the  **FormRegion** object to the add-in, and allo
 
 When implementing this method, keep in mind that the item obtained from the  _FormRegion_ parameter (that is, the **[Item](Outlook.FormRegion.Item.md)** property of the **FormRegion** object) is read-only.
 
-For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup** , see code sample downloads on MSDN.
+For examples of add-ins in C# and Visual Basic .NET that implement  **FormRegionStartup**, see code sample downloads on MSDN.
 
 
 ## See also

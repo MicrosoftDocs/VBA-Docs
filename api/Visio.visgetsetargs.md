@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisGetSetArgs Enumeration (Visio)
 
-Flags to be passed to the  **GetResults** , **SetFormulas** , and **SetResults** methods.
+Flags to be passed to the  **GetResults**, **SetFormulas**, and **SetResults** methods.
 
 
 

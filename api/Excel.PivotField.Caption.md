@@ -19,7 +19,7 @@ Returns a  **String** value that represents the label text for the pivot field.
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
 _expression_ A variable that represents a [PivotField](Excel.PivotField.md) object.
 

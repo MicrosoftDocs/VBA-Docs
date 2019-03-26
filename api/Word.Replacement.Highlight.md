@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-Can return or be set to  **True** , **False** , or **wdUndefined**.
+Can return or be set to  **True**, **False**, or **wdUndefined**.
 
 
 ## Example

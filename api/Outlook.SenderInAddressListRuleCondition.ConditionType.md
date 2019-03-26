@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # SenderInAddressListRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionSenderInAddressBook** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionSenderInAddressBook**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

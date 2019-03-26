@@ -19,14 +19,14 @@ Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
-_expression_. `ScopeType`
+_expression_.**ScopeType**
 
 _expression_ A variable that represents a [FormatCondition](Excel.FormatCondition.md) object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **[AppliesTo](Excel.FormatCondition.AppliesTo.md)** property.
+The default value is  **xlSelectionScope**, which sets the scope using the **[AppliesTo](Excel.FormatCondition.AppliesTo.md)** property.
 
 
 ## See also

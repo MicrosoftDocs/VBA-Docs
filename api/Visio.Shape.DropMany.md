@@ -41,7 +41,7 @@ Integer
 
 ## Remarks
 
-Using the  **DropMany** method is like using the **Page** , **Master** , or **Shape** object's **Drop** method, except you can use the **DropMany** method to create many new **Shape** objects at once, rather than one per method call. The **DropMany** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
+Using the  **DropMany** method is like using the **Page**, **Master**, or **Shape** object's **Drop** method, except you can use the **DropMany** method to create many new **Shape** objects at once, rather than one per method call. The **DropMany** method creates new **Shape** objects on the page, in the master, or in the group shape to which it is applied (this shape is called the "target object" in the following discussion).
 
 You can identify which master to drop by passing the  **DropMany** method a **Master** object or the master's index or the master's name. When you pass an object, **DropMany** isn't constrained to just dropping a master from the document stencil of the document onto which it is being dropped. The object can be a master from another document or another type of object.
 

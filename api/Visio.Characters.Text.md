@@ -31,7 +31,7 @@ Variant
 
 ## Remarks
 
-The text for a  **Characters** object is returned in a **Variant** of type **String** , as opposed to in a **String**. This is typically transparent if you are using Microsoft Visual Basic.
+The text for a  **Characters** object is returned in a **Variant** of type **String**, as opposed to in a **String**. This is typically transparent if you are using Microsoft Visual Basic.
 
 In the text returned by a  **Characters** object, fields are expanded to the number of characters that are visible in the drawing window. For example, if a shape's text contains a field that displays the file name of a drawing, the **Text** property of a **Characters** object returns the expanded file name (provided the **Begin** and **End** properties were not altered).
 

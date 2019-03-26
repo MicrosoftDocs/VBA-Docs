@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisCutCopyPasteCodes Enumeration (Visio)
 
-Flags to be passed to the  **Cut** , **Copy** , or **Paste** methods.
+Flags to be passed to the  **Cut**, **Copy**, or **Paste** methods.
 
 
 

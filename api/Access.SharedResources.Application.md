@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.SharedResources.Application
 ms.assetid: 43dbfccf-531d-9efb-7024-3910f142c5e0
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 

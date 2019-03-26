@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # CustomLabel.Valid property (Word)
 
- **True** if the various properties (for example, **Height** , **Width** , and **NumberDown**) for the specified custom label work together to produce a valid mailing label. Read-only **Boolean**.
+ **True** if the various properties (for example, **Height**, **Width**, and **NumberDown**) for the specified custom label work together to produce a valid mailing label. Read-only **Boolean**.
 
 
 ## Syntax

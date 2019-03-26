@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-If the  **FitText** property is set to **True** , the font size of the text is not changed, but the visual width of the characters is adjusted to fit all the typed text into the cell.
+If the  **FitText** property is set to **True**, the font size of the text is not changed, but the visual width of the characters is adjusted to fit all the typed text into the cell.
 
 
 ## Example

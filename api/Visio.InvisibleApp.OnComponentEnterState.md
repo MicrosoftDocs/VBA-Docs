@@ -42,7 +42,7 @@ nothing
 
 The  _uStateID_argument indicates the state being entered or exited. Code that calls this method should do so both when entering and exiting the state.
 
-At present, the only state change supported by the  **OnComponentEnterState** method is **visComponentStateModal** , indicating that the client is performing an action that causes Visio to enter or exit a modal state.
+At present, the only state change supported by the  **OnComponentEnterState** method is **visComponentStateModal**, indicating that the client is performing an action that causes Visio to enter or exit a modal state.
 
 Most client code doesn't need to call the  **OnComponentEnterState** method when causing Visio to enter or leave the state of being modal, for example, when showing modal dialog boxes. Typically, this method is used by client code that shows dialog boxes other than Microsoft Visual Basic for Applications (VBA) forms and requires behavior different from the Visio default behavior.
 

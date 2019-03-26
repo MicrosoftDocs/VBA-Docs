@@ -19,7 +19,7 @@ Deletes the specified range of shapes.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ Required. A variable that represents a '[ShapeRange](Word.shaperange.md)' object.
 

@@ -28,7 +28,7 @@ _expression_ A variable that represents a [PivotField](Excel.PivotField.md) obje
 
 If  **UseMemberPropertyAsCaption** is set to **True** for a PivotField, then **MemberPropertyCaption** specifies which member property caption to display. If none is specified, the first member property of that PivotField (in data source order) will be displayed as the caption for items of that PivotField.
 
-If  **UseMemberPropertyAsCaption** is set to **False** , then the regular PivotItem captions are used for the PivotField.
+If  **UseMemberPropertyAsCaption** is set to **False**, then the regular PivotItem captions are used for the PivotField.
 
 If you try to set  **UseMemberPropertyAsCaption** to **True** for a PivotField with no member properties, a run-time error is returned. For PivotFields with no member properties, the property will always be **False**.
 

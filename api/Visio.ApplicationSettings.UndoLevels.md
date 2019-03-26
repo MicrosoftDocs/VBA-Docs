@@ -35,7 +35,7 @@ Setting the  **UndoLevels** property is equivalent to setting the **Undo levels*
 
 The minimum possible value for  **UndoLevels** is 0 (zero); the maximum is 99. The default value is 20.
 
-The higher the value of  **UndoLevels** , the more memory is required to store the actions.
+The higher the value of  **UndoLevels**, the more memory is required to store the actions.
 
 
 ## Example

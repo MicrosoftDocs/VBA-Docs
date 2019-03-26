@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
- If set to **True** , numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
+ If set to **True**, numbered lists use a numbering scheme from the **Bullets and Numbering** dialog box (**Format** menu), according to what's typed. For example, if a paragraph starts with "1.1" and a tab character, Word automatically inserts "1.2" and a tab character when the ENTER key is pressed.
 
 
 ## Example

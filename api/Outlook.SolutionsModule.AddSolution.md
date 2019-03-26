@@ -46,13 +46,13 @@ You cannot add the following folders to the  **Solutions** module as a solution 
     
 - Any folder on a Microsoft Exchange Server public folder store. The  **[ExchangeStoreType](Outlook.Store.ExchangeStoreType.md)** property on the **[Store](Outlook.Folder.Store.md)** object for this folder is **olExchangePublicFolder**.
     
-- A hidden folder. A hidden folder is one whose MAPI property,  **PR_ATTR_HIDDEN** , is **True** or one that is not in the IPM Subtree.
+- A hidden folder. A hidden folder is one whose MAPI property,  **PR_ATTR_HIDDEN**, is **True** or one that is not in the IPM Subtree.
     
 
 
 This method also returns an error if the folder that you specify already exists as a root folder or a subfolder in the  **Solutions** module, or if the folder is a parent folder of a folder in the **Solutions** module.
 
-If the  _Scope_ parameter is set to **olShowInDefaultModules** of the **OlSolutionScope** enumeration, the solution root and its subfolders are displayed in their respective default modules as well as the **Solutions** module. If the _Scope_ parameter is set to **olHideInDefaultModules** , the solution root and its subfolders are displayed in the **Solutions** module.
+If the  _Scope_ parameter is set to **olShowInDefaultModules** of the **OlSolutionScope** enumeration, the solution root and its subfolders are displayed in their respective default modules as well as the **Solutions** module. If the _Scope_ parameter is set to **olHideInDefaultModules**, the solution root and its subfolders are displayed in the **Solutions** module.
 
 Solution folders are always displayed in the  **Folder List** module.
 

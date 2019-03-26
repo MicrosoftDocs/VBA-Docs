@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Range](excel.range-graph-property.md)
 | _ColumnAbsolute_|Optional| **Variant**| **True** to return the column part of the reference as an absolute reference. The default value is **True**.|
 | _ReferenceStyle_|Optional| **[xlReferenceStyle](Excel.XlReferenceStyle.md)**|One of the constants for  **xlReferenceStyle** specifying A1-style or R1C1-style reference.|
 | _External_|Optional| **Variant**| **True** to return an external reference. **False** to return a local reference. The default value is **False**.|
-| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are both set to **False** and _ReferenceStyle_ is set to **xlR1C1** , you must include a starting point for the relative reference. This argument is a **Range** object that defines the starting point for the reference.|
+| _RelativeTo_|Optional| **Variant**|If  _RowAbsolute_ and _ColumnAbsolute_ are both set to **False** and _ReferenceStyle_ is set to **xlR1C1**, you must include a starting point for the relative reference. This argument is a **Range** object that defines the starting point for the reference.|
 
 ## Remarks
 

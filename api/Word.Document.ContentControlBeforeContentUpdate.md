@@ -19,7 +19,7 @@ Occurs before updating the content in a content control, but only when the conte
 
 ## Syntax
 
-Private Sub  _expression_ _'ContentControlBeforeContentUpdate'(**_ContentControl_** , **_Content_**)
+Private Sub  _expression_ _'ContentControlBeforeContentUpdate'(**_ContentControl_**, **_Content_**)
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

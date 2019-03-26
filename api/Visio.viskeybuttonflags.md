@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisKeyButtonFlags Enumeration (Visio)
 
-Flags passed to the  **MouseDown** , **MouseMove** , and **MouseUp** events.
+Flags passed to the  **MouseDown**, **MouseMove**, and **MouseUp** events.
 
 
 

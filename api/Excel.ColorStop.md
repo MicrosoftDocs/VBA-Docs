@@ -19,7 +19,7 @@ Represents the color stop point for a gradient fill in a range or selection.
 
 ## Remarks
 
-The  **ColorStop** object enables you to set properties for the cell fill including the **[Color](Excel.Border.Color.md)** , **[ThemeColor](Excel.Border.ThemeColor.md)** , and **[TintAndShade](Excel.Border.TintAndShade.md)** properties.
+The  **ColorStop** object enables you to set properties for the cell fill including the **[Color](Excel.Border.Color.md)**, **[ThemeColor](Excel.Border.ThemeColor.md)**, and **[TintAndShade](Excel.Border.TintAndShade.md)** properties.
 
 
 ## Example

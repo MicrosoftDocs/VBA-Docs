@@ -19,14 +19,14 @@ Returns or sets one of the constants of the  **[xlPivotConditionScope](Excel.XlP
 
 ## Syntax
 
-_expression_. `ScopeType`
+_expression_.**ScopeType**
 
-_expression_ A variable that represents a [UniqueValues](./Excel.UniqueValues.md) object.
+_expression_ A variable that represents a **[UniqueValues](Excel.UniqueValues.md)** object.
 
 
 ## Remarks
 
-The default value is  **xlSelectionScope** , which sets the scope using the **AppliesTo** property.
+The default value is  **xlSelectionScope**, which sets the scope using the **AppliesTo** property.
 
 
 ## See also

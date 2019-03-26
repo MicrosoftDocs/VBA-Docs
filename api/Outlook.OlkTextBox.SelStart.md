@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md)
 
 ## Remarks
 
-The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)** , which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)**. The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)**.
+The current selection is specified by  **[SelText](Outlook.OlkTextBox.SelText.md)**, which is a portion of the control's **[Value](Outlook.OlkTextBox.Value.md)**. The maximum number of characters that can be supported for **Value** is **[MaxLength](Outlook.OlkTextBox.MaxLength.md)**.
 
 The default value is zero, which means no text is selected and the insertion point is at the beginning.
 

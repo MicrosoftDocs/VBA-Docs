@@ -56,7 +56,7 @@ The  _pSize_ parameter must be one of the following **VisRasterExportSize** cons
 | **visRasterFitToSourceSize**|2|Use source size.|
 | **visRasterFitToCustomSize**|3|Use custom size.|
 
-If  _pSize_ is a constant other than **visRasterFitToCustomSize** , **GetRasterExportSize** returns null for all other parameters. If _pSize_ is **visRasterFitToCustomSize** , **GetRasterExportSize** returns non-null values for all parameters.
+If  _pSize_ is a constant other than **visRasterFitToCustomSize**, **GetRasterExportSize** returns null for all other parameters. If _pSize_ is **visRasterFitToCustomSize**, **GetRasterExportSize** returns non-null values for all parameters.
 
 The  _pSizeUnits_ parameter must be one of the following **VisRasterExportSizeUnits** constants.
 

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ApplicationSettings.RasterExportDataFormat Property (Visio)
 
-Determines whether the exported raster image is interlaced or non-interlaced when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
+Determines whether the exported raster image is interlaced or non-interlaced when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a GIF or PNG file. Read/write.
 
 
 ## Syntax

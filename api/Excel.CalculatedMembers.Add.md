@@ -47,7 +47,7 @@ A  **CalculatedMember** object that represents the new calculated field or calcu
 
 The  _Formula_ argument must contain a valid MDX (Multidimensional Expression) syntax statement. The _Name_ argument has to be acceptable to the Online Analytical Processing (OLAP) provider and the _Type_ argument has to be defined.
 
-If you set the  _Type_ argument of this method to **xlCalculatedSet** , then you must call the **[AddSet](Excel.CubeFields.AddSet.md)** method to make the new field set visible in the PivotTable.
+If you set the  _Type_ argument of this method to **xlCalculatedSet**, then you must call the **[AddSet](Excel.CubeFields.AddSet.md)** method to make the new field set visible in the PivotTable.
 
 
 ## Example

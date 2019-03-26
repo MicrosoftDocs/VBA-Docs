@@ -19,7 +19,7 @@ Deletes the specified slicer cache and the slicers associated with it.
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
 _expression_ A variable that represents a '[SlicerCache](Excel.SlicerCache.md)' object.
 

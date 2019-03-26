@@ -24,7 +24,7 @@ _expression_ A variable that represents a 'ChartCategory' object.
 
 ## Remarks
 
-When a series is transferred out of its parent  **SeriesCollection** , that series still remains in its parent **FullSeriesCollection**. When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection**.
+When a series is transferred out of its parent  **SeriesCollection**, that series still remains in its parent **FullSeriesCollection**. When a user filters the series back in, it is inserted back in its original place in the **SeriesCollection**.
 
 
 ## Property value

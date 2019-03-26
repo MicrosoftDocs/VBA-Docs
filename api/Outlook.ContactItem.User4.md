@@ -26,7 +26,7 @@ _expression_ A variable that represents a [ContactItem](./Outlook.ContactItem.md
 
 ## Remarks
 
-The properties  **[ContactItem.User1](Outlook.ContactItem.User1.md)** , **[ContactItem.User2](Outlook.ContactItem.User2.md)** , **[ContactItem.User3](Outlook.ContactItem.User3.md)** , and **ContactItem.User4** map to the fields **User Field 1**,  **User Field 2**,  **User Field 3**, and  **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
+The properties  **[ContactItem.User1](Outlook.ContactItem.User1.md)**, **[ContactItem.User2](Outlook.ContactItem.User2.md)**, **[ContactItem.User3](Outlook.ContactItem.User3.md)**, and **ContactItem.User4** map to the fields **User Field 1**,  **User Field 2**,  **User Field 3**, and  **User Field 4** on the Contacts form respectively. These properties are explicit built-in **String** properties; users can use these fields for miscellaneous purposes for the contact.
 
 
 ## See also

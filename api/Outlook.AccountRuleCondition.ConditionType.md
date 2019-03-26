@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # AccountRuleCondition.ConditionType Property (Outlook)
 
-Returns a constant,  **olConditionAccount** , from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
+Returns a constant,  **olConditionAccount**, from the **[OlRuleConditionType](Outlook.OlRuleConditionType.md)** enumeration that indicates the type of rule condition. Read-only.
 
 
 ## Syntax

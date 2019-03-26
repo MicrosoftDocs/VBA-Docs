@@ -28,7 +28,7 @@ _expression_ A variable that represents a [CategoryRuleCondition](./Outlook.Cate
 
 You can assign an array with one element to evaluate a single category or an array of multiple strings to evaluate multiple categories. Multiple category strings assigned in an array are evaluated using the logical OR operation.
 
-This property uses the character specified in the value name,  **sList** , under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories.
+This property uses the character specified in the value name,  **sList**, under **HKEY_CURRENT_USER\Control Panel\International** in the Windows registry, as the delimiter for multiple categories.
 
 If a string specified by  **Categories** matches a category of the message, the condition evaluates to **True**.
 

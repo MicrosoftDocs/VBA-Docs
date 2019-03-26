@@ -31,7 +31,7 @@ _expression_ A variable that represents an [AddressEntries](./Outlook.AddressEnt
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Property_|Optional| **Variant**|The name of the property by which to sort, which may be enclosed in brackets, for example, "[CompanyName]". May not be a user-defined field, and may not be a multi-valued property, such as a category.|
-| _Order_|Optional| **Variant**|The order for the specified address entries. Can be one of these  **OlSortOrder** constants: **olAscending** , **olDescending** , or **olSortNone**.|
+| _Order_|Optional| **Variant**|The order for the specified address entries. Can be one of these  **OlSortOrder** constants: **olAscending**, **olDescending**, or **olSortNone**.|
 
 ## Remarks
 

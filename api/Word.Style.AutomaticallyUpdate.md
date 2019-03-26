@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-If the  **AutomaticallyUpdate** property is set to **False** , Microsoft Word prompts for confirmation before redefining the style based on the selection. A style can be redefined when it is applied to a selection that has the same style but different manual formatting. The AutomaticallyUpdate property applies to paragraph styles only.
+If the  **AutomaticallyUpdate** property is set to **False**, Microsoft Word prompts for confirmation before redefining the style based on the selection. A style can be redefined when it is applied to a selection that has the same style but different manual formatting. The AutomaticallyUpdate property applies to paragraph styles only.
 
 
 ## Example

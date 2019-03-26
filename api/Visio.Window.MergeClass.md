@@ -35,7 +35,7 @@ Use semicolons to separate individual items in the list. For example, if the  **
 
 The  **MergeClass** property applies only to anchored windows. If the **Window** object is an MDI frame window, Microsoft Visio raises an exception.
 
-At present, windows of type  **visDocked** can be merged only with other windows of type **visDocked** , and windows of type **visAnchorBar** can be merged only with other windows of type **visAnchorBar.**
+At present, windows of type  **visDocked** can be merged only with other windows of type **visDocked**, and windows of type **visAnchorBar** can be merged only with other windows of type **visAnchorBar.**
 
 Use the  **Type** property to determine window type.
 

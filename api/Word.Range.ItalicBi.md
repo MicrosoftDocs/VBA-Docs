@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-This property returns  **True** , **False** or **wdUndefined** (for a mixture of italic and non-italic text). Can be set to **True** , **False** , or **wdToggle**.
+This property returns  **True**, **False** or **wdUndefined** (for a mixture of italic and non-italic text). Can be set to **True**, **False**, or **wdToggle**.
 
 
  **Note**  The  **ItalicBi** property applies to text in right-to-left languages.

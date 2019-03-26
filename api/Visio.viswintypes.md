@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # VisWinTypes Enumeration (Visio)
 
-Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Window.ID**.
+Type and ID codes returned by  **Window.Type**, **Window.SubType**, and **Window.ID**.
 
 
 
@@ -34,16 +34,16 @@ Type and ID codes returned by  **Window.Type** , **Window.SubType** , and **Wind
 |visSheet|3|ShapeSheet window (MDI frame window).|
 ||2|Stencil window (MDI frame window).|
 |visStencil|9|Add-on window that has stencil window behavior.|
-|visStencilAddon|1658|When  **Window.Type** is **visAnchorBarBuiltIn** , **Custom Properties window**.|
-|visWinIDCustProp|1721|When  **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window.|
-|visWinIDDrawingExplorer|2044|When  **Window.Type** is **visAnchorBarBuiltIn** , **External Data window**.|
-|visWinIDExternalData|1781|When  **Window.Type** is **visAnchorBarBuiltIn** , ShapeSheet **Formula Tracing** window.|
-|visWinIDFormulaTracing|1916|When  **Window.Type** is **visAnchorBarBuiltIn** , **Master Explorer** window in master editing window.|
-|visWinIDMasterExplorer|1653|When  **Window.Type** is **visAnchorBarBuiltIn** , **Pan & Zoom** window.|
-|visWinIDPanZoom|1669|When  **Window.Type** is **visAnchorBarBuiltIn** , **Shapes** window.|
-|visWinIDSizePos|1670|When  **Window.Type** is **visAnchorBarBuiltIn** , **Size & Position** window.|
-|visWinIDStencilExplorer|1796|When  **Window.Type** is **visAnchorBarBuiltIn** , **Drawing Explorer** window in MDI stencil window.|
-|visWinIDValidationIssues|2263|When  **Window.Type** is **visAnchorBarBuiltIn** , **Validation Issues** window.|
+|visStencilAddon|1658|When  **Window.Type** is **visAnchorBarBuiltIn**, **Custom Properties window**.|
+|visWinIDCustProp|1721|When  **Window.Type** is **visAnchorBarBuiltIn**, **Drawing Explorer** window.|
+|visWinIDDrawingExplorer|2044|When  **Window.Type** is **visAnchorBarBuiltIn**, **External Data window**.|
+|visWinIDExternalData|1781|When  **Window.Type** is **visAnchorBarBuiltIn**, ShapeSheet **Formula Tracing** window.|
+|visWinIDFormulaTracing|1916|When  **Window.Type** is **visAnchorBarBuiltIn**, **Master Explorer** window in master editing window.|
+|visWinIDMasterExplorer|1653|When  **Window.Type** is **visAnchorBarBuiltIn**, **Pan & Zoom** window.|
+|visWinIDPanZoom|1669|When  **Window.Type** is **visAnchorBarBuiltIn**, **Shapes** window.|
+|visWinIDSizePos|1670|When  **Window.Type** is **visAnchorBarBuiltIn**, **Size & Position** window.|
+|visWinIDStencilExplorer|1796|When  **Window.Type** is **visAnchorBarBuiltIn**, **Drawing Explorer** window in MDI stencil window.|
+|visWinIDValidationIssues|2263|When  **Window.Type** is **visAnchorBarBuiltIn**, **Validation Issues** window.|
 |visWinOther|0|Unknown window type.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,7 +47,7 @@ Possible values for  **KeyButtonState** can be a combination of any of the value
 
 This class module shows how to define a sink class called  **MouseListener** that listens for events fired by mouse actions in the active window. It declares the object variable _vsoWindow_ by using the **WithEvents** keyword. The class module also contains an event handler for the **MouseDown** event that prints to the Immediate window the state of the mouse buttons and CTRL and SHIFT keys when the event fired.
 
-To run this example, insert a new class module in your VBA project, name it  **MouseListener** , and insert the following code in the module.
+To run this example, insert a new class module in your VBA project, name it  **MouseListener**, and insert the following code in the module.
 
 
 

@@ -19,7 +19,7 @@ Returns a  **StdFont** that represents the font used to render the text inside t
 
 ## Syntax
 
-_expression_. `Font`
+_expression_.**Font**
 
 _expression_ A variable that represents an [OlkListBox](./Outlook.OlkListBox.md) object.
 

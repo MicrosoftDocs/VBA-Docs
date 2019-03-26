@@ -16,7 +16,7 @@ Gets the type of a project. Read-only  **PjProjectType**.
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

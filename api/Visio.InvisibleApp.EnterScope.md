@@ -16,7 +16,7 @@ Queued when an internal command begins, or when an Automation client opens a sco
 
 ## Syntax
 
-Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_** , **_ByVal nScopeID As Long_** , **_ByVal bstrDescription As String_**)
+Private Sub  _expression_ _'EnterScope'(**_ByVal app As [IVAPPLICATION]_**, **_ByVal nScopeID As Long_**, **_ByVal bstrDescription As String_**)
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 
@@ -43,7 +43,7 @@ If you are handling this event from a program that receives a notification over 
 
 The  **EventInfo** property returns _bstrDescription_, as described above. In addition, the  _varMoreInfo_ argument to **VisEventProc** contains a string formatted as follows: [<nScopeID>;<bErrOrCancelled>;<bstrDescription>;<nHwndContext>], where _nHwndContext_ is the window handle (HWND) of the window that is the context for the command. _nHwndContext_ could be 0.
 
-For  **EnterScope** , _bErrOrCancelled_ always equals zero.
+For  **EnterScope**, _bErrOrCancelled_ always equals zero.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Folder](./Outlook.Folder.md) object.
 
 ## Remarks
 
-If you set the  **ShowAsOutlookAB** property of a contact items folder to **False** , it will not be available in the drop-down list under **Address Book** in the **Address Book** dialog box.
+If you set the  **ShowAsOutlookAB** property of a contact items folder to **False**, it will not be available in the drop-down list under **Address Book** in the **Address Book** dialog box.
 
  **ShowAsOutlookAB** does not support folders on another Exchange user's mailbox, for example, a Contacts folder that is shared by another user. Getting or setting this property on a such a folder will not produce any desired results.
 

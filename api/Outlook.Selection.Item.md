@@ -39,7 +39,7 @@ An  **Object** that represents the specified item or conversation header.
 
 ## Remarks
 
-Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)** , **[MailItem](Outlook.MailItem.md)** , **[MeetingItem](Outlook.MeetingItem.md)** , or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
+Do not make any assumptions about the  **Item** method return type; your code should be able to handle multiple item types or a **[ConversationHeader](Outlook.ConversationHeader.md)** object. For example, the **Item** method can return an **[AppointmentItem](Outlook.AppointmentItem.md)**, **[MailItem](Outlook.MailItem.md)**, **[MeetingItem](Outlook.MeetingItem.md)**, or **[TaskItem](Outlook.TaskItem.md)** in the Inbox folder, depending on the value of the **[Selection.Location](Outlook.Selection.Location.md)** property.
 
 The  **[Selection](Outlook.Selection.md)** collection contains **ConversationHeader** objects only if you specify **olConversationHeaders** in the **[GetSelection](Outlook.Selection.GetSelection.md)** method of the **Selection** object.
 

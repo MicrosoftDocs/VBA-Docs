@@ -39,7 +39,7 @@ The index number represents the position of the AutoCorrect exception in the  **
 MsgBox AutoCorrect.OtherCorrectionsExceptions(1).Name
 ```
 
-If the value of the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
+If the value of the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of AutoCorrect exceptions. Use the **Add** method to add an item to the **OtherCorrectionsExceptions** collection. The following example adds "TipTop" to the list of AutoCorrect exceptions.
 
 
 

@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Remarks
 
-If the ManualDuplexPrint argument of the  **[PrintOut](Word.Application.PrintOut.md)** method is **False** , this property is ignored.
+If the ManualDuplexPrint argument of the  **[PrintOut](Word.Application.PrintOut.md)** method is **False**, this property is ignored.
 
 
 ## Example

@@ -88,7 +88,7 @@ Unless you pass  **visDataRecordsetDelayQuery** as part of the AddOptions parame
 
 - Executes the query string specified in the CommandString parameter and retrieve the resulting data.
     
-- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined** , **Chapter** , and **IDispatch**.
+- Maps the data types of the columns of the data source to equivalent Visio data types, while filtering the results to remove data-source columns that cannot be linked to Visio shapes because they have no equivalent Visio data type. In particular, you cannot import binary data or esoteric data types such as  **UserDefined**, **Chapter**, and **IDispatch**.
     
 -  Assigns a row ID to each row in the data recordset. For more information about row IDs, see **[DataRecordset.GetDataRowIDs](Visio.DataRecordset.GetDataRowIDs.md)** topic.
     

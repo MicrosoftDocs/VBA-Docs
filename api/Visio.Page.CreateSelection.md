@@ -73,9 +73,9 @@ The optional  _IterationMode_ argument should be one of the following values, wh
 
 The optional  _Data_ argument should be an object that corresponds to the object type specified by _SelType_. For example, if you want to select all the masters of a certain type,  _Data_ should be of type **Master**. And if you want to select all the shapes on a certain layer, _Data_ should be of type **Layer**.
 
-When  _SelType_ is **visSelTypeByRole** , _Data_ should be a member of the **[VisRoleSelectionTypes](Visio.VisRoleSelectionTypes.md)** enumeration.
+When  _SelType_ is **visSelTypeByRole**, _Data_ should be a member of the **[VisRoleSelectionTypes](Visio.VisRoleSelectionTypes.md)** enumeration.
 
-When the  _SelType_ argument is **visSelTypeByType** , possible _Data_ values should be one of the following values, which are declared in **VisTypeSelectionTypes** in the Visio type library.
+When the  _SelType_ argument is **visSelTypeByType**, possible _Data_ values should be one of the following values, which are declared in **VisTypeSelectionTypes** in the Visio type library.
 
 
 

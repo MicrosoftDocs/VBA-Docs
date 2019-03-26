@@ -26,9 +26,9 @@ _expression_ A variable that represents a [PageSetup](Excel.PageSetup.md) object
 
 ## Remarks
 
-If this property is  **False** , Microsoft Excel scales the worksheet according to the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** property.
+If this property is  **False**, Microsoft Excel scales the worksheet according to the **[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)** property.
 
-If the  **[Zoom](Excel.PageSetup.Zoom.md)** property is **True** , the **FitToPagesTall** property is ignored.
+If the  **[Zoom](Excel.PageSetup.Zoom.md)** property is **True**, the **FitToPagesTall** property is ignored.
 
 
 ## Example

@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ApplicationSettings.RasterExportBackgroundColor Property (Visio)
 
-Determines the background color that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)** , **[Page](Visio.Page.md)** , **[Selection](Visio.Selection.md)** , or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, JPG, PNG, or TIFF file. Read/write.
+Determines the background color that is applied to the exported image when you call the  **Export** method of the **[Master](Visio.Master.md)**, **[Page](Visio.Page.md)**, **[Selection](Visio.Selection.md)**, or **[Shape](Visio.Shape.md)** object to export the specified object to a BMP, GIF, JPG, PNG, or TIFF file. Read/write.
 
 
 ## Syntax
@@ -31,7 +31,7 @@ Determines the background color that is applied to the exported image when you c
 
 ## Remarks
 
-The value of the  **RasterExportBackgroundColor** property must be a valid **OLE_COLOR** color. The default setting for a given session of Microsoft Visio is **RGB(255, 255,255)** , which means that Visio applies a white background color on export.
+The value of the  **RasterExportBackgroundColor** property must be a valid **OLE_COLOR** color. The default setting for a given session of Microsoft Visio is **RGB(255, 255,255)**, which means that Visio applies a white background color on export.
 
 For any session of Visio, when the  **RasterExportBackgroundColor** property value is set, either programmatically or in the user interface, the setting then becomes the new default for the remainder of the session. However, it is not persisted to the next session.
 

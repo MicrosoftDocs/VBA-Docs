@@ -54,7 +54,7 @@ Passing  **visMemberAddUseResizeSetting** or **visMemberAddDoNotExpand** for _ad
 
 If the container is a list,  **AddMember** adds the specified object to the list container, but not to the list itself. In other words, the shape is contained by the list but is not actually in the list. This is common for shapes in containers that are themselves in a list.
 
-If the  **[ContainerProperties.LockMembership](Visio.ContainerProperties.LockMembership.md)** property is **True** , Microsoft Visio returns a Disabled error.
+If the  **[ContainerProperties.LockMembership](Visio.ContainerProperties.LockMembership.md)** property is **True**, Microsoft Visio returns a Disabled error.
 
 If the  _pObjectToAdd_ parameter does not contain top-level shapes on the page, Visio returns an Invalid Parameter error.
 

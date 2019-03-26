@@ -41,11 +41,11 @@ A constant from the  **OlAlwaysDeleteConversation** enumeration that indicates w
 
  If the _Store_ parameter specifies a non-delivery store such as an archive .pst store, the **GetAlwaysDelete** method returns a constant from **OlAlwaysDeleteConversation** that applies to conversation items in the default delivery store. Items on a non-delivery store are not moved to the **Deleted Items** folder for the default delivery store.
 
-If  **GetAlwaysDelete** returns **olAlwaysDelete** , items of the conversation are always moved to the **Deleted Items** folder for the store that contains the items. In a cross-store conversation, items are moved to the **Deleted Items** folder for the store that contains the items. When **GetAlwaysDelete** returns **olAlwaysDelete** , the **[GetAlwaysMoveToFolder](Outlook.Conversation.GetAlwaysMoveToFolder.md)** method returns a folder object that represents the **Deleted Items** folder for the default store.
+If  **GetAlwaysDelete** returns **olAlwaysDelete**, items of the conversation are always moved to the **Deleted Items** folder for the store that contains the items. In a cross-store conversation, items are moved to the **Deleted Items** folder for the store that contains the items. When **GetAlwaysDelete** returns **olAlwaysDelete**, the **[GetAlwaysMoveToFolder](Outlook.Conversation.GetAlwaysMoveToFolder.md)** method returns a folder object that represents the **Deleted Items** folder for the default store.
 
-If  **GetAlwaysDelete** returns **olAlwaysDeleteUnsupported** , the specified store does not support the action of always moving items to the **Deleted Items** folder of that store.
+If  **GetAlwaysDelete** returns **olAlwaysDeleteUnsupported**, the specified store does not support the action of always moving items to the **Deleted Items** folder of that store.
 
-If  **GetAlwaysDelete** returns **olDoNotDelete** , new items that arrive in the conversation are not moved to the **Deleted Items** folder on the specified delivery store, and existing conversation items in the **Deleted Items** folder are moved to the **Inbox**.
+If  **GetAlwaysDelete** returns **olDoNotDelete**, new items that arrive in the conversation are not moved to the **Deleted Items** folder on the specified delivery store, and existing conversation items in the **Deleted Items** folder are moved to the **Inbox**.
 
 
 ## Example

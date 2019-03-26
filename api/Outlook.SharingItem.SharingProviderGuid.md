@@ -33,7 +33,7 @@ The GUID is returned as a string using the following format:
 {00000000-0000-0000-0000-000000000000}
 ```
 
-If the  **[SharingProvider](Outlook.SharingItem.SharingProvider.md)** property of the **SharingItem** object is set to **olProviderUnknown** , you can use the **SharingProviderGUID** property to identify the sharing provider.
+If the  **[SharingProvider](Outlook.SharingItem.SharingProvider.md)** property of the **SharingItem** object is set to **olProviderUnknown**, you can use the **SharingProviderGUID** property to identify the sharing provider.
 
 
 ## See also

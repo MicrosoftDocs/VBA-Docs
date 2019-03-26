@@ -39,7 +39,7 @@ Page
 
 ## Remarks
 
-You can retrieve an object in an  **Addons** , **Hyperlinks** , **Layers** , **Masters** , **MasterShortcuts** , **Pages** , **Shapes** , or **Styles** collection by passing the object's name as a string expression in a **Variant**.
+You can retrieve an object in an  **Addons**, **Hyperlinks**, **Layers**, **Masters**, **MasterShortcuts**, **Pages**, **Shapes**, or **Styles** collection by passing the object's name as a string expression in a **Variant**.
 
 If you retrieve a  **Shape** object by name, the **ItemU** property searches all shapes in the **Shapes** collection's containing page or containing master, in addition to the collection's containing shape. Therefore, the **Shape** object returned by the **ItemU** property can be a shape that is not in the **Shapes** collection.
 

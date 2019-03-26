@@ -30,12 +30,12 @@ The  **Interval** property must be set before setting **[PatternEndDate](Outlook
 
 For example, setting the  **Interval** property to 2 and the **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** property to **olRecursWeekly** would cause the pattern to occur every second week.
 
-When  **RecurrenceType** is set to **olRecursYearNth** or **olRecursYear** , the **Interval** property indicates the number of years between occurrences. For example, **Interval** equals 1 indicates the recurrence is every year, **Interval** equals 2 indicates the recurrence is every 2 years, and so on.
+When  **RecurrenceType** is set to **olRecursYearNth** or **olRecursYear**, the **Interval** property indicates the number of years between occurrences. For example, **Interval** equals 1 indicates the recurrence is every year, **Interval** equals 2 indicates the recurrence is every 2 years, and so on.
 
 
 ## Example
 
-This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)**. The properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)** , **[DayOfWeekMask](Outlook.RecurrencePattern.DayOfWeekMask.md)** , **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)** , **[Interval](Outlook.RecurrencePattern.Interval.md)** , **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)** , and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs every 3 week(s) on Monday effective 1/21/2003 until 12/21/2004 from 2:00 PM to 5:00 PM."
+This Visual Basic for Applications example uses  **[GetRecurrencePattern](Outlook.AppointmentItem.GetRecurrencePattern.md)** to obtain the **[RecurrencePattern](Outlook.RecurrencePattern.md)** object for the newly-created **[AppointmentItem](Outlook.AppointmentItem.md)**. The properties, **[RecurrenceType](Outlook.RecurrencePattern.RecurrenceType.md)**, **[DayOfWeekMask](Outlook.RecurrencePattern.DayOfWeekMask.md)**, **[PatternStartDate](Outlook.RecurrencePattern.PatternStartDate.md)**, **[Interval](Outlook.RecurrencePattern.Interval.md)**, **[PatternEndDate](Outlook.RecurrencePattern.PatternEndDate.md)**, and **[Subject](Outlook.AppointmentItem.Subject.md)** are set, the appointment is saved and then displayed with the pattern: "Occurs every 3 week(s) on Monday effective 1/21/2003 until 12/21/2004 from 2:00 PM to 5:00 PM."
 
 
 ```vb

@@ -19,7 +19,7 @@ Returns a  **[Borders](Excel.Borders.md)** collection that represents the border
 
 ## Syntax
 
-_expression_. `Borders`
+_expression_.**Borders**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

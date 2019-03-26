@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableView](./Outlook.TableView.md) ob
 
 ## Remarks
 
-If this property is set to  **False** , then the **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine**.
+If this property is set to  **False**, then the **[Multiline](Outlook.TableView.Multiline.md)** property of the **TableView** object is automatically set to **olAlwaysSingleLine**.
 
 
 ## See also

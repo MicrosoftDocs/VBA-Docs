@@ -34,18 +34,18 @@ _expression_ A variable that represents a [Table](./Outlook.Table.md) object.
 
 ## Return value
 
-A  **Variant** value that is a two-dimensional array representing a set of row and column values from the **Table**. The array is zero-based; an array index (i, j) indexes into the i-th column and j-th row in the array. Columns in the array correspond to columns in the **Table** , and rows in the array correspond to rows in the **Table**. The number of rows in the returned array is the lesser value of _MaxRows_ and the actual number of rows in the **Table**.
+A  **Variant** value that is a two-dimensional array representing a set of row and column values from the **Table**. The array is zero-based; an array index (i, j) indexes into the i-th column and j-th row in the array. Columns in the array correspond to columns in the **Table**, and rows in the array correspond to rows in the **Table**. The number of rows in the returned array is the lesser value of _MaxRows_ and the actual number of rows in the **Table**.
 
 
 ## Remarks
 
 The  **GetArray** method offers a conceptually simple means to get values from a **Table** by copying all or part of the data in the **Table** (based on the current row) to an array and indexing into the array.
 
- **GetArray** always starts at the current row of the **Table**. It returns an array with _MaxRows_ number of rows if there are at least _MaxRows_ number of rows in the **Table** starting at the current position. If _MaxRows_ is not larger than the total number of rows in the **Table** , and there are fewer than _MaxRows_ number of elements in the **Table** starting at the current row, it will return an array that contains only the remaining rows in the **Table**. If **GetArray** is called and there are no remaining rows, then **GetArray** returns an empty array with zero elements.
+ **GetArray** always starts at the current row of the **Table**. It returns an array with _MaxRows_ number of rows if there are at least _MaxRows_ number of rows in the **Table** starting at the current position. If _MaxRows_ is not larger than the total number of rows in the **Table**, and there are fewer than _MaxRows_ number of elements in the **Table** starting at the current row, it will return an array that contains only the remaining rows in the **Table**. If **GetArray** is called and there are no remaining rows, then **GetArray** returns an empty array with zero elements.
 
-After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table** , if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
+After obtaining the appropriate rows from the  **Table** and before it returns, **GetArray** always repositions the current row to the next row in the **Table**, if there exists a next row. `GetArray(n)` operates as if **[Table.GetNextRow](Outlook.Table.GetNextRow.md)** is called n times.
 
-The values in the columns map to columns in the  **Table** , and are therefore determined by the format of the property name used for the column. For more information, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
+The values in the columns map to columns in the  **Table**, and are therefore determined by the format of the property name used for the column. For more information, see [Factors Affecting Property Value Representation in the Table and View Classes](../outlook/How-to/Search-and-Filter/factors-affecting-property-value-representation-in-the-table-and-view-classes.md).
 
 
 ## Example

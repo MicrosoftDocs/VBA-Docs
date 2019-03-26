@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # System.Cursor property (Word)
 
-Returns or sets the state (shape) of the pointer. Can be one of the following  **WdCursorType** constants: **wdCursorIBeam** , **wdCursorNormal** , **wdCursorNorthwestArrow** , or **wdCursorWait**. Read/write **Long**.
+Returns or sets the state (shape) of the pointer. Can be one of the following  **WdCursorType** constants: **wdCursorIBeam**, **wdCursorNormal**, **wdCursorNorthwestArrow**, or **wdCursorWait**. Read/write **Long**.
 
 
 ## Syntax

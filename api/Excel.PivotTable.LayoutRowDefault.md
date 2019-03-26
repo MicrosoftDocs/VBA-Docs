@@ -26,7 +26,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 ## Remarks
 
- **xlLayoutRowType** can be either **xlCompactRow** , **xlTabularRow** , or **xlOutlineRow**.
+ **xlLayoutRowType** can be either **xlCompactRow**, **xlTabularRow**, or **xlOutlineRow**.
 
 
 ## See also

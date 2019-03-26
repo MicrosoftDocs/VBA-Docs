@@ -15,7 +15,7 @@ Deletes the report.
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ A variable that represents a 'Report' object.
 

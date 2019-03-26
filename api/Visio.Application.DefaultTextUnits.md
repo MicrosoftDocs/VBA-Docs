@@ -33,7 +33,7 @@ Variant
 
 The  **DefaultTextUnits** property corresponds to the value shown in the **Text** box under **Display** on the **Advanced** tab of the **Visio Options** dialog box (click the **File** tab, and then click **Options**).
 
-The return value contains one of the values of  **[VisUnitCodes](Visio.visunitcodes.md)** , which are declared in the Microsoft Visio type library.
+The return value contains one of the values of  **[VisUnitCodes](Visio.visunitcodes.md)**, which are declared in the Microsoft Visio type library.
 
 You can specify the value of  **DefaultTextUnits** as an integer (a member of **[VisUnitCodes](Visio.visunitcodes.md)**) or a string value such as "pt". If the string is invalid or the unit code is inappropriate (non-textual), an error is generated.
 

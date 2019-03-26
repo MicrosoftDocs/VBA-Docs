@@ -26,7 +26,7 @@ Returns a  **Boolean** that represents whether to save a document through an Ext
 
 ## Remarks
 
-When setting the XMLUseXSLTWhenSaving property to  **True** , use the **[XMLSaveThroughXSLT](Word.Document.XMLSaveThroughXSLT.md)** property to specify the path and file name of the XSLT to use.
+When setting the XMLUseXSLTWhenSaving property to  **True**, use the **[XMLSaveThroughXSLT](Word.Document.XMLSaveThroughXSLT.md)** property to specify the path and file name of the XSLT to use.
 
 
 ## Example

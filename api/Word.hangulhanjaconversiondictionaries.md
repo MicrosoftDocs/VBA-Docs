@@ -23,7 +23,7 @@ For Each d In HangulHanjaDictionaries
 Next d
 ```
 
-Use the  **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName** , Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
+Use the  **Add** method to add a new custom conversion dictionary to the collection of active custom conversion dictionaries. If there isn't a file with the name specified by **FileName**, Microsoft Word creates it. The following example adds "Hanja1.hhd" to the collection of custom conversion dictionaries.
 
 
 

@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 ## Remarks
 
-When you set this property to  **True** , the workbook has the following characteristics:
+When you set this property to  **True**, the workbook has the following characteristics:
 
 
 - You won't be prompted to save the workbook if changes are made while the workbook is open.

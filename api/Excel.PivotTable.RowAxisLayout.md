@@ -30,7 +30,7 @@ _expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _RowLayout_|Required| **xlLayoutRowType**|Can be  **xlCompactRow** , **xlTabularRow** , or **xlOutlineRow**.|
+| _RowLayout_|Required| **xlLayoutRowType**|Can be  **xlCompactRow**, **xlTabularRow**, or **xlOutlineRow**.|
 
 ## Remarks
 

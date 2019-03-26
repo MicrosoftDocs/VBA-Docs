@@ -19,7 +19,7 @@ Returns or sets the style sheet type. Read/write  **[WdStyleSheetLinkType](Word.
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ Required. A variable that represents a '[StyleSheet](Word.StyleSheet.md)' object.
 

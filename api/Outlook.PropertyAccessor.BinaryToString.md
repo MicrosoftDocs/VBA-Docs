@@ -44,7 +44,7 @@ For more information on type conversion when using the  **PropertyAccessor** obj
 
 ## Example
 
- The Outlook object model exposes an **EntryID** property for item objects to obtain the Entry ID of an item. This property is a string representing the value of the MAPI property, **PR_ENTRYID** , of that item. Aside from the **EntryID** property, you can also use the **[PropertyAccessor.GetProperty](Outlook.PropertyAccessor.GetProperty.md)** method to obtain the value of **PR_ENTRYID** for an item, and use **PropertyAccessor.BinaryToString** to convert that value to a string. This string should match the **EntryID** property value for the same item. The following code sample shows the equivalence of the Entry ID returned by the **PropertyAccessor.GetProperty** method and the Entry ID returned by the **EntryID** property for each item in the Inbox.
+ The Outlook object model exposes an **EntryID** property for item objects to obtain the Entry ID of an item. This property is a string representing the value of the MAPI property, **PR_ENTRYID**, of that item. Aside from the **EntryID** property, you can also use the **[PropertyAccessor.GetProperty](Outlook.PropertyAccessor.GetProperty.md)** method to obtain the value of **PR_ENTRYID** for an item, and use **PropertyAccessor.BinaryToString** to convert that value to a string. This string should match the **EntryID** property value for the same item. The following code sample shows the equivalence of the Entry ID returned by the **PropertyAccessor.GetProperty** method and the Entry ID returned by the **EntryID** property for each item in the Inbox.
 
 
 ```vb

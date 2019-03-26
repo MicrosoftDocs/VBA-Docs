@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Reminder](./Outlook.Reminder.md) obje
 
 ## Remarks
 
- Outlook determines the return value of this property based on the state of the current reminder. All active reminders are visible. If **IsVisible** is **True** , the reminder is visible.
+ Outlook determines the return value of this property based on the state of the current reminder. All active reminders are visible. If **IsVisible** is **True**, the reminder is visible.
 
 
 ## Example

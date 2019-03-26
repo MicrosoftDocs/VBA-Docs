@@ -21,7 +21,7 @@ The  **ExportAsFixedFormat** method is used to publish a workbook to either the 
 
 _expression_. `ExportAsFixedFormat`( `_Type_` , `_Filename_` , `_Quality_` , `_IncludeDocProperties_` , `_IgnorePrintAreas_` , `_From_` , `_To_` , `_OpenAfterPublish_` , `_FixedFormatExtClassPtr_` )
 
-_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) , **Sheet** , **Chart** , or **Range** object.
+_expression_ A variable that represents a [Workbook](./Excel.Workbook.md) , **Sheet**, **Chart**, or **Range** object.
 
 
 ## Parameters
@@ -34,7 +34,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) , **Sh
 | _Filename_|Optional| **Variant**|A string that indicates the name of the file to be saved. You can include a full path or Excel saves the file in the current folder.|
 | _Quality_|Optional| **Variant**|Can be set to either  **xlQualityStandard** or **xlQualityMinimum**.|
 | _IncludeDocProperties_|Optional| **Variant**|Set to  **True** to indicate that document properties should be included or set to **False** to indicate that they are omitted.|
-| _IgnorePrintAreas_|Optional| **Variant**|If set to  **True** , ignores any print areas set when publishing. If set to **False** , will use the print areas set when publishing.|
+| _IgnorePrintAreas_|Optional| **Variant**|If set to  **True**, ignores any print areas set when publishing. If set to **False**, will use the print areas set when publishing.|
 | _From_|Optional| **Variant**|The number of the page at which to start publishing. If this argument is omitted, publishing starts at the beginning.|
 | _To_|Optional| **Variant**|The number of the last page to publish. If this argument is omitted, publishing ends with the last page|
 | _OpenAfterPublish_|Optional| **Variant**|If set to  **True** displays file in viewer after it is published. If set to **False** the file is published but not displayed.|

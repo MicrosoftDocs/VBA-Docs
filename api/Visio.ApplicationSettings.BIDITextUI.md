@@ -42,6 +42,6 @@ The following  **VisRegionalUIOptions** constants, which are declared in the Vis
 
 The setting of the  **BIDITextUI** property corresponds to the regional options setting in the **Microsoft Office Language Preferences** dialog box. (Click **Start**, point to  **All Programs**, point to  **Microsoft Office**, point to  **Microsoft Office Tools**, and then click  **Microsoft Office Language Preferences**. 
 
-The setting of the  **BIDITextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **BIDITextUI** is set to **visRegionalUIOptionsShow** , **ComplexTextUI** is set to that value as well.
+The setting of the  **BIDITextUI** property influences the setting of the **[ApplicationSettings.ComplexTextUI](Visio.ApplicationSettings.ComplexTextUI.md)** property. If **BIDITextUI** is set to **visRegionalUIOptionsShow**, **ComplexTextUI** is set to that value as well.
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

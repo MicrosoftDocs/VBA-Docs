@@ -28,7 +28,7 @@ _expression_ A variable that represents an '[IconSetCondition](Excel.IconSetCond
 
 By default, most of the icon sets you can use associate positive images with higher values. For example, the "3 Traffic Lights" icon set applies a green circle to the upper value threshold and a red circle to the lowest values in the range. If your data is such that lower values are more desirable, such as marathon time results, you may want to reverse the order that icons are applied to the range to associate the green circle to the lowest values.
 
-If the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconSetCondition** object is **xlCustomSet** , the **ReverseOrder** property will return **False**. Additionally, if you attempt to set the **ReverseOrder** property to **True** when the **IconSet** property of the **IconSetCondition** object is **xlCustomSet** , Excel will return a runtime error.
+If the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconSetCondition** object is **xlCustomSet**, the **ReverseOrder** property will return **False**. Additionally, if you attempt to set the **ReverseOrder** property to **True** when the **IconSet** property of the **IconSetCondition** object is **xlCustomSet**, Excel will return a runtime error.
 
 
 ## See also

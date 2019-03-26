@@ -44,7 +44,7 @@ Nothing
 
 ## Remarks
 
-The  **Selection.LinkToData** method functions much like the same method of the **Shape** object, **[Shape.LinkToData](Visio.Shape.LinkToData.md)** , except that it links a selection of shapes, instead of a single shape, to a single data row.
+The  **Selection.LinkToData** method functions much like the same method of the **Shape** object, **[Shape.LinkToData](Visio.Shape.LinkToData.md)**, except that it links a selection of shapes, instead of a single shape, to a single data row.
 
 If Visio cannot establish a link between a shape and the data row, Visio skips that shape and goes on to the next shape in the selection. After you run the method, to determine if all shapes in the selection are actually linked to the data row, call the  **[Shape.GetLinkedDataRow](Visio.Shape.GetLinkedDataRow.md)** method on each shape in the selection. If that method fails for any shape, it indicates that the shape is not linked to the data row. Visio will usually succeed in linking a row to a shape unless the shape is already linked to data and the link-replacement-behavior setting for the data recordset specifies that the link should not be replaced.
 

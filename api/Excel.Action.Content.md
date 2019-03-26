@@ -19,9 +19,9 @@ Returns the content associated to the  **Action** object. Read-only **String**.
 
 ## Syntax
 
-_expression_. `Content`
+_expression_.**Content**
 
-_expression_ A variable that represents an [Action](Excel.Action.md) object.
+_expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
 ## See also

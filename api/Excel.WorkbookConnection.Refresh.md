@@ -26,7 +26,7 @@ _expression_ A variable that represents a [WorkbookConnection](./Excel.WorkbookC
 
 ## Remarks
 
- If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False** , dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
+ If the **[DisplayAlerts](Excel.Application.DisplayAlerts.md)** property is **False**, dialog boxes are not displayed and the **Refresh** method fails with the Insufficient Connection Information exception.
 
 A refresh failure for one connection will not have any impact on refresh operations for the other connections.
 

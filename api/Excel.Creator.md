@@ -21,7 +21,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 |XlCreator can be one of these XlCreator constants.|
 | **xlCreatorCode**|
 
-_expression_. `Creator`
+_expression_.**Creator**
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

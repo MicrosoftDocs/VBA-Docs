@@ -52,7 +52,7 @@ If the  **AddOnName** property is set, Visio ignores the object's **CmdNum** pro
 
 ## Example
 
-This VBA macro shows how to set the  **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption** , **AddOnArgs** , and **ActionText**.
+This VBA macro shows how to set the  **AddOnName** property of a menu item. It also shows how to add a menu and menu item to the **Add-ins** tab, and how to set some of the menu item's other properties, such as **Caption**, **AddOnArgs**, and **ActionText**.
 
 This example assumes that you already have a macro named  _macroname_ in the project of the active document, and that the macro takes an argument called "Arg1." Before running this example, replace _macroname_ with the name of your macro.
 

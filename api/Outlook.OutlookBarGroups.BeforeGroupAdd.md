@@ -30,7 +30,7 @@ _expression_ A variable that represents an [OutlookBarGroups](./Outlook.OutlookB
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the group is not added to the **Shortcuts** pane.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the group is not added to the **Shortcuts** pane.|
 
 ## Remarks
 

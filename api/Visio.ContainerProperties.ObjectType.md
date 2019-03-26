@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ContainerProperties.ObjectType Property (Visio)
 
-Returns  **visObjTypeContainerProperties** , the type of this object. Read-only.
+Returns  **visObjTypeContainerProperties**, the type of this object. Read-only.
 
 
 ## Syntax

@@ -69,9 +69,9 @@ If  _Flags_ includes **visSplinePeriodic** and the following conditions are met,
     
 
 
-If  _Flags_ includes **visSplineDoCircles** , Microsoft Visio recognizes circular segments in the given array of points and generates circular arcs instead of spline rows for those segments.
+If  _Flags_ includes **visSplineDoCircles**, Microsoft Visio recognizes circular segments in the given array of points and generates circular arcs instead of spline rows for those segments.
 
-If  _Flags_ includes **visSplineAbrupt** , Visio breaks the spline whenever it detects an abrupt change of direction or curvature in the point's trail. An abrupt change of direction is defined by three consecutive points A, B, C in the list, for which the distance between B and the line segment AC is more than twice the tolerance. The application also considers point B to be an abrupt change if one of the segments AB or BC is more than twice as long as the other. At a point where an abrupt change is detected, the application ends the current piece (line, arc, or spline) and starts a fresh one.
+If  _Flags_ includes **visSplineAbrupt**, Visio breaks the spline whenever it detects an abrupt change of direction or curvature in the point's trail. An abrupt change of direction is defined by three consecutive points A, B, C in the list, for which the distance between B and the line segment AC is more than twice the tolerance. The application also considers point B to be an abrupt change if one of the segments AB or BC is more than twice as long as the other. At a point where an abrupt change is detected, the application ends the current piece (line, arc, or spline) and starts a fresh one.
 
 If  _Flags_ includes **visSpline1D** and the first and last points in _xyArray()_ don't coincide, the **DrawSpline** method produces a shape that has one-dimensional (1-D) behavior, otherwise, it produces a shape that has two-dimensional (2-D) behavior.
 

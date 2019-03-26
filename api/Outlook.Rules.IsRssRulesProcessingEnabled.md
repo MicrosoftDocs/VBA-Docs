@@ -26,9 +26,9 @@ _expression_ A variable that represents a [Rules](./Outlook.Rules.md) object.
 
 ## Remarks
 
-After setting  **IsRssRulesProcessingEnabled** , you must call **[Rules.Save](Outlook.Rules.Save.md)** to persist this setting. This property is persisted on a mailbox-level setting that will roam with the user.
+After setting  **IsRssRulesProcessingEnabled**, you must call **[Rules.Save](Outlook.Rules.Save.md)** to persist this setting. This property is persisted on a mailbox-level setting that will roam with the user.
 
-If  **IsRssRulesProcessingEnabled** is **False** , then no conditions about RSS feeds will be evaluated during rules processing.
+If  **IsRssRulesProcessingEnabled** is **False**, then no conditions about RSS feeds will be evaluated during rules processing.
 
 
 ## See also

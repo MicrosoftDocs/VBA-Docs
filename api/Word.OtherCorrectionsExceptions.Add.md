@@ -39,7 +39,7 @@ OtherCorrectionsException
 
 ## Remarks
 
-If the  **OtherCorrectionsAutoAdd** property is **True** , words are automatically added to the list of other corrections exceptions.
+If the  **OtherCorrectionsAutoAdd** property is **True**, words are automatically added to the list of other corrections exceptions.
 
 
 ## Example

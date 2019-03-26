@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # ObjectFrame.LinkMasterFields property (Access)
 
-You can use the **LinkChildFields** property (along with the **LinkMasterFields** property) to specify how Microsoft Access links records in a form or report to records in a subform, subreport, or embedded object, such as a chart. If these properties are set, Access automatically updates the related record in the subform when you change to a new record in a main form. Read/write **String**.
+You can use the **LinkMasterFields** property (along with the **LinkChildFields** property) to specify how Microsoft Access links records in a form or report to records in a subform, subreport, or embedded object, such as a chart. If these properties are set, Access automatically updates the related record in the subform when you change to a new record in a main form. Read/write **String**.
 
 
 ## Syntax

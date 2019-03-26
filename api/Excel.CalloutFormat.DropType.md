@@ -35,7 +35,7 @@ _expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md
 | **msoCalloutDropCustom**|
 | **msoCalloutDropTop**|
 
-If the callout drop type is  **msoCalloutDropCustom** , the values of the **[Drop](Excel.CalloutFormat.Drop.md)** and **[AutoAttach](Excel.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
+If the callout drop type is  **msoCalloutDropCustom**, the values of the **[Drop](Excel.CalloutFormat.Drop.md)** and **[AutoAttach](Excel.CalloutFormat.AutoAttach.md)** properties and the relative positions of the callout text box and callout line origin (the place that the callout points to) are used to determine where the callout line attaches to the text box.
 
 This property is read-only. Use the  **[PresetDrop](Excel.CalloutFormat.PresetDrop.md)** method to set the value of this property.
 

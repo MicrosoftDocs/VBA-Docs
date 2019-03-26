@@ -31,7 +31,7 @@ Boolean
 
 ## Remarks
 
-Use the  **InhibitSelectChange** property to control shape selection and increase performance when dropping a series of shapes in the drawing window programmatically. When the **InhibitSelectChange** property is **True** , Microsoft Visio does not select any shapes after they are dropped. Your solution, however, can select shapes.
+Use the  **InhibitSelectChange** property to control shape selection and increase performance when dropping a series of shapes in the drawing window programmatically. When the **InhibitSelectChange** property is **True**, Microsoft Visio does not select any shapes after they are dropped. Your solution, however, can select shapes.
 
 Additionally, Visio attempts to preserve currently selected shapes whenever possible, unless shapes are deselected by the solution.
 

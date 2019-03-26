@@ -26,7 +26,7 @@ Returns or sets the color of text that is inserted while change tracking is enab
 
 ## Remarks
 
-If the  **InsertedTextColor** property is set to **wdByAuthor** , Microsoft Word automatically assigns a unique color to each of the first eight authors who revise a document.
+If the  **InsertedTextColor** property is set to **wdByAuthor**, Microsoft Word automatically assigns a unique color to each of the first eight authors who revise a document.
 
 
 ## Example

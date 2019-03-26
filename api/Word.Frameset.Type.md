@@ -19,7 +19,7 @@ Returns the  **Frameset** object type. Read-only **[WdFramesetType](Word.WdFrame
 
 ## Syntax
 
- _expression_. `Type`
+ _expression_.**Type**
 
  _expression_ Required. A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

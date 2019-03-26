@@ -26,7 +26,7 @@ _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' ob
 
 ## Remarks
 
-If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected** , the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True**. If the **ExchangeConnectionMode** property is **olOnline** , **olConnected** , or **olConnectedHeaders** , the **NameSpace.Offline** property returns **False**.
+If the  **ExchangeConnectionMode** property is **olOffline** or **olDisconnected**, the **[NameSpace.Offline](Outlook.NameSpace.Offline.md)** property returns **True**. If the **ExchangeConnectionMode** property is **olOnline**, **olConnected**, or **olConnectedHeaders**, the **NameSpace.Offline** property returns **False**.
 
 
 ## Example

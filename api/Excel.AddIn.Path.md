@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # AddIn.Path property (Excel)
 
-Returns a  **String** value that represents the complete path to the **Add-in** , excluding the final separator and name of the **Add-in**.
+Returns a  **String** value that represents the complete path to the **Add-in**, excluding the final separator and name of the **Add-in**.
 
 
 ## Syntax
 
 _expression_. `Path`
 
-_expression_ A variable that represents an [AddIn](Excel.AddIn.md) object.
+_expression_ A variable that represents an **[AddIn](Excel.AddIn.md)** object.
 
 
 ## See also

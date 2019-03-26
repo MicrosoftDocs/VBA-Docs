@@ -36,7 +36,7 @@ ActiveDocument.MailMerge.Fields.Add Range:=Selection.Range, _
  Name:="MiddleInitial"
 ```
 
-The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn** , for adding fields related to a mail merge operation.
+The  **MailMergeFields** collection has additional methods, such as **AddAsk** and **AddFillIn**, for adding fields related to a mail merge operation.
 
 
 ## See also

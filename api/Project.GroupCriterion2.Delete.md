@@ -16,7 +16,7 @@ Deletes a  **GroupCriterion2** object from its containing **GroupCriteria2** col
 
 ## Syntax
 
- _expression_. `Delete`
+ _expression_.**Delete**
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

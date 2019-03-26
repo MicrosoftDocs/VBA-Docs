@@ -37,7 +37,7 @@ _expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) o
 
 You must enter a value for at least one of the parameters when setting this property.
 
-Microsoft Excel may create or delete axes if you change the chart type or the  **[Axis.AxisGroup](Excel.Axis.AxisGroup.md)** , **[Chart.AxisGroup](Excel.ChartGroup.AxisGroup.md)** , or **[Series.AxisGroup](Excel.Series.AxisGroup.md)** properties.
+Microsoft Excel may create or delete axes if you change the chart type or the  **[Axis.AxisGroup](Excel.Axis.AxisGroup.md)**, **[Chart.AxisGroup](Excel.ChartGroup.AxisGroup.md)**, or **[Series.AxisGroup](Excel.Series.AxisGroup.md)** properties.
 
 
 ## Example

@@ -26,7 +26,7 @@ _expression_ A variable that represents an [OlkTextBox](./Outlook.OlkTextBox.md)
 
 ## Remarks
 
-If  **True** , clicking in the margin causes selection of text. If **False** , this action does not select any text. The default value is **False**.
+If  **True**, clicking in the margin causes selection of text. If **False**, this action does not select any text. The default value is **False**.
 
 
 ## See also

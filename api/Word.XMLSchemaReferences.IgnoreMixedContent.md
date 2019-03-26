@@ -26,7 +26,7 @@ Returns a  **Boolean** that represents whether Microsoft Word preforms validatio
 
 ## Remarks
 
- **True** causes Word to ignore schema violations caused by text nodes that have element siblings; it also prevents these text nodes from being saved in XML when the **XMLSaveDataOnly** property is **True** , which helps to prevent text that was inserted by an Extensible Stylesheet Language Transformation (XLST) from being saved as part of the data. **False** raises validation errors on text nodes with element siblings.
+ **True** causes Word to ignore schema violations caused by text nodes that have element siblings; it also prevents these text nodes from being saved in XML when the **XMLSaveDataOnly** property is **True**, which helps to prevent text that was inserted by an Extensible Stylesheet Language Transformation (XLST) from being saved as part of the data. **False** raises validation errors on text nodes with element siblings.
 
 
 ## Example

@@ -46,7 +46,7 @@ A String value that represents the availability of the user for the specified pe
 
 The contents of the string returned by this method are determined by the  _CompleteFormat_ parameter.
 
-If  _CompleteFormat_ is set to **False** , the default value, the string returned by this method contains one of the following characters for each time slot:
+If  _CompleteFormat_ is set to **False**, the default value, the string returned by this method contains one of the following characters for each time slot:
 
 
 
@@ -54,7 +54,7 @@ If  _CompleteFormat_ is set to **False** , the default value, the string returne
 |0|The time slot represents a free period.|
 |1|The time slot represents a tentative, out of office (OOF), or busy period.|
 
-If  _CompleteFormat_ is set to **True** , the string returned by this method contains one of the following characters for each time slot:
+If  _CompleteFormat_ is set to **True**, the string returned by this method contains one of the following characters for each time slot:
 
 
 

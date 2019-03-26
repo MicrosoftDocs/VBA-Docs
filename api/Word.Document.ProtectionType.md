@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Document.ProtectionType property (Word)
 
-Returns the protection type for the specified document. Can be one of the following  **WdProtectionType** constants: **wdAllowOnlyComments** , **wdAllowOnlyFormFields** , **wdAllowOnlyReading** , **wdAllowOnlyRevisions** , or **wdNoProtection**.
+Returns the protection type for the specified document. Can be one of the following  **WdProtectionType** constants: **wdAllowOnlyComments**, **wdAllowOnlyFormFields**, **wdAllowOnlyReading**, **wdAllowOnlyRevisions**, or **wdNoProtection**.
 
 
 ## Syntax

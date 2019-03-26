@@ -52,7 +52,7 @@ MsgBox ActiveDocument.Bookmarks(2).Name
 
 Remarks
 
-The  **[ShowHidden](Word.Bookmarks.ShowHidden.md)** property effects the number of elements in the **Bookmarks** collection. If **ShowHidden** is **True** , hidden bookmarks are included in the **Bookmarks** collection.
+The  **[ShowHidden](Word.Bookmarks.ShowHidden.md)** property effects the number of elements in the **Bookmarks** collection. If **ShowHidden** is **True**, hidden bookmarks are included in the **Bookmarks** collection.
 
 
 ## See also

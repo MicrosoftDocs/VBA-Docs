@@ -7,7 +7,7 @@ ms.prod: access
 api_name:
 - Access.SmartTag.Delete
 ms.assetid: 2dc8208d-27e6-446e-8595-fa3228187e0c
-ms.date: 06/08/2017
+ms.date: 03/26/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Deletes the specified object.
 
 ## Syntax
 
-_expression_. `Delete`
+_expression_.**Delete**
 
 _expression_ A variable that represents a **[SmartTag](Access.SmartTag.md)** object.
 
@@ -29,9 +29,6 @@ _expression_ A variable that represents a **[SmartTag](Access.SmartTag.md)** obj
 Nothing
 
 
-## See also
 
-
-[SmartTag Object](Access.SmartTag.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

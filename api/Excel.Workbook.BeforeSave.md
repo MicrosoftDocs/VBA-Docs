@@ -31,7 +31,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _SaveAsUI_|Required| **Boolean**| **True** if the **Save As** dialog box will be displayed due to changes made that need to be saved in the workbook.|
-| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True** , the workbook isn't saved when the procedure is finished.|
+| _Cancel_|Required| **Boolean**| **False** when the event occurs. If the event procedure sets this argument to **True**, the workbook isn't saved when the procedure is finished.|
 
 ## Return value
 

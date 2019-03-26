@@ -26,7 +26,7 @@ _expression_ A variable that represents a [TableStyleElement](./Excel.TableStyle
 
 ## Remarks
 
-This property does not apply to all  **[TableStyleElement](Excel.TableStyleElement.md)** objects. It applies only to **xlColumnStripe1** , **xlColumnStripe2** , **xlRowStripe1** and **xlRowStripe2** types.
+This property does not apply to all  **[TableStyleElement](Excel.TableStyleElement.md)** objects. It applies only to **xlColumnStripe1**, **xlColumnStripe2**, **xlRowStripe1** and **xlRowStripe2** types.
 
 
 ## See also

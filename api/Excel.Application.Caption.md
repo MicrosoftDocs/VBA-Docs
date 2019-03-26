@@ -19,14 +19,14 @@ Returns or sets a  **String** value that represents the name that appears in the
 
 ## Syntax
 
-_expression_. `Caption`
+_expression_.**Caption**
 
 _expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
 
 
 ## Remarks
 
-If you don't set a name, or if you set the name to  **Empty** , this property returns "Microsoft Excel".
+If you don't set a name, or if you set the name to  **Empty**, this property returns "Microsoft Excel".
 
 
 ## Example

@@ -36,7 +36,7 @@ _expression_ A variable that represents a [Shapes](./Excel.Shapes.md) object.
 
 Although you can use the  **[Range](Excel.Shapes.Range.md)** property to return any number of shapes, it's simpler to use the **[Item](Excel.Shapes.Item.md)** method if you only want to return a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
-To specify an array of integers or strings for  **Index** , you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
+To specify an array of integers or strings for  **Index**, you can use the **Array** function. For example, the following instruction returns two shapes specified by name.
 
  `Dim arShapes() As Variant Dim objRange As Object arShapes = Array("Oval 4", "Rectangle 5") Set objRange = ActiveSheet.Shapes.Range(arShapes)`
 

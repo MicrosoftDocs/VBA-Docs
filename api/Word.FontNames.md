@@ -16,7 +16,7 @@ Represents a list of the names of all the available fonts.
 
 ## Remarks
 
-Use the  **FontNames** , **LandscapeFontNames** , or **PortraitFontNames** property to return the **FontNames** object. The following example displays the number of portrait fonts available.
+Use the  **FontNames**, **LandscapeFontNames**, or **PortraitFontNames** property to return the **FontNames** object. The following example displays the number of portrait fonts available.
 
 
 ```vb

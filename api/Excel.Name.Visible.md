@@ -26,7 +26,7 @@ _expression_ A variable that represents a [Name](Excel.Name.md) object.
 
 ## Remarks
 
-If you set the  **Visible** property for a name to **False** , the name won't appear in the **Define Name** dialog box.
+If you set the  **Visible** property for a name to **False**, the name won't appear in the **Define Name** dialog box.
 
 
 ## See also

@@ -19,7 +19,7 @@ Use the  **CanvasItems** property of either a **[Shape](Word.Shape.md)** or **[S
 
 ## Remarks
 
-To add shapes to a drawing canvas, use the following methods of the  **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)** , **[AddConnector](Word.CanvasShapes.AddConnector.md)** **[AddCurve](Word.CanvasShapes.AddCurve.md)** , **[AddLabel](Word.CanvasShapes.AddLabel.md)** , **[AddLine](Word.CanvasShapes.AddLine.md)** , **[AddPicture](Word.CanvasShapes.AddPicture.md)** , **[AddPolyline](Word.CanvasShapes.AddPolyline.md)** , **[AddShape](Word.CanvasShapes.AddShape.md)** , **[AddTextbox](Word.CanvasShapes.AddTextbox.md)** , **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)** , or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
+To add shapes to a drawing canvas, use the following methods of the  **CanvasShapes** collection: **[AddCallout](Word.CanvasShapes.AddCallout.md)**, **[AddConnector](Word.CanvasShapes.AddConnector.md)** **[AddCurve](Word.CanvasShapes.AddCurve.md)**, **[AddLabel](Word.CanvasShapes.AddLabel.md)**, **[AddLine](Word.CanvasShapes.AddLine.md)**, **[AddPicture](Word.CanvasShapes.AddPicture.md)**, **[AddPolyline](Word.CanvasShapes.AddPolyline.md)**, **[AddShape](Word.CanvasShapes.AddShape.md)**, **[AddTextbox](Word.CanvasShapes.AddTextbox.md)**, **[AddTextEffect](Word.CanvasShapes.AddTextEffect.md)**, or **[BuildFreeform](Word.CanvasShapes.BuildFreeform.md)**. The following example adds a drawing canvas to the active document and then adds three shapes to the drawing canvas.
 
 
 ```vb
