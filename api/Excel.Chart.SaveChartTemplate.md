@@ -21,7 +21,7 @@ Saves a custom chart template to the list of available chart templates.
 
 _expression_. `SaveChartTemplate`( `_Filename_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

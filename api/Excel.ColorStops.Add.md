@@ -21,7 +21,7 @@ Adds a  **[ColorStop](Excel.ColorStop.md)** object to the specified collection.
 
 _expression_. `Add`( `_Position_` )
 
- _expression_ An expression that returns a '[ColorStops](Excel.ColorStops.md)' object.
+ _expression_ An expression that returns a **[ColorStops](Excel.ColorStops.md)** object.
 
 
 ## Parameters

@@ -1,5 +1,5 @@
 ---
-title: VerticalAlignment Property (Graph)
+title: VerticalAlignment property (Excel Graph)
 keywords: vbagr10.chm65673
 f1_keywords:
 - vbagr10.chm65673
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# VerticalAlignment Property (Graph)
+# VerticalAlignment property (Excel Graph)
 
 Returns or sets the vertical alignment of the specified object. Required  **xlVAlign**.
 

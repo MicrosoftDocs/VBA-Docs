@@ -92,30 +92,21 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ApplyFilter](Excel.AutoFilter.ApplyFilter.md)|
-|[ShowAllData](Excel.AutoFilter.ShowAllData.md)|
+- [ApplyFilter](Excel.AutoFilter.ApplyFilter.md)
+- [ShowAllData](Excel.AutoFilter.ShowAllData.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.AutoFilter.Application.md)|
-|[Creator](Excel.AutoFilter.Creator.md)|
-|[FilterMode](Excel.AutoFilter.FilterMode.md)|
-|[Filters](Excel.AutoFilter.Filters.md)|
-|[Parent](Excel.AutoFilter.Parent.md)|
-|[Range](Excel.AutoFilter.Range.md)|
-|[Sort](Excel.AutoFilter.Sort.md)|
+- [Application](Excel.AutoFilter.Application.md)
+- [Creator](Excel.AutoFilter.Creator.md)
+- [FilterMode](Excel.AutoFilter.FilterMode.md)
+- [Filters](Excel.AutoFilter.Filters.md)
+- [Parent](Excel.AutoFilter.Parent.md)
+- [Range](Excel.AutoFilter.Range.md)
+- [Sort](Excel.AutoFilter.Sort.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

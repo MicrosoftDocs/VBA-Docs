@@ -1,5 +1,5 @@
 ---
-title: CategoryType Property
+title: CategoryType property (Excel Graph)
 keywords: vbagr10.chm67187
 f1_keywords:
 - vbagr10.chm67187
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CategoryType Property
+# CategoryType property (Excel Graph)
 
 Returns or sets the category axis type. Read/write XlCategoryType .
 

@@ -1,5 +1,5 @@
 ---
-title: Delete Method (Graph)
+title: Delete method (Excel Graph)
 keywords: vbagr10.chm3077617
 f1_keywords:
 - vbagr10.chm3077617
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Delete Method (Graph)
+# Delete method (Excel Graph)
 
 Delete method as it applies to all objects in the **Applies To** list except the  **Range** object.
 

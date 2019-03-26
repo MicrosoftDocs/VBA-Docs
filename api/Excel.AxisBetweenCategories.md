@@ -1,5 +1,5 @@
 ---
-title: AxisBetweenCategories Property
+title: AxisBetweenCategories property (Excel Graph)
 keywords: vbagr10.chm65581
 f1_keywords:
 - vbagr10.chm65581
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisBetweenCategories Property
+# AxisBetweenCategories property (Excel Graph)
 
 True if the value axis crosses the category axis between categories. Read/write Boolean.
 

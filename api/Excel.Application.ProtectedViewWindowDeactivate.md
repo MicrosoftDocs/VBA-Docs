@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowDeactivate Event (Excel)
+title: Application.ProtectedViewWindowDeactivate event (Excel)
 keywords: vbaxl10.chm504113
 f1_keywords:
 - vbaxl10.chm504113
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowDeactivate Event (Excel)
+# Application.ProtectedViewWindowDeactivate event (Excel)
 
 Occurs when a  **Protected View** window is deactivated.
 

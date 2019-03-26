@@ -1,5 +1,5 @@
 ---
-title: Application.SheetTableUpdate Event (Excel)
+title: Application.SheetTableUpdate event (Excel)
 keywords: vbaxl10.chm504117
 f1_keywords:
 - vbaxl10.chm504117
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetTableUpdate Event (Excel)
+# Application.SheetTableUpdate event (Excel)
 
 Occurs when a table on a worksheet is updated.
 
@@ -19,7 +19,7 @@ Occurs when a table on a worksheet is updated.
 
 _expression_. `SheetTableUpdate`_(Sh,_ _Target)_
 
-_expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

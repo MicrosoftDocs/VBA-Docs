@@ -18,7 +18,7 @@ Adds a calculated field or calculated item to a PivotTable.
 
 _expression_. `AddCalculatedMember`_(Name,_ _Formula,_ _SolveOrder,_ _Type,_ _DisplayFolder,_ _MeasureGroup,_ _ParentHierarchy,_ _ParentMember,_ _NumberFormat)_
 
-_expression_ A variable that represents a [CalculatedMembers](Excel.CalculatedMembers.md) object.
+_expression_ A variable that represents a **[CalculatedMembers](Excel.CalculatedMembers.md)** object.
 
 
 ## Parameters

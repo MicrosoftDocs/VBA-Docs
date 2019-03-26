@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforeClose Event (Excel)
+title: Application.WorkbookBeforeClose event (Excel)
 keywords: vbaxl10.chm504084
 f1_keywords:
 - vbaxl10.chm504084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforeClose Event (Excel)
+# Application.WorkbookBeforeClose event (Excel)
 
 Occurs immediately before any open workbook closes.
 
@@ -21,7 +21,7 @@ Occurs immediately before any open workbook closes.
 
 _expression_. `WorkbookBeforeClose`( `_Wb_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

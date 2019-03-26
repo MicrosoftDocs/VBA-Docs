@@ -21,7 +21,7 @@ Returns the  **[ChartFormat](Excel.ChartFormat.md)** object. Read-only.
 
 _expression_. `Format`
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## See also

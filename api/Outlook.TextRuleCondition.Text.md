@@ -19,7 +19,7 @@ Returns or sets an array of  **String** elements that represents the text to be 
 
 ## Syntax
 
- _expression_. `Text`
+ _expression_.**Text**
 
 _expression_ A variable that represents a [TextRuleCondition](./Outlook.TextRuleCondition.md) object.
 

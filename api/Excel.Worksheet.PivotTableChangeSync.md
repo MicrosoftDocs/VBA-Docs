@@ -1,5 +1,5 @@
 ---
-title: Worksheet.PivotTableChangeSync Event (Excel)
+title: Worksheet.PivotTableChangeSync event (Excel)
 keywords: vbaxl10.chm502086
 f1_keywords:
 - vbaxl10.chm502086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.PivotTableChangeSync Event (Excel)
+# Worksheet.PivotTableChangeSync event (Excel)
 
 Occurs after changes to a PivotTable.
 

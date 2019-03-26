@@ -1,5 +1,5 @@
 ---
-title: Axis Object
+title: Axis object (Excel Graph)
 keywords: vbagr10.chm5207088
 f1_keywords:
 - vbagr10.chm5207088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Axis Object
+# Axis object (Excel Graph)
 
 Represents a single axis in a chart. The  **Axis** object is a member of the **[Axes](Excel.Axes-graph-collection.md)** collection.
 

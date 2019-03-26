@@ -21,7 +21,7 @@ Marks a user-defined function as volatile. A volatile function must be recalcula
 
 _expression_. `Volatile`( `_Volatile_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

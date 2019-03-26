@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookRowsetComplete Event (Excel)
+title: Application.WorkbookRowsetComplete event (Excel)
 keywords: vbaxl10.chm504102
 f1_keywords:
 - vbaxl10.chm504102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookRowsetComplete Event (Excel)
+# Application.WorkbookRowsetComplete event (Excel)
 
 The  **WorkbookRowsetComplete** event occurs when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
 
@@ -21,7 +21,7 @@ The  **WorkbookRowsetComplete** event occurs when the user either drills through
 
 _expression_. `WorkbookRowsetComplete`( `_Wb_` , `_Description_` , `_Sheet_` , `_Success_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

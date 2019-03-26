@@ -19,7 +19,7 @@ Returns the name of the parent member for the parent hierarchy.  **String** Read
 
 _expression_. `ParentMember`
 
-_expression_ A variable that represents a [CalculatedMember](Excel.CalculatedMember.md) object.
+_expression_ A variable that represents a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
 ## Remarks

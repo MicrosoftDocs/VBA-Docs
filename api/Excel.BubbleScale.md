@@ -1,5 +1,5 @@
 ---
-title: BubbleScale Property
+title: BubbleScale property (Excel Graph)
 keywords: vbagr10.chm3076966
 f1_keywords:
 - vbagr10.chm3076966
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BubbleScale Property
+# BubbleScale property (Excel Graph)
 
 Returns or sets the scale factor for bubbles in the specified chart group. Can be an integer value from 0 (zero) to 300, corresponding to a percentage of the default size. Applies only to bubble charts. Read/write Long.
 

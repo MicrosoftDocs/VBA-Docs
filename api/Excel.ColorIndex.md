@@ -1,5 +1,5 @@
 ---
-title: ColorIndex property
+title: ColorIndex Property
 keywords: vbagr10.chm5207225
 f1_keywords:
 - vbagr10.chm5207225

@@ -21,7 +21,7 @@ Returns the mail system that's installed on the host machine. Read-only  **[xlMa
 
 _expression_. `MailSystem`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

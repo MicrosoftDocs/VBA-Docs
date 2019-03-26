@@ -21,7 +21,7 @@ Returns the group for the specified axis. Read-only
 
 _expression_. `AxisGroup`
 
-_expression_ A variable that represents an '[Axis](Excel.Axis(object).md)' object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Return value

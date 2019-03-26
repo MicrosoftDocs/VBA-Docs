@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetBeforeDelete Event (Excel)
+title: Workbook.SheetBeforeDelete event (Excel)
 keywords: vbaxl10.chm503112
 f1_keywords:
 - vbaxl10.chm503112
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetBeforeDelete Event (Excel)
+# Workbook.SheetBeforeDelete event (Excel)
 
 Occurs when any sheet is deleted.
 

@@ -1,5 +1,5 @@
 ---
-title: Bar3DGroup Property
+title: Bar3DGroup property (Excel Graph)
 keywords: vbagr10.chm5207118
 f1_keywords:
 - vbagr10.chm5207118
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Bar3DGroup Property
+# Bar3DGroup property (Excel Graph)
 
 Returns a  **[ChartGroup](Excel.ChartGroup-graph-object.md)** object that represents the specified bar chart group on a 3-D chart. Read-only.
 

@@ -21,7 +21,7 @@ Returns or sets the scale factor for bubbles in the specified chart group. Can b
 
 _expression_. `BubbleScale`
 
-_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
 ## Example

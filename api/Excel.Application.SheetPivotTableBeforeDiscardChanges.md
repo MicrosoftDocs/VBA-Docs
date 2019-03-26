@@ -1,5 +1,5 @@
 ---
-title: Application.SheetPivotTableBeforeDiscardChanges Event (Excel)
+title: Application.SheetPivotTableBeforeDiscardChanges event (Excel)
 keywords: vbaxl10.chm504107
 f1_keywords:
 - vbaxl10.chm504107
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetPivotTableBeforeDiscardChanges Event (Excel)
+# Application.SheetPivotTableBeforeDiscardChanges event (Excel)
 
 Occurs before changes to a PivotTable are discarded.
 

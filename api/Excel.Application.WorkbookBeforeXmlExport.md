@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforeXmlExport Event (Excel)
+title: Application.WorkbookBeforeXmlExport event (Excel)
 keywords: vbaxl10.chm504100
 f1_keywords:
 - vbaxl10.chm504100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforeXmlExport Event (Excel)
+# Application.WorkbookBeforeXmlExport event (Excel)
 
 Occurs before Microsoft Excel saves or exports XML data from the specified workbook.
 
@@ -21,7 +21,7 @@ Occurs before Microsoft Excel saves or exports XML data from the specified workb
 
 _expression_. `WorkbookBeforeXmlExport`( `_Wb_` , `_Map_` , `_Url_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

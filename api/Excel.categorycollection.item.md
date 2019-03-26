@@ -19,7 +19,7 @@ Returns a single object from the  **CategoryCollection** object.
 
 _expression_. `Item`_(Index)_
 
-_expression_ A variable that represents a [CategoryCollection](Excel.categorycollection.md) object.
+_expression_ A variable that represents a **[CategoryCollection](Excel.CategoryCollection.md)** object.
 
 
 ## Parameters

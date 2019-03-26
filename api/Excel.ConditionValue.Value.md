@@ -21,7 +21,7 @@ Returns or sets the shortest bar or longest bar threshold value for a data bar c
 
 _expression_.**Value**
 
-_expression_ A variable that represents a [ConditionValue](Excel.ConditionValue.md) object.
+_expression_ A variable that represents a **[ConditionValue](Excel.ConditionValue.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **Double** value that represents the distance, in points, from the to
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
+_expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
 ## See also

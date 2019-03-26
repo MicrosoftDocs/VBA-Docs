@@ -21,7 +21,7 @@ Returns or sets whether to order and remove duplicates when displaying the hiera
 
 _expression_. `HierarchizeDistinct`
 
-_expression_ A variable that returns a '[CalculatedMember](Excel.CalculatedMember.md)' object.
+_expression_ A variable that returns a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
 ## Return value

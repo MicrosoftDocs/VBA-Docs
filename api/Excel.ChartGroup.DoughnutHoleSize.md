@@ -21,7 +21,7 @@ Returns or sets the size of the hole in a doughnut chart group. The hole size is
 
 _expression_. `DoughnutHoleSize`
 
-_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Returns or sets the point on the specified axis where the other axis crosses. Re
 
 _expression_. `Crosses`
 
-_expression_ A variable that represents an [Axis](Excel.Axis-graph-object.md) object.
+_expression_ A variable that represents an **[Axis](Excel.Axis(object).md)** object.
 
 
 ## Remarks

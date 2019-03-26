@@ -1,5 +1,5 @@
 ---
-title: Count Property (Graph)
+title: Count property (Excel Graph)
 keywords: vbagr10.chm65654
 f1_keywords:
 - vbagr10.chm65654
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Count Property (Graph)
+# Count property (Excel Graph)
 
 Returns the number of objects in the specified collection. Read-only  **Long**.
 

@@ -21,7 +21,7 @@ Returns a  **String** value that represents the name of the object.
 
 _expression_.**Name**
 
-_expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
+_expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
 ## See also

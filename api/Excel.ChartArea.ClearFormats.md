@@ -21,7 +21,7 @@ Clears the formatting of the object.
 
 _expression_. `ClearFormats`
 
-_expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
+_expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
 ## Return value

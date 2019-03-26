@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetBeforeRightClick Event (Excel)
+title: Workbook.SheetBeforeRightClick event (Excel)
 keywords: vbaxl10.chm503087
 f1_keywords:
 - vbaxl10.chm503087
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetBeforeRightClick Event (Excel)
+# Workbook.SheetBeforeRightClick event (Excel)
 
 Occurs when any worksheet is right-clicked, before the default right-click action.
 

@@ -1,5 +1,5 @@
 ---
-title: Rows Property (Graph)
+title: Rows property (Excel Graph)
 keywords: vbagr10.chm5207942
 f1_keywords:
 - vbagr10.chm5207942
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Rows Property (Graph)
+# Rows property (Excel Graph)
 
 Returns a  **Range** object that represents the rows in the specified **Range** or **DataSheet** object. Read-only.
 

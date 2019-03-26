@@ -21,7 +21,7 @@ Sets the background graphic for a chart.
 
 _expression_. `SetBackgroundPicture`( `_Filename_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

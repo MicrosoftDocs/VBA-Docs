@@ -1,5 +1,5 @@
 ---
-title: Orientation Property (Graph)
+title: Orientation property (Excel Graph)
 keywords: vbagr10.chm65670
 f1_keywords:
 - vbagr10.chm65670
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Orientation Property (Graph)
+# Orientation property (Excel Graph)
 
 Returns or sets the text orientation. Can be an integer value from -90 degrees to 90 degrees or one of the following XlOrientation constants. Read/write XlTickLabelOrientation for all objects, except for the TickLabels object, which is read/write Variant.
 
@@ -23,7 +23,7 @@ Returns or sets the text orientation. Can be an integer value from -90 degrees t
 | **xlTickLabelOrientationUpward**|
 | **xlTickLabelOrientationVertical**|
 
-_expression_. `Orientation`
+_expression_.**Orientation**
 
  _expression_ Required. An expression that returns one of the above objects.
 

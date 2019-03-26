@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Action.Parent
 ms.assetid: 9c8079bc-382b-639a-0634-d964f4b778ef
-ms.date: 06/08/2017
+ms.date: 03/27/2019
 localization_priority: Normal
 ---
 
@@ -24,9 +24,6 @@ _expression_.**Parent**
 _expression_ A variable that represents an **[Action](Excel.Action.md)** object.
 
 
-## See also
 
-
-[Action Object](Excel.Action.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

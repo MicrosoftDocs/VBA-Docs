@@ -19,7 +19,7 @@ Returns the formatted text for the specified object. Read-only **String**.
 
 ## Syntax
 
-_expression_. `Text`
+_expression_.**Text**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

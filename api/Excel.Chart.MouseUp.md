@@ -1,5 +1,5 @@
 ---
-title: Chart.MouseUp Event (Excel)
+title: Chart.MouseUp event (Excel)
 keywords: vbaxl10.chm500077
 f1_keywords:
 - vbaxl10.chm500077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.MouseUp Event (Excel)
+# Chart.MouseUp event (Excel)
 
 Occurs when a mouse button is released while the pointer is over a chart.
 
@@ -21,7 +21,7 @@ Occurs when a mouse button is released while the pointer is over a chart.
 
 _expression_. `MouseUp`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

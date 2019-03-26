@@ -21,7 +21,7 @@ Returns or sets the position of the chart title on the chart. Read/write  **[xlC
 
 _expression_. `Position`
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## See also

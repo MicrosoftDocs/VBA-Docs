@@ -24,27 +24,22 @@ Using a property or method that does not apply to the type of object the  **Char
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Adjustments](Excel.chartformat.adjustments.md)|
-|[Application](Excel.ChartFormat.Application.md)|
-|[AutoShapeType](Excel.chartformat.autoshapetype.md)|
-|[Creator](Excel.ChartFormat.Creator.md)|
-|[Fill](Excel.ChartFormat.Fill.md)|
-|[Glow](Excel.ChartFormat.Glow.md)|
-|[Line](Excel.ChartFormat.Line.md)|
-|[Parent](Excel.ChartFormat.Parent.md)|
-|[PictureFormat](Excel.ChartFormat.PictureFormat.md)|
-|[Shadow](Excel.ChartFormat.Shadow.md)|
-|[SoftEdge](Excel.ChartFormat.SoftEdge.md)|
-|[TextFrame2](Excel.ChartFormat.TextFrame2.md)|
-|[ThreeD](Excel.ChartFormat.ThreeD.md)|
+- [Adjustments](Excel.ChartFormat.Adjustments.md)
+- [Application](Excel.ChartFormat.Application.md)
+- [AutoShapeType](Excel.ChartFormat.Autoshapetype.md)
+- [Creator](Excel.ChartFormat.Creator.md)
+- [Fill](Excel.ChartFormat.Fill.md)
+- [Glow](Excel.ChartFormat.Glow.md)
+- [Line](Excel.ChartFormat.Line.md)
+- [Parent](Excel.ChartFormat.Parent.md)
+- [PictureFormat](Excel.ChartFormat.PictureFormat.md)
+- [Shadow](Excel.ChartFormat.Shadow.md)
+- [SoftEdge](Excel.ChartFormat.SoftEdge.md)
+- [TextFrame2](Excel.ChartFormat.TextFrame2.md)
+- [ThreeD](Excel.ChartFormat.ThreeD.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

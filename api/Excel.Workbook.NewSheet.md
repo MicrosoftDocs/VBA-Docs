@@ -1,5 +1,5 @@
 ---
-title: Workbook.NewSheet Event (Excel)
+title: Workbook.NewSheet event (Excel)
 keywords: vbaxl10.chm503079
 f1_keywords:
 - vbaxl10.chm503079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.NewSheet Event (Excel)
+# Workbook.NewSheet event (Excel)
 
 Occurs when a new sheet is created in the workbook.
 

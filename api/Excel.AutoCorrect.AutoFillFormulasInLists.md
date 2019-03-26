@@ -21,7 +21,7 @@ Affects the creation of calculated columns created by automatic fill-down lists.
 
 _expression_. `AutoFillFormulasInLists`
 
-_expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an **[AutoCorrect](Excel.AutoCorrect(object).md)** object.
 
 
 ## Remarks

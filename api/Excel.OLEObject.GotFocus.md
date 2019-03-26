@@ -1,5 +1,5 @@
 ---
-title: OLEObject.GotFocus Event (Excel)
+title: OLEObject.GotFocus event (Excel)
 keywords: vbaxl10.chm501073
 f1_keywords:
 - vbaxl10.chm501073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.GotFocus Event (Excel)
+# OLEObject.GotFocus event (Excel)
 
 Occurs when an ActiveX control gets input focus.
 

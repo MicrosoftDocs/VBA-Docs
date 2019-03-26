@@ -1,5 +1,5 @@
 ---
-title: ApplyPictToEnd Property
+title: ApplyPictToEnd property (Excel Graph)
 keywords: vbagr10.chm67197
 f1_keywords:
 - vbagr10.chm67197
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplyPictToEnd Property
+# ApplyPictToEnd property (Excel Graph)
 
 True if a picture is applied to the end of the point or all points in the series. Read/write Boolean.
 

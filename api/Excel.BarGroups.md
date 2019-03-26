@@ -1,5 +1,5 @@
 ---
-title: BarGroups Method
+title: BarGroups method (Excel Graph)
 keywords: vbagr10.chm65546
 f1_keywords:
 - vbagr10.chm65546
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BarGroups Method
+# BarGroups method (Excel Graph)
 
 On a 2-D chart, this method returns an object that represents either a single bar chart group or a collection of all the bar chart groups.
 

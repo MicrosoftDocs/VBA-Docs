@@ -19,9 +19,9 @@ Selects the object.
 
 ## Syntax
 
-_expression_. `Select`
+_expression_.**Select**
 
-_expression_ A variable that represents an [AxisTitle](Excel.AxisTitle-graph-property.md) object.
+_expression_ A variable that represents an **[AxisTitle](Excel.AxisTitle(object).md)** object.
 
 
 ## Return value

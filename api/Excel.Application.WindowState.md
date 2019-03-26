@@ -21,7 +21,7 @@ Returns or sets the state of the window. Read/write  **[xlWindowState](Excel.XlW
 
 _expression_. `WindowState`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

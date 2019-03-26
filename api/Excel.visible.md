@@ -1,5 +1,5 @@
 ---
-title: Visible Property (Graph)
+title: Visible property (Excel Graph)
 keywords: vbagr10.chm66094
 f1_keywords:
 - vbagr10.chm66094
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Visible Property (Graph)
+# Visible property (Excel Graph)
 
 Visible property as it applies to the  **Application** object.
 

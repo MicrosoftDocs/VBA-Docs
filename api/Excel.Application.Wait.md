@@ -21,7 +21,7 @@ Pauses a running macro until a specified time. Returns  **True** if the specifie
 
 _expression_. `Wait`( `_Time_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

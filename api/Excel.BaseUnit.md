@@ -1,5 +1,5 @@
 ---
-title: BaseUnit Property
+title: BaseUnit property (Excel Graph)
 keywords: vbagr10.chm3076962
 f1_keywords:
 - vbagr10.chm3076962
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BaseUnit Property
+# BaseUnit property (Excel Graph)
 
 Returns or sets the base unit for the specified category axis Read/write XlTimeUnit .
 

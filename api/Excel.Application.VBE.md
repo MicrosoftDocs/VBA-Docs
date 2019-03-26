@@ -21,7 +21,7 @@ Returns a  **VBE** object that represents the Visual Basic Editor. Read-only.
 
 _expression_. `VBE`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

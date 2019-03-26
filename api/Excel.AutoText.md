@@ -1,5 +1,5 @@
 ---
-title: AutoText Property
+title: AutoText property (Excel Graph)
 keywords: vbagr10.chm65671
 f1_keywords:
 - vbagr10.chm65671
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoText Property
+# AutoText property (Excel Graph)
 
  **True** if the object automatically generates appropriate text based on context. Read/write **Boolean**.
 

@@ -19,7 +19,7 @@ Returns or sets the text orientation. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `Orientation`
+ _expression_.**Orientation**
 
 _expression_ A variable that represents a '[DisplayUnitLabel](PowerPoint.DisplayUnitLabel.md)' object.
 

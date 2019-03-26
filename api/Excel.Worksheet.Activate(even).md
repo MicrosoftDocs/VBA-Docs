@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Activate Event (Excel)
+title: Worksheet.Activate event (Excel)
 keywords: vbaxl10.chm502076
 f1_keywords:
 - vbaxl10.chm502076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.Activate Event (Excel)
+# Worksheet.Activate event (Excel)
 
 Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 

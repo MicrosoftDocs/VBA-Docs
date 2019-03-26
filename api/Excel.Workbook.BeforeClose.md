@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeClose Event (Excel)
+title: Workbook.BeforeClose event (Excel)
 keywords: vbaxl10.chm503076
 f1_keywords:
 - vbaxl10.chm503076
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.BeforeClose Event (Excel)
+# Workbook.BeforeClose event (Excel)
 
 Occurs before the workbook closes. If the workbook has been changed, this event occurs before the user is asked to save changes.
 

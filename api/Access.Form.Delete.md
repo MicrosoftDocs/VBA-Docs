@@ -41,7 +41,7 @@ The **AfterDelConfirm** event occurs after a record or records are actually dele
 If you cancel the **Delete** event, the **BeforeDelConfirm** and **AfterDelConfirm** events don't occur and the **Delete Confirm** dialog box isn't displayed.
 
 > [!NOTE] 
-> The **BeforeDelConfirm** and **AfterDelConfirm** events don't occur and the **Delete Confirm** dialog box isn't displayed if you clear the **Record Changes** check box under **Confirm** on the **Advanced** tab of the **Access Options** dialog box, available by choosing the **Microsoft Office** button > **Access Options**.
+> The **BeforeDelConfirm** and **AfterDelConfirm** events don't occur and the **Delete Confirm** dialog box isn't displayed if you clear the **Record Changes** check box under **Confirm** on the **Advanced** tab of the **Access Options** dialog box, available by choosing the Microsoft Office button, and then choosing **Access Options**.
 
 By running a macro or an event procedure when the **Delete** event occurs, you can prevent a record from being deleted or allow a record to be deleted only under certain conditions. You can also use a **Delete** event to display a dialog box asking whether the user wants to delete a record before it's deleted.
 

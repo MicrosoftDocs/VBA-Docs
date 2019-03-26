@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableAfterValueChange Event (Excel)
+title: Workbook.SheetPivotTableAfterValueChange event (Excel)
 keywords: vbaxl10.chm503102
 f1_keywords:
 - vbaxl10.chm503102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableAfterValueChange Event (Excel)
+# Workbook.SheetPivotTableAfterValueChange event (Excel)
 
 Occurs after a cell or range of cells inside a PivotTable are edited or recalculated (for cells that contain formulas).
 

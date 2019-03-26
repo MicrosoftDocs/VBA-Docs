@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetCalculate Event (Excel)
+title: Workbook.SheetCalculate event (Excel)
 keywords: vbaxl10.chm503090
 f1_keywords:
 - vbaxl10.chm503090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetCalculate Event (Excel)
+# Workbook.SheetCalculate event (Excel)
 
 Occurs after any worksheet is recalculated or after any changed data is plotted on a chart.
 

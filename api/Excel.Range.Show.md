@@ -19,7 +19,7 @@ Scrolls through the contents of the active window to move the range into view. T
 
 ## Syntax
 
-_expression_. `Show`
+_expression_.**Show**
 
 _expression_ A variable that represents a [Range](excel.range-graph-property.md) object.
 

@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the height, in points, of th
 
 _expression_.**Height**
 
-_expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
+_expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
 ## See also

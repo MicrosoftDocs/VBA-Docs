@@ -26,7 +26,7 @@ _expression_ A variable that represents a **[DoCmd](Access.DoCmd.md)** object.
 
 ## Remarks
 
-This method has the same effect as choosing the Microsoft Office button and then choosing **Close Database**. If you have any unsaved objects when you use the **CloseDatabase** method, the dialog boxes that appear are the same as those displayed when you choose **Close Database**. 
+This method has the same effect as choosing the Microsoft Office button, and then choosing **Close Database**. If you have any unsaved objects when you use the **CloseDatabase** method, the dialog boxes that appear are the same as those displayed when you choose **Close Database**. 
 
 
 

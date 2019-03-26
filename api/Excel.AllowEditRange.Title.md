@@ -19,9 +19,9 @@ Returns or sets the title of the range of cells that can edited on a protected s
 
 ## Syntax
 
-_expression_. `Title`
+_expression_.**Title**
 
-_expression_ A variable that represents an [AllowEditRange](Excel.AllowEditRange.md) object.
+_expression_ A variable that represents an **[AllowEditRange](Excel.AllowEditRange.md)** object.
 
 
 ## See also

@@ -55,40 +55,31 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Excel.CellFormat.Clear.md)|
+- [Clear](Excel.CellFormat.Clear.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[AddIndent](Excel.CellFormat.AddIndent.md)|
-|[Application](Excel.CellFormat.Application.md)|
-|[Borders](Excel.CellFormat.Borders.md)|
-|[Creator](Excel.CellFormat.Creator.md)|
-|[Font](Excel.CellFormat.Font.md)|
-|[FormulaHidden](Excel.CellFormat.FormulaHidden.md)|
-|[HorizontalAlignment](Excel.CellFormat.HorizontalAlignment.md)|
-|[IndentLevel](Excel.CellFormat.IndentLevel.md)|
-|[Interior](Excel.CellFormat.Interior.md)|
-|[Locked](Excel.CellFormat.Locked.md)|
-|[MergeCells](Excel.CellFormat.MergeCells.md)|
-|[NumberFormat](Excel.CellFormat.NumberFormat.md)|
-|[NumberFormatLocal](Excel.CellFormat.NumberFormatLocal.md)|
-|[Orientation](Excel.CellFormat.Orientation.md)|
-|[Parent](Excel.CellFormat.Parent.md)|
-|[ShrinkToFit](Excel.CellFormat.ShrinkToFit.md)|
-|[VerticalAlignment](Excel.CellFormat.VerticalAlignment.md)|
-|[WrapText](Excel.CellFormat.WrapText.md)|
+- [AddIndent](Excel.CellFormat.AddIndent.md)
+- [Application](Excel.CellFormat.Application.md)
+- [Borders](Excel.CellFormat.Borders.md)
+- [Creator](Excel.CellFormat.Creator.md)
+- [Font](Excel.CellFormat.Font.md)
+- [FormulaHidden](Excel.CellFormat.FormulaHidden.md)
+- [HorizontalAlignment](Excel.CellFormat.HorizontalAlignment.md)
+- [IndentLevel](Excel.CellFormat.IndentLevel.md)
+- [Interior](Excel.CellFormat.Interior.md)
+- [Locked](Excel.CellFormat.Locked.md)
+- [MergeCells](Excel.CellFormat.MergeCells.md)
+- [NumberFormat](Excel.CellFormat.NumberFormat.md)
+- [NumberFormatLocal](Excel.CellFormat.NumberFormatLocal.md)
+- [Orientation](Excel.CellFormat.Orientation.md)
+- [Parent](Excel.CellFormat.Parent.md)
+- [ShrinkToFit](Excel.CellFormat.ShrinkToFit.md)
+- [VerticalAlignment](Excel.CellFormat.VerticalAlignment.md)
+- [WrapText](Excel.CellFormat.WrapText.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

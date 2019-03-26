@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `CorrectSentenceCap`
 
-_expression_ A variable that represents an [AutoCorrect](Excel.AutoCorrect-graph-property.md) object.
+_expression_ A variable that represents an **[AutoCorrect](Excel.AutoCorrect(object).md)** object.
 
 
 ## Example

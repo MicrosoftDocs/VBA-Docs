@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookAfterXmlImport Event (Excel)
+title: Application.WorkbookAfterXmlImport event (Excel)
 keywords: vbaxl10.chm504099
 f1_keywords:
 - vbaxl10.chm504099
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookAfterXmlImport Event (Excel)
+# Application.WorkbookAfterXmlImport event (Excel)
 
 Occurs after an existing XML data connection is refreshed, or new XML data is imported into any open Microsoft Excel workbook.
 
@@ -21,7 +21,7 @@ Occurs after an existing XML data connection is refreshed, or new XML data is im
 
 _expression_. `WorkbookAfterXmlImport`( `_Wb_` , `_Map_` , `_IsRefresh_` , `_Result_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

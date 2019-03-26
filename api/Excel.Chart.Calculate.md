@@ -1,5 +1,5 @@
 ---
-title: Chart.Calculate Event (Excel)
+title: Chart.Calculate event (Excel)
 keywords: vbaxl10.chm500085
 f1_keywords:
 - vbaxl10.chm500085
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Calculate Event (Excel)
+# Chart.Calculate event (Excel)
 
 Occurs after the chart plots new or changed data, for the  **Chart** object.
 
@@ -21,7 +21,7 @@ Occurs after the chart plots new or changed data, for the  **Chart** object.
 
 _expression_. `Calculate`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Return value

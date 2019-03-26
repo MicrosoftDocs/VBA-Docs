@@ -1,5 +1,5 @@
 ---
-title: Application.SheetSelectionChange Event (Excel)
+title: Application.SheetSelectionChange event (Excel)
 keywords: vbaxl10.chm504074
 f1_keywords:
 - vbaxl10.chm504074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetSelectionChange Event (Excel)
+# Application.SheetSelectionChange event (Excel)
 
 Occurs when the selection changes on any worksheet (doesn't occur if the selection is on a chart sheet).
 

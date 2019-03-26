@@ -19,9 +19,9 @@ Selects the object.
 
 ## Syntax
 
-_expression_. `Select`
+_expression_.**Select**
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: Chart.MouseMove Event (Excel)
+title: Chart.MouseMove event (Excel)
 keywords: vbaxl10.chm500078
 f1_keywords:
 - vbaxl10.chm500078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.MouseMove Event (Excel)
+# Chart.MouseMove event (Excel)
 
 Occurs when the position of the mouse pointer changes over a chart.
 
@@ -21,7 +21,7 @@ Occurs when the position of the mouse pointer changes over a chart.
 
 _expression_. `MouseMove`( `_Button_` , `_Shift_` , `_x_` , `_y_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

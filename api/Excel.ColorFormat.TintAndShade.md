@@ -21,7 +21,7 @@ Returns or sets a  **Single** that lightens or darkens a color.
 
 _expression_. `TintAndShade`
 
-_expression_ A variable that represents a [ColorFormat](Excel.ColorFormat.md) object.
+_expression_ A variable that represents a **[ColorFormat](Excel.ColorFormat.md)** object.
 
 
 ## Remarks

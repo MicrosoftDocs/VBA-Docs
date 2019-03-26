@@ -19,7 +19,7 @@ Returns or sets the title of the  **Table** object. Read/write.
 
 ## Syntax
 
- _expression_. `Title`
+_expression_.**Title**
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

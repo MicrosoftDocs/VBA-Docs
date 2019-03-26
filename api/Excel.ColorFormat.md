@@ -52,18 +52,18 @@ End With
 
 ## Properties
 
+- [Application](Excel.ColorFormat.Application.md)
+- [Brightness](Excel.ColorFormat.Brightness.md)
+- [Creator](Excel.ColorFormat.Creator.md)
+- [ObjectThemeColor](Excel.ColorFormat.ObjectThemeColor.md)
+- [Parent](Excel.ColorFormat.Parent.md)
+- [RGB](Excel.ColorFormat.RGB.md)
+- [SchemeColor](Excel.ColorFormat.SchemeColor.md)
+- [TintAndShade](Excel.ColorFormat.TintAndShade.md)
+- [Type](Excel.ColorFormat.Type.md)
 
+## See also
 
-|Name|
-|:-----|
-|[Application](Excel.ColorFormat.Application.md)|
-|[Brightness](Excel.ColorFormat.Brightness.md)|
-|[Creator](Excel.ColorFormat.Creator.md)|
-|[ObjectThemeColor](Excel.ColorFormat.ObjectThemeColor.md)|
-|[Parent](Excel.ColorFormat.Parent.md)|
-|[RGB](Excel.ColorFormat.RGB.md)|
-|[SchemeColor](Excel.ColorFormat.SchemeColor.md)|
-|[TintAndShade](Excel.ColorFormat.TintAndShade.md)|
-|[Type](Excel.ColorFormat.Type.md)|
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

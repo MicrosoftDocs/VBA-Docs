@@ -48,26 +48,21 @@ Worksheets("Sheet1").Range("A1:G1"). _
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.Borders.Application.md)|
-|[Color](Excel.Borders.Color.md)|
-|[ColorIndex](Excel.Borders.ColorIndex.md)|
-|[Count](Excel.Borders.Count.md)|
-|[Creator](Excel.Borders.Creator.md)|
-|[Item](Excel.Borders.Item.md)|
-|[LineStyle](Excel.Borders.LineStyle.md)|
-|[Parent](Excel.Borders.Parent.md)|
-|[ThemeColor](Excel.Borders.ThemeColor.md)|
-|[TintAndShade](Excel.Borders.TintAndShade.md)|
-|[Value](Excel.Borders.Value.md)|
-|[Weight](Excel.Borders.Weight.md)|
+- [Application](Excel.Borders.Application.md)
+- [Color](Excel.Borders.Color.md)
+- [ColorIndex](Excel.Borders.ColorIndex.md)
+- [Count](Excel.Borders.Count.md)
+- [Creator](Excel.Borders.Creator.md)
+- [Item](Excel.Borders.Item.md)
+- [LineStyle](Excel.Borders.LineStyle.md)
+- [Parent](Excel.Borders.Parent.md)
+- [ThemeColor](Excel.Borders.ThemeColor.md)
+- [TintAndShade](Excel.Borders.TintAndShade.md)
+- [Value](Excel.Borders.Value.md)
+- [Weight](Excel.Borders.Weight.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

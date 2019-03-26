@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 _expression_.**Top**
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## See also

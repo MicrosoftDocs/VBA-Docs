@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetBeforeDoubleClick Event (Excel)
+title: Workbook.SheetBeforeDoubleClick event (Excel)
 keywords: vbaxl10.chm503086
 f1_keywords:
 - vbaxl10.chm503086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetBeforeDoubleClick Event (Excel)
+# Workbook.SheetBeforeDoubleClick event (Excel)
 
 Occurs when any worksheet is double-clicked, before the default double-click action.
 

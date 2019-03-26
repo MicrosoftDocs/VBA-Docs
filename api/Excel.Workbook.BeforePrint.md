@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforePrint Event (Excel)
+title: Workbook.BeforePrint event (Excel)
 keywords: vbaxl10.chm503078
 f1_keywords:
 - vbaxl10.chm503078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.BeforePrint Event (Excel)
+# Workbook.BeforePrint event (Excel)
 
 Occurs before the workbook (or anything in it) is printed.
 

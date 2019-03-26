@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookSync Event (Excel)
+title: Application.WorkbookSync event (Excel)
 keywords: vbaxl10.chm504097
 f1_keywords:
 - vbaxl10.chm504097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookSync Event (Excel)
+# Application.WorkbookSync event (Excel)
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 

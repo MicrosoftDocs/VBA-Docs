@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
+_expression_ A variable that represents a **[CategoryCollection](Excel.CategoryCollection.md)** object.
 
 
 ## Example

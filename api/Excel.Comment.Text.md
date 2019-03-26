@@ -19,9 +19,9 @@ Sets comment text.
 
 ## Syntax
 
-_expression_. `Text`( `_Text_` , `_Start_` , `_Overwrite_` )
+_expression_.**Text** (_Text_, _Start_, _Overwrite_)
 
-_expression_ A variable that represents a [Comment](Excel.Comment.md) object.
+_expression_ A variable that represents a **[Comment](Excel.Comment.md)** object.
 
 
 ## Parameters

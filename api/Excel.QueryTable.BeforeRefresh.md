@@ -1,5 +1,5 @@
 ---
-title: QueryTable.BeforeRefresh Event (Excel)
+title: QueryTable.BeforeRefresh event (Excel)
 keywords: vbaxl10.chm519073
 f1_keywords:
 - vbaxl10.chm519073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# QueryTable.BeforeRefresh Event (Excel)
+# QueryTable.BeforeRefresh event (Excel)
 
 Occurs before any refreshes of the query table. This includes refreshes resulting from calling the  **Refresh** method, from the user's actions in the product, and from opening the workbook containing the query table.
 

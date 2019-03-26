@@ -14,7 +14,7 @@ localization_priority: Normal
 
 # Application.GetOption method (Access)
 
-The **GetOption** method returns the current value of an option in the **Access Options** dialog box, available by clicking the Microsoft Office button, and then clicking **Access Options**. **Variant**.
+The **GetOption** method returns the current value of an option in the **Access Options** dialog box, available by choosing the Microsoft Office button, and then choosing **Access Options**. **Variant**.
 
 
 ## Syntax

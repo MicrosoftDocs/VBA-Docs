@@ -1,5 +1,5 @@
 ---
-title: Backward Property
+title: Backward property (Excel Graph)
 keywords: vbagr10.chm65721
 f1_keywords:
 - vbagr10.chm65721
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Backward Property
+# Backward property (Excel Graph)
 
 Returns or sets the number of periods (or units on a scatter chart) that the trendline extends backward. Read/write  **Long**.
 

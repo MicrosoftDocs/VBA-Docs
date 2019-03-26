@@ -21,7 +21,7 @@ Returns a  **[ChartTitle](Excel.ChartTitle(object).md)** object that represents 
 
 _expression_. `ChartTitle`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Example

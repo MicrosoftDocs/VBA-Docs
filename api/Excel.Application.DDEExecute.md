@@ -21,7 +21,7 @@ Runs a command or performs some other action or actions in another application b
 
 _expression_. `DDEExecute`( `_Channel_` , `_String_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

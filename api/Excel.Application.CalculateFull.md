@@ -21,7 +21,7 @@ Forces a full calculation of the data in all open workbooks.
 
 _expression_. `CalculateFull`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

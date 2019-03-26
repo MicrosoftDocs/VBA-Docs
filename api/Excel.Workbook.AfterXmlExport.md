@@ -1,5 +1,5 @@
 ---
-title: Workbook.AfterXmlExport Event (Excel)
+title: Workbook.AfterXmlExport event (Excel)
 keywords: vbaxl10.chm503100
 f1_keywords:
 - vbaxl10.chm503100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.AfterXmlExport Event (Excel)
+# Workbook.AfterXmlExport event (Excel)
 
 Occurs after Microsoft Excel saves or exports XML data from the specified workbook. 
 

@@ -21,7 +21,7 @@ Returns or sets the adjustment value specified by the  **Index** argument. Read/
 
 _expression_.**Item** (_Index_)
 
-_expression_ A variable that represents an [Adjustments](Excel.Adjustments.md) object.
+_expression_ A variable that represents an **[Adjustments](Excel.Adjustments.md)** object.
 
 
 ## Parameters

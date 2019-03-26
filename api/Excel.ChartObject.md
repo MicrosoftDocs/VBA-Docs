@@ -46,51 +46,42 @@ Worksheets("sheet1").ChartObjects("chart 1").RoundedCorners = True
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](Excel.ChartObject.Activate.md)|
-|[BringToFront](Excel.ChartObject.BringToFront.md)|
-|[Copy](Excel.ChartObject.Copy.md)|
-|[CopyPicture](Excel.ChartObject.CopyPicture.md)|
-|[Cut](Excel.ChartObject.Cut.md)|
-|[Delete](Excel.ChartObject.Delete.md)|
-|[Duplicate](Excel.ChartObject.Duplicate.md)|
-|[Select](Excel.ChartObject.Select.md)|
-|[SendToBack](Excel.ChartObject.SendToBack.md)|
+- [Activate](Excel.ChartObject.Activate.md)
+- [BringToFront](Excel.ChartObject.BringToFront.md)
+- [Copy](Excel.ChartObject.Copy.md)
+- [CopyPicture](Excel.ChartObject.CopyPicture.md)
+- [Cut](Excel.ChartObject.Cut.md)
+- [Delete](Excel.ChartObject.Delete.md)
+- [Duplicate](Excel.ChartObject.Duplicate.md)
+- [Select](Excel.ChartObject.Select.md)
+- [SendToBack](Excel.ChartObject.SendToBack.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[Application](Excel.ChartObject.Application.md)|
-|[BottomRightCell](Excel.ChartObject.BottomRightCell.md)|
-|[Chart](Excel.ChartObject.Chart.md)|
-|[Creator](Excel.ChartObject.Creator.md)|
-|[Height](Excel.ChartObject.Height.md)|
-|[Index](Excel.ChartObject.Index.md)|
-|[Left](Excel.ChartObject.Left.md)|
-|[Locked](Excel.ChartObject.Locked.md)|
-|[Name](Excel.ChartObject.Name.md)|
-|[Parent](Excel.ChartObject.Parent.md)|
-|[Placement](Excel.ChartObject.Placement.md)|
-|[PrintObject](Excel.ChartObject.PrintObject.md)|
-|[ProtectChartObject](Excel.ChartObject.ProtectChartObject.md)|
-|[RoundedCorners](Excel.ChartObject.RoundedCorners.md)|
-|[Shadow](Excel.ChartObject.Shadow.md)|
-|[ShapeRange](Excel.ChartObject.ShapeRange.md)|
-|[Top](Excel.ChartObject.Top.md)|
-|[TopLeftCell](Excel.ChartObject.TopLeftCell.md)|
-|[Visible](Excel.ChartObject.Visible.md)|
-|[Width](Excel.ChartObject.Width.md)|
-|[ZOrder](Excel.ChartObject.ZOrder.md)|
+- [Application](Excel.ChartObject.Application.md)
+- [BottomRightCell](Excel.ChartObject.BottomRightCell.md)
+- [Chart](Excel.ChartObject.Chart.md)
+- [Creator](Excel.ChartObject.Creator.md)
+- [Height](Excel.ChartObject.Height.md)
+- [Index](Excel.ChartObject.Index.md)
+- [Left](Excel.ChartObject.Left.md)
+- [Locked](Excel.ChartObject.Locked.md)
+- [Name](Excel.ChartObject.Name.md)
+- [Parent](Excel.ChartObject.Parent.md)
+- [Placement](Excel.ChartObject.Placement.md)
+- [PrintObject](Excel.ChartObject.PrintObject.md)
+- [ProtectChartObject](Excel.ChartObject.ProtectChartObject.md)
+- [RoundedCorners](Excel.ChartObject.RoundedCorners.md)
+- [Shadow](Excel.ChartObject.Shadow.md)
+- [ShapeRange](Excel.ChartObject.ShapeRange.md)
+- [Top](Excel.ChartObject.Top.md)
+- [TopLeftCell](Excel.ChartObject.TopLeftCell.md)
+- [Visible](Excel.ChartObject.Visible.md)
+- [Width](Excel.ChartObject.Width.md)
+- [ZOrder](Excel.ChartObject.ZOrder.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

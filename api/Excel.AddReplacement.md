@@ -1,5 +1,5 @@
 ---
-title: AddReplacement Method
+title: AddReplacement method (Excel Graph)
 keywords: vbagr10.chm66682
 f1_keywords:
 - vbagr10.chm66682
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AddReplacement Method
+# AddReplacement method (Excel Graph)
 
 Adds an entry to the array of AutoCorrect replacements.
 

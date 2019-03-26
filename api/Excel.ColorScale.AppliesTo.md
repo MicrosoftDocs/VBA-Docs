@@ -21,7 +21,7 @@ Returns a  **[Range](Excel.Range(object).md)** object specifying the cell range 
 
 _expression_.**AppliesTo**
 
-_expression_ A variable that represents a [ColorScale](Excel.ColorScale.md) object.
+_expression_ A variable that represents a **[ColorScale](Excel.ColorScale.md)** object.
 
 
 ## See also

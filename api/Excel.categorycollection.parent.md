@@ -19,7 +19,7 @@ Returns an  **Object** that represents the parent object of the specified[Catego
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [CategoryCollection object (Excel)](Excel.categorycollection.md) object.
+_expression_ A variable that represents a **[CategoryCollection](Excel.CategoryCollection.md)** object.
 
 
 ## Remarks

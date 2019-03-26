@@ -21,7 +21,7 @@ Causes the specified chart to be redrawn immediately.
 
 _expression_. `Refresh`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns a  **[FileDialog](Office.FileDialog.md)** object representing an instanc
 
 _expression_. `FileDialog`( `_fileDialogType_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

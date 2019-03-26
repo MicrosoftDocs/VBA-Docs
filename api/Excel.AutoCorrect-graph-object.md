@@ -1,5 +1,5 @@
 ---
-title: AutoCorrect Object
+title: AutoCorrect object (Excel Graph)
 keywords: vbagr10.chm3077641
 f1_keywords:
 - vbagr10.chm3077641
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoCorrect Object
+# AutoCorrect object (Excel Graph)
 
 Contains Microsoft Graph AutoCorrect attributes (capitalization of names of days, correction of two initial capital letters, automatic correction list, and so on).
 

@@ -1,5 +1,5 @@
 ---
-title: Chart.BeforeDoubleClick Event (Excel)
+title: Chart.BeforeDoubleClick event (Excel)
 keywords: vbaxl10.chm500082
 f1_keywords:
 - vbaxl10.chm500082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.BeforeDoubleClick Event (Excel)
+# Chart.BeforeDoubleClick event (Excel)
 
 Occurs when a chart element is double-clicked, before the default double-click action.
 
@@ -21,7 +21,7 @@ Occurs when a chart element is double-clicked, before the default double-click a
 
 _expression_. `BeforeDoubleClick`( `_ElementID_` , `_Arg1_` , `_Arg2_` , `_Cancel_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

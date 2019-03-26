@@ -1,5 +1,5 @@
 ---
-title: BarShape Property
+title: BarShape property (Excel Graph)
 keywords: vbagr10.chm66939
 f1_keywords:
 - vbagr10.chm66939
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# BarShape Property
+# BarShape property (Excel Graph)
 
 Returns or sets the shape used with the specified 3-D bar or column chart. Read/write XlBarShape .
 

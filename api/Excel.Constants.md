@@ -13,7 +13,7 @@ localization_priority: Normal
 
 This enumeration groups together constants used with various Excel methods.
 
-
+<br/>
 
 |Name|Value|Description|
 |:-----|:-----|:-----|

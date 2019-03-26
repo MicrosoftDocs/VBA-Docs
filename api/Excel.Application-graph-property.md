@@ -1,5 +1,5 @@
 ---
-title: Application Property
+title: Application property (Excel Graph)
 keywords: vbagr10.chm3076941
 f1_keywords:
 - vbagr10.chm3076941
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Property
+# Application property (Excel Graph)
 
 Returns an Application object that represents the Microsoft Graph application. Read-only Application object.
 

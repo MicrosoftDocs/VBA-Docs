@@ -1,5 +1,5 @@
 ---
-title: Name Property (Graph)
+title: Name property (Excel Graph)
 keywords: vbagr10.chm3077554
 f1_keywords:
 - vbagr10.chm3077554
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Name Property (Graph)
+# Name property (Excel Graph)
 
 Name property as it applies to the  **Application** and **Trendline** objects.
 

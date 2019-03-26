@@ -21,7 +21,7 @@ Returns or sets the number of fixed decimal places used when the  **[FixedDecima
 
 _expression_. `FixedDecimalPlaces`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

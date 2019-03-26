@@ -1,5 +1,5 @@
 ---
-title: Bold Property
+title: Bold property (Excel Graph)
 keywords: vbagr10.chm3076964
 f1_keywords:
 - vbagr10.chm3076964
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Bold Property
+# Bold property (Excel Graph)
 
 True if the font style is bold. Read/write Variant.
 

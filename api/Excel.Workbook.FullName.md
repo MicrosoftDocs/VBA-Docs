@@ -19,7 +19,7 @@ Returns the name of the object, including its path on disk, as a string. Read-on
 
 ## Syntax
 
-_expression_. `FullName`
+_expression_.**FullName**
 
 _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object.
 

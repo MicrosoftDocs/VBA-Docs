@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that indicates if the objects are locked.
 
 _expression_.**Locked**
 
-_expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
+_expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
 ## Remarks

@@ -21,7 +21,7 @@ Returns a  **[ShapeRange](Excel.ShapeRange.md)** object that represents the spec
 
 _expression_. `ShapeRange`
 
- _expression_ An expression that returns a [ChartObjects](Excel.ChartObjects.md) object.
+ _expression_ An expression that returns a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
 ## Example

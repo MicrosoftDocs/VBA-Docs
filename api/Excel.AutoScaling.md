@@ -1,5 +1,5 @@
 ---
-title: AutoScaling Property
+title: AutoScaling property (Excel Graph)
 keywords: vbagr10.chm65643
 f1_keywords:
 - vbagr10.chm65643
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AutoScaling Property
+# AutoScaling property (Excel Graph)
 
 True if Microsoft Graph scales a 3-D chart so that it's closer in size to the equivalent 2-D chart. The RightAngleAxes property must be True. Read/write Boolean.
 

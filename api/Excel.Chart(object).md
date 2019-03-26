@@ -23,10 +23,8 @@ The chart can be either an embedded chart (contained in a **[ChartObject](Excel.
 
 The following properties and methods for returning a **Chart** object are described in the example section:
 
--  **Charts** method
-    
--  **ActiveChart** property
-    
+-  **Charts** method    
+-  **ActiveChart** property   
 -  **ActiveSheet** property
     
 
@@ -85,127 +83,121 @@ ActiveSheet.SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbBlue
 
 ## Events
 
-|Name|
-|:-----|
-|[Activate](Excel.Chart.Activate(even).md)|
-|[BeforeDoubleClick](Excel.Chart.BeforeDoubleClick.md)|
-|[BeforeRightClick](Excel.Chart.BeforeRightClick.md)|
-|[Calculate](Excel.Chart.Calculate.md)|
-|[Deactivate](Excel.Chart.Deactivate.md)|
-|[MouseDown](Excel.Chart.MouseDown.md)|
-|[MouseMove](Excel.Chart.MouseMove.md)|
-|[MouseUp](Excel.Chart.MouseUp.md)|
-|[Resize](Excel.Chart.Resize.md)|
-|[Select](Excel.Chart.Select(even).md)|
-|[SeriesChange](Excel.Chart.SeriesChange.md)|
+- [Activate](Excel.Chart.Activate(even).md)
+- [BeforeDoubleClick](Excel.Chart.BeforeDoubleClick.md)
+- [BeforeRightClick](Excel.Chart.BeforeRightClick.md)
+- [Calculate](Excel.Chart.Calculate.md)
+- [Deactivate](Excel.Chart.Deactivate.md)
+- [MouseDown](Excel.Chart.MouseDown.md)
+- [MouseMove](Excel.Chart.MouseMove.md)
+- [MouseUp](Excel.Chart.MouseUp.md)
+- [Resize](Excel.Chart.Resize.md)
+- [Select](Excel.Chart.Select(even).md)
+- [SeriesChange](Excel.Chart.SeriesChange.md)
 
 ## Methods
 
-|Name|
-|:-----|
-|[Activate](Excel.Chart.Activate(method).md)|
-|[ApplyChartTemplate](Excel.Chart.ApplyChartTemplate.md)|
-|[ApplyDataLabels](Excel.Chart.ApplyDataLabels.md)|
-|[ApplyLayout](Excel.Chart.ApplyLayout.md)|
-|[Axes](Excel.Chart.Axes.md)|
-|[ChartGroups](Excel.Chart.ChartGroups.md)|
-|[ChartObjects](Excel.Chart.ChartObjects.md)|
-|[ChartWizard](Excel.Chart.ChartWizard.md)|
-|[CheckSpelling](Excel.Chart.CheckSpelling.md)|
-|[ClearToMatchColorStyle](Excel.chart.cleartomatchcolorstyle.md)|
-|[ClearToMatchStyle](Excel.Chart.ClearToMatchStyle.md)|
-|[Copy](Excel.Chart.Copy.md)|
-|[CopyPicture](Excel.Chart.CopyPicture.md)|
-|[Delete](Excel.Chart.Delete.md)|
-|[Evaluate](Excel.Chart.Evaluate.md)|
-|[Export](Excel.Chart.Export.md)|
-|[ExportAsFixedFormat](Excel.Chart.ExportAsFixedFormat.md)|
-|[FullSeriesCollection](Excel.chart.fullseriescollection.md)|
-|[GetChartElement](Excel.Chart.GetChartElement.md)|
-|[Location](Excel.Chart.Location.md)|
-|[Move](Excel.Chart.Move.md)|
-|[OLEObjects](Excel.Chart.OLEObjects.md)|
-|[Paste](Excel.Chart.Paste.md)|
-|[PrintOut](Excel.Chart.PrintOut.md)|
-|[PrintPreview](Excel.Chart.PrintPreview.md)|
-|[Protect](Excel.Chart.Protect.md)|
-|[Refresh](Excel.Chart.Refresh.md)|
-|[SaveAs](Excel.Chart.SaveAs.md)|
-|[SaveChartTemplate](Excel.Chart.SaveChartTemplate.md)|
-|[Select](Excel.Chart.Select(method).md)|
-|[SeriesCollection](Excel.Chart.SeriesCollection.md)|
-|[SetBackgroundPicture](Excel.Chart.SetBackgroundPicture.md)|
-|[SetDefaultChart](Excel.Chart.SetDefaultChart.md)|
-|[SetElement](Excel.Chart.SetElement.md)|
-|[SetSourceData](Excel.Chart.SetSourceData.md)|
-|[Unprotect](Excel.Chart.Unprotect.md)|
+- [Activate](Excel.Chart.Activate(method).md)
+- [ApplyChartTemplate](Excel.Chart.ApplyChartTemplate.md)
+- [ApplyDataLabels](Excel.Chart.ApplyDataLabels.md)
+- [ApplyLayout](Excel.Chart.ApplyLayout.md)
+- [Axes](Excel.Chart.Axes.md)
+- [ChartGroups](Excel.Chart.ChartGroups.md)
+- [ChartObjects](Excel.Chart.ChartObjects.md)
+- [ChartWizard](Excel.Chart.ChartWizard.md)
+- [CheckSpelling](Excel.Chart.CheckSpelling.md)
+- [ClearToMatchColorStyle](Excel.chart.cleartomatchcolorstyle.md)
+- [ClearToMatchStyle](Excel.Chart.ClearToMatchStyle.md)
+- [Copy](Excel.Chart.Copy.md)
+- [CopyPicture](Excel.Chart.CopyPicture.md)
+- [Delete](Excel.Chart.Delete.md)
+- [Evaluate](Excel.Chart.Evaluate.md)
+- [Export](Excel.Chart.Export.md)
+- [ExportAsFixedFormat](Excel.Chart.ExportAsFixedFormat.md)
+- [FullSeriesCollection](Excel.chart.fullseriescollection.md)
+- [GetChartElement](Excel.Chart.GetChartElement.md)
+- [Location](Excel.Chart.Location.md)
+- [Move](Excel.Chart.Move.md)
+- [OLEObjects](Excel.Chart.OLEObjects.md)
+- [Paste](Excel.Chart.Paste.md)
+- [PrintOut](Excel.Chart.PrintOut.md)
+- [PrintPreview](Excel.Chart.PrintPreview.md)
+- [Protect](Excel.Chart.Protect.md)
+- [Refresh](Excel.Chart.Refresh.md)
+- [SaveAs](Excel.Chart.SaveAs.md)
+- [SaveChartTemplate](Excel.Chart.SaveChartTemplate.md)
+- [Select](Excel.Chart.Select(method).md)
+- [SeriesCollection](Excel.Chart.SeriesCollection.md)
+- [SetBackgroundPicture](Excel.Chart.SetBackgroundPicture.md)
+- [SetDefaultChart](Excel.Chart.SetDefaultChart.md)
+- [SetElement](Excel.Chart.SetElement.md)
+- [SetSourceData](Excel.Chart.SetSourceData.md)
+- [Unprotect](Excel.Chart.Unprotect.md)
 
 ## Properties
 
-|Name|
-|:-----|
-|[Application](Excel.Chart.Application.md)|
-|[AutoScaling](Excel.Chart.AutoScaling.md)|
-|[BackWall](Excel.Chart.BackWall.md)|
-|[BarShape](Excel.Chart.BarShape.md)|
-|[CategoryLabelLevel](Excel.chart.categorylabellevel.md)|
-|[ChartArea](Excel.Chart.ChartArea.md)|
-|[ChartColor](Excel.chart.chartcolor.md)|
-|[ChartStyle](Excel.Chart.ChartStyle.md)|
-|[ChartTitle](Excel.Chart.ChartTitle.md)|
-|[ChartType](Excel.Chart.ChartType.md)|
-|[CodeName](Excel.Chart.CodeName.md)|
-|[Creator](Excel.Chart.Creator.md)|
-|[DataTable](Excel.Chart.DataTable.md)|
-|[DepthPercent](Excel.Chart.DepthPercent.md)|
-|[DisplayBlanksAs](Excel.Chart.DisplayBlanksAs.md)|
-|[Elevation](Excel.Chart.Elevation.md)|
-|[Floor](Excel.Chart.Floor.md)|
-|[GapDepth](Excel.Chart.GapDepth.md)|
-|[HasAxis](Excel.Chart.HasAxis.md)|
-|[HasDataTable](Excel.Chart.HasDataTable.md)|
-|[HasLegend](Excel.Chart.HasLegend.md)|
-|[HasTitle](Excel.Chart.HasTitle.md)|
-|[HeightPercent](Excel.Chart.HeightPercent.md)|
-|[Hyperlinks](Excel.Chart.Hyperlinks.md)|
-|[Index](Excel.Chart.Index.md)|
-|[Legend](Excel.Chart.Legend.md)|
-|[MailEnvelope](Excel.Chart.MailEnvelope.md)|
-|[Name](Excel.Chart.Name.md)|
-|[Next](Excel.Chart.Next.md)|
-|[PageSetup](Excel.Chart.PageSetup.md)|
-|[Parent](Excel.Chart.Parent.md)|
-|[Perspective](Excel.Chart.Perspective.md)|
-|[PivotLayout](Excel.Chart.PivotLayout.md)|
-|[PlotArea](Excel.Chart.PlotArea.md)|
-|[PlotBy](Excel.Chart.PlotBy.md)|
-|[PlotVisibleOnly](Excel.Chart.PlotVisibleOnly.md)|
-|[Previous](Excel.Chart.Previous.md)|
-|[PrintedCommentPages](Excel.Chart.PrintedCommentPages.md)|
-|[ProtectContents](Excel.Chart.ProtectContents.md)|
-|[ProtectData](Excel.Chart.ProtectData.md)|
-|[ProtectDrawingObjects](Excel.Chart.ProtectDrawingObjects.md)|
-|[ProtectFormatting](Excel.Chart.ProtectFormatting.md)|
-|[ProtectionMode](Excel.Chart.ProtectionMode.md)|
-|[ProtectSelection](Excel.Chart.ProtectSelection.md)|
-|[RightAngleAxes](Excel.Chart.RightAngleAxes.md)|
-|[Rotation](Excel.Chart.Rotation.md)|
-|[SeriesNameLevel](Excel.chart.seriesnamelevel.md)|
-|[Shapes](Excel.Chart.Shapes.md)|
-|[ShowAllFieldButtons](Excel.Chart.ShowAllFieldButtons.md)|
-|[ShowAxisFieldButtons](Excel.Chart.ShowAxisFieldButtons.md)|
-|[ShowDataLabelsOverMaximum](Excel.Chart.ShowDataLabelsOverMaximum.md)|
-|[ShowExpandCollapseEntireFieldButtons](Excel.chart.showexpandcollapseentirefieldbuttons.md)|
-|[ShowLegendFieldButtons](Excel.Chart.ShowLegendFieldButtons.md)|
-|[ShowReportFilterFieldButtons](Excel.Chart.ShowReportFilterFieldButtons.md)|
-|[ShowValueFieldButtons](Excel.Chart.ShowValueFieldButtons.md)|
-|[SideWall](Excel.Chart.SideWall.md)|
-|[Tab](Excel.Chart.Tab.md)|
-|[Visible](Excel.Chart.Visible.md)|
-|[Walls](Excel.Chart.Walls.md)|
+- [Application](Excel.Chart.Application.md)
+- [AutoScaling](Excel.Chart.AutoScaling.md)
+- [BackWall](Excel.Chart.BackWall.md)
+- [BarShape](Excel.Chart.BarShape.md)
+- [CategoryLabelLevel](Excel.chart.categorylabellevel.md)
+- [ChartArea](Excel.Chart.ChartArea.md)
+- [ChartColor](Excel.chart.chartcolor.md)
+- [ChartStyle](Excel.Chart.ChartStyle.md)
+- [ChartTitle](Excel.Chart.ChartTitle.md)
+- [ChartType](Excel.Chart.ChartType.md)
+- [CodeName](Excel.Chart.CodeName.md)
+- [Creator](Excel.Chart.Creator.md)
+- [DataTable](Excel.Chart.DataTable.md)
+- [DepthPercent](Excel.Chart.DepthPercent.md)
+- [DisplayBlanksAs](Excel.Chart.DisplayBlanksAs.md)
+- [Elevation](Excel.Chart.Elevation.md)
+- [Floor](Excel.Chart.Floor.md)
+- [GapDepth](Excel.Chart.GapDepth.md)
+- [HasAxis](Excel.Chart.HasAxis.md)
+- [HasDataTable](Excel.Chart.HasDataTable.md)
+- [HasLegend](Excel.Chart.HasLegend.md)
+- [HasTitle](Excel.Chart.HasTitle.md)
+- [HeightPercent](Excel.Chart.HeightPercent.md)
+- [Hyperlinks](Excel.Chart.Hyperlinks.md)
+- [Index](Excel.Chart.Index.md)
+- [Legend](Excel.Chart.Legend.md)
+- [MailEnvelope](Excel.Chart.MailEnvelope.md)
+- [Name](Excel.Chart.Name.md)
+- [Next](Excel.Chart.Next.md)
+- [PageSetup](Excel.Chart.PageSetup.md)
+- [Parent](Excel.Chart.Parent.md)
+- [Perspective](Excel.Chart.Perspective.md)
+- [PivotLayout](Excel.Chart.PivotLayout.md)
+- [PlotArea](Excel.Chart.PlotArea.md)
+- [PlotBy](Excel.Chart.PlotBy.md)
+- [PlotVisibleOnly](Excel.Chart.PlotVisibleOnly.md)
+- [Previous](Excel.Chart.Previous.md)
+- [PrintedCommentPages](Excel.Chart.PrintedCommentPages.md)
+- [ProtectContents](Excel.Chart.ProtectContents.md)
+- [ProtectData](Excel.Chart.ProtectData.md)
+- [ProtectDrawingObjects](Excel.Chart.ProtectDrawingObjects.md)
+- [ProtectFormatting](Excel.Chart.ProtectFormatting.md)
+- [ProtectionMode](Excel.Chart.ProtectionMode.md)
+- [ProtectSelection](Excel.Chart.ProtectSelection.md)
+- [RightAngleAxes](Excel.Chart.RightAngleAxes.md)
+- [Rotation](Excel.Chart.Rotation.md)
+- [SeriesNameLevel](Excel.chart.seriesnamelevel.md)
+- [Shapes](Excel.Chart.Shapes.md)
+- [ShowAllFieldButtons](Excel.Chart.ShowAllFieldButtons.md)
+- [ShowAxisFieldButtons](Excel.Chart.ShowAxisFieldButtons.md)
+- [ShowDataLabelsOverMaximum](Excel.Chart.ShowDataLabelsOverMaximum.md)
+- [ShowExpandCollapseEntireFieldButtons](Excel.chart.showexpandcollapseentirefieldbuttons.md)
+- [ShowLegendFieldButtons](Excel.Chart.ShowLegendFieldButtons.md)
+- [ShowReportFilterFieldButtons](Excel.Chart.ShowReportFilterFieldButtons.md)
+- [ShowValueFieldButtons](Excel.Chart.ShowValueFieldButtons.md)
+- [SideWall](Excel.Chart.SideWall.md)
+- [Tab](Excel.Chart.Tab.md)
+- [Visible](Excel.Chart.Visible.md)
+- [Walls](Excel.Chart.Walls.md)
 
 ## See also
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

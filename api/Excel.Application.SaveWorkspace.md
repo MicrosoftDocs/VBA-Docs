@@ -21,7 +21,7 @@ This object, member, or enumeration is deprecated and is not intended to be used
 
 _expression_. `SaveWorkspace`( `_Filename_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

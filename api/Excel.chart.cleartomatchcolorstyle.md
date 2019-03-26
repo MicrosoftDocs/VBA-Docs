@@ -19,7 +19,7 @@ Clears all colors on the specified chart that do not follow the color style appl
 
 _expression_. `ClearToMatchColorStyle`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Return value

@@ -1,5 +1,5 @@
 ---
-title: ApplyCustomType Method
+title: ApplyCustomType method (Excel Graph)
 keywords: vbagr10.chm66937
 f1_keywords:
 - vbagr10.chm66937
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# ApplyCustomType Method
+# ApplyCustomType method (Excel Graph)
 
 ApplyCustomType method as it applies to the  **Series** object.
 

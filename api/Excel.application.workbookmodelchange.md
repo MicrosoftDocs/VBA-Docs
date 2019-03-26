@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookModelChange Event (Excel)
+title: Application.WorkbookModelChange event (Excel)
 keywords: vbaxl10.chm504118
 f1_keywords:
 - vbaxl10.chm504118
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookModelChange Event (Excel)
+# Application.WorkbookModelChange event (Excel)
 
 Occurs when the data model is updated.
 
@@ -19,7 +19,7 @@ Occurs when the data model is updated.
 
 _expression_. `WorkbookModelChange`_(Wb,_ _Changes)_
 
-_expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

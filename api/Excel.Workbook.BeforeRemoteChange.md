@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeRemoteChange Event (Excel)
+title: Workbook.BeforeRemoteChange event (Excel)
 keywords: vbaxl10.chm504120
 f1_keywords:
 - vbaxl10.chm504120
@@ -11,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.BeforeRemoteChange Event (Excel)
+# Workbook.BeforeRemoteChange event (Excel)
 
 Occurs before a remote user's edits to the workbook are merged.
 

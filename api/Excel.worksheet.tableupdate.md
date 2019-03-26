@@ -1,5 +1,5 @@
 ---
-title: Worksheet.TableUpdate Event (Excel)
+title: Worksheet.TableUpdate event (Excel)
 keywords: vbaxl10.chm502088
 f1_keywords:
 - vbaxl10.chm502088
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.TableUpdate Event (Excel)
+# Worksheet.TableUpdate event (Excel)
 
 Occurs after a Query table connected to the Data Model is updated on a worksheet.
 

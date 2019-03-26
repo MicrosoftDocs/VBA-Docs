@@ -14,14 +14,14 @@ localization_priority: Normal
 
 # Borders.Weight property (Excel)
 
-Returns or sets a  **[xlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
+Returns or sets a  **[XlBorderWeight](Excel.XlBorderWeight.md)** value that represents the weight of the border.
 
 
 ## Syntax
 
-_expression_. `Weight`
+_expression_.**Weight**
 
-_expression_ A variable that represents a [Borders](Excel.Borders.md) object.
+_expression_ A variable that represents a **[Borders](Excel.Borders.md)** object.
 
 
 ## See also

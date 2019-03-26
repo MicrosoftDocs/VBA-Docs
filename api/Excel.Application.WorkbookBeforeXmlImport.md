@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforeXmlImport Event (Excel)
+title: Application.WorkbookBeforeXmlImport event (Excel)
 keywords: vbaxl10.chm504098
 f1_keywords:
 - vbaxl10.chm504098
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforeXmlImport Event (Excel)
+# Application.WorkbookBeforeXmlImport event (Excel)
 
 Occurs before an existing XML data connection is refreshed, or new XML data is imported into any open Microsoft Excel workbook.
 
@@ -21,7 +21,7 @@ Occurs before an existing XML data connection is refreshed, or new XML data is i
 
 _expression_. `WorkbookBeforeXmlImport`( `_Wb_` , `_Map_` , `_Url_` , `_IsRefresh_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

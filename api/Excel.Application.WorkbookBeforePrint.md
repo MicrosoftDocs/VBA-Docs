@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforePrint Event (Excel)
+title: Application.WorkbookBeforePrint event (Excel)
 keywords: vbaxl10.chm504086
 f1_keywords:
 - vbaxl10.chm504086
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforePrint Event (Excel)
+# Application.WorkbookBeforePrint event (Excel)
 
 Occurs before any open workbook is printed.
 
@@ -21,7 +21,7 @@ Occurs before any open workbook is printed.
 
 _expression_. `WorkbookBeforePrint`( `_Wb_` , `_Cancel_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

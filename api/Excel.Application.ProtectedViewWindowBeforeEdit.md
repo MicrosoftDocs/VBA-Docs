@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeEdit Event (Excel)
+title: Application.ProtectedViewWindowBeforeEdit event (Excel)
 keywords: vbaxl10.chm504109
 f1_keywords:
 - vbaxl10.chm504109
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeEdit Event (Excel)
+# Application.ProtectedViewWindowBeforeEdit event (Excel)
 
 Occurs immediately before editing is enabled on the workbook in the specified  **Protected View** window.
 

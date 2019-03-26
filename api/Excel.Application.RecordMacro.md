@@ -21,7 +21,7 @@ Records code if the macro recorder is on.
 
 _expression_. `RecordMacro`( `_BasicCode_` , `_XlmCode_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

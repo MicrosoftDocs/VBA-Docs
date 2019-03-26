@@ -48,54 +48,45 @@ strAlphaName = _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[AddMemberPropertyField](Excel.CubeField.AddMemberPropertyField.md)|
-|[AutoGroup](Excel.cubefield.autogroup.md)|
-|[ClearManualFilter](Excel.CubeField.ClearManualFilter.md)|
-|[CreatePivotFields](Excel.CubeField.CreatePivotFields.md)|
-|[Delete](Excel.CubeField.Delete.md)|
+- [AddMemberPropertyField](Excel.CubeField.AddMemberPropertyField.md)
+- [AutoGroup](Excel.cubefield.autogroup.md)
+- [ClearManualFilter](Excel.CubeField.ClearManualFilter.md)
+- [CreatePivotFields](Excel.CubeField.CreatePivotFields.md)
+- [Delete](Excel.CubeField.Delete.md)
 
 ## Properties
 
-
-
-|Name|
-|:-----|
-|[AllItemsVisible](Excel.CubeField.AllItemsVisible.md)|
-|[Application](Excel.CubeField.Application.md)|
-|[Caption](Excel.CubeField.Caption.md)|
-|[Creator](Excel.CubeField.Creator.md)|
-|[CubeFieldSubType](Excel.CubeField.CubeFieldSubType.md)|
-|[CubeFieldType](Excel.CubeField.CubeFieldType.md)|
-|[CurrentPageName](Excel.CubeField.CurrentPageName.md)|
-|[DragToColumn](Excel.CubeField.DragToColumn.md)|
-|[DragToData](Excel.CubeField.DragToData.md)|
-|[DragToHide](Excel.CubeField.DragToHide.md)|
-|[DragToPage](Excel.CubeField.DragToPage.md)|
-|[DragToRow](Excel.CubeField.DragToRow.md)|
-|[EnableMultiplePageItems](Excel.CubeField.EnableMultiplePageItems.md)|
-|[FlattenHierarchies](Excel.CubeField.FlattenHierarchies.md)|
-|[HasMemberProperties](Excel.CubeField.HasMemberProperties.md)|
-|[HierarchizeDistinct](Excel.CubeField.HierarchizeDistinct.md)|
-|[IncludeNewItemsInFilter](Excel.CubeField.IncludeNewItemsInFilter.md)|
-|[IsDate](Excel.CubeField.IsDate.md)|
-|[LayoutForm](Excel.CubeField.LayoutForm.md)|
-|[LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)|
-|[Name](Excel.CubeField.Name.md)|
-|[Orientation](Excel.CubeField.Orientation.md)|
-|[Parent](Excel.CubeField.Parent.md)|
-|[PivotFields](Excel.CubeField.PivotFields.md)|
-|[Position](Excel.CubeField.Position.md)|
-|[ShowInFieldList](Excel.CubeField.ShowInFieldList.md)|
-|[TreeviewControl](Excel.CubeField.TreeviewControl.md)|
-|[Value](Excel.CubeField.Value.md)|
+- [AllItemsVisible](Excel.CubeField.AllItemsVisible.md)
+- [Application](Excel.CubeField.Application.md)
+- [Caption](Excel.CubeField.Caption.md)
+- [Creator](Excel.CubeField.Creator.md)
+- [CubeFieldSubType](Excel.CubeField.CubeFieldSubType.md)
+- [CubeFieldType](Excel.CubeField.CubeFieldType.md)
+- [CurrentPageName](Excel.CubeField.CurrentPageName.md)
+- [DragToColumn](Excel.CubeField.DragToColumn.md)
+- [DragToData](Excel.CubeField.DragToData.md)
+- [DragToHide](Excel.CubeField.DragToHide.md)
+- [DragToPage](Excel.CubeField.DragToPage.md)
+- [DragToRow](Excel.CubeField.DragToRow.md)
+- [EnableMultiplePageItems](Excel.CubeField.EnableMultiplePageItems.md)
+- [FlattenHierarchies](Excel.CubeField.FlattenHierarchies.md)
+- [HasMemberProperties](Excel.CubeField.HasMemberProperties.md)
+- [HierarchizeDistinct](Excel.CubeField.HierarchizeDistinct.md)
+- [IncludeNewItemsInFilter](Excel.CubeField.IncludeNewItemsInFilter.md)
+- [IsDate](Excel.CubeField.IsDate.md)
+- [LayoutForm](Excel.CubeField.LayoutForm.md)
+- [LayoutSubtotalLocation](Excel.CubeField.LayoutSubtotalLocation.md)
+- [Name](Excel.CubeField.Name.md)
+- [Orientation](Excel.CubeField.Orientation.md)
+- [Parent](Excel.CubeField.Parent.md)
+- [PivotFields](Excel.CubeField.PivotFields.md)
+- [Position](Excel.CubeField.Position.md)
+- [ShowInFieldList](Excel.CubeField.ShowInFieldList.md)
+- [TreeviewControl](Excel.CubeField.TreeviewControl.md)
+- [Value](Excel.CubeField.Value.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

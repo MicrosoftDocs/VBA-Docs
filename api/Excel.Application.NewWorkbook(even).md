@@ -1,5 +1,5 @@
 ---
-title: Application.NewWorkbook Event (Excel)
+title: Application.NewWorkbook event (Excel)
 keywords: vbaxl10.chm504073
 f1_keywords:
 - vbaxl10.chm504073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.NewWorkbook Event (Excel)
+# Application.NewWorkbook event (Excel)
 
 Occurs when a new workbook is created.
 

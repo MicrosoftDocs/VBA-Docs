@@ -21,7 +21,7 @@ The  **WarnOnFunctionNameConflict** property, when set to **True**, raises an al
 
 _expression_. `WarnOnFunctionNameConflict`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## See also

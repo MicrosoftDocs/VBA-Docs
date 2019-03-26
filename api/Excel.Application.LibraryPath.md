@@ -21,7 +21,7 @@ Returns the path to the Library folder, but without the final separator. Read-on
 
 _expression_. `LibraryPath`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

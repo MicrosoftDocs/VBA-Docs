@@ -19,7 +19,7 @@ Selects the object.
 
 ## Syntax
 
-_expression_. `Select`
+_expression_.**Select**
 
 _expression_ A variable that represents a [Gridlines](Excel.Gridlines-graph-object.md) object.
 

@@ -95,7 +95,7 @@ This section contains documentation for the enumerations in the Access object mo
 |[AcVerticalAnchor](Access.AcVerticalAnchor.md)|Used with the **VerticalAnchor** property to specify how a control is anchored vertically within its layout.|
 |[AcView](Access.AcView.md)|Specifies an object's view.|
 |[AcWebBrowserScrollBars](Access.AcWebBrowserScrollBars.md)|Used by the [ScrollBars](Access.WebBrowserControl.ScrollBars.md) property to specify whether scroll bars are displayed.|
-|[AcWebBrowserState](Access.AcWebBrowserState.md)|Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to determine the state of the Web Browser control.|
+|[AcWebBrowserState](Access.AcWebBrowserState.md)|Used by the [ReadyState](Access.WebBrowserControl.ReadyState.md) property to determine the state of the web browser control.|
 |[AcWebUserDisplay](Access.AcWebUserDisplay.md)|Specifies information about the current user of a Web database.|
 |[AcWebUserGroupsDisplay](Access.AcWebUserGroupsDisplay.md)|Specifies the type of information to return about the group membership of the current user of a Web database.|
 |[AcWindowMode](Access.AcWindowMode.md)|Specifies the mode in which a form or report is opened.|

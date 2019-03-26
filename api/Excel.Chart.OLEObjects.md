@@ -21,7 +21,7 @@ Returns an object that represents either a single OLE object (an  **[OLEObject](
 
 _expression_. `OLEObjects`( `_Index_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

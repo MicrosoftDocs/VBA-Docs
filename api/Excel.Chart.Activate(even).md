@@ -1,5 +1,5 @@
 ---
-title: Chart.Activate Event (Excel)
+title: Chart.Activate event (Excel)
 keywords: vbaxl10.chm500073
 f1_keywords:
 - vbaxl10.chm500073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Activate Event (Excel)
+# Chart.Activate event (Excel)
 
 Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
@@ -21,7 +21,7 @@ Occurs when a workbook, worksheet, chart sheet, or embedded chart is activated.
 
 _expression_. `Activate`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Remarks

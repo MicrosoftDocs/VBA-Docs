@@ -1,5 +1,5 @@
 ---
-title: Chart.SeriesChange Event (Excel)
+title: Chart.SeriesChange event (Excel)
 keywords: vbaxl10.chm500084
 f1_keywords:
 - vbaxl10.chm500084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.SeriesChange Event (Excel)
+# Chart.SeriesChange event (Excel)
 
 Occurs when the user changes the value of a chart data point by clicking a bar in the chart and dragging the top edge up or down thus changing the value of the data point.
 
@@ -24,7 +24,7 @@ Occurs when the user changes the value of a chart data point by clicking a bar i
 
 _expression_. `SeriesChange`( `_SeriesIndex_` , `_PointIndex_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

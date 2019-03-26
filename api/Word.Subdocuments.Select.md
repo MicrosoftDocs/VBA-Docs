@@ -19,7 +19,7 @@ Selects the specified subdocument.
 
 ## Syntax
 
- _expression_. `Select`
+ _expression_.**Select**
 
  _expression_ Required. A variable that represents a '[Subdocuments](Word.subdocuments.md)' collection.
 

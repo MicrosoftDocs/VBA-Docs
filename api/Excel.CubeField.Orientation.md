@@ -19,9 +19,9 @@ Returns or sets a  **[xlPivotFieldOrientation](Excel.XlPivotFieldOrientation.md)
 
 ## Syntax
 
-_expression_. `Orientation`
+_expression_.**Orientation**
 
-_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks

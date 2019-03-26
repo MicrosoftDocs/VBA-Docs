@@ -1,5 +1,5 @@
 ---
-title: CapitalizeNamesOfDays Property
+title: CapitalizeNamesOfDays property (Excel Graph)
 keywords: vbagr10.chm66686
 f1_keywords:
 - vbagr10.chm66686
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CapitalizeNamesOfDays Property
+# CapitalizeNamesOfDays property (Excel Graph)
 
 True if the first letter of day names is capitalized automatically. Read/write Boolean.
 

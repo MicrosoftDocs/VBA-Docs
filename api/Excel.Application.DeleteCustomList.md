@@ -21,7 +21,7 @@ Deletes a custom list.
 
 _expression_. `DeleteCustomList`( `_ListNum_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

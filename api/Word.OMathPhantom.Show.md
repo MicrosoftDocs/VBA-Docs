@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether the contents of a phantom
 
 ## Syntax
 
- _expression_. `Show`
+ _expression_.**Show**
 
  _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 

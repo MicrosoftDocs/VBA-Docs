@@ -1,5 +1,5 @@
 ---
-title: Application.AfterCalculate Event (Excel)
+title: Application.AfterCalculate event (Excel)
 keywords: vbaxl10.chm504103
 f1_keywords:
 - vbaxl10.chm504103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.AfterCalculate Event (Excel)
+# Application.AfterCalculate event (Excel)
 
 The  **AfterCalculate** event occurs when all pending refresh activity (both synchronous and asynchronous) and all of the resultant calculation activities have been completed.
 
@@ -21,7 +21,7 @@ The  **AfterCalculate** event occurs when all pending refresh activity (both syn
 
 _expression_. `AfterCalculate`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookAfterSave Event (Excel)
+title: Application.WorkbookAfterSave event (Excel)
 keywords: vbaxl10.chm504114
 f1_keywords:
 - vbaxl10.chm504114
@@ -11,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookAfterSave Event (Excel)
+# Application.WorkbookAfterSave event (Excel)
 
 Occurs after the workbook is saved.
 

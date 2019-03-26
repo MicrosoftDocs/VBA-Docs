@@ -1,5 +1,5 @@
 ---
-title: Chart.BeforeRightClick Event (Excel)
+title: Chart.BeforeRightClick event (Excel)
 keywords: vbaxl10.chm500079
 f1_keywords:
 - vbaxl10.chm500079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.BeforeRightClick Event (Excel)
+# Chart.BeforeRightClick event (Excel)
 
 Occurs when a chart element is right-clicked, before the default right-click action.
 
@@ -21,7 +21,7 @@ Occurs when a chart element is right-clicked, before the default right-click act
 
 _expression_. `BeforeRightClick`( `_Cancel_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

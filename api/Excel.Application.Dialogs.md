@@ -21,7 +21,7 @@ Returns a  **[Dialogs](Excel.Dialogs.md)** collection that represents all built-
 
 _expression_. `Dialogs`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

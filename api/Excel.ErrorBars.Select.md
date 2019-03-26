@@ -19,7 +19,7 @@ Selects the object.
 
 ## Syntax
 
-_expression_. `Select`
+_expression_.**Select**
 
 _expression_ A variable that represents an [ErrorBars](Excel.ErrorBars-graph-property.md) object.
 

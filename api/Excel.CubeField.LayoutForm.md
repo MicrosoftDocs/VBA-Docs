@@ -21,7 +21,7 @@ Returns or sets the way the specified PivotTable items appear—in table format 
 
 _expression_. `LayoutForm`
 
-_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks

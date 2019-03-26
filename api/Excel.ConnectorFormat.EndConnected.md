@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `EndConnected`
 
-_expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
 
 ## Remarks

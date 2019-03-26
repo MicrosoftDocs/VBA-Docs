@@ -21,7 +21,7 @@ Applies only to callouts whose lines consist of more than one segment (types  **
 
 _expression_. `AutoLength`
 
-_expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
+_expression_ A variable that represents a **[CalloutFormat](Excel.CalloutFormat.md)** object.
 
 
 ## Remarks

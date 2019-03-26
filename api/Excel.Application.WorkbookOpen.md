@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookOpen Event (Excel)
+title: Application.WorkbookOpen event (Excel)
 keywords: vbaxl10.chm504081
 f1_keywords:
 - vbaxl10.chm504081
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookOpen Event (Excel)
+# Application.WorkbookOpen event (Excel)
 
 Occurs when a workbook is opened.
 
@@ -21,7 +21,7 @@ Occurs when a workbook is opened.
 
 _expression_. `WorkbookOpen`( `_Wb_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

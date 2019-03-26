@@ -1,5 +1,5 @@
 ---
-title: QueryTable.AfterRefresh Event (Excel)
+title: QueryTable.AfterRefresh event (Excel)
 keywords: vbaxl10.chm519074
 f1_keywords:
 - vbaxl10.chm519074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# QueryTable.AfterRefresh Event (Excel)
+# QueryTable.AfterRefresh event (Excel)
 
 Occurs after a query is completed or canceled.
 

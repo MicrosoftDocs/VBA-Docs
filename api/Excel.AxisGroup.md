@@ -1,5 +1,5 @@
 ---
-title: AxisGroup Property
+title: AxisGroup property (Excel Graph)
 keywords: vbagr10.chm65583
 f1_keywords:
 - vbagr10.chm65583
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# AxisGroup Property
+# AxisGroup property (Excel Graph)
 
 AxisGroup property as it applies to the  **ChartGroup** and **Series** objects.
 

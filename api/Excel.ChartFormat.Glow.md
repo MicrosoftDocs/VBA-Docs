@@ -21,7 +21,7 @@ Returns a  **[GlowFormat](Office.GlowFormat.md)** object for a specified chart t
 
 _expression_. `Glow`
 
-_expression_ A variable that represents a [ChartFormat](Excel.ChartFormat.md) object.
+_expression_ A variable that represents a **[ChartFormat](Excel.ChartFormat.md)** object.
 
 
 ## Remarks
