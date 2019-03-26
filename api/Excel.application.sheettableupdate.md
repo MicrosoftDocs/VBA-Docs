@@ -19,7 +19,7 @@ Occurs when a table on a worksheet is updated.
 
 _expression_. `SheetTableUpdate`_(Sh,_ _Target)_
 
-_expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

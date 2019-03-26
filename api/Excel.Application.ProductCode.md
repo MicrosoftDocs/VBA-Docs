@@ -21,7 +21,7 @@ Returns the globally unique identifier (GUID) for Microsoft Excel. Read-only  **
 
 _expression_. `ProductCode`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

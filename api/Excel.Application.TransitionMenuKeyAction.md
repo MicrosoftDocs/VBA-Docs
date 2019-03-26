@@ -21,7 +21,7 @@ Returns or sets the action taken when the Microsoft Excel menu key is pressed. C
 
 _expression_. `TransitionMenuKeyAction`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

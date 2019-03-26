@@ -21,7 +21,7 @@ Displays the standard  **Save As** dialog box and gets a file name from the user
 
 _expression_. `GetSaveAsFilename`( `_InitialFilename_` , `_FileFilter_` , `_FilterIndex_` , `_Title_` , `_ButtonText_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

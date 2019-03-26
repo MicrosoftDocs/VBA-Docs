@@ -21,7 +21,7 @@ Corresponds to options in the **Macro Options** dialog box. You can also use thi
 
 _expression_. `MacroOptions`( `_Macro_` , `_Description_` , `_HasMenu_` , `_MenuText_` , `_HasShortcutKey_` , `_ShortcutKey_` , `_Category_` , `_StatusBar_` , `_HelpContextID_` , `_HelpFile_` , `_ArgumentDescriptions_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

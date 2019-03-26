@@ -21,7 +21,7 @@ Returns an object that represents the active sheet (the sheet on top) in the act
 
 _expression_. `ActiveSheet`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

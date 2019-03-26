@@ -21,7 +21,7 @@ Occurs when any workbook window is resized.
 
 _expression_. `WindowResize`( `_Wb_` , `_Wn_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

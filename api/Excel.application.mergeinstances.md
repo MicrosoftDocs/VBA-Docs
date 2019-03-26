@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_. `MergeInstances`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ Selects any range or Visual Basic procedure in any workbook, and activates that 
 
 _expression_. `Goto`( `_Reference_` , `_Scroll_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

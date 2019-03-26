@@ -1,5 +1,5 @@
 ---
-title: Application Object
+title: Application object (Graph)
 keywords: vbagr10.chm3077640
 f1_keywords:
 - vbagr10.chm3077640
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application Object
+# Application object (Graph)
 
 Represents the entire Microsoft Graph application. The  **Application** object represents the top level of the object hierarchy and contains all of the objects, properties, and methods for the application.
 

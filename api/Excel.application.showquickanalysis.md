@@ -19,7 +19,7 @@ Controls whether the Quick Analysis contextual user interface is displayed on se
 
 _expression_. `ShowQuickAnalysis`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Example

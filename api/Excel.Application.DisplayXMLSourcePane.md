@@ -21,7 +21,7 @@ Opens the  **XML Source** task pane and displays the XML map specified by the _X
 
 _expression_. `DisplayXMLSourcePane`( `_XmlMap_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

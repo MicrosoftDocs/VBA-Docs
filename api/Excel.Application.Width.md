@@ -21,7 +21,7 @@ Returns or sets a  **Double** value that represents the distance, in points, fro
 
 _expression_.**Width**
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

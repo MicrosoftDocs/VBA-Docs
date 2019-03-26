@@ -21,7 +21,7 @@ The  **AfterCalculate** event occurs when all pending refresh activity (both syn
 
 _expression_. `AfterCalculate`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

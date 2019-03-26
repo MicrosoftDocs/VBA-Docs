@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Application
 ms.assetid: 19b73597-5cf9-4f56-8227-b5211f657f6f
-ms.date: 06/08/2017
+ms.date: 03/27/2019
 localization_priority: Priority
 ---
 
@@ -50,10 +50,9 @@ ActiveCell.Font.Bold = True
 
 ## Remarks
 
-The  **Application** object contains:
+The **Application** object contains:
 
-- Application-wide settings and options.
-    
+- Application-wide settings and options.   
 - Methods that return top-level objects, such as **[ActiveCell](Excel.Application.ActiveCell.md)**, **[ActiveSheet](Excel.Application.ActiveSheet.md)**, and so on.
     
 ## Events

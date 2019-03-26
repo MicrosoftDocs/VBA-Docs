@@ -21,7 +21,7 @@ Displays the  **Open** dialog box.
 
 _expression_. `FindFile`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Return value

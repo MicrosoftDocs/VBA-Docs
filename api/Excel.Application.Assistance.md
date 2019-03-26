@@ -21,7 +21,7 @@ Returns an  **[IAssistance](Office.IAssistance.md)** object for Microsoft Excel 
 
 _expression_. `Assistance`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

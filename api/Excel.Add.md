@@ -1,5 +1,5 @@
 ---
-title: Add Method
+title: Add method (Graph)
 keywords: vbagr10.chm3077604
 f1_keywords:
 - vbagr10.chm3077604
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Add Method
+# Add method (Graph)
 
 Creates a new trend line. Returns a Trendline object.
 

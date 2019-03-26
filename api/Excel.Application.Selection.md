@@ -21,7 +21,7 @@ Returns the currently selected object in the active worksheet for an **[Applicat
 
 _expression_. `Selection`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

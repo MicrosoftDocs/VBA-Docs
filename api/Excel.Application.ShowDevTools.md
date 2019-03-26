@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** that represents whether the **Developer** tab is 
 
 _expression_. `ShowDevTools`
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Remarks

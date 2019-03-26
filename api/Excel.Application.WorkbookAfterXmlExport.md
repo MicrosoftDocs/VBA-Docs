@@ -21,7 +21,7 @@ Occurs after Microsoft Excel saves or exports XML data from the specified workbo
 
 _expression_. `WorkbookAfterXmlExport`( `_Wb_` , `_Map_` , `_Url_` , `_Result_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

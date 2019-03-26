@@ -21,7 +21,7 @@ Occurs when any workbook window is deactivated.
 
 _expression_. `WindowDeactivate`( `_Wb_` , `_Wn_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

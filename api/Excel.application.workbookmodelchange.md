@@ -19,7 +19,7 @@ Occurs when the data model is updated.
 
 _expression_. `WorkbookModelChange`_(Wb,_ _Changes)_
 
-_expression_ A variable that represents a [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters

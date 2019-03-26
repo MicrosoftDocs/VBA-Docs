@@ -21,7 +21,7 @@ Returns information about functions in either dynamic-link libraries (DLLs) or c
 
 _expression_. `RegisteredFunctions`( `_Index1_` , `_Index2_` )
 
-_expression_ A variable that represents an [Application](Excel.Application-graph-property.md) object.
+_expression_ A variable that represents an **[Application](Excel.Application(object).md)** object.
 
 
 ## Parameters
