@@ -1,5 +1,5 @@
 ---
-title: Application.WindowActivate Event (Excel)
+title: Application.WindowActivate event (Excel)
 keywords: vbaxl10.chm504091
 f1_keywords:
 - vbaxl10.chm504091
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowActivate Event (Excel)
+# Application.WindowActivate event (Excel)
 
 Occurs when any workbook window is activated.
 

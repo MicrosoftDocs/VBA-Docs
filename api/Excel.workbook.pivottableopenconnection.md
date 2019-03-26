@@ -1,5 +1,5 @@
 ---
-title: Workbook.PivotTableOpenConnection Event (Excel)
+title: Workbook.PivotTableOpenConnection event (Excel)
 keywords: vbaxl10.chm503095
 f1_keywords:
 - vbaxl10.chm503095
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.PivotTableOpenConnection Event (Excel)
+# Workbook.PivotTableOpenConnection event (Excel)
 
 Occurs after a PivotTable report opens the connection to its data source.
 

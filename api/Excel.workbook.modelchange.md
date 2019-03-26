@@ -1,5 +1,5 @@
 ---
-title: Workbook.ModelChange Event (Excel)
+title: Workbook.ModelChange event (Excel)
 keywords: vbaxl10.chm503111
 f1_keywords:
 - vbaxl10.chm503111
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.ModelChange Event (Excel)
+# Workbook.ModelChange event (Excel)
 
 Occurs after the Excel data model is changed. 
 

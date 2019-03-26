@@ -21,7 +21,7 @@ Gets or sets a  **String** value that represents the formula of the object using
 
 _expression_. `Formula`
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## Return value

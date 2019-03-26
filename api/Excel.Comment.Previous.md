@@ -21,7 +21,7 @@ Returns a  **[Comment](Excel.Comment.md)** object that represents the previous c
 
 _expression_. `Previous`
 
- _expression_ An expression that returns a [Comment](Excel.Comment.md) object.
+ _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
 
 
 ## Return value

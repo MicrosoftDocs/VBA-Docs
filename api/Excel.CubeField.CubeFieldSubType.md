@@ -21,7 +21,7 @@ Specifies the type of a CubeField. Read-only.
 
 _expression_. `CubeFieldSubType`
 
-_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks

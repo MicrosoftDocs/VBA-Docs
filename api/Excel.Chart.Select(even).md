@@ -1,5 +1,5 @@
 ---
-title: Chart.Select Event (Excel)
+title: Chart.Select event (Excel)
 keywords: vbaxl10.chm500083
 f1_keywords:
 - vbaxl10.chm500083
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Select Event (Excel)
+# Chart.Select event (Excel)
 
 Occurs when a chart element is selected.
 
@@ -21,7 +21,7 @@ Occurs when a chart element is selected.
 
 _expression_. `Select`( `_ElementID_` , `_Arg1_` , `_Arg2_` )
 
- _expression_ An expression that returns a [Chart](Excel.Chart-graph-object.md) object.
+ _expression_ An expression that returns a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

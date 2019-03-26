@@ -1,5 +1,5 @@
 ---
-title: Workbook.Open Event (Excel)
+title: Workbook.Open event (Excel)
 keywords: vbaxl10.chm503073
 f1_keywords:
 - vbaxl10.chm503073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.Open Event (Excel)
+# Workbook.Open event (Excel)
 
 Occurs when the workbook is opened.
 

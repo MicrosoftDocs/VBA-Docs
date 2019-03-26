@@ -21,7 +21,7 @@ Returns one of the constants of the  **[xlConditionValueTypes](Excel.XlCondition
 
 _expression_.**Type**
 
-_expression_ A variable that represents a [ColorScaleCriterion](Excel.ColorScaleCriterion.md) object.
+_expression_ A variable that represents a **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** object.
 
 
 ## Remarks

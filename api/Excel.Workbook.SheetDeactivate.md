@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetDeactivate Event (Excel)
+title: Workbook.SheetDeactivate event (Excel)
 keywords: vbaxl10.chm503089
 f1_keywords:
 - vbaxl10.chm503089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetDeactivate Event (Excel)
+# Workbook.SheetDeactivate event (Excel)
 
 Occurs when any sheet is deactivated.
 

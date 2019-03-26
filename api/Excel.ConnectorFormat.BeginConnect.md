@@ -21,7 +21,7 @@ Attaches the beginning of the specified connector to a specified shape. If there
 
 _expression_.**BeginConnect** (_ConnectedShape_, _ConnectionSite_)
 
-_expression_ A variable that represents a [ConnectorFormat](Excel.ConnectorFormat.md) object.
+_expression_ A variable that represents a **[ConnectorFormat](Excel.ConnectorFormat.md)** object.
 
 
 ## Parameters

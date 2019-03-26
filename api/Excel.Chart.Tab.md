@@ -21,7 +21,7 @@ Returns a  **[Tab](Excel.Tab.md)** object for a chart.
 
 _expression_. `Tab`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## See also

@@ -21,7 +21,7 @@ Returns or sets the position of the  **ColorStop**. Read/write
 
 _expression_. `Position`
 
-_expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
+_expression_ A variable that represents a **[ColorStop](Excel.ColorStop.md)** object.
 
 
 ## Return value

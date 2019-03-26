@@ -1,5 +1,5 @@
 ---
-title: Application.SheetPivotTableUpdate Event (Excel)
+title: Application.SheetPivotTableUpdate event (Excel)
 keywords: vbaxl10.chm504094
 f1_keywords:
 - vbaxl10.chm504094
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetPivotTableUpdate Event (Excel)
+# Application.SheetPivotTableUpdate event (Excel)
 
 Occurs after the sheet of the PivotTable report has been updated.
 

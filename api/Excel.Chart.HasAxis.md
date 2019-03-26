@@ -21,7 +21,7 @@ Returns or sets which axes exist on the chart. Read/write  **Variant**.
 
 _expression_. `HasAxis`( `_Index1_` , `_Index2_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

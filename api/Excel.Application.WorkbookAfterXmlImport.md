@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookAfterXmlImport Event (Excel)
+title: Application.WorkbookAfterXmlImport event (Excel)
 keywords: vbaxl10.chm504099
 f1_keywords:
 - vbaxl10.chm504099
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookAfterXmlImport Event (Excel)
+# Application.WorkbookAfterXmlImport event (Excel)
 
 Occurs after an existing XML data connection is refreshed, or new XML data is imported into any open Microsoft Excel workbook.
 

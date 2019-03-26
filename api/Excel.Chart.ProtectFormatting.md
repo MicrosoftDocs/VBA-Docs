@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ProtectFormatting`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Remarks

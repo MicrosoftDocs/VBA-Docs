@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines whether the object is visib
 
 _expression_.**Visible**
 
-_expression_ A variable that represents a [Comment](Excel.Comment.md) object.
+_expression_ A variable that represents a **[Comment](Excel.Comment.md)** object.
 
 
 ## See also

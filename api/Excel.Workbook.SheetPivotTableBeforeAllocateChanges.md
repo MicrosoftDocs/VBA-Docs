@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableBeforeAllocateChanges Event (Excel)
+title: Workbook.SheetPivotTableBeforeAllocateChanges event (Excel)
 keywords: vbaxl10.chm503103
 f1_keywords:
 - vbaxl10.chm503103
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableBeforeAllocateChanges Event (Excel)
+# Workbook.SheetPivotTableBeforeAllocateChanges event (Excel)
 
 Occurs before changes are applied to a PivotTable.
 

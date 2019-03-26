@@ -1,5 +1,5 @@
 ---
-title: Workbook.NewChart Event (Excel)
+title: Workbook.NewChart event (Excel)
 keywords: vbaxl10.chm503108
 f1_keywords:
 - vbaxl10.chm503108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.NewChart Event (Excel)
+# Workbook.NewChart event (Excel)
 
 Occurs when a new chart is created in the workbook.
 

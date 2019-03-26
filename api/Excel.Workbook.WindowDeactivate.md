@@ -1,5 +1,5 @@
 ---
-title: Workbook.WindowDeactivate Event (Excel)
+title: Workbook.WindowDeactivate event (Excel)
 keywords: vbaxl10.chm503084
 f1_keywords:
 - vbaxl10.chm503084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.WindowDeactivate Event (Excel)
+# Workbook.WindowDeactivate event (Excel)
 
 Occurs when any workbook window is deactivated.
 

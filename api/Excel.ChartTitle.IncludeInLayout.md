@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `IncludeInLayout`
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## Remarks

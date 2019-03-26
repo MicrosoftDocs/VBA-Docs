@@ -21,7 +21,7 @@ Returns or sets a  **String** value that represents the chart title text.
 
 _expression_.**Caption**
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## See also

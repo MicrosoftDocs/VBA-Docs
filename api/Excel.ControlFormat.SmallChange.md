@@ -21,7 +21,7 @@ Returns or sets the amount that the scroll bar or spinner is incremented or decr
 
 _expression_. `SmallChange`
 
-_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example

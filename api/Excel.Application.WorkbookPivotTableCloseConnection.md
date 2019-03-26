@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookPivotTableCloseConnection Event (Excel)
+title: Application.WorkbookPivotTableCloseConnection event (Excel)
 keywords: vbaxl10.chm504095
 f1_keywords:
 - vbaxl10.chm504095
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookPivotTableCloseConnection Event (Excel)
+# Application.WorkbookPivotTableCloseConnection event (Excel)
 
 Occurs after a PivotTable report connection has been closed.
 

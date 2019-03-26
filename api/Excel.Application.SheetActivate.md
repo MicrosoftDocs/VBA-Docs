@@ -1,5 +1,5 @@
 ---
-title: Application.SheetActivate Event (Excel)
+title: Application.SheetActivate event (Excel)
 keywords: vbaxl10.chm504077
 f1_keywords:
 - vbaxl10.chm504077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetActivate Event (Excel)
+# Application.SheetActivate event (Excel)
 
 Occurs when any sheet is activated.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowBeforeClose Event (Excel)
+title: Application.ProtectedViewWindowBeforeClose event (Excel)
 keywords: vbaxl10.chm504110
 f1_keywords:
 - vbaxl10.chm504110
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowBeforeClose Event (Excel)
+# Application.ProtectedViewWindowBeforeClose event (Excel)
 
 Occurs immediately before a  **Protected View** window or a workbook in a **Protected View** window closes.
 

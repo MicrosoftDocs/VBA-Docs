@@ -21,7 +21,7 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ChartGroups](Excel.ChartGroups(object).md) object.
+_expression_ A variable that represents a **[ChartGroups](Excel.ChartGroups(object).md)** object.
 
 
 ## See also

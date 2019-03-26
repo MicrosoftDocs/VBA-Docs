@@ -1,5 +1,5 @@
 ---
-title: Application.SheetLensGalleryRenderComplete Event (Excel)
+title: Application.SheetLensGalleryRenderComplete event (Excel)
 keywords: vbaxl10.chm504116
 f1_keywords:
 - vbaxl10.chm504116
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetLensGalleryRenderComplete Event (Excel)
+# Application.SheetLensGalleryRenderComplete event (Excel)
 
 Occurs after a callout gallery?s icons (dynamic & static) have finished rendering.
 

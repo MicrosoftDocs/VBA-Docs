@@ -1,5 +1,5 @@
 ---
-title: Worksheet.Calculate Event (Excel)
+title: Worksheet.Calculate event (Excel)
 keywords: vbaxl10.chm502078
 f1_keywords:
 - vbaxl10.chm502078
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.Calculate Event (Excel)
+# Worksheet.Calculate event (Excel)
 
 Occurs after the worksheet is recalculated, for the  **Worksheet** object.
 

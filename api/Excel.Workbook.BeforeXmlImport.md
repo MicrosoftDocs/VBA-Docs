@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeXmlImport Event (Excel)
+title: Workbook.BeforeXmlImport event (Excel)
 keywords: vbaxl10.chm503097
 f1_keywords:
 - vbaxl10.chm503097
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.BeforeXmlImport Event (Excel)
+# Workbook.BeforeXmlImport event (Excel)
 
 Occurs before an existing XML data connection is refreshed or before new XML data is imported into a Microsoft Excel workbook.
 

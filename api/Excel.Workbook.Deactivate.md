@@ -1,5 +1,5 @@
 ---
-title: Workbook.Deactivate Event (Excel)
+title: Workbook.Deactivate event (Excel)
 keywords: vbaxl10.chm503075
 f1_keywords:
 - vbaxl10.chm503075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.Deactivate Event (Excel)
+# Workbook.Deactivate event (Excel)
 
 Occurs when the chart, worksheet, or workbook is deactivated.
 

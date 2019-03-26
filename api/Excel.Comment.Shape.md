@@ -21,7 +21,7 @@ Returns a  **[Shape](Excel.Shape.md)** object that represents the shape attached
 
 _expression_. `Shape`
 
- _expression_ An expression that returns a [Comment](Excel.Comment.md) object.
+ _expression_ An expression that returns a **[Comment](Excel.Comment.md)** object.
 
 
 ## Example

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `PrintObject`
 
-_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
 
 ## Example

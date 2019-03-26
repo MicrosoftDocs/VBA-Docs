@@ -21,7 +21,7 @@ Returns the display folder name for a named set. Read-only
 
 _expression_. `DisplayFolder`
 
-_expression_ A variable that returns a '[CalculatedMember](Excel.CalculatedMember.md)' object.
+_expression_ A variable that returns a **[CalculatedMember](Excel.CalculatedMember.md)** object.
 
 
 ## Return value

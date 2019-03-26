@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `ProtectChartObject`
 
-_expression_ A variable that represents a [ChartObjects](Excel.ChartObjects.md) object.
+_expression_ A variable that represents a **[ChartObjects](Excel.ChartObjects.md)** object.
 
 
 ## Remarks

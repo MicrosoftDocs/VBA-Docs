@@ -1,5 +1,5 @@
 ---
-title: Chart Method
+title: Chart method (Excel Graph)
 keywords: vbagr10.chm5207174
 f1_keywords:
 - vbagr10.chm5207174
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart Method
+# Chart method (Excel Graph)
 
 Returns a  **Chart** object that represents the Microsoft Graph chart.
 

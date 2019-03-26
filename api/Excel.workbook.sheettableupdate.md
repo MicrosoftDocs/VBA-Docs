@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetTableUpdate Event (Excel)
+title: Workbook.SheetTableUpdate event (Excel)
 keywords: vbaxl10.chm503110
 f1_keywords:
 - vbaxl10.chm503110
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetTableUpdate Event (Excel)
+# Workbook.SheetTableUpdate event (Excel)
 
 Occurs after the sheet table has been updated.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookActivate Event (Excel)
+title: Application.WorkbookActivate event (Excel)
 keywords: vbaxl10.chm504082
 f1_keywords:
 - vbaxl10.chm504082
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookActivate Event (Excel)
+# Application.WorkbookActivate event (Excel)
 
 Occurs when any workbook is activated.
 

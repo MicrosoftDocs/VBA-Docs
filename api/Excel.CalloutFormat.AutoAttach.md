@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `AutoAttach`
 
-_expression_ A variable that represents a [CalloutFormat](Excel.CalloutFormat.md) object.
+_expression_ A variable that represents a **[CalloutFormat](Excel.CalloutFormat.md)** object.
 
 
 ## Remarks

@@ -1,5 +1,5 @@
 ---
-title: Worksheet.FollowHyperlink Event (Excel)
+title: Worksheet.FollowHyperlink event (Excel)
 keywords: vbaxl10.chm502080
 f1_keywords:
 - vbaxl10.chm502080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.FollowHyperlink Event (Excel)
+# Worksheet.FollowHyperlink event (Excel)
 
 Occurs when you click any hyperlink on a worksheet. For application- and workbook-level events, see the  **[SheetFollowHyperlink](Excel.Application.SheetFollowHyperlink.md)** event and **[SheetFollowHyperlink](Excel.Workbook.SheetFollowHyperlink.md)** event.
 

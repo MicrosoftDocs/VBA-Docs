@@ -21,7 +21,7 @@ Brings the object to the front of the z-order.
 
 _expression_. `BringToFront`
 
-_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
 
 ## Return value

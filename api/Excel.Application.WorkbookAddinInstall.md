@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookAddinInstall Event (Excel)
+title: Application.WorkbookAddinInstall event (Excel)
 keywords: vbaxl10.chm504088
 f1_keywords:
 - vbaxl10.chm504088
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookAddinInstall Event (Excel)
+# Application.WorkbookAddinInstall event (Excel)
 
 Occurs when a workbook is installed as an add-in.
 

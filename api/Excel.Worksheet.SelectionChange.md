@@ -1,5 +1,5 @@
 ---
-title: Worksheet.SelectionChange Event (Excel)
+title: Worksheet.SelectionChange event (Excel)
 keywords: vbaxl10.chm502073
 f1_keywords:
 - vbaxl10.chm502073
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Worksheet.SelectionChange Event (Excel)
+# Worksheet.SelectionChange event (Excel)
 
 Occurs when the selection changes on a worksheet.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.SheetTableUpdate Event (Excel)
+title: Application.SheetTableUpdate event (Excel)
 keywords: vbaxl10.chm504117
 f1_keywords:
 - vbaxl10.chm504117
@@ -10,7 +10,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetTableUpdate Event (Excel)
+# Application.SheetTableUpdate event (Excel)
 
 Occurs when a table on a worksheet is updated.
 

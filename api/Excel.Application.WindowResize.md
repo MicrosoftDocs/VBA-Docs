@@ -1,5 +1,5 @@
 ---
-title: Application.WindowResize Event (Excel)
+title: Application.WindowResize event (Excel)
 keywords: vbaxl10.chm504090
 f1_keywords:
 - vbaxl10.chm504090
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WindowResize Event (Excel)
+# Application.WindowResize event (Excel)
 
 Occurs when any workbook window is resized.
 

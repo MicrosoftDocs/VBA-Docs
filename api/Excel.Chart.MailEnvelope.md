@@ -21,7 +21,7 @@ Represents an email header for a document.
 
 _expression_. `MailEnvelope`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## See also

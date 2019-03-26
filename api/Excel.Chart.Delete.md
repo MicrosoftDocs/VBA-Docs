@@ -21,7 +21,7 @@ Deletes the object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## See also

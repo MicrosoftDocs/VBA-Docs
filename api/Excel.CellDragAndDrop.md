@@ -1,5 +1,5 @@
 ---
-title: CellDragAndDrop Property
+title: CellDragAndDrop property (Excel Graph)
 keywords: vbagr10.chm65856
 f1_keywords:
 - vbagr10.chm65856
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# CellDragAndDrop Property
+# CellDragAndDrop property (Excel Graph)
 
  **True** if dragging and dropping cells is enabled. Read/write **Boolean**.
 

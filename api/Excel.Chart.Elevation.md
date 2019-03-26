@@ -21,7 +21,7 @@ Returns or sets the elevation of the 3-D chart view, in degrees. Read/write  **L
 
 _expression_. `Elevation`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Remarks

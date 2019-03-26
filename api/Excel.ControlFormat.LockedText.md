@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `LockedText`
 
-_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example

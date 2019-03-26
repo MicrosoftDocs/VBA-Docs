@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `MergeCells`
 
-_expression_ A variable that represents a [CellFormat](Excel.CellFormat.md) object.
+_expression_ A variable that represents a **[CellFormat](Excel.CellFormat.md)** object.
 
 
 ## See also

@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookRowsetComplete Event (Excel)
+title: Application.WorkbookRowsetComplete event (Excel)
 keywords: vbaxl10.chm504102
 f1_keywords:
 - vbaxl10.chm504102
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookRowsetComplete Event (Excel)
+# Application.WorkbookRowsetComplete event (Excel)
 
 The  **WorkbookRowsetComplete** event occurs when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
 

@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookAddinUninstall Event (Excel)
+title: Application.WorkbookAddinUninstall event (Excel)
 keywords: vbaxl10.chm504089
 f1_keywords:
 - vbaxl10.chm504089
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookAddinUninstall Event (Excel)
+# Application.WorkbookAddinUninstall event (Excel)
 
 Occurs when any add-in workbook is uninstalled.
 

@@ -21,7 +21,7 @@ Selects the object.
 
 _expression_. `Select`( `_Replace_` )
 
-_expression_ A variable that represents a [ChartObject](Excel.ChartObject.md) object.
+_expression_ A variable that represents a **[ChartObject](Excel.ChartObject.md)** object.
 
 
 ## Parameters

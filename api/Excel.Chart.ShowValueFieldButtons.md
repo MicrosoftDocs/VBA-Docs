@@ -21,7 +21,7 @@ Returns or sets whether to display the value field buttons on a PivotChart. Read
 
 _expression_. `ShowValueFieldButtons`
 
-_expression_ A variable that represents a '[Chart](Excel.Chart(object).md)' object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Return value

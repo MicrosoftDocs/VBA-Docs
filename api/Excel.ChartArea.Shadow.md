@@ -21,7 +21,7 @@ Returns or sets a  **Boolean** value that determines if the object has a shadow.
 
 _expression_. `Shadow`
 
-_expression_ A variable that represents a [ChartArea](Excel.ChartArea-graph-property.md) object.
+_expression_ A variable that represents a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
 ## See also

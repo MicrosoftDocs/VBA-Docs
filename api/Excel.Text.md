@@ -16,7 +16,7 @@ localization_priority: Normal
 
 Returns or sets the text for the specified object. Read/write String.
 
-_expression_. `Text`
+_expression_.**Text**
 
  _expression_ Required. An expression that returns one of the objects in the **Applies To** list.
 

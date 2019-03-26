@@ -1,5 +1,5 @@
 ---
-title: Chart.Resize Event (Excel)
+title: Chart.Resize event (Excel)
 keywords: vbaxl10.chm500075
 f1_keywords:
 - vbaxl10.chm500075
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Resize Event (Excel)
+# Chart.Resize event (Excel)
 
 Occurs when the chart is resized.
 

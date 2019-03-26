@@ -21,7 +21,7 @@ Deletes the represented object.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a [ColorStop](Excel.ColorStop.md) object.
+_expression_ A variable that represents a **[ColorStop](Excel.ColorStop.md)** object.
 
 
 ## Return value

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `RoundedCorners`
 
-_expression_ A variable that returns a [ChartArea](Excel.ChartArea-graph-property.md) object.
+_expression_ A variable that returns a **[ChartArea](Excel.ChartArea(object).md)** object.
 
 
 ## Example

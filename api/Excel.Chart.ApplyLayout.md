@@ -21,7 +21,7 @@ Applies the layouts shown in the ribbon.
 
 _expression_. `ApplyLayout`( `_Layout_` , `_ChartType_` )
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Parameters

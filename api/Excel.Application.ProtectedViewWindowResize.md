@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowResize Event (Excel)
+title: Application.ProtectedViewWindowResize event (Excel)
 keywords: vbaxl10.chm504111
 f1_keywords:
 - vbaxl10.chm504111
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowResize Event (Excel)
+# Application.ProtectedViewWindowResize event (Excel)
 
 Occurs when any  **Protected View** window is resized.
 

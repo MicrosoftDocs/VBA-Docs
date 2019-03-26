@@ -1,5 +1,5 @@
 ---
-title: Workbook.SheetPivotTableBeforeCommitChanges Event (Excel)
+title: Workbook.SheetPivotTableBeforeCommitChanges event (Excel)
 keywords: vbaxl10.chm503104
 f1_keywords:
 - vbaxl10.chm503104
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.SheetPivotTableBeforeCommitChanges Event (Excel)
+# Workbook.SheetPivotTableBeforeCommitChanges event (Excel)
 
 Occurs before changes are committed against the OLAP data source for a PivotTable.
 

@@ -21,7 +21,7 @@ localization_priority: Normal
 
 _expression_. `PrintSettings`
 
-_expression_ A variable that represents a [CustomView](Excel.CustomView.md) object.
+_expression_ A variable that represents a **[CustomView](Excel.CustomView.md)** object.
 
 
 ## Example

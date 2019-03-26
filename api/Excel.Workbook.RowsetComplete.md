@@ -1,5 +1,5 @@
 ---
-title: Workbook.RowsetComplete Event (Excel)
+title: Workbook.RowsetComplete event (Excel)
 keywords: vbaxl10.chm503101
 f1_keywords:
 - vbaxl10.chm503101
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.RowsetComplete Event (Excel)
+# Workbook.RowsetComplete event (Excel)
 
 The event is raised when the user either drills through the recordset or invokes the rowset action on an OLAP PivotTable.
 

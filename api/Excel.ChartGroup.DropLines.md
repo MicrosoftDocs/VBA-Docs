@@ -21,7 +21,7 @@ Returns a  **[DropLines](Excel.DropLines(object).md)** object that represents th
 
 _expression_. `DropLines`
 
-_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
 ## Example

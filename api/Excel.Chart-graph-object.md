@@ -1,5 +1,5 @@
 ---
-title: Chart Object
+title: Chart object (Excel Graph)
 keywords: vbagr10.chm131079
 f1_keywords:
 - vbagr10.chm131079
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart Object
+# Chart object (Excel Graph)
 
 Represents the specified Microsoft Graph chart.
 

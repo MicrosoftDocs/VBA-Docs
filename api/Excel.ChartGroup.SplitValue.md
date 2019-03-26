@@ -21,7 +21,7 @@ Returns or sets the threshold value separating the two sections of either a pie 
 
 _expression_. `SplitValue`
 
-_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
 ## Example

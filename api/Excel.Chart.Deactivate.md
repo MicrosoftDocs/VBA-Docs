@@ -1,5 +1,5 @@
 ---
-title: Chart.Deactivate Event (Excel)
+title: Chart.Deactivate event (Excel)
 keywords: vbaxl10.chm500074
 f1_keywords:
 - vbaxl10.chm500074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Chart.Deactivate Event (Excel)
+# Chart.Deactivate event (Excel)
 
 Occurs when the chart, worksheet, or workbook is deactivated.
 
@@ -21,7 +21,7 @@ Occurs when the chart, worksheet, or workbook is deactivated.
 
 _expression_. `Deactivate`
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Example

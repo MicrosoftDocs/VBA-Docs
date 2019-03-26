@@ -19,7 +19,7 @@ Automatically groups the cube fields in an OLAP cube, optionally in the specifie
 
 _expression_. `AutoGroup`( _Orientation_,  _Position_)
 
-_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Parameters

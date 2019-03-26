@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforeXmlExport Event (Excel)
+title: Application.WorkbookBeforeXmlExport event (Excel)
 keywords: vbaxl10.chm504100
 f1_keywords:
 - vbaxl10.chm504100
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforeXmlExport Event (Excel)
+# Application.WorkbookBeforeXmlExport event (Excel)
 
 Occurs before Microsoft Excel saves or exports XML data from the specified workbook.
 

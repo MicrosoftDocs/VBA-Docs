@@ -21,7 +21,7 @@ Returns or sets a  **Variant** value that represents the horizontal alignment fo
 
 _expression_. `HorizontalAlignment`
 
-_expression_ A variable that represents a [ChartTitle](Excel.ChartTitle-graph-property.md) object.
+_expression_ A variable that represents a **[ChartTitle](Excel.ChartTitle(object).md)** object.
 
 
 ## Remarks

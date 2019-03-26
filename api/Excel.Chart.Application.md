@@ -21,7 +21,7 @@ When used without an object qualifier, this property returns an  **[Application]
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [Chart](Excel.Chart-graph-object.md) object.
+_expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** object.
 
 
 ## Example

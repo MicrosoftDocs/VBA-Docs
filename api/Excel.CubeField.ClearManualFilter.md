@@ -21,7 +21,7 @@ The  **ClearManualFilter** method provides an easy way to set the **Visible** pr
 
 _expression_. `ClearManualFilter`
 
-_expression_ A variable that represents a [CubeField](Excel.CubeField.md) object.
+_expression_ A variable that represents a **[CubeField](Excel.CubeField.md)** object.
 
 
 ## Remarks

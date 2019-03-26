@@ -1,5 +1,5 @@
 ---
-title: Application.WorkbookBeforeClose Event (Excel)
+title: Application.WorkbookBeforeClose event (Excel)
 keywords: vbaxl10.chm504084
 f1_keywords:
 - vbaxl10.chm504084
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.WorkbookBeforeClose Event (Excel)
+# Application.WorkbookBeforeClose event (Excel)
 
 Occurs immediately before any open workbook closes.
 

@@ -19,7 +19,7 @@ Returns an object that represents a collection of all of the visible categories 
 
 _expression_. `CategoryCollection`_(Index)_
 
-_expression_ A variable that represents a [ChartGroup](Excel.ChartGroup-graph-object.md) object.
+_expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object).md)** object.
 
 
 ## Parameters

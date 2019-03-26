@@ -1,5 +1,5 @@
 ---
-title: Application.ProtectedViewWindowOpen Event (Excel)
+title: Application.ProtectedViewWindowOpen event (Excel)
 keywords: vbaxl10.chm504108
 f1_keywords:
 - vbaxl10.chm504108
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.ProtectedViewWindowOpen Event (Excel)
+# Application.ProtectedViewWindowOpen event (Excel)
 
 Occurs when a workbook is opened in a  **Protected View** window.
 

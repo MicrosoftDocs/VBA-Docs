@@ -1,5 +1,5 @@
 ---
-title: Application.SheetChange Event (Excel)
+title: Application.SheetChange event (Excel)
 keywords: vbaxl10.chm504080
 f1_keywords:
 - vbaxl10.chm504080
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Application.SheetChange Event (Excel)
+# Application.SheetChange event (Excel)
 
 Occurs when cells in any worksheet are changed by the user or by an external link.
 

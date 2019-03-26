@@ -1,5 +1,5 @@
 ---
-title: Workbook.BeforeSave Event (Excel)
+title: Workbook.BeforeSave event (Excel)
 keywords: vbaxl10.chm503077
 f1_keywords:
 - vbaxl10.chm503077
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.BeforeSave Event (Excel)
+# Workbook.BeforeSave event (Excel)
 
 Occurs before the workbook is saved.
 

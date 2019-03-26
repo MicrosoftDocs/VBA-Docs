@@ -1,5 +1,5 @@
 ---
-title: Workbook.AfterRemoteChange Event (Excel)
+title: Workbook.AfterRemoteChange event (Excel)
 keywords: vbaxl10.chm504121
 f1_keywords:
 - vbaxl10.chm504121
@@ -11,7 +11,7 @@ localization_priority: Normal
 ---
 
 
-# Workbook.AfterRemoteChange Event (Excel)
+# Workbook.AfterRemoteChange event (Excel)
 
 Occurs after a remote user's edits to the workbook are merged.
 

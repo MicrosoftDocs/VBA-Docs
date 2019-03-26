@@ -1,5 +1,5 @@
 ---
-title: OLEObject.LostFocus Event (Excel)
+title: OLEObject.LostFocus event (Excel)
 keywords: vbaxl10.chm501074
 f1_keywords:
 - vbaxl10.chm501074
@@ -12,7 +12,7 @@ localization_priority: Normal
 ---
 
 
-# OLEObject.LostFocus Event (Excel)
+# OLEObject.LostFocus event (Excel)
 
 Occurs when an ActiveX control loses input focus.
 

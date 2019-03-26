@@ -21,7 +21,7 @@ Removes all entries from a Microsoft Excel list box or combo box.
 
 _expression_. `RemoveAllItems`
 
-_expression_ A variable that represents a [ControlFormat](Excel.ControlFormat.md) object.
+_expression_ A variable that represents a **[ControlFormat](Excel.ControlFormat.md)** object.
 
 
 ## Example
