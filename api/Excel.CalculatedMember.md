@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalculatedMember
 ms.assetid: 07a1f8df-107e-a5fd-3d15-dfc92916c4c6
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,20 +19,17 @@ Represents the calculated fields, calculated items, and named sets for PivotTabl
 
 ## Remarks
 
-Use the  **[Add](Excel.CalculatedMembers.Add.md)** method or the [Item](Excel.CalculatedMembers.Item.md) property of the **[CalculatedMembers](Excel.CalculatedMembers.md)** collection to return a **CalculatedMember** object.
+Use the **Add** method or the **Item** property of the **[CalculatedMembers](Excel.CalculatedMembers.md)** collection to return a **CalculatedMember** object.
 
-With a  **CalculatedMember** object you can check the validity of a calculated field or item in a PivotTable using the **[IsValid](Excel.CalculatedMember.IsValid.md)** property.
+With a **CalculatedMember** object, you can check the validity of a calculated field or item in a PivotTable by using the **IsValid** property.
 
-
-
-
- **Note**   The **IsValid** property will return **True** if the PivotTable is not currently connected to the data source. Use the **[MakeConnection](Excel.PivotCache.MakeConnection.md)** method before testing the **IsValid** property.
+> [!NOTE] 
+> The **IsValid** property returns **True** if the PivotTable is not currently connected to the data source. Use the **[MakeConnection](Excel.PivotCache.MakeConnection.md)** method of the **PivotCache** object before testing the **IsValid** property.
 
 
 ## Example
 
-The following example notifies the user if the calculated member is valid or not. This example assumes a PivotTable exists on the active worksheet that contains either a valid or invalid calculated member.
-
+The following example notifies the user whether the calculated member is valid. This example assumes that a PivotTable exists on the active worksheet that contains either a valid or invalid calculated member.
 
 ```vb
 Sub CheckValidity() 

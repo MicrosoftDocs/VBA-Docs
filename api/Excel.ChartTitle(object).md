@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartTitle
 ms.assetid: e0a10650-66dd-dd33-e9ba-5a5c0f78f2c3
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents the chart title.
 
 ## Remarks
 
-Use the  **ChartTitle** property to return the **ChartTitle** object.
+Use the **[ChartTitle](excel.chart.charttitle.md)** property of the **Chart** object to return the **ChartTitle** object.
 
-The  **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Chart.HasTitle.md)** property for the chart is **True**.
+The **ChartTitle** object doesn't exist and cannot be used unless the **[HasTitle](Excel.Chart.HasTitle.md)** property for the chart is **True**.
 
 
 ## Example
 
- The following example adds a title to embedded chart one on the worksheet named "Sheet1."
-
+The following example adds a title to embedded chart one on the worksheet named **Sheet1**.
 
 ```vb
 With Worksheets("sheet1").ChartObjects(1).Chart 

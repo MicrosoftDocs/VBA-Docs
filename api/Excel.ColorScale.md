@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ColorScale
 ms.assetid: 3982b041-9178-7a45-7453-c88963501a3c
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,16 @@ Represents a color scale conditional formatting rule.
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a color scale formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddColorScale](Excel.FormatConditions.AddColorScale.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a color scale formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddColorScale](Excel.FormatConditions.AddColorScale.md)** method of the **FormatConditions** collection.
 
 Color scales are visual guides that help you understand data distribution and variation. You can apply either a two-color or a three-color scale to a range of data, data in a table, or data in a PivotTable report. For a two-color scale conditional format, you assign the value, type, and color to the minimum and maximum thresholds of a range. A three-color scale also has a midpoint threshold.
 
-Each of these thresholds is determined by setting the properties of the  **[ColorScaleCriteria](Excel.ColorScaleCriteria.md)** object. The **ColorScaleCriteria** object, which is a child of the **ColorScale** object, is a collection of all of the **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** objects for the color scale.
+Each of these thresholds is determined by setting the properties of the **[ColorScaleCriteria](Excel.ColorScaleCriteria.md)** object. The **ColorScaleCriteria** object, which is a child of the **ColorScale** object, is a collection of all of the **[ColorScaleCriterion](Excel.ColorScaleCriterion.md)** objects for the color scale.
 
 
 ## Example
 
 The following code example creates a range of numbers and then applies a two-color scale conditional formatting rule to that range. The color for the minimum threshold is then assigned to red and the maximum threshold to blue.
-
 
 ```vb
 Sub CreateColorScaleCF() 

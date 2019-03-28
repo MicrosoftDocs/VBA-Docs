@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Chart
 ms.assetid: 179c32ce-49bd-6f36-ea12-89fb5443f3ea
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Priority
 ---
 
@@ -23,18 +23,18 @@ The chart can be either an embedded chart (contained in a **[ChartObject](Excel.
 
 The following properties and methods for returning a **Chart** object are described in the example section:
 
--  **Charts** method    
--  **ActiveChart** property   
--  **ActiveSheet** property
+- **Charts** method    
+- **ActiveChart** property   
+- **ActiveSheet** property
     
 
 ## Example
 
-The **[Charts](Excel.Charts.md)** collection contains a **Chart** object for each chart sheet in a workbook. Use **Charts** ( _index_ ), where index is the chart-sheet index number or name, to return a single **Chart** object. 
+The **[Charts](Excel.Charts.md)** collection contains a **Chart** object for each chart sheet in a workbook. Use **Charts** (_index_), where _index_ is the chart-sheet index number or name, to return a single **Chart** object. 
 
-The chart index number represents the position of the chart sheet on the workbook tab bar. _Charts(1)_ is the first (leftmost) chart in the workbook; _Charts(Charts.Count)_ is the last (rightmost). 
+The chart _index_ number represents the position of the chart sheet on the workbook tab bar. _Charts(1)_ is the first (leftmost) chart in the workbook; _Charts(Charts.Count)_ is the last (rightmost). 
 
-All chart sheets are included in the index count, even if they are hidden. The chart-sheet name is shown on the workbook tab for the chart. You can use the **[Name](Excel.ChartObject.Name.md)** property to set or return the chart name. 
+All chart sheets are included in the index count, even if they are hidden. The chart-sheet name is shown on the workbook tab for the chart. You can use the **[Name](Excel.ChartObject.Name.md)** property of the **ChartObject** object to set or return the chart name. 
 
 The following example changes the color of series 1 on chart sheet 1.
 
@@ -42,17 +42,21 @@ The following example changes the color of series 1 on chart sheet 1.
 Charts(1).SeriesCollection(1).Format.Fill.ForeColor.RGB = rgbRed
 ```
 
+<br/>
+
 The following example moves the chart named Sales to the end of the active workbook.
 
 ```vb
 Charts("Sales").Move after:=Sheets(Sheets.Count)
 ```
 
-The **Chart** object is also a member of the **[Sheets](Excel.Sheets.md)** collection, which contains all the sheets in the workbook (both chart sheets and worksheets). Use **Sheets** ( _index_ ), where _index_ is the sheet index number or name, to return a single sheet.
+<br/>
 
-When a chart is the active object, you can use the **ActiveChart** property to refer to it. A chart sheet is active if the user has selected it or if it has been activated with the **[Activate](Excel.Chart.Activate(method).md)** method of the **Chart** object or the **[Activate](Excel.ChartObject.Activate.md)** method of the **ChartObject** object. 
+The **Chart** object is also a member of the **[Sheets](Excel.Sheets.md)** collection, which contains all the sheets in the workbook (both chart sheets and worksheets). Use **Sheets** (_index_), where _index_ is the sheet index number or name, to return a single sheet.
 
-The following example activates chart sheet 1 and then sets the chart type and title.
+When a chart is the active object, you can use the **ActiveChart** property to refer to it. A chart sheet is active if the user has selected it or if it has been activated with the **Activate** method of the **Chart** object or the **[Activate](Excel.ChartObject.Activate.md)** method of the **ChartObject** object. 
+
+The following example activates chart sheet 1, and then sets the chart type and title.
 
 ```vb
 Charts(1).Activate 
@@ -63,7 +67,9 @@ With ActiveChart
 End With
 ```
 
-An embedded chart is active if the user has selected it, or the **[ChartObject](Excel.ChartObject.md)** object in which it is contained has been activated with the **[Activate](Excel.ChartObject.Activate.md)** method. 
+<br/>
+
+An embedded chart is active if the user has selected it, or the **ChartObject** object in which it is contained has been activated with the **Activate** method. 
 
 The following example activates embedded chart 1 on worksheet 1 and then sets the chart type and title. Notice that after the embedded chart has been activated, the code in this example is the same as that in the previous example. Using the **ActiveChart** property allows you to write Visual Basic code that can refer to either an embedded chart or a chart sheet (whichever is active).
 
@@ -73,6 +79,8 @@ ActiveChart.ChartType = xlLine
 ActiveChart.HasTitle = True 
 ActiveChart.ChartTitle.Text = "January Sales"
 ```
+
+<br/>
 
 When a chart sheet is the active sheet, you can use the **ActiveSheet** property to refer to it. The following example uses the **Activate** method to activate the chart sheet named Chart1, and then sets the interior color for series 1 in the chart to blue.
 

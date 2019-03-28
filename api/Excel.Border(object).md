@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: bca516bf-7c0f-f9df-078d-dfb522f256f3
-ms.date: 03/07/2019
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -21,30 +21,30 @@ Represents the border of an object.
 
 Most bordered objects (all except for the **[Range](Excel.Range(object).md)** and **[Style](Excel.Style.md)** objects) have a border that's treated as a single entity, regardless of how many sides it has. The entire border must be returned as a unit. 
 
-Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **[TrendLine](Excel.Trendline(object).md)** object, to return the **Border** object for this kind of object.
+Use the **[Border](Excel.Trendline.Border.md)** property, such as from a **TrendLine** object, to return the **Border** object for this kind of object.
 
 > [!IMPORTANT] 
 > Note that the visual properties of a **Border** object are interlocked; that is, changing one property can induce changes in another. In most cases, the induced changes serve to make the border visible (which may or may not be desirable). However, other (more unexpected) results are possible.
 > 
 > Following is an example of interlocking with unexpected results. In this example, setting a border's **Weight** property to xlThick induces the **LineStyle** property to become xlSolid despite having previously set it to xlDashDotDot.
-
-```vb
-Sub InterlockingExample()
-    Dim SomeRange As Range
-    Dim SomeBorder As Border
-    
-    Set MyRange = Selection
-    Set SomeBorder = MyRange.Borders(xlDiagonalDown)
-    SomeBorder.Color = RGB(255, 0, 0)
-    Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 1
-    Debug.Print "Set SomeBorder.LineStyle = xlDashDotDot"          'Set SomeBorder.LineStyle = xlDashDotDot
-    SomeBorder.LineStyle = xlDashDotDot
-    Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 5
-    Debug.Print "Set SomeBorder.Weight = xlThick"                  'Set SomeBorder.Weight = xlThick
-    SomeBorder.Weight = xlThick
-    Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 1
-End Sub
-```
+> 
+> ```vb
+    Sub InterlockingExample()
+        Dim SomeRange As Range
+        Dim SomeBorder As Border
+        
+        Set MyRange = Selection
+        Set SomeBorder = MyRange.Borders(xlDiagonalDown)
+        SomeBorder.Color = RGB(255, 0, 0)
+        Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 1
+        Debug.Print "Set SomeBorder.LineStyle = xlDashDotDot"          'Set SomeBorder.LineStyle = xlDashDotDot
+        SomeBorder.LineStyle = xlDashDotDot
+        Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 5
+        Debug.Print "Set SomeBorder.Weight = xlThick"                  'Set SomeBorder.Weight = xlThick
+        SomeBorder.Weight = xlThick
+        Debug.Print "SomeBorder.LineStyle = " & SomeBorder.LineStyle   'SomeBorder.LineStyle = 1
+    End Sub
+> ```
 
 ## Example
 
@@ -67,7 +67,7 @@ Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 
 <br/>
 
-Use **Borders**(_Index_), where _Index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
+Use **Borders**(_index_), where _index_ identifies the border, to return a single **Border** object. The following example sets the color of the bottom border of cells A1:G1.
 
 ```vb
 Worksheets("Sheet1").Range("A1:G1"). _ 

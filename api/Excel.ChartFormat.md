@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartFormat
 ms.assetid: edac71b7-ed38-6658-2cbf-6493dc1ad3ed
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Provides access to the Office Art formatting for chart elements.
 
 ## Remarks
 
-Using a property or method that does not apply to the type of object the  **ChartFormat** object is attached to will result in a run-time error.
+Using a property or method that does not apply to the type of object that the **ChartFormat** object is attached to will result in a run-time error.
 
 
 ## Properties

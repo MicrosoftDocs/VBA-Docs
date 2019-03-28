@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ChartArea
 ms.assetid: 883423b5-7689-b164-c0a3-8dab049b5d9e
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -21,15 +21,14 @@ Represents the chart area of a chart.
 
 The chart area includes everything, including the plot area. However, the plot area has its own fill, so filling the plot area does not fill the chart area.
 
- For information about formatting the plot area, see **[PlotArea Object](Excel.PlotArea(object).md)**.
+For information about formatting the plot area, see the **[PlotArea](Excel.PlotArea(object).md)** object.
 
-Use the  **ChartArea** property to return the **ChartArea** object.
+Use the **[ChartArea](excel.chart.chartarea.md)** property of the **Chart** object to return the **ChartArea** object.
 
 
 ## Example
 
-The following example turns off the border for the chart area in embedded chart 1 on the worksheet named "Sheet1."
-
+The following example turns off the border for the chart area in embedded chart 1 on the worksheet named **Sheet1**.
 
 ```vb
 Worksheets("Sheet1").ChartObjects(1).Chart. _ 

@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ColorStops
 ms.assetid: e138347b-f03c-2f50-bf61-f7f2182c9681
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
 
 # ColorStops object (Excel)
 
-A collection of all the [ColorStop](Excel.ColorStop.md) objects for the specified series.
+A collection of all the **[ColorStop](Excel.ColorStop.md)** objects for the specified series.
 
 
 ## Remarks
 
-Each  **ColorStop** Object represents a color stop for gradient fill in a range or selection.
+Each **ColorStop** object represents a color stop for a gradient fill in a range or selection.
 
 
 ## Example
 
-The following example shows the ColorStops with LinearGradients.
-
+The following example shows the color stops with linear gradients.
 
 ```vb
 With Selection.Interior 
@@ -46,10 +45,9 @@ With Selection.Interior.Gradient.ColorStops.Add(1)
 End With
 ```
 
-The following example shows the ColorStops with RectangularGradients.
+<br/>
 
-
-
+The following example shows the color stops with rectangular gradients.
 
 ```vb
 With Selection.Interior 

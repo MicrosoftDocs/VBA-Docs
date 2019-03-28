@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CellFormat
 ms.assetid: da4e50b9-6d5b-22e1-3113-0d1ea6686272
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents the search criteria for the cell format.
 
 ## Remarks
 
-Use the  **[FindFormat](Excel.Application.FindFormat.md)** or **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties of the **[Application](Excel.Application(object).md)** object to return a **CellFormat** object.
+Use the **[FindFormat](Excel.Application.FindFormat.md)** or **[ReplaceFormat](Excel.Application.ReplaceFormat.md)** properties of the **Application** object to return a **CellFormat** object.
 
-With a  **CellFormat** object, you can use the **[Borders](Excel.CellFormat.Borders.md)**, **[Font](Excel.CellFormat.Font.md)**, or **[Interior](Excel.CellFormat.Interior.md)** properties of the **CellFormat** object, to define the search criteria for the cell format.
+You can use the **Borders**, **Font**, or **Interior** properties of the **CellFormat** object to define the search criteria for the cell format.
 
 
 ## Example
 
 The following example sets the search criteria for the interior of the cell format. 
-
 
 ```vb
 Sub ChangeCellFormat() 
