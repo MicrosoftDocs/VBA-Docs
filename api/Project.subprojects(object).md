@@ -24,7 +24,7 @@ Contains a collection of **[Subproject](Project.Subproject.md)** objects.
 
 ### Using the Subprojects collection object
 
-Use **Subprojects** ( _Index_ ), where _Index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
+Use **Subprojects** (_index_), where _index_ is the subproject index or project summary task name, to return a single **Subproject** object. The following example prevents changes made to the specified subproject in a master project from being automatically made to the source project.
 
 ```vb
 ActiveProject.Subprojects("Arcadia Bay Online Catalog Plan").LinkToSource = False

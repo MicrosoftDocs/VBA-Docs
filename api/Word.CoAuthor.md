@@ -22,7 +22,7 @@ Represents a single co author in the document. The  **CoAuthor** object is a mem
 
 ## Remarks
 
-Use  **CoAuthors** ( _Index_ ), where _Index_ is the index number to return a single **CoAuthor** object.
+Use  **CoAuthors** (_index_), where _index_ is the index number to return a single **CoAuthor** object.
 
 
  **Note**  When a new co author begins to edit the document, it can take up to one minute or longer for the co author to appear in the document.

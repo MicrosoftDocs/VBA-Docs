@@ -19,7 +19,7 @@ A collection of all the  **[Point](PowerPoint.Point.md)** objects in the specifi
 
 ## Remarks
 
-Use  **[Points](PowerPoint.Series.Points.md)** ( _Index_ ), where _Index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
+Use  **[Points](PowerPoint.Series.Points.md)** (_index_), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
 
 
 ## Example

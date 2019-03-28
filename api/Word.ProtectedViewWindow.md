@@ -21,7 +21,7 @@ Represents a protected view window.
 
 Documents displayed in a protected view window cannot be edited and are restricted from running active content such as Visual Basic for Applications macros and Data Connections.
 
-Use [ProtectedViewWindows](Word.ProtectedViewWindows.md)( _Index_ ), where _Index_ is the index number to return a single **ProtectedViewWindow** object.
+Use [ProtectedViewWindows](Word.ProtectedViewWindows.md) (_index_), where _index_ is the index number to return a single **ProtectedViewWindow** object.
 
 
 ## Example

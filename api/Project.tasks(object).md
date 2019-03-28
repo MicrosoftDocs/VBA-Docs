@@ -16,7 +16,7 @@ Contains a collection of  **[Task](Project.Task.md)** objects.
 
  **Using the Task Object**
 
-Use  **Tasks** ( _Index_ ), where _Index_ is the task index number or task name, to return a single **Task** object. The following example prints the names of every resource assigned to every task in the active project.
+Use  **Tasks** (_index_), where _index_ is the task index number or task name, to return a single **Task** object. The following example prints the names of every resource assigned to every task in the active project.
 
 
 

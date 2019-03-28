@@ -19,7 +19,7 @@ A collection of  **ResampleMediaTask** objects.
 
 ## Remarks
 
-Use  **ResampleMediaTasks** ( _Index_ ) to return a **ResampleMediaTask** object, where _Index_ is the position of the **ResampleMediaTask** object to return.
+Use  **ResampleMediaTasks** (_index_) to return a **ResampleMediaTask** object, where _index_ is the position of the **ResampleMediaTask** object to return.
 
 
 ## See also

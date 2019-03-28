@@ -16,7 +16,7 @@ Contains a collection of  **[Resource](Project.Resource.md)** objects.
 
  **Using the Resources Collection**
 
-Use  **Resources** ( _Index_ ), where _Index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
+Use  **Resources** (_index_), where _index_ is the resource index number or resource name, to return a single **Resource** object. The following example lists the names of all resources in the active project.
 
 
 
