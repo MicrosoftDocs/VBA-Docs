@@ -21,10 +21,21 @@ Represents a single sparkline.
 
 Use the  **[ModifyLocation](Excel.Sparkline.ModifyLocation.md)** method to change the location of a single sparkline, and use the **[ModifySourceData](Excel.Sparkline.ModifySourceData.md)** method to change the range of the source data. To work with a group of sparklines at once, use the members of the **[SparklineGroup](Excel.SparklineGroup.md)** object.
 
+## Methods
+
+- [ModifyLocation](Excel.Sparkline.ModifyLocation.md)
+- [ModifySourceData](Excel.Sparkline.ModifySourceData.md)
+
+## Properties
+
+- [Application](Excel.Sparkline.Application.md)
+- [Creator](Excel.Sparkline.Creator.md)
+- [Location](Excel.Sparkline.Location.md)
+- [Parent](Excel.Sparkline.Parent.md)
+- [SourceData](Excel.Sparkline.SourceData.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

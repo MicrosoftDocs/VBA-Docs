@@ -37,10 +37,21 @@ With Worksheets("sheet5").ChartObjects(1).Chart.ChartGroups(1)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.UpBars.Delete.md)
+- [Select](Excel.UpBars.Select.md)
+
+## Properties
+
+- [Application](Excel.UpBars.Application.md)
+- [Creator](Excel.UpBars.Creator.md)
+- [Format](Excel.UpBars.Format.md)
+- [Name](Excel.UpBars.Name.md)
+- [Parent](Excel.UpBars.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

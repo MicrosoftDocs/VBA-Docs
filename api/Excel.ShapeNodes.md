@@ -58,10 +58,24 @@ With myDocument.Shapes(3)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.ShapeNodes.Delete.md)
+- [Insert](Excel.ShapeNodes.Insert.md)
+- [Item](Excel.ShapeNodes.Item.md)
+- [SetEditingType](Excel.ShapeNodes.SetEditingType.md)
+- [SetPosition](Excel.ShapeNodes.SetPosition.md)
+- [SetSegmentType](Excel.ShapeNodes.SetSegmentType.md)
+
+## Properties
+
+- [Application](Excel.ShapeNodes.Application.md)
+- [Count](Excel.ShapeNodes.Count.md)
+- [Creator](Excel.ShapeNodes.Creator.md)
+- [Parent](Excel.ShapeNodes.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

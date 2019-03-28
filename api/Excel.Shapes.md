@@ -75,11 +75,37 @@ Private Sub chkFinished_Click()
 End Sub
 ```
 
+## Methods
+
+- [AddCallout](Excel.Shapes.AddCallout.md)
+- [AddChart2](Excel.shapes.addchart2.md)
+- [AddConnector](Excel.Shapes.AddConnector.md)
+- [AddCurve](Excel.Shapes.AddCurve.md)
+- [AddFormControl](Excel.Shapes.AddFormControl.md)
+- [AddLabel](Excel.Shapes.AddLabel.md)
+- [AddLine](Excel.Shapes.AddLine.md)
+- [AddOLEObject](Excel.Shapes.AddOLEObject.md)
+- [AddPicture](Excel.Shapes.AddPicture.md)
+- [AddPicture2](Excel.shapes.addpicture2.md)
+- [AddPolyline](Excel.Shapes.AddPolyline.md)
+- [AddShape](Excel.Shapes.AddShape.md)
+- [AddSmartArt](Excel.Shapes.AddSmartArt.md)
+- [AddTextbox](Excel.Shapes.AddTextbox.md)
+- [AddTextEffect](Excel.Shapes.AddTextEffect.md)
+- [BuildFreeform](Excel.Shapes.BuildFreeform.md)
+- [Item](Excel.Shapes.Item.md)
+- [SelectAll](Excel.Shapes.SelectAll.md)
+
+## Properties
+
+- [Application](Excel.Shapes.Application.md)
+- [Count](Excel.Shapes.Count.md)
+- [Creator](Excel.Shapes.Creator.md)
+- [Parent](Excel.Shapes.Parent.md)
+- [Range](Excel.Shapes.Range.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

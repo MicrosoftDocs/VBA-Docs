@@ -45,10 +45,15 @@ Sub ListFieldNames
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.PivotLayout.Application.md)
+- [Creator](Excel.PivotLayout.Creator.md)
+- [Parent](Excel.PivotLayout.Parent.md)
+- [PivotTable](Excel.PivotLayout.PivotTable.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

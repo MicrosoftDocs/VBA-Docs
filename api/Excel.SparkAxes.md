@@ -21,10 +21,16 @@ Represents the settings for the horizontal and vertical axes of a group of spark
 
 Use the  **[Axes](Excel.SparklineGroup.Axes.md)** property of a **[SparklineGroup](Excel.SparklineGroup.md)** object to return the **SparkAxes** object for that group of sparklines.
 
+## Properties
+
+- [Application](Excel.sparkAxes.Application.md)
+- [Creator](Excel.sparkAxes.Creator.md)
+- [Horizontal](Excel.SparkAxes.Horizontal.md)
+- [Parent](Excel.sparkAxes.Parent.md)
+- [Vertical](Excel.SparkAxes.Vertical.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

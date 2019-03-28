@@ -14,7 +14,21 @@ localization_priority: Normal
 
 This collection contains all relationships currently between data tables in the data model of Excel 2013.
 
+## Methods
+
+- [Add](Excel.modelrelationships.add.md)
+- [DetectRelationships](Excel.modelrelationships.detectrelationships.md)
+- [Item](Excel.modelrelationships.item.md)
+
+## Properties
+
+- [Application](Excel.modelrelationships.application.md)
+- [Count](Excel.modelrelationships.count.md)
+- [Creator](Excel.modelrelationships.creator.md)
+- [Parent](Excel.modelrelationships.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

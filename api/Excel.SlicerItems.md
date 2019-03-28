@@ -23,10 +23,16 @@ To access the  **SlicerItems** collection that represents the items in a slicer 
 
  To access the **SlicerItems** collection that represents the items in a slicer based on OLAP data connection, use the **[SlicerItems](Excel.SlicerCacheLevel.SlicerItems.md)** property of the **SlicerCacheLevel** object that represents a level of the hierarchy.
 
+## Properties
+
+- [Application](Excel.SlicerItems.Application.md)
+- [Count](Excel.SlicerItems.Count.md)
+- [Creator](Excel.SlicerItems.Creator.md)
+- [Item](Excel.SlicerItems.Item.md)
+- [Parent](Excel.SlicerItems.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

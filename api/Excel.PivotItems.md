@@ -57,27 +57,19 @@ Worksheets("sheet3").PivotTables(1) _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.PivotItems.Add.md)|
-|[Item](Excel.PivotItems.Item.md)|
+- [Add](Excel.PivotItems.Add.md)
+- [Item](Excel.PivotItems.Item.md)
 
 ## Properties
 
+- [Application](Excel.PivotItems.Application.md)
+- [Count](Excel.PivotItems.Count.md)
+- [Creator](Excel.PivotItems.Creator.md)
+- [Parent](Excel.PivotItems.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PivotItems.Application.md)|
-|[Count](Excel.PivotItems.Count.md)|
-|[Creator](Excel.PivotItems.Creator.md)|
-|[Parent](Excel.PivotItems.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

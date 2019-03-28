@@ -36,9 +36,23 @@ ActiveChart.ChartGroups(1).DropLines.Border.ColorIndex = 3
 ```
 
 
+
+## Methods
+
+- [Delete](Excel.DropLines.Delete.md)
+- [Select](Excel.DropLines.Select.md)
+
+## Properties
+
+- [Application](Excel.DropLines.Application.md)
+- [Border](Excel.DropLines.Border.md)
+- [Creator](Excel.DropLines.Creator.md)
+- [Format](Excel.DropLines.Format.md)
+- [Name](Excel.DropLines.Name.md)
+- [Parent](Excel.DropLines.Parent.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

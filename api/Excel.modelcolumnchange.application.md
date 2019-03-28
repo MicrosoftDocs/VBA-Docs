@@ -12,19 +12,19 @@ localization_priority: Normal
 
 # ModelColumnChange.Application property (Excel)
 
-Returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
+Returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [ModelColumnChange object (Excel)](Excel.modelcolumnchange.md) object.
+_expression_ A variable that represents a **[ModelColumnChange](Excel.modelcolumnchange.md)** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created `myObject`.
 
 
 ```vb
@@ -39,13 +39,9 @@ End If
 
 ## Property value
 
- **APPLICATION**
-
-
-## See also
+**APPLICATION**
 
 
 
-[ModelColumnChange Object](Excel.modelcolumnchange.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

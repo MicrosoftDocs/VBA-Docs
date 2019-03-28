@@ -19,12 +19,19 @@ Returns or sets the concurrent calculation mode.
 
 ## Syntax
 
- _expression_ . [MultiThreadedCalculation](Excel.MultiThreadedCalculation.md)
+_expression_.**MultiThreadedCalculation**
 
+## Properties
+
+- [Application](Excel.MultiThreadedCalculation.Application.md)
+- [Creator](Excel.MultiThreadedCalculation.Creator.md)
+- [Enabled](Excel.MultiThreadedCalculation.Enabled.md)
+- [Parent](Excel.MultiThreadedCalculation.Parent.md)
+- [ThreadCount](Excel.MultiThreadedCalculation.ThreadCount.md)
+- [ThreadMode](Excel.MultiThreadedCalculation.ThreadMode.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

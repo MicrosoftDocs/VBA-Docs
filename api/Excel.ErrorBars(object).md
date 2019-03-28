@@ -35,11 +35,24 @@ ActiveChart.SeriesCollection(1).HasErrorBars = True
 ActiveChart.SeriesCollection(1).ErrorBars.EndStyle = xlNoCap
 ```
 
+## Methods
+
+- [ClearFormats](Excel.ErrorBars.ClearFormats.md)
+- [Delete](Excel.ErrorBars.Delete.md)
+- [Select](Excel.ErrorBars.Select.md)
+
+## Properties
+
+- [Application](Excel.ErrorBars.Application.md)
+- [Border](Excel.ErrorBars.Border.md)
+- [Creator](Excel.ErrorBars.Creator.md)
+- [EndStyle](Excel.ErrorBars.EndStyle.md)
+- [Format](Excel.ErrorBars.Format.md)
+- [Name](Excel.ErrorBars.Name.md)
+- [Parent](Excel.ErrorBars.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

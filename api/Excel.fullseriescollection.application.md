@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Example
@@ -40,6 +40,7 @@ End If
 ## Property value
 
  **APPLICATION**
+
 
 
 ## See also

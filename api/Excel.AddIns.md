@@ -56,6 +56,19 @@ AddIns("analysis toolpak").Installed = True
 ```
 
 
+## Methods
+
+- [Add](Excel.AddIns.Add.md)
+
+## Properties
+
+- [Application](Excel.AddIns.Application.md)
+- [Count](Excel.AddIns.Count.md)
+- [Creator](Excel.AddIns.Creator.md)
+- [Item](Excel.AddIns.Item.md)
+- [Parent](Excel.AddIns.Parent.md)
+
+
 ## See also
 
 - [Excel Object Model reference](overview/Excel/object-model.md)

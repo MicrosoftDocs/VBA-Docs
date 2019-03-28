@@ -53,18 +53,18 @@ End Sub
 
 ## Properties
 
-|Name|
-|:-----|
-|[Application Property](excel.formatcolor.application.md)|
-|[Color Property](excel.formatcolor.color.md)|
-|[ColorIndex Property](excel.formatcolor.colorindex.md)|
-|[Creator Property](excel.formatcolor.creator.md)|
-|[Parent Property](excel.formatcolor.parent.md)|
-|[ThemeColor Property](excel.formatcolor.themecolor.md)|
-|[TintAndShade Property](excel.formatcolor.tintandshade.md)|
+- [Application](Excel.FormatColor.Application.md)
+- [Color](Excel.FormatColor.Color.md)
+- [ColorIndex](Excel.FormatColor.ColorIndex.md)
+- [Creator](Excel.FormatColor.Creator.md)
+- [Parent](Excel.FormatColor.Parent.md)
+- [ThemeColor](Excel.FormatColor.ThemeColor.md)
+- [TintAndShade](Excel.FormatColor.TintAndShade.md)
+
 
 ## See also
 
-[ColorScaleCriterion.FormatColor Property](excel.colorscalecriterion.formatcolor.md)
+- [ColorScaleCriterion.FormatColor property](excel.colorscalecriterion.formatcolor.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -64,31 +64,24 @@ Holy Macro! Books publishes entertaining books for people who use Microsoft Offi
 
 ## Properties
 
+- [Application](Excel.Interior.Application.md)
+- [Color](Excel.Interior.Color.md)
+- [ColorIndex](Excel.Interior.ColorIndex.md)
+- [Creator](Excel.Interior.Creator.md)
+- [Gradient](Excel.Interior.Gradient.md)
+- [InvertIfNegative](Excel.Interior.InvertIfNegative.md)
+- [Parent](Excel.Interior.Parent.md)
+- [Pattern](Excel.Interior.Pattern.md)
+- [PatternColor](Excel.Interior.PatternColor.md)
+- [PatternColorIndex](Excel.Interior.PatternColorIndex.md)
+- [PatternThemeColor](Excel.Interior.PatternThemeColor.md)
+- [PatternTintAndShade](Excel.Interior.PatternTintAndShade.md)
+- [ThemeColor](Excel.Interior.ThemeColor.md)
+- [TintAndShade](Excel.Interior.TintAndShade.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Interior.Application.md)|
-|[Color](Excel.Interior.Color.md)|
-|[ColorIndex](Excel.Interior.ColorIndex.md)|
-|[Creator](Excel.Interior.Creator.md)|
-|[Gradient](Excel.Interior.Gradient.md)|
-|[InvertIfNegative](Excel.Interior.InvertIfNegative.md)|
-|[Parent](Excel.Interior.Parent.md)|
-|[Pattern](Excel.Interior.Pattern.md)|
-|[PatternColor](Excel.Interior.PatternColor.md)|
-|[PatternColorIndex](Excel.Interior.PatternColorIndex.md)|
-|[PatternThemeColor](Excel.Interior.PatternThemeColor.md)|
-|[PatternTintAndShade](Excel.Interior.PatternTintAndShade.md)|
-|[ThemeColor](Excel.Interior.ThemeColor.md)|
-|[TintAndShade](Excel.Interior.TintAndShade.md)|
 
 ## See also
 
-
-
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

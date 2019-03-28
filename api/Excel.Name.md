@@ -69,42 +69,34 @@ Worksheets(1).Range("a1:b1").Name.Visible = False
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.Name.Delete.md)|
+- [Delete](Excel.Name.Delete.md)
 
 ## Properties
 
+- [Application](Excel.Name.Application.md)
+- [Category](Excel.Name.Category.md)
+- [CategoryLocal](Excel.Name.CategoryLocal.md)
+- [Comment](Excel.Name.Comment.md)
+- [Creator](Excel.Name.Creator.md)
+- [Index](Excel.Name.Index.md)
+- [MacroType](Excel.Name.MacroType.md)
+- [Name](Excel.Name.Name.md)
+- [NameLocal](Excel.Name.NameLocal.md)
+- [Parent](Excel.Name.Parent.md)
+- [RefersTo](Excel.Name.RefersTo.md)
+- [RefersToLocal](Excel.Name.RefersToLocal.md)
+- [RefersToR1C1](Excel.Name.RefersToR1C1.md)
+- [RefersToR1C1Local](Excel.Name.RefersToR1C1Local.md)
+- [RefersToRange](Excel.Name.RefersToRange.md)
+- [ShortcutKey](Excel.Name.ShortcutKey.md)
+- [ValidWorkbookParameter](Excel.Name.ValidWorkbookParameter.md)
+- [Value](Excel.Name.Value.md)
+- [Visible](Excel.Name.Visible.md)
+- [WorkbookParameter](Excel.Name.WorkbookParameter.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Name.Application.md)|
-|[Category](Excel.Name.Category.md)|
-|[CategoryLocal](Excel.Name.CategoryLocal.md)|
-|[Comment](Excel.Name.Comment.md)|
-|[Creator](Excel.Name.Creator.md)|
-|[Index](Excel.Name.Index.md)|
-|[MacroType](Excel.Name.MacroType.md)|
-|[Name](Excel.Name.Name.md)|
-|[NameLocal](Excel.Name.NameLocal.md)|
-|[Parent](Excel.Name.Parent.md)|
-|[RefersTo](Excel.Name.RefersTo.md)|
-|[RefersToLocal](Excel.Name.RefersToLocal.md)|
-|[RefersToR1C1](Excel.Name.RefersToR1C1.md)|
-|[RefersToR1C1Local](Excel.Name.RefersToR1C1Local.md)|
-|[RefersToRange](Excel.Name.RefersToRange.md)|
-|[ShortcutKey](Excel.Name.ShortcutKey.md)|
-|[ValidWorkbookParameter](Excel.Name.ValidWorkbookParameter.md)|
-|[Value](Excel.Name.Value.md)|
-|[Visible](Excel.Name.Visible.md)|
-|[WorkbookParameter](Excel.Name.WorkbookParameter.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

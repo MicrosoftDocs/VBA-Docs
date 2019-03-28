@@ -50,11 +50,19 @@ With Range("A1:C4").Phonetic
 End With
 ```
 
+## Properties
+
+- [Alignment](Excel.Phonetic.Alignment.md)
+- [Application](Excel.Phonetic.Application.md)
+- [CharacterType](Excel.Phonetic.CharacterType.md)
+- [Creator](Excel.Phonetic.Creator.md)
+- [Font](Excel.Phonetic.Font.md)
+- [Parent](Excel.Phonetic.Parent.md)
+- [Text](Excel.Phonetic.Text.md)
+- [Visible](Excel.Phonetic.Visible.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

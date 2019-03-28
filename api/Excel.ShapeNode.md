@@ -36,11 +36,17 @@ With myDocument.Shapes(3)
 End With
 ```
 
+## Properties
+
+- [Application](Excel.ShapeNode.Application.md)
+- [Creator](Excel.ShapeNode.Creator.md)
+- [EditingType](Excel.ShapeNode.EditingType.md)
+- [Parent](Excel.ShapeNode.Parent.md)
+- [Points](Excel.ShapeNode.Points.md)
+- [SegmentType](Excel.ShapeNode.SegmentType.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

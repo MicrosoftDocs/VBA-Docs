@@ -38,10 +38,38 @@ With Charts("Chart1").Axes(xlValue)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.DisplayUnitLabel.Delete.md)
+- [Select](Excel.DisplayUnitLabel.Select.md)
+
+## Properties
+
+- [Application](Excel.DisplayUnitLabel.Application.md)
+- [Caption](Excel.DisplayUnitLabel.Caption.md)
+- [Characters](Excel.DisplayUnitLabel.Characters.md)
+- [Creator](Excel.DisplayUnitLabel.Creator.md)
+- [Format](Excel.DisplayUnitLabel.Format.md)
+- [Formula](Excel.DisplayUnitLabel.Formula.md)
+- [FormulaLocal](Excel.DisplayUnitLabel.FormulaLocal.md)
+- [FormulaR1C1](Excel.DisplayUnitLabel.FormulaR1C1.md)
+- [FormulaR1C1Local](Excel.DisplayUnitLabel.FormulaR1C1Local.md)
+- [Height](Excel.DisplayUnitLabel.Height.md)
+- [HorizontalAlignment](Excel.DisplayUnitLabel.HorizontalAlignment.md)
+- [Left](Excel.DisplayUnitLabel.Left.md)
+- [Name](Excel.DisplayUnitLabel.Name.md)
+- [Orientation](Excel.DisplayUnitLabel.Orientation.md)
+- [Parent](Excel.DisplayUnitLabel.Parent.md)
+- [Position](Excel.DisplayUnitLabel.Position.md)
+- [ReadingOrder](Excel.DisplayUnitLabel.ReadingOrder.md)
+- [Shadow](Excel.DisplayUnitLabel.Shadow.md)
+- [Text](Excel.DisplayUnitLabel.Text.md)
+- [Top](Excel.DisplayUnitLabel.Top.md)
+- [VerticalAlignment](Excel.DisplayUnitLabel.VerticalAlignment.md)
+- [Width](Excel.DisplayUnitLabel.Width.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

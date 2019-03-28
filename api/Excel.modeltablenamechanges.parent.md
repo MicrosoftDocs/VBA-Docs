@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelTableNameChanges.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified **ModelTableNameChanges** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) object.
+_expression_ A variable that represents a **[ModelTableNameChanges](Excel.modeltablenamechanges.md)** object.
 
 
 ## Property value

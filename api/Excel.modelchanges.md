@@ -17,9 +17,28 @@ Represents changes made to the data model.
 
 ## Remarks
 
-The  **ModelChanges** object contains information about which changes were made to the data model when the Workbook.[Workbook.ModelChange event (Excel)](Excel.workbook.modelchange.md) (Excel) event occurs after a model operation. When Excel makes changes to the data model, multiple changes can be made in the same operation and the **ModelChanges** object will include information about all the changes made in one model operation.
+The **ModelChanges** object contains information about which changes were made to the data model when the Workbook.[Workbook.ModelChange](Excel.workbook.modelchange.md) event occurs after a model operation. When Excel makes changes to the data model, multiple changes can be made in the same operation, and the **ModelChanges** object will include information about all the changes made in one model operation.
+
+## Properties
+
+- [Application](Excel.modelchanges.application.md)
+- [ColumnsAdded](Excel.modelchanges.columnsadded.md)
+- [ColumnsChanged](Excel.modelchanges.columnschanged.md)
+- [ColumnsDeleted](Excel.modelchanges.columnsdeleted.md)
+- [Creator](Excel.modelchanges.creator.md)
+- [MeasuresAdded](Excel.modelchanges.measuresadded.md)
+- [Parent](Excel.modelchanges.parent.md)
+- [RelationshipChange](Excel.modelchanges.relationshipchange.md)
+- [Source](Excel.modelchanges.source.md)
+- [TableNamesChanged](Excel.modelchanges.tablenameschanged.md)
+- [TablesAdded](Excel.modelchanges.tablesadded.md)
+- [TablesDeleted](Excel.modelchanges.tablesdeleted.md)
+- [TablesModified](Excel.modelchanges.tablesmodified.md)
+- [UnknownChange](Excel.modelchanges.unknownchange.md)
 
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -66,13 +66,26 @@ Sub UseCalculatedMember()
 End Sub
 ```
 
+> [!NOTE] 
+> For the  **Add** method in the previous example, the **Formula** argument must have a valid MDX syntax statement. The **Name** argument has to be acceptable to the Online Analytical Processing (OLAP) provider and the **Type** argument has to be defined.
 
- **Note**  For the  **Add** method in the previous example, the **Formula** argument must have a valid MDX syntax statement. The **Name** argument has to be acceptable to the Online Analytical Processing (OLAP) provider and the **Type** argument has to be defined.
+
+## Methods
+
+- [Add](Excel.CalculatedMembers.Add.md)
+- [AddCalculatedMember](Excel.calculatedmembers.addcalculatedmember.md)
+
+## Properties
+
+- [Application](Excel.CalculatedMembers.Application.md)
+- [Count](Excel.CalculatedMembers.Count.md)
+- [Creator](Excel.CalculatedMembers.Creator.md)
+- [Item](Excel.CalculatedMembers.Item.md)
+- [Parent](Excel.CalculatedMembers.Parent.md)
 
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -59,28 +59,20 @@ ActiveWorkbook.Styles("Normal").Font.Bold = True
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Styles.Add.md)|
-|[Merge](Excel.Styles.Merge.md)|
+- [Add](Excel.Styles.Add.md)
+- [Merge](Excel.Styles.Merge.md)
 
 ## Properties
 
+- [Application](Excel.Styles.Application.md)
+- [Count](Excel.Styles.Count.md)
+- [Creator](Excel.Styles.Creator.md)
+- [Item](Excel.Styles.Item.md)
+- [Parent](Excel.Styles.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Styles.Application.md)|
-|[Count](Excel.Styles.Count.md)|
-|[Creator](Excel.Styles.Creator.md)|
-|[Item](Excel.Styles.Item.md)|
-|[Parent](Excel.Styles.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

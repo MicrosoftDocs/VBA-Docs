@@ -90,10 +90,33 @@ Sub CreateIconSetCF()
 End Sub
 ```
 
+## Methods
+
+- [Delete](Excel.IconSetCondition.Delete.md)
+- [ModifyAppliesToRange](Excel.IconSetCondition.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.IconSetCondition.SetFirstPriority.md)
+- [SetLastPriority](Excel.IconSetCondition.SetLastPriority.md)
+
+## Properties
+
+- [Application](Excel.IconSetCondition.Application.md)
+- [AppliesTo](Excel.IconSetCondition.AppliesTo.md)
+- [Creator](Excel.IconSetCondition.Creator.md)
+- [Formula](Excel.IconSetCondition.Formula.md)
+- [IconCriteria](Excel.IconSetCondition.IconCriteria.md)
+- [IconSet](Excel.IconSetCondition.IconSet.md)
+- [Parent](Excel.IconSetCondition.Parent.md)
+- [PercentileValues](Excel.IconSetCondition.PercentileValues.md)
+- [Priority](Excel.IconSetCondition.Priority.md)
+- [PTCondition](Excel.IconSetCondition.PTCondition.md)
+- [ReverseOrder](Excel.IconSetCondition.ReverseOrder.md)
+- [ScopeType](Excel.IconSetCondition.ScopeType.md)
+- [ShowIconOnly](Excel.IconSetCondition.ShowIconOnly.md)
+- [StopIfTrue](Excel.IconSetCondition.StopIfTrue.md)
+- [Type](Excel.IconSetCondition.Type.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

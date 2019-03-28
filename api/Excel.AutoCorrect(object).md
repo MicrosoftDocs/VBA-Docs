@@ -30,10 +30,29 @@ End With
 ```
 
 
+## Methods
+
+- [AddReplacement](Excel.AutoCorrect.AddReplacement.md)
+- [DeleteReplacement](Excel.AutoCorrect.DeleteReplacement.md)
+
+## Properties
+
+- [Application](Excel.AutoCorrect.Application.md)
+- [AutoExpandListRange](Excel.AutoCorrect.AutoExpandListRange.md)
+- [AutoFillFormulasInLists](Excel.AutoCorrect.AutoFillFormulasInLists.md)
+- [CapitalizeNamesOfDays](Excel.AutoCorrect.CapitalizeNamesOfDays.md)
+- [CorrectCapsLock](Excel.AutoCorrect.CorrectCapsLock.md)
+- [CorrectSentenceCap](Excel.AutoCorrect.CorrectSentenceCap.md)
+- [Creator](Excel.AutoCorrect.Creator.md)
+- [DisplayAutoCorrectOptions](Excel.AutoCorrect.DisplayAutoCorrectOptions.md)
+- [Parent](Excel.AutoCorrect.Parent.md)
+- [ReplacementList](Excel.AutoCorrect.ReplacementList.md)
+- [ReplaceText](Excel.AutoCorrect.ReplaceText.md)
+- [TwoInitialCapitals](Excel.AutoCorrect.TwoInitialCapitals.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

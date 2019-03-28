@@ -19,7 +19,7 @@ Clears the filter for a timeline (date filter).
 
 _expression_. `ClearDateFilter`
 
-_expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Return value

@@ -14,7 +14,16 @@ localization_priority: Normal
 
 Represents the format to be used for a model measure in the data model.
 
+## Properties
+
+- [Application](Excel.modelformatscientificnumber.application.md)
+- [Creator](Excel.modelformatscientificnumber.creator.md)
+- [DecimalPlaces](Excel.modelformatscientificnumber.decimalplaces.md)
+- [Parent](Excel.modelformatscientificnumber.parent.md)
+
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

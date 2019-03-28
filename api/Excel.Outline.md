@@ -29,28 +29,20 @@ Worksheets("sheet4").Outline.ShowLevels 1
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ShowLevels](Excel.Outline.ShowLevels.md)|
+- [ShowLevels](Excel.Outline.ShowLevels.md)
 
 ## Properties
 
+- [Application](Excel.Outline.Application.md)
+- [AutomaticStyles](Excel.Outline.AutomaticStyles.md)
+- [Creator](Excel.Outline.Creator.md)
+- [Parent](Excel.Outline.Parent.md)
+- [SummaryColumn](Excel.Outline.SummaryColumn.md)
+- [SummaryRow](Excel.Outline.SummaryRow.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Outline.Application.md)|
-|[AutomaticStyles](Excel.Outline.AutomaticStyles.md)|
-|[Creator](Excel.Outline.Creator.md)|
-|[Parent](Excel.Outline.Parent.md)|
-|[SummaryColumn](Excel.Outline.SummaryColumn.md)|
-|[SummaryRow](Excel.Outline.SummaryRow.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

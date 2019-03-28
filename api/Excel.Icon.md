@@ -19,13 +19,17 @@ Represents a single icon in an icon set used in a conditional formatting rule.
 
 ## Remarks
 
-The  **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** property of the **[IconSet](Excel.IconSet.md)** object.
+The **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** property of the **[IconSet](Excel.IconSet.md)** object.
 
+## Properties
+
+- [Application](Excel.Icon.Application.md)
+- [Creator](Excel.Icon.Creator.md)
+- [Index](Excel.Icon.Index.md)
+- [Parent](Excel.Icon.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

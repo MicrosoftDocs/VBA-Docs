@@ -50,27 +50,19 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.QueryTables.Add.md)|
-|[Item](Excel.QueryTables.Item.md)|
+- [Add](Excel.QueryTables.Add.md)
+- [Item](Excel.QueryTables.Item.md)
 
 ## Properties
 
+- [Application](Excel.QueryTables.Application.md)
+- [Count](Excel.QueryTables.Count.md)
+- [Creator](Excel.QueryTables.Creator.md)
+- [Parent](Excel.QueryTables.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.QueryTables.Application.md)|
-|[Count](Excel.QueryTables.Count.md)|
-|[Creator](Excel.QueryTables.Creator.md)|
-|[Parent](Excel.QueryTables.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -54,10 +54,26 @@ Sub InsertPicture()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.Graphic.Application.md)
+- [Brightness](Excel.Graphic.Brightness.md)
+- [ColorType](Excel.Graphic.ColorType.md)
+- [Contrast](Excel.Graphic.Contrast.md)
+- [Creator](Excel.Graphic.Creator.md)
+- [CropBottom](Excel.Graphic.CropBottom.md)
+- [CropLeft](Excel.Graphic.CropLeft.md)
+- [CropRight](Excel.Graphic.CropRight.md)
+- [CropTop](Excel.Graphic.CropTop.md)
+- [Filename](Excel.Graphic.Filename.md)
+- [Height](Excel.Graphic.Height.md)
+- [LockAspectRatio](Excel.Graphic.LockAspectRatio.md)
+- [Parent](Excel.Graphic.Parent.md)
+- [Width](Excel.Graphic.Width.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

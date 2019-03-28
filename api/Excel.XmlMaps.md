@@ -31,10 +31,20 @@ Sub AddXmlMap()
 End Sub
 ```
 
+## Methods
+
+- [Add](Excel.XmlMaps.Add.md)
+
+## Properties
+
+- [Application](Excel.XmlMaps.Application.md)
+- [Count](Excel.XmlMaps.Count.md)
+- [Creator](Excel.XmlMaps.Creator.md)
+- [Item](Excel.XmlMaps.Item.md)
+- [Parent](Excel.XmlMaps.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

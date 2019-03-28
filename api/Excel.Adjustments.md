@@ -58,10 +58,17 @@ End With
 ```
 
 
+## Properties
+
+- [Application](Excel.Adjustments.Application.md)
+- [Count](Excel.Adjustments.Count.md)
+- [Creator](Excel.Adjustments.Creator.md)
+- [Item](Excel.Adjustments.Item.md)
+- [Parent](Excel.Adjustments.Parent.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

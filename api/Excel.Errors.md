@@ -42,10 +42,16 @@ Sub ErrorValue()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.Errors.Application.md)
+- [Creator](Excel.Errors.Creator.md)
+- [Item](Excel.Errors.Item.md)
+- [Parent](Excel.Errors.Parent.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

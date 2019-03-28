@@ -42,10 +42,33 @@ End With
 ```
 
 
+## Properties
+
+- [AllowPNG](Excel.DefaultWebOptions.AllowPNG.md)
+- [AlwaysSaveInDefaultEncoding](Excel.DefaultWebOptions.AlwaysSaveInDefaultEncoding.md)
+- [Application](Excel.DefaultWebOptions.Application.md)
+- [CheckIfOfficeIsHTMLEditor](Excel.DefaultWebOptions.CheckIfOfficeIsHTMLEditor.md)
+- [Creator](Excel.DefaultWebOptions.Creator.md)
+- [DownloadComponents](Excel.DefaultWebOptions.DownloadComponents.md)
+- [Encoding](Excel.DefaultWebOptions.Encoding.md)
+- [FolderSuffix](Excel.DefaultWebOptions.FolderSuffix.md)
+- [Fonts](Excel.DefaultWebOptions.Fonts.md)
+- [LoadPictures](Excel.DefaultWebOptions.LoadPictures.md)
+- [LocationOfComponents](Excel.DefaultWebOptions.LocationOfComponents.md)
+- [OrganizeInFolder](Excel.DefaultWebOptions.OrganizeInFolder.md)
+- [Parent](Excel.DefaultWebOptions.Parent.md)
+- [PixelsPerInch](Excel.DefaultWebOptions.PixelsPerInch.md)
+- [RelyOnCSS](Excel.DefaultWebOptions.RelyOnCSS.md)
+- [RelyOnVML](Excel.DefaultWebOptions.RelyOnVML.md)
+- [SaveHiddenData](Excel.DefaultWebOptions.SaveHiddenData.md)
+- [SaveNewWebPagesAsWebArchives](Excel.DefaultWebOptions.SaveNewWebPagesAsWebArchives.md)
+- [ScreenSize](Excel.DefaultWebOptions.ScreenSize.md)
+- [TargetBrowser](Excel.DefaultWebOptions.TargetBrowser.md)
+- [UpdateLinksOnSave](Excel.DefaultWebOptions.UpdateLinksOnSave.md)
+- [UseLongFileNames](Excel.DefaultWebOptions.UseLongFileNames.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

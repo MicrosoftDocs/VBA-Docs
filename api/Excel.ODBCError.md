@@ -40,11 +40,16 @@ With Worksheets(1).QueryTables(1)
 End With
 ```
 
+## Properties
+
+- [Application](Excel.OdbcError.Application.md)
+- [Creator](Excel.OdbcError.Creator.md)
+- [ErrorString](Excel.ODBCError.ErrorString.md)
+- [Parent](Excel.OdbcError.Parent.md)
+- [SqlState](Excel.ODBCError.SqlState.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

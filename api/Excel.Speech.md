@@ -38,11 +38,17 @@ Sub UseSpeech()
 End Sub()
 ```
 
+## Methods
+
+- [Speak](Excel.Speech.Speak.md)
+
+## Properties
+
+- [Direction](Excel.Speech.Direction.md)
+- [SpeakCellOnEnter](Excel.Speech.SpeakCellOnEnter.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

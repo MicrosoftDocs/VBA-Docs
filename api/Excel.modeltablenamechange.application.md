@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [ModelTableNameChange object (Excel)](Excel.modeltablenamechange.md) object.
+_expression_ A variable that represents a **[ModelTableNameChange](Excel.modeltablenamechange.md)** object.
 
 
 ## Example

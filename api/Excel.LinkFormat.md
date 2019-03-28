@@ -31,10 +31,21 @@ Use the  **LinkFormat** property to return the **LinkFormat** object. The follow
 Worksheets(1).Shapes(1).LinkFormat.Update
 ```
 
+## Methods
+
+- [Update](Excel.LinkFormat.Update.md)
+
+## Properties
+
+- [Application](Excel.LinkFormat.Application.md)
+- [AutoUpdate](Excel.LinkFormat.AutoUpdate.md)
+- [Creator](Excel.LinkFormat.Creator.md)
+- [Locked](Excel.LinkFormat.Locked.md)
+- [Parent](Excel.LinkFormat.Parent.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

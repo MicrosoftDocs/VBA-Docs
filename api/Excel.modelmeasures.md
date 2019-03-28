@@ -19,7 +19,20 @@ Represents: a collection of  **ModelMeasure** objects.
 
 Each measure is represented by a [ModelMeasure](Excel.modelmeasure.md) object. Use the [Model.ModelMeasures](Excel.model.modelmeasures.md) property to return the **ModelMeasures** collection.
 
+## Methods
+
+- [Add](Excel.modelmeasures.add.md)
+- [Item](Excel.modelmeasures.item.md)
+
+## Properties
+
+- [Application](Excel.modelmeasures.application.md)
+- [Count](Excel.modelmeasures.count.md)
+- [Creator](Excel.modelmeasures.creator.md)
+- [Parent](Excel.modelmeasures.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

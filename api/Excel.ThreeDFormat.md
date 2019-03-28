@@ -38,12 +38,53 @@ With myShape.ThreeD
  ' RGB value for purple 
 End With
 ```
+## Methods
 
+- [IncrementRotationHorizontal](Excel.ThreeDFormat.IncrementRotationHorizontal.md)
+- [IncrementRotationVertical](Excel.ThreeDFormat.IncrementRotationVertical.md)
+- [IncrementRotationX](Excel.ThreeDFormat.IncrementRotationX.md)
+- [IncrementRotationY](Excel.ThreeDFormat.IncrementRotationY.md)
+- [IncrementRotationZ](Excel.ThreeDFormat.IncrementRotationZ.md)
+- [ResetRotation](Excel.ThreeDFormat.ResetRotation.md)
+- [SetExtrusionDirection](Excel.ThreeDFormat.SetExtrusionDirection.md)
+- [SetPresetCamera](Excel.ThreeDFormat.SetPresetCamera.md)
+- [SetThreeDFormat](Excel.ThreeDFormat.SetThreeDFormat.md)
+
+## Properties
+
+- [Application](Excel.ThreeDFormat.Application.md)
+- [BevelBottomDepth](Excel.ThreeDFormat.BevelBottomDepth.md)
+- [BevelBottomInset](Excel.ThreeDFormat.BevelBottomInset.md)
+- [BevelBottomType](Excel.ThreeDFormat.BevelBottomType.md)
+- [BevelTopDepth](Excel.ThreeDFormat.BevelTopDepth.md)
+- [BevelTopInset](Excel.ThreeDFormat.BevelTopInset.md)
+- [BevelTopType](Excel.ThreeDFormat.BevelTopType.md)
+- [ContourColor](Excel.ThreeDFormat.ContourColor.md)
+- [ContourWidth](Excel.ThreeDFormat.ContourWidth.md)
+- [Creator](Excel.ThreeDFormat.Creator.md)
+- [Depth](Excel.ThreeDFormat.Depth.md)
+- [ExtrusionColor](Excel.ThreeDFormat.ExtrusionColor.md)
+- [ExtrusionColorType](Excel.ThreeDFormat.ExtrusionColorType.md)
+- [FieldOfView](Excel.ThreeDFormat.FieldOfView.md)
+- [LightAngle](Excel.ThreeDFormat.LightAngle.md)
+- [Parent](Excel.ThreeDFormat.Parent.md)
+- [Perspective](Excel.ThreeDFormat.Perspective.md)
+- [PresetCamera](Excel.ThreeDFormat.PresetCamera.md)
+- [PresetExtrusionDirection](Excel.ThreeDFormat.PresetExtrusionDirection.md)
+- [PresetLighting](Excel.ThreeDFormat.PresetLighting.md)
+- [PresetLightingDirection](Excel.ThreeDFormat.PresetLightingDirection.md)
+- [PresetLightingSoftness](Excel.ThreeDFormat.PresetLightingSoftness.md)
+- [PresetMaterial](Excel.ThreeDFormat.PresetMaterial.md)
+- [PresetThreeDFormat](Excel.ThreeDFormat.PresetThreeDFormat.md)
+- [ProjectText](Excel.ThreeDFormat.ProjectText.md)
+- [RotationX](Excel.ThreeDFormat.RotationX.md)
+- [RotationY](Excel.ThreeDFormat.RotationY.md)
+- [RotationZ](Excel.ThreeDFormat.RotationZ.md)
+- [Visible](Excel.ThreeDFormat.Visible.md)
+- [Z](Excel.ThreeDFormat.Z.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

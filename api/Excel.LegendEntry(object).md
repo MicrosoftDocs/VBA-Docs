@@ -46,10 +46,28 @@ Worksheets("sheet1").ChartObjects(1).Chart _
  .Legend.LegendEntries(1).Font.Italic = True
 ```
 
+## Methods
+
+- [Delete](Excel.LegendEntry.Delete.md)
+- [Select](Excel.LegendEntry.Select.md)
+
+## Properties
+
+- [Application](Excel.LegendEntry.Application.md)
+- [Creator](Excel.LegendEntry.Creator.md)
+- [Font](Excel.LegendEntry.Font.md)
+- [Format](Excel.LegendEntry.Format.md)
+- [Height](Excel.LegendEntry.Height.md)
+- [Index](Excel.LegendEntry.Index.md)
+- [Left](Excel.LegendEntry.Left.md)
+- [LegendKey](Excel.LegendEntry.LegendKey.md)
+- [Parent](Excel.LegendEntry.Parent.md)
+- [Top](Excel.LegendEntry.Top.md)
+- [Width](Excel.LegendEntry.Width.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

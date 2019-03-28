@@ -60,10 +60,18 @@ End Sub
 ```
 
 
+## Methods
+
+- [Add](Excel.AllowEditRanges.Add.md)
+
+## Properties
+
+- [Count](Excel.AllowEditRanges.Count.md)
+- [Item](Excel.AllowEditRanges.Item.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

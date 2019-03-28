@@ -39,11 +39,19 @@ With myDocument.Shapes.BuildFreeform(msoEditingCorner, 360, 200)
 End With
 ```
 
+## Methods
+
+- [AddNodes](Excel.FreeformBuilder.AddNodes.md)
+- [ConvertToShape](Excel.FreeformBuilder.ConvertToShape.md)
+
+## Properties
+
+- [Application](Excel.FreeformBuilder.Application.md)
+- [Creator](Excel.FreeformBuilder.Creator.md)
+- [Parent](Excel.FreeformBuilder.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

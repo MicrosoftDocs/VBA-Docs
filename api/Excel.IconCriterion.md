@@ -88,11 +88,16 @@ Sub CreateIconSetCF()
 End Sub
 ```
 
+## Properties
+
+- [Icon](Excel.IconCriterion.Icon.md)
+- [Index](Excel.IconCriterion.Index.md)
+- [Operator](Excel.IconCriterion.Operator.md)
+- [Type](Excel.IconCriterion.Type.md)
+- [Value](Excel.IconCriterion.Value.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

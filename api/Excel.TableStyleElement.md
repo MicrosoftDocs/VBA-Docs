@@ -23,10 +23,23 @@ Table styles define formatting for one or all of the elements of a table, PivotT
 
 Each table style element in a table can have formatting specified in a table style applied to the element.
 
+## Methods
+
+- [Clear](Excel.TableStyleElement.Clear.md)
+
+## Properties
+
+- [Application](Excel.TableStyleElement.Application.md)
+- [Borders](Excel.TableStyleElement.Borders.md)
+- [Creator](Excel.TableStyleElement.Creator.md)
+- [Font](Excel.TableStyleElement.Font.md)
+- [HasFormat](Excel.TableStyleElement.HasFormat.md)
+- [Interior](Excel.TableStyleElement.Interior.md)
+- [Parent](Excel.TableStyleElement.Parent.md)
+- [StripeSize](Excel.TableStyleElement.StripeSize.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

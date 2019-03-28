@@ -41,56 +41,48 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[OneColorGradient](Excel.FillFormat.OneColorGradient.md)|
-|[Patterned](Excel.FillFormat.Patterned.md)|
-|[PresetGradient](Excel.FillFormat.PresetGradient.md)|
-|[PresetTextured](Excel.FillFormat.PresetTextured.md)|
-|[Solid](Excel.FillFormat.Solid.md)|
-|[TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)|
-|[UserPicture](Excel.FillFormat.UserPicture.md)|
-|[UserTextured](Excel.FillFormat.UserTextured.md)|
+- [OneColorGradient](Excel.FillFormat.OneColorGradient.md)
+- [Patterned](Excel.FillFormat.Patterned.md)
+- [PresetGradient](Excel.FillFormat.PresetGradient.md)
+- [PresetTextured](Excel.FillFormat.PresetTextured.md)
+- [Solid](Excel.FillFormat.Solid.md)
+- [TwoColorGradient](Excel.FillFormat.TwoColorGradient.md)
+- [UserPicture](Excel.FillFormat.UserPicture.md)
+- [UserTextured](Excel.FillFormat.UserTextured.md)
 
 ## Properties
 
+- [Application](Excel.FillFormat.Application.md)
+- [BackColor](Excel.FillFormat.BackColor.md)
+- [Creator](Excel.FillFormat.Creator.md)
+- [ForeColor](Excel.FillFormat.ForeColor.md)
+- [GradientAngle](Excel.FillFormat.GradientAngle.md)
+- [GradientColorType](Excel.FillFormat.GradientColorType.md)
+- [GradientDegree](Excel.FillFormat.GradientDegree.md)
+- [GradientStops](Excel.FillFormat.GradientStops.md)
+- [GradientStyle](Excel.FillFormat.GradientStyle.md)
+- [GradientVariant](Excel.FillFormat.GradientVariant.md)
+- [Parent](Excel.FillFormat.Parent.md)
+- [Pattern](Excel.FillFormat.Pattern.md)
+- [PictureEffects](Excel.FillFormat.PictureEffects.md)
+- [PresetGradientType](Excel.FillFormat.PresetGradientType.md)
+- [PresetTexture](Excel.FillFormat.PresetTexture.md)
+- [RotateWithObject](Excel.FillFormat.RotateWithObject.md)
+- [TextureAlignment](Excel.FillFormat.TextureAlignment.md)
+- [TextureHorizontalScale](Excel.FillFormat.TextureHorizontalScale.md)
+- [TextureName](Excel.FillFormat.TextureName.md)
+- [TextureOffsetX](Excel.FillFormat.TextureOffsetX.md)
+- [TextureOffsetY](Excel.FillFormat.TextureOffsetY.md)
+- [TextureTile](Excel.FillFormat.TextureTile.md)
+- [TextureType](Excel.FillFormat.TextureType.md)
+- [TextureVerticalScale](Excel.FillFormat.TextureVerticalScale.md)
+- [Transparency](Excel.FillFormat.Transparency.md)
+- [Type](Excel.FillFormat.Type.md)
+- [Visible](Excel.FillFormat.Visible.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.FillFormat.Application.md)|
-|[BackColor](Excel.FillFormat.BackColor.md)|
-|[Creator](Excel.FillFormat.Creator.md)|
-|[ForeColor](Excel.FillFormat.ForeColor.md)|
-|[GradientAngle](Excel.FillFormat.GradientAngle.md)|
-|[GradientColorType](Excel.FillFormat.GradientColorType.md)|
-|[GradientDegree](Excel.FillFormat.GradientDegree.md)|
-|[GradientStops](Excel.FillFormat.GradientStops.md)|
-|[GradientStyle](Excel.FillFormat.GradientStyle.md)|
-|[GradientVariant](Excel.FillFormat.GradientVariant.md)|
-|[Parent](Excel.FillFormat.Parent.md)|
-|[Pattern](Excel.FillFormat.Pattern.md)|
-|[PictureEffects](Excel.FillFormat.PictureEffects.md)|
-|[PresetGradientType](Excel.FillFormat.PresetGradientType.md)|
-|[PresetTexture](Excel.FillFormat.PresetTexture.md)|
-|[RotateWithObject](Excel.FillFormat.RotateWithObject.md)|
-|[TextureAlignment](Excel.FillFormat.TextureAlignment.md)|
-|[TextureHorizontalScale](Excel.FillFormat.TextureHorizontalScale.md)|
-|[TextureName](Excel.FillFormat.TextureName.md)|
-|[TextureOffsetX](Excel.FillFormat.TextureOffsetX.md)|
-|[TextureOffsetY](Excel.FillFormat.TextureOffsetY.md)|
-|[TextureTile](Excel.FillFormat.TextureTile.md)|
-|[TextureType](Excel.FillFormat.TextureType.md)|
-|[TextureVerticalScale](Excel.FillFormat.TextureVerticalScale.md)|
-|[Transparency](Excel.FillFormat.Transparency.md)|
-|[Type](Excel.FillFormat.Type.md)|
-|[Visible](Excel.FillFormat.Visible.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

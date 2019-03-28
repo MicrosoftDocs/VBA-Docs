@@ -66,10 +66,34 @@ Sub CheckColumnItems()
 End Sub
 ```
 
+## Methods
+
+- [AllocateChange](Excel.PivotCell.AllocateChange.md)
+- [DiscardChange](Excel.PivotCell.DiscardChange.md)
+
+## Properties
+
+- [Application](Excel.PivotCell.Application.md)
+- [CellChanged](Excel.PivotCell.CellChanged.md)
+- [ColumnItems](Excel.PivotCell.ColumnItems.md)
+- [Creator](Excel.PivotCell.Creator.md)
+- [CustomSubtotalFunction](Excel.PivotCell.CustomSubtotalFunction.md)
+- [DataField](Excel.PivotCell.DataField.md)
+- [DataSourceValue](Excel.PivotCell.DataSourceValue.md)
+- [MDX](Excel.PivotCell.MDX.md)
+- [Parent](Excel.PivotCell.Parent.md)
+- [PivotCellType](Excel.PivotCell.PivotCellType.md)
+- [PivotColumnLine](Excel.PivotCell.PivotColumnLine.md)
+- [PivotField](Excel.PivotCell.PivotField.md)
+- [PivotItem](Excel.PivotCell.PivotItem.md)
+- [PivotRowLine](Excel.PivotCell.PivotRowLine.md)
+- [PivotTable](Excel.PivotCell.PivotTable.md)
+- [Range](Excel.PivotCell.Range.md)
+- [RowItems](Excel.PivotCell.RowItems.md)
+- [ServerActions](Excel.pivotcell.serveractions.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

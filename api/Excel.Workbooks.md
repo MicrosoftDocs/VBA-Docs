@@ -52,34 +52,26 @@ Workbooks.Open FileName:="Array.xls", ReadOnly:=True
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Workbooks.Add.md)|
-|[CanCheckOut](Excel.Workbooks.CanCheckOut.md)|
-|[CheckOut](Excel.Workbooks.CheckOut.md)|
-|[Close](Excel.Workbooks.Close.md)|
-|[Open](Excel.Workbooks.Open.md)|
-|[OpenDatabase](Excel.Workbooks.OpenDatabase.md)|
-|[OpenText](Excel.Workbooks.OpenText.md)|
-|[OpenXML](Excel.Workbooks.OpenXML.md)|
+- [Add](Excel.Workbooks.Add.md)
+- [CanCheckOut](Excel.Workbooks.CanCheckOut.md)
+- [CheckOut](Excel.Workbooks.CheckOut.md)
+- [Close](Excel.Workbooks.Close.md)
+- [Open](Excel.Workbooks.Open.md)
+- [OpenDatabase](Excel.Workbooks.OpenDatabase.md)
+- [OpenText](Excel.Workbooks.OpenText.md)
+- [OpenXML](Excel.Workbooks.OpenXML.md)
 
 ## Properties
 
+- [Application](Excel.Workbooks.Application.md)
+- [Count](Excel.Workbooks.Count.md)
+- [Creator](Excel.Workbooks.Creator.md)
+- [Item](Excel.Workbooks.Item.md)
+- [Parent](Excel.Workbooks.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Workbooks.Application.md)|
-|[Count](Excel.Workbooks.Count.md)|
-|[Creator](Excel.Workbooks.Creator.md)|
-|[Item](Excel.Workbooks.Item.md)|
-|[Parent](Excel.Workbooks.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

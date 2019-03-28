@@ -33,10 +33,19 @@ MsgBox "The following error occurred:" & _
  objEr.ErrorString & " : " & objEr.SqlState
 ```
 
+## Properties
+
+- [Application](Excel.oledbError.Application.md)
+- [Creator](Excel.oledbError.Creator.md)
+- [ErrorString](Excel.OLEDBError.ErrorString.md)
+- [Native](Excel.OLEDBError.Native.md)
+- [Number](Excel.OLEDBError.Number.md)
+- [Parent](Excel.oledbError.Parent.md)
+- [SqlState](Excel.OLEDBError.SqlState.md)
+- [Stage](Excel.OLEDBError.Stage.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

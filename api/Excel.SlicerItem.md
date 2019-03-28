@@ -24,24 +24,20 @@ To access the  **SlicerItem** object that represents the currently selected butt
 
 ## Properties
 
+- [Application](Excel.SlicerItem.Application.md)
+- [Caption](Excel.SlicerItem.Caption.md)
+- [Creator](Excel.SlicerItem.Creator.md)
+- [HasData](Excel.SlicerItem.HasData.md)
+- [Name](Excel.SlicerItem.Name.md)
+- [Parent](Excel.SlicerItem.Parent.md)
+- [Selected](Excel.SlicerItem.Selected.md)
+- [SourceName](Excel.SlicerItem.SourceName.md)
+- [SourceNameStandard](Excel.SlicerItem.SourceNameStandard.md)
+- [Value](Excel.SlicerItem.Value.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.SlicerItem.Application.md)|
-|[Caption](Excel.SlicerItem.Caption.md)|
-|[Creator](Excel.SlicerItem.Creator.md)|
-|[HasData](Excel.SlicerItem.HasData.md)|
-|[Name](Excel.SlicerItem.Name.md)|
-|[Parent](Excel.SlicerItem.Parent.md)|
-|[Selected](Excel.SlicerItem.Selected.md)|
-|[SourceName](Excel.SlicerItem.SourceName.md)|
-|[SourceNameStandard](Excel.SlicerItem.SourceNameStandard.md)|
-|[Value](Excel.SlicerItem.Value.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

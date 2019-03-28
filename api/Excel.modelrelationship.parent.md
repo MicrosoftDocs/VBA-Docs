@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelRelationship.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelRelationship object (Excel)](Excel.modelrelationship.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified **ModelRelationship** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
+_expression_ A variable that represents a **[ModelRelationship](Excel.modelrelationship.md)** object.
 
 
 ## Property value

@@ -31,10 +31,23 @@ Use the  **OLEFormat** property to return the **OLEFormat** object. The followin
 Worksheets(1).Shapes(1).OLEFormat.Activate
 ```
 
+## Methods
+
+
+- [Activate](Excel.OLEFormat.Activate.md)
+- [Verb](Excel.OLEFormat.Verb.md)
+
+## Properties
+
+- [Application](Excel.OLEFormat.Application.md)
+- [Creator](Excel.OLEFormat.Creator.md)
+- [Object](Excel.OLEFormat.Object.md)
+- [Parent](Excel.OLEFormat.Parent.md)
+- [progID](Excel.OLEFormat.progID.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

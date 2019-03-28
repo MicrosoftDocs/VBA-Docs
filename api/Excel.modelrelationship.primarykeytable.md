@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelRelationship.PrimaryKeyTable property (Excel)
 
-Contains the [ModelTable object (Excel)](Excel.modeltable.md) object (Excel) representing the table on the one side of the one-to-many relationship.
+Contains the [ModelTable](Excel.modeltable.md) object representing the table on the one side of the one-to-many relationship.
 
 
 ## Syntax
 
 _expression_. `PrimaryKeyTable`
 
-_expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
+_expression_ A variable that represents a **[ModelRelationship](Excel.modelrelationship.md)** object.
 
 
 ## Property value

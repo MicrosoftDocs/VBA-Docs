@@ -56,70 +56,58 @@ End With
 
 ## Events
 
-
-
-|Name|
-|:-----|
-|[GotFocus](Excel.OLEObject.GotFocus.md)|
-|[LostFocus](Excel.OLEObject.LostFocus.md)|
+- [GotFocus](Excel.OLEObject.GotFocus.md)
+- [LostFocus](Excel.OLEObject.LostFocus.md)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](Excel.OLEObject.Activate.md)|
-|[BringToFront](Excel.OLEObject.BringToFront.md)|
-|[Copy](Excel.OLEObject.Copy.md)|
-|[CopyPicture](Excel.OLEObject.CopyPicture.md)|
-|[Cut](Excel.OLEObject.Cut.md)|
-|[Delete](Excel.OLEObject.Delete.md)|
-|[Duplicate](Excel.OLEObject.Duplicate.md)|
-|[Select](Excel.OLEObject.Select.md)|
-|[SendToBack](Excel.OLEObject.SendToBack.md)|
-|[Update](Excel.OLEObject.Update.md)|
-|[Verb](Excel.OLEObject.Verb.md)|
+- [Activate](Excel.OLEObject.Activate.md)
+- [BringToFront](Excel.OLEObject.BringToFront.md)
+- [Copy](Excel.OLEObject.Copy.md)
+- [CopyPicture](Excel.OLEObject.CopyPicture.md)
+- [Cut](Excel.OLEObject.Cut.md)
+- [Delete](Excel.OLEObject.Delete.md)
+- [Duplicate](Excel.OLEObject.Duplicate.md)
+- [Select](Excel.OLEObject.Select.md)
+- [SendToBack](Excel.OLEObject.SendToBack.md)
+- [Update](Excel.OLEObject.Update.md)
+- [Verb](Excel.OLEObject.Verb.md)
 
 ## Properties
 
+- [Application](Excel.OLEObject.Application.md)
+- [AutoLoad](Excel.OLEObject.AutoLoad.md)
+- [AutoUpdate](Excel.OLEObject.AutoUpdate.md)
+- [Border](Excel.OLEObject.Border.md)
+- [BottomRightCell](Excel.OLEObject.BottomRightCell.md)
+- [Creator](Excel.OLEObject.Creator.md)
+- [Enabled](Excel.OLEObject.Enabled.md)
+- [Height](Excel.OLEObject.Height.md)
+- [Index](Excel.OLEObject.Index.md)
+- [Interior](Excel.OLEObject.Interior.md)
+- [Left](Excel.OLEObject.Left.md)
+- [LinkedCell](Excel.OLEObject.LinkedCell.md)
+- [ListFillRange](Excel.OLEObject.ListFillRange.md)
+- [Locked](Excel.OLEObject.Locked.md)
+- [Name](Excel.OLEObject.Name.md)
+- [Object](Excel.OLEObject.Object.md)
+- [OLEType](Excel.OLEObject.OLEType.md)
+- [Parent](Excel.OLEObject.Parent.md)
+- [Placement](Excel.OLEObject.Placement.md)
+- [PrintObject](Excel.OLEObject.PrintObject.md)
+- [progID](Excel.OLEObject.progID.md)
+- [Shadow](Excel.OLEObject.Shadow.md)
+- [ShapeRange](Excel.OLEObject.ShapeRange.md)
+- [SourceName](Excel.OLEObject.SourceName.md)
+- [Top](Excel.OLEObject.Top.md)
+- [TopLeftCell](Excel.OLEObject.TopLeftCell.md)
+- [Visible](Excel.OLEObject.Visible.md)
+- [Width](Excel.OLEObject.Width.md)
+- [ZOrder](Excel.OLEObject.ZOrder.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.OLEObject.Application.md)|
-|[AutoLoad](Excel.OLEObject.AutoLoad.md)|
-|[AutoUpdate](Excel.OLEObject.AutoUpdate.md)|
-|[Border](Excel.OLEObject.Border.md)|
-|[BottomRightCell](Excel.OLEObject.BottomRightCell.md)|
-|[Creator](Excel.OLEObject.Creator.md)|
-|[Enabled](Excel.OLEObject.Enabled.md)|
-|[Height](Excel.OLEObject.Height.md)|
-|[Index](Excel.OLEObject.Index.md)|
-|[Interior](Excel.OLEObject.Interior.md)|
-|[Left](Excel.OLEObject.Left.md)|
-|[LinkedCell](Excel.OLEObject.LinkedCell.md)|
-|[ListFillRange](Excel.OLEObject.ListFillRange.md)|
-|[Locked](Excel.OLEObject.Locked.md)|
-|[Name](Excel.OLEObject.Name.md)|
-|[Object](Excel.OLEObject.Object.md)|
-|[OLEType](Excel.OLEObject.OLEType.md)|
-|[Parent](Excel.OLEObject.Parent.md)|
-|[Placement](Excel.OLEObject.Placement.md)|
-|[PrintObject](Excel.OLEObject.PrintObject.md)|
-|[progID](Excel.OLEObject.progID.md)|
-|[Shadow](Excel.OLEObject.Shadow.md)|
-|[ShapeRange](Excel.OLEObject.ShapeRange.md)|
-|[SourceName](Excel.OLEObject.SourceName.md)|
-|[Top](Excel.OLEObject.Top.md)|
-|[TopLeftCell](Excel.OLEObject.TopLeftCell.md)|
-|[Visible](Excel.OLEObject.Visible.md)|
-|[Width](Excel.OLEObject.Width.md)|
-|[ZOrder](Excel.OLEObject.ZOrder.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

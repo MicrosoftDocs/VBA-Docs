@@ -35,44 +35,36 @@ Worksheets("sheet3").PivotTables(1) _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.PivotItem.Delete.md)|
-|[DrillTo](Excel.PivotItem.DrillTo.md)|
+- [Delete](Excel.PivotItem.Delete.md)
+- [DrillTo](Excel.PivotItem.DrillTo.md)
 
 ## Properties
 
+- [Application](Excel.PivotItem.Application.md)
+- [Caption](Excel.PivotItem.Caption.md)
+- [ChildItems](Excel.PivotItem.ChildItems.md)
+- [Creator](Excel.PivotItem.Creator.md)
+- [DataRange](Excel.PivotItem.DataRange.md)
+- [DrilledDown](Excel.PivotItem.DrilledDown.md)
+- [Formula](Excel.PivotItem.Formula.md)
+- [IsCalculated](Excel.PivotItem.IsCalculated.md)
+- [LabelRange](Excel.PivotItem.LabelRange.md)
+- [Name](Excel.PivotItem.Name.md)
+- [Parent](Excel.PivotItem.Parent.md)
+- [ParentItem](Excel.PivotItem.ParentItem.md)
+- [ParentShowDetail](Excel.PivotItem.ParentShowDetail.md)
+- [Position](Excel.PivotItem.Position.md)
+- [RecordCount](Excel.PivotItem.RecordCount.md)
+- [ShowDetail](Excel.PivotItem.ShowDetail.md)
+- [SourceName](Excel.PivotItem.SourceName.md)
+- [SourceNameStandard](Excel.PivotItem.SourceNameStandard.md)
+- [StandardFormula](Excel.PivotItem.StandardFormula.md)
+- [Value](Excel.PivotItem.Value.md)
+- [Visible](Excel.PivotItem.Visible.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PivotItem.Application.md)|
-|[Caption](Excel.PivotItem.Caption.md)|
-|[ChildItems](Excel.PivotItem.ChildItems.md)|
-|[Creator](Excel.PivotItem.Creator.md)|
-|[DataRange](Excel.PivotItem.DataRange.md)|
-|[DrilledDown](Excel.PivotItem.DrilledDown.md)|
-|[Formula](Excel.PivotItem.Formula.md)|
-|[IsCalculated](Excel.PivotItem.IsCalculated.md)|
-|[LabelRange](Excel.PivotItem.LabelRange.md)|
-|[Name](Excel.PivotItem.Name.md)|
-|[Parent](Excel.PivotItem.Parent.md)|
-|[ParentItem](Excel.PivotItem.ParentItem.md)|
-|[ParentShowDetail](Excel.PivotItem.ParentShowDetail.md)|
-|[Position](Excel.PivotItem.Position.md)|
-|[RecordCount](Excel.PivotItem.RecordCount.md)|
-|[ShowDetail](Excel.PivotItem.ShowDetail.md)|
-|[SourceName](Excel.PivotItem.SourceName.md)|
-|[SourceNameStandard](Excel.PivotItem.SourceNameStandard.md)|
-|[StandardFormula](Excel.PivotItem.StandardFormula.md)|
-|[Value](Excel.PivotItem.Value.md)|
-|[Visible](Excel.PivotItem.Visible.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

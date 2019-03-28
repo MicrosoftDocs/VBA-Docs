@@ -55,10 +55,29 @@ End If
 
 ```
 
+## Methods
+
+- [Activate](Excel.ProtectedViewWindow.Activate.md)
+- [Close](Excel.ProtectedViewWindow.Close.md)
+- [Edit](Excel.ProtectedViewWindow.Edit.md)
+
+## Properties
+
+- [Caption](Excel.ProtectedViewWindow.Caption.md)
+- [EnableResize](Excel.ProtectedViewWindow.EnableResize.md)
+- [Height](Excel.ProtectedViewWindow.Height.md)
+- [Left](Excel.ProtectedViewWindow.Left.md)
+- [SourceName](Excel.ProtectedViewWindow.SourceName.md)
+- [SourcePath](Excel.ProtectedViewWindow.SourcePath.md)
+- [Top](Excel.ProtectedViewWindow.Top.md)
+- [Visible](Excel.ProtectedViewWindow.Visible.md)
+- [Width](Excel.ProtectedViewWindow.Width.md)
+- [WindowState](Excel.ProtectedViewWindow.WindowState.md)
+- [Workbook](Excel.ProtectedViewWindow.Workbook.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

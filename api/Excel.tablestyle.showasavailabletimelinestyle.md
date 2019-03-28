@@ -19,7 +19,7 @@ Returns or sets whether the specified table style is shown as available in the t
 
 _expression_. `ShowAsAvailableTimelineStyle`
 
-_expression_ A variable that represents a [TableStyle object (Excel)](Excel.TableStyle.md) object.
+_expression_ A variable that represents a [TableStyle](Excel.TableStyle.md) object.
 
 
 ## Property value

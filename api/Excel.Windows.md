@@ -54,31 +54,23 @@ Windows(1).WindowState = xlMaximized
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Arrange](Excel.Windows.Arrange.md)|
-|[BreakSideBySide](Excel.Windows.BreakSideBySide.md)|
-|[CompareSideBySideWith](Excel.Windows.CompareSideBySideWith.md)|
-|[ResetPositionsSideBySide](Excel.Windows.ResetPositionsSideBySide.md)|
+- [Arrange](Excel.Windows.Arrange.md)
+- [BreakSideBySide](Excel.Windows.BreakSideBySide.md)
+- [CompareSideBySideWith](Excel.Windows.CompareSideBySideWith.md)
+- [ResetPositionsSideBySide](Excel.Windows.ResetPositionsSideBySide.md)
 
 ## Properties
 
+- [Application](Excel.Windows.Application.md)
+- [Count](Excel.Windows.Count.md)
+- [Creator](Excel.Windows.Creator.md)
+- [Item](Excel.Windows.Item.md)
+- [Parent](Excel.Windows.Parent.md)
+- [SyncScrollingSideBySide](Excel.Windows.SyncScrollingSideBySide.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Windows.Application.md)|
-|[Count](Excel.Windows.Count.md)|
-|[Creator](Excel.Windows.Creator.md)|
-|[Item](Excel.Windows.Item.md)|
-|[Parent](Excel.Windows.Parent.md)|
-|[SyncScrollingSideBySide](Excel.Windows.SyncScrollingSideBySide.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

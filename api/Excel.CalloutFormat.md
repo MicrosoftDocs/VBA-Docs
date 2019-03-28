@@ -39,9 +39,32 @@ End With
 ```
 
 
+## Methods
+
+- [AutomaticLength](Excel.CalloutFormat.AutomaticLength.md)
+- [CustomDrop](Excel.CalloutFormat.CustomDrop.md)
+- [CustomLength](Excel.CalloutFormat.CustomLength.md)
+- [PresetDrop](Excel.CalloutFormat.PresetDrop.md)
+
+## Properties
+
+- [Accent](Excel.CalloutFormat.Accent.md)
+- [Angle](Excel.CalloutFormat.Angle.md)
+- [Application](Excel.CalloutFormat.Application.md)
+- [AutoAttach](Excel.CalloutFormat.AutoAttach.md)
+- [AutoLength](Excel.CalloutFormat.AutoLength.md)
+- [Border](Excel.CalloutFormat.Border.md)
+- [Creator](Excel.CalloutFormat.Creator.md)
+- [Drop](Excel.CalloutFormat.Drop.md)
+- [DropType](Excel.CalloutFormat.DropType.md)
+- [Gap](Excel.CalloutFormat.Gap.md)
+- [Length](Excel.CalloutFormat.Length.md)
+- [Parent](Excel.CalloutFormat.Parent.md)
+- [Type](Excel.CalloutFormat.Type.md)
+
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelTableColumn.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified **ModelTableColumn** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object.
+_expression_ A variable that represents a **[ModelTableColumn](Excel.modeltablecolumn.md)** object.
 
 
 ## Property value

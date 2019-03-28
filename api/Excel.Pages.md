@@ -41,11 +41,13 @@ Set objPage = ActiveWorksheet.ActiveWindow _
  .Panes(1).Pages.Item(1)
 ```
 
+## Properties
+
+- [Count](Excel.Pages.Count.md)
+- [Item](Excel.Pages.Item.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

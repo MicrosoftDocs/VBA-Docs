@@ -61,11 +61,32 @@ Sub CheckValidity()
 End Sub
 ```
 
+## Methods
+
+- [Delete](Excel.CalculatedMember.Delete.md)
+
+## Properties
+
+- [Application](Excel.CalculatedMember.Application.md)
+- [Creator](Excel.CalculatedMember.Creator.md)
+- [DisplayFolder](Excel.CalculatedMember.DisplayFolder.md)
+- [Dynamic](Excel.CalculatedMember.Dynamic.md)
+- [FlattenHierarchies](Excel.CalculatedMember.FlattenHierarchies.md)
+- [Formula](Excel.CalculatedMember.Formula.md)
+- [HierarchizeDistinct](Excel.CalculatedMember.HierarchizeDistinct.md)
+- [IsValid](Excel.CalculatedMember.IsValid.md)
+- [MeasureGroup](Excel.calculatedmember.measuregroup.md)
+- [Name](Excel.CalculatedMember.Name.md)
+- [NumberFormat](Excel.calculatedmember.numberformat.md)
+- [Parent](Excel.CalculatedMember.Parent.md)
+- [ParentHierarchy](Excel.calculatedmember.parenthierarchy.md)
+- [ParentMember](Excel.calculatedmember.parentmember.md)
+- [SolveOrder](Excel.CalculatedMember.SolveOrder.md)
+- [SourceName](Excel.CalculatedMember.SourceName.md)
+- [Type](Excel.CalculatedMember.Type.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # SlicerCache.ListObject property (Excel)
 
-Returns a  **ListObject** object for the [QueryTable object (Excel)](Excel.QueryTable.md) object. Read-only
+Returns a  **ListObject** object for the [QueryTable](Excel.QueryTable.md) object. Read-only
 
 
 ## Syntax
 
 _expression_. `ListObject`
 
-_expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Property value

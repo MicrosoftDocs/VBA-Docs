@@ -19,19 +19,15 @@ A collection of  **[Range](Excel.Range(object).md)** objects.
 
 ## Properties
 
+- [Application](Excel.Ranges.Application.md)
+- [Count](Excel.Ranges.Count.md)
+- [Creator](Excel.Ranges.Creator.md)
+- [Item](Excel.Ranges.Item.md)
+- [Parent](Excel.Ranges.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Ranges.Application.md)|
-|[Count](Excel.Ranges.Count.md)|
-|[Creator](Excel.Ranges.Creator.md)|
-|[Item](Excel.Ranges.Item.md)|
-|[Parent](Excel.Ranges.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

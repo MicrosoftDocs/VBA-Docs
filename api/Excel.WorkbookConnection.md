@@ -31,39 +31,31 @@ Connection names are strings that uniquely identify connections within the workb
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.WorkbookConnection.Delete.md)|
-|[Refresh](Excel.WorkbookConnection.Refresh.md)|
+- [Delete](Excel.WorkbookConnection.Delete.md)
+- [Refresh](Excel.WorkbookConnection.Refresh.md)
 
 ## Properties
 
+- [Application](Excel.WorkbookConnection.Application.md)
+- [Creator](Excel.WorkbookConnection.Creator.md)
+- [DataFeedConnection](Excel.workbookconnection.datafeedconnection.md)
+- [Description](Excel.WorkbookConnection.Description.md)
+- [InModel](Excel.workbookconnection.inmodel.md)
+- [ModelConnection](Excel.workbookconnection.modelconnection.md)
+- [ModelTables](Excel.workbookconnection.modeltables.md)
+- [Name](Excel.WorkbookConnection.Name.md)
+- [ODBCConnection](Excel.WorkbookConnection.ODBCConnection.md)
+- [OLEDBConnection](Excel.WorkbookConnection.OLEDBConnection.md)
+- [Parent](Excel.WorkbookConnection.Parent.md)
+- [Ranges](Excel.WorkbookConnection.Ranges.md)
+- [RefreshWithRefreshAll](Excel.workbookconnection.refreshwithrefreshall.md)
+- [TextConnection](Excel.workbookconnection.textconnection.md)
+- [Type](Excel.WorkbookConnection.Type.md)
+- [WorksheetDataConnection](Excel.workbookconnection.worksheetdataconnection.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.WorkbookConnection.Application.md)|
-|[Creator](Excel.WorkbookConnection.Creator.md)|
-|[DataFeedConnection](Excel.workbookconnection.datafeedconnection.md)|
-|[Description](Excel.WorkbookConnection.Description.md)|
-|[InModel](Excel.workbookconnection.inmodel.md)|
-|[ModelConnection](Excel.workbookconnection.modelconnection.md)|
-|[ModelTables](Excel.workbookconnection.modeltables.md)|
-|[Name](Excel.WorkbookConnection.Name.md)|
-|[ODBCConnection](Excel.WorkbookConnection.ODBCConnection.md)|
-|[OLEDBConnection](Excel.WorkbookConnection.OLEDBConnection.md)|
-|[Parent](Excel.WorkbookConnection.Parent.md)|
-|[Ranges](Excel.WorkbookConnection.Ranges.md)|
-|[RefreshWithRefreshAll](Excel.workbookconnection.refreshwithrefreshall.md)|
-|[TextConnection](Excel.workbookconnection.textconnection.md)|
-|[Type](Excel.WorkbookConnection.Type.md)|
-|[WorksheetDataConnection](Excel.workbookconnection.worksheetdataconnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

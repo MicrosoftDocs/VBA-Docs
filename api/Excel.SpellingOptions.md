@@ -72,10 +72,30 @@ Sub IgnoreAllCAPS()
 End Sub
 ```
 
+## Properties
+
+- [ArabicModes](Excel.SpellingOptions.ArabicModes.md)
+- [ArabicStrictAlefHamza](Excel.SpellingOptions.ArabicStrictAlefHamza.md)
+- [ArabicStrictFinalYaa](Excel.SpellingOptions.ArabicStrictFinalYaa.md)
+- [ArabicStrictTaaMarboota](Excel.SpellingOptions.ArabicStrictTaaMarboota.md)
+- [BrazilReform](Excel.SpellingOptions.BrazilReform.md)
+- [DictLang](Excel.SpellingOptions.DictLang.md)
+- [GermanPostReform](Excel.SpellingOptions.GermanPostReform.md)
+- [HebrewModes](Excel.SpellingOptions.HebrewModes.md)
+- [IgnoreCaps](Excel.SpellingOptions.IgnoreCaps.md)
+- [IgnoreFileNames](Excel.SpellingOptions.IgnoreFileNames.md)
+- [IgnoreMixedDigits](Excel.SpellingOptions.IgnoreMixedDigits.md)
+- [KoreanCombineAux](Excel.SpellingOptions.KoreanCombineAux.md)
+- [KoreanProcessCompound](Excel.SpellingOptions.KoreanProcessCompound.md)
+- [KoreanUseAutoChangeList](Excel.SpellingOptions.KoreanUseAutoChangeList.md)
+- [PortugalReform](Excel.SpellingOptions.PortugalReform.md)
+- [RussianStrictE](Excel.SpellingOptions.RussianStrictE.md)
+- [SpanishModes](Excel.SpellingOptions.SpanishModes.md)
+- [SuggestMainOnly](Excel.SpellingOptions.SuggestMainOnly.md)
+- [UserDict](Excel.SpellingOptions.UserDict.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

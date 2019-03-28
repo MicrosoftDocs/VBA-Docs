@@ -56,10 +56,20 @@ Worksheets(1).Comments(2).Visible = False
 ```
 
 
+
+## Methods
+
+- [Item](Excel.Comments.Item.md)
+
+## Properties
+
+- [Application](Excel.Comments.Application.md)
+- [Count](Excel.Comments.Count.md)
+- [Creator](Excel.Comments.Creator.md)
+- [Parent](Excel.Comments.Parent.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,59 +26,51 @@ An  **OLEDBConnection** object contains information related to the connection, s
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[CancelRefresh](Excel.OLEDBConnection.CancelRefresh.md)|
-|[MakeConnection](Excel.OLEDBConnection.MakeConnection.md)|
-|[Reconnect](Excel.OLEDBConnection.Reconnect.md)|
-|[Refresh](Excel.OLEDBConnection.Refresh.md)|
-|[SaveAsODC](Excel.OLEDBConnection.SaveAsODC.md)|
+- [CancelRefresh](Excel.OLEDBConnection.CancelRefresh.md)
+- [MakeConnection](Excel.OLEDBConnection.MakeConnection.md)
+- [Reconnect](Excel.OLEDBConnection.Reconnect.md)
+- [Refresh](Excel.OLEDBConnection.Refresh.md)
+- [SaveAsODC](Excel.OLEDBConnection.SaveAsODC.md)
 
 ## Properties
 
+- [ADOConnection](Excel.OLEDBConnection.ADOConnection.md)
+- [AlwaysUseConnectionFile](Excel.OLEDBConnection.AlwaysUseConnectionFile.md)
+- [Application](Excel.OLEDBConnection.Application.md)
+- [BackgroundQuery](Excel.OLEDBConnection.BackgroundQuery.md)
+- [CalculatedMembers](Excel.OLEDBConnection.CalculatedMembers.md)
+- [CommandText](Excel.OLEDBConnection.CommandText.md)
+- [CommandType](Excel.OLEDBConnection.CommandType.md)
+- [Connection](Excel.OLEDBConnection.Connection.md)
+- [Creator](Excel.OLEDBConnection.Creator.md)
+- [EnableRefresh](Excel.OLEDBConnection.EnableRefresh.md)
+- [IsConnected](Excel.OLEDBConnection.IsConnected.md)
+- [LocalConnection](Excel.OLEDBConnection.LocalConnection.md)
+- [LocaleID](Excel.OLEDBConnection.LocaleID.md)
+- [MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)
+- [MaxDrillthroughRecords](Excel.OLEDBConnection.MaxDrillthroughRecords.md)
+- [OLAP](Excel.OLEDBConnection.OLAP.md)
+- [Parent](Excel.OLEDBConnection.Parent.md)
+- [RefreshDate](Excel.OLEDBConnection.RefreshDate.md)
+- [Refreshing](Excel.OLEDBConnection.Refreshing.md)
+- [RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)
+- [RefreshPeriod](Excel.OLEDBConnection.RefreshPeriod.md)
+- [RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)
+- [RobustConnect](Excel.OLEDBConnection.RobustConnect.md)
+- [SavePassword](Excel.OLEDBConnection.SavePassword.md)
+- [ServerCredentialsMethod](Excel.OLEDBConnection.ServerCredentialsMethod.md)
+- [ServerFillColor](Excel.OLEDBConnection.ServerFillColor.md)
+- [ServerFontStyle](Excel.OLEDBConnection.ServerFontStyle.md)
+- [ServerNumberFormat](Excel.OLEDBConnection.ServerNumberFormat.md)
+- [ServerSSOApplicationID](Excel.OLEDBConnection.ServerSSOApplicationID.md)
+- [ServerTextColor](Excel.OLEDBConnection.ServerTextColor.md)
+- [SourceConnectionFile](Excel.OLEDBConnection.SourceConnectionFile.md)
+- [SourceDataFile](Excel.OLEDBConnection.SourceDataFile.md)
+- [UseLocalConnection](Excel.OLEDBConnection.UseLocalConnection.md)
 
-
-|Name|
-|:-----|
-|[ADOConnection](Excel.OLEDBConnection.ADOConnection.md)|
-|[AlwaysUseConnectionFile](Excel.OLEDBConnection.AlwaysUseConnectionFile.md)|
-|[Application](Excel.OLEDBConnection.Application.md)|
-|[BackgroundQuery](Excel.OLEDBConnection.BackgroundQuery.md)|
-|[CalculatedMembers](Excel.OLEDBConnection.CalculatedMembers.md)|
-|[CommandText](Excel.OLEDBConnection.CommandText.md)|
-|[CommandType](Excel.OLEDBConnection.CommandType.md)|
-|[Connection](Excel.OLEDBConnection.Connection.md)|
-|[Creator](Excel.OLEDBConnection.Creator.md)|
-|[EnableRefresh](Excel.OLEDBConnection.EnableRefresh.md)|
-|[IsConnected](Excel.OLEDBConnection.IsConnected.md)|
-|[LocalConnection](Excel.OLEDBConnection.LocalConnection.md)|
-|[LocaleID](Excel.OLEDBConnection.LocaleID.md)|
-|[MaintainConnection](Excel.OLEDBConnection.MaintainConnection.md)|
-|[MaxDrillthroughRecords](Excel.OLEDBConnection.MaxDrillthroughRecords.md)|
-|[OLAP](Excel.OLEDBConnection.OLAP.md)|
-|[Parent](Excel.OLEDBConnection.Parent.md)|
-|[RefreshDate](Excel.OLEDBConnection.RefreshDate.md)|
-|[Refreshing](Excel.OLEDBConnection.Refreshing.md)|
-|[RefreshOnFileOpen](Excel.OLEDBConnection.RefreshOnFileOpen.md)|
-|[RefreshPeriod](Excel.OLEDBConnection.RefreshPeriod.md)|
-|[RetrieveInOfficeUILang](Excel.OLEDBConnection.RetrieveInOfficeUILang.md)|
-|[RobustConnect](Excel.OLEDBConnection.RobustConnect.md)|
-|[SavePassword](Excel.OLEDBConnection.SavePassword.md)|
-|[ServerCredentialsMethod](Excel.OLEDBConnection.ServerCredentialsMethod.md)|
-|[ServerFillColor](Excel.OLEDBConnection.ServerFillColor.md)|
-|[ServerFontStyle](Excel.OLEDBConnection.ServerFontStyle.md)|
-|[ServerNumberFormat](Excel.OLEDBConnection.ServerNumberFormat.md)|
-|[ServerSSOApplicationID](Excel.OLEDBConnection.ServerSSOApplicationID.md)|
-|[ServerTextColor](Excel.OLEDBConnection.ServerTextColor.md)|
-|[SourceConnectionFile](Excel.OLEDBConnection.SourceConnectionFile.md)|
-|[SourceDataFile](Excel.OLEDBConnection.SourceDataFile.md)|
-|[UseLocalConnection](Excel.OLEDBConnection.UseLocalConnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

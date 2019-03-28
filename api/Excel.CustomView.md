@@ -32,9 +32,23 @@ ThisWorkbook.CustomViews("Current Inventory").Show
 ```
 
 
+## Methods
+
+- [Delete](Excel.CustomView.Delete.md)
+- [Show](Excel.CustomView.Show.md)
+
+## Properties
+
+- [Application](Excel.CustomView.Application.md)
+- [Creator](Excel.CustomView.Creator.md)
+- [Name](Excel.CustomView.Name.md)
+- [Parent](Excel.CustomView.Parent.md)
+- [PrintSettings](Excel.CustomView.PrintSettings.md)
+- [RowColSettings](Excel.CustomView.RowColSettings.md)
+
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

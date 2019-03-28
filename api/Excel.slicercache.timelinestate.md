@@ -19,12 +19,12 @@ The timeline-specific state of the  **SlicerCache** object. Read-only
 
 _expression_. `TimelineState`
 
-_expression_ A variable that represents a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+_expression_ A variable that represents a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Returns
 
-[TimelineState object (Excel)](Excel.timelinestate.md)
+[TimelineState](Excel.timelinestate.md)
 
 
 ## Property value

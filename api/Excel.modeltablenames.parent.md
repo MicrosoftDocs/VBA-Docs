@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelTableNames.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelTableNames object (Excel)](Excel.modeltablenames.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [ModelTableNames](Excel.modeltablenames.md) object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ModelTableNames object (Excel)](Excel.modeltablenames.md) object.
+_expression_ A variable that represents a [ModelTableNames](Excel.modeltablenames.md) object.
 
 
 ## Property value

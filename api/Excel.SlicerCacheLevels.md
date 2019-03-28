@@ -32,10 +32,16 @@ ActiveWorkbook.SlicerCaches("Slicer_Customer_Geography"). _
  SlicerCacheLevels("[Customer].[Customer Geography].[Country]")
 ```
 
+## Properties
+
+- [Application](Excel.SlicerCacheLevels.Application.md)
+- [Count](Excel.SlicerCacheLevels.Count.md)
+- [Creator](Excel.SlicerCacheLevels.Creator.md)
+- [Item](Excel.SlicerCacheLevels.Item.md)
+- [Parent](Excel.SlicerCacheLevels.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -26,44 +26,36 @@ An  **ODBCConnection** object contains information related to the connection, su
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[CancelRefresh](Excel.ODBCConnection.CancelRefresh.md)|
-|[Refresh](Excel.ODBCConnection.Refresh.md)|
-|[SaveAsODC](Excel.ODBCConnection.SaveAsODC.md)|
+- [CancelRefresh](Excel.ODBCConnection.CancelRefresh.md)
+- [Refresh](Excel.ODBCConnection.Refresh.md)
+- [SaveAsODC](Excel.ODBCConnection.SaveAsODC.md)
 
 ## Properties
 
+- [AlwaysUseConnectionFile](Excel.ODBCConnection.AlwaysUseConnectionFile.md)
+- [Application](Excel.ODBCConnection.Application.md)
+- [BackgroundQuery](Excel.ODBCConnection.BackgroundQuery.md)
+- [CommandText](Excel.ODBCConnection.CommandText.md)
+- [CommandType](Excel.ODBCConnection.CommandType.md)
+- [Connection](Excel.ODBCConnection.Connection.md)
+- [Creator](Excel.ODBCConnection.Creator.md)
+- [EnableRefresh](Excel.ODBCConnection.EnableRefresh.md)
+- [Parent](Excel.ODBCConnection.Parent.md)
+- [RefreshDate](Excel.ODBCConnection.RefreshDate.md)
+- [Refreshing](Excel.ODBCConnection.Refreshing.md)
+- [RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)
+- [RefreshPeriod](Excel.ODBCConnection.RefreshPeriod.md)
+- [RobustConnect](Excel.ODBCConnection.RobustConnect.md)
+- [SavePassword](Excel.ODBCConnection.SavePassword.md)
+- [ServerCredentialsMethod](Excel.ODBCConnection.ServerCredentialsMethod.md)
+- [ServerSSOApplicationID](Excel.ODBCConnection.ServerSSOApplicationID.md)
+- [SourceConnectionFile](Excel.ODBCConnection.SourceConnectionFile.md)
+- [SourceData](Excel.ODBCConnection.SourceData.md)
+- [SourceDataFile](Excel.ODBCConnection.SourceDataFile.md)
 
-
-|Name|
-|:-----|
-|[AlwaysUseConnectionFile](Excel.ODBCConnection.AlwaysUseConnectionFile.md)|
-|[Application](Excel.ODBCConnection.Application.md)|
-|[BackgroundQuery](Excel.ODBCConnection.BackgroundQuery.md)|
-|[CommandText](Excel.ODBCConnection.CommandText.md)|
-|[CommandType](Excel.ODBCConnection.CommandType.md)|
-|[Connection](Excel.ODBCConnection.Connection.md)|
-|[Creator](Excel.ODBCConnection.Creator.md)|
-|[EnableRefresh](Excel.ODBCConnection.EnableRefresh.md)|
-|[Parent](Excel.ODBCConnection.Parent.md)|
-|[RefreshDate](Excel.ODBCConnection.RefreshDate.md)|
-|[Refreshing](Excel.ODBCConnection.Refreshing.md)|
-|[RefreshOnFileOpen](Excel.ODBCConnection.RefreshOnFileOpen.md)|
-|[RefreshPeriod](Excel.ODBCConnection.RefreshPeriod.md)|
-|[RobustConnect](Excel.ODBCConnection.RobustConnect.md)|
-|[SavePassword](Excel.ODBCConnection.SavePassword.md)|
-|[ServerCredentialsMethod](Excel.ODBCConnection.ServerCredentialsMethod.md)|
-|[ServerSSOApplicationID](Excel.ODBCConnection.ServerSSOApplicationID.md)|
-|[SourceConnectionFile](Excel.ODBCConnection.SourceConnectionFile.md)|
-|[SourceData](Excel.ODBCConnection.SourceData.md)|
-|[SourceDataFile](Excel.ODBCConnection.SourceDataFile.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

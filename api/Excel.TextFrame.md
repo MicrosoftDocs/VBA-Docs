@@ -42,37 +42,29 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Characters](Excel.TextFrame.Characters.md)|
+- [Characters](Excel.TextFrame.Characters.md)
 
 ## Properties
 
+- [Application](Excel.TextFrame.Application.md)
+- [AutoMargins](Excel.TextFrame.AutoMargins.md)
+- [AutoSize](Excel.TextFrame.AutoSize.md)
+- [Creator](Excel.TextFrame.Creator.md)
+- [HorizontalAlignment](Excel.TextFrame.HorizontalAlignment.md)
+- [HorizontalOverflow](Excel.TextFrame.HorizontalOverflow.md)
+- [MarginBottom](Excel.TextFrame.MarginBottom.md)
+- [MarginLeft](Excel.TextFrame.MarginLeft.md)
+- [MarginRight](Excel.TextFrame.MarginRight.md)
+- [MarginTop](Excel.TextFrame.MarginTop.md)
+- [Orientation](Excel.TextFrame.Orientation.md)
+- [Parent](Excel.TextFrame.Parent.md)
+- [ReadingOrder](Excel.TextFrame.ReadingOrder.md)
+- [VerticalAlignment](Excel.TextFrame.VerticalAlignment.md)
+- [VerticalOverflow](Excel.TextFrame.VerticalOverflow.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.TextFrame.Application.md)|
-|[AutoMargins](Excel.TextFrame.AutoMargins.md)|
-|[AutoSize](Excel.TextFrame.AutoSize.md)|
-|[Creator](Excel.TextFrame.Creator.md)|
-|[HorizontalAlignment](Excel.TextFrame.HorizontalAlignment.md)|
-|[HorizontalOverflow](Excel.TextFrame.HorizontalOverflow.md)|
-|[MarginBottom](Excel.TextFrame.MarginBottom.md)|
-|[MarginLeft](Excel.TextFrame.MarginLeft.md)|
-|[MarginRight](Excel.TextFrame.MarginRight.md)|
-|[MarginTop](Excel.TextFrame.MarginTop.md)|
-|[Orientation](Excel.TextFrame.Orientation.md)|
-|[Parent](Excel.TextFrame.Parent.md)|
-|[ReadingOrder](Excel.TextFrame.ReadingOrder.md)|
-|[VerticalAlignment](Excel.TextFrame.VerticalAlignment.md)|
-|[VerticalOverflow](Excel.TextFrame.VerticalOverflow.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

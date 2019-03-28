@@ -56,10 +56,17 @@ End Sub
 ```
 
 
+## Properties
+
+- [Application](Excel.AutoRecover.Application.md)
+- [Creator](Excel.AutoRecover.Creator.md)
+- [Enabled](Excel.AutoRecover.Enabled.md)
+- [Parent](Excel.AutoRecover.Parent.md)
+- [Path](Excel.AutoRecover.Path.md)
+- [Time](Excel.AutoRecover.Time.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

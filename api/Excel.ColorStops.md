@@ -73,10 +73,21 @@ End With
 ```
 
 
+## Methods
+
+- [Add](Excel.ColorStops.Add.md)
+- [Clear](Excel.ColorStops.Clear.md)
+- [Item](Excel.ColorStops.Item.md)
+
+## Properties
+
+- [Application](Excel.ColorStops.Application.md)
+- [Count](Excel.ColorStops.Count.md)
+- [Creator](Excel.ColorStops.Creator.md)
+- [Parent](Excel.ColorStops.Parent.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

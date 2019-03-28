@@ -12,19 +12,17 @@ localization_priority: Normal
 
 # ModelColumnNames.Item method (Excel)
 
-Returns a single object from the [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection.
+Returns a single object from the **ModelColumnNames** collection.
 
 
 ## Syntax
 
-_expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
+_expression_ A variable that represents a **[ModelColumnNames](Excel.modelcolumnnames.md)** object.
 
 
 ## Parameters
-
-
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
@@ -32,13 +30,8 @@ _expression_ A variable that represents a [ModelColumnNames object (Excel)](Exce
 
 ## Return value
 
-A [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object contained in the collection.
+A **[ModelColumnName](Excel.modelcolumnname.md)** object contained in the collection.
 
 
-## See also
-
-
-
-[ModelColumnNames Object](Excel.modelcolumnnames.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

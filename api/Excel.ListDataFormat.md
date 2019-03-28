@@ -48,15 +48,30 @@ With objListObject.ListColumns(2)
  objDataRange.Value = "Hello World" 
  End If 
 End With 
- 
 
 ```
+
+## Properties
+
+- [AllowFillIn](Excel.ListDataFormat.AllowFillIn.md)
+- [Application](Excel.ListDataFormat.Application.md)
+- [Choices](Excel.ListDataFormat.Choices.md)
+- [Creator](Excel.ListDataFormat.Creator.md)
+- [DecimalPlaces](Excel.ListDataFormat.DecimalPlaces.md)
+- [DefaultValue](Excel.ListDataFormat.DefaultValue.md)
+- [IsPercent](Excel.ListDataFormat.IsPercent.md)
+- [lcid](Excel.ListDataFormat.lcid.md)
+- [MaxCharacters](Excel.ListDataFormat.MaxCharacters.md)
+- [MaxNumber](Excel.ListDataFormat.MaxNumber.md)
+- [MinNumber](Excel.ListDataFormat.MinNumber.md)
+- [Parent](Excel.ListDataFormat.Parent.md)
+- [ReadOnly](Excel.ListDataFormat.ReadOnly.md)
+- [Required](Excel.ListDataFormat.Required.md)
+- [Type](Excel.ListDataFormat.Type.md)
 
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

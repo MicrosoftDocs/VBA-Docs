@@ -40,10 +40,28 @@ Use  **Phonetics** ( _index_ ), where _index_ is the index number of the phoneti
 ActiveCell.Phonetics(1).Text = "フリガナ"
 ```
 
+## Methods
+
+- [Add](Excel.Phonetics.Add.md)
+- [Delete](Excel.Phonetics.Delete.md)
+
+## Properties
+
+- [Alignment](Excel.Phonetics.Alignment.md)
+- [Application](Excel.Phonetics.Application.md)
+- [CharacterType](Excel.Phonetics.CharacterType.md)
+- [Count](Excel.Phonetics.Count.md)
+- [Creator](Excel.Phonetics.Creator.md)
+- [Font](Excel.Phonetics.Font.md)
+- [Item](Excel.Phonetics.Item.md)
+- [Length](Excel.Phonetics.Length.md)
+- [Parent](Excel.Phonetics.Parent.md)
+- [Start](Excel.Phonetics.Start.md)
+- [Text](Excel.Phonetics.Text.md)
+- [Visible](Excel.Phonetics.Visible.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

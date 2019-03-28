@@ -44,10 +44,20 @@ The following example adds a vertical page break to the left of the active cell.
 ActiveSheet.VPageBreaks.Add Before:=ActiveCell
 ```
 
+## Methods
+
+- [Add](Excel.VPageBreaks.Add.md)
+
+## Properties
+
+- [Application](Excel.VPageBreaks.Application.md)
+- [Count](Excel.VPageBreaks.Count.md)
+- [Creator](Excel.VPageBreaks.Creator.md)
+- [Item](Excel.VPageBreaks.Item.md)
+- [Parent](Excel.VPageBreaks.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

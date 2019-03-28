@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # PivotTable.PivotValueCell method (Excel)
 
-Retrieve the [PivotValueCell object (Excel)](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
+Retrieve the [PivotValueCell](Excel.pivotvaluecell.md) object for a given PivotTable provided certain row and column indices.
 
 
 ## Syntax
 
 _expression_. `PivotValueCell`_(rowline,_ _columnline)_
 
-_expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Parameters

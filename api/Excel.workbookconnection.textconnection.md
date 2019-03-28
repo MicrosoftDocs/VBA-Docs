@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # WorkbookConnection.TextConnection property (Excel)
 
-Returns a [TextConnection object (Excel)](Excel.textconnection.md) object that contains the information on a query to a text file. Read-only
+Returns a [TextConnection](Excel.textconnection.md) object that contains the information on a query to a text file. Read-only
 
 
 ## Syntax

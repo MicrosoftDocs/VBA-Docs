@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [TableObject object (Excel)](Excel.tableobject.md) object.
+_expression_ A variable that represents a [TableObject](Excel.tableobject.md) object.
 
 
 ## Example

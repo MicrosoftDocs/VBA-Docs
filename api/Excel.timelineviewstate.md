@@ -14,7 +14,19 @@ localization_priority: Normal
 
 Represents the Timeline-specific members of a Slicer view.
 
+## Properties
+
+- [Application](Excel.timelineviewstate.application.md)
+- [Creator](Excel.timelineviewstate.creator.md)
+- [Level](Excel.timelineviewstate.level.md)
+- [Parent](Excel.timelineviewstate.parent.md)
+- [ShowHeader](Excel.timelineviewstate.showheader.md)
+- [ShowHorizontalScrollbar](Excel.timelineviewstate.showhorizontalscrollbar.md)
+- [ShowSelectionLabel](Excel.timelineviewstate.showselectionlabel.md)
+- [ShowTimeLevel](Excel.timelineviewstate.showtimelevel.md)
 
 ## See also
+
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

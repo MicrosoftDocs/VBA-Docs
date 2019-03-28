@@ -12,25 +12,20 @@ localization_priority: Normal
 
 # ModelColumnNames.Count property (Excel)
 
-Returns a  **Long** value that represents the number of a [ModelColumnName object (Excel)](Excel.modelcolumnname.md) objects in a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection. Read-only.
+Returns a **Long** value that represents the number of **[ModelColumnName](Excel.modelcolumnname.md)** objects in a **ModelColumnNames** collection. Read-only.
 
 
 ## Syntax
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) object.
+_expression_ A variable that represents a **[ModelColumnNames](Excel.modelcolumnnames.md)** object.
 
 
 ## Property value
 
- **INT32**
+**INT32**
 
 
-## See also
-
-
-
-[ModelColumnNames Object](Excel.modelcolumnnames.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

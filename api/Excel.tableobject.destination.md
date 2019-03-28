@@ -19,7 +19,7 @@ Returns the cell in the upper-left corner of the query table destination range (
 
 _expression_. `Destination`
 
-_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable](Excel.modeltable.md) object.
 
 
 ## Property value

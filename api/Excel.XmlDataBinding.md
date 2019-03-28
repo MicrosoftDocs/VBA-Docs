@@ -25,10 +25,21 @@ Use the  **[Refresh](Excel.XmlDataBinding.Refresh.md)** method to refresh a data
 
 Use the  **[ClearSettings](Excel.XmlDataBinding.ClearSettings.md)** method to remove a data binding.
 
+## Methods
+
+- [ClearSettings](Excel.XmlDataBinding.ClearSettings.md)
+- [LoadSettings](Excel.XmlDataBinding.LoadSettings.md)
+- [Refresh](Excel.XmlDataBinding.Refresh.md)
+
+## Properties
+
+- [Application](Excel.XmlDataBinding.Application.md)
+- [Creator](Excel.XmlDataBinding.Creator.md)
+- [Parent](Excel.XmlDataBinding.Parent.md)
+- [SourceUrl](Excel.XmlDataBinding.SourceUrl.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

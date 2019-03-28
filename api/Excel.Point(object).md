@@ -35,56 +35,48 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ApplyDataLabels](Excel.Point.ApplyDataLabels.md)|
-|[ClearFormats](Excel.Point.ClearFormats.md)|
-|[Copy](Excel.Point.Copy.md)|
-|[Delete](Excel.Point.Delete.md)|
-|[Paste](Excel.Point.Paste.md)|
-|[PieSliceLocation](Excel.Point.PieSliceLocation.md)|
-|[Select](Excel.Point.Select.md)|
+- [ApplyDataLabels](Excel.Point.ApplyDataLabels.md)
+- [ClearFormats](Excel.Point.ClearFormats.md)
+- [Copy](Excel.Point.Copy.md)
+- [Delete](Excel.Point.Delete.md)
+- [Paste](Excel.Point.Paste.md)
+- [PieSliceLocation](Excel.Point.PieSliceLocation.md)
+- [Select](Excel.Point.Select.md)
 
 ## Properties
 
+- [Application](Excel.Point.Application.md)
+- [ApplyPictToEnd](Excel.Point.ApplyPictToEnd.md)
+- [ApplyPictToFront](Excel.Point.ApplyPictToFront.md)
+- [ApplyPictToSides](Excel.Point.ApplyPictToSides.md)
+- [Creator](Excel.Point.Creator.md)
+- [DataLabel](Excel.Point.DataLabel.md)
+- [Explosion](Excel.Point.Explosion.md)
+- [Format](Excel.Point.Format.md)
+- [Has3DEffect](Excel.Point.Has3DEffect.md)
+- [HasDataLabel](Excel.Point.HasDataLabel.md)
+- [Height](Excel.Point.Height.md)
+- [InvertIfNegative](Excel.Point.InvertIfNegative.md)
+- [IsTotal](Excel.point.istotal.md)
+- [Left](Excel.Point.Left.md)
+- [MarkerBackgroundColor](Excel.Point.MarkerBackgroundColor.md)
+- [MarkerBackgroundColorIndex](Excel.Point.MarkerBackgroundColorIndex.md)
+- [MarkerForegroundColor](Excel.Point.MarkerForegroundColor.md)
+- [MarkerForegroundColorIndex](Excel.Point.MarkerForegroundColorIndex.md)
+- [MarkerSize](Excel.Point.MarkerSize.md)
+- [MarkerStyle](Excel.Point.MarkerStyle.md)
+- [Name](Excel.Point.Name.md)
+- [Parent](Excel.Point.Parent.md)
+- [PictureType](Excel.Point.PictureType.md)
+- [PictureUnit2](Excel.Point.PictureUnit2.md)
+- [SecondaryPlot](Excel.Point.SecondaryPlot.md)
+- [Shadow](Excel.Point.Shadow.md)
+- [Top](Excel.Point.Top.md)
+- [Width](Excel.Point.Width.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Point.Application.md)|
-|[ApplyPictToEnd](Excel.Point.ApplyPictToEnd.md)|
-|[ApplyPictToFront](Excel.Point.ApplyPictToFront.md)|
-|[ApplyPictToSides](Excel.Point.ApplyPictToSides.md)|
-|[Creator](Excel.Point.Creator.md)|
-|[DataLabel](Excel.Point.DataLabel.md)|
-|[Explosion](Excel.Point.Explosion.md)|
-|[Format](Excel.Point.Format.md)|
-|[Has3DEffect](Excel.Point.Has3DEffect.md)|
-|[HasDataLabel](Excel.Point.HasDataLabel.md)|
-|[Height](Excel.Point.Height.md)|
-|[InvertIfNegative](Excel.Point.InvertIfNegative.md)|
-|[Left](Excel.Point.Left.md)|
-|[MarkerBackgroundColor](Excel.Point.MarkerBackgroundColor.md)|
-|[MarkerBackgroundColorIndex](Excel.Point.MarkerBackgroundColorIndex.md)|
-|[MarkerForegroundColor](Excel.Point.MarkerForegroundColor.md)|
-|[MarkerForegroundColorIndex](Excel.Point.MarkerForegroundColorIndex.md)|
-|[MarkerSize](Excel.Point.MarkerSize.md)|
-|[MarkerStyle](Excel.Point.MarkerStyle.md)|
-|[Name](Excel.Point.Name.md)|
-|[Parent](Excel.Point.Parent.md)|
-|[PictureType](Excel.Point.PictureType.md)|
-|[PictureUnit2](Excel.Point.PictureUnit2.md)|
-|[SecondaryPlot](Excel.Point.SecondaryPlot.md)|
-|[Shadow](Excel.Point.Shadow.md)|
-|[Top](Excel.Point.Top.md)|
-|[Width](Excel.Point.Width.md)|
-|[IsTotal](Excel.point.istotal.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

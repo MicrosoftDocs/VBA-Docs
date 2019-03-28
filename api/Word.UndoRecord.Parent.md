@@ -14,19 +14,16 @@ localization_priority: Normal
 
 # UndoRecord.Parent property (Word)
 
-Returns an  **Object** that represents the parent object of the specified[UndoRecord](Word.UndoRecord.md) object.
+Returns an **Object** that represents the parent object of the specified **UndoRecord** object.
 
 
 ## Syntax
 
- _expression_.**Parent**
+_expression_.**Parent**
 
- _expression_ A variable that represents a '[UndoRecord](Word.UndoRecord.md)' object.
-
-
-## See also
+_expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 
 
-[UndoRecord Object](Word.UndoRecord.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

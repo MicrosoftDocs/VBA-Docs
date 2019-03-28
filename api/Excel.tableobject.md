@@ -49,38 +49,30 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.tableobject.delete.md)|
-|[Refresh](Excel.tableobject.refresh.md)|
+- [Delete](Excel.tableobject.delete.md)
+- [Refresh](Excel.tableobject.refresh.md)
 
 ## Properties
 
+- [AdjustColumnWidth](Excel.tableobject.adjustcolumnwidth.md)
+- [Application](Excel.tableobject.application.md)
+- [Creator](Excel.tableobject.creator.md)
+- [Destination](Excel.tableobject.destination.md)
+- [EnableEditing](Excel.tableobject.enableediting.md)
+- [EnableRefresh](Excel.tableobject.enablerefresh.md)
+- [FetchedRowOverflow](Excel.tableobject.fetchedrowoverflow.md)
+- [ListObject](Excel.tableobject.listobject.md)
+- [Parent](Excel.tableobject.parent.md)
+- [PreserveColumnInfo](Excel.tableobject.preservecolumninfo.md)
+- [PreserveFormatting](Excel.tableobject.preserveformatting.md)
+- [RefreshStyle](Excel.tableobject.refreshstyle.md)
+- [ResultRange](Excel.tableobject.resultrange.md)
+- [RowNumbers](Excel.tableobject.rownumbers.md)
+- [WorkbookConnection](Excel.tableobject.workbookconnection.md)
 
-
-|Name|
-|:-----|
-|[AdjustColumnWidth](Excel.tableobject.adjustcolumnwidth.md)|
-|[Application](Excel.tableobject.application.md)|
-|[Creator](Excel.tableobject.creator.md)|
-|[Destination](Excel.tableobject.destination.md)|
-|[EnableEditing](Excel.tableobject.enableediting.md)|
-|[EnableRefresh](Excel.tableobject.enablerefresh.md)|
-|[FetchedRowOverflow](Excel.tableobject.fetchedrowoverflow.md)|
-|[ListObject](Excel.tableobject.listobject.md)|
-|[Parent](Excel.tableobject.parent.md)|
-|[PreserveColumnInfo](Excel.tableobject.preservecolumninfo.md)|
-|[PreserveFormatting](Excel.tableobject.preserveformatting.md)|
-|[RefreshStyle](Excel.tableobject.refreshstyle.md)|
-|[ResultRange](Excel.tableobject.resultrange.md)|
-|[RowNumbers](Excel.tableobject.rownumbers.md)|
-|[WorkbookConnection](Excel.tableobject.workbookconnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

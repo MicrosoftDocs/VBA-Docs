@@ -31,11 +31,15 @@ The following example turns on the dialog sheet view for the active workbook.
 Worksheets("Sheet1").DialogSheetView.Visible = True
 ```
 
+## Properties
+
+- [Application](Excel.DialogSheetView.Application.md)
+- [Creator](Excel.DialogSheetView.Creator.md)
+- [Parent](Excel.DialogSheetView.Parent.md)
+- [Sheet](Excel.DialogSheetView.Sheet.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

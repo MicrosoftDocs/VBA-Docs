@@ -14,7 +14,16 @@ localization_priority: Normal
 
 Represents the format to be used for a model measure in the data model.
 
+## Properties
+
+- [Application](Excel.modelformatpercentagenumber.application.md)
+- [Creator](Excel.modelformatpercentagenumber.creator.md)
+- [DecimalPlaces](Excel.modelformatpercentagenumber.decimalplaces.md)
+- [Parent](Excel.modelformatpercentagenumber.parent.md)
+- [UseThousandSeparator](Excel.modelformatpercentagenumber.usethousandseparator.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

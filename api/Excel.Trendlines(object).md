@@ -56,27 +56,19 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Trendlines.Add.md)|
-|[Item](Excel.Trendlines.Item.md)|
+- [Add](Excel.Trendlines.Add.md)
+- [Item](Excel.Trendlines.Item.md)
 
 ## Properties
 
+- [Application](Excel.Trendlines.Application.md)
+- [Count](Excel.Trendlines.Count.md)
+- [Creator](Excel.Trendlines.Creator.md)
+- [Parent](Excel.Trendlines.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Trendlines.Application.md)|
-|[Count](Excel.Trendlines.Count.md)|
-|[Creator](Excel.Trendlines.Creator.md)|
-|[Parent](Excel.Trendlines.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,6 +12,9 @@ localization_priority: Normal
 
 # SoundNote.Parent property (Excel)
 
+> [!NOTE] 
+> This property should not be used. Sound notes have been removed from Microsoft Excel.
+
 Returns the parent object for the specified object. Read-only.
 
 
@@ -19,9 +22,9 @@ Returns the parent object for the specified object. Read-only.
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
-## See also
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

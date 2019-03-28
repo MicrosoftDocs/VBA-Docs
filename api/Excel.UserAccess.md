@@ -44,11 +44,17 @@ Sub UseAllowEditRanges()
 End Sub
 ```
 
+## Methods
+
+- [Delete](Excel.UserAccess.Delete.md)
+
+## Properties
+
+- [AllowEdit](Excel.UserAccess.AllowEdit.md)
+- [Name](Excel.UserAccess.Name.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

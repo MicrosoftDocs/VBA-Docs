@@ -33,10 +33,25 @@ With Worksheets(1).QueryTables(1).Parameters(1)
 End With
 ```
 
+## Methods
+
+- [SetParam](Excel.Parameter.SetParam.md)
+
+## Properties
+
+- [Application](Excel.Parameter.Application.md)
+- [Creator](Excel.Parameter.Creator.md)
+- [DataType](Excel.Parameter.DataType.md)
+- [Name](Excel.Parameter.Name.md)
+- [Parent](Excel.Parameter.Parent.md)
+- [PromptString](Excel.Parameter.PromptString.md)
+- [RefreshOnChange](Excel.Parameter.RefreshOnChange.md)
+- [SourceRange](Excel.Parameter.SourceRange.md)
+- [Type](Excel.Parameter.Type.md)
+- [Value](Excel.Parameter.Value.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

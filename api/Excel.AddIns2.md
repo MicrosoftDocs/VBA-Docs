@@ -22,9 +22,21 @@ A collection of  **[AddIn](Excel.AddIn.md)** objects that represent all the add-
 The contents of the  **AddIns2** collection correspond to the list of add-ins displayed in the **Add-Ins** dialog box (**Add-Ins** command on the **Developer** tab) and any add-ins that are currently open.
 
 
+## Methods
+
+- [Add](Excel.AddIns2.Add.md)
+
+## Properties
+
+- [Application](Excel.AddIns2.Application.md)
+- [Count](Excel.AddIns2.Count.md)
+- [Creator](Excel.AddIns2.Creator.md)
+- [Item](Excel.AddIns2.Item.md)
+- [Parent](Excel.AddIns2.Parent.md)
+
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

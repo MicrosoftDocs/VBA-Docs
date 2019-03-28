@@ -36,25 +36,18 @@ dlgAnswer = Application.Dialogs(xlDialogOpen).Show
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Show](Excel.Dialog.Show.md)|
+- [Show](Excel.Dialog.Show.md)
 
 ## Properties
 
+- [Application](Excel.Dialog.Application.md)
+- [Creator](Excel.Dialog.Creator.md)
+- [Parent](Excel.Dialog.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Dialog.Application.md)|
-|[Creator](Excel.Dialog.Creator.md)|
-|[Parent](Excel.Dialog.Parent.md)|
 
 ## See also
 
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

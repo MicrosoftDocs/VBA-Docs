@@ -39,35 +39,33 @@ Use  **Worksheets** ( _index_ ), where _index_ is the worksheet index number or 
 ```vb
 Worksheets(1).Visible = False
 ```
+
 ## Methods
 
-|Name|
-|:-----|
-|[Add](Excel.Worksheets.Add.md)|
-|[Add2](Excel.worksheets.add2.md)|
-|[Copy](Excel.Worksheets.Copy.md)|
-|[Delete](Excel.Worksheets.Delete.md)|
-|[FillAcrossSheets](Excel.Worksheets.FillAcrossSheets.md)|
-|[Move](Excel.Worksheets.Move.md)|
-|[PrintOut](Excel.Worksheets.PrintOut.md)|
-|[PrintPreview](Excel.Worksheets.PrintPreview.md)|
-|[Select](Excel.Worksheets.Select.md)|
+- [Add](Excel.WorkSheets.Add.md)
+- [Add2](Excel.WorkSheets.add2.md)
+- [Copy](Excel.WorkSheets.Copy.md)
+- [Delete](Excel.WorkSheets.Delete.md)
+- [FillAcrossSheets](Excel.WorkSheets.FillAcrossSheets.md)
+- [Move](Excel.WorkSheets.Move.md)
+- [PrintOut](Excel.WorkSheets.PrintOut.md)
+- [PrintPreview](Excel.WorkSheets.PrintPreview.md)
+- [Select](Excel.WorkSheets.Select.md)
 
 ## Properties
 
-|Name|
-|:-----|
-|[Application](Excel.Worksheets.Application.md)|
-|[Count](Excel.Worksheets.Count.md)|
-|[Creator](Excel.Worksheets.Creator.md)|
-|[HPageBreaks](Excel.Worksheets.HPageBreaks.md)|
-|[Item](Excel.Worksheets.Item.md)|
-|[Parent](Excel.Worksheets.Parent.md)|
-|[Visible](Excel.Worksheets.Visible.md)|
-|[VPageBreaks](Excel.Worksheets.VPageBreaks.md)|
+- [Application](Excel.WorkSheets.Application.md)
+- [Count](Excel.WorkSheets.Count.md)
+- [Creator](Excel.WorkSheets.Creator.md)
+- [HPageBreaks](Excel.WorkSheets.HPageBreaks.md)
+- [Item](Excel.WorkSheets.Item.md)
+- [Parent](Excel.WorkSheets.Parent.md)
+- [Visible](Excel.WorkSheets.Visible.md)
+- [VPageBreaks](Excel.WorkSheets.VPageBreaks.md)
+
 
 ## See also
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

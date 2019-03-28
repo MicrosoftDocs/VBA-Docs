@@ -21,10 +21,16 @@ Represents the color of the horizontal axis and the markers for points in a spar
 
 The SparkColor object corresponds to the settings of the items available on the  **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon. Use the corresponding properties of the **[SparkPoints](Excel.SparkPoints.md)** object to set the colors of these items.
 
+## Properties
+
+- [Application](Excel.SparkColor.Application.md)
+- [Color](Excel.SparkColor.Color.md)
+- [Creator](Excel.SparkColor.Creator.md)
+- [Parent](Excel.SparkColor.Parent.md)
+- [Visible](Excel.SparkColor.Visible.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

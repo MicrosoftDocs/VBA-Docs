@@ -14,7 +14,23 @@ localization_priority: Normal
 
 Represents a single  **ModelMeasure** object in the [ModelMeasures](Excel.modelmeasures.md) collection.
 
+## Methods
+
+- [Delete](Excel.modelmeasure.delete.md)
+
+## Properties
+
+- [Application](Excel.modelmeasure.application.md)
+- [AssociatedTable](Excel.modelmeasure.associatedtable.md)
+- [Creator](Excel.modelmeasure.creator.md)
+- [Description](Excel.modelmeasure.description.md)
+- [FormatInformation](Excel.modelmeasure.formatinformation.md)
+- [Formula](Excel.modelmeasure.formula.md)
+- [Name](Excel.modelmeasure.name.md)
+- [Parent](Excel.modelmeasure.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

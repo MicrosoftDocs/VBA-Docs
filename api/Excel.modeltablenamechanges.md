@@ -12,9 +12,21 @@ localization_priority: Normal
 
 # ModelTableNameChanges object (Excel)
 
-A collection of [ModelTableNameChange object (Excel)](Excel.modeltablenamechange.md) objects representing table names before and after a table name change in the Excel data model.
+A collection of [ModelTableNameChange](Excel.modeltablenamechange.md) objects representing table names before and after a table name change in the Excel data model.
 
+## Methods
+
+- [Item](Excel.modeltablenamechanges.item.md)
+
+## Properties
+
+- [Application](Excel.modeltablenamechanges.application.md)
+- [Count](Excel.modeltablenamechanges.count.md)
+- [Creator](Excel.modeltablenamechanges.creator.md)
+- [Parent](Excel.modeltablenamechanges.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

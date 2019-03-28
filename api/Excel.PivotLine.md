@@ -23,11 +23,19 @@ PivotLines contain only visible items, so collapsed children of items and items 
 
 PivotLines always have a PivotItem in all positions. This means that the PivotLines representing subtotals in the PivotTable contain fewer PivotItems than regular PivotLines.
 
+## Properties
+
+- [Application](Excel.PivotLine.Application.md)
+- [Creator](Excel.PivotLine.Creator.md)
+- [LineType](Excel.PivotLine.LineType.md)
+- [Parent](Excel.PivotLine.Parent.md)
+- [PivotLineCells](Excel.PivotLine.PivotLineCells.md)
+- [PivotLineCellsFull](Excel.pivotline.pivotlinecellsfull.md)
+- [Position](Excel.PivotLine.Position.md)
+
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

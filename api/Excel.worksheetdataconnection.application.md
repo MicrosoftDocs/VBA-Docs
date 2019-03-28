@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [WorksheetDataConnection object (Excel)](Excel.worksheetdataconnection.md) object.
+_expression_ A variable that represents a [WorksheetDataConnection](Excel.worksheetdataconnection.md) object.
 
 
 ## Example

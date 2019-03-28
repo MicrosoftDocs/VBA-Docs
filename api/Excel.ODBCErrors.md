@@ -47,10 +47,19 @@ End With
 
 ```
 
+## Methods
+
+- [Item](Excel.ODBCErrors.Item.md)
+
+## Properties
+
+- [Application](Excel.OdbcErrors.Application.md)
+- [Count](Excel.ODBCErrors.Count.md)
+- [Creator](Excel.OdbcErrors.Creator.md)
+- [Parent](Excel.OdbcErrors.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

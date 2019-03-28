@@ -47,26 +47,18 @@ Worksheets(1).ChartObjects(1).Chart. _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Excel.Points.Item.md)|
+- [Item](Excel.Points.Item.md)
 
 ## Properties
 
+- [Application](Excel.Points.Application.md)
+- [Count](Excel.Points.Count.md)
+- [Creator](Excel.Points.Creator.md)
+- [Parent](Excel.Points.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Points.Application.md)|
-|[Count](Excel.Points.Count.md)|
-|[Creator](Excel.Points.Creator.md)|
-|[Parent](Excel.Points.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

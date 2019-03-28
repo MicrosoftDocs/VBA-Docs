@@ -43,11 +43,18 @@ Sub UseDeleteAll()
 End Sub
 ```
 
+## Methods
+
+- [Add](Excel.UserAccessList.Add.md)
+- [DeleteAll](Excel.UserAccessList.DeleteAll.md)
+
+## Properties
+
+- [Count](Excel.UserAccessList.Count.md)
+- [Item](Excel.UserAccessList.Item.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

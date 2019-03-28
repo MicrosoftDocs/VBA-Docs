@@ -61,10 +61,21 @@ End Sub
 ```
 
 
+## Methods
+
+- [ChangePassword](Excel.AllowEditRange.ChangePassword.md)
+- [Delete](Excel.AllowEditRange.Delete.md)
+- [Unprotect](Excel.AllowEditRange.Unprotect.md)
+
+## Properties
+
+- [Range](Excel.AllowEditRange.Range.md)
+- [Title](Excel.AllowEditRange.Title.md)
+- [Users](Excel.AllowEditRange.Users.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

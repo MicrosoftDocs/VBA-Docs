@@ -36,11 +36,16 @@ ActiveSheet.PivotTables("PivotTable2") _
 
 ```
 
+## Properties
+
+- [Application](Excel.TreeviewControl.Application.md)
+- [Creator](Excel.TreeviewControl.Creator.md)
+- [Drilled](Excel.TreeviewControl.Drilled.md)
+- [Hidden](Excel.TreeviewControl.Hidden.md)
+- [Parent](Excel.TreeviewControl.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,11 +37,21 @@ Table styles differ from auto format in the following ways:
 - Table styles have a visual user interface in the ribbon.
     
 
+## Methods
+
+- [Add](Excel.TableStyles.Add.md)
+- [Item](Excel.TableStyles.Item.md)
+
+## Properties
+
+- [Application](Excel.TableStyles.Application.md)
+- [Count](Excel.TableStyles.Count.md)
+- [Creator](Excel.TableStyles.Creator.md)
+- [Parent](Excel.TableStyles.Parent.md)
 
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

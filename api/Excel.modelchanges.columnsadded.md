@@ -12,25 +12,21 @@ localization_priority: Normal
 
 # ModelChanges.ColumnsAdded property (Excel)
 
-Returns a [ModelColumnNames object (Excel)](Excel.modelcolumnnames.md) collection of[ModelColumnName object (Excel)](Excel.modelcolumnname.md) objects which represent all columns added as part of a model operation. Read-only.
+Returns a **[ModelColumnNames](Excel.modelcolumnnames.md)** collection of **[ModelColumnName](Excel.modelcolumnname.md)** objects that represent all columns added as part of a model operation. Read-only.
 
 
 ## Syntax
 
-_expression_. `ColumnsAdded`
+_expression_.**ColumnsAdded**
 
-_expression_ A variable that represents a [ModelChanges](Excel.modelchanges.md) object.
+_expression_ A variable that represents a **[ModelChanges](Excel.modelchanges.md)** object.
 
 
 ## Property value
 
- **MODELCOLUMNNAMES**
-
-
-## See also
+**MODELCOLUMNNAMES**
 
 
 
-[ModelChanges Object](Excel.modelchanges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

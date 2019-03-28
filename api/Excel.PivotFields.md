@@ -22,16 +22,11 @@ A collection of all the  **[PivotField](Excel.PivotField.md)** objects in a Pivo
 In some cases, it may be easier to use one of the properties that returns a subset of the PivotTable fields. The following accessor methods are available:
 
 
--  **[ColumnFields](Excel.PivotTable.ColumnFields.md)** property
-    
--  **[DataFields](Excel.PivotTable.DataFields.md)** property
-    
--  **[HiddenFields](Excel.PivotTable.HiddenFields.md)** property
-    
--  **[PageFields](Excel.PivotTable.PageFields.md)** property
-    
--  **[RowFields](Excel.PivotTable.RowFields.md)** property
-    
+-  **[ColumnFields](Excel.PivotTable.ColumnFields.md)** property    
+-  **[DataFields](Excel.PivotTable.DataFields.md)** property    
+-  **[HiddenFields](Excel.PivotTable.HiddenFields.md)** property   
+-  **[PageFields](Excel.PivotTable.PageFields.md)** property   
+-  **[RowFields](Excel.PivotTable.RowFields.md)** property   
 -  **[VisibleFields](Excel.PivotTable.VisibleFields.md)** property
     
 
@@ -61,26 +56,18 @@ Worksheets("sheet3").PivotTables(1) _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Item](Excel.PivotFields.Item.md)|
+- [Item](Excel.PivotFields.Item.md)
 
 ## Properties
 
+- [Application](Excel.PivotFields.Application.md)
+- [Count](Excel.PivotFields.Count.md)
+- [Creator](Excel.PivotFields.Creator.md)
+- [Parent](Excel.PivotFields.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PivotFields.Application.md)|
-|[Count](Excel.PivotFields.Count.md)|
-|[Creator](Excel.PivotFields.Creator.md)|
-|[Parent](Excel.PivotFields.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

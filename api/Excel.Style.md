@@ -48,54 +48,45 @@ Use  **Styles** ( _index_ ), where _index_ is the style index number or name, to
 ActiveWorkbook.Styles("Normal").Font.Bold = True
 ```
 
-
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.Style.Delete.md)|
+- [Delete](Excel.Style.Delete.md)
 
 ## Properties
 
+- [AddIndent](Excel.Style.AddIndent.md)
+- [Application](Excel.Style.Application.md)
+- [Borders](Excel.Style.Borders.md)
+- [BuiltIn](Excel.Style.BuiltIn.md)
+- [Creator](Excel.Style.Creator.md)
+- [Font](Excel.Style.Font.md)
+- [FormulaHidden](Excel.Style.FormulaHidden.md)
+- [HorizontalAlignment](Excel.Style.HorizontalAlignment.md)
+- [IncludeAlignment](Excel.Style.IncludeAlignment.md)
+- [IncludeBorder](Excel.Style.IncludeBorder.md)
+- [IncludeFont](Excel.Style.IncludeFont.md)
+- [IncludeNumber](Excel.Style.IncludeNumber.md)
+- [IncludePatterns](Excel.Style.IncludePatterns.md)
+- [IncludeProtection](Excel.Style.IncludeProtection.md)
+- [IndentLevel](Excel.Style.IndentLevel.md)
+- [Interior](Excel.Style.Interior.md)
+- [Locked](Excel.Style.Locked.md)
+- [MergeCells](Excel.Style.MergeCells.md)
+- [Name](Excel.Style.Name.md)
+- [NameLocal](Excel.Style.NameLocal.md)
+- [NumberFormat](Excel.Style.NumberFormat.md)
+- [NumberFormatLocal](Excel.Style.NumberFormatLocal.md)
+- [Orientation](Excel.Style.Orientation.md)
+- [Parent](Excel.Style.Parent.md)
+- [ReadingOrder](Excel.Style.ReadingOrder.md)
+- [ShrinkToFit](Excel.Style.ShrinkToFit.md)
+- [Value](Excel.Style.Value.md)
+- [VerticalAlignment](Excel.Style.VerticalAlignment.md)
+- [WrapText](Excel.Style.WrapText.md)
 
-
-|Name|
-|:-----|
-|[AddIndent](Excel.Style.AddIndent.md)|
-|[Application](Excel.Style.Application.md)|
-|[Borders](Excel.Style.Borders.md)|
-|[BuiltIn](Excel.Style.BuiltIn.md)|
-|[Creator](Excel.Style.Creator.md)|
-|[Font](Excel.Style.Font.md)|
-|[FormulaHidden](Excel.Style.FormulaHidden.md)|
-|[HorizontalAlignment](Excel.Style.HorizontalAlignment.md)|
-|[IncludeAlignment](Excel.Style.IncludeAlignment.md)|
-|[IncludeBorder](Excel.Style.IncludeBorder.md)|
-|[IncludeFont](Excel.Style.IncludeFont.md)|
-|[IncludeNumber](Excel.Style.IncludeNumber.md)|
-|[IncludePatterns](Excel.Style.IncludePatterns.md)|
-|[IncludeProtection](Excel.Style.IncludeProtection.md)|
-|[IndentLevel](Excel.Style.IndentLevel.md)|
-|[Interior](Excel.Style.Interior.md)|
-|[Locked](Excel.Style.Locked.md)|
-|[MergeCells](Excel.Style.MergeCells.md)|
-|[Name](Excel.Style.Name.md)|
-|[NameLocal](Excel.Style.NameLocal.md)|
-|[NumberFormat](Excel.Style.NumberFormat.md)|
-|[NumberFormatLocal](Excel.Style.NumberFormatLocal.md)|
-|[Orientation](Excel.Style.Orientation.md)|
-|[Parent](Excel.Style.Parent.md)|
-|[ReadingOrder](Excel.Style.ReadingOrder.md)|
-|[ShrinkToFit](Excel.Style.ShrinkToFit.md)|
-|[Value](Excel.Style.Value.md)|
-|[VerticalAlignment](Excel.Style.VerticalAlignment.md)|
-|[WrapText](Excel.Style.WrapText.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -74,26 +74,22 @@ End Sub
 
 ## Properties
 
+- [AllowDeletingColumns](Excel.Protection.AllowDeletingColumns.md)
+- [AllowDeletingRows](Excel.Protection.AllowDeletingRows.md)
+- [AllowEditRanges](Excel.Protection.AllowEditRanges.md)
+- [AllowFiltering](Excel.Protection.AllowFiltering.md)
+- [AllowFormattingCells](Excel.Protection.AllowFormattingCells.md)
+- [AllowFormattingColumns](Excel.Protection.AllowFormattingColumns.md)
+- [AllowFormattingRows](Excel.Protection.AllowFormattingRows.md)
+- [AllowInsertingColumns](Excel.Protection.AllowInsertingColumns.md)
+- [AllowInsertingHyperlinks](Excel.Protection.AllowInsertingHyperlinks.md)
+- [AllowInsertingRows](Excel.Protection.AllowInsertingRows.md)
+- [AllowSorting](Excel.Protection.AllowSorting.md)
+- [AllowUsingPivotTables](Excel.Protection.AllowUsingPivotTables.md)
 
-
-|Name|
-|:-----|
-|[AllowDeletingColumns](Excel.Protection.AllowDeletingColumns.md)|
-|[AllowDeletingRows](Excel.Protection.AllowDeletingRows.md)|
-|[AllowEditRanges](Excel.Protection.AllowEditRanges.md)|
-|[AllowFiltering](Excel.Protection.AllowFiltering.md)|
-|[AllowFormattingCells](Excel.Protection.AllowFormattingCells.md)|
-|[AllowFormattingColumns](Excel.Protection.AllowFormattingColumns.md)|
-|[AllowFormattingRows](Excel.Protection.AllowFormattingRows.md)|
-|[AllowInsertingColumns](Excel.Protection.AllowInsertingColumns.md)|
-|[AllowInsertingHyperlinks](Excel.Protection.AllowInsertingHyperlinks.md)|
-|[AllowInsertingRows](Excel.Protection.AllowInsertingRows.md)|
-|[AllowSorting](Excel.Protection.AllowSorting.md)|
-|[AllowUsingPivotTables](Excel.Protection.AllowUsingPivotTables.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

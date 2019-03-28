@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # FullSeriesCollection.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[FullSeriesCollection](Excel.fullseriescollection.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified **FullSeriesCollection** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Remarks
@@ -29,13 +29,8 @@ Typically the chart to which this  **FullSeriesCollection** object belongs is re
 
 ## Property value
 
- **OBJECT**
+**OBJECT**
 
 
-## See also
-
-
-
-[FullSeriesCollection Object](Excel.fullseriescollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

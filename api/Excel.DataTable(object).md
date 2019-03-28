@@ -32,33 +32,25 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.DataTable.Delete.md)|
-|[Select](Excel.DataTable.Select.md)|
+- [Delete](Excel.DataTable.Delete.md)
+- [Select](Excel.DataTable.Select.md)
 
 ## Properties
 
+- [Application](Excel.DataTable.Application.md)
+- [Border](Excel.DataTable.Border.md)
+- [Creator](Excel.DataTable.Creator.md)
+- [Font](Excel.DataTable.Font.md)
+- [Format](Excel.DataTable.Format.md)
+- [HasBorderHorizontal](Excel.DataTable.HasBorderHorizontal.md)
+- [HasBorderOutline](Excel.DataTable.HasBorderOutline.md)
+- [HasBorderVertical](Excel.DataTable.HasBorderVertical.md)
+- [Parent](Excel.DataTable.Parent.md)
+- [ShowLegendKey](Excel.DataTable.ShowLegendKey.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.DataTable.Application.md)|
-|[Border](Excel.DataTable.Border.md)|
-|[Creator](Excel.DataTable.Creator.md)|
-|[Font](Excel.DataTable.Font.md)|
-|[Format](Excel.DataTable.Format.md)|
-|[HasBorderHorizontal](Excel.DataTable.HasBorderHorizontal.md)|
-|[HasBorderOutline](Excel.DataTable.HasBorderOutline.md)|
-|[HasBorderVertical](Excel.DataTable.HasBorderVertical.md)|
-|[Parent](Excel.DataTable.Parent.md)|
-|[ShowLegendKey](Excel.DataTable.ShowLegendKey.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -197,14 +197,10 @@ End Sub
 
 The following properties and methods for returning a **Range** object are described in the examples section:
 
-- **[Range](Excel.Worksheet.Range.md)** property
-    
-- **[Cells](Excel.Worksheet.Cells.md)** property
-    
-- **Range** and **Cells**
-    
-- **[Offset](Excel.Range.Offset.md)** property
-    
+- **[Range](Excel.Worksheet.Range.md)** property    
+- **[Cells](Excel.Worksheet.Cells.md)** property   
+- **Range** and **Cells**    
+- **[Offset](Excel.Range.Offset.md)** property   
 - **[Union](Excel.Application.Union.md)** method
     
 
@@ -397,5 +393,9 @@ The following properties and methods for returning a **Range** object are descri
 ### About the contributor
 
 Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .NET Framework solutions for Excel and Excel Services. Dennis has been developing Excel solutions for over 20 years, and is also the coauthor of "Professional Excel Development: The Definitive Guide to Developing Applications Using Microsoft Excel, VBA, and .NET (2nd Edition)."
+
+## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

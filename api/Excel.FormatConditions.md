@@ -49,34 +49,26 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.FormatConditions.Add.md)|
-|[AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)|
-|[AddColorScale](Excel.FormatConditions.AddColorScale.md)|
-|[AddDatabar](Excel.FormatConditions.AddDatabar.md)|
-|[AddIconSetCondition](Excel.FormatConditions.AddIconSetCondition.md)|
-|[AddTop10](Excel.FormatConditions.AddTop10.md)|
-|[AddUniqueValues](Excel.FormatConditions.AddUniqueValues.md)|
-|[Delete](Excel.FormatConditions.Delete.md)|
-|[Item](Excel.FormatConditions.Item.md)|
+- [Add](Excel.FormatConditions.Add.md)
+- [AddAboveAverage](Excel.FormatConditions.AddAboveAverage.md)
+- [AddColorScale](Excel.FormatConditions.AddColorScale.md)
+- [AddDatabar](Excel.FormatConditions.AddDatabar.md)
+- [AddIconSetCondition](Excel.FormatConditions.AddIconSetCondition.md)
+- [AddTop10](Excel.FormatConditions.AddTop10.md)
+- [AddUniqueValues](Excel.FormatConditions.AddUniqueValues.md)
+- [Delete](Excel.FormatConditions.Delete.md)
+- [Item](Excel.FormatConditions.Item.md)
 
 ## Properties
 
+- [Application](Excel.FormatConditions.Application.md)
+- [Count](Excel.FormatConditions.Count.md)
+- [Creator](Excel.FormatConditions.Creator.md)
+- [Parent](Excel.FormatConditions.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.FormatConditions.Application.md)|
-|[Count](Excel.FormatConditions.Count.md)|
-|[Creator](Excel.FormatConditions.Creator.md)|
-|[Parent](Excel.FormatConditions.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

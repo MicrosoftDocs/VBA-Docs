@@ -43,10 +43,20 @@ Next
 ```
 
 
+## Methods
+
+- [Add](Excel.CalculatedItems.Add.md)
+- [Item](Excel.CalculatedItems.Item.md)
+
+## Properties
+
+- [Application](Excel.CalculatedItems.Application.md)
+- [Count](Excel.CalculatedItems.Count.md)
+- [Creator](Excel.CalculatedItems.Creator.md)
+- [Parent](Excel.CalculatedItems.Parent.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

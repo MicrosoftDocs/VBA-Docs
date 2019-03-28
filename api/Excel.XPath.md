@@ -59,11 +59,22 @@ Sub CreateXMLList()
 End Sub
 ```
 
+## Methods
+
+- [Clear](Excel.XPath.Clear.md)
+- [SetValue](Excel.XPath.SetValue.md)
+
+## Properties
+
+- [Application](Excel.XPath.Application.md)
+- [Creator](Excel.XPath.Creator.md)
+- [Map](Excel.XPath.Map.md)
+- [Parent](Excel.XPath.Parent.md)
+- [Repeating](Excel.XPath.Repeating.md)
+- [Value](Excel.XPath.Value.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

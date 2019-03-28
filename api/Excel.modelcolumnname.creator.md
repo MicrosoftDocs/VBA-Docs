@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelColumnName.Creator property (Excel)
 
-Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only  **Long**.
+Returns a 32-bit integer that indicates the application in which the specified object was created. Read-only **Long**.
 
 
 ## Syntax
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [ModelColumnName object (Excel)](Excel.modelcolumnname.md) object.
+_expression_ A variable that represents a **[ModelColumnName](Excel.modelcolumnname.md)** object.
 
 
 ## Remarks
@@ -29,13 +29,8 @@ Because the object was created in Microsoft Excel, this property returns the hex
 
 ## Property value
 
- **XLCREATOR**
+**XLCREATOR**
 
 
-## See also
-
-
-
-[ModelColumnName Object](Excel.modelcolumnname.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

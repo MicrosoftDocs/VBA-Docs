@@ -12,23 +12,26 @@ localization_priority: Normal
 
 # SoundNote.Import method (Excel)
 
+> [!NOTE] 
+> This property should not be used. Sound notes have been removed from Microsoft Excel.
+
 Imports the specified sound note.
 
 
 ## Syntax
 
-_expression_. `Import`_(Filename)_
+_expression_.**Import** (_FileName_)
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
 ## Parameters
 
-
-
-|||||
+|Name|Required/Optional|Data type|Description|
+|:---|:---|:---|:---|
 | _Filename_|Required|STRING|The file name of the sound note to import.|
 
-## See also
+
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

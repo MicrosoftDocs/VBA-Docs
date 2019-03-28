@@ -42,10 +42,16 @@ Worksheets("sheet1").Activate
 Windows(1).Panes(1).LargeScroll down:=1
 ```
 
+## Properties
+
+- [Application](Excel.Panes.Application.md)
+- [Count](Excel.Panes.Count.md)
+- [Creator](Excel.Panes.Creator.md)
+- [Item](Excel.Panes.Item.md)
+- [Parent](Excel.Panes.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

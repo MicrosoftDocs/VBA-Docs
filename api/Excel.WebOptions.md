@@ -38,11 +38,30 @@ With objAppWebOptions
 End With
 ```
 
+## Methods
+
+- [UseDefaultFolderSuffix](Excel.WebOptions.UseDefaultFolderSuffix.md)
+
+## Properties
+
+- [AllowPNG](Excel.WebOptions.AllowPNG.md)
+- [Application](Excel.WebOptions.Application.md)
+- [Creator](Excel.WebOptions.Creator.md)
+- [DownloadComponents](Excel.WebOptions.DownloadComponents.md)
+- [Encoding](Excel.WebOptions.Encoding.md)
+- [FolderSuffix](Excel.WebOptions.FolderSuffix.md)
+- [LocationOfComponents](Excel.WebOptions.LocationOfComponents.md)
+- [OrganizeInFolder](Excel.WebOptions.OrganizeInFolder.md)
+- [Parent](Excel.WebOptions.Parent.md)
+- [PixelsPerInch](Excel.WebOptions.PixelsPerInch.md)
+- [RelyOnCSS](Excel.WebOptions.RelyOnCSS.md)
+- [RelyOnVML](Excel.WebOptions.RelyOnVML.md)
+- [ScreenSize](Excel.WebOptions.ScreenSize.md)
+- [TargetBrowser](Excel.WebOptions.TargetBrowser.md)
+- [UseLongFileNames](Excel.WebOptions.UseLongFileNames.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

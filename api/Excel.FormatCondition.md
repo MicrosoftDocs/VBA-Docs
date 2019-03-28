@@ -55,45 +55,37 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.FormatCondition.Delete.md)|
-|[Modify](Excel.FormatCondition.Modify.md)|
-|[ModifyAppliesToRange](Excel.FormatCondition.ModifyAppliesToRange.md)|
-|[SetFirstPriority](Excel.FormatCondition.SetFirstPriority.md)|
-|[SetLastPriority](Excel.FormatCondition.SetLastPriority.md)|
+- [Delete](Excel.FormatCondition.Delete.md)
+- [Modify](Excel.FormatCondition.Modify.md)
+- [ModifyAppliesToRange](Excel.FormatCondition.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.FormatCondition.SetFirstPriority.md)
+- [SetLastPriority](Excel.FormatCondition.SetLastPriority.md)
 
 ## Properties
 
+- [Application](Excel.FormatCondition.Application.md)
+- [AppliesTo](Excel.FormatCondition.AppliesTo.md)
+- [Borders](Excel.FormatCondition.Borders.md)
+- [Creator](Excel.FormatCondition.Creator.md)
+- [DateOperator](Excel.FormatCondition.DateOperator.md)
+- [Font](Excel.FormatCondition.Font.md)
+- [Formula1](Excel.FormatCondition.Formula1.md)
+- [Formula2](Excel.FormatCondition.Formula2.md)
+- [Interior](Excel.FormatCondition.Interior.md)
+- [NumberFormat](Excel.FormatCondition.NumberFormat.md)
+- [Operator](Excel.FormatCondition.Operator.md)
+- [Parent](Excel.FormatCondition.Parent.md)
+- [Priority](Excel.FormatCondition.Priority.md)
+- [PTCondition](Excel.FormatCondition.PTCondition.md)
+- [ScopeType](Excel.FormatCondition.ScopeType.md)
+- [StopIfTrue](Excel.FormatCondition.StopIfTrue.md)
+- [Text](Excel.FormatCondition.Text.md)
+- [TextOperator](Excel.FormatCondition.TextOperator.md)
+- [Type](Excel.FormatCondition.Type.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.FormatCondition.Application.md)|
-|[AppliesTo](Excel.FormatCondition.AppliesTo.md)|
-|[Borders](Excel.FormatCondition.Borders.md)|
-|[Creator](Excel.FormatCondition.Creator.md)|
-|[DateOperator](Excel.FormatCondition.DateOperator.md)|
-|[Font](Excel.FormatCondition.Font.md)|
-|[Formula1](Excel.FormatCondition.Formula1.md)|
-|[Formula2](Excel.FormatCondition.Formula2.md)|
-|[Interior](Excel.FormatCondition.Interior.md)|
-|[NumberFormat](Excel.FormatCondition.NumberFormat.md)|
-|[Operator](Excel.FormatCondition.Operator.md)|
-|[Parent](Excel.FormatCondition.Parent.md)|
-|[Priority](Excel.FormatCondition.Priority.md)|
-|[PTCondition](Excel.FormatCondition.PTCondition.md)|
-|[ScopeType](Excel.FormatCondition.ScopeType.md)|
-|[StopIfTrue](Excel.FormatCondition.StopIfTrue.md)|
-|[Text](Excel.FormatCondition.Text.md)|
-|[TextOperator](Excel.FormatCondition.TextOperator.md)|
-|[Type](Excel.FormatCondition.Type.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

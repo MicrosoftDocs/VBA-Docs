@@ -34,10 +34,22 @@ Use  **[HPageBreaks](Excel.Worksheets.HPageBreaks.md)** ( _index_ ), where _inde
 Set Worksheets(1).HPageBreaks(1).Location = Worksheets(1).Range("e5")
 ```
 
+## Methods
+
+- [Delete](Excel.HPageBreak.Delete.md)
+- [DragOff](Excel.HPageBreak.DragOff.md)
+
+## Properties
+
+- [Application](Excel.HPageBreak.Application.md)
+- [Creator](Excel.HPageBreak.Creator.md)
+- [Extent](Excel.HPageBreak.Extent.md)
+- [Location](Excel.HPageBreak.Location.md)
+- [Parent](Excel.HPageBreak.Parent.md)
+- [Type](Excel.HPageBreak.Type.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

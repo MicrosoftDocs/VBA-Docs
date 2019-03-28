@@ -41,9 +41,16 @@ End With
 ```
 
 
+## Properties
+
+- [Application](Excel.databarBorder.Application.md)
+- [Color](Excel.databarBorder.Color.md)
+- [Creator](Excel.databarBorder.Creator.md)
+- [Parent](Excel.databarBorder.Parent.md)
+- [Type](Excel.DataBarBorder.Type.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

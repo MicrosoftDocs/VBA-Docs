@@ -21,11 +21,21 @@ Represents a level of a hierarchy in an OLAP data source being filtered by a sli
 
 When a slicer is used to filter an OLAP data source, the slicer cache it is associated with can contain multiple hierarchy levels from the data source. Use the  **[SlicerCacheLevels](Excel.SlicerCacheLevels.md)** collection of the parent **[SlicerCache](Excel.SlicerCache.md)** object to access the **SlicerCacheLevel** objects that represent these hierarchy levels.
 
+## Properties
+
+- [Application](Excel.SlicerCacheLevel.Application.md)
+- [Count](Excel.SlicerCacheLevel.Count.md)
+- [Creator](Excel.SlicerCacheLevel.Creator.md)
+- [CrossFilterType](Excel.SlicerCacheLevel.CrossFilterType.md)
+- [Name](Excel.SlicerCacheLevel.Name.md)
+- [Ordinal](Excel.SlicerCacheLevel.Ordinal.md)
+- [Parent](Excel.SlicerCacheLevel.Parent.md)
+- [SlicerItems](Excel.SlicerCacheLevel.SlicerItems.md)
+- [SortItems](Excel.SlicerCacheLevel.SortItems.md)
+- [VisibleSlicerItemsList](Excel.SlicerCacheLevel.VisibleSlicerItemsList.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

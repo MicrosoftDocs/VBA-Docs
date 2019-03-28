@@ -14,7 +14,15 @@ localization_priority: Normal
 
 Represents the format to be used for a model measure in the data model.
 
+## Properties
+
+- [Application](Excel.modelformatdate.application.md)
+- [Creator](Excel.modelformatdate.creator.md)
+- [FormatString](Excel.modelformatdate.formatstring.md)
+- [Parent](Excel.modelformatdate.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

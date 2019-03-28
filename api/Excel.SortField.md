@@ -24,34 +24,26 @@ Developers can use the  **BeforeSort** event to override Excel's default behavio
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.SortField.Delete.md)|
-|[ModifyKey](Excel.SortField.ModifyKey.md)|
-|[SetIcon](Excel.SortField.SetIcon.md)|
+- [Delete](Excel.SortField.Delete.md)
+- [ModifyKey](Excel.SortField.ModifyKey.md)
+- [SetIcon](Excel.SortField.SetIcon.md)
 
 ## Properties
 
+- [Application](Excel.SortField.Application.md)
+- [Creator](Excel.SortField.Creator.md)
+- [CustomOrder](Excel.SortField.CustomOrder.md)
+- [DataOption](Excel.SortField.DataOption.md)
+- [Key](Excel.SortField.Key.md)
+- [Order](Excel.SortField.Order.md)
+- [Parent](Excel.SortField.Parent.md)
+- [Priority](Excel.SortField.Priority.md)
+- [SortOn](Excel.SortField.SortOn.md)
+- [SortOnValue](Excel.SortField.SortOnValue.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.SortField.Application.md)|
-|[Creator](Excel.SortField.Creator.md)|
-|[CustomOrder](Excel.SortField.CustomOrder.md)|
-|[DataOption](Excel.SortField.DataOption.md)|
-|[Key](Excel.SortField.Key.md)|
-|[Order](Excel.SortField.Order.md)|
-|[Parent](Excel.SortField.Parent.md)|
-|[Priority](Excel.SortField.Priority.md)|
-|[SortOn](Excel.SortField.SortOn.md)|
-|[SortOnValue](Excel.SortField.SortOnValue.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # WorkbookConnection.InModel property (Excel)
 
-Specifies whether or not the [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
+Specifies whether or not the [WorkbookConnection](Excel.WorkbookConnection.md) has been added to the model. **Boolean** Read-only
 
 
 ## Syntax
 
 _expression_. `InModel`
 
-_expression_ A variable that represents a [WorkbookConnection object (Excel)](Excel.WorkbookConnection.md) object.
+_expression_ A variable that represents a [WorkbookConnection](Excel.WorkbookConnection.md) object.
 
 
 ## Remarks

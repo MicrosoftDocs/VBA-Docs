@@ -43,10 +43,16 @@ ActiveWindow.SheetViews.Item(1).Sheet
 ```
 
 
+## Properties
+
+- [Application](Excel.ChartView.Application.md)
+- [Creator](Excel.ChartView.Creator.md)
+- [Parent](Excel.ChartView.Parent.md)
+- [Sheet](Excel.ChartView.Sheet.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

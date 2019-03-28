@@ -24,35 +24,31 @@ Actions such as changing the conditional formatting or table style of a range ca
 
 ## Properties
 
+- [AddIndent](Excel.DisplayFormat.AddIndent.md)
+- [Application](Excel.DisplayFormat.Application.md)
+- [Borders](Excel.DisplayFormat.Borders.md)
+- [Characters](Excel.DisplayFormat.Characters.md)
+- [Creator](Excel.DisplayFormat.Creator.md)
+- [Font](Excel.DisplayFormat.Font.md)
+- [FormulaHidden](Excel.DisplayFormat.FormulaHidden.md)
+- [HorizontalAlignment](Excel.DisplayFormat.HorizontalAlignment.md)
+- [IndentLevel](Excel.DisplayFormat.IndentLevel.md)
+- [Interior](Excel.DisplayFormat.Interior.md)
+- [Locked](Excel.DisplayFormat.Locked.md)
+- [MergeCells](Excel.DisplayFormat.MergeCells.md)
+- [NumberFormat](Excel.DisplayFormat.NumberFormat.md)
+- [NumberFormatLocal](Excel.DisplayFormat.NumberFormatLocal.md)
+- [Orientation](Excel.DisplayFormat.Orientation.md)
+- [Parent](Excel.DisplayFormat.Parent.md)
+- [ReadingOrder](Excel.DisplayFormat.ReadingOrder.md)
+- [ShrinkToFit](Excel.DisplayFormat.ShrinkToFit.md)
+- [Style](Excel.DisplayFormat.Style.md)
+- [VerticalAlignment](Excel.DisplayFormat.VerticalAlignment.md)
+- [WrapText](Excel.DisplayFormat.WrapText.md)
 
-
-|Name|
-|:-----|
-|[AddIndent](Excel.DisplayFormat.AddIndent.md)|
-|[Application](Excel.DisplayFormat.Application.md)|
-|[Borders](Excel.DisplayFormat.Borders.md)|
-|[Characters](Excel.DisplayFormat.Characters.md)|
-|[Creator](Excel.DisplayFormat.Creator.md)|
-|[Font](Excel.DisplayFormat.Font.md)|
-|[FormulaHidden](Excel.DisplayFormat.FormulaHidden.md)|
-|[HorizontalAlignment](Excel.DisplayFormat.HorizontalAlignment.md)|
-|[IndentLevel](Excel.DisplayFormat.IndentLevel.md)|
-|[Interior](Excel.DisplayFormat.Interior.md)|
-|[Locked](Excel.DisplayFormat.Locked.md)|
-|[MergeCells](Excel.DisplayFormat.MergeCells.md)|
-|[NumberFormat](Excel.DisplayFormat.NumberFormat.md)|
-|[NumberFormatLocal](Excel.DisplayFormat.NumberFormatLocal.md)|
-|[Orientation](Excel.DisplayFormat.Orientation.md)|
-|[Parent](Excel.DisplayFormat.Parent.md)|
-|[ReadingOrder](Excel.DisplayFormat.ReadingOrder.md)|
-|[ShrinkToFit](Excel.DisplayFormat.ShrinkToFit.md)|
-|[Style](Excel.DisplayFormat.Style.md)|
-|[VerticalAlignment](Excel.DisplayFormat.VerticalAlignment.md)|
-|[WrapText](Excel.DisplayFormat.WrapText.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

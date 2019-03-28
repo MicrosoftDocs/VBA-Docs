@@ -23,10 +23,16 @@ Use the  **[Schemas](Excel.XmlMap.Schemas.md)** property of the **XmlMap** objec
 
 Use the  **[Item](Excel.XmlSchemas.Item.md)** method to return an **XmlSchema** object from the **XmlSchemas** collection.
 
+## Properties
+
+- [Application](Excel.XmlSchemas.Application.md)
+- [Count](Excel.XmlSchemas.Count.md)
+- [Creator](Excel.XmlSchemas.Creator.md)
+- [Item](Excel.XmlSchemas.Item.md)
+- [Parent](Excel.XmlSchemas.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

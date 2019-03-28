@@ -16,10 +16,26 @@ localization_priority: Normal
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
+## Methods
+
+- [Reset](Excel.RoutingSlip.Reset.md)
+
+## Properties
+
+- [Application](Excel.RoutingSlip.Application.md)
+- [Creator](Excel.RoutingSlip.Creator.md)
+- [Delivery](Excel.RoutingSlip.Delivery.md)
+- [Message](Excel.RoutingSlip.Message.md)
+- [Parent](Excel.RoutingSlip.Parent.md)
+- [Recipients](Excel.RoutingSlip.Recipients.md)
+- [ReturnWhenDone](Excel.RoutingSlip.ReturnWhenDone.md)
+- [Status](Excel.RoutingSlip.Status.md)
+- [Subject](Excel.RoutingSlip.Subject.md)
+- [TrackStatus](Excel.RoutingSlip.TrackStatus.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

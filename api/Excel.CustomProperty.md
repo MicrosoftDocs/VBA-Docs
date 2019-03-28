@@ -49,10 +49,21 @@ End Sub
 ```
 
 
+## Methods
+
+- [Delete](Excel.CustomProperty.Delete.md)
+
+## Properties
+
+- [Application](Excel.CustomProperty.Application.md)
+- [Creator](Excel.CustomProperty.Creator.md)
+- [Name](Excel.CustomProperty.Name.md)
+- [Parent](Excel.CustomProperty.Parent.md)
+- [Value](Excel.CustomProperty.Value.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

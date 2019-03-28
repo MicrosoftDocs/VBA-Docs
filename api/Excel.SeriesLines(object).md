@@ -19,7 +19,7 @@ Represents series lines in a chart group.
 
 ## Remarks
 
- Series lines connect the data values from each series. Only 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie charts can have series lines. This object isn't a collection. There's no object that represents a single series line; you either have series lines turned on for all points in a chart group or you have them turned off.
+Series lines connect the data values from each series. Only 2-D stacked bar, 2-D stacked column, pie of pie, or bar of pie charts can have series lines. This object isn't a collection. There's no object that represents a single series line; you either have series lines turned on for all points in a chart group or you have them turned off.
 
 If the  **[HasSeriesLines](Excel.ChartGroup.HasSeriesLines.md)** property is **False**, most properties of the **SeriesLines** object are disabled.
 
@@ -36,10 +36,22 @@ With Worksheets(1).ChartObjects(1).Chart.ChartGroups(1)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.SeriesLines.Delete.md)
+- [Select](Excel.SeriesLines.Select.md)
+
+## Properties
+
+- [Application](Excel.SeriesLines.Application.md)
+- [Border](Excel.SeriesLines.Border.md)
+- [Creator](Excel.SeriesLines.Creator.md)
+- [Format](Excel.SeriesLines.Format.md)
+- [Name](Excel.SeriesLines.Name.md)
+- [Parent](Excel.SeriesLines.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

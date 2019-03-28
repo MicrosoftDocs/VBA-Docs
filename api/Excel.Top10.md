@@ -62,11 +62,35 @@ MsgBox "Added Top10 Conditional Format. Press F9 to update values.", vbInformati
 End Sub
 ```
 
+## Methods
+
+- [Delete](Excel.Top10.Delete.md)
+- [ModifyAppliesToRange](Excel.Top10.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.Top10.SetFirstPriority.md)
+- [SetLastPriority](Excel.Top10.SetLastPriority.md)
+
+## Properties
+
+- [Application](Excel.Top10.Application.md)
+- [AppliesTo](Excel.Top10.AppliesTo.md)
+- [Borders](Excel.Top10.Borders.md)
+- [CalcFor](Excel.Top10.CalcFor.md)
+- [Creator](Excel.Top10.Creator.md)
+- [Font](Excel.Top10.Font.md)
+- [Interior](Excel.Top10.Interior.md)
+- [NumberFormat](Excel.Top10.NumberFormat.md)
+- [Parent](Excel.Top10.Parent.md)
+- [Percent](Excel.Top10.Percent.md)
+- [Priority](Excel.Top10.Priority.md)
+- [PTCondition](Excel.Top10.PTCondition.md)
+- [Rank](Excel.Top10.Rank.md)
+- [ScopeType](Excel.Top10.ScopeType.md)
+- [StopIfTrue](Excel.Top10.StopIfTrue.md)
+- [TopBottom](Excel.Top10.TopBottom.md)
+- [Type](Excel.Top10.Type.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

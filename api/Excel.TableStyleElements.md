@@ -23,11 +23,19 @@ Table styles define formatting for one or all of the elements of a table, PivotT
 
 A table style element in a table can have formatting specified in a table style applied to the element.  **[xlTableStyleElementType](Excel.XlTableStyleElementType.md)** enumeration contains the types of table style element that are available for use.
 
+## Methods
+
+- [Item](Excel.TableStyleElements.Item.md)
+
+## Properties
+
+- [Application](Excel.TableStyleElements.Application.md)
+- [Count](Excel.TableStyleElements.Count.md)
+- [Creator](Excel.TableStyleElements.Creator.md)
+- [Parent](Excel.TableStyleElements.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -39,36 +39,28 @@ With myDocument.Shapes(1).PictureFormat
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[IncrementBrightness](Excel.PictureFormat.IncrementBrightness.md)|
-|[IncrementContrast](Excel.PictureFormat.IncrementContrast.md)|
+- [IncrementBrightness](Excel.PictureFormat.IncrementBrightness.md)
+- [IncrementContrast](Excel.PictureFormat.IncrementContrast.md)
 
 ## Properties
 
+- [Application](Excel.PictureFormat.Application.md)
+- [Brightness](Excel.PictureFormat.Brightness.md)
+- [ColorType](Excel.PictureFormat.ColorType.md)
+- [Contrast](Excel.PictureFormat.Contrast.md)
+- [Creator](Excel.PictureFormat.Creator.md)
+- [Crop](Excel.PictureFormat.Crop.md)
+- [CropBottom](Excel.PictureFormat.CropBottom.md)
+- [CropLeft](Excel.PictureFormat.CropLeft.md)
+- [CropRight](Excel.PictureFormat.CropRight.md)
+- [CropTop](Excel.PictureFormat.CropTop.md)
+- [Parent](Excel.PictureFormat.Parent.md)
+- [TransparencyColor](Excel.PictureFormat.TransparencyColor.md)
+- [TransparentBackground](Excel.PictureFormat.TransparentBackground.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PictureFormat.Application.md)|
-|[Brightness](Excel.PictureFormat.Brightness.md)|
-|[ColorType](Excel.PictureFormat.ColorType.md)|
-|[Contrast](Excel.PictureFormat.Contrast.md)|
-|[Creator](Excel.PictureFormat.Creator.md)|
-|[Crop](Excel.PictureFormat.Crop.md)|
-|[CropBottom](Excel.PictureFormat.CropBottom.md)|
-|[CropLeft](Excel.PictureFormat.CropLeft.md)|
-|[CropRight](Excel.PictureFormat.CropRight.md)|
-|[CropTop](Excel.PictureFormat.CropTop.md)|
-|[Parent](Excel.PictureFormat.Parent.md)|
-|[TransparencyColor](Excel.PictureFormat.TransparencyColor.md)|
-|[TransparentBackground](Excel.PictureFormat.TransparentBackground.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
