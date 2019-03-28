@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRanges
 ms.assetid: c08bf170-f982-ecca-c026-df4b907e1dde
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
 
 # AllowEditRanges object (Excel)
 
-A collection of all the  **[AllowEditRange](Excel.AllowEditRange.md)** objects that represent the cells that can be edited on a protected worksheet.
+A collection of all the **[AllowEditRange](Excel.AllowEditRange.md)** objects that represent the cells that can be edited on a protected worksheet.
 
 
 ## Remarks
 
-Use the  **[AllowEditRanges](Excel.Protection.AllowEditRanges.md)** property of the **[Protection](Excel.Protection.md)** object to return an **AllowEditRanges** collection.
+Use the **[AllowEditRanges](Excel.Protection.AllowEditRanges.md)** property of the **Protection** object to return an **AllowEditRanges** collection.
 
-Once an  **AllowEditRanges** collection has been returned, you can use the **[Add](Excel.AllowEditRanges.Add.md)** method to add a range that can be edited on a protected worksheet.
+After an **AllowEditRanges** collection has been returned, you can use the **Add** method to add a range that can be edited on a protected worksheet.
 
 
 ## Example
 
-In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet and notifies the user of the title and address of the specified range.
-
+In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet, and then notifies the user of the title and address of the specified range.
 
 ```vb
 Sub UseAllowEditRanges() 

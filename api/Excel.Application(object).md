@@ -53,7 +53,7 @@ ActiveCell.Font.Bold = True
 The **Application** object contains:
 
 - Application-wide settings and options.   
-- Methods that return top-level objects, such as **[ActiveCell](Excel.Application.ActiveCell.md)**, **[ActiveSheet](Excel.Application.ActiveSheet.md)**, and so on.
+- Methods that return top-level objects, such as **ActiveCell**, **ActiveSheet**, and so on.
     
 ## Events
 

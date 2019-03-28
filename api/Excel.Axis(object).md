@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Axis
 ms.assetid: 7e08c61b-90f4-8d91-0ee2-84283d10b324
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,19 @@ Represents a single axis in a chart.
 
 ## Remarks
 
-The  **Axis** object is a member of the **[Axes](Excel.Axes(object).md)** collection.
+The **Axis** object is a member of the **[Axes](Excel.Axes(object).md)** collection.
 
-Use  **Axes** ( _type_, _group_ ) where _type_ is the axis type and _group_ is the axis group to return a single **Axis** object. _Type_ can be one of the following **[xlAxisType](Excel.XlAxisType.md)** constants: **xlCategory**, **xlSeries**, or **xlValue**. _Group_ can be one of the following **[xlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. For more information, see the **[Axes](Excel.Chart.Axes.md)** method.
+Use **Axes** (_type_, _group_), where _type_ is the axis type and _group_ is the axis group, to return a single **Axis** object. 
 
+- _Type_ can be one of the following **[XlAxisType](Excel.XlAxisType.md)** constants: **xlCategory**, **xlSeriesAxis**, or **xlValue**. 
+
+- _Group_ can be one of the following **[XlAxisGroup](Excel.XlAxisGroup.md)** constants: **xlPrimary** or **xlSecondary**. 
+
+For more information, see the **[Axes](Excel.Chart.Axes.md)** method of the **Chart** object.
 
 ## Example
 
-The following example sets the category axis title text on the chart sheet named "Chart1."
-
+The following example sets the category axis title text on the chart sheet named **Chart1**.
 
 ```vb
 With Charts("chart1").Axes(xlCategory) 

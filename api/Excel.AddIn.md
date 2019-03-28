@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AddIn
 ms.assetid: ad26800d-5342-fb4c-01f3-05b7eceb7ffd
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -48,25 +48,27 @@ With Worksheets("sheet1")
 End With
 ```
 
-The **[Add](Excel.AddIns.Add.md)** method adds an add-in to the list of available add-ins but doesn't install the add-in. Set the **[Installed](Excel.AddIn.Installed.md)** property of the add-in to **True** to install the add-in. To install an add-in that doesn't appear in the list of available add-ins, you must first use the **Add** method and then set the **Installed** property. This can be done in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
+The **[Add](Excel.AddIns.Add.md)** method adds an add-in to the list of available add-ins but doesn't install the add-in. Set the **Installed** property of the add-in to **True** to install the add-in. 
+
+To install an add-in that doesn't appear in the list of available add-ins, you must first use the **Add** method and then set the **Installed** property. This can be done in a single step, as shown in the following example (note that you use the name of the add-in, not its title, with the **Add** method).
 
 ```vb
 AddIns.Add("generic.xll").Installed = True
 ```
 
-Use **Workbooks** ( _index_ ) where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
+Use **Workbooks** ( _index_ ), where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
 
 ```vb
 Set wb = Workbooks("myaddin.xla")
 ```
 
-The following example sets the  _wb_ variable to the workbook for the Analysis Toolpak add-in.
+The following example sets the _wb_ variable to the workbook for the Analysis Toolpak add-in.
 
 ```vb
 Set wb = Workbooks(AddIns("analysis toolpak").Name)
 ```
 
-If the **Installed** property returns **True**, but calls to functions in the add-in still fail, the add-in may not actually be loaded. This is because the **Addin** object represents the existence and installed state of the add-in but doesn't represent the actual contents of the add-in workbook.To guarantee that an installed add-in is loaded, you should open the add-in workbook. 
+If the **Installed** property returns **True**, but the calls to functions in the add-in still fail, the add-in may not actually be loaded. This is because the **Addin** object represents the existence and installed state of the add-in but doesn't represent the actual contents of the add-in workbook.To guarantee that an installed add-in is loaded, you should open the add-in workbook. 
 
 The following example opens the workbook for the add-in named "My Addin" if the add-in isn't already present in the **Workbooks** collection.
 

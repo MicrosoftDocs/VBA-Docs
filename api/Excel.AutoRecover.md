@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AutoRecover
 ms.assetid: 02fb24e7-4823-7e52-79d7-3d2726f31227
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,16 @@ Represents the automatic recovery features of a workbook.
 
 ## Remarks
 
-Properties for the  **AutoRecover** object determine the path and time interval for backing up all files.
+Properties for the **AutoRecover** object determine the path and time interval for backing up all files.
 
-Use the  **[AutoRecover](Excel.Application.AutoRecover.md)** property of the **[Application](Excel.Application(object).md)** object to return an **AutoRecover** object.
+Use the **[AutoRecover](Excel.Application.AutoRecover.md)** property of the **Application** object to return an **AutoRecover** object.
 
-Use the  **[Path](Excel.AutoRecover.Path.md)** property of the **AutoRecover** object to set the path for where the AutoRecover file will be saved.
+Use the **Path** property of the **AutoRecover** object to set the path for where the AutoRecover file will be saved.
 
 
 ## Example
 
 The following example sets the path of the AutoRecover file to drive C.
-
 
 ```vb
 Sub SetPath() 
@@ -39,13 +38,9 @@ Sub SetPath()
 End Sub
 ```
 
-Use the  **[Time](Excel.AutoRecover.Time.md)** property of the **AutoRecover** object to set the time interval for backing up all files.
+<br/>
 
-
- **Note**  Units for the  **Time** property are in minutes.
-
-
-
+Use the **Time** property of the **AutoRecover** object to set the time interval for backing up all files. Units for the **Time** property are in minutes.
 
 ```vb
 Sub SetTime() 
