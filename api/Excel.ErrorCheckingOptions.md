@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ErrorCheckingOptions
 ms.assetid: f62d3b08-a08f-d028-8e33-4bfd8799dc44
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,36 +19,26 @@ Represents the error-checking options for an application.
 
 ## Remarks
 
-Use the  **[ErrorCheckingOptions](Excel.Application.ErrorCheckingOptions.md)** property of the **[Application](Excel.Application(object).md)** object to return an **ErrorCheckingOptions** object.
+Use the **[ErrorCheckingOptions](Excel.Application.ErrorCheckingOptions.md)** property of the **Application** object to return an **ErrorCheckingOptions** object.
 
-Reference the  **[Item](Excel.Errors.Item.md)** property of the **[Errors](Excel.Errors.md)** object to view a list of index values associated with error-checking options.
+Reference the **[Item](Excel.Errors.Item.md)** property of the **Errors** object to view a list of index values associated with error-checking options.
 
-Once an  **ErrorCheckingOptions** object is returned, you can use the following properties, which are members of the **ErrorCheckingOptions** object, to set or return error checking options.
+After an **ErrorCheckingOptions** object is returned, you can use the following properties, which are members of the **ErrorCheckingOptions** object, to set or return error checking options.
 
-
--  **[BackgroundChecking](Excel.ErrorCheckingOptions.BackgroundChecking.md)**
-    
--  **[EmptyCellReferences](Excel.ErrorCheckingOptions.EmptyCellReferences.md)**
-    
--  **[EvaluateToError](Excel.ErrorCheckingOptions.EvaluateToError.md)**
-    
--  **[InconsistentFormula](Excel.ErrorCheckingOptions.InconsistentFormula.md)**
-    
--  **[IndicatorColorIndex](Excel.ErrorCheckingOptions.IndicatorColorIndex.md)**
-    
--  **[NumberAsText](Excel.ErrorCheckingOptions.NumberAsText.md)**
-    
--  **[OmittedCells](Excel.ErrorCheckingOptions.OmittedCells.md)**
-    
--  **[TextDate](Excel.ErrorCheckingOptions.TextDate.md)**
-    
--  **[UnlockedFormulaCells](Excel.ErrorCheckingOptions.UnlockedFormulaCells.md)**
+- **BackgroundChecking**   
+- **EmptyCellReferences**   
+- **EvaluateToError**   
+- **InconsistentFormula**   
+- **IndicatorColorIndex**  
+- **NumberAsText**   
+- **OmittedCells**   
+- **TextDate**  
+- **UnlockedFormulaCells**
     
 
 ## Example
 
-The following example uses the  **TextDate** property to enable error checking for two-digit-year text dates and notifies the user.
-
+The following example uses the **TextDate** property to enable error checking for two-digit-year text dates, and then notifies the user.
 
 ```vb
 Sub CheckTextDates() 

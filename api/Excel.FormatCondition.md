@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FormatCondition
 ms.assetid: 38a2bca9-9b28-3ef2-8c7a-4d35a27229ec
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -21,9 +21,9 @@ Represents a conditional format.
 
  The **FormatCondition** object is a member of the **[FormatConditions](Excel.FormatConditions.md)** collection. The **FormatConditions** collection can now contain more than three conditional formats for a given range.
 
-Use the  **[Add](Excel.FormatConditions.Add.md)** method to create a new conditional format. If a range has multiple formats, you can use the **[Modify](Excel.FormatCondition.Modify.md)** method to change one of the formats, or you can use the **[Delete](Excel.FormatCondition.Delete.md)** method to delete a format and then use the **Add** method to create a new format.
+Use the **[Add](Excel.FormatConditions.Add.md)** method to create a new conditional format. If a range has multiple formats, you can use the **[Modify](Excel.FormatCondition.Modify.md)** method to change one of the formats, or you can use the **[Delete](Excel.FormatCondition.Delete.md)** method to delete a format and then use the **Add** method to create a new format.
 
-Use the  **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCondition.Borders.md)**, and **[Interior](Excel.FormatCondition.Interior.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren't supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
+Use the **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCondition.Borders.md)**, and **[Interior](Excel.FormatCondition.Interior.md)** properties of the **FormatCondition** object to control the appearance of formatted cells. Some properties of these objects aren't supported by the conditional format object model. Some of the properties that can be used with conditional formatting are listed in the following table.
 
 
 
@@ -35,7 +35,7 @@ Use the  **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCond
 
 ## Example
 
-Use  **[FormatConditions](Excel.Range.FormatConditions.md)** ( _index_ ), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
+Use **[FormatConditions](Excel.Range.FormatConditions.md)** ( _index_ ), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
 
 
 ```vb

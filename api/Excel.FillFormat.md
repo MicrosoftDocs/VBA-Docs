@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FillFormat
 ms.assetid: b602e09e-97ab-bfbe-1796-bc44ebb7dc28
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents fill formatting for a shape.
 
 ## Remarks
 
- A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill.
+A shape can have a solid, gradient, texture, pattern, picture, or semi-transparent fill.
 
-Many of the properties of the  **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
+Many of the properties of the **FillFormat** object are read-only. To set one of these properties, you have to apply the corresponding method.
 
 
 ## Example
 
-Use the  **[Fill](Excel.Shape.Fill.md)** property to return a **FillFormat** object. The following example adds a rectangle to _myDocument_ and then sets the gradient and color for the rectangle's fill.
-
+Use the **[Fill](Excel.Shape.Fill.md)** property of the **Shape** object to return a **FillFormat** object. The following example adds a rectangle to _myDocument_, and then sets the gradient and color for the rectangle's fill.
 
 ```vb
 Set myDocument = Worksheets(1) 
