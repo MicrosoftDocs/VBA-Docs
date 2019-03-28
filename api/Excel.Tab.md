@@ -24,18 +24,6 @@ Use the **Tab** property of the **[Chart](Excel.Chart(object).md)** object or **
 Once a  **Tab** object is returned, you can use the **[ColorIndex](Excel.Tab.ColorIndex.md)** property determine the settings of a tab for a chart or worksheet.
 
 
-## Properties
-
-|Name|
-|:-----|
-|[Application property](Excel.Tab.Application.md)|
-|[Color property](Excel.Tab.Color.md)|
-|[ColorIndex property](Excel.Tab.ColorIndex.md)|
-|[Creator property](Excel.Tab.Creator.md)|
-|[Parent property](Excel.Tab.Parent.md)|
-|[ThemeColor property](Excel.Tab.ThemeColor.md)|
-|[TintAndShade property](Excel.Tab.TintAndShade.md)|
-
 ## Example
 
 In the following example, Microsoft Excel determines if the worksheet's first tab color index is set to none and notifies the user.
@@ -55,6 +43,16 @@ Sub CheckTab()
  
 End Sub
 ```
+
+## Properties
+
+- [Application](Excel.Tab.Application.md)
+- [Color](Excel.Tab.Color.md)
+- [ColorIndex](Excel.Tab.ColorIndex.md)
+- [Creator](Excel.Tab.Creator.md)
+- [Parent](Excel.Tab.Parent.md)
+- [ThemeColor](Excel.Tab.ThemeColor.md)
+- [TintAndShade](Excel.Tab.TintAndShade.md)
 
 ## See also
 

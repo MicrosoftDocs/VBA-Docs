@@ -25,10 +25,17 @@ Use the  **[Namespace](Excel.XmlSchema.Namespace.md)** property to return the ta
 
 Use the  **[XML](Excel.XmlSchema.XML.md)** property to return the XML contents of a schema.
 
+## Properties
+
+- [Application](Excel.XmlSchema.Application.md)
+- [Creator](Excel.XmlSchema.Creator.md)
+- [Name](Excel.XmlSchema.Name.md)
+- [Namespace](Excel.XmlSchema.Namespace.md)
+- [Parent](Excel.XmlSchema.Parent.md)
+- [XML](Excel.XmlSchema.XML.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

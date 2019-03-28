@@ -31,10 +31,22 @@ Use  **VPageBreaks** ( _index_), where  _index_ is the page break index number o
 Worksheets(1).VPageBreaks(1).Location = Worksheets(1).Range("e5")
 ```
 
+## Methods
+
+- [Delete](Excel.VPageBreak.Delete.md)
+- [DragOff](Excel.VPageBreak.DragOff.md)
+
+## Properties
+
+- [Application](Excel.VPageBreak.Application.md)
+- [Creator](Excel.VPageBreak.Creator.md)
+- [Extent](Excel.VPageBreak.Extent.md)
+- [Location](Excel.VPageBreak.Location.md)
+- [Parent](Excel.VPageBreak.Parent.md)
+- [Type](Excel.VPageBreak.Type.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

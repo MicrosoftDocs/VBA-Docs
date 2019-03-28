@@ -68,11 +68,21 @@ Sub DeleteAllWatches()
 End Sub
 ```
 
+## Methods
+
+- [Add](Excel.Watches.Add.md)
+- [Delete](Excel.Watches.Delete.md)
+
+## Properties
+
+- [Application](Excel.Watches.Application.md)
+- [Count](Excel.Watches.Count.md)
+- [Creator](Excel.Watches.Creator.md)
+- [Item](Excel.Watches.Item.md)
+- [Parent](Excel.Watches.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

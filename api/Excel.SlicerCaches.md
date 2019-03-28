@@ -34,27 +34,19 @@ ActiveWorkbook.SlicerCaches("Slicer_Country")
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add2](Excel.SlicerCaches.Add.md)|
+- [Add](Excel.SlicerCaches.Add.md)
 
 ## Properties
 
+- [Application](Excel.SlicerCaches.Application.md)
+- [Count](Excel.SlicerCaches.Count.md)
+- [Creator](Excel.SlicerCaches.Creator.md)
+- [Item](Excel.SlicerCaches.Item.md)
+- [Parent](Excel.SlicerCaches.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.SlicerCaches.Application.md)|
-|[Count](Excel.SlicerCaches.Count.md)|
-|[Creator](Excel.SlicerCaches.Creator.md)|
-|[Item](Excel.SlicerCaches.Item.md)|
-|[Parent](Excel.SlicerCaches.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

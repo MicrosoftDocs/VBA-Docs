@@ -63,38 +63,30 @@ Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Sheets.Add.md)|
-|[Add2](Excel.sheets.add2.md)|
-|[Copy](Excel.Sheets.Copy.md)|
-|[Delete](Excel.Sheets.Delete.md)|
-|[FillAcrossSheets](Excel.Sheets.FillAcrossSheets.md)|
-|[Move](Excel.Sheets.Move.md)|
-|[PrintOut](Excel.Sheets.PrintOut.md)|
-|[PrintPreview](Excel.Sheets.PrintPreview.md)|
-|[Select](Excel.Sheets.Select.md)|
+- [Add](Excel.Sheets.Add.md)
+- [Add2](Excel.sheets.add2.md)
+- [Copy](Excel.Sheets.Copy.md)
+- [Delete](Excel.Sheets.Delete.md)
+- [FillAcrossSheets](Excel.Sheets.FillAcrossSheets.md)
+- [Move](Excel.Sheets.Move.md)
+- [PrintOut](Excel.Sheets.PrintOut.md)
+- [PrintPreview](Excel.Sheets.PrintPreview.md)
+- [Select](Excel.Sheets.Select.md)
 
 ## Properties
 
+- [Application](Excel.Sheets.Application.md)
+- [Count](Excel.Sheets.Count.md)
+- [Creator](Excel.Sheets.Creator.md)
+- [HPageBreaks](Excel.Sheets.HPageBreaks.md)
+- [Item](Excel.Sheets.Item.md)
+- [Parent](Excel.Sheets.Parent.md)
+- [Visible](Excel.Sheets.Visible.md)
+- [VPageBreaks](Excel.Sheets.VPageBreaks.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Sheets.Application.md)|
-|[Count](Excel.Sheets.Count.md)|
-|[Creator](Excel.Sheets.Creator.md)|
-|[HPageBreaks](Excel.Sheets.HPageBreaks.md)|
-|[Item](Excel.Sheets.Item.md)|
-|[Parent](Excel.Sheets.Parent.md)|
-|[Visible](Excel.Sheets.Visible.md)|
-|[VPageBreaks](Excel.Sheets.VPageBreaks.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

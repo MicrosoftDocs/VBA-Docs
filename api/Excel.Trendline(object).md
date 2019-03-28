@@ -38,10 +38,35 @@ Worksheets(1).ChartObjects(1).Chart. _
  SeriesCollection(1).Trendlines(1).Type = xlMovingAvg
 ```
 
+## Methods
+
+- [ClearFormats](Excel.Trendline.ClearFormats.md)
+- [Delete](Excel.Trendline.Delete.md)
+- [Select](Excel.Trendline.Select.md)
+
+## Properties
+
+- [Application](Excel.Trendline.Application.md)
+- [Backward2](Excel.Trendline.Backward2.md)
+- [Border](Excel.Trendline.Border.md)
+- [Creator](Excel.Trendline.Creator.md)
+- [DataLabel](Excel.Trendline.DataLabel.md)
+- [DisplayEquation](Excel.Trendline.DisplayEquation.md)
+- [DisplayRSquared](Excel.Trendline.DisplayRSquared.md)
+- [Format](Excel.Trendline.Format.md)
+- [Forward2](Excel.Trendline.Forward2.md)
+- [Index](Excel.Trendline.Index.md)
+- [Intercept](Excel.Trendline.Intercept.md)
+- [InterceptIsAuto](Excel.Trendline.InterceptIsAuto.md)
+- [Name](Excel.Trendline.Name.md)
+- [NameIsAuto](Excel.Trendline.NameIsAuto.md)
+- [Order](Excel.Trendline.Order.md)
+- [Parent](Excel.Trendline.Parent.md)
+- [Period](Excel.Trendline.Period.md)
+- [Type](Excel.Trendline.Type.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

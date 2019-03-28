@@ -35,28 +35,28 @@ ActiveWorksheet.SortFields.Sort Header:=xlGuess
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.SortFields.Add.md)|
-|[Clear](Excel.SortFields.Clear.md)|
+- [Add](Excel.SortFields.Add.md)
+- [Add2](Excel.SortFields.Add2.md)
+- [Clear](Excel.SortFields.Clear.md)
+- [Delete](Excel.soundnote.delete.md)
+- [Import](Excel.soundnote.import.md)
+- [Play](Excel.soundnote.play.md)
+- [Record](Excel.soundnote.record.md)
 
 ## Properties
 
+- [Application](Excel.SortFields.Application.md)
+- [Application](Excel.soundnote.application.md)
+- [Count](Excel.SortFields.Count.md)
+- [Creator](Excel.SortFields.Creator.md)
+- [Creator](Excel.soundnote.creator.md)
+- [Item](Excel.SortFields.Item.md)
+- [Parent](Excel.SortFields.Parent.md)
+- [Parent](Excel.soundnote.parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.SortFields.Application.md)|
-|[Count](Excel.SortFields.Count.md)|
-|[Creator](Excel.SortFields.Creator.md)|
-|[Item](Excel.SortFields.Item.md)|
-|[Parent](Excel.SortFields.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

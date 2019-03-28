@@ -80,87 +80,79 @@ Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Align](Excel.ShapeRange.Align.md)|
-|[Apply](Excel.ShapeRange.Apply.md)|
-|[Delete](Excel.ShapeRange.Delete.md)|
-|[Distribute](Excel.ShapeRange.Distribute.md)|
-|[Duplicate](Excel.ShapeRange.Duplicate.md)|
-|[Flip](Excel.ShapeRange.Flip.md)|
-|[Group](Excel.ShapeRange.Group.md)|
-|[IncrementLeft](Excel.ShapeRange.IncrementLeft.md)|
-|[IncrementRotation](Excel.ShapeRange.IncrementRotation.md)|
-|[IncrementTop](Excel.ShapeRange.IncrementTop.md)|
-|[Item](Excel.ShapeRange.Item.md)|
-|[PickUp](Excel.ShapeRange.PickUp.md)|
-|[Regroup](Excel.ShapeRange.Regroup.md)|
-|[RerouteConnections](Excel.ShapeRange.RerouteConnections.md)|
-|[ScaleHeight](Excel.ShapeRange.ScaleHeight.md)|
-|[ScaleWidth](Excel.ShapeRange.ScaleWidth.md)|
-|[Select](Excel.ShapeRange.Select.md)|
-|[SetShapesDefaultProperties](Excel.ShapeRange.SetShapesDefaultProperties.md)|
-|[Ungroup](Excel.ShapeRange.Ungroup.md)|
-|[ZOrder](Excel.ShapeRange.ZOrder.md)|
+- [Align](Excel.ShapeRange.Align.md)
+- [Apply](Excel.ShapeRange.Apply.md)
+- [Delete](Excel.ShapeRange.Delete.md)
+- [Distribute](Excel.ShapeRange.Distribute.md)
+- [Duplicate](Excel.ShapeRange.Duplicate.md)
+- [Flip](Excel.ShapeRange.Flip.md)
+- [Group](Excel.ShapeRange.Group.md)
+- [IncrementLeft](Excel.ShapeRange.IncrementLeft.md)
+- [IncrementRotation](Excel.ShapeRange.IncrementRotation.md)
+- [IncrementTop](Excel.ShapeRange.IncrementTop.md)
+- [Item](Excel.ShapeRange.Item.md)
+- [PickUp](Excel.ShapeRange.PickUp.md)
+- [Regroup](Excel.ShapeRange.Regroup.md)
+- [RerouteConnections](Excel.ShapeRange.RerouteConnections.md)
+- [ScaleHeight](Excel.ShapeRange.ScaleHeight.md)
+- [ScaleWidth](Excel.ShapeRange.ScaleWidth.md)
+- [Select](Excel.ShapeRange.Select.md)
+- [SetShapesDefaultProperties](Excel.ShapeRange.SetShapesDefaultProperties.md)
+- [Ungroup](Excel.ShapeRange.Ungroup.md)
+- [ZOrder](Excel.ShapeRange.ZOrder.md)
 
 ## Properties
 
+- [Adjustments](Excel.ShapeRange.Adjustments.md)
+- [AlternativeText](Excel.ShapeRange.AlternativeText.md)
+- [Application](Excel.ShapeRange.Application.md)
+- [AutoShapeType](Excel.ShapeRange.AutoShapeType.md)
+- [BackgroundStyle](Excel.ShapeRange.BackgroundStyle.md)
+- [BlackWhiteMode](Excel.ShapeRange.BlackWhiteMode.md)
+- [Callout](Excel.ShapeRange.Callout.md)
+- [Chart](Excel.ShapeRange.Chart.md)
+- [Child](Excel.ShapeRange.Child.md)
+- [ConnectionSiteCount](Excel.ShapeRange.ConnectionSiteCount.md)
+- [Connector](Excel.ShapeRange.Connector.md)
+- [ConnectorFormat](Excel.ShapeRange.ConnectorFormat.md)
+- [Count](Excel.ShapeRange.Count.md)
+- [Creator](Excel.ShapeRange.Creator.md)
+- [Fill](Excel.ShapeRange.Fill.md)
+- [Glow](Excel.ShapeRange.Glow.md)
+- [GroupItems](Excel.ShapeRange.GroupItems.md)
+- [HasChart](Excel.ShapeRange.HasChart.md)
+- [Height](Excel.ShapeRange.Height.md)
+- [HorizontalFlip](Excel.ShapeRange.HorizontalFlip.md)
+- [ID](Excel.ShapeRange.ID.md)
+- [Left](Excel.ShapeRange.Left.md)
+- [Line](Excel.ShapeRange.Line.md)
+- [LockAspectRatio](Excel.ShapeRange.LockAspectRatio.md)
+- [Name](Excel.ShapeRange.Name.md)
+- [Nodes](Excel.ShapeRange.Nodes.md)
+- [Parent](Excel.ShapeRange.Parent.md)
+- [ParentGroup](Excel.ShapeRange.ParentGroup.md)
+- [PictureFormat](Excel.ShapeRange.PictureFormat.md)
+- [Reflection](Excel.ShapeRange.Reflection.md)
+- [Rotation](Excel.ShapeRange.Rotation.md)
+- [Shadow](Excel.ShapeRange.Shadow.md)
+- [ShapeStyle](Excel.ShapeRange.ShapeStyle.md)
+- [SoftEdge](Excel.ShapeRange.SoftEdge.md)
+- [TextEffect](Excel.ShapeRange.TextEffect.md)
+- [TextFrame](Excel.ShapeRange.TextFrame.md)
+- [TextFrame2](Excel.ShapeRange.TextFrame2.md)
+- [ThreeD](Excel.ShapeRange.ThreeD.md)
+- [Title](Excel.ShapeRange.Title.md)
+- [Top](Excel.ShapeRange.Top.md)
+- [Type](Excel.ShapeRange.Type.md)
+- [VerticalFlip](Excel.ShapeRange.VerticalFlip.md)
+- [Vertices](Excel.ShapeRange.Vertices.md)
+- [Visible](Excel.ShapeRange.Visible.md)
+- [Width](Excel.ShapeRange.Width.md)
+- [ZOrderPosition](Excel.ShapeRange.ZOrderPosition.md)
 
-
-|Name|
-|:-----|
-|[Adjustments](Excel.ShapeRange.Adjustments.md)|
-|[AlternativeText](Excel.ShapeRange.AlternativeText.md)|
-|[Application](Excel.ShapeRange.Application.md)|
-|[AutoShapeType](Excel.ShapeRange.AutoShapeType.md)|
-|[BackgroundStyle](Excel.ShapeRange.BackgroundStyle.md)|
-|[BlackWhiteMode](Excel.ShapeRange.BlackWhiteMode.md)|
-|[Callout](Excel.ShapeRange.Callout.md)|
-|[Chart](Excel.ShapeRange.Chart.md)|
-|[Child](Excel.ShapeRange.Child.md)|
-|[ConnectionSiteCount](Excel.ShapeRange.ConnectionSiteCount.md)|
-|[Connector](Excel.ShapeRange.Connector.md)|
-|[ConnectorFormat](Excel.ShapeRange.ConnectorFormat.md)|
-|[Count](Excel.ShapeRange.Count.md)|
-|[Creator](Excel.ShapeRange.Creator.md)|
-|[Fill](Excel.ShapeRange.Fill.md)|
-|[Glow](Excel.ShapeRange.Glow.md)|
-|[GroupItems](Excel.ShapeRange.GroupItems.md)|
-|[HasChart](Excel.ShapeRange.HasChart.md)|
-|[Height](Excel.ShapeRange.Height.md)|
-|[HorizontalFlip](Excel.ShapeRange.HorizontalFlip.md)|
-|[ID](Excel.ShapeRange.ID.md)|
-|[Left](Excel.ShapeRange.Left.md)|
-|[Line](Excel.ShapeRange.Line.md)|
-|[LockAspectRatio](Excel.ShapeRange.LockAspectRatio.md)|
-|[Name](Excel.ShapeRange.Name.md)|
-|[Nodes](Excel.ShapeRange.Nodes.md)|
-|[Parent](Excel.ShapeRange.Parent.md)|
-|[ParentGroup](Excel.ShapeRange.ParentGroup.md)|
-|[PictureFormat](Excel.ShapeRange.PictureFormat.md)|
-|[Reflection](Excel.ShapeRange.Reflection.md)|
-|[Rotation](Excel.ShapeRange.Rotation.md)|
-|[Shadow](Excel.ShapeRange.Shadow.md)|
-|[ShapeStyle](Excel.ShapeRange.ShapeStyle.md)|
-|[SoftEdge](Excel.ShapeRange.SoftEdge.md)|
-|[TextEffect](Excel.ShapeRange.TextEffect.md)|
-|[TextFrame](Excel.ShapeRange.TextFrame.md)|
-|[TextFrame2](Excel.ShapeRange.TextFrame2.md)|
-|[ThreeD](Excel.ShapeRange.ThreeD.md)|
-|[Title](Excel.ShapeRange.Title.md)|
-|[Top](Excel.ShapeRange.Top.md)|
-|[Type](Excel.ShapeRange.Type.md)|
-|[VerticalFlip](Excel.ShapeRange.VerticalFlip.md)|
-|[Vertices](Excel.ShapeRange.Vertices.md)|
-|[Visible](Excel.ShapeRange.Visible.md)|
-|[Width](Excel.ShapeRange.Width.md)|
-|[ZOrderPosition](Excel.ShapeRange.ZOrderPosition.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

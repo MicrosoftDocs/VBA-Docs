@@ -41,50 +41,42 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ClearAllFilters](Excel.slicercache.clearallfilters.md)|
-|[ClearDateFilter](Excel.slicercache.cleardatefilter.md)|
-|[ClearManualFilter](Excel.slicercache.clearmanualfilter.md)|
-|[Delete](Excel.SlicerCache.Delete.md)|
+- [ClearAllFilters](Excel.slicercache.clearallfilters.md)
+- [ClearDateFilter](Excel.slicercache.cleardatefilter.md)
+- [ClearManualFilter](Excel.slicercache.clearmanualfilter.md)
+- [Delete](Excel.SlicerCache.Delete.md)
 
 ## Properties
 
+- [Application](Excel.SlicerCache.Application.md)
+- [Creator](Excel.SlicerCache.Creator.md)
+- [CrossFilterType](Excel.SlicerCache.CrossFilterType.md)
+- [FilterCleared](Excel.slicercache.filtercleared.md)
+- [Index](Excel.SlicerCache.Index.md)
+- [List](Excel.slicercache.list.md)
+- [ListObject](Excel.slicercache.listobject.md)
+- [Name](Excel.SlicerCache.Name.md)
+- [OLAP](Excel.SlicerCache.OLAP.md)
+- [Parent](Excel.SlicerCache.Parent.md)
+- [PivotTables](Excel.SlicerCache.PivotTables.md)
+- [RequireManualUpdate](Excel.slicercache.requiremanualupdate.md)
+- [ShowAllItems](Excel.SlicerCache.ShowAllItems.md)
+- [SlicerCacheLevels](Excel.SlicerCache.SlicerCacheLevels.md)
+- [SlicerCacheType](Excel.slicercache.slicercachetype.md)
+- [SlicerItems](Excel.SlicerCache.SlicerItems.md)
+- [Slicers](Excel.SlicerCache.Slicers.md)
+- [SortItems](Excel.SlicerCache.SortItems.md)
+- [SortUsingCustomLists](Excel.SlicerCache.SortUsingCustomLists.md)
+- [SourceName](Excel.SlicerCache.SourceName.md)
+- [SourceType](Excel.SlicerCache.SourceType.md)
+- [TimelineState](Excel.slicercache.timelinestate.md)
+- [VisibleSlicerItems](Excel.SlicerCache.VisibleSlicerItems.md)
+- [VisibleSlicerItemsList](Excel.SlicerCache.VisibleSlicerItemsList.md)
+- [WorkbookConnection](Excel.SlicerCache.WorkbookConnection.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.SlicerCache.Application.md)|
-|[Creator](Excel.SlicerCache.Creator.md)|
-|[CrossFilterType](Excel.SlicerCache.CrossFilterType.md)|
-|[FilterCleared](Excel.slicercache.filtercleared.md)|
-|[Index](Excel.SlicerCache.Index.md)|
-|[List](Excel.slicercache.list.md)|
-|[ListObject](Excel.slicercache.listobject.md)|
-|[Name](Excel.SlicerCache.Name.md)|
-|[OLAP](Excel.SlicerCache.OLAP.md)|
-|[Parent](Excel.SlicerCache.Parent.md)|
-|[PivotTables](Excel.SlicerCache.PivotTables.md)|
-|[RequireManualUpdate](Excel.slicercache.requiremanualupdate.md)|
-|[ShowAllItems](Excel.SlicerCache.ShowAllItems.md)|
-|[SlicerCacheLevels](Excel.SlicerCache.SlicerCacheLevels.md)|
-|[SlicerCacheType](Excel.slicercache.slicercachetype.md)|
-|[SlicerItems](Excel.SlicerCache.SlicerItems.md)|
-|[Slicers](Excel.SlicerCache.Slicers.md)|
-|[SortItems](Excel.SlicerCache.SortItems.md)|
-|[SortUsingCustomLists](Excel.SlicerCache.SortUsingCustomLists.md)|
-|[SourceName](Excel.SlicerCache.SourceName.md)|
-|[SourceType](Excel.SlicerCache.SourceType.md)|
-|[TimelineState](Excel.slicercache.timelinestate.md)|
-|[VisibleSlicerItems](Excel.SlicerCache.VisibleSlicerItems.md)|
-|[VisibleSlicerItemsList](Excel.SlicerCache.VisibleSlicerItemsList.md)|
-|[WorkbookConnection](Excel.SlicerCache.WorkbookConnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

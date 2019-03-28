@@ -27,11 +27,25 @@ Worksheets("Sheet1").ChartObjects(1).Chart _
  .Walls.Interior.Pattern = xlGray75
 ```
 
+## Methods
+
+- [ClearFormats](Excel.Walls.ClearFormats.md)
+- [Paste](Excel.Walls.Paste.md)
+- [Select](Excel.Walls.Select.md)
+
+## Properties
+
+- [Application](Excel.Walls.Application.md)
+- [Creator](Excel.Walls.Creator.md)
+- [Format](Excel.Walls.Format.md)
+- [Name](Excel.Walls.Name.md)
+- [Parent](Excel.Walls.Parent.md)
+- [PictureType](Excel.Walls.PictureType.md)
+- [PictureUnit](Excel.Walls.PictureUnit.md)
+- [Thickness](Excel.Walls.Thickness.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

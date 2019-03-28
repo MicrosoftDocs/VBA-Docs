@@ -14,10 +14,21 @@ localization_priority: Normal
 
 An object that represents a query that was created by Power Query. Introduced in Office 2016.
 
+## Methods
+
+- [Delete](Excel.workbookquery.delete.md)
+
+## Properties
+
+- [Application](Excel.workbookquery.application.md)
+- [Creator](Excel.workbookquery.creator.md)
+- [Description](Excel.workbookquery.description.md)
+- [Formula](Excel.workbookquery.formula.md)
+- [Name](Excel.workbookquery.name.md)
+- [Parent](Excel.workbookquery.parent.md)
 
 ## See also
 
-
-[WorkbookQuery Object Members](./overview/Excel.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

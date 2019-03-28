@@ -16,11 +16,32 @@ localization_priority: Normal
 
 The  **UniqueValues** object uses the **DupeUnique** property to returns or sets an enum that determines whether the rule should look for duplicate or unique values in the range.
 
+## Methods
+
+- [Delete](Excel.UniqueValues.Delete.md)
+- [ModifyAppliesToRange](Excel.UniqueValues.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.UniqueValues.SetFirstPriority.md)
+- [SetLastPriority](Excel.UniqueValues.SetLastPriority.md)
+
+## Properties
+
+- [Application](Excel.UniqueValues.Application.md)
+- [AppliesTo](Excel.UniqueValues.AppliesTo.md)
+- [Borders](Excel.UniqueValues.Borders.md)
+- [Creator](Excel.UniqueValues.Creator.md)
+- [DupeUnique](Excel.UniqueValues.DupeUnique.md)
+- [Font](Excel.UniqueValues.Font.md)
+- [Interior](Excel.UniqueValues.Interior.md)
+- [NumberFormat](Excel.UniqueValues.NumberFormat.md)
+- [Parent](Excel.UniqueValues.Parent.md)
+- [Priority](Excel.UniqueValues.Priority.md)
+- [PTCondition](Excel.UniqueValues.PTCondition.md)
+- [ScopeType](Excel.UniqueValues.ScopeType.md)
+- [StopIfTrue](Excel.UniqueValues.StopIfTrue.md)
+- [Type](Excel.UniqueValues.Type.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

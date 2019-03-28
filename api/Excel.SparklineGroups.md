@@ -40,10 +40,24 @@ Selection.SparklineGroups.Item(1).Points.Markers.Visible = True
 Selection.SparklineGroups.Item(1).Points.Markers.Color.Color = 255
 ```
 
+## Methods
+
+- [Add](Excel.SparklineGroups.Add.md)
+- [Clear](Excel.SparklineGroups.Clear.md)
+- [ClearGroups](Excel.SparklineGroups.ClearGroups.md)
+- [Group](Excel.SparklineGroups.Group.md)
+- [Ungroup](Excel.SparklineGroups.Ungroup.md)
+
+## Properties
+
+- [Application](Excel.SparklineGroups.Application.md)
+- [Count](Excel.SparklineGroups.Count.md)
+- [Creator](Excel.SparklineGroups.Creator.md)
+- [Item](Excel.SparklineGroups.Item.md)
+- [Parent](Excel.SparklineGroups.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

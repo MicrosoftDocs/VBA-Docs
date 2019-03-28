@@ -48,42 +48,34 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Validation.Add.md)|
-|[Delete](Excel.Validation.Delete.md)|
-|[Modify](Excel.Validation.Modify.md)|
+- [Add](Excel.Validation.Add.md)
+- [Delete](Excel.Validation.Delete.md)
+- [Modify](Excel.Validation.Modify.md)
 
 ## Properties
 
+- [AlertStyle](Excel.Validation.AlertStyle.md)
+- [Application](Excel.Validation.Application.md)
+- [Creator](Excel.Validation.Creator.md)
+- [ErrorMessage](Excel.Validation.ErrorMessage.md)
+- [ErrorTitle](Excel.Validation.ErrorTitle.md)
+- [Formula1](Excel.Validation.Formula1.md)
+- [Formula2](Excel.Validation.Formula2.md)
+- [IgnoreBlank](Excel.Validation.IgnoreBlank.md)
+- [IMEMode](Excel.Validation.IMEMode.md)
+- [InCellDropdown](Excel.Validation.InCellDropdown.md)
+- [InputMessage](Excel.Validation.InputMessage.md)
+- [InputTitle](Excel.Validation.InputTitle.md)
+- [Operator](Excel.Validation.Operator.md)
+- [Parent](Excel.Validation.Parent.md)
+- [ShowError](Excel.Validation.ShowError.md)
+- [ShowInput](Excel.Validation.ShowInput.md)
+- [Type](Excel.Validation.Type.md)
+- [Value](Excel.Validation.Value.md)
 
-
-|Name|
-|:-----|
-|[AlertStyle](Excel.Validation.AlertStyle.md)|
-|[Application](Excel.Validation.Application.md)|
-|[Creator](Excel.Validation.Creator.md)|
-|[ErrorMessage](Excel.Validation.ErrorMessage.md)|
-|[ErrorTitle](Excel.Validation.ErrorTitle.md)|
-|[Formula1](Excel.Validation.Formula1.md)|
-|[Formula2](Excel.Validation.Formula2.md)|
-|[IgnoreBlank](Excel.Validation.IgnoreBlank.md)|
-|[IMEMode](Excel.Validation.IMEMode.md)|
-|[InCellDropdown](Excel.Validation.InCellDropdown.md)|
-|[InputMessage](Excel.Validation.InputMessage.md)|
-|[InputTitle](Excel.Validation.InputTitle.md)|
-|[Operator](Excel.Validation.Operator.md)|
-|[Parent](Excel.Validation.Parent.md)|
-|[ShowError](Excel.Validation.ShowError.md)|
-|[ShowInput](Excel.Validation.ShowInput.md)|
-|[Type](Excel.Validation.Type.md)|
-|[Value](Excel.Validation.Value.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

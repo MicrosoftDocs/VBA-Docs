@@ -23,10 +23,21 @@ Use the  **[Item](Excel.XmlNamespaces.Item.md)** method to access a particular *
 
 Use the  **[Value](Excel.XmlNamespaces.Value.md)** property to return a **String** that lists the namespaces that have been added to a workbook.
 
+## Methods
+
+- [InstallManifest](Excel.XmlNamespaces.InstallManifest.md)
+
+## Properties
+
+- [Application](Excel.XmlNamespaces.Application.md)
+- [Count](Excel.XmlNamespaces.Count.md)
+- [Creator](Excel.XmlNamespaces.Creator.md)
+- [Item](Excel.XmlNamespaces.Item.md)
+- [Parent](Excel.XmlNamespaces.Parent.md)
+- [Value](Excel.XmlNamespaces.Value.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

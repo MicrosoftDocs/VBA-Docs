@@ -116,137 +116,119 @@ End Sub
 
 ## Events
 
-
-
-|Name|
-|:-----|
-|[Activate](./Excel.Worksheet.Activate(even).md)|
-|[BeforeDelete](./Excel.worksheet.beforedelete.md)|
-|[BeforeDoubleClick](./Excel.Worksheet.BeforeDoubleClick.md)|
-|[BeforeRightClick](./Excel.Worksheet.BeforeRightClick.md)|
-|[Calculate](./Excel.Worksheet.Calculate(even).md)|
-|[Change](./Excel.Worksheet.Change.md)|
-|[Deactivate](./Excel.Worksheet.Deactivate.md)|
-|[FollowHyperlink](./Excel.Worksheet.FollowHyperlink.md)|
-|[LensGalleryRenderComplete](./Excel.worksheet.lensgalleryrendercomplete.md)|
-|[PivotTableAfterValueChange](./Excel.Worksheet.PivotTableAfterValueChange.md)|
-|[PivotTableBeforeAllocateChanges](./Excel.Worksheet.PivotTableBeforeAllocateChanges.md)|
-|[PivotTableBeforeCommitChanges](./Excel.Worksheet.PivotTableBeforeCommitChanges.md)|
-|[PivotTableBeforeDiscardChanges](./Excel.Worksheet.PivotTableBeforeDiscardChanges.md)|
-|[PivotTableChangeSync](./Excel.Worksheet.PivotTableChangeSync.md)|
-|[PivotTableUpdate](./Excel.Worksheet.PivotTableUpdate.md)|
-|[SelectionChange](./Excel.Worksheet.SelectionChange.md)|
-|[TableUpdate](./Excel.worksheet.tableupdate.md)|
+- [Activate](Excel.Worksheet.Activate(even).md)
+- [BeforeDelete](Excel.worksheet.beforedelete.md)
+- [BeforeDoubleClick](Excel.Worksheet.BeforeDoubleClick.md)
+- [BeforeRightClick](Excel.Worksheet.BeforeRightClick.md)
+- [Calculate](Excel.Worksheet.Calculate(even).md)
+- [Change](Excel.Worksheet.Change.md)
+- [Deactivate](Excel.Worksheet.Deactivate.md)
+- [FollowHyperlink](Excel.Worksheet.FollowHyperlink.md)
+- [LensGalleryRenderComplete](Excel.worksheet.lensgalleryrendercomplete.md)
+- [PivotTableAfterValueChange](Excel.Worksheet.PivotTableAfterValueChange.md)
+- [PivotTableBeforeAllocateChanges](Excel.Worksheet.PivotTableBeforeAllocateChanges.md)
+- [PivotTableBeforeCommitChanges](Excel.Worksheet.PivotTableBeforeCommitChanges.md)
+- [PivotTableBeforeDiscardChanges](Excel.Worksheet.PivotTableBeforeDiscardChanges.md)
+- [PivotTableChangeSync](Excel.Worksheet.PivotTableChangeSync.md)
+- [PivotTableUpdate](Excel.Worksheet.PivotTableUpdate.md)
+- [SelectionChange](Excel.Worksheet.SelectionChange.md)
+- [TableUpdate](Excel.worksheet.tableupdate.md)
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Activate](./Excel.Worksheet.Activate(method).md)|
-|[Calculate](./Excel.Worksheet.Calculate(method).md)|
-|[ChartObjects](./Excel.Worksheet.ChartObjects.md)|
-|[CheckSpelling](./Excel.Worksheet.CheckSpelling.md)|
-|[CircleInvalid](./Excel.Worksheet.CircleInvalid.md)|
-|[ClearArrows](./Excel.Worksheet.ClearArrows.md)|
-|[ClearCircles](./Excel.Worksheet.ClearCircles.md)|
-|[Copy](./Excel.Worksheet.Copy.md)|
-|[Delete](./Excel.Worksheet.Delete.md)|
-|[Evaluate](./Excel.Worksheet.Evaluate.md)|
-|[ExportAsFixedFormat](./Excel.Worksheet.ExportAsFixedFormat.md)|
-|[Move](./Excel.Worksheet.Move.md)|
-|[OLEObjects](./Excel.Worksheet.OLEObjects.md)|
-|[Paste](./Excel.Worksheet.Paste.md)|
-|[PasteSpecial](./Excel.Worksheet.PasteSpecial.md)|
-|[PivotTables](./Excel.Worksheet.PivotTables.md)|
-|[PivotTableWizard](./Excel.Worksheet.PivotTableWizard.md)|
-|[PrintOut](./Excel.Worksheet.PrintOut.md)|
-|[PrintPreview](./Excel.Worksheet.PrintPreview.md)|
-|[Protect](./Excel.Worksheet.Protect.md)|
-|[ResetAllPageBreaks](./Excel.Worksheet.ResetAllPageBreaks.md)|
-|[SaveAs](./Excel.Worksheet.SaveAs.md)|
-|[Scenarios](./Excel.Worksheet.Scenarios.md)|
-|[Select](./Excel.Worksheet.Select.md)|
-|[SetBackgroundPicture](./Excel.Worksheet.SetBackgroundPicture.md)|
-|[ShowAllData](./Excel.Worksheet.ShowAllData.md)|
-|[ShowDataForm](./Excel.Worksheet.ShowDataForm.md)|
-|[Unprotect](./Excel.Worksheet.Unprotect.md)|
-|[XmlDataQuery](./Excel.Worksheet.XmlDataQuery.md)|
-|[XmlMapQuery](./Excel.Worksheet.XmlMapQuery.md)|
+- [Activate](Excel.Worksheet.Activate(method).md)
+- [Calculate](Excel.Worksheet.Calculate(method).md)
+- [ChartObjects](Excel.Worksheet.ChartObjects.md)
+- [CheckSpelling](Excel.Worksheet.CheckSpelling.md)
+- [CircleInvalid](Excel.Worksheet.CircleInvalid.md)
+- [ClearArrows](Excel.Worksheet.ClearArrows.md)
+- [ClearCircles](Excel.Worksheet.ClearCircles.md)
+- [Copy](Excel.Worksheet.Copy.md)
+- [Delete](Excel.Worksheet.Delete.md)
+- [Evaluate](Excel.Worksheet.Evaluate.md)
+- [ExportAsFixedFormat](Excel.Worksheet.ExportAsFixedFormat.md)
+- [Move](Excel.Worksheet.Move.md)
+- [OLEObjects](Excel.Worksheet.OLEObjects.md)
+- [Paste](Excel.Worksheet.Paste.md)
+- [PasteSpecial](Excel.Worksheet.PasteSpecial.md)
+- [PivotTables](Excel.Worksheet.PivotTables.md)
+- [PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)
+- [PrintOut](Excel.Worksheet.PrintOut.md)
+- [PrintPreview](Excel.Worksheet.PrintPreview.md)
+- [Protect](Excel.Worksheet.Protect.md)
+- [ResetAllPageBreaks](Excel.Worksheet.ResetAllPageBreaks.md)
+- [SaveAs](Excel.Worksheet.SaveAs.md)
+- [Scenarios](Excel.Worksheet.Scenarios.md)
+- [Select](Excel.Worksheet.Select.md)
+- [SetBackgroundPicture](Excel.Worksheet.SetBackgroundPicture.md)
+- [ShowAllData](Excel.Worksheet.ShowAllData.md)
+- [ShowDataForm](Excel.Worksheet.ShowDataForm.md)
+- [Unprotect](Excel.Worksheet.Unprotect.md)
+- [XmlDataQuery](Excel.Worksheet.XmlDataQuery.md)
+- [XmlMapQuery](Excel.Worksheet.XmlMapQuery.md)
 
 ## Properties
 
+- [Application](Excel.Worksheet.Application.md)
+- [AutoFilter](Excel.Worksheet.AutoFilter.md)
+- [AutoFilterMode](Excel.Worksheet.AutoFilterMode.md)
+- [Cells](Excel.Worksheet.Cells.md)
+- [CircularReference](Excel.Worksheet.CircularReference.md)
+- [CodeName](Excel.Worksheet.CodeName.md)
+- [Columns](Excel.Worksheet.Columns.md)
+- [Comments](Excel.Worksheet.Comments.md)
+- [ConsolidationFunction](Excel.Worksheet.ConsolidationFunction.md)
+- [ConsolidationOptions](Excel.Worksheet.ConsolidationOptions.md)
+- [ConsolidationSources](Excel.Worksheet.ConsolidationSources.md)
+- [Creator](Excel.Worksheet.Creator.md)
+- [CustomProperties](Excel.Worksheet.CustomProperties.md)
+- [DisplayPageBreaks](Excel.Worksheet.DisplayPageBreaks.md)
+- [DisplayRightToLeft](Excel.Worksheet.DisplayRightToLeft.md)
+- [EnableAutoFilter](Excel.Worksheet.EnableAutoFilter.md)
+- [EnableCalculation](Excel.Worksheet.EnableCalculation.md)
+- [EnableFormatConditionsCalculation](Excel.Worksheet.EnableFormatConditionsCalculation.md)
+- [EnableOutlining](Excel.Worksheet.EnableOutlining.md)
+- [EnablePivotTable](Excel.Worksheet.EnablePivotTable.md)
+- [EnableSelection](Excel.Worksheet.EnableSelection.md)
+- [FilterMode](Excel.Worksheet.FilterMode.md)
+- [HPageBreaks](Excel.Worksheet.HPageBreaks.md)
+- [Hyperlinks](Excel.Worksheet.Hyperlinks.md)
+- [Index](Excel.Worksheet.Index.md)
+- [ListObjects](Excel.Worksheet.ListObjects.md)
+- [MailEnvelope](Excel.Worksheet.MailEnvelope.md)
+- [Name](Excel.Worksheet.Name.md)
+- [Names](Excel.Worksheet.Names.md)
+- [Next](Excel.Worksheet.Next.md)
+- [Outline](Excel.Worksheet.Outline.md)
+- [PageSetup](Excel.Worksheet.PageSetup.md)
+- [Parent](Excel.Worksheet.Parent.md)
+- [Previous](Excel.Worksheet.Previous.md)
+- [PrintedCommentPages](Excel.Worksheet.PrintedCommentPages.md)
+- [ProtectContents](Excel.Worksheet.ProtectContents.md)
+- [ProtectDrawingObjects](Excel.Worksheet.ProtectDrawingObjects.md)
+- [Protection](Excel.Worksheet.Protection.md)
+- [ProtectionMode](Excel.Worksheet.ProtectionMode.md)
+- [ProtectScenarios](Excel.Worksheet.ProtectScenarios.md)
+- [QueryTables](Excel.Worksheet.QueryTables.md)
+- [Range](Excel.Worksheet.Range.md)
+- [Rows](Excel.Worksheet.Rows.md)
+- [ScrollArea](Excel.Worksheet.ScrollArea.md)
+- [Shapes](Excel.Worksheet.Shapes.md)
+- [Sort](Excel.Worksheet.Sort.md)
+- [StandardHeight](Excel.Worksheet.StandardHeight.md)
+- [StandardWidth](Excel.Worksheet.StandardWidth.md)
+- [Tab](Excel.Worksheet.Tab.md)
+- [TransitionExpEval](Excel.Worksheet.TransitionExpEval.md)
+- [TransitionFormEntry](Excel.Worksheet.TransitionFormEntry.md)
+- [Type](Excel.Worksheet.Type.md)
+- [UsedRange](Excel.Worksheet.UsedRange.md)
+- [Visible](Excel.Worksheet.Visible.md)
+- [VPageBreaks](Excel.Worksheet.VPageBreaks.md)
 
-
-|Name|
-|:-----|
-|[Application](./Excel.Worksheet.Application.md)|
-|[AutoFilter](./Excel.Worksheet.AutoFilter.md)|
-|[AutoFilterMode](./Excel.Worksheet.AutoFilterMode.md)|
-|[Cells](./Excel.Worksheet.Cells.md)|
-|[CircularReference](./Excel.Worksheet.CircularReference.md)|
-|[CodeName](./Excel.Worksheet.CodeName.md)|
-|[Columns](./Excel.Worksheet.Columns.md)|
-|[Comments](./Excel.Worksheet.Comments.md)|
-|[ConsolidationFunction](./Excel.Worksheet.ConsolidationFunction.md)|
-|[ConsolidationOptions](./Excel.Worksheet.ConsolidationOptions.md)|
-|[ConsolidationSources](./Excel.Worksheet.ConsolidationSources.md)|
-|[Creator](./Excel.Worksheet.Creator.md)|
-|[CustomProperties](./Excel.Worksheet.CustomProperties.md)|
-|[DisplayPageBreaks](./Excel.Worksheet.DisplayPageBreaks.md)|
-|[DisplayRightToLeft](./Excel.Worksheet.DisplayRightToLeft.md)|
-|[EnableAutoFilter](./Excel.Worksheet.EnableAutoFilter.md)|
-|[EnableCalculation](./Excel.Worksheet.EnableCalculation.md)|
-|[EnableFormatConditionsCalculation](./Excel.Worksheet.EnableFormatConditionsCalculation.md)|
-|[EnableOutlining](./Excel.Worksheet.EnableOutlining.md)|
-|[EnablePivotTable](./Excel.Worksheet.EnablePivotTable.md)|
-|[EnableSelection](./Excel.Worksheet.EnableSelection.md)|
-|[FilterMode](./Excel.Worksheet.FilterMode.md)|
-|[HPageBreaks](./Excel.Worksheet.HPageBreaks.md)|
-|[Hyperlinks](./Excel.Worksheet.Hyperlinks.md)|
-|[Index](./Excel.Worksheet.Index.md)|
-|[ListObjects](./Excel.Worksheet.ListObjects.md)|
-|[MailEnvelope](./Excel.Worksheet.MailEnvelope.md)|
-|[Name](./Excel.Worksheet.Name.md)|
-|[Names](./Excel.Worksheet.Names.md)|
-|[Next](./Excel.Worksheet.Next.md)|
-|[Outline](./Excel.Worksheet.Outline.md)|
-|[PageSetup](./Excel.Worksheet.PageSetup.md)|
-|[Parent](./Excel.Worksheet.Parent.md)|
-|[Previous](./Excel.Worksheet.Previous.md)|
-|[PrintedCommentPages](./Excel.Worksheet.PrintedCommentPages.md)|
-|[ProtectContents](./Excel.Worksheet.ProtectContents.md)|
-|[ProtectDrawingObjects](./Excel.Worksheet.ProtectDrawingObjects.md)|
-|[Protection](./Excel.Worksheet.Protection.md)|
-|[ProtectionMode](./Excel.Worksheet.ProtectionMode.md)|
-|[ProtectScenarios](./Excel.Worksheet.ProtectScenarios.md)|
-|[QueryTables](./Excel.Worksheet.QueryTables.md)|
-|[Range](./Excel.Worksheet.Range.md)|
-|[Rows](./Excel.Worksheet.Rows.md)|
-|[ScrollArea](./Excel.Worksheet.ScrollArea.md)|
-|[Shapes](./Excel.Worksheet.Shapes.md)|
-|[Sort](./Excel.Worksheet.Sort.md)|
-|[StandardHeight](./Excel.Worksheet.StandardHeight.md)|
-|[StandardWidth](./Excel.Worksheet.StandardWidth.md)|
-|[Tab](./Excel.Worksheet.Tab.md)|
-|[TransitionExpEval](./Excel.Worksheet.TransitionExpEval.md)|
-|[TransitionFormEntry](./Excel.Worksheet.TransitionFormEntry.md)|
-|[Type](./Excel.Worksheet.Type.md)|
-|[UsedRange](./Excel.Worksheet.UsedRange.md)|
-|[Visible](./Excel.Worksheet.Visible.md)|
-|[VPageBreaks](./Excel.Worksheet.VPageBreaks.md)|
-
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## See also
 
-
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

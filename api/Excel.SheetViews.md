@@ -26,11 +26,16 @@ The following example will return the view count of the active window.
 ActiveWindow.SheetViews.Count
 ```
 
+## Properties
+
+- [Application](Excel.SheetViews.Application.md)
+- [Count](Excel.SheetViews.Count.md)
+- [Creator](Excel.SheetViews.Creator.md)
+- [Item](Excel.SheetViews.Item.md)
+- [Parent](Excel.SheetViews.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

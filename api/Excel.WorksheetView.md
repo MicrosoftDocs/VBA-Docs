@@ -21,10 +21,20 @@ An object that defines the behavior of a single worksheet view.
 
 Controls the look and feel of the application or workbook-level view by providing properties such as  **DisplayFormulas**,  **DisplayGridlines**, and  **DisplayHeadings**.
 
+## Properties
+
+- [Application](Excel.WorksheetView.Application.md)
+- [Creator](Excel.WorksheetView.Creator.md)
+- [DisplayFormulas](Excel.WorksheetView.DisplayFormulas.md)
+- [DisplayGridlines](Excel.WorksheetView.DisplayGridlines.md)
+- [DisplayHeadings](Excel.WorksheetView.DisplayHeadings.md)
+- [DisplayOutline](Excel.WorksheetView.DisplayOutline.md)
+- [DisplayZeros](Excel.WorksheetView.DisplayZeros.md)
+- [Parent](Excel.WorksheetView.Parent.md)
+- [Sheet](Excel.WorksheetView.Sheet.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

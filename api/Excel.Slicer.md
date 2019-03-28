@@ -45,46 +45,38 @@ ActiveWorkbook.SlicerCaches(1).Slicers(1).Width = 200
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Copy](Excel.Slicer.Copy.md)|
-|[Cut](Excel.Slicer.Cut.md)|
-|[Delete](Excel.Slicer.Delete.md)|
+- [Copy](Excel.Slicer.Copy.md)
+- [Cut](Excel.Slicer.Cut.md)
+- [Delete](Excel.Slicer.Delete.md)
 
 ## Properties
 
+- [ActiveItem](Excel.Slicer.ActiveItem.md)
+- [Application](Excel.Slicer.Application.md)
+- [Caption](Excel.Slicer.Caption.md)
+- [ColumnWidth](Excel.Slicer.ColumnWidth.md)
+- [Creator](Excel.Slicer.Creator.md)
+- [DisableMoveResizeUI](Excel.Slicer.DisableMoveResizeUI.md)
+- [DisplayHeader](Excel.Slicer.DisplayHeader.md)
+- [Height](Excel.Slicer.Height.md)
+- [Left](Excel.Slicer.Left.md)
+- [Locked](Excel.Slicer.Locked.md)
+- [Name](Excel.Slicer.Name.md)
+- [NumberOfColumns](Excel.Slicer.NumberOfColumns.md)
+- [Parent](Excel.Slicer.Parent.md)
+- [RowHeight](Excel.Slicer.RowHeight.md)
+- [Shape](Excel.Slicer.Shape.md)
+- [SlicerCache](Excel.Slicer.SlicerCache.md)
+- [SlicerCacheLevel](Excel.Slicer.SlicerCacheLevel.md)
+- [SlicerCacheType](Excel.slicer.slicercachetype.md)
+- [Style](Excel.Slicer.Style.md)
+- [TimelineViewState](Excel.slicer.timelineviewstate.md)
+- [Top](Excel.Slicer.Top.md)
+- [Width](Excel.Slicer.Width.md)
 
-
-|Name|
-|:-----|
-|[ActiveItem](Excel.Slicer.ActiveItem.md)|
-|[Application](Excel.Slicer.Application.md)|
-|[Caption](Excel.Slicer.Caption.md)|
-|[ColumnWidth](Excel.Slicer.ColumnWidth.md)|
-|[Creator](Excel.Slicer.Creator.md)|
-|[DisableMoveResizeUI](Excel.Slicer.DisableMoveResizeUI.md)|
-|[DisplayHeader](Excel.Slicer.DisplayHeader.md)|
-|[Height](Excel.Slicer.Height.md)|
-|[Left](Excel.Slicer.Left.md)|
-|[Locked](Excel.Slicer.Locked.md)|
-|[Name](Excel.Slicer.Name.md)|
-|[NumberOfColumns](Excel.Slicer.NumberOfColumns.md)|
-|[Parent](Excel.Slicer.Parent.md)|
-|[RowHeight](Excel.Slicer.RowHeight.md)|
-|[Shape](Excel.Slicer.Shape.md)|
-|[SlicerCache](Excel.Slicer.SlicerCache.md)|
-|[SlicerCacheLevel](Excel.Slicer.SlicerCacheLevel.md)|
-|[SlicerCacheType](Excel.slicer.slicercachetype.md)|
-|[Style](Excel.Slicer.Style.md)|
-|[TimelineViewState](Excel.slicer.timelineviewstate.md)|
-|[Top](Excel.Slicer.Top.md)|
-|[Width](Excel.Slicer.Width.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -37,10 +37,30 @@ End With
 
 ```
 
+## Methods
+
+- [ToggleVerticalText](Excel.TextEffectFormat.ToggleVerticalText.md)
+
+## Properties
+
+- [Alignment](Excel.TextEffectFormat.Alignment.md)
+- [Application](Excel.TextEffectFormat.Application.md)
+- [Creator](Excel.TextEffectFormat.Creator.md)
+- [FontBold](Excel.TextEffectFormat.FontBold.md)
+- [FontItalic](Excel.TextEffectFormat.FontItalic.md)
+- [FontName](Excel.TextEffectFormat.FontName.md)
+- [FontSize](Excel.TextEffectFormat.FontSize.md)
+- [KernedPairs](Excel.TextEffectFormat.KernedPairs.md)
+- [NormalizedHeight](Excel.TextEffectFormat.NormalizedHeight.md)
+- [Parent](Excel.TextEffectFormat.Parent.md)
+- [PresetShape](Excel.TextEffectFormat.PresetShape.md)
+- [PresetTextEffect](Excel.TextEffectFormat.PresetTextEffect.md)
+- [RotatedChars](Excel.TextEffectFormat.RotatedChars.md)
+- [Text](Excel.TextEffectFormat.Text.md)
+- [Tracking](Excel.TextEffectFormat.Tracking.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

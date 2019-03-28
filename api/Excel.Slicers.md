@@ -40,10 +40,20 @@ Use Slicers( _index_ ), where _index_ is the slicer index number or name, to ret
 ActiveWorkbook.SlicerCaches(1).Slicers(1).Caption = "My Slicer"
 ```
 
+## Methods
+
+- [Add](Excel.Slicers.Add.md)
+
+## Properties
+
+- [Application](Excel.Slicers.Application.md)
+- [Count](Excel.Slicers.Count.md)
+- [Creator](Excel.Slicers.Creator.md)
+- [Item](Excel.Slicers.Item.md)
+- [Parent](Excel.Slicers.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

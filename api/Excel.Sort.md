@@ -62,32 +62,24 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Apply](Excel.Sort.Apply.md)|
-|[SetRange](Excel.Sort.SetRange.md)|
+- [Apply](Excel.Sort.Apply.md)
+- [SetRange](Excel.Sort.SetRange.md)
 
 ## Properties
 
+- [Application](Excel.Sort.Application.md)
+- [Creator](Excel.Sort.Creator.md)
+- [Header](Excel.Sort.Header.md)
+- [MatchCase](Excel.Sort.MatchCase.md)
+- [Orientation](Excel.Sort.Orientation.md)
+- [Parent](Excel.Sort.Parent.md)
+- [Rng](Excel.Sort.Rng.md)
+- [SortFields](Excel.Sort.SortFields.md)
+- [SortMethod](Excel.Sort.SortMethod.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Sort.Application.md)|
-|[Creator](Excel.Sort.Creator.md)|
-|[Header](Excel.Sort.Header.md)|
-|[MatchCase](Excel.Sort.MatchCase.md)|
-|[Orientation](Excel.Sort.Orientation.md)|
-|[Parent](Excel.Sort.Parent.md)|
-|[Rng](Excel.Sort.Rng.md)|
-|[SortFields](Excel.Sort.SortFields.md)|
-|[SortMethod](Excel.Sort.SortMethod.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

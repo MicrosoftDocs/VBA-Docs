@@ -41,10 +41,16 @@ Sub CountUsedObjects()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.UsedObjects.Application.md)
+- [Count](Excel.UsedObjects.Count.md)
+- [Creator](Excel.UsedObjects.Creator.md)
+- [Item](Excel.UsedObjects.Item.md)
+- [Parent](Excel.UsedObjects.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -23,11 +23,16 @@ Use the  **[Prefix](Excel.XmlNamespace.Prefix.md)** property to return the prefi
 
 Use the  **[Uri](Excel.XmlNamespace.Uri.md)** property to return the Uniform Resource Identifier (URI) of an **XmlNamespace** object.
 
+## Properties
+
+- [Application](Excel.XmlNamespace.Application.md)
+- [Creator](Excel.XmlNamespace.Creator.md)
+- [Parent](Excel.XmlNamespace.Parent.md)
+- [Prefix](Excel.XmlNamespace.Prefix.md)
+- [Uri](Excel.XmlNamespace.Uri.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

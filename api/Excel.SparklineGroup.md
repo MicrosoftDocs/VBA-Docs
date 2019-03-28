@@ -36,8 +36,35 @@ Set mySG = Range("$A$1:$A$4").SparklineGroups.Add(Type:=xlSparkColumn, SourceDat
 mySG.SeriesColor.Color = RGB(255, 0, 0)
 ```
 
+## Methods
+
+- [Delete](Excel.SparklineGroup.Delete.md)
+- [Modify](Excel.SparklineGroup.Modify.md)
+- [ModifyDateRange](Excel.SparklineGroup.ModifyDateRange.md)
+- [ModifyLocation](Excel.SparklineGroup.ModifyLocation.md)
+- [ModifySourceData](Excel.SparklineGroup.ModifySourceData.md)
+
+## Properties
+
+- [Application](Excel.SparklineGroup.Application.md)
+- [Axes](Excel.SparklineGroup.Axes.md)
+- [Count](Excel.SparklineGroup.Count.md)
+- [Creator](Excel.SparklineGroup.Creator.md)
+- [DateRange](Excel.SparklineGroup.DateRange.md)
+- [DisplayBlanksAs](Excel.sparklinegroup.displayblanksas.md)
+- [DisplayHidden](Excel.SparklineGroup.DisplayHidden.md)
+- [Item](Excel.SparklineGroup.Item.md)
+- [LineWeight](Excel.SparklineGroup.LineWeight.md)
+- [Location](Excel.SparklineGroup.Location.md)
+- [Parent](Excel.SparklineGroup.Parent.md)
+- [PlotBy](Excel.sparklinegroup.plotby.md)
+- [Points](Excel.sparklinegroup.points.md)
+- [SeriesColor](Excel.SparklineGroup.SeriesColor.md)
+- [SourceData](Excel.SparklineGroup.SourceData.md)
+- [Type](Excel.SparklineGroup.Type.md)
+
 ## See also
 
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

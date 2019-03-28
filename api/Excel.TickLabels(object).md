@@ -36,41 +36,32 @@ Worksheets("sheet1").ChartObjects(1).Chart _
  .Axes(xlValue).TickLabels.NumberFormat = "0.00"
 ```
 
-
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.TickLabels.Delete.md)|
-|[Select](Excel.TickLabels.Select.md)|
+- [Delete](Excel.TickLabels.Delete.md)
+- [Select](Excel.TickLabels.Select.md)
 
 ## Properties
 
+- [Alignment](Excel.TickLabels.Alignment.md)
+- [Application](Excel.TickLabels.Application.md)
+- [Creator](Excel.TickLabels.Creator.md)
+- [Depth](Excel.TickLabels.Depth.md)
+- [Font](Excel.TickLabels.Font.md)
+- [Format](Excel.TickLabels.Format.md)
+- [MultiLevel](Excel.TickLabels.MultiLevel.md)
+- [Name](Excel.TickLabels.Name.md)
+- [NumberFormat](Excel.TickLabels.NumberFormat.md)
+- [NumberFormatLinked](Excel.TickLabels.NumberFormatLinked.md)
+- [NumberFormatLocal](Excel.TickLabels.NumberFormatLocal.md)
+- [Offset](Excel.TickLabels.Offset.md)
+- [Orientation](Excel.TickLabels.Orientation.md)
+- [Parent](Excel.TickLabels.Parent.md)
+- [ReadingOrder](Excel.TickLabels.ReadingOrder.md)
 
-
-|Name|
-|:-----|
-|[Alignment](Excel.TickLabels.Alignment.md)|
-|[Application](Excel.TickLabels.Application.md)|
-|[Creator](Excel.TickLabels.Creator.md)|
-|[Depth](Excel.TickLabels.Depth.md)|
-|[Font](Excel.TickLabels.Font.md)|
-|[Format](Excel.TickLabels.Format.md)|
-|[MultiLevel](Excel.TickLabels.MultiLevel.md)|
-|[Name](Excel.TickLabels.Name.md)|
-|[NumberFormat](Excel.TickLabels.NumberFormat.md)|
-|[NumberFormatLinked](Excel.TickLabels.NumberFormatLinked.md)|
-|[NumberFormatLocal](Excel.TickLabels.NumberFormatLocal.md)|
-|[Offset](Excel.TickLabels.Offset.md)|
-|[Orientation](Excel.TickLabels.Orientation.md)|
-|[Parent](Excel.TickLabels.Parent.md)|
-|[ReadingOrder](Excel.TickLabels.ReadingOrder.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
