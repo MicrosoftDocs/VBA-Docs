@@ -69,11 +69,25 @@ Sub CheckTextDates()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.ErrorCheckingOptions.Application.md)
+- [BackgroundChecking](Excel.ErrorCheckingOptions.BackgroundChecking.md)
+- [Creator](Excel.ErrorCheckingOptions.Creator.md)
+- [EmptyCellReferences](Excel.ErrorCheckingOptions.EmptyCellReferences.md)
+- [EvaluateToError](Excel.ErrorCheckingOptions.EvaluateToError.md)
+- [InconsistentFormula](Excel.ErrorCheckingOptions.InconsistentFormula.md)
+- [InconsistentTableFormula](Excel.ErrorCheckingOptions.InconsistentTableFormula.md)
+- [IndicatorColorIndex](Excel.ErrorCheckingOptions.IndicatorColorIndex.md)
+- [ListDataValidation](Excel.ErrorCheckingOptions.ListDataValidation.md)
+- [NumberAsText](Excel.ErrorCheckingOptions.NumberAsText.md)
+- [OmittedCells](Excel.ErrorCheckingOptions.OmittedCells.md)
+- [Parent](Excel.ErrorCheckingOptions.Parent.md)
+- [TextDate](Excel.ErrorCheckingOptions.TextDate.md)
+- [UnlockedFormulaCells](Excel.ErrorCheckingOptions.UnlockedFormulaCells.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

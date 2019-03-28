@@ -47,49 +47,41 @@ Worksheets(1).ChartObjects(1).Chart _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.DataLabels.Delete.md)|
-|[Item](Excel.DataLabels.Item.md)|
-|[Propagate](Excel.datalabels.propagate.md)|
-|[Select](Excel.DataLabels.Select.md)|
+- [Delete](Excel.DataLabels.Delete.md)
+- [Item](Excel.DataLabels.Item.md)
+- [Propagate](Excel.datalabels.propagate.md)
+- [Select](Excel.DataLabels.Select.md)
 
 ## Properties
 
+- [Application](Excel.DataLabels.Application.md)
+- [AutoText](Excel.DataLabels.AutoText.md)
+- [Count](Excel.DataLabels.Count.md)
+- [Creator](Excel.DataLabels.Creator.md)
+- [Format](Excel.DataLabels.Format.md)
+- [HorizontalAlignment](Excel.DataLabels.HorizontalAlignment.md)
+- [Name](Excel.DataLabels.Name.md)
+- [NumberFormat](Excel.DataLabels.NumberFormat.md)
+- [NumberFormatLinked](Excel.DataLabels.NumberFormatLinked.md)
+- [NumberFormatLocal](Excel.DataLabels.NumberFormatLocal.md)
+- [Orientation](Excel.DataLabels.Orientation.md)
+- [Parent](Excel.DataLabels.Parent.md)
+- [Position](Excel.DataLabels.Position.md)
+- [ReadingOrder](Excel.DataLabels.ReadingOrder.md)
+- [Separator](Excel.DataLabels.Separator.md)
+- [Shadow](Excel.DataLabels.Shadow.md)
+- [ShowBubbleSize](Excel.DataLabels.ShowBubbleSize.md)
+- [ShowCategoryName](Excel.DataLabels.ShowCategoryName.md)
+- [ShowLegendKey](Excel.DataLabels.ShowLegendKey.md)
+- [ShowPercentage](Excel.DataLabels.ShowPercentage.md)
+- [ShowRange](Excel.datalabels.showrange.md)
+- [ShowSeriesName](Excel.DataLabels.ShowSeriesName.md)
+- [ShowValue](Excel.DataLabels.ShowValue.md)
+- [VerticalAlignment](Excel.DataLabels.VerticalAlignment.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.DataLabels.Application.md)|
-|[AutoText](Excel.DataLabels.AutoText.md)|
-|[Count](Excel.DataLabels.Count.md)|
-|[Creator](Excel.DataLabels.Creator.md)|
-|[Format](Excel.DataLabels.Format.md)|
-|[HorizontalAlignment](Excel.DataLabels.HorizontalAlignment.md)|
-|[Name](Excel.DataLabels.Name.md)|
-|[NumberFormat](Excel.DataLabels.NumberFormat.md)|
-|[NumberFormatLinked](Excel.DataLabels.NumberFormatLinked.md)|
-|[NumberFormatLocal](Excel.DataLabels.NumberFormatLocal.md)|
-|[Orientation](Excel.DataLabels.Orientation.md)|
-|[Parent](Excel.DataLabels.Parent.md)|
-|[Position](Excel.DataLabels.Position.md)|
-|[ReadingOrder](Excel.DataLabels.ReadingOrder.md)|
-|[Separator](Excel.DataLabels.Separator.md)|
-|[Shadow](Excel.DataLabels.Shadow.md)|
-|[ShowBubbleSize](Excel.DataLabels.ShowBubbleSize.md)|
-|[ShowCategoryName](Excel.DataLabels.ShowCategoryName.md)|
-|[ShowLegendKey](Excel.DataLabels.ShowLegendKey.md)|
-|[ShowPercentage](Excel.DataLabels.ShowPercentage.md)|
-|[ShowRange](Excel.datalabels.showrange.md)|
-|[ShowSeriesName](Excel.DataLabels.ShowSeriesName.md)|
-|[ShowValue](Excel.DataLabels.ShowValue.md)|
-|[VerticalAlignment](Excel.DataLabels.VerticalAlignment.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

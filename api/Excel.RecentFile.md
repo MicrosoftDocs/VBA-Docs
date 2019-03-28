@@ -31,10 +31,22 @@ Use  **[RecentFiles](Excel.Application.RecentFiles.md)** ( _index_ ), where _ind
 Application.RecentFiles(2).Open
 ```
 
+## Methods
+
+- [Delete](Excel.RecentFile.Delete.md)
+- [Open](Excel.RecentFile.Open.md)
+
+## Properties
+
+- [Application](Excel.RecentFile.Application.md)
+- [Creator](Excel.RecentFile.Creator.md)
+- [Index](Excel.RecentFile.Index.md)
+- [Name](Excel.RecentFile.Name.md)
+- [Parent](Excel.RecentFile.Parent.md)
+- [Path](Excel.RecentFile.Path.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

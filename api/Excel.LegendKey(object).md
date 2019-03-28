@@ -32,10 +32,35 @@ Worksheets("sheet1").ChartObjects(1).Chart _
  .Legend.LegendEntries(1).LegendKey.MarkerBackgroundColorIndex = 5
 ```
 
+## Methods
+
+- [ClearFormats](Excel.LegendKey.ClearFormats.md)
+- [Delete](Excel.LegendKey.Delete.md)
+
+## Properties
+
+- [Application](Excel.LegendKey.Application.md)
+- [Creator](Excel.LegendKey.Creator.md)
+- [Format](Excel.LegendKey.Format.md)
+- [Height](Excel.LegendKey.Height.md)
+- [InvertIfNegative](Excel.LegendKey.InvertIfNegative.md)
+- [Left](Excel.LegendKey.Left.md)
+- [MarkerBackgroundColor](Excel.LegendKey.MarkerBackgroundColor.md)
+- [MarkerBackgroundColorIndex](Excel.LegendKey.MarkerBackgroundColorIndex.md)
+- [MarkerForegroundColor](Excel.LegendKey.MarkerForegroundColor.md)
+- [MarkerForegroundColorIndex](Excel.LegendKey.MarkerForegroundColorIndex.md)
+- [MarkerSize](Excel.LegendKey.MarkerSize.md)
+- [MarkerStyle](Excel.LegendKey.MarkerStyle.md)
+- [Parent](Excel.LegendKey.Parent.md)
+- [PictureType](Excel.LegendKey.PictureType.md)
+- [PictureUnit2](Excel.LegendKey.PictureUnit2.md)
+- [Shadow](Excel.LegendKey.Shadow.md)
+- [Smooth](Excel.LegendKey.Smooth.md)
+- [Top](Excel.LegendKey.Top.md)
+- [Width](Excel.LegendKey.Width.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

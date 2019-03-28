@@ -27,11 +27,16 @@ The  **LinearGradient** object transitions through a series of colors in a linea
 
  **Note**  Some things to consider when working with  **LinearGradient** objects
 
+## Properties
+
+- [Application](Excel.LinearGradient.Application.md)
+- [ColorStops](Excel.LinearGradient.ColorStops.md)
+- [Creator](Excel.LinearGradient.Creator.md)
+- [Degree](Excel.LinearGradient.Degree.md)
+- [Parent](Excel.LinearGradient.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

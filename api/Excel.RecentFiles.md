@@ -31,10 +31,21 @@ Use the  **[RecentFiles](Excel.Application.RecentFiles.md)** property to return 
 Application.RecentFiles.Maximum = 6
 ```
 
+## Methods
+
+- [Add](Excel.RecentFiles.Add.md)
+
+## Properties
+
+- [Application](Excel.RecentFiles.Application.md)
+- [Count](Excel.RecentFiles.Count.md)
+- [Creator](Excel.RecentFiles.Creator.md)
+- [Item](Excel.RecentFiles.Item.md)
+- [Maximum](Excel.RecentFiles.Maximum.md)
+- [Parent](Excel.RecentFiles.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

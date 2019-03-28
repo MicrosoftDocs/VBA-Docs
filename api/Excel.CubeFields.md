@@ -45,10 +45,22 @@ strAlphaName = _
 ```
 
 
+## Methods
+
+- [AddSet](Excel.CubeFields.AddSet.md)
+- [GetMeasure](Excel.cubefields.getmeasure.md)
+
+## Properties
+
+- [Application](Excel.CubeFields.Application.md)
+- [Count](Excel.CubeFields.Count.md)
+- [Creator](Excel.CubeFields.Creator.md)
+- [Item](Excel.CubeFields.Item.md)
+- [Parent](Excel.CubeFields.Parent.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

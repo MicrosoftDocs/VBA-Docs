@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelRelationships.Count property (Excel)
 
-Returns a  **Long** value that represents the number of a [ModelRelationship object (Excel)](Excel.modelrelationship.md) objects in a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object. Read-only.
+Returns a  **Long** value that represents the number of [ModelRelationship](Excel.modelrelationship.md) objects in a **ModelRelationships** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Count**
 
-_expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
+_expression_ A variable that represents a **[ModelRelationships](Excel.modelrelationships.md)** object.
 
 
 ## Property value

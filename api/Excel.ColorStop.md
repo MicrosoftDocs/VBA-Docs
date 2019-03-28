@@ -55,9 +55,22 @@ End With
 ```
 
 
+## Methods
+
+- [Delete](Excel.ColorStop.Delete.md)
+
+## Properties
+
+- [Application](Excel.ColorStop.Application.md)
+- [Color](Excel.ColorStop.Color.md)
+- [Creator](Excel.ColorStop.Creator.md)
+- [Parent](Excel.ColorStop.Parent.md)
+- [Position](Excel.ColorStop.Position.md)
+- [ThemeColor](Excel.ColorStop.ThemeColor.md)
+- [TintAndShade](Excel.ColorStop.TintAndShade.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

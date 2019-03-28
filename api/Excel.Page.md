@@ -29,11 +29,17 @@ Set objPage = ActiveWorkbook.ActiveWindow _
  .Panes(1).Pages.Item(1)
 ```
 
+## Properties
+
+- [CenterFooter](Excel.Page.CenterFooter.md)
+- [CenterHeader](Excel.Page.CenterHeader.md)
+- [LeftFooter](Excel.Page.LeftFooter.md)
+- [LeftHeader](Excel.Page.LeftHeader.md)
+- [RightFooter](Excel.Page.RightFooter.md)
+- [RightHeader](Excel.Page.RightHeader.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -9,19 +9,16 @@ localization_priority: Normal
 
 # Model.ModelMeasures property (Excel)
 
-Returns a [ModelMeasures object (Excel)](Excel.modelmeasures.md) object that represents the collection of model measures in the data model. Read-only.
+Returns a **[ModelMeasures](Excel.modelmeasures.md)** object that represents the collection of model measures in the data model. Read-only.
 
 
 ## Syntax
 
-_expression_. `ModelMeasures`
+_expression_.**ModelMeasures**
 
-_expression_ A variable that represents a 'Model' object.
-
-
-## See also
+_expression_ A variable that represents a **Model** object.
 
 
-[Model Object Members](overview/Excel.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

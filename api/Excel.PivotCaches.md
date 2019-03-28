@@ -36,27 +36,19 @@ Next
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Create](Excel.PivotCaches.Create.md)|
-|[Item](Excel.PivotCaches.Item.md)|
+- [Create](Excel.PivotCaches.Create.md)
+- [Item](Excel.PivotCaches.Item.md)
 
 ## Properties
 
+- [Application](Excel.PivotCaches.Application.md)
+- [Count](Excel.PivotCaches.Count.md)
+- [Creator](Excel.PivotCaches.Creator.md)
+- [Parent](Excel.PivotCaches.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PivotCaches.Application.md)|
-|[Count](Excel.PivotCaches.Count.md)|
-|[Creator](Excel.PivotCaches.Creator.md)|
-|[Parent](Excel.PivotCaches.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

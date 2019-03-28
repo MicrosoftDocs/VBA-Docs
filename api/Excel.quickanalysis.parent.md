@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # QuickAnalysis.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[QuickAnalysis object (Excel)](Excel.quickanalysis.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [QuickAnalysis](Excel.quickanalysis.md) object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [QuickAnalysis object (Excel)](Excel.quickanalysis.md) object.
+_expression_ A variable that represents a [QuickAnalysis](Excel.quickanalysis.md) object.
 
 
 ## Property value

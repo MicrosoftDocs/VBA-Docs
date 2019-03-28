@@ -52,11 +52,22 @@ Use  **Scenarios** ( _index_ ), where _index_ is the scenario name or index numb
 Worksheets("options").Scenarios("typical").Show
 ```
 
+## Methods
+
+- [Add](Excel.Scenarios.Add.md)
+- [CreateSummary](Excel.Scenarios.CreateSummary.md)
+- [Item](Excel.Scenarios.Item.md)
+- [Merge](Excel.Scenarios.Merge.md)
+
+## Properties
+
+- [Application](Excel.Scenarios.Application.md)
+- [Count](Excel.Scenarios.Count.md)
+- [Creator](Excel.Scenarios.Creator.md)
+- [Parent](Excel.Scenarios.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

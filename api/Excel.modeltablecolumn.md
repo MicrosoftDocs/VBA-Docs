@@ -19,7 +19,16 @@ Represent a single column inside a [ModelTable object (Excel)](Excel.modeltable.
 
 The  **ModelTableColumn** object will be read only. The purpose of this object is for use in creating relationships programmatically.
 
+## Properties
+
+- [Application](Excel.modeltablecolumn.application.md)
+- [Creator](Excel.modeltablecolumn.creator.md)
+- [DataType](Excel.modeltablecolumn.datatype.md)
+- [Name](Excel.modeltablecolumn.name.md)
+- [Parent](Excel.modeltablecolumn.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

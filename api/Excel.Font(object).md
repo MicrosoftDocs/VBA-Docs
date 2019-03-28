@@ -34,32 +34,28 @@ Worksheets("Sheet1").Range("A1:C5").Font.Bold = True
 
 ## Properties
 
+- [Application](Excel.Font.Application.md)
+- [Background](Excel.Font.Background.md)
+- [Bold](Excel.Font.Bold.md)
+- [Color](Excel.Font.Color.md)
+- [ColorIndex](Excel.Font.ColorIndex.md)
+- [Creator](Excel.Font.Creator.md)
+- [FontStyle](Excel.Font.FontStyle.md)
+- [Italic](Excel.Font.Italic.md)
+- [Name](Excel.Font.Name.md)
+- [Parent](Excel.Font.Parent.md)
+- [Size](Excel.Font.Size.md)
+- [Strikethrough](Excel.Font.Strikethrough.md)
+- [Subscript](Excel.Font.Subscript.md)
+- [Superscript](Excel.Font.Superscript.md)
+- [ThemeColor](Excel.Font.ThemeColor.md)
+- [ThemeFont](Excel.Font.ThemeFont.md)
+- [TintAndShade](Excel.Font.TintAndShade.md)
+- [Underline](Excel.Font.Underline.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Font.Application.md)|
-|[Background](Excel.Font.Background.md)|
-|[Bold](Excel.Font.Bold.md)|
-|[Color](Excel.Font.Color.md)|
-|[ColorIndex](Excel.Font.ColorIndex.md)|
-|[Creator](Excel.Font.Creator.md)|
-|[FontStyle](Excel.Font.FontStyle.md)|
-|[Italic](Excel.Font.Italic.md)|
-|[Name](Excel.Font.Name.md)|
-|[Parent](Excel.Font.Parent.md)|
-|[Size](Excel.Font.Size.md)|
-|[Strikethrough](Excel.Font.Strikethrough.md)|
-|[Subscript](Excel.Font.Subscript.md)|
-|[Superscript](Excel.Font.Superscript.md)|
-|[ThemeColor](Excel.Font.ThemeColor.md)|
-|[ThemeFont](Excel.Font.ThemeFont.md)|
-|[TintAndShade](Excel.Font.TintAndShade.md)|
-|[Underline](Excel.Font.Underline.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

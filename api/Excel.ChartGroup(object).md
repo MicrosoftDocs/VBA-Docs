@@ -46,10 +46,53 @@ ActiveChart.ChartGroups(1).HasDropLines = True
 ```
 
 
+## Methods
+
+- [CategoryCollection](Excel.chartgroup.categorycollection.md)
+- [FullCategoryCollection](Excel.chartgroup.fullcategorycollection.md)
+- [SeriesCollection](Excel.ChartGroup.SeriesCollection.md)
+
+## Properties
+
+- [Application](Excel.ChartGroup.Application.md)
+- [AxisGroup](Excel.ChartGroup.AxisGroup.md)
+- [BinsCountValue](Excel.chartgroup.binscountvalue.md)
+- [BinsOverflowEnabled](Excel.chartgroup.binsoverflowenabled.md)
+- [BinsOverflowValue](Excel.chartgroup.binsoverflowvalue.md)
+- [BinsType](Excel.chartgroup.binstype.md)
+- [BinsUnderflowEnabled](Excel.chartgroup.binsunderflowenabled.md)
+- [BinsUnderflowValue](Excel.chartgroup.binsunderflowvalue.md)
+- [BinWidthValue](Excel.chartgroup.binwidthvalue.md)
+- [BubbleScale](Excel.ChartGroup.BubbleScale.md)
+- [Creator](Excel.ChartGroup.Creator.md)
+- [DoughnutHoleSize](Excel.ChartGroup.DoughnutHoleSize.md)
+- [DownBars](Excel.ChartGroup.DownBars.md)
+- [DropLines](Excel.ChartGroup.DropLines.md)
+- [FirstSliceAngle](Excel.ChartGroup.FirstSliceAngle.md)
+- [GapWidth](Excel.ChartGroup.GapWidth.md)
+- [Has3DShading](Excel.ChartGroup.Has3DShading.md)
+- [HasDropLines](Excel.ChartGroup.HasDropLines.md)
+- [HasHiLoLines](Excel.ChartGroup.HasHiLoLines.md)
+- [HasRadarAxisLabels](Excel.ChartGroup.HasRadarAxisLabels.md)
+- [HasSeriesLines](Excel.ChartGroup.HasSeriesLines.md)
+- [HasUpDownBars](Excel.ChartGroup.HasUpDownBars.md)
+- [HiLoLines](Excel.ChartGroup.HiLoLines.md)
+- [Index](Excel.ChartGroup.Index.md)
+- [Overlap](Excel.ChartGroup.Overlap.md)
+- [Parent](Excel.ChartGroup.Parent.md)
+- [RadarAxisLabels](Excel.ChartGroup.RadarAxisLabels.md)
+- [SecondPlotSize](Excel.ChartGroup.SecondPlotSize.md)
+- [SeriesLines](Excel.ChartGroup.SeriesLines.md)
+- [ShowNegativeBubbles](Excel.ChartGroup.ShowNegativeBubbles.md)
+- [SizeRepresents](Excel.ChartGroup.SizeRepresents.md)
+- [SplitType](Excel.ChartGroup.SplitType.md)
+- [SplitValue](Excel.ChartGroup.SplitValue.md)
+- [UpBars](Excel.ChartGroup.UpBars.md)
+- [VaryByCategories](Excel.ChartGroup.VaryByCategories.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

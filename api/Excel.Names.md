@@ -109,6 +109,17 @@ End With
 End Sub
 ```
 
+## Methods
+
+- [Add](Excel.Names.Add.md)
+- [Item](Excel.Names.Item.md)
+
+## Properties
+
+- [Application](Excel.Names.Application.md)
+- [Count](Excel.Names.Count.md)
+- [Creator](Excel.Names.Creator.md)
+- [Parent](Excel.Names.Parent.md)
 
 ### About the contributor
 
@@ -117,10 +128,6 @@ Dennis Wallentin is the author of VSTO & .NET & Excel, a blog that focuses on .N
 
 ## See also
 
-
-
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

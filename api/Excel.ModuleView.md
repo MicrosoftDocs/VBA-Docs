@@ -16,10 +16,15 @@ localization_priority: Normal
 
 This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
+## Properties
+
+- [Application](Excel.ModuleView.Application.md)
+- [Creator](Excel.ModuleView.Creator.md)
+- [Parent](Excel.ModuleView.Parent.md)
+- [Sheet](Excel.ModuleView.Sheet.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

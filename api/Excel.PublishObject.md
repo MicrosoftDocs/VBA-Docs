@@ -32,11 +32,27 @@ Workbooks(3).PublishObjects(1).FileName = _
  "\\myserver\public\finacct\statemnt.htm"
 ```
 
+## Methods
+
+- [Delete](Excel.PublishObject.Delete.md)
+- [Publish](Excel.PublishObject.Publish.md)
+
+## Properties
+
+- [Application](Excel.PublishObject.Application.md)
+- [AutoRepublish](Excel.PublishObject.AutoRepublish.md)
+- [Creator](Excel.PublishObject.Creator.md)
+- [DivID](Excel.PublishObject.DivID.md)
+- [Filename](Excel.PublishObject.Filename.md)
+- [HtmlType](Excel.PublishObject.HtmlType.md)
+- [Parent](Excel.PublishObject.Parent.md)
+- [Sheet](Excel.PublishObject.Sheet.md)
+- [Source](Excel.PublishObject.Source.md)
+- [SourceType](Excel.PublishObject.SourceType.md)
+- [Title](Excel.PublishObject.Title.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -34,10 +34,20 @@ For Each pf in ActiveSheet.PivotTables(1).PivotFormulas
 Next
 ```
 
+## Methods
+
+- [Add](Excel.PivotFormulas.Add.md)
+- [Item](Excel.PivotFormulas.Item.md)
+
+## Properties
+
+- [Application](Excel.PivotFormulas.Application.md)
+- [Count](Excel.PivotFormulas.Count.md)
+- [Creator](Excel.PivotFormulas.Creator.md)
+- [Parent](Excel.PivotFormulas.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

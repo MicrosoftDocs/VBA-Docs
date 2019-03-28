@@ -19,7 +19,7 @@ Returns or sets the command string for the specified data source.  **Variant** R
 
 _expression_. `CommandText`
 
-_expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
+_expression_ A variable that represents a **[ModelConnection](Excel.modelconnection.md)** object.
 
 
 ## Remarks

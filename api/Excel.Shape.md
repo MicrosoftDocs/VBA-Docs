@@ -112,96 +112,89 @@ ActiveWindow.Selection.ShapeRange(1).Fill.ForeColor.RGB = _
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Apply](Excel.Shape.Apply.md)|
-|[Copy](Excel.Shape.Copy.md)|
-|[CopyPicture](Excel.Shape.CopyPicture.md)|
-|[Cut](Excel.Shape.Cut.md)|
-|[Delete](Excel.Shape.Delete.md)|
-|[Duplicate](Excel.Shape.Duplicate.md)|
-|[Flip](Excel.Shape.Flip.md)|
-|[IncrementLeft](Excel.Shape.IncrementLeft.md)|
-|[IncrementRotation](Excel.Shape.IncrementRotation.md)|
-|[IncrementTop](Excel.Shape.IncrementTop.md)|
-|[PickUp](Excel.Shape.PickUp.md)|
-|[RerouteConnections](Excel.Shape.RerouteConnections.md)|
-|[ScaleHeight](Excel.Shape.ScaleHeight.md)|
-|[ScaleWidth](Excel.Shape.ScaleWidth.md)|
-|[Select](Excel.Shape.Select.md)|
-|[SetShapesDefaultProperties](Excel.Shape.SetShapesDefaultProperties.md)|
-|[Ungroup](Excel.Shape.Ungroup.md)|
-|[ZOrder](Excel.Shape.ZOrder.md)|
+- [Apply](Excel.Shape.Apply.md)
+- [Copy](Excel.Shape.Copy.md)
+- [CopyPicture](Excel.Shape.CopyPicture.md)
+- [Cut](Excel.Shape.Cut.md)
+- [Delete](Excel.Shape.Delete.md)
+- [Duplicate](Excel.Shape.Duplicate.md)
+- [Flip](Excel.Shape.Flip.md)
+- [IncrementLeft](Excel.Shape.IncrementLeft.md)
+- [IncrementRotation](Excel.Shape.IncrementRotation.md)
+- [IncrementTop](Excel.Shape.IncrementTop.md)
+- [PickUp](Excel.Shape.PickUp.md)
+- [RerouteConnections](Excel.Shape.RerouteConnections.md)
+- [ScaleHeight](Excel.Shape.ScaleHeight.md)
+- [ScaleWidth](Excel.Shape.ScaleWidth.md)
+- [Select](Excel.Shape.Select.md)
+- [SetShapesDefaultProperties](Excel.Shape.SetShapesDefaultProperties.md)
+- [Ungroup](Excel.Shape.Ungroup.md)
+- [ZOrder](Excel.Shape.ZOrder.md)
 
 ## Properties
 
+- [Adjustments](Excel.Shape.Adjustments.md)
+- [AlternativeText](Excel.Shape.AlternativeText.md)
+- [Application](Excel.Shape.Application.md)
+- [AutoShapeType](Excel.Shape.AutoShapeType.md)
+- [BackgroundStyle](Excel.Shape.BackgroundStyle.md)
+- [BlackWhiteMode](Excel.Shape.BlackWhiteMode.md)
+- [BottomRightCell](Excel.Shape.BottomRightCell.md)
+- [Callout](Excel.Shape.Callout.md)
+- [Chart](Excel.Shape.Chart.md)
+- [Child](Excel.Shape.Child.md)
+- [ConnectionSiteCount](Excel.Shape.ConnectionSiteCount.md)
+- [Connector](Excel.Shape.Connector.md)
+- [ConnectorFormat](Excel.Shape.ConnectorFormat.md)
+- [ControlFormat](Excel.Shape.ControlFormat.md)
+- [Creator](Excel.Shape.Creator.md)
+- [Fill](Excel.Shape.Fill.md)
+- [FormControlType](Excel.Shape.FormControlType.md)
+- [Glow](Excel.Shape.Glow.md)
+- [GroupItems](Excel.Shape.GroupItems.md)
+- [HasChart](Excel.Shape.HasChart.md)
+- [HasSmartArt](Excel.Shape.HasSmartArt.md)
+- [Height](Excel.Shape.Height.md)
+- [HorizontalFlip](Excel.Shape.HorizontalFlip.md)
+- [Hyperlink](Excel.Shape.Hyperlink.md)
+- [ID](Excel.Shape.ID.md)
+- [Left](Excel.Shape.Left.md)
+- [Line](Excel.Shape.Line.md)
+- [LinkFormat](Excel.Shape.LinkFormat.md)
+- [LockAspectRatio](Excel.Shape.LockAspectRatio.md)
+- [Locked](Excel.Shape.Locked.md)
+- [Name](Excel.Shape.Name.md)
+- [Nodes](Excel.Shape.Nodes.md)
+- [OLEFormat](Excel.Shape.OLEFormat.md)
+- [OnAction](Excel.Shape.OnAction.md)
+- [Parent](Excel.Shape.Parent.md)
+- [ParentGroup](Excel.Shape.ParentGroup.md)
+- [PictureFormat](Excel.Shape.PictureFormat.md)
+- [Placement](Excel.Shape.Placement.md)
+- [Reflection](Excel.Shape.Reflection.md)
+- [Rotation](Excel.Shape.Rotation.md)
+- [Shadow](Excel.Shape.Shadow.md)
+- [ShapeStyle](Excel.Shape.ShapeStyle.md)
+- [SmartArt](Excel.Shape.SmartArt.md)
+- [SoftEdge](Excel.Shape.SoftEdge.md)
+- [TextEffect](Excel.Shape.TextEffect.md)
+- [TextFrame](Excel.Shape.TextFrame.md)
+- [TextFrame2](Excel.Shape.TextFrame2.md)
+- [ThreeD](Excel.Shape.ThreeD.md)
+- [Title](Excel.Shape.Title.md)
+- [Top](Excel.Shape.Top.md)
+- [TopLeftCell](Excel.Shape.TopLeftCell.md)
+- [Type](Excel.Shape.Type.md)
+- [VerticalFlip](Excel.Shape.VerticalFlip.md)
+- [Vertices](Excel.Shape.Vertices.md)
+- [Visible](Excel.Shape.Visible.md)
+- [Width](Excel.Shape.Width.md)
+- [ZOrderPosition](Excel.Shape.ZOrderPosition.md)
 
 
-|Name|
-|:-----|
-|[Adjustments](Excel.Shape.Adjustments.md)|
-|[AlternativeText](Excel.Shape.AlternativeText.md)|
-|[Application](Excel.Shape.Application.md)|
-|[AutoShapeType](Excel.Shape.AutoShapeType.md)|
-|[BackgroundStyle](Excel.Shape.BackgroundStyle.md)|
-|[BlackWhiteMode](Excel.Shape.BlackWhiteMode.md)|
-|[BottomRightCell](Excel.Shape.BottomRightCell.md)|
-|[Callout](Excel.Shape.Callout.md)|
-|[Chart](Excel.Shape.Chart.md)|
-|[Child](Excel.Shape.Child.md)|
-|[ConnectionSiteCount](Excel.Shape.ConnectionSiteCount.md)|
-|[Connector](Excel.Shape.Connector.md)|
-|[ConnectorFormat](Excel.Shape.ConnectorFormat.md)|
-|[ControlFormat](Excel.Shape.ControlFormat.md)|
-|[Creator](Excel.Shape.Creator.md)|
-|[Fill](Excel.Shape.Fill.md)|
-|[FormControlType](Excel.Shape.FormControlType.md)|
-|[Glow](Excel.Shape.Glow.md)|
-|[GroupItems](Excel.Shape.GroupItems.md)|
-|[HasChart](Excel.Shape.HasChart.md)|
-|[HasSmartArt](Excel.Shape.HasSmartArt.md)|
-|[Height](Excel.Shape.Height.md)|
-|[HorizontalFlip](Excel.Shape.HorizontalFlip.md)|
-|[Hyperlink](Excel.Shape.Hyperlink.md)|
-|[ID](Excel.Shape.ID.md)|
-|[Left](Excel.Shape.Left.md)|
-|[Line](Excel.Shape.Line.md)|
-|[LinkFormat](Excel.Shape.LinkFormat.md)|
-|[LockAspectRatio](Excel.Shape.LockAspectRatio.md)|
-|[Locked](Excel.Shape.Locked.md)|
-|[Name](Excel.Shape.Name.md)|
-|[Nodes](Excel.Shape.Nodes.md)|
-|[OLEFormat](Excel.Shape.OLEFormat.md)|
-|[OnAction](Excel.Shape.OnAction.md)|
-|[Parent](Excel.Shape.Parent.md)|
-|[ParentGroup](Excel.Shape.ParentGroup.md)|
-|[PictureFormat](Excel.Shape.PictureFormat.md)|
-|[Placement](Excel.Shape.Placement.md)|
-|[Reflection](Excel.Shape.Reflection.md)|
-|[Rotation](Excel.Shape.Rotation.md)|
-|[Shadow](Excel.Shape.Shadow.md)|
-|[ShapeStyle](Excel.Shape.ShapeStyle.md)|
-|[SmartArt](Excel.Shape.SmartArt.md)|
-|[SoftEdge](Excel.Shape.SoftEdge.md)|
-|[TextEffect](Excel.Shape.TextEffect.md)|
-|[TextFrame](Excel.Shape.TextFrame.md)|
-|[TextFrame2](Excel.Shape.TextFrame2.md)|
-|[ThreeD](Excel.Shape.ThreeD.md)|
-|[Title](Excel.Shape.Title.md)|
-|[Top](Excel.Shape.Top.md)|
-|[TopLeftCell](Excel.Shape.TopLeftCell.md)|
-|[Type](Excel.Shape.Type.md)|
-|[VerticalFlip](Excel.Shape.VerticalFlip.md)|
-|[Vertices](Excel.Shape.Vertices.md)|
-|[Visible](Excel.Shape.Visible.md)|
-|[Width](Excel.Shape.Width.md)|
-|[ZOrderPosition](Excel.Shape.ZOrderPosition.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

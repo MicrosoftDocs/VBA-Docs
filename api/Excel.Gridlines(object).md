@@ -37,11 +37,22 @@ With Charts("chart1").Axes(xlCategory)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.Gridlines.Delete.md)
+- [Select](Excel.Gridlines.Select.md)
+
+## Properties
+
+- [Application](Excel.Gridlines.Application.md)
+- [Border](Excel.Gridlines.Border.md)
+- [Creator](Excel.Gridlines.Creator.md)
+- [Format](Excel.Gridlines.Format.md)
+- [Name](Excel.Gridlines.Name.md)
+- [Parent](Excel.Gridlines.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

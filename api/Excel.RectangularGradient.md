@@ -27,11 +27,19 @@ The  **RectangularGradient** object transitions through a series of colors in a 
 
  **Note**  Some things to consider when working with RectangularGradient objects
 
+## Properties
+
+- [Application](Excel.RectangularGradient.Application.md)
+- [ColorStops](Excel.RectangularGradient.ColorStops.md)
+- [Creator](Excel.RectangularGradient.Creator.md)
+- [Parent](Excel.RectangularGradient.Parent.md)
+- [RectangleBottom](Excel.RectangularGradient.RectangleBottom.md)
+- [RectangleLeft](Excel.RectangularGradient.RectangleLeft.md)
+- [RectangleRight](Excel.RectangularGradient.RectangleRight.md)
+- [RectangleTop](Excel.RectangularGradient.RectangleTop.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

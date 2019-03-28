@@ -21,10 +21,31 @@ A PivotFilter is applied to a  **PivotField** object.
 
 Developers have the option of naming filters for reference since the index is not reliable. The  **DataField** property specifies the PivotField to base a value filter on.
 
+## Methods
+
+- [Delete](Excel.PivotFilter.Delete.md)
+
+## Properties
+
+- [Active](Excel.PivotFilter.Active.md)
+- [Application](Excel.pivotFilter.Application.md)
+- [Creator](Excel.pivotFilter.Creator.md)
+- [DataCubeField](Excel.PivotFilter.DataCubeField.md)
+- [DataField](Excel.PivotFilter.DataField.md)
+- [Description](Excel.PivotFilter.Description.md)
+- [FilterType](Excel.PivotFilter.FilterType.md)
+- [IsMemberPropertyFilter](Excel.PivotFilter.IsMemberPropertyFilter.md)
+- [MemberPropertyField](Excel.PivotFilter.MemberPropertyField.md)
+- [Name](Excel.PivotFilter.Name.md)
+- [Order](Excel.PivotFilter.Order.md)
+- [Parent](Excel.pivotFilter.Parent.md)
+- [PivotField](Excel.PivotFilter.PivotField.md)
+- [Value1](Excel.PivotFilter.Value1.md)
+- [Value2](Excel.PivotFilter.Value2.md)
+- [WholeDayFilter](Excel.pivotfilter.wholedayfilter.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

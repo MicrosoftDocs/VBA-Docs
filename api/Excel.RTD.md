@@ -21,11 +21,17 @@ Represents a real-time data object.
 
 Use the  **[RTD](Excel.Application.RTD.md)** property of the **[Application](Excel.Application(object).md)** object to return a **RTD** object.
 
+## Methods
+
+- [RefreshData](Excel.RTD.RefreshData.md)
+- [RestartServers](Excel.RTD.RestartServers.md)
+
+## Properties
+
+- [ThrottleInterval](Excel.RTD.ThrottleInterval.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

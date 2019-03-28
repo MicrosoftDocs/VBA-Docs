@@ -62,10 +62,40 @@ End Sub
 ```
 
 
+## Methods
+
+- [Delete](Excel.Databar.Delete.md)
+- [ModifyAppliesToRange](Excel.Databar.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.Databar.SetFirstPriority.md)
+- [SetLastPriority](Excel.Databar.SetLastPriority.md)
+
+## Properties
+
+- [Application](Excel.Databar.Application.md)
+- [AppliesTo](Excel.Databar.AppliesTo.md)
+- [AxisColor](Excel.Databar.AxisColor.md)
+- [AxisPosition](Excel.Databar.AxisPosition.md)
+- [BarBorder](Excel.Databar.BarBorder.md)
+- [BarColor](Excel.Databar.BarColor.md)
+- [BarFillType](Excel.Databar.BarFillType.md)
+- [Creator](Excel.Databar.Creator.md)
+- [Direction](Excel.Databar.Direction.md)
+- [Formula](Excel.Databar.Formula.md)
+- [MaxPoint](Excel.Databar.MaxPoint.md)
+- [MinPoint](Excel.Databar.MinPoint.md)
+- [NegativeBarFormat](Excel.Databar.NegativeBarFormat.md)
+- [Parent](Excel.Databar.Parent.md)
+- [PercentMax](Excel.Databar.PercentMax.md)
+- [PercentMin](Excel.Databar.PercentMin.md)
+- [Priority](Excel.Databar.Priority.md)
+- [PTCondition](Excel.Databar.PTCondition.md)
+- [ScopeType](Excel.Databar.ScopeType.md)
+- [ShowValue](Excel.Databar.ShowValue.md)
+- [StopIfTrue](Excel.Databar.StopIfTrue.md)
+- [Type](Excel.Databar.Type.md)
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

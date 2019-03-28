@@ -43,10 +43,20 @@ With myDocument.Shapes
 End With
 ```
 
+## Methods
+
+- [Item](Excel.GroupShapes.Item.md)
+
+## Properties
+
+- [Application](Excel.GroupShapes.Application.md)
+- [Count](Excel.GroupShapes.Count.md)
+- [Creator](Excel.GroupShapes.Creator.md)
+- [Parent](Excel.GroupShapes.Parent.md)
+- [Range](Excel.GroupShapes.Range.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

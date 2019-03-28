@@ -24,7 +24,7 @@ Use the  **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the [Work
 
 ## Example
 
- The following example creates a new **ListObjects** collection which represents all the tables in a worksheet.
+The following example creates a new **ListObjects** collection which represents all the tables in a worksheet.
 
 
 ```vb
@@ -34,27 +34,19 @@ Set myWorksheetLists = Worksheets(1).ListObjects
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.ListObjects.Add.md)|
+- [Add](Excel.ListObjects.Add.md)
 
 ## Properties
 
+- [Application](Excel.ListObjects.Application.md)
+- [Count](Excel.ListObjects.Count.md)
+- [Creator](Excel.ListObjects.Creator.md)
+- [Item](Excel.ListObjects.Item.md)
+- [Parent](Excel.ListObjects.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.ListObjects.Application.md)|
-|[Count](Excel.ListObjects.Count.md)|
-|[Creator](Excel.ListObjects.Creator.md)|
-|[Item](Excel.ListObjects.Item.md)|
-|[Parent](Excel.ListObjects.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

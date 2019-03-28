@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelRelationship.ForeignKeyColumn property (Excel)
 
-Contains the [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) representing the foreign key column on the many side of the one-to-many relationship. Read-only
+Contains the [ModelTableColumn](Excel.modeltablecolumn.md) object representing the foreign key column on the many side of the one-to-many relationship. Read-only
 
 
 ## Syntax
 
 _expression_. `ForeignKeyColumn`
 
-_expression_ A variable that represents a [ModelRelationship object (Excel)](Excel.modelrelationship.md) object.
+_expression_ A variable that represents a **[ModelRelationship](Excel.modelrelationship.md)** object.
 
 
 ## Property value

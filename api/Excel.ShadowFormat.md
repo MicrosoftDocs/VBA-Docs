@@ -39,10 +39,30 @@ With myDocument.Shapes.AddShape(msoShapeRectangle, _
 End With
 ```
 
+## Methods
+
+- [IncrementOffsetX](Excel.ShadowFormat.IncrementOffsetX.md)
+- [IncrementOffsetY](Excel.ShadowFormat.IncrementOffsetY.md)
+
+## Properties
+
+- [Application](Excel.ShadowFormat.Application.md)
+- [Blur](Excel.ShadowFormat.Blur.md)
+- [Creator](Excel.ShadowFormat.Creator.md)
+- [ForeColor](Excel.ShadowFormat.ForeColor.md)
+- [Obscured](Excel.ShadowFormat.Obscured.md)
+- [OffsetX](Excel.ShadowFormat.OffsetX.md)
+- [OffsetY](Excel.ShadowFormat.OffsetY.md)
+- [Parent](Excel.ShadowFormat.Parent.md)
+- [RotateWithShape](Excel.ShadowFormat.RotateWithShape.md)
+- [Size](Excel.ShadowFormat.Size.md)
+- [Style](Excel.ShadowFormat.Style.md)
+- [Transparency](Excel.ShadowFormat.Transparency.md)
+- [Type](Excel.ShadowFormat.Type.md)
+- [Visible](Excel.ShadowFormat.Visible.md)
 
 ## See also
 
-
-[Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](./overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

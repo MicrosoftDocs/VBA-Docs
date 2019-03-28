@@ -40,37 +40,29 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[ClearFormats](Excel.PlotArea.ClearFormats.md)|
-|[Select](Excel.PlotArea.Select.md)|
+- [ClearFormats](Excel.PlotArea.ClearFormats.md)
+- [Select](Excel.PlotArea.Select.md)
 
 ## Properties
 
+- [Application](Excel.PlotArea.Application.md)
+- [Creator](Excel.PlotArea.Creator.md)
+- [Format](Excel.PlotArea.Format.md)
+- [Height](Excel.PlotArea.Height.md)
+- [InsideHeight](Excel.PlotArea.InsideHeight.md)
+- [InsideLeft](Excel.PlotArea.InsideLeft.md)
+- [InsideTop](Excel.PlotArea.InsideTop.md)
+- [InsideWidth](Excel.PlotArea.InsideWidth.md)
+- [Left](Excel.PlotArea.Left.md)
+- [Name](Excel.PlotArea.Name.md)
+- [Parent](Excel.PlotArea.Parent.md)
+- [Position](Excel.PlotArea.Position.md)
+- [Top](Excel.PlotArea.Top.md)
+- [Width](Excel.PlotArea.Width.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PlotArea.Application.md)|
-|[Creator](Excel.PlotArea.Creator.md)|
-|[Format](Excel.PlotArea.Format.md)|
-|[Height](Excel.PlotArea.Height.md)|
-|[InsideHeight](Excel.PlotArea.InsideHeight.md)|
-|[InsideLeft](Excel.PlotArea.InsideLeft.md)|
-|[InsideTop](Excel.PlotArea.InsideTop.md)|
-|[InsideWidth](Excel.PlotArea.InsideWidth.md)|
-|[Left](Excel.PlotArea.Left.md)|
-|[Name](Excel.PlotArea.Name.md)|
-|[Parent](Excel.PlotArea.Parent.md)|
-|[Position](Excel.PlotArea.Position.md)|
-|[Top](Excel.PlotArea.Top.md)|
-|[Width](Excel.PlotArea.Width.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -43,32 +43,24 @@ End Sub
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.ListColumn.Delete.md)|
+- [Delete](Excel.ListColumn.Delete.md)
 
 ## Properties
 
+- [Application](Excel.ListColumn.Application.md)
+- [Creator](Excel.ListColumn.Creator.md)
+- [DataBodyRange](Excel.ListColumn.DataBodyRange.md)
+- [Index](Excel.ListColumn.Index.md)
+- [Name](Excel.ListColumn.Name.md)
+- [Parent](Excel.ListColumn.Parent.md)
+- [Range](Excel.ListColumn.Range.md)
+- [Total](Excel.ListColumn.Total.md)
+- [TotalsCalculation](Excel.ListColumn.TotalsCalculation.md)
+- [XPath](Excel.ListColumn.XPath.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.ListColumn.Application.md)|
-|[Creator](Excel.ListColumn.Creator.md)|
-|[DataBodyRange](Excel.ListColumn.DataBodyRange.md)|
-|[Index](Excel.ListColumn.Index.md)|
-|[Name](Excel.ListColumn.Name.md)|
-|[Parent](Excel.ListColumn.Parent.md)|
-|[Range](Excel.ListColumn.Range.md)|
-|[Total](Excel.ListColumn.Total.md)|
-|[TotalsCalculation](Excel.ListColumn.TotalsCalculation.md)|
-|[XPath](Excel.ListColumn.XPath.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

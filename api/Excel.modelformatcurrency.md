@@ -14,7 +14,16 @@ localization_priority: Normal
 
 Represents the format to be used for a model measure in the data model.
 
+## Properties
+
+- [Application](Excel.modelformatcurrency.application.md)
+- [Creator](Excel.modelformatcurrency.creator.md)
+- [DecimalPlaces](Excel.modelformatcurrency.decimalplaces.md)
+- [Parent](Excel.modelformatcurrency.parent.md)
+- [Symbol](Excel.modelformatcurrency.symbol.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

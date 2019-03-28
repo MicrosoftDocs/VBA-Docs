@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelMeasureNames.Item method (Excel)
 
-Returns a single object from the [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
+Returns a single object from the **ModelMeasureNames** object.
 
 
 ## Syntax
 
 _expression_. `Item`_(Index)_
 
-_expression_ A variable that represents a [ModelMeasureNames object (Excel)](Excel.modelmeasurenames.md) object.
+_expression_ A variable that represents a **[ModelMeasureNames](Excel.modelmeasurenames.md)** object.
 
 
 ## Parameters
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [ModelMeasureNames object (Excel)](Exc
 
 ## Return value
 
-A [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object contained in the collection.
+A [ModelMeasureName](Excel.modelmeasurename.md) object contained in the collection.
 
 
 ## See also

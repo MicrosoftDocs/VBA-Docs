@@ -12,29 +12,26 @@ localization_priority: Normal
 
 # ListObject.TableObject property (Excel)
 
-Returns a [TableObject object (Excel)](Excel.tableobject.md) object. Read-only
+Returns a **[TableObject](Excel.tableobject.md)** object. Read-only.
 
 
 ## Syntax
 
-_expression_. `TableObject`
+_expression_.**TableObject**
 
-_expression_ A variable that represents a [ListObject](Excel.ListObject.md) object.
+_expression_ A variable that represents a **[ListObject](Excel.ListObject.md)**object.
 
 
 ## Remarks
 
-The  **TableObject** object is a worksheet table built from data returned from a PowerPivot model.
+The **TableObject** object is a worksheet table built from data returned from a PowerPivot model.
 
 
 ## Property value
 
- **TABLEOBJECT**
+**TABLEOBJECT**
 
 
-## See also
 
-
-[ListObject Object](Excel.ListObject.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

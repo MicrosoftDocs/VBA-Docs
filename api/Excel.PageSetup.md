@@ -53,62 +53,58 @@ End With
 
 ## Properties
 
+- [AlignMarginsHeaderFooter](Excel.PageSetup.AlignMarginsHeaderFooter.md)
+- [Application](Excel.PageSetup.Application.md)
+- [BlackAndWhite](Excel.PageSetup.BlackAndWhite.md)
+- [BottomMargin](Excel.PageSetup.BottomMargin.md)
+- [CenterFooter](Excel.PageSetup.CenterFooter.md)
+- [CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)
+- [CenterHeader](Excel.PageSetup.CenterHeader.md)
+- [CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)
+- [CenterHorizontally](Excel.PageSetup.CenterHorizontally.md)
+- [CenterVertically](Excel.PageSetup.CenterVertically.md)
+- [Creator](Excel.PageSetup.Creator.md)
+- [DifferentFirstPageHeaderFooter](Excel.PageSetup.DifferentFirstPageHeaderFooter.md)
+- [Draft](Excel.PageSetup.Draft.md)
+- [EvenPage](Excel.PageSetup.EvenPage.md)
+- [FirstPage](Excel.PageSetup.FirstPage.md)
+- [FirstPageNumber](Excel.PageSetup.FirstPageNumber.md)
+- [FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)
+- [FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)
+- [FooterMargin](Excel.PageSetup.FooterMargin.md)
+- [HeaderMargin](Excel.PageSetup.HeaderMargin.md)
+- [LeftFooter](Excel.PageSetup.LeftFooter.md)
+- [LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)
+- [LeftHeader](Excel.PageSetup.LeftHeader.md)
+- [LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)
+- [LeftMargin](Excel.PageSetup.LeftMargin.md)
+- [OddAndEvenPagesHeaderFooter](Excel.PageSetup.OddAndEvenPagesHeaderFooter.md)
+- [Order](Excel.PageSetup.Order.md)
+- [Orientation](Excel.PageSetup.Orientation.md)
+- [Pages](Excel.PageSetup.Pages.md)
+- [PaperSize](Excel.PageSetup.PaperSize.md)
+- [Parent](Excel.PageSetup.Parent.md)
+- [PrintArea](Excel.PageSetup.PrintArea.md)
+- [PrintComments](Excel.PageSetup.PrintComments.md)
+- [PrintErrors](Excel.PageSetup.PrintErrors.md)
+- [PrintGridlines](Excel.PageSetup.PrintGridlines.md)
+- [PrintHeadings](Excel.PageSetup.PrintHeadings.md)
+- [PrintNotes](Excel.PageSetup.PrintNotes.md)
+- [PrintQuality](Excel.PageSetup.PrintQuality.md)
+- [PrintTitleColumns](Excel.PageSetup.PrintTitleColumns.md)
+- [PrintTitleRows](Excel.PageSetup.PrintTitleRows.md)
+- [RightFooter](Excel.PageSetup.RightFooter.md)
+- [RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)
+- [RightHeader](Excel.PageSetup.RightHeader.md)
+- [RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)
+- [RightMargin](Excel.PageSetup.RightMargin.md)
+- [ScaleWithDocHeaderFooter](Excel.PageSetup.ScaleWithDocHeaderFooter.md)
+- [TopMargin](Excel.PageSetup.TopMargin.md)
+- [Zoom](Excel.PageSetup.Zoom.md)
 
-
-|Name|
-|:-----|
-|[AlignMarginsHeaderFooter](Excel.PageSetup.AlignMarginsHeaderFooter.md)|
-|[Application](Excel.PageSetup.Application.md)|
-|[BlackAndWhite](Excel.PageSetup.BlackAndWhite.md)|
-|[BottomMargin](Excel.PageSetup.BottomMargin.md)|
-|[CenterFooter](Excel.PageSetup.CenterFooter.md)|
-|[CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)|
-|[CenterHeader](Excel.PageSetup.CenterHeader.md)|
-|[CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)|
-|[CenterHorizontally](Excel.PageSetup.CenterHorizontally.md)|
-|[CenterVertically](Excel.PageSetup.CenterVertically.md)|
-|[Creator](Excel.PageSetup.Creator.md)|
-|[DifferentFirstPageHeaderFooter](Excel.PageSetup.DifferentFirstPageHeaderFooter.md)|
-|[Draft](Excel.PageSetup.Draft.md)|
-|[EvenPage](Excel.PageSetup.EvenPage.md)|
-|[FirstPage](Excel.PageSetup.FirstPage.md)|
-|[FirstPageNumber](Excel.PageSetup.FirstPageNumber.md)|
-|[FitToPagesTall](Excel.PageSetup.FitToPagesTall.md)|
-|[FitToPagesWide](Excel.PageSetup.FitToPagesWide.md)|
-|[FooterMargin](Excel.PageSetup.FooterMargin.md)|
-|[HeaderMargin](Excel.PageSetup.HeaderMargin.md)|
-|[LeftFooter](Excel.PageSetup.LeftFooter.md)|
-|[LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)|
-|[LeftHeader](Excel.PageSetup.LeftHeader.md)|
-|[LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)|
-|[LeftMargin](Excel.PageSetup.LeftMargin.md)|
-|[OddAndEvenPagesHeaderFooter](Excel.PageSetup.OddAndEvenPagesHeaderFooter.md)|
-|[Order](Excel.PageSetup.Order.md)|
-|[Orientation](Excel.PageSetup.Orientation.md)|
-|[Pages](Excel.PageSetup.Pages.md)|
-|[PaperSize](Excel.PageSetup.PaperSize.md)|
-|[Parent](Excel.PageSetup.Parent.md)|
-|[PrintArea](Excel.PageSetup.PrintArea.md)|
-|[PrintComments](Excel.PageSetup.PrintComments.md)|
-|[PrintErrors](Excel.PageSetup.PrintErrors.md)|
-|[PrintGridlines](Excel.PageSetup.PrintGridlines.md)|
-|[PrintHeadings](Excel.PageSetup.PrintHeadings.md)|
-|[PrintNotes](Excel.PageSetup.PrintNotes.md)|
-|[PrintQuality](Excel.PageSetup.PrintQuality.md)|
-|[PrintTitleColumns](Excel.PageSetup.PrintTitleColumns.md)|
-|[PrintTitleRows](Excel.PageSetup.PrintTitleRows.md)|
-|[RightFooter](Excel.PageSetup.RightFooter.md)|
-|[RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)|
-|[RightHeader](Excel.PageSetup.RightHeader.md)|
-|[RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)|
-|[RightMargin](Excel.PageSetup.RightMargin.md)|
-|[ScaleWithDocHeaderFooter](Excel.PageSetup.ScaleWithDocHeaderFooter.md)|
-|[TopMargin](Excel.PageSetup.TopMargin.md)|
-|[Zoom](Excel.PageSetup.Zoom.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

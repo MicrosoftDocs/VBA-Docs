@@ -21,10 +21,17 @@ Represents an interface for a real-time data server.
 
 The  **IRTDServer** object can be instantiated or created only by implementing the **IRTDServer** interface using the **Implements** keyword.
 
+## Methods
+
+- [ConnectData](Excel.IRtdServer.ConnectData.md)
+- [DisconnectData](Excel.IRtdServer.DisconnectData.md)
+- [Heartbeat](Excel.IRtdServer.Heartbeat.md)
+- [RefreshData](Excel.IRtdServer.RefreshData.md)
+- [ServerStart](Excel.IRtdServer.ServerStart.md)
+- [ServerTerminate](Excel.IRtdServer.ServerTerminate.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

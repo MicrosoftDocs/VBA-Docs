@@ -48,22 +48,18 @@ w.Cells.AutoFilter field:=2, Criteria1:="Crucial", _
 
 ## Properties
 
+- [Application](Excel.Filter.Application.md)
+- [Count](Excel.Filter.Count.md)
+- [Creator](Excel.Filter.Creator.md)
+- [Criteria1](Excel.Filter.Criteria1.md)
+- [Criteria2](Excel.Filter.Criteria2.md)
+- [On](Excel.Filter.On.md)
+- [Operator](Excel.Filter.Operator.md)
+- [Parent](Excel.Filter.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Filter.Application.md)|
-|[Count](Excel.Filter.Count.md)|
-|[Creator](Excel.Filter.Creator.md)|
-|[Criteria1](Excel.Filter.Criteria1.md)|
-|[Criteria2](Excel.Filter.Criteria2.md)|
-|[On](Excel.Filter.On.md)|
-|[Operator](Excel.Filter.Operator.md)|
-|[Parent](Excel.Filter.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

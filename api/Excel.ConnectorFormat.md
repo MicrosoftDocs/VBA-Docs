@@ -86,9 +86,29 @@ End With
 ```
 
 
+## Methods
+
+- [BeginConnect](Excel.ConnectorFormat.BeginConnect.md)
+- [BeginDisconnect](Excel.ConnectorFormat.BeginDisconnect.md)
+- [EndConnect](Excel.ConnectorFormat.EndConnect.md)
+- [EndDisconnect](Excel.ConnectorFormat.EndDisconnect.md)
+
+## Properties
+
+- [Application](Excel.ConnectorFormat.Application.md)
+- [BeginConnected](Excel.ConnectorFormat.BeginConnected.md)
+- [BeginConnectedShape](Excel.ConnectorFormat.BeginConnectedShape.md)
+- [BeginConnectionSite](Excel.ConnectorFormat.BeginConnectionSite.md)
+- [Creator](Excel.ConnectorFormat.Creator.md)
+- [EndConnected](Excel.ConnectorFormat.EndConnected.md)
+- [EndConnectedShape](Excel.ConnectorFormat.EndConnectedShape.md)
+- [EndConnectionSite](Excel.ConnectorFormat.EndConnectionSite.md)
+- [Parent](Excel.ConnectorFormat.Parent.md)
+- [Type](Excel.ConnectorFormat.Type.md)
+
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

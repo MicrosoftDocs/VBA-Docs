@@ -24,7 +24,20 @@ This sample illustrates using the [QuickAnalysis.Hide method (Excel)](Excel.quic
 ActiveWorksheet.QuickAnalysis.Hide(1)
 ```
 
+## Methods
+
+- [Hide](Excel.quickanalysis.hide.md)
+- [Show](Excel.quickanalysis.show.md)
+
+## Properties
+
+- [Application](Excel.quickanalysis.application.md)
+- [Creator](Excel.quickanalysis.creator.md)
+- [Parent](Excel.quickanalysis.parent.md)
+
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

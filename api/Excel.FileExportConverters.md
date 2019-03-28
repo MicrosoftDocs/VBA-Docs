@@ -42,10 +42,17 @@ The index number represents the position of the file converter in the  **FileExp
 MsgBox FileExportConverters(1).Description
 ```
 
+## Properties
+
+- [Application](Excel.FileExportConverters.Application.md)
+- [Count](Excel.FileExportConverters.Count.md)
+- [Creator](Excel.FileExportConverters.Creator.md)
+- [Item](Excel.FileExportConverters.Item.md)
+- [Parent](Excel.FileExportConverters.Parent.md)
+
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

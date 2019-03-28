@@ -45,11 +45,20 @@ MsgBox "The following error occurred:" & _
  objEr.ErrorString & " : " & objEr.SqlState
 ```
 
+## Methods
+
+- [Item](Excel.OLEDBErrors.Item.md)
+
+## Properties
+
+- [Application](Excel.OledbErrors.Application.md)
+- [Count](Excel.OLEDBErrors.Count.md)
+- [Creator](Excel.OledbErrors.Creator.md)
+- [Parent](Excel.OledbErrors.Parent.md)
+
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

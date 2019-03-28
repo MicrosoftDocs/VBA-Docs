@@ -34,27 +34,19 @@ Set myNewRow = Worksheets(1).ListObject(0).ListRows.Add
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.ListRows.Add.md)|
+- [Add](Excel.ListRows.Add.md)
 
 ## Properties
 
+- [Application](Excel.ListRows.Application.md)
+- [Count](Excel.ListRows.Count.md)
+- [Creator](Excel.ListRows.Creator.md)
+- [Item](Excel.ListRows.Item.md)
+- [Parent](Excel.ListRows.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.ListRows.Application.md)|
-|[Count](Excel.ListRows.Count.md)|
-|[Creator](Excel.ListRows.Creator.md)|
-|[Item](Excel.ListRows.Item.md)|
-|[Parent](Excel.ListRows.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

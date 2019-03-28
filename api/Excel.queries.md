@@ -12,40 +12,24 @@ localization_priority: Normal
 
 # Queries object (Excel)
 
-The collection of [WorkbookQuery](Excel.workbookquery.md) objects Introduced in Office 2016.
-
+The collection of [WorkbookQuery](Excel.workbookquery.md) objects introduced in Office 2016.
 
 ## Methods
-<a name="methods"> </a>
 
-
-|
-|
-|Name|
-|:-----|
-|[Add](Excel.queries.add.md)|
-|[Item](Excel.queries.item.md)|
+- [Add](Excel.queries.add.md)
+- [Item](Excel.queries.item.md)
 
 ## Properties
-<a name="properties"> </a>
 
+- [Application](Excel.queries.application.md)
+- [Count](Excel.queries.count.md)
+- [Creator](Excel.queries.creator.md)
+- [FastCombine](Excel.queries.fastcombine.md)
+- [Parent](Excel.queries.parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.queries.application.md)|
-|[Count](Excel.queries.count.md)|
-|[Creator](Excel.queries.creator.md)|
-|[FastCombine](Excel.queries.fastcombine.md)|
-|[Parent](Excel.queries.parent.md)|
 
 ## See also
-<a name="properties"> </a>
 
-
-
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

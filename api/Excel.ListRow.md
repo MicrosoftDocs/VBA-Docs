@@ -41,27 +41,19 @@ Set oListRow = wrksht.ListObjects(1).ListRows.Add
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Delete](Excel.ListRow.Delete.md)|
+- [Delete](Excel.ListRow.Delete.md)
 
 ## Properties
 
+- [Application](Excel.ListRow.Application.md)
+- [Creator](Excel.ListRow.Creator.md)
+- [Index](Excel.ListRow.Index.md)
+- [Parent](Excel.ListRow.Parent.md)
+- [Range](Excel.ListRow.Range.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.ListRow.Application.md)|
-|[Creator](Excel.ListRow.Creator.md)|
-|[Index](Excel.ListRow.Index.md)|
-|[Parent](Excel.ListRow.Parent.md)|
-|[Range](Excel.ListRow.Range.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

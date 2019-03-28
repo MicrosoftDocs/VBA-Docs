@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelMeasureName.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object. Read-only.
+Returns an **Object** that represents the parent object of the specified **ModelMeasureName** object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) object.
+_expression_ A variable that represents a **[ModelMeasureName](Excel.modelmeasurename.md)** object.
 
 
 ## Property value
@@ -27,10 +27,5 @@ _expression_ A variable that represents a [ModelMeasureName object (Excel)](Exce
  **OBJECT**
 
 
-## See also
-
-
-
-[ModelMeasureName Object](Excel.modelmeasurename.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -47,28 +47,20 @@ End With
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add](Excel.Hyperlinks.Add.md)|
-|[Delete](Excel.Hyperlinks.Delete.md)|
+- [Add](Excel.Hyperlinks.Add.md)
+- [Delete](Excel.Hyperlinks.Delete.md)
 
 ## Properties
 
+- [Application](Excel.Hyperlinks.Application.md)
+- [Count](Excel.Hyperlinks.Count.md)
+- [Creator](Excel.Hyperlinks.Creator.md)
+- [Item](Excel.Hyperlinks.Item.md)
+- [Parent](Excel.Hyperlinks.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Hyperlinks.Application.md)|
-|[Count](Excel.Hyperlinks.Count.md)|
-|[Creator](Excel.Hyperlinks.Creator.md)|
-|[Item](Excel.Hyperlinks.Item.md)|
-|[Parent](Excel.Hyperlinks.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

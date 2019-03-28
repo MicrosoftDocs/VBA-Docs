@@ -31,10 +31,22 @@ Use  **[PivotFormulas](Excel.PivotTable.PivotFormulas.md)** ( _index_ ), where _
 Worksheets(1).PivotTables(1).PivotFormulas(1).Index = 2
 ```
 
+## Methods
+
+- [Delete](Excel.PivotFormula.Delete.md)
+
+## Properties
+
+- [Application](Excel.PivotFormula.Application.md)
+- [Creator](Excel.PivotFormula.Creator.md)
+- [Formula](Excel.PivotFormula.Formula.md)
+- [Index](Excel.PivotFormula.Index.md)
+- [Parent](Excel.PivotFormula.Parent.md)
+- [StandardFormula](Excel.PivotFormula.StandardFormula.md)
+- [Value](Excel.PivotFormula.Value.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -38,11 +38,22 @@ With Worksheets(1).ChartObjects(1).Chart.SeriesCollection(1)
 End With
 ```
 
+## Methods
+
+- [Delete](Excel.LeaderLines.Delete.md)
+- [Select](Excel.LeaderLines.Select.md)
+
+## Properties
+
+- [Application](Excel.LeaderLines.Application.md)
+- [Border](Excel.LeaderLines.Border.md)
+- [Creator](Excel.LeaderLines.Creator.md)
+- [Format](Excel.LeaderLines.Format.md)
+- [Parent](Excel.LeaderLines.Parent.md)
+
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

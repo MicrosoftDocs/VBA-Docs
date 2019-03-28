@@ -43,61 +43,53 @@ ActiveWorkbook.PivotCaches(1).Refresh
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[CreatePivotChart](Excel.pivotcache.createpivotchart.md)|
-|[CreatePivotTable](Excel.PivotCache.CreatePivotTable.md)|
-|[MakeConnection](Excel.PivotCache.MakeConnection.md)|
-|[Refresh](Excel.PivotCache.Refresh.md)|
-|[ResetTimer](Excel.PivotCache.ResetTimer.md)|
-|[SaveAsODC](Excel.PivotCache.SaveAsODC.md)|
+- [CreatePivotChart](Excel.pivotcache.createpivotchart.md)
+- [CreatePivotTable](Excel.PivotCache.CreatePivotTable.md)
+- [MakeConnection](Excel.PivotCache.MakeConnection.md)
+- [Refresh](Excel.PivotCache.Refresh.md)
+- [ResetTimer](Excel.PivotCache.ResetTimer.md)
+- [SaveAsODC](Excel.PivotCache.SaveAsODC.md)
 
 ## Properties
 
+- [ADOConnection](Excel.PivotCache.ADOConnection.md)
+- [Application](Excel.PivotCache.Application.md)
+- [BackgroundQuery](Excel.PivotCache.BackgroundQuery.md)
+- [CommandText](Excel.PivotCache.CommandText.md)
+- [CommandType](Excel.PivotCache.CommandType.md)
+- [Connection](Excel.PivotCache.Connection.md)
+- [Creator](Excel.PivotCache.Creator.md)
+- [EnableRefresh](Excel.PivotCache.EnableRefresh.md)
+- [Index](Excel.PivotCache.Index.md)
+- [IsConnected](Excel.PivotCache.IsConnected.md)
+- [LocalConnection](Excel.PivotCache.LocalConnection.md)
+- [MaintainConnection](Excel.PivotCache.MaintainConnection.md)
+- [MemoryUsed](Excel.PivotCache.MemoryUsed.md)
+- [MissingItemsLimit](Excel.PivotCache.MissingItemsLimit.md)
+- [OLAP](Excel.PivotCache.OLAP.md)
+- [OptimizeCache](Excel.PivotCache.OptimizeCache.md)
+- [Parent](Excel.PivotCache.Parent.md)
+- [QueryType](Excel.PivotCache.QueryType.md)
+- [RecordCount](Excel.PivotCache.RecordCount.md)
+- [Recordset](Excel.PivotCache.Recordset.md)
+- [RefreshDate](Excel.PivotCache.RefreshDate.md)
+- [RefreshName](Excel.PivotCache.RefreshName.md)
+- [RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)
+- [RefreshPeriod](Excel.PivotCache.RefreshPeriod.md)
+- [RobustConnect](Excel.PivotCache.RobustConnect.md)
+- [SavePassword](Excel.PivotCache.SavePassword.md)
+- [SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)
+- [SourceData](Excel.PivotCache.SourceData.md)
+- [SourceDataFile](Excel.PivotCache.SourceDataFile.md)
+- [SourceType](Excel.PivotCache.SourceType.md)
+- [UpgradeOnRefresh](Excel.PivotCache.UpgradeOnRefresh.md)
+- [UseLocalConnection](Excel.PivotCache.UseLocalConnection.md)
+- [Version](Excel.PivotCache.Version.md)
+- [WorkbookConnection](Excel.PivotCache.WorkbookConnection.md)
 
-
-|Name|
-|:-----|
-|[ADOConnection](Excel.PivotCache.ADOConnection.md)|
-|[Application](Excel.PivotCache.Application.md)|
-|[BackgroundQuery](Excel.PivotCache.BackgroundQuery.md)|
-|[CommandText](Excel.PivotCache.CommandText.md)|
-|[CommandType](Excel.PivotCache.CommandType.md)|
-|[Connection](Excel.PivotCache.Connection.md)|
-|[Creator](Excel.PivotCache.Creator.md)|
-|[EnableRefresh](Excel.PivotCache.EnableRefresh.md)|
-|[Index](Excel.PivotCache.Index.md)|
-|[IsConnected](Excel.PivotCache.IsConnected.md)|
-|[LocalConnection](Excel.PivotCache.LocalConnection.md)|
-|[MaintainConnection](Excel.PivotCache.MaintainConnection.md)|
-|[MemoryUsed](Excel.PivotCache.MemoryUsed.md)|
-|[MissingItemsLimit](Excel.PivotCache.MissingItemsLimit.md)|
-|[OLAP](Excel.PivotCache.OLAP.md)|
-|[OptimizeCache](Excel.PivotCache.OptimizeCache.md)|
-|[Parent](Excel.PivotCache.Parent.md)|
-|[QueryType](Excel.PivotCache.QueryType.md)|
-|[RecordCount](Excel.PivotCache.RecordCount.md)|
-|[Recordset](Excel.PivotCache.Recordset.md)|
-|[RefreshDate](Excel.PivotCache.RefreshDate.md)|
-|[RefreshName](Excel.PivotCache.RefreshName.md)|
-|[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)|
-|[RefreshPeriod](Excel.PivotCache.RefreshPeriod.md)|
-|[RobustConnect](Excel.PivotCache.RobustConnect.md)|
-|[SavePassword](Excel.PivotCache.SavePassword.md)|
-|[SourceConnectionFile](Excel.PivotCache.SourceConnectionFile.md)|
-|[SourceData](Excel.PivotCache.SourceData.md)|
-|[SourceDataFile](Excel.PivotCache.SourceDataFile.md)|
-|[SourceType](Excel.PivotCache.SourceType.md)|
-|[UpgradeOnRefresh](Excel.PivotCache.UpgradeOnRefresh.md)|
-|[UseLocalConnection](Excel.PivotCache.UseLocalConnection.md)|
-|[Version](Excel.PivotCache.Version.md)|
-|[WorkbookConnection](Excel.PivotCache.WorkbookConnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

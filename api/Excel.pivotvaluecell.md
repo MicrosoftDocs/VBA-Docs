@@ -37,7 +37,21 @@ End If
 End Sub
 ```
 
+## Methods
+
+- [ShowDetail](Excel.pivotvaluecell.showdetail.md)
+
+## Properties
+
+- [Application](Excel.pivotvaluecell.application.md)
+- [Creator](Excel.pivotvaluecell.creator.md)
+- [Parent](Excel.pivotvaluecell.parent.md)
+- [PivotCell](Excel.pivotvaluecell.pivotcell.md)
+- [ServerActions](Excel.pivotvaluecell.serveractions.md)
+- [Value](Excel.pivotvaluecell.value.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

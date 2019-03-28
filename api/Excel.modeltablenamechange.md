@@ -14,7 +14,16 @@ localization_priority: Normal
 
 An object representing the old and new name of a table which was renamed in the Excel data model. 
 
+## Properties
+
+- [Application](Excel.modeltablenamechange.application.md)
+- [Creator](Excel.modeltablenamechange.creator.md)
+- [Parent](Excel.modeltablenamechange.parent.md)
+- [TableNameNew](Excel.modeltablenamechange.tablenamenew.md)
+- [TableNameOld](Excel.modeltablenamechange.tablenameold.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

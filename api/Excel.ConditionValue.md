@@ -60,9 +60,20 @@ End Sub
 ```
 
 
+## Methods
+
+- [Modify](Excel.ConditionValue.Modify.md)
+
+## Properties
+
+- [Application](Excel.ConditionValue.Application.md)
+- [Creator](Excel.ConditionValue.Creator.md)
+- [Parent](Excel.ConditionValue.Parent.md)
+- [Type](Excel.ConditionValue.Type.md)
+- [Value](Excel.ConditionValue.Value.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

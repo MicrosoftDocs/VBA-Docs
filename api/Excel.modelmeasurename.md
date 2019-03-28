@@ -14,7 +14,16 @@ localization_priority: Normal
 
 An object representing a measure in the data model. 
 
+## Properties
+
+- [Application](Excel.modelmeasurename.application.md)
+- [Creator](Excel.modelmeasurename.creator.md)
+- [MeasureName](Excel.modelmeasurename.measurename.md)
+- [Parent](Excel.modelmeasurename.parent.md)
+- [TableName](Excel.modelmeasurename.tablename.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

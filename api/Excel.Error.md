@@ -55,19 +55,15 @@ End Sub
 
 ## Properties
 
+- [Application](Excel.Error.Application.md)
+- [Creator](Excel.Error.Creator.md)
+- [Ignore](Excel.Error.Ignore.md)
+- [Parent](Excel.Error.Parent.md)
+- [Value](Excel.Error.Value.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Error.Application.md)|
-|[Creator](Excel.Error.Creator.md)|
-|[Ignore](Excel.Error.Ignore.md)|
-|[Parent](Excel.Error.Parent.md)|
-|[Value](Excel.Error.Value.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

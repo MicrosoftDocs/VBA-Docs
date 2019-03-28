@@ -66,18 +66,15 @@ MVP Bill Jelen is the author of more than two dozen books about Microsoft Excel.
 
 ## Properties
 
+- [Application](Excel.Dialogs.Application.md)
+- [Count](Excel.Dialogs.Count.md)
+- [Creator](Excel.Dialogs.Creator.md)
+- [Item](Excel.Dialogs.Item.md)
+- [Parent](Excel.Dialogs.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Dialogs.Application.md)|
-|[Count](Excel.Dialogs.Count.md)|
-|[Creator](Excel.Dialogs.Creator.md)|
-|[Item](Excel.Dialogs.Item.md)|
-|[Parent](Excel.Dialogs.Parent.md)|
 
 ## See also
 
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

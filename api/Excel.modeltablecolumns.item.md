@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelTableColumns.Item method (Excel)
 
-Returns a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object (Excel) from the **ModelTableColumns** collection (Excel)
+Returns a [ModelTableColumn](Excel.modeltablecolumn.md) object from the **ModelTableColumns** collection.
 
 
 ## Syntax
 
 _expression_. `Item`_(Index)_
 
-_expression_ A variable that represents a [ModelTableColumns object (Excel)](Excel.modeltablecolumns.md) object.
+_expression_ A variable that represents a **[ModelTableColumns](Excel.modeltablecolumns.md)** object.
 
 
 ## Parameters

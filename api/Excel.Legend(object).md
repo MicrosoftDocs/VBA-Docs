@@ -36,37 +36,29 @@ Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Clear](Excel.Legend.Clear.md)|
-|[Delete](Excel.Legend.Delete.md)|
-|[LegendEntries](Excel.Legend.LegendEntries.md)|
-|[Select](Excel.Legend.Select.md)|
+- [Clear](Excel.Legend.Clear.md)
+- [Delete](Excel.Legend.Delete.md)
+- [LegendEntries](Excel.Legend.LegendEntries.md)
+- [Select](Excel.Legend.Select.md)
 
 ## Properties
 
+- [Application](Excel.Legend.Application.md)
+- [Creator](Excel.Legend.Creator.md)
+- [Format](Excel.Legend.Format.md)
+- [Height](Excel.Legend.Height.md)
+- [IncludeInLayout](Excel.Legend.IncludeInLayout.md)
+- [Left](Excel.Legend.Left.md)
+- [Name](Excel.Legend.Name.md)
+- [Parent](Excel.Legend.Parent.md)
+- [Position](Excel.Legend.Position.md)
+- [Shadow](Excel.Legend.Shadow.md)
+- [Top](Excel.Legend.Top.md)
+- [Width](Excel.Legend.Width.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Legend.Application.md)|
-|[Creator](Excel.Legend.Creator.md)|
-|[Format](Excel.Legend.Format.md)|
-|[Height](Excel.Legend.Height.md)|
-|[IncludeInLayout](Excel.Legend.IncludeInLayout.md)|
-|[Left](Excel.Legend.Left.md)|
-|[Name](Excel.Legend.Name.md)|
-|[Parent](Excel.Legend.Parent.md)|
-|[Position](Excel.Legend.Position.md)|
-|[Shadow](Excel.Legend.Shadow.md)|
-|[Top](Excel.Legend.Top.md)|
-|[Width](Excel.Legend.Width.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

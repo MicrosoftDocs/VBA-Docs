@@ -12,34 +12,27 @@ localization_priority: Normal
 
 # FullSeriesCollection.Item method (Excel)
 
-Returns a single object from the [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object.
+Returns a single object from the **FullSeriesCollection** object.
 
 
 ## Syntax
 
-_expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
-_expression_ A variable that represents a [FullSeriesCollection object (Excel)](Excel.fullseriescollection.md) object.
+_expression_ A variable that represents a **[FullSeriesCollection](Excel.fullseriescollection.md)** object.
 
 
 ## Parameters
 
-
-
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Index_|Required| **Variant**|The index number for the object.|
-| _Index_|Required|VARIANT||
+
 
 ## Return value
 
-A [Series object (Excel)](Excel.Series(object).md) object contained in the collection.
+A **[Series](Excel.Series(object).md)** object contained in the collection.
 
 
-## See also
-
-
-
-[FullSeriesCollection Object](Excel.fullseriescollection.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

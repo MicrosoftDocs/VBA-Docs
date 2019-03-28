@@ -19,33 +19,24 @@ Represent a table in the Data Model.
 
 The  **ModelTable** object will be read only (cannot be created or edited programmatically). There will be a **ModelTable** object for every table in the model.
 
-
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Refresh](Excel.modeltable.refresh.md)|
+- [Refresh](Excel.modeltable.refresh.md)
 
 ## Properties
 
+- [Application](Excel.modeltable.application.md)
+- [Creator](Excel.modeltable.creator.md)
+- [ModelTableColumns](Excel.modeltable.modeltablecolumns.md)
+- [Name](Excel.modeltable.name.md)
+- [Parent](Excel.modeltable.parent.md)
+- [RecordCount](Excel.modeltable.recordcount.md)
+- [SourceName](Excel.modeltable.sourcename.md)
+- [SourceWorkbookConnection](Excel.modeltable.sourceworkbookconnection.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.modeltable.application.md)|
-|[Creator](Excel.modeltable.creator.md)|
-|[ModelTableColumns](Excel.modeltable.modeltablecolumns.md)|
-|[Name](Excel.modeltable.name.md)|
-|[Parent](Excel.modeltable.parent.md)|
-|[RecordCount](Excel.modeltable.recordcount.md)|
-|[SourceName](Excel.modeltable.sourcename.md)|
-|[SourceWorkbookConnection](Excel.modeltable.sourceworkbookconnection.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

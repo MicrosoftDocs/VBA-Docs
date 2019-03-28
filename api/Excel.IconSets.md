@@ -88,10 +88,16 @@ Sub CreateIconSetCF()
 End Sub
 ```
 
+## Properties
+
+- [Application](Excel.IconSets.Application.md)
+- [Count](Excel.IconSets.Count.md)
+- [Creator](Excel.IconSets.Creator.md)
+- [Item](Excel.IconSets.Item.md)
+- [Parent](Excel.IconSets.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

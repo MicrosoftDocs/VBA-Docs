@@ -14,7 +14,23 @@ localization_priority: Normal
 
 Represents a relationship, currently in the data model, between two tables.
 
+## Methods
+
+- [Delete](Excel.modelrelationship.delete.md)
+
+## Properties
+
+- [Active](Excel.modelrelationship.active.md)
+- [Application](Excel.modelrelationship.application.md)
+- [Creator](Excel.modelrelationship.creator.md)
+- [ForeignKeyColumn](Excel.modelrelationship.foreignkeycolumn.md)
+- [ForeignKeyTable](Excel.modelrelationship.foreignkeytable.md)
+- [Parent](Excel.modelrelationship.parent.md)
+- [PrimaryKeyColumn](Excel.modelrelationship.primarykeycolumn.md)
+- [PrimaryKeyTable](Excel.modelrelationship.primarykeytable.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

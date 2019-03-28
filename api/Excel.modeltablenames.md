@@ -19,7 +19,20 @@ A collection of table names representing tables in the Excel data model.
 
 The  **ModelTableNames** collection is used to represent a set of tables in the Excel data model for which changes have been made during a model operation like for example data refresh. The table names are represented as strings in the collection.
 
+## Methods
+
+- [Item](Excel.modeltablenames.item.md)
+
+## Properties
+
+- [Application](Excel.modeltablenames.application.md)
+- [Count](Excel.modeltablenames.count.md)
+- [Creator](Excel.modeltablenames.creator.md)
+- [Parent](Excel.modeltablenames.parent.md)
+
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

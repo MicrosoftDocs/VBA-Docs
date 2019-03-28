@@ -19,7 +19,7 @@ Returns a 32-bit integer that indicates the application in which the specified o
 
 _expression_.**Creator**
 
-_expression_ A variable that represents a [ModelConnection object (Excel)](Excel.modelconnection.md) object.
+_expression_ A variable that represents **[ModelConnection](Excel.modelconnection.md)** object.
 
 
 ## Remarks

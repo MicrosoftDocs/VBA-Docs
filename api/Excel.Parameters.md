@@ -47,10 +47,21 @@ param1.SetParam xlConstant, "Oakland"
 qt.Refresh
 ```
 
+## Methods
+
+- [Add](Excel.Parameters.Add.md)
+- [Delete](Excel.Parameters.Delete.md)
+- [Item](Excel.Parameters.Item.md)
+
+## Properties
+
+- [Application](Excel.Parameters.Application.md)
+- [Count](Excel.Parameters.Count.md)
+- [Creator](Excel.Parameters.Creator.md)
+- [Parent](Excel.Parameters.Parent.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

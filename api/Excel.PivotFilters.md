@@ -34,27 +34,19 @@ ActiveCell.PivotField.PivotFilters.Add FilterType := xlThisWeek
 
 ## Methods
 
-
-
-|Name|
-|:-----|
-|[Add2](Excel.PivotFilters.Add.md)|
+- [Add](Excel.PivotFilters.Add.md)
 
 ## Properties
 
+- [Application](Excel.pivotFilters.Application.md)
+- [Count](Excel.pivotFilters.Count.md)
+- [Creator](Excel.pivotFilters.Creator.md)
+- [Item](Excel.pivotFilters.Item.md)
+- [Parent](Excel.pivotFilters.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.PivotFilters.Application.md)|
-|[Count](Excel.PivotFilters.Count.md)|
-|[Creator](Excel.PivotFilters.Creator.md)|
-|[Item](Excel.PivotFilters.Item.md)|
-|[Parent](Excel.PivotFilters.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

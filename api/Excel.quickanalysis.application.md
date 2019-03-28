@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [QuickAnalysis object (Excel)](Excel.quickanalysis.md) object.
+_expression_ A variable that represents a [QuickAnalysis](Excel.quickanalysis.md) object.
 
 
 ## Example

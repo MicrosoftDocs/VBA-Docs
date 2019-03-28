@@ -32,11 +32,20 @@ MsgBox "There are " & ProtectedViewWindows.Count & _
  " Protected View windows currently open."
 ```
 
+## Methods
+
+- [Open](Excel.ProtectedViewWindows.Open.md)
+
+## Properties
+
+- [Application](Excel.ProtectedViewWindows.Application.md)
+- [Count](Excel.ProtectedViewWindows.Count.md)
+- [Creator](Excel.ProtectedViewWindows.Creator.md)
+- [Item](Excel.ProtectedViewWindows.Item.md)
+- [Parent](Excel.ProtectedViewWindows.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

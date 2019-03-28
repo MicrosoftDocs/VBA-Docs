@@ -12,25 +12,20 @@ localization_priority: Normal
 
 # ModelChanges.TableNamesChanged property (Excel)
 
-Returns a [ModelTableNameChanges object (Excel)](Excel.modeltablenamechanges.md) collection of[ModelTableNameChange object (Excel)](Excel.modeltablenamechange.md) objects representing old and new names of all tables which were renamed in the model as part of a model operation. Read-only.
+Returns a **[ModelTableNameChanges](Excel.modeltablenamechanges.md)** collection of **[ModelTableNameChange](Excel.modeltablenamechange.md)** objects representing old and new names of all tables that were renamed in the model as part of a model operation. Read-only.
 
 
 ## Syntax
 
-_expression_. `TableNamesChanged`
+_expression_.**TableNamesChanged**
 
-_expression_ A variable that represents a 'ModelChanges' object.
+_expression_ A variable that represents a **[ModelChanges](Excel.modelchanges.md)** object.
 
 
 ## Property value
 
- **MODELTABLENAMECHANGES**
+**MODELTABLENAMECHANGES**
 
 
-## See also
-
-
-
-[ModelChanges Object](Excel.modelchanges.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # ModelRelationships.Item method (Excel)
 
-Returns a single object from the [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
+Returns a single object from the **ModelRelationships** object.
 
 
 ## Syntax
 
 _expression_. `Item`_(Index)_
 
-_expression_ A variable that represents a [ModelRelationships object (Excel)](Excel.modelrelationships.md) object.
+_expression_ A variable that represents a **[ModelRelationships](Excel.modelrelationships.md)** object.
 
 
 ## Parameters
@@ -32,7 +32,7 @@ _expression_ A variable that represents a [ModelRelationships object (Excel)](Ex
 
 ## Return value
 
-A [ModelRelationship object (Excel)](Excel.modelrelationship.md) object contained in the collection.
+A [ModelRelationship](Excel.modelrelationship.md) object contained in the collection.
 
 
 ## See also

@@ -67,19 +67,15 @@ End If
 
 ## Properties
 
+- [Application](Excel.Filters.Application.md)
+- [Count](Excel.Filters.Count.md)
+- [Creator](Excel.Filters.Creator.md)
+- [Item](Excel.Filters.Item.md)
+- [Parent](Excel.Filters.Parent.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.Filters.Application.md)|
-|[Count](Excel.Filters.Count.md)|
-|[Creator](Excel.Filters.Creator.md)|
-|[Item](Excel.Filters.Item.md)|
-|[Parent](Excel.Filters.Parent.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

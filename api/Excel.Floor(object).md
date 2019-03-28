@@ -27,10 +27,24 @@ Worksheets("sheet1").ChartObjects(1).Activate
 ActiveChart.Floor.Interior.Color = RGB(0, 255, 255)
 ```
 
+## Methods
+
+- [ClearFormats](Excel.Floor.ClearFormats.md)
+- [Paste](Excel.Floor.Paste.md)
+- [Select](Excel.Floor.Select.md)
+
+## Properties
+
+- [Application](Excel.Floor.Application.md)
+- [Creator](Excel.Floor.Creator.md)
+- [Format](Excel.Floor.Format.md)
+- [Name](Excel.Floor.Name.md)
+- [Parent](Excel.Floor.Parent.md)
+- [PictureType](Excel.Floor.PictureType.md)
+- [Thickness](Excel.Floor.Thickness.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

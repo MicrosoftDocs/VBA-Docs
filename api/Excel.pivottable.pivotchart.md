@@ -12,19 +12,19 @@ localization_priority: Normal
 
 # PivotTable.PivotChart property (Excel)
 
-Returns a [Shape object (Excel)](Excel.Shape.md) object that represents the standalone PivotChart for the specified hidden PivotTable report. Read-only.
+Returns a [Shape](Excel.Shape.md) object that represents the standalone PivotChart for the specified hidden PivotTable report. Read-only.
 
 
 ## Syntax
 
 _expression_. `PivotChart`
 
-_expression_ A variable that represents a [PivotTable object (Excel)](Excel.PivotTable.md) object.
+_expression_ A variable that represents a [PivotTable](Excel.PivotTable.md) object.
 
 
 ## Returns
 
-[Shape object (Excel)](Excel.Shape.md)
+[Shape](Excel.Shape.md)
 
 
 ## Property value

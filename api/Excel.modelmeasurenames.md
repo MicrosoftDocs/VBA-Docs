@@ -12,9 +12,21 @@ localization_priority: Normal
 
 # ModelMeasureNames object (Excel)
 
-A collection of [ModelMeasureName object (Excel)](Excel.modelmeasurename.md) objects representing names of measures in the Excel data model.
+A collection of **[ModelMeasureName](Excel.modelmeasurename.md)** objects representing names of measures in the Excel data model.
 
+## Methods
+
+- [Item](Excel.modelmeasurenames.item.md)
+
+## Properties
+
+- [Application](Excel.modelmeasurenames.application.md)
+- [Count](Excel.modelmeasurenames.count.md)
+- [Creator](Excel.modelmeasurenames.creator.md)
+- [Parent](Excel.modelmeasurenames.parent.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

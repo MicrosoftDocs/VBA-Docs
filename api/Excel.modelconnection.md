@@ -19,7 +19,19 @@ Contain information for the new Model Connection Type introduced in Excel 2013 t
 
 To use for all PivotTables connected to the model, there will have a new "special" workbook connection which always exists (and cannot be deleted) in workbooks which have a data model. It gets created when the model is first created in a workbook. All properties on this special workbook connection are read-only. Its name is: _Workbook Data Model_ .
 
+## Properties
+
+- [ADOConnection](Excel.modelconnection.adoconnection.md)
+- [Application](Excel.modelconnection.application.md)
+- [CalculatedMembers](Excel.modelconnection.calculatedmembers.md)
+- [CommandText](Excel.modelconnection.commandtext.md)
+- [CommandType](Excel.modelconnection.commandtype.md)
+- [Creator](Excel.modelconnection.creator.md)
+- [Parent](Excel.modelconnection.parent.md)
+
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

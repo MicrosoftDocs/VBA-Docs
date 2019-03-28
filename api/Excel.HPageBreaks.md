@@ -43,11 +43,20 @@ Use the  **HPageBreaks** property to return the **HPageBreaks** collection. Use 
 ActiveSheet.HPageBreaks.Add Before:=ActiveCell
 ```
 
+## Methods
+
+- [Add](Excel.HPageBreaks.Add.md)
+
+## Properties
+
+- [Application](Excel.HPageBreaks.Application.md)
+- [Count](Excel.HPageBreaks.Count.md)
+- [Creator](Excel.HPageBreaks.Creator.md)
+- [Item](Excel.HPageBreaks.Item.md)
+- [Parent](Excel.HPageBreaks.Parent.md)
 
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

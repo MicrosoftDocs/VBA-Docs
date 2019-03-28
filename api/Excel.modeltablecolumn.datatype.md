@@ -19,7 +19,7 @@ Returns the [xlParameterDataType enumeration (Excel)](Excel.xlParameterDataType.
 
 _expression_. `DataType`
 
-_expression_ A variable that represents a [ModelTableColumn object (Excel)](Excel.modeltablecolumn.md) object.
+_expression_ A variable that represents a **[ModelTableColumn](Excel.modeltablecolumn.md)** object.
 
 
 ## Property value

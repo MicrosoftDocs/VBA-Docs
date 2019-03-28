@@ -14,7 +14,16 @@ localization_priority: Normal
 
 An object representing a column in a table in the Excel data model for which the data type was changed. 
 
+## Properties
+
+- [Application](Excel.modelcolumnchange.application.md)
+- [ColumnName](Excel.modelcolumnchange.columnname.md)
+- [Creator](Excel.modelcolumnchange.creator.md)
+- [Parent](Excel.modelcolumnchange.parent.md)
+- [TableName](Excel.modelcolumnchange.tablename.md)
 
 ## See also
+
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

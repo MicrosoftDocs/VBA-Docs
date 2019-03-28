@@ -31,10 +31,27 @@ Use  **[Scenarios](Excel.Worksheet.Scenarios.md)** ( _index_ ), where _index_ is
 Worksheets("options").Scenarios("typical").Show
 ```
 
+## Methods
+
+- [ChangeScenario](Excel.Scenario.ChangeScenario.md)
+- [Delete](Excel.Scenario.Delete.md)
+- [Show](Excel.Scenario.Show.md)
+
+## Properties
+
+- [Application](Excel.Scenario.Application.md)
+- [ChangingCells](Excel.Scenario.ChangingCells.md)
+- [Comment](Excel.Scenario.Comment.md)
+- [Creator](Excel.Scenario.Creator.md)
+- [Hidden](Excel.Scenario.Hidden.md)
+- [Index](Excel.Scenario.Index.md)
+- [Locked](Excel.Scenario.Locked.md)
+- [Name](Excel.Scenario.Name.md)
+- [Parent](Excel.Scenario.Parent.md)
+- [Values](Excel.Scenario.Values.md)
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

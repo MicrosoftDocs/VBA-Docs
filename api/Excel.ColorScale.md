@@ -56,9 +56,30 @@ End Sub
 ```
 
 
+## Methods
+
+- [Delete](Excel.ColorScale.Delete.md)
+- [ModifyAppliesToRange](Excel.ColorScale.ModifyAppliesToRange.md)
+- [SetFirstPriority](Excel.ColorScale.SetFirstPriority.md)
+- [SetLastPriority](Excel.ColorScale.SetLastPriority.md)
+
+## Properties
+
+- [Application](Excel.ColorScale.Application.md)
+- [AppliesTo](Excel.ColorScale.AppliesTo.md)
+- [ColorScaleCriteria](Excel.ColorScale.ColorScaleCriteria.md)
+- [Creator](Excel.ColorScale.Creator.md)
+- [Formula](Excel.ColorScale.Formula.md)
+- [Parent](Excel.ColorScale.Parent.md)
+- [Priority](Excel.ColorScale.Priority.md)
+- [PTCondition](Excel.ColorScale.PTCondition.md)
+- [ScopeType](Excel.ColorScale.ScopeType.md)
+- [StopIfTrue](Excel.ColorScale.StopIfTrue.md)
+- [Type](Excel.ColorScale.Type.md)
+
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

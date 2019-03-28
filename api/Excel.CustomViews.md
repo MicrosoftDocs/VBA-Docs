@@ -32,9 +32,20 @@ ActiveWorkbook.CustomViews.Add "Summary", True, True
 ```
 
 
+## Methods
+
+- [Add](Excel.CustomViews.Add.md)
+- [Item](Excel.CustomViews.Item.md)
+
+## Properties
+
+- [Application](Excel.CustomViews.Application.md)
+- [Count](Excel.CustomViews.Count.md)
+- [Creator](Excel.CustomViews.Creator.md)
+- [Parent](Excel.CustomViews.Parent.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

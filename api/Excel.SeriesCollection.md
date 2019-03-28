@@ -48,22 +48,19 @@ Worksheets("sheet1").ChartObjects(1).Chart. _
 
 ## Methods
 
-|Name|
-|:-----|
-|[Add](Excel.SeriesCollection.Add.md)|
-|[Extend](Excel.SeriesCollection.Extend.md)|
-|[Item](Excel.SeriesCollection.Item.md)|
-|[NewSeries](Excel.SeriesCollection.NewSeries.md)|
-|[Paste](Excel.SeriesCollection.Paste.md)|
+- [Add](Excel.SeriesCollection.Add.md)
+- [Extend](Excel.SeriesCollection.Extend.md)
+- [Item](Excel.SeriesCollection.Item.md)
+- [NewSeries](Excel.SeriesCollection.NewSeries.md)
+- [Paste](Excel.SeriesCollection.Paste.md)
 
 ## Properties
 
-|Name|
-|:-----|
-|[Application](Excel.SeriesCollection.Application.md)|
-|[Count](Excel.SeriesCollection.Count.md)|
-|[Creator](Excel.SeriesCollection.Creator.md)|
-|[Parent](Excel.SeriesCollection.Parent.md)|
+- [Application](Excel.SeriesCollection.Application.md)
+- [Count](Excel.SeriesCollection.Count.md)
+- [Creator](Excel.SeriesCollection.Creator.md)
+- [Parent](Excel.SeriesCollection.Parent.md)
+
 
 ## See also
 

@@ -52,10 +52,20 @@ ActiveChart.ChartGroups(1).HasDropLines = True
 Because the index number for a particular chart group can change if the chart format used for that group is changed, it may be easier to use one of the named chart group shortcut methods to return a particular chart group. The  **PieGroups** method returns the collection of pie chart groups in a chart, the **LineGroups** method returns the collection of line chart groups, and so on. Each of these methods can be used with an index number to return a single **ChartGroup** object, or without an index number to return a **ChartGroups** collection.
 
 
+## Methods
+
+- [Item](Excel.ChartGroups.Item.md)
+
+## Properties
+
+- [Application](Excel.ChartGroups.Application.md)
+- [Count](Excel.ChartGroups.Count.md)
+- [Creator](Excel.ChartGroups.Creator.md)
+- [Parent](Excel.ChartGroups.Parent.md)
+
+
 ## See also
 
-
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

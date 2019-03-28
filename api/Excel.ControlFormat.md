@@ -30,9 +30,35 @@ Worksheets(1).Shapes(1).ControlFormat.ListFillRange = "A1:A10"
 ```
 
 
+## Methods
+
+- [AddItem](Excel.ControlFormat.AddItem.md)
+- [List](Excel.ControlFormat.List.md)
+- [RemoveAllItems](Excel.ControlFormat.RemoveAllItems.md)
+- [RemoveItem](Excel.ControlFormat.RemoveItem.md)
+
+## Properties
+
+- [Application](Excel.ControlFormat.Application.md)
+- [Creator](Excel.ControlFormat.Creator.md)
+- [DropDownLines](Excel.ControlFormat.DropDownLines.md)
+- [Enabled](Excel.ControlFormat.Enabled.md)
+- [LargeChange](Excel.ControlFormat.LargeChange.md)
+- [LinkedCell](Excel.ControlFormat.LinkedCell.md)
+- [ListCount](Excel.ControlFormat.ListCount.md)
+- [ListFillRange](Excel.ControlFormat.ListFillRange.md)
+- [ListIndex](Excel.ControlFormat.ListIndex.md)
+- [LockedText](Excel.ControlFormat.LockedText.md)
+- [Max](Excel.ControlFormat.Max.md)
+- [Min](Excel.ControlFormat.Min.md)
+- [MultiSelect](Excel.ControlFormat.MultiSelect.md)
+- [Parent](Excel.ControlFormat.Parent.md)
+- [PrintObject](Excel.ControlFormat.PrintObject.md)
+- [SmallChange](Excel.ControlFormat.SmallChange.md)
+- [Value](Excel.ControlFormat.Value.md)
+
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -44,32 +44,28 @@ End With
 
 ## Properties
 
+- [Application](Excel.LineFormat.Application.md)
+- [BackColor](Excel.LineFormat.BackColor.md)
+- [BeginArrowheadLength](Excel.LineFormat.BeginArrowheadLength.md)
+- [BeginArrowheadStyle](Excel.LineFormat.BeginArrowheadStyle.md)
+- [BeginArrowheadWidth](Excel.LineFormat.BeginArrowheadWidth.md)
+- [Creator](Excel.LineFormat.Creator.md)
+- [DashStyle](Excel.LineFormat.DashStyle.md)
+- [EndArrowheadLength](Excel.LineFormat.EndArrowheadLength.md)
+- [EndArrowheadStyle](Excel.LineFormat.EndArrowheadStyle.md)
+- [EndArrowheadWidth](Excel.LineFormat.EndArrowheadWidth.md)
+- [ForeColor](Excel.LineFormat.ForeColor.md)
+- [InsetPen](Excel.LineFormat.InsetPen.md)
+- [Parent](Excel.LineFormat.Parent.md)
+- [Pattern](Excel.LineFormat.Pattern.md)
+- [Style](Excel.LineFormat.Style.md)
+- [Transparency](Excel.LineFormat.Transparency.md)
+- [Visible](Excel.LineFormat.Visible.md)
+- [Weight](Excel.LineFormat.Weight.md)
 
-
-|Name|
-|:-----|
-|[Application](Excel.LineFormat.Application.md)|
-|[BackColor](Excel.LineFormat.BackColor.md)|
-|[BeginArrowheadLength](Excel.LineFormat.BeginArrowheadLength.md)|
-|[BeginArrowheadStyle](Excel.LineFormat.BeginArrowheadStyle.md)|
-|[BeginArrowheadWidth](Excel.LineFormat.BeginArrowheadWidth.md)|
-|[Creator](Excel.LineFormat.Creator.md)|
-|[DashStyle](Excel.LineFormat.DashStyle.md)|
-|[EndArrowheadLength](Excel.LineFormat.EndArrowheadLength.md)|
-|[EndArrowheadStyle](Excel.LineFormat.EndArrowheadStyle.md)|
-|[EndArrowheadWidth](Excel.LineFormat.EndArrowheadWidth.md)|
-|[ForeColor](Excel.LineFormat.ForeColor.md)|
-|[InsetPen](Excel.LineFormat.InsetPen.md)|
-|[Parent](Excel.LineFormat.Parent.md)|
-|[Pattern](Excel.LineFormat.Pattern.md)|
-|[Style](Excel.LineFormat.Style.md)|
-|[Transparency](Excel.LineFormat.Transparency.md)|
-|[Visible](Excel.LineFormat.Visible.md)|
-|[Weight](Excel.LineFormat.Weight.md)|
 
 ## See also
 
-
-[Excel Object Model Reference](overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
