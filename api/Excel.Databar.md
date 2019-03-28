@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Databar
 ms.assetid: 2684e913-c278-e6be-ba9d-053b6ad58bae
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,16 @@ Represents a data bar conditional formating rule. Applying a data bar to a range
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a data bar formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddDatabar](Excel.FormatConditions.AddDatabar.md)** methods of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a data bar formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddDatabar](Excel.FormatConditions.AddDatabar.md)** methods of the **FormatConditions** collection.
 
-You use the  **[MinPoint](Excel.Databar.MinPoint.md)** and **[MaxPoint](Excel.Databar.MaxPoint.md)** properties of the **Databar** object to set the values of the shortest bar and longest bar of a range of data. These properties return a **[ConditionValue](Excel.ConditionValue.md)** object, with which you can specify how the thresholds are evaluated.
+You use the **MinPoint** and **MaxPoint** properties of the **Databar** object to set the values of the shortest bar and longest bar of a range of data. These properties return a **[ConditionValue](Excel.ConditionValue.md)** object, with which you can specify how the thresholds are evaluated.
 
-The  **Databar** object also provides properties that enable you to specify an axis line that is displayed when negative values are present, and to specify the color and formatting of data bars.
+The **Databar** object also provides properties that enable you to specify an axis line that is displayed when negative values are present, and to specify the color and formatting of data bars.
 
 
 ## Example
 
-The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similar length. To disambiguate the middle values, the sample code uses the  **ConditionValue** object to change how the thresholds are evaluated to percentiles.
-
+The following example creates a range of data, and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similar length. To disambiguate the middle values, the sample code uses the **ConditionValue** object to change how the thresholds are evaluated to percentiles.
 
 ```vb
 Sub CreateDataBarCF() 

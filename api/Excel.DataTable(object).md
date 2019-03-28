@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DataTable
 ms.assetid: aca0850b-2e72-cde9-b751-633876e1df99
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,7 @@ Represents a chart data table.
 
 ## Example
 
-Use the  **[DataTable](Excel.Chart.DataTable.md)** property to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
-
+Use the **[DataTable](Excel.Chart.DataTable.md)** property of the **Chart** object to return a **DataTable** object. The following example adds a data table with an outline border to embedded chart one.
 
 ```vb
 With Worksheets(1).ChartObjects(1).Chart 
