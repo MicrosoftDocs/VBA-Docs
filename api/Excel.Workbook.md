@@ -31,7 +31,7 @@ If you'll be creating an add-in from your Visual Basic code, you should use the 
 
 ## Example
 
-Use  **Workbooks** ( _index_ ), where _index_ is the workbook name or index number, to return a single [Workbook](Excel.Workbook.md) object. The following example activates workbook one.
+Use  **Workbooks** (_index_), where _index_ is the workbook name or index number, to return a single [Workbook](Excel.Workbook.md) object. The following example activates workbook one.
 
 
 ```vb

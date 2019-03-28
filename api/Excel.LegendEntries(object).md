@@ -35,7 +35,7 @@ With Worksheets("sheet1").ChartObjects(1).Chart.Legend
 End With
 ```
 
-Use  **[LegendEntries](Excel.Legend.LegendEntries.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](Excel.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 
 

@@ -40,7 +40,7 @@ Use the  **[NewWindow](Excel.Window.NewWindow.md)** method to create a new windo
 ActiveWorkbook.NewWindow
 ```
 
-Use  **Windows** ( _index_ ), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
+Use  **Windows** (_index_), where _index_ is the window name or index number, to return a single **Window** object. The following example maximizes the active window.
 
 Note that the active window is always  `Windows(1)`.
 

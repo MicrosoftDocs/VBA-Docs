@@ -34,7 +34,7 @@ For Each objEr in Application.OLEDBErrors
 Next objEr
 ```
 
-Use  **OLEDBErrors** ( _index_ ), where _index_ is the index number of the OLE DB error, to return a single **OLEDBError** object. The following example displays the error description and the **SqlState** property's value for the first error returned by the most recent OLE DB query.
+Use  **OLEDBErrors** (_index_), where _index_ is the index number of the OLE DB error, to return a single **OLEDBError** object. The following example displays the error description and the **SqlState** property's value for the first error returned by the most recent OLE DB query.
 
 
 

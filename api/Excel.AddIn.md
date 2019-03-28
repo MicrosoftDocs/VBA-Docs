@@ -56,7 +56,7 @@ To install an add-in that doesn't appear in the list of available add-ins, you m
 AddIns.Add("generic.xll").Installed = True
 ```
 
-Use **Workbooks** ( _index_ ), where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
+Use **Workbooks** (_index_), where _index_ is the add-in file name (not title) to return a reference to the workbook corresponding to a loaded add-in. You must use the file name because loaded add-ins don't normally appear in the **Workbooks** collection. This example sets the _wb_ variable to the workbook for Myaddin.xla.
 
 ```vb
 Set wb = Workbooks("myaddin.xla")

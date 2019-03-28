@@ -21,7 +21,7 @@ Represents a meeting, a one-time appointment, or a recurring appointment or meet
 
 Use the  **[CreateItem](./Outlook.Application.CreateItem.md)** method to create an **AppointmentItem** object that represents a new appointment.
 
-Use  **[Items](./Outlook.Items.Item.md)** ( _index_ ), where _index_ is the index number of an appointment or a value used to match the default property of an appointment, to return a single **AppointmentItem** object from a Calendar folder.
+Use  **[Items](./Outlook.Items.Item.md)** (_index_), where _index_ is the index number of an appointment or a value used to match the default property of an appointment, to return a single **AppointmentItem** object from a Calendar folder.
 
 You can also return an  **AppointmentItem** object from a **[MeetingItem](Outlook.MeetingItem.md)** object by using the **[GetAssociatedAppointment](./Outlook.MeetingItem.GetAssociatedAppointment.md)** method.
 

@@ -39,7 +39,7 @@ To remove all the borders from an object, set the  **Enable** property to **Fals
 ActiveDocument.Tables(1).Borders.Enable = False
 ```
 
-To remove or apply a single border, use  **Borders** ( _index_ ), where **index** is a **WdBorderType** constant, to return a single border, and then set the **LineStyle** property. The following example removes the bottom border from `rngTemp`.
+To remove or apply a single border, use  **Borders** (_index_), where **index** is a **WdBorderType** constant, to return a single border, and then set the **LineStyle** property. The following example removes the bottom border from `rngTemp`.
 
 
 

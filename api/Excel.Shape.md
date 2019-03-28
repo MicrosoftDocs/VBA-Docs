@@ -55,7 +55,7 @@ Use the  **[BuildFreeform](Excel.Shapes.BuildFreeform.md)** and **[AddNodes](Exc
 
 ### Returning a Single Shape from Within a Group
 
-Use  **[GroupItems](Excel.Shape.GroupItems.md)** ( _index_ ), where _index_ is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
+Use  **[GroupItems](Excel.Shape.GroupItems.md)** (_index_), where _index_ is the shape name or the index number within the group, to return a **Shape** object that represents a single shape in a grouped shape.
 
 
 ### Returning a Newly Formed Group of Shapes
@@ -65,12 +65,12 @@ Use the  **[Group](Excel.ShapeRange.Group.md)** or **[Regroup](Excel.ShapeRange.
 
 ### Returning an Existing Shape
 
-Use  **[Shapes](Excel.Worksheet.Shapes.md)** ( _index_ ), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape.
+Use  **[Shapes](Excel.Worksheet.Shapes.md)** (_index_), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape.
 
 
 ### Returning a Shape Within the Selection
 
-Use  `Selection.ShapeRange`( _index_ ), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape within the selection.
+Use  `Selection.ShapeRange`(_index_), where _index_ is the shape name or the index number, to return a **Shape** object that represents a shape within the selection.
 
 
 ## Example

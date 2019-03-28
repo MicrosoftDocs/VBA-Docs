@@ -19,7 +19,7 @@ Contains a collection of all  **[View](Outlook.View.md)** objects in the current
 
 ## Remarks
 
-Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** ( _index_ ),where _index_ is the object's name or position within the collection, to return a single **View** object.
+Use the  **Views** property of the **[Folder](Outlook.Folder.md)** object to return the **Views** collection. Use **Views** (_index_),where _index_ is the object's name or position within the collection, to return a single **View** object.
 
 Use the  **[Add](Outlook.Views.Add.md)** method of the views collection to add a new view to the collection.
 

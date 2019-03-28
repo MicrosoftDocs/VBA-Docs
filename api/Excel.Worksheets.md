@@ -34,7 +34,7 @@ Use the  **[Add](Excel.Worksheets.Add.md)** method to create a new worksheet and
 Worksheets.Add Count:=2, Before:=Sheets(1)
 ```
 
-Use  **Worksheets** ( _index_ ), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
+Use  **Worksheets** (_index_), where _index_ is the worksheet index number or name, to return a single **Worksheet** object. The following example hides worksheet one in the active workbook.
 
 ```vb
 Worksheets(1).Visible = False

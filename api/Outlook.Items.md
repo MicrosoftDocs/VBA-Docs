@@ -21,7 +21,7 @@ Contains a collection of [Outlook item objects](../outlook/How-to/Items-Folders-
 
 Use the  **[Items](./Outlook.Folder.Items.md)** property to return the **Items** object of a **[Folder](Outlook.Folder.md)** object.
 
-Use  **Items** ( _index_ ), where _index_ is the name or index number, to return a single Outlook item.
+Use  **Items** (_index_), where _index_ is the name or index number, to return a single Outlook item.
 
 
  **Note**  The index for the  **Items** collection starts at 1, and the items in the **Items** collection object are not guaranteed to be in any particular order.

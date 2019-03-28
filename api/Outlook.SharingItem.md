@@ -21,7 +21,7 @@ Represents a sharing message in an Inbox folder.
 
 Use the  **[CreateSharingItem](Outlook.NameSpace.CreateSharingItem.md)** method of the **[NameSpace](Outlook.NameSpace.md)** object to create a **SharingItem** object that represents a new sharing request or sharing invitation.
 
-Use  **[Item](Outlook.Folders.Item.md)** ( _index_ ), where _index_ is the index number of a sharing message or a value used to match the default property of a message, to return a single **SharingItem** object from an Inbox folder.
+Use  **[Item](Outlook.Folders.Item.md)** (_index_), where _index_ is the index number of a sharing message or a value used to match the default property of a message, to return a single **SharingItem** object from an Inbox folder.
 
 
 ## Example

@@ -44,7 +44,7 @@ With myDocument.Shapes(3).Nodes
 End With
 ```
 
-Use  **Nodes** ( _index_ ), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
+Use  **Nodes** (_index_), where _index_ is the node index number, to return a single **ShapeNode** object. If node one in shape three on _myDocument_ is a corner point, the following example makes it a smooth point. For this example to work, shape three must be a freeform.
 
 
 

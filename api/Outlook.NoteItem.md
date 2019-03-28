@@ -25,7 +25,7 @@ The  **[Subject](Outlook.NoteItem.Subject.md)** property of a **NoteItem** objec
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** method to create a **NoteItem** object that represents a new note.
 
-Use  **[Items](Outlook.Items.Item.md)** ( _index_ ), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
+Use  **[Items](Outlook.Items.Item.md)** (_index_), where _index_ is the index number of a note or a value used to match the default property of a note, to return a single **NoteItem** object from a Notes folder.
 
 
 ## Example

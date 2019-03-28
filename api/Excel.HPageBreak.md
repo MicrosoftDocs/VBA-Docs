@@ -27,7 +27,7 @@ The  **HPageBreak** object is a member of the **[HPageBreaks](Excel.HPageBreaks.
 
 ## Example
 
-Use  **[HPageBreaks](Excel.Worksheets.HPageBreaks.md)** ( _index_ ), where _index_ is the index number of the page break, to return an **HPageBreak** object. The following example changes the location of horizontal page break one.
+Use  **[HPageBreaks](Excel.Worksheets.HPageBreaks.md)** (_index_), where _index_ is the index number of the page break, to return an **HPageBreak** object. The following example changes the location of horizontal page break one.
 
 
 ```vb

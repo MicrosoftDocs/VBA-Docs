@@ -19,7 +19,7 @@ A collection of all properties associated with the item.
 
 ## Remarks
 
-Use the  **[ItemProperties](./Outlook.MailItem.ItemProperties.md)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** ( _index_ ), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](Outlook.ItemProperty.md)** object.
+Use the  **[ItemProperties](./Outlook.MailItem.ItemProperties.md)** property to return the **ItemProperties** collection. Use **ItemProperties.Item** (_index_), where _index_ is the name of the object or the numeric position of the item within the collection, to return a single **[ItemProperty](Outlook.ItemProperty.md)** object.
 
 
  **Note**  The  **ItemProperties** collection is zero-based, meaning that the first item in the collection is referenced by 0.

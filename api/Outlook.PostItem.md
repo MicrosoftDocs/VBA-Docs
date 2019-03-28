@@ -23,7 +23,7 @@ Unlike a  **[MailItem](Outlook.MailItem.md)** object, a **PostItem** object is n
 
 Use the  **[CreateItem](Outlook.Application.CreateItem.md)** or **[CreateItemFromTemplate](Outlook.Application.CreateItemFromTemplate.md)** method to create a **PostItem** object that represents a new post.
 
-Use  **[Items](Outlook.Items.md)** ( _index_ ), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
+Use  **[Items](Outlook.Items.md)** (_index_), where _index_ is the index number of a post or a value used to match the default property of a post, to return a single **PostItem** object from a public folder.
 
 
 ## Example

@@ -24,7 +24,7 @@ Represents a pane of a window.
 
 ## Example
 
-Use  **[Panes](Excel.Window.Panes.md)** ( _index_ ), where _index_ is the pane index number, to return a single **Pane** object. The following example splits the window in which worksheet one is displayed and then scrolls through the pane in the lower-left corner until row five is at the top of the pane.
+Use  **[Panes](Excel.Window.Panes.md)** (_index_), where _index_ is the pane index number, to return a single **Pane** object. The following example splits the window in which worksheet one is displayed and then scrolls through the pane in the lower-left corner until row five is at the top of the pane.
 
 
 ```vb

@@ -28,7 +28,7 @@ Represents a shape range, which is a set of shapes on a document.
 
 
 
-Use  `Shapes.Range`( _index_ ), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on _myDocument_.
+Use  `Shapes.Range`(_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on _myDocument_.
 
 
 
@@ -65,7 +65,7 @@ Windows(1).Selection.ShapeRange.Fill.ForeColor.RGB = _
  RGB(255, 0, 255)
 ```
 
-Use  `Selection.ShapeRange`( _index_ ), where _index_ is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
+Use  `Selection.ShapeRange`(_index_), where _index_ is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
 
 
 

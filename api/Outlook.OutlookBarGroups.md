@@ -21,7 +21,7 @@ Contains a set of  **[OutlookBarGroup](Outlook.OutlookBarGroup.md)** objects rep
 
 Use the  **[Groups](Outlook.OutlookBarStorage.Groups.md)** property to return the **OutlookBarGroups** object from the **[OutlookBarStorage](Outlook.OutlookBarStorage.md)** object.
 
-Use  **Groups** ( _index_ ), where _index_ is the name of an available group, to return a single **OutlookBarGroup** object.
+Use  **Groups** (_index_), where _index_ is the name of an available group, to return a single **OutlookBarGroup** object.
 
 
 ## Example

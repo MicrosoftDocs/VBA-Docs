@@ -31,7 +31,7 @@ Use the  **[Phonetics](Excel.Range.Phonetics.md)** property to return the **Phon
 Range("A1:C4").Phonetics.Visible = True
 ```
 
-Use  **Phonetics** ( _index_ ), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. The following example sets the first phonetic text string in the active cell to "フリガナ".
+Use  **Phonetics** (_index_), where _index_ is the index number of the phonetic text, to return a single **Phonetic** object. The following example sets the first phonetic text string in the active cell to "フリガナ".
 
 
 

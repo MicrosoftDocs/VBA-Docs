@@ -35,7 +35,7 @@ Use the **[Font](Excel.FormatCondition.Font.md)**, **[Borders](Excel.FormatCondi
 
 ## Example
 
-Use **[FormatConditions](Excel.Range.FormatConditions.md)** ( _index_ ), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
+Use **[FormatConditions](Excel.Range.FormatConditions.md)** (_index_), where _index_ is the index number of the conditional format, to return a **FormatCondition** object. The following example sets format properties for an existing conditional format for cells E1:E10.
 
 
 ```vb

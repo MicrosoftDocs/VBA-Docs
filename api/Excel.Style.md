@@ -39,7 +39,7 @@ Use the  **Style** property to return the **Style** object used with a **Range**
 Worksheets("Sheet1").Range("A1:A10").Style = "Percent"
 ```
 
-Use  **Styles** ( _index_ ), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting the style's **Bold** property.
+Use  **Styles** (_index_), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting the style's **Bold** property.
 
 
 

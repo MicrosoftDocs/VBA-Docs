@@ -42,7 +42,7 @@ Use the  **[Add](Excel.Sheets.Add.md)** method to create a new sheet and add it 
 Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
 ```
 
-Use  **Sheets** ( _index_ ), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named "sheet1."
+Use  **Sheets** (_index_), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named "sheet1."
 
 
 
