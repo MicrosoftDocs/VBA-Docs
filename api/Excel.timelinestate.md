@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TimelineState object (Excel)
 
-The timeline-specific state of a [SlicerCache object (Excel)](Excel.SlicerCache.md) object.
+The timeline-specific state of a [SlicerCache](Excel.SlicerCache.md) object.
 
 
 ## Remarks

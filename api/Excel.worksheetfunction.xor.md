@@ -19,7 +19,7 @@ Returns a logical exclusive OR of all arguments.
 
 _expression_. `Xor`_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4,_ _Arg5,_ _Arg6,_ _Arg7,_ _Arg8,_ _Arg9,_ _Arg10,_ _Arg11,_ _Arg12,_ _Arg13,_ _Arg14,_ _Arg15,_ _Arg16,_ _Arg17,_ _Arg18,_ _Arg19,_ _Arg20,_ _Arg21,_ _Arg22,_ _Arg23,_ _Arg24,_ _Arg25,_ _Arg26,_ _Arg27,_ _Arg28,_ _Arg29,_ _Arg30)_
 
-_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

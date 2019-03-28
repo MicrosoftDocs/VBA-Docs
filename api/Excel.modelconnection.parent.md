@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ModelConnection.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[ModelConnection](Excel.modelconnection.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [ModelConnection](Excel.modelconnection.md) object. Read-only.
 
 
 ## Syntax

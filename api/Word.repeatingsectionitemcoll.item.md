@@ -17,7 +17,7 @@ Returns an individual repeating section item.
 
 ## Syntax
 
- _expression_. `Item`_(Index)_
+ _expression_.**Item** (_Index_)
 
  _expression_ A variable that represents a 'RepeatingSectionItemColl' object.
 

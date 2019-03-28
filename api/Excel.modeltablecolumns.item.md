@@ -17,7 +17,7 @@ Returns a [ModelTableColumn](Excel.modeltablecolumn.md) object from the **ModelT
 
 ## Syntax
 
-_expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[ModelTableColumns](Excel.modeltablecolumns.md)** object.
 

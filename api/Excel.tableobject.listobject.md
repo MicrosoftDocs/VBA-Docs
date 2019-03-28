@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TableObject.ListObject property (Excel)
 
-Returns a [ListObject object (Excel)](Excel.ListObject.md) object for the [TableObject object (Excel)](Excel.tableobject.md) object. Read-only
+Returns a [ListObject](Excel.ListObject.md) object for the [TableObject](Excel.tableobject.md) object. Read-only
 
 
 ## Syntax
 
 _expression_. `ListObject`
 
-_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable](Excel.modeltable.md) object.
 
 
 ## Property value

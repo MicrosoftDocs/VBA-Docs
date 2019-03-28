@@ -19,7 +19,7 @@ Returns the probability of a trial result using a binomial distribution.
 
 _expression_. `Binom_Dist_Range`_(Arg1,_ _Arg2,_ _Arg3,_ _Arg4)_
 
-_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters

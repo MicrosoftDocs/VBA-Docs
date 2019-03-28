@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.SortFields
 ms.assetid: a9c83ea1-1cd9-1552-1f03-71bd92a2cc72
-ms.date: 06/08/2017
+ms.date: 03/28/2019
 localization_priority: Normal
 ---
 
 
 # SortFields object (Excel)
 
-The  **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
+The **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
 
 
 ## Remarks
 
-The object contains properties to add, count, sort, and remove  **SortField** objects.
+The object contains properties to add, count, sort, and remove **SortField** objects.
 
 
 ## Example
@@ -38,21 +38,15 @@ ActiveWorksheet.SortFields.Sort Header:=xlGuess
 - [Add](Excel.SortFields.Add.md)
 - [Add2](Excel.SortFields.Add2.md)
 - [Clear](Excel.SortFields.Clear.md)
-- [Delete](Excel.soundnote.delete.md)
-- [Import](Excel.soundnote.import.md)
-- [Play](Excel.soundnote.play.md)
-- [Record](Excel.soundnote.record.md)
+
 
 ## Properties
 
 - [Application](Excel.SortFields.Application.md)
-- [Application](Excel.soundnote.application.md)
 - [Count](Excel.SortFields.Count.md)
 - [Creator](Excel.SortFields.Creator.md)
-- [Creator](Excel.soundnote.creator.md)
 - [Item](Excel.SortFields.Item.md)
 - [Parent](Excel.SortFields.Parent.md)
-- [Parent](Excel.soundnote.parent.md)
 
 
 ## See also

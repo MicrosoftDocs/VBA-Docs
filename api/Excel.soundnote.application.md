@@ -12,19 +12,22 @@ localization_priority: Normal
 
 # SoundNote.Application property (Excel)
 
-When used without an object qualifier, this property returns an  **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
+> [!NOTE] 
+> This property should not be used. Sound notes have been removed from Microsoft Excel.
+
+When used without an object qualifier, this property returns an **[Application](Excel.Application(object).md)** object that represents the Microsoft Excel application. When used with an object qualifier, this property returns an **Application** object that represents the creator of the specified object (you can use this property with an OLE Automation object to return the application of that object). Read-only.
 
 
 ## Syntax
 
 _expression_.**Application**
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
 ## Example
 
-This example displays a message about the application that created  `myObject`.
+This example displays a message about the application that created `myObject`.
 
 
 ```vb
@@ -37,6 +40,5 @@ End If
 ```
 
 
-## See also
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

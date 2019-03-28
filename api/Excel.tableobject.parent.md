@@ -12,14 +12,14 @@ localization_priority: Normal
 
 # TableObject.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[TableObject object (Excel)](Excel.tableobject.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [TableObject](Excel.tableobject.md) object. Read-only.
 
 
 ## Syntax
 
 _expression_.**Parent**
 
-_expression_ A variable that represents a [TableObject object (Excel)](Excel.tableobject.md) object.
+_expression_ A variable that represents a [TableObject](Excel.tableobject.md) object.
 
 
 ## Property value

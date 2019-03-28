@@ -19,7 +19,7 @@ localization_priority: Normal
 
 _expression_. `EnableEditing`
 
-_expression_ A variable that represents a [ModelTable object (Excel)](Excel.modeltable.md) object.
+_expression_ A variable that represents a [ModelTable](Excel.modeltable.md) object.
 
 
 ## Property value

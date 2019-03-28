@@ -12,6 +12,9 @@ localization_priority: Normal
 
 # SoundNote.Delete method (Excel)
 
+> [!NOTE] 
+> This method should not be used. Sound notes have been removed from Microsoft Excel.
+
 Deletes the sound note.
 
 
@@ -19,9 +22,9 @@ Deletes the sound note.
 
 _expression_.**Delete**
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
-## See also
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

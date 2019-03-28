@@ -19,7 +19,7 @@ Returns an  **[Application](Excel.Application(object).md)** object that represen
 
 _expression_.**Application**
 
-_expression_ A variable that represents a [TimelineState object (Excel)](Excel.timelinestate.md) object.
+_expression_ A variable that represents a [TimelineState](Excel.timelinestate.md) object.
 
 
 ## Example

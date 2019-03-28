@@ -12,16 +12,19 @@ localization_priority: Normal
 
 # SoundNote.Play method (Excel)
 
+> [!NOTE] 
+> This method should not be used. Sound notes have been removed from Microsoft Excel.
+
 Plays the sound note.
 
 
 ## Syntax
 
-_expression_. `Play`
+_expression_.**Play**
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
-## See also
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

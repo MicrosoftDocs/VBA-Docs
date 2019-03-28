@@ -12,16 +12,19 @@ localization_priority: Normal
 
 # SoundNote.Record method (Excel)
 
+> [!NOTE] 
+> This method should not be used. Sound notes have been removed from Microsoft Excel.
+
 Records the sound note.
 
 
 ## Syntax
 
-_expression_. `Record`
+_expression_.**Record**
 
-_expression_ A variable that represents a 'SoundNote' object.
+_expression_ A variable that represents a **SoundNote** object.
 
 
-## See also
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

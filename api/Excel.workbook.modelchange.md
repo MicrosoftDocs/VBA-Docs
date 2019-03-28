@@ -28,7 +28,7 @@ _expression_ A variable that represents a [Workbook](./Excel.Workbook.md) object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Changes_|Required|MODELCHANGES|[ModelChanges object (Excel)](Excel.modelchanges.md) object which includes changes made to the Excel data model during the last transaction.|
+| _Changes_|Required|MODELCHANGES|[ModelChanges](Excel.modelchanges.md) object which includes changes made to the Excel data model during the last transaction.|
 
 ## See also
 

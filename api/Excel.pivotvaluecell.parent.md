@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # PivotValueCell.Parent property (Excel)
 
-Returns an  **Object** that represents the parent object of the specified[PivotValueCell](Excel.pivotvaluecell.md) object. Read-only.
+Returns an  **Object** that represents the parent object of the specified [PivotValueCell](Excel.pivotvaluecell.md) object. Read-only.
 
 
 ## Syntax

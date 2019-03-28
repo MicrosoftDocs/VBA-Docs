@@ -17,7 +17,7 @@ Returns a single object from the  **ModelTableNameChanges** collection.
 
 ## Syntax
 
-_expression_. `Item`_(Index)_
+_expression_.**Item** (_Index_)
 
 _expression_ A variable that represents a **[ModelTableNameChanges](Excel.modeltablenamechanges.md)** object.
 

@@ -14,7 +14,7 @@ localization_priority: Priority
 
 # ListObject object (Excel)
 
-Represents a [ListObject object (Excel)](Excel.ListObject.md) object in the **ListObjects** collection.
+Represents a [ListObject](Excel.ListObject.md) object in the **ListObjects** collection.
 
 
 ## Remarks

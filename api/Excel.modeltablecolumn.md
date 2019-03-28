@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # ModelTableColumn object (Excel)
 
-Represent a single column inside a [ModelTable object (Excel)](Excel.modeltable.md) object.
+Represent a single column inside a [ModelTable](Excel.modeltable.md) object.
 
 
 ## Remarks

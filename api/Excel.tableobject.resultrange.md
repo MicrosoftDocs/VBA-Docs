@@ -12,7 +12,7 @@ localization_priority: Normal
 
 # TableObject.ResultRange property (Excel)
 
-Returns a [Range object (Excel)](Excel.Range(object).md) object that represents the area of the worksheet occupied by the specified query table. Read-only
+Returns a [Range](Excel.Range(object).md) object that represents the area of the worksheet occupied by the specified query table. Read-only
 
 
 ## Syntax

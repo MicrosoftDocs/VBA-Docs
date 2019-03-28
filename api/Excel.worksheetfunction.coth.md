@@ -19,7 +19,7 @@ Returns the hyperbolic cotangent of a number
 
 _expression_. `Coth`_(Arg1)_
 
-_expression_ A variable that represents a [WorksheetFunction object (Excel)](Excel.WorksheetFunction.md) object.
+_expression_ A variable that represents a [WorksheetFunction](Excel.WorksheetFunction.md) object.
 
 
 ## Parameters
