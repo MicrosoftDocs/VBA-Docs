@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotField
 ms.assetid: 52784960-e2da-b43a-1e37-2d4dae61c6d8
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,23 +19,23 @@ Represents a field in a PivotTable report.
 
 ## Remarks
 
- The **PivotField** object is a member of the **[PivotFields](Excel.PivotFields.md)** collection. The **PivotFields** collection contains all the fields in a PivotTable report, including hidden fields.
+The **PivotField** object is a member of the **[PivotFields](Excel.PivotFields.md)** collection. The **PivotFields** collection contains all the fields in a PivotTable report, including hidden fields.
 
 In some cases, it may be easier to use one of the properties that returns a subset of the PivotTable fields. The following properties are available:
 
-
--  **[ColumnFields](Excel.PivotTable.ColumnFields.md)** property   
--  **[DataFields](Excel.PivotTable.DataFields.md)** property    
--  **[HiddenFields](Excel.PivotTable.HiddenFields.md)** property   
--  **[PageFields](Excel.PivotTable.PageFields.md)** property    
--  **[RowFields](Excel.PivotTable.RowFields.md)** property    
--  **[VisibleFields](Excel.PivotTable.VisibleFields.md)** property
+- **[ColumnFields](Excel.PivotTable.ColumnFields.md)** property   
+- **[DataFields](Excel.PivotTable.DataFields.md)** property    
+- **[HiddenFields](Excel.PivotTable.HiddenFields.md)** property   
+- **[PageFields](Excel.PivotTable.PageFields.md)** property    
+- **[RowFields](Excel.PivotTable.RowFields.md)** property    
+- **[VisibleFields](Excel.PivotTable.VisibleFields.md)** property
     
 
 ## Example
 
-Use  **[PivotFields](Excel.PivotTable.PivotFields.md)** (_index_), where _index_ is the field name or index number, to return a single **PivotField** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
+Use **[PivotFields](Excel.PivotTable.PivotFields.md)** (_index_), where _index_ is the field name or index number, to return a single **PivotField** object. 
 
+The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 ```vb
 Worksheets("sheet3").PivotTables(1) _ 

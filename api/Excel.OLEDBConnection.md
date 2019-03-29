@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEDBConnection
 ms.assetid: f246e544-9854-8e71-a7f7-dec57dd725e4
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,9 +19,9 @@ Represents the OLE DB connection.
 
 ## Remarks
 
-An OLE DB connection can be stored in an Excel workbook. When Microsoft Excel opens the workbook, Excel creates an in-memory copy of the OLE DB connection known as the  **OLEDBConnection** object.
+An OLE DB connection can be stored in an Excel workbook. When Excel opens the workbook, it creates an in-memory copy of the OLE DB connection known as the **OLEDBConnection** object.
 
-An  **OLEDBConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **OLEDBConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a `SELECT` statement to be executed by SQL Server).
+An **OLEDBConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **OLEDBConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a **SELECT** statement to be executed by SQL Server).
 
 
 ## Methods

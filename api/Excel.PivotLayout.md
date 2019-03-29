@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotLayout
 ms.assetid: cfef617e-f49a-e969-7873-40593412a32e
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,9 @@ Represents the placement of fields in a PivotChart report.
 
 ## Example
 
-Use the  **[PivotLayout](Excel.Chart.PivotLayout.md)** property to return a **PivotLayout** object. The following example creates a list of PivotTable field names used in the first PivotChart report.
+Use the **[PivotLayout](Excel.Chart.PivotLayout.md)** property of the **Chart** object to return a **PivotLayout** object. 
 
+The following example creates a list of PivotTable field names used in the first PivotChart report.
 
 ```vb
 Sub ListFieldNames 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Outline
 ms.assetid: f5d50a8a-0dd9-638a-4374-5c648386a598
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,9 @@ Represents an outline on a worksheet.
 
 ## Example
 
-Use the  **[Outline](Excel.Worksheet.Outline.md)** property to return an **Outline** object. The following example sets the outline on Sheet4 so that only the first outline level is shown.
+Use the **[Outline](Excel.Worksheet.Outline.md)** property of the **Worksheet** object to return an **Outline** object. 
 
+The following example sets the outline on Sheet4 so that only the first outline level is shown.
 
 ```vb
 Worksheets("sheet4").Outline.ShowLevels 1

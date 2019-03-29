@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.OLEObject
 ms.assetid: bc3ef12d-1531-6c21-71ab-3df6bb851f3b
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,31 +19,30 @@ Represents an ActiveX control or a linked or embedded OLE object on a worksheet.
 
 ## Remarks
 
- The **OLEObject** object is a member of the **[OLEObjects](Excel.OLEObjects.md)** collection. The **OLEObjects** collection contains all the OLE objects on a single worksheet.
+The **OLEObject** object is a member of the **[OLEObjects](Excel.OLEObjects.md)** collection. The **OLEObjects** collection contains all the OLE objects on a single worksheet.
 
 
 ## Example
 
-Use  **[OLEObjects](Excel.Worksheet.OLEObjects.md)** (_index_), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
+Use **[OLEObjects](Excel.Worksheet.OLEObjects.md)** (_index_), where _index_ is the name or number of the object, to return an **OLEObject** object. 
 
+The following example deletes OLE object one on Sheet1.
 
 ```vb
 Worksheets("sheet1").OLEObjects(1).Delete
 ```
 
-The following example deletes the OLE object named "ListBox1."
+<br/>
 
-
-
+The following example deletes the OLE object named ListBox1.
 
 ```vb
 Worksheets("sheet1").OLEObjects("ListBox1").Delete
 ```
 
-The properties and methods of the  **OLEObject** object are duplicated on each ActiveX control on a worksheet. This enables Visual Basic code to gain access to these properties by using the control's name. The following example selects the check box control named "MyCheckBox," aligns it with the active cell, and then activates the control.
+<br/>
 
-
-
+The properties and methods of the **OLEObject** object are duplicated on each ActiveX control on a worksheet. This enables Visual Basic code to gain access to these properties by using the control's name. The following example selects the check box control named **MyCheckBox**, aligns it with the active cell, and then activates the control.
 
 ```vb
 With MyCheckBox 

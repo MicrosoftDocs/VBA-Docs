@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.PivotLines
 ms.assetid: 191aba6c-b238-3ac5-830a-cbbabeb377a2
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # PivotLines object (Excel)
 
-The  **PivotLines** object is a collection of lines in a PivotTable, containing all lines on rows or columns of the pivot. Each line is a set of PivotCells.
+The **PivotLines** object is a collection of lines in a PivotTable, containing all lines on rows or columns of the pivot. Each line is a set of PivotCells.
 
 ## Properties
 

@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.PivotFilter
 ms.assetid: 70c27dc9-2c19-47d2-307b-808507039d94
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # PivotFilter object (Excel)
 
-A PivotFilter is applied to a  **PivotField** object.
+A PivotFilter is applied to a **[PivotField](Excel.PivotField.md)** object.
 
 
 ## Remarks
 
-Developers have the option of naming filters for reference since the index is not reliable. The  **DataField** property specifies the PivotField to base a value filter on.
+Developers have the option of naming filters for reference because the index is not reliable. The **DataField** property specifies the PivotField to base a value filter on.
 
 ## Methods
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotItem
 ms.assetid: 5829a1d9-0924-9ce8-1120-229e4595285a
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,14 @@ Represents an item in a PivotTable field.
 
 ## Remarks
 
- The items are the individual data entries in a field category. The **PivotItem** object is a member of the **[PivotItems](Excel.PivotItems.md)** collection. The **PivotItems** collection contains all the items in a **PivotField** object.
+The items are the individual data entries in a field category. The **PivotItem** object is a member of the **[PivotItems](Excel.PivotItems.md)** collection. The **PivotItems** collection contains all the items in a **PivotField** object.
 
 
 ## Example
 
-Use  **[PivotItems](Excel.PivotField.PivotItems.md)** (_index_), where _index_ is the item index number or name, to return a single **PivotItem** object. The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
+Use **[PivotItems](Excel.PivotField.PivotItems.md)** (_index_), where _index_ is the item index number or name, to return a single **PivotItem** object. 
 
+The following example hides all entries in the first PivotTable report on Sheet3 that contain "1998" in the Year field.
 
 ```vb
 Worksheets("sheet3").PivotTables(1) _ 

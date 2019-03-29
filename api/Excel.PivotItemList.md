@@ -7,26 +7,28 @@ ms.prod: excel
 api_name:
 - Excel.PivotItemList
 ms.assetid: 2b0fc8e5-6073-9cb1-2217-1e8715cddb1e
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # PivotItemList object (Excel)
 
-A collection of all the  **[PivotItem](Excel.PivotItem.md)** objects in the specified PivotTable.
+A collection of all the **[PivotItem](Excel.PivotItem.md)** objects in the specified PivotTable.
 
 
 ## Remarks
 
- Each **PivotItem** represents an item in a PivotTable field.
+Each **PivotItem** represents an item in a PivotTable field.
 
-Use the  **[RowItems](Excel.PivotCell.RowItems.md)** or **[ColumnItems](Excel.PivotCell.ColumnItems.md)** property of the **[PivotCell](Excel.PivotCell.md)** object to return a **PivotItemList** collection.
+Use the **[RowItems](Excel.PivotCell.RowItems.md)** or **[ColumnItems](Excel.PivotCell.ColumnItems.md)** property of the **PivotCell** object to return a **PivotItemList** collection.
 
 
 ## Example
 
-Once a  **PivotItemList** collection is returned, you can use the **[Item](Excel.PivotItems.Item.md)** method to identify a particular **PivotItem** list. The following example displays the **PivotItem** list associated with cell B5 to the user. This example assumes a PivotTable exists on the active worksheet.
+After a **PivotItemList** collection is returned, you can use the **[Item](Excel.PivotItems.Item.md)** method of the **PivotItems** object to identify a particular **PivotItem** list. 
+
+The following example displays the **PivotItem** list associated with cell B5 to the user. This example assumes that a PivotTable exists on the active worksheet.
 
 
 ```vb

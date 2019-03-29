@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindows
 ms.assetid: c280b1c5-c605-6453-3604-3a409a8289d0
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # ProtectedViewWindows object (Excel)
 
-A collection of the  **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** objects that represent all the **Protected View** windows that are currently open in the application.
+A collection of the **[ProtectedViewWindow](Excel.ProtectedViewWindow.md)** objects that represent all the **Protected View** windows that are currently open in the application.
 
 
 ## Remarks
 
-Use the  **[ProtectedViewWindows](Excel.Application.ProtectedViewWindows.md)** property to return the **ProtectedViewWindows** collection.
+Use the **[ProtectedViewWindows](Excel.Application.ProtectedViewWindows.md)** property of the **Application** object to return the **ProtectedViewWindows** collection.
 
 
 ## Example
 
-The following code example displays the number of  **Protected View** windows that are open.
-
+The following code example displays the number of **Protected View** windows that are open.
 
 ```vb
 MsgBox "There are " & ProtectedViewWindows.Count & _ 

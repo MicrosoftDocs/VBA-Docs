@@ -7,20 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Pages
 ms.assetid: ecedccc4-e1af-6a66-9d83-bd0cf76dfe68
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # Pages object (Excel)
 
-A collection of pages in a document. Use the  **Pages** collection and the related objects and properties for programmatically defining page layout in a workbook.
+A collection of pages in a document. Use the **Pages** collection and the related objects and properties for programmatically defining page layout in a workbook.
 
 
 ## Remarks
 
-Use the  **Pages** property to return a **Pages** collection. The following example accesses all pages in the active worksheet.
-
+Use the **[Pages](excel.pagesetup.pages.md)** property of the **PageSetup** object to return a **Pages** collection. The following example accesses all pages in the active worksheet.
 
 ```vb
 Dim objPages As Pages 
@@ -29,10 +28,9 @@ Set objPage = ActiveWorksheet. _
  ActiveWindow.Panes(1).Pages
 ```
 
-Use the  **Item** method to access an individual **Page** object that represents an individual page in a worksheet. The following example accesses the first page in the active worksheet.
+<br/>
 
-
-
+Use the **Item** method to access an individual **Page** object that represents an individual page in a worksheet. The following example accesses the first page in the active worksheet.
 
 ```vb
 Dim objPage As Page 
