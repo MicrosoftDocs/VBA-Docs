@@ -31,4 +31,8 @@ This example sets pie group one to use a different color for each data marker. T
 myChart.PieGroups(1).VaryByCategories = True
 ```
 
+## See also
+
+- [ChartGroups collection](Excel.ChartGroups(object).md) 
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

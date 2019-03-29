@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AutoFilter
 ms.assetid: 1a6fcf3b-52be-b599-029b-a3c53d12f85e
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -16,17 +16,18 @@ localization_priority: Normal
 
 Represents autofiltering for the specified worksheet.
 
+> [!NOTE] 
+> When using **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
- **Note**  When using  **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
-
-
- **Note**  Working with objects (e g  **Interior** Object) requires adding a reference to an object. You will find more information about assigning an Object reference to a variable or property in the [Set Statement](../language/reference/User-Interface-Help/set-statement.md).
+> [!NOTE] 
+> Working with objects (for example, the **Interior** object) requires adding a reference to an object. You will find more information about assigning an Object reference to a variable or property in the [Set statement](../language/reference/User-Interface-Help/set-statement.md).
 
 
 ## Example
 
-Use the  **[AutoFilter](Excel.Worksheet.AutoFilter.md)** property to return the **AutoFilter** object. Use the **[Filters](Excel.AutoFilter.Filters.md)** property to return a collection of individual column filters. Use the **[Range](Excel.AutoFilter.Range.md)** property to return the **Range** object that represents the entire filtered range. The following example stores the address and filtering criteria for the current filtering and then applies new filters.
+Use the **[AutoFilter](Excel.Worksheet.AutoFilter.md)** property of the **Worksheet** object to return the **AutoFilter** object. Use the **Filters** property to return a collection of individual column filters. Use the **Range** property to return the **Range** object that represents the entire filtered range. 
 
+The following example stores the address and filtering criteria for the current filtering, and then applies new filters.
 
 ```vb
 Dim w As Worksheet 
@@ -60,10 +61,9 @@ w.Range("A1").AutoFilter field:=1, Criteria1:="S"
 End Sub
 ```
 
-To create an  **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **[Range](Excel.Range(object).md)** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
+<br/>
 
-
-
+To create an **AutoFilter** object for a worksheet, you must turn autofiltering on for a range on the worksheet either manually or by using the **[AutoFilter](Excel.Range.AutoFilter.md)** method of the **Range** object. The following example uses the values stored in module-level variables in the previous example to restore the original autofiltering to the Crew worksheet.
 
 ```vb
 Sub RestoreFilters() 
@@ -87,7 +87,6 @@ End Sub
 ```
 
 
- **Note**  When using  **AutoFilter** with dates, the format should be consistent with English date separators ("/") instead of local settings ("."). A valid date would be "2/2/2007", whereas "2.2.2007" is invalid.
 
 
 ## Methods

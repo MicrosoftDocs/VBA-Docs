@@ -32,7 +32,7 @@ If ActiveWindow.Panes.Count > 1 Then _
  ActiveWindow.FreezePanes = True
 ```
 
-Use  **[Panes](Excel.Window.Panes.md)** ( _index_ ), where _index_ is the pane index number, to return a single **Pane** object. The following example scrolls through the upper-left pane of the window in which Sheet1 is displayed.
+Use  **[Panes](Excel.Window.Panes.md)** (_index_), where _index_ is the pane index number, to return a single **Pane** object. The following example scrolls through the upper-left pane of the window in which Sheet1 is displayed.
 
 
 

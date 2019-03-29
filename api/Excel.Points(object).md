@@ -19,7 +19,7 @@ A collection of all the  **[Point](Excel.Point(object).md)** objects in the spec
 
 ## Remarks
 
-Use  **[Points](Excel.Series.Points.md)** ( _index_ ), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
+Use  **[Points](Excel.Series.Points.md)** (_index_), where _index_ is the point index number, to return a single **Point** object. Points are numbered from left to right on the series. `Points(1)` is the leftmost point, and `Points(Points.Count)` is the rightmost point.
 
 
 ## Example

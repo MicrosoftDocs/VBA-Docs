@@ -5430,14 +5430,6 @@
 ###### [Creator](Excel.CubeFields.Creator.md)
 ###### [Item](Excel.CubeFields.Item.md)
 ###### [Parent](Excel.CubeFields.Parent.md)
-#### [CustomProperties object](Excel.CustomProperties.md)
-##### Methods
-###### [Add](Excel.CustomProperties.Add.md)
-###### [Application](Excel.CustomProperties.Application.md)
-###### [Count](Excel.CustomProperties.Count.md)
-###### [Creator](Excel.CustomProperties.Creator.md)
-###### [Item](Excel.CustomProperties.Item.md)
-###### [Parent](Excel.CustomProperties.Parent.md)
 #### [CustomProperty object](Excel.CustomProperty.md)
 ##### Methods
 ###### [Delete](Excel.CustomProperty.Delete.md)
@@ -5447,6 +5439,14 @@
 ###### [Name](Excel.CustomProperty.Name.md)
 ###### [Parent](Excel.CustomProperty.Parent.md)
 ###### [Value](Excel.CustomProperty.Value.md)
+#### [CustomProperties object](Excel.CustomProperties.md)
+##### Methods
+###### [Add](Excel.CustomProperties.Add.md)
+###### [Application](Excel.CustomProperties.Application.md)
+###### [Count](Excel.CustomProperties.Count.md)
+###### [Creator](Excel.CustomProperties.Creator.md)
+###### [Item](Excel.CustomProperties.Item.md)
+###### [Parent](Excel.CustomProperties.Parent.md)
 #### [CustomView object](Excel.CustomView.md)
 ##### Methods
 ###### [Delete](Excel.CustomView.Delete.md)
@@ -28837,14 +28837,6 @@
 ###### [Count](Word.CustomLabels.Count.md)
 ###### [Creator](Word.CustomLabels.Creator.md)
 ###### [Parent](Word.CustomLabels.Parent.md)
-#### [CustomProperties object](Word.CustomProperties.md)
-##### Methods
-###### [Add](Word.CustomProperties.Add.md)
-###### [Item](Word.CustomProperties.Item.md)
-###### [Application](Word.CustomProperties.Application.md)
-###### [Count](Word.CustomProperties.Count.md)
-###### [Creator](Word.CustomProperties.Creator.md)
-###### [Parent](Word.CustomProperties.Parent.md)
 #### [CustomProperty object](Word.CustomProperty.md)
 ##### Methods
 ###### [Delete](Word.CustomProperty.Delete.md)
@@ -28854,6 +28846,14 @@
 ###### [Name](Word.CustomProperty.Name.md)
 ###### [Parent](Word.CustomProperty.Parent.md)
 ###### [Value](Word.CustomProperty.Value.md)
+#### [CustomProperties object](Word.CustomProperties.md)
+##### Methods
+###### [Add](Word.CustomProperties.Add.md)
+###### [Item](Word.CustomProperties.Item.md)
+###### [Application](Word.CustomProperties.Application.md)
+###### [Count](Word.CustomProperties.Count.md)
+###### [Creator](Word.CustomProperties.Creator.md)
+###### [Parent](Word.CustomProperties.Parent.md)
 #### [DataLabel object](Word.DataLabel.md)
 ##### Methods
 ###### [Delete](Word.DataLabel.Delete.md)

@@ -19,7 +19,7 @@ Represents a single instance of a custom property for a smart tag. The **SmartTa
 
 ## Remarks
 
-To return a **SmartTagProperty** object, use the **[Item](access.smarttagproperties.item.md)** method of the **SmartTagProperties** collection, or use **SmartTagProperties** (_Index_), where _Index_ is the number of the property. 
+To return a **SmartTagProperty** object, use the **[Item](access.smarttagproperties.item.md)** method of the **SmartTagProperties** collection, or use **SmartTagProperties** (_index_), where _index_ is the number of the property. 
 
 To return the information related to a custom property for a smart tag, use the **Name** and **Value** properties of the **SmartTagProperty** object.
 

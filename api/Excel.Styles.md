@@ -47,7 +47,7 @@ End With
 Worksheets(1).Range("A25:A30").Style = "Bookman Top Border"
 ```
 
-Use  **Styles** ( _index_ ), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting its **Bold** property.
+Use  **Styles** (_index_), where _index_ is the style index number or name, to return a single **Style** object from the workbook **Styles** collection. The following example changes the Normal style for the active workbook by setting its **Bold** property.
 
 
 

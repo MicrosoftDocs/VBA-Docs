@@ -16,7 +16,7 @@ Contains a collection of  **[TaskDependency](Project.TaskDependency.md)** object
 
  **Using the TaskDependency Object**
 
-Use  **TaskDependencies** ( _Index_ ), where _Index_ is the dependency index, to return a single **TaskDependency** object. The following example adds 1.5 days of lag to the link between the specified task and the predecessor specified in its first task dependency.
+Use  **TaskDependencies** (_index_), where _index_ is the dependency index, to return a single **TaskDependency** object. The following example adds 1.5 days of lag to the link between the specified task and the predecessor specified in its first task dependency.
 
 
 

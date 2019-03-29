@@ -31,7 +31,7 @@ Use the  **[PivotCache](Excel.PivotTable.PivotCache.md)** method to return a **P
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 
-Use  **[PivotCaches](Excel.Workbook.PivotCaches.md)** ( _index_ ), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
+Use  **[PivotCaches](Excel.Workbook.PivotCaches.md)** (_index_), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
 
 
 

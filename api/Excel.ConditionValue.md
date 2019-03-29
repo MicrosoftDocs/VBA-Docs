@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ConditionValue
 ms.assetid: a39335db-4e0a-66aa-393b-3aa7e5268c00
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents how the shortest bar or longest bar is evaluated for a data bar condi
 
 ## Remarks
 
-The  **ConditionValue** object is returned using either the **[MaxPoint](Excel.Databar.MaxPoint.md)** or **[MinPoint](Excel.Databar.MinPoint.md)** property of the **[Databar](Excel.Databar.md)** object.
+The **ConditionValue** object is returned by using either the **[MaxPoint](Excel.Databar.MaxPoint.md)** or **[MinPoint](Excel.Databar.MinPoint.md)** property of the **Databar** object.
 
-You can change the type of evaluation from the default setting (lowest value for the shortest bar and highest value for the longest bar) by using the  **[Modify](Excel.ConditionValue.Modify.md)** method.
+You can change the type of evaluation from the default setting (lowest value for the shortest bar and highest value for the longest bar) by using the **Modify** method.
 
 
 ## Example
 
-The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similar length. To disambiguate the middle values, the sample code uses the  **ConditionValue** object to change how the thresholds are evaluated to percentiles.
-
+The following example creates a range of data and then applies a data bar to the range. You will notice that because there is an extremely low and high value in the range, the middle values have data bars that are of similar length. To disambiguate the middle values, the sample code uses the **ConditionValue** object to change how the thresholds are evaluated to percentiles.
 
 ```vb
 Sub CreateDataBarCF() 

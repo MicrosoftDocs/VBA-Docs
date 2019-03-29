@@ -7,20 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.CubeField
 ms.assetid: 6db16910-6c27-651a-c388-e54e27fe4519
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
 
 # CubeField object (Excel)
 
-Represents a hierarchy or measure field from an OLAP cube. In a PivotTable report, the  **CubeField** object is a member of the **[CubeFields](Excel.CubeFields.md)** collection.
+Represents a hierarchy or measure field from an OLAP cube. In a PivotTable report, the **CubeField** object is a member of the **[CubeFields](Excel.CubeFields.md)** collection.
 
 
 ## Example
 
-Use the  **[CubeField](Excel.PivotField.CubeField.md)** property to return the **CubeField** object. This example creates a list of the cube field names for all the hierarchy fields in the first OLAP-based PivotTable report on Sheet1.
-
+Use the **[CubeField](Excel.PivotField.CubeField.md)** property of the **PivotField** object to return the **CubeField** object. This example creates a list of the cube field names for all the hierarchy fields in the first OLAP-based PivotTable report on **Sheet1**.
 
 ```vb
 Set objNewSheet = Worksheets.Add 
@@ -35,10 +34,9 @@ For Each objPF in _
 Next objPF
 ```
 
-Use  **CubeFields** ( _index_ ), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
+<br/>
 
-
-
+Use **CubeFields** (_index_), where _index_ is the cube field's index number, to return a single **CubeField** object. The following example determines the name of the second cube field in the first PivotTable report on the active worksheet.
 
 ```vb
 strAlphaName = _ 

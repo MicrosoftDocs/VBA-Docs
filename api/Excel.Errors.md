@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Errors
 ms.assetid: d2b50bbf-2685-fc5f-74c5-fa8bb9955f2a
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,12 @@ Represents the various spreadsheet errors for a range.
 
 ## Remarks
 
-Use the  **[Errors](Excel.Range.Errors.md)** property of the **[Range](Excel.Range(object).md)** object to return an **Errors** object.
+Use the **[Errors](Excel.Range.Errors.md)** property of the **Range** object to return an **Errors** object.
 
 
 ## Example
 
-Once an  **Errors** object is returned, you can use the **Value** property of the **[Error](Excel.Error.md)** object to check for particular error-checking conditions. The following example places a number as text in cell A1 and then notifies the user when the value of cell A1 contains a number as text.
-
+After an **Errors** object is returned, you can use the **Value** property of the **[Error](Excel.Error.md)** object to check for particular error-checking conditions. The following example places a number as text in cell A1, and then notifies the user when the value of cell A1 contains a number as text.
 
 ```vb
 Sub ErrorValue() 

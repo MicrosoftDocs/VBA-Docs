@@ -21,7 +21,7 @@ Represents an Outlook reminder.
 
 Reminders allow users to keep track of upcoming appointments by scheduling a pop-up dialog box to appear at a given time. In addition to appointments, reminders can occur for tasks, contacts and email messages.
 
-Use  **[Reminders](./Outlook.Application.Reminders.md)** ( _index_ ), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
+Use  **[Reminders](./Outlook.Application.Reminders.md)** (_index_), where _index_ is the name or index number of the reminder, to return a single **Reminder** object.
 
 Reminders are created programmatically when a new Microsoft Outlook item, such as an  **[AppointmentItem](Outlook.AppointmentItem.md)** object, is created and the item 's **[ReminderSet](./Outlook.AppointmentItem.ReminderSet.md)** property is set to **True**.
 

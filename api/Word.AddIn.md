@@ -19,7 +19,7 @@ Represents a single add-in, either installed or not installed. The  **AddIn** ob
 
 ## Remarks
 
-Use  **[AddIns](Word.Application.AddIns.md)** ( _index_ ), where _index_ is the add-in name or index number, to return a single **AddIn** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-Ins** dialog box. The following example loads the Letter.dot template as a global template.
+Use  **[AddIns](Word.Application.AddIns.md)** (_index_), where _index_ is the add-in name or index number, to return a single **AddIn** object. You must exactly match the spelling (but not necessarily the capitalization) of the name, as it is shown in the **Templates and Add-Ins** dialog box. The following example loads the Letter.dot template as a global template.
 
 
 ```vb

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Remarks
 
-Use the [Conflicts](Word.CoAuthoring.Conflicts.md) property to return the **Conflicts** collection for a document. Use Conflicts( _Index_ ), where _Index_ is the conflict index number, to return a single **Conflict** object.
+Use the [Conflicts](Word.CoAuthoring.Conflicts.md) property to return the **Conflicts** collection for a document. Use Conflicts (_index_), where _index_ is the conflict index number, to return a single **Conflict** object.
 
 
 ## Example

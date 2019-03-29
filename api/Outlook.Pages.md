@@ -25,7 +25,7 @@ Use the  **[ModifiedFormPages](Outlook.Inspector.ModifiedFormPages.md)** propert
 
 Use the  **[Add](Outlook.Pages.Add.md)** method to create a custom page (you can add as many as 5 customizable pages). Use the ** _Name_** argument of the **Add** method to set the display name of the returned page. In addition to adding custom pages, you can use the _Name_ argument to return the main page of an **Inspector** object for modification.
 
-Use  **ModifiedFormPages** ( _index_ ), where _index_ is the name or index number, to return a single page from a **Pages** object.
+Use  **ModifiedFormPages** (_index_), where _index_ is the name or index number, to return a single page from a **Pages** object.
 
 
 ## Example

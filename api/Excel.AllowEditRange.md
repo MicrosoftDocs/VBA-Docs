@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.AllowEditRange
 ms.assetid: 2bfd80d1-3a59-162e-194a-8699ca6b0d4b
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents the cells that can be edited on a protected worksheet.
 
 ## Remarks
 
-Use the  **[Add](Excel.AllowEditRanges.Add.md)** method or the **[Item](Excel.AllowEditRanges.Item.md)** property of the **[AllowEditRanges](Excel.AllowEditRanges.md)** collection to return an **AllowEditRange** object.
+Use the **Add** method or the **Item** property of the **[AllowEditRanges](Excel.AllowEditRanges.md)** collection to return an **AllowEditRange** object.
 
-Once an  **AllowEditRange** object has been returned, you can use the **[ChangePassword](Excel.AllowEditRange.ChangePassword.md)** method to change the password to access a range that can be edited on a protected worksheet.
+After an **AllowEditRange** object has been returned, you can use the **ChangePassword** method to change the password to access a range that can be edited on a protected worksheet.
 
 
 ## Example
 
-In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet, notifies the user, then changes the password for this specified range and notifies the user of this change.
-
+In this example, Microsoft Excel allows edits to range "A1:A4" on the active worksheet, notifies the user, and then changes the password for this specified range and notifies the user of this change.
 
 ```vb
 Sub UseChangePassword() 

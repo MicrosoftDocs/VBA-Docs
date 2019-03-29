@@ -24,7 +24,7 @@ Represents an ActiveX control or a linked or embedded OLE object on a worksheet.
 
 ## Example
 
-Use  **[OLEObjects](Excel.Worksheet.OLEObjects.md)** ( _index_ ), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
+Use  **[OLEObjects](Excel.Worksheet.OLEObjects.md)** (_index_), where _index_ is the name or number of the object, to return an **OLEObject** object. The following example deletes OLE object one on Sheet1.
 
 
 ```vb

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Floor
 ms.assetid: 74c71ca8-a0d4-f7cf-a002-5cec7a27b70d
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,7 @@ Represents the floor of a 3-D chart.
 
 ## Example
 
-Use the  **[Floor](Excel.Chart.Floor.md)** property to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart isn't a 3-D chart.
-
+Use the **[Floor](Excel.Chart.Floor.md)** property of the **Chart** object to return the **Floor** object. The following example sets the floor color for embedded chart one to cyan. The example will fail if the chart isn't a 3-D chart.
 
 ```vb
 Worksheets("sheet1").ChartObjects(1).Activate 

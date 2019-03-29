@@ -47,7 +47,7 @@ Use the  **[Add](Excel.Names.Add.md)** method to create a name and add it to the
 Names.Add Name:="test", RefersTo:="=sheet1!$a$1:$c$20"
 ```
 
-Use  **Names** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name "mySortRange" from the active workbook.
+Use  **Names** (_index_), where _index_ is the name index number or defined name, to return a single **Name** object. The following example deletes the name "mySortRange" from the active workbook.
 
 
 

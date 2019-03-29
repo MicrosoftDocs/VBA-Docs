@@ -21,7 +21,7 @@ Represents a defined name for a range of cells. Names can be either built-in nam
 
  **Application, Workbook, and Worksheet Objects**
 
-The  **Name** object is a member of the **[Names](Excel.Names.md)** collection for the **[Application](Excel.Application(object).md)**, **[Workbook](Excel.Workbook.md)**, and **[Worksheet](Excel.Worksheet.md)** objects. Use **[Names](Excel.Workbook.Names.md)** ( _index_ ), where _index_ is the name index number or defined name, to return a single **Name** object.
+The  **Name** object is a member of the **[Names](Excel.Names.md)** collection for the **[Application](Excel.Application(object).md)**, **[Workbook](Excel.Workbook.md)**, and **[Worksheet](Excel.Worksheet.md)** objects. Use **[Names](Excel.Workbook.Names.md)** (_index_), where _index_ is the name index number or defined name, to return a single **Name** object.
 
 The index number indicates the position of the name within the collection. Names are placed in alphabetic order, from a to z, and are not case-sensitive.
 

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ColorStop
 ms.assetid: 43c4d024-8213-5f93-dfa9-229f37e09d9a
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,12 @@ Represents the color stop point for a gradient fill in a range or selection.
 
 ## Remarks
 
-The  **ColorStop** object enables you to set properties for the cell fill including the **[Color](Excel.Border.Color.md)**, **[ThemeColor](Excel.Border.ThemeColor.md)**, and **[TintAndShade](Excel.Border.TintAndShade.md)** properties.
+The **ColorStop** object enables you to set properties for the cell fill, including the **Color**, **ThemeColor**, and **TintAndShade** properties.
 
 
 ## Example
 
-The following example shows how to apply properties to a  **ColorStop** object.
-
-.
-
-
-
+The following example shows how to apply properties to a **ColorStop** object.
 
 ```vb
 With Selection.Interior 

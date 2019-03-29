@@ -31,7 +31,7 @@ Use the  **[Hyperlink](Excel.Shape.Hyperlink.md)** property to return the hyperl
 Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ```
 
-A range or worksheet can have more than one hyperlink. Use  **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** ( _index_ ), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The folllowing example activates hyperlink two in the range A1:B2.
+A range or worksheet can have more than one hyperlink. Use  **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** (_index_), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The folllowing example activates hyperlink two in the range A1:B2.
 
 
 

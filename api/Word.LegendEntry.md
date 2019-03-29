@@ -43,7 +43,7 @@ After legend entries have been deleted, the only way to restore them is to remov
 
 ## Example
 
-Use  **[LegendEntries](Word.Legend.LegendEntries.md)** ( _index_ ), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **[LegendEntries](Word.Legend.LegendEntries.md)** (_index_), where _index_ is the legend entry index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font for the text of the legend entry at the top of the legend (this is usually the legend for series one) for the first chart in the active document.
 

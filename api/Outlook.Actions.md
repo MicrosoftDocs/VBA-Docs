@@ -21,7 +21,7 @@ Contains a collection of  **[Action](Outlook.Action.md)** objects that represent
 
 Use the  **Actions** property of any Outlook item, such as **[MailItem](./Outlook.MailItem.md)**, to return the **Actions** object.
 
-Use  **Actions** ( _index_ ), where _index_ is the name of an available action, to return a single **Action** object.
+Use  **Actions** (_index_), where _index_ is the name of an available action, to return a single **Action** object.
 
 
 ## Example

@@ -26,7 +26,7 @@ Because PivotTable report programming can be complex, it's generally easiest to 
 
 ## Example
 
-Use  **[PivotTables](Excel.Worksheet.PivotTables.md)** ( _index_ ), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the field named year a row field in the first PivotTable report on Sheet3.
+Use  **[PivotTables](Excel.Worksheet.PivotTables.md)** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the field named year a row field in the first PivotTable report on Sheet3.
 
 
 ```vb

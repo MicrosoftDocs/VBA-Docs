@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions
 ms.assetid: 5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,16 +19,15 @@ Contains global application-level attributes used by Microsoft Excel when you sa
 
 ## Remarks
 
- Workbook-level attribute settings override application-level attribute settings. Workbook-level attributes are contained in the **[WebOptions](Excel.WebOptions.md)** object.
+Workbook-level attribute settings override application-level attribute settings. Workbook-level attributes are contained in the **[WebOptions](Excel.WebOptions.md)** object.
 
-
- **Note**  Attribute values can be different from one workbook to another, depending on the attribute value at the time the workbook was saved.
+> [!NOTE] 
+> Attribute values can be different from one workbook to another, depending on the attribute value at the time the workbook was saved.
 
 
 ## Example
 
-Use the  **[DefaultWebOptions](Excel.Application.DefaultWebOptions.md)** property to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
-
+Use the **[DefaultWebOptions](Excel.Application.DefaultWebOptions.md)** property of the **Application** object to return the **DefaultWebOptions** object. The following example checks to see whether PNG (Portable Network Graphics) is allowed as an image format and sets the _strImageFileType_ variable accordingly.
 
 ```vb
 Set objAppWebOptions = Application.DefaultWebOptions 

@@ -23,7 +23,7 @@ Use the  **UserProperties** property to return the **UserProperties** object for
 
 Use the  **[Add](./Outlook.UserProperties.Add.md)** method to create a new **UserProperty** for an item and add it to the **UserProperties** object. The **Add** method allows you to specify a name and type for the new property. When you create a new property, it can also be added as a custom field to the folder that contains the item (using the same name as the property) by setting the _AddToFolderFields_ parameter to **True** when calling the **Add** method. That field can then be used as a column in folder views.
 
-Use  **UserProperties** ( _index_ ), where _index_ is a name or one-based index number, to return a single **[UserProperty](Outlook.UserProperty.md)** object.
+Use  **UserProperties** (_index_), where _index_ is a name or one-based index number, to return a single **[UserProperty](Outlook.UserProperty.md)** object.
 
 You can use the  **[UserDefinedProperties](./Outlook.Folder.UserDefinedProperties.md)** property of the **[Folder](Outlook.Folder.md)** object to retrieve and examine the definitions of custom item-level properties that a folder can display in a view.
 

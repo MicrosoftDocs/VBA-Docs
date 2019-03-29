@@ -7,27 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.CustomProperty
 ms.assetid: df8b58d8-ccfd-00bb-723a-a9c328f0b38b
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
 
 # CustomProperty object (Excel)
 
-Represents identifier information. Identifier information can be used as metadata for XML.
+Represents identifier information, which can be used as metadata for XML.
 
 
 ## Remarks
 
-Use the  **[Add](Excel.CustomProperties.Add.md)** method or the **[Item](Excel.CustomProperties.Item.md)** property of the **[CustomProperties](Excel.CustomProperties.md)** collection to return a **CustomProperty** object.
+Use the **Add** method or the **Item** property of the **[CustomProperties](Excel.CustomProperties.md)** collection to return a **CustomProperty** object.
 
-Once a  **CustomProperty** object is returned, you can add metadata to worksheets using the **[CustomProperties](Excel.Worksheet.CustomProperties.md)** property with the **Add** method.
+After a **CustomProperty** object is returned, you can add metadata to worksheets by using the **[CustomProperties](Excel.Worksheet.CustomProperties.md)** property of the **Worksheet** object with the **Add** method.
 
 
 ## Example
 
 In this example, Microsoft Excel adds identifier information to the active worksheet and returns the name and value to the user.
-
 
 ```vb
 Sub CheckCustomProperties() 

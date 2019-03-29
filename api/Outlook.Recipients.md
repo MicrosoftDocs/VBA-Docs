@@ -23,7 +23,7 @@ Use the  **Recipients** property to return the **Recipients** object of an **[Ap
 
 Use the  **[Add](./Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **Recipients** object. The **[Type](./Outlook.Recipient.Type.md)** property of a new **Recipient** object is set to the default for the associated **AppointmentItem**, **JournalItem**, **MailItem**, or **TaskItem** object and must be reset to indicate another recipient type.
 
-Use  **Recipients** ( _index_ ), where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string representing the display name, the alias, or the full SMTP email address of the recipient.
+Use  **Recipients** (_index_), where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string representing the display name, the alias, or the full SMTP email address of the recipient.
 
 
 ## Example

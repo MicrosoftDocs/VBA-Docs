@@ -31,7 +31,7 @@ Use the  **[Slicers](Excel.SlicerCache.Slicers.md)** property to return the **Sl
 MsgBox ActiveWorkbook.SlicerCaches(1).Slicers.Count
 ```
 
-Use Slicers( _index_ ), where _index_ is the slicer index number or name, to return a single **Slicer** object from the slicers collection. The following code example changes the caption for the first slicer in the first slicer cache to "My Slicer".
+Use Slicers(_index_), where _index_ is the slicer index number or name, to return a single **Slicer** object from the slicers collection. The following code example changes the caption for the first slicer in the first slicer cache to "My Slicer".
 
 
 

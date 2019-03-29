@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Font
 ms.assetid: f4788ba4-1c4c-2f03-4d73-194bc9316825
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,12 @@ Contains the font attributes (font name, font size, color, and so on) for an obj
 
 ## Remarks
 
-If you don't want to format all the text in a cell or graphic the same way, use the  **[Characters](Excel.Range.Characters.md)** property to return a subset of the text.
+If you don't want to format all the text in a cell or graphic the same way, use the **[Characters](Excel.Range.Characters.md)** property of the **Range** object to return a subset of the text.
 
 
 ## Example
 
-Use the  **Font** property to return the **Font** object. The following example formats cells A1:C5 as bold.
-
+Use the **Font** property to return the **Font** object. The following example formats cells A1:C5 as bold.
 
 ```vb
 Worksheets("Sheet1").Range("A1:C5").Font.Bold = True

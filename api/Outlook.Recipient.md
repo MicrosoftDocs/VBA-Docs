@@ -18,7 +18,7 @@ Represents a user or resource in Outlook, generally a mail or mobile message add
 
 ## Remarks
 
-Use the **[Recipients](Outlook.Recipients.Item.md)** ( _index_ ) method, where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string that represents the display name, the alias, the full SMTP email address, or the mobile phone number of the recipient. A good practice is to use the SMTP email address for a mail message, and the mobile phone number for a mobile message.
+Use the **[Recipients](Outlook.Recipients.Item.md)** (_index_) method, where _index_ is the name or index number, to return a single **Recipient** object. The name can be a string that represents the display name, the alias, the full SMTP email address, or the mobile phone number of the recipient. A good practice is to use the SMTP email address for a mail message, and the mobile phone number for a mobile message.
 
 Use the **[Add](Outlook.Recipients.Add.md)** method to create a new **Recipient** object and add it to the **[Recipients](Outlook.Recipients.md)** object. 
 

@@ -34,7 +34,7 @@ The  **View** object allows you to create customizable views that allow you to b
     
 Views are defined and customized using the  **View** object's **[XML](./Outlook.View.XML.md)** property. The **XML** property allows you to create and set a customized XML schema that defines the various features of a view.
 
-Use  **Views** ( _index_ ), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
+Use  **Views** (_index_), where _index_ is the name of the **View** object or its ordinal value, to return a single **View** object.
 
 Use the  **[Add](./Outlook.Views.Add.md)** method of the **Views** collection to create a new view.
 

@@ -43,7 +43,7 @@ Use the  **[PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)** method to c
 ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ```
 
-Use  **PivotTables** ( _index_ ), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
+Use  **PivotTables** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 
 

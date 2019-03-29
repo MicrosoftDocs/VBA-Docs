@@ -38,7 +38,7 @@ Set myDocument = Worksheets(1)
 myDocument.Shapes.SelectAll
 ```
 
-Use  `Shapes`( _index_ ), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one on `myDocument`.
+Use  `Shapes`(_index_), where _index_ is the shape's name or index number, to return a single **Shape** object. The following example sets the fill to a preset shade for shape one on `myDocument`.
 
 
 
@@ -49,7 +49,7 @@ myDocument.Shapes(1).Fill.PresetGradient _
  msoGradientHorizontal, 1, msoGradientBrass
 ```
 
-Use  `Shapes.Range`( _index_ ), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](Excel.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three on _myDocument_ .
+Use  `Shapes.Range`(_index_), where _index_ is the shape's name or index number or an array of shape names or index numbers, to return a **[ShapeRange](Excel.ShapeRange.md)** collection that represents a subset of the **Shapes** collection. The following example sets the fill pattern for shapes one and three on _myDocument_ .
 
 
 

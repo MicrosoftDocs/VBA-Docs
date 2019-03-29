@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.CalloutFormat
 ms.assetid: d9d7d279-04ef-dbee-23cd-ddd606ed917d
-ms.date: 06/08/2017
+ms.date: 03/29/2019
 localization_priority: Normal
 ---
 
@@ -16,16 +16,22 @@ localization_priority: Normal
 
 Contains properties and methods that apply to line callouts.
 
-
 ## Remarks
 
-Use the  **[Callout](Excel.Shape.Callout.md)** property to return a **CalloutFormat** object.
+Use the **[Callout](Excel.Shape.Callout.md)** property of the **Shape** object to return a **CalloutFormat** object.
 
 
 ## Example
 
- The following example specifies the following attributes of shape three (a line callout) on _myDocument_ : the callout will have a vertical accent bar that separates the text from the callout line; the angle between the callout line and the side of the callout text box will be 30 degrees; there will be no border around the callout text; the callout line will be attached to the top of the callout text box; and the callout line will contain two segments. For this example to work, shape three must be a callout.
+The following example specifies the attributes of shape three (a line callout) on _myDocument_: 
 
+- The callout will have a vertical accent bar that separates the text from the callout line.
+- The angle between the callout line and the side of the callout text box will be 30 degrees.
+- There will be no border around the callout text.
+- The callout line will be attached to the top of the callout text box.
+- The callout line will contain two segments. 
+
+For this example to work, shape three must be a callout.
 
 ```vb
 Set myDocument = Worksheets(1) 
