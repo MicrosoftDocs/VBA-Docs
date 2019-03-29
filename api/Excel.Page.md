@@ -7,20 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.Page
 ms.assetid: debd4537-af71-8699-b714-6854c3cf0fad
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # Page object (Excel)
 
-Represents a page in a workbook. Use the  **PageSetup** object and the related methods and properties for programmatically defining page layout in a workbook.
+Represents a page in a workbook. Use the **Page** object and the related methods and properties for programmatically defining page layout in a workbook.
 
 
 ## Remarks
 
-Use the  **Item** method to access a specific page in a workbook. The following example accesses the first page in the active workbook.
-
+Use the **[Item](excel.pages.item.md)** property to access a specific page in a workbook. The following example accesses the first page in the active workbook.
 
 ```vb
 Dim objPage As Page 

@@ -7,25 +7,26 @@ ms.prod: excel
 api_name:
 - Excel.ListObject
 ms.assetid: 46de6c4f-8ce0-0c7d-da59-6e52f5eab612
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Priority
 ---
 
 
 # ListObject object (Excel)
 
-Represents a [ListObject](Excel.ListObject.md) object in the **ListObjects** collection.
+Represents a list object in the **[ListObjects](Excel.ListObjects.md)** collection.
 
 
 ## Remarks
 
- The **ListObject** object is a member of the **[ListObjects](Excel.ListObjects.md)** collection. The **ListObjects** collection contains all the list objects on a worksheet.
+The **ListObject** object is a member of the **ListObjects** collection. The **ListObjects** collection contains all the list objects on a worksheet.
 
 
 ## Example
 
-Use the [ListObjects](Excel.Worksheet.ListObjects.md) property of the **[Worksheet](Excel.Worksheet.md)** object to return a **ListObjects** collection. The following example adds a new **[ListRow](Excel.ListRow.md)** object to the default **ListObject** object in the first worksheet of the active workbook.
+Use the **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the **Worksheet** object to return a **ListObjects** collection. 
 
+The following example adds a new **[ListRow](Excel.ListRow.md)** object to the default **ListObject** object in the first worksheet of the active workbook.
 
 ```vb
 Dim wrksht As Worksheet 

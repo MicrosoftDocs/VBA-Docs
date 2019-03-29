@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Hyperlink
 ms.assetid: 8bdd2c2f-e6eb-a2f2-78c8-b597aa80ec05
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,22 +19,20 @@ Represents a hyperlink.
 
 ## Remarks
 
- The **Hyperlink** object is a member of the **[Hyperlinks](Excel.Hyperlinks.md)** collection.
+The **Hyperlink** object is a member of the **[Hyperlinks](Excel.Hyperlinks.md)** collection.
 
 
 ## Example
 
-Use the  **[Hyperlink](Excel.Shape.Hyperlink.md)** property to return the hyperlink for a shape (a shape can have only one hyperlink). The following example activates the hyperlink for shape one.
-
+Use the **[Hyperlink](Excel.Shape.Hyperlink.md)** property of the **Shape** object to return the hyperlink for a shape (a shape can have only one hyperlink). The following example activates the hyperlink for shape one.
 
 ```vb
 Worksheets(1).Shapes(1).Hyperlink.Follow NewWindow:=True
 ```
 
-A range or worksheet can have more than one hyperlink. Use  **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** (_index_), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The folllowing example activates hyperlink two in the range A1:B2.
+<br/>
 
-
-
+A range or worksheet can have more than one hyperlink. Use **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** (_index_), where _index_ is the hyperlink number, to return a single **Hyperlink** object. The following example activates hyperlink two in the range A1:B2.
 
 ```vb
 Worksheets(1).Range("A1:B2").Hyperlinks(2).Follow

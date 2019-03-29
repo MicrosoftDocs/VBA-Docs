@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCache
 ms.assetid: c3d84ef1-f9e6-b1bc-cbf0-3ba8dfe17439
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,22 +19,22 @@ Represents the memory cache for a PivotTable report.
 
 ## Remarks
 
- The **PivotCache** object is a member of the **[PivotCaches](Excel.PivotCaches.md)** collection.
+The **PivotCache** object is a member of the **[PivotCaches](Excel.PivotCaches.md)** collection.
 
 
 ## Example
 
-Use the  **[PivotCache](Excel.PivotTable.PivotCache.md)** method to return a **PivotCache** object for a PivotTable report (each report has only one cache). The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
+Use the **[PivotCache](Excel.PivotTable.PivotCache.md)** method of the **PivotTable** object to return a **PivotCache** object for a PivotTable report (each report has only one cache). 
 
+The following example causes the first PivotTable report on the first worksheet to refresh itself whenever its file is opened.
 
 ```vb
 Worksheets(1).PivotTables(1).PivotCache.RefreshOnFileOpen = True
 ```
 
-Use  **[PivotCaches](Excel.Workbook.PivotCaches.md)** (_index_), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
+<br/>
 
-
-
+Use **[PivotCaches](Excel.Workbook.PivotCaches.md)** (_index_), where _index_ is the PivotTable cache number, to return a single **PivotCache** object from the **PivotCaches** collection for a workbook. The following example refreshes cache one.
 
 ```vb
 ActiveWorkbook.PivotCaches(1).Refresh

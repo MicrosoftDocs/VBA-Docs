@@ -7,27 +7,29 @@ ms.prod: excel
 api_name:
 - Excel.ListColumns
 ms.assetid: c1b8aff0-3049-df58-ce1f-0c5e4bddc467
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # ListColumns object (Excel)
 
-A collection of all the  **[ListColumn](Excel.ListColumn.md)** objects in the specified **[ListObject](Excel.ListObject.md)** object.
+A collection of all the **[ListColumn](Excel.ListColumn.md)** objects in the specified **[ListObject](Excel.ListObject.md)** object.
 
 
 ## Remarks
 
- Each **ListColumn** object represents a column in the table.
+Each **ListColumn** object represents a column in the table.
 
-
- **Note**  A name for the column is automatically generated. You can change the name after the column has been added.
+> [!NOTE] 
+> A name for the column is automatically generated. You can change the name after the column has been added.
 
 
 ## Example
 
-Use the  **[ListColumns](Excel.ListObject.ListColumns.md)** property of the [ListObject](Excel.ListObject.md) object to return the **[ListColumns](Excel.ListColumns.md)** collection. The following example adds a new column to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
+Use the **[ListColumns](Excel.ListObject.ListColumns.md)** property of the **ListObject** object to return the **ListColumns** collection. 
+
+The following example adds a new column to the default **ListObject** object in the first worksheet of the workbook. Because no position is specified, a new rightmost column is added.
 
 
 ```vb

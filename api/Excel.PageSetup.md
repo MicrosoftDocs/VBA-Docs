@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PageSetup
 ms.assetid: 2fd22df9-5987-f723-04a9-9a3f2e84ac81
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Priority
 ---
 
@@ -19,13 +19,14 @@ Represents the page setup description.
 
 ## Remarks
 
- The **PageSetup** object contains all page setup attributes (left margin, bottom margin, paper size, and so on) as properties.
+The **PageSetup** object contains all page setup attributes (left margin, bottom margin, paper size, and so on) as properties.
 
 
 ## Example
 
-Use the  **[PageSetup](Excel.Worksheet.PageSetup.md)** property to return a **PageSetup** object. The following example sets the orientation to landscape mode and then prints the worksheet.
+Use the **[PageSetup](Excel.Worksheet.PageSetup.md)** property of the **Worksheet** object to return a **PageSetup** object. 
 
+The following example sets the orientation to landscape mode and then prints the worksheet.
 
 ```vb
 With Worksheets("Sheet1") 
@@ -34,10 +35,9 @@ With Worksheets("Sheet1")
 End With
 ```
 
-The  **With** statement makes it easier and faster to set several properties at the same time. The following example sets all the margins for worksheet one.
+<br/>
 
-
-
+The **With** statement makes it easier and faster to set several properties at the same time. The following example sets all the margins for worksheet one.
 
 ```vb
 With Worksheets(1).PageSetup 

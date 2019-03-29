@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotCaches
 ms.assetid: cfd979b9-d52f-f34b-4b66-4fb17efcdc92
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,12 +19,14 @@ Represents the collection of memory caches from the PivotTable reports in a work
 
 ## Remarks
 
- Each memory cache is represented by a **[PivotCache](Excel.PivotCache.md)** object.
+Each memory cache is represented by a **[PivotCache](Excel.PivotCache.md)** object.
 
 
 ## Example
 
-Use the  **[PivotCaches](Excel.Workbook.PivotCaches.md)** method to return the **[PivotCaches](Excel.PivotCaches.md)** collection. The following example sets the **[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)** property for all memory caches in the active workbook.
+Use the **[PivotCaches](Excel.Workbook.PivotCaches.md)** method of the **Workbook** object to return the **PivotCaches** collection. 
+
+The following example sets the **[RefreshOnFileOpen](Excel.PivotCache.RefreshOnFileOpen.md)** property for all memory caches in the active workbook.
 
 
 ```vb

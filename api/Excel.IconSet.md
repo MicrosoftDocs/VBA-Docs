@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.IconSet
 ms.assetid: d6b407cf-424e-529a-ee83-0b0b09598b53
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents a single set of icons that are used in an icon set conditional format
 
 ## Remarks
 
-The  **IconSet** object is a child object of the **[IconSets](Excel.IconSets.md)** collection.
+The **IconSet** object is a child object of the **[IconSets](Excel.IconSets.md)** collection.
 
-The icon set for the conditional format is assigned by using the  **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **[IconSetCondition](Excel.IconSetCondition.md)** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[xlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **[Workbook](Excel.Workbook.md)** object. See the example for details.
+The icon set for the conditional format is assigned by using the **[IconSet](Excel.IconSetCondition.IconSet.md)** property of the **IconSetCondition** object. You set this property to one of the built-in icon sets by passing one of the constants of the **[XlIconSet](Excel.XlIconSet.md)** enumeration as an index of the **[IconSets](Excel.Workbook.IconSets.md)** property of the **Workbook** object. See the example for details.
 
 
 ## Example
 
-The following code example creates a range of numbers representing test scores and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a 5-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
-
+The following code example creates a range of numbers representing test scores, and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a 5-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
 
 ```vb
 Sub CreateIconSetCF() 

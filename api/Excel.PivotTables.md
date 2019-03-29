@@ -7,46 +7,43 @@ ms.prod: excel
 api_name:
 - Excel.PivotTables
 ms.assetid: 5beb33ac-a0fb-3f78-8fdc-d05719512214
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # PivotTables object (Excel)
 
-A collection of all the  **[PivotTable](Excel.PivotTable.md)** objects in the specified workbook.
+A collection of all the **[PivotTable](Excel.PivotTable.md)** objects in the specified workbook.
 
 
 ## Remarks
 
-
- **Note**  The [Workbook.PivotTables](Excel.workbook.pivottables.md) property (which is new for Office) does not return all the **PivotTable** objects in the workbook; instead it returns only those associated with decoupled PivotCharts. However, [Worksheet.PivotTables](Excel.Worksheet.PivotTables.md) returns all the **PivotTable** objects in the worksheet, irrespective of whether they are associated with decoupled PivotCharts.
+> [!NOTE] 
+> The **[PivotTables](Excel.workbook.pivottables.md)** property of the **Workbook** object does not return all the **PivotTable** objects in the workbook; instead, it returns only those associated with decoupled PivotCharts. However, the **[PivotTables](Excel.Worksheet.PivotTables.md)** method of the **Worksheet** object returns all the **PivotTable** objects in the worksheet, irrespective of whether they are associated with decoupled PivotCharts.
 
 Because PivotTable report programming can be complex, it's generally easiest to record PivotTable report actions and then revise the recorded code.
 
 
 ## Example
 
-Use the  **[PivotTables](Excel.Worksheet.PivotTables.md)** method to return the **PivotTables** collection. The following example displays the number of PivotTable reports on Sheet3.
-
+Use the **PivotTables** method to return the **PivotTables** collection. The following example displays the number of PivotTable reports on Sheet3.
 
 ```vb
 MsgBox Worksheets("sheet3").PivotTables.Count
 ```
 
-Use the  **[PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)** method to create a new PivotTable report and add it to the collection. The following example creates a new PivotTable report from a Microsoft Excel database (contained in the range A1:C100).
+<br/>
 
-
-
+Use the **[PivotTableWizard](Excel.Worksheet.PivotTableWizard.md)** method to create a new PivotTable report and add it to the collection. The following example creates a new PivotTable report from a Microsoft Excel database (contained in the range A1:C100).
 
 ```vb
 ActiveSheet.PivotTableWizard xlDatabase, Range("A1:C100")
 ```
 
-Use  **PivotTables** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
+<br/>
 
-
-
+Use **PivotTables** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the Year field a row field in the first PivotTable report on Sheet3.
 
 ```vb
 Worksheets("sheet3").PivotTables(1) _ 

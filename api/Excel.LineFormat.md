@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.LineFormat
 ms.assetid: 13eca34b-adf7-ddd3-8c73-cc8b508c624a
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,14 @@ Represents line and arrowhead formatting.
 
 ## Remarks
 
- For a line, the **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
+For a line, the **LineFormat** object contains formatting information for the line itself; for a shape with a border, this object contains formatting information for the shape's border.
 
 
 ## Example
 
-Use the  **[Line](Excel.Shape.Line.md)** property to return a **LineFormat** object. The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its end point.
+Use the **[Line](Excel.Shape.Line.md)** property of the **Shape** object to return a **LineFormat** object. 
 
+The following example adds a blue, dashed line to _myDocument_. There's a short, narrow oval at the line's starting point and a long, wide triangle at its end point.
 
 ```vb
 Set myDocument = Worksheets(1) 

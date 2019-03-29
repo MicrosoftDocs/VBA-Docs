@@ -4,7 +4,7 @@ keywords: vbaxl10.chm985072
 f1_keywords:
 - vbaxl10.chm985072
 ms.assetid: 1080e484-4ec0-abdc-6322-5d83201c59fb
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 ms.prod: excel
 localization_priority: Normal
 ---

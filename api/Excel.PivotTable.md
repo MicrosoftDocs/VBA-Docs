@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.PivotTable
 ms.assetid: a9c1d4a0-78a9-f9a6-6daf-91cb63e45842
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,14 +19,16 @@ Represents a PivotTable report on a worksheet.
 
 ## Remarks
 
- The **PivotTable** object is a member of the **[PivotTables](Excel.PivotTables.md)** collection. The **PivotTables** collection contains all the **PivotTable** objects on a single worksheet.
+The **PivotTable** object is a member of the **[PivotTables](Excel.PivotTables.md)** collection. The **PivotTables** collection contains all the **PivotTable** objects on a single worksheet.
 
 Because PivotTable report programming can be complex, it's generally easiest to record PivotTable report actions and then revise the recorded code.
 
 
 ## Example
 
-Use  **[PivotTables](Excel.Worksheet.PivotTables.md)** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. The following example makes the field named year a row field in the first PivotTable report on Sheet3.
+Use **[PivotTables](Excel.Worksheet.PivotTables.md)** (_index_), where _index_ is the PivotTable index number or name, to return a single **PivotTable** object. 
+
+The following example makes the field named Year a row field in the first PivotTable report on Sheet3.
 
 
 ```vb

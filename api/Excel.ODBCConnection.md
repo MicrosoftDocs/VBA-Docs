@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ODBCConnection
 ms.assetid: b880ebec-15a4-5a3d-ef02-db73106db9c9
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,10 +19,9 @@ Represents the ODBC connection.
 
 ## Remarks
 
-An ODBC connection can be stored in an Excel workbook. When Microsoft Excel opens the workbook, Excel creates an in-memory copy of the ODBC connection known as the  **ODBCConnection** object.
+An ODBC connection can be stored in an Excel workbook. When Excel opens the workbook, it creates an in-memory copy of the ODBC connection known as the **ODBCConnection** object.
 
-An  **ODBCConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **ODBCConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a `SELECT` statement to be executed by SQL Server).
-
+An **ODBCConnection** object contains information related to the connection, such as the name of the server to connect to and the name of the objects to be opened on that server. Optionally, the **ODBCConnection** object may also include authentication credential information, or a command that is to be passed to the server and executed (for example, a **SELECT** statement to be executed by SQL Server).
 
 ## Methods
 

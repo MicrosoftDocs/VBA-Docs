@@ -7,36 +7,36 @@ ms.prod: excel
 api_name:
 - Excel.Parameters
 ms.assetid: d67147f1-d587-a9e4-ed8e-8a1140e8a868
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # Parameters object (Excel)
 
-A collection of  **[Parameter](Excel.Parameter.md)** objects for the specified query table.
+A collection of **[Parameter](Excel.Parameter.md)** objects for the specified query table.
 
 
 ## Remarks
 
- Each **Parameter** object represents a single query parameter. Every query table contains a **Parameters** collection, but the collection is empty unless the query table is using a parameter query.
+Each **Parameter** object represents a single query parameter. Every query table contains a **Parameters** collection, but the collection is empty unless the query table is using a parameter query.
 
-You cannot use the  **[Add](Excel.Parameters.Add.md)** method on a URL connection query table. For URL connection query tables, Microsoft Excel creates the parameters based on the **[Connection](Excel.QueryTable.Connection.md)** and **[PostText](Excel.QueryTable.PostText.md)** properties.
+You cannot use the **Add** method on a URL connection query table. For URL connection query tables, Microsoft Excel creates the parameters based on the **[Connection](Excel.QueryTable.Connection.md)** and **[PostText](Excel.QueryTable.PostText.md)** properties.
 
 
 ## Example
 
-Use the  **Parameters** property to return the **Parameters** collection. The following example displays the number of parameters in query table one.
+Use the **[Parameters](excel.querytable.parameters.md)** property of the **QueryTable** object to return the **Parameters** collection. 
 
+The following example displays the number of parameters in query table one.
 
 ```vb
 MsgBox Workbooks(1).ActiveSheet.QueryTables(1).Parameters.Count
 ```
 
-Use the  **Add** method to create a new parameter for a query table. The following example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant "Oakland."
+<br/>
 
-
-
+Use the **Add** method to create a new parameter for a query table. The following example changes the SQL statement for query table one. The clause "(city=?)" indicates that the query is a parameter query, and the value of city is set to the constant Oakland.
 
 ```vb
 Set qt = Sheets("sheet1").QueryTables(1) 

@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm959072
 ms.prod: excel
 ms.assetid: fd2388eb-48ab-c238-2ffa-8c3f6d20fe36
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -17,7 +17,9 @@ Represents changes made to the data model.
 
 ## Remarks
 
-The **ModelChanges** object contains information about which changes were made to the data model when the Workbook.[Workbook.ModelChange](Excel.workbook.modelchange.md) event occurs after a model operation. When Excel makes changes to the data model, multiple changes can be made in the same operation, and the **ModelChanges** object will include information about all the changes made in one model operation.
+The **ModelChanges** object contains information about which changes were made to the data model when the **[ModelChange](Excel.workbook.modelchange.md)** event of the **Workbook** object occurs after a model operation. 
+
+When Micrososft Excel makes changes to the data model, multiple changes can be made in the same operation, and the **ModelChanges** object will include information about all the changes made in one model operation.
 
 ## Properties
 

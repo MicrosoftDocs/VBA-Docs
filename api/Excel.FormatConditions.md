@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.FormatConditions
 ms.assetid: 2486d4b4-605c-76d8-132a-694c0c600a81
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,17 +19,14 @@ Represents the collection of conditional formats for a single range.
 
 ## Remarks
 
- The **FormatConditions** collection can contain multiple conditional formats. Each format is represented by a **[FormatCondition](Excel.FormatCondition.md)** object.
+The **FormatConditions** collection can contain multiple conditional formats. Each format is represented by a **[FormatCondition](Excel.FormatCondition.md)** object.
 
-For more information about conditional formats, see the [FormatCondition](Excel.FormatCondition.md) object.
-
-Use the  **FormatConditions** property to return a **FormatConditions** object. Use the **[Add](Excel.FormatConditions.Add.md)** method to create a new conditional format, and use the **[Modify](Excel.FormatCondition.Modify.md)** method to change an existing conditional format.
+Use the **[FormatConditions](Excel.Range.FormatConditions.md)** property to return a **FormatConditions** object. Use the **Add** method to create a new conditional format, and use the **[Modify](Excel.FormatCondition.Modify.md)** method of the **FormatCondition** object to change an existing conditional format.
 
 
 ## Example
 
 The following example adds a conditional format to cells E1:E10.
-
 
 ```vb
 With Worksheets(1).Range("e1:e10").FormatConditions _ 
