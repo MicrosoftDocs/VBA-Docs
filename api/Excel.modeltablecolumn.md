@@ -5,19 +5,19 @@ f1_keywords:
 - vbaxl10.chm929072
 ms.prod: excel
 ms.assetid: 8deb1b62-c089-e0c3-0320-2d4596e8f6e3
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # ModelTableColumn object (Excel)
 
-Represent a single column inside a [ModelTable](Excel.modeltable.md) object.
+Represents a single column inside a **[ModelTable](Excel.modeltable.md)** object.
 
 
 ## Remarks
 
-The  **ModelTableColumn** object will be read only. The purpose of this object is for use in creating relationships programmatically.
+The **ModelTableColumn** object is read-only. Use this object to create relationships programmatically.
 
 ## Properties
 

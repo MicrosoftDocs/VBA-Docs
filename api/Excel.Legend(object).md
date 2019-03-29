@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Legend
 ms.assetid: 9be53984-bc9c-f964-9ab3-be52d3699bd9
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,15 +19,14 @@ Represents the legend in a chart. Each chart can have only one legend.
 
 ## Remarks
 
- The **Legend** object contains one or more **[LegendEntry](Excel.LegendEntry(object).md)** objects; each **LegendEntry** object contains a **[LegendKey](Excel.LegendKey(object).md)** object.
+The **Legend** object contains one or more **[LegendEntry](Excel.LegendEntry(object).md)** objects; each **LegendEntry** object contains a **[LegendKey](Excel.LegendKey(object).md)** object.
 
-The chart legend isn't visible unless the  **[HasLegend](Excel.Chart.HasLegend.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
+The chart legend isn't visible unless the **[HasLegend](Excel.Chart.HasLegend.md)** property is **True**. If this property is **False**, properties and methods of the **Legend** object will fail.
 
 
 ## Example
 
-Use the  **[Legend](Excel.Chart.Legend.md)** property to return the **Legend** object. The following example sets the font style for the legend in embedded chart one on worksheet one to bold.
-
+Use the **[Legend](Excel.Chart.Legend.md)** property of the **Chart** object to return the **Legend** object. The following example sets the font style for the legend in embedded chart one on worksheet one to bold.
 
 ```vb
 Worksheets(1).ChartObjects(1).Chart.Legend.Font.Bold = True

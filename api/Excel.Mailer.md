@@ -16,23 +16,33 @@ localization_priority: Normal
 
 You have requested Help for a Visual Basic keyword used only on the Macintosh. For information about this keyword, consult the language reference Help included with Microsoft Office Macintosh Edition.
 
-## Methods
+## Properties (Mailer)
+
+- [Application](Excel.Mailer.Application.md)
+- [BCCRecipients](Excel.Mailer.BCCRecipients.md)
+- [CCRecipients](Excel.Mailer.CCRecipients.md)
+- [Creator](Excel.Mailer.Creator.md)
+- [Enclosures](Excel.Mailer.Enclosures.md)
+- [Parent](Excel.Mailer.Parent.md)
+- [Received](Excel.Mailer.Received.md)
+- [SendDateTime](Excel.Mailer.SendDateTime.md)
+- [Sender](Excel.Mailer.Sender.md)
+- [Subject](Excel.Mailer.Subject.md)
+- [ToRecipients](Excel.Mailer.ToRecipients.md)
+- [WhichAddress](Excel.Mailer.WhichAddress.md)
+
+## Methods (model)
 
 - [AddConnection](Excel.model.addconnection.md)
 - [CreateModelWorkbookConnection](Excel.model.createmodelworkbookconnection.md)
 - [Initialize](Excel.model.initialize.md)
 - [Refresh](Excel.model.refresh.md)
 
-## Properties
+## Properties (Model)
 
-- [Application](Excel.Mailer.Application.md)
 - [Application](Excel.model.application.md)
-- [BCCRecipients](Excel.Mailer.BCCRecipients.md)
-- [CCRecipients](Excel.Mailer.CCRecipients.md)
-- [Creator](Excel.Mailer.Creator.md)
 - [Creator](Excel.model.creator.md)
 - [DataModelConnection](Excel.model.datamodelconnection.md)
-- [Enclosures](Excel.Mailer.Enclosures.md)
 - [ModelFormatBoolean](Excel.model.modelformatboolean.md)
 - [ModelFormatCurrency](Excel.model.modelformatcurrency.md)
 - [ModelFormatDate](Excel.model.modelformatdate.md)
@@ -45,14 +55,8 @@ You have requested Help for a Visual Basic keyword used only on the Macintosh. F
 - [ModelRelationships](Excel.model.modelrelationships.md)
 - [ModelTables](Excel.model.modeltables.md)
 - [Name](Excel.model.name.md)
-- [Parent](Excel.Mailer.Parent.md)
 - [Parent](Excel.model.parent.md)
-- [Received](Excel.Mailer.Received.md)
-- [SendDateTime](Excel.Mailer.SendDateTime.md)
-- [Sender](Excel.Mailer.Sender.md)
-- [Subject](Excel.Mailer.Subject.md)
-- [ToRecipients](Excel.Mailer.ToRecipients.md)
-- [WhichAddress](Excel.Mailer.WhichAddress.md)
+
 
 ## See also
 

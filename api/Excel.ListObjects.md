@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.ListObjects
 ms.assetid: 3a888055-1ed0-d37d-0586-ced999dc1c42
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # ListObjects object (Excel)
 
-A collection of all the  **[ListObject](Excel.ListObject.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
+A collection of all the **[ListObject](Excel.ListObject.md)** objects on a worksheet. Each **ListObject** object represents a table in the worksheet.
 
 
 ## Remarks
 
-Use the  **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the [Worksheet](Excel.Worksheet.md) object to return the **ListObjects** collection.
+Use the **[ListObjects](Excel.Worksheet.ListObjects.md)** property of the **Worksheet** object to return the **ListObjects** collection.
 
 
 ## Example
 
-The following example creates a new **ListObjects** collection which represents all the tables in a worksheet.
-
+The following example creates a new **ListObjects** collection that represents all the tables in a worksheet.
 
 ```vb
 Set myWorksheetLists = Worksheets(1).ListObjects

@@ -5,14 +5,14 @@ f1_keywords:
 - vbaxl10.chm931072
 ms.prod: excel
 ms.assetid: 6f7a0fcd-7e78-8c90-a3a1-058c803b2ee0
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # ModelTableColumns object (Excel)
 
-Represents a [ModelTableColumn](Excel.modeltablecolumn.md) collection of single columns inside a [ModelTable](Excel.modeltable.md) object.
+Represents a **[ModelTableColumn](Excel.modeltablecolumn.md)** collection of single columns inside a **[ModelTable](Excel.modeltable.md)** object.
 
 ## Methods
 

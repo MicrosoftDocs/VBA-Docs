@@ -26,7 +26,7 @@ The  **ChartTitle** object does not exist and cannot be used unless the **[HasTi
 
 ## Example
 
- The following example adds a title to embedded chart one on the worksheet named "Sheet1."
+ The following example adds a title to embedded chart one on the worksheet named **Sheet1**.
 
 
 ```vb

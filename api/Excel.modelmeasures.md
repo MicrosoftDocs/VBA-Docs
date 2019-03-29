@@ -4,7 +4,7 @@ keywords: vbaxl10.chm979072
 f1_keywords:
 - vbaxl10.chm979072
 ms.assetid: b0edac9a-e10d-ec51-d9e7-6fa8a29dcda8
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 ms.prod: excel
 localization_priority: Normal
 ---
@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # ModelMeasures object (Excel)
 
-Represents: a collection of  **ModelMeasure** objects.
+Represents a collection of **[ModelMeasure](Excel.modelmeasure.md)** objects.
 
 
 ## Remarks
 
-Each measure is represented by a [ModelMeasure](Excel.modelmeasure.md) object. Use the [Model.ModelMeasures](Excel.model.modelmeasures.md) property to return the **ModelMeasures** collection.
+Each measure is represented by a **ModelMeasure** object. Use the **[ModelMeasures](Excel.model.modelmeasures.md)** property of the **Model** object to return the **ModelMeasures** collection.
 
 ## Methods
 
