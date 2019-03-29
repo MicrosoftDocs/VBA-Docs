@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.IconCriteria
 ms.assetid: c3b0480a-6def-c315-32ed-137b64708810
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
 
 # IconCriteria object (Excel)
 
-Represents the collection of  **[IconCriterion](Excel.IconCriterion.md)** objects. Each **IconCriterion** represents the values and threshold type for each icon in an icon set conditional formatting rule.
+Represents the collection of **[IconCriterion](Excel.IconCriterion.md)** objects. Each **IconCriterion** object represents the values and threshold type for each icon in an icon set conditional formatting rule.
 
 
 ## Remarks
 
-The  **IconCriteria** collection is returned from the **[IconCriteria](Excel.IconSetCondition.IconCriteria.md)** property of the **[IconSetCondition](Excel.IconSetCondition.md)** object. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
+The **IconCriteria** collection is returned from the **[IconCriteria](Excel.IconSetCondition.IconCriteria.md)** property of the **IconSetCondition** object. You can access each **IconCriterion** object in the collection by passing an index into the collection. See the example for details.
 
 
 ## Example
 
-The following code example creates a range of numbers representing test scores and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
-
+The following code example creates a range of numbers representing test scores, and then applies an icon set conditional formatting rule to that range. The type of icon set is then changed from the default icons to a five-arrow icon set. Finally, the threshold type is modified from percentile to a hard-coded number.
 
 ```vb
 Sub CreateIconSetCF() 

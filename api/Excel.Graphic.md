@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Graphic
 ms.assetid: 0ccdfb0d-effb-9fa4-8de9-b90688693375
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,18 +19,22 @@ Contains properties that apply to header and footer picture objects.
 
 ## Remarks
 
-There are several properties of the **[PageSetup](Excel.PageSetup.md)** object that return the **Graphic** object.
+Use the following properties of the **[PageSetup](Excel.PageSetup.md)** object to return the **Graphic** object:
 
-Use the **[CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)**, **[CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)**, **[LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)**, **[LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)**, **[RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)**, or **[RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)** properties to return a **Graphic** object.
+- **[CenterFooterPicture](Excel.PageSetup.CenterFooterPicture.md)**
+- **[CenterHeaderPicture](Excel.PageSetup.CenterHeaderPicture.md)**
+- **[LeftFooterPicture](Excel.PageSetup.LeftFooterPicture.md)**
+- **[LeftHeaderPicture](Excel.PageSetup.LeftHeaderPicture.md)**
+- **[RightFooterPicture](Excel.PageSetup.RightFooterPicture.md)**
+- **[RightHeaderPicture](Excel.PageSetup.RightHeaderPicture.md)** 
 
-
- **Note**  It is required that "&G" is a part of the **LeftFooter** string in order for the image to show up in the left footer.
+> [!NOTE] 
+> For an image to show up in the left footer, "&G" needs to be a part of the **LeftFooter** string.
 
 
 ## Example
 
-The following example adds a picture titled: Sample.jpg from the C:\ drive to the left section of the footer. This example assumes that a file called Sample.jpg exists on the C:\ drive.
-
+The following example adds a picture titled Sample.jpg from the C:\ drive to the left section of the footer. This example assumes that a file called Sample.jpg exists on the C:\ drive.
 
 ```vb
 Sub InsertPicture() 

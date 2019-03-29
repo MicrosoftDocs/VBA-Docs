@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Icon
 ms.assetid: 99dd63ab-2981-aab7-cfe8-7e47fe911281
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Represents a single icon in an icon set used in a conditional formatting rule.
 
 ## Remarks
 
-The **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** property of the **[IconSet](Excel.IconSet.md)** object.
+The **Icon** object is returned from the **[Item](Excel.IconSet.Item.md)** property of the **IconSet** object.
 
 ## Properties
 

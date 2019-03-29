@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Interior
 ms.assetid: 37c79831-2cac-69fd-10ee-6d5415ed338b
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,19 +19,15 @@ Represents the interior of an object.
 
 ## Example
 
-Use the  **[Interior](Excel.Range.Interior.md)** property to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
-
+Use the **[Interior](Excel.Range.Interior.md)** property of the **Range** object to return the **Interior** object. The following example sets the color for the interior of cell A1 to red.
 
 ```vb
 Worksheets("Sheet1").Range("A1").Interior.ColorIndex = 3
 ```
 
- **Sample code provided by:** Holy Macro! Books, [Holy Macro! It's 2,500 Excel VBA Examples](https://www.mrexcel.com/store/index.php?l=product_detail&amp;p=1)
+<br/>
 
-This example gets the value of the color of a cell in column A using the  **ColorIndex** property, and then uses that value to sort the range by color.
-
-
-
+This example gets the value of the color of a cell in column A by using the **ColorIndex** property, and then uses that value to sort the range by color.
 
 ```vb
 Sub ColorSort()
@@ -55,11 +51,6 @@ Sub ColorSort()
    Application.ScreenUpdating = True
 End Sub
 ```
-
-
-### About the contributor
-
-Holy Macro! Books publishes entertaining books for people who use Microsoft Office. See the complete catalog at MrExcel.com. 
 
 
 ## Properties

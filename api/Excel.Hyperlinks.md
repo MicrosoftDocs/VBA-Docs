@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Hyperlinks
 ms.assetid: de28e0af-7a4c-56c3-5fe5-ac47d1654628
-ms.date: 06/08/2017
+ms.date: 03/30/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,12 @@ Represents the collection of hyperlinks for a worksheet or range.
 
 ## Remarks
 
- Each hyperlink is represented by a **[Hyperlink](Excel.Hyperlink.md)** object.
+Each hyperlink is represented by a **[Hyperlink](Excel.Hyperlink.md)** object.
 
 
 ## Example
 
-Use the  **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** property to return the **Hyperlinks** collection. The following example checks the hyperlinks on worksheet one for a link that contains the word Microsoft.
-
+Use the **[Hyperlinks](Excel.Worksheet.Hyperlinks.md)** property of the **Worksheet** object to return the **Hyperlinks** collection. The following example checks the hyperlinks on worksheet one for a link that contains the word Microsoft.
 
 ```vb
 For Each h in Worksheets(1).Hyperlinks 
@@ -33,10 +32,9 @@ For Each h in Worksheets(1).Hyperlinks
 Next
 ```
 
-Use the  **[Add](Excel.Hyperlinks.Add.md)** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink for cell E5.
+<br/>
 
-
-
+Use the **Add** method to create a hyperlink and add it to the **Hyperlinks** collection. The following example creates a new hyperlink for cell E5.
 
 ```vb
 With Worksheets(1) 
