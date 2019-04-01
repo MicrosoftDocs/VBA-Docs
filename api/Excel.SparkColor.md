@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparkColor
 ms.assetid: 3de82c5c-eb0a-ab39-64a8-00f4c005c6af
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,7 +19,7 @@ Represents the color of the horizontal axis and the markers for points in a spar
 
 ## Remarks
 
-The SparkColor object corresponds to the settings of the items available on the  **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon. Use the corresponding properties of the **[SparkPoints](Excel.SparkPoints.md)** object to set the colors of these items.
+The **SparkColor** object corresponds to the settings of the items available on the **Marker Color** drop-down list in the **Style** section of the **Sparkline Tools Design** tab of the ribbon. Use the corresponding properties of the **[SparkPoints](Excel.SparkPoints.md)** object to set the colors of these items.
 
 ## Properties
 

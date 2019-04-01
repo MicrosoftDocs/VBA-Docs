@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.SortFields
 ms.assetid: a9c83ea1-1cd9-1552-1f03-71bd92a2cc72
-ms.date: 03/28/2019
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # SortFields object (Excel)
 
-The **SortFields** collection is a collection of **SortField** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
+The **SortFields** collection is a collection of **[SortField](excel.sortfield.md)** objects. It allows developers to store a sort state on workbooks, lists, and autofilters.
 
 
 ## Remarks
@@ -23,7 +23,6 @@ The object contains properties to add, count, sort, and remove **SortField** obj
 
 
 ## Example
-
 
 ```vb
 ActiveWorksheet.SortFields.Add Key:=Range("A1"), Order:=xlDescending 

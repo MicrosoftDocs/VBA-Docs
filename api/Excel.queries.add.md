@@ -12,12 +12,12 @@ localization_priority: Normal
 
 # Queries.Add method (Excel)
 
-Adds a new [WorkbookQuery](Excel.workbookquery.md) object to the **Queries** collection.
+Adds a new **[WorkbookQuery](Excel.workbookquery.md)** object to the **Queries** collection.
 
 
 ## Syntax
 
-_expression_. `Add`( _Name_,  _Formula_,  _Description_)
+_expression_.**Add** ( _Name_,  _Formula_,  _Description_)
 
 _expression_ A variable that represents a 'Queries' object.
 

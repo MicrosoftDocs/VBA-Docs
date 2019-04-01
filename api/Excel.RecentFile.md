@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.RecentFile
 ms.assetid: 39d0a969-179d-a7bd-e5ab-7baf7930712a
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,12 @@ Represents a file in the list of recently used files.
 
 ## Remarks
 
- The **RecentFile** object is a member of the **[RecentFiles](Excel.RecentFiles.md)** collection.
+The **RecentFile** object is a member of the **[RecentFiles](Excel.RecentFiles.md)** collection.
 
 
 ## Example
 
-Use  **[RecentFiles](Excel.Application.RecentFiles.md)** (_index_), where _index_ is the file number, to return a **RecentFile** object. The following example opens file two in the list of recently used files.
-
+Use **[RecentFiles](Excel.Application.RecentFiles.md)** (_index_), where _index_ is the file number, to return a **RecentFile** object. The following example opens file two in the list of recently used files.
 
 ```vb
 Application.RecentFiles(2).Open

@@ -7,14 +7,14 @@ ms.prod: excel
 api_name:
 - Excel.Ranges
 ms.assetid: 5d510c72-e27b-c04a-0d82-94af5dffd2f8
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # Ranges object (Excel)
 
-A collection of  **[Range](Excel.Range(object).md)** objects.
+A collection of **[Range](Excel.Range(object).md)** objects.
 
 
 ## Properties

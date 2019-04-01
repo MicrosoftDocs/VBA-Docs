@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.ShapeRange
 ms.assetid: e1b8229c-73a0-4a77-5e00-4bcec9032260
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,19 +19,15 @@ Represents a shape range, which is a set of shapes on a document.
 
 ## Remarks
 
- A shape range can contain as few as a single shape or as many as all the shapes on the document. You can include whichever shapes you want — chosen from among all the shapes on the document or all the shapes in the selection — to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
-
+A shape range can contain as few as a single shape or as many as all the shapes on the document. You can include whichever shapes you want—chosen from among all the shapes on the document or all the shapes in the selection—to construct a shape range. For example, you could construct a **ShapeRange** collection that contains the first three shapes on a document, all the selected shapes on a document, or all the freeforms on a document.
 
 ## Example
 
- **Returning a Set of Shapes You Specify by Name or Index Number**
+### Return a set of shapes that you specify by name or index number
 
+Use **[Range](excel.shapes.range.md)** (_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. 
 
-
-Use  `Shapes.Range`(_index_), where _index_ is the name or index number of the shape or an array that contains either names or index numbers of shapes, to return a **ShapeRange** collection that represents a set of shapes on a document. You can use the **Array** function to construct an array of names or index numbers. The following example sets the fill pattern for shapes one and three on _myDocument_.
-
-
-
+The following example sets the fill pattern for shapes one and three on _myDocument_.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -39,12 +35,11 @@ myDocument.Shapes.Range(Array(1, 3)).Fill.Patterned _
  msoPatternHorizontalBrick
 ```
 
-The following example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on  _myDocument_.
+<br/>
 
-Although you can use the  **Range** property to return any number of shapes or slides, it's simpler to use the **Item** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
+The following example sets the fill pattern for the shapes named Oval 4 and Rectangle 5 on _myDocument_.
 
-
-
+Although you can use the **Range** property to return any number of shapes or slides, it's simpler to use the **Item** method if you want to return only a single member of the collection. For example, `Shapes(1)` is simpler than `Shapes.Range(1)`.
 
 ```vb
 Set myDocument = Worksheets(1) 
@@ -53,24 +48,18 @@ Set myRange = myDocument.Shapes.Range(Array("Oval 4", _
 myRange.Fill.Patterned msoPatternHorizontalBrick
 ```
 
- **Returning All or Some of the Selected Shapes on a Document**
+### Return all or some of the selected shapes on a document
 
-Use the  **ShapeRange** property of the **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
-
-
-
+Use the **ShapeRange** property of the **Selection** object to return all the shapes in the selection. The following example sets the fill foreground color for all the shapes in the selection in window one, assuming that there's at least one shape in the selection.
 
 ```vb
 Windows(1).Selection.ShapeRange.Fill.ForeColor.RGB = _ 
  RGB(255, 0, 255)
 ```
 
-Use  `Selection.ShapeRange`(_index_), where _index_ is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
+<br/>
 
-
-
-
-
+Use _Selection_.**ShapeRange** (_index_), where _index_ is the shape name or the index number, to return a single shape within the selection. The following example sets the fill foreground color for shape two in the collection of selected shapes in window one, assuming that there are at least two shapes in the selection.
 
 ```vb
 Windows(1).Selection.ShapeRange(2).Fill.ForeColor.RGB = _ 

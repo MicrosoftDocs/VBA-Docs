@@ -5,21 +5,21 @@ f1_keywords:
 - vbaxl10.chm949072
 ms.prod: excel
 ms.assetid: bb92fe09-3cce-8e10-3795-2b9089c27801
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # TimelineState object (Excel)
 
-The timeline-specific state of a [SlicerCache](Excel.SlicerCache.md) object.
+The timeline-specific state of a **[SlicerCache](Excel.SlicerCache.md)** object.
 
 
 ## Remarks
 
-Supported contiguous ranges can be set through the [TimelineState.SetFilterDateRange method](Excel.timelinestate.setfilterdaterange.md) method. When the Timeline has such a contiguous filter state, the state can be retrieved from the two properties [TimelineState.StartDate property](Excel.timelinestate.startdate.md) and [TimelineState.EndDate property](Excel.timelinestate.enddate.md). 
+Supported contiguous ranges can be set through the **SetFilterDateRange** method. When the timeline has such a contiguous filter state, the state can be retrieved from the two properties **StartDate** and **EndDate**. 
 
-Any state that the filter may have, including non-contiguous states, can be retrieved through the three properties: [TimelineState.FilterType property](Excel.timelinestate.filtertype.md), [TimelineState.FilterValue1 property](Excel.timelinestate.filtervalue1.md), and [TimelineState.FilterValue2 property](Excel.timelinestate.filtervalue2.md).
+Any state that the filter may have, including non-contiguous states, can be retrieved through the three properties **FilterType**, **FilterValue1**, and **FilterValue2**.
 
 ## Methods
 
@@ -39,6 +39,6 @@ Any state that the filter may have, including non-contiguous states, can be retr
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
