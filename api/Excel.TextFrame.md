@@ -7,25 +7,24 @@ ms.prod: excel
 api_name:
 - Excel.TextFrame
 ms.assetid: 4a6d2201-84b8-d83a-cc13-703da047815e
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame object (Excel)
 
-Represents the text frame in a  **[Shape](Excel.Shape.md)** object. Contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame.
+Represents the text frame in a **[Shape](Excel.Shape.md)** object. Contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame.
 
 
 ## Remarks
 
-Use the  **[TextFrame](Excel.Shape.TextFrame.md)** property to return a **TextFrame** object.
+Use the **[TextFrame](Excel.Shape.TextFrame.md)** property of the **Shape** object to return a **TextFrame** object.
 
 
 ## Example
 
- The following example adds a rectangle to _myDocument_, adds text to the rectangle, and then sets the margins for the text frame.
-
+The following example adds a rectangle to _myDocument_, adds text to the rectangle, and then sets the margins for the text frame.
 
 ```vb
 Set myDocument = Worksheets(1) 

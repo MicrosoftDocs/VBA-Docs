@@ -4,24 +4,24 @@ ms.prod: excel
 api_name:
 - Excel.TextFrame2
 ms.assetid: 66ba23e5-9b15-b954-a1db-1bd19b4eb90d
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # TextFrame2 object (Excel)
 
-Represents the text frame in a  **[Shape](Excel.Shape.md)**, **[ShapeRange](Excel.ShapeRange.md)**, or **[ChartFormat](Excel.ChartFormat.md)** object.
+Represents the text frame in a **[Shape](Excel.Shape.md)**, **[ShapeRange](Excel.ShapeRange.md)**, or **[ChartFormat](Excel.ChartFormat.md)** object.
 
 
 ## Remarks
 
-This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the  **TextFrame2** property to return a **TextFrame2** object.
+This object contains the text in the text frame as well as the properties and methods that control the alignment and anchoring of the text frame. Use the **TextFrame2** property to return a **TextFrame2** object.
 
 
 ## Example
 
-The following example adds a rectangle to  `myDocument`, adds text to the rectangle, and then sets the margins for the text frame.
+The following example adds a rectangle to _myDocument_, adds text to the rectangle, and then sets the margins for the text frame.
 
 
 ```vb
@@ -68,6 +68,6 @@ End With
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

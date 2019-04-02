@@ -5,7 +5,7 @@ f1_keywords:
 - vbaxl10.chm915072
 ms.prod: excel
 ms.assetid: afc981f4-155b-085a-3c17-c8d46c4d7037
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -18,7 +18,6 @@ Represents a worksheet table built from data returned from a PowerPivot model.
 ## Example
 
 The following sample code creates a PowerPivot query table by connecting to a data source.
-
 
 ```vb
 Sub CreateTable()

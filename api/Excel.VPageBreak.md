@@ -24,7 +24,7 @@ The  **VPageBreak** object is a member of the **[VPageBreaks](Excel.VPageBreaks.
 
 ## Example
 
-Use  **VPageBreaks** ( _index_), where  _index_ is the page break index number of the page break, to return a **VPageBreak** object. The following example changes the location of vertical page break one.
+Use  **VPageBreaks** (_index_), where  _index_ is the page break index number of the page break, to return a **VPageBreak** object. The following example changes the location of vertical page break one.
 
 
 ```vb

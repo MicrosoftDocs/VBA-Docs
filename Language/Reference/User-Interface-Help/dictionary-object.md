@@ -7,7 +7,7 @@ ms.prod: office
 api_name:
 - Office.Dictionary
 ms.assetid: 718dbcd4-63bc-3a75-fa55-7d1e8c65e8b9
-ms.date: 11/12/2018
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -28,7 +28,7 @@ The following code illustrates how to create a **Dictionary** object.
 
 ```vb
 Dim d                   'Create a variable
-Set d = CreateObject(Scripting.Dictionary)
+Set d = CreateObject("Scripting.Dictionary")
 d.Add "a", "Athens"     'Add some keys and items
 d.Add "b", "Belgrade"
 d.Add "c", "Cairo"
@@ -57,7 +57,6 @@ d.Add "c", "Cairo"
 |[Key](key-property.md)|Sets a new key value for an existing key value in a **Dictionary** object. |
 
 ## See also
-
 
 - [Dictionary object (Windows Scripting previous version)](https://docs.microsoft.com/previous-versions/windows/internet-explorer/ie-developer/windows-scripting/x4k5wbx4(v%3dvs.84))
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)

@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Top10
 ms.assetid: b94f4a4f-564c-d751-2b43-4b9482e048cc
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,14 @@ Represents a top ten visual of a conditional formatting rule. Applying a color t
 
 ## Remarks
 
-All conditional formatting objects are contained within a  **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. You can create a top 10 formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddTop10](Excel.FormatConditions.AddTop10.md)** method of the **FormatConditions** collection.
+All conditional formatting objects are contained within a **[FormatConditions](Excel.FormatConditions.md)** collection object, which is a child of a **[Range](Excel.Range(object).md)** collection. 
+
+You can create a top 10 formatting rule by using either the **[Add](Excel.FormatConditions.Add.md)** or **[AddTop10](Excel.FormatConditions.AddTop10.md)** method of the **FormatConditions** collection.
 
 
 ## Example
 
 The following example builds a dynamic data set and applies color to the top 10 values through conditional formatting rules.
-
 
 ```vb
 Sub Top10CF() 

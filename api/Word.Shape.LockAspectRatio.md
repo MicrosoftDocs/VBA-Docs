@@ -26,7 +26,7 @@ localization_priority: Normal
 
 ## Example
 
-This example adds a cube to  _myDocument_ . The cube can be moved and resized but not reproportioned.
+This example adds a cube to  _myDocument_. The cube can be moved and resized but not reproportioned.
 
 
 ```vb

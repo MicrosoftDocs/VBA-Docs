@@ -19,7 +19,7 @@ Represents the definition of a user-defined property for a  **[Folder](Outlook.F
 
 ## Remarks
 
-Use  **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** ( _index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
+Use  **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** (_index_), where  _index_ is a name or index number, to return a single **UserDefinedProperty** object.
 
 Use the  **[Add](Outlook.UserDefinedProperties.Add.md)** method of the **[UserDefinedProperties](Outlook.Folder.UserDefinedProperties.md)** collection for a **Folder** object to define a user-defined property for that folder.
 

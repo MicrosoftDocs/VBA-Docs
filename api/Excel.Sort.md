@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sort
 ms.assetid: 637ee681-743c-5196-2bfc-4a5bea025295
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -20,7 +20,6 @@ Represents a sort of a range of data.
 ## Example
 
 The following procedure builds and sorts data in a range in the active worksheet.
-
 
 ```vb
 Sub SortData() 

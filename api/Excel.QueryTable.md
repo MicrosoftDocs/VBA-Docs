@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.QueryTable
 ms.assetid: 505b84ea-64b3-b4fe-741a-de6884eb69eb
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,13 +19,14 @@ Represents a worksheet table built from data returned from an external data sour
 
 ## Remarks
 
- The **QueryTable** object is a member of the **[QueryTables](Excel.QueryTables.md)** collection.
+The **QueryTable** object is a member of the **[QueryTables](Excel.QueryTables.md)** collection.
 
 
 ## Example
 
-Use  **[QueryTables](Excel.Worksheet.QueryTables.md)** (_index_), where _index_ is the index number of the query table, to return a single **QueryTable** object. The following example sets query table one so that formulas to the right of it are automatically updated whenever it's refreshed.
+Use **[QueryTables](Excel.Worksheet.QueryTables.md)** (_index_), where _index_ is the index number of the query table, to return a single **QueryTable** object. 
 
+The following example sets query table one so that formulas to the right of it are automatically updated whenever it's refreshed.
 
 ```vb
 Sheets("sheet1").QueryTables(1).FillAdjacentFormulas = True

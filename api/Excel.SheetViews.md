@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SheetViews
 ms.assetid: 954e22cf-1142-40ae-039b-09110d833bfc
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,8 +19,7 @@ A collection of all the sheet views in the specified or active workbook window.
 
 ## Example
 
-The following example will return the view count of the active window.
-
+The following example returns the view count of the active window.
 
 ```vb
 ActiveWindow.SheetViews.Count

@@ -7,19 +7,19 @@ ms.prod: excel
 api_name:
 - Excel.SortField
 ms.assetid: 2becf77f-c072-2060-9baf-ebcf785c05bb
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
 
 # SortField object (Excel)
 
-The  **SortField** object contains all the sort information for the **Worksheet**, **ListObject**, and **AutoFilter** objects.
+The **SortField** object contains all the sort information for the **Worksheet**, **ListObject**, and **AutoFilter** objects.
 
 
 ## Remarks
 
-Developers can use the  **BeforeSort** event to override Excel's default behavior and put their own sort algorithm into the application.
+Developers can use the **BeforeSort** event to override Excel's default behavior and put their own sort algorithm into the application.
 
 
 ## Methods
@@ -44,6 +44,6 @@ Developers can use the  **BeforeSort** event to override Excel's default behavio
 
 ## See also
 
-- [Excel Object Model Reference](./overview/Excel/object-model.md)
+- [Excel Object Model Reference](overview/Excel/object-model.md)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

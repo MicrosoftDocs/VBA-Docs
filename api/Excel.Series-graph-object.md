@@ -19,7 +19,7 @@ Represents a series in the specified chart. The  **Series** object is a member o
 
 ## Using the Series Object
 
-Use  **SeriesCollection**( _index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart.
+Use  **SeriesCollection** (_index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart.
 
 
 ```vb

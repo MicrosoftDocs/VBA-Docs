@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Tab
 ms.assetid: c6555e96-b96e-54d8-b8c6-5ab13c256d97
-ms.date: 09/05/2018
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -21,13 +21,12 @@ Represents the tab of a chart or a worksheet.
 
 Use the **Tab** property of the **[Chart](Excel.Chart(object).md)** object or **[Worksheet](Excel.Worksheet.md)** object to return a **Tab** object.
 
-Once a  **Tab** object is returned, you can use the **[ColorIndex](Excel.Tab.ColorIndex.md)** property determine the settings of a tab for a chart or worksheet.
+After a **Tab** object is returned, you can use the **ColorIndex** property to determine the settings of a tab for a chart or worksheet.
 
 
 ## Example
 
-In the following example, Microsoft Excel determines if the worksheet's first tab color index is set to none and notifies the user.
-
+In the following example, Microsoft Excel determines if the worksheet's first tab color index is set to none, and then notifies the user.
 
 ```vb
 Sub CheckTab() 

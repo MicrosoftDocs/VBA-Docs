@@ -19,7 +19,7 @@ Represents one or more series of points plotted in a chart with the same format.
 
 ## Using the ChartGroup Object
 
-Use  **ChartGroups**( _index_), where  _index_ is the chart group's index number, to return a single **ChartGroup** object. The following example adds drop lines to chart group one in the chart.
+Use  **ChartGroups** (_index_), where  _index_ is the chart group's index number, to return a single **ChartGroup** object. The following example adds drop lines to chart group one in the chart.
 
 
 ```vb

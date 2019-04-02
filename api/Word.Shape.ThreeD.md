@@ -26,7 +26,7 @@ Returns a  **ThreeDFormat** object that contains 3-D formatting properties for t
 
 ## Example
 
-This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_ .
+This example sets the depth, extrusion color, extrusion direction, and lighting direction for the 3-D effects applied to shape one on  _myDocument_.
 
 
 ```vb

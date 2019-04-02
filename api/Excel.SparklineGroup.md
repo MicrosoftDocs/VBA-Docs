@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.SparklineGroup
 ms.assetid: cc694d97-a3d3-3473-2e37-0ede67b97680
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -18,11 +18,12 @@ Represents a group of sparklines.
 
 ## Remarks
 
-The  **SparklineGroup** object can contain multiple sparklines and contains the property settings for the group, such as color and axis settings. Each sparkline is represented by a **[Sparkline](Excel.Sparkline.md)** object.
+The **SparklineGroup** object can contain multiple sparklines, and contains the property settings for the group, such as color and axis settings. Each sparkline is represented by a **[Sparkline](Excel.Sparkline.md)** object.
 
-Use the **[Modify](Excel.SparklineGroup.Modify.md)** method to add or remove sparklines from the sparkline group. Use the **[ModifyLocation](Excel.SparklineGroup.ModifyLocation.md)** method to change the location of the sparkline, and use the **[ModifySourceData](Excel.SparklineGroup.ModifySourceData.md)** method to change the range of the source data.
+Use the **Modify** method to add or remove sparklines from the sparkline group. Use the **ModifyLocation** method to change the location of the sparkline, and use the **ModifySourceData** method to change the range of the source data.
 
-**Note**: Application.ReferenceStyle must be set to xlA1 to execute SparklineGroups.Add.
+> [!NOTE] 
+> Application.ReferenceStyle must be set to xlA1 to execute SparklineGroups.Add.
 
 ## Example
 

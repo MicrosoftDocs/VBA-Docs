@@ -7,7 +7,7 @@ ms.prod: excel
 api_name:
 - Excel.Sheets
 ms.assetid: 048fd93c-bc27-4b58-358f-56fcee1710f8
-ms.date: 06/08/2017
+ms.date: 04/02/2019
 localization_priority: Normal
 ---
 
@@ -19,42 +19,38 @@ A collection of all the sheets in the specified or active workbook.
 
 ## Remarks
 
- The **Sheets** collection can contain **[Chart](Excel.Chart(object).md)** or **[Worksheet](Excel.Worksheet.md)** objects.
+The **Sheets** collection can contain **[Chart](Excel.Chart(object).md)** or **[Worksheet](Excel.Worksheet.md)** objects.
 
-The  **Sheets** collection is useful when you want to return sheets of any type. If you need to work with sheets of only one type, see the object topic for that sheet type.
+The **Sheets** collection is useful when you want to return sheets of any type. If you need to work with sheets of only one type, see the object topic for that sheet type.
 
 
 ## Example
 
-Use the  **[Sheets](Excel.Workbook.Sheets.md)** property to return the **Sheets** collection. The following example prints all sheets in the active workbook.
-
+Use the **[Sheets](Excel.Workbook.Sheets.md)** property of the **Workbook** object to return the **Sheets** collection. The following example prints all sheets in the active workbook.
 
 ```vb
 Sheets.PrintOut
 ```
 
-Use the  **[Add](Excel.Sheets.Add.md)** method to create a new sheet and add it to the collection. The following example adds two chart sheets to the active workbook, placing them after sheet two in the workbook.
+<br/>
 
-
-
+Use the **Add** method to create a new sheet and add it to the collection. The following example adds two chart sheets to the active workbook, placing them after sheet two in the workbook.
 
 ```vb
 Sheets.Add type:=xlChart, count:=2, after:=Sheets(2)
 ```
 
-Use  **Sheets** (_index_), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named "sheet1."
+<br/>
 
-
-
+Use **Sheets** (_index_), where _index_ is the sheet name or index number, to return a single **Chart** or **Worksheet** object. The following example activates the sheet named Sheet1.
 
 ```vb
-Sheets("sheet1").Activate
+Sheets("Sheet1").Activate
 ```
 
-Use  **Sheets** ( _array_ ) to specify more than one sheet. The following example moves the sheets named "Sheet4" and "Sheet5" to the beginning of the workbook.
+<br/>
 
-
-
+Use **Sheets** (_array_) to specify more than one sheet. The following example moves the sheets named Sheet4 and Sheet5 to the beginning of the workbook.
 
 ```vb
 Sheets(Array("Sheet4", "Sheet5")).Move before:=Sheets(1)

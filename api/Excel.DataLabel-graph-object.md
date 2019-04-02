@@ -19,7 +19,7 @@ Represents the data label for the specified point or trendline in a chart. For a
 
 ## Using the DataLabel Object
 
-Use  **DataLabels**( _index_), where  _index_ is the data label's index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in the chart.
+Use  **DataLabels** (_index_), where  _index_ is the data label's index number, to return a single **DataLabel** object. The following example sets the number format for the fifth data label in series one in the chart.
 
 
 ```vb

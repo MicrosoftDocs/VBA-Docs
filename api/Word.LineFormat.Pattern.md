@@ -26,7 +26,7 @@ Returns or sets a value that represents the pattern applied to the specified lin
 
 ## Example
 
-This example adds a patterned line to  _myDocument_ .
+This example adds a patterned line to  _myDocument_.
 
 
 ```vb

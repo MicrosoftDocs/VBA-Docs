@@ -31,7 +31,7 @@ For a line, the  **LineFormat** object represents the line itself; for a shape w
 
 ## Example
 
-This example adds a blue dashed line to  _myDocument_ .
+This example adds a blue dashed line to  _myDocument_.
 
 
 ```vb

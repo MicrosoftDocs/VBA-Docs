@@ -23,7 +23,7 @@ You cannot change the text of a legend entry.  **LegendEntry** objects support f
 
 ## Using the LegendEntry Object
 
-Use  **LegendEntries**( _index_), where  _index_ is the legend entry's index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
+Use  **LegendEntries** (_index_), where  _index_ is the legend entry's index number, to return a single **LegendEntry** object. You cannot return legend entries by name.
 
 The index number represents the position of the legend entry in the legend.  `LegendEntries(1)` is at the top of the legend, and is at the top of the legend, and `LegendEntries(LegendEntries.Count)` is at the bottom. The following example changes the font style for the text of the legend entry at the top of the legend (this is usually the legend for series one).
 

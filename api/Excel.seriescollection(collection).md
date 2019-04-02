@@ -28,7 +28,7 @@ For X = 1 To myChart.SeriesCollection.Count
 Next X
 ```
 
-Use  **SeriesCollection**( _index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart to red.
+Use  **SeriesCollection** (_index_), where  _index_ is the series' index number or name, to return a single **Series** object. The following example sets the color of the interior for series one in the chart to red.
 
 
 
