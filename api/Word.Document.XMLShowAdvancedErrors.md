@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether error message text is gen
 
 ## Syntax
 
- _expression_. `XMLShowAdvancedErrors`
+_expression_. `XMLShowAdvancedErrors`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

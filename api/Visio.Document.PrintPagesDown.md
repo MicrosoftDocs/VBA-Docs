@@ -19,7 +19,7 @@ Gets or sets the number of sheets of paper on which a drawing is printed vertica
 
 ## Syntax
 
- _expression_. `PrintPagesDown`
+_expression_. `PrintPagesDown`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsLoaded`
+_expression_. `IsLoaded`
 
  _expression_ An expression that returns a [Subproject](./Project.Subproject.md) object.
 

@@ -19,7 +19,7 @@ Determines the objects that shapes glue to when glue is enabled in the document.
 
 ## Syntax
 
- _expression_. `GlueSettings`
+_expression_. `GlueSettings`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **[SlideShowWindows](PowerPoint.SlideShowWindows.md)** collection tha
 
 ## Syntax
 
- _expression_. `SlideShowWindows`
+_expression_. `SlideShowWindows`
 
 _expression_ A variable that represents a [Application](./PowerPoint.Application.md) object.
 

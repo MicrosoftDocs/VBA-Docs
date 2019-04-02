@@ -19,7 +19,7 @@ Determines whether the character pairs in the specified WordArt are kerned. Read
 
 ## Syntax
 
- _expression_. `KernedPairs`
+_expression_. `KernedPairs`
 
  _expression_ A variable that represents a [TextEffectFormat](./PowerPoint.TextEffectFormat.md) object.
 

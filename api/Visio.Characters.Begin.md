@@ -19,7 +19,7 @@ Gets or sets the beginning index of a  **Characters** object, which represents a
 
 ## Syntax
 
- _expression_. `Begin`
+_expression_. `Begin`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

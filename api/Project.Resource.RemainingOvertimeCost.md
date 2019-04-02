@@ -16,7 +16,7 @@ Gets the remaining overtime cost for the resource. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `RemainingOvertimeCost`
+_expression_. `RemainingOvertimeCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

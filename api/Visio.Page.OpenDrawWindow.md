@@ -19,7 +19,7 @@ Opens a new drawing window that displays a page.
 
 ## Syntax
 
- _expression_. `OpenDrawWindow`
+_expression_. `OpenDrawWindow`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

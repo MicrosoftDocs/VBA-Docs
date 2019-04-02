@@ -19,7 +19,7 @@ Returns a  **Long** value that represents the display format for the **[UserDefi
 
 ## Syntax
 
- _expression_. `DisplayFormat`
+_expression_. `DisplayFormat`
 
 _expression_ A variable that represents a [UserDefinedProperty](./Outlook.UserDefinedProperty.md) object.
 

@@ -19,7 +19,7 @@ Determines whether a Microsoft Visio document is checked out from a Microsoft Sh
 
 ## Syntax
 
- _expression_. `CanUndoCheckOut`
+_expression_. `CanUndoCheckOut`
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

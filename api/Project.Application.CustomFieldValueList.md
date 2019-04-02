@@ -19,7 +19,7 @@ Sets options for a value list for a custom field.
 
 ## Syntax
 
- _expression_. `CustomFieldValueList`( `_FieldID_`, `_ListDefault_`, `_DefaultValue_`, `_RestrictToList_`, `_AppendNew_`, `_PromptOnNew_`, `_DisplayOrder_` )
+_expression_. `CustomFieldValueList`( `_FieldID_`, `_ListDefault_`, `_DefaultValue_`, `_RestrictToList_`, `_AppendNew_`, `_PromptOnNew_`, `_DisplayOrder_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

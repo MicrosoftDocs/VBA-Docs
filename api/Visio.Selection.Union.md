@@ -19,7 +19,7 @@ Creates a new shape from the perimeter of selected shapes.
 
 ## Syntax
 
- _expression_. `Union`
+_expression_. `Union`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

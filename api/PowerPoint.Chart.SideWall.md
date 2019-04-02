@@ -19,7 +19,7 @@ Returns a  **[Walls](PowerPoint.Walls.md)** object that allows the user to indiv
 
 ## Syntax
 
- _expression_. `SideWall`
+_expression_. `SideWall`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

@@ -19,7 +19,7 @@ Determines whether the  **AutoConnect** feature is enabled in the Microsoft Visi
 
 ## Syntax
 
- _expression_. `EnableAutoConnect`
+_expression_. `EnableAutoConnect`
 
  _expression_ An expression that returns a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

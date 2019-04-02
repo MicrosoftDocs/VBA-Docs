@@ -16,7 +16,7 @@ Gets or sets the name of the current version of a project for a comparison of pr
 
 ## Syntax
 
- _expression_. `CompareProjectsCurrentVersionName`
+_expression_. `CompareProjectsCurrentVersionName`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

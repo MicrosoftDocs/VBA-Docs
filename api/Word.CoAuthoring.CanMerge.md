@@ -19,7 +19,7 @@ Returns a  **Boolean** that specifies whether the document can be auto-merged. R
 
 ## Syntax
 
- _expression_. `CanMerge`
+_expression_. `CanMerge`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

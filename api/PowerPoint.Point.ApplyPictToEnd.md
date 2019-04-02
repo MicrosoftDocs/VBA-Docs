@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ApplyPictToEnd`
+_expression_. `ApplyPictToEnd`
 
  _expression_ A variable that represents a '[Point](PowerPoint.Point.md)' object.
 

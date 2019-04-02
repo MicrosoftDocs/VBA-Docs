@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Shaded`
+_expression_. `Shaded`
 
  _expression_ An expression that returns a 'FormFields' collection object.
 

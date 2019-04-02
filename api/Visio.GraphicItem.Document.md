@@ -22,7 +22,7 @@ Gets the  **Document** object that contains the **Master** object of type **visT
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [GraphicItem](./Visio.GraphicItem.md) object.
 

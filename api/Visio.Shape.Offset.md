@@ -19,7 +19,7 @@ Offsets a shape a specified amount.
 
 ## Syntax
 
- _expression_. `Offset`( `_Distance_` )
+_expression_. `Offset`( `_Distance_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

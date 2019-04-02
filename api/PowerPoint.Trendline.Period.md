@@ -19,7 +19,7 @@ Returns or sets the period for the moving-average trendline. Read/write  **Long*
 
 ## Syntax
 
- _expression_. `Period`
+_expression_. `Period`
 
  _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

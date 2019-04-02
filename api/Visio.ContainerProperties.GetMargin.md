@@ -19,7 +19,7 @@ Returns the minimal distance, in the specified units, between the edges of the c
 
 ## Syntax
 
- _expression_. `GetMargin`( `_MarginUnits_` )
+_expression_. `GetMargin`( `_MarginUnits_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

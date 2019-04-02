@@ -19,7 +19,7 @@ Returns the name of the operating system. Read-only.
 
 ## Syntax
 
- _expression_. `OperatingSystem`
+_expression_. `OperatingSystem`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

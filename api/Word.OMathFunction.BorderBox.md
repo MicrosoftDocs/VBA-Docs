@@ -19,7 +19,7 @@ Returns an  **[OMathBorderBox](Word.OMathBorderBox.md)** object that represents 
 
 ## Syntax
 
- _expression_. `BorderBox`
+_expression_. `BorderBox`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

@@ -19,7 +19,7 @@ Returns or sets a value that indicates how the specified shape appears when the 
 
 ## Syntax
 
- _expression_. `BlackWhiteMode`
+_expression_. `BlackWhiteMode`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

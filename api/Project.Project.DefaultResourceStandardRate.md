@@ -16,7 +16,7 @@ Gets or sets the default standard rate of pay for resources. Read/write  **Varia
 
 ## Syntax
 
- _expression_. `DefaultResourceStandardRate`
+_expression_. `DefaultResourceStandardRate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

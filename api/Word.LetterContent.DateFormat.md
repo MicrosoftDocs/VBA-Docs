@@ -19,7 +19,7 @@ Returns or sets the date for a letter created by the Letter Wizard. Read/write  
 
 ## Syntax
 
- _expression_. `DateFormat`
+_expression_. `DateFormat`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

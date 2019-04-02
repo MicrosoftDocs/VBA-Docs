@@ -19,7 +19,7 @@ Gets or sets the default method for calculating earned value for a project. Read
 
 ## Syntax
 
- _expression_. `DefaultEarnedValueMethod`
+_expression_. `DefaultEarnedValueMethod`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

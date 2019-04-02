@@ -19,7 +19,7 @@ For shapes on stencils, determines approximately how many characters of each sha
 
 ## Syntax
 
- _expression_. `StencilCharactersPerLine`
+_expression_. `StencilCharactersPerLine`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

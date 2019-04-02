@@ -19,7 +19,7 @@ Returns a  **[TextEffectFormat](PowerPoint.TextEffectFormat.md)** object that co
 
 ## Syntax
 
- _expression_. `TextEffect`
+_expression_. `TextEffect`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

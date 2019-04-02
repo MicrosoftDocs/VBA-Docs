@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the vertical position of a **[Moti
 
 ## Syntax
 
- _expression_. `ToY`
+_expression_. `ToY`
 
  _expression_ A variable that represents a [MotionEffect](./PowerPoint.MotionEffect.md) object.
 

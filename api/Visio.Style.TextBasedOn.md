@@ -19,7 +19,7 @@ Gets or sets the text style on which a  **Style** object is based. Read/write.
 
 ## Syntax
 
- _expression_. `TextBasedOn`
+_expression_. `TextBasedOn`
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

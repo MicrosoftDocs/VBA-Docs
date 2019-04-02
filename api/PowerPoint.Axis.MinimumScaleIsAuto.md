@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MinimumScaleIsAuto`
+_expression_. `MinimumScaleIsAuto`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

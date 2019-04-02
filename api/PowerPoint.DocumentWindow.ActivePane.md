@@ -19,7 +19,7 @@ Returns a  **[Pane](PowerPoint.Pane.md)** object that represents the active pane
 
 ## Syntax
 
- _expression_. `ActivePane`
+_expression_. `ActivePane`
 
 _expression_ A variable that represents an [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

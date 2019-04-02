@@ -19,7 +19,7 @@ Returns or sets a  **WdColorIndex** constant that represents the color for the s
 
 ## Syntax
 
- _expression_. `ColorIndex`
+_expression_. `ColorIndex`
 
  _expression_ Required. A variable that represents a '[Font](Word.Font.md)' object.
 

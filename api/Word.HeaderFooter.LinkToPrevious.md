@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `LinkToPrevious`
+_expression_. `LinkToPrevious`
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasDisplayUnitLabel`
+_expression_. `HasDisplayUnitLabel`
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `FormattingShowNumbering`
+_expression_. `FormattingShowNumbering`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

@@ -17,7 +17,7 @@ Returns or sets the way footnotes are laid out in columns when the section conta
 
 ## Syntax
 
- _expression_. `LayoutColumns`
+_expression_. `LayoutColumns`
 
  _expression_ A variable that represents a [FootnoteOptions](./Word.FootnoteOptions.md) object.
 

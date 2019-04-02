@@ -14,7 +14,7 @@ Returns the name of the author of the comment. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `AuthorName`
+_expression_. `AuthorName`
 
  _expression_ A variable that represents a 'Comment' object.
 

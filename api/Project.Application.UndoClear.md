@@ -19,7 +19,7 @@ Clears the  **Undo** list.
 
 ## Syntax
 
- _expression_. `UndoClear`
+_expression_. `UndoClear`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

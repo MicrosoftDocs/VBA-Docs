@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AutoSize`
+_expression_. `AutoSize`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

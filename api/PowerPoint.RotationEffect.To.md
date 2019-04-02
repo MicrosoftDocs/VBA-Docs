@@ -19,7 +19,7 @@ Sets or returns a  **Single** that represents the ending rotation of an object i
 
 ## Syntax
 
- _expression_. `To`
+_expression_. `To`
 
  _expression_ A variable that represents a [RotationEffect](./PowerPoint.RotationEffect.md) object.
 

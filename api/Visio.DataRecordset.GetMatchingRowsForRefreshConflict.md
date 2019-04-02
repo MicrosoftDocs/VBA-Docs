@@ -22,7 +22,7 @@ Returns an array of the row IDs of data-recordset rows linked to a shape that ar
 
 ## Syntax
 
- _expression_. `GetMatchingRowsForRefreshConflict`( `_ShapeInConflict_` )
+_expression_. `GetMatchingRowsForRefreshConflict`( `_ShapeInConflict_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

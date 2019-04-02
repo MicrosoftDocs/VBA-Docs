@@ -16,7 +16,7 @@ Gets or sets the month number for the start of the fiscal year for the project. 
 
 ## Syntax
 
- _expression_. `StartYearIn`
+_expression_. `StartYearIn`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

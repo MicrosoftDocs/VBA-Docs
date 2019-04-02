@@ -19,7 +19,7 @@ Returns an  **[OMathGroupChar](Word.OMathGroupChar.md)** object that represents 
 
 ## Syntax
 
- _expression_. `GroupChar`
+_expression_. `GroupChar`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

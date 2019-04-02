@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `NewTasksCreatedAsManual`
+_expression_. `NewTasksCreatedAsManual`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

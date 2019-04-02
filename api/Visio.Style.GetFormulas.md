@@ -19,7 +19,7 @@ Returns the formulas of many cells.
 
 ## Syntax
 
- _expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
+_expression_. `GetFormulas`( `_SRCStream()_` , `_formulaArray()_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

@@ -19,7 +19,7 @@ Inserts a new resource in a resource view.
 
 ## Syntax
 
- _expression_. `InsertResource`( `_Type_` )
+_expression_. `InsertResource`( `_Type_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

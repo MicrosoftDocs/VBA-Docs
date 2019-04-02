@@ -22,7 +22,7 @@ Returns an array that contains shapes linked to data rows that have non-resolved
 
 ## Syntax
 
- _expression_. `GetAllRefreshConflicts`
+_expression_. `GetAllRefreshConflicts`
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

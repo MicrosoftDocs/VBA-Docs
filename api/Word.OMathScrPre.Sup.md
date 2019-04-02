@@ -19,7 +19,7 @@ Returns an  **[OMath](Word.OMath.md)** object that represents the superscript fo
 
 ## Syntax
 
- _expression_. `Sup`
+_expression_. `Sup`
 
  _expression_ An expression that returns an '[OMathScrPre](Word.OMathScrPre.md)' object.
 

@@ -19,7 +19,7 @@ Specifies how drawing pages and shapes in the Microsoft Visio Drawing Control re
 
 ## Syntax
 
- _expression_. `PageSizingBehavior`
+_expression_. `PageSizingBehavior`
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

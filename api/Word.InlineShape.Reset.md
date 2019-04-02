@@ -19,7 +19,7 @@ Removes changes that were made to an inline shape.
 
 ## Syntax
 
- _expression_. `Reset`
+_expression_. `Reset`
 
  _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

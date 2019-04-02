@@ -19,7 +19,7 @@ Deletes the active row or the row that contains the active cell.
 
 ## Syntax
 
- _expression_. `RowDelete`
+_expression_. `RowDelete`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

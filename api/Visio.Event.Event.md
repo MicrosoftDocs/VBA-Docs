@@ -19,7 +19,7 @@ Gets or sets the event code of an  **Event** object—an event-action pair. When
 
 ## Syntax
 
- _expression_. `Event`
+_expression_. `Event`
 
  _expression_ A variable that represents a [Event](./Visio.Event.md) object.
 

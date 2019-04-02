@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `FontItalic`
+_expression_. `FontItalic`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

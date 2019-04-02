@@ -19,7 +19,7 @@ Compares two documents and returns a  **Document** object that represents the do
 
 ## Syntax
 
- _expression_. `CompareDocuments`( `_OriginalDocument_` , `_RevisedDocument_` , `_Destination_` , `_Granularity_` , `_CompareFormatting_` , `_CompareCaseChanges_` , `_CompareWhitespace_` , `_CompareTables_` , `_CompareHeaders_` , `_CompareFootnotes_` , `_CompareTextboxes_` , `_CompareFields_` , `_CompareComments_` , `_RevisedAuthor_` , `_IgnoreAllComparisonWarnings_` )
+_expression_. `CompareDocuments`( `_OriginalDocument_` , `_RevisedDocument_` , `_Destination_` , `_Granularity_` , `_CompareFormatting_` , `_CompareCaseChanges_` , `_CompareWhitespace_` , `_CompareTables_` , `_CompareHeaders_` , `_CompareFootnotes_` , `_CompareTextboxes_` , `_CompareFields_` , `_CompareComments_` , `_RevisedAuthor_` , `_IgnoreAllComparisonWarnings_` )
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

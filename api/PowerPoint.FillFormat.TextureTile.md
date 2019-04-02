@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `TextureTile`
+_expression_. `TextureTile`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

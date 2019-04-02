@@ -19,7 +19,7 @@ Returns the percentage of completion of the sample. Read-only.
 
 ## Syntax
 
- _expression_. `PercentComplete`
+_expression_. `PercentComplete`
 
  _expression_ A variable that represents a [ResampleMediaTasks](./PowerPoint.ResampleMediaTasks.md) object.
 

@@ -19,7 +19,7 @@ Synchronizes the information in the sharer project with the information in the l
 
 ## Syntax
 
- _expression_. `ResourceSharingPoolUpdate`( `_allSharers_` )
+_expression_. `ResourceSharingPoolUpdate`( `_allSharers_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Long** that represents the script size of an argument, for 
 
 ## Syntax
 
- _expression_. `ArgSize`
+_expression_. `ArgSize`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

@@ -16,7 +16,7 @@ Gets or sets the remaining work (in minutes) for the assignment. Read/write  **V
 
 ## Syntax
 
- _expression_. `RemainingWork`
+_expression_. `RemainingWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

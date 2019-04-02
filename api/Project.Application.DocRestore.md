@@ -19,7 +19,7 @@ Sets the active window to its last nonmaximized state.
 
 ## Syntax
 
- _expression_. `DocRestore`
+_expression_. `DocRestore`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

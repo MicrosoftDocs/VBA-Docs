@@ -12,7 +12,7 @@ Gets a  **GlowFormat** object for the shape range, if the shape range contains g
 
 ## Syntax
 
- _expression_. `Glow`
+_expression_. `Glow`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

@@ -19,7 +19,7 @@ Displays the **Project Help** window, with the **Help** Toolbar, **Assistance**,
 
 ## Syntax
 
- _expression_. `HelpTechnicalSupport`
+_expression_. `HelpTechnicalSupport`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

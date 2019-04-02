@@ -16,7 +16,7 @@ Hides the Office task pane if it is visible.
 
 ## Syntax
 
- _expression_. `OfficeTaskPaneHide`
+_expression_. `OfficeTaskPaneHide`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

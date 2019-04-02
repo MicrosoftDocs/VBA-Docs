@@ -19,7 +19,7 @@ Returns or sets the standard measurement unit for Microsoft Word. Read/write  **
 
 ## Syntax
 
- _expression_. `MeasurementUnit`
+_expression_. `MeasurementUnit`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

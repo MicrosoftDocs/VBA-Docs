@@ -19,7 +19,7 @@ Specifies a research query.
 
 ## Syntax
 
- _expression_. `Query`( `_ServiceID_`, `_QueryString_`, `_QueryLanguage_`, `_UseSelection_`, `_RequeryContextXML_`, `_NewQueryContextXML_`, `_LaunchQuery_` )
+_expression_. `Query`( `_ServiceID_`, `_QueryString_`, `_QueryLanguage_`, `_UseSelection_`, `_RequeryContextXML_`, `_NewQueryContextXML_`, `_LaunchQuery_` )
 
  _expression_ An expression that returns a [Research](./PowerPoint.Research.md) object.
 

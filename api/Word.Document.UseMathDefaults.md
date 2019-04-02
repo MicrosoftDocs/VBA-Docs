@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether to use the default math s
 
 ## Syntax
 
- _expression_. `UseMathDefaults`
+_expression_. `UseMathDefaults`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

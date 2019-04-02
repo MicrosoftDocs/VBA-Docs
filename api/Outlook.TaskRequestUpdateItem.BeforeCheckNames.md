@@ -16,7 +16,7 @@ Occurs just before Microsoft Outlook starts resolving names in the recipient col
 
 ## Syntax
 
- _expression_. `BeforeCheckNames`( `_Cancel_` )
+_expression_. `BeforeCheckNames`( `_Cancel_` )
 
 _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 

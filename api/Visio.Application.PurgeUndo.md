@@ -19,7 +19,7 @@ Empties the Microsoft Visio queue of undo actions.
 
 ## Syntax
 
- _expression_. `PurgeUndo`
+_expression_. `PurgeUndo`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

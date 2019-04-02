@@ -19,7 +19,7 @@ Gets or sets the current theme colors for the page. Read/write.
 
 ## Syntax
 
- _expression_. `ThemeColors`
+_expression_. `ThemeColors`
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

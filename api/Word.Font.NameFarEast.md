@@ -19,7 +19,7 @@ Returns or sets an East Asian font name. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `NameFarEast`
+_expression_. `NameFarEast`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Baseline7DurationEstimated`
+_expression_. `Baseline7DurationEstimated`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

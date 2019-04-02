@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `OutlineCode10`
+_expression_. `OutlineCode10`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

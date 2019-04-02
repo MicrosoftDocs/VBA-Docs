@@ -19,7 +19,7 @@ Returns a string that represents the properties of a  **KeyboardEvent** or **Mou
 
 ## Syntax
 
- _expression_. `ToString`
+_expression_. `ToString`
 
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 

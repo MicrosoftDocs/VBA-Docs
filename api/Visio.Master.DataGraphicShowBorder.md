@@ -22,7 +22,7 @@ Gets or sets whether a border is displayed around the graphic items contained in
 
 ## Syntax
 
- _expression_. `DataGraphicShowBorder`
+_expression_. `DataGraphicShowBorder`
 
  _expression_ An expression that returns a [Master](./Visio.Master.md) object.
 

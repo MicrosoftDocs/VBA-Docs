@@ -19,7 +19,7 @@ Locks the presentation on the Microsoft Office SharePoint server to prevent its 
 
 ## Syntax
 
- _expression_. `LockServerFile`
+_expression_. `LockServerFile`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

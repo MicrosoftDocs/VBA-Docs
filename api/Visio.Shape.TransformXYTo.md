@@ -19,7 +19,7 @@ Transforms a point expressed in the local coordinate system of one  **Shape** ob
 
 ## Syntax
 
- _expression_. `TransformXYTo`( `_OtherShape_` , `_x_` , `_y_` , `_xprime_` , `_yprime_` )
+_expression_. `TransformXYTo`( `_OtherShape_` , `_x_` , `_y_` , `_xprime_` , `_yprime_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -19,7 +19,7 @@ Sets or returns the lightening or darkening of the color of a specified shape. R
 
 ## Syntax
 
- _expression_. `TintAndShade`
+_expression_. `TintAndShade`
 
 _expression_ A variable that represents a [ColorFormat](./PowerPoint.ColorFormat.md) object.
 

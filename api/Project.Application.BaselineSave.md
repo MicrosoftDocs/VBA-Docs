@@ -19,7 +19,7 @@ Creates a baseline plan.
 
 ## Syntax
 
- _expression_. `BaselineSave`( `_All_`, `_Copy_`, `_Into_`, `_RollupToSummaryTasks_`, `_RollupFromSubtasks_`, `_SetDefaults_` )
+_expression_. `BaselineSave`( `_All_`, `_Copy_`, `_Into_`, `_RollupToSummaryTasks_`, `_RollupFromSubtasks_`, `_SetDefaults_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

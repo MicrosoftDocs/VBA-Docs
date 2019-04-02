@@ -19,7 +19,7 @@ Automatically draws a connection in the specified direction between the shape an
 
 ## Syntax
 
- _expression_. `AutoConnect`( `_ToShape_` , `_PlacementDir_` , `_Connector_` )
+_expression_. `AutoConnect`( `_ToShape_` , `_PlacementDir_` , `_Connector_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

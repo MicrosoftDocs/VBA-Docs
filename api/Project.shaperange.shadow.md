@@ -12,7 +12,7 @@ Gets or sets the shadow formatting properties for the shape range. Read-only  **
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

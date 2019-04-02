@@ -19,7 +19,7 @@ Opens the Search Page.
 
 ## Syntax
 
- _expression_. `WebOpenSearchPage`
+_expression_. `WebOpenSearchPage`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

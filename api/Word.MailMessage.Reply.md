@@ -19,7 +19,7 @@ Opens a new email message — with the sender's address on the  **To** line — 
 
 ## Syntax
 
- _expression_. `Reply`
+_expression_. `Reply`
 
  _expression_ A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 

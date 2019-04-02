@@ -16,7 +16,7 @@ Gets the number of OLE objects contained within a  **Resource** object. Any obje
 
 ## Syntax
 
- _expression_. `Objects`
+_expression_. `Objects`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

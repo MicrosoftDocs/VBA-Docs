@@ -19,7 +19,7 @@ Returns an array of slide IDs for the specified named slide show. Read-only.
 
 ## Syntax
 
- _expression_. `SlideIDs`
+_expression_. `SlideIDs`
 
  _expression_ A variable that represents a [NamedSlideShow](./PowerPoint.NamedSlideShow.md) object.
 

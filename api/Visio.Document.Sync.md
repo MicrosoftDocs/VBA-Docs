@@ -19,7 +19,7 @@ Returns a Microsoft Office  **Sync** object that provides information about the 
 
 ## Syntax
 
- _expression_. `Sync`
+_expression_. `Sync`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

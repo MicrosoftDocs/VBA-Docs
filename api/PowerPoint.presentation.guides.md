@@ -17,7 +17,7 @@ Returns the [Guides](./overview/PowerPoint.md) collection associated with a cust
 
 ## Syntax
 
- _expression_. `Guides`
+_expression_. `Guides`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

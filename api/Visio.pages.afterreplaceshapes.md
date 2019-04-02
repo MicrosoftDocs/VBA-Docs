@@ -14,7 +14,7 @@ Occurs after a shape-replacement operation.
 
 ## Syntax
 
- _expression_. `AfterReplaceShapes`_(sel)_
+_expression_. `AfterReplaceShapes`_(sel)_
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

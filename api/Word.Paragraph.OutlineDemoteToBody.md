@@ -19,7 +19,7 @@ Demotes the specified paragraph to body text by applying the Normal style.
 
 ## Syntax
 
- _expression_. `OutlineDemoteToBody`
+_expression_. `OutlineDemoteToBody`
 
  _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

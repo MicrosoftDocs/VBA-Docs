@@ -19,7 +19,7 @@ Sets or returns a  **ColorFormat** object that represents the starting RGB color
 
 ## Syntax
 
- _expression_. `From`
+_expression_. `From`
 
 _expression_ A variable that represents a [ColorEffect](./PowerPoint.ColorEffect.md) object.
 

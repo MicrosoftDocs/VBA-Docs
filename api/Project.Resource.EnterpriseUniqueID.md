@@ -19,7 +19,7 @@ Gets the enterprise unique identification number for a resource. Read-only  **Lo
 
 ## Syntax
 
- _expression_. `EnterpriseUniqueID`
+_expression_. `EnterpriseUniqueID`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

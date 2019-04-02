@@ -19,7 +19,7 @@ Returns the distance (in points) from the left edge of the text bounding box for
 
 ## Syntax
 
- _expression_. `BoundLeft`
+_expression_. `BoundLeft`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

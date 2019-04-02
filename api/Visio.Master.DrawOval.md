@@ -19,7 +19,7 @@ Adds an oval (ellipse) to the  **Shapes** collection of a master.
 
 ## Syntax
 
- _expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
+_expression_. `DrawOval`( `_x1_` , `_y1_` , `_x2_` , `_y2_` )
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

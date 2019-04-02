@@ -19,7 +19,7 @@ Renames the specified section with the specified name.
 
 ## Syntax
 
- _expression_. `Rename`( `_sectionIndex_`, `_sectionName_` )
+_expression_. `Rename`( `_sectionIndex_`, `_sectionName_` )
 
  _expression_ A variable that represents a [SectionProperties](./PowerPoint.SectionProperties.md) object.
 

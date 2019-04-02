@@ -19,7 +19,7 @@ Applies or removes underlining from the selected text.
 
 ## Syntax
 
- _expression_. `FontUnderLine`( `_Set_` )
+_expression_. `FontUnderLine`( `_Set_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

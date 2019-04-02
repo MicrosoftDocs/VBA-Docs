@@ -19,7 +19,7 @@ Closes the specified document.
 
 ## Syntax
 
- _expression_. `Close`( `_SaveChanges_` , `_OriginalFormat_` , `_RouteDocument_` )
+_expression_. `Close`( `_SaveChanges_` , `_OriginalFormat_` , `_RouteDocument_` )
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

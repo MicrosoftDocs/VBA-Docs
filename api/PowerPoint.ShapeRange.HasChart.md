@@ -19,7 +19,7 @@ Returns whether the shape range represented by the specified object contains a c
 
 ## Syntax
 
- _expression_. `HasChart`
+_expression_. `HasChart`
 
  _expression_ An expression that returns a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

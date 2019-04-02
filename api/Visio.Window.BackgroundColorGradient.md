@@ -19,7 +19,7 @@ Determines the background gradient color of the active Microsoft Visio drawing w
 
 ## Syntax
 
- _expression_. `BackgroundColorGradient`
+_expression_. `BackgroundColorGradient`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

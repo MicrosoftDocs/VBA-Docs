@@ -19,7 +19,7 @@ Returns a  **[PictureFormat](PowerPoint.PictureFormat.md)** object for a specifi
 
 ## Syntax
 
- _expression_. `PictureFormat`
+_expression_. `PictureFormat`
 
 _expression_ A variable that represents a '[ChartFormat](PowerPoint.ChartFormat.md)' object.
 

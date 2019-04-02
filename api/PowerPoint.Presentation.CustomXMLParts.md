@@ -19,7 +19,7 @@ Returns a  **[CustomXMLParts](Office.CustomXMLParts.md)** object that represents
 
 ## Syntax
 
- _expression_. `CustomXMLParts`
+_expression_. `CustomXMLParts`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -16,7 +16,7 @@ Gets a  **[List](Project.List.md)** object representing all resource views in th
 
 ## Syntax
 
- _expression_. `ResourceViewList`
+_expression_. `ResourceViewList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

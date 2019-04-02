@@ -19,7 +19,7 @@ Returns a  **[Design](PowerPoint.Design.md)** object that represents the design 
 
 ## Syntax
 
- _expression_. `Design`
+_expression_. `Design`
 
 _expression_ A variable that represents a [CustomLayout](./PowerPoint.CustomLayout.md) object.
 

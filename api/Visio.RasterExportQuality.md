@@ -19,7 +19,7 @@ Determines the export quality that is applied to the exported image when you cal
 
 ## Syntax
 
- _expression_. `RasterExportQuality`
+_expression_. `RasterExportQuality`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

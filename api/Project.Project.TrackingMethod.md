@@ -16,7 +16,7 @@ Gets or sets the tracking method used by Project Server for the project. Read/wr
 
 ## Syntax
 
- _expression_. `TrackingMethod`
+_expression_. `TrackingMethod`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -19,7 +19,7 @@ Specifies the distance in pixels along the y-axis that guides pull when snapping
 
 ## Syntax
 
- _expression_. `SnapStrengthGuidesY`
+_expression_. `SnapStrengthGuidesY`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

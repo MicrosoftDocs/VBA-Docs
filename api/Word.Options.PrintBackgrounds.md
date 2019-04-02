@@ -19,7 +19,7 @@ Returns a  **Boolean** that represents whether background colors and images are 
 
 ## Syntax
 
- _expression_. `PrintBackgrounds`
+_expression_. `PrintBackgrounds`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

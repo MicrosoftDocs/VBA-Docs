@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ProjectGuid`
+_expression_. `ProjectGuid`
 
  _expression_ A variable that represents a 'Engagement' object.
 

@@ -19,7 +19,7 @@ Returns or sets an  **MsoEncoding** constant representing the code page, or char
 
 ## Syntax
 
- _expression_. `DefaultTextEncoding`
+_expression_. `DefaultTextEncoding`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

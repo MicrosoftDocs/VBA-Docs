@@ -19,7 +19,7 @@ Validates the specified validation rule set.
 
 ## Syntax
 
- _expression_. `Validate`( `_RuleSet_` , `_Flags_` )
+_expression_. `Validate`( `_RuleSet_` , `_Flags_` )
 
  _expression_ A variable that represents a '[Validation](Visio.Validation.md)' object.
 

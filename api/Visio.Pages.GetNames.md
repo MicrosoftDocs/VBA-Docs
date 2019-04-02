@@ -19,7 +19,7 @@ Returns the names of all items in a collection.
 
 ## Syntax
 
- _expression_. `GetNames`( `_localeSpecificNameArray()_` )
+_expression_. `GetNames`( `_localeSpecificNameArray()_` )
 
  _expression_ A variable that represents a [Pages](./Visio.Pages.md) object.
 

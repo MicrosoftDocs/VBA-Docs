@@ -19,7 +19,7 @@ Determines the default format for saving Microsoft Visio files. Read/write.
 
 ## Syntax
 
- _expression_. `DefaultSaveFormat`
+_expression_. `DefaultSaveFormat`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

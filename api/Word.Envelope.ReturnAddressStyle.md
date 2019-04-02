@@ -19,7 +19,7 @@ Returns a  **[Style](Word.Style.md)** object that represents the return address 
 
 ## Syntax
 
- _expression_. `ReturnAddressStyle`
+_expression_. `ReturnAddressStyle`
 
  _expression_ An expression that returns an '[Envelope](Word.Envelope.md)' object.
 

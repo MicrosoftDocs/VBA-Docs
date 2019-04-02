@@ -19,7 +19,7 @@ Returns or sets the width of the page in points. Read/write  **Single**.
 
 ## Syntax
 
- _expression_. `PageWidth`
+_expression_. `PageWidth`
 
  _expression_ An expression that returns a '[PageSetup](Word.PageSetup.md)' object.
 

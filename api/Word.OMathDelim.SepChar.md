@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that represents the separator character in a del
 
 ## Syntax
 
- _expression_. `SepChar`
+_expression_. `SepChar`
 
  _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 

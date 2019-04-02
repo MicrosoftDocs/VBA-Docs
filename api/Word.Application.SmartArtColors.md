@@ -19,7 +19,7 @@ Returns a [SmartArtColors](Office.SmartArtColors.md) object that represents the 
 
 ## Syntax
 
- _expression_. `SmartArtColors`
+_expression_. `SmartArtColors`
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

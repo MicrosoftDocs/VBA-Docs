@@ -19,7 +19,7 @@ Returns an array of ShapeSheet cells that are dependent on a particular cell of 
 
 ## Syntax
 
- _expression_. `Dependents`
+_expression_. `Dependents`
 
  _expression_ An expression that returns a [Cell](./Visio.Cell.md) object.
 

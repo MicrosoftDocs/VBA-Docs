@@ -14,7 +14,7 @@ Returns a value from the [XlDataLabelPosition](PowerPoint.XlDataLabelPosition.md
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
 _expression_ A variable that represents a [DataLabels](PowerPoint.DataLabels.md) object.
 

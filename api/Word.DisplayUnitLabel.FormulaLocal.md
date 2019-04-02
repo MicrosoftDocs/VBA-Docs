@@ -19,7 +19,7 @@ Returns or sets the formula for the object, using A1-style references in the lan
 
 ## Syntax
 
- _expression_. `FormulaLocal`
+_expression_. `FormulaLocal`
 
  _expression_ A variable that represents a '[DisplayUnitLabel](Word.DisplayUnitLabel.md)' object.
 

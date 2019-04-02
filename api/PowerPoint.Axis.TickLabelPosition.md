@@ -19,7 +19,7 @@ Describes the position of tick-mark labels on the specified axis. Read/write  **
 
 ## Syntax
 
- _expression_. `TickLabelPosition`
+_expression_. `TickLabelPosition`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

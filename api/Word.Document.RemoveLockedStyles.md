@@ -19,7 +19,7 @@ Purges a document of locked styles when formatting restrictions have been applie
 
 ## Syntax
 
- _expression_. `RemoveLockedStyles`
+_expression_. `RemoveLockedStyles`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

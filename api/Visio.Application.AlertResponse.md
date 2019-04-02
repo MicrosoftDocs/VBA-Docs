@@ -19,7 +19,7 @@ Determines whether Microsoft Visio shows alerts and modal dialog boxes to the us
 
 ## Syntax
 
- _expression_. `AlertResponse`
+_expression_. `AlertResponse`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

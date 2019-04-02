@@ -19,7 +19,7 @@ Returns or sets the top bevel height for the specified  **ThreeDFormat** object,
 
 ## Syntax
 
- _expression_. `BevelTopDepth`
+_expression_. `BevelTopDepth`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

@@ -19,7 +19,7 @@ Returns a picture that represents an enhanced metafile (EMF) contained in a mast
 
 ## Syntax
 
- _expression_. `Picture`
+_expression_. `Picture`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

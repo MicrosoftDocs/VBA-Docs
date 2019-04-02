@@ -19,7 +19,7 @@ Returns or sets the inside height, in points, of the plot area. Read/write  **Do
 
 ## Syntax
 
- _expression_. `InsideHeight`
+_expression_. `InsideHeight`
 
  _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 

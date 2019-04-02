@@ -19,7 +19,7 @@ Defines a friendly name for a custom field.
 
 ## Syntax
 
- _expression_. `CustomFieldRename`( `_FieldID_`, `_NewName_`, `_Phonetic_` )
+_expression_. `CustomFieldRename`( `_FieldID_`, `_NewName_`, `_Phonetic_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

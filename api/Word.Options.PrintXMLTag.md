@@ -19,7 +19,7 @@ Returns a  **Boolean** that represents whether to print the XML tags when printi
 
 ## Syntax
 
- _expression_. `PrintXMLTag`
+_expression_. `PrintXMLTag`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

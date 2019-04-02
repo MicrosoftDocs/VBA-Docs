@@ -19,7 +19,7 @@ Returns an  **[XMLMapping](Word.XMLMapping.md)** object that represents the mapp
 
 ## Syntax
 
- _expression_. `XMLMapping`
+_expression_. `XMLMapping`
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

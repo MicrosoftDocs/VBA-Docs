@@ -19,7 +19,7 @@ Returns an  **[OMathMatRow](Word.OMathMatRow.md)** object that represents the pa
 
 ## Syntax
 
- _expression_. `ParentRow`
+_expression_. `ParentRow`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

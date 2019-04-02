@@ -19,7 +19,7 @@ Sets the options Microsoft PowerPoint uses for encrypting presentations with pas
 
 ## Syntax
 
- _expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_`, `_PasswordEncryptionAlgorithm_`, `_PasswordEncryptionKeyLength_`, `_PasswordEncryptionFileProperties_` )
+_expression_. `SetPasswordEncryptionOptions`( `_PasswordEncryptionProvider_`, `_PasswordEncryptionAlgorithm_`, `_PasswordEncryptionKeyLength_`, `_PasswordEncryptionFileProperties_` )
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -19,7 +19,7 @@ Returns whether Microsoft PowerPoint encrypts file properties for password-prote
 
 ## Syntax
 
- _expression_. `PasswordEncryptionFileProperties`
+_expression_. `PasswordEncryptionFileProperties`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

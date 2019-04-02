@@ -19,7 +19,7 @@ Gets the name of the template associated with a project. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `Template`
+_expression_. `Template`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

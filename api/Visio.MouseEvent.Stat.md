@@ -19,7 +19,7 @@ Returns status information. Read-only.
 
 ## Syntax
 
- _expression_. `Stat`
+_expression_. `Stat`
 
  _expression_ A variable that represents a [MouseEvent](./Visio.MouseEvent.md) object.
 

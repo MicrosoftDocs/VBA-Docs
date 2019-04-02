@@ -19,7 +19,7 @@ Selects a cell containing resource information.
 
 ## Syntax
 
- _expression_. `SelectResourceCell`( `_Row_`, `_Column_`, `_RowRelative_` )
+_expression_. `SelectResourceCell`( `_Row_`, `_Column_`, `_RowRelative_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

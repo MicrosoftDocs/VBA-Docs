@@ -19,7 +19,7 @@ Returns the width (in points) of the area in which text wraps in the specified p
 
 ## Syntax
 
- _expression_. `BrowseWidth`
+_expression_. `BrowseWidth`
 
  _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 

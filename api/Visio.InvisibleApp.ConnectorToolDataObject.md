@@ -19,7 +19,7 @@ Returns an  **IDataObject** interface representing the active **Connector** tool
 
 ## Syntax
 
- _expression_. `ConnectorToolDataObject`
+_expression_. `ConnectorToolDataObject`
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

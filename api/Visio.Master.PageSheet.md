@@ -19,7 +19,7 @@ Returns the page sheet (an object that represents the ShapeSheet spreadsheet) of
 
 ## Syntax
 
- _expression_. `PageSheet`
+_expression_. `PageSheet`
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

@@ -16,7 +16,7 @@ Gets or sets the amount of time the task is delayed due to leveling. Read/write 
 
 ## Syntax
 
- _expression_. `LevelingDelay`
+_expression_. `LevelingDelay`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

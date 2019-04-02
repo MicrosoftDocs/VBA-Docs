@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AdjustHeaderRowHeight`
+_expression_. `AdjustHeaderRowHeight`
 
  _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

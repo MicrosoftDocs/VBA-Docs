@@ -16,7 +16,7 @@ Gets the path and file name of the Visual Report template. Read-only  **String**
 
 ## Syntax
 
- _expression_. `TemplatePath`
+_expression_. `TemplatePath`
 
  _expression_ A variable that represents a [ReportTemplate](./Project.ReportTemplate.md) object.
 

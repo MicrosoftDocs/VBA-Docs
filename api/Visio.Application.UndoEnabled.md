@@ -19,7 +19,7 @@ Determines whether undo information is maintained in memory. Read/write.
 
 ## Syntax
 
- _expression_. `UndoEnabled`
+_expression_. `UndoEnabled`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

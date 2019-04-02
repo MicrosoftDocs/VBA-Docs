@@ -19,7 +19,7 @@ Returns a [Conflicts](Word.Conflicts.md) collection object that contains all the
 
 ## Syntax
 
- _expression_. `Conflicts`
+_expression_. `Conflicts`
 
  _expression_ An expression that returns a [Range](./Word.Range.md) object.
 

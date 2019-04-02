@@ -14,7 +14,7 @@ Sets the theme for the specified page.
 
 ## Syntax
 
- _expression_. `SetTheme`_(varThemeIndex,_ _varColorScheme,_ _varEffectScheme,_ _varConnectorScheme,_ _varFontScheme)_
+_expression_. `SetTheme`_(varThemeIndex,_ _varColorScheme,_ _varEffectScheme,_ _varConnectorScheme,_ _varFontScheme)_
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

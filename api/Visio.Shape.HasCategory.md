@@ -19,7 +19,7 @@ Returns  **True** if the specified category is in the shape categories list.
 
 ## Syntax
 
- _expression_. `HasCategory`( `_Category_` )
+_expression_. `HasCategory`( `_Category_` )
 
  _expression_ A variable that represents a '[Shape](Visio.Shape.md)' object.
 

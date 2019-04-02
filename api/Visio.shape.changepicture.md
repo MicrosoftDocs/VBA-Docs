@@ -14,7 +14,7 @@ Replaces the specified shape?s current picture with a new picture.
 
 ## Syntax
 
- _expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
+_expression_. `ChangePicture`_(FileName,_ _ChangePictureFlags)_
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

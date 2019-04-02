@@ -19,7 +19,7 @@ Returns or sets an  **[OlTimelineViewMode](Outlook.OlTimelineViewMode.md)** cons
 
 ## Syntax
 
- _expression_. `TimelineViewMode`
+_expression_. `TimelineViewMode`
 
 _expression_ A variable that represents a [TimelineView](./Outlook.TimelineView.md) object.
 

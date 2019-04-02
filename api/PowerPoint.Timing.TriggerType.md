@@ -19,7 +19,7 @@ Represents the trigger that starts an animation. Read/write.
 
 ## Syntax
 
- _expression_. `TriggerType`
+_expression_. `TriggerType`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

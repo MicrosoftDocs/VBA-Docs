@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MatchAlefHamza`
+_expression_. `MatchAlefHamza`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 

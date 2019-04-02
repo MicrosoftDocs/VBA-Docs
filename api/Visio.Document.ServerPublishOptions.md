@@ -19,7 +19,7 @@ Returns a  **[ServerPublishOptions](Visio.ServerPublishOptions.md)** object that
 
 ## Syntax
 
- _expression_. `ServerPublishOptions`
+_expression_. `ServerPublishOptions`
 
  _expression_ A variable that represents a '[Document](Visio.Document.md)' object.
 

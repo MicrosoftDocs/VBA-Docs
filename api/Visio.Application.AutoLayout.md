@@ -19,7 +19,7 @@ Allows you to temporarily disable automatic layout functionality in Microsoft Vi
 
 ## Syntax
 
- _expression_. `AutoLayout`
+_expression_. `AutoLayout`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

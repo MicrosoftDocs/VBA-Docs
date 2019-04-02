@@ -19,7 +19,7 @@ Moves the endpoint of a one-dimensional (1-D) shape to the coordinates represent
 
 ## Syntax
 
- _expression_. `SetEnd`( `_xPos_` , `_yPos_` )
+_expression_. `SetEnd`( `_xPos_` , `_yPos_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

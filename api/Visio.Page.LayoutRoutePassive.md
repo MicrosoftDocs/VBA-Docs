@@ -19,7 +19,7 @@ Determines whether to enable advanced connector routing logic on the page. Read/
 
 ## Syntax
 
- _expression_. `LayoutRoutePassive`
+_expression_. `LayoutRoutePassive`
 
  _expression_ A variable that represents a '[Page](Visio.Page.md)' object.
 

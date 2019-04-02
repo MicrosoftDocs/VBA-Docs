@@ -19,7 +19,7 @@ Returns or sets the special effect applied to the specified slide transition. Re
 
 ## Syntax
 
- _expression_. `EntryEffect`
+_expression_. `EntryEffect`
 
  _expression_ A variable that represents a [SlideShowTransition](./PowerPoint.SlideShowTransition.md) object.
 

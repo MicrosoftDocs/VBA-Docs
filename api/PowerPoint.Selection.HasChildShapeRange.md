@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasChildShapeRange`
+_expression_. `HasChildShapeRange`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

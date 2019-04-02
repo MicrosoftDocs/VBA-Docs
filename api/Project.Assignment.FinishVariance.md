@@ -16,7 +16,7 @@ Gets the variance (in minutes) between the baseline finish date and the finish d
 
 ## Syntax
 
- _expression_. `FinishVariance`
+_expression_. `FinishVariance`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

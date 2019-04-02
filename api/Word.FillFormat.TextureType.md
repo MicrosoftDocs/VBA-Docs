@@ -19,7 +19,7 @@ Returns the texture type for the specified fill. Read-only  **MsoTextureType**.
 
 ## Syntax
 
- _expression_. `TextureType`
+_expression_. `TextureType`
 
  _expression_ An expression that represents a '[FillFormat](Word.FillFormat.md)' object.
 

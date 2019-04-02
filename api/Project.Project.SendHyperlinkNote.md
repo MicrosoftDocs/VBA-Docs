@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SendHyperlinkNote`
+_expression_. `SendHyperlinkNote`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

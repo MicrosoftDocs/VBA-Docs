@@ -19,7 +19,7 @@ Gets or sets the email address of the resource. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `EMailAddress`
+_expression_. `EMailAddress`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

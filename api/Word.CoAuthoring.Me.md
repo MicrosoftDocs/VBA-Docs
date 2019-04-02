@@ -19,7 +19,7 @@ Returns a  **[CoAuthor](Word.CoAuthor.md)** object that represents the current u
 
 ## Syntax
 
- _expression_. `Me`
+_expression_. `Me`
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

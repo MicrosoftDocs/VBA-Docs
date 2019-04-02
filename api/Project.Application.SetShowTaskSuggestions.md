@@ -19,7 +19,7 @@ Sets the global  **Show Suggestions** option for tasks.
 
 ## Syntax
 
- _expression_. `SetShowTaskSuggestions`( `_Set_` )
+_expression_. `SetShowTaskSuggestions`( `_Set_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

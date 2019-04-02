@@ -17,7 +17,7 @@ Returns the level of the content control—whether the content control surrounds
 
 ## Syntax
 
- _expression_. `Level`
+_expression_. `Level`
 
  _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 

@@ -19,7 +19,7 @@ Highlights a goal area on the  **Project Guide** toolbar to indicate it is curre
 
 ## Syntax
 
- _expression_. `GoalAreaHighlight`( `_goalArea_` )
+_expression_. `GoalAreaHighlight`( `_goalArea_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **[FillFormat](PowerPoint.FillFormat.md)** object that represents the
 
 ## Syntax
 
- _expression_. `Fill`
+_expression_. `Fill`
 
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 

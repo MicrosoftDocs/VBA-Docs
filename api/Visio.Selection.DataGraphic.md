@@ -22,7 +22,7 @@ Gets the data graphic master (**Master** object of type **visTypeDataGraphic**) 
 
 ## Syntax
 
- _expression_. `DataGraphic`
+_expression_. `DataGraphic`
 
  _expression_ An expression that returns a [Selection](./Visio.Selection.md) object.
 

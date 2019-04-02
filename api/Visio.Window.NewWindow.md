@@ -19,7 +19,7 @@ Opens a new Microsoft Visio window.
 
 ## Syntax
 
- _expression_. `NewWindow`
+_expression_. `NewWindow`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

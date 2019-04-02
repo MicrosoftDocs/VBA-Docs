@@ -19,7 +19,7 @@ Returns or sets the distance, in points, from the chart edge to the inside top e
 
 ## Syntax
 
- _expression_. `InsideTop`
+_expression_. `InsideTop`
 
  _expression_ A variable that represents a '[PlotArea](PowerPoint.PlotArea.md)' object.
 

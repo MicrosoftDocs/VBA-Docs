@@ -19,7 +19,7 @@ Returns or sets a value that indicates how PowerPoint will validate files before
 
 ## Syntax
 
- _expression_. `FileValidation`
+_expression_. `FileValidation`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

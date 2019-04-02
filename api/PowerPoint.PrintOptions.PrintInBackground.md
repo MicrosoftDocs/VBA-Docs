@@ -19,7 +19,7 @@ Determines whether the specified presentation is printed in the background. Read
 
 ## Syntax
 
- _expression_. `PrintInBackground`
+_expression_. `PrintInBackground`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

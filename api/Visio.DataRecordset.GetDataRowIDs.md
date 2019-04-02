@@ -22,7 +22,7 @@ Gets an array of the IDs of all the rows in the data recordset.
 
 ## Syntax
 
- _expression_. `GetDataRowIDs`( `_CriteriaString_` )
+_expression_. `GetDataRowIDs`( `_CriteriaString_` )
 
  _expression_ An expression that returns a [DataRecordset](./Visio.DataRecordset.md) object.
 

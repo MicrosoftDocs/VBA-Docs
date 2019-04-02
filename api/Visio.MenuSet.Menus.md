@@ -19,7 +19,7 @@ Returns the  **Menus** collection of a **MenuSet** object. Read-only.
 
 ## Syntax
 
- _expression_. `Menus`
+_expression_. `Menus`
 
  _expression_ A variable that represents a [MenuSet](./Visio.MenuSet.md) object.
 

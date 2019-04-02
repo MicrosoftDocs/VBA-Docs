@@ -16,7 +16,7 @@ Gets the order of display of the day, month, and year in date values. Read-only 
 
 ## Syntax
 
- _expression_. `DateOrder`
+_expression_. `DateOrder`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

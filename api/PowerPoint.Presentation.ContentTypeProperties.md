@@ -19,7 +19,7 @@ Returns the Microsoft Office  **MetaProperties** collection that describes the m
 
 ## Syntax
 
- _expression_. `ContentTypeProperties`
+_expression_. `ContentTypeProperties`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

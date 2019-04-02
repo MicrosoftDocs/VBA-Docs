@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Duration8`
+_expression_. `Duration8`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

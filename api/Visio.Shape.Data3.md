@@ -19,7 +19,7 @@ Gets or sets the value of the  **Data3** field for a **Shape** object. Read/writ
 
 ## Syntax
 
- _expression_. `Data3`
+_expression_. `Data3`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

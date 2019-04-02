@@ -19,7 +19,7 @@ Determines the export operation that is applied to the exported image when you c
 
 ## Syntax
 
- _expression_. `RasterExportOperation`
+_expression_. `RasterExportOperation`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

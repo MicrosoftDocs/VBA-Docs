@@ -19,7 +19,7 @@ Closes the active project.
 
 ## Syntax
 
- _expression_. `FileCloseEx`( `_Save_`, `_NoAuto_`, `_CheckIn_` )
+_expression_. `FileCloseEx`( `_Save_`, `_NoAuto_`, `_CheckIn_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

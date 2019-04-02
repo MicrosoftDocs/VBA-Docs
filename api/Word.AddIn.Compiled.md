@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Compiled`
+_expression_. `Compiled`
 
  _expression_ A variable that represents a '[AddIn](Word.AddIn.md)' object.
 

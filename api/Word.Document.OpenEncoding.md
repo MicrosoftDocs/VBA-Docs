@@ -19,7 +19,7 @@ Returns the encoding used to open the specified document. Read-only  **MsoEncodi
 
 ## Syntax
 
- _expression_. `OpenEncoding`
+_expression_. `OpenEncoding`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

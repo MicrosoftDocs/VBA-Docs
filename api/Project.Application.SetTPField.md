@@ -19,7 +19,7 @@ Sets a value for the percent complete field of one or more tasks in the Team Pla
 
 ## Syntax
 
- _expression_. `SetTPField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
+_expression_. `SetTPField`( `_Field_`, `_Value_`, `_AllSelectedTasks_`, `_Create_`, `_TaskID_`, `_ProjectName_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

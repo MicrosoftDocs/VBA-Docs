@@ -19,7 +19,7 @@ Glues one shape to another from a cell in the first shape to an  _x_, _y_ positi
 
 ## Syntax
 
- _expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
+_expression_. `GlueToPos`( `_SheetObject_` , `_xPercent_` , `_yPercent_` )
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

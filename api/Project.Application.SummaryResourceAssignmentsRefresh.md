@@ -19,7 +19,7 @@ Refreshes the summary resource assignments of a project by getting the latest av
 
 ## Syntax
 
- _expression_. `SummaryResourceAssignmentsRefresh`
+_expression_. `SummaryResourceAssignmentsRefresh`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

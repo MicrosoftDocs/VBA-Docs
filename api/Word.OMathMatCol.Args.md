@@ -19,7 +19,7 @@ Returns an  **[OMathArgs](Word.OMathArgs.md)** object that represents the argume
 
 ## Syntax
 
- _expression_. `Args`
+_expression_. `Args`
 
  _expression_ An expression that returns an '[OMathMatCol](Word.OMathMatCol.md)' object.
 

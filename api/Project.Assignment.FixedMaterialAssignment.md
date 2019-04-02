@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `FixedMaterialAssignment`
+_expression_. `FixedMaterialAssignment`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

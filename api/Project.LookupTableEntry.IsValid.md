@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsValid`
+_expression_. `IsValid`
 
  _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 

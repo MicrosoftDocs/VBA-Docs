@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `TimeLeadingZero`
+_expression_. `TimeLeadingZero`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

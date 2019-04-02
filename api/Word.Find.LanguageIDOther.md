@@ -19,7 +19,7 @@ Returns or sets the language for the specified object. Read/write  **[WdLanguage
 
 ## Syntax
 
- _expression_. `LanguageIDOther`
+_expression_. `LanguageIDOther`
 
  _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 

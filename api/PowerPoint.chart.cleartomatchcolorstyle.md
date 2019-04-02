@@ -14,7 +14,7 @@ Clears all colors on the specified chart that do not follow the color style appl
 
 ## Syntax
 
- _expression_. `ClearToMatchColorStyle`
+_expression_. `ClearToMatchColorStyle`
 
 _expression_ A variable that represents a [Chart](./PowerPoint.Chart.md) object.
 

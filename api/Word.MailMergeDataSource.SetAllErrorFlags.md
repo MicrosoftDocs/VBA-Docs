@@ -19,7 +19,7 @@ Marks all records in a mail merge data source as containing invalid data in an a
 
 ## Syntax
 
- _expression_. `SetAllErrorFlags`( `_Invalid_` , `_InvalidComment_` )
+_expression_. `SetAllErrorFlags`( `_Invalid_` , `_InvalidComment_` )
 
  _expression_ Required. A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

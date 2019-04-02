@@ -14,7 +14,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsDurationValid`
+_expression_. `IsDurationValid`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the page size for the specified custom mailing label. Read/write
 
 ## Syntax
 
- _expression_. `PageSize`
+_expression_. `PageSize`
 
  _expression_ Required. A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 

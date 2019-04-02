@@ -19,7 +19,7 @@ Saves a Visual Reports database to the default directory or to a specified direc
 
 ## Syntax
 
- _expression_. `VisualReportsSaveDatabase`( `_strNamePath_`, `_PjVisualReportsDataLevel_` )
+_expression_. `VisualReportsSaveDatabase`( `_strNamePath_`, `_PjVisualReportsDataLevel_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

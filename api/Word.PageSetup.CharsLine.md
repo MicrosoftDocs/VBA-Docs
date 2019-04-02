@@ -19,7 +19,7 @@ Returns or sets the number of characters per line in the document grid. Read/wri
 
 ## Syntax
 
- _expression_. `CharsLine`
+_expression_. `CharsLine`
 
  _expression_ A variable that represents a '[PageSetup](Word.PageSetup.md)' object.
 

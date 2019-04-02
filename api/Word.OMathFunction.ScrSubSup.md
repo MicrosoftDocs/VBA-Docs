@@ -19,7 +19,7 @@ Returns an  **[OMathScrSubSup](Word.OMathScrSubSup.md)** object that represents 
 
 ## Syntax
 
- _expression_. `ScrSubSup`
+_expression_. `ScrSubSup`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

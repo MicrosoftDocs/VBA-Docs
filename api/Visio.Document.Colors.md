@@ -19,7 +19,7 @@ Returns the  **Colors** collection of a **Document** object. Read-only.
 
 ## Syntax
 
- _expression_. `Colors`
+_expression_. `Colors`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

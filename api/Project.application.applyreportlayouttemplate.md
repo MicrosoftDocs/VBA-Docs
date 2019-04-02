@@ -15,7 +15,7 @@ Applies the specified report template to the active report.
 
 ## Syntax
 
- _expression_. `ApplyReportLayoutTemplate` _(TemplateId)_
+_expression_. `ApplyReportLayoutTemplate` _(TemplateId)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

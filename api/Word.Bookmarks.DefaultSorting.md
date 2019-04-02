@@ -19,7 +19,7 @@ Returns or sets the sorting option for bookmark names displayed in the  **Bookma
 
 ## Syntax
 
- _expression_. `DefaultSorting`
+_expression_. `DefaultSorting`
 
  _expression_ Required. A variable that represents a '[Bookmarks](Word.bookmarks.md)' collection.
 

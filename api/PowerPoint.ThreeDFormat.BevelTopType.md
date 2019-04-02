@@ -19,7 +19,7 @@ Returns or set the top bevel type. Read/write.
 
 ## Syntax
 
- _expression_. `BevelTopType`
+_expression_. `BevelTopType`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

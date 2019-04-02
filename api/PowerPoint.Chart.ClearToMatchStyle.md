@@ -16,7 +16,7 @@ Clears the chart elements formatting to automatic.
 
 ## Syntax
 
- _expression_. `ClearToMatchStyle`
+_expression_. `ClearToMatchStyle`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

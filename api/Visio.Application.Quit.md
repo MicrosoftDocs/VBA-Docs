@@ -19,7 +19,7 @@ Closes the indicated instance of Microsoft Visio.
 
 ## Syntax
 
- _expression_. `Quit`
+_expression_. `Quit`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `TwelveHourTimeFormat`
+_expression_. `TwelveHourTimeFormat`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

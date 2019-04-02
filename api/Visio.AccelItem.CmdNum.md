@@ -19,7 +19,7 @@ Gets or sets the command ID associated with an accelerator. Read/write.
 
 ## Syntax
 
- _expression_. `CmdNum`
+_expression_. `CmdNum`
 
  _expression_ A variable that represents an [AccelItem](./Visio.AccelItem.md) object.
 

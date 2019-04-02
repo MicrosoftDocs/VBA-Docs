@@ -19,7 +19,7 @@ Custom forms are not used in Project.
 
 ## Syntax
 
- _expression_. `CustomForms`
+_expression_. `CustomForms`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

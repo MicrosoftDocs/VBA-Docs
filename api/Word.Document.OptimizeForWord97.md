@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `OptimizeForWord97`
+_expression_. `OptimizeForWord97`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

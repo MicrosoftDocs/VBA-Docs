@@ -19,7 +19,7 @@ Returns or sets a  **Single** that specifies the horizontal scaling factor for t
 
 ## Syntax
 
- _expression_. `TextureHorizontalScale`
+_expression_. `TextureHorizontalScale`
 
  _expression_ An expression that returns a '[FillFormat](Word.FillFormat.md)' object.
 

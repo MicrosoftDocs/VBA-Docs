@@ -19,7 +19,7 @@ Returns or sets a  **String** that represents the name of the style to use for f
 
 ## Syntax
 
- _expression_. `BibliographyStyle`
+_expression_. `BibliographyStyle`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

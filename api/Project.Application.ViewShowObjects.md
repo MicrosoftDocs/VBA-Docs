@@ -19,7 +19,7 @@ Displays information about the task or resource object in the active details vie
 
 ## Syntax
 
- _expression_. `ViewShowObjects`
+_expression_. `ViewShowObjects`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

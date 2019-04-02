@@ -19,7 +19,7 @@ Returns the  **[ValidationRuleSet](Visio.ValidationRuleSet.md)** object that con
 
 ## Syntax
 
- _expression_. `RuleSet`
+_expression_. `RuleSet`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

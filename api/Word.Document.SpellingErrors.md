@@ -19,7 +19,7 @@ Returns a  **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that 
 
 ## Syntax
 
- _expression_. `SpellingErrors`
+_expression_. `SpellingErrors`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

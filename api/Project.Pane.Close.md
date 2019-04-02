@@ -16,7 +16,7 @@ Closes the bottom pane of a window.
 
 ## Syntax
 
- _expression_. `Close`
+_expression_. `Close`
 
  _expression_ An expression that returns a [Pane](./Project.Pane.md) object.
 

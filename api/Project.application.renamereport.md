@@ -15,7 +15,7 @@ Displays the  **Rename** dialog box, which includes the current name of the acti
 
 ## Syntax
 
- _expression_. `RenameReport`
+_expression_. `RenameReport`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

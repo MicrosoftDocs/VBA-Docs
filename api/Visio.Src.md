@@ -19,7 +19,7 @@ The full path, including file name, of the Microsoft Visio file used to initiali
 
 ## Syntax
 
- _expression_. `Src`
+_expression_. `Src`
 
  _expression_ A variable that represents a [DrawingControl](./Visio.DrawingControl.md) object.
 

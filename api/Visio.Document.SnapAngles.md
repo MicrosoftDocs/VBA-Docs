@@ -19,7 +19,7 @@ Determines the degree of the angle that is drawn when isometric angle lines is c
 
 ## Syntax
 
- _expression_. `SnapAngles`
+_expression_. `SnapAngles`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

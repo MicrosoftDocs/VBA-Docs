@@ -16,7 +16,7 @@ Returns or sets the position of the chart title on the chart. Read/write  **[xlC
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
 _expression_ A variable that represents a '[ChartTitle](PowerPoint.ChartTitle.md)' object.
 

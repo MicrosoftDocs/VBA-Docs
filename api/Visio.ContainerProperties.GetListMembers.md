@@ -19,7 +19,7 @@ Returns an array of shape identifiers (IDs) of member shapes in the list.
 
 ## Syntax
 
- _expression_. `GetListMembers`
+_expression_. `GetListMembers`
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

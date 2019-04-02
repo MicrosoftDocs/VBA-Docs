@@ -19,7 +19,7 @@ Returns whether the specified shape has a text frame. Read-only.
 
 ## Syntax
 
- _expression_. `HasTextFrame`
+_expression_. `HasTextFrame`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

@@ -19,7 +19,7 @@ Indicates whether the text in the specified shape is animated by first-level par
 
 ## Syntax
 
- _expression_. `TextLevelEffect`
+_expression_. `TextLevelEffect`
 
 _expression_ A variable that represents a [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

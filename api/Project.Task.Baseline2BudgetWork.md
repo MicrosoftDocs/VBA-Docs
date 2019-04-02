@@ -16,7 +16,7 @@ Gets or sets the baseline2 budget work for the rollup calculated budgeted work h
 
 ## Syntax
 
- _expression_. `Baseline2BudgetWork`
+_expression_. `Baseline2BudgetWork`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

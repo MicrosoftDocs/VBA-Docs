@@ -16,7 +16,7 @@ Gets or sets the work breakdown structure (WBS) code of the assignment. Read/wri
 
 ## Syntax
 
- _expression_. `WBS`
+_expression_. `WBS`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

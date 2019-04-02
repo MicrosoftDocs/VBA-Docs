@@ -19,7 +19,7 @@ Displays the details from a MAPI-compliant address book for a resource.
 
 ## Syntax
 
- _expression_. `ResourceDetails`( `_Name_` )
+_expression_. `ResourceDetails`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

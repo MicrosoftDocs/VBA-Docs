@@ -19,7 +19,7 @@ Gets or sets how much drawings are reduced or enlarged when printed. Read/write.
 
 ## Syntax
 
- _expression_. `PrintScale`
+_expression_. `PrintScale`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

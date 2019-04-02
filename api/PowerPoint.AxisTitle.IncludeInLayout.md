@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ An expression that returns a '[AxisTitle](PowerPoint.AxisTitle.md)' object.
 

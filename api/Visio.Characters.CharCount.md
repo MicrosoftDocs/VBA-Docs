@@ -19,7 +19,7 @@ Returns the number of characters in an object. Read-only.
 
 ## Syntax
 
- _expression_. `CharCount`
+_expression_. `CharCount`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

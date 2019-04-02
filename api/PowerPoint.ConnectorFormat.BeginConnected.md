@@ -19,7 +19,7 @@ Determines whether the beginning of the specified connector is connected to a sh
 
 ## Syntax
 
- _expression_. `BeginConnected`
+_expression_. `BeginConnected`
 
 _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Working`
+_expression_. `Working`
 
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 

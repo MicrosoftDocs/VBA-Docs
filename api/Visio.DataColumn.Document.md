@@ -22,7 +22,7 @@ Gets the  **Document** object that contains the **DataColumn** object. Read-only
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ An expression that returns a [DataColumn](./Visio.DataColumn.md) object.
 

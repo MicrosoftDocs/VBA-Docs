@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ShowInMenu`
+_expression_. `ShowInMenu`
 
  _expression_ A variable that represents a [View](./Project.View.md) object.
 

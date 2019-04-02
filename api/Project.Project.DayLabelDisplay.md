@@ -16,7 +16,7 @@ Gets or sets the abbreviation for "day" that is displayed for values such as dur
 
 ## Syntax
 
- _expression_. `DayLabelDisplay`
+_expression_. `DayLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

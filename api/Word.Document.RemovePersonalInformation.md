@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `RemovePersonalInformation`
+_expression_. `RemovePersonalInformation`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

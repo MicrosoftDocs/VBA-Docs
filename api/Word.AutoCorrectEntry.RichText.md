@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `RichText`
+_expression_. `RichText`
 
  _expression_ An expression that returns an '[AutoCorrectEntry](Word.AutoCorrectEntry.md)' object.
 

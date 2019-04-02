@@ -16,7 +16,7 @@ Returns the type of email system installed on the host machine.
 
 ## Syntax
 
- _expression_. `MailSystem`
+_expression_. `MailSystem`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

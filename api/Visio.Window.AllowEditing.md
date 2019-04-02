@@ -19,7 +19,7 @@ Determines whether the  **Edit Stencil** command is enabled or disabled in a ste
 
 ## Syntax
 
- _expression_. `AllowEditing`
+_expression_. `AllowEditing`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

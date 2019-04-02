@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ShowSummary`
+_expression_. `ShowSummary`
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

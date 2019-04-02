@@ -19,7 +19,7 @@ Returns an  **[OlNavigationModuleType](Outlook.OlNavigationModuleType.md)** cons
 
 ## Syntax
 
- _expression_. `NavigationModuleType`
+_expression_. `NavigationModuleType`
 
  _expression_ An expression that returns a [TasksModule](./Outlook.TasksModule.md) object.
 

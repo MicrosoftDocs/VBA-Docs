@@ -19,7 +19,7 @@ Returns a  **[KeyBinding](Word.KeyBinding.md)** object that represents the speci
 
 ## Syntax
 
- _expression_. `FindKey`( `_KeyCode_` , `_KeyCode2_` )
+_expression_. `FindKey`( `_KeyCode_` , `_KeyCode2_` )
 
  _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

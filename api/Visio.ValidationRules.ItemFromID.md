@@ -19,7 +19,7 @@ Returns the  **[ValidationRule](Visio.ValidationRule.md)** object that matches t
 
 ## Syntax
 
- _expression_. `ItemFromID`( `_RuleID_` )
+_expression_. `ItemFromID`( `_RuleID_` )
 
  _expression_ A variable that represents a '[ValidationRules](Visio.ValidationRules.md)' object.
 

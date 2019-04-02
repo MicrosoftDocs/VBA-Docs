@@ -19,7 +19,7 @@ Returns an XMLSchemaReferences collection that represents the schemas attached t
 
 ## Syntax
 
- _expression_. `XMLSchemaReferences`
+_expression_. `XMLSchemaReferences`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

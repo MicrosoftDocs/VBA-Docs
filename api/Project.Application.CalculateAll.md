@@ -19,7 +19,7 @@ Calculates all open projects.
 
 ## Syntax
 
- _expression_. `CalculateAll`
+_expression_. `CalculateAll`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

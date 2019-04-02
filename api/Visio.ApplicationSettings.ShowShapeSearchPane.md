@@ -19,7 +19,7 @@ Gets or sets whether the  **Shape Search** pane is visible in the Microsoft Visi
 
 ## Syntax
 
- _expression_. `ShowShapeSearchPane`
+_expression_. `ShowShapeSearchPane`
 
  _expression_ An expression that returns an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

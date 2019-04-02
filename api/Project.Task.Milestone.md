@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Milestone`
+_expression_. `Milestone`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

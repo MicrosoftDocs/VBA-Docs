@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AndMoveCompleted`
+_expression_. `AndMoveCompleted`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

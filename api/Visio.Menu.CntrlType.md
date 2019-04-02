@@ -19,7 +19,7 @@ Gets or sets the control type of a menu. Read/write.
 
 ## Syntax
 
- _expression_. `CntrlType`
+_expression_. `CntrlType`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

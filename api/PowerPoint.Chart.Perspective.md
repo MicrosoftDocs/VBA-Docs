@@ -19,7 +19,7 @@ Returns or sets the perspective for the 3-D chart view. Read/write  **Long**.
 
 ## Syntax
 
- _expression_. `Perspective`
+_expression_. `Perspective`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

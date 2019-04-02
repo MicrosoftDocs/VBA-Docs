@@ -19,7 +19,7 @@ Returns or sets the side margin widths (in points) for the specified custom mail
 
 ## Syntax
 
- _expression_. `SideMargin`
+_expression_. `SideMargin`
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 

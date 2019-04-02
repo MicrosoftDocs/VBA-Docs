@@ -19,7 +19,7 @@ Sets the fill color for the assignment segments of a selected task in the Team P
 
 ## Syntax
 
- _expression_. `SegmentFillColor`( `_Color_` )
+_expression_. `SegmentFillColor`( `_Color_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

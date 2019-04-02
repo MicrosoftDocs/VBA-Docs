@@ -19,7 +19,7 @@ Returns or sets the minimum value on the value axis. Read/write  **Double**.
 
 ## Syntax
 
- _expression_. `MinimumScale`
+_expression_. `MinimumScale`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

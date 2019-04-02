@@ -16,7 +16,7 @@ Indicates whether the  **Resource** object contains fields that are linked to ot
 
 ## Syntax
 
- _expression_. `LinkedFields`
+_expression_. `LinkedFields`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

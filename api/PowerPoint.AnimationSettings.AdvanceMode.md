@@ -19,7 +19,7 @@ Returns or sets a value that indicates whether the specified shape animation adv
 
 ## Syntax
 
- _expression_. `AdvanceMode`
+_expression_. `AdvanceMode`
 
 _expression_ A variable that represents an [AnimationSettings](./PowerPoint.AnimationSettings.md) object.
 

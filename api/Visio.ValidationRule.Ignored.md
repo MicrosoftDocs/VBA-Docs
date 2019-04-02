@@ -19,7 +19,7 @@ Determines whether the validation rule is currently ignored. Read/write.
 
 ## Syntax
 
- _expression_. `Ignored`
+_expression_. `Ignored`
 
  _expression_ A variable that represents a '[ValidationRule](Visio.ValidationRule.md)' object.
 

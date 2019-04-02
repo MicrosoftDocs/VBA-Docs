@@ -19,7 +19,7 @@ Returns a  **ColorFormat** object that represents the pointer color for the spec
 
 ## Syntax
 
- _expression_. `PointerColor`
+_expression_. `PointerColor`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

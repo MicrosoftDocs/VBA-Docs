@@ -16,7 +16,7 @@ Gets or sets the finish date of an exception. Read/write  **Variant**.
 
 ## Syntax
 
- _expression_. `Finish`
+_expression_. `Finish`
 
  _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the red-green-blue (RGB) value of the specified color. Read/writ
 
 ## Syntax
 
- _expression_. `RGB`
+_expression_. `RGB`
 
  _expression_ A variable that represents a '[ColorFormat](Word.ColorFormat.md)' object.
 

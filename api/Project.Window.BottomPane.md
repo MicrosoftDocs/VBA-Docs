@@ -16,7 +16,7 @@ Gets a  **[Pane](Project.Pane.md)** object representing the bottom pane of a win
 
 ## Syntax
 
- _expression_. `BottomPane`
+_expression_. `BottomPane`
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

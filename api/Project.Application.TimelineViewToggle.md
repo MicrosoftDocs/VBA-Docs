@@ -19,7 +19,7 @@ Shows or hides the Timeline view.
 
 ## Syntax
 
- _expression_. `TimelineViewToggle`
+_expression_. `TimelineViewToggle`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

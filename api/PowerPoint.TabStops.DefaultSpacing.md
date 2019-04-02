@@ -19,7 +19,7 @@ Returns or sets the default tab-stop spacing for the specified text, in points. 
 
 ## Syntax
 
- _expression_. `DefaultSpacing`
+_expression_. `DefaultSpacing`
 
  _expression_ A variable that represents a [TabStops](./PowerPoint.TabStops.md) object.
 

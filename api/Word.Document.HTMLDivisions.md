@@ -19,7 +19,7 @@ Returns an  **[HTMLDivisions](Word.HTMLDivisions.md)** collection that represent
 
 ## Syntax
 
- _expression_. `HTMLDivisions`
+_expression_. `HTMLDivisions`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

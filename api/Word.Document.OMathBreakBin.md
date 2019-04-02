@@ -19,7 +19,7 @@ Returns or sets a  **[WdOMathBreakBin](Word.WdOMathBreakBin.md)** constant that 
 
 ## Syntax
 
- _expression_. `OMathBreakBin`
+_expression_. `OMathBreakBin`
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

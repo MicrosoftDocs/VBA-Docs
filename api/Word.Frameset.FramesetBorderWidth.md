@@ -19,7 +19,7 @@ Returns or sets the width (in points) of the borders surrounding the frames on t
 
 ## Syntax
 
- _expression_. `FramesetBorderWidth`
+_expression_. `FramesetBorderWidth`
 
  _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

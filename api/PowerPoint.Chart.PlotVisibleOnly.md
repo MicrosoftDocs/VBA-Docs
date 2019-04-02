@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `PlotVisibleOnly`
+_expression_. `PlotVisibleOnly`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

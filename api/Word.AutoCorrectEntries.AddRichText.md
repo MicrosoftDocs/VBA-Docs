@@ -19,7 +19,7 @@ Creates a formatted AutoCorrect entry, preserving all text attributes of the spe
 
 ## Syntax
 
- _expression_. `AddRichText`( `_Name_` , `_Range_` )
+_expression_. `AddRichText`( `_Name_` , `_Range_` )
 
  _expression_ Required. A variable that represents an '[AutoCorrectEntries](Word.autocorrectentries.md)' collection.
 

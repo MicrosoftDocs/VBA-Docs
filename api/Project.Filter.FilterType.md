@@ -19,7 +19,7 @@ Gets the type of the filter. Read-only  **PjItemType**.
 
 ## Syntax
 
- _expression_. `FilterType`
+_expression_. `FilterType`
 
  _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

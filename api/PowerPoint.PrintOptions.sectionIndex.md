@@ -19,7 +19,7 @@ Returns the index of the selected section in the  **PrintOptions** object. Read/
 
 ## Syntax
 
- _expression_. `sectionIndex`
+_expression_. `sectionIndex`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

@@ -19,7 +19,7 @@ Plays the specified sound effect.
 
 ## Syntax
 
- _expression_. `Play`
+_expression_. `Play`
 
  _expression_ A variable that represents a [SoundEffect](./PowerPoint.SoundEffect.md) object.
 

@@ -19,7 +19,7 @@ Gets or sets the abbreviation for "hour" that is displayed for values such as du
 
 ## Syntax
 
- _expression_. `HourLabelDisplay`
+_expression_. `HourLabelDisplay`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

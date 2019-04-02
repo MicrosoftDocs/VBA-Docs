@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `KeepTogether`
+_expression_. `KeepTogether`
 
  _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

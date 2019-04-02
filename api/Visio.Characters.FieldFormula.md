@@ -19,7 +19,7 @@ Returns the formula of the custom field represented by an object. Read-only.
 
 ## Syntax
 
- _expression_. `FieldFormula`
+_expression_. `FieldFormula`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

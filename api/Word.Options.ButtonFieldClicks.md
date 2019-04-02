@@ -19,7 +19,7 @@ Returns or sets the number of clicks (either one or two) required to run a GOTOB
 
 ## Syntax
 
- _expression_. `ButtonFieldClicks`
+_expression_. `ButtonFieldClicks`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

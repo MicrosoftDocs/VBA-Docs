@@ -15,7 +15,7 @@ Selects the entire table, when one or more items within a table shape are select
 
 ## Syntax
 
- _expression_. `SelectTable`
+_expression_. `SelectTable`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

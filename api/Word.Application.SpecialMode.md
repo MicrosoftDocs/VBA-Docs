@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SpecialMode`
+_expression_. `SpecialMode`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

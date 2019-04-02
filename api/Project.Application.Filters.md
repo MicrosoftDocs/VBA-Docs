@@ -19,7 +19,7 @@ Displays the  **More Filters** dialog box, which prompts the user to use a filte
 
 ## Syntax
 
- _expression_. `Filters`
+_expression_. `Filters`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns the audio sampling rate per second. Read-only.
 
 ## Syntax
 
- _expression_. `AudioSamplingRate`
+_expression_. `AudioSamplingRate`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

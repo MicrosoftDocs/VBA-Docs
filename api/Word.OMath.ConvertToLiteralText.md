@@ -19,7 +19,7 @@ Converts an equation to literal text.
 
 ## Syntax
 
- _expression_. `ConvertToLiteralText`
+_expression_. `ConvertToLiteralText`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

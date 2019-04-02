@@ -19,7 +19,7 @@ Sets chart elements on a chart. Read/write  **MsoChartElementType**.
 
 ## Syntax
 
- _expression_. `SetElement`( `_Element_` )
+_expression_. `SetElement`( `_Element_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

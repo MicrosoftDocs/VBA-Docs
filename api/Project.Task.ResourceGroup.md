@@ -16,7 +16,7 @@ Gets the names of groups associated with the resources assigned to a task, separ
 
 ## Syntax
 
- _expression_. `ResourceGroup`
+_expression_. `ResourceGroup`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

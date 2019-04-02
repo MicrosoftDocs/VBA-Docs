@@ -19,7 +19,7 @@ Occurs when a protected view window is deactivated.
 
 ## Syntax
 
- _expression_. `ProtectedViewWindowDeactivate`( `_PvWindow_` , )
+_expression_. `ProtectedViewWindowDeactivate`( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

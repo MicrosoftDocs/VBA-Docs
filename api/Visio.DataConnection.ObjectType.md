@@ -22,7 +22,7 @@ Returns  **visObjTypeDataConnection**, the type of a **DataConnection** object. 
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ An expression that returns a [DataConnection](./Visio.DataConnection.md) object.
 

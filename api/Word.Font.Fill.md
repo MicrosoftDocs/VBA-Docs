@@ -19,7 +19,7 @@ Returns a [FillFormat](Word.FillFormat.md) object that contains fill formatting 
 
 ## Syntax
 
- _expression_. `Fill`
+_expression_. `Fill`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

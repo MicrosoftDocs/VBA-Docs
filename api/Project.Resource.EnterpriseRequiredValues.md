@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `EnterpriseRequiredValues`
+_expression_. `EnterpriseRequiredValues`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

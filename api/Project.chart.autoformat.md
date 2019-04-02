@@ -12,7 +12,7 @@ Changes the chart to a default format for another chart type.
 
 ## Syntax
 
- _expression_. `AutoFormat` _(rGallery,_ _varFormat)_
+_expression_. `AutoFormat` _(rGallery,_ _varFormat)_
 
  _expression_ A variable that represents a 'Chart' object.
 

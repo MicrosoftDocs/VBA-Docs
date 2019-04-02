@@ -16,7 +16,7 @@ Gets a list of all deliverables for the specified enterprise project in the XML 
 
 ## Syntax
 
- _expression_. `DeliverablesGetByProject`( `_ProjectGuid_` )
+_expression_. `DeliverablesGetByProject`( `_ProjectGuid_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

@@ -19,7 +19,7 @@ Gets or sets the margin of a document's header. Read/write.
 
 ## Syntax
 
- _expression_. `HeaderMargin`( `_UnitsNameOrCode_` )
+_expression_. `HeaderMargin`( `_UnitsNameOrCode_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

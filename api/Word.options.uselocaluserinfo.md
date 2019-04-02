@@ -15,7 +15,7 @@ Returns or sets a Boolean; True if Microsoft Word identifies the document author
 
 ## Syntax
 
- _expression_. `UseLocalUserInfo`
+_expression_. `UseLocalUserInfo`
 
  _expression_ A variable that represents a [Options](./Word.Options.md) object.
  

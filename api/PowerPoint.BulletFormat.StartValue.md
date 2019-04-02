@@ -19,7 +19,7 @@ Returns or sets the beginning value of a bulleted list when the  **[Type](PowerP
 
 ## Syntax
 
- _expression_. `StartValue`
+_expression_. `StartValue`
 
 _expression_ A variable that represents a [BulletFormat](./PowerPoint.BulletFormat.md) object.
 

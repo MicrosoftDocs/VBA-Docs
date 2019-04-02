@@ -19,7 +19,7 @@ Returns the number of print jobs in the background printing queue. Read-only  **
 
 ## Syntax
 
- _expression_. `BackgroundPrintingStatus`
+_expression_. `BackgroundPrintingStatus`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

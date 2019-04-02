@@ -19,7 +19,7 @@ Gets or sets the abbreviated caption that appears on the page tab when the windo
 
 ## Syntax
 
- _expression_. `MergeCaption`
+_expression_. `MergeCaption`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

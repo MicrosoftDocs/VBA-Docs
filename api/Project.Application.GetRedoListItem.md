@@ -19,7 +19,7 @@ Returns the label of the specified item in the redo list.
 
 ## Syntax
 
- _expression_. `GetRedoListItem`( `_ItemIndex_` )
+_expression_. `GetRedoListItem`( `_ItemIndex_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

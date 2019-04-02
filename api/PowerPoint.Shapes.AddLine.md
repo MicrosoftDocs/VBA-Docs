@@ -19,7 +19,7 @@ Creates a line. Returns a  **[Shape](PowerPoint.Shape.md)** object that represen
 
 ## Syntax
 
- _expression_. `AddLine`( `_BeginX_`, `_BeginY_`, `_EndX_`, `_EndY_` )
+_expression_. `AddLine`( `_BeginX_`, `_BeginY_`, `_EndX_`, `_EndY_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

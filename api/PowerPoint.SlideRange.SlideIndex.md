@@ -19,7 +19,7 @@ Returns the index number of the specified slide within the  **Slides** collectio
 
 ## Syntax
 
- _expression_. `SlideIndex`
+_expression_. `SlideIndex`
 
  _expression_ A variable that represents a [SlideRange](./PowerPoint.SlideRange.md) object.
 

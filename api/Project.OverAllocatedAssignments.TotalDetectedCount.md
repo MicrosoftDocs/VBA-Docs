@@ -16,7 +16,7 @@ Gets the total number of overallocated assignments, including those that exceed 
 
 ## Syntax
 
- _expression_. `TotalDetectedCount`
+_expression_. `TotalDetectedCount`
 
  _expression_ An expression that returns a 'OverAllocatedAssignments' object.
 

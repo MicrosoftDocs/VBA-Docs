@@ -19,7 +19,7 @@ Returns a  **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents
 
 ## Syntax
 
- _expression_. `DateAndTime`
+_expression_. `DateAndTime`
 
  _expression_ A variable that represents a [HeadersFooters](./PowerPoint.HeadersFooters.md) object.
 

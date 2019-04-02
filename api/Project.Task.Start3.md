@@ -16,7 +16,7 @@ Gets or sets a Start local custom field for the task. Read-only for summary task
 
 ## Syntax
 
- _expression_. `Start3`
+_expression_. `Start3`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

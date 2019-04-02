@@ -16,7 +16,7 @@ Gets the remaining overtime work (in minutes) for the assignment. Read/write  **
 
 ## Syntax
 
- _expression_. `RemainingOvertimeWork`
+_expression_. `RemainingOvertimeWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

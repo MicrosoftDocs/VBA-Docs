@@ -16,7 +16,7 @@ Gets or sets a value that indicates whether proposed assignment bookings will be
 
 ## Syntax
 
- _expression_. `LevelProposedBookings`
+_expression_. `LevelProposedBookings`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

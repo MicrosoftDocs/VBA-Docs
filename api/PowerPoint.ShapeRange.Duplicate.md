@@ -19,7 +19,7 @@ Creates a duplicate of the specified  **ShapeRange** object, adds the range of s
 
 ## Syntax
 
- _expression_. `Duplicate`
+_expression_. `Duplicate`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

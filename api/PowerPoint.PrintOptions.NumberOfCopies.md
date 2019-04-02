@@ -19,7 +19,7 @@ Returns or sets the number of copies of a presentation to be printed. Read/write
 
 ## Syntax
 
- _expression_. `NumberOfCopies`
+_expression_. `NumberOfCopies`
 
  _expression_ A variable that represents a [PrintOptions](./PowerPoint.PrintOptions.md) object.
 

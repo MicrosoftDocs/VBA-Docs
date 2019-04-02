@@ -19,7 +19,7 @@ Gets a  **[List](Project.List.md)** object representing all task views in the pr
 
 ## Syntax
 
- _expression_. `TaskViewList`
+_expression_. `TaskViewList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

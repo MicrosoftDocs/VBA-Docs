@@ -19,7 +19,7 @@ Returns or sets the space (in points) between the text and the bottom border. Re
 
 ## Syntax
 
- _expression_. `DistanceFromBottom`
+_expression_. `DistanceFromBottom`
 
  _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 

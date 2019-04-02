@@ -19,7 +19,7 @@ Returns an  **HTMLDivision** object that represents a parent division of the cur
 
 ## Syntax
 
- _expression_. `HTMLDivisionParent`( `_LevelsUp_` )
+_expression_. `HTMLDivisionParent`( `_LevelsUp_` )
 
  _expression_ Required. A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 

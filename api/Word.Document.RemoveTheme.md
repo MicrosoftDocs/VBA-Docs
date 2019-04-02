@@ -19,7 +19,7 @@ Removes the active theme from the current document.
 
 ## Syntax
 
- _expression_. `RemoveTheme`
+_expression_. `RemoveTheme`
 
  _expression_ Required. A variable that represents a '[Document](Word.Document.md)' object.
 

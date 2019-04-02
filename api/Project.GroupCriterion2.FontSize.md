@@ -16,7 +16,7 @@ Gets or sets the size of the font in points for a field used as a criterion in a
 
 ## Syntax
 
- _expression_. `FontSize`
+_expression_. `FontSize`
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

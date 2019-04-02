@@ -12,7 +12,7 @@ Specifies the name of the default chart template that Project uses when creating
 
 ## Syntax
 
- _expression_. `SetDefaultChart` _(varName)_
+_expression_. `SetDefaultChart` _(varName)_
 
  _expression_ A variable that represents a 'Chart' object.
 

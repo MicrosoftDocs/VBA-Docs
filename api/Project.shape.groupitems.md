@@ -12,7 +12,7 @@ Gets a  **GroupShapes** object that represents the individual shapes in a group,
 
 ## Syntax
 
- _expression_. `GroupItems`
+_expression_. `GroupItems`
 
  _expression_ A variable that represents a 'Shape' object.
 

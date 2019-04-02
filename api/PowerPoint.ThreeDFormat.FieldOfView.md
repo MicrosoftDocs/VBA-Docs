@@ -19,7 +19,7 @@ Returns or sets the camera field of view for the specified  **ThreeDFormat** obj
 
 ## Syntax
 
- _expression_. `FieldOfView`
+_expression_. `FieldOfView`
 
  _expression_ A variable that represents a [ThreeDFormat](./PowerPoint.ThreeDFormat.md) object.
 

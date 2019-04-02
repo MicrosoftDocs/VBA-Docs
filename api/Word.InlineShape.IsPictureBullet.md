@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsPictureBullet`
+_expression_. `IsPictureBullet`
 
  _expression_ An expression that returns a '[InlineShape](Word.InlineShape.md)' object.
 

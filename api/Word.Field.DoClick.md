@@ -19,7 +19,7 @@ Clicks the specified field.
 
 ## Syntax
 
- _expression_. `DoClick`
+_expression_. `DoClick`
 
  _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

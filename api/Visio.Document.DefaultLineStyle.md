@@ -19,7 +19,7 @@ Gets or sets the default line style of a document. Read/write.
 
 ## Syntax
 
- _expression_. `DefaultLineStyle`
+_expression_. `DefaultLineStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

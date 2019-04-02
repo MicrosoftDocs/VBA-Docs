@@ -19,7 +19,7 @@ Gets or sets the paths where Microsoft Visio looks for templates. Read/write.
 
 ## Syntax
 
- _expression_. `TemplatePaths`
+_expression_. `TemplatePaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

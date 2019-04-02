@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SpaceAfterAuto`
+_expression_. `SpaceAfterAuto`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

@@ -19,7 +19,7 @@ Activates a window.
 
 ## Syntax
 
- _expression_. `WindowActivate`( `_WindowName_`, `_DialogID_`, `_TopPane_` )
+_expression_. `WindowActivate`( `_WindowName_`, `_DialogID_`, `_TopPane_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **WdIndexFormat** that represents the formatting for the inde
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 

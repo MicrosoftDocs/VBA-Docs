@@ -14,7 +14,7 @@ Occurs immediately after a shape-replacement operation is requested. If any even
 
 ## Syntax
 
- _expression_. `QueryCancelReplaceShapes`( _replaceShapes_)
+_expression_. `QueryCancelReplaceShapes`( _replaceShapes_)
 
  _expression_ A variable that represents a [InvisibleApp](./Visio.InvisibleApp.md) object.
 

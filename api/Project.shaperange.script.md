@@ -12,7 +12,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Script`
+_expression_. `Script`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

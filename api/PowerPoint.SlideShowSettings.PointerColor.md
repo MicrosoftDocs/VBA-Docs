@@ -19,7 +19,7 @@ Returns the pointer color for the specified presentation as a  **[ColorFormat](P
 
 ## Syntax
 
- _expression_. `PointerColor`
+_expression_. `PointerColor`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

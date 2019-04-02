@@ -16,7 +16,7 @@ Gets or sets the name of the base calendar for a resource. Read/write  **String*
 
 ## Syntax
 
- _expression_. `BaseCalendar`
+_expression_. `BaseCalendar`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -19,7 +19,7 @@ Applies a table to the active view.
 
 ## Syntax
 
- _expression_. `TableApply`( `_Name_` )
+_expression_. `TableApply`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

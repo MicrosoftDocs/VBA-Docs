@@ -19,7 +19,7 @@ Returns a  **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that re
 
 ## Syntax
 
- _expression_. `HeadersFooters`
+_expression_. `HeadersFooters`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

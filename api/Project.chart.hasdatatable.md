@@ -15,7 +15,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasDataTable`
+_expression_. `HasDataTable`
 
  _expression_ A variable that represents a 'Chart' object.
 

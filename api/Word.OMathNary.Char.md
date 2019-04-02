@@ -19,7 +19,7 @@ Returns or sets an  **Integer** that represents a character used as the n-ary op
 
 ## Syntax
 
- _expression_. `Char`
+_expression_. `Char`
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

@@ -19,7 +19,7 @@ Returns or sets lateral compression. Read/write.
 
 ## Syntax
 
- _expression_. `AutoRotateNumbers`
+_expression_. `AutoRotateNumbers`
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 

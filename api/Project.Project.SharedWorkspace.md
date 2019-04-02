@@ -16,7 +16,7 @@ Gets a  **SharedWorkspace** object that represents the document workspace for th
 
 ## Syntax
 
- _expression_. `SharedWorkspace`
+_expression_. `SharedWorkspace`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

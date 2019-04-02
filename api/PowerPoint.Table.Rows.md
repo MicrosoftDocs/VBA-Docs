@@ -19,7 +19,7 @@ Returns a  **[Rows](PowerPoint.Rows.md)** collection that represents all the row
 
 ## Syntax
 
- _expression_. `Rows`
+_expression_. `Rows`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

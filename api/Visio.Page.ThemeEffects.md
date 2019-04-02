@@ -19,7 +19,7 @@ Gets or sets the current theme effect for the page. Read/write.
 
 ## Syntax
 
- _expression_. `ThemeEffects`
+_expression_. `ThemeEffects`
 
  _expression_ An expression that returns a [Page](./Visio.Page.md) object.
 

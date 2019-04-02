@@ -19,7 +19,7 @@ Returns the programmatic identifier (ProgID) for the specified OLE object. Read-
 
 ## Syntax
 
- _expression_. `ProgID`
+_expression_. `ProgID`
 
  _expression_ Required. A variable that represents an '[OLEFormat](Word.OLEFormat.md)' object.
 

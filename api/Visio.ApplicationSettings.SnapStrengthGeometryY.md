@@ -19,7 +19,7 @@ Specifies the distance in pixels along the  _y_ -axis that shape geometry pulls 
 
 ## Syntax
 
- _expression_. `SnapStrengthGeometryY`
+_expression_. `SnapStrengthGeometryY`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

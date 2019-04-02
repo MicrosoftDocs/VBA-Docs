@@ -19,7 +19,7 @@ Determines whether the container boundary resizes automatically to fit its conte
 
 ## Syntax
 
- _expression_. `ResizeAsNeeded`
+_expression_. `ResizeAsNeeded`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

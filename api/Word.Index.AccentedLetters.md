@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `AccentedLetters`
+_expression_. `AccentedLetters`
 
  _expression_ A variable that represents a '[Index](Word.Index.md)' object.
 

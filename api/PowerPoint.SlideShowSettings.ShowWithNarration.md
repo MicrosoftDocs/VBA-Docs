@@ -19,7 +19,7 @@ Determines whether the specified slide show is shown with narration. Read/write.
 
 ## Syntax
 
- _expression_. `ShowWithNarration`
+_expression_. `ShowWithNarration`
 
  _expression_ A variable that represents a [SlideShowSettings](./PowerPoint.SlideShowSettings.md) object.
 

@@ -19,7 +19,7 @@ Returns the line, fill, and effect formatting for the object. Read-only  **[Char
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ A variable that represents a '[Series](PowerPoint.Series.md)' object.
 

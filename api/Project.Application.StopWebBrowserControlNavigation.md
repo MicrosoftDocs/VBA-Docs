@@ -19,7 +19,7 @@ Stops a web page from loading in the active window. The  **StopWebBrowserControl
 
 ## Syntax
 
- _expression_. `StopWebBrowserControlNavigation`
+_expression_. `StopWebBrowserControlNavigation`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

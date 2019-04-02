@@ -19,7 +19,7 @@ Determines whether rulers are shown in the drawing window. Read/write.
 
 ## Syntax
 
- _expression_. `ShowRulers`
+_expression_. `ShowRulers`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

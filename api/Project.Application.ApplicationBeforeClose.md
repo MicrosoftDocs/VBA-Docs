@@ -16,7 +16,7 @@ Occurs before Project exits.
 
 ## Syntax
 
- _expression_. `ApplicationBeforeClose`( `_Info_`, )
+_expression_. `ApplicationBeforeClose`( `_Info_`, )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

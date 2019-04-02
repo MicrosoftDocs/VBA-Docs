@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Inside`
+_expression_. `Inside`
 
  _expression_ An expression that returns a '[Border](Word.Border.md)' object.
 

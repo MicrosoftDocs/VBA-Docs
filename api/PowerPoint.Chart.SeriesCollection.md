@@ -19,7 +19,7 @@ Returns all the series in the chart.
 
 ## Syntax
 
- _expression_. `SeriesCollection`( `_Index_` )
+_expression_. `SeriesCollection`( `_Index_` )
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

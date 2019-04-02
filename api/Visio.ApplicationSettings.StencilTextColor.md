@@ -19,7 +19,7 @@ Determines the color of text in stencil windows in Microsoft Visio for the curre
 
 ## Syntax
 
- _expression_. `StencilTextColor`
+_expression_. `StencilTextColor`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

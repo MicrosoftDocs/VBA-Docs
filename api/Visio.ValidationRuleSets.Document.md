@@ -19,7 +19,7 @@ Returns the  **[Document](Visio.Document.md)** object that is associated with an
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a '[ValidationRuleSets](Visio.ValidationRuleSets.md)' object.
 

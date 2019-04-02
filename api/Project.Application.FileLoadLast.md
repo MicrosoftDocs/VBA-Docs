@@ -19,7 +19,7 @@ Opens one of the recently used files.
 
 ## Syntax
 
- _expression_. `FileLoadLast`( `_Number_` )
+_expression_. `FileLoadLast`( `_Number_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

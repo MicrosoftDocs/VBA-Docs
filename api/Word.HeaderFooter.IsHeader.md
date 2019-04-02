@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsHeader`
+_expression_. `IsHeader`
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 

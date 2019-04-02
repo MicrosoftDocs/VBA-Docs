@@ -14,7 +14,7 @@ Returns a [Comments](Visio.comments.md) object that represents the collection of
 
 ## Syntax
 
- _expression_. `ShapeComments`
+_expression_. `ShapeComments`
 
  _expression_ A variable that represents a [Page](./Visio.Page.md) object.
 

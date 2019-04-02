@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Overallocated`
+_expression_. `Overallocated`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

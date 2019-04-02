@@ -19,7 +19,7 @@ Changes the mode of the selected tasks, to manually scheduled or automatically s
 
 ## Syntax
 
- _expression_. `SetTaskMode`( `_Manual_`, `_IsStickyDates_` )
+_expression_. `SetTaskMode`( `_Manual_`, `_IsStickyDates_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -16,7 +16,7 @@ Occurs when switching to the project from another project, including when the pr
 
 ## Syntax
 
- _expression_. `Activate`( `_pj_` )
+_expression_. `Activate`( `_pj_` )
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

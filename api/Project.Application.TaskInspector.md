@@ -19,7 +19,7 @@ Displays the  **Task Inspector** pane.
 
 ## Syntax
 
- _expression_. `TaskInspector`
+_expression_. `TaskInspector`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

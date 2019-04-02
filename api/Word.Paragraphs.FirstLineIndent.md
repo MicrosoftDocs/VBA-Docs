@@ -19,7 +19,7 @@ Returns or sets the value (in points) for a first line or hanging indent. Use a 
 
 ## Syntax
 
- _expression_. `FirstLineIndent`
+_expression_. `FirstLineIndent`
 
  _expression_ A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

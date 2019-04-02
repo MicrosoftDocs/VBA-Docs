@@ -19,7 +19,7 @@ Gets or sets the duration of the fadeout of the media, in milliseconds. Read/wri
 
 ## Syntax
 
- _expression_. `FadeOutDuration`
+_expression_. `FadeOutDuration`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

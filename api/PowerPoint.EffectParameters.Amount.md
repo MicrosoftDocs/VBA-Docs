@@ -19,7 +19,7 @@ Returns or sets a  **Single** that represents the number of degrees an animated 
 
 ## Syntax
 
- _expression_. `Amount`
+_expression_. `Amount`
 
 _expression_ A variable that represents an [EffectParameters](./PowerPoint.EffectParameters.md) object.
 

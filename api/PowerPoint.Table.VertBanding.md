@@ -19,7 +19,7 @@ Determines whether to display banded columns, in which even columns are formatte
 
 ## Syntax
 
- _expression_. `VertBanding`
+_expression_. `VertBanding`
 
  _expression_ A variable that represents a [Table](./PowerPoint.Table.md) object.
 

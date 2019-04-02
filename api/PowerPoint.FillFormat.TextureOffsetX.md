@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `TextureOffsetX`
+_expression_. `TextureOffsetX`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

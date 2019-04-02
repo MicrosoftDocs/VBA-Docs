@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `SequenceCheck`
+_expression_. `SequenceCheck`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

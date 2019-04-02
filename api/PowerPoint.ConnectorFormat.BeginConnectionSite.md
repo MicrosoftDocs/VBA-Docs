@@ -19,7 +19,7 @@ Returns an integer that specifies the connection site that the beginning of a co
 
 ## Syntax
 
- _expression_. `BeginConnectionSite`
+_expression_. `BeginConnectionSite`
 
 _expression_ A variable that represents a [ConnectorFormat](./PowerPoint.ConnectorFormat.md) object.
 

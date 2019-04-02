@@ -19,7 +19,7 @@ Returns the number of the bookmark that encloses the beginning of the specified 
 
 ## Syntax
 
- _expression_. `BookmarkID`
+_expression_. `BookmarkID`
 
  _expression_ A variable that represents a '[Range](Word.Range.md)' object.
 

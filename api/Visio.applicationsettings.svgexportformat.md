@@ -14,7 +14,7 @@ Returns or sets a [VisSVGExportFormat](Visio.vissvgexportformat.md) constant tha
 
 ## Syntax
 
- _expression_. `SVGExportFormat`
+_expression_. `SVGExportFormat`
 
  _expression_ A variable that represents a [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

@@ -19,7 +19,7 @@ Sets or returns the number of columns for each page of an index. Read/write  **L
 
 ## Syntax
 
- _expression_. `NumberOfColumns`
+_expression_. `NumberOfColumns`
 
  _expression_ An expression that an '[Index](Word.Index.md)' object.
 

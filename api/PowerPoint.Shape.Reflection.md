@@ -19,7 +19,7 @@ Returns the reflection format for the specified shape. Read-only.
 
 ## Syntax
 
- _expression_. `Reflection`
+_expression_. `Reflection`
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

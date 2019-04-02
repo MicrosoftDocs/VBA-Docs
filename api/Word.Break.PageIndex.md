@@ -19,7 +19,7 @@ Returns a  **Long** that represents the page number on which the specified break
 
 ## Syntax
 
- _expression_. `PageIndex`
+_expression_. `PageIndex`
 
  _expression_ An expression that returns a '[Break](Word.Break.md)' object.
 

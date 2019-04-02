@@ -19,7 +19,7 @@ Returns the selected text in the Microsoft Visio drawing window as a  **Characte
 
 ## Syntax
 
- _expression_. `SelectedText`
+_expression_. `SelectedText`
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

@@ -19,7 +19,7 @@ Gets or sets the name of an add-on or procedure that is run when its associated 
 
 ## Syntax
 
- _expression_. `AddOnName`
+_expression_. `AddOnName`
 
  _expression_ A variable that represents a [Menu](./Visio.Menu.md) object.
 

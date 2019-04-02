@@ -19,7 +19,7 @@ Returns a  **[PlaySettings](PowerPoint.PlaySettings.md)** object that contains i
 
 ## Syntax
 
- _expression_. `PlaySettings`
+_expression_. `PlaySettings`
 
 _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 

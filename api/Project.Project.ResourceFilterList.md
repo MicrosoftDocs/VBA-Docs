@@ -16,7 +16,7 @@ Gets a  **[List](Project.List.md)** object representing all resource filters in 
 
 ## Syntax
 
- _expression_. `ResourceFilterList`
+_expression_. `ResourceFilterList`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

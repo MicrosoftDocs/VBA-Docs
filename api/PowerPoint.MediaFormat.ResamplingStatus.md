@@ -19,7 +19,7 @@ Returns the resampling task status. Read-only.
 
 ## Syntax
 
- _expression_. `ResamplingStatus`
+_expression_. `ResamplingStatus`
 
  _expression_ An expression that returns a [MediaFormat](./PowerPoint.MediaFormat.md) object.
 

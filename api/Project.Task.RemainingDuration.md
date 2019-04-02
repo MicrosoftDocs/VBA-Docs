@@ -16,7 +16,7 @@ Gets or sets the remaining duration (in minutes) of the task. Read-only for summ
 
 ## Syntax
 
- _expression_. `RemainingDuration`
+_expression_. `RemainingDuration`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

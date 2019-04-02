@@ -19,7 +19,7 @@ Determines whether the specified font is embedded in the presentation. Read-only
 
 ## Syntax
 
- _expression_. `Embedded`
+_expression_. `Embedded`
 
  _expression_ A variable that represents an [Font](./PowerPoint.Font.md) object.
 

@@ -19,7 +19,7 @@ Specifies whether or not contextual alternates are enabled for the specified fon
 
 ## Syntax
 
- _expression_. `ContextualAlternates`
+_expression_. `ContextualAlternates`
 
  _expression_ An expression that returns a '[Font](Word.Font.md)' object.
 

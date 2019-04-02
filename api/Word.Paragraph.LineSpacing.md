@@ -19,7 +19,7 @@ Returns or sets the line spacing (in points) for the specified paragraphs. Read/
 
 ## Syntax
 
- _expression_. `LineSpacing`
+_expression_. `LineSpacing`
 
  _expression_ An expression that represents a '[Paragraph](Word.Paragraph.md)' object.
 

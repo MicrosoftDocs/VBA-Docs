@@ -19,7 +19,7 @@ Returns the distance (in points) from the top of the of the text bounding box fo
 
 ## Syntax
 
- _expression_. `BoundTop`
+_expression_. `BoundTop`
 
  _expression_ A variable that represents a [TextRange](./PowerPoint.TextRange.md) object.
 

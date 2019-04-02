@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `CheckGrammarAsYouType`
+_expression_. `CheckGrammarAsYouType`
 
  _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

@@ -19,7 +19,7 @@ Returns a  **String** that represents the document title for the original docume
 
 ## Syntax
 
- _expression_. `OriginalDocumentTitle`
+_expression_. `OriginalDocumentTitle`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

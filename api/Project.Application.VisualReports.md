@@ -19,7 +19,7 @@ Opens the  **Visual Reports - Create Report** dialog box to the specified tab.
 
 ## Syntax
 
- _expression_. `VisualReports`( `_PjVisualReportsTab_` )
+_expression_. `VisualReports`( `_PjVisualReportsTab_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

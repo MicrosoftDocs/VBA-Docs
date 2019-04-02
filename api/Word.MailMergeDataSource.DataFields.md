@@ -19,7 +19,7 @@ Returns a  **[MailMergeDataFields](Word.mailmergedatafields.md)** collection tha
 
 ## Syntax
 
- _expression_. `DataFields`
+_expression_. `DataFields`
 
  _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ScreenUpdating`
+_expression_. `ScreenUpdating`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

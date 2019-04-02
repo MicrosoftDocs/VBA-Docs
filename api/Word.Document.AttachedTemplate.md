@@ -19,7 +19,7 @@ Returns a  **[Template](Word.Template.md)** object that represents the template 
 
 ## Syntax
 
- _expression_. `AttachedTemplate`
+_expression_. `AttachedTemplate`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

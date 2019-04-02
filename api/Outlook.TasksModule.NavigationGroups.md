@@ -19,7 +19,7 @@ Returns a  **[NavigationGroups](Outlook.NavigationGroups.md)** object that conta
 
 ## Syntax
 
- _expression_. `NavigationGroups`
+_expression_. `NavigationGroups`
 
 _expression_ A variable that represents a [TasksModule](./Outlook.TasksModule.md) object.
 

@@ -19,7 +19,7 @@ Returns or sets the percentage of the document window height that the slide pane
 
 ## Syntax
 
- _expression_. `SplitVertical`
+_expression_. `SplitVertical`
 
 _expression_ A variable that represents a [DocumentWindow](./PowerPoint.DocumentWindow.md) object.
 

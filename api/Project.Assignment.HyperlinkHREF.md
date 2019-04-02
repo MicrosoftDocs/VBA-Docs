@@ -16,7 +16,7 @@ Gets or sets a combination of the hyperlink address and subaddress, separated by
 
 ## Syntax
 
- _expression_. `HyperlinkHREF`
+_expression_. `HyperlinkHREF`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

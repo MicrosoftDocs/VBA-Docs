@@ -19,7 +19,7 @@ Creates or removes an overlapped list relationship with another list shape, or r
 
 ## Syntax
 
- _expression_. `OverlappedList`
+_expression_. `OverlappedList`
 
  _expression_ An expression that returns a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

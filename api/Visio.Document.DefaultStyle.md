@@ -19,7 +19,7 @@ Gets the default fill style of a document or sets the default fill, line, and te
 
 ## Syntax
 
- _expression_. `DefaultStyle`
+_expression_. `DefaultStyle`
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

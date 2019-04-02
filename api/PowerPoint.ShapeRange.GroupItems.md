@@ -19,7 +19,7 @@ Returns a  **[GroupShapes](PowerPoint.GroupShapes.md)** object that represents t
 
 ## Syntax
 
- _expression_. `GroupItems`
+_expression_. `GroupItems`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

@@ -16,7 +16,7 @@ Gets a  **CommandBars** collection that represents all the command bars in the a
 
 ## Syntax
 
- _expression_. `CommandBars`
+_expression_. `CommandBars`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

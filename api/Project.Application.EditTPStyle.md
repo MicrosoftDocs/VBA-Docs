@@ -19,7 +19,7 @@ Edits the box and border colors of different types of tasks in the Team Planner 
 
 ## Syntax
 
- _expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
+_expression_. `EditTPStyle`( `_Style_`, `_FillColor_`, `_BorderColor_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

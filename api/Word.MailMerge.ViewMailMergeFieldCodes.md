@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ViewMailMergeFieldCodes`
+_expression_. `ViewMailMergeFieldCodes`
 
  _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 

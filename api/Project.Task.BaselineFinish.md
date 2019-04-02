@@ -16,7 +16,7 @@ Gets or sets the baseline finish date of a  **Task**. Read/write **Variant**.
 
 ## Syntax
 
- _expression_. `BaselineFinish`
+_expression_. `BaselineFinish`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

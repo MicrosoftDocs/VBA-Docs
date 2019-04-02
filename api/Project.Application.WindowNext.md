@@ -19,7 +19,7 @@ Activates the next window in the order in which windows were opened.
 
 ## Syntax
 
- _expression_. `WindowNext`( `_NoWrap_` )
+_expression_. `WindowNext`( `_NoWrap_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

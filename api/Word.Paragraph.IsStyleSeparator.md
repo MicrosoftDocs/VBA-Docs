@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsStyleSeparator`
+_expression_. `IsStyleSeparator`
 
  _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 

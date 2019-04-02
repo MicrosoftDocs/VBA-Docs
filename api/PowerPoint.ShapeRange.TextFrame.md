@@ -19,7 +19,7 @@ Returns a  **[TextFrame](PowerPoint.TextFrame.md)** object that contains the ali
 
 ## Syntax
 
- _expression_. `TextFrame`
+_expression_. `TextFrame`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

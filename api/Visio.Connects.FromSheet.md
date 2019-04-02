@@ -19,7 +19,7 @@ Returns the shape from which a connection or connections originate. Read-only.
 
 ## Syntax
 
- _expression_. `FromSheet`
+_expression_. `FromSheet`
 
  _expression_ A variable that represents a [Connects](./Visio.Connects.md) object.
 

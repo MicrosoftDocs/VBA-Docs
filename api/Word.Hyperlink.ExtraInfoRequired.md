@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ExtraInfoRequired`
+_expression_. `ExtraInfoRequired`
 
  _expression_ A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

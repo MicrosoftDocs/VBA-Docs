@@ -19,7 +19,7 @@ Returns the audio compression type. Read-only.
 
 ## Syntax
 
- _expression_. `AudioCompressionType`
+_expression_. `AudioCompressionType`
 
  _expression_ A variable that represents a [ResampleMediaTask](./PowerPoint.ResampleMediaTask.md) object.
 

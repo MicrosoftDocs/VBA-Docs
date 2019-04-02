@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MatchGeneric`
+_expression_. `MatchGeneric`
 
  _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

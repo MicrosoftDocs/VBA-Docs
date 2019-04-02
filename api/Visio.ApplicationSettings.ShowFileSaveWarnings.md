@@ -19,7 +19,7 @@ Determines if warning messages appear when the user attempts to save in XML form
 
 ## Syntax
 
- _expression_. `ShowFileSaveWarnings`
+_expression_. `ShowFileSaveWarnings`
 
  _expression_ A variable that represents an [ApplicationSettings](./Visio.ApplicationSettings.md) object.
 

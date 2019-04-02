@@ -19,7 +19,7 @@ Displays the  **Thesaurus** dialog box, which lists alternative word choices, or
 
 ## Syntax
 
- _expression_. `CheckSynonyms`
+_expression_. `CheckSynonyms`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

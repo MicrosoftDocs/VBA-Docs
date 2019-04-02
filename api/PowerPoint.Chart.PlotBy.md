@@ -19,7 +19,7 @@ Returns or sets the way columns or rows are used as data series on the chart. Re
 
 ## Syntax
 
- _expression_. `PlotBy`
+_expression_. `PlotBy`
 
 _expression_ A variable that represents a '[Chart](PowerPoint.Chart.md)' object.
 

@@ -19,7 +19,7 @@ Ends the specified slide show.
 
 ## Syntax
 
- _expression_. `Exit`
+_expression_. `Exit`
 
  _expression_ A variable that represents a [SlideShowView](./PowerPoint.SlideShowView.md) object.
 

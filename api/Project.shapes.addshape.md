@@ -12,7 +12,7 @@ Adds a shape of the specified AutoShape type to a report, and returns a  **Shape
 
 ## Syntax
 
- _expression_. `AddShape` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
+_expression_. `AddShape` _(Type,_ _Left,_ _Top,_ _Width,_ _Height)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

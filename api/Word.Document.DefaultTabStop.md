@@ -19,7 +19,7 @@ Returns or sets the interval (in points) between the default tab stops in the sp
 
 ## Syntax
 
- _expression_. `DefaultTabStop`
+_expression_. `DefaultTabStop`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

@@ -19,7 +19,7 @@ Removes the current group from the view.
 
 ## Syntax
 
- _expression_. `GroupClear`
+_expression_. `GroupClear`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

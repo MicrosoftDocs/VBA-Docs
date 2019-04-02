@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `GroupAssignments`
+_expression_. `GroupAssignments`
 
  _expression_ A variable that represents a [Group](./Project.Group.md) object.
 

@@ -16,7 +16,7 @@ Occurs when the pane is activated.
 
 ## Syntax
 
- _expression_. `PaneActivate`
+_expression_. `PaneActivate`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

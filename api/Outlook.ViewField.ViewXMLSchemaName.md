@@ -19,7 +19,7 @@ Returns a  **String** value that represents the XML schema name for the property
 
 ## Syntax
 
- _expression_. `ViewXMLSchemaName`
+_expression_. `ViewXMLSchemaName`
 
 _expression_ A variable that represents a [ViewField](./Outlook.ViewField.md) object.
 

@@ -19,7 +19,7 @@ Displays the  **More Tables** dialog box, which prompts the user to manage table
 
 ## Syntax
 
- _expression_. `Tables`
+_expression_. `Tables`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

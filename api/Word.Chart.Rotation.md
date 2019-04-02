@@ -19,7 +19,7 @@ Returns or sets the rotation, in degrees, of the 3-D chart view (the rotation of
 
 ## Syntax
 
- _expression_. `Rotation`
+_expression_. `Rotation`
 
  _expression_ A variable that represents a '[Chart](Word.Chart.md)' object.
 

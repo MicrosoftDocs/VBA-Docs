@@ -19,7 +19,7 @@ Returns or sets the minor unit scale value for the category axis when the  **[Ca
 
 ## Syntax
 
- _expression_. `MinorUnitScale`
+_expression_. `MinorUnitScale`
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

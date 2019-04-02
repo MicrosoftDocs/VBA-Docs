@@ -19,7 +19,7 @@ Determines whether a formula of the cell is inherited from a master or a style. 
 
 ## Syntax
 
- _expression_. `IsInherited`
+_expression_. `IsInherited`
 
  _expression_ A variable that represents a [Cell](./Visio.Cell.md) object.
 

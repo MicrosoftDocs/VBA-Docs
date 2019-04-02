@@ -19,7 +19,7 @@ Returns a document from a local computer to a Microsoft SharePoint Server comput
 
 ## Syntax
 
- _expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
+_expression_. `CheckIn`( `_SaveChanges_` , `_Comments_` , `_MakePublic_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

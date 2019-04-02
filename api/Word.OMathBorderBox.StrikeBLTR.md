@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents a diagonal strikethrough from low
 
 ## Syntax
 
- _expression_. `StrikeBLTR`
+_expression_. `StrikeBLTR`
 
  _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 

@@ -19,7 +19,7 @@ Returns a unique number for the second key in the specified key binding. Read-on
 
 ## Syntax
 
- _expression_. `KeyCode2`
+_expression_. `KeyCode2`
 
  _expression_ An expression that returns a '[KeyBinding](Word.KeyBinding.md)' object.
 

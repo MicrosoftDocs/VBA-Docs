@@ -19,7 +19,7 @@ Ungroups a group.
 
 ## Syntax
 
- _expression_. `Ungroup`
+_expression_. `Ungroup`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

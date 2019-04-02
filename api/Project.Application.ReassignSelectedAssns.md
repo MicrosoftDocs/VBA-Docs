@@ -19,7 +19,7 @@ Reassigns the selected assignments in the Team Planner view.
 
 ## Syntax
 
- _expression_. `ReassignSelectedAssns`( `_ResourceID_` )
+_expression_. `ReassignSelectedAssns`( `_ResourceID_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

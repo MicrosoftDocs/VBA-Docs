@@ -19,7 +19,7 @@ Simulates the mail merge operation, pausing to report each error as it occurs.
 
 ## Syntax
 
- _expression_. `Check`
+_expression_. `Check`
 
  _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word automatica
 
 ## Syntax
 
- _expression_. `OMathAutoBuildUp`
+_expression_. `OMathAutoBuildUp`
 
  _expression_ An expression that returns an '[Options](Word.Options.md)' object.
 

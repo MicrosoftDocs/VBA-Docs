@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `ShowTaskSuggestions`
+_expression_. `ShowTaskSuggestions`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

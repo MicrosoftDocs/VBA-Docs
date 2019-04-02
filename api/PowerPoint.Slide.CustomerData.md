@@ -19,7 +19,7 @@ Returns a  **[CustomerData](PowerPoint.CustomerData.md)** object. Read-only.
 
 ## Syntax
 
- _expression_. `CustomerData`
+_expression_. `CustomerData`
 
  _expression_ An expression that returns a [Slide](./PowerPoint.Slide.md) object.
 

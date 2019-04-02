@@ -19,7 +19,7 @@ Gets or sets the paths where Microsoft Visio looks for third-party or user add-o
 
 ## Syntax
 
- _expression_. `AddonPaths`
+_expression_. `AddonPaths`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

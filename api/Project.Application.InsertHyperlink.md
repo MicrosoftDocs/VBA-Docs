@@ -19,7 +19,7 @@ Inserts a hyperlink on the selected assignment, resource, or task.
 
 ## Syntax
 
- _expression_. `InsertHyperlink`( `_Name_`, `_Address_`, `_SubAddress_`, `_ScreenTip_` )
+_expression_. `InsertHyperlink`( `_Name_`, `_Address_`, `_SubAddress_`, `_ScreenTip_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

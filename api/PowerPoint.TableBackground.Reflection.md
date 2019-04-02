@@ -19,7 +19,7 @@ Returns an  **[ReflectionFormat](Office.ReflectionFormat.md)** object that repre
 
 ## Syntax
 
- _expression_. `Reflection`
+_expression_. `Reflection`
 
  _expression_ An expression that returns a [TableBackground](./PowerPoint.TableBackground.md) object.
 

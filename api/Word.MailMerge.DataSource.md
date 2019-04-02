@@ -19,7 +19,7 @@ Returns a  **[MailMergeDataSource](Word.MailMergeDataSource.md)** object that re
 
 ## Syntax
 
- _expression_. `DataSource`
+_expression_. `DataSource`
 
  _expression_ A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

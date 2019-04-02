@@ -16,7 +16,7 @@ Gets or sets the actual work (in minutes) for the assignment. Read/write  **Vari
 
 ## Syntax
 
- _expression_. `ActualWork`
+_expression_. `ActualWork`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

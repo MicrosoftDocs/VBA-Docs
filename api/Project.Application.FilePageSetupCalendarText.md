@@ -19,7 +19,7 @@ Formats the text of calendar views for printing.
 
 ## Syntax
 
- _expression_. `FilePageSetupCalendarText`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
+_expression_. `FilePageSetupCalendarText`( `_Name_`, `_Item_`, `_Font_`, `_Size_`, `_Bold_`, `_Italic_`, `_Underline_`, `_Color_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

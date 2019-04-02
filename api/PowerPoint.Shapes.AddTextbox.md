@@ -19,7 +19,7 @@ Creates a text box. Returns a  **[Shape](PowerPoint.Shape.md)** object that repr
 
 ## Syntax
 
- _expression_. `AddTextbox`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
+_expression_. `AddTextbox`( `_Orientation_`, `_Left_`, `_Top_`, `_Width_`, `_Height_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

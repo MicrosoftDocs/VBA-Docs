@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word uses the N
 
 ## Syntax
 
- _expression_. `UseNormalStyleForList`
+_expression_. `UseNormalStyleForList`
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

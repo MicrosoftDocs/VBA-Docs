@@ -19,7 +19,7 @@ Shows or hides the legend in a project version comparison report.
 
 ## Syntax
 
- _expression_. `CompareProjectsLegendToggle`
+_expression_. `CompareProjectsLegendToggle`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

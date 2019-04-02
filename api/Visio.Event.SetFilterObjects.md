@@ -19,7 +19,7 @@ Specifies an array of object types and a  **True** or **False** value indicating
 
 ## Syntax
 
- _expression_. `SetFilterObjects`( `_Objects()_` )
+_expression_. `SetFilterObjects`( `_Objects()_` )
 
  _expression_ A variable that represents an [Event](./Visio.Event.md) object.
 

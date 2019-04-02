@@ -19,7 +19,7 @@ Returns the file format of the specified document or file converter. Read-only  
 
 ## Syntax
 
- _expression_. `SaveFormat`
+_expression_. `SaveFormat`
 
  _expression_ Required. A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

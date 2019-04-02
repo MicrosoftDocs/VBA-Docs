@@ -12,7 +12,7 @@ Gets or sets whether to display report filter field buttons on a PivotChart. Rea
 
 ## Syntax
 
- _expression_. `ShowReportFilterFieldButtons`
+_expression_. `ShowReportFilterFieldButtons`
 
  _expression_ A variable that represents a 'Chart' object.
 

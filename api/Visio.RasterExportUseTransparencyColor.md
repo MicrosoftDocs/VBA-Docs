@@ -19,7 +19,7 @@ Determines whether Microsoft Visio applies, to the exported image, the transpare
 
 ## Syntax
 
- _expression_. `RasterExportUseTransparencyColor`
+_expression_. `RasterExportUseTransparencyColor`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

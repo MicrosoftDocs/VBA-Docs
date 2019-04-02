@@ -14,7 +14,7 @@ Replaces the specified selection with one or more instances of the master passed
 
 ## Syntax
 
- _expression_. `ReplaceShape`_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
+_expression_. `ReplaceShape`_(MasterOrMasterShortcutToDrop,_ _ReplaceFlags)_
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

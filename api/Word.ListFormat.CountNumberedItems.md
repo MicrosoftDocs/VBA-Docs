@@ -19,7 +19,7 @@ Returns the number of bulleted or numbered items and LISTNUM fields in the speci
 
 ## Syntax
 
- _expression_. `CountNumberedItems`
+_expression_. `CountNumberedItems`
 
  _expression_ A variable that represents a '[ListFormat](Word.ListFormat.md)' object.
 

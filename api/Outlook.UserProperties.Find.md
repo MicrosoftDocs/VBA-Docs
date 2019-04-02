@@ -19,7 +19,7 @@ Locates and returns a  **[UserProperty](Outlook.UserProperty.md)** object for th
 
 ## Syntax
 
- _expression_. `Find`( `_Name_` , `_Custom_` )
+_expression_. `Find`( `_Name_` , `_Custom_` )
 
 _expression_ A variable that represents an [UserProperties](./Outlook.UserProperties.md) object.
 

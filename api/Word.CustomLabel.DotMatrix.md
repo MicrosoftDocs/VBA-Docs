@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `DotMatrix`
+_expression_. `DotMatrix`
 
  _expression_ A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 

@@ -16,7 +16,7 @@ Gets a  **[WorkWeekDays](Project.Year.md)** collection representing the days in 
 
 ## Syntax
 
- _expression_. `WeekDays`
+_expression_. `WeekDays`
 
  _expression_ An expression that returns a [WorkWeek](./Project.WorkWeek.md) object.
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `HasUpDownBars`
+_expression_. `HasUpDownBars`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

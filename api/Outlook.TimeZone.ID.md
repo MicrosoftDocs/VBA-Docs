@@ -19,7 +19,7 @@ Returns a  **String** that uniquely identifies the time zone. Read-only.
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
 _expression_ A variable that represents a [TimeZone](./Outlook.TimeZone.md) object.
 

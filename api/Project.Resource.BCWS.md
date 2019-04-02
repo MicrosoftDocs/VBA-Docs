@@ -16,7 +16,7 @@ Gets the budgeted cost of work scheduled for the resource. Read-only  **Variant*
 
 ## Syntax
 
- _expression_. `BCWS`
+_expression_. `BCWS`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

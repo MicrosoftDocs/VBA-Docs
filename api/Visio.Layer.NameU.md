@@ -19,7 +19,7 @@ Specifies the universal name of a  **Layer** object. Read/write.
 
 ## Syntax
 
- _expression_. `NameU`
+_expression_. `NameU`
 
  _expression_ A variable that represents a [Layer](./Visio.Layer.md) object.
 

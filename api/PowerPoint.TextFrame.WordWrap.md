@@ -19,7 +19,7 @@ Determines whether lines break automatically to fit inside the shape. Read/write
 
 ## Syntax
 
- _expression_. `WordWrap`
+_expression_. `WordWrap`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 

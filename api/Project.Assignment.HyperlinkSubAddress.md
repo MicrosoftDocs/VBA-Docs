@@ -16,7 +16,7 @@ Gets or sets the address of a location within the target document. Read/write  *
 
 ## Syntax
 
- _expression_. `HyperlinkSubAddress`
+_expression_. `HyperlinkSubAddress`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

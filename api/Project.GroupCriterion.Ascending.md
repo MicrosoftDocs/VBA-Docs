@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Ascending`
+_expression_. `Ascending`
 
  _expression_ A variable that represents a [GroupCriterion](./Project.GroupCriterion.md) object.
 

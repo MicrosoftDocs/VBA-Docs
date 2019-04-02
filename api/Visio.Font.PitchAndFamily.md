@@ -19,7 +19,7 @@ Returns the pitch and family code for a  **Font** object. Read-only.
 
 ## Syntax
 
- _expression_. `PitchAndFamily`
+_expression_. `PitchAndFamily`
 
  _expression_ A variable that represents a [Font](./Visio.Font.md) object.
 

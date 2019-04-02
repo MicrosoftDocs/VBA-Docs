@@ -19,7 +19,7 @@ Returns a  **[SynonymInfo](Word.SynonymInfo.md)** object that contains informati
 
 ## Syntax
 
- _expression_. `SynonymInfo`( `_Word_` , `_LanguageID_` )
+_expression_. `SynonymInfo`( `_Word_` , `_LanguageID_` )
 
  _expression_ Required. A variable that represents an '[Application](Word.Application.md)' object.
 

@@ -16,7 +16,7 @@ When no projects are open, adds the  **Project Server URL** specified in the **A
 
 ## Syntax
 
- _expression_. `EnterpriseMakeServerURLTrusted`
+_expression_. `EnterpriseMakeServerURLTrusted`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

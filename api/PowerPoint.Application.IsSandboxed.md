@@ -19,7 +19,7 @@ Returns  **True** if the specified presentation is open in a **Protected View** 
 
 ## Syntax
 
- _expression_. `IsSandboxed`
+_expression_. `IsSandboxed`
 
 _expression_ A variable that represents an [Application](./PowerPoint.Application.md) object.
 

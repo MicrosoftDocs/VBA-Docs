@@ -19,7 +19,7 @@ Adds an item to the value list for a custom field.
 
 ## Syntax
 
- _expression_. `CustomFieldValueListAdd`( `_FieldID_`, `_Value_`, `_Description_`, `_Phonetic_`, `_Index_`, `_FieldDefault_` )
+_expression_. `CustomFieldValueListAdd`( `_FieldID_`, `_Value_`, `_Description_`, `_Phonetic_`, `_Index_`, `_FieldDefault_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

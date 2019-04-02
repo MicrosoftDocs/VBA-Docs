@@ -19,7 +19,7 @@ Rejects all changes.
 
 ## Syntax
 
- _expression_. `RejectAll`
+_expression_. `RejectAll`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

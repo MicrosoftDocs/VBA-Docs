@@ -12,7 +12,7 @@ Gets a value that indicates whether the shape is flipped around the horizontal a
 
 ## Syntax
 
- _expression_. `HorizontalFlip`
+_expression_. `HorizontalFlip`
 
  _expression_ A variable that represents a 'Shape' object.
 

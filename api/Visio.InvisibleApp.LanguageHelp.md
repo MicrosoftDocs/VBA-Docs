@@ -19,7 +19,7 @@ Represents the language ID of the Help in the version of the Microsoft Visio ins
 
 ## Syntax
 
- _expression_. `LanguageHelp`( `_lpi4Ret_` )
+_expression_. `LanguageHelp`( `_lpi4Ret_` )
 
  _expression_ A variable that represents an [InvisibleApp](./Visio.InvisibleApp.md) object.
 

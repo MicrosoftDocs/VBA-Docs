@@ -19,7 +19,7 @@ Returns or sets the highlight color for the specified range. Read/write  **WdCol
 
 ## Syntax
 
- _expression_. `HighlightColorIndex`
+_expression_. `HighlightColorIndex`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

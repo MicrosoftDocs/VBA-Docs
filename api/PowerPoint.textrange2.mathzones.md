@@ -14,7 +14,7 @@ Sets the starting point and length of a math zone within a text range. Read-only
 
 ## Syntax
 
- _expression_. `MathZones`( `_Start_`, `_Length_` )
+_expression_. `MathZones`( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 

@@ -19,7 +19,7 @@ Returns a  **CommandEffect** object for the specified animation behavior. Read-o
 
 ## Syntax
 
- _expression_. `CommandEffect`
+_expression_. `CommandEffect`
 
 _expression_ A variable that represents a [AnimationBehavior](./PowerPoint.AnimationBehavior.md) object.
 

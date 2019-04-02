@@ -19,7 +19,7 @@ Renumbers work breakdown structure (WBS) codes for either the active project or 
 
 ## Syntax
 
- _expression_. `WBSCodeRenumber`( `_All_` )
+_expression_. `WBSCodeRenumber`( `_All_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

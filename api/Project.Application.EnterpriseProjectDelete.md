@@ -19,7 +19,7 @@ Deletes a project from the Project Server database. Available in Project Profess
 
 ## Syntax
 
- _expression_. `EnterpriseProjectDelete`( `_Name_` )
+_expression_. `EnterpriseProjectDelete`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

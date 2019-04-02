@@ -16,7 +16,7 @@ Gets the maximum height available for a project window in points. Read-only  **D
 
 ## Syntax
 
- _expression_. `UsableHeight`
+_expression_. `UsableHeight`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

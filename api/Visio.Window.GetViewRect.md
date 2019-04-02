@@ -19,7 +19,7 @@ Returns the page coordinates of a window's borders.
 
 ## Syntax
 
- _expression_. `GetViewRect`( `_pdLeft_` , `_pdTop_` , `_pdWidth_` , `_pdHeight_` )
+_expression_. `GetViewRect`( `_pdLeft_` , `_pdTop_` , `_pdWidth_` , `_pdHeight_` )
 
  _expression_ A variable that represents a [Window](./Visio.Window.md) object.
 

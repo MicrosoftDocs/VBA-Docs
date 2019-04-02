@@ -19,7 +19,7 @@ Flips an object horizontally.
 
 ## Syntax
 
- _expression_. `FlipHorizontal`
+_expression_. `FlipHorizontal`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

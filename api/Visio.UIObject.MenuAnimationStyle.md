@@ -19,7 +19,7 @@ Gets or sets the way in which a menu is displayed. Read/write.
 
 ## Syntax
 
- _expression_. `MenuAnimationStyle`
+_expression_. `MenuAnimationStyle`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

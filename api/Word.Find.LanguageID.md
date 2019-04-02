@@ -19,7 +19,7 @@ Returns or sets the language for the specified  **Find** object. Read/write **[W
 
 ## Syntax
 
- _expression_. `LanguageID`
+_expression_. `LanguageID`
 
  _expression_ An expression that represents a '[Find](Word.Find.md)' object.
 

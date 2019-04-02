@@ -16,7 +16,7 @@ Gets the actual overtime cost for an assignment. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `ActualOvertimeCost`
+_expression_. `ActualOvertimeCost`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

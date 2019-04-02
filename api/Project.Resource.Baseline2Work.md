@@ -16,7 +16,7 @@ Gets or sets the baseline work (in minutes) for a  **Resource** Read/write **Var
 
 ## Syntax
 
- _expression_. `Baseline2Work`
+_expression_. `Baseline2Work`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

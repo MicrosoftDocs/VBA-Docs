@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `DefaultLegalBlackline`
+_expression_. `DefaultLegalBlackline`
 
  _expression_ A variable that represents an '[Application](Word.Application.md)' object.
 

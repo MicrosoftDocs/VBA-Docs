@@ -19,7 +19,7 @@ Creates a new series.
 
 ## Syntax
 
- _expression_. `NewSeries`
+_expression_. `NewSeries`
 
  _expression_ A variable that represents a '[SeriesCollection](PowerPoint.SeriesCollection.md)' object.
 

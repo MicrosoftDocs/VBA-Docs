@@ -19,7 +19,7 @@ Excludes the specified page from being published when the document is published 
 
 ## Syntax
 
- _expression_. `ExcludePage`( `_PageNameU_` , `_Flags_` )
+_expression_. `ExcludePage`( `_PageNameU_` , `_Flags_` )
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

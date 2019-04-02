@@ -19,7 +19,7 @@ Returns or sets the name and path of the source file for the linked OLE object. 
 
 ## Syntax
 
- _expression_. `SourceFullName`
+_expression_. `SourceFullName`
 
  _expression_ A variable that represents a [LinkFormat](./PowerPoint.LinkFormat.md) object.
 

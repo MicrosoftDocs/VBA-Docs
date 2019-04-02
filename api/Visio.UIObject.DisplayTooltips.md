@@ -19,7 +19,7 @@ Determines whether feature descriptions are shown in ScreenTips. Read/write.
 
 ## Syntax
 
- _expression_. `DisplayTooltips`
+_expression_. `DisplayTooltips`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

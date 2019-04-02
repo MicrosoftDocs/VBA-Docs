@@ -16,7 +16,7 @@ Gets the identification number of a resource. Read-only  **Long**.
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 

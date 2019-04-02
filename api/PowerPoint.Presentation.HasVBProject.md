@@ -19,7 +19,7 @@ Returns whether the active presentation contains a Microsoft Visual Basic for Ap
 
 ## Syntax
 
- _expression_. `HasVBProject`
+_expression_. `HasVBProject`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

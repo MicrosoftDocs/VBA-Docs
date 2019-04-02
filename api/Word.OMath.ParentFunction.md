@@ -19,7 +19,7 @@ Returns an  **[OMathFunction](Word.OMathFunction.md)** object that represents th
 
 ## Syntax
 
- _expression_. `ParentFunction`
+_expression_. `ParentFunction`
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

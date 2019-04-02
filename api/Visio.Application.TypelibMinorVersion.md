@@ -19,7 +19,7 @@ Returns the minor version number of the Microsoft Visio type library. Read-only.
 
 ## Syntax
 
- _expression_. `TypelibMinorVersion`
+_expression_. `TypelibMinorVersion`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns the page that contains an object.
 
 ## Syntax
 
- _expression_. `ContainingPage`
+_expression_. `ContainingPage`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

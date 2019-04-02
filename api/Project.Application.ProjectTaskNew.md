@@ -16,7 +16,7 @@ Occurs when a new task is created.
 
 ## Syntax
 
- _expression_. `ProjectTaskNew`( `_pj_`, `_ID_` )
+_expression_. `ProjectTaskNew`( `_pj_`, `_ID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

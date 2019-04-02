@@ -19,7 +19,7 @@ Zooms in on or out from the Calendar.
 
 ## Syntax
 
- _expression_. `ZoomCalendar`( `_NumWeeks_`, `_StartDate_`, `_EndDate_` )
+_expression_. `ZoomCalendar`( `_NumWeeks_`, `_StartDate_`, `_EndDate_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns an  **[OtherCorrectionsExceptions](Word.othercorrectionsexceptions.md)**
 
 ## Syntax
 
- _expression_. `OtherCorrectionsExceptions`
+_expression_. `OtherCorrectionsExceptions`
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

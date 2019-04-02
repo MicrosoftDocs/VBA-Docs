@@ -19,7 +19,7 @@ Returns the  **AccelTables** collection of a **UIObject** object. Read-only.
 
 ## Syntax
 
- _expression_. `AccelTables`
+_expression_. `AccelTables`
 
  _expression_ A variable that represents a [UIObject](./Visio.UIObject.md) object.
 

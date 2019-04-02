@@ -19,7 +19,7 @@ Toggles the drawing mode between resize and reshape.
 
 ## Syntax
 
- _expression_. `DrawingReshape`
+_expression_. `DrawingReshape`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns an  **PpAfterEffect** constant that indicates whether an after effect ap
 
 ## Syntax
 
- _expression_. `AfterEffect`
+_expression_. `AfterEffect`
 
 _expression_ A variable that represents an [EffectInformation](./PowerPoint.EffectInformation.md) object.
 

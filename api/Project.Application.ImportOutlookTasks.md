@@ -19,7 +19,7 @@ Displays the  **Import Outlook Tasks** dialog box, which allows tasks to be impo
 
 ## Syntax
 
- _expression_. `ImportOutlookTasks`
+_expression_. `ImportOutlookTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

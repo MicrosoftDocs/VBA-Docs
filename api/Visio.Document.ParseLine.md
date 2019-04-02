@@ -19,7 +19,7 @@ Parses a line of Microsoft Visual Basic code.
 
 ## Syntax
 
- _expression_. `ParseLine`( `_Line_` )
+_expression_. `ParseLine`( `_Line_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

@@ -19,7 +19,7 @@ Returns the name of the procedure that displays the specified built-in dialog bo
 
 ## Syntax
 
- _expression_. `CommandName`
+_expression_. `CommandName`
 
  _expression_ A variable that represents a '[Dialog](Word.Dialog.md)' object.
 

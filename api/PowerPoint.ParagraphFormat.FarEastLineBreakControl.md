@@ -19,7 +19,7 @@ Returns or sets the line break control option if you have an Asian language sett
 
 ## Syntax
 
- _expression_. `FarEastLineBreakControl`
+_expression_. `FarEastLineBreakControl`
 
  _expression_ A variable that represents a [ParagraphFormat](./PowerPoint.ParagraphFormat.md) object.
 

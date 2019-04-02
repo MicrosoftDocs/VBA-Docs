@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MatchDiacritics`
+_expression_. `MatchDiacritics`
 
  _expression_ An expression that returns a '[Find](Word.Find.md)' object.
 

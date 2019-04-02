@@ -16,7 +16,7 @@ Gets or sets a string representation of the task duration. Read/write  **String*
 
 ## Syntax
 
- _expression_. `DurationText`
+_expression_. `DurationText`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

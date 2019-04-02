@@ -19,7 +19,7 @@ Returns a  **Date** that represents the date and time that a comment was inserte
 
 ## Syntax
 
- _expression_. `Date`
+_expression_. `Date`
 
  _expression_ A variable that represents a '[Comment](Word.Comment.md)' object.
 

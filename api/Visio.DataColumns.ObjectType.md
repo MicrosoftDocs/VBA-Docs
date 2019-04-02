@@ -22,7 +22,7 @@ Returns  **visObjTypeDataColumns**, the type of a **DataColumns** object. Read-o
 
 ## Syntax
 
- _expression_. `ObjectType`
+_expression_. `ObjectType`
 
  _expression_ An expression that returns a [DataColumns](./Visio.DataColumns.md) object.
 

@@ -19,7 +19,7 @@ Returns a reference to the  **COMAddIns** collection that represents all the Com
 
 ## Syntax
 
- _expression_. `COMAddIns`
+_expression_. `COMAddIns`
 
  _expression_ A variable that represents an [Application](./Visio.Application.md) object.
 

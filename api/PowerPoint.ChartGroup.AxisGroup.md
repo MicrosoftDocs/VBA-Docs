@@ -19,7 +19,7 @@ Returns the type of axis group. Read/write  **[xlAxisGroup](PowerPoint.XlAxisGro
 
 ## Syntax
 
- _expression_. `AxisGroup`
+_expression_. `AxisGroup`
 
 _expression_ A variable that represents a '[ChartGroup](PowerPoint.ChartGroup.md)' object.
 

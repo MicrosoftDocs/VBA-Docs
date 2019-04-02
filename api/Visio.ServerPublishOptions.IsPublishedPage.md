@@ -19,7 +19,7 @@ Returns  **True** if the specified page is designated to be included when the do
 
 ## Syntax
 
- _expression_. `IsPublishedPage`( `_PageName_` `_Flags_` )
+_expression_. `IsPublishedPage`( `_PageName_` `_Flags_` )
 
  _expression_ A variable that represents a '[ServerPublishOptions](Visio.ServerPublishOptions.md)' object.
 

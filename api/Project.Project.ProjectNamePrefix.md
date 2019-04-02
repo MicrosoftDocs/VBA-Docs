@@ -19,7 +19,7 @@ Gets the prefix of the project name of the specified project. Read-only  **Strin
 
 ## Syntax
 
- _expression_. `ProjectNamePrefix`
+_expression_. `ProjectNamePrefix`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

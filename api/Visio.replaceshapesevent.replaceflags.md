@@ -14,7 +14,7 @@ Specifies the options for the shape replacement. Read-only.
 
 ## Syntax
 
- _expression_. `ReplaceFlags`
+_expression_. `ReplaceFlags`
 
  _expression_ A variable that represents a 'ReplaceShapesEvent' object.
 

@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Calendar`
+_expression_. `Calendar`
 
  _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

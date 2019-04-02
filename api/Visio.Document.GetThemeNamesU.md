@@ -19,7 +19,7 @@ Returns a locale-independent array of names of themes contained in the document.
 
 ## Syntax
 
- _expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
+_expression_. `GetThemeNamesU`( `_eType_` , `_NameArray()_` )
 
  _expression_ An expression that returns a [Document](./Visio.Document.md) object.
 

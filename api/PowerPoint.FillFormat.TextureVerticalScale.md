@@ -19,7 +19,7 @@ Returns or sets the vertical scaling factor for the texture fill. Read/write.
 
 ## Syntax
 
- _expression_. `TextureVerticalScale`
+_expression_. `TextureVerticalScale`
 
  _expression_ An expression that returns a [FillFormat](./PowerPoint.FillFormat.md) object.
 

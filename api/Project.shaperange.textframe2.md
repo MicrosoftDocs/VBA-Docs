@@ -12,7 +12,7 @@ Gets a  **TextFrame2** object that contains the text in a text frame and the mem
 
 ## Syntax
 
- _expression_. `TextFrame2`
+_expression_. `TextFrame2`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

@@ -19,7 +19,7 @@ Returns an  **[Effect](PowerPoint.Effect.md)** object that represents the first 
 
 ## Syntax
 
- _expression_. `FindFirstAnimationForClick`( `_click_` )
+_expression_. `FindFirstAnimationForClick`( `_click_` )
 
  _expression_ A variable that represents a [Sequence](./PowerPoint.Sequence.md) object.
 

@@ -19,7 +19,7 @@ Resets the footnote or endnote continuation notice to the default notice.
 
 ## Syntax
 
- _expression_. `ResetContinuationNotice`
+_expression_. `ResetContinuationNotice`
 
  _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 

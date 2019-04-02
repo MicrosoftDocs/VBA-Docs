@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `WBSCodeGenerate`
+_expression_. `WBSCodeGenerate`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

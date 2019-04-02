@@ -19,7 +19,7 @@ Returns an  **[InlineShape](Word.InlineShape.md)** object that represents the pi
 
 ## Syntax
 
- _expression_. `InlineShape`
+_expression_. `InlineShape`
 
  _expression_ An expression that returns a '[Field](Word.Field.md)' object.
 

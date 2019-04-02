@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IsSandboxed`
+_expression_. `IsSandboxed`
 
  _expression_ An expression that returns a [Application](./Word.Application.md) object.
 

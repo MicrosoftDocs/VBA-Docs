@@ -19,7 +19,7 @@ Adjusts the width of the specified cells so that they are equal.
 
 ## Syntax
 
- _expression_. `DistributeWidth`
+_expression_. `DistributeWidth`
 
  _expression_ Required. A variable that represents a '[Cells](Word.cells.md)' collection.
 

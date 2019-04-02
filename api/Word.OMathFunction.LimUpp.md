@@ -19,7 +19,7 @@ Returns an  **[OMathLimUpp](Word.OMathLimUpp.md)** object that represents upper 
 
 ## Syntax
 
- _expression_. `LimUpp`
+_expression_. `LimUpp`
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

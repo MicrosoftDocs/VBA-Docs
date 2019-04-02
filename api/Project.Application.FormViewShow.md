@@ -19,7 +19,7 @@ Shows or hides the form view in the lower pane.
 
 ## Syntax
 
- _expression_. `FormViewShow`
+_expression_. `FormViewShow`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

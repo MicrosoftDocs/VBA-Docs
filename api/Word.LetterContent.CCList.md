@@ -19,7 +19,7 @@ Returns or sets the carbon copy (CC) recipients for a letter created by the Lett
 
 ## Syntax
 
- _expression_. `CCList`
+_expression_. `CCList`
 
  _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

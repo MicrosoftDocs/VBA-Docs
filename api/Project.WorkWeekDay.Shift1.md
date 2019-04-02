@@ -16,7 +16,7 @@ Gets a  **[Shift](Project.Shift.md)** object representing the first work shift i
 
 ## Syntax
 
- _expression_. `Shift1`
+_expression_. `Shift1`
 
  _expression_ An expression that returns a [WorkWeekDay](./Project.WorkWeekDay.md) object.
 

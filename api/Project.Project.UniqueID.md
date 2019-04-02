@@ -16,7 +16,7 @@ Gets the unique identification number of the project, which is actually the  **U
 
 ## Syntax
 
- _expression_. `UniqueID`
+_expression_. `UniqueID`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

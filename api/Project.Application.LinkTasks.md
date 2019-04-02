@@ -19,7 +19,7 @@ Links the selected tasks in the Gantt Chart, Calendar, Task Sheet, or Task Usage
 
 ## Syntax
 
- _expression_. `LinkTasks`
+_expression_. `LinkTasks`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

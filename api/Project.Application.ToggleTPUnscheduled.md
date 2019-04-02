@@ -19,7 +19,7 @@ Shows or hides the  **Unscheduled Tasks** column in the Team Planner view.
 
 ## Syntax
 
- _expression_. `ToggleTPUnscheduled`
+_expression_. `ToggleTPUnscheduled`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

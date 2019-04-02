@@ -19,7 +19,7 @@ Returns a  **[TextRange](PowerPoint.TextRange.md)** object that represents the t
 
 ## Syntax
 
- _expression_. `TextRange`
+_expression_. `TextRange`
 
  _expression_ A variable that represents a [TextFrame](./PowerPoint.TextFrame.md) object.
 

@@ -19,7 +19,7 @@ Sets or returns the percentage of the duration over which a timing deceleration 
 
 ## Syntax
 
- _expression_. `Decelerate`
+_expression_. `Decelerate`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

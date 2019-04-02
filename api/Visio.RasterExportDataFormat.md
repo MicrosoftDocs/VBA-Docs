@@ -19,7 +19,7 @@ Determines whether the exported raster image is interlaced or non-interlaced whe
 
 ## Syntax
 
- _expression_. `RasterExportDataFormat`
+_expression_. `RasterExportDataFormat`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

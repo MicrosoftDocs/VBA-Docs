@@ -16,7 +16,7 @@ Gets or sets the baseline1 budget cost for a  **Resource**. Read/write **Variant
 
 ## Syntax
 
- _expression_. `Baseline1BudgetCost`
+_expression_. `Baseline1BudgetCost`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

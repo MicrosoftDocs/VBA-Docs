@@ -19,7 +19,7 @@ Returns an  **[OLEFormat](PowerPoint.OLEFormat.md)** object that contains OLE fo
 
 ## Syntax
 
- _expression_. `OLEFormat`
+_expression_. `OLEFormat`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

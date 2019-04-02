@@ -19,7 +19,7 @@ Sets the height of the specified rows.
 
 ## Syntax
 
- _expression_. `SetRowHeight`( `_Unit_`, `_Rows_`, `_UseUniqueID_` )
+_expression_. `SetRowHeight`( `_Unit_`, `_Rows_`, `_UseUniqueID_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

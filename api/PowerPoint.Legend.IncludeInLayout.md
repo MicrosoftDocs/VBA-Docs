@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `IncludeInLayout`
+_expression_. `IncludeInLayout`
 
  _expression_ A variable that represents a '[Legend](PowerPoint.Legend.md)' object.
 

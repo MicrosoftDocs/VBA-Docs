@@ -19,7 +19,7 @@ Shows or hides the  **Task Form** in the bottom pane of a split view.
 
 ## Syntax
 
- _expression_. `ToggleTaskDetails`
+_expression_. `ToggleTaskDetails`
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

@@ -19,7 +19,7 @@ Returns a  **Selection** object that represents the shapes that meet certain cri
 
 ## Syntax
 
- _expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
+_expression_. `SpatialNeighbors`( `_Relation_` , `_Tolerance_` , `_Flags_` , `_ResultRoot_` )
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

@@ -19,7 +19,7 @@ Unloads all of the custom or conversion dictionaries.
 
 ## Syntax
 
- _expression_. `ClearAll`
+_expression_. `ClearAll`
 
  _expression_ A variable that represents a '[Dictionaries](Word.dictionaries.md)' object.
 

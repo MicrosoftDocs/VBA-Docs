@@ -19,7 +19,7 @@ Displays a custom form. The  **Form** method produces an error if a resource for
 
 ## Syntax
 
- _expression_. `Form`( `_Name_` )
+_expression_. `Form`( `_Name_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

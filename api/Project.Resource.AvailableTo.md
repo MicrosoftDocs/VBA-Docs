@@ -19,7 +19,7 @@ Gets the latest date that a resource is available for work on the project, as sp
 
 ## Syntax
 
- _expression_. `AvailableTo`
+_expression_. `AvailableTo`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

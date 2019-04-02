@@ -19,7 +19,7 @@ Sets or returns a  **Boolean** that represents whether pages displayed in readin
 
 ## Syntax
 
- _expression_. `ReadingModeLayoutFrozen`
+_expression_. `ReadingModeLayoutFrozen`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

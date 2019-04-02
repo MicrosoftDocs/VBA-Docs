@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Format`
+_expression_. `Format`
 
  _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 

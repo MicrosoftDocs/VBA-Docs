@@ -19,7 +19,7 @@ Returns or sets the  **[ColorScheme](PowerPoint.ColorScheme.md)** object that re
 
 ## Syntax
 
- _expression_. `ColorScheme`
+_expression_. `ColorScheme`
 
  _expression_ A variable that represents a [Slide](./PowerPoint.Slide.md) object.
 

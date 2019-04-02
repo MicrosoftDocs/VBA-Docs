@@ -19,7 +19,7 @@ Determines whether a  **Characters** object represents the expanded text of a si
 
 ## Syntax
 
- _expression_. `IsField`
+_expression_. `IsField`
 
  _expression_ A variable that represents a [Characters](./Visio.Characters.md) object.
 

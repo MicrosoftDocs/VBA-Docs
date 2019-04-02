@@ -19,7 +19,7 @@ Displays the  **COM Add-Ins** dialog box, which lists any COM add-ins available 
 
 ## Syntax
 
- _expression_. `ComAddInsDialog`
+_expression_. `ComAddInsDialog`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

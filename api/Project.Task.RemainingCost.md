@@ -16,7 +16,7 @@ Gets the remaining cost for the task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `RemainingCost`
+_expression_. `RemainingCost`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -19,7 +19,7 @@ Determines the flip that is applied to the exported image when you call the  **E
 
 ## Syntax
 
- _expression_. `RasterExportFlip`
+_expression_. `RasterExportFlip`
 
  _expression_ An expression that returns an '[ApplicationSettings](Visio.ApplicationSettings.md)' object.
 

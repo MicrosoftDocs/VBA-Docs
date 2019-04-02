@@ -19,7 +19,7 @@ Returns  **True** if the specified table cell is selected. Read-only.
 
 ## Syntax
 
- _expression_. `Selected`
+_expression_. `Selected`
 
 _expression_ A variable that represents a [Cell](./PowerPoint.Cell.md) object.
 

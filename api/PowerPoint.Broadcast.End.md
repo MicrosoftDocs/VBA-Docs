@@ -19,7 +19,7 @@ Elevates to the system to delete the document from the Broadcast Documents libra
 
 ## Syntax
 
- _expression_. `End`
+_expression_. `End`
 
 _expression_ A variable that represents a [Broadcast](./PowerPoint.Broadcast.md) object.
 

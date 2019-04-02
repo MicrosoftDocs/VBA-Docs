@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `OutlineNumbered`
+_expression_. `OutlineNumbered`
 
  _expression_ An expression that returns a '[ListTemplate](Word.ListTemplate.md)' object.
 

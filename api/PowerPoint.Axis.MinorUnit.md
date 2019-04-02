@@ -19,7 +19,7 @@ Returns or sets the minor units on the value axis. Read/write  **Double**.
 
 ## Syntax
 
- _expression_. `MinorUnit`
+_expression_. `MinorUnit`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

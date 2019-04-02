@@ -19,7 +19,7 @@ Returns a point at a position along a curve.
 
 ## Syntax
 
- _expression_. `Point`( `_t_` , `_x_` , `_y_` )
+_expression_. `Point`( `_t_` , `_x_` , `_y_` )
 
  _expression_ A variable that represents a [Curve](./Visio.Curve.md) object.
 

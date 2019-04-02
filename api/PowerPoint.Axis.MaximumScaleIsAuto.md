@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `MaximumScaleIsAuto`
+_expression_. `MaximumScaleIsAuto`
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

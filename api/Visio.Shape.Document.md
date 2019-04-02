@@ -19,7 +19,7 @@ Gets the  **Document** object that is associated with an object. Read-only.
 
 ## Syntax
 
- _expression_. `Document`
+_expression_. `Document`
 
  _expression_ A variable that represents a [Shape](./Visio.Shape.md) object.
 

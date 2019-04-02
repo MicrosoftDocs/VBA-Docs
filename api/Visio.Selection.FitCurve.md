@@ -19,7 +19,7 @@ Reduces the number of geometry segments in a shape or shapes by replacing them w
 
 ## Syntax
 
- _expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
+_expression_. `FitCurve`( `_Tolerance_` , `_Flags_` )
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

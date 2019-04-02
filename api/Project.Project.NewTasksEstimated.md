@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `NewTasksEstimated`
+_expression_. `NewTasksEstimated`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

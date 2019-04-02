@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `GetWorkflowTasks`
+_expression_. `GetWorkflowTasks`
 
  _expression_ An expression that returns a [Presentation](./PowerPoint.Presentation.md) object.
 

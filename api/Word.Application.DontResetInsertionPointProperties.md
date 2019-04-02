@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether Microsoft Word maintains 
 
 ## Syntax
 
- _expression_. `DontResetInsertionPointProperties`
+_expression_. `DontResetInsertionPointProperties`
 
  _expression_ An expression that returns an '[Application](Word.Application.md)' object.
 

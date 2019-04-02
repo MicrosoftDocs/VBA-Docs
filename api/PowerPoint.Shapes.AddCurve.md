@@ -19,7 +19,7 @@ Creates a Bézier curve. Returns a  **[Shape](PowerPoint.Shape.md)** object that
 
 ## Syntax
 
- _expression_. `AddCurve`( `_SafeArrayOfPoints_` )
+_expression_. `AddCurve`( `_SafeArrayOfPoints_` )
 
  _expression_ A variable that represents a [Shapes](./PowerPoint.Shapes.md) object.
 

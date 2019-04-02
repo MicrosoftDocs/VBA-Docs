@@ -19,7 +19,7 @@ Inserts a paragraph mark after a range.
 
 ## Syntax
 
- _expression_. `InsertParagraphAfter`
+_expression_. `InsertParagraphAfter`
 
  _expression_ Required. A variable that represents a '[Range](Word.Range.md)' object.
 

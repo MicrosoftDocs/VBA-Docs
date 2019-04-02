@@ -16,7 +16,7 @@ Gets the name and version of the operating system. Read-only  **String**.
 
 ## Syntax
 
- _expression_. `OperatingSystem`
+_expression_. `OperatingSystem`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

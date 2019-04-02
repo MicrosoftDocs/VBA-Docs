@@ -15,7 +15,7 @@ Shows or hides the report data pane, when a chart shape or table shape is select
 
 ## Syntax
 
- _expression_. `ShowReportDataPane` _(Show)_
+_expression_. `ShowReportDataPane` _(Show)_
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

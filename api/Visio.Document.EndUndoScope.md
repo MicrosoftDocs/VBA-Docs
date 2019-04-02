@@ -19,7 +19,7 @@ Ends or cancels a transaction that has a unique scope.
 
 ## Syntax
 
- _expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
+_expression_. `EndUndoScope`( `_nScopeID_` , `_bCommit_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

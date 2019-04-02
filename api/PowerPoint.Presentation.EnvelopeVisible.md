@@ -19,7 +19,7 @@ Determines whether the email message header is visible in the document window. R
 
 ## Syntax
 
- _expression_. `EnvelopeVisible`
+_expression_. `EnvelopeVisible`
 
  _expression_ A variable that represents an [Presentation](./PowerPoint.Presentation.md) object.
 

@@ -12,7 +12,7 @@ Gets or sets the index of chart colors for the active chart. Read/write  **Varia
 
 ## Syntax
 
- _expression_. `ChartColor`
+_expression_. `ChartColor`
 
  _expression_ A variable that represents a 'Chart' object.
 

@@ -19,7 +19,7 @@ Returns a  **[Subdocuments](Word.subdocuments.md)** collection that represents a
 
 ## Syntax
 
- _expression_. `Subdocuments`
+_expression_. `Subdocuments`
 
  _expression_ A variable that represents a '[Document](Word.Document.md)' object.
 

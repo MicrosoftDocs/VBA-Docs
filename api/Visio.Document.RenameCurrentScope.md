@@ -19,7 +19,7 @@ Renames the top-level open undo scope.
 
 ## Syntax
 
- _expression_. `RenameCurrentScope`( `_bstrScopeName_` )
+_expression_. `RenameCurrentScope`( `_bstrScopeName_` )
 
  _expression_ A variable that represents a [Document](./Visio.Document.md) object.
 

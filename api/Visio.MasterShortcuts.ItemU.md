@@ -19,7 +19,7 @@ Returns an object from a collection. Read-only.
 
 ## Syntax
 
- _expression_. `ItemU`( `_NameOrIndex_` )
+_expression_. `ItemU`( `_NameOrIndex_` )
 
  _expression_ A variable that represents a [MasterShortcuts](./Visio.MasterShortcuts.md) object.
 

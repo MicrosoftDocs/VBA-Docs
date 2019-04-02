@@ -19,7 +19,7 @@ Returns the type of axis group. Read/write  **[xlAxisGroup](Word.xlaxisgroup.md)
 
 ## Syntax
 
- _expression_. `AxisGroup`
+_expression_. `AxisGroup`
 
  _expression_ A variable that represents a '[ChartGroup](Word.ChartGroup.md)' object.
 

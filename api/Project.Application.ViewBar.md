@@ -19,7 +19,7 @@ Shows or hides the View Bar.
 
 ## Syntax
 
- _expression_. `ViewBar`
+_expression_. `ViewBar`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

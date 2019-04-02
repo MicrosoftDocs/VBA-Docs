@@ -16,7 +16,7 @@ Gets or sets the notes for an assignment. Read/write  **String**.
 
 ## Syntax
 
- _expression_. `Notes`
+_expression_. `Notes`
 
  _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

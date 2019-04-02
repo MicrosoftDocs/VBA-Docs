@@ -12,7 +12,7 @@ Creates a  **FreeformBuilder** object that represents a new freeform drawing. Th
 
 ## Syntax
 
- _expression_. `BuildFreeform` _(EditingType,_ _X1,_ _Y1)_
+_expression_. `BuildFreeform` _(EditingType,_ _X1,_ _Y1)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

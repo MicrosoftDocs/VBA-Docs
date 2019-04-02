@@ -19,7 +19,7 @@ Gets or sets the intensity of the red component of a  **Color** object. Read/wri
 
 ## Syntax
 
- _expression_. `Red`
+_expression_. `Red`
 
  _expression_ A variable that represents a [Color](./Visio.Color.md) object.
 

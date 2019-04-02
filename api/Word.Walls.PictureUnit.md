@@ -19,7 +19,7 @@ Returns or sets the unit for each picture on the chart if the  **[PictureType](E
 
 ## Syntax
 
- _expression_. `PictureUnit`
+_expression_. `PictureUnit`
 
  _expression_ A variable that represents a '[Walls](Word.Walls.md)' object.
 

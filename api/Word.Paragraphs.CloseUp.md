@@ -19,7 +19,7 @@ Removes any spacing before the specified paragraphs.
 
 ## Syntax
 
- _expression_. `CloseUp`
+_expression_. `CloseUp`
 
  _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

@@ -17,7 +17,7 @@ Returns the draft start date for the engagement. Read-only  **DateType**. Introd
 
 ## Syntax
 
- _expression_. `EngagementDraftStart`
+_expression_. `EngagementDraftStart`
 
  _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

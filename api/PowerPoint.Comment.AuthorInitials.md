@@ -19,7 +19,7 @@ Returns the author's initials as a read-only  **String** for a specified **[Comm
 
 ## Syntax
 
- _expression_. `AuthorInitials`
+_expression_. `AuthorInitials`
 
 _expression_ A variable that represents an [Comment](./PowerPoint.Comment.md) object.
 

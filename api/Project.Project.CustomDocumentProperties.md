@@ -16,7 +16,7 @@ Gets a  **DocumentProperties** collection representing the custom properties of 
 
 ## Syntax
 
- _expression_. `CustomDocumentProperties`
+_expression_. `CustomDocumentProperties`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

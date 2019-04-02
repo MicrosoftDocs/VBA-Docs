@@ -16,7 +16,7 @@ Gets the VAC (Variance At Completion) cost for the task. Read-only  **Variant**.
 
 ## Syntax
 
- _expression_. `VAC`
+_expression_. `VAC`
 
  _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

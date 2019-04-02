@@ -19,7 +19,7 @@ Read/write
 
 ## Syntax
 
- _expression_. `triggerBookmark`
+_expression_. `triggerBookmark`
 
  _expression_ A variable that represents a [Timing](./PowerPoint.Timing.md) object.
 

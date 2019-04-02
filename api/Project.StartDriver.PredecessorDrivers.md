@@ -16,7 +16,7 @@ Gets the  **[PredecessorDrivers](Project.predecessordrivers.md)** collection obj
 
 ## Syntax
 
- _expression_. `PredecessorDrivers`
+_expression_. `PredecessorDrivers`
 
  _expression_ A variable that represents a [StartDriver](./Project.StartDriver.md) object.
 

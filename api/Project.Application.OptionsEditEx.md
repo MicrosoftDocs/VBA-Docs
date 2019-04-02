@@ -19,7 +19,7 @@ Sets options for Project, where colors can be hexadecimal values, or opens the  
 
 ## Syntax
 
- _expression_. `OptionsEditEx`( `_MoveAfterReturn_`, `_DragAndDrop_`, `_UpdateLinks_`, `_CopyResourceUsageHeader_`, `_PhoneticInfo_`, `_PhoneticType_`, `_MinuteLabelDisplay_`, `_HourLabelDisplay_`, `_DayLabelDisplay_`, `_WeekLabelDisplay_`, `_YearLabelDisplay_`, `_SpaceBeforeTimeLabel_`, `_SetDefaults_`, `_MonthLabelDisplay_`, `_SetDefaultsTimeUnits_`, `_HyperlinkColor_`, `_FollowedHyperlinkColor_`, `_UnderlineHyperlinks_`, `_SetDefaultsHyperlink_`, `_InCellEditing_` )
+_expression_. `OptionsEditEx`( `_MoveAfterReturn_`, `_DragAndDrop_`, `_UpdateLinks_`, `_CopyResourceUsageHeader_`, `_PhoneticInfo_`, `_PhoneticType_`, `_MinuteLabelDisplay_`, `_HourLabelDisplay_`, `_DayLabelDisplay_`, `_WeekLabelDisplay_`, `_YearLabelDisplay_`, `_SpaceBeforeTimeLabel_`, `_SetDefaults_`, `_MonthLabelDisplay_`, `_SetDefaultsTimeUnits_`, `_HyperlinkColor_`, `_FollowedHyperlinkColor_`, `_UnderlineHyperlinks_`, `_SetDefaultsHyperlink_`, `_InCellEditing_` )
 
  _expression_ An expression that returns an [Application](./Project.Application.md) object.
 

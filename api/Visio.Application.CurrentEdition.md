@@ -19,7 +19,7 @@ Returns an enumerated value that represents the edition of the current instance 
 
 ## Syntax
 
- _expression_. `CurrentEdition`
+_expression_. `CurrentEdition`
 
  _expression_ An expression that returns an '[Application](Visio.Application.md)' object.
 

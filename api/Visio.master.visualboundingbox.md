@@ -14,7 +14,7 @@ Returns the bounding rectangle of the virtual container that has all the shapes 
 
 ## Syntax
 
- _expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_,  _lpr8Right_,  _lpr8Top_)
+_expression_. `VisualBoundingBox`( _Flags_,  _Flags_,  _lpr8Left_,  _lpr8Bottom_,  _lpr8Right_,  _lpr8Top_)
 
  _expression_ A variable that represents a [Master](./Visio.Master.md) object.
 

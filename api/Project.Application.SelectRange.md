@@ -19,7 +19,7 @@ Selects one or more cells.
 
 ## Syntax
 
- _expression_. `SelectRange`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
+_expression_. `SelectRange`( `_Row_`, `_Column_`, `_RowRelative_`, `_Width_`, `_Height_`, `_Extend_`, `_Add_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

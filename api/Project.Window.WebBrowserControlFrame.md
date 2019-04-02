@@ -19,7 +19,7 @@ Returns the DOM object of a specified frame in the Web browser control window ho
 
 ## Syntax
 
- _expression_. `WebBrowserControlFrame`( `_FrameName_` )
+_expression_. `WebBrowserControlFrame`( `_FrameName_` )
 
  _expression_ A variable that represents a [Window](./Project.Window.md) object.
 

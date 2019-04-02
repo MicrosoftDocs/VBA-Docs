@@ -16,7 +16,7 @@ Gets a  **[Period](Project.Period.md)** object representing a period of time in 
 
 ## Syntax
 
- _expression_. `Period`( `_Start_`, `_Finish_` )
+_expression_. `Period`( `_Start_`, `_Finish_` )
 
  _expression_ A variable that represents a [Calendar](./Project.Calendar.md) object.
 

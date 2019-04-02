@@ -16,7 +16,7 @@ Returns the number of minutes in a duration.
 
 ## Syntax
 
- _expression_. `DurationValue`( `_Duration_` )
+_expression_. `DurationValue`( `_Duration_` )
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

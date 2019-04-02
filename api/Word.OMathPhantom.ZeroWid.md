@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether the width of a phantom ob
 
 ## Syntax
 
- _expression_. `ZeroWid`
+_expression_. `ZeroWid`
 
  _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 

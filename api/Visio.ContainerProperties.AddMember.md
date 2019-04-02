@@ -19,7 +19,7 @@ Adds a shape or a set of shapes to the container.
 
 ## Syntax
 
- _expression_. `AddMember`( `_pObjectToAdd_` , `_addOptions_` )
+_expression_. `AddMember`( `_pObjectToAdd_` , `_addOptions_` )
 
  _expression_ A variable that represents a '[ContainerProperties](Visio.ContainerProperties.md)' object.
 

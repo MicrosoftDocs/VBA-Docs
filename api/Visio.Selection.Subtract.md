@@ -19,7 +19,7 @@ Subtracts the areas that overlap the selected shape.
 
 ## Syntax
 
- _expression_. `Subtract`
+_expression_. `Subtract`
 
  _expression_ A variable that represents a [Selection](./Visio.Selection.md) object.
 

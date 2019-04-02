@@ -19,7 +19,7 @@ Picks up all animation from the  **ShapeRange** object.
 
 ## Syntax
 
- _expression_. `PickupAnimation`
+_expression_. `PickupAnimation`
 
  _expression_ A variable that represents a [ShapeRange](./PowerPoint.ShapeRange.md) object.
 

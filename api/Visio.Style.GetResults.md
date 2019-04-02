@@ -19,7 +19,7 @@ Gets the results or formulas of many cells.
 
 ## Syntax
 
- _expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
+_expression_. `GetResults`( `_SRCStream()_` , `_Flags_` , `_UnitsNamesOrCodes()_` , `_resultArray()_` )
 
  _expression_ A variable that represents a [Style](./Visio.Style.md) object.
 

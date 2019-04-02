@@ -19,7 +19,7 @@ Returns or sets the 24-bit color to be used for diacritics in a right-to-left la
 
 ## Syntax
 
- _expression_. `DiacriticColorVal`
+_expression_. `DiacriticColorVal`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

@@ -19,7 +19,7 @@ Returns the time that is associated with the bookmark. Read-only.
 
 ## Syntax
 
- _expression_. `Position`
+_expression_. `Position`
 
  _expression_ A variable that represents a [MediaBookmark](./PowerPoint.MediaBookmark.md) object.
 

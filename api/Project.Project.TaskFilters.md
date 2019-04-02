@@ -16,7 +16,7 @@ Gets a  **[Filters](Project.Filter.md)** collection of the task filters in the p
 
 ## Syntax
 
- _expression_. `TaskFilters`
+_expression_. `TaskFilters`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

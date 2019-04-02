@@ -19,7 +19,7 @@ Resets the endnote separator to the default separator.
 
 ## Syntax
 
- _expression_. `ResetSeparator`
+_expression_. `ResetSeparator`
 
  _expression_ Required. A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 

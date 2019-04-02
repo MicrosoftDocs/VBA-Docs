@@ -19,7 +19,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `DisplayProjectSummaryTask`
+_expression_. `DisplayProjectSummaryTask`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

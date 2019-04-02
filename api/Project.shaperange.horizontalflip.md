@@ -12,7 +12,7 @@ Gets a value that indicates whether the shape range is flipped around the horizo
 
 ## Syntax
 
- _expression_. `HorizontalFlip`
+_expression_. `HorizontalFlip`
 
  _expression_ A variable that represents a 'ShapeRange' object.
 

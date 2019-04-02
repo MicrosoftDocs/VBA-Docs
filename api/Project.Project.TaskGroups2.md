@@ -16,7 +16,7 @@ Gets a  **[TaskGroups2](Project.taskgroups2(object).md)** collection that repres
 
 ## Syntax
 
- _expression_. `TaskGroups2`
+_expression_. `TaskGroups2`
 
  _expression_ An expression that returns a [Project](./Project(enumerations).md) object.
 

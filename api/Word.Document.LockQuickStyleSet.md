@@ -19,7 +19,7 @@ Returns or sets a  **Boolean** that represents whether users can change which se
 
 ## Syntax
 
- _expression_. `LockQuickStyleSet`
+_expression_. `LockQuickStyleSet`
 
  _expression_ An expression that returns a '[Document](Word.Document.md)' object.
 

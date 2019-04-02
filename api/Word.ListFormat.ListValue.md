@@ -19,7 +19,7 @@ Returns the numeric value of the first paragraph in the range for the specified 
 
 ## Syntax
 
- _expression_. `ListValue`
+_expression_. `ListValue`
 
  _expression_ An expression that returns a [ListFormat](./Word.ListFormat.md) object.
 

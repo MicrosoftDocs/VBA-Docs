@@ -19,7 +19,7 @@ Gets the version name of the project. Obsolete in Project. Read-only  **String**
 
 ## Syntax
 
- _expression_. `VersionName`
+_expression_. `VersionName`
 
  _expression_ A variable that represents a [Project](./Project(enumerations).md) object.
 

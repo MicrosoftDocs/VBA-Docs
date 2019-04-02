@@ -12,7 +12,7 @@ Saves a custom chart template to the list of available chart templates or to a f
 
 ## Syntax
 
- _expression_. `SaveChartTemplate` _(bstrFileName)_
+_expression_. `SaveChartTemplate` _(bstrFileName)_
 
  _expression_ A variable that represents a 'Chart' object.
 

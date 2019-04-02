@@ -17,7 +17,7 @@ The CommittedFinish property for the Engagement object. Introduced in Office 201
 
 ## Syntax
 
- _expression_. `CommittedFinish`
+_expression_. `CommittedFinish`
 
  _expression_ A variable that represents a 'Engagement' object.
 

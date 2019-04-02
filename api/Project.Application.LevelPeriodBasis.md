@@ -16,7 +16,7 @@ Gets or sets the period by which resources are checked for overallocations. Read
 
 ## Syntax
 
- _expression_. `LevelPeriodBasis`
+_expression_. `LevelPeriodBasis`
 
  _expression_ A variable that represents an [Application](./Project.Application.md) object.
 

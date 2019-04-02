@@ -19,7 +19,7 @@ Returns or sets the characters that cannot begin a line. Read/write.
 
 ## Syntax
 
- _expression_. `NoLineBreakBefore`
+_expression_. `NoLineBreakBefore`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

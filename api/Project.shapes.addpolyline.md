@@ -12,7 +12,7 @@ Creates an open polyline or a closed polygon drawing, and returns a  **Shape** o
 
 ## Syntax
 
- _expression_. `AddPolyline` _(SafeArrayOfPoints)_
+_expression_. `AddPolyline` _(SafeArrayOfPoints)_
 
  _expression_ A variable that represents a 'Shapes' object.
 

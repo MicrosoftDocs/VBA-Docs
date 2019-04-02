@@ -19,7 +19,7 @@ Returns a  **DocumentLibraryVersions** collection that represents the collection
 
 ## Syntax
 
- _expression_. `DocumentLibraryVersions`
+_expression_. `DocumentLibraryVersions`
 
  _expression_ A variable that represents a [Presentation](./PowerPoint.Presentation.md) object.
 

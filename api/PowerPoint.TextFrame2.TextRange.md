@@ -19,7 +19,7 @@ Returns a  **[TextRange2 Object (PowerPoint)](PowerPoint.textrange2.md)** object
 
 ## Syntax
 
- _expression_. `TextRange2`
+_expression_. `TextRange2`
 
  _expression_ An expression that returns a [TextFrame2](./PowerPoint.TextFrame2.md) object.
 

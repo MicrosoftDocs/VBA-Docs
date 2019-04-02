@@ -16,7 +16,7 @@ localization_priority: Normal
 
 ## Syntax
 
- _expression_. `Single`
+_expression_. `Single`
 
  _expression_ A variable that represents a [View](./Project.View.md) object.
 

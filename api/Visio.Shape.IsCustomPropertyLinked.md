@@ -22,7 +22,7 @@ Returns whether the shape data (custom property) row in the Shape Data section o
 
 ## Syntax
 
- _expression_. `IsCustomPropertyLinked`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
+_expression_. `IsCustomPropertyLinked`( `_DataRecordsetID_` , `_CustomPropertyIndex_` )
 
  _expression_ An expression that returns a [Shape](./Visio.Shape.md) object.
 

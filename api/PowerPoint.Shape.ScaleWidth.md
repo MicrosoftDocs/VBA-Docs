@@ -19,7 +19,7 @@ Scales the width of the shape by a specified factor. For pictures and OLE object
 
 ## Syntax
 
- _expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
+_expression_. `ScaleWidth`( `_Factor_`, `_RelativeToOriginalSize_`, `_fScale_` )
 
  _expression_ A variable that represents a [Shape](./PowerPoint.Shape.md) object.
 

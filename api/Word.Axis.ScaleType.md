@@ -19,7 +19,7 @@ Returns or sets the value axis scale type. Read/write  **[xlScaleType](Word.xlsc
 
 ## Syntax
 
- _expression_. `ScaleType`
+_expression_. `ScaleType`
 
  _expression_ A variable that represents an '[Axis](Word.Axis.md)' object.
 

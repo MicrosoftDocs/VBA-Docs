@@ -19,7 +19,7 @@ Gets the unique identifier of the  **[ValidationRuleSet](Visio.ValidationRuleSet
 
 ## Syntax
 
- _expression_. `ID`
+_expression_. `ID`
 
  _expression_ A variable that represents a [ValidationRuleSet](./Visio.ValidationRuleSet.md) object.
 

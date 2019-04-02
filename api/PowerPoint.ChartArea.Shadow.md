@@ -16,7 +16,7 @@ Returns or sets a value that determines whether the object has a shadow. Read/wr
 
 ## Syntax
 
- _expression_. `Shadow`
+_expression_. `Shadow`
 
 _expression_ A variable that represents a '[ChartArea](PowerPoint.ChartArea.md)' object.
 

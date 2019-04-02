@@ -19,7 +19,7 @@ Returns or sets the direction for conversion between Hangul and Hanja. Read/writ
 
 ## Syntax
 
- _expression_. `MultipleWordConversionsMode`
+_expression_. `MultipleWordConversionsMode`
 
  _expression_ Required. A variable that represents an '[Options](Word.Options.md)' collection.
 

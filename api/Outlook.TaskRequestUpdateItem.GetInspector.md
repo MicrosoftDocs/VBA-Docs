@@ -19,7 +19,7 @@ Returns an  **[Inspector](Outlook.Inspector.md)** object that represents an insp
 
 ## Syntax
 
- _expression_. `GetInspector`
+_expression_. `GetInspector`
 
 _expression_ A variable that represents a [TaskRequestUpdateItem](./Outlook.TaskRequestUpdateItem.md) object.
 

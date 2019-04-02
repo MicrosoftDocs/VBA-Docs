@@ -19,7 +19,7 @@ Sets or returns a  **String** that represents the name of the field in the mail 
 
 ## Syntax
 
- _expression_. `DataFieldName`
+_expression_. `DataFieldName`
 
  _expression_ An expression that returns a '[MappedDataField](Word.MappedDataField.md)' object.
 

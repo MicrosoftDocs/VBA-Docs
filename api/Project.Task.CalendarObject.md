@@ -16,7 +16,7 @@ Gets the Calendar object to be used when scheduling the task. Read-only  **Calen
 
 ## Syntax
 
- _expression_. `CalendarObject`
+_expression_. `CalendarObject`
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 
